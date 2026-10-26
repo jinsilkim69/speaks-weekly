@@ -1,0 +1,6 @@
+name = "speaks-weekly"
+compatibility_date = "2026-10-26"
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
