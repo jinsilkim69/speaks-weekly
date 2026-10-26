@@ -136,8 +136,19 @@ function renderMainMagazine() {
   // 5. 하단 잡지 호수 박스 (주간경향 1700호 박스 스타일)
   const issueBox = document.getElementById('issue-showcase-container');
   if (issueBox && heroArticle) {
-    const leftLinks = articles.slice(1, 4);
-    const rightLinks = articles.slice(4, 7);
+    const heroVisual = getArticleVisual(heroIdx);
+    const leftLinks = articles.slice(1, 4)
+      .map(
+        (a) =>
+          `<li><a href="javascript:void(0)" data-open-idx="${articles.indexOf(a)}"><strong>[${a.sectionTitle.split('·')[0]}]</strong> ${a.title}</a></li>`
+      )
+      .join('');
+    const rightLinks = articles.slice(4, 7)
+      .map(
+        (a) =>
+          `<li><a href="javascript:void(0)" data-open-idx="${articles.indexOf(a)}"><strong>[${a.sectionTitle.split('·')[0]}]</strong> ${a.title}</a></li>`
+      )
+      .join('');
 
     issueBox.innerHTML = `
       <div class="issue-showcase-header">
@@ -151,7 +162,7 @@ function renderMainMagazine() {
       <div class="issue-showcase-body">
         <div class="issue-cover-col">
           <img
-            src="https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=600&q=80"
+            src="${heroVisual.url}"
             alt="${meta.issueNumber} 표지"
             class="magazine-cover-img"
           />
@@ -219,8 +230,16 @@ function openArticleModal(articleIndex) {
     kickerEl.textContent = `${article.sectionTitle} (${article.pageRange || ''})`;
   }
 
-  // 유튜브 영상 연계 정보 및 QR
-  const clip = youtubeTopClips?.[articleIndex % (youtubeTopClips.length || 1)];
+  // 기사와 1:1 정확히 일치하는 유튜브 방송 클립 매핑 (엉뚱한 외교 발언 매칭 원천 차단!)
+  let clip = null;
+  if (articleIndex === 1) clip = youtubeTopClips?.[0]; // 스픽스 레이다 핫클립 (박지원x김종대)
+  else if (articleIndex === 6) clip = youtubeTopClips?.[0]; // Who Speaks 1 (박지원x김종대)
+  else if (articleIndex === 7) clip = youtubeTopClips?.[1]; // Who Speaks 2 (최강욱x이언주)
+  else if (articleIndex === 8) clip = youtubeTopClips?.[2]; // Who Speaks 3 (선재규x김준형)
+  else if (article.videoTimestamp && article.sourceType?.includes('YouTube')) {
+    clip = youtubeTopClips?.find((c) => c.timestamp === article.videoTimestamp) || null;
+  }
+
   const qrSvg = clip ? generateQrSvg(clip.videoUrl || 'https://www.youtube.com/@SPEAKS_TV', 120) : '';
   const visual = article.visual || getArticleVisual(articleIndex);
 
@@ -235,11 +254,11 @@ function openArticleModal(articleIndex) {
         <span>지면: <strong>${article.pageRange || 'p.01 ~ p.50'}</strong></span>
       </div>
 
-      <!-- 기사 내용과 1:1 매칭되는 대표 비주얼 및 보도 캡션 -->
+      <!-- 기사 내용과 1:1 매칭되는 정통 보도 비주얼 및 캡션 -->
       <div class="reader-lead-visual" style="margin:20px 0 24px;border-radius:8px;overflow:hidden;background:#000;box-shadow:0 4px 14px rgba(0,0,0,0.08);">
         <img src="${visual.url}" alt="${visual.topic}" style="width:100%;max-height:420px;object-fit:cover;display:block;" />
         <div style="padding:10px 14px;background:#f8f9fa;border-top:1px solid #e9ecef;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;font-size:12.5px;color:#495057;">
-          <span><strong style="color:#C8102E;">[현장 포커스]</strong> ${visual.caption}</span>
+          <span><strong style="color:#C8102E;">[포커스]</strong> ${visual.caption}</span>
           <span style="font-size:11px;color:#868e96;margin-left:8px;">출처: ${visual.credit}</span>
         </div>
       </div>
@@ -258,11 +277,24 @@ function openArticleModal(articleIndex) {
       }
 
       <div class="reader-body-text">
-        ${article.lead ? `<p class="reader-text-paragraph" style="font-weight:700;color:var(--ink-title);font-size:1.06em;line-height:1.8;background:#fdfcfb;padding:14px 18px;border-left:4px solid #C8102E;border-radius:0 4px 4px 0;">${article.lead}</p>` : ''}
+        ${article.lead ? `<div class="reader-text-lead" style="font-weight:700;color:#1A202C;font-size:1.06em;line-height:1.8;background:#F8FAFC;padding:16px 20px;border-left:4px solid #C8102E;border-radius:0 6px 6px 0;margin-bottom:24px;">${article.lead}</div>` : ''}
         ${
           article.bodyParagraphs && article.bodyParagraphs.length > 0
             ? article.bodyParagraphs
-                .map((p) => `<p class="reader-text-paragraph" style="line-height:1.85;margin-bottom:18px;">${p}</p>`)
+                .map((p) => {
+                  if (p.startsWith('## ')) {
+                    const lines = p.split('\n');
+                    const heading = lines[0].replace('## ', '');
+                    const content = lines.slice(1).join('<br/><br/>');
+                    return `
+                      <div class="reader-subchapter" style="margin:28px 0 16px;">
+                        <h3 style="font-size:18px;font-weight:900;color:#0F1E36;margin-bottom:12px;border-left:4px solid #2563EB;padding-left:12px;letter-spacing:-0.5px;">${heading}</h3>
+                        ${content ? `<p class="reader-text-paragraph" style="line-height:1.9;margin-bottom:16px;color:#334155;font-size:1.02em;">${content}</p>` : ''}
+                      </div>
+                    `;
+                  }
+                  return `<p class="reader-text-paragraph" style="line-height:1.9;margin-bottom:16px;color:#334155;font-size:1.02em;">${p}</p>`;
+                })
                 .join('')
             : '<p class="reader-text-paragraph">본문 내용이 준비 중입니다.</p>'
         }
