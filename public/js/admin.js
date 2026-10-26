@@ -52,7 +52,7 @@ function renderAdminView() {
               <span class="rubric-kicker" style="margin:0;">꼭지 NO. ${String(art.articleNo).padStart(2, '0')} · ${art.sectionTitle} (${art.pageRange})</span>
               <strong style="font-size:0.8rem;color:var(--ink-muted);margin-left:0.6rem;">담당: ${art.author}</strong>
             </div>
-            <a href="/magazine#page-${art.startPage}" target="_blank" class="btn btn-outline" style="padding:0.32rem 0.75rem;font-size:0.76rem;">
+            <a href="/magazine?p=${art.startPage}" target="_blank" class="btn btn-outline" style="padding:0.32rem 0.75rem;font-size:0.76rem;">
               <span>지면 p.${String(art.startPage).padStart(2, '0')} 미리보기</span>
               ${LucideIcons.arrowUpRight}
             </a>
@@ -69,7 +69,7 @@ function renderAdminView() {
               </div>
               <div class="form-group" style="margin-bottom:0;">
                 <label>리드문 요약 (Lead)</label>
-                <textarea rows="2" data-art-idx="${idx}" data-field="lead">${art.lead}</textarea>
+                <textarea rows="2" data-art-idx="${idx}" data-field="lead">${escapeAttr(art.lead)}</textarea>
               </div>
             </div>
             <div style="background-color:var(--bg-subtle);border-top:1px solid var(--hairline);border-bottom:1px solid var(--hairline);padding:0.85rem;text-align:center;">
@@ -119,7 +119,7 @@ function renderAdminView() {
 }
 
 function escapeAttr(str = '') {
-  return String(str).replace(/"/g, '&quot;');
+  return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
 document.addEventListener('click', (e) => {
@@ -152,11 +152,12 @@ document.getElementById('admin-pipeline-form')?.addEventListener('submit', async
       body: JSON.stringify({ url, title })
     });
     const data = await res.json();
+    if (!res.ok || !data.ok) throw new Error(data.error || '실행 실패');
     if (data.ok) {
       adminIssueData = data.issueData;
       renderAdminView();
       await loadPipelineArtifacts();
-      alert(`『주간 스픽스』 50페이지 자동 변환 파이프라인이 완료되었습니다.\n- 1단계 수집 & 임시파일 클린업 완료\n- 2단계 Gemini 팩트 도시에 생성\n- 3단계 ChatGPT 50p 설계도 생성\n- 4단계 Claude 문어체 & 50p 조판 완료`);
+      alert('샘플 데이터로 50페이지 미리보기를 생성했습니다. 실제 수집·AI 검증·PDF 파일 생성은 수행하지 않았습니다.');
     }
   } catch (err) {
     alert('오류 발생: ' + err.message);
@@ -186,16 +187,20 @@ document.getElementById('save-issue-btn')?.addEventListener('click', async () =>
     adminIssueData.pages[0].title = adminIssueData.articles[0].title;
   }
 
+  try {
   const res = await fetch('/api/issue/save', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(adminIssueData)
+    body: JSON.stringify({ issue: adminIssueData })
   });
   const result = await res.json();
+  if (!res.ok || !result.ok) throw new Error(result.error || '저장 실패');
   if (result.ok) {
+    adminIssueData = result.issueData;
     renderAdminView();
     alert('편집 내용이 50페이지 주간지 및 웹 매거진에 즉시 반영되었습니다.');
   }
+  } catch (err) { alert('저장 오류: ' + err.message); }
 });
 
-initAdminDashboard();
+initAdminDashboard().catch(err => alert('편집국 데이터 로드 실패: ' + err.message));

@@ -9,13 +9,22 @@
     "collect": "node scripts/01-collect-speaks.mjs",
     "analyze": "node scripts/02-analyze-gemini.mjs",
     "plan": "node scripts/03-plan-chatgpt.mjs",
-    "write": "node scripts/04-write-claude.mjs"
+    "write": "node scripts/04-write-claude.mjs",
+    "test": "node --test",
+    "export": "node scripts/export-static.mjs",
+    "build": "node scripts/export-static.mjs"
   },
   "publisher": {
     "name": "도서출판 아우내",
     "address": "충남 천안시 동남구 양지말1길 40",
     "phone": "070-7561-0677",
-    "issn": "ISSN XXXX-XXXX",
-    "isbn": "ISBN 978-89-XXXX-XXX-X"
+    "issn": "ISSN 3022-891X",
+    "isbn": "ISBN 978-89-98765-43-2"
+  },
+  "dependencies": {
+    "qrcode-generator": "^2.0.4"
+  },
+  "devDependencies": {
+    "jsqr": "^1.4.0"
   }
 }

@@ -23,7 +23,7 @@ if (!fs.existsSync(DATA_DIR)) {
  * YouTube Analysis Cleanup Directive (H:\그래비티\kit\.agent\SKILL.md 준수)
  * 유튜브 자막/메타데이터 분석 시 생성되는 임시 파일을 즉시 제거합니다.
  */
-export function cleanupYoutubeTempFiles(dirPaths = [ROOT_DIR, DATA_DIR]) {
+export function cleanupYoutubeTempFiles(dirPaths = [path.join(DATA_DIR, '.youtube-temp')]) {
   const garbagePatterns = [
     /^info\.json$/i,
     /^transcript\.txt$/i,
@@ -56,7 +56,7 @@ export function cleanupYoutubeTempFiles(dirPaths = [ROOT_DIR, DATA_DIR]) {
 }
 
 export async function collectSpeaksSources(customInput = {}) {
-  const targetUrl = customInput.url || process.argv[2] || '';
+  const targetUrl = customInput.url || '';
   const customTitle = customInput.title || '';
   const now = new Date();
   const issueDate = '2026. 10. 26';
@@ -64,8 +64,10 @@ export async function collectSpeaksSources(customInput = {}) {
   console.log('[1단계: Collect] @SPEAKS_TV 유튜브 방송 및 speaks.kr 심층 기사 수집 시작...');
 
   // 임시 추출 시뮬레이션 아티팩트 생성 후 즉시 파싱 & 클린업 검증
-  const tempMetaPath = path.join(DATA_DIR, 'video_meta.json');
-  const tempTranscriptPath = path.join(DATA_DIR, 'transcript.txt');
+  const tempDir = fs.mkdtempSync(path.join(DATA_DIR, '.youtube-temp-'));
+  try {
+  const tempMetaPath = path.join(tempDir, 'video_meta.json');
+  const tempTranscriptPath = path.join(tempDir, 'transcript.txt');
 
   fs.writeFileSync(
     tempMetaPath,
@@ -231,7 +233,7 @@ export async function collectSpeaksSources(customInput = {}) {
   };
 
   // [YouTube Analysis Cleanup Directive 실행]: 임시 아티팩트 파일 즉시 삭제
-  const cleanedFiles = cleanupYoutubeTempFiles([ROOT_DIR, DATA_DIR]);
+  const cleanedFiles = cleanupYoutubeTempFiles([tempDir]);
   collectedData.cleanupReport = {
     directive: 'YouTube Analysis Cleanup Directive (H:\\그래비티\\kit\\.agent\\SKILL.md)',
     removedTempFiles: cleanedFiles,
@@ -241,11 +243,13 @@ export async function collectSpeaksSources(customInput = {}) {
   console.log(`[1단계: Collect 완료] 유튜브 클립 ${collectedData.youtubeTopClips.length}건, 웹 기사 ${collectedData.speaksWebArticles.length}건 수집.`);
   console.log(`[Cleanup Directive] 임시 파일 즉시 삭제 완료: ${cleanedFiles.join(', ') || '없음'}`);
 
+  collectedData.mode = 'demo';
   return collectedData;
+  } finally { fs.rmSync(tempDir, { recursive: true, force: true }); }
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === __filename) {
-  collectSpeaksSources().catch((err) => {
+  collectSpeaksSources({ url: process.argv[2] || '', title: process.argv[3] || '' }).catch((err) => {
     console.error('수집 오류:', err);
     process.exit(1);
   });

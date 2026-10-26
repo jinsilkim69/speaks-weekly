@@ -513,7 +513,7 @@ function renderLiveFeed(feed) {
 
   const timeEl = document.getElementById('live-feed-updated-at');
   if (timeEl && feed.updatedAt) {
-    timeEl.textContent = `실시간 동기화: ${feed.updatedAt}`;
+    timeEl.textContent = feed.mode === 'demo' ? '샘플 피드 · 실시간 수집 미연결' : `실시간 동기화: ${feed.updatedAt}`;
   }
 
   const container = document.getElementById('daily-live-cards-container');

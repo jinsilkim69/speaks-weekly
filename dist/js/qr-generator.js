@@ -1,3 +1,4 @@
+import qrcode from './vendor/qrcode.mjs';
 /**
  * 『주간 스픽스 (SPEAKS WEEKLY)』 에디토리얼 비주얼 & 벡터 에셋 라이브러리 (public/js/qr-generator.js)
  * 50페이지 전 지면 및 14개 전 꼭지 1:1 완벽 매칭 비주얼 시스템
@@ -60,60 +61,44 @@ export const LucideIcons = {
 /**
  * 21x21 표준 규격 SVG QR 코드 생성
  */
-export function generateQrSvg(url = 'https://www.youtube.com/@SPEAKS_TV', size = 84, accentColor = '#0F1E36') {
-  const gridSize = 21;
-  const matrix = Array.from({ length: gridSize }, () => Array(gridSize).fill(false));
-  const reserved = Array.from({ length: gridSize }, () => Array(gridSize).fill(false));
+export function generateQrSvg(url = 'https://www.youtube.com/@SPEAKS_TV', size = 84) {
+  const qr = qrcode(0, 'M');
+  qr.addData(new URL(url).href);
+  qr.make();
+  return qr.createSvgTag({ cellSize: 2, margin: 8, scalable: true })
+    .replace('<svg ', '<svg width="' + Number(size) + '" height="' + Number(size) + '" ');
+}
 
-  function placeFinder(startX, startY) {
-    for (let r = 0; r < 7; r++) {
-      for (let c = 0; c < 7; c++) {
-        const isBorder = r === 0 || r === 6 || c === 0 || c === 6;
-        const isCenter = r >= 2 && r <= 4 && c >= 2 && c <= 4;
-        matrix[startX + r][startY + c] = isBorder || isCenter;
-        reserved[startX + r][startY + c] = true;
-      }
-    }
-  }
+export function escapeHtml(value = '') {
+  return String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
 
-  placeFinder(0, 0);
-  placeFinder(0, gridSize - 7);
-  placeFinder(gridSize - 7, 0);
+// 등록번호를 표시한다. 체크디지트 확인 없이 가짜 바코드를 생성하지 않는다.
+export function generateBarcodeSvg(issn, isbn, width = 240, height = 66) {
+  return '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 66" width="' + Number(width) + '" height="' + Number(height) + '"><text x="8" y="24" font-size="14">' + escapeHtml(issn) + '</text><text x="8" y="48" font-size="14">' + escapeHtml(isbn) + '</text></svg>';
+}
 
-  for (let i = 8; i < gridSize - 8; i++) {
-    reserved[6][i] = true;
-    reserved[i][6] = true;
-    matrix[6][i] = i % 2 === 0;
-    matrix[i][6] = i % 2 === 0;
-  }
+export function generatePollChartSvg(chart = {}) {
+  const labels = chart.labels || [];
+  const sets = chart.datasets || [];
+  const max = Math.max(1, ...sets.flatMap(s => s.data).filter(Number.isFinite));
+  const x = i => 60 + i * 490 / Math.max(1, labels.length - 1);
+  const y = v => 270 - Number(v) * 210 / max;
+  const colors = ['#D91E2A', '#0A1628', '#2563EB', '#947033'];
+  let body = '<text x="20" y="24" font-size="14">샘플 통계 · 실제 여론조사 아님</text>';
+  body += '<path d="M60 50V270H560" fill="none" stroke="#777"/>';
+  labels.forEach((label, i) => { body += '<text x="' + x(i) + '" y="292" text-anchor="middle" font-size="12">' + escapeHtml(label) + '</text>'; });
+  sets.forEach((set, j) => {
+    const color = colors[j % colors.length];
+    const points = set.data.map((v, i) => x(i) + ',' + y(v)).join(' ');
+    body += '<polyline points="' + points + '" fill="none" stroke="' + color + '" stroke-width="3"/>';
+    body += '<text x="60" y="' + (320 + j * 24) + '" fill="' + color + '" font-size="13">' + escapeHtml(set.label) + '</text>';
+    set.data.forEach((v, i) => { body += '<text x="' + x(i) + '" y="' + (y(v) - 6) + '" font-size="11">' + Number(v) + '</text>'; });
+  });
+  return '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 ' + (345 + sets.length * 24) + '" style="width:100%">' + body + '</svg>';
+}
 
-  let seed = hashString(url);
-  for (let r = 0; r < gridSize; r++) {
-    for (let c = 0; c < gridSize; c++) {
-      if (reserved[r][c]) continue;
-      seed = (seed * 1664525 + 1013904223 + r * 31 + c * 17) >>> 0;
-      const charBit = url.charCodeAt((r * gridSize + c) % url.length) & (1 << ((r + c) % 7));
-      matrix[r][c] = ((seed >>> 16) & 1) === 1 || Boolean(charBit);
-    }
-  }
-
-  const cellSize = size / gridSize;
-  let paths = '';
-  for (let r = 0; r < gridSize; r++) {
-    for (let c = 0; c < gridSize; c++) {
-      if (matrix[r][c]) {
-        const x = (c * cellSize).toFixed(2);
-        const y = (r * cellSize).toFixed(2);
-        const w = cellSize.toFixed(2);
-        const h = cellSize.toFixed(2);
-        paths += `<rect x="${x}" y="${y}" width="${w}" height="${h}" fill="${accentColor}" rx="0.5"/>`;
-      }
-    }
-  }
-
-  return `
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${size} ${size}" width="${size}" height="${size}" shape-rendering="crispEdges" style="background:#fff;border-radius:4px;padding:3px;box-shadow:0 1px 3px rgba(0,0,0,0.12);display:inline-block;">
-      ${paths}
-    </svg>
-  `.trim();
+export function generateWorldDiagramSvg() {
+  const names = ['미국 · 기술 공급망', '중국 · 원자재 교역', '유럽연합 · 규제 표준'];
+  return '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 280" style="width:100%"><text x="20" y="25" font-size="14">관계도 예시 · 검증 전</text>' + names.map((name, i) => '<rect x="20" y="' + (50 + i * 70) + '" width="230" height="45" fill="#eef1f5"/><text x="30" y="' + (79 + i * 70) + '" font-size="16">' + name + '</text><path d="M250 ' + (73 + i * 70) + ' L400 143" stroke="#687585"/>').join('') + '<rect x="400" y="118" width="190" height="50" fill="#0f1e36"/><text x="425" y="150" fill="white" font-size="18">대한민국 · 통상</text></svg>';
 }

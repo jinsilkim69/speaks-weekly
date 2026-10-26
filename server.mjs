@@ -10,7 +10,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { runFullPipeline } from './scripts/run-pipeline.mjs';
-import { cleanupYoutubeTempFiles } from './scripts/01-collect-speaks.mjs';
+import { validateIssue, synchronizePages, writeIssueAtomic } from './scripts/issue-storage.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -40,14 +40,20 @@ async function ensureIssueDataExists() {
 function readJsonBody(req) {
   return new Promise((resolve, reject) => {
     let body = '';
+    let bytes = 0;
     req.on('data', (chunk) => {
+      bytes += chunk.length;
+      if (bytes > 5 * 1024 * 1024) {
+        reject(Object.assign(new Error('요청 본문이 너무 큽니다.'), { statusCode: 413 }));
+        return;
+      }
       body += chunk;
     });
     req.on('end', () => {
       try {
         resolve(body ? JSON.parse(body) : {});
       } catch (err) {
-        reject(err);
+        reject(Object.assign(new Error('JSON 형식이 올바르지 않습니다.'), { statusCode: 400 }));
       }
     });
     req.on('error', reject);
@@ -60,6 +66,7 @@ function getDailyLiveFeed() {
   const timeStr = `${now.getFullYear()}.${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
 
   return {
+    mode: 'demo',
     updatedAt: `${timeStr} ${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')}`,
     channel: '@SPEAKS_TV',
     channelUrl: 'https://www.youtube.com/@SPEAKS_TV',
@@ -68,12 +75,12 @@ function getDailyLiveFeed() {
     items: [
       {
         id: 'live-01',
-        isLive: true,
+        isLive: false,
         program: '정치본색 라이브 속보',
         title: '[생방송] 2026 예산안 격돌과 사법 대전환: 여야 막전막후 긴급 해설',
         speaker: '전계완 대표 × 김완 기자',
         views: '실시간 2.4만 명 시청 중',
-        timeAgo: 'LIVE 진행 중',
+        timeAgo: '샘플 · 실시간 상태 미확인',
         videoId: 'v6awNopN5n4',
         videoUrl: 'https://www.youtube.com/watch?v=v6awNopN5n4',
         liveUrl: 'https://www.youtube.com/@SPEAKS_TV/live',
@@ -130,6 +137,9 @@ const server = http.createServer(async (req, res) => {
   try {
     const parsedUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
     const pathname = parsedUrl.pathname;
+    if (req.method === 'POST' && req.headers.origin && req.headers.origin !== parsedUrl.origin) {
+      res.writeHead(403); res.end('Cross-origin writes are forbidden'); return;
+    }
 
     // API: 주중 실시간 스픽스 라이브 & 핫클립 피드
     if (pathname === '/api/live-feed' && req.method === 'GET') {
@@ -165,6 +175,7 @@ const server = http.createServer(async (req, res) => {
     // API: Run 4-Step AI Pipeline
     if (pathname === '/api/pipeline/run' && req.method === 'POST') {
       const body = await readJsonBody(req);
+      if (!body || typeof body !== 'object' || (body.url !== undefined && typeof body.url !== 'string') || (body.title !== undefined && typeof body.title !== 'string')) throw Object.assign(new Error('잘못된 파이프라인 입력'), { statusCode: 400 });
       const result = await runFullPipeline({
         url: body.url || '',
         title: body.title || ''
@@ -177,18 +188,18 @@ const server = http.createServer(async (req, res) => {
     // API: Save Current Issue
     if (pathname === '/api/issue/save' && req.method === 'POST') {
       const body = await readJsonBody(req);
-      if (!body.issue) {
+      if (!body?.issue) {
         res.writeHead(400, { 'Content-Type': 'application/json; charset=utf-8' });
         res.end(JSON.stringify({ ok: false, error: 'Missing issue payload' }));
         return;
       }
-      fs.writeFileSync(
-        path.join(DATA_DIR, 'current_issue.json'),
-        JSON.stringify(body.issue, null, 2),
-        'utf-8'
-      );
+      validateIssue(body.issue);
+      const issuePath = path.join(DATA_DIR, 'current_issue.json');
+      const previous = JSON.parse(fs.readFileSync(issuePath, 'utf8'));
+      synchronizePages(previous, body.issue);
+      writeIssueAtomic(issuePath, body.issue);
       res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
-      res.end(JSON.stringify({ ok: true, message: 'Current issue updated' }));
+      res.end(JSON.stringify({ ok: true, issueData: body.issue, message: 'Current issue updated' }));
       return;
     }
 
@@ -201,8 +212,13 @@ const server = http.createServer(async (req, res) => {
     } else if (pathname === '/admin') {
       filePath = path.join(PUBLIC_DIR, 'admin.html');
     } else {
-      const safeRel = path.normalize(pathname).replace(/^(\.\.(\/|\\|$))+/, '');
-      filePath = path.join(PUBLIC_DIR, safeRel);
+      let decoded;
+      try { decoded = decodeURIComponent(pathname); } catch { res.writeHead(400); res.end(); return; }
+      filePath = path.resolve(PUBLIC_DIR, '.' + decoded);
+      const relative = path.relative(PUBLIC_DIR, filePath);
+      if (relative.startsWith('..') || path.isAbsolute(relative) || decoded.includes('\\') || decoded.includes('\0')) {
+        res.writeHead(403); res.end(); return;
+      }
     }
 
     if (filePath && fs.existsSync(filePath) && fs.statSync(filePath).isFile()) {
@@ -217,19 +233,20 @@ const server = http.createServer(async (req, res) => {
     res.end('404 Not Found - 주간 스픽스 (SPEAKS WEEKLY)');
   } catch (err) {
     console.error('Server error:', err);
-    res.writeHead(500, { 'Content-Type': 'application/json; charset=utf-8' });
+    res.writeHead(err.statusCode || 500, { 'Content-Type': 'application/json; charset=utf-8' });
     res.end(JSON.stringify({ ok: false, error: err.message }));
   }
 });
 
 ensureIssueDataExists().then(() => {
-  server.listen(PORT, () => {
+  server.listen(PORT, process.env.HOST || '127.0.0.1', () => {
+    const boundPort = server.address().port;
     console.log(`\n==================================================================`);
     console.log(`📘 『주간 스픽스 (SPEAKS WEEKLY)』 자동 출판 서버 가동 완료!`);
     console.log(`   - 발행·제작처: 도서출판 아우내 (충남 천안시 동남구 양지말1길 40)`);
-    console.log(`   - 반응형 웹 매거진 메인: http://localhost:${PORT}/`);
-    console.log(`   - 50페이지 A4 인쇄/PDF 뷰어: http://localhost:${PORT}/magazine`);
-    console.log(`   - 편집국 관리자 대시보드: http://localhost:${PORT}/admin`);
+    console.log(`   - 반응형 웹 매거진 메인: http://localhost:${boundPort}/`);
+    console.log(`   - 50페이지 A4 인쇄/PDF 뷰어: http://localhost:${boundPort}/magazine`);
+    console.log(`   - 편집국 관리자 대시보드: http://localhost:${boundPort}/admin`);
     console.log(`==================================================================\n`);
   });
-});
+}).catch(err => { console.error('서버 초기화 실패:', err); process.exitCode = 1; });

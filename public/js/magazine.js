@@ -7,7 +7,6 @@
 import {
   generateQrSvg,
   generateBarcodeSvg,
-  generateBroadcastStillHtml,
   generatePollChartSvg,
   generateWorldDiagramSvg,
   getEditorialPhoto,
@@ -18,7 +17,11 @@ let issueData = null;
 let currentPageIndex = 0; // 0 ~ 49
 const totalPages = 50;
 
-let fontScale = Number(localStorage.getItem('speaks-mag-font-scale') || 1.0);
+let fontScale = 1;
+try {
+  const storedScale = Number(localStorage.getItem('speaks-mag-font-scale') || 1);
+  if (Number.isFinite(storedScale)) fontScale = storedScale;
+} catch {}
 let zoomLevel = 1.0;
 let isSpreadMode = false;
 

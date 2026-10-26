@@ -1,5 +1,6 @@
 {
-  "updatedAt": "2026.10.26 20:16",
+  "mode": "demo",
+  "updatedAt": "2026.10.26 20:59",
   "channel": "@SPEAKS_TV",
   "channelUrl": "https://www.youtube.com/@SPEAKS_TV",
   "liveStreamUrl": "https://www.youtube.com/@SPEAKS_TV/live",
@@ -7,12 +8,12 @@
   "items": [
     {
       "id": "live-01",
-      "isLive": true,
+      "isLive": false,
       "program": "정치본색 라이브 속보",
       "title": "[생방송] 2026 예산안 격돌과 사법 대전환: 여야 막전막후 긴급 해설",
       "speaker": "전계완 대표 × 김완 기자",
       "views": "실시간 2.4만 명 시청 중",
-      "timeAgo": "LIVE 진행 중",
+      "timeAgo": "샘플 · 실시간 상태 미확인",
       "videoId": "v6awNopN5n4",
       "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
       "liveUrl": "https://www.youtube.com/@SPEAKS_TV/live",

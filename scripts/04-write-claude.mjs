@@ -314,6 +314,8 @@ export async function writeWithClaude(planResultInput = null) {
 
   const issueData = {
     meta: {
+      mode: 'demo',
+      notice: '고정 샘플입니다. 실제 수집·AI 분석·팩트 검증을 수행하지 않았습니다.',
       magazineTitle: blueprint.magazineTitle,
       subtitle: blueprint.subtitle,
       issueNumber: blueprint.issueNumber,

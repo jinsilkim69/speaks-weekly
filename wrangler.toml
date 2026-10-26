@@ -1,5 +1,8 @@
 name = "speaks-magazine"
 compatibility_date = "2026-10-26"
 
+[build]
+command = "npm run build"
+
 [assets]
 directory = "./dist"

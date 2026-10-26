@@ -25,7 +25,7 @@ export async function runFullPipeline(customInput = {}) {
     step: 1,
     name: '01-collect-speaks.mjs',
     role: 'YouTube (@SPEAKS_TV) & speaks.kr 자동 수집 + 임시파일 클린업',
-    status: 'COMPLETED',
+    status: 'DEMO_COMPLETED',
     detail: `유튜브 클립 ${collected.youtubeTopClips.length}건, 웹 기사 ${collected.speaksWebArticles.length}건 추출 완료 (임시파일 클린업: ${collected.cleanupReport.status})`
   });
 
@@ -35,7 +35,7 @@ export async function runFullPipeline(customInput = {}) {
     step: 2,
     name: '02-analyze-gemini.mjs',
     role: 'Gemini 구어체 추임새 제거 · 발언 타임스탬프 · 법안/통계 팩트체크',
-    status: 'COMPLETED',
+    status: 'DEMO_COMPLETED',
     detail: 'data/01_research_dossier.md 생성 완료'
   });
 
@@ -45,7 +45,7 @@ export async function runFullPipeline(customInput = {}) {
     step: 3,
     name: '03-plan-chatgpt.mjs',
     role: 'ChatGPT 50p 편성표 · Chart.js 여론차트 · 쟁점 비교표 · Mermaid 관계도 · QR 배치',
-    status: 'COMPLETED',
+    status: 'DEMO_COMPLETED',
     detail: 'data/02_issue_blueprint.json 생성 완료'
   });
 
@@ -55,7 +55,7 @@ export async function runFullPipeline(customInput = {}) {
     step: 4,
     name: '04-write-claude.mjs',
     role: 'Claude 정통 시사주간지 문어체 기사 · 일문일답(Q&A) 윤문 및 50p PDF 조판 컴파일',
-    status: 'COMPLETED',
+    status: 'DEMO_COMPLETED',
     detail: 'data/current_issue.json (총 50페이지, 14개 꼭지) 컴파일 완료'
   });
 
@@ -65,6 +65,7 @@ export async function runFullPipeline(customInput = {}) {
   const elapsedMs = Date.now() - startTime;
   return {
     ok: true,
+    mode: 'demo',
     elapsedMs,
     stepsLog,
     issueData: written.issueData

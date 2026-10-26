@@ -692,6 +692,8 @@ html, body {
    9. 인쇄 및 PDF 조판 (@media print)
    ========================================================================== */
 @media print {
+  body > [role="note"] { display: none !important; }
+  .mag-running-header::after { content: '샘플 · 검증 전'; font-size: 9px; }
   @page {
     size: A4 portrait;
     margin: 0;

@@ -17,6 +17,9 @@ const DIST_DIR = path.join(ROOT_DIR, 'dist');
 
 export async function exportStaticSite() {
   console.log('📦 [정적 배포] Cloudflare Pages / Vercel 무료 배포 패키징 시작...');
+  const currentIssuePath = path.join(DATA_DIR, 'current_issue.json');
+  if (!fs.existsSync(currentIssuePath)) throw new Error('발행 데이터가 없습니다. npm run pipeline을 먼저 실행하세요.');
+  JSON.parse(fs.readFileSync(currentIssuePath, 'utf8'));
 
   if (fs.existsSync(DIST_DIR)) {
     fs.rmSync(DIST_DIR, { recursive: true, force: true });
@@ -30,16 +33,28 @@ export async function exportStaticSite() {
   const apiDir = path.join(DIST_DIR, 'api');
   fs.mkdirSync(apiDir, { recursive: true });
 
-  const currentIssuePath = path.join(DATA_DIR, 'current_issue.json');
   if (fs.existsSync(currentIssuePath)) {
     fs.copyFileSync(currentIssuePath, path.join(apiDir, 'issue'));
     fs.copyFileSync(currentIssuePath, path.join(apiDir, 'issue.json'));
   }
+  const dossierPath = path.join(DATA_DIR, '01_research_dossier.md');
+  const blueprintPath = path.join(DATA_DIR, '02_issue_blueprint.json');
+  fs.writeFileSync(path.join(apiDir, 'artifacts'), JSON.stringify({
+    ok: true,
+    dossier: fs.existsSync(dossierPath) ? fs.readFileSync(dossierPath, 'utf8') : '',
+    blueprint: fs.existsSync(blueprintPath) ? JSON.parse(fs.readFileSync(blueprintPath, 'utf8')) : {}
+  }));
+  const adminPath = path.join(DIST_DIR, 'admin.html');
+  fs.writeFileSync(adminPath, fs.readFileSync(adminPath, 'utf8')
+    .replace('id="run-pipeline-btn"', 'id="run-pipeline-btn" disabled title="로컬 서버에서 실행하세요"')
+    .replace('id="save-issue-btn"', 'id="save-issue-btn" disabled title="로컬 서버에서 저장하세요"')
+    .replace('<body', '<body data-static="true"'));
 
   // 3. live-feed 데이터도 정적 생성 (유튜브 고화질 실제 방송 썸네일 & 영상 링크 연결)
   const now = new Date();
   const timeStr = `${now.getFullYear()}.${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
   const liveFeed = {
+    mode: 'demo',
     updatedAt: `${timeStr} ${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')}`,
     channel: '@SPEAKS_TV',
     channelUrl: 'https://www.youtube.com/@SPEAKS_TV',
@@ -48,12 +63,12 @@ export async function exportStaticSite() {
     items: [
       {
         id: 'live-01',
-        isLive: true,
+        isLive: false,
         program: '정치본색 라이브 속보',
         title: '[생방송] 2026 예산안 격돌과 사법 대전환: 여야 막전막후 긴급 해설',
         speaker: '전계완 대표 × 김완 기자',
         views: '실시간 2.4만 명 시청 중',
-        timeAgo: 'LIVE 진행 중',
+        timeAgo: '샘플 · 실시간 상태 미확인',
         videoId: 'v6awNopN5n4',
         videoUrl: 'https://www.youtube.com/watch?v=v6awNopN5n4',
         liveUrl: 'https://www.youtube.com/@SPEAKS_TV/live',

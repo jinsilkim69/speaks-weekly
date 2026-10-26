@@ -108,7 +108,8 @@
     }
   </style>
 </head>
-<body>
+<body data-static="true">
+  <div role="note" style="position:relative;z-index:10000;background:#fff3cd;color:#513d00;padding:8px 16px;font-size:13px;">샘플 미리보기: 기사·통계·인용·라이브 정보는 실제 수집 및 검증이 완료된 보도 자료가 아닙니다.</div>
   <!-- Top Crimson Ribbon -->
   <div class="economist-top-ribbon"></div>
 
@@ -163,7 +164,7 @@
           </div>
 
           <div style="display:flex;flex-direction:column;gap:0.6rem;margin-top:1.25rem;">
-            <button type="submit" id="run-pipeline-btn" class="btn btn-red" style="justify-content:center;padding:0.8rem;">
+            <button type="submit" id="run-pipeline-btn" disabled title="로컬 서버에서 실행하세요" class="btn btn-red" style="justify-content:center;padding:0.8rem;">
               <span>1~4단계 AI 자동 출판 파이프라인 가동</span>
             </button>
             <a href="/magazine?print=1" target="_blank" class="btn btn-navy" style="justify-content:center;padding:0.8rem;">
@@ -239,7 +240,7 @@
               <label for="edit-publish-date">발행 일자 표기</label>
               <input type="text" id="edit-publish-date" />
             </div>
-            <button id="save-issue-btn" class="btn btn-navy" style="padding:0.68rem 1.35rem;">
+            <button id="save-issue-btn" disabled title="로컬 서버에서 저장하세요" class="btn btn-navy" style="padding:0.68rem 1.35rem;">
               <span>편집 내용 즉시 저장 (50p 반영)</span>
             </button>
           </div>
