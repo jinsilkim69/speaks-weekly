@@ -11,6 +11,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { runFullPipeline } from './scripts/run-pipeline.mjs';
 import { validateIssue, synchronizePages, writeIssueAtomic } from './scripts/issue-storage.mjs';
+import { feedFromIssue } from './scripts/live-feed.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -62,6 +63,11 @@ function readJsonBody(req) {
 
 // 주중 실시간 스픽스 라이브 & 최신 영상 피드 데이터 생성
 function getDailyLiveFeed() {
+  const issuePath = path.join(DATA_DIR, 'current_issue.json');
+  if (fs.existsSync(issuePath)) {
+    const issue = JSON.parse(fs.readFileSync(issuePath, 'utf8'));
+    if (issue.meta.mode === 'agent-edited') return feedFromIssue(issue);
+  }
   const now = new Date();
   const timeStr = `${now.getFullYear()}.${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
 

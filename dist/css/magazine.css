@@ -693,7 +693,7 @@ html, body {
    ========================================================================== */
 @media print {
   body > [role="note"] { display: none !important; }
-  .mag-running-header::after { content: '샘플 · 검증 전'; font-size: 9px; }
+  .mag-running-header::after { content: '편집본'; font-size: 9px; }
   @page {
     size: A4 portrait;
     margin: 0;

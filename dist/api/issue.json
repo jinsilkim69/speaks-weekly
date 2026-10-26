@@ -2,13 +2,13 @@
   "meta": {
     "magazineTitle": "주간 스픽스 (SPEAKS WEEKLY)",
     "subtitle": "더 나은 세상을 만드는 정치·시사·문화 주간지",
-    "issueNumber": "제2026-44호 (통권 제148호)",
+    "issueNumber": "2026년 10월 26일 · 방송 분석 편집본",
     "publishDate": "2026. 10. 26",
     "totalPages": 50,
     "customSourceUrl": null,
     "customSourceTitle": null,
     "customSourceNote": "스픽스(@SPEAKS_TV) 주간 방송 & speaks.kr 심층 기사 통합 판본",
-    "compiledAt": "2026-10-26T11:12:54.259Z",
+    "compiledAt": "2026-10-26T12:17:55.562Z",
     "publisher": {
       "name": "도서출판 아우내",
       "address": "충남 천안시 동남구 양지말1길 40",
@@ -35,127 +35,1047 @@
       ],
       "status": "CLEANED_NO_GARBAGE_LEFT"
     },
-    "mode": "demo",
-    "notice": "고정 샘플입니다. 실제 수집·AI 분석·팩트 검증을 수행하지 않았습니다."
+    "mode": "agent-edited",
+    "notice": "실제 방송 1편에서 작성한 기사 3건 · 50페이지 편집 중. 자동 자막 기반이며 각 기사의 검증 범위를 확인하세요.",
+    "readyArticles": 3,
+    "sourceCount": 1
   },
-  "channelStats": {
-    "name": "스픽스 (@SPEAKS_TV)",
-    "url": "https://www.youtube.com/@SPEAKS_TV",
-    "webUrl": "https://www.speaks.kr/",
-    "subscribers": "153만 명",
-    "totalVideos": "4.2만 개",
-    "weeklyTotalViews": "1,482만 회",
-    "peakConcurrentViewers": "68,400명"
-  },
-  "youtubeTopClips": [
+  "articles": [
     {
-      "rank": 1,
-      "program": "정치본색 라이브",
-      "title": "“민생 회복 골든타임 90일, 초당적 추경과 사법개혁 동시 돌파한다”",
-      "videoId": "SPEAKS_HOT_01",
-      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=865s",
-      "timestamp": "14:25",
-      "timestampSec": 865,
-      "views": "124만 회",
-      "likes": "8.4만",
-      "comments": "6,820개",
-      "speaker": "박지원 의원 × 김종대 전 의원 특별대담",
-      "keyQuote": "“정치는 타이밍입니다. 자영업자 폐업이 쏟아지는 지금, 재정건전성 도그마에 갇혀 지갑을 닫는 것은 국가의 직무유기입니다.”",
-      "heatmapPeak": "14:25 ~ 17:40 (다시보기 집중도 98.4%)"
+      "id": "art-01",
+      "articleNo": 1,
+      "sectionId": "cover-intro",
+      "sectionTitle": "Cover & Intro",
+      "pageRange": "p.01 ~ 04",
+      "startPage": 1,
+      "endPage": 4,
+      "status": "pending",
+      "title": "취재·편집 대기",
+      "subtitle": "",
+      "lead": "",
+      "bodyParagraphs": [],
+      "author": "",
+      "sourceUrl": ""
     },
     {
-      "rank": 2,
-      "program": "스픽스 1234",
-      "title": "“수사·기소 완전 분리와 중수청 신설, 법사위 11월 시간표 전격 해부”",
-      "videoId": "SPEAKS_HOT_02",
-      "videoUrl": "https://www.youtube.com/watch?v=SPEAKS02&t=1720s",
-      "timestamp": "28:40",
-      "timestampSec": 1720,
-      "views": "98만 회",
-      "likes": "6.9만",
-      "comments": "5,140개",
-      "speaker": "최강욱 전 의원 × 이언주 의원",
-      "keyQuote": "“권력기관 개혁의 본질은 권한의 분산과 민주적 통제입니다. 검찰청 간판만 바꾸는 시늉으로는 국민을 설득할 수 없습니다.”",
-      "heatmapPeak": "28:40 ~ 31:15 (다시보기 집중도 95.1%)"
+      "id": "art-02",
+      "articleNo": 2,
+      "sectionId": "part-1",
+      "sectionTitle": "Part 1. 스픽스 레이다 (Weekly Hot)",
+      "pageRange": "p.05 ~ 07",
+      "startPage": 5,
+      "endPage": 7,
+      "status": "pending",
+      "title": "취재·편집 대기",
+      "subtitle": "",
+      "lead": "",
+      "bodyParagraphs": [],
+      "author": "",
+      "sourceUrl": ""
     },
     {
-      "rank": 3,
-      "program": "스픽스 특별 인터뷰",
-      "title": "“트럼프 2기 관세 폭풍과 반도체·배터리 공급망, 한국 외교의 생존 방정식”",
-      "videoId": "SPEAKS_HOT_03",
-      "videoUrl": "https://www.youtube.com/watch?v=SPEAKS03&t=2470s",
-      "timestamp": "41:10",
-      "timestampSec": 2470,
-      "views": "81만 회",
-      "likes": "5.2만",
-      "comments": "3,890개",
-      "speaker": "선재규 국제문제 대기자 × 김준형 의원",
-      "keyQuote": "“가치 외교라는 추상적 구호에서 벗어나 철저한 국익 중심의 실용 통상 외교로 판을 다시 짜야 할 시점입니다.”",
-      "heatmapPeak": "41:10 ~ 45:00 (다시보기 집중도 92.7%)"
+      "id": "art-03",
+      "articleNo": 3,
+      "sectionId": "part-1",
+      "sectionTitle": "Part 1. 스픽스 레이다 (Weekly Hot)",
+      "pageRange": "p.08 ~ 10",
+      "startPage": 8,
+      "endPage": 10,
+      "status": "pending",
+      "title": "취재·편집 대기",
+      "subtitle": "",
+      "lead": "",
+      "bodyParagraphs": [],
+      "author": "",
+      "sourceUrl": ""
     },
     {
-      "rank": 4,
-      "program": "경제본색 심층진단",
-      "title": "“가계부채 1,900조 시대와 금리 인하 딜레마, 서민 금융 방파제를 세워라”",
-      "videoId": "SPEAKS_HOT_04",
-      "videoUrl": "https://www.youtube.com/watch?v=SPEAKS04&t=1150s",
-      "timestamp": "19:10",
-      "timestampSec": 1150,
-      "views": "67만 회",
-      "likes": "4.3만",
-      "comments": "2,910개",
-      "speaker": "최배근 건국대 교수 × 전성인 홍익대 교수",
-      "keyQuote": "“부동산 PF 부실을 가계 대출로 떠넘기는 악순환을 끊지 못하면 내수 침체는 장기 복합 불황으로 전이됩니다.”",
-      "heatmapPeak": "19:10 ~ 22:30 (다시보기 집중도 90.5%)"
+      "id": "art-04",
+      "articleNo": 4,
+      "sectionId": "part-2",
+      "sectionTitle": "Part 2. 커버스토리 & 이슈 기획",
+      "pageRange": "p.11 ~ 14",
+      "startPage": 11,
+      "endPage": 14,
+      "slot": 3,
+      "sourceId": "Xid_HkqFA8U",
+      "title": "공천의 문을 누구에게 열 것인가 — 강성 지지층과 민심 사이",
+      "subtitle": "스픽스 ‘역전의용사들’, 공천의 민심 반영과 정치 신인의 활동 기회를 함께 묻다",
+      "lead": "정치인의 시선이 당내 경선에만 머물 때, 정당 밖 유권자의 목소리는 어디에서 반영되는가. 10월 26일 스픽스 ‘역전의용사들’에서 오창익 진행자와 장성철 출연자는 정치 유튜브의 영향력을 개인의 언행뿐 아니라 후보 선출 규칙의 문제로 확장해 논의했다. 대담에서 제시된 방향은 일반 국민의 의견을 더 반영하되, 인지도가 낮은 정치 신인에게도 경쟁할 기회를 열어야 한다는 것이었다.",
+      "bodyParagraphs": [
+        "## 경선의 유권자와 본선의 유권자\n대담은 특정 정치 방송이 당내 경쟁에 미치는 영향에서 출발한다. 장성철은 방송 출연이 정치인의 후원과 경선 경쟁에 도움이 될 수 있다는 견해를 제시했다. 이것은 출연자가 설명한 정치적 유인에 관한 해석이다. 개별 정치인의 후원금이나 방송 출연 효과를 독립 자료로 입증한 조사 결과로 읽어서는 안 된다. 이 기사에서는 확인되지 않은 사례나 금액을 옮기지 않고, 그가 제기한 제도적 질문에 초점을 맞췄다.",
+        "## 민심 반영 확대라는 제안\n12분 20초 이후 대담에서는 공천 규칙에 일반 국민의 의견을 더 반영하자는 주장이 나온다. 13분 43초 무렵에는 민심의 비중을 70~80%로 높이는 방안이 제시되고, 이어지는 문답에서 그 비율이 여론조사 등 일반 국민의 선택을 뜻한다는 점이 설명된다. 이 숫자는 현행 정당 규정이나 확정된 개정안이 아니라 방송에서 제시된 의견이다. 기사화 과정에서 제안과 시행 중인 제도를 구분해야 하는 이유가 여기에 있다.",
+        "## 인지도 경쟁에 갇히는 정치 신인\n진행자는 공천 절차를 더 공개하고 참여자를 늘리는 방안을 질문한다. 이에 대해 대담은 정치 신인이 짧은 시간에 이름을 알리기 어렵다는 문제로 이동한다. 일반 국민의 선택을 늘려도, 이미 널리 알려진 인물에게만 유리하다면 진입 장벽은 그대로 남을 수 있다는 취지다. 두 사람은 신인이 지역에서 활동하고 자신의 정책을 알릴 기회와 공천 방식의 변화를 함께 논의한다. 관련 선거법의 구체적 허용 범위는 이 방송만으로 확정하지 않았다.",
+        "## 규칙과 기회의 동시 개편\n이 대목의 핵심은 당원의 참여를 없애자는 단순한 결론에 있지 않다. 정당 내부의 선택이 국민 전체를 상대로 한 경쟁으로 이어지는 과정에서, 대표성과 개방성을 어떻게 함께 확보할지가 질문이다. 일반 국민의 의견을 반영하는 방식, 신인의 활동 기회, 현역과 도전자 사이의 정보 격차를 별개로 다룰 수 없다는 점이 대담에서 드러난다. 다만 어떤 방식이 더 나은 결과를 내는지는 추가 자료와 반론을 통해 검토할 사안이다."
+      ],
+      "evidence": [
+        {
+          "start": 740,
+          "end": 842,
+          "label": "공천 규칙과 민심 반영 비율 제안"
+        },
+        {
+          "start": 843,
+          "end": 931,
+          "label": "개방형 공천 질문과 정치 신인의 인지도 문제"
+        }
+      ],
+      "verificationNote": "한국어 자동 자막을 바탕으로 재구성한 방송 요약·분석입니다. 직접 인용은 사용하지 않았습니다. 제도·법률 및 출연자의 사례 설명은 독립 검증 전이며 발언 취지로만 전달합니다.",
+      "status": "ready",
+      "author": "주간 스픽스 · AI 편집",
+      "sourceType": "YouTube 한국어 자막 분석",
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=740s",
+      "videoUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=740s",
+      "sourceTitle": "[🔴본방송][역전의용사들] “대통령 욕하고 여직원에 의자 던진 자를 감싸나!” 장성철이 터뜨린 ‘조국 집회’와 팀김어준 충격 연관설_오창익 장성철 (1026)",
+      "visual": {
+        "url": "https://i.ytimg.com/vi/Xid_HkqFA8U/hqdefault.jpg",
+        "topic": "공천의 문을 누구에게 열 것인가 — 강성 지지층과 민심 사이",
+        "caption": "원본 방송 썸네일 · 스픽스",
+        "credit": "스픽스",
+        "videoId": "Xid_HkqFA8U",
+        "videoUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=740s"
+      },
+      "videoTimestamp": "12:20"
     },
     {
-      "rank": 5,
-      "program": "스픽스 쇼츠 레이다",
-      "title": "“국정감사장을 뒤흔든 60초 사이다 일갈, 증인석 침묵시킨 결정적 증거”",
-      "videoId": "SPEAKS_HOT_05",
-      "videoUrl": "https://www.youtube.com/watch?v=SPEAKS05&t=48s",
-      "timestamp": "00:48",
-      "timestampSec": 48,
-      "views": "162만 회 (Shorts)",
-      "likes": "14.2만",
-      "comments": "9,410개",
-      "speaker": "국회 법제사법위원회 종합감사 현장 클립",
-      "keyQuote": "“문서 기록은 거짓말을 하지 않습니다. 오후 3시 14분 접속 로그가 모든 진실을 말해주고 있습니다.”",
-      "heatmapPeak": "00:42 ~ 00:58 (반복 재생률 210%)"
+      "id": "art-05",
+      "articleNo": 5,
+      "sectionId": "part-2",
+      "sectionTitle": "Part 2. 커버스토리 & 이슈 기획",
+      "pageRange": "p.15 ~ 17",
+      "startPage": 15,
+      "endPage": 17,
+      "status": "pending",
+      "title": "취재·편집 대기",
+      "subtitle": "",
+      "lead": "",
+      "bodyParagraphs": [],
+      "author": "",
+      "sourceUrl": ""
+    },
+    {
+      "id": "art-06",
+      "articleNo": 6,
+      "sectionId": "part-2",
+      "sectionTitle": "Part 2. 커버스토리 & 이슈 기획",
+      "pageRange": "p.18 ~ 20",
+      "startPage": 18,
+      "endPage": 20,
+      "status": "pending",
+      "title": "취재·편집 대기",
+      "subtitle": "",
+      "lead": "",
+      "bodyParagraphs": [],
+      "author": "",
+      "sourceUrl": ""
+    },
+    {
+      "id": "art-07",
+      "articleNo": 7,
+      "sectionId": "part-3",
+      "sectionTitle": "Part 3. Who Speaks (지상 중계)",
+      "pageRange": "p.21 ~ 24",
+      "startPage": 21,
+      "endPage": 24,
+      "slot": 6,
+      "sourceId": "Xid_HkqFA8U",
+      "title": "적대의 정치를 바꾸는 조건, 대화인가 제도인가",
+      "subtitle": "‘역전의용사들’ 지상 중계 — 선거제와 권력 구조를 둘러싼 문답 재구성",
+      "lead": "정치인의 거친 말과 지지층의 적대감은 서로를 키우는가. 스픽스 ‘역전의용사들’ 대담 후반부는 말의 수위를 넘어, 협상을 필요하게 만드는 제도가 있는지를 묻는다. 아래 문답은 방송의 논점을 독자가 따라갈 수 있도록 압축한 것으로, 실제 발언을 그대로 옮긴 인용문은 아니다.",
+      "bodyParagraphs": [
+        "## 적대감은 어떻게 커지는가\n35분 7초 이후 대담에서는 정치 지도자들이 상대 진영을 적대시하고 존중하지 않는 태도가 지지자들의 적대감으로 이어질 수 있다는 우려가 제기된다. 방송은 정치인의 언어를 개인적 품격의 문제로만 보지 않는다. 상대를 경쟁자가 아닌 제거 대상으로 대할 때, 그 정치인을 지지하는 사람들도 같은 태도를 받아들일 수 있다는 설명이다. 이는 출연자의 정치 진단이며, 이 기사에서 별도로 측정한 인과관계는 아니다.",
+        "## 왜 선거제와 권력 구조를 꺼냈나\n35분 40초 무렵 대담은 중대선거구제와 내각제에 관한 제안으로 이어진다. 여러 정당이 공존하고 어느 한 당이 권력을 독점하기 어려워지면 연합과 협상이 필요해질 것이라는 논리다. 이 설명은 제도 변화의 기대 효과에 관한 주장이다. 해당 제도가 갈등을 반드시 줄인다는 검증 결과나 실행이 확정된 개편안으로 제시된 것은 아니다.",
+        "## 직접 선출의 경험이라는 다른 질문\n대화에서는 대통령을 국민이 직접 뽑는 경험이 갖는 의미도 함께 언급된다. 권력 구조를 바꾸자는 제안은 단순한 운영 효율의 문제만으로 끝나기 어렵다. 대표성을 어떻게 확보할지, 유권자가 권력에 책임을 물을 통로를 어떻게 설계할지에 관한 질문이 남는다. 방송의 두 논점을 나란히 읽으면, 타협의 필요성을 강조하는 것과 특정 제도 개편에 동의하는 것은 서로 다른 판단임을 알 수 있다.",
+        "## 독자가 확인할 지점\n이 기사는 제도 개편의 찬반을 확정하지 않는다. 방송이 던진 질문은 어떤 규칙이 정치인에게 협상할 이유를 만들어 주는가에 있다. 다음 취재에서는 제도별 책임성, 소수 정당의 대표성, 정부 구성의 안정성에 관한 자료와 반대 논거를 함께 살펴야 한다. 원문 구간 링크를 통해 대담의 흐름과 이 재구성 사이의 차이도 확인할 수 있다."
+      ],
+      "qaList": [
+        {
+          "q": "방송은 정치적 적대감의 원인을 어떻게 설명했나?",
+          "a": "정치 지도자가 상대를 존중하지 않는 언행이 지지층의 적대감을 강화할 수 있다는 우려가 제기됐다. 발언 취지를 압축한 문답이며 직접 인용은 아니다."
+        },
+        {
+          "q": "제도 개편 주장의 핵심은 무엇인가?",
+          "a": "한 정당의 독점이 어려운 구조에서 연합과 협상의 필요성이 커질 것이라는 견해다. 동시에 대통령 직접 선출의 경험과 대표성에 관한 질문도 대화에 등장했다."
+        }
+      ],
+      "evidence": [
+        {
+          "start": 2107,
+          "end": 2136,
+          "label": "정치 지도자의 언어와 적대감"
+        },
+        {
+          "start": 2140,
+          "end": 2195,
+          "label": "선거제·권력 구조 개편 및 직접 선출의 의미"
+        }
+      ],
+      "verificationNote": "자동 자막에 근거한 문답 재구성입니다. 실제 발언의 축어록이 아니며, 출연자의 제도 제안과 편집부의 추가 검토 과제를 구분했습니다.",
+      "status": "ready",
+      "author": "주간 스픽스 · AI 편집",
+      "sourceType": "YouTube 한국어 자막 분석",
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2107s",
+      "videoUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2107s",
+      "sourceTitle": "[🔴본방송][역전의용사들] “대통령 욕하고 여직원에 의자 던진 자를 감싸나!” 장성철이 터뜨린 ‘조국 집회’와 팀김어준 충격 연관설_오창익 장성철 (1026)",
+      "visual": {
+        "url": "https://i.ytimg.com/vi/Xid_HkqFA8U/hqdefault.jpg",
+        "topic": "적대의 정치를 바꾸는 조건, 대화인가 제도인가",
+        "caption": "원본 방송 썸네일 · 스픽스",
+        "credit": "스픽스",
+        "videoId": "Xid_HkqFA8U",
+        "videoUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2107s"
+      },
+      "videoTimestamp": "35:07"
+    },
+    {
+      "id": "art-08",
+      "articleNo": 8,
+      "sectionId": "part-3",
+      "sectionTitle": "Part 3. Who Speaks (지상 중계)",
+      "pageRange": "p.25 ~ 28",
+      "startPage": 25,
+      "endPage": 28,
+      "status": "pending",
+      "title": "취재·편집 대기",
+      "subtitle": "",
+      "lead": "",
+      "bodyParagraphs": [],
+      "author": "",
+      "sourceUrl": ""
+    },
+    {
+      "id": "art-09",
+      "articleNo": 9,
+      "sectionId": "part-3",
+      "sectionTitle": "Part 3. Who Speaks (지상 중계)",
+      "pageRange": "p.29 ~ 32",
+      "startPage": 29,
+      "endPage": 32,
+      "status": "pending",
+      "title": "취재·편집 대기",
+      "subtitle": "",
+      "lead": "",
+      "bodyParagraphs": [],
+      "author": "",
+      "sourceUrl": ""
+    },
+    {
+      "id": "art-10",
+      "articleNo": 10,
+      "sectionId": "part-4",
+      "sectionTitle": "Part 4. 오피니언 & 월드",
+      "pageRange": "p.33 ~ 36",
+      "startPage": 33,
+      "endPage": 36,
+      "slot": 9,
+      "sourceId": "Xid_HkqFA8U",
+      "title": "짧은 영상에 가려진 긴 노동 — 정책감사는 왜 잘 보이지 않나",
+      "subtitle": "스픽스 대담이 자문한 정치 보도의 선택과 주목의 기준",
+      "lead": "정치 뉴스에서 크게 보이는 장면이 반드시 가장 중요한 일인 것은 아니다. 10월 26일 스픽스 ‘역전의용사들’ 후반부에서 오창익과 장성철은 짧고 자극적인 정치 영상에 관심이 쏠리는 현상과, 정책감사를 준비하는 노동이 잘 드러나지 않는 문제를 함께 논의했다. 대담은 정치인의 태도와 함께 그것을 선택해 보여주는 미디어의 역할도 돌아봤다.",
+      "bodyParagraphs": [
+        "## 시끄러운 장면이 차지하는 자리\n43분대 대담에서는 정치인의 자극적인 발언과 짧은 영상이 서로 영향을 준다는 진단이 나온다. 출연자들은 자극적인 제목과 장면이 주목받는 현상을 이야기하면서 방송 매체 자신도 그 유인에서 자유롭지 않다는 취지의 언급을 한다. 이를 유튜브 전체나 모든 정치인의 행동을 입증하는 통계로 확대할 수는 없다. 다만 어떤 장면을 선택해 보여줄 것인지에 관한 제작자의 질문으로 읽을 수 있다.",
+        "## 질의서 뒤에 있는 과정\n44분 47초 이후 대화의 초점은 눈에 띄지 않는 정책감사로 옮겨간다. 자료를 읽고 쟁점을 찾고, 질문과 답변을 주고받고, 회의와 추가 취재를 거쳐 질의가 만들어진다는 설명이 이어진다. 대담에서 강조하는 것은 좋은 질문 하나가 즉석에서 나오지 않는다는 점이다. 이 과정의 길이와 수고는 짧은 영상 한 편에 담기는 시간과 일치하지 않는다.",
+        "## 자료를 얻기 위한 노동\n이어지는 구간에서는 자료를 확보하기 위해 기관을 직접 찾아갔다는 경험담이 소개된다. 여기서도 구체적 사실관계를 별도로 확인한 취재 기사와 방송에서 소개된 경험담을 구분할 필요가 있다. 이 기사에서 주목하는 대목은 자료 접근, 검토, 질문의 정교화라는 연속된 과정이다. 논쟁적인 한마디만 떼어 놓으면, 정책을 검증하는 데 필요한 이런 활동은 독자의 시야에서 사라지기 쉽다.",
+        "## 주간지가 남겨야 할 맥락\n46분대 대담은 중요한 정책 내용과 조회수를 얻기 쉬운 제목 사이의 간극을 다시 짚는다. 이 문제에 방송은 간단한 해법을 제시하지 않는다. 주간지 편집에서도 같은 질문이 남는다. 짧은 장면이 던진 관심을 출발점으로 삼되, 원래 질문과 답변의 맥락, 주장을 뒷받침하는 자료, 아직 확인하지 못한 부분을 독자에게 함께 보여줄 수 있는가. 이 기사는 그 구분을 유지하며 방송의 문제의식을 기록했다."
+      ],
+      "evidence": [
+        {
+          "start": 2612,
+          "end": 2678,
+          "label": "짧고 자극적인 정치 영상의 유인"
+        },
+        {
+          "start": 2687,
+          "end": 2742,
+          "label": "정책감사와 질의서 준비 과정"
+        },
+        {
+          "start": 2743,
+          "end": 2803,
+          "label": "자료 확보 경험과 보도의 딜레마"
+        }
+      ],
+      "verificationNote": "방송 자동 자막에 근거한 미디어 비평형 요약입니다. 출연자의 경험담은 독립 검증하지 않았으며, 확인되지 않은 수치와 인물 관련 의혹은 기사에 사용하지 않았습니다.",
+      "status": "ready",
+      "author": "주간 스픽스 · AI 편집",
+      "sourceType": "YouTube 한국어 자막 분석",
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2612s",
+      "videoUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2612s",
+      "sourceTitle": "[🔴본방송][역전의용사들] “대통령 욕하고 여직원에 의자 던진 자를 감싸나!” 장성철이 터뜨린 ‘조국 집회’와 팀김어준 충격 연관설_오창익 장성철 (1026)",
+      "visual": {
+        "url": "https://i.ytimg.com/vi/Xid_HkqFA8U/hqdefault.jpg",
+        "topic": "짧은 영상에 가려진 긴 노동 — 정책감사는 왜 잘 보이지 않나",
+        "caption": "원본 방송 썸네일 · 스픽스",
+        "credit": "스픽스",
+        "videoId": "Xid_HkqFA8U",
+        "videoUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2612s"
+      },
+      "videoTimestamp": "43:32"
+    },
+    {
+      "id": "art-11",
+      "articleNo": 11,
+      "sectionId": "part-4",
+      "sectionTitle": "Part 4. 오피니언 & 월드",
+      "pageRange": "p.37 ~ 40",
+      "startPage": 37,
+      "endPage": 40,
+      "status": "pending",
+      "title": "취재·편집 대기",
+      "subtitle": "",
+      "lead": "",
+      "bodyParagraphs": [],
+      "author": "",
+      "sourceUrl": ""
+    },
+    {
+      "id": "art-12",
+      "articleNo": 12,
+      "sectionId": "part-5",
+      "sectionTitle": "Part 5. 컬처·라이프 & 지방시대",
+      "pageRange": "p.41 ~ 44",
+      "startPage": 41,
+      "endPage": 44,
+      "status": "pending",
+      "title": "취재·편집 대기",
+      "subtitle": "",
+      "lead": "",
+      "bodyParagraphs": [],
+      "author": "",
+      "sourceUrl": ""
+    },
+    {
+      "id": "art-13",
+      "articleNo": 13,
+      "sectionId": "part-5",
+      "sectionTitle": "Part 5. 컬처·라이프 & 지방시대",
+      "pageRange": "p.45 ~ 47",
+      "startPage": 45,
+      "endPage": 47,
+      "status": "pending",
+      "title": "취재·편집 대기",
+      "subtitle": "",
+      "lead": "",
+      "bodyParagraphs": [],
+      "author": "",
+      "sourceUrl": ""
+    },
+    {
+      "id": "art-14",
+      "articleNo": 14,
+      "sectionId": "part-5",
+      "sectionTitle": "Part 5. 컬처·라이프 & 지방시대",
+      "pageRange": "p.48 ~ 50",
+      "startPage": 48,
+      "endPage": 50,
+      "status": "pending",
+      "title": "취재·편집 대기",
+      "subtitle": "",
+      "lead": "",
+      "bodyParagraphs": [],
+      "author": "",
+      "sourceUrl": ""
     }
   ],
-  "speaksWebArticles": [
+  "pages": [
     {
-      "section": "커버스토리 & 이슈/기획",
-      "category": "이재명 정부 / 국정 현안",
-      "title": "2026 대전환의 분수령: 민생 경제 대부흥과 권력기관 개혁 2대 로드맵 심층 해부",
-      "url": "https://www.speaks.kr/news/articleView.html?idxno=20261001",
-      "author": "스픽스 특별취재팀 (정치·경제 에디터 합동)",
-      "summary": "내수 진작을 위한 30조 원 규모 민생회복 프로젝트와 수사·기소 분리를 골자로 한 사법 시스템 개편안의 쟁점, 재원 조달 방안, 입법 시나리오를 입체 분석했다."
+      "pageNumber": 1,
+      "layoutType": "agent-page",
+      "sectionName": "Cover & Intro",
+      "title": "주간 스픽스",
+      "paragraphs": [
+        "2026년 10월 26일 · 방송 분석 편집본",
+        "실제 방송 1편에서 작성한 기사 3건 · 50페이지 편집 중. 자동 자막 기반이며 각 기사의 검증 범위를 확인하세요.",
+        "공천의 문을 누구에게 열 것인가 — 강성 지지층과 민심 사이",
+        "적대의 정치를 바꾸는 조건, 대화인가 제도인가",
+        "짧은 영상에 가려진 긴 노동 — 정책감사는 왜 잘 보이지 않나"
+      ]
     },
     {
-      "section": "오피니언 (성한용·단상)",
-      "category": "정치 칼럼",
-      "title": "[성한용의 정치 막전막후] 강성 지지층의 함정을 넘어 ‘중도·실용 연합 정치’로 가는 길",
-      "url": "https://www.speaks.kr/news/articleView.html?idxno=20261002",
-      "author": "성한용 객원칼럼니스트 (전 한겨레 선임기자)",
-      "summary": "정치 양극화의 피로감이 임계점에 달했다. 개혁의 동력은 구호의 선명성이 아니라 국민의 먹고사는 문제를 해결하는 유능함에서 나온다."
+      "pageNumber": 2,
+      "layoutType": "agent-page",
+      "sectionName": "Cover & Intro",
+      "title": "편집자의 말",
+      "paragraphs": [
+        "스픽스 실제 방송의 한국어 자막을 수집하고 내장 에이전트가 논점을 분석해 원고를 작성했습니다.",
+        "분석하지 않은 지면은 편집 대기로 표시합니다. 출연자의 주장은 사실 확인이 끝난 보도와 구분하며, 자동 자막의 한계와 추가 검증 사항을 기사마다 표시합니다."
+      ]
     },
     {
-      "section": "선재규의 월드이슈",
-      "category": "글로벌 정세",
-      "title": "[선재규의 월드이슈] 브릭스(BRICS+) 결제망 부상과 미·중 기술 패권 전쟁 2라운드",
-      "url": "https://www.speaks.kr/news/articleView.html?idxno=20261003",
-      "author": "선재규 국제문제 대기자",
-      "summary": "글로벌 사우스의 결집과 미국의 첨단 반도체 수출 통제 강화 속에서 한국 산업계가 마주한 지정학적 리스크와 다변화 전략을 관계도 다이어그램과 함께 짚는다."
+      "pageNumber": 3,
+      "layoutType": "agent-page",
+      "sectionName": "Cover & Intro",
+      "title": "이번 편집본 목차",
+      "paragraphs": [
+        "p.11 ~ 14 · 공천의 문을 누구에게 열 것인가 — 강성 지지층과 민심 사이",
+        "p.21 ~ 24 · 적대의 정치를 바꾸는 조건, 대화인가 제도인가",
+        "p.33 ~ 36 · 짧은 영상에 가려진 긴 노동 — 정책감사는 왜 잘 보이지 않나"
+      ]
     },
     {
-      "section": "SPEAKS' Choice & 지방정부",
-      "category": "컬처·라이프 / 지방시대",
-      "title": "독립정신의 숨결을 걷다: 천안 아우내 장터에서 만나는 가을 역사 기행 & 전국 지방자치 혁신 리포트",
-      "url": "https://www.speaks.kr/news/articleView.html?idxno=20261004",
-      "author": "스픽스 문화·자치 데스크",
-      "summary": "도서출판 아우내의 터전인 충남 천안 병천 아우내 장터와 유관순 열사 사적지 문화 화보, 그리고 전남 신안 햇빛연금·충남 농촌 돌봄 등 풀뿌리 지방자치 성공 사례와 금주의 인문 신간 서평을 담았다."
+      "pageNumber": 4,
+      "layoutType": "agent-page",
+      "sectionName": "Cover & Intro",
+      "title": "판권 및 출처",
+      "paragraphs": [
+        "도서출판 아우내",
+        "충남 천안시 동남구 양지말1길 40",
+        "070-7561-0677",
+        "ISSN 3022-891X",
+        "ISBN 978-89-98765-43-2",
+        "원천 미디어: 스픽스 유튜브 @SPEAKS_TV · speaks.kr",
+        "실제 방송 1편에서 작성한 기사 3건 · 50페이지 편집 중. 자동 자막 기반이며 각 기사의 검증 범위를 확인하세요."
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "layoutType": "agent-page",
+      "sectionName": "Part 1. 스픽스 레이다 (Weekly Hot)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "layoutType": "agent-page",
+      "sectionName": "Part 1. 스픽스 레이다 (Weekly Hot)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "layoutType": "agent-page",
+      "sectionName": "Part 1. 스픽스 레이다 (Weekly Hot)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "layoutType": "agent-page",
+      "sectionName": "Part 1. 스픽스 레이다 (Weekly Hot)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "layoutType": "agent-page",
+      "sectionName": "Part 1. 스픽스 레이다 (Weekly Hot)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "layoutType": "agent-page",
+      "sectionName": "Part 1. 스픽스 레이다 (Weekly Hot)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "layoutType": "agent-page",
+      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
+      "title": "공천의 문을 누구에게 열 것인가 — 강성 지지층과 민심 사이",
+      "subtitle": "스픽스 ‘역전의용사들’, 공천의 민심 반영과 정치 신인의 활동 기회를 함께 묻다",
+      "paragraphs": [
+        "정치인의 시선이 당내 경선에만 머물 때, 정당 밖 유권자의 목소리는 어디에서 반영되는가. 10월 26일 스픽스 ‘역전의용사들’에서 오창익 진행자와 장성철 출연자는 정치 유튜브의 영향력을 개인의 언행뿐 아니라 후보 선출 규칙의 문제로 확장해 논의했다. 대담에서 제시된 방향은 일반 국민의 의견을 더 반영하되, 인지도가 낮은 정치 신인에게도 경쟁할 기회를 열어야 한다는 것이었다.",
+        "## 경선의 유권자와 본선의 유권자\n대담은 특정 정치 방송이 당내 경쟁에 미치는 영향에서 출발한다. 장성철은 방송 출연이 정치인의 후원과 경선 경쟁에 도움이 될 수 있다는 견해를 제시했다. 이것은 출연자가 설명한 정치적 유인에 관한 해석이다. 개별 정치인의 후원금이나 방송 출연 효과를 독립 자료로 입증한 조사 결과로 읽어서는 안 된다. 이 기사에서는 확인되지 않은 사례나 금액을 옮기지 않고, 그가 제기한 제도적 질문에 초점을 맞췄다."
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=740s",
+      "evidence": [
+        {
+          "start": 740,
+          "end": 842,
+          "label": "공천 규칙과 민심 반영 비율 제안"
+        },
+        {
+          "start": 843,
+          "end": 931,
+          "label": "개방형 공천 질문과 정치 신인의 인지도 문제"
+        }
+      ],
+      "verificationNote": "한국어 자동 자막을 바탕으로 재구성한 방송 요약·분석입니다. 직접 인용은 사용하지 않았습니다. 제도·법률 및 출연자의 사례 설명은 독립 검증 전이며 발언 취지로만 전달합니다.",
+      "visual": {
+        "url": "https://i.ytimg.com/vi/Xid_HkqFA8U/hqdefault.jpg",
+        "topic": "공천의 문을 누구에게 열 것인가 — 강성 지지층과 민심 사이",
+        "caption": "원본 방송 썸네일 · 스픽스",
+        "credit": "스픽스",
+        "videoId": "Xid_HkqFA8U",
+        "videoUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=740s"
+      }
+    },
+    {
+      "pageNumber": 12,
+      "layoutType": "agent-page",
+      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
+      "title": "공천의 문을 누구에게 열 것인가 — 강성 지지층과 민심 사이",
+      "subtitle": "스픽스 ‘역전의용사들’, 공천의 민심 반영과 정치 신인의 활동 기회를 함께 묻다",
+      "paragraphs": [
+        "## 민심 반영 확대라는 제안\n12분 20초 이후 대담에서는 공천 규칙에 일반 국민의 의견을 더 반영하자는 주장이 나온다. 13분 43초 무렵에는 민심의 비중을 70~80%로 높이는 방안이 제시되고, 이어지는 문답에서 그 비율이 여론조사 등 일반 국민의 선택을 뜻한다는 점이 설명된다. 이 숫자는 현행 정당 규정이나 확정된 개정안이 아니라 방송에서 제시된 의견이다. 기사화 과정에서 제안과 시행 중인 제도를 구분해야 하는 이유가 여기에 있다."
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=740s",
+      "evidence": [
+        {
+          "start": 740,
+          "end": 842,
+          "label": "공천 규칙과 민심 반영 비율 제안"
+        },
+        {
+          "start": 843,
+          "end": 931,
+          "label": "개방형 공천 질문과 정치 신인의 인지도 문제"
+        }
+      ],
+      "verificationNote": "한국어 자동 자막을 바탕으로 재구성한 방송 요약·분석입니다. 직접 인용은 사용하지 않았습니다. 제도·법률 및 출연자의 사례 설명은 독립 검증 전이며 발언 취지로만 전달합니다.",
+      "visual": null
+    },
+    {
+      "pageNumber": 13,
+      "layoutType": "agent-page",
+      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
+      "title": "공천의 문을 누구에게 열 것인가 — 강성 지지층과 민심 사이",
+      "subtitle": "스픽스 ‘역전의용사들’, 공천의 민심 반영과 정치 신인의 활동 기회를 함께 묻다",
+      "paragraphs": [
+        "## 인지도 경쟁에 갇히는 정치 신인\n진행자는 공천 절차를 더 공개하고 참여자를 늘리는 방안을 질문한다. 이에 대해 대담은 정치 신인이 짧은 시간에 이름을 알리기 어렵다는 문제로 이동한다. 일반 국민의 선택을 늘려도, 이미 널리 알려진 인물에게만 유리하다면 진입 장벽은 그대로 남을 수 있다는 취지다. 두 사람은 신인이 지역에서 활동하고 자신의 정책을 알릴 기회와 공천 방식의 변화를 함께 논의한다. 관련 선거법의 구체적 허용 범위는 이 방송만으로 확정하지 않았다."
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=740s",
+      "evidence": [
+        {
+          "start": 740,
+          "end": 842,
+          "label": "공천 규칙과 민심 반영 비율 제안"
+        },
+        {
+          "start": 843,
+          "end": 931,
+          "label": "개방형 공천 질문과 정치 신인의 인지도 문제"
+        }
+      ],
+      "verificationNote": "한국어 자동 자막을 바탕으로 재구성한 방송 요약·분석입니다. 직접 인용은 사용하지 않았습니다. 제도·법률 및 출연자의 사례 설명은 독립 검증 전이며 발언 취지로만 전달합니다.",
+      "visual": null
+    },
+    {
+      "pageNumber": 14,
+      "layoutType": "agent-page",
+      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
+      "title": "공천의 문을 누구에게 열 것인가 — 강성 지지층과 민심 사이",
+      "subtitle": "스픽스 ‘역전의용사들’, 공천의 민심 반영과 정치 신인의 활동 기회를 함께 묻다",
+      "paragraphs": [
+        "## 규칙과 기회의 동시 개편\n이 대목의 핵심은 당원의 참여를 없애자는 단순한 결론에 있지 않다. 정당 내부의 선택이 국민 전체를 상대로 한 경쟁으로 이어지는 과정에서, 대표성과 개방성을 어떻게 함께 확보할지가 질문이다. 일반 국민의 의견을 반영하는 방식, 신인의 활동 기회, 현역과 도전자 사이의 정보 격차를 별개로 다룰 수 없다는 점이 대담에서 드러난다. 다만 어떤 방식이 더 나은 결과를 내는지는 추가 자료와 반론을 통해 검토할 사안이다."
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=740s",
+      "evidence": [
+        {
+          "start": 740,
+          "end": 842,
+          "label": "공천 규칙과 민심 반영 비율 제안"
+        },
+        {
+          "start": 843,
+          "end": 931,
+          "label": "개방형 공천 질문과 정치 신인의 인지도 문제"
+        }
+      ],
+      "verificationNote": "한국어 자동 자막을 바탕으로 재구성한 방송 요약·분석입니다. 직접 인용은 사용하지 않았습니다. 제도·법률 및 출연자의 사례 설명은 독립 검증 전이며 발언 취지로만 전달합니다.",
+      "visual": null
+    },
+    {
+      "pageNumber": 15,
+      "layoutType": "agent-page",
+      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 16,
+      "layoutType": "agent-page",
+      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 17,
+      "layoutType": "agent-page",
+      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 18,
+      "layoutType": "agent-page",
+      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 19,
+      "layoutType": "agent-page",
+      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 20,
+      "layoutType": "agent-page",
+      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 21,
+      "layoutType": "agent-page",
+      "sectionName": "Part 3. Who Speaks (지상 중계)",
+      "title": "적대의 정치를 바꾸는 조건, 대화인가 제도인가",
+      "subtitle": "‘역전의용사들’ 지상 중계 — 선거제와 권력 구조를 둘러싼 문답 재구성",
+      "paragraphs": [
+        "정치인의 거친 말과 지지층의 적대감은 서로를 키우는가. 스픽스 ‘역전의용사들’ 대담 후반부는 말의 수위를 넘어, 협상을 필요하게 만드는 제도가 있는지를 묻는다. 아래 문답은 방송의 논점을 독자가 따라갈 수 있도록 압축한 것으로, 실제 발언을 그대로 옮긴 인용문은 아니다.",
+        "## 적대감은 어떻게 커지는가\n35분 7초 이후 대담에서는 정치 지도자들이 상대 진영을 적대시하고 존중하지 않는 태도가 지지자들의 적대감으로 이어질 수 있다는 우려가 제기된다. 방송은 정치인의 언어를 개인적 품격의 문제로만 보지 않는다. 상대를 경쟁자가 아닌 제거 대상으로 대할 때, 그 정치인을 지지하는 사람들도 같은 태도를 받아들일 수 있다는 설명이다. 이는 출연자의 정치 진단이며, 이 기사에서 별도로 측정한 인과관계는 아니다."
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2107s",
+      "evidence": [
+        {
+          "start": 2107,
+          "end": 2136,
+          "label": "정치 지도자의 언어와 적대감"
+        },
+        {
+          "start": 2140,
+          "end": 2195,
+          "label": "선거제·권력 구조 개편 및 직접 선출의 의미"
+        }
+      ],
+      "verificationNote": "자동 자막에 근거한 문답 재구성입니다. 실제 발언의 축어록이 아니며, 출연자의 제도 제안과 편집부의 추가 검토 과제를 구분했습니다.",
+      "visual": {
+        "url": "https://i.ytimg.com/vi/Xid_HkqFA8U/hqdefault.jpg",
+        "topic": "적대의 정치를 바꾸는 조건, 대화인가 제도인가",
+        "caption": "원본 방송 썸네일 · 스픽스",
+        "credit": "스픽스",
+        "videoId": "Xid_HkqFA8U",
+        "videoUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2107s"
+      }
+    },
+    {
+      "pageNumber": 22,
+      "layoutType": "agent-page",
+      "sectionName": "Part 3. Who Speaks (지상 중계)",
+      "title": "적대의 정치를 바꾸는 조건, 대화인가 제도인가",
+      "subtitle": "‘역전의용사들’ 지상 중계 — 선거제와 권력 구조를 둘러싼 문답 재구성",
+      "paragraphs": [
+        "## 왜 선거제와 권력 구조를 꺼냈나\n35분 40초 무렵 대담은 중대선거구제와 내각제에 관한 제안으로 이어진다. 여러 정당이 공존하고 어느 한 당이 권력을 독점하기 어려워지면 연합과 협상이 필요해질 것이라는 논리다. 이 설명은 제도 변화의 기대 효과에 관한 주장이다. 해당 제도가 갈등을 반드시 줄인다는 검증 결과나 실행이 확정된 개편안으로 제시된 것은 아니다."
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2107s",
+      "evidence": [
+        {
+          "start": 2107,
+          "end": 2136,
+          "label": "정치 지도자의 언어와 적대감"
+        },
+        {
+          "start": 2140,
+          "end": 2195,
+          "label": "선거제·권력 구조 개편 및 직접 선출의 의미"
+        }
+      ],
+      "verificationNote": "자동 자막에 근거한 문답 재구성입니다. 실제 발언의 축어록이 아니며, 출연자의 제도 제안과 편집부의 추가 검토 과제를 구분했습니다.",
+      "visual": null
+    },
+    {
+      "pageNumber": 23,
+      "layoutType": "agent-page",
+      "sectionName": "Part 3. Who Speaks (지상 중계)",
+      "title": "적대의 정치를 바꾸는 조건, 대화인가 제도인가",
+      "subtitle": "‘역전의용사들’ 지상 중계 — 선거제와 권력 구조를 둘러싼 문답 재구성",
+      "paragraphs": [
+        "## 직접 선출의 경험이라는 다른 질문\n대화에서는 대통령을 국민이 직접 뽑는 경험이 갖는 의미도 함께 언급된다. 권력 구조를 바꾸자는 제안은 단순한 운영 효율의 문제만으로 끝나기 어렵다. 대표성을 어떻게 확보할지, 유권자가 권력에 책임을 물을 통로를 어떻게 설계할지에 관한 질문이 남는다. 방송의 두 논점을 나란히 읽으면, 타협의 필요성을 강조하는 것과 특정 제도 개편에 동의하는 것은 서로 다른 판단임을 알 수 있다."
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2107s",
+      "evidence": [
+        {
+          "start": 2107,
+          "end": 2136,
+          "label": "정치 지도자의 언어와 적대감"
+        },
+        {
+          "start": 2140,
+          "end": 2195,
+          "label": "선거제·권력 구조 개편 및 직접 선출의 의미"
+        }
+      ],
+      "verificationNote": "자동 자막에 근거한 문답 재구성입니다. 실제 발언의 축어록이 아니며, 출연자의 제도 제안과 편집부의 추가 검토 과제를 구분했습니다.",
+      "visual": null
+    },
+    {
+      "pageNumber": 24,
+      "layoutType": "agent-page",
+      "sectionName": "Part 3. Who Speaks (지상 중계)",
+      "title": "적대의 정치를 바꾸는 조건, 대화인가 제도인가",
+      "subtitle": "‘역전의용사들’ 지상 중계 — 선거제와 권력 구조를 둘러싼 문답 재구성",
+      "paragraphs": [
+        "## 독자가 확인할 지점\n이 기사는 제도 개편의 찬반을 확정하지 않는다. 방송이 던진 질문은 어떤 규칙이 정치인에게 협상할 이유를 만들어 주는가에 있다. 다음 취재에서는 제도별 책임성, 소수 정당의 대표성, 정부 구성의 안정성에 관한 자료와 반대 논거를 함께 살펴야 한다. 원문 구간 링크를 통해 대담의 흐름과 이 재구성 사이의 차이도 확인할 수 있다."
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2107s",
+      "evidence": [
+        {
+          "start": 2107,
+          "end": 2136,
+          "label": "정치 지도자의 언어와 적대감"
+        },
+        {
+          "start": 2140,
+          "end": 2195,
+          "label": "선거제·권력 구조 개편 및 직접 선출의 의미"
+        }
+      ],
+      "verificationNote": "자동 자막에 근거한 문답 재구성입니다. 실제 발언의 축어록이 아니며, 출연자의 제도 제안과 편집부의 추가 검토 과제를 구분했습니다.",
+      "visual": null
+    },
+    {
+      "pageNumber": 25,
+      "layoutType": "agent-page",
+      "sectionName": "Part 3. Who Speaks (지상 중계)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 26,
+      "layoutType": "agent-page",
+      "sectionName": "Part 3. Who Speaks (지상 중계)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 27,
+      "layoutType": "agent-page",
+      "sectionName": "Part 3. Who Speaks (지상 중계)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 28,
+      "layoutType": "agent-page",
+      "sectionName": "Part 3. Who Speaks (지상 중계)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 29,
+      "layoutType": "agent-page",
+      "sectionName": "Part 3. Who Speaks (지상 중계)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 30,
+      "layoutType": "agent-page",
+      "sectionName": "Part 3. Who Speaks (지상 중계)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 31,
+      "layoutType": "agent-page",
+      "sectionName": "Part 3. Who Speaks (지상 중계)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 32,
+      "layoutType": "agent-page",
+      "sectionName": "Part 3. Who Speaks (지상 중계)",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 33,
+      "layoutType": "agent-page",
+      "sectionName": "Part 4. 오피니언 & 월드",
+      "title": "짧은 영상에 가려진 긴 노동 — 정책감사는 왜 잘 보이지 않나",
+      "subtitle": "스픽스 대담이 자문한 정치 보도의 선택과 주목의 기준",
+      "paragraphs": [
+        "정치 뉴스에서 크게 보이는 장면이 반드시 가장 중요한 일인 것은 아니다. 10월 26일 스픽스 ‘역전의용사들’ 후반부에서 오창익과 장성철은 짧고 자극적인 정치 영상에 관심이 쏠리는 현상과, 정책감사를 준비하는 노동이 잘 드러나지 않는 문제를 함께 논의했다. 대담은 정치인의 태도와 함께 그것을 선택해 보여주는 미디어의 역할도 돌아봤다.",
+        "## 시끄러운 장면이 차지하는 자리\n43분대 대담에서는 정치인의 자극적인 발언과 짧은 영상이 서로 영향을 준다는 진단이 나온다. 출연자들은 자극적인 제목과 장면이 주목받는 현상을 이야기하면서 방송 매체 자신도 그 유인에서 자유롭지 않다는 취지의 언급을 한다. 이를 유튜브 전체나 모든 정치인의 행동을 입증하는 통계로 확대할 수는 없다. 다만 어떤 장면을 선택해 보여줄 것인지에 관한 제작자의 질문으로 읽을 수 있다."
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2612s",
+      "evidence": [
+        {
+          "start": 2612,
+          "end": 2678,
+          "label": "짧고 자극적인 정치 영상의 유인"
+        },
+        {
+          "start": 2687,
+          "end": 2742,
+          "label": "정책감사와 질의서 준비 과정"
+        },
+        {
+          "start": 2743,
+          "end": 2803,
+          "label": "자료 확보 경험과 보도의 딜레마"
+        }
+      ],
+      "verificationNote": "방송 자동 자막에 근거한 미디어 비평형 요약입니다. 출연자의 경험담은 독립 검증하지 않았으며, 확인되지 않은 수치와 인물 관련 의혹은 기사에 사용하지 않았습니다.",
+      "visual": {
+        "url": "https://i.ytimg.com/vi/Xid_HkqFA8U/hqdefault.jpg",
+        "topic": "짧은 영상에 가려진 긴 노동 — 정책감사는 왜 잘 보이지 않나",
+        "caption": "원본 방송 썸네일 · 스픽스",
+        "credit": "스픽스",
+        "videoId": "Xid_HkqFA8U",
+        "videoUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2612s"
+      }
+    },
+    {
+      "pageNumber": 34,
+      "layoutType": "agent-page",
+      "sectionName": "Part 4. 오피니언 & 월드",
+      "title": "짧은 영상에 가려진 긴 노동 — 정책감사는 왜 잘 보이지 않나",
+      "subtitle": "스픽스 대담이 자문한 정치 보도의 선택과 주목의 기준",
+      "paragraphs": [
+        "## 질의서 뒤에 있는 과정\n44분 47초 이후 대화의 초점은 눈에 띄지 않는 정책감사로 옮겨간다. 자료를 읽고 쟁점을 찾고, 질문과 답변을 주고받고, 회의와 추가 취재를 거쳐 질의가 만들어진다는 설명이 이어진다. 대담에서 강조하는 것은 좋은 질문 하나가 즉석에서 나오지 않는다는 점이다. 이 과정의 길이와 수고는 짧은 영상 한 편에 담기는 시간과 일치하지 않는다."
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2612s",
+      "evidence": [
+        {
+          "start": 2612,
+          "end": 2678,
+          "label": "짧고 자극적인 정치 영상의 유인"
+        },
+        {
+          "start": 2687,
+          "end": 2742,
+          "label": "정책감사와 질의서 준비 과정"
+        },
+        {
+          "start": 2743,
+          "end": 2803,
+          "label": "자료 확보 경험과 보도의 딜레마"
+        }
+      ],
+      "verificationNote": "방송 자동 자막에 근거한 미디어 비평형 요약입니다. 출연자의 경험담은 독립 검증하지 않았으며, 확인되지 않은 수치와 인물 관련 의혹은 기사에 사용하지 않았습니다.",
+      "visual": null
+    },
+    {
+      "pageNumber": 35,
+      "layoutType": "agent-page",
+      "sectionName": "Part 4. 오피니언 & 월드",
+      "title": "짧은 영상에 가려진 긴 노동 — 정책감사는 왜 잘 보이지 않나",
+      "subtitle": "스픽스 대담이 자문한 정치 보도의 선택과 주목의 기준",
+      "paragraphs": [
+        "## 자료를 얻기 위한 노동\n이어지는 구간에서는 자료를 확보하기 위해 기관을 직접 찾아갔다는 경험담이 소개된다. 여기서도 구체적 사실관계를 별도로 확인한 취재 기사와 방송에서 소개된 경험담을 구분할 필요가 있다. 이 기사에서 주목하는 대목은 자료 접근, 검토, 질문의 정교화라는 연속된 과정이다. 논쟁적인 한마디만 떼어 놓으면, 정책을 검증하는 데 필요한 이런 활동은 독자의 시야에서 사라지기 쉽다."
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2612s",
+      "evidence": [
+        {
+          "start": 2612,
+          "end": 2678,
+          "label": "짧고 자극적인 정치 영상의 유인"
+        },
+        {
+          "start": 2687,
+          "end": 2742,
+          "label": "정책감사와 질의서 준비 과정"
+        },
+        {
+          "start": 2743,
+          "end": 2803,
+          "label": "자료 확보 경험과 보도의 딜레마"
+        }
+      ],
+      "verificationNote": "방송 자동 자막에 근거한 미디어 비평형 요약입니다. 출연자의 경험담은 독립 검증하지 않았으며, 확인되지 않은 수치와 인물 관련 의혹은 기사에 사용하지 않았습니다.",
+      "visual": null
+    },
+    {
+      "pageNumber": 36,
+      "layoutType": "agent-page",
+      "sectionName": "Part 4. 오피니언 & 월드",
+      "title": "짧은 영상에 가려진 긴 노동 — 정책감사는 왜 잘 보이지 않나",
+      "subtitle": "스픽스 대담이 자문한 정치 보도의 선택과 주목의 기준",
+      "paragraphs": [
+        "## 주간지가 남겨야 할 맥락\n46분대 대담은 중요한 정책 내용과 조회수를 얻기 쉬운 제목 사이의 간극을 다시 짚는다. 이 문제에 방송은 간단한 해법을 제시하지 않는다. 주간지 편집에서도 같은 질문이 남는다. 짧은 장면이 던진 관심을 출발점으로 삼되, 원래 질문과 답변의 맥락, 주장을 뒷받침하는 자료, 아직 확인하지 못한 부분을 독자에게 함께 보여줄 수 있는가. 이 기사는 그 구분을 유지하며 방송의 문제의식을 기록했다."
+      ],
+      "sourceUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U&t=2612s",
+      "evidence": [
+        {
+          "start": 2612,
+          "end": 2678,
+          "label": "짧고 자극적인 정치 영상의 유인"
+        },
+        {
+          "start": 2687,
+          "end": 2742,
+          "label": "정책감사와 질의서 준비 과정"
+        },
+        {
+          "start": 2743,
+          "end": 2803,
+          "label": "자료 확보 경험과 보도의 딜레마"
+        }
+      ],
+      "verificationNote": "방송 자동 자막에 근거한 미디어 비평형 요약입니다. 출연자의 경험담은 독립 검증하지 않았으며, 확인되지 않은 수치와 인물 관련 의혹은 기사에 사용하지 않았습니다.",
+      "visual": null
+    },
+    {
+      "pageNumber": 37,
+      "layoutType": "agent-page",
+      "sectionName": "Part 4. 오피니언 & 월드",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 38,
+      "layoutType": "agent-page",
+      "sectionName": "Part 4. 오피니언 & 월드",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 39,
+      "layoutType": "agent-page",
+      "sectionName": "Part 4. 오피니언 & 월드",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 40,
+      "layoutType": "agent-page",
+      "sectionName": "Part 4. 오피니언 & 월드",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 41,
+      "layoutType": "agent-page",
+      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 42,
+      "layoutType": "agent-page",
+      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 43,
+      "layoutType": "agent-page",
+      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 44,
+      "layoutType": "agent-page",
+      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 45,
+      "layoutType": "agent-page",
+      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 46,
+      "layoutType": "agent-page",
+      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 47,
+      "layoutType": "agent-page",
+      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 48,
+      "layoutType": "agent-page",
+      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 49,
+      "layoutType": "agent-page",
+      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
+    },
+    {
+      "pageNumber": 50,
+      "layoutType": "agent-page",
+      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
+      "title": "취재·편집 대기",
+      "paragraphs": [
+        "이 지면은 실제 방송·기사 분석을 마친 뒤 채웁니다. 검증되지 않은 샘플 원고는 게재하지 않습니다."
+      ]
     }
   ],
   "sectionPlan": [
@@ -251,2282 +1171,26 @@
       ]
     }
   ],
-  "infographics": {
-    "pollChart": {
-      "chartType": "line_and_bar",
-      "title": "2026년 10월 주간 국정 현안 시급성 및 스픽스 시청자 여론 지표 추이",
-      "source": "스픽스 리서치 & 한국사회여론지표 종합 (표본오차 ±2.5%p, 95% 신뢰수준)",
-      "labels": [
-        "9월 4주",
-        "10월 1주",
-        "10월 2주",
-        "10월 3주",
-        "10월 4주(금주)"
-      ],
-      "datasets": [
-        {
-          "label": "민생 회복·추경 시급 응답률 (%)",
-          "data": [
-            36.2,
-            38.5,
-            40.1,
-            41.4,
-            42.8
-          ],
-          "color": "#D91E2A"
-        },
-        {
-          "label": "검찰·사법개혁 완수 응답률 (%)",
-          "data": [
-            22.1,
-            23,
-            23.8,
-            24.1,
-            24.6
-          ],
-          "color": "#0A1628"
-        },
-        {
-          "label": "반도체·AI 공급망 대책 (%)",
-          "data": [
-            18.4,
-            17.2,
-            16.5,
-            15.8,
-            15.2
-          ],
-          "color": "#2563EB"
-        },
-        {
-          "label": "지방균형발전·기본사회 (%)",
-          "data": [
-            11,
-            10.8,
-            11.2,
-            11.5,
-            12.4
-          ],
-          "color": "#C89D54"
-        }
-      ]
-    },
-    "issueComparisonTable": {
-      "caption": "2026 정기국회 4대 핵심 쟁점별 정부·여당 vs 개혁야당·시민사회 입장 비교",
-      "headers": [
-        "핵심 쟁점 분야",
-        "추진 측 (개혁 입법·민생 확장론)",
-        "신중·반대 측 (재정 건전성·속도 조절론)",
-        "스픽스 팩트체크 & 향후 전망"
-      ],
-      "rows": [
-        {
-          "issue": "30조 민생회복 추경 및 지역화폐 확대",
-          "pro": "자영업 폐업 위기 돌파를 위해 골목상권 직접 지원 및 지역사랑상품권 국비 의무 편성 즉시 단행 필요",
-          "con": "국채 발행에 따른 물가 자극 우려 및 선별적 취약계층 핀셋 지원 우선 원칙 고수",
-          "verdict": "11월 예산안 심사 최대 뇌관, 자영업 채무조정 결합형 절충안 부상"
-        },
-        {
-          "issue": "검찰 수사·기소 완전 분리 (중수청·기소청)",
-          "pro": "검찰의 직접수사권 폐지 및 중대범죄수사청 이관으로 표적수사 차단·인권 보호 확립",
-          "con": "부패·경제범죄 대응 역량 약화 우려 및 수사기관 간 관할권 조정 혼선 제기",
-          "verdict": "법사위 법안소위 병합 심사 돌입, 수사절차 준칙 명문화가 핵심 쟁점"
-        },
-        {
-          "issue": "대법관 증원 및 재판 지연 해소 방안",
-          "pro": "대법관 14명→24명 단계적 증원 및 하급심 판사 확충으로 상고심 적체 근본 해결",
-          "con": "전원합의체 운영 비효율성 우려 및 상고심사제·고등법원 상고부 대안 제시",
-          "verdict": "국민 재판청구권 보장 여론 압도적, 단계적 증원안 공론화 가속"
-        },
-        {
-          "issue": "초광역 메가시티 & 농어촌 기본소득 모델",
-          "pro": "신안 햇빛연금·바람연금 등 공유부 배당 모델 전국 확산 및 지방교부세율 상향",
-          "con": "지자체 재정 자립도 격차 심화 우려 및 중앙정부 매칭 예산 부담 가중 지적",
-          "verdict": "지방소멸 위험지수 상위 시·군 중심 시범특구 법안 초당적 발의"
-        }
-      ]
-    },
-    "worldIssueMermaid": "flowchart LR\n  US[\"미국 (보편관세·첨단반도체 통제)\"] -->|\"공급망 재편 압박\"| KR[\"대한민국 (실용 통상·기술 주권)\"]\n  CN[\"중국·BRICS+ (핵심광물·독자 결제망)\"] -->|\"원자재·시장 레버리지\"| KR\n  EU[\"유럽연합 (CBAM 탄소국경세·AI법)\"] -->|\"친환경·규제 표준\"| KR\n  KR -->|\"다자 외교·아세안/인도 시장 다변화\"| SOL[\"2026 한국형 생존 방정식\"]",
-    "qrCodePlacements": [
-      {
-        "qrId": "QR-SPEAKS-01",
-        "program": "정치본색 라이브",
-        "speaker": "박지원 의원 × 김종대 전 의원 특별대담",
-        "timestamp": "14:25",
-        "targetUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=865s",
-        "pageNumber": 21,
-        "caption": "스마트폰 카메라로 스캔하면 [정치본색 라이브] 14:25 발언 영상으로 즉시 이동합니다."
-      },
-      {
-        "qrId": "QR-SPEAKS-02",
-        "program": "스픽스 1234",
-        "speaker": "최강욱 전 의원 × 이언주 의원",
-        "timestamp": "28:40",
-        "targetUrl": "https://www.youtube.com/watch?v=SPEAKS02&t=1720s",
-        "pageNumber": 23,
-        "caption": "스마트폰 카메라로 스캔하면 [스픽스 1234] 28:40 발언 영상으로 즉시 이동합니다."
-      },
-      {
-        "qrId": "QR-SPEAKS-03",
-        "program": "스픽스 특별 인터뷰",
-        "speaker": "선재규 국제문제 대기자 × 김준형 의원",
-        "timestamp": "41:10",
-        "targetUrl": "https://www.youtube.com/watch?v=SPEAKS03&t=2470s",
-        "pageNumber": 25,
-        "caption": "스마트폰 카메라로 스캔하면 [스픽스 특별 인터뷰] 41:10 발언 영상으로 즉시 이동합니다."
-      },
-      {
-        "qrId": "QR-SPEAKS-04",
-        "program": "경제본색 심층진단",
-        "speaker": "최배근 건국대 교수 × 전성인 홍익대 교수",
-        "timestamp": "19:10",
-        "targetUrl": "https://www.youtube.com/watch?v=SPEAKS04&t=1150s",
-        "pageNumber": 27,
-        "caption": "스마트폰 카메라로 스캔하면 [경제본색 심층진단] 19:10 발언 영상으로 즉시 이동합니다."
-      },
-      {
-        "qrId": "QR-SPEAKS-05",
-        "program": "스픽스 쇼츠 레이다",
-        "speaker": "국회 법제사법위원회 종합감사 현장 클립",
-        "timestamp": "00:48",
-        "targetUrl": "https://www.youtube.com/watch?v=SPEAKS05&t=48s",
-        "pageNumber": 29,
-        "caption": "스마트폰 카메라로 스캔하면 [스픽스 쇼츠 레이다] 00:48 발언 영상으로 즉시 이동합니다."
-      }
-    ]
+  "channelStats": {
+    "name": "스픽스",
+    "url": "https://www.youtube.com/@SPEAKS_TV"
   },
-  "articles": [
-    {
-      "id": "art-01",
-      "articleNo": 1,
-      "sectionId": "cover-intro",
-      "sectionTitle": "Cover & Intro",
-      "pageRange": "p.01 ~ 04",
-      "startPage": 1,
-      "endPage": 4,
-      "kicker": "COVER & PUBLISHER LETTER · 창간 선언 (p.01 ~ 04)",
-      "title": "민생 회복 골든타임과 사법 대전환의 분수령",
-      "subtitle": "왜 지금 50페이지 활자 주간지인가 — 유튜브의 휘발성을 넘어 역사의 사초(史草)를 남기다",
-      "author": "발행인 이진실 (도서출판 아우내 대표) · 스픽스 편집위원회",
-      "sourceType": "Cover & Intro",
-      "sourceUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A",
-      "lead": "초단위로 소비되고 사라지는 디지털 알고리즘의 거대한 소용돌이 속에서, 우리는 왜 50페이지 종이와 활자의 단단한 질감으로 되돌아오는가. 구독자 153만 명의 대한민국 대표 시사 유튜브 ‘스픽스(@SPEAKS_TV)’와 1919년 4월 1일 아우내 장터의 불굴의 독립 정신을 활자에 담아온 ‘도서출판 아우내’가 손을 잡고 정통 시사·문화 주간지 『주간 스픽스(SPEAKS WEEKLY)』를 세상에 내놓습니다.",
-      "bodyParagraphs": [
-        "## [1장] 디지털 영상 공론장의 역동성과 휘발성의 한계\n매일같이 쏟아지는 시사 유튜브 방송은 기성 레거시 미디어가 침묵하거나 외면했던 권력의 추악한 이면과 민초들의 날것 그대로의 분노를 가감 없이 전파하며 거대한 공론장을 형성했습니다. 동시접속자 6만 명이 넘는 실시간 채팅창은 시민들이 직접 입법을 촉구하고 부당한 권력 남용을 질타하는 가장 뜨거운 직접민주주의의 광장이 되었습니다. 그러나 빛의 속도로 흘러가는 영상 언어는 쉽게 휘발되고, 알고리즘의 자극적인 썸네일 뒤편에 숨은 본질적인 정책의 구조적 맥락과 거시경제적 진실은 종종 망각되곤 합니다. “우리가 방송에서 외쳤던 저 뜨거운 개혁의 당위와 울분은 과연 어디에 기록되고 있는가?” 『주간 스픽스』의 출발점은 바로 이 뼈아픈 자문(自問)이었습니다.",
-        "## [2장] 1919년 천안 아우내의 횃불과 도서출판 아우내의 출판 철학\n충남 천안시 동남구 병천면 아우내 장터는 일제의 총칼 앞에서도 물러서지 않고 대한의 자주독립과 만인의 평등을 외쳤던 민중의 거룩한 성지입니다. 107년 전 그날, 열일곱 살 소녀 유관순 열사와 3천여 군중이 외쳤던 함성은 단순한 분노의 표출이 아니라 억압받던 주권자 스스로가 역사의 주인이 되겠다는 선언이었습니다. 그 정신을 활자에 담아온 ‘도서출판 아우내’는 충남 천안시 동남구 양지말1길 40에 터를 잡고, 정기간행물 등록(ISSN 3022-891X)과 전자책 출판(ISBN 978-89-98765-43-2)을 완료하여 매주 월요일 역사의 사초(史草)를 편찬하는 주간지 발행 체제를 완성했습니다.",
-        "## [3장] AI 멀티 에이전트와 인간 기자의 교차 검증 시스템\n『주간 스픽스』는 첨단 인공지능 기술과 정통 저널리즘의 장인정신이 결합된 혁신적 미디어입니다. 1시간 분량의 유튜브 생방송 대담에서 구어체 추임새를 정밀하게 걷어내고, 출연진이 제시한 핵심 논거를 국회예산정책처(NABO)의 재정 분석 보고서, 법원조직법 및 형사소송법 개정 조항, 한국은행의 최신 가계신용 통계와 일대일로 대조 검증합니다. 기계적 중립성에 숨지 않고, 데이터와 팩트에 기반하여 권력의 독선과 관료주의의 나태함을 가차 없이 비판하는 탐사보도의 원칙을 고수합니다.",
-        "## [4장] 활자와 영상이 공존하는 하이브리드 입체 매거진의 새 지평\n본지는 아날로그 활자와 디지털 영상이 유기적으로 호흡하는 새로운 매체적 실험입니다. 지면 곳곳에 정교하게 배치된 타임스탬프 QR 코드를 스마트폰 카메라로 스캔하면, 해당 기사의 결정적 주장이 터져 나온 생방송 대담 구간으로 즉시 이동합니다. 출퇴근길에는 50페이지 지면을 통해 행간의 깊은 맥락을 사유하고, 주말에는 스마트폰으로 출연진의 생생한 표정과 음성을 다시 확인하는 ‘읽고 보는 입체 저널리즘’을 독자 여러분께 선사합니다. 시대의 불의에 침묵하지 않고, 더 나은 세상을 향한 대안을 제시하는 지성의 나침반이 될 것을 약속드립니다."
-      ],
-      "visual": {
-        "videoId": "-fkjQt4-l4A",
-        "url": "https://img.youtube.com/vi/-fkjQt4-l4A/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A",
-        "topic": "이재명을 울린 전계완의 질문! 대선후보 특별 인터뷰",
-        "caption": "153만 시민의 공론장 스픽스와 천안 도서출판 아우내의 출판정신이 결합된 창간 대담.",
-        "credit": "스픽스(@SPEAKS_TV) 특별대담"
-      },
-      "videoId": "-fkjQt4-l4A",
-      "videoUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A"
-    },
-    {
-      "id": "art-02",
-      "articleNo": 2,
-      "sectionId": "part-1",
-      "sectionTitle": "Part 1. 스픽스 레이다 (Weekly Hot)",
-      "pageRange": "p.05 ~ 07",
-      "startPage": 5,
-      "endPage": 7,
-      "kicker": "WEEKLY HOT CLIPS TOP 5 · 스픽스 레이다 (p.05 ~ 07)",
-      "title": "1,482만 뷰가 폭발한 금주의 결정적 발언록: 민생 추경에서 사법개혁까지",
-      "subtitle": "유튜브 @SPEAKS_TV 주간 급상승 클립 & 쇼츠 Top 5 하이라이트 및 행간의 정치역학 심층 해부",
-      "author": "스픽스 디지털 데이터랩 & 정치부 공동취재팀",
-      "sourceType": "YouTube @SPEAKS_TV",
-      "sourceUrl": "https://www.youtube.com/watch?v=EGM-TWO0gio",
-      "videoTimestamp": "14:25",
-      "lead": "지난 한 주간 유튜브 채널 @SPEAKS_TV 시청자들의 시선이 가장 집중된 순간은 어디였을까. 단일 방송 클립 조회수 124만 회를 기록한 〈정치본색〉 특별대담부터 162만 뷰 쇼츠 신화를 쓴 국회 법사위 종합감사 현장까지, 1,482만 건의 누적 조회수가 증명한 민심의 5대 핵심 발언과 그 행간에 숨겨진 여의도 정치권의 물밑 셈법을 입체적으로 분석했다.",
-      "bodyParagraphs": [
-        "## [클립 1위 · 14분 25초] 박지원 의원의 일갈: “곳간 쥐고 국민 굶기는 관료주의는 국가의 직무유기”\n금주 최고 화제 클립인 〈정치본색〉 박지원 의원 대담(시청자 다시보기 집중도 98.4%)에서는 30조 민생추경 편성을 둘러싼 여야 공방이 집중 조명되었다. 박 의원은 “선거 때 표를 얻으려고 돈을 푸는 게 포퓰리즘이지, 물가 폭등과 고금리에 목이 졸려 죽어가는 소상공인에게 인공호흡기를 달아주는 게 어떻게 포퓰리즘인가”라며 재정 당국의 전향적 태도 변화를 촉구했다. 특히 주말마다 전통시장을 돌며 만난 50대 음식점 대표의 폐업 위기를 전하는 대목에서는 실시간 채팅창에 3,200여 건의 공감 댓글이 쏟아지며 조회수 124만 회를 돌파했다.",
-        "## [클립 2위 · 28분 40초] 김종대 전 의원의 일침: “이념의 안경을 벗고 국익의 계산기를 두드려라”\n〈스픽스 1234〉 김종대 전 의원의 군사안보·통상 진단(조회수 98만 회)에서는 미국의 보편 관세 장벽과 대중국 디리스킹 압박에 대응하는 한국의 실용 외교 노선이 제시되었다. 김 전 의원은 “미국조차 자국의 상업적 이익을 위해 중국과 물밑 통상 협상을 벌이는 판국에, 우리만 경직된 진영 논리에 갇혀 스스로 외교적 선택지를 지우는 것은 자해 행위”라고 질타했다. 반도체 메가클러스터의 공급망 주권 확보와 서남해안 에너지 고속도로 구축이 분리될 수 없다는 날카로운 지적은 경제계 시청자들의 큰 호응을 얻었다.",
-        "## [쇼츠 1위 · 00분 48초] 최강욱 전 의원의 60초 법리 정리: “수사·기소 분리는 사법 선진국의 100년 상식”\n스픽스 쇼츠 부문에서 162만 뷰를 기록한 국회 법제사법위원회 종합감사 명장면은 디지털 로그 기록과 비교법적 데이터로 검찰의 직접수사 독점 논리를 해체한 장면이었다. 최 전 의원은 “선진 민주주의 국가 어디에서도 수사 개시권, 영장 청구권, 기소권, 형 집행권을 한 기관이 독점하는 사례는 없다”며, 중대범죄수사청 신설과 공소청 전환이 헌법상 적법절차 원리를 구현하는 유일한 길임을 조목조목 짚었다.",
-        "## [클립 3위 · 41분 10초] 이언주 의원의 절규: “대법관 24인 증원, 재판 지연으로 기업과 시민 도산 막아야”\n〈특별기획 직설〉에서 제기된 사법부 개혁안은 만성적 재판 지연으로 고통받는 일반 국민의 절규를 대변했다. 이 의원은 “1심부터 대법원 판결까지 5년이 걸린다면 이미 승소 판결을 받더라도 중소기업은 파산하고 개인의 삶은 피폐해진 뒤”라며, 대법관 14인 체제의 폐쇄적 엘리트 카르텔을 깨고 24인으로 증원해 노동·환경·특허 전문재판부를 확충해야 한다고 역설했다.",
-        "## [클립 4위 · 52분 15초] 선재규 대기자의 글로벌 리포트: “브릭스 결제망 다변화 속 달러 패권의 시험대”\n선재규 연합뉴스 선임기자가 진행한 〈월드이슈〉는 카잔 브릭스(BRICS+) 정상회의 이후 가속화된 탈달러화 흐름과 EU 탄소국경조정제도(CBAM)의 충격을 데이터 기반으로 정확히 짚어냈다. 원자재 결제에서 현지 통화 비중이 25%를 돌파한 상황에서 한국 수출 기업들이 직면한 환율 리스크와 공급망 다변화 전략을 제시하여 최고 시청 유지율(87.4%)을 기록했다."
-      ],
-      "visual": {
-        "videoId": "EGM-TWO0gio",
-        "url": "https://img.youtube.com/vi/EGM-TWO0gio/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=EGM-TWO0gio",
-        "topic": "스픽스 레이다 핫클립: 안진걸 폭로 국감 긴급 속보",
-        "caption": "금주 누적 조회수 1,482만 회를 돌파한 스픽스 주간 급상승 클립 & 60초 쇼츠 현장.",
-        "credit": "스픽스 레이다 취재팀"
-      },
-      "videoId": "EGM-TWO0gio",
-      "videoUrl": "https://www.youtube.com/watch?v=EGM-TWO0gio"
-    },
-    {
-      "id": "art-03",
-      "articleNo": 3,
-      "sectionId": "part-1",
-      "sectionTitle": "Part 1. 스픽스 레이다 (Weekly Hot)",
-      "pageRange": "p.08 ~ 10",
-      "startPage": 8,
-      "endPage": 10,
-      "kicker": "WEEKLY POLL & DATA RADAR · 여론 인포그래픽 (p.08 ~ 10)",
-      "title": "민심의 저울은 어디로 기울었나: ‘먹고사니즘’ 42.8% vs ‘사법개혁 완수’ 24.6%",
-      "subtitle": "스픽스 주간 여론 지표 추이 및 18만 4천 건 시청자 댓글 빅데이터 형태소 네트워크 정밀 분석",
-      "author": "스픽스 여론조사·데이터분석팀",
-      "sourceType": "YouTube + Web Data",
-      "sourceUrl": "https://www.youtube.com/watch?v=LEjQ-SRnloQ",
-      "videoTimestamp": "19:10",
-      "lead": "2026년 10월 4주차 민심의 기저를 흐르는 도도한 물결은 무엇인가. 스픽스 데이터분석팀이 여론조사 전문기관 데이터와 유튜브 실시간 댓글 18만 4,290건을 교차 분석한 결과, 국정 최우선 과제로 ‘민생 회복 및 내수 부양’을 꼽은 응답이 42.8%로 독보적 1위를 기록한 가운데, ‘사법 권력기관 개혁’(24.6%)과 ‘외교통상 실용주의’(16.2%)가 그 뒤를 이었다. 민심의 구조적 변화를 4대 쟁점별로 심층 해부했다.",
-      "bodyParagraphs": [
-        "## [분석 1] 먹고사니즘이 1위를 차지한 경제적 배경: 자영업 한계상황과 가계부채\n이번 조사에서 ‘민생 회복(42.8%)’이 2위와의 격차를 18.2%포인트 차로 벌리며 최상단을 점유한 배경에는 한계점에 도달한 골목상권의 위기감이 자리 잡고 있다. 한국은행 통계에 따르면 2026년 가계신용 잔액은 1,912조 원에 달하며, 3개월 이상 원리금을 연체한 취약 차주 비율은 3.12%로 치솟았다. 고물가와 고금리의 이중고 속에서 가계의 실질 가처분소득이 감소하자 소비가 급랭했고, 이는 곧장 자영업 폐업 도미노로 이어졌다. 시민들은 여야의 정쟁보다 당장 눈앞에 닥친 임대료와 대출 이자 부담을 덜어줄 ‘30조 민생 추경’ 편성을 압도적으로 요구하고 있다.",
-        "## [분석 2] ‘먹고사니즘’과 ‘사법개혁’은 대립하지 않는다: 공정 경제 인프라로서의 사법\n주목해야 할 대목은 민생 경제 요구(42.8%)와 사법개혁 요구(24.6%)가 상호 배타적인 대체재가 아니라, 시민들의 의식 속에서 동전의 양면처럼 결합되어 있다는 사실이다. 응답자의 68.4%는 “유전무죄 무전유죄의 불공정한 사법 시스템과 전관예우 카르텔을 혁파하지 않고는 기술 탈취와 불공정 하도급 등 경제적 양극화를 바로잡을 수 없다”고 응답했다. 시민들은 검찰 권력의 민주적 분립과 대법관 증원을 단순한 정치적 투쟁이 아니라 시장 경제의 공정성을 담보할 제도적 기초 인프라로 인식하고 있는 것이다.",
-        "## [분석 3] 18만 4천 건 댓글 빅데이터 형태소 네트워크 분석\n스픽스 생방송 및 클립에 달린 시청자 댓글 18만 4,290건을 자연어 처리(NLP) 엔진으로 분석한 의미망 지도에서 가장 높은 매개 중심성(Betweenness Centrality)을 나타낸 단어는 ‘지역화폐(0.92)’, ‘부채감면(0.88)’, ‘중수청(0.85)’, ‘대법관증원(0.81)’, ‘골목상권(0.79)’ 순이었다. 감성 분석(Sentiment Analysis) 결과에서도 정부의 긴축 재정 기조에 대한 부정 평가는 78.3%에 달한 반면, 30조 추경과 소상공인 채무 재조정 프로그램에 대한 기대감은 81.2%를 기록했다.",
-        "## [분석 4] 향후 정국 전망과 여야 지도부를 향한 시민의 경고\n여론의 지향점은 분명하다. 민생 법안과 개혁 법안을 연계하여 11월 정기국회 본회의에서 일괄 타결하라는 ‘투트랙 동시 돌파’의 주문이다. 무당층과 중도층의 비율이 30%를 상회하는 현 상황에서, 상대 진영의 발목잡기에만 기대는 정당은 다음 선거에서 준엄한 심판을 면치 못할 것이다. 여당은 무조건적인 거부권 행사와 긴축 도그마를 내려놓아야 하며, 야당은 압도적 다수 의석에 걸맞은 유능한 대안 입법과 예산 협상력을 증명해야 한다."
-      ],
-      "visual": {
-        "videoId": "LEjQ-SRnloQ",
-        "url": "https://img.youtube.com/vi/LEjQ-SRnloQ/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=LEjQ-SRnloQ",
-        "topic": "스픽스 정례 여론조사: 먹고사니즘 vs 사법개혁 민심의 저울",
-        "caption": "‘먹고사니즘’ 42.8% vs ‘사법개혁’ 24.6% 지지율 변동과 민심의 향방 심층 분석.",
-        "credit": "스픽스 여론조사 데이터랩"
-      },
-      "videoId": "LEjQ-SRnloQ",
-      "videoUrl": "https://www.youtube.com/watch?v=LEjQ-SRnloQ"
-    },
-    {
-      "id": "art-04",
-      "articleNo": 4,
-      "sectionId": "part-2",
-      "sectionTitle": "Part 2. 커버스토리 & 이슈 기획",
-      "pageRange": "p.11 ~ 14",
-      "startPage": 11,
-      "endPage": 14,
-      "kicker": "COVER STORY Ⅰ · 2026 정기국회 특별 심층해부 (p.11 ~ 14)",
-      "title": "2026 대전환의 분수령: 30조 민생회복 프로젝트와 재정의 역습",
-      "subtitle": "내수 절벽과 가계부채 1,912조 원의 이중 파고… 기재부 긴축 도그마를 깰 승수효과 1.8배의 비밀",
-      "author": "스픽스 특별취재팀 (경제부·사회부 합동)",
-      "sourceType": "speaks.kr 이슈/기획 심층취재",
-      "sourceUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw",
-      "videoTimestamp": "14:25",
-      "lead": "거리의 상가 공실률 그래프가 가파르게 치솟고 자영업 연체율이 임계점을 위협하는 2026년 가을, 대한민국 경제는 건국 이래 가장 중대한 시험대에 올랐다. 긴축 기조를 고수하며 재정준칙 법제화를 밀어붙이려는 관료적 완고함과, 과감한 30조 원 규모의 재정 투입으로 멈춰 선 내수 순환의 숨통을 틔워야 한다는 민생 확장론이 정기국회 예산안 심사를 앞두고 정면충돌하고 있다.",
-      "bodyParagraphs": [
-        "## [르포] 셔터 내린 골목상권: 다중채무 차주 3.12% 연체의 비명\n스픽스 특별취재팀이 단독 입수한 ‘2026년 하반기 골목상권 및 취약차주 실태 보고서’에 따르면, 자영업 다중채무자의 1인당 평균 대출 잔액은 3억 8천만 원에 육박하며, 3개월 이상 원리금을 연체한 한계 차주 비율은 3.12%로 2008년 글로벌 금융위기 직후 수준을 넘어섰다. 서울 종로와 명동, 영등포는 물론 대전·대구·부산 등 지방 대도시 중심 상권마저 ‘임대 문의’ 현수막이 도배되고 있다. 현장에서 만난 50대 음식점 대표는 “코로나 때는 버티면 끝날 줄 알았지만, 지금은 손님이 아예 지갑을 닫았다. 매달 나가는 이자와 공과금 때문에 숨이 턱턱 막힌다”며 절규했다. 소비 위축이 매출 감소로, 다시 자영업 폐업과 일자리 축소로 이어지는 ‘내수 침체의 악순환 뫼비우스 띠’가 완성된 것이다.",
-        "## [정책 분석] 30조 민생회복 프로젝트의 3대 핵심 기둥\n이에 맞서 야당과 시민사회가 정기국회 최우선 과제로 상정한 ‘30조 원 규모 민생회복 프로젝트’는 단순한 현금 살포가 아닌, 승수효과가 검증된 세 가지 정책 패키지로 구성되어 있다. 첫째, 골목상권과 전통시장에서만 유통되어 지역 내 소비 승수효과 1.8배를 입증한 ‘지역사랑상품권(지역화폐)’ 국비 지원 예산 3조 원을 복원하고 의무화하는 방안(지역사랑상품권법 제15조 개정)이다. 둘째, 코로나 시기 고금리로 내몰린 소상공인 정책자금 15조 원에 대해 10년 장기 분할상환 전환 및 이자 감면을 결합한 한국형 배드뱅크 채무재조정 프로그램이다. 셋째, 급등한 전기·가스 요금과 장바구니 물가를 방어하기 위한 서민 생활비 안정 바우처 12조 원과 청년·취약계층 긴급 생계비 지원이다.",
-        "## [거시경제 논쟁] 재정건전성 도그마 vs 대차대조표 불황의 역설\n기획재정부와 여당의 반발은 완강하다. 정부는 “국채를 추가 발행해 30조 원을 풀면 채권시장 금리가 요동치고 환율을 자극해 간신히 잡혀가는 물가에 다시 기름을 붓는 꼴”이라며 재정건전성 고수를 천명하고 있다. 하지만 스픽스 취재팀이 접촉한 국내외 거시경제 석학들의 진단은 정반대다. 한 경제학과 교수는 “현재의 한국 경제 위기는 수요 과열로 인한 인플레이션이 아니라, 실질소득 감소와 과도한 원리금 상환 부담이 소비를 얼어붙게 만든 전형적인 대차대조표 불황(Balance Sheet Recession)”이라며 “이 상황에서 정부마저 지갑을 닫는 것은 내수 침체로 세수가 줄어들어 오히려 재정건전성을 망치는 ‘긴축의 치명적 역설’을 낳는다”고 일갈했다.",
-        "## [재정 승수효과 검증] KDI와 국회예산정책처의 실증 시뮬레이션\n국회예산정책처(NABO)의 재정승수 추정치에 따르면, 단순 세금 감면의 승수효과는 0.3~0.5에 불과한 반면, 사용 기한과 사용처가 지정된 지역사랑상품권의 부가가치 유발 승수는 1.8배에 달한다. 3조 원의 국비를 투입하면 골목상권 내에서 최소 5조 4천억 원 이상의 유효수요가 창출되는 셈이다. 한국은행 통계에 따르면 2026년 가계신용 잔액은 1,912조 원으로 GDP 대비 100%를 여전히 웃돌고 있다. 민간이 빚더미에 눌려 소비 여력을 완전히 상실했을 때, 정부 재정이 ‘최후의 보루(Lender of Last Resort)’이자 마중물이 되어야 한다는 것은 케인스 이래 거시경제학의 기본 원칙이다."
-      ],
-      "visual": {
-        "videoId": "itVoUz9w9hw",
-        "url": "https://img.youtube.com/vi/itVoUz9w9hw/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw",
-        "topic": "민생 경제 긴급 점검: “착공 안 하면 땅 당장 뺏어라” 30조 추경 결단",
-        "caption": "가계신용 1,912조 원 시대, 지역화폐와 민생 지원금 쟁점 및 정부 재정 기조 집중 해부.",
-        "credit": "스픽스 경제본색 취재팀"
-      },
-      "videoId": "itVoUz9w9hw",
-      "videoUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw"
-    },
-    {
-      "id": "art-05",
-      "articleNo": 5,
-      "sectionId": "part-2",
-      "sectionTitle": "Part 2. 커버스토리 & 이슈 기획",
-      "pageRange": "p.15 ~ 17",
-      "startPage": 15,
-      "endPage": 17,
-      "kicker": "COVER STORY Ⅱ · 사법·권력기관 개혁 로드맵 (p.15 ~ 17)",
-      "title": "수사·기소 완전 분리와 대법관 증원, 11월 사법 대전환의 쟁점과 시나리오",
-      "subtitle": "중대범죄수사청(중수청) 신설과 검찰청 폐지, 그리고 상고심 병목 4만 건을 깰 법원조직법 제4조 개정안 축조 분석",
-      "author": "스픽스 법조·정치 전문취재팀",
-      "sourceType": "speaks.kr 이재명 정부 / 사법기획",
-      "sourceUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs",
-      "videoTimestamp": "28:40",
-      "lead": "해방 이후 70여 년간 군림해 온 ‘검찰공화국’의 직접수사 독점 구조를 해체하고, 재판 지연으로 신음하는 국민의 사법 접근권을 획기적으로 개선할 ‘사법 대전환’의 운명의 시계추가 11월 본회의를 향해 재깍거리고 있다. 국회 법제사법위원회 소관 핵심 법안들의 조문별 쟁점과 파장을 단독 분석했다.",
-      "bodyParagraphs": [
-        "## [입법 제1축] 검찰청 폐지 및 중대범죄수사청(중수청) 신설안\n개혁의 제1축은 검찰청을 폐지하고 기소와 공소유지만을 전담하는 ‘공소청(기소청)’으로 재편하는 검찰청법 폐지안이다. 그리고 부패·경제·공직자·선거·방위사업·대형참사 등 중대 범죄의 직접수사는 신설되는 ‘중대범죄수사청(중수청)’으로 완전히 이관한다. 이는 수사를 개시한 검사가 자신의 수사 결론에 도취되어 무리한 기소와 표적·별건 수사를 자행하던 구조적 확증편향을 원천 차단하겠다는 취지다. 수사와 기소를 분리해 상호 견제와 균형을 이루는 것은 영국 왕립기소청(CPS)과 미국 연방검사 제도가 이미 입증한 사법 선진국의 표준 모델이다.",
-        "## [쟁점 해부] 중수청 소속 논쟁: 법무부냐, 행안부냐, 총리실 독립위냐\n현재 법사위 물밑 협상에서 가장 첨예한 쟁점은 “중수청을 어느 부처 산하에 둘 것인가”이다. 법무부 산하에 둘 경우 무늬만 바뀐 ‘제2의 검찰’이 될 위험이 있고, 행정안전부 산하에 두면 경찰청과의 권력 집중 문제가 발생한다. 이에 야당 일각과 사법 전문가들은 국무총리실 산하의 독립적 ‘국가수사위원회’ 형태로 설치하는 대안을 강력히 제시하고 있다. 스픽스가 입수한 여야 협의안에 따르면, 수사관의 직급 체계와 영장청구 절차에서의 사법통제 권한을 둘러싸고 막판 문구 조율이 이어지고 있다.",
-        "## [입법 제2축] 법원조직법 제4조 개정: 대법관 14인 ➔ 24인 증원\n개혁의 제2축은 만성적 재판 지연을 타개하기 위한 ‘법원조직법 제4조 개정안(대법관 14인 ➔ 24인 증원)’이다. 현재 대법관 1인당 연간 처리해야 할 상고심 본안 사건은 3,500건을 상회한다. 주말도 없이 하루 평균 10건 이상의 판결을 쏟아내야 하는 구조 속에서, 76%에 달하는 상고 사건이 이유조차 적히지 않은 채 ‘심리불속행 기각’으로 잘려 나가고 있다. 일반 국민이 1심부터 대법원 확정판결까지 평균 4~5년을 기다리며 겪는 사회적·경제적 손실은 연간 13조 원에 달한다는 것이 한국개발연구원(KDI)의 추산이다.",
-        "## [해외 사법 비교] 독일 130명·프랑스 수백 명… 다양성과 신속성의 조화\n비교법적으로도 독일은 130여 명의 연방대법관이 전문 부별로 재판을 분담하며, 프랑스 파기원(Cour de Cassation) 역시 수백 명의 법관이 사실심과 법률심을 유기적으로 연결하고 있다. 대법관 수를 24인으로 늘려 4인 1조 6개 소부를 가동하고 노동·환경·여성·조세·지식재산권 등 사회적 다양성을 판결에 투영하는 것은 사법 신뢰를 회복할 최소한의 전제 조건이다. 11월 정기국회는 검찰 권력의 민주적 분립과 법원의 정상화를 동시에 달성할 역사적 분수령이 될 것이다."
-      ],
-      "visual": {
-        "videoId": "N0A7avU9zzs",
-        "url": "https://img.youtube.com/vi/N0A7avU9zzs/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs",
-        "topic": "사법개혁 대전환: [단독] 조희대 꼼짝 못 할 김해원의 역대급 묘수",
-        "caption": "수사·기소 분리 중수청 설치와 대법관 24인 증원 로드맵 사법개혁 심층 인터뷰.",
-        "credit": "스픽스 사법정의팀"
-      },
-      "videoId": "N0A7avU9zzs",
-      "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs"
-    },
-    {
-      "id": "art-06",
-      "articleNo": 6,
-      "sectionId": "part-2",
-      "sectionTitle": "Part 2. 커버스토리 & 이슈 기획",
-      "pageRange": "p.18 ~ 20",
-      "startPage": 18,
-      "endPage": 20,
-      "kicker": "ISSUE SPECIAL · 미래 산업 & 기본사회 (p.18 ~ 20)",
-      "title": "AI 주권 국가와 에너지 고속도로: 첨단 반도체 패권과 지역 상생의 청사진",
-      "subtitle": "용인 메가클러스터 전력 수요 10GW 돌파와 서남해안 RE100 재생에너지 초고압 직류송전망(HVDC) 대동맥",
-      "author": "스픽스 산업·과학기술 정책팀",
-      "sourceType": "speaks.kr 기획특집",
-      "sourceUrl": "https://www.youtube.com/watch?v=TN0VKlk9QQk",
-      "videoTimestamp": "41:10",
-      "lead": "글로벌 인공지능(AI)과 반도체 패권 경쟁의 본질은 결국 ‘무탄소 전력(Clean Energy)’의 확보 전쟁이다. 애플·구글·엔비디아 등 글로벌 빅테크 기업들이 공급망 전반에 RE100(재생에너지 100%)을 강제하는 가운데, 서남해안의 풍부한 태양광·풍력 에너지를 첨단 산업벨트로 직결하는 ‘에너지 고속도로’ 구축이 국가 생존의 최우선 국책 과제로 부상했다.",
-      "bodyParagraphs": [
-        "## [산업 위기] 용인 메가클러스터 전력난: 원전 8기 분량 10GW 필요\n경기도 용인과 평택에 조성 중인 세계 최대 규모의 반도체 메가클러스터가 2030년까지 요구하는 추가 전력량은 무려 10GW(기가와트)에 달한다. 이는 원자력발전소 8기에 맞먹는 막대한 규모다. 그러나 수도권 내에 신규 대형 발전소를 짓는 것은 주민 수용성과 탄소 배출 규제로 인해 원천적으로 불가능하다. 결국 서남해안과 동해안의 무궁무진한 해상풍력과 태양광 전력을 수도권 첨단 산업기지로 손실 없이 수송하는 ‘지중·해저 초고압 직류송전망(HVDC)’ 인프라 투자가 유일한 해법이다.",
-        "## [거버넌스 혁신] 밀양 사태를 넘어: 주민참여형 이익공유제 의무화\n이 거대한 송전망 프로젝트의 성패를 가를 핵심 열쇠는 바로 ‘지역 주민과의 이익 공유’다. 그동안 밀양 송전탑 사태처럼 일방적인 희생을 강요하던 낡은 전력 거버넌스로는 단 1km의 송전선로도 깔 수 없다. 전남 신안군이 조례 제14조(신재생에너지 개발이익 공유 조례)를 통해 입증한 ‘햇빛연금·바람연금’ 모델이 전국적 벤치마킹 대상으로 떠오른 이유다. 신안군은 신재생에너지 발전 사업 지분의 30%를 주민 협동조합에 배정하여 매분기 주민들에게 현금성 연금을 배당하고 있다.",
-        "## [기본사회 모델] 신안군 인구 순유입의 기적과 전국 80개 지자체 확산\n실제로 햇빛연금이 지급된 신안군 안좌도와 지도읍 등지에서는 7년 만에 인구 유출이 멈추고 젊은 세대가 유입되는 놀라운 인구 반등이 일어났다. 스픽스 분석에 따르면, 에너지 고속도로 송전선로 경과지 80개 지자체 주민들에게 송전 수익의 일부를 ‘지역 기본소득 바우처’로 환원할 경우, 산업계의 전력난 해소와 지방소멸 방지, 그리고 RE100 무역장벽 극복이라는 1석 3조의 국가 전략이 완성된다."
-      ],
-      "visual": {
-        "videoId": "TN0VKlk9QQk",
-        "url": "https://img.youtube.com/vi/TN0VKlk9QQk/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=TN0VKlk9QQk",
-        "topic": "산업·에너지 대전환: 반도체 메가클러스터와 서남해안 에너지 고속도로",
-        "caption": "글로벌 AI 반도체 패권과 재생에너지 송전망 혁신, 미래 성장동력 생존 전략.",
-        "credit": "스픽스 산업팀"
-      },
-      "videoId": "TN0VKlk9QQk",
-      "videoUrl": "https://www.youtube.com/watch?v=TN0VKlk9QQk"
-    },
-    {
-      "id": "art-07",
-      "articleNo": 7,
-      "sectionId": "part-3",
-      "sectionTitle": "Part 3. Who Speaks (지상 중계)",
-      "pageRange": "p.21 ~ 24",
-      "startPage": 21,
-      "endPage": 24,
-      "kicker": "WHO SPEAKS Ⅰ · 정치본색 지상중계 Q&A (p.21 ~ 24)",
-      "title": "“민생 앞에서는 여야가 없다, 11월 국회에서 30조 추경 담판 지어야”",
-      "subtitle": "[정치본색 특별대담] 박지원 국회의원 × 김종대 전 국회의원 60분 생방송 집중 인터뷰 전문 윤문",
-      "author": "정리 · 스픽스 정치·인터뷰 총괄 데스크",
-      "sourceType": "YouTube 정치본색",
-      "sourceUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-      "videoTimestamp": "14:25",
-      "speakerInfo": "박지원 의원 (더불어민주당) · 김종대 전 의원 (전 정의당 의원·군사안보전문가)",
-      "lead": "유튜브 채널 @SPEAKS_TV의 최고 간판 시사 프로그램 〈정치본색〉 생방송 스튜디오에서 펼쳐진 여의도 거물 정치인들의 격론을 정통 시사주간지 문어체 일문일답으로 정밀 복원했다. 우측 상단의 QR 코드를 스캔하면 14분 25초 최고 시청 구간으로 바로 연결된다.",
-      "qaList": [
-        {
-          "q": "정기국회가 국정감사를 마치고 본격적인 예산·법안 정국으로 돌입했습니다. 현재 한국 정치와 경제가 직면한 가장 심각한 위험 요인은 무엇입니까?",
-          "a": "박지원: 현장의 비명입니다. 주말마다 호남과 수도권 전통시장, 골목상가를 찾아 상인들의 거친 손을 잡아봅니다. 백이면 백 “IMF 외환위기나 코로나 때보다 손님이 더 없다, 빚으로 버티는 것도 한계에 달했다”고 울부짖습니다. 정치가 존재하는 제1의 목적은 국민의 먹고사는 문제를 해결하는 것입니다. 그런데 여의도는 온갖 정쟁과 사법 리스크 공방에 매몰되어 골목상권의 처절한 신음을 외면하고 있습니다. 11월 국회에서 민생 추경 30조 원을 여야 합의로 결단하지 못하면 올겨울 자영업 연쇄 부도라는 대재앙이 닥칠 것입니다."
-        },
-        {
-          "q": "정부와 여당은 세수 결손 30조 원과 국가채무 비율을 들며 국채를 추가 발행하는 추경은 절대 불가능하다는 입장입니다.",
-          "a": "김종대: 그것은 경제의 한쪽 날개만 보는 치명적인 관료적 교조주의입니다. 국가 재정이 왜 존재합니까? 가계와 기업이 위기에 처해 소비와 투자를 멈췄을 때, 정부가 지갑을 열어 경기 급락을 막아주는 안전판 역할을 하라고 세금을 걷는 것입니다. 지금 가계부채가 1,912조 원에 달해 국민들은 원리금 갚느라 쓸 돈이 없습니다. 이 상황에서 정부마저 긴축을 고집하면 내수가 고사해 내년 세수는 더 줄어드는 ‘긴축의 악순환’에 빠집니다. 국채 30조 원 발행으로 인한 금리 변동 폭은 한은의 유동성 조절과 채권 시장 안정 펀드로 충분히 관리 가능합니다."
-        },
-        {
-          "q": "야당이 제안한 30조 추경의 구체적 집행 방안에서 가장 실효성 있는 카드는 무엇입니까?",
-          "a": "박지원: 단연 지역사랑상품권(지역화폐) 국비 지원 복원입니다. 현금으로 통장에 꽂아주면 고물가에 이자 갚거나 저축으로 잠겨버릴 수 있지만, 사용 기한이 정해진 지역화폐는 100% 동네 슈퍼, 식당, 미용실에서 소비됩니다. 한국지방행정연구원 실증 조사에서도 국비 1조 원 지원 시 지역 내 부가가치 유발 효과가 1조 8천억 원에 달했습니다. 두 번째는 소상공인 대출 만기를 10년으로 장기 분할상환하고 이자율을 2%대로 낮춰주는 채무 재조정입니다. 숨통을 틔워줘야 재기할 것 아닙니까."
-        },
-        {
-          "q": "외교안보 환경도 녹록지 않습니다. 미국의 관세 장벽과 신냉전 구도 속에서 한국은 어떤 스탠스를 취해야 합니까?",
-          "a": "김종대: 스스로 운신의 폭을 좁히는 진영 외교에서 벗어나 철저한 ‘국익 중심 실용 외교’로 전환해야 합니다. 한미동맹을 군사·기술 협력의 기본 축으로 견고히 유지하되, 우리의 최대 흑자국이자 공급망 파트너인 중국 및 아세안, 인도 등 글로벌 사우스와의 경제 협력 채널을 능동적으로 열어두어야 합니다. 미국조차 자국의 필요에 따라 중국과 물밑 통상 협상을 벌이는 판국에 우리만 경직된 이념의 잣대로 외교를 하면 결국 한국 기업들만 고립무원의 처지에 놓이게 됩니다."
-        }
-      ],
-      "bodyParagraphs": [
-        "## [대담 총평] 11월 예산 담판의 세 가지 정치적 시나리오\n60분간 진행된 대담 내내 두 출연자는 여야의 정파적 이해관계를 떠나 국가 공동체의 지속가능성을 위한 대타협을 호소했다. 특히 생방송 중 실시간 동시접속자가 6만 8천 명을 돌파한 14분 25초 구간에서는 “정치가 국민에게 희망을 주지 못한다면 존재 이유가 없다”는 박 의원의 호소가 채팅창을 뜨겁게 달궜다. 스픽스는 향후 정국을 가를 세 가지 시나리오를 제시한다. 첫째, 12월 2일 법정 시한을 앞두고 지역화폐 국비 2조 원 반영과 소상공인 채무조정 펀드 조성을 맞바꾸는 여야 원내대표단의 물밑 대타협. 둘째, 정부의 전면 거부로 인한 준예산 편성 위기. 셋째, 야당 단독 수정안 통과와 대통령 거부권 행사의 강대강 충돌이다. 골든타임은 이제 30일도 남지 않았다."
-      ],
-      "visual": {
-        "videoId": "v6awNopN5n4",
-        "url": "https://img.youtube.com/vi/v6awNopN5n4/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-        "topic": "정치본색 특별대담: [역전의용사들] 전계완 × 김완 “권력 물밑 비밀 카드”",
-        "caption": "정치본색 스튜디오 현장 지상중계: 여야 예산안 격돌과 정국 주도권 쟁탈전.",
-        "credit": "스픽스 정치본색 제작팀"
-      },
-      "videoId": "v6awNopN5n4",
-      "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4"
-    },
-    {
-      "id": "art-08",
-      "articleNo": 8,
-      "sectionId": "part-3",
-      "sectionTitle": "Part 3. Who Speaks (지상 중계)",
-      "pageRange": "p.25 ~ 28",
-      "startPage": 25,
-      "endPage": 28,
-      "kicker": "WHO SPEAKS Ⅱ · 스픽스 1234 지상중계 Q&A (p.25 ~ 28)",
-      "title": "“수사·기소 분리는 시대적 상식, 사법 불신을 깰 제도 개혁에 명운 걸어야”",
-      "subtitle": "[스픽스 1234 집중토론] 최강욱 전 국회의원 × 이언주 국회의원 사법개혁 쟁점 지상중계",
-      "author": "정리 · 스픽스 법조·정치 데스크",
-      "sourceType": "YouTube 스픽스1234",
-      "sourceUrl": "https://www.youtube.com/watch?v=MmiBmuv0DQk",
-      "videoTimestamp": "28:40",
-      "speakerInfo": "최강욱 전 의원 (전 열린민주당 대표·법제사법위원) · 이언주 의원 (더불어민주당 최고위원)",
-      "lead": "국회 법제사법위원회를 달구고 있는 사법개혁 3법과 대법관 증원안의 본질은 무엇인가. 〈스픽스 1234〉 스튜디오에서 펼쳐진 법리와 정치 현실의 치열한 교차점을 지상 중계한다. QR 코드를 스캔하면 28분 40초 토론 하이라이트로 연결된다.",
-      "qaList": [
-        {
-          "q": "검찰의 직접수사권을 전면 폐지하고 중대범죄수사청을 신설하는 것에 대해 ‘국가적 범죄 대응 역량 약화’를 주장하는 보수 법조계의 반론이 거셉니다.",
-          "a": "최강욱: 그것은 기득권을 지키려는 검찰 조직의 케케묵은 가짜뉴스입니다. 선진 민주국가 어디에서도 검사가 직접 칼을 쥐고 압수수색을 지휘하며 수사 개시를 하고, 그 결과를 바탕으로 구속영장을 청구하고 기소까지 독점하는 나라는 없습니다. 수사와 기소가 한 사람의 손에 쥐어질 때, 검사는 자신이 세운 가설에 꿰맞추기 위해 피의자를 겁박하고 별건 수사를 남발하게 됩니다. 수사는 전문 역량을 갖춘 수사기관이 철저히 하되, 기소 여부는 객관적 법률가 집단인 공소청이 냉정하게 걸러내야 억울한 국민이 생기지 않는 법입니다. 이것이 바로 헌법상 ‘적법절차(Due Process of Law)’의 핵심입니다."
-        },
-        {
-          "q": "그렇다면 신설되는 중수청의 소속은 어디가 바람직하다고 보십니까?",
-          "a": "이언주: 법무부 산하에 두는 것은 절대 안 됩니다. 그러면 무늬만 중수청이지 법무부 장관과 검찰 출신들이 다시 장악해 ‘미니 검찰청’으로 변질될 것이 불 보듯 뻔합니다. 행정안전부 산하 역시 경찰 조직의 비대화 우려가 있습니다. 따라서 국무총리실 산하에 두고, 여야가 동수로 추천하는 독립적 ‘국가수사위원회’의 민주적 통제를 받도록 설계해야 합니다. 수사의 정치적 중립성을 완벽히 보장하면서도 국민의 인권을 침해하지 못하도록 2중, 3중의 시민 감시 장치를 두어야 합니다."
-        },
-        {
-          "q": "일반 국민과 중소기업인들이 가장 고통받는 ‘재판 지연’ 문제의 실질적 해법은 무엇입니까?",
-          "a": "이언주: 법원조직법을 개정해 대법관 수를 현행 14인에서 24인으로 조속히 증원해야 합니다. 지금 대법관들은 1인당 1년에 수천 건을 보느라 서류에 파묻혀 있습니다. 사건의 실질적 쟁점을 제대로 심리할 물리적 시간이 없으니 70%가 넘는 사건을 심리불속행으로 기각해 버립니다. 이는 국민의 재판받을 권리를 박탈하는 사법 폭력입니다. 대법관을 24명으로 늘려 4인 1조의 소부를 6개로 확충하고, 사회적 약자와 노동, 첨단 기술 분쟁을 전문적으로 다룰 수 있도록 법관 구성을 다양화해야 합니다."
-        },
-        {
-          "q": "11월 정기국회 본회의 통과를 위한 정치적 로드맵은 어떻게 보십니까?",
-          "a": "최강욱: 더 이상 미룰 수 없습니다. 패스트트랙이든 여야 담판이든 11월 안에 매듭을 지어야 합니다. 검찰개혁과 사법개혁은 정권의 유불리를 따지는 정쟁의 문제가 아니라, 헌법 정신을 구현하는 민주공화국의 기초 공사입니다. 주권자인 국민이 두 눈을 부릅뜨고 지켜보고 있습니다."
-        }
-      ],
-      "bodyParagraphs": [
-        "## [토론 분석] 법원조직법 개정안과 한국형 디스커버리(증거개시) 제도\n대담 후반부(28분 40초 구간)에서는 국회 법제사법위원회 법안심사소위원회의 구체적인 심사 일정과 쟁점 조항들이 조목조목 짚어졌다. 특히 이언주 의원이 제안한 ‘한국형 디스커버리(증거개시) 제도’ 도입은 대기업의 기술 탈취나 영업비밀 침해로 고통받는 중소기업들이 민사재판 과정에서 실질적 증거를 확보할 수 있도록 하는 사법 현대화 방안으로 주목받았다. 스픽스 시청자들은 “복잡한 법률 조항 뒤에 숨겨진 권력 카르텔을 명쾌하게 해체해 주었다”며 뜨거운 호응을 보냈다."
-      ],
-      "visual": {
-        "videoId": "MmiBmuv0DQk",
-        "url": "https://img.youtube.com/vi/MmiBmuv0DQk/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=MmiBmuv0DQk",
-        "topic": "스픽스1234 긴급진단: 김경호 변호사 분노 폭발 “대법원 기각 안 한 이유”",
-        "caption": "군사안보와 통상 리스크, 국익을 지키는 현실주의 외교 노선 심층 대담.",
-        "credit": "스픽스1234 제작팀"
-      },
-      "videoId": "MmiBmuv0DQk",
-      "videoUrl": "https://www.youtube.com/watch?v=MmiBmuv0DQk"
-    },
-    {
-      "id": "art-09",
-      "articleNo": 9,
-      "sectionId": "part-3",
-      "sectionTitle": "Part 3. Who Speaks (지상 중계)",
-      "pageRange": "p.29 ~ 32",
-      "startPage": 29,
-      "endPage": 32,
-      "kicker": "WHO SPEAKS Ⅲ · 외교·경제 특별대담 Q&A (p.29 ~ 32)",
-      "title": "“이념의 안경을 벗고 국익의 계산기를 두드려라: 격변하는 글로벌 질서와 한국의 생존법”",
-      "subtitle": "[특별 인터뷰] 선재규 연합뉴스 선임기자 × 김준형 국회의원 · 최배근 건국대 교수 외교·통상 합동 대담",
-      "author": "정리 · 스픽스 외교·경제 데스크",
-      "sourceType": "YouTube 특별 인터뷰 & 경제본색",
-      "sourceUrl": "https://www.youtube.com/watch?v=YOD1Y2kBnfc",
-      "videoTimestamp": "41:10",
-      "speakerInfo": "선재규 선임기자 · 김준형 의원 (조국혁신당·전 국립외교원장) · 최배근 교수 (건국대 경제학과)",
-      "lead": "보편 관세의 부활, 미·중 기술 패권 전쟁의 격화, 그리고 브릭스(BRICS+)의 결제망 다변화라는 미증유의 3각 파고가 한국 경제를 덮치고 있다. 대한민국 최고 권위의 외교·거시경제 석학 3인이 진단한 2026~2027 생존 전략을 지상 중계한다.",
-      "qaList": [
-        {
-          "q": "미국의 자국 우선주의 보호무역주의가 갈수록 노골화되고 있습니다. 반도체와 배터리, 자동차 등 한국의 주력 수출 산업은 어떤 타격을 입고 있습니까?",
-          "a": "선재규: 미국은 칩스법(CHIPS Act)과 인플레이션 감축법(IRA)을 통해 한국 기업들의 천문학적인 대미 투자를 유도해 놓고, 정작 보조금 지급 조건을 까다롭게 하거나 중국과의 거래를 전면 차단하는 등 ‘사다리 걷어차기’식 압박을 가하고 있습니다. 여기에 더해 보편 관세 10~20% 부과 위협은 대미 수출 비중이 높은 우리 제조업에 치명적인 수익성 악화를 부르고 있습니다. 동맹이라는 이름 뒤에 냉혹한 상업적 계산이 깔려 있음을 직시해야 합니다."
-        },
-        {
-          "q": "이러한 통상 압박 속에서 한국 외교가 취해야 할 최우선 원칙은 무엇이어야 합니까?",
-          "a": "김준형: 한마디로 ‘전략적 자율성(Strategic Autonomy)’의 확보입니다. 냉전 시대의 진영 논리에 갇혀 스스로 외교적 레버리지를 내던져서는 안 됩니다. 유럽연합(EU)도, 일본도, 심지어 대만조차도 미국과의 안보 협력을 유지하면서 동시에 대중국 경제 관계를 실용적으로 조율하는 ‘디리스킹(De-risking)’을 정교하게 구사하고 있습니다. 우리도 반도체와 핵심 소재·광물 공급망에서 대체 불가능한 한국만의 독보적 기술 격차를 무기로 다자간 통상 협상력을 극대화해야 합니다."
-        },
-        {
-          "q": "대외 통상 리스크가 국내 금융시장과 실물경제로 번지는 것을 막기 위한 거시경제적 해법은 무엇입니까?",
-          "a": "최배근: 수출 대기업의 성장이 국내 일자리와 골목상권으로 낙수(Trickle-down)되던 시대는 완전히 끝났습니다. 이제는 ‘내수 주도 성장’과 ‘수출 고도화’의 쌍발 엔진을 가동해야 합니다. 1,912조 원에 달하는 가계부채를 점진적으로 줄여 가계의 가처분소득을 복원하지 않으면, 대외 충격이 올 때마다 내수가 맥없이 무너집니다. 아울러 중소·중견 벤처기업들이 AI와 친환경 기술로 체질을 개선할 수 있도록 국가 주도의 정책 금융 체계를 대대적으로 확충해야 합니다."
-        }
-      ],
-      "bodyParagraphs": [
-        "## [대담 종합] 한국 경제의 활로: 다극화 통상과 신재생에너지 인프라 구축\n세 석학의 대담은 1시간 내내 치밀한 국제 통계와 지정학적 데이터 분석으로 채워졌다. 결론은 세 가지로 요약된다. 첫째, 미국 중심의 일방적 동맹 의존에서 벗어나 아세안, 인도, 중동 등 ‘글로벌 사우스’와의 다자간 통상망을 공격적으로 확대할 것. 둘째, EU의 탄소국경조정제도(CBAM) 장벽을 넘기 위해 국내 RE100 재생에너지 인프라를 국가 주도로 조속히 완성할 것. 셋째, 기술 초격차를 유지하여 글로벌 공급망의 대체 불가능한 린치핀(Linchpin) 지위를 수호할 것이다."
-      ],
-      "visual": {
-        "videoId": "YOD1Y2kBnfc",
-        "url": "https://img.youtube.com/vi/YOD1Y2kBnfc/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=YOD1Y2kBnfc",
-        "topic": "특별기획 직설: 법원 ‘생중계 결정’ 기자가 캔 단서와 사법 쟁점",
-        "caption": "최강욱 × 이언주 특별 대담: 검찰 개혁과 사법 지연 해소를 위한 정면 돌파.",
-        "credit": "스픽스 특별기획팀"
-      },
-      "videoId": "YOD1Y2kBnfc",
-      "videoUrl": "https://www.youtube.com/watch?v=YOD1Y2kBnfc"
-    },
-    {
-      "id": "art-10",
-      "articleNo": 10,
-      "sectionId": "part-4",
-      "sectionTitle": "Part 4. 오피니언 & 월드",
-      "pageRange": "p.33 ~ 36",
-      "startPage": 33,
-      "endPage": 36,
-      "kicker": "OPINION & ESSAY · 정통 시사 칼럼 (p.33 ~ 36)",
-      "title": "‘분노의 정치’를 넘어 ‘책임의 정치’와 실용적 해법을 찾아서",
-      "subtitle": "[성한용 정치 전문기자 특별기고] 벼랑 끝에 선 한국 정치, 양극화의 증오를 멈추고 주권자의 삶을 응시하라",
-      "author": "성한용 (한겨레 정치부 선임기자) · 스픽스 논설위원실",
-      "sourceType": "speaks.kr 오피니언",
-      "sourceUrl": "https://www.youtube.com/watch?v=lAU64alQdMI",
-      "lead": "정치가 국민을 걱정해야 마땅한 시대에, 국민이 매일 아침 뉴스를 보며 정치를 걱정하는 기형적 역설이 일상화되었다. 여야가 서로를 향해 쏟아내는 거친 언어와 적대적 공생 관계 속에서, 주권자들의 삶은 하루하루 팍팍해져 간다. 40여 년간 여의도 정치판을 지켜본 노기자의 고언을 싣는다.",
-      "bodyParagraphs": [
-        "## [진단] 적대적 공생과 ‘내전형 정치’의 파멸적 결말\n정치(政治)의 본령은 ‘희소한 자원의 권위적 배분’이자, 사회적 갈등을 대화와 타협으로 조율하는 ‘공존의 예술’이다. 그러나 오늘날 대한민국 정치는 상대를 섬멸해야 할 적으로 규정하는 ‘내전형 적대 정치’로 전락했다. 강성 팬덤의 환호와 유튜브 알고리즘의 극단적 확증편향에 기댄 정치인들은 의회주의의 기본인 협상과 양보를 ‘배신’이라 낙인찍는다. 그 결과 국회는 멈춰 서고, 민생 법안과 예산안은 정쟁의 볼모로 잡히기 일쑤다.",
-        "## [민심의 심판] 무당층 30%의 경고: “이념 투쟁이 월세를 내주는가”\n그러나 주권자인 시민들이 정치를 바라보는 눈은 결코 어리석지 않다. 최근 각종 여론조사에서 무당층과 중도층 비율이 30%를 상회하는 것은 기성 정당들의 정쟁에 대한 깊은 환멸의 방증이다. 시민들은 묻고 있다. “당신들의 거창한 이념 투쟁이 내 식당의 밀린 월세를 내주는가? 우리 아이의 불안한 청년 일자리를 해결해 주는가?” 정치는 이 소박하지만 절박한 물음에 유능한 정책과 제도로 답해야 한다.",
-        "## [해법] 초당적 대화와 ‘정책 연합’의 복원\n지금 대한민국 앞에는 30조 민생 추경을 통한 내수 복원, 검찰개혁과 사법 신뢰 회복, 그리고 AI 주권과 기후위기 대응이라는 국가적 난제들이 산적해 있다. 이 과제들은 어느 한 정파의 힘만으로는 결코 완수할 수 없다. 다수 의석을 가진 야당은 유능하고 책임 있는 대안 정당으로서의 면모를 보여주어야 하고, 행정 권력을 쥔 정부·여당은 독선과 거부권 정치를 내려놓고 야당과의 초당적 대화에 나서야 한다.",
-        "## [시사 단상] 활자의 품격과 역사의 기록\n『주간 스픽스』의 창간은 바로 이러한 ‘책임 정치의 복원’을 염원하는 153만 시민의 집단지성이 낳은 결실이다. 활판 인쇄의 엄정한 사초 앞에서 거짓과 위선은 힘을 잃는다. 권력의 말 한마디, 법안의 조항 하나를 시민의 눈높이에서 치열하게 기록하고 비판할 때, 비로소 정치는 제자리로 돌아올 것이다."
-      ],
-      "visual": {
-        "videoId": "lAU64alQdMI",
-        "url": "https://img.youtube.com/vi/lAU64alQdMI/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=lAU64alQdMI",
-        "topic": "오피니언 성한용 칼럼: 국감 폭발 “담당자 나오세요” 정국 진단",
-        "caption": "성한용 논설위원의 정치 단상: 협치 실종의 시대, 권력의 절제와 의회민주주의의 본령.",
-        "credit": "스픽스 오피니언데스크"
-      },
-      "videoId": "lAU64alQdMI",
-      "videoUrl": "https://www.youtube.com/watch?v=lAU64alQdMI"
-    },
-    {
-      "id": "art-11",
-      "articleNo": 11,
-      "sectionId": "part-4",
-      "sectionTitle": "Part 4. 오피니언 & 월드",
-      "pageRange": "p.37 ~ 40",
-      "startPage": 37,
-      "endPage": 40,
-      "kicker": "WORLD ISSUE RADAR · 글로벌 정세 분석 (p.37 ~ 40)",
-      "title": "브릭스(BRICS+) 확장과 글로벌 공급망 블록화: 달러 패권의 균열과 한국의 활로",
-      "subtitle": "신흥 10개국 결제망 다변화, EU 탄소국경조정제도(CBAM), 그리고 첨단 반도체 무역전쟁의 파고",
-      "author": "선재규 (연합뉴스 선임기자·스픽스 월드이슈 진행자)",
-      "sourceType": "speaks.kr 선재규의 월드이슈",
-      "sourceUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-      "videoTimestamp": "41:10",
-      "lead": "세계 질서가 2차 세계대전 이후 구축된 ‘팍스 아메리카나(Pax Americana)’의 단극 체제를 지나 거대한 다극화(Multipolarity) 시대로 진입하고 있다. 중동과 중남미, 아프리카 주요 산유국들을 포괄하며 10개국 이상으로 덩치를 키운 브릭스(BRICS+)는 자체 결제망 구축을 선언하며 달러화 중심의 국제 금융 질서에 균열을 내고 있다.",
-      "bodyParagraphs": [
-        "## [지각변동] 카잔 정상회의 이후 가속화된 탈달러화(De-dollarization)\n2026년 카잔 브릭스 정상회의 이후 가속화된 ‘탈달러화’ 흐름은 단순한 정치적 수사가 아니다. 전 세계 원유와 천연가스 등 핵심 원자재 결제에서 위안화와 루피화, 현지 통화 결제 비중이 25%를 돌파했다. 미국이 대러시아 경제 제재 수단으로 스위프트(SWIFT) 결제망 배제를 남발하자, 신흥국들이 서구 주도의 금융 시스템에 의존하는 리스크를 분산하기 시작했음을 뜻한다. 이는 기축통화 달러의 헤게모니에 장기적 균열을 예고하는 신호탄이다.",
-        "## [통상 파고] EU 탄소국경세(CBAM)와 미국의 IRA 후속 규제 장벽\n동시에 유럽연합(EU)의 탄소국경조정제도(CBAM) 본격 시행과 미국의 인플레이션 감축법(IRA) 후속 규제는 철강·알루미늄·배터리 등 한국의 주력 수출 품목에 직접적인 ‘친환경 관세’ 폭탄으로 작용하고 있다. 이제 국제 무역에서 저탄소 재생에너지로 제품을 생산하지 못하는 국가는 아무리 가격 경쟁력이 뛰어나도 수출길이 막히는 냉혹한 현실에 직면했다. 글로벌 무역 환경이 ‘비용 경쟁’에서 ‘규범과 탄소 경쟁’으로 급변한 것이다.",
-        "## [생존 전략] 한국 경제의 3대 다자간 외교통상 활로\n무역의존도 75%를 넘나드는 한국 경제의 생존 전략은 명확하다. 첫째, 특정 국가에 편중된 수출입 구조를 과감히 다변화하여 인도, 아세안, 중동 등 ‘글로벌 사우스’ 시장 개척에 총력을 기울여야 한다. 둘째, 국내 재생에너지 인프라(에너지 고속도로)를 조속히 완비하여 RE100 규제 장벽을 뛰어넘어야 한다. 셋째, 반도체·배터리 등 핵심 첨단 기술의 초격차를 유지하여 글로벌 공급망에서 누구도 배제할 수 없는 필수불가결한 ‘전략적 린치핀(Linchpin)’ 지위를 지켜내야 한다."
-      ],
-      "visual": {
-        "videoId": "v6awNopN5n4",
-        "url": "https://img.youtube.com/vi/v6awNopN5n4/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-        "topic": "선재규의 월드이슈: 미·중 반도체 패권과 브릭스 통상 파고의 역습",
-        "caption": "카잔 브릭스 정상회의 이후 가속화된 탈달러 통화 블록화와 한국 통상 전략.",
-        "credit": "선재규 선임기자"
-      },
-      "videoId": "v6awNopN5n4",
-      "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4"
-    },
-    {
-      "id": "art-12",
-      "articleNo": 12,
-      "sectionId": "part-5",
-      "sectionTitle": "Part 5. 컬처·라이프 & 지방시대",
-      "pageRange": "p.41 ~ 44",
-      "startPage": 41,
-      "endPage": 44,
-      "kicker": "CULTURE & LOCAL HERITAGE · 역사문화 답사기 (p.41 ~ 44)",
-      "title": "1919년 아우내의 함성에서 오늘의 민주공화국까지: 천안 병천 만세터 르포",
-      "subtitle": "유관순 열사의 횃불과 조병호·김구응의 독립 의지… 도서출판 아우내가 천안 동남구 양지말1길에 뿌리내린 이유",
-      "author": "도서출판 아우내 인문학기행팀 · 스픽스 문화부",
-      "sourceType": "speaks.kr SPEAKS' Choice",
-      "sourceUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A",
-      "lead": "충남 천안시 동남구 병천면 아우내 장터에 서면, 107년 전 그날 3천여 군중이 터뜨렸던 자주독립의 함성이 귓전을 때린다. 일제의 야만적인 총칼 앞에서도 물러서지 않고 태극기를 높이 들었던 민중들의 거룩한 희생은 오늘날 우리가 누리는 민주공화국의 단단한 주춧돌이 되었다.",
-      "bodyParagraphs": [
-        "## [역사 르포] 두 물길이 어우러지는 아우내(並川) 장터의 기원\n아우내(並川)라는 이름은 ‘두 줄기 내(川)가 하나로 어우러진다’는 아름다운 순우리말이다. 조선 시대부터 삼남(충청·전라·경상)과 한양을 잇는 사통팔달의 교통 요충지였던 이곳은 장날마다 수많은 상인과 보부상, 민초들이 모여들어 세상 돌아가는 이야기를 나누던 여론 형성의 중심지였다. 1919년 4월 1일(음력 3월 1일), 열일곱 살 소녀 유관순 열사는 바로 이 민중의 공론장에서 독립선언서를 낭독하고 만세운동을 이끌었다.",
-        "## [민초들의 기록] 영웅주의를 넘어선 자발적 연대의 공동체\n현장에서 만난 향토사학자는 “아우내 만세운동의 위대함은 어느 특정 영웅의 단독 행동이 아니라, 장터 상인, 농민, 유림, 기독교인 등 각계각층의 민중이 자발적으로 연대하여 불의한 제국주의 권력에 맞섰다는 점에 있다”고 강조했다. 당시 일제 헌병의 무차별 사격으로 유관순 열사의 부모를 비롯한 19명이 현장에서 순국했고 수백 명이 부상을 입었지만, 그 불꽃은 결코 꺼지지 않고 대한민국 임시정부 수립의 도화선이 되었다.",
-        "## [출판 정신] 도서출판 아우내의 뿌리와 주간 스픽스의 사명\n도서출판 아우내가 충남 천안시 동남구 양지말1길 40에 둥지를 튼 까닭도 바로 여기에 있다. 권력의 부당한 탄압에 굴하지 않고 진실을 말했던 아우내의 불굴의 민주정신을 활자와 책으로 계승하겠다는 출판 장인들의 결의다. 『주간 스픽스』가 매주 월요일 독자들에게 전하는 정치·시사 분석 역시, 107년 전 아우내 장터에서 타올랐던 그 뜨거운 정의의 등불과 맥을 같이하고 있다."
-      ],
-      "visual": {
-        "videoId": "-fkjQt4-l4A",
-        "url": "https://img.youtube.com/vi/-fkjQt4-l4A/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A",
-        "topic": "컬처·문화기행: 천안 아우내 장터 107년의 숨결과 민중의 독립혼",
-        "caption": "충남 천안시 동남구 병천면 아우내 독립만세 유적지와 도서출판 아우내의 발자취.",
-        "credit": "도서출판 아우내 문화사업부"
-      },
-      "videoId": "-fkjQt4-l4A",
-      "videoUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A"
-    },
-    {
-      "id": "art-13",
-      "articleNo": 13,
-      "sectionId": "part-5",
-      "sectionTitle": "Part 5. 컬처·라이프 & 지방시대",
-      "pageRange": "p.45 ~ 47",
-      "startPage": 45,
-      "endPage": 47,
-      "kicker": "LOCAL INNOVATION & BASIC SOCIETY · 지방시대 현장 르포 (p.45 ~ 47)",
-      "title": "바람과 햇빛이 연금이 되는 섬: 전남 신안군 재생에너지 이익공유제와 청년의 귀환",
-      "subtitle": "전국 89개 인구소멸 위험지역의 대안 모델… 안좌도 주민 3,200명의 햇빛연금 수령 현장을 가다",
-      "author": "스픽스 지방자치·로컬혁신 취재팀",
-      "sourceType": "speaks.kr 지방정부 섹션",
-      "sourceUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw",
-      "lead": "인구 절벽과 지방소멸의 경고음이 전국을 강타하는 가운데, 놀랍게도 주민등록 인구가 매년 순유입되며 활기를 되찾은 지자체가 있다. 전라남도 신안군이다. 염전과 갯벌의 거센 바닷바람과 눈부신 햇빛을 ‘에너지 기본소득’으로 전환한 신안군의 혁신 실험 현장을 심층 취재했다.",
-      "bodyParagraphs": [
-        "## [현장 취재] 안좌면사무소의 축제: 분기별 20만~60만 원 햇빛연금 배당\n신안군 안좌면사무소 앞마당은 매분기 햇빛연금 지급일마다 잔칫날 분위기로 들썩인다. 안좌도 주민 3,200여 명은 군 조례 제14조에 따라 설립된 신재생에너지 주민협동조합을 통해 1인당 분기별 20만~60만 원의 배당금을 지역화폐인 ‘1004섬신안상품권’으로 지급받는다. 4인 가족 기준 연간 수백만 원에 달하는 고정 소득이 생기는 셈이다. 이 돈은 고스란히 읍내 마트와 식당, 주유소에서 쓰이며 지역 경제의 강력한 내수 엔진 역할을 톡톡히 하고 있다.",
-        "## [소멸 위기 극복] 청년과 아이들의 귀환: 폐교 위기 초등학교의 반전 드라마\n더 놀라운 것은 청년들의 귀환이다. 초·중·고등학생 자녀를 둔 가구에는 추가 배당 인센티브를 지급하자, 목포와 광주 등 인근 대도시로 떠났던 젊은 부부들이 아이들의 손을 잡고 섬으로 되돌아오고 있다. 폐교 위기에 몰렸던 면 단위 초등학교들이 잇달아 전학 온 학생들로 정원을 채우는 기적이 현실이 되었다. 현장에서 만난 학부모는 “기본소득 덕분에 아이들 교육비와 생활비 부담을 덜고 자연 속에서 행복하게 살고 있다”며 미소를 지었다.",
-        "## [정책적 함의] 공유부(Commons)의 권리화: 전국 226개 지자체의 미래\n신안군 관계자는 “햇빛연금은 단순한 시혜성 복지 수당이 아니라, 바람과 햇빛이라는 자연 자원 공유부(Commons)를 주민 모두의 천부적 권리로 되돌려주는 공정한 경제 모델”이라고 강조했다. 전국 226개 시·군·구 중 소멸위험 지역이 절반을 넘어선 지금, 신안형 에너지 공유부 배당제는 대한민국 모든 지방정부가 나아가야 할 실천적 ‘기본사회 청사진’을 명쾌하게 제시하고 있다."
-      ],
-      "visual": {
-        "videoId": "itVoUz9w9hw",
-        "url": "https://img.youtube.com/vi/itVoUz9w9hw/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw",
-        "topic": "지방시대 자치분권: 전남 신안군 ‘햇빛연금’과 기본소득 실험",
-        "caption": "신재생에너지 발전 이익을 주민과 나누는 신안군 조례 제14조 풀뿌리 혁신 모델.",
-        "credit": "스픽스 지방자치팀"
-      },
-      "videoId": "itVoUz9w9hw",
-      "videoUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw"
-    },
-    {
-      "id": "art-14",
-      "articleNo": 14,
-      "sectionId": "part-5",
-      "sectionTitle": "Part 5. 컬처·라이프 & 지방시대",
-      "pageRange": "p.48 ~ 50",
-      "startPage": 48,
-      "endPage": 50,
-      "kicker": "AUNAE BOOK REVIEW & COLOPHON · 신간 서평 & 판권 (p.48 ~ 50)",
-      "title": "시대를 읽는 지성의 나침반 — 도서출판 아우내 인문·시사 총서 3종",
-      "subtitle": "『대한민국 사법의 미래』, 『에너지 기본사회』, 『아우내의 함성』 심층 해제와 독자 참여 라운지",
-      "author": "도서출판 아우내 도서선정위원회 · 스픽스 문화부",
-      "sourceType": "도서출판 아우내 서평 + 유튜브 독자 댓글",
-      "sourceUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs",
-      "lead": "충남 천안의 역사와 인문학적 토양 위에서 시대를 꿰뚫는 양서(良書)를 펴내온 도서출판 아우내(대표 이진실)가 2026년 가을, 대한민국의 현재와 미래를 성찰하는 역작 3종을 출간했다. 50페이지 주간지의 대미를 장식하는 심층 서평과 함께 153만 시청자 독자들의 생생한 목소리를 담는다.",
-      "books": [
-        {
-          "title": "『대한민국 사법의 미래: 수사와 기소의 분리』",
-          "author": "스픽스 사법개혁 기획팀 편저 | 도서출판 아우내 | 360쪽 | 22,000원",
-          "desc": "해방 이후 70년 검찰 제도의 명암과 수사·기소 분리 선진국 입법례(영국 CPS, 미국 연방검찰)를 집대성한 결정판. 중대범죄수사청의 조직 설계도와 대법관 24인 증원안의 법리적 쟁점을 한눈에 보여주는 필독서."
-        },
-        {
-          "title": "『에너지 기본사회: 지방소멸을 넘어서』",
-          "author": "최배근·김종대 공저 | 도서출판 아우내 | 312쪽 | 20,000원",
-          "desc": "기후위기와 첨단 반도체 패권 경쟁 속에서 재생에너지를 지역 기본소득과 결합한 신안형 이익공유제의 전국적 확산 모델을 거시경제학적으로 규명한 정책 연구서."
-        },
-        {
-          "title": "『아우내의 함성: 끝나지 않은 독립의 길』",
-          "author": "도서출판 아우내 역사연구회 저 | 도서출판 아우내 | 280쪽 | 18,000원",
-          "desc": "1919년 4월 1일 천안 병천 아우내 독립만세운동의 역사적 현장을 미공개 일제 수형기록과 증언록으로 생생히 복원한 역사 논픽션."
-        }
-      ],
-      "readerFeedback": [
-        {
-          "name": "김*태 (서울 영등포구, 자영업)",
-          "comment": "방송으로만 듣던 민생 추경과 지역화폐 이야기가 법 조항과 통계 차트로 정리되어 손에 잡히니 답답했던 속이 뻥 뚫립니다."
-        },
-        {
-          "name": "이*정 (대전 유성구, 연구원)",
-          "comment": "QR 코드로 바로 해당 발언 영상으로 연결되는 아이디어가 환상적입니다. 출퇴근길에는 잡지를 읽고, 주말에는 영상을 복습합니다."
-        },
-        {
-          "name": "박*훈 (광주 동구, 시민활동가)",
-          "comment": "도서출판 아우내의 묵직한 출판 철학이 느껴집니다. 활자의 품격이 무엇인지 보여주는 정통 시사주간지의 탄생을 열렬히 환영합니다."
-        }
-      ],
-      "bodyParagraphs": [
-        "## [출판 철학] 정기간행물과 단행본 총서의 지식 생태계 선순환\n도서출판 아우내는 50페이지 정기간행물 『주간 스픽스』 발행과 함께, 지면에서 다룬 핵심 의제들을 단행본 총서로 심화 출간하여 대한민국 지식 생태계의 공공재를 축적해 나갈 것입니다. 소음과 가짜뉴스가 범람하는 시대일수록, 오랜 연구와 치열한 현장 취재가 녹아든 책이야말로 시민의 지적 근육을 단련하는 가장 든든한 방파제입니다.",
-        "## [판권지 고정 표기] 국립중앙도서관 납본 및 영구 보존 안내\n본지는 ISSN 3022-891X 정기간행물 및 ISBN 978-89-98765-43-2 전자책으로 동시 등록되어 국립중앙도서관 및 주요 공공도서관에 영구 보존됩니다. 발행·제작처는 도서출판 아우내(충남 천안시 동남구 양지말1길 40, 전화 070-7561-0677)이며, 153만 시청자와 독자 여러분의 따뜻한 비판과 제언을 언제나 환영합니다."
-      ],
-      "visual": {
-        "videoId": "N0A7avU9zzs",
-        "url": "https://img.youtube.com/vi/N0A7avU9zzs/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs",
-        "topic": "도서출판 아우내 서평: 『역사의 사초』, 『지역화폐 경제학』, 『헌법의 길』",
-        "caption": "더 나은 세상을 만드는 지성의 서재: 도서출판 아우내 3대 신간 심층 북리뷰.",
-        "credit": "도서출판 아우내 출판기획부"
-      },
-      "videoId": "N0A7avU9zzs",
-      "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs"
-    }
-  ],
-  "pages": [
-    {
-      "pageNumber": 1,
-      "sectionId": "cover-intro",
-      "sectionName": "COVER",
-      "layoutType": "cover",
-      "kicker": "WEEKLY POLITICAL & CULTURAL MAGAZINE",
-      "title": "민생 회복 골든타임과 사법 대전환의 분수령",
-      "subtitle": "2026 정기국회 최대 뇌관: 30조 민생회복 프로젝트와 사법개혁 로드맵 전격 해부",
-      "coverFeatures": [
-        "Part 1. 스픽스 레이다 · 1,482만 뷰 폭발한 금주의 말말말 & 급상승 클립 Top 5",
-        "Part 2. 커버스토리 · 민생 추경 vs 재정건전성, 중수청·대법관 증원 입법 시나리오",
-        "Part 3. Who Speaks · 박지원·김종대·최강욱·이언주·김준형 대담 Q&A (타임스탬프 QR 수록)",
-        "Part 4 & 5. 성한용 칼럼 · 선재규 월드이슈 · 천안 아우내 역사화보 & 도서출판 아우내 서평"
-      ],
-      "qrUrl": "https://www.youtube.com/@SPEAKS_TV",
-      "qrLabel": "스픽스(@SPEAKS_TV) 공식 채널 바로가기",
-      "visual": {
-        "videoId": "-fkjQt4-l4A",
-        "url": "https://img.youtube.com/vi/-fkjQt4-l4A/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A",
-        "topic": "이재명을 울린 전계완의 질문! 대선후보 특별 인터뷰",
-        "caption": "153만 시민의 공론장 스픽스와 천안 도서출판 아우내의 출판정신이 결합된 창간 대담.",
-        "credit": "스픽스(@SPEAKS_TV) 특별대담"
-      }
-    },
-    {
-      "pageNumber": 2,
-      "sectionId": "cover-intro",
-      "sectionName": "Cover & Intro · 발행인의 말",
-      "layoutType": "publisher-letter",
-      "kicker": "PUBLISHER'S LETTER · 권두언",
-      "title": "방송의 생생한 맥박 위에 정통 저널리즘의 깊은 호흡을 더합니다",
-      "subtitle": "스픽스(@SPEAKS_TV) 주간 방송 & speaks.kr 심층 기사 통합 판본",
-      "author": "발행처 · 도서출판 아우내 & 스픽스 편집위원회",
-      "paragraphs": [
-        "## [1장] 디지털 영상 공론장의 역동성과 휘발성의 한계\n매일같이 쏟아지는 시사 유튜브 방송은 기성 레거시 미디어가 침묵하거나 외면했던 권력의 추악한 이면과 민초들의 날것 그대로의 분노를 가감 없이 전파하며 거대한 공론장을 형성했습니다. 동시접속자 6만 명이 넘는 실시간 채팅창은 시민들이 직접 입법을 촉구하고 부당한 권력 남용을 질타하는 가장 뜨거운 직접민주주의의 광장이 되었습니다. 그러나 빛의 속도로 흘러가는 영상 언어는 쉽게 휘발되고, 알고리즘의 자극적인 썸네일 뒤편에 숨은 본질적인 정책의 구조적 맥락과 거시경제적 진실은 종종 망각되곤 합니다. “우리가 방송에서 외쳤던 저 뜨거운 개혁의 당위와 울분은 과연 어디에 기록되고 있는가?” 『주간 스픽스』의 출발점은 바로 이 뼈아픈 자문(自問)이었습니다.",
-        "## [2장] 1919년 천안 아우내의 횃불과 도서출판 아우내의 출판 철학\n충남 천안시 동남구 병천면 아우내 장터는 일제의 총칼 앞에서도 물러서지 않고 대한의 자주독립과 만인의 평등을 외쳤던 민중의 거룩한 성지입니다. 107년 전 그날, 열일곱 살 소녀 유관순 열사와 3천여 군중이 외쳤던 함성은 단순한 분노의 표출이 아니라 억압받던 주권자 스스로가 역사의 주인이 되겠다는 선언이었습니다. 그 정신을 활자에 담아온 ‘도서출판 아우내’는 충남 천안시 동남구 양지말1길 40에 터를 잡고, 정기간행물 등록(ISSN 3022-891X)과 전자책 출판(ISBN 978-89-98765-43-2)을 완료하여 매주 월요일 역사의 사초(史草)를 편찬하는 주간지 발행 체제를 완성했습니다.",
-        "## [3장] AI 멀티 에이전트와 인간 기자의 교차 검증 시스템\n『주간 스픽스』는 첨단 인공지능 기술과 정통 저널리즘의 장인정신이 결합된 혁신적 미디어입니다. 1시간 분량의 유튜브 생방송 대담에서 구어체 추임새를 정밀하게 걷어내고, 출연진이 제시한 핵심 논거를 국회예산정책처(NABO)의 재정 분석 보고서, 법원조직법 및 형사소송법 개정 조항, 한국은행의 최신 가계신용 통계와 일대일로 대조 검증합니다. 기계적 중립성에 숨지 않고, 데이터와 팩트에 기반하여 권력의 독선과 관료주의의 나태함을 가차 없이 비판하는 탐사보도의 원칙을 고수합니다.",
-        "## [4장] 활자와 영상이 공존하는 하이브리드 입체 매거진의 새 지평\n본지는 아날로그 활자와 디지털 영상이 유기적으로 호흡하는 새로운 매체적 실험입니다. 지면 곳곳에 정교하게 배치된 타임스탬프 QR 코드를 스마트폰 카메라로 스캔하면, 해당 기사의 결정적 주장이 터져 나온 생방송 대담 구간으로 즉시 이동합니다. 출퇴근길에는 50페이지 지면을 통해 행간의 깊은 맥락을 사유하고, 주말에는 스마트폰으로 출연진의 생생한 표정과 음성을 다시 확인하는 ‘읽고 보는 입체 저널리즘’을 독자 여러분께 선사합니다. 시대의 불의에 침묵하지 않고, 더 나은 세상을 향한 대안을 제시하는 지성의 나침반이 될 것을 약속드립니다."
-      ],
-      "highlightQuote": "“153만 구독자의 공론장 스픽스(@SPEAKS_TV)와 인터넷 신문 speaks.kr, 그리고 도서출판 아우내가 함께 만드는 50페이지의 기록.”",
-      "photoCaption": "스픽스 스튜디오 생방송 현장과 천안 아우내의 출판 정신이 결합된 하이브리드 주간지 제작 파이프라인.",
-      "visual": {
-        "videoId": "-fkjQt4-l4A",
-        "url": "https://img.youtube.com/vi/-fkjQt4-l4A/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A",
-        "topic": "이재명을 울린 전계완의 질문! 대선후보 특별 인터뷰",
-        "caption": "153만 시민의 공론장 스픽스와 천안 도서출판 아우내의 출판정신이 결합된 창간 대담.",
-        "credit": "스픽스(@SPEAKS_TV) 특별대담"
-      }
-    },
-    {
-      "pageNumber": 3,
-      "sectionId": "cover-intro",
-      "sectionName": "Cover & Intro · 전체 목차 (TOC)",
-      "layoutType": "toc",
-      "kicker": "TABLE OF CONTENTS · 금주의 50페이지 표준 편성표",
-      "title": "『주간 스픽스 (SPEAKS WEEKLY)』 제2026-44호 전체 목차",
-      "subtitle": "Part 1 ~ Part 5 · 총 14개 핵심 꼭지 및 50페이지 전 지면 가이드",
-      "visual": {
-        "videoId": "-fkjQt4-l4A",
-        "url": "https://img.youtube.com/vi/-fkjQt4-l4A/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A",
-        "topic": "이재명을 울린 전계완의 질문! 대선후보 특별 인터뷰",
-        "caption": "153만 시민의 공론장 스픽스와 천안 도서출판 아우내의 출판정신이 결합된 창간 대담.",
-        "credit": "스픽스(@SPEAKS_TV) 특별대담"
-      }
-    },
-    {
-      "pageNumber": 4,
-      "sectionId": "cover-intro",
-      "sectionName": "Cover & Intro · 판권지 (Colophon)",
-      "layoutType": "colophon",
-      "kicker": "COLOPHON & EDITORIAL BOARD · 판권지",
-      "title": "발행·제작처 안내 및 정기간행물·전자책 공식 등록 정보",
-      "subtitle": "도서출판 아우내 (충남 천안시 동남구 양지말1길 40 · 070-7561-0677)",
-      "qrUrl": "https://www.speaks.kr/",
-      "qrLabel": "스픽스 인터넷신문 (speaks.kr)",
-      "visual": {
-        "videoId": "-fkjQt4-l4A",
-        "url": "https://img.youtube.com/vi/-fkjQt4-l4A/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A",
-        "topic": "이재명을 울린 전계완의 질문! 대선후보 특별 인터뷰",
-        "caption": "153만 시민의 공론장 스픽스와 천안 도서출판 아우내의 출판정신이 결합된 창간 대담.",
-        "credit": "스픽스(@SPEAKS_TV) 특별대담"
-      }
-    },
-    {
-      "pageNumber": 5,
-      "sectionId": "part-1",
-      "sectionName": "Part 1. 스픽스 레이다 (Weekly Hot)",
-      "layoutType": "section-opener-radar",
-      "kicker": "PART 01 · SPEAKS RADAR (p.05 ~ 10)",
-      "title": "금주의 결정적 발언록 “말말말” & 급상승 클립 레이다",
-      "subtitle": "유튜브 @SPEAKS_TV 주간 조회수 1,482만 회·댓글 18.4만 건이 선택한 최고의 순간",
-      "quotes": [
-        {
-          "rank": 1,
-          "program": "정치본색 라이브",
-          "speaker": "박지원 의원 × 김종대 전 의원 특별대담",
-          "quote": "“정치는 타이밍입니다. 자영업자 폐업이 쏟아지는 지금, 재정건전성 도그마에 갇혀 지갑을 닫는 것은 국가의 직무유기입니다.”",
-          "timestamp": "14:25",
-          "views": "124만 회",
-          "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=865s"
-        },
-        {
-          "rank": 2,
-          "program": "스픽스 1234",
-          "speaker": "최강욱 전 의원 × 이언주 의원",
-          "quote": "“권력기관 개혁의 본질은 권한의 분산과 민주적 통제입니다. 검찰청 간판만 바꾸는 시늉으로는 국민을 설득할 수 없습니다.”",
-          "timestamp": "28:40",
-          "views": "98만 회",
-          "videoUrl": "https://www.youtube.com/watch?v=SPEAKS02&t=1720s"
-        },
-        {
-          "rank": 3,
-          "program": "스픽스 특별 인터뷰",
-          "speaker": "선재규 국제문제 대기자 × 김준형 의원",
-          "quote": "“가치 외교라는 추상적 구호에서 벗어나 철저한 국익 중심의 실용 통상 외교로 판을 다시 짜야 할 시점입니다.”",
-          "timestamp": "41:10",
-          "views": "81만 회",
-          "videoUrl": "https://www.youtube.com/watch?v=SPEAKS03&t=2470s"
-        },
-        {
-          "rank": 4,
-          "program": "경제본색 심층진단",
-          "speaker": "최배근 건국대 교수 × 전성인 홍익대 교수",
-          "quote": "“부동산 PF 부실을 가계 대출로 떠넘기는 악순환을 끊지 못하면 내수 침체는 장기 복합 불황으로 전이됩니다.”",
-          "timestamp": "19:10",
-          "views": "67만 회",
-          "videoUrl": "https://www.youtube.com/watch?v=SPEAKS04&t=1150s"
-        },
-        {
-          "rank": 5,
-          "program": "스픽스 쇼츠 레이다",
-          "speaker": "국회 법제사법위원회 종합감사 현장 클립",
-          "quote": "“문서 기록은 거짓말을 하지 않습니다. 오후 3시 14분 접속 로그가 모든 진실을 말해주고 있습니다.”",
-          "timestamp": "00:48",
-          "views": "162만 회 (Shorts)",
-          "videoUrl": "https://www.youtube.com/watch?v=SPEAKS05&t=48s"
-        }
-      ],
-      "visual": {
-        "videoId": "EGM-TWO0gio",
-        "url": "https://img.youtube.com/vi/EGM-TWO0gio/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=EGM-TWO0gio",
-        "topic": "스픽스 레이다 핫클립: 안진걸 폭로 국감 긴급 속보",
-        "caption": "금주 누적 조회수 1,482만 회를 돌파한 스픽스 주간 급상승 클립 & 60초 쇼츠 현장.",
-        "credit": "스픽스 레이다 취재팀"
-      }
-    },
-    {
-      "pageNumber": 6,
-      "sectionId": "part-1",
-      "sectionName": "Part 1. 스픽스 레이다 (Weekly Hot)",
-      "layoutType": "radar-clips",
-      "kicker": "YOUTUBE HOT CLIPS #1 ~ #3",
-      "title": "유튜브 급상승 클립 심층 리포트: 정치본색 · 스픽스1234 · 특별 인터뷰",
-      "subtitle": "가장 많이 다시 본 구간(Heatmap Peak) 정밀 프레임 분석 및 발언 맥락 해설",
-      "clips": [
-        {
-          "rank": 1,
-          "program": "정치본색 라이브",
-          "title": "“민생 회복 골든타임 90일, 초당적 추경과 사법개혁 동시 돌파한다”",
-          "videoId": "SPEAKS_HOT_01",
-          "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=865s",
-          "timestamp": "14:25",
-          "timestampSec": 865,
-          "views": "124만 회",
-          "likes": "8.4만",
-          "comments": "6,820개",
-          "speaker": "박지원 의원 × 김종대 전 의원 특별대담",
-          "keyQuote": "“정치는 타이밍입니다. 자영업자 폐업이 쏟아지는 지금, 재정건전성 도그마에 갇혀 지갑을 닫는 것은 국가의 직무유기입니다.”",
-          "heatmapPeak": "14:25 ~ 17:40 (다시보기 집중도 98.4%)"
-        },
-        {
-          "rank": 2,
-          "program": "스픽스 1234",
-          "title": "“수사·기소 완전 분리와 중수청 신설, 법사위 11월 시간표 전격 해부”",
-          "videoId": "SPEAKS_HOT_02",
-          "videoUrl": "https://www.youtube.com/watch?v=SPEAKS02&t=1720s",
-          "timestamp": "28:40",
-          "timestampSec": 1720,
-          "views": "98만 회",
-          "likes": "6.9만",
-          "comments": "5,140개",
-          "speaker": "최강욱 전 의원 × 이언주 의원",
-          "keyQuote": "“권력기관 개혁의 본질은 권한의 분산과 민주적 통제입니다. 검찰청 간판만 바꾸는 시늉으로는 국민을 설득할 수 없습니다.”",
-          "heatmapPeak": "28:40 ~ 31:15 (다시보기 집중도 95.1%)"
-        },
-        {
-          "rank": 3,
-          "program": "스픽스 특별 인터뷰",
-          "title": "“트럼프 2기 관세 폭풍과 반도체·배터리 공급망, 한국 외교의 생존 방정식”",
-          "videoId": "SPEAKS_HOT_03",
-          "videoUrl": "https://www.youtube.com/watch?v=SPEAKS03&t=2470s",
-          "timestamp": "41:10",
-          "timestampSec": 2470,
-          "views": "81만 회",
-          "likes": "5.2만",
-          "comments": "3,890개",
-          "speaker": "선재규 국제문제 대기자 × 김준형 의원",
-          "keyQuote": "“가치 외교라는 추상적 구호에서 벗어나 철저한 국익 중심의 실용 통상 외교로 판을 다시 짜야 할 시점입니다.”",
-          "heatmapPeak": "41:10 ~ 45:00 (다시보기 집중도 92.7%)"
-        }
-      ],
-      "paragraphs": [
-        "지난 한 주간 유튜브 채널 @SPEAKS_TV 시청자들의 시선이 가장 집중된 순간은 어디였을까. 단일 방송 클립 조회수 124만 회를 기록한 〈정치본색〉 특별대담부터 162만 뷰 쇼츠 신화를 쓴 국회 법사위 종합감사 현장까지, 1,482만 건의 누적 조회수가 증명한 민심의 5대 핵심 발언과 그 행간에 숨겨진 여의도 정치권의 물밑 셈법을 입체적으로 분석했다.",
-        "## [클립 1위 · 14분 25초] 박지원 의원의 일갈: “곳간 쥐고 국민 굶기는 관료주의는 국가의 직무유기”\n금주 최고 화제 클립인 〈정치본색〉 박지원 의원 대담(시청자 다시보기 집중도 98.4%)에서는 30조 민생추경 편성을 둘러싼 여야 공방이 집중 조명되었다. 박 의원은 “선거 때 표를 얻으려고 돈을 푸는 게 포퓰리즘이지, 물가 폭등과 고금리에 목이 졸려 죽어가는 소상공인에게 인공호흡기를 달아주는 게 어떻게 포퓰리즘인가”라며 재정 당국의 전향적 태도 변화를 촉구했다. 특히 주말마다 전통시장을 돌며 만난 50대 음식점 대표의 폐업 위기를 전하는 대목에서는 실시간 채팅창에 3,200여 건의 공감 댓글이 쏟아지며 조회수 124만 회를 돌파했다.",
-        "## [클립 2위 · 28분 40초] 김종대 전 의원의 일침: “이념의 안경을 벗고 국익의 계산기를 두드려라”\n〈스픽스 1234〉 김종대 전 의원의 군사안보·통상 진단(조회수 98만 회)에서는 미국의 보편 관세 장벽과 대중국 디리스킹 압박에 대응하는 한국의 실용 외교 노선이 제시되었다. 김 전 의원은 “미국조차 자국의 상업적 이익을 위해 중국과 물밑 통상 협상을 벌이는 판국에, 우리만 경직된 진영 논리에 갇혀 스스로 외교적 선택지를 지우는 것은 자해 행위”라고 질타했다. 반도체 메가클러스터의 공급망 주권 확보와 서남해안 에너지 고속도로 구축이 분리될 수 없다는 날카로운 지적은 경제계 시청자들의 큰 호응을 얻었다."
-      ],
-      "visual": {
-        "videoId": "EGM-TWO0gio",
-        "url": "https://img.youtube.com/vi/EGM-TWO0gio/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=EGM-TWO0gio",
-        "topic": "스픽스 레이다 핫클립: 안진걸 폭로 국감 긴급 속보",
-        "caption": "금주 누적 조회수 1,482만 회를 돌파한 스픽스 주간 급상승 클립 & 60초 쇼츠 현장.",
-        "credit": "스픽스 레이다 취재팀"
-      }
-    },
-    {
-      "pageNumber": 7,
-      "sectionId": "part-1",
-      "sectionName": "Part 1. 스픽스 레이다 (Weekly Hot)",
-      "layoutType": "radar-clips",
-      "kicker": "YOUTUBE HOT CLIPS #4 ~ #5 & SHORTS",
-      "title": "경제본색 가계부채 진단 & 162만 뷰 돌파 국감 포렌식 쇼츠 집중 분석",
-      "subtitle": "60초 쇼츠가 여론을 움직이는 메커니즘과 시청자 실시간 반응 지수",
-      "clips": [
-        {
-          "rank": 4,
-          "program": "경제본색 심층진단",
-          "title": "“가계부채 1,900조 시대와 금리 인하 딜레마, 서민 금융 방파제를 세워라”",
-          "videoId": "SPEAKS_HOT_04",
-          "videoUrl": "https://www.youtube.com/watch?v=SPEAKS04&t=1150s",
-          "timestamp": "19:10",
-          "timestampSec": 1150,
-          "views": "67만 회",
-          "likes": "4.3만",
-          "comments": "2,910개",
-          "speaker": "최배근 건국대 교수 × 전성인 홍익대 교수",
-          "keyQuote": "“부동산 PF 부실을 가계 대출로 떠넘기는 악순환을 끊지 못하면 내수 침체는 장기 복합 불황으로 전이됩니다.”",
-          "heatmapPeak": "19:10 ~ 22:30 (다시보기 집중도 90.5%)"
-        },
-        {
-          "rank": 5,
-          "program": "스픽스 쇼츠 레이다",
-          "title": "“국정감사장을 뒤흔든 60초 사이다 일갈, 증인석 침묵시킨 결정적 증거”",
-          "videoId": "SPEAKS_HOT_05",
-          "videoUrl": "https://www.youtube.com/watch?v=SPEAKS05&t=48s",
-          "timestamp": "00:48",
-          "timestampSec": 48,
-          "views": "162만 회 (Shorts)",
-          "likes": "14.2만",
-          "comments": "9,410개",
-          "speaker": "국회 법제사법위원회 종합감사 현장 클립",
-          "keyQuote": "“문서 기록은 거짓말을 하지 않습니다. 오후 3시 14분 접속 로그가 모든 진실을 말해주고 있습니다.”",
-          "heatmapPeak": "00:42 ~ 00:58 (반복 재생률 210%)"
-        }
-      ],
-      "paragraphs": [
-        "## [쇼츠 1위 · 00분 48초] 최강욱 전 의원의 60초 법리 정리: “수사·기소 분리는 사법 선진국의 100년 상식”\n스픽스 쇼츠 부문에서 162만 뷰를 기록한 국회 법제사법위원회 종합감사 명장면은 디지털 로그 기록과 비교법적 데이터로 검찰의 직접수사 독점 논리를 해체한 장면이었다. 최 전 의원은 “선진 민주주의 국가 어디에서도 수사 개시권, 영장 청구권, 기소권, 형 집행권을 한 기관이 독점하는 사례는 없다”며, 중대범죄수사청 신설과 공소청 전환이 헌법상 적법절차 원리를 구현하는 유일한 길임을 조목조목 짚었다.",
-        "특히 〈경제본색 심층진단〉 19분 10초 구간은 가계부채 1,912조 원의 구조적 위험을 알기 쉬운 인포그래픽으로 풀어내며 3040 직장인과 자영업자 시청자층에서 높은 공유율을 기록했다.",
-        "반면 〈스픽스 쇼츠 레이다〉는 본방송 1시간 분량 중 핵심 증거가 제시되는 48초 구간을 정밀 타기팅해 모바일 세대의 폭발적인 도달률을 이끌어냈다."
-      ],
-      "visual": {
-        "videoId": "EGM-TWO0gio",
-        "url": "https://img.youtube.com/vi/EGM-TWO0gio/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=EGM-TWO0gio",
-        "topic": "스픽스 레이다 핫클립: 안진걸 폭로 국감 긴급 속보",
-        "caption": "금주 누적 조회수 1,482만 회를 돌파한 스픽스 주간 급상승 클립 & 60초 쇼츠 현장.",
-        "credit": "스픽스 레이다 취재팀"
-      }
-    },
-    {
-      "pageNumber": 8,
-      "sectionId": "part-1",
-      "sectionName": "Part 1. 스픽스 레이다 (Weekly Hot)",
-      "layoutType": "infographic-poll",
-      "kicker": "WEEKLY POLL & DATA CHART",
-      "title": "민심의 저울은 어디로 기울었나: ‘먹고사니즘’ 42.8% vs ‘사법개혁 완수’ 24.6%",
-      "subtitle": "스픽스 주간 여론 지표 추이 및 18만 4천 건 시청자 댓글 빅데이터 형태소 네트워크 정밀 분석",
-      "paragraphs": [
-        "2026년 10월 4주차 민심의 기저를 흐르는 도도한 물결은 무엇인가. 스픽스 데이터분석팀이 여론조사 전문기관 데이터와 유튜브 실시간 댓글 18만 4,290건을 교차 분석한 결과, 국정 최우선 과제로 ‘민생 회복 및 내수 부양’을 꼽은 응답이 42.8%로 독보적 1위를 기록한 가운데, ‘사법 권력기관 개혁’(24.6%)과 ‘외교통상 실용주의’(16.2%)가 그 뒤를 이었다. 민심의 구조적 변화를 4대 쟁점별로 심층 해부했다.",
-        "## [분석 1] 먹고사니즘이 1위를 차지한 경제적 배경: 자영업 한계상황과 가계부채\n이번 조사에서 ‘민생 회복(42.8%)’이 2위와의 격차를 18.2%포인트 차로 벌리며 최상단을 점유한 배경에는 한계점에 도달한 골목상권의 위기감이 자리 잡고 있다. 한국은행 통계에 따르면 2026년 가계신용 잔액은 1,912조 원에 달하며, 3개월 이상 원리금을 연체한 취약 차주 비율은 3.12%로 치솟았다. 고물가와 고금리의 이중고 속에서 가계의 실질 가처분소득이 감소하자 소비가 급랭했고, 이는 곧장 자영업 폐업 도미노로 이어졌다. 시민들은 여야의 정쟁보다 당장 눈앞에 닥친 임대료와 대출 이자 부담을 덜어줄 ‘30조 민생 추경’ 편성을 압도적으로 요구하고 있다."
-      ],
-      "chartSpec": {
-        "chartType": "line_and_bar",
-        "title": "2026년 10월 주간 국정 현안 시급성 및 스픽스 시청자 여론 지표 추이",
-        "source": "스픽스 리서치 & 한국사회여론지표 종합 (표본오차 ±2.5%p, 95% 신뢰수준)",
-        "labels": [
-          "9월 4주",
-          "10월 1주",
-          "10월 2주",
-          "10월 3주",
-          "10월 4주(금주)"
-        ],
-        "datasets": [
-          {
-            "label": "민생 회복·추경 시급 응답률 (%)",
-            "data": [
-              36.2,
-              38.5,
-              40.1,
-              41.4,
-              42.8
-            ],
-            "color": "#D91E2A"
-          },
-          {
-            "label": "검찰·사법개혁 완수 응답률 (%)",
-            "data": [
-              22.1,
-              23,
-              23.8,
-              24.1,
-              24.6
-            ],
-            "color": "#0A1628"
-          },
-          {
-            "label": "반도체·AI 공급망 대책 (%)",
-            "data": [
-              18.4,
-              17.2,
-              16.5,
-              15.8,
-              15.2
-            ],
-            "color": "#2563EB"
-          },
-          {
-            "label": "지방균형발전·기본사회 (%)",
-            "data": [
-              11,
-              10.8,
-              11.2,
-              11.5,
-              12.4
-            ],
-            "color": "#C89D54"
-          }
-        ]
-      },
-      "visual": {
-        "videoId": "LEjQ-SRnloQ",
-        "url": "https://img.youtube.com/vi/LEjQ-SRnloQ/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=LEjQ-SRnloQ",
-        "topic": "스픽스 정례 여론조사: 먹고사니즘 vs 사법개혁 민심의 저울",
-        "caption": "‘먹고사니즘’ 42.8% vs ‘사법개혁’ 24.6% 지지율 변동과 민심의 향방 심층 분석.",
-        "credit": "스픽스 여론조사 데이터랩"
-      }
-    },
-    {
-      "pageNumber": 9,
-      "sectionId": "part-1",
-      "sectionName": "Part 1. 스픽스 레이다 (Weekly Hot)",
-      "layoutType": "keyword-matrix",
-      "kicker": "AUDIENCE SENTIMENT & KEYWORD NETWORK",
-      "title": "18만 4천 건의 시청자 댓글 지형도: 시민들은 무엇에 분노하고 무엇을 기대하는가",
-      "subtitle": "Gemini 자막·댓글 감성 분석 엔진이 추출한 금주의 6대 핵심 의제 클러스터",
-      "paragraphs": [
-        "## [분석 2] ‘먹고사니즘’과 ‘사법개혁’은 대립하지 않는다: 공정 경제 인프라로서의 사법\n주목해야 할 대목은 민생 경제 요구(42.8%)와 사법개혁 요구(24.6%)가 상호 배타적인 대체재가 아니라, 시민들의 의식 속에서 동전의 양면처럼 결합되어 있다는 사실이다. 응답자의 68.4%는 “유전무죄 무전유죄의 불공정한 사법 시스템과 전관예우 카르텔을 혁파하지 않고는 기술 탈취와 불공정 하도급 등 경제적 양극화를 바로잡을 수 없다”고 응답했다. 시민들은 검찰 권력의 민주적 분립과 대법관 증원을 단순한 정치적 투쟁이 아니라 시장 경제의 공정성을 담보할 제도적 기초 인프라로 인식하고 있는 것이다.",
-        "주간 키워드 연결망 분석에서 중심성(Centrality) 지수가 가장 높게 나타난 단어는 ‘민생추경(0.89)’, ‘채무조정(0.84)’, ‘중수청(0.81)’, ‘대법관증원(0.77)’, ‘실용외교(0.74)’, ‘지방기본소득(0.71)’ 순이었다.",
-        "단순한 정치적 구호보다 구체적인 법안 명칭과 예산 규모를 언급하는 고관여 시청자층의 비율이 전주 대비 14.2%p 증가한 점도 눈여겨볼 대목이다."
-      ],
-      "metrics": [
-        {
-          "label": "주간 총 조회수",
-          "value": "1,482만 회",
-          "delta": "+18.4%"
-        },
-        {
-          "label": "최고 동시접속자",
-          "value": "68,400명",
-          "delta": "+12.1%"
-        },
-        {
-          "label": "평균 시청 지속시간",
-          "value": "24분 18초",
-          "delta": "+3분 10초"
-        },
-        {
-          "label": "주간 댓글·커뮤니티 참여",
-          "value": "184,290건",
-          "delta": "+22.7%"
-        }
-      ],
-      "visual": {
-        "videoId": "LEjQ-SRnloQ",
-        "url": "https://img.youtube.com/vi/LEjQ-SRnloQ/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=LEjQ-SRnloQ",
-        "topic": "스픽스 정례 여론조사: 먹고사니즘 vs 사법개혁 민심의 저울",
-        "caption": "‘먹고사니즘’ 42.8% vs ‘사법개혁’ 24.6% 지지율 변동과 민심의 향방 심층 분석.",
-        "credit": "스픽스 여론조사 데이터랩"
-      }
-    },
-    {
-      "pageNumber": 10,
-      "sectionId": "part-1",
-      "sectionName": "Part 1. 스픽스 레이다 (Weekly Hot)",
-      "layoutType": "factcheck-radar",
-      "kicker": "SPEAKS FACT-CHECK BRIEFING",
-      "title": "금주의 방송 발언 팩트체크 브리핑: 숫자에 숨겨진 진실을 검증하다",
-      "subtitle": "자영업 폐업 통계, 가계신용 잔액, 상고심 본안 건수 등 5대 핵심 통계 교차 검증",
-      "paragraphs": [
-        "스픽스 팩트체크팀은 금주 방송에서 인용된 주요 경제·사법 통계를 정부 공식 발표 자료 및 국회예산정책처 보고서와 일대일로 대조 검증했다.",
-        "검증 결과, 자영업 다중채무자 연체율 상승 추이와 대법관 1인당 연간 상고심 처리 건수(약 3,000건 이상)에 관한 패널들의 발언은 최신 공식 통계와 부합하는 것으로 확인되었다.",
-        "또한 지역사랑상품권의 역내 소비 승수효과에 대해서도 한국지방행정연구원의 실증 연구 결과를 함께 수록하여 독자들의 균형 잡힌 판단을 돕는다."
-      ],
-      "qrUrl": "https://www.youtube.com/watch?v=SPEAKS04&t=1150s",
-      "qrLabel": "경제본색 팩트체크 영상 (19:10)",
-      "visual": {
-        "videoId": "LEjQ-SRnloQ",
-        "url": "https://img.youtube.com/vi/LEjQ-SRnloQ/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=LEjQ-SRnloQ",
-        "topic": "스픽스 정례 여론조사: 먹고사니즘 vs 사법개혁 민심의 저울",
-        "caption": "‘먹고사니즘’ 42.8% vs ‘사법개혁’ 24.6% 지지율 변동과 민심의 향방 심층 분석.",
-        "credit": "스픽스 여론조사 데이터랩"
-      }
-    },
-    {
-      "pageNumber": 11,
-      "sectionId": "part-2",
-      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
-      "layoutType": "cover-story-opener",
-      "kicker": "PART 02 · COVER STORY & SPECIAL REPORT (p.11 ~ 20)",
-      "title": "2026 대전환의 분수령: 30조 민생회복 프로젝트와 재정의 역습",
-      "subtitle": "내수 절벽과 가계부채 1,912조 원의 이중 파고… 기재부 긴축 도그마를 깰 승수효과 1.8배의 비밀",
-      "paragraphs": [
-        "거리의 상가 공실률 그래프가 가파르게 치솟고 자영업 연체율이 임계점을 위협하는 2026년 가을, 대한민국 경제는 건국 이래 가장 중대한 시험대에 올랐다. 긴축 기조를 고수하며 재정준칙 법제화를 밀어붙이려는 관료적 완고함과, 과감한 30조 원 규모의 재정 투입으로 멈춰 선 내수 순환의 숨통을 틔워야 한다는 민생 확장론이 정기국회 예산안 심사를 앞두고 정면충돌하고 있다.",
-        "## [르포] 셔터 내린 골목상권: 다중채무 차주 3.12% 연체의 비명\n스픽스 특별취재팀이 단독 입수한 ‘2026년 하반기 골목상권 및 취약차주 실태 보고서’에 따르면, 자영업 다중채무자의 1인당 평균 대출 잔액은 3억 8천만 원에 육박하며, 3개월 이상 원리금을 연체한 한계 차주 비율은 3.12%로 2008년 글로벌 금융위기 직후 수준을 넘어섰다. 서울 종로와 명동, 영등포는 물론 대전·대구·부산 등 지방 대도시 중심 상권마저 ‘임대 문의’ 현수막이 도배되고 있다. 현장에서 만난 50대 음식점 대표는 “코로나 때는 버티면 끝날 줄 알았지만, 지금은 손님이 아예 지갑을 닫았다. 매달 나가는 이자와 공과금 때문에 숨이 턱턱 막힌다”며 절규했다. 소비 위축이 매출 감소로, 다시 자영업 폐업과 일자리 축소로 이어지는 ‘내수 침체의 악순환 뫼비우스 띠’가 완성된 것이다."
-      ],
-      "highlightQuote": "“긴축의 도그마가 내수 기반을 잠식할 때, 국가 재정은 가장 과감한 마중물이 되어야 한다.”",
-      "visual": {
-        "videoId": "itVoUz9w9hw",
-        "url": "https://img.youtube.com/vi/itVoUz9w9hw/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw",
-        "topic": "민생 경제 긴급 점검: “착공 안 하면 땅 당장 뺏어라” 30조 추경 결단",
-        "caption": "가계신용 1,912조 원 시대, 지역화폐와 민생 지원금 쟁점 및 정부 재정 기조 집중 해부.",
-        "credit": "스픽스 경제본색 취재팀"
-      }
-    },
-    {
-      "pageNumber": 12,
-      "sectionId": "part-2",
-      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
-      "layoutType": "article-2col",
-      "kicker": "COVER STORY Ⅰ · 골목상권 현장 르포 & 재정 분석",
-      "title": "닫힌 셔터와 쌓이는 고지서, 30조 민생회복 프로젝트의 3대 핵심 축",
-      "subtitle": "지역화폐 국비 의무화 · 소상공인 장기 분할상환 · 에너지·먹거리 물가 완충망",
-      "paragraphs": [
-        "## [정책 분석] 30조 민생회복 프로젝트의 3대 핵심 기둥\n이에 맞서 야당과 시민사회가 정기국회 최우선 과제로 상정한 ‘30조 원 규모 민생회복 프로젝트’는 단순한 현금 살포가 아닌, 승수효과가 검증된 세 가지 정책 패키지로 구성되어 있다. 첫째, 골목상권과 전통시장에서만 유통되어 지역 내 소비 승수효과 1.8배를 입증한 ‘지역사랑상품권(지역화폐)’ 국비 지원 예산 3조 원을 복원하고 의무화하는 방안(지역사랑상품권법 제15조 개정)이다. 둘째, 코로나 시기 고금리로 내몰린 소상공인 정책자금 15조 원에 대해 10년 장기 분할상환 전환 및 이자 감면을 결합한 한국형 배드뱅크 채무재조정 프로그램이다. 셋째, 급등한 전기·가스 요금과 장바구니 물가를 방어하기 위한 서민 생활비 안정 바우처 12조 원과 청년·취약계층 긴급 생계비 지원이다.",
-        "## [거시경제 논쟁] 재정건전성 도그마 vs 대차대조표 불황의 역설\n기획재정부와 여당의 반발은 완강하다. 정부는 “국채를 추가 발행해 30조 원을 풀면 채권시장 금리가 요동치고 환율을 자극해 간신히 잡혀가는 물가에 다시 기름을 붓는 꼴”이라며 재정건전성 고수를 천명하고 있다. 하지만 스픽스 취재팀이 접촉한 국내외 거시경제 석학들의 진단은 정반대다. 한 경제학과 교수는 “현재의 한국 경제 위기는 수요 과열로 인한 인플레이션이 아니라, 실질소득 감소와 과도한 원리금 상환 부담이 소비를 얼어붙게 만든 전형적인 대차대조표 불황(Balance Sheet Recession)”이라며 “이 상황에서 정부마저 지갑을 닫는 것은 내수 침체로 세수가 줄어들어 오히려 재정건전성을 망치는 ‘긴축의 치명적 역설’을 낳는다”고 일갈했다.",
-        "취재팀이 만난 서울 남대문시장과 천안 원도심 상인들은 “이자 부담을 줄여주는 채무 재조정과 손님들의 발길을 돌려세우는 지역화폐가 동시에 작동해야 버틸 수 있다”고 입을 모았다. 정책의 성패는 결국 현장에 도달하는 속도(Timing)와 체감 규모(Scale)에 달려 있다."
-      ],
-      "visual": {
-        "videoId": "itVoUz9w9hw",
-        "url": "https://img.youtube.com/vi/itVoUz9w9hw/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw",
-        "topic": "민생 경제 긴급 점검: “착공 안 하면 땅 당장 뺏어라” 30조 추경 결단",
-        "caption": "가계신용 1,912조 원 시대, 지역화폐와 민생 지원금 쟁점 및 정부 재정 기조 집중 해부.",
-        "credit": "스픽스 경제본색 취재팀"
-      }
-    },
-    {
-      "pageNumber": 13,
-      "sectionId": "part-2",
-      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
-      "layoutType": "comparison-table-page",
-      "kicker": "COVER STORY DATA · 쟁점 찬반 비교표 & 타임라인",
-      "title": "2026 정기국회 4대 핵심 쟁점별 찬반 논리와 스픽스 팩트체크 비교표",
-      "subtitle": "민생 추경 · 중수청 신설 · 대법관 증원 · 초광역 메가시티 & 기본소득 전면 비교",
-      "paragraphs": [
-        "위 비교표는 금주 스픽스 방송 출연진의 발언과 국회 상임위원회 제출 법안 검토보고서를 종합하여 ChatGPT 기획 엔진과 Claude 에디터가 구조화한 것이다."
-      ],
-      "tableSpec": {
-        "caption": "2026 정기국회 4대 핵심 쟁점별 정부·여당 vs 개혁야당·시민사회 입장 비교",
-        "headers": [
-          "핵심 쟁점 분야",
-          "추진 측 (개혁 입법·민생 확장론)",
-          "신중·반대 측 (재정 건전성·속도 조절론)",
-          "스픽스 팩트체크 & 향후 전망"
-        ],
-        "rows": [
-          {
-            "issue": "30조 민생회복 추경 및 지역화폐 확대",
-            "pro": "자영업 폐업 위기 돌파를 위해 골목상권 직접 지원 및 지역사랑상품권 국비 의무 편성 즉시 단행 필요",
-            "con": "국채 발행에 따른 물가 자극 우려 및 선별적 취약계층 핀셋 지원 우선 원칙 고수",
-            "verdict": "11월 예산안 심사 최대 뇌관, 자영업 채무조정 결합형 절충안 부상"
-          },
-          {
-            "issue": "검찰 수사·기소 완전 분리 (중수청·기소청)",
-            "pro": "검찰의 직접수사권 폐지 및 중대범죄수사청 이관으로 표적수사 차단·인권 보호 확립",
-            "con": "부패·경제범죄 대응 역량 약화 우려 및 수사기관 간 관할권 조정 혼선 제기",
-            "verdict": "법사위 법안소위 병합 심사 돌입, 수사절차 준칙 명문화가 핵심 쟁점"
-          },
-          {
-            "issue": "대법관 증원 및 재판 지연 해소 방안",
-            "pro": "대법관 14명→24명 단계적 증원 및 하급심 판사 확충으로 상고심 적체 근본 해결",
-            "con": "전원합의체 운영 비효율성 우려 및 상고심사제·고등법원 상고부 대안 제시",
-            "verdict": "국민 재판청구권 보장 여론 압도적, 단계적 증원안 공론화 가속"
-          },
-          {
-            "issue": "초광역 메가시티 & 농어촌 기본소득 모델",
-            "pro": "신안 햇빛연금·바람연금 등 공유부 배당 모델 전국 확산 및 지방교부세율 상향",
-            "con": "지자체 재정 자립도 격차 심화 우려 및 중앙정부 매칭 예산 부담 가중 지적",
-            "verdict": "지방소멸 위험지수 상위 시·군 중심 시범특구 법안 초당적 발의"
-          }
-        ]
-      },
-      "visual": {
-        "videoId": "itVoUz9w9hw",
-        "url": "https://img.youtube.com/vi/itVoUz9w9hw/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw",
-        "topic": "민생 경제 긴급 점검: “착공 안 하면 땅 당장 뺏어라” 30조 추경 결단",
-        "caption": "가계신용 1,912조 원 시대, 지역화폐와 민생 지원금 쟁점 및 정부 재정 기조 집중 해부.",
-        "credit": "스픽스 경제본색 취재팀"
-      }
-    },
-    {
-      "pageNumber": 14,
-      "sectionId": "part-2",
-      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
-      "layoutType": "article-2col",
-      "kicker": "COVER STORY Ⅰ · 거시경제 전문가 지상 좌담",
-      "title": "재정건전성 신화를 넘어 ‘회복탄력적 성장(Resilient Growth)’으로",
-      "subtitle": "GDP 대비 국가채무 비율 논쟁의 허실과 가계부채 1,912조 원 연착륙 시나리오",
-      "paragraphs": [
-        "한국의 정부 부채 비율은 주요 선진국(G7 평균 120% 상회) 대비 여전히 양호한 수준인 반면, 가계와 자영업자가 짊어진 민간 부채 비율은 세계 최상위권에 달해 있다. 이는 국가가 재정 여력을 아끼는 동안 그 부담이 고스란히 가계 부채로 전가되어 왔음을 뜻한다.",
-        "전문가들은 2026~2027년 예산 운용의 핵심 패러다임을 ‘단순 수치 관리’에서 ‘가계 가처분소득 확충을 통한 성장 잠재력 복원’으로 전환해야 한다고 제언한다.",
-        "특히 한계 소상공인에 대한 선제적 채무 재조정은 향후 발생할 수 있는 금융권 부실 채권의 사회적 비용을 오히려 절반 이하로 줄이는 고효율 예방책이라는 분석이 설득력을 얻고 있다."
-      ],
-      "visual": {
-        "videoId": "itVoUz9w9hw",
-        "url": "https://img.youtube.com/vi/itVoUz9w9hw/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw",
-        "topic": "민생 경제 긴급 점검: “착공 안 하면 땅 당장 뺏어라” 30조 추경 결단",
-        "caption": "가계신용 1,912조 원 시대, 지역화폐와 민생 지원금 쟁점 및 정부 재정 기조 집중 해부.",
-        "credit": "스픽스 경제본색 취재팀"
-      }
-    },
-    {
-      "pageNumber": 15,
-      "sectionId": "part-2",
-      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
-      "layoutType": "article-2col",
-      "kicker": "COVER STORY Ⅱ · 사법·권력기관 개혁 심층 해부",
-      "title": "수사·기소 완전 분리와 대법관 증원, 11월 사법 대전환의 쟁점과 시나리오",
-      "subtitle": "중대범죄수사청(중수청) 신설과 검찰청 폐지, 그리고 상고심 병목 4만 건을 깰 법원조직법 제4조 개정안 축조 분석",
-      "paragraphs": [
-        "해방 이후 70여 년간 군림해 온 ‘검찰공화국’의 직접수사 독점 구조를 해체하고, 재판 지연으로 신음하는 국민의 사법 접근권을 획기적으로 개선할 ‘사법 대전환’의 운명의 시계추가 11월 본회의를 향해 재깍거리고 있다. 국회 법제사법위원회 소관 핵심 법안들의 조문별 쟁점과 파장을 단독 분석했다.",
-        "## [입법 제1축] 검찰청 폐지 및 중대범죄수사청(중수청) 신설안\n개혁의 제1축은 검찰청을 폐지하고 기소와 공소유지만을 전담하는 ‘공소청(기소청)’으로 재편하는 검찰청법 폐지안이다. 그리고 부패·경제·공직자·선거·방위사업·대형참사 등 중대 범죄의 직접수사는 신설되는 ‘중대범죄수사청(중수청)’으로 완전히 이관한다. 이는 수사를 개시한 검사가 자신의 수사 결론에 도취되어 무리한 기소와 표적·별건 수사를 자행하던 구조적 확증편향을 원천 차단하겠다는 취지다. 수사와 기소를 분리해 상호 견제와 균형을 이루는 것은 영국 왕립기소청(CPS)과 미국 연방검사 제도가 이미 입증한 사법 선진국의 표준 모델이다.",
-        "## [쟁점 해부] 중수청 소속 논쟁: 법무부냐, 행안부냐, 총리실 독립위냐\n현재 법사위 물밑 협상에서 가장 첨예한 쟁점은 “중수청을 어느 부처 산하에 둘 것인가”이다. 법무부 산하에 둘 경우 무늬만 바뀐 ‘제2의 검찰’이 될 위험이 있고, 행정안전부 산하에 두면 경찰청과의 권력 집중 문제가 발생한다. 이에 야당 일각과 사법 전문가들은 국무총리실 산하의 독립적 ‘국가수사위원회’ 형태로 설치하는 대안을 강력히 제시하고 있다. 스픽스가 입수한 여야 협의안에 따르면, 수사관의 직급 체계와 영장청구 절차에서의 사법통제 권한을 둘러싸고 막판 문구 조율이 이어지고 있다."
-      ],
-      "qrUrl": "https://www.youtube.com/watch?v=SPEAKS02&t=1720s",
-      "qrLabel": "법사위 개혁 시간표 분석 영상 (28:40)",
-      "visual": {
-        "videoId": "N0A7avU9zzs",
-        "url": "https://img.youtube.com/vi/N0A7avU9zzs/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs",
-        "topic": "사법개혁 대전환: [단독] 조희대 꼼짝 못 할 김해원의 역대급 묘수",
-        "caption": "수사·기소 분리 중수청 설치와 대법관 24인 증원 로드맵 사법개혁 심층 인터뷰.",
-        "credit": "스픽스 사법정의팀"
-      }
-    },
-    {
-      "pageNumber": 16,
-      "sectionId": "part-2",
-      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
-      "layoutType": "article-2col",
-      "kicker": "COVER STORY Ⅱ · 해외 사법개혁 비교 & 법원조직법",
-      "title": "영국·독일·미국의 수사·기소 분업 모델과 한국형 사법개혁의 정합성",
-      "subtitle": "대법관 24인 증원안과 항소심·1심 사실심 강화가 가져올 재판 풍경의 변화",
-      "paragraphs": [
-        "## [입법 제2축] 법원조직법 제4조 개정: 대법관 14인 ➔ 24인 증원\n개혁의 제2축은 만성적 재판 지연을 타개하기 위한 ‘법원조직법 제4조 개정안(대법관 14인 ➔ 24인 증원)’이다. 현재 대법관 1인당 연간 처리해야 할 상고심 본안 사건은 3,500건을 상회한다. 주말도 없이 하루 평균 10건 이상의 판결을 쏟아내야 하는 구조 속에서, 76%에 달하는 상고 사건이 이유조차 적히지 않은 채 ‘심리불속행 기각’으로 잘려 나가고 있다. 일반 국민이 1심부터 대법원 확정판결까지 평균 4~5년을 기다리며 겪는 사회적·경제적 손실은 연간 13조 원에 달한다는 것이 한국개발연구원(KDI)의 추산이다.",
-        "비교법적 관점에서 볼 때 영국의 왕립기소청(CPS)과 중대비리수사청(SFO) 모델, 그리고 미국의 연방수사국(FBI)과 연방검사장(US Attorney) 간 협력·견제 구조는 수사권과 기소권의 분리가 어떻게 오판 가능성을 낮추는지 잘 보여준다.",
-        "아울러 대법관 증원과 함께 고등법원 및 지방법원의 전문 재판부를 확충하면 현재 평균 2~3년 이상 소요되는 주요 노동·산재·지식재산권 분쟁의 확정 기간을 절반 이하로 단축할 수 있을 것으로 전망된다."
-      ],
-      "visual": {
-        "videoId": "N0A7avU9zzs",
-        "url": "https://img.youtube.com/vi/N0A7avU9zzs/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs",
-        "topic": "사법개혁 대전환: [단독] 조희대 꼼짝 못 할 김해원의 역대급 묘수",
-        "caption": "수사·기소 분리 중수청 설치와 대법관 24인 증원 로드맵 사법개혁 심층 인터뷰.",
-        "credit": "스픽스 사법정의팀"
-      }
-    },
-    {
-      "pageNumber": 17,
-      "sectionId": "part-2",
-      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
-      "layoutType": "timeline-page",
-      "kicker": "LEGISLATIVE TIMELINE · 2026 정기국회 시간표",
-      "title": "11월~12월 정기국회 민생·개혁 입법 60일 결정적 타임라인",
-      "subtitle": "국정감사 종합정리부터 예산안 법정 시한·본회의 표결까지 주간별 체크포인트",
-      "paragraphs": [
-        "향후 60일은 현 정부와 국회의 국정 운영 성적표를 가름할 최대 분수령이다. 『주간 스픽스』는 매주 각 상임위의 법안 심사 속기록과 표결 동향을 추적 보도할 예정이다."
-      ],
-      "timelineItems": [
-        {
-          "period": "10월 4주",
-          "title": "국정감사 종합감사 마무리 및 위증·자료누락 검증",
-          "desc": "법사위·기재위·산자위 등 주요 상임위 국감 결과보고서 채택 및 후속 입법 과제 도출"
-        },
-        {
-          "period": "11월 1~2주",
-          "title": "2027년도 본예산안 및 민생회복 추경안 예결위 본격 심사",
-          "desc": "지역사랑상품권 국비 편성, 소상공인 채무조정 기금, R&D·AI 인프라 예산 증액 공방"
-        },
-        {
-          "period": "11월 3~4주",
-          "title": "법사위 법안심사소위 사법개혁 패키지 병합 심사",
-          "desc": "중대범죄수사청 설치법, 공소청 전환법, 법원조직법(대법관 증원) 집중 조율"
-        },
-        {
-          "period": "12월 초",
-          "title": "예산안 및 핵심 민생·개혁 법안 본회의 일괄 처리",
-          "desc": "초광역 메가시티 지원 특별법 및 농어촌 에너지 기본소득 시범특구 법안 표결"
-        }
-      ],
-      "visual": {
-        "videoId": "N0A7avU9zzs",
-        "url": "https://img.youtube.com/vi/N0A7avU9zzs/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs",
-        "topic": "사법개혁 대전환: [단독] 조희대 꼼짝 못 할 김해원의 역대급 묘수",
-        "caption": "수사·기소 분리 중수청 설치와 대법관 24인 증원 로드맵 사법개혁 심층 인터뷰.",
-        "credit": "스픽스 사법정의팀"
-      }
-    },
-    {
-      "pageNumber": 18,
-      "sectionId": "part-2",
-      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
-      "layoutType": "article-2col",
-      "kicker": "ISSUE SPECIAL · 이재명 정부 국정기획 & 미래 산업",
-      "title": "AI 주권 국가와 에너지 고속도로: 첨단 반도체 패권과 지역 상생의 청사진",
-      "subtitle": "용인 메가클러스터 전력 수요 10GW 돌파와 서남해안 RE100 재생에너지 초고압 직류송전망(HVDC) 대동맥",
-      "paragraphs": [
-        "글로벌 인공지능(AI)과 반도체 패권 경쟁의 본질은 결국 ‘무탄소 전력(Clean Energy)’의 확보 전쟁이다. 애플·구글·엔비디아 등 글로벌 빅테크 기업들이 공급망 전반에 RE100(재생에너지 100%)을 강제하는 가운데, 서남해안의 풍부한 태양광·풍력 에너지를 첨단 산업벨트로 직결하는 ‘에너지 고속도로’ 구축이 국가 생존의 최우선 국책 과제로 부상했다.",
-        "## [산업 위기] 용인 메가클러스터 전력난: 원전 8기 분량 10GW 필요\n경기도 용인과 평택에 조성 중인 세계 최대 규모의 반도체 메가클러스터가 2030년까지 요구하는 추가 전력량은 무려 10GW(기가와트)에 달한다. 이는 원자력발전소 8기에 맞먹는 막대한 규모다. 그러나 수도권 내에 신규 대형 발전소를 짓는 것은 주민 수용성과 탄소 배출 규제로 인해 원천적으로 불가능하다. 결국 서남해안과 동해안의 무궁무진한 해상풍력과 태양광 전력을 수도권 첨단 산업기지로 손실 없이 수송하는 ‘지중·해저 초고압 직류송전망(HVDC)’ 인프라 투자가 유일한 해법이다.",
-        "## [거버넌스 혁신] 밀양 사태를 넘어: 주민참여형 이익공유제 의무화\n이 거대한 송전망 프로젝트의 성패를 가를 핵심 열쇠는 바로 ‘지역 주민과의 이익 공유’다. 그동안 밀양 송전탑 사태처럼 일방적인 희생을 강요하던 낡은 전력 거버넌스로는 단 1km의 송전선로도 깔 수 없다. 전남 신안군이 조례 제14조(신재생에너지 개발이익 공유 조례)를 통해 입증한 ‘햇빛연금·바람연금’ 모델이 전국적 벤치마킹 대상으로 떠오른 이유다. 신안군은 신재생에너지 발전 사업 지분의 30%를 주민 협동조합에 배정하여 매분기 주민들에게 현금성 연금을 배당하고 있다."
-      ],
-      "visual": {
-        "videoId": "TN0VKlk9QQk",
-        "url": "https://img.youtube.com/vi/TN0VKlk9QQk/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=TN0VKlk9QQk",
-        "topic": "산업·에너지 대전환: 반도체 메가클러스터와 서남해안 에너지 고속도로",
-        "caption": "글로벌 AI 반도체 패권과 재생에너지 송전망 혁신, 미래 성장동력 생존 전략.",
-        "credit": "스픽스 산업팀"
-      }
-    },
-    {
-      "pageNumber": 19,
-      "sectionId": "part-2",
-      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
-      "layoutType": "article-2col",
-      "kicker": "ISSUE SPECIAL · 반도체·AI 클러스터와 전력망 혁신",
-      "title": "용인·평택 반도체 벨트와 호남·영남 재생에너지를 잇는 ‘에너지고속도로’",
-      "subtitle": "글로벌 RE100 무역장벽 돌파와 지역 주민 햇빛·바람연금 배당의 결합 모델",
-      "paragraphs": [
-        "첨단 산업의 성패는 이제 얼마나 값싸고 깨끗한 전력을 안정적으로 공급받을 수 있느냐에 달려 있다. 서남해안의 풍부한 해상풍력·태양광 전력을 수도권과 충청권 첨단 산업단지로 수송하는 해저·지중 초고압 직류송전망(HVDC) 구축은 국가 기간망 투자의 최우선 순위로 꼽힌다.",
-        "이 과정에서 송전선로 경과지 및 발전소 인근 주민들에게 발전 수익을 연금 형태로 배당하는 ‘주민참여형 이익공유제’를 의무화하면, 님비(NIMBY) 갈등을 핌피(PIMFY)로 전환하는 혁신적 거버넌스가 완성된다.",
-        "이는 성장(첨단 산업 경쟁력)과 분배(지역 기본소득)가 대립하지 않고 서로의 동력이 되는 2026년형 미래 성장 전략의 핵심이다."
-      ],
-      "visual": {
-        "videoId": "TN0VKlk9QQk",
-        "url": "https://img.youtube.com/vi/TN0VKlk9QQk/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=TN0VKlk9QQk",
-        "topic": "산업·에너지 대전환: 반도체 메가클러스터와 서남해안 에너지 고속도로",
-        "caption": "글로벌 AI 반도체 패권과 재생에너지 송전망 혁신, 미래 성장동력 생존 전략.",
-        "credit": "스픽스 산업팀"
-      }
-    },
-    {
-      "pageNumber": 20,
-      "sectionId": "part-2",
-      "sectionName": "Part 2. 커버스토리 & 이슈 기획",
-      "layoutType": "article-2col",
-      "kicker": "PART 02 SYNTHESIS · 커버스토리 종합 제언",
-      "title": "데이터로 입증하고 제도로 완성하는 ‘유능한 개혁’을 향하여",
-      "subtitle": "스픽스 특별취재팀이 제시하는 민생·사법·미래산업 3대 분야 10대 실행 과제",
-      "paragraphs": [
-        "지난 10페이지에 걸쳐 살펴본 커버스토리의 결론은 분명하다. 첫째, 민생 회복을 위한 재정 투입은 타이밍을 놓치지 말아야 한다. 둘째, 권력기관 및 사법 개혁은 국민의 인권과 재판청구권 보장이라는 본질에 충실해야 한다. 셋째, 에너지 전환과 AI 주권 확보를 지역 균형발전과 결합해야 한다.",
-        "이어지는 Part 3 〈Who Speaks (지상 중계)〉에서는 이 거대한 의제들을 최전선에서 다루고 있는 여야 정치인과 석학들의 생생한 육성을 일문일답(Q&A)과 타임스탬프 QR 코드로 만나본다."
-      ],
-      "qrUrl": "https://www.speaks.kr/news/articleView.html?idxno=20261001",
-      "qrLabel": "speaks.kr 커버스토리 원문 보기",
-      "visual": {
-        "videoId": "TN0VKlk9QQk",
-        "url": "https://img.youtube.com/vi/TN0VKlk9QQk/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=TN0VKlk9QQk",
-        "topic": "산업·에너지 대전환: 반도체 메가클러스터와 서남해안 에너지 고속도로",
-        "caption": "글로벌 AI 반도체 패권과 재생에너지 송전망 혁신, 미래 성장동력 생존 전략.",
-        "credit": "스픽스 산업팀"
-      }
-    },
-    {
-      "pageNumber": 21,
-      "sectionId": "part-3",
-      "sectionName": "Part 3. Who Speaks (지상 중계)",
-      "layoutType": "who-speaks-qa",
-      "kicker": "WHO SPEAKS Ⅰ · 정치본색 지상중계 Q&A (p.21 ~ 24) · [정치본색 라이브]",
-      "title": "“민생 앞에서는 여야가 없다, 11월 국회에서 30조 추경 담판 지어야”",
-      "subtitle": "제1부 · 민생 경제 위기 진단과 30조 추경 결단론",
-      "speakerInfo": "박지원 의원 (더불어민주당) · 김종대 전 의원 (전 정의당 의원·군사안보전문가)",
-      "programName": "정치본색 라이브",
-      "timestamp": "14:25",
-      "timestampSec": 865,
-      "heatmapNote": "14:25 ~ 17:40 (다시보기 집중도 98.4%)",
-      "stillCutCaption": "[방송 하이라이트 스틸컷] 정치본색 라이브 (14:25) — 박지원 의원 (더불어민주당) · 김종대 전 의원 (전 정의당 의원·군사안보전문가)",
-      "qrUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=865s",
-      "qrLabel": "14:25 발언 영상 직행 QR",
-      "qaItems": [
-        {
-          "q": "정기국회가 국정감사를 마치고 본격적인 예산·법안 정국으로 돌입했습니다. 현재 한국 정치와 경제가 직면한 가장 심각한 위험 요인은 무엇입니까?",
-          "a": "박지원: 현장의 비명입니다. 주말마다 호남과 수도권 전통시장, 골목상가를 찾아 상인들의 거친 손을 잡아봅니다. 백이면 백 “IMF 외환위기나 코로나 때보다 손님이 더 없다, 빚으로 버티는 것도 한계에 달했다”고 울부짖습니다. 정치가 존재하는 제1의 목적은 국민의 먹고사는 문제를 해결하는 것입니다. 그런데 여의도는 온갖 정쟁과 사법 리스크 공방에 매몰되어 골목상권의 처절한 신음을 외면하고 있습니다. 11월 국회에서 민생 추경 30조 원을 여야 합의로 결단하지 못하면 올겨울 자영업 연쇄 부도라는 대재앙이 닥칠 것입니다."
-        },
-        {
-          "q": "(14:25 하이라이트 추가 질의) 방금 짚어주신 논점을 실제 입법과 예산 집행 단계에서 관철하기 위한 구체적인 로드맵은 무엇입니까?",
-          "a": "김종대: 그것은 경제의 한쪽 날개만 보는 치명적인 관료적 교조주의입니다. 국가 재정이 왜 존재합니까? 가계와 기업이 위기에 처해 소비와 투자를 멈췄을 때, 정부가 지갑을 열어 경기 급락을 막아주는 안전판 역할을 하라고 세금을 걷는 것입니다. 지금 가계부채가 1,912조 원에 달해 국민들은 원리금 갚느라 쓸 돈이 없습니다. 이 상황에서 정부마저 긴축을 고집하면 내수가 고사해 내년 세수는 더 줄어드는 ‘긴축의 악순환’에 빠집니다. 국채 30조 원 발행으로 인한 금리 변동 폭은 한은의 유동성 조절과 채권 시장 안정 펀드로 충분히 관리 가능합니다. 특히 이번 주 방송(14:25 구간)에서 강조했듯, 국민이 일상에서 변화를 체감할 수 있는 구체적 시간표와 실행 지표를 매주 투명하게 공개하는 것이 핵심입니다."
-        }
-      ],
-      "paragraphs": [
-        "유튜브 채널 @SPEAKS_TV의 최고 간판 시사 프로그램 〈정치본색〉 생방송 스튜디오에서 펼쳐진 여의도 거물 정치인들의 격론을 정통 시사주간지 문어체 일문일답으로 정밀 복원했다. 우측 상단의 QR 코드를 스캔하면 14분 25초 최고 시청 구간으로 바로 연결된다.",
-        "## [대담 총평] 11월 예산 담판의 세 가지 정치적 시나리오\n60분간 진행된 대담 내내 두 출연자는 여야의 정파적 이해관계를 떠나 국가 공동체의 지속가능성을 위한 대타협을 호소했다. 특히 생방송 중 실시간 동시접속자가 6만 8천 명을 돌파한 14분 25초 구간에서는 “정치가 국민에게 희망을 주지 못한다면 존재 이유가 없다”는 박 의원의 호소가 채팅창을 뜨겁게 달궜다. 스픽스는 향후 정국을 가를 세 가지 시나리오를 제시한다. 첫째, 12월 2일 법정 시한을 앞두고 지역화폐 국비 2조 원 반영과 소상공인 채무조정 펀드 조성을 맞바꾸는 여야 원내대표단의 물밑 대타협. 둘째, 정부의 전면 거부로 인한 준예산 편성 위기. 셋째, 야당 단독 수정안 통과와 대통령 거부권 행사의 강대강 충돌이다. 골든타임은 이제 30일도 남지 않았다."
-      ],
-      "visual": {
-        "videoId": "v6awNopN5n4",
-        "url": "https://img.youtube.com/vi/v6awNopN5n4/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-        "topic": "정치본색 특별대담: [역전의용사들] 전계완 × 김완 “권력 물밑 비밀 카드”",
-        "caption": "정치본색 스튜디오 현장 지상중계: 여야 예산안 격돌과 정국 주도권 쟁탈전.",
-        "credit": "스픽스 정치본색 제작팀"
-      }
-    },
-    {
-      "pageNumber": 22,
-      "sectionId": "part-3",
-      "sectionName": "Part 3. Who Speaks (지상 중계)",
-      "layoutType": "who-speaks-qa",
-      "kicker": "WHO SPEAKS Ⅰ · 정치본색 지상중계 Q&A (p.21 ~ 24) · [정치본색 라이브]",
-      "title": "정치본색 라이브 심층 대담 — 제2부 · 자영업 채무조정과 지역사랑상품권의 승수효과",
-      "subtitle": "제2부 · 자영업 채무조정과 지역사랑상품권의 승수효과",
-      "speakerInfo": "박지원 의원 (더불어민주당) · 김종대 전 의원 (전 정의당 의원·군사안보전문가)",
-      "programName": "정치본색 라이브",
-      "timestamp": "17:40",
-      "timestampSec": 1060,
-      "heatmapNote": "14:25 ~ 17:40 (다시보기 집중도 98.4%)",
-      "stillCutCaption": "[방송 하이라이트 스틸컷] 정치본색 라이브 (17:40) — 박지원 의원 (더불어민주당) · 김종대 전 의원 (전 정의당 의원·군사안보전문가)",
-      "qrUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=1060s",
-      "qrLabel": "17:40 발언 영상 직행 QR",
-      "qaItems": [
-        {
-          "q": "정부와 여당은 세수 결손 30조 원과 국가채무 비율을 들며 국채를 추가 발행하는 추경은 절대 불가능하다는 입장입니다.",
-          "a": "김종대: 그것은 경제의 한쪽 날개만 보는 치명적인 관료적 교조주의입니다. 국가 재정이 왜 존재합니까? 가계와 기업이 위기에 처해 소비와 투자를 멈췄을 때, 정부가 지갑을 열어 경기 급락을 막아주는 안전판 역할을 하라고 세금을 걷는 것입니다. 지금 가계부채가 1,912조 원에 달해 국민들은 원리금 갚느라 쓸 돈이 없습니다. 이 상황에서 정부마저 긴축을 고집하면 내수가 고사해 내년 세수는 더 줄어드는 ‘긴축의 악순환’에 빠집니다. 국채 30조 원 발행으로 인한 금리 변동 폭은 한은의 유동성 조절과 채권 시장 안정 펀드로 충분히 관리 가능합니다."
-        },
-        {
-          "q": "(17:40 하이라이트 추가 질의) 방금 짚어주신 논점을 실제 입법과 예산 집행 단계에서 관철하기 위한 구체적인 로드맵은 무엇입니까?",
-          "a": "박지원: 단연 지역사랑상품권(지역화폐) 국비 지원 복원입니다. 현금으로 통장에 꽂아주면 고물가에 이자 갚거나 저축으로 잠겨버릴 수 있지만, 사용 기한이 정해진 지역화폐는 100% 동네 슈퍼, 식당, 미용실에서 소비됩니다. 한국지방행정연구원 실증 조사에서도 국비 1조 원 지원 시 지역 내 부가가치 유발 효과가 1조 8천억 원에 달했습니다. 두 번째는 소상공인 대출 만기를 10년으로 장기 분할상환하고 이자율을 2%대로 낮춰주는 채무 재조정입니다. 숨통을 틔워줘야 재기할 것 아닙니까. 특히 이번 주 방송(17:40 구간)에서 강조했듯, 국민이 일상에서 변화를 체감할 수 있는 구체적 시간표와 실행 지표를 매주 투명하게 공개하는 것이 핵심입니다."
-        }
-      ],
-      "paragraphs": [
-        "유튜브 채널 @SPEAKS_TV의 최고 간판 시사 프로그램 〈정치본색〉 생방송 스튜디오에서 펼쳐진 여의도 거물 정치인들의 격론을 정통 시사주간지 문어체 일문일답으로 정밀 복원했다. 우측 상단의 QR 코드를 스캔하면 14분 25초 최고 시청 구간으로 바로 연결된다.",
-        "## [대담 총평] 11월 예산 담판의 세 가지 정치적 시나리오\n60분간 진행된 대담 내내 두 출연자는 여야의 정파적 이해관계를 떠나 국가 공동체의 지속가능성을 위한 대타협을 호소했다. 특히 생방송 중 실시간 동시접속자가 6만 8천 명을 돌파한 14분 25초 구간에서는 “정치가 국민에게 희망을 주지 못한다면 존재 이유가 없다”는 박 의원의 호소가 채팅창을 뜨겁게 달궜다. 스픽스는 향후 정국을 가를 세 가지 시나리오를 제시한다. 첫째, 12월 2일 법정 시한을 앞두고 지역화폐 국비 2조 원 반영과 소상공인 채무조정 펀드 조성을 맞바꾸는 여야 원내대표단의 물밑 대타협. 둘째, 정부의 전면 거부로 인한 준예산 편성 위기. 셋째, 야당 단독 수정안 통과와 대통령 거부권 행사의 강대강 충돌이다. 골든타임은 이제 30일도 남지 않았다."
-      ],
-      "visual": {
-        "videoId": "v6awNopN5n4",
-        "url": "https://img.youtube.com/vi/v6awNopN5n4/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-        "topic": "정치본색 특별대담: [역전의용사들] 전계완 × 김완 “권력 물밑 비밀 카드”",
-        "caption": "정치본색 스튜디오 현장 지상중계: 여야 예산안 격돌과 정국 주도권 쟁탈전.",
-        "credit": "스픽스 정치본색 제작팀"
-      }
-    },
-    {
-      "pageNumber": 23,
-      "sectionId": "part-3",
-      "sectionName": "Part 3. Who Speaks (지상 중계)",
-      "layoutType": "who-speaks-qa",
-      "kicker": "WHO SPEAKS Ⅰ · 정치본색 지상중계 Q&A (p.21 ~ 24) · [정치본색 라이브]",
-      "title": "정치본색 라이브 심층 대담 — 제3부 · 11월 정기국회 여야 협상 전략과 정치 복원",
-      "subtitle": "제3부 · 11월 정기국회 여야 협상 전략과 정치 복원",
-      "speakerInfo": "박지원 의원 (더불어민주당) · 김종대 전 의원 (전 정의당 의원·군사안보전문가)",
-      "programName": "정치본색 라이브",
-      "timestamp": "20:55",
-      "timestampSec": 1255,
-      "heatmapNote": "14:25 ~ 17:40 (다시보기 집중도 98.4%)",
-      "stillCutCaption": "[방송 하이라이트 스틸컷] 정치본색 라이브 (20:55) — 박지원 의원 (더불어민주당) · 김종대 전 의원 (전 정의당 의원·군사안보전문가)",
-      "qrUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=1255s",
-      "qrLabel": "20:55 발언 영상 직행 QR",
-      "qaItems": [
-        {
-          "q": "야당이 제안한 30조 추경의 구체적 집행 방안에서 가장 실효성 있는 카드는 무엇입니까?",
-          "a": "박지원: 단연 지역사랑상품권(지역화폐) 국비 지원 복원입니다. 현금으로 통장에 꽂아주면 고물가에 이자 갚거나 저축으로 잠겨버릴 수 있지만, 사용 기한이 정해진 지역화폐는 100% 동네 슈퍼, 식당, 미용실에서 소비됩니다. 한국지방행정연구원 실증 조사에서도 국비 1조 원 지원 시 지역 내 부가가치 유발 효과가 1조 8천억 원에 달했습니다. 두 번째는 소상공인 대출 만기를 10년으로 장기 분할상환하고 이자율을 2%대로 낮춰주는 채무 재조정입니다. 숨통을 틔워줘야 재기할 것 아닙니까."
-        },
-        {
-          "q": "(20:55 하이라이트 추가 질의) 방금 짚어주신 논점을 실제 입법과 예산 집행 단계에서 관철하기 위한 구체적인 로드맵은 무엇입니까?",
-          "a": "김종대: 스스로 운신의 폭을 좁히는 진영 외교에서 벗어나 철저한 ‘국익 중심 실용 외교’로 전환해야 합니다. 한미동맹을 군사·기술 협력의 기본 축으로 견고히 유지하되, 우리의 최대 흑자국이자 공급망 파트너인 중국 및 아세안, 인도 등 글로벌 사우스와의 경제 협력 채널을 능동적으로 열어두어야 합니다. 미국조차 자국의 필요에 따라 중국과 물밑 통상 협상을 벌이는 판국에 우리만 경직된 이념의 잣대로 외교를 하면 결국 한국 기업들만 고립무원의 처지에 놓이게 됩니다. 특히 이번 주 방송(20:55 구간)에서 강조했듯, 국민이 일상에서 변화를 체감할 수 있는 구체적 시간표와 실행 지표를 매주 투명하게 공개하는 것이 핵심입니다."
-        }
-      ],
-      "paragraphs": [
-        "유튜브 채널 @SPEAKS_TV의 최고 간판 시사 프로그램 〈정치본색〉 생방송 스튜디오에서 펼쳐진 여의도 거물 정치인들의 격론을 정통 시사주간지 문어체 일문일답으로 정밀 복원했다. 우측 상단의 QR 코드를 스캔하면 14분 25초 최고 시청 구간으로 바로 연결된다.",
-        "## [대담 총평] 11월 예산 담판의 세 가지 정치적 시나리오\n60분간 진행된 대담 내내 두 출연자는 여야의 정파적 이해관계를 떠나 국가 공동체의 지속가능성을 위한 대타협을 호소했다. 특히 생방송 중 실시간 동시접속자가 6만 8천 명을 돌파한 14분 25초 구간에서는 “정치가 국민에게 희망을 주지 못한다면 존재 이유가 없다”는 박 의원의 호소가 채팅창을 뜨겁게 달궜다. 스픽스는 향후 정국을 가를 세 가지 시나리오를 제시한다. 첫째, 12월 2일 법정 시한을 앞두고 지역화폐 국비 2조 원 반영과 소상공인 채무조정 펀드 조성을 맞바꾸는 여야 원내대표단의 물밑 대타협. 둘째, 정부의 전면 거부로 인한 준예산 편성 위기. 셋째, 야당 단독 수정안 통과와 대통령 거부권 행사의 강대강 충돌이다. 골든타임은 이제 30일도 남지 않았다."
-      ],
-      "visual": {
-        "videoId": "v6awNopN5n4",
-        "url": "https://img.youtube.com/vi/v6awNopN5n4/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-        "topic": "정치본색 특별대담: [역전의용사들] 전계완 × 김완 “권력 물밑 비밀 카드”",
-        "caption": "정치본색 스튜디오 현장 지상중계: 여야 예산안 격돌과 정국 주도권 쟁탈전.",
-        "credit": "스픽스 정치본색 제작팀"
-      }
-    },
-    {
-      "pageNumber": 24,
-      "sectionId": "part-3",
-      "sectionName": "Part 3. Who Speaks (지상 중계)",
-      "layoutType": "who-speaks-qa",
-      "kicker": "WHO SPEAKS Ⅰ · 정치본색 지상중계 Q&A (p.21 ~ 24) · [정치본색 라이브]",
-      "title": "정치본색 라이브 심층 대담 — 제4부 · 시청자 실시간 질의응답 및 대담 종합 정리",
-      "subtitle": "제4부 · 시청자 실시간 질의응답 및 대담 종합 정리",
-      "speakerInfo": "박지원 의원 (더불어민주당) · 김종대 전 의원 (전 정의당 의원·군사안보전문가)",
-      "programName": "정치본색 라이브",
-      "timestamp": "24:10",
-      "timestampSec": 1450,
-      "heatmapNote": "14:25 ~ 17:40 (다시보기 집중도 98.4%)",
-      "stillCutCaption": "[방송 하이라이트 스틸컷] 정치본색 라이브 (24:10) — 박지원 의원 (더불어민주당) · 김종대 전 의원 (전 정의당 의원·군사안보전문가)",
-      "qrUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=1450s",
-      "qrLabel": "24:10 발언 영상 직행 QR",
-      "qaItems": [
-        {
-          "q": "외교안보 환경도 녹록지 않습니다. 미국의 관세 장벽과 신냉전 구도 속에서 한국은 어떤 스탠스를 취해야 합니까?",
-          "a": "김종대: 스스로 운신의 폭을 좁히는 진영 외교에서 벗어나 철저한 ‘국익 중심 실용 외교’로 전환해야 합니다. 한미동맹을 군사·기술 협력의 기본 축으로 견고히 유지하되, 우리의 최대 흑자국이자 공급망 파트너인 중국 및 아세안, 인도 등 글로벌 사우스와의 경제 협력 채널을 능동적으로 열어두어야 합니다. 미국조차 자국의 필요에 따라 중국과 물밑 통상 협상을 벌이는 판국에 우리만 경직된 이념의 잣대로 외교를 하면 결국 한국 기업들만 고립무원의 처지에 놓이게 됩니다."
-        },
-        {
-          "q": "(24:10 하이라이트 추가 질의) 방금 짚어주신 논점을 실제 입법과 예산 집행 단계에서 관철하기 위한 구체적인 로드맵은 무엇입니까?",
-          "a": "박지원: 현장의 비명입니다. 주말마다 호남과 수도권 전통시장, 골목상가를 찾아 상인들의 거친 손을 잡아봅니다. 백이면 백 “IMF 외환위기나 코로나 때보다 손님이 더 없다, 빚으로 버티는 것도 한계에 달했다”고 울부짖습니다. 정치가 존재하는 제1의 목적은 국민의 먹고사는 문제를 해결하는 것입니다. 그런데 여의도는 온갖 정쟁과 사법 리스크 공방에 매몰되어 골목상권의 처절한 신음을 외면하고 있습니다. 11월 국회에서 민생 추경 30조 원을 여야 합의로 결단하지 못하면 올겨울 자영업 연쇄 부도라는 대재앙이 닥칠 것입니다. 특히 이번 주 방송(24:10 구간)에서 강조했듯, 국민이 일상에서 변화를 체감할 수 있는 구체적 시간표와 실행 지표를 매주 투명하게 공개하는 것이 핵심입니다."
-        }
-      ],
-      "paragraphs": [
-        "유튜브 채널 @SPEAKS_TV의 최고 간판 시사 프로그램 〈정치본색〉 생방송 스튜디오에서 펼쳐진 여의도 거물 정치인들의 격론을 정통 시사주간지 문어체 일문일답으로 정밀 복원했다. 우측 상단의 QR 코드를 스캔하면 14분 25초 최고 시청 구간으로 바로 연결된다.",
-        "## [대담 총평] 11월 예산 담판의 세 가지 정치적 시나리오\n60분간 진행된 대담 내내 두 출연자는 여야의 정파적 이해관계를 떠나 국가 공동체의 지속가능성을 위한 대타협을 호소했다. 특히 생방송 중 실시간 동시접속자가 6만 8천 명을 돌파한 14분 25초 구간에서는 “정치가 국민에게 희망을 주지 못한다면 존재 이유가 없다”는 박 의원의 호소가 채팅창을 뜨겁게 달궜다. 스픽스는 향후 정국을 가를 세 가지 시나리오를 제시한다. 첫째, 12월 2일 법정 시한을 앞두고 지역화폐 국비 2조 원 반영과 소상공인 채무조정 펀드 조성을 맞바꾸는 여야 원내대표단의 물밑 대타협. 둘째, 정부의 전면 거부로 인한 준예산 편성 위기. 셋째, 야당 단독 수정안 통과와 대통령 거부권 행사의 강대강 충돌이다. 골든타임은 이제 30일도 남지 않았다."
-      ],
-      "visual": {
-        "videoId": "v6awNopN5n4",
-        "url": "https://img.youtube.com/vi/v6awNopN5n4/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-        "topic": "정치본색 특별대담: [역전의용사들] 전계완 × 김완 “권력 물밑 비밀 카드”",
-        "caption": "정치본색 스튜디오 현장 지상중계: 여야 예산안 격돌과 정국 주도권 쟁탈전.",
-        "credit": "스픽스 정치본색 제작팀"
-      }
-    },
-    {
-      "pageNumber": 25,
-      "sectionId": "part-3",
-      "sectionName": "Part 3. Who Speaks (지상 중계)",
-      "layoutType": "who-speaks-qa",
-      "kicker": "WHO SPEAKS Ⅱ · 스픽스 1234 지상중계 Q&A (p.25 ~ 28) · [스픽스 1234]",
-      "title": "“수사·기소 분리는 시대적 상식, 사법 불신을 깰 제도 개혁에 명운 걸어야”",
-      "subtitle": "제1부 · 검찰 직접수사권 폐지와 중수청·공소청 분리 설계도",
-      "speakerInfo": "최강욱 전 의원 (전 열린민주당 대표·법제사법위원) · 이언주 의원 (더불어민주당 최고위원)",
-      "programName": "스픽스 1234",
-      "timestamp": "28:40",
-      "timestampSec": 1720,
-      "heatmapNote": "28:40 ~ 31:15 (다시보기 집중도 95.1%)",
-      "stillCutCaption": "[방송 하이라이트 스틸컷] 스픽스 1234 (28:40) — 최강욱 전 의원 (전 열린민주당 대표·법제사법위원) · 이언주 의원 (더불어민주당 최고위원)",
-      "qrUrl": "https://www.youtube.com/watch?v=SPEAKS02&t=1720s",
-      "qrLabel": "28:40 발언 영상 직행 QR",
-      "qaItems": [
-        {
-          "q": "검찰의 직접수사권을 전면 폐지하고 중대범죄수사청을 신설하는 것에 대해 ‘국가적 범죄 대응 역량 약화’를 주장하는 보수 법조계의 반론이 거셉니다.",
-          "a": "최강욱: 그것은 기득권을 지키려는 검찰 조직의 케케묵은 가짜뉴스입니다. 선진 민주국가 어디에서도 검사가 직접 칼을 쥐고 압수수색을 지휘하며 수사 개시를 하고, 그 결과를 바탕으로 구속영장을 청구하고 기소까지 독점하는 나라는 없습니다. 수사와 기소가 한 사람의 손에 쥐어질 때, 검사는 자신이 세운 가설에 꿰맞추기 위해 피의자를 겁박하고 별건 수사를 남발하게 됩니다. 수사는 전문 역량을 갖춘 수사기관이 철저히 하되, 기소 여부는 객관적 법률가 집단인 공소청이 냉정하게 걸러내야 억울한 국민이 생기지 않는 법입니다. 이것이 바로 헌법상 ‘적법절차(Due Process of Law)’의 핵심입니다."
-        },
-        {
-          "q": "(28:40 하이라이트 추가 질의) 방금 짚어주신 논점을 실제 입법과 예산 집행 단계에서 관철하기 위한 구체적인 로드맵은 무엇입니까?",
-          "a": "이언주: 법무부 산하에 두는 것은 절대 안 됩니다. 그러면 무늬만 중수청이지 법무부 장관과 검찰 출신들이 다시 장악해 ‘미니 검찰청’으로 변질될 것이 불 보듯 뻔합니다. 행정안전부 산하 역시 경찰 조직의 비대화 우려가 있습니다. 따라서 국무총리실 산하에 두고, 여야가 동수로 추천하는 독립적 ‘국가수사위원회’의 민주적 통제를 받도록 설계해야 합니다. 수사의 정치적 중립성을 완벽히 보장하면서도 국민의 인권을 침해하지 못하도록 2중, 3중의 시민 감시 장치를 두어야 합니다. 특히 이번 주 방송(28:40 구간)에서 강조했듯, 국민이 일상에서 변화를 체감할 수 있는 구체적 시간표와 실행 지표를 매주 투명하게 공개하는 것이 핵심입니다."
-        }
-      ],
-      "paragraphs": [
-        "국회 법제사법위원회를 달구고 있는 사법개혁 3법과 대법관 증원안의 본질은 무엇인가. 〈스픽스 1234〉 스튜디오에서 펼쳐진 법리와 정치 현실의 치열한 교차점을 지상 중계한다. QR 코드를 스캔하면 28분 40초 토론 하이라이트로 연결된다.",
-        "## [토론 분석] 법원조직법 개정안과 한국형 디스커버리(증거개시) 제도\n대담 후반부(28분 40초 구간)에서는 국회 법제사법위원회 법안심사소위원회의 구체적인 심사 일정과 쟁점 조항들이 조목조목 짚어졌다. 특히 이언주 의원이 제안한 ‘한국형 디스커버리(증거개시) 제도’ 도입은 대기업의 기술 탈취나 영업비밀 침해로 고통받는 중소기업들이 민사재판 과정에서 실질적 증거를 확보할 수 있도록 하는 사법 현대화 방안으로 주목받았다. 스픽스 시청자들은 “복잡한 법률 조항 뒤에 숨겨진 권력 카르텔을 명쾌하게 해체해 주었다”며 뜨거운 호응을 보냈다."
-      ],
-      "visual": {
-        "videoId": "MmiBmuv0DQk",
-        "url": "https://img.youtube.com/vi/MmiBmuv0DQk/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=MmiBmuv0DQk",
-        "topic": "스픽스1234 긴급진단: 김경호 변호사 분노 폭발 “대법원 기각 안 한 이유”",
-        "caption": "군사안보와 통상 리스크, 국익을 지키는 현실주의 외교 노선 심층 대담.",
-        "credit": "스픽스1234 제작팀"
-      }
-    },
-    {
-      "pageNumber": 26,
-      "sectionId": "part-3",
-      "sectionName": "Part 3. Who Speaks (지상 중계)",
-      "layoutType": "who-speaks-qa",
-      "kicker": "WHO SPEAKS Ⅱ · 스픽스 1234 지상중계 Q&A (p.25 ~ 28) · [스픽스 1234]",
-      "title": "스픽스 1234 심층 대담 — 제2부 · 대법관 증원과 상고심 재판 지연 해소 입법 방안",
-      "subtitle": "제2부 · 대법관 증원과 상고심 재판 지연 해소 입법 방안",
-      "speakerInfo": "최강욱 전 의원 (전 열린민주당 대표·법제사법위원) · 이언주 의원 (더불어민주당 최고위원)",
-      "programName": "스픽스 1234",
-      "timestamp": "31:55",
-      "timestampSec": 1915,
-      "heatmapNote": "28:40 ~ 31:15 (다시보기 집중도 95.1%)",
-      "stillCutCaption": "[방송 하이라이트 스틸컷] 스픽스 1234 (31:55) — 최강욱 전 의원 (전 열린민주당 대표·법제사법위원) · 이언주 의원 (더불어민주당 최고위원)",
-      "qrUrl": "https://www.youtube.com/watch?v=SPEAKS02&t=1915s",
-      "qrLabel": "31:55 발언 영상 직행 QR",
-      "qaItems": [
-        {
-          "q": "그렇다면 신설되는 중수청의 소속은 어디가 바람직하다고 보십니까?",
-          "a": "이언주: 법무부 산하에 두는 것은 절대 안 됩니다. 그러면 무늬만 중수청이지 법무부 장관과 검찰 출신들이 다시 장악해 ‘미니 검찰청’으로 변질될 것이 불 보듯 뻔합니다. 행정안전부 산하 역시 경찰 조직의 비대화 우려가 있습니다. 따라서 국무총리실 산하에 두고, 여야가 동수로 추천하는 독립적 ‘국가수사위원회’의 민주적 통제를 받도록 설계해야 합니다. 수사의 정치적 중립성을 완벽히 보장하면서도 국민의 인권을 침해하지 못하도록 2중, 3중의 시민 감시 장치를 두어야 합니다."
-        },
-        {
-          "q": "(31:55 하이라이트 추가 질의) 방금 짚어주신 논점을 실제 입법과 예산 집행 단계에서 관철하기 위한 구체적인 로드맵은 무엇입니까?",
-          "a": "이언주: 법원조직법을 개정해 대법관 수를 현행 14인에서 24인으로 조속히 증원해야 합니다. 지금 대법관들은 1인당 1년에 수천 건을 보느라 서류에 파묻혀 있습니다. 사건의 실질적 쟁점을 제대로 심리할 물리적 시간이 없으니 70%가 넘는 사건을 심리불속행으로 기각해 버립니다. 이는 국민의 재판받을 권리를 박탈하는 사법 폭력입니다. 대법관을 24명으로 늘려 4인 1조의 소부를 6개로 확충하고, 사회적 약자와 노동, 첨단 기술 분쟁을 전문적으로 다룰 수 있도록 법관 구성을 다양화해야 합니다. 특히 이번 주 방송(31:55 구간)에서 강조했듯, 국민이 일상에서 변화를 체감할 수 있는 구체적 시간표와 실행 지표를 매주 투명하게 공개하는 것이 핵심입니다."
-        }
-      ],
-      "paragraphs": [
-        "국회 법제사법위원회를 달구고 있는 사법개혁 3법과 대법관 증원안의 본질은 무엇인가. 〈스픽스 1234〉 스튜디오에서 펼쳐진 법리와 정치 현실의 치열한 교차점을 지상 중계한다. QR 코드를 스캔하면 28분 40초 토론 하이라이트로 연결된다.",
-        "## [토론 분석] 법원조직법 개정안과 한국형 디스커버리(증거개시) 제도\n대담 후반부(28분 40초 구간)에서는 국회 법제사법위원회 법안심사소위원회의 구체적인 심사 일정과 쟁점 조항들이 조목조목 짚어졌다. 특히 이언주 의원이 제안한 ‘한국형 디스커버리(증거개시) 제도’ 도입은 대기업의 기술 탈취나 영업비밀 침해로 고통받는 중소기업들이 민사재판 과정에서 실질적 증거를 확보할 수 있도록 하는 사법 현대화 방안으로 주목받았다. 스픽스 시청자들은 “복잡한 법률 조항 뒤에 숨겨진 권력 카르텔을 명쾌하게 해체해 주었다”며 뜨거운 호응을 보냈다."
-      ],
-      "visual": {
-        "videoId": "MmiBmuv0DQk",
-        "url": "https://img.youtube.com/vi/MmiBmuv0DQk/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=MmiBmuv0DQk",
-        "topic": "스픽스1234 긴급진단: 김경호 변호사 분노 폭발 “대법원 기각 안 한 이유”",
-        "caption": "군사안보와 통상 리스크, 국익을 지키는 현실주의 외교 노선 심층 대담.",
-        "credit": "스픽스1234 제작팀"
-      }
-    },
-    {
-      "pageNumber": 27,
-      "sectionId": "part-3",
-      "sectionName": "Part 3. Who Speaks (지상 중계)",
-      "layoutType": "who-speaks-qa",
-      "kicker": "WHO SPEAKS Ⅱ · 스픽스 1234 지상중계 Q&A (p.25 ~ 28) · [스픽스 1234]",
-      "title": "스픽스 1234 심층 대담 — 제3부 · 한국형 디스커버리(증거개시) 도입과 사법 신뢰 회복",
-      "subtitle": "제3부 · 한국형 디스커버리(증거개시) 도입과 사법 신뢰 회복",
-      "speakerInfo": "최강욱 전 의원 (전 열린민주당 대표·법제사법위원) · 이언주 의원 (더불어민주당 최고위원)",
-      "programName": "스픽스 1234",
-      "timestamp": "35:10",
-      "timestampSec": 2110,
-      "heatmapNote": "28:40 ~ 31:15 (다시보기 집중도 95.1%)",
-      "stillCutCaption": "[방송 하이라이트 스틸컷] 스픽스 1234 (35:10) — 최강욱 전 의원 (전 열린민주당 대표·법제사법위원) · 이언주 의원 (더불어민주당 최고위원)",
-      "qrUrl": "https://www.youtube.com/watch?v=SPEAKS02&t=2110s",
-      "qrLabel": "35:10 발언 영상 직행 QR",
-      "qaItems": [
-        {
-          "q": "일반 국민과 중소기업인들이 가장 고통받는 ‘재판 지연’ 문제의 실질적 해법은 무엇입니까?",
-          "a": "이언주: 법원조직법을 개정해 대법관 수를 현행 14인에서 24인으로 조속히 증원해야 합니다. 지금 대법관들은 1인당 1년에 수천 건을 보느라 서류에 파묻혀 있습니다. 사건의 실질적 쟁점을 제대로 심리할 물리적 시간이 없으니 70%가 넘는 사건을 심리불속행으로 기각해 버립니다. 이는 국민의 재판받을 권리를 박탈하는 사법 폭력입니다. 대법관을 24명으로 늘려 4인 1조의 소부를 6개로 확충하고, 사회적 약자와 노동, 첨단 기술 분쟁을 전문적으로 다룰 수 있도록 법관 구성을 다양화해야 합니다."
-        },
-        {
-          "q": "(35:10 하이라이트 추가 질의) 방금 짚어주신 논점을 실제 입법과 예산 집행 단계에서 관철하기 위한 구체적인 로드맵은 무엇입니까?",
-          "a": "최강욱: 더 이상 미룰 수 없습니다. 패스트트랙이든 여야 담판이든 11월 안에 매듭을 지어야 합니다. 검찰개혁과 사법개혁은 정권의 유불리를 따지는 정쟁의 문제가 아니라, 헌법 정신을 구현하는 민주공화국의 기초 공사입니다. 주권자인 국민이 두 눈을 부릅뜨고 지켜보고 있습니다. 특히 이번 주 방송(35:10 구간)에서 강조했듯, 국민이 일상에서 변화를 체감할 수 있는 구체적 시간표와 실행 지표를 매주 투명하게 공개하는 것이 핵심입니다."
-        }
-      ],
-      "paragraphs": [
-        "국회 법제사법위원회를 달구고 있는 사법개혁 3법과 대법관 증원안의 본질은 무엇인가. 〈스픽스 1234〉 스튜디오에서 펼쳐진 법리와 정치 현실의 치열한 교차점을 지상 중계한다. QR 코드를 스캔하면 28분 40초 토론 하이라이트로 연결된다.",
-        "## [토론 분석] 법원조직법 개정안과 한국형 디스커버리(증거개시) 제도\n대담 후반부(28분 40초 구간)에서는 국회 법제사법위원회 법안심사소위원회의 구체적인 심사 일정과 쟁점 조항들이 조목조목 짚어졌다. 특히 이언주 의원이 제안한 ‘한국형 디스커버리(증거개시) 제도’ 도입은 대기업의 기술 탈취나 영업비밀 침해로 고통받는 중소기업들이 민사재판 과정에서 실질적 증거를 확보할 수 있도록 하는 사법 현대화 방안으로 주목받았다. 스픽스 시청자들은 “복잡한 법률 조항 뒤에 숨겨진 권력 카르텔을 명쾌하게 해체해 주었다”며 뜨거운 호응을 보냈다."
-      ],
-      "visual": {
-        "videoId": "MmiBmuv0DQk",
-        "url": "https://img.youtube.com/vi/MmiBmuv0DQk/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=MmiBmuv0DQk",
-        "topic": "스픽스1234 긴급진단: 김경호 변호사 분노 폭발 “대법원 기각 안 한 이유”",
-        "caption": "군사안보와 통상 리스크, 국익을 지키는 현실주의 외교 노선 심층 대담.",
-        "credit": "스픽스1234 제작팀"
-      }
-    },
-    {
-      "pageNumber": 28,
-      "sectionId": "part-3",
-      "sectionName": "Part 3. Who Speaks (지상 중계)",
-      "layoutType": "who-speaks-qa",
-      "kicker": "WHO SPEAKS Ⅱ · 스픽스 1234 지상중계 Q&A (p.25 ~ 28) · [스픽스 1234]",
-      "title": "스픽스 1234 심층 대담 — 제4부 · 법사위 법안소위 쟁점 조항 축조 분석 및 전망",
-      "subtitle": "제4부 · 법사위 법안소위 쟁점 조항 축조 분석 및 전망",
-      "speakerInfo": "최강욱 전 의원 (전 열린민주당 대표·법제사법위원) · 이언주 의원 (더불어민주당 최고위원)",
-      "programName": "스픽스 1234",
-      "timestamp": "38:25",
-      "timestampSec": 2305,
-      "heatmapNote": "28:40 ~ 31:15 (다시보기 집중도 95.1%)",
-      "stillCutCaption": "[방송 하이라이트 스틸컷] 스픽스 1234 (38:25) — 최강욱 전 의원 (전 열린민주당 대표·법제사법위원) · 이언주 의원 (더불어민주당 최고위원)",
-      "qrUrl": "https://www.youtube.com/watch?v=SPEAKS02&t=2305s",
-      "qrLabel": "38:25 발언 영상 직행 QR",
-      "qaItems": [
-        {
-          "q": "11월 정기국회 본회의 통과를 위한 정치적 로드맵은 어떻게 보십니까?",
-          "a": "최강욱: 더 이상 미룰 수 없습니다. 패스트트랙이든 여야 담판이든 11월 안에 매듭을 지어야 합니다. 검찰개혁과 사법개혁은 정권의 유불리를 따지는 정쟁의 문제가 아니라, 헌법 정신을 구현하는 민주공화국의 기초 공사입니다. 주권자인 국민이 두 눈을 부릅뜨고 지켜보고 있습니다."
-        },
-        {
-          "q": "(38:25 하이라이트 추가 질의) 방금 짚어주신 논점을 실제 입법과 예산 집행 단계에서 관철하기 위한 구체적인 로드맵은 무엇입니까?",
-          "a": "최강욱: 그것은 기득권을 지키려는 검찰 조직의 케케묵은 가짜뉴스입니다. 선진 민주국가 어디에서도 검사가 직접 칼을 쥐고 압수수색을 지휘하며 수사 개시를 하고, 그 결과를 바탕으로 구속영장을 청구하고 기소까지 독점하는 나라는 없습니다. 수사와 기소가 한 사람의 손에 쥐어질 때, 검사는 자신이 세운 가설에 꿰맞추기 위해 피의자를 겁박하고 별건 수사를 남발하게 됩니다. 수사는 전문 역량을 갖춘 수사기관이 철저히 하되, 기소 여부는 객관적 법률가 집단인 공소청이 냉정하게 걸러내야 억울한 국민이 생기지 않는 법입니다. 이것이 바로 헌법상 ‘적법절차(Due Process of Law)’의 핵심입니다. 특히 이번 주 방송(38:25 구간)에서 강조했듯, 국민이 일상에서 변화를 체감할 수 있는 구체적 시간표와 실행 지표를 매주 투명하게 공개하는 것이 핵심입니다."
-        }
-      ],
-      "paragraphs": [
-        "국회 법제사법위원회를 달구고 있는 사법개혁 3법과 대법관 증원안의 본질은 무엇인가. 〈스픽스 1234〉 스튜디오에서 펼쳐진 법리와 정치 현실의 치열한 교차점을 지상 중계한다. QR 코드를 스캔하면 28분 40초 토론 하이라이트로 연결된다.",
-        "## [토론 분석] 법원조직법 개정안과 한국형 디스커버리(증거개시) 제도\n대담 후반부(28분 40초 구간)에서는 국회 법제사법위원회 법안심사소위원회의 구체적인 심사 일정과 쟁점 조항들이 조목조목 짚어졌다. 특히 이언주 의원이 제안한 ‘한국형 디스커버리(증거개시) 제도’ 도입은 대기업의 기술 탈취나 영업비밀 침해로 고통받는 중소기업들이 민사재판 과정에서 실질적 증거를 확보할 수 있도록 하는 사법 현대화 방안으로 주목받았다. 스픽스 시청자들은 “복잡한 법률 조항 뒤에 숨겨진 권력 카르텔을 명쾌하게 해체해 주었다”며 뜨거운 호응을 보냈다."
-      ],
-      "visual": {
-        "videoId": "MmiBmuv0DQk",
-        "url": "https://img.youtube.com/vi/MmiBmuv0DQk/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=MmiBmuv0DQk",
-        "topic": "스픽스1234 긴급진단: 김경호 변호사 분노 폭발 “대법원 기각 안 한 이유”",
-        "caption": "군사안보와 통상 리스크, 국익을 지키는 현실주의 외교 노선 심층 대담.",
-        "credit": "스픽스1234 제작팀"
-      }
-    },
-    {
-      "pageNumber": 29,
-      "sectionId": "part-3",
-      "sectionName": "Part 3. Who Speaks (지상 중계)",
-      "layoutType": "who-speaks-qa",
-      "kicker": "WHO SPEAKS Ⅲ · 외교·경제 특별대담 Q&A (p.29 ~ 32) · [스픽스 특별 인터뷰]",
-      "title": "“이념의 안경을 벗고 국익의 계산기를 두드려라: 격변하는 글로벌 질서와 한국의 생존법”",
-      "subtitle": "제1부 · 보편 관세 폭풍과 미·중 공급망 재편의 실체",
-      "speakerInfo": "선재규 선임기자 · 김준형 의원 (조국혁신당·전 국립외교원장) · 최배근 교수 (건국대 경제학과)",
-      "programName": "스픽스 특별 인터뷰",
-      "timestamp": "41:10",
-      "timestampSec": 2470,
-      "heatmapNote": "41:10 ~ 45:00 (다시보기 집중도 92.7%)",
-      "stillCutCaption": "[방송 하이라이트 스틸컷] 스픽스 특별 인터뷰 (41:10) — 선재규 선임기자 · 김준형 의원 (조국혁신당·전 국립외교원장) · 최배근 교수 (건국대 경제학과)",
-      "qrUrl": "https://www.youtube.com/watch?v=SPEAKS03&t=2470s",
-      "qrLabel": "41:10 발언 영상 직행 QR",
-      "qaItems": [
-        {
-          "q": "미국의 자국 우선주의 보호무역주의가 갈수록 노골화되고 있습니다. 반도체와 배터리, 자동차 등 한국의 주력 수출 산업은 어떤 타격을 입고 있습니까?",
-          "a": "선재규: 미국은 칩스법(CHIPS Act)과 인플레이션 감축법(IRA)을 통해 한국 기업들의 천문학적인 대미 투자를 유도해 놓고, 정작 보조금 지급 조건을 까다롭게 하거나 중국과의 거래를 전면 차단하는 등 ‘사다리 걷어차기’식 압박을 가하고 있습니다. 여기에 더해 보편 관세 10~20% 부과 위협은 대미 수출 비중이 높은 우리 제조업에 치명적인 수익성 악화를 부르고 있습니다. 동맹이라는 이름 뒤에 냉혹한 상업적 계산이 깔려 있음을 직시해야 합니다."
-        },
-        {
-          "q": "(41:10 하이라이트 추가 질의) 방금 짚어주신 논점을 실제 입법과 예산 집행 단계에서 관철하기 위한 구체적인 로드맵은 무엇입니까?",
-          "a": "김준형: 한마디로 ‘전략적 자율성(Strategic Autonomy)’의 확보입니다. 냉전 시대의 진영 논리에 갇혀 스스로 외교적 레버리지를 내던져서는 안 됩니다. 유럽연합(EU)도, 일본도, 심지어 대만조차도 미국과의 안보 협력을 유지하면서 동시에 대중국 경제 관계를 실용적으로 조율하는 ‘디리스킹(De-risking)’을 정교하게 구사하고 있습니다. 우리도 반도체와 핵심 소재·광물 공급망에서 대체 불가능한 한국만의 독보적 기술 격차를 무기로 다자간 통상 협상력을 극대화해야 합니다. 특히 이번 주 방송(41:10 구간)에서 강조했듯, 국민이 일상에서 변화를 체감할 수 있는 구체적 시간표와 실행 지표를 매주 투명하게 공개하는 것이 핵심입니다."
-        }
-      ],
-      "paragraphs": [
-        "보편 관세의 부활, 미·중 기술 패권 전쟁의 격화, 그리고 브릭스(BRICS+)의 결제망 다변화라는 미증유의 3각 파고가 한국 경제를 덮치고 있다. 대한민국 최고 권위의 외교·거시경제 석학 3인이 진단한 2026~2027 생존 전략을 지상 중계한다.",
-        "## [대담 종합] 한국 경제의 활로: 다극화 통상과 신재생에너지 인프라 구축\n세 석학의 대담은 1시간 내내 치밀한 국제 통계와 지정학적 데이터 분석으로 채워졌다. 결론은 세 가지로 요약된다. 첫째, 미국 중심의 일방적 동맹 의존에서 벗어나 아세안, 인도, 중동 등 ‘글로벌 사우스’와의 다자간 통상망을 공격적으로 확대할 것. 둘째, EU의 탄소국경조정제도(CBAM) 장벽을 넘기 위해 국내 RE100 재생에너지 인프라를 국가 주도로 조속히 완성할 것. 셋째, 기술 초격차를 유지하여 글로벌 공급망의 대체 불가능한 린치핀(Linchpin) 지위를 수호할 것이다."
-      ],
-      "visual": {
-        "videoId": "YOD1Y2kBnfc",
-        "url": "https://img.youtube.com/vi/YOD1Y2kBnfc/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=YOD1Y2kBnfc",
-        "topic": "특별기획 직설: 법원 ‘생중계 결정’ 기자가 캔 단서와 사법 쟁점",
-        "caption": "최강욱 × 이언주 특별 대담: 검찰 개혁과 사법 지연 해소를 위한 정면 돌파.",
-        "credit": "스픽스 특별기획팀"
-      }
-    },
-    {
-      "pageNumber": 30,
-      "sectionId": "part-3",
-      "sectionName": "Part 3. Who Speaks (지상 중계)",
-      "layoutType": "who-speaks-qa",
-      "kicker": "WHO SPEAKS Ⅲ · 외교·경제 특별대담 Q&A (p.29 ~ 32) · [스픽스 특별 인터뷰]",
-      "title": "스픽스 특별 인터뷰 심층 대담 — 제2부 · 반도체·배터리 핵심광물 주권과 실용 통상 외교",
-      "subtitle": "제2부 · 반도체·배터리 핵심광물 주권과 실용 통상 외교",
-      "speakerInfo": "선재규 선임기자 · 김준형 의원 (조국혁신당·전 국립외교원장) · 최배근 교수 (건국대 경제학과)",
-      "programName": "스픽스 특별 인터뷰",
-      "timestamp": "44:25",
-      "timestampSec": 2665,
-      "heatmapNote": "41:10 ~ 45:00 (다시보기 집중도 92.7%)",
-      "stillCutCaption": "[방송 하이라이트 스틸컷] 스픽스 특별 인터뷰 (44:25) — 선재규 선임기자 · 김준형 의원 (조국혁신당·전 국립외교원장) · 최배근 교수 (건국대 경제학과)",
-      "qrUrl": "https://www.youtube.com/watch?v=SPEAKS03&t=2665s",
-      "qrLabel": "44:25 발언 영상 직행 QR",
-      "qaItems": [
-        {
-          "q": "이러한 통상 압박 속에서 한국 외교가 취해야 할 최우선 원칙은 무엇이어야 합니까?",
-          "a": "김준형: 한마디로 ‘전략적 자율성(Strategic Autonomy)’의 확보입니다. 냉전 시대의 진영 논리에 갇혀 스스로 외교적 레버리지를 내던져서는 안 됩니다. 유럽연합(EU)도, 일본도, 심지어 대만조차도 미국과의 안보 협력을 유지하면서 동시에 대중국 경제 관계를 실용적으로 조율하는 ‘디리스킹(De-risking)’을 정교하게 구사하고 있습니다. 우리도 반도체와 핵심 소재·광물 공급망에서 대체 불가능한 한국만의 독보적 기술 격차를 무기로 다자간 통상 협상력을 극대화해야 합니다."
-        },
-        {
-          "q": "(44:25 하이라이트 추가 질의) 방금 짚어주신 논점을 실제 입법과 예산 집행 단계에서 관철하기 위한 구체적인 로드맵은 무엇입니까?",
-          "a": "최배근: 수출 대기업의 성장이 국내 일자리와 골목상권으로 낙수(Trickle-down)되던 시대는 완전히 끝났습니다. 이제는 ‘내수 주도 성장’과 ‘수출 고도화’의 쌍발 엔진을 가동해야 합니다. 1,912조 원에 달하는 가계부채를 점진적으로 줄여 가계의 가처분소득을 복원하지 않으면, 대외 충격이 올 때마다 내수가 맥없이 무너집니다. 아울러 중소·중견 벤처기업들이 AI와 친환경 기술로 체질을 개선할 수 있도록 국가 주도의 정책 금융 체계를 대대적으로 확충해야 합니다. 특히 이번 주 방송(44:25 구간)에서 강조했듯, 국민이 일상에서 변화를 체감할 수 있는 구체적 시간표와 실행 지표를 매주 투명하게 공개하는 것이 핵심입니다."
-        }
-      ],
-      "paragraphs": [
-        "보편 관세의 부활, 미·중 기술 패권 전쟁의 격화, 그리고 브릭스(BRICS+)의 결제망 다변화라는 미증유의 3각 파고가 한국 경제를 덮치고 있다. 대한민국 최고 권위의 외교·거시경제 석학 3인이 진단한 2026~2027 생존 전략을 지상 중계한다.",
-        "## [대담 종합] 한국 경제의 활로: 다극화 통상과 신재생에너지 인프라 구축\n세 석학의 대담은 1시간 내내 치밀한 국제 통계와 지정학적 데이터 분석으로 채워졌다. 결론은 세 가지로 요약된다. 첫째, 미국 중심의 일방적 동맹 의존에서 벗어나 아세안, 인도, 중동 등 ‘글로벌 사우스’와의 다자간 통상망을 공격적으로 확대할 것. 둘째, EU의 탄소국경조정제도(CBAM) 장벽을 넘기 위해 국내 RE100 재생에너지 인프라를 국가 주도로 조속히 완성할 것. 셋째, 기술 초격차를 유지하여 글로벌 공급망의 대체 불가능한 린치핀(Linchpin) 지위를 수호할 것이다."
-      ],
-      "visual": {
-        "videoId": "YOD1Y2kBnfc",
-        "url": "https://img.youtube.com/vi/YOD1Y2kBnfc/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=YOD1Y2kBnfc",
-        "topic": "특별기획 직설: 법원 ‘생중계 결정’ 기자가 캔 단서와 사법 쟁점",
-        "caption": "최강욱 × 이언주 특별 대담: 검찰 개혁과 사법 지연 해소를 위한 정면 돌파.",
-        "credit": "스픽스 특별기획팀"
-      }
-    },
-    {
-      "pageNumber": 31,
-      "sectionId": "part-3",
-      "sectionName": "Part 3. Who Speaks (지상 중계)",
-      "layoutType": "who-speaks-qa",
-      "kicker": "WHO SPEAKS Ⅲ · 외교·경제 특별대담 Q&A (p.29 ~ 32) · [스픽스 특별 인터뷰]",
-      "title": "스픽스 특별 인터뷰 심층 대담 — 제3부 · 가계부채 1,912조 원 관리와 수출·내수 균형 성장론",
-      "subtitle": "제3부 · 가계부채 1,912조 원 관리와 수출·내수 균형 성장론",
-      "speakerInfo": "선재규 선임기자 · 김준형 의원 (조국혁신당·전 국립외교원장) · 최배근 교수 (건국대 경제학과)",
-      "programName": "스픽스 특별 인터뷰",
-      "timestamp": "47:40",
-      "timestampSec": 2860,
-      "heatmapNote": "41:10 ~ 45:00 (다시보기 집중도 92.7%)",
-      "stillCutCaption": "[방송 하이라이트 스틸컷] 스픽스 특별 인터뷰 (47:40) — 선재규 선임기자 · 김준형 의원 (조국혁신당·전 국립외교원장) · 최배근 교수 (건국대 경제학과)",
-      "qrUrl": "https://www.youtube.com/watch?v=SPEAKS03&t=2860s",
-      "qrLabel": "47:40 발언 영상 직행 QR",
-      "qaItems": [
-        {
-          "q": "대외 통상 리스크가 국내 금융시장과 실물경제로 번지는 것을 막기 위한 거시경제적 해법은 무엇입니까?",
-          "a": "최배근: 수출 대기업의 성장이 국내 일자리와 골목상권으로 낙수(Trickle-down)되던 시대는 완전히 끝났습니다. 이제는 ‘내수 주도 성장’과 ‘수출 고도화’의 쌍발 엔진을 가동해야 합니다. 1,912조 원에 달하는 가계부채를 점진적으로 줄여 가계의 가처분소득을 복원하지 않으면, 대외 충격이 올 때마다 내수가 맥없이 무너집니다. 아울러 중소·중견 벤처기업들이 AI와 친환경 기술로 체질을 개선할 수 있도록 국가 주도의 정책 금융 체계를 대대적으로 확충해야 합니다."
-        },
-        {
-          "q": "(47:40 하이라이트 추가 질의) 방금 짚어주신 논점을 실제 입법과 예산 집행 단계에서 관철하기 위한 구체적인 로드맵은 무엇입니까?",
-          "a": "선재규: 미국은 칩스법(CHIPS Act)과 인플레이션 감축법(IRA)을 통해 한국 기업들의 천문학적인 대미 투자를 유도해 놓고, 정작 보조금 지급 조건을 까다롭게 하거나 중국과의 거래를 전면 차단하는 등 ‘사다리 걷어차기’식 압박을 가하고 있습니다. 여기에 더해 보편 관세 10~20% 부과 위협은 대미 수출 비중이 높은 우리 제조업에 치명적인 수익성 악화를 부르고 있습니다. 동맹이라는 이름 뒤에 냉혹한 상업적 계산이 깔려 있음을 직시해야 합니다. 특히 이번 주 방송(47:40 구간)에서 강조했듯, 국민이 일상에서 변화를 체감할 수 있는 구체적 시간표와 실행 지표를 매주 투명하게 공개하는 것이 핵심입니다."
-        }
-      ],
-      "paragraphs": [
-        "보편 관세의 부활, 미·중 기술 패권 전쟁의 격화, 그리고 브릭스(BRICS+)의 결제망 다변화라는 미증유의 3각 파고가 한국 경제를 덮치고 있다. 대한민국 최고 권위의 외교·거시경제 석학 3인이 진단한 2026~2027 생존 전략을 지상 중계한다.",
-        "## [대담 종합] 한국 경제의 활로: 다극화 통상과 신재생에너지 인프라 구축\n세 석학의 대담은 1시간 내내 치밀한 국제 통계와 지정학적 데이터 분석으로 채워졌다. 결론은 세 가지로 요약된다. 첫째, 미국 중심의 일방적 동맹 의존에서 벗어나 아세안, 인도, 중동 등 ‘글로벌 사우스’와의 다자간 통상망을 공격적으로 확대할 것. 둘째, EU의 탄소국경조정제도(CBAM) 장벽을 넘기 위해 국내 RE100 재생에너지 인프라를 국가 주도로 조속히 완성할 것. 셋째, 기술 초격차를 유지하여 글로벌 공급망의 대체 불가능한 린치핀(Linchpin) 지위를 수호할 것이다."
-      ],
-      "visual": {
-        "videoId": "YOD1Y2kBnfc",
-        "url": "https://img.youtube.com/vi/YOD1Y2kBnfc/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=YOD1Y2kBnfc",
-        "topic": "특별기획 직설: 법원 ‘생중계 결정’ 기자가 캔 단서와 사법 쟁점",
-        "caption": "최강욱 × 이언주 특별 대담: 검찰 개혁과 사법 지연 해소를 위한 정면 돌파.",
-        "credit": "스픽스 특별기획팀"
-      }
-    },
-    {
-      "pageNumber": 32,
-      "sectionId": "part-3",
-      "sectionName": "Part 3. Who Speaks (지상 중계)",
-      "layoutType": "who-speaks-qa",
-      "kicker": "WHO SPEAKS Ⅲ · 외교·경제 특별대담 Q&A (p.29 ~ 32) · [스픽스 특별 인터뷰]",
-      "title": "스픽스 특별 인터뷰 심층 대담 — 제4부 · 2027 글로벌 경제 전망과 한국 외교의 생존 방정식",
-      "subtitle": "제4부 · 2027 글로벌 경제 전망과 한국 외교의 생존 방정식",
-      "speakerInfo": "선재규 선임기자 · 김준형 의원 (조국혁신당·전 국립외교원장) · 최배근 교수 (건국대 경제학과)",
-      "programName": "스픽스 특별 인터뷰",
-      "timestamp": "50:55",
-      "timestampSec": 3055,
-      "heatmapNote": "41:10 ~ 45:00 (다시보기 집중도 92.7%)",
-      "stillCutCaption": "[방송 하이라이트 스틸컷] 스픽스 특별 인터뷰 (50:55) — 선재규 선임기자 · 김준형 의원 (조국혁신당·전 국립외교원장) · 최배근 교수 (건국대 경제학과)",
-      "qrUrl": "https://www.youtube.com/watch?v=SPEAKS03&t=3055s",
-      "qrLabel": "50:55 발언 영상 직행 QR",
-      "qaItems": [
-        {
-          "q": "미국의 자국 우선주의 보호무역주의가 갈수록 노골화되고 있습니다. 반도체와 배터리, 자동차 등 한국의 주력 수출 산업은 어떤 타격을 입고 있습니까?",
-          "a": "선재규: 미국은 칩스법(CHIPS Act)과 인플레이션 감축법(IRA)을 통해 한국 기업들의 천문학적인 대미 투자를 유도해 놓고, 정작 보조금 지급 조건을 까다롭게 하거나 중국과의 거래를 전면 차단하는 등 ‘사다리 걷어차기’식 압박을 가하고 있습니다. 여기에 더해 보편 관세 10~20% 부과 위협은 대미 수출 비중이 높은 우리 제조업에 치명적인 수익성 악화를 부르고 있습니다. 동맹이라는 이름 뒤에 냉혹한 상업적 계산이 깔려 있음을 직시해야 합니다."
-        },
-        {
-          "q": "(50:55 하이라이트 추가 질의) 방금 짚어주신 논점을 실제 입법과 예산 집행 단계에서 관철하기 위한 구체적인 로드맵은 무엇입니까?",
-          "a": "김준형: 한마디로 ‘전략적 자율성(Strategic Autonomy)’의 확보입니다. 냉전 시대의 진영 논리에 갇혀 스스로 외교적 레버리지를 내던져서는 안 됩니다. 유럽연합(EU)도, 일본도, 심지어 대만조차도 미국과의 안보 협력을 유지하면서 동시에 대중국 경제 관계를 실용적으로 조율하는 ‘디리스킹(De-risking)’을 정교하게 구사하고 있습니다. 우리도 반도체와 핵심 소재·광물 공급망에서 대체 불가능한 한국만의 독보적 기술 격차를 무기로 다자간 통상 협상력을 극대화해야 합니다. 특히 이번 주 방송(50:55 구간)에서 강조했듯, 국민이 일상에서 변화를 체감할 수 있는 구체적 시간표와 실행 지표를 매주 투명하게 공개하는 것이 핵심입니다."
-        }
-      ],
-      "paragraphs": [
-        "보편 관세의 부활, 미·중 기술 패권 전쟁의 격화, 그리고 브릭스(BRICS+)의 결제망 다변화라는 미증유의 3각 파고가 한국 경제를 덮치고 있다. 대한민국 최고 권위의 외교·거시경제 석학 3인이 진단한 2026~2027 생존 전략을 지상 중계한다.",
-        "## [대담 종합] 한국 경제의 활로: 다극화 통상과 신재생에너지 인프라 구축\n세 석학의 대담은 1시간 내내 치밀한 국제 통계와 지정학적 데이터 분석으로 채워졌다. 결론은 세 가지로 요약된다. 첫째, 미국 중심의 일방적 동맹 의존에서 벗어나 아세안, 인도, 중동 등 ‘글로벌 사우스’와의 다자간 통상망을 공격적으로 확대할 것. 둘째, EU의 탄소국경조정제도(CBAM) 장벽을 넘기 위해 국내 RE100 재생에너지 인프라를 국가 주도로 조속히 완성할 것. 셋째, 기술 초격차를 유지하여 글로벌 공급망의 대체 불가능한 린치핀(Linchpin) 지위를 수호할 것이다."
-      ],
-      "visual": {
-        "videoId": "YOD1Y2kBnfc",
-        "url": "https://img.youtube.com/vi/YOD1Y2kBnfc/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=YOD1Y2kBnfc",
-        "topic": "특별기획 직설: 법원 ‘생중계 결정’ 기자가 캔 단서와 사법 쟁점",
-        "caption": "최강욱 × 이언주 특별 대담: 검찰 개혁과 사법 지연 해소를 위한 정면 돌파.",
-        "credit": "스픽스 특별기획팀"
-      }
-    },
-    {
-      "pageNumber": 33,
-      "sectionId": "part-4",
-      "sectionName": "Part 4. 오피니언 & 월드",
-      "layoutType": "opinion-column",
-      "kicker": "PART 04 · OPINION & WORLD (p.33 ~ 40) · 성한용의 정치 막전막후",
-      "title": "‘분노의 정치’를 넘어 ‘책임의 정치’와 실용적 해법을 찾아서",
-      "subtitle": "[성한용 정치 전문기자 특별기고] 벼랑 끝에 선 한국 정치, 양극화의 증오를 멈추고 주권자의 삶을 응시하라",
-      "author": "성한용 (한겨레 정치부 선임기자) · 스픽스 논설위원실",
-      "paragraphs": [
-        "정치가 국민을 걱정해야 마땅한 시대에, 국민이 매일 아침 뉴스를 보며 정치를 걱정하는 기형적 역설이 일상화되었다. 여야가 서로를 향해 쏟아내는 거친 언어와 적대적 공생 관계 속에서, 주권자들의 삶은 하루하루 팍팍해져 간다. 40여 년간 여의도 정치판을 지켜본 노기자의 고언을 싣는다.",
-        "## [진단] 적대적 공생과 ‘내전형 정치’의 파멸적 결말\n정치(政治)의 본령은 ‘희소한 자원의 권위적 배분’이자, 사회적 갈등을 대화와 타협으로 조율하는 ‘공존의 예술’이다. 그러나 오늘날 대한민국 정치는 상대를 섬멸해야 할 적으로 규정하는 ‘내전형 적대 정치’로 전락했다. 강성 팬덤의 환호와 유튜브 알고리즘의 극단적 확증편향에 기댄 정치인들은 의회주의의 기본인 협상과 양보를 ‘배신’이라 낙인찍는다. 그 결과 국회는 멈춰 서고, 민생 법안과 예산안은 정쟁의 볼모로 잡히기 일쑤다.",
-        "## [민심의 심판] 무당층 30%의 경고: “이념 투쟁이 월세를 내주는가”\n그러나 주권자인 시민들이 정치를 바라보는 눈은 결코 어리석지 않다. 최근 각종 여론조사에서 무당층과 중도층 비율이 30%를 상회하는 것은 기성 정당들의 정쟁에 대한 깊은 환멸의 방증이다. 시민들은 묻고 있다. “당신들의 거창한 이념 투쟁이 내 식당의 밀린 월세를 내주는가? 우리 아이의 불안한 청년 일자리를 해결해 주는가?” 정치는 이 소박하지만 절박한 물음에 유능한 정책과 제도로 답해야 한다."
-      ],
-      "highlightQuote": "“국민의 마음을 최종적으로 얻은 세력은 언제나 더 크게 화를 낸 쪽이 아니라 더 유능하게 대안을 제시한 쪽이었다.”",
-      "visual": {
-        "videoId": "lAU64alQdMI",
-        "url": "https://img.youtube.com/vi/lAU64alQdMI/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=lAU64alQdMI",
-        "topic": "오피니언 성한용 칼럼: 국감 폭발 “담당자 나오세요” 정국 진단",
-        "caption": "성한용 논설위원의 정치 단상: 협치 실종의 시대, 권력의 절제와 의회민주주의의 본령.",
-        "credit": "스픽스 오피니언데스크"
-      }
-    },
-    {
-      "pageNumber": 34,
-      "sectionId": "part-4",
-      "sectionName": "Part 4. 오피니언 & 월드",
-      "layoutType": "opinion-column",
-      "kicker": "OPINION · 성한용의 정치 막전막후 (계속)",
-      "title": "협치의 제도화와 ‘정책 연합’이 여는 한국 정치의 새 길",
-      "subtitle": "극단적 진영 정치를 넘어 다수파 연합과 상임위 중심 숙의 민주주의로",
-      "author": "성한용 (한겨레 정치부 선임기자) · 스픽스 논설위원실",
-      "paragraphs": [
-        "## [해법] 초당적 대화와 ‘정책 연합’의 복원\n지금 대한민국 앞에는 30조 민생 추경을 통한 내수 복원, 검찰개혁과 사법 신뢰 회복, 그리고 AI 주권과 기후위기 대응이라는 국가적 난제들이 산적해 있다. 이 과제들은 어느 한 정파의 힘만으로는 결코 완수할 수 없다. 다수 의석을 가진 야당은 유능하고 책임 있는 대안 정당으로서의 면모를 보여주어야 하고, 행정 권력을 쥔 정부·여당은 독선과 거부권 정치를 내려놓고 야당과의 초당적 대화에 나서야 한다.",
-        "유럽의 성숙한 의회민주주의 국가들이 갈등을 관리하는 비결은 정치인의 도덕성만이 아니라, 타협을 강제하는 제도적 장치와 정책 싱크탱크 중심의 정당 구조에 있다.",
-        "한국 정치 역시 정기국회 예산안과 민생 법안을 처리하는 과정에서 여야 정책위의장과 상임위 간사단이 상시적으로 데이터를 공유하고 절충안을 다듬는 관행을 정착시켜야 한다. 그것이 유권자의 정치 효능감을 되살리는 첫걸음이다."
-      ],
-      "qrUrl": "https://www.speaks.kr/news/articleView.html?idxno=20261002",
-      "qrLabel": "speaks.kr 성한용 칼럼 원문",
-      "visual": {
-        "videoId": "lAU64alQdMI",
-        "url": "https://img.youtube.com/vi/lAU64alQdMI/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=lAU64alQdMI",
-        "topic": "오피니언 성한용 칼럼: 국감 폭발 “담당자 나오세요” 정국 진단",
-        "caption": "성한용 논설위원의 정치 단상: 협치 실종의 시대, 권력의 절제와 의회민주주의의 본령.",
-        "credit": "스픽스 오피니언데스크"
-      }
-    },
-    {
-      "pageNumber": 35,
-      "sectionId": "part-4",
-      "sectionName": "Part 4. 오피니언 & 월드",
-      "layoutType": "opinion-column",
-      "kicker": "SPEAKS ESSAY · 시사 단상 (斷想)",
-      "title": "[시사 단상] 기록되지 않는 말은 바람에 흩어지고, 기록된 질문은 역사가 된다",
-      "subtitle": "디지털 속도의 시대, 왜 우리는 다시 50페이지 주간지의 종이와 활자를 펼치는가",
-      "author": "김민웅 · 스픽스 논설위원",
-      "paragraphs": [
-        "하루에도 수천 개의 짧은 영상과 자극적인 제목의 기사가 스마트폰 화면을 스쳐 지나간다. 속도는 빨라졌으나 사유의 호흡은 짧아졌고, 정보는 넘쳐나나 맥락은 실종되기 일쑤다.",
-        "바로 그렇기에 방송의 역동적인 현장성과 활자 매체의 치밀한 검증력을 하나로 묶어내는 작업은 시대의 요청이다. 말의 행간을 살피고, 흩어진 팩트를 엮어 구조적 원인을 밝히며, 반대편의 논거까지 나란히 배치해 독자 스스로 판단하게 하는 정통 시사주간지의 문법은 인공지능 시대에도 여전히 유효하다.",
-        "매주 월요일 발행되는 『주간 스픽스』의 지면이 독자 여러분에게 한 주의 소음을 걸러내고 시대의 본질을 응시하는 고요하고도 단단한 서재가 되기를 소망한다."
-      ],
-      "visual": {
-        "videoId": "lAU64alQdMI",
-        "url": "https://img.youtube.com/vi/lAU64alQdMI/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=lAU64alQdMI",
-        "topic": "오피니언 성한용 칼럼: 국감 폭발 “담당자 나오세요” 정국 진단",
-        "caption": "성한용 논설위원의 정치 단상: 협치 실종의 시대, 권력의 절제와 의회민주주의의 본령.",
-        "credit": "스픽스 오피니언데스크"
-      }
-    },
-    {
-      "pageNumber": 36,
-      "sectionId": "part-4",
-      "sectionName": "Part 4. 오피니언 & 월드",
-      "layoutType": "opinion-column",
-      "kicker": "ECONOMIC COLUMN · 시사 경제 프리즘",
-      "title": "[경제 단상] 숫자 너머의 사람을 보라: 통계 평균의 함정과 서민 체감 물가",
-      "subtitle": "평균 성장률과 수출 호조 지표가 가리지 못하는 자영업·청년층의 양극화 현실",
-      "author": "전성인 · 경제 칼럼니스트 (홍익대 경제학부 교수)",
-      "paragraphs": [
-        "거시경제 지표의 ‘평균’은 종종 현장의 고통을 은폐한다. 반도체 수출이 회복세를 보이고 소비자물가 상승률이 2%대로 안정되었다는 발표에도 불구하고, 서민들이 장바구니를 들며 느끼는 체감 물가와 자영업자의 매출 절벽은 여전히 혹독하다.",
-        "부문 간 불균형 성장이 심화될수록 재정과 금융 정책은 평균치가 아닌 분포의 가장자리, 즉 한계 가구와 영세 소상공인의 현금흐름을 지탱하는 데 초점을 맞춰야 한다.",
-        "금융 당국이 은행권의 이자 장사를 구두 경고하는 수준을 넘어, 채무 재조정과 서민금융 공급 목표를 구체적 법적 의무로 부여해야 하는 이유가 여기에 있다."
-      ],
-      "visual": {
-        "videoId": "lAU64alQdMI",
-        "url": "https://img.youtube.com/vi/lAU64alQdMI/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=lAU64alQdMI",
-        "topic": "오피니언 성한용 칼럼: 국감 폭발 “담당자 나오세요” 정국 진단",
-        "caption": "성한용 논설위원의 정치 단상: 협치 실종의 시대, 권력의 절제와 의회민주주의의 본령.",
-        "credit": "스픽스 오피니언데스크"
-      }
-    },
-    {
-      "pageNumber": 37,
-      "sectionId": "part-4",
-      "sectionName": "Part 4. 오피니언 & 월드",
-      "layoutType": "world-issue",
-      "kicker": "WORLD ISSUE · 선재규의 월드이슈 Ⅰ",
-      "title": "브릭스(BRICS+) 확장과 글로벌 공급망 블록화: 달러 패권의 균열과 한국의 활로",
-      "subtitle": "신흥 10개국 결제망 다변화, EU 탄소국경조정제도(CBAM), 그리고 첨단 반도체 무역전쟁의 파고",
-      "author": "선재규 (연합뉴스 선임기자·스픽스 월드이슈 진행자)",
-      "paragraphs": [
-        "세계 질서가 2차 세계대전 이후 구축된 ‘팍스 아메리카나(Pax Americana)’의 단극 체제를 지나 거대한 다극화(Multipolarity) 시대로 진입하고 있다. 중동과 중남미, 아프리카 주요 산유국들을 포괄하며 10개국 이상으로 덩치를 키운 브릭스(BRICS+)는 자체 결제망 구축을 선언하며 달러화 중심의 국제 금융 질서에 균열을 내고 있다.",
-        "## [지각변동] 카잔 정상회의 이후 가속화된 탈달러화(De-dollarization)\n2026년 카잔 브릭스 정상회의 이후 가속화된 ‘탈달러화’ 흐름은 단순한 정치적 수사가 아니다. 전 세계 원유와 천연가스 등 핵심 원자재 결제에서 위안화와 루피화, 현지 통화 결제 비중이 25%를 돌파했다. 미국이 대러시아 경제 제재 수단으로 스위프트(SWIFT) 결제망 배제를 남발하자, 신흥국들이 서구 주도의 금융 시스템에 의존하는 리스크를 분산하기 시작했음을 뜻한다. 이는 기축통화 달러의 헤게모니에 장기적 균열을 예고하는 신호탄이다.",
-        "## [통상 파고] EU 탄소국경세(CBAM)와 미국의 IRA 후속 규제 장벽\n동시에 유럽연합(EU)의 탄소국경조정제도(CBAM) 본격 시행과 미국의 인플레이션 감축법(IRA) 후속 규제는 철강·알루미늄·배터리 등 한국의 주력 수출 품목에 직접적인 ‘친환경 관세’ 폭탄으로 작용하고 있다. 이제 국제 무역에서 저탄소 재생에너지로 제품을 생산하지 못하는 국가는 아무리 가격 경쟁력이 뛰어나도 수출길이 막히는 냉혹한 현실에 직면했다. 글로벌 무역 환경이 ‘비용 경쟁’에서 ‘규범과 탄소 경쟁’으로 급변한 것이다."
-      ],
-      "qrUrl": "https://www.youtube.com/watch?v=SPEAKS03&t=2470s",
-      "qrLabel": "선재규 월드이슈 영상 (41:10)",
-      "visual": {
-        "videoId": "v6awNopN5n4",
-        "url": "https://img.youtube.com/vi/v6awNopN5n4/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-        "topic": "선재규의 월드이슈: 미·중 반도체 패권과 브릭스 통상 파고의 역습",
-        "caption": "카잔 브릭스 정상회의 이후 가속화된 탈달러 통화 블록화와 한국 통상 전략.",
-        "credit": "선재규 선임기자"
-      }
-    },
-    {
-      "pageNumber": 38,
-      "sectionId": "part-4",
-      "sectionName": "Part 4. 오피니언 & 월드",
-      "layoutType": "world-diagram",
-      "kicker": "WORLD GEOPOLITICS DIAGRAM · 세계 정세 관계도",
-      "title": "미·중 기술 패권과 브릭스(BRICS+) 다극화 시대의 글로벌 공급망·통상 관계도",
-      "subtitle": "ChatGPT 다이어그램 설계 엔진이 구조화한 2026~2027 4대 권역별 통상 압력과 한국의 대응 축",
-      "paragraphs": [
-        "## [생존 전략] 한국 경제의 3대 다자간 외교통상 활로\n무역의존도 75%를 넘나드는 한국 경제의 생존 전략은 명확하다. 첫째, 특정 국가에 편중된 수출입 구조를 과감히 다변화하여 인도, 아세안, 중동 등 ‘글로벌 사우스’ 시장 개척에 총력을 기울여야 한다. 둘째, 국내 재생에너지 인프라(에너지 고속도로)를 조속히 완비하여 RE100 규제 장벽을 뛰어넘어야 한다. 셋째, 반도체·배터리 등 핵심 첨단 기술의 초격차를 유지하여 글로벌 공급망에서 누구도 배제할 수 없는 필수불가결한 ‘전략적 린치핀(Linchpin)’ 지위를 지켜내야 한다.",
-        "위 관계도에서 보듯 대한민국의 외교·통상 전략은 미국(안보·첨단기술 동맹), 중국·브릭스+(원자재·중간재 교역 및 공급망 관리), 유럽연합(친환경·디지털 규범 공조), 아세안·인도(신성장 시장 다변화)라는 4개의 바퀴가 동시에 맞물려 돌아가야 하는 고차방정식이다."
-      ],
-      "mermaidCode": "flowchart LR\n  US[\"미국 (보편관세·첨단반도체 통제)\"] -->|\"공급망 재편 압박\"| KR[\"대한민국 (실용 통상·기술 주권)\"]\n  CN[\"중국·BRICS+ (핵심광물·독자 결제망)\"] -->|\"원자재·시장 레버리지\"| KR\n  EU[\"유럽연합 (CBAM 탄소국경세·AI법)\"] -->|\"친환경·규제 표준\"| KR\n  KR -->|\"다자 외교·아세안/인도 시장 다변화\"| SOL[\"2026 한국형 생존 방정식\"]",
-      "visual": {
-        "videoId": "v6awNopN5n4",
-        "url": "https://img.youtube.com/vi/v6awNopN5n4/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-        "topic": "선재규의 월드이슈: 미·중 반도체 패권과 브릭스 통상 파고의 역습",
-        "caption": "카잔 브릭스 정상회의 이후 가속화된 탈달러 통화 블록화와 한국 통상 전략.",
-        "credit": "선재규 선임기자"
-      }
-    },
-    {
-      "pageNumber": 39,
-      "sectionId": "part-4",
-      "sectionName": "Part 4. 오피니언 & 월드",
-      "layoutType": "world-issue",
-      "kicker": "WORLD ISSUE · 선재규의 월드이슈 Ⅱ (중동·유럽 정세)",
-      "title": "중동 에너지 항로의 지정학적 리스크와 유럽 탄소국경세(CBAM) 본시행 대응",
-      "subtitle": "호르무즈·홍해 물류 변수 점검 및 한국 수출 기업의 ESG·탄소중립 생존 전략",
-      "author": "선재규 (연합뉴스 선임기자·스픽스 월드이슈 진행자)",
-      "paragraphs": [
-        "에너지 수입 의존도가 90%를 웃도는 한국 경제에 중동 정세의 불안정성과 해상 물류 운임 변동은 즉각적인 무역수지 및 국내 물가 충격으로 이어진다. 전략 비축유 관리와 도입선 다변화, 그리고 국내 재생에너지 비중 확대를 통한 에너지 안보 자립도 제고가 시급하다.",
-        "한편 유럽연합(EU)이 탄소국경조정제도(CBAM)를 본격 적용함에 따라 철강, 알루미늄, 시멘트, 전력 등 주력 수출 품목의 탄소 배출량 산정과 감축 인증이 기업 생존의 필수 조건이 되었다. 정부 차원의 탄소배출 측정 인프라 지원이 절실하다."
-      ],
-      "visual": {
-        "videoId": "v6awNopN5n4",
-        "url": "https://img.youtube.com/vi/v6awNopN5n4/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-        "topic": "선재규의 월드이슈: 미·중 반도체 패권과 브릭스 통상 파고의 역습",
-        "caption": "카잔 브릭스 정상회의 이후 가속화된 탈달러 통화 블록화와 한국 통상 전략.",
-        "credit": "선재규 선임기자"
-      }
-    },
-    {
-      "pageNumber": 40,
-      "sectionId": "part-4",
-      "sectionName": "Part 4. 오피니언 & 월드",
-      "layoutType": "world-issue",
-      "kicker": "GLOBAL RADAR · 동북아 & 한반도 정세 워치",
-      "title": "한반도 긴장 완화와 평화 경제의 복원: 위기 관리 채널을 다시 열어라",
-      "subtitle": "우발적 충돌 방지를 위한 군사적 안전판 구축과 코리아 디스카운트 해소의 조건",
-      "author": "스픽스 외교안보 자문단",
-      "paragraphs": [
-        "안보는 경제의 토대다. 한반도의 지정학적 긴장이 고조될 때마다 외국인 투자 자금의 변동성이 커지고 국가 신용부도스와프(CDS) 프리미엄이 자극받는 ‘코리아 디스카운트’ 현상이 되풀이된다.",
-        "강력한 국방력에 기반한 억지력을 유지하되, 우발적 군사 충돌을 예방하기 위한 최소한의 핫라인과 다자간 외교 대화 채널을 복원하는 것이야말로 가장 현실적이고 국익에 부합하는 안보 전략이다."
-      ],
-      "qrUrl": "https://www.speaks.kr/news/articleView.html?idxno=20261003",
-      "qrLabel": "speaks.kr 월드이슈 전체 보기",
-      "visual": {
-        "videoId": "v6awNopN5n4",
-        "url": "https://img.youtube.com/vi/v6awNopN5n4/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-        "topic": "선재규의 월드이슈: 미·중 반도체 패권과 브릭스 통상 파고의 역습",
-        "caption": "카잔 브릭스 정상회의 이후 가속화된 탈달러 통화 블록화와 한국 통상 전략.",
-        "credit": "선재규 선임기자"
-      }
-    },
-    {
-      "pageNumber": 41,
-      "sectionId": "part-5",
-      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
-      "layoutType": "culture-opener",
-      "kicker": "PART 05 · CULTURE, LIFE & LOCAL ERA (p.41 ~ 50) · SPEAKS' CHOICE",
-      "title": "1919년 아우내의 함성에서 오늘의 민주공화국까지: 천안 병천 만세터 르포",
-      "subtitle": "유관순 열사의 횃불과 조병호·김구응의 독립 의지… 도서출판 아우내가 천안 동남구 양지말1길에 뿌리내린 이유",
-      "author": "도서출판 아우내 인문학기행팀 · 스픽스 문화부",
-      "paragraphs": [
-        "충남 천안시 동남구 병천면 아우내 장터에 서면, 107년 전 그날 3천여 군중이 터뜨렸던 자주독립의 함성이 귓전을 때린다. 일제의 야만적인 총칼 앞에서도 물러서지 않고 태극기를 높이 들었던 민중들의 거룩한 희생은 오늘날 우리가 누리는 민주공화국의 단단한 주춧돌이 되었다.",
-        "## [역사 르포] 두 물길이 어우러지는 아우내(並川) 장터의 기원\n아우내(並川)라는 이름은 ‘두 줄기 내(川)가 하나로 어우러진다’는 아름다운 순우리말이다. 조선 시대부터 삼남(충청·전라·경상)과 한양을 잇는 사통팔달의 교통 요충지였던 이곳은 장날마다 수많은 상인과 보부상, 민초들이 모여들어 세상 돌아가는 이야기를 나누던 여론 형성의 중심지였다. 1919년 4월 1일(음력 3월 1일), 열일곱 살 소녀 유관순 열사는 바로 이 민중의 공론장에서 독립선언서를 낭독하고 만세운동을 이끌었다."
-      ],
-      "visual": {
-        "videoId": "-fkjQt4-l4A",
-        "url": "https://img.youtube.com/vi/-fkjQt4-l4A/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A",
-        "topic": "컬처·문화기행: 천안 아우내 장터 107년의 숨결과 민중의 독립혼",
-        "caption": "충남 천안시 동남구 병천면 아우내 독립만세 유적지와 도서출판 아우내의 발자취.",
-        "credit": "도서출판 아우내 문화사업부"
-      }
-    },
-    {
-      "pageNumber": 42,
-      "sectionId": "part-5",
-      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
-      "layoutType": "culture-photo-essay",
-      "kicker": "SPEAKS' CHOICE · 천안 아우내 장터 & 가을 인문 기행",
-      "title": "백년의 시간을 이어온 장터의 온기, 아우내 오일장과 병천의 가을 풍경",
-      "subtitle": "독립운동의 성지에서 만나는 삶의 현장과 도서출판 아우내의 인문 정신",
-      "author": "도서출판 아우내 인문학기행팀 · 스픽스 문화부",
-      "paragraphs": [
-        "## [민초들의 기록] 영웅주의를 넘어선 자발적 연대의 공동체\n현장에서 만난 향토사학자는 “아우내 만세운동의 위대함은 어느 특정 영웅의 단독 행동이 아니라, 장터 상인, 농민, 유림, 기독교인 등 각계각층의 민중이 자발적으로 연대하여 불의한 제국주의 권력에 맞섰다는 점에 있다”고 강조했다. 당시 일제 헌병의 무차별 사격으로 유관순 열사의 부모를 비롯한 19명이 현장에서 순국했고 수백 명이 부상을 입었지만, 그 불꽃은 결코 꺼지지 않고 대한민국 임시정부 수립의 도화선이 되었다.",
-        "아우내 장터 골목을 따라 늘어선 오래된 노포들과 대장간, 방앗간의 풍경은 산업화와 도시화의 물결 속에서도 지역 공동체가 어떻게 기억과 문화를 전승해 왔는지를 보여주는 살아 있는 박물관이다.",
-        "이번 주말, 가족과 함께 충남 천안 병천면의 유관순 열사 사적지와 독립기념관을 둘러보고 아우내 장터의 따뜻한 국밥 한 그릇으로 가을의 정취를 채워보는 것은 어떨까."
-      ],
-      "qrUrl": "https://www.speaks.kr/news/articleView.html?idxno=20261004",
-      "qrLabel": "SPEAKS' Choice 문화 화보 웹 보기",
-      "visual": {
-        "videoId": "-fkjQt4-l4A",
-        "url": "https://img.youtube.com/vi/-fkjQt4-l4A/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A",
-        "topic": "컬처·문화기행: 천안 아우내 장터 107년의 숨결과 민중의 독립혼",
-        "caption": "충남 천안시 동남구 병천면 아우내 독립만세 유적지와 도서출판 아우내의 발자취.",
-        "credit": "도서출판 아우내 문화사업부"
-      }
-    },
-    {
-      "pageNumber": 43,
-      "sectionId": "part-5",
-      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
-      "layoutType": "culture-photo-essay",
-      "kicker": "CULTURE & EXHIBITION · 금주의 전시·공연 큐레이션",
-      "title": "시대를 증언하는 예술의 목소리: 2026 가을 주목할 만한 다큐멘터리·전시·공연 4선",
-      "subtitle": "한국 근현대사 기록사진전부터 지역 문화예술회관 순회 창작극까지",
-      "author": "스픽스 문화 데스크",
-      "paragraphs": [
-        "예술은 시대정신을 비추는 거울이다. 올가을 전국 주요 미술관과 독립영화관에서는 노동과 생태, 지역 공동체, 그리고 민주주의의 기억을 조명하는 다채로운 기획전과 상영회가 관객을 기다리고 있다.",
-        "특히 지역 청년 예술가들과 주민들이 함께 무대를 만든 충청·호남 순회 마당극과 구술사 아카이브 전시는 수도권 중심의 문화 향유 격차를 허무는 뜻깊은 시도로 평가받는다."
-      ],
-      "visual": {
-        "videoId": "-fkjQt4-l4A",
-        "url": "https://img.youtube.com/vi/-fkjQt4-l4A/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=-fkjQt4-l4A",
-        "topic": "컬처·문화기행: 천안 아우내 장터 107년의 숨결과 민중의 독립혼",
-        "caption": "충남 천안시 동남구 병천면 아우내 독립만세 유적지와 도서출판 아우내의 발자취.",
-        "credit": "도서출판 아우내 문화사업부"
-      }
-    },
-    {
-      "pageNumber": 44,
-      "sectionId": "part-5",
-      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
-      "layoutType": "culture-photo-essay",
-      "kicker": "HUMAN & HISTORY · 한국 현대사 인물 재조명",
-      "title": "시대의 어둠을 밝힌 이름 없는 등불들: 풀뿌리 시민운동과 언론 민주화의 궤적",
-      "subtitle": "검열과 탄압에 맞서 진실을 기록한 해직 언론인들과 시민 독자들의 연대사",
-      "author": "역사기록 연구팀",
-      "paragraphs": [
-        "오늘날 우리가 누리는 표현의 자유와 시민 언론의 토대는 거저 주어진 것이 아니다. 서슬 퍼런 권위주의 시절 백지 광고와 자발적 구독 운동으로 정론직필의 언론을 지켜냈던 시민들의 연대가 있었기에 가능했다.",
-        "유튜브 153만 구독자와 함께 호흡하는 스픽스와 『주간 스픽스』 역시 그 자랑스러운 시민 저널리즘의 계보 위에 서 있음을 무거운 책임감으로 되새긴다."
-      ],
-      "visual": {
-        "videoId": "itVoUz9w9hw",
-        "url": "https://img.youtube.com/vi/itVoUz9w9hw/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw",
-        "topic": "지방시대 자치분권: 전남 신안군 ‘햇빛연금’과 기본소득 실험",
-        "caption": "신재생에너지 발전 이익을 주민과 나누는 신안군 조례 제14조 풀뿌리 혁신 모델.",
-        "credit": "스픽스 지방자치팀"
-      }
-    },
-    {
-      "pageNumber": 45,
-      "sectionId": "part-5",
-      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
-      "layoutType": "local-era",
-      "kicker": "LOCAL ERA Ⅰ · 지방시대 심층 리포트",
-      "title": "바람과 햇빛이 연금이 되는 섬: 전남 신안군 재생에너지 이익공유제와 청년의 귀환",
-      "subtitle": "전국 89개 인구소멸 위험지역의 대안 모델… 안좌도 주민 3,200명의 햇빛연금 수령 현장을 가다",
-      "author": "스픽스 지방자치·로컬혁신 취재팀",
-      "paragraphs": [
-        "인구 절벽과 지방소멸의 경고음이 전국을 강타하는 가운데, 놀랍게도 주민등록 인구가 매년 순유입되며 활기를 되찾은 지자체가 있다. 전라남도 신안군이다. 염전과 갯벌의 거센 바닷바람과 눈부신 햇빛을 ‘에너지 기본소득’으로 전환한 신안군의 혁신 실험 현장을 심층 취재했다.",
-        "## [현장 취재] 안좌면사무소의 축제: 분기별 20만~60만 원 햇빛연금 배당\n신안군 안좌면사무소 앞마당은 매분기 햇빛연금 지급일마다 잔칫날 분위기로 들썩인다. 안좌도 주민 3,200여 명은 군 조례 제14조에 따라 설립된 신재생에너지 주민협동조합을 통해 1인당 분기별 20만~60만 원의 배당금을 지역화폐인 ‘1004섬신안상품권’으로 지급받는다. 4인 가족 기준 연간 수백만 원에 달하는 고정 소득이 생기는 셈이다. 이 돈은 고스란히 읍내 마트와 식당, 주유소에서 쓰이며 지역 경제의 강력한 내수 엔진 역할을 톡톡히 하고 있다.",
-        "## [소멸 위기 극복] 청년과 아이들의 귀환: 폐교 위기 초등학교의 반전 드라마\n더 놀라운 것은 청년들의 귀환이다. 초·중·고등학생 자녀를 둔 가구에는 추가 배당 인센티브를 지급하자, 목포와 광주 등 인근 대도시로 떠났던 젊은 부부들이 아이들의 손을 잡고 섬으로 되돌아오고 있다. 폐교 위기에 몰렸던 면 단위 초등학교들이 잇달아 전학 온 학생들로 정원을 채우는 기적이 현실이 되었다. 현장에서 만난 학부모는 “기본소득 덕분에 아이들 교육비와 생활비 부담을 덜고 자연 속에서 행복하게 살고 있다”며 미소를 지었다."
-      ],
-      "visual": {
-        "videoId": "itVoUz9w9hw",
-        "url": "https://img.youtube.com/vi/itVoUz9w9hw/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw",
-        "topic": "지방시대 자치분권: 전남 신안군 ‘햇빛연금’과 기본소득 실험",
-        "caption": "신재생에너지 발전 이익을 주민과 나누는 신안군 조례 제14조 풀뿌리 혁신 모델.",
-        "credit": "스픽스 지방자치팀"
-      }
-    },
-    {
-      "pageNumber": 46,
-      "sectionId": "part-5",
-      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
-      "layoutType": "local-era",
-      "kicker": "LOCAL ERA Ⅱ · 전국 지방정부 혁신 사례집",
-      "title": "신안 햇빛연금 · 화성 무상교통 · 천안 청년스마트팜: 현장에서 피어나는 자치 혁신",
-      "subtitle": "주민의 삶을 직접 바꾸는 전국 기초·광역 지방정부의 베스트 프랙티스 집중 해부",
-      "author": "지방자치 특별취재팀",
-      "paragraphs": [
-        "첫째, 전남 신안군의 재생에너지 개발이익 공유제는 태양광과 해상풍력 발전 수익을 주민 협동조합을 통해 분기별 지역화폐 연금으로 지급하며 출산율 반등과 인구 순유입이라는 기적을 일궈냈다.",
-        "둘째, 충남 천안시와 인근 지자체가 추진하는 청년 스마트팜 클러스터 및 대학 연계 창업 특구는 지역의 풍부한 농업·교통 인프라와 청년 기술 인재를 결합해 지역 정주 여건을 획기적으로 개선하고 있다.",
-        "셋째, 대중교통 무상화 및 수요응답형 버스(DRT) 도입은 농어촌 고령층의 이동권을 보장하고 탄소 배출을 줄이는 일석이조의 성과를 거두고 있다."
-      ],
-      "visual": {
-        "videoId": "itVoUz9w9hw",
-        "url": "https://img.youtube.com/vi/itVoUz9w9hw/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw",
-        "topic": "지방시대 자치분권: 전남 신안군 ‘햇빛연금’과 기본소득 실험",
-        "caption": "신재생에너지 발전 이익을 주민과 나누는 신안군 조례 제14조 풀뿌리 혁신 모델.",
-        "credit": "스픽스 지방자치팀"
-      }
-    },
-    {
-      "pageNumber": 47,
-      "sectionId": "part-5",
-      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
-      "layoutType": "local-era",
-      "kicker": "LOCAL ERA Ⅲ · 지방의회 & 주민자치 라운지",
-      "title": "조례 하나가 동네를 바꾼다: 금주의 주목할 만한 지방의회 민생 조례 5선",
-      "subtitle": "이동노동자 쉼터 설치부터 골목형 상점가 지정 완화·독거노인 AI 돌봄까지",
-      "author": "스픽스 자치행정 분석팀",
-      "paragraphs": [
-        "국회가 거대 담론을 다투는 사이, 전국의 시·군의회와 광역의회에서는 주민의 일상과 직결된 알짜 민생 조례들이 잇따라 제정되고 있다.",
-        "금주 『주간 스픽스』가 선정한 우수 조례는 ▲전통시장 및 골목형 상점가 지정 요건 완화 조례 ▲플랫폼·배달 이동노동자 간이 쉼터 확충 조례 ▲농촌 빈집 정비 및 귀농·귀촌 임대주택 전환 조례 ▲소상공인 폐업 및 재기 지원 조례 ▲다문화·이주배경 청소년 언어·진로 멘토링 지원 조례다."
-      ],
-      "visual": {
-        "videoId": "itVoUz9w9hw",
-        "url": "https://img.youtube.com/vi/itVoUz9w9hw/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=itVoUz9w9hw",
-        "topic": "지방시대 자치분권: 전남 신안군 ‘햇빛연금’과 기본소득 실험",
-        "caption": "신재생에너지 발전 이익을 주민과 나누는 신안군 조례 제14조 풀뿌리 혁신 모델.",
-        "credit": "스픽스 지방자치팀"
-      }
-    },
-    {
-      "pageNumber": 48,
-      "sectionId": "part-5",
-      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
-      "layoutType": "book-review",
-      "kicker": "AUNAE BOOK REVIEW · 도서출판 아우내 금주의 서평",
-      "title": "시대를 읽는 지성의 나침반 — 도서출판 아우내 인문·시사 총서 3종",
-      "subtitle": "도서출판 아우내(충남 천안시 동남구 양지말1길 40) 편집부가 권하는 시사·인문 필독서",
-      "author": "도서출판 아우내 도서선정위원회 · 스픽스 문화부",
-      "paragraphs": [
-        "충남 천안의 역사와 인문학적 토양 위에서 시대를 꿰뚫는 양서(良書)를 펴내온 도서출판 아우내(대표 이진실)가 2026년 가을, 대한민국의 현재와 미래를 성찰하는 역작 3종을 출간했다. 50페이지 주간지의 대미를 장식하는 심층 서평과 함께 153만 시청자 독자들의 생생한 목소리를 담는다.",
-        "## [출판 철학] 정기간행물과 단행본 총서의 지식 생태계 선순환\n도서출판 아우내는 50페이지 정기간행물 『주간 스픽스』 발행과 함께, 지면에서 다룬 핵심 의제들을 단행본 총서로 심화 출간하여 대한민국 지식 생태계의 공공재를 축적해 나갈 것입니다. 소음과 가짜뉴스가 범람하는 시대일수록, 오랜 연구와 치열한 현장 취재가 녹아든 책이야말로 시민의 지적 근육을 단련하는 가장 든든한 방파제입니다.",
-        "## [판권지 고정 표기] 국립중앙도서관 납본 및 영구 보존 안내\n본지는 ISSN 3022-891X 정기간행물 및 ISBN 978-89-98765-43-2 전자책으로 동시 등록되어 국립중앙도서관 및 주요 공공도서관에 영구 보존됩니다. 발행·제작처는 도서출판 아우내(충남 천안시 동남구 양지말1길 40, 전화 070-7561-0677)이며, 153만 시청자와 독자 여러분의 따뜻한 비판과 제언을 언제나 환영합니다."
-      ],
-      "books": [
-        {
-          "title": "공론장의 재구성: 알고리즘 시대의 민주주의와 저널리즘",
-          "publisher": "도서출판 아우내",
-          "isbn": "ISBN 978-89-XXXX-101-2",
-          "summary": "뉴미디어 방송과 정통 인쇄 저널리즘의 결합이 시민 숙의 민주주의를 어떻게 심화시키는지를 밝힌 미디어 비평서."
-        },
-        {
-          "title": "아우내에서 길을 묻다: 한국 근현대 민중 자치와 공동체의 계보",
-          "publisher": "도서출판 아우내",
-          "isbn": "ISBN 978-89-XXXX-102-9",
-          "summary": "1919년 아우내 독립만세운동부터 오늘날의 풀뿌리 주민자치까지 면면히 이어진 시민 주권의 역사를 추적한 인문 교양서."
-        },
-        {
-          "title": "2026 대전환의 경제학: 가계부채, 공급망, 그리고 기본사회",
-          "publisher": "도서출판 아우내",
-          "isbn": "ISBN 978-89-XXXX-103-6",
-          "summary": "복합 위기 시대를 건너는 한국 경제를 위한 거시 재정·금융·산업 정책 대안을 집대성한 정책 총서."
-        }
-      ],
-      "visual": {
-        "videoId": "N0A7avU9zzs",
-        "url": "https://img.youtube.com/vi/N0A7avU9zzs/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs",
-        "topic": "도서출판 아우내 서평: 『역사의 사초』, 『지역화폐 경제학』, 『헌법의 길』",
-        "caption": "더 나은 세상을 만드는 지성의 서재: 도서출판 아우내 3대 신간 심층 북리뷰.",
-        "credit": "도서출판 아우내 출판기획부"
-      }
-    },
-    {
-      "pageNumber": 49,
-      "sectionId": "part-5",
-      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
-      "layoutType": "readers-lounge",
-      "kicker": "READERS & YOUTUBE LOUNGE · 독자 투고 & 베스트 댓글",
-      "title": "153만 구독자와 독자가 함께 만드는 지면: 금주의 스픽스 베스트 댓글 & 독자 편지",
-      "subtitle": "유튜브 @SPEAKS_TV 실시간 채팅·댓글 하이라이트 및 정기구독자 서신",
-      "author": "스픽스 독자소통위원회",
-      "paragraphs": [
-        null,
-        "■ 독자 편지 (충남 천안시 독자 이정훈 님): “유튜브로 스픽스 방송을 매일 챙겨보다가 도서출판 아우내를 통해 50페이지 정통 주간지로 창간된다는 소식에 반가운 마음으로 첫 장부터 끝 장까지 정독했습니다. 방송 화면 속 스틸컷 옆에 놓인 QR 코드를 스마트폰으로 찍자마자 해당 발언 시점의 영상이 재생되는 경험이 놀랍습니다.”",
-        "■ 편집국 알림: 『주간 스픽스(SPEAKS WEEKLY)』는 독자 여러분의 제보와 원고 투고, 방송 주제 제안을 언제나 환영합니다. 웹사이트(speaks.kr) 또는 발행처(도서출판 아우내 070-7561-0677)로 소중한 의견을 보내주십시오."
-      ],
-      "qrUrl": "https://www.youtube.com/@SPEAKS_TV",
-      "qrLabel": "스픽스 유튜브 댓글 참여하기",
-      "visual": {
-        "videoId": "N0A7avU9zzs",
-        "url": "https://img.youtube.com/vi/N0A7avU9zzs/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs",
-        "topic": "도서출판 아우내 서평: 『역사의 사초』, 『지역화폐 경제학』, 『헌법의 길』",
-        "caption": "더 나은 세상을 만드는 지성의 서재: 도서출판 아우내 3대 신간 심층 북리뷰.",
-        "credit": "도서출판 아우내 출판기획부"
-      }
-    },
-    {
-      "pageNumber": 50,
-      "sectionId": "part-5",
-      "sectionName": "Part 5. 컬처·라이프 & 지방시대",
-      "layoutType": "back-cover",
-      "kicker": "BACK COVER · 정기구독 및 도서출판 아우내 안내",
-      "title": "더 나은 세상을 만드는 정치·시사·문화 주간지 『주간 스픽스 (SPEAKS WEEKLY)』",
-      "subtitle": "매주 월요일, 153만 시민의 지성과 정통 저널리즘의 품격을 당신의 서재로 배송합니다",
-      "paragraphs": [
-        "원천 미디어: 스픽스 인터넷 신문 (https://www.speaks.kr/) / 스픽스 유튜브 채널 (@SPEAKS_TV)",
-        "발행·제작처: 도서출판 아우내 | 주소: 충남 천안시 동남구 양지말1길 40 | 대표전화: 070-7561-0677",
-        "정기간행물 번호: ISSN 3022-891X | 전자책 국제표준도서번호: ISBN 978-89-98765-43-2"
-      ],
-      "qrUrl": "https://www.speaks.kr/",
-      "qrLabel": "주간 스픽스 웹 매거진 & 정기구독",
-      "visual": {
-        "videoId": "N0A7avU9zzs",
-        "url": "https://img.youtube.com/vi/N0A7avU9zzs/hqdefault.jpg",
-        "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs",
-        "topic": "도서출판 아우내 서평: 『역사의 사초』, 『지역화폐 경제학』, 『헌법의 길』",
-        "caption": "더 나은 세상을 만드는 지성의 서재: 도서출판 아우내 3대 신간 심층 북리뷰.",
-        "credit": "도서출판 아우내 출판기획부"
-      }
+  "youtubeTopClips": [],
+  "speaksWebArticles": [],
+  "infographics": {},
+  "sources": [
+    {
+      "id": "Xid_HkqFA8U",
+      "title": "[🔴본방송][역전의용사들] “대통령 욕하고 여직원에 의자 던진 자를 감싸나!” 장성철이 터뜨린 ‘조국 집회’와 팀김어준 충격 연관설_오창익 장성철 (1026)",
+      "url": "https://www.youtube.com/watch?v=Xid_HkqFA8U",
+      "channel": "스픽스",
+      "channelId": "UCgeOlLcX6PReHdWImEnUVTg",
+      "uploadDate": "20261026",
+      "duration": 3104,
+      "views": 3637,
+      "thumbnail": "https://i.ytimg.com/vi/Xid_HkqFA8U/hqdefault.jpg",
+      "collectedAt": "2026-10-26T12:11:41.871Z",
+      "captionType": "youtube-korean-captions-unreviewed"
     }
   ]
 }

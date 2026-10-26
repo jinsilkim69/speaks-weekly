@@ -12,6 +12,7 @@ import {
   getEditorialPhoto,
   getEditorialVisual
 } from './qr-generator.js';
+import { escapeHtml } from './qr-generator.js';
 
 let issueData = null;
 let currentPageIndex = 0; // 0 ~ 49
@@ -36,11 +37,13 @@ async function initMagazineViewer() {
   try {
     const res = await fetch('/api/issue');
     issueData = await res.json();
+    const note = document.querySelector('[role="note"]');
+    if (note && issueData.meta.notice) note.textContent = issueData.meta.notice;
 
     const meta = issueData.meta;
     const headerMetaEl = document.getElementById('header-issue-meta');
     if (headerMetaEl) {
-      headerMetaEl.textContent = `${meta.issueNumber} · ${meta.publishDate} · 50p 완본`;
+      headerMetaEl.textContent = `${meta.issueNumber} · ${meta.publishDate} · 50p 편집본`;
     }
 
     applyFontScale(fontScale);
@@ -113,6 +116,17 @@ function renderAllPages() {
 }
 
 function renderPageHtml(page, idx, issue) {
+  if (page.layoutType === 'agent-page') {
+    return `<section class="mag-page" id="page-item-${idx}" data-page-index="${idx}">
+      <div class="mag-running-header"><span>${escapeHtml(page.sectionName)}</span><span>편집본 · p.${page.pageNumber}</span></div>
+      <div class="mag-page-content"><h1 class="mag-title">${escapeHtml(page.title)}</h1>
+      ${page.subtitle ? `<p>${escapeHtml(page.subtitle)}</p>` : ''}
+      ${page.visual ? `<img src="${escapeHtml(page.visual.url)}" alt="원본 방송 썸네일" style="width:100%;max-height:180px;object-fit:contain;"/>` : ''}
+      ${(page.paragraphs || []).map(p => `<p style="line-height:1.8;white-space:pre-line;">${escapeHtml(p)}</p>`).join('')}
+      ${page.sourceUrl ? `<a href="${escapeHtml(page.sourceUrl)}" target="_blank" rel="noopener">${generateQrSvg(page.sourceUrl,64)} 원본 방송 확인</a>` : ''}
+      ${page.verificationNote ? `<p style="font-size:10px;margin-top:12px;">${escapeHtml(page.verificationNote)}</p>` : ''}
+      </div></section>`;
+  }
   const pNum = idx + 1;
   const pStr = String(pNum).padStart(2, '0');
   const pub = issue.meta.publisher;
@@ -829,7 +843,11 @@ function renderTocList() {
   const container = document.getElementById('toc-list-container');
   if (!container || !issueData || !issueData.pages) return;
 
-  const keySections = [
+  const keySections = issueData.meta.mode === 'agent-edited' ? [
+    {title:'표지 · 편집 안내',page:1,desc:issueData.meta.notice},
+    {title:'목차 · 판권',page:3,desc:'발행 정보'},
+    ...issueData.articles.filter(a => a.status === 'ready').map(a => ({title:a.title,page:a.startPage,desc:a.sectionTitle}))
+  ] : [
     { title: 'Cover (표지)', page: 1, desc: '금주의 헤드라인 & 특별기획' },
     { title: 'TOC & Intro (목차 및 판권)', page: 2, desc: '발행인의 말 & 도서출판 아우내 판권' },
     { title: 'Part 1. 스픽스 레이다 (Top 5)', page: 5, desc: '결정적 발언록 말말말 & 여론조사 차트(p.08)' },

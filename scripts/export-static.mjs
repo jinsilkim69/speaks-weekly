@@ -7,6 +7,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { feedFromIssue } from './live-feed.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -119,8 +120,10 @@ export async function exportStaticSite() {
       }
     ]
   };
-  fs.writeFileSync(path.join(apiDir, 'live-feed'), JSON.stringify(liveFeed, null, 2), 'utf-8');
-  fs.writeFileSync(path.join(apiDir, 'live-feed.json'), JSON.stringify(liveFeed, null, 2), 'utf-8');
+  const issue = JSON.parse(fs.readFileSync(currentIssuePath, 'utf8'));
+  const exportedFeed = issue.meta.mode === 'agent-edited' ? feedFromIssue(issue) : liveFeed;
+  fs.writeFileSync(path.join(apiDir, 'live-feed'), JSON.stringify(exportedFeed, null, 2), 'utf-8');
+  fs.writeFileSync(path.join(apiDir, 'live-feed.json'), JSON.stringify(exportedFeed, null, 2), 'utf-8');
 
   console.log(`✅ [정적 배포 완료] dist/ 폴더에 무료 호스팅 배포 준비 완료!`);
   console.log(`   - 대상 폴더: ${DIST_DIR}`);

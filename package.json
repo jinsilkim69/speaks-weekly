@@ -12,7 +12,9 @@
     "write": "node scripts/04-write-claude.mjs",
     "test": "node --test",
     "export": "node scripts/export-static.mjs",
-    "build": "node scripts/export-static.mjs"
+    "build": "node scripts/export-static.mjs",
+    "collect:broadcast": "node scripts/collect-broadcast.mjs",
+    "publish:agent": "node scripts/publish-agent-issue.mjs"
   },
   "publisher": {
     "name": "도서출판 아우내",
@@ -25,6 +27,7 @@
     "qrcode-generator": "^2.0.4"
   },
   "devDependencies": {
+    "jsdom": "^29.1.1",
     "jsqr": "^1.4.0"
   }
 }

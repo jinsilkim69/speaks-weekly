@@ -12,10 +12,19 @@ import { collectSpeaksSources, cleanupYoutubeTempFiles } from './01-collect-spea
 import { analyzeWithGemini } from './02-analyze-gemini.mjs';
 import { planWithChatGPT } from './03-plan-chatgpt.mjs';
 import { writeWithClaude } from './04-write-claude.mjs';
+import { collectBroadcast } from './collect-broadcast.mjs';
+import { publishAgentIssue } from './publish-agent-issue.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 
 export async function runFullPipeline(customInput = {}) {
+  if (customInput.mode !== 'demo') {
+    if (customInput.url) {
+      const source = await collectBroadcast(customInput.url);
+      return { ok:true, mode:'awaiting-agent', message:'실제 자막 수집 완료. 내장 에이전트가 자료를 읽고 data/agent_articles.json에 원고를 작성한 뒤 npm run publish:agent를 실행하세요.', source:{id:source.id,title:source.title} };
+    }
+    return publishAgentIssue();
+  }
   const startTime = Date.now();
   const stepsLog = [];
 
@@ -75,8 +84,9 @@ export async function runFullPipeline(customInput = {}) {
 if (process.argv[1] && path.resolve(process.argv[1]) === __filename) {
   const argUrl = process.argv[2] || '';
   const argTitle = process.argv[3] || '';
-  runFullPipeline({ url: argUrl, title: argTitle })
+  runFullPipeline(argUrl === '--demo' ? {mode:'demo'} : { url: argUrl, title: argTitle })
     .then((res) => {
+      if (!res.issueData) { console.log(res.message); return; }
       console.log(`\n========================================`);
       console.log(`『주간 스픽스 (SPEAKS WEEKLY)』 50p 자동 출판 파이프라인 완료 (${res.elapsedMs}ms)`);
       console.log(`총 페이지 수: ${res.issueData.pages.length}p / 꼭지 수: ${res.issueData.articles.length}개`);

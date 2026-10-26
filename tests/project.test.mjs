@@ -36,7 +36,7 @@ test('browser modules reference existing named exports', () => {
     for (const key of match[1].split(',').map(s => s.trim()).filter(Boolean)) assert.ok(key in visuals, `${name}: ${key}`);
   }
   assert.match(visuals.generateQrSvg('https://www.youtube.com/watch?v=abc&t=865s'), /<svg/);
-  assert.match(visuals.generatePollChartSvg(original.infographics.pollChart), /polyline/);
+  assert.match(visuals.generatePollChartSvg({labels:['1주','2주'],datasets:[{label:'테스트',data:[1,2]}]}), /polyline/);
 });
 
 test('issue structure and article/page synchronization', () => {
@@ -59,7 +59,7 @@ test('isolated pipeline, static export and HTTP save/error handling', async () =
     }
     // Cleanup must preserve source material not owned by the pipeline.
     fs.writeFileSync(path.join(sandbox, 'data/transcript.txt'), 'user transcript');
-    execFileSync(process.execPath, ['scripts/run-pipeline.mjs'], { cwd: sandbox });
+    execFileSync(process.execPath, ['scripts/run-pipeline.mjs', '--demo'], { cwd: sandbox });
     assert.equal(fs.readFileSync(path.join(sandbox, 'data/transcript.txt'), 'utf8'), 'user transcript');
     assert.ok(!fs.readdirSync(path.join(sandbox, 'data')).some(f => f.startsWith('.youtube-temp-')));
     validateIssue(JSON.parse(fs.readFileSync(path.join(sandbox, 'data/current_issue.json'), 'utf8')));

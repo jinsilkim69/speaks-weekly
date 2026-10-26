@@ -13,6 +13,12 @@ async function loadIssueData() {
   try {
     const res = await fetch('/api/issue');
     currentIssue = await res.json();
+    if (!res.ok) throw new Error(currentIssue.error || '기사 데이터를 불러오지 못했습니다.');
+    if (currentIssue.meta.mode === 'agent-edited') {
+      currentIssue.articles = currentIssue.articles.filter(a => a.status === 'ready');
+      const note = document.querySelector('[role="note"]');
+      if (note) note.textContent = currentIssue.meta.notice;
+    }
     renderMainMagazine();
   } catch (err) {
     console.error('기사 데이터를 불러오는 중 오류 발생:', err);
@@ -33,18 +39,18 @@ function renderMainMagazine() {
   const coverStoryIdx = articles.findIndex((a) => a.sectionId === 'part-2');
   const heroIdx = coverStoryIdx >= 0 ? coverStoryIdx : 0;
   const heroArticle = articles[heroIdx];
-  const heroVisual = getArticleVisual(heroIdx);
+  const heroVisual = heroArticle?.visual || getArticleVisual(heroIdx);
 
   const heroContainer = document.getElementById('hero-main-container');
   if (heroContainer && heroArticle) {
     const heroVideoUrl = heroArticle.videoUrl || heroVisual.videoUrl || 'https://www.youtube.com/@SPEAKS_TV';
     heroContainer.innerHTML = `
-      <div class="hero-visual" onclick="window.open('${heroVideoUrl}', '_blank')" style="cursor:pointer;" title="클릭 시 유튜브 원본 방송 시청">
+      <div class="hero-visual" data-open-idx="${heroIdx}" style="cursor:pointer;" title="클릭 시 기사 전문 읽기">
         <img src="${heroVisual.url}" alt="${heroVisual.topic}" loading="eager" />
         <span class="hero-visual-badge">커버스토리</span>
         <div class="yt-play-badge">
           <svg width="24" height="24" viewBox="0 0 24 24" fill="#ffffff"><polygon points="6 3 20 12 6 21 6 3"/></svg>
-          <span>유튜브 원본 방송 시청 ↗</span>
+          <span>기사 전문 읽기</span>
         </div>
         <div style="font-size:11.5px;color:#6b7280;margin-top:6px;line-height:1.4;">
           <strong>[포커스]</strong> ${heroVisual.caption}
@@ -64,7 +70,7 @@ function renderMainMagazine() {
           <span>${heroArticle.pageRange || 'p.11 ~ p.20'}</span>
         </div>
         <div class="hero-actions-bar" style="margin-top:16px; display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
-          <button class="btn-pill btn-pill-red" data-open-idx="${heroIdx}">50p 심층 기사 읽기</button>
+          <button class="btn-pill btn-pill-red" data-open-idx="${heroIdx}">기사 전문 읽기</button>
           <a href="${heroVideoUrl}" target="_blank" rel="noopener noreferrer" class="btn-pill" style="background:#cc0000; color:#ffffff; font-weight:700; display:inline-flex; align-items:center; gap:6px;">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="#ffffff"><polygon points="6 3 20 12 6 21 6 3"/></svg>
             유튜브 원본 방송 시청 ↗
@@ -82,15 +88,15 @@ function renderMainMagazine() {
     quadContainer.innerHTML = quadArticles
       .map((art) => {
         const globalIdx = articles.indexOf(art);
-        const visual = getArticleVisual(globalIdx);
+        const visual = art.visual || getArticleVisual(globalIdx);
         const videoUrl = art.videoUrl || visual.videoUrl || 'https://www.youtube.com/@SPEAKS_TV';
         return `
           <article class="quad-card">
-            <div class="quad-thumb" onclick="window.open('${videoUrl}', '_blank')" title="클릭 시 유튜브 원본 영상 시청">
+            <div class="quad-thumb" data-open-idx="${globalIdx}" title="클릭 시 기사 전문 읽기">
               <img src="${visual.url}" alt="${visual.topic}" loading="lazy" />
               <div class="yt-play-badge">
                 <svg width="22" height="22" viewBox="0 0 24 24" fill="#ffffff"><polygon points="6 3 20 12 6 21 6 3"/></svg>
-                <span>원본 영상</span>
+                <span>기사 전문 읽기</span>
               </div>
             </div>
             <div class="quad-tag">${art.sectionTitle}</div>
@@ -116,11 +122,11 @@ function renderMainMagazine() {
     horizContainer.innerHTML = horizArticles
       .map((art) => {
         const globalIdx = articles.indexOf(art);
-        const visual = getArticleVisual(globalIdx);
+        const visual = art.visual || getArticleVisual(globalIdx);
         const videoUrl = art.videoUrl || visual.videoUrl || 'https://www.youtube.com/@SPEAKS_TV';
         return `
           <article class="news-row-card">
-            <div class="news-row-thumb" onclick="window.open('${videoUrl}', '_blank')" title="클릭 시 유튜브 원본 영상 시청">
+            <div class="news-row-thumb" data-open-idx="${globalIdx}" title="클릭 시 기사 전문 읽기">
               <img src="${visual.url}" alt="${visual.topic}" loading="lazy" />
               <div class="yt-play-badge yt-play-badge-sm">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="#ffffff"><polygon points="6 3 20 12 6 21 6 3"/></svg>
@@ -165,26 +171,16 @@ function renderMainMagazine() {
   // 5. 하단 잡지 호수 박스 (주간경향 1700호 박스 스타일)
   const issueBox = document.getElementById('issue-showcase-container');
   if (issueBox && heroArticle) {
-    const heroVisual = getArticleVisual(heroIdx);
-    const leftLinks = articles.slice(1, 4)
-      .map(
-        (a) =>
-          `<li><a href="javascript:void(0)" data-open-idx="${articles.indexOf(a)}"><strong>[${a.sectionTitle.split('·')[0]}]</strong> ${a.title}</a></li>`
-      )
-      .join('');
-    const rightLinks = articles.slice(4, 7)
-      .map(
-        (a) =>
-          `<li><a href="javascript:void(0)" data-open-idx="${articles.indexOf(a)}"><strong>[${a.sectionTitle.split('·')[0]}]</strong> ${a.title}</a></li>`
-      )
-      .join('');
+    const heroVisual = heroArticle.visual || getArticleVisual(heroIdx);
+    const leftLinks = articles.filter(a => ['part-1', 'part-3'].includes(a.sectionId));
+    const rightLinks = articles.filter(a => ['part-4', 'part-5'].includes(a.sectionId));
 
     issueBox.innerHTML = `
       <div class="issue-showcase-header">
         <div class="issue-number-badge">${meta.issueNumber} (${meta.publishDate})</div>
         <div class="issue-actions">
           <a href="/magazine" class="btn-pill btn-pill-red">50p e-Book 보기</a>
-          <a href="/magazine?print=1" class="btn-pill btn-pill-primary">PDF 다운로드</a>
+          <a href="/magazine?print=1" class="btn-pill btn-pill-primary">인쇄 / PDF 저장</a>
           <a href="/magazine" class="btn-pill">호수별 보기</a>
         </div>
       </div>
@@ -195,7 +191,7 @@ function renderMainMagazine() {
             alt="${meta.issueNumber} 표지"
             class="magazine-cover-img"
           />
-          <div class="issue-cover-caption">50페이지 정규 인쇄판 A4 규격</div>
+          <div class="issue-cover-caption">50페이지 편성 · 현재 편집 중</div>
         </div>
         <div class="issue-articles-col">
           <div class="cover-story-feature" data-open-idx="${heroIdx}">
@@ -261,7 +257,8 @@ function openArticleModal(articleIndex) {
 
   // 기사와 1:1 정확히 일치하는 유튜브 방송 클립 매핑 (엉뚱한 외교 발언 매칭 원천 차단!)
   let clip = null;
-  if (articleIndex === 1) clip = youtubeTopClips?.[0]; // 스픽스 레이다 핫클립 (박지원x김종대)
+  if (article.sourceId) clip = null;
+  else if (articleIndex === 1) clip = youtubeTopClips?.[0]; // 스픽스 레이다 핫클립 (박지원x김종대)
   else if (articleIndex === 6) clip = youtubeTopClips?.[0]; // Who Speaks 1 (박지원x김종대)
   else if (articleIndex === 7) clip = youtubeTopClips?.[1]; // Who Speaks 2 (최강욱x이언주)
   else if (articleIndex === 8) clip = youtubeTopClips?.[2]; // Who Speaks 3 (선재규x김준형)
@@ -322,6 +319,7 @@ function openArticleModal(articleIndex) {
       }
 
       <div class="reader-body-text">
+        ${article.verificationNote ? `<p class="reader-verification-note" style="padding:12px;background:#fff3cd;">${article.verificationNote}</p>` : ''}
         ${article.lead ? `<div class="reader-text-lead" style="font-weight:700;color:#1A202C;font-size:1.06em;line-height:1.8;background:#F8FAFC;padding:16px 20px;border-left:4px solid #C8102E;border-radius:0 6px 6px 0;margin-bottom:24px;">${article.lead}</div>` : ''}
         ${
           article.bodyParagraphs && article.bodyParagraphs.length > 0
@@ -428,7 +426,20 @@ function openArticleModal(articleIndex) {
     `;
   }
 
+  if (article.evidence?.length && contentEl) {
+    const evidence = document.createElement('aside');
+    const label = document.createElement('h3'); label.textContent = '방송 근거 구간'; evidence.append(label);
+    article.evidence.forEach(item => {
+      const link = document.createElement('a');
+      link.href = `https://www.youtube.com/watch?v=${encodeURIComponent(article.sourceId)}&t=${item.start}s`;
+      link.target = '_blank'; link.rel = 'noopener noreferrer';
+      link.textContent = `${Math.floor(item.start/60)}:${String(item.start%60).padStart(2,'0')} · ${item.label}`;
+      link.style.display = 'block'; evidence.append(link);
+    });
+    contentEl.append(evidence);
+  }
   modal?.classList.add('open');
+  if (contentEl) contentEl.scrollTop = 0;
   modal?.setAttribute('aria-hidden', 'false');
   document.body.style.overflow = 'hidden';
 }
@@ -513,7 +524,7 @@ function renderLiveFeed(feed) {
 
   const timeEl = document.getElementById('live-feed-updated-at');
   if (timeEl && feed.updatedAt) {
-    timeEl.textContent = feed.mode === 'demo' ? '샘플 피드 · 실시간 수집 미연결' : `실시간 동기화: ${feed.updatedAt}`;
+    timeEl.textContent = feed.mode === 'demo' ? '샘플 피드 · 실시간 수집 미연결' : `방송 자료 수집본 · ${feed.updatedAt}`;
   }
 
   const container = document.getElementById('daily-live-cards-container');
@@ -624,7 +635,6 @@ const navLiveLinks = document.querySelectorAll('a[href="#live-radar-anchor"]');
 navLiveLinks.forEach(link => {
   link.addEventListener('click', (e) => {
     e.preventDefault();
-    window.openLivePlayerModal('v6awNopN5n4', '스픽스 실시간 생방송 ON-AIR', 'https://www.youtube.com/@SPEAKS_TV/live');
     const anchor = document.getElementById('live-radar-anchor');
     if (anchor) anchor.scrollIntoView({ behavior: 'smooth' });
   });

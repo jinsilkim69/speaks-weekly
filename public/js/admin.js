@@ -29,6 +29,8 @@ async function loadPipelineArtifacts() {
 function renderAdminView() {
   if (!adminIssueData) return;
   const { meta, articles, youtubeTopClips } = adminIssueData;
+  const note = document.querySelector('[role="note"]');
+  if (note && meta.notice) note.textContent = meta.notice;
 
   const issueNumInput = document.getElementById('edit-issue-number');
   const pubDateInput = document.getElementById('edit-publish-date');
@@ -153,11 +155,12 @@ document.getElementById('admin-pipeline-form')?.addEventListener('submit', async
     });
     const data = await res.json();
     if (!res.ok || !data.ok) throw new Error(data.error || '실행 실패');
+    if (data.mode === 'awaiting-agent') { alert(data.message); return; }
     if (data.ok) {
       adminIssueData = data.issueData;
       renderAdminView();
       await loadPipelineArtifacts();
-      alert('샘플 데이터로 50페이지 미리보기를 생성했습니다. 실제 수집·AI 검증·PDF 파일 생성은 수행하지 않았습니다.');
+      alert(data.issueData.meta.notice || '편집 원고가 반영되었습니다.');
     }
   } catch (err) {
     alert('오류 발생: ' + err.message);
