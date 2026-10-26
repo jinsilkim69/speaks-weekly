@@ -37,10 +37,15 @@ function renderMainMagazine() {
 
   const heroContainer = document.getElementById('hero-main-container');
   if (heroContainer && heroArticle) {
+    const heroVideoUrl = heroArticle.videoUrl || heroVisual.videoUrl || 'https://www.youtube.com/@SPEAKS_TV';
     heroContainer.innerHTML = `
-      <div class="hero-visual" data-open-idx="${heroIdx}">
+      <div class="hero-visual" onclick="window.open('${heroVideoUrl}', '_blank')" style="cursor:pointer;" title="클릭 시 유튜브 원본 방송 시청">
         <img src="${heroVisual.url}" alt="${heroVisual.topic}" loading="eager" />
         <span class="hero-visual-badge">커버스토리</span>
+        <div class="yt-play-badge">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="#ffffff"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+          <span>유튜브 원본 방송 시청 ↗</span>
+        </div>
         <div style="font-size:11.5px;color:#6b7280;margin-top:6px;line-height:1.4;">
           <strong>[포커스]</strong> ${heroVisual.caption}
         </div>
@@ -58,6 +63,13 @@ function renderMainMagazine() {
           <span>·</span>
           <span>${heroArticle.pageRange || 'p.11 ~ p.20'}</span>
         </div>
+        <div class="hero-actions-bar" style="margin-top:16px; display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
+          <button class="btn-pill btn-pill-red" data-open-idx="${heroIdx}">50p 심층 기사 읽기</button>
+          <a href="${heroVideoUrl}" target="_blank" rel="noopener noreferrer" class="btn-pill" style="background:#cc0000; color:#ffffff; font-weight:700; display:inline-flex; align-items:center; gap:6px;">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="#ffffff"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+            유튜브 원본 방송 시청 ↗
+          </a>
+        </div>
       </div>
     `;
   }
@@ -71,13 +83,22 @@ function renderMainMagazine() {
       .map((art) => {
         const globalIdx = articles.indexOf(art);
         const visual = getArticleVisual(globalIdx);
+        const videoUrl = art.videoUrl || visual.videoUrl || 'https://www.youtube.com/@SPEAKS_TV';
         return `
-          <article class="quad-card" data-open-idx="${globalIdx}">
-            <div class="quad-thumb">
+          <article class="quad-card">
+            <div class="quad-thumb" onclick="window.open('${videoUrl}', '_blank')" title="클릭 시 유튜브 원본 영상 시청">
               <img src="${visual.url}" alt="${visual.topic}" loading="lazy" />
+              <div class="yt-play-badge">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="#ffffff"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+                <span>원본 영상</span>
+              </div>
             </div>
             <div class="quad-tag">${art.sectionTitle}</div>
-            <h3 class="quad-title">${art.title}</h3>
+            <h3 class="quad-title" data-open-idx="${globalIdx}">${art.title}</h3>
+            <div class="card-action-bar" style="margin-top:8px; display:flex; justify-content:space-between; align-items:center;">
+              <button class="btn-card-read" data-open-idx="${globalIdx}">심층 기사</button>
+              <a href="${videoUrl}" target="_blank" rel="noopener noreferrer" class="link-card-yt">▶ 영상 보기 ↗</a>
+            </div>
           </article>
         `;
       })
@@ -96,15 +117,23 @@ function renderMainMagazine() {
       .map((art) => {
         const globalIdx = articles.indexOf(art);
         const visual = getArticleVisual(globalIdx);
+        const videoUrl = art.videoUrl || visual.videoUrl || 'https://www.youtube.com/@SPEAKS_TV';
         return `
-          <article class="news-row-card" data-open-idx="${globalIdx}">
-            <div class="news-row-thumb">
+          <article class="news-row-card">
+            <div class="news-row-thumb" onclick="window.open('${videoUrl}', '_blank')" title="클릭 시 유튜브 원본 영상 시청">
               <img src="${visual.url}" alt="${visual.topic}" loading="lazy" />
+              <div class="yt-play-badge yt-play-badge-sm">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="#ffffff"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+              </div>
             </div>
             <div>
               <div class="news-row-tag">${art.sectionTitle}</div>
-              <h3 class="news-row-title">${art.title}</h3>
-              <p class="news-row-desc">${art.lead || art.subtitle || ''}</p>
+              <h3 class="news-row-title" data-open-idx="${globalIdx}">${art.title}</h3>
+              <p class="news-row-desc" data-open-idx="${globalIdx}">${art.lead || art.subtitle || ''}</p>
+              <div class="card-action-bar" style="margin-top:6px; display:flex; gap:12px; align-items:center;">
+                <button class="btn-card-read btn-card-read-sm" data-open-idx="${globalIdx}">심층 기사 읽기</button>
+                <a href="${videoUrl}" target="_blank" rel="noopener noreferrer" class="link-card-yt">▶ 원본 방송 ↗</a>
+              </div>
             </div>
           </article>
         `;
@@ -253,6 +282,22 @@ function openArticleModal(articleIndex) {
         <span><strong>${article.author || '스픽스 특별취재팀'}</strong> · ${meta.publishDate || '2026. 10. 26'}</span>
         <span>지면: <strong>${article.pageRange || 'p.01 ~ p.50'}</strong></span>
       </div>
+
+      <!-- 유튜브 공식 채널 원본 영상 바로보기 바 -->
+      <div class="reader-yt-hero-bar" style="margin:16px 0 20px; padding:12px 16px; background:#18181b; border-radius:8px; display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:12px;">
+        <div style="display:flex; align-items:center; gap:10px;">
+          <span style="background:#cc0000; color:#fff; font-size:11px; font-weight:800; padding:3px 8px; border-radius:4px;">● YOUTUBE 방송</span>
+          <span style="color:#f4f4f5; font-size:13.5px; font-weight:700;">${visual.topic || article.title}</span>
+        </div>
+        <div style="display:flex; gap:8px;">
+          ${visual.videoId ? `<button class="btn-embed-player" onclick="window.toggleModalVideoPlayer('${visual.videoId}')" style="background:#27272a; color:#fff; border:1px solid #3f3f46; padding:6px 12px; border-radius:6px; font-size:12px; cursor:pointer;">📺 본문 영상 재생</button>` : ''}
+          <a href="${visual.videoUrl || 'https://www.youtube.com/@SPEAKS_TV'}" target="_blank" rel="noopener noreferrer" style="background:#cc0000; color:#fff; text-decoration:none; padding:6px 14px; border-radius:6px; font-size:12px; font-weight:700; display:inline-flex; align-items:center; gap:5px;">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="#fff"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+            유튜브 원본 영상 시청 ↗
+          </a>
+        </div>
+      </div>
+      <div id="modal-video-embed-box" style="display:none; margin:16px 0 24px; border-radius:8px; overflow:hidden; aspect-ratio:16/9; background:#000;"></div>
 
       <!-- 기사 내용과 1:1 매칭되는 정통 보도 비주얼 및 캡션 -->
       <div class="reader-lead-visual" style="margin:20px 0 24px;border-radius:8px;overflow:hidden;background:#000;box-shadow:0 4px 14px rgba(0,0,0,0.08);">
@@ -476,20 +521,28 @@ function renderLiveFeed(feed) {
 
   container.innerHTML = feed.items
     .map((item) => {
+      const vidId = item.videoId || 'v6awNopN5n4';
+      const vUrl = item.videoUrl || 'https://www.youtube.com/@SPEAKS_TV';
+      const safeTitle = (item.title || '').replace(/'/g, "\\'");
       return `
-        <article class="live-card" onclick="window.open('${item.videoUrl}', '_blank')">
-          <div class="live-card-thumb-wrap">
+        <article class="live-card">
+          <div class="live-card-thumb-wrap" onclick="window.openLivePlayerModal('${vidId}', '${safeTitle}', '${vUrl}')" style="cursor:pointer;" title="클릭 시 실시간 방송 영상 재생">
             <img src="${item.thumbnail}" alt="${item.title}" loading="lazy" />
+            <div class="live-play-btn-overlay">
+              <svg width="40" height="40" viewBox="0 0 24 24" fill="#ffffff"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+            </div>
             <span class="live-time-tag ${item.isLive ? 'is-live' : ''}">${item.timeAgo}</span>
           </div>
           <div class="live-card-body">
             <div class="live-card-program">${item.program}</div>
-            <h4 class="live-card-title">${item.title}</h4>
+            <h4 class="live-card-title" onclick="window.openLivePlayerModal('${vidId}', '${safeTitle}', '${vUrl}')" style="cursor:pointer;">${item.title}</h4>
             <div class="live-card-speaker">출연: ${item.speaker}</div>
             <p class="live-card-summary">${item.summary}</p>
             <div class="live-card-footer">
               <span>${item.views}</span>
-              <span style="color:var(--point-red);font-weight:700;">영상 시청 &gt;</span>
+              <a href="${vUrl}" target="_blank" rel="noopener noreferrer" class="live-card-yt-link" style="color:var(--point-red); font-weight:700; text-decoration:none;">
+                유튜브 시청 ↗
+              </a>
             </div>
           </div>
         </article>
@@ -497,6 +550,85 @@ function renderLiveFeed(feed) {
     })
     .join('');
 }
+
+window.toggleModalVideoPlayer = function(videoId) {
+  const box = document.getElementById('modal-video-embed-box');
+  if (!box) return;
+  if (box.style.display === 'none' || !box.innerHTML) {
+    box.style.display = 'block';
+    box.innerHTML = `<iframe src="https://www.youtube.com/embed/${videoId}?autoplay=1" style="width:100%;height:100%;border:none;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+  } else {
+    box.style.display = 'none';
+    box.innerHTML = '';
+  }
+};
+
+window.openLivePlayerModal = function(videoId = 'v6awNopN5n4', title = '스픽스 실시간 생방송 ON-AIR', videoUrl = 'https://www.youtube.com/@SPEAKS_TV/live') {
+  let liveModal = document.getElementById('live-player-modal');
+  if (!liveModal) {
+    liveModal = document.createElement('div');
+    liveModal.id = 'live-player-modal';
+    liveModal.className = 'live-player-modal-backdrop';
+    document.body.appendChild(liveModal);
+  }
+
+  const embedSrc = videoId 
+    ? `https://www.youtube.com/embed/${videoId}?autoplay=1`
+    : `https://www.youtube.com/embed/live_stream?channel=UCgeOlLcX6PReHdWImEnUVTg&autoplay=1`;
+
+  liveModal.innerHTML = `
+    <div class="live-player-modal-window">
+      <div class="live-player-modal-header">
+        <div style="display:flex; align-items:center; gap:8px;">
+          <span style="background:#cc0000; color:#fff; font-size:11px; font-weight:900; padding:3px 8px; border-radius:4px; display:inline-flex; align-items:center; gap:4px;">
+            <span style="width:7px; height:7px; border-radius:50%; background:#fff; display:inline-block; animation:pulse 1.5s infinite;"></span>
+            LIVE ON-AIR
+          </span>
+          <h3 style="margin:0; font-size:16px; color:#111827; font-weight:700;">${title}</h3>
+        </div>
+        <button onclick="window.closeLivePlayerModal()" style="border:none; background:transparent; font-size:24px; cursor:pointer; color:#6b7280; line-height:1;">&times;</button>
+      </div>
+      <div style="width:100%; aspect-ratio:16/9; background:#000;">
+        <iframe
+          src="${embedSrc}"
+          title="${title}"
+          style="width:100%; height:100%; border:none;"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div style="padding:14px 18px; background:#f9fafb; border-top:1px solid #e5e7eb; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
+        <span style="font-size:13px; color:#4b5563;">구독자 153만 명 · 스픽스(@SPEAKS_TV) 공식 방송</span>
+        <a href="${videoUrl}" target="_blank" rel="noopener noreferrer" style="background:#cc0000; color:#fff; text-decoration:none; padding:8px 16px; border-radius:6px; font-size:13px; font-weight:700; display:inline-flex; align-items:center; gap:6px;">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="#fff"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+          유튜브 앱/새 창에서 시청하기 ↗
+        </a>
+      </div>
+    </div>
+  `;
+  liveModal.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+};
+
+window.closeLivePlayerModal = function() {
+  const liveModal = document.getElementById('live-player-modal');
+  if (liveModal) {
+    liveModal.innerHTML = '';
+    liveModal.style.display = 'none';
+  }
+  document.body.style.overflow = '';
+};
+
+// 상단 GNB '실시간 라이브 & 속보' 클릭 시 즉시 라이브 모달 플레이어 오픈
+const navLiveLinks = document.querySelectorAll('a[href="#live-radar-anchor"]');
+navLiveLinks.forEach(link => {
+  link.addEventListener('click', (e) => {
+    e.preventDefault();
+    window.openLivePlayerModal('v6awNopN5n4', '스픽스 실시간 생방송 ON-AIR', 'https://www.youtube.com/@SPEAKS_TV/live');
+    const anchor = document.getElementById('live-radar-anchor');
+    if (anchor) anchor.scrollIntoView({ behavior: 'smooth' });
+  });
+});
 
 // 초기화
 loadIssueData();

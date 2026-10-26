@@ -301,6 +301,14 @@ export async function writeWithClaude(planResultInput = null) {
     }
   ];
 
+  articles.forEach((art, idx) => {
+    const visual = getArticleVisual(idx);
+    art.visual = visual;
+    art.videoId = visual.videoId;
+    art.videoUrl = visual.videoUrl;
+    art.sourceUrl = visual.videoUrl || art.sourceUrl || 'https://www.youtube.com/@SPEAKS_TV';
+  });
+
   // 50페이지 전 지면(p.01 ~ p.50)을 단 한 페이지의 누락도 없이 정밀 매핑 생성
   const pages = buildFiftyPages(blueprint, collected, articles, customSourceNote);
 

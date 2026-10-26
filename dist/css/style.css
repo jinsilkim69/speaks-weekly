@@ -1196,3 +1196,144 @@ button {
   color: #ffffff;
   text-decoration: underline;
 }
+
+/* ==========================================================================
+   YouTube Video & Live Player Modal Styles
+   ========================================================================== */
+.yt-play-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgba(0, 0, 0, 0.75);
+  color: #ffffff;
+  padding: 4px 10px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  backdrop-filter: blur(4px);
+  transition: all 0.2s ease;
+  pointer-events: none;
+  z-index: 2;
+}
+.quad-card:hover .yt-play-badge,
+.hero-visual:hover .yt-play-badge {
+  background: #cc0000;
+  transform: scale(1.05);
+}
+.yt-play-badge-sm {
+  top: 6px;
+  right: 6px;
+  padding: 4px 6px;
+}
+.card-action-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 8px;
+}
+.btn-card-read {
+  background: #f1f5f9;
+  color: #334155;
+  border: 1px solid #cbd5e1;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 11.5px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.btn-card-read:hover {
+  background: #e2e8f0;
+  color: #0f172a;
+}
+.btn-card-read-sm {
+  padding: 3px 8px;
+  font-size: 11px;
+}
+.link-card-yt {
+  color: #cc0000;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  transition: opacity 0.15s ease;
+}
+.link-card-yt:hover {
+  text-decoration: underline;
+  opacity: 0.85;
+}
+.hero-yt-badge {
+  position: absolute;
+  bottom: 24px;
+  right: 16px;
+  background: rgba(204, 0, 0, 0.9);
+  color: #ffffff;
+  padding: 6px 14px;
+  border-radius: 24px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 800;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease;
+  z-index: 2;
+}
+.hero-visual:hover .hero-yt-badge {
+  transform: scale(1.06);
+  background: #e60000;
+}
+.live-play-btn-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(204, 0, 0, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+  transition: all 0.2s ease;
+  pointer-events: none;
+}
+.live-card:hover .live-play-btn-overlay {
+  transform: translate(-50%, -50%) scale(1.15);
+  background: #ff0000;
+}
+.live-player-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(4px);
+  z-index: 9999;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+.live-player-modal-window {
+  background: #ffffff;
+  width: 100%;
+  max-width: 900px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+}
+.live-player-modal-header {
+  padding: 14px 20px;
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

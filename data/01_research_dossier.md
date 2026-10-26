@@ -1,7 +1,7 @@
 # 『주간 스픽스 (SPEAKS WEEKLY)』 제2026-44호 리서치 도시에 (01_research_dossier.md)
 
 - **생성 엔진**: Gemini 2.5 Pro Context Analyzer (Antigravity 내장 에이전트 파이프라인)
-- **분석 일시**: 2026-10-26T10:53:02.147Z
+- **분석 일시**: 2026-10-26T11:12:54.257Z
 - **원천 미디어**: 스픽스 유튜브 (@SPEAKS_TV, 구독자 153만) & 스픽스 인터넷신문 (speaks.kr)
 - **클린업 검증**: CLEANED_NO_GARBAGE_LEFT (삭제된 임시 파일: transcript.txt, video_meta.json)
 
