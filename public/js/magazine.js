@@ -10,7 +10,8 @@ import {
   generateBroadcastStillHtml,
   generatePollChartSvg,
   generateWorldDiagramSvg,
-  getEditorialPhoto
+  getEditorialPhoto,
+  getEditorialVisual
 } from './qr-generator.js';
 
 let issueData = null;
@@ -112,7 +113,8 @@ function renderPageHtml(page, idx, issue) {
   const pNum = idx + 1;
   const pStr = String(pNum).padStart(2, '0');
   const pub = issue.meta.publisher;
-  const photo = getEditorialPhoto(page.sectionId || 'part-2', idx);
+  const visual = page.visual || getEditorialVisual(pNum);
+  const photo = visual.url;
 
   // =========================================================================
   // p.01: 표지 (Front Cover)
@@ -183,6 +185,10 @@ function renderPageHtml(page, idx, issue) {
 
           <div style="position:relative;border-radius:4px;overflow:hidden;margin:6px 0 10px;">
             <img src="${photo}" alt="권두언 서재" style="width:100%;aspect-ratio:16/9;object-fit:cover;" />
+            <div style="font-size:calc(9.5px * var(--font-scale-factor, 1));color:#6b7280;margin-top:3px;display:flex;justify-content:space-between;align-items:center;">
+              <span><strong style="color:#C8102E;">[포커스]</strong> ${visual.caption}</span>
+              <span style="font-size:9px;color:#9ca3af;">${visual.credit}</span>
+            </div>
           </div>
 
           <div style="background:#FAF2ED;border-left:3px solid #C8102E;padding:6px 10px;margin-bottom:8px;font-size:calc(11.5px * var(--font-scale-factor, 1));font-weight:700;color:#111;">
@@ -406,6 +412,10 @@ function renderPageHtml(page, idx, issue) {
 
           <div style="position:relative;border-radius:4px;overflow:hidden;margin:4px 0 8px;background:#000;">
             <img src="${photo}" alt="${page.title}" style="width:100%;aspect-ratio:16/9;object-fit:cover;" />
+            <div style="font-size:calc(9px * var(--font-scale-factor, 1));color:#6b7280;margin-top:3px;display:flex;justify-content:space-between;align-items:center;">
+              <span><strong style="color:#C8102E;">[포커스]</strong> ${visual.caption}</span>
+              <span style="font-size:8.5px;color:#9ca3af;">${visual.credit}</span>
+            </div>
           </div>
 
           <div style="background:#F9F9F9;border-left:3px solid #C8102E;padding:6px 10px;margin-bottom:8px;font-size:calc(11px * var(--font-scale-factor, 1));line-height:1.5;">
@@ -475,7 +485,7 @@ function renderPageHtml(page, idx, issue) {
   }
 
   // =========================================================================
-  // p.48: 도서출판 아우내 신간 서평 지면 (도서 목업 + 판서)
+  // p.48: 도서출판 아우내 신간 서평 지면 (신간 3종 해제)
   // =========================================================================
   if (pNum === 48) {
     return `
@@ -486,20 +496,35 @@ function renderPageHtml(page, idx, issue) {
         </div>
 
         <div class="mag-page-content">
-          <h2 class="mag-title">도서출판 아우내 신간: 『공론장의 재구성: 알고리즘 시대의 민주주의』</h2>
+          <h2 class="mag-title">도서출판 아우내 신간 총서: 시대를 읽는 지성의 나침반 3종</h2>
           <div class="mag-subtitle">도서출판 아우내(충남 천안시 동남구 양지말1길 40) 편집부 엄선 이달의 필독서</div>
 
-          <div style="position:relative;border-radius:4px;overflow:hidden;margin:6px 0 10px;">
-            <img src="${photo}" alt="아우내 서재" style="width:100%;aspect-ratio:16/9;object-fit:cover;" />
+          <div style="position:relative;border-radius:4px;overflow:hidden;margin:4px 0 8px;">
+            <img src="${photo}" alt="${visual.topic}" style="width:100%;aspect-ratio:16/8;object-fit:cover;" />
+            <div style="font-size:calc(9px * var(--font-scale-factor, 1));color:#6b7280;margin-top:3px;display:flex;justify-content:space-between;">
+              <span><strong style="color:#C8102E;">[포커스]</strong> ${visual.caption}</span>
+              <span style="color:#9ca3af;">${visual.credit}</span>
+            </div>
           </div>
 
-          <div style="background:#FAF8F5;border:1px solid #E5E0D8;border-radius:4px;padding:8px 10px;margin-bottom:8px;font-size:calc(10.5px * var(--font-scale-factor, 1));">
-            <strong style="color:#C8102E;">서평 요약:</strong> 유튜브 알고리즘의 확증편향을 넘어, 시민이 직접 참여하는 정통 활자 저널리즘이 어떻게 민주적 공론장을 회복시키는지를 밝힌 역작이다.
+          <div style="display:flex;flex-direction:column;gap:6px;margin-bottom:6px;">
+            <div style="background:#FAF8F5;border-left:3px solid #C8102E;padding:6px 8px;border-radius:0 4px 4px 0;">
+              <strong style="color:#C8102E;font-size:calc(11px * var(--font-scale-factor, 1));">1. 『대한민국 사법의 미래: 수사와 기소의 분리』</strong>
+              <div style="font-size:calc(9.5px * var(--font-scale-factor, 1));color:#4b5563;">스픽스 사법개혁 기획팀 편저 | 360쪽 | 22,000원 — 선진국 수사·기소 분리 비교법적 분석과 중수청 설치법 해제.</div>
+            </div>
+            <div style="background:#FAF8F5;border-left:3px solid #0F1E36;padding:6px 8px;border-radius:0 4px 4px 0;">
+              <strong style="color:#0F1E36;font-size:calc(11px * var(--font-scale-factor, 1));">2. 『에너지 기본사회: 지방소멸을 넘어서』</strong>
+              <div style="font-size:calc(9.5px * var(--font-scale-factor, 1));color:#4b5563;">최배근·김종대 공저 | 312쪽 | 20,000원 — 신안 햇빛연금과 에너지고속도로의 거시경제적 선순환 모델.</div>
+            </div>
+            <div style="background:#FAF8F5;border-left:3px solid #059669;padding:6px 8px;border-radius:0 4px 4px 0;">
+              <strong style="color:#059669;font-size:calc(11px * var(--font-scale-factor, 1));">3. 『아우내의 함성: 끝나지 않은 독립의 길』</strong>
+              <div style="font-size:calc(9.5px * var(--font-scale-factor, 1));color:#4b5563;">도서출판 아우내 역사연구회 저 | 280쪽 | 18,000원 — 1919년 천안 병천 아우내 만세운동의 미공개 사료 발굴 논픽션.</div>
+            </div>
           </div>
 
-          <div class="mag-columns-2">
-            <p>1919년 아우내 장터의 만세 소리가 식민지 암흑을 밝혔듯, 오늘날 천안 아우내의 출판 정신은 파편화된 인터넷 미디어 환경 속에서 진실의 나침반을 세우고자 한다.</p>
-            <p>본서는 도서출판 아우내의 인문·사회 출판 철학을 고스란히 담아내며, 지식인과 깨어있는 시민들에게 깊은 사유의 울림을 전한다.</p>
+          <div class="mag-columns-2" style="font-size:calc(10.5px * var(--font-scale-factor, 1));line-height:1.55;">
+            <p>도서출판 아우내는 107년 전 천안 병천의 독립정신을 활자의 힘으로 계승하여, 자극적인 뉴스의 소음을 걷어내고 시민의 지적 근육을 단련하는 시사·인문 총서를 꾸준히 펴냅니다.</p>
+            <p>본 총서 3종은 전국 주요 온·오프라인 서점 및 도서출판 아우내 본사(070-7561-0677)를 통해 만나보실 수 있습니다.</p>
           </div>
         </div>
 
@@ -532,9 +557,16 @@ function renderPageHtml(page, idx, issue) {
 
         <div style="position:relative;border-radius:4px;overflow:hidden;margin:4px 0 8px;background:#eee;">
           <img src="${photo}" alt="${page.title}" style="width:100%;aspect-ratio:16/9;object-fit:cover;" />
+          <div style="font-size:calc(9.5px * var(--font-scale-factor, 1));color:#6b7280;margin-top:3px;display:flex;justify-content:space-between;align-items:center;">
+            <span><strong style="color:#C8102E;">[포커스]</strong> ${visual.caption}</span>
+            <span style="font-size:9px;color:#9ca3af;white-space:nowrap;margin-left:8px;">${visual.credit}</span>
+          </div>
         </div>
 
         <div class="mag-columns-2">
+          ${paragraphs.slice(0, 4).map((p) => `<p>${p}</p>`).join('')}
+        </div>
+      </div>
           ${paragraphs.slice(0, 4).map((p) => `<p>${p}</p>`).join('')}
         </div>
       </div>

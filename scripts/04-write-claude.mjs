@@ -9,7 +9,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { planWithChatGPT } from './03-plan-chatgpt.mjs';
-import { DEEP_COVER_STORY, DEEP_WHO_SPEAKS } from '../data/deep_articles.js';
+import { ALL_DEEP_ARTICLES, DEEP_COVER_STORY, DEEP_WHO_SPEAKS } from '../data/deep_articles.js';
+import { getEditorialVisual, getArticleVisual } from '../public/js/qr-generator.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -26,7 +27,8 @@ export async function writeWithClaude(planResultInput = null) {
     ? `특별 수집 원천 소스(${collected.customSourceUrl}) 집중 반영`
     : '스픽스(@SPEAKS_TV) 주간 방송 & speaks.kr 심층 기사 통합 판본';
 
-  // 14개 표준 꼭지 (50페이지 전체 매핑)
+  // 14개 표준 꼭지 (data/deep_articles.js의 심층 데이터 세트 및 1:1 완벽 매칭 비주얼 연결)
+  const deep = ALL_DEEP_ARTICLES;
   const articles = [
     {
       id: 'art-01',
@@ -36,18 +38,15 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.01 ~ 04',
       startPage: 1,
       endPage: 4,
-      kicker: 'COVER & PUBLISHER LETTER',
-      title: customCoverHeadline,
-      subtitle: '153만 시민의 공론장 ‘스픽스(SPEAKS)’가 기록하는 시대의 질문과 도서출판 아우내의 정통 저널리즘 선언',
-      author: '발행인 · 도서출판 아우내 편집국',
+      kicker: deep[0].kicker,
+      title: customCoverHeadline || deep[0].title,
+      subtitle: deep[0].subtitle,
+      author: deep[0].author,
       sourceType: 'Cover & Intro',
       sourceUrl: 'https://www.speaks.kr/',
-      lead: '화면 속의 뜨거운 설전이 활자의 깊이와 만날 때, 시대를 읽는 가장 단단한 나침반이 태어납니다. 『주간 스픽스(SPEAKS WEEKLY)』는 흘러가는 방송의 언어를 정제된 기록으로 응축해 매주 월요일 독자 여러분의 책상 위에 올립니다.',
-      bodyParagraphs: [
-        '유튜브 채널 구독자 153만 명, 누적 동영상 4만 2천여 편에 달하는 ‘스픽스(@SPEAKS_TV)’는 이미 대한민국 정치·시사 공론장의 가장 역동적인 최전선입니다. 매일 쏟아지는 현안 속에서 시민들은 단순한 속보를 넘어 사건의 맥락과 이면의 진실, 그리고 내일의 대안을 갈망하고 있습니다.',
-        '이에 인터넷 신문 ‘스픽스(speaks.kr)’의 심층 취재 역량과 충남 천안 병천 아우내 장터의 독립·민주 정신을 계승한 ‘도서출판 아우내’의 출판 장인정신이 결합하여 50페이지 정통 시사·문화 주간지 『주간 스픽스(SPEAKS WEEKLY)』를 발행합니다.',
-        '본지는 AI 멀티 에이전트 편집 파이프라인을 통해 1시간 분량의 생방송 대담에서 가장 결정적인 통찰을 추출하고, 관련 법안과 통계 팩트를 교차 검증한 뒤, 정통 시사주간지의 품격 있는 문어체 기사와 일문일답(Q&A)으로 재탄생시킵니다. 아울러 지면 곳곳에 배치된 타임스탬프 QR 코드를 스마트폰으로 스캔하면 해당 발언이 터져 나온 방송의 결정적 순간으로 즉시 연결되는 ‘읽고 보는 입체 매거진’의 새 지평을 열겠습니다.'
-      ]
+      lead: deep[0].lead,
+      bodyParagraphs: deep[0].bodyParagraphs,
+      visual: getArticleVisual(0)
     },
     {
       id: 'art-02',
@@ -57,19 +56,16 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.05 ~ 07',
       startPage: 5,
       endPage: 7,
-      kicker: 'WEEKLY HOT CLIPS TOP 5',
-      title: '1,482만 뷰가 폭발한 금주의 결정적 장면: 민생 추경에서 국감 포렌식까지',
-      subtitle: '유튜브 @SPEAKS_TV 급상승 클립 & 쇼츠 Top 5 하이라이트 및 결정적 발언록(“말말말”)',
-      author: '스픽스 디지털 데이터랩',
+      kicker: deep[1].kicker,
+      title: deep[1].title,
+      subtitle: deep[1].subtitle,
+      author: deep[1].author,
       sourceType: 'YouTube @SPEAKS_TV',
       sourceUrl: collected.youtubeTopClips[0].videoUrl,
       videoTimestamp: '14:25',
-      lead: '지난 한 주간 스픽스(@SPEAKS_TV) 시청자들의 시선이 가장 오래 머문 구간(Heatmap Peak)은 어디였을까. 조회수 124만 회를 돌파한 ‘정치본색’ 특별대담부터 162만 쇼츠 신화를 쓴 법사위 종합감사 일갈까지, 한 주를 관통한 5대 결정적 발언을 입체 분석했다.',
-      bodyParagraphs: [
-        '첫째, 금주 최고 조회수를 기록한 〈정치본색 라이브〉(14분 25초 구간, 다시보기 집중도 98.4%)에서는 자영업 폐업 도미노를 막기 위한 긴급 민생 추경이 도마 위에 올랐다. 대담에 나선 박지원 의원과 김종대 전 의원은 “통계청 지표 뒤에 숨은 골목상권의 눈물을 직시해야 한다”며 재정 당국의 전향적 태도 변화를 강하게 촉구했다.',
-        '둘째, 〈스픽스 1234〉(28분 40초 구간)에서는 수사·기소 완전 분리를 둘러싼 11월 정기국회 입법 시간표가 구체적으로 제시됐다. 출연진은 “검찰개혁의 핵심은 특정 기관의 유불리가 아니라 국민의 기본권 보호와 재판 지연 해소에 있다”는 점을 분명히 했다.',
-        '셋째, 〈스픽스 쇼츠 레이다〉에서 단일 클립 162만 뷰를 기록한 법제사법위원회 종합감사 장면(00분 48초 구간)은 디지털 로그 기록 하나로 위증 논란을 잠재운 명장면으로 꼽혔다. 시청자들은 댓글을 통해 “감정적 고성보다 치밀한 데이터와 증거가 국감의 품격을 바꾼다”며 뜨거운 호응을 보냈다.'
-      ]
+      lead: deep[1].lead,
+      bodyParagraphs: deep[1].bodyParagraphs,
+      visual: getArticleVisual(1)
     },
     {
       id: 'art-03',
@@ -79,18 +75,16 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.08 ~ 10',
       startPage: 8,
       endPage: 10,
-      kicker: 'POLL & INFOGRAPHIC RADAR',
-      title: '민심의 저울은 어디로 기울었나: ‘먹고사니즘’ 42.8% vs ‘사법개혁 완수’ 24.6%',
-      subtitle: '스픽스 주간 여론 지표 추이 및 시청자 키워드 네트워크 데이터 분석',
-      author: '스픽스 여론분석팀',
+      kicker: deep[2].kicker,
+      title: deep[2].title,
+      subtitle: deep[2].subtitle,
+      author: deep[2].author,
       sourceType: 'YouTube + Web Data',
       sourceUrl: 'https://www.speaks.kr/',
       videoTimestamp: '19:10',
-      lead: '10월 4주차 여론 지표를 관통하는 핵심어는 단연 ‘민생 체감도’와 ‘제도 개혁의 효능감’이다. 최근 5주간 추이를 살펴보면 민생 회복 및 추경의 시급성을 꼽은 응답이 36.2%에서 42.8%로 6.6%포인트 상승하며 국정 의제의 최상단을 점유했다.',
-      bodyParagraphs: [
-        '주목할 대목은 민생 경제 회복 요구와 권력기관 개혁 요구가 서로 배타적인 대체재가 아니라 상호 보완적 과제로 인식되고 있다는 점이다. 응답자의 다수는 불공정한 시장 질서와 사법 불신이 경제 활력을 갉아먹는 구조적 요인이라고 진단했다.',
-        '스픽스 실시간 채팅창과 댓글 18만 4천 건을 형태소 분석한 결과에서도 ‘소상공인 채무조정’, ‘지역화폐 국비지원’, ‘중수청 법안소위’, ‘대법관 증원’이 나란히 상위 연관 키워드 군집을 형성했다. 이는 개혁 입법과 민생 예산의 ‘투트랙 동시 돌파’를 주문하는 시민사회의 분명한 시그널이다.'
-      ]
+      lead: deep[2].lead,
+      bodyParagraphs: deep[2].bodyParagraphs,
+      visual: getArticleVisual(2)
     },
     {
       id: 'art-04',
@@ -100,15 +94,16 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.11 ~ 14',
       startPage: 11,
       endPage: 14,
-      kicker: DEEP_COVER_STORY.kicker,
-      title: DEEP_COVER_STORY.title,
-      subtitle: DEEP_COVER_STORY.subtitle,
-      author: DEEP_COVER_STORY.author,
+      kicker: deep[3].kicker,
+      title: deep[3].title,
+      subtitle: deep[3].subtitle,
+      author: deep[3].author,
       sourceType: 'speaks.kr 이슈/기획 심층취재',
       sourceUrl: collected.speaksWebArticles[0].url,
       videoTimestamp: '14:25',
-      lead: DEEP_COVER_STORY.lead,
-      bodyParagraphs: DEEP_COVER_STORY.bodyParagraphs
+      lead: deep[3].lead,
+      bodyParagraphs: deep[3].bodyParagraphs,
+      visual: getArticleVisual(3)
     },
     {
       id: 'art-05',
@@ -118,19 +113,16 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.15 ~ 17',
       startPage: 15,
       endPage: 17,
-      kicker: 'COVER STORY Ⅱ · 사법·권력기관 개혁 로드맵',
-      title: '수사·기소 완전 분리와 대법관 증원, 11월 입법 전쟁의 쟁점과 시나리오',
-      subtitle: '중대범죄수사청 신설·공소청 전환부터 상고심 적체 해소를 위한 법원조직법 개정까지',
-      author: '법조·정치 전문기자단',
+      kicker: deep[4].kicker,
+      title: deep[4].title,
+      subtitle: deep[4].subtitle,
+      author: deep[4].author,
       sourceType: 'speaks.kr 이재명 정부 / 사법기획',
       sourceUrl: 'https://www.speaks.kr/news/articleView.html?idxno=20261001',
       videoTimestamp: '28:40',
-      lead: '대한민국 형사사법 체계를 근본적으로 재설계하는 입법 시간표가 마침내 본궤도에 올랐다. 핵심은 크게 두 가지다. 검찰에 집중된 직접수사권과 기소권을 완전히 분리해 견제와 균형의 원리를 작동시키는 것, 그리고 만성적인 재판 지연을 해소해 국민의 신속한 재판청구권을 실질적으로 보장하는 것이다.',
-      bodyParagraphs: [
-        '국회 법제사법위원회에서 논의 중인 검찰개혁 법안의 골자는 부패·경제·공직자·선거·방위사업·대형참사 등 중대범죄 수사 기능을 신설되는 중대범죄수사청(중수청)으로 이관하고, 기존 검찰청은 기소와 공소 유지만을 전담하는 공소청(또는 기소청)으로 재편하는 것이다. 이는 수사를 개시한 주체가 기소 여부까지 결정할 때 발생하는 확증편향과 표적·별건 수사의 구조적 폐해를 원천 차단하겠다는 취지다.',
-        '여기에 더해 사법부 개혁의 핵심 의제로 부상한 것이 바로 ‘대법관 증원’과 ‘하급심 강화’다. 현재 대법관 1인당 연간 처리해야 할 상고심 사건 수가 수천 건에 육박하면서 심리 불속행 기각률이 치솟고, 중요 민생·노동·경제 사건의 확정판결이 수년씩 지체되는 문제가 한계에 달했기 때문이다.',
-        '본지가 작성한 ‘2026 정기국회 4대 핵심 쟁점 비교표’에서 확인할 수 있듯, 개혁의 성패는 수사기관 간 유기적 협력 절차를 얼마나 정교하게 법제화하느냐에 달려 있다. 범죄 대응 역량의 공백 없이 인권 친화적 사법 정의를 구현하는 세밀한 입법 기술이 요구되는 시점이다.'
-      ]
+      lead: deep[4].lead,
+      bodyParagraphs: deep[4].bodyParagraphs,
+      visual: getArticleVisual(4)
     },
     {
       id: 'art-06',
@@ -140,18 +132,16 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.18 ~ 20',
       startPage: 18,
       endPage: 20,
-      kicker: 'ISSUE SPECIAL · 미래 산업 & 기본사회',
-      title: 'AI 주권 국가와 에너지 고속도로: 성장과 분배의 선순환을 설계하다',
-      subtitle: 'RE100 산업벨트 구축과 신안형 햇빛·바람연금의 전국 확산을 위한 정책 청사진',
-      author: '스픽스 경제·산업 정책팀',
+      kicker: deep[5].kicker,
+      title: deep[5].title,
+      subtitle: deep[5].subtitle,
+      author: deep[5].author,
       sourceType: 'speaks.kr 기획특집',
       sourceUrl: 'https://www.speaks.kr/',
       videoTimestamp: '41:10',
-      lead: '인공지능(AI)과 반도체 패권 경쟁은 결국 전력망과 재생에너지 인프라의 싸움으로 귀결된다. 글로벌 빅테크 기업들이 공급망 전반에 RE100(재생에너지 100% 사용)을 요구하는 가운데, 에너지를 생산하는 지역 주민에게 그 수익을 배당하는 ‘에너지 기본소득’ 모델이 지방소멸과 산업 경쟁력을 동시에 해결할 해법으로 주목받고 있다.',
-      bodyParagraphs: [
-        '서남해안과 동해안의 풍부한 태양광·해상풍력 자원을 첨단 산업단지와 연결하는 ‘에너지 고속도로(지능형 초고압 직류송전망·HVDC)’ 구상은 단순한 전력 인프라 확충을 넘어선다. 국가가 송전망 인허가와 투자를 주도하되, 발전 수익의 일정 지분을 지역 주민 협동조합과 공유하는 구조를 결합함으로써 그동안 송전탑과 발전소 건설을 둘러싸고 반복되던 사회적 갈등을 획기적으로 줄일 수 있기 때문이다.',
-        '실제로 전남 신안군에서 시작된 ‘햇빛연금’과 ‘바람연금’은 인구 유출이 멈추고 청년과 신혼부부가 되돌아오는 가시적인 인구 순유입 효과를 증명했다. 『주간 스픽스』가 분석한 시뮬레이션에 따르면, 재생에너지 공유부 배당 모델을 전국 농어촌 소멸위험 지역 80여 곳으로 확산할 경우 연간 수조 원 규모의 지역 내 소비 창출 효과와 함께 국가 탄소중립 목표 달성 시점을 앞당기는 이중 효과가 기대된다.'
-      ]
+      lead: deep[5].lead,
+      bodyParagraphs: deep[5].bodyParagraphs,
+      visual: getArticleVisual(5)
     },
     {
       id: 'art-07',
@@ -161,33 +151,18 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.21 ~ 24',
       startPage: 21,
       endPage: 24,
-      kicker: 'WHO SPEAKS Ⅰ · 정치본색 지상중계 Q&A',
-      title: '“민생 앞에서는 여야가 따로 없다, 11월 국회에서 추경과 채무조정 담판 지어야”',
-      subtitle: '[정치본색 특별대담] 박지원 의원 × 김종대 전 의원 심층 인터뷰 전문 윤문',
-      author: '정리 · 스픽스 정치·인터뷰 데스크',
+      kicker: deep[6].kicker,
+      title: deep[6].title,
+      subtitle: deep[6].subtitle,
+      author: deep[6].author,
       sourceType: 'YouTube 정치본색',
       sourceUrl: collected.youtubeTopClips[0].videoUrl,
       videoTimestamp: '14:25',
-      speakerInfo: '박지원 국회의원 · 김종대 전 국회의원',
-      lead: '구독자 153만 스픽스 시청자들이 가장 뜨겁게 호응한 〈정치본색〉 생방송 대담을 정통 시사주간지 일문일답(Q&A) 문어체로 정밀 복원했다. 우측의 QR 코드를 스마트폰으로 스캔하면 14분 25초 결정적 발언 영상으로 즉시 이동한다.',
-      qaList: [
-        {
-          q: '정기국회가 중반전을 넘어섰습니다. 현재 정국을 관통하는 가장 시급한 과제를 무엇이라고 진단하십니까?',
-          a: '박지원: 현장에 답이 있습니다. 주말마다 지역구와 전통시장을 돌며 상인들의 손을 잡아보면 “코로나 때보다 지금이 더 버티기 힘들다”고 이구동성으로 호소합니다. 정치권이 매일 정쟁으로 날을 지새우는 것처럼 보여도, 결국 정치가 존재해야 할 제1의 이유는 국민의 먹고사는 문제를 해결하는 것입니다. 지금 당장 내수 심리를 살릴 특단의 민생 추경과 소상공인 부채 탕감·조정 프로그램을 가동해야 합니다.'
-        },
-        {
-          q: '재정 당국은 세수 결손과 국가채무 비율을 이유로 추경 편성에 난색을 표하고 있습니다. 어떻게 돌파해야 합니까?',
-          a: '김종대: 전형적인 본말전도입니다. 가계와 자영업자가 무너지면 소비세와 소득세 기반 자체가 붕괴해 세수 결손은 더욱 커질 수밖에 없습니다. 국가 재정은 가계가 위기에 처했을 때 방파제 역할을 하라고 존재하는 것입니다. 지역화폐 발행 지원과 소상공인 이자 감면은 단순한 현금 살포가 아니라 지역 경제의 모세혈관에 산소를 공급하는 생산적 투자입니다.'
-        },
-        {
-          q: '11월 예산안 및 법안 심사 과정에서 여야 협치의 돌파구가 열릴 가능성은 어떻게 보십니까?',
-          a: '박지원: 정치는 타협의 예술이지만, 동시에 결단의 영역이기도 합니다. 민생 법안과 개혁 법안을 테이블 위에 함께 올려놓고 국민 앞에서 당당하게 토론해야 합니다. 여당 내에서도 수도권과 영남권 의원들을 중심으로 골목상권 위기감이 고조되고 있는 만큼, 민생 회복 프로젝트에 대해서는 초당적 합의점을 도출할 수 있다고 확신합니다.'
-        }
-      ],
-      bodyParagraphs: [
-        ...DEEP_WHO_SPEAKS.bodyParagraphs,
-        '두 대담자는 60분간의 생방송 내내 데이터와 현장 사례를 교차하며 한국 정치가 나아갈 실용적 해법을 제시했다. 특히 생방송 중 실시간 동시접속자가 6만 8천 명을 돌파한 14분 25초 구간에서는 자영업자 폐업 통계를 직접 제시하며 재정 역할론을 역설해 시청자들의 공감을 이끌어냈다.'
-      ]
+      speakerInfo: deep[6].speakerInfo,
+      lead: deep[6].lead,
+      qaList: deep[6].qaList,
+      bodyParagraphs: deep[6].bodyParagraphs,
+      visual: getArticleVisual(6)
     },
     {
       id: 'art-08',
@@ -197,28 +172,18 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.25 ~ 28',
       startPage: 25,
       endPage: 28,
-      kicker: 'WHO SPEAKS Ⅱ · 스픽스 1234 지상중계 Q&A',
-      title: '“권력기관 개혁의 완성은 국민의 기본권 보장, 수사·기소 분리는 시대적 상식”',
-      subtitle: '[스픽스 1234 집중토론] 최강욱 전 의원 × 이언주 의원 법사위 쟁점 지상중계',
-      author: '정리 · 스픽스 정치·인터뷰 데스크',
+      kicker: deep[7].kicker,
+      title: deep[7].title,
+      subtitle: deep[7].subtitle,
+      author: deep[7].author,
       sourceType: 'YouTube 스픽스1234',
       sourceUrl: collected.youtubeTopClips[1].videoUrl,
       videoTimestamp: '28:40',
-      speakerInfo: '최강욱 전 국회의원 · 이언주 국회의원',
-      lead: '수사권과 기소권의 완전 분리, 그리고 사법 신뢰 회복을 위한 제도 개혁은 어디까지 왔는가. 〈스픽스 1234〉에서 펼쳐진 심층 법리 토론을 일문일답으로 정리했다.',
-      qaList: [
-        {
-          q: '검찰의 직접수사권을 폐지하고 중대범죄수사청을 신설하는 법안을 두고 수사 역량 약화를 우려하는 시각도 존재합니다.',
-          a: '최강욱: 선진 민주주의 국가 어디에서도 수사 개시권, 영장 청구권, 기소권, 형 집행권을 한 기관이 독점하는 사례를 찾기 어렵습니다. 수사와 기소를 분리하자는 것은 범죄를 봐주자는 것이 아니라, 전문 수사기관이 치밀하게 수사하되 기소 단계에서 법률 전문가 집단이 객관적으로 한 번 더 스크린하여 억울한 국민이 나오지 않게 하자는 ‘견제와 균형’의 원리입니다.'
-        },
-        {
-          q: '경제계와 일반 시민들이 체감하는 가장 큰 사법 불만 중 하나는 ‘재판 지연’입니다. 해법은 무엇입니까?',
-          a: '이언주: 맞습니다. 민사든 형사든 재판 하나가 3년, 5년씩 걸리면 이기더라도 이미 기업은 도산하고 개인의 삶은 피폐해진 뒤입니다. 법관 정원을 현실화하고 대법관 수를 증원하여 상고심 병목 현상을 깨뜨려야 합니다. 또한 디스커버리(증거개시) 제도를 적극 도입해 중소기업이나 기술 탈취 피해자가 재판 과정에서 정당한 권리를 구제받을 수 있도록 사법 인프라를 선진화해야 합니다.'
-        }
-      ],
-      bodyParagraphs: [
-        '대담 후반부(28분 40초 구간)에서는 국회 법제사법위원회 법안심사소위원회의 구체적인 심사 일정과 쟁점 조항들이 조목조목 짚어졌다. QR 코드를 스캔하면 두 의원이 법조문 텍스트를 띄워놓고 공방을 벌이는 하이라이트 영상을 즉시 시청할 수 있다.'
-      ]
+      speakerInfo: deep[7].speakerInfo,
+      lead: deep[7].lead,
+      qaList: deep[7].qaList,
+      bodyParagraphs: deep[7].bodyParagraphs,
+      visual: getArticleVisual(7)
     },
     {
       id: 'art-09',
@@ -228,28 +193,18 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.29 ~ 32',
       startPage: 29,
       endPage: 32,
-      kicker: 'WHO SPEAKS Ⅲ · 스픽스 특별 인터뷰 Q&A',
-      title: '“이념의 안경을 벗고 국익의 계산기를 두드려라: 격변하는 통상 질서와 한국 외교”',
-      subtitle: '[특별 인터뷰] 선재규 대기자 × 김준형 의원 · 최배근 교수 외교·경제 합동 대담',
-      author: '정리 · 스픽스 외교·경제 데스크',
+      kicker: deep[8].kicker,
+      title: deep[8].title,
+      subtitle: deep[8].subtitle,
+      author: deep[8].author,
       sourceType: 'YouTube 특별 인터뷰 & 경제본색',
       sourceUrl: collected.youtubeTopClips[2].videoUrl,
       videoTimestamp: '41:10',
-      speakerInfo: '선재규 대기자 · 김준형 국회의원 · 최배근 교수',
-      lead: '보편 관세의 파고와 미·중 기술 패권 경쟁의 틈바구니에서 수출 의존도 높은 한국 경제는 어떤 생존 전략을 취해야 하는가. 외교·거시경제 석학들의 진단을 지상 중계한다.',
-      qaList: [
-        {
-          q: '미국의 자국 우선주의 통상 압박과 공급망 재편 요구가 갈수록 거세지고 있습니다. 한국 외교의 최우선 원칙은 무엇이어야 합니까?',
-          a: '김준형: 외교에서 가장 위험한 태도는 스스로 선택지를 지우는 것입니다. 한미동맹을 안보와 기술 협력의 굳건한 기축으로 삼되, 중국 및 글로벌 사우스(아세안·인도·중남미)와의 경제·공급망 협력 채널을 전략적으로 관리하는 ‘유연한 실용 외교’가 절실합니다. 모든 국가가 자국의 실리를 위해 물밑 협상을 벌이는 시대에 우리만 경직된 진영 논리에 갇혀서는 안 됩니다.'
-        },
-        {
-          q: '대외 통상 리스크가 국내 실물 경제와 금융 시장으로 전이되는 것을 막기 위한 거시경제 처방은 무엇입니까?',
-          a: '최배근: 수출 대기업의 실적이 내수 중소기업과 가계 소득으로 흘러가는 낙수효과는 이미 끊어진 지 오래입니다. 수출 시장 다변화와 함께 국내적으로는 가계부채 비중을 점진적으로 낮추고, 중소·중견기업의 R&D 및 녹색 전환을 지원하는 산업 금융 체계를 대대적으로 재편해야 합니다.'
-        }
-      ],
-      bodyParagraphs: [
-        '41분 10초 구간에서 제시된 반도체·배터리 핵심광물 공급망 지도와 관세 시뮬레이션 자료는 시청자들로부터 “대학원 세미나보다 명쾌한 정세 분석”이라는 찬사를 받았다.'
-      ]
+      speakerInfo: deep[8].speakerInfo,
+      lead: deep[8].lead,
+      qaList: deep[8].qaList,
+      bodyParagraphs: deep[8].bodyParagraphs,
+      visual: getArticleVisual(8)
     },
     {
       id: 'art-10',
@@ -259,18 +214,15 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.33 ~ 36',
       startPage: 33,
       endPage: 36,
-      kicker: 'OPINION · 성한용의 정치 막전막후 & 시사 단상',
-      title: '분노의 정치를 넘어 ‘책임과 유능함의 경쟁’으로 복귀하라',
-      subtitle: '[성한용의 정치 막전막후] 강성 구호의 피로감… 결국 승패를 가르는 것은 중도·서민층의 삶이다',
-      author: '성한용 · 정치 칼럼니스트 (전 한겨레 선임기자)',
+      kicker: deep[9].kicker,
+      title: deep[9].title,
+      subtitle: deep[9].subtitle,
+      author: deep[9].author,
       sourceType: 'speaks.kr 오피니언',
       sourceUrl: collected.speaksWebArticles[1].url,
-      lead: '정치권의 언어가 갈수록 거칠어지고 있다. 상대 진영을 악마화하면 당장 자기 진영의 박수갈채와 후원금은 쏟아질지 모른다. 그러나 그 소음 속에서 정작 하루하루 장바구니 물가와 대출 이자를 걱정하는 평범한 시민들의 한숨 소리는 지워지고 만다.',
-      bodyParagraphs: [
-        '한국 정치사를 돌아보면 국민의 마음을 최종적으로 얻은 세력은 언제나 ‘더 크게 화를 낸 쪽’이 아니라 ‘더 유능하게 대안을 제시하고 책임을 진 쪽’이었다. 민주화 이후 수차례의 정권 교체와 총선 민심이 남긴 교훈은 명확하다. 유권자들은 오만한 권력을 심판하는 데도 단호하지만, 반사이익에만 기대어 민생을 외면하는 정치 세력에게도 똑같이 회초리를 든다.',
-        '지금 여의도에 필요한 것은 상대방의 실책만을 기다리는 ‘천수답 정치’가 아니다. 자영업자의 임대료와 이자 부담을 어떻게 1%포인트라도 낮출 것인지, 청년들이 지방에서도 양질의 일자리를 얻고 정착할 수 있는 산업 생태계를 어떻게 만들 것인지, 연금과 의료 개혁의 사회적 합의를 어떻게 이끌어낼 것인지를 두고 치열하게 정책 경쟁을 벌여야 한다.',
-        '『주간 스픽스』가 매주 방송의 열기를 차분한 문어체 기록과 데이터로 정제해 내놓는 이유도 여기에 있을 것이다. 뜨거운 가슴으로 비판하되 차가운 머리로 해법을 설계하는 것, 그것이 오늘날 깨어 있는 시민들이 정치에 요구하는 진짜 품격이다.'
-      ]
+      lead: deep[9].lead,
+      bodyParagraphs: deep[9].bodyParagraphs,
+      visual: getArticleVisual(9)
     },
     {
       id: 'art-11',
@@ -280,19 +232,16 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.37 ~ 40',
       startPage: 37,
       endPage: 40,
-      kicker: 'WORLD ISSUE · 선재규의 월드이슈 & 정세 관계도',
-      title: '브릭스(BRICS+)의 부상과 다극화 시대의 개막: 달러 패권과 공급망의 지각변동',
-      subtitle: '[선재규의 월드이슈] 글로벌 사우스 결집과 미·중·EU 3각 통상 파고 속 한국의 전략 공간',
-      author: '선재규 · 스픽스 국제문제 대기자',
+      kicker: deep[10].kicker,
+      title: deep[10].title,
+      subtitle: deep[10].subtitle,
+      author: deep[10].author,
       sourceType: 'speaks.kr 선재규의 월드이슈',
       sourceUrl: collected.speaksWebArticles[2].url,
       videoTimestamp: '41:10',
-      lead: '국제 질서의 시계추는 냉전 종식 이후 30여 년간 지속된 단극 체제를 지나 복잡한 ‘다극적 각자도생’의 시대로 빠르게 이동하고 있다. 브릭스(BRICS+) 확대 정상회의에서 논의된 독자 결제 시스템 구상과 핵심 광물 카르텔 움직임은 세계 경제의 블록화가 단순한 경고를 넘어 현실이 되었음을 보여준다.',
-      bodyParagraphs: [
-        '미국은 첨단 반도체, 양자컴퓨팅, 인공지능(AI) 분야에서 대중국 기술 통제 장벽을 한층 높이는 동시에 동맹국들에게도 동일한 수준의 수출 통제 동참을 요구하고 있다. 반면 중국과 러시아, 인도, 브라질에 더해 중동과 아프리카 주요 산유국·자원부국이 가세한 브릭스 플러스(BRICS+) 진영은 전 세계 인구의 절반과 글로벌 GDP의 상당 부분을 차지하며 독자적인 무역·결제 네트워크를 구축하고 있다.',
-        '여기에 유럽연합(EU)은 탄소국경조정제도(CBAM)와 공급망 실사법, AI 규제법을 통해 환경과 인권, 디지털 규범을 새로운 무역 장벽이자 표준으로 내세우고 있다. 본지 38~39면에 수록된 ‘세계 정세 관계도 다이어그램’이 보여주듯, 제조업 수출 강국인 대한민국은 이 세 개의 거대한 판이 충돌하는 한복판에 위치해 있다.',
-        '위기는 곧 기회의 다른 이름이다. 한국이 보유한 메모리 반도체, 이차전지, 조선, 방산, 원전, K-컬처의 제조·소프트파워 역량은 미·중 어느 쪽도 쉽게 대체할 수 없는 전략 자산이다. 특정 진영에 일방적으로 종속되기보다 기술 초격차를 유지하며 아세안·인도·유럽·중동과의 다자간 경제안보 파트너십을 촘촘히 엮어내는 고도의 외교적 지혜가 요구된다.'
-      ]
+      lead: deep[10].lead,
+      bodyParagraphs: deep[10].bodyParagraphs,
+      visual: getArticleVisual(10)
     },
     {
       id: 'art-12',
@@ -302,17 +251,15 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.41 ~ 44',
       startPage: 41,
       endPage: 44,
-      kicker: "SPEAKS' CHOICE · 역사·문화 기행 화보",
-      title: '그날의 함성이 가을바람에 실려 오는 곳, 천안 아우내 장터와 병천의 기억을 걷다',
-      subtitle: '1919년 4월 1일 만세운동의 성지 유관순 열사 사적지부터 백년의 세월을 품은 장터 문화까지',
-      author: '스픽스 문화·라이프 에디터',
+      kicker: deep[11].kicker,
+      title: deep[11].title,
+      subtitle: deep[11].subtitle,
+      author: deep[11].author,
       sourceType: "speaks.kr SPEAKS' Choice",
       sourceUrl: collected.speaksWebArticles[3].url,
-      lead: '두 개의 개울이 만나 어우러진다 하여 이름 붙은 ‘아우내(並川·병천)’. 충청남도 천안시 동남구에 자리한 이 유서 깊은 땅은 1919년 음력 3월 1일(양력 4월 1일), 호서 지방 최대 규모의 독립만세운동이 울려 퍼진 역사의 현장이다. 『주간 스픽스』를 발행하는 ‘도서출판 아우내’의 이름 또한 바로 이 어우러짐과 깨어 있는 시민 정신의 뿌리에서 길어 올렸다.',
-      bodyParagraphs: [
-        '가을 햇살이 깊어지는 10월 말, 천안시 동남구 병천면 유관순 열사 사적지와 추모각으로 향하는 길목은 단풍과 은행잎으로 고즈넉한 운치를 자아낸다. 열일곱 소녀의 몸으로 아우내 장터에 모인 3천여 군중 앞에서 태극기를 나눠주며 독립의 당위성을 외쳤던 그날의 기록은 사적지 기념관의 빛바랜 판결문과 수형 기록표 속에 생생히 살아 숨 쉬고 있다.',
-        '사적지 참배를 마치고 내려오면 끝자리 1일과 6일에 서는 전통 오일장인 아우내 장터와 전국적인 명물인 병천 순대거리가 여행객을 맞이한다. 장터에서 만난 상인들과 시민들의 소박하지만 단단한 삶의 표정 속에는 백 년 전 나라의 주권을 되찾고자 일어섰던 민초들의 생명력이 오늘날의 민주주의와 공동체 정신으로 면면히 이어지고 있음을 느끼게 한다.'
-      ]
+      lead: deep[11].lead,
+      bodyParagraphs: deep[11].bodyParagraphs,
+      visual: getArticleVisual(11)
     },
     {
       id: 'art-13',
@@ -322,17 +269,15 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.45 ~ 47',
       startPage: 45,
       endPage: 47,
-      kicker: 'LOCAL ERA · 풀뿌리 지방자치 혁신 리포트',
-      title: '지방이 살아야 나라가 산다: 농촌 기본소득 시범마을과 충청·호남 초광역 생활권 실험',
-      subtitle: '출산·돌봄·에너지 배당이 결합된 풀뿌리 자치 모델, 소멸 위기 지자체의 반전 드라마',
-      author: '지방자치 특별취재팀',
+      kicker: deep[12].kicker,
+      title: deep[12].title,
+      subtitle: deep[12].subtitle,
+      author: deep[12].author,
       sourceType: 'speaks.kr 지방정부 섹션',
       sourceUrl: 'https://www.speaks.kr/',
-      lead: '수도권 일극 체제라는 거대한 블랙홀에 맞서 스스로 생존과 번영의 길을 개척하고 있는 풀뿌리 지방정부들의 혁신 실험이 주목받고 있다. 단순한 일회성 전입 지원금을 넘어 지역 내 자원과 돌봄 생태계를 연결하는 구조적 대안들이 성과를 내기 시작했다.',
-      bodyParagraphs: [
-        '충남 청양군과 부여군을 비롯한 농촌 지자체들이 도입한 ‘고령친화 통합돌봄 모델’과 ‘농어민 수당·기본소득 실험’은 마을 공동체의 회복력을 높이는 핵심 동력으로 자리 잡았다. 보건·의료·주거·먹거리 돌봄을 마을 단위로 통합 제공하자 요양병원 장기 입원율이 낮아지고 지역 내 돌봄 일자리가 창출되는 선순환이 나타났다.',
-        '나아가 충청권 초광역 특별지방자치단체(메가시티) 출범과 광역철도망 연결은 대전·세종·충남·충북을 하나의 560만 경제·생활권으로 묶어내며 비수도권 균형발전의 새로운 이정표를 세우고 있다. 풀뿌리 민주주의의 현장에서 검증된 정책들이 중앙정부의 국가 표준 정책으로 확산되는 ‘상향식 개혁’의 시대가 열리고 있다.'
-      ]
+      lead: deep[12].lead,
+      bodyParagraphs: deep[12].bodyParagraphs,
+      visual: getArticleVisual(12)
     },
     {
       id: 'art-14',
@@ -342,18 +287,17 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.48 ~ 50',
       startPage: 48,
       endPage: 50,
-      kicker: 'BOOKS & READERS · 도서출판 아우내 서평 & 독자 라운지',
-      title: '[아우내 북리뷰] 『공론장의 재구성: 알고리즘 시대의 민주주의와 저널리즘』 외 금주의 추천 도서',
-      subtitle: '도서출판 아우내가 엄선한 시사·인문 필독서 서평 & 스픽스(@SPEAKS_TV) 주간 베스트 댓글',
-      author: '도서출판 아우내 학술·교양 편집부',
+      kicker: deep[13].kicker,
+      title: deep[13].title,
+      subtitle: deep[13].subtitle,
+      author: deep[13].author,
       sourceType: '도서출판 아우내 서평 + 유튜브 독자 댓글',
       sourceUrl: 'https://www.speaks.kr/',
-      lead: '깊이 있는 독서는 소란스러운 세상을 버텨내는 가장 단단한 지적 근육을 길러준다. 도서출판 아우내(충남 천안시 동남구 양지말1길 40)가 금주의 시사·인문 필독서 3권과 함께 스픽스 구독자들이 남긴 촌철살인의 베스트 댓글을 소개한다.',
-      bodyParagraphs: [
-        '■ 금주의 대표 서평 — 『공론장의 재구성: 알고리즘 시대의 민주주의와 저널리즘』(도서출판 아우내 펴냄, 2026): 확증편향과 짧은 영상이 지배하는 디지털 환경 속에서 어떻게 숙의 민주주의의 공간을 복원할 것인가를 탐구한 역작이다. 저자는 뉴미디어의 생동감과 인쇄 매체의 성찰적 문어체가 결합할 때 시민 공론장이 한 단계 도약할 수 있다고 역설한다.',
-        '■ 함께 읽을 만한 신간 — 『불평등의 지정학: 공급망 전쟁과 한국 경제의 미래』, 『아우내에서 길을 묻다: 한국 근현대 민중 자치의 계보』. 두 권 모두 오늘날 우리가 마주한 경제·역사적 과제를 긴 호흡으로 성찰하게 해주는 수작이다.',
-        '■ 스픽스(@SPEAKS_TV) 금주의 베스트 댓글 라운지: “출퇴근길에 유튜브로 듣던 명대담을 주말에 50페이지 매거진과 QR 코드로 다시 밑줄 그으며 읽으니 이해의 깊이가 완전히 다릅니다(@시민독자_천안)”, “팩트와 통계, 찬반 비교표가 함께 수록되어 대학 토론 수업 교재로도 손색이 없습니다(@청년연구자_서울)”.'
-      ]
+      lead: deep[13].lead,
+      books: deep[13].books,
+      readerFeedback: deep[13].readerFeedback,
+      bodyParagraphs: deep[13].bodyParagraphs,
+      visual: getArticleVisual(13)
     }
   ];
 
@@ -1049,6 +993,11 @@ function buildFiftyPages(blueprint, collected, articles, customSourceNote) {
       qrLabel: item.qrLabel
     });
   }
+
+  // 50페이지 전 지면에 1:1 완벽 매칭 비주얼(사진, 캡션, 출처, 테마) 속성 일괄 부여
+  pages.forEach((pg) => {
+    pg.visual = getEditorialVisual(pg.pageNumber);
+  });
 
   return pages;
 }

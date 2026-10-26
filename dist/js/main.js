@@ -4,7 +4,7 @@
  * Main Controller (public/js/main.js)
  */
 
-import { generateQrSvg, getEditorialPhoto } from './qr-generator.js';
+import { generateQrSvg, getEditorialPhoto, getEditorialVisual, getArticleVisual } from './qr-generator.js';
 
 let currentIssue = null;
 let currentFontSize = 17;
@@ -33,14 +33,17 @@ function renderMainMagazine() {
   const coverStoryIdx = articles.findIndex((a) => a.sectionId === 'part-2');
   const heroIdx = coverStoryIdx >= 0 ? coverStoryIdx : 0;
   const heroArticle = articles[heroIdx];
-  const heroPhoto = getEditorialPhoto(heroArticle.sectionId, 0);
+  const heroVisual = getArticleVisual(heroIdx);
 
   const heroContainer = document.getElementById('hero-main-container');
   if (heroContainer && heroArticle) {
     heroContainer.innerHTML = `
       <div class="hero-visual" data-open-idx="${heroIdx}">
-        <img src="${heroPhoto}" alt="${heroArticle.title}" loading="eager" />
+        <img src="${heroVisual.url}" alt="${heroVisual.topic}" loading="eager" />
         <span class="hero-visual-badge">커버스토리</span>
+        <div style="font-size:11.5px;color:#6b7280;margin-top:6px;line-height:1.4;">
+          <strong>[포커스]</strong> ${heroVisual.caption}
+        </div>
       </div>
       <div class="hero-content">
         <div class="hero-kicker">COVER STORY · ${heroArticle.sectionTitle}</div>
@@ -65,13 +68,13 @@ function renderMainMagazine() {
   if (quadContainer) {
     const quadArticles = articles.filter((a, idx) => idx !== heroIdx).slice(0, 4);
     quadContainer.innerHTML = quadArticles
-      .map((art, i) => {
+      .map((art) => {
         const globalIdx = articles.indexOf(art);
-        const photo = getEditorialPhoto(art.sectionId, i + 1);
+        const visual = getArticleVisual(globalIdx);
         return `
           <article class="quad-card" data-open-idx="${globalIdx}">
             <div class="quad-thumb">
-              <img src="${photo}" alt="${art.title}" loading="lazy" />
+              <img src="${visual.url}" alt="${visual.topic}" loading="lazy" />
             </div>
             <div class="quad-tag">${art.sectionTitle}</div>
             <h3 class="quad-title">${art.title}</h3>
@@ -90,13 +93,13 @@ function renderMainMagazine() {
       .slice(0, 3);
 
     horizContainer.innerHTML = horizArticles
-      .map((art, i) => {
+      .map((art) => {
         const globalIdx = articles.indexOf(art);
-        const photo = getEditorialPhoto(art.sectionId, i + 2);
+        const visual = getArticleVisual(globalIdx);
         return `
           <article class="news-row-card" data-open-idx="${globalIdx}">
             <div class="news-row-thumb">
-              <img src="${photo}" alt="${art.title}" loading="lazy" />
+              <img src="${visual.url}" alt="${visual.topic}" loading="lazy" />
             </div>
             <div>
               <div class="news-row-tag">${art.sectionTitle}</div>
@@ -219,16 +222,26 @@ function openArticleModal(articleIndex) {
   // 유튜브 영상 연계 정보 및 QR
   const clip = youtubeTopClips?.[articleIndex % (youtubeTopClips.length || 1)];
   const qrSvg = clip ? generateQrSvg(clip.videoUrl || 'https://www.youtube.com/@SPEAKS_TV', 120) : '';
+  const visual = article.visual || getArticleVisual(articleIndex);
 
   if (contentEl) {
     contentEl.style.fontSize = `${currentFontSize}px`;
     contentEl.innerHTML = `
-      <div class="reader-kicker">${article.sectionTitle}</div>
+      <div class="reader-kicker">${article.kicker || article.sectionTitle}</div>
       <h1 class="reader-title">${article.title}</h1>
       ${article.subtitle ? `<div class="reader-subtitle">${article.subtitle}</div>` : ''}
       <div class="reader-author-bar">
         <span><strong>${article.author || '스픽스 특별취재팀'}</strong> · ${meta.publishDate || '2026. 10. 26'}</span>
         <span>지면: <strong>${article.pageRange || 'p.01 ~ p.50'}</strong></span>
+      </div>
+
+      <!-- 기사 내용과 1:1 매칭되는 대표 비주얼 및 보도 캡션 -->
+      <div class="reader-lead-visual" style="margin:20px 0 24px;border-radius:8px;overflow:hidden;background:#000;box-shadow:0 4px 14px rgba(0,0,0,0.08);">
+        <img src="${visual.url}" alt="${visual.topic}" style="width:100%;max-height:420px;object-fit:cover;display:block;" />
+        <div style="padding:10px 14px;background:#f8f9fa;border-top:1px solid #e9ecef;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;font-size:12.5px;color:#495057;">
+          <span><strong style="color:#C8102E;">[현장 포커스]</strong> ${visual.caption}</span>
+          <span style="font-size:11px;color:#868e96;margin-left:8px;">출처: ${visual.credit}</span>
+        </div>
       </div>
 
       ${
@@ -245,25 +258,91 @@ function openArticleModal(articleIndex) {
       }
 
       <div class="reader-body-text">
-        ${article.lead ? `<p class="reader-text-paragraph" style="font-weight:600;color:var(--ink-title);">${article.lead}</p>` : ''}
+        ${article.lead ? `<p class="reader-text-paragraph" style="font-weight:700;color:var(--ink-title);font-size:1.06em;line-height:1.8;background:#fdfcfb;padding:14px 18px;border-left:4px solid #C8102E;border-radius:0 4px 4px 0;">${article.lead}</p>` : ''}
         ${
           article.bodyParagraphs && article.bodyParagraphs.length > 0
             ? article.bodyParagraphs
-                .map((p) => `<p class="reader-text-paragraph">${p}</p>`)
+                .map((p) => `<p class="reader-text-paragraph" style="line-height:1.85;margin-bottom:18px;">${p}</p>`)
                 .join('')
             : '<p class="reader-text-paragraph">본문 내용이 준비 중입니다.</p>'
         }
       </div>
 
       ${
+        article.qaList && article.qaList.length > 0
+          ? `
+        <div class="reader-qa-section" style="margin-top:28px;border-top:2px solid #E5E7EB;padding-top:24px;">
+          <h3 style="font-size:16px;font-weight:800;color:#0F1E36;margin-bottom:16px;">
+            [지상 중계] 정통 시사주간지 문어체 일문일답 (Q&amp;A) 전문
+          </h3>
+          ${article.qaList
+            .map(
+              (item) => `
+            <div style="margin-bottom:20px;background:#f8fafc;border-left:4px solid #0F1E36;padding:14px 18px;border-radius:0 6px 6px 0;">
+              <div style="font-weight:800;color:#0F1E36;margin-bottom:8px;font-size:1.03em;line-height:1.45;">■ ${item.q}</div>
+              <div style="color:#334155;line-height:1.75;font-size:0.98em;">${item.a}</div>
+            </div>
+          `
+            )
+            .join('')}
+        </div>
+      `
+          : ''
+      }
+
+      ${
+        article.books && article.books.length > 0
+          ? `
+        <div class="reader-books-section" style="margin-top:32px;border-top:2px solid #E5E7EB;padding-top:24px;">
+          <h3 style="font-size:16px;font-weight:800;color:#0F1E36;margin-bottom:14px;border-bottom:2px solid #C8102E;padding-bottom:6px;">
+            도서출판 아우내 신간 인문·시사 총서 3종
+          </h3>
+          <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(240px, 1fr));gap:14px;">
+            ${article.books
+              .map(
+                (b) => `
+              <div style="border:1px solid #e5e7eb;padding:14px;border-radius:6px;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,0.05);">
+                <div style="font-weight:800;color:#C8102E;font-size:14px;margin-bottom:4px;">${b.title}</div>
+                <div style="font-size:11.5px;color:#6b7280;margin-bottom:8px;">${b.author}</div>
+                <p style="font-size:12.5px;color:#374151;line-height:1.55;margin:0;">${b.desc}</p>
+              </div>
+            `
+              )
+              .join('')}
+          </div>
+        </div>
+      `
+          : ''
+      }
+
+      ${
+        article.readerFeedback && article.readerFeedback.length > 0
+          ? `
+        <div class="reader-feedback-section" style="margin-top:28px;background:#f8fafc;padding:16px 20px;border-radius:6px;border:1px solid #e2e8f0;">
+          <h4 style="font-size:14px;font-weight:800;color:#0F1E36;margin-bottom:10px;">153만 시청자 독자 리뷰 라운지</h4>
+          ${article.readerFeedback
+            .map(
+              (fb) => `
+            <div style="font-size:12.5px;color:#334155;margin-bottom:8px;line-height:1.5;">
+              <strong>${fb.name}</strong>: “${fb.comment}”
+            </div>
+          `
+            )
+            .join('')}
+        </div>
+      `
+          : ''
+      }
+
+      ${
         clip
           ? `
-        <div style="display:flex;align-items:center;gap:20px;padding:20px;background:var(--bg-subtle);border-radius:6px;margin-top:32px;">
+        <div style="display:flex;align-items:center;gap:20px;padding:20px;background:var(--bg-subtle);border-radius:6px;margin-top:32px;border:1px solid #e2e8f0;">
           <div>${qrSvg}</div>
           <div style="font-size:13px;line-height:1.6;color:var(--ink-body);">
             <strong style="color:var(--point-red);display:block;margin-bottom:4px;">스마트폰으로 스캔 시 해당 방송 구간으로 바로 이동합니다</strong>
             스픽스 유튜브 방송 타임스탬프: <strong>${clip.timestamp}</strong> (${clip.heatmapPeak})<br/>
-            <a href="${clip.videoUrl}" target="_blank" rel="noopener" style="color:var(--point-blue);text-decoration:underline;">영상 바로 보기 &gt;</a>
+            <a href="${clip.videoUrl}" target="_blank" rel="noopener" style="color:var(--point-blue);text-decoration:underline;font-weight:700;">영상 바로 보기 &gt;</a>
           </div>
         </div>
       `
