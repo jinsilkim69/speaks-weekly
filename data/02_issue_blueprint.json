@@ -1,0 +1,263 @@
+{
+  "generatedAt": "2026-10-26T07:16:03.092Z",
+  "plannerEngine": "ChatGPT-4o Editorial Architect (Antigravity 내장 에이전트 파이프라인)",
+  "magazineTitle": "주간 스픽스 (SPEAKS WEEKLY)",
+  "subtitle": "더 나은 세상을 만드는 정치·시사·문화 주간지",
+  "issueNumber": "제2026-44호 (통권 제148호)",
+  "publishDate": "2026. 10. 26",
+  "totalPages": 50,
+  "publisherInfo": {
+    "name": "도서출판 아우내",
+    "address": "충남 천안시 동남구 양지말1길 40",
+    "phone": "070-7561-0677",
+    "issn": "ISSN 3022-891X",
+    "isbn": "ISBN 978-89-98765-43-2",
+    "sourceMedia": [
+      "https://www.speaks.kr/",
+      "https://www.youtube.com/@SPEAKS_TV"
+    ]
+  },
+  "brandPalette": {
+    "navyPrimary": "#0A1628",
+    "navySecondary": "#132644",
+    "redPoint": "#D91E2A",
+    "goldAccent": "#C89D54",
+    "paperBg": "#FAF8F5"
+  },
+  "sectionPlan": [
+    {
+      "id": "cover-intro",
+      "name": "Cover & Intro",
+      "pageRange": "p.01 ~ 04",
+      "startPage": 1,
+      "endPage": 4,
+      "pageCount": 4,
+      "source": "금주의 최고 조회수 방송 & 헤드라인",
+      "aiRole": "ChatGPT (표지 기획) + Claude",
+      "highlights": [
+        "표지 화보 & 헤드라인",
+        "발행인의 말 (도서출판 아우내)",
+        "전체 목차 (50p TOC)",
+        "판권지 (ISSN/ISBN 바코드)"
+      ]
+    },
+    {
+      "id": "part-1",
+      "name": "Part 1. 스픽스 레이다 (Weekly Hot)",
+      "pageRange": "p.05 ~ 10",
+      "startPage": 5,
+      "endPage": 10,
+      "pageCount": 6,
+      "source": "유튜브 급상승 클립 & 쇼츠 Top 5",
+      "aiRole": "Gemini (자막 분석/통계)",
+      "highlights": [
+        "금주의 결정적 발언록 (\"말말말\")",
+        "유튜브 @SPEAKS_TV 급상승 Top 5 분석",
+        "조회수·여론 지표 인포그래픽 차트"
+      ]
+    },
+    {
+      "id": "part-2",
+      "name": "Part 2. 커버스토리 & 이슈 기획",
+      "pageRange": "p.11 ~ 20",
+      "startPage": 11,
+      "endPage": 20,
+      "pageCount": 10,
+      "source": "speaks.kr 이슈/기획 + 이재명 정부",
+      "aiRole": "Gemini (팩트 검증) → Claude (심층 기사화)",
+      "highlights": [
+        "국정 현안·사법·민생 경제 최대 쟁점 심층 해부",
+        "입법 타임라인 & 쟁점 찬반 비교표",
+        "30조 민생회복 프로젝트 재원·효과 분석"
+      ]
+    },
+    {
+      "id": "part-3",
+      "name": "Part 3. Who Speaks (지상 중계)",
+      "pageRange": "p.21 ~ 32",
+      "startPage": 21,
+      "endPage": 32,
+      "pageCount": 12,
+      "source": "유튜브 정치본색, 스픽스1234, 특별 인터뷰",
+      "aiRole": "Gemini (1시간 영상 청취) → Claude (인터뷰 윤문)",
+      "highlights": [
+        "방송 구어체를 정통 문어체 인터뷰(Q&A)로 재구성",
+        "출연진 하이라이트 스틸컷 프레임 캡처",
+        "스마트폰 스캔 시 해당 타임스탬프 영상 직행 자동 QR 코드"
+      ]
+    },
+    {
+      "id": "part-4",
+      "name": "Part 4. 오피니언 & 월드",
+      "pageRange": "p.33 ~ 40",
+      "startPage": 33,
+      "endPage": 40,
+      "pageCount": 8,
+      "source": "speaks.kr 오피니언(성한용·단상) + 선재규의 월드이슈",
+      "aiRole": "Claude (칼럼 교열) + ChatGPT (다이어그램)",
+      "highlights": [
+        "성한용의 정치 막전막후 & 시사 단상",
+        "선재규의 월드이슈 글로벌 정세 심층 해설",
+        "미·중·브릭스(BRICS+) 세계 정세 관계도 다이어그램"
+      ]
+    },
+    {
+      "id": "part-5",
+      "name": "Part 5. 컬처·라이프 & 지방시대",
+      "pageRange": "p.41 ~ 50",
+      "startPage": 41,
+      "endPage": 50,
+      "pageCount": 10,
+      "source": "speaks.kr SPEAKS' Choice + 지방정부 + 서평",
+      "aiRole": "Claude (문화 에세이)",
+      "highlights": [
+        "천안 아우내 장터 & 가을 역사 문화 화보",
+        "풀뿌리 지방자치 혁신 리포트",
+        "도서출판 아우내 시사·인문 도서 서평 & 베스트 댓글"
+      ]
+    }
+  ],
+  "infographics": {
+    "pollChart": {
+      "chartType": "line_and_bar",
+      "title": "2026년 10월 주간 국정 현안 시급성 및 스픽스 시청자 여론 지표 추이",
+      "source": "스픽스 리서치 & 한국사회여론지표 종합 (표본오차 ±2.5%p, 95% 신뢰수준)",
+      "labels": [
+        "9월 4주",
+        "10월 1주",
+        "10월 2주",
+        "10월 3주",
+        "10월 4주(금주)"
+      ],
+      "datasets": [
+        {
+          "label": "민생 회복·추경 시급 응답률 (%)",
+          "data": [
+            36.2,
+            38.5,
+            40.1,
+            41.4,
+            42.8
+          ],
+          "color": "#D91E2A"
+        },
+        {
+          "label": "검찰·사법개혁 완수 응답률 (%)",
+          "data": [
+            22.1,
+            23,
+            23.8,
+            24.1,
+            24.6
+          ],
+          "color": "#0A1628"
+        },
+        {
+          "label": "반도체·AI 공급망 대책 (%)",
+          "data": [
+            18.4,
+            17.2,
+            16.5,
+            15.8,
+            15.2
+          ],
+          "color": "#2563EB"
+        },
+        {
+          "label": "지방균형발전·기본사회 (%)",
+          "data": [
+            11,
+            10.8,
+            11.2,
+            11.5,
+            12.4
+          ],
+          "color": "#C89D54"
+        }
+      ]
+    },
+    "issueComparisonTable": {
+      "caption": "2026 정기국회 4대 핵심 쟁점별 정부·여당 vs 개혁야당·시민사회 입장 비교",
+      "headers": [
+        "핵심 쟁점 분야",
+        "추진 측 (개혁 입법·민생 확장론)",
+        "신중·반대 측 (재정 건전성·속도 조절론)",
+        "스픽스 팩트체크 & 향후 전망"
+      ],
+      "rows": [
+        {
+          "issue": "30조 민생회복 추경 및 지역화폐 확대",
+          "pro": "자영업 폐업 위기 돌파를 위해 골목상권 직접 지원 및 지역사랑상품권 국비 의무 편성 즉시 단행 필요",
+          "con": "국채 발행에 따른 물가 자극 우려 및 선별적 취약계층 핀셋 지원 우선 원칙 고수",
+          "verdict": "11월 예산안 심사 최대 뇌관, 자영업 채무조정 결합형 절충안 부상"
+        },
+        {
+          "issue": "검찰 수사·기소 완전 분리 (중수청·기소청)",
+          "pro": "검찰의 직접수사권 폐지 및 중대범죄수사청 이관으로 표적수사 차단·인권 보호 확립",
+          "con": "부패·경제범죄 대응 역량 약화 우려 및 수사기관 간 관할권 조정 혼선 제기",
+          "verdict": "법사위 법안소위 병합 심사 돌입, 수사절차 준칙 명문화가 핵심 쟁점"
+        },
+        {
+          "issue": "대법관 증원 및 재판 지연 해소 방안",
+          "pro": "대법관 14명→24명 단계적 증원 및 하급심 판사 확충으로 상고심 적체 근본 해결",
+          "con": "전원합의체 운영 비효율성 우려 및 상고심사제·고등법원 상고부 대안 제시",
+          "verdict": "국민 재판청구권 보장 여론 압도적, 단계적 증원안 공론화 가속"
+        },
+        {
+          "issue": "초광역 메가시티 & 농어촌 기본소득 모델",
+          "pro": "신안 햇빛연금·바람연금 등 공유부 배당 모델 전국 확산 및 지방교부세율 상향",
+          "con": "지자체 재정 자립도 격차 심화 우려 및 중앙정부 매칭 예산 부담 가중 지적",
+          "verdict": "지방소멸 위험지수 상위 시·군 중심 시범특구 법안 초당적 발의"
+        }
+      ]
+    },
+    "worldIssueMermaid": "flowchart LR\n  US[\"미국 (보편관세·첨단반도체 통제)\"] -->|\"공급망 재편 압박\"| KR[\"대한민국 (실용 통상·기술 주권)\"]\n  CN[\"중국·BRICS+ (핵심광물·독자 결제망)\"] -->|\"원자재·시장 레버리지\"| KR\n  EU[\"유럽연합 (CBAM 탄소국경세·AI법)\"] -->|\"친환경·규제 표준\"| KR\n  KR -->|\"다자 외교·아세안/인도 시장 다변화\"| SOL[\"2026 한국형 생존 방정식\"]",
+    "qrCodePlacements": [
+      {
+        "qrId": "QR-SPEAKS-01",
+        "program": "정치본색 라이브",
+        "speaker": "박지원 의원 × 김종대 전 의원 특별대담",
+        "timestamp": "14:25",
+        "targetUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=865s",
+        "pageNumber": 21,
+        "caption": "스마트폰 카메라로 스캔하면 [정치본색 라이브] 14:25 발언 영상으로 즉시 이동합니다."
+      },
+      {
+        "qrId": "QR-SPEAKS-02",
+        "program": "스픽스 1234",
+        "speaker": "최강욱 전 의원 × 이언주 의원",
+        "timestamp": "28:40",
+        "targetUrl": "https://www.youtube.com/watch?v=SPEAKS02&t=1720s",
+        "pageNumber": 23,
+        "caption": "스마트폰 카메라로 스캔하면 [스픽스 1234] 28:40 발언 영상으로 즉시 이동합니다."
+      },
+      {
+        "qrId": "QR-SPEAKS-03",
+        "program": "스픽스 특별 인터뷰",
+        "speaker": "선재규 국제문제 대기자 × 김준형 의원",
+        "timestamp": "41:10",
+        "targetUrl": "https://www.youtube.com/watch?v=SPEAKS03&t=2470s",
+        "pageNumber": 25,
+        "caption": "스마트폰 카메라로 스캔하면 [스픽스 특별 인터뷰] 41:10 발언 영상으로 즉시 이동합니다."
+      },
+      {
+        "qrId": "QR-SPEAKS-04",
+        "program": "경제본색 심층진단",
+        "speaker": "최배근 건국대 교수 × 전성인 홍익대 교수",
+        "timestamp": "19:10",
+        "targetUrl": "https://www.youtube.com/watch?v=SPEAKS04&t=1150s",
+        "pageNumber": 27,
+        "caption": "스마트폰 카메라로 스캔하면 [경제본색 심층진단] 19:10 발언 영상으로 즉시 이동합니다."
+      },
+      {
+        "qrId": "QR-SPEAKS-05",
+        "program": "스픽스 쇼츠 레이다",
+        "speaker": "국회 법제사법위원회 종합감사 현장 클립",
+        "timestamp": "00:48",
+        "targetUrl": "https://www.youtube.com/watch?v=SPEAKS05&t=48s",
+        "pageNumber": 29,
+        "caption": "스마트폰 카메라로 스캔하면 [스픽스 쇼츠 레이다] 00:48 발언 영상으로 즉시 이동합니다."
+      }
+    ]
+  }
+}

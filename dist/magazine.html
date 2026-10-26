@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <!-- 휴대폰 확대(Pinch-to-zoom) 완벽 허용: user-scalable=yes, max-scale=5.0 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes" />
+  <meta name="color-scheme" content="light" />
+  <title>『주간 스픽스 (SPEAKS WEEKLY)』 50p 전자책 (모바일 책장 넘김 &amp; 스마트 줌)</title>
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="/css/magazine.css" />
+</head>
+<body class="viewer-body">
+  <!-- 상단 스마트 툴바 (리디북스/밀리의서재 스타일 E-Book 툴바) -->
+  <header class="ebook-header" id="ebook-header">
+    <div class="ebook-header-left">
+      <a href="/" class="btn-icon-back" title="매거진 메인 홈" aria-label="매거진 메인 홈">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+      </a>
+      <div class="ebook-title-box">
+        <div class="ebook-brand-title">주간 <span>스픽스</span> E-Book</div>
+        <div class="ebook-issue-meta" id="header-issue-meta">제2026-44호 (통권 148호) · 50p 완본</div>
+      </div>
+    </div>
+
+    <!-- 중앙/우측 독서 도구: 글자 크기(가-/가+), 줌(🔍-/🔍+), 양면(2p)/단면 토글, 목차, PDF -->
+    <div class="ebook-header-right">
+      <!-- 1. 글자 크기 조절 (다른 메이저 전자책 서비스 공통 기능) -->
+      <div class="tool-group font-tool-group">
+        <button type="button" class="btn-tool-mini" id="font-dec-btn" title="글자 축소" aria-label="글자 축소">가-</button>
+        <span class="tool-indicator" id="font-scale-indicator">100%</span>
+        <button type="button" class="btn-tool-mini" id="font-inc-btn" title="글자 확대" aria-label="글자 확대">가+</button>
+      </div>
+
+      <!-- 2. 지면 확대/축소 줌 도구 -->
+      <div class="tool-group zoom-tool-group">
+        <button type="button" class="btn-tool-mini" id="zoom-dec-btn" title="화면 축소" aria-label="화면 축소">🔍-</button>
+        <button type="button" class="btn-tool-mini" id="zoom-reset-btn" title="100% 원래대로" style="min-width:44px;">100%</button>
+        <button type="button" class="btn-tool-mini" id="zoom-inc-btn" title="화면 확대" aria-label="화면 확대">🔍+</button>
+      </div>
+
+      <!-- 3. 가로 모드 양면(2p)/단면 보기 토글 버튼 -->
+      <button type="button" class="btn-tool spread-toggle-btn" id="spread-mode-btn" title="양면(2p)/단면 보기 전환">
+        <span id="spread-btn-text">양면 보기</span>
+      </button>
+
+      <!-- 4. 목차 열기 버튼 -->
+      <button type="button" class="btn-tool" id="open-toc-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+        <span>목차</span>
+      </button>
+
+      <!-- 5. A4 인쇄 / PDF 다운로드 -->
+      <button type="button" class="btn-tool btn-tool-red" id="print-pdf-btn">
+        <span>A4 PDF</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- 메인 뷰포트 & 줌/팬 래퍼 (더블탭 확대 및 핀치 줌 지원) -->
+  <main class="ebook-viewport" id="viewport-stage">
+    <!-- 터치 안내 힌트 -->
+    <div class="swipe-hint-pill" id="swipe-hint">
+      👈 넘기면 책장 넘김 | 더블탭(톡톡) 시 확대 🔍 👉
+    </div>
+
+    <!-- 좌우 터치 핫존 (화면 양 끝 탭 시 페이지 넘김) -->
+    <div class="touch-hotzone touch-hotzone-prev" id="hotzone-prev" title="이전 페이지"></div>
+    <div class="touch-hotzone touch-hotzone-next" id="hotzone-next" title="다음 페이지"></div>
+
+    <!-- PC/태블릿용 좌우 화살표 버튼 -->
+    <button type="button" class="nav-arrow-btn nav-arrow-prev" id="arrow-prev-btn" aria-label="이전 페이지">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>
+    </button>
+    <button type="button" class="nav-arrow-btn nav-arrow-next" id="arrow-next-btn" aria-label="다음 페이지">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="9 18 15 12 9 6"/></svg>
+    </button>
+
+    <!-- 확대/축소 스케일러 레이어 (줌 시 scale 변환 적용) -->
+    <div class="zoom-scaler-layer" id="zoom-scaler">
+      <!-- 50개 페이지가 조판되는 플립북 컨테이너 -->
+      <div class="flipbook-container" id="flipbook-pages">
+        <!-- magazine.js에서 동적 생성 -->
+      </div>
+    </div>
+  </main>
+
+  <!-- 하단 모바일 컨트롤 바 -->
+  <footer class="ebook-bottom-bar" id="ebook-bottom-bar">
+    <button type="button" class="bottom-btn-nav" id="bottom-prev-btn">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="15 18 9 12 15 6"/></svg>
+      <span>이전</span>
+    </button>
+
+    <div class="bottom-center-scrubber">
+      <input type="range" min="1" max="50" value="1" class="page-slider" id="page-slider" aria-label="페이지 슬라이더" />
+      <div class="page-indicator-badge">
+        <span id="current-p-display">01</span> <span class="total-p">/ 50</span>
+      </div>
+    </div>
+
+    <button type="button" class="bottom-btn-nav" id="bottom-next-btn">
+      <span>다음</span>
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><polyline points="9 18 15 12 9 6"/></svg>
+    </button>
+  </footer>
+
+  <!-- 목차 팝업 드로어 (TOC Modal) -->
+  <div class="toc-drawer-backdrop" id="toc-modal" aria-hidden="true">
+    <div class="toc-drawer-box" role="dialog" aria-modal="true">
+      <div class="toc-drawer-header">
+        <span class="toc-drawer-title">전체 목차 바로가기 (14개 꼭지 / 50p)</span>
+        <button type="button" class="btn-tool" id="close-toc-btn">닫기 ✕</button>
+      </div>
+      <div class="toc-drawer-list" id="toc-list-container">
+        <!-- 동적 렌더링 -->
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="/js/magazine.js"></script>
+</body>
+</html>

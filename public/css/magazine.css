@@ -1,0 +1,738 @@
+/* ==========================================================================
+   『주간 스픽스 (SPEAKS WEEKLY)』
+   모바일 퍼스트 1페이지 책장 넘김 & 스마트 줌 & 가로/세로 최적화 E-Book 뷰어
+   (리디북스 · 밀리의서재 · 타임지 스타일 독서 경험)
+   ========================================================================== */
+
+:root {
+  color-scheme: light;
+  --bg-stage: #16181B;
+  --bg-page: #FAF8F5;
+  --ink-primary: #111111;
+  --ink-sub: #4A4A4A;
+  --ink-muted: #7A7A7A;
+  --point-red: #C8102E;
+  --point-navy: #0F1E36;
+  --line-page: #E5E0D8;
+
+  --font-serif: 'Noto Serif KR', Georgia, serif;
+  --font-sans: 'Pretendard', 'Noto Sans KR', -apple-system, sans-serif;
+
+  /* 동적 독서 컨트롤 변수 */
+  --font-scale-factor: 1; /* 글자 크기 스케일 (0.85 ~ 1.55) */
+  --zoom-level: 1;        /* 화면 확대 배율 (1 ~ 2.5) */
+  --pan-x: 0px;
+  --pan-y: 0px;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-family: var(--font-sans);
+  background-color: var(--bg-stage);
+  color: #FFFFFF;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: pan-x pan-y pinch-zoom;
+}
+
+/* ==========================================================================
+   1. 상단 스마트 툴바 (Desktop & Mobile)
+   ========================================================================== */
+.ebook-header {
+  height: 50px;
+  background-color: #0E1012;
+  border-bottom: 1px solid #25282E;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 12px;
+  position: relative;
+  z-index: 50;
+  transition: all 0.2s ease;
+}
+
+.ebook-header-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn-icon-back {
+  background: none;
+  border: none;
+  color: #E5E7EB;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.btn-icon-back:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.ebook-title-box {
+  display: flex;
+  flex-direction: column;
+}
+.ebook-brand-title {
+  font-size: 13.5px;
+  font-weight: 800;
+  color: #FFFFFF;
+  letter-spacing: -0.02em;
+}
+.ebook-brand-title span {
+  color: #EF4444;
+}
+.ebook-issue-meta {
+  font-size: 10px;
+  color: #9CA3AF;
+  letter-spacing: 0.02em;
+  display: none;
+}
+@media (min-width: 480px) {
+  .ebook-issue-meta {
+    display: block;
+  }
+}
+
+.ebook-header-right {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* 도구 그룹 (글자 크기 & 줌) */
+.tool-group {
+  display: inline-flex;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 4px;
+  padding: 2px 4px;
+}
+
+.btn-tool-mini {
+  background: none;
+  border: none;
+  color: #E5E7EB;
+  font-size: 11.5px;
+  font-weight: 700;
+  padding: 4px 6px;
+  cursor: pointer;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-tool-mini:hover {
+  background: rgba(255, 255, 255, 0.18);
+  color: #FFFFFF;
+}
+
+.tool-indicator {
+  font-size: 10.5px;
+  font-weight: 700;
+  color: #9CA3AF;
+  padding: 0 4px;
+  min-width: 38px;
+  text-align: center;
+}
+
+/* 일반 버튼 */
+.btn-tool {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #E5E7EB;
+  font-size: 11.5px;
+  font-weight: 600;
+  padding: 5px 8px;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+.btn-tool:hover {
+  background: rgba(255, 255, 255, 0.18);
+  color: #FFFFFF;
+}
+
+.btn-tool-red {
+  background: #C8102E;
+  border-color: #C8102E;
+  color: #FFFFFF;
+}
+.btn-tool-red:hover {
+  background: #E01E3C;
+}
+
+/* ==========================================================================
+   2. 메인 뷰포트 & 확대/축소 줌 스케일러
+   ========================================================================== */
+.ebook-viewport {
+  width: 100%;
+  height: calc(100dvh - 104px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  padding: 6px;
+  perspective: 1600px;
+}
+
+/* 확대 레이어 */
+.zoom-scaler-layer {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform-origin: center center;
+  transform: scale(var(--zoom-level, 1)) translate(var(--pan-x, 0px), var(--pan-y, 0px));
+  transition: transform 0.25s cubic-bezier(0.2, 0.8, 0.25, 1);
+}
+
+.flipbook-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+/* 스와이프 안내 힌트 알약 */
+.swipe-hint-pill {
+  position: absolute;
+  top: 10px;
+  background: rgba(0, 0, 0, 0.82);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #FFFFFF;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 20px;
+  z-index: 40;
+  pointer-events: none;
+  transition: opacity 0.5s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+.swipe-hint-pill.hidden {
+  opacity: 0;
+}
+
+/* 터치 핫존 (화면 좌/우 탭 시 페이지 넘김) */
+.touch-hotzone {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 16%;
+  z-index: 35;
+  cursor: pointer;
+}
+.touch-hotzone-prev { left: 0; }
+.touch-hotzone-next { right: 0; }
+
+/* PC 좌우 화살표 버튼 */
+.nav-arrow-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(17, 19, 21, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 36;
+  transition: all 0.2s ease;
+  backdrop-filter: blur(4px);
+}
+.nav-arrow-btn:hover {
+  background: #C8102E;
+  border-color: #C8102E;
+  transform: translateY(-50%) scale(1.08);
+}
+.nav-arrow-prev { left: 16px; }
+.nav-arrow-next { right: 16px; }
+
+@media (max-width: 680px) {
+  .nav-arrow-btn {
+    display: none; /* 모바일은 스와이프 및 핫존 터치 우선 */
+  }
+}
+
+/* ==========================================================================
+   3. A4 페이지 카드 조판 (세로 & 가로 완벽 반응형)
+   ========================================================================== */
+.mag-page {
+  /* 기본 세로 A4 비율 (1 : 1.414) */
+  aspect-ratio: 1 / 1.414;
+  height: 100%;
+  max-height: 100%;
+  max-width: calc((100dvh - 110px) / 1.414);
+  background-color: var(--bg-page);
+  color: var(--ink-primary);
+  border-radius: 4px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 16px 18px 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow-y: auto;
+  overflow-x: hidden;
+  user-select: text;
+  -webkit-user-select: text;
+  opacity: 0;
+  pointer-events: none;
+  visibility: hidden;
+  transition: transform 0.38s cubic-bezier(0.2, 0.8, 0.25, 1), opacity 0.28s ease, visibility 0.38s;
+}
+
+@media (min-width: 600px) {
+  .mag-page {
+    padding: 22px 26px 16px;
+  }
+}
+
+/* 활성 페이지 (1페이지 정중앙) */
+.mag-page.active {
+  opacity: 1;
+  pointer-events: auto;
+  visibility: visible;
+  transform: translate(-50%, -50%) rotateY(0deg) scale(1);
+  z-index: 20;
+}
+
+/* 이전/다음 페이지 플립 트랜지션 */
+.mag-page.turned-prev {
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(-95%, -50%) rotateY(-60deg) scale(0.92);
+  z-index: 10;
+}
+.mag-page.waiting-next {
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(-5%, -50%) rotateY(60deg) scale(0.92);
+  z-index: 10;
+}
+
+/* 표지 스타일 */
+.mag-page.cover-page {
+  background: linear-gradient(175deg, #0B1320 0%, #152238 60%, #1D2D4A 100%);
+  color: #FFFFFF;
+}
+
+/* ==========================================================================
+   4. 글자 크기 조절 (Font Scaling Factor 반영)
+   ========================================================================== */
+.mag-running-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1.5px solid var(--ink-primary);
+  padding-bottom: 4px;
+  margin-bottom: 8px;
+  font-size: calc(10.5px * var(--font-scale-factor, 1));
+  font-weight: 700;
+  flex-shrink: 0;
+}
+.cover-page .mag-running-header {
+  border-bottom-color: rgba(255, 255, 255, 0.25);
+  color: #E5E7EB;
+}
+.running-section-tag {
+  color: var(--point-red);
+}
+
+.mag-page-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-height: 0;
+}
+
+.mag-title {
+  font-family: var(--font-serif);
+  font-size: calc(18px * var(--font-scale-factor, 1));
+  font-weight: 900;
+  line-height: 1.32;
+  color: var(--ink-primary);
+  margin: 0 0 5px;
+  letter-spacing: -0.03em;
+}
+.cover-page .mag-title {
+  color: #FFFFFF;
+  font-size: calc(22px * var(--font-scale-factor, 1));
+}
+
+.mag-subtitle {
+  font-size: calc(11.5px * var(--font-scale-factor, 1));
+  color: var(--ink-sub);
+  margin: 0 0 8px;
+  line-height: 1.45;
+}
+.cover-page .mag-subtitle {
+  color: #D1D5DB;
+}
+
+/* 본문 컬럼 */
+.mag-columns-2 {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+  font-size: calc(12px * var(--font-scale-factor, 1));
+  line-height: calc(1.65 * var(--font-scale-factor, 1));
+  color: #222222;
+  margin-top: 6px;
+}
+@media (min-width: 520px) {
+  .mag-columns-2 {
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+}
+
+.mag-columns-2 p {
+  margin: 0 0 6px;
+  text-align: justify;
+}
+
+.mag-running-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid var(--line-page);
+  padding-top: 4px;
+  margin-top: 8px;
+  font-size: calc(9.5px * var(--font-scale-factor, 1));
+  color: var(--ink-muted);
+  flex-shrink: 0;
+}
+.cover-page .mag-running-footer {
+  border-top-color: rgba(255, 255, 255, 0.2);
+  color: #9CA3AF;
+}
+
+.mag-page-number {
+  font-weight: 800;
+  color: var(--point-red);
+  font-size: calc(11.5px * var(--font-scale-factor, 1));
+}
+
+/* ==========================================================================
+   5. 🔄 휴대폰 가로 모드 (Landscape Mode) 완벽 대응
+   - 휴대폰을 가로로 돌렸을 때 찌그러짐을 방지하고 상하 여백 최적화
+   ========================================================================== */
+@media (orientation: landscape) and (max-height: 560px) {
+  .ebook-header {
+    height: 38px;
+    padding: 0 8px;
+  }
+  .ebook-brand-title {
+    font-size: 12px;
+  }
+  .btn-tool {
+    font-size: 10.5px;
+    padding: 3px 6px;
+  }
+
+  .ebook-bottom-bar {
+    height: 42px;
+    padding: 0 8px;
+  }
+  .bottom-btn-nav {
+    padding: 4px 10px;
+    font-size: 11px;
+  }
+
+  .ebook-viewport {
+    height: calc(100dvh - 80px);
+    padding: 4px;
+  }
+
+  /* 가로 화면에서는 페이지 높이를 100% 꽉 채우고 비율 유지 */
+  .mag-page {
+    height: 100%;
+    max-height: 100%;
+    max-width: calc((100dvh - 84px) / 1.414);
+    padding: 10px 14px 8px;
+  }
+
+  .mag-title {
+    font-size: calc(15px * var(--font-scale-factor, 1));
+  }
+  .cover-page .mag-title {
+    font-size: calc(17px * var(--font-scale-factor, 1));
+  }
+  .mag-columns-2 {
+    font-size: calc(11px * var(--font-scale-factor, 1));
+    line-height: 1.5;
+  }
+}
+
+/* ==========================================================================
+   6. 📖 양면 펼침 모드 (Two-Page Spread Mode: 태블릿/PC 및 와이드 가로 모드)
+   ========================================================================== */
+.viewer-body.spread-mode .mag-page {
+  /* 양면 보기 시 2장의 페이지가 좌우로 나란히 */
+  width: calc((100dvh - 120px) / 1.414);
+  max-width: 48vw;
+}
+
+.viewer-body.spread-mode .mag-page.spread-left {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+  transform: translate(-101%, -50%) rotateY(0deg);
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-right: 1px solid #CCC;
+  z-index: 20;
+}
+
+.viewer-body.spread-mode .mag-page.spread-right {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+  transform: translate(1%, -50%) rotateY(0deg);
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-left: 1px solid #CCC;
+  z-index: 20;
+}
+
+/* ==========================================================================
+   7. 하단 모바일 컨트롤 바
+   ========================================================================== */
+.ebook-bottom-bar {
+  height: 54px;
+  background-color: #0E1012;
+  border-top: 1px solid #25282E;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 12px;
+  position: relative;
+  z-index: 50;
+  gap: 10px;
+}
+
+.bottom-btn-nav {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: #FFFFFF;
+  font-size: 12.5px;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: all 0.15s ease;
+  flex-shrink: 0;
+}
+.bottom-btn-nav:hover:not(:disabled) {
+  background: #C8102E;
+  border-color: #C8102E;
+}
+.bottom-btn-nav:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+.bottom-center-scrubber {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1;
+  max-width: 360px;
+  justify-content: center;
+}
+
+.page-slider {
+  flex: 1;
+  height: 6px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: #2D3139;
+  border-radius: 3px;
+  outline: none;
+  cursor: pointer;
+}
+.page-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #C8102E;
+  cursor: pointer;
+  box-shadow: 0 0 6px rgba(200, 16, 46, 0.6);
+}
+
+.page-indicator-badge {
+  font-size: 13px;
+  font-weight: 800;
+  color: #FFFFFF;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+  min-width: 50px;
+  text-align: center;
+}
+.page-indicator-badge .total-p {
+  color: #9CA3AF;
+  font-weight: 500;
+  font-size: 11px;
+}
+
+/* ==========================================================================
+   8. 목차 팝업 드로어
+   ========================================================================== */
+.toc-drawer-backdrop {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(2px);
+  z-index: 200;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+}
+.toc-drawer-backdrop.open {
+  display: flex;
+}
+
+.toc-drawer-box {
+  background: #181C24;
+  border: 1px solid #2D333F;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 480px;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+}
+
+.toc-drawer-header {
+  padding: 12px 16px;
+  border-bottom: 1px solid #2D333F;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.toc-drawer-title {
+  font-size: 14px;
+  font-weight: 800;
+  color: #FFFFFF;
+}
+
+.toc-drawer-list {
+  padding: 8px 12px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.toc-item-btn {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 4px;
+  padding: 9px 12px;
+  text-align: left;
+  color: #D1D5DB;
+  font-size: 12.5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: all 0.15s ease;
+}
+.toc-item-btn:hover {
+  background: rgba(200, 16, 46, 0.2);
+  border-color: #C8102E;
+  color: #FFFFFF;
+}
+.toc-item-page {
+  font-size: 11px;
+  font-weight: 700;
+  color: #EF4444;
+}
+
+/* ==========================================================================
+   9. 인쇄 및 PDF 조판 (@media print)
+   ========================================================================== */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 0;
+  }
+  html, body {
+    overflow: visible !important;
+    background: #FFFFFF !important;
+    color: #111111 !important;
+    height: auto !important;
+  }
+  .ebook-header, .ebook-bottom-bar, .touch-hotzone, .nav-arrow-btn, .swipe-hint-pill, .toc-drawer-backdrop {
+    display: none !important;
+  }
+  .ebook-viewport, .zoom-scaler-layer, .flipbook-container {
+    height: auto !important;
+    padding: 0 !important;
+    perspective: none !important;
+    transform: none !important;
+    display: block !important;
+  }
+  .mag-page {
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    transform: none !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    width: 210mm !important;
+    height: 297mm !important;
+    min-height: 297mm !important;
+    max-width: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    page-break-after: always !important;
+    break-after: page !important;
+    padding: 15mm !important;
+    margin: 0 !important;
+  }
+  .cover-page {
+    background: #0F1E36 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

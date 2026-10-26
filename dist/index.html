@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="light" />
+  <title>『주간 스픽스 (SPEAKS WEEKLY)』 — 더 나은 세상을 만드는 정치·시사·문화 주간지</title>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <!-- 1. 주간경향 스타일 클린 상단 헤더 -->
+  <header class="site-header">
+    <div class="header-top">
+      <div class="header-left">
+        <button type="button" class="menu-toggle-btn" id="open-drawer-btn" aria-label="메뉴 열기">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        </button>
+      </div>
+
+      <div class="header-center">
+        <a href="/" class="brand-logo">
+          주간<span class="logo-point">스픽스</span>
+        </a>
+        <span class="brand-logo-sub">SPEAKS WEEKLY REVIEW</span>
+      </div>
+
+      <div class="header-right">
+        <span class="header-date" id="header-today-date">2026. 10. 26 월요일</span>
+        <a href="/admin" class="header-icon-btn" title="편집국 관리자" aria-label="편집국 관리자">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+        </a>
+        <a href="/magazine" class="header-ebook-btn">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+          <span>50p e-Book</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- 카테고리 내비게이션 바 -->
+    <nav class="header-nav">
+      <div class="nav-container">
+        <a href="#" class="nav-link active" data-filter="all">전체 기사</a>
+        <a href="#live-radar-anchor" class="nav-link" style="color:var(--point-red);">
+          <span class="live-dot-nav"></span>실시간 라이브 &amp; 속보
+        </a>
+        <a href="#" class="nav-link" data-filter="part-2">커버스토리</a>
+        <a href="#" class="nav-link" data-filter="part-1">스픽스 레이다</a>
+        <a href="#" class="nav-link" data-filter="part-3">Who Speaks</a>
+        <a href="#" class="nav-link" data-filter="part-4">오피니언·월드</a>
+        <a href="#" class="nav-link" data-filter="part-5">컬처·지방시대</a>
+        <a href="/magazine" class="nav-link" style="color:var(--point-navy);font-weight:700;">50p 전자책 (책장 넘김)</a>
+        <a href="/admin" class="nav-link" style="color:var(--ink-sub);">편집국 데스크</a>
+      </div>
+    </nav>
+  </header>
+
+  <!-- 2. 메인 컨텐츠 영역 -->
+  <main class="main-wrapper">
+    <!-- 최상단 메인 Hero 기사 (주간경향 스타일: 좌측 큰 사진 + 우측 굵은 헤드라인) -->
+    <section class="hero-split-section" id="hero-main-container">
+      <!-- main.js에서 동적 렌더링 -->
+    </section>
+
+    <!-- 서브 4단 카드 그리드 (Hero 바로 아래 4열) -->
+    <section class="sub-quad-grid" id="sub-quad-container">
+      <!-- main.js에서 동적 렌더링 -->
+    </section>
+
+    <!-- ⚡ [신규] 오늘의 스픽스 실시간 방송 & 핫클립 (주중 매일 실시간 자동 갱신 피드) -->
+    <section class="live-radar-box" id="live-radar-anchor">
+      <div class="live-radar-header">
+        <div class="live-header-title">
+          <span class="live-pulsing-badge">
+            <span class="live-dot"></span> LIVE
+          </span>
+          <h3>오늘의 스픽스 실시간 방송 &amp; 급상승 핫이슈</h3>
+          <span class="live-sub-tag">유튜브 153만 공론장 실시간 연동</span>
+        </div>
+        <div class="live-update-time" id="live-feed-updated-at">
+          실시간 업데이트 중...
+        </div>
+      </div>
+
+      <div class="live-cards-grid" id="daily-live-cards-container">
+        <!-- main.js에서 /api/live-feed 동적 렌더링 -->
+      </div>
+    </section>
+
+    <!-- 중단 2단 섹션 (좌측: 가로형 주요 뉴스 3개 / 우측: 세로형 오피니언 & 주요 칼럼 리스트) -->
+    <section class="middle-split-section">
+      <!-- 좌측 가로형 뉴스 -->
+      <div>
+        <div class="section-caption-bar">
+          <h2 class="section-caption-title">심층 기획 &amp; 지상 중계</h2>
+          <a href="/magazine" class="section-caption-more">더보기 &gt;</a>
+        </div>
+        <div class="horizontal-news-list" id="horizontal-news-container">
+          <!-- main.js에서 동적 렌더링 -->
+        </div>
+      </div>
+
+      <!-- 우측 오피니언 & 주요 기사 리스트 -->
+      <div>
+        <div class="section-caption-bar">
+          <h2 class="section-caption-title">오피니언 &amp; 월드</h2>
+          <span class="section-caption-more">시사 칼럼</span>
+        </div>
+        <div class="text-news-list" id="text-news-container">
+          <!-- main.js에서 동적 렌더링 -->
+        </div>
+      </div>
+    </section>
+
+    <!-- 하단 잡지 호수 박스 (주간경향 1700호 박스 완벽 구현) -->
+    <section class="issue-showcase-box" id="issue-showcase-container">
+      <!-- main.js에서 동적 렌더링 -->
+    </section>
+  </main>
+
+  <!-- 기사 전문 읽기 모달 (Clean Modal Reader) -->
+  <div class="reader-modal-backdrop" id="reader-modal" aria-hidden="true">
+    <div class="reader-modal-box" role="dialog" aria-modal="true">
+      <div class="reader-header">
+        <span class="reader-header-meta" id="reader-modal-kicker">커버스토리</span>
+        <div class="reader-header-tools">
+          <button type="button" class="reader-tool-btn" id="modal-font-dec">가-</button>
+          <button type="button" class="reader-tool-btn" id="modal-font-inc">가+</button>
+          <a id="modal-pdf-link" href="/magazine" class="reader-tool-btn" style="color:var(--point-red);">50p 전자책</a>
+          <button type="button" class="reader-tool-btn" id="close-modal-btn">닫기 ✕</button>
+        </div>
+      </div>
+      <div class="reader-body-scroll" id="reader-modal-content">
+        <!-- 동적 렌더링 -->
+      </div>
+    </div>
+  </div>
+
+  <!-- 플로팅 탑 버튼 (주간경향 ⌃ 버튼) -->
+  <button type="button" class="floating-top-btn" id="top-scroll-btn" title="맨 위로 가기" aria-label="맨 위로 가기">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"/></svg>
+  </button>
+
+  <!-- 사이트 푸터 (도서출판 아우내 판권지 고정 표기) -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <div class="footer-brand">『주간 스픽스 (SPEAKS WEEKLY)』</div>
+        <p style="margin:0 0 10px;color:#9CA3AF;">더 나은 세상을 만드는 정치·시사·문화 주간지</p>
+        <div class="footer-colophon">
+          <strong>발행·제작처 상호</strong>: 도서출판 아우내 &nbsp;|&nbsp;
+          <strong>주소</strong>: 충남 천안시 동남구 양지말1길 40 &nbsp;|&nbsp;
+          <strong>전화</strong>: 070-7561-0677<br/>
+          <strong>원천 미디어</strong>: 스픽스 인터넷 신문(speaks.kr) · 스픽스 유튜브 채널(@SPEAKS_TV)<br/>
+          <strong>간행물 번호</strong>: ISSN 3022-891X (정기간행물) / ISBN 978-89-98765-43-2 (전자책)
+        </div>
+      </div>
+      <div class="footer-links">
+        <div><strong>주간 스픽스 바로가기</strong></div>
+        <a href="/magazine">· 50페이지 A4 인쇄판 PDF 전자책 뷰어</a>
+        <a href="/admin">· 편집국 AI 자동 출판 대시보드 (/admin)</a>
+        <a href="https://www.speaks.kr/" target="_blank" rel="noopener">· 스픽스 인터넷 신문 (speaks.kr)</a>
+        <a href="https://www.youtube.com/@SPEAKS_TV" target="_blank" rel="noopener">· 스픽스 유튜브 채널 (@SPEAKS_TV)</a>
+      </div>
+    </div>
+  </footer>
+
+  <script type="module" src="/js/main.js"></script>
+</body>
+</html>

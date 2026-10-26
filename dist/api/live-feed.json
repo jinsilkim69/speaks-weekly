@@ -1,0 +1,55 @@
+{
+  "updatedAt": "2026.10.26 16:24",
+  "channel": "@SPEAKS_TV",
+  "subscribers": "153만 명",
+  "items": [
+    {
+      "id": "live-01",
+      "isLive": true,
+      "program": "정치본색 라이브 속보",
+      "title": "[생방송] 2026 정기국회 예산안 격돌과 사법 대전환: 여야 막전막후 긴급 해설",
+      "speaker": "김성완 평론가 × 박진영 교수",
+      "views": "실시간 2.4만 명 시청 중",
+      "timeAgo": "LIVE 진행 중",
+      "videoUrl": "https://www.youtube.com/@SPEAKS_TV",
+      "thumbnail": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=800&q=80",
+      "summary": "오늘 국회 예산결산위에서 터져 나온 30조 민생지원금 격돌의 본질과 향후 본회의 표결 전망"
+    },
+    {
+      "id": "live-02",
+      "isLive": false,
+      "program": "스픽스1234",
+      "title": "“가계부채 2천조 시대, 금리와 부동산 출구전략은 어디로 가는가”",
+      "speaker": "정세현 전 통일부 장관 특별 대담",
+      "views": "조회수 28만 회",
+      "timeAgo": "3시간 전",
+      "videoUrl": "https://www.youtube.com/@SPEAKS_TV",
+      "thumbnail": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?auto=format&fit=crop&w=800&q=80",
+      "summary": "시중은행 가계대출 억제책과 실비 실수요자 보호 사이의 정책 딜레마 집중 분석"
+    },
+    {
+      "id": "live-03",
+      "isLive": false,
+      "program": "선재규의 월드이슈",
+      "title": "미·중 반도체 기술 패권 전쟁과 브릭스(BRICS) 통상 파고의 역습",
+      "speaker": "선재규 선임기자",
+      "views": "조회수 19만 회",
+      "timeAgo": "6시간 전",
+      "videoUrl": "https://www.youtube.com/@SPEAKS_TV",
+      "thumbnail": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=800&q=80",
+      "summary": "달러 패권 흔들리는 신흥국 통화 블록화 흐름 속 한국 수출 제조업의 생존 전략"
+    },
+    {
+      "id": "live-04",
+      "isLive": false,
+      "program": "스픽스 쇼츠 핫클립",
+      "title": "“이 한마디로 국회 정회됐다” 여야 원내대표 설전 60초 요약",
+      "speaker": "스픽스 국회팀",
+      "views": "조회수 45만 회",
+      "timeAgo": "오늘 오전",
+      "videoUrl": "https://www.youtube.com/@SPEAKS_TV",
+      "thumbnail": "https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=800&q=80",
+      "summary": "법사위 탄핵 청문회장 돌발 격돌 순간과 여야 고성 현장"
+    }
+  ]
+}
