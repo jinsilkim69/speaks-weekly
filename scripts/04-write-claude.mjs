@@ -9,6 +9,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { planWithChatGPT } from './03-plan-chatgpt.mjs';
+import { DEEP_COVER_STORY, DEEP_WHO_SPEAKS } from '../data/deep_articles.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -99,19 +100,15 @@ export async function writeWithClaude(planResultInput = null) {
       pageRange: 'p.11 ~ 14',
       startPage: 11,
       endPage: 14,
-      kicker: 'COVER STORY Ⅰ · 국정 현안 심층 해부',
-      title: '2026 대전환의 분수령: 30조 민생회복 프로젝트와 국가 재정의 역할을 묻다',
-      subtitle: '내수 절벽과 가계부채 1,912조 원의 이중 파고… ‘약자 핀셋 지원’인가 ‘전면적 내수 마중물’인가',
-      author: '스픽스 특별취재팀',
-      sourceType: 'speaks.kr 이슈/기획',
+      kicker: DEEP_COVER_STORY.kicker,
+      title: DEEP_COVER_STORY.title,
+      subtitle: DEEP_COVER_STORY.subtitle,
+      author: DEEP_COVER_STORY.author,
+      sourceType: 'speaks.kr 이슈/기획 심층취재',
       sourceUrl: collected.speaksWebArticles[0].url,
       videoTimestamp: '14:25',
-      lead: '거리의 상가 공실률 그래프가 가파르게 치솟고 자영업 연체율이 임계점을 위협하는 2026년 가을, 대한민국 경제는 중대한 기로에 서 있다. 긴축 기조를 유지하며 건전 재정을 지켜야 한다는 관료적 논리와, 과감한 재정 투입으로 내수 순환의 숨통을 틔워야 한다는 민생 확장론이 정기국회 예산안 심사를 앞두고 정면충돌하고 있다.',
-      bodyParagraphs: [
-        '스픽스 특별취재팀이 입수·분석한 2026년 하반기 민생경제 진단 보고서에 따르면, 골목상권의 체감 경기는 코로나19 팬데믹 시기와 외환위기 직후에 버금가는 위축 국면을 보이고 있다. 특히 고금리 장기화의 여파로 소상공인 다중채무자의 이자 부담이 한계치에 도달하면서, 소비 위축이 고용 감소로 이어지고 다시 내수를 끌어내리는 악순환 고리가 고착화되는 양상이다.',
-        '이에 맞서 제시된 ‘30조 원 규모 민생회복 프로젝트’는 크게 세 가지 축으로 설계되어 있다. 첫째, 골목상권과 전통시장에서 즉각적인 매출 승수효과를 입증한 지역사랑상품권(지역화폐) 발행을 대폭 확대하고 국비 지원율을 법제화하는 방안이다. 둘째, 코로나 시기부터 누적된 소상공인 정책자금 대출에 대해 장기 분할상환 전환과 금리 감면을 결합한 한국형 채무재조정 프로그램을 가동하는 것이다. 셋째, 에너지·먹거리 물가 안정을 위한 서민 생활비 경감 패키지다.',
-        '반면 재정 당국과 보수 진영 일각에서는 국채 발행에 따른 채권시장 금리 왜곡과 물가 자극 가능성을 들어 선별적 취약계층 지원 원칙을 고수하고 있다. 그러나 국내외 다수 거시경제 학자들은 “현재의 물가 압력은 수요 과열이 아닌 공급망 비용에서 기인한 것이며, 내수 부진이 성장률 잠식으로 이어져 오히려 세수 기반을 무너뜨리는 ‘긴축의 역설’을 경계해야 한다”고 지적한다.'
-      ]
+      lead: DEEP_COVER_STORY.lead,
+      bodyParagraphs: DEEP_COVER_STORY.bodyParagraphs
     },
     {
       id: 'art-05',
@@ -188,6 +185,7 @@ export async function writeWithClaude(planResultInput = null) {
         }
       ],
       bodyParagraphs: [
+        ...DEEP_WHO_SPEAKS.bodyParagraphs,
         '두 대담자는 60분간의 생방송 내내 데이터와 현장 사례를 교차하며 한국 정치가 나아갈 실용적 해법을 제시했다. 특히 생방송 중 실시간 동시접속자가 6만 8천 명을 돌파한 14분 25초 구간에서는 자영업자 폐업 통계를 직접 제시하며 재정 역할론을 역설해 시청자들의 공감을 이끌어냈다.'
       ]
     },
