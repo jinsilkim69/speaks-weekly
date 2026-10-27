@@ -11,7 +11,9 @@ parser.add_argument('edition');parser.add_argument('pdf');parser.add_argument('-
 args=parser.parse_args();out=Path(args.output);out.mkdir(parents=True,exist_ok=True)
 issue=json.loads(Path(args.edition).read_text(encoding='utf-8-sig'));doc=fitz.open(args.pdf)
 normalize=lambda s:re.sub(r'\s+','',s)
-text=normalize(''.join(p.get_text() for p in doc));missing=[];outside=[]
+# Running heads and folios interrupt paragraphs split across pages.
+# Extract all body blocks in drawing order, excluding only that fixed furniture.
+text=normalize(''.join(block[4] for p in doc for block in p.get_text('blocks',clip=fitz.Rect(0,44,p.rect.width,p.rect.height-38)) if block[4].strip()!='계속'));missing=[];outside=[]
 for a in issue['articleSnapshots']:
     for p in [a['lead']]+a['bodyParagraphs']:
         if normalize(p.removeprefix('## ')) not in text:missing.append({'article':a['id'],'paragraph':p[:80]})

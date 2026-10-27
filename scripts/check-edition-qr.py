@@ -8,7 +8,7 @@ import numpy as np
 
 parser=argparse.ArgumentParser();parser.add_argument('edition');parser.add_argument('pdf');parser.add_argument('--output',required=True);args=parser.parse_args()
 issue=json.loads(Path(args.edition).read_text(encoding='utf-8-sig'));doc=fitz.open(args.pdf)
-counts=[2,2,2,5,5,4,4,4,4,4,3,3,2,2];page=4;results=[]
+counts=issue.get('pageCounts',[2,2,2,5,5,4,4,4,4,4,3,3,2,2]);page=4;results=[]
 for article,count in zip(issue['articleSnapshots'],counts):
     page+=count
     pix=doc[page-1].get_pixmap(matrix=fitz.Matrix(3,3))

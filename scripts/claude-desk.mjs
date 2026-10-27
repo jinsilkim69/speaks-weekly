@@ -21,6 +21,7 @@ export async function runClaudeDesk(root,request,{run=runCommand,binary}={}){
   if(!auth.loggedIn||auth.authMethod!=='claude.ai')throw Error('Claude 구독 로그인을 확인하지 못했습니다. API로 우회하지 않습니다.');
   const response=await run(cli,['-p','--tools','','--output-format','json'],{env,input:request.prompt,timeout:600000,maxBuffer:12*1024*1024,cwd:root});
   const raw=JSON.parse(response.stdout);if(raw.is_error||typeof raw.result!=='string')throw Error('Claude 집필 실패: '+String(raw.result||raw.subtype||'결과 없음').slice(0,1000));
+  atomicJson(path.join(dir,'response.json'),{result:raw.result,receivedAt:new Date().toISOString()});
   const text=raw.result.trim().replace(/^```(?:json)?\s*/,'').replace(/\s*```$/,'');
   const result=JSON.parse(text);
   if(!Array.isArray(result.articles)||!result.articles.length)throw Error('기사 배열을 받지 못했습니다.');

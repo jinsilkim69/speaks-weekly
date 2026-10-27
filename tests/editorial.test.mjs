@@ -59,8 +59,7 @@ test('weekly web reader uses the released snapshot, not the current homepage cop
  }finally{dom.window.close();}
 });
 
-test('all fourteen articles of the real released issue open with full copy and image credits',async()=>{
- const issue=JSON.parse(fs.readFileSync(new URL('../data/editions.json',import.meta.url),'utf8')).issues.find(i=>i.status==='published');
+for(const issue of JSON.parse(fs.readFileSync(new URL('../data/editions.json',import.meta.url),'utf8')).issues.filter(i=>i.status==='published'))test('released issue '+issue.id+' opens all fourteen articles with complete copy and credits',async()=>{
  assert.equal(issue.articleSnapshots.length,14);
  const dom=new JSDOM(fs.readFileSync(new URL('../public/index.html',import.meta.url),'utf8'),{url:'https://example.com/?edition='+issue.id,runScripts:'outside-only'});
  try{
@@ -71,8 +70,9 @@ test('all fourteen articles of the real released issue open with full copy and i
   for(const a of issue.articleSnapshots){
    dom.window.location.hash='#article/'+a.id;dom.window.dispatchEvent(new dom.window.Event('hashchange'));
    assert.equal(dom.window.document.querySelector('#article-title').textContent,a.title);
-   assert.ok(dom.window.document.querySelector('.article-prose').textContent.length>1200,a.id);
-   assert.ok(dom.window.document.querySelector('#article-content figcaption').textContent.includes(a.visual.credit));
+   const copy=dom.window.document.querySelector('.article-prose').textContent;
+   for(const paragraph of [a.lead,...a.bodyParagraphs])assert.ok(copy.includes(paragraph.replace(/^## /,'').replace(/\[([^\]]+)\]\([^)]+\)/g,'$1')),a.id);
+   assert.ok([...dom.window.document.querySelectorAll('#article-content figcaption')].some(n=>n.textContent.includes(a.visual.credit)));
    assert.equal(dom.window.document.querySelectorAll('.source-box a').length,a.sources.length);
    dom.window.document.querySelector('#close-reader').click();
   }
@@ -81,14 +81,14 @@ test('all fourteen articles of the real released issue open with full copy and i
 
 test('all live homepage articles preserve complete copy, controls and return navigation',async()=>{
  const catalog=readHomeCatalog(root);
- const latest=catalog.editions.find(i=>i.status==='published');
+ const latest=catalog.editions.filter(i=>i.status==='published').sort((a,b)=>Date.parse(b.publishedAt)-Date.parse(a.publishedAt))[0];
  catalog.editions.unshift({...latest,id:'older-issue',title:'이전 호',publishedAt:'2026-10-19T00:00:00.000Z'});
  const dom=new JSDOM(fs.readFileSync(new URL('../public/index.html',import.meta.url),'utf8'),{url:'https://example.com/',runScripts:'outside-only'});
  try{
   dom.window.HTMLDialogElement.prototype.showModal=function(){this.setAttribute('open','');};
   dom.window.HTMLDialogElement.prototype.close=function(){this.removeAttribute('open');this.dispatchEvent(new dom.window.Event('close'));};
   const requests=[];
-  dom.window.fetch=async url=>{requests.push(url);return {ok:true,json:async()=>url==='/api/home'?catalog:JSON.parse(fs.readFileSync(new URL('../data/editions.json',import.meta.url),'utf8')).issues.find(i=>i.status==='published')};};
+  dom.window.fetch=async url=>{requests.push(url);return {ok:true,json:async()=>url==='/api/home'?catalog:JSON.parse(fs.readFileSync(new URL('../data/editions.json',import.meta.url),'utf8')).issues.find(i=>url==='/api/editions/'+i.id+'.json')};};
   dom.window.eval(fs.readFileSync(new URL('../public/js/home.js',import.meta.url),'utf8'));
   await new Promise(r=>setTimeout(r,30));
   const doc=dom.window.document;

@@ -3,7 +3,9 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {validateVisual,validateArticleVisuals} from '../scripts/visual-policy.mjs';
 import {contentHash,validateArticle} from '../scripts/editorial-catalog.mjs';
-const article=JSON.parse(fs.readFileSync(new URL('../data/web_articles.json',import.meta.url))).articles[0];
+const article=structuredClone(JSON.parse(fs.readFileSync(new URL('../data/web_articles.json',import.meta.url))).articles.find(a=>a.visual.kind==='generated-illustration'));
+article.supportingVisuals=[{...structuredClone(article.visual),afterParagraph:0}];
+article.review.contentHash=contentHash(article);
 test('generated images require disclosure and provenance; third-party photos require context and usage evidence',()=>{
  validateVisual(article.visual);
  assert.throws(()=>validateVisual({...article.visual,disclosure:''}),/AI 생성/);

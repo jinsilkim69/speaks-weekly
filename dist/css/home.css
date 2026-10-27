@@ -212,3 +212,5 @@ dialog{position:fixed;inset:0;width:100%;height:100dvh;max-width:none;max-height
 .issue-archive{font-size:12px}}
 @media(max-width:380px){.contents-grid{columns:1}}
 .contents-photo figcaption{font-size:10px;color:var(--muted);line-height:1.7;margin-top:7px}
+/* Data belongs with the argument, at its native ratio, rather than as a poster. */
+.article-prose .data-figure{margin:32px 0 38px;padding:0;background:white}.data-figure img{object-fit:contain;aspect-ratio:auto}.article-prose .data-figure figcaption{font-size:11px;font-weight:400;line-height:1.8}.data-figure+.article-prose{margin-top:0}

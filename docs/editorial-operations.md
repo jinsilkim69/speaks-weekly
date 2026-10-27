@@ -51,7 +51,7 @@ node scripts/editorial-cli.mjs publish 출고.json
 - 검토: id, expectedRevision, review 객체. review에는 evidence, analysis, counterargument, language, visual, summary의 실제 검토 내용을 적습니다.
 - 출고: id와 expectedRevision. 현재 원고 해시와 검토 해시가 같아야 합니다.
 
-수정한 원고는 다시 검토해야 하며 같은 버전의 반복 출고는 새 버전을 만들지 않습니다. 검토 필드가 있다는 것만으로 글의 수준이 보증되지는 않습니다. 홈페이지와 주간지에 같은 근거·분석·반론 기준을 적용하고, 주간호에는 추가 취재와 비교를 반영합니다.
+수정한 원고는 다시 검토해야 하며 같은 버전의 반복 출고는 새 버전을 만들지 않습니다. 검토 필드가 있다는 것만으로 글의 수준이 보증되지는 않습니다. 홈페이지와 주간지에 같은 원문 충실도·정확성·설명 기준을 적용하고, 주간호에는 주제별 재편집과 배경 설명을 반영합니다. 모든 방송 기사에 자체 반론과 비평을 요구하지 않습니다.
 
 로컬 출고 후 npm test, npm run build, 브라우저 확인과 GitHub 푸시를 거쳐 공개 사이트를 확인합니다. 원시 근거·음성·비밀정보는 커밋하지 않습니다. 기존 publish:agent는 레거시 지면 미리보기용입니다.
 
