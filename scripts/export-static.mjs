@@ -8,6 +8,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { feedFromIssue } from './live-feed.mjs';
+import { readHomeCatalog } from './editorial-catalog.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -21,6 +22,7 @@ export async function exportStaticSite() {
   const currentIssuePath = path.join(DATA_DIR, 'current_issue.json');
   if (!fs.existsSync(currentIssuePath)) throw new Error('발행 데이터가 없습니다. npm run pipeline을 먼저 실행하세요.');
   JSON.parse(fs.readFileSync(currentIssuePath, 'utf8'));
+  const home = readHomeCatalog(ROOT_DIR);
 
   if (fs.existsSync(DIST_DIR)) {
     fs.rmSync(DIST_DIR, { recursive: true, force: true });
@@ -33,6 +35,8 @@ export async function exportStaticSite() {
   // 2. data/current_issue.json 을 dist/api/issue 로 복사 (서버 없는 무료 호스팅 대응)
   const apiDir = path.join(DIST_DIR, 'api');
   fs.mkdirSync(apiDir, { recursive: true });
+  fs.writeFileSync(path.join(apiDir, 'home'), JSON.stringify(home, null, 2));
+  fs.writeFileSync(path.join(apiDir, 'home.json'), JSON.stringify(home, null, 2));
 
   if (fs.existsSync(currentIssuePath)) {
     fs.copyFileSync(currentIssuePath, path.join(apiDir, 'issue'));

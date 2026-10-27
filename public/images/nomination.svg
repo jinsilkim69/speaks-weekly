@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" role="img" aria-labelledby="title desc">
+<title id="title">공천의 세 가지 조건</title><desc id="desc">정보, 기회, 책임이 시민의 선택으로 이어지는 개념도. 실제 여론조사나 통계가 아니다.</desc>
+<rect width="1000" height="680" fill="#10283d"/>
+<g fill="none" stroke="#537489" stroke-width="2"><path d="M245 270V435H500M500 270V435M755 270V435H500M500 435V505"/></g>
+<g font-family="Malgun Gothic, sans-serif" text-anchor="middle"><text x="500" y="92" fill="#a5cad7" font-size="20" letter-spacing="5">SPEAKS · ISSUE MAP</text>
+<g fill="#f3f7fa"><rect x="130" y="155" width="230" height="150" rx="8"/><rect x="385" y="155" width="230" height="150" rx="8"/><rect x="640" y="155" width="230" height="150" rx="8"/></g>
+<g fill="#10283d" font-size="38" font-weight="bold"><text x="245" y="221">정보</text><text x="500" y="221">기회</text><text x="755" y="221">책임</text></g>
+<g fill="#3c5667" font-size="20"><text x="245" y="265">후보를 비교할 조건</text><text x="500" y="265">신인이 경쟁할 조건</text><text x="755" y="265">결정을 설명할 의무</text></g>
+<rect x="330" y="492" width="340" height="84" fill="#bce4df" rx="8"/><text x="500" y="545" fill="#10283d" font-size="33" font-weight="bold">시민의 실질적인 선택</text>
+<text x="500" y="635" fill="#b5c8d4" font-size="17">편집부 개념도 · 통계 또는 여론조사 결과가 아닙니다</text></g></svg>

@@ -14,7 +14,8 @@
     "export": "node scripts/export-static.mjs",
     "build": "node scripts/export-static.mjs",
     "collect:broadcast": "node scripts/collect-broadcast.mjs",
-    "publish:agent": "node scripts/publish-agent-issue.mjs"
+    "publish:agent": "node scripts/publish-agent-issue.mjs",
+    "audit:editorial": "node scripts/audit-editorial.mjs"
   },
   "publisher": {
     "name": "도서출판 아우내",

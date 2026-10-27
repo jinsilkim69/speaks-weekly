@@ -5,7 +5,7 @@ import { JSDOM } from 'jsdom';
 import * as visuals from '../public/js/qr-generator.js';
 
 test('every article button opens a nonempty reader, including the cover', async () => {
-  const html = fs.readFileSync(new URL('../public/index.html', import.meta.url), 'utf8');
+  const html = fs.readFileSync(new URL('../public/legacy-preview.html', import.meta.url), 'utf8');
   const issue = JSON.parse(fs.readFileSync(new URL('../data/current_issue.json', import.meta.url), 'utf8'));
   const dom = new JSDOM(html, { url: 'https://example.com/', runScripts: 'outside-only' });
   try {

@@ -12,6 +12,7 @@ import { fileURLToPath } from 'node:url';
 import { runFullPipeline } from './scripts/run-pipeline.mjs';
 import { validateIssue, synchronizePages, writeIssueAtomic } from './scripts/issue-storage.mjs';
 import { feedFromIssue } from './scripts/live-feed.mjs';
+import { readHomeCatalog } from './scripts/editorial-catalog.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -143,6 +144,10 @@ const server = http.createServer(async (req, res) => {
   try {
     const parsedUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
     const pathname = parsedUrl.pathname;
+    if (pathname === '/api/home' && req.method === 'GET') {
+      res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control':'no-cache' });
+      res.end(JSON.stringify(readHomeCatalog(__dirname))); return;
+    }
     if (req.method === 'POST' && req.headers.origin && req.headers.origin !== parsedUrl.origin) {
       res.writeHead(403); res.end('Cross-origin writes are forbidden'); return;
     }

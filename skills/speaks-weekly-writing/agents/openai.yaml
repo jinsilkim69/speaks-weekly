@@ -1,0 +1,4 @@
+interface:
+  display_name: "주간 스픽스 집필 데스크"
+  short_description: "방송과 취재자료를 심층 기사로 집필하고 근거와 문장을 데스킹"
+  default_prompt: "$speaks-weekly-writing으로 스픽스 방송 자료를 분석해 기사 한 편과 별도 편집 검증 기록을 작성해줘."
