@@ -23,7 +23,8 @@
     "edition:build": "node scripts/build-edition.mjs",
     "check:edition": "node scripts/check-edition.mjs",
     "check:readiness": "node scripts/check-readiness.mjs",
-    "check:site": "node scripts/check-site.mjs"
+    "check:site": "node scripts/check-site.mjs",
+    "links:refresh": "python -X utf8 scripts/refresh-official-links.py"
   },
   "publisher": {
     "name": "도서출판 아우내",

@@ -253,3 +253,7 @@ dialog{position:fixed;inset:0;width:100%;height:100dvh;max-width:none;max-height
 .schedule-corner .episode-actions a.watch-broadcast{display:flex;width:auto;margin-top:0;padding:8px 0;gap:5px;font-size:12px;min-height:44px}
 @media(min-width:701px) and (max-width:1000px){.week-overview .episode-actions a.watch-broadcast{font-size:11px;gap:4px}}
 @media(max-width:700px){.schedule-corner .episode-actions{gap:10px 20px;align-items:center}}
+
+/* Official headlines link to the publisher; original writing belongs to the weekly. */
+.official-entry h4{font-family:'Noto Serif KR',serif;font-size:18px;line-height:1.7;margin:6px 0 10px;word-break:keep-all;font-weight:600}.official-title:hover{text-decoration:underline;text-underline-offset:4px}.schedule-corner .official-entry h4{font-size:14px;font-weight:400}.official-entry+.official-entry{border-top:1px solid var(--line);margin-top:18px;padding-top:18px}.official-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 40px}.official-list .official-entry{margin:0;padding:0 0 18px;border-top:0;border-bottom:1px solid var(--line)}.official-entry .episode-actions a{border-bottom:0}.official-list .episode-actions{gap:8px 24px}.official-entry .official-article-link{color:var(--red)}
+@media(max-width:700px){.official-list{grid-template-columns:1fr}.schedule-corner .official-entry h4{font-size:15px}}

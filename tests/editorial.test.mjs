@@ -98,7 +98,7 @@ test('all live homepage articles preserve complete copy, controls and return nav
   assert.deepEqual(requests,['/api/home']);
   assert.match(doc.querySelector('.issue-archive').textContent,/이전 호/);
   for(const a of catalog.articles){
-   assert.ok(doc.querySelector(`main a[href="#article/${a.id}"]`),a.id);
+   if(catalog.homepageMode!=='official-links')assert.ok(doc.querySelector(`main a[href="#article/${a.id}"]`),a.id);
    dom.window.location.hash='#article/'+a.id;dom.window.dispatchEvent(new dom.window.Event('hashchange'));
    const copy=doc.querySelector('.article-prose').textContent;
    for(const paragraph of [a.lead,...a.bodyParagraphs])assert.ok(copy.includes(paragraph.replace(/^## /,'').replace(/\[([^\]]+)\]\([^)]+\)/g,'$1')),a.id);

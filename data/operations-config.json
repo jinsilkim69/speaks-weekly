@@ -6,7 +6,7 @@
   "automations": [
     {
       "id": "automation",
-      "name": "스픽스 일간 기사 제작",
+      "name": "스픽스 공식 기사 안내·주간지 자료 준비",
       "kind": "heartbeat",
       "status": "ACTIVE",
       "rrule": "FREQ=DAILY;BYHOUR=9,15,18;BYMINUTE=0;BYSECOND=0"
@@ -27,5 +27,7 @@
     }
   ],
   "firstScheduledRunVerified": false,
-  "fallbackPolicy": "Gemini 또는 Claude 연결 실패는 기록하고 실제 확보 원문을 내장 GPT가 대행. 확인하지 않은 단계를 완료로 표시하지 않는다."
+  "fallbackPolicy": "Gemini 또는 Claude 연결 실패는 기록하고 실제 확보 원문을 내장 GPT가 대행. 확인하지 않은 단계를 완료로 표시하지 않는다.",
+  "homepagePolicy": "official-title-and-source-links",
+  "writingPriority": "weekly-edition"
 }

@@ -1,0 +1,163 @@
+{
+  "changedAt": "2026-10-28T05:20:14.021473+09:00",
+  "policy": "homepage-official-links-weekly-original-writing",
+  "officialLinks": 20,
+  "currentWeek": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "titleVerification": "공식 h1.heading와 동일한 제목. 사이트명·기존 자체 제목으로 대체하지 않음.",
+  "sourceChecks": [
+    {
+      "id": "official-20746",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20746",
+      "verifiedAt": "2026-10-28T05:20:14.021041+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=c0is3ItTozw"
+    },
+    {
+      "id": "official-20745",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20745",
+      "verifiedAt": "2026-10-28T05:20:13.726422+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=dqD_bj2AgtU"
+    },
+    {
+      "id": "official-20744",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20744",
+      "verifiedAt": "2026-10-28T05:20:13.698588+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=qFeEbIZhlhk"
+    },
+    {
+      "id": "official-20743",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20743",
+      "verifiedAt": "2026-10-28T05:20:13.710250+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U"
+    },
+    {
+      "id": "official-20719",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20719",
+      "verifiedAt": "2026-10-28T05:20:13.307545+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4"
+    },
+    {
+      "id": "official-20718",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20718",
+      "verifiedAt": "2026-10-28T05:20:13.229026+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=evlRPIB6tXY"
+    },
+    {
+      "id": "official-20706",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20706",
+      "verifiedAt": "2026-10-28T05:20:13.133698+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=mpjrkcpOQTc"
+    },
+    {
+      "id": "official-20704",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20704",
+      "verifiedAt": "2026-10-28T05:20:13.173119+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=c4kfcvdSBIE"
+    },
+    {
+      "id": "official-20703",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20703",
+      "verifiedAt": "2026-10-28T05:20:13.056623+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=5A1cGZiuUN0"
+    },
+    {
+      "id": "official-20701",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20701",
+      "verifiedAt": "2026-10-28T05:20:13.042969+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=wV5nhjl0AuI"
+    },
+    {
+      "id": "official-20700",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20700",
+      "verifiedAt": "2026-10-28T05:20:12.990408+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs"
+    },
+    {
+      "id": "official-20699",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20699",
+      "verifiedAt": "2026-10-28T05:20:13.029043+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=uoZE4oI8qAY"
+    },
+    {
+      "id": "official-20687",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20687",
+      "verifiedAt": "2026-10-28T05:20:12.938062+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=5vHisVyp7-g"
+    },
+    {
+      "id": "official-20686",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20686",
+      "verifiedAt": "2026-10-28T05:20:12.912896+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=29KVDkjJMi8"
+    },
+    {
+      "id": "official-20682",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20682",
+      "verifiedAt": "2026-10-28T05:20:12.894295+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=inuNJ_tcUjA"
+    },
+    {
+      "id": "official-20681",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20681",
+      "verifiedAt": "2026-10-28T05:20:12.954742+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=9MBS_i4GG7k"
+    },
+    {
+      "id": "official-20680",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20680",
+      "verifiedAt": "2026-10-28T05:20:12.746916+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=2_8UNZ7nfvQ"
+    },
+    {
+      "id": "official-20664",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20664",
+      "verifiedAt": "2026-10-28T05:20:12.759968+09:00",
+      "dateBasis": "published",
+      "videoUrl": "https://www.youtube.com/watch?v=1qYPlYB2KsI"
+    },
+    {
+      "id": "official-20665",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20665",
+      "verifiedAt": "2026-10-28T05:20:12.784179+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=mVx-PPpABLc"
+    },
+    {
+      "id": "official-20651",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20651",
+      "verifiedAt": "2026-10-28T05:20:12.781655+09:00",
+      "dateBasis": "article-broadcast-date",
+      "videoUrl": "https://www.youtube.com/watch?v=ylqEQhX394M"
+    }
+  ],
+  "limits": [
+    "목록 페이지가 동일 항목을 반환해 이전 발견 URL을 재확인했다. 전체 채널 수집 완료를 뜻하지 않는다.",
+    "미확인 방송일을 정규 편성으로 표시하지 않는다."
+  ],
+  "preservation": "기존12원고·발행호5개·PDF 바이트 보존. 이전 #article 링크 열람 유지.",
+  "automationChanges": [
+    "일간: 공식 목록 갱신·주간지 원자료 준비",
+    "일요일: 주간호 원고·이미지·지면 마감",
+    "월요일: 검토 완료 주간호만 발행"
+  ],
+  "validation": "전체44개 테스트 통과; 최종 보호 변경 후 관련7개 재확인. 로컬 기사·PDF·공유 이미지 검증 통과."
+}

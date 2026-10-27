@@ -3,6 +3,7 @@ import path from 'node:path';
 import { createHash } from 'node:crypto';
 import {validateArticleVisuals} from './visual-policy.mjs';
 import {editionFingerprint,inspectPdf} from './pdf-proof.mjs';
+import {readOfficialDirectory} from './official-links.mjs';
 import {validateEpisode,readPrograms} from './broadcast-programs.mjs';
 
 export const contentHash = article => createHash('sha256').update(JSON.stringify({title:article.title,subtitle:article.subtitle,lead:article.lead,bodyParagraphs:article.bodyParagraphs,sources:article.sources,visual:article.visual,supportingVisuals:article.supportingVisuals,verificationNote:article.verificationNote,...(article.episode?{episode:article.episode}:{}),...(article.productionHandoff?{productionHandoff:article.productionHandoff}:{})})).digest('hex');
@@ -35,7 +36,8 @@ export function readHomeCatalog(root) {
     if (issue.articleSnapshots.every(a=>articles.some(web=>contentHash(web)===contentHash(a)))) throw new Error('주간지는 온라인 기사 합본과 구별되는 재편집이 필요합니다.');
   }
   const updatedAt=articles.map(a=>a.updatedAt||a.publishedAt).sort((a,b)=>Date.parse(b)-Date.parse(a))[0]||null;
-  return { articles, updatedAt,...readPrograms(root,articles), editions:editions.issues.map(({id,title,status,period,pdfUrl,publishedAt,revisionOf,revisionSummary,pdfReview})=>({pages:pdfReview?.pages,id,title,status,period,pdfUrl:status==='published'?pdfUrl:null,publishedAt,revisionOf,revisionSummary})) };
+  const programData=readPrograms(root,articles),officialDirectory=readOfficialDirectory(root,programData.programs);
+  return { articles, updatedAt:officialDirectory?.updatedAt||updatedAt,...programData,...(officialDirectory?{homepageMode:'official-links',officialDirectory}:{}), editions:editions.issues.map(({id,title,status,period,pdfUrl,publishedAt,revisionOf,revisionSummary,pdfReview})=>({pages:pdfReview?.pages,id,title,status,period,pdfUrl:status==='published'?pdfUrl:null,publishedAt,revisionOf,revisionSummary})) };
 }
 
 export function validateEditionContent(edition, root) {

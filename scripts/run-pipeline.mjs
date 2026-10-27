@@ -21,7 +21,7 @@ export async function runFullPipeline(customInput = {}) {
   if (customInput.mode !== 'demo') {
     if (customInput.url) {
       const source = await collectBroadcast(customInput.url);
-      return { ok:true, mode:'awaiting-agent', message:'방송 자료 수집 완료. 원문 검토·집필 후 editorial save → review → publish로 출고하세요. 음성 전사 및 자막은 검증 전 자료입니다.', source:{id:source.id,title:source.title} };
+      return { ok:true, mode:'awaiting-agent', message:'주간지 원자료 수집 완료. 원문 대조·집필·검수 후 발행호에 편성하세요. 스픽스 리뷰에는 공식 제목·원문 링크만 연결합니다. 음성 전사 및 자막은 검증 전 자료입니다.', source:{id:source.id,title:source.title} };
     }
     return {ok:true,mode:'awaiting-editorial',message:'제작 상태를 확인했습니다. 기사·주간지 발행 완료를 의미하지 않습니다.',readiness:checkReadiness(path.resolve(import.meta.dirname,'..'))};
   }

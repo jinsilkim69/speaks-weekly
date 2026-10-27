@@ -54,6 +54,21 @@ function renderPrograms(enabled,period){
  const supplements=articles.filter(a=>!a.episode);document.getElementById('supplementary-reading').innerHTML=supplements.length?'<div class="section-heading"><h3>스픽스 신문에서 함께 읽기</h3><p>방송과 함께 읽을 칼럼과 기사</p></div><div class="supplement-grid">'+supplements.map(a=>`<article><span class="eyebrow">신문 읽기</span><h4><a href="${articleLink(a)}">${esc(a.title)}</a></h4><p>${esc(a.subtitle)}</p></article>`).join('')+'</div>':'';
  watchImages();
 }
+function renderOfficialPrograms(directory){
+ document.getElementById('programs').hidden=false;
+ const entries=[...directory.entries].sort((a,b)=>b.displayDate.localeCompare(a.displayDate)||b.publishedAt.localeCompare(a.publishedAt)),period=directory.reviewPeriod;
+ const inWeek=entries.filter(e=>e.displayDate>=period.start&&e.displayDate<=period.end),dayOf=e=>new Date(e.displayDate+'T12:00:00+09:00').getUTCDay();
+ const stamp=e=>`${broadcastDate(e.displayDate)} ${e.broadcastDate?'방송':'기사 게시 · 방송일 미확인'}`;
+ const links=e=>`<div class="episode-actions"><a class="official-article-link" href="${safeUrl(e.url)}" target="_blank" rel="noopener noreferrer">스픽스 원문 읽기 ↗</a>${e.videoUrl?`<a class="watch-broadcast" href="${safeUrl(e.videoUrl)}" target="_blank" rel="noopener noreferrer"><span class="play-mark" aria-hidden="true">▶</span><span>원본 방송 보기 ↗</span></a>`:''}</div>`;
+ const item=e=>`<article class="official-entry"><p class="schedule-date">${esc(stamp(e))}</p><h4><a class="official-title" href="${safeUrl(e.url)}" target="_blank" rel="noopener noreferrer">${esc(e.title)}</a></h4>${links(e)}</article>`;
+ document.getElementById('review-period').textContent=`${period.start.replaceAll('-','. ')} – ${period.end.replaceAll('-','. ')} · 공식 기사`;
+ document.querySelector('.schedule-note').textContent='공식 기사 제목을 그대로 싣고 스픽스 원문으로 연결합니다. 방송일이 확인되지 않은 기사는 게시일 기준으로 표시합니다. 매주 고정 편성표가 아닙니다.';
+ document.getElementById('week-overview').innerHTML=[[1,'월'],[2,'화'],[3,'수'],[4,'목'],[5,'금'],[6,'토'],[0,'일']].map(([day,label])=>{const list=inWeek.filter(e=>dayOf(e)===day),ids=[...new Set(list.map(e=>e.programId))];return `<section class="weekday-section" data-weekday="${day}" aria-labelledby="weekday-${day}"><h3 id="weekday-${day}">${label}<small>요일</small></h3>${ids.map(id=>`<div class="schedule-corner"><h4><a href="#program-${esc(id)}">${esc(programs.find(p=>p.id===id)?.name)}</a></h4>${list.filter(e=>e.programId===id).map(item).join('')}</div>`).join('')||'<p class="weekday-empty">연결할 공식 기사<br>확인 중</p>'}</section>`;}).join('');
+ document.getElementById('special-programs').innerHTML='';document.querySelector('.review-heading h2').textContent='코너별 공식 기사';
+ document.getElementById('program-count').textContent=`${entries.length}개 공식 기사 · 제목을 누르면 스픽스 원문으로 이동합니다`;
+ document.getElementById('program-list').innerHTML=programs.map(p=>{const list=entries.filter(e=>e.programId===p.id);return list.length?`<section id="program-${esc(p.id)}" class="program-group official-program" data-program="${esc(p.id)}"><div class="program-heading"><h3>${esc(p.name)}</h3><p>스픽스 공식 기사</p></div><div class="official-list">${list.map(item).join('')}</div></section>`:'';}).join('');
+ document.getElementById('supplementary-reading').innerHTML='';
+}
 function previousWeekEdition(editions){
  const today=new Date(new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date())+'T00:00:00Z');const monday=new Date(today);monday.setUTCDate(today.getUTCDate()-(today.getUTCDay()+6)%7);
  return editions.filter(i=>{const m=/^(\d{4})\.(\d{1,2})\.(\d{1,2})[–—~-](?:(\d{4})\.)?(?:(\d{1,2})\.)?(\d{1,2})$/.exec(i.period||'');if(i.status!=='published'||!m)return false;const end=Date.UTC(Number(m[4]||m[1]),Number(m[5]||m[2])-1,Number(m[6]));return end<monday.getTime();}).sort((a,b)=>b.period.localeCompare(a.period)||(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0))[0];
@@ -68,15 +83,16 @@ async function load(){try{
  if(editionId&&raw.supersededBy){document.getElementById('articles').insertAdjacentHTML('beforebegin',`<p class="archive-notice">이전 발행 기록입니다. <a href="/?edition=${encodeURIComponent(raw.supersededBy)}${esc(location.hash)}">교정된 최신판으로 읽기 →</a></p>`);}
  if(editionId){document.title=raw.title+' | 주간 스픽스';document.getElementById('page-label').textContent='주간호 · '+raw.period+(raw.revisionOf?' · 개정판':'');document.getElementById('weekly-heading').textContent='이 주간호 읽기';}
  pageTitle=document.title;document.getElementById('updated').textContent=data.updatedAt?`${editionId?'발행':'최근 기사'} ${date(data.updatedAt)}`:'새 기사를 준비하고 있습니다.';
- const hasPrograms=!editionId&&programs.length&&articles.some(x=>x.episode);
+ const official=!editionId&&raw.homepageMode==='official-links';
+ const hasPrograms=official||(!editionId&&programs.length&&articles.some(x=>x.episode));
  const a=(editionId?articles.find(x=>x.id===raw.coverArticleId):hasPrograms?articles.find(x=>x.id===raw.featuredEpisodeId)||articles.find(x=>x.episode):articles.find(x=>x.visual.kind==='generated-illustration'))||articles[0];
- if(hasPrograms)document.getElementById('page-label').textContent='방송 한 편을 읽는 시간';
+ if(hasPrograms)document.getElementById('page-label').textContent=official?'스픽스 공식 기사 안내':'방송 한 편을 읽는 시간';
  document.getElementById('lead').innerHTML=a?`<article class="lead-story">${figure(a,{listing:true,eager:true})}<div><span class="eyebrow">${esc(programName(a))} · ${esc(a.genre)}</span><h1><a href="${articleLink(a)}">${esc(a.title)}</a></h1><p class="subtitle">${esc(a.subtitle)}</p><p class="byline">${a.episode?esc(broadcastDate(a.episode.broadcastDate))+' 방송 · '+esc(a.episode.guests.join('·')):date(a.publishedAt)+' · 주간 스픽스 편집부'}</p>${!editionId?`<p class="story-summary">${esc(a.lead.length>175?a.lead.slice(0,175)+'…':a.lead)}</p>`:''}<a class="read-link" href="${articleLink(a)}">기사 읽기 →</a></div></article>`:'<p class="error">출고 검토를 마친 기사를 준비하고 있습니다.</p>';
  const rest=articles.filter(x=>x.id!==a?.id&&(!hasPrograms||x.episode));document.getElementById('more').innerHTML=rest.length?(editionId?'<h2 class="rail-heading">이 주간호의 다른 기사</h2>'+contents(rest):'<h2 class="rail-heading">함께 읽는 기사</h2>'+rest.map((a,i)=>`<article class="story-card">${i===0&&a.visual.kind!=='diagram'?figure(a,{listing:true}):''}<span class="eyebrow">${esc(a.category)}</span><h2><a href="${articleLink(a)}">${esc(a.title)}</a></h2><p>${esc(a.subtitle)}</p><span class="byline">${a.episode?esc(broadcastDate(a.episode.broadcastDate))+' 방송':date(a.publishedAt)}</span></article>`).join('')):'';
  document.getElementById('more').hidden=!rest.length;
  const editions=[...data.editions].sort((a,b)=>(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0));
  const latest=editions.find(i=>i.status==='published'),featured=latest||editions[0],archive=editions.filter(i=>i.status==='published'&&i.id!==latest?.id&&(i.revisionOf||i.id)!==(latest?.revisionOf||latest?.id));
  document.getElementById('editions').innerHTML=featured?issueCard(featured)+(archive.length?`<details class="issue-archive"><summary>이전 발행호 ${archive.length}개</summary>${archive.map(i=>`<a href="/?edition=${encodeURIComponent(i.id)}&archive=1">${esc(i.period)} · ${esc(i.title)} · 보존본</a>`).join('')}</details>`:''):'<p>첫 주간지를 준비하고 있습니다.</p>';
- renderPrograms(hasPrograms,raw.reviewPeriod);document.getElementById('weekly').hidden=!editionId;document.getElementById('articles').hidden=!!hasPrograms;watchImages();route();settleAnchor();
+ if(official)renderOfficialPrograms(raw.officialDirectory);else renderPrograms(hasPrograms,raw.reviewPeriod);document.getElementById('weekly').hidden=!editionId;document.getElementById('articles').hidden=!!hasPrograms;watchImages();route();settleAnchor();
  }catch{document.getElementById('lead').innerHTML='<div class="error" role="alert">기사를 불러오지 못했습니다. <button id="retry">다시 불러오기</button></div>';document.getElementById('updated').textContent='기사 연결 확인 필요';document.getElementById('retry').onclick=load;}}
 load();

@@ -37,3 +37,7 @@ npm start
 기존 `/magazine`, `/admin`, `publish:agent`, `pipeline --demo`는 레거시 미리보기·테스트용입니다. 새 홈페이지·주간호 출고 절차를 대신하지 않습니다. 공개 홈페이지는 Cloudflare에서 제공되므로 제작 PC를 꺼도 이미 게시된 콘텐츠는 열립니다.
 
 정기 실행은 현재 PC와 앱이 켜져 있을 때 동작합니다. [반복 제작 지침](docs/recurring-production.md)에 중복 방지·실패 복구·미완성호 보류·알림 기준을 기록했습니다. 공개 PDF는 `/editions/2026-10-26.pdf`, 웹 주간호는 `/?edition=2026-10-26`입니다.
+
+## 2026-10-28 운영 기준
+
+스픽스 리뷰는 공식 기사 제목·원문 링크 안내다. `npm run links:refresh`로 갱신하고 제목·날짜·연결을 확인한 뒤 배포한다. 별도 홈페이지 리뷰를 중복 집필하지 않는다. Gemini 조사·Claude 집필·GPT 원문/이미지/지면 검수는 주간지 제작에 집중한다. 최신 절차는 docs/program-first-home.md와 docs/recurring-production.md를 따른다. 기존 원고·발행호는 보존한다.
