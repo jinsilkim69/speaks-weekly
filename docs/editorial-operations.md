@@ -55,4 +55,21 @@ node scripts/editorial-cli.mjs publish 출고.json
 
 로컬 출고 후 npm test, npm run build, 브라우저 확인과 GitHub 푸시를 거쳐 공개 사이트를 확인합니다. 원시 근거·음성·비밀정보는 커밋하지 않습니다. 기존 publish:agent는 레거시 지면 미리보기용입니다.
 
-주간호 출고는 release-edition 명령으로 별도 처리하며 14개 원고 스냅샷, 주간 재편집 기록, 실제 PDF와 일치하는 50페이지·시각 검수 기록이 필요합니다. 발행 후 수정은 새 정정판 ID를 사용합니다. 현재 PDF 조판 완성과 정기 실행 일정은 미구현이며 미완성호를 발행 완료로 표시하지 않습니다.
+주간호 출고는 release-edition 명령으로 별도 처리하며 14개 원고 스냅샷, 주간 재편집 기록, 실제 PDF와 일치하는 50페이지·시각 검수 기록이 필요합니다. 발행 후 수정은 새 정정판 ID를 사용합니다. PDF 조판과 구조 검사는 구현했습니다. 정기 AI 인계·예약 실행과 실제 완성호 집필은 아직 남아 있으며 미완성호를 발행 완료로 표시하지 않습니다.
+
+
+## 실제 PDF 조판과 출고
+
+`python -m pip install -r requirements-publishing.txt`로 조판 의존성을 준비합니다. Node 22+, Python, 한국어 TTF 글꼴이 필요합니다. 기본 글꼴은 Windows 맑은 고딕이며 다른 환경에서는 SPEAKS_KOREAN_FONT에 TTF 경로를 지정합니다. SPEAKS_PYTHON으로 Python 실행 파일을 지정할 수 있습니다.
+
+1. 주간호 JSON에 id, title, period, introduction(발행인의 말 문단 배열), 검토 완료한 articleSnapshots 14개를 준비합니다. 각 원고에는 weeklyTreatment가 필요합니다. 이미지는 권리 확인 후 public 아래 로컬 파일로 준비합니다.
+2. `npm run edition:build -- 주간호.json`을 실행합니다. output/pdf/호ID/proof.pdf와 edition.json을 생성합니다. 현재 조판 엔진은 ReportLab이며 기존 브라우저 인쇄/Paged.js 미리보기와 별도입니다. 편성은 도입 4면, 레이다 6면, 커버 10면, 인터뷰 12면, 오피니언 8면, 문화 10면입니다. 글이 넘치면 실패하며 원문을 자르거나 글꼴을 축소하지 않습니다. 분량 부족·장르 구성·여백은 실제 지면 검수에서 판단합니다.
+3. PDF 전 면을 렌더링해 읽고 이미지·글꼴·여백·단 나눔·인용·QR을 검수합니다. edition.json의 pdfReview에 visualCheck=true, summary=실제 검수 내용, reviewedAt=검수 시각을 기록합니다. sha256과 pages는 생성 값을 유지합니다.
+4. 검수한 PDF를 public/editions/호ID.pdf로 복사합니다. `npm run editorial -- release-edition output/pdf/호ID/edition.json`으로 출고합니다. 실제 PDF 파서가 A4 50페이지·내용 있는 면·원고 및 이미지 지문 일치·검수 파일 해시를 확인합니다. 검수 뒤 수정했다면 다시 조판합니다.
+5. `npm run build` 후 배포합니다. 공개 웹 주간지는 `/?edition=호ID`, 데이터는 `/api/editions/호ID.json`입니다. 홈페이지 기사 수정 후에도 발행호의 원고 스냅샷을 읽습니다. 미발행 PDF는 정적 배포에 포함하지 않습니다.
+
+발행 시 PDF 구조 검사 결과를 해당 파일의 SHA-256과 함께 저장합니다. 이후 홈페이지·정적 빌드는 파일 해시 및 원고·이미지 지문을 대조하므로 배포 환경에 Python을 설치할 필요가 없습니다. 조판·발행 작업을 수행하는 PC에는 Python 의존성이 필요합니다. 발행에 사용한 이미지 파일은 덮어쓰지 말고 새 이름으로 저장합니다.
+
+`npm run check:edition`은 **시스템 시험용 50페이지 PDF**를 생성합니다. 테스트 문단과 반복 이미지를 사용하므로 완성 주간지가 아니며, PDF 내부 표식으로 출고를 차단합니다. 파일은 output 아래에만 두며 Git/정적 배포에서 제외합니다.
+
+`npm run check:readiness` 또는 인자 없는 `npm run pipeline`은 실제 기사 수·발행호 수·수집 상태·남은 작업을 표시합니다. 제작 대기를 발행 완료로 보고하지 않습니다. 기존 `publish:agent`, `/magazine`, `/admin`은 레거시 미리보기 경로이며 새 출고 절차를 대신하지 않습니다.

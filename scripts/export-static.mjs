@@ -1,14 +1,14 @@
 /**
  * 『주간 스픽스 (SPEAKS WEEKLY)』 정적 배포 파일 내보내기 (scripts/export-static.mjs)
  * Cloudflare Pages / Vercel / GitHub Pages 무료 호스팅 배포를 위해
- * dist/ 디렉토리에 정적 웹 매거진과 50p E-Book 전체를 완벽 패키징합니다.
+ * 검증된 홈페이지 기사와 출고된 주간호만 정적 배포에 포함합니다.
  */
 
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { feedFromIssue } from './live-feed.mjs';
-import { readHomeCatalog } from './editorial-catalog.mjs';
+import { readHomeCatalog,readPublishedEdition } from './editorial-catalog.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -20,8 +20,7 @@ const DIST_DIR = path.join(ROOT_DIR, 'dist');
 export async function exportStaticSite() {
   console.log('📦 [정적 배포] Cloudflare Pages / Vercel 무료 배포 패키징 시작...');
   const currentIssuePath = path.join(DATA_DIR, 'current_issue.json');
-  if (!fs.existsSync(currentIssuePath)) throw new Error('발행 데이터가 없습니다. npm run pipeline을 먼저 실행하세요.');
-  JSON.parse(fs.readFileSync(currentIssuePath, 'utf8'));
+  if(fs.existsSync(currentIssuePath))JSON.parse(fs.readFileSync(currentIssuePath, 'utf8'));
   const home = readHomeCatalog(ROOT_DIR);
 
   if (fs.existsSync(DIST_DIR)) {
@@ -31,10 +30,18 @@ export async function exportStaticSite() {
 
   // 1. public/ 폴더의 모든 파일 및 서브폴더 복사
   copyRecursiveSync(PUBLIC_DIR, DIST_DIR);
+  // Only released editions enter the public artifact; proofs stay in output/.
+  const editionsDir=path.join(DIST_DIR,'editions');fs.mkdirSync(editionsDir,{recursive:true});
 
   // 2. data/current_issue.json 을 dist/api/issue 로 복사 (서버 없는 무료 호스팅 대응)
   const apiDir = path.join(DIST_DIR, 'api');
   fs.mkdirSync(apiDir, { recursive: true });
+  fs.mkdirSync(path.join(apiDir,'editions'),{recursive:true});
+  for(const item of home.editions.filter(i=>i.status==='published')){
+    const edition=readPublishedEdition(ROOT_DIR,item.id);
+    fs.writeFileSync(path.join(apiDir,'editions',item.id+'.json'),JSON.stringify(edition,null,2));
+    fs.copyFileSync(path.join(PUBLIC_DIR,edition.pdfUrl),path.join(DIST_DIR,edition.pdfUrl));
+  }
   fs.writeFileSync(path.join(apiDir, 'home'), JSON.stringify(home, null, 2));
   fs.writeFileSync(path.join(apiDir, 'home.json'), JSON.stringify(home, null, 2));
 
@@ -124,8 +131,8 @@ export async function exportStaticSite() {
       }
     ]
   };
-  const issue = JSON.parse(fs.readFileSync(currentIssuePath, 'utf8'));
-  const exportedFeed = issue.meta.mode === 'agent-edited' ? feedFromIssue(issue) : liveFeed;
+  const issue = fs.existsSync(currentIssuePath)?JSON.parse(fs.readFileSync(currentIssuePath, 'utf8')):null;
+  const exportedFeed = issue?.meta?.mode === 'agent-edited' ? feedFromIssue(issue) : {...liveFeed,items:[]};
   fs.writeFileSync(path.join(apiDir, 'live-feed'), JSON.stringify(exportedFeed, null, 2), 'utf-8');
   fs.writeFileSync(path.join(apiDir, 'live-feed.json'), JSON.stringify(exportedFeed, null, 2), 'utf-8');
 
@@ -141,6 +148,7 @@ function copyRecursiveSync(src, dest) {
   if (isDirectory) {
     if (!fs.existsSync(dest)) fs.mkdirSync(dest, { recursive: true });
     fs.readdirSync(src).forEach((childItemName) => {
+      if(src===PUBLIC_DIR&&childItemName==='editions')return;
       copyRecursiveSync(path.join(src, childItemName), path.join(dest, childItemName));
     });
   } else {

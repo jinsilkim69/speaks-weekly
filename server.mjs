@@ -12,7 +12,7 @@ import { fileURLToPath } from 'node:url';
 import { runFullPipeline } from './scripts/run-pipeline.mjs';
 import { validateIssue, synchronizePages, writeIssueAtomic } from './scripts/issue-storage.mjs';
 import { feedFromIssue } from './scripts/live-feed.mjs';
-import { readHomeCatalog } from './scripts/editorial-catalog.mjs';
+import { readHomeCatalog,readPublishedEdition } from './scripts/editorial-catalog.mjs';
 import { drafts,saveDraft,approveDraft,publishDraft,releaseEdition } from './scripts/editorial-service.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -37,7 +37,7 @@ const MIME_TYPES = {
 async function ensureIssueDataExists() {
   const issuePath = path.join(DATA_DIR, 'current_issue.json');
   if (!fs.existsSync(issuePath)) {
-    await runFullPipeline();
+    throw Object.assign(Error('레거시 편집 미리보기가 없습니다. 홈페이지와 새 주간호 편집 절차를 이용하세요.'),{statusCode:404});
   }
 }
 
@@ -146,6 +146,12 @@ const server = http.createServer(async (req, res) => {
   try {
     const parsedUrl = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
     const pathname = parsedUrl.pathname;
+    if(pathname.startsWith('/api/editions/')&&req.method==='GET'){
+      const id=pathname.slice('/api/editions/'.length).replace(/\.json$/,'');
+      const edition=readPublishedEdition(__dirname,id);
+      res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-cache'});
+      res.end(JSON.stringify(edition));return;
+    }
     if (pathname === '/api/home' && req.method === 'GET') {
       res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control':'no-cache' });
       res.end(JSON.stringify(readHomeCatalog(__dirname))); return;
@@ -229,6 +235,11 @@ const server = http.createServer(async (req, res) => {
     }
 
     // Static Files
+    if(pathname.startsWith('/editions/')){
+      const id=pathname.slice('/editions/'.length).replace(/\.pdf$/,'');
+      const edition=readPublishedEdition(__dirname,id);
+      if(edition.pdfUrl!==pathname)throw Object.assign(Error('발행 PDF가 아닙니다.'),{statusCode:404});
+    }
     let filePath;
     if (pathname === '/' || pathname === '/index.html') {
       filePath = path.join(PUBLIC_DIR, 'index.html');
@@ -263,7 +274,7 @@ const server = http.createServer(async (req, res) => {
   }
 });
 
-ensureIssueDataExists().then(() => {
+Promise.resolve().then(() => {
   server.listen(PORT, process.env.HOST || '127.0.0.1', () => {
     const boundPort = server.address().port;
     console.log(`\n==================================================================`);

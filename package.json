@@ -19,7 +19,10 @@
     "editorial:prepare": "node scripts/editorial-workflow.mjs prepare",
     "editorial:collect": "node scripts/editorial-workflow.mjs collect",
     "editorial": "node scripts/editorial-cli.mjs",
-    "check:transcription": "node scripts/check-transcription.mjs"
+    "check:transcription": "node scripts/check-transcription.mjs",
+    "edition:build": "node scripts/build-edition.mjs",
+    "check:edition": "node scripts/check-edition.mjs",
+    "check:readiness": "node scripts/check-readiness.mjs"
   },
   "publisher": {
     "name": "도서출판 아우내",

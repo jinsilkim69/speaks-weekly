@@ -7,7 +7,7 @@ import {periodFor,inPeriod,withLock,recoverLock,collectJob,atomicJson} from '../
 import {saveDraft,approveDraft,publishDraft} from '../scripts/editorial-service.mjs';
 import {collectBroadcast} from '../scripts/collect-broadcast.mjs';
 const fixture=JSON.parse(fs.readFileSync(new URL('../data/web_articles.json',import.meta.url))).articles[0];
-function workspace(t){const root=fs.mkdtempSync(path.join(os.tmpdir(),'speaks-editorial-'));t.after(()=>fs.rmSync(root,{recursive:true,force:true}));atomicJson(path.join(root,'data/web_articles.json'),{articles:[]});return root;}
+function workspace(t){const root=fs.mkdtempSync(path.join(os.tmpdir(),'speaks-editorial-'));t.after(()=>fs.rmSync(root,{recursive:true,force:true}));atomicJson(path.join(root,'data/web_articles.json'),{articles:[]});fs.cpSync(new URL('../public/images',import.meta.url),path.join(root,'public/images'),{recursive:true});return root;}
 test('Korean weekly periods and boundary timestamps are deterministic',()=>{
  const p=periodFor('weekly','2026-10-26');assert.equal(p.start,'2026-10-19');assert.equal(p.end,'2026-10-25');
  assert.deepEqual(periodFor('weekly','2026-10-27'),p);
@@ -35,6 +35,15 @@ test('lock blocks concurrent writers and releases even after failure',async t=>{
  await assert.rejects(withLock(root,async()=>{assert.throws(()=>withLock(root,()=>{}),/다른 편집/);assert.throws(()=>recoverLock(root),/실행 중/);throw Error('test failure');}),/test failure/);
  assert.equal(fs.existsSync(path.join(root,'data/.editorial.lock')),false);
  await withLock(root,()=>{});
+});
+
+test('a reviewed story with a missing local image cannot be published',async t=>{
+ const root=workspace(t),a=structuredClone(fixture);a.id='missing-image';
+ await saveDraft(root,{article:a,expectedRevision:0});
+ await approveDraft(root,{id:a.id,expectedRevision:1,review:a.review});
+ fs.unlinkSync(path.join(root,'public',a.visual.url));
+ await assert.rejects(publishDraft(root,{id:a.id,expectedRevision:1}),/이미지 파일/);
+ assert.equal(JSON.parse(fs.readFileSync(path.join(root,'data/web_articles.json'))).articles.length,0);
 });
 test('collection reuses structured sources and rejects out-of-period content',async t=>{
  const root=workspace(t),id='weekly-2026-10-19-2026-10-25';

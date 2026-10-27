@@ -39,3 +39,20 @@ test('homepage opens independent full article and does not offer a draft PDF',as
   assert.equal(dom.window.document.querySelector('#reader').open,false);
  }finally{dom.window.close();}
 });
+
+test('weekly web reader uses the released snapshot, not the current homepage copy',async()=>{
+ const dom=new JSDOM(fs.readFileSync(new URL('../public/index.html',import.meta.url),'utf8'),{url:'https://example.com/?edition=test-issue#article/'+article.id,runScripts:'outside-only'});
+ try{
+  dom.window.HTMLDialogElement.prototype.showModal=function(){this.setAttribute('open','');};
+  dom.window.HTMLDialogElement.prototype.close=function(){this.removeAttribute('open');};
+  let requested;
+  const snapshot={...structuredClone(article),title:'주간호에 보존된 제목'};
+  dom.window.fetch=async url=>{requested=url;return {ok:true,json:async()=>({id:'test-issue',title:'발행 주간호',status:'published',publishedAt:article.publishedAt,period:'시험 기간',pdfUrl:'/editions/test-issue.pdf',articleSnapshots:[snapshot]})};};
+  dom.window.eval(fs.readFileSync(new URL('../public/js/home.js',import.meta.url),'utf8'));
+  await new Promise(r=>setTimeout(r,30));
+  assert.equal(requested,'/api/editions/test-issue.json');
+  assert.equal(dom.window.document.querySelector('#article-title').textContent,snapshot.title);
+  assert.equal(dom.window.document.querySelectorAll('#editions a').length,2);
+  assert.match(dom.window.document.title,/발행 주간호/);
+ }finally{dom.window.close();}
+});

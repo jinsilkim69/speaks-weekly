@@ -11,3 +11,5 @@ data/.editorial.lock
 data/weekly-discovery.json
 data/weekly-collection-result.json
 **/__pycache__/
+output/
+tmp/

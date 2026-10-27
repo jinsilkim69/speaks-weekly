@@ -13,7 +13,7 @@ import { analyzeWithGemini } from './02-analyze-gemini.mjs';
 import { planWithChatGPT } from './03-plan-chatgpt.mjs';
 import { writeWithClaude } from './04-write-claude.mjs';
 import { collectBroadcast } from './collect-broadcast.mjs';
-import { publishAgentIssue } from './publish-agent-issue.mjs';
+import { checkReadiness } from './check-readiness.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 
@@ -21,9 +21,9 @@ export async function runFullPipeline(customInput = {}) {
   if (customInput.mode !== 'demo') {
     if (customInput.url) {
       const source = await collectBroadcast(customInput.url);
-      return { ok:true, mode:'awaiting-agent', message:'실제 자막 수집 완료. 내장 에이전트가 자료를 읽고 data/agent_articles.json에 원고를 작성한 뒤 npm run publish:agent를 실행하세요.', source:{id:source.id,title:source.title} };
+      return { ok:true, mode:'awaiting-agent', message:'방송 자료 수집 완료. 원문 검토·집필 후 editorial save → review → publish로 출고하세요. 음성 전사 및 자막은 검증 전 자료입니다.', source:{id:source.id,title:source.title} };
     }
-    return publishAgentIssue();
+    return {ok:true,mode:'awaiting-editorial',message:'제작 상태를 확인했습니다. 기사·주간지 발행 완료를 의미하지 않습니다.',readiness:checkReadiness(path.resolve(import.meta.dirname,'..'))};
   }
   const startTime = Date.now();
   const stepsLog = [];
@@ -86,7 +86,7 @@ if (process.argv[1] && path.resolve(process.argv[1]) === __filename) {
   const argTitle = process.argv[3] || '';
   runFullPipeline(argUrl === '--demo' ? {mode:'demo'} : { url: argUrl, title: argTitle })
     .then((res) => {
-      if (!res.issueData) { console.log(res.message); return; }
+      if (!res.issueData) { console.log(JSON.stringify(res,null,2)); return; }
       console.log(`\n========================================`);
       console.log(`『주간 스픽스 (SPEAKS WEEKLY)』 50p 자동 출판 파이프라인 완료 (${res.elapsedMs}ms)`);
       console.log(`총 페이지 수: ${res.issueData.pages.length}p / 꼭지 수: ${res.issueData.articles.length}개`);

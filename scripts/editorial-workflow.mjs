@@ -65,7 +65,7 @@ export async function collectJob(id,selected,{root=ROOT,retry=false}={}){
     const target=path.join(root,`data/research/${sourceId}.json`);
     let source=fs.existsSync(target)?JSON.parse(fs.readFileSync(target,'utf8')):null;
     if(!source || (item.kind==='web'&&!source.publishedAt)){
-     source=item.kind==='youtube'?await collectBroadcast(item.url):JSON.parse((await exec('python',['-X','utf8',path.join(ROOT,'scripts/collect-news.py'),'--url',item.url],{windowsHide:true,timeout:45000,maxBuffer:4*1024*1024})).stdout);
+     source=item.kind==='youtube'?await collectBroadcast(item.url,{workRoot:root}):JSON.parse((await exec('python',['-X','utf8',path.join(ROOT,'scripts/collect-news.py'),'--url',item.url],{windowsHide:true,timeout:45000,maxBuffer:4*1024*1024})).stdout);
      atomicJson(target,source);
     }
     item.publishedAt=source.publishedAt||source.uploadDate;item.state=inPeriod(source,job.period)?(source.needsOriginal?'needs-original':'collected'):'outside-period';item.error=null;
