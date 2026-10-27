@@ -37,7 +37,8 @@ test('real 50-page PDF, content binding, proof rejection and immutable release',
  const cover=fs.readFileSync(path.join(root,'public/images/editions',ready.id+'-cover.jpg'));
  assert.equal(cover.readUInt16BE(0),0xffd8);assert.ok(cover.length>1000);
  // Static deployment must use the released snapshot and exclude an unpublished proof.
- for(const folder of ['public','scripts'])fs.cpSync(new URL('../'+folder,import.meta.url),path.join(root,folder),{recursive:true});
+ // Images were copied before rendering; re-copying that open directory can fail on Windows.
+ for(const folder of ['public','scripts'])fs.cpSync(new URL('../'+folder,import.meta.url),path.join(root,folder),{recursive:true,filter:source=>folder!=='public'||path.basename(source)!=='images'});
  fs.copyFileSync(new URL('../package.json',import.meta.url),path.join(root,'package.json'));
  fs.copyFileSync(new URL('../data/current_issue.json',import.meta.url),path.join(root,'data/current_issue.json'));
  fs.writeFileSync(path.join(root,'public/editions/private-draft.pdf'),'unpublished');

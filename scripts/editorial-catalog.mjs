@@ -5,7 +5,7 @@ import {validateArticleVisuals} from './visual-policy.mjs';
 import {editionFingerprint,inspectPdf} from './pdf-proof.mjs';
 import {validateEpisode,readPrograms} from './broadcast-programs.mjs';
 
-export const contentHash = article => createHash('sha256').update(JSON.stringify({title:article.title,subtitle:article.subtitle,lead:article.lead,bodyParagraphs:article.bodyParagraphs,sources:article.sources,visual:article.visual,supportingVisuals:article.supportingVisuals,verificationNote:article.verificationNote,...(article.episode?{episode:article.episode}:{})})).digest('hex');
+export const contentHash = article => createHash('sha256').update(JSON.stringify({title:article.title,subtitle:article.subtitle,lead:article.lead,bodyParagraphs:article.bodyParagraphs,sources:article.sources,visual:article.visual,supportingVisuals:article.supportingVisuals,verificationNote:article.verificationNote,...(article.episode?{episode:article.episode}:{}),...(article.productionHandoff?{productionHandoff:article.productionHandoff}:{})})).digest('hex');
 
 // Mechanical checks support a recorded editorial decision; they do not score prose quality.
 export function validateArticle(article) {

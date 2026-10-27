@@ -23,6 +23,33 @@
       "sourceUrl": "https://www.youtube.com/@SPEAKS_TV",
       "schedule": null,
       "kind": "special"
+    },
+    {
+      "id": "telephone-report",
+      "name": "전화인터뷰 · 속보",
+      "description": "전화 연결로 전한 현안과 현장 목소리를 읽습니다.",
+      "sourceUrl": "https://www.youtube.com/@SPEAKS_TV",
+      "schedule": null,
+      "kind": "special"
+    },
+    {
+      "id": "beijing-direct",
+      "name": "북경발 단독 직통",
+      "description": "중국 현지 연결에서 전한 외교 전망과 대화의 맥락을 소개합니다.",
+      "sourceUrl": "https://www.youtube.com/@SPEAKS_TV",
+      "schedule": null,
+      "kind": "special"
+    },
+    {
+      "id": "machiavelli",
+      "name": "정치를 보는 마키아벨리",
+      "description": "박진영의 정치 전망과 정책 제안을 회차별로 읽습니다.",
+      "sourceUrl": "https://www.youtube.com/@SPEAKS_TV",
+      "schedule": null
     }
-  ]
+  ],
+  "reviewPeriod": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  }
 }

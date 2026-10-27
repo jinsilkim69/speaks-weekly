@@ -10,7 +10,7 @@ const digest=bytes=>createHash('sha256').update(bytes).digest('hex');
 async function get(url){const response=await fetch(new URL(url,base),{cache:'no-store',signal:AbortSignal.timeout(30000)});if(!response.ok)throw Error(`${url}: HTTP ${response.status}`);return response;}
 const home=await (await get('/api/home')).json();
 const expected=readHomeCatalog(root);
-if(home.articles.length!==expected.articles.length||expected.articles.some(a=>!home.articles.some(b=>b.id===a.id&&contentHash(b)===contentHash(a)))||JSON.stringify(home.programs)!==JSON.stringify(expected.programs)||home.featuredEpisodeId!==expected.featuredEpisodeId)throw Error('홈페이지 원고·코너·회차 배포본이 현재 검수본과 일치하지 않습니다.');
+if(home.articles.length!==expected.articles.length||expected.articles.some(a=>!home.articles.some(b=>b.id===a.id&&contentHash(b)===contentHash(a)))||JSON.stringify(home.programs)!==JSON.stringify(expected.programs)||home.featuredEpisodeId!==expected.featuredEpisodeId||JSON.stringify(home.reviewPeriod)!==JSON.stringify(expected.reviewPeriod))throw Error('홈페이지 원고·코너·회차 배포본이 현재 검수본과 일치하지 않습니다.');
 const assets=new Set(),issues=[];
 function checkArticles(items){for(const a of items){if(!a.title?.trim()||!a.lead?.trim()||!a.bodyParagraphs?.length||!a.sources?.length||!a.visual?.credit)throw Error(`${a.id}: 기사 전문·출처·이미지 정보 부족`);for(const s of a.sources)if(!/^https?:\/\//.test(s.url))throw Error(`${a.id}: 잘못된 출처 URL`);for(const v of [a.visual,...(a.supportingVisuals||[])]){if(!v.url.startsWith('/'))throw Error(`${a.id}: 로컬 이미지 주소가 필요합니다.`);assets.add(v.url);}}}
 checkArticles(home.articles);

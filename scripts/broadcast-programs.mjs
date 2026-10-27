@@ -18,5 +18,6 @@ export function readPrograms(root,articles){
   if(p.schedule&&(!Array.isArray(p.schedule.days)||!p.schedule.days.length||p.schedule.days.some(n=>!Number.isInteger(n)||n<0||n>6)||!/^https:\/\//.test(p.schedule.sourceUrl||'')||!Number.isFinite(Date.parse(p.schedule.verifiedAt))))throw Error('고정 편성에는 요일과 확인 근거가 필요합니다.');
  }
  const videos=new Set();for(const a of articles.filter(a=>a.episode)){validateEpisode(a);if(!programs.some(p=>p.id===a.episode.programId))throw Error('회차가 등록되지 않은 코너를 가리킵니다.');if(videos.has(a.episode.videoId))throw Error('같은 방송 회차가 중복 게시됐습니다.');videos.add(a.episode.videoId);}
- return {programs,featuredEpisodeId:config.featuredEpisodeId||null};
+ const period=config.reviewPeriod;if(period&&(!/^\d{4}-\d{2}-\d{2}$/.test(period.start||'')||!/^\d{4}-\d{2}-\d{2}$/.test(period.end||'')||new Date(period.start).getUTCDay()!==1||Date.parse(period.end)-Date.parse(period.start)!==6*86400000))throw Error('리뷰 표시 기간은 월요일부터 일요일까지여야 합니다.');
+ return {programs,featuredEpisodeId:config.featuredEpisodeId||null,reviewPeriod:period||null};
 }

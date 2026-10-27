@@ -1,0 +1,68 @@
+{
+  "police": {
+    "kind": "photo",
+    "purpose": "방송에서 다룬 기관·지역의 실제 배경",
+    "url": "/images/programs/lastweek-police-photo.jpg",
+    "width": 2000,
+    "height": 1500,
+    "alt": "2009년 촬영한 서울 경찰청 청사. 경찰 조직의 배경 사진으로, 이번 고발장 접수 현장이나 현재 국가수사본부 내부를 촬영한 사진은 아니다.",
+    "caption": "2009년 촬영한 서울 경찰청 청사. 경찰 조직의 배경 사진으로, 이번 고발장 접수 현장이나 현재 국가수사본부 내부를 촬영한 사진은 아니다.",
+    "credit": "G43 · 2009 · CC BY 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_National_Police_Agency_Building01.jpg",
+    "context": "2009년 촬영한 서울 경찰청 청사. 경찰 조직의 배경 사진으로, 이번 고발장 접수 현장이나 현재 국가수사본부 내부를 촬영한 사진은 아니다.",
+    "capturedAt": "2009-03-27",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "transformation": "원본 크기·내용 유지",
+    "rights": {
+      "status": "cleared",
+      "basis": "license",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Korean_National_Police_Agency_Building01.jpg",
+      "note": "G43, CC BY 3.0, https://creativecommons.org/licenses/by/3.0/. 원본 파일을 변경 없이 사용. 원출처·날짜·저작자·이용조건 표시."
+    },
+    "sha256": "f3e53affd8ab12a76739f6b642c71c7393f1bf34a6925bcffdb9b1842574048b"
+  },
+  "seoul": {
+    "kind": "photo",
+    "purpose": "방송에서 다룬 기관·지역의 실제 배경",
+    "url": "/images/programs/lastweek-seoul-photo.jpg",
+    "width": 3264,
+    "height": 2448,
+    "alt": "2013년 촬영한 서울시청. 서울의 행정 개편과 시민 서비스 구상을 설명하는 배경 사진이다.",
+    "caption": "2013년 촬영한 서울시청. 서울의 행정 개편과 시민 서비스 구상을 설명하는 배경 사진이다.",
+    "credit": "콩가루 · 2013 · CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_City_hall.jpg",
+    "context": "2013년 촬영한 서울시청. 서울의 행정 개편과 시민 서비스 구상을 설명하는 배경 사진이다.",
+    "capturedAt": "2013-11-03",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "transformation": "원본 크기·내용 유지",
+    "rights": {
+      "status": "cleared",
+      "basis": "license",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_City_hall.jpg",
+      "note": "콩가루, CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/. 원본 파일을 변경 없이 사용. 원출처·날짜·저작자·이용조건 표시."
+    },
+    "sha256": "ad86d121f5129ea3a522de16fecfaa67670192c82c3fe16b64a7f406554c2864"
+  },
+  "beijing": {
+    "kind": "photo",
+    "purpose": "방송에서 다룬 기관·지역의 실제 배경",
+    "url": "/images/programs/lastweek-beijing-photo.jpg",
+    "width": 1280,
+    "height": 853,
+    "alt": "2014년 베이징 천단에서 바라본 도시 풍경. 현지 전화인터뷰의 배경 자료이며, 선전 APEC이나 이번 외교 접촉을 촬영한 사진은 아니다.",
+    "caption": "2014년 베이징 천단에서 바라본 도시 풍경. 현지 전화인터뷰의 배경 자료이며, 선전 APEC이나 이번 외교 접촉을 촬영한 사진은 아니다.",
+    "credit": "Hermann Luyken · 2014 · CC0 1.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2014.09.29.171453_Skyline_Temple_of_Heaven_Bejing.jpg",
+    "context": "2014년 베이징 천단에서 바라본 도시 풍경. 현지 전화인터뷰의 배경 자료이며, 선전 APEC이나 이번 외교 접촉을 촬영한 사진은 아니다.",
+    "capturedAt": "2014-09-29",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "transformation": "원출처의 1280px 축소본 · 내용 변경 없음",
+    "rights": {
+      "status": "cleared",
+      "basis": "license",
+      "referenceUrl": "https://commons.wikimedia.org/wiki/File:2014.09.29.171453_Skyline_Temple_of_Heaven_Bejing.jpg",
+      "note": "Hermann Luyken, CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/. 원본 파일을 변경 없이 사용. 원출처·날짜·저작자·이용조건 표시."
+    },
+    "sha256": "fcb8874ad3d6395bcde59ac3f49bbcb7b90e7e3c11207467f36e3df0f5e3f86e"
+  }
+}

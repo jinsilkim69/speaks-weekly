@@ -4,6 +4,7 @@ import {execFileSync} from 'node:child_process';
 import {contentHash,validateArticle,validateEdition} from './editorial-catalog.mjs';
 import {atomicJson,withLock} from './editorial-workflow.mjs';
 import {validateArticleVisuals} from './visual-policy.mjs';
+import {assertProductionHandoff} from './production-handoff.mjs';
 const validId=id=>typeof id==='string'&&/^[a-zA-Z0-9_-]{1,100}$/.test(id);
 export function drafts(root){const dir=path.join(root,'data/drafts');return fs.existsSync(dir)?fs.readdirSync(dir).filter(f=>f.endsWith('.json')).map(f=>JSON.parse(fs.readFileSync(path.join(dir,f),'utf8'))):[];}
 export async function saveDraft(root,input){
@@ -37,6 +38,7 @@ export async function publishDraft(root,input){
   const published={...article,status:'published',publishedAt:old?.publishedAt||new Date().toISOString(),updatedAt:new Date().toISOString(),version:(old?.version||0)+1};
   validateArticle(published);
   validateArticleVisuals(published,root);
+  if(published.productionHandoff){const recordPath=path.resolve(root,published.productionHandoff),relative=path.relative(root,recordPath);if(relative.startsWith('..')||path.isAbsolute(relative))throw Error('인계 기록이 프로젝트 밖입니다.');assertProductionHandoff(root,JSON.parse(fs.readFileSync(recordPath,'utf8')),[published]);}
   if(old)atomicJson(path.join(root,`data/history/${old.id}-v${old.version||1}.json`),old);
   catalog.articles=catalog.articles.filter(a=>a.id!==article.id).concat(published);atomicJson(file,catalog);
   return published;
