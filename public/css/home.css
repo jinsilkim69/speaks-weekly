@@ -245,3 +245,11 @@ dialog{position:fixed;inset:0;width:100%;height:100dvh;max-width:none;max-height
 @media(max-width:700px){.publication-nav strong{font-size:21px}.publication-nav span{font-size:10px}.publication-nav>a{padding:16px 5px}.week-overview{display:block}.weekday-section{display:grid;grid-template-columns:55px 1fr;gap:0 15px;border-right:0;border-bottom:1px solid var(--line);padding:18px 0}.weekday-section:last-child{border-bottom:0}.weekday-section h3{grid-row:1/20;font-size:25px;margin:0}.weekday-section h3 small{display:block;margin:0}.weekday-empty br{display:none}.schedule-corner h4{font-size:16px}.schedule-title{font-size:14px}.schedule-corner .episode-actions{display:flex}.schedule-corner .episode-actions a{font-size:12px}.special-broadcasts{display:block}.special-broadcasts>h3{margin-bottom:17px}.special-broadcasts>div{display:block}.special-broadcasts .schedule-corner{margin-left:70px}.episode-card:only-child{display:block}}
 
 .review-period{font-size:17px;font-weight:700;margin:20px 0 5px}.schedule-date{line-height:1.8}.week-overview .weekday-section .episode-actions a{white-space:normal}
+
+/* Keep the way back to the original broadcast unmistakable. */
+.episode-actions a.watch-broadcast,.episode-links a.watch-broadcast{display:inline-flex;justify-content:center;align-items:center;gap:7px;min-height:44px;padding:10px 12px;border:1px solid var(--red);border-radius:2px;background:var(--red);color:#fff;font-size:12px;font-weight:700;line-height:1.5;text-decoration:none;max-width:100%;text-align:center}
+.episode-actions a.watch-broadcast:hover,.episode-links a.watch-broadcast:hover{background:#941720;border-color:#941720;text-decoration:none}
+.watch-broadcast .play-mark{font-size:11px;flex-shrink:0}.watch-broadcast>span:last-child{min-width:0;word-break:keep-all}
+.schedule-corner .episode-actions a.watch-broadcast{display:flex;width:100%;margin-top:9px;padding:10px 6px;gap:5px;font-size:12px;min-height:44px}
+@media(min-width:701px) and (max-width:1000px){.week-overview .episode-actions a.watch-broadcast{font-size:11px;padding:9px 4px;gap:4px}}
+@media(max-width:700px){.schedule-corner .episode-actions a.watch-broadcast{width:auto;margin-top:0;padding:10px 12px}.schedule-corner .episode-actions{gap:10px 20px;align-items:center}}
