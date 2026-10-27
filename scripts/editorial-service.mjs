@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {execFileSync} from 'node:child_process';
 import {contentHash,validateArticle,validateEdition} from './editorial-catalog.mjs';
 import {atomicJson,withLock} from './editorial-workflow.mjs';
 import {validateArticleVisuals} from './visual-policy.mjs';
@@ -50,6 +51,7 @@ export async function releaseEdition(root,edition){
   ready.pdfReview.structure=validateEdition(ready,root);
   const web=JSON.parse(fs.readFileSync(path.join(root,'data/web_articles.json'),'utf8')).articles;
   if(ready.articleSnapshots.every(a=>web.some(w=>contentHash(w)===contentHash(a))))throw Error('온라인 기사 그대로의 합본은 출고할 수 없습니다.');
+  execFileSync(process.env.SPEAKS_PYTHON||'python',['-X','utf8',path.join(import.meta.dirname,'render-cover.py'),path.join(root,'public',ready.pdfUrl),path.join(root,'public/images/editions',ready.id+'-cover.jpg')],{encoding:'utf8',windowsHide:true,timeout:30000});
   catalog.issues=catalog.issues.filter(i=>i.id!==ready.id).concat(ready);atomicJson(file,catalog);return ready;
  });
 }

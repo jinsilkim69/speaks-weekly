@@ -1,40 +1,53 @@
-const esc = value => String(value ?? '').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const safeUrl = value => /^https:\/\//.test(value || '') || /^\/(?!\/)/.test(value || '') ? esc(value) : '#';
-const inline = value => esc(value).replace(/\[([^\]]+)\]\((https:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
-const date = value => new Intl.DateTimeFormat('ko-KR',{timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(value));
-let articles = [], trigger, fontSize=18;
+const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeUrl=value=>/^https?:\/\//.test(value||'')||/^\/(?!\/)/.test(value||'')?esc(value):'#';
+const inline=value=>esc(value).replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,'<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
+const date=value=>new Intl.DateTimeFormat('ko-KR',{timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(value));
 const reader=document.getElementById('reader');
+let articles=[],trigger,fontSize=19,pageTitle=document.title;
 const imageLabels={'photo':'보도 사진','video-still':'방송 스틸','thumbnail':'원방송 썸네일','generated-illustration':'AI 생성 삽화','diagram':'설명 도표'};
-function visualFigure(v){return `<figure class="editorial-figure"><img src="${safeUrl(v.url)}" alt="${esc(v.alt)}" width="${Number(v.width)||1000}" height="${Number(v.height)||680}" loading="lazy"><figcaption><span class="visual-label">${esc(imageLabels[v.kind]||'자료 이미지')}</span> ${esc(v.caption)} · ${esc(v.credit)}${v.sourceUrl?` <a href="${safeUrl(v.sourceUrl)}" target="_blank" rel="noopener noreferrer">원출처 ↗</a>`:''}</figcaption></figure>`;}
-function figure(a){return visualFigure(a.visual);}
-function prose(a){return a.bodyParagraphs.map((p,i)=>(p.startsWith('## ')?`<h2>${esc(p.slice(3))}</h2>`:`<p>${inline(p)}</p>`)+(a.supportingVisuals||[]).filter(v=>v.afterParagraph===i).map(visualFigure).join('')).join('');}
-function watchImages(){document.querySelectorAll('img').forEach(img=>img.addEventListener('error',()=>{img.classList.add('image-failed');},{once:true}));}
+function visualFigure(v,{listing=false,eager=false}={}){return `<figure class="editorial-figure${listing?' listing-figure':''}"><img src="${safeUrl(v.url)}" alt="${esc(v.alt)}" width="${Number(v.width)||1000}" height="${Number(v.height)||680}" loading="${eager?'eager':'lazy'}"${eager?' fetchpriority="high"':''}><figcaption><span class="visual-label">${esc(imageLabels[v.kind]||'자료 이미지')}</span> ${esc(v.caption)} · ${esc(v.credit)}${v.sourceUrl?` <a href="${safeUrl(v.sourceUrl)}" target="_blank" rel="noopener noreferrer">원출처 ↗</a>`:''}</figcaption></figure>`;}
+const figure=(a,options)=>visualFigure(a.visual,options);
+const articleLink=(a,editionId)=>`${editionId?'/?edition='+encodeURIComponent(editionId):''}#article/${encodeURIComponent(a.id)}`;
+function prose(a){return a.bodyParagraphs.map((p,i)=>(p.startsWith('## ')?`<h2>${esc(p.slice(3))}</h2>`:`<p>${inline(p)}</p>`)+(a.supportingVisuals||[]).filter(v=>v.afterParagraph===i).map(v=>visualFigure(v)).join('')).join('');}
+function watchImages(){document.querySelectorAll('img').forEach(img=>{if(img.dataset.watched)return;img.dataset.watched='true';img.addEventListener('error',()=>{img.classList.add('image-failed');const notice=document.createElement('p');notice.className='image-unavailable';notice.textContent=img.closest('.issue-cover')?'표지 미리보기를 불러오지 못했습니다. 아래 링크에서 PDF를 열 수 있습니다.':'이미지를 불러오지 못했습니다. 기사 본문은 계속 읽을 수 있습니다.';img.after(notice);},{once:true});});}
+function progress(){const range=reader.scrollHeight-reader.clientHeight;document.getElementById('reading-progress-bar').style.width=(range>0?Math.max(0,Math.min(100,reader.scrollTop/range*100)):0)+'%';}
+reader.addEventListener('scroll',progress,{passive:true});
 function openArticle(id){
- const a=articles.find(x=>x.id===id);if(!a)return;
- trigger=document.activeElement;
- document.getElementById('article-content').innerHTML=`<span class="eyebrow">${esc(a.category)} / ${esc(a.genre)}</span><h1 id="article-title">${esc(a.title)}</h1><p class="subtitle">${esc(a.subtitle)}</p><p class="byline">${esc(a.author)} · ${date(a.publishedAt)}</p>${figure(a)}<div class="article-prose"><p class="article-lead">${inline(a.lead)}</p>${prose(a)}</div><aside class="source-box"><strong>출처와 검증 범위</strong><p>${esc(a.verificationNote)}</p>${a.sources.map(s=>`<a href="${safeUrl(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.label)} ↗</a>`).join('')}</aside>`;
+ const a=articles.find(x=>x.id===id);trigger=reader.open?trigger:document.activeElement;
+ const content=document.getElementById('article-content');
+ if(a){const reading=Math.max(1,Math.ceil((a.lead+a.bodyParagraphs.join('')).length/500));document.title=a.title+' | 주간 스픽스';content.innerHTML=`<span class="eyebrow">${esc(a.category)} · ${esc(a.genre)}</span><h1 id="article-title">${esc(a.title)}</h1><p class="subtitle">${esc(a.subtitle)}</p><p class="byline">${esc(a.author)}<br>입력 ${date(a.publishedAt)} · 읽는 데 약 ${reading}분</p>${figure(a,{eager:true})}<div class="article-prose"><p class="article-lead">${inline(a.lead)}</p>${prose(a)}</div><aside class="source-box"><strong>출처와 검증 범위</strong><p>${esc(a.verificationNote)}</p>${a.sources.map(s=>`<a href="${safeUrl(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.label)} ↗</a>`).join('')}</aside>`;}
+ else{document.title='기사를 찾을 수 없습니다 | 주간 스픽스';content.innerHTML='<div class="error" role="alert"><h1 id="article-title">기사를 찾을 수 없습니다</h1><p>기사 주소를 확인하거나 목록에서 다시 선택해 주세요.</p></div>';}
  if(!reader.open)reader.showModal();reader.scrollTop=0;document.body.style.overflow='hidden';
- document.getElementById('copy-status').textContent='';document.getElementById('close-reader').focus();watchImages();
+ const copy=content.querySelector('.article-prose');if(copy)fontSize=parseFloat(window.getComputedStyle(copy).fontSize)||fontSize;
+ progress();document.getElementById('copy-status').textContent='';document.getElementById('close-reader').focus();watchImages();
 }
 function closeArticle(){reader.close();history.replaceState(null,'',location.pathname+location.search);}
-document.getElementById('close-reader').onclick=closeArticle;
-reader.addEventListener('close',()=>{document.body.style.overflow='';trigger?.focus();});
+document.getElementById('close-reader').onclick=closeArticle;document.getElementById('bottom-close').onclick=closeArticle;
+reader.addEventListener('close',()=>{document.body.style.overflow='';document.title=pageTitle;trigger?.focus();});
 reader.addEventListener('cancel',()=>history.replaceState(null,'',location.pathname+location.search));
-document.getElementById('font-up').onclick=()=>{fontSize=Math.min(24,fontSize+1);reader.style.setProperty('--reading-size',`${fontSize}px`);};
-document.getElementById('font-down').onclick=()=>{fontSize=Math.max(16,fontSize-1);reader.style.setProperty('--reading-size',`${fontSize}px`);};
-document.getElementById('copy-link').onclick=async()=>{try{await navigator.clipboard.writeText(location.href);document.getElementById('copy-status').textContent='복사했습니다.';}catch{document.getElementById('copy-status').textContent='주소창의 기사 주소를 복사해 주세요.';}};
-function route(){if(location.hash.startsWith('#article/')){try{openArticle(decodeURIComponent(location.hash.slice(9)));}catch{}}else if(reader.open)reader.close();}
+document.getElementById('font-up').onclick=()=>{fontSize=Math.min(25,fontSize+1);reader.style.setProperty('--reading-size',fontSize+'px');progress();};
+document.getElementById('font-down').onclick=()=>{fontSize=Math.max(16,fontSize-1);reader.style.setProperty('--reading-size',fontSize+'px');progress();};
+document.getElementById('copy-link').onclick=async()=>{try{await navigator.clipboard.writeText(location.href);document.getElementById('copy-status').textContent='기사 주소를 복사했습니다.';}catch{document.getElementById('copy-status').textContent='주소창의 기사 주소를 복사해 주세요.';}};
+function route(){if(location.hash.startsWith('#article/')){try{openArticle(decodeURIComponent(location.hash.slice(9)));}catch{openArticle('');}}else if(reader.open)reader.close();}
 window.addEventListener('hashchange',route);
+function settleAnchor(){const id=location.hash.slice(1);if(['weekly','principles','articles','content'].includes(id)&&window.requestAnimationFrame)window.requestAnimationFrame(()=>document.getElementById(id)?.scrollIntoView());}
+const sectionLabel=category=>({'스픽스 레이다':'스픽스 레이다','커버스토리':'커버스토리 · 이슈 기획','이슈 기획':'커버스토리 · 이슈 기획','Who Speaks':'방송을 깊이 읽다','오피니언':'오피니언 · 월드','월드':'오피니언 · 월드','컬처·라이프':'컬처 · 지방시대','지방시대':'컬처 · 지방시대','자료 읽기':'컬처 · 지방시대'}[category]||category);
+function contents(items,editionId){const groups=new Map();for(const a of items){const name=sectionLabel(a.category);if(!groups.has(name))groups.set(name,[]);groups.get(name).push(a);}return `<div class="contents-grid">${[...groups].map(([name,list])=>`<section class="contents-section"><h3>${esc(name)}</h3>${list.map(a=>`<article class="contents-item">${a.visual.kind==='photo'?`<figure class="contents-photo"><a href="${articleLink(a,editionId)}"><img src="${safeUrl(a.visual.url)}" alt="${esc(a.visual.alt)}" width="${a.visual.width}" height="${a.visual.height}" loading="lazy"></a><figcaption>${esc(a.visual.credit)}</figcaption></figure>`:''}<h4><a href="${articleLink(a,editionId)}">${esc(a.title)}</a></h4><p>${esc(a.subtitle)}</p></article>`).join('')}</section>`).join('')}</div>`;}
+function issueCard(i){const published=i.status==='published';return `<article class="issue-card">${published?`<div class="issue-cover"><img src="/images/editions/${encodeURIComponent(i.id)}-cover.jpg" alt="주간 스픽스 ${esc(i.period)} 발행호 표지" width="595" height="842" loading="lazy"></div>`:'<div class="issue-fallback">주간 스픽스</div>'}<div class="issue-info"><span class="status">${published?'발행호':'편집 중'}</span><h3 class="issue-title">${esc(i.title)}</h3><p>대상 기간 ${esc(i.period)}</p>${published?`<p>발행 ${date(i.publishedAt)}${i.articleSnapshots?' · '+i.articleSnapshots.length+'개 기사':''} · 50페이지</p><div class="issue-actions"><a class="read-link" href="/?edition=${encodeURIComponent(i.id)}">웹으로 읽기 →</a><a class="read-link" href="${safeUrl(i.pdfUrl)}">PDF 보기 ↓</a></div>`:'<p>기사와 지면 검토를 마친 뒤 공개합니다.</p>'}</div></article>`;}
+async function loadIssueContents(edition){try{const res=await fetch(`/api/editions/${encodeURIComponent(edition.id)}.json`);if(!res.ok)throw Error('HTTP');const issue=await res.json();if(!Array.isArray(issue.articleSnapshots))return;document.getElementById('issue-contents').innerHTML='<h3 class="issue-index-label">이번 호에 실린 기사</h3>'+contents(issue.articleSnapshots,issue.id);watchImages();settleAnchor();}catch{document.getElementById('issue-contents').innerHTML='<p class="byline">목차를 불러오지 못했습니다. 위의 웹으로 읽기에서 주간호를 열어 주세요.</p>';}}
 async function load(){try{
- const editionId=new URLSearchParams(location.search).get('edition');
- if(editionId&&!/^[a-zA-Z0-9_-]{1,100}$/.test(editionId))throw Error('Invalid edition');
+ const editionId=new URLSearchParams(location.search).get('edition');if(editionId&&!/^[a-zA-Z0-9_-]{1,100}$/.test(editionId))throw Error('Invalid edition');
  const res=await fetch(editionId?`/api/editions/${encodeURIComponent(editionId)}.json`:'/api/home');if(!res.ok)throw Error('HTTP');const raw=await res.json();
- const data=editionId?{articles:raw.articleSnapshots,updatedAt:raw.publishedAt,editions:[raw]}:raw;articles=data.articles;
- if(editionId){document.title=raw.title+' | 주간 스픽스';document.querySelector('.edition-line > span').textContent=raw.title;}
- document.getElementById('updated').textContent=data.updatedAt?`최근 기사 게시 ${date(data.updatedAt)}`:'새 기사를 준비하고 있습니다.';
- const a=(editionId?articles.find(x=>x.id===raw.coverArticleId):null)||articles[0];document.getElementById('lead').innerHTML=a?`<div class="lead-story">${figure(a)}<div><span class="eyebrow">${esc(a.category)} / ${esc(a.genre)}</span><h1><a href="#article/${encodeURIComponent(a.id)}">${esc(a.title)}</a></h1><p class="subtitle">${esc(a.subtitle)}</p><p class="byline">${esc(a.author)} · ${date(a.publishedAt)}</p><a class="read-link" href="#article/${encodeURIComponent(a.id)}">분석 전문 읽기 →</a></div></div>`:'<p class="error">출고 검토를 마친 기사를 준비하고 있습니다.</p>';
- document.getElementById('more').className='more-grid';document.getElementById('more').innerHTML=articles.filter(x=>x.id!==a?.id).map(a=>`<article class="story-card">${figure(a)}<span class="eyebrow">${esc(a.category)}</span><h2><a href="#article/${encodeURIComponent(a.id)}">${esc(a.title)}</a></h2><p>${esc(a.subtitle)}</p></article>`).join('');
- document.getElementById('editions').innerHTML=data.editions.length?data.editions.map(i=>`<article class="issue-card"><span class="status">${i.status==='published'?'발행 완료':'편집 중'}</span><h3>${esc(i.title)}</h3><p>대상 기간 ${esc(i.period)}</p>${i.status==='published'?`<a class="read-link" href="/?edition=${encodeURIComponent(i.id)}">주간지 웹으로 읽기 →</a><br><a class="read-link" href="${safeUrl(i.pdfUrl)}">주간지 PDF 읽기 →</a>`:'<p>기사와 지면 검토를 마친 뒤 완성호를 공개합니다.</p>'}</article>`).join(''):'<p>첫 주간지를 준비하고 있습니다.</p>';
- watchImages();route();
- }catch(err){document.getElementById('lead').innerHTML='<div class="error" role="alert">기사를 불러오지 못했습니다. <button id="retry">다시 불러오기</button></div>';document.getElementById('updated').textContent='기사 연결 확인 필요';document.getElementById('retry').onclick=load;}}
+ const data=editionId?{articles:raw.articleSnapshots,updatedAt:raw.publishedAt,editions:[raw]}:raw;articles=data.articles;document.body.classList.toggle('weekly-mode',!!editionId);
+ if(editionId){document.title=raw.title+' | 주간 스픽스';document.getElementById('page-label').textContent='주간호 · '+raw.period;document.getElementById('weekly-heading').textContent='이 주간호 읽기';}
+ pageTitle=document.title;document.getElementById('updated').textContent=data.updatedAt?`${editionId?'발행':'최근 기사'} ${date(data.updatedAt)}`:'새 기사를 준비하고 있습니다.';
+ const a=(editionId?articles.find(x=>x.id===raw.coverArticleId):articles.find(x=>x.visual.kind==='generated-illustration'))||articles[0];
+ document.getElementById('lead').innerHTML=a?`<article class="lead-story">${figure(a,{listing:true,eager:true})}<div><span class="eyebrow">${esc(a.category)} · ${esc(a.genre)}</span><h1><a href="${articleLink(a)}">${esc(a.title)}</a></h1><p class="subtitle">${esc(a.subtitle)}</p><p class="byline">${date(a.publishedAt)} · 주간 스픽스 편집부</p>${!editionId?`<p class="story-summary">${esc(a.lead.length>175?a.lead.slice(0,175)+'…':a.lead)}</p>`:''}<a class="read-link" href="${articleLink(a)}">기사 읽기 →</a></div></article>`:'<p class="error">출고 검토를 마친 기사를 준비하고 있습니다.</p>';
+ const rest=articles.filter(x=>x.id!==a?.id);document.getElementById('more').innerHTML=rest.length?(editionId?'<h2 class="rail-heading">이 주간호의 다른 기사</h2>'+contents(rest):'<h2 class="rail-heading">함께 읽는 분석</h2>'+rest.map((a,i)=>`<article class="story-card">${i===0&&a.visual.kind!=='diagram'?figure(a,{listing:true}):''}<span class="eyebrow">${esc(a.category)}</span><h2><a href="${articleLink(a)}">${esc(a.title)}</a></h2><p>${esc(a.subtitle)}</p><span class="byline">${date(a.publishedAt)}</span></article>`).join('')):'';
+ document.getElementById('more').hidden=!rest.length;
+ const editions=[...data.editions].sort((a,b)=>(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0));
+ const latest=editions.find(i=>i.status==='published'),featured=latest||editions[0],archive=editions.filter(i=>i.status==='published'&&i.id!==latest?.id);
+ document.getElementById('editions').innerHTML=featured?issueCard(featured)+(archive.length?`<details class="issue-archive"><summary>이전 발행호 ${archive.length}개</summary>${archive.map(i=>`<a href="/?edition=${encodeURIComponent(i.id)}">${esc(i.period)} · ${esc(i.title)}</a>`).join('')}</details>`:''):'<p>첫 주간지를 준비하고 있습니다.</p>';
+ if(!editionId&&latest)void loadIssueContents(latest);watchImages();route();settleAnchor();
+ }catch{document.getElementById('lead').innerHTML='<div class="error" role="alert">기사를 불러오지 못했습니다. <button id="retry">다시 불러오기</button></div>';document.getElementById('updated').textContent='기사 연결 확인 필요';document.getElementById('retry').onclick=load;}}
 load();

@@ -22,7 +22,8 @@
     "check:transcription": "node scripts/check-transcription.mjs",
     "edition:build": "node scripts/build-edition.mjs",
     "check:edition": "node scripts/check-edition.mjs",
-    "check:readiness": "node scripts/check-readiness.mjs"
+    "check:readiness": "node scripts/check-readiness.mjs",
+    "check:site": "node scripts/check-site.mjs"
   },
   "publisher": {
     "name": "도서출판 아우내",

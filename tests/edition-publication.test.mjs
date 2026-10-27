@@ -34,6 +34,8 @@ test('real 50-page PDF, content binding, proof rejection and immutable release',
  assert.throws(()=>validateEdition(ready,root),/검사 실패/);
  fs.copyFileSync(result.output,fake);ready.pdfReview.sha256=sha256(fs.readFileSync(fake));
  await releaseEdition(root,ready);assert.equal(readPublishedEdition(root,ready.id).articleSnapshots.length,14);
+ const cover=fs.readFileSync(path.join(root,'public/images/editions',ready.id+'-cover.jpg'));
+ assert.equal(cover.readUInt16BE(0),0xffd8);assert.ok(cover.length>1000);
  // Static deployment must use the released snapshot and exclude an unpublished proof.
  for(const folder of ['public','scripts'])fs.cpSync(new URL('../'+folder,import.meta.url),path.join(root,folder),{recursive:true});
  fs.copyFileSync(new URL('../package.json',import.meta.url),path.join(root,'package.json'));
