@@ -1,0 +1,16 @@
+{
+  "createdAt": "2026-10-27T02:37:32.839Z",
+  "tool": "OpenAI built-in image_gen",
+  "assets": [
+    {
+      "path": "/images/grid-costs-editorial-v1.png",
+      "prompt": "Create a sophisticated original editorial illustration for a Korean serious current-affairs weekly magazine, landscape 3:2. Topic: who bears the costs and risks of AI electricity infrastructure. Tactile layered cut paper collage with fine grain, architectural precision, navy charcoal and warm ivory with restrained electric ochre and muted teal. A large anonymous data center on the upper right plateau emits soft light; thin power lines traverse a countryside and branch toward modest homes and a small community on the left. A physical paper ribbon suggesting an unmarked invoice winds from the server building to the village, with several hands carefully holding different portions rather than crushing anyone. Show shared infrastructure and unequal burdens, with no villains, no real people or politician likenesses, no statistics or words, no corporate logos, no literal scales or generic parliament imagery. Elegant restrained magazine art, strong composition, generous quiet space, no photorealistic claim, not a diagram. Produce a high-resolution finished illustration suitable for a half-page print feature and website lead image.",
+      "review": "생성 결과를 실제 확인. 개념 삽화이며 실제 시설·인물로 제시하지 않음. 글자·수치·로고 없음."
+    },
+    {
+      "path": "/images/neighbourhood-art-editorial-v1.png",
+      "prompt": "Original editorial illustration for a thoughtful Korean current affairs and culture weekly, landscape 3:2. A quiet lived-in neighborhood street becomes a shared open-air art space: restrained architectural collage of a small community building, everyday homes, a gently curving accessible walkway, a simple abstract sculpture and a large hanging canvas; diverse anonymous residents of different ages, including one wheelchair user and a caregiver with a child, engage with the art and one another. Tactile cut paper, printmaking textures, warm ivory, brick red, muted jade, deep navy shadows, generous breathable composition, sophisticated art direction. Conceptual place, not an actual depiction of Amsa-dong or any documented event. Do not use real artworks or recognizable artist styles, logos, text, lettering, statistics, banners, or photorealism. Convey cultural access, neighborhood participation, and shared public space, without advertising excitement.",
+      "review": "생성 결과를 실제 확인. 익명 주민과 공유 공간을 표현한 개념 삽화이며 실제 행사 사진으로 제시하지 않음."
+    }
+  ]
+}

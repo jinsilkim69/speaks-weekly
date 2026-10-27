@@ -55,7 +55,7 @@ node scripts/editorial-cli.mjs publish 출고.json
 
 로컬 출고 후 npm test, npm run build, 브라우저 확인과 GitHub 푸시를 거쳐 공개 사이트를 확인합니다. 원시 근거·음성·비밀정보는 커밋하지 않습니다. 기존 publish:agent는 레거시 지면 미리보기용입니다.
 
-주간호 출고는 release-edition 명령으로 별도 처리하며 14개 원고 스냅샷, 주간 재편집 기록, 실제 PDF와 일치하는 50페이지·시각 검수 기록이 필요합니다. 발행 후 수정은 새 정정판 ID를 사용합니다. PDF 조판과 구조 검사는 구현했습니다. 정기 AI 인계·예약 실행과 실제 완성호 집필은 아직 남아 있으며 미완성호를 발행 완료로 표시하지 않습니다.
+주간호 출고는 release-edition 명령으로 별도 처리하며 14개 원고 스냅샷, 주간 재편집 기록, 실제 PDF와 일치하는 50페이지·시각 검수 기록이 필요합니다. 발행 후 수정은 새 정정판 ID를 사용합니다. PDF 조판과 구조 검사는 구현했습니다. 정기 제작은 이 채팅의 일정으로 등록했으며 docs/recurring-production.md를 따릅니다. 첫 실제 14개 꼭지·50면호를 집필·검수·출고했고, 미완성호를 발행 완료로 표시하지 않습니다.
 
 
 ## 실제 PDF 조판과 출고
@@ -73,3 +73,8 @@ node scripts/editorial-cli.mjs publish 출고.json
 `npm run check:edition`은 **시스템 시험용 50페이지 PDF**를 생성합니다. 테스트 문단과 반복 이미지를 사용하므로 완성 주간지가 아니며, PDF 내부 표식으로 출고를 차단합니다. 파일은 output 아래에만 두며 Git/정적 배포에서 제외합니다.
 
 `npm run check:readiness` 또는 인자 없는 `npm run pipeline`은 실제 기사 수·발행호 수·수집 상태·남은 작업을 표시합니다. 제작 대기를 발행 완료로 보고하지 않습니다. 기존 `publish:agent`, `/magazine`, `/admin`은 레거시 미리보기 경로이며 새 출고 절차를 대신하지 않습니다.
+
+
+## 구독 AI 집필 실행
+
+`node scripts/claude-desk.mjs 요청.json`을 사용합니다. 요청에는 id, articleIds, 실제 원문과 집필 스킬을 포함한 prompt가 필요합니다. Claude 구독 로그인만 허용하며 API 인증 환경변수는 자식 프로세스에서 제외합니다. 작업 기록과 원고는 data/production에 보존하고 Git에서는 제외합니다. 성공한 동일 요청은 재사용하며 실패는 원인과 시도를 기록합니다. 반환 원고는 검토 전 초고이며 자동 출고하지 않습니다. Gemini 구독 웹 앱은 에이전트가 CUA로 사용하고 지연·한도 발생 시 실제 실패와 대행자를 기록합니다.

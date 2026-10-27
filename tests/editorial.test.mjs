@@ -56,3 +56,23 @@ test('weekly web reader uses the released snapshot, not the current homepage cop
   assert.match(dom.window.document.title,/발행 주간호/);
  }finally{dom.window.close();}
 });
+
+test('all fourteen articles of the real released issue open with full copy and image credits',async()=>{
+ const issue=JSON.parse(fs.readFileSync(new URL('../data/editions.json',import.meta.url),'utf8')).issues.find(i=>i.status==='published');
+ assert.equal(issue.articleSnapshots.length,14);
+ const dom=new JSDOM(fs.readFileSync(new URL('../public/index.html',import.meta.url),'utf8'),{url:'https://example.com/?edition='+issue.id,runScripts:'outside-only'});
+ try{
+  dom.window.HTMLDialogElement.prototype.showModal=function(){this.setAttribute('open','');};
+  dom.window.HTMLDialogElement.prototype.close=function(){this.removeAttribute('open');this.dispatchEvent(new dom.window.Event('close'));};
+  dom.window.fetch=async()=>({ok:true,json:async()=>issue});dom.window.eval(fs.readFileSync(new URL('../public/js/home.js',import.meta.url),'utf8'));
+  await new Promise(r=>setTimeout(r,30));
+  for(const a of issue.articleSnapshots){
+   dom.window.location.hash='#article/'+a.id;dom.window.dispatchEvent(new dom.window.Event('hashchange'));
+   assert.equal(dom.window.document.querySelector('#article-title').textContent,a.title);
+   assert.ok(dom.window.document.querySelector('.article-prose').textContent.length>1200,a.id);
+   assert.ok(dom.window.document.querySelector('#article-content figcaption').textContent.includes(a.visual.credit));
+   assert.equal(dom.window.document.querySelectorAll('.source-box a').length,a.sources.length);
+   dom.window.document.querySelector('#close-reader').click();
+  }
+ }finally{dom.window.close();}
+});

@@ -22,23 +22,31 @@ def article(url):
     datetime.fromisoformat(published)
     body=soup.select_one('#article-view-content-div')
     if not body: raise ValueError('기사 본문이 없습니다.')
+    embedded=[urllib.parse.urljoin(url,t.get('src','')) for t in body.select('iframe[src]') if urllib.parse.urljoin(url,t.get('src','')).startswith('https://')]
     for tag in body.select('script,style,iframe'): tag.decompose()
     paragraphs=[p.get_text(' ',strip=True) for p in body.select('p') if p.get_text(' ',strip=True)]
     if not paragraphs: paragraphs=[body.get_text(' ',strip=True)]
-    links=[{'label':a.get_text(' ',strip=True),'url':urllib.parse.urljoin(url,a['href'])} for a in body.select('a[href]') if urllib.parse.urljoin(url,a['href']).startswith('https://')]
+    links=[{'label':a.get_text(' ',strip=True),'url':urllib.parse.urljoin(url,a['href'])} for a in body.select('a[href]') if urllib.parse.urljoin(url,a['href']).startswith(('https://','http://'))]
     ident=urllib.parse.parse_qs(urllib.parse.urlparse(url).query).get('idxno',[''])[0]
     if not ident.isdigit(): raise ValueError('기사 번호가 없습니다.')
-    return {'id':'web-'+ident,'kind':'web','title':meta('og:title'),'url':url,'publishedAt':published,'thumbnail':meta('og:image'),'paragraphs':paragraphs,'text':'\n'.join(paragraphs),'links':links,'needsOriginal':len(''.join(paragraphs))<350,'collectedAt':datetime.now().astimezone().isoformat()}
+    text='\n'.join(paragraphs)
+    summary='AI로 요약한' in text
+    return {'id':'web-'+ident,'kind':'web','title':meta('og:title'),'url':url,'publishedAt':published,'thumbnail':meta('og:image'),'paragraphs':paragraphs,'text':text,'links':links,'embeddedVideos':embedded,'sourceType':'publisher-ai-summary' if summary else 'publisher-web-article','accessScope':'신문 본문만 확인; 원방송 음성·화면 접근을 뜻하지 않음','needsOriginal':len(''.join(paragraphs))<350 or '기사 전문을 보시려면' in text,'collectedAt':datetime.now().astimezone().isoformat()}
 
 def discover(pages):
     seen=set()
     for page in range(1,pages+1):
         soup=fetch(f'https://www.speaks.kr/news/articleList.html?view_type=sm&page={page}')
+        added=0
         for a in soup.select('a[href*="articleView.html?idxno="]'):
             url=urllib.parse.urljoin('https://www.speaks.kr/',a['href'])
             if url not in seen:
                 seen.add(url)
+                added+=1
                 yield {'url':url,'title':a.get_text(' ',strip=True)}
+        if page>1 and added==0:
+            print(f'DISCOVERY_WARNING: page {page} returned no new article links; pagination may be ignored.',file=sys.stderr)
+            break
 
 if __name__=='__main__':
     parser=argparse.ArgumentParser(); parser.add_argument('--url');parser.add_argument('--pages',type=int,default=2)

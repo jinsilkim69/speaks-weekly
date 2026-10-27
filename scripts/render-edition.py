@@ -25,6 +25,7 @@ args=parser.parse_args()
 issue=json.loads(Path(args.input).read_text(encoding='utf-8-sig'))
 font=os.environ.get('SPEAKS_KOREAN_FONT',str(Path(os.environ.get('WINDIR','C:/Windows'))/'Fonts/malgun.ttf'))
 pdfmetrics.registerFont(TTFont('Korean',font))
+pdfmetrics.registerFont(TTFont('Malgun Gothic',font))
 W,H=A4
 body=ParagraphStyle('body',fontName='Korean',fontSize=10.5,leading=17,wordWrap='CJK',spaceAfter=9)
 small=ParagraphStyle('small',parent=body,fontSize=8,leading=12)
@@ -51,6 +52,24 @@ def frame(items,x,y,width,height):
     Frame(x,y,width,height,leftPadding=0,rightPadding=0,topPadding=0,bottomPadding=0).addFromList(pending,c)
     return pending
 
+def columns(items):
+    width=(W-102)/2; height=H-102
+    sizes=[f.wrap(width,height)[1]+f.getSpaceBefore()+f.getSpaceAfter() for f in items]
+    candidates=[]
+    for cut in range(1,len(items)):
+        # A heading belongs with the paragraph that follows it.
+        if isinstance(items[cut-1],Paragraph) and items[cut-1].style.name=='sub': continue
+        left=sum(sizes[:cut]); right=sum(sizes[cut:])
+        if max(left,right)<=height: candidates.append((abs(left-right),cut))
+    if not candidates:
+        if sum(sizes)<=height:
+            if frame(items,42,48,width,height): raise ValueError(f'Page {page_no}: column overflow')
+            return
+        raise ValueError(f'Page {page_no}: overflow; revise paragraph distribution')
+    cut=min(candidates)[1]
+    if frame(items[:cut],42,48,width,height) or frame(items[cut:],60+width,48,width,height):
+        raise ValueError(f'Page {page_no}: column overflow; revise copy')
+
 def full(items,label):
     begin(label)
     if frame(items,42,48,W-84,H-102):
@@ -58,13 +77,16 @@ def full(items,label):
     c.showPage()
 
 def local_image(v,x,y,width,height):
+    if v.get('printMaxWidthMm'):
+        capped=min(width,float(v['printMaxWidthMm'])*72/25.4)
+        x+=(width-capped)/2; width=capped
     p=(Path(args.root)/'public'/v['url'].lstrip('/')).resolve()
     p.relative_to((Path(args.root)/'public').resolve())
     if p.suffix.lower()=='.svg':
         d=svg2rlg(str(p))
         if d is None: raise ValueError('Unreadable SVG: '+str(p))
         scale=min(width/d.width,height/d.height); d.scale(scale,scale)
-        renderPDF.draw(d,c,x,y+height-d.height*scale)
+        renderPDF.draw(d,c,x+(width-d.width*scale)/2,y+height-d.height*scale)
     else:
         c.drawImage(str(p),x,y,width=width,height=height,preserveAspectRatio=True,anchor='c',mask='auto')
 
@@ -84,7 +106,12 @@ def chunks(paragraphs,n):
 counts=[2,2,2,5,5,4,4,4,4,4,3,3,2,2]
 if len(issue['articleSnapshots'])!=14: raise ValueError('14 articles required')
 if not issue.get('introduction'): raise ValueError('Publisher introduction required')
-full([paragraph('주간 스픽스',heading),paragraph(issue['title'],heading),paragraph('더 나은 세상을 만드는 정치·시사·문화 주간지',sub),Spacer(1,25),paragraph(issue['articleSnapshots'][0]['title'],heading),paragraph(issue['articleSnapshots'][0]['lead']),Spacer(1,35),paragraph('도서출판 아우내',sub)],'표지')
+cover=next((a for a in issue['articleSnapshots'] if a['id']==issue.get('coverArticleId')),issue['articleSnapshots'][0])
+begin('표지')
+if frame([paragraph('주간 스픽스',heading),paragraph(issue['title'],heading),paragraph('더 나은 세상을 만드는 정치·시사·문화 주간지',small)],42,H-225,W-84,175): raise ValueError('Cover headline overflow')
+local_image(cover['visual'],42,260,W-84,320)
+if frame([paragraph(cover['visual']['caption']+' · '+cover['visual']['credit'],small),Spacer(1,10),paragraph(cover['lead']),Spacer(1,12),paragraph('도서출판 아우내',small)],42,48,W-84,200): raise ValueError('Cover lead overflow')
+c.showPage()
 full([paragraph('발행인의 말',heading)]+[paragraph(p) for p in issue['introduction']],'발행인의 말')
 start=5; toc=[paragraph('목차',heading)]
 for a,count in zip(issue['articleSnapshots'],counts):
@@ -94,6 +121,8 @@ full([paragraph('판권 및 읽기 안내',heading),paragraph('발행·제작: �
 
 for a,count in zip(issue['articleSnapshots'],counts):
     groups=chunks(a['bodyParagraphs'],count-1)
+    for g in range(len(groups)-1):
+        if groups[g][-1].startswith('## '): groups[g+1].insert(0,groups[g].pop())
     begin(a['title'])
     top=[paragraph(a['title'],heading),paragraph(a.get('subtitle',''),sub),paragraph(a.get('author','주간 스픽스 편집부'),small)]
     if frame(top,42,H-230,W-84,180): raise ValueError('Article title overflow')
@@ -124,12 +153,9 @@ for a,count in zip(issue['articleSnapshots'],counts):
             flow += [paragraph('출처와 검증 범위',sub),paragraph(a.get('verificationNote',''),small)]
             for source in a['sources']:
                 flow.append(Paragraph(f'<link href="{escape(source["url"], {chr(34): "&quot;"})}" color="#17333f">{escape(source["label"])}</link>',small))
-            widget=qr.QrCodeWidget(a['sources'][0]['url']); bounds=widget.getBounds(); scale=65/(bounds[2]-bounds[0])
-            drawing=Drawing(65,65,transform=[scale,0,0,scale,0,0]); drawing.add(widget); flow.append(drawing)
-        col=(W-102)/2
-        pending=frame(flow,42,48,col,H-102)
-        pending=frame(pending,60+col,48,col,H-102)
-        if pending: raise ValueError(f'Article {a["id"]}, page {page_no}: overflow; revise copy or paragraph distribution')
+            widget=qr.QrCodeWidget(a['sources'][0]['url']); bounds=widget.getBounds(); scale=90/(bounds[2]-bounds[0])
+            drawing=Drawing(90,90,transform=[scale,0,0,scale,0,0]); drawing.add(widget); flow.append(drawing)
+        columns(flow)
         c.showPage()
 
 c.save()

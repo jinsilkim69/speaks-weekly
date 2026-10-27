@@ -37,7 +37,7 @@ export async function prepare({mode='daily',asOf,root=ROOT,refresh=false}={}){
   const previous=fs.existsSync(file)?JSON.parse(fs.readFileSync(file,'utf8')):null;
   if(previous&&!refresh&&!previous.errors?.length)return previous;
   const results=await Promise.allSettled([
-   exec('yt-dlp',['--flat-playlist','--playlist-end','100','--dump-single-json','https://www.youtube.com/@SPEAKS_TV/videos'],{windowsHide:true,timeout:120000,maxBuffer:12*1024*1024}),
+   exec('yt-dlp',['--flat-playlist','--playlist-end','300','--dump-single-json','https://www.youtube.com/@SPEAKS_TV/videos'],{windowsHide:true,timeout:120000,maxBuffer:12*1024*1024}),
    exec('python',['-X','utf8',path.join(ROOT,'scripts/collect-news.py'),'--pages','3'],{windowsHide:true,timeout:120000,maxBuffer:4*1024*1024})
   ]);
   const candidates=[],errors=[];
@@ -47,8 +47,9 @@ export async function prepare({mode='daily',asOf,root=ROOT,refresh=false}={}){
   if(results[1].status==='fulfilled')for(const x of JSON.parse(results[1].value.stdout)){
    const id=new URL(x.url).searchParams.get('idxno');if(/^\d+$/.test(id))candidates.push({id:`web-${id}`,kind:'web',title:x.title,url:x.url,state:'discovered',attempts:0});
   }else errors.push({stage:'news-discovery',message:results[1].reason.message});
-  const merged=new Map(candidates.map(x=>[x.id,x]));for(const item of previous?.candidates||[])merged.set(item.id,item);
-  const job={id,period,state:errors.length?'discovery-partial':previous?.state||'awaiting-selection',createdAt:previous?.createdAt||new Date().toISOString(),updatedAt:new Date().toISOString(),errors,candidates:[...merged.values()],articleIds:previous?.articleIds||[],steps:previous?.steps||[]};atomicJson(file,job);return job;
+  const merged=new Map(candidates.map(x=>[x.id,x]));for(const item of previous?.candidates||[]){const fresh=merged.get(item.id);merged.set(item.id,fresh?{...item,...fresh,state:item.state,attempts:item.attempts,error:item.error}:item);}
+  const warnings=results[1].status==='fulfilled'&&results[1].value.stderr?.includes('DISCOVERY_WARNING:')?[{stage:'news-pagination',message:results[1].value.stderr.trim().slice(0,1000)}]:[];
+  const job={id,period,state:errors.length?'discovery-partial':previous?.state||'awaiting-selection',createdAt:previous?.createdAt||new Date().toISOString(),updatedAt:new Date().toISOString(),errors,warnings,candidates:[...merged.values()],articleIds:previous?.articleIds||[],steps:previous?.steps||[]};atomicJson(file,job);return job;
  });
 }
 export async function collectJob(id,selected,{root=ROOT,retry=false}={}){

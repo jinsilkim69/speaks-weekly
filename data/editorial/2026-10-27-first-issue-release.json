@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-26",
+  "publishedAt": "2026-10-27T03:04:36.364Z",
+  "articles": 14,
+  "pages": 50,
+  "sha256": "2a79fed5481bab8198f4debd5e145469b7dda8dc3b06e543d71841ce12fe0350",
+  "qrChecks": 14,
+  "missingParagraphs": 0,
+  "outOfBoundsText": 0,
+  "writing": "Claude 구독 CLI 실제 집필",
+  "desk": "GPT 원문 대조·퇴고·시각 검수",
+  "gemini": "방송 링크 요청 지연으로 완료 응답을 받지 못해 GPT가 확보 원문 분석을 대행함. Gemini 완료로 기록하지 않음."
+}

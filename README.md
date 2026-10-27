@@ -14,7 +14,7 @@ npm start
 ## 제작 흐름
 
 1. `npm run editorial:prepare -- weekly`로 후보를 발견하고 `npm run editorial:collect -- JOB SOURCE...`로 선택한 원문을 수집합니다. 일간 작업에는 daily를 사용합니다.
-2. 원문에 접근한 범위를 기록하며 Gemini가 분석 자료를 정리하고, Claude가 집필·교열하며 GPT가 시각 자료와 편집 검수를 담당합니다. 구독 서비스의 정기 무인 인계는 아직 미완성입니다. API 키를 요구하지 않습니다.
+2. 원문에 접근한 범위를 기록하며 Gemini가 분석 자료를 정리하고, Claude가 집필·교열하며 GPT가 시각 자료와 편집 검수를 담당합니다. 구독 연결 실패를 기록하고 확보 원문을 내장 GPT가 대행하는 정기 제작 절차를 등록했습니다. API 키를 요구하지 않습니다.
 3. 프로젝트 집필 스킬 `skills/speaks-weekly-writing/SKILL.md`를 적용합니다. 홈페이지 원고는 editorial save → review → publish로 출고합니다. 검토 뒤 변경한 원고와 이미지에는 재검토가 필요합니다.
 4. 주간호는 검토된 14개 꼭지와 발행인의 말을 준비하고 `npm run edition:build -- 주간호.json`으로 A4 50페이지를 조판합니다. `python -m pip install -r requirements-publishing.txt`와 한국어 글꼴이 필요합니다.
 5. 실제 PDF 시각 검수 후 `npm run editorial -- release-edition 검수완료.json`으로 출고합니다. 웹 주간지는 `/?edition=호ID`에서 발행 당시 원고를 보여줍니다.
@@ -29,6 +29,8 @@ npm start
 - `npm run check:readiness`: 실제 발행 수와 미완료 작업. 인자 없는 pipeline도 동일한 상태 점검을 하며 발행을 실행하지 않습니다.
 - `npm run check:transcription`: 실제 방송 1분 구간의 음성 인식 통합 시험.
 
-현재 실제 공개 기사는 1건, 완성 주간호는 0개입니다. PDF 생성과 발행 검증 기능이 있어도 실제 14개 기사 집필·지면 검수를 마친 것은 아닙니다. 정기 AI 인계·예약 실행, 방송 자동 선별, 스틸/Heatmap 추출도 남아 있습니다. 프로그램 테스트와 실제 편집 품질 검수는 별개입니다.
+현재 홈페이지 기사 3건과 실제 14개 꼭지·50페이지 발행호 1개가 있습니다. 첫 호의 원고는 약 4만 자이며 전 면 렌더링·원고 누락·지면 경계·QR 14개 원출처 일치를 검사했습니다. 일간 09·15·18시, 일요일18시 마감, 월요일06시 발행의 채팅 정기 실행 3개를 등록했습니다. 첫 예약 시각의 실제 실행 결과는 별도 확인해야 합니다. Gemini의 방송 링크 분석은 이번 실행에서 지연되어 GPT가 확보 원문 분석을 대행했고, Claude 구독 CLI가 실제 집필했습니다. 스틸/Heatmap 추출과 월간 POD·숏폼은 향후 확장 기능입니다. 프로그램 테스트와 실제 편집 품질 검수는 별개입니다.
 
 기존 `/magazine`, `/admin`, `publish:agent`, `pipeline --demo`는 레거시 미리보기·테스트용입니다. 새 홈페이지·주간호 출고 절차를 대신하지 않습니다. 공개 홈페이지는 Cloudflare에서 제공되므로 제작 PC를 꺼도 이미 게시된 콘텐츠는 열립니다.
+
+정기 실행은 현재 PC와 앱이 켜져 있을 때 동작합니다. [반복 제작 지침](docs/recurring-production.md)에 중복 방지·실패 복구·미완성호 보류·알림 기준을 기록했습니다. 공개 PDF는 `/editions/2026-10-26.pdf`, 웹 주간호는 `/?edition=2026-10-26`입니다.

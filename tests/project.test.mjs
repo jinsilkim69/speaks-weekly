@@ -78,6 +78,10 @@ test('isolated pipeline, static export and HTTP save/error handling', async () =
     });
     const base = `http://127.0.0.1:${ready}`;
     for (const endpoint of ['/', '/magazine', '/admin', '/api/issue', '/js/vendor/qrcode.mjs']) assert.equal((await fetch(base + endpoint)).status, 200);
+    const published=JSON.parse(fs.readFileSync(path.join(sandbox,'data/editions.json'),'utf8')).issues.find(i=>i.status==='published');
+    const weekly=await fetch(base+'/api/editions/'+published.id+'.json');assert.equal(weekly.status,200);assert.equal((await weekly.json()).articleSnapshots.length,14);
+    const pdf=await fetch(base+published.pdfUrl);assert.equal(pdf.status,200);assert.equal(pdf.headers.get('content-type'),'application/pdf');assert.ok((await pdf.arrayBuffer()).byteLength>100000);
+    assert.equal((await fetch(base+'/api/editions/missing.json')).status,404);
     const post = (body, headers = {}) => fetch(base + '/api/issue/save', { method: 'POST', headers: { 'Content-Type': 'application/json', ...headers }, body });
     assert.equal((await post('{')).status, 400);
     assert.equal((await post('null')).status, 400);

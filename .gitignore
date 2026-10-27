@@ -13,3 +13,5 @@ data/weekly-collection-result.json
 **/__pycache__/
 output/
 tmp/
+data/production/
+data/operations/
