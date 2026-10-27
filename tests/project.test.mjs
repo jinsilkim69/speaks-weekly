@@ -55,7 +55,7 @@ test('isolated pipeline, static export and HTTP save/error handling', async () =
   let child;
   try {
     for (const item of ['server.mjs', 'package.json', 'scripts', 'public', 'data']) {
-      fs.cpSync(path.join(root, item), path.join(sandbox, item), { recursive: true });
+      fs.cpSync(path.join(root, item), path.join(sandbox, item), { recursive: true, filter:src=>!path.basename(src).startsWith('.youtube-temp-') && path.basename(src)!=='.editorial.lock' });
     }
     // Cleanup must preserve source material not owned by the pipeline.
     fs.writeFileSync(path.join(sandbox, 'data/transcript.txt'), 'user transcript');

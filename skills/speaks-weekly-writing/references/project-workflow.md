@@ -10,8 +10,8 @@
 
 1. `data/research/`의 실제 구조화 자료를 읽고, 집필·퇴고한다. 원시 임시 파일은 추출 후 정리하되 다른 작업의 원본은 삭제하지 않는다.
 2. 검토용 초고와 편집 기록은 `data/editorial/`에 둔다. 사용자에게 보여줄 원고와 편집 기록을 분리한다.
-3. 발행 요청 시 `scripts/publish-agent-issue.mjs`의 최신 스키마를 확인한다. 현재 입력은 `data/agent_articles.json`의 articles 배열이며 slot, sourceId, title, subtitle, lead, bodyParagraphs, evidence(start/end/label), verificationNote를 사용한다.
-4. 현재 importer는 YouTube 자막 자료만 받는다. 웹 기사를 가짜 영상 ID로 통과시키지 않는다. 웹 지원을 구현하지 않았다면 초고로 전달하고 제약을 밝힌다.
+3. 홈페이지는 `scripts/editorial-cli.mjs`의 save → review → publish 경로 또는 `/editorial.html`에서 출고한다. `docs/editorial-operations.md`의 최신 스키마를 확인한다. `publish-agent-issue.mjs`는 레거시 주간지 미리보기용이다.
+4. 웹 기사는 `collect-news.py`로 본문·입력일·원문 링크를 수집한다. 자막이 없는 방송은 수집기가 한국어 원음을 로컬 전사한다. 전사문은 미검토 근거이며 화자·인명·수치·부정어·직접 인용을 원음 대조한다. 화면 도표가 핵심인 경우 해당 화면도 확인한다. 자막·음성을 확보하지 못하면 제목으로 내용을 지어내지 않는다.
 5. 원고 작성·검토 요청만으로 공개 사이트를 바꾸지 않는다. 이미 발행이 승인된 작업은 그 범위에 따라 진행한다. 스킬 검증용 원고는 공개 발행과 분리한다.
 
 ## 설계 참고 출처

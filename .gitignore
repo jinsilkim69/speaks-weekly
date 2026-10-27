@@ -6,3 +6,8 @@ node_modules/
 data/.youtube-temp-*/
 data/*.tmp
 data/research/
+data/jobs/
+data/.editorial.lock
+data/weekly-discovery.json
+data/weekly-collection-result.json
+**/__pycache__/

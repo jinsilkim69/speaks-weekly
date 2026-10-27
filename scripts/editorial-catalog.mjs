@@ -6,14 +6,14 @@ export const contentHash = article => createHash('sha256').update(JSON.stringify
 
 // Mechanical checks support a recorded editorial decision; they do not score prose quality.
 export function validateArticle(article) {
-  if (!article?.id || !article.title || !article.lead || !Array.isArray(article.bodyParagraphs) || !article.bodyParagraphs.length) throw new Error('기사 본문이 필요합니다.');
+  if (!/^[a-zA-Z0-9_-]{1,100}$/.test(article?.id||'') || typeof article.title!=='string' || !article.title.trim() || typeof article.lead!=='string' || !article.lead.trim() || !Array.isArray(article.bodyParagraphs) || !article.bodyParagraphs.length || article.bodyParagraphs.some(p=>typeof p!=='string'||!p.trim())) throw new Error('기사 본문이 필요합니다.');
   if (!article.sources?.length || article.sources.some(s => !/^https:\/\//.test(s.url) || !s.label)) throw new Error('기사 출처가 필요합니다.');
   const review = article.review;
   if (review?.status !== 'approved' || review.contentHash !== contentHash(article) || !review.summary || !review.reviewedAt) throw new Error('현재 원고에 대한 편집 검토가 필요합니다.');
   for (const field of ['evidence','analysis','counterargument','language','visual']) {
     if (!review[field]?.trim()) throw new Error(`편집 검토 누락: ${field}`);
   }
-  if (!article.visual?.alt || !article.visual?.caption || !article.visual?.credit) throw new Error('이미지 설명과 출처가 필요합니다.');
+  if (!article.visual?.alt || !article.visual?.caption || !article.visual?.credit || !/^(https:\/\/|\/(?!\/))/.test(article.visual?.url||'')) throw new Error('이미지 설명과 출처가 필요합니다.');
   if (!Number.isFinite(Date.parse(article.publishedAt))) throw new Error('실제 기사 게시 시각이 필요합니다.');
   return article;
 }
@@ -28,7 +28,8 @@ export function readHomeCatalog(root) {
     validateEdition(issue, root);
     if (issue.articleSnapshots.every(a=>articles.some(web=>contentHash(web)===contentHash(a)))) throw new Error('주간지는 온라인 기사 합본과 구별되는 재편집이 필요합니다.');
   }
-  return { articles, updatedAt:articles[0]?.publishedAt || null, editions:editions.issues.map(({id,title,status,period,pdfUrl,publishedAt})=>({id,title,status,period,pdfUrl:status==='published'?pdfUrl:null,publishedAt})) };
+  const updatedAt=articles.map(a=>a.updatedAt||a.publishedAt).sort((a,b)=>Date.parse(b)-Date.parse(a))[0]||null;
+  return { articles, updatedAt, editions:editions.issues.map(({id,title,status,period,pdfUrl,publishedAt})=>({id,title,status,period,pdfUrl:status==='published'?pdfUrl:null,publishedAt})) };
 }
 
 export function validateEdition(edition, root) {

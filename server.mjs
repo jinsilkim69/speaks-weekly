@@ -13,6 +13,7 @@ import { runFullPipeline } from './scripts/run-pipeline.mjs';
 import { validateIssue, synchronizePages, writeIssueAtomic } from './scripts/issue-storage.mjs';
 import { feedFromIssue } from './scripts/live-feed.mjs';
 import { readHomeCatalog } from './scripts/editorial-catalog.mjs';
+import { drafts,saveDraft,approveDraft,publishDraft,releaseEdition } from './scripts/editorial-service.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -30,6 +31,7 @@ const MIME_TYPES = {
   '.png': 'image/png',
   '.jpg': 'image/jpeg',
   '.ico': 'image/x-icon'
+  ,'.pdf': 'application/pdf'
 };
 
 async function ensureIssueDataExists() {
@@ -150,6 +152,18 @@ const server = http.createServer(async (req, res) => {
     }
     if (req.method === 'POST' && req.headers.origin && req.headers.origin !== parsedUrl.origin) {
       res.writeHead(403); res.end('Cross-origin writes are forbidden'); return;
+    }
+    if(pathname==='/api/editorial'&&req.method==='GET'){
+      const jobsDir=path.join(DATA_DIR,'jobs');
+      const jobs=fs.existsSync(jobsDir)?fs.readdirSync(jobsDir).filter(f=>f.endsWith('.json')).map(f=>JSON.parse(fs.readFileSync(path.join(jobsDir,f),'utf8'))):[];
+      res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});
+      res.end(JSON.stringify({drafts:drafts(__dirname),jobs,home:readHomeCatalog(__dirname)}));return;
+    }
+    if(pathname.startsWith('/api/editorial/')&&req.method==='POST'){
+      const action=pathname.split('/').at(-1),handlers={save:saveDraft,review:approveDraft,publish:publishDraft,'release-edition':releaseEdition};
+      if(!handlers[action])throw Object.assign(Error('알 수 없는 편집 작업'),{statusCode:404});
+      const result=await handlers[action](__dirname,await readJsonBody(req));
+      res.writeHead(200,{'Content-Type':'application/json; charset=utf-8'});res.end(JSON.stringify(result));return;
     }
 
     // API: 주중 실시간 스픽스 라이브 & 핫클립 피드
