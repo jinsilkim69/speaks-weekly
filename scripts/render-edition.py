@@ -179,6 +179,9 @@ for a,count in zip(issue['articleSnapshots'],counts):
     title=para(a['title'],storyhead);title_h=title.wrap(W-2*M,H)[1]
     subtitle=para(a.get('subtitle',''),sub);sub_h=subtitle.wrap(W-2*M,H)[1]
     firsttop=H-78-title_h-15-sub_h-30
+    lead=para(a['lead'],storylead)
+    lead_height=lead.wrap(W-2*M,H)[1]+lead.getSpaceAfter()
+    firsttop-=lead_height+12
     vh=min(260 if a['visual']['kind']=='diagram' else 240,(W-2*M)*a['visual']['height']/a['visual']['width'])
     if a['visual'].get('printMaxWidthMm'):vh=min(vh,a['visual']['printMaxWidthMm']*72/25.4*a['visual']['height']/a['visual']['width'])
     caption=('AI 생성 삽화 · ' if a['visual']['kind']=='generated-illustration' else '')+a['visual']['caption']+' | '+a['visual']['credit']
@@ -193,7 +196,7 @@ for a,count in zip(issue['articleSnapshots'],counts):
         bottom=48+(endnotes[0]+18 if i==count-1 else 0)
         heights.extend([top-bottom,(firsttop if i==0 and a['visual']['kind']=='photo' else top)-bottom])
     if min(heights)<80:raise ValueError('Opening or source material too long')
-    flow=[para(a['lead'],storylead)]
+    flow=[]
     for index,p in enumerate(a['bodyParagraphs']):
         flow.append(para(p[3:],h2) if p.startswith('## ') else para(p,storybody))
         for v in a.get('supportingVisuals',[]):
@@ -214,6 +217,7 @@ for a,count in zip(issue['articleSnapshots'],counts):
             y=drawp(title,M,H-78,W-2*M)-3
             y=drawp(subtitle,M,y,W-2*M)-3
             text(a.get('author','주간 스픽스 편집부'),M,y-7,7.5,'Sans',GRAY);y-=27
+            y=drawp(lead,M,y,W-2*M)-12
             if count>1:
                 y=image(a['visual'],M,y,COL if a['visual']['kind']=='photo' else W-2*M,vh,center=a['visual']['kind']!='photo')
                 drawp(cap,M,y-7,COL if a['visual']['kind']=='photo' else W-2*M,small)

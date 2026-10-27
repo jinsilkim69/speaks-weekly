@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "featuredEpisodeId": "wonsan-20261025",
+  "programs": [
+    {
+      "id": "jongdae-radar",
+      "name": "김종대의 레이더",
+      "description": "김종대의 외교·국방·한반도 정세 대담을 회차별로 읽습니다.",
+      "sourceUrl": "https://www.youtube.com/@SPEAKS_TV",
+      "schedule": null
+    },
+    {
+      "id": "veterans",
+      "name": "역전의용사들",
+      "description": "정치 현안과 제도에 관한 대담의 주장과 논의 흐름을 전합니다.",
+      "sourceUrl": "https://www.youtube.com/@SPEAKS_TV",
+      "schedule": null
+    },
+    {
+      "id": "special-interview",
+      "name": "특집인터뷰",
+      "description": "각 분야 출연자의 이야기와 제안을 방송 한 편씩 기록합니다.",
+      "sourceUrl": "https://www.youtube.com/@SPEAKS_TV",
+      "schedule": null,
+      "kind": "special"
+    }
+  ]
+}

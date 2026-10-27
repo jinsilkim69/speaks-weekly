@@ -3,8 +3,9 @@ import path from 'node:path';
 import { createHash } from 'node:crypto';
 import {validateArticleVisuals} from './visual-policy.mjs';
 import {editionFingerprint,inspectPdf} from './pdf-proof.mjs';
+import {validateEpisode,readPrograms} from './broadcast-programs.mjs';
 
-export const contentHash = article => createHash('sha256').update(JSON.stringify({title:article.title,subtitle:article.subtitle,lead:article.lead,bodyParagraphs:article.bodyParagraphs,sources:article.sources,visual:article.visual,supportingVisuals:article.supportingVisuals,verificationNote:article.verificationNote})).digest('hex');
+export const contentHash = article => createHash('sha256').update(JSON.stringify({title:article.title,subtitle:article.subtitle,lead:article.lead,bodyParagraphs:article.bodyParagraphs,sources:article.sources,visual:article.visual,supportingVisuals:article.supportingVisuals,verificationNote:article.verificationNote,...(article.episode?{episode:article.episode}:{})})).digest('hex');
 
 // Mechanical checks support a recorded editorial decision; they do not score prose quality.
 export function validateArticle(article) {
@@ -18,6 +19,7 @@ export function validateArticle(article) {
   if (!article.visual?.alt || !article.visual?.caption || !article.visual?.credit || !/^(https:\/\/|\/(?!\/))/.test(article.visual?.url||'')) throw new Error('이미지 설명과 출처가 필요합니다.');
   if (!Number.isFinite(Date.parse(article.publishedAt))) throw new Error('실제 기사 게시 시각이 필요합니다.');
   validateArticleVisuals(article);
+  validateEpisode(article);
   return article;
 }
 
@@ -33,7 +35,7 @@ export function readHomeCatalog(root) {
     if (issue.articleSnapshots.every(a=>articles.some(web=>contentHash(web)===contentHash(a)))) throw new Error('주간지는 온라인 기사 합본과 구별되는 재편집이 필요합니다.');
   }
   const updatedAt=articles.map(a=>a.updatedAt||a.publishedAt).sort((a,b)=>Date.parse(b)-Date.parse(a))[0]||null;
-  return { articles, updatedAt, editions:editions.issues.map(({id,title,status,period,pdfUrl,publishedAt,revisionOf,revisionSummary})=>({id,title,status,period,pdfUrl:status==='published'?pdfUrl:null,publishedAt,revisionOf,revisionSummary})) };
+  return { articles, updatedAt,...readPrograms(root,articles), editions:editions.issues.map(({id,title,status,period,pdfUrl,publishedAt,revisionOf,revisionSummary})=>({id,title,status,period,pdfUrl:status==='published'?pdfUrl:null,publishedAt,revisionOf,revisionSummary})) };
 }
 
 export function validateEditionContent(edition, root) {
@@ -66,7 +68,11 @@ export function validateEdition(edition, root, {parsePdf=true}={}) {
 
 export function readPublishedEdition(root,id) {
   if(!/^[a-zA-Z0-9_-]{1,100}$/.test(id||''))throw Object.assign(Error('잘못된 주간호 ID'),{statusCode:400});
-  const edition=JSON.parse(fs.readFileSync(path.join(root,'data/editions.json'),'utf8')).issues.find(i=>i.id===id&&i.status==='published');
+  const issues=JSON.parse(fs.readFileSync(path.join(root,'data/editions.json'),'utf8')).issues;
+  const edition=issues.find(i=>i.id===id&&i.status==='published');
   if(!edition)throw Object.assign(Error('발행된 주간호가 없습니다.'),{statusCode:404});
-  validateEdition(edition,root,{parsePdf:false});return edition;
+  validateEdition(edition,root,{parsePdf:false});
+  const family=edition.revisionOf||edition.id;
+  const latest=issues.filter(i=>i.status==='published'&&(i.id===family||i.revisionOf===family)).sort((a,b)=>Date.parse(b.publishedAt)-Date.parse(a.publishedAt))[0];
+  return latest&&latest.id!==edition.id?{...edition,supersededBy:latest.id}:edition;
 }

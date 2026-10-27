@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {fileURLToPath} from 'node:url';
 import { JSDOM } from 'jsdom';
-import {contentHash,validateArticle,validateEdition,readHomeCatalog} from '../scripts/editorial-catalog.mjs';
+import {contentHash,validateArticle,validateEdition,readHomeCatalog,readPublishedEdition} from '../scripts/editorial-catalog.mjs';
 const root=fileURLToPath(new URL('../',import.meta.url));
 const article=JSON.parse(fs.readFileSync(new URL('../data/web_articles.json',import.meta.url))).articles[0];
 test('edited copy invalidates review on both publication channels',()=>{
@@ -82,7 +82,7 @@ for(const issue of JSON.parse(fs.readFileSync(new URL('../data/editions.json',im
 test('all live homepage articles preserve complete copy, controls and return navigation',async()=>{
  const catalog=readHomeCatalog(root);
  const latest=catalog.editions.filter(i=>i.status==='published').sort((a,b)=>Date.parse(b.publishedAt)-Date.parse(a.publishedAt))[0];
- catalog.editions.unshift({...latest,id:'older-issue',title:'이전 호',publishedAt:'2026-10-19T00:00:00.000Z'});
+ catalog.editions.unshift({...latest,id:'older-issue',revisionOf:undefined,title:'이전 호',publishedAt:'2026-10-19T00:00:00.000Z'});
  const dom=new JSDOM(fs.readFileSync(new URL('../public/index.html',import.meta.url),'utf8'),{url:'https://example.com/',runScripts:'outside-only'});
  try{
   dom.window.HTMLDialogElement.prototype.showModal=function(){this.setAttribute('open','');};
@@ -92,17 +92,18 @@ test('all live homepage articles preserve complete copy, controls and return nav
   dom.window.eval(fs.readFileSync(new URL('../public/js/home.js',import.meta.url),'utf8'));
   await new Promise(r=>setTimeout(r,30));
   const doc=dom.window.document;
-  assert.equal(doc.querySelectorAll('#issue-contents h4 a').length,14);
+  assert.equal(doc.querySelector('#weekly').hidden,true);
+  assert.equal(doc.querySelectorAll('.weekday-section').length,7);
   assert.equal(doc.querySelector('.issue-title').textContent,latest.title);
-  assert.ok(requests.includes('/api/editions/'+latest.id+'.json'));
+  assert.deepEqual(requests,['/api/home']);
   assert.match(doc.querySelector('.issue-archive').textContent,/이전 호/);
   for(const a of catalog.articles){
-   assert.ok(doc.querySelector(`#articles a[href="#article/${a.id}"]`),a.id);
+   assert.ok(doc.querySelector(`main a[href="#article/${a.id}"]`),a.id);
    dom.window.location.hash='#article/'+a.id;dom.window.dispatchEvent(new dom.window.Event('hashchange'));
    const copy=doc.querySelector('.article-prose').textContent;
    for(const paragraph of [a.lead,...a.bodyParagraphs])assert.ok(copy.includes(paragraph.replace(/^## /,'').replace(/\[([^\]]+)\]\([^)]+\)/g,'$1')),a.id);
    assert.equal(doc.querySelectorAll('.source-box a').length,a.sources.length);
-   assert.match(doc.querySelector('.byline').textContent,/편집부/);
+   assert.match(doc.querySelector('#article-content .byline').textContent,/편집부/);
    doc.querySelector('#font-up').click();assert.ok(parseInt(doc.querySelector('#reader').style.getPropertyValue('--reading-size'))>=20);
    doc.querySelector('#bottom-close').click();assert.equal(doc.querySelector('#reader').open,false);assert.equal(doc.body.style.overflow,'');
   }
@@ -125,5 +126,34 @@ test('network retry and missing images leave a readable recovery path',async()=>
   const img=dom.window.document.querySelector('#lead img');img.dispatchEvent(new dom.window.Event('error'));
   assert.match(dom.window.document.querySelector('.image-unavailable').textContent,/본문은 계속/);
   assert.ok(dom.window.document.querySelector('#lead h1 a'));
+ }finally{dom.window.close();}
+});
+
+
+test('superseded edition API points to newest family member without changing archived copy',()=>{
+ const issues=JSON.parse(fs.readFileSync(new URL('../data/editions.json',import.meta.url),'utf8')).issues.filter(i=>i.status==='published');
+ const original=issues.find(i=>i.id==='2026-10-26');
+ const latest=issues.filter(i=>i.id===original.id||i.revisionOf===original.id).sort((a,b)=>Date.parse(b.publishedAt)-Date.parse(a.publishedAt))[0];
+ const served=readPublishedEdition(root,original.id);
+ assert.equal(served.supersededBy,latest.id);
+ assert.deepEqual(served.articleSnapshots,original.articleSnapshots);
+});
+
+for(const archive of [false,true])test('old article links '+(archive?'explicitly preserve labelled archive':'resolve to corrected edition'),async()=>{
+ const dom=new JSDOM(fs.readFileSync(new URL('../public/index.html',import.meta.url),'utf8'),{url:'https://example.com/?edition=old'+(archive?'&archive=1':'')+'#article/'+article.id,runScripts:'outside-only'});
+ try{
+  dom.window.HTMLDialogElement.prototype.showModal=function(){this.setAttribute('open','');};
+  dom.window.HTMLDialogElement.prototype.close=function(){this.removeAttribute('open');};
+  const original={id:'old',title:'이전 판',status:'published',period:'기간',publishedAt:article.publishedAt,pdfUrl:'/editions/old.pdf',supersededBy:'corrected',articleSnapshots:[{...structuredClone(article),title:'이전 원고'}]};
+  const latest={...original,id:'corrected',title:'교정판',supersededBy:null,articleSnapshots:[{...structuredClone(article),title:'교정한 원고'}]};
+  const requests=[];dom.window.fetch=async url=>{requests.push(url);return {ok:true,json:async()=>url.includes('/old.json')?original:latest};};
+  dom.window.eval(fs.readFileSync(new URL('../public/js/home.js',import.meta.url),'utf8'));
+  await new Promise(r=>setTimeout(r,30));
+  const doc=dom.window.document;
+  assert.equal(doc.querySelector('#article-title').textContent,archive?'이전 원고':'교정한 원고');
+  assert.equal(doc.querySelector('.article-prose').firstElementChild.textContent,article.lead);
+  assert.equal(new URL(dom.window.location.href).searchParams.get('edition'),archive?'old':'corrected');
+  if(archive){assert.equal(requests.length,1);assert.match(doc.querySelector('#article-content .archive-notice').textContent,/최신판/);}
+  else assert.deepEqual(requests,['/api/editions/old.json','/api/editions/corrected.json']);
  }finally{dom.window.close();}
 });
