@@ -24,6 +24,7 @@ for(const issue of home.editions.filter(i=>i.status==='published')){
 for(const asset of assets){const response=await get(asset);if(!(await response.arrayBuffer()).byteLength)throw Error(`${asset}: 빈 이미지`);}
 for(const asset of ['/index.html','/css/home.css','/js/home.js']){
  const response=await get(asset),bytes=Buffer.from(await response.arrayBuffer());
- if(digest(bytes)!==digest(fs.readFileSync(path.join(root,'public',asset))))throw Error(`${asset}: 새 UI 배포가 아직 반영되지 않았습니다.`);
+ // Git normalizes Windows CRLF to LF in the deployment checkout.
+ if(bytes.toString('utf8').replace(/\r\n/g,'\n')!==fs.readFileSync(path.join(root,'public',asset),'utf8').replace(/\r\n/g,'\n'))throw Error(`${asset}: 새 UI 배포가 아직 반영되지 않았습니다.`);
 }
 console.log(JSON.stringify({checkedAt:new Date().toISOString(),base:base.origin,homepageArticles:home.articles.length,issues,images:assets.size,uiMatchesLocal:true},null,2));
