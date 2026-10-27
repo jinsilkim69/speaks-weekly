@@ -61,3 +61,14 @@ test('incomplete issue and overflowing article fail instead of padding or trunca
  await assert.rejects(buildEdition(root,edition,{testOnly:true}),/overflow/);
  assert.equal(fs.existsSync(path.join(root,'output/pdf',edition.id,'proof.tmp.pdf')),false);
 });
+
+test('variable page editions grow to preserve copy and bind actual pages to the release',async t=>{
+ const root=fs.mkdtempSync(path.join(os.tmpdir(),'speaks-variable-'));t.after(()=>fs.rmSync(root,{recursive:true,force:true}));
+ fs.cpSync(new URL('../public/images',import.meta.url),path.join(root,'public/images'),{recursive:true});
+ const edition=fixtureEdition();edition.id='variable-proof';edition.layout={autoExpand:true};edition.pageCounts=[3,2,2,5,5,4,4,4,4,4,3,3,2,2];
+ const a=edition.articleSnapshots[0];a.bodyParagraphs=Array.from({length:24},(_,n)=>`가변 지면 시험 ${n+1}. `+a.bodyParagraphs[0]);a.review.contentHash=contentHash(a);
+ const result=await buildEdition(root,edition);const ready=JSON.parse(fs.readFileSync(result.input,'utf8'));
+ assert.ok(result.proof.pages>50);assert.equal(result.proof.pages,4+ready.pageCounts.reduce((n,x)=>n+x,0));
+ ready.status='published';ready.pdfReview={...ready.pdfReview,visualCheck:true,summary:'Variable layout test only',reviewedAt:new Date().toISOString()};fs.mkdirSync(path.join(root,'public/editions'),{recursive:true});fs.copyFileSync(result.output,path.join(root,'public',ready.pdfUrl));validateEdition(ready,root);
+ const wrong=structuredClone(ready);wrong.pdfReview.pages=50;assert.throws(()=>validateEdition(wrong,root),/편성과/);
+});

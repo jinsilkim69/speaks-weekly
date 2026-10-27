@@ -51,6 +51,7 @@ export async function releaseEdition(root,edition){
   if(catalog.issues.some(i=>i.id===edition.id&&i.status==='published'))throw Error('발행된 주간호는 변경할 수 없습니다. 정정판 ID를 사용하세요.');
   const ready={...edition,pdfReview:{...edition.pdfReview},status:'published',publishedAt:new Date().toISOString()};
   ready.pdfReview.structure=validateEdition(ready,root);
+  if(fs.statSync(path.join(root,'public',ready.pdfUrl)).size>25*1024*1024)throw Error('PDF가 배포 파일 제한 25MiB를 넘었습니다. 원고를 줄이지 말고 이미지 인코딩을 최적화하세요.');
   const web=JSON.parse(fs.readFileSync(path.join(root,'data/web_articles.json'),'utf8')).articles;
   if(ready.articleSnapshots.every(a=>web.some(w=>contentHash(w)===contentHash(a))))throw Error('온라인 기사 그대로의 합본은 출고할 수 없습니다.');
   execFileSync(process.env.SPEAKS_PYTHON||'python',['-X','utf8',path.join(import.meta.dirname,'render-cover.py'),path.join(root,'public',ready.pdfUrl),path.join(root,'public/images/editions',ready.id+'-cover.jpg')],{encoding:'utf8',windowsHide:true,timeout:30000});

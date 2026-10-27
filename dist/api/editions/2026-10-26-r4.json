@@ -1119,5 +1119,6 @@
       "sha256": "cd4d5e1f6eaca001fda03a981200b9ef309df90099e025963de3f277916b7682"
     }
   },
-  "publishedAt": "2026-10-27T05:39:13.663Z"
+  "publishedAt": "2026-10-27T05:39:13.663Z",
+  "supersededBy": "2026-10-26-r6"
 }

@@ -35,11 +35,11 @@ export function readHomeCatalog(root) {
     if (issue.articleSnapshots.every(a=>articles.some(web=>contentHash(web)===contentHash(a)))) throw new Error('주간지는 온라인 기사 합본과 구별되는 재편집이 필요합니다.');
   }
   const updatedAt=articles.map(a=>a.updatedAt||a.publishedAt).sort((a,b)=>Date.parse(b)-Date.parse(a))[0]||null;
-  return { articles, updatedAt,...readPrograms(root,articles), editions:editions.issues.map(({id,title,status,period,pdfUrl,publishedAt,revisionOf,revisionSummary})=>({id,title,status,period,pdfUrl:status==='published'?pdfUrl:null,publishedAt,revisionOf,revisionSummary})) };
+  return { articles, updatedAt,...readPrograms(root,articles), editions:editions.issues.map(({id,title,status,period,pdfUrl,publishedAt,revisionOf,revisionSummary,pdfReview})=>({pages:pdfReview?.pages,id,title,status,period,pdfUrl:status==='published'?pdfUrl:null,publishedAt,revisionOf,revisionSummary})) };
 }
 
 export function validateEditionContent(edition, root) {
-  if(edition.pageCounts&&(!Array.isArray(edition.pageCounts)||edition.pageCounts.length!==14||edition.pageCounts.some(n=>!Number.isInteger(n)||n<1)||edition.pageCounts.reduce((n,x)=>n+x,0)!==46))throw Error('주간호 기사 편성은 14개 꼭지·46면이어야 합니다.');
+  if(edition.pageCounts&&(!Array.isArray(edition.pageCounts)||edition.pageCounts.length!==14||edition.pageCounts.some(n=>!Number.isInteger(n)||n<1)))throw Error('주간호 기사 편성은 14개 꼭지의 실제 분량을 지정해야 합니다.');
   if (!edition.articleSnapshots?.length || edition.articleSnapshots.length !== 14) throw new Error('주간지 14개 꼭지의 출고 검토가 필요합니다.');
   edition.articleSnapshots.forEach(validateArticle);
   edition.articleSnapshots.forEach(a=>validateArticleVisuals(a,root));
@@ -55,12 +55,12 @@ export function validateEdition(edition, root, {parsePdf=true}={}) {
   const pdf = path.join(root,'public',edition.pdfUrl);
   if (!fs.existsSync(pdf)) throw new Error('주간지 PDF가 없습니다.');
   const hash = createHash('sha256').update(fs.readFileSync(pdf)).digest('hex');
-  if (edition.pdfReview?.pages !== 50 || !edition.pdfReview?.visualCheck || edition.pdfReview.sha256 !== hash) throw new Error('현재 PDF의 50페이지·출력 검수가 필요합니다.');
+  if (!Number.isInteger(edition.pdfReview?.pages) || edition.pdfReview.pages<5 || !edition.pdfReview?.visualCheck || edition.pdfReview.sha256 !== hash) throw new Error('현재 PDF의 실제 페이지 수·출력 검수가 필요합니다.');
   if(!edition.pdfReview.summary?.trim()||!Number.isFinite(Date.parse(edition.pdfReview.reviewedAt)))throw Error('PDF 시각 검수 내용과 시각이 필요합니다.');
   // Parse on release. Readers/builds reuse that recorded result only while the bytes match.
   const proof=parsePdf?{...inspectPdf(pdf),sha256:hash}:edition.pdfReview.structure;
   if(!proof||proof.sha256!==hash)throw Error('출고 시 생성한 PDF 구조 검사 기록이 필요합니다.');
-  if(proof.pages!==50||!proof.a4||!Array.isArray(proof.emptyPages)||proof.emptyPages.length)throw Error('실제 PDF는 빈 면 없는 A4 50페이지여야 합니다.');
+  if(proof.pages!==edition.pdfReview.pages||(edition.pageCounts&&proof.pages!==4+edition.pageCounts.reduce((n,x)=>n+x,0))||!proof.a4||!Array.isArray(proof.emptyPages)||proof.emptyPages.length)throw Error('실제 PDF는 편성과 일치하고 빈 면 없는 A4 문서여야 합니다.');
   if(proof.testOnly)throw Error('시스템 시험 PDF는 발행할 수 없습니다.');
   if(proof.editionHash!==editionFingerprint(edition,root))throw Error('PDF와 현재 주간호 원고·이미지가 일치하지 않습니다. 다시 조판하세요.');
   return proof;

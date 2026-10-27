@@ -55,7 +55,7 @@ node scripts/editorial-cli.mjs publish 출고.json
 
 로컬 출고 후 npm test, npm run build, 브라우저 확인과 GitHub 푸시를 거쳐 공개 사이트를 확인합니다. 원시 근거·음성·비밀정보는 커밋하지 않습니다. 기존 publish:agent는 레거시 지면 미리보기용입니다.
 
-주간호 출고는 release-edition 명령으로 별도 처리하며 14개 원고 스냅샷, 주간 재편집 기록, 실제 PDF와 일치하는 50페이지·시각 검수 기록이 필요합니다. 발행 후 수정은 새 정정판 ID를 사용합니다. PDF 조판과 구조 검사는 구현했습니다. 정기 제작은 이 채팅의 일정으로 등록했으며 docs/recurring-production.md를 따릅니다. 첫 실제 14개 꼭지·50면호를 집필·검수·출고했고, 미완성호를 발행 완료로 표시하지 않습니다.
+주간호 출고는 release-edition 명령으로 별도 처리하며 14개 원고 스냅샷, 주간 재편집 기록, 실제 PDF와 일치하는 페이지 수·시각 검수 기록이 필요합니다. 발행 후 수정은 새 정정판 ID를 사용합니다. PDF 조판과 구조 검사는 구현했습니다. 정기 제작은 이 채팅의 일정으로 등록했으며 docs/recurring-production.md를 따릅니다. 첫 실제 14개 꼭지·50면호를 집필·검수·출고했고, 미완성호를 발행 완료로 표시하지 않습니다.
 
 
 ## 실제 PDF 조판과 출고
@@ -65,7 +65,7 @@ node scripts/editorial-cli.mjs publish 출고.json
 1. 주간호 JSON에 id, title, period, introduction(발행인의 말 문단 배열), 검토 완료한 articleSnapshots 14개를 준비합니다. 각 원고에는 weeklyTreatment가 필요합니다. 이미지는 권리 확인 후 public 아래 로컬 파일로 준비합니다.
 2. `npm run edition:build -- 주간호.json`을 실행합니다. output/pdf/호ID/proof.pdf와 edition.json을 생성합니다. 현재 조판 엔진은 ReportLab이며 기존 브라우저 인쇄/Paged.js 미리보기와 별도입니다. 편성은 도입 4면, 레이다 6면, 커버 10면, 인터뷰 12면, 오피니언 8면, 문화 10면입니다. 글이 넘치면 실패하며 원문을 자르거나 글꼴을 축소하지 않습니다. 분량 부족·장르 구성·여백은 실제 지면 검수에서 판단합니다.
 3. PDF 전 면을 렌더링해 읽고 이미지·글꼴·여백·단 나눔·인용·QR을 검수합니다. edition.json의 pdfReview에 visualCheck=true, summary=실제 검수 내용, reviewedAt=검수 시각을 기록합니다. sha256과 pages는 생성 값을 유지합니다.
-4. 검수한 PDF를 public/editions/호ID.pdf로 복사합니다. `npm run editorial -- release-edition output/pdf/호ID/edition.json`으로 출고합니다. 실제 PDF 파서가 A4 50페이지·내용 있는 면·원고 및 이미지 지문 일치·검수 파일 해시를 확인합니다. 검수 뒤 수정했다면 다시 조판합니다.
+4. 검수한 PDF를 public/editions/호ID.pdf로 복사합니다. `npm run editorial -- release-edition output/pdf/호ID/edition.json`으로 출고합니다. 실제 PDF 파서가 A4 실제 페이지 수·내용 있는 면·원고 및 이미지 지문 일치·검수 파일 해시를 확인합니다. 검수 뒤 수정했다면 다시 조판합니다.
 5. `npm run build` 후 배포합니다. 공개 웹 주간지는 `/?edition=호ID`, 데이터는 `/api/editions/호ID.json`입니다. 홈페이지 기사 수정 후에도 발행호의 원고 스냅샷을 읽습니다. 미발행 PDF는 정적 배포에 포함하지 않습니다.
 
 발행 시 PDF 구조 검사 결과를 해당 파일의 SHA-256과 함께 저장합니다. 이후 홈페이지·정적 빌드는 파일 해시 및 원고·이미지 지문을 대조하므로 배포 환경에 Python을 설치할 필요가 없습니다. 조판·발행 작업을 수행하는 PC에는 Python 의존성이 필요합니다. 발행에 사용한 이미지 파일은 덮어쓰지 말고 새 이름으로 저장합니다.
@@ -88,3 +88,5 @@ node scripts/editorial-cli.mjs publish 출고.json
 5. 이번 표본은 Gemini 자막 조사 부분 완료·사용량 한도 → GPT 보완·이미지 제작 → Claude 최종 6편 교정 → GPT 출고 검수로 수행했다. 이것은 실제 서비스 구독 화면/CLI를 사용하는 에이전트 인계이며, 세 서비스의 완전 무인 자동 연결이 검증됐다는 뜻은 아니다.
 
 요일별 목록에는 표시 주간을 명시한다. 이번 검수 표본은 2026.10.19~25이며 26일 회차를 섞지 않는다. 제목 날짜·공개일이 다른 회차는 방송 제목 기준 또는 공개일 기준임을 표시한다. 과거 방송의 전망은 당시 발언으로 남기고 뒤의 결과를 소급해 고치지 않는다. 빈칸을 채우려고 다른 요일 영상을 이동하거나 실제 방송 스케줄을 만들지 않는다.
+
+2026-10-27 사용자 지시: 50면 제한을 해제했다. 새 호의 layout.autoExpand=true는 원고·그림이 넘칠 때 기사별 페이지를 늘리고 목차를 다시 계산한다. 페이지 수를 맞추기 위한 원고 삭제·패딩은 금지한다. 사진·캡션은 같은 단에 두고 원문·이용조건 연결을 보존한다. 모든 면의 렌더링·본문 누락·경계·QR을 검수한다.

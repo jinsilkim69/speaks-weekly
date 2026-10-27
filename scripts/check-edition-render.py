@@ -36,4 +36,4 @@ for batch in range((len(doc)+24)//25):
 report={'pages':len(doc),'missingParagraphs':missing,'outOfBoundsText':outside,'renderedPages':len(doc)}
 (out/'render-check.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
 print(json.dumps(report,ensure_ascii=False))
-if len(doc)!=50 or missing or outside:raise SystemExit(1)
+if len(doc)!=4+sum(issue.get('pageCounts',[2,2,2,5,5,4,4,4,4,4,3,3,2,2])) or missing or outside:raise SystemExit(1)

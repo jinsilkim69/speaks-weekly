@@ -7,9 +7,11 @@ from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.enums import TA_JUSTIFY
+from reportlab.lib.utils import ImageReader
+from PIL import Image as RasterImage
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
-from reportlab.platypus import Paragraph, Image
+from reportlab.platypus import Paragraph, Image, Flowable
 from reportlab.graphics import renderPDF
 from reportlab.graphics.barcode import qr
 from reportlab.graphics.shapes import Drawing
@@ -18,7 +20,7 @@ from pypdf import PdfReader, PdfWriter
 
 parser=argparse.ArgumentParser()
 parser.add_argument('input');parser.add_argument('output');parser.add_argument('--root',required=True)
-parser.add_argument('--hash',required=True);parser.add_argument('--test-only',action='store_true')
+parser.add_argument('--hash',required=True);parser.add_argument('--test-only',action='store_true');parser.add_argument('--plan-only',action='store_true')
 args=parser.parse_args();issue=json.loads(Path(args.input).read_text(encoding='utf-8-sig'))
 fontdir=Path(__file__).resolve().parent.parent/'assets/fonts/nanummyeongjo'
 win=Path(os.environ.get('WINDIR','C:/Windows'))/'Fonts'
@@ -35,7 +37,7 @@ sub=ParagraphStyle('sub',fontName='Sans',fontSize=10.5,leading=17,wordWrap='CJK'
 leadstyle=ParagraphStyle('lead',parent=body,fontName='SerifBold',fontSize=11.2,leading=18.5,spaceAfter=12)
 buffer=io.BytesIO();c=canvas.Canvas(buffer,pagesize=A4);page_no=0
 counts=issue.get('pageCounts',[2,2,2,5,5,4,4,4,4,4,3,3,2,2])
-if len(counts)!=14 or sum(counts)!=46 or any(not isinstance(n,int) or n<1 for n in counts):raise ValueError('Article allocation must total 46 pages')
+if len(counts)!=14 or any(not isinstance(n,int) or n<1 for n in counts):raise ValueError('Article allocation must contain 14 positive page counts')
 if len(issue.get('articleSnapshots',[]))!=14:raise ValueError('14 articles required')
 if not issue.get('introduction'):raise ValueError('Publisher introduction required')
 
@@ -55,6 +57,13 @@ def begin(section,cover=False):
     text(issue['period'],M,25,7.3,'Sans',GRAY)
     c.setFillColor(INK);c.setFont('SansBold',9);c.drawRightString(W-M,25,f'{page_no:02d}')
     if args.test_only:text('시스템 검증용 · 배포 금지',W/2-65,12,7,'SansBold',RED)
+def press_raster(file):
+    # Encode illustrations as high-quality JPEG inside the PDF only; preserve source assets.
+    if Path(file).suffix.lower() in ['.jpg','.jpeg']:return str(file)
+    with RasterImage.open(file) as original:
+        stream=io.BytesIO();original.convert('RGB').save(stream,'JPEG',quality=94,subsampling=0,optimize=True)
+    stream.seek(0);return stream
+
 def image(v,x,top,width,maxheight,center=True):
     p=(Path(args.root)/'public'/v['url'].lstrip('/')).resolve();p.relative_to((Path(args.root)/'public').resolve())
     if v.get('printMaxWidthMm'):width=min(width,v['printMaxWidthMm']*72/25.4)
@@ -64,7 +73,7 @@ def image(v,x,top,width,maxheight,center=True):
         d=svg2rlg(str(p))
         if d is None:raise ValueError('Unreadable SVG')
         scale=actual_width/d.width;d.scale(scale,scale);renderPDF.draw(d,c,x,top-height)
-    else:c.drawImage(str(p),x,top-height,width=actual_width,height=height,mask='auto')
+    else:c.drawImage(ImageReader(press_raster(p)),x,top-height,width=actual_width,height=height,mask='auto')
     return top-height
 
 def flow_height(p):return p.wrap(COL,H)[1]+p.getSpaceBefore()+p.getSpaceAfter()
@@ -116,6 +125,79 @@ def sources(a,layout):
     text('원문 바로가기',W-M-90,top-117,7,'Sans',GRAY)
     if y<45:raise ValueError('Source box overflow')
 
+def visual_caption(v):
+    label='AI 생성 삽화 · ' if v['kind']=='generated-illustration' else ''
+    value=escape(label+v['caption']+' | '+v['credit'])
+    for key,title in [('sourceUrl','원출처'),('licenseUrl','이용 조건')]:
+        if v.get(key):value+=' · <link href="'+escape(v[key],{chr(34):'&quot;'})+'">'+title+'</link>'
+    if v.get('licenseUrl'):value+=' · '+escape(v.get('transformation','크기 축소·JPEG 변환'))
+    return Paragraph(value,small)
+
+class EditorialFigure(Flowable):
+    """Keep each picture and its caption together in the same column."""
+    def __init__(self,graphic,caption,width):
+        Flowable.__init__(self);self.graphic=graphic;self.caption=caption;self.width=width
+        self.style=ParagraphStyle('graphic',parent=body,spaceBefore=8,spaceAfter=14)
+    def wrap(self,availableWidth,availableHeight):
+        _,self.picture_height=self.graphic.wrap(self.width,availableHeight)
+        _,self.caption_height=self.caption.wrap(self.width,availableHeight)
+        self.height=self.picture_height+8+self.caption_height
+        return self.width,self.height
+    def draw(self):
+        self.graphic.drawOn(self.canv,0,self.caption_height+8);self.caption.drawOn(self.canv,0,0)
+
+def prepare_story(a,count):
+    # Measure opening material before allocating the actual copy to its frames.
+    feature_size=(13,22) if sum(len(p) for p in a['bodyParagraphs'])<4400 else (12,20)
+    storybody=ParagraphStyle('body',parent=body,fontSize=feature_size[0],leading=feature_size[1],spaceAfter=11) if count>=3 else body
+    storylead=ParagraphStyle('lead',parent=leadstyle,fontSize=12.2,leading=20.5) if count>=3 else leadstyle
+    storyhead=ParagraphStyle('story-head',parent=heading,fontName='SerifBold',fontSize=26,leading=35) if count>=3 else heading
+    title=para(a['title'],storyhead);title_h=title.wrap(W-2*M,H)[1]
+    subtitle=para(a.get('subtitle',''),sub);sub_h=subtitle.wrap(W-2*M,H)[1]
+    firsttop=H-78-title_h-15-sub_h-30
+    lead=para(a['lead'],storylead)
+    lead_height=lead.wrap(W-2*M,H)[1]+lead.getSpaceAfter()
+    firsttop-=lead_height+12
+    vh=min(260 if a['visual']['kind']=='diagram' else 240,(W-2*M)*a['visual']['height']/a['visual']['width'])
+    if a['visual'].get('printMaxWidthMm'):vh=min(vh,a['visual']['printMaxWidthMm']*72/25.4*a['visual']['height']/a['visual']['width'])
+    caption=('AI 생성 삽화 · ' if a['visual']['kind']=='generated-illustration' else '')+a['visual']['caption']+' | '+a['visual']['credit']
+    cap=visual_caption(a['visual']);cap_h=cap.wrap(COL if a['visual']['kind']=='photo' or count==1 else W-2*M,H)[1]
+    column_hero=a['visual']['kind']=='photo' or count==1
+    if column_hero:vh=min(220,COL*a['visual']['height']/a['visual']['width'])
+    opening_top=firsttop-vh-cap_h-28
+    endnotes=source_layout(a)
+    heights=[]
+    for i in range(count):
+        top=opening_top if i==0 else H-62
+        bottom=48+(endnotes[0]+18 if i==count-1 else 0)
+        heights.extend([top-bottom,(firsttop if i==0 and column_hero else top)-bottom])
+    if min(heights)<80:raise ValueError('Opening or source material too long')
+    flow=[]
+    for index,p in enumerate(a['bodyParagraphs']):
+        flow.append(para(p[3:],h2) if p.startswith('## ') else para(p,storybody))
+        for v in a.get('supportingVisuals',[]):
+            if v['afterParagraph']!=index:continue
+            file=(Path(args.root)/'public'/v['url'].lstrip('/')).resolve();file.relative_to((Path(args.root)/'public').resolve())
+            ww=min(COL,v.get('printMaxWidthMm',1000)*72/25.4)
+            if file.suffix.lower()=='.svg':
+                drawing=svg2rlg(str(file));factor=ww/drawing.width;drawing.scale(factor,factor);drawing.width*=factor;drawing.height*=factor
+            else:drawing=Image(press_raster(file),width=ww,height=ww*v['height']/v['width'])
+            flow.append(EditorialFigure(drawing,visual_caption(v),ww))
+    try:groups=partition(flow,heights)
+    except ValueError as error:raise ValueError(a['id']+': '+str(error)) from error
+    return dict(count=count,title=title,subtitle=subtitle,lead=lead,cap=cap,vh=vh,opening_top=opening_top,firsttop=firsttop,endnotes=endnotes,groups=groups,column_hero=column_hero)
+
+plans=[]
+for index,(article,allocation) in enumerate(zip(issue['articleSnapshots'],counts)):
+    while True:
+        try:plan=prepare_story(article,allocation);break
+        except ValueError:
+            if not issue.get('layout',{}).get('autoExpand') or allocation>=40:raise
+            allocation+=1
+    counts[index]=allocation;plans.append(plan)
+if args.plan_only:
+    print(json.dumps({'pageCounts':counts,'pages':4+sum(counts)}));raise SystemExit(0)
+
 cover=next((a for a in issue['articleSnapshots'] if a['id']==issue.get('coverArticleId')),issue['articleSnapshots'][0])
 begin('표지',True)
 text('주간',M,H-88,46,'SansBold');text('스픽스',M+pdfmetrics.stringWidth('주간','SansBold',46),H-88,46,'SansBold',RED)
@@ -161,7 +243,7 @@ c.showPage()
 
 begin('판권과 읽기 안내');text('발행·제작',M,H-75,10,'SansBold',RED)
 y=drawp('주간 스픽스',M,H-95,W-2*M,heading)
-colophon=['도서출판 아우내','충남 천안시 동남구 양지말1길 40','전화 070-7561-0677','ISSN 3022-891X / ISBN 978-89-98765-43-2','원천 미디어: 스픽스 인터넷 신문 및 유튜브 @SPEAKS_TV','대상 기간 '+issue['period'],'개정판: 원고 퇴고·도표 재제작·지면 재조판' if issue.get('revisionOf') else '주간 50페이지 웹·PDF 발행']
+colophon=['도서출판 아우내','충남 천안시 동남구 양지말1길 40','전화 070-7561-0677','ISSN 3022-891X / ISBN 978-89-98765-43-2','원천 미디어: 스픽스 인터넷 신문 및 유튜브 @SPEAKS_TV','대상 기간 '+issue['period'],'개정판: 원고 퇴고·도표 재제작·지면 재조판' if issue.get('revisionOf') else '주간 웹·PDF 발행 · '+str(4+sum(counts))+'면']
 for p in colophon:y=drawp(p,M,y,W-2*M,sub)
 line(y-10,color=INK);y-=45
 notes=[('방송의 핵심을 글로 전합니다','영상을 보기 어려운 분도 출연자의 핵심 주장과 그 이유를 따라 읽을 수 있도록 대화를 재구성합니다. 발언의 맥락과 사례를 살리고 낯선 개념은 쉽게 풀어 설명합니다.'),('표와 사진을 함께 읽습니다','숫자에는 단위와 기준 시점을 붙였습니다. 사진에는 촬영 시점과 출처를 표시하고 생성 삽화는 실제 현장 사진과 구별합니다. 표는 본문에서 설명한 내용을 다시 찾아보는 길잡이입니다.'),('원방송과 기사를 만날 수 있습니다','기사 끝의 QR은 해당 기사의 첫 원출처로 이어집니다. PDF 목차의 제목을 누르면 해당 기사로 이동합니다. 발언을 더 듣고 싶은 독자는 원방송에서 대화의 흐름을 이어갈 수 있습니다.'),('제작과 개정','원고 작성·윤문에는 AI를 활용했습니다. 원자료와 대조해 발언 취지와 사실 관계, 문장을 검토합니다. 개정판은 이전 발행본을 보존하고 별도 발행호로 제공합니다.')]
@@ -170,45 +252,8 @@ for j,(title,copy) in enumerate(notes):
     top=drawp(title,x,top,COL,ParagraphStyle('guide-title',parent=h2,spaceBefore=0));drawp(copy,x,top-3,COL,ParagraphStyle('guide',parent=body,fontSize=10.2,leading=17))
 c.showPage()
 
-for a,count in zip(issue['articleSnapshots'],counts):
-    # Measure opening material before allocating the actual copy to its frames.
-    feature_size=(13,22) if sum(len(p) for p in a['bodyParagraphs'])<4400 else (12,20)
-    storybody=ParagraphStyle('body',parent=body,fontSize=feature_size[0],leading=feature_size[1],spaceAfter=11) if count>=3 else body
-    storylead=ParagraphStyle('lead',parent=leadstyle,fontSize=12.2,leading=20.5) if count>=3 else leadstyle
-    storyhead=ParagraphStyle('story-head',parent=heading,fontName='SerifBold',fontSize=26,leading=35) if count>=3 else heading
-    title=para(a['title'],storyhead);title_h=title.wrap(W-2*M,H)[1]
-    subtitle=para(a.get('subtitle',''),sub);sub_h=subtitle.wrap(W-2*M,H)[1]
-    firsttop=H-78-title_h-15-sub_h-30
-    lead=para(a['lead'],storylead)
-    lead_height=lead.wrap(W-2*M,H)[1]+lead.getSpaceAfter()
-    firsttop-=lead_height+12
-    vh=min(260 if a['visual']['kind']=='diagram' else 240,(W-2*M)*a['visual']['height']/a['visual']['width'])
-    if a['visual'].get('printMaxWidthMm'):vh=min(vh,a['visual']['printMaxWidthMm']*72/25.4*a['visual']['height']/a['visual']['width'])
-    caption=('AI 생성 삽화 · ' if a['visual']['kind']=='generated-illustration' else '')+a['visual']['caption']+' | '+a['visual']['credit']
-    cap=para(caption,small);cap_h=cap.wrap(COL if a['visual']['kind']=='photo' else W-2*M,H)[1]
-    if a['visual']['kind']=='photo':vh=COL*a['visual']['height']/a['visual']['width']
-    opening_top=firsttop-vh-cap_h-28
-    if count==1:opening_top=firsttop-10
-    endnotes=source_layout(a)
-    heights=[]
-    for i in range(count):
-        top=opening_top if i==0 else H-62
-        bottom=48+(endnotes[0]+18 if i==count-1 else 0)
-        heights.extend([top-bottom,(firsttop if i==0 and a['visual']['kind']=='photo' else top)-bottom])
-    if min(heights)<80:raise ValueError('Opening or source material too long')
-    flow=[]
-    for index,p in enumerate(a['bodyParagraphs']):
-        flow.append(para(p[3:],h2) if p.startswith('## ') else para(p,storybody))
-        for v in a.get('supportingVisuals',[]):
-            if v['afterParagraph']!=index:continue
-            file=(Path(args.root)/'public'/v['url'].lstrip('/')).resolve();file.relative_to((Path(args.root)/'public').resolve())
-            ww=min(COL,v.get('printMaxWidthMm',1000)*72/25.4)
-            if file.suffix.lower()=='.svg':
-                drawing=svg2rlg(str(file));factor=ww/drawing.width;drawing.scale(factor,factor);drawing.width*=factor;drawing.height*=factor
-            else:drawing=Image(str(file),width=ww,height=ww*v['height']/v['width'])
-            drawing.style=ParagraphStyle('graphic',parent=body);flow.append(drawing);flow.append(para(v['caption']+' | '+v['credit'],small))
-    try:groups=partition(flow,heights)
-    except ValueError as error:raise ValueError(a['id']+': '+str(error)) from error
+for a,plan in zip(issue['articleSnapshots'],plans):
+    count,title,subtitle,lead,cap,vh,opening_top,firsttop,endnotes,groups,column_hero=[plan[k] for k in ['count','title','subtitle','lead','cap','vh','opening_top','firsttop','endnotes','groups','column_hero']]
     for i in range(count):
         begin(a['category'])
         if i==0:
@@ -218,14 +263,13 @@ for a,count in zip(issue['articleSnapshots'],counts):
             y=drawp(subtitle,M,y,W-2*M)-3
             text(a.get('author','주간 스픽스 편집부'),M,y-7,7.5,'Sans',GRAY);y-=27
             y=drawp(lead,M,y,W-2*M)-12
-            if count>1:
-                y=image(a['visual'],M,y,COL if a['visual']['kind']=='photo' else W-2*M,vh,center=a['visual']['kind']!='photo')
-                drawp(cap,M,y-7,COL if a['visual']['kind']=='photo' else W-2*M,small)
+            y=image(a['visual'],M,y,COL if column_hero else W-2*M,vh,center=not column_hero)
+            drawp(cap,M,y-7,COL if column_hero else W-2*M,small)
             top=opening_top
         else:
             top=H-62
             if i==1:text('계속',W-M-18,H-52,6.5,'Sans',GRAY)
-        paint(groups[i*2],M,top);paint(groups[i*2+1],M+COL+GAP,firsttop if i==0 and a['visual']['kind']=='photo' else top)
+        paint(groups[i*2],M,top);paint(groups[i*2+1],M+COL+GAP,firsttop if i==0 and column_hero else top)
         if i==count-1:sources(a,endnotes)
         if i==1 and count>=3:
             quote=a.get('printPullquote')
@@ -239,8 +283,8 @@ for a,count in zip(issue['articleSnapshots'],counts):
         c.showPage()
 
 c.save();reader=PdfReader(buffer);writer=PdfWriter();writer.clone_document_from_reader(reader)
-if len(reader.pages)!=50:raise ValueError('Expected exactly 50 pages')
+if len(reader.pages)!=4+sum(counts):raise ValueError('PDF page count differs from its contents plan')
 writer.add_metadata({'/Title':issue['title'],'/Author':'도서출판 아우내','/SpeaksEditionHash':args.hash,'/SpeaksTestOnly':str(args.test_only).lower(),'/SpeaksDesign':'Editorial 2026.10 v2'})
 Path(args.output).parent.mkdir(parents=True,exist_ok=True)
 with open(args.output,'wb') as output:writer.write(output)
-print(json.dumps({'pages':50,'output':args.output}))
+print(json.dumps({'pages':len(reader.pages),'pageCounts':counts,'output':args.output}))

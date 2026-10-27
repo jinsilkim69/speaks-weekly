@@ -16,10 +16,14 @@ export async function buildEdition(root,edition,{testOnly=false}={}) {
     const input=path.join(dir,'edition.json'),temp=path.join(dir,'proof.tmp.pdf'),output=path.join(dir,'proof.pdf');
     const ready={...edition,status:'draft',pdfUrl:`/editions/${edition.id}.pdf`};delete ready.pdfReview;
     atomicJson(input,ready);
+    if(ready.layout?.autoExpand){
+      const planned=JSON.parse(execFileSync(process.env.SPEAKS_PYTHON||'python',['-X','utf8',path.join(import.meta.dirname,'render-edition.py'),input,temp,'--root',root,'--hash','planning','--plan-only'],{encoding:'utf8',windowsHide:true,timeout:120000,maxBuffer:1024*1024}));
+      ready.pageCounts=planned.pageCounts;atomicJson(input,ready);
+    }
     try {
       execFileSync(process.env.SPEAKS_PYTHON||'python',['-X','utf8',path.join(import.meta.dirname,'render-edition.py'),input,temp,'--root',root,'--hash',editionFingerprint(ready,root),...(testOnly?['--test-only']:[])],{encoding:'utf8',stdio:['ignore','pipe','pipe'],windowsHide:true,timeout:120000,maxBuffer:1024*1024});
       const proof=inspectPdf(temp);
-      if(proof.pages!==50||!proof.a4||proof.emptyPages.length)throw Error('PDF 구조 검사 실패');
+      if(proof.pages!==4+(ready.pageCounts||[2,2,2,5,5,4,4,4,4,4,3,3,2,2]).reduce((n,x)=>n+x,0)||!proof.a4||proof.emptyPages.length)throw Error('PDF 구조 검사 실패');
       fs.renameSync(temp,output);
       ready.pdfReview={pages:proof.pages,sha256:sha256(fs.readFileSync(output)),visualCheck:false,summary:'',reviewedAt:null};
       atomicJson(input,ready);

@@ -40,6 +40,7 @@ export async function exportStaticSite() {
   for(const item of home.editions.filter(i=>i.status==='published')){
     const edition=readPublishedEdition(ROOT_DIR,item.id);
     fs.writeFileSync(path.join(apiDir,'editions',item.id+'.json'),JSON.stringify(edition,null,2));
+    if(fs.statSync(path.join(PUBLIC_DIR,edition.pdfUrl)).size>25*1024*1024)throw Error('배포 PDF가 25MiB를 넘었습니다: '+edition.id);
     fs.copyFileSync(path.join(PUBLIC_DIR,edition.pdfUrl),path.join(DIST_DIR,edition.pdfUrl));
   }
   fs.writeFileSync(path.join(apiDir, 'home'), JSON.stringify(home, null, 2));
@@ -152,6 +153,7 @@ function copyRecursiveSync(src, dest) {
       copyRecursiveSync(path.join(src, childItemName), path.join(dest, childItemName));
     });
   } else {
+    if(stats.size>25*1024*1024)throw Error('정적 파일이 배포 제한 25MiB를 넘었습니다: '+path.basename(src));
     fs.copyFileSync(src, dest);
   }
 }

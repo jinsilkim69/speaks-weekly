@@ -30,4 +30,9 @@ for(const asset of ['/index.html','/css/home.css','/js/home.js']){
  // Git normalizes Windows CRLF to LF in the deployment checkout.
  if(bytes.toString('utf8').replace(/\r\n/g,'\n')!==fs.readFileSync(path.join(root,'public',asset),'utf8').replace(/\r\n/g,'\n'))throw Error(`${asset}: 새 UI 배포가 아직 반영되지 않았습니다.`);
 }
-console.log(JSON.stringify({checkedAt:new Date().toISOString(),base:base.origin,homepageArticles:home.articles.length,programs:home.programs?.length||0,episodes:home.articles.filter(a=>a.episode).length,issues,images:assets.size,uiMatchesLocal:true},null,2));
+const html=await (await get('/')).text();
+const ogImage=/<meta property="og:image" content="([^"]+)"/.exec(html)?.[1];
+if(!ogImage||new URL(ogImage).origin!==base.origin&&base.hostname!=='127.0.0.1')throw Error('공유 대표 이미지의 절대 주소가 필요합니다.');
+const sharePath=new URL(ogImage).pathname,shareResponse=await get(sharePath),shareBytes=Buffer.from(await shareResponse.arrayBuffer());
+if(!shareResponse.headers.get('content-type')?.includes('image/png')||shareBytes.readUInt32BE(16)!==1200||shareBytes.readUInt32BE(20)!==600)throw Error('공유 카드가 올바른 2:1 PNG가 아닙니다.');
+console.log(JSON.stringify({checkedAt:new Date().toISOString(),base:base.origin,homepageArticles:home.articles.length,programs:home.programs?.length||0,episodes:home.articles.filter(a=>a.episode).length,issues,images:assets.size,uiMatchesLocal:true,shareCard:{url:ogImage,width:1200,height:600,bytes:shareBytes.length}},null,2));
