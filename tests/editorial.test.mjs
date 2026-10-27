@@ -1,9 +1,10 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
+import {fileURLToPath} from 'node:url';
 import { JSDOM } from 'jsdom';
 import {contentHash,validateArticle,validateEdition,readHomeCatalog} from '../scripts/editorial-catalog.mjs';
-const root=new URL('../',import.meta.url).pathname.replace(/^\/([A-Z]:)/i,'$1');
+const root=fileURLToPath(new URL('../',import.meta.url));
 const article=JSON.parse(fs.readFileSync(new URL('../data/web_articles.json',import.meta.url))).articles[0];
 test('edited copy invalidates review on both publication channels',()=>{
  validateArticle(article);
@@ -30,6 +31,8 @@ test('homepage opens independent full article and does not offer a draft PDF',as
   await new Promise(r=>setTimeout(r,30));
   assert.ok(dom.window.document.querySelector('#reader').open);
   assert.ok(dom.window.document.querySelector('.article-prose').textContent.length>2500);
+  assert.equal(dom.window.document.querySelectorAll('#article-content figure').length,1+(article.supportingVisuals?.length||0));
+  assert.match(dom.window.document.querySelector('#article-content figcaption').textContent,/AI 생성 삽화/);
   assert.equal(dom.window.document.querySelectorAll('#editions a').length,0);
   assert.equal(dom.window.document.querySelectorAll('.lead-story').length,1);
   dom.window.document.querySelector('#close-reader').click();

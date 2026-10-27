@@ -3,7 +3,7 @@
     {
       "id": "nomination-20261026",
       "topicId": "party-nomination",
-      "version": 1,
+      "version": 2,
       "status": "published",
       "title": "공천의 문을 넓히려면, 경쟁의 출발선도 바꿔야 한다",
       "bodyParagraphs": [
@@ -41,29 +41,64 @@
         }
       ],
       "visual": {
-        "url": "/images/nomination.svg",
-        "alt": "정보·기회·책임이 시민의 선택으로 이어지는 개념도",
-        "caption": "공천 개혁을 판단하는 세 가지 조건. 편집부가 기사 논지를 도식화했다.",
-        "credit": "주간 스픽스 편집부 · 개념도",
-        "kind": "diagram"
+        "kind": "generated-illustration",
+        "url": "/images/nomination-editorial-v1.png",
+        "width": 1536,
+        "height": 1024,
+        "purpose": "형식적 참여의 개방과 실질적인 경쟁 기회의 차이를 시각화",
+        "alt": "서로 다른 높이의 계단과 경사로에서 같은 열린 문으로 향하는 익명의 인물들을 표현한 종이 콜라주. 실제 인물이나 현장이 아니다.",
+        "caption": "같은 문을 향해도 출발선은 다를 수 있다. 공천 경쟁 기회의 차이를 표현한 개념 삽화.",
+        "credit": "주간 스픽스 · GPT 시각 기획 및 AI 이미지 생성",
+        "disclosure": "AI 생성 개념 삽화",
+        "rights": {
+          "status": "cleared",
+          "basis": "original-work",
+          "note": "내장 이미지 생성 도구로 신규 제작. 제3자 사진·로고·실존 인물 재현을 사용하지 않음."
+        },
+        "generation": {
+          "tool": "built-in image_gen",
+          "createdAt": "2026-10-27T01:16:53.028Z",
+          "prompt": "Original editorial paper-cut collage, anonymous people approach the same open doorway from different starting elevations, stairs and a gentle slope. Navy, teal, off-white, restrained vermilion. No text, real politicians, party logos or documentary-photo appearance. Landscape 3:2."
+        }
       },
       "verificationNote": "방송 자동 자막을 간접 서술하고 판결문을 확인한 분석·해설입니다. 대안과 평가는 필자의 논지이며 스픽스 공식 입장이나 출연자의 발언을 대신하지 않습니다. 정당별 현행 경선 비율을 비교한 실증 보도는 아닙니다.",
       "review": {
         "status": "approved",
-        "reviewedAt": "2026-10-27T00:21:18.018Z",
-        "summary": "사용자가 승인한 확장 원고. 출처 대조 및 자체 편집 검토.",
+        "reviewedAt": "2026-10-27T01:16:53.032Z",
+        "summary": "사용자 승인 본문 유지. Gemini 실제 자막·시각 기획 검토와 Claude 구독 캡션 검토를 받은 뒤 GPT가 실제 생성 이미지를 확인.",
         "evidence": "방송 740–931초, 판결문 원문 확인. 직접 인용 및 불확실한 인명 제외.",
         "analysis": "정보·기회·책임을 중심으로 공천 개방의 조건 분석.",
         "counterargument": "당원 참여의 정당성과 검증 책임 검토.",
         "language": "본문 2942자. 중복 논지 삭제, 발언과 해석 구분.",
-        "visual": "통계 아닌 개념도라고 이미지·캡션에 명시.",
-        "contentHash": "02e92371926a596ec124996cb960c601880536c103a85385cf9b1a0be6d5643a"
+        "visual": "실제 생성 결과에서 실존 인물·로고·문자 없음 확인. 기회 차이를 설명하는 개념 삽화로 한정. Claude 지적에 따라 정보·책임은 기존 설명 도표를 본문에 함께 배치. AI 표시·사용 근거 기록.",
+        "contentHash": "6f2e9a1a184be185d12f53f95c057b1da8c95f05ca842bcc4f9a8cc487cb52a9"
       },
       "subtitle": "민심 반영 70~80% 제안이 남긴 질문…당원의 참여권을 지키면서 신인과 시민에게 실질적인 선택의 기회를 주는 길",
-      "lead": "공천에서 일반 국민의 의견을 70~80% 반영하자는 제안이 나왔다. 10월 26일 스픽스 ‘역전의용사들’에 출연한 장성철의 주장이다. 오창익 진행자가 공천 과정을 공개하고 참여자를 늘리는 방안을 묻자, 장성철은 곧바로 정치 신인의 어려움을 꺼냈다. 이름을 알릴 기회가 부족한 사람에게는 경쟁에 참여할 자격만으로 충분하지 않다는 취지였다. 짧은 문답은 공천 개혁의 두 과제를 드러냈다. 후보를 고르는 사람의 범위를 넓히는 일과, 그 선택 앞에 설 사람의 기회를 넓히는 일이다."
+      "lead": "공천에서 일반 국민의 의견을 70~80% 반영하자는 제안이 나왔다. 10월 26일 스픽스 ‘역전의용사들’에 출연한 장성철의 주장이다. 오창익 진행자가 공천 과정을 공개하고 참여자를 늘리는 방안을 묻자, 장성철은 곧바로 정치 신인의 어려움을 꺼냈다. 이름을 알릴 기회가 부족한 사람에게는 경쟁에 참여할 자격만으로 충분하지 않다는 취지였다. 짧은 문답은 공천 개혁의 두 과제를 드러냈다. 후보를 고르는 사람의 범위를 넓히는 일과, 그 선택 앞에 설 사람의 기회를 넓히는 일이다.",
+      "supportingVisuals": [
+        {
+          "url": "/images/nomination.svg",
+          "alt": "정보·기회·책임이 시민의 선택으로 이어지는 개념도",
+          "caption": "공천 개혁을 판단하는 세 가지 조건. 편집부가 기사 논지를 도식화했다.",
+          "credit": "주간 스픽스 편집부 · 개념도",
+          "kind": "diagram",
+          "purpose": "공천 개혁의 정보·기회·책임이라는 세 조건을 설명",
+          "width": 1000,
+          "height": 680,
+          "rights": {
+            "status": "cleared",
+            "basis": "original-work",
+            "note": "편집부가 직접 작성한 SVG 개념도. 수치·통계 자료가 아님."
+          },
+          "afterParagraph": 15
+        }
+      ],
+      "revision": 1,
+      "savedAt": "2026-10-27T01:16:53.029Z",
+      "updatedAt": "2026-10-27T01:16:53.035Z"
     }
   ],
-  "updatedAt": "2026-10-27T00:21:18.017Z",
+  "updatedAt": "2026-10-27T01:16:53.035Z",
   "editions": [
     {
       "id": "2026-10-26",
