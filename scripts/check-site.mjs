@@ -12,7 +12,8 @@ const home=await (await get('/api/home')).json();
 const expected=readHomeCatalog(root);
 if(home.articles.length!==expected.articles.length||expected.articles.some(a=>!home.articles.some(b=>b.id===a.id&&contentHash(b)===contentHash(a)))||JSON.stringify(home.programs)!==JSON.stringify(expected.programs)||home.featuredEpisodeId!==expected.featuredEpisodeId||JSON.stringify(home.reviewPeriod)!==JSON.stringify(expected.reviewPeriod))throw Error('홈페이지 원고·코너·회차 배포본이 현재 검수본과 일치하지 않습니다.');
 if(JSON.stringify(home.officialDirectory)!==JSON.stringify(expected.officialDirectory)||home.homepageMode!==expected.homepageMode)throw Error('공식 제목·원문 링크 배포본이 현재 확인본과 다릅니다.');
-const assets=new Set(),issues=[];
+const assets=new Set(),checkedAssets=new Set(),issues=[];
+for(const entry of home.officialDirectory?.entries||[])if(entry.image){const bytes=Buffer.from(await (await get(entry.image.url)).arrayBuffer());if(digest(bytes)!==entry.image.sha256)throw Error(entry.id+': 방송 이미지 배포본 불일치');assets.add(entry.image.url);checkedAssets.add(entry.image.url);}
 function checkArticles(items){for(const a of items){if(!a.title?.trim()||!a.lead?.trim()||!a.bodyParagraphs?.length||!a.sources?.length||!a.visual?.credit)throw Error(`${a.id}: 기사 전문·출처·이미지 정보 부족`);for(const s of a.sources)if(!/^https?:\/\//.test(s.url))throw Error(`${a.id}: 잘못된 출처 URL`);for(const v of [a.visual,...(a.supportingVisuals||[])]){if(!v.url.startsWith('/'))throw Error(`${a.id}: 로컬 이미지 주소가 필요합니다.`);assets.add(v.url);}}}
 checkArticles(home.articles);
 for(const issue of home.editions.filter(i=>i.status==='published')){
@@ -25,7 +26,7 @@ for(const issue of home.editions.filter(i=>i.status==='published')){
  assets.add('/images/editions/'+encodeURIComponent(issue.id)+'-cover.jpg');
  issues.push({id:issue.id,articles:edition.articleSnapshots.length,pdfBytes:bytes.length,pdfSha256:sha});
 }
-for(const asset of assets){const response=await get(asset);if(!(await response.arrayBuffer()).byteLength)throw Error(`${asset}: 빈 이미지`);}
+for(const asset of assets){if(checkedAssets.has(asset))continue;const response=await get(asset);if(!(await response.arrayBuffer()).byteLength)throw Error(`${asset}: 빈 이미지`);}
 for(const asset of ['/index.html','/css/home.css','/js/home.js']){
  const response=await get(asset),bytes=Buffer.from(await response.arrayBuffer());
  // Git normalizes Windows CRLF to LF in the deployment checkout.

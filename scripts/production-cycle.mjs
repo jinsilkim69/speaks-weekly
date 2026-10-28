@@ -21,7 +21,7 @@ export async function beginCycle(root,kind,{now=new Date()}={}){
   if(active?.state==='running')throw Error('중단된 제작 사이클이 있습니다. inspect로 결과를 확인하고 fail로 종료한 뒤 재시도하세요.');
   const home=readHomeCatalog(root);
   const backlog=JSON.parse(fs.readFileSync(path.join(root,'data/editions.json'),'utf8')).issues.filter(i=>i.status!=='published');
-  const state={...slot,state:'running',startedAt:now.toISOString(),attempt:(previous?.attempt||0)+1,before:{articles:home.articles.length,editions:home.editions.filter(i=>i.status==='published').length},backlog:backlog.map(i=>({id:i.id,title:i.title,articles:i.articleSnapshots?.length||0})),steps:[]};
+  const state={...slot,state:'running',startedAt:now.toISOString(),attempt:(previous?.attempt||0)+1,before:{articles:home.articles.length,officialLinks:home.officialDirectory?.entries.length||0,directoryUpdatedAt:home.officialDirectory?.updatedAt||null,editions:home.editions.filter(i=>i.status==='published').length},backlog:backlog.map(i=>({id:i.id,title:i.title,articles:i.articleSnapshots?.length||0})),steps:[]};
   atomicJson(file,state);atomicJson(path.join(dir,'active.json'),state);return state;
  });
 }
@@ -31,7 +31,7 @@ export async function finishCycle(root,input,{now=new Date()}={}){
   const dir=path.join(root,'data/operations'),file=path.join(dir,'cycles',input.id+'.json'),state=read(file,null),active=read(path.join(dir,'active.json'),null);
   if(!state||active?.id!==input.id||active.state!=='running')throw Error('현재 실행 중인 제작 사이클이 아닙니다.');
   if(input.state==='completed'&&(!Array.isArray(input.steps)||!input.steps.length||input.steps.some(s=>!s.action?.trim()||!s.result?.trim())))throw Error('실제 단계별 결과가 필요합니다.');
-  const home=readHomeCatalog(root),result={...state,state:input.state,finishedAt:now.toISOString(),summary:input.summary,steps:input.steps||[],after:{articles:home.articles.length,editions:home.editions.filter(i=>i.status==='published').length}};
+  const home=readHomeCatalog(root),result={...state,state:input.state,finishedAt:now.toISOString(),summary:input.summary,steps:input.steps||[],after:{articles:home.articles.length,officialLinks:home.officialDirectory?.entries.length||0,directoryUpdatedAt:home.officialDirectory?.updatedAt||null,editions:home.editions.filter(i=>i.status==='published').length}};
   atomicJson(file,result);atomicJson(path.join(dir,'active.json'),result);return result;
  });
 }

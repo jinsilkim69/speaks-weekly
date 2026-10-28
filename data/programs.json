@@ -46,6 +46,13 @@
       "description": "박진영의 정치 전망과 정책 제안을 회차별로 읽습니다.",
       "sourceUrl": "https://www.youtube.com/@SPEAKS_TV",
       "schedule": null
+    },
+    {
+      "id": "conservative-strategy",
+      "name": "보수의 전략",
+      "description": "스픽스 공식 보수의전략 방송 기사와 원본 방송을 안내합니다.",
+      "sourceUrl": "https://www.speaks.kr/news/articleView.html?idxno=20702",
+      "schedule": null
     }
   ],
   "reviewPeriod": {

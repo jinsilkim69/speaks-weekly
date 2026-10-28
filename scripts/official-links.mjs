@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {createHash} from 'node:crypto';
 const day=v=>typeof v==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(v)&&Number.isFinite(Date.parse(v))&&new Date(v).toISOString().slice(0,10)===v;
 export function validateOfficialDirectory(data,programs){
  if(data?.mode!=='official-links'||!Array.isArray(data.entries)||!Number.isFinite(Date.parse(data.updatedAt)))throw Error('공식 기사 목록 형식이 필요합니다.');
@@ -13,8 +14,9 @@ export function validateOfficialDirectory(data,programs){
   if(!Number.isFinite(Date.parse(e.publishedAt))||!Number.isFinite(Date.parse(e.verifiedAt))||!e.verification?.trim()||!day(e.displayDate))throw Error('공식 입력일·확인 기록이 필요합니다.');
   if(e.broadcastDate){if(!day(e.broadcastDate)||e.dateBasis!=='article-broadcast-date'||e.displayDate!==e.broadcastDate)throw Error('확인된 방송일 기준이 필요합니다.');}
   else if(e.dateBasis!=='published'||e.displayDate!==new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(e.publishedAt)))throw Error('방송일 미확인 기사는 게시일로 구분해야 합니다.');
+  if(e.image){const im=e.image,video=e.videoUrl?new URL(e.videoUrl).searchParams.get('v'):null;if(!video||im.url!==`/images/broadcasts/${video}.jpg`||im.kind!=='thumbnail'||im.sourceUrl!==e.videoUrl||!im.credit||!im.alt||!Number.isInteger(im.width)||im.width<300||!Number.isInteger(im.height)||im.height<160||!/^([a-f0-9]{64})$/.test(im.sha256||''))throw Error('확인한 원방송 썸네일과 크기·출처가 필요합니다.');}
   if(e.videoUrl&&!/^https:\/\/www\.youtube\.com\/watch\?v=[-_a-zA-Z0-9]{11}$/.test(e.videoUrl))throw Error('확인된 원본 영상 주소만 표시합니다.');
  }
  return data;
 }
-export function readOfficialDirectory(root,programs){const file=path.join(root,'data/official-links.json');if(fs.existsSync(file))return validateOfficialDirectory(JSON.parse(fs.readFileSync(file,'utf8')),programs);const config=path.join(root,'data/operations-config.json');if(fs.existsSync(config)&&JSON.parse(fs.readFileSync(config,'utf8')).homepagePolicy==='official-title-and-source-links')throw Error('공식 안내 목록이 없습니다. 이전 자체 리뷰로 대체하지 않습니다.');return null;}
+export function readOfficialDirectory(root,programs){const file=path.join(root,'data/official-links.json');if(fs.existsSync(file)){const data=validateOfficialDirectory(JSON.parse(fs.readFileSync(file,'utf8')),programs);for(const e of data.entries){if(!e.image)continue;const asset=path.join(root,'public',e.image.url);if(!fs.existsSync(asset)||createHash('sha256').update(fs.readFileSync(asset)).digest('hex')!==e.image.sha256)throw Error('방송 썸네일 파일 검증 실패: '+e.id);}return data;}const config=path.join(root,'data/operations-config.json');if(fs.existsSync(config)&&JSON.parse(fs.readFileSync(config,'utf8')).homepagePolicy==='official-title-and-source-links')throw Error('공식 안내 목록이 없습니다. 이전 자체 리뷰로 대체하지 않습니다.');return null;}
