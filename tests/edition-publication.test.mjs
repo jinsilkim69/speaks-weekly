@@ -56,7 +56,7 @@ test('incomplete issue and overflowing article fail instead of padding or trunca
  const root=fs.mkdtempSync(path.join(os.tmpdir(),'speaks-overflow-'));t.after(()=>fs.rmSync(root,{recursive:true,force:true}));
  fs.cpSync(new URL('../public/images',import.meta.url),path.join(root,'public/images'),{recursive:true});
  const edition=fixtureEdition();
- await assert.rejects(buildEdition(root,{...edition,articleSnapshots:edition.articleSnapshots.slice(0,1)}),/14개/);
+ await assert.rejects(buildEdition(root,{...edition,articleSnapshots:[]}),/원고/);
  const a=edition.articleSnapshots[0];a.bodyParagraphs=Array(80).fill(a.bodyParagraphs[0]);a.review.contentHash=contentHash(a);
  await assert.rejects(buildEdition(root,edition,{testOnly:true}),/overflow/);
  assert.equal(fs.existsSync(path.join(root,'output/pdf',edition.id,'proof.tmp.pdf')),false);
@@ -71,4 +71,16 @@ test('variable page editions grow to preserve copy and bind actual pages to the 
  assert.ok(result.proof.pages>50);assert.equal(result.proof.pages,4+ready.pageCounts.reduce((n,x)=>n+x,0));
  ready.status='published';ready.pdfReview={...ready.pdfReview,visualCheck:true,summary:'Variable layout test only',reviewedAt:new Date().toISOString()};fs.mkdirSync(path.join(root,'public/editions'),{recursive:true});fs.copyFileSync(result.output,path.join(root,'public',ready.pdfUrl));validateEdition(ready,root);
  const wrong=structuredClone(ready);wrong.pdfReview.pages=50;assert.throws(()=>validateEdition(wrong,root),/편성과/);
+});
+
+test('expanded issue uses multiple contents pages and compact body flow without changing old releases',async t=>{
+ const root=fs.mkdtempSync(path.join(os.tmpdir(),'speaks-expanded-'));t.after(()=>fs.rmSync(root,{recursive:true,force:true}));
+ fs.cpSync(new URL('../public/images',import.meta.url),path.join(root,'public/images'),{recursive:true});
+ const edition=fixtureEdition();edition.id='expanded-proof';edition.layout={autoExpand:true,compactFlow:true,publicationName:'위클리 스픽스'};
+ edition.articleSnapshots=[...edition.articleSnapshots,...edition.articleSnapshots.map(a=>({...structuredClone(a),id:a.id+'-extra'}))];edition.pageCounts=edition.articleSnapshots.map(()=>1);
+ const named=edition.articleSnapshots[0];named.bodyParagraphs=Array(50).fill(named.bodyParagraphs[0]);named.author='서이준 기자';named.writer={id:'politics',name:'서이준',kind:'ai-journalist',disclosure:'AI 기자'};named.review.contentHash=contentHash(named);
+ const result=await buildEdition(root,edition,{testOnly:true}),ready=JSON.parse(fs.readFileSync(result.input,'utf8'));
+ assert.equal(result.proof.pages,5+ready.pageCounts.reduce((n,x)=>n+x,0));assert.equal(result.proof.testOnly,true);
+ const check=JSON.parse(execFileSync('python',['-X','utf8','-c','import sys,json;from pypdf import PdfReader;r=PdfReader(sys.argv[1]);print(json.dumps({"toc":[r.pages[2].extract_text(),r.pages[3].extract_text()],"colophon":r.pages[4].extract_text(),"links":[len(r.pages[i].get("/Annots",[])) for i in [2,3]]},ensure_ascii=True))',result.output],{encoding:'utf8'}));
+ assert.ok(check.toc.every(t=>t.includes('CONTENTS')));assert.ok(check.links.every(n=>n>=14));assert.match(check.colophon,/위클리 스픽스/);assert.match(check.colophon,/AI 기자/);assert.match(check.colophon,/서이준/);
 });

@@ -18,7 +18,7 @@ function checkArticles(items){for(const a of items){if(!a.title?.trim()||!a.lead
 checkArticles(home.articles);
 for(const issue of home.editions.filter(i=>i.status==='published')){
  const edition=await (await get('/api/editions/'+encodeURIComponent(issue.id)+'.json')).json();
- if(edition.articleSnapshots.length!==14)throw Error(`${issue.id}: 기사 14개 필요`);
+ if(!edition.articleSnapshots.length)throw Error(`${issue.id}: 기사 본문 필요`);
  checkArticles(edition.articleSnapshots);
  const pdf=await get(edition.pdfUrl);if(!pdf.headers.get('content-type')?.includes('application/pdf'))throw Error('PDF MIME 오류');
  const bytes=Buffer.from(await pdf.arrayBuffer()),sha=digest(bytes);

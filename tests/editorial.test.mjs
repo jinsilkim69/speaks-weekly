@@ -15,7 +15,7 @@ test('edited copy invalidates review on both publication channels',()=>{
  assert.throws(()=>validateArticle(missing),/counterargument/);
 });
 test('weekly release requires edition treatment and a verified PDF',()=>{
- assert.throws(()=>validateEdition({status:'published',articleSnapshots:[article]},root),/14개/);
+ assert.throws(()=>validateEdition({status:'published',articleSnapshots:[]},root),/원고/);
  const items=Array.from({length:14},(_,i)=>({...structuredClone(article),id:`article-${i}`}));
  assert.throws(()=>validateEdition({status:'published',articleSnapshots:items},root),/재편집/);
  const weekly={...structuredClone(article),weeklyTreatment:'주간의 다른 자료와 비교하여 재구성'};

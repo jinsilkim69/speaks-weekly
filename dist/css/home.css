@@ -290,3 +290,5 @@ dialog{position:fixed;inset:0;width:100%;height:100dvh;max-width:none;max-height
 .footer-brand span,.reader-brand span{color:#e6002d}
 @media(max-width:1000px){.brand img{width:380px}}
 @media(max-width:720px){.masthead{padding:5px 0 8px}.brand img{width:360px;margin:auto}}
+
+.ai-reporter-label{font-size:11px;font-weight:400;color:#666;white-space:nowrap}

@@ -57,11 +57,13 @@ export async function exportStaticSite() {
     dossier: fs.existsSync(dossierPath) ? fs.readFileSync(dossierPath, 'utf8') : '',
     blueprint: fs.existsSync(blueprintPath) ? JSON.parse(fs.readFileSync(blueprintPath, 'utf8')) : {}
   }));
-  const adminPath = path.join(DIST_DIR, 'admin.html');
-  fs.writeFileSync(adminPath, fs.readFileSync(adminPath, 'utf8')
-    .replace('id="run-pipeline-btn"', 'id="run-pipeline-btn" disabled title="로컬 서버에서 실행하세요"')
-    .replace('id="save-issue-btn"', 'id="save-issue-btn" disabled title="로컬 서버에서 저장하세요"')
-    .replace('<body', '<body data-static="true"'));
+  for(const name of ['admin.html','legacy-admin.html']){
+    const adminPath=path.join(DIST_DIR,name);if(!fs.existsSync(adminPath))continue;
+    fs.writeFileSync(adminPath,fs.readFileSync(adminPath,'utf8')
+      .replace('id="run-pipeline-btn"','id="run-pipeline-btn" disabled title="로컬 서버에서 실행하세요"')
+      .replace('id="save-issue-btn"','id="save-issue-btn" disabled title="로컬 서버에서 저장하세요"')
+      .replace('<body','<body data-static="true"'));
+  }
 
   // 3. live-feed 데이터도 정적 생성 (유튜브 고화질 실제 방송 썸네일 & 영상 링크 연결)
   const now = new Date();

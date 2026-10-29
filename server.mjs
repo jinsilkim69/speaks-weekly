@@ -1,8 +1,8 @@
 /**
- * 『주간 스픽스 (SPEAKS WEEKLY)』 통합 웹 매거진 · 50p PDF 조판 뷰어 · 편집국 관리자 서버 (server.mjs)
+ * 『위클리 스픽스 (WEEKLY SPEAKS)』 통합 웹 매거진 · 50p PDF 조판 뷰어 · 편집국 관리자 서버 (server.mjs)
  * - 메인 웹 매거진 (데일리 실시간 피드 + 위클리 50p 결합): http://localhost:3000/
  * - 50p A4 인쇄/PDF 뷰어: http://localhost:3000/magazine
- * - 편집국 관리자 대시보드: http://localhost:3000/admin
+ * - 주간호 원고 편집실: http://localhost:3000/admin
  */
 
 import http from 'node:http';
@@ -14,6 +14,7 @@ import { validateIssue, synchronizePages, writeIssueAtomic } from './scripts/iss
 import { feedFromIssue } from './scripts/live-feed.mjs';
 import { readHomeCatalog,readPublishedEdition } from './scripts/editorial-catalog.mjs';
 import { drafts,saveDraft,approveDraft,publishDraft,releaseEdition } from './scripts/editorial-service.mjs';
+import {deskEditions,readDeskEdition,createDeskEdition,saveDeskEdition,reviewDeskEdition,previewDeskEdition} from './scripts/edition-desk.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -159,6 +160,23 @@ const server = http.createServer(async (req, res) => {
     if (req.method === 'POST' && req.headers.origin && req.headers.origin !== parsedUrl.origin) {
       res.writeHead(403); res.end('Cross-origin writes are forbidden'); return;
     }
+    if(pathname==='/api/weekly-editor'&&req.method==='GET'){
+      const payload={drafts:deskEditions(__dirname),editions:readHomeCatalog(__dirname).editions};
+      res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(payload));return;
+    }
+    if(pathname.startsWith('/api/weekly-editor/proof/')&&req.method==='GET'){
+      const id=pathname.split('/').at(-1),e=readDeskEdition(__dirname,id);
+      if(!e.proof||e.proof.revision!==e.draftRevision)throw Object.assign(Error('현재 원고의 PDF 시안을 먼저 만들어 주세요.'),{statusCode:404});
+      res.writeHead(200,{'Content-Type':'application/pdf','Cache-Control':'no-store','Content-Disposition':'inline; filename="'+id+'-draft.pdf"'});fs.createReadStream(path.join(__dirname,'output/pdf',id,'proof.pdf')).pipe(res);return;
+    }
+    if(pathname.startsWith('/api/weekly-editor/')&&req.method==='GET'){
+      res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(readDeskEdition(__dirname,pathname.split('/').at(-1))));return;
+    }
+    if(pathname.startsWith('/api/weekly-editor/')&&req.method==='POST'){
+      const handlers={create:createDeskEdition,save:saveDeskEdition,review:reviewDeskEdition,preview:previewDeskEdition},handler=handlers[pathname.split('/').at(-1)];
+      if(!handler)throw Object.assign(Error('지원하지 않는 편집 작업'),{statusCode:404});
+      const result=await handler(__dirname,await readJsonBody(req));res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(result));return;
+    }
     if(pathname==='/api/editorial'&&req.method==='GET'){
       const jobsDir=path.join(DATA_DIR,'jobs');
       const jobs=fs.existsSync(jobsDir)?fs.readdirSync(jobsDir).filter(f=>f.endsWith('.json')).map(f=>JSON.parse(fs.readFileSync(path.join(jobsDir,f),'utf8'))):[];
@@ -246,7 +264,7 @@ const server = http.createServer(async (req, res) => {
     } else if (pathname === '/magazine') {
       filePath = path.join(PUBLIC_DIR, 'magazine.html');
     } else if (pathname === '/admin') {
-      filePath = path.join(PUBLIC_DIR, 'admin.html');
+      filePath = path.join(PUBLIC_DIR, 'weekly-editor.html');
     } else {
       let decoded;
       try { decoded = decodeURIComponent(pathname); } catch { res.writeHead(400); res.end(); return; }
@@ -266,7 +284,7 @@ const server = http.createServer(async (req, res) => {
     }
 
     res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
-    res.end('404 Not Found - 주간 스픽스 (SPEAKS WEEKLY)');
+    res.end('404 Not Found - 위클리 스픽스 (WEEKLY SPEAKS)');
   } catch (err) {
     console.error('Server error:', err);
     res.writeHead(err.statusCode || 500, { 'Content-Type': 'application/json; charset=utf-8' });
@@ -278,11 +296,11 @@ Promise.resolve().then(() => {
   server.listen(PORT, process.env.HOST || '127.0.0.1', () => {
     const boundPort = server.address().port;
     console.log(`\n==================================================================`);
-    console.log(`📘 『주간 스픽스 (SPEAKS WEEKLY)』 자동 출판 서버 가동 완료!`);
+    console.log(`📘 『위클리 스픽스 (WEEKLY SPEAKS)』 자동 출판 서버 가동 완료!`);
     console.log(`   - 발행·제작처: 도서출판 아우내 (충남 천안시 동남구 양지말1길 40)`);
     console.log(`   - 반응형 웹 매거진 메인: http://localhost:${boundPort}/`);
     console.log(`   - 50페이지 A4 인쇄/PDF 뷰어: http://localhost:${boundPort}/magazine`);
-    console.log(`   - 편집국 관리자 대시보드: http://localhost:${boundPort}/admin`);
+    console.log(`   - 주간호 원고 편집실: http://localhost:${boundPort}/admin`);
     console.log(`==================================================================\n`);
   });
 }).catch(err => { console.error('서버 초기화 실패:', err); process.exitCode = 1; });

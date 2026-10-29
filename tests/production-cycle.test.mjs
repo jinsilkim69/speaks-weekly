@@ -24,12 +24,13 @@ test('a stale cycle requires inspection, never silently steals the running job',
 });
 test('subscription desk validates auth, records failure and reuses only completed output',async t=>{
  const root=workspace(t),binary=path.join(root,'mock-claude.exe');fs.writeFileSync(binary,'mock');let calls=0,fail=true;
- const request={id:'desk-test',articleIds:['one'],prompt:'실제 자료를 읽고 집필'};
+ for(const file of ['data/editorial/writer-profiles.json','skills/speaks-weekly-writing/SKILL.md']){fs.mkdirSync(path.dirname(path.join(root,file)),{recursive:true});fs.copyFileSync(new URL('../'+file,import.meta.url),path.join(root,file));}
+ const request={id:'desk-test',articleIds:['one'],articleProfiles:{one:'broadcast'},prompt:'실제 자료를 읽고 집필'};
  const run=async (cmd,args,options)=>{
   calls++;assert.equal(options.env.ANTHROPIC_API_KEY,undefined);assert.equal(options.env.ANTHROPIC_AUTH_TOKEN,undefined);
   if(args[0]==='auth')return {stdout:JSON.stringify({loggedIn:true,authMethod:'claude.ai'})};
-  assert.equal(options.input,request.prompt);if(fail)return {stdout:JSON.stringify({is_error:true,result:'subscription limit'})};
-  return {stdout:JSON.stringify({result:JSON.stringify({articles:[{id:'one',title:'제목',lead:'리드',bodyParagraphs:['본문']} ]})})};
+  assert.ok(options.input.includes(request.prompt));if(fail)return {stdout:JSON.stringify({is_error:true,result:'subscription limit'})};
+  return {stdout:JSON.stringify({result:JSON.stringify({articles:[{id:'one',title:'제목',lead:'리드',bodyParagraphs:['본문'.repeat(2600)]} ]})})};
  };
  await assert.rejects(runClaudeDesk(root,request,{run,binary}),/subscription limit/);
  const file=path.join(root,'data/production/desk-test/execution.json');assert.equal(JSON.parse(fs.readFileSync(file)).state,'failed');

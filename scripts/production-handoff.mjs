@@ -30,7 +30,8 @@ export function assertProductionHandoff(root,record,articles){
  for(const a of articles){
   validateArticle(a);validateArticleVisuals(a,root);
   if(record.review.articleHashes?.[a.id]!==contentHash(a))throw Error('최종 인계 뒤 원고·이미지가 변경됐습니다: '+a.id);
-  if(!record.sources.some(s=>s.id===a.episode?.videoId))throw Error('원고에 대응하는 원문 인계가 없습니다.');
+  if(a.episode){if(!record.sources.some(s=>s.id===a.episode.videoId))throw Error('원고에 대응하는 원문 인계가 없습니다.');}
+  else{const sourceIds=record.articleSources?.[a.id];if(!Array.isArray(sourceIds)||!sourceIds.length||sourceIds.some(id=>!record.sources.some(s=>s.id===id)))throw Error('원고에 대응하는 원문 인계가 없습니다.');}
  }
  return {status:'ready-to-publish',articles:articles.length,researchProviders:[...new Set(research.map(r=>r.provider))],writer:'Claude',reviewer:'GPT'};
 }
