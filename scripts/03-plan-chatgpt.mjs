@@ -22,7 +22,7 @@ export async function planWithChatGPT(analysisResultInput = null) {
   const blueprint = {
     generatedAt: new Date().toISOString(),
     plannerEngine: 'ChatGPT-4o Editorial Architect (Antigravity 내장 에이전트 파이프라인)',
-    magazineTitle: '주간 스픽스 (SPEAKS WEEKLY)',
+    magazineTitle: '위클리 스픽스 (WEEKLY SPEAKS)',
     subtitle: '더 나은 세상을 만드는 정치·시사·문화 주간지',
     issueNumber: collected.issueNumber || '제2026-44호 (통권 제148호)',
     publishDate: collected.issueDate || '2026. 10. 26',

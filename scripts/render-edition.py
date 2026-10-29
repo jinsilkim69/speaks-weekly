@@ -22,6 +22,7 @@ parser=argparse.ArgumentParser()
 parser.add_argument('input');parser.add_argument('output');parser.add_argument('--root',required=True)
 parser.add_argument('--hash',required=True);parser.add_argument('--test-only',action='store_true');parser.add_argument('--plan-only',action='store_true')
 args=parser.parse_args();issue=json.loads(Path(args.input).read_text(encoding='utf-8-sig'))
+publication_name=issue.get('layout',{}).get('publicationName','주간 스픽스')
 fontdir=Path(__file__).resolve().parent.parent/'assets/fonts/nanummyeongjo'
 win=Path(os.environ.get('WINDIR','C:/Windows'))/'Fonts'
 sans=os.environ.get('SPEAKS_KOREAN_FONT',str(win/'malgun.ttf'))
@@ -53,7 +54,7 @@ def begin(section,cover=False):
     global page_no
     page_no+=1;c.setFillColor(INK)
     if not cover:
-        text('주간 스픽스',M,H-29,8,'SansBold');c.setFont('Sans',7.5);c.setFillColor(GRAY);c.drawRightString(W-M,H-29,section[:60]);line(H-39)
+        text(publication_name,M,H-29,8,'SansBold');c.setFont('Sans',7.5);c.setFillColor(GRAY);c.drawRightString(W-M,H-29,section[:60]);line(H-39)
     text(issue['period'],M,25,7.3,'Sans',GRAY)
     c.setFillColor(INK);c.setFont('SansBold',9);c.drawRightString(W-M,25,f'{page_no:02d}')
     if args.test_only:text('시스템 검증용 · 배포 금지',W/2-65,12,7,'SansBold',RED)
@@ -203,8 +204,13 @@ if args.plan_only:
 
 cover=next((a for a in issue['articleSnapshots'] if a['id']==issue.get('coverArticleId')),issue['articleSnapshots'][0])
 begin('표지',True)
-text('주간',M,H-88,46,'SansBold');text('스픽스',M+pdfmetrics.stringWidth('주간','SansBold',46),H-88,46,'SansBold',RED)
-text('S P E A K S   W E E K L Y',M,H-112,9,'SansBold');line(H-125,color=INK,weight=1)
+if publication_name=='위클리 스픽스':
+    text('위클리 스픽',M,H-88,41,'SansBold',colors.HexColor('#26357d'));text('스',M+pdfmetrics.stringWidth('위클리 스픽','SansBold',41),H-88,41,'SansBold',colors.HexColor('#e6002d'))
+    text('W E E K L Y   S P E A K S',M,H-112,9,'SansBold')
+else:
+    text('주간',M,H-88,46,'SansBold');text('스픽스',M+pdfmetrics.stringWidth('주간','SansBold',46),H-88,46,'SansBold',RED)
+    text('S P E A K S   W E E K L Y',M,H-112,9,'SansBold')
+line(H-125,color=INK,weight=1)
 text('정치 · 시사 · 문화',M,H-143,8,'Sans',GRAY);c.setFillColor(GRAY);c.setFont('Sans',8);c.drawRightString(W-M,H-143,issue['period']+(' · 개정판' if issue.get('revisionOf') else ''))
 coverstyle=ParagraphStyle('cover-title',fontName='SerifBold',fontSize=32,leading=43,wordWrap='CJK')
 if issue.get('layout',{}).get('coverStyle')=='portrait-feature':
@@ -235,7 +241,7 @@ if sum(len(p) for p in issue['introduction'])<800:
 else:
     groups=partition(intro,[y-65,y-65])
     paint(groups[0],M,y);paint(groups[1],M+COL+GAP,y)
-text('주간 스픽스 편집부',M,55,9,'SansBold');c.showPage()
+text(publication_name+' 편집부',M,55,9,'SansBold');c.showPage()
 
 begin('목차');text('CONTENTS',M,H-78,10,'SansBold',RED)
 y=drawp('이번 호',M,H-95,W-2*M,heading);text(issue['period'],M,y-5,9,'Sans',GRAY)
@@ -253,7 +259,7 @@ for col,subset in enumerate([rows[:7],rows[7:]]):
 c.showPage()
 
 begin('판권과 읽기 안내');text('발행·제작',M,H-75,10,'SansBold',RED)
-y=drawp('주간 스픽스',M,H-95,W-2*M,heading)
+y=drawp(publication_name,M,H-95,W-2*M,heading)
 revision_note=issue.get('revisionSummary','원고 퇴고·도표 재제작·지면 재조판') if issue.get('layout',{}).get('editorialScope') else '원고 퇴고·도표 재제작·지면 재조판'
 colophon=['도서출판 아우내','충남 천안시 동남구 양지말1길 40','전화 070-7561-0677','ISSN 3022-891X / ISBN 978-89-98765-43-2','원천 미디어: 스픽스 인터넷 신문 및 유튜브 @SPEAKS_TV','대상 기간 '+issue['period'],'개정판: '+revision_note if issue.get('revisionOf') else '주간 웹·PDF 발행 · '+str(4+sum(counts))+'면']
 for p in colophon:y=drawp(p,M,y,W-2*M,sub)

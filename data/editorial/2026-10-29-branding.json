@@ -1,0 +1,14 @@
+{
+  "publicationName": "위클리 스픽스",
+  "englishName": "WEEKLY SPEAKS",
+  "changedAt": "2026-10-29",
+  "logo": "/images/brand/weekly-speaks-logo-v1.png",
+  "sha256": "6b9d2a5dd3f14202ea5f2ab4f2a599fd856a9769259d56b03f131b3f4e3ff6c4",
+  "generation": {
+    "tool": "built-in image_gen",
+    "reference": "사용자가 제공한 스픽스 로고와 기존 홈페이지 제호 이미지",
+    "prompt": "Edit existing masthead to exact Korean text 위클리 스픽스, dark navy #26357D except final syllable 스 bright red #E6002D. Bold compact angular Korean block letterforms inspired by supplied SPEAKS reference. Small centered tracked uppercase WEEKLY SPEAKS beneath. Transparent background, one line, flat ink, no shadows or gradients.",
+    "sourceOutput": "exec-60763714-d11e-4ea3-95bb-5f63d02c8f82.png"
+  },
+  "archivePolicy": "기존 PDF와 원고 스냅샷은 보존. 홈페이지 및 향후 발행물에 새 제호 적용."
+}
