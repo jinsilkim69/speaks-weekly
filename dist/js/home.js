@@ -104,6 +104,10 @@ async function load(){try{
  document.getElementById('more').hidden=!rest.length;
  const editions=[...data.editions].sort((a,b)=>(Date.parse(b.publishedAt)||0)-(Date.parse(a.publishedAt)||0));
  const latest=editions.find(i=>i.status==='published'),featured=latest||editions[0],archive=editions.filter(i=>i.status==='published'&&i.id!==latest?.id&&(i.revisionOf||i.id)!==(latest?.revisionOf||latest?.id));
+ const pdfIssue=editionId?raw:latest;
+ const pdfHeader=document.getElementById('header-edition');
+ pdfHeader.hidden=!(pdfIssue?.status==='published'&&/^\/(?!\/).*\.pdf$/.test(pdfIssue.pdfUrl||''));
+ if(!pdfHeader.hidden)pdfHeader.innerHTML=`<div class="header-edition-copy"><span class="eyebrow">${editionId?'이 주간호':'최신 주간호'} · ${esc(pdfIssue.period)}</span><strong>${esc(pdfIssue.title)}</strong><span class="header-edition-pages">${Number(pdfIssue.pages||pdfIssue.pdfReview?.pages)||''}면</span></div><div class="header-edition-actions"><a class="pdf-preview" href="${safeUrl(pdfIssue.pdfUrl)}" target="_blank" rel="noopener">PDF 펼쳐보기 ↗</a><a class="pdf-download" href="${safeUrl(pdfIssue.pdfUrl)}" download="speaks-weekly-${esc(pdfIssue.id)}.pdf"><span aria-hidden="true">↓</span> 주간지 PDF 다운로드</a></div>`;
  document.getElementById('editions').innerHTML=featured?issueCard(featured)+(archive.length?`<details class="issue-archive"><summary>이전 발행호 ${archive.length}개</summary>${archive.map(i=>`<a href="/?edition=${encodeURIComponent(i.id)}&archive=1">${esc(i.period)} · ${esc(i.title)} · 보존본</a>`).join('')}</details>`:''):'<p>첫 주간지를 준비하고 있습니다.</p>';
  if(official)renderOfficialPrograms(raw.officialDirectory);else renderPrograms(hasPrograms,raw.reviewPeriod);document.getElementById('weekly').hidden=!editionId;document.getElementById('articles').hidden=!!hasPrograms;watchImages();route();settleAnchor();
  }catch{document.getElementById('lead').innerHTML='<div class="error" role="alert">기사를 불러오지 못했습니다. <button id="retry">다시 불러오기</button></div>';document.getElementById('updated').textContent='기사 연결 확인 필요';document.getElementById('retry').onclick=load;}}

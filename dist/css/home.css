@@ -265,3 +265,19 @@ dialog{position:fixed;inset:0;width:100%;height:100dvh;max-width:none;max-height
 @media(max-width:380px){.feature-aside{grid-template-columns:1fr}.official-list .official-entry{display:block}.official-entry-copy{padding-top:12px}}
 
 #review-calendar-heading{font-size:20px;margin:35px 0 0}.official-archive{margin:20px 0 0}.official-archive summary{font-size:13px;cursor:pointer;padding:10px 0;min-height:44px}.official-archive[open] summary{margin-bottom:15px}
+
+
+.header-edition[hidden]{display:none}
+.header-edition{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:18px 0;border-bottom:1px solid var(--ink)}
+.header-edition-copy{display:flex;align-items:baseline;flex-wrap:wrap;gap:5px 15px;min-width:0}
+.header-edition-copy .eyebrow{font-size:11px}
+.header-edition-copy strong{font-family:'Noto Serif KR',serif;font-size:18px;word-break:keep-all}
+.header-edition-pages{font-size:11px;color:var(--muted)}
+.header-edition-actions{display:flex;align-items:center;gap:20px;flex-shrink:0}
+.pdf-preview{font-size:12px;color:var(--muted)}
+.pdf-download{display:inline-flex;align-items:center;gap:10px;min-height:46px;padding:10px 19px;border:1px solid var(--red);color:var(--red);font-size:14px;font-weight:700;white-space:nowrap}
+.pdf-download:hover{background:var(--red);color:var(--white);text-decoration:none}
+.pdf-download>span{font-size:21px;line-height:1}
+@media(max-width:1000px){.header-edition{align-items:flex-start}.header-edition-copy{display:block}.header-edition-copy strong{display:block;margin-top:3px}.header-edition-pages{display:block}.header-edition-actions{align-self:center}}
+@media(max-width:600px){.header-edition{display:block;padding:15px 0}.header-edition-copy{display:flex;gap:3px 10px}.header-edition-copy .eyebrow{width:100%}.header-edition-copy strong{font-size:17px}.header-edition-actions{margin-top:13px;justify-content:space-between;gap:10px}.pdf-download{font-size:13px;padding:10px 13px}.pdf-preview{font-size:11px}}
+@media print{.header-edition{display:none}}
