@@ -4,7 +4,8 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import {JSDOM} from 'jsdom';
-import {createDeskEdition,saveDeskEdition,readDeskEdition,previewDeskEdition} from '../scripts/edition-desk.mjs';
+import {createDeskEdition,saveDeskEdition,readDeskEdition,previewDeskEdition,completeDeskEdition,reviewDeskEdition} from '../scripts/edition-desk.mjs';
+import {assertPublicationApproval} from '../scripts/publication-approval.mjs';
 import {inspectPdf,sha256} from '../scripts/pdf-proof.mjs';
 const root=path.resolve(import.meta.dirname,'..');
 const published=JSON.parse(fs.readFileSync(path.join(root,'data/editions.json'),'utf8')).issues.find(i=>i.id==='2026-10-26-r7');
@@ -20,6 +21,16 @@ test('whole-issue desk preserves release, detects concurrent edits, and invalida
  e=await previewDeskEdition(tmp,{id:e.id,expectedRevision:e.draftRevision});assert.equal(e.proof.unpublished,true);assert.equal(e.articleSnapshots[0].review.status,'pending');assert.equal(inspectPdf(path.join(tmp,'output/pdf',e.id,'proof.pdf')).testOnly,true);
  e.articleSnapshots[0].lead+=' 추가 교정';e=await saveDeskEdition(tmp,{edition:e,expectedRevision:e.draftRevision});assert.equal(e.proof,undefined);assert.equal(readDeskEdition(tmp,e.id).draftRevision,3);
  assert.equal(sha256(fs.readFileSync(path.join(tmp,'public',published.pdfUrl))),original);
+ await assert.rejects(completeDeskEdition(tmp,{id:e.id,expectedRevision:e.draftRevision,confirmed:true,summary:'Test'}),/발행 승인/);
+ e=await reviewDeskEdition(tmp,{id:e.id,expectedRevision:e.draftRevision,confirmed:true,summary:'Test review only'});
+ assert.throws(()=>assertPublicationApproval(tmp,e),/발행 승인/);
+ e=await completeDeskEdition(tmp,{id:e.id,expectedRevision:e.draftRevision,confirmed:true,publishConfirmed:true,summary:'Isolated test completion, never production'});
+ assert.equal(e.publicationRequest.state,'queued');assertPublicationApproval(tmp,e);
+ const changed=structuredClone(e);changed.articleSnapshots[0].lead+=' 승인 뒤 변경';
+ assert.throws(()=>assertPublicationApproval(tmp,changed),/변경됐습니다/);
+ e=await saveDeskEdition(tmp,{edition:changed,expectedRevision:e.draftRevision});
+ assert.equal(e.publicationApproval,undefined);assert.equal(e.publicationRequest,undefined);
+ assert.throws(()=>assertPublicationApproval(tmp,e),/발행 승인/);
 });
 
 test('editor copies full released text and saves edits to a separate draft; any further edit hides its proof',async()=>{

@@ -30,6 +30,12 @@ export async function exportStaticSite() {
 
   // 1. public/ 폴더의 모든 파일 및 서브폴더 복사
   copyRecursiveSync(PUBLIC_DIR, DIST_DIR);
+  // Cartoon drafts are available to the local desk, not to the public build.
+  const releasedImages=new Set([...home.articles,...JSON.parse(fs.readFileSync(path.join(DATA_DIR,'editions.json'),'utf8')).issues.filter(e=>e.status==='published').flatMap(e=>e.articleSnapshots)].flatMap(a=>[a.visual,...(a.supportingVisuals||[])]).filter(Boolean).map(v=>v.url));
+  for(const folder of ['cartoons','editorial-20261026']){
+    const draftImageDir=path.join(DIST_DIR,'images',folder);
+    if(fs.existsSync(draftImageDir))for(const name of fs.readdirSync(draftImageDir))if(!releasedImages.has('/images/'+folder+'/'+name))fs.rmSync(path.join(draftImageDir,name));
+  }
   // Only released editions enter the public artifact; proofs stay in output/.
   const editionsDir=path.join(DIST_DIR,'editions');fs.mkdirSync(editionsDir,{recursive:true});
 

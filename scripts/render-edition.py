@@ -277,6 +277,9 @@ y=drawp(publication_name,M,H-95,W-2*M,heading)
 revision_note=issue.get('revisionSummary','원고 퇴고·도표 재제작·지면 재조판') if issue.get('layout',{}).get('editorialScope') else '원고 퇴고·도표 재제작·지면 재조판'
 colophon=['도서출판 아우내','충남 천안시 동남구 양지말1길 40','전화 070-7561-0677','ISSN 3022-891X / ISBN 978-89-98765-43-2','원천 미디어: 스픽스 인터넷 신문 및 유튜브 @SPEAKS_TV','대상 기간 '+issue['period'],'개정판: '+revision_note if issue.get('revisionOf') else '주간 웹·PDF 발행 · '+str(front_pages+sum(counts))+'면']
 for p in colophon:y=drawp(p,M,y,W-2*M,sub)
+if issue.get('staff'):
+    staff=issue['staff']
+    y=drawp('발행인 '+staff['publisher']+' · 편집장 '+staff['editorInChief']+'('+staff.get('editorCredentials','')+')',M,y,W-2*M,sub)
 line(y-10,color=INK);y-=45
 notes=[('방송의 핵심을 글로 전합니다','영상을 보기 어려운 분도 출연자의 핵심 주장과 그 이유를 따라 읽을 수 있도록 대화를 재구성합니다. 발언의 맥락과 사례를 살리고 낯선 개념은 쉽게 풀어 설명합니다.'),('표와 사진을 함께 읽습니다','숫자에는 단위와 기준 시점을 붙였습니다. 사진에는 촬영 시점과 출처를 표시하고 생성 삽화는 실제 현장 사진과 구별합니다. 표는 본문에서 설명한 내용을 다시 찾아보는 길잡이입니다.'),('원방송과 기사를 만날 수 있습니다','기사 끝의 QR은 해당 기사의 첫 원출처로 이어집니다. PDF 목차의 제목을 누르면 해당 기사로 이동합니다. 발언을 더 듣고 싶은 독자는 원방송에서 대화의 흐름을 이어갈 수 있습니다.'),('제작과 개정','원고 작성·윤문에는 AI를 활용했습니다. 원자료와 대조해 발언 취지와 사실 관계, 문장을 검토합니다. 개정판은 이전 발행본을 보존하고 별도 발행호로 제공합니다.')]
 if issue.get('layout',{}).get('editorialScope'):

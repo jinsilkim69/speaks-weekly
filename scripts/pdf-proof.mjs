@@ -11,7 +11,7 @@ export function editionFingerprint(edition, root) {
     if(rel.startsWith('..')||path.isAbsolute(rel))throw Error('이미지 경로가 공개 폴더 밖입니다.');
     return {url:v.url,sha256:sha256(fs.readFileSync(file))};
   });
-  return sha256(JSON.stringify({id:edition.id,title:edition.title,period:edition.period,coverArticleId:edition.coverArticleId,introduction:edition.introduction,articleSnapshots:edition.articleSnapshots,assets,...(edition.layout?{layout:edition.layout}:{}),...(edition.pageCounts?{pageCounts:edition.pageCounts}:{}),...(edition.revisionOf?{revisionOf:edition.revisionOf}:{})}));
+  return sha256(JSON.stringify({id:edition.id,title:edition.title,period:edition.period,coverArticleId:edition.coverArticleId,introduction:edition.introduction,articleSnapshots:edition.articleSnapshots,assets,...(edition.layout?{layout:edition.layout}:{}),...(edition.pageCounts?{pageCounts:edition.pageCounts}:{}),...(edition.revisionOf?{revisionOf:edition.revisionOf}:{}),...(edition.staff?{staff:edition.staff}:{})}));
 }
 export function inspectPdf(file) {
   try {

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "publication": "위클리 스픽스",
+  "selection": {
+    "option": "A",
+    "label": "절제된 펜화",
+    "selectedBy": "user",
+    "selectedAt": "2026-10-29",
+    "scope": "화풍 기준 선택. 개별 만평의 발행 승인과 별개"
+  },
+  "principle": "시민의 눈높이에서 권력과 제도의 모순을 한 장면으로 드러낸다. 중도 진보·평화주의·온건한 개혁·자발적 이타주의를 바탕으로 정책의 결과를 살핀다. 지지하는 인물과 정책도 같은 사실 기준을 적용한다.",
+  "visual": {
+    "medium": "굵기 변화와 생략이 있는 검은 잉크 펜선, 최소한의 옅은 담채",
+    "paper": "흰 바탕, 가벼운 종이 질감",
+    "palette": [
+      "#222222",
+      "#34495e",
+      "#d4d9dd",
+      "#b53936"
+    ],
+    "colorUse": "남색과 회색을 제한적으로 사용하고 벽돌색 적색은 핵심 단서 한 곳에만 둔다.",
+    "composition": "주요 장면 하나와 시각적 반전 하나. 인물·소품은 읽히는 만큼만 둔다.",
+    "characters": "시민은 존엄하고 자연스럽게, 공인의 특징은 알아볼 정도로만 과장한다.",
+    "text": "짧은 대사 0~2개. 그림과 말풍선 글자는 별도 조판을 기본으로 한다.",
+    "avoid": [
+      "3D·광택·그라데이션",
+      "인포그래픽 카드와 다량의 명찰",
+      "어린이 그림책처럼 귀여운 캐릭터",
+      "인물 외모 비하나 고통의 희화화",
+      "생존 작가의 고유 화풍·구도·서명 모사",
+      "지도자 영웅화와 진영 찬양 포스터"
+    ]
+  },
+  "workflow": {
+    "research": "Gemini: 실제 사건·발언·당사자 입장과 풍자 쟁점 확인",
+    "concept": "Claude: 같은 쟁점의 시각적 비유와 대사 3안",
+    "drawing": "GPT 내장 이미지 생성: A안 공통 지침으로 제작, API 키 추가 없음",
+    "desk": "GPT: 사실과 풍자 구분·인물·손·글자·상징·인쇄 크기 검수",
+    "storage": "관련 기사 supportingVisuals의 generated-illustration으로 등록해 원고와 동일한 승인 지문에 결합",
+    "release": "사용자가 관리자에서 원고와 만평을 확인하고 완료 · PDF 발행 승인을 눌러야 발행. 교체 시 승인 해제"
+  },
+  "disclosure": "AI 시사만평",
+  "referenceBoard": "output/editorial-cartoon/style-comparison-20261029.png",
+  "sources": [
+    {
+      "title": "김용민의 그림마당",
+      "url": "https://www.khan.co.kr/cartoon",
+      "scope": "주제 인지성과 시사적 압축을 참고, 화풍 모사 아님"
+    },
+    {
+      "title": "Patrick Chappatte 공식 갤러리",
+      "url": "https://www.chappatte.com/en",
+      "scope": "시각적 비유와 대사 절제를 참고, 개별 작품 사용 아님"
+    },
+    {
+      "title": "KAL 공식 포트폴리오",
+      "url": "https://www.kaltoons.com/portfolio/",
+      "scope": "사건을 장면으로 압축하는 방식을 참고, 고유 캐리커처 모사 아님"
+    }
+  ]
+}

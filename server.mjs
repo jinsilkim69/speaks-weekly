@@ -14,7 +14,7 @@ import { validateIssue, synchronizePages, writeIssueAtomic } from './scripts/iss
 import { feedFromIssue } from './scripts/live-feed.mjs';
 import { readHomeCatalog,readPublishedEdition } from './scripts/editorial-catalog.mjs';
 import { drafts,saveDraft,approveDraft,publishDraft,releaseEdition } from './scripts/editorial-service.mjs';
-import {deskEditions,readDeskEdition,createDeskEdition,saveDeskEdition,reviewDeskEdition,previewDeskEdition} from './scripts/edition-desk.mjs';
+import {deskEditions,readDeskEdition,createDeskEdition,saveDeskEdition,reviewDeskEdition,previewDeskEdition,completeDeskEdition} from './scripts/edition-desk.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -173,7 +173,7 @@ const server = http.createServer(async (req, res) => {
       res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(readDeskEdition(__dirname,pathname.split('/').at(-1))));return;
     }
     if(pathname.startsWith('/api/weekly-editor/')&&req.method==='POST'){
-      const handlers={create:createDeskEdition,save:saveDeskEdition,review:reviewDeskEdition,preview:previewDeskEdition},handler=handlers[pathname.split('/').at(-1)];
+      const handlers={create:createDeskEdition,save:saveDeskEdition,review:reviewDeskEdition,preview:previewDeskEdition,complete:completeDeskEdition},handler=handlers[pathname.split('/').at(-1)];
       if(!handler)throw Object.assign(Error('지원하지 않는 편집 작업'),{statusCode:404});
       const result=await handler(__dirname,await readJsonBody(req));res.writeHead(200,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'});res.end(JSON.stringify(result));return;
     }

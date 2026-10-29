@@ -103,5 +103,24 @@
       "rhythm": "발언과 설명을 교차하고 말했다·주장했다를 기계적으로 반복하지 않는다.",
       "avoid": "가상 질문과 서로 다른 방송의 발언 합성을 금지한다. 요약에 따르면·제공자료에는 같은 처리 표현을 쓰지 않는다."
     }
-  ]
+  ],
+  "leadership": {
+    "publisher": {
+      "name": "전계완",
+      "role": "발행인"
+    },
+    "editorInChief": {
+      "name": "김진실",
+      "credential": "철학박사",
+      "role": "편집장",
+      "responsibility": "편집 총괄 및 최종 검수"
+    },
+    "production": "도서출판 아우내",
+    "editorialColumn": {
+      "name": "편집장의 시선",
+      "placement": "주간호 앞부분의 첫 본기사",
+      "author": "김진실 편집장(철학박사)",
+      "policy": "AI 보조 초안은 편집장 검수 전 미발행. 승인된 최종 글만 편집장 명의로 발행."
+    }
+  }
 }

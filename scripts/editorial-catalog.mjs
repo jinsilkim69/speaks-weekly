@@ -19,7 +19,7 @@ export function validateArticle(article, options={}) {
     if (!review[field]?.trim()) throw new Error(`편집 검토 누락: ${field}`);
   }
   if (!article.visual?.alt || !article.visual?.caption || !article.visual?.credit || !/^(https:\/\/|\/(?!\/))/.test(article.visual?.url||'')) throw new Error('이미지 설명과 출처가 필요합니다.');
-  if (!Number.isFinite(Date.parse(article.publishedAt))) throw new Error('실제 기사 게시 시각이 필요합니다.');
+  if (!options.allowUnreviewed && !Number.isFinite(Date.parse(article.publishedAt))) throw new Error('실제 기사 게시 시각이 필요합니다.');
   validateArticleVisuals(article);
   validateEpisode(article);
   if(article.writer&&!options.allowUnreviewed)validateReporter(article,path.resolve(import.meta.dirname,'..'));

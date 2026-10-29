@@ -6,6 +6,7 @@ import path from 'node:path';
 import {buildEdition} from '../scripts/build-edition.mjs';
 import {contentHash,validateEdition,readPublishedEdition} from '../scripts/editorial-catalog.mjs';
 import {releaseEdition} from '../scripts/editorial-service.mjs';
+import {approvalFingerprint} from '../scripts/publication-approval.mjs';
 import {atomicJson} from '../scripts/editorial-workflow.mjs';
 import {sha256,inspectPdf} from '../scripts/pdf-proof.mjs';
 import {execFileSync} from 'node:child_process';
@@ -33,6 +34,8 @@ test('real 50-page PDF, content binding, proof rejection and immutable release',
  const fake=path.join(root,'public',ready.pdfUrl);fs.writeFileSync(fake,'not a PDF');ready.pdfReview.sha256=sha256(fs.readFileSync(fake));
  assert.throws(()=>validateEdition(ready,root),/검사 실패/);
  fs.copyFileSync(result.output,fake);ready.pdfReview.sha256=sha256(fs.readFileSync(fake));
+ await assert.rejects(releaseEdition(root,ready),/사용자 검수 완료/);
+ atomicJson(path.join(root,'data/edition-drafts',ready.id+'.json'),{...ready,draftRevision:1,publicationRequest:{state:'queued'},publicationApproval:{method:'admin-complete',revision:1,fingerprint:approvalFingerprint(ready,root),confirmedAt:new Date().toISOString(),summary:'Isolated test approval; not a human production approval'}});
  await releaseEdition(root,ready);assert.equal(readPublishedEdition(root,ready.id).articleSnapshots.length,14);
  const cover=fs.readFileSync(path.join(root,'public/images/editions',ready.id+'-cover.jpg'));
  assert.equal(cover.readUInt16BE(0),0xffd8);assert.ok(cover.length>1000);

@@ -5,6 +5,7 @@ import {contentHash,validateArticle,validateEdition} from './editorial-catalog.m
 import {atomicJson,withLock} from './editorial-workflow.mjs';
 import {validateArticleVisuals} from './visual-policy.mjs';
 import {assertProductionHandoff} from './production-handoff.mjs';
+import {assertPublicationApproval} from './publication-approval.mjs';
 const validId=id=>typeof id==='string'&&/^[a-zA-Z0-9_-]{1,100}$/.test(id);
 export function drafts(root){const dir=path.join(root,'data/drafts');return fs.existsSync(dir)?fs.readdirSync(dir).filter(f=>f.endsWith('.json')).map(f=>JSON.parse(fs.readFileSync(path.join(dir,f),'utf8'))):[];}
 export async function saveDraft(root,input){
@@ -49,6 +50,7 @@ export async function releaseEdition(root,edition){
  return withLock(root,async()=>{
   const file=path.join(root,'data/editions.json'),catalog=JSON.parse(fs.readFileSync(file,'utf8'));
   if(catalog.issues.some(i=>i.id===edition.id&&i.status==='published'))throw Error('발행된 주간호는 변경할 수 없습니다. 정정판 ID를 사용하세요.');
+  assertPublicationApproval(root,edition);
   const ready={...edition,pdfReview:{...edition.pdfReview},status:'published',publishedAt:new Date().toISOString()};
   ready.pdfReview.structure=validateEdition(ready,root);
   if(fs.statSync(path.join(root,'public',ready.pdfUrl)).size>25*1024*1024)throw Error('PDF가 배포 파일 제한 25MiB를 넘었습니다. 원고를 줄이지 말고 이미지 인코딩을 최적화하세요.');
