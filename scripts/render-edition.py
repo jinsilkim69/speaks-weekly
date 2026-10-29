@@ -88,7 +88,10 @@ def partition(items,heights):
             group=[];used=0
             while pending:
                 p=pending[0];before=p.getSpaceBefore() if group else 0;after=p.getSpaceAfter();h=p.wrap(COL,H)[1]
-                if p.style.name=='h2' and len(pending)>1 and target-used<before+h+after+pending[1].style.leading*2:break
+                if p.style.name=='h2' and len(pending)>1:
+                    following=pending[1]
+                    follow_min=(following.style.leading*3+following.getSpaceAfter()) if isinstance(following,Paragraph) else flow_height(following)
+                    if target-used<before+h+after+follow_min:break
                 if used+before+h+after<=target+.1:
                     group.append((p,before,h,after));used+=before+h+after;pending.pop(0);continue
                 remaining=target-used-before-after
@@ -118,7 +121,7 @@ def source_layout(a):
 
 def sources(a,layout):
     height,note,links=layout;top=48+height;line(top,color=INK,weight=.8)
-    text('자료와 검증 범위',M,top-17,8,'SansBold')
+    text('함께 읽을 기사와 원방송' if issue.get('layout',{}).get('editorialScope') else '자료와 검증 범위',M,top-17,8,'SansBold')
     y=drawp(note,M,top-29,W-2*M-110,small)
     for p in links:y=drawp(p,M,y-3,W-2*M-110,small)
     widget=qr.QrCodeWidget(a['sources'][0]['url']);bounds=widget.getBounds();scale=90/(bounds[2]-bounds[0]);d=Drawing(90,90,transform=[scale,0,0,scale,0,0]);d.add(widget);renderPDF.draw(d,c,W-M-90,top-105)
@@ -204,10 +207,18 @@ text('주간',M,H-88,46,'SansBold');text('스픽스',M+pdfmetrics.stringWidth('�
 text('S P E A K S   W E E K L Y',M,H-112,9,'SansBold');line(H-125,color=INK,weight=1)
 text('정치 · 시사 · 문화',M,H-143,8,'Sans',GRAY);c.setFillColor(GRAY);c.setFont('Sans',8);c.drawRightString(W-M,H-143,issue['period']+(' · 개정판' if issue.get('revisionOf') else ''))
 coverstyle=ParagraphStyle('cover-title',fontName='SerifBold',fontSize=32,leading=43,wordWrap='CJK')
-y=drawp(issue['title'],M,H-165,W-2*M,coverstyle)
-y=image(cover['visual'],M,y-18,W-2*M,min(310,y-210))
-label='AI 생성 삽화 · ' if cover['visual']['kind']=='generated-illustration' else ''
-y=drawp(label+cover['visual']['caption']+' | '+cover['visual']['credit'],M,y-8,W-2*M,small)
+if issue.get('layout',{}).get('coverStyle')=='portrait-feature':
+    cv=next(v for v in [cover['visual']]+cover.get('supportingVisuals',[]) if v['url']==issue['layout']['coverImageUrl'])
+    drawp(issue['title'],M,H-180,175,coverstyle)
+    drawp(issue.get('layout',{}).get('coverDeck',''),M,H-360,165,sub)
+    y=image(cv,M+200,H-163,W-2*M-200,430,center=False)
+    label='AI 생성 삽화 · ' if cv['kind']=='generated-illustration' else ''
+    drawp(label+cv['caption']+' | '+cv['credit'],M+200,y-9,W-2*M-200,small)
+else:
+    y=drawp(issue['title'],M,H-165,W-2*M,coverstyle)
+    y=image(cover['visual'],M,y-18,W-2*M,min(310,y-210))
+    label='AI 생성 삽화 · ' if cover['visual']['kind']=='generated-illustration' else ''
+    y=drawp(label+cover['visual']['caption']+' | '+cover['visual']['credit'],M,y-8,W-2*M,small)
 line(145,color=INK,weight=1)
 teasers=[issue['articleSnapshots'][0],issue['articleSnapshots'][4],issue['articleSnapshots'][11]]
 for i,a in enumerate(teasers):
@@ -243,10 +254,14 @@ c.showPage()
 
 begin('판권과 읽기 안내');text('발행·제작',M,H-75,10,'SansBold',RED)
 y=drawp('주간 스픽스',M,H-95,W-2*M,heading)
-colophon=['도서출판 아우내','충남 천안시 동남구 양지말1길 40','전화 070-7561-0677','ISSN 3022-891X / ISBN 978-89-98765-43-2','원천 미디어: 스픽스 인터넷 신문 및 유튜브 @SPEAKS_TV','대상 기간 '+issue['period'],'개정판: 원고 퇴고·도표 재제작·지면 재조판' if issue.get('revisionOf') else '주간 웹·PDF 발행 · '+str(4+sum(counts))+'면']
+revision_note=issue.get('revisionSummary','원고 퇴고·도표 재제작·지면 재조판') if issue.get('layout',{}).get('editorialScope') else '원고 퇴고·도표 재제작·지면 재조판'
+colophon=['도서출판 아우내','충남 천안시 동남구 양지말1길 40','전화 070-7561-0677','ISSN 3022-891X / ISBN 978-89-98765-43-2','원천 미디어: 스픽스 인터넷 신문 및 유튜브 @SPEAKS_TV','대상 기간 '+issue['period'],'개정판: '+revision_note if issue.get('revisionOf') else '주간 웹·PDF 발행 · '+str(4+sum(counts))+'면']
 for p in colophon:y=drawp(p,M,y,W-2*M,sub)
 line(y-10,color=INK);y-=45
 notes=[('방송의 핵심을 글로 전합니다','영상을 보기 어려운 분도 출연자의 핵심 주장과 그 이유를 따라 읽을 수 있도록 대화를 재구성합니다. 발언의 맥락과 사례를 살리고 낯선 개념은 쉽게 풀어 설명합니다.'),('표와 사진을 함께 읽습니다','숫자에는 단위와 기준 시점을 붙였습니다. 사진에는 촬영 시점과 출처를 표시하고 생성 삽화는 실제 현장 사진과 구별합니다. 표는 본문에서 설명한 내용을 다시 찾아보는 길잡이입니다.'),('원방송과 기사를 만날 수 있습니다','기사 끝의 QR은 해당 기사의 첫 원출처로 이어집니다. PDF 목차의 제목을 누르면 해당 기사로 이동합니다. 발언을 더 듣고 싶은 독자는 원방송에서 대화의 흐름을 이어갈 수 있습니다.'),('제작과 개정','원고 작성·윤문에는 AI를 활용했습니다. 원자료와 대조해 발언 취지와 사실 관계, 문장을 검토합니다. 개정판은 이전 발행본을 보존하고 별도 발행호로 제공합니다.')]
+if issue.get('layout',{}).get('editorialScope'):
+    notes[1]=('사진과 삽화를 함께 읽습니다','사진에는 촬영 시점과 출처를 표시했습니다. 오래된 자료 사진은 현재의 현장 기록과 구별하고, 생성 삽화는 특정 인물이나 사건을 재현한 사진으로 사용하지 않습니다.')
+    notes[3]=('제작과 확인 범위',issue['layout']['editorialScope'])
 for j,(title,copy) in enumerate(notes):
     x=M+(j%2)*(COL+GAP);top=y-(j//2)*172
     top=drawp(title,x,top,COL,ParagraphStyle('guide-title',parent=h2,spaceBefore=0));drawp(copy,x,top-3,COL,ParagraphStyle('guide',parent=body,fontSize=10.2,leading=17))

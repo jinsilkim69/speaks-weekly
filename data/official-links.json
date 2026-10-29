@@ -1,11 +1,61 @@
 {
   "mode": "official-links",
-  "updatedAt": "2026-10-29T08:33:01.544400+09:00",
+  "updatedAt": "2026-10-29T10:51:41.342847+09:00",
   "reviewPeriod": {
     "start": "2026-10-26",
     "end": "2026-11-01"
   },
   "entries": [
+    {
+      "id": "official-20766",
+      "programId": "veterans",
+      "title": "[역전의용사들] “정말 별로다! 후져도 너무 후져” 박시영TV 나간 유시민… 시청자들마저 낯뜨겁게 만든 ‘오만한 자격론’",
+      "verifiedTitle": "[역전의용사들] “정말 별로다! 후져도 너무 후져” 박시영TV 나간 유시민… 시청자들마저 낯뜨겁게 만든 ‘오만한 자격론’",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20766",
+      "publishedAt": "2026-10-29T10:18:30+09:00",
+      "broadcastDate": "2026-10-28",
+      "dateBasis": "article-broadcast-date",
+      "displayDate": "2026-10-28",
+      "videoUrl": "https://www.youtube.com/watch?v=_d4YKhY4myQ",
+      "verifiedAt": "2026-10-29T10:51:36.541614+09:00",
+      "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+      "image": {
+        "url": "/images/broadcasts/_d4YKhY4myQ.jpg",
+        "kind": "thumbnail",
+        "width": 480,
+        "height": 360,
+        "alt": "스픽스 원본 방송 썸네일",
+        "credit": "스픽스 @SPEAKS_TV",
+        "sourceUrl": "https://www.youtube.com/watch?v=_d4YKhY4myQ",
+        "assetSourceUrl": "https://i.ytimg.com/vi/_d4YKhY4myQ/hqdefault.jpg",
+        "sha256": "ef24f6fc54025fc168858a1ce52b1732c55d4c62bcbbbef666f71be538e1155b"
+      }
+    },
+    {
+      "id": "official-20765",
+      "programId": "special-interview",
+      "title": "[특집인터뷰] “오세훈이 반대해? 권한 가져오면 끝!” 서울시 몽니에 정면 돌파 선언한 정부… 김남근이 꺼내든 ‘결정적 묘책’",
+      "verifiedTitle": "[특집인터뷰] “오세훈이 반대해? 권한 가져오면 끝!” 서울시 몽니에 정면 돌파 선언한 정부… 김남근이 꺼내든 ‘결정적 묘책’",
+      "url": "https://www.speaks.kr/news/articleView.html?idxno=20765",
+      "publishedAt": "2026-10-29T10:15:59+09:00",
+      "broadcastDate": "2026-10-28",
+      "dateBasis": "article-broadcast-date",
+      "displayDate": "2026-10-28",
+      "videoUrl": "https://www.youtube.com/watch?v=wa65v-_Xiko",
+      "verifiedAt": "2026-10-29T10:51:35.730198+09:00",
+      "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+      "image": {
+        "url": "/images/broadcasts/wa65v-_Xiko.jpg",
+        "kind": "thumbnail",
+        "width": 480,
+        "height": 360,
+        "alt": "스픽스 원본 방송 썸네일",
+        "credit": "스픽스 @SPEAKS_TV",
+        "sourceUrl": "https://www.youtube.com/watch?v=wa65v-_Xiko",
+        "assetSourceUrl": "https://i.ytimg.com/vi/wa65v-_Xiko/hqdefault.jpg",
+        "sha256": "df8a5eedc635e385c48a69fcb469128e620c813a91ec1ada125ba1fb0f836837"
+      }
+    },
     {
       "id": "official-20746",
       "programId": "special-interview",
@@ -17,7 +67,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-27",
       "videoUrl": "https://www.youtube.com/watch?v=c0is3ItTozw",
-      "verifiedAt": "2026-10-29T08:32:57.542293+09:00",
+      "verifiedAt": "2026-10-29T10:51:34.277482+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/c0is3ItTozw.jpg",
@@ -42,7 +92,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-27",
       "videoUrl": "https://www.youtube.com/watch?v=dqD_bj2AgtU",
-      "verifiedAt": "2026-10-29T08:32:56.762815+09:00",
+      "verifiedAt": "2026-10-29T10:51:33.335193+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/dqD_bj2AgtU.jpg",
@@ -67,7 +117,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-26",
       "videoUrl": "https://www.youtube.com/watch?v=qFeEbIZhlhk",
-      "verifiedAt": "2026-10-29T08:32:55.967714+09:00",
+      "verifiedAt": "2026-10-29T10:51:32.545768+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/qFeEbIZhlhk.jpg",
@@ -92,7 +142,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-26",
       "videoUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U",
-      "verifiedAt": "2026-10-29T08:32:55.168308+09:00",
+      "verifiedAt": "2026-10-29T10:51:31.745198+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/Xid_HkqFA8U.jpg",
@@ -117,7 +167,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-25",
       "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-      "verifiedAt": "2026-10-29T08:32:52.736940+09:00",
+      "verifiedAt": "2026-10-29T10:51:29.340360+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/v6awNopN5n4.jpg",
@@ -142,7 +192,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-25",
       "videoUrl": "https://www.youtube.com/watch?v=evlRPIB6tXY",
-      "verifiedAt": "2026-10-29T08:32:51.944134+09:00",
+      "verifiedAt": "2026-10-29T10:51:28.539075+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/evlRPIB6tXY.jpg",
@@ -167,7 +217,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-24",
       "videoUrl": "https://www.youtube.com/watch?v=mpjrkcpOQTc",
-      "verifiedAt": "2026-10-29T08:32:48.731765+09:00",
+      "verifiedAt": "2026-10-29T10:51:25.343555+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/mpjrkcpOQTc.jpg",
@@ -192,7 +242,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-24",
       "videoUrl": "https://www.youtube.com/watch?v=c4kfcvdSBIE",
-      "verifiedAt": "2026-10-29T08:32:47.942967+09:00",
+      "verifiedAt": "2026-10-29T10:51:24.531535+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/c4kfcvdSBIE.jpg",
@@ -217,7 +267,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-24",
       "videoUrl": "https://www.youtube.com/watch?v=5A1cGZiuUN0",
-      "verifiedAt": "2026-10-29T08:32:47.144687+09:00",
+      "verifiedAt": "2026-10-29T10:51:23.716536+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/5A1cGZiuUN0.jpg",
@@ -242,7 +292,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-24",
       "videoUrl": "https://www.youtube.com/watch?v=HwMcH4KNa94",
-      "verifiedAt": "2026-10-29T08:32:46.388053+09:00",
+      "verifiedAt": "2026-10-29T10:51:22.928635+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/HwMcH4KNa94.jpg",
@@ -267,7 +317,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-24",
       "videoUrl": "https://www.youtube.com/watch?v=wV5nhjl0AuI",
-      "verifiedAt": "2026-10-29T08:32:45.538445+09:00",
+      "verifiedAt": "2026-10-29T10:51:22.158166+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/wV5nhjl0AuI.jpg",
@@ -292,7 +342,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-24",
       "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs",
-      "verifiedAt": "2026-10-29T08:32:44.735451+09:00",
+      "verifiedAt": "2026-10-29T10:51:21.336286+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/N0A7avU9zzs.jpg",
@@ -317,7 +367,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-22",
       "videoUrl": "https://www.youtube.com/watch?v=uoZE4oI8qAY",
-      "verifiedAt": "2026-10-29T08:32:43.949613+09:00",
+      "verifiedAt": "2026-10-29T10:51:20.535835+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/uoZE4oI8qAY.jpg",
@@ -342,7 +392,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-21",
       "videoUrl": "https://www.youtube.com/watch?v=5vHisVyp7-g",
-      "verifiedAt": "2026-10-29T08:32:43.143908+09:00",
+      "verifiedAt": "2026-10-29T10:51:19.744741+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/5vHisVyp7-g.jpg",
@@ -367,7 +417,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-21",
       "videoUrl": "https://www.youtube.com/watch?v=29KVDkjJMi8",
-      "verifiedAt": "2026-10-29T08:32:42.336482+09:00",
+      "verifiedAt": "2026-10-29T10:51:18.978827+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/29KVDkjJMi8.jpg",
@@ -392,7 +442,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-20",
       "videoUrl": "https://www.youtube.com/watch?v=inuNJ_tcUjA",
-      "verifiedAt": "2026-10-29T08:32:41.541694+09:00",
+      "verifiedAt": "2026-10-29T10:51:18.148338+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/inuNJ_tcUjA.jpg",
@@ -417,7 +467,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-20",
       "videoUrl": "https://www.youtube.com/watch?v=9MBS_i4GG7k",
-      "verifiedAt": "2026-10-29T08:32:40.761647+09:00",
+      "verifiedAt": "2026-10-29T10:51:17.781203+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/9MBS_i4GG7k.jpg",
@@ -442,7 +492,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-20",
       "videoUrl": "https://www.youtube.com/watch?v=2_8UNZ7nfvQ",
-      "verifiedAt": "2026-10-29T08:32:39.952988+09:00",
+      "verifiedAt": "2026-10-29T10:51:16.539377+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/2_8UNZ7nfvQ.jpg",
@@ -467,7 +517,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-19",
       "videoUrl": "https://www.youtube.com/watch?v=mVx-PPpABLc",
-      "verifiedAt": "2026-10-29T08:32:39.127492+09:00",
+      "verifiedAt": "2026-10-29T10:51:15.753296+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/mVx-PPpABLc.jpg",
@@ -492,7 +542,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-19",
       "videoUrl": "https://www.youtube.com/watch?v=1qYPlYB2KsI",
-      "verifiedAt": "2026-10-29T08:32:38.342056+09:00",
+      "verifiedAt": "2026-10-29T10:51:14.932317+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/1qYPlYB2KsI.jpg",
@@ -517,7 +567,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-18",
       "videoUrl": "https://www.youtube.com/watch?v=ylqEQhX394M",
-      "verifiedAt": "2026-10-29T08:32:37.557429+09:00",
+      "verifiedAt": "2026-10-29T10:51:14.140189+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/ylqEQhX394M.jpg",
@@ -542,7 +592,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-18",
       "videoUrl": "https://www.youtube.com/watch?v=XUEh9DyUTYo",
-      "verifiedAt": "2026-10-29T08:32:35.975954+09:00",
+      "verifiedAt": "2026-10-29T10:51:12.538860+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/XUEh9DyUTYo.jpg",
@@ -567,7 +617,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-17",
       "videoUrl": "https://www.youtube.com/watch?v=cUvV8VmyDBI",
-      "verifiedAt": "2026-10-29T08:32:34.371833+09:00",
+      "verifiedAt": "2026-10-29T10:51:10.958268+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/cUvV8VmyDBI.jpg",
@@ -592,7 +642,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-17",
       "videoUrl": "https://www.youtube.com/watch?v=Otnxqk74bBU",
-      "verifiedAt": "2026-10-29T08:32:32.757621+09:00",
+      "verifiedAt": "2026-10-29T10:51:09.326991+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/Otnxqk74bBU.jpg",
@@ -617,7 +667,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-16",
       "videoUrl": "https://www.youtube.com/watch?v=eBrwkV-hQFo",
-      "verifiedAt": "2026-10-29T08:32:31.164596+09:00",
+      "verifiedAt": "2026-10-29T10:51:07.726632+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/eBrwkV-hQFo.jpg",
@@ -642,7 +692,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-15",
       "videoUrl": "https://www.youtube.com/watch?v=0VZI7Vz15DE",
-      "verifiedAt": "2026-10-29T08:32:33.584223+09:00",
+      "verifiedAt": "2026-10-29T10:51:10.147290+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/0VZI7Vz15DE.jpg",
@@ -667,7 +717,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-15",
       "videoUrl": "https://www.youtube.com/watch?v=zz2Cl6RucmI",
-      "verifiedAt": "2026-10-29T08:32:30.373705+09:00",
+      "verifiedAt": "2026-10-29T10:51:06.956859+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/zz2Cl6RucmI.jpg",
@@ -692,7 +742,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-14",
       "videoUrl": "https://www.youtube.com/watch?v=L7xu2QFR8sk",
-      "verifiedAt": "2026-10-29T08:32:29.573379+09:00",
+      "verifiedAt": "2026-10-29T10:51:06.151893+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/L7xu2QFR8sk.jpg",
@@ -717,7 +767,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-14",
       "videoUrl": "https://www.youtube.com/watch?v=Pp5KLGk7Qrc",
-      "verifiedAt": "2026-10-29T08:32:28.761431+09:00",
+      "verifiedAt": "2026-10-29T10:51:05.329763+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/Pp5KLGk7Qrc.jpg",
@@ -742,7 +792,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-14",
       "videoUrl": "https://www.youtube.com/watch?v=r_yPSzhFXM8",
-      "verifiedAt": "2026-10-29T08:32:27.972766+09:00",
+      "verifiedAt": "2026-10-29T10:51:04.528824+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/r_yPSzhFXM8.jpg",
@@ -767,7 +817,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-13",
       "videoUrl": "https://www.youtube.com/watch?v=x3Cqk_i-o8E",
-      "verifiedAt": "2026-10-29T08:32:25.582573+09:00",
+      "verifiedAt": "2026-10-29T10:51:02.127653+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/x3Cqk_i-o8E.jpg",
@@ -792,7 +842,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-13",
       "videoUrl": "https://www.youtube.com/watch?v=xEsLvBV_BKc",
-      "verifiedAt": "2026-10-29T08:32:24.782961+09:00",
+      "verifiedAt": "2026-10-29T10:51:01.327863+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/xEsLvBV_BKc.jpg",
@@ -817,7 +867,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-12",
       "videoUrl": "https://www.youtube.com/watch?v=q2PdKAzB4iE",
-      "verifiedAt": "2026-10-29T08:32:23.175295+09:00",
+      "verifiedAt": "2026-10-29T10:50:59.734067+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/q2PdKAzB4iE.jpg",
@@ -842,7 +892,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-11",
       "videoUrl": "https://www.youtube.com/watch?v=XNoHymBn75U",
-      "verifiedAt": "2026-10-29T08:32:15.968876+09:00",
+      "verifiedAt": "2026-10-29T10:50:52.537915+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/XNoHymBn75U.jpg",
@@ -867,7 +917,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-11",
       "videoUrl": "https://www.youtube.com/watch?v=hfV8Go_EYx0",
-      "verifiedAt": "2026-10-29T08:32:14.351990+09:00",
+      "verifiedAt": "2026-10-29T10:50:50.940487+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/hfV8Go_EYx0.jpg",
@@ -892,7 +942,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-10",
       "videoUrl": "https://www.youtube.com/watch?v=cVv5MdNXLk4",
-      "verifiedAt": "2026-10-29T08:32:18.359355+09:00",
+      "verifiedAt": "2026-10-29T10:50:54.951672+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/cVv5MdNXLk4.jpg",
@@ -917,7 +967,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-10",
       "videoUrl": "https://www.youtube.com/watch?v=xuWyAlkUSTQ",
-      "verifiedAt": "2026-10-29T08:32:17.569643+09:00",
+      "verifiedAt": "2026-10-29T10:50:54.134907+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/xuWyAlkUSTQ.jpg",
@@ -942,7 +992,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-10",
       "videoUrl": "https://www.youtube.com/watch?v=7uSDkux7v9A",
-      "verifiedAt": "2026-10-29T08:32:16.764376+09:00",
+      "verifiedAt": "2026-10-29T10:50:53.315346+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/7uSDkux7v9A.jpg",
@@ -967,7 +1017,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-09",
       "videoUrl": "https://www.youtube.com/watch?v=kY0g0a8cfiM",
-      "verifiedAt": "2026-10-29T08:32:21.552496+09:00",
+      "verifiedAt": "2026-10-29T10:50:58.118176+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/kY0g0a8cfiM.jpg",
@@ -992,7 +1042,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-09",
       "videoUrl": "https://www.youtube.com/watch?v=QsbkmqeblgA",
-      "verifiedAt": "2026-10-29T08:32:20.756944+09:00",
+      "verifiedAt": "2026-10-29T10:50:57.316661+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/QsbkmqeblgA.jpg",
@@ -1017,7 +1067,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-09",
       "videoUrl": "https://www.youtube.com/watch?v=PntypMPG-Fo",
-      "verifiedAt": "2026-10-29T08:32:19.961196+09:00",
+      "verifiedAt": "2026-10-29T10:50:56.544592+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/PntypMPG-Fo.jpg",
@@ -1042,7 +1092,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-09",
       "videoUrl": "https://www.youtube.com/watch?v=3BUmnulq2yI",
-      "verifiedAt": "2026-10-29T08:32:19.152827+09:00",
+      "verifiedAt": "2026-10-29T10:50:55.728038+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/3BUmnulq2yI.jpg",
@@ -1067,7 +1117,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-08",
       "videoUrl": "https://www.youtube.com/watch?v=gKQP61Mc6rc",
-      "verifiedAt": "2026-10-29T08:32:22.393331+09:00",
+      "verifiedAt": "2026-10-29T10:50:58.921976+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/gKQP61Mc6rc.jpg",
@@ -1092,7 +1142,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-08",
       "videoUrl": "https://www.youtube.com/watch?v=-HPna42x6_Q",
-      "verifiedAt": "2026-10-29T08:32:13.564885+09:00",
+      "verifiedAt": "2026-10-29T10:50:50.135294+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/-HPna42x6_Q.jpg",
@@ -1117,7 +1167,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-07",
       "videoUrl": "https://www.youtube.com/watch?v=X6ghdH_mikw",
-      "verifiedAt": "2026-10-29T08:32:11.164380+09:00",
+      "verifiedAt": "2026-10-29T10:50:47.713746+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/X6ghdH_mikw.jpg",
@@ -1142,7 +1192,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-06",
       "videoUrl": "https://www.youtube.com/watch?v=ibIiZfaYIWw",
-      "verifiedAt": "2026-10-29T08:32:10.380074+09:00",
+      "verifiedAt": "2026-10-29T10:50:46.945969+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/ibIiZfaYIWw.jpg",
@@ -1167,7 +1217,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-05",
       "videoUrl": "https://www.youtube.com/watch?v=QS6zijJLKO0",
-      "verifiedAt": "2026-10-29T08:32:09.551773+09:00",
+      "verifiedAt": "2026-10-29T10:50:46.369358+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/QS6zijJLKO0.jpg",
@@ -1192,7 +1242,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-05",
       "videoUrl": "https://www.youtube.com/watch?v=busVwF6IJbc",
-      "verifiedAt": "2026-10-29T08:32:08.791847+09:00",
+      "verifiedAt": "2026-10-29T10:50:45.342611+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/busVwF6IJbc.jpg",
@@ -1217,7 +1267,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-04",
       "videoUrl": "https://www.youtube.com/watch?v=bkA8xOwptWw",
-      "verifiedAt": "2026-10-29T08:32:07.176018+09:00",
+      "verifiedAt": "2026-10-29T10:50:43.723898+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/bkA8xOwptWw.jpg",
@@ -1242,7 +1292,7 @@
       "dateBasis": "article-broadcast-date",
       "displayDate": "2026-10-04",
       "videoUrl": "https://www.youtube.com/watch?v=1mJBWHwukVY",
-      "verifiedAt": "2026-10-29T08:32:06.372183+09:00",
+      "verifiedAt": "2026-10-29T10:50:42.933736+09:00",
       "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
       "image": {
         "url": "/images/broadcasts/1mJBWHwukVY.jpg",

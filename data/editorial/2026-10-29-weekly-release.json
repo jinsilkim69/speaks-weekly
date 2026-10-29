@@ -1,0 +1,961 @@
+{
+  "id": "2026-10-26-r7",
+  "title": "성장의 비용, 시민의 몫",
+  "period": "2026.10.19–10.25",
+  "pages": 41,
+  "articles": 14,
+  "characters": 30750,
+  "pdfSha256": "b92c31d5a6aadd1f5ad7949afbf795c7b1802105a0e70d8de05dcf0f61e077f5",
+  "scope": "10월19~25일 게시된 공식 기사19건과 해당 방송의 핵심을 재편집. 민경윤 대담은10월18일 방송/19일게시로 명시. 다음주 자료와10월4일문화기사 제외.",
+  "sources": [
+    {
+      "id": "web-20698",
+      "file": "data/research/web-20698.json",
+      "sha256": "5d2542d0869813ebb37a1f958e67ceb7971d5a3a7a772c56cc8f71d5c19fdb6d",
+      "publishedAt": "2026-10-23T05:00:00+09:00"
+    },
+    {
+      "id": "web-20655",
+      "file": "data/research/web-20655.json",
+      "sha256": "32fd50687b8b3228957e66c35002fc3f3de21ba57c7a83098c5563334b73bf6d",
+      "publishedAt": "2026-10-20T05:00:00+09:00"
+    },
+    {
+      "id": "web-20685",
+      "file": "data/research/web-20685.json",
+      "sha256": "e35737c8c4bcabc17021e5ea8ab7582d4e09861ae03010075a1414c92438b531",
+      "publishedAt": "2026-10-22T05:00:00+09:00"
+    },
+    {
+      "id": "web-20709",
+      "file": "data/research/web-20709.json",
+      "sha256": "72b0493e43fa141a419fce3f3825827b673a30f76304661abd5d3b7d8e3f4981",
+      "publishedAt": "2026-10-25T13:02:50+09:00"
+    },
+    {
+      "id": "web-20697",
+      "file": "data/research/web-20697.json",
+      "sha256": "ff2e935e57ec07c0eec44c6378172f784b3afbed6edeac7faf692cde85727cfb",
+      "publishedAt": "2026-10-22T14:00:00+09:00"
+    },
+    {
+      "id": "web-20700",
+      "file": "data/research/web-20700.json",
+      "sha256": "7e15363f48d561902bfa58f772f4f3fd9549243c31cc9e3826f09ad61fa90835",
+      "publishedAt": "2026-10-25T10:51:58+09:00"
+    },
+    {
+      "id": "web-20708",
+      "file": "data/research/web-20708.json",
+      "sha256": "ef7cc8991af392299cdfb66a3a44ae286db38352a763012118ef86b13cc3cf54",
+      "publishedAt": "2026-10-25T12:57:49+09:00"
+    },
+    {
+      "id": "web-20703",
+      "file": "data/research/web-20703.json",
+      "sha256": "6c8523ca4ad63f009bcbbe5b8dc17b57e975185ef282004e325259c4ed9afb21",
+      "publishedAt": "2026-10-25T11:00:46+09:00"
+    },
+    {
+      "id": "web-20718",
+      "file": "data/research/web-20718.json",
+      "sha256": "e7069e07e1a7e6c9bd9496792fb3cebb6a131e53e52b19c8701af1212c73b9bf",
+      "publishedAt": "2026-10-25T22:44:17+09:00"
+    },
+    {
+      "id": "web-20683",
+      "file": "data/research/web-20683.json",
+      "sha256": "408974327162dacbf3992b03d00dee30301eb7455e7fb9a89428a205b709daf0",
+      "publishedAt": "2026-10-21T13:16:30+09:00"
+    },
+    {
+      "id": "web-20706",
+      "file": "data/research/web-20706.json",
+      "sha256": "7109a4bea44bb2e71290694fd26d52a096370304957cd8bd2d2e0d23de16664e",
+      "publishedAt": "2026-10-25T11:06:55+09:00"
+    },
+    {
+      "id": "web-20713",
+      "file": "data/research/web-20713.json",
+      "sha256": "3e3bb10dbccb5b05a9f37ac35c6651f6452f13188b04efc718fc53c637dc52b9",
+      "publishedAt": "2026-10-25T13:18:37+09:00"
+    },
+    {
+      "id": "web-20667",
+      "file": "data/research/web-20667.json",
+      "sha256": "470b90c54223d9a388be7c721ce7836acd654b92ecd6b32d0c3d4dbcc9367d43",
+      "publishedAt": "2026-10-21T05:00:00+09:00"
+    },
+    {
+      "id": "web-20712",
+      "file": "data/research/web-20712.json",
+      "sha256": "aa7ecb4e85f08331abfe88e64e52c9d900579f1d2d7e744448a9f33f44e32aae",
+      "publishedAt": "2026-10-25T13:15:41+09:00"
+    },
+    {
+      "id": "web-20702",
+      "file": "data/research/web-20702.json",
+      "sha256": "a3a4104e0faf2c554dc67f5214763ea09112ac99af16096ada729d52fa8109cc",
+      "publishedAt": "2026-10-25T10:58:30+09:00"
+    },
+    {
+      "id": "web-20719",
+      "file": "data/research/web-20719.json",
+      "sha256": "2149660a12f8fa9edce3b610c1ff8e79e4060e1953871fc28586f8d254690c92",
+      "publishedAt": "2026-10-25T22:50:14+09:00"
+    },
+    {
+      "id": "web-20699",
+      "file": "data/research/web-20699.json",
+      "sha256": "74aa5f0501d3c8dd6795e37a6b3d7b4b071ca68a1b61e1cede1b5a91b7cd25f7",
+      "publishedAt": "2026-10-24T00:34:25+09:00"
+    },
+    {
+      "id": "web-20652",
+      "file": "data/research/web-20652.json",
+      "sha256": "40111eb25f7f5d83cbcf473a9674289f52bbe37bdc2569c6fbe9e2761e57d7b0",
+      "publishedAt": "2026-10-19T15:23:33+09:00"
+    },
+    {
+      "id": "web-20682",
+      "file": "data/research/web-20682.json",
+      "sha256": "532b62b69aa0a40c8b6e2fa64525bfe3451a9b42a594eac54ed51095c9125fa8",
+      "publishedAt": "2026-10-21T12:57:05+09:00"
+    }
+  ],
+  "sourceRecheck": [
+    {
+      "id": "web-20698",
+      "publishedAt": "2026-10-23T05:00:00+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 3411
+    },
+    {
+      "id": "web-20655",
+      "publishedAt": "2026-10-20T05:00:00+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 3775
+    },
+    {
+      "id": "web-20685",
+      "publishedAt": "2026-10-22T05:00:00+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 4147
+    },
+    {
+      "id": "web-20709",
+      "publishedAt": "2026-10-25T13:02:50+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 979
+    },
+    {
+      "id": "web-20697",
+      "publishedAt": "2026-10-22T14:00:00+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 1478
+    },
+    {
+      "id": "web-20700",
+      "publishedAt": "2026-10-25T10:51:58+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 1203
+    },
+    {
+      "id": "web-20708",
+      "publishedAt": "2026-10-25T12:57:49+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 958
+    },
+    {
+      "id": "web-20703",
+      "publishedAt": "2026-10-25T11:00:46+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 1432
+    },
+    {
+      "id": "web-20718",
+      "publishedAt": "2026-10-25T22:44:17+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 1698
+    },
+    {
+      "id": "web-20683",
+      "publishedAt": "2026-10-21T13:16:30+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 1410
+    },
+    {
+      "id": "web-20706",
+      "publishedAt": "2026-10-25T11:06:55+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 1423
+    },
+    {
+      "id": "web-20713",
+      "publishedAt": "2026-10-25T13:18:37+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 707
+    },
+    {
+      "id": "web-20667",
+      "publishedAt": "2026-10-21T05:00:00+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 2841
+    },
+    {
+      "id": "web-20712",
+      "publishedAt": "2026-10-25T13:15:41+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 691
+    },
+    {
+      "id": "web-20702",
+      "publishedAt": "2026-10-25T10:58:30+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 1141
+    },
+    {
+      "id": "web-20719",
+      "publishedAt": "2026-10-25T22:50:14+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 2130
+    },
+    {
+      "id": "web-20699",
+      "publishedAt": "2026-10-24T00:34:25+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 1738
+    },
+    {
+      "id": "web-20652",
+      "publishedAt": "2026-10-19T15:23:33+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 1264
+    },
+    {
+      "id": "web-20682",
+      "publishedAt": "2026-10-21T12:57:05+09:00",
+      "sameText": true,
+      "needsOriginal": false,
+      "characters": 1145
+    }
+  ],
+  "research": {
+    "provider": "Gemini",
+    "status": "completed",
+    "report": "data/production/weekly-20261029/gemini-review.json",
+    "reportSha256": "56b7ffcab14b4586f1c9eeaa0cd02c15bbc4d0ab43249f051f449054f27951a2",
+    "scope": "구독 Pro 웹 앱에서 기사본문19건 전달받아 14꼭지 오독 위험 검토. 원음·영상·사진 직접 확인 아님.",
+    "corrections": [
+      "국민의힘은 야당으로 교정",
+      "인과관계를 화자의 해석으로 귀속",
+      "김완 전망을 법적 금지로 바꾸지 않음",
+      "청년 수치 15.4/15 차이는 약15로 간접화하고 진행자·방송일 확정 안 함"
+    ]
+  },
+  "writing": {
+    "provider": "Claude",
+    "scope": "구독 CLI 초고14편 및 Gemini·GPT 교정 뒤 최종퇴고14편",
+    "executions": [
+      {
+        "file": "data/production/weekly-20261029-final-1/execution.json",
+        "sha256": "4bed54e2b0192e4ad774738e8c3d4c6df6bd86da88020530c605b05bef1460ee",
+        "state": "completed"
+      },
+      {
+        "file": "data/production/weekly-20261029-final-2/execution.json",
+        "sha256": "2912a76c5dbaac5bef0e0956d54667d5dcbde8daeed80139c3e3e445017d5c36",
+        "state": "completed"
+      },
+      {
+        "file": "data/production/weekly-20261029-final-3/execution.json",
+        "sha256": "ff2173de8451b0e137abb667e3a9ecb975859a3905117cf5ce8f48c42275af4f",
+        "state": "completed"
+      },
+      {
+        "file": "data/production/weekly-20261029-final-4/execution.json",
+        "sha256": "c0fdb48f2d3fca72f4b93900ebbb563147012823de35ded3bed364c1e12e4d19",
+        "state": "completed"
+      }
+    ],
+    "initialFailures": "최초 제한 환경 실행4건은 네트워크 실행 실패. 승인된 정상 권한 재시도로 완료. API 키 추가 없음."
+  },
+  "review": {
+    "provider": "GPT",
+    "scope": "실제 기사 전문 대조·일부 방송 자막 확인·최종원고14편 전문 검토·사진/삽화18곳과PDF41면 시각 검수",
+    "captionScope": [
+      {
+        "id": "RS9Zm5TNl8c",
+        "range": "0~1507초 자막 본문 읽음; 원음·화면 대조 아님"
+      },
+      {
+        "id": "N0A7avU9zzs",
+        "range": "1080~1700초 자막 구간 읽음; 원음·화면 대조 아님"
+      },
+      {
+        "id": "DZ2taddIV2M",
+        "range": "1380~1900초 및 804초 인근 자막 확인; 원음·화면 대조 아님"
+      }
+    ],
+    "articles": [
+      {
+        "id": "weekly-grid-20261029",
+        "sourceIds": [
+          "web-20698"
+        ],
+        "characters": 3162,
+        "writingExecution": "data/production/weekly-20261029-final-1/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-1/result.json",
+        "finalHash": "ae32d005fdf61177adf92ccb8f5dd5b1c1ff00fa89369b468c54f185b62ec7ff"
+      },
+      {
+        "id": "weekly-growth-20261029",
+        "sourceIds": [
+          "web-20655"
+        ],
+        "characters": 3227,
+        "writingExecution": "data/production/weekly-20261029-final-1/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-1/result.json",
+        "finalHash": "440b10b7b4086f48888b7e4c180471b0e889ef7034a641fbae01f405c05565b2"
+      },
+      {
+        "id": "weekly-reform-20261029",
+        "sourceIds": [
+          "web-20685"
+        ],
+        "characters": 3541,
+        "writingExecution": "data/production/weekly-20261029-final-1/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-1/result.json",
+        "finalHash": "4d06c6121d094578bf916a49d43e685ea7cf89f53d0881a88e90effaa590b29d"
+      },
+      {
+        "id": "weekly-court-20261029",
+        "sourceIds": [
+          "web-20709",
+          "web-20697",
+          "web-20700"
+        ],
+        "characters": 2888,
+        "writingExecution": "data/production/weekly-20261029-final-1/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-1/result.json",
+        "finalHash": "ed48a5aa3dc37e174bbd5fbf38b87bec36604362b387ff7c2ed8850f18ff7095"
+      },
+      {
+        "id": "weekly-youth-20261029",
+        "sourceIds": [
+          "web-20708",
+          "web-20703"
+        ],
+        "characters": 2249,
+        "writingExecution": "data/production/weekly-20261029-final-2/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-2/result.json",
+        "finalHash": "c12a6a9975ebe37776e2bb5851d98eb3b27f8327ddb1dec944994eecfad7df3f"
+      },
+      {
+        "id": "weekly-wonsan-20261029",
+        "sourceIds": [
+          "web-20718"
+        ],
+        "characters": 1742,
+        "writingExecution": "data/production/weekly-20261029-final-2/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-2/result.json",
+        "finalHash": "23fe6d54412c33e93dfaea17b4029d3004c458ecf611cbfcbc8427044a058cf1"
+      },
+      {
+        "id": "weekly-command-20261029",
+        "sourceIds": [
+          "web-20683"
+        ],
+        "characters": 1419,
+        "writingExecution": "data/production/weekly-20261029-final-2/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-2/result.json",
+        "finalHash": "a9777f916c4cc6e1cdbb5bf8a88dd7799432762f9b45378c51ebc75a9c0882ed"
+      },
+      {
+        "id": "weekly-world-20261029",
+        "sourceIds": [
+          "web-20706",
+          "web-20713"
+        ],
+        "characters": 1558,
+        "writingExecution": "data/production/weekly-20261029-final-2/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-2/result.json",
+        "finalHash": "62aea64a326fc505446db5318e7c6c18c562e5dbcd94ea3ed27821286392fb0f"
+      },
+      {
+        "id": "weekly-tax-20261029",
+        "sourceIds": [
+          "web-20667"
+        ],
+        "characters": 3157,
+        "writingExecution": "data/production/weekly-20261029-final-3/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-3/result.json",
+        "finalHash": "542265d01faafe0c298aef352616bf78c14d3e26db71122a5f46b08062bc6def"
+      },
+      {
+        "id": "weekly-conservative-20261029",
+        "sourceIds": [
+          "web-20712",
+          "web-20702"
+        ],
+        "characters": 1523,
+        "writingExecution": "data/production/weekly-20261029-final-3/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-3/result.json",
+        "finalHash": "6099ede7f1b1aa9b53fb9346b23d3092feddc3def286b70436dd5705ae44a35e"
+      },
+      {
+        "id": "weekly-party-20261029",
+        "sourceIds": [
+          "web-20719"
+        ],
+        "characters": 1716,
+        "writingExecution": "data/production/weekly-20261029-final-3/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-3/result.json",
+        "finalHash": "42faa191de5386a1509d9afee6cca8c2e8e6f2cb8cbb4ce18298f8348ff3c9d0"
+      },
+      {
+        "id": "weekly-local-20261029",
+        "sourceIds": [
+          "web-20699"
+        ],
+        "characters": 1699,
+        "writingExecution": "data/production/weekly-20261029-final-4/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-4/result.json",
+        "finalHash": "990208e00f5156f293177dc76ac35266708c60fd1eab6dca9a0ee4bb104898cd"
+      },
+      {
+        "id": "weekly-cooperation-20261029",
+        "sourceIds": [
+          "web-20652"
+        ],
+        "characters": 1556,
+        "writingExecution": "data/production/weekly-20261029-final-4/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-4/result.json",
+        "finalHash": "e44bb955e3dbb79662a594d01e67900c300bb1fb5f988e551f3f6375ce5817fb"
+      },
+      {
+        "id": "weekly-community-20261029",
+        "sourceIds": [
+          "web-20682"
+        ],
+        "characters": 1313,
+        "writingExecution": "data/production/weekly-20261029-final-4/execution.json",
+        "writingResult": "data/production/weekly-20261029-final-4/result.json",
+        "finalHash": "2f486631845764c13f8d1dee58089364f6c76ee0c8c0ef16a2397a50a05ca060"
+      }
+    ],
+    "proof": {
+      "pages": 41,
+      "sha256": "b92c31d5a6aadd1f5ad7949afbf795c7b1802105a0e70d8de05dcf0f61e077f5",
+      "visualCheck": true,
+      "summary": "41면 전체를 렌더링하고 4면씩 확대한 검수판 11개로 모든 지면을 확인했다. 14편 약3만자 전문 보존, 사진·삽화18곳, 양쪽 맞춤 2단 본문, 사진·캡션 동반 배치. 짧은 소제목으로 퇴고하고 다음 본문 3행을 확보해 단 끝의 소제목 고립을 교정했다. 본문 누락·경계 이탈·같은 단 본문 없는 소제목0건. 목차 쪽번호와 QR14개 원출처 일치.",
+      "reviewedAt": "2026-10-29T00:36:27.243Z",
+      "renderCheck": {
+        "pages": 41,
+        "missingParagraphs": [],
+        "outOfBoundsText": [],
+        "renderedPages": 41
+      },
+      "qrCheck": {
+        "sha256": "b92c31d5a6aadd1f5ad7949afbf795c7b1802105a0e70d8de05dcf0f61e077f5",
+        "checked": 14,
+        "passed": 14,
+        "results": [
+          {
+            "article": "weekly-grid-20261029",
+            "page": 8,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20698",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-growth-20261029",
+            "page": 12,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20655",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-reform-20261029",
+            "page": 16,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20685",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-court-20261029",
+            "page": 19,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20709",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-youth-20261029",
+            "page": 21,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20708",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-wonsan-20261029",
+            "page": 23,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20718",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-command-20261029",
+            "page": 25,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20683",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-world-20261029",
+            "page": 27,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20706",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-tax-20261029",
+            "page": 31,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20667",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-conservative-20261029",
+            "page": 33,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20712",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-party-20261029",
+            "page": 35,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20719",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-local-20261029",
+            "page": 37,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20699",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-cooperation-20261029",
+            "page": 39,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20652",
+            "matchesSource": true
+          },
+          {
+            "article": "weekly-community-20261029",
+            "page": 41,
+            "url": "https://www.speaks.kr/news/articleView.html?idxno=20682",
+            "matchesSource": true
+          }
+        ]
+      }
+    }
+  },
+  "assets": [
+    {
+      "kind": "photo",
+      "purpose": "지역에 설치되는 송전 설비의 실제 모습",
+      "url": "/images/programs/asan-transmission-2019.jpg",
+      "width": 1024,
+      "height": 768,
+      "alt": "2019년 10월 25일 충남 아산의 345kV 송전탑. 전력망 설비를 보여주는 자료 사진으로, 기사에 나온 호남권 증설 사업 현장은 아니다.",
+      "caption": "2019년 10월 아산의 345kV 송전탑. 전력망 설비의 모습을 보여 주는 자료 사진.",
+      "credit": "뭘로할까 · 2019 · CC BY-SA 4.0",
+      "capturedAt": "2019-10-25",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:송전탑1.jpg",
+      "context": "2019년 10월 25일 충남 아산의 345kV 송전탑. 전력망 설비를 보여주는 자료 사진으로, 기사에 나온 호남권 증설 사업 현장은 아니다.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "transformation": "원본 크기·내용 유지",
+      "rights": {
+        "status": "cleared",
+        "basis": "license",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:송전탑1.jpg",
+        "note": "저작자 뭘로할까, CC BY-SA 4.0. 원본 JPG를 변경 없이 사용. 원출처·라이선스 링크·촬영일 표기."
+      },
+      "sha256": "44bf34fb47d87b7ccf2b8fe518d326f3c924a50258172316e9765f2865ef71db"
+    },
+    {
+      "kind": "generated-illustration",
+      "purpose": "원고의 구체적 주제를 풀어 주는 개념 삽화",
+      "url": "/images/issue-20261026-r7/growth-and-everyday-life-v1.png",
+      "width": 1024,
+      "height": 1536,
+      "alt": "산업의 전력과 동네의 불빛을 연결한 삽화. 특정 지역의 실제 풍경이 아니다.",
+      "caption": "산업의 전력과 동네의 불빛을 연결한 개념 삽화.",
+      "credit": "주간 스픽스",
+      "disclosure": "AI 생성 삽화 · 실제 장소·인물·사건 재현 아님",
+      "generation": {
+        "tool": "image_gen",
+        "prompt": "Portrait original drypoint and gouache editorial illustration, Korean residential neighborhood at twilight, ordinary lit windows in foreground, distant transmission pylon and server building, charcoal rust red slate teal. No text, logo, identifiable politicians, fake documents or factual scene reconstruction."
+      },
+      "rights": {
+        "status": "cleared",
+        "basis": "original-work",
+        "note": "이 호의 원고와 지면을 위해 내장 image_gen으로 새로 제작한 개념 삽화. 실제 현장의 기록으로 사용하지 않음."
+      },
+      "afterParagraph": 11,
+      "sha256": "9ce6dd4bf8a0724ab8a1e900bf30e1fada53c1d0f7f5be5cd52d6a930471829a"
+    },
+    {
+      "kind": "generated-illustration",
+      "purpose": "예산의 성과가 주거·일자리·돌봄으로 이어지는 생활의 모습",
+      "url": "/images/programs/budget-neighborhood-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "주거와 일터, 돌봄 공간을 한 동네 풍경으로 엮은 삽화. 특정 지역이나 실제 예산 사업의 성과를 재현한 그림은 아니다.",
+      "caption": "주거와 일터, 돌봄이 함께 놓인 동네를 그린 개념 삽화.",
+      "credit": "주간 스픽스",
+      "disclosure": "AI 생성 삽화 · 실제 인물·현장 재현 아님",
+      "generation": {
+        "tool": "image_gen",
+        "prompt": "Original gouache and fine ink birdseye Korean neighborhood at dusk, homes, workshop and care space; no actual policy outcome represented."
+      },
+      "rights": {
+        "status": "cleared",
+        "basis": "original-work",
+        "note": "이 프로젝트를 위해 내장 image_gen으로 생성한 편집 삽화. 원본 파일 그대로 사용."
+      },
+      "sha256": "d52ca5108c8c359118e2868a00d85266295fc5bc69415b06e934fbf908d347e0"
+    },
+    {
+      "kind": "generated-illustration",
+      "purpose": "재판과 사법행정 권한을 구분하자는 제안의 배경",
+      "url": "/images/programs/court-deliberation-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "권한이 나뉜 기관들이 서로의 판단을 살피는 과제를 표현한 삽화. 실제 회의나 기관 내부를 재현한 장면이 아니다.",
+      "caption": "권한을 나눈 기관들이 서로의 판단을 살피는 과제를 표현한 개념 삽화.",
+      "credit": "주간 스픽스",
+      "disclosure": "AI 생성 삽화 · 실제 인물·현장 재현 아님",
+      "generation": {
+        "tool": "image_gen",
+        "prompt": "Original ink and gouache painting of empty abstract courthouse deliberation table, chairmanship and institutional roles; not a real court."
+      },
+      "rights": {
+        "status": "cleared",
+        "basis": "original-work",
+        "note": "이 프로젝트를 위해 내장 image_gen으로 생성한 편집 삽화. 원본 파일 그대로 사용."
+      },
+      "sha256": "81f5121543324e2f637b6a03278b4651c2c0740f7514ce2de7d9cf8359fa2344"
+    },
+    {
+      "kind": "photo",
+      "purpose": "방송 내용과 관련된 실제 장소의 자료 사진",
+      "url": "/images/programs/supreme-court-2020.jpg",
+      "width": 1600,
+      "height": 1099,
+      "alt": "2020년 촬영한 대한민국 대법원 청사. 김해원의 법원조직법 개정 구상이 다룬 사법제도의 배경 자료다.",
+      "caption": "2020년 촬영한 대한민국 대법원 청사.",
+      "credit": "Seoul Institute · 서울연구원 · 2020 · CC BY 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_Korea_(2020).jpg",
+      "context": "2020년 촬영한 대한민국 대법원 청사. 김해원의 법원조직법 개정 구상이 다룬 사법제도의 배경 자료다.",
+      "capturedAt": "2020-06-20",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "rights": {
+        "status": "cleared",
+        "basis": "license",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Supreme_Court_of_Korea_(2020).jpg",
+        "note": "Seoul Institute · 서울연구원; 2020-06-20; CC BY 4.0; https://creativecommons.org/licenses/by/4.0/. 원본의 구도를 유지해 최대 1600px로 축소하고 JPEG로 변환. 합성·내용 변경 없음. 변환본에도 동일한 라이선스 적용."
+      },
+      "sha256": "6613341b3dddd489dd071e08b9723eaeb3119b5cb487f65ba235a0dc5be2c2b5"
+    },
+    {
+      "kind": "generated-illustration",
+      "purpose": "실제 방송 스틸컷이 확보되면 김완 기자·오창익 진행자 장면을 1장 쓴다. 나머지는 상징 삽화로 쓰되 캡션에 생성 삽화임을 밝힌다. 후보: 경선 투표함과 스마트폰 화면(시사타파 수사), 금이 간 창문이 있는 큰 건물 외관(민주당 내홍 비유). 실제 장소를 재현한 그림이 아니며 인물 얼굴을 임의로 그리지 않는다.",
+      "url": "/images/programs/lastweek-transparency-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "사법행정의 설명 책임과 공개 논의를 표현한 삽화. 실제 법정이나 기자회견 장면이 아니다.",
+      "caption": "사법행정의 공개와 설명 책임을 표현한 개념 삽화.",
+      "credit": "주간 스픽스",
+      "disclosure": "AI 생성 삽화 · 실제 사건·증거 재현 아님",
+      "generation": {
+        "tool": "image_gen",
+        "prompt": "Original Korean news weekly editorial illustration, landscape 3:2, charcoal pencil and thin watercolor, slate green, pale sky and small red accents. Television broadcast camera in foreground looking toward a sunlit anonymous civic building's open doors, journalists' equipment suggested by cables and empty tripods, no people identifiable. Topic is public access and live broadcasting of government meetings and court decisions. Strong architectural perspective, nuanced handwork, no gavel, scales, documents, labels, logos, maps or text. Clearly a conceptual illustration, not an actual court or news scene."
+      },
+      "rights": {
+        "status": "cleared",
+        "basis": "original-work",
+        "note": "이 프로젝트의 기사에 맞춰 내장 image_gen으로 새로 제작. 실제 인물·증거·사건 장면으로 사용하지 않음."
+      },
+      "afterParagraph": 9,
+      "sha256": "312f18623320264fc0d89cec81da7791d5d196849cacc15b0567ffeb465f8e21"
+    },
+    {
+      "kind": "photo",
+      "purpose": "방송 내용과 관련된 실제 장소의 자료 사진",
+      "url": "/images/programs/yonsei-campus-2017.jpg",
+      "width": 1600,
+      "height": 1200,
+      "alt": "2017년 연세대학교 캠퍼스 풍경. 대학 캠퍼스의 배경 자료이며, 이번 설문의 조사 장소나 참여자를 촬영한 사진은 아니다.",
+      "caption": "2017년 연세대학교 캠퍼스 정문. 대학가의 배경을 보여 주는 자료 사진.",
+      "credit": "Dr. Artur Braun · 2017 · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yonsei_University,_Seoul,_Korea.jpg",
+      "context": "2017년 연세대학교 캠퍼스 풍경. 대학 캠퍼스의 배경 자료이며, 이번 설문의 조사 장소나 참여자를 촬영한 사진은 아니다.",
+      "capturedAt": "2017-08-23",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights": {
+        "status": "cleared",
+        "basis": "license",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Yonsei_University,_Seoul,_Korea.jpg",
+        "note": "Dr. Artur Braun; 2017-08-23; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0/. 원본의 구도를 유지해 최대 1600px로 축소하고 JPEG로 변환. 합성·내용 변경 없음. 변환본에도 동일한 라이선스 적용."
+      },
+      "sha256": "3d86c742fafea888681a1a6c0f77c27ad7a1bf53588f52abc0c879578b39fbb4"
+    },
+    {
+      "kind": "generated-illustration",
+      "purpose": "청년의 생각을 직접 듣는 대면 대화의 의미",
+      "url": "/images/programs/youth-listening-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "캠퍼스 계단에서 이야기를 나누고 듣는 청년들을 그린 삽화. 실제 조사 참여자나 조사 현장을 재현한 그림은 아니다.",
+      "caption": "캠퍼스에서 서로 이야기를 나누고 듣는 청년들을 그린 개념 삽화.",
+      "credit": "주간 스픽스",
+      "disclosure": "AI 생성 삽화 · 실제 인물·현장 재현 아님",
+      "generation": {
+        "tool": "image_gen",
+        "prompt": "Original Korean magazine editorial illustration; anonymous young adults in face-to-face campus conversation; risograph and colored pencil; no actual survey participants."
+      },
+      "rights": {
+        "status": "cleared",
+        "basis": "original-work",
+        "note": "이 프로젝트를 위해 내장 image_gen으로 생성한 편집 삽화. 원본 파일 그대로 사용."
+      },
+      "sha256": "0a1b74fe064287e3d3f34a93fc76ee1a7bdc12efb9df48bc2a459c32b4f5ca4b",
+      "afterParagraph": 7
+    },
+    {
+      "kind": "photo",
+      "purpose": "방송 내용과 관련된 실제 장소의 자료 사진",
+      "url": "/images/programs/wonsan-beach-2005.jpg",
+      "width": 1280,
+      "height": 960,
+      "alt": "2005년 촬영한 원산 인근 해변. 원산 지역의 해안 풍경을 보여주는 자료 사진이다. 현재 원산갈마 휴양시설 사진은 아니다.",
+      "caption": "2005년 원산 인근 해변. 현재 원산갈마 휴양시설과는 구별되는 옛 자료 사진.",
+      "credit": "Terranik · 2005 · CC BY 3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beach_near_Wonsan_-_North_Korea.jpg",
+      "context": "2005년 촬영한 원산 인근 해변. 원산 지역의 해안 풍경을 보여주는 자료 사진이다. 현재 원산갈마 휴양시설 사진은 아니다.",
+      "capturedAt": "2005-09-28",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "rights": {
+        "status": "cleared",
+        "basis": "license",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Beach_near_Wonsan_-_North_Korea.jpg",
+        "note": "Terranik; 2005-09-28; CC BY 3.0; https://creativecommons.org/licenses/by/3.0/. 원본의 구도를 유지해 최대 1600px로 축소하고 JPEG로 변환. 합성·내용 변경 없음. 변환본에도 동일한 라이선스 적용."
+      },
+      "sha256": "01c6c31e32e51f2d0c2e580c5fe3c4092e0e85b186210723660f1aa0ee45a23c"
+    },
+    {
+      "kind": "generated-illustration",
+      "purpose": "관광시설·교통·접근성의 관계를 표현하는 해안 풍경 삽화",
+      "url": "/images/programs/coastal-access-editorial-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "해안의 호텔과 철도, 바다를 그린 편집 삽화. 끊어진 철교는 접근 제약의 상징이다.",
+      "caption": "해안 관광과 교통망을 함께 바라본 개념 삽화.",
+      "credit": "주간 스픽스",
+      "disclosure": "AI 생성 삽화 · 실제 원산 재현 아님",
+      "generation": {
+        "tool": "image_gen",
+        "prompt": "Original editorial gouache and woodcut coastal resort landscape with railway and power lines; interrupted railway symbolizes difficult access. No identifiable real landmark, no photographic appearance, no text."
+      },
+      "rights": {
+        "status": "cleared",
+        "basis": "original-work",
+        "note": "프로젝트용으로 image_gen에서 새로 생성한 개념 삽화. 실제 시설 사진으로 사용하지 않음."
+      },
+      "afterParagraph": 6,
+      "sha256": "605b51e3e6a6953c66305485f074f911e1bc418c0cf50b1fea536b1c521b7818"
+    },
+    {
+      "kind": "generated-illustration",
+      "purpose": "법원과 선고 장면을 암시하는 상징 일러스트(실제 재판 사진 아님). 두 번째는 공문 내용을 안진걸 소장의 설명에 따라 정리한 개요 도표로 하며, 방송 화면 캡처는 직접 확인하지 못했으므로 쓰지 않는다. 필요하면 갤럽 지지율 막대그래프를 추가한다. 생성 삽화는 상징 이미지이며 실제 장면의 재현이 아님을 캡션에 밝힌다.",
+      "url": "/images/programs/lastweek-records-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "동맹의 역할과 지휘 체계를 문서·협의로 정하는 문제를 표현한 삽화. 실제 협정서나 군사 문서를 재현한 그림이 아니다.",
+      "caption": "동맹의 역할과 지휘 체계를 문서와 협의로 정하는 문제를 표현한 개념 삽화.",
+      "credit": "주간 스픽스",
+      "disclosure": "AI 생성 삽화 · 실제 사건·증거 재현 아님",
+      "generation": {
+        "tool": "image_gen",
+        "prompt": "Original editorial still life for a serious Korean current-affairs weekly, landscape 3:2. Plain paper folders and blank index cards carefully arranged on a public archive desk, light from a high window falls across layered pages and a fountain pen. Topic is the difference between administrative records, allegations and judicial proof. Fine drypoint etching lines with restrained warm watercolor washes, graphite, ivory and burgundy. Intriguing close composition, subtle tactile detail. No fake legible documents, signatures, names, stamps, dates, numbers, scales, gavels, handcuffs, faces or text. Clearly symbolic art, not evidence in an actual case."
+      },
+      "rights": {
+        "status": "cleared",
+        "basis": "original-work",
+        "note": "이 프로젝트의 기사에 맞춰 내장 image_gen으로 새로 제작. 실제 인물·증거·사건 장면으로 사용하지 않음."
+      },
+      "sha256": "9c6cd25e9f457e8f617e8fbd5c03f424c5d3675d22b780aac542050bf14fbca6"
+    },
+    {
+      "kind": "generated-illustration",
+      "purpose": "선전 APEC 개최지 또는 베이징 도심 사진(확보 시 촬영일 명기). 확보 자료가 없으면 미·중·러·한반도를 단순 지도와 화살표로 나타낸 관계도를 쓰고, 3국 회담은 현지 전언에 따른 구상이라 확정으로 보이지 않게 캡션에 쓴다. 두 번째 이미지는 대미·대중·대러 외교 카드를 비교한 요약 도표로 하되 중국 당국자 평가를 우 회장이 전한 것임을 밝힌다. 정상 인물 사진은 촬영일을 표기.",
+      "url": "/images/programs/lastweek-beijing-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "중국을 무대로 이어지는 외교 전망을 표현한 삽화. 실제 도시 전망이나 정상회담 현장을 기록한 사진이 아니다.",
+      "caption": "중국을 무대로 이어지는 외교와 통화를 표현한 개념 삽화.",
+      "credit": "주간 스픽스",
+      "disclosure": "AI 생성 삽화 · 실제 사건·증거 재현 아님",
+      "generation": {
+        "tool": "image_gen",
+        "prompt": "Beautiful serious current affairs magazine illustration, 3:2 landscape, Chinese city seen through a hotel window at blue hour, a simple telephone and notebook in foreground on sill, distant layered modern skyline and roofs, anonymous location. Topic is a telephone interview from Beijing about possible diplomatic talks. Restrained ink wash and gouache, blue grey, warm amber, quiet observation, tangible texture. No leaders, flags, meetings, maps, arrows, text, logos. No depiction of an actual diplomatic event, clearly editorial painting."
+      },
+      "rights": {
+        "status": "cleared",
+        "basis": "original-work",
+        "note": "이 프로젝트의 기사에 맞춰 내장 image_gen으로 새로 제작. 실제 인물·증거·사건 장면으로 사용하지 않음."
+      },
+      "sha256": "2907cf0aa6db4487b20c51d83ece01ab1d4db58901368d8fb713bcca76dace5a"
+    },
+    {
+      "kind": "generated-illustration",
+      "purpose": "기사의 내용을 풀어 주는 주간지 편집 삽화",
+      "url": "/images/issue-20261026-r5/tax-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "부동산과 금융자산을 아우르는 조세 원칙을 도시 풍경으로 표현한 삽화. 실제 세금 서류나 특정 지역을 재현한 그림은 아니다.",
+      "caption": "주거와 자본시장을 함께 놓고 조세 형평을 묻는 개념 삽화.",
+      "credit": "주간 스픽스",
+      "disclosure": "AI 생성 삽화 · 실제 인물·현장·자료 재현 아님",
+      "generation": {
+        "tool": "image_gen",
+        "prompt": "Original illustration for a sophisticated Korean printed current-affairs weekly, landscape 3:2. Topic is equal principles of taxation across housing wealth and stock investment. A carefully observed city seen from above: apartment buildings, modest homes, and an office district reflected in a single wide sheet of textured paper on a worktable, a plain pen at its edge. Elegant layered paper-cut and fine ink drawing, restrained charcoal, slate blue and deep burgundy, tactile printed feel, strong quiet composition. No coins, arrows, balance scales, dollar signs, charts, graphs, text, labels or logos. No actual financial documents or specific real neighborhood. Conceptual magazine art, not a photograph."
+      },
+      "rights": {
+        "status": "cleared",
+        "basis": "original-work",
+        "note": "프로젝트 기사에 맞춰 새로 제작한 개념 삽화. 실제 작품·문서·사람을 재현하지 않음."
+      },
+      "sha256": "b6d5e888a3cd870d0f5354f66274678fae60690db237dd15ee6449fc2079e084"
+    },
+    {
+      "kind": "photo",
+      "purpose": "방송 내용과 관련된 실제 장소의 자료 사진",
+      "url": "/images/programs/national-assembly-2014.jpg",
+      "width": 1600,
+      "height": 900,
+      "alt": "2014년 촬영한 국회의사당. 정당 지도부와 지지 기반의 관계를 다룬 기사의 배경 사진이며, 이번 녹취 논란이나 합당 협상 현장을 촬영한 사진은 아니다.",
+      "caption": "2014년 촬영한 국회의사당. 정당 정치의 배경 자료 사진.",
+      "credit": "Clumsyforeigner · 2014 · CC BY-SA 4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Assembly_Building_of_the_Republic_of_Korea.png",
+      "context": "2014년 촬영한 국회의사당. 정당 지도부와 지지 기반의 관계를 다룬 기사의 배경 사진이며, 이번 녹취 논란이나 합당 협상 현장을 촬영한 사진은 아니다.",
+      "capturedAt": "2014-09-08",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "rights": {
+        "status": "cleared",
+        "basis": "license",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:National_Assembly_Building_of_the_Republic_of_Korea.png",
+        "note": "Clumsyforeigner; 2014-09-08; CC BY-SA 4.0; https://creativecommons.org/licenses/by-sa/4.0/. 원본의 구도를 유지해 최대 1600px로 축소하고 JPEG로 변환. 합성·내용 변경 없음. 변환본에도 동일한 라이선스 적용."
+      },
+      "sha256": "1ea312b2a97d5172cd3729668205fcedd0404855207a5da6efc5ed6eb08b0cae"
+    },
+    {
+      "kind": "generated-illustration",
+      "url": "/images/nomination-editorial-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "purpose": "형식적 참여의 개방과 실질적인 경쟁 기회의 차이를 시각화",
+      "alt": "정치적 지지와 경선 절차의 관계를 표현한 개념 삽화. 특정 경선이나 실제 위법 행위를 재현한 그림이 아니다.",
+      "caption": "정치적 선택과 경선 절차의 관계를 표현한 개념 삽화.",
+      "credit": "주간 스픽스",
+      "disclosure": "AI 생성 개념 삽화",
+      "rights": {
+        "status": "cleared",
+        "basis": "original-work",
+        "note": "내장 이미지 생성 도구로 신규 제작. 제3자 사진·로고·실존 인물 재현을 사용하지 않음."
+      },
+      "generation": {
+        "tool": "built-in image_gen",
+        "createdAt": "2026-10-27T01:16:53.028Z",
+        "prompt": "Original editorial paper-cut collage, anonymous people approach the same open doorway from different starting elevations, stairs and a gentle slope. Navy, teal, off-white, restrained vermilion. No text, real politicians, party logos or documentary-photo appearance. Landscape 3:2."
+      },
+      "sha256": "0f69a8321e87073b756dad4f48d52128ed4ac4743b19fb95093f58445ac528de"
+    },
+    {
+      "kind": "generated-illustration",
+      "purpose": "실제 방송 스틸컷이 확보되면 오창익 진행자·박진영 작가 장면을 1장 쓴다. 보조 삽화는 서울 도심을 단순화한 지도풍 그림(구 통폐합 상상)을 쓰되, 박 작가의 구상을 설명하는 상징 삽화임을 캡션에 밝히고 실제 개편안이 아니라고 적는다. 두 번째 이미지는 광역 도와 시·군의 역할 분담을 대비한 단순 도표로 하되 박 작가의 설명임을 쓴다. 오세훈 시장 사진을 쓸 때는 촬영 시점을 캡션에 적는다.",
+      "url": "/images/programs/lastweek-seoul-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "서울의 교통과 주거, 시민 서비스를 한 화면에 담은 삽화. 특정 장소의 실제 모습이나 확정된 도시계획을 재현한 그림이 아니다.",
+      "caption": "교통과 주거, 시민 서비스가 이어지는 도시를 그린 개념 삽화.",
+      "credit": "주간 스픽스",
+      "disclosure": "AI 생성 삽화 · 실제 사건·증거 재현 아님",
+      "generation": {
+        "tool": "image_gen",
+        "prompt": "Original sophisticated Korean magazine editorial painting, landscape 3:2, layered urban Seoul-like scene showing a busy bus lane, crosswalk and densely built residential hillside, one construction crane and a civic square, everyday anonymous tiny pedestrians. Topic is city administration, public transport and housing rather than election personalities. Hand-drawn ink and gouache with deep teal, brick red, ivory and ochre, intricate observed details, lively diagonal composition. Not a real policy project or recognizable real mayor; no text, logos, charts, flags, candidate posters, money or infographic. Clearly illustration."
+      },
+      "rights": {
+        "status": "cleared",
+        "basis": "original-work",
+        "note": "이 프로젝트의 기사에 맞춰 내장 image_gen으로 새로 제작. 실제 인물·증거·사건 장면으로 사용하지 않음."
+      },
+      "sha256": "0c40ee3d0de936fbbda6cc86c913c435bf2a8605918a6b83385a4008ecadefd4"
+    },
+    {
+      "kind": "photo",
+      "purpose": "방송 내용과 관련된 실제 장소의 자료 사진",
+      "url": "/images/programs/wonsan-beach-2008.jpg",
+      "width": 1600,
+      "height": 1200,
+      "alt": "2008년 원산 인근 해변의 모습. 남북 관광과 경제협력의 배경 자료이며, 현재 시설 상태나 신규 사업을 보여 주는 사진은 아니다.",
+      "caption": "2008년 원산 인근 해변. 남북 관광과 경제협력의 배경을 보여 주는 옛 자료 사진.",
+      "credit": "(stephan) · 2008 · CC BY-SA 2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wŏnsan_Beach,_North_Korea._(2604236279).jpg",
+      "context": "2008년 원산 인근 해변의 모습. 남북 관광과 경제협력의 배경 자료이며, 현재 시설 상태나 신규 사업을 보여 주는 사진은 아니다.",
+      "capturedAt": "2008-06-12",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "rights": {
+        "status": "cleared",
+        "basis": "license",
+        "referenceUrl": "https://commons.wikimedia.org/wiki/File:Wŏnsan_Beach,_North_Korea._(2604236279).jpg",
+        "note": "(stephan); 2008-06-12; CC BY-SA 2.0; https://creativecommons.org/licenses/by-sa/2.0/. 원본의 구도를 유지해 최대 1600px로 축소하고 JPEG로 변환. 합성·내용 변경 없음. 변환본에도 동일한 라이선스 적용."
+      },
+      "sha256": "4cd16d01d9b5a8b0e34ae62823284a29aa7d39bf119c7b23d466766dc9cdcc1f"
+    },
+    {
+      "kind": "generated-illustration",
+      "purpose": "원고의 구체적 주제를 풀어 주는 개념 삽화",
+      "url": "/images/issue-20261026-r7/public-library-v1.png",
+      "width": 1536,
+      "height": 1024,
+      "alt": "도서관에서 공부하고 책을 빌리는 일상을 그린 삽화. 공공서비스와 시민의 신뢰를 표현했다.",
+      "caption": "공부하고 책을 빌리는 도서관의 일상을 그린 개념 삽화.",
+      "credit": "주간 스픽스",
+      "disclosure": "AI 생성 삽화 · 실제 장소·인물·사건 재현 아님",
+      "generation": {
+        "tool": "image_gen",
+        "prompt": "Landscape original drypoint and gouache illustration, neighborhood public library in late afternoon, anonymous Korean student reading, older reader returning a book, librarian listening, bus stop outside, muted blue grey ochre and terracotta. Conceptual editorial art, no actual named place, no text or logos."
+      },
+      "rights": {
+        "status": "cleared",
+        "basis": "original-work",
+        "note": "이 호의 원고와 지면을 위해 내장 image_gen으로 새로 제작한 개념 삽화. 실제 현장의 기록으로 사용하지 않음."
+      },
+      "sha256": "95455ff375f12b4b07c2703e963eb8805c79b13efabfb5294d11e36034c64199"
+    }
+  ],
+  "publication": {
+    "state": "locally-reviewed",
+    "publicVerification": "GitHub push 뒤 실제 공개 열람 결과는 제작 사이클 weekly-2026-10-29-08에 기록"
+  },
+  "reviewedAt": "2026-10-29T00:36:27.295Z"
+}
