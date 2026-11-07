@@ -10,7 +10,7 @@ export function runCommand(command,args,{timeout=180000,maxBuffer=4*1024*1024,in
   const append=(chunk,isError)=>{bytes+=Buffer.byteLength(chunk);if(bytes>maxBuffer){stop(Error(command+' 출력 한도 초과'));return;}if(isError)stderr+=chunk;else stdout+=chunk;};
   child.stdout.on('data',c=>append(c,false));child.stderr.on('data',c=>append(c,true));
   child.on('error',error=>{clearTimeout(timer);reject(error);});
-  child.on('close',code=>{clearTimeout(timer);if(failure)reject(failure);else if(code!==0)reject(Error(`${command} 실행 실패 (${code}): ${stderr.slice(-2000)}`));else resolve({stdout,stderr});});
+  child.on('close',code=>{clearTimeout(timer);if(failure)reject(failure);else if(code!==0){let detail=stderr.slice(-2000);try{const parsed=JSON.parse(stdout);if(parsed.is_error&&typeof parsed.result==='string')detail=parsed.result.slice(0,1000);}catch{}reject(Error(`${command} 실행 실패 (${code}): ${detail}`));}else resolve({stdout,stderr});});
   timer=setTimeout(()=>stop(Error(command+' 실행 시간 초과')),timeout);
  });
 }
