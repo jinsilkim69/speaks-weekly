@@ -1,0 +1,115 @@
+{
+  "baseUrl": "https://speaks-magazine.okok5598.workers.dev",
+  "assets": [
+    {
+      "path": "editions/2026-11-09.pdf",
+      "sha256": "2b3f3011de62a8da34860ea85b2ec312243a2038b695ba583d52e35b49e7a2e7",
+      "bytes": 21678005
+    },
+    {
+      "path": "images/editorial-drafts/20261109-animal-farm.png",
+      "sha256": "36c6bc212722e27fc0f37d317b0ae18330ac3dee2074837db8f69a8a5d43acee",
+      "bytes": 3951503
+    },
+    {
+      "path": "images/editorial-drafts/20261109-budget-review.png",
+      "sha256": "dcc056bbf61acb4849ef44d19cfa48dfb1f9acd33df0653c8d7ebe95ac4700cb",
+      "bytes": 2889211
+    },
+    {
+      "path": "images/editorial-drafts/20261109-cartoon.png",
+      "sha256": "bc40194b93a66313fb84390d642e32b36c4cfe4c830d2290485f228f3b2cda57",
+      "bytes": 4009448
+    },
+    {
+      "path": "images/editorial-drafts/20261109-coalition-roundtable.png",
+      "sha256": "e3f5daf9570ffc8c0a8f3681ac56e2aa2ac5a7b796b76176d782c35b3a756efc",
+      "bytes": 4172655
+    },
+    {
+      "path": "images/editorial-drafts/20261109-conservative.png",
+      "sha256": "30d4f9b623c86b5d3531ed54fedaafd9ad96b6b7372c1c7dc70b7b7d0cd6326d",
+      "bytes": 3532146
+    },
+    {
+      "path": "images/editorial-drafts/20261109-cover.png",
+      "sha256": "cd856bb9c5cf73436ae9923e32b1f2e96285a03226a8522533b399215f476ca3",
+      "bytes": 4124261
+    },
+    {
+      "path": "images/editorial-drafts/20261109-dissolution.png",
+      "sha256": "e83e611cbbf01e95168d1169b61151faacd6f5b466ec22251bd484888a70e888",
+      "bytes": 4417002
+    },
+    {
+      "path": "images/editorial-drafts/20261109-editorial.png",
+      "sha256": "a473394663fed6992ec7bd8e2df76696f5f8a713b8038016d705807e776dad70",
+      "bytes": 4165934
+    },
+    {
+      "path": "images/editorial-drafts/20261109-final/illustration-care-new.png",
+      "sha256": "c807d0ca8fe7de368d66e5062e381a51f068714ef8905e81f8eea6568836f847",
+      "bytes": 2063079
+    },
+    {
+      "path": "images/editorial-drafts/20261109-final/illustration-cultural-exchange-new.png",
+      "sha256": "7aae092918cb04c748bbc0592a8496fc6afd0fce211ef90481b6dfe6a98d8efd",
+      "bytes": 3360783
+    },
+    {
+      "path": "images/editorial-drafts/20261109-final/illustration-editor-comment-new.png",
+      "sha256": "f30a6257fb961a3a1648e19cdc16c075be0a64f0adb042e065c46b169968f41d",
+      "bytes": 3537657
+    },
+    {
+      "path": "images/editorial-drafts/20261109-final/illustration-publisher-new.png",
+      "sha256": "51ce7df03df551ba4413fb36939424f3847ea3ca18b9a3f24c0c38dea0c06542",
+      "bytes": 2476246
+    },
+    {
+      "path": "images/editorial-drafts/20261109-finance.png",
+      "sha256": "aa5f5558f9ca375f2952ab4a9c6f674ca3e33a85d70e1b75fc7783e133610c88",
+      "bytes": 3569977
+    },
+    {
+      "path": "images/editorial-drafts/20261109-insurrection-trial.png",
+      "sha256": "3b7396da644e6f092869b8b343038ca1cde9af0535b9385f2e5f1a8c16c5d48b",
+      "bytes": 3434862
+    },
+    {
+      "path": "images/editorial-drafts/20261109-justice.png",
+      "sha256": "976e29b0777cc26cd26346508ec2df1fd9d94f4f5a29c0eb7b412f2131078ce5",
+      "bytes": 4237438
+    },
+    {
+      "path": "images/editorial-drafts/20261109-poll-nov-week1.png",
+      "sha256": "a3dc2db503b9fc1d13f72dd56e80ed507468f2bd90e35de2e813e314e2e83997",
+      "bytes": 76942
+    },
+    {
+      "path": "images/editorial-drafts/20261109-semiconductor-hours.png",
+      "sha256": "c8ddf9698fd93b516ab566606e98a6b048427bf1ed202b6f87de9eef86c80de0",
+      "bytes": 3026909
+    },
+    {
+      "path": "images/editorial-drafts/20261109-us.png",
+      "sha256": "54996fad2b485ed2931f37d007e0c93d623b5e84b2fc26a69f611be2c77d1a16",
+      "bytes": 2767126
+    },
+    {
+      "path": "images/editorial-drafts/20261109-vocational.png",
+      "sha256": "f1c033fd5e307be510c26484de355a838c42d5ef5e6a502f977dbf26c317a469",
+      "bytes": 3940872
+    },
+    {
+      "path": "images/editorial-drafts/20261109-voices.png",
+      "sha256": "ddec622239b958c90ff0980ce1f9e5a67cfe70a12419c003b8e0624b1fa36357",
+      "bytes": 3582890
+    },
+    {
+      "path": "images/newsroom-2026-11-09/hanbono-japan.png",
+      "sha256": "5501a395ddbd06d55ebb913b040cd80528dc18f087300359811101fac4314be3",
+      "bytes": 87028
+    }
+  ]
+}

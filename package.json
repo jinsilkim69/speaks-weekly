@@ -4,6 +4,8 @@
   "description": "『주간 스픽스 (SPEAKS WEEKLY)』 정치·시사·문화 50p 주간지 자동화 출판 시스템 (도서출판 아우내)",
   "type": "module",
   "scripts": {
+    "prebuild": "node scripts/restore-weekly-assets.mjs",
+    "preexport": "node scripts/restore-weekly-assets.mjs",
     "start": "node server.mjs",
     "pipeline": "node scripts/run-pipeline.mjs",
     "collect": "node scripts/01-collect-speaks.mjs",
