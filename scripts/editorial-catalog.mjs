@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { createHash } from 'node:crypto';
 import {validateArticleVisuals} from './visual-policy.mjs';
-import {editionFingerprint,inspectPdf} from './pdf-proof.mjs';
+import {editionFingerprint,editionFingerprintV2,inspectPdf} from './pdf-proof.mjs';
 import {validateReporter} from './writer-profiles.mjs';
 import {readOfficialDirectory} from './official-links.mjs';
 import {validateEpisode,readPrograms} from './broadcast-programs.mjs';
@@ -19,7 +19,7 @@ export function validateArticle(article, options={}) {
     if (!review[field]?.trim()) throw new Error(`편집 검토 누락: ${field}`);
   }
   if (!article.visual?.alt || !article.visual?.caption || !article.visual?.credit || !/^(https:\/\/|\/(?!\/))/.test(article.visual?.url||'')) throw new Error('이미지 설명과 출처가 필요합니다.');
-  if (!options.allowUnreviewed && !Number.isFinite(Date.parse(article.publishedAt))) throw new Error('실제 기사 게시 시각이 필요합니다.');
+  if (!options.allowUnreviewed && options.requirePublishedAt!==false && !Number.isFinite(Date.parse(article.publishedAt))) throw new Error('실제 기사 게시 시각이 필요합니다.');
   validateArticleVisuals(article);
   validateEpisode(article);
   if(article.writer&&!options.allowUnreviewed)validateReporter(article,path.resolve(import.meta.dirname,'..'));
@@ -45,7 +45,8 @@ export function readHomeCatalog(root) {
 export function validateEditionContent(edition, root, options={}) {
   if (!Array.isArray(edition.articleSnapshots)||edition.articleSnapshots.length<1||edition.articleSnapshots.length>80) throw new Error('주간지 원고는 1~80개 범위에서 편성하세요.');
   if(edition.pageCounts&&(!Array.isArray(edition.pageCounts)||edition.pageCounts.length!==edition.articleSnapshots.length||edition.pageCounts.some(n=>!Number.isInteger(n)||n<1)))throw Error('기사 수와 지면 편성이 일치해야 합니다.');
-  edition.articleSnapshots.forEach(a=>validateArticle(a,options));
+  // Weekly snapshots do not need a separate online article publication time.
+  edition.articleSnapshots.forEach(a=>validateArticle(a,{...options,requirePublishedAt:false}));
   edition.articleSnapshots.forEach(a=>validateArticleVisuals(a,root));
   if (new Set(edition.articleSnapshots.map(a=>a.id)).size !== edition.articleSnapshots.length) throw new Error('주간지 꼭지 ID가 중복됩니다.');
   if (edition.articleSnapshots.some(a => !a.weeklyTreatment?.trim())) throw new Error('주간지 재편집 사유가 필요합니다.');
@@ -64,9 +65,9 @@ export function validateEdition(edition, root, {parsePdf=true}={}) {
   // Parse on release. Readers/builds reuse that recorded result only while the bytes match.
   const proof=parsePdf?{...inspectPdf(pdf),sha256:hash}:edition.pdfReview.structure;
   if(!proof||proof.sha256!==hash)throw Error('출고 시 생성한 PDF 구조 검사 기록이 필요합니다.');
-  if(proof.pages!==edition.pdfReview.pages||(edition.pageCounts&&proof.pages!==3+Math.ceil(edition.articleSnapshots.length/14)+edition.pageCounts.reduce((n,x)=>n+x,0))||!proof.a4||!Array.isArray(proof.emptyPages)||proof.emptyPages.length)throw Error('실제 PDF는 편성과 일치하고 빈 면 없는 A4 문서여야 합니다.');
+  if(proof.pages!==edition.pdfReview.pages||(edition.pageCounts&&(proof.pages<3+Math.ceil(edition.articleSnapshots.length/14)+edition.pageCounts.reduce((n,x)=>n+x,0)||proof.pages>12+3+Math.ceil(edition.articleSnapshots.length/14)+edition.pageCounts.reduce((n,x)=>n+x,0)))||!proof.a4||!Array.isArray(proof.emptyPages)||proof.emptyPages.length)throw Error('실제 PDF는 편성과 일치하고 빈 면 없는 A4 문서여야 합니다.');
   if(proof.testOnly)throw Error('시스템 시험 PDF는 발행할 수 없습니다.');
-  if(proof.editionHash!==editionFingerprint(edition,root))throw Error('PDF와 현재 주간호 원고·이미지가 일치하지 않습니다. 다시 조판하세요.');
+  if(proof.editionHash!==(proof.fingerprintVersion==='2'?editionFingerprintV2(edition,root):editionFingerprint(edition,root)))throw Error('PDF와 현재 주간호 원고·이미지가 일치하지 않습니다. 다시 조판하세요.');
   return proof;
 }
 

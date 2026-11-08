@@ -13,6 +13,20 @@ export function editionFingerprint(edition, root) {
   });
   return sha256(JSON.stringify({id:edition.id,title:edition.title,period:edition.period,coverArticleId:edition.coverArticleId,introduction:edition.introduction,articleSnapshots:edition.articleSnapshots,assets,...(edition.layout?{layout:edition.layout}:{}),...(edition.pageCounts?{pageCounts:edition.pageCounts}:{}),...(edition.revisionOf?{revisionOf:edition.revisionOf}:{}),...(edition.staff?{staff:edition.staff}:{})}));
 }
+// Version 2 binds the visible content and local image bytes, while excluding
+// review records that are added only after the publisher reviews the PDF.
+export function editionFingerprintV2(edition, root) {
+  const articles=edition.articleSnapshots.map(({review,...article})=>article);
+  const visuals=articles.flatMap(a=>[a.visual,...(a.supportingVisuals||[])]);
+  if(edition.layout?.coverVisual)visuals.push(edition.layout.coverVisual);
+  const assets=visuals.map(v=>{
+    if(!v?.url?.startsWith('/'))throw Error('PDF 이미지는 로컬 파일이어야 합니다.');
+    const base=path.resolve(root,'public'),file=path.resolve(base,'.'+v.url),rel=path.relative(base,file);
+    if(rel.startsWith('..')||path.isAbsolute(rel))throw Error('이미지 경로가 공개 폴더 밖입니다.');
+    return {url:v.url,sha256:sha256(fs.readFileSync(file))};
+  });
+  return sha256(JSON.stringify({version:2,id:edition.id,title:edition.title,period:edition.period,coverArticleId:edition.coverArticleId,introduction:edition.introduction,articleSnapshots:articles,assets,...(edition.layout?{layout:edition.layout}:{}),...(edition.pageCounts?{pageCounts:edition.pageCounts}:{}),...(edition.revisionOf?{revisionOf:edition.revisionOf}:{}),...(edition.staff?{staff:edition.staff}:{})}));
+}
 export function inspectPdf(file) {
   try {
     return JSON.parse(execFileSync(process.env.SPEAKS_PYTHON||'python',['-X','utf8',path.join(import.meta.dirname,'inspect-pdf.py'),file],{encoding:'utf8',stdio:['ignore','pipe','pipe'],windowsHide:true,timeout:30000,maxBuffer:1024*1024}));

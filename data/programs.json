@@ -53,6 +53,13 @@
       "description": "스픽스 공식 보수의전략 방송 기사와 원본 방송을 안내합니다.",
       "sourceUrl": "https://www.speaks.kr/news/articleView.html?idxno=20702",
       "schedule": null
+    },
+    {
+      "id": "speaks-news",
+      "name": "스픽스 뉴스·인터뷰",
+      "description": "코너 표기 없이 공식 사이트에 올라온 이슈·인터뷰·속보 기사의 링크입니다.",
+      "sourceUrl": "https://www.speaks.kr/",
+      "schedule": null
     }
   ],
   "reviewPeriod": {

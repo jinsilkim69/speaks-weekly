@@ -1472,7 +1472,7 @@
       }
     }
   ],
-  "updatedAt": "2026-10-29T10:51:41.342847+09:00",
+  "updatedAt": "2026-11-07T09:17:47.493943+09:00",
   "programs": [
     {
       "id": "jongdae-radar",
@@ -1525,6 +1525,13 @@
       "description": "스픽스 공식 보수의전략 방송 기사와 원본 방송을 안내합니다.",
       "sourceUrl": "https://www.speaks.kr/news/articleView.html?idxno=20702",
       "schedule": null
+    },
+    {
+      "id": "speaks-news",
+      "name": "스픽스 뉴스·인터뷰",
+      "description": "코너 표기 없이 공식 사이트에 올라온 이슈·인터뷰·속보 기사의 링크입니다.",
+      "sourceUrl": "https://www.speaks.kr/",
+      "schedule": null
     }
   ],
   "featuredEpisodeId": "wonsan-20261025",
@@ -1535,12 +1542,463 @@
   "homepageMode": "official-links",
   "officialDirectory": {
     "mode": "official-links",
-    "updatedAt": "2026-10-29T10:51:41.342847+09:00",
+    "updatedAt": "2026-11-07T09:17:47.493943+09:00",
     "reviewPeriod": {
-      "start": "2026-10-26",
-      "end": "2026-11-01"
+      "start": "2026-11-02",
+      "end": "2026-11-08"
     },
     "entries": [
+      {
+        "id": "official-20856",
+        "programId": "speaks-news",
+        "title": "李대통령 지지율, 2%p 올라 41%…與 36%·국힘 28% 오차밖 격차[한국갤럽]",
+        "verifiedTitle": "李대통령 지지율, 2%p 올라 41%…與 36%·국힘 28% 오차밖 격차[한국갤럽]",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20856",
+        "publishedAt": "2026-11-06T14:21:33+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-11-06",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:47.493565+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
+      {
+        "id": "official-20853",
+        "programId": "speaks-news",
+        "title": "입동 하루 앞두고 찬바람에 기온 '뚝'…내일부턴 영하권 추위",
+        "verifiedTitle": "입동 하루 앞두고 찬바람에 기온 '뚝'…내일부턴 영하권 추위",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20853",
+        "publishedAt": "2026-11-06T10:08:43+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-11-06",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:45.099385+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
+      {
+        "id": "official-20852",
+        "programId": "speaks-news",
+        "title": "'트럼프호' 탈출 러시 시작되나…유력 대권주자 루비오 사임설",
+        "verifiedTitle": "'트럼프호' 탈출 러시 시작되나…유력 대권주자 루비오 사임설",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20852",
+        "publishedAt": "2026-11-06T10:03:07+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-11-06",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:44.335164+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
+      {
+        "id": "official-20855",
+        "programId": "jongdae-radar",
+        "title": "[김종대의레이더] “민주당 파멸할 것!” 선거 참패 충격에 트럼프 정신착란 증세…백악관 폭주에 김종대가 전격 폭로한 ‘섬뜩한 광경’",
+        "verifiedTitle": "[김종대의레이더] “민주당 파멸할 것!” 선거 참패 충격에 트럼프 정신착란 증세…백악관 폭주에 김종대가 전격 폭로한 ‘섬뜩한 광경’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20855",
+        "publishedAt": "2026-11-06T14:00:46+09:00",
+        "broadcastDate": "2026-11-05",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-11-05",
+        "videoUrl": "https://www.youtube.com/watch?v=vy44md0QQUI",
+        "verifiedAt": "2026-11-07T09:17:46.719540+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/vy44md0QQUI.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=vy44md0QQUI",
+          "assetSourceUrl": "https://i.ytimg.com/vi/vy44md0QQUI/hqdefault.jpg",
+          "sha256": "0f937f99f12bfd4b437d72a978e7d373abdd91cb70e023ecfdfbca0949ec1e4b"
+        }
+      },
+      {
+        "id": "official-20854",
+        "programId": "machiavelli",
+        "title": "[마키아벨리] “이재명 대통령 탈당하라고?” 등 뒤에 칼 꽂는 자들 나온다… 박진영이 “토하고 싶다”며 전격 폭로한 ‘운동권 위선’",
+        "verifiedTitle": "[마키아벨리] “이재명 대통령 탈당하라고?” 등 뒤에 칼 꽂는 자들 나온다… 박진영이 “토하고 싶다”며 전격 폭로한 ‘운동권 위선’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20854",
+        "publishedAt": "2026-11-06T13:33:53+09:00",
+        "broadcastDate": "2026-11-05",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-11-05",
+        "videoUrl": "https://www.youtube.com/watch?v=s7rBJhNIjh0",
+        "verifiedAt": "2026-11-07T09:17:45.931315+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/s7rBJhNIjh0.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=s7rBJhNIjh0",
+          "assetSourceUrl": "https://i.ytimg.com/vi/s7rBJhNIjh0/hqdefault.jpg",
+          "sha256": "f8c3701cf761734c9344335c79f10682d7bfa3175148c391b516e06ad03c9c69"
+        }
+      },
+      {
+        "id": "official-20843",
+        "programId": "veterans",
+        "title": "[역전의용사들] “사퇴하라더니 안에서는 뜨거운 박수?” 밖에서는 유죄 맹공, 안에서는 친청계가 단상 올라가 터뜨린 의총장 ‘특급 반전’",
+        "verifiedTitle": "[역전의용사들] “사퇴하라더니 안에서는 뜨거운 박수?” 밖에서는 유죄 맹공, 안에서는 친청계가 단상 올라가 터뜨린 의총장 ‘특급 반전’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20843",
+        "publishedAt": "2026-11-05T15:42:47+09:00",
+        "broadcastDate": "2026-11-04",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-11-04",
+        "videoUrl": "https://www.youtube.com/watch?v=BE_6eMzlwrU",
+        "verifiedAt": "2026-11-07T09:17:43.513790+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/BE_6eMzlwrU.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=BE_6eMzlwrU",
+          "assetSourceUrl": "https://i.ytimg.com/vi/BE_6eMzlwrU/hqdefault.jpg",
+          "sha256": "14d6c31454bca0fea48ce51a8fa1408265b17d60365ad3b78c8394fa6dbea501"
+        }
+      },
+      {
+        "id": "official-20801",
+        "programId": "special-interview",
+        "title": "[특집인터뷰] “실패하지 않는 내란이 온다!” 진보당 대변인이 유시민 정조준해 붙여버린 ‘경악 호칭’",
+        "verifiedTitle": "[특집인터뷰] “실패하지 않는 내란이 온다!” 진보당 대변인이 유시민 정조준해 붙여버린 ‘경악 호칭’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20801",
+        "publishedAt": "2026-11-04T13:41:30+09:00",
+        "broadcastDate": "2026-11-03",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-11-03",
+        "videoUrl": "https://www.youtube.com/watch?v=HDNOmqygdbo",
+        "verifiedAt": "2026-11-07T09:17:42.732262+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/HDNOmqygdbo.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=HDNOmqygdbo",
+          "assetSourceUrl": "https://i.ytimg.com/vi/HDNOmqygdbo/hqdefault.jpg",
+          "sha256": "6e4280c110cd2bd6cd1d97a161b5139aa466b791b71c2585bf48a1d19002988f"
+        }
+      },
+      {
+        "id": "official-20787",
+        "programId": "special-interview",
+        "title": "[특집인터뷰] “일본 바다 한가운데 솟은 기괴한 원통 2개의 정체!” 136명 생매장 흔적 지우려 철거 시도한 일본 정부…‘경악할 반전’",
+        "verifiedTitle": "[특집인터뷰] “일본 바다 한가운데 솟은 기괴한 원통 2개의 정체!” 136명 생매장 흔적 지우려 철거 시도한 일본 정부…‘경악할 반전’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20787",
+        "publishedAt": "2026-11-01T16:30:25+09:00",
+        "broadcastDate": "2026-10-31",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-31",
+        "videoUrl": "https://www.youtube.com/watch?v=xxBFxmRkibM",
+        "verifiedAt": "2026-11-07T09:17:41.922500+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/xxBFxmRkibM.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=xxBFxmRkibM",
+          "assetSourceUrl": "https://i.ytimg.com/vi/xxBFxmRkibM/hqdefault.jpg",
+          "sha256": "b70a84123e9fdb0e4ba92192d408c686a780e4d4eed2c982d20b27a289a03772"
+        }
+      },
+      {
+        "id": "official-20785",
+        "programId": "speaks-news",
+        "title": "[쾌도난마한국경제] “15억 던져도 안 팔립니다…” 금리 공습에 패닉 온 강남 집주인들… 경제학자가 지목한 ‘최악의 붕괴 시점’",
+        "verifiedTitle": "[쾌도난마한국경제] “15억 던져도 안 팔립니다…” 금리 공습에 패닉 온 강남 집주인들… 경제학자가 지목한 ‘최악의 붕괴 시점’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20785",
+        "publishedAt": "2026-11-01T16:19:20+09:00",
+        "broadcastDate": "2026-10-31",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-31",
+        "videoUrl": "https://www.youtube.com/watch?v=nRUnAKD6jrM",
+        "verifiedAt": "2026-11-07T09:17:41.134912+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/nRUnAKD6jrM.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=nRUnAKD6jrM",
+          "assetSourceUrl": "https://i.ytimg.com/vi/nRUnAKD6jrM/hqdefault.jpg",
+          "sha256": "2386977ffa45748b9eca43095000db7b86c5e3a48083fbae14f0a2473e031c57"
+        }
+      },
+      {
+        "id": "official-20784",
+        "programId": "veterans",
+        "title": "[역전의용사들] “유시민 원하는 게 고작 이거였나!” 젊은 기자가 한심하다며 방송에서 까발린 ‘역대급 꼼수’",
+        "verifiedTitle": "[역전의용사들] “유시민 원하는 게 고작 이거였나!” 젊은 기자가 한심하다며 방송에서 까발린 ‘역대급 꼼수’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20784",
+        "publishedAt": "2026-11-01T16:15:52+09:00",
+        "broadcastDate": "2026-10-31",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-31",
+        "videoUrl": "https://www.youtube.com/watch?v=vB_-cfV6SHM",
+        "verifiedAt": "2026-11-07T09:17:40.298776+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/vB_-cfV6SHM.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=vB_-cfV6SHM",
+          "assetSourceUrl": "https://i.ytimg.com/vi/vB_-cfV6SHM/hqdefault.jpg",
+          "sha256": "2c971005b86a9c15575a93d76ef048d5f231afa7f4b85079be168622f6845bfc"
+        }
+      },
+      {
+        "id": "official-20783",
+        "programId": "conservative-strategy",
+        "title": "[보수의전략] “골프 치는 것 말고 또 찍힌 게 있다?” 장성철 소장이 방송에서 지목한 김혜경 여사 몰카 ‘범인의 정체’",
+        "verifiedTitle": "[보수의전략] “골프 치는 것 말고 또 찍힌 게 있다?” 장성철 소장이 방송에서 지목한 김혜경 여사 몰카 ‘범인의 정체’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20783",
+        "publishedAt": "2026-11-01T16:13:10+09:00",
+        "broadcastDate": "2026-10-31",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-31",
+        "videoUrl": "https://www.youtube.com/watch?v=obI7jxEkEQ8",
+        "verifiedAt": "2026-11-07T09:17:39.532370+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/obI7jxEkEQ8.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=obI7jxEkEQ8",
+          "assetSourceUrl": "https://i.ytimg.com/vi/obI7jxEkEQ8/hqdefault.jpg",
+          "sha256": "002a76946f6608e690bc2b8811548b073b629b7a8ca1051d9bef34f8d2b38cbf"
+        }
+      },
+      {
+        "id": "official-20782",
+        "programId": "jongdae-radar",
+        "title": "[김종대의레이더] “대만보다 한국이 먼저 불바다 된다!” 미국 극비 전쟁 지침 발칵… 기밀문서 열리자 드러난 ‘이재명 대통령 목숨 건 결단’",
+        "verifiedTitle": "[김종대의레이더] “대만보다 한국이 먼저 불바다 된다!” 미국 극비 전쟁 지침 발칵… 기밀문서 열리자 드러난 ‘이재명 대통령 목숨 건 결단’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20782",
+        "publishedAt": "2026-11-01T16:10:13+09:00",
+        "broadcastDate": "2026-10-31",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-31",
+        "videoUrl": "https://www.youtube.com/watch?v=jX-Ps-RnSKo",
+        "verifiedAt": "2026-11-07T09:17:38.696401+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/jX-Ps-RnSKo.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=jX-Ps-RnSKo",
+          "assetSourceUrl": "https://i.ytimg.com/vi/jX-Ps-RnSKo/hqdefault.jpg",
+          "sha256": "20a075ba8f738495de0bec18074aed6d0955a317d5db70a91b98b1b7717b66bc"
+        }
+      },
+      {
+        "id": "official-20781",
+        "programId": "veterans",
+        "title": "[역전의용사들] “유시민이 왜 하필 수요일에 나왔겠나!” 방송서 터진 신인규의 거침없는 단언 ‘도륙정치’의 실체",
+        "verifiedTitle": "[역전의용사들] “유시민이 왜 하필 수요일에 나왔겠나!” 방송서 터진 신인규의 거침없는 단언 ‘도륙정치’의 실체",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20781",
+        "publishedAt": "2026-11-01T16:07:22+09:00",
+        "broadcastDate": "2026-10-30",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-30",
+        "videoUrl": "https://www.youtube.com/watch?v=dpDgGQSRJpQ",
+        "verifiedAt": "2026-11-07T09:17:37.908447+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/dpDgGQSRJpQ.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=dpDgGQSRJpQ",
+          "assetSourceUrl": "https://i.ytimg.com/vi/dpDgGQSRJpQ/hqdefault.jpg",
+          "sha256": "2fb3037a8868b25b0a8a4ed3590dd7b96467324edcf7da9f9048f60207ec987d"
+        }
+      },
+      {
+        "id": "official-20764",
+        "programId": "speaks-news",
+        "title": "[이슈] 무거운 세금보다 무서운 건, 내일을 알 수 없는 세금",
+        "verifiedTitle": "[이슈] 무거운 세금보다 무서운 건, 내일을 알 수 없는 세금",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20764",
+        "publishedAt": "2026-10-30T05:00:00+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-10-30",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:29.922615+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
+      {
+        "id": "official-20780",
+        "programId": "machiavelli",
+        "title": "[마키아벨리] 윤석열까지 소환해 이재명 대통령 끌어들인 유시민의 진짜 노림수는? 박진영이 꿰뚫어 본 ‘위험한 도박’",
+        "verifiedTitle": "[마키아벨리] 윤석열까지 소환해 이재명 대통령 끌어들인 유시민의 진짜 노림수는? 박진영이 꿰뚫어 본 ‘위험한 도박’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20780",
+        "publishedAt": "2026-11-01T16:04:30+09:00",
+        "broadcastDate": "2026-10-29",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-29",
+        "videoUrl": "https://www.youtube.com/watch?v=J5L-PRltCOU",
+        "verifiedAt": "2026-11-07T09:17:37.107823+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/J5L-PRltCOU.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=J5L-PRltCOU",
+          "assetSourceUrl": "https://i.ytimg.com/vi/J5L-PRltCOU/hqdefault.jpg",
+          "sha256": "6c34ea3ef2b40ad2b638912f1de85de2f23987db9d8bfe3aa9f7658f7b516d6c"
+        }
+      },
+      {
+        "id": "official-20779",
+        "programId": "special-interview",
+        "title": "[특집인터뷰] “정치는 맞춤복 아니라더니 왜 대통령을 쏘나!” 과거 발언으로 유시민 허 찔러버린 23세 민주당 최연소 시의원의 ‘서늘한 일침’",
+        "verifiedTitle": "[특집인터뷰] “정치는 맞춤복 아니라더니 왜 대통령을 쏘나!” 과거 발언으로 유시민 허 찔러버린 23세 민주당 최연소 시의원의 ‘서늘한 일침’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20779",
+        "publishedAt": "2026-11-01T16:01:01+09:00",
+        "broadcastDate": "2026-10-29",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-29",
+        "videoUrl": "https://www.youtube.com/watch?v=GJ03ETKkP5M",
+        "verifiedAt": "2026-11-07T09:17:36.320105+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/GJ03ETKkP5M.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=GJ03ETKkP5M",
+          "assetSourceUrl": "https://i.ytimg.com/vi/GJ03ETKkP5M/hqdefault.jpg",
+          "sha256": "79ca654086100787dd677662cf05ed5af024495e27ebf67280a6b892017d4959"
+        }
+      },
+      {
+        "id": "official-20778",
+        "programId": "special-interview",
+        "title": "[특집인터뷰] “소상공인 피 빨아 대기업만 퍼주나!” 의원들 간담 서늘하게 만든 민주당 소상공인위원장 이승훈 후보의 ‘811만 결사체’",
+        "verifiedTitle": "[특집인터뷰] “소상공인 피 빨아 대기업만 퍼주나!” 의원들 간담 서늘하게 만든 민주당 소상공인위원장 이승훈 후보의 ‘811만 결사체’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20778",
+        "publishedAt": "2026-11-01T15:58:13+09:00",
+        "broadcastDate": "2026-10-29",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-29",
+        "videoUrl": "https://www.youtube.com/watch?v=F7z7oj4C0EE",
+        "verifiedAt": "2026-11-07T09:17:35.526723+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/F7z7oj4C0EE.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=F7z7oj4C0EE",
+          "assetSourceUrl": "https://i.ytimg.com/vi/F7z7oj4C0EE/hqdefault.jpg",
+          "sha256": "47bdba8ab4805ce6ef515fbfe454899350dddb9a99c758a5b670039818636525"
+        }
+      },
+      {
+        "id": "official-20777",
+        "programId": "speaks-news",
+        "title": "“유시민의 자격론은 말할 자격으로 가르는 갈라치기”",
+        "verifiedTitle": "“유시민의 자격론은 말할 자격으로 가르는 갈라치기”",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20777",
+        "publishedAt": "2026-10-29T11:07:25+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-10-29",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:34.695969+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
+      {
+        "id": "official-20776",
+        "programId": "speaks-news",
+        "title": "오늘부터 '코리아 듀티프리 페스타'…전국 면세점 최대 25% 할인",
+        "verifiedTitle": "오늘부터 '코리아 듀티프리 페스타'…전국 면세점 최대 25% 할인",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20776",
+        "publishedAt": "2026-10-29T10:57:09+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-10-29",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:33.897741+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
+      {
+        "id": "official-20775",
+        "programId": "speaks-news",
+        "title": "삼성전자 3분기 반도체 부문 영업익 106.5조",
+        "verifiedTitle": "삼성전자 3분기 반도체 부문 영업익 106.5조",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20775",
+        "publishedAt": "2026-10-29T10:54:19+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-10-29",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:33.095513+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
+      {
+        "id": "official-20774",
+        "programId": "speaks-news",
+        "title": "李대통령, 오늘 독일 총리와 정상회담…미래산업 협력 논의",
+        "verifiedTitle": "李대통령, 오늘 독일 총리와 정상회담…미래산업 협력 논의",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20774",
+        "publishedAt": "2026-10-29T10:48:42+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-10-29",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:32.295870+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
+      {
+        "id": "official-20763",
+        "programId": "speaks-news",
+        "title": "[이슈] 국회의원 배지는 장관 검증의 통행증이 아니다",
+        "verifiedTitle": "[이슈] 국회의원 배지는 장관 검증의 통행증이 아니다",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20763",
+        "publishedAt": "2026-10-29T05:00:00+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-10-29",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:29.099794+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
       {
         "id": "official-20766",
         "programId": "veterans",
@@ -1552,7 +2010,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-28",
         "videoUrl": "https://www.youtube.com/watch?v=_d4YKhY4myQ",
-        "verifiedAt": "2026-10-29T10:51:36.541614+09:00",
+        "verifiedAt": "2026-11-07T09:17:31.502104+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/_d4YKhY4myQ.jpg",
@@ -1577,7 +2035,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-28",
         "videoUrl": "https://www.youtube.com/watch?v=wa65v-_Xiko",
-        "verifiedAt": "2026-10-29T10:51:35.730198+09:00",
+        "verifiedAt": "2026-11-07T09:17:30.703402+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/wa65v-_Xiko.jpg",
@@ -1592,6 +2050,20 @@
         }
       },
       {
+        "id": "official-20742",
+        "programId": "speaks-news",
+        "title": "[이슈] 부모의 정년과 자녀의 취업을 맞바꿀 수는 없다",
+        "verifiedTitle": "[이슈] 부모의 정년과 자녀의 취업을 맞바꿀 수는 없다",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20742",
+        "publishedAt": "2026-10-28T05:00:00+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-10-28",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:25.126397+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
+      {
         "id": "official-20746",
         "programId": "special-interview",
         "title": "[특집인터뷰] “청문회 비공개 녹취 듣는 순간 피눈물이…” 이태원 참사 유가족 아버지를 오열하게 만든 ‘그 둘의 대화’",
@@ -1602,7 +2074,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-27",
         "videoUrl": "https://www.youtube.com/watch?v=c0is3ItTozw",
-        "verifiedAt": "2026-10-29T10:51:34.277482+09:00",
+        "verifiedAt": "2026-11-07T09:17:28.298173+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/c0is3ItTozw.jpg",
@@ -1627,7 +2099,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-27",
         "videoUrl": "https://www.youtube.com/watch?v=dqD_bj2AgtU",
-        "verifiedAt": "2026-10-29T10:51:33.335193+09:00",
+        "verifiedAt": "2026-11-07T09:17:27.491490+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/dqD_bj2AgtU.jpg",
@@ -1642,6 +2114,20 @@
         }
       },
       {
+        "id": "official-20733",
+        "programId": "speaks-news",
+        "title": "[이슈] 대법관 공백, 상대 탓을 해도 채울 책임은 남는다",
+        "verifiedTitle": "[이슈] 대법관 공백, 상대 탓을 해도 채울 책임은 남는다",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20733",
+        "publishedAt": "2026-10-27T05:00:00+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-10-27",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:24.313219+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
+      {
         "id": "official-20744",
         "programId": "special-interview",
         "title": "[특집인터뷰] “전북 대포폰 선거 공작 빼박 진술 터졌다!” 버스 타고 청와대 앞 총집결… ‘현장 폭발’",
@@ -1652,7 +2138,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-26",
         "videoUrl": "https://www.youtube.com/watch?v=qFeEbIZhlhk",
-        "verifiedAt": "2026-10-29T10:51:32.545768+09:00",
+        "verifiedAt": "2026-11-07T09:17:26.703825+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/qFeEbIZhlhk.jpg",
@@ -1677,7 +2163,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-26",
         "videoUrl": "https://www.youtube.com/watch?v=Xid_HkqFA8U",
-        "verifiedAt": "2026-10-29T10:51:31.745198+09:00",
+        "verifiedAt": "2026-11-07T09:17:25.925389+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/Xid_HkqFA8U.jpg",
@@ -1702,7 +2188,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-25",
         "videoUrl": "https://www.youtube.com/watch?v=v6awNopN5n4",
-        "verifiedAt": "2026-10-29T10:51:29.340360+09:00",
+        "verifiedAt": "2026-11-07T09:17:23.523185+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/v6awNopN5n4.jpg",
@@ -1727,7 +2213,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-25",
         "videoUrl": "https://www.youtube.com/watch?v=evlRPIB6tXY",
-        "verifiedAt": "2026-10-29T10:51:28.539075+09:00",
+        "verifiedAt": "2026-11-07T09:17:22.702129+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/evlRPIB6tXY.jpg",
@@ -1742,6 +2228,34 @@
         }
       },
       {
+        "id": "official-20709",
+        "programId": "speaks-news",
+        "title": "[인터뷰] 김해원, “법원조직법 개정으로 대법원장 권한 조정해야”",
+        "verifiedTitle": "[인터뷰] 김해원, “법원조직법 개정으로 대법원장 권한 조정해야”",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20709",
+        "publishedAt": "2026-10-25T13:02:50+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-10-25",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:21.900634+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
+      {
+        "id": "official-20708",
+        "programId": "speaks-news",
+        "title": "[인터뷰] 청년 965명 대면 설문…이재명 대통령 직무 평가 ‘보통’ 52%, ‘긍정’ 15%",
+        "verifiedTitle": "[인터뷰] 청년 965명 대면 설문…이재명 대통령 직무 평가 ‘보통’ 52%, ‘긍정’ 15%",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20708",
+        "publishedAt": "2026-10-25T12:57:49+09:00",
+        "broadcastDate": null,
+        "dateBasis": "published",
+        "displayDate": "2026-10-25",
+        "videoUrl": null,
+        "verifiedAt": "2026-11-07T09:17:21.144197+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함"
+      },
+      {
         "id": "official-20706",
         "programId": "jongdae-radar",
         "title": "[김종대의레이더] “트럼프에게 버림받고 미칠 지경!” 이재명 대통령에 맞서던 젤렌스키가 전달받은 ‘문건’… 굴욕의 협상",
@@ -1752,7 +2266,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-24",
         "videoUrl": "https://www.youtube.com/watch?v=mpjrkcpOQTc",
-        "verifiedAt": "2026-10-29T10:51:25.343555+09:00",
+        "verifiedAt": "2026-11-07T09:17:20.296588+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/mpjrkcpOQTc.jpg",
@@ -1777,7 +2291,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-24",
         "videoUrl": "https://www.youtube.com/watch?v=c4kfcvdSBIE",
-        "verifiedAt": "2026-10-29T10:51:24.531535+09:00",
+        "verifiedAt": "2026-11-07T09:17:19.485780+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/c4kfcvdSBIE.jpg",
@@ -1802,7 +2316,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-24",
         "videoUrl": "https://www.youtube.com/watch?v=5A1cGZiuUN0",
-        "verifiedAt": "2026-10-29T10:51:23.716536+09:00",
+        "verifiedAt": "2026-11-07T09:17:18.705321+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/5A1cGZiuUN0.jpg",
@@ -1827,7 +2341,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-24",
         "videoUrl": "https://www.youtube.com/watch?v=HwMcH4KNa94",
-        "verifiedAt": "2026-10-29T10:51:22.928635+09:00",
+        "verifiedAt": "2026-11-07T09:17:17.906840+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/HwMcH4KNa94.jpg",
@@ -1852,7 +2366,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-24",
         "videoUrl": "https://www.youtube.com/watch?v=wV5nhjl0AuI",
-        "verifiedAt": "2026-10-29T10:51:22.158166+09:00",
+        "verifiedAt": "2026-11-07T09:17:17.115730+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/wV5nhjl0AuI.jpg",
@@ -1877,7 +2391,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-24",
         "videoUrl": "https://www.youtube.com/watch?v=N0A7avU9zzs",
-        "verifiedAt": "2026-10-29T10:51:21.336286+09:00",
+        "verifiedAt": "2026-11-07T09:17:16.302235+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/N0A7avU9zzs.jpg",
@@ -1902,7 +2416,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-22",
         "videoUrl": "https://www.youtube.com/watch?v=uoZE4oI8qAY",
-        "verifiedAt": "2026-10-29T10:51:20.535835+09:00",
+        "verifiedAt": "2026-11-07T09:17:15.484217+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/uoZE4oI8qAY.jpg",
@@ -1927,7 +2441,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-21",
         "videoUrl": "https://www.youtube.com/watch?v=5vHisVyp7-g",
-        "verifiedAt": "2026-10-29T10:51:19.744741+09:00",
+        "verifiedAt": "2026-11-07T09:17:14.688509+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/5vHisVyp7-g.jpg",
@@ -1952,7 +2466,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-21",
         "videoUrl": "https://www.youtube.com/watch?v=29KVDkjJMi8",
-        "verifiedAt": "2026-10-29T10:51:18.978827+09:00",
+        "verifiedAt": "2026-11-07T09:17:13.891834+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/29KVDkjJMi8.jpg",
@@ -1977,7 +2491,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-20",
         "videoUrl": "https://www.youtube.com/watch?v=inuNJ_tcUjA",
-        "verifiedAt": "2026-10-29T10:51:18.148338+09:00",
+        "verifiedAt": "2026-11-07T09:17:13.102717+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/inuNJ_tcUjA.jpg",
@@ -2002,7 +2516,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-20",
         "videoUrl": "https://www.youtube.com/watch?v=9MBS_i4GG7k",
-        "verifiedAt": "2026-10-29T10:51:17.781203+09:00",
+        "verifiedAt": "2026-11-07T09:17:12.298150+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/9MBS_i4GG7k.jpg",
@@ -2027,7 +2541,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-20",
         "videoUrl": "https://www.youtube.com/watch?v=2_8UNZ7nfvQ",
-        "verifiedAt": "2026-10-29T10:51:16.539377+09:00",
+        "verifiedAt": "2026-11-07T09:17:11.495343+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/2_8UNZ7nfvQ.jpg",
@@ -2052,7 +2566,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-19",
         "videoUrl": "https://www.youtube.com/watch?v=mVx-PPpABLc",
-        "verifiedAt": "2026-10-29T10:51:15.753296+09:00",
+        "verifiedAt": "2026-11-07T09:17:10.693373+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/mVx-PPpABLc.jpg",
@@ -2077,7 +2591,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-19",
         "videoUrl": "https://www.youtube.com/watch?v=1qYPlYB2KsI",
-        "verifiedAt": "2026-10-29T10:51:14.932317+09:00",
+        "verifiedAt": "2026-11-07T09:17:09.887717+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/1qYPlYB2KsI.jpg",
@@ -2102,7 +2616,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-18",
         "videoUrl": "https://www.youtube.com/watch?v=ylqEQhX394M",
-        "verifiedAt": "2026-10-29T10:51:14.140189+09:00",
+        "verifiedAt": "2026-11-07T09:17:09.125227+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/ylqEQhX394M.jpg",
@@ -2117,6 +2631,31 @@
         }
       },
       {
+        "id": "official-20650",
+        "programId": "speaks-news",
+        "title": "[쾌도난마한국경제] “SBS 사위가 현대그룹을 왜?” 녹취록 속 ‘비선 의혹’이 계속해서 불거지는 결정적 이유",
+        "verifiedTitle": "[쾌도난마한국경제] “SBS 사위가 현대그룹을 왜?” 녹취록 속 ‘비선 의혹’이 계속해서 불거지는 결정적 이유",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20650",
+        "publishedAt": "2026-10-19T14:13:57+09:00",
+        "broadcastDate": "2026-10-18",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-18",
+        "videoUrl": "https://www.youtube.com/watch?v=kAn3tCOwmK8",
+        "verifiedAt": "2026-11-07T09:17:08.300734+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/kAn3tCOwmK8.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=kAn3tCOwmK8",
+          "assetSourceUrl": "https://i.ytimg.com/vi/kAn3tCOwmK8/hqdefault.jpg",
+          "sha256": "a14efa88f33bc75106b75da3a07eb2d3e3fcfda019b07e21f78b169c853195dd"
+        }
+      },
+      {
         "id": "official-20649",
         "programId": "jongdae-radar",
         "title": "[김종대의레이더] “트럼프가 머스크 통신 시스템 끊어버렸다” 한국 건드리고 선 넘던 젤렌스키에게 닥친 충격적 파멸",
@@ -2127,7 +2666,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-18",
         "videoUrl": "https://www.youtube.com/watch?v=XUEh9DyUTYo",
-        "verifiedAt": "2026-10-29T10:51:12.538860+09:00",
+        "verifiedAt": "2026-11-07T09:17:07.496673+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/XUEh9DyUTYo.jpg",
@@ -2142,6 +2681,31 @@
         }
       },
       {
+        "id": "official-20648",
+        "programId": "speaks-news",
+        "title": "[단독] “김민석 대표 가수 쫓아내고 무대 인사?” 순창군수 직접 털어놓은 당시 현장상황",
+        "verifiedTitle": "[단독] “김민석 대표 가수 쫓아내고 무대 인사?” 순창군수 직접 털어놓은 당시 현장상황",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20648",
+        "publishedAt": "2026-10-19T14:09:01+09:00",
+        "broadcastDate": "2026-10-18",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-18",
+        "videoUrl": "https://www.youtube.com/watch?v=r-rdKFy43jc",
+        "verifiedAt": "2026-11-07T09:17:06.686345+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/r-rdKFy43jc.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=r-rdKFy43jc",
+          "assetSourceUrl": "https://i.ytimg.com/vi/r-rdKFy43jc/hqdefault.jpg",
+          "sha256": "9df4131765c757024178863031bc283ed42cb8598a92c89fd42617000f4cc726"
+        }
+      },
+      {
         "id": "official-20647",
         "programId": "veterans",
         "title": "[역전의용사들] [속보]“CCTV 다 찍혔다… 이제 못 막는다” 현직 군수 4명 실명 고발에 피의자 1천 명 줄소환! 전북 발칵",
@@ -2152,7 +2716,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-17",
         "videoUrl": "https://www.youtube.com/watch?v=cUvV8VmyDBI",
-        "verifiedAt": "2026-10-29T10:51:10.958268+09:00",
+        "verifiedAt": "2026-11-07T09:17:05.899942+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/cUvV8VmyDBI.jpg",
@@ -2177,7 +2741,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-17",
         "videoUrl": "https://www.youtube.com/watch?v=Otnxqk74bBU",
-        "verifiedAt": "2026-10-29T10:51:09.326991+09:00",
+        "verifiedAt": "2026-11-07T09:17:04.292985+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/Otnxqk74bBU.jpg",
@@ -2192,6 +2756,31 @@
         }
       },
       {
+        "id": "official-20644",
+        "programId": "speaks-news",
+        "title": "[내부고발] “깡통회사 271억에 사들이더니 적자 폭망”... iM뱅크 발칵 뒤집어놓은 현직 직원 목숨 건 ‘실명 폭로’",
+        "verifiedTitle": "[내부고발] “깡통회사 271억에 사들이더니 적자 폭망”... iM뱅크 발칵 뒤집어놓은 현직 직원 목숨 건 ‘실명 폭로’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20644",
+        "publishedAt": "2026-10-19T13:55:31+09:00",
+        "broadcastDate": "2026-10-17",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-17",
+        "videoUrl": "https://www.youtube.com/watch?v=RBUlk7Hv3O4",
+        "verifiedAt": "2026-11-07T09:17:03.486652+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/RBUlk7Hv3O4.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=RBUlk7Hv3O4",
+          "assetSourceUrl": "https://i.ytimg.com/vi/RBUlk7Hv3O4/hqdefault.jpg",
+          "sha256": "d119209fdada6a82255ef152d9840dcd8a3c5c73073c4b893f632a532e59830d"
+        }
+      },
+      {
         "id": "official-20630",
         "programId": "veterans",
         "title": "[역전의용사들] “조국 말 100% 맞다” 그러더니… 돌변한 신인규가 작심하고 꺼내든 충격적 반전 카드",
@@ -2202,7 +2791,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-16",
         "videoUrl": "https://www.youtube.com/watch?v=eBrwkV-hQFo",
-        "verifiedAt": "2026-10-29T10:51:07.726632+09:00",
+        "verifiedAt": "2026-11-07T09:17:02.693616+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/eBrwkV-hQFo.jpg",
@@ -2227,7 +2816,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-15",
         "videoUrl": "https://www.youtube.com/watch?v=0VZI7Vz15DE",
-        "verifiedAt": "2026-10-29T10:51:10.147290+09:00",
+        "verifiedAt": "2026-11-07T09:17:05.084166+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/0VZI7Vz15DE.jpg",
@@ -2252,7 +2841,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-15",
         "videoUrl": "https://www.youtube.com/watch?v=zz2Cl6RucmI",
-        "verifiedAt": "2026-10-29T10:51:06.956859+09:00",
+        "verifiedAt": "2026-11-07T09:17:01.886239+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/zz2Cl6RucmI.jpg",
@@ -2277,7 +2866,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-14",
         "videoUrl": "https://www.youtube.com/watch?v=L7xu2QFR8sk",
-        "verifiedAt": "2026-10-29T10:51:06.151893+09:00",
+        "verifiedAt": "2026-11-07T09:17:01.081099+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/L7xu2QFR8sk.jpg",
@@ -2302,7 +2891,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-14",
         "videoUrl": "https://www.youtube.com/watch?v=Pp5KLGk7Qrc",
-        "verifiedAt": "2026-10-29T10:51:05.329763+09:00",
+        "verifiedAt": "2026-11-07T09:17:00.307969+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/Pp5KLGk7Qrc.jpg",
@@ -2327,7 +2916,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-14",
         "videoUrl": "https://www.youtube.com/watch?v=r_yPSzhFXM8",
-        "verifiedAt": "2026-10-29T10:51:04.528824+09:00",
+        "verifiedAt": "2026-11-07T09:16:59.493233+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/r_yPSzhFXM8.jpg",
@@ -2342,6 +2931,56 @@
         }
       },
       {
+        "id": "official-20622",
+        "programId": "speaks-news",
+        "title": "[뉴스분석] “김상욱 왜 이렇게까지 해” 질문에 “외로워서…” 시민 울린 ‘역대급 반전’",
+        "verifiedTitle": "[뉴스분석] “김상욱 왜 이렇게까지 해” 질문에 “외로워서…” 시민 울린 ‘역대급 반전’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20622",
+        "publishedAt": "2026-10-15T13:13:48+09:00",
+        "broadcastDate": "2026-10-14",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-14",
+        "videoUrl": "https://www.youtube.com/watch?v=UHwPKj5fY1U",
+        "verifiedAt": "2026-11-07T09:16:58.680069+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/UHwPKj5fY1U.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=UHwPKj5fY1U",
+          "assetSourceUrl": "https://i.ytimg.com/vi/UHwPKj5fY1U/hqdefault.jpg",
+          "sha256": "31de4512c06b405a2d4c70cc0ef2bd8b187326b118b5d9ba47fb6953f49b3de6"
+        }
+      },
+      {
+        "id": "official-20621",
+        "programId": "speaks-news",
+        "title": "[뉴스분석] “부인이 스트레스로…” 터졌다 김상욱이 KBS 국장 친 ‘결정타’",
+        "verifiedTitle": "[뉴스분석] “부인이 스트레스로…” 터졌다 김상욱이 KBS 국장 친 ‘결정타’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20621",
+        "publishedAt": "2026-10-15T13:10:28+09:00",
+        "broadcastDate": "2026-10-14",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-14",
+        "videoUrl": "https://www.youtube.com/watch?v=YwBLA6EoKO8",
+        "verifiedAt": "2026-11-07T09:16:57.888207+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/YwBLA6EoKO8.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=YwBLA6EoKO8",
+          "assetSourceUrl": "https://i.ytimg.com/vi/YwBLA6EoKO8/hqdefault.jpg",
+          "sha256": "431297f582769fbc6f041330de86b41e2f564aeb47e20ba61b35a343ee3b0638"
+        }
+      },
+      {
         "id": "official-20605",
         "programId": "special-interview",
         "title": "[특집인터뷰] “현장 뛸 경찰이 왜 내근에만 앉았나”... 경찰청 국감장 발칵 뒤집어놓은 충격의 승진 카르텔 실태",
@@ -2352,7 +2991,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-13",
         "videoUrl": "https://www.youtube.com/watch?v=x3Cqk_i-o8E",
-        "verifiedAt": "2026-10-29T10:51:02.127653+09:00",
+        "verifiedAt": "2026-11-07T09:16:57.112155+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/x3Cqk_i-o8E.jpg",
@@ -2377,7 +3016,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-13",
         "videoUrl": "https://www.youtube.com/watch?v=xEsLvBV_BKc",
-        "verifiedAt": "2026-10-29T10:51:01.327863+09:00",
+        "verifiedAt": "2026-11-07T09:16:56.280105+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/xEsLvBV_BKc.jpg",
@@ -2392,6 +3031,31 @@
         }
       },
       {
+        "id": "official-20603",
+        "programId": "speaks-news",
+        "title": "[뉴스분석] “중수청 정치인 1호 고발 터진다!”... 안진걸이 전격 폭로한 한동훈의 ‘수사 방해 수법’ 전말",
+        "verifiedTitle": "[뉴스분석] “중수청 정치인 1호 고발 터진다!”... 안진걸이 전격 폭로한 한동훈의 ‘수사 방해 수법’ 전말",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20603",
+        "publishedAt": "2026-10-14T16:56:09+09:00",
+        "broadcastDate": "2026-10-12",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-12",
+        "videoUrl": "https://www.youtube.com/watch?v=-xNVsiBVo0Q",
+        "verifiedAt": "2026-11-07T09:16:55.498796+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/-xNVsiBVo0Q.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=-xNVsiBVo0Q",
+          "assetSourceUrl": "https://i.ytimg.com/vi/-xNVsiBVo0Q/hqdefault.jpg",
+          "sha256": "93640e809d242e4b070e0a0c2c428defddd3d10fdd4cb976138a68226ed78927"
+        }
+      },
+      {
         "id": "official-20602",
         "programId": "veterans",
         "title": "[역전의용사들] “나 민주당 소속이야 왜 이래!”... 100만 뷰 터진 장성철의 ‘추미애 저격’ 전말",
@@ -2402,7 +3066,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-12",
         "videoUrl": "https://www.youtube.com/watch?v=q2PdKAzB4iE",
-        "verifiedAt": "2026-10-29T10:50:59.734067+09:00",
+        "verifiedAt": "2026-11-07T09:16:54.691736+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/q2PdKAzB4iE.jpg",
@@ -2427,7 +3091,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-11",
         "videoUrl": "https://www.youtube.com/watch?v=XNoHymBn75U",
-        "verifiedAt": "2026-10-29T10:50:52.537915+09:00",
+        "verifiedAt": "2026-11-07T09:16:47.516186+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/XNoHymBn75U.jpg",
@@ -2452,7 +3116,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-11",
         "videoUrl": "https://www.youtube.com/watch?v=hfV8Go_EYx0",
-        "verifiedAt": "2026-10-29T10:50:50.940487+09:00",
+        "verifiedAt": "2026-11-07T09:16:45.916648+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/hfV8Go_EYx0.jpg",
@@ -2477,7 +3141,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-10",
         "videoUrl": "https://www.youtube.com/watch?v=cVv5MdNXLk4",
-        "verifiedAt": "2026-10-29T10:50:54.951672+09:00",
+        "verifiedAt": "2026-11-07T09:16:49.881998+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/cVv5MdNXLk4.jpg",
@@ -2502,7 +3166,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-10",
         "videoUrl": "https://www.youtube.com/watch?v=xuWyAlkUSTQ",
-        "verifiedAt": "2026-10-29T10:50:54.134907+09:00",
+        "verifiedAt": "2026-11-07T09:16:49.109234+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/xuWyAlkUSTQ.jpg",
@@ -2527,7 +3191,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-10",
         "videoUrl": "https://www.youtube.com/watch?v=7uSDkux7v9A",
-        "verifiedAt": "2026-10-29T10:50:53.315346+09:00",
+        "verifiedAt": "2026-11-07T09:16:48.285857+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/7uSDkux7v9A.jpg",
@@ -2552,7 +3216,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-09",
         "videoUrl": "https://www.youtube.com/watch?v=kY0g0a8cfiM",
-        "verifiedAt": "2026-10-29T10:50:58.118176+09:00",
+        "verifiedAt": "2026-11-07T09:16:53.077103+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/kY0g0a8cfiM.jpg",
@@ -2577,7 +3241,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-09",
         "videoUrl": "https://www.youtube.com/watch?v=QsbkmqeblgA",
-        "verifiedAt": "2026-10-29T10:50:57.316661+09:00",
+        "verifiedAt": "2026-11-07T09:16:52.275770+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/QsbkmqeblgA.jpg",
@@ -2602,7 +3266,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-09",
         "videoUrl": "https://www.youtube.com/watch?v=PntypMPG-Fo",
-        "verifiedAt": "2026-10-29T10:50:56.544592+09:00",
+        "verifiedAt": "2026-11-07T09:16:51.494239+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/PntypMPG-Fo.jpg",
@@ -2627,7 +3291,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-09",
         "videoUrl": "https://www.youtube.com/watch?v=3BUmnulq2yI",
-        "verifiedAt": "2026-10-29T10:50:55.728038+09:00",
+        "verifiedAt": "2026-11-07T09:16:50.716340+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/3BUmnulq2yI.jpg",
@@ -2652,7 +3316,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-08",
         "videoUrl": "https://www.youtube.com/watch?v=gKQP61Mc6rc",
-        "verifiedAt": "2026-10-29T10:50:58.921976+09:00",
+        "verifiedAt": "2026-11-07T09:16:53.881839+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/gKQP61Mc6rc.jpg",
@@ -2667,6 +3331,31 @@
         }
       },
       {
+        "id": "official-20573",
+        "programId": "speaks-news",
+        "title": "[이슈] “배 5척까지 다 낸다” 15년 버틴 선박왕 4천억 완납 굴복! 체납 1위 털어버린 이재명 대통령의 ‘단 한마디’",
+        "verifiedTitle": "[이슈] “배 5척까지 다 낸다” 15년 버틴 선박왕 4천억 완납 굴복! 체납 1위 털어버린 이재명 대통령의 ‘단 한마디’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20573",
+        "publishedAt": "2026-10-13T01:53:01+09:00",
+        "broadcastDate": "2026-10-08",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-08",
+        "videoUrl": "https://www.youtube.com/watch?v=0qCUQl3hKck",
+        "verifiedAt": "2026-11-07T09:16:46.718199+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/0qCUQl3hKck.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=0qCUQl3hKck",
+          "assetSourceUrl": "https://i.ytimg.com/vi/0qCUQl3hKck/hqdefault.jpg",
+          "sha256": "a67fd275611f7f1cbb01f8dd9bf2abf20240ffaa5d92f9ff6db326453eb4331e"
+        }
+      },
+      {
         "id": "official-20571",
         "programId": "machiavelli",
         "title": "[마키아벨리] 영화 ‘암살자들’ 보고 대통령 공격? 추미애가 던진 ‘금기 단어’에 발칵!_오창익 전계완",
@@ -2677,7 +3366,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-08",
         "videoUrl": "https://www.youtube.com/watch?v=-HPna42x6_Q",
-        "verifiedAt": "2026-10-29T10:50:50.135294+09:00",
+        "verifiedAt": "2026-11-07T09:16:45.101338+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/-HPna42x6_Q.jpg",
@@ -2692,6 +3381,56 @@
         }
       },
       {
+        "id": "official-20570",
+        "programId": "speaks-news",
+        "title": "[속보] “죽여버린다” 제보자 긴급 신변보호200억 판돈 굴린 ‘선거 브로커 실체’",
+        "verifiedTitle": "[속보] “죽여버린다” 제보자 긴급 신변보호200억 판돈 굴린 ‘선거 브로커 실체’",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20570",
+        "publishedAt": "2026-10-13T01:38:59+09:00",
+        "broadcastDate": "2026-10-08",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-08",
+        "videoUrl": "https://www.youtube.com/watch?v=hdByouR6lZs",
+        "verifiedAt": "2026-11-07T09:16:44.308107+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/hdByouR6lZs.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=hdByouR6lZs",
+          "assetSourceUrl": "https://i.ytimg.com/vi/hdByouR6lZs/hqdefault.jpg",
+          "sha256": "92137cf12ef20cdc8ae42539dce530ededbfe9f75f3e4e5f37b30e5af182d7f6"
+        }
+      },
+      {
+        "id": "official-20547",
+        "programId": "speaks-news",
+        "title": "[특집토론] “정청래 보러 연단까지 직진!”… 서미화 덥석 악수에 터져 나온 정청래 의외의 반응",
+        "verifiedTitle": "[특집토론] “정청래 보러 연단까지 직진!”… 서미화 덥석 악수에 터져 나온 정청래 의외의 반응",
+        "url": "https://www.speaks.kr/news/articleView.html?idxno=20547",
+        "publishedAt": "2026-10-08T01:32:11+09:00",
+        "broadcastDate": "2026-10-07",
+        "dateBasis": "article-broadcast-date",
+        "displayDate": "2026-10-07",
+        "videoUrl": "https://www.youtube.com/watch?v=obQMKLtYlvA",
+        "verifiedAt": "2026-11-07T09:16:43.499444+09:00",
+        "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
+        "image": {
+          "url": "/images/broadcasts/obQMKLtYlvA.jpg",
+          "kind": "thumbnail",
+          "width": 480,
+          "height": 360,
+          "alt": "스픽스 원본 방송 썸네일",
+          "credit": "스픽스 @SPEAKS_TV",
+          "sourceUrl": "https://www.youtube.com/watch?v=obQMKLtYlvA",
+          "assetSourceUrl": "https://i.ytimg.com/vi/obQMKLtYlvA/hqdefault.jpg",
+          "sha256": "4430bcace126467a103e40fd69dbb472f19eca49295f72f8c40f9504ddb70e5a"
+        }
+      },
+      {
         "id": "official-20546",
         "programId": "veterans",
         "title": "[역전의용사들] “어쩌다 이 지경까지 됐습니까?”… 한동훈 피하다 딱 덜미 잡힌 김용민! 기자가 포착한 ‘결정적 순간’",
@@ -2702,7 +3441,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-07",
         "videoUrl": "https://www.youtube.com/watch?v=X6ghdH_mikw",
-        "verifiedAt": "2026-10-29T10:50:47.713746+09:00",
+        "verifiedAt": "2026-11-07T09:16:42.681303+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/X6ghdH_mikw.jpg",
@@ -2727,7 +3466,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-06",
         "videoUrl": "https://www.youtube.com/watch?v=ibIiZfaYIWw",
-        "verifiedAt": "2026-10-29T10:50:46.945969+09:00",
+        "verifiedAt": "2026-11-07T09:16:41.905276+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/ibIiZfaYIWw.jpg",
@@ -2752,7 +3491,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-05",
         "videoUrl": "https://www.youtube.com/watch?v=QS6zijJLKO0",
-        "verifiedAt": "2026-10-29T10:50:46.369358+09:00",
+        "verifiedAt": "2026-11-07T09:16:41.080123+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/QS6zijJLKO0.jpg",
@@ -2777,7 +3516,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-05",
         "videoUrl": "https://www.youtube.com/watch?v=busVwF6IJbc",
-        "verifiedAt": "2026-10-29T10:50:45.342611+09:00",
+        "verifiedAt": "2026-11-07T09:16:40.306526+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/busVwF6IJbc.jpg",
@@ -2802,7 +3541,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-04",
         "videoUrl": "https://www.youtube.com/watch?v=bkA8xOwptWw",
-        "verifiedAt": "2026-10-29T10:50:43.723898+09:00",
+        "verifiedAt": "2026-11-07T09:16:39.526400+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/bkA8xOwptWw.jpg",
@@ -2827,7 +3566,7 @@
         "dateBasis": "article-broadcast-date",
         "displayDate": "2026-10-04",
         "videoUrl": "https://www.youtube.com/watch?v=1mJBWHwukVY",
-        "verifiedAt": "2026-10-29T10:50:42.933736+09:00",
+        "verifiedAt": "2026-11-07T09:16:38.684888+09:00",
         "verification": "공식 h1 제목·입력일·본문 방송일·실제 iframe 주소 확인; 본문 재게재 안 함",
         "image": {
           "url": "/images/broadcasts/1mJBWHwukVY.jpg",
@@ -2907,6 +3646,16 @@
       "publishedAt": "2026-10-29T00:36:27.363Z",
       "revisionOf": "2026-10-26",
       "revisionSummary": "지난주 원문 19건 대조·14편 신규 집필·사진과 새 삽화·가변 면수 재조판"
+    },
+    {
+      "pages": 69,
+      "id": "2026-11-09",
+      "title": "위클리 스픽스 · 번 돈은 많은데 쓰는 법이 갈린다",
+      "status": "published",
+      "period": "2026.11.02-11.08",
+      "pdfUrl": "/editions/2026-11-09.pdf",
+      "publishedAt": "2026-11-08T23:31:45.827Z",
+      "revisionSummary": "짧은 심층기사 8편 5,000~7,000자로 보강·재작성; 원음 및 원자료 미확인 항목 출고 보류. 발행인 승인 전 미발행."
     }
   ]
 }
