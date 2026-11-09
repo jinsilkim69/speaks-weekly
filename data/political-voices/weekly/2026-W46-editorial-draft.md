@@ -79,3 +79,42 @@
 
 ---
 
+## [정치인의 말] 이재명 (대통령)
+> **"최혁진 "흔들어도 이재명 대통령 반등 막을 수 없어" #Shorts - 오마이TV - OhmyNews"**
+
+- **발언 일시**: 2026-11-09
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 최혁진 "흔들어도 이재명 대통령 반등 막을 수 없어" #Shorts
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFAzQ1dMOTNsZFlXbFdGT0s4ZjVlUDJIWG00cDdlS0NYQzFMOWVFQzRfOTRsNk9mRmUxZTRhMW9LY2JCN1BHdHBvbVYyUXd1N0RRUk1lbEdYejc1LUNOeko0em5NRVpLQmxySzZDVFR3QnE5d2NzeHlMYmNla3U2TFE?oc=5)
+
+---
+
+## [정치인의 말] 이재명 (대통령)
+> **"“도둑이 제 발 저린다!!” 이재명 대통령의 정치인 찬양·숭배 비판에 발끈한 사람들…왜? (261109 월요일 방송) 김영호 강수영 이유진 - 경향신문"**
+
+- **발언 일시**: 2026-11-09
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] “도둑이 제 발 저린다!!” 이재명 대통령의 정치인 찬양·숭배 비판에 발끈한 사람들…왜? (261109 월요일 방송) 김영호 강수영 이유진
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhS05GbWQ2UDFpX29pckMwdmhYbHZrNVRhNjV4eXB6UG9NbFBnZUh0dlh4MlJXOVBXOW5FLXlPY2x5LTQ0V2kzeWhKbU1IMnFSck9LODJBTDNqN0xzR2JlOExR?oc=5)
+
+---
+
+## [정치인의 말] 이재명 (대통령)
+> **"이재명 ‘대통령의 Y’ 30분 방송에 1,703만원…4회 제작비 6,812만원 책정 - 시사타파NEWS"**
+
+- **발언 일시**: 2026-11-09
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 이재명 ‘대통령의 Y’ 30분 방송에 1,703만원…4회 제작비 6,812만원 책정
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Vb1V5d0tzRTJKVDZ0UDhVbk5jZkNhcm4yTU04NGJSVlJEZG9LbmpjRFpYc3BVOWh6bG5GaTR1VHgwei1Bd0hZR3JhNU8zajVXNlpvN0xKTEJnMjNvM0E?oc=5)
+
+---
+
