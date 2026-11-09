@@ -1,0 +1,117 @@
+{
+  "bot": {
+    "token": "9047714103:AAGZG9y7wUs9y2gksyBcYXmNuMER83BF5no",
+    "name": "정치인 SNS 레이더",
+    "username": "jongsuk_pol_bot"
+  },
+  "subscribers": [
+    {
+      "name": "관리자(Jongsuk Kim)",
+      "chatId": "8629521591",
+      "active": true
+    }
+  ],
+  "targets": [
+    {
+      "id": "lee_jaemyung",
+      "name": "이재명",
+      "title": "더불어민주당 대표",
+      "platforms": {
+        "x": "Jaemyung_Lee",
+        "facebook": "jaemyunglee",
+        "nitter": "Jaemyung_Lee"
+      },
+      "active": true
+    },
+    {
+      "id": "han_donghoon",
+      "name": "한동훈",
+      "title": "국민의힘 대표",
+      "platforms": {
+        "facebook": "donghoon.han.official",
+        "x": "donghoon_han"
+      },
+      "active": true
+    },
+    {
+      "id": "kim_minseok",
+      "name": "김민석",
+      "title": "더불어민주당 최고위원",
+      "platforms": {
+        "facebook": "minseok.kim.official",
+        "x": "minseok_kim"
+      },
+      "active": true
+    },
+    {
+      "id": "jung_cheongrae",
+      "name": "정청래",
+      "title": "국회 법제사법위원장",
+      "platforms": {
+        "x": "jung_cheongrae",
+        "facebook": "cheongrae.jung"
+      },
+      "active": true
+    },
+    {
+      "id": "song_younggil",
+      "name": "송영길",
+      "title": "소나무당 대표",
+      "platforms": {
+        "facebook": "younggilsong",
+        "x": "younggilsong"
+      },
+      "active": true
+    },
+    {
+      "id": "lee_junseok",
+      "name": "이준석",
+      "title": "개혁신당 의원",
+      "platforms": {
+        "facebook": "junseoklee.official",
+        "x": "junseok_lee"
+      },
+      "active": true
+    },
+    {
+      "id": "cheon_haram",
+      "name": "천하람",
+      "title": "개혁신당 원내대표",
+      "platforms": {
+        "facebook": "haram.cheon",
+        "x": "cheon_haram"
+      },
+      "active": true
+    },
+    {
+      "id": "cho_kuk",
+      "name": "조국",
+      "title": "조국혁신당 대표",
+      "platforms": {
+        "facebook": "kukcho",
+        "threads": "kukcho"
+      },
+      "active": true
+    },
+    {
+      "id": "shin_jangsik",
+      "name": "신장식",
+      "title": "조국혁신당 원내대변인",
+      "platforms": {
+        "facebook": "jangsik.shin",
+        "telegram": "shinjangsik"
+      },
+      "active": true
+    },
+    {
+      "id": "donald_trump",
+      "name": "도널드 트럼프 (Donald Trump)",
+      "title": "미국 대통령 당선인",
+      "platforms": {
+        "truth_social": "realDonaldTrump",
+        "x": "realDonaldTrump"
+      },
+      "active": true
+    }
+  ]
+}

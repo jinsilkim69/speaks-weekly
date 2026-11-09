@@ -1,0 +1,38 @@
+name: Politician SNS Radar 24/7 Monitor
+
+on:
+  schedule:
+    # 10분마다 클라우드에서 자동 실행 (내 컴퓨터가 꺼져 있어도 작동)
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # 수동 즉시 실행 지원
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # state.json 저장을 위한 쓰기 권한
+
+    steps:
+      - name: 저장소 코드 가져오기
+        uses: actions/checkout@v4
+
+      - name: Node.js 20 설치
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 10대 정치인 SNS 실시간 발언 수집 & 텔레그램 발송
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || '9047714103:AAGZG9y7wUs9y2gksyBcYXmNuMER83BF5no' }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || '8629521591' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          node tools/sns-monitor/run.mjs
+
+      - name: 중복 방지 캐시(state.json) 커밋 & 동기화
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add tools/sns-monitor/state.json
+          git commit -m "chore: update politician sns radar cache [skip ci]" || echo "변경 사항 없음"
+          git push || echo "동시성 충돌 무시"
