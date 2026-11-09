@@ -40,3 +40,42 @@
 
 ---
 
+## [정치인의 말] 이재명 (대통령)
+> **"이재명 대통령 유튜브 ‘대통령의 Y’ 회당 1700만원…4편에 6812만원 - JTBC"**
+
+- **발언 일시**: 2026-11-09
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 이재명 대통령 유튜브 ‘대통령의 Y’ 회당 1700만원…4편에 6812만원
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IOF80ZWJsSjM3VnN0cmtPd0dBdVljems3Q2NucGczZjgzNFhOS2g1MDFoMmhYbGxweGhOb044QzhQUXlOZENURkUwZjY1bGNHX2p1Tw?oc=5)
+
+---
+
+## [정치인의 말] 이재명 (대통령)
+> **"제64주년 소방의 날 기념식 참석한 이재명 대통령 #shorts #오마이tv - 오마이TV - OhmyNews"**
+
+- **발언 일시**: 2026-11-09
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 제64주년 소방의 날 기념식 참석한 이재명 대통령 #shorts #오마이tv
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE1KeUZ1c2Y0YVFhSVpnM0tBYTF6T2hYczdNNkZCZXkzc1Q2V2x2VmxKdFNqNlBLWlN6ZXg5eXJZRkh2Q0oxLWJoUUpFSklZblRxdERYQlVualkzdHdfOHFqaDNWNzdpUkRZaHpyd0o3Zjl0Tkt1TWRxdlpqZHZNVzA?oc=5)
+
+---
+
+## [정치인의 말] 이재명 (대통령)
+> **"이재명 대통령 “정치인 칭찬·지지 필요하지만 종교적 찬양이나 숭배에 이르러선 안 돼” - 시사뉴스"**
+
+- **발언 일시**: 2026-11-09
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 이재명 대통령 “정치인 칭찬·지지 필요하지만 종교적 찬양이나 숭배에 이르러선 안 돼”
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2aDdaclJOTDVheTFUejdkMVl1M2YxcmYtMlVpRVF3WUpwelJGZURtTlBWRU0tNWMyRm81X3pkc3pOVm4zTEN0NTYtd2w5azRTOW92dVJPOHB2VU10REY3ZHhobw?oc=5)
+
+---
+

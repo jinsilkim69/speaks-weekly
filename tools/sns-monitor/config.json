@@ -15,11 +15,10 @@
     {
       "id": "lee_jaemyung",
       "name": "이재명",
-      "title": "더불어민주당 대표",
+      "title": "대통령",
       "platforms": {
         "x": "Jaemyung_Lee",
-        "facebook": "jaemyunglee",
-        "nitter": "Jaemyung_Lee"
+        "facebook": "jaemyunglee"
       },
       "active": true
     },
@@ -106,7 +105,7 @@
     {
       "id": "donald_trump",
       "name": "도널드 트럼프 (Donald Trump)",
-      "title": "미국 대통령 당선인",
+      "title": "미국 대통령",
       "platforms": {
         "truth_social": "realDonaldTrump",
         "x": "realDonaldTrump"

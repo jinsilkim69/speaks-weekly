@@ -1,7 +1,8 @@
 /**
  * [정치인 SNS 실시간 수집기] collector.mjs
  * 외부 패키지 설치 없이 Node.js 18+ 내장 fetch 및 XML 파서로 동작합니다.
- * 주요 정치인 10인의 SNS(페이스북, X, 트루스소셜) 발언 및 속보를 24시간 실시간 감지합니다.
+ * 주요 정치인 10인의 SNS(페이스북, X, 트루스소셜) 실시간 발언을 24시간 감지합니다.
+ * ★ 중요: 과거 기사나 회고성 기사는 완전 배제하고, 최근 24시간 이내의 최신 발언만 정밀 수집합니다.
  */
 
 import fs from 'node:fs';
@@ -27,9 +28,13 @@ function decodeEntities(str = '') {
  */
 export async function collectTargetPosts(target) {
   const posts = [];
+
+  // 구글 뉴스 실시간 시간 필터 연산자 when:1d (최근 24시간 이내 최신 글만 조회)
   const query = target.id === 'donald_trump'
-    ? 'Donald Trump (Truth Social OR post OR said)'
-    : `${target.name} (페이스북 OR 트위터 OR SNS OR "페이스북을 통해")`;
+    ? 'Donald Trump (Truth Social OR post OR tweet) when:1d'
+    : target.id === 'lee_jaemyung'
+      ? '이재명 대통령 (페이스북 OR SNS OR "페이스북을 통해" OR X) when:1d'
+      : `${target.name} (페이스북 OR 트위터 OR SNS OR "페이스북을 통해") when:1d`;
 
   const langParam = target.id === 'donald_trump' ? 'hl=en-US&gl=US&ceid=US:en' : 'hl=ko&gl=KR&ceid=KR:ko';
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&${langParam}`;
@@ -51,9 +56,10 @@ export async function collectTargetPosts(target) {
     const items = [...xml.matchAll(itemRegex)].map(m => m[1]);
 
     const now = new Date().getTime();
-    const THREE_HOURS_MS = 3 * 60 * 60 * 1000;
+    // 24시간 이내 생성된 기사만 철저히 선별 (과거 기사 완전 차단)
+    const MAX_AGE_MS = 24 * 60 * 60 * 1000;
 
-    for (const itemXml of items.slice(0, 5)) {
+    for (const itemXml of items.slice(0, 8)) {
       const titleMatch = itemXml.match(/<title>(.*?)<\/title>/);
       const linkMatch = itemXml.match(/<link>(.*?)<\/link>/);
       const pubDateMatch = itemXml.match(/<pubDate>(.*?)<\/pubDate>/);
@@ -66,13 +72,19 @@ export async function collectTargetPosts(target) {
       const desc = descMatch ? decodeEntities(descMatch[1].replace(/<[^>]+>/g, '').trim()) : '';
       const source = sourceMatch ? decodeEntities(sourceMatch[1].trim()) : '속보 언론';
 
-      if (!title || !link) continue;
+      if (!title || !link || !pubDateStr) continue;
 
       const pubDate = new Date(pubDateStr);
       const ageMs = now - pubDate.getTime();
 
-      // 최근 3시간 이내의 따끈따끈한 게시물만 선별
-      const isRecent = !isNaN(ageMs) && ageMs <= THREE_HOURS_MS;
+      // ★ 핵심 수정: 과거 기사는 엄격히 탈락!
+      if (isNaN(ageMs) || ageMs > MAX_AGE_MS || ageMs < -60000) {
+        continue;
+      }
+
+      // 회고성 옛날 기사 배제 키워드
+      const isPastMemoir = title.includes('그때 그 시절') || title.includes('되돌아본') || title.includes('10년 전');
+      if (isPastMemoir) continue;
 
       // 발언 관련 키워드 검증
       const isPoliticalStatement =
@@ -92,7 +104,7 @@ export async function collectTargetPosts(target) {
           link,
           pubDate: pubDateStr,
           source,
-          isRecent
+          ageHours: Math.round(ageMs / (60 * 60 * 1000) * 10) / 10
         });
       }
     }
@@ -110,7 +122,7 @@ export async function collectAllNewPosts(config, state) {
   const newPosts = [];
   const seenMap = state.seenPostIds || {};
 
-  console.log(`📡 [수집 시작] ${config.targets.length}명 정치인 SNS 실시간 발언 스캔 중...`);
+  console.log(`📡 [수집 시작] ${config.targets.length}명 정치인 SNS 실시간 발언 스캔 중 (최근 24시간 최신 발언)...`);
 
   for (const target of config.targets) {
     if (!target.active) continue;
@@ -140,6 +152,6 @@ export async function collectAllNewPosts(config, state) {
   }
   state.lastCheckedAt = new Date().toISOString();
 
-  console.log(`✅ [수집 완료] 신규 감지된 미확인 발언: ${newPosts.length}건`);
+  console.log(`✅ [수집 완료] 신규 감지된 24시간 내 최신 발언: ${newPosts.length}건`);
   return newPosts;
 }
