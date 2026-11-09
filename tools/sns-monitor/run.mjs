@@ -1,6 +1,6 @@
 /**
  * [정치인 SNS 레이더 메인 실행기] run.mjs
- * 1회 실행 시 전체 10인 정치인 피드 검사 -> AI 분석 -> 텔레그램 발송 -> 캐시 저장을 수행합니다.
+ * 1회 실행 시 전체 10인 정치인 피드 검사 -> AI 분석 -> 텔레그램 발송 -> 주간지 데이터 아카이빙 -> 캐시 저장을 수행합니다.
  */
 
 import fs from 'node:fs';
@@ -9,6 +9,7 @@ import { fileURLToPath } from 'node:url';
 import { collectAllNewPosts } from './collector.mjs';
 import { analyzePoliticalPost } from './analyzer.mjs';
 import { sendTelegramNotification } from './notifier.mjs';
+import { archivePoliticalPosts } from './archiver.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -57,18 +58,24 @@ async function main() {
   const targetPosts = newPosts.slice(0, 3);
   console.log(`⚡ 발송 대상 발언 ${targetPosts.length}건 분석 및 텔레그램 전송 중...`);
 
+  const analyzedList = [];
   for (const post of targetPosts) {
     console.log(`[분석 중] ${post.targetName}: ${post.title}`);
     const analyzed = await analyzePoliticalPost(post, geminiApiKey);
+    analyzedList.push(analyzed);
+
     const sentCount = await sendTelegramNotification(botToken, config.subscribers, analyzed);
     console.log(`📨 텔레그램 발송 완료 (${sentCount}명 수신)`);
     // API 연속 호출 간격 1초
     await new Promise(r => setTimeout(r, 1000));
   }
 
-  // 3. 상태 저장
+  // 3. 주간지 제작용 체계적 아카이빙 (raw JSON + daily briefing + weekly editorial draft)
+  await archivePoliticalPosts(analyzedList);
+
+  // 4. 상태 저장
   fs.writeFileSync(statePath, JSON.stringify(state, null, 2), 'utf8');
-  console.log('🎉 [사이클 완료] 모든 처리가 정상 종료되었습니다.');
+  console.log('🎉 [사이클 완료] 텔레그램 발송 및 주간지 데이터 아카이빙이 정상 종료되었습니다.');
 }
 
 main().catch(err => {

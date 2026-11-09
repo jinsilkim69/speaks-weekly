@@ -10,7 +10,7 @@ jobs:
   monitor:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # state.json 저장을 위한 쓰기 권한
+      contents: write # state.json 및 data/political-voices 저장을 위한 쓰기 권한
 
     steps:
       - name: 저장소 코드 가져오기
@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: 20
 
-      - name: 10대 정치인 SNS 실시간 발언 수집 & 텔레그램 발송
+      - name: 10대 정치인 SNS 실시간 발언 수집 & 텔레그램 발송 & 주간지 아카이빙
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || '9047714103:AAGZG9y7wUs9y2gksyBcYXmNuMER83BF5no' }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || '8629521591' }}
@@ -29,10 +29,10 @@ jobs:
         run: |
           node tools/sns-monitor/run.mjs
 
-      - name: 중복 방지 캐시(state.json) 커밋 & 동기화
+      - name: 주간지 아카이브(data/political-voices/) & 캐시 커밋 & 푸시
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add tools/sns-monitor/state.json
-          git commit -m "chore: update politician sns radar cache [skip ci]" || echo "변경 사항 없음"
+          git add tools/sns-monitor/state.json data/political-voices/
+          git commit -m "chore: archive politician sns speeches for weekly magazine [skip ci]" || echo "변경 사항 없음"
           git push || echo "동시성 충돌 무시"
