@@ -118,3 +118,42 @@
 
 ---
 
+## [정치인의 말] 한동훈 (국민의힘 대표)
+> **"한동훈 "민주당 다 덤벼 보라…내가 마이크 잡고 노래? 영상을 보라" - 뉴스1"**
+
+- **발언 일시**: 2026-11-10
+- **쟁점 맥락**: *“한동훈 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 한동훈 "민주당 다 덤벼 보라…내가 마이크 잡고 노래? 영상을 보라"
+  1. 🏛️ [소속/직함] 한동훈 국민의힘 대표의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tXzFpYkVXR0pNZVN4YUxwR1Q5WjdUZG1Id09HY2MtWEN6NnZ2cDIwVzhMQmYxdWR3ME5ROEk4Q01xZ3hXeEZLMnh2QmYySTBPN1ZlY1dxVlpHdw?oc=5)
+
+---
+
+## [정치인의 말] 김민석 (더불어민주당 최고위원)
+> **""제가 책임질테니까"…김민석 설득에 11일 만에 단식 중단한 김원이 - 노컷뉴스"**
+
+- **발언 일시**: 2026-11-10
+- **쟁점 맥락**: *“김민석 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] "제가 책임질테니까"…김민석 설득에 11일 만에 단식 중단한 김원이
+  1. 🏛️ [소속/직함] 김민석 더불어민주당 최고위원의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sTmhpX0tsX1FnZnVCeG1WbDdEckpzTnVqaTJvVExWS1VIbkYwZzg0TVg4TUZ2ZGx2M1RCSmtWTnpOZGU3WXFuWG9DYWt4YkFRMUE?oc=5)
+
+---
+
+## [정치인의 말] 김민석 (더불어민주당 최고위원)
+> **"김민석 사과에도 ‘신천지 역풍’ 일파만파…與는 ‘내전 돌입’, 野는 ‘특검 압박’ - 시사저널"**
+
+- **발언 일시**: 2026-11-10
+- **쟁점 맥락**: *“김민석 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 김민석 사과에도 ‘신천지 역풍’ 일파만파…與는 ‘내전 돌입’, 野는 ‘특검 압박’
+  1. 🏛️ [소속/직함] 김민석 더불어민주당 최고위원의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mcXdVZnR1LUhzM2tQOWVWaFBqTDJaYUN6STBPM00tbV90cjhQbFJrQ1RPWmhfdVQ5eTBUdThOb3l0aWZGekhRdHVkcU8xMHZySTlMQUxWcEM0RVhvTkQxNjItZ09XeGg2aVZMT3dDWdIBc0FVX3lxTE14S044NjVXaTVEYTVlV0FJbzZkUm9sQU1WVVpQdklrT2NJNVFTOE1JbDliT1U4M1Y5blAwM01WRU9ISUhhUVBvR3Q3Y1ZnVWV6R1VENnFNcER1dEEyc2cxdnNXVVBaR0N0LWFWZjJmSlNuemM?oc=5)
+
+---
+
