@@ -157,3 +157,42 @@
 
 ---
 
+## [정치인의 말] 이재명 (대통령)
+> **"트럼프의 참패가 이재명 정권에 던지는 경고 : 권력의 사유화, 끝은 심판이다. - 한국NGO신문"**
+
+- **발언 일시**: 2026-11-10
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 트럼프의 참패가 이재명 정권에 던지는 경고 : 권력의 사유화, 끝은 심판이다.
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNQTJMZE02bXFfb3JMdWZSZ19LeFJ1YzZCd3U5b1VWdVpaSVNGNDFCUXdhNUdpX042NExIX01mSUhRNGdCWGptanhQSWgtQ2tBeV9ET3hWVjh3MjhPdHNwSXM3elg4WjVw?oc=5)
+
+---
+
+## [정치인의 말] 조국 (조국혁신당 대표)
+> **"조국 “종부세 감세보다 공공임대…육사·태릉에 최고급 주택 3만가구 짓자” - 매일경제"**
+
+- **발언 일시**: 2026-11-10
+- **쟁점 맥락**: *“조국 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 조국 “종부세 감세보다 공공임대…육사·태릉에 최고급 주택 3만가구 짓자”
+  1. 🏛️ [소속/직함] 조국 조국혁신당 대표의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9feVEzdHlfaFBjWElNWnlZbS1aOGR3NFdzVEdCdnFZUjhoZ0Jjd0ZRWUs1UnRua09WbXk4a3lkQnQ5RDBWelE?oc=5)
+
+---
+
+## [정치인의 말] 도널드 트럼프 (Donald Trump) (미국 대통령)
+> **"Trump Media swings to quarterly profit; Truth API boosts revenue - Reuters"**
+
+- **발언 일시**: 2026-11-10
+- **쟁점 맥락**: *“도널드 트럼프 (Donald Trump) 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] Trump Media swings to quarterly profit; Truth API boosts revenue
+  1. 🏛️ [소속/직함] 도널드 트럼프 (Donald Trump) 미국 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMingFBVV95cUxQLW8wVzFqUF92NDVlYl8tVUZMYWFDYkUwaWFESmYwaTlIVkFqNUNFcTdLdnZKZFUzVkJEdGREMC01Qjl6TDJmN1BqN3FXbWN0NWxOd2loaDVOWjBEVHpUNVpQaFJ6al9vZ2FiNHNONUtsQ2w0QU1lc28yNjY3c1FTcDdRbVZVUjJiU3Y2cXZoZG94eFlQZXNDdWtCRmxXZw?oc=5)
+
+---
+
