@@ -196,3 +196,42 @@
 
 ---
 
+## [정치인의 말] 이재명 (대통령)
+> **"이재명 대통령 감동 행보 SNS 강타..위기의 팀김어준 열폭중..이상호의 뉴스비평 2026년 11월 10일 1,530회 [ft. 강수영, 강미정, 민웅기, 김지형] - 고발뉴스닷컴"**
+
+- **발언 일시**: 2026-11-10
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 이재명 대통령 감동 행보 SNS 강타..위기의 팀김어준 열폭중..이상호의 뉴스비평 2026년 11월 10일 1,530회
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFAxM3NMNGhPS1pvQzE5M0FSTTZ2OWtNWkdFUkxrNEY2Unp6Mjg0Y3o2Q2hKWDFWUHktRURYbWt4RWlad0twaDV5R1Q0eVN3LVptMGJrVkhQZFNaUldraXVtWi1DQ2FldGVqaktCOQ?oc=5)
+
+---
+
+## [정치인의 말] 이재명 (대통령)
+> **"이재명 대통령과 부딪힌 소방청 캐릭터에 "의인될뻔"…자막 선 넘었나? - 매일신문"**
+
+- **발언 일시**: 2026-11-10
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 이재명 대통령과 부딪힌 소방청 캐릭터에 "의인될뻔"…자막 선 넘었나?
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE85NU9iTm1VLVJJVTJRTHRaLU9vbHZsLUlhSHZKUlBlY25iaFRzd1FnVjdtdjk0Y0V0Y25xemFUSzdUcU5uZ0s0MnpHV214TG9YYkFOYkZiSTRkODFaRk5va0Fn?oc=5)
+
+---
+
+## [정치인의 말] 이재명 (대통령)
+> **"[이재명과 부동산] "부정청약 걸리면 당첨취소는 물론 막대한 재산손실 각오해야"[전문] - 데일리브리프"**
+
+- **발언 일시**: 2026-11-10
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] "부정청약 걸리면 당첨취소는 물론 막대한 재산손실 각오해야"
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qbVBidXdFMkdOS2kxWXBFQWRsVWl1VmhXX3d4Z3NiZEFfX0Y5MTZnQzg2QUQ5T0RyUnh3Tk5YQ0loUXRYWVhnTnpmMm5YWHJvWWxBeE9XUC03WWxTNjFEUGZ5YjltQWdFcHZBNnlR?oc=5)
+
+---
+
