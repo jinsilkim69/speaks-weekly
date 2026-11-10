@@ -274,3 +274,42 @@
 
 ---
 
+## [정치인의 말] 김민석 (더불어민주당 최고위원)
+> **"與, 전남광주 최고위…김민석, 軍공항 이전 등 현안 청취 - 연합뉴스"**
+
+- **발언 일시**: 2026-11-10
+- **쟁점 맥락**: *“김민석 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 與, 전남광주 최고위…김민석, 軍공항 이전 등 현안 청취
+  1. 🏛️ [소속/직함] 김민석 더불어민주당 최고위원의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZaGlIVlFxZHNKQkZ3akxyaHVrUlFJUkpoWWxCNzdGckZncDJhZmlLNk5VQWw3cThnS3ljRHRSd05Bb3MxWjJtMUJ0Mmc2NWFEdnZ2TEFwamp6Y0lDZGFjZ9IBYEFVX3lxTE5ZaGlIVlFxZHNKQkZ3akxyaHVrUlFJUkpoWWxCNzdGckZncDJhZmlLNk5VQWw3cThnS3ljRHRSd05Bb3MxWjJtMUJ0Mmc2NWFEdnZ2TEFwamp6Y0lDZGFjZw?oc=5)
+
+---
+
+## [정치인의 말] 김민석 (더불어민주당 최고위원)
+> **"李, 11일 김민석·한병도와 만찬…부동산 등 현안 논의 - 조선일보"**
+
+- **발언 일시**: 2026-11-10
+- **쟁점 맥락**: *“김민석 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 李, 11일 김민석·한병도와 만찬…부동산 등 현안 논의
+  1. 🏛️ [소속/직함] 김민석 더불어민주당 최고위원의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDhtY2RESmV4dGhkcy1UYk5UUFNlUmxjWUI2LVBOZnF5T1pyVkVORkxmcmtvZGk0dXgyUWpMNDVzRTI3c3pjOUJJWnhWTzM0TkJNdmxpU2Y2UGNKckxkYjBralpPZVlRaHRvSkVVeG5uRmlLSHQtd2N5czJ3OFhVU1FIV3owVkFzdm5EMzctNHA?oc=5)
+
+---
+
+## [정치인의 말] 김민석 (더불어민주당 최고위원)
+> **"친청계→김민석 전부공개하고 결자해지해야 - www.newszoom.kr"**
+
+- **발언 일시**: 2026-11-10
+- **쟁점 맥락**: *“김민석 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 친청계→김민석 전부공개하고 결자해지해야
+  1. 🏛️ [소속/직함] 김민석 더불어민주당 최고위원의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiREFVX3lxTE0xMFJJWi1LUjBiMEVTbjlNYW5COXpQY21rdDZzRm0zVnc1eWU4X1pGY21ma2czMkxPdjl6UTRhekxpd1Yy?oc=5)
+
+---
+
