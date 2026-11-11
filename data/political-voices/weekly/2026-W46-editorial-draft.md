@@ -352,3 +352,42 @@
 
 ---
 
+## [정치인의 말] 이재명 (대통령)
+> **"이재명 대통령 “농업은 국가 전략산업”…CPTPP·농지 개혁, 인천·경기 농가 촉각 - 인천일보"**
+
+- **발언 일시**: 2026-11-11
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 이재명 대통령 “농업은 국가 전략산업”…CPTPP·농지 개혁, 인천·경기 농가 촉각
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QZHFEWWZNVHlpVTFkTVBGZkZ3a3piSEVqZW9FRHVhRVB1M1BiMzVrSVZReENYM29kUGVzbVY5M0pZbWhOYlJuaUVKX3ZGLVVxSVZJaGtVZDh4dWQ2N01lTkIyb0tPUXZoeDBLcDBtbzY?oc=5)
+
+---
+
+## [정치인의 말] 이재명 (대통령)
+> **"국민 1006명에게 '이재명 대통령 유튜브 방송 어떻게 생각하는지' 물은 결과 - 위키트리"**
+
+- **발언 일시**: 2026-11-11
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 국민 1006명에게 '이재명 대통령 유튜브 방송 어떻게 생각하는지' 물은 결과
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1OGV6V1hFRFBDZVBsTXY4bWwxaGt6ZldsYzZ4eXd3dDl0NjczZno0MkF6bWR1bTNUUmxub3dxUUllS3VqQkd5eVF5TTVxaWtiVndMR2Vn?oc=5)
+
+---
+
+## [정치인의 말] 한동훈 (국민의힘 대표)
+> **"국힘 윤리위원 ‘조작징계’ 공식사과…한동훈 “정치적 숙청 실체 드러나” - 중앙일보"**
+
+- **발언 일시**: 2026-11-11
+- **쟁점 맥락**: *“한동훈 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 국힘 윤리위원 ‘조작징계’ 공식사과…한동훈 “정치적 숙청 실체 드러나”
+  1. 🏛️ [소속/직함] 한동훈 국민의힘 대표의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tbHB4UW1hTEFMcW1zdFdNYnMtdURtVkFhQlJiZDJwbGI4RnAwdTQyQ3lZTHVfOVo1QWxkNmh6NGFhTUxIODRhNktkQWJVNmJmV0xwdzBB?oc=5)
+
+---
+
