@@ -430,3 +430,42 @@
 
 ---
 
+## [정치인의 말] 한동훈 (국민의힘 대표)
+> **"오세훈 `한동훈 국민의힘 복당, 총선 승리에 반드시 필요`…전대 전 `비대위 전환` 선택지 언급 - 매일신문"**
+
+- **발언 일시**: 2026-11-11
+- **쟁점 맥락**: *“한동훈 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 오세훈 `한동훈 국민의힘 복당, 총선 승리에 반드시 필요`…전대 전 `비대위 전환` 선택지 언급
+  1. 🏛️ [소속/직함] 한동훈 국민의힘 대표의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4QnVZTGt6Q3RMVEdyWkY1ajBrNGVBcXhxdTFiVkUtSDBaUWNBbU5yQ2tXemF3WFZVNXlQVmNkSWFMT0JvNW80VlY4TnZyVEE4ZUVBMkROVTU5OW5scUxEQUJB?oc=5)
+
+---
+
+## [정치인의 말] 한동훈 (국민의힘 대표)
+> **"코스피 5000붕괴가 李대통령 책임이라는 한동훈의 가당찮은 생떼 - 국민뉴스"**
+
+- **발언 일시**: 2026-11-11
+- **쟁점 맥락**: *“한동훈 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 코스피 5000붕괴가 李대통령 책임이라는 한동훈의 가당찮은 생떼
+  1. 🏛️ [소속/직함] 한동훈 국민의힘 대표의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9BZGZaUG9nNWFacEVpOEtHLTYtS3lESW92STZacWhaZHUzUEhzS3lKTTVzX19iQ0VWdndqblplNzlxcjd2VXUtdVln?oc=5)
+
+---
+
+## [정치인의 말] 한동훈 (국민의힘 대표)
+> **"조갑제 "한동훈 복당 안 시키면 국민들이 국힘 제명할 것" - 이데일리"**
+
+- **발언 일시**: 2026-11-11
+- **쟁점 맥락**: *“한동훈 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 조갑제 "한동훈 복당 안 시키면 국민들이 국힘 제명할 것"
+  1. 🏛️ [소속/직함] 한동훈 국민의힘 대표의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSkxxdENWTXlqaUV2LUVmeHgzZlRxTmVPdzVhZXdmTGNab3NmWjdYRzBrOXZ4bkdjdVBQdG14c2IwbVQtd2l2UzBmRVkyUHROd01sLWZQNDZyNENySkE2aHcyOGd2M0tWYlZZeTR5dWIxdzNud0JlTEM1ME5WTmpKWg?oc=5)
+
+---
+
