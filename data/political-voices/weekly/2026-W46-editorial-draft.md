@@ -391,3 +391,42 @@
 
 ---
 
+## [정치인의 말] 이재명 (대통령)
+> **"이재명 대통령 진심에 청년들 반응..민주당 SNS 소통 대변신~ - 고발뉴스닷컴"**
+
+- **발언 일시**: 2026-11-11
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 이재명 대통령 진심에 청년들 반응..민주당 SNS 소통 대변신~
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE83UkFTVTgxZmxsSmRkV3BsQ2FzWGJadUlsc2RHVHVtNzB6SDgxZjRRQ0JpUmtzdTdLZm9pME83dlE2YlBQd041RTBvdTFOcHNQVlVFY1pRQ0lvellSXzYtWk1xOWQyb09QWmlqSg?oc=5)
+
+---
+
+## [정치인의 말] 이재명 (대통령)
+> **"[심층분석]이재명 대통령 국정 지지율 37.0%...'조작 수사·기소 특검법' 찬성 37.3%...조희대 대법원장 대응, '탄핵·국정조사 모두 불필요' 38.1% - 창업일보"**
+
+- **발언 일시**: 2026-11-11
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 이재명 대통령 국정 지지율 37.0%...'조작 수사·기소 특검법' 찬성 37.3%...조희대 대법원장 대응, '탄핵·국정조사 모두 불필요' 38.1%
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GVUh4cUtoQzB3QnQtX3I2UlJBODBLX0s5Um1kemNEcFZvV0hJT25CenJabEhMbk1maWxTMTNSQzctUmJXZTB1WFU0QVpnajBscExEb25uT05Nd3F3Um45b2JvdVBCcTZu?oc=5)
+
+---
+
+## [정치인의 말] 한동훈 (국민의힘 대표)
+> **"한동훈 “정치숙청 확인” VS 장동혁 “법적대응 해봐라” - 주간경향"**
+
+- **발언 일시**: 2026-11-11
+- **쟁점 맥락**: *“한동훈 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 한동훈 “정치숙청 확인” VS 장동혁 “법적대응 해봐라”
+  1. 🏛️ [소속/직함] 한동훈 국민의힘 대표의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lc2gybVdiZDVxQmtfOU5Ya2hkWXRLd1lwdENQTFIxTTk2bTc2VGhFRE1XbmQ1ejJlS01MUmlGOVgtb29FLWZPUE9BRjhuWmVyNWtGNUhsYWNkU0dkNXc?oc=5)
+
+---
+
