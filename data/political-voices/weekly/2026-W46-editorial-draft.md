@@ -313,3 +313,42 @@
 
 ---
 
+## [정치인의 말] 한동훈 (국민의힘 대표)
+> **"“한동훈 의원 한춤 하시네” VS “상태 걱정되는 분, 민주 대변인” - 주간경향"**
+
+- **발언 일시**: 2026-11-11
+- **쟁점 맥락**: *“한동훈 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] “한동훈 의원 한춤 하시네” VS “상태 걱정되는 분, 민주 대변인”
+  1. 🏛️ [소속/직함] 한동훈 국민의힘 대표의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SHlob01EMTYxYThRZ1A3blU3dUpVTURqVHdFSWpSek84T05tTjJLYXZDZGJuZWdsTG5LN3FWYVhxS0g3Zk1KUmxfV2JYSEI4VHJBcEkwSmdzNEotLWc?oc=5)
+
+---
+
+## [정치인의 말] 한동훈 (국민의힘 대표)
+> **"조계원 "한동훈 한 춤 하시네"vs 한동훈 "상태가 좀 걱정되는 분"(영상) - 뉴시스"**
+
+- **발언 일시**: 2026-11-11
+- **쟁점 맥락**: *“한동훈 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 조계원 "한동훈 한 춤 하시네"vs 한동훈 "상태가 좀 걱정되는 분"(영상)
+  1. 🏛️ [소속/직함] 한동훈 국민의힘 대표의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE40S0tXSXFhQUJidU43WXlvU0FDQjFhMHhBLW5FRzNLYVlDRXNFa0tGMGdsUWRPTkZ3elRETERpY2p6X2VOWW1MbmhxdkxvT0c5elVCSVNqT29YQmJTQkdJM9IBeEFVX3lxTE5YOENNQ3gtb0o4UjB5MzVXZjlqWnZIcHY1Y3dlTWxKV3p6WDFwUkdpR1YxdGMtM2RURXRZNzdoenFjcXp0TDE2ZkMxRWp6cUt5TlhRcXVidVhINnZjbmNxak81UEFKb3lrNFRFZ1FKWkVWZUl4akhTVw?oc=5)
+
+---
+
+## [정치인의 말] 한동훈 (국민의힘 대표)
+> **"'청담동 의혹' 조계원 "한동훈 한 춤 하시네" vs 韓 "趙 상태 걱정돼" - 뉴스1"**
+
+- **발언 일시**: 2026-11-11
+- **쟁점 맥락**: *“한동훈 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] '청담동 의혹' 조계원 "한동훈 한 춤 하시네" vs 韓 "趙 상태 걱정돼"
+  1. 🏛️ [소속/직함] 한동훈 국민의힘 대표의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Zb3VKdTV5eHk1QTczT1Zla3BZcVFGblloT29zaWVSYjBtZWtVLUlBclIwcFI0V3JVWWlCdGRKbk5Ib0VkQVRLdGU3SXJDX190bUllei1rajNzdw?oc=5)
+
+---
+
