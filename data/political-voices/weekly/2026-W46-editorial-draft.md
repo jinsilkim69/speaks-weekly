@@ -1795,3 +1795,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan - WSMH
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMizwFBVV95cUxOUFVzUnhJZXBfWmZLOGdQNUVpRjNBYXZWRVZTYW9RUW5WRGVBanotY2FfS0txM05XcjB5em1TV3VGb3ltTjgzOFFxSEU0bk1WbkEwdUlaUU82LTBfLVdWZ2FfYWhjdG1TM3NBLWYzeWpIT29JVjdoYVB4d09aOW1YcmlDT1k0b0c3bzlyTGNzYTNGX05zS1dmb1dJS2VuXzlWY1ZCaTZZZ19IeU5IRllKMldLdS1XVFhJMFJRMFFrSW5RUVdxRVNjZlhacHBZOVE?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Says 'Only One Man' Can Replace Jensen Huang - Business Insider
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Says 'Only One Man' Can Replace Jensen Huang
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1JKVkg3eTBZMFRfdWRvbTFfZl9EdmE5T0lGUWVqa21yd1Y0ZnZDaUF0VDVrZFNUVlE0dXpCWjE0V3dDOE5PTTJNeC1pbjBRN0U0cXVMTFJpVUFtOGlRNFMzOTVaNjl5bWtNWXlKOHZJWDRteVNZTUNZYUREZ3BDMk5WZ0dMZWJta1hqWTJvZWdHdDFNU1pz?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5)
+
+---
+
