@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T19:01:19.132Z",
+  "lastCheckedAt": "2026-11-12T19:11:15.997Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2325,57 +2325,24 @@
       "seenAt": "2026-11-12T19:01:21.572Z",
       "title": "Trump says Apple’s Tim Cook should take over Nvidia - The Washington Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "cc55da576be03b9a8f98c7439641c5e0d0109e1d5bef5b79c4b8bb1e9dc75698": {
+      "seenAt": "2026-11-12T19:11:17.090Z",
+      "title": "‘조작징계 의혹’ 폭로에…‘한동훈 복당’ 놓고 국힘 사분오열 - 한겨레",
+      "targetName": "한동훈"
+    },
+    "c4ffbdf46b585f7a1d7e7c0fa4fd161e06ccd3908b3233e5289cbe494b32ee3d": {
+      "seenAt": "2026-11-12T19:11:17.723Z",
+      "title": "Trump: ‘Huge CARAVANS are … beginning illegal march through Mexico’ - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "eae728d73fd9bc31a43e5eb0e48634793059fff401b27d66ee70fbeede9e9194": {
+      "seenAt": "2026-11-12T19:11:18.345Z",
+      "title": "Trump pulls Vance off Iran - Politico",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "cc55da576be03b9a8f98c7439641c5e0d0109e1d5bef5b79c4b8bb1e9dc75698",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "‘조작징계 의혹’ 폭로에…‘한동훈 복당’ 놓고 국힘 사분오열 - 한겨레",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1PWVF6QkNDeU5pWTkzdjNNQ1RIMzVMMDhJQTJvX0JUMjdHcXpXLTVsNlRUb2l3c3d3OVQ0dE5XUW1xSmtCVkh0cEdXRzZJMS13ZUNFMWtNWHpNZTBlNFRiM1BHWi1tVEx2Wmc?oc=5\" target=\"_blank\">‘조작징계 의혹’ 폭로에…‘한동훈 복당’ 놓고 국힘 사분오열</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PWVF6QkNDeU5pWTkzdjNNQ1RIMzVMMDhJQTJvX0JUMjdHcXpXLTVsNlRUb2l3c3d3OVQ0dE5XUW1xSmtCVkh0cEdXRzZJMS13ZUNFMWtNWHpNZTBlNFRiM1BHWi1tVEx2Wmc?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 13:45:00 GMT",
-        "source": "한겨레",
-        "ageHours": 2.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c4ffbdf46b585f7a1d7e7c0fa4fd161e06ccd3908b3233e5289cbe494b32ee3d",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump: ‘Huge CARAVANS are … beginning illegal march through Mexico’ - The Hill",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcThNWG5RakRQNHBpaHhnSTNPLTkyZFotVy1jMkJhNDM4NVdmYVMtMm44U1RrbTBiRkk0RWhOdVNhdnd6em1BS201YXJvbmxZTVNBTlkteWRrR1BWSUZqTjdIcndWX1BpNWNsRzhjVHczeDl5RFZCTXYyYWdQVGYtT0tVYS13MThfMENIODF1QjVUODY2aEQ3QUNUdmVIZDRmY3cwaGx30gGrAUFVX3lxTE9Nb2Q2SjdCOUJnVmpoeGQ2S3NWakp3b0J6VmxzMGVDay1mOVJTSnRCSDNnQjBUX0V3eUZyakZwalQ5Mmp2QWpSTnFOT0FIMU9ZbDNPOWtaWGZwcGxPMkt4Mk9fLTJna2M4Rm9HVEdyY1pkYkhlX1c1RTJ3MmZXZnY4QmllWFN2TmVqQmVsOHVmS3RxeDIweDUxM3lOWlBTTTFiMVozVWtXblM1Zw?oc=5\" target=\"_blank\">Trump: ‘Huge CARAVANS are … beginning illegal march through Mexico’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcThNWG5RakRQNHBpaHhnSTNPLTkyZFotVy1jMkJhNDM4NVdmYVMtMm44U1RrbTBiRkk0RWhOdVNhdnd6em1BS201YXJvbmxZTVNBTlkteWRrR1BWSUZqTjdIcndWX1BpNWNsRzhjVHczeDl5RFZCTXYyYWdQVGYtT0tVYS13MThfMENIODF1QjVUODY2aEQ3QUNUdmVIZDRmY3cwaGx30gGrAUFVX3lxTE9Nb2Q2SjdCOUJnVmpoeGQ2S3NWakp3b0J6VmxzMGVDay1mOVJTSnRCSDNnQjBUX0V3eUZyakZwalQ5Mmp2QWpSTnFOT0FIMU9ZbDNPOWtaWGZwcGxPMkt4Mk9fLTJna2M4Rm9HVEdyY1pkYkhlX1c1RTJ3MmZXZnY4QmllWFN2TmVqQmVsOHVmS3RxeDIweDUxM3lOWlBTTTFiMVozVWtXblM1Zw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 15:38:00 GMT",
-        "source": "The Hill",
-        "ageHours": 1.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "eae728d73fd9bc31a43e5eb0e48634793059fff401b27d66ee70fbeede9e9194",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump pulls Vance off Iran - Politico",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA4czhrTDFUUEFqZEpnSlBqckpLblhla05UcUVTRU5adzJGR3dXbWJQb3ZTMmtfb2F6eEhfRUJ4NU9qSTczTW9md0ZzSmVLa3VhWTA5LVRJME9MQmVPOXpZTlVZZExqcnRvUzRudkZMYWhXd2syNFZnVg?oc=5\" target=\"_blank\">Trump pulls Vance off Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4czhrTDFUUEFqZEpnSlBqckpLblhla05UcUVTRU5adzJGR3dXbWJQb3ZTMmtfb2F6eEhfRUJ4NU9qSTczTW9md0ZzSmVLa3VhWTA5LVRJME9MQmVPOXpZTlVZZExqcnRvUzRudkZMYWhXd2syNFZnVg?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 16:10:00 GMT",
-        "source": "Politico",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "517b1aba864f312949a7f630d54028979da9cb9e6a4a00b7ce8f79fa506d1546",
