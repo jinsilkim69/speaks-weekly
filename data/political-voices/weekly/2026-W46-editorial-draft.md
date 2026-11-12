@@ -1522,3 +1522,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump’s morning meltdown includes reminders he pays his taxes and false claims about presidential salary - The Independent
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump’s morning meltdown includes reminders he pays his taxes and false claims about presidential salary
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3JIeDBUX3hKNUhPdHRlWXdieGJ3NjF3U1RuRWU2MFU5cUZHaGZwSHJQLUhqQ0pYRnZfX1lBM19CaFdJMFY1U1pySnQ3X1ltU1k1dkI4bzZ3S2xxOVhVemY0cjFubHFYY2lBMmozN3Zid29qd0c0blB3Qm0xSkhGYWNQdWpSVi0zdnBnQXZ2SDJPSEktODJjcElTQ2wxV0dZNVNjS29VNWd1YzBnVXpVd2FSR1pzNTA?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump recognizes Veterans Day. He once suggested a name change - USA Today
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump recognizes Veterans Day. He once suggested a name change
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmlnSEFmaGN2dHljUFcxSm5pMkZCSW82NldGRVpYckgzck01X2VJSFZHU0Y0OHFyekQ5OGFOcWNaNGJPYUtwV2lINUJIcGoyTk5IdzVFRlJWb3dtakwzRklkV3Q5b0tHSk12ZzZPQzVzaEpGX2pBeDYxMGhOd3R1YXIzQ1pEUUl3WEdjOHhxZjhtRUNfaXYtcC1PY09JS1dHX3dnYkVyLWVOQQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** US President Donald Trump: “We don’t need a deal with Iran” – Truth Social - FXStreet
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] US President Donald Trump: “We don’t need a deal with Iran” – Truth Social
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVNhS2t3dllMeTY0MzFEQTMzNllDelJoanFiVF9oSmRNVEw0NXZsSngyZUVPbjU4WXBRa2s2NnhSWHJyYW9Xd1NaOXdkYTRKcDlGejhtdGVzYzQ5V1dHWU85OHFVT0EzbUdtaFh4bi01ZVMxZUduU1g0am0wNC0zV2E1dm01RWxlN1F0aFQybUlLaG85djFmRnRKLWRRTnJUN3hUVE9aNzBaejB2UnJjdQ?oc=5)
+
+---
+
