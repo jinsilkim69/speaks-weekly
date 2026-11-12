@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T14:21:16.810Z",
+  "lastCheckedAt": "2026-11-12T14:31:18.859Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -1905,57 +1905,24 @@
       "seenAt": "2026-11-12T14:21:19.258Z",
       "title": "김민석 '진료 프리패스' 논란 일자…與 \"예약 시간 맞춰 방문한 것\" - 파이낸셜뉴스",
       "targetName": "김민석"
+    },
+    "d57a8e57eadb0d0a52a7494766665f6cb9323a8e7d0ea89d3ee6a11fe17c1cde": {
+      "seenAt": "2026-11-12T14:31:20.038Z",
+      "title": "정청래, 김민석 대화 제안에 “자기 장사하나…사과부터 제대로” - 경기일보",
+      "targetName": "정청래"
+    },
+    "9aff0147d10f1fc316375072de7e8a766e3bde49e52ef6634df746719fad9bbc": {
+      "seenAt": "2026-11-12T14:31:20.780Z",
+      "title": "김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\" - 연합뉴스TV",
+      "targetName": "정청래"
+    },
+    "66fb2ef0264540a8eeb05b97d919350c5d63a467c76dc4eeb69db9675b7dbb6b": {
+      "seenAt": "2026-11-12T14:31:21.486Z",
+      "title": "정청래 SNS에 대인배 박지원옹 반응 #shorts #오마이tv - 오마이TV - OhmyNews",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "d57a8e57eadb0d0a52a7494766665f6cb9323a8e7d0ea89d3ee6a11fe17c1cde",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 김민석 대화 제안에 “자기 장사하나…사과부터 제대로” - 경기일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzYm9hbDNCRm02dnQ4N1g2cGkzWlVMU1hNUFdkOW0tV0FxZm1NaFc5NUZWVkZmOG1lRUoybEVTcDB6UkJHTlItbHdJY294X1A2MzN6MFBlTkQyZHc?oc=5\" target=\"_blank\">정청래, 김민석 대화 제안에 “자기 장사하나…사과부터 제대로”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzYm9hbDNCRm02dnQ4N1g2cGkzWlVMU1hNUFdkOW0tV0FxZm1NaFc5NUZWVkZmOG1lRUoybEVTcDB6UkJHTlItbHdJY294X1A2MzN6MFBlTkQyZHc?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 05:36:19 GMT",
-        "source": "경기일보",
-        "ageHours": 6.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "9aff0147d10f1fc316375072de7e8a766e3bde49e52ef6634df746719fad9bbc",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\" - 연합뉴스TV",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fYURNcVBOX2tsQXctdmxyY2E2UTFGaUktZVc4LW9GNS1RQldsY1phODMwN3ZhYXFRZjFwQUJxMVZ3dnpDUC1qX18wN1kyQlM1TW9faEwwODkyNVpDbDJKTVNlSmUtTUk?oc=5\" target=\"_blank\">김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fYURNcVBOX2tsQXctdmxyY2E2UTFGaUktZVc4LW9GNS1RQldsY1phODMwN3ZhYXFRZjFwQUJxMVZ3dnpDUC1qX18wN1kyQlM1TW9faEwwODkyNVpDbDJKTVNlSmUtTUk?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 02:28:00 GMT",
-        "source": "연합뉴스TV",
-        "ageHours": 9.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "66fb2ef0264540a8eeb05b97d919350c5d63a467c76dc4eeb69db9675b7dbb6b",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래 SNS에 대인배 박지원옹 반응 #shorts #오마이tv - 오마이TV - OhmyNews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5heGVjcmpJSmRzZ0t5RkZ1U3lMNTFJeEttRWplZDhxdWx1M3NxMzdrbUNvSUoweWM0M1M0U0NFMHVKbzVKaFdoUGxBaVlrRmJPLW5qdnFfekRJTy1NUERndm9rUUZscjJZa212NTFHRFhMR21tMnpoYnpoVGhkUlE?oc=5\" target=\"_blank\">정청래 SNS에 대인배 박지원옹 반응 #shorts #오마이tv - 오마이TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5heGVjcmpJSmRzZ0t5RkZ1U3lMNTFJeEttRWplZDhxdWx1M3NxMzdrbUNvSUoweWM0M1M0U0NFMHVKbzVKaFdoUGxBaVlrRmJPLW5qdnFfekRJTy1NUERndm9rUUZscjJZa212NTFHRFhMR21tMnpoYnpoVGhkUlE?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 08:35:53 GMT",
-        "source": "OhmyNews",
-        "ageHours": 3.5
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "b9cb8dd38f1443004f31e228ce8c48fbda2aecb78dd17474103926cb3a7d5139",
@@ -2944,6 +2911,22 @@
         "pubDate": "Thu, 12 Nov 2026 14:18:05 GMT",
         "source": "The New Region",
         "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "95d0ccbfcf3cf7a429baecb86edc1ddb50ad85464bd1813b31d38201b35c08c5",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says US does not ‘need a deal with Iran’ - South China Morning Post",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9nNzNfTTNDaUVlOHE0OEFrTXUyMktlSUV3RXRoNzI5aGF0TG9VbXUyVTRTUVdMd1hVbms0Y2NLeU82Rk8taW1uSjdFVXdzcHdaemxGdjNyYlFieV9vNEFYRXhYaVpCU3NQOU85MDNTVS1nV0pyVEl6NnNhWXlTR2QzRHVnMXdnYlE1OVp2WWVXRTNsRVJaemJnTHMzTTRWclpSdnZOamp5Z9IBqgFBVV95cUxPZjRNZTJkOXROSV9mMU9oazFUWUxmazJQMjlrOHI0bWQtcGw4ZnNKNkF5Y3JuNXlKNVJlUEFGN3RCYUFuR00ycUt5Q1FwOWFfeTdXV18tcXFJQUZQbkl6OFlqNjBvbHpWTFc2VnRwXzdrZXZTREktTzV6X2FXb0FkMkszV3I1dU9Wd0s2ZGhRdkEwMlVQUlVQZnhQQzhOU1dOUVpmWTQ0S1VDQQ?oc=5\" target=\"_blank\">Trump says US does not ‘need a deal with Iran’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9nNzNfTTNDaUVlOHE0OEFrTXUyMktlSUV3RXRoNzI5aGF0TG9VbXUyVTRTUVdMd1hVbms0Y2NLeU82Rk8taW1uSjdFVXdzcHdaemxGdjNyYlFieV9vNEFYRXhYaVpCU3NQOU85MDNTVS1nV0pyVEl6NnNhWXlTR2QzRHVnMXdnYlE1OVp2WWVXRTNsRVJaemJnTHMzTTRWclpSdnZOamp5Z9IBqgFBVV95cUxPZjRNZTJkOXROSV9mMU9oazFUWUxmazJQMjlrOHI0bWQtcGw4ZnNKNkF5Y3JuNXlKNVJlUEFGN3RCYUFuR00ycUt5Q1FwOWFfeTdXV18tcXFJQUZQbkl6OFlqNjBvbHpWTFc2VnRwXzdrZXZTREktTzV6X2FXb0FkMkszV3I1dU9Wd0s2ZGhRdkEwMlVQUlVQZnhQQzhOU1dOUVpmWTQ0S1VDQQ?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 14:17:38 GMT",
+        "source": "South China Morning Post",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
