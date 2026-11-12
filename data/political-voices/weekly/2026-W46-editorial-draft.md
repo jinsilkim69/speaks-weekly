@@ -1054,3 +1054,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, '한덕수 구속만료전' 조희대 탄핵소추안 통과 촉구 - 굿모닝충청
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, '한덕수 구속만료전' 조희대 탄핵소추안 통과 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE9Uei1KWXdwNFEyS0ZRdU8yTURIMFlTNThhMW9uUS1nRGw0RG84V3V4ZGlVT0wzanhGSkpBSnpPLTBpYzR5RGZpNXhpeXoxUnR6OFNndmlTWDBVbWJLZk1TbGpQV09nd0hwb3RWZm8td1BQQQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 "與박희승, 조희대 탄핵 요구하는 시민들 '미친 사람' 취급…사죄해야" - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 "與박희승, 조희대 탄핵 요구하는 시민들 '미친 사람' 취급…사죄해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE9KdGxfWER3cHZUVzUtUU5nQ2pFSnJKOUhsX1E2aG5GbWp0c3NPYzlQc2JmcFVFOGM0VlZ3RU5sV1ZHUUNTeE5TUWx3R1VWc3ZRU0ZUMzBfTlFrcVdvWGEwdzBLS1BhQzJ4cVpOWjdKV2pvZmp2Z3RTWdIBeEFVX3lxTE9KdGxfWER3cHZUVzUtUU5nQ2pFSnJKOUhsX1E2aG5GbWp0c3NPYzlQc2JmcFVFOGM0VlZ3RU5sV1ZHUUNTeE5TUWx3R1VWc3ZRU0ZUMzBfTlFrcVdvWGEwdzBLS1BhQzJ4cVpOWjdKV2pvZmp2Z3RTWQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 "청해부대 파견은 사실상 우회파병… 당론으로 반대" - TV서울
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 "청해부대 파견은 사실상 우회파병… 당론으로 반대"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE56LUxFb3JjQkoxc1pkMnV0bnJDRXRHWnpJUlY0Vkdwc0F1RU9tMzY5MXRQbjlPdE5mZlljOWpwTlR3MUF5dkZJUm5IbHYtQThlVGNPeGJidzY?oc=5)
+
+---
+

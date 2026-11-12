@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T15:35:16.940Z",
+  "lastCheckedAt": "2026-11-12T15:41:17.739Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2010,57 +2010,24 @@
       "seenAt": "2026-11-12T15:35:19.971Z",
       "title": "[속보] 시진핑 \"조국통일은 역사적 임무…양안관계 평화발전 노력해야\" - 한국경제",
       "targetName": "조국"
+    },
+    "c65e837a34891e21843306fa6383342d67096fb0a0031084759a4ba6ca74297f": {
+      "seenAt": "2026-11-12T15:41:19.067Z",
+      "title": "조국혁신당, '한덕수 구속만료전' 조희대 탄핵소추안 통과 촉구 - 굿모닝충청",
+      "targetName": "조국"
+    },
+    "b053cde31339011200c007a3928b2a1b991194845f223ac7dc63100342ec9d1d": {
+      "seenAt": "2026-11-12T15:41:19.902Z",
+      "title": "조국혁신당 \"與박희승, 조희대 탄핵 요구하는 시민들 '미친 사람' 취급…사죄해야\" - 뉴시스",
+      "targetName": "조국"
+    },
+    "8d7cf7fa8a64e26022d26b014fee01218ec4e9424004e3d285e98c091b92d263": {
+      "seenAt": "2026-11-12T15:41:20.801Z",
+      "title": "조국혁신당 \"청해부대 파견은 사실상 우회파병… 당론으로 반대\" - TV서울",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "c65e837a34891e21843306fa6383342d67096fb0a0031084759a4ba6ca74297f",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당, '한덕수 구속만료전' 조희대 탄핵소추안 통과 촉구 - 굿모닝충청",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9Uei1KWXdwNFEyS0ZRdU8yTURIMFlTNThhMW9uUS1nRGw0RG84V3V4ZGlVT0wzanhGSkpBSnpPLTBpYzR5RGZpNXhpeXoxUnR6OFNndmlTWDBVbWJLZk1TbGpQV09nd0hwb3RWZm8td1BQQQ?oc=5\" target=\"_blank\">조국혁신당, '한덕수 구속만료전' 조희대 탄핵소추안 통과 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">굿모닝충청</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Uei1KWXdwNFEyS0ZRdU8yTURIMFlTNThhMW9uUS1nRGw0RG84V3V4ZGlVT0wzanhGSkpBSnpPLTBpYzR5RGZpNXhpeXoxUnR6OFNndmlTWDBVbWJLZk1TbGpQV09nd0hwb3RWZm8td1BQQQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 05:17:05 GMT",
-        "source": "굿모닝충청",
-        "ageHours": 6.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "b053cde31339011200c007a3928b2a1b991194845f223ac7dc63100342ec9d1d",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 \"與박희승, 조희대 탄핵 요구하는 시민들 '미친 사람' 취급…사죄해야\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9KdGxfWER3cHZUVzUtUU5nQ2pFSnJKOUhsX1E2aG5GbWp0c3NPYzlQc2JmcFVFOGM0VlZ3RU5sV1ZHUUNTeE5TUWx3R1VWc3ZRU0ZUMzBfTlFrcVdvWGEwdzBLS1BhQzJ4cVpOWjdKV2pvZmp2Z3RTWdIBeEFVX3lxTE9KdGxfWER3cHZUVzUtUU5nQ2pFSnJKOUhsX1E2aG5GbWp0c3NPYzlQc2JmcFVFOGM0VlZ3RU5sV1ZHUUNTeE5TUWx3R1VWc3ZRU0ZUMzBfTlFrcVdvWGEwdzBLS1BhQzJ4cVpOWjdKV2pvZmp2Z3RTWQ?oc=5\" target=\"_blank\">조국혁신당 \"與박희승, 조희대 탄핵 요구하는 시민들 '미친 사람' 취급…사죄해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KdGxfWER3cHZUVzUtUU5nQ2pFSnJKOUhsX1E2aG5GbWp0c3NPYzlQc2JmcFVFOGM0VlZ3RU5sV1ZHUUNTeE5TUWx3R1VWc3ZRU0ZUMzBfTlFrcVdvWGEwdzBLS1BhQzJ4cVpOWjdKV2pvZmp2Z3RTWdIBeEFVX3lxTE9KdGxfWER3cHZUVzUtUU5nQ2pFSnJKOUhsX1E2aG5GbWp0c3NPYzlQc2JmcFVFOGM0VlZ3RU5sV1ZHUUNTeE5TUWx3R1VWc3ZRU0ZUMzBfTlFrcVdvWGEwdzBLS1BhQzJ4cVpOWjdKV2pvZmp2Z3RTWQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 06:46:27 GMT",
-        "source": "뉴시스",
-        "ageHours": 5.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "8d7cf7fa8a64e26022d26b014fee01218ec4e9424004e3d285e98c091b92d263",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 \"청해부대 파견은 사실상 우회파병… 당론으로 반대\" - TV서울",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE56LUxFb3JjQkoxc1pkMnV0bnJDRXRHWnpJUlY0Vkdwc0F1RU9tMzY5MXRQbjlPdE5mZlljOWpwTlR3MUF5dkZJUm5IbHYtQThlVGNPeGJidzY?oc=5\" target=\"_blank\">조국혁신당 \"청해부대 파견은 사실상 우회파병… 당론으로 반대\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV서울</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56LUxFb3JjQkoxc1pkMnV0bnJDRXRHWnpJUlY0Vkdwc0F1RU9tMzY5MXRQbjlPdE5mZlljOWpwTlR3MUF5dkZJUm5IbHYtQThlVGNPeGJidzY?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 02:07:49 GMT",
-        "source": "TV서울",
-        "ageHours": 10
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "276c621bf174d599f5ed4ee06f566b51f4040757d85adc6c21dcb4b2a2ad1921",
@@ -2873,6 +2840,22 @@
         "pubDate": "Thu, 12 Nov 2026 08:01:00 GMT",
         "source": "KBS 뉴스",
         "ageHours": 7.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "cbd12ac422ba7c5f4f4bf8d414d398f5b030bbb90139f5f26ef2769153ed9615",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당 \"청해부대 작전구역 확대, 당론 반대\"…본회의 반대투표 예고 - 프레시안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5uU253T0VVendCczh0LVhHUlc5WEk5clRUWmk1REZudHM1ODA0SVpJZHdIbGVsX196RG9MZWJaYzRpblpXakFWNUpmcmVxRHg4TVdwQTdYWDZ4NGNXQnlicHZhZU84aTNBSVFj?oc=5\" target=\"_blank\">조국혁신당 \"청해부대 작전구역 확대, 당론 반대\"…본회의 반대투표 예고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uU253T0VVendCczh0LVhHUlc5WEk5clRUWmk1REZudHM1ODA0SVpJZHdIbGVsX196RG9MZWJaYzRpblpXakFWNUpmcmVxRHg4TVdwQTdYWDZ4NGNXQnlicHZhZU84aTNBSVFj?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 13:38:36 GMT",
+        "source": "프레시안",
+        "ageHours": 2
       },
       "delivered": [],
       "archived": false
