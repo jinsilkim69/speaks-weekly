@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T16:11:18.187Z",
+  "lastCheckedAt": "2026-11-12T16:21:17.244Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2070,57 +2070,24 @@
       "seenAt": "2026-11-12T16:11:21.049Z",
       "title": "Trump Rages At Old Nemesis At 1:25 A.M. On Truth Social – And Comes Back For More - HuffPost",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "0e835c32a81599dfce1673556f0e509b7efd0028d0c36ec89323c69d4df6f90e": {
+      "seenAt": "2026-11-12T16:21:18.289Z",
+      "title": "Trump has 1 am meltdown at New York Times over ‘fake news’ - The Independent",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "dc7cab7a8fb9f3327c8c62b12cfcf23438780481d2b1f4481d399afb10798174": {
+      "seenAt": "2026-11-12T16:21:18.955Z",
+      "title": "Trump deflects blame for Republican midterm losses as finger-pointing begins - Scripps News",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a7e2aa1a3131a1449f4b5099f3b4a15040e0980bb52436896ac13db25fabb1fd": {
+      "seenAt": "2026-11-12T16:21:19.562Z",
+      "title": "Trump Announces Susie Wiles out, Stephen Miller in as WH Chief of Staff - The Well News",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "0e835c32a81599dfce1673556f0e509b7efd0028d0c36ec89323c69d4df6f90e",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump has 1 am meltdown at New York Times over ‘fake news’ - The Independent",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXV2dVA3VU5wSGhKelZEalBEbFFDamJfSE9wQmZkMFVzbWwtek1HU2Z2cmhJQ3h0YVAzOXFjalJnb0hJR2VRdksybFZCUE53UnV5STBqV25veUNpODhDTEdGd2ZES0hpY19FTTVEVVJNOWQwalNIdHc3ejM0VkdwdExMbkdRTDk3VXBKNnJSZHp3OTNCWGVXaTBKT2xwUFlmMTVTd0l1Yk8?oc=5\" target=\"_blank\">Trump has 1 am meltdown at New York Times over ‘fake news’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXV2dVA3VU5wSGhKelZEalBEbFFDamJfSE9wQmZkMFVzbWwtek1HU2Z2cmhJQ3h0YVAzOXFjalJnb0hJR2VRdksybFZCUE53UnV5STBqV25veUNpODhDTEdGd2ZES0hpY19FTTVEVVJNOWQwalNIdHc3ejM0VkdwdExMbkdRTDk3VXBKNnJSZHp3OTNCWGVXaTBKT2xwUFlmMTVTd0l1Yk8?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 16:46:00 GMT",
-        "source": "The Independent",
-        "ageHours": 19.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "dc7cab7a8fb9f3327c8c62b12cfcf23438780481d2b1f4481d399afb10798174",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump deflects blame for Republican midterm losses as finger-pointing begins - Scripps News",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkJ6RnlKaTBBYklBTG52TWdTVFJ0bktYQTlWSi1pZkJmblBFTkNBOUgyTjdYMTViTTNINkpIWVFIMEp2aGowWEhZTDQtZkVyNTZQNmo3cThralRUMjhUSmFOVDUtT1RPMlB1YVdRSWI0b29lMEh5T0ZGRUk4VWxvN0hsbnRvemJTc1JoUUVjaExGLWlyTmh2SGVTS2JCT2t2RllldWJGdzlVQTVlcUhObGtLSlFMUExuRG5PbDc1Rnd5U2xhcGc?oc=5\" target=\"_blank\">Trump deflects blame for Republican midterm losses as finger-pointing begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scripps News</font>",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkJ6RnlKaTBBYklBTG52TWdTVFJ0bktYQTlWSi1pZkJmblBFTkNBOUgyTjdYMTViTTNINkpIWVFIMEp2aGowWEhZTDQtZkVyNTZQNmo3cThralRUMjhUSmFOVDUtT1RPMlB1YVdRSWI0b29lMEh5T0ZGRUk4VWxvN0hsbnRvemJTc1JoUUVjaExGLWlyTmh2SGVTS2JCT2t2RllldWJGdzlVQTVlcUhObGtLSlFMUExuRG5PbDc1Rnd5U2xhcGc?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 00:54:16 GMT",
-        "source": "Scripps News",
-        "ageHours": 11.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "a7e2aa1a3131a1449f4b5099f3b4a15040e0980bb52436896ac13db25fabb1fd",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Announces Susie Wiles out, Stephen Miller in as WH Chief of Staff - The Well News",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1pZMFMxZjRXUHBDMGFjMk5sdFJuc1lsU1MwSUtNTzI4eXZ1X0s3alM5cVFpckQ3VUc1NmloRTU5UHptSkhJS29TeTVTcDRHdlYzWE5MRS1hUmgxbFRxUHZKYnphN29tYXdiSVRNSTJGY0VYZFlHU1FBbzVNTTB4bFBZaE5PdWNHX3F1YjNBS1B2NEppbldzRk9zQmczbG5FTU56N0psTi1mRHF3R2Zsdw?oc=5\" target=\"_blank\">Trump Announces Susie Wiles out, Stephen Miller in as WH Chief of Staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Well News</font>",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1pZMFMxZjRXUHBDMGFjMk5sdFJuc1lsU1MwSUtNTzI4eXZ1X0s3alM5cVFpckQ3VUc1NmloRTU5UHptSkhJS29TeTVTcDRHdlYzWE5MRS1hUmgxbFRxUHZKYnphN29tYXdiSVRNSTJGY0VYZFlHU1FBbzVNTTB4bFBZaE5PdWNHX3F1YjNBS1B2NEppbldzRk9zQmczbG5FTU56N0psTi1mRHF3R2Zsdw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 02:46:37 GMT",
-        "source": "The Well News",
-        "ageHours": 9.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "56214c2d19c00d1dea00c097e66478b14ad848c593358738fa0247fc05f76544",
@@ -2836,6 +2803,38 @@
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
         "pubDate": "Thu, 12 Nov 2026 15:51:42 GMT",
         "source": "Axios",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b1c09b1d8aa61d70c32631c469fa1b4605523cbdded095c1e74cccc12e0c5a5d",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 대통령 SNS 행보…51% 혼란 우려 줄여야 : 정치 - 재경일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OTFVKenVVUlJjWWxkSHNsOUlHV0UzYlQ0dWpITTU2Y3k4RlJkVmV4VFBoMWVDMjFrQktLMFAxaUlzWHp1TXJlRThMZw?oc=5\" target=\"_blank\">이재명 대통령 SNS 행보…51% 혼란 우려 줄여야 : 정치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OTFVKenVVUlJjWWxkSHNsOUlHV0UzYlQ0dWpITTU2Y3k4RlJkVmV4VFBoMWVDMjFrQktLMFAxaUlzWHp1TXJlRThMZw?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 16:00:00 GMT",
+        "source": "재경일보",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b6a6062eb1e30e131c2615f58684de1d7a051a06f33e9ea1349293cd515a9cb9",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan - KATU",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzVTaXpPb0hBQVBxTFY2ZlJZTGEtMFhXSHhucFpncHZ2WjREN0c2RVlaZ1hpUUtweTc5NS13Zklvb1M5QUZfMUtDZTFRM1lHVDJBZFo1N1pwZm5vZmhfUzVwYS1hODhjRHJlc1BrcTdiMkMwRnZDcEdUaC15SzJ3YjdqaG9aYjc3MmxaWDctemh5eFptOE1qRWdMZ3YyeDBmY2R4NDIwby16MUp2ZmxVcHoydHJtci1Rbk40NFkzSG1ZUQ?oc=5\" target=\"_blank\">Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KATU</font>",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzVTaXpPb0hBQVBxTFY2ZlJZTGEtMFhXSHhucFpncHZ2WjREN0c2RVlaZ1hpUUtweTc5NS13Zklvb1M5QUZfMUtDZTFRM1lHVDJBZFo1N1pwZm5vZmhfUzVwYS1hODhjRHJlc1BrcTdiMkMwRnZDcEdUaC15SzJ3YjdqaG9aYjc3MmxaWDctemh5eFptOE1qRWdMZ3YyeDBmY2R4NDIwby16MUp2ZmxVcHoydHJtci1Rbk40NFkzSG1ZUQ?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 16:02:13 GMT",
+        "source": "KATU",
         "ageHours": 0.3
       },
       "delivered": [],

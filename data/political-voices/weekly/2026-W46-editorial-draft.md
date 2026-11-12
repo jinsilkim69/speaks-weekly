@@ -1210,3 +1210,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump has 1 am meltdown at New York Times over ‘fake news’ - The Independent
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump has 1 am meltdown at New York Times over ‘fake news’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXV2dVA3VU5wSGhKelZEalBEbFFDamJfSE9wQmZkMFVzbWwtek1HU2Z2cmhJQ3h0YVAzOXFjalJnb0hJR2VRdksybFZCUE53UnV5STBqV25veUNpODhDTEdGd2ZES0hpY19FTTVEVVJNOWQwalNIdHc3ejM0VkdwdExMbkdRTDk3VXBKNnJSZHp3OTNCWGVXaTBKT2xwUFlmMTVTd0l1Yk8?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump deflects blame for Republican midterm losses as finger-pointing begins - Scripps News
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump deflects blame for Republican midterm losses as finger-pointing begins
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkJ6RnlKaTBBYklBTG52TWdTVFJ0bktYQTlWSi1pZkJmblBFTkNBOUgyTjdYMTViTTNINkpIWVFIMEp2aGowWEhZTDQtZkVyNTZQNmo3cThralRUMjhUSmFOVDUtT1RPMlB1YVdRSWI0b29lMEh5T0ZGRUk4VWxvN0hsbnRvemJTc1JoUUVjaExGLWlyTmh2SGVTS2JCT2t2RllldWJGdzlVQTVlcUhObGtLSlFMUExuRG5PbDc1Rnd5U2xhcGc?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Announces Susie Wiles out, Stephen Miller in as WH Chief of Staff - The Well News
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Announces Susie Wiles out, Stephen Miller in as WH Chief of Staff
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1pZMFMxZjRXUHBDMGFjMk5sdFJuc1lsU1MwSUtNTzI4eXZ1X0s3alM5cVFpckQ3VUc1NmloRTU5UHptSkhJS29TeTVTcDRHdlYzWE5MRS1hUmgxbFRxUHZKYnphN29tYXdiSVRNSTJGY0VYZFlHU1FBbzVNTTB4bFBZaE5PdWNHX3F1YjNBS1B2NEppbldzRk9zQmczbG5FTU56N0psTi1mRHF3R2Zsdw?oc=5)
+
+---
+
