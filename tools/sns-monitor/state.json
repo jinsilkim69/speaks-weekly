@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T13:05:38.511Z",
+  "lastCheckedAt": "2026-11-12T13:51:16.925Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -1845,57 +1845,24 @@
       "seenAt": "2026-11-12T13:05:41.162Z",
       "title": "안철수 \"한동훈 복당론은 물귀신 행태…차라리 창당하라\" - www.hidomin.com",
       "targetName": "한동훈"
+    },
+    "66676fbb1cd82498dc4ef238030e90d16896e0d8c59c8662927d9844113927d4": {
+      "seenAt": "2026-11-12T13:51:18.026Z",
+      "title": "“복당 물귀신”“장동혁 해명하라”…‘한동훈 복당’에 또 갈라졌다 - 미주중앙일보",
+      "targetName": "한동훈"
+    },
+    "b7d400759dcd0c934616a4388a7ba4bfc0f8e4d316b5fd9246c27f90f4dba35a": {
+      "seenAt": "2026-11-12T13:51:18.657Z",
+      "title": "윤상현, 安 `한동훈 복당` 비판에 `분열의 늪 더 두려워`…`오동석장` 재차 제안 - 매일신문",
+      "targetName": "한동훈"
+    },
+    "7561a64f6035cb0cc5e24ee980f7de8e75f41521859f9e6ccf66a89fb384ef4b": {
+      "seenAt": "2026-11-12T13:51:19.358Z",
+      "title": "'한동훈 복당' 野 통합 최대 걸림돌 … 오세훈 '글쎄', 장동혁-이준석 '부정적' - 뉴데일리",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "66676fbb1cd82498dc4ef238030e90d16896e0d8c59c8662927d9844113927d4",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "“복당 물귀신”“장동혁 해명하라”…‘한동훈 복당’에 또 갈라졌다 - 미주중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hQ2x3QWFzRG1yOTJCYkt2WlRaMTd6ZUF6WDY1RU96a3E4X2JVOHU2N2hrSHIxLUF3ZWV3RkVtek1wWjNHaG81R1hUTV85UXF2ak5PN21RNURXTTRPRzdGVTVn?oc=5\" target=\"_blank\">“복당 물귀신”“장동혁 해명하라”…‘한동훈 복당’에 또 갈라졌다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미주중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hQ2x3QWFzRG1yOTJCYkt2WlRaMTd6ZUF6WDY1RU96a3E4X2JVOHU2N2hrSHIxLUF3ZWV3RkVtek1wWjNHaG81R1hUTV85UXF2ak5PN21RNURXTTRPRzdGVTVn?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 07:37:00 GMT",
-        "source": "미주중앙일보",
-        "ageHours": 4.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "b7d400759dcd0c934616a4388a7ba4bfc0f8e4d316b5fd9246c27f90f4dba35a",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "윤상현, 安 `한동훈 복당` 비판에 `분열의 늪 더 두려워`…`오동석장` 재차 제안 - 매일신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE03dHVaNWh5Nlc1T2QycFVYQml3Vm81dzdRaFJDS1pwTTdTT1cyQjVDSnl0REh3SkRhdkxkLWxhQVI4SDBQT1cxemdyT0tQX1RKOEhoT0NuT0N0NVpUOTFVbFZB?oc=5\" target=\"_blank\">윤상현, 安 `한동훈 복당` 비판에 `분열의 늪 더 두려워`…`오동석장` 재차 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03dHVaNWh5Nlc1T2QycFVYQml3Vm81dzdRaFJDS1pwTTdTT1cyQjVDSnl0REh3SkRhdkxkLWxhQVI4SDBQT1cxemdyT0tQX1RKOEhoT0NuT0N0NVpUOTFVbFZB?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 02:28:07 GMT",
-        "source": "매일신문",
-        "ageHours": 9.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "7561a64f6035cb0cc5e24ee980f7de8e75f41521859f9e6ccf66a89fb384ef4b",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "'한동훈 복당' 野 통합 최대 걸림돌 … 오세훈 '글쎄', 장동혁-이준석 '부정적' - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE93bWh2OEdsU3k3MGlueHpjelhPaHYwejBOaHVSNEVBQXpkQjF1cUdTRTkyYktxTjJYNmxWbUk1SkI1Vzd0VDhxVEtHdmpoZzI4c1JxZzBCbGNzenpaQU16TFl6MWMyQzR2VHFDVHp2dk13UXhDNTRFcmJWb9IBgAFBVV95cUxPMHV6cG9FZ29VWDllMjVRU245Y2Yxc3lDOUIwOUtiU3hCWkdsblE3TXdGaXFrWEZ2bGxNUVJvRE1tN0hVekt1M2Z0NGpYcFJBNndJWW9wemMyS1FCOS1HSXZZSDZubnN4WEtmOWZ6REJTV3RDWlFnVkdtQjhYSjdxSw?oc=5\" target=\"_blank\">'한동훈 복당' 野 통합 최대 걸림돌 … 오세훈 '글쎄', 장동혁-이준석 '부정적'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93bWh2OEdsU3k3MGlueHpjelhPaHYwejBOaHVSNEVBQXpkQjF1cUdTRTkyYktxTjJYNmxWbUk1SkI1Vzd0VDhxVEtHdmpoZzI4c1JxZzBCbGNzenpaQU16TFl6MWMyQzR2VHFDVHp2dk13UXhDNTRFcmJWb9IBgAFBVV95cUxPMHV6cG9FZ29VWDllMjVRU245Y2Yxc3lDOUIwOUtiU3hCWkdsblE3TXdGaXFrWEZ2bGxNUVJvRE1tN0hVekt1M2Z0NGpYcFJBNndJWW9wemMyS1FCOS1HSXZZSDZubnN4WEtmOWZ6REJTV3RDWlFnVkdtQjhYSjdxSw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 02:14:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 9.9
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "cb281e686edbbf75c911cb89f1f60fcf2f0f9bf22b666260dd45b652940c8c58",
@@ -2868,6 +2835,166 @@
         "pubDate": "Thu, 12 Nov 2026 12:43:14 GMT",
         "source": "930 WFMD Free Talk",
         "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "65bc1394d22799bf643d6b4860c0134ac406fdb8d2a642d57298d34e2516c0d0",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "최민희 이번엔 “이 대통령, 윤석열 탄핵 반대”…김민석, 감찰 지시 - 한겨레",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE80cWpSQWhUR2lDdGhBQzBhVlQ2QWJtanRNSTd4ZlduaWRsN1pYZjJiRXpxdUFtSnJLMVZjSkN2Y3lCRFJmX1JYT1A4ZjRPcFcxWmZjeDFJYmNrTDc5MEVJUEZfT2pYbFdWWkdTbkpmU2FpVnJC?oc=5\" target=\"_blank\">최민희 이번엔 “이 대통령, 윤석열 탄핵 반대”…김민석, 감찰 지시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80cWpSQWhUR2lDdGhBQzBhVlQ2QWJtanRNSTd4ZlduaWRsN1pYZjJiRXpxdUFtSnJLMVZjSkN2Y3lCRFJmX1JYT1A4ZjRPcFcxWmZjeDFJYmNrTDc5MEVJUEZfT2pYbFdWWkdTbkpmU2FpVnJC?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 13:10:00 GMT",
+        "source": "한겨레",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "179c84602baf147ce4c17c8774a6691929deb103c5f1b1a5cf313e68cd1678f0",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, '언행 논란' 최민희 감찰조사 지시…\"심각 인식\"(종합) - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzREhUMm1SekdIc3V5WFBVWXpzSVR5MWNKUFZiTExHVVZDX1JPMW5VSGRCTVBQSWU1U0duM3VDeFZiVjdVRGZESjNyR2tBYnc5TG1nMS1rRXAxY0nSAWBBVV95cUxNQl9oZ3BsOTJkUldCNmpfa0E0eENtako2dWktQ1NTVExqUG4zRUVvYUU5VzdoYWlsa3ZNOFR1MWlOS0twSVFWT1RjZzJfa1duVkxWNkdBX0R2bDBmdjF4U3U?oc=5\" target=\"_blank\">김민석, '언행 논란' 최민희 감찰조사 지시…\"심각 인식\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzREhUMm1SekdIc3V5WFBVWXpzSVR5MWNKUFZiTExHVVZDX1JPMW5VSGRCTVBQSWU1U0duM3VDeFZiVjdVRGZESjNyR2tBYnc5TG1nMS1rRXAxY0nSAWBBVV95cUxNQl9oZ3BsOTJkUldCNmpfa0E0eENtako2dWktQ1NTVExqUG4zRUVvYUU5VzdoYWlsa3ZNOFR1MWlOS0twSVFWT1RjZzJfa1duVkxWNkdBX0R2bDBmdjF4U3U?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 12:58:42 GMT",
+        "source": "연합뉴스",
+        "ageHours": 0.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "cc094bea678a687d30e298ee8d9db6afa3234b6f62dfcc21d37e61d67ecb7161",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "[줌 인 여의도] 보수 살길 '4인(오세훈, 한동훈, 장동혁, 이준석) 4색' 주장… 어느 것이 통할까 - 대구일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JSXVyTTRCNEhXVkJXSWFHQW1JS1lPNk9UVzFRQTZOeFE2RTRZQnA2V0tyOWg1aXNmcXNGOHdxVWlCamQ0NlByOW5rX21GdDB0aWpoMzI4WmxLQkMzTXhoMGFBT2ZMNUZx?oc=5\" target=\"_blank\">[줌 인 여의도] 보수 살길 '4인(오세훈, 한동훈, 장동혁, 이준석) 4색' 주장… 어느 것이 통할까</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대구일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JSXVyTTRCNEhXVkJXSWFHQW1JS1lPNk9UVzFRQTZOeFE2RTRZQnA2V0tyOWg1aXNmcXNGOHdxVWlCamQ0NlByOW5rX21GdDB0aWpoMzI4WmxLQkMzTXhoMGFBT2ZMNUZx?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 05:14:25 GMT",
+        "source": "대구일보",
+        "ageHours": 8.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5b6fb1bc6effa0034b92dac0fbef5d15c50ba924c4c98064bac57f3d79656294",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당 \"청해부대 작전구역 확대, 당론 반대\"…본회의 반대투표 예고 - 프레시안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHYwQ3p0Q0l0TmhDZnhiZ01xWjBmWldSc0NYVlhGaXVnazVKWW1ieEpfNTJQVTlPdm1IdDhzOEx0UktvZWZfX0hMbzNPbzBweUJzMXdFR0ItUTdvdU5qRFVCQjQ3OFRSZU1OUXcyNkJyZjNMb0JtbkVzLXFfeEdBdl85RXIybXdFd3pRZEEwaFFtUF80VnBWVFpn?oc=5\" target=\"_blank\">조국혁신당 \"청해부대 작전구역 확대, 당론 반대\"…본회의 반대투표 예고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHYwQ3p0Q0l0TmhDZnhiZ01xWjBmWldSc0NYVlhGaXVnazVKWW1ieEpfNTJQVTlPdm1IdDhzOEx0UktvZWZfX0hMbzNPbzBweUJzMXdFR0ItUTdvdU5qRFVCQjQ3OFRSZU1OUXcyNkJyZjNMb0JtbkVzLXFfeEdBdl85RXIybXdFd3pRZEEwaFFtUF80VnBWVFpn?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 13:38:36 GMT",
+        "source": "프레시안",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "000a7a4e0e3c92aeed1d5516f099b94914d7641c4dd337242d813c09420a1402",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says ‘we don’t need a deal with Iran’ - CNBC",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5tWjFOSkhhSzNmbGk4eUFRY2Npa3IxMnRtRWJFNXl3UzlOOTE1a2ZuMWRwd1FlUHhMc3VNMklPT09USURQeDVTRDh5eG85Z2U2a0xZbWtMODg5eVJ6MkpTOFNFc0ZOa2JhNnN4NjE4V2RSeGhs?oc=5\" target=\"_blank\">Trump says ‘we don’t need a deal with Iran’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tWjFOSkhhSzNmbGk4eUFRY2Npa3IxMnRtRWJFNXl3UzlOOTE1a2ZuMWRwd1FlUHhMc3VNMklPT09USURQeDVTRDh5eG85Z2U2a0xZbWtMODg5eVJ6MkpTOFNFc0ZOa2JhNnN4NjE4V2RSeGhs?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 13:15:38 GMT",
+        "source": "CNBC",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "adaf4226ac7e3a8742af8143e116747f910073db678c3b4ee2037a075b186385",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump’s morning meltdown includes reminders he pays his taxes and false claims about presidential salary - The Independent",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3JIeDBUX3hKNUhPdHRlWXdieGJ3NjF3U1RuRWU2MFU5cUZHaGZwSHJQLUhqQ0pYRnZfX1lBM19CaFdJMFY1U1pySnQ3X1ltU1k1dkI4bzZ3S2xxOVhVemY0cjFubHFYY2lBMmozN3Zid29qd0c0blB3Qm0xSkhGYWNQdWpSVi0zdnBnQXZ2SDJPSEktODJjcElTQ2wxV0dZNVNjS29VNWd1YzBnVXpVd2FSR1pzNTA?oc=5\" target=\"_blank\">Trump’s morning meltdown includes reminders he pays his taxes and false claims about presidential salary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3JIeDBUX3hKNUhPdHRlWXdieGJ3NjF3U1RuRWU2MFU5cUZHaGZwSHJQLUhqQ0pYRnZfX1lBM19CaFdJMFY1U1pySnQ3X1ltU1k1dkI4bzZ3S2xxOVhVemY0cjFubHFYY2lBMmozN3Zid29qd0c0blB3Qm0xSkhGYWNQdWpSVi0zdnBnQXZ2SDJPSEktODJjcElTQ2wxV0dZNVNjS29VNWd1YzBnVXpVd2FSR1pzNTA?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 13:16:00 GMT",
+        "source": "The Independent",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2bf762a826202616868f0e53f75515f1b108b0b75f1ed42e2b03a77bf03df95b",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump recognizes Veterans Day. He once suggested a name change - USA Today",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmlnSEFmaGN2dHljUFcxSm5pMkZCSW82NldGRVpYckgzck01X2VJSFZHU0Y0OHFyekQ5OGFOcWNaNGJPYUtwV2lINUJIcGoyTk5IdzVFRlJWb3dtakwzRklkV3Q5b0tHSk12ZzZPQzVzaEpGX2pBeDYxMGhOd3R1YXIzQ1pEUUl3WEdjOHhxZjhtRUNfaXYtcC1PY09JS1dHX3dnYkVyLWVOQQ?oc=5\" target=\"_blank\">Trump recognizes Veterans Day. He once suggested a name change</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmlnSEFmaGN2dHljUFcxSm5pMkZCSW82NldGRVpYckgzck01X2VJSFZHU0Y0OHFyekQ5OGFOcWNaNGJPYUtwV2lINUJIcGoyTk5IdzVFRlJWb3dtakwzRklkV3Q5b0tHSk12ZzZPQzVzaEpGX2pBeDYxMGhOd3R1YXIzQ1pEUUl3WEdjOHhxZjhtRUNfaXYtcC1PY09JS1dHX3dnYkVyLWVOQQ?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 11:32:00 GMT",
+        "source": "USA Today",
+        "ageHours": 2.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d00d06a3953e114571b0a875ab09de1a6e5ce9a5d77251cdd2a8b947f09e295e",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "US President Donald Trump: “We don’t need a deal with Iran” – Truth Social - FXStreet",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVNhS2t3dllMeTY0MzFEQTMzNllDelJoanFiVF9oSmRNVEw0NXZsSngyZUVPbjU4WXBRa2s2NnhSWHJyYW9Xd1NaOXdkYTRKcDlGejhtdGVzYzQ5V1dHWU85OHFVT0EzbUdtaFh4bi01ZVMxZUduU1g0am0wNC0zV2E1dm01RWxlN1F0aFQybUlLaG85djFmRnRKLWRRTnJUN3hUVE9aNzBaejB2UnJjdQ?oc=5\" target=\"_blank\">US President Donald Trump: “We don’t need a deal with Iran” – Truth Social</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FXStreet</font>",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVNhS2t3dllMeTY0MzFEQTMzNllDelJoanFiVF9oSmRNVEw0NXZsSngyZUVPbjU4WXBRa2s2NnhSWHJyYW9Xd1NaOXdkYTRKcDlGejhtdGVzYzQ5V1dHWU85OHFVT0EzbUdtaFh4bi01ZVMxZUduU1g0am0wNC0zV2E1dm01RWxlN1F0aFQybUlLaG85djFmRnRKLWRRTnJUN3hUVE9aNzBaejB2UnJjdQ?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 13:45:56 GMT",
+        "source": "FXStreet",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f0618e15363e16e75972871ab4dd2037311e3232809507c036dde38c330f6a61",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Threatens To Double Tariffs On Mexico, Calls Midterms A ‘Perceived Loss’ - Yahoo News New Zealand",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTJnQWR2dFdZTFZWWjg1MkVhNm5LVlNob25yRVpyeEJxai1USjBseGxLRy14TFZ1VUNSZ08xYjM1ZjhjZjhjWi0tTVBoWlNXamtkNWNRaDM5LUxfaTJCYUJqVzE0ZE1HRThyeFVnS1YtTXJyZWtDSE04bUJKTkl4QXNZemI?oc=5\" target=\"_blank\">Trump Threatens To Double Tariffs On Mexico, Calls Midterms A ‘Perceived Loss’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News New Zealand</font>",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTJnQWR2dFdZTFZWWjg1MkVhNm5LVlNob25yRVpyeEJxai1USjBseGxLRy14TFZ1VUNSZ08xYjM1ZjhjZjhjWi0tTVBoWlNXamtkNWNRaDM5LUxfaTJCYUJqVzE0ZE1HRThyeFVnS1YtTXJyZWtDSE04bUJKTkl4QXNZemI?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 12:51:31 GMT",
+        "source": "Yahoo News New Zealand",
+        "ageHours": 1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "55776729a86f46a43e02b2a1121eb10bbf8a763d54d7c30f557277f7367ce319",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Oil prices rise after Trump said the U.S. doesn't need an Iran deal - Quartz",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBCTnJuT1NrX09nUUp2dWFfQmZBVG43R1lHOVlyLWgyWXpMeG5wWWJIVUNoVDhVTnFFNVRUdnpNWm5UTWJGRk5YU204QTlINVN0Y0ZLT2VtQmpVWk9YYnJ4RVg4cVhhMVN1UkQ3S3k5VQ?oc=5\" target=\"_blank\">Oil prices rise after Trump said the U.S. doesn't need an Iran deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quartz</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCTnJuT1NrX09nUUp2dWFfQmZBVG43R1lHOVlyLWgyWXpMeG5wWWJIVUNoVDhVTnFFNVRUdnpNWm5UTWJGRk5YU204QTlINVN0Y0ZLT2VtQmpVWk9YYnJ4RVg4cVhhMVN1UkQ3S3k5VQ?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 13:48:41 GMT",
+        "source": "Quartz",
+        "ageHours": 0
       },
       "delivered": [],
       "archived": false

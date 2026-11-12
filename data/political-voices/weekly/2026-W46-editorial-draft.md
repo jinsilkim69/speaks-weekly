@@ -625,3 +625,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** “복당 물귀신”“장동혁 해명하라”…‘한동훈 복당’에 또 갈라졌다 - 미주중앙일보
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “복당 물귀신”“장동혁 해명하라”…‘한동훈 복당’에 또 갈라졌다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hQ2x3QWFzRG1yOTJCYkt2WlRaMTd6ZUF6WDY1RU96a3E4X2JVOHU2N2hrSHIxLUF3ZWV3RkVtek1wWjNHaG81R1hUTV85UXF2ak5PN21RNURXTTRPRzdGVTVn?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 윤상현, 安 `한동훈 복당` 비판에 `분열의 늪 더 두려워`…`오동석장` 재차 제안 - 매일신문
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 윤상현, 安 `한동훈 복당` 비판에 `분열의 늪 더 두려워`…`오동석장` 재차 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE03dHVaNWh5Nlc1T2QycFVYQml3Vm81dzdRaFJDS1pwTTdTT1cyQjVDSnl0REh3SkRhdkxkLWxhQVI4SDBQT1cxemdyT0tQX1RKOEhoT0NuT0N0NVpUOTFVbFZB?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '한동훈 복당' 野 통합 최대 걸림돌 … 오세훈 '글쎄', 장동혁-이준석 '부정적' - 뉴데일리
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '한동훈 복당' 野 통합 최대 걸림돌 … 오세훈 '글쎄', 장동혁-이준석 '부정적'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE93bWh2OEdsU3k3MGlueHpjelhPaHYwejBOaHVSNEVBQXpkQjF1cUdTRTkyYktxTjJYNmxWbUk1SkI1Vzd0VDhxVEtHdmpoZzI4c1JxZzBCbGNzenpaQU16TFl6MWMyQzR2VHFDVHp2dk13UXhDNTRFcmJWb9IBgAFBVV95cUxPMHV6cG9FZ29VWDllMjVRU245Y2Yxc3lDOUIwOUtiU3hCWkdsblE3TXdGaXFrWEZ2bGxNUVJvRE1tN0hVekt1M2Z0NGpYcFJBNndJWW9wemMyS1FCOS1HSXZZSDZubnN4WEtmOWZ6REJTV3RDWlFnVkdtQjhYSjdxSw?oc=5)
+
+---
+
