@@ -6,8 +6,8 @@ concurrency:
 
 on:
   schedule:
-    # 10분마다 클라우드에서 자동 실행 (내 컴퓨터가 꺼져 있어도 작동)
-    - cron: '*/10 * * * *'
+    # 10분 간격으로 정각을 피해 예약 (GitHub 지연 가능)
+    - cron: '3-59/10 * * * *'
   workflow_dispatch: # 수동 즉시 실행 지원
 
 jobs:
