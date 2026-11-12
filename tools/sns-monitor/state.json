@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T19:31:19.238Z",
+  "lastCheckedAt": "2026-11-12T19:41:15.396Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2370,57 +2370,24 @@
       "seenAt": "2026-11-12T19:31:21.764Z",
       "title": "이준석, 눈물의 기자회견 후 SNS에 \"당원 가입하기 좋은 날\" - JTBC",
       "targetName": "이준석"
+    },
+    "c90a9dc5d8fd5844c68bceb55674df8a1dd79180362c460e1cedd0e67c8f8d93": {
+      "seenAt": "2026-11-12T19:41:16.412Z",
+      "title": "신장식·최인호 국회 회동…종부세 논의 : 정치 - 재경일보",
+      "targetName": "신장식"
+    },
+    "a63592c4b63747ea232227c523e82edbd35cf7d75a521f5bd280fc28c242b334": {
+      "seenAt": "2026-11-12T19:41:17.103Z",
+      "title": "김민석, `언행 논란` 최민희 감찰조사 지시…`심각하게 인식` - 부산일보",
+      "targetName": "김민석"
+    },
+    "db9146109105b6fa4b8dbc9ed64bd17eb2694e6f8c538b5b92d7e880b29f5971": {
+      "seenAt": "2026-11-12T19:41:17.709Z",
+      "title": "신장식·최인호 회동서 종부세 논란 해명…“정부 입장 변화 없다” : 정치 - 재경일보",
+      "targetName": "신장식"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "c90a9dc5d8fd5844c68bceb55674df8a1dd79180362c460e1cedd0e67c8f8d93",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식·최인호 국회 회동…종부세 논의 : 정치 - 재경일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HRC1MZHB4WnRaN0xhbmhtSkQzRkI1T2hjUmNCbmdHVTVSRlNZaXYzbVJiUGpIOVp2RkhYVHpCS1VWbkdFM2lPUGZsZw?oc=5\" target=\"_blank\">신장식·최인호 국회 회동…종부세 논의 : 정치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HRC1MZHB4WnRaN0xhbmhtSkQzRkI1T2hjUmNCbmdHVTVSRlNZaXYzbVJiUGpIOVp2RkhYVHpCS1VWbkdFM2lPUGZsZw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 05:57:15 GMT",
-        "source": "재경일보",
-        "ageHours": 12.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "a63592c4b63747ea232227c523e82edbd35cf7d75a521f5bd280fc28c242b334",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, `언행 논란` 최민희 감찰조사 지시…`심각하게 인식` - 부산일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB5LTRUMUFrTzZTYXdNd0R2aG9Za3JoeVNRRV9MaTlEa0lDLXFuaWpFeW5kbG5NWmJlbXZOWFpSdWVTb3VjZ29ETXF1aGRwNFBBa2I2RWIyaVZueW1TdXJmMjJYc1Y5SDZZX0Q2M2lnUVlnR0I4?oc=5\" target=\"_blank\">김민석, `언행 논란` 최민희 감찰조사 지시…`심각하게 인식`</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5LTRUMUFrTzZTYXdNd0R2aG9Za3JoeVNRRV9MaTlEa0lDLXFuaWpFeW5kbG5NWmJlbXZOWFpSdWVTb3VjZ29ETXF1aGRwNFBBa2I2RWIyaVZueW1TdXJmMjJYc1Y5SDZZX0Q2M2lnUVlnR0I4?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 11:40:00 GMT",
-        "source": "부산일보",
-        "ageHours": 7.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "db9146109105b6fa4b8dbc9ed64bd17eb2694e6f8c538b5b92d7e880b29f5971",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식·최인호 회동서 종부세 논란 해명…“정부 입장 변화 없다” : 정치 - 재경일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxVTU5MmZsXzctRktrek5QTTFDY09VM3JHYzVlZ0l5X2VKTlZERnVhazlpLUdudVBDaFlhQmRPeGJnWnc4T0lHZ3FqZw?oc=5\" target=\"_blank\">신장식·최인호 회동서 종부세 논란 해명…“정부 입장 변화 없다” : 정치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxVTU5MmZsXzctRktrek5QTTFDY09VM3JHYzVlZ0l5X2VKTlZERnVhazlpLUdudVBDaFlhQmRPeGJnWnc4T0lHZ3FqZw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 05:47:48 GMT",
-        "source": "재경일보",
-        "ageHours": 13.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "de943c8eabd30f60ec5775951cc187f7ced0aef940a82ce2ff16682594bc0769",
@@ -2465,6 +2432,22 @@
         "pubDate": "Thu, 12 Nov 2026 19:04:30 GMT",
         "source": "The Washington Post",
         "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "eed6c80cb269d898d964f467468d7b658cb1561913abfd5408b695ebd06044ca",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Tells Mexico He’ll Double Tariffs If It Doesn’t Crack Down On Migrant Caravans - Forbes",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVVFOURORF9IM2VKSVNlYTFKZVZLWk5QMHJmQTJBM0l6UjRESElVQ0E3NndyYV90a2RydDRlYWdGd2RKLVJGNUx6c0c0eVJGWGY1UVBXQ0owU3Q4XzJ2RDhram1DSTJnVGRhX0dBQnVfdDltRXhXZlF3NlpGUEt5eWpveG1NczNvUmUxZVVFc25TSEdpc2dCSE9vZ3BHeXkzaFhQVVRhMmhIbExIN2VlaW1LZ19BS2MyOGZCOVBfMW9Tak1adXA0bU9uZkJKODNlTTVrX1FTNVpMQTQ?oc=5\" target=\"_blank\">Trump Tells Mexico He’ll Double Tariffs If It Doesn’t Crack Down On Migrant Caravans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVVFOURORF9IM2VKSVNlYTFKZVZLWk5QMHJmQTJBM0l6UjRESElVQ0E3NndyYV90a2RydDRlYWdGd2RKLVJGNUx6c0c0eVJGWGY1UVBXQ0owU3Q4XzJ2RDhram1DSTJnVGRhX0dBQnVfdDltRXhXZlF3NlpGUEt5eWpveG1NczNvUmUxZVVFc25TSEdpc2dCSE9vZ3BHeXkzaFhQVVRhMmhIbExIN2VlaW1LZ19BS2MyOGZCOVBfMW9Tak1adXA0bU9uZkJKODNlTTVrX1FTNVpMQTQ?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 15:53:11 GMT",
+        "source": "Forbes",
+        "ageHours": 3.8
       },
       "delivered": [],
       "archived": false

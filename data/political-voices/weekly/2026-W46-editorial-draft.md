@@ -1990,3 +1990,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식·최인호 국회 회동…종부세 논의 : 정치 - 재경일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식·최인호 국회 회동…종부세 논의 : 정치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HRC1MZHB4WnRaN0xhbmhtSkQzRkI1T2hjUmNCbmdHVTVSRlNZaXYzbVJiUGpIOVp2RkhYVHpCS1VWbkdFM2lPUGZsZw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, `언행 논란` 최민희 감찰조사 지시…`심각하게 인식` - 부산일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, `언행 논란` 최민희 감찰조사 지시…`심각하게 인식`
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTFB5LTRUMUFrTzZTYXdNd0R2aG9Za3JoeVNRRV9MaTlEa0lDLXFuaWpFeW5kbG5NWmJlbXZOWFpSdWVTb3VjZ29ETXF1aGRwNFBBa2I2RWIyaVZueW1TdXJmMjJYc1Y5SDZZX0Q2M2lnUVlnR0I4?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식·최인호 회동서 종부세 논란 해명…“정부 입장 변화 없다” : 정치 - 재경일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식·최인호 회동서 종부세 논란 해명…“정부 입장 변화 없다” : 정치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxVTU5MmZsXzctRktrek5QTTFDY09VM3JHYzVlZ0l5X2VKTlZERnVhazlpLUdudVBDaFlhQmRPeGJnWnc4T0lHZ3FqZw?oc=5)
+
+---
+
