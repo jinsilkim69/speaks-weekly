@@ -2603,5 +2603,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d1472b8be76cc6e90826e089478a80a2a8761e532e26002512c321f6b12ab98a",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "송영길, 소방안전교부세 재원 부족 시 국가예산에서 지원 추진 - 세정일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE56V2pXWWMzTjlnQXdUUWdyZ09BLWlWUm50ckg0S2dLQXNLNFVWYXA2aVhLcEpmMGpoQ2tXQ0dTbGMta3gtR0x0bzAyVzhscG5GYWdEdV9wSUMzS2ViS3pPTzhTQURrVG9abnkybw?oc=5\" target=\"_blank\">송영길, 소방안전교부세 재원 부족 시 국가예산에서 지원 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세정일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56V2pXWWMzTjlnQXdUUWdyZ09BLWlWUm50ckg0S2dLQXNLNFVWYXA2aVhLcEpmMGpoQ2tXQ0dTbGMta3gtR0x0bzAyVzhscG5GYWdEdV9wSUMzS2ViS3pPTzhTQURrVG9abnkybw?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 23:21:05 GMT",
+    "source": "세정일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길, 소방안전교부세 재원 부족 시 국가예산에서 지원 추진",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언",
+        "민생예산"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
