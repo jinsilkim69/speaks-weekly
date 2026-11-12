@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T15:41:17.739Z",
+  "lastCheckedAt": "2026-11-12T15:51:16.399Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2025,57 +2025,24 @@
       "seenAt": "2026-11-12T15:41:20.801Z",
       "title": "조국혁신당 \"청해부대 파견은 사실상 우회파병… 당론으로 반대\" - TV서울",
       "targetName": "조국"
+    },
+    "276c621bf174d599f5ed4ee06f566b51f4040757d85adc6c21dcb4b2a2ad1921": {
+      "seenAt": "2026-11-12T15:51:17.616Z",
+      "title": "신장식 \"당·정·청 엇박자 걱정\"…최인호 \"부동산 입장 후퇴 없어\" - 뉴시스",
+      "targetName": "신장식"
+    },
+    "465abc1bd4bb35d1f0f763dc05b5fac8c0f838eb54df003924bd612ad905b5d4": {
+      "seenAt": "2026-11-12T15:51:18.414Z",
+      "title": "신장식 “종부세 엇박자 우려”…최인호 “정부 입장 후퇴 없다” - 서울신문",
+      "targetName": "신장식"
+    },
+    "9b21dc8bffdb3e79d67eb6b71d24a3bf59d88414fd8097381c5dc79e737447bf": {
+      "seenAt": "2026-11-12T15:51:19.128Z",
+      "title": "신장식, 여권 정책 혼선 우려 전달…청와대 “부동산 정책 기조 변화 없어” - 서울뉴스통신",
+      "targetName": "신장식"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "276c621bf174d599f5ed4ee06f566b51f4040757d85adc6c21dcb4b2a2ad1921",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 \"당·정·청 엇박자 걱정\"…최인호 \"부동산 입장 후퇴 없어\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE44RWowUmhGZ1FJZy1abkY1SXJnRFgzTzZZWmJKUGN5aFZCc0t2THpBRDN3c1RrXzRSUU8zUUdmcGRUb0JkMUhkTzB2QTBuR2xBQm1zZ0piY0E1SG9yeU9Ya0hKb3NxNkstMW11MTgyZEZNV19yTmF5S9IBeEFVX3lxTE44RWowUmhGZ1FJZy1abkY1SXJnRFgzTzZZWmJKUGN5aFZCc0t2THpBRDN3c1RrXzRSUU8zUUdmcGRUb0JkMUhkTzB2QTBuR2xBQm1zZ0piY0E1SG9yeU9Ya0hKb3NxNkstMW11MTgyZEZNV19yTmF5Sw?oc=5\" target=\"_blank\">신장식 \"당·정·청 엇박자 걱정\"…최인호 \"부동산 입장 후퇴 없어\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44RWowUmhGZ1FJZy1abkY1SXJnRFgzTzZZWmJKUGN5aFZCc0t2THpBRDN3c1RrXzRSUU8zUUdmcGRUb0JkMUhkTzB2QTBuR2xBQm1zZ0piY0E1SG9yeU9Ya0hKb3NxNkstMW11MTgyZEZNV19yTmF5S9IBeEFVX3lxTE44RWowUmhGZ1FJZy1abkY1SXJnRFgzTzZZWmJKUGN5aFZCc0t2THpBRDN3c1RrXzRSUU8zUUdmcGRUb0JkMUhkTzB2QTBuR2xBQm1zZ0piY0E1SG9yeU9Ya0hKb3NxNkstMW11MTgyZEZNV19yTmF5Sw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 06:13:12 GMT",
-        "source": "뉴시스",
-        "ageHours": 5.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "465abc1bd4bb35d1f0f763dc05b5fac8c0f838eb54df003924bd612ad905b5d4",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 “종부세 엇박자 우려”…최인호 “정부 입장 후퇴 없다” - 서울신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE01YjZFT1R0bVBDRzFJaHQyTkRyR1RrTF8wUkZ3UnlyUEJ6RUROd0NBajNFeWNJdF9OZWNBcll6a2lPempwLUNFRHF6YkVDS0xQYUlMR3Rma2tfclotU2JtOWlONm5pY3hZbUZYZzUxUng?oc=5\" target=\"_blank\">신장식 “종부세 엇박자 우려”…최인호 “정부 입장 후퇴 없다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01YjZFT1R0bVBDRzFJaHQyTkRyR1RrTF8wUkZ3UnlyUEJ6RUROd0NBajNFeWNJdF9OZWNBcll6a2lPempwLUNFRHF6YkVDS0xQYUlMR3Rma2tfclotU2JtOWlONm5pY3hZbUZYZzUxUng?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 06:17:48 GMT",
-        "source": "서울신문",
-        "ageHours": 5.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "9b21dc8bffdb3e79d67eb6b71d24a3bf59d88414fd8097381c5dc79e737447bf",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식, 여권 정책 혼선 우려 전달…청와대 “부동산 정책 기조 변화 없어” - 서울뉴스통신",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5fRUpyWHk2aU1oVFh4T2FudU11eHJ3dkNxaG5aNzFVVXlmWWxXT0pwLXE2c2FUSUYxd2JDa05wM3pXV0NTZTdNRkdSU185YlZiWUtFUm5nWkU1QnRSSnd3ZkVObEM0dUdhZWxZ?oc=5\" target=\"_blank\">신장식, 여권 정책 혼선 우려 전달…청와대 “부동산 정책 기조 변화 없어”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울뉴스통신</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fRUpyWHk2aU1oVFh4T2FudU11eHJ3dkNxaG5aNzFVVXlmWWxXT0pwLXE2c2FUSUYxd2JDa05wM3pXV0NTZTdNRkdSU185YlZiWUtFUm5nWkU1QnRSSnd3ZkVObEM0dUdhZWxZ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 06:28:49 GMT",
-        "source": "서울뉴스통신",
-        "ageHours": 5.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "2b125a3d212f2bc7d4f1026c039777a036258664f4daaca8a43efcd44c04c5cb",
@@ -2856,6 +2823,38 @@
         "pubDate": "Thu, 12 Nov 2026 13:38:36 GMT",
         "source": "프레시안",
         "ageHours": 2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "0d90a828c78ccd8d71271069fd538381ead38fbe3a11d842cc82038939e44f60",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "몸 푸는 정청래, 어떤 깃발을 들까? - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBrUnNoRk4xbTZnSXZrVGJtQlB5LVd1c3QxcmZTTlRPMGgwNm5oMVJONjhFRHBpR0tiN1AyRjJnbEwyZUN0eWVEYl9XUVlJWlFheExxVm5CWnFIVEtTYzB4QWdhUHUyVWNYVmlZVGh4UTBSMW5YUmxN?oc=5\" target=\"_blank\">몸 푸는 정청래, 어떤 깃발을 들까?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrUnNoRk4xbTZnSXZrVGJtQlB5LVd1c3QxcmZTTlRPMGgwNm5oMVJONjhFRHBpR0tiN1AyRjJnbEwyZUN0eWVEYl9XUVlJWlFheExxVm5CWnFIVEtTYzB4QWdhUHUyVWNYVmlZVGh4UTBSMW5YUmxN?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 02:49:00 GMT",
+        "source": "OhmyNews",
+        "ageHours": 13
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f7b754eb0a99e1d24c0b440e8abeeb4266ed5abaa94a08b55e5c96fdb6d78a24",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan - KBAK",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEVXWW9uWkVIbDhXazlib0xibU1DY0dGZEl4eHVaQVdDcFlfMmVBUEZGdWV1R082c1dJOTVoXzNXTnBOaFBzZmlTN3FNLUdfSU0zbjJKTHRXS0txQTFvemtidnB1akxNS2hfSThsX3BhUUc1TGxhazA3Q19hbDFUZktXLVZsR2FPUUgyem9oeFNVWnh1c0VOYXF1ZVZBa0FlcGdnd01PS3V1OXZaYXRYbjZwVVJiNnFFYTdXQ1F5Y0lnNHgtWlMtQWZIa093UTQ?oc=5\" target=\"_blank\">Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBAK</font>",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEVXWW9uWkVIbDhXazlib0xibU1DY0dGZEl4eHVaQVdDcFlfMmVBUEZGdWV1R082c1dJOTVoXzNXTnBOaFBzZmlTN3FNLUdfSU0zbjJKTHRXS0txQTFvemtidnB1akxNS2hfSThsX3BhUUc1TGxhazA3Q19hbDFUZktXLVZsR2FPUUgyem9oeFNVWnh1c0VOYXF1ZVZBa0FlcGdnd01PS3V1OXZaYXRYbjZwVVJiNnFFYTdXQ1F5Y0lnNHgtWlMtQWZIa093UTQ?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 15:37:09 GMT",
+        "source": "KBAK",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false

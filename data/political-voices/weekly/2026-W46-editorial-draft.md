@@ -1093,3 +1093,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "당·정·청 엇박자 걱정"…최인호 "부동산 입장 후퇴 없어" - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "당·정·청 엇박자 걱정"…최인호 "부동산 입장 후퇴 없어"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE44RWowUmhGZ1FJZy1abkY1SXJnRFgzTzZZWmJKUGN5aFZCc0t2THpBRDN3c1RrXzRSUU8zUUdmcGRUb0JkMUhkTzB2QTBuR2xBQm1zZ0piY0E1SG9yeU9Ya0hKb3NxNkstMW11MTgyZEZNV19yTmF5S9IBeEFVX3lxTE44RWowUmhGZ1FJZy1abkY1SXJnRFgzTzZZWmJKUGN5aFZCc0t2THpBRDN3c1RrXzRSUU8zUUdmcGRUb0JkMUhkTzB2QTBuR2xBQm1zZ0piY0E1SG9yeU9Ya0hKb3NxNkstMW11MTgyZEZNV19yTmF5Sw?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 “종부세 엇박자 우려”…최인호 “정부 입장 후퇴 없다” - 서울신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 “종부세 엇박자 우려”…최인호 “정부 입장 후퇴 없다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE01YjZFT1R0bVBDRzFJaHQyTkRyR1RrTF8wUkZ3UnlyUEJ6RUROd0NBajNFeWNJdF9OZWNBcll6a2lPempwLUNFRHF6YkVDS0xQYUlMR3Rma2tfclotU2JtOWlONm5pY3hZbUZYZzUxUng?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식, 여권 정책 혼선 우려 전달…청와대 “부동산 정책 기조 변화 없어” - 서울뉴스통신
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식, 여권 정책 혼선 우려 전달…청와대 “부동산 정책 기조 변화 없어”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE5fRUpyWHk2aU1oVFh4T2FudU11eHJ3dkNxaG5aNzFVVXlmWWxXT0pwLXE2c2FUSUYxd2JDa05wM3pXV0NTZTdNRkdSU185YlZiWUtFUm5nWkU1QnRSSnd3ZkVObEM0dUdhZWxZ?oc=5)
+
+---
+
