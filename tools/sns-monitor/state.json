@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T19:41:15.396Z",
+  "lastCheckedAt": "2026-11-12T19:51:16.510Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2385,57 +2385,24 @@
       "seenAt": "2026-11-12T19:41:17.709Z",
       "title": "신장식·최인호 회동서 종부세 논란 해명…“정부 입장 변화 없다” : 정치 - 재경일보",
       "targetName": "신장식"
+    },
+    "de943c8eabd30f60ec5775951cc187f7ced0aef940a82ce2ff16682594bc0769": {
+      "seenAt": "2026-11-12T19:51:17.647Z",
+      "title": "Trump reapplies pressure on Senate Republicans ahead of Democratic takeover - The National Desk",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "78d75fba052a1026c1b67234f132f0d0700e1277ec9fdee024ed25063111dbcb": {
+      "seenAt": "2026-11-12T19:51:18.364Z",
+      "title": "김민석 \"정청래 만나 풀겠다\"…정청래 \"사과 권유는 2차 가해\" 반발 - 폴리뉴스 Polinews",
+      "targetName": "정청래"
+    },
+    "0a91461eeb610412216242dec751edbeb4c753778a16dfa630c1e6479c4d669e": {
+      "seenAt": "2026-11-12T19:51:19.018Z",
+      "title": "Trump says no deal needed with Iran, closes down Vance negotiations - The Washington Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "de943c8eabd30f60ec5775951cc187f7ced0aef940a82ce2ff16682594bc0769",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump reapplies pressure on Senate Republicans ahead of Democratic takeover - The National Desk",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQdXFRc2JiYW4xOWtSSkRFZkpOUkRrTUtORFk3V0xMS053MUl3dzRPVnhtMmkxR3dLZVIxaWh4azV6Yi1UYVdpVFhRN3lKcVhVLW5fYnAzNnZUR2FUWFVrRkZncDh2cm9qWnBlbmpkeXdqeDhIMW56cjR5OEFETDlySmttM0VJQmNhTkZ6cFdCQUY3SjF4MnpNbEoxR1JDdWVSdkJ4TVFvZGRjNFJkMTJGU3pNTDU3d05nTnQzbU9nbEhERG8zd1JBLWNQN1B2SklQbXlyUTFZaGdQREo1REliZEZLbHBkdEFXV1VYU2NDQUtvb1VtNDZYWUdTNjZfdUJs?oc=5\" target=\"_blank\">Trump reapplies pressure on Senate Republicans ahead of Democratic takeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Desk</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdXFRc2JiYW4xOWtSSkRFZkpOUkRrTUtORFk3V0xMS053MUl3dzRPVnhtMmkxR3dLZVIxaWh4azV6Yi1UYVdpVFhRN3lKcVhVLW5fYnAzNnZUR2FUWFVrRkZncDh2cm9qWnBlbmpkeXdqeDhIMW56cjR5OEFETDlySmttM0VJQmNhTkZ6cFdCQUY3SjF4MnpNbEoxR1JDdWVSdkJ4TVFvZGRjNFJkMTJGU3pNTDU3d05nTnQzbU9nbEhERG8zd1JBLWNQN1B2SklQbXlyUTFZaGdQREo1REliZEZLbHBkdEFXV1VYU2NDQUtvb1VtNDZYWUdTNjZfdUJs?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 17:48:11 GMT",
-        "source": "The National Desk",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "78d75fba052a1026c1b67234f132f0d0700e1277ec9fdee024ed25063111dbcb",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "김민석 \"정청래 만나 풀겠다\"…정청래 \"사과 권유는 2차 가해\" 반발 - 폴리뉴스 Polinews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE05U3JlM1E0alRDOXVMUEJwdGtEeWFDVThfWXpOanNVZFFMRlpBRUpZcTVEaHhXLXRkUGUtblpEQmJvQkpTeE5wWVJEU1hHcDRyVXVMLV9yOWlOMHhDZ0MtZ0pnOHJsS3VodFVhaVZn?oc=5\" target=\"_blank\">김민석 \"정청래 만나 풀겠다\"…정청래 \"사과 권유는 2차 가해\" 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">폴리뉴스 Polinews</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05U3JlM1E0alRDOXVMUEJwdGtEeWFDVThfWXpOanNVZFFMRlpBRUpZcTVEaHhXLXRkUGUtblpEQmJvQkpTeE5wWVJEU1hHcDRyVXVMLV9yOWlOMHhDZ0MtZ0pnOHJsS3VodFVhaVZn?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 06:41:02 GMT",
-        "source": "폴리뉴스 Polinews",
-        "ageHours": 12.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "0a91461eeb610412216242dec751edbeb4c753778a16dfa630c1e6479c4d669e",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump says no deal needed with Iran, closes down Vance negotiations - The Washington Post",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5\" target=\"_blank\">Trump says no deal needed with Iran, closes down Vance negotiations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 19:04:30 GMT",
-        "source": "The Washington Post",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "eed6c80cb269d898d964f467468d7b658cb1561913abfd5408b695ebd06044ca",

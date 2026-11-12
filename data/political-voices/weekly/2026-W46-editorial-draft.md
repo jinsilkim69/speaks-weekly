@@ -2029,3 +2029,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump reapplies pressure on Senate Republicans ahead of Democratic takeover - The National Desk
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump reapplies pressure on Senate Republicans ahead of Democratic takeover
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAJBVV95cUxQdXFRc2JiYW4xOWtSSkRFZkpOUkRrTUtORFk3V0xMS053MUl3dzRPVnhtMmkxR3dLZVIxaWh4azV6Yi1UYVdpVFhRN3lKcVhVLW5fYnAzNnZUR2FUWFVrRkZncDh2cm9qWnBlbmpkeXdqeDhIMW56cjR5OEFETDlySmttM0VJQmNhTkZ6cFdCQUY3SjF4MnpNbEoxR1JDdWVSdkJ4TVFvZGRjNFJkMTJGU3pNTDU3d05nTnQzbU9nbEhERG8zd1JBLWNQN1B2SklQbXlyUTFZaGdQREo1REliZEZLbHBkdEFXV1VYU2NDQUtvb1VtNDZYWUdTNjZfdUJs?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석 "정청래 만나 풀겠다"…정청래 "사과 권유는 2차 가해" 반발 - 폴리뉴스 Polinews
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "정청래 만나 풀겠다"…정청래 "사과 권유는 2차 가해" 반발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE05U3JlM1E0alRDOXVMUEJwdGtEeWFDVThfWXpOanNVZFFMRlpBRUpZcTVEaHhXLXRkUGUtblpEQmJvQkpTeE5wWVJEU1hHcDRyVXVMLV9yOWlOMHhDZ0MtZ0pnOHJsS3VodFVhaVZn?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says no deal needed with Iran, closes down Vance negotiations - The Washington Post
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says no deal needed with Iran, closes down Vance negotiations
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5)
+
+---
+
