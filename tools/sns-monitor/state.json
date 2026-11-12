@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T12:06:06.543Z",
+  "lastCheckedAt": "2026-11-12T12:12:14.959Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2742,6 +2742,54 @@
         "pubDate": "Thu, 12 Nov 2026 02:41:00 GMT",
         "source": "WWNY",
         "ageHours": 9.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "236b66d3cdef1d03be5b29891e81b0ada6cf526572af795bdf292ed90f04e01f",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈, 세무사 시험 의혹 꺼내더니 \"이게 AI 안경일까요?' #shorts - 오마이TV - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBrSW10Y3UzQ0dZeUdUWTJ2Q2F2OGg1REd0TWVVNFhFeFVCWTFkR2VKY2lDQ09FTkNZcFRCMng3ME9SNVJULWJ6V1dTZzN1dk5kMEZwVE9GMFFBMTg3Q19wZnVaZmJQUWxhSi1JejdDd0xlTWNmcU5fNU5PWDhLbTg?oc=5\" target=\"_blank\">한동훈, 세무사 시험 의혹 꺼내더니 \"이게 AI 안경일까요?' #shorts - 오마이TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrSW10Y3UzQ0dZeUdUWTJ2Q2F2OGg1REd0TWVVNFhFeFVCWTFkR2VKY2lDQ09FTkNZcFRCMng3ME9SNVJULWJ6V1dTZzN1dk5kMEZwVE9GMFFBMTg3Q19wZnVaZmJQUWxhSi1JejdDd0xlTWNmcU5fNU5PWDhLbTg?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 09:34:08 GMT",
+        "source": "OhmyNews",
+        "ageHours": 2.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "cc64d5a5f8d477f2a10e63e1f053e612bae92011fbe26e0b99414fde0658015c",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "국힘 윤리위원 \"張, 한동훈 조작징계\"…韓 \"징계 무효\" 주장 - 경북신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zampmUkhsS0NmdWU5RVBoM1NYS0U1OVVLOHdxaGJBbGVCWExCVjlidXZkTWd3bnNZX1FieVEyd3FmUGNsalgxQ2dnUGpKdjhaeW1KbmtIUTc?oc=5\" target=\"_blank\">국힘 윤리위원 \"張, 한동훈 조작징계\"…韓 \"징계 무효\" 주장</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zampmUkhsS0NmdWU5RVBoM1NYS0U1OVVLOHdxaGJBbGVCWExCVjlidXZkTWd3bnNZX1FieVEyd3FmUGNsalgxQ2dnUGpKdjhaeW1KbmtIUTc?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 05:12:52 GMT",
+        "source": "경북신문",
+        "ageHours": 7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5241d3ceb4da41cf4439da1f7fb51b880733a2a2fc94702cfbc92d6759b06b29",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "How Trump’s Truth Social Posts Moved Bitcoin, Stocks, and Oil in 2025 and 2026 - Cryptonews.net",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVU0ZUbUl1OGd2Slo4QmRxOWpwS1h3c2xyUVFEVG1pQlJZNDU0b1ZSSTdmLUFzRnpuNkZjQ0phaW4zMWkyUjB1ZG9mdDhrU0RraXU2dXdhRmkxejA?oc=5\" target=\"_blank\">How Trump’s Truth Social Posts Moved Bitcoin, Stocks, and Oil in 2025 and 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews.net</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVU0ZUbUl1OGd2Slo4QmRxOWpwS1h3c2xyUVFEVG1pQlJZNDU0b1ZSSTdmLUFzRnpuNkZjQ0phaW4zMWkyUjB1ZG9mdDhrU0RraXU2dXdhRmkxejA?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 12:10:09 GMT",
+        "source": "Cryptonews.net",
+        "ageHours": 0
       },
       "delivered": [],
       "archived": false
