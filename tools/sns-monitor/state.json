@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T14:41:17.609Z",
+  "lastCheckedAt": "2026-11-12T14:51:17.231Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -1935,57 +1935,24 @@
       "seenAt": "2026-11-12T14:41:20.391Z",
       "title": "‘신천지 수렁’ 민주…김민석 “대화로 해결” 정청래 “사과부터” - 한겨레",
       "targetName": "정청래"
+    },
+    "8990cc03074ba67134e2193b7141a2c1982777da771624e80326cd5e1cb7fb1a": {
+      "seenAt": "2026-11-12T14:51:18.319Z",
+      "title": "\"대화하자\" vs \"2차 가해\"…김민석·정청래 '신천지 갈등' 재점화 - KBC광주방송",
+      "targetName": "정청래"
+    },
+    "45fb261c78161cc76eb0679429d70d56ea2269e3389ba8b0744c477a21794e1c": {
+      "seenAt": "2026-11-12T14:51:19.054Z",
+      "title": "정청래, “대화” 김민석에 “방송서 요란하게 먼저 떠드는 것 아냐” - 중앙일보",
+      "targetName": "정청래"
+    },
+    "820016d47337e64e4e2e6a64430f0ac5e4101610f0418e28da999c38665d040f": {
+      "seenAt": "2026-11-12T14:51:19.685Z",
+      "title": "이준석 \"이 대통령 연락주면 20만호 즉시 공급 가능한 땅 알려주겠다\" - JTBC",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "8990cc03074ba67134e2193b7141a2c1982777da771624e80326cd5e1cb7fb1a",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "\"대화하자\" vs \"2차 가해\"…김민석·정청래 '신천지 갈등' 재점화 - KBC광주방송",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBldkRGZ1VSSFMyVFJiLVZVS2Y5R0d3NTBoekItcXdmRGU4d1NuSlhaYkJBRjJ4UG5MdDFRM2hIUThRQVhhTkZPQXhhTVVnN19UR29jOC1KaEtnOG1VMEozcg?oc=5\" target=\"_blank\">\"대화하자\" vs \"2차 가해\"…김민석·정청래 '신천지 갈등' 재점화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBldkRGZ1VSSFMyVFJiLVZVS2Y5R0d3NTBoekItcXdmRGU4d1NuSlhaYkJBRjJ4UG5MdDFRM2hIUThRQVhhTkZPQXhhTVVnN19UR29jOC1KaEtnOG1VMEozcg?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 02:21:07 GMT",
-        "source": "KBC광주방송",
-        "ageHours": 9.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "45fb261c78161cc76eb0679429d70d56ea2269e3389ba8b0744c477a21794e1c",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, “대화” 김민석에 “방송서 요란하게 먼저 떠드는 것 아냐” - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMMlQtRnZJYS01b3JGME9ha2VsMTJ4ODNYUi1MWk9Ic2xMalpoRUtSUmIwQzFQV2JHSzZmUlJtNUMtTl83cGdfeGNiXzdiWFkwR1dkdnlB?oc=5\" target=\"_blank\">정청래, “대화” 김민석에 “방송서 요란하게 먼저 떠드는 것 아냐”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMMlQtRnZJYS01b3JGME9ha2VsMTJ4ODNYUi1MWk9Ic2xMalpoRUtSUmIwQzFQV2JHSzZmUlJtNUMtTl83cGdfeGNiXzdiWFkwR1dkdnlB?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 01:11:21 GMT",
-        "source": "중앙일보",
-        "ageHours": 10.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "820016d47337e64e4e2e6a64430f0ac5e4101610f0418e28da999c38665d040f",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"이 대통령 연락주면 20만호 즉시 공급 가능한 땅 알려주겠다\" - JTBC",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zY0p4R3d5cVJDUzZINlFvRVN3Sk1BTzBUem9iTnpVTzNZcnBQbkFwcUd1Yk11VS1hcGhRaDhCeFU1c1dsRnlkOHN6VkpYQjQzdnc?oc=5\" target=\"_blank\">이준석 \"이 대통령 연락주면 20만호 즉시 공급 가능한 땅 알려주겠다\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zY0p4R3d5cVJDUzZINlFvRVN3Sk1BTzBUem9iTnpVTzNZcnBQbkFwcUd1Yk11VS1hcGhRaDhCeFU1c1dsRnlkOHN6VkpYQjQzdnc?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 02:42:27 GMT",
-        "source": "JTBC",
-        "ageHours": 9.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "46be76ec04c049da1bc06981608017e4bef89b77dbb25a621e68b04f4685e0d4",
@@ -2910,6 +2877,38 @@
         "pubDate": "Thu, 12 Nov 2026 01:23:29 GMT",
         "source": "MBC 뉴스",
         "ageHours": 13.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d7ad42dc5b86b5f6d6760acbc0c46009c4636ecb572d19071bc8721f093a4f9e",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "최민희 \"李대통령이 尹 탄핵 반대\"... 김민석, 崔 감찰조사 지시 - 조선일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3RuRDlQY1VqNnZKcjZPOEtEN0JzWHd1WHlmRkdYaGgtUjA2emZZRkxxQXZDWjFIa1BBSTBXaG9VOGpHNlBhMl9Ra29sc3l0NVZhWnh5YzhvbUNkdUVhX2pHd2V3Nl9DXzhLMUpVRHB1Ykx4UUZmZ1FYVk9iQXdHOXdZZW9SeE1H?oc=5\" target=\"_blank\">최민희 \"李대통령이 尹 탄핵 반대\"... 김민석, 崔 감찰조사 지시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3RuRDlQY1VqNnZKcjZPOEtEN0JzWHd1WHlmRkdYaGgtUjA2emZZRkxxQXZDWjFIa1BBSTBXaG9VOGpHNlBhMl9Ra29sc3l0NVZhWnh5YzhvbUNkdUVhX2pHd2V3Nl9DXzhLMUpVRHB1Ykx4UUZmZ1FYVk9iQXdHOXdZZW9SeE1H?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 12:04:46 GMT",
+        "source": "조선일보",
+        "ageHours": 2.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "8b94ae5d84882d706c951f416da8f01f26b6d0198fbd9a3e407718b2c9d99ecf",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "\"최민희와 한동훈, 이준석의 공통점은~\" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진 - 경향신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE00WFBVVnVOMDZ5LTdzQXVWalpiZ3d0VDNMakZ4WlhlZVY5elhGWEc1N3pVSmhTZG8yUlA0TWEtZVFwR2podmVjYjYtOW4teGNiNW82bXloT0pZR1BLblByMFN3?oc=5\" target=\"_blank\">\"최민희와 한동훈, 이준석의 공통점은~\" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00WFBVVnVOMDZ5LTdzQXVWalpiZ3d0VDNMakZ4WlhlZVY5elhGWEc1N3pVSmhTZG8yUlA0TWEtZVFwR2podmVjYjYtOW4teGNiNW82bXloT0pZR1BLblByMFN3?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 13:00:21 GMT",
+        "source": "경향신문",
+        "ageHours": 1.8
       },
       "delivered": [],
       "archived": false
