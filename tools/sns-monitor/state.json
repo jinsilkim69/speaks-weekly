@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T18:31:16.956Z",
+  "lastCheckedAt": "2026-11-12T18:41:16.643Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2280,57 +2280,24 @@
       "seenAt": "2026-11-12T18:31:19.499Z",
       "title": "김민석 대화로 풀어가자는데 정청래 “합의 강요는 2차 가해” [이런뉴스] - KBS 뉴스",
       "targetName": "정청래"
+    },
+    "cbd12ac422ba7c5f4f4bf8d414d398f5b030bbb90139f5f26ef2769153ed9615": {
+      "seenAt": "2026-11-12T18:41:17.770Z",
+      "title": "조국혁신당 \"청해부대 작전구역 확대, 당론 반대\"…본회의 반대투표 예고 - 프레시안",
+      "targetName": "조국"
+    },
+    "0d90a828c78ccd8d71271069fd538381ead38fbe3a11d842cc82038939e44f60": {
+      "seenAt": "2026-11-12T18:41:18.434Z",
+      "title": "몸 푸는 정청래, 어떤 깃발을 들까? - OhmyNews",
+      "targetName": "정청래"
+    },
+    "f7b754eb0a99e1d24c0b440e8abeeb4266ed5abaa94a08b55e5c96fdb6d78a24": {
+      "seenAt": "2026-11-12T18:41:19.100Z",
+      "title": "Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan - KBAK",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "cbd12ac422ba7c5f4f4bf8d414d398f5b030bbb90139f5f26ef2769153ed9615",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 \"청해부대 작전구역 확대, 당론 반대\"…본회의 반대투표 예고 - 프레시안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5uU253T0VVendCczh0LVhHUlc5WEk5clRUWmk1REZudHM1ODA0SVpJZHdIbGVsX196RG9MZWJaYzRpblpXakFWNUpmcmVxRHg4TVdwQTdYWDZ4NGNXQnlicHZhZU84aTNBSVFj?oc=5\" target=\"_blank\">조국혁신당 \"청해부대 작전구역 확대, 당론 반대\"…본회의 반대투표 예고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uU253T0VVendCczh0LVhHUlc5WEk5clRUWmk1REZudHM1ODA0SVpJZHdIbGVsX196RG9MZWJaYzRpblpXakFWNUpmcmVxRHg4TVdwQTdYWDZ4NGNXQnlicHZhZU84aTNBSVFj?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 13:38:36 GMT",
-        "source": "프레시안",
-        "ageHours": 2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "0d90a828c78ccd8d71271069fd538381ead38fbe3a11d842cc82038939e44f60",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "몸 푸는 정청래, 어떤 깃발을 들까? - OhmyNews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBrUnNoRk4xbTZnSXZrVGJtQlB5LVd1c3QxcmZTTlRPMGgwNm5oMVJONjhFRHBpR0tiN1AyRjJnbEwyZUN0eWVEYl9XUVlJWlFheExxVm5CWnFIVEtTYzB4QWdhUHUyVWNYVmlZVGh4UTBSMW5YUmxN?oc=5\" target=\"_blank\">몸 푸는 정청래, 어떤 깃발을 들까?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrUnNoRk4xbTZnSXZrVGJtQlB5LVd1c3QxcmZTTlRPMGgwNm5oMVJONjhFRHBpR0tiN1AyRjJnbEwyZUN0eWVEYl9XUVlJWlFheExxVm5CWnFIVEtTYzB4QWdhUHUyVWNYVmlZVGh4UTBSMW5YUmxN?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 02:49:00 GMT",
-        "source": "OhmyNews",
-        "ageHours": 13
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f7b754eb0a99e1d24c0b440e8abeeb4266ed5abaa94a08b55e5c96fdb6d78a24",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan - KBAK",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEVXWW9uWkVIbDhXazlib0xibU1DY0dGZEl4eHVaQVdDcFlfMmVBUEZGdWV1R082c1dJOTVoXzNXTnBOaFBzZmlTN3FNLUdfSU0zbjJKTHRXS0txQTFvemtidnB1akxNS2hfSThsX3BhUUc1TGxhazA3Q19hbDFUZktXLVZsR2FPUUgyem9oeFNVWnh1c0VOYXF1ZVZBa0FlcGdnd01PS3V1OXZaYXRYbjZwVVJiNnFFYTdXQ1F5Y0lnNHgtWlMtQWZIa093UTQ?oc=5\" target=\"_blank\">Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBAK</font>",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEVXWW9uWkVIbDhXazlib0xibU1DY0dGZEl4eHVaQVdDcFlfMmVBUEZGdWV1R082c1dJOTVoXzNXTnBOaFBzZmlTN3FNLUdfSU0zbjJKTHRXS0txQTFvemtidnB1akxNS2hfSThsX3BhUUc1TGxhazA3Q19hbDFUZktXLVZsR2FPUUgyem9oeFNVWnh1c0VOYXF1ZVZBa0FlcGdnd01PS3V1OXZaYXRYbjZwVVJiNnFFYTdXQ1F5Y0lnNHgtWlMtQWZIa093UTQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 15:37:09 GMT",
-        "source": "KBAK",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "24466a1746907e520a90f36e3971fb82860c2e3c4664793fb13bfcda4bf04013",

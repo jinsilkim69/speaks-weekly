@@ -1756,3 +1756,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 "청해부대 작전구역 확대, 당론 반대"…본회의 반대투표 예고 - 프레시안
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 "청해부대 작전구역 확대, 당론 반대"…본회의 반대투표 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE5uU253T0VVendCczh0LVhHUlc5WEk5clRUWmk1REZudHM1ODA0SVpJZHdIbGVsX196RG9MZWJaYzRpblpXakFWNUpmcmVxRHg4TVdwQTdYWDZ4NGNXQnlicHZhZU84aTNBSVFj?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 몸 푸는 정청래, 어떤 깃발을 들까? - OhmyNews
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 몸 푸는 정청래, 어떤 깃발을 들까?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTFBrUnNoRk4xbTZnSXZrVGJtQlB5LVd1c3QxcmZTTlRPMGgwNm5oMVJONjhFRHBpR0tiN1AyRjJnbEwyZUN0eWVEYl9XUVlJWlFheExxVm5CWnFIVEtTYzB4QWdhUHUyVWNYVmlZVGh4UTBSMW5YUmxN?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan - KBAK
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEVXWW9uWkVIbDhXazlib0xibU1DY0dGZEl4eHVaQVdDcFlfMmVBUEZGdWV1R082c1dJOTVoXzNXTnBOaFBzZmlTN3FNLUdfSU0zbjJKTHRXS0txQTFvemtidnB1akxNS2hfSThsX3BhUUc1TGxhazA3Q19hbDFUZktXLVZsR2FPUUgyem9oeFNVWnh1c0VOYXF1ZVZBa0FlcGdnd01PS3V1OXZaYXRYbjZwVVJiNnFFYTdXQ1F5Y0lnNHgtWlMtQWZIa093UTQ?oc=5)
+
+---
+
