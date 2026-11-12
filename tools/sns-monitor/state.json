@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T19:11:15.997Z",
+  "lastCheckedAt": "2026-11-12T19:21:17.491Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2340,57 +2340,24 @@
       "seenAt": "2026-11-12T19:11:18.345Z",
       "title": "Trump pulls Vance off Iran - Politico",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "517b1aba864f312949a7f630d54028979da9cb9e6a4a00b7ce8f79fa506d1546": {
+      "seenAt": "2026-11-12T19:21:18.908Z",
+      "title": "이준석 \"한동훈, 당원 게시판 작성자 빨리 밝혀야\" - 뉴시스",
+      "targetName": "이준석"
+    },
+    "be92df24b217f687578d151877130df0ca2892929689bb4e9dd0aacbe58dd604": {
+      "seenAt": "2026-11-12T19:21:19.681Z",
+      "title": "Trump orders Vance to focus on \"corruption\" in Democrat-run areas, not Iran - Axios",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "1b758c00bfc6d43896e490bca2dec0a6ad465857a21d1e51a23f4dc70f814544": {
+      "seenAt": "2026-11-12T19:21:20.380Z",
+      "title": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "517b1aba864f312949a7f630d54028979da9cb9e6a4a00b7ce8f79fa506d1546",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"한동훈, 당원 게시판 작성자 빨리 밝혀야\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOd1JxVFZsbFhFNTdIWnh0U2RHOXJORjJ0UFV4N2Q5NWxZSkJsWjNvSV9pQ0JfOGxNVk9PTVlweGMxZmdGWFJKaU5UbWRjbktSY0RwUi1tSTd0Smh4T1V1UNIBeEFVX3lxTE5TR01vWHF0SGk4cUN1Nmpwa1BEZmREN3pIcnpPdHhRZHNXY3JNQ1RzUXFBTFNTSzMxdWpfcDdRcVdySUNxbElHdk9HdnVpZlVuZVRhdW9NSmtzSEZSa1Q5Y1ZfRmU2eG9lQ0tOMXh3VWVsOVpUcGVrSA?oc=5\" target=\"_blank\">이준석 \"한동훈, 당원 게시판 작성자 빨리 밝혀야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOd1JxVFZsbFhFNTdIWnh0U2RHOXJORjJ0UFV4N2Q5NWxZSkJsWjNvSV9pQ0JfOGxNVk9PTVlweGMxZmdGWFJKaU5UbWRjbktSY0RwUi1tSTd0Smh4T1V1UNIBeEFVX3lxTE5TR01vWHF0SGk4cUN1Nmpwa1BEZmREN3pIcnpPdHhRZHNXY3JNQ1RzUXFBTFNTSzMxdWpfcDdRcVdySUNxbElHdk9HdnVpZlVuZVRhdW9NSmtzSEZSa1Q5Y1ZfRmU2eG9lQ0tOMXh3VWVsOVpUcGVrSA?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 02:40:00 GMT",
-        "source": "뉴시스",
-        "ageHours": 14.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "be92df24b217f687578d151877130df0ca2892929689bb4e9dd0aacbe58dd604",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump orders Vance to focus on \"corruption\" in Democrat-run areas, not Iran - Axios",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBVb1gtMkRDeHpTaFpaWTJiT01JTEFtMEItb3gyY0ZEX2RLZ0N2ZURlOEs5TGhqYlVRSXd5SEhfXzV1UlZ2MFFyUnd6aVVocF81dXF5c25pcktfZVVNY01Nc1poS1VwTXFVSWhrNk11QjBMRllsaE40LTMydw?oc=5\" target=\"_blank\">Trump orders Vance to focus on \"corruption\" in Democrat-run areas, not Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVb1gtMkRDeHpTaFpaWTJiT01JTEFtMEItb3gyY0ZEX2RLZ0N2ZURlOEs5TGhqYlVRSXd5SEhfXzV1UlZ2MFFyUnd6aVVocF81dXF5c25pcktfZVVNY01Nc1poS1VwTXFVSWhrNk11QjBMRllsaE40LTMydw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 14:50:02 GMT",
-        "source": "Axios",
-        "ageHours": 2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "1b758c00bfc6d43896e490bca2dec0a6ad465857a21d1e51a23f4dc70f814544",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5\" target=\"_blank\">Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 16:16:00 GMT",
-        "source": "USA Today",
-        "ageHours": 1.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "485faaa8aeb0de0190780549efc53f53b6b6f2256ba512c22fca45255ee2cc4d",
@@ -2499,6 +2466,22 @@
         "pubDate": "Thu, 12 Nov 2026 17:48:11 GMT",
         "source": "The National Desk",
         "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "78d75fba052a1026c1b67234f132f0d0700e1277ec9fdee024ed25063111dbcb",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "김민석 \"정청래 만나 풀겠다\"…정청래 \"사과 권유는 2차 가해\" 반발 - 폴리뉴스 Polinews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE05U3JlM1E0alRDOXVMUEJwdGtEeWFDVThfWXpOanNVZFFMRlpBRUpZcTVEaHhXLXRkUGUtblpEQmJvQkpTeE5wWVJEU1hHcDRyVXVMLV9yOWlOMHhDZ0MtZ0pnOHJsS3VodFVhaVZn?oc=5\" target=\"_blank\">김민석 \"정청래 만나 풀겠다\"…정청래 \"사과 권유는 2차 가해\" 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">폴리뉴스 Polinews</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05U3JlM1E0alRDOXVMUEJwdGtEeWFDVThfWXpOanNVZFFMRlpBRUpZcTVEaHhXLXRkUGUtblpEQmJvQkpTeE5wWVJEU1hHcDRyVXVMLV9yOWlOMHhDZ0MtZ0pnOHJsS3VodFVhaVZn?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 06:41:02 GMT",
+        "source": "폴리뉴스 Polinews",
+        "ageHours": 12.7
       },
       "delivered": [],
       "archived": false

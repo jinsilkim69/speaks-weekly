@@ -1912,3 +1912,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "한동훈, 당원 게시판 작성자 빨리 밝혀야" - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "한동훈, 당원 게시판 작성자 빨리 밝혀야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOd1JxVFZsbFhFNTdIWnh0U2RHOXJORjJ0UFV4N2Q5NWxZSkJsWjNvSV9pQ0JfOGxNVk9PTVlweGMxZmdGWFJKaU5UbWRjbktSY0RwUi1tSTd0Smh4T1V1UNIBeEFVX3lxTE5TR01vWHF0SGk4cUN1Nmpwa1BEZmREN3pIcnpPdHhRZHNXY3JNQ1RzUXFBTFNTSzMxdWpfcDdRcVdySUNxbElHdk9HdnVpZlVuZVRhdW9NSmtzSEZSa1Q5Y1ZfRmU2eG9lQ0tOMXh3VWVsOVpUcGVrSA?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump orders Vance to focus on "corruption" in Democrat-run areas, not Iran - Axios
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump orders Vance to focus on "corruption" in Democrat-run areas, not Iran
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTFBVb1gtMkRDeHpTaFpaWTJiT01JTEFtMEItb3gyY0ZEX2RLZ0N2ZURlOEs5TGhqYlVRSXd5SEhfXzV1UlZ2MFFyUnd6aVVocF81dXF5c25pcktfZVVNY01Nc1poS1VwTXFVSWhrNk11QjBMRllsaE40LTMydw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5)
+
+---
+
