@@ -2120,3 +2120,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** “친일재산국가귀속법 시행령 보완해야”…조국혁신당‧광복회 공감대 - 충북인뉴스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “친일재산국가귀속법 시행령 보완해야”…조국혁신당‧광복회 공감대
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1xb3R2YzhuSE1LS0psc0RfbmU5Znh1REp0Z1dMVVh1TldUSnkxaFdUb2hLZi1SaUpIOXNuQlRpTUQ4Mlg0SkQxeHFOZmdLdl93eS1lalJlZjdxTVRrZG5jbS1ib09jNkZJYmUtedIBcEFVX3lxTFBmdUdwR3RIcW1YeEprQmRvM3p2OTZmZ1E1Q2NZa2VMY1RRVHNtQ2lTVTcwaVBUbmpFMUhMUHdhZXVhREpzbC1ZMzFrQjdNLTN6YU52VnNjZ3BFMW12dDdfYzY4M3dJQ3VmX1VyajQ2TXg?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Raging Trump forgets he’s still the boss with TV-led post on ‘huge CARAVANS’ from Mexico - The Independent
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Raging Trump forgets he’s still the boss with TV-led post on ‘huge CARAVANS’ from Mexico
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMitgFBVV95cUxOeVQ2QjJxRGlzdGp4TlNtNzh3cnQ0d2p6YjRMZFFvOHZ1MExCOTVHVTJCMjk2RDhYTV9tZzg5VkpYb2pWMmw5VGRDSWtIME8wVm14SzNMVmg2V19EeWtrek15YnY1WTRVcDJaWURZdl9INzN5WFg4czRfUFRfWlMyakR4OVdmdE5faVc1bHFBeUFVdzRJT0pXZEtEUlQ4M251Wjc3Y0ttaFZ5dVZnb2FtbEpkQmkzUQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump renews calls for $350B military funding package as GOP faces ticking clock - Politico
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump renews calls for $350B military funding package as GOP faces ticking clock
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjh0RE9tY1BpX2IzMFdIYWIxQnpkNUxrbFZpTnpHMFRHajk4MDE2bXYyUFFuNHJLbGtHQ3VQQ3RCaTdYb21tcDZEQ0EwcTVuTGNjSjJRR3E4M0NyeklBSlh0NTBsc2ctRXhQVmlXVy1FMFFMTFpqY2VWODRUckU4Y2N4ei1JbElQUmN6VjRIVkI?oc=5)
+
+---
+
