@@ -2553,5 +2553,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "2053f31fcabb41e7690709bcbf93a7fee1fad74d3845a488428b684536b6bced",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "최인호 정무수석, 신장식 대표 예방 - 연합뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ua05xUDdfVDcyUHhZa3Vkdk9UMnZuWWpJdjlsSVZnYl9fTUEzeTBXNlJBaHlRTmR1c0lSR3ZCLTl6QVdVM1ZwLU5zaXRndXJPaThYa0RuTmc2SDDSAWBBVV95cUxOV2dRUTdtcDVFWjR0V1RXeUdVR2lXS3ZkbjZvNzR6c0hZYkRkOERoX2s3ck82dVk4SFp5SW4wRVlWbnA5S2tGUkF6TDJDaTRpTWJzQnl3d3ZsSzRPR01qWGw?oc=5\" target=\"_blank\">최인호 정무수석, 신장식 대표 예방</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ua05xUDdfVDcyUHhZa3Vkdk9UMnZuWWpJdjlsSVZnYl9fTUEzeTBXNlJBaHlRTmR1c0lSR3ZCLTl6QVdVM1ZwLU5zaXRndXJPaThYa0RuTmc2SDDSAWBBVV95cUxOV2dRUTdtcDVFWjR0V1RXeUdVR2lXS3ZkbjZvNzR6c0hZYkRkOERoX2s3ck82dVk4SFp5SW4wRVlWbnA5S2tGUkF6TDJDaTRpTWJzQnl3d3ZsSzRPR01qWGw?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 05:01:50 GMT",
+    "source": "연합뉴스",
+    "ageHours": 17.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 최인호 정무수석, 신장식 대표 예방",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

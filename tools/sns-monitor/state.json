@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T22:41:17.722Z",
+  "lastCheckedAt": "2026-11-12T22:51:16.203Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2460,6 +2460,11 @@
       "seenAt": "2026-11-12T22:31:17.876Z",
       "title": "Trump says ‘we don’t need a deal with Iran’ - CNBC",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "2053f31fcabb41e7690709bcbf93a7fee1fad74d3845a488428b684536b6bced": {
+      "seenAt": "2026-11-12T22:51:17.202Z",
+      "title": "최인호 정무수석, 신장식 대표 예방 - 연합뉴스",
+      "targetName": "신장식"
     }
   },
   "pending": []
