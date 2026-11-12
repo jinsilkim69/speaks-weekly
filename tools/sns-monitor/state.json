@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T12:12:14.959Z",
+  "lastCheckedAt": "2026-11-12T12:35:38.708Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -1831,7 +1831,9 @@
         "source": "창업일보",
         "ageHours": 8
       },
-      "delivered": [],
+      "delivered": [
+        "7feb08519b5a3fb6ed164637254ee2b714d6a2d9ee36ef370074d084638ccc5a"
+      ],
       "archived": false
     },
     {
@@ -1847,7 +1849,9 @@
         "source": "시사타파NEWS",
         "ageHours": 10.6
       },
-      "delivered": [],
+      "delivered": [
+        "7feb08519b5a3fb6ed164637254ee2b714d6a2d9ee36ef370074d084638ccc5a"
+      ],
       "archived": false
     },
     {
@@ -1863,7 +1867,9 @@
         "source": "에너지경제신문",
         "ageHours": 6.5
       },
-      "delivered": [],
+      "delivered": [
+        "7feb08519b5a3fb6ed164637254ee2b714d6a2d9ee36ef370074d084638ccc5a"
+      ],
       "archived": false
     },
     {
@@ -2790,6 +2796,54 @@
         "pubDate": "Thu, 12 Nov 2026 12:10:09 GMT",
         "source": "Cryptonews.net",
         "ageHours": 0
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "0f24ca93ca484e3e9baf1c46b459fe6bdb8cfe2103b852dbf4da58afeafcf3cc",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "\"김민석은 킬 패스 담당, 대통령이 골 넣도록 도와야\" #shorts - 오마이TV - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBnWFhob2JYSm41RDc4Z2dpUzRldzRqLXdSZ0ltVmVtR1k4N0FORzRQR3NTamxjRm80allWVEIyQjhMc3Y2ekctLXRIcDdtNXZTRGRSeDlkRkNkdENrZWF6TzRUQjU0MW1tSF9nc3JNN09JRm1vbDVpUVp1djhWX28?oc=5\" target=\"_blank\">\"김민석은 킬 패스 담당, 대통령이 골 넣도록 도와야\" #shorts - 오마이TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnWFhob2JYSm41RDc4Z2dpUzRldzRqLXdSZ0ltVmVtR1k4N0FORzRQR3NTamxjRm80allWVEIyQjhMc3Y2ekctLXRIcDdtNXZTRGRSeDlkRkNkdENrZWF6TzRUQjU0MW1tSF9nc3JNN09JRm1vbDVpUVp1djhWX28?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 08:35:52 GMT",
+        "source": "OhmyNews",
+        "ageHours": 4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "37331ba02d459d04b15d91e620ad50a01cd590ccb639ff56fa1d2ec5f192a2bb",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당 최고위원회 - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrWlBBSHJFSXVTdGt6UUNDTE1kT0p4bUd0RnA0NXBncVBLYjN2UDlKeGl4ZGJNeVNueHliSkpvYVlLWGZDQ211Wm9kZkNDTDlvWlBpbDhlZ0hhODk4d2lpRg?oc=5\" target=\"_blank\">조국혁신당 최고위원회</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrWlBBSHJFSXVTdGt6UUNDTE1kT0p4bUd0RnA0NXBncVBLYjN2UDlKeGl4ZGJNeVNueHliSkpvYVlLWGZDQ211Wm9kZkNDTDlvWlBpbDhlZ0hhODk4d2lpRg?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 00:52:23 GMT",
+        "source": "뉴시스",
+        "ageHours": 11.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ce1458b77160ce86ad850e2a77f57ebd3d078bbc422d5feca271ac3dbc83f394",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Truth Social post attempting to big up his accomplishments backfired instantly - Indy100",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1YjdIZ25NRlFrOFhOdGNEeXJKekxsdVZSblRDbG9zczA3Z2VHYjRMX2IxQ01uVjF4d3kwS3VJbnAyNkNMZXJ5aWZXM1ZndTM1R0ZrU1Vtd2xSQldoRDl0X285QzdDc3BCcTRRVmt0Z1NFUUMya2pya2R0akE4UEU?oc=5\" target=\"_blank\">Trump Truth Social post attempting to big up his accomplishments backfired instantly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indy100</font>",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1YjdIZ25NRlFrOFhOdGNEeXJKekxsdVZSblRDbG9zczA3Z2VHYjRMX2IxQ01uVjF4d3kwS3VJbnAyNkNMZXJ5aWZXM1ZndTM1R0ZrU1Vtd2xSQldoRDl0X285QzdDc3BCcTRRVmt0Z1NFUUMya2pya2R0akE4UEU?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 12:12:14 GMT",
+        "source": "Indy100",
+        "ageHours": 0.4
       },
       "delivered": [],
       "archived": false
