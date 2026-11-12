@@ -27,7 +27,7 @@ export async function archivePoliticalPosts(posts) {
   if (!posts || posts.length === 0) return;
 
   const now = new Date();
-  const dateStr = now.toISOString().split('T')[0]; // YYYY-MM-DD
+  const dateStr = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit' }).format(now);
   const monthStr = dateStr.substring(0, 7); // YYYY-MM
   const weekStr = getIsoWeek(now); // YYYY-Www
 
@@ -57,7 +57,7 @@ export async function archivePoliticalPosts(posts) {
   for (const post of posts) {
     const analysis = post.analysis || {};
     const bullets = (analysis.summaryPoints || []).map(p => `  - ${p}`).join('\n');
-    dailyMd += `### [${post.targetName} ${post.targetTitle}] ${post.title}\n`;
+    dailyMd += `### [${post.targetName} · 직함 확인 필요] ${post.title}\n`;
     dailyMd += `- **시각**: ${new Date().toLocaleTimeString('ko-KR')}\n`;
     dailyMd += `- **출처**: ${post.source || 'SNS / 속보'}\n`;
     dailyMd += `- **원문 링크**: [바로가기](${post.link})\n`;
@@ -70,14 +70,14 @@ export async function archivePoliticalPosts(posts) {
   let weeklyMd = fs.existsSync(weeklyMdFile)
     ? fs.readFileSync(weeklyMdFile, 'utf8')
     : `# 『주간 스픽스』 Part 1. 스픽스 레이다 — 금주의 결정적 발언록 (${weekStr})\n` +
-      `> 원천 데이터: 정치인 10인 실시간 SNS(페이스북·X·트루스소셜) 수집 및 AI 심층 분석 아카이브\n\n`;
+      `> 원천 데이터: 뉴스 검색 후보. 발언 원문·날짜·직함·맥락 별도 검증 필요.\n\n`;
 
   for (const post of posts) {
     const analysis = post.analysis || {};
     const impact = analysis.impact ? `*“${analysis.impact}”*` : '';
-    weeklyMd += `## [정치인의 말] ${post.targetName} (${post.targetTitle})\n`;
-    weeklyMd += `> **"${post.title}"**\n\n`;
-    weeklyMd += `- **발언 일시**: ${dateStr}\n`;
+    weeklyMd += `## [검색 후보] ${post.targetName} (직함 확인 필요)\n`;
+    weeklyMd += `**기사 제목:** ${post.title}\n\n`;
+    weeklyMd += `- **수집일**: ${dateStr} (발언일 별도 확인)\n`;
     weeklyMd += `- **쟁점 맥락**: ${impact}\n`;
     if (analysis.summaryPoints && analysis.summaryPoints.length > 0) {
       weeklyMd += `- **심층 해설**:\n`;

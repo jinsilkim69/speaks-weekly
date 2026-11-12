@@ -1,5 +1,9 @@
 name: Politician SNS Radar 24/7 Monitor
 
+concurrency:
+  group: politician-sns-radar
+  cancel-in-progress: false
+
 on:
   schedule:
     # 10분마다 클라우드에서 자동 실행 (내 컴퓨터가 꺼져 있어도 작동)
@@ -23,16 +27,17 @@ jobs:
 
       - name: 10대 정치인 SNS 실시간 발언 수집 & 텔레그램 발송 & 주간지 아카이빙
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || '9047714103:AAGZG9y7wUs9y2gksyBcYXmNuMER83BF5no' }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || '8629521591' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           node tools/sns-monitor/run.mjs
 
       - name: 주간지 아카이브(data/political-voices/) & 캐시 커밋 & 푸시
+        if: always()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add tools/sns-monitor/state.json data/political-voices/
           git commit -m "chore: archive politician sns speeches for weekly magazine [skip ci]" || echo "변경 사항 없음"
-          git push || echo "동시성 충돌 무시"
+          git push

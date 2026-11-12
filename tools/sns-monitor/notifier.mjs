@@ -17,12 +17,12 @@ export async function sendTelegramNotification(botToken, subscribers, post) {
   const messageText = `
 🚨 <b>[정치인 SNS 레이더 속보]</b>
 
-👤 <b>인물:</b> ${post.targetName} (${post.targetTitle})
+👤 <b>검색 대상:</b> ${escapeHtml(post.targetName)} (직함 확인 필요)
 📅 <b>시각:</b> ${new Date().toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' })}
 📰 <b>출처:</b> ${post.source || 'SNS / 속보'}
 
 ━━━━━━━━━━━━━━━━━━━━
-📢 <b>핵심 발언 / 쟁점</b>
+📢 <b>미확인 뉴스 검색 후보</b>
 <b>${escapeHtml(post.title)}</b>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -55,10 +55,10 @@ ${escapeHtml(bullets)}
       });
 
       const data = await res.json();
-      if (data.ok) {
+      if (res.ok && data.ok) {
         sentCount++;
       } else {
-        console.warn(`[발송 실패] ${sub.name}(${sub.chatId}): ${data.description}`);
+        console.warn('[발송 실패] 텔레그램 API 요청을 확인하세요.');
       }
     } catch (err) {
       console.error(`[네트워크 에러] ${sub.name}:`, err.message);

@@ -8,6 +8,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { createHash } from 'node:crypto';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -47,8 +48,7 @@ export async function collectTargetPosts(target) {
     });
 
     if (!res.ok) {
-      console.warn(`[수집 경고] ${target.name} 응답 코드: ${res.status}`);
-      return posts;
+      throw new Error(`검색 응답 HTTP ${res.status}`);
     }
 
     const xml = await res.text();
@@ -95,7 +95,7 @@ export async function collectTargetPosts(target) {
 
       if (isPoliticalStatement) {
         posts.push({
-          id: Buffer.from(title).toString('base64').substring(0, 32),
+          id: createHash('sha256').update(target.id + '|' + link).digest('hex'),
           targetId: target.id,
           targetName: target.name,
           targetTitle: target.title,
@@ -109,7 +109,7 @@ export async function collectTargetPosts(target) {
       }
     }
   } catch (err) {
-    console.error(`[수집 에러] ${target.name}:`, err.message);
+    throw new Error(`수집 실패 (${target.name}): ${err.message}`);
   }
 
   return posts;
@@ -131,11 +131,7 @@ export async function collectAllNewPosts(config, state) {
     for (const post of posts) {
       if (!seenMap[post.id]) {
         newPosts.push(post);
-        seenMap[post.id] = {
-          seenAt: new Date().toISOString(),
-          title: post.title,
-          targetName: post.targetName
-        };
+        // 수집만으로 발송 완료 처리하지 않는다. 실행기가 대기열에 저장한다.
       }
     }
   }

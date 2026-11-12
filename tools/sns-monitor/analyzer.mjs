@@ -56,9 +56,9 @@ export async function analyzePoliticalPost(post, geminiApiKey = null) {
   // 2. 내장 스마트 휴리스틱 분석기 (API 키가 없어도 100% 동작)
   const cleanTitle = post.title.replace(/\[.*?\]/g, '').replace(/ - .*$/, '').trim();
   const summaryPoints = [
-    `📌 [핵심 발언] ${cleanTitle}`,
-    `🏛️ [소속/직함] ${post.targetName} ${post.targetTitle}의 공식 입장 표명`,
-    `⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화`
+    `📰 [검색 후보] ${cleanTitle}`,
+    `🔎 발언 원문·작성일과 당시 직함 확인 필요`,
+    `⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음`
   ];
 
   const keywords = [post.targetName, '정치속보', 'SNS발언'];
@@ -71,7 +71,7 @@ export async function analyzePoliticalPost(post, geminiApiKey = null) {
     analysis: {
       summaryPoints,
       keywords,
-      impact: `${post.targetName} 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.`
+      impact: '추가 출처 및 맥락 확인 필요'
     }
   };
 }
