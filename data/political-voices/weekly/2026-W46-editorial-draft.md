@@ -1249,3 +1249,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump gives Hegseth an A-plus amid impeachment efforts - USA Today
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump gives Hegseth an A-plus amid impeachment efforts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnZsQVE2akZweWhRY3BST2k0clVKYV9VTEJxX190UjBGRXkyODV1LWZkMUVvM2FKZHNsY1VSeDdnanpyNHp3YzdyMVQ1VEZrV1ZQQ25xR2hmd1d5Y21oa3B3aS0xaHJ4TWVBYVpDeWJCSW10Q1JwWC10c042SVRVUFpYSWtvclZqTl91eWcwNk5keWNZUkNJd0d3Z3ZwWGtXTHJOWGVmclBsRWM?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump targets New York Times over coverage of Bedminster suit, C-SPAN call - The Hill
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump targets New York Times over coverage of Bedminster suit, C-SPAN call
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimAFBVV95cUxOX000bVR2T3IwY21QZHhRV0NkMEZMeWZYYllvN0pRMkxmeEt6OW5Jc0NubkxNM01ROC02UGlfbkNNNldMOTgwQ0FucXlqelZvR3lUcmI3Ukg5eHgwNzk3TFVoRWl4X0gzb1VkT09vTnJuRllfV0pMamRmV2p3OGxEMXpJcnk0cnYzdWdSSGFyQlc0RnlKc1BnWdIBngFBVV95cUxOb3R4YnUyRmVDa0RBWmhzaWpfNTdPZlpGZTByYzlBdVoxbWlyTzQ1enkyU2tEcGZPM29MNmJMdk9JOERzNVFmODltUG1PRmpMNXRrR25pY3phMGl2RnZEVGQtNHNfRUVoMndoczRIVFFSMVJ6WDdURFE1dF8yT2dhWi1Uemxvd3A4dk4wYW93NlhXaHBxUGxwb09KTURyQQ?oc=5)
+
+---
+

@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T16:21:17.244Z",
+  "lastCheckedAt": "2026-11-12T16:31:17.073Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2085,57 +2085,24 @@
       "seenAt": "2026-11-12T16:21:19.562Z",
       "title": "Trump Announces Susie Wiles out, Stephen Miller in as WH Chief of Staff - The Well News",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "56214c2d19c00d1dea00c097e66478b14ad848c593358738fa0247fc05f76544": {
+      "seenAt": "2026-11-12T16:31:18.124Z",
+      "title": "Trump gives Hegseth an A-plus amid impeachment efforts - USA Today",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "cb6563b7ed56ecc3439de2e37212e22813fde8a14c3c243e30e76860071805f1": {
+      "seenAt": "2026-11-12T16:31:18.744Z",
+      "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "93736d6060ed963f591b5231c90bd7bd5d213cfe7c4a647f2920451f29c1a103": {
+      "seenAt": "2026-11-12T16:31:19.410Z",
+      "title": "Trump targets New York Times over coverage of Bedminster suit, C-SPAN call - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "56214c2d19c00d1dea00c097e66478b14ad848c593358738fa0247fc05f76544",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump gives Hegseth an A-plus amid impeachment efforts - USA Today",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnZsQVE2akZweWhRY3BST2k0clVKYV9VTEJxX190UjBGRXkyODV1LWZkMUVvM2FKZHNsY1VSeDdnanpyNHp3YzdyMVQ1VEZrV1ZQQ25xR2hmd1d5Y21oa3B3aS0xaHJ4TWVBYVpDeWJCSW10Q1JwWC10c042SVRVUFpYSWtvclZqTl91eWcwNk5keWNZUkNJd0d3Z3ZwWGtXTHJOWGVmclBsRWM?oc=5\" target=\"_blank\">Trump gives Hegseth an A-plus amid impeachment efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnZsQVE2akZweWhRY3BST2k0clVKYV9VTEJxX190UjBGRXkyODV1LWZkMUVvM2FKZHNsY1VSeDdnanpyNHp3YzdyMVQ1VEZrV1ZQQ25xR2hmd1d5Y21oa3B3aS0xaHJ4TWVBYVpDeWJCSW10Q1JwWC10c042SVRVUFpYSWtvclZqTl91eWcwNk5keWNZUkNJd0d3Z3ZwWGtXTHJOWGVmclBsRWM?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 16:20:00 GMT",
-        "source": "USA Today",
-        "ageHours": 19.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "cb6563b7ed56ecc3439de2e37212e22813fde8a14c3c243e30e76860071805f1",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5\" target=\"_blank\">Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyNow.com</font>",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXBIc0wxNURmN1dyUXpQcmhhVWRsWFFpNTRNTnZxbm1peXplWF8waEJ6QzdUMjZ5MDFTVTRlZmRTcTRZRWFpMXZCbm9MMDY0c1ZDUEpDTXBIdm1HbFY1ZGp1Tnp5ZFphOW9LOHA1VDkyazdETEZDR3BGdGw4OVdLVUIzY1haeVFSUE5Hb1Rn?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 20:08:45 GMT",
-        "source": "EnergyNow.com",
-        "ageHours": 16
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "93736d6060ed963f591b5231c90bd7bd5d213cfe7c4a647f2920451f29c1a103",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump targets New York Times over coverage of Bedminster suit, C-SPAN call - The Hill",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOX000bVR2T3IwY21QZHhRV0NkMEZMeWZYYllvN0pRMkxmeEt6OW5Jc0NubkxNM01ROC02UGlfbkNNNldMOTgwQ0FucXlqelZvR3lUcmI3Ukg5eHgwNzk3TFVoRWl4X0gzb1VkT09vTnJuRllfV0pMamRmV2p3OGxEMXpJcnk0cnYzdWdSSGFyQlc0RnlKc1BnWdIBngFBVV95cUxOb3R4YnUyRmVDa0RBWmhzaWpfNTdPZlpGZTByYzlBdVoxbWlyTzQ1enkyU2tEcGZPM29MNmJMdk9JOERzNVFmODltUG1PRmpMNXRrR25pY3phMGl2RnZEVGQtNHNfRUVoMndoczRIVFFSMVJ6WDdURFE1dF8yT2dhWi1Uemxvd3A4dk4wYW93NlhXaHBxUGxwb09KTURyQQ?oc=5\" target=\"_blank\">Trump targets New York Times over coverage of Bedminster suit, C-SPAN call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX000bVR2T3IwY21QZHhRV0NkMEZMeWZYYllvN0pRMkxmeEt6OW5Jc0NubkxNM01ROC02UGlfbkNNNldMOTgwQ0FucXlqelZvR3lUcmI3Ukg5eHgwNzk3TFVoRWl4X0gzb1VkT09vTnJuRllfV0pMamRmV2p3OGxEMXpJcnk0cnYzdWdSSGFyQlc0RnlKc1BnWdIBngFBVV95cUxOb3R4YnUyRmVDa0RBWmhzaWpfNTdPZlpGZTByYzlBdVoxbWlyTzQ1enkyU2tEcGZPM29MNmJMdk9JOERzNVFmODltUG1PRmpMNXRrR25pY3phMGl2RnZEVGQtNHNfRUVoMndoczRIVFFSMVJ6WDdURFE1dF8yT2dhWi1Uemxvd3A4dk4wYW93NlhXaHBxUGxwb09KTURyQQ?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 15:43:00 GMT",
-        "source": "The Hill",
-        "ageHours": 20.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "770a0f0c0bf95e748ade2fa9fb69915f537eb4b15a65d2bdf1ce564653a17900",
@@ -2836,6 +2803,22 @@
         "pubDate": "Thu, 12 Nov 2026 16:02:13 GMT",
         "source": "KATU",
         "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "e89adfd68c7e88e42acb47b5292ba589e42c4b9f1554d460c01e74e1b4b4f7ae",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says Apple’s Tim Cook should take over Nvidia - The Washington Post",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1RZYXRtZHl6LU8xXzREZGdfd0hkLUxpbVBuVXZlbVhlckNjVmNXRUV1MUtwUkxHSzZKb1VFQTEyMUd1b2ljd1YzaTZ0bm9DdzJlazBCZlpIYTJjVWlvWDVhQVNPd1JIS3dQTVZveXV4bUlkYml3S1lmeXhHeC1wVkVmT3VHbjdWSm9qNGlTV2hYRktyLUs2RVViTmtfanJjbXZBVWVfRQ?oc=5\" target=\"_blank\">Trump says Apple’s Tim Cook should take over Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1RZYXRtZHl6LU8xXzREZGdfd0hkLUxpbVBuVXZlbVhlckNjVmNXRUV1MUtwUkxHSzZKb1VFQTEyMUd1b2ljd1YzaTZ0bm9DdzJlazBCZlpIYTJjVWlvWDVhQVNPd1JIS3dQTVZveXV4bUlkYml3S1lmeXhHeC1wVkVmT3VHbjdWSm9qNGlTV2hYRktyLUs2RVViTmtfanJjbXZBVWVfRQ?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 16:21:38 GMT",
+        "source": "The Washington Post",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
