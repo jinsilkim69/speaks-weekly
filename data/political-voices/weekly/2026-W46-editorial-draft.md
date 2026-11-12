@@ -1327,3 +1327,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** How Trump’s Truth Social Posts Moved Bitcoin, Stocks, and Oil in 2025 and 2026 - Cryptonews.net
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] How Trump’s Truth Social Posts Moved Bitcoin, Stocks, and Oil in 2025 and 2026
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVU0ZUbUl1OGd2Slo4QmRxOWpwS1h3c2xyUVFEVG1pQlJZNDU0b1ZSSTdmLUFzRnpuNkZjQ0phaW4zMWkyUjB1ZG9mdDhrU0RraXU2dXdhRmkxejA?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** "김민석은 킬 패스 담당, 대통령이 골 넣도록 도와야" #shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "김민석은 킬 패스 담당, 대통령이 골 넣도록 도와야" #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFBnWFhob2JYSm41RDc4Z2dpUzRldzRqLXdSZ0ltVmVtR1k4N0FORzRQR3NTamxjRm80allWVEIyQjhMc3Y2ekctLXRIcDdtNXZTRGRSeDlkRkNkdENrZWF6TzRUQjU0MW1tSF9nc3JNN09JRm1vbDVpUVp1djhWX28?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 최고위원회 - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 최고위원회
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrWlBBSHJFSXVTdGt6UUNDTE1kT0p4bUd0RnA0NXBncVBLYjN2UDlKeGl4ZGJNeVNueHliSkpvYVlLWGZDQ211Wm9kZkNDTDlvWlBpbDhlZ0hhODk4d2lpRg?oc=5)
+
+---
+
