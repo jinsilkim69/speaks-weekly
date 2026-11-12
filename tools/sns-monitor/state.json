@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T16:01:19.021Z",
+  "lastCheckedAt": "2026-11-12T16:11:18.187Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2055,57 +2055,24 @@
       "seenAt": "2026-11-12T16:01:22.104Z",
       "title": "[BP금융포럼 in 싱가포르] 조국혁신당 대표 신장식 \"스타트업은 미래 산업의 씨앗, 실패 딛고 다시 도전할 생태계 키워야\" - 비즈니스포스트",
       "targetName": "신장식"
+    },
+    "460368c67abf4a7e63b67f773f7b42b1d4734046c8d0d36387b1d655bc0ed1b0": {
+      "seenAt": "2026-11-12T16:11:19.466Z",
+      "title": "발언하는 신장식 조국혁신당 대표 - 뉴시스",
+      "targetName": "신장식"
+    },
+    "391f758491c5655e0e59e778271bbf93c6772b0117351898cf76677a4f357e2f": {
+      "seenAt": "2026-11-12T16:11:20.224Z",
+      "title": "최고위원회 참석한 신장식 대표 - 뉴시스",
+      "targetName": "신장식"
+    },
+    "da1de34f7b34fbd0514aa4c88d3e897a39c1e825c3a493f46121265d5cd5f7df": {
+      "seenAt": "2026-11-12T16:11:21.049Z",
+      "title": "Trump Rages At Old Nemesis At 1:25 A.M. On Truth Social – And Comes Back For More - HuffPost",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "460368c67abf4a7e63b67f773f7b42b1d4734046c8d0d36387b1d655bc0ed1b0",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "발언하는 신장식 조국혁신당 대표 - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SY25FYjI3dGRUb3hJblVnQzZTQUFxOHczNnQzZWVucWFxWl9RZWRtaDNRckxrYzhqa3FVM0Fpdno2OTlXTVFvSFdqeEIyaE9DVVhQdm44MHpqb082SktfUA?oc=5\" target=\"_blank\">발언하는 신장식 조국혁신당 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SY25FYjI3dGRUb3hJblVnQzZTQUFxOHczNnQzZWVucWFxWl9RZWRtaDNRckxrYzhqa3FVM0Fpdno2OTlXTVFvSFdqeEIyaE9DVVhQdm44MHpqb082SktfUA?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 00:52:23 GMT",
-        "source": "뉴시스",
-        "ageHours": 11.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "391f758491c5655e0e59e778271bbf93c6772b0117351898cf76677a4f357e2f",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "최고위원회 참석한 신장식 대표 - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rMEEtdzJ3TDRCWnplT29oM0xBM3JEQTJJblRXWDg4aDRJZU90X0s5MlNESU1BQjF1TUUxWU04R0hoMWNWWTJQQjlza3lUUzB6SjhIejZlX1dFZ3JXdFdYYQ?oc=5\" target=\"_blank\">최고위원회 참석한 신장식 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rMEEtdzJ3TDRCWnplT29oM0xBM3JEQTJJblRXWDg4aDRJZU90X0s5MlNESU1BQjF1TUUxWU04R0hoMWNWWTJQQjlza3lUUzB6SjhIejZlX1dFZ3JXdFdYYQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 00:53:03 GMT",
-        "source": "뉴시스",
-        "ageHours": 11.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "da1de34f7b34fbd0514aa4c88d3e897a39c1e825c3a493f46121265d5cd5f7df",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Rages At Old Nemesis At 1:25 A.M. On Truth Social – And Comes Back For More - HuffPost",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQUNFV3AxcDZoV2hSNlNEa0I2SGd1WnEwMVUwckhhMklzRnRKNjVEVHFJdENMSDY0UkRsN1ZNWjZWU0FfaFlUZjNSMnJ0M29oZDVwN3c3UjlXb0xEdW5RMkJMY29BbGIyWUxLRFpnNGJJS0cwYkU1alU0dDIyYWtqTVRFWkd5QTlEbjFpWk1hd1pCS0wwSGpCdWFmUzlpM2NjY1JLZ2FnczFsZDJaRlZGWFBtckt6bkg5OHIwUDdzWGJHNERtMHdnWEVieThSZTNySHdFVzVn0gHbAUFVX3lxTE9HMUdfaDdlekszXzVRT1dwREEwOFhJeHFfb2txbE5icW5QbGtWRGJRbEFYRjlGOXZ5UHUwZ3hCOGFrM2hKS1lpMXVUNzhjVVhJMWVuNExpdFQxM3hPdnJ6YUZMUDluSW5HS0JYdXA3bUc4LVRBU0RBZDhWdHlBN0FmRi1ZdkRvNXFra1V0N0diTmllR1V6TEZ6alZFekZNT1ZFUFZQeUJ3WmVzNXRkOER2aDFpcEl5ak5TUFZ6NWVFOERNY01WZ0tKUlcyRFRWRjc3Q19CMFBxZW5waw?oc=5\" target=\"_blank\">Trump Rages At Old Nemesis At 1:25 A.M. On Truth Social – And Comes Back For More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HuffPost</font>",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQUNFV3AxcDZoV2hSNlNEa0I2SGd1WnEwMVUwckhhMklzRnRKNjVEVHFJdENMSDY0UkRsN1ZNWjZWU0FfaFlUZjNSMnJ0M29oZDVwN3c3UjlXb0xEdW5RMkJMY29BbGIyWUxLRFpnNGJJS0cwYkU1alU0dDIyYWtqTVRFWkd5QTlEbjFpWk1hd1pCS0wwSGpCdWFmUzlpM2NjY1JLZ2FnczFsZDJaRlZGWFBtckt6bkg5OHIwUDdzWGJHNERtMHdnWEVieThSZTNySHdFVzVn0gHbAUFVX3lxTE9HMUdfaDdlekszXzVRT1dwREEwOFhJeHFfb2txbE5icW5QbGtWRGJRbEFYRjlGOXZ5UHUwZ3hCOGFrM2hKS1lpMXVUNzhjVVhJMWVuNExpdFQxM3hPdnJ6YUZMUDluSW5HS0JYdXA3bUc4LVRBU0RBZDhWdHlBN0FmRi1ZdkRvNXFra1V0N0diTmllR1V6TEZ6alZFekZNT1ZFUFZQeUJ3WmVzNXRkOER2aDFpcEl5ak5TUFZ6NWVFOERNY01WZ0tKUlcyRFRWRjc3Q19CMFBxZW5waw?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 16:32:11 GMT",
-        "source": "HuffPost",
-        "ageHours": 19.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "0e835c32a81599dfce1673556f0e509b7efd0028d0c36ec89323c69d4df6f90e",
@@ -2837,6 +2804,38 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUFVzUnhJZXBfWmZLOGdQNUVpRjNBYXZWRVZTYW9RUW5WRGVBanotY2FfS0txM05XcjB5em1TV3VGb3ltTjgzOFFxSEU0bk1WbkEwdUlaUU82LTBfLVdWZ2FfYWhjdG1TM3NBLWYzeWpIT29JVjdoYVB4d09aOW1YcmlDT1k0b0c3bzlyTGNzYTNGX05zS1dmb1dJS2VuXzlWY1ZCaTZZZ19IeU5IRllKMldLdS1XVFhJMFJRMFFrSW5RUVdxRVNjZlhacHBZOVE?oc=5",
         "pubDate": "Thu, 12 Nov 2026 15:41:04 GMT",
         "source": "WSMH",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "083d361294f165f53114b657df6ce5c74e151ccb3d022166c1a2b577833f950e",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Says 'Only One Man' Can Replace Jensen Huang - Business Insider",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1JKVkg3eTBZMFRfdWRvbTFfZl9EdmE5T0lGUWVqa21yd1Y0ZnZDaUF0VDVrZFNUVlE0dXpCWjE0V3dDOE5PTTJNeC1pbjBRN0U0cXVMTFJpVUFtOGlRNFMzOTVaNjl5bWtNWXlKOHZJWDRteVNZTUNZYUREZ3BDMk5WZ0dMZWJta1hqWTJvZWdHdDFNU1pz?oc=5\" target=\"_blank\">Trump Says 'Only One Man' Can Replace Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1JKVkg3eTBZMFRfdWRvbTFfZl9EdmE5T0lGUWVqa21yd1Y0ZnZDaUF0VDVrZFNUVlE0dXpCWjE0V3dDOE5PTTJNeC1pbjBRN0U0cXVMTFJpVUFtOGlRNFMzOTVaNjl5bWtNWXlKOHZJWDRteVNZTUNZYUREZ3BDMk5WZ0dMZWJta1hqWTJvZWdHdDFNU1pz?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 15:50:00 GMT",
+        "source": "Business Insider",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "0ba8281ded1c77f3c89703dbd4d561e18962510fc406570e06ba6f198377b493",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5\" target=\"_blank\">Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51QXVpVmc5N2E1dUZPREJ4Tkc5cE5YLVVjTGlwV1NTdG5SWTFpMTJ4dW5iU2U4LWZRWEhobGdQeGJwSkctWjRrdUJQS0RuVk1uVFJ1ajY4Y3Bkdzg2aERDWUF5Sk1Qc2FKZjB2NXNxeGRmTllqVXk1aFFRc3psUQ?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 15:51:42 GMT",
+        "source": "Axios",
         "ageHours": 0.3
       },
       "delivered": [],

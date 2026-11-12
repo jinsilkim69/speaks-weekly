@@ -1171,3 +1171,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 발언하는 신장식 조국혁신당 대표 - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 발언하는 신장식 조국혁신당 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SY25FYjI3dGRUb3hJblVnQzZTQUFxOHczNnQzZWVucWFxWl9RZWRtaDNRckxrYzhqa3FVM0Fpdno2OTlXTVFvSFdqeEIyaE9DVVhQdm44MHpqb082SktfUA?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 최고위원회 참석한 신장식 대표 - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최고위원회 참석한 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rMEEtdzJ3TDRCWnplT29oM0xBM3JEQTJJblRXWDg4aDRJZU90X0s5MlNESU1BQjF1TUUxWU04R0hoMWNWWTJQQjlza3lUUzB6SjhIejZlX1dFZ3JXdFdYYQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Rages At Old Nemesis At 1:25 A.M. On Truth Social – And Comes Back For More - HuffPost
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Rages At Old Nemesis At 1:25 A.M. On Truth Social – And Comes Back For More
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQUNFV3AxcDZoV2hSNlNEa0I2SGd1WnEwMVUwckhhMklzRnRKNjVEVHFJdENMSDY0UkRsN1ZNWjZWU0FfaFlUZjNSMnJ0M29oZDVwN3c3UjlXb0xEdW5RMkJMY29BbGIyWUxLRFpnNGJJS0cwYkU1alU0dDIyYWtqTVRFWkd5QTlEbjFpWk1hd1pCS0wwSGpCdWFmUzlpM2NjY1JLZ2FnczFsZDJaRlZGWFBtckt6bkg5OHIwUDdzWGJHNERtMHdnWEVieThSZTNySHdFVzVn0gHbAUFVX3lxTE9HMUdfaDdlekszXzVRT1dwREEwOFhJeHFfb2txbE5icW5QbGtWRGJRbEFYRjlGOXZ5UHUwZ3hCOGFrM2hKS1lpMXVUNzhjVVhJMWVuNExpdFQxM3hPdnJ6YUZMUDluSW5HS0JYdXA3bUc4LVRBU0RBZDhWdHlBN0FmRi1ZdkRvNXFra1V0N0diTmllR1V6TEZ6alZFekZNT1ZFUFZQeUJ3WmVzNXRkOER2aDFpcEl5ak5TUFZ6NWVFOERNY01WZ0tKUlcyRFRWRjc3Q19CMFBxZW5waw?oc=5)
+
+---
+
