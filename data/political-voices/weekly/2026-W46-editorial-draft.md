@@ -1366,3 +1366,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Truth Social post attempting to big up his accomplishments backfired instantly - Indy100
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Truth Social post attempting to big up his accomplishments backfired instantly
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFB1YjdIZ25NRlFrOFhOdGNEeXJKekxsdVZSblRDbG9zczA3Z2VHYjRMX2IxQ01uVjF4d3kwS3VJbnAyNkNMZXJ5aWZXM1ZndTM1R0ZrU1Vtd2xSQldoRDl0X285QzdDc3BCcTRRVmt0Z1NFUUMya2pya2R0akE4UEU?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** “이재명 두 아들 모두 군대 면제 받았다” 허위 글 SNS에 올린 이수정 2심도 벌금 300만원 - 강원일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “이재명 두 아들 모두 군대 면제 받았다” 허위 글 SNS에 올린 이수정 2심도 벌금 300만원
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VT3doTnlwY0UyX0lDT29adXo3M0l4dFVqSUpuQmFvcTBycVMxVjJnSzBDQk51T01JY3pXeWtKZmlrTWpyVUl4OElQYVRwTC0tNzNHWEJnUDc4djg?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까 - 에너지경제신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mRFY4Nms4bXZoeE93S0s2SURCMTlyQTZrY1BfeFZNOHhGZ0ZwSG5lcDAwVUJGVUM2czZhSTBzYTlrMnU2Ykl5VkF0eGtmbFN4TllSeGJLQm9kLVU?oc=5)
+
+---
+

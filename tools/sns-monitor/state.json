@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T16:51:17.000Z",
+  "lastCheckedAt": "2026-11-12T17:01:21.368Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2130,57 +2130,24 @@
       "seenAt": "2026-11-12T16:51:19.472Z",
       "title": "조국혁신당 최고위원회 - 뉴시스",
       "targetName": "조국"
+    },
+    "ce1458b77160ce86ad850e2a77f57ebd3d078bbc422d5feca271ac3dbc83f394": {
+      "seenAt": "2026-11-12T17:01:22.703Z",
+      "title": "Trump Truth Social post attempting to big up his accomplishments backfired instantly - Indy100",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "20986e4c549b440178d814a2bf698fb51666f8c70654b61f4092e44bd1e4eb72": {
+      "seenAt": "2026-11-12T17:01:23.452Z",
+      "title": "“이재명 두 아들 모두 군대 면제 받았다” 허위 글 SNS에 올린 이수정 2심도 벌금 300만원 - 강원일보",
+      "targetName": "이재명"
+    },
+    "c2bdf1c933dea68797ee386d3c5d98d521db3ae47e22ec332a5b64595c1a169a": {
+      "seenAt": "2026-11-12T17:01:24.253Z",
+      "title": "한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까 - 에너지경제신문",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "ce1458b77160ce86ad850e2a77f57ebd3d078bbc422d5feca271ac3dbc83f394",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Truth Social post attempting to big up his accomplishments backfired instantly - Indy100",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1YjdIZ25NRlFrOFhOdGNEeXJKekxsdVZSblRDbG9zczA3Z2VHYjRMX2IxQ01uVjF4d3kwS3VJbnAyNkNMZXJ5aWZXM1ZndTM1R0ZrU1Vtd2xSQldoRDl0X285QzdDc3BCcTRRVmt0Z1NFUUMya2pya2R0akE4UEU?oc=5\" target=\"_blank\">Trump Truth Social post attempting to big up his accomplishments backfired instantly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indy100</font>",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1YjdIZ25NRlFrOFhOdGNEeXJKekxsdVZSblRDbG9zczA3Z2VHYjRMX2IxQ01uVjF4d3kwS3VJbnAyNkNMZXJ5aWZXM1ZndTM1R0ZrU1Vtd2xSQldoRDl0X285QzdDc3BCcTRRVmt0Z1NFUUMya2pya2R0akE4UEU?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 12:12:14 GMT",
-        "source": "Indy100",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "20986e4c549b440178d814a2bf698fb51666f8c70654b61f4092e44bd1e4eb72",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "“이재명 두 아들 모두 군대 면제 받았다” 허위 글 SNS에 올린 이수정 2심도 벌금 300만원 - 강원일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VT3doTnlwY0UyX0lDT29adXo3M0l4dFVqSUpuQmFvcTBycVMxVjJnSzBDQk51T01JY3pXeWtKZmlrTWpyVUl4OElQYVRwTC0tNzNHWEJnUDc4djg?oc=5\" target=\"_blank\">“이재명 두 아들 모두 군대 면제 받았다” 허위 글 SNS에 올린 이수정 2심도 벌금 300만원</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VT3doTnlwY0UyX0lDT29adXo3M0l4dFVqSUpuQmFvcTBycVMxVjJnSzBDQk51T01JY3pXeWtKZmlrTWpyVUl4OElQYVRwTC0tNzNHWEJnUDc4djg?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 06:57:08 GMT",
-        "source": "강원일보",
-        "ageHours": 6.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c2bdf1c933dea68797ee386d3c5d98d521db3ae47e22ec332a5b64595c1a169a",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까 - 에너지경제신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mRFY4Nms4bXZoeE93S0s2SURCMTlyQTZrY1BfeFZNOHhGZ0ZwSG5lcDAwVUJGVUM2czZhSTBzYTlrMnU2Ykl5VkF0eGtmbFN4TllSeGJLQm9kLVU?oc=5\" target=\"_blank\">한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mRFY4Nms4bXZoeE93S0s2SURCMTlyQTZrY1BfeFZNOHhGZ0ZwSG5lcDAwVUJGVUM2czZhSTBzYTlrMnU2Ykl5VkF0eGtmbFN4TllSeGJLQm9kLVU?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 05:38:50 GMT",
-        "source": "에너지경제신문",
-        "ageHours": 7.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "1d6b8a21d61a9d8e85c31aa1ae8c90cb58a87e9d6072237a974a7596983c2fa9",
