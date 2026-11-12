@@ -1834,3 +1834,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 SNS 행보…51% 혼란 우려 줄여야 : 정치 - 재경일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 SNS 행보…51% 혼란 우려 줄여야 : 정치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OTFVKenVVUlJjWWxkSHNsOUlHV0UzYlQ0dWpITTU2Y3k4RlJkVmV4VFBoMWVDMjFrQktLMFAxaUlzWHp1TXJlRThMZw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan - KATU
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzVTaXpPb0hBQVBxTFY2ZlJZTGEtMFhXSHhucFpncHZ2WjREN0c2RVlaZ1hpUUtweTc5NS13Zklvb1M5QUZfMUtDZTFRM1lHVDJBZFo1N1pwZm5vZmhfUzVwYS1hODhjRHJlc1BrcTdiMkMwRnZDcEdUaC15SzJ3YjdqaG9aYjc3MmxaWDctemh5eFptOE1qRWdMZ3YyeDBmY2R4NDIwby16MUp2ZmxVcHoydHJtci1Rbk40NFkzSG1ZUQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says Apple’s Tim Cook should take over Nvidia - The Washington Post
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says Apple’s Tim Cook should take over Nvidia
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1RZYXRtZHl6LU8xXzREZGdfd0hkLUxpbVBuVXZlbVhlckNjVmNXRUV1MUtwUkxHSzZKb1VFQTEyMUd1b2ljd1YzaTZ0bm9DdzJlazBCZlpIYTJjVWlvWDVhQVNPd1JIS3dQTVZveXV4bUlkYml3S1lmeXhHeC1wVkVmT3VHbjdWSm9qNGlTV2hYRktyLUs2RVViTmtfanJjbXZBVWVfRQ?oc=5)
+
+---
+

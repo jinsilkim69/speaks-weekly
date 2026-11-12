@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T18:51:15.059Z",
+  "lastCheckedAt": "2026-11-12T19:01:19.132Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2310,57 +2310,24 @@
       "seenAt": "2026-11-12T18:51:17.814Z",
       "title": "Trump pitches Apple's Tim Cook as new Nvidia CEO after Huang resigns - Axios",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "b1c09b1d8aa61d70c32631c469fa1b4605523cbdded095c1e74cccc12e0c5a5d": {
+      "seenAt": "2026-11-12T19:01:20.213Z",
+      "title": "이재명 대통령 SNS 행보…51% 혼란 우려 줄여야 : 정치 - 재경일보",
+      "targetName": "이재명"
+    },
+    "b6a6062eb1e30e131c2615f58684de1d7a051a06f33e9ea1349293cd515a9cb9": {
+      "seenAt": "2026-11-12T19:01:20.872Z",
+      "title": "Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan - KATU",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "e89adfd68c7e88e42acb47b5292ba589e42c4b9f1554d460c01e74e1b4b4f7ae": {
+      "seenAt": "2026-11-12T19:01:21.572Z",
+      "title": "Trump says Apple’s Tim Cook should take over Nvidia - The Washington Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "b1c09b1d8aa61d70c32631c469fa1b4605523cbdded095c1e74cccc12e0c5a5d",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령 SNS 행보…51% 혼란 우려 줄여야 : 정치 - 재경일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OTFVKenVVUlJjWWxkSHNsOUlHV0UzYlQ0dWpITTU2Y3k4RlJkVmV4VFBoMWVDMjFrQktLMFAxaUlzWHp1TXJlRThMZw?oc=5\" target=\"_blank\">이재명 대통령 SNS 행보…51% 혼란 우려 줄여야 : 정치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OTFVKenVVUlJjWWxkSHNsOUlHV0UzYlQ0dWpITTU2Y3k4RlJkVmV4VFBoMWVDMjFrQktLMFAxaUlzWHp1TXJlRThMZw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 16:00:00 GMT",
-        "source": "재경일보",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "b6a6062eb1e30e131c2615f58684de1d7a051a06f33e9ea1349293cd515a9cb9",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan - KATU",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzVTaXpPb0hBQVBxTFY2ZlJZTGEtMFhXSHhucFpncHZ2WjREN0c2RVlaZ1hpUUtweTc5NS13Zklvb1M5QUZfMUtDZTFRM1lHVDJBZFo1N1pwZm5vZmhfUzVwYS1hODhjRHJlc1BrcTdiMkMwRnZDcEdUaC15SzJ3YjdqaG9aYjc3MmxaWDctemh5eFptOE1qRWdMZ3YyeDBmY2R4NDIwby16MUp2ZmxVcHoydHJtci1Rbk40NFkzSG1ZUQ?oc=5\" target=\"_blank\">Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KATU</font>",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzVTaXpPb0hBQVBxTFY2ZlJZTGEtMFhXSHhucFpncHZ2WjREN0c2RVlaZ1hpUUtweTc5NS13Zklvb1M5QUZfMUtDZTFRM1lHVDJBZFo1N1pwZm5vZmhfUzVwYS1hODhjRHJlc1BrcTdiMkMwRnZDcEdUaC15SzJ3YjdqaG9aYjc3MmxaWDctemh5eFptOE1qRWdMZ3YyeDBmY2R4NDIwby16MUp2ZmxVcHoydHJtci1Rbk40NFkzSG1ZUQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 16:02:13 GMT",
-        "source": "KATU",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e89adfd68c7e88e42acb47b5292ba589e42c4b9f1554d460c01e74e1b4b4f7ae",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump says Apple’s Tim Cook should take over Nvidia - The Washington Post",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1RZYXRtZHl6LU8xXzREZGdfd0hkLUxpbVBuVXZlbVhlckNjVmNXRUV1MUtwUkxHSzZKb1VFQTEyMUd1b2ljd1YzaTZ0bm9DdzJlazBCZlpIYTJjVWlvWDVhQVNPd1JIS3dQTVZveXV4bUlkYml3S1lmeXhHeC1wVkVmT3VHbjdWSm9qNGlTV2hYRktyLUs2RVViTmtfanJjbXZBVWVfRQ?oc=5\" target=\"_blank\">Trump says Apple’s Tim Cook should take over Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1RZYXRtZHl6LU8xXzREZGdfd0hkLUxpbVBuVXZlbVhlckNjVmNXRUV1MUtwUkxHSzZKb1VFQTEyMUd1b2ljd1YzaTZ0bm9DdzJlazBCZlpIYTJjVWlvWDVhQVNPd1JIS3dQTVZveXV4bUlkYml3S1lmeXhHeC1wVkVmT3VHbjdWSm9qNGlTV2hYRktyLUs2RVViTmtfanJjbXZBVWVfRQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 16:21:38 GMT",
-        "source": "The Washington Post",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "cc55da576be03b9a8f98c7439641c5e0d0109e1d5bef5b79c4b8bb1e9dc75698",
@@ -2549,6 +2516,22 @@
         "pubDate": "Thu, 12 Nov 2026 05:47:48 GMT",
         "source": "재경일보",
         "ageHours": 13.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "de943c8eabd30f60ec5775951cc187f7ced0aef940a82ce2ff16682594bc0769",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump reapplies pressure on Senate Republicans ahead of Democratic takeover - The National Desk",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQdXFRc2JiYW4xOWtSSkRFZkpOUkRrTUtORFk3V0xMS053MUl3dzRPVnhtMmkxR3dLZVIxaWh4azV6Yi1UYVdpVFhRN3lKcVhVLW5fYnAzNnZUR2FUWFVrRkZncDh2cm9qWnBlbmpkeXdqeDhIMW56cjR5OEFETDlySmttM0VJQmNhTkZ6cFdCQUY3SjF4MnpNbEoxR1JDdWVSdkJ4TVFvZGRjNFJkMTJGU3pNTDU3d05nTnQzbU9nbEhERG8zd1JBLWNQN1B2SklQbXlyUTFZaGdQREo1REliZEZLbHBkdEFXV1VYU2NDQUtvb1VtNDZYWUdTNjZfdUJs?oc=5\" target=\"_blank\">Trump reapplies pressure on Senate Republicans ahead of Democratic takeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The National Desk</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdXFRc2JiYW4xOWtSSkRFZkpOUkRrTUtORFk3V0xMS053MUl3dzRPVnhtMmkxR3dLZVIxaWh4azV6Yi1UYVdpVFhRN3lKcVhVLW5fYnAzNnZUR2FUWFVrRkZncDh2cm9qWnBlbmpkeXdqeDhIMW56cjR5OEFETDlySmttM0VJQmNhTkZ6cFdCQUY3SjF4MnpNbEoxR1JDdWVSdkJ4TVFvZGRjNFJkMTJGU3pNTDU3d05nTnQzbU9nbEhERG8zd1JBLWNQN1B2SklQbXlyUTFZaGdQREo1REliZEZLbHBkdEFXV1VYU2NDQUtvb1VtNDZYWUdTNjZfdUJs?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 17:48:11 GMT",
+        "source": "The National Desk",
+        "ageHours": 1.2
       },
       "delivered": [],
       "archived": false
