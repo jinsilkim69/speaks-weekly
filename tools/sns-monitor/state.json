@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T22:21:16.474Z",
+  "lastCheckedAt": "2026-11-12T22:31:16.249Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2449,6 +2449,16 @@
     "68cecfa03d36c4fd159ca3ebbdf849064bdd2841ed64bca016fb896cfde92319": {
       "seenAt": "2026-11-12T22:11:20.039Z",
       "title": "Trump urges Senate leadership to move $350B reconciliation bill - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "dc37f695c9140d68a546d55a80f598fab22484fc3d046034537321c9c3c6a33f": {
+      "seenAt": "2026-11-12T22:31:17.258Z",
+      "title": "이준석 \"20만호 즉시 공급할 부지 있다…취득·양도세 감면 추진\" - 이데일리",
+      "targetName": "이준석"
+    },
+    "04b14b6c09cedab30b4f008052da8cb48e02733ac12715d95dc3f10e2364aef5": {
+      "seenAt": "2026-11-12T22:31:17.876Z",
+      "title": "Trump says ‘we don’t need a deal with Iran’ - CNBC",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },

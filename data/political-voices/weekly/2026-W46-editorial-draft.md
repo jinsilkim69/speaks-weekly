@@ -2198,3 +2198,29 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "20만호 즉시 공급할 부지 있다…취득·양도세 감면 추진" - 이데일리
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "20만호 즉시 공급할 부지 있다…취득·양도세 감면 추진"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdm1KS3RSYTJDOWxIanQ3TjEyS1NHYWJyVnJNNVdHVy1VcXpwOGlFRjJ1M0w4eGlhbUhNWklSYzNQb3JKZjhsOHVrRkVwQ2Y1M0E1QXM2bDhSVF9YSWxRQVFNTDVaS2MyUU1ibWRIRXlrdUdJeGJXZVkxTkgwWHJMNw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says ‘we don’t need a deal with Iran’ - CNBC
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says ‘we don’t need a deal with Iran’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE5tWjFOSkhhSzNmbGk4eUFRY2Npa3IxMnRtRWJFNXl3UzlOOTE1a2ZuMWRwd1FlUHhMc3VNMklPT09USURQeDVTRDh5eG85Z2U2a0xZbWtMODg5eVJ6MkpTOFNFc0ZOa2JhNnN4NjE4V2RSeGhs0gF6QVVfeXFMTl9TWFZVRW9KZlZ5X3lzazhWT0hkbVVDcE9zLUFmbnIzQmFyYVRSTzFKVnczQ05pNTk1NFMtLWZPTEV0VkZZakRXd0pUQ2drX0ppcHgxd2dYOHhJeGNuZTc2cDVhRDVVQTJTNml0ZERpdzk5WE16MUIxdWc?oc=5)
+
+---
+
