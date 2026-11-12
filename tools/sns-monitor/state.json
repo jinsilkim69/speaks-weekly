@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T19:51:16.510Z",
+  "lastCheckedAt": "2026-11-12T20:01:18.263Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2400,24 +2400,12 @@
       "seenAt": "2026-11-12T19:51:19.018Z",
       "title": "Trump says no deal needed with Iran, closes down Vance negotiations - The Washington Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "eed6c80cb269d898d964f467468d7b658cb1561913abfd5408b695ebd06044ca": {
+      "seenAt": "2026-11-12T20:01:19.741Z",
+      "title": "Trump Tells Mexico He’ll Double Tariffs If It Doesn’t Crack Down On Migrant Caravans - Forbes",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "eed6c80cb269d898d964f467468d7b658cb1561913abfd5408b695ebd06044ca",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Tells Mexico He’ll Double Tariffs If It Doesn’t Crack Down On Migrant Caravans - Forbes",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVVFOURORF9IM2VKSVNlYTFKZVZLWk5QMHJmQTJBM0l6UjRESElVQ0E3NndyYV90a2RydDRlYWdGd2RKLVJGNUx6c0c0eVJGWGY1UVBXQ0owU3Q4XzJ2RDhram1DSTJnVGRhX0dBQnVfdDltRXhXZlF3NlpGUEt5eWpveG1NczNvUmUxZVVFc25TSEdpc2dCSE9vZ3BHeXkzaFhQVVRhMmhIbExIN2VlaW1LZ19BS2MyOGZCOVBfMW9Tak1adXA0bU9uZkJKODNlTTVrX1FTNVpMQTQ?oc=5\" target=\"_blank\">Trump Tells Mexico He’ll Double Tariffs If It Doesn’t Crack Down On Migrant Caravans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVVFOURORF9IM2VKSVNlYTFKZVZLWk5QMHJmQTJBM0l6UjRESElVQ0E3NndyYV90a2RydDRlYWdGd2RKLVJGNUx6c0c0eVJGWGY1UVBXQ0owU3Q4XzJ2RDhram1DSTJnVGRhX0dBQnVfdDltRXhXZlF3NlpGUEt5eWpveG1NczNvUmUxZVVFc25TSEdpc2dCSE9vZ3BHeXkzaFhQVVRhMmhIbExIN2VlaW1LZ19BS2MyOGZCOVBfMW9Tak1adXA0bU9uZkJKODNlTTVrX1FTNVpMQTQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 15:53:11 GMT",
-        "source": "Forbes",
-        "ageHours": 3.8
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

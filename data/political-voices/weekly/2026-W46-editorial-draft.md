@@ -2068,3 +2068,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Tells Mexico He’ll Double Tariffs If It Doesn’t Crack Down On Migrant Caravans - Forbes
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Tells Mexico He’ll Double Tariffs If It Doesn’t Crack Down On Migrant Caravans
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVVFOURORF9IM2VKSVNlYTFKZVZLWk5QMHJmQTJBM0l6UjRESElVQ0E3NndyYV90a2RydDRlYWdGd2RKLVJGNUx6c0c0eVJGWGY1UVBXQ0owU3Q4XzJ2RDhram1DSTJnVGRhX0dBQnVfdDltRXhXZlF3NlpGUEt5eWpveG1NczNvUmUxZVVFc25TSEdpc2dCSE9vZ3BHeXkzaFhQVVRhMmhIbExIN2VlaW1LZ19BS2MyOGZCOVBfMW9Tak1adXA0bU9uZkJKODNlTTVrX1FTNVpMQTQ?oc=5)
+
+---
+
