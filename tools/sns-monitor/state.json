@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T17:51:17.223Z",
+  "lastCheckedAt": "2026-11-12T18:01:19.859Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2220,57 +2220,24 @@
       "seenAt": "2026-11-12T17:51:19.953Z",
       "title": "Trump Says Iran Deal Is No Longer Needed, Claims U.S. Has 'Got Their Strait' - Haaretz",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "982c5a520c0476deb8a91214a1b84755b609cd55910ab437c084e6fabf922d67": {
+      "seenAt": "2026-11-12T18:01:21.102Z",
+      "title": "안철수 “한동훈, 물귀신 행태···차라리 창당하라” - 주간경향",
+      "targetName": "한동훈"
+    },
+    "2d0e386121e4ccd9f82bbfdfcfccbeab6f4d0e6bebdaff52de19d5beb875ae43": {
+      "seenAt": "2026-11-12T18:01:21.808Z",
+      "title": "Trump says US does not need deal with Iran - The New Region",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "95d0ccbfcf3cf7a429baecb86edc1ddb50ad85464bd1813b31d38201b35c08c5": {
+      "seenAt": "2026-11-12T18:01:22.482Z",
+      "title": "Trump says US does not ‘need a deal with Iran’ - South China Morning Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "982c5a520c0476deb8a91214a1b84755b609cd55910ab437c084e6fabf922d67",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "안철수 “한동훈, 물귀신 행태···차라리 창당하라” - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwMFBOa1FaWUNxdGczYVpYODV1VGlYWkFsY2Zhc0lfU3Brb2RwVGNnS09LZWs4Z3BRNFBaODYteWZZOVlabHlybmI4SGNyTml0UDEtUzFhRExfaWY5M2c?oc=5\" target=\"_blank\">안철수 “한동훈, 물귀신 행태···차라리 창당하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwMFBOa1FaWUNxdGczYVpYODV1VGlYWkFsY2Zhc0lfU3Brb2RwVGNnS09LZWs4Z3BRNFBaODYteWZZOVlabHlybmI4SGNyTml0UDEtUzFhRExfaWY5M2c?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 23:24:00 GMT",
-        "source": "주간경향",
-        "ageHours": 14.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "2d0e386121e4ccd9f82bbfdfcfccbeab6f4d0e6bebdaff52de19d5beb875ae43",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump says US does not need deal with Iran - The New Region",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JdzZsV3JkMTBCb0FfWnNaRVh3ZGVvVTNOSmVsYmpNNjR0RHJyNUNHclJPVVhyZy1sT0NZdDhiYzQ3b045bVU4TkZkNA?oc=5\" target=\"_blank\">Trump says US does not need deal with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Region</font>",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JdzZsV3JkMTBCb0FfWnNaRVh3ZGVvVTNOSmVsYmpNNjR0RHJyNUNHclJPVVhyZy1sT0NZdDhiYzQ3b045bVU4TkZkNA?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 14:18:05 GMT",
-        "source": "The New Region",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "95d0ccbfcf3cf7a429baecb86edc1ddb50ad85464bd1813b31d38201b35c08c5",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump says US does not ‘need a deal with Iran’ - South China Morning Post",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9nNzNfTTNDaUVlOHE0OEFrTXUyMktlSUV3RXRoNzI5aGF0TG9VbXUyVTRTUVdMd1hVbms0Y2NLeU82Rk8taW1uSjdFVXdzcHdaemxGdjNyYlFieV9vNEFYRXhYaVpCU3NQOU85MDNTVS1nV0pyVEl6NnNhWXlTR2QzRHVnMXdnYlE1OVp2WWVXRTNsRVJaemJnTHMzTTRWclpSdnZOamp5Z9IBqgFBVV95cUxPZjRNZTJkOXROSV9mMU9oazFUWUxmazJQMjlrOHI0bWQtcGw4ZnNKNkF5Y3JuNXlKNVJlUEFGN3RCYUFuR00ycUt5Q1FwOWFfeTdXV18tcXFJQUZQbkl6OFlqNjBvbHpWTFc2VnRwXzdrZXZTREktTzV6X2FXb0FkMkszV3I1dU9Wd0s2ZGhRdkEwMlVQUlVQZnhQQzhOU1dOUVpmWTQ0S1VDQQ?oc=5\" target=\"_blank\">Trump says US does not ‘need a deal with Iran’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9nNzNfTTNDaUVlOHE0OEFrTXUyMktlSUV3RXRoNzI5aGF0TG9VbXUyVTRTUVdMd1hVbms0Y2NLeU82Rk8taW1uSjdFVXdzcHdaemxGdjNyYlFieV9vNEFYRXhYaVpCU3NQOU85MDNTVS1nV0pyVEl6NnNhWXlTR2QzRHVnMXdnYlE1OVp2WWVXRTNsRVJaemJnTHMzTTRWclpSdnZOamp5Z9IBqgFBVV95cUxPZjRNZTJkOXROSV9mMU9oazFUWUxmazJQMjlrOHI0bWQtcGw4ZnNKNkF5Y3JuNXlKNVJlUEFGN3RCYUFuR00ycUt5Q1FwOWFfeTdXV18tcXFJQUZQbkl6OFlqNjBvbHpWTFc2VnRwXzdrZXZTREktTzV6X2FXb0FkMkszV3I1dU9Wd0s2ZGhRdkEwMlVQUlVQZnhQQzhOU1dOUVpmWTQ0S1VDQQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 14:17:38 GMT",
-        "source": "South China Morning Post",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "a5c55e19810d838a496e05fddebf5eb0d31f5242dbf69c921c588d74bf2b425c",
@@ -2650,6 +2617,22 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5",
         "pubDate": "Thu, 12 Nov 2026 16:16:00 GMT",
         "source": "USA Today",
+        "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "485faaa8aeb0de0190780549efc53f53b6b6f2256ba512c22fca45255ee2cc4d",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia - The Hill",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNvN1lydjY5eDZuYl9ZaXJFVF9tLVlQVUdqM01kUHZTSTFOUjY4aHhuWTZBSkZaa3BXMHg1QWR0c2NicUxMX1RPZFU1S2Y0UXJKS0lkSDJFZHhSUmdEZDRLWUp3M3R2WUVYeFF3NFcwNWhIQzFsS0c1ZWVOOUo1NkJJb9IBiAFBVV95cUxQU1B0X2tMN21vS0N2WWdzb2RXenpDVm5maW1LZE9BeWM5eHo0UmFSdUk4Q1hQVnMzN1hCbHlaOVRrVXZmd0NGQkwwZGJhNU82NmFWQkt5ODZzbXNnRHVyUFN2NGo3ak9QWHBtd09SekRzem1MZ21GRm5WTkxiM2dLMVFXeDVfcVRB?oc=5\" target=\"_blank\">Trump calls for Tim Cook to replace Jensen Huang at Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNvN1lydjY5eDZuYl9ZaXJFVF9tLVlQVUdqM01kUHZTSTFOUjY4aHhuWTZBSkZaa3BXMHg1QWR0c2NicUxMX1RPZFU1S2Y0UXJKS0lkSDJFZHhSUmdEZDRLWUp3M3R2WUVYeFF3NFcwNWhIQzFsS0c1ZWVOOUo1NkJJb9IBiAFBVV95cUxQU1B0X2tMN21vS0N2WWdzb2RXenpDVm5maW1LZE9BeWM5eHo0UmFSdUk4Q1hQVnMzN1hCbHlaOVRrVXZmd0NGQkwwZGJhNU82NmFWQkt5ODZzbXNnRHVyUFN2NGo3ak9QWHBtd09SekRzem1MZ21GRm5WTkxiM2dLMVFXeDVfcVRB?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 16:25:00 GMT",
+        "source": "The Hill",
         "ageHours": 1.6
       },
       "delivered": [],

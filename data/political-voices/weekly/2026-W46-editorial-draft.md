@@ -1600,3 +1600,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 안철수 “한동훈, 물귀신 행태···차라리 창당하라” - 주간경향
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 안철수 “한동훈, 물귀신 행태···차라리 창당하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwMFBOa1FaWUNxdGczYVpYODV1VGlYWkFsY2Zhc0lfU3Brb2RwVGNnS09LZWs4Z3BRNFBaODYteWZZOVlabHlybmI4SGNyTml0UDEtUzFhRExfaWY5M2c?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says US does not need deal with Iran - The New Region
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says US does not need deal with Iran
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JdzZsV3JkMTBCb0FfWnNaRVh3ZGVvVTNOSmVsYmpNNjR0RHJyNUNHclJPVVhyZy1sT0NZdDhiYzQ3b045bVU4TkZkNA?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says US does not ‘need a deal with Iran’ - South China Morning Post
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says US does not ‘need a deal with Iran’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9nNzNfTTNDaUVlOHE0OEFrTXUyMktlSUV3RXRoNzI5aGF0TG9VbXUyVTRTUVdMd1hVbms0Y2NLeU82Rk8taW1uSjdFVXdzcHdaemxGdjNyYlFieV9vNEFYRXhYaVpCU3NQOU85MDNTVS1nV0pyVEl6NnNhWXlTR2QzRHVnMXdnYlE1OVp2WWVXRTNsRVJaemJnTHMzTTRWclpSdnZOamp5Z9IBqgFBVV95cUxPZjRNZTJkOXROSV9mMU9oazFUWUxmazJQMjlrOHI0bWQtcGw4ZnNKNkF5Y3JuNXlKNVJlUEFGN3RCYUFuR00ycUt5Q1FwOWFfeTdXV18tcXFJQUZQbkl6OFlqNjBvbHpWTFc2VnRwXzdrZXZTREktTzV6X2FXb0FkMkszV3I1dU9Wd0s2ZGhRdkEwMlVQUlVQZnhQQzhOU1dOUVpmWTQ0S1VDQQ?oc=5)
+
+---
+
