@@ -469,3 +469,42 @@
 
 ---
 
+## [정치인의 말] 이재명 (대통령)
+> **"이재명 대통령 국정 평가 '팽팽'···긍정 44%-부정 47% - 더리포트"**
+
+- **발언 일시**: 2026-11-12
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 이재명 대통령 국정 평가 '팽팽'···긍정 44%-부정 47%
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBrclp0NVE1Y0daOUFfMWhXUGVIR0tJLURteURPajBMWXdkNTUxRWg5ZFZrMW50QWJVR0Q3ZHdQY1BKS3VuOHp6bnBna2RmR2FEYVJmbGp4aW5PSGx1YkJkSTJsdzc5T0UyazBUN1F3?oc=5)
+
+---
+
+## [정치인의 말] 이재명 (대통령)
+> **"트럼프 SNS 파고든 ‘위장 민심’…李대통령도 경계해야[송종호의 국정쏙쏙] - 서울경제"**
+
+- **발언 일시**: 2026-11-12
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 트럼프 SNS 파고든 ‘위장 민심’…李대통령도 경계해야
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJTW5HcFNBZGtmd3QxMUZGY2UxSFRENldtaFJ5dHROX2ZCcDZWejNWTUJEZDJhdzJBb3lieUsyMXJJeWdob2lUWHJUN0Y0YlVjbnfSAVNBVV95cUxQNEVPUzlCSmVDMmdYWko2eGlqRVNTM2V3N0ZDaW5JZUhNbGRwTDdKSVZEUjN0SWE3aGVfTFBWTmxnOW8xbjhQLUJ6NkptYmJxNjBKVQ?oc=5)
+
+---
+
+## [정치인의 말] 이재명 (대통령)
+> **"안태훈 민주당 부대변인 "전광훈 목사, 이재명 대통령 ‘알박기’ 지적에 '나쁜x 자식" 욕설 - 브레이크뉴스"**
+
+- **발언 일시**: 2026-11-12
+- **쟁점 맥락**: *“이재명 측의 결정적 입장 표명으로 관련 정국 공방이 심화될 전망.”*
+- **심층 해설**:
+  1. 📌 [핵심 발언] 안태훈 민주당 부대변인 "전광훈 목사, 이재명 대통령 ‘알박기’ 지적에 '나쁜x 자식" 욕설
+  1. 🏛️ [소속/직함] 이재명 대통령의 공식 입장 표명
+  1. ⚡ [정국 파장] 여야 쟁점 사안에 대한 대국민 메시지 및 여론전 본격화
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfY2tQRTRsbFduWl9tMXlDU2gzaG1mLWI4a2hCR3MtYjJKc1BmdmJla3JjLTBibU5HazYtLWw4ZjZRZw?oc=5)
+
+---
+
