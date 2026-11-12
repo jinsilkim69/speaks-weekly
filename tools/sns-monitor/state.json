@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T18:21:15.971Z",
+  "lastCheckedAt": "2026-11-12T18:31:16.956Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2265,57 +2265,24 @@
       "seenAt": "2026-11-12T18:21:19.251Z",
       "title": "Trump reverts to an old theme, warns of immigrant caravans - The Washington Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "98fba06e69e6a2794b18796cddca767f9fde368a6ca592ad10e413338074cc8a": {
+      "seenAt": "2026-11-12T18:31:18.168Z",
+      "title": "【시사토픽Q=입법.정당/이슈특보】 장동혁, '한동훈 복당 불가' 원칙 재확인…이진숙, '통합·연대' 발언에 지지 철회 움직임 - 데일리NGO뉴스",
+      "targetName": "한동훈"
+    },
+    "514080d0a5400be97f18e555b130db31ec33d6d9191c8f9ef60c6bdfd553ae5f": {
+      "seenAt": "2026-11-12T18:31:18.850Z",
+      "title": "조국혁신당·진보당, '청해부대 작전구역 확대' 동의안에 \"꼼수 파병\" 반대 - 뉴시스",
+      "targetName": "조국"
+    },
+    "d2f9a52afe7cda8e83f2e656e938ca549403ffe2d52246438e6e0cc2ac811788": {
+      "seenAt": "2026-11-12T18:31:19.499Z",
+      "title": "김민석 대화로 풀어가자는데 정청래 “합의 강요는 2차 가해” [이런뉴스] - KBS 뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "98fba06e69e6a2794b18796cddca767f9fde368a6ca592ad10e413338074cc8a",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "【시사토픽Q=입법.정당/이슈특보】 장동혁, '한동훈 복당 불가' 원칙 재확인…이진숙, '통합·연대' 발언에 지지 철회 움직임 - 데일리NGO뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zLWRkRUVRLTVBbnVxeVMyVndWaHU5STQxVVZVcmhsblhPQ0o2OWVFc0htMEZ3TE44bmdsdnFrbzdBbjNEMmh5T3QtTGpuVUI4Wll2RURwQzVheWxOWjFqbA?oc=5\" target=\"_blank\">【시사토픽Q=입법.정당/이슈특보】 장동혁, '한동훈 복당 불가' 원칙 재확인…이진숙, '통합·연대' 발언에 지지 철회 움직임</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리NGO뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zLWRkRUVRLTVBbnVxeVMyVndWaHU5STQxVVZVcmhsblhPQ0o2OWVFc0htMEZ3TE44bmdsdnFrbzdBbjNEMmh5T3QtTGpuVUI4Wll2RURwQzVheWxOWjFqbA?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 14:02:07 GMT",
-        "source": "데일리NGO뉴스",
-        "ageHours": 1.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "514080d0a5400be97f18e555b130db31ec33d6d9191c8f9ef60c6bdfd553ae5f",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당·진보당, '청해부대 작전구역 확대' 동의안에 \"꼼수 파병\" 반대 - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9kUmhIbDluYjZDZGNSa3dndHBoamJhMm93YUdaMURuQjlSQnFjT01JUEdMRmVKajBqSm5RakRyRkpQNXZDMWxKNVJYSEVBT1ZZeF9COTA0X2xBWU1iT1ZJVkVvUkprQ1lRdWxYNUtNTHhZTkJPbEpaY9IBeEFVX3lxTE9kUmhIbDluYjZDZGNSa3dndHBoamJhMm93YUdaMURuQjlSQnFjT01JUEdMRmVKajBqSm5RakRyRkpQNXZDMWxKNVJYSEVBT1ZZeF9COTA0X2xBWU1iT1ZJVkVvUkprQ1lRdWxYNUtNTHhZTkJPbEpaYw?oc=5\" target=\"_blank\">조국혁신당·진보당, '청해부대 작전구역 확대' 동의안에 \"꼼수 파병\" 반대</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kUmhIbDluYjZDZGNSa3dndHBoamJhMm93YUdaMURuQjlSQnFjT01JUEdMRmVKajBqSm5RakRyRkpQNXZDMWxKNVJYSEVBT1ZZeF9COTA0X2xBWU1iT1ZJVkVvUkprQ1lRdWxYNUtNTHhZTkJPbEpaY9IBeEFVX3lxTE9kUmhIbDluYjZDZGNSa3dndHBoamJhMm93YUdaMURuQjlSQnFjT01JUEdMRmVKajBqSm5RakRyRkpQNXZDMWxKNVJYSEVBT1ZZeF9COTA0X2xBWU1iT1ZJVkVvUkprQ1lRdWxYNUtNTHhZTkJPbEpaYw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 06:04:49 GMT",
-        "source": "뉴시스",
-        "ageHours": 9.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d2f9a52afe7cda8e83f2e656e938ca549403ffe2d52246438e6e0cc2ac811788",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "김민석 대화로 풀어가자는데 정청래 “합의 강요는 2차 가해” [이런뉴스] - KBS 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mejJUb19WdEhaTUV1eEQ2OUJQSWdpb0ZUZnZ4NXd6YWR2S0tMNG42MHF6QVFuVXBraGRJbUk0cFZGel9CWTlpQzBoS0pMdlh3SDMtRVBTQjNvWkhYWEpyRkM4d0tTdw?oc=5\" target=\"_blank\">김민석 대화로 풀어가자는데 정청래 “합의 강요는 2차 가해” [이런뉴스]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mejJUb19WdEhaTUV1eEQ2OUJQSWdpb0ZUZnZ4NXd6YWR2S0tMNG42MHF6QVFuVXBraGRJbUk0cFZGel9CWTlpQzBoS0pMdlh3SDMtRVBTQjNvWkhYWEpyRkM4d0tTdw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 08:01:00 GMT",
-        "source": "KBS 뉴스",
-        "ageHours": 7.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "cbd12ac422ba7c5f4f4bf8d414d398f5b030bbb90139f5f26ef2769153ed9615",
