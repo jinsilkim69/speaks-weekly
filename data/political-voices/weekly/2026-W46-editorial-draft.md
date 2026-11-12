@@ -1405,3 +1405,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** “가던 길 가세요” 정청래에…박지원 “싸우자는 거냐” - 한겨레
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “가던 길 가세요” 정청래에…박지원 “싸우자는 거냐”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE9KeDJsRS1SSG9hWEotemtvWDBzWGNqZW5PNkxWRnh6NHFoT3RFMEdXalhPcENDR01JZWg3c3ZVcUNhY0R6Ql9xSVpEcGFBcHpWZUNhVGhlckpDdjNOTDRxU3dTRzJXSkR5aFd6UF9lUThlVW5S?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석 "만나서 대화"…정청래 "피해자에 합의강요는 2차 가해"(종합) - 연합뉴스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "만나서 대화"…정청래 "피해자에 합의강요는 2차 가해"(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTtIBYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTg?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump’s Manic 5:50AM Meltdown Reveals His Biggest Fear - The Daily Beast
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump’s Manic 5:50AM Meltdown Reveals His Biggest Fear
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiigFBVV95cUxNM182NWdQa2REc0pDenZYVlcwUzhSaDVuSjl1T012ZlFDcWhqM2gzWGlTVnp0cTNza0pFRWx3Mll4QlF4X2xHOUxZbDlUWm1IeFRlUzQtNFR2aF93ckh3YWVoTVYybVM2eFBFS1VyRHJGcVYwUjJ6dXBZRlg1SERzSlZ0aG5ialpmRlE?oc=5)
+
+---
+

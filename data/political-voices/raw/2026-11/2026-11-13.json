@@ -976,5 +976,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "1d6b8a21d61a9d8e85c31aa1ae8c90cb58a87e9d6072237a974a7596983c2fa9",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "“가던 길 가세요” 정청래에…박지원 “싸우자는 거냐” - 한겨레",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9KeDJsRS1SSG9hWEotemtvWDBzWGNqZW5PNkxWRnh6NHFoT3RFMEdXalhPcENDR01JZWg3c3ZVcUNhY0R6Ql9xSVpEcGFBcHpWZUNhVGhlckpDdjNOTDRxU3dTRzJXSkR5aFd6UF9lUThlVW5S?oc=5\" target=\"_blank\">“가던 길 가세요” 정청래에…박지원 “싸우자는 거냐”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KeDJsRS1SSG9hWEotemtvWDBzWGNqZW5PNkxWRnh6NHFoT3RFMEdXalhPcENDR01JZWg3c3ZVcUNhY0R6Ql9xSVpEcGFBcHpWZUNhVGhlckpDdjNOTDRxU3dTRzJXSkR5aFd6UF9lUThlVW5S?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 12:12:00 GMT",
+    "source": "한겨레",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “가던 길 가세요” 정청래에…박지원 “싸우자는 거냐”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "6886abe2c67c11ff00f6b509ad71664c7a59336d488efc8a994e7c0c772a2362",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\"(종합) - 연합뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTtIBYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTg?oc=5\" target=\"_blank\">김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTtIBYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTg?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 01:58:37 GMT",
+    "source": "연합뉴스",
+    "ageHours": 11.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\"(종합)",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "34913eb87abf4f02e9a1fc4ef57bd5c432c7770e0d0d4a1c6a7123647a19f67c",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump’s Manic 5:50AM Meltdown Reveals His Biggest Fear - The Daily Beast",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNM182NWdQa2REc0pDenZYVlcwUzhSaDVuSjl1T012ZlFDcWhqM2gzWGlTVnp0cTNza0pFRWx3Mll4QlF4X2xHOUxZbDlUWm1IeFRlUzQtNFR2aF93ckh3YWVoTVYybVM2eFBFS1VyRHJGcVYwUjJ6dXBZRlg1SERzSlZ0aG5ialpmRlE?oc=5\" target=\"_blank\">Trump’s Manic 5:50AM Meltdown Reveals His Biggest Fear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM182NWdQa2REc0pDenZYVlcwUzhSaDVuSjl1T012ZlFDcWhqM2gzWGlTVnp0cTNza0pFRWx3Mll4QlF4X2xHOUxZbDlUWm1IeFRlUzQtNFR2aF93ckh3YWVoTVYybVM2eFBFS1VyRHJGcVYwUjJ6dXBZRlg1SERzSlZ0aG5ialpmRlE?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 12:21:01 GMT",
+    "source": "The Daily Beast",
+    "ageHours": 0.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump’s Manic 5:50AM Meltdown Reveals His Biggest Fear",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

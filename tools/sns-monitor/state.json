@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T17:01:21.368Z",
+  "lastCheckedAt": "2026-11-12T17:11:16.636Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2145,57 +2145,24 @@
       "seenAt": "2026-11-12T17:01:24.253Z",
       "title": "한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까 - 에너지경제신문",
       "targetName": "한동훈"
+    },
+    "1d6b8a21d61a9d8e85c31aa1ae8c90cb58a87e9d6072237a974a7596983c2fa9": {
+      "seenAt": "2026-11-12T17:11:17.950Z",
+      "title": "“가던 길 가세요” 정청래에…박지원 “싸우자는 거냐” - 한겨레",
+      "targetName": "정청래"
+    },
+    "6886abe2c67c11ff00f6b509ad71664c7a59336d488efc8a994e7c0c772a2362": {
+      "seenAt": "2026-11-12T17:11:18.649Z",
+      "title": "김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\"(종합) - 연합뉴스",
+      "targetName": "정청래"
+    },
+    "34913eb87abf4f02e9a1fc4ef57bd5c432c7770e0d0d4a1c6a7123647a19f67c": {
+      "seenAt": "2026-11-12T17:11:19.392Z",
+      "title": "Trump’s Manic 5:50AM Meltdown Reveals His Biggest Fear - The Daily Beast",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "1d6b8a21d61a9d8e85c31aa1ae8c90cb58a87e9d6072237a974a7596983c2fa9",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "“가던 길 가세요” 정청래에…박지원 “싸우자는 거냐” - 한겨레",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9KeDJsRS1SSG9hWEotemtvWDBzWGNqZW5PNkxWRnh6NHFoT3RFMEdXalhPcENDR01JZWg3c3ZVcUNhY0R6Ql9xSVpEcGFBcHpWZUNhVGhlckpDdjNOTDRxU3dTRzJXSkR5aFd6UF9lUThlVW5S?oc=5\" target=\"_blank\">“가던 길 가세요” 정청래에…박지원 “싸우자는 거냐”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KeDJsRS1SSG9hWEotemtvWDBzWGNqZW5PNkxWRnh6NHFoT3RFMEdXalhPcENDR01JZWg3c3ZVcUNhY0R6Ql9xSVpEcGFBcHpWZUNhVGhlckpDdjNOTDRxU3dTRzJXSkR5aFd6UF9lUThlVW5S?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 12:12:00 GMT",
-        "source": "한겨레",
-        "ageHours": 0.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "6886abe2c67c11ff00f6b509ad71664c7a59336d488efc8a994e7c0c772a2362",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\"(종합) - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTtIBYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTg?oc=5\" target=\"_blank\">김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTtIBYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTg?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 01:58:37 GMT",
-        "source": "연합뉴스",
-        "ageHours": 11.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "34913eb87abf4f02e9a1fc4ef57bd5c432c7770e0d0d4a1c6a7123647a19f67c",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump’s Manic 5:50AM Meltdown Reveals His Biggest Fear - The Daily Beast",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNM182NWdQa2REc0pDenZYVlcwUzhSaDVuSjl1T012ZlFDcWhqM2gzWGlTVnp0cTNza0pFRWx3Mll4QlF4X2xHOUxZbDlUWm1IeFRlUzQtNFR2aF93ckh3YWVoTVYybVM2eFBFS1VyRHJGcVYwUjJ6dXBZRlg1SERzSlZ0aG5ialpmRlE?oc=5\" target=\"_blank\">Trump’s Manic 5:50AM Meltdown Reveals His Biggest Fear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM182NWdQa2REc0pDenZYVlcwUzhSaDVuSjl1T012ZlFDcWhqM2gzWGlTVnp0cTNza0pFRWx3Mll4QlF4X2xHOUxZbDlUWm1IeFRlUzQtNFR2aF93ckh3YWVoTVYybVM2eFBFS1VyRHJGcVYwUjJ6dXBZRlg1SERzSlZ0aG5ialpmRlE?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 12:21:01 GMT",
-        "source": "The Daily Beast",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "8bc573d1241cff112a107bd2ea5e9c6303ed9ade52c492bd64703333f496bbff",
