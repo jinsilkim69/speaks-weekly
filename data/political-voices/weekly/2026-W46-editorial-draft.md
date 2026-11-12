@@ -820,3 +820,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 與 신천지 갈등…김민석 "만나서 대화" vs 정청래 "사과부터 제대로" - 뉴스웍스
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 신천지 갈등…김민석 "만나서 대화" vs 정청래 "사과부터 제대로"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1qcnEyQ1d0eS13eDVQM2FWNVM5eWt4Um13Q1g2bHFhWm1QVDVUQ0V5RzI5U1E4Sm1keUozZjRyX0hBUEpvNDlLd0dWeG5EeHFrVjdTTzVURHRYODR4aDlUSEg4cmhyWF9Gb0dyVkhiUdIBc0FVX3lxTE5nUC1HQ01LWVNPUkppNnNZVWM0eGdPN2dvc3pfWDNIWTU5ME5YWUl1eW91VEpDb3hiSDhkWjd3eUFZajVvNEVVMjNxRWd6M2FHSEk1bjJOQXUzT1Y4R0hOR2Ezb2ZZbEpaQmNXLUVlNTFLNTQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석·"부동산 정책 일관" 종부세 엇박자 불식 주력, 정청래 갈등엔 "만나서 대화" - 국제신문
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석·"부동산 정책 일관" 종부세 엇박자 불식 주력, 정청래 갈등엔 "만나서 대화"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0hTbEc5azY3enB1MjM0VkJLaUgtdEFMTmYzVUM3SlJpcV9jNlo1UVhzWW02R1hhN1V1NThFanN0bGxsSy1RZ2NzZUxINThha0lObGtad290ajR4aXFtcDJNcFdtT2VPNERaWXRBdUR2LVpTS3ZjbDdJN3BQNUtkbzlQVld6bzRyUV9nZFVB?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** ‘신천지 수렁’ 민주…김민석 “대화로 해결” 정청래 “사과부터” - 한겨레
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘신천지 수렁’ 민주…김민석 “대화로 해결” 정청래 “사과부터”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE5mWlI5elNwV3ZBaFNjMkk1Y2NrVUJFSjNEbE5teE4tVlprdEc1NjJQZF9wbVAwRXpEQy1ZVi1yZ0htTWxpdGNBUGM4SGlkNjl0U244OFNrYjdzQnBVQmFScEVKdGwzNkQ4LVE?oc=5)
+
+---
+
