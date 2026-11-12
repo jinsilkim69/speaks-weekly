@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T15:26:47.719Z",
+  "lastCheckedAt": "2026-11-12T15:35:16.940Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -1995,57 +1995,24 @@
       "seenAt": "2026-11-12T15:26:50.343Z",
       "title": "쑨원 탄생 160주년 대회…시진핑 “조국통일 반드시 실현할 수 있어” - 중앙일보",
       "targetName": "조국"
+    },
+    "56b7ae98576e13f5bcf8822924d260460a4e071792f8379b38e31b3e7cf51f07": {
+      "seenAt": "2026-11-12T15:35:18.557Z",
+      "title": "조국혁신당 “지역 예술인들의 지속적인 활동 지원해야” - 강원일보",
+      "targetName": "조국"
+    },
+    "985b95f69db7c494ee4fc66f7c869563b195252a5d5704b1130c410624d2e872": {
+      "seenAt": "2026-11-12T15:35:19.254Z",
+      "title": "조국혁신당 “한덕수 석방 전 조희대 탄핵하고 직무 정지시켜야” - 동아일보",
+      "targetName": "조국"
+    },
+    "fbd7360606e69928c2fcfbc4f81b4518738a96069025d238acc5bda64084eb15": {
+      "seenAt": "2026-11-12T15:35:19.971Z",
+      "title": "[속보] 시진핑 \"조국통일은 역사적 임무…양안관계 평화발전 노력해야\" - 한국경제",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "56b7ae98576e13f5bcf8822924d260460a4e071792f8379b38e31b3e7cf51f07",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 “지역 예술인들의 지속적인 활동 지원해야” - 강원일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Jbm0zMUF6Vnd0YW1HY3pPZHlEbXMzUjZ6cjl4ZW5HNDVIMlJwS2xTcFZOZEp4d0V3aDVrR2o5a0FMWEt0YjVLNThHUUhSQ1VWRzJkSnpoYjB1Q2s?oc=5\" target=\"_blank\">조국혁신당 “지역 예술인들의 지속적인 활동 지원해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Jbm0zMUF6Vnd0YW1HY3pPZHlEbXMzUjZ6cjl4ZW5HNDVIMlJwS2xTcFZOZEp4d0V3aDVrR2o5a0FMWEt0YjVLNThHUUhSQ1VWRzJkSnpoYjB1Q2s?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 09:20:41 GMT",
-        "source": "강원일보",
-        "ageHours": 2.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "985b95f69db7c494ee4fc66f7c869563b195252a5d5704b1130c410624d2e872",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 “한덕수 석방 전 조희대 탄핵하고 직무 정지시켜야” - 동아일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5yRlVfU2xjZHhlOS1CY2RVNWFoellodUY4RUdEYWh1bF9sM3lQMW1VRjkyMGNuNDM2N2w2YUpxNHFITzFWeGJxQUtubmsyNHZ4bGs4S2FRRVdBc29qVTRzWW41cmd2XzdTeE5Yd3RfanFfQkNrTDNv0gFmQVVfeXFMTjR0MUpTREVFU3FzR1o2VWRFTlRQYm5fTWhrOXhMUDdkMTZQQWVlaTBobDdxLVpVVW92cHdyRmoxb2xWX0NaSmpFcksxLWpORmppRVBqMFV3VnMzOVhnSlV1ZzlySEFR?oc=5\" target=\"_blank\">조국혁신당 “한덕수 석방 전 조희대 탄핵하고 직무 정지시켜야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yRlVfU2xjZHhlOS1CY2RVNWFoellodUY4RUdEYWh1bF9sM3lQMW1VRjkyMGNuNDM2N2w2YUpxNHFITzFWeGJxQUtubmsyNHZ4bGs4S2FRRVdBc29qVTRzWW41cmd2XzdTeE5Yd3RfanFfQkNrTDNv0gFmQVVfeXFMTjR0MUpTREVFU3FzR1o2VWRFTlRQYm5fTWhrOXhMUDdkMTZQQWVlaTBobDdxLVpVVW92cHdyRmoxb2xWX0NaSmpFcksxLWpORmppRVBqMFV3VnMzOVhnSlV1ZzlySEFR?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 01:29:24 GMT",
-        "source": "동아일보",
-        "ageHours": 10.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "fbd7360606e69928c2fcfbc4f81b4518738a96069025d238acc5bda64084eb15",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "[속보] 시진핑 \"조국통일은 역사적 임무…양안관계 평화발전 노력해야\" - 한국경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wX3NoVkdXbFZndFgxUGpjMUs1TGtpYmh2LXFGb3o5OVVPbFhHZUVRM1NXbktCOURjSDMtc3dxbmhkcnlTV3FJN2NBaVg5dk9jSVZkdEI3WGxDQQ?oc=5\" target=\"_blank\">[속보] 시진핑 \"조국통일은 역사적 임무…양안관계 평화발전 노력해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wX3NoVkdXbFZndFgxUGpjMUs1TGtpYmh2LXFGb3o5OVVPbFhHZUVRM1NXbktCOURjSDMtc3dxbmhkcnlTV3FJN2NBaVg5dk9jSVZkdEI3WGxDQQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 04:15:00 GMT",
-        "source": "한국경제",
-        "ageHours": 7.9
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "c65e837a34891e21843306fa6383342d67096fb0a0031084759a4ba6ca74297f",
@@ -2890,6 +2857,22 @@
         "pubDate": "Thu, 12 Nov 2026 06:04:49 GMT",
         "source": "뉴시스",
         "ageHours": 9.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d2f9a52afe7cda8e83f2e656e938ca549403ffe2d52246438e6e0cc2ac811788",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "김민석 대화로 풀어가자는데 정청래 “합의 강요는 2차 가해” [이런뉴스] - KBS 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mejJUb19WdEhaTUV1eEQ2OUJQSWdpb0ZUZnZ4NXd6YWR2S0tMNG42MHF6QVFuVXBraGRJbUk0cFZGel9CWTlpQzBoS0pMdlh3SDMtRVBTQjNvWkhYWEpyRkM4d0tTdw?oc=5\" target=\"_blank\">김민석 대화로 풀어가자는데 정청래 “합의 강요는 2차 가해” [이런뉴스]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mejJUb19WdEhaTUV1eEQ2OUJQSWdpb0ZUZnZ4NXd6YWR2S0tMNG42MHF6QVFuVXBraGRJbUk0cFZGel9CWTlpQzBoS0pMdlh3SDMtRVBTQjNvWkhYWEpyRkM4d0tTdw?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 08:01:00 GMT",
+        "source": "KBS 뉴스",
+        "ageHours": 7.6
       },
       "delivered": [],
       "archived": false

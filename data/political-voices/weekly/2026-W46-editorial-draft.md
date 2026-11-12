@@ -1015,3 +1015,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 “지역 예술인들의 지속적인 활동 지원해야” - 강원일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 “지역 예술인들의 지속적인 활동 지원해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Jbm0zMUF6Vnd0YW1HY3pPZHlEbXMzUjZ6cjl4ZW5HNDVIMlJwS2xTcFZOZEp4d0V3aDVrR2o5a0FMWEt0YjVLNThHUUhSQ1VWRzJkSnpoYjB1Q2s?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 “한덕수 석방 전 조희대 탄핵하고 직무 정지시켜야” - 동아일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 “한덕수 석방 전 조희대 탄핵하고 직무 정지시켜야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE5yRlVfU2xjZHhlOS1CY2RVNWFoellodUY4RUdEYWh1bF9sM3lQMW1VRjkyMGNuNDM2N2w2YUpxNHFITzFWeGJxQUtubmsyNHZ4bGs4S2FRRVdBc29qVTRzWW41cmd2XzdTeE5Yd3RfanFfQkNrTDNv0gFmQVVfeXFMTjR0MUpTREVFU3FzR1o2VWRFTlRQYm5fTWhrOXhMUDdkMTZQQWVlaTBobDdxLVpVVW92cHdyRmoxb2xWX0NaSmpFcksxLWpORmppRVBqMFV3VnMzOVhnSlV1ZzlySEFR?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [속보] 시진핑 "조국통일은 역사적 임무…양안관계 평화발전 노력해야" - 한국경제
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 시진핑 "조국통일은 역사적 임무…양안관계 평화발전 노력해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wX3NoVkdXbFZndFgxUGpjMUs1TGtpYmh2LXFGb3o5OVVPbFhHZUVRM1NXbktCOURjSDMtc3dxbmhkcnlTV3FJN2NBaVg5dk9jSVZkdEI3WGxDQQ?oc=5)
+
+---
+
