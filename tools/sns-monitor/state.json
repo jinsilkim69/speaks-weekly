@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T17:11:16.636Z",
+  "lastCheckedAt": "2026-11-12T17:21:16.865Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2160,57 +2160,24 @@
       "seenAt": "2026-11-12T17:11:19.392Z",
       "title": "Trump’s Manic 5:50AM Meltdown Reveals His Biggest Fear - The Daily Beast",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8bc573d1241cff112a107bd2ea5e9c6303ed9ade52c492bd64703333f496bbff": {
+      "seenAt": "2026-11-12T17:21:18.040Z",
+      "title": "Trump threatens to double tariffs on Mexico if migrant caravans not stopped - 930 WFMD Free Talk",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "65bc1394d22799bf643d6b4860c0134ac406fdb8d2a642d57298d34e2516c0d0": {
+      "seenAt": "2026-11-12T17:21:18.698Z",
+      "title": "최민희 이번엔 “이 대통령, 윤석열 탄핵 반대”…김민석, 감찰 지시 - 한겨레",
+      "targetName": "김민석"
+    },
+    "179c84602baf147ce4c17c8774a6691929deb103c5f1b1a5cf313e68cd1678f0": {
+      "seenAt": "2026-11-12T17:21:19.408Z",
+      "title": "김민석, '언행 논란' 최민희 감찰조사 지시…\"심각 인식\"(종합) - 연합뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "8bc573d1241cff112a107bd2ea5e9c6303ed9ade52c492bd64703333f496bbff",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump threatens to double tariffs on Mexico if migrant caravans not stopped - 930 WFMD Free Talk",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1pIekdDQl84Uk1iQ2ZhVG1WLTd5T25HYkVmLWVJSXFGOEE4enB2SDJteDVQeENhQzNNMDBpU3F2UVhuNkh2SVlCQS16SkNSZVBlYl9vcnpReTJLTkRPWjBBYnQzeWdFM0dscDF6LUduSkx5S0lheExIWTFNMFJZaWZCc3c0UDRVSzRvUkp3N1lkTTJjTHBMN094LVdrbm12bWotSlhXNWxyUW44?oc=5\" target=\"_blank\">Trump threatens to double tariffs on Mexico if migrant caravans not stopped</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">930 WFMD Free Talk</font>",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1pIekdDQl84Uk1iQ2ZhVG1WLTd5T25HYkVmLWVJSXFGOEE4enB2SDJteDVQeENhQzNNMDBpU3F2UVhuNkh2SVlCQS16SkNSZVBlYl9vcnpReTJLTkRPWjBBYnQzeWdFM0dscDF6LUduSkx5S0lheExIWTFNMFJZaWZCc3c0UDRVSzRvUkp3N1lkTTJjTHBMN094LVdrbm12bWotSlhXNWxyUW44?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 12:43:14 GMT",
-        "source": "930 WFMD Free Talk",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "65bc1394d22799bf643d6b4860c0134ac406fdb8d2a642d57298d34e2516c0d0",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "최민희 이번엔 “이 대통령, 윤석열 탄핵 반대”…김민석, 감찰 지시 - 한겨레",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE80cWpSQWhUR2lDdGhBQzBhVlQ2QWJtanRNSTd4ZlduaWRsN1pYZjJiRXpxdUFtSnJLMVZjSkN2Y3lCRFJmX1JYT1A4ZjRPcFcxWmZjeDFJYmNrTDc5MEVJUEZfT2pYbFdWWkdTbkpmU2FpVnJC?oc=5\" target=\"_blank\">최민희 이번엔 “이 대통령, 윤석열 탄핵 반대”…김민석, 감찰 지시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80cWpSQWhUR2lDdGhBQzBhVlQ2QWJtanRNSTd4ZlduaWRsN1pYZjJiRXpxdUFtSnJLMVZjSkN2Y3lCRFJmX1JYT1A4ZjRPcFcxWmZjeDFJYmNrTDc5MEVJUEZfT2pYbFdWWkdTbkpmU2FpVnJC?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 13:10:00 GMT",
-        "source": "한겨레",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "179c84602baf147ce4c17c8774a6691929deb103c5f1b1a5cf313e68cd1678f0",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, '언행 논란' 최민희 감찰조사 지시…\"심각 인식\"(종합) - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzREhUMm1SekdIc3V5WFBVWXpzSVR5MWNKUFZiTExHVVZDX1JPMW5VSGRCTVBQSWU1U0duM3VDeFZiVjdVRGZESjNyR2tBYnc5TG1nMS1rRXAxY0nSAWBBVV95cUxNQl9oZ3BsOTJkUldCNmpfa0E0eENtako2dWktQ1NTVExqUG4zRUVvYUU5VzdoYWlsa3ZNOFR1MWlOS0twSVFWT1RjZzJfa1duVkxWNkdBX0R2bDBmdjF4U3U?oc=5\" target=\"_blank\">김민석, '언행 논란' 최민희 감찰조사 지시…\"심각 인식\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzREhUMm1SekdIc3V5WFBVWXpzSVR5MWNKUFZiTExHVVZDX1JPMW5VSGRCTVBQSWU1U0duM3VDeFZiVjdVRGZESjNyR2tBYnc5TG1nMS1rRXAxY0nSAWBBVV95cUxNQl9oZ3BsOTJkUldCNmpfa0E0eENtako2dWktQ1NTVExqUG4zRUVvYUU5VzdoYWlsa3ZNOFR1MWlOS0twSVFWT1RjZzJfa1duVkxWNkdBX0R2bDBmdjF4U3U?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 12:58:42 GMT",
-        "source": "연합뉴스",
-        "ageHours": 0.9
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "cc094bea678a687d30e298ee8d9db6afa3234b6f62dfcc21d37e61d67ecb7161",

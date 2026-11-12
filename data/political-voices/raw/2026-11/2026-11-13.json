@@ -1051,5 +1051,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8bc573d1241cff112a107bd2ea5e9c6303ed9ade52c492bd64703333f496bbff",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump threatens to double tariffs on Mexico if migrant caravans not stopped - 930 WFMD Free Talk",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1pIekdDQl84Uk1iQ2ZhVG1WLTd5T25HYkVmLWVJSXFGOEE4enB2SDJteDVQeENhQzNNMDBpU3F2UVhuNkh2SVlCQS16SkNSZVBlYl9vcnpReTJLTkRPWjBBYnQzeWdFM0dscDF6LUduSkx5S0lheExIWTFNMFJZaWZCc3c0UDRVSzRvUkp3N1lkTTJjTHBMN094LVdrbm12bWotSlhXNWxyUW44?oc=5\" target=\"_blank\">Trump threatens to double tariffs on Mexico if migrant caravans not stopped</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">930 WFMD Free Talk</font>",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1pIekdDQl84Uk1iQ2ZhVG1WLTd5T25HYkVmLWVJSXFGOEE4enB2SDJteDVQeENhQzNNMDBpU3F2UVhuNkh2SVlCQS16SkNSZVBlYl9vcnpReTJLTkRPWjBBYnQzeWdFM0dscDF6LUduSkx5S0lheExIWTFNMFJZaWZCc3c0UDRVSzRvUkp3N1lkTTJjTHBMN094LVdrbm12bWotSlhXNWxyUW44?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 12:43:14 GMT",
+    "source": "930 WFMD Free Talk",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump threatens to double tariffs on Mexico if migrant caravans not stopped",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "65bc1394d22799bf643d6b4860c0134ac406fdb8d2a642d57298d34e2516c0d0",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "최민희 이번엔 “이 대통령, 윤석열 탄핵 반대”…김민석, 감찰 지시 - 한겨레",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE80cWpSQWhUR2lDdGhBQzBhVlQ2QWJtanRNSTd4ZlduaWRsN1pYZjJiRXpxdUFtSnJLMVZjSkN2Y3lCRFJmX1JYT1A4ZjRPcFcxWmZjeDFJYmNrTDc5MEVJUEZfT2pYbFdWWkdTbkpmU2FpVnJC?oc=5\" target=\"_blank\">최민희 이번엔 “이 대통령, 윤석열 탄핵 반대”…김민석, 감찰 지시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80cWpSQWhUR2lDdGhBQzBhVlQ2QWJtanRNSTd4ZlduaWRsN1pYZjJiRXpxdUFtSnJLMVZjSkN2Y3lCRFJmX1JYT1A4ZjRPcFcxWmZjeDFJYmNrTDc5MEVJUEZfT2pYbFdWWkdTbkpmU2FpVnJC?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 13:10:00 GMT",
+    "source": "한겨레",
+    "ageHours": 0.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 최민희 이번엔 “이 대통령, 윤석열 탄핵 반대”…김민석, 감찰 지시",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "179c84602baf147ce4c17c8774a6691929deb103c5f1b1a5cf313e68cd1678f0",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, '언행 논란' 최민희 감찰조사 지시…\"심각 인식\"(종합) - 연합뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzREhUMm1SekdIc3V5WFBVWXpzSVR5MWNKUFZiTExHVVZDX1JPMW5VSGRCTVBQSWU1U0duM3VDeFZiVjdVRGZESjNyR2tBYnc5TG1nMS1rRXAxY0nSAWBBVV95cUxNQl9oZ3BsOTJkUldCNmpfa0E0eENtako2dWktQ1NTVExqUG4zRUVvYUU5VzdoYWlsa3ZNOFR1MWlOS0twSVFWT1RjZzJfa1duVkxWNkdBX0R2bDBmdjF4U3U?oc=5\" target=\"_blank\">김민석, '언행 논란' 최민희 감찰조사 지시…\"심각 인식\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzREhUMm1SekdIc3V5WFBVWXpzSVR5MWNKUFZiTExHVVZDX1JPMW5VSGRCTVBQSWU1U0duM3VDeFZiVjdVRGZESjNyR2tBYnc5TG1nMS1rRXAxY0nSAWBBVV95cUxNQl9oZ3BsOTJkUldCNmpfa0E0eENtako2dWktQ1NTVExqUG4zRUVvYUU5VzdoYWlsa3ZNOFR1MWlOS0twSVFWT1RjZzJfa1duVkxWNkdBX0R2bDBmdjF4U3U?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 12:58:42 GMT",
+    "source": "연합뉴스",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, '언행 논란' 최민희 감찰조사 지시…\"심각 인식\"(종합)",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1444,3 +1444,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump threatens to double tariffs on Mexico if migrant caravans not stopped - 930 WFMD Free Talk
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump threatens to double tariffs on Mexico if migrant caravans not stopped
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1pIekdDQl84Uk1iQ2ZhVG1WLTd5T25HYkVmLWVJSXFGOEE4enB2SDJteDVQeENhQzNNMDBpU3F2UVhuNkh2SVlCQS16SkNSZVBlYl9vcnpReTJLTkRPWjBBYnQzeWdFM0dscDF6LUduSkx5S0lheExIWTFNMFJZaWZCc3c0UDRVSzRvUkp3N1lkTTJjTHBMN094LVdrbm12bWotSlhXNWxyUW44?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 이번엔 “이 대통령, 윤석열 탄핵 반대”…김민석, 감찰 지시 - 한겨레
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 이번엔 “이 대통령, 윤석열 탄핵 반대”…김민석, 감찰 지시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE80cWpSQWhUR2lDdGhBQzBhVlQ2QWJtanRNSTd4ZlduaWRsN1pYZjJiRXpxdUFtSnJLMVZjSkN2Y3lCRFJmX1JYT1A4ZjRPcFcxWmZjeDFJYmNrTDc5MEVJUEZfT2pYbFdWWkdTbkpmU2FpVnJC?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, '언행 논란' 최민희 감찰조사 지시…"심각 인식"(종합) - 연합뉴스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, '언행 논란' 최민희 감찰조사 지시…"심각 인식"(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzREhUMm1SekdIc3V5WFBVWXpzSVR5MWNKUFZiTExHVVZDX1JPMW5VSGRCTVBQSWU1U0duM3VDeFZiVjdVRGZESjNyR2tBYnc5TG1nMS1rRXAxY0nSAWBBVV95cUxNQl9oZ3BsOTJkUldCNmpfa0E0eENtako2dWktQ1NTVExqUG4zRUVvYUU5VzdoYWlsa3ZNOFR1MWlOS0twSVFWT1RjZzJfa1duVkxWNkdBX0R2bDBmdjF4U3U?oc=5)
+
+---
+
