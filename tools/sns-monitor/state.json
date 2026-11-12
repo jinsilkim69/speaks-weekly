@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T15:01:18.341Z",
+  "lastCheckedAt": "2026-11-12T15:11:17.047Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -1965,57 +1965,24 @@
       "seenAt": "2026-11-12T15:01:21.369Z",
       "title": "이준석 \"마운자로 반입 허용 환영…자가치료 목적은 허용해야\" - 아시아경제",
       "targetName": "이준석"
+    },
+    "a45f2d89d8f4b91d81916ae84959e33ce4eddee8253960979c8c4960c0564b48": {
+      "seenAt": "2026-11-12T15:11:18.144Z",
+      "title": "[전격시사] 이준석 개혁신당 의원 - “李 부동산 정책으로 모두가 고통받아…공급 확 늘리고 세금 확 줄여야” ‘빚내서 집 살걸’ 부동산 포럼, 왜? - KBS 뉴스",
+      "targetName": "이준석"
+    },
+    "f76ee93392393705c7cf201735d800079f5baae945a8809e99e1ccdbc14cff0a": {
+      "seenAt": "2026-11-12T15:11:18.768Z",
+      "title": "'한동훈 복당' 野 통합 최대 걸림돌 … 오세훈 '글쎄', 장동혁-이준석 '부정적' - 뉴데일리",
+      "targetName": "이준석"
+    },
+    "e1643f166d156c01518e401be64ab057c911e52bd73d6f1a3a2a07ad4566502a": {
+      "seenAt": "2026-11-12T15:11:19.411Z",
+      "title": "이준석 제치고 '국힘 최장수 당대표'…장동혁 \"'웃픈' 현실\" - 아이뉴스24",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "a45f2d89d8f4b91d81916ae84959e33ce4eddee8253960979c8c4960c0564b48",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "[전격시사] 이준석 개혁신당 의원 - “李 부동산 정책으로 모두가 고통받아…공급 확 늘리고 세금 확 줄여야” ‘빚내서 집 살걸’ 부동산 포럼, 왜? - KBS 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NM2xHb3AwTmRGZmJyaFlnc0ppS0NwNnpHdm1YUmF3MHJfVmk0Wmo4Mi0yeUI4MWhYUFIzTGpGQTVZR3l3YXdla0dVMW1rOGUxNDgyVE52U1J3VTA?oc=5\" target=\"_blank\">[전격시사] 이준석 개혁신당 의원 - “李 부동산 정책으로 모두가 고통받아…공급 확 늘리고 세금 확 줄여야” ‘빚내서 집 살걸’ 부동산 포럼, 왜?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NM2xHb3AwTmRGZmJyaFlnc0ppS0NwNnpHdm1YUmF3MHJfVmk0Wmo4Mi0yeUI4MWhYUFIzTGpGQTVZR3l3YXdla0dVMW1rOGUxNDgyVE52U1J3VTA?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 00:41:00 GMT",
-        "source": "KBS 뉴스",
-        "ageHours": 11.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f76ee93392393705c7cf201735d800079f5baae945a8809e99e1ccdbc14cff0a",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "'한동훈 복당' 野 통합 최대 걸림돌 … 오세훈 '글쎄', 장동혁-이준석 '부정적' - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE93bWh2OEdsU3k3MGlueHpjelhPaHYwejBOaHVSNEVBQXpkQjF1cUdTRTkyYktxTjJYNmxWbUk1SkI1Vzd0VDhxVEtHdmpoZzI4c1JxZzBCbGNzenpaQU16TFl6MWMyQzR2VHFDVHp2dk13UXhDNTRFcmJWb9IBgAFBVV95cUxPMHV6cG9FZ29VWDllMjVRU245Y2Yxc3lDOUIwOUtiU3hCWkdsblE3TXdGaXFrWEZ2bGxNUVJvRE1tN0hVekt1M2Z0NGpYcFJBNndJWW9wemMyS1FCOS1HSXZZSDZubnN4WEtmOWZ6REJTV3RDWlFnVkdtQjhYSjdxSw?oc=5\" target=\"_blank\">'한동훈 복당' 野 통합 최대 걸림돌 … 오세훈 '글쎄', 장동혁-이준석 '부정적'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93bWh2OEdsU3k3MGlueHpjelhPaHYwejBOaHVSNEVBQXpkQjF1cUdTRTkyYktxTjJYNmxWbUk1SkI1Vzd0VDhxVEtHdmpoZzI4c1JxZzBCbGNzenpaQU16TFl6MWMyQzR2VHFDVHp2dk13UXhDNTRFcmJWb9IBgAFBVV95cUxPMHV6cG9FZ29VWDllMjVRU245Y2Yxc3lDOUIwOUtiU3hCWkdsblE3TXdGaXFrWEZ2bGxNUVJvRE1tN0hVekt1M2Z0NGpYcFJBNndJWW9wemMyS1FCOS1HSXZZSDZubnN4WEtmOWZ6REJTV3RDWlFnVkdtQjhYSjdxSw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 02:14:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 9.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e1643f166d156c01518e401be64ab057c911e52bd73d6f1a3a2a07ad4566502a",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 제치고 '국힘 최장수 당대표'…장동혁 \"'웃픈' 현실\" - 아이뉴스24",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QTU9kV3ZBeTlmVjJZVWpxcDV3REowWmYtT2J0eU5JQkFsUzlPNVF6ZGh6QlRxbWxCbU9tSEF4SzNYbjRJUkhFN3RfVQ?oc=5\" target=\"_blank\">이준석 제치고 '국힘 최장수 당대표'…장동혁 \"'웃픈' 현실\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아이뉴스24</font>",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QTU9kV3ZBeTlmVjJZVWpxcDV3REowWmYtT2J0eU5JQkFsUzlPNVF6ZGh6QlRxbWxCbU9tSEF4SzNYbjRJUkhFN3RfVQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 06:16:51 GMT",
-        "source": "아이뉴스24",
-        "ageHours": 5.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "215ef7bd7a094ea0b90e58e01e44a4d4590a599d005a12d93c66ab3fa2559374",
@@ -2891,6 +2858,38 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHB6S1h5N2xSdFdmY2NsSVF6RmJoOVo1ekd4Z1htMHh5T01tb3FUUVpEc05pbUoxaUwxdF85dlc3cWRKX0hMMi10aEJRc0tFTGtOQjU2Y3F4d3ItOUw2Y3o3a2dSSkphZG91ZHpwNzZDa1QyS0V1UFJZT0RoRWNjTzRBVzNMUVZ6a3ByaWkzRHVnZXFtT0dJN1JVX0ZOc1I2Tm1XSUo1cmpTbHhfc1pTcnBqRnI4NmQ3ZnZJVUdBWTV4cFHSAcgBQVVfeXFMT1NYbmZfdlNkZ3pMZ1lSSEU0NVJGOVhRTU5LLWk5QURMWl9XSG1KVldfWVAwd0RoQi0wcDdlYXJPejVyUlZOeTdHNnNJVUVlSTNZYUpRWVl0dGEwR0ZyZEhJa2Y2dFpyS1JSdVRtOTJvX0Y0TExlUnVxQXRiOTktcDk0R1U4MURIYUFtS2ZwSVo1WTNCMkZLNlBHZVhZTWN4LVpPdE9KWXF5dTI3ZGhYMFB5OGRrNV9aZ3VGdmlEY05FMl9RVVhfQjg?oc=5",
         "pubDate": "Thu, 12 Nov 2026 14:51:00 GMT",
         "source": "The Hill",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4de0eea8c4fbdfd22ba634df3e7083b5636cdb1f7924d7c0111a990491933316",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래 “심판 행세 말고 빠지라”에···박지원 “계속 싸우잔 거냐” - 경향신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CSllPMkRMOG5Sb2c1anItN2diamMyWmFLWUhPYTZtU1NPbE1xc1NfVjJ5VzRoWmt0U19maXVmZzNWNDZ0cjZMMTBqQWRNVDFYUmhUcU9hUURKZ9IBX0FVX3lxTE1JdWE1TGRmdlM0Y3FGRm1pWVhrenk3eEtnM1VJWnI3dXFCdWdEMUVFUGFybThqRFktSm84cUk3OTVVMU1IcVJVcFdwNTRxLXJ6bFpTVTA3MmZLT3lBMTBV?oc=5\" target=\"_blank\">정청래 “심판 행세 말고 빠지라”에···박지원 “계속 싸우잔 거냐”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CSllPMkRMOG5Sb2c1anItN2diamMyWmFLWUhPYTZtU1NPbE1xc1NfVjJ5VzRoWmt0U19maXVmZzNWNDZ0cjZMMTBqQWRNVDFYUmhUcU9hUURKZ9IBX0FVX3lxTE1JdWE1TGRmdlM0Y3FGRm1pWVhrenk3eEtnM1VJWnI3dXFCdWdEMUVFUGFybThqRFktSm84cUk3OTVVMU1IcVJVcFdwNTRxLXJ6bFpTVTA3MmZLT3lBMTBV?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 23:02:00 GMT",
+        "source": "경향신문",
+        "ageHours": 16.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "0ea4d92f873393e74c27b4e2d40f4e768fc81240641b3dc5bc452d83c061ba23",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump reverts to an old theme, warns of immigrant caravans - The Washington Post",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVJfMmhtbnptczl3YWNaZ1BwbFpsa0NaRC11eTROTnZDa19TSUlmdElaM21qWlVzZ3pyZWJ5M18xQVp6dloxSTBWd3JjSWpDQjlpaDNxNmQ0Y1E0Ukl6dHdGbnRyZzNSMnZEQzNMTTgzOVJ3aDJyay1RLVRqeXdWWVAxZnZqdm1EbFhEbm9mWFpGaXhEUnEtb193M0ttOVZRMHc?oc=5\" target=\"_blank\">Trump reverts to an old theme, warns of immigrant caravans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVJfMmhtbnptczl3YWNaZ1BwbFpsa0NaRC11eTROTnZDa19TSUlmdElaM21qWlVzZ3pyZWJ5M18xQVp6dloxSTBWd3JjSWpDQjlpaDNxNmQ0Y1E0Ukl6dHdGbnRyZzNSMnZEQzNMTTgzOVJ3aDJyay1RLVRqeXdWWVAxZnZqdm1EbFhEbm9mWFpGaXhEUnEtb193M0ttOVZRMHc?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 15:01:14 GMT",
+        "source": "The Washington Post",
         "ageHours": 0.2
       },
       "delivered": [],

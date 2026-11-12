@@ -937,3 +937,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** [전격시사] 이준석 개혁신당 의원 - “李 부동산 정책으로 모두가 고통받아…공급 확 늘리고 세금 확 줄여야” ‘빚내서 집 살걸’ 부동산 포럼, 왜? - KBS 뉴스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 개혁신당 의원
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NM2xHb3AwTmRGZmJyaFlnc0ppS0NwNnpHdm1YUmF3MHJfVmk0Wmo4Mi0yeUI4MWhYUFIzTGpGQTVZR3l3YXdla0dVMW1rOGUxNDgyVE52U1J3VTA?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** '한동훈 복당' 野 통합 최대 걸림돌 … 오세훈 '글쎄', 장동혁-이준석 '부정적' - 뉴데일리
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '한동훈 복당' 野 통합 최대 걸림돌 … 오세훈 '글쎄', 장동혁-이준석 '부정적'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE93bWh2OEdsU3k3MGlueHpjelhPaHYwejBOaHVSNEVBQXpkQjF1cUdTRTkyYktxTjJYNmxWbUk1SkI1Vzd0VDhxVEtHdmpoZzI4c1JxZzBCbGNzenpaQU16TFl6MWMyQzR2VHFDVHp2dk13UXhDNTRFcmJWb9IBgAFBVV95cUxPMHV6cG9FZ29VWDllMjVRU245Y2Yxc3lDOUIwOUtiU3hCWkdsblE3TXdGaXFrWEZ2bGxNUVJvRE1tN0hVekt1M2Z0NGpYcFJBNndJWW9wemMyS1FCOS1HSXZZSDZubnN4WEtmOWZ6REJTV3RDWlFnVkdtQjhYSjdxSw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 제치고 '국힘 최장수 당대표'…장동혁 "'웃픈' 현실" - 아이뉴스24
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 제치고 '국힘 최장수 당대표'…장동혁 "'웃픈' 현실"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QTU9kV3ZBeTlmVjJZVWpxcDV3REowWmYtT2J0eU5JQkFsUzlPNVF6ZGh6QlRxbWxCbU9tSEF4SzNYbjRJUkhFN3RfVQ?oc=5)
+
+---
+
