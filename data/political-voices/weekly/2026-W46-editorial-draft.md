@@ -547,3 +547,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [심층분석]이재명 대통령 지지율 44%·부정평가 47%…부동산 민심은 역전.."대통령 SNS·유튜브 직접 소통 줄여야" 우세 - 창업일보
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 지지율 44%·부정평가 47%…부동산 민심은 역전.."대통령 SNS·유튜브 직접 소통 줄여야" 우세
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZjBveklJSmhvaWhTY3BrOGZMTW1mRWxrWXlWNGQzbHJTM2JaOEdOamw2clFsbHpQTGM5SzM2ZXVTamZjNmVUN3FJRWEzd2FDbEliLTYwbUFGcXdNMnNMdGt5NmJha0N2?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 지지율 44%로 하락…국민 51% “대통령 SNS 소통 줄여야” [NBS] - 시사타파NEWS
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 지지율 44%로 하락…국민 51% “대통령 SNS 소통 줄여야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hNlByZmFvdEpLdlphdjJFT2puUVg3WElsaklBZk1QbzFuWWRpT3VDdGxDRFc5ZEpZQjVQMFR3NEE2SUYxNHlqa2NqQUdMRll2STR3MFMyMmJFRFVwMVE?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까 - 에너지경제신문
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hbVp5ZHVnZmI2OUU4NnBmbEVpSUFxMGZPLUxxRERNMGl6X3owcm5MdzVRSkdxVFUxeUlNdkpiZU9ybkl0b2UwZlNwWG1SSWtIS3JJZXI3LXhvWDY5QmFJQjFFVQ?oc=5)
+
+---
+

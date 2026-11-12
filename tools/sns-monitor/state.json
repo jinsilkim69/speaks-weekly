@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T12:35:38.708Z",
+  "lastCheckedAt": "2026-11-12T13:04:22.773Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -1815,63 +1815,24 @@
       "seenAt": "2026-11-12T11:57:57.791Z",
       "title": "Trump Announces Susie Wiles out, Stephen Miller in as WH Chief of Staff - The Well News",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "55befce14b485b211f3174bfe9a41caa18e48cbdb6a48fc5e86b70a5bc773d8a": {
+      "seenAt": "2026-11-12T13:04:27.050Z",
+      "title": "[심층분석]이재명 대통령 지지율 44%·부정평가 47%…부동산 민심은 역전..\"대통령 SNS·유튜브 직접 소통 줄여야\" 우세 - 창업일보",
+      "targetName": "이재명"
+    },
+    "7d13d547a6c7ba32e3a2f931e61d021245d9b3f4890bbe7ff26d3eb33b530d46": {
+      "seenAt": "2026-11-12T13:04:27.657Z",
+      "title": "이재명 지지율 44%로 하락…국민 51% “대통령 SNS 소통 줄여야” [NBS] - 시사타파NEWS",
+      "targetName": "이재명"
+    },
+    "251d30a192ea71551f3099029632ee1f05a14264ef4753392fadcab81172889f": {
+      "seenAt": "2026-11-12T13:04:28.002Z",
+      "title": "한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까 - 에너지경제신문",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "55befce14b485b211f3174bfe9a41caa18e48cbdb6a48fc5e86b70a5bc773d8a",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "[심층분석]이재명 대통령 지지율 44%·부정평가 47%…부동산 민심은 역전..\"대통령 SNS·유튜브 직접 소통 줄여야\" 우세 - 창업일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZjBveklJSmhvaWhTY3BrOGZMTW1mRWxrWXlWNGQzbHJTM2JaOEdOamw2clFsbHpQTGM5SzM2ZXVTamZjNmVUN3FJRWEzd2FDbEliLTYwbUFGcXdNMnNMdGt5NmJha0N2?oc=5\" target=\"_blank\">[심층분석]이재명 대통령 지지율 44%·부정평가 47%…부동산 민심은 역전..\"대통령 SNS·유튜브 직접 소통 줄여야\" 우세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">창업일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZjBveklJSmhvaWhTY3BrOGZMTW1mRWxrWXlWNGQzbHJTM2JaOEdOamw2clFsbHpQTGM5SzM2ZXVTamZjNmVUN3FJRWEzd2FDbEliLTYwbUFGcXdNMnNMdGt5NmJha0N2?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 04:04:30 GMT",
-        "source": "창업일보",
-        "ageHours": 8
-      },
-      "delivered": [
-        "7feb08519b5a3fb6ed164637254ee2b714d6a2d9ee36ef370074d084638ccc5a"
-      ],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "7d13d547a6c7ba32e3a2f931e61d021245d9b3f4890bbe7ff26d3eb33b530d46",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 지지율 44%로 하락…국민 51% “대통령 SNS 소통 줄여야” [NBS] - 시사타파NEWS",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hNlByZmFvdEpLdlphdjJFT2puUVg3WElsaklBZk1QbzFuWWRpT3VDdGxDRFc5ZEpZQjVQMFR3NEE2SUYxNHlqa2NqQUdMRll2STR3MFMyMmJFRFVwMVE?oc=5\" target=\"_blank\">이재명 지지율 44%로 하락…국민 51% “대통령 SNS 소통 줄여야” [NBS]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사타파NEWS</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hNlByZmFvdEpLdlphdjJFT2puUVg3WElsaklBZk1QbzFuWWRpT3VDdGxDRFc5ZEpZQjVQMFR3NEE2SUYxNHlqa2NqQUdMRll2STR3MFMyMmJFRFVwMVE?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 01:30:36 GMT",
-        "source": "시사타파NEWS",
-        "ageHours": 10.6
-      },
-      "delivered": [
-        "7feb08519b5a3fb6ed164637254ee2b714d6a2d9ee36ef370074d084638ccc5a"
-      ],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "251d30a192ea71551f3099029632ee1f05a14264ef4753392fadcab81172889f",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까 - 에너지경제신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hbVp5ZHVnZmI2OUU4NnBmbEVpSUFxMGZPLUxxRERNMGl6X3owcm5MdzVRSkdxVFUxeUlNdkpiZU9ybkl0b2UwZlNwWG1SSWtIS3JJZXI3LXhvWDY5QmFJQjFFVQ?oc=5\" target=\"_blank\">한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hbVp5ZHVnZmI2OUU4NnBmbEVpSUFxMGZPLUxxRERNMGl6X3owcm5MdzVRSkdxVFUxeUlNdkpiZU9ybkl0b2UwZlNwWG1SSWtIS3JJZXI3LXhvWDY5QmFJQjFFVQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 05:38:50 GMT",
-        "source": "에너지경제신문",
-        "ageHours": 6.5
-      },
-      "delivered": [
-        "7feb08519b5a3fb6ed164637254ee2b714d6a2d9ee36ef370074d084638ccc5a"
-      ],
-      "archived": false
-    },
     {
       "post": {
         "id": "62fb27bd7c2792970065a3ec9e5addeeeff982371e2d2225624e67efb6dad4b7",
@@ -2843,6 +2804,102 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1YjdIZ25NRlFrOFhOdGNEeXJKekxsdVZSblRDbG9zczA3Z2VHYjRMX2IxQ01uVjF4d3kwS3VJbnAyNkNMZXJ5aWZXM1ZndTM1R0ZrU1Vtd2xSQldoRDl0X285QzdDc3BCcTRRVmt0Z1NFUUMya2pya2R0akE4UEU?oc=5",
         "pubDate": "Thu, 12 Nov 2026 12:12:14 GMT",
         "source": "Indy100",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "20986e4c549b440178d814a2bf698fb51666f8c70654b61f4092e44bd1e4eb72",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "“이재명 두 아들 모두 군대 면제 받았다” 허위 글 SNS에 올린 이수정 2심도 벌금 300만원 - 강원일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VT3doTnlwY0UyX0lDT29adXo3M0l4dFVqSUpuQmFvcTBycVMxVjJnSzBDQk51T01JY3pXeWtKZmlrTWpyVUl4OElQYVRwTC0tNzNHWEJnUDc4djg?oc=5\" target=\"_blank\">“이재명 두 아들 모두 군대 면제 받았다” 허위 글 SNS에 올린 이수정 2심도 벌금 300만원</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VT3doTnlwY0UyX0lDT29adXo3M0l4dFVqSUpuQmFvcTBycVMxVjJnSzBDQk51T01JY3pXeWtKZmlrTWpyVUl4OElQYVRwTC0tNzNHWEJnUDc4djg?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 06:57:08 GMT",
+        "source": "강원일보",
+        "ageHours": 6.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "c2bdf1c933dea68797ee386d3c5d98d521db3ae47e22ec332a5b64595c1a169a",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까 - 에너지경제신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mRFY4Nms4bXZoeE93S0s2SURCMTlyQTZrY1BfeFZNOHhGZ0ZwSG5lcDAwVUJGVUM2czZhSTBzYTlrMnU2Ykl5VkF0eGtmbFN4TllSeGJLQm9kLVU?oc=5\" target=\"_blank\">한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mRFY4Nms4bXZoeE93S0s2SURCMTlyQTZrY1BfeFZNOHhGZ0ZwSG5lcDAwVUJGVUM2czZhSTBzYTlrMnU2Ykl5VkF0eGtmbFN4TllSeGJLQm9kLVU?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 05:38:50 GMT",
+        "source": "에너지경제신문",
+        "ageHours": 7.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "1d6b8a21d61a9d8e85c31aa1ae8c90cb58a87e9d6072237a974a7596983c2fa9",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "“가던 길 가세요” 정청래에…박지원 “싸우자는 거냐” - 한겨레",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9KeDJsRS1SSG9hWEotemtvWDBzWGNqZW5PNkxWRnh6NHFoT3RFMEdXalhPcENDR01JZWg3c3ZVcUNhY0R6Ql9xSVpEcGFBcHpWZUNhVGhlckpDdjNOTDRxU3dTRzJXSkR5aFd6UF9lUThlVW5S?oc=5\" target=\"_blank\">“가던 길 가세요” 정청래에…박지원 “싸우자는 거냐”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KeDJsRS1SSG9hWEotemtvWDBzWGNqZW5PNkxWRnh6NHFoT3RFMEdXalhPcENDR01JZWg3c3ZVcUNhY0R6Ql9xSVpEcGFBcHpWZUNhVGhlckpDdjNOTDRxU3dTRzJXSkR5aFd6UF9lUThlVW5S?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 12:12:00 GMT",
+        "source": "한겨레",
+        "ageHours": 0.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "6886abe2c67c11ff00f6b509ad71664c7a59336d488efc8a994e7c0c772a2362",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\"(종합) - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTtIBYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTg?oc=5\" target=\"_blank\">김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTtIBYEFVX3lxTE9kdHYzc0swdmIydVZ6QlNibGZyN09GZFBmbWhyT1RKM01sT1RqaDI1a3ozckNueGxpdjBnRnFYLWNMMmJxNl85ZmNYb0dMaXVNTjJiNGR4bHNEaVpzYlpFTg?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 01:58:37 GMT",
+        "source": "연합뉴스",
+        "ageHours": 11.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "34913eb87abf4f02e9a1fc4ef57bd5c432c7770e0d0d4a1c6a7123647a19f67c",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump’s Manic 5:50AM Meltdown Reveals His Biggest Fear - The Daily Beast",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNM182NWdQa2REc0pDenZYVlcwUzhSaDVuSjl1T012ZlFDcWhqM2gzWGlTVnp0cTNza0pFRWx3Mll4QlF4X2xHOUxZbDlUWm1IeFRlUzQtNFR2aF93ckh3YWVoTVYybVM2eFBFS1VyRHJGcVYwUjJ6dXBZRlg1SERzSlZ0aG5ialpmRlE?oc=5\" target=\"_blank\">Trump’s Manic 5:50AM Meltdown Reveals His Biggest Fear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM182NWdQa2REc0pDenZYVlcwUzhSaDVuSjl1T012ZlFDcWhqM2gzWGlTVnp0cTNza0pFRWx3Mll4QlF4X2xHOUxZbDlUWm1IeFRlUzQtNFR2aF93ckh3YWVoTVYybVM2eFBFS1VyRHJGcVYwUjJ6dXBZRlg1SERzSlZ0aG5ialpmRlE?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 12:21:01 GMT",
+        "source": "The Daily Beast",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "8bc573d1241cff112a107bd2ea5e9c6303ed9ade52c492bd64703333f496bbff",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump threatens to double tariffs on Mexico if migrant caravans not stopped - 930 WFMD Free Talk",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1pIekdDQl84Uk1iQ2ZhVG1WLTd5T25HYkVmLWVJSXFGOEE4enB2SDJteDVQeENhQzNNMDBpU3F2UVhuNkh2SVlCQS16SkNSZVBlYl9vcnpReTJLTkRPWjBBYnQzeWdFM0dscDF6LUduSkx5S0lheExIWTFNMFJZaWZCc3c0UDRVSzRvUkp3N1lkTTJjTHBMN094LVdrbm12bWotSlhXNWxyUW44?oc=5\" target=\"_blank\">Trump threatens to double tariffs on Mexico if migrant caravans not stopped</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">930 WFMD Free Talk</font>",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ1pIekdDQl84Uk1iQ2ZhVG1WLTd5T25HYkVmLWVJSXFGOEE4enB2SDJteDVQeENhQzNNMDBpU3F2UVhuNkh2SVlCQS16SkNSZVBlYl9vcnpReTJLTkRPWjBBYnQzeWdFM0dscDF6LUduSkx5S0lheExIWTFNMFJZaWZCc3c0UDRVSzRvUkp3N1lkTTJjTHBMN094LVdrbm12bWotSlhXNWxyUW44?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 12:43:14 GMT",
+        "source": "930 WFMD Free Talk",
         "ageHours": 0.4
       },
       "delivered": [],
