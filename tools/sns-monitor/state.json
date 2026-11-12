@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T19:21:17.491Z",
+  "lastCheckedAt": "2026-11-12T19:31:19.238Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2355,57 +2355,24 @@
       "seenAt": "2026-11-12T19:21:20.380Z",
       "title": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "485faaa8aeb0de0190780549efc53f53b6b6f2256ba512c22fca45255ee2cc4d": {
+      "seenAt": "2026-11-12T19:31:20.384Z",
+      "title": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "da0bc9bdf98a0cc23695a40126ed5e68bfd3d1ea213d3b58caf79148a8f9a6ea": {
+      "seenAt": "2026-11-12T19:31:21.124Z",
+      "title": "김민석 \"만나서 대화\"...정청래 \"피해자에 합의강요는 2차 가해\"...갈등골만 깊어 - 경북신문",
+      "targetName": "정청래"
+    },
+    "33c9930bc1985246a59ec3be40fac6154e31ae32a6f58455628fcab8870a6d23": {
+      "seenAt": "2026-11-12T19:31:21.764Z",
+      "title": "이준석, 눈물의 기자회견 후 SNS에 \"당원 가입하기 좋은 날\" - JTBC",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "485faaa8aeb0de0190780549efc53f53b6b6f2256ba512c22fca45255ee2cc4d",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia - The Hill",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNvN1lydjY5eDZuYl9ZaXJFVF9tLVlQVUdqM01kUHZTSTFOUjY4aHhuWTZBSkZaa3BXMHg1QWR0c2NicUxMX1RPZFU1S2Y0UXJKS0lkSDJFZHhSUmdEZDRLWUp3M3R2WUVYeFF3NFcwNWhIQzFsS0c1ZWVOOUo1NkJJb9IBiAFBVV95cUxQU1B0X2tMN21vS0N2WWdzb2RXenpDVm5maW1LZE9BeWM5eHo0UmFSdUk4Q1hQVnMzN1hCbHlaOVRrVXZmd0NGQkwwZGJhNU82NmFWQkt5ODZzbXNnRHVyUFN2NGo3ak9QWHBtd09SekRzem1MZ21GRm5WTkxiM2dLMVFXeDVfcVRB?oc=5\" target=\"_blank\">Trump calls for Tim Cook to replace Jensen Huang at Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNvN1lydjY5eDZuYl9ZaXJFVF9tLVlQVUdqM01kUHZTSTFOUjY4aHhuWTZBSkZaa3BXMHg1QWR0c2NicUxMX1RPZFU1S2Y0UXJKS0lkSDJFZHhSUmdEZDRLWUp3M3R2WUVYeFF3NFcwNWhIQzFsS0c1ZWVOOUo1NkJJb9IBiAFBVV95cUxQU1B0X2tMN21vS0N2WWdzb2RXenpDVm5maW1LZE9BeWM5eHo0UmFSdUk4Q1hQVnMzN1hCbHlaOVRrVXZmd0NGQkwwZGJhNU82NmFWQkt5ODZzbXNnRHVyUFN2NGo3ak9QWHBtd09SekRzem1MZ21GRm5WTkxiM2dLMVFXeDVfcVRB?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 16:25:00 GMT",
-        "source": "The Hill",
-        "ageHours": 1.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "da0bc9bdf98a0cc23695a40126ed5e68bfd3d1ea213d3b58caf79148a8f9a6ea",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "김민석 \"만나서 대화\"...정청래 \"피해자에 합의강요는 2차 가해\"...갈등골만 깊어 - 경북신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE45T09sVTMyRDNjVjd1bnVjTHEwNHVRUTBYOVU5U240djYzSkRMdE5pN2FIaXpycHEtQUNWdlhESHU3S2lfTmpjNEVsSGVpTnlTdk5oc0JvV2M?oc=5\" target=\"_blank\">김민석 \"만나서 대화\"...정청래 \"피해자에 합의강요는 2차 가해\"...갈등골만 깊어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45T09sVTMyRDNjVjd1bnVjTHEwNHVRUTBYOVU5U240djYzSkRMdE5pN2FIaXpycHEtQUNWdlhESHU3S2lfTmpjNEVsSGVpTnlTdk5oc0JvV2M?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 07:05:13 GMT",
-        "source": "경북신문",
-        "ageHours": 11.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "33c9930bc1985246a59ec3be40fac6154e31ae32a6f58455628fcab8870a6d23",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석, 눈물의 기자회견 후 SNS에 \"당원 가입하기 좋은 날\" - JTBC",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iaVRjSzE5SWpNbmN2LVcwck02YXpXU3FITEJjWW1HSmg0RGxMeUdycGJkcUpGd3RzSTk5S2hiUTRxUXA4azlpY1hDZS03MVhzd1pWUQ?oc=5\" target=\"_blank\">이준석, 눈물의 기자회견 후 SNS에 \"당원 가입하기 좋은 날\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iaVRjSzE5SWpNbmN2LVcwck02YXpXU3FITEJjWW1HSmg0RGxMeUdycGJkcUpGd3RzSTk5S2hiUTRxUXA4azlpY1hDZS03MVhzd1pWUQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 15:28:54 GMT",
-        "source": "JTBC",
-        "ageHours": 2.7
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "c90a9dc5d8fd5844c68bceb55674df8a1dd79180362c460e1cedd0e67c8f8d93",
@@ -2482,6 +2449,22 @@
         "pubDate": "Thu, 12 Nov 2026 06:41:02 GMT",
         "source": "폴리뉴스 Polinews",
         "ageHours": 12.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "0a91461eeb610412216242dec751edbeb4c753778a16dfa630c1e6479c4d669e",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says no deal needed with Iran, closes down Vance negotiations - The Washington Post",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5\" target=\"_blank\">Trump says no deal needed with Iran, closes down Vance negotiations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 19:04:30 GMT",
+        "source": "The Washington Post",
+        "ageHours": 0.4
       },
       "delivered": [],
       "archived": false
