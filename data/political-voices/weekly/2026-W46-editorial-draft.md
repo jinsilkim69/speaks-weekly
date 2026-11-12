@@ -1639,3 +1639,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, '만나서 풀겠다'는 김민석에 "사과부터 제대로 해야" - MBC 뉴스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, '만나서 풀겠다'는 김민석에 "사과부터 제대로 해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBfZGQxRDI4cUFKbktsaHduMF9sT3JUdTRpUExRNlBGX2FRVW9mMWsyYk9XYUJDY1oxSDV1c0ZJNm1nT0h5ZDFnd0lyaHcyNVdTcnlnZnZwczUyVFFCUVhsV2Rrc2JRMGtlWnZOVHc0cm0wV0ZjdlN3adIBeEFVX3lxTFBfZGQxRDI4cUFKbktsaHduMF9sT3JUdTRpUExRNlBGX2FRVW9mMWsyYk9XYUJDY1oxSDV1c0ZJNm1nT0h5ZDFnd0lyaHcyNVdTcnlnZnZwczUyVFFCUVhsV2Rrc2JRMGtlWnZOVHc0cm0wV0ZjdlN3aQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 "李대통령이 尹 탄핵 반대"... 김민석, 崔 감찰조사 지시 - 조선일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 "李대통령이 尹 탄핵 반대"... 김민석, 崔 감찰조사 지시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3RuRDlQY1VqNnZKcjZPOEtEN0JzWHd1WHlmRkdYaGgtUjA2emZZRkxxQXZDWjFIa1BBSTBXaG9VOGpHNlBhMl9Ra29sc3l0NVZhWnh5YzhvbUNkdUVhX2pHd2V3Nl9DXzhLMUpVRHB1Ykx4UUZmZ1FYVk9iQXdHOXdZZW9SeE1H?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** "최민희와 한동훈, 이준석의 공통점은~" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진 - 경향신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "최민희와 한동훈, 이준석의 공통점은~" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE00WFBVVnVOMDZ5LTdzQXVWalpiZ3d0VDNMakZ4WlhlZVY5elhGWEc1N3pVSmhTZG8yUlA0TWEtZVFwR2podmVjYjYtOW4teGNiNW82bXloT0pZR1BLblByMFN3?oc=5)
+
+---
+

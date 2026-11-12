@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T18:01:19.859Z",
+  "lastCheckedAt": "2026-11-12T18:11:26.533Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2235,57 +2235,24 @@
       "seenAt": "2026-11-12T18:01:22.482Z",
       "title": "Trump says US does not ‘need a deal with Iran’ - South China Morning Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a5c55e19810d838a496e05fddebf5eb0d31f5242dbf69c921c588d74bf2b425c": {
+      "seenAt": "2026-11-12T18:11:28.114Z",
+      "title": "정청래, '만나서 풀겠다'는 김민석에 \"사과부터 제대로 해야\" - MBC 뉴스",
+      "targetName": "정청래"
+    },
+    "d7ad42dc5b86b5f6d6760acbc0c46009c4636ecb572d19071bc8721f093a4f9e": {
+      "seenAt": "2026-11-12T18:11:28.856Z",
+      "title": "최민희 \"李대통령이 尹 탄핵 반대\"... 김민석, 崔 감찰조사 지시 - 조선일보",
+      "targetName": "김민석"
+    },
+    "8b94ae5d84882d706c951f416da8f01f26b6d0198fbd9a3e407718b2c9d99ecf": {
+      "seenAt": "2026-11-12T18:11:29.601Z",
+      "title": "\"최민희와 한동훈, 이준석의 공통점은~\" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진 - 경향신문",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "a5c55e19810d838a496e05fddebf5eb0d31f5242dbf69c921c588d74bf2b425c",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, '만나서 풀겠다'는 김민석에 \"사과부터 제대로 해야\" - MBC 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBfZGQxRDI4cUFKbktsaHduMF9sT3JUdTRpUExRNlBGX2FRVW9mMWsyYk9XYUJDY1oxSDV1c0ZJNm1nT0h5ZDFnd0lyaHcyNVdTcnlnZnZwczUyVFFCUVhsV2Rrc2JRMGtlWnZOVHc0cm0wV0ZjdlN3adIBeEFVX3lxTFBfZGQxRDI4cUFKbktsaHduMF9sT3JUdTRpUExRNlBGX2FRVW9mMWsyYk9XYUJDY1oxSDV1c0ZJNm1nT0h5ZDFnd0lyaHcyNVdTcnlnZnZwczUyVFFCUVhsV2Rrc2JRMGtlWnZOVHc0cm0wV0ZjdlN3aQ?oc=5\" target=\"_blank\">정청래, '만나서 풀겠다'는 김민석에 \"사과부터 제대로 해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfZGQxRDI4cUFKbktsaHduMF9sT3JUdTRpUExRNlBGX2FRVW9mMWsyYk9XYUJDY1oxSDV1c0ZJNm1nT0h5ZDFnd0lyaHcyNVdTcnlnZnZwczUyVFFCUVhsV2Rrc2JRMGtlWnZOVHc0cm0wV0ZjdlN3adIBeEFVX3lxTFBfZGQxRDI4cUFKbktsaHduMF9sT3JUdTRpUExRNlBGX2FRVW9mMWsyYk9XYUJDY1oxSDV1c0ZJNm1nT0h5ZDFnd0lyaHcyNVdTcnlnZnZwczUyVFFCUVhsV2Rrc2JRMGtlWnZOVHc0cm0wV0ZjdlN3aQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 01:23:29 GMT",
-        "source": "MBC 뉴스",
-        "ageHours": 13.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d7ad42dc5b86b5f6d6760acbc0c46009c4636ecb572d19071bc8721f093a4f9e",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "최민희 \"李대통령이 尹 탄핵 반대\"... 김민석, 崔 감찰조사 지시 - 조선일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3RuRDlQY1VqNnZKcjZPOEtEN0JzWHd1WHlmRkdYaGgtUjA2emZZRkxxQXZDWjFIa1BBSTBXaG9VOGpHNlBhMl9Ra29sc3l0NVZhWnh5YzhvbUNkdUVhX2pHd2V3Nl9DXzhLMUpVRHB1Ykx4UUZmZ1FYVk9iQXdHOXdZZW9SeE1H?oc=5\" target=\"_blank\">최민희 \"李대통령이 尹 탄핵 반대\"... 김민석, 崔 감찰조사 지시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3RuRDlQY1VqNnZKcjZPOEtEN0JzWHd1WHlmRkdYaGgtUjA2emZZRkxxQXZDWjFIa1BBSTBXaG9VOGpHNlBhMl9Ra29sc3l0NVZhWnh5YzhvbUNkdUVhX2pHd2V3Nl9DXzhLMUpVRHB1Ykx4UUZmZ1FYVk9iQXdHOXdZZW9SeE1H?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 12:04:46 GMT",
-        "source": "조선일보",
-        "ageHours": 2.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "8b94ae5d84882d706c951f416da8f01f26b6d0198fbd9a3e407718b2c9d99ecf",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "\"최민희와 한동훈, 이준석의 공통점은~\" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진 - 경향신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE00WFBVVnVOMDZ5LTdzQXVWalpiZ3d0VDNMakZ4WlhlZVY5elhGWEc1N3pVSmhTZG8yUlA0TWEtZVFwR2podmVjYjYtOW4teGNiNW82bXloT0pZR1BLblByMFN3?oc=5\" target=\"_blank\">\"최민희와 한동훈, 이준석의 공통점은~\" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00WFBVVnVOMDZ5LTdzQXVWalpiZ3d0VDNMakZ4WlhlZVY5elhGWEc1N3pVSmhTZG8yUlA0TWEtZVFwR2podmVjYjYtOW4teGNiNW82bXloT0pZR1BLblByMFN3?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 13:00:21 GMT",
-        "source": "경향신문",
-        "ageHours": 1.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "3f53acd8fdf66eab3f38590cfcc361af8f5967387af7ec769f22d37a565dacf4",
@@ -2634,6 +2601,54 @@
         "pubDate": "Thu, 12 Nov 2026 16:25:00 GMT",
         "source": "The Hill",
         "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "da0bc9bdf98a0cc23695a40126ed5e68bfd3d1ea213d3b58caf79148a8f9a6ea",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "김민석 \"만나서 대화\"...정청래 \"피해자에 합의강요는 2차 가해\"...갈등골만 깊어 - 경북신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE45T09sVTMyRDNjVjd1bnVjTHEwNHVRUTBYOVU5U240djYzSkRMdE5pN2FIaXpycHEtQUNWdlhESHU3S2lfTmpjNEVsSGVpTnlTdk5oc0JvV2M?oc=5\" target=\"_blank\">김민석 \"만나서 대화\"...정청래 \"피해자에 합의강요는 2차 가해\"...갈등골만 깊어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45T09sVTMyRDNjVjd1bnVjTHEwNHVRUTBYOVU5U240djYzSkRMdE5pN2FIaXpycHEtQUNWdlhESHU3S2lfTmpjNEVsSGVpTnlTdk5oc0JvV2M?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 07:05:13 GMT",
+        "source": "경북신문",
+        "ageHours": 11.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "33c9930bc1985246a59ec3be40fac6154e31ae32a6f58455628fcab8870a6d23",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석, 눈물의 기자회견 후 SNS에 \"당원 가입하기 좋은 날\" - JTBC",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iaVRjSzE5SWpNbmN2LVcwck02YXpXU3FITEJjWW1HSmg0RGxMeUdycGJkcUpGd3RzSTk5S2hiUTRxUXA4azlpY1hDZS03MVhzd1pWUQ?oc=5\" target=\"_blank\">이준석, 눈물의 기자회견 후 SNS에 \"당원 가입하기 좋은 날\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iaVRjSzE5SWpNbmN2LVcwck02YXpXU3FITEJjWW1HSmg0RGxMeUdycGJkcUpGd3RzSTk5S2hiUTRxUXA4azlpY1hDZS03MVhzd1pWUQ?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 15:28:54 GMT",
+        "source": "JTBC",
+        "ageHours": 2.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "c90a9dc5d8fd5844c68bceb55674df8a1dd79180362c460e1cedd0e67c8f8d93",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식·최인호 국회 회동…종부세 논의 : 정치 - 재경일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HRC1MZHB4WnRaN0xhbmhtSkQzRkI1T2hjUmNCbmdHVTVSRlNZaXYzbVJiUGpIOVp2RkhYVHpCS1VWbkdFM2lPUGZsZw?oc=5\" target=\"_blank\">신장식·최인호 국회 회동…종부세 논의 : 정치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HRC1MZHB4WnRaN0xhbmhtSkQzRkI1T2hjUmNCbmdHVTVSRlNZaXYzbVJiUGpIOVp2RkhYVHpCS1VWbkdFM2lPUGZsZw?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 05:57:15 GMT",
+        "source": "재경일보",
+        "ageHours": 12.2
       },
       "delivered": [],
       "archived": false
