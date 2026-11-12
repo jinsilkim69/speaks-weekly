@@ -664,3 +664,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 안철수 “한동훈 복당? 물귀신 행태…차라리 창당을” - 한겨레
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 안철수 “한동훈 복당? 물귀신 행태…차라리 창당을”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE1CbHAtNV9EY0RiZEJDZUE4RVhCSjIxQVhjOTl0WEN2UUo4SjFQNkNxc3JNanJZUGRUajNmeklqZXdvN21KdGVsSHdwZk12OFBlUlNMRmZINHUzZXZsNXFpSWE1Skt5NHQzR1BGbTZ0QWtIMF9L?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與 신천지 갈등…김민석 "만나서 대화" vs 정청래 "사과부터 제대로" - 뉴스웍스
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 신천지 갈등…김민석 "만나서 대화" vs 정청래 "사과부터 제대로"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1qcnEyQ1d0eS13eDVQM2FWNVM5eWt4Um13Q1g2bHFhWm1QVDVUQ0V5RzI5U1E4Sm1keUozZjRyX0hBUEpvNDlLd0dWeG5EeHFrVjdTTzVURHRYODR4aDlUSEg4cmhyWF9Gb0dyVkhiUdIBc0FVX3lxTE5nUC1HQ01LWVNPUkppNnNZVWM0eGdPN2dvc3pfWDNIWTU5ME5YWUl1eW91VEpDb3hiSDhkWjd3eUFZajVvNEVVMjNxRWd6M2FHSEk1bjJOQXUzT1Y4R0hOR2Ezb2ZZbEpaQmNXLUVlNTFLNTQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석-정청래 갈등 장기화하나 - 금강일보
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석-정청래 갈등 장기화하나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE81RGNmS1l6NWhoaXFnUGNvY3k5eWJETTI2WllYdzVOTm1kM20zRnBCeFllQzhETnI1ZWhKa0hKZDA2Mkh6LTZJM0U5NlRIVDV3SmVERUJwZURIMzd1RUxpMFV5NVpLV3JXdWc?oc=5)
+
+---
+

@@ -374,5 +374,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "cb281e686edbbf75c911cb89f1f60fcf2f0f9bf22b666260dd45b652940c8c58",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "안철수 “한동훈 복당? 물귀신 행태…차라리 창당을” - 한겨레",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1CbHAtNV9EY0RiZEJDZUE4RVhCSjIxQVhjOTl0WEN2UUo4SjFQNkNxc3JNanJZUGRUajNmeklqZXdvN21KdGVsSHdwZk12OFBlUlNMRmZINHUzZXZsNXFpSWE1Skt5NHQzR1BGbTZ0QWtIMF9L?oc=5\" target=\"_blank\">안철수 “한동훈 복당? 물귀신 행태…차라리 창당을”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CbHAtNV9EY0RiZEJDZUE4RVhCSjIxQVhjOTl0WEN2UUo4SjFQNkNxc3JNanJZUGRUajNmeklqZXdvN21KdGVsSHdwZk12OFBlUlNMRmZINHUzZXZsNXFpSWE1Skt5NHQzR1BGbTZ0QWtIMF9L?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 00:35:00 GMT",
+    "source": "한겨레",
+    "ageHours": 11.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 안철수 “한동훈 복당? 물귀신 행태…차라리 창당을”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "fd3d69980a26edfc90f55034a5653ccac854b30c9f6eceaea84a111366c930d7",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "與 신천지 갈등…김민석 \"만나서 대화\" vs 정청래 \"사과부터 제대로\" - 뉴스웍스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1qcnEyQ1d0eS13eDVQM2FWNVM5eWt4Um13Q1g2bHFhWm1QVDVUQ0V5RzI5U1E4Sm1keUozZjRyX0hBUEpvNDlLd0dWeG5EeHFrVjdTTzVURHRYODR4aDlUSEg4cmhyWF9Gb0dyVkhiUdIBc0FVX3lxTE5nUC1HQ01LWVNPUkppNnNZVWM0eGdPN2dvc3pfWDNIWTU5ME5YWUl1eW91VEpDb3hiSDhkWjd3eUFZajVvNEVVMjNxRWd6M2FHSEk1bjJOQXUzT1Y4R0hOR2Ezb2ZZbEpaQmNXLUVlNTFLNTQ?oc=5\" target=\"_blank\">與 신천지 갈등…김민석 \"만나서 대화\" vs 정청래 \"사과부터 제대로\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스웍스</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qcnEyQ1d0eS13eDVQM2FWNVM5eWt4Um13Q1g2bHFhWm1QVDVUQ0V5RzI5U1E4Sm1keUozZjRyX0hBUEpvNDlLd0dWeG5EeHFrVjdTTzVURHRYODR4aDlUSEg4cmhyWF9Gb0dyVkhiUdIBc0FVX3lxTE5nUC1HQ01LWVNPUkppNnNZVWM0eGdPN2dvc3pfWDNIWTU5ME5YWUl1eW91VEpDb3hiSDhkWjd3eUFZajVvNEVVMjNxRWd6M2FHSEk1bjJOQXUzT1Y4R0hOR2Ezb2ZZbEpaQmNXLUVlNTFLNTQ?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 08:57:45 GMT",
+    "source": "뉴스웍스",
+    "ageHours": 3.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 與 신천지 갈등…김민석 \"만나서 대화\" vs 정청래 \"사과부터 제대로\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "b887e75353beb8368f47a297918dca1396cf242361ad0936c96839ebbdca463e",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석-정청래 갈등 장기화하나 - 금강일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE81RGNmS1l6NWhoaXFnUGNvY3k5eWJETTI2WllYdzVOTm1kM20zRnBCeFllQzhETnI1ZWhKa0hKZDA2Mkh6LTZJM0U5NlRIVDV3SmVERUJwZURIMzd1RUxpMFV5NVpLV3JXdWc?oc=5\" target=\"_blank\">김민석-정청래 갈등 장기화하나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">금강일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81RGNmS1l6NWhoaXFnUGNvY3k5eWJETTI2WllYdzVOTm1kM20zRnBCeFllQzhETnI1ZWhKa0hKZDA2Mkh6LTZJM0U5NlRIVDV3SmVERUJwZURIMzd1RUxpMFV5NVpLV3JXdWc?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 09:07:05 GMT",
+    "source": "금강일보",
+    "ageHours": 3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석-정청래 갈등 장기화하나",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
