@@ -2278,5 +2278,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "cfbfb7f73f836f6de1393fa8ecf551cf5ec219fa21d7e628b9b16309cd0bb57d",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump renews call for prosecutions of Democrats over advice on illegal military orders - KOKH",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd3FaSWVLNTZMM296OExjR29EdkVGV04zZ3RvU25MZnJrVE50M0VCa0JZLXpINlFGWHhYVEhuTnNkSUZJQVhZOU1wTUl5Nk1yLWNaX3IwZDVzU3plNThLZUd3clIwNWJza2F0OGtJa1F6U1dHQTB1cXRvUk1PSWVJR3BndUxCU2RKQVo3SjNRbW9SUzFOUjJrR3ZVTFRBc200TVhHcmlDbXJUcV9xanhKdHVrUExiSXVsM19ZOGNxMl9HMWpabXgyTXFCRlVTYTJ2YWZjd2ZZMlVuM2twZ2RUSHUtZElTQQ?oc=5\" target=\"_blank\">Trump renews call for prosecutions of Democrats over advice on illegal military orders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOKH</font>",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd3FaSWVLNTZMM296OExjR29EdkVGV04zZ3RvU25MZnJrVE50M0VCa0JZLXpINlFGWHhYVEhuTnNkSUZJQVhZOU1wTUl5Nk1yLWNaX3IwZDVzU3plNThLZUd3clIwNWJza2F0OGtJa1F6U1dHQTB1cXRvUk1PSWVJR3BndUxCU2RKQVo3SjNRbW9SUzFOUjJrR3ZVTFRBc200TVhHcmlDbXJUcV9xanhKdHVrUExiSXVsM19ZOGNxMl9HMWpabXgyTXFCRlVTYTJ2YWZjd2ZZMlVuM2twZ2RUSHUtZElTQQ?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 20:29:46 GMT",
+    "source": "KOKH",
+    "ageHours": 0,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump renews call for prosecutions of Democrats over advice on illegal military orders",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

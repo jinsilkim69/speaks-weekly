@@ -2081,3 +2081,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump renews call for prosecutions of Democrats over advice on illegal military orders - KOKH
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump renews call for prosecutions of Democrats over advice on illegal military orders
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd3FaSWVLNTZMM296OExjR29EdkVGV04zZ3RvU25MZnJrVE50M0VCa0JZLXpINlFGWHhYVEhuTnNkSUZJQVhZOU1wTUl5Nk1yLWNaX3IwZDVzU3plNThLZUd3clIwNWJza2F0OGtJa1F6U1dHQTB1cXRvUk1PSWVJR3BndUxCU2RKQVo3SjNRbW9SUzFOUjJrR3ZVTFRBc200TVhHcmlDbXJUcV9xanhKdHVrUExiSXVsM19ZOGNxMl9HMWpabXgyTXFCRlVTYTJ2YWZjd2ZZMlVuM2twZ2RUSHUtZElTQQ?oc=5)
+
+---
+
