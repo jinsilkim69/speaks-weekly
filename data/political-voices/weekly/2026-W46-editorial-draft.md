@@ -1561,3 +1561,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Threatens To Double Tariffs On Mexico, Calls Midterms A ‘Perceived Loss’ - Yahoo News New Zealand
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Threatens To Double Tariffs On Mexico, Calls Midterms A ‘Perceived Loss’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTJnQWR2dFdZTFZWWjg1MkVhNm5LVlNob25yRVpyeEJxai1USjBseGxLRy14TFZ1VUNSZ08xYjM1ZjhjZjhjWi0tTVBoWlNXamtkNWNRaDM5LUxfaTJCYUJqVzE0ZE1HRThyeFVnS1YtTXJyZWtDSE04bUJKTkl4QXNZemI?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Oil prices rise after Trump said the U.S. doesn't need an Iran deal - Quartz
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Oil prices rise after Trump said the U.S. doesn't need an Iran deal
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBCTnJuT1NrX09nUUp2dWFfQmZBVG43R1lHOVlyLWgyWXpMeG5wWWJIVUNoVDhVTnFFNVRUdnpNWm5UTWJGRk5YU204QTlINVN0Y0ZLT2VtQmpVWk9YYnJ4RVg4cVhhMVN1UkQ3S3k5VQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Says Iran Deal Is No Longer Needed, Claims U.S. Has 'Got Their Strait' - Haaretz
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Says Iran Deal Is No Longer Needed, Claims U.S. Has 'Got Their Strait'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilAJBVV95cUxOd1k2eEEwT0VXRnN1aG5sSFFqUHk2VE5ienZqcUZiajhHV3RIN2Z1VlR5WExPdGRIT2h4ZEVZRmE3MHZLdDhiN0xFcUttbUhWWlptbFFzaVRkNUI5NTRfWnpVbXpjS1dXQ3R5N1NlamU5S0F0cno0a05Wa0M4Z052MldxOEcxZnRaQU9IdGV0c3pnelhNdXZ5ejlnRkNCWHZTR0J3bGdzSkE0NU1TUmZ2Q21veVhWRkhLOXNOaTRuOTJpMVp3alRrSFEtU0xsbXJNX1J1QzVYaVhybWZuRTIzbkdvZ1JTcVREbVBkOUpmMlVrT2haNDJGWmFfUUt0dEtXMlNSVFlOTUVqQ0JtMVpiN0w3cVY?oc=5)
+
+---
+

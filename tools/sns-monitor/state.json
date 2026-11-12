@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T17:41:16.693Z",
+  "lastCheckedAt": "2026-11-12T17:51:17.223Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2205,57 +2205,24 @@
       "seenAt": "2026-11-12T17:41:19.192Z",
       "title": "US President Donald Trump: “We don’t need a deal with Iran” – Truth Social - FXStreet",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f0618e15363e16e75972871ab4dd2037311e3232809507c036dde38c330f6a61": {
+      "seenAt": "2026-11-12T17:51:18.483Z",
+      "title": "Trump Threatens To Double Tariffs On Mexico, Calls Midterms A ‘Perceived Loss’ - Yahoo News New Zealand",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "55776729a86f46a43e02b2a1121eb10bbf8a763d54d7c30f557277f7367ce319": {
+      "seenAt": "2026-11-12T17:51:19.209Z",
+      "title": "Oil prices rise after Trump said the U.S. doesn't need an Iran deal - Quartz",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "77d5972e3f2bff7e971c199eeb88a43ee1c5b71a38f4e5f05ac799989177dc34": {
+      "seenAt": "2026-11-12T17:51:19.953Z",
+      "title": "Trump Says Iran Deal Is No Longer Needed, Claims U.S. Has 'Got Their Strait' - Haaretz",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "f0618e15363e16e75972871ab4dd2037311e3232809507c036dde38c330f6a61",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Threatens To Double Tariffs On Mexico, Calls Midterms A ‘Perceived Loss’ - Yahoo News New Zealand",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTJnQWR2dFdZTFZWWjg1MkVhNm5LVlNob25yRVpyeEJxai1USjBseGxLRy14TFZ1VUNSZ08xYjM1ZjhjZjhjWi0tTVBoWlNXamtkNWNRaDM5LUxfaTJCYUJqVzE0ZE1HRThyeFVnS1YtTXJyZWtDSE04bUJKTkl4QXNZemI?oc=5\" target=\"_blank\">Trump Threatens To Double Tariffs On Mexico, Calls Midterms A ‘Perceived Loss’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News New Zealand</font>",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTJnQWR2dFdZTFZWWjg1MkVhNm5LVlNob25yRVpyeEJxai1USjBseGxLRy14TFZ1VUNSZ08xYjM1ZjhjZjhjWi0tTVBoWlNXamtkNWNRaDM5LUxfaTJCYUJqVzE0ZE1HRThyeFVnS1YtTXJyZWtDSE04bUJKTkl4QXNZemI?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 12:51:31 GMT",
-        "source": "Yahoo News New Zealand",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "55776729a86f46a43e02b2a1121eb10bbf8a763d54d7c30f557277f7367ce319",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Oil prices rise after Trump said the U.S. doesn't need an Iran deal - Quartz",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBCTnJuT1NrX09nUUp2dWFfQmZBVG43R1lHOVlyLWgyWXpMeG5wWWJIVUNoVDhVTnFFNVRUdnpNWm5UTWJGRk5YU204QTlINVN0Y0ZLT2VtQmpVWk9YYnJ4RVg4cVhhMVN1UkQ3S3k5VQ?oc=5\" target=\"_blank\">Oil prices rise after Trump said the U.S. doesn't need an Iran deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quartz</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCTnJuT1NrX09nUUp2dWFfQmZBVG43R1lHOVlyLWgyWXpMeG5wWWJIVUNoVDhVTnFFNVRUdnpNWm5UTWJGRk5YU204QTlINVN0Y0ZLT2VtQmpVWk9YYnJ4RVg4cVhhMVN1UkQ3S3k5VQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 13:48:41 GMT",
-        "source": "Quartz",
-        "ageHours": 0
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "77d5972e3f2bff7e971c199eeb88a43ee1c5b71a38f4e5f05ac799989177dc34",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Says Iran Deal Is No Longer Needed, Claims U.S. Has 'Got Their Strait' - Haaretz",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOd1k2eEEwT0VXRnN1aG5sSFFqUHk2VE5ienZqcUZiajhHV3RIN2Z1VlR5WExPdGRIT2h4ZEVZRmE3MHZLdDhiN0xFcUttbUhWWlptbFFzaVRkNUI5NTRfWnpVbXpjS1dXQ3R5N1NlamU5S0F0cno0a05Wa0M4Z052MldxOEcxZnRaQU9IdGV0c3pnelhNdXZ5ejlnRkNCWHZTR0J3bGdzSkE0NU1TUmZ2Q21veVhWRkhLOXNOaTRuOTJpMVp3alRrSFEtU0xsbXJNX1J1QzVYaVhybWZuRTIzbkdvZ1JTcVREbVBkOUpmMlVrT2haNDJGWmFfUUt0dEtXMlNSVFlOTUVqQ0JtMVpiN0w3cVY?oc=5\" target=\"_blank\">Trump Says Iran Deal Is No Longer Needed, Claims U.S. Has 'Got Their Strait'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Haaretz</font>",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOd1k2eEEwT0VXRnN1aG5sSFFqUHk2VE5ienZqcUZiajhHV3RIN2Z1VlR5WExPdGRIT2h4ZEVZRmE3MHZLdDhiN0xFcUttbUhWWlptbFFzaVRkNUI5NTRfWnpVbXpjS1dXQ3R5N1NlamU5S0F0cno0a05Wa0M4Z052MldxOEcxZnRaQU9IdGV0c3pnelhNdXZ5ejlnRkNCWHZTR0J3bGdzSkE0NU1TUmZ2Q21veVhWRkhLOXNOaTRuOTJpMVp3alRrSFEtU0xsbXJNX1J1QzVYaVhybWZuRTIzbkdvZ1JTcVREbVBkOUpmMlVrT2haNDJGWmFfUUt0dEtXMlNSVFlOTUVqQ0JtMVpiN0w3cVY?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 13:52:00 GMT",
-        "source": "Haaretz",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "982c5a520c0476deb8a91214a1b84755b609cd55910ab437c084e6fabf922d67",
@@ -2668,6 +2635,22 @@
         "pubDate": "Thu, 12 Nov 2026 14:50:02 GMT",
         "source": "Axios",
         "ageHours": 2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "1b758c00bfc6d43896e490bca2dec0a6ad465857a21d1e51a23f4dc70f814544",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO - USA Today",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5\" target=\"_blank\">Trump says Apple's Tim Cook should replace Jensen Huang as Nvidia CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSk9jSU5wTHdUZ3p0VWxzMk5EMDR1YXZVT1JrTVMxZTNiSzhvM1d0S2U5RTlZTkM1TDVLV0l4ZjlCdFRJcmc1dEY1b0lqV0VMRkZ1aEk0dGZPZ1U4LU5TNDIwUW9kaDFlcXh3TmtiNXd5Nmo5TkxyQ3F6YWxlMWplMjFVMVpLOGVoWjVrLV9xQWhwR2wwbi1oOFU0OVdWZU45WTFwVjNRTkU1TVVrelRtVnRMRl9Faks2Y3drbFR3?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 16:16:00 GMT",
+        "source": "USA Today",
+        "ageHours": 1.6
       },
       "delivered": [],
       "archived": false
