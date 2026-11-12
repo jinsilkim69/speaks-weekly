@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T15:11:17.047Z",
+  "lastCheckedAt": "2026-11-12T15:26:47.719Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -1980,57 +1980,24 @@
       "seenAt": "2026-11-12T15:11:19.411Z",
       "title": "이준석 제치고 '국힘 최장수 당대표'…장동혁 \"'웃픈' 현실\" - 아이뉴스24",
       "targetName": "이준석"
+    },
+    "215ef7bd7a094ea0b90e58e01e44a4d4590a599d005a12d93c66ab3fa2559374": {
+      "seenAt": "2026-11-12T15:26:48.832Z",
+      "title": "경로당, 겨울엔 찬방 신세?…천하람 \"스마트 한파 쉼터 구축\" - 이데일리",
+      "targetName": "천하람"
+    },
+    "56f724629d925fad849a41485c963d7cde0a92cc38a20b4495a170ae562a018e": {
+      "seenAt": "2026-11-12T15:26:49.651Z",
+      "title": "조국혁신당 \"종부세 엇박자 대통령에 부담\"·靑 \"입장 후퇴 없어\" - 연합뉴스TV",
+      "targetName": "조국"
+    },
+    "d76614db9be94478837a52807b7f0c8a91bf5f8de33e828796a182fa75e73818": {
+      "seenAt": "2026-11-12T15:26:50.343Z",
+      "title": "쑨원 탄생 160주년 대회…시진핑 “조국통일 반드시 실현할 수 있어” - 중앙일보",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "215ef7bd7a094ea0b90e58e01e44a4d4590a599d005a12d93c66ab3fa2559374",
-        "targetId": "cheon_haram",
-        "targetName": "천하람",
-        "targetTitle": "개혁신당 원내대표",
-        "title": "경로당, 겨울엔 찬방 신세?…천하람 \"스마트 한파 쉼터 구축\" - 이데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVZvUDR2bmlJbUxybGxNR3p1U3N6UHlpY3ZZdEhyNVVqRUthUkE5YmZoTWZ5UnZpNERUbm9rTXBTUjdjZGoxU25UOFVwbTNNVVA2TWhiMHdEOWRmYXIyNHA3d1FqMWVBcFFZZDQtWU50c1NpS1pjSzhzRHFVdlh1OA?oc=5\" target=\"_blank\">경로당, 겨울엔 찬방 신세?…천하람 \"스마트 한파 쉼터 구축\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVZvUDR2bmlJbUxybGxNR3p1U3N6UHlpY3ZZdEhyNVVqRUthUkE5YmZoTWZ5UnZpNERUbm9rTXBTUjdjZGoxU25UOFVwbTNNVVA2TWhiMHdEOWRmYXIyNHA3d1FqMWVBcFFZZDQtWU50c1NpS1pjSzhzRHFVdlh1OA?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 01:41:59 GMT",
-        "source": "이데일리",
-        "ageHours": 10.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "56f724629d925fad849a41485c963d7cde0a92cc38a20b4495a170ae562a018e",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 \"종부세 엇박자 대통령에 부담\"·靑 \"입장 후퇴 없어\" - 연합뉴스TV",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nRjlQN2xGaE1XeVd3UHo3S2gwRnVtaW5ndmtMQzRiWkplQU1hTFVkZWo3Y2JjSmxKWEVfam13Y2lNcktqWl9XdXRKb2RteHJYdGFtZzNBYWYwNlUzOVlScWV4MEgyd3c?oc=5\" target=\"_blank\">조국혁신당 \"종부세 엇박자 대통령에 부담\"·靑 \"입장 후퇴 없어\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nRjlQN2xGaE1XeVd3UHo3S2gwRnVtaW5ndmtMQzRiWkplQU1hTFVkZWo3Y2JjSmxKWEVfam13Y2lNcktqWl9XdXRKb2RteHJYdGFtZzNBYWYwNlUzOVlScWV4MEgyd3c?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 06:01:00 GMT",
-        "source": "연합뉴스TV",
-        "ageHours": 6.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d76614db9be94478837a52807b7f0c8a91bf5f8de33e828796a182fa75e73818",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "쑨원 탄생 160주년 대회…시진핑 “조국통일 반드시 실현할 수 있어” - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE92Ukh0emIwc2RuaTF0QndkNThEWVZ5OUkzajJabnhYZzNNZkh2Ylh0elJHWjB6ZDhrM0pjWWx1aE50dVlGTjU3MHRORFpDZlAzZzQ2STRn?oc=5\" target=\"_blank\">쑨원 탄생 160주년 대회…시진핑 “조국통일 반드시 실현할 수 있어”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92Ukh0emIwc2RuaTF0QndkNThEWVZ5OUkzajJabnhYZzNNZkh2Ylh0elJHWjB6ZDhrM0pjWWx1aE50dVlGTjU3MHRORFpDZlAzZzQ2STRn?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 06:47:45 GMT",
-        "source": "중앙일보",
-        "ageHours": 5.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "56b7ae98576e13f5bcf8822924d260460a4e071792f8379b38e31b3e7cf51f07",
@@ -2891,6 +2858,38 @@
         "pubDate": "Thu, 12 Nov 2026 15:01:14 GMT",
         "source": "The Washington Post",
         "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "98fba06e69e6a2794b18796cddca767f9fde368a6ca592ad10e413338074cc8a",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "【시사토픽Q=입법.정당/이슈특보】 장동혁, '한동훈 복당 불가' 원칙 재확인…이진숙, '통합·연대' 발언에 지지 철회 움직임 - 데일리NGO뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zLWRkRUVRLTVBbnVxeVMyVndWaHU5STQxVVZVcmhsblhPQ0o2OWVFc0htMEZ3TE44bmdsdnFrbzdBbjNEMmh5T3QtTGpuVUI4Wll2RURwQzVheWxOWjFqbA?oc=5\" target=\"_blank\">【시사토픽Q=입법.정당/이슈특보】 장동혁, '한동훈 복당 불가' 원칙 재확인…이진숙, '통합·연대' 발언에 지지 철회 움직임</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리NGO뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zLWRkRUVRLTVBbnVxeVMyVndWaHU5STQxVVZVcmhsblhPQ0o2OWVFc0htMEZ3TE44bmdsdnFrbzdBbjNEMmh5T3QtTGpuVUI4Wll2RURwQzVheWxOWjFqbA?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 14:02:07 GMT",
+        "source": "데일리NGO뉴스",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "514080d0a5400be97f18e555b130db31ec33d6d9191c8f9ef60c6bdfd553ae5f",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당·진보당, '청해부대 작전구역 확대' 동의안에 \"꼼수 파병\" 반대 - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9kUmhIbDluYjZDZGNSa3dndHBoamJhMm93YUdaMURuQjlSQnFjT01JUEdMRmVKajBqSm5RakRyRkpQNXZDMWxKNVJYSEVBT1ZZeF9COTA0X2xBWU1iT1ZJVkVvUkprQ1lRdWxYNUtNTHhZTkJPbEpaY9IBeEFVX3lxTE9kUmhIbDluYjZDZGNSa3dndHBoamJhMm93YUdaMURuQjlSQnFjT01JUEdMRmVKajBqSm5RakRyRkpQNXZDMWxKNVJYSEVBT1ZZeF9COTA0X2xBWU1iT1ZJVkVvUkprQ1lRdWxYNUtNTHhZTkJPbEpaYw?oc=5\" target=\"_blank\">조국혁신당·진보당, '청해부대 작전구역 확대' 동의안에 \"꼼수 파병\" 반대</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kUmhIbDluYjZDZGNSa3dndHBoamJhMm93YUdaMURuQjlSQnFjT01JUEdMRmVKajBqSm5RakRyRkpQNXZDMWxKNVJYSEVBT1ZZeF9COTA0X2xBWU1iT1ZJVkVvUkprQ1lRdWxYNUtNTHhZTkJPbEpaY9IBeEFVX3lxTE9kUmhIbDluYjZDZGNSa3dndHBoamJhMm93YUdaMURuQjlSQnFjT01JUEdMRmVKajBqSm5RakRyRkpQNXZDMWxKNVJYSEVBT1ZZeF9COTA0X2xBWU1iT1ZJVkVvUkprQ1lRdWxYNUtNTHhZTkJPbEpaYw?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 06:04:49 GMT",
+        "source": "뉴시스",
+        "ageHours": 9.4
       },
       "delivered": [],
       "archived": false

@@ -976,3 +976,42 @@
 
 ---
 
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 경로당, 겨울엔 찬방 신세?…천하람 "스마트 한파 쉼터 구축" - 이데일리
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경로당, 겨울엔 찬방 신세?…천하람 "스마트 한파 쉼터 구축"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxPRVZvUDR2bmlJbUxybGxNR3p1U3N6UHlpY3ZZdEhyNVVqRUthUkE5YmZoTWZ5UnZpNERUbm9rTXBTUjdjZGoxU25UOFVwbTNNVVA2TWhiMHdEOWRmYXIyNHA3d1FqMWVBcFFZZDQtWU50c1NpS1pjSzhzRHFVdlh1OA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 "종부세 엇박자 대통령에 부담"·靑 "입장 후퇴 없어" - 연합뉴스TV
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 "종부세 엇박자 대통령에 부담"·靑 "입장 후퇴 없어"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nRjlQN2xGaE1XeVd3UHo3S2gwRnVtaW5ndmtMQzRiWkplQU1hTFVkZWo3Y2JjSmxKWEVfam13Y2lNcktqWl9XdXRKb2RteHJYdGFtZzNBYWYwNlUzOVlScWV4MEgyd3c?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 쑨원 탄생 160주년 대회…시진핑 “조국통일 반드시 실현할 수 있어” - 중앙일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 쑨원 탄생 160주년 대회…시진핑 “조국통일 반드시 실현할 수 있어”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE92Ukh0emIwc2RuaTF0QndkNThEWVZ5OUkzajJabnhYZzNNZkh2Ylh0elJHWjB6ZDhrM0pjWWx1aE50dVlGTjU3MHRORFpDZlAzZzQ2STRn?oc=5)
+
+---
+
