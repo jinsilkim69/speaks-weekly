@@ -1678,3 +1678,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump: Vance to focus solely on ‘Massive Corruption and Crime’ in Democrat-led cities, states - The Hill
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump: Vance to focus solely on ‘Massive Corruption and Crime’ in Democrat-led cities, states
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHB6S1h5N2xSdFdmY2NsSVF6RmJoOVo1ekd4Z1htMHh5T01tb3FUUVpEc05pbUoxaUwxdF85dlc3cWRKX0hMMi10aEJRc0tFTGtOQjU2Y3F4d3ItOUw2Y3o3a2dSSkphZG91ZHpwNzZDa1QyS0V1UFJZT0RoRWNjTzRBVzNMUVZ6a3ByaWkzRHVnZXFtT0dJN1JVX0ZOc1I2Tm1XSUo1cmpTbHhfc1pTcnBqRnI4NmQ3ZnZJVUdBWTV4cFHSAcgBQVVfeXFMT1NYbmZfdlNkZ3pMZ1lSSEU0NVJGOVhRTU5LLWk5QURMWl9XSG1KVldfWVAwd0RoQi0wcDdlYXJPejVyUlZOeTdHNnNJVUVlSTNZYUpRWVl0dGEwR0ZyZEhJa2Y2dFpyS1JSdVRtOTJvX0Y0TExlUnVxQXRiOTktcDk0R1U4MURIYUFtS2ZwSVo1WTNCMkZLNlBHZVhZTWN4LVpPdE9KWXF5dTI3ZGhYMFB5OGRrNV9aZ3VGdmlEY05FMl9RVVhfQjg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 “심판 행세 말고 빠지라”에···박지원 “계속 싸우잔 거냐” - 경향신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 “심판 행세 말고 빠지라”에···박지원 “계속 싸우잔 거냐”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CSllPMkRMOG5Sb2c1anItN2diamMyWmFLWUhPYTZtU1NPbE1xc1NfVjJ5VzRoWmt0U19maXVmZzNWNDZ0cjZMMTBqQWRNVDFYUmhUcU9hUURKZ9IBX0FVX3lxTE1JdWE1TGRmdlM0Y3FGRm1pWVhrenk3eEtnM1VJWnI3dXFCdWdEMUVFUGFybThqRFktSm84cUk3OTVVMU1IcVJVcFdwNTRxLXJ6bFpTVTA3MmZLT3lBMTBV?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump reverts to an old theme, warns of immigrant caravans - The Washington Post
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump reverts to an old theme, warns of immigrant caravans
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVJfMmhtbnptczl3YWNaZ1BwbFpsa0NaRC11eTROTnZDa19TSUlmdElaM21qWlVzZ3pyZWJ5M18xQVp6dloxSTBWd3JjSWpDQjlpaDNxNmQ0Y1E0Ukl6dHdGbnRyZzNSMnZEQzNMTTgzOVJ3aDJyay1RLVRqeXdWWVAxZnZqdm1EbFhEbm9mWFpGaXhEUnEtb193M0ttOVZRMHc?oc=5)
+
+---
+
