@@ -898,3 +898,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "조작 징계 논리 안 맞아…한 세력 빼놓고 보수 연대 가능" - 한국경제
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "조작 징계 논리 안 맞아…한 세력 빼놓고 보수 연대 가능"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yZ3FXRG1uR1pNa0djRklwWGlBQzhSZ24zZjFMTHgtdTducUVCdTlDSlFDUXNpeTlHbkROVmthMzhEb0ZVeGlyeHVDeURRZnFUZzRjVEVlSGp6dw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “‘혼자 잘 났다고 떠드는 사람’ 빼고, 보수 연대 논의” - 주간경향
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “‘혼자 잘 났다고 떠드는 사람’ 빼고, 보수 연대 논의”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iZ0VVX2pLSzh6ZnY5UXd1SnFpZ0FhNWFtcHZoZjBPOXpPOTlYTjdQODJURFRKbXJkM0o1V0VxQ1JXcTVDRXdaN2RtYmFHZk5fc19YVlRZU1ladXpvN1E?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "마운자로 반입 허용 환영…자가치료 목적은 허용해야" - 아시아경제
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "마운자로 반입 허용 환영…자가치료 목적은 허용해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wYV9KRHU0UnZtXzN5dEFneHpwbnRGMnMxaDZXRzhtZEdHNXpkNVNqSTFZYm1PaU1xelQxZ1AzMURfZk05RXJ1VjBUNlF0cjNhV0xZMXBMaWhsWW5hN1M3eg?oc=5)
+
+---
+

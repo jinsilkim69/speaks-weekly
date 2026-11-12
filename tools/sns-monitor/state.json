@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T14:51:17.231Z",
+  "lastCheckedAt": "2026-11-12T15:01:18.341Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -1950,57 +1950,24 @@
       "seenAt": "2026-11-12T14:51:19.685Z",
       "title": "이준석 \"이 대통령 연락주면 20만호 즉시 공급 가능한 땅 알려주겠다\" - JTBC",
       "targetName": "이준석"
+    },
+    "46be76ec04c049da1bc06981608017e4bef89b77dbb25a621e68b04f4685e0d4": {
+      "seenAt": "2026-11-12T15:01:19.786Z",
+      "title": "이준석 \"조작 징계 논리 안 맞아…한 세력 빼놓고 보수 연대 가능\" - 한국경제",
+      "targetName": "이준석"
+    },
+    "1887f62929f893c742fa85764278e42eb90896c20bdd089d2ea83f3b91ca53e5": {
+      "seenAt": "2026-11-12T15:01:20.546Z",
+      "title": "이준석 “‘혼자 잘 났다고 떠드는 사람’ 빼고, 보수 연대 논의” - 주간경향",
+      "targetName": "이준석"
+    },
+    "ba9069cf3fb90ada2de90640e8c7e9b1d2d6b8bd4deb8d528adc308c735c22de": {
+      "seenAt": "2026-11-12T15:01:21.369Z",
+      "title": "이준석 \"마운자로 반입 허용 환영…자가치료 목적은 허용해야\" - 아시아경제",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "46be76ec04c049da1bc06981608017e4bef89b77dbb25a621e68b04f4685e0d4",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"조작 징계 논리 안 맞아…한 세력 빼놓고 보수 연대 가능\" - 한국경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yZ3FXRG1uR1pNa0djRklwWGlBQzhSZ24zZjFMTHgtdTducUVCdTlDSlFDUXNpeTlHbkROVmthMzhEb0ZVeGlyeHVDeURRZnFUZzRjVEVlSGp6dw?oc=5\" target=\"_blank\">이준석 \"조작 징계 논리 안 맞아…한 세력 빼놓고 보수 연대 가능\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yZ3FXRG1uR1pNa0djRklwWGlBQzhSZ24zZjFMTHgtdTducUVCdTlDSlFDUXNpeTlHbkROVmthMzhEb0ZVeGlyeHVDeURRZnFUZzRjVEVlSGp6dw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 05:23:10 GMT",
-        "source": "한국경제",
-        "ageHours": 6.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "1887f62929f893c742fa85764278e42eb90896c20bdd089d2ea83f3b91ca53e5",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 “‘혼자 잘 났다고 떠드는 사람’ 빼고, 보수 연대 논의” - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iZ0VVX2pLSzh6ZnY5UXd1SnFpZ0FhNWFtcHZoZjBPOXpPOTlYTjdQODJURFRKbXJkM0o1V0VxQ1JXcTVDRXdaN2RtYmFHZk5fc19YVlRZU1ladXpvN1E?oc=5\" target=\"_blank\">이준석 “‘혼자 잘 났다고 떠드는 사람’ 빼고, 보수 연대 논의”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iZ0VVX2pLSzh6ZnY5UXd1SnFpZ0FhNWFtcHZoZjBPOXpPOTlYTjdQODJURFRKbXJkM0o1V0VxQ1JXcTVDRXdaN2RtYmFHZk5fc19YVlRZU1ladXpvN1E?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 02:09:00 GMT",
-        "source": "주간경향",
-        "ageHours": 10
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ba9069cf3fb90ada2de90640e8c7e9b1d2d6b8bd4deb8d528adc308c735c22de",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"마운자로 반입 허용 환영…자가치료 목적은 허용해야\" - 아시아경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wYV9KRHU0UnZtXzN5dEFneHpwbnRGMnMxaDZXRzhtZEdHNXpkNVNqSTFZYm1PaU1xelQxZ1AzMURfZk05RXJ1VjBUNlF0cjNhV0xZMXBMaWhsWW5hN1M3eg?oc=5\" target=\"_blank\">이준석 \"마운자로 반입 허용 환영…자가치료 목적은 허용해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wYV9KRHU0UnZtXzN5dEFneHpwbnRGMnMxaDZXRzhtZEdHNXpkNVNqSTFZYm1PaU1xelQxZ1AzMURfZk05RXJ1VjBUNlF0cjNhV0xZMXBMaWhsWW5hN1M3eg?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 07:05:01 GMT",
-        "source": "아시아경제",
-        "ageHours": 5
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "a45f2d89d8f4b91d81916ae84959e33ce4eddee8253960979c8c4960c0564b48",
@@ -2909,6 +2876,22 @@
         "pubDate": "Thu, 12 Nov 2026 13:00:21 GMT",
         "source": "경향신문",
         "ageHours": 1.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "3f53acd8fdf66eab3f38590cfcc361af8f5967387af7ec769f22d37a565dacf4",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump: Vance to focus solely on ‘Massive Corruption and Crime’ in Democrat-led cities, states - The Hill",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHB6S1h5N2xSdFdmY2NsSVF6RmJoOVo1ekd4Z1htMHh5T01tb3FUUVpEc05pbUoxaUwxdF85dlc3cWRKX0hMMi10aEJRc0tFTGtOQjU2Y3F4d3ItOUw2Y3o3a2dSSkphZG91ZHpwNzZDa1QyS0V1UFJZT0RoRWNjTzRBVzNMUVZ6a3ByaWkzRHVnZXFtT0dJN1JVX0ZOc1I2Tm1XSUo1cmpTbHhfc1pTcnBqRnI4NmQ3ZnZJVUdBWTV4cFHSAcgBQVVfeXFMT1NYbmZfdlNkZ3pMZ1lSSEU0NVJGOVhRTU5LLWk5QURMWl9XSG1KVldfWVAwd0RoQi0wcDdlYXJPejVyUlZOeTdHNnNJVUVlSTNZYUpRWVl0dGEwR0ZyZEhJa2Y2dFpyS1JSdVRtOTJvX0Y0TExlUnVxQXRiOTktcDk0R1U4MURIYUFtS2ZwSVo1WTNCMkZLNlBHZVhZTWN4LVpPdE9KWXF5dTI3ZGhYMFB5OGRrNV9aZ3VGdmlEY05FMl9RVVhfQjg?oc=5\" target=\"_blank\">Trump: Vance to focus solely on ‘Massive Corruption and Crime’ in Democrat-led cities, states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHB6S1h5N2xSdFdmY2NsSVF6RmJoOVo1ekd4Z1htMHh5T01tb3FUUVpEc05pbUoxaUwxdF85dlc3cWRKX0hMMi10aEJRc0tFTGtOQjU2Y3F4d3ItOUw2Y3o3a2dSSkphZG91ZHpwNzZDa1QyS0V1UFJZT0RoRWNjTzRBVzNMUVZ6a3ByaWkzRHVnZXFtT0dJN1JVX0ZOc1I2Tm1XSUo1cmpTbHhfc1pTcnBqRnI4NmQ3ZnZJVUdBWTV4cFHSAcgBQVVfeXFMT1NYbmZfdlNkZ3pMZ1lSSEU0NVJGOVhRTU5LLWk5QURMWl9XSG1KVldfWVAwd0RoQi0wcDdlYXJPejVyUlZOeTdHNnNJVUVlSTNZYUpRWVl0dGEwR0ZyZEhJa2Y2dFpyS1JSdVRtOTJvX0Y0TExlUnVxQXRiOTktcDk0R1U4MURIYUFtS2ZwSVo1WTNCMkZLNlBHZVhZTWN4LVpPdE9KWXF5dTI3ZGhYMFB5OGRrNV9aZ3VGdmlEY05FMl9RVVhfQjg?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 14:51:00 GMT",
+        "source": "The Hill",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
