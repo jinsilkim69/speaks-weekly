@@ -2172,3 +2172,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump pulls Vance from Iran talks, saying ‘we don’t need a deal’ - Los Angeles Times
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump pulls Vance from Iran talks, saying ‘we don’t need a deal’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVFWd2lJSWljSmFBR2xjSEt4aUloZEh5WGIzYlJ1dS1XaFRiTVJEUWpDRHRNM1Zyd0NEMEdCampTWU10VzNJX2xBeEtqMC03a21FeS1NcEdtakR1TS1nUDBZeTB2RzBHS3dacmpHZE5iTGFCWGxFaFIxckJ5eEJnVEU3eVlSVlo1ajZaTDhoQ0pmRFZ0NHJuVndJVUlvbk1scVBLd2otX0stWUF0?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump urges Senate leadership to move $350B reconciliation bill - The Hill
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump urges Senate leadership to move $350B reconciliation bill
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmJkLUoxXy1Xb2Q0a3lJME44TWtBeFFDLXAxMlBVanpTeldLcFhHME5Pd1JoTmZzeDBQaEVxMlk5YW9WOVdyd3JDbi1weVc2eFNpWERLR2pwWE5NRlc0WmtVaUtabW1Wc0FCWHFBU1FLak0tMElXMjhncmFMNU9tbGp6RU5pX0VDOTZZOE5CZWp3QS00S1hZYnJnUWdydXlMMkHSAacBQVVfeXFMTS1jUmdlTjltYmFYdEVsU19GZzk4bkptMjAxU2tnX1RPaWFTazZ1aWVVcFMxZFhXdzhtRVZvRTliVks0ODVaaENrNDNNWm0tTWZ2bWE0T1FrRGg2aFlYWE04RW8tZEVwdFZpbXlLT1J2cERyLWsxVGtpZmt1YndTMGt6MGtKbmViSVRBcjNvdElEcDdsT3AtQ0ZKNFZZbG9iQU92bHdFSk0?oc=5)
+
+---
+

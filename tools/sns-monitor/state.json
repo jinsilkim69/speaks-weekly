@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T22:01:16.850Z",
+  "lastCheckedAt": "2026-11-12T22:11:17.657Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2440,6 +2440,16 @@
       "seenAt": "2026-11-12T21:41:15.520Z",
       "title": "장동혁 반격 “한동훈 복당, 패륜의 정치” - 중앙일보",
       "targetName": "한동훈"
+    },
+    "a71666bf53a3f4be7940bf044abe9995e63f090cf3af2bf9ccfa0e264af1cece": {
+      "seenAt": "2026-11-12T22:11:19.148Z",
+      "title": "Trump pulls Vance from Iran talks, saying ‘we don’t need a deal’ - Los Angeles Times",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "68cecfa03d36c4fd159ca3ebbdf849064bdd2841ed64bca016fb896cfde92319": {
+      "seenAt": "2026-11-12T22:11:20.039Z",
+      "title": "Trump urges Senate leadership to move $350B reconciliation bill - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
