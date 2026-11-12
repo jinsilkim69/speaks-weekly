@@ -1483,3 +1483,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** [줌 인 여의도] 보수 살길 '4인(오세훈, 한동훈, 장동혁, 이준석) 4색' 주장… 어느 것이 통할까 - 대구일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 보수 살길 '4인(오세훈, 한동훈, 장동혁, 이준석) 4색' 주장… 어느 것이 통할까
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JSXVyTTRCNEhXVkJXSWFHQW1JS1lPNk9UVzFRQTZOeFE2RTRZQnA2V0tyOWg1aXNmcXNGOHdxVWlCamQ0NlByOW5rX21GdDB0aWpoMzI4WmxLQkMzTXhoMGFBT2ZMNUZx?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 "청해부대 작전구역 확대, 당론 반대"…본회의 반대투표 예고 - 프레시안
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 "청해부대 작전구역 확대, 당론 반대"…본회의 반대투표 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHYwQ3p0Q0l0TmhDZnhiZ01xWjBmWldSc0NYVlhGaXVnazVKWW1ieEpfNTJQVTlPdm1IdDhzOEx0UktvZWZfX0hMbzNPbzBweUJzMXdFR0ItUTdvdU5qRFVCQjQ3OFRSZU1OUXcyNkJyZjNMb0JtbkVzLXFfeEdBdl85RXIybXdFd3pRZEEwaFFtUF80VnBWVFpn?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says ‘we don’t need a deal with Iran’ - CNBC
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says ‘we don’t need a deal with Iran’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE5tWjFOSkhhSzNmbGk4eUFRY2Npa3IxMnRtRWJFNXl3UzlOOTE1a2ZuMWRwd1FlUHhMc3VNMklPT09USURQeDVTRDh5eG85Z2U2a0xZbWtMODg5eVJ6MkpTOFNFc0ZOa2JhNnN4NjE4V2RSeGhs?oc=5)
+
+---
+

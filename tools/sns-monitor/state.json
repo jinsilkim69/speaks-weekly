@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T17:21:16.865Z",
+  "lastCheckedAt": "2026-11-12T17:31:16.134Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2175,57 +2175,24 @@
       "seenAt": "2026-11-12T17:21:19.408Z",
       "title": "김민석, '언행 논란' 최민희 감찰조사 지시…\"심각 인식\"(종합) - 연합뉴스",
       "targetName": "김민석"
+    },
+    "cc094bea678a687d30e298ee8d9db6afa3234b6f62dfcc21d37e61d67ecb7161": {
+      "seenAt": "2026-11-12T17:31:17.188Z",
+      "title": "[줌 인 여의도] 보수 살길 '4인(오세훈, 한동훈, 장동혁, 이준석) 4색' 주장… 어느 것이 통할까 - 대구일보",
+      "targetName": "이준석"
+    },
+    "5b6fb1bc6effa0034b92dac0fbef5d15c50ba924c4c98064bac57f3d79656294": {
+      "seenAt": "2026-11-12T17:31:17.808Z",
+      "title": "조국혁신당 \"청해부대 작전구역 확대, 당론 반대\"…본회의 반대투표 예고 - 프레시안",
+      "targetName": "조국"
+    },
+    "000a7a4e0e3c92aeed1d5516f099b94914d7641c4dd337242d813c09420a1402": {
+      "seenAt": "2026-11-12T17:31:18.437Z",
+      "title": "Trump says ‘we don’t need a deal with Iran’ - CNBC",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "cc094bea678a687d30e298ee8d9db6afa3234b6f62dfcc21d37e61d67ecb7161",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "[줌 인 여의도] 보수 살길 '4인(오세훈, 한동훈, 장동혁, 이준석) 4색' 주장… 어느 것이 통할까 - 대구일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JSXVyTTRCNEhXVkJXSWFHQW1JS1lPNk9UVzFRQTZOeFE2RTRZQnA2V0tyOWg1aXNmcXNGOHdxVWlCamQ0NlByOW5rX21GdDB0aWpoMzI4WmxLQkMzTXhoMGFBT2ZMNUZx?oc=5\" target=\"_blank\">[줌 인 여의도] 보수 살길 '4인(오세훈, 한동훈, 장동혁, 이준석) 4색' 주장… 어느 것이 통할까</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대구일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JSXVyTTRCNEhXVkJXSWFHQW1JS1lPNk9UVzFRQTZOeFE2RTRZQnA2V0tyOWg1aXNmcXNGOHdxVWlCamQ0NlByOW5rX21GdDB0aWpoMzI4WmxLQkMzTXhoMGFBT2ZMNUZx?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 05:14:25 GMT",
-        "source": "대구일보",
-        "ageHours": 8.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5b6fb1bc6effa0034b92dac0fbef5d15c50ba924c4c98064bac57f3d79656294",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 \"청해부대 작전구역 확대, 당론 반대\"…본회의 반대투표 예고 - 프레시안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHYwQ3p0Q0l0TmhDZnhiZ01xWjBmWldSc0NYVlhGaXVnazVKWW1ieEpfNTJQVTlPdm1IdDhzOEx0UktvZWZfX0hMbzNPbzBweUJzMXdFR0ItUTdvdU5qRFVCQjQ3OFRSZU1OUXcyNkJyZjNMb0JtbkVzLXFfeEdBdl85RXIybXdFd3pRZEEwaFFtUF80VnBWVFpn?oc=5\" target=\"_blank\">조국혁신당 \"청해부대 작전구역 확대, 당론 반대\"…본회의 반대투표 예고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHYwQ3p0Q0l0TmhDZnhiZ01xWjBmWldSc0NYVlhGaXVnazVKWW1ieEpfNTJQVTlPdm1IdDhzOEx0UktvZWZfX0hMbzNPbzBweUJzMXdFR0ItUTdvdU5qRFVCQjQ3OFRSZU1OUXcyNkJyZjNMb0JtbkVzLXFfeEdBdl85RXIybXdFd3pRZEEwaFFtUF80VnBWVFpn?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 13:38:36 GMT",
-        "source": "프레시안",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "000a7a4e0e3c92aeed1d5516f099b94914d7641c4dd337242d813c09420a1402",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump says ‘we don’t need a deal with Iran’ - CNBC",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5tWjFOSkhhSzNmbGk4eUFRY2Npa3IxMnRtRWJFNXl3UzlOOTE1a2ZuMWRwd1FlUHhMc3VNMklPT09USURQeDVTRDh5eG85Z2U2a0xZbWtMODg5eVJ6MkpTOFNFc0ZOa2JhNnN4NjE4V2RSeGhs?oc=5\" target=\"_blank\">Trump says ‘we don’t need a deal with Iran’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tWjFOSkhhSzNmbGk4eUFRY2Npa3IxMnRtRWJFNXl3UzlOOTE1a2ZuMWRwd1FlUHhMc3VNMklPT09USURQeDVTRDh5eG85Z2U2a0xZbWtMODg5eVJ6MkpTOFNFc0ZOa2JhNnN4NjE4V2RSeGhs?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 13:15:38 GMT",
-        "source": "CNBC",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "adaf4226ac7e3a8742af8143e116747f910073db678c3b4ee2037a075b186385",
