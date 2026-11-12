@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T15:51:16.399Z",
+  "lastCheckedAt": "2026-11-12T16:01:19.021Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2040,57 +2040,24 @@
       "seenAt": "2026-11-12T15:51:19.128Z",
       "title": "신장식, 여권 정책 혼선 우려 전달…청와대 “부동산 정책 기조 변화 없어” - 서울뉴스통신",
       "targetName": "신장식"
+    },
+    "2b125a3d212f2bc7d4f1026c039777a036258664f4daaca8a43efcd44c04c5cb": {
+      "seenAt": "2026-11-12T16:01:20.341Z",
+      "title": "[포토] 최인호 정무수석 예방받은 신장식 대표 - 파이낸스투데이",
+      "targetName": "신장식"
+    },
+    "af7396d1f3a4a8d48e9e7c2b69e26761369670aceb09ef1a5a19ee181bbff476": {
+      "seenAt": "2026-11-12T16:01:21.257Z",
+      "title": "인사말하는 신장식 - 뉴시스",
+      "targetName": "신장식"
+    },
+    "e18e87f5dc841d59d763f6fa20e53561d2b4e0d1bb6f4b4da344b1dbf69930c0": {
+      "seenAt": "2026-11-12T16:01:22.104Z",
+      "title": "[BP금융포럼 in 싱가포르] 조국혁신당 대표 신장식 \"스타트업은 미래 산업의 씨앗, 실패 딛고 다시 도전할 생태계 키워야\" - 비즈니스포스트",
+      "targetName": "신장식"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "2b125a3d212f2bc7d4f1026c039777a036258664f4daaca8a43efcd44c04c5cb",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "[포토] 최인호 정무수석 예방받은 신장식 대표 - 파이낸스투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAzLVZGYzd2c1ExckNiazVCdDN3R0ZzU1QwM3k1dm5BRnFOS05QaTdOMVg2amZrVnJvRFJhX09KaUp5ZE96R1FvMmx3RTgxLWFYNDVtdmJQaWZSVnVGVl9VNkpWSC1VdkVWSnp5aw?oc=5\" target=\"_blank\">[포토] 최인호 정무수석 예방받은 신장식 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸스투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzLVZGYzd2c1ExckNiazVCdDN3R0ZzU1QwM3k1dm5BRnFOS05QaTdOMVg2amZrVnJvRFJhX09KaUp5ZE96R1FvMmx3RTgxLWFYNDVtdmJQaWZSVnVGVl9VNkpWSC1VdkVWSnp5aw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 07:34:48 GMT",
-        "source": "파이낸스투데이",
-        "ageHours": 4.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "af7396d1f3a4a8d48e9e7c2b69e26761369670aceb09ef1a5a19ee181bbff476",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "인사말하는 신장식 - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2M0h2cmNMNWNtOFRLWTRCbGV1S2JJSVhxeWNFQVN2c3RIcUVrWUF6ZjFwc3d1dFZVaHpZcjFsMjBZUWc0eWd1NVN3SXV6ZzE0VWJzWXU4dUk2ZmFpOV8tTw?oc=5\" target=\"_blank\">인사말하는 신장식</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2M0h2cmNMNWNtOFRLWTRCbGV1S2JJSVhxeWNFQVN2c3RIcUVrWUF6ZjFwc3d1dFZVaHpZcjFsMjBZUWc0eWd1NVN3SXV6ZzE0VWJzWXU4dUk2ZmFpOV8tTw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 04:56:45 GMT",
-        "source": "뉴시스",
-        "ageHours": 7.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e18e87f5dc841d59d763f6fa20e53561d2b4e0d1bb6f4b4da344b1dbf69930c0",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "[BP금융포럼 in 싱가포르] 조국혁신당 대표 신장식 \"스타트업은 미래 산업의 씨앗, 실패 딛고 다시 도전할 생태계 키워야\" - 비즈니스포스트",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBMeG5ld3RHT0lqTHV0QkJoMEJBV1c4Z0tGbThLOXFJM1p3c1o4NWJ5TmZnc2t0MllQRnktMUZRN2JaN1NZR3FDd3NTMVhheWt1dWxyMWVvSGlVeEViWGl3STQ3RTQ2cG1EWFJRS1J2OWFxcW8?oc=5\" target=\"_blank\">[BP금융포럼 in 싱가포르] 조국혁신당 대표 신장식 \"스타트업은 미래 산업의 씨앗, 실패 딛고 다시 도전할 생태계 키워야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">비즈니스포스트</font>",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMeG5ld3RHT0lqTHV0QkJoMEJBV1c4Z0tGbThLOXFJM1p3c1o4NWJ5TmZnc2t0MllQRnktMUZRN2JaN1NZR3FDd3NTMVhheWt1dWxyMWVvSGlVeEViWGl3STQ3RTQ2cG1EWFJRS1J2OWFxcW8?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 15:00:00 GMT",
-        "source": "비즈니스포스트",
-        "ageHours": 21.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "460368c67abf4a7e63b67f773f7b42b1d4734046c8d0d36387b1d655bc0ed1b0",
@@ -2855,6 +2822,22 @@
         "pubDate": "Thu, 12 Nov 2026 15:37:09 GMT",
         "source": "KBAK",
         "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "24466a1746907e520a90f36e3971fb82860c2e3c4664793fb13bfcda4bf04013",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan - WSMH",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUFVzUnhJZXBfWmZLOGdQNUVpRjNBYXZWRVZTYW9RUW5WRGVBanotY2FfS0txM05XcjB5em1TV3VGb3ltTjgzOFFxSEU0bk1WbkEwdUlaUU82LTBfLVdWZ2FfYWhjdG1TM3NBLWYzeWpIT29JVjdoYVB4d09aOW1YcmlDT1k0b0c3bzlyTGNzYTNGX05zS1dmb1dJS2VuXzlWY1ZCaTZZZ19IeU5IRllKMldLdS1XVFhJMFJRMFFrSW5RUVdxRVNjZlhacHBZOVE?oc=5\" target=\"_blank\">Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSMH</font>",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUFVzUnhJZXBfWmZLOGdQNUVpRjNBYXZWRVZTYW9RUW5WRGVBanotY2FfS0txM05XcjB5em1TV3VGb3ltTjgzOFFxSEU0bk1WbkEwdUlaUU82LTBfLVdWZ2FfYWhjdG1TM3NBLWYzeWpIT29JVjdoYVB4d09aOW1YcmlDT1k0b0c3bzlyTGNzYTNGX05zS1dmb1dJS2VuXzlWY1ZCaTZZZ19IeU5IRllKMldLdS1XVFhJMFJRMFFrSW5RUVdxRVNjZlhacHBZOVE?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 15:41:04 GMT",
+        "source": "WSMH",
+        "ageHours": 0.3
       },
       "delivered": [],
       "archived": false

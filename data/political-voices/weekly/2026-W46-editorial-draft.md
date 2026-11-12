@@ -1132,3 +1132,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** [포토] 최인호 정무수석 예방받은 신장식 대표 - 파이낸스투데이
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최인호 정무수석 예방받은 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFAzLVZGYzd2c1ExckNiazVCdDN3R0ZzU1QwM3k1dm5BRnFOS05QaTdOMVg2amZrVnJvRFJhX09KaUp5ZE96R1FvMmx3RTgxLWFYNDVtdmJQaWZSVnVGVl9VNkpWSC1VdkVWSnp5aw?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 인사말하는 신장식 - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 인사말하는 신장식
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2M0h2cmNMNWNtOFRLWTRCbGV1S2JJSVhxeWNFQVN2c3RIcUVrWUF6ZjFwc3d1dFZVaHpZcjFsMjBZUWc0eWd1NVN3SXV6ZzE0VWJzWXU4dUk2ZmFpOV8tTw?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** [BP금융포럼 in 싱가포르] 조국혁신당 대표 신장식 "스타트업은 미래 산업의 씨앗, 실패 딛고 다시 도전할 생태계 키워야" - 비즈니스포스트
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 대표 신장식 "스타트업은 미래 산업의 씨앗, 실패 딛고 다시 도전할 생태계 키워야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTFBMeG5ld3RHT0lqTHV0QkJoMEJBV1c4Z0tGbThLOXFJM1p3c1o4NWJ5TmZnc2t0MllQRnktMUZRN2JaN1NZR3FDd3NTMVhheWt1dWxyMWVvSGlVeEViWGl3STQ3RTQ2cG1EWFJRS1J2OWFxcW8?oc=5)
+
+---
+
