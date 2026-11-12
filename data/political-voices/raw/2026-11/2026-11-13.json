@@ -2303,5 +2303,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "a911d6916bf8cd4b786f3530af5fc340de2631d4b1cd1d957af89eac86d376fb",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump says the U.S. doesn’t ‘need’ a deal with Iran - NBC News",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2lSUVI5a0JSZkFyV2NNWWpuWlVPX192Z3NOcGF0UE5BVEZaUUsxQndwZXY2cndRS3dFcmpOYlRZMVNuOGVBWlJMTVV3S19hbVNWWm9pczZLWExLOS1NSTgzNVQ0ejZrMmZZUXF3ajI5T3F6LUVKRXl0T0huVERqd2phVS1ManZiaERjMFVKU1RkSHFtVWVUYWNRblVDYmpfdjNRY1g1V2w3MzlYeE9z?oc=5\" target=\"_blank\">Trump says the U.S. doesn’t ‘need’ a deal with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2lSUVI5a0JSZkFyV2NNWWpuWlVPX192Z3NOcGF0UE5BVEZaUUsxQndwZXY2cndRS3dFcmpOYlRZMVNuOGVBWlJMTVV3S19hbVNWWm9pczZLWExLOS1NSTgzNVQ0ejZrMmZZUXF3ajI5T3F6LUVKRXl0T0huVERqd2phVS1ManZiaERjMFVKU1RkSHFtVWVUYWNRblVDYmpfdjNRY1g1V2w3MzlYeE9z?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 20:36:27 GMT",
+    "source": "NBC News",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump says the U.S. doesn’t ‘need’ a deal with Iran",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
