@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T14:01:17.156Z",
+  "lastCheckedAt": "2026-11-12T14:11:17.558Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -1875,57 +1875,24 @@
       "seenAt": "2026-11-12T14:01:19.777Z",
       "title": "김민석-정청래 갈등 장기화하나 - 금강일보",
       "targetName": "김민석"
+    },
+    "82cc14bb25de3dec6bfb48d6393f1c1438124d0a1876eed606cf7ff7c560a854": {
+      "seenAt": "2026-11-12T14:11:18.894Z",
+      "title": "SNS서 ‘김민석 병원 프리패스’ 논란…與 “정상 예약 진료” 반박 - 미주중앙일보",
+      "targetName": "김민석"
+    },
+    "83b713f215e7d950e079db0a87b2b619fec45e736fa96aedaa6984290f0fa358": {
+      "seenAt": "2026-11-12T14:11:19.592Z",
+      "title": "정청래, '만나서 풀겠다'는 김민석에 \"사과부터 제대로 해야\" - MBC 뉴스",
+      "targetName": "김민석"
+    },
+    "385da28d3cb9f5aefe4c23864a7ec86f99cd9652d9a553c1d7e3d65371d3f6e1": {
+      "seenAt": "2026-11-12T14:11:20.317Z",
+      "title": "김민석 \"대화로 갈등 풀 것\"...정청래 \"전대 이후 통화 한번 안 해\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "82cc14bb25de3dec6bfb48d6393f1c1438124d0a1876eed606cf7ff7c560a854",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "SNS서 ‘김민석 병원 프리패스’ 논란…與 “정상 예약 진료” 반박 - 미주중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fYjJiY0xzRmlybFViOHBua2dYWHEzWUNaX0g3TWlUNXdpS1hjNkNDdXd4MzdDSmNhb0dpci00TTZPa3BtZFMzb1hldHhLVnFXVWNmMkZJVTZUN0hNWV96cnZR?oc=5\" target=\"_blank\">SNS서 ‘김민석 병원 프리패스’ 논란…與 “정상 예약 진료” 반박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미주중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fYjJiY0xzRmlybFViOHBua2dYWHEzWUNaX0g3TWlUNXdpS1hjNkNDdXd4MzdDSmNhb0dpci00TTZPa3BtZFMzb1hldHhLVnFXVWNmMkZJVTZUN0hNWV96cnZR?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 00:29:00 GMT",
-        "source": "미주중앙일보",
-        "ageHours": 11.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "83b713f215e7d950e079db0a87b2b619fec45e736fa96aedaa6984290f0fa358",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "정청래, '만나서 풀겠다'는 김민석에 \"사과부터 제대로 해야\" - MBC 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBYWVFGaXlfemg3d0s0dW5xVFY4LTdfbVRsZDBIdVJib0JtZ0Y0QndCMkNTZUw5Vjd2eXowbmRWbHo1Y2Z3eHdzZC0zVHE2S0ZqdjhLR0ZQWjlUOC1wbm9XUW9pOWhwX0N1Wjc5WTg1bmtaZ25PTnZodtIBeEFVX3lxTFBfZGQxRDI4cUFKbktsaHduMF9sT3JUdTRpUExRNlBGX2FRVW9mMWsyYk9XYUJDY1oxSDV1c0ZJNm1nT0h5ZDFnd0lyaHcyNVdTcnlnZnZwczUyVFFCUVhsV2Rrc2JRMGtlWnZOVHc0cm0wV0ZjdlN3aQ?oc=5\" target=\"_blank\">정청래, '만나서 풀겠다'는 김민석에 \"사과부터 제대로 해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYWVFGaXlfemg3d0s0dW5xVFY4LTdfbVRsZDBIdVJib0JtZ0Y0QndCMkNTZUw5Vjd2eXowbmRWbHo1Y2Z3eHdzZC0zVHE2S0ZqdjhLR0ZQWjlUOC1wbm9XUW9pOWhwX0N1Wjc5WTg1bmtaZ25PTnZodtIBeEFVX3lxTFBfZGQxRDI4cUFKbktsaHduMF9sT3JUdTRpUExRNlBGX2FRVW9mMWsyYk9XYUJDY1oxSDV1c0ZJNm1nT0h5ZDFnd0lyaHcyNVdTcnlnZnZwczUyVFFCUVhsV2Rrc2JRMGtlWnZOVHc0cm0wV0ZjdlN3aQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 01:23:29 GMT",
-        "source": "MBC 뉴스",
-        "ageHours": 10.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "385da28d3cb9f5aefe4c23864a7ec86f99cd9652d9a553c1d7e3d65371d3f6e1",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 \"대화로 갈등 풀 것\"...정청래 \"전대 이후 통화 한번 안 해\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE43VEdUYXdxeGpOYjhQWkhRN2Z2WG16SkxVVmRoaG9uQkY4ZlhmdmdFbGN3YzNFb0NQWnVjOE1XbUJNZlhJWUx6TEVrczNDcGdNaVRNclV5NFJtTHNaeERTclMzSlhLZVVZdVZUN9IBckFVX3lxTFBSb3hnekF0ZkRlVUlTWXUxRzF4ODZnclFWMVRBX3puVzJRZTl2enRfRVdTQnFtN3lSX01GYXFUWFdCS1k3a19BZHlnbHotdjhXczNSYVNBQUdHWThmUE1aMkZtWEZrdkdqWUtINUpBTXFPUQ?oc=5\" target=\"_blank\">김민석 \"대화로 갈등 풀 것\"...정청래 \"전대 이후 통화 한번 안 해\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43VEdUYXdxeGpOYjhQWkhRN2Z2WG16SkxVVmRoaG9uQkY4ZlhmdmdFbGN3YzNFb0NQWnVjOE1XbUJNZlhJWUx6TEVrczNDcGdNaVRNclV5NFJtTHNaeERTclMzSlhLZVVZdVZUN9IBckFVX3lxTFBSb3hnekF0ZkRlVUlTWXUxRzF4ODZnclFWMVRBX3puVzJRZTl2enRfRVdTQnFtN3lSX01GYXFUWFdCS1k3a19BZHlnbHotdjhXczNSYVNBQUdHWThmUE1aMkZtWEZrdkdqWUtINUpBTXFPUQ?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 02:22:43 GMT",
-        "source": "머니투데이",
-        "ageHours": 9.7
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "a8ce054c4e2561be6377b33777abe79038abb1dc8f22d9df4bf20f1e6ee40455",
@@ -2978,6 +2945,22 @@
         "pubDate": "Thu, 12 Nov 2026 13:52:00 GMT",
         "source": "Haaretz",
         "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "982c5a520c0476deb8a91214a1b84755b609cd55910ab437c084e6fabf922d67",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "안철수 “한동훈, 물귀신 행태···차라리 창당하라” - 주간경향",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwMFBOa1FaWUNxdGczYVpYODV1VGlYWkFsY2Zhc0lfU3Brb2RwVGNnS09LZWs4Z3BRNFBaODYteWZZOVlabHlybmI4SGNyTml0UDEtUzFhRExfaWY5M2c?oc=5\" target=\"_blank\">안철수 “한동훈, 물귀신 행태···차라리 창당하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwMFBOa1FaWUNxdGczYVpYODV1VGlYWkFsY2Zhc0lfU3Brb2RwVGNnS09LZWs4Z3BRNFBaODYteWZZOVlabHlybmI4SGNyTml0UDEtUzFhRExfaWY5M2c?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 23:24:00 GMT",
+        "source": "주간경향",
+        "ageHours": 14.8
       },
       "delivered": [],
       "archived": false

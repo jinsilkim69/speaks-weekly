@@ -703,3 +703,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** SNS서 ‘김민석 병원 프리패스’ 논란…與 “정상 예약 진료” 반박 - 미주중앙일보
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] SNS서 ‘김민석 병원 프리패스’ 논란…與 “정상 예약 진료” 반박
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fYjJiY0xzRmlybFViOHBua2dYWHEzWUNaX0g3TWlUNXdpS1hjNkNDdXd4MzdDSmNhb0dpci00TTZPa3BtZFMzb1hldHhLVnFXVWNmMkZJVTZUN0hNWV96cnZR?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, '만나서 풀겠다'는 김민석에 "사과부터 제대로 해야" - MBC 뉴스
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, '만나서 풀겠다'는 김민석에 "사과부터 제대로 해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBYWVFGaXlfemg3d0s0dW5xVFY4LTdfbVRsZDBIdVJib0JtZ0Y0QndCMkNTZUw5Vjd2eXowbmRWbHo1Y2Z3eHdzZC0zVHE2S0ZqdjhLR0ZQWjlUOC1wbm9XUW9pOWhwX0N1Wjc5WTg1bmtaZ25PTnZodtIBeEFVX3lxTFBfZGQxRDI4cUFKbktsaHduMF9sT3JUdTRpUExRNlBGX2FRVW9mMWsyYk9XYUJDY1oxSDV1c0ZJNm1nT0h5ZDFnd0lyaHcyNVdTcnlnZnZwczUyVFFCUVhsV2Rrc2JRMGtlWnZOVHc0cm0wV0ZjdlN3aQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "대화로 갈등 풀 것"...정청래 "전대 이후 통화 한번 안 해" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "대화로 갈등 풀 것"...정청래 "전대 이후 통화 한번 안 해"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE43VEdUYXdxeGpOYjhQWkhRN2Z2WG16SkxVVmRoaG9uQkY4ZlhmdmdFbGN3YzNFb0NQWnVjOE1XbUJNZlhJWUx6TEVrczNDcGdNaVRNclV5NFJtTHNaeERTclMzSlhLZVVZdVZUN9IBckFVX3lxTFBSb3hnekF0ZkRlVUlTWXUxRzF4ODZnclFWMVRBX3puVzJRZTl2enRfRVdTQnFtN3lSX01GYXFUWFdCS1k3a19BZHlnbHotdjhXczNSYVNBQUdHWThmUE1aMkZtWEZrdkdqWUtINUpBTXFPUQ?oc=5)
+
+---
+
