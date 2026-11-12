@@ -742,3 +742,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** ‘신천지 수렁’ 민주…김민석 “대화로 해결” 정청래 “사과부터” - 한겨레
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘신천지 수렁’ 민주…김민석 “대화로 해결” 정청래 “사과부터”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE5mWlI5elNwV3ZBaFNjMkk1Y2NrVUJFSjNEbE5teE4tVlprdEc1NjJQZF9wbVAwRXpEQy1ZVi1yZ0htTWxpdGNBUGM4SGlkNjl0U244OFNrYjdzQnBVQmFScEVKdGwzNkQ4LVE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 대화 제안에 “자기 장사하나…사과부터 제대로” - 경기일보
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 대화 제안에 “자기 장사하나…사과부터 제대로”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzYm9hbDNCRm02dnQ4N1g2cGkzWlVMU1hNUFdkOW0tV0FxZm1NaFc5NUZWVkZmOG1lRUoybEVTcDB6UkJHTlItbHdJY294X1A2MzN6MFBlTkQyZHc?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 '진료 프리패스' 논란 일자…與 "예약 시간 맞춰 방문한 것" - 파이낸셜뉴스
+
+- **수집일**: 2026-11-12 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 '진료 프리패스' 논란 일자…與 "예약 시간 맞춰 방문한 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LXzBGZXpKZmpZaUk4U19KZElnY2liUWRBVFpwVHNPajBESTlzOU9iWFdqYzZKRUllNHFaejZidkgxVDVhZkd1OHE5MGxfdExVejFPa3ZQLUlOUQ?oc=5)
+
+---
+

@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T14:11:17.558Z",
+  "lastCheckedAt": "2026-11-12T14:21:16.810Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -1890,57 +1890,24 @@
       "seenAt": "2026-11-12T14:11:20.317Z",
       "title": "김민석 \"대화로 갈등 풀 것\"...정청래 \"전대 이후 통화 한번 안 해\" - 머니투데이 - 머니투데이",
       "targetName": "김민석"
+    },
+    "a8ce054c4e2561be6377b33777abe79038abb1dc8f22d9df4bf20f1e6ee40455": {
+      "seenAt": "2026-11-12T14:21:17.909Z",
+      "title": "‘신천지 수렁’ 민주…김민석 “대화로 해결” 정청래 “사과부터” - 한겨레",
+      "targetName": "김민석"
+    },
+    "d9adb0af5b566802b423de10434791a536a69c215cebe8f42ca7c78c93e410ef": {
+      "seenAt": "2026-11-12T14:21:18.588Z",
+      "title": "정청래, 김민석 대화 제안에 “자기 장사하나…사과부터 제대로” - 경기일보",
+      "targetName": "김민석"
+    },
+    "014d79ca0df6570cc1364e7898f47415b74e5c2cb338ca7804e998f48804b1eb": {
+      "seenAt": "2026-11-12T14:21:19.258Z",
+      "title": "김민석 '진료 프리패스' 논란 일자…與 \"예약 시간 맞춰 방문한 것\" - 파이낸셜뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "a8ce054c4e2561be6377b33777abe79038abb1dc8f22d9df4bf20f1e6ee40455",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "‘신천지 수렁’ 민주…김민석 “대화로 해결” 정청래 “사과부터” - 한겨레",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5mWlI5elNwV3ZBaFNjMkk1Y2NrVUJFSjNEbE5teE4tVlprdEc1NjJQZF9wbVAwRXpEQy1ZVi1yZ0htTWxpdGNBUGM4SGlkNjl0U244OFNrYjdzQnBVQmFScEVKdGwzNkQ4LVE?oc=5\" target=\"_blank\">‘신천지 수렁’ 민주…김민석 “대화로 해결” 정청래 “사과부터”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mWlI5elNwV3ZBaFNjMkk1Y2NrVUJFSjNEbE5teE4tVlprdEc1NjJQZF9wbVAwRXpEQy1ZVi1yZ0htTWxpdGNBUGM4SGlkNjl0U244OFNrYjdzQnBVQmFScEVKdGwzNkQ4LVE?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 11:17:00 GMT",
-        "source": "한겨레",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d9adb0af5b566802b423de10434791a536a69c215cebe8f42ca7c78c93e410ef",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "정청래, 김민석 대화 제안에 “자기 장사하나…사과부터 제대로” - 경기일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzYm9hbDNCRm02dnQ4N1g2cGkzWlVMU1hNUFdkOW0tV0FxZm1NaFc5NUZWVkZmOG1lRUoybEVTcDB6UkJHTlItbHdJY294X1A2MzN6MFBlTkQyZHc?oc=5\" target=\"_blank\">정청래, 김민석 대화 제안에 “자기 장사하나…사과부터 제대로”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzYm9hbDNCRm02dnQ4N1g2cGkzWlVMU1hNUFdkOW0tV0FxZm1NaFc5NUZWVkZmOG1lRUoybEVTcDB6UkJHTlItbHdJY294X1A2MzN6MFBlTkQyZHc?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 05:36:19 GMT",
-        "source": "경기일보",
-        "ageHours": 6.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "014d79ca0df6570cc1364e7898f47415b74e5c2cb338ca7804e998f48804b1eb",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 '진료 프리패스' 논란 일자…與 \"예약 시간 맞춰 방문한 것\" - 파이낸셜뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LXzBGZXpKZmpZaUk4U19KZElnY2liUWRBVFpwVHNPajBESTlzOU9iWFdqYzZKRUllNHFaejZidkgxVDVhZkd1OHE5MGxfdExVejFPa3ZQLUlOUQ?oc=5\" target=\"_blank\">김민석 '진료 프리패스' 논란 일자…與 \"예약 시간 맞춰 방문한 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸셜뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LXzBGZXpKZmpZaUk4U19KZElnY2liUWRBVFpwVHNPajBESTlzOU9iWFdqYzZKRUllNHFaejZidkgxVDVhZkd1OHE5MGxfdExVejFPa3ZQLUlOUQ?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 21:36:32 GMT",
-        "source": "파이낸셜뉴스",
-        "ageHours": 14.5
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "d57a8e57eadb0d0a52a7494766665f6cb9323a8e7d0ea89d3ee6a11fe17c1cde",
@@ -2961,6 +2928,22 @@
         "pubDate": "Wed, 11 Nov 2026 23:24:00 GMT",
         "source": "주간경향",
         "ageHours": 14.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2d0e386121e4ccd9f82bbfdfcfccbeab6f4d0e6bebdaff52de19d5beb875ae43",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says US does not need deal with Iran - The New Region",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JdzZsV3JkMTBCb0FfWnNaRVh3ZGVvVTNOSmVsYmpNNjR0RHJyNUNHclJPVVhyZy1sT0NZdDhiYzQ3b045bVU4TkZkNA?oc=5\" target=\"_blank\">Trump says US does not need deal with Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Region</font>",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JdzZsV3JkMTBCb0FfWnNaRVh3ZGVvVTNOSmVsYmpNNjR0RHJyNUNHclJPVVhyZy1sT0NZdDhiYzQ3b045bVU4TkZkNA?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 14:18:05 GMT",
+        "source": "The New Region",
+        "ageHours": 0.1
       },
       "delivered": [],
       "archived": false
