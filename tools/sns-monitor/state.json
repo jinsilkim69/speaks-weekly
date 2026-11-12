@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-12T21:31:17.864Z",
+  "lastCheckedAt": "2026-11-12T21:41:14.397Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2435,6 +2435,11 @@
       "seenAt": "2026-11-12T21:31:20.743Z",
       "title": "Trump renews calls for $350B military funding package as GOP faces ticking clock - Politico",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "3014edaa285e21c0d7e2f91f2e6e354235f98660ed1964580a40c56069f5e6b0": {
+      "seenAt": "2026-11-12T21:41:15.520Z",
+      "title": "장동혁 반격 “한동훈 복당, 패륜의 정치” - 중앙일보",
+      "targetName": "한동훈"
     }
   },
   "pending": []

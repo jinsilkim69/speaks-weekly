@@ -2428,5 +2428,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "3014edaa285e21c0d7e2f91f2e6e354235f98660ed1964580a40c56069f5e6b0",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "장동혁 반격 “한동훈 복당, 패륜의 정치” - 중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ITWZOQ1lHQ1FNSEgzZ3RuTXVWdWN4S0FzMGQzLVl5SmJWSllXSUhDc0Y0bWhDbklmRDRDSXZURklwdW5CN0VHTEFzRjNOXzVFMXlVQm53?oc=5\" target=\"_blank\">장동혁 반격 “한동훈 복당, 패륜의 정치”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ITWZOQ1lHQ1FNSEgzZ3RuTXVWdWN4S0FzMGQzLVl5SmJWSllXSUhDc0Y0bWhDbklmRDRDSXZURklwdW5CN0VHTEFzRjNOXzVFMXlVQm53?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 15:32:02 GMT",
+    "source": "중앙일보",
+    "ageHours": 6.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 장동혁 반격 “한동훈 복당, 패륜의 정치”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
