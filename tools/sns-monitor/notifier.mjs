@@ -58,7 +58,7 @@ ${escapeHtml(bullets)}
       if (res.ok && data.ok) {
         sentCount++;
       } else {
-        console.warn('[발송 실패] 텔레그램 API 요청을 확인하세요.');
+        console.warn('[발송 실패] Telegram HTTP 상태:', res.status, '오류 코드:', Number(data.error_code) || 0, '유형:', /chat not found/i.test(data.description || '') ? 'chat_not_found' : /bot was blocked/i.test(data.description || '') ? 'bot_blocked' : /parse entities/i.test(data.description || '') ? 'invalid_format' : /unauthorized/i.test(data.description || '') ? 'unauthorized' : 'other');
       }
     } catch (err) {
       console.error(`[네트워크 에러] ${sub.name}:`, err.message);
