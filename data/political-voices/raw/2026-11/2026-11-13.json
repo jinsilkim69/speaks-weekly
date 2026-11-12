@@ -751,5 +751,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "770a0f0c0bf95e748ade2fa9fb69915f537eb4b15a65d2bdf1ce564653a17900",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Judge allows Trump defamation case against BBC to proceed but tosses 1 claim - WWNY",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXZfT255R0R0bXZjY3BqTE1IM04wVGpvQ1RxSjZZcUdTVnFGQm9SM3FDRkV2LUtWUkhQclA0cDZwQVhwbmNjNHJRT25tMExYWmx0bVJtNlRrcUFSNFFTaXN0RG53VFJSMUxXbHE5YnBQMDhCS3M1ZER5ZFk5WHNaNGZvWlRTenhFMzNmUXBnYzV4WlAzWXpUSGFyY0ZiQV8yeER6MFRFbw?oc=5\" target=\"_blank\">Judge allows Trump defamation case against BBC to proceed but tosses 1 claim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWNY</font>",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXZfT255R0R0bXZjY3BqTE1IM04wVGpvQ1RxSjZZcUdTVnFGQm9SM3FDRkV2LUtWUkhQclA0cDZwQVhwbmNjNHJRT25tMExYWmx0bVJtNlRrcUFSNFFTaXN0RG53VFJSMUxXbHE5YnBQMDhCS3M1ZER5ZFk5WHNaNGZvWlRTenhFMzNmUXBnYzV4WlAzWXpUSGFyY0ZiQV8yeER6MFRFbw?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 02:41:00 GMT",
+    "source": "WWNY",
+    "ageHours": 9.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Judge allows Trump defamation case against BBC to proceed but tosses 1 claim",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "236b66d3cdef1d03be5b29891e81b0ada6cf526572af795bdf292ed90f04e01f",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈, 세무사 시험 의혹 꺼내더니 \"이게 AI 안경일까요?' #shorts - 오마이TV - OhmyNews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBrSW10Y3UzQ0dZeUdUWTJ2Q2F2OGg1REd0TWVVNFhFeFVCWTFkR2VKY2lDQ09FTkNZcFRCMng3ME9SNVJULWJ6V1dTZzN1dk5kMEZwVE9GMFFBMTg3Q19wZnVaZmJQUWxhSi1JejdDd0xlTWNmcU5fNU5PWDhLbTg?oc=5\" target=\"_blank\">한동훈, 세무사 시험 의혹 꺼내더니 \"이게 AI 안경일까요?' #shorts - 오마이TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrSW10Y3UzQ0dZeUdUWTJ2Q2F2OGg1REd0TWVVNFhFeFVCWTFkR2VKY2lDQ09FTkNZcFRCMng3ME9SNVJULWJ6V1dTZzN1dk5kMEZwVE9GMFFBMTg3Q19wZnVaZmJQUWxhSi1JejdDd0xlTWNmcU5fNU5PWDhLbTg?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 09:34:08 GMT",
+    "source": "OhmyNews",
+    "ageHours": 2.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈, 세무사 시험 의혹 꺼내더니 \"이게 AI 안경일까요?' #shorts",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "cc64d5a5f8d477f2a10e63e1f053e612bae92011fbe26e0b99414fde0658015c",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "국힘 윤리위원 \"張, 한동훈 조작징계\"…韓 \"징계 무효\" 주장 - 경북신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zampmUkhsS0NmdWU5RVBoM1NYS0U1OVVLOHdxaGJBbGVCWExCVjlidXZkTWd3bnNZX1FieVEyd3FmUGNsalgxQ2dnUGpKdjhaeW1KbmtIUTc?oc=5\" target=\"_blank\">국힘 윤리위원 \"張, 한동훈 조작징계\"…韓 \"징계 무효\" 주장</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zampmUkhsS0NmdWU5RVBoM1NYS0U1OVVLOHdxaGJBbGVCWExCVjlidXZkTWd3bnNZX1FieVEyd3FmUGNsalgxQ2dnUGpKdjhaeW1KbmtIUTc?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 05:12:52 GMT",
+    "source": "경북신문",
+    "ageHours": 7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 국힘 윤리위원 \"張, 한동훈 조작징계\"…韓 \"징계 무효\" 주장",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1288,3 +1288,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Judge allows Trump defamation case against BBC to proceed but tosses 1 claim - WWNY
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Judge allows Trump defamation case against BBC to proceed but tosses 1 claim
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXZfT255R0R0bXZjY3BqTE1IM04wVGpvQ1RxSjZZcUdTVnFGQm9SM3FDRkV2LUtWUkhQclA0cDZwQVhwbmNjNHJRT25tMExYWmx0bVJtNlRrcUFSNFFTaXN0RG53VFJSMUxXbHE5YnBQMDhCS3M1ZER5ZFk5WHNaNGZvWlRTenhFMzNmUXBnYzV4WlAzWXpUSGFyY0ZiQV8yeER6MFRFbw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 세무사 시험 의혹 꺼내더니 "이게 AI 안경일까요?' #shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 세무사 시험 의혹 꺼내더니 "이게 AI 안경일까요?' #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFBrSW10Y3UzQ0dZeUdUWTJ2Q2F2OGg1REd0TWVVNFhFeFVCWTFkR2VKY2lDQ09FTkNZcFRCMng3ME9SNVJULWJ6V1dTZzN1dk5kMEZwVE9GMFFBMTg3Q19wZnVaZmJQUWxhSi1JejdDd0xlTWNmcU5fNU5PWDhLbTg?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국힘 윤리위원 "張, 한동훈 조작징계"…韓 "징계 무효" 주장 - 경북신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘 윤리위원 "張, 한동훈 조작징계"…韓 "징계 무효" 주장
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zampmUkhsS0NmdWU5RVBoM1NYS0U1OVVLOHdxaGJBbGVCWExCVjlidXZkTWd3bnNZX1FieVEyd3FmUGNsalgxQ2dnUGpKdjhaeW1KbmtIUTc?oc=5)
+
+---
+
