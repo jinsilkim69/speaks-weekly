@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T21:11:16.511Z",
+  "lastCheckedAt": "2026-11-13T21:21:17.384Z",
   "seenPostIds": {
-    "VHJ1bXAgTWVkaWEgc3dpbmdzIHRvIHF1": {
-      "seenAt": "2026-11-10T01:30:41.870Z",
-      "title": "Trump Media swings to quarterly profit; Truth API boosts revenue - Reuters",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "U2VsbGluZyBmYXN0ZXIgYWNjZXNzIHRv": {
       "seenAt": "2026-11-10T01:30:41.870Z",
       "title": "Selling faster access to Trump’s posts helps triple his media company’s revenue - The Washington Post",
@@ -2504,6 +2499,11 @@
     "c385ca3bbd41e825051bcd2853ce8afaffdffcef6c8b25a43a296f0c349c022b": {
       "seenAt": "2026-11-13T21:11:17.716Z",
       "title": "[뉴스분석] 김민석, '소통'으로 위기 정면돌파...정청래에 손 내밀고 여론 경청 행보 - 뉴스핌",
+      "targetName": "정청래"
+    },
+    "cd50c6838852c026c150bb9efb2dc5b264163ec62acf1e3f1ba9ffdee79c6bbd": {
+      "seenAt": "2026-11-13T21:21:18.893Z",
+      "title": "친정청래계 3인방 기자회견 일파만파... 심각하다는 현재 민주당 상황 - 위키트리",
       "targetName": "정청래"
     }
   },
