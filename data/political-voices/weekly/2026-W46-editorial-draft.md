@@ -4252,3 +4252,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석의 특별한 ‘신성’ 챙기기… 체육공단 감사 떨어지자 당 체육위원장으로 - 주간조선
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석의 특별한 ‘신성’ 챙기기… 체육공단 감사 떨어지자 당 체육위원장으로
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE01ZDZtVHJzTVNCSU5SWmdkbjl2ZGo5c24zZldmVXZaRWRDdG5iZUVERUY2dWZNb19wRGVvSFlmLU94bnRWZGt6MnJEU3gtVjZWQkhPUGh6ME9BZDF3aTQ4eWpkOUNNNzVYa0HSAW5BVV95cUxNQVU1YXQ0cklUTGJwR0NLYlJoUGxvWVlDMlI3RGNyQkJnYl8yNEFGbWh4VVZBSXRvV1lmUW9qOFZfaDB3SFd4V1RrcjBZYjAxX3BQXzRzQ041UU5yTjhBSm1rS1hzRzJyUUhhSTlXdw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** '광주 강남' 남구 새 둥지 튼 조국혁신당…차기 총선 포석일까 - 뉴스1
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '광주 강남' 남구 새 둥지 튼 조국혁신당…차기 총선 포석일까
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ELWJHQTBzR2hKR1R3VE5BYVdWR1Z4X0ZVYnQxVTV4RS1OYTVFbW5PMHdpaHR5ZGV1ZXcxTlJueHB3UU5IMzQycWFnN0dUcnRLcGNFU2dIakpIVF82cmZj?oc=5)
+
+---
+

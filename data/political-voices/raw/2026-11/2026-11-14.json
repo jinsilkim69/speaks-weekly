@@ -598,5 +598,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "028c332471101f844695cdd5e0d39685ad5310c21a85f736378478a5638ea44d",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석의 특별한 ‘신성’ 챙기기… 체육공단 감사 떨어지자 당 체육위원장으로 - 주간조선",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE01ZDZtVHJzTVNCSU5SWmdkbjl2ZGo5c24zZldmVXZaRWRDdG5iZUVERUY2dWZNb19wRGVvSFlmLU94bnRWZGt6MnJEU3gtVjZWQkhPUGh6ME9BZDF3aTQ4eWpkOUNNNzVYa0HSAW5BVV95cUxNQVU1YXQ0cklUTGJwR0NLYlJoUGxvWVlDMlI3RGNyQkJnYl8yNEFGbWh4VVZBSXRvV1lmUW9qOFZfaDB3SFd4V1RrcjBZYjAxX3BQXzRzQ041UU5yTjhBSm1rS1hzRzJyUUhhSTlXdw?oc=5\" target=\"_blank\">김민석의 특별한 ‘신성’ 챙기기… 체육공단 감사 떨어지자 당 체육위원장으로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간조선</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01ZDZtVHJzTVNCSU5SWmdkbjl2ZGo5c24zZldmVXZaRWRDdG5iZUVERUY2dWZNb19wRGVvSFlmLU94bnRWZGt6MnJEU3gtVjZWQkhPUGh6ME9BZDF3aTQ4eWpkOUNNNzVYa0HSAW5BVV95cUxNQVU1YXQ0cklUTGJwR0NLYlJoUGxvWVlDMlI3RGNyQkJnYl8yNEFGbWh4VVZBSXRvV1lmUW9qOFZfaDB3SFd4V1RrcjBZYjAxX3BQXzRzQ041UU5yTjhBSm1rS1hzRzJyUUhhSTlXdw?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 21:00:00 GMT",
+    "source": "주간조선",
+    "ageHours": 2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석의 특별한 ‘신성’ 챙기기… 체육공단 감사 떨어지자 당 체육위원장으로",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "f084e9d4b77b96624a77295794e611336a5594b8b58348d2d8521b3cfee3097e",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "'광주 강남' 남구 새 둥지 튼 조국혁신당…차기 총선 포석일까 - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ELWJHQTBzR2hKR1R3VE5BYVdWR1Z4X0ZVYnQxVTV4RS1OYTVFbW5PMHdpaHR5ZGV1ZXcxTlJueHB3UU5IMzQycWFnN0dUcnRLcGNFU2dIakpIVF82cmZj?oc=5\" target=\"_blank\">'광주 강남' 남구 새 둥지 튼 조국혁신당…차기 총선 포석일까</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ELWJHQTBzR2hKR1R3VE5BYVdWR1Z4X0ZVYnQxVTV4RS1OYTVFbW5PMHdpaHR5ZGV1ZXcxTlJueHB3UU5IMzQycWFnN0dUcnRLcGNFU2dIakpIVF82cmZj?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 22:40:00 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '광주 강남' 남구 새 둥지 튼 조국혁신당…차기 총선 포석일까",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
