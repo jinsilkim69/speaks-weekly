@@ -3472,3 +3472,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국힘 ‘한동훈 징계조작 의혹’, 중진 나서며 갈등 재점화…친한계 “조작 확인시 장동혁 처벌해야” - 경향신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘 ‘한동훈 징계조작 의혹’, 중진 나서며 갈등 재점화…친한계 “조작 확인시 장동혁 처벌해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvdDI5LXlzZlR0NUUycm9IVVpfWHFJMnFwSXRiM2hLNms2cnFIOWdxNnVLbnZWeXNsZTIxVERHSy1lMUR5eVpIZmZNOFNaSkstcE1Mb3p5a3lRNV9XaEJB0gFfQVVfeXFMUG90MjkteXNmVHQ1RTJyb0hVWl9YcUkycXBJdGIzaEs2azZycUg5Z3E2dUtudlZ5c2xlMjFUREdLLWUxRHl5WkhmZk04U1pKSy1wTUxvenlreVE1X1doQkE?oc=5)
+
+---
+
