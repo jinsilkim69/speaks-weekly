@@ -2393,3 +2393,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석·"부동산 정책 일관" 종부세 엇박자 불식 주력, 정청래 갈등엔 "만나서 대화" - 국제신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석·"부동산 정책 일관" 종부세 엇박자 불식 주력, 정청래 갈등엔 "만나서 대화"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0hTbEc5azY3enB1MjM0VkJLaUgtdEFMTmYzVUM3SlJpcV9jNlo1UVhzWW02R1hhN1V1NThFanN0bGxsSy1RZ2NzZUxINThha0lObGtad290ajR4aXFtcDJNcFdtT2VPNERaWXRBdUR2LVpTS3ZjbDdJN3BQNUtkbzlQVld6bzRyUV9nZFVB?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, '李대통령이 尹 탄핵반대' 주장한 최민희 감찰조사 지시 - 한국경제
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, '李대통령이 尹 탄핵반대' 주장한 최민희 감찰조사 지시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VOU1lbVdmRkQ1akdjQXR1NFZ0YjBlZjkybFRjc0lQdVYwYjFTQzZRR2x6aW13MnY4RWhUOW9xTlExcWNONVFQWnpUMnZ0dVNKQnRhelJGZ0pfdw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** “김어준, 유시민 조국혁신당 구명정이라 부추기는 분위기, 합당 합의 안 돼” - 주간경향
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “김어준, 유시민 조국혁신당 구명정이라 부추기는 분위기, 합당 합의 안 돼”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE94andZTDNQaHdudng1X3ZmemducEZGb0RpSjQwYWpxeGVPbEY4TDUzSmsxSlNRUG1hY1ZNU1BvWVEwQ2lIWFhPSFVkTV9rdmdBcmkzc1lFQkRUNF9RQnc?oc=5)
+
+---
+
