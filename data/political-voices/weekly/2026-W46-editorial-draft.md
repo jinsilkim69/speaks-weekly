@@ -3030,3 +3030,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 민주당 박범계·이해식 조국혁신당과 통합 엑스맨? 논의 없는 일방적 메시지가 원인 - Howl.Link
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 박범계·이해식 조국혁신당과 통합 엑스맨? 논의 없는 일방적 메시지가 원인
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiO0FVX3lxTE5YcDZ0bmFfSTNLanBVbGp4cnNyVHNNakNoR3RGU2xPdEhOblRtWGNGbjVOV1FCc3V2a2ZV?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 복당 贊 29%·反 40%...국힘 지지층선 贊 48% 反 39% [한국갤럽] - 중앙신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 복당 贊 29%·反 40%...국힘 지지층선 贊 48% 反 39%
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiogJBVV95cUxOWldPZnNMdGk1OHFoYThURzJHeE53SGQ4Z0xLaWxveHhjdFVJT0pKdjhXTUF6TWVEOXRvV253RHBwSzI4UXduQnFyc3JUaWYtdEdZU25PeEdUMi0wTy1zNXBKVXNOWFVRSXpsRWhoQlNKSllQV0hBWUVYTHZnTnF6Rjhid08tbnd5SjV5QTczWUFLaE5FY0c2TUw0dTVxNTBDM0tmWUhWdmN1X3hKMHUtVGdZRXlIN1NNTmlzdEprVGtuYnQwRk5pSkM0eEFRVkk3YWI5TXI4SGRIeG1KWEhKMGEzNXRhOFpiYTVwNkZXd1BDdTVGbVNCcmtmSEpobUFmNUdlTWstdmxfcmJZUmE0Vk9yeDFPVzlDTVROXzdYRlFXQQ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “한동훈, 욕쟁이 할머니집인데 맛도 없다···가라고 강요하면 폭력” - 주간경향
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “한동훈, 욕쟁이 할머니집인데 맛도 없다···가라고 강요하면 폭력”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kQ2pPZHl5Qjg3ZFBpMTREYlFlbjRrMkJlUC1Veks0M0JUZGhuSG1lazdUaGYwaTQ5UUNwTFg3Z0g4bTNENmllLXdaS3R1bmNveThIcWJGb0VHM3h4TUE?oc=5)
+
+---
+

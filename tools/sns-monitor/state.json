@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T07:21:14.521Z",
+  "lastCheckedAt": "2026-11-13T07:31:16.691Z",
   "seenPostIds": {
-    "6rWt7Z6YICLsgrDsnYAg67aA7IKw7JeQ": {
-      "seenAt": "2026-11-09T08:18:24.881Z",
-      "title": "국힘 \"산은 부산에 옮겨야\" 압박... 한동훈도 가세 - OhmyNews",
-      "targetName": "한동훈"
-    },
-    "4oCY7ZWc64+Z7ZuIIOuzteuLueuhoOKA": {
-      "seenAt": "2026-11-09T08:18:24.881Z",
-      "title": "‘한동훈 복당론’ 다시 솔솔…보수 연대 셈법 엇갈려 - 대한경제",
-      "targetName": "한동훈"
-    },
-    "IuyCsOydgCDsnbTsoIQg7Y+s6riw7ZaI": {
-      "seenAt": "2026-11-09T08:18:24.881Z",
-      "title": "\"산은 이전 포기했나\" 부산 국힘 총공세…한동훈도 가세 - 노컷뉴스",
-      "targetName": "한동훈"
-    },
     "7ZWc64+Z7ZuIIOuzteuLueuhoCDquYDr": {
       "seenAt": "2026-11-09T08:18:24.881Z",
       "title": "한동훈 복당론 김빼는 이준석···‘국민의힘 접점’ 늘리면서 셈법 복잡해져 - 경향신문",
@@ -2515,56 +2500,22 @@
       "seenAt": "2026-11-13T07:21:16.809Z",
       "title": "이준석 “한동훈은 ‘맛없는 욕쟁이 할머니 집’”…연일 직격 - 시사저널",
       "targetName": "이준석"
+    },
+    "0bed45a76dfec8fcc0572d4746f7d50954d86a8e84b2911fd2512adc79e50500": {
+      "seenAt": "2026-11-13T07:31:17.867Z",
+      "title": "민주당 박범계·이해식 조국혁신당과 통합 엑스맨? 논의 없는 일방적 메시지가 원인 - Howl.Link",
+      "targetName": "조국"
+    },
+    "4d6c6a32f42c45e8cfde23a58192aed5015d4b7e1d5a90f274b23b082249c43d": {
+      "seenAt": "2026-11-13T07:31:18.583Z",
+      "title": "한동훈, 복당 贊 29%·反 40%...국힘 지지층선 贊 48% 反 39% [한국갤럽] - 중앙신문",
+      "targetName": "한동훈"
+    },
+    "4f80525964a7b8780f0d7ec7b6d1d1b87da7e9189e92a7d8a213f152938d50b8": {
+      "seenAt": "2026-11-13T07:31:19.323Z",
+      "title": "이준석 “한동훈, 욕쟁이 할머니집인데 맛도 없다···가라고 강요하면 폭력” - 주간경향",
+      "targetName": "이준석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "0bed45a76dfec8fcc0572d4746f7d50954d86a8e84b2911fd2512adc79e50500",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "민주당 박범계·이해식 조국혁신당과 통합 엑스맨? 논의 없는 일방적 메시지가 원인 - Howl.Link",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE5YcDZ0bmFfSTNLanBVbGp4cnNyVHNNakNoR3RGU2xPdEhOblRtWGNGbjVOV1FCc3V2a2ZV?oc=5\" target=\"_blank\">민주당 박범계·이해식 조국혁신당과 통합 엑스맨? 논의 없는 일방적 메시지가 원인</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Howl.Link</font>",
-        "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5YcDZ0bmFfSTNLanBVbGp4cnNyVHNNakNoR3RGU2xPdEhOblRtWGNGbjVOV1FCc3V2a2ZV?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 06:44:30 GMT",
-        "source": "Howl.Link",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4d6c6a32f42c45e8cfde23a58192aed5015d4b7e1d5a90f274b23b082249c43d",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈, 복당 贊 29%·反 40%...국힘 지지층선 贊 48% 反 39% [한국갤럽] - 중앙신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxOWldPZnNMdGk1OHFoYThURzJHeE53SGQ4Z0xLaWxveHhjdFVJT0pKdjhXTUF6TWVEOXRvV253RHBwSzI4UXduQnFyc3JUaWYtdEdZU25PeEdUMi0wTy1zNXBKVXNOWFVRSXpsRWhoQlNKSllQV0hBWUVYTHZnTnF6Rjhid08tbnd5SjV5QTczWUFLaE5FY0c2TUw0dTVxNTBDM0tmWUhWdmN1X3hKMHUtVGdZRXlIN1NNTmlzdEprVGtuYnQwRk5pSkM0eEFRVkk3YWI5TXI4SGRIeG1KWEhKMGEzNXRhOFpiYTVwNkZXd1BDdTVGbVNCcmtmSEpobUFmNUdlTWstdmxfcmJZUmE0Vk9yeDFPVzlDTVROXzdYRlFXQQ?oc=5\" target=\"_blank\">한동훈, 복당 贊 29%·反 40%...국힘 지지층선 贊 48% 反 39% [한국갤럽]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOWldPZnNMdGk1OHFoYThURzJHeE53SGQ4Z0xLaWxveHhjdFVJT0pKdjhXTUF6TWVEOXRvV253RHBwSzI4UXduQnFyc3JUaWYtdEdZU25PeEdUMi0wTy1zNXBKVXNOWFVRSXpsRWhoQlNKSllQV0hBWUVYTHZnTnF6Rjhid08tbnd5SjV5QTczWUFLaE5FY0c2TUw0dTVxNTBDM0tmWUhWdmN1X3hKMHUtVGdZRXlIN1NNTmlzdEprVGtuYnQwRk5pSkM0eEFRVkk3YWI5TXI4SGRIeG1KWEhKMGEzNXRhOFpiYTVwNkZXd1BDdTVGbVNCcmtmSEpobUFmNUdlTWstdmxfcmJZUmE0Vk9yeDFPVzlDTVROXzdYRlFXQQ?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 04:32:55 GMT",
-        "source": "중앙신문",
-        "ageHours": 2.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4f80525964a7b8780f0d7ec7b6d1d1b87da7e9189e92a7d8a213f152938d50b8",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 “한동훈, 욕쟁이 할머니집인데 맛도 없다···가라고 강요하면 폭력” - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kQ2pPZHl5Qjg3ZFBpMTREYlFlbjRrMkJlUC1Veks0M0JUZGhuSG1lazdUaGYwaTQ5UUNwTFg3Z0g4bTNENmllLXdaS3R1bmNveThIcWJGb0VHM3h4TUE?oc=5\" target=\"_blank\">이준석 “한동훈, 욕쟁이 할머니집인데 맛도 없다···가라고 강요하면 폭력”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kQ2pPZHl5Qjg3ZFBpMTREYlFlbjRrMkJlUC1Veks0M0JUZGhuSG1lazdUaGYwaTQ5UUNwTFg3Z0g4bTNENmllLXdaS3R1bmNveThIcWJGb0VHM3h4TUE?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 07:12:00 GMT",
-        "source": "주간경향",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
