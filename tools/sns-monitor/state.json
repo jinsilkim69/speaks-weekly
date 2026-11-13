@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T07:41:15.800Z",
+  "lastCheckedAt": "2026-11-13T07:51:16.414Z",
   "seenPostIds": {
-    "W+yXrOuhoOyhsOyCrCDqvYNdICLquYDr": {
-      "seenAt": "2026-11-09T08:18:25.210Z",
-      "title": "[여론조사 꽃] \"김민석 '반분신 3자 비밀연합' 발언 사과해야\" 60%이상 - 굿모닝충청",
-      "targetName": "김민석"
-    },
     "W+ustOuTseydmCDslYTsuahdIOKAnOyc": {
       "seenAt": "2026-11-09T08:18:25.210Z",
       "title": "[무등의 아침] “위기에 빠진 김민석 리더십…역량도, 팬덤도 안 보인다” - KBS 뉴스",
@@ -2505,7 +2500,39 @@
       "seenAt": "2026-11-13T07:41:17.328Z",
       "title": "'한동훈 복당' 놓고 갈등 증폭...장동혁은 안철수와 회동 - 파이낸셜뉴스",
       "targetName": "한동훈"
+    },
+    "3d9af4883019392d27842d70d325da65b80e9949ee1ba7a4d1b5ecdff844513a": {
+      "seenAt": "2026-11-13T07:51:17.664Z",
+      "title": "\"이재명 아들 軍 면제\" 허위글 이수정, '벌금 300만원' 항소심에 불복 - 한국경제",
+      "targetName": "이재명"
+    },
+    "f7f22052d343c6f8cb1ffdb6731daba0e5022487dbbbfdbe73e146e8625cef1c": {
+      "seenAt": "2026-11-13T07:51:18.315Z",
+      "title": "[속보] \"이재명 아들 軍면제\" 허위글 이수정, '벌금 300만원' 항소심에 불복 '상고' - 대전일보",
+      "targetName": "이재명"
+    },
+    "a73bef3d7ae95d666423a7f01ad9eceb1ee3dfe6439557c0e34902fdb45bf01d": {
+      "seenAt": "2026-11-13T07:51:18.984Z",
+      "title": "김민석 대화로 풀어가자는데 정청래 “합의 강요는 2차 가해” [이런뉴스] - KBS 뉴스",
+      "targetName": "김민석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "1d46d4ef7841e8680d7a82717a355749932c9a72496a01e956f0f087fd3bd471",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "“만나자”는 김민석… 정청래 “사과부터 제대로 하라” - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXek94cmtGbS14QW52eVdxSk1FSlBvYllqLWpocjlTR2RyQnRTbVRrYXUwREF4WTN0blZqbllLdFpRc3Ryakg3SUxBbmNMbXNpRU82TE1iZFTSAVRBVV95cUxNTUNfcFo3UzRWcVNiMlRUd2F2cVc5OW1QbFFDdFJrZkJYZ0FrdkRUTmlrYmhCT0YzdEJKbmIwQTc5WHlnVWppOVdVNW5abWUwYS16M2w?oc=5\" target=\"_blank\">“만나자”는 김민석… 정청래 “사과부터 제대로 하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXek94cmtGbS14QW52eVdxSk1FSlBvYllqLWpocjlTR2RyQnRTbVRrYXUwREF4WTN0blZqbllLdFpRc3Ryakg3SUxBbmNMbXNpRU82TE1iZFTSAVRBVV95cUxNTUNfcFo3UzRWcVNiMlRUd2F2cVc5OW1QbFFDdFJrZkJYZ0FrdkRUTmlrYmhCT0YzdEJKbmIwQTc5WHlnVWppOVdVNW5abWUwYS16M2w?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 09:08:04 GMT",
+        "source": "세계일보",
+        "ageHours": 22.7
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
