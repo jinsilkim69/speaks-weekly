@@ -3231,5 +3231,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4af9579a2d793476ef9484aad8a33e20442028a366846036030d34514d6ae0d7",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "민주당-조국혁신당 합당은 언론 플레이? 또 다시 진실 게임 - 굿모닝충청",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBUcVJDM2JsYS1mR3BvQ0JWb1Z3SlRvTW5Gb3BXZlZSbjFFemp3bEQ2NVFwMEJieHNoT1ZTZnVNT05hMkhlVFUyZFdoQkViTVRxVkxkSEpMdGRhYkdaNnhVVFZ5WG9DaFRCQ3BjMnU1WkhIZw?oc=5\" target=\"_blank\">민주당-조국혁신당 합당은 언론 플레이? 또 다시 진실 게임</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">굿모닝충청</font>",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUcVJDM2JsYS1mR3BvQ0JWb1Z3SlRvTW5Gb3BXZlZSbjFFemp3bEQ2NVFwMEJieHNoT1ZTZnVNT05hMkhlVFUyZFdoQkViTVRxVkxkSEpMdGRhYkdaNnhVVFZ5WG9DaFRCQ3BjMnU1WkhIZw?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 02:31:58 GMT",
+    "source": "굿모닝충청",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당-조국혁신당 합당은 언론 플레이? 또 다시 진실 게임",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
