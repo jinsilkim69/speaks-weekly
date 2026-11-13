@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T10:11:18.533Z",
+  "lastCheckedAt": "2026-11-13T10:21:16.915Z",
   "seenPostIds": {
-    "VHJ1bXAgQW1wbGlmaWVzIE1pZHRlcm0g": {
-      "seenAt": "2026-11-09T08:18:27.608Z",
-      "title": "Trump Amplifies Midterm Election Claims Questioning Democratic Victories - Forbes",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "7LWc7ZiB7KeEICLtnZTrk6TslrTrj4Qg": {
-      "seenAt": "2026-11-09T17:49:08.176Z",
-      "title": "최혁진 \"흔들어도 이재명 대통령 반등 막을 수 없어\" #Shorts - 오마이TV - OhmyNews",
-      "targetName": "이재명"
-    },
     "4oCc64+E65GR7J20IOygnCDrsJwg7KCA": {
       "seenAt": "2026-11-09T17:49:08.176Z",
       "title": "“도둑이 제 발 저린다!!” 이재명 대통령의 정치인 찬양·숭배 비판에 발끈한 사람들…왜? (261109 월요일 방송) 김영호 강수영 이유진 - 경향신문",
@@ -2512,5 +2502,24 @@
       "targetName": "이준석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "dcb99b10ecb54084a2331da4fc94341e0f40368b2928638b1e309b9139860896",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "이성윤 \"지금 윤리감찰 대상은 김민석 대표...총재시대 아냐\" - 프레시안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1wczNHcG9Sd0dlcUFoOUl4T3lxMWhmeDhKaGNzWm5mTU5weDFYWktkaUZzRVBtZkhlQzFFTjlhU2Vfa0ZWaTBBeThXOGhaYTRyVEVxdHZncHRRSC1va0dVbzdCVGwyaS1wS0NV?oc=5\" target=\"_blank\">이성윤 \"지금 윤리감찰 대상은 김민석 대표...총재시대 아냐\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wczNHcG9Sd0dlcUFoOUl4T3lxMWhmeDhKaGNzWm5mTU5weDFYWktkaUZzRVBtZkhlQzFFTjlhU2Vfa0ZWaTBBeThXOGhaYTRyVEVxdHZncHRRSC1va0dVbzdCVGwyaS1wS0NV?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 10:16:33 GMT",
+        "source": "프레시안",
+        "ageHours": 0.1
+      },
+      "delivered": [
+        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
+      ],
+      "archived": false
+    }
+  ]
 }
