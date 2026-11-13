@@ -373,5 +373,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "fe732c7c5c9dbcf2895e04631ea58dcd96c6f796b526c6c256fc282d52872bc4",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump DOJ wants immediate stop to lawsuit discovery over Truth Social’s new $100,000 service, calls request for records a waste of time - Yahoo",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQSU56VHpLcUMwZ25JVWJMS3hkeGhuS0NYNWw2cjNKZmVrdWJ2SkluWWRxaDVQT2xPUXlIWHFheDN3YVJUNklELWNwNHB2dGpET0ktUU8wU0hnMmcxYkVEOGUzN1I2QnZDN1FHUTdRU01TNEJJRlQzdlVTeVN3YmJocjduVjhITUxkSHlVTzFIX0h2SEx2?oc=5\" target=\"_blank\">Trump DOJ wants immediate stop to lawsuit discovery over Truth Social’s new $100,000 service, calls request for records a waste of time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSU56VHpLcUMwZ25JVWJMS3hkeGhuS0NYNWw2cjNKZmVrdWJ2SkluWWRxaDVQT2xPUXlIWHFheDN3YVJUNklELWNwNHB2dGpET0ktUU8wU0hnMmcxYkVEOGUzN1I2QnZDN1FHUTdRU01TNEJJRlQzdlVTeVN3YmJocjduVjhITUxkSHlVTzFIX0h2SEx2?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 19:45:20 GMT",
+    "source": "Yahoo",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump DOJ wants immediate stop to lawsuit discovery over Truth Social’s new $100,000 service, calls request for records a waste of time",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T19:51:15.909Z",
+  "lastCheckedAt": "2026-11-13T20:01:16.110Z",
   "seenPostIds": {
-    "VHJ1bXAgcmV2ZXJzZXMgc3RhbmNlLCBh": {
-      "seenAt": "2026-11-10T00:57:32.088Z",
-      "title": "Trump reverses stance, alleges fraud in recent US midterm elections - Al Jazeera",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "VHJ1bXAgTWVkaWEncyByZXZlbnVlIG1v": {
       "seenAt": "2026-11-10T00:57:32.088Z",
       "title": "Trump Media's revenue more than triples in third quarter - Reuters",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-13T19:51:16.874Z",
       "title": "\"최민희 윤리감찰\" 김민석 지시에‥친청계 '보이콧' 맞불 - MBC 뉴스",
       "targetName": "김민석"
+    },
+    "fe732c7c5c9dbcf2895e04631ea58dcd96c6f796b526c6c256fc282d52872bc4": {
+      "seenAt": "2026-11-13T20:01:17.788Z",
+      "title": "Trump DOJ wants immediate stop to lawsuit discovery over Truth Social’s new $100,000 service, calls request for records a waste of time - Yahoo",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
