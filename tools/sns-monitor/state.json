@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T23:11:16.055Z",
+  "lastCheckedAt": "2026-11-13T23:21:15.422Z",
   "seenPostIds": {
-    "7ZWc64+Z7ZuIIOKAnOyhsOyekeq4sOyG": {
-      "seenAt": "2026-11-10T08:17:11.679Z",
-      "title": "한동훈 “조작기소 특검은 범죄단체…파견 갔다간 감옥갈 것” - 중앙일보",
-      "targetName": "한동훈"
-    },
     "7KGw6rOE7JuQIOydmOybkCwg7ZWc64+Z": {
       "seenAt": "2026-11-10T08:17:11.679Z",
       "title": "조계원 의원, 한동훈 청담동 술자리 의혹 당일 행적 공개 촉구 - 여수넷통뉴스",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-13T23:11:17.089Z",
       "title": "이혜훈 '아파트 부정청약' 혐의 공소청 송치...천하람 “100억 아파트 환수해야” - M이코노미뉴스",
       "targetName": "천하람"
+    },
+    "4e636c72bcafbdcd05bf9be5f7e1fcd78ae19e7b1c99a913e078c88866bb0265": {
+      "seenAt": "2026-11-13T23:21:16.458Z",
+      "title": "이재명 대통령 \"공정하고 투명한 자본시장 만들겠다\"…주가조작·불공정거래 무관용 원칙 강조 - 복지TV부울경방송",
+      "targetName": "이재명"
+    },
+    "af5e60588573543ed66ab3931ce7d9cc870c2f5b5da47036133116029ef7684a": {
+      "seenAt": "2026-11-13T23:21:17.336Z",
+      "title": "Donald Trump Urges Congress To Pass Federal Film & TV Tax Incentive - Deadline",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

@@ -4291,3 +4291,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "공정하고 투명한 자본시장 만들겠다"…주가조작·불공정거래 무관용 원칙 강조 - 복지TV부울경방송
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "공정하고 투명한 자본시장 만들겠다"…주가조작·불공정거래 무관용 원칙 강조
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Mc3NhVGp0OGdsNGdFNkFjUUVHQmVySFdvWGF6elVwWlRtZVBIdjNZaEN0eUVpM0h1THZIczBab096REN2TmpzSWJrOHdEVTlZdGViLWNtRmhCN0hWSkFPVGkyaTViTGtD?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump Urges Congress To Pass Federal Film & TV Tax Incentive - Deadline
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump Urges Congress To Pass Federal Film & TV Tax Incentive
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFA0VE5sMDFYZWRfbzJNeXc4T25Hb1VQSVBzdndXMlhVMUp4bFMzeDVjYTZYS0dJUUctdHJPVzF2NkNKVVNuVU44UjRHenhQdjN3cnNreEFrRFZGMmhaWkJQbVg3d0lYWW4yWF9jUW9DY1E1enpPa0s2Vw?oc=5)
+
+---
+
