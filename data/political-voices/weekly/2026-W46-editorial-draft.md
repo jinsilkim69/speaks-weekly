@@ -4057,3 +4057,16 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "신주쿠 한인 가게, 500개 늘어" 이잼의 실용외교가 바꿔놓은 재일동포의 삶(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "신주쿠 한인 가게, 500개 늘어" 이잼의 실용외교가 바꿔놓은 재일동포의 삶(261113 금요일 클립) 송영길 정구승 오윤혜
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JMVQyYzJoVmIwYk5VajRsUG1MYlhnMWZOQ00wT0Nfbkk2TkJQZ2wxRHpsVERIMG1oMVZmZjZCekV2eVJsSmpXRXYzd2NBNTFEUzF3RjRIbzhjMjVvRzBSZDln?oc=5)
+
+---
+

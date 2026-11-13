@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T16:11:17.899Z",
+  "lastCheckedAt": "2026-11-13T16:21:17.146Z",
   "seenPostIds": {
-    "IuygnOqwgCDssYXsnoTsp4jthYzri4jq": {
-      "seenAt": "2026-11-10T00:57:30.139Z",
-      "title": "\"제가 책임질테니까\"…김민석 설득에 11일 만에 단식 중단한 김원이 - 노컷뉴스",
-      "targetName": "김민석"
-    },
-    "6rmA66+87ISdIOyCrOqzvOyXkOuPhCDi": {
-      "seenAt": "2026-11-10T00:57:30.139Z",
-      "title": "김민석 사과에도 ‘신천지 역풍’ 일파만파…與는 ‘내전 돌입’, 野는 ‘특검 압박’ - 시사저널",
-      "targetName": "김민석"
-    },
-    "7Lmc66qFIOKAnOq5gOuvvOyEnSDrjIDt": {
-      "seenAt": "2026-11-10T00:57:30.139Z",
-      "title": "친명 “김민석 대표 흔들지 마라” 친청 “성공한 정치공작”… 與 신천지 설전 계속 - 세계일보",
-      "targetName": "김민석"
-    },
     "6ri47Ja07KeA64qUICfsi6Dsspzsp4Ag": {
       "seenAt": "2026-11-10T00:57:30.385Z",
       "title": "길어지는 '신천지 내홍'…김민석·정청래에 고개 드는 갈등봉합 요구 - 뉴스1",
@@ -2515,24 +2500,12 @@
       "seenAt": "2026-11-13T16:11:20.756Z",
       "title": "\"최민희의 해당행위가 스노우볼되어 당과 청와대 공격 중\" 정구승의 분노(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문",
       "targetName": "송영길"
+    },
+    "0e06372e9dc450f89f7cd32dac91cbd9ab1d8981b839de89f2d8e5b7d8aff41e": {
+      "seenAt": "2026-11-13T16:21:18.622Z",
+      "title": "\"신주쿠 한인 가게, 500개 늘어\" 이잼의 실용외교가 바꿔놓은 재일동포의 삶(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문",
+      "targetName": "송영길"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "0e06372e9dc450f89f7cd32dac91cbd9ab1d8981b839de89f2d8e5b7d8aff41e",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "\"신주쿠 한인 가게, 500개 늘어\" 이잼의 실용외교가 바꿔놓은 재일동포의 삶(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JMVQyYzJoVmIwYk5VajRsUG1MYlhnMWZOQ00wT0Nfbkk2TkJQZ2wxRHpsVERIMG1oMVZmZjZCekV2eVJsSmpXRXYzd2NBNTFEUzF3RjRIbzhjMjVvRzBSZDln?oc=5\" target=\"_blank\">\"신주쿠 한인 가게, 500개 늘어\" 이잼의 실용외교가 바꿔놓은 재일동포의 삶(261113 금요일 클립) 송영길 정구승 오윤혜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JMVQyYzJoVmIwYk5VajRsUG1MYlhnMWZOQ00wT0Nfbkk2TkJQZ2wxRHpsVERIMG1oMVZmZjZCekV2eVJsSmpXRXYzd2NBNTFEUzF3RjRIbzhjMjVvRzBSZDln?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 10:00:34 GMT",
-        "source": "경향신문",
-        "ageHours": 6.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
