@@ -2887,3 +2887,29 @@
 
 ---
 
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 이혜훈 ‘부정청약’ 송치 소식에…‘첫 의혹 제기’ 천하람 "얼른 몰수 보전해야" - JTBC
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이혜훈 ‘부정청약’ 송치 소식에…‘첫 의혹 제기’ 천하람 "얼른 몰수 보전해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RTm9keW9ieWpCVWRvS04yUG04YzJWWjhkX0lIT0RaWDBjT3V0anJLMXc3T3VBR05WaW1YNWU1Z0Vwd2FBMVhVMUY3Q3p1ZkhQdFR3QQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 김용민 "최민희 정치인생 끝! 조만간 조국혁신당…" #Shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김용민 "최민희 정치인생 끝! 조만간 조국혁신당…" #Shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE9QcmpvX3djeTBQZk9XVHIxQUt1b1M1cTVrRVp1aXFrVHdtc0VUMWlWZHEwLUhKTDBnbFc4Vzk5TnNFWmx0T2x4OEdVaDZxUUhjWXFYZGxQRjBCZnBUTlJPS2pzUjV3clZqM0ZRUWo1WER4TkxEaTc3WGN6Q1N0R1E?oc=5)
+
+---
+
