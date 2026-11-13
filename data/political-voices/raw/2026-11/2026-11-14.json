@@ -273,5 +273,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c703fb902c2814c4c92060e7971cb351ace64d10fa62fc1a9aa29e52fa66aa77",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Jimmy Kimmel thinks Donald Trump has ‘lost his mojo’ after midterms: ‘This is getting pathetic’ - Entertainment Weekly",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNaUpSclNQVTRRWHhPSGltenBSRTJXMDZiMnNPazhHUHRndnludjhSOTdGalg1VVRPNTk3T2lIekFaVzU1LUJETXZFS3N4UGlreUE4YUY0TERYaWxsdkx5OWJoc09kZEFyMmhCQmFXR3QzZS1XZ2V3YjVsUThjNkZia2JpaHE2djFDUHNfVGVn?oc=5\" target=\"_blank\">Jimmy Kimmel thinks Donald Trump has ‘lost his mojo’ after midterms: ‘This is getting pathetic’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Entertainment Weekly</font>",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaUpSclNQVTRRWHhPSGltenBSRTJXMDZiMnNPazhHUHRndnludjhSOTdGalg1VVRPNTk3T2lIekFaVzU1LUJETXZFS3N4UGlreUE4YUY0TERYaWxsdkx5OWJoc09kZEFyMmhCQmFXR3QzZS1XZ2V3YjVsUThjNkZia2JpaHE2djFDUHNfVGVn?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 17:28:36 GMT",
+    "source": "Entertainment Weekly",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Jimmy Kimmel thinks Donald Trump has ‘lost his mojo’ after midterms: ‘This is getting pathetic’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
