@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T21:01:15.968Z",
+  "lastCheckedAt": "2026-11-13T21:11:16.511Z",
   "seenPostIds": {
-    "7KGw6rWtIOKAnOyiheu2gOyEuCDqsJDs": {
-      "seenAt": "2026-11-10T01:30:40.951Z",
-      "title": "조국 “종부세 감세보다 공공임대…육사·태릉에 최고급 주택 3만가구 짓자” - 매일경제",
-      "targetName": "조국"
-    },
     "VHJ1bXAgTWVkaWEgc3dpbmdzIHRvIHF1": {
       "seenAt": "2026-11-10T01:30:41.870Z",
       "title": "Trump Media swings to quarterly profit; Truth API boosts revenue - Reuters",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-13T21:01:16.949Z",
       "title": "김민석 100일도 안돼 ‘명·청 정면충돌’ - 조선일보",
       "targetName": "김민석"
+    },
+    "c385ca3bbd41e825051bcd2853ce8afaffdffcef6c8b25a43a296f0c349c022b": {
+      "seenAt": "2026-11-13T21:11:17.716Z",
+      "title": "[뉴스분석] 김민석, '소통'으로 위기 정면돌파...정청래에 손 내밀고 여론 경청 행보 - 뉴스핌",
+      "targetName": "정청래"
     }
   },
   "pending": []

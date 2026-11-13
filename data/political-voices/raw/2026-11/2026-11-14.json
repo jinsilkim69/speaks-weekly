@@ -498,5 +498,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c385ca3bbd41e825051bcd2853ce8afaffdffcef6c8b25a43a296f0c349c022b",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "[뉴스분석] 김민석, '소통'으로 위기 정면돌파...정청래에 손 내밀고 여론 경청 행보 - 뉴스핌",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TbW9kWXlWcFVfYXdfTGFJRHVEMzM0Z3ZZR3RFby1CUEFEYmJOYm1YTm9OMWdiejdILVp5eUw4OXJWRkdwdmxvYy1mU2EybVhIZnFtLVVaemprbnFJ?oc=5\" target=\"_blank\">[뉴스분석] 김민석, '소통'으로 위기 정면돌파...정청래에 손 내밀고 여론 경청 행보</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TbW9kWXlWcFVfYXdfTGFJRHVEMzM0Z3ZZR3RFby1CUEFEYmJOYm1YTm9OMWdiejdILVp5eUw4OXJWRkdwdmxvYy1mU2EybVhIZnFtLVVaemprbnFJ?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 21:00:00 GMT",
+    "source": "뉴스핌",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, '소통'으로 위기 정면돌파...정청래에 손 내밀고 여론 경청 행보",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
