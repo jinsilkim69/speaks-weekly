@@ -3432,5 +3432,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "97fa9fd76c2057295c609319cadb71fcc07a92013ab964ea1f855642b242538b",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "‘한동훈 조작 징계’ 주장한 황경성 “증거 있다” - 채널A",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ma1MtZ1YtX2lJalZUTGJmX1V6QVZBWnZ4bG9tb2hRcDhXZm50aEZRWXRRNE1xLVhOTWxBbHRoQ05jV3JxZkkwc1JYanc2Q1IydDltZkQ3Nkx5OWJ4ZHfSAWNBVV95cUxNRC1WU2lPdVVCT1QwdEpuTGoxbTRMRVctbGQ0NWM0bFdQUlpHSHdzdktPT3VJQVVjLWRvQkQzMWZSLUxGWWJZTzVqM3hta0hfbG51WkJ3T1FONGVNdEZPbUdpb0k?oc=5\" target=\"_blank\">‘한동훈 조작 징계’ 주장한 황경성 “증거 있다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ma1MtZ1YtX2lJalZUTGJmX1V6QVZBWnZ4bG9tb2hRcDhXZm50aEZRWXRRNE1xLVhOTWxBbHRoQ05jV3JxZkkwc1JYanc2Q1IydDltZkQ3Nkx5OWJ4ZHfSAWNBVV95cUxNRC1WU2lPdVVCT1QwdEpuTGoxbTRMRVctbGQ0NWM0bFdQUlpHSHdzdktPT3VJQVVjLWRvQkQzMWZSLUxGWWJZTzVqM3hta0hfbG51WkJ3T1FONGVNdEZPbUdpb0k?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 03:15:00 GMT",
+    "source": "채널A",
+    "ageHours": 1.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘한동훈 조작 징계’ 주장한 황경성 “증거 있다”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "a8ac02befd94953430d80ff781f10503cd6951af05b45be54ba361da3eb7c98a",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "민주당은 '합당 군불'…조국혁신당은 \"사과부터\" - 데일리안",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOMUc2OW5oY2JISF9tVVJpMXlyU2xra3RvM1hjTk1Jb0ZFeGxudHZHQnhZS1U0bUJ2TlZNUHVsUUMtSzdsSEZEVTZzcm5rSHFPdVEtQ3JFY2FVbkRmVzlxM29MdEFyRnpETDZiMF9uQTY4MDh4UVh4V2plbVhWWkRtZzhMR1NELVJBSC0tOU5fYkFuUVVPMElCSDY2V21QYlA1ZG9DNURRMjVDQ3BnNnJKYlFfWTJ5ZTBpZGdYSE1zSTBKSWp2SUVBenlYTy1VbDQyLU1leVAzMEljVWZ2NWxQLVQzSjJ4YWUycmtGRjNWNXV0bmxabnlKUzdOTE9LOXRpeVBBeTIzU3BNdw?oc=5\" target=\"_blank\">민주당은 '합당 군불'…조국혁신당은 \"사과부터\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMUc2OW5oY2JISF9tVVJpMXlyU2xra3RvM1hjTk1Jb0ZFeGxudHZHQnhZS1U0bUJ2TlZNUHVsUUMtSzdsSEZEVTZzcm5rSHFPdVEtQ3JFY2FVbkRmVzlxM29MdEFyRnpETDZiMF9uQTY4MDh4UVh4V2plbVhWWkRtZzhMR1NELVJBSC0tOU5fYkFuUVVPMElCSDY2V21QYlA1ZG9DNURRMjVDQ3BnNnJKYlFfWTJ5ZTBpZGdYSE1zSTBKSWp2SUVBenlYTy1VbDQyLU1leVAzMEljVWZ2NWxQLVQzSjJ4YWUycmtGRjNWNXV0bmxabnlKUzdOTE9LOXRpeVBBeTIzU3BNdw?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 04:55:00 GMT",
+    "source": "데일리안",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당은 '합당 군불'…조국혁신당은 \"사과부터\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
