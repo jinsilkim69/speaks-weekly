@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-13T00:11:16.286Z",
+  "lastCheckedAt": "2026-11-13T00:21:17.862Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2480,6 +2480,11 @@
       "seenAt": "2026-11-13T00:01:17.262Z",
       "title": "Trump tells Vance to turn his focus away from Iran: ‘We don’t need a deal’ - CNN",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a71c49bcd86459b9a8ee5d7cf8ba361a6bd2db2491e9e3bec5a249ee9af12666": {
+      "seenAt": "2026-11-13T00:21:19.030Z",
+      "title": "최인호 정무수석, 신장식 대표 예방 - 연합뉴스",
+      "targetName": "신장식"
     }
   },
   "pending": []
