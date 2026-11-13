@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T09:51:18.807Z",
+  "lastCheckedAt": "2026-11-13T10:01:17.148Z",
   "seenPostIds": {
-    "VHJ1bXAgc2F5cyBoZSB3YXMg4oCYa2lk": {
-      "seenAt": "2026-11-09T08:18:27.608Z",
-      "title": "Trump says he was ‘kidding’ about Dana White for press secretary - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "VHJ1bXAgTWVkaWEgJiBUZWNobm9sb2d5": {
       "seenAt": "2026-11-09T08:18:27.608Z",
       "title": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
@@ -2505,6 +2500,21 @@
       "seenAt": "2026-11-13T09:51:20.236Z",
       "title": "국힘 ‘한동훈 징계조작 의혹’, 중진 나서며 갈등 재점화…친한계 “조작 확인시 장동혁 처벌해야” - 경향신문",
       "targetName": "한동훈"
+    },
+    "081a4fec17987d2a67ddb269ff2b0a9bbb302630a310bda9a549f56e1634f4f6": {
+      "seenAt": "2026-11-13T10:01:18.717Z",
+      "title": "문진석, 한동훈 '李대통령은 재판 열리면 끝난다' 발언에 \"법 모르는 듯\" - 뉴시스",
+      "targetName": "한동훈"
+    },
+    "25b8ac92516dab7f6e048b5cdd8822a97ae164593cf761c8dbe942f875863961": {
+      "seenAt": "2026-11-13T10:01:19.483Z",
+      "title": "이준석 \"한동훈은 '욕쟁이 할머니?'···맛도 없는데 가야 한다고 강요하면 폭력\" - 대구MBC",
+      "targetName": "이준석"
+    },
+    "59d513d8319fdbd7ece1b648fa8f193653366ae963d1ab3a78cc7c6217aec488": {
+      "seenAt": "2026-11-13T10:01:20.226Z",
+      "title": "조국 \"신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄\" - 뉴시스",
+      "targetName": "조국"
     }
   },
   "pending": []

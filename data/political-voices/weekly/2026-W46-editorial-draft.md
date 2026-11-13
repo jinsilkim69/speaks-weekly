@@ -3485,3 +3485,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 문진석, 한동훈 '李대통령은 재판 열리면 끝난다' 발언에 "법 모르는 듯" - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 문진석, 한동훈 '李대통령은 재판 열리면 끝난다' 발언에 "법 모르는 듯"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE4xRWlFNTJoUVhNSW9vTVFwSVB6TklkVG9wQ0xnVHhSWWZsMXlnS2w4Ulp5T3NGeG95eUtyNzNST0lmT0tyTUxKTkdydVU1VENVMmxuQ09uUnhNS0pQa3FLSGctLUtWT1dFS2hsTWU3NHZmeUVPRGxHRtIBeEFVX3lxTE4xRWlFNTJoUVhNSW9vTVFwSVB6TklkVG9wQ0xnVHhSWWZsMXlnS2w4Ulp5T3NGeG95eUtyNzNST0lmT0tyTUxKTkdydVU1VENVMmxuQ09uUnhNS0pQa3FLSGctLUtWT1dFS2hsTWU3NHZmeUVPRGxHRg?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "한동훈은 '욕쟁이 할머니?'···맛도 없는데 가야 한다고 강요하면 폭력" - 대구MBC
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "한동훈은 '욕쟁이 할머니?'···맛도 없는데 가야 한다고 강요하면 폭력"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1OWC1pdnlCNTdwT253QTRxYU1lT3FPeDVXcmZGcWdLVHJ3UFdrcUh1NTg1OW05X2RlbmIzdEYzNU82NUxNbWt3VE40SE4?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄" - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFB3NGxYNWh6azNabXppWFZvcWJ5VWtWdndMSEVlbV9Sc3JtLUttSEN3VE00Nnh4S0hfZEs5bWhfaVV5SGNlOFNDZVNYd0ZGdEpVWC1yS1NfOWh2NUtqenFZYVJpbTNuNkh2SDZoQk5oOTRQX1VsdF9YdtIBeEFVX3lxTFB3NGxYNWh6azNabXppWFZvcWJ5VWtWdndMSEVlbV9Sc3JtLUttSEN3VE00Nnh4S0hfZEs5bWhfaVV5SGNlOFNDZVNYd0ZGdEpVWC1yS1NfOWh2NUtqenFZYVJpbTNuNkh2SDZoQk5oOTRQX1VsdF9Ydg?oc=5)
+
+---
+
