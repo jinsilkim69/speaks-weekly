@@ -448,5 +448,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "1a261422c4979f7629710ea75ba598245ed824ef37bc139c735fe12d56326876",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당, 민주당 합당론에 \"논의 1㎜도 안 돼…쇼통\" - 이투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tQ1g2c1Q5RzhHNHhBZWxQd2FjSWllYS1IbjQ0ZThhNXduanphV3JQekhzQ0I5T3p3akZTSFhmMjhRUUk3VmNfME1KeFNRa1NoRGZKWg?oc=5\" target=\"_blank\">조국혁신당, 민주당 합당론에 \"논의 1㎜도 안 돼…쇼통\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tQ1g2c1Q5RzhHNHhBZWxQd2FjSWllYS1IbjQ0ZThhNXduanphV3JQekhzQ0I5T3p3akZTSFhmMjhRUUk3VmNfME1KeFNRa1NoRGZKWg?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 08:25:00 GMT",
+    "source": "이투데이",
+    "ageHours": 12.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당, 민주당 합당론에 \"논의 1㎜도 안 돼…쇼통\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

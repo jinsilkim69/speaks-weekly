@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T20:31:18.812Z",
+  "lastCheckedAt": "2026-11-13T20:41:17.201Z",
   "seenPostIds": {
-    "VHJ1bXAgc2F5cyBEYW5hIFdoaXRlIHBy": {
-      "seenAt": "2026-11-10T00:57:32.088Z",
-      "title": "Trump says Dana White press secretary offer was a joke - USA Today",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "VHJ1bXA6IE5ldyBJcmFuIGF0dGFja3Mg": {
-      "seenAt": "2026-11-10T00:57:32.088Z",
-      "title": "Trump: New Iran attacks \"quite unlikely\" - Axios",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "7Yq465+87ZSE7J2YIOywuO2MqOqwgCDs": {
       "seenAt": "2026-11-10T01:30:38.088Z",
       "title": "트럼프의 참패가 이재명 정권에 던지는 경고 : 권력의 사유화, 끝은 심판이다. - 한국NGO신문",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-13T20:31:20.878Z",
       "title": "최고위 박차고 나간 친정청래계 3인…“윤리감찰 대상은 김민석” - 주간조선",
       "targetName": "정청래"
+    },
+    "1a261422c4979f7629710ea75ba598245ed824ef37bc139c735fe12d56326876": {
+      "seenAt": "2026-11-13T20:41:18.372Z",
+      "title": "조국혁신당, 민주당 합당론에 \"논의 1㎜도 안 돼…쇼통\" - 이투데이",
+      "targetName": "조국"
     }
   },
   "pending": []
