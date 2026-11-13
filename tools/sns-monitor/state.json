@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-13T08:21:15.621Z",
+  "lastCheckedAt": "2026-11-13T08:31:18.820Z",
   "seenPostIds": {
     "6rmA66+87ISdICfsi6Dsspzsp4AnIOuw": {
       "seenAt": "2026-11-09T08:18:25.518Z",
@@ -2500,7 +2500,39 @@
       "seenAt": "2026-11-13T08:11:19.856Z",
       "title": "천하람 \"이혜훈 부정청약 10개월 만에 송치…100억 아파트 서둘러 환수해야\" - 뉴시스",
       "targetName": "천하람"
+    },
+    "eec4f033cbabd37de0944e5896667e1a9d47d8d3bbc23ec69e2748cb7c43c355": {
+      "seenAt": "2026-11-13T08:31:20.094Z",
+      "title": "국민의힘 '한동훈 징계' 내홍 확산…중진 의원들도 가세 - 진일보 | 전남일보",
+      "targetName": "한동훈"
+    },
+    "75ac10b483249f558d8af6e1264d61cc036e126f078e3c74fa52536ac9b71519": {
+      "seenAt": "2026-11-13T08:31:20.749Z",
+      "title": "문진석, ‘李 시한부 대통령’ 주장 한동훈에 \"검사 20년에 법 몰라” - 이투데이",
+      "targetName": "한동훈"
+    },
+    "c466d9042b35c71cf4472a81d36c5b37b88350bc0b98215dcf49eb45bf4d92c8": {
+      "seenAt": "2026-11-13T08:31:21.400Z",
+      "title": "[투나잇이슈] 김민석·정청래 갈등에 최민희 감찰지시까지…與 내홍 - 연합뉴스TV",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "8994ac079a33c1a605c26f3097f0c2c47266ac771d86454b8fa26c5e013cd46e",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당, 민주당 합당론에 \"논의 1㎜도 안 돼…쇼통\" - 이투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBPUG9yVUFvdWZRS1dpRndMM2Zlb2gtalhVbXFiQk5hU25VNUdwOXc4OGRxbDhTQW9WUUFqR2VHell5NFpuMWQ0RGtUYmxKYUdTMFZiVFRXNzZEY2thbjNxZ01GelBlRERJdllGWGtn?oc=5\" target=\"_blank\">조국혁신당, 민주당 합당론에 \"논의 1㎜도 안 돼…쇼통\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPUG9yVUFvdWZRS1dpRndMM2Zlb2gtalhVbXFiQk5hU25VNUdwOXc4OGRxbDhTQW9WUUFqR2VHell5NFpuMWQ0RGtUYmxKYUdTMFZiVFRXNzZEY2thbjNxZ01GelBlRERJdllGWGtn?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 08:25:00 GMT",
+        "source": "이투데이",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

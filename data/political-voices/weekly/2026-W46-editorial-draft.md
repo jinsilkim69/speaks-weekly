@@ -3186,3 +3186,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국민의힘 '한동훈 징계' 내홍 확산…중진 의원들도 가세 - 진일보 | 전남일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘 '한동훈 징계' 내홍 확산…중진 의원들도 가세
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1qNng0YTdWODkyUUZXUlBMVkdaZzlPWFExNVRuRG5LVTM0a1g4Vm10bUt2LUItZEJiWF9LYWZwMWRKTkNxMEwxeUpLRWF2WlpLaTNJVTdza0RjNThVUVczaERVTHF5U1o4VzRWT29xWQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 문진석, ‘李 시한부 대통령’ 주장 한동훈에 "검사 20년에 법 몰라” - 이투데이
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 문진석, ‘李 시한부 대통령’ 주장 한동훈에 "검사 20년에 법 몰라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlWDg2S3VTMEtueUVqcF9fVUVYMFA5Z1FGektiLVZiMGJwVTA5WUh6cUpSb3B6QUw4RUEwWmxhTHAtbXNKbl9xRWozdC0zQTlUUE1JSw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [투나잇이슈] 김민석·정청래 갈등에 최민희 감찰지시까지…與 내홍 - 연합뉴스TV
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석·정청래 갈등에 최민희 감찰지시까지…與 내홍
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90SS1vUUdfZHJPcnBIbWRsZldpOEJ4eUxPV3RmSnlfd0pWZzczRUZ2Z3R5NF9ZdHNNb05Vc0U2d212ZkFkQTJtSjUyb0ZBeTBRU1ZadUZJVERmNTZLNEZDZnI5SEtidWc?oc=5)
+
+---
+
