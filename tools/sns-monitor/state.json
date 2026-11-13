@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T06:31:14.791Z",
+  "lastCheckedAt": "2026-11-13T06:41:15.394Z",
   "seenPostIds": {
-    "7Iug7J6l7IudLCDrspTsl6zqtowg7ZWp": {
-      "seenAt": "2026-11-09T08:15:33.730Z",
-      "title": "신장식, 범여권 합당론에 \"구명정·구명함 될 충분한 용의 있다\" - 머니투데이 - 머니투데이",
-      "targetName": "신장식"
-    },
-    "7Iug7J6l7IudICLtlZzrj5ntm4gsIOye": {
-      "seenAt": "2026-11-09T08:15:33.730Z",
-      "title": "신장식 \"한동훈, 장동혁 꽃 단 미친 사람 취급...공작본능 검사 습성 몸에 배, 피아 구분도 없어\"[KBC 뉴스메이커] - KBC광주방송",
-      "targetName": "신장식"
-    },
-    "7Iug7J6l7IudIOKAnO2VnOuPme2biCwg": {
-      "seenAt": "2026-11-09T08:15:33.730Z",
-      "title": "신장식 “한동훈, 장동혁을 왕꽃 단 ‘미친 사람’ 취급…만사를 조롱” - 한겨레",
-      "targetName": "신장식"
-    },
     "7Iug7J6l7IudICLoiIcsICftmIHsi6Dr": {
       "seenAt": "2026-11-09T08:15:33.730Z",
       "title": "신장식 \"與, '혁신당과 합당' 소환…국면 전환 소재 되는 것 거부\" - 이데일리",
@@ -2515,24 +2500,12 @@
       "seenAt": "2026-11-13T06:31:17.447Z",
       "title": "합당하자면서 '대선 꿈 접으라'는 민주당 … 조국당 \"기만\" 반발 - 뉴데일리",
       "targetName": "조국"
+    },
+    "b8c82db782ce49910d305a7378bdcab49b5f069d2e748259829dfd98a5149cb8": {
+      "seenAt": "2026-11-13T06:41:16.714Z",
+      "title": "민주당은 '합당 군불'…조국혁신당은 \"사과부터\" - 데일리안",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "b8c82db782ce49910d305a7378bdcab49b5f069d2e748259829dfd98a5149cb8",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "민주당은 '합당 군불'…조국혁신당은 \"사과부터\" - 데일리안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdDBwTk9wWmZRRk85dVFySVVyT0JxYzkzZTV3ZVBNYmJHSktuSFhuTWhZcVFaWm5INjAyR3RjUGxRbm1VdUV5N1NQcFBsNVBuTTBaTg?oc=5\" target=\"_blank\">민주당은 '합당 군불'…조국혁신당은 \"사과부터\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdDBwTk9wWmZRRk85dVFySVVyT0JxYzkzZTV3ZVBNYmJHSktuSFhuTWhZcVFaWm5INjAyR3RjUGxRbm1VdUV5N1NQcFBsNVBuTTBaTg?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 04:55:00 GMT",
-        "source": "데일리안",
-        "ageHours": 1.6
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

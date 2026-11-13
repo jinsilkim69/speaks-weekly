@@ -3808,5 +3808,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b8c82db782ce49910d305a7378bdcab49b5f069d2e748259829dfd98a5149cb8",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "민주당은 '합당 군불'…조국혁신당은 \"사과부터\" - 데일리안",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdDBwTk9wWmZRRk85dVFySVVyT0JxYzkzZTV3ZVBNYmJHSktuSFhuTWhZcVFaWm5INjAyR3RjUGxRbm1VdUV5N1NQcFBsNVBuTTBaTg?oc=5\" target=\"_blank\">민주당은 '합당 군불'…조국혁신당은 \"사과부터\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdDBwTk9wWmZRRk85dVFySVVyT0JxYzkzZTV3ZVBNYmJHSktuSFhuTWhZcVFaWm5INjAyR3RjUGxRbm1VdUV5N1NQcFBsNVBuTTBaTg?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 04:55:00 GMT",
+    "source": "데일리안",
+    "ageHours": 1.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당은 '합당 군불'…조국혁신당은 \"사과부터\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
