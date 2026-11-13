@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T06:51:16.619Z",
+  "lastCheckedAt": "2026-11-13T07:01:22.410Z",
   "seenPostIds": {
-    "VHJ1bXAgc2V0IHRvIGx1cmNoIGZ1cnRo": {
-      "seenAt": "2026-11-09T08:15:34.217Z",
-      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections - The Guardian",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "VUZDIENFTyBEYW5hIFdoaXRlIGRlY2xp": {
-      "seenAt": "2026-11-09T08:15:34.217Z",
-      "title": "UFC CEO Dana White declines Trump’s offer to become press secretary, source says - CNN",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "VHJ1bXAgc2F5cyBoZSB3YXMg4oCYb25s": {
       "seenAt": "2026-11-09T08:15:34.217Z",
       "title": "Trump says he was ‘only kidding’ about offering UFC’s Dana White press secretary job - The Washington Post",
@@ -2510,7 +2500,55 @@
       "seenAt": "2026-11-13T06:51:18.596Z",
       "title": "김용민 \"최민희 정치인생 끝! 조만간 조국혁신당…\" #Shorts - 오마이TV - OhmyNews",
       "targetName": "조국"
+    },
+    "b853647c1220100f495a8c258a57fbbac25c9a9b8a178cc559b4c8f3ad50f5af": {
+      "seenAt": "2026-11-13T07:01:23.608Z",
+      "title": "김민석 \"만나서 대화\"...정청래 \"피해자에 합의강요는 2차 가해\"...갈등골만 깊어 - 경북신문",
+      "targetName": "김민석"
+    },
+    "ab562ed1d358873d2b97dc0f7d984a7d06fe90855900f789a0b8524e849b8caf": {
+      "seenAt": "2026-11-13T07:01:24.405Z",
+      "title": "\"만나겠다\"는 김민석, 정청래는 \"전화 한 통 없어…방송서 떠드는 건 자기 장사\" 직격 - JTBC",
+      "targetName": "정청래"
+    },
+    "4e63dbd2464ed48e1dc21340bcccce46f2a28ca544afa72721ddec37958c6f60": {
+      "seenAt": "2026-11-13T07:01:25.113Z",
+      "title": "천하람 \"이혜훈 부정청약 10개월 만에 송치…100억 아파트 서둘러 환수해야\" - 뉴시스",
+      "targetName": "천하람"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "b72c263463d6e11d317209b90309c13949cd55453fc6116cf5f6bf82923880f8",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "합당하자면서 '대선 꿈 접으라'는 민주당 … 조국당 \"기만\" 반발 - 뉴데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFRnQ1ZKUEdlWG04M2hrTjNVNE9nX1l5Uy1BUVh4cTVxc1RRRWhMWUIzMnJmeWhLT2xqbU5KcldNdTRuVlRHSnZvaHdDbXFLck5vanJGWE1GLWppalhndnZTeEhIZkEzblpBLVZJQ2ZJek9zaW9fcnhKT1JtczV2VNIBgAFBVV95cUxPbFRnQ1ZKUEdlWG04M2hrTjNVNE9nX1l5Uy1BUVh4cTVxc1RRRWhMWUIzMnJmeWhLT2xqbU5KcldNdTRuVlRHSnZvaHdDbXFLck5vanJGWE1GLWppalhndnZTeEhIZkEzblpBLVZJQ2ZJek9zaW9fcnhKT1JtczV2VA?oc=5\" target=\"_blank\">합당하자면서 '대선 꿈 접으라'는 민주당 … 조국당 \"기만\" 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFRnQ1ZKUEdlWG04M2hrTjNVNE9nX1l5Uy1BUVh4cTVxc1RRRWhMWUIzMnJmeWhLT2xqbU5KcldNdTRuVlRHSnZvaHdDbXFLck5vanJGWE1GLWppalhndnZTeEhIZkEzblpBLVZJQ2ZJek9zaW9fcnhKT1JtczV2VNIBgAFBVV95cUxPbFRnQ1ZKUEdlWG04M2hrTjNVNE9nX1l5Uy1BUVh4cTVxc1RRRWhMWUIzMnJmeWhLT2xqbU5KcldNdTRuVlRHSnZvaHdDbXFLck5vanJGWE1GLWppalhndnZTeEhIZkEzblpBLVZJQ2ZJek9zaW9fcnhKT1JtczV2VA?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 05:44:00 GMT",
+        "source": "뉴데일리",
+        "ageHours": 1.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "c1d39e4e016baa20647142b1bd4102789e0653312b80beb938674da561e3eb46",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "민주당은 '합당 군불'…조국혁신당은 \"사과부터\" - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFByMXlBZHhSejBvdEVlblVtLXg4QW5aSjlIZkR6eUczSTBKTmtzMEExQ20xbzV6MHVpWXc5NXZDZUxiQUZQQnZTUVNIQVpUN1VKYVB3?oc=5\" target=\"_blank\">민주당은 '합당 군불'…조국혁신당은 \"사과부터\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByMXlBZHhSejBvdEVlblVtLXg4QW5aSjlIZkR6eUczSTBKTmtzMEExQ20xbzV6MHVpWXc5NXZDZUxiQUZQQnZTUVNIQVpUN1VKYVB3?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 04:55:00 GMT",
+        "source": "데일리안",
+        "ageHours": 2.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
