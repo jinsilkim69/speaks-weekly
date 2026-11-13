@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T02:51:19.556Z",
+  "lastCheckedAt": "2026-11-13T03:01:14.692Z",
   "seenPostIds": {
-    "7Iah7JiB6ri4IOKAnOq2jOyWkeyImSDs": {
-      "seenAt": "2026-11-09T08:15:31.886Z",
-      "title": "송영길 “권양숙 여사 ‘이 대통령 지켜달라’ 해…눈물 나더라” - 한겨레",
-      "targetName": "송영길"
-    },
-    "7Iah7JiB6ri4wrfquYDrs5Hso7wg7Iug": {
-      "seenAt": "2026-11-09T08:15:31.886Z",
-      "title": "송영길·김병주 신임 특보 \"李 정부 성공 위해 최선\" - 연합뉴스TV",
-      "targetName": "송영길"
-    },
     "W+ustOuTseydmCDslYTsuahdIOyGoeyY": {
       "seenAt": "2026-11-09T08:15:31.886Z",
       "title": "[무등의 아침] 송영길 “정청래, 이재명 정부의 1호 국정 과제도 몰라…송영길 찍어야 호남 정치력 복원” - Daum",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-13T02:51:22.053Z",
       "title": "조국 “민주당과 합당 논의, 과거 비방 사과가 먼저” - 일간투데이",
       "targetName": "조국"
+    },
+    "9db90e2e70a1ca1e46dce6af80ad9b9dd37c4b7c1267dbe328dd11151d2e0a67": {
+      "seenAt": "2026-11-13T03:01:15.868Z",
+      "title": "최민희, '하이에나' 이어 '李, 尹 탄핵 반대'...김민석, 감찰조사 지시 - 중앙신문",
+      "targetName": "김민석"
     }
   },
   "pending": []

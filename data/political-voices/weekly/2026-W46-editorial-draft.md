@@ -2614,3 +2614,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희, '하이에나' 이어 '李, 尹 탄핵 반대'...김민석, 감찰조사 지시 - 중앙신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희, '하이에나' 이어 '李, 尹 탄핵 반대'...김민석, 감찰조사 지시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi6gJBVV95cUxQUUx5c3RqV3NCaWpDV1BZcW92TFpWTVhhbHd3UGNfTUFHU2QyOTZ4eEJHNzlUSS1ROWZDUEhjVjlLRDF2cEhkdFlxOTlMOU45TklvRWpNVXB6OEM0bmp6OWVEcTFwVXVxM1lhQ05OMDNSU0ZQTHV0MGdYRVFpeHkzTFRPcXVXeGpVVk9TRUlKS2V4aTVxMWRfSGZFLXV1TDM2NWxEZUluUEZlXzNsQmdWYWVZYkVseFRJMWk1MWNaR2xXNDN6SWk0QzcxSWFFSXFaVW9WRG5XajJBSVVyWnZjaDY4SzRHaDgzY0VwQXB4N2lpNXIwQjFka1NCRk5LemlBeW92eTVNYmx2bVMtY3FaVWFDWFlpTVdTT0l4YWo4S1FXZUJzYk82SWVCcEhfTVYtMVB6VEs3VEJ1TlkyQVkyYWF1d0lfa0JVNGVVYlpCZmp4YUVrZjd6ZFktYWVIT3liM0tuS3NjWldBQQ?oc=5)
+
+---
+
