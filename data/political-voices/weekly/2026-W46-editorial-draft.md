@@ -3355,3 +3355,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 최민희 발언으로 李 공격한 한동훈…문진석 "포장 같다고 내용 같나" - 한국경제
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 발언으로 李 공격한 한동훈…문진석 "포장 같다고 내용 같나"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5N1A5REJ3NHJYNGlGZ3JTQjljV0tKbWZlYWd4Ym9UeDZONFg4Um11WVVMcmFYVVgtTGw3bGlWZjJtOTJPTTlXZ1BfVXdMOGNkVk56aG53R01DQQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 미숙한 당·정 협의…김민석과 조국의 충돌 - 조선일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 미숙한 당·정 협의…김민석과 조국의 충돌
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTJ5QUFJOFFQX1hySjcxbzlUaWxCT3diemsxT1Rjakw4VGJhWkZud0hJbU92Wl9RVmhEcHVGOVc5eEFGVWoxMlk4aXlVTmVFZkN2NTUxeE0yVTJkaWVPbU5MWG9iaEp6WkNmOVVOa2E0clZpVTR0MWhheVVobnNhOF81TjF5Rm9NaTZtbWJn?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, ‘최민희 언행 논란’에 당 윤리감찰단 감찰 지시 - 경기일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, ‘최민희 언행 논란’에 당 윤리감찰단 감찰 지시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FbEtpbE9OTHgxQUgwQm9GeEdKMG1lTENobEpwVXFOX2tkakwyR3FKR2ZMVmQ5WXFVUkdHQzdmOFBtWVVPNjdGakJ4b1ZMOWp3M0hjM3VkbWRDdVU?oc=5)
+
+---
+

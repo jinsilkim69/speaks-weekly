@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T09:01:14.557Z",
+  "lastCheckedAt": "2026-11-13T09:11:18.049Z",
   "seenPostIds": {
-    "6rmA6riw7ZiEwrfsnbTspIDshJ0gMTbs": {
-      "seenAt": "2026-11-09T08:18:26.189Z",
-      "title": "김기현·이준석 16일 영국 동행…보수진영 소통 계기 주목 - 경북일보",
-      "targetName": "이준석"
-    },
-    "7IaM67mE7L+g7Y+wIOyViCDrsJvslZjr": {
-      "seenAt": "2026-11-09T08:18:26.189Z",
-      "title": "소비쿠폰 안 받았다는 이준석 \"물가상승만 남길 포퓰리즘\" - JTBC",
-      "targetName": "이준석"
-    },
     "6rmA6riw7ZiELCDrs7TsiJjthrXtlanr": {
       "seenAt": "2026-11-09T08:18:26.189Z",
       "title": "김기현, 보수통합론속 이준석과 영국 출장 '관심' - 울산신문",
@@ -2510,6 +2500,21 @@
       "seenAt": "2026-11-13T09:01:16.696Z",
       "title": "김민석 정청래에 대화 제안…정청래 합의 강요는 2차 가해 : 정치 - 재경일보",
       "targetName": "정청래"
+    },
+    "1f86c365f1155772a9adff7e5c1cc4dc499f0c80ddd93a57443f4e76661254bb": {
+      "seenAt": "2026-11-13T09:11:19.452Z",
+      "title": "최민희 발언으로 李 공격한 한동훈…문진석 \"포장 같다고 내용 같나\" - 한국경제",
+      "targetName": "한동훈"
+    },
+    "ce6b3e9c97d1abdc5ef4c0977568e7ad7bd9ccdb637c60d3f1120d23d25829e3": {
+      "seenAt": "2026-11-13T09:11:20.219Z",
+      "title": "미숙한 당·정 협의…김민석과 조국의 충돌 - 조선일보",
+      "targetName": "김민석"
+    },
+    "4cadf7e486fc4c64c4451c8820c479af6ee6f8d209cff673e2f60a5e0887d544": {
+      "seenAt": "2026-11-13T09:11:20.948Z",
+      "title": "김민석, ‘최민희 언행 논란’에 당 윤리감찰단 감찰 지시 - 경기일보",
+      "targetName": "김민석"
     }
   },
   "pending": []
