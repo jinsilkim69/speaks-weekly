@@ -2796,3 +2796,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 조작기소 특검법은 왜 이재명 대통령에게 독배인가 - 시사IN
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조작기소 특검법은 왜 이재명 대통령에게 독배인가
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9xVmVEVzY1SVFmUEJfV3BkODJtYklXemZNUkVaeWZNTDVjU0ZrMjJ0MzVVeDktdEJkYk5rdklnaG11ZVBfanJrWWl2cTd3UjRvOERDNENFTzI3NHo4S1drRjE2VHR2aGktYkE?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** "최민희와 한동훈, 이준석의 공통점은~" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진 - 경향신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "최민희와 한동훈, 이준석의 공통점은~" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE00WFBVVnVOMDZ5LTdzQXVWalpiZ3d0VDNMakZ4WlhlZVY5elhGWEc1N3pVSmhTZG8yUlA0TWEtZVFwR2podmVjYjYtOW4teGNiNW82bXloT0pZR1BLblByMFN3?oc=5)
+
+---
+

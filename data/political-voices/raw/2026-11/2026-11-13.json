@@ -3657,5 +3657,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "2a729d44060cdd707d2bd29aca26e4a8f7b823e47b28b47bab3a03457868e0a4",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "조작기소 특검법은 왜 이재명 대통령에게 독배인가 - 시사IN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9xVmVEVzY1SVFmUEJfV3BkODJtYklXemZNUkVaeWZNTDVjU0ZrMjJ0MzVVeDktdEJkYk5rdklnaG11ZVBfanJrWWl2cTd3UjRvOERDNENFTzI3NHo4S1drRjE2VHR2aGktYkE?oc=5\" target=\"_blank\">조작기소 특검법은 왜 이재명 대통령에게 독배인가</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사IN</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xVmVEVzY1SVFmUEJfV3BkODJtYklXemZNUkVaeWZNTDVjU0ZrMjJ0MzVVeDktdEJkYk5rdklnaG11ZVBfanJrWWl2cTd3UjRvOERDNENFTzI3NHo4S1drRjE2VHR2aGktYkE?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 15:26:00 GMT",
+    "source": "시사IN",
+    "ageHours": 14.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조작기소 특검법은 왜 이재명 대통령에게 독배인가",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "8cb0c56a3115959cf972d1da409904d8e235b3c0eb2594f0f2e95a16f6aa9a4e",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "\"최민희와 한동훈, 이준석의 공통점은~\" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진 - 경향신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE00WFBVVnVOMDZ5LTdzQXVWalpiZ3d0VDNMakZ4WlhlZVY5elhGWEc1N3pVSmhTZG8yUlA0TWEtZVFwR2podmVjYjYtOW4teGNiNW82bXloT0pZR1BLblByMFN3?oc=5\" target=\"_blank\">\"최민희와 한동훈, 이준석의 공통점은~\" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00WFBVVnVOMDZ5LTdzQXVWalpiZ3d0VDNMakZ4WlhlZVY5elhGWEc1N3pVSmhTZG8yUlA0TWEtZVFwR2podmVjYjYtOW4teGNiNW82bXloT0pZR1BLblByMFN3?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 13:00:21 GMT",
+    "source": "경향신문",
+    "ageHours": 16.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"최민희와 한동훈, 이준석의 공통점은~\" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
