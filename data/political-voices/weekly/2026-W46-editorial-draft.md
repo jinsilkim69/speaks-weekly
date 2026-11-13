@@ -3628,3 +3628,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [속보] 민주 ‘친정청래계’ 3인 “최민희에 대한 감찰 지시, 악의적 프레임 전환 시도” - KBS 뉴스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주 ‘친정청래계’ 3인 “최민희에 대한 감찰 지시, 악의적 프레임 전환 시도”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBST0c1bVZvRkNSSmhHRXFGVTMtYUt2R3FuUFM1OFNhNDM1eG5pUVE3bDQ4Rkd6YXI1OEItd1ZaWUlBemVYRHNEb2ZyMVgxS3RIUzV4NERVWF9QN1pSUjRfQXhXekk0dw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "한동훈, 욕쟁이 할머니 집인데 맛도 없다" - 대전일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "한동훈, 욕쟁이 할머니 집인데 맛도 없다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9WRTBrQTBLY1NMVm1zMF91aUFSNnlJakF4RWFNVDEtS01LZ0ROd1Vkdm9qRHhLMkZiTG9CTVR6VUs5QmhvU19LQUNQdkRRVXlkVDdJNUpwLXRiWGhrTUFrQmd2QUJJcldzWlhJbW1KQQ?oc=5)
+
+---
+

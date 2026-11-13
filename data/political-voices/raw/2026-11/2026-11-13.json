@@ -5258,5 +5258,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "ee97c7d35b4365db948fb8956ea3bf4907fb638779c615fd3e427c7da4b9e866",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "[속보] 민주 ‘친정청래계’ 3인 “최민희에 대한 감찰 지시, 악의적 프레임 전환 시도” - KBS 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBST0c1bVZvRkNSSmhHRXFGVTMtYUt2R3FuUFM1OFNhNDM1eG5pUVE3bDQ4Rkd6YXI1OEItd1ZaWUlBemVYRHNEb2ZyMVgxS3RIUzV4NERVWF9QN1pSUjRfQXhXekk0dw?oc=5\" target=\"_blank\">[속보] 민주 ‘친정청래계’ 3인 “최민희에 대한 감찰 지시, 악의적 프레임 전환 시도”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBST0c1bVZvRkNSSmhHRXFGVTMtYUt2R3FuUFM1OFNhNDM1eG5pUVE3bDQ4Rkd6YXI1OEItd1ZaWUlBemVYRHNEb2ZyMVgxS3RIUzV4NERVWF9QN1pSUjRfQXhXekk0dw?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 00:50:00 GMT",
+    "source": "KBS 뉴스",
+    "ageHours": 10.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주 ‘친정청래계’ 3인 “최민희에 대한 감찰 지시, 악의적 프레임 전환 시도”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "bb3368cdfe009043c7e2b689cf096efda5030e18993ad4b857a5864810412400",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석 \"한동훈, 욕쟁이 할머니 집인데 맛도 없다\" - 대전일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9WRTBrQTBLY1NMVm1zMF91aUFSNnlJakF4RWFNVDEtS01LZ0ROd1Vkdm9qRHhLMkZiTG9CTVR6VUs5QmhvU19LQUNQdkRRVXlkVDdJNUpwLXRiWGhrTUFrQmd2QUJJcldzWlhJbW1KQQ?oc=5\" target=\"_blank\">이준석 \"한동훈, 욕쟁이 할머니 집인데 맛도 없다\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WRTBrQTBLY1NMVm1zMF91aUFSNnlJakF4RWFNVDEtS01LZ0ROd1Vkdm9qRHhLMkZiTG9CTVR6VUs5QmhvU19LQUNQdkRRVXlkVDdJNUpwLXRiWGhrTUFrQmd2QUJJcldzWlhJbW1KQQ?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 10:59:00 GMT",
+    "source": "대전일보",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석 \"한동훈, 욕쟁이 할머니 집인데 맛도 없다\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
