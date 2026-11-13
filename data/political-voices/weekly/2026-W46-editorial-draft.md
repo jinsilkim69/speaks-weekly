@@ -4148,3 +4148,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** "김민석이 감찰 대상" vs "반명 분열주의"…與 계파 정면충돌 - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "김민석이 감찰 대상" vs "반명 분열주의"…與 계파 정면충돌
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9pQ2F6T1prcUNKZGRWNmdMeFd3dEVjeFl0MFFEU1VycWtlQnpaVUlEMmdQUkhfSmpxUG9zXzl4NS10SGUxNVI1cGNkTUxEZEpGRmpjSjZ6dWwyMWJsRFlhWC1STXFRTzI5bTJledIBckFVX3lxTE9LY005amlIYjB0SHlHTVc4R05LU2pLdEpVdXc1cGxFdHRFdnR0RGZFNGJmRUFFVGVNWkxfLXNkak1jNE85ZzQ0MjFGWTJGWGhTVDdWVUt2RzVFZ0l5d0lLX1R2cVY4MlVOc25VaDRXaVQ2UQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 최고위 박차고 나간 친정청래계 3인…“윤리감찰 대상은 김민석” - 주간조선
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최고위 박차고 나간 친정청래계 3인…“윤리감찰 대상은 김민석”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE1QTmhvTU5nbHUyU3lRXzhNN2cyV0VZdnhmeXZyQmJJSFEtRVVON2FWWnpzWUczN1FWMFhRREk4ZHBHZG95Vm4wWW5FSkJsZko4eW10anJ4TlpJVHB5UHJUTjd4QzVFdlBtYVHSAW5BVV95cUxPU3laWHhLY1ZTSm1GMnhoZGNVb0dobUJiYXRFRjV6cElsbGxpdXlUNG83Z3dQdWl4V1ZESUkxTkJmMHAwbkM0TDVWaFNNQjhqQWRJaXA3ZVJqLVZsQzdHMlJ6bEM1QnBjRWFQQWMyUQ?oc=5)
+
+---
+
