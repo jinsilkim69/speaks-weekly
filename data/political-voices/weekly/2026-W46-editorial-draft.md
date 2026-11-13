@@ -2666,3 +2666,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최고위 불참하고 집단행동 나선 친청계 "김민석이 감찰대상" - OhmyNews
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최고위 불참하고 집단행동 나선 친청계 "김민석이 감찰대상"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE9od0JwckpuSzZCcVRSTG9SWE9WZ0doQ242ZkxIZ0toX1RWNTN2WGhhTEt0aEF6dENvRTE3dVdsZUtLWEhoVDZndHlGT1hwZFhtOHpKV3hkSm9Gem1fa2tvWVhzS3UwY3MxNDUtbGZkTks3RUFuS3A4?oc=5)
+
+---
+

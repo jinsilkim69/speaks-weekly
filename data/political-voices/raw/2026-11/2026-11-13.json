@@ -3407,5 +3407,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e9548cee36713f2a59c8d778981b9265645d9cfdb71f73506821e0a3dec51f12",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "최고위 불참하고 집단행동 나선 친청계 \"김민석이 감찰대상\" - OhmyNews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9od0JwckpuSzZCcVRSTG9SWE9WZ0doQ242ZkxIZ0toX1RWNTN2WGhhTEt0aEF6dENvRTE3dVdsZUtLWEhoVDZndHlGT1hwZFhtOHpKV3hkSm9Gem1fa2tvWVhzS3UwY3MxNDUtbGZkTks3RUFuS3A4?oc=5\" target=\"_blank\">최고위 불참하고 집단행동 나선 친청계 \"김민석이 감찰대상\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9od0JwckpuSzZCcVRSTG9SWE9WZ0doQ242ZkxIZ0toX1RWNTN2WGhhTEt0aEF6dENvRTE3dVdsZUtLWEhoVDZndHlGT1hwZFhtOHpKV3hkSm9Gem1fa2tvWVhzS3UwY3MxNDUtbGZkTks3RUFuS3A4?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 03:55:00 GMT",
+    "source": "OhmyNews",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 최고위 불참하고 집단행동 나선 친청계 \"김민석이 감찰대상\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
