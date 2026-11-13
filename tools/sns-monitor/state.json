@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-13T18:21:18.783Z",
+  "lastCheckedAt": "2026-11-13T18:31:18.056Z",
   "seenPostIds": {
     "VHJ1bXAgTWVkaWEgY2FzaGVzIGluIG9u": {
       "seenAt": "2026-11-10T00:57:32.088Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-13T17:41:22.540Z",
       "title": "Jimmy Kimmel thinks Donald Trump has ‘lost his mojo’ after midterms: ‘This is getting pathetic’ - Entertainment Weekly",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "098052f12bd6462da929cc67f61b76d054ce79fc94d319f7d14d4abe321addae": {
+      "seenAt": "2026-11-13T18:31:19.422Z",
+      "title": "이재명 대통령, 증시 개혁 칼 뺐다.. 부실기업 퇴출·주가조작 엄단 > 뉴스 - 지데일리",
+      "targetName": "이재명"
     }
   },
   "pending": []
