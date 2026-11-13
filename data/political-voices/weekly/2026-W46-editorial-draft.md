@@ -4018,3 +4018,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “최민희 말이 맞다···이 대통령, 재판 열리면 끝나는 시한부” - 주간경향
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “최민희 말이 맞다···이 대통령, 재판 열리면 끝나는 시한부”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aWE5Pa1UtSENHM0szY3AyUmNfd1dFWHNIUFpNYlkzNmZGMlotWC1NZDMyM1M1WThSNnk1Ym00VzlIamQ2ZWN5Wi1BeW83VGlCdzRMMjc0bzVtbE5UV1E?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "조혁당과의 합당, 명분도 이유도 부족" 송영길의 2028 총선 구도(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "조혁당과의 합당, 명분도 이유도 부족" 송영길의 2028 총선 구도(261113 금요일 클립) 송영길 정구승 오윤혜
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZSUhGdXhrVXgwODNTOXQ1T0ZEaTZFbk9jcXo0cThmMTJEM2t6Wml6c3g0SF93MEphbUhkZFpIVWVvY2Y5M3NOa2hYcnpPNzdCYjV2dGxvdnhhLV8wRW9uQi1R?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "최민희의 해당행위가 스노우볼되어 당과 청와대 공격 중" 정구승의 분노(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "최민희의 해당행위가 스노우볼되어 당과 청와대 공격 중" 정구승의 분노(261113 금요일 클립) 송영길 정구승 오윤혜
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LWGVzZkVaOFNkYTdJYm52VlV2ODJSOXAwV2NhcmUyQlZHbDNldFprMVp6US1LRmlQRWFzby0xdGdnVjhJZW9FR0ZhcFJHYUt1eG1sY0dwVGZkOWJsLUhWOVBR?oc=5)
+
+---
+

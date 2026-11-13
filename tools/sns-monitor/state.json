@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-13T16:01:17.696Z",
+  "lastCheckedAt": "2026-11-13T16:11:17.899Z",
   "seenPostIds": {
     "IuygnOqwgCDssYXsnoTsp4jthYzri4jq": {
       "seenAt": "2026-11-10T00:57:30.139Z",
@@ -2500,7 +2500,39 @@
       "seenAt": "2026-11-13T15:51:17.355Z",
       "title": "Trump calls for prosecuting 'seditious six.' What Slotkin said back - Lansing State Journal",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "db385c68b49fd492158d30b130955b7aa4673117c0cbf9ad7e833e8dac410242": {
+      "seenAt": "2026-11-13T16:11:19.228Z",
+      "title": "한동훈 “최민희 말이 맞다···이 대통령, 재판 열리면 끝나는 시한부” - 주간경향",
+      "targetName": "한동훈"
+    },
+    "f0bd214f21fb515dc327f8abe2a735dadfed7d8387c369e051812eea9ade1aac": {
+      "seenAt": "2026-11-13T16:11:20.034Z",
+      "title": "\"조혁당과의 합당, 명분도 이유도 부족\" 송영길의 2028 총선 구도(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문",
+      "targetName": "송영길"
+    },
+    "0446df0048d3f06addbb91588b747025b774d1139aad1ae190a895c2ab813185": {
+      "seenAt": "2026-11-13T16:11:20.756Z",
+      "title": "\"최민희의 해당행위가 스노우볼되어 당과 청와대 공격 중\" 정구승의 분노(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문",
+      "targetName": "송영길"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "0e06372e9dc450f89f7cd32dac91cbd9ab1d8981b839de89f2d8e5b7d8aff41e",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "\"신주쿠 한인 가게, 500개 늘어\" 이잼의 실용외교가 바꿔놓은 재일동포의 삶(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JMVQyYzJoVmIwYk5VajRsUG1MYlhnMWZOQ00wT0Nfbkk2TkJQZ2wxRHpsVERIMG1oMVZmZjZCekV2eVJsSmpXRXYzd2NBNTFEUzF3RjRIbzhjMjVvRzBSZDln?oc=5\" target=\"_blank\">\"신주쿠 한인 가게, 500개 늘어\" 이잼의 실용외교가 바꿔놓은 재일동포의 삶(261113 금요일 클립) 송영길 정구승 오윤혜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JMVQyYzJoVmIwYk5VajRsUG1MYlhnMWZOQ00wT0Nfbkk2TkJQZ2wxRHpsVERIMG1oMVZmZjZCekV2eVJsSmpXRXYzd2NBNTFEUzF3RjRIbzhjMjVvRzBSZDln?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 10:00:34 GMT",
+        "source": "경향신문",
+        "ageHours": 6.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
