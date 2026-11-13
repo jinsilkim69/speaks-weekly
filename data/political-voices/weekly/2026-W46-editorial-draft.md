@@ -2991,3 +2991,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 윤상현 “한동훈 징계 조작 의혹, 당이 전모 밝혀야…지도부 결단 기다려” - 경향신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 윤상현 “한동훈 징계 조작 의혹, 당이 전모 밝혀야…지도부 결단 기다려”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kSEJIeEVvSC00Z0tfMnhxOEd2a1F4V2JrTUF1a1pDendZMU5TM25NTjdjRjByb1puMktvckhqMmNtc3RsQjNsVkhjUmFfc1VnTEl1NDY5eUIyd9IBX0FVX3lxTFB3bG9TWGRSS09zcmVmdHJJQWdybzMzTHVNVUpNTkx5dDBSTlBnTXg5QlVWWktTd25jbUpadnpDc3ljd0RNemNBd3JDY1hta0ktcU0wNDBnVlpCN0xtZW9z?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 金 "만나자"에 "만나서 풀 사안 아냐...사과부터 제대로" - 싱글리스트
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 金 "만나자"에 "만나서 풀 사안 아냐...사과부터 제대로"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lR3U5c0NOWmthWUdjaHZwWjZxdDcxUG5XRVNFM1VyRTFrdXhvalBqWk1XcFI5Mzc3R3JvenozMEZkeE16UGJXNlhHRVlqM2dDRVNVNm1tX0JsdVYxOVRUZHVmN0c1dw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “한동훈은 ‘맛없는 욕쟁이 할머니 집’”…연일 직격 - 시사저널
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “한동훈은 ‘맛없는 욕쟁이 할머니 집’”…연일 직격
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE5FRDZMS1RCOGh3NEppUy1iV2czSlRZaWV0NE4xbUxQN2pJODRzc29FUVFtVzhJSi1oYlhTUjlyZ215ZjVmc2JqRnlEdWMwLWhPUi1CQllBaThzR0hOakhOMW9tVmw0Q3hndUtNNmxtWdIBc0FVX3lxTFBzWG5ZaEFRM0gySlNYRGYtVmRkVGpYZEx3M3hCQ0xaTHRzVEZGVElmRTd5RF94dDRGOVNLaEYwUVZDQWh1RnVBa1Q2bVNUdDdHNk1WX1JzUXk1OGs3ZG1BWDY2LW5jOVRlbUEtZEdjTGhPaVU?oc=5)
+
+---
+
