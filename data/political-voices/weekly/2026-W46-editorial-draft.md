@@ -2835,3 +2835,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석 "대화하자"에 정청래 "2차가해"…與, 신천지 갈등 출구 찾기 진통 - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "대화하자"에 정청래 "2차가해"…與, 신천지 갈등 출구 찾기 진통
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE9pb21OTUtqNFpMaUVCTVE4c1ZHYXVMRXVRNjhlMzRNMUtRWktwVFZBVF96M0NfSUE2VmZVWTdyTFAyQXgzWHNEZjR3b1BETXFEUXRzaWdvWm4wSXNlRDVsZEJyWWw3c3otcmJjb0FTY3NUZmZZb2g1d9IBeEFVX3lxTE9pb21OTUtqNFpMaUVCTVE4c1ZHYXVMRXVRNjhlMzRNMUtRWktwVFZBVF96M0NfSUE2VmZVWTdyTFAyQXgzWHNEZjR3b1BETXFEUXRzaWdvWm4wSXNlRDVsZEJyWWw3c3otcmJjb0FTY3NUZmZZb2g1dw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, ‘김민석-조국 회동설’에 “통합 논의 1㎜도 진행 안 돼” - 한겨레
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, ‘김민석-조국 회동설’에 “통합 논의 1㎜도 진행 안 돼”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE1VRUNfZThObmlMNGk2LVJVeUpqWHV4WWFXVVNhMnBSY084RVYyQlB4eVV4MEhzTTlscVNqdEpmMHYwTnNCNGFybm1INUZFUUl3OFVKTTBQZEZZbDQwT2E0bjRhNHBfdEpNMzlFSEp2aWxPbnl6?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 합당하자면서 '대선 꿈 접으라'는 민주당 … 조국당 "기만" 반발 - 뉴데일리
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 합당하자면서 '대선 꿈 접으라'는 민주당 … 조국당 "기만" 반발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE9YWVFDMTkwZ3dXVlFqNDhtVGkwMmU0TVFIZkdZODBxV1JWbWpWRTJFVUREcDQwdWxQSnpJcVhlVnFEaC1XYmtTRlhkWkZPeEhiY0xsOVY1X3hrNWlQdUV0STlBaUJmUU5FRU10NjA2OGxrT1NNcUF5ZHdJd9IBgAFBVV95cUxPbFRnQ1ZKUEdlWG04M2hrTjNVNE9nX1l5Uy1BUVh4cTVxc1RRRWhMWUIzMnJmeWhLT2xqbU5KcldNdTRuVlRHSnZvaHdDbXFLck5vanJGWE1GLWppalhndnZTeEhIZkEzblpBLVZJQ2ZJek9zaW9fcnhKT1JtczV2VA?oc=5)
+
+---
+

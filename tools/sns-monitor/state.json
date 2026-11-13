@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T06:21:15.916Z",
+  "lastCheckedAt": "2026-11-13T06:31:14.791Z",
   "seenPostIds": {
-    "Iu2VqeuLuSDrsJjrjIDtlZjrqbQg7J20": {
-      "seenAt": "2026-11-09T08:15:33.730Z",
-      "title": "\"합당 반대하면 이 '네 사람'과 싸워라\" 신인규가 짚은 신장식의 모순 #shorts - 오마이TV - OhmyNews",
-      "targetName": "신장식"
-    },
     "7Iug7J6l7IudLCDrspTsl6zqtowg7ZWp": {
       "seenAt": "2026-11-09T08:15:33.730Z",
       "title": "신장식, 범여권 합당론에 \"구명정·구명함 될 충분한 용의 있다\" - 머니투데이 - 머니투데이",
@@ -2505,7 +2500,39 @@
       "seenAt": "2026-11-13T06:21:17.364Z",
       "title": "양당 통합 진행중이란 민주당…조국혁신당 \"1㎜도 없어\" - 머니투데이 - 머니투데이",
       "targetName": "조국"
+    },
+    "7b95f2d8031d02036ff8485eee45ccb266d28298d3642a3d003e1230f97b323e": {
+      "seenAt": "2026-11-13T06:31:15.911Z",
+      "title": "김민석 \"대화하자\"에 정청래 \"2차가해\"…與, 신천지 갈등 출구 찾기 진통 - 뉴시스",
+      "targetName": "정청래"
+    },
+    "adbbe3a7057d9f6cfef42204aa486a40320aa6f11ed4a76e7d67e77304d02c8a": {
+      "seenAt": "2026-11-13T06:31:16.653Z",
+      "title": "조국혁신당, ‘김민석-조국 회동설’에 “통합 논의 1㎜도 진행 안 돼” - 한겨레",
+      "targetName": "조국"
+    },
+    "a67a87a977ca650bc7f162b590457cee4c7d53b52820d0ef3c6502bdd3983c9b": {
+      "seenAt": "2026-11-13T06:31:17.447Z",
+      "title": "합당하자면서 '대선 꿈 접으라'는 민주당 … 조국당 \"기만\" 반발 - 뉴데일리",
+      "targetName": "조국"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "b8c82db782ce49910d305a7378bdcab49b5f069d2e748259829dfd98a5149cb8",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "민주당은 '합당 군불'…조국혁신당은 \"사과부터\" - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdDBwTk9wWmZRRk85dVFySVVyT0JxYzkzZTV3ZVBNYmJHSktuSFhuTWhZcVFaWm5INjAyR3RjUGxRbm1VdUV5N1NQcFBsNVBuTTBaTg?oc=5\" target=\"_blank\">민주당은 '합당 군불'…조국혁신당은 \"사과부터\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BdDBwTk9wWmZRRk85dVFySVVyT0JxYzkzZTV3ZVBNYmJHSktuSFhuTWhZcVFaWm5INjAyR3RjUGxRbm1VdUV5N1NQcFBsNVBuTTBaTg?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 04:55:00 GMT",
+        "source": "데일리안",
+        "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
