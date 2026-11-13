@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-13T23:41:16.611Z",
+  "lastCheckedAt": "2026-11-13T23:51:23.087Z",
   "seenPostIds": {
     "IifrspTso4Tri6jssrQnIOqwgOyehSDr": {
       "seenAt": "2026-11-10T08:17:11.679Z",
@@ -2500,7 +2500,39 @@
       "seenAt": "2026-11-13T23:31:22.433Z",
       "title": "Trump says US could devastate Iran in three days as diplomatic efforts stall - WBFF",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "e6d6ba253e9469444c3affe82cd517231a54f5bd86f643759a1fdf05cbf68fa2": {
+      "seenAt": "2026-11-13T23:51:24.541Z",
+      "title": "한동훈 \"이재명 재판 훨씬 더 빼박\"…민주당 반박 - 데일리메이커",
+      "targetName": "이재명"
+    },
+    "8c3debcaa94d943f930d7d1930071b4ea65bd29e7a1142497058b237a59e4d48": {
+      "seenAt": "2026-11-13T23:51:25.275Z",
+      "title": "한동훈 \"이재명 재판 훨씬 더 빼박\"…민주당 반박 - 데일리메이커",
+      "targetName": "한동훈"
+    },
+    "c216ea8bf79d19dff2a50d67a15900f30e03ac4168474df66cad4d0d9efb7f6e": {
+      "seenAt": "2026-11-13T23:51:26.012Z",
+      "title": "Trump Hasn’t Commented on Nationwide Flight Shutdown, But He’s Promoting the Federal Film Incentive - Variety",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "4349d7a1214c68fa2341ce1093b820c5542ae0c7fb95cfb52635754c1cdad303",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says Jensen Huang is going 'through hell' amid scandal - USA Today",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQamlUUEtMdEYtaU9VYkZEMkFpbWo3U2k2TFhfU3NSUWphWVN3d2MyQ19JN05ZTU1CbXlvMHppdmhPWm1kTzNkTkozUnpuZkQ2OHpJYm9Eb1hJMWhMT1ljdmJZNXNSMWVMbXNGdVNXMGVuZ3lFdl9MZ0U5RjVLMURQNUVXN3FVMXVmOFk0bkx0NWJPUll3bTFJWk5tRVdpQXlTaDNDNA?oc=5\" target=\"_blank\">Trump says Jensen Huang is going 'through hell' amid scandal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamlUUEtMdEYtaU9VYkZEMkFpbWo3U2k2TFhfU3NSUWphWVN3d2MyQ19JN05ZTU1CbXlvMHppdmhPWm1kTzNkTkozUnpuZkQ2OHpJYm9Eb1hJMWhMT1ljdmJZNXNSMWVMbXNGdVNXMGVuZ3lFdl9MZ0U5RjVLMURQNUVXN3FVMXVmOFk0bkx0NWJPUll3bTFJWk5tRVdpQXlTaDNDNA?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 19:46:00 GMT",
+        "source": "USA Today",
+        "ageHours": 4.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
