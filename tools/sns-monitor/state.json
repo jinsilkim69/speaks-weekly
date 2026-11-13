@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T15:21:19.648Z",
+  "lastCheckedAt": "2026-11-13T15:31:17.289Z",
   "seenPostIds": {
-    "VHJ1bXAgcXVlc3Rpb25zIG1pZHRlcm0g": {
-      "seenAt": "2026-11-09T17:49:10.769Z",
-      "title": "Trump questions midterm election results, revives voting-machine conspiracy - CNBC",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "VHJ1bXAgc2F5cyBoZSdzIG5vdCBzdXJl": {
       "seenAt": "2026-11-09T17:49:10.769Z",
       "title": "Trump says he's not sure that the midterm elections were 'honest' - WSBT",
@@ -2505,6 +2500,21 @@
       "seenAt": "2026-11-13T15:21:20.467Z",
       "title": "계파 갈등에 막힌 김민석, 강경 투쟁에 갇힌 장동혁 - 중앙일보",
       "targetName": "김민석"
+    },
+    "d20a647d771b38c4ab475efb49891879d0e47afef46b42840c222a3975931b8a": {
+      "seenAt": "2026-11-13T15:31:18.751Z",
+      "title": "빨간 넥타이 맨 이재명 대통령…거래소 찾아 \"주식시장 우상향 희망\" - JTBC",
+      "targetName": "이재명"
+    },
+    "4c70852a66a62d30297d6b33e04816bef5c7236df8f522f85ceaa90f852de5bb": {
+      "seenAt": "2026-11-13T15:31:19.546Z",
+      "title": "김민석 100일 앞두고 사실상 ‘선전포고’…\"터질 게 터졌다\" - JTBC",
+      "targetName": "김민석"
+    },
+    "af0dfbc6e1f03e6fc26d8e63fec160612d71c27b1ab3021e92d6bd4f15da39cd": {
+      "seenAt": "2026-11-13T15:31:20.362Z",
+      "title": "Seth Meyers Jokes Trump Has Reached ‘Final Stage’ of Republican Grief Over Midterms - TheWrap",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

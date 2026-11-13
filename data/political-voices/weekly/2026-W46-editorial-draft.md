@@ -3966,3 +3966,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 빨간 넥타이 맨 이재명 대통령…거래소 찾아 "주식시장 우상향 희망" - JTBC
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 빨간 넥타이 맨 이재명 대통령…거래소 찾아 "주식시장 우상향 희망"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wNDYyZmYxQTQxUGhYSkd6OEZQbE1lNEVtSGpuTWEyaEtaOG9QN0xFS3VQYXRtS0FsSnV6ekRjbXdNSmtqRmpnandlSVdkWlg4ZnlDcg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 100일 앞두고 사실상 ‘선전포고’…"터질 게 터졌다" - JTBC
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 100일 앞두고 사실상 ‘선전포고’…"터질 게 터졌다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ba1ZVdUZ1MldMWGV0WTBwcHIyak1nRUNXTlJjRW00YVE3RWhVSS1BMmw3LW5sUGNrWFhSRXNWbGs2elc1YjUwT09SODE5OEFkdFE?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Seth Meyers Jokes Trump Has Reached ‘Final Stage’ of Republican Grief Over Midterms - TheWrap
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Seth Meyers Jokes Trump Has Reached ‘Final Stage’ of Republican Grief Over Midterms
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMisAFBVV95cUxNN29vWmNIUGxxTTNnZGlrejc0U2lnWEtveUFRWEk1VW1haVhFNW1QbE9CY194anl0bXhpT0tpQ3psQkdoM3VvSXR0RndVMHpZdm1pUXVoTE1BZGppeWtGcDhRV1JnQjVQSVF4VW8xSkxtN2ZBUEZKUVgxbDh5eVFXVkFOM2owUjJBTW9NSm5FT1BpQ2ZDRzdyaVcwM1NRTGxBbnBSTnZlck5zdjUwZ1Y2Sw?oc=5)
+
+---
+
