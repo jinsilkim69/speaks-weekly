@@ -3225,3 +3225,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 민주당 합당론에 "논의 1㎜도 안 돼…쇼통" - 이투데이
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 민주당 합당론에 "논의 1㎜도 안 돼…쇼통"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBPUG9yVUFvdWZRS1dpRndMM2Zlb2gtalhVbXFiQk5hU25VNUdwOXc4OGRxbDhTQW9WUUFqR2VHell5NFpuMWQ0RGtUYmxKYUdTMFZiVFRXNzZEY2thbjNxZ01GelBlRERJdllGWGtn?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 문진석, 한동훈 '李대통령은 재판 열리면 끝난다' 발언에 "법 모르는 듯" - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 문진석, 한동훈 '李대통령은 재판 열리면 끝난다' 발언에 "법 모르는 듯"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Tc2pSbU4zd2Q1UlM5aXU3emZpTURTVmVqUFdXN3dXM1lsZ3E0aXptLUtfdUNVT3lQdlVMbEZCTG1qNW94cXc0T3lxTjhySHM2MHpMSFdzVWV3bm1ZUmx6adIBeEFVX3lxTE4xRWlFNTJoUVhNSW9vTVFwSVB6TklkVG9wQ0xnVHhSWWZsMXlnS2w4Ulp5T3NGeG95eUtyNzNST0lmT0tyTUxKTkdydVU1VENVMmxuQ09uUnhNS0pQa3FLSGctLUtWT1dFS2hsTWU3NHZmeUVPRGxHRg?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “‘李·尹 재판 같다’ 최민희 말이 맞다…李, 시한부 대통령” - 시사저널
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “‘李·尹 재판 같다’ 최민희 말이 맞다…李, 시한부 대통령”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wU0ZlaDNNbTdKQ3k1OGRoblJUTnFGam9ZUWdaNm9IMU01c2tCaFRmZDdMUi1FQnI2VGZuUm9NSzQwUUVFVTRTZ200c2lSTk94V0tUMGJDNEo2bVE1R1FvVWREMTFPZ3pHRTZLWkZSONIBc0FVX3lxTE96cjg2OF90S1dtYnNuamp0UW1Fd2wyczcwR183VkdSLXhvTHFiVjhtbHJvR2lmMUpVUktUeGhkS1k3eWhZdGtUWlF6eGhCYzFFeXFuTnVfbzE3RTJGR1gzLXAxdTRGbmxrYzJxTHBxWVVLR3c?oc=5)
+
+---
+
