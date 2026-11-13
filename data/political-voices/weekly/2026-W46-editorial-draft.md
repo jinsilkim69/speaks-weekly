@@ -3121,3 +3121,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** “만나자”는 김민석… 정청래 “사과부터 제대로 하라” - 세계일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “만나자”는 김민석… 정청래 “사과부터 제대로 하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXek94cmtGbS14QW52eVdxSk1FSlBvYllqLWpocjlTR2RyQnRTbVRrYXUwREF4WTN0blZqbllLdFpRc3Ryakg3SUxBbmNMbXNpRU82TE1iZFTSAVRBVV95cUxNTUNfcFo3UzRWcVNiMlRUd2F2cVc5OW1QbFFDdFJrZkJYZ0FrdkRUTmlrYmhCT0YzdEJKbmIwQTc5WHlnVWppOVdVNW5abWUwYS16M2w?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최고위 불참 친청 3명 "김민석 감찰"...친명 "반명 분열주의" - 중앙신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최고위 불참 친청 3명 "김민석 감찰"...친명 "반명 분열주의"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNbGt1VVhvWERibWlpSWYzS3lsdXRrZ043YUFBaUZ2U1pmcExIbHc2ZDVHTkNzaFhXY1RmcHlwSnZKWWdRQkstaHg2dEEydWRXNW5TbzFuTkdSa2thNEduUEhRWWU5N18zZllyYTIzNkE4VWZUSmtJQmJoaFlBMHdEM0JYOXg1VEpBaEE4V2ZHYmV1d2xOWUJtREl5SG5Xb082RDZ6YnJSdzRyNTFSMGZobkdpZFB3d0JLWHdxOWlsdjlUTzZrZmlGeTJiR2tBQjZjWGlNdTRMOHFtaUd5TkdGTm02eWxRZWhvWDh6Wlp0UHdYaUMwb2MxNWQ4Z204b3ZWWTNpclU5NFpLYmhaaDhvZUdsdHlnenZIelhYS2VZdG9NNzZNcG51aDlxQV9kVDJnbU5DSzhGeDN1Y25zV0VtNEFRNjBteUkxVkRLS2hjZDZHX0RD?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** “만나자”는 김민석… 정청래 “사과부터 제대로 하라” - 세계일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “만나자”는 김민석… 정청래 “사과부터 제대로 하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1KN0lWU05KVGZNbU9wdU9wYnZpX2x4azR4WS14LUpiREpXSzdrSUxiakgyV19fNFlWT0ZReUh2em9SZmV0QXNnUjI2ZGY4Q0VjLUhKY3pKSVBnWlVuVkNNYXE4bkdMckJrRG5V0gFUQVVfeXFMTU1DX3BaN1M0VnFTYjJUVHdhdnFXOTltUGxRQ3RSa2ZCWGdBa3ZEVE5pa2JoQk9GM3RCSm5iMEE3OVh5Z1VqaTlXVTVuWm1lMGEtejNs?oc=5)
+
+---
+
