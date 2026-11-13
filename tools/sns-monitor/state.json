@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T21:21:17.384Z",
+  "lastCheckedAt": "2026-11-13T21:31:16.244Z",
   "seenPostIds": {
-    "U2VsbGluZyBmYXN0ZXIgYWNjZXNzIHRv": {
-      "seenAt": "2026-11-10T01:30:41.870Z",
-      "title": "Selling faster access to Trump’s posts helps triple his media company’s revenue - The Washington Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "7J207J6s66qFIOuMgO2GteuguSDqsJDr": {
       "seenAt": "2026-11-10T08:17:11.457Z",
       "title": "이재명 대통령 감동 행보 SNS 강타..위기의 팀김어준 열폭중..이상호의 뉴스비평 2026년 11월 10일 1,530회 [ft. 강수영, 강미정, 민웅기, 김지형] - 고발뉴스닷컴",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-13T21:21:18.893Z",
       "title": "친정청래계 3인방 기자회견 일파만파... 심각하다는 현재 민주당 상황 - 위키트리",
       "targetName": "정청래"
+    },
+    "67c189ca8fcc1fa4e4767748a38cbf7e297657d0ec0c49c8d7a9d19c0565a726": {
+      "seenAt": "2026-11-13T21:31:17.692Z",
+      "title": "오세훈·이준석, 시청서 조찬 회동…정책 현안 논의 - 서울경제",
+      "targetName": "이준석"
     }
   },
   "pending": []
