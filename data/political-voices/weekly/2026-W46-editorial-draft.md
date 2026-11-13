@@ -2536,3 +2536,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁, 한동훈 복당 주장 오세훈에 “패륜·조작정치 받아들이자는 건가” - 주간조선
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, 한동훈 복당 주장 오세훈에 “패륜·조작정치 받아들이자는 건가”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFAxYlpFald5VU1xMXdjWVNTS3lYTy04NzhNZUhXQ0xzc1VSM3lFY09QZVZxQTNhYmh6WTh1UWVuVElaTjRTOVlfTlF2ZzRxdjN0RXVyU0tqMk1BZHIyNXFqYjI3Ul8ySnZGNkHSAW5BVV95cUxQUFJoTUxnZ2tVc0pXNXY0MmRrMXhzNHJkXzJlbzhSWExLdE5FeUw0eUY3aEJJQVBvX3hpN2k3eWJVa3F5RnRGbEpIaTJmaHM2UlpLeTg3OXVuQnl6aDJHbHZrcDhPU2hReUJqUUtKZw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 조희대 탄핵·국조 왜 결단 못했나…김민석 리더십 또 시험대 - 데일리안
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조희대 탄핵·국조 왜 결단 못했나…김민석 리더십 또 시험대
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowJBVV95cUxONGVfV3V4eGNPWHZCUVNHQ1pvMVF0dTg1ellEZWROaHYzRktZNThQamtTUmRmSEtzdXQ4NFBVVml0WGV6TE5wTWZaWkZiLXpyNER3OEUtR2xPNE41X0FYaGI3SFhJTXN6NEpYeTNibk10dG9tQnFxT3k2Um1CcTdpM0hwRkxSVVd2RGk1c3FFa0NJaXhzZEtCWkp3Qi1HMVhiVkptS1YxcDNHOFdrUzdnc2c1M0p6VDRjcmtGRnh5aXlVQjRBVU5PZnZLeXhVRkVTYU8wRlJ3aGd3dzM4N0ZiZ2x3cTdIM3l2LW9QTlBuZE1tV21RdnZic1B3U3BTTWxSUkdIZEhLaE9iNHZWM3lWNXhBNFIxdE1QMDRiTl9yOTFLUTg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "대화하자"에 정청래 "2차가해"…與, 신천지 갈등 출구 찾기 진통 - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "대화하자"에 정청래 "2차가해"…與, 신천지 갈등 출구 찾기 진통
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VeWlMMmkxSzNxNEJtbmV3NGtOa25mLW5uWC1MZi1DbHgxN3B1Z1paTTYta3ZlZGhVMmhLbHFjZTVBQVAxM2RoTU9QbmlOZ051bVRNYVpGSUViN294SFM2cNIBeEFVX3lxTE9pb21OTUtqNFpMaUVCTVE4c1ZHYXVMRXVRNjhlMzRNMUtRWktwVFZBVF96M0NfSUE2VmZVWTdyTFAyQXgzWHNEZjR3b1BETXFEUXRzaWdvWm4wSXNlRDVsZEJyWWw3c3otcmJjb0FTY3NUZmZZb2g1dw?oc=5)
+
+---
+
