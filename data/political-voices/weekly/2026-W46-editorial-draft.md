@@ -2705,3 +2705,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** “이재명 아들 군면제” 허위 글 이수정, 2심도 피선거권 상실형 - 한겨레
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “이재명 아들 군면제” 허위 글 이수정, 2심도 피선거권 상실형
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lb01ZbUp5bjRaLWhfZGlVaHkzdFo2WFl4Wk14YUNfU0cyNURuMEJIb2VKUThOYS1vTVVjWjFseWFOZ2ZkNTczSzRySzRvTnFYb1NFeV9td2RsdUxvR3dYTjdxYw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** ‘한동훈 조작 징계’ 주장한 황경성 “증거 있다” - 채널A
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘한동훈 조작 징계’ 주장한 황경성 “증거 있다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ELVZTaU91VUJPVDB0Sm5MajFtNExFVy1sZDQ1YzRsV1BSWkdId3N2S09PdUlBVWMtZG9CRDMxZlItTEZZYllPNWozeG1rSF9sbnVaQndPUU40ZU10Rk9tR2lvSdIBY0FVX3lxTE1ELVZTaU91VUJPVDB0Sm5MajFtNExFVy1sZDQ1YzRsV1BSWkdId3N2S09PdUlBVWMtZG9CRDMxZlItTEZZYllPNWozeG1rSF9sbnVaQndPUU40ZU10Rk9tR2lvSQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 더불어민주당 ‘합당론’에 “대화 없는 전망은 예의 아냐” - 천지일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 더불어민주당 ‘합당론’에 “대화 없는 전망은 예의 아냐”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBxZzFXbk41UE1RdG9RcklwYW1QYmNpMkd5M28zaUpQejRKeWJEbTZvTWdLTE5fMlF1ZzhkNUZJdVdVYkF4a05BQ043aWR5VnVQMVlUR3F0QmxkVGJtbWJFYVp0ZGtLUVhob3c?oc=5)
+
+---
+
