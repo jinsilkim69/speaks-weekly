@@ -2497,3 +2497,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 윤상현 "한동훈 '조작 징계' 의혹 투명하게 밝혀야"…진상조사위 구성 요구 - 뉴스1
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 윤상현 "한동훈 '조작 징계' 의혹 투명하게 밝혀야"…진상조사위 구성 요구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE04aXIta1Bsd1YxbHJ1RGVxNkpVYXBodDZMQkF2SVBSM1Y5eFhkSWlZbFAxeWxDRVJPbFVTQTIydFo5bG9QNmx6MTlMQ1NMaGdLRlJKTUF3NzRtQQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 페이스북 글 “뭐라고 대화 걸어올지 나도 궁금” - www.newszoom.kr
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 페이스북 글 “뭐라고 대화 걸어올지 나도 궁금”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hVndyZlAwYmhYQ20zdDlkV0RzdGc0V3EtdmVJRDcxLW03MkVfbDByTDZxMXk0YVh3aVZ5bGxIT091cndEdWc?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 제치고 '국힘 최장수 당대표'…장동혁 "'웃픈' 현실" - 아이뉴스24
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 제치고 '국힘 최장수 당대표'…장동혁 "'웃픈' 현실"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiR0FVX3lxTE44VmdxUlhvTmxTd3dLbjVEcVpQN01IQ1pjLWwxVUJiM0Y3U2paVWVxUHBQYU51eFFjaXN5Z3hpY3p4dlNSRk9J?oc=5)
+
+---
+

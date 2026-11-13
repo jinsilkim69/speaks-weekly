@@ -3080,5 +3080,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8ed02ed7209078d0b00bbdd1fec4721511ba5df301e9be51e35043f1d47e0546",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "윤상현 \"한동훈 '조작 징계' 의혹 투명하게 밝혀야\"…진상조사위 구성 요구 - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE04aXIta1Bsd1YxbHJ1RGVxNkpVYXBodDZMQkF2SVBSM1Y5eFhkSWlZbFAxeWxDRVJPbFVTQTIydFo5bG9QNmx6MTlMQ1NMaGdLRlJKTUF3NzRtQQ?oc=5\" target=\"_blank\">윤상현 \"한동훈 '조작 징계' 의혹 투명하게 밝혀야\"…진상조사위 구성 요구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04aXIta1Bsd1YxbHJ1RGVxNkpVYXBodDZMQkF2SVBSM1Y5eFhkSWlZbFAxeWxDRVJPbFVTQTIydFo5bG9QNmx6MTlMQ1NMaGdLRlJKTUF3NzRtQQ?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 02:10:56 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 윤상현 \"한동훈 '조작 징계' 의혹 투명하게 밝혀야\"…진상조사위 구성 요구",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "7f411231d321f8bd0d5cbe68a155687d40a128e47a41a117d36cb7946687dbe6",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "정청래, 김민석 겨냥 페이스북 글 “뭐라고 대화 걸어올지 나도 궁금” - www.newszoom.kr",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hVndyZlAwYmhYQ20zdDlkV0RzdGc0V3EtdmVJRDcxLW03MkVfbDByTDZxMXk0YVh3aVZ5bGxIT091cndEdWc?oc=5\" target=\"_blank\">정청래, 김민석 겨냥 페이스북 글 “뭐라고 대화 걸어올지 나도 궁금”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.newszoom.kr</font>",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hVndyZlAwYmhYQ20zdDlkV0RzdGc0V3EtdmVJRDcxLW03MkVfbDByTDZxMXk0YVh3aVZ5bGxIT091cndEdWc?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 08:06:00 GMT",
+    "source": "www.newszoom.kr",
+    "ageHours": 18.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래, 김민석 겨냥 페이스북 글 “뭐라고 대화 걸어올지 나도 궁금”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "975f3aa0812c1c74f87c2b3bc3a5329bb33b3649bd6c3ccd84ce95f17971d419",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석 제치고 '국힘 최장수 당대표'…장동혁 \"'웃픈' 현실\" - 아이뉴스24",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE44VmdxUlhvTmxTd3dLbjVEcVpQN01IQ1pjLWwxVUJiM0Y3U2paVWVxUHBQYU51eFFjaXN5Z3hpY3p4dlNSRk9J?oc=5\" target=\"_blank\">이준석 제치고 '국힘 최장수 당대표'…장동혁 \"'웃픈' 현실\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아이뉴스24</font>",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE44VmdxUlhvTmxTd3dLbjVEcVpQN01IQ1pjLWwxVUJiM0Y3U2paVWVxUHBQYU51eFFjaXN5Z3hpY3p4dlNSRk9J?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 06:16:51 GMT",
+    "source": "아이뉴스24",
+    "ageHours": 20.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석 제치고 '국힘 최장수 당대표'…장동혁 \"'웃픈' 현실\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
