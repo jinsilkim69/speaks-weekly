@@ -5358,5 +5358,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "1a6fa1c06146f13af2b91e489e8676da366072cc1527ac292cc8eacb6a71cac2",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "靑 “강한 유감“…김민석, 잇단 ’언행 논란’ 최민희 감찰 지시 - 연합뉴스TV",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWeUg3QW1QLXI4azYxei1haThLaFYwcVFhTVhxbWF1cDRzOHRMSWtoMjlnUFVkMWFOZ0R5UUc3TG9xV1kxNXpLdUJ6b1FlME5UNjgwYXNrdmdQQVlWdFd2TXh1R1VEZUU?oc=5\" target=\"_blank\">靑 “강한 유감“…김민석, 잇단 ’언행 논란’ 최민희 감찰 지시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWeUg3QW1QLXI4azYxei1haThLaFYwcVFhTVhxbWF1cDRzOHRMSWtoMjlnUFVkMWFOZ0R5UUc3TG9xV1kxNXpLdUJ6b1FlME5UNjgwYXNrdmdQQVlWdFd2TXh1R1VEZUU?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 15:23:00 GMT",
+    "source": "연합뉴스TV",
+    "ageHours": 21,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 靑 “강한 유감“…김민석, 잇단 ’언행 논란’ 최민희 감찰 지시",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
