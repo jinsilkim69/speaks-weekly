@@ -2952,3 +2952,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 합당하자면서 '대선 꿈 접으라'는 민주당 … 조국당 "기만" 반발 - 뉴데일리
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 합당하자면서 '대선 꿈 접으라'는 민주당 … 조국당 "기만" 반발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFRnQ1ZKUEdlWG04M2hrTjNVNE9nX1l5Uy1BUVh4cTVxc1RRRWhMWUIzMnJmeWhLT2xqbU5KcldNdTRuVlRHSnZvaHdDbXFLck5vanJGWE1GLWppalhndnZTeEhIZkEzblpBLVZJQ2ZJek9zaW9fcnhKT1JtczV2VNIBgAFBVV95cUxPbFRnQ1ZKUEdlWG04M2hrTjNVNE9nX1l5Uy1BUVh4cTVxc1RRRWhMWUIzMnJmeWhLT2xqbU5KcldNdTRuVlRHSnZvaHdDbXFLck5vanJGWE1GLWppalhndnZTeEhIZkEzblpBLVZJQ2ZJek9zaW9fcnhKT1JtczV2VA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 민주당은 '합당 군불'…조국혁신당은 "사과부터" - 데일리안
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당은 '합당 군불'…조국혁신당은 "사과부터"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiU0FVX3lxTFByMXlBZHhSejBvdEVlblVtLXg4QW5aSjlIZkR6eUczSTBKTmtzMEExQ20xbzV6MHVpWXc5NXZDZUxiQUZQQnZTUVNIQVpUN1VKYVB3?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국힘 ‘한동훈 조작징계’ 놓고 계파 충돌…친한계 “제명 무효” vs 당권파 “궤변” - 아시아투데이
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘 ‘한동훈 조작징계’ 놓고 계파 충돌…친한계 “제명 무효” vs 당권파 “궤변”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBfekw2c25RNXlyY3o0T0k0aURJNjlFT1lGX0psdFR2eEdCOUxGTHE2RWpGMS1hVnZpU0JkZ3p4RGc4VzRVLXhsMFE5dWJtbWFyMmZuZE8yc0dlbmFLYm5uem1WN2k4V2JUVkw3TVhR?oc=5)
+
+---
+

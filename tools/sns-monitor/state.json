@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T07:01:22.410Z",
+  "lastCheckedAt": "2026-11-13T07:11:17.068Z",
   "seenPostIds": {
-    "VHJ1bXAgc2F5cyBoZSB3YXMg4oCYb25s": {
-      "seenAt": "2026-11-09T08:15:34.217Z",
-      "title": "Trump says he was ‘only kidding’ about offering UFC’s Dana White press secretary job - The Washington Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "7J207J6s66qFIOuMgO2GteuguSDsnKDt": {
-      "seenAt": "2026-11-09T08:18:24.548Z",
-      "title": "이재명 대통령 유튜브 ‘대통령의 Y’ 회당 1700만원…4편에 6812만원 - JTBC",
-      "targetName": "이재명"
-    },
-    "7KCcNjTso7zrhYQg7IaM67Cp7J2YIOuC": {
-      "seenAt": "2026-11-09T08:18:24.549Z",
-      "title": "제64주년 소방의 날 기념식 참석한 이재명 대통령 #shorts #오마이tv - 오마이TV - OhmyNews",
-      "targetName": "이재명"
-    },
     "7J207J6s66qFIOuMgO2GteuguSDigJzs": {
       "seenAt": "2026-11-09T08:18:24.549Z",
       "title": "이재명 대통령 “정치인 칭찬·지지 필요하지만 종교적 찬양이나 숭배에 이르러선 안 돼” - 시사뉴스",
@@ -2515,37 +2500,84 @@
       "seenAt": "2026-11-13T07:01:25.113Z",
       "title": "천하람 \"이혜훈 부정청약 10개월 만에 송치…100억 아파트 서둘러 환수해야\" - 뉴시스",
       "targetName": "천하람"
+    },
+    "b72c263463d6e11d317209b90309c13949cd55453fc6116cf5f6bf82923880f8": {
+      "seenAt": "2026-11-13T07:11:18.075Z",
+      "title": "합당하자면서 '대선 꿈 접으라'는 민주당 … 조국당 \"기만\" 반발 - 뉴데일리",
+      "targetName": "조국"
+    },
+    "c1d39e4e016baa20647142b1bd4102789e0653312b80beb938674da561e3eb46": {
+      "seenAt": "2026-11-13T07:11:18.695Z",
+      "title": "민주당은 '합당 군불'…조국혁신당은 \"사과부터\" - 데일리안",
+      "targetName": "조국"
+    },
+    "cbc525bdc6b683e80e454c0e2da70a77b4f3a2650d0f638ef6c6a84bbd76af62": {
+      "seenAt": "2026-11-13T07:11:19.356Z",
+      "title": "국힘 ‘한동훈 조작징계’ 놓고 계파 충돌…친한계 “제명 무효” vs 당권파 “궤변” - 아시아투데이",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "b72c263463d6e11d317209b90309c13949cd55453fc6116cf5f6bf82923880f8",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "합당하자면서 '대선 꿈 접으라'는 민주당 … 조국당 \"기만\" 반발 - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFRnQ1ZKUEdlWG04M2hrTjNVNE9nX1l5Uy1BUVh4cTVxc1RRRWhMWUIzMnJmeWhLT2xqbU5KcldNdTRuVlRHSnZvaHdDbXFLck5vanJGWE1GLWppalhndnZTeEhIZkEzblpBLVZJQ2ZJek9zaW9fcnhKT1JtczV2VNIBgAFBVV95cUxPbFRnQ1ZKUEdlWG04M2hrTjNVNE9nX1l5Uy1BUVh4cTVxc1RRRWhMWUIzMnJmeWhLT2xqbU5KcldNdTRuVlRHSnZvaHdDbXFLck5vanJGWE1GLWppalhndnZTeEhIZkEzblpBLVZJQ2ZJek9zaW9fcnhKT1JtczV2VA?oc=5\" target=\"_blank\">합당하자면서 '대선 꿈 접으라'는 민주당 … 조국당 \"기만\" 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFRnQ1ZKUEdlWG04M2hrTjNVNE9nX1l5Uy1BUVh4cTVxc1RRRWhMWUIzMnJmeWhLT2xqbU5KcldNdTRuVlRHSnZvaHdDbXFLck5vanJGWE1GLWppalhndnZTeEhIZkEzblpBLVZJQ2ZJek9zaW9fcnhKT1JtczV2VNIBgAFBVV95cUxPbFRnQ1ZKUEdlWG04M2hrTjNVNE9nX1l5Uy1BUVh4cTVxc1RRRWhMWUIzMnJmeWhLT2xqbU5KcldNdTRuVlRHSnZvaHdDbXFLck5vanJGWE1GLWppalhndnZTeEhIZkEzblpBLVZJQ2ZJek9zaW9fcnhKT1JtczV2VA?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 05:44:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 1.3
+        "id": "66213043cd0b1da90519f66e066c87082964f3cf9f493725d4ef795fc5b3db7d",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "윤상현 “한동훈 징계 조작 의혹, 당이 전모 밝혀야…지도부 결단 기다려” - 경향신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kSEJIeEVvSC00Z0tfMnhxOEd2a1F4V2JrTUF1a1pDendZMU5TM25NTjdjRjByb1puMktvckhqMmNtc3RsQjNsVkhjUmFfc1VnTEl1NDY5eUIyd9IBX0FVX3lxTFB3bG9TWGRSS09zcmVmdHJJQWdybzMzTHVNVUpNTkx5dDBSTlBnTXg5QlVWWktTd25jbUpadnpDc3ljd0RNemNBd3JDY1hta0ktcU0wNDBnVlpCN0xtZW9z?oc=5\" target=\"_blank\">윤상현 “한동훈 징계 조작 의혹, 당이 전모 밝혀야…지도부 결단 기다려”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kSEJIeEVvSC00Z0tfMnhxOEd2a1F4V2JrTUF1a1pDendZMU5TM25NTjdjRjByb1puMktvckhqMmNtc3RsQjNsVkhjUmFfc1VnTEl1NDY5eUIyd9IBX0FVX3lxTFB3bG9TWGRSS09zcmVmdHJJQWdybzMzTHVNVUpNTkx5dDBSTlBnTXg5QlVWWktTd25jbUpadnpDc3ljd0RNemNBd3JDY1hta0ktcU0wNDBnVlpCN0xtZW9z?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 01:40:00 GMT",
+        "source": "경향신문",
+        "ageHours": 5.5
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "c1d39e4e016baa20647142b1bd4102789e0653312b80beb938674da561e3eb46",
+        "id": "739fa1fe8b402d43eab7f6275bf88e9b72d6b423ebdd18515a80a8196b1e7683",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, 金 \"만나자\"에 \"만나서 풀 사안 아냐...사과부터 제대로\" - 싱글리스트",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lR3U5c0NOWmthWUdjaHZwWjZxdDcxUG5XRVNFM1VyRTFrdXhvalBqWk1XcFI5Mzc3R3JvenozMEZkeE16UGJXNlhHRVlqM2dDRVNVNm1tX0JsdVYxOVRUZHVmN0c1dw?oc=5\" target=\"_blank\">정청래, 金 \"만나자\"에 \"만나서 풀 사안 아냐...사과부터 제대로\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">싱글리스트</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lR3U5c0NOWmthWUdjaHZwWjZxdDcxUG5XRVNFM1VyRTFrdXhvalBqWk1XcFI5Mzc3R3JvenozMEZkeE16UGJXNlhHRVlqM2dDRVNVNm1tX0JsdVYxOVRUZHVmN0c1dw?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 14:43:10 GMT",
+        "source": "싱글리스트",
+        "ageHours": 16.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "3acfd5a375d20dec02833645e3e1f57cbf1091bd0028936f9684faad366db1d0",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석 “한동훈은 ‘맛없는 욕쟁이 할머니 집’”…연일 직격 - 시사저널",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5FRDZMS1RCOGh3NEppUy1iV2czSlRZaWV0NE4xbUxQN2pJODRzc29FUVFtVzhJSi1oYlhTUjlyZ215ZjVmc2JqRnlEdWMwLWhPUi1CQllBaThzR0hOakhOMW9tVmw0Q3hndUtNNmxtWdIBc0FVX3lxTFBzWG5ZaEFRM0gySlNYRGYtVmRkVGpYZEx3M3hCQ0xaTHRzVEZGVElmRTd5RF94dDRGOVNLaEYwUVZDQWh1RnVBa1Q2bVNUdDdHNk1WX1JzUXk1OGs3ZG1BWDY2LW5jOVRlbUEtZEdjTGhPaVU?oc=5\" target=\"_blank\">이준석 “한동훈은 ‘맛없는 욕쟁이 할머니 집’”…연일 직격</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FRDZMS1RCOGh3NEppUy1iV2czSlRZaWV0NE4xbUxQN2pJODRzc29FUVFtVzhJSi1oYlhTUjlyZ215ZjVmc2JqRnlEdWMwLWhPUi1CQllBaThzR0hOakhOMW9tVmw0Q3hndUtNNmxtWdIBc0FVX3lxTFBzWG5ZaEFRM0gySlNYRGYtVmRkVGpYZEx3M3hCQ0xaTHRzVEZGVElmRTd5RF94dDRGOVNLaEYwUVZDQWh1RnVBa1Q2bVNUdDdHNk1WX1JzUXk1OGs3ZG1BWDY2LW5jOVRlbUEtZEdjTGhPaVU?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 06:06:08 GMT",
+        "source": "시사저널",
+        "ageHours": 1.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "0bed45a76dfec8fcc0572d4746f7d50954d86a8e84b2911fd2512adc79e50500",
         "targetId": "cho_kuk",
         "targetName": "조국",
         "targetTitle": "조국혁신당 대표",
-        "title": "민주당은 '합당 군불'…조국혁신당은 \"사과부터\" - 데일리안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFByMXlBZHhSejBvdEVlblVtLXg4QW5aSjlIZkR6eUczSTBKTmtzMEExQ20xbzV6MHVpWXc5NXZDZUxiQUZQQnZTUVNIQVpUN1VKYVB3?oc=5\" target=\"_blank\">민주당은 '합당 군불'…조국혁신당은 \"사과부터\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByMXlBZHhSejBvdEVlblVtLXg4QW5aSjlIZkR6eUczSTBKTmtzMEExQ20xbzV6MHVpWXc5NXZDZUxiQUZQQnZTUVNIQVpUN1VKYVB3?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 04:55:00 GMT",
-        "source": "데일리안",
-        "ageHours": 2.1
+        "title": "민주당 박범계·이해식 조국혁신당과 통합 엑스맨? 논의 없는 일방적 메시지가 원인 - Howl.Link",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE5YcDZ0bmFfSTNLanBVbGp4cnNyVHNNakNoR3RGU2xPdEhOblRtWGNGbjVOV1FCc3V2a2ZV?oc=5\" target=\"_blank\">민주당 박범계·이해식 조국혁신당과 통합 엑스맨? 논의 없는 일방적 메시지가 원인</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Howl.Link</font>",
+        "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5YcDZ0bmFfSTNLanBVbGp4cnNyVHNNakNoR3RGU2xPdEhOblRtWGNGbjVOV1FCc3V2a2ZV?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 06:44:30 GMT",
+        "source": "Howl.Link",
+        "ageHours": 0.4
       },
       "delivered": [],
       "archived": false
