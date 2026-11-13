@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T01:01:15.082Z",
+  "lastCheckedAt": "2026-11-13T01:11:16.754Z",
   "seenPostIds": {
-    "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
-      "seenAt": "2026-11-09T08:15:30.062Z",
-      "title": "홍준표 \"트럼프식 독주도 끝났다…이재명 SNS 정치도 도 넘었다\" - JTBC",
-      "targetName": "이재명"
-    },
-    "7J207J6s66qFIOuMgO2GteuguSAiU05T": {
-      "seenAt": "2026-11-09T08:15:30.062Z",
-      "title": "이재명 대통령 \"SNS에도 사람이 산다···'알고리즘'에 갇히지 않고 욕도 보고 비난도 본다\" - 대구MBC",
-      "targetName": "이재명"
-    },
     "7J207J6s66qFIOKAnFNOU+uKlCDrgrQg": {
       "seenAt": "2026-11-09T08:15:30.062Z",
       "title": "이재명 “SNS는 내 목숨줄”…“언론 접촉·현장 방문도 늘릴 것” - 주간조선",
@@ -2510,24 +2500,12 @@
       "seenAt": "2026-11-13T01:01:17.550Z",
       "title": "최인호 정무수석, 신장식 조국혁신당 대표 예방 - 뉴시스",
       "targetName": "신장식"
+    },
+    "2e1ed1fbdcc846d1da373a1d9f56c98b437abcc32ab3eaad8443dcc654f181c2": {
+      "seenAt": "2026-11-13T01:11:17.903Z",
+      "title": "Slotkin Statement After Trump Again Called for Her to be Prosecuted Over 90-Second Video - U.S. Senate (.gov)",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "2e1ed1fbdcc846d1da373a1d9f56c98b437abcc32ab3eaad8443dcc654f181c2",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Slotkin Statement After Trump Again Called for Her to be Prosecuted Over 90-Second Video - U.S. Senate (.gov)",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHFycG1DblMxUFBqbVdFZGZvRVJ4NG56RUJBQ0lOY3BNSGFPc0xwVjVsRGxlbExtQWl6X2VkQWxPa04yWnNiVF8yVDlxTnBhUWNOWGlrOGMtbDdfamZqaXFnX21JMHpxUy1vWC1DUS1NaVl5UFNLU3FqMU9qZkFkQTR4T180bENFdGlGczFvdWN2N19pTkNRNmRaLWlZalE1WUx2UDM0UHBSeC01WUJUMVpibVRCd0ZwRkZZQjlRWFlhSW9DUUZsYW85cw?oc=5\" target=\"_blank\">Slotkin Statement After Trump Again Called for Her to be Prosecuted Over 90-Second Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Senate (.gov)</font>",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHFycG1DblMxUFBqbVdFZGZvRVJ4NG56RUJBQ0lOY3BNSGFPc0xwVjVsRGxlbExtQWl6X2VkQWxPa04yWnNiVF8yVDlxTnBhUWNOWGlrOGMtbDdfamZqaXFnX21JMHpxUy1vWC1DUS1NaVl5UFNLU3FqMU9qZkFkQTR4T180bENFdGlGczFvdWN2N19pTkNRNmRaLWlZalE1WUx2UDM0UHBSeC01WUJUMVpibVRCd0ZwRkZZQjlRWFlhSW9DUUZsYW85cw?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 00:53:04 GMT",
-        "source": "U.S. Senate (.gov)",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

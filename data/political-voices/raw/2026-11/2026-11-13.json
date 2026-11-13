@@ -2804,5 +2804,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "2e1ed1fbdcc846d1da373a1d9f56c98b437abcc32ab3eaad8443dcc654f181c2",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Slotkin Statement After Trump Again Called for Her to be Prosecuted Over 90-Second Video - U.S. Senate (.gov)",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHFycG1DblMxUFBqbVdFZGZvRVJ4NG56RUJBQ0lOY3BNSGFPc0xwVjVsRGxlbExtQWl6X2VkQWxPa04yWnNiVF8yVDlxTnBhUWNOWGlrOGMtbDdfamZqaXFnX21JMHpxUy1vWC1DUS1NaVl5UFNLU3FqMU9qZkFkQTR4T180bENFdGlGczFvdWN2N19pTkNRNmRaLWlZalE1WUx2UDM0UHBSeC01WUJUMVpibVRCd0ZwRkZZQjlRWFlhSW9DUUZsYW85cw?oc=5\" target=\"_blank\">Slotkin Statement After Trump Again Called for Her to be Prosecuted Over 90-Second Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Senate (.gov)</font>",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHFycG1DblMxUFBqbVdFZGZvRVJ4NG56RUJBQ0lOY3BNSGFPc0xwVjVsRGxlbExtQWl6X2VkQWxPa04yWnNiVF8yVDlxTnBhUWNOWGlrOGMtbDdfamZqaXFnX21JMHpxUy1vWC1DUS1NaVl5UFNLU3FqMU9qZkFkQTR4T180bENFdGlGczFvdWN2N19pTkNRNmRaLWlZalE1WUx2UDM0UHBSeC01WUJUMVpibVRCd0ZwRkZZQjlRWFlhSW9DUUZsYW85cw?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 00:53:04 GMT",
+    "source": "U.S. Senate (.gov)",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Slotkin Statement After Trump Again Called for Her to be Prosecuted Over 90-Second Video",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

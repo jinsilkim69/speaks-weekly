@@ -2354,3 +2354,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Slotkin Statement After Trump Again Called for Her to be Prosecuted Over 90-Second Video - U.S. Senate (.gov)
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Slotkin Statement After Trump Again Called for Her to be Prosecuted Over 90-Second Video
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHFycG1DblMxUFBqbVdFZGZvRVJ4NG56RUJBQ0lOY3BNSGFPc0xwVjVsRGxlbExtQWl6X2VkQWxPa04yWnNiVF8yVDlxTnBhUWNOWGlrOGMtbDdfamZqaXFnX21JMHpxUy1vWC1DUS1NaVl5UFNLU3FqMU9qZkFkQTR4T180bENFdGlGczFvdWN2N19pTkNRNmRaLWlZalE1WUx2UDM0UHBSeC01WUJUMVpibVRCd0ZwRkZZQjlRWFlhSW9DUUZsYW85cw?oc=5)
+
+---
+
