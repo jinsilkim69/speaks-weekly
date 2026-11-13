@@ -5458,5 +5458,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "5c98d12ff53b213d8b40e029bc5b561d9aa33f879e684699decb3b9333660748",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "민주당 ‘친정청래계’ 3인 “최민희 감찰은 악의적 프레임 전환…김민석을 감찰해야” - KBS 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE95VGlrSC02dURUR0tKUGhGRVZ1QVZla3p5TVBLMWthQzFXbjRTNFl2ZV9NeDJYdC03U3VMWTBYWHBHSmM0MHl2TkhRdV9TX3hCWUROYUstMHhiWVE?oc=5\" target=\"_blank\">민주당 ‘친정청래계’ 3인 “최민희 감찰은 악의적 프레임 전환…김민석을 감찰해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95VGlrSC02dURUR0tKUGhGRVZ1QVZla3p5TVBLMWthQzFXbjRTNFl2ZV9NeDJYdC03U3VMWTBYWHBHSmM0MHl2TkhRdV9TX3hCWUROYUstMHhiWVE?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 00:50:00 GMT",
+    "source": "KBS 뉴스",
+    "ageHours": 12,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당 ‘친정청래계’ 3인 “최민희 감찰은 악의적 프레임 전환…김민석을 감찰해야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
