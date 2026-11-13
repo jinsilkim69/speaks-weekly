@@ -3914,3 +3914,29 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "한국 기독교인이여, 신천지와 왜 싸우지 않는가!" 송영길의 간곡한 호소문(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "한국 기독교인이여, 신천지와 왜 싸우지 않는가!" 송영길의 간곡한 호소문(261113 금요일 클립) 송영길 정구승 오윤혜
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDS0VpalA5SU5JT3VjNEpucUhsd0MtbjJZN3RiN1Z2c29Kb1R5b3FWaXpuLVJHZmQtMkNmbml3dlhtTmFSZU9vTlptRDlxWnp0c1R4YUhrY1ZTWWxzU2t0RXNR?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "한덕수, 석방 안될 것!" 법률가 송영길이 확신하는 진짜 이유 (261113 금요일 방송) 송영길 정구승 오윤혜 - 경향신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "한덕수, 석방 안될 것!" 법률가 송영길이 확신하는 진짜 이유 (261113 금요일 방송) 송영길 정구승 오윤혜
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zRkpLa08xcGZFMUNoMjZxQ2lodnptSW4tZEpFM1M4dW1JMjR3eThRdWx1ZGc5M3RnOTl2Y1dxT0pMaVN6SHBTSTduYlFKd0lucGR3UnNFSkR1SnBOTUVhV1p3?oc=5)
+
+---
+
