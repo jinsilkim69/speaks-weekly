@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T05:21:14.186Z",
+  "lastCheckedAt": "2026-11-13T05:31:14.727Z",
   "seenPostIds": {
-    "4oCYNDDrjIAg7ZuI66Co67OR4oCZIOyy": {
-      "seenAt": "2026-11-09T08:15:32.707Z",
-      "title": "‘40대 훈련병’ 천하람 “정말 죽는 줄...軍장병 노고 대단” - 서울경제",
-      "targetName": "천하람"
-    },
-    "7KGw6rWtLCDigJjslrTrpbTsi6Ag67Cc": {
-      "seenAt": "2026-11-09T08:15:33.169Z",
-      "title": "조국, ‘어르신 발 씻김’ 장갑 착용 논란에 “봉사자 모두 착용했다” - 주간경향",
-      "targetName": "조국"
-    },
-    "W+yGjeuztF0g7KGw6rWtLCDigJjslrTr": {
-      "seenAt": "2026-11-09T08:15:33.169Z",
-      "title": "[속보] 조국, ‘어르신 발 씻김’ 봉사 장갑 착용 논란에 “규칙 따른 것” - 경기일보",
-      "targetName": "조국"
-    },
     "7KGw6rWtICLrtInsgqzsnpAg66qo65GQ": {
       "seenAt": "2026-11-09T08:15:33.169Z",
       "title": "조국 \"봉사자 모두 장갑 꼈다\"… '발 씻김 봉사' 논란 해명 - 뉴시스",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-13T05:21:16.883Z",
       "title": "천하람 \"이혜훈 10개월 만에 송치…빨리 아파트 환수해야\" - 뉴스1",
       "targetName": "천하람"
+    },
+    "ecf46dc3f3e76c197019db2ff25d3b9aa863132b13c844815d104ebf689e0c69": {
+      "seenAt": "2026-11-13T05:31:15.800Z",
+      "title": "한동훈, 복당 贊 29%·反 40%...국힘 지지층선 贊 48% 反 39% [한국갤럽] - 중앙신문",
+      "targetName": "한동훈"
     }
   },
   "pending": []

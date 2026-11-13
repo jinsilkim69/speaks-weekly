@@ -2783,3 +2783,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 복당 贊 29%·反 40%...국힘 지지층선 贊 48% 反 39% [한국갤럽] - 중앙신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 복당 贊 29%·反 40%...국힘 지지층선 贊 48% 反 39%
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiogJBVV95cUxQc2U3SFhZTG5zbm1qbDdXQTAzNzlLVjF2c2JMQkxfOS00YTdZQkpzVi04bjY3T1pDRlpSZnlrRkdoQVo1ak9nTjRpbmxsbXZpYlNDZURpNmZkaDRHcnF6SGd1RmdFc0pPUnI0VXNLdHFzQnRPWVhEckxISWFmbEthNFU0cVUtWnJtTC04Z3dNWmstMkwtc3NoZ1JJdGVqbUx1MDFfX1ExQUFXWlJ3bUNiMEpKTm8yT2xPUWdtZkxXR2REOG5jRnE0a1pCTXVFdnhLSmJleVh5MUhoclBiS1JYTFVrOUFyN2VpMncxVGRvSDBpUXROVGRVdldZaFl6NjY1ZTQ3dk50M1h3RXEwMzRDTE1DbjBlQk10RVJOVVJUUjBMZw?oc=5)
+
+---
+
