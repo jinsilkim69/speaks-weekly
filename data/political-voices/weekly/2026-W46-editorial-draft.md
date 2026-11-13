@@ -3264,3 +3264,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 문진석, 한동훈에 반박…“尹 거짓말과 李 조작기소 구분해야” - 서울경제
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 문진석, 한동훈에 반박…“尹 거짓말과 李 조작기소 구분해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE96bVkyajNoTUxadzdUc3F1SXJuRVVzWThNV0tnWC1idl9yUVlyNFczYkwwM0ZFX01OMzVWQVBubEIzX1dQajZRbDNWZ0N5cjU3QlHSAVNBVV95cUxOQ25JREtzQkFSQzRsak9JOGJOZDlTWlVVYmJrVFpEVWl4cTFXTzNwTFZXMFhZdGNtaW03Rjk2SEU4SnJ4R0doVnd6bWpjQjQydFo5UQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국힘 ‘한동훈 징계조작 의혹’, 중진 나서며 갈등 재점화…친한계 “조작 확인시 장동혁 처벌해야” - 경향신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘 ‘한동훈 징계조작 의혹’, 중진 나서며 갈등 재점화…친한계 “조작 확인시 장동혁 처벌해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE83a3lKY1BvREtjakFTRE03N3k4Q1dLbzMtWEVaODNCOGJmRWxZTFlVOUhzOTk3TFBmX3MwLV9fVU1aekxhQ1cwdXBvUkY5MF8wdVBzSklEZ1R6d9IBX0FVX3lxTFBvdDI5LXlzZlR0NUUycm9IVVpfWHFJMnFwSXRiM2hLNms2cnFIOWdxNnVLbnZWeXNsZTIxVERHSy1lMUR5eVpIZmZNOFNaSkstcE1Mb3p5a3lRNV9XaEJB?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** "분열 야기 집단행동" vs "정청래 죽이기"…與, 친석-친청 대치 점입가경 - 뉴스1
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "분열 야기 집단행동" vs "정청래 죽이기"…與, 친석-친청 대치 점입가경
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE91dnhKQm44VEJGemQxSXZYcWd0N0I2bnIzQnJLLWUzZ3JNSXVWX2NHZHNjU1BGVlFPOUdSWlpna3hJalNjdjNlOUZhblVTTGhSYmtTMVI4Ym10QQ?oc=5)
+
+---
+

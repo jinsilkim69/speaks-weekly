@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T08:41:15.844Z",
+  "lastCheckedAt": "2026-11-13T08:41:59.766Z",
   "seenPostIds": {
-    "7Iah7JiB6ri4IOKAnOyLoOyynOyngCDs": {
-      "seenAt": "2026-11-09T08:18:25.850Z",
-      "title": "송영길 “신천지 조직적 침투 상당한 숫자 확인···전수조사 후 비상징계권 발동해야” - 주간경향",
-      "targetName": "송영길"
-    },
-    "7Iug7LKc7KeAIOyekOujjCDsl7Trnozt": {
-      "seenAt": "2026-11-09T08:18:25.850Z",
-      "title": "신천지 자료 열람한 중진들…송영길 \"전수조사\" vs 박범계 \"이쯤에서\" - 뉴스1",
-      "targetName": "송영길"
-    },
-    "7Iah7JiB6ri4ICLsi6Dsspzsp4Ag7KGw": {
-      "seenAt": "2026-11-09T08:18:25.850Z",
-      "title": "송영길 \"신천지 조직적 집단가입 정황 확인…전수조사, 엄정조치 촉구\" - 머니투데이 - 머니투데이",
-      "targetName": "송영길"
-    },
     "7Iah7JiB6ri4ICLsi6Dsspzsp4Ag7KCE": {
       "seenAt": "2026-11-09T08:18:25.850Z",
       "title": "송영길 \"신천지 전수조사로 당원 자격 박탈시켜야!\" #shorts - 오마이TV - OhmyNews",
@@ -2515,56 +2500,22 @@
       "seenAt": "2026-11-13T08:41:18.216Z",
       "title": "한동훈 “‘李·尹 재판 같다’ 최민희 말이 맞다…李, 시한부 대통령” - 시사저널",
       "targetName": "한동훈"
+    },
+    "5c6c3be81f5c36e4fd14473eeafeb0f6cad415f5d02038d9ce74baa31849be19": {
+      "seenAt": "2026-11-13T08:42:01.247Z",
+      "title": "문진석, 한동훈에 반박…“尹 거짓말과 李 조작기소 구분해야” - 서울경제",
+      "targetName": "한동훈"
+    },
+    "17b73cfb46895fe72a85d9a327d6b8a66c5d36a3e906535ab8d79050f8497159": {
+      "seenAt": "2026-11-13T08:42:02.032Z",
+      "title": "국힘 ‘한동훈 징계조작 의혹’, 중진 나서며 갈등 재점화…친한계 “조작 확인시 장동혁 처벌해야” - 경향신문",
+      "targetName": "한동훈"
+    },
+    "faa04e46255294b342e7eca66f53f564d2733a9ea526989fd0b4be3709d38ba7": {
+      "seenAt": "2026-11-13T08:42:02.813Z",
+      "title": "\"분열 야기 집단행동\" vs \"정청래 죽이기\"…與, 친석-친청 대치 점입가경 - 뉴스1",
+      "targetName": "정청래"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "5c6c3be81f5c36e4fd14473eeafeb0f6cad415f5d02038d9ce74baa31849be19",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "문진석, 한동훈에 반박…“尹 거짓말과 李 조작기소 구분해야” - 서울경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE96bVkyajNoTUxadzdUc3F1SXJuRVVzWThNV0tnWC1idl9yUVlyNFczYkwwM0ZFX01OMzVWQVBubEIzX1dQajZRbDNWZ0N5cjU3QlHSAVNBVV95cUxOQ25JREtzQkFSQzRsak9JOGJOZDlTWlVVYmJrVFpEVWl4cTFXTzNwTFZXMFhZdGNtaW03Rjk2SEU4SnJ4R0doVnd6bWpjQjQydFo5UQ?oc=5\" target=\"_blank\">문진석, 한동훈에 반박…“尹 거짓말과 李 조작기소 구분해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96bVkyajNoTUxadzdUc3F1SXJuRVVzWThNV0tnWC1idl9yUVlyNFczYkwwM0ZFX01OMzVWQVBubEIzX1dQajZRbDNWZ0N5cjU3QlHSAVNBVV95cUxOQ25JREtzQkFSQzRsak9JOGJOZDlTWlVVYmJrVFpEVWl4cTFXTzNwTFZXMFhZdGNtaW03Rjk2SEU4SnJ4R0doVnd6bWpjQjQydFo5UQ?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 08:35:23 GMT",
-        "source": "서울경제",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "17b73cfb46895fe72a85d9a327d6b8a66c5d36a3e906535ab8d79050f8497159",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "국힘 ‘한동훈 징계조작 의혹’, 중진 나서며 갈등 재점화…친한계 “조작 확인시 장동혁 처벌해야” - 경향신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE83a3lKY1BvREtjakFTRE03N3k4Q1dLbzMtWEVaODNCOGJmRWxZTFlVOUhzOTk3TFBmX3MwLV9fVU1aekxhQ1cwdXBvUkY5MF8wdVBzSklEZ1R6d9IBX0FVX3lxTFBvdDI5LXlzZlR0NUUycm9IVVpfWHFJMnFwSXRiM2hLNms2cnFIOWdxNnVLbnZWeXNsZTIxVERHSy1lMUR5eVpIZmZNOFNaSkstcE1Mb3p5a3lRNV9XaEJB?oc=5\" target=\"_blank\">국힘 ‘한동훈 징계조작 의혹’, 중진 나서며 갈등 재점화…친한계 “조작 확인시 장동혁 처벌해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83a3lKY1BvREtjakFTRE03N3k4Q1dLbzMtWEVaODNCOGJmRWxZTFlVOUhzOTk3TFBmX3MwLV9fVU1aekxhQ1cwdXBvUkY5MF8wdVBzSklEZ1R6d9IBX0FVX3lxTFBvdDI5LXlzZlR0NUUycm9IVVpfWHFJMnFwSXRiM2hLNms2cnFIOWdxNnVLbnZWeXNsZTIxVERHSy1lMUR5eVpIZmZNOFNaSkstcE1Mb3p5a3lRNV9XaEJB?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 07:37:00 GMT",
-        "source": "경향신문",
-        "ageHours": 1.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "faa04e46255294b342e7eca66f53f564d2733a9ea526989fd0b4be3709d38ba7",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "\"분열 야기 집단행동\" vs \"정청래 죽이기\"…與, 친석-친청 대치 점입가경 - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE91dnhKQm44VEJGemQxSXZYcWd0N0I2bnIzQnJLLWUzZ3JNSXVWX2NHZHNjU1BGVlFPOUdSWlpna3hJalNjdjNlOUZhblVTTGhSYmtTMVI4Ym10QQ?oc=5\" target=\"_blank\">\"분열 야기 집단행동\" vs \"정청래 죽이기\"…與, 친석-친청 대치 점입가경</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91dnhKQm44VEJGemQxSXZYcWd0N0I2bnIzQnJLLWUzZ3JNSXVWX2NHZHNjU1BGVlFPOUdSWlpna3hJalNjdjNlOUZhblVTTGhSYmtTMVI4Ym10QQ?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 03:09:21 GMT",
-        "source": "뉴스1",
-        "ageHours": 5.5
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
