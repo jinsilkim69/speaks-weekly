@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-13T22:21:15.824Z",
+  "lastCheckedAt": "2026-11-13T22:31:15.410Z",
   "seenPostIds": {
     "7J207J6s66qFIOuMgO2GteugueqzvCDr": {
       "seenAt": "2026-11-10T08:17:11.457Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-13T21:31:17.692Z",
       "title": "오세훈·이준석, 시청서 조찬 회동…정책 현안 논의 - 서울경제",
       "targetName": "이준석"
+    },
+    "31268a7f56381a80c8ddbaf514c42e265aaa1d8f50006dd5f27b6690b6dacdd7": {
+      "seenAt": "2026-11-13T22:31:16.536Z",
+      "title": "조국도 김민석 저격?…\"민주당, 합당 결사 반대했던 이들이 찬성론자인 양…\" - 프레시안",
+      "targetName": "김민석"
     }
   },
   "pending": []
