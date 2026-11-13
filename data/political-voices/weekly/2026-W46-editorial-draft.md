@@ -2471,3 +2471,29 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 담배 세수 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의 - KBC광주방송
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 담배 세수 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGb3p1QXpkMWUwYVN0MEVOLUk0eTlBcXBCdlo0a1B1QUQ5Yk5IMG1pLVlYYkVVRkNJVVcxMjFhRjZ2U1llbTN1ckJfRFVMTUh4LVBHUy1ncHY0U2t5WHVPbQ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 의원, ‘농지 총량 보전법’ 발의 - 농업인신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 의원, ‘농지 총량 보전법’ 발의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ERm9vVlJjM2FJeDllYlNheXBDczAtazh0bVNvREZ2VzFpVTROTVpHalNfTW9mRTRuWS1HajBVTmZmMnhLZml4VFE0QW9KeDJzNXRzakFvN19LWVJhbk1yZ1I0UHRnbFcyWEVNOA?oc=5)
+
+---
+
