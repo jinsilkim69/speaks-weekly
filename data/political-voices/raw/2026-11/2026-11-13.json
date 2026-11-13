@@ -2829,5 +2829,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "ac0e12376e2ed9aef479319eee612d4319e384f3c0d8fe86abf6558bd282df3f",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "“조작 징계” 의혹에 갈라진 국힘…한동훈 복당·장동혁 연임 변수 되나 - 아이엠피터뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1mbk9xdV83NVpUTmZHeDczclV1OHVsUVFQVlNKNUNEdTVJU3NsVW1UUWFGbGZ0OGdwZDI4eVI5UUZLM0dSLXA5WUwzYUdnVzVCTGVTMV96RHJzc2ZTMmpybFl1WlU3dlI5OWRERw?oc=5\" target=\"_blank\">“조작 징계” 의혹에 갈라진 국힘…한동훈 복당·장동혁 연임 변수 되나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아이엠피터뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mbk9xdV83NVpUTmZHeDczclV1OHVsUVFQVlNKNUNEdTVJU3NsVW1UUWFGbGZ0OGdwZDI4eVI5UUZLM0dSLXA5WUwzYUdnVzVCTGVTMV96RHJzc2ZTMmpybFl1WlU3dlI5OWRERw?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 01:07:31 GMT",
+    "source": "아이엠피터뉴스",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “조작 징계” 의혹에 갈라진 국힘…한동훈 복당·장동혁 연임 변수 되나",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "aab9ebb6b94a0ab0af734258855cfaeb71f43123f068e3c7966fe5247ea41da4",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "‘신천지 3자 비밀연합’, 정청래·김민석 만남으로 풀 수 없는 이유 : 민주당 ‘당원 절반’의 분노와 상처 - 허프포스트코리아",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FRXB2SE1KT3VPSkVvNXp5YnVXT05Dd2ZNX0YyS1VZNW53N21KcUxHRVZOTEtBdE5RQUhoY21iT2F2SkFlOWxiTVl2R2Z3cTZaY25vaEFIZw?oc=5\" target=\"_blank\">‘신천지 3자 비밀연합’, 정청래·김민석 만남으로 풀 수 없는 이유 : 민주당 ‘당원 절반’의 분노와 상처</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">허프포스트코리아</font>",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FRXB2SE1KT3VPSkVvNXp5YnVXT05Dd2ZNX0YyS1VZNW53N21KcUxHRVZOTEtBdE5RQUhoY21iT2F2SkFlOWxiTVl2R2Z3cTZaY25vaEFIZw?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 05:55:39 GMT",
+    "source": "허프포스트코리아",
+    "ageHours": 19.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘신천지 3자 비밀연합’, 정청래·김민석 만남으로 풀 수 없는 이유 : 민주당 ‘당원 절반’의 분노와 상처",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

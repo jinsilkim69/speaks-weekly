@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T01:11:16.754Z",
+  "lastCheckedAt": "2026-11-13T01:21:15.750Z",
   "seenPostIds": {
-    "7J207J6s66qFIOKAnFNOU+uKlCDrgrQg": {
-      "seenAt": "2026-11-09T08:15:30.062Z",
-      "title": "이재명 “SNS는 내 목숨줄”…“언론 접촉·현장 방문도 늘릴 것” - 주간조선",
-      "targetName": "이재명"
-    },
     "7J207J6s66qFIOuMgO2GteuguSDigJxT": {
       "seenAt": "2026-11-09T08:15:30.062Z",
       "title": "이재명 대통령 “SNS에도 국민이 산다…논란 두려워 소통 피하지 않을 것” - 강원일보",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-13T01:11:17.903Z",
       "title": "Slotkin Statement After Trump Again Called for Her to be Prosecuted Over 90-Second Video - U.S. Senate (.gov)",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ac0e12376e2ed9aef479319eee612d4319e384f3c0d8fe86abf6558bd282df3f": {
+      "seenAt": "2026-11-13T01:21:16.776Z",
+      "title": "“조작 징계” 의혹에 갈라진 국힘…한동훈 복당·장동혁 연임 변수 되나 - 아이엠피터뉴스",
+      "targetName": "한동훈"
+    },
+    "aab9ebb6b94a0ab0af734258855cfaeb71f43123f068e3c7966fe5247ea41da4": {
+      "seenAt": "2026-11-13T01:21:17.377Z",
+      "title": "‘신천지 3자 비밀연합’, 정청래·김민석 만남으로 풀 수 없는 이유 : 민주당 ‘당원 절반’의 분노와 상처 - 허프포스트코리아",
+      "targetName": "정청래"
     }
   },
   "pending": []
