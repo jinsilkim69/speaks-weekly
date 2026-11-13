@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T18:31:18.056Z",
+  "lastCheckedAt": "2026-11-13T18:41:21.477Z",
   "seenPostIds": {
-    "VHJ1bXAgTWVkaWEgY2FzaGVzIGluIG9u": {
-      "seenAt": "2026-11-10T00:57:32.088Z",
-      "title": "Trump Media cashes in on high-speed access to social media posts - NBC News",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "VHJ1bXAgUG9zdHMgQUkgVmlkZW9zIE9m": {
       "seenAt": "2026-11-10T00:57:32.088Z",
       "title": "Trump Posts AI Videos Of Dana White As Press Secretary—Despite Saying He Was ‘Kidding’ With Job Offer - Forbes",
@@ -2504,6 +2499,11 @@
     "098052f12bd6462da929cc67f61b76d054ce79fc94d319f7d14d4abe321addae": {
       "seenAt": "2026-11-13T18:31:19.422Z",
       "title": "이재명 대통령, 증시 개혁 칼 뺐다.. 부실기업 퇴출·주가조작 엄단 > 뉴스 - 지데일리",
+      "targetName": "이재명"
+    },
+    "dcb95ac234db25f59ac2edd2cd0f25174325335bd6c2d724cf7019ccbe3e99be": {
+      "seenAt": "2026-11-13T18:41:22.521Z",
+      "title": "최민희 “통일교가 김민석 밀었다…이재명 대통령도 ‘윤석열 하야’ 쪽이었다\" - JTBC",
       "targetName": "이재명"
     }
   },
