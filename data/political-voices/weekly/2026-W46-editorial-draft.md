@@ -3901,3 +3901,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "최민희 말이 맞아…李대통령, 재판만 열리면 끝나는 시한부" - 매일신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "최민희 말이 맞아…李대통령, 재판만 열리면 끝나는 시한부"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lanU2anVUMHptbmFEdml4N2pxNnp6aFVINUUzTGlOYjRuRGFqbnlVMmRjNkNNQmI3d3Fzd1F4UHhpWkpHb05nTW9HWlZQUFZlclRyLU0xaGx6bTVBSXliRGFB?oc=5)
+
+---
+
