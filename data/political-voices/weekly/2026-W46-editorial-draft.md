@@ -3823,3 +3823,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 자본시장 정책 간담회 후 시민 소통 - 시사일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 자본시장 정책 간담회 후 시민 소통
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBQcExsbl9CU2dueXc1VnA0RjFlZEZ2dnVwbFpuWDQwZWI2UnRYcnVQM0Jzb2FjRTcyUVQ0OG4wVGctNVcycEExY3g3WHg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 친청계 최고위원 3인 "지금 윤리감찰을 해야할 사람은 김민석" - 굿모닝충청
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 친청계 최고위원 3인 "지금 윤리감찰을 해야할 사람은 김민석"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE4zanZmZUxNQmRLekp1R1Z4OE42Tk1vdC05OU1zNVZjdmtfWEtMRjBoeEZlMEplR1dDWDVNalkxTEt1dmRNQlpCTy1JTFFjVVBxLWhWZ0tMNmRFanBPRmp0QnNtVDFyMExSSmh6dHE1M285dw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** [장문기의 여의주(住)] AI에 이어 비만치료제…이준석의 무기는 집요함 - 아주경제
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] AI에 이어 비만치료제…이준석의 무기는 집요함
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfNWFTN0h6Mk43WFNJWW1rSXhZbk1tYkVDQi1McFBvbkR1Ymtaa1RlUXM4WHBQczgyLVNJTnZMbUxia2poZ1p4OUMzbkhpWWtfQjloeWdGTnltd9IBWEFVX3lxTE1tcFRZZGVWMld3b0hDUkRKekVfVkd4RHJ5b05vM3ljLUN0YWZVYmxQdkVLZVhXODJTckhOajVWTHAyLUdLZV8xY0ViX0NudVFpcDhHd0YwUWg?oc=5)
+
+---
+
