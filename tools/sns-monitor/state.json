@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T16:21:17.146Z",
+  "lastCheckedAt": "2026-11-13T16:31:18.484Z",
   "seenPostIds": {
-    "6ri47Ja07KeA64qUICfsi6Dsspzsp4Ag": {
-      "seenAt": "2026-11-10T00:57:30.385Z",
-      "title": "길어지는 '신천지 내홍'…김민석·정청래에 고개 드는 갈등봉합 요구 - 뉴스1",
-      "targetName": "정청래"
-    },
     "7Iah7JiB6ri4ICLsi6Dsspzsp4Ag6IiH": {
       "seenAt": "2026-11-10T00:57:30.652Z",
       "title": "송영길 \"신천지 與 조직적 침투·입당 확인…전수조사하고 자격 박탈해야\" - 매일신문",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-13T16:21:18.622Z",
       "title": "\"신주쿠 한인 가게, 500개 늘어\" 이잼의 실용외교가 바꿔놓은 재일동포의 삶(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문",
       "targetName": "송영길"
+    },
+    "cd01bcd18d317b8eeb81166764f76663f5c6749a129b86096a8910097f149ed2": {
+      "seenAt": "2026-11-13T16:31:20.027Z",
+      "title": "President Trump floated this Alabama ‘legend’ as a surprise candidate to become Nvidia’s CEO - AL.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

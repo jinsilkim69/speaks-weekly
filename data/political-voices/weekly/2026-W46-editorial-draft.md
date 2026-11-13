@@ -4070,3 +4070,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** President Trump floated this Alabama ‘legend’ as a surprise candidate to become Nvidia’s CEO - AL.com
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] President Trump floated this Alabama ‘legend’ as a surprise candidate to become Nvidia’s CEO
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMixAFBVV95cUxPOVVuRlVCRi1RMGlMRy1uWFdxaXNWTDZJeUNsMDc2a20wMHROb1ZKSFFHOWtxWm53REFyQ01kSUV2N204SHNNQXZkblZIak5pQUNyRENFbl83akFqMEpha0l1Q0lzV0xwbFQ1NHQyZEhpVVZvdE96bGd0dTNZMVZvTXNIMDgzMlJLNlBYMS1WNk5LVG1GUHFwMVNjWUhGdTRGRE5tM1JGRGttdGM3XzU4UE5pcnNsbDlfZUQycW5XZTdJUS1H0gHYAUFVX3lxTE5ZZlNubUcxU3ByeGdpOFRwRWtsdkVzT3d2ZzN4bGxrbnRGdnpXSXBKYW5jX2dNNXBEc1FSQTZMOFhjSm9WelIwMkV4alhESHM5RkRMV3hscVVPVHkxOHpla0ZxakpWY19rblJEQ3Axd0lQMVFwUDN3b1RYbDZ4NF9rV2dOQklpeUlITDBsdXk2SGlKeFdJRWVZSDUzOFhnNDBQY0lwLVRWcGFJdGs3UU1lWDNWYjdJTXRUQzluVkROR0dqRTBfNHFDc1k2M2VXREpFbk1DLVFXeA?oc=5)
+
+---
+
