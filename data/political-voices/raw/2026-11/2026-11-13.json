@@ -5183,5 +5183,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6feca8ed30fb12d19654769b3f8af770928c5c20e426b4aacececc340bc32ad2",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석 \"한동훈, 보수 쪽 작살내…총선도 화끈하게 져\" - 조세일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEb091Qlp4eUJyTDBNSlo5M0QwZnhfYXlIWEMyNnNQRVU2UWNUUTVmLUMyQU96MVNsUmRtYmRvVVNucmJyZnZMenVna0NpQ0hrQWpjQnYxTDdHQms4UnhF?oc=5\" target=\"_blank\">이준석 \"한동훈, 보수 쪽 작살내…총선도 화끈하게 져\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEb091Qlp4eUJyTDBNSlo5M0QwZnhfYXlIWEMyNnNQRVU2UWNUUTVmLUMyQU96MVNsUmRtYmRvVVNucmJyZnZMenVna0NpQ0hrQWpjQnYxTDdHQms4UnhF?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 07:57:14 GMT",
+    "source": "조세일보",
+    "ageHours": 2.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석 \"한동훈, 보수 쪽 작살내…총선도 화끈하게 져\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
