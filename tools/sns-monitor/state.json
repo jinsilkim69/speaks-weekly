@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T15:01:16.750Z",
+  "lastCheckedAt": "2026-11-13T15:11:16.147Z",
   "seenPostIds": {
-    "VHJ1bXAgY2xhaW1zIGVsZWN0aW9uIGZy": {
-      "seenAt": "2026-11-09T17:49:10.769Z",
-      "title": "Trump claims election fraud without evidence to excuse midterm rebuke - Politico",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "VHJ1bXAgcXVlc3Rpb25zIG1pZHRlcm0g": {
       "seenAt": "2026-11-09T17:49:10.769Z",
       "title": "Trump questions midterm election results, revives voting-machine conspiracy - CNBC",
@@ -2507,5 +2502,24 @@
       "targetName": "이준석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "4d0976c69a584b701c671422269b98acc6da46b2ef963dc6460c8554b931282e",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "계파 갈등에 막힌 김민석, 강경 투쟁에 갇힌 장동혁 - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VcHJFT19SU3JJX1ZCbVdQN2dIcXBMaENQb0FfX29jRWFKSGxneTM4N3p3dmd3X3JCTWJud0tENEFocngwT0ZWSWRURjNINUtoQWtVNEN3?oc=5\" target=\"_blank\">계파 갈등에 막힌 김민석, 강경 투쟁에 갇힌 장동혁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VcHJFT19SU3JJX1ZCbVdQN2dIcXBMaENQb0FfX29jRWFKSGxneTM4N3p3dmd3X3JCTWJud0tENEFocngwT0ZWSWRURjNINUtoQWtVNEN3?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 15:01:00 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.2
+      },
+      "delivered": [
+        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
+      ],
+      "archived": false
+    }
+  ]
 }
