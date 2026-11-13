@@ -3708,5 +3708,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "2dbb7fdf891383746730601886ada2df4a686751fd6981ce9bd2c74338034584",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "양당 통합 진행중이란 민주당…조국혁신당 \"1㎜도 없어\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBRTVg4NGtOaUVOYVVkekEyVF81WTdkTDEzdmJreC1QeHo5dTVoT3M2aXUzSE1WSWxIeW4zWTVnMUxvLTQzVUZfTGk0TlZKUmM4SXFQQXJaUWZib0QyLWZlNnA1SS1hdXJ1QW1KT9IBckFVX3lxTFBSTGpqTEdvandBeGdZTXBwVUVIa0drbmc4UGJLX1FWTGhGekxmN3IwOGlsaVVEUWZpYzJxdWJIWV9vNWZrLW5IbEVvT0RTR2VUSlA0S0xRcHNZTTlDZUlIMHctaTZERTBYdEhGVHUwSTVsQQ?oc=5\" target=\"_blank\">양당 통합 진행중이란 민주당…조국혁신당 \"1㎜도 없어\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRTVg4NGtOaUVOYVVkekEyVF81WTdkTDEzdmJreC1QeHo5dTVoT3M2aXUzSE1WSWxIeW4zWTVnMUxvLTQzVUZfTGk0TlZKUmM4SXFQQXJaUWZib0QyLWZlNnA1SS1hdXJ1QW1KT9IBckFVX3lxTFBSTGpqTEdvandBeGdZTXBwVUVIa0drbmc4UGJLX1FWTGhGekxmN3IwOGlsaVVEUWZpYzJxdWJIWV9vNWZrLW5IbEVvT0RTR2VUSlA0S0xRcHNZTTlDZUlIMHctaTZERTBYdEhGVHUwSTVsQQ?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 06:18:07 GMT",
+    "source": "머니투데이",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 양당 통합 진행중이란 민주당…조국혁신당 \"1㎜도 없어\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
