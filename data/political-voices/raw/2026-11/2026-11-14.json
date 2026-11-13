@@ -473,5 +473,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d9d116d03790ded749658b38599f82e12ef98033314b51244ddecf6a434a6224",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 100일도 안돼 ‘명·청 정면충돌’ - 조선일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQeG13Zkg5NDFJWnpyN0VJLVI5YzNsemcyUWctOFBSVWt2R1NBQ0M0WkdmeE5PbGJtUUQxZF93TTNTUE5GWFhDS0dYdUU3SlZqWnpfT0tBcEtFdDFTN0VoRlZvWDZXQktlQnBKNkEzdzVFdHJScjE2OWVXQkVqU3F4NUtVV3h3QQ?oc=5\" target=\"_blank\">김민석 100일도 안돼 ‘명·청 정면충돌’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeG13Zkg5NDFJWnpyN0VJLVI5YzNsemcyUWctOFBSVWt2R1NBQ0M0WkdmeE5PbGJtUUQxZF93TTNTUE5GWFhDS0dYdUU3SlZqWnpfT0tBcEtFdDFTN0VoRlZvWDZXQktlQnBKNkEzdzVFdHJScjE2OWVXQkVqU3F4NUtVV3h3QQ?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 15:39:00 GMT",
+    "source": "조선일보",
+    "ageHours": 5.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 100일도 안돼 ‘명·청 정면충돌’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
