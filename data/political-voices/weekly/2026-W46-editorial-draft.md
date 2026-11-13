@@ -4005,3 +4005,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump calls for prosecuting 'seditious six.' What Slotkin said back - Lansing State Journal
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump calls for prosecuting 'seditious six.' What Slotkin said back
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaFdXN0hLbGlUUVlORFRXTVhyNXBYTllXTkFUS0FJbXVXVmtVSjBuaGh5bE0wTnliMmI1VXEtQjRHZXBKTVJZLUhfTWpON3BLU3pJNHVIT0U3TlF6MjI5enE1TnU2ZTdTRXhtU2Z1aWY4Z0RQN25palgyUzdIUElxcHRUX1ZfbU9pdjk3YnduYURTVzROMmdBbnhhd1NVMmxMcjJqNWZSZFpiYmxkZVJocnFsa3hIX1BoQUl3VlRsb0ZFbUF5bW1nUzc1WHI2RC15eG95Nzl3?oc=5)
+
+---
+

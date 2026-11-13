@@ -123,5 +123,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "169979796e3457b4bd06b75352e295003eba1ac4d95b489a7f527b1a7d63f9f3",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump calls for prosecuting 'seditious six.' What Slotkin said back - Lansing State Journal",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaFdXN0hLbGlUUVlORFRXTVhyNXBYTllXTkFUS0FJbXVXVmtVSjBuaGh5bE0wTnliMmI1VXEtQjRHZXBKTVJZLUhfTWpON3BLU3pJNHVIT0U3TlF6MjI5enE1TnU2ZTdTRXhtU2Z1aWY4Z0RQN25palgyUzdIUElxcHRUX1ZfbU9pdjk3YnduYURTVzROMmdBbnhhd1NVMmxMcjJqNWZSZFpiYmxkZVJocnFsa3hIX1BoQUl3VlRsb0ZFbUF5bW1nUzc1WHI2RC15eG95Nzl3?oc=5\" target=\"_blank\">Trump calls for prosecuting 'seditious six.' What Slotkin said back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lansing State Journal</font>",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaFdXN0hLbGlUUVlORFRXTVhyNXBYTllXTkFUS0FJbXVXVmtVSjBuaGh5bE0wTnliMmI1VXEtQjRHZXBKTVJZLUhfTWpON3BLU3pJNHVIT0U3TlF6MjI5enE1TnU2ZTdTRXhtU2Z1aWY4Z0RQN25palgyUzdIUElxcHRUX1ZfbU9pdjk3YnduYURTVzROMmdBbnhhd1NVMmxMcjJqNWZSZFpiYmxkZVJocnFsa3hIX1BoQUl3VlRsb0ZFbUF5bW1nUzc1WHI2RC15eG95Nzl3?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 13:29:00 GMT",
+    "source": "Lansing State Journal",
+    "ageHours": 2.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump calls for prosecuting 'seditious six.' What Slotkin said back",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
