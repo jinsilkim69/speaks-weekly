@@ -3602,3 +3602,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 최민희 감찰 지시에 ‘친정청래계’ 공개 반발…민주당 ‘내홍’ 폭발 - KBS 뉴스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 감찰 지시에 ‘친정청래계’ 공개 반발…민주당 ‘내홍’ 폭발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0d1V1VDFxQm1GNXRsSHBnd29Ib05kVExJbXpoc0prdkFFekV0Y2VwOTlPa1dBVHVrSlQtdXd3bW5reXhEZkRPd2ExY25qV0k1OEg4Sl9oNTdNZTg?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 오세훈·이준석 조찬 회동…동탄 광역버스 등 정책 논의 - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈·이준석 조찬 회동…동탄 광역버스 등 정책 논의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xQ0ZtZ1Z2dmFMb3ZzMDFEMFV0TUdPSjVQZFhzR2NlMXRLMVp6SHhVZlMybUJxbjlzaWUyczlJNkFja2tDWmNnMGd5YlNQYV9nWUk1SVhmT1pkSjNrblBqaVRuWkxnZG84X0JwemFR0gF4QVVfeXFMTnNKT095ekE2TmNOamw0Uk5OZmtzTlotR3UzTDhPS05Vd3drTnYzU2lDUG5hTl9Hejl0RUxFX0lEZkQyaGNUbzhGak40a0JqWVJvelNFbG16STJjcVB0Unpub2JDb1h2bFpkR1lXM05ES29ETTRCSlhp?oc=5)
+
+---
+
