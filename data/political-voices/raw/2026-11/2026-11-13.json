@@ -4183,5 +4183,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "9600c1d36f289d6b25fe44303abf3bc8b1bb42578e07b553cb7f8a96923fd094",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "'한동훈 복당' 놓고 갈등 증폭...장동혁은 안철수와 회동 - 파이낸셜뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mazBQN0VDTGtCb3pFQTVpaGpoVENfbXlKTGNrLW1meDlxQklJd1pmOU5TcVJ4OHFFLXdvR2Q5ZEJ2MWIydEJaR2NXVFg5WGZackJOT3ZSUmpsQQ?oc=5\" target=\"_blank\">'한동훈 복당' 놓고 갈등 증폭...장동혁은 안철수와 회동</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸셜뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mazBQN0VDTGtCb3pFQTVpaGpoVENfbXlKTGNrLW1meDlxQklJd1pmOU5TcVJ4OHFFLXdvR2Q5ZEJ2MWIydEJaR2NXVFg5WGZackJOT3ZSUmpsQQ?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 07:23:49 GMT",
+    "source": "파이낸셜뉴스",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '한동훈 복당' 놓고 갈등 증폭...장동혁은 안철수와 회동",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
