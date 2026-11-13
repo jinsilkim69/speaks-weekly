@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T09:21:16.935Z",
+  "lastCheckedAt": "2026-11-13T09:31:17.555Z",
   "seenPostIds": {
-    "67mE7IOB64yA7LGF7JyE7JuQ7ZqM7J2Y": {
-      "seenAt": "2026-11-09T08:18:26.501Z",
-      "title": "비상대책위원회의서 발언하는 천하람 원내대표 - 뉴스핌",
-      "targetName": "천하람"
-    },
-    "6rCV7Iug7LKgIOKAnOycoeyCrCDsnbTs": {
-      "seenAt": "2026-11-09T08:18:26.501Z",
-      "title": "강신철 “육사 이전, 여러 안 중 하나”…천하람 “왜 육사만” - 헤럴드경제 미주판",
-      "targetName": "천하람"
-    },
-    "7KGw6rWtLCAn7J6l6rCR64G86rOgIOuw": {
-      "seenAt": "2026-11-09T08:18:26.811Z",
-      "title": "조국, '장갑끼고 발 씻김 봉사' 논란에 \"기관 규칙 따른 것\" 반박 - 데일리안",
-      "targetName": "조국"
-    },
     "7KGw6rWtIOKAmOuwnCDslLvquLAg67SJ": {
       "seenAt": "2026-11-09T08:18:26.811Z",
       "title": "조국 ‘발 씻기 봉사 장갑’ 논란에 “기관 규칙 따른 것” - 채널A",
@@ -2515,6 +2500,16 @@
       "seenAt": "2026-11-13T09:21:19.310Z",
       "title": "조국 \"신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄\" - 뉴시스",
       "targetName": "조국"
+    },
+    "66525d50809ca69501923d7b1e88d414afb1851897275359a7c1a8f28ee839e7": {
+      "seenAt": "2026-11-13T09:31:19.639Z",
+      "title": "[여론조사on] 이재명 대통령 지지율 39% 답보… 민주 39%·국힘 26% 격차 '두 자릿수' 확대 - www.issueon.co.kr",
+      "targetName": "이재명"
+    },
+    "383cdc2693bf52f8bc027af994b358d165b9cd5dc2165a3cde7c0b5692b1a1d8": {
+      "seenAt": "2026-11-13T09:31:20.412Z",
+      "title": "이준석 `한동훈은 `욕쟁이 할머니` 집…그런데 맛도 없어` - 매일신문",
+      "targetName": "이준석"
     }
   },
   "pending": []

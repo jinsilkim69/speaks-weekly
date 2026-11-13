@@ -3433,3 +3433,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [여론조사on] 이재명 대통령 지지율 39% 답보… 민주 39%·국힘 26% 격차 '두 자릿수' 확대 - www.issueon.co.kr
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 지지율 39% 답보… 민주 39%·국힘 26% 격차 '두 자릿수' 확대
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE5NNFlRM0QxTFRIYUZ2ZHVkb1VEMHNHSXhkWlVlTEo5akhtR01feXIxLXJBdF9RNWJXUFdrcDNmVFZ2a3pUMldxdDhseWM1S182TkhkYmkyTi1SVWR1THNyeUhmTDcwVV85OTdj?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 `한동훈은 `욕쟁이 할머니` 집…그런데 맛도 없어` - 매일신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 `한동훈은 `욕쟁이 할머니` 집…그런데 맛도 없어`
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DVmN5NWNkb0U0bUhTeTA1Y1EwMmNlbG1IY3h1emFObHdIQVZfX096RGlvUzdVUXM2ZnN6eDRIbTVtX3pUNmJ0MUQxcHRycXdQWVJURDZ0cGVtSWF2ajNRUHNR?oc=5)
+
+---
+
