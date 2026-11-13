@@ -2955,5 +2955,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "864c3d986c1393dd98a5a31339790004c87ff769b86acb257431cc7e8e8733bd",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "민주당 \"김민석‧조국 곧 만날 것\"...조국 \"신뢰 회복이 먼저\" - 조선일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3VHdnlSV0ZTdWRWclpmMUhVMHU2dHkyXzhkSWVoZW03MjNKTXpJVXAxVnh2X0EtY1Y4bUZlcjFuU254NU9LQ3hJa3dnRnNVTERiYUlHS2VGTXhobnRxcVhFTDl0cmU5bGxVV3ZVa2tVNThKc0FrYzhHSkVpYmQ3bDNGTGFWMl9BOUNpUFo2cFE?oc=5\" target=\"_blank\">민주당 \"김민석‧조국 곧 만날 것\"...조국 \"신뢰 회복이 먼저\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3VHdnlSV0ZTdWRWclpmMUhVMHU2dHkyXzhkSWVoZW03MjNKTXpJVXAxVnh2X0EtY1Y4bUZlcjFuU254NU9LQ3hJa3dnRnNVTERiYUlHS2VGTXhobnRxcVhFTDl0cmU5bGxVV3ZVa2tVNThKc0FrYzhHSkVpYmQ3bDNGTGFWMl9BOUNpUFo2cFE?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 01:24:00 GMT",
+    "source": "조선일보",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당 \"김민석‧조국 곧 만날 것\"...조국 \"신뢰 회복이 먼저\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "f57d81a6ceebcf5df0e5875d84c8d12acfb0603aadf7c81161437f4f3f46a39b",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 “허위 비방·색깔론은 정치의 암”…민주당에 재차 사과 요구 - 매일경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kTW81VGRhdUZmR1BvbEJEM2dCSl9mM2d1RGJza2QzRjNWbFQ0YjF5aXdFd2o4dXo2cllCclRRNDRFSmF5YWc?oc=5\" target=\"_blank\">조국 “허위 비방·색깔론은 정치의 암”…민주당에 재차 사과 요구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kTW81VGRhdUZmR1BvbEJEM2dCSl9mM2d1RGJza2QzRjNWbFQ0YjF5aXdFd2o4dXo2cllCclRRNDRFSmF5YWc?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 00:41:43 GMT",
+    "source": "매일경제",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 “허위 비방·색깔론은 정치의 암”…민주당에 재차 사과 요구",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "b0ad1973dac62e8bcb9ae061753b2449cd698cfb44bf4b532c6f600ce095e672",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump points to Senate Republicans over midterm losses: ‘Devastating’ - The Hill",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQRTlsNnpadEhSSjNoUWtHbmstcUs1Z3BCYkJ5NzVuZ3c5bVltWWNIMXY2Um92dHE1UldtQlJ3Q1M5eF96QkhmTEY4SEk1NHN5VER3TlZYUkJuZWI4bXRlZWE5elRkdGFTczl6ZTVGZ1dKNldhVnpZNzhGZ09XTENNb0lzMWVmRU1uNVZQcTZPWlU1d9IBlwFBVV95cUxQU1dmWVVZQ3NSUkF3X05rTGRoYW40QktpOW9XbjBjMktqMFZmS3hxSUN5NHR4WWg1WmhLR1NUS3k1MVdhd1ViOHBrVnF2ekpZQ3R2MkUtWEpveTVGRFdsTHB1UnMwaDJqMDJySDNmSTFiU3VQaTZYZEVScDhuQVVIalUzUnRXN1VVWDNHU25NRW00Z2prWTc0?oc=5\" target=\"_blank\">Trump points to Senate Republicans over midterm losses: ‘Devastating’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRTlsNnpadEhSSjNoUWtHbmstcUs1Z3BCYkJ5NzVuZ3c5bVltWWNIMXY2Um92dHE1UldtQlJ3Q1M5eF96QkhmTEY4SEk1NHN5VER3TlZYUkJuZWI4bXRlZWE5elRkdGFTczl6ZTVGZ1dKNldhVnpZNzhGZ09XTENNb0lzMWVmRU1uNVZQcTZPWlU1d9IBlwFBVV95cUxQU1dmWVVZQ3NSUkF3X05rTGRoYW40QktpOW9XbjBjMktqMFZmS3hxSUN5NHR4WWg1WmhLR1NUS3k1MVdhd1ViOHBrVnF2ekpZQ3R2MkUtWEpveTVGRFdsTHB1UnMwaDJqMDJySDNmSTFiU3VQaTZYZEVScDhuQVVIalUzUnRXN1VVWDNHU25NRW00Z2prWTc0?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 15:54:00 GMT",
+    "source": "The Hill",
+    "ageHours": 9.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump points to Senate Republicans over midterm losses: ‘Devastating’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

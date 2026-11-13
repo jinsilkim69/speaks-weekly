@@ -2432,3 +2432,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 민주당 "김민석‧조국 곧 만날 것"...조국 "신뢰 회복이 먼저" - 조선일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 "김민석‧조국 곧 만날 것"...조국 "신뢰 회복이 먼저"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3VHdnlSV0ZTdWRWclpmMUhVMHU2dHkyXzhkSWVoZW03MjNKTXpJVXAxVnh2X0EtY1Y4bUZlcjFuU254NU9LQ3hJa3dnRnNVTERiYUlHS2VGTXhobnRxcVhFTDl0cmU5bGxVV3ZVa2tVNThKc0FrYzhHSkVpYmQ3bDNGTGFWMl9BOUNpUFo2cFE?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “허위 비방·색깔론은 정치의 암”…민주당에 재차 사과 요구 - 매일경제
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “허위 비방·색깔론은 정치의 암”…민주당에 재차 사과 요구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kTW81VGRhdUZmR1BvbEJEM2dCSl9mM2d1RGJza2QzRjNWbFQ0YjF5aXdFd2o4dXo2cllCclRRNDRFSmF5YWc?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump points to Senate Republicans over midterm losses: ‘Devastating’ - The Hill
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump points to Senate Republicans over midterm losses: ‘Devastating’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikgFBVV95cUxQRTlsNnpadEhSSjNoUWtHbmstcUs1Z3BCYkJ5NzVuZ3c5bVltWWNIMXY2Um92dHE1UldtQlJ3Q1M5eF96QkhmTEY4SEk1NHN5VER3TlZYUkJuZWI4bXRlZWE5elRkdGFTczl6ZTVGZ1dKNldhVnpZNzhGZ09XTENNb0lzMWVmRU1uNVZQcTZPWlU1d9IBlwFBVV95cUxQU1dmWVVZQ3NSUkF3X05rTGRoYW40QktpOW9XbjBjMktqMFZmS3hxSUN5NHR4WWg1WmhLR1NUS3k1MVdhd1ViOHBrVnF2ekpZQ3R2MkUtWEpveTVGRFdsTHB1UnMwaDJqMDJySDNmSTFiU3VQaTZYZEVScDhuQVVIalUzUnRXN1VVWDNHU25NRW00Z2prWTc0?oc=5)
+
+---
+
