@@ -3550,3 +3550,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 이성윤 "지금 윤리감찰 대상은 김민석 대표...총재시대 아냐" - 프레시안
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이성윤 "지금 윤리감찰 대상은 김민석 대표...총재시대 아냐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1wczNHcG9Sd0dlcUFoOUl4T3lxMWhmeDhKaGNzWm5mTU5weDFYWktkaUZzRVBtZkhlQzFFTjlhU2Vfa0ZWaTBBeThXOGhaYTRyVEVxdHZncHRRSC1va0dVbzdCVGwyaS1wS0NV?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 친명모임 “집권野당 최고위원들 사퇴하라”…친정청래계 3인 직격 - 동아일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 친명모임 “집권野당 최고위원들 사퇴하라”…친정청래계 3인 직격
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE1MVExaMFNlWlhROUh0Q3pfdDZJS00tX0t3QmEyVHRnY3VrSTBobkNUbFdCMzN3dmlIVzRIZFhGT19TVUUzLXVUSkVOYzgxcjhpS0EwZG1DR0ZRT1JEaGdMbEdyZzQwWHVfbGg4dklUQ3ZwYkhyVi1B0gFmQVVfeXFMUEY1NTBsRFBtVU1ZMmoyT19lUU85VnBIWjZXXzRxd2JZeUhzQ1NWTU50al96RDhPQ0RFeUdHZFprcGFfVEptaFFGZlRzeUt4RV9XajIya0pGZzVBbmp3Z3pxQk1RTlRB?oc=5)
+
+---
+

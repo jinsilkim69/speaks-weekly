@@ -5108,5 +5108,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "dcb99b10ecb54084a2331da4fc94341e0f40368b2928638b1e309b9139860896",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "이성윤 \"지금 윤리감찰 대상은 김민석 대표...총재시대 아냐\" - 프레시안",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1wczNHcG9Sd0dlcUFoOUl4T3lxMWhmeDhKaGNzWm5mTU5weDFYWktkaUZzRVBtZkhlQzFFTjlhU2Vfa0ZWaTBBeThXOGhaYTRyVEVxdHZncHRRSC1va0dVbzdCVGwyaS1wS0NV?oc=5\" target=\"_blank\">이성윤 \"지금 윤리감찰 대상은 김민석 대표...총재시대 아냐\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wczNHcG9Sd0dlcUFoOUl4T3lxMWhmeDhKaGNzWm5mTU5weDFYWktkaUZzRVBtZkhlQzFFTjlhU2Vfa0ZWaTBBeThXOGhaYTRyVEVxdHZncHRRSC1va0dVbzdCVGwyaS1wS0NV?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 10:16:33 GMT",
+    "source": "프레시안",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이성윤 \"지금 윤리감찰 대상은 김민석 대표...총재시대 아냐\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "b58a20e31dd1f5b3573fc95170b2ca485425dd57a38ea43e06e8a26a2ab291a0",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "친명모임 “집권野당 최고위원들 사퇴하라”…친정청래계 3인 직격 - 동아일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1MVExaMFNlWlhROUh0Q3pfdDZJS00tX0t3QmEyVHRnY3VrSTBobkNUbFdCMzN3dmlIVzRIZFhGT19TVUUzLXVUSkVOYzgxcjhpS0EwZG1DR0ZRT1JEaGdMbEdyZzQwWHVfbGg4dklUQ3ZwYkhyVi1B0gFmQVVfeXFMUEY1NTBsRFBtVU1ZMmoyT19lUU85VnBIWjZXXzRxd2JZeUhzQ1NWTU50al96RDhPQ0RFeUdHZFprcGFfVEptaFFGZlRzeUt4RV9XajIya0pGZzVBbmp3Z3pxQk1RTlRB?oc=5\" target=\"_blank\">친명모임 “집권野당 최고위원들 사퇴하라”…친정청래계 3인 직격</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MVExaMFNlWlhROUh0Q3pfdDZJS00tX0t3QmEyVHRnY3VrSTBobkNUbFdCMzN3dmlIVzRIZFhGT19TVUUzLXVUSkVOYzgxcjhpS0EwZG1DR0ZRT1JEaGdMbEdyZzQwWHVfbGg4dklUQ3ZwYkhyVi1B0gFmQVVfeXFMUEY1NTBsRFBtVU1ZMmoyT19lUU85VnBIWjZXXzRxd2JZeUhzQ1NWTU50al96RDhPQ0RFeUdHZFprcGFfVEptaFFGZlRzeUt4RV9XajIya0pGZzVBbmp3Z3pxQk1RTlRB?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 09:25:00 GMT",
+    "source": "동아일보",
+    "ageHours": 1.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 친명모임 “집권野당 최고위원들 사퇴하라”…친정청래계 3인 직격",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

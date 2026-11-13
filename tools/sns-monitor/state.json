@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-13T10:21:16.915Z",
+  "lastCheckedAt": "2026-11-13T10:31:17.447Z",
   "seenPostIds": {
     "4oCc64+E65GR7J20IOygnCDrsJwg7KCA": {
       "seenAt": "2026-11-09T17:49:08.176Z",
@@ -2500,26 +2500,17 @@
       "seenAt": "2026-11-13T10:11:20.391Z",
       "title": "장동혁, ‘韓 복당 비판’ 안철수와 회동…오세훈은 이준석 만나 - 동아일보",
       "targetName": "이준석"
+    },
+    "dcb99b10ecb54084a2331da4fc94341e0f40368b2928638b1e309b9139860896": {
+      "seenAt": "2026-11-13T10:31:18.145Z",
+      "title": "이성윤 \"지금 윤리감찰 대상은 김민석 대표...총재시대 아냐\" - 프레시안",
+      "targetName": "김민석"
+    },
+    "b58a20e31dd1f5b3573fc95170b2ca485425dd57a38ea43e06e8a26a2ab291a0": {
+      "seenAt": "2026-11-13T10:31:19.157Z",
+      "title": "친명모임 “집권野당 최고위원들 사퇴하라”…친정청래계 3인 직격 - 동아일보",
+      "targetName": "정청래"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "dcb99b10ecb54084a2331da4fc94341e0f40368b2928638b1e309b9139860896",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "이성윤 \"지금 윤리감찰 대상은 김민석 대표...총재시대 아냐\" - 프레시안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1wczNHcG9Sd0dlcUFoOUl4T3lxMWhmeDhKaGNzWm5mTU5weDFYWktkaUZzRVBtZkhlQzFFTjlhU2Vfa0ZWaTBBeThXOGhaYTRyVEVxdHZncHRRSC1va0dVbzdCVGwyaS1wS0NV?oc=5\" target=\"_blank\">이성윤 \"지금 윤리감찰 대상은 김민석 대표...총재시대 아냐\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wczNHcG9Sd0dlcUFoOUl4T3lxMWhmeDhKaGNzWm5mTU5weDFYWktkaUZzRVBtZkhlQzFFTjlhU2Vfa0ZWaTBBeThXOGhaYTRyVEVxdHZncHRRSC1va0dVbzdCVGwyaS1wS0NV?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 10:16:33 GMT",
-        "source": "프레시안",
-        "ageHours": 0.1
-      },
-      "delivered": [
-        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
-      ],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
