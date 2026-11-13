@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T08:51:15.373Z",
+  "lastCheckedAt": "2026-11-13T09:01:14.557Z",
   "seenPostIds": {
-    "4oCY7Iug7LKc7KeAIOynkeuLqOqwgOye": {
-      "seenAt": "2026-11-09T08:18:25.850Z",
-      "title": "‘신천지 집단가입 주장’ 송영길, 자료 출처 논란엔 회피 - 천지일보",
-      "targetName": "송영길"
-    },
-    "7J207KSA7ISdIOKAnOyghO2VnOq4uCwg": {
-      "seenAt": "2026-11-09T08:18:26.189Z",
-      "title": "이준석 “전한길, 자존심 세우길래…선처하려다 마음 바꿔” - 한겨레",
-      "targetName": "이준석"
-    },
     "6rmA6riw7ZiEwrfsnbTspIDshJ0gMTbs": {
       "seenAt": "2026-11-09T08:18:26.189Z",
       "title": "김기현·이준석 16일 영국 동행…보수진영 소통 계기 주목 - 경북일보",
@@ -2510,6 +2500,16 @@
       "seenAt": "2026-11-13T08:51:17.250Z",
       "title": "신장식 의원, ‘농지 총량 보전법’ 발의 - 농업인신문",
       "targetName": "신장식"
+    },
+    "9e60250a78ab6f21b88d9e7d6de75405d07b724fa07cd6e86014c7a7d60c0f06": {
+      "seenAt": "2026-11-13T09:01:15.930Z",
+      "title": "‘한동훈 공개 저격’ 안철수 만난 장동혁…친한계는 진상조사 촉구 - 시사저널",
+      "targetName": "한동훈"
+    },
+    "e0b00c1929a1248ae9f584375adc96c67b5a98cf5aa3b66c5fa2975fd7a595cc": {
+      "seenAt": "2026-11-13T09:01:16.696Z",
+      "title": "김민석 정청래에 대화 제안…정청래 합의 강요는 2차 가해 : 정치 - 재경일보",
+      "targetName": "정청래"
     }
   },
   "pending": []

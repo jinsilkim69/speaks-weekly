@@ -3329,3 +3329,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** ‘한동훈 공개 저격’ 안철수 만난 장동혁…친한계는 진상조사 촉구 - 시사저널
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘한동훈 공개 저격’ 안철수 만난 장동혁…친한계는 진상조사 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1wdkRvUFNFM3lCVTlsdUtTcUEwTVM4UVRmb2t5cTVYc2JzSkFiOTVna2x2dk5XWGwxb3RkMExmUGxHZDREUmdyU29vbEkwcVVraTAyWnBoQ3J6Q3pSeEIxcGNBaVptLWlPbDZPVUJob9IBc0FVX3lxTE5UVG9qSzYyUHBRbUEwblZObjIxdUVSbFBXelpiWjM4SjhGcW5nSUR6VTRGc2MydFB0Y2xDM04wSS1xU3ljdHUtb0VsTDZYVnNOYUVzVHU1bHZ5ekgwWWJYLWRhRlF2eG5KOE9HTUFscWpNeFU?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석 정청래에 대화 제안…정청래 합의 강요는 2차 가해 : 정치 - 재경일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 정청래에 대화 제안…정청래 합의 강요는 2차 가해 : 정치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KdmVGREdxR1FnUkg2dURWV3VoYkNSUk9XYlU0OFlSUFBUMkFlbF8wWG9sM2VKRHhCUkFFd1FJc0FPclNqWWJBY2JMVQ?oc=5)
+
+---
+
