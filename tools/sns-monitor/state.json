@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T10:01:17.148Z",
+  "lastCheckedAt": "2026-11-13T10:11:18.533Z",
   "seenPostIds": {
-    "VHJ1bXAgTWVkaWEgJiBUZWNobm9sb2d5": {
-      "seenAt": "2026-11-09T08:18:27.608Z",
-      "title": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "VHJ1bXAgdGVhbSBpbnRlcnByZXRzIG1p": {
-      "seenAt": "2026-11-09T08:18:27.608Z",
-      "title": "Trump team interprets midterms debacle as a cue to go harder, further, faster - CNN",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "V2h5IFRydW1wIGpva2VkIGFib3V0IGhh": {
-      "seenAt": "2026-11-09T08:18:27.608Z",
-      "title": "Why Trump joked about having Dana White as his White House press secretary - Al Jazeera",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "VHJ1bXAgQW1wbGlmaWVzIE1pZHRlcm0g": {
       "seenAt": "2026-11-09T08:18:27.608Z",
       "title": "Trump Amplifies Midterm Election Claims Questioning Democratic Victories - Forbes",
@@ -2515,6 +2500,16 @@
       "seenAt": "2026-11-13T10:01:20.226Z",
       "title": "조국 \"신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄\" - 뉴시스",
       "targetName": "조국"
+    },
+    "46b57966918b28135fa81d2a0e637a0469f8c9f3d126407267471990b9de799a": {
+      "seenAt": "2026-11-13T10:11:19.739Z",
+      "title": "민주당 \"김민석‧조국 곧 만날 것\"...조국 \"신뢰 회복이 먼저\" - 조선일보",
+      "targetName": "김민석"
+    },
+    "cbdaa1bea0841382c6852b6078bb8485945f246acc4873051758f5b83310be77": {
+      "seenAt": "2026-11-13T10:11:20.391Z",
+      "title": "장동혁, ‘韓 복당 비판’ 안철수와 회동…오세훈은 이준석 만나 - 동아일보",
+      "targetName": "이준석"
     }
   },
   "pending": []

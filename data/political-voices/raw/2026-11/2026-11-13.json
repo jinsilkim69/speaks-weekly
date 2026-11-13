@@ -5058,5 +5058,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "46b57966918b28135fa81d2a0e637a0469f8c9f3d126407267471990b9de799a",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "민주당 \"김민석‧조국 곧 만날 것\"...조국 \"신뢰 회복이 먼저\" - 조선일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3VHdnlSV0ZTdWRWclpmMUhVMHU2dHkyXzhkSWVoZW03MjNKTXpJVXAxVnh2X0EtY1Y4bUZlcjFuU254NU9LQ3hJa3dnRnNVTERiYUlHS2VGTXhobnRxcVhFTDl0cmU5bGxVV3ZVa2tVNThKc0FrYzhHSkVpYmQ3bDNGTGFWMl9BOUNpUFo2cFE?oc=5\" target=\"_blank\">민주당 \"김민석‧조국 곧 만날 것\"...조국 \"신뢰 회복이 먼저\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3VHdnlSV0ZTdWRWclpmMUhVMHU2dHkyXzhkSWVoZW03MjNKTXpJVXAxVnh2X0EtY1Y4bUZlcjFuU254NU9LQ3hJa3dnRnNVTERiYUlHS2VGTXhobnRxcVhFTDl0cmU5bGxVV3ZVa2tVNThKc0FrYzhHSkVpYmQ3bDNGTGFWMl9BOUNpUFo2cFE?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 01:24:00 GMT",
+    "source": "조선일보",
+    "ageHours": 8.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당 \"김민석‧조국 곧 만날 것\"...조국 \"신뢰 회복이 먼저\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "cbdaa1bea0841382c6852b6078bb8485945f246acc4873051758f5b83310be77",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "장동혁, ‘韓 복당 비판’ 안철수와 회동…오세훈은 이준석 만나 - 동아일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE90YjB2Vmp4YzgwSGNJVTV6alpfUTUwYUtfOTlmcGVORy1Od3hFV2ZWNXpFZ3M5S0l2Ync5NVdkUTZUeFF0NmxjQ1Z0ZXdqU0FTQ253dW9RRThlS01odjhiRndyY0wzdXN0ekZCZWdRYWpoeTFwNmNF0gFmQVVfeXFMUDdHN1JXNmtSNTROdWNfNFp2U3d3TUZwRDM5dkpidnRuZFAtSWVjeWxsQUF5bkpOUHpTUkJFSnB5eUdRTHEzZy1iU213RE1oczd3NGt5TFZOVnUwSzJKa3dKX1NmZkt3?oc=5\" target=\"_blank\">장동혁, ‘韓 복당 비판’ 안철수와 회동…오세훈은 이준석 만나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90YjB2Vmp4YzgwSGNJVTV6alpfUTUwYUtfOTlmcGVORy1Od3hFV2ZWNXpFZ3M5S0l2Ync5NVdkUTZUeFF0NmxjQ1Z0ZXdqU0FTQ253dW9RRThlS01odjhiRndyY0wzdXN0ekZCZWdRYWpoeTFwNmNF0gFmQVVfeXFMUDdHN1JXNmtSNTROdWNfNFp2U3d3TUZwRDM5dkpidnRuZFAtSWVjeWxsQUF5bkpOUHpTUkJFSnB5eUdRTHEzZy1iU213RE1oczd3NGt5TFZOVnUwSzJKa3dKX1NmZkt3?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 09:59:52 GMT",
+    "source": "동아일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 장동혁, ‘韓 복당 비판’ 안철수와 회동…오세훈은 이준석 만나",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

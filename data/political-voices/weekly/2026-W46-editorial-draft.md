@@ -3524,3 +3524,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주당 "김민석‧조국 곧 만날 것"...조국 "신뢰 회복이 먼저" - 조선일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 "김민석‧조국 곧 만날 것"...조국 "신뢰 회복이 먼저"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3VHdnlSV0ZTdWRWclpmMUhVMHU2dHkyXzhkSWVoZW03MjNKTXpJVXAxVnh2X0EtY1Y4bUZlcjFuU254NU9LQ3hJa3dnRnNVTERiYUlHS2VGTXhobnRxcVhFTDl0cmU5bGxVV3ZVa2tVNThKc0FrYzhHSkVpYmQ3bDNGTGFWMl9BOUNpUFo2cFE?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 장동혁, ‘韓 복당 비판’ 안철수와 회동…오세훈은 이준석 만나 - 동아일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, ‘韓 복당 비판’ 안철수와 회동…오세훈은 이준석 만나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE90YjB2Vmp4YzgwSGNJVTV6alpfUTUwYUtfOTlmcGVORy1Od3hFV2ZWNXpFZ3M5S0l2Ync5NVdkUTZUeFF0NmxjQ1Z0ZXdqU0FTQ253dW9RRThlS01odjhiRndyY0wzdXN0ekZCZWdRYWpoeTFwNmNF0gFmQVVfeXFMUDdHN1JXNmtSNTROdWNfNFp2U3d3TUZwRDM5dkpidnRuZFAtSWVjeWxsQUF5bkpOUHpTUkJFSnB5eUdRTHEzZy1iU213RE1oczd3NGt5TFZOVnUwSzJKa3dKX1NmZkt3?oc=5)
+
+---
+
