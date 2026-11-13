@@ -723,5 +723,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "14bc83f1f076f5689a4c59e6bea68d60b13ad2a98667e3f2b0ee702cf828c3dc",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "최민희의 말말말…‘尹 탄핵 반대’ 발언 사과, ‘김민석 지지’ 제보도 논란 - 더시사법률",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OS2h6bllWNExJR2lnU3h4aHNvRTZ6eTBrYTJsX0Zrc2FsZFRBUU5leWNVb2JwMEVCMWpxbWdaN1VtbFdSaEotZUxfYUx2UGo0SUN6Z2xHTUNfcXM?oc=5\" target=\"_blank\">최민희의 말말말…‘尹 탄핵 반대’ 발언 사과, ‘김민석 지지’ 제보도 논란</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더시사법률</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OS2h6bllWNExJR2lnU3h4aHNvRTZ6eTBrYTJsX0Zrc2FsZFRBUU5leWNVb2JwMEVCMWpxbWdaN1VtbFdSaEotZUxfYUx2UGo0SUN6Z2xHTUNfcXM?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 10:24:45 GMT",
+    "source": "더시사법률",
+    "ageHours": 13.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 최민희의 말말말…‘尹 탄핵 반대’ 발언 사과, ‘김민석 지지’ 제보도 논란",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "e9ca67d1ebbe0fac85efce8338b7404e790d83bd8af0c4f1a2df73812c21f8be",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump says US could devastate Iran in three days as diplomatic efforts stall - WBFF",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQalo0R1YxLVBkVWRDUElfNVhXUkgzaXRWUi13cmt6M3h6bXFIeXB6eGVDWVNIU2RKR2IzZVdvX3NKcWFLZDc2SUlZbW1pd1U1bTg0RUN1TVQxdkt1YXo0V1ktQUZUVlZVUDV2Q3o2M29WTmNlSUVrT3JyREt5N2NHSXpiY3ZYbTJpbXZJSEEyUkNTTlU4Njktem10Um9ZSXRWMzg5RWRBWlRnY1RuMVVWa2NGeXFUaDJWYzZ0eGtmUjJocXdPRXZZMQ?oc=5\" target=\"_blank\">Trump says US could devastate Iran in three days as diplomatic efforts stall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBFF</font>",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQalo0R1YxLVBkVWRDUElfNVhXUkgzaXRWUi13cmt6M3h6bXFIeXB6eGVDWVNIU2RKR2IzZVdvX3NKcWFLZDc2SUlZbW1pd1U1bTg0RUN1TVQxdkt1YXo0V1ktQUZUVlZVUDV2Q3o2M29WTmNlSUVrT3JyREt5N2NHSXpiY3ZYbTJpbXZJSEEyUkNTTlU4Njktem10Um9ZSXRWMzg5RWRBWlRnY1RuMVVWa2NGeXFUaDJWYzZ0eGtmUjJocXdPRXZZMQ?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 21:49:32 GMT",
+    "source": "WBFF",
+    "ageHours": 1.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump says US could devastate Iran in three days as diplomatic efforts stall",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

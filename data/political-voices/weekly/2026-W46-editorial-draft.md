@@ -4317,3 +4317,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희의 말말말…‘尹 탄핵 반대’ 발언 사과, ‘김민석 지지’ 제보도 논란 - 더시사법률
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희의 말말말…‘尹 탄핵 반대’ 발언 사과, ‘김민석 지지’ 제보도 논란
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OS2h6bllWNExJR2lnU3h4aHNvRTZ6eTBrYTJsX0Zrc2FsZFRBUU5leWNVb2JwMEVCMWpxbWdaN1VtbFdSaEotZUxfYUx2UGo0SUN6Z2xHTUNfcXM?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says US could devastate Iran in three days as diplomatic efforts stall - WBFF
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says US could devastate Iran in three days as diplomatic efforts stall
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQalo0R1YxLVBkVWRDUElfNVhXUkgzaXRWUi13cmt6M3h6bXFIeXB6eGVDWVNIU2RKR2IzZVdvX3NKcWFLZDc2SUlZbW1pd1U1bTg0RUN1TVQxdkt1YXo0V1ktQUZUVlZVUDV2Q3o2M29WTmNlSUVrT3JyREt5N2NHSXpiY3ZYbTJpbXZJSEEyUkNTTlU4Njktem10Um9ZSXRWMzg5RWRBWlRnY1RuMVVWa2NGeXFUaDJWYzZ0eGtmUjJocXdPRXZZMQ?oc=5)
+
+---
+
