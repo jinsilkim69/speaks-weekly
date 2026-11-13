@@ -3394,3 +3394,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “‘李·尹 재판 같다’ 최민희 말이 맞다…李, 시한부 대통령” - 시사저널
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “‘李·尹 재판 같다’ 최민희 말이 맞다…李, 시한부 대통령”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE96cjg2OF90S1dtYnNuamp0UW1Fd2wyczcwR183VkdSLXhvTHFiVjhtbHJvR2lmMUpVUktUeGhkS1k3eWhZdGtUWlF6eGhCYzFFeXFuTnVfbzE3RTJGR1gzLXAxdTRGbmxrYzJxTHBxWVVLR3fSAXNBVV95cUxPenI4NjhfdEtXbWJzbmpqdFFtRXdsMnM3MEdfN1ZHUi14b0xxYlY4bWxyb0dpZjFKVVJLVHhoZEtZN3loWXRrVFpRenhoQmMxRXlxbk51X28xN0UyRkdYMy1wMXU0Rm5sa2MycUxwcVlVS0d3?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 장동혁, '韓 복당 비판' 안철수와 회동…오세훈은 이준석 만나 - 뉴스1
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, '韓 복당 비판' 안철수와 회동…오세훈은 이준석 만나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzMm9RbG45VU9KSEZCNXBNVUUtNDR0NU9iSnlMNVo2b2R5M21EbVZPOENsLXZXUldTeElhYmVqemZzV21QMkk4QkZCZjZ0M3BCUld5d1QxMGZrdw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄" - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yMTJFeTIxLUswZmVhUGVnZU5OT0RiVnF0MTc1M2lJcy1rd0VxVHdrUklpSzM3RWF5cV8wcDVta0pLaUdTLThwcDJ1YlRFZ0hYTjJmZ2M1Q3AwNXVEQ2pLSTlWX1XSAXhBVV95cUxQdzRsWDVoemszWm16aVhWb3FieVVrVnZ3TEhFZW1fUnNybS1LbUhDd1RNNDZ4eEtIX2RLOW1oX2lVeUhjZThTQ2VTWHdGRnRKVVgtcktTXzlodjVLanpxWWFSaW0zbjZIdkg2aEJOaDk0UF9VbHRfWHY?oc=5)
+
+---
+

@@ -4808,5 +4808,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "fabb7e810a324a14417e16025d8c21231ef80e314f340d871bb3ebe6fd6eec7c",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 “‘李·尹 재판 같다’ 최민희 말이 맞다…李, 시한부 대통령” - 시사저널",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE96cjg2OF90S1dtYnNuamp0UW1Fd2wyczcwR183VkdSLXhvTHFiVjhtbHJvR2lmMUpVUktUeGhkS1k3eWhZdGtUWlF6eGhCYzFFeXFuTnVfbzE3RTJGR1gzLXAxdTRGbmxrYzJxTHBxWVVLR3fSAXNBVV95cUxPenI4NjhfdEtXbWJzbmpqdFFtRXdsMnM3MEdfN1ZHUi14b0xxYlY4bWxyb0dpZjFKVVJLVHhoZEtZN3loWXRrVFpRenhoQmMxRXlxbk51X28xN0UyRkdYMy1wMXU0Rm5sa2MycUxwcVlVS0d3?oc=5\" target=\"_blank\">한동훈 “‘李·尹 재판 같다’ 최민희 말이 맞다…李, 시한부 대통령”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96cjg2OF90S1dtYnNuamp0UW1Fd2wyczcwR183VkdSLXhvTHFiVjhtbHJvR2lmMUpVUktUeGhkS1k3eWhZdGtUWlF6eGhCYzFFeXFuTnVfbzE3RTJGR1gzLXAxdTRGbmxrYzJxTHBxWVVLR3fSAXNBVV95cUxPenI4NjhfdEtXbWJzbmpqdFFtRXdsMnM3MEdfN1ZHUi14b0xxYlY4bWxyb0dpZjFKVVJLVHhoZEtZN3loWXRrVFpRenhoQmMxRXlxbk51X28xN0UyRkdYMy1wMXU0Rm5sa2MycUxwcVlVS0d3?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 08:19:43 GMT",
+    "source": "시사저널",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 “‘李·尹 재판 같다’ 최민희 말이 맞다…李, 시한부 대통령”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "edd7213904d04c861170b2d59515309f434091d5ca1d8df8883c4628296ca621",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "장동혁, '韓 복당 비판' 안철수와 회동…오세훈은 이준석 만나 - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzMm9RbG45VU9KSEZCNXBNVUUtNDR0NU9iSnlMNVo2b2R5M21EbVZPOENsLXZXUldTeElhYmVqemZzV21QMkk4QkZCZjZ0M3BCUld5d1QxMGZrdw?oc=5\" target=\"_blank\">장동혁, '韓 복당 비판' 안철수와 회동…오세훈은 이준석 만나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzMm9RbG45VU9KSEZCNXBNVUUtNDR0NU9iSnlMNVo2b2R5M21EbVZPOENsLXZXUldTeElhYmVqemZzV21QMkk4QkZCZjZ0M3BCUld5d1QxMGZrdw?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 09:08:44 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 장동혁, '韓 복당 비판' 안철수와 회동…오세훈은 이준석 만나",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "a4efc3db1e553f3077d150acfa69dee460c4ac47ca008a301c086b457557b258",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 \"신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄\" - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yMTJFeTIxLUswZmVhUGVnZU5OT0RiVnF0MTc1M2lJcy1rd0VxVHdrUklpSzM3RWF5cV8wcDVta0pLaUdTLThwcDJ1YlRFZ0hYTjJmZ2M1Q3AwNXVEQ2pLSTlWX1XSAXhBVV95cUxQdzRsWDVoemszWm16aVhWb3FieVVrVnZ3TEhFZW1fUnNybS1LbUhDd1RNNDZ4eEtIX2RLOW1oX2lVeUhjZThTQ2VTWHdGRnRKVVgtcktTXzlodjVLanpxWWFSaW0zbjZIdkg2aEJOaDk0UF9VbHRfWHY?oc=5\" target=\"_blank\">조국 \"신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yMTJFeTIxLUswZmVhUGVnZU5OT0RiVnF0MTc1M2lJcy1rd0VxVHdrUklpSzM3RWF5cV8wcDVta0pLaUdTLThwcDJ1YlRFZ0hYTjJmZ2M1Q3AwNXVEQ2pLSTlWX1XSAXhBVV95cUxQdzRsWDVoemszWm16aVhWb3FieVVrVnZ3TEhFZW1fUnNybS1LbUhDd1RNNDZ4eEtIX2RLOW1oX2lVeUhjZThTQ2VTWHdGRnRKVVgtcktTXzlodjVLanpxWWFSaW0zbjZIdkg2aEJOaDk0UF9VbHRfWHY?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 09:00:00 GMT",
+    "source": "뉴시스",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

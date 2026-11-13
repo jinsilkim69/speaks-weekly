@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T09:11:18.049Z",
+  "lastCheckedAt": "2026-11-13T09:21:16.935Z",
   "seenPostIds": {
-    "6rmA6riw7ZiELCDrs7TsiJjthrXtlanr": {
-      "seenAt": "2026-11-09T08:18:26.189Z",
-      "title": "김기현, 보수통합론속 이준석과 영국 출장 '관심' - 울산신문",
-      "targetName": "이준석"
-    },
-    "7LKc7ZWY656MIOybkOuCtOuMgO2RnCwg": {
-      "seenAt": "2026-11-09T08:18:26.501Z",
-      "title": "천하람 원내대표, 비상대책위원회의 발언 - 뉴스핌",
-      "targetName": "천하람"
-    },
-    "7LKc7ZWY656MICLmnY4sIOyCrOuyleum": {
-      "seenAt": "2026-11-09T08:18:26.501Z",
-      "title": "천하람 \"李, 사법리스크 해소 위해 특검 임명? 이해상충 그 자체…거부권 행사 해야\" - 데일리안",
-      "targetName": "천하람"
-    },
     "67mE7IOB64yA7LGF7JyE7JuQ7ZqM7J2Y": {
       "seenAt": "2026-11-09T08:18:26.501Z",
       "title": "비상대책위원회의서 발언하는 천하람 원내대표 - 뉴스핌",
@@ -2515,6 +2500,21 @@
       "seenAt": "2026-11-13T09:11:20.948Z",
       "title": "김민석, ‘최민희 언행 논란’에 당 윤리감찰단 감찰 지시 - 경기일보",
       "targetName": "김민석"
+    },
+    "fabb7e810a324a14417e16025d8c21231ef80e314f340d871bb3ebe6fd6eec7c": {
+      "seenAt": "2026-11-13T09:21:18.064Z",
+      "title": "한동훈 “‘李·尹 재판 같다’ 최민희 말이 맞다…李, 시한부 대통령” - 시사저널",
+      "targetName": "한동훈"
+    },
+    "edd7213904d04c861170b2d59515309f434091d5ca1d8df8883c4628296ca621": {
+      "seenAt": "2026-11-13T09:21:18.674Z",
+      "title": "장동혁, '韓 복당 비판' 안철수와 회동…오세훈은 이준석 만나 - 뉴스1",
+      "targetName": "이준석"
+    },
+    "a4efc3db1e553f3077d150acfa69dee460c4ac47ca008a301c086b457557b258": {
+      "seenAt": "2026-11-13T09:21:19.310Z",
+      "title": "조국 \"신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄\" - 뉴시스",
+      "targetName": "조국"
     }
   },
   "pending": []
