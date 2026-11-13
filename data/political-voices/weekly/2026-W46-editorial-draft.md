@@ -3303,3 +3303,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 박지원 "빠져라?...내가 언제 정청래 욕했다고, 자다가 봉창, 내가 참아야, 그만하고 화 풀길"[여의도초대석] - KBC광주방송
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원 "빠져라?...내가 언제 정청래 욕했다고, 자다가 봉창, 내가 참아야, 그만하고 화 풀길"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14NHNYYk1CY0ZFVUN6YWR5V3hocVJVYnpicEhXQjdFRHQzbE1zdklNMHpCOHY1RjVwY2w1cl9ETUxYc3dWUnJtMktpZFlHODk3UFJfQjJQQjBGWm5haXZlTA?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 의원, ‘농지 총량 보전법’ 발의 - 농업인신문
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 의원, ‘농지 총량 보전법’ 발의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE9pd09pb0N2WWl3MHp6cnYzbWhBWXJQeUZxM3pXNGc5ejJVbU1Bb3VOam9CdEQzUEktNlk2VE91YWVIenpzUmF0eHp6N0FkclJQVmVlVGhOXzEwczY1RGR4eGRqQlB4NXpsZzBtWldR?oc=5)
+
+---
+
