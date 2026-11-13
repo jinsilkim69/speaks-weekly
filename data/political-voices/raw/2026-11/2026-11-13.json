@@ -2629,5 +2629,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d49f2748b6a20169c94ce4cb54a73b661df2bf17e0106644f6245eafc23b48fd",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump tells Vance to turn his focus away from Iran: ‘We don’t need a deal’ - CNN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1FM3dyck1mQ2NfU0pyLXVYR1AyRlE2VXdoUEo4R2ROQUVOekozXzFRRUVJRDMyUW1ERmxsSU8wbmhrYmF2OVJqYUlYWm1SSWcxY19SdlZXVFNNRGFXMWRfeUJUQU1ncnNmdUZBeGRR?oc=5\" target=\"_blank\">Trump tells Vance to turn his focus away from Iran: ‘We don’t need a deal’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FM3dyck1mQ2NfU0pyLXVYR1AyRlE2VXdoUEo4R2ROQUVOekozXzFRRUVJRDMyUW1ERmxsSU8wbmhrYmF2OVJqYUlYWm1SSWcxY19SdlZXVFNNRGFXMWRfeUJUQU1ncnNmdUZBeGRR?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 20:01:58 GMT",
+    "source": "CNN",
+    "ageHours": 4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump tells Vance to turn his focus away from Iran: ‘We don’t need a deal’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
