@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T08:01:16.023Z",
+  "lastCheckedAt": "2026-11-13T08:11:17.772Z",
   "seenPostIds": {
-    "6IiH7J207ISx7JykIOKAnOyghOuRkO2Z": {
-      "seenAt": "2026-11-09T08:18:25.210Z",
-      "title": "與이성윤 “전두환은 성공한 쿠테타, 김민석은 성공한 정치공작인가?” - 중앙일보",
-      "targetName": "김민석"
-    },
-    "7J207ISx7JykIOKAnOyLoOyynOyngCDs": {
-      "seenAt": "2026-11-09T08:18:25.210Z",
-      "title": "이성윤 “신천지 의혹, 성공한 정치공작”…김민석 ‘전두환 면죄부’에 빗대 - 경향신문",
-      "targetName": "김민석"
-    },
-    "6IiHIOydtOyEseycpCwg6rmA66+87ISd": {
-      "seenAt": "2026-11-09T08:18:25.210Z",
-      "title": "與 이성윤, 김민석 면전서 전두환 빗대 \"신천지, 성공한 정치공작\" - 조선일보",
-      "targetName": "김민석"
-    },
     "7LWc7KeE67SJLCAn7ZWp64u5IOyjvOye": {
       "seenAt": "2026-11-09T08:18:25.518Z",
       "title": "최진봉, '합당 주장' 정청래 겨냥 \"민주당이 왜 시간 맞춰?\" #SHorts - 오마이TV - OhmyNews",
@@ -2515,24 +2500,17 @@
       "seenAt": "2026-11-13T08:01:18.583Z",
       "title": "“만나자”는 김민석… 정청래 “사과부터 제대로 하라” - 세계일보",
       "targetName": "정청래"
+    },
+    "684af7d216d6cf9dd90e510b53f734b7680a5a44b739affdc98f7b19e90b710d": {
+      "seenAt": "2026-11-13T08:11:19.029Z",
+      "title": "이준석 \"한동훈, 보수 쪽 작살내…총선도 화끈하게 져\" - 조세일보",
+      "targetName": "이준석"
+    },
+    "2359a83afb4b4ba15ab42ff1b5a9a52e8e3d715f4ce0e2196dd80ca7f630867a": {
+      "seenAt": "2026-11-13T08:11:19.856Z",
+      "title": "천하람 \"이혜훈 부정청약 10개월 만에 송치…100억 아파트 서둘러 환수해야\" - 뉴시스",
+      "targetName": "천하람"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "684af7d216d6cf9dd90e510b53f734b7680a5a44b739affdc98f7b19e90b710d",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"한동훈, 보수 쪽 작살내…총선도 화끈하게 져\" - 조세일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE84SGIyRVJPVkUzRVRodFAxLVQ2SVVDMjJBakpRb0JvakVtVUxvU0J6WnJROWl3bkFXeU83aTFKc2Z6MklUXy1TZEtrTjg4Y3FqVXA4UFMwY0dzcVZyWFZrZFlqMFcwUXp4QXUzYmJyVWhpTWhm?oc=5\" target=\"_blank\">이준석 \"한동훈, 보수 쪽 작살내…총선도 화끈하게 져\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84SGIyRVJPVkUzRVRodFAxLVQ2SVVDMjJBakpRb0JvakVtVUxvU0J6WnJROWl3bkFXeU83aTFKc2Z6MklUXy1TZEtrTjg4Y3FqVXA4UFMwY0dzcVZyWFZrZFlqMFcwUXp4QXUzYmJyVWhpTWhm?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 07:57:14 GMT",
-        "source": "조세일보",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

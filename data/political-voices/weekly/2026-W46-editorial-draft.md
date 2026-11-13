@@ -3160,3 +3160,29 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "한동훈, 보수 쪽 작살내…총선도 화끈하게 져" - 조세일보
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "한동훈, 보수 쪽 작살내…총선도 화끈하게 져"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE84SGIyRVJPVkUzRVRodFAxLVQ2SVVDMjJBakpRb0JvakVtVUxvU0J6WnJROWl3bkFXeU83aTFKc2Z6MklUXy1TZEtrTjg4Y3FqVXA4UFMwY0dzcVZyWFZrZFlqMFcwUXp4QXUzYmJyVWhpTWhm?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 천하람 "이혜훈 부정청약 10개월 만에 송치…100억 아파트 서둘러 환수해야" - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 천하람 "이혜훈 부정청약 10개월 만에 송치…100억 아파트 서둘러 환수해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBnYlBTRW5wQkRoeVJJQ25VOXRFNFMyeTZ0aVZVclozR3p0SVd6OU1iOWliVUhNZWQ0WjlKekpYZDdpVHNlRGx5c1RWdW93dThzeFV3TnBpWmNJNXVhaXpYck1BZG5mYm53aWVhZVZpR3NmdGJuc0hLadIBeEFVX3lxTFBnYlBTRW5wQkRoeVJJQ25VOXRFNFMyeTZ0aVZVclozR3p0SVd6OU1iOWliVUhNZWQ0WjlKekpYZDdpVHNlRGx5c1RWdW93dThzeFV3TnBpWmNJNXVhaXpYck1BZG5mYm53aWVhZVZpR3NmdGJuc0hLaQ?oc=5)
+
+---
+

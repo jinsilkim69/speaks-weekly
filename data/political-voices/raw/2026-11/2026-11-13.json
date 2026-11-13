@@ -4358,5 +4358,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "684af7d216d6cf9dd90e510b53f734b7680a5a44b739affdc98f7b19e90b710d",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석 \"한동훈, 보수 쪽 작살내…총선도 화끈하게 져\" - 조세일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE84SGIyRVJPVkUzRVRodFAxLVQ2SVVDMjJBakpRb0JvakVtVUxvU0J6WnJROWl3bkFXeU83aTFKc2Z6MklUXy1TZEtrTjg4Y3FqVXA4UFMwY0dzcVZyWFZrZFlqMFcwUXp4QXUzYmJyVWhpTWhm?oc=5\" target=\"_blank\">이준석 \"한동훈, 보수 쪽 작살내…총선도 화끈하게 져\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84SGIyRVJPVkUzRVRodFAxLVQ2SVVDMjJBakpRb0JvakVtVUxvU0J6WnJROWl3bkFXeU83aTFKc2Z6MklUXy1TZEtrTjg4Y3FqVXA4UFMwY0dzcVZyWFZrZFlqMFcwUXp4QXUzYmJyVWhpTWhm?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 07:57:14 GMT",
+    "source": "조세일보",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석 \"한동훈, 보수 쪽 작살내…총선도 화끈하게 져\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "2359a83afb4b4ba15ab42ff1b5a9a52e8e3d715f4ce0e2196dd80ca7f630867a",
+    "targetId": "cheon_haram",
+    "targetName": "천하람",
+    "targetTitle": "개혁신당 원내대표",
+    "title": "천하람 \"이혜훈 부정청약 10개월 만에 송치…100억 아파트 서둘러 환수해야\" - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBnYlBTRW5wQkRoeVJJQ25VOXRFNFMyeTZ0aVZVclozR3p0SVd6OU1iOWliVUhNZWQ0WjlKekpYZDdpVHNlRGx5c1RWdW93dThzeFV3TnBpWmNJNXVhaXpYck1BZG5mYm53aWVhZVZpR3NmdGJuc0hLadIBeEFVX3lxTFBnYlBTRW5wQkRoeVJJQ25VOXRFNFMyeTZ0aVZVclozR3p0SVd6OU1iOWliVUhNZWQ0WjlKekpYZDdpVHNlRGx5c1RWdW93dThzeFV3TnBpWmNJNXVhaXpYck1BZG5mYm53aWVhZVZpR3NmdGJuc0hLaQ?oc=5\" target=\"_blank\">천하람 \"이혜훈 부정청약 10개월 만에 송치…100억 아파트 서둘러 환수해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnYlBTRW5wQkRoeVJJQ25VOXRFNFMyeTZ0aVZVclozR3p0SVd6OU1iOWliVUhNZWQ0WjlKekpYZDdpVHNlRGx5c1RWdW93dThzeFV3TnBpWmNJNXVhaXpYck1BZG5mYm53aWVhZVZpR3NmdGJuc0hLadIBeEFVX3lxTFBnYlBTRW5wQkRoeVJJQ25VOXRFNFMyeTZ0aVZVclozR3p0SVd6OU1iOWliVUhNZWQ0WjlKekpYZDdpVHNlRGx5c1RWdW93dThzeFV3TnBpWmNJNXVhaXpYck1BZG5mYm53aWVhZVZpR3NmdGJuc0hLaQ?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 06:48:10 GMT",
+    "source": "뉴시스",
+    "ageHours": 1.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 천하람 \"이혜훈 부정청약 10개월 만에 송치…100억 아파트 서둘러 환수해야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "천하람",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
