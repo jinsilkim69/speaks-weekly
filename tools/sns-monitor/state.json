@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-13T00:51:15.739Z",
+  "lastCheckedAt": "2026-11-13T01:01:15.082Z",
   "seenPostIds": {
     "7ZmN7KSA7ZGcICLtirjrn7ztlITsi50g": {
       "seenAt": "2026-11-09T08:15:30.062Z",
@@ -2495,7 +2495,39 @@
       "seenAt": "2026-11-13T00:51:16.938Z",
       "title": "조국 “허위 비방·색깔론은 정치의 암”…민주당에 재차 사과 요구 - 매일경제",
       "targetName": "조국"
+    },
+    "05933143b0c90aa7d7ac918f13b54d4eb97995855aac6b90f95340a9e44ef058": {
+      "seenAt": "2026-11-13T01:01:16.204Z",
+      "title": "조국 \"민주당, 합당 밀약론부터 사과해야…신뢰 회복이 먼저\" - 뉴스1",
+      "targetName": "조국"
+    },
+    "3fcff19df7bd2ea9a504535075d7dd90b5341bc21b7445acd0cc61b58980e602": {
+      "seenAt": "2026-11-13T01:01:16.838Z",
+      "title": "인사말하는 신장식 - 뉴시스",
+      "targetName": "신장식"
+    },
+    "4e230eae6efeec605f66ea72f9103146ee0b3637cc1c42b8468e027c47d9547f": {
+      "seenAt": "2026-11-13T01:01:17.550Z",
+      "title": "최인호 정무수석, 신장식 조국혁신당 대표 예방 - 뉴시스",
+      "targetName": "신장식"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "2e1ed1fbdcc846d1da373a1d9f56c98b437abcc32ab3eaad8443dcc654f181c2",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Slotkin Statement After Trump Again Called for Her to be Prosecuted Over 90-Second Video - U.S. Senate (.gov)",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHFycG1DblMxUFBqbVdFZGZvRVJ4NG56RUJBQ0lOY3BNSGFPc0xwVjVsRGxlbExtQWl6X2VkQWxPa04yWnNiVF8yVDlxTnBhUWNOWGlrOGMtbDdfamZqaXFnX21JMHpxUy1vWC1DUS1NaVl5UFNLU3FqMU9qZkFkQTR4T180bENFdGlGczFvdWN2N19pTkNRNmRaLWlZalE1WUx2UDM0UHBSeC01WUJUMVpibVRCd0ZwRkZZQjlRWFlhSW9DUUZsYW85cw?oc=5\" target=\"_blank\">Slotkin Statement After Trump Again Called for Her to be Prosecuted Over 90-Second Video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Senate (.gov)</font>",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHFycG1DblMxUFBqbVdFZGZvRVJ4NG56RUJBQ0lOY3BNSGFPc0xwVjVsRGxlbExtQWl6X2VkQWxPa04yWnNiVF8yVDlxTnBhUWNOWGlrOGMtbDdfamZqaXFnX21JMHpxUy1vWC1DUS1NaVl5UFNLU3FqMU9qZkFkQTR4T180bENFdGlGczFvdWN2N19pTkNRNmRaLWlZalE1WUx2UDM0UHBSeC01WUJUMVpibVRCd0ZwRkZZQjlRWFlhSW9DUUZsYW85cw?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 00:53:04 GMT",
+        "source": "U.S. Senate (.gov)",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

@@ -2315,3 +2315,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "민주당, 합당 밀약론부터 사과해야…신뢰 회복이 먼저" - 뉴스1
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "민주당, 합당 밀약론부터 사과해야…신뢰 회복이 먼저"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oY1BBbnlJSGp4TEJPUXpPQkwxd0V6N0tzMVhtd2FCekZvZXE0ZmhtOE5mWHBDS3JlbFhRQjN3d2tvVENWNjVIR1ljeHpkbGVnQmJQS1VzQmFoQQ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 인사말하는 신장식 - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 인사말하는 신장식
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE9WQnZ5UmNlWFZEYTF1c3p1NXYwaDItT2JXWWNsNDBzeXoxNDVnaVZPaU9qZmduSXNyZHpuRWg3ZjJGZ2x4RWFiYXJmc0VFX0pST1NSTnd5Y1ZkdkNZaVh3dnNwQVcwRGdKVnpadVdSVDREYUVUSHBRWtIBeEFVX3lxTE9WQnZ5UmNlWFZEYTF1c3p1NXYwaDItT2JXWWNsNDBzeXoxNDVnaVZPaU9qZmduSXNyZHpuRWg3ZjJGZ2x4RWFiYXJmc0VFX0pST1NSTnd5Y1ZkdkNZaVh3dnNwQVcwRGdKVnpadVdSVDREYUVUSHBRWg?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 최인호 정무수석, 신장식 조국혁신당 대표 예방 - 뉴시스
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최인호 정무수석, 신장식 조국혁신당 대표 예방
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE53YTVBNGQ1cWktbUprU3k2OUV5NUZZQnRBQ1hSUmkzRU1NT1duOUxMZUR0MDBHa2F4ODREc25DcG1jNFNPVjhwX250TU1kM2dMelNnX25iSWJDZ1hLbUpFMA?oc=5)
+
+---
+
