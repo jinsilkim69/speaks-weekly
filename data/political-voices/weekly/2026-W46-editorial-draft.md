@@ -3576,3 +3576,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 '조작징계' 의혹에 진상조사 요구…국힘, 복당 놓고도 이견 - 데일리한국
+
+- **수집일**: 2026-11-13 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 '조작징계' 의혹에 진상조사 요구…국힘, 복당 놓고도 이견
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1rcHF6R3g5Mm90ZmE4RVlWclBKdTN2TTVxQWFrVkR0c2w0V3VfeGh3eHc0MkJSVUNSMGltbWNiQ0Z4TU1BemRaQl9BVEdsVnczQVZIRjRzVkNvb0RYeGVOQVRKa1FhXzlteDdkRkIyc9IBc0FVX3lxTE5hT0xMOXl2RWFNOGV0eFZwRHJNYnd3aUpGd0RFYzhrMjJMQlpLSEg0eWRqQXFUcTJJakFNSTRpVTZpcm8ta0I2TDFRWlMxclJ4Z1lUbHR4cXlfTnF3YUFFeVhUNEhnOEJnNThPdXpEdENsaVE?oc=5)
+
+---
+
