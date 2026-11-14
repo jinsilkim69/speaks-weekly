@@ -2653,5 +2653,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "7194e5d56eef69ac822fa5efb16d79e43279d6be13b5851fd100c242a6cbb395",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "김민석 취임 뒤 흔들린 與 ‘집토끼’…진보층 파고든 조국혁신당 [데이터로 본 정치민심] - 서울경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1NGFqbDdVaDg5TGFCdGpuNFkzTU42aGlFQ3FvOU5MdDZZSjJWMWVibkV5VTBGTFdmS1hrTC1yc0h6Nm02NDJqYl9sb0cwMGRUM1HSAVNBVV95cUxQTkpQM3JTTWZvUG9CeElqeDZORDI4Y0JDclVUZExHSG4xcjRRSUdpVXkzdWhUWmVudXQxeEFZMUR3V1hrTUIxMGt2NF9GNGhWR0tEVQ?oc=5\" target=\"_blank\">김민석 취임 뒤 흔들린 與 ‘집토끼’…진보층 파고든 조국혁신당 [데이터로 본 정치민심]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1NGFqbDdVaDg5TGFCdGpuNFkzTU42aGlFQ3FvOU5MdDZZSjJWMWVibkV5VTBGTFdmS1hrTC1yc0h6Nm02NDJqYl9sb0cwMGRUM1HSAVNBVV95cUxQTkpQM3JTTWZvUG9CeElqeDZORDI4Y0JDclVUZExHSG4xcjRRSUdpVXkzdWhUWmVudXQxeEFZMUR3V1hrTUIxMGt2NF9GNGhWR0tEVQ?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 00:00:00 GMT",
+    "source": "서울경제",
+    "ageHours": 9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 취임 뒤 흔들린 與 ‘집토끼’…진보층 파고든 조국혁신당",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

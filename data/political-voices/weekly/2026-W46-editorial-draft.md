@@ -5318,3 +5318,16 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 김민석 취임 뒤 흔들린 與 ‘집토끼’…진보층 파고든 조국혁신당 [데이터로 본 정치민심] - 서울경제
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 취임 뒤 흔들린 與 ‘집토끼’…진보층 파고든 조국혁신당
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1NGFqbDdVaDg5TGFCdGpuNFkzTU42aGlFQ3FvOU5MdDZZSjJWMWVibkV5VTBGTFdmS1hrTC1yc0h6Nm02NDJqYl9sb0cwMGRUM1HSAVNBVV95cUxQTkpQM3JTTWZvUG9CeElqeDZORDI4Y0JDclVUZExHSG4xcjRRSUdpVXkzdWhUWmVudXQxeEFZMUR3V1hrTUIxMGt2NF9GNGhWR0tEVQ?oc=5)
+
+---
+
