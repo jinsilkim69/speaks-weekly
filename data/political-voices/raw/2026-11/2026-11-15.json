@@ -48,5 +48,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4a5084d43756d8dff5e41121511e943a2502413add8edbe43e06c655ff311a71",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "'Disaster for justice': Trump slams Newsom's plan to commute California's death sentences - KATU",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSjNmWlFkQmdEVFZ2MFE3TXdxUFpZc1kyZ3RIZ3MwNEhaeWlXclo2b2RYdnBKbFVDMlZGd25uRmtvSUFIYWVZaHdpc1kwWWRhUlhFSGpWV0ZfY2psQzZhd1dpSjhLZS1heEJKb0ZoTnNFeXd5ZERvQnU0SHpiUmZxQ3hyZmh2bWw5T3NiYldtZDdVVFN2S3lNSDJIZFdXWVdzX3pjeEEzTVNGUGNyMFk4Qlc1RWJYYVdKY1pYRlhjWUY4Znd0UE01WF9SYnZHX05rRVMzY3JhYW8xUW1XM1pJVmpoVEFzeHdEeWpRSm53?oc=5\" target=\"_blank\">'Disaster for justice': Trump slams Newsom's plan to commute California's death sentences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KATU</font>",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSjNmWlFkQmdEVFZ2MFE3TXdxUFpZc1kyZ3RIZ3MwNEhaeWlXclo2b2RYdnBKbFVDMlZGd25uRmtvSUFIYWVZaHdpc1kwWWRhUlhFSGpWV0ZfY2psQzZhd1dpSjhLZS1heEJKb0ZoTnNFeXd5ZERvQnU0SHpiUmZxQ3hyZmh2bWw5T3NiYldtZDdVVFN2S3lNSDJIZFdXWVdzX3pjeEEzTVNGUGNyMFk4Qlc1RWJYYVdKY1pYRlhjWUY4Znd0UE01WF9SYnZHX05rRVMzY3JhYW8xUW1XM1pJVmpoVEFzeHdEeWpRSm53?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 15:30:58 GMT",
+    "source": "KATU",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 'Disaster for justice': Trump slams Newsom's plan to commute California's death sentences",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
