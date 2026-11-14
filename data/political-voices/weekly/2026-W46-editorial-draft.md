@@ -6072,3 +6072,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop - The New York Times
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump claims he offered job of White House press secretary to UFC CEO Dana White - WTVR.com
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump claims he offered job of White House press secretary to UFC CEO Dana White
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDlGVHI0YVFndk52V3Vfcm1lcldoTEM2MmpWMU1WUGtDSWx5TmZDT1FRb3V1X0VHbzFkenRiNmtLYTE3SmhLajJYUzlnc2RNc1Rxem1wSEJ5SVRSMXNIVGdhV3RjRmxpdjNJM3pMRlV2ek5IMUVfLVpxOU5pNmlCRkU3bzhVTWdUSVdGVEJsWjRrbWpkVDNVcGJmZjcxeG5KMnNvWkNDVDdCZjVNbXVQZ1gzakRCV2pKUnZJdXRhME5nUQ?oc=5)
+
+---
+
