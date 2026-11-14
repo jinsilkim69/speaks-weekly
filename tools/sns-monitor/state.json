@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T09:31:21.395Z",
+  "lastCheckedAt": "2026-11-14T09:41:15.781Z",
   "seenPostIds": {
-    "RGlkIFRydW1wIGNhbGwgSkQgVmFuY2Ug": {
-      "seenAt": "2026-11-11T01:50:16.468Z",
-      "title": "Did Trump call JD Vance 'Judas' in a post? - Snopes",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "7J207J6s66qFIOuMgO2GteuguSDigJzr": {
       "seenAt": "2026-11-11T08:41:59.516Z",
       "title": "이재명 대통령 “농업은 국가 전략산업”…CPTPP·농지 개혁, 인천·경기 농가 촉각 - 인천일보",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-14T09:31:22.807Z",
       "title": "한동훈 \"유죄 확정 시 시한부 대통령\"…최민희 \"거짓말 마라. 공작 재판\" - JTBC",
       "targetName": "한동훈"
+    },
+    "83466753d878d862f765fa5b1b1721ee48f5af0765126b546a01de50e44b74f9": {
+      "seenAt": "2026-11-14T09:41:16.852Z",
+      "title": "한동훈·최민희, 이 대통령· 윤석열 재판 놓고 온라인 설전 - 한겨레",
+      "targetName": "한동훈"
+    },
+    "ec694b303be9b66e98c08f3d5ff64cbdcb072355254e5ec536361dc65e02f0f6": {
+      "seenAt": "2026-11-14T09:41:17.473Z",
+      "title": "세 명의 기자회견이 아니라, 정청래 정치가 남긴 청구서다 - 세계뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": []

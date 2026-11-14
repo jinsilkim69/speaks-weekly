@@ -2803,5 +2803,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "83466753d878d862f765fa5b1b1721ee48f5af0765126b546a01de50e44b74f9",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈·최민희, 이 대통령· 윤석열 재판 놓고 온라인 설전 - 한겨레",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBOQkRkS3YwX3ctSnBZZk5jZkxCaEtRck9kQUp2LW94NVBFR2taeEtSU2s0cWJMa25DdHZzaTFHVEhXOG9UYllWRmlqVmU3MFpranQxMFhEaThORjFJYkNuMUc3MUhKd3dJMEhPWkcxVWN4VXRI?oc=5\" target=\"_blank\">한동훈·최민희, 이 대통령· 윤석열 재판 놓고 온라인 설전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOQkRkS3YwX3ctSnBZZk5jZkxCaEtRck9kQUp2LW94NVBFR2taeEtSU2s0cWJMa25DdHZzaTFHVEhXOG9UYllWRmlqVmU3MFpranQxMFhEaThORjFJYkNuMUc3MUhKd3dJMEhPWkcxVWN4VXRI?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 09:37:00 GMT",
+    "source": "한겨레",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈·최민희, 이 대통령· 윤석열 재판 놓고 온라인 설전",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "ec694b303be9b66e98c08f3d5ff64cbdcb072355254e5ec536361dc65e02f0f6",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "세 명의 기자회견이 아니라, 정청래 정치가 남긴 청구서다 - 세계뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nNHkzcWpGSlYyaVYxZnRmTzlZS1VCZW02UmhjYUduZUxkc1BEXzFuWVEzUzJUT1UxN3pMUWpwSFY2eGdmalZzbVZSdzFOeEJvX090OXlFQmNxd9IBVEFVX3lxTE5jMExvWmRoQ3l1aDBvdFRSUHdmcVN5SDRmVlgwemktVFBseUVhMjdfQWhFN3h4UUU1UjlpSVo5S2l6RXM5MTdfOEdsRmZmOVFoX255ag?oc=5\" target=\"_blank\">세 명의 기자회견이 아니라, 정청래 정치가 남긴 청구서다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nNHkzcWpGSlYyaVYxZnRmTzlZS1VCZW02UmhjYUduZUxkc1BEXzFuWVEzUzJUT1UxN3pMUWpwSFY2eGdmalZzbVZSdzFOeEJvX090OXlFQmNxd9IBVEFVX3lxTE5jMExvWmRoQ3l1aDBvdFRSUHdmcVN5SDRmVlgwemktVFBseUVhMjdfQWhFN3h4UUU1UjlpSVo5S2l6RXM5MTdfOEdsRmZmOVFoX255ag?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 07:46:12 GMT",
+    "source": "세계뉴스",
+    "ageHours": 1.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 세 명의 기자회견이 아니라, 정청래 정치가 남긴 청구서다",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
