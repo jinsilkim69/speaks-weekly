@@ -5058,3 +5058,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조작기소특검법, 이 대통령이 직접 책임져야"…국무회의 처리 총리 전가 비판 - 스페셜타임스
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조작기소특검법, 이 대통령이 직접 책임져야"…국무회의 처리 총리 전가 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE03VlNzYmFTT3hZMGlxZjIyQnB5LXdIenFxdGRqaGtJRWtabjhHMXhOWW9ocklGNEVUZGg0aWUxNDFwQk9OXy1LdG1XZkNheUdhMkNmWkFjNHM1Szg2eXN1N0cwdXJWUEI4WWVzWWJ5b19PNjA?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** "尹보다 李가 더 빼박" 한동훈, 최민희에 "우기지 말고 반박하라" - 대전일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "尹보다 李가 더 빼박" 한동훈, 최민희에 "우기지 말고 반박하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE5GV0s1OWdwTFFDRjBVVHRsb2E4ZWRPOWdoYmtVOHB4dnpnT0l5ZzJPZmt3SXl4ZTFYel9nMEt4Wkh4WTE0WmdOeThBUVRHQ1F5Z0s5MkI4bkNZdEhjQ2dlTUhUQlpMSzJOMlhVb3JJVQ?oc=5)
+
+---
+

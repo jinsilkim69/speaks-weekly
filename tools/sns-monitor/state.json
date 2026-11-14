@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T06:31:15.002Z",
+  "lastCheckedAt": "2026-11-14T06:41:14.865Z",
   "seenPostIds": {
-    "7KCV7LKt656YIOKAnOqwleumiSDqsIDr": {
-      "seenAt": "2026-11-10T21:55:59.715Z",
-      "title": "정청래 “강릉 가뭄 특별예산 필요…대책 부족했다” - KBS 뉴스",
-      "targetName": "정청래"
-    },
     "7KCV7LmY6raMIOqwle2DgO2VnCDsnbTs": {
       "seenAt": "2026-11-10T21:56:00.209Z",
       "title": "정치권 강타한 이준석의 ‘SNS 정치’…소통도 대응도 페북으로 - JTBC",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-14T06:31:16.167Z",
       "title": "\"내가 왜 노무현 추천서를 받나\" 전한길 저격한 이준석 - 데일리안",
       "targetName": "이준석"
+    },
+    "7d513e6cab05bb3be0ab11e0d36e5a562962da92e2b2d0a761f31ad547757492": {
+      "seenAt": "2026-11-14T06:41:16.541Z",
+      "title": "한동훈 \"조작기소특검법, 이 대통령이 직접 책임져야\"…국무회의 처리 총리 전가 비판 - 스페셜타임스",
+      "targetName": "한동훈"
+    },
+    "ba687c658ccd8268c13f406bda30c2e056c3128a59af7b763bf395d84d5f4306": {
+      "seenAt": "2026-11-14T06:41:17.453Z",
+      "title": "\"尹보다 李가 더 빼박\" 한동훈, 최민희에 \"우기지 말고 반박하라\" - 대전일보",
+      "targetName": "한동훈"
     }
   },
   "pending": []
