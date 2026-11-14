@@ -5188,3 +5188,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈·최민희 공직선거법 재판 설전…SNS 공방 : 정치 - 재경일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈·최민희 공직선거법 재판 설전…SNS 공방 : 정치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE80ZXF0Zkk0d0tLd2xNcEdzUHlvbkplLUlXd0tFRWtGV0VObVdDYlMtNHZRV1owVl9BNUZaRmxmT1Y5XzRZb28yeUVUTQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 혁신당, ‘김민석-조국 회동설’에 “통합 논의 1㎜도 진행 안 돼” - 한겨레
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 혁신당, ‘김민석-조국 회동설’에 “통합 논의 1㎜도 진행 안 돼”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE1VRUNfZThObmlMNGk2LVJVeUpqWHV4WWFXVVNhMnBSY084RVYyQlB4eVV4MEhzTTlscVNqdEpmMHYwTnNCNGFybm1INUZFUUl3OFVKTTBQZEZZbDQwT2E0bjRhNHBfdEpNMzlFSEp2aWxPbnl6?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** ‘대표팀 무단 이탈 소동→쓸쓸한 국가대표 은퇴’ 호날두, 조국은 경기 준비 한창인데...알나스르 수뇌부와 행복한 골프 인증샷! - 인터풋볼
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘대표팀 무단 이탈 소동→쓸쓸한 국가대표 은퇴’ 호날두, 조국은 경기 준비 한창인데...알나스르 수뇌부와 행복한 골프 인증샷!
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE9hOXhwYU1pOHBCaDJ6Q0t6dFRnY3htYjNJbUFZZnVvQTJmeF9zaHYtVEt0TkZyWVNHQU5wNEp5d0dlWktpNjEzVnpjOUVVaWVianl1Q2hQeFRzSUZaVHRxSWdkWXpjY2xiMkxJbl9hMWF3OUhW?oc=5)
+
+---
+
