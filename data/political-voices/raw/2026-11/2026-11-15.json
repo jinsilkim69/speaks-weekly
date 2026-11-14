@@ -223,5 +223,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "0d13202c6257a0b93cb3aa3aae5607c4e84b78594dd5d4a026be2419914f0644",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "[강릉뉴스 칼럼] 김민석 대표는 왜 물러나야 하나? - 강릉뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1FY2YzdlY1NTlaYjEtVHZzQTYwNmhKM3AySEpBbjN1VEpCaXZLWXBaRGcxRW9VTnNjY1Jza29Rb0JsQXFRekp2Z0xSWmp0OWQ5TkpldUQ4WmJTVkFWVnBNMl9odUZyWWUwMXZUZndjMA?oc=5\" target=\"_blank\">[강릉뉴스 칼럼] 김민석 대표는 왜 물러나야 하나?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강릉뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FY2YzdlY1NTlaYjEtVHZzQTYwNmhKM3AySEpBbjN1VEpCaXZLWXBaRGcxRW9VTnNjY1Jza29Rb0JsQXFRekp2Z0xSWmp0OWQ5TkpldUQ4WmJTVkFWVnBNMl9odUZyWWUwMXZUZndjMA?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 17:04:33 GMT",
+    "source": "강릉뉴스",
+    "ageHours": 3.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 대표는 왜 물러나야 하나?",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "a582d3b811474af7ce3c1c66b8663e0581bdc9add5bc728d3b999abb588bf40d",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "공단 감사직 떨어지자 당 체육위원장... 김민석 ’20년 최측근' 챙기기 - 조선일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE52MUowOS1ITWtRY1ZlNzFnQng5RmhnNDdhYUlOSVJsaHpobUFrTWRoNzBFVDNlUUc5VUFpMnZTT3dKN25rYjl1U3Y1ZzE5bHFZRTRCZXE1VXIzcGM0ZVYxaXJRbWU2T1hnN3hjcURMZzRBdF9ISGNHY3NB?oc=5\" target=\"_blank\">공단 감사직 떨어지자 당 체육위원장... 김민석 ’20년 최측근' 챙기기</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52MUowOS1ITWtRY1ZlNzFnQng5RmhnNDdhYUlOSVJsaHpobUFrTWRoNzBFVDNlUUc5VUFpMnZTT3dKN25rYjl1U3Y1ZzE5bHFZRTRCZXE1VXIzcGM0ZVYxaXJRbWU2T1hnN3hjcURMZzRBdF9ISGNHY3NB?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 20:00:00 GMT",
+    "source": "조선일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 공단 감사직 떨어지자 당 체육위원장... 김민석 ’20년 최측근' 챙기기",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

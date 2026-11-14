@@ -5968,3 +5968,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [강릉뉴스 칼럼] 김민석 대표는 왜 물러나야 하나? - 강릉뉴스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 대표는 왜 물러나야 하나?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1FY2YzdlY1NTlaYjEtVHZzQTYwNmhKM3AySEpBbjN1VEpCaXZLWXBaRGcxRW9VTnNjY1Jza29Rb0JsQXFRekp2Z0xSWmp0OWQ5TkpldUQ4WmJTVkFWVnBNMl9odUZyWWUwMXZUZndjMA?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 공단 감사직 떨어지자 당 체육위원장... 김민석 ’20년 최측근' 챙기기 - 조선일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 공단 감사직 떨어지자 당 체육위원장... 김민석 ’20년 최측근' 챙기기
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE52MUowOS1ITWtRY1ZlNzFnQng5RmhnNDdhYUlOSVJsaHpobUFrTWRoNzBFVDNlUUc5VUFpMnZTT3dKN25rYjl1U3Y1ZzE5bHFZRTRCZXE1VXIzcGM0ZVYxaXJRbWU2T1hnN3hjcURMZzRBdF9ISGNHY3NB?oc=5)
+
+---
+
