@@ -2478,5 +2478,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "a5c594639552b8f5128958b72536a5d22924bf856b3a595aaee14720d8283d13",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "[속보] 최민희 \"尹은 유죄 빼박\" vs 한동훈 \"李대통령이 더 빼박\"…SNS 설전 - 매일신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vMVo3TG5xcXRWVEpLUVZwdGpQLVUwcThZSGZDUmszSUNleWlndTNTTWlJVFdZSnFLRTBtUDF1aGVadDBSd0ZaY1QwYU56Y2ZZeUVTMXRFbDVMVWk3Q3M3SmpB?oc=5\" target=\"_blank\">[속보] 최민희 \"尹은 유죄 빼박\" vs 한동훈 \"李대통령이 더 빼박\"…SNS 설전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vMVo3TG5xcXRWVEpLUVZwdGpQLVUwcThZSGZDUmszSUNleWlndTNTTWlJVFdZSnFLRTBtUDF1aGVadDBSd0ZaY1QwYU56Y2ZZeUVTMXRFbDVMVWk3Q3M3SmpB?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 07:46:11 GMT",
+    "source": "매일신문",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 최민희 \"尹은 유죄 빼박\" vs 한동훈 \"李대통령이 더 빼박\"…SNS 설전",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
