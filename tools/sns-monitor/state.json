@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T03:01:19.008Z",
+  "lastCheckedAt": "2026-11-14T03:11:16.589Z",
   "seenPostIds": {
-    "IuyGkCDslYTrgbzroKQg7J6l6rCRIOyw": {
-      "seenAt": "2026-11-10T08:17:13.003Z",
-      "title": "\"손 아끼려 장갑 착용?\" 어르신 발 씻겨준 조국, 장갑 봉사 사진 논란에 반박 - 파이낸셜뉴스",
-      "targetName": "조국"
-    },
     "7KGw6rWtICLsnKHsgqzsmYAg7YOc66aJ": {
       "seenAt": "2026-11-10T08:17:13.003Z",
       "title": "조국 \"육사와 태릉골프장에 최고급 공공임대주택 공급해야\" - 뉴시스",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-14T03:01:20.385Z",
       "title": "계파 갈등에 막힌 김민석, 강경 투쟁에 갇힌 장동혁 - 중앙일보",
       "targetName": "김민석"
+    },
+    "8fa07a7a8599d60f377e6f1e866c21c6a7d0330a5cd7bde17b5044de31496039": {
+      "seenAt": "2026-11-14T03:11:18.079Z",
+      "title": "[속보] 한동훈 “이재명, 확정적 ‘시한부 대통령’…윤석열보다 더 빼박” - 경기일보",
+      "targetName": "한동훈"
+    },
+    "c1c86bbabdb25c85c877c6c1d2ea789c48adfae24d4b6b3bd8b818954cc4eb7b": {
+      "seenAt": "2026-11-14T03:11:18.680Z",
+      "title": "[속보] 전한길 \"이준석 하버드 졸업장 내놔라\"…이준석 \"허위 사실 남발 추가 고소\" - 프레시안",
+      "targetName": "이준석"
     }
   },
   "pending": []

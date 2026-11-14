@@ -4616,3 +4616,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [속보] 한동훈 “이재명, 확정적 ‘시한부 대통령’…윤석열보다 더 빼박” - 경기일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “이재명, 확정적 ‘시한부 대통령’…윤석열보다 더 빼박”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRDRla1VCa0ZMVE1CeC1rbGF6V3ZuX0lTUzlHX2V1RHMyeVBYMXI2WUdpY3ZuVTdhdVdYdWNqV3loamNmVklIdVFuNjB5dHc4b2ZKeXBqaE1xYms?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** [속보] 전한길 "이준석 하버드 졸업장 내놔라"…이준석 "허위 사실 남발 추가 고소" - 프레시안
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 전한길 "이준석 하버드 졸업장 내놔라"…이준석 "허위 사실 남발 추가 고소"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFBWRDJ0NEtVLXNRVmJnRWhEN1R4M19CUkJXRWVFSXRoNUxjSk5nN0o4am9KekhvYzZ0MmYxMEM5ZVIxR21ZM25hU3F1eVFObTdPMUZEZG5KTWxuRGJZT09PZnAwQjRQUnR3UTU2V1ZkVTJDMXh1UDZCUzlKVzNJTEk?oc=5)
+
+---
+
