@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T10:01:15.537Z",
+  "lastCheckedAt": "2026-11-14T10:11:17.083Z",
   "seenPostIds": {
-    "W+yGjeuztF0g7Jik7IS47ZuIICftlZzr": {
-      "seenAt": "2026-11-11T08:41:59.773Z",
-      "title": "[속보] 오세훈 '한동훈 국민의힘 복당, 총선 승리에 반드시 필요'…전대 전 '비대위 전환' 선택지 언급 - 매일신문",
-      "targetName": "한동훈"
-    },
-    "4oCc7ZWc64+Z7ZuIIOydmOybkCDtlZwg": {
-      "seenAt": "2026-11-11T08:41:59.773Z",
-      "title": "“한동훈 의원 한 춤 하시네” VS “상태 걱정되는 분이 민주 대변인” - 주간경향",
-      "targetName": "한동훈"
-    },
-    "7ZWc64+Z7ZuIICLsobDsnpHsp5Xqs4Qg": {
-      "seenAt": "2026-11-11T08:41:59.773Z",
-      "title": "한동훈 \"조작징계 무효, 이실직고해야\"…장동혁 \"법적 대응하라\"(종합) - 뉴스1",
-      "targetName": "한동훈"
-    },
     "7KGw6rCR7KCcICLrs7TsiJgg7J6s6rG0": {
       "seenAt": "2026-11-11T08:41:59.773Z",
       "title": "조갑제 \"보수 재건에 한동훈은 뺄 수 없어…장동혁은 빼야 하는 인물\" - 뉴시스",
@@ -2515,6 +2500,16 @@
       "seenAt": "2026-11-14T10:01:18.069Z",
       "title": "Trump Truth Social post attempting to big up his accomplishments backfired instantly - Indy100",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "2b8e811b081b9a2a933cc390aed07c2c8251d92d3572d71dd9981b854401b633": {
+      "seenAt": "2026-11-14T10:11:18.537Z",
+      "title": "[속보] 최민희·한동훈, 이재명·윤석열 재판 놓고 SNS 설전…“시한부 대통령” vs “공작재판” - 강원일보",
+      "targetName": "이재명"
+    },
+    "ee3958775f5a2f69c257b1b8a34d5343d412de4f31b4cfc6801fd027db20a684": {
+      "seenAt": "2026-11-14T10:11:19.267Z",
+      "title": "[속보] 최민희·한동훈, 이재명·윤석열 재판 놓고 SNS 설전…“시한부 대통령” vs “공작재판” - 강원일보",
+      "targetName": "한동훈"
     }
   },
   "pending": []
