@@ -2101,5 +2101,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "268c2d71bb388f28525883fef22afb41c3d08e8a3dda70c4b6d54f82d7e06bca",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석, 전한길 추가 고소 예고…“노 대통령 추천서를 내가 어떻게 받나” - 한겨레",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5uRXpWb0ZpRVJFbDUzWnVnYTJkNEJlMndfY3Mwc0dTRFh4Tl9EU3JKTHpGUzV6bWVwSlJFMllZQ3dSQmlNdlRCbE56SUN5Qk9Sa1YwSFpUdkJjQnJYYS1hbXd5NDF0QlpuZFpRVGxYTnV3YjZN?oc=5\" target=\"_blank\">이준석, 전한길 추가 고소 예고…“노 대통령 추천서를 내가 어떻게 받나”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uRXpWb0ZpRVJFbDUzWnVnYTJkNEJlMndfY3Mwc0dTRFh4Tl9EU3JKTHpGUzV6bWVwSlJFMllZQ3dSQmlNdlRCbE56SUN5Qk9Sa1YwSFpUdkJjQnJYYS1hbXd5NDF0QlpuZFpRVGxYTnV3YjZN?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 06:04:00 GMT",
+    "source": "한겨레",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석, 전한길 추가 고소 예고…“노 대통령 추천서를 내가 어떻게 받나”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
