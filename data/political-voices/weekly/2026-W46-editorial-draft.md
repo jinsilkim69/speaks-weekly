@@ -5435,3 +5435,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 李대통령 강추 `이재명의 시간`, 1년 뒤 베스트셀러 역주행 교보문고 정치사회 1위 - 매일신문
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 李대통령 강추 `이재명의 시간`, 1년 뒤 베스트셀러 역주행 교보문고 정치사회 1위
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wTzRuTi1uWmw5TzhTZkFzR1ptNUlrTG9HRnpwQ1laR01wc0FCUDZVaDM1Y2tqN0FzUk9Sc3hEdFVHeUtPc01LQmRaWjRkeVFaQ3c5X1FlVlh6cWRqOFJWWi1R?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 하버드 입학 의혹 제기한 전한길 추가 고소 예고 - 대전일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 하버드 입학 의혹 제기한 전한길 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE5VbEg2dUY3TzFGMk96ek1ocC1EQzZQLXBvS1hhem12aGM4SjFvTV8xdnNsNWM2VzJLSV9LNEpGWmJzekx5TXFmcUxYa0t4bEFCblVIQTZxWWlHeG9lajh3QUxORG1Ta2xMdzFvU2t5RdIBc0FVX3lxTE1rTDJfbXViVGJiRWhjME95aHV4aU5SZEtVWS1CYUlvNlNFd2FJVE15TWlBVFFEM3hWbTh4YzdVeWRzNkRhaWlEUDJva2pIVkEwdkw3NnRaWUFiSUc1ZE5ZU2RuMm9oY1Q1SzBuMVZ4OHNTUUk?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Truth Social post attempting to big up his accomplishments backfired instantly - Indy100
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Truth Social post attempting to big up his accomplishments backfired instantly
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXphRFZHTV9DTXMxODljWFEtcjhoRjE0ODloNzlTOGhPYVJZbi1rbTVXVUJyWUU4Qk5SWVduYjMweTlKQzNVaURveU94bWdIM1h1cUNON0l1VHV1d2dxR0ZoOHphQTh0bm1IMHVLUXRtU2g5N1ExdlptaFNhcmJfSy1OYk9PWTg5TG5zbERB?oc=5)
+
+---
+
