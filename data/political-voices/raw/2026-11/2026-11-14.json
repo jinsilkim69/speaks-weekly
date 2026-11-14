@@ -3581,5 +3581,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "0ab3b7c3d727010a3bda8cad2d98e45fee5c7e628d0a1a9f63df008b0c97f462",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석 “내가 노무현 추천서 받았다고?” 전한길 형사고소 예고 - 미디어오늘",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0tVHg1UWRENmZmbmM5dVN6MTVkam9rbHFERV9SVGVnSjVDYVJNOXlacU9zdTJNbUdzeVlBTkV4VVlpOGxLYzd5bkNMb2d0ZEgyenpjaU5seGFuVURXa0toOFU0b2ZUYU9BaFVWSVhIQnhFN3Rr?oc=5\" target=\"_blank\">이준석 “내가 노무현 추천서 받았다고?” 전한길 형사고소 예고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미디어오늘</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tVHg1UWRENmZmbmM5dVN6MTVkam9rbHFERV9SVGVnSjVDYVJNOXlacU9zdTJNbUdzeVlBTkV4VVlpOGxLYzd5bkNMb2d0ZEgyenpjaU5seGFuVURXa0toOFU0b2ZUYU9BaFVWSVhIQnhFN3Rr?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 10:55:04 GMT",
+    "source": "미디어오늘",
+    "ageHours": 1.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석 “내가 노무현 추천서 받았다고?” 전한길 형사고소 예고",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T12:31:17.415Z",
+  "lastCheckedAt": "2026-11-14T12:41:14.634Z",
   "seenPostIds": {
-    "7Iug7J6l7IudIOuMgO2RnCwg64aN7KeA": {
-      "seenAt": "2026-11-11T08:42:01.332Z",
-      "title": "신장식 대표, 농지 국가 책임 담은 농지법 개정안 대표발의 - 농수축산신문",
-      "targetName": "신장식"
-    },
     "7Iug7J6l7IudIOydmOybkCDigJzqta3q": {
       "seenAt": "2026-11-11T08:42:01.332Z",
       "title": "신장식 의원 “국가가 책임지고 농지 보전해야” - 농축유통신문",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-14T12:31:18.955Z",
       "title": "Dana White-Donald Trump press secretary episode doubles as promotion for UFC 334 - The New York Times",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "0ab3b7c3d727010a3bda8cad2d98e45fee5c7e628d0a1a9f63df008b0c97f462": {
+      "seenAt": "2026-11-14T12:41:15.698Z",
+      "title": "이준석 “내가 노무현 추천서 받았다고?” 전한길 형사고소 예고 - 미디어오늘",
+      "targetName": "이준석"
     }
   },
   "pending": []
