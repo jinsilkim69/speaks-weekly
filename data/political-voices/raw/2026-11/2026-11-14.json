@@ -2378,5 +2378,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "0ac3d0cfab1dc349fab3e176da4572d724dd2fea6b295d41b600124352285564",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "李대통령·尹 선거법 재판 두고 한동훈·최민희 SNS 설전 - 한국경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE13N1ppZGk2cjY5dnNpd2E3OHQzeHlCdjFlMUY0cnBfd1RiVW9FVVZQYVBNaFdzUjhjU1VlcUEwenhlbnB6NWpGZ2tIYW5xZjlLcTBNazQzWk5TQQ?oc=5\" target=\"_blank\">李대통령·尹 선거법 재판 두고 한동훈·최민희 SNS 설전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13N1ppZGk2cjY5dnNpd2E3OHQzeHlCdjFlMUY0cnBfd1RiVW9FVVZQYVBNaFdzUjhjU1VlcUEwenhlbnB6NWpGZ2tIYW5xZjlLcTBNazQzWk5TQQ?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 07:23:56 GMT",
+    "source": "한국경제",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 李대통령·尹 선거법 재판 두고 한동훈·최민희 SNS 설전",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T07:21:15.944Z",
+  "lastCheckedAt": "2026-11-14T07:31:18.059Z",
   "seenPostIds": {
-    "VHJ1bXAgSGl0IGJ5IEJydXRhbCBUcnV0": {
-      "seenAt": "2026-11-10T21:56:01.291Z",
-      "title": "Trump Hit by Brutal Truth Social Exodus - Yahoo",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "4oCc7ZWc64+Z7ZuIIOydmOybkCDtlZzs": {
-      "seenAt": "2026-11-11T01:50:14.580Z",
-      "title": "“한동훈 의원 한춤 하시네” VS “상태 걱정되는 분, 민주 대변인” - 주간경향",
-      "targetName": "한동훈"
-    },
-    "7KGw6rOE7JuQICLtlZzrj5ntm4gg7ZWc": {
-      "seenAt": "2026-11-11T01:50:14.580Z",
-      "title": "조계원 \"한동훈 한 춤 하시네\"vs 한동훈 \"상태가 좀 걱정되는 분\"(영상) - 뉴시스",
-      "targetName": "한동훈"
-    },
     "J+yyreuLtOuPmSDsnZjtmLknIOyhsOqz": {
       "seenAt": "2026-11-11T01:50:14.580Z",
       "title": "'청담동 의혹' 조계원 \"한동훈 한 춤 하시네\" vs 韓 \"趙 상태 걱정돼\" - 뉴스1",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-14T07:21:18.706Z",
       "title": "\"노무현 대통령 추천으로 하버드 입학?\"…이준석, 전한길 추가 고소 예고 - 뉴시스",
       "targetName": "이준석"
+    },
+    "0ac3d0cfab1dc349fab3e176da4572d724dd2fea6b295d41b600124352285564": {
+      "seenAt": "2026-11-14T07:31:19.585Z",
+      "title": "李대통령·尹 선거법 재판 두고 한동훈·최민희 SNS 설전 - 한국경제",
+      "targetName": "한동훈"
     }
   },
   "pending": []
