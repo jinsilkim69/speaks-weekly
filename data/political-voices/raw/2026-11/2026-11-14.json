@@ -3079,5 +3079,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "a8e85c275878ae76cf334800a9fe42ff66eadbccdcdbfae114f5d9c660561777",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump touts Iran victory by ‘status quo’ economic pressure - The Washington Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjdDUkdQaXVrcUlEYlg0SmxsT1hTdllwUzR1UWhJd3REV2czeXZjaHNTcnpGbnJzNVd5QkJZQUN4WHgxeG0yMFJIMTBTOGFkRmk1d2JVd2lXQWI4VmI0STRtQ3dRV3IwUHVackQxMGxSVUJ3empRR1NLWk1URkl4ODN5YktkUTN2T05SOUxoUmFqbkdtTlBVaXNUNW5ibkx6WGxLMjFabFA0X3BTeTFkeEUyc1JJY2dv?oc=5\" target=\"_blank\">Trump touts Iran victory by ‘status quo’ economic pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjdDUkdQaXVrcUlEYlg0SmxsT1hTdllwUzR1UWhJd3REV2czeXZjaHNTcnpGbnJzNVd5QkJZQUN4WHgxeG0yMFJIMTBTOGFkRmk1d2JVd2lXQWI4VmI0STRtQ3dRV3IwUHVackQxMGxSVUJ3empRR1NLWk1URkl4ODN5YktkUTN2T05SOUxoUmFqbkdtTlBVaXNUNW5ibkx6WGxLMjFabFA0X3BTeTFkeEUyc1JJY2dv?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 04:43:41 GMT",
+    "source": "The Washington Post",
+    "ageHours": 5.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump touts Iran victory by ‘status quo’ economic pressure",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "4f9b7e7af2a63780777af88418efa101946bf96c992161861e9ec227fe4aaf9b",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "한동훈 \"이재명 재판 열리면 당선무효\"…최민희 \"거짓말 마라\" 설전 - KBC광주방송",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KZU1MSTNIQnhuaFJtTGtKdnVjNGdIWldsYTRjNzRsQTM0RjJGdV9YMEI2aDBXY1pDZDA4RVhNWE5EVk9Fd2xEb05teV9abkxodlRHMFpSWUtuaUZ5MHRNTQ?oc=5\" target=\"_blank\">한동훈 \"이재명 재판 열리면 당선무효\"…최민희 \"거짓말 마라\" 설전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KZU1MSTNIQnhuaFJtTGtKdnVjNGdIWldsYTRjNzRsQTM0RjJGdV9YMEI2aDBXY1pDZDA4RVhNWE5EVk9Fd2xEb05teV9abkxodlRHMFpSWUtuaUZ5MHRNTQ?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 08:18:49 GMT",
+    "source": "KBC광주방송",
+    "ageHours": 2.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"이재명 재판 열리면 당선무효\"…최민희 \"거짓말 마라\" 설전",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "4844454ac60e8800e847c5c0d487774023e57c3a478a55ebd63f7d3f5d37806d",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "최민희·한동훈 SNS서 설전···“막 우기면 추해” “거짓말 마라” - 경향신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lanJsaHFVa3VVMjdJMU15VlVlczJ6N3RwdERNTm9ndzRuNS11Z1Zjc05yQl9fZFBhV0k5TTQxcld0QWFhbkt3aXN0cTZVYVdELUphYWs1N3pFVlZjcmhz0gFfQVVfeXFMTWVqcmxocVVrdVUyN0kxTXlWVWVzMno3dHB0RE1Ob2d3NG41LXVnVmNzTnJCX19kUGFXSTlNNDFyV3RBYWFuS3dpc3RxNlVhV0QtSmFhazU3ekVWVmNyaHM?oc=5\" target=\"_blank\">최민희·한동훈 SNS서 설전···“막 우기면 추해” “거짓말 마라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lanJsaHFVa3VVMjdJMU15VlVlczJ6N3RwdERNTm9ndzRuNS11Z1Zjc05yQl9fZFBhV0k5TTQxcld0QWFhbkt3aXN0cTZVYVdELUphYWs1N3pFVlZjcmhz0gFfQVVfeXFMTWVqcmxocVVrdVUyN0kxTXlWVWVzMno3dHB0RE1Ob2d3NG41LXVnVmNzTnJCX19kUGFXSTlNNDFyV3RBYWFuS3dpc3RxNlVhV0QtSmFhazU3ekVWVmNyaHM?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 08:10:00 GMT",
+    "source": "경향신문",
+    "ageHours": 2.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 최민희·한동훈 SNS서 설전···“막 우기면 추해” “거짓말 마라”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

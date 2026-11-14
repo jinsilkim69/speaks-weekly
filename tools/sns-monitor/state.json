@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T10:31:14.217Z",
+  "lastCheckedAt": "2026-11-14T10:41:14.213Z",
   "seenPostIds": {
-    "6rWt7Z6YIOuLueq2jO2MjCDsnKTrpqzs": {
-      "seenAt": "2026-11-11T08:41:59.773Z",
-      "title": "국힘 당권파 윤리위원 “한동훈 조작징계했다”고 사과 - 전북타임즈",
-      "targetName": "한동훈"
-    },
-    "7Jik7IS47ZuIIOKAnO2VnOuPme2biCDr": {
-      "seenAt": "2026-11-11T08:41:59.773Z",
-      "title": "오세훈 “한동훈 복당, 총선 승리에 반드시 필요…당내 공감대 먼저” - 채널A",
-      "targetName": "한동훈"
-    },
-    "4oCY7Jew7JWg67CV7IKs4oCZIOq5gOuv": {
-      "seenAt": "2026-11-11T08:42:00.015Z",
-      "title": "‘연애박사’ 김민석, 故 안판석 감독 추모…“너무 그립고 보고싶어요” - 스포츠경향",
-      "targetName": "김민석"
-    },
     "64uk7IucIOuzvCDsiJgg7JeG64qUIOuv": {
       "seenAt": "2026-11-11T08:42:00.015Z",
       "title": "다시 볼 수 없는 미소…김민석, 故안판석 감독과 투샷에 '먹먹' \"다행이다\" - SPOTV NEWS",
@@ -2515,21 +2500,36 @@
       "seenAt": "2026-11-14T10:31:16.773Z",
       "title": "이준석 \"노무현 대통령 추천서로 하버드 입학?\"⋯전한길 추가 고소 예고 - 아이뉴스24",
       "targetName": "이준석"
+    },
+    "a8e85c275878ae76cf334800a9fe42ff66eadbccdcdbfae114f5d9c660561777": {
+      "seenAt": "2026-11-14T10:41:15.667Z",
+      "title": "Trump touts Iran victory by ‘status quo’ economic pressure - The Washington Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "4f9b7e7af2a63780777af88418efa101946bf96c992161861e9ec227fe4aaf9b": {
+      "seenAt": "2026-11-14T10:41:16.429Z",
+      "title": "한동훈 \"이재명 재판 열리면 당선무효\"…최민희 \"거짓말 마라\" 설전 - KBC광주방송",
+      "targetName": "이재명"
+    },
+    "4844454ac60e8800e847c5c0d487774023e57c3a478a55ebd63f7d3f5d37806d": {
+      "seenAt": "2026-11-14T10:41:17.213Z",
+      "title": "최민희·한동훈 SNS서 설전···“막 우기면 추해” “거짓말 마라” - 경향신문",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "a8e85c275878ae76cf334800a9fe42ff66eadbccdcdbfae114f5d9c660561777",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump touts Iran victory by ‘status quo’ economic pressure - The Washington Post",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjdDUkdQaXVrcUlEYlg0SmxsT1hTdllwUzR1UWhJd3REV2czeXZjaHNTcnpGbnJzNVd5QkJZQUN4WHgxeG0yMFJIMTBTOGFkRmk1d2JVd2lXQWI4VmI0STRtQ3dRV3IwUHVackQxMGxSVUJ3empRR1NLWk1URkl4ODN5YktkUTN2T05SOUxoUmFqbkdtTlBVaXNUNW5ibkx6WGxLMjFabFA0X3BTeTFkeEUyc1JJY2dv?oc=5\" target=\"_blank\">Trump touts Iran victory by ‘status quo’ economic pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjdDUkdQaXVrcUlEYlg0SmxsT1hTdllwUzR1UWhJd3REV2czeXZjaHNTcnpGbnJzNVd5QkJZQUN4WHgxeG0yMFJIMTBTOGFkRmk1d2JVd2lXQWI4VmI0STRtQ3dRV3IwUHVackQxMGxSVUJ3empRR1NLWk1URkl4ODN5YktkUTN2T05SOUxoUmFqbkdtTlBVaXNUNW5ibkx6WGxLMjFabFA0X3BTeTFkeEUyc1JJY2dv?oc=5",
-        "pubDate": "Sat, 14 Nov 2026 04:43:41 GMT",
-        "source": "The Washington Post",
-        "ageHours": 5.8
+        "id": "06bee8b4b7ca79b0946e23d54b89488c4b6112981ebbb7a12af5cb4f46466826",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "“최민희 제명” vs “김민석 감찰”… 與 계파싸움 전면전 양상 - 동아일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1LX2FiSG5JTjBPSlN5dHlpb2VqOEVvZl96Y0tSZlRWXy1MT1MzNGdleWx1ZzZWZmNQNlJRUDg1aWg1Tk1RLU9hN3BMaGxMckh3UHRzaFlLZ2lfQ1BOa1RpTjFCVTFoQVM0Sm9KYU41a2lfX3ZfVWQ40gFmQVVfeXFMTS1CRVFqZzlVX3UtU1pPQlJaQkxGY0l5SmpNQnRnSk42blNIUmNRMEhFb2hTNHNYQlJNR3MwRV9SYXNtSV9jUGVrMXUtd21fcktqcDhDWVNxUWhUbGs3bnp3czBLWkdB?oc=5\" target=\"_blank\">“최민희 제명” vs “김민석 감찰”… 與 계파싸움 전면전 양상</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LX2FiSG5JTjBPSlN5dHlpb2VqOEVvZl96Y0tSZlRWXy1MT1MzNGdleWx1ZzZWZmNQNlJRUDg1aWg1Tk1RLU9hN3BMaGxMckh3UHRzaFlLZ2lfQ1BOa1RpTjFCVTFoQVM0Sm9KYU41a2lfX3ZfVWQ40gFmQVVfeXFMTS1CRVFqZzlVX3UtU1pPQlJaQkxGY0l5SmpNQnRnSk42blNIUmNRMEhFb2hTNHNYQlJNR3MwRV9SYXNtSV9jUGVrMXUtd21fcktqcDhDWVNxUWhUbGs3bnp3czBLWkdB?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 16:40:00 GMT",
+        "source": "동아일보",
+        "ageHours": 18
       },
       "delivered": [],
       "archived": false
