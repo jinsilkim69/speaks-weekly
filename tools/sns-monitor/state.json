@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T05:41:16.645Z",
+  "lastCheckedAt": "2026-11-14T05:51:16.106Z",
   "seenPostIds": {
-    "7KGw7KCV7ZuIwrfsnbTspIDshJ0sIOKA": {
-      "seenAt": "2026-11-10T16:29:20.785Z",
-      "title": "조정훈·이준석, ‘주거혁신포럼’ 세미나…수도권 주택 공급 논의 - KBS 뉴스",
-      "targetName": "이준석"
-    },
-    "7ZmN7KSA7ZGcIOKAnOydtOykgOyEneyd": {
-      "seenAt": "2026-11-10T16:29:20.785Z",
-      "title": "홍준표 “이준석이 나를 한동훈에 빗대 공격···왜 그러나” - 주간경향",
-      "targetName": "이준석"
-    },
     "7KGw6rWtLCDsnKHqtbDsgqzqtIDtlZnq": {
       "seenAt": "2026-11-10T16:29:21.339Z",
       "title": "조국, 육군사관학교 지방 이전과 공공주택 공급 강조 : '국방개혁+주거개혁' 묶어 가자는 아이디어 - 허프포스트코리아",
@@ -2510,7 +2500,55 @@
       "seenAt": "2026-11-14T05:41:18.542Z",
       "title": "\"노무현 대통령 추천으로 하버드 입학?\"…이준석, 전한길 추가 고소 예고 - 뉴시스",
       "targetName": "이준석"
+    },
+    "8c31ead182f28c510d3330134b8cf11896cc9956d073ba5fd42e5a7bb8ccd7dd": {
+      "seenAt": "2026-11-14T05:51:17.432Z",
+      "title": "한동훈 \"막 우기면 좀 추해\"…'李·尹 재판 똑같다' 최민희와 충돌 - 뉴스1",
+      "targetName": "한동훈"
+    },
+    "7f50a72667de704d40bb46658692386b7a3b4d8f0c7c121e8ea8d53c098dcd57": {
+      "seenAt": "2026-11-14T05:51:18.229Z",
+      "title": "[속보] “노무현 추천으로 하버드 입학했다고?”…이준석, ‘학력 의혹’ 전한길 16일 추가 고소 예고 - 세계일보",
+      "targetName": "이준석"
+    },
+    "4c682ffdb93357ee4400f08f6b698ff88008d32fb1553077bd3c4b4007d0790c": {
+      "seenAt": "2026-11-14T05:51:19.105Z",
+      "title": "조국 \"한동훈 딸 천재인지 특검으로 확인하자\" - JTBC",
+      "targetName": "조국"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "32428b4bfbdbe8d3e692d12bdec7815a9626f7016fee1afba53eedd5b80e10f8",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5\" target=\"_blank\">Trump Media & Technology Group | Truth Social, DJT, History, & TAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 04:54:31 GMT",
+        "source": "Britannica",
+        "ageHours": 0.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5a04259a94b97df9a1eaf33f1b7e0684eae4a3ceb09017f13dee8534965d36b8",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Fires Off Bonkers Post Amid Worst Flight Chaos Since 9/11 - The Daily Beast",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmd3bEhSTFlKdTVYMXdCNFlpbFd5VEE0Mm5lbUplbEdiY1NERlZTSUlRUnpBaGVsT2tkVXZOa3BEbjROLXVEWWxwQ1NpOHlISURxZGl6QlhGSzJYSGhicG1UTlFRNlVwTFdQWnBPZmZBaE5iODQtbVVpZDZlNXJkSWdpY0Z1b3pPV3dtZmFOYzZtcXR0TVBj?oc=5\" target=\"_blank\">Trump Fires Off Bonkers Post Amid Worst Flight Chaos Since 9/11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmd3bEhSTFlKdTVYMXdCNFlpbFd5VEE0Mm5lbUplbEdiY1NERlZTSUlRUnpBaGVsT2tkVXZOa3BEbjROLXVEWWxwQ1NpOHlISURxZGl6QlhGSzJYSGhicG1UTlFRNlVwTFdQWnBPZmZBaE5iODQtbVVpZDZlNXJkSWdpY0Z1b3pPV3dtZmFOYzZtcXR0TVBj?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 02:34:00 GMT",
+        "source": "The Daily Beast",
+        "ageHours": 3.3
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

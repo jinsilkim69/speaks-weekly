@@ -1950,5 +1950,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8c31ead182f28c510d3330134b8cf11896cc9956d073ba5fd42e5a7bb8ccd7dd",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 \"막 우기면 좀 추해\"…'李·尹 재판 똑같다' 최민희와 충돌 - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zREh3eUtkOHp1ZDd3VXE5QlMteWdRV3hwNEhkUnB6aHBEbDZERkVkcE1hRU9RWkVYeXhiRGhOV3FqVnZYQnhpRy03SDNxMzNmRE5EcXF5ejRNQQ?oc=5\" target=\"_blank\">한동훈 \"막 우기면 좀 추해\"…'李·尹 재판 똑같다' 최민희와 충돌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zREh3eUtkOHp1ZDd3VXE5QlMteWdRV3hwNEhkUnB6aHBEbDZERkVkcE1hRU9RWkVYeXhiRGhOV3FqVnZYQnhpRy03SDNxMzNmRE5EcXF5ejRNQQ?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 05:44:01 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"막 우기면 좀 추해\"…'李·尹 재판 똑같다' 최민희와 충돌",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "7f50a72667de704d40bb46658692386b7a3b4d8f0c7c121e8ea8d53c098dcd57",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "[속보] “노무현 추천으로 하버드 입학했다고?”…이준석, ‘학력 의혹’ 전한길 16일 추가 고소 예고 - 세계일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jcHluMm1WczB5YXdhNnNKbGxjZjkxRVZRclctdVQ4MVVrODFLRHplS1VEZkd1QWdFdjBjcmZGbXNYSU8zRFRTQXVSUjY0Sjdf0gFUQVVfeXFMTkY4UGxxZkxvNUZrN1l4RmdvUzVZLTVYNDF1LVh0MDJMQmxrOG15dWFpc1FkeUFQZGM1R3BlekhvZXh6LXlKQzNiOXktOUE1Z0VMbDk2?oc=5\" target=\"_blank\">[속보] “노무현 추천으로 하버드 입학했다고?”…이준석, ‘학력 의혹’ 전한길 16일 추가 고소 예고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jcHluMm1WczB5YXdhNnNKbGxjZjkxRVZRclctdVQ4MVVrODFLRHplS1VEZkd1QWdFdjBjcmZGbXNYSU8zRFRTQXVSUjY0Sjdf0gFUQVVfeXFMTkY4UGxxZkxvNUZrN1l4RmdvUzVZLTVYNDF1LVh0MDJMQmxrOG15dWFpc1FkeUFQZGM1R3BlekhvZXh6LXlKQzNiOXktOUE1Z0VMbDk2?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 04:28:40 GMT",
+    "source": "세계일보",
+    "ageHours": 1.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “노무현 추천으로 하버드 입학했다고?”…이준석, ‘학력 의혹’ 전한길 16일 추가 고소 예고",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "4c682ffdb93357ee4400f08f6b698ff88008d32fb1553077bd3c4b4007d0790c",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 \"한동훈 딸 천재인지 특검으로 확인하자\" - JTBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcW0tZVNMQnhCcGZqbG1DbVVHX2VYM0xUWWNNekN1Vm5WSjV0MVEyejA2V2VOUzRRX2JvTnBvMHFOeVBOMmllXzdBVEhiaUUxaUNoUEUycldha3Y0NmhxT1VrZGpKcUpJQVJueFRKNXZFNGVobExzOTV1Y0duRzBSS2NGOHhpY00?oc=5\" target=\"_blank\">조국 \"한동훈 딸 천재인지 특검으로 확인하자\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcW0tZVNMQnhCcGZqbG1DbVVHX2VYM0xUWWNNekN1Vm5WSjV0MVEyejA2V2VOUzRRX2JvTnBvMHFOeVBOMmllXzdBVEhiaUUxaUNoUEUycldha3Y0NmhxT1VrZGpKcUpJQVJueFRKNXZFNGVobExzOTV1Y0duRzBSS2NGOHhpY00?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 22:15:48 GMT",
+    "source": "JTBC",
+    "ageHours": 7.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"한동훈 딸 천재인지 특검으로 확인하자\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

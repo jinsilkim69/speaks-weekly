@@ -4954,3 +4954,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "막 우기면 좀 추해"…'李·尹 재판 똑같다' 최민희와 충돌 - 뉴스1
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "막 우기면 좀 추해"…'李·尹 재판 똑같다' 최민희와 충돌
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zREh3eUtkOHp1ZDd3VXE5QlMteWdRV3hwNEhkUnB6aHBEbDZERkVkcE1hRU9RWkVYeXhiRGhOV3FqVnZYQnhpRy03SDNxMzNmRE5EcXF5ejRNQQ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** [속보] “노무현 추천으로 하버드 입학했다고?”…이준석, ‘학력 의혹’ 전한길 16일 추가 고소 예고 - 세계일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “노무현 추천으로 하버드 입학했다고?”…이준석, ‘학력 의혹’ 전한길 16일 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jcHluMm1WczB5YXdhNnNKbGxjZjkxRVZRclctdVQ4MVVrODFLRHplS1VEZkd1QWdFdjBjcmZGbXNYSU8zRFRTQXVSUjY0Sjdf0gFUQVVfeXFMTkY4UGxxZkxvNUZrN1l4RmdvUzVZLTVYNDF1LVh0MDJMQmxrOG15dWFpc1FkeUFQZGM1R3BlekhvZXh6LXlKQzNiOXktOUE1Z0VMbDk2?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "한동훈 딸 천재인지 특검으로 확인하자" - JTBC
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "한동훈 딸 천재인지 특검으로 확인하자"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihwFBVV95cUxPcW0tZVNMQnhCcGZqbG1DbVVHX2VYM0xUWWNNekN1Vm5WSjV0MVEyejA2V2VOUzRRX2JvTnBvMHFOeVBOMmllXzdBVEhiaUUxaUNoUEUycldha3Y0NmhxT1VrZGpKcUpJQVJueFRKNXZFNGVobExzOTV1Y0duRzBSS2NGOHhpY00?oc=5)
+
+---
+
