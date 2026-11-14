@@ -3280,5 +3280,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "71cbc511ce0ff0ffba6025f6c3b7ce9b9ac017d949bafe24f307d91338af4de2",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석 “노무현 추천으로 하버드 입학?”…전한길 추가 고소 예고 - 미주중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XdzVESDVSdzhZRGVtZGt2a0Rzc0gtSU9fdk1vMGlSSjFfLTRYTmU3WGZ1Ti1pems4aUdfOThJNkU1N2p2UVZzb3pzYS1UZ2M4cDdNMUJReVl1azVJUHVJNlFB?oc=5\" target=\"_blank\">이준석 “노무현 추천으로 하버드 입학?”…전한길 추가 고소 예고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미주중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XdzVESDVSdzhZRGVtZGt2a0Rzc0gtSU9fdk1vMGlSSjFfLTRYTmU3WGZ1Ti1pems4aUdfOThJNkU1N2p2UVZzb3pzYS1UZ2M4cDdNMUJReVl1azVJUHVJNlFB?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 11:18:00 GMT",
+    "source": "미주중앙일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석 “노무현 추천으로 하버드 입학?”…전한길 추가 고소 예고",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
