@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T12:21:17.554Z",
+  "lastCheckedAt": "2026-11-14T12:31:17.415Z",
   "seenPostIds": {
-    "7KGw6rWtLCDoiIcg67mE6rGw7KO8IOyi": {
-      "seenAt": "2026-11-11T08:42:01.125Z",
-      "title": "조국, 與 비거주 종부세 완화 추진에 “강남 주민이 고맙다고 민주당 찍을까” - 시사저널",
-      "targetName": "조국"
-    },
-    "7KGw6rWtICLsooXrtoDshLgg7JmE7ZmU": {
-      "seenAt": "2026-11-11T08:42:01.125Z",
-      "title": "조국 \"종부세 완화? 강남 3구 주민들이 고맙다며 민주당 찍겠나\" - 한국일보",
-      "targetName": "조국"
-    },
-    "W+uPjOyngeq1rCDsnbjthLDrt7BdIOyL": {
-      "seenAt": "2026-11-11T08:42:01.332Z",
-      "title": "[돌직구 인터뷰] 신장식 “민주당 개혁 후퇴…적대적 M&A식 합당은 거부” - 에너지경제신문",
-      "targetName": "신장식"
-    },
     "7Iug7J6l7IudIOuMgO2RnCwg64aN7KeA": {
       "seenAt": "2026-11-11T08:42:01.332Z",
       "title": "신장식 대표, 농지 국가 책임 담은 농지법 개정안 대표발의 - 농수축산신문",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-14T12:21:20.666Z",
       "title": "김민석號 출범 100일 앞두고 '내부 갈등' 위기 최고조 - 노컷뉴스",
       "targetName": "김민석"
+    },
+    "b8de9773b21e023fbabd41662967f39fdc9db755bd2e9e1194d23cd530a7b611": {
+      "seenAt": "2026-11-14T12:31:18.955Z",
+      "title": "Dana White-Donald Trump press secretary episode doubles as promotion for UFC 334 - The New York Times",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

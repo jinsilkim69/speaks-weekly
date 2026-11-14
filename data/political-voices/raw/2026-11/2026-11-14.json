@@ -3556,5 +3556,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b8de9773b21e023fbabd41662967f39fdc9db755bd2e9e1194d23cd530a7b611",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Dana White-Donald Trump press secretary episode doubles as promotion for UFC 334 - The New York Times",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmhRbzJMLVJsUU5tZXY3Q3k0clJiSGY0cUtiWDUwbUJHWU51TXRQX18tMHZzUzd5Um00RGhGMEU1U1JGSWRRWFA2bXpaaVkzWXdlOXZSY3RhSG1XTHZMLTBnUExyalpfMTBvM3FRZFVsNnVjUEprR0w3R1pCa09sZXM1OFEyZ2ZEcUZRZUhYTzJPR3ctMTlnSHR3?oc=5\" target=\"_blank\">Dana White-Donald Trump press secretary episode doubles as promotion for UFC 334</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmhRbzJMLVJsUU5tZXY3Q3k0clJiSGY0cUtiWDUwbUJHWU51TXRQX18tMHZzUzd5Um00RGhGMEU1U1JGSWRRWFA2bXpaaVkzWXdlOXZSY3RhSG1XTHZMLTBnUExyalpfMTBvM3FRZFVsNnVjUEprR0w3R1pCa09sZXM1OFEyZ2ZEcUZRZUhYTzJPR3ctMTlnSHR3?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 12:00:48 GMT",
+    "source": "The New York Times",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Dana White-Donald Trump press secretary episode doubles as promotion for UFC 334",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
