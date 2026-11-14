@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T01:41:14.612Z",
+  "lastCheckedAt": "2026-11-14T01:51:17.468Z",
   "seenPostIds": {
-    "7ISc7Jqp7KO8ICLshqHsmIHquLgg7Iug": {
-      "seenAt": "2026-11-10T08:17:12.394Z",
-      "title": "서용주 \"송영길 신천지 주장, 정답 가까워…영향 미미해도 범죄\"[뉴스연구소] - 노컷뉴스",
-      "targetName": "송영길"
-    },
     "7ZmN7KSA7ZGcIOKAnOyalOymmCDsnbTs": {
       "seenAt": "2026-11-10T08:17:12.597Z",
       "title": "홍준표 “요즘 이준석이 나를 한동훈에 빗대 공격···왜 그러나” - 주간경향",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-14T01:41:15.586Z",
       "title": "[속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전 - 세계일보",
       "targetName": "한동훈"
+    },
+    "a8956bbd5ee0b38e1bea2b058bd085bad7ff6dab15c2c9b332855ae46662f93b": {
+      "seenAt": "2026-11-14T01:51:18.489Z",
+      "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum - IMDb",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
