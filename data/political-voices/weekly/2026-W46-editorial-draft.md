@@ -4993,3 +4993,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Media & Technology Group | Truth Social, DJT, History, & TAE
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Fires Off Bonkers Post Amid Worst Flight Chaos Since 9/11 - The Daily Beast
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Fires Off Bonkers Post Amid Worst Flight Chaos Since 9/11
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmd3bEhSTFlKdTVYMXdCNFlpbFd5VEE0Mm5lbUplbEdiY1NERlZTSUlRUnpBaGVsT2tkVXZOa3BEbjROLXVEWWxwQ1NpOHlISURxZGl6QlhGSzJYSGhicG1UTlFRNlVwTFdQWnBPZmZBaE5iODQtbVVpZDZlNXJkSWdpY0Z1b3pPV3dtZmFOYzZtcXR0TVBj?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** ‘하버드 학력 의혹’ 다시 꺼낸 전한길…이준석 “추가 형사 조치할 것” - 이데일리
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘하버드 학력 의혹’ 다시 꺼낸 전한길…이준석 “추가 형사 조치할 것”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxNcHB0VkRmY0xhWm9EejgxRGppcTBnYjl1eHE1MkJBeGpMMWtFZFFrWG1fVHBjZktxb19wcFA2ZnNfZGNlSGp2M0NHNXhHQWZFbnNsd29TcldyQ1lsdTNfdkE2Q3ZiVEZYb1J5cFlfTWtJdFBvMXpocDJmclIxazNKaw?oc=5)
+
+---
+

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T05:51:16.106Z",
+  "lastCheckedAt": "2026-11-14T06:01:22.600Z",
   "seenPostIds": {
-    "7KGw6rWtLCDsnKHqtbDsgqzqtIDtlZnq": {
-      "seenAt": "2026-11-10T16:29:21.339Z",
-      "title": "조국, 육군사관학교 지방 이전과 공공주택 공급 강조 : '국방개혁+주거개혁' 묶어 가자는 아이디어 - 허프포스트코리아",
-      "targetName": "조국"
-    },
-    "7KGw6rWt7ZiB7Iug64u5IOu2gOyCsOyL": {
-      "seenAt": "2026-11-10T16:29:21.339Z",
-      "title": "조국혁신당 부산시당 3기 운영위 출범…\"민생정당 기틀 마련\" - 연합뉴스",
-      "targetName": "조국"
-    },
-    "VHJ1bXAgZ2l2ZXMgSGVnc2V0aCBhbiBB": {
-      "seenAt": "2026-11-10T16:29:21.990Z",
-      "title": "Trump gives Hegseth an A+ - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "6IiHLCDsoITrgqjqtJHso7wg7LWc6rOg": {
       "seenAt": "2026-11-10T21:55:59.447Z",
       "title": "與, 전남광주 최고위…김민석, 軍공항 이전 등 현안 청취 - 연합뉴스",
@@ -2515,40 +2500,22 @@
       "seenAt": "2026-11-14T05:51:19.105Z",
       "title": "조국 \"한동훈 딸 천재인지 특검으로 확인하자\" - JTBC",
       "targetName": "조국"
+    },
+    "32428b4bfbdbe8d3e692d12bdec7815a9626f7016fee1afba53eedd5b80e10f8": {
+      "seenAt": "2026-11-14T06:01:24.102Z",
+      "title": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "5a04259a94b97df9a1eaf33f1b7e0684eae4a3ceb09017f13dee8534965d36b8": {
+      "seenAt": "2026-11-14T06:01:24.994Z",
+      "title": "Trump Fires Off Bonkers Post Amid Worst Flight Chaos Since 9/11 - The Daily Beast",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f74392f9d03544290b2a25f9b7d04a37a0646d0af53c12c78b547c17b69094ab": {
+      "seenAt": "2026-11-14T06:01:26.404Z",
+      "title": "‘하버드 학력 의혹’ 다시 꺼낸 전한길…이준석 “추가 형사 조치할 것” - 이데일리",
+      "targetName": "이준석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "32428b4bfbdbe8d3e692d12bdec7815a9626f7016fee1afba53eedd5b80e10f8",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5\" target=\"_blank\">Trump Media & Technology Group | Truth Social, DJT, History, & TAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5",
-        "pubDate": "Sat, 14 Nov 2026 04:54:31 GMT",
-        "source": "Britannica",
-        "ageHours": 0.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5a04259a94b97df9a1eaf33f1b7e0684eae4a3ceb09017f13dee8534965d36b8",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Fires Off Bonkers Post Amid Worst Flight Chaos Since 9/11 - The Daily Beast",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmd3bEhSTFlKdTVYMXdCNFlpbFd5VEE0Mm5lbUplbEdiY1NERlZTSUlRUnpBaGVsT2tkVXZOa3BEbjROLXVEWWxwQ1NpOHlISURxZGl6QlhGSzJYSGhicG1UTlFRNlVwTFdQWnBPZmZBaE5iODQtbVVpZDZlNXJkSWdpY0Z1b3pPV3dtZmFOYzZtcXR0TVBj?oc=5\" target=\"_blank\">Trump Fires Off Bonkers Post Amid Worst Flight Chaos Since 9/11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmd3bEhSTFlKdTVYMXdCNFlpbFd5VEE0Mm5lbUplbEdiY1NERlZTSUlRUnpBaGVsT2tkVXZOa3BEbjROLXVEWWxwQ1NpOHlISURxZGl6QlhGSzJYSGhicG1UTlFRNlVwTFdQWnBPZmZBaE5iODQtbVVpZDZlNXJkSWdpY0Z1b3pPV3dtZmFOYzZtcXR0TVBj?oc=5",
-        "pubDate": "Sat, 14 Nov 2026 02:34:00 GMT",
-        "source": "The Daily Beast",
-        "ageHours": 3.3
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
