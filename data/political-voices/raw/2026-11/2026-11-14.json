@@ -1024,5 +1024,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "885fb9dba9abca43fc6d55249c7bb8948aa4a42253a0494f0533ddd1fa2e4f55",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "담배 세금 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의 - KBC광주방송",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1TNnk1ZlBmOVd2VXZRNzJ2ZW1SakFGOXA5eGdHd25EY2toQ1NlcU5UQ1Rubnhld1plb0ZiMVgtUU5qMUM1WjFtRUllTmdndzBVNkZCX1lyNWRHRDFFbzB6Tjk1N1NsV3BKZnl0ZjhMeG1TZWtsS3NFNjZydw?oc=5\" target=\"_blank\">담배 세금 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TNnk1ZlBmOVd2VXZRNzJ2ZW1SakFGOXA5eGdHd25EY2toQ1NlcU5UQ1Rubnhld1plb0ZiMVgtUU5qMUM1WjFtRUllTmdndzBVNkZCX1lyNWRHRDFFbzB6Tjk1N1NsV3BKZnl0ZjhMeG1TZWtsS3NFNjZydw?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 03:17:34 GMT",
+    "source": "KBC광주방송",
+    "ageHours": 21.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 담배 세금 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "7211454a545e43d1747555f20e1646342b8f96950758080c33959399748a8b1a",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum - IMDb",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5GUEdUeUpkblpKQlFrOFRzZkJaQkZXMjdfZ0V3SFlucGdhOVdDcWFTMklrSmxjVUtHWGV4THljQWZQQnVieE9NaDlNcEQ0dUtJd1lxRGxaMzlGOHRlbmV2Yzl1MnZOenF3Y3c?oc=5\" target=\"_blank\">Trump Says Federal Film Tax Credit Is Gaining Momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IMDb</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GUEdUeUpkblpKQlFrOFRzZkJaQkZXMjdfZ0V3SFlucGdhOVdDcWFTMklrSmxjVUtHWGV4THljQWZQQnVieE9NaDlNcEQ0dUtJd1lxRGxaMzlGOHRlbmV2Yzl1MnZOenF3Y3c?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 01:06:40 GMT",
+    "source": "IMDb",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Says Federal Film Tax Credit Is Gaining Momentum",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

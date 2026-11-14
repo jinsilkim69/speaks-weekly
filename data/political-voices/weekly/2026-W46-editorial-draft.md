@@ -4473,3 +4473,29 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 담배 세금 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의 - KBC광주방송
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 담배 세금 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE1TNnk1ZlBmOVd2VXZRNzJ2ZW1SakFGOXA5eGdHd25EY2toQ1NlcU5UQ1Rubnhld1plb0ZiMVgtUU5qMUM1WjFtRUllTmdndzBVNkZCX1lyNWRHRDFFbzB6Tjk1N1NsV3BKZnl0ZjhMeG1TZWtsS3NFNjZydw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Says Federal Film Tax Credit Is Gaining Momentum - IMDb
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Says Federal Film Tax Credit Is Gaining Momentum
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE5GUEdUeUpkblpKQlFrOFRzZkJaQkZXMjdfZ0V3SFlucGdhOVdDcWFTMklrSmxjVUtHWGV4THljQWZQQnVieE9NaDlNcEQ0dUtJd1lxRGxaMzlGOHRlbmV2Yzl1MnZOenF3Y3c?oc=5)
+
+---
+

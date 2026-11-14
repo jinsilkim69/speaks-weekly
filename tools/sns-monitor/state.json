@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T01:01:23.429Z",
+  "lastCheckedAt": "2026-11-14T01:11:16.628Z",
   "seenPostIds": {
-    "7ZKN7Zal6rOE772c7IKs6rO864qUIOq5": {
-      "seenAt": "2026-11-10T08:17:11.923Z",
-      "title": "풍향계｜사과는 김민석이, 계산은 정청래가 - OBC 뉴스",
-      "targetName": "김민석"
-    },
-    "6rmA66+87ISdLCDsi6DsnoQg64yA7Ya1": {
-      "seenAt": "2026-11-10T08:17:11.923Z",
-      "title": "김민석, 신임 대통령비서실장 접견…당·청 협력 논의 - 충청메트로",
-      "targetName": "김민석"
-    },
-    "6rWt66+87J2Y66GAIO2VmOuKlCDsoJXs": {
-      "seenAt": "2026-11-10T08:17:12.151Z",
-      "title": "국민의례 하는 정청래 - 노컷뉴스",
-      "targetName": "정청래"
-    },
     "7ZS87LyTIOuToCDsoJXssq3rnpggLSDr": {
       "seenAt": "2026-11-10T08:17:12.151Z",
       "title": "피켓 든 정청래 - 노컷뉴스",
@@ -2515,24 +2500,17 @@
       "seenAt": "2026-11-14T01:01:26.410Z",
       "title": "박지원 \"김민석-정청래 싸움, 대통령 지지율 '뚝'...죽이 되든 밥이 되든 만나, 적당히들 하길\"[여의도초대석] - KBC광주방송",
       "targetName": "정청래"
+    },
+    "885fb9dba9abca43fc6d55249c7bb8948aa4a42253a0494f0533ddd1fa2e4f55": {
+      "seenAt": "2026-11-14T01:11:17.623Z",
+      "title": "담배 세금 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의 - KBC광주방송",
+      "targetName": "송영길"
+    },
+    "7211454a545e43d1747555f20e1646342b8f96950758080c33959399748a8b1a": {
+      "seenAt": "2026-11-14T01:11:18.223Z",
+      "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum - IMDb",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "885fb9dba9abca43fc6d55249c7bb8948aa4a42253a0494f0533ddd1fa2e4f55",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "담배 세금 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의 - KBC광주방송",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1TNnk1ZlBmOVd2VXZRNzJ2ZW1SakFGOXA5eGdHd25EY2toQ1NlcU5UQ1Rubnhld1plb0ZiMVgtUU5qMUM1WjFtRUllTmdndzBVNkZCX1lyNWRHRDFFbzB6Tjk1N1NsV3BKZnl0ZjhMeG1TZWtsS3NFNjZydw?oc=5\" target=\"_blank\">담배 세금 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TNnk1ZlBmOVd2VXZRNzJ2ZW1SakFGOXA5eGdHd25EY2toQ1NlcU5UQ1Rubnhld1plb0ZiMVgtUU5qMUM1WjFtRUllTmdndzBVNkZCX1lyNWRHRDFFbzB6Tjk1N1NsV3BKZnl0ZjhMeG1TZWtsS3NFNjZydw?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 03:17:34 GMT",
-        "source": "KBC광주방송",
-        "ageHours": 21.7
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
