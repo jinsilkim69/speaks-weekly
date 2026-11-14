@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T09:11:17.217Z",
+  "lastCheckedAt": "2026-11-14T09:19:26.522Z",
   "seenPostIds": {
-    "7KGw6rWtICLoiIcgJ+u5hOqxsOyjvCcg": {
-      "seenAt": "2026-11-11T01:50:15.953Z",
-      "title": "조국 \"與 '비거주' 종부세 완화, 강남·서민·청년층 다 잃어\" - 뉴시스",
-      "targetName": "조국"
-    },
     "7KGw6rWt7ZiB7Iug64u5ICLtlZzrjZXs": {
       "seenAt": "2026-11-11T01:50:15.953Z",
       "title": "조국혁신당 \"한덕수 이어 내란 세력 줄줄이 석방…민주당, 제발 뭐든 해라\" - 조세일보",
@@ -2505,6 +2500,21 @@
       "seenAt": "2026-11-14T09:11:18.662Z",
       "title": "최민희·한동훈 SNS서 설전···“막 우기면 추해” “거짓말 마라” - 경향신문",
       "targetName": "한동훈"
+    },
+    "a16726c5b2b5b4fce41ea405e041e25e3ecca09b39854e7d2f60db1fb5a5f14d": {
+      "seenAt": "2026-11-14T09:19:27.899Z",
+      "title": "한동훈 \"이재명 재판 열리면 당선무효\"…최민희 \"거짓말 마라\" 설전 - KBC광주방송",
+      "targetName": "이재명"
+    },
+    "af1c5a26ff49dae01de14fe4875bb4ee19a6c8d824e373bf03440c419424bdce": {
+      "seenAt": "2026-11-14T09:19:28.582Z",
+      "title": "한동훈, 최민희와 '李·尹 공직선거법 재판' 두고 공방…\"우기면 추해\" - 뉴시스",
+      "targetName": "한동훈"
+    },
+    "cb93110def889cc4153a0471be7c0e3ac538b4cfc39cb74dfa05304bfcfea303": {
+      "seenAt": "2026-11-14T09:19:29.234Z",
+      "title": "가덕도신공항 추진 나선 송영길 '활주로 두 개 만들어야' - 기독일보",
+      "targetName": "송영길"
     }
   },
   "pending": []

@@ -5344,3 +5344,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 한동훈 "이재명 재판 열리면 당선무효"…최민희 "거짓말 마라" 설전 - KBC광주방송
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "이재명 재판 열리면 당선무효"…최민희 "거짓말 마라" 설전
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwSk9nNmF3Y0VfUVhfMHBfbUtoZ1ZyVzFSMUNLbmhNNVdKUW5OUWh1bWtVZkZ3WkFwWlB5U2xJeExnY3Nmb2cxODdjWVhYTnFydDM2UUNDa013OG4wVHppQ2lB?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 최민희와 '李·尹 공직선거법 재판' 두고 공방…"우기면 추해" - 뉴시스
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 최민희와 '李·尹 공직선거법 재판' 두고 공방…"우기면 추해"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE11V1dNRDRpWndRUzRFN3EtSkhlT2FyMG4zUnlNOFphTkhtSGI1TWxYQzFGbE9BZHZqZ0F0Z3hITTBKVXlISENReFRGMlczMWtmTzhkQWR0QjFaUGpsNWtiMtIBeEFVX3lxTE1QZV9YNHJoLXlvOURRV2w0d3FrRTlscW1pUzJxT1RoRGNFUFFsUUNPS2k4VXlOenRxR3hPS2xWTGMzaERtY1RrWExraGRXR3g5U3B5S0RYeERDMkxmaXppQ25nYUhwVlZxTmEweXdCbGV0T2VydDVDVg?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 가덕도신공항 추진 나선 송영길 '활주로 두 개 만들어야' - 기독일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 가덕도신공항 추진 나선 송영길 '활주로 두 개 만들어야'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pWlV5ZTMxM01BTW5xaGxSSkd0U09hbVJ0R1RWWU9iSlRlZzNKUzF6QVZYQlRMR1o4STdHRi1RWHRBM201eHI3VmpjdTJISEdlT2JPbF9sd9IBXEFVX3lxTE5INndRd1JHR2ExbDZrZ2FSQzFqRG5fd2R1dVdaNHlNRTREUHV4X2FyV2tPRm9IckdLNEh2MFFzYnM0UGdUSFdIbjA3YVgtSGRnU1RXcGtDc3pMd2Zt?oc=5)
+
+---
+
