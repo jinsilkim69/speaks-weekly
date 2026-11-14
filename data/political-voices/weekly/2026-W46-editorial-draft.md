@@ -5942,3 +5942,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 “가장 힘든 건 등 뒤에서 날아오는 화살”…천준호 격려 - 경기일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “가장 힘든 건 등 뒤에서 날아오는 화살”…천준호 격려
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iOEF6NDVDd2FsZHhCRll6d0JkaUlmVE52ZDJjRTFVWFgyMjF4RmwzOHNzLUNxMkVfOWhJUjlxUmhoSFJ6RFpHV1F4SVFBM1pMRUFBXy14aGl6VHM?oc=5)
+
+---
+
