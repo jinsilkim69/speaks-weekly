@@ -1474,5 +1474,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "44c4daf6754df2329fcc941f9bd8b248e26cb2809ff207e017c6785ff43d5a3b",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "한동훈 “이재명 빼박 ‘시한부 대통령’”…최민희 발언 고리로 與와 설전 - 문화일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vYjNTLTRxYlplTGFuRm1PMjFxa1VxQ2xNVVZ4RWRaaTJHZi1ZV1RHTGJ1Y2kxcEJkbWRHUVluQnlkcG03aWpUV3NhcHZNbWtk?oc=5\" target=\"_blank\">한동훈 “이재명 빼박 ‘시한부 대통령’”…최민희 발언 고리로 與와 설전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vYjNTLTRxYlplTGFuRm1PMjFxa1VxQ2xNVVZ4RWRaaTJHZi1ZV1RHTGJ1Y2kxcEJkbWRHUVluQnlkcG03aWpUV3NhcHZNbWtk?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 02:08:03 GMT",
+    "source": "문화일보",
+    "ageHours": 1.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 “이재명 빼박 ‘시한부 대통령’”…최민희 발언 고리로 與와 설전",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
