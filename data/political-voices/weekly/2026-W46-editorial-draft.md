@@ -5695,3 +5695,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing - Fox News
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWJuc0RtNzJfUGxQdWRNNlJfeGkyTEpMLTNkU2hITkNlWEo1aGxkUy0zelNTNkJFemRVSmk3WG9aR2hLNXNqcTVjVFlYVnZCaEFYbXFvcnJ0LXRIM3puUTJRcjV6V3VCY2wzSU5HNThzWEt3WmlJdGxvOE1jSlVmQW9LVGVxRDBRZXZLMW5DYkNJOUZ1aDZ6S1QyV21mQWlqYkVCTlYwR1llUFBUcXlKeklCcnpXZ9IBuwFBVV95cUxPTGRPaE9ld0pFd3BXc0l4UHFqNmhFeVpqNjk4MFFBeS1ZSEQ3TXdYNUdaUDRRbkZ6eFlZenRsUmhiMHdyWV9sTEVodWg4cnp1eWdBcWVOcEFfdnNmM1NJNmpSX0MwdS1jdnZkZ3ZzYm82UERLcTZFNnd3eVl4cXI1cGgwc3Y1V0YxSlhSZVlUbjY4ckc1bTFsN09TaDFMdnY2ZFZMdUplSFRHSWp3Z0NRR0VVWkJxcnlxdnZr?oc=5)
+
+---
+

@@ -3381,5 +3381,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "bf178ae675fcc2ea9c9c3bcf8771a5c49d8ec1e299fedb715059d2bd668ba3d0",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing - Fox News",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWJuc0RtNzJfUGxQdWRNNlJfeGkyTEpMLTNkU2hITkNlWEo1aGxkUy0zelNTNkJFemRVSmk3WG9aR2hLNXNqcTVjVFlYVnZCaEFYbXFvcnJ0LXRIM3puUTJRcjV6V3VCY2wzSU5HNThzWEt3WmlJdGxvOE1jSlVmQW9LVGVxRDBRZXZLMW5DYkNJOUZ1aDZ6S1QyV21mQWlqYkVCTlYwR1llUFBUcXlKeklCcnpXZ9IBuwFBVV95cUxPTGRPaE9ld0pFd3BXc0l4UHFqNmhFeVpqNjk4MFFBeS1ZSEQ3TXdYNUdaUDRRbkZ6eFlZenRsUmhiMHdyWV9sTEVodWg4cnp1eWdBcWVOcEFfdnNmM1NJNmpSX0MwdS1jdnZkZ3ZzYm82UERLcTZFNnd3eVl4cXI1cGgwc3Y1V0YxSlhSZVlUbjY4ckc1bTFsN09TaDFMdnY2ZFZMdUplSFRHSWp3Z0NRR0VVWkJxcnlxdnZr?oc=5\" target=\"_blank\">Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWJuc0RtNzJfUGxQdWRNNlJfeGkyTEpMLTNkU2hITkNlWEo1aGxkUy0zelNTNkJFemRVSmk3WG9aR2hLNXNqcTVjVFlYVnZCaEFYbXFvcnJ0LXRIM3puUTJRcjV6V3VCY2wzSU5HNThzWEt3WmlJdGxvOE1jSlVmQW9LVGVxRDBRZXZLMW5DYkNJOUZ1aDZ6S1QyV21mQWlqYkVCTlYwR1llUFBUcXlKeklCcnpXZ9IBuwFBVV95cUxPTGRPaE9ld0pFd3BXc0l4UHFqNmhFeVpqNjk4MFFBeS1ZSEQ3TXdYNUdaUDRRbkZ6eFlZenRsUmhiMHdyWV9sTEVodWg4cnp1eWdBcWVOcEFfdnNmM1NJNmpSX0MwdS1jdnZkZ3ZzYm82UERLcTZFNnd3eVl4cXI1cGgwc3Y1V0YxSlhSZVlUbjY4ckc1bTFsN09TaDFMdnY2ZFZMdUplSFRHSWp3Z0NRR0VVWkJxcnlxdnZr?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 11:00:05 GMT",
+    "source": "Fox News",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

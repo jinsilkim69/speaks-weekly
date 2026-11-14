@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T11:41:16.615Z",
+  "lastCheckedAt": "2026-11-14T11:51:14.533Z",
   "seenPostIds": {
-    "7J207KSA7ISdIOKAnOydtCDrjIDthrXr": {
-      "seenAt": "2026-11-11T08:42:00.670Z",
-      "title": "이준석 “이 대통령, 본인 누릴 수 있는 것들 다 누려” [현장영상] - 채널A",
-      "targetName": "이준석"
-    },
-    "7LWc6rK97ZmYIOyghCDqsr3soJzrtoDs": {
-      "seenAt": "2026-11-11T08:42:00.670Z",
-      "title": "최경환 전 경제부총리와 이준석, 조정훈 의원 - 매일경제",
-      "targetName": "이준석"
-    },
-    "7J207KSA7ISdIOKAnO2KueygleyduCDr": {
-      "seenAt": "2026-11-11T08:42:00.670Z",
-      "title": "이준석 “특정인 복당 얘기 때문에 지면 소비, 오히려 걱정” [현장영상] - 채널A",
-      "targetName": "이준석"
-    },
     "W+ustOuTseydmCDslYTsuahdIOyynO2V": {
       "seenAt": "2026-11-11T08:42:00.879Z",
       "title": "[무등의 아침] 천하람 “美 태평양사령부 공군 사령관, 광주 군 공항 이전 가능한 협조 의사 밝혀” - KBS 뉴스",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-14T11:41:19.423Z",
       "title": "이준석 “내가 노무현 추천서 받았다고?” 전한길 형사고소 예고 - 미디어오늘",
       "targetName": "이준석"
+    },
+    "bf178ae675fcc2ea9c9c3bcf8771a5c49d8ec1e299fedb715059d2bd668ba3d0": {
+      "seenAt": "2026-11-14T11:51:15.618Z",
+      "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing - Fox News",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
