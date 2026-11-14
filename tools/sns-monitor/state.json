@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T02:01:17.085Z",
+  "lastCheckedAt": "2026-11-14T02:11:15.551Z",
   "seenPostIds": {
-    "67O07IiYIO2Gte2VqeuhoCDri6Tsi5wg": {
-      "seenAt": "2026-11-10T08:17:12.597Z",
-      "title": "보수 통합론 다시 꿈틀…장동혁·오세훈·한동훈·이준석 '4인 셈법' - 매일일보",
-      "targetName": "이준석"
-    },
     "W+ygleq1reynhOuLqF0g6rOg6riI656A": {
       "seenAt": "2026-11-10T08:17:12.597Z",
       "title": "[정국진단] 고금란 \"이준석 국힘 복당 없다…진중권 완장짓 비판은 억지\" - 뉴스핌",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-14T02:01:18.447Z",
       "title": "최민희 \"통일교가 김민석 대표 밀어\"...추가 녹취도 파문 - 중앙신문",
       "targetName": "김민석"
+    },
+    "dd48eb4983107b6b08850d2beb97d46ab6978f299dadc7a7a1524bc20a4c1832": {
+      "seenAt": "2026-11-14T02:11:16.715Z",
+      "title": "What's Trump's strategy now with Iran? To keep things as they are - NPR",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
