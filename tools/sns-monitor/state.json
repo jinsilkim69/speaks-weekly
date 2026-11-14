@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T10:41:14.213Z",
+  "lastCheckedAt": "2026-11-14T10:51:16.356Z",
   "seenPostIds": {
-    "64uk7IucIOuzvCDsiJgg7JeG64qUIOuv": {
-      "seenAt": "2026-11-11T08:42:00.015Z",
-      "title": "다시 볼 수 없는 미소…김민석, 故안판석 감독과 투샷에 '먹먹' \"다행이다\" - SPOTV NEWS",
-      "targetName": "김민석"
-    },
-    "7IKs66m07LSI6rCAIOq5gOuvvOyEnSwg": {
-      "seenAt": "2026-11-11T08:42:00.015Z",
-      "title": "사면초가 김민석, 돌파구 찾나 - 매일일보",
-      "targetName": "김민석"
-    },
-    "7Z2U65Ok66as64qUIOKAmOq5gOuvvOyE": {
-      "seenAt": "2026-11-11T08:42:00.015Z",
-      "title": "흔들리는 ‘김민석 리더십’…與, 종부세·신천지·국조 연일 진통 - 아시아투데이",
-      "targetName": "김민석"
-    },
     "6rmA66+87ISdLCDmlYUg7JWI7YyQ7ISd": {
       "seenAt": "2026-11-11T08:42:00.015Z",
       "title": "김민석, 故 안판석 곁에 기댄 사진 `먹먹`…\"찍어두길 잘했다\" - 마이데일리",
@@ -2515,24 +2500,17 @@
       "seenAt": "2026-11-14T10:41:17.213Z",
       "title": "최민희·한동훈 SNS서 설전···“막 우기면 추해” “거짓말 마라” - 경향신문",
       "targetName": "한동훈"
+    },
+    "06bee8b4b7ca79b0946e23d54b89488c4b6112981ebbb7a12af5cb4f46466826": {
+      "seenAt": "2026-11-14T10:51:17.806Z",
+      "title": "“최민희 제명” vs “김민석 감찰”… 與 계파싸움 전면전 양상 - 동아일보",
+      "targetName": "김민석"
+    },
+    "d132a8b0332440575e694807babcd83da122105215e1af19366999bbb47a0fea": {
+      "seenAt": "2026-11-14T10:51:18.537Z",
+      "title": "김민석의 특별한 ‘신성’ 챙기기… 체육공단 감사 떨어지자 당 체육위원장으로 - 주간조선",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "06bee8b4b7ca79b0946e23d54b89488c4b6112981ebbb7a12af5cb4f46466826",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "“최민희 제명” vs “김민석 감찰”… 與 계파싸움 전면전 양상 - 동아일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1LX2FiSG5JTjBPSlN5dHlpb2VqOEVvZl96Y0tSZlRWXy1MT1MzNGdleWx1ZzZWZmNQNlJRUDg1aWg1Tk1RLU9hN3BMaGxMckh3UHRzaFlLZ2lfQ1BOa1RpTjFCVTFoQVM0Sm9KYU41a2lfX3ZfVWQ40gFmQVVfeXFMTS1CRVFqZzlVX3UtU1pPQlJaQkxGY0l5SmpNQnRnSk42blNIUmNRMEhFb2hTNHNYQlJNR3MwRV9SYXNtSV9jUGVrMXUtd21fcktqcDhDWVNxUWhUbGs3bnp3czBLWkdB?oc=5\" target=\"_blank\">“최민희 제명” vs “김민석 감찰”… 與 계파싸움 전면전 양상</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LX2FiSG5JTjBPSlN5dHlpb2VqOEVvZl96Y0tSZlRWXy1MT1MzNGdleWx1ZzZWZmNQNlJRUDg1aWg1Tk1RLU9hN3BMaGxMckh3UHRzaFlLZ2lfQ1BOa1RpTjFCVTFoQVM0Sm9KYU41a2lfX3ZfVWQ40gFmQVVfeXFMTS1CRVFqZzlVX3UtU1pPQlJaQkxGY0l5SmpNQnRnSk42blNIUmNRMEhFb2hTNHNYQlJNR3MwRV9SYXNtSV9jUGVrMXUtd21fcktqcDhDWVNxUWhUbGs3bnp3czBLWkdB?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 16:40:00 GMT",
-        "source": "동아일보",
-        "ageHours": 18
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

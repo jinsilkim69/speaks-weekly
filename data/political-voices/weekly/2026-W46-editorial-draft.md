@@ -5578,3 +5578,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** “최민희 제명” vs “김민석 감찰”… 與 계파싸움 전면전 양상 - 동아일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “최민희 제명” vs “김민석 감찰”… 與 계파싸움 전면전 양상
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE1LX2FiSG5JTjBPSlN5dHlpb2VqOEVvZl96Y0tSZlRWXy1MT1MzNGdleWx1ZzZWZmNQNlJRUDg1aWg1Tk1RLU9hN3BMaGxMckh3UHRzaFlLZ2lfQ1BOa1RpTjFCVTFoQVM0Sm9KYU41a2lfX3ZfVWQ40gFmQVVfeXFMTS1CRVFqZzlVX3UtU1pPQlJaQkxGY0l5SmpNQnRnSk42blNIUmNRMEhFb2hTNHNYQlJNR3MwRV9SYXNtSV9jUGVrMXUtd21fcktqcDhDWVNxUWhUbGs3bnp3czBLWkdB?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석의 특별한 ‘신성’ 챙기기… 체육공단 감사 떨어지자 당 체육위원장으로 - 주간조선
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석의 특별한 ‘신성’ 챙기기… 체육공단 감사 떨어지자 당 체육위원장으로
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1BVTVhdDRySVRMYnBHQ0tiUmhQbG9ZWUMyUjdEY3JCQmdiXzI0QUZtaHhVVkFJdG9XWWZRb2o4Vl9oMHdIV3hXVGtyMFliMDFfcFBfNHNDTjVRTnJOOEFKbWtLWHNHMnJRSGFJOVd30gFuQVVfeXFMTUFVNWF0NHJJVExicEdDS2JSaFBsb1lZQzJSN0RjckJCZ2JfMjRBRm1oeFVWQUl0b1dZZlFvajhWX2gwd0hXeFdUa3IwWWIwMV9wUF80c0NONVFOck44QUpta0tYc0cyclFIYUk5V3c?oc=5)
+
+---
+
