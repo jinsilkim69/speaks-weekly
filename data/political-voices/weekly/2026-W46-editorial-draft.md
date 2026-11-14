@@ -5747,3 +5747,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [속보] 장동혁 “청와대가 안전한 도피처인가”…이재명 대통령 향해 “재판 재개 다가온다” - 강원일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 “청와대가 안전한 도피처인가”…이재명 대통령 향해 “재판 재개 다가온다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PQW1UWEgwdEQxMERDNHB6dlczZUlTMS03WTE3Uml0YmxGZWRUOEtzM0xEc2tUeGRlZGktckU0VS1Ic0lIWGF3S1pEYWVZZEtPNzEtWUdLWDc5Yjg?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 장동혁 “청와대가 안전한 도피처라 믿나”…이재명 대통령 ‘도피처’ 발언 맞받아 - 스페셜타임스
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 “청와대가 안전한 도피처라 믿나”…이재명 대통령 ‘도피처’ 발언 맞받아
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE96bXhfRXRQenFDV1J6ZlJEQVRKMGdMbVZVY0pVN1JwVWJCSThWNllOU201RUJyc3ZTNm55a2NPRXR4dkVlRDRoRnRoSjRkbXVvNl9XXzBQTUpCNjhjTDZtV0RkNG56TFA4TldzYllpUmxCYzg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석號 출범 100일 앞두고 '내부 갈등' 위기 최고조 - 노컷뉴스
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석號 출범 100일 앞두고 '내부 갈등' 위기 최고조
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiMFdJTmhvajA0QkxiUDVjei1EQzlWd2t2MEQxV1d5SnFHYlZUX1VDaHVvVVFPd0Y2alBIS3NDYk1qVXI4TFRFOUxQSExUM1M4bmc?oc=5)
+
+---
+
