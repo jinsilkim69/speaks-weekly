@@ -2578,5 +2578,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4547b42412040ca9e692687113b177aef41f844053f5216a895118f1c306b82e",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈·최민희, 이재명·윤석열 재판 놓고 설전…“시한부 대통령” vs “거짓말” [이런정치] - 헤럴드경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE91TUYxMEZoRU03LUx3M1RmdGdBd0NCLTRlbGFJdWJpQlRPWEZaUUhjNzduam84QVdfTWt5VnNBZVZrMU4zdG1EdE9obU1yNllxNEsyb05wdw?oc=5\" target=\"_blank\">한동훈·최민희, 이재명·윤석열 재판 놓고 설전…“시한부 대통령” vs “거짓말” [이런정치]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91TUYxMEZoRU03LUx3M1RmdGdBd0NCLTRlbGFJdWJpQlRPWEZaUUhjNzduam84QVdfTWt5VnNBZVZrMU4zdG1EdE9obU1yNllxNEsyb05wdw?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 07:26:32 GMT",
+    "source": "헤럴드경제",
+    "ageHours": 1.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈·최민희, 이재명·윤석열 재판 놓고 설전…“시한부 대통령” vs “거짓말”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
