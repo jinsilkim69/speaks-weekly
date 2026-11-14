@@ -2778,5 +2778,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d526b0533375f61996ef9a88d49a47418c57e33daccfb2765d2d27d8d9bef705",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 \"유죄 확정 시 시한부 대통령\"…최민희 \"거짓말 마라. 공작 재판\" - JTBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VUko2cGFyeWw5eElTelJRRVFBM1c4NUdGVVZEZVVWRGl1MkVaQVRLcF9Tem9vRWUtUHpDbDg4NHNMTTQ4YXE5ZWlMcktqNHF4aHpOMg?oc=5\" target=\"_blank\">한동훈 \"유죄 확정 시 시한부 대통령\"…최민희 \"거짓말 마라. 공작 재판\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VUko2cGFyeWw5eElTelJRRVFBM1c4NUdGVVZEZVVWRGl1MkVaQVRLcF9Tem9vRWUtUHpDbDg4NHNMTTQ4YXE5ZWlMcktqNHF4aHpOMg?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 05:24:00 GMT",
+    "source": "JTBC",
+    "ageHours": 4.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"유죄 확정 시 시한부 대통령\"…최민희 \"거짓말 마라. 공작 재판\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
