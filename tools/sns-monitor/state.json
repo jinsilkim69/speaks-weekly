@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T05:31:16.415Z",
+  "lastCheckedAt": "2026-11-14T05:41:16.645Z",
   "seenPostIds": {
-    "7KCV7LKt656YLCDquYDrr7zshJ3sl5Ag": {
-      "seenAt": "2026-11-10T16:29:20.286Z",
-      "title": "정청래, 김민석에 “100일 판가름”…전현직 갈등 끝은 - 시사오늘",
-      "targetName": "정청래"
-    },
-    "7Iah7JiB6ri47J20IOuLpOyLnCDrtojs": {
-      "seenAt": "2026-11-10T16:29:20.543Z",
-      "title": "송영길이 다시 불지핀 ‘신천지 입당 의혹’… 출구 못찾는 민주당 - 경인일보",
-      "targetName": "송영길"
-    },
-    "W+uLqOuPhV0g6YeOLCDtlZzrr7jsnZjs": {
-      "seenAt": "2026-11-10T16:29:20.543Z",
-      "title": "[단독] 野, 한미의원연맹 공동회장에 나경원 내정...국민의힘 인선 진통에 송영길 선출 연기 - 부산파이낸셜뉴스",
-      "targetName": "송영길"
-    },
     "7KGw7KCV7ZuIwrfsnbTspIDshJ0sIOKA": {
       "seenAt": "2026-11-10T16:29:20.785Z",
       "title": "조정훈·이준석, ‘주거혁신포럼’ 세미나…수도권 주택 공급 논의 - KBS 뉴스",
@@ -2515,24 +2500,17 @@
       "seenAt": "2026-11-14T05:31:19.240Z",
       "title": "한동훈 “李, 확정적 ‘시한부 대통령’”…최민희 녹취록으로 공세 - Chosunbiz",
       "targetName": "한동훈"
+    },
+    "4bdde28c4e4b87fcd10375b61841fb5f9199c6161139bf4de5fd6eaf2e0fd224": {
+      "seenAt": "2026-11-14T05:41:17.817Z",
+      "title": "\"내가 왜 노무현 추천서를 받나\" 전한길 저격한 이준석 - 데일리안",
+      "targetName": "이준석"
+    },
+    "75625539226051af353a84cd351134b35913f2287b2a86fea1e98380cbeeacc5": {
+      "seenAt": "2026-11-14T05:41:18.542Z",
+      "title": "\"노무현 대통령 추천으로 하버드 입학?\"…이준석, 전한길 추가 고소 예고 - 뉴시스",
+      "targetName": "이준석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "4bdde28c4e4b87fcd10375b61841fb5f9199c6161139bf4de5fd6eaf2e0fd224",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "\"내가 왜 노무현 추천서를 받나\" 전한길 저격한 이준석 - 데일리안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOVEE1Vk1xaU9XcTY5Z040eXRhMm5PZXZLZnlVNHpjdm9ucENFRFZRZGNWNW9WTHpZRlQ5SGYtWVg3akNpQzY5RzI0TExpLWd0dVNwQUEtQU0wb2xtbWQ1OG1GTnhMNWVaYkNGMUtxSzVybDg1VjRFTjRoMXotdGszS1J4R1JGT0NOUzlGZ1dtZ3ZXOENQQVdhTUpDaS1JVXFjR3owOEs0bXRIcWU2TlFXWDQzQndlVDhPMTJUMjl0TXU3ek84dHduc1N2c1ZRcVRPZWY0OW82d0tWZDlKQ2tnZnlhYjdJcWRWS0E4TGhvRmtfc0pBTGVPUjRDa2djY2Q3VEM2bUlnVDk0V3U2?oc=5\" target=\"_blank\">\"내가 왜 노무현 추천서를 받나\" 전한길 저격한 이준석</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVEE1Vk1xaU9XcTY5Z040eXRhMm5PZXZLZnlVNHpjdm9ucENFRFZRZGNWNW9WTHpZRlQ5SGYtWVg3akNpQzY5RzI0TExpLWd0dVNwQUEtQU0wb2xtbWQ1OG1GTnhMNWVaYkNGMUtxSzVybDg1VjRFTjRoMXotdGszS1J4R1JGT0NOUzlGZ1dtZ3ZXOENQQVdhTUpDaS1JVXFjR3owOEs0bXRIcWU2TlFXWDQzQndlVDhPMTJUMjl0TXU3ek84dHduc1N2c1ZRcVRPZWY0OW82d0tWZDlKQ2tnZnlhYjdJcWRWS0E4TGhvRmtfc0pBTGVPUjRDa2djY2Q3VEM2bUlnVDk0V3U2?oc=5",
-        "pubDate": "Sat, 14 Nov 2026 05:18:00 GMT",
-        "source": "데일리안",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

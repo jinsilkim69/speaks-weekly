@@ -4928,3 +4928,29 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** "내가 왜 노무현 추천서를 받나" 전한길 저격한 이준석 - 데일리안
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "내가 왜 노무현 추천서를 받나" 전한길 저격한 이준석
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijAJBVV95cUxOVEE1Vk1xaU9XcTY5Z040eXRhMm5PZXZLZnlVNHpjdm9ucENFRFZRZGNWNW9WTHpZRlQ5SGYtWVg3akNpQzY5RzI0TExpLWd0dVNwQUEtQU0wb2xtbWQ1OG1GTnhMNWVaYkNGMUtxSzVybDg1VjRFTjRoMXotdGszS1J4R1JGT0NOUzlGZ1dtZ3ZXOENQQVdhTUpDaS1JVXFjR3owOEs0bXRIcWU2TlFXWDQzQndlVDhPMTJUMjl0TXU3ek84dHduc1N2c1ZRcVRPZWY0OW82d0tWZDlKQ2tnZnlhYjdJcWRWS0E4TGhvRmtfc0pBTGVPUjRDa2djY2Q3VEM2bUlnVDk0V3U2?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** "노무현 대통령 추천으로 하버드 입학?"…이준석, 전한길 추가 고소 예고 - 뉴시스
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "노무현 대통령 추천으로 하버드 입학?"…이준석, 전한길 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE81Smd2dzZOTkdjemlBLTcyTTNGTE4tYkhfeWtfamdPc3R0Z0gxb2hveVI1NjZpdlpXVDdYSjZjTEVzQ2FmZTJzZE1McE5MS2tjRURhZjlFVHNTRkdMMEM4d9IBeEFVX3lxTE5RXzRRSlVscU85N1RTdjgwbHY4Q1lKOHJmOS1sTnczNHY3aVdacUZNU1FGbFZLZF90Q3RkZlZMUlBfQmZSN29UNXVZekhnQ1gyRElVMFc5b2dJcWxRTzl3Q01DUGlkUHc1N0tpUGNBZFFvbEk1M3RQTA?oc=5)
+
+---
+
