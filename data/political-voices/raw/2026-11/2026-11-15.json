@@ -474,5 +474,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6863b5a61470e5483a4385cb349066f50b2c5f5cda94291feaa874e54d0ba451",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "국민여론, 민주당과 조국혁신당의 합당, 한동훈 무소속 의원의 국민의힘 복당도 반대가 더 많아 - 정경시사 FOCUS",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HMnMtRm1sWmF0djd6VTVxVGJVQjQzY241LVRfeFA5UE14VHRiRUdRbi1qaGZidS1hVXB6U2hZQ09tV21DODVQNFFCYTVSV3JyWjdlM0VSYmd3b1hkQzNmcDd1QXpvVHA1?oc=5\" target=\"_blank\">국민여론, 민주당과 조국혁신당의 합당, 한동훈 무소속 의원의 국민의힘 복당도 반대가 더 많아</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">정경시사 FOCUS</font>",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HMnMtRm1sWmF0djd6VTVxVGJVQjQzY241LVRfeFA5UE14VHRiRUdRbi1qaGZidS1hVXB6U2hZQ09tV21DODVQNFFCYTVSV3JyWjdlM0VSYmd3b1hkQzNmcDd1QXpvVHA1?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 00:48:12 GMT",
+    "source": "정경시사 FOCUS",
+    "ageHours": 22.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 국민여론, 민주당과 조국혁신당의 합당, 한동훈 무소속 의원의 국민의힘 복당도 반대가 더 많아",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
