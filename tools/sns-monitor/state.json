@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-14T01:31:15.348Z",
+  "lastCheckedAt": "2026-11-14T01:41:14.612Z",
   "seenPostIds": {
     "7ISc7Jqp7KO8ICLshqHsmIHquLgg7Iug": {
       "seenAt": "2026-11-10T08:17:12.394Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-14T01:11:18.223Z",
       "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum - IMDb",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8cbee8640114e0105be3e0bb5d32c690a727623f8ee8470f35cde7ed45a8f7dc": {
+      "seenAt": "2026-11-14T01:41:15.586Z",
+      "title": "[속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전 - 세계일보",
+      "targetName": "한동훈"
     }
   },
   "pending": []

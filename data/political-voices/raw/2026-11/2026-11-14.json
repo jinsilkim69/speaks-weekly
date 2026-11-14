@@ -1074,5 +1074,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8cbee8640114e0105be3e0bb5d32c690a727623f8ee8470f35cde7ed45a8f7dc",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "[속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전 - 세계일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBGaFFwRHdyTS1na0MxY2NVTUlFS3lDVEs1dU1hQUJTcHNtU0g3NTlHN3hvaWVfVmtxS0xCd2dZZDlLNDhfa0Qxc2JlN0tIdmIzMFhITHJpVG9vaTVuRWZmb0o4dmlqQTBsNFdF0gFUQVVfeXFMUC11MDhqWUh5VHg5UE8yS1Eydk9QYUIyOGt6SS1Jd1lGTXU1bTVNOGtaSnVDNFJIQkRmdzY0dmZkeGQ3dGF0VlhUQlpyY2JkVmdhNU5L?oc=5\" target=\"_blank\">[속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGaFFwRHdyTS1na0MxY2NVTUlFS3lDVEs1dU1hQUJTcHNtU0g3NTlHN3hvaWVfVmtxS0xCd2dZZDlLNDhfa0Qxc2JlN0tIdmIzMFhITHJpVG9vaTVuRWZmb0o4dmlqQTBsNFdF0gFUQVVfeXFMUC11MDhqWUh5VHg5UE8yS1Eydk9QYUIyOGt6SS1Jd1lGTXU1bTVNOGtaSnVDNFJIQkRmdzY0dmZkeGQ3dGF0VlhUQlpyY2JkVmdhNU5L?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 01:23:42 GMT",
+    "source": "세계일보",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
