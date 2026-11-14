@@ -1424,5 +1424,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "03fbf0e378c61930dbc4daf1eeb5e3fee087961fe2c94e7cefa8d74c06746ec1",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "조국도 김민석 저격?…\"민주당, 합당 결사 반대했던 이들이 찬성론자인 양…\" - 프레시안",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5STjB3QXVJMm5ZaHczZFhFcTdYanlHYjAxcHJCdHBLX0ozNUxXMkMybGQzYWRSRjI3WVV4ck1KV0NzcGF5WUF3QzN4XzFSSERjN1lqYU90WjJFVUd4emZON3N5SEtYLUl2ODBN?oc=5\" target=\"_blank\">조국도 김민석 저격?…\"민주당, 합당 결사 반대했던 이들이 찬성론자인 양…\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5STjB3QXVJMm5ZaHczZFhFcTdYanlHYjAxcHJCdHBLX0ozNUxXMkMybGQzYWRSRjI3WVV4ck1KV0NzcGF5WUF3QzN4XzFSSERjN1lqYU90WjJFVUd4emZON3N5SEtYLUl2ODBN?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 12:28:31 GMT",
+    "source": "프레시안",
+    "ageHours": 15.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국도 김민석 저격?…\"민주당, 합당 결사 반대했던 이들이 찬성론자인 양…\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "37d56790e5d94ff3a325e6817d403bfd6566101110099e7076c14f46e2a9d36a",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국도 김민석 저격?…\"민주당, 합당 결사 반대했던 이들이 찬성론자인 양…\" - 프레시안",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5STjB3QXVJMm5ZaHczZFhFcTdYanlHYjAxcHJCdHBLX0ozNUxXMkMybGQzYWRSRjI3WVV4ck1KV0NzcGF5WUF3QzN4XzFSSERjN1lqYU90WjJFVUd4emZON3N5SEtYLUl2ODBN?oc=5\" target=\"_blank\">조국도 김민석 저격?…\"민주당, 합당 결사 반대했던 이들이 찬성론자인 양…\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5STjB3QXVJMm5ZaHczZFhFcTdYanlHYjAxcHJCdHBLX0ozNUxXMkMybGQzYWRSRjI3WVV4ck1KV0NzcGF5WUF3QzN4XzFSSERjN1lqYU90WjJFVUd4emZON3N5SEtYLUl2ODBN?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 12:28:31 GMT",
+    "source": "프레시안",
+    "ageHours": 15.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국도 김민석 저격?…\"민주당, 합당 결사 반대했던 이들이 찬성론자인 양…\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
