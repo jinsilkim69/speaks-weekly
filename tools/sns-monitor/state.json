@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T20:51:18.825Z",
+  "lastCheckedAt": "2026-11-14T21:01:15.157Z",
   "seenPostIds": {
-    "7KGw6rWtIOydtOyWtCDsoJXssq3rnpjr": {
-      "seenAt": "2026-11-11T16:39:50.190Z",
-      "title": "조국 이어 정청래도 \"조희대, 재제청 거부 때 즉시 탄핵했어야\" - 매일신문",
-      "targetName": "정청래"
-    },
     "7KCV7LKt656YLCDrsJXsp4Dsm5Dsl5Ag": {
       "seenAt": "2026-11-11T16:39:50.190Z",
       "title": "정청래, 박지원에 “줄곧 저를 욕하던 사람이···가던 길 가시라” - 주간경향",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-14T20:51:20.216Z",
       "title": "Trump says he’s working with bipartisan senators on film industry legislation - The Hill",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a0b0334fa36647b29758f51c474e368648ef03517b4b133acab62d0cbb867fe8": {
+      "seenAt": "2026-11-14T21:01:16.327Z",
+      "title": "연일 ‘조희대 탄핵’ 외치는 조국혁신당의 두 가지 셈법 - 에너지경제신문",
+      "targetName": "조국"
     }
   },
   "pending": []
