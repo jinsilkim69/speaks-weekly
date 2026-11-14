@@ -5240,3 +5240,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 최민희·한동훈 SNS서 설전···“막 우기면 추해” “거짓말 마라” - 경향신문
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희·한동훈 SNS서 설전···“막 우기면 추해” “거짓말 마라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hOU93eTBUMVJxRU1PQy1aYnFhWEhnRmtUUkJJdlV6RUk3eDI5SDZKMExUNjNLdzhUX0VuUG9lWVhRdHNJZlctR3dOaExtMFJHcnhYVGNMOUtwQdIBX0FVX3lxTE1lanJsaHFVa3VVMjdJMU15VlVlczJ6N3RwdERNTm9ndzRuNS11Z1Zjc05yQl9fZFBhV0k5TTQxcld0QWFhbkt3aXN0cTZVYVdELUphYWs1N3pFVlZjcmhz?oc=5)
+
+---
+
