@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-14T13:11:14.985Z",
+  "lastCheckedAt": "2026-11-14T13:21:16.456Z",
   "seenPostIds": {
     "VVMganVkZ2UgcmVqZWN0cyBCQkMgYmlk": {
       "seenAt": "2026-11-11T08:42:01.664Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-14T13:01:18.090Z",
       "title": "노무현 추천으로 하버드 입학했다고?…이준석, 전한길 추가 고소 예고 - 헤럴드경제",
       "targetName": "이준석"
+    },
+    "8488f5ff473c4aa9b67d65be61537b04f953ae570fc7d85c3d01ac60a51dafeb": {
+      "seenAt": "2026-11-14T13:21:17.989Z",
+      "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades - Financial Times",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
