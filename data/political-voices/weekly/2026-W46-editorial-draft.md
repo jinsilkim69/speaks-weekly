@@ -4889,3 +4889,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 김동명, 조국혁신당에 정년연장 연내 입법 협력 요청 - 매일노동뉴스
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김동명, 조국혁신당에 정년연장 연내 입법 협력 요청
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE16Snh5NktkaHFoVllKVFZraU9SSkxVR3d2X2F0dFFCc3FFMGlUWUtyNjhNZk1peWt1d1Q5UjF0THpJVlFyYUhNLWJ4UkZvc3ZDZGxmcHJUcFBTLWlfeTJ2dDlCVllmYmJoblNRRmVGblI?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** "李 재판이 더 빼박"…한동훈, 최민희 '거짓말' 반박에 '시한부 대통령' 재공세 - 데일리안
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "李 재판이 더 빼박"…한동훈, 최민희 '거짓말' 반박에 '시한부 대통령' 재공세
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimAJBVV95cUxQYlY0dl9hbjllVmp0NTMwVFM5Q1RlWHZMU001TTQxOXdlTDFtbWV5cEQwWmFpenJDTnV3YlVzYk1wSy0wSXdmb2tncHFfUnQ5aUxZaUVGc3VPMC1xd095bW1XV1lydHdsNC1FcmxvN1l1VHkwakt6QkgyTUcwVjhzXzg3bXgtX21obW1jR25RYk5SU2ZvbnZYNlhXV012UFJDV0RwNXJZSWpQSG4ydmVZZVczU0dXNmhjclhFSVVDNGNYYWNWMjM3T3VWekdCenk5VzVZVUFVc3FwVlJkMXJhdWN1NDkyZU5mMkt6WldtOFZ2RHYyTkNTVjJ2ajJUV29UQ08zblQ5Zko3UGg4NHctSDVJSUhBODlF?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “李, 확정적 ‘시한부 대통령’”…최민희 녹취록으로 공세 - Chosunbiz
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “李, 확정적 ‘시한부 대통령’”…최민희 녹취록으로 공세
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMirgFBVV95cUxPUE5tWndUMlU0dFFZQlZnUkttZWttYTBNTExtX3FDQXVfYnNycFFKZHMtYWtTTWVpa1U5dGhkcmozSFc5eThwclVaU3k4NDdJQnNMQ0FISjRRenJFUU5XaDRLMmprVXJwZkZLNjFSSEtzWEFadUQ4dWNPRW9KSXJoTmVIYUlDaVBWcWlEZ0tXWXlGOVBXcmF6MUF6ZXZKQ2hKUWxCcnQwNlRQRTJfRWfSAa4BQVVfeXFMT1BObVp3VDJVNHRRWUJWZ1JLbWVrbWEwTUxMbV9xQ0F1X2JzcnBRSmRzLWFrU01laWtVOXRoZHJqM0hXOXk4cHJVWlN5ODQ3SUJzTENBSEo0UXpyRVFOV2g0SzJqa1VycGZGSzYxUkhLc1hBWnVEOHVjT0VvSklyaE5lSGFJQ2lQVnFpRGdLV1l5RjlQV3JhejFBemV2SkNoSlFsQnJ0MDZUUEUyX0Vn?oc=5)
+
+---
+

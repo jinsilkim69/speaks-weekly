@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T05:21:16.596Z",
+  "lastCheckedAt": "2026-11-14T05:31:16.415Z",
   "seenPostIds": {
-    "6rmA66+87ISdICLvp6HsoJXrtoAg7ISx": {
-      "seenAt": "2026-11-10T16:29:20.030Z",
-      "title": "김민석 \"李정부 성공이 민주당 성공\"…'부동산 엇박자'도 일축 - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
-    "6Z2R67mE7ISc7Iuk7J6lLCDquYDrr7zs": {
-      "seenAt": "2026-11-10T16:29:20.030Z",
-      "title": "靑비서실장, 김민석 만나 '종부세 논란' 진화 시도…\"당청 엇박자 없다\" - 프레시안",
-      "targetName": "김민석"
-    },
-    "7Ya17ZmU7ZWY64qUIOygleyyreuemCDs": {
-      "seenAt": "2026-11-10T16:29:20.286Z",
-      "title": "통화하는 정청래 의원 - 뉴스핌",
-      "targetName": "정청래"
-    },
     "7KCV7LKt656YLCDquYDrr7zshJ3sl5Ag": {
       "seenAt": "2026-11-10T16:29:20.286Z",
       "title": "정청래, 김민석에 “100일 판가름”…전현직 갈등 끝은 - 시사오늘",
@@ -2515,21 +2500,36 @@
       "seenAt": "2026-11-14T05:21:19.450Z",
       "title": "\"내가 왜 노무현 추천서를 받나\" 전한길 저격한 이준석 - 데일리안",
       "targetName": "이준석"
+    },
+    "3e44d3836528f91320ec86d7eb700b8350e4fd211dc39ddd23fb08c0b97febe1": {
+      "seenAt": "2026-11-14T05:31:17.755Z",
+      "title": "김동명, 조국혁신당에 정년연장 연내 입법 협력 요청 - 매일노동뉴스",
+      "targetName": "조국"
+    },
+    "a8fee88a7c846ad09ceca7b56ce2721103afb28b81fcb425d7ffc11331c5c10d": {
+      "seenAt": "2026-11-14T05:31:18.528Z",
+      "title": "\"李 재판이 더 빼박\"…한동훈, 최민희 '거짓말' 반박에 '시한부 대통령' 재공세 - 데일리안",
+      "targetName": "한동훈"
+    },
+    "c390ac7b036e1a804bdda9abdd298b6d5beb7e3037e4eb435360766c101003c9": {
+      "seenAt": "2026-11-14T05:31:19.240Z",
+      "title": "한동훈 “李, 확정적 ‘시한부 대통령’”…최민희 녹취록으로 공세 - Chosunbiz",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "3e44d3836528f91320ec86d7eb700b8350e4fd211dc39ddd23fb08c0b97febe1",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "김동명, 조국혁신당에 정년연장 연내 입법 협력 요청 - 매일노동뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE16Snh5NktkaHFoVllKVFZraU9SSkxVR3d2X2F0dFFCc3FFMGlUWUtyNjhNZk1peWt1d1Q5UjF0THpJVlFyYUhNLWJ4UkZvc3ZDZGxmcHJUcFBTLWlfeTJ2dDlCVllmYmJoblNRRmVGblI?oc=5\" target=\"_blank\">김동명, 조국혁신당에 정년연장 연내 입법 협력 요청</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일노동뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16Snh5NktkaHFoVllKVFZraU9SSkxVR3d2X2F0dFFCc3FFMGlUWUtyNjhNZk1peWt1d1Q5UjF0THpJVlFyYUhNLWJ4UkZvc3ZDZGxmcHJUcFBTLWlfeTJ2dDlCVllmYmJoblNRRmVGblI?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 08:51:22 GMT",
-        "source": "매일노동뉴스",
-        "ageHours": 20.5
+        "id": "4bdde28c4e4b87fcd10375b61841fb5f9199c6161139bf4de5fd6eaf2e0fd224",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "\"내가 왜 노무현 추천서를 받나\" 전한길 저격한 이준석 - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOVEE1Vk1xaU9XcTY5Z040eXRhMm5PZXZLZnlVNHpjdm9ucENFRFZRZGNWNW9WTHpZRlQ5SGYtWVg3akNpQzY5RzI0TExpLWd0dVNwQUEtQU0wb2xtbWQ1OG1GTnhMNWVaYkNGMUtxSzVybDg1VjRFTjRoMXotdGszS1J4R1JGT0NOUzlGZ1dtZ3ZXOENQQVdhTUpDaS1JVXFjR3owOEs0bXRIcWU2TlFXWDQzQndlVDhPMTJUMjl0TXU3ek84dHduc1N2c1ZRcVRPZWY0OW82d0tWZDlKQ2tnZnlhYjdJcWRWS0E4TGhvRmtfc0pBTGVPUjRDa2djY2Q3VEM2bUlnVDk0V3U2?oc=5\" target=\"_blank\">\"내가 왜 노무현 추천서를 받나\" 전한길 저격한 이준석</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVEE1Vk1xaU9XcTY5Z040eXRhMm5PZXZLZnlVNHpjdm9ucENFRFZRZGNWNW9WTHpZRlQ5SGYtWVg3akNpQzY5RzI0TExpLWd0dVNwQUEtQU0wb2xtbWQ1OG1GTnhMNWVaYkNGMUtxSzVybDg1VjRFTjRoMXotdGszS1J4R1JGT0NOUzlGZ1dtZ3ZXOENQQVdhTUpDaS1JVXFjR3owOEs0bXRIcWU2TlFXWDQzQndlVDhPMTJUMjl0TXU3ek84dHduc1N2c1ZRcVRPZWY0OW82d0tWZDlKQ2tnZnlhYjdJcWRWS0E4TGhvRmtfc0pBTGVPUjRDa2djY2Q3VEM2bUlnVDk0V3U2?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 05:18:00 GMT",
+        "source": "데일리안",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
