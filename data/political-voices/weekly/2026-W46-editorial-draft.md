@@ -5292,3 +5292,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 최민희와 '李·尹 공직선거법 재판' 두고 공방…"우기면 추해" - 뉴시스
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 최민희와 '李·尹 공직선거법 재판' 두고 공방…"우기면 추해"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1QZV9YNHJoLXlvOURRV2w0d3FrRTlscW1pUzJxT1RoRGNFUFFsUUNPS2k4VXlOenRxR3hPS2xWTGMzaERtY1RrWExraGRXR3g5U3B5S0RYeERDMkxmaXppQ25nYUhwVlZxTmEweXdCbGV0T2VydDVDVtIBeEFVX3lxTE1QZV9YNHJoLXlvOURRV2w0d3FrRTlscW1pUzJxT1RoRGNFUFFsUUNPS2k4VXlOenRxR3hPS2xWTGMzaERtY1RrWExraGRXR3g5U3B5S0RYeERDMkxmaXppQ25nYUhwVlZxTmEweXdCbGV0T2VydDVDVg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 박지원 "김민석-정청래 싸움, 대통령 지지율 '뚝'...죽이 되든 밥이 되든 만나, 적당히들 하길"[여의도초대석] - KBC광주방송
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원 "김민석-정청래 싸움, 대통령 지지율 '뚝'...죽이 되든 밥이 되든 만나, 적당히들 하길"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZaXB1cVlpS1ZXWmhUd09UVXJULWpIa2hPNF84cHRlMnJGUUppWFRPQzdZQV9lYTVWUHo0N3pqUERoWC1uTjhiQ2haNm51SUVWWG5KcU5KQzVNdUlabF9Hc3ln?oc=5)
+
+---
+
