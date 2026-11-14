@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T07:11:14.347Z",
+  "lastCheckedAt": "2026-11-14T07:21:15.944Z",
   "seenPostIds": {
-    "VHJ1bXAgTWVkaWEgRmlsaW5ncyBTaG93": {
-      "seenAt": "2026-11-10T21:56:01.291Z",
-      "title": "Trump Media Filings Show How Much He Makes From Selling His Posts - The New Republic",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "VHJ1bXAgSXMgU2VsbGluZyBFYXJseSBB": {
-      "seenAt": "2026-11-10T21:56:01.291Z",
-      "title": "Trump Is Selling Early Access to Social Media Posts. The Gambit Is Starting to Pay Off. - Mother Jones",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "VHJ1bXAgSGl0IGJ5IEJydXRhbCBUcnV0": {
       "seenAt": "2026-11-10T21:56:01.291Z",
       "title": "Trump Hit by Brutal Truth Social Exodus - Yahoo",
@@ -2509,6 +2499,21 @@
     "8d7be1a493a7e5662b5c2e6527edcf55d08be9768e9310ea3d82f54aea89ca1a": {
       "seenAt": "2026-11-14T07:11:16.131Z",
       "title": "이준석 “노무현 추천서를 왜 받냐”…전한길 추가 고소 예고 - 문화일보",
+      "targetName": "이준석"
+    },
+    "c32e9e944871ae83f7be012a1a8d4e6027f4fa053108e7495df7c8c46ca2fd1a": {
+      "seenAt": "2026-11-14T07:21:17.309Z",
+      "title": "\"이 대통령·尹 선거법 재판, 같다? 다르다?\"... 최민희·한동훈 SNS 설전 - 한국일보",
+      "targetName": "한동훈"
+    },
+    "4cb9aa9118fae1f45cce4c19744d6a540c5c119c617ab06bb627359b4a8aaf86": {
+      "seenAt": "2026-11-14T07:21:17.995Z",
+      "title": "[속보] 한동훈, “李대통령, 조작기소특검법 직접 할 배짱 없으면 접어야” - 경기일보",
+      "targetName": "한동훈"
+    },
+    "fbca39d080105f7c979754541c73bb96ae879863018964848a6ef9b04d953d24": {
+      "seenAt": "2026-11-14T07:21:18.706Z",
+      "title": "\"노무현 대통령 추천으로 하버드 입학?\"…이준석, 전한길 추가 고소 예고 - 뉴시스",
       "targetName": "이준석"
     }
   },

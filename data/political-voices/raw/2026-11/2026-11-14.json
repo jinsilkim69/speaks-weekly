@@ -2302,5 +2302,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c32e9e944871ae83f7be012a1a8d4e6027f4fa053108e7495df7c8c46ca2fd1a",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "\"이 대통령·尹 선거법 재판, 같다? 다르다?\"... 최민희·한동훈 SNS 설전 - 한국일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBKaDByQUFGZkNJRnVnanBiZ3o5ZjdKdVdEZ2VrWUdDNWtJNjNFam9mS1k5UmFYbXYzSFhhYWphczJ5SUZVX2NMUGliaTl3eTFYeU8zTFFFVVhOYzVtaXF4cjhrSE1xb0tmdzRIeXNR0gFzQVVfeXFMUDlBeWw1Z3JCV1dRRXFEUjg1ZGZOaGlyb3E5NDUwVFY3S3Z5cmQ2ZTZxODFQWHdtVm1XNVEwSFNZU2xfQjcyejV6ZWItRTFUMExrUjFlVFh4aHJPOGsyTGtNUk9ncmZqNU5qYXpZbGdfY01hVQ?oc=5\" target=\"_blank\">\"이 대통령·尹 선거법 재판, 같다? 다르다?\"... 최민희·한동훈 SNS 설전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKaDByQUFGZkNJRnVnanBiZ3o5ZjdKdVdEZ2VrWUdDNWtJNjNFam9mS1k5UmFYbXYzSFhhYWphczJ5SUZVX2NMUGliaTl3eTFYeU8zTFFFVVhOYzVtaXF4cjhrSE1xb0tmdzRIeXNR0gFzQVVfeXFMUDlBeWw1Z3JCV1dRRXFEUjg1ZGZOaGlyb3E5NDUwVFY3S3Z5cmQ2ZTZxODFQWHdtVm1XNVEwSFNZU2xfQjcyejV6ZWItRTFUMExrUjFlVFh4aHJPOGsyTGtNUk9ncmZqNU5qYXpZbGdfY01hVQ?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 07:14:00 GMT",
+    "source": "한국일보",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"이 대통령·尹 선거법 재판, 같다? 다르다?\"... 최민희·한동훈 SNS 설전",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "4cb9aa9118fae1f45cce4c19744d6a540c5c119c617ab06bb627359b4a8aaf86",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "[속보] 한동훈, “李대통령, 조작기소특검법 직접 할 배짱 없으면 접어야” - 경기일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mMFJlZkRUVk41b0RGaGxnemhvR3ZmNEpFcHNianM3TzBrRUVhSUtjaEZEYkhIazhYeG01YURtREhGWHBvbTFQSFZFczF0OW9NaThBMFJzQ2VYM1E?oc=5\" target=\"_blank\">[속보] 한동훈, “李대통령, 조작기소특검법 직접 할 배짱 없으면 접어야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mMFJlZkRUVk41b0RGaGxnemhvR3ZmNEpFcHNianM3TzBrRUVhSUtjaEZEYkhIazhYeG01YURtREhGWHBvbTFQSFZFczF0OW9NaThBMFJzQ2VYM1E?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 07:13:56 GMT",
+    "source": "경기일보",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈, “李대통령, 조작기소특검법 직접 할 배짱 없으면 접어야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "fbca39d080105f7c979754541c73bb96ae879863018964848a6ef9b04d953d24",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "\"노무현 대통령 추천으로 하버드 입학?\"…이준석, 전한길 추가 고소 예고 - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5RXzRRSlVscU85N1RTdjgwbHY4Q1lKOHJmOS1sTnczNHY3aVdacUZNU1FGbFZLZF90Q3RkZlZMUlBfQmZSN29UNXVZekhnQ1gyRElVMFc5b2dJcWxRTzl3Q01DUGlkUHc1N0tpUGNBZFFvbEk1M3RQTNIBeEFVX3lxTE5RXzRRSlVscU85N1RTdjgwbHY4Q1lKOHJmOS1sTnczNHY3aVdacUZNU1FGbFZLZF90Q3RkZlZMUlBfQmZSN29UNXVZekhnQ1gyRElVMFc5b2dJcWxRTzl3Q01DUGlkUHc1N0tpUGNBZFFvbEk1M3RQTA?oc=5\" target=\"_blank\">\"노무현 대통령 추천으로 하버드 입학?\"…이준석, 전한길 추가 고소 예고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RXzRRSlVscU85N1RTdjgwbHY4Q1lKOHJmOS1sTnczNHY3aVdacUZNU1FGbFZLZF90Q3RkZlZMUlBfQmZSN29UNXVZekhnQ1gyRElVMFc5b2dJcWxRTzl3Q01DUGlkUHc1N0tpUGNBZFFvbEk1M3RQTNIBeEFVX3lxTE5RXzRRSlVscU85N1RTdjgwbHY4Q1lKOHJmOS1sTnczNHY3aVdacUZNU1FGbFZLZF90Q3RkZlZMUlBfQmZSN29UNXVZekhnQ1gyRElVMFc5b2dJcWxRTzl3Q01DUGlkUHc1N0tpUGNBZFFvbEk1M3RQTA?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 05:25:28 GMT",
+    "source": "뉴시스",
+    "ageHours": 1.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"노무현 대통령 추천으로 하버드 입학?\"…이준석, 전한길 추가 고소 예고",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

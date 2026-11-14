@@ -5136,3 +5136,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** "이 대통령·尹 선거법 재판, 같다? 다르다?"... 최민희·한동훈 SNS 설전 - 한국일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "이 대통령·尹 선거법 재판, 같다? 다르다?"... 최민희·한동훈 SNS 설전
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBKaDByQUFGZkNJRnVnanBiZ3o5ZjdKdVdEZ2VrWUdDNWtJNjNFam9mS1k5UmFYbXYzSFhhYWphczJ5SUZVX2NMUGliaTl3eTFYeU8zTFFFVVhOYzVtaXF4cjhrSE1xb0tmdzRIeXNR0gFzQVVfeXFMUDlBeWw1Z3JCV1dRRXFEUjg1ZGZOaGlyb3E5NDUwVFY3S3Z5cmQ2ZTZxODFQWHdtVm1XNVEwSFNZU2xfQjcyejV6ZWItRTFUMExrUjFlVFh4aHJPOGsyTGtNUk9ncmZqNU5qYXpZbGdfY01hVQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [속보] 한동훈, “李대통령, 조작기소특검법 직접 할 배짱 없으면 접어야” - 경기일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, “李대통령, 조작기소특검법 직접 할 배짱 없으면 접어야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mMFJlZkRUVk41b0RGaGxnemhvR3ZmNEpFcHNianM3TzBrRUVhSUtjaEZEYkhIazhYeG01YURtREhGWHBvbTFQSFZFczF0OW9NaThBMFJzQ2VYM1E?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** "노무현 대통령 추천으로 하버드 입학?"…이준석, 전한길 추가 고소 예고 - 뉴시스
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "노무현 대통령 추천으로 하버드 입학?"…이준석, 전한길 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE5RXzRRSlVscU85N1RTdjgwbHY4Q1lKOHJmOS1sTnczNHY3aVdacUZNU1FGbFZLZF90Q3RkZlZMUlBfQmZSN29UNXVZekhnQ1gyRElVMFc5b2dJcWxRTzl3Q01DUGlkUHc1N0tpUGNBZFFvbEk1M3RQTNIBeEFVX3lxTE5RXzRRSlVscU85N1RTdjgwbHY4Q1lKOHJmOS1sTnczNHY3aVdacUZNU1FGbFZLZF90Q3RkZlZMUlBfQmZSN29UNXVZekhnQ1gyRElVMFc5b2dJcWxRTzl3Q01DUGlkUHc1N0tpUGNBZFFvbEk1M3RQTA?oc=5)
+
+---
+
