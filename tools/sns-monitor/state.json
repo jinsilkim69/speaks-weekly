@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-14T15:11:17.803Z",
+  "lastCheckedAt": "2026-11-14T15:21:16.433Z",
   "seenPostIds": {
     "W+yLrOy4teu2hOyEnV3snbTsnqzrqoUg": {
       "seenAt": "2026-11-11T16:39:49.360Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-14T13:41:16.972Z",
       "title": "노무현 추천으로 하버드 입학했다고?…이준석, 전한길 추가 고소 예고 - 헤럴드경제",
       "targetName": "이준석"
+    },
+    "6045f1a7be52d7e5ea738fdc340e90e6685845c54e016f008b1a96ed09ce9415": {
+      "seenAt": "2026-11-14T15:21:18.117Z",
+      "title": "Trump blames US ground stop outage on ‘old broken stuff’ while Democrats demand answers over airport chaos - The Independent",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
