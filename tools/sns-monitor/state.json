@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-14T10:21:14.867Z",
+  "lastCheckedAt": "2026-11-14T10:31:14.217Z",
   "seenPostIds": {
     "6rWt7Z6YIOuLueq2jO2MjCDsnKTrpqzs": {
       "seenAt": "2026-11-11T08:41:59.773Z",
@@ -2500,7 +2500,39 @@
       "seenAt": "2026-11-14T10:11:19.267Z",
       "title": "[속보] 최민희·한동훈, 이재명·윤석열 재판 놓고 SNS 설전…“시한부 대통령” vs “공작재판” - 강원일보",
       "targetName": "한동훈"
+    },
+    "c10c8b61a29b5740a53f1f000e4ff549789da2181ca41b662ab1e4cc66f95eb6": {
+      "seenAt": "2026-11-14T10:31:15.280Z",
+      "title": "최민희·한동훈 ‘李·尹 선거법 재판 비교 발언’ 놓고 SNS 공방 - 천지일보",
+      "targetName": "한동훈"
+    },
+    "78c26115c371a9a40d29a0504993c8f3a8317c9c42a8bf441ca4067157719c98": {
+      "seenAt": "2026-11-14T10:31:16.005Z",
+      "title": "최민희 “통일교가 김민석 밀었다” 녹취 파장…국힘 “특검하라” - 중앙일보",
+      "targetName": "김민석"
+    },
+    "33f086cb837698870580c2df36eedd820c9839327ffbaf56c5b037dad693d314": {
+      "seenAt": "2026-11-14T10:31:16.773Z",
+      "title": "이준석 \"노무현 대통령 추천서로 하버드 입학?\"⋯전한길 추가 고소 예고 - 아이뉴스24",
+      "targetName": "이준석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "a8e85c275878ae76cf334800a9fe42ff66eadbccdcdbfae114f5d9c660561777",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump touts Iran victory by ‘status quo’ economic pressure - The Washington Post",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjdDUkdQaXVrcUlEYlg0SmxsT1hTdllwUzR1UWhJd3REV2czeXZjaHNTcnpGbnJzNVd5QkJZQUN4WHgxeG0yMFJIMTBTOGFkRmk1d2JVd2lXQWI4VmI0STRtQ3dRV3IwUHVackQxMGxSVUJ3empRR1NLWk1URkl4ODN5YktkUTN2T05SOUxoUmFqbkdtTlBVaXNUNW5ibkx6WGxLMjFabFA0X3BTeTFkeEUyc1JJY2dv?oc=5\" target=\"_blank\">Trump touts Iran victory by ‘status quo’ economic pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjdDUkdQaXVrcUlEYlg0SmxsT1hTdllwUzR1UWhJd3REV2czeXZjaHNTcnpGbnJzNVd5QkJZQUN4WHgxeG0yMFJIMTBTOGFkRmk1d2JVd2lXQWI4VmI0STRtQ3dRV3IwUHVackQxMGxSVUJ3empRR1NLWk1URkl4ODN5YktkUTN2T05SOUxoUmFqbkdtTlBVaXNUNW5ibkx6WGxLMjFabFA0X3BTeTFkeEUyc1JJY2dv?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 04:43:41 GMT",
+        "source": "The Washington Post",
+        "ageHours": 5.8
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

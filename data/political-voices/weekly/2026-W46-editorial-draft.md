@@ -5500,3 +5500,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 최민희·한동훈 ‘李·尹 선거법 재판 비교 발언’ 놓고 SNS 공방 - 천지일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희·한동훈 ‘李·尹 선거법 재판 비교 발언’ 놓고 SNS 공방
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBrcTEyOWlWbHJsZERObTV0Ujdsek9JSFEwckQwYkZrTENKSEJ4dzMtczh2VFhlZWxxWElSbVQ5dkhKZVZjeUdXaVhHdk1rWlNlZ2NFX3RCdGNpU2N6QW5lSU9JZHc3YTU2bnc?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 “통일교가 김민석 밀었다” 녹취 파장…국힘 “특검하라” - 중앙일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 “통일교가 김민석 밀었다” 녹취 파장…국힘 “특검하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE82WjN1NTNHZzBwWWhUYVVGUnFxdVlWNXRwNnI2R2huNFczaEdtYTB2UUxCNUZvZlVyOVhNRUVUNjY4czFWWVEzMS1QTWN6NzNlWWdsNERB?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "노무현 대통령 추천서로 하버드 입학?"⋯전한길 추가 고소 예고 - 아이뉴스24
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "노무현 대통령 추천서로 하버드 입학?"⋯전한길 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE10ZDlhS1VGemdiVzZKRENSMUNRS0NyUlF4VzFZbWxtSHlwQXhpUjJObnB2Q3pyXzVkNHlxa1Ntci02WThKeTU4cUJFbw?oc=5)
+
+---
+
