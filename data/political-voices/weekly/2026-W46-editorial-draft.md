@@ -5084,3 +5084,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "막 우기면 추해"…李·尹 재판 두고 최민희와 공방 - 이데일리
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "막 우기면 추해"…李·尹 재판 두고 최민희와 공방
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxPRk5oQUNaNjlCb0R4WFUzOTdZTUNPbTVzLWJNaXM4NUdpUHhnU3RYQTEzcmw4RXp2SVlnM0g3UXl2WF9ESUpkSGVCS3BIXy12Q3JaSUpIUTRqOWFDcHluV2cyX0RfY1RJWjRnTGl6eU1oREZtX2dnYVVBWmhETzVMNg?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** ‘가능한 사랑’ 영화평 남긴 조국 “전도연, 접신의 경지” - 문화일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘가능한 사랑’ 영화평 남긴 조국 “전도연, 접신의 경지”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IamtPUnRpeVpBeXg5eTFfTDZHT2VYb1JmOVJZQ19fVEY0SF9uT2Z0QmxMWnR3VkdCa3lKZ2lfMUppVjh6UXFMaHVLV1liWk84?oc=5)
+
+---
+

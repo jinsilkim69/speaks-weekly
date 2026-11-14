@@ -2202,5 +2202,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "02052916906bc3bf4f880e8a68cf6b6c7a893e69f9fa651beab163b9fa57a2c8",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 \"막 우기면 추해\"…李·尹 재판 두고 최민희와 공방 - 이데일리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRk5oQUNaNjlCb0R4WFUzOTdZTUNPbTVzLWJNaXM4NUdpUHhnU3RYQTEzcmw4RXp2SVlnM0g3UXl2WF9ESUpkSGVCS3BIXy12Q3JaSUpIUTRqOWFDcHluV2cyX0RfY1RJWjRnTGl6eU1oREZtX2dnYVVBWmhETzVMNg?oc=5\" target=\"_blank\">한동훈 \"막 우기면 추해\"…李·尹 재판 두고 최민희와 공방</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRk5oQUNaNjlCb0R4WFUzOTdZTUNPbTVzLWJNaXM4NUdpUHhnU3RYQTEzcmw4RXp2SVlnM0g3UXl2WF9ESUpkSGVCS3BIXy12Q3JaSUpIUTRqOWFDcHluV2cyX0RfY1RJWjRnTGl6eU1oREZtX2dnYVVBWmhETzVMNg?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 06:42:25 GMT",
+    "source": "이데일리",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"막 우기면 추해\"…李·尹 재판 두고 최민희와 공방",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "bc6e024bc120e5dc92cb13f1354dfda7b0f9d4a7b347daea64ee8e1c7e2597dd",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "‘가능한 사랑’ 영화평 남긴 조국 “전도연, 접신의 경지” - 문화일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IamtPUnRpeVpBeXg5eTFfTDZHT2VYb1JmOVJZQ19fVEY0SF9uT2Z0QmxMWnR3VkdCa3lKZ2lfMUppVjh6UXFMaHVLV1liWk84?oc=5\" target=\"_blank\">‘가능한 사랑’ 영화평 남긴 조국 “전도연, 접신의 경지”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IamtPUnRpeVpBeXg5eTFfTDZHT2VYb1JmOVJZQ19fVEY0SF9uT2Z0QmxMWnR3VkdCa3lKZ2lfMUppVjh6UXFMaHVLV1liWk84?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 02:58:41 GMT",
+    "source": "문화일보",
+    "ageHours": 3.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘가능한 사랑’ 영화평 남긴 조국 “전도연, 접신의 경지”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

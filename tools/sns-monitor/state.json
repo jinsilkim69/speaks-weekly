@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T06:41:14.865Z",
+  "lastCheckedAt": "2026-11-14T06:51:16.877Z",
   "seenPostIds": {
-    "7KCV7LmY6raMIOqwle2DgO2VnCDsnbTs": {
-      "seenAt": "2026-11-10T21:56:00.209Z",
-      "title": "정치권 강타한 이준석의 ‘SNS 정치’…소통도 대응도 페북으로 - JTBC",
-      "targetName": "이준석"
-    },
-    "7KGw6rWtIOKAnOycoeyCrMK37YOc66aJ": {
-      "seenAt": "2026-11-10T21:56:00.669Z",
-      "title": "조국 “육사·태릉골프장에 최고급 공공임대주택 짓자” - 채널A",
-      "targetName": "조국"
-    },
     "7KGw6rWtICLsnKHsgqzCt+2DnOumieqz": {
       "seenAt": "2026-11-10T21:56:00.669Z",
       "title": "조국 \"육사·태릉골프장에 공공임대주택 공급…3만가구 가능\" - 머니투데이 - 머니투데이",
@@ -2510,6 +2500,16 @@
       "seenAt": "2026-11-14T06:41:17.453Z",
       "title": "\"尹보다 李가 더 빼박\" 한동훈, 최민희에 \"우기지 말고 반박하라\" - 대전일보",
       "targetName": "한동훈"
+    },
+    "02052916906bc3bf4f880e8a68cf6b6c7a893e69f9fa651beab163b9fa57a2c8": {
+      "seenAt": "2026-11-14T06:51:18.392Z",
+      "title": "한동훈 \"막 우기면 추해\"…李·尹 재판 두고 최민희와 공방 - 이데일리",
+      "targetName": "한동훈"
+    },
+    "bc6e024bc120e5dc92cb13f1354dfda7b0f9d4a7b347daea64ee8e1c7e2597dd": {
+      "seenAt": "2026-11-14T06:51:19.177Z",
+      "title": "‘가능한 사랑’ 영화평 남긴 조국 “전도연, 접신의 경지” - 문화일보",
+      "targetName": "조국"
     }
   },
   "pending": []
