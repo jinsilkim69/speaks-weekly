@@ -849,5 +849,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4349d7a1214c68fa2341ce1093b820c5542ae0c7fb95cfb52635754c1cdad303",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump says Jensen Huang is going 'through hell' amid scandal - USA Today",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQamlUUEtMdEYtaU9VYkZEMkFpbWo3U2k2TFhfU3NSUWphWVN3d2MyQ19JN05ZTU1CbXlvMHppdmhPWm1kTzNkTkozUnpuZkQ2OHpJYm9Eb1hJMWhMT1ljdmJZNXNSMWVMbXNGdVNXMGVuZ3lFdl9MZ0U5RjVLMURQNUVXN3FVMXVmOFk0bkx0NWJPUll3bTFJWk5tRVdpQXlTaDNDNA?oc=5\" target=\"_blank\">Trump says Jensen Huang is going 'through hell' amid scandal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamlUUEtMdEYtaU9VYkZEMkFpbWo3U2k2TFhfU3NSUWphWVN3d2MyQ19JN05ZTU1CbXlvMHppdmhPWm1kTzNkTkozUnpuZkQ2OHpJYm9Eb1hJMWhMT1ljdmJZNXNSMWVMbXNGdVNXMGVuZ3lFdl9MZ0U5RjVLMURQNUVXN3FVMXVmOFk0bkx0NWJPUll3bTFJWk5tRVdpQXlTaDNDNA?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 19:46:00 GMT",
+    "source": "USA Today",
+    "ageHours": 4.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump says Jensen Huang is going 'through hell' amid scandal",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

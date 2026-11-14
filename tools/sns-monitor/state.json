@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-13T23:51:23.087Z",
+  "lastCheckedAt": "2026-11-14T00:01:18.893Z",
   "seenPostIds": {
-    "IifrspTso4Tri6jssrQnIOqwgOyehSDr": {
-      "seenAt": "2026-11-10T08:17:11.679Z",
-      "title": "\"'범죄단체' 가입 말라\"…한동훈, 공직자들에 '조작기소특검 파견' 경고 - 데일리안",
-      "targetName": "한동훈"
-    },
-    "66+87KO8IOyyreuLtOuPmSDsiKDsnpDr": {
-      "seenAt": "2026-11-10T08:17:11.679Z",
-      "title": "민주 청담동 술자리 수사 조작 주장…한동훈 법적 대응 예고 : 정치 - 재경일보",
-      "targetName": "한동훈"
-    },
-    "7ZWc64+Z7ZuILCDsobDsnpHquLDshozt": {
-      "seenAt": "2026-11-10T08:17:11.679Z",
-      "title": "한동훈, 조작기소특검 정면 비판…“공직자들 동조해선 안 돼” - 키즈맘",
-      "targetName": "한동훈"
-    },
     "7J207ISx7JykLCDsi6Dsspzsp4AgVEbs": {
       "seenAt": "2026-11-10T08:17:11.923Z",
       "title": "이성윤, 신천지 TF조사 열람 후 “내용없어 허탈…김민석,직접 사과해야” - 중앙일보",
@@ -2515,24 +2500,12 @@
       "seenAt": "2026-11-13T23:51:26.012Z",
       "title": "Trump Hasn’t Commented on Nationwide Flight Shutdown, But He’s Promoting the Federal Film Incentive - Variety",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "4349d7a1214c68fa2341ce1093b820c5542ae0c7fb95cfb52635754c1cdad303": {
+      "seenAt": "2026-11-14T00:01:20.102Z",
+      "title": "Trump says Jensen Huang is going 'through hell' amid scandal - USA Today",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "4349d7a1214c68fa2341ce1093b820c5542ae0c7fb95cfb52635754c1cdad303",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump says Jensen Huang is going 'through hell' amid scandal - USA Today",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQamlUUEtMdEYtaU9VYkZEMkFpbWo3U2k2TFhfU3NSUWphWVN3d2MyQ19JN05ZTU1CbXlvMHppdmhPWm1kTzNkTkozUnpuZkQ2OHpJYm9Eb1hJMWhMT1ljdmJZNXNSMWVMbXNGdVNXMGVuZ3lFdl9MZ0U5RjVLMURQNUVXN3FVMXVmOFk0bkx0NWJPUll3bTFJWk5tRVdpQXlTaDNDNA?oc=5\" target=\"_blank\">Trump says Jensen Huang is going 'through hell' amid scandal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamlUUEtMdEYtaU9VYkZEMkFpbWo3U2k2TFhfU3NSUWphWVN3d2MyQ19JN05ZTU1CbXlvMHppdmhPWm1kTzNkTkozUnpuZkQ2OHpJYm9Eb1hJMWhMT1ljdmJZNXNSMWVMbXNGdVNXMGVuZ3lFdl9MZ0U5RjVLMURQNUVXN3FVMXVmOFk0bkx0NWJPUll3bTFJWk5tRVdpQXlTaDNDNA?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 19:46:00 GMT",
-        "source": "USA Today",
-        "ageHours": 4.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
