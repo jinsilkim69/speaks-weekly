@@ -23,5 +23,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "0675ebdfe9a29808e838c0f0334ffd85e15469f69b3c59636fc16f654428fa5e",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "민주, 최민희 녹취록에 계파 갈등 격화… 김민석 리더십 또 ‘휘청’ - 천지일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBMNG11UkhNaUttNmphbFFfWUFYWFlwN1BZd2Y2N2VSVXE4dlhndUVrd2RBQmFqQXFxYVJpaXZrMDJ3QXdXYkJvUVlJWnc4RENNLTdMcURaV0VoXzJfNTFXR1Y2RFN6dHlDX0E?oc=5\" target=\"_blank\">민주, 최민희 녹취록에 계파 갈등 격화… 김민석 리더십 또 ‘휘청’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMNG11UkhNaUttNmphbFFfWUFYWFlwN1BZd2Y2N2VSVXE4dlhndUVrd2RBQmFqQXFxYVJpaXZrMDJ3QXdXYkJvUVlJWnc4RENNLTdMcURaV0VoXzJfNTFXR1Y2RFN6dHlDX0E?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 15:30:00 GMT",
+    "source": "천지일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주, 최민희 녹취록에 계파 갈등 격화… 김민석 리더십 또 ‘휘청’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
