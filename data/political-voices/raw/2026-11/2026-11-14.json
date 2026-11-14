@@ -2853,5 +2853,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "a37a4f42bc3be7030cb36259b1e6d38dca2b69a30a54fee7526f4f40a8f16d4d",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 \"우기면 추해\"⋯최민희와 '李대통령·尹 재판' 놓고 SNS 설전 - 아이뉴스24",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnS0lZamZ2U2NLX1NxT2FmVm5xRGJ5N0UzdUJBblZDT1NqWDY0Vld2dTNfTlZTVjlGOUp4dTVVQmJEWnQtY2pfaWtFdw?oc=5\" target=\"_blank\">한동훈 \"우기면 추해\"⋯최민희와 '李대통령·尹 재판' 놓고 SNS 설전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아이뉴스24</font>",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnS0lZamZ2U2NLX1NxT2FmVm5xRGJ5N0UzdUJBblZDT1NqWDY0Vld2dTNfTlZTVjlGOUp4dTVVQmJEWnQtY2pfaWtFdw?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 09:42:56 GMT",
+    "source": "아이뉴스24",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"우기면 추해\"⋯최민희와 '李대통령·尹 재판' 놓고 SNS 설전",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

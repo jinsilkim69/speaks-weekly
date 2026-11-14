@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T09:41:15.781Z",
+  "lastCheckedAt": "2026-11-14T09:51:16.793Z",
   "seenPostIds": {
-    "7J207J6s66qFIOuMgO2GteuguSDigJzr": {
-      "seenAt": "2026-11-11T08:41:59.516Z",
-      "title": "이재명 대통령 “농업은 국가 전략산업”…CPTPP·농지 개혁, 인천·경기 농가 촉각 - 인천일보",
-      "targetName": "이재명"
-    },
-    "6rWt66+8IDEwMDbrqoXsl5DqsowgJ+yd": {
-      "seenAt": "2026-11-11T08:41:59.516Z",
-      "title": "국민 1006명에게 '이재명 대통령 유튜브 방송 어떻게 생각하는지' 물은 결과 - 위키트리",
-      "targetName": "이재명"
-    },
     "6rWt7Z6YIOycpOumrOychOybkCDigJjs": {
       "seenAt": "2026-11-11T08:41:59.773Z",
       "title": "국힘 윤리위원 ‘조작징계’ 공식사과…한동훈 “정치적 숙청 실체 드러나” - 중앙일보",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-14T09:41:17.473Z",
       "title": "세 명의 기자회견이 아니라, 정청래 정치가 남긴 청구서다 - 세계뉴스",
       "targetName": "정청래"
+    },
+    "a37a4f42bc3be7030cb36259b1e6d38dca2b69a30a54fee7526f4f40a8f16d4d": {
+      "seenAt": "2026-11-14T09:51:18.302Z",
+      "title": "한동훈 \"우기면 추해\"⋯최민희와 '李대통령·尹 재판' 놓고 SNS 설전 - 아이뉴스24",
+      "targetName": "한동훈"
     }
   },
   "pending": []
