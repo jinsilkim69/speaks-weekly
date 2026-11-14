@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T00:51:15.001Z",
+  "lastCheckedAt": "2026-11-14T01:01:23.429Z",
   "seenPostIds": {
-    "7Jqw7LC97L2U64Sl7YOAIO2VtOqzoOye": {
-      "seenAt": "2026-11-10T08:17:11.923Z",
-      "title": "우창코넥타 해고자들, 김민석 與대표 사무소 점거 \"해결 약속 지켜야\" - 노컷뉴스",
-      "targetName": "김민석"
-    },
     "7ZKN7Zal6rOE772c7IKs6rO864qUIOq5": {
       "seenAt": "2026-11-10T08:17:11.923Z",
       "title": "풍향계｜사과는 김민석이, 계산은 정청래가 - OBC 뉴스",
@@ -2505,7 +2500,39 @@
       "seenAt": "2026-11-14T00:51:16.214Z",
       "title": "Amid Nationwide Ground Stop, Trump Rants About Overhauling Entertainment Industry - Yahoo News Singapore",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ed9ce85a81a28b477014a1619905e1e706e6004798fb121fadbcb948e7bcb939": {
+      "seenAt": "2026-11-14T01:01:24.817Z",
+      "title": "[속보] 한동훈 “이재명, 확정적 ‘시한부 대통령’…윤석열보다 더 빼박” - 경기일보",
+      "targetName": "이재명"
+    },
+    "50c28288ef7cb97bd3c7881c533cc11f6dc6b36b2fe30c8a74e32337d8d1bc4d": {
+      "seenAt": "2026-11-14T01:01:25.655Z",
+      "title": "구본현 체포, 이재명 대통령 \"해외 도피, 이제 끝\" 법과 질서 강화 예고 - 공감신문",
+      "targetName": "이재명"
+    },
+    "a74fe7a42738c7664ec2e16ffcd6aa68212431d8a67e84aa843bd1f55d0aefcf": {
+      "seenAt": "2026-11-14T01:01:26.410Z",
+      "title": "박지원 \"김민석-정청래 싸움, 대통령 지지율 '뚝'...죽이 되든 밥이 되든 만나, 적당히들 하길\"[여의도초대석] - KBC광주방송",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "885fb9dba9abca43fc6d55249c7bb8948aa4a42253a0494f0533ddd1fa2e4f55",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "담배 세금 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의 - KBC광주방송",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1TNnk1ZlBmOVd2VXZRNzJ2ZW1SakFGOXA5eGdHd25EY2toQ1NlcU5UQ1Rubnhld1plb0ZiMVgtUU5qMUM1WjFtRUllTmdndzBVNkZCX1lyNWRHRDFFbzB6Tjk1N1NsV3BKZnl0ZjhMeG1TZWtsS3NFNjZydw?oc=5\" target=\"_blank\">담배 세금 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TNnk1ZlBmOVd2VXZRNzJ2ZW1SakFGOXA5eGdHd25EY2toQ1NlcU5UQ1Rubnhld1plb0ZiMVgtUU5qMUM1WjFtRUllTmdndzBVNkZCX1lyNWRHRDFFbzB6Tjk1N1NsV3BKZnl0ZjhMeG1TZWtsS3NFNjZydw?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 03:17:34 GMT",
+        "source": "KBC광주방송",
+        "ageHours": 21.7
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

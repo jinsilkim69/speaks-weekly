@@ -4434,3 +4434,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [속보] 한동훈 “이재명, 확정적 ‘시한부 대통령’…윤석열보다 더 빼박” - 경기일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “이재명, 확정적 ‘시한부 대통령’…윤석열보다 더 빼박”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRDRla1VCa0ZMVE1CeC1rbGF6V3ZuX0lTUzlHX2V1RHMyeVBYMXI2WUdpY3ZuVTdhdVdYdWNqV3loamNmVklIdVFuNjB5dHc4b2ZKeXBqaE1xYms?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 구본현 체포, 이재명 대통령 "해외 도피, 이제 끝" 법과 질서 강화 예고 - 공감신문
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 구본현 체포, 이재명 대통령 "해외 도피, 이제 끝" 법과 질서 강화 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BcDZmQWxibmY5R2stV3p6OWtzNFdfaUtFZXd6dTFmcmRzT2JDMmx0X05EeUYyNXdhOG5jcUx4OC02a01vSFhfOUdZaFlvY3dydklXQlFtNkFSSDhwV0gydDM5bXJxR1NH?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 박지원 "김민석-정청래 싸움, 대통령 지지율 '뚝'...죽이 되든 밥이 되든 만나, 적당히들 하길"[여의도초대석] - KBC광주방송
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원 "김민석-정청래 싸움, 대통령 지지율 '뚝'...죽이 되든 밥이 되든 만나, 적당히들 하길"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZaXB1cVlpS1ZXWmhUd09UVXJULWpIa2hPNF84cHRlMnJGUUppWFRPQzdZQV9lYTVWUHo0N3pqUERoWC1uTjhiQ2haNm51SUVWWG5KcU5KQzVNdUlabF9Hc3ln?oc=5)
+
+---
+
