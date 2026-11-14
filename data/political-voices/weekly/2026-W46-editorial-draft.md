@@ -5903,3 +5903,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** "김민석을 대리로 치고 있지만 결국은 이재명 대통령을 향해서 엎어버리겠다 것" (20261114 토요일 클립) 김갑수 기추자 - 경향신문
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "김민석을 대리로 치고 있지만 결국은 이재명 대통령을 향해서 엎어버리겠다 것" (20261114 토요일 클립) 김갑수 기추자
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5weFlEaXY0bFFlUnZqWVVDcDhxNGF1eGtCVndSMFdScmNlejRxSW0zeUdWNHI1elV1cm9pSmtEVG8yN3VqMTcxN2FNc0VrSURPU3dUcmM1Tm9HWktvY3N3cFhn?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** “노무현 추천서로 하버드?”…이준석, 전한길 추가 고소 예고 - 매일경제
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “노무현 추천서로 하버드?”…이준석, 전한길 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1hN2t4WVFJbGJIUkp5WkhfaHhHczRHY2dIZC01bUlJSU1QR25vR0pubjBKT0JnMFEwUWtHNzZBQzVoYzVBSFE?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** 'Disaster for justice': Trump slams Newsom's plan to commute California's death sentences - WCIV
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 'Disaster for justice': Trump slams Newsom's plan to commute California's death sentences
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQM1U0RUZ3aGJDTEZ5UjBjSU5VLUFVTk9XYkNGMi1vVnVoZXdJVXNoTFNEcW1SeWl6TWRIRlNpNGJieURMQUtCMndDcFZYZzR1Z1BxZzdibE01blpkR0FocFozSHdvOU41S1E2Vm9TYVE2ZUwteUV5U3BTOWFxemRVN2dSSDFYRTlFdkpfb0pDcUtUak1BeUY0aXlsMWw4UzBmaVc5RVpYS1hnWlM5WE1iWHFOcWdoVFdFOFRiWGYtcVZWSHlJakxJX1kyNXZvODkwVEt6bUN3dTNieFRnY0RjWFNzdGxJeWJ6bXp1dXpjYTJBYms?oc=5)
+
+---
+
