@@ -5604,3 +5604,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주 김민석 曺탄핵 시사…한덕수 석방 압박 : 정치 - 재경일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주 김민석 曺탄핵 시사…한덕수 석방 압박 : 정치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RMEs5Tno2OTNlT1llc1RFLXZXd0lwaUV4VnFheEx2SHczeXY2YjFnclJ6bkxiOEdTNFUzMFJqNWgyWUJheFpoMDlpMA?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “내가 노무현 추천서를 왜, 어떻게 받나”…전한길 추가 고소 예고 - 중앙일보
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “내가 노무현 추천서를 왜, 어떻게 받나”…전한길 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hQVRDRVhFZVpyWWc3aW9LeWxmRXFTZXlFLXZickdFOXdFbEtFMEF0ZFdIRElpTFZpQWFFQ2JnY0RTYmQzQXFObVRIWmhCUVcyRmJoNFFn?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Media & Technology Group Corp. (DJT) stock price, news, quote and history - Yahoo Finance UK
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Media & Technology Group Corp. (DJT) stock price, news, quote and history
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yZTBjcTRoYWE4ODRiNWZyVUNsQVR4N1lGM1ZVVEpfWTVRUm1qRl9kYXY0RXVnSnpwSTdoY2UtWHJzU0RyOXhIZHE2WV85STFU?oc=5)
+
+---
+
