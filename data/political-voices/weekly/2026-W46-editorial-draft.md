@@ -4525,3 +4525,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 "통일교가 김민석 대표 밀어"...추가 녹취도 파문 - 중앙신문
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 "통일교가 김민석 대표 밀어"...추가 녹취도 파문
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi0gJBVV95cUxQZE1FY3FGNExOYVZwZkpOZFY1aExUVEdIOWFfN2YtQl9SSmc0b0ZubGZXUjZGU21hYS1IM2pTVFdvcUt5aTRxNGoyWDdKeDh3SkNUOFFCOXV0dzZ3d1ZFRkJZRlRNczlaamxtSl9mcjhFUVVvS0VyQWJwUWJ6ZGdoNHAyaFVnX2ZaTVNBZ0dJbVYzMWF2SGpjMjRUWE1NcTZrdHlpcW1UalhJUVQtXzRlUEd1YU5IMmNaMjZwVnBKalNSYmFBeWwyb2w2a3p4S2FUSVdZTTQwcjRoeFA1cG9qQ2IxUHRCZndONVVTc3A4Uk1FV2tLaDBWdGRmX3pROS0xUVRxTnN0akZpZmtuazNrRlN2akM1ZGRZN2xBWVVEaHpENGxDbVlscDBxNWdZQlBCeGxNcXdpck1UVjhVYmhjV2poUFRuWjZrYjIweDV3WHJWdw?oc=5)
+
+---
+

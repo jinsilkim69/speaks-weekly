@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T01:51:17.468Z",
+  "lastCheckedAt": "2026-11-14T02:01:17.085Z",
   "seenPostIds": {
-    "7ZmN7KSA7ZGcIOKAnOyalOymmCDsnbTs": {
-      "seenAt": "2026-11-10T08:17:12.597Z",
-      "title": "홍준표 “요즘 이준석이 나를 한동훈에 빗대 공격···왜 그러나” - 주간경향",
-      "targetName": "이준석"
-    },
     "67O07IiYIO2Gte2VqeuhoCDri6Tsi5wg": {
       "seenAt": "2026-11-10T08:17:12.597Z",
       "title": "보수 통합론 다시 꿈틀…장동혁·오세훈·한동훈·이준석 '4인 셈법' - 매일일보",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-14T01:51:18.489Z",
       "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum - IMDb",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "aaa5fc5b827d32d7cac68852d83c2347b9040e4ef262498214b4ec9d4c585016": {
+      "seenAt": "2026-11-14T02:01:18.447Z",
+      "title": "최민희 \"통일교가 김민석 대표 밀어\"...추가 녹취도 파문 - 중앙신문",
+      "targetName": "김민석"
     }
   },
   "pending": []
