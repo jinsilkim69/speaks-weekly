@@ -4850,3 +4850,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump claims he offered job of White House press secretary to UFC CEO Dana White - Scripps News
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump claims he offered job of White House press secretary to UFC CEO Dana White
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQmxLOW9HVjFkcVk3S0MwSkZISEtIak5pM1VBXzdiYVZHQzNkbzlIaHpfSWIyUERQaFdfYjdDaUJXZ3pZNlNDeHhLWHktTTh2YU55Q1NYOHJtRmZNc2thSWZpdVV3YmtsOEJUV3JpdWU2Rm9RRFF4dVVhRjFyZ0l1Ujl2cW1Sak1lV3dfUlY5QXpMbE5GTXpHMGhRSTdoWXN5c0F6MXNzR0hMR2lfOUQzcFVlSHdfQkprbjRveC1CQzQ3bWZ4SmRyVmVScw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** “노무현 추천으로 하버드 입학?”···이준석 전한길 추가 고소 예고 - 주간경향
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “노무현 추천으로 하버드 입학?”···이준석 전한길 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfOW92YXY5NzVFZ0JyWnYwczJRNlZmekdxb01XRklnSWRrZ2FqOEN3R2dCcUdoUk5GWmt2c19fMnVqbkd4a2FtR2tuOEdXeDd1NzF2UERZU0d5RXF5ZlE?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** "내가 왜 노무현 추천서를 받나" 전한길 저격한 이준석 - 데일리안
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "내가 왜 노무현 추천서를 받나" 전한길 저격한 이준석
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FSko0bjFTNk5DS0hEMUFUQWw0SWluVDRQN3VweWlzakRwcV9YZUV4ZGJTZkNYMVdWX2xMRzMxTFhLNmFNZkx0Zlh4OF9vTzN6M2dfT1lydw?oc=5)
+
+---
+

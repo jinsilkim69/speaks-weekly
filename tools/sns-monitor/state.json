@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T05:11:15.388Z",
+  "lastCheckedAt": "2026-11-14T05:21:16.596Z",
   "seenPostIds": {
-    "7KKF67aA7IS4IOuLueyyrSDsnbTqsqwg": {
-      "seenAt": "2026-11-10T16:29:20.030Z",
-      "title": "종부세 당청 이견 속... 이 대통령, 내일 김민석 한병도 만난다 - 한국일보",
-      "targetName": "김민석"
-    },
-    "6rmA66+87ISdLCDsnoTqtJHtmIQg66eM": {
-      "seenAt": "2026-11-10T16:29:20.030Z",
-      "title": "김민석, 임광현 만나 “당청 긴밀 호흡“…’신천지’ 수습 난항 - 연합뉴스TV",
-      "targetName": "김민석"
-    },
-    "W+yYpOuniOydtO2PrO2GoF0g6rmA66+8": {
-      "seenAt": "2026-11-10T16:29:20.030Z",
-      "title": "[오마이포토] 김민석 대표 만난 임광현 비서실장·최인호 정무수석 - OhmyNews",
-      "targetName": "김민석"
-    },
     "6rmA66+87ISdICLvp6HsoJXrtoAg7ISx": {
       "seenAt": "2026-11-10T16:29:20.030Z",
       "title": "김민석 \"李정부 성공이 민주당 성공\"…'부동산 엇박자'도 일축 - 머니투데이 - 머니투데이",
@@ -2515,21 +2500,36 @@
       "seenAt": "2026-11-14T05:11:17.888Z",
       "title": "[속보] “노무현 추천으로 하버드 입학했다고?”…이준석, ‘학력 의혹’ 전한길 16일 추가 고소 예고 - 세계일보",
       "targetName": "이준석"
+    },
+    "77410331cb94aa64dcbb69162b8a5e633821c8a868bf236502d89937d07a1246": {
+      "seenAt": "2026-11-14T05:21:17.967Z",
+      "title": "Trump claims he offered job of White House press secretary to UFC CEO Dana White - Scripps News",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "301a44ce98073361cdb88960ff0fa739963280d32cd47bf7428d0f9d3c6c8eae": {
+      "seenAt": "2026-11-14T05:21:18.750Z",
+      "title": "“노무현 추천으로 하버드 입학?”···이준석 전한길 추가 고소 예고 - 주간경향",
+      "targetName": "이준석"
+    },
+    "afa7e1d35cf47876bd46e0adc4cf99b29a024637f63a00823967bdbb83cbdd54": {
+      "seenAt": "2026-11-14T05:21:19.450Z",
+      "title": "\"내가 왜 노무현 추천서를 받나\" 전한길 저격한 이준석 - 데일리안",
+      "targetName": "이준석"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "77410331cb94aa64dcbb69162b8a5e633821c8a868bf236502d89937d07a1246",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump claims he offered job of White House press secretary to UFC CEO Dana White - Scripps News",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNQmxLOW9HVjFkcVk3S0MwSkZISEtIak5pM1VBXzdiYVZHQzNkbzlIaHpfSWIyUERQaFdfYjdDaUJXZ3pZNlNDeHhLWHktTTh2YU55Q1NYOHJtRmZNc2thSWZpdVV3YmtsOEJUV3JpdWU2Rm9RRFF4dVVhRjFyZ0l1Ujl2cW1Sak1lV3dfUlY5QXpMbE5GTXpHMGhRSTdoWXN5c0F6MXNzR0hMR2lfOUQzcFVlSHdfQkprbjRveC1CQzQ3bWZ4SmRyVmVScw?oc=5\" target=\"_blank\">Trump claims he offered job of White House press secretary to UFC CEO Dana White</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scripps News</font>",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQmxLOW9HVjFkcVk3S0MwSkZISEtIak5pM1VBXzdiYVZHQzNkbzlIaHpfSWIyUERQaFdfYjdDaUJXZ3pZNlNDeHhLWHktTTh2YU55Q1NYOHJtRmZNc2thSWZpdVV3YmtsOEJUV3JpdWU2Rm9RRFF4dVVhRjFyZ0l1Ujl2cW1Sak1lV3dfUlY5QXpMbE5GTXpHMGhRSTdoWXN5c0F6MXNzR0hMR2lfOUQzcFVlSHdfQkprbjRveC1CQzQ3bWZ4SmRyVmVScw?oc=5",
-        "pubDate": "Sat, 14 Nov 2026 04:33:28 GMT",
-        "source": "Scripps News",
-        "ageHours": 0.6
+        "id": "3e44d3836528f91320ec86d7eb700b8350e4fd211dc39ddd23fb08c0b97febe1",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "김동명, 조국혁신당에 정년연장 연내 입법 협력 요청 - 매일노동뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE16Snh5NktkaHFoVllKVFZraU9SSkxVR3d2X2F0dFFCc3FFMGlUWUtyNjhNZk1peWt1d1Q5UjF0THpJVlFyYUhNLWJ4UkZvc3ZDZGxmcHJUcFBTLWlfeTJ2dDlCVllmYmJoblNRRmVGblI?oc=5\" target=\"_blank\">김동명, 조국혁신당에 정년연장 연내 입법 협력 요청</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일노동뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16Snh5NktkaHFoVllKVFZraU9SSkxVR3d2X2F0dFFCc3FFMGlUWUtyNjhNZk1peWt1d1Q5UjF0THpJVlFyYUhNLWJ4UkZvc3ZDZGxmcHJUcFBTLWlfeTJ2dDlCVllmYmJoblNRRmVGblI?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 08:51:22 GMT",
+        "source": "매일노동뉴스",
+        "ageHours": 20.5
       },
       "delivered": [],
       "archived": false
