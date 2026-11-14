@@ -73,5 +73,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8ae063b105de45cc5d4e7e506f0f2c3d6f0b5953223a53433c1a5e0e5c2ac2f1",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "\"가장 힘든 일은 등 뒤에서 날아오는 화살\"… 이재명 대통령이 갑자기 꺼낸 말 - 위키트리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EbXJDdERyRjNhb3hVei13bzlsck41eUZTS01uaFdBNTdkTWduNDZ1dThmSWFjQWd3eFdJVmJpal93WjJWM2ZwMnA2QXV2WFpTT2JDcjR3?oc=5\" target=\"_blank\">\"가장 힘든 일은 등 뒤에서 날아오는 화살\"… 이재명 대통령이 갑자기 꺼낸 말</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">위키트리</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EbXJDdERyRjNhb3hVei13bzlsck41eUZTS01uaFdBNTdkTWduNDZ1dThmSWFjQWd3eFdJVmJpal93WjJWM2ZwMnA2QXV2WFpTT2JDcjR3?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 13:45:00 GMT",
+    "source": "위키트리",
+    "ageHours": 2.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"가장 힘든 일은 등 뒤에서 날아오는 화살\"… 이재명 대통령이 갑자기 꺼낸 말",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
