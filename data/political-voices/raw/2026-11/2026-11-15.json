@@ -298,5 +298,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "078054034a2fc3913d23c931887ea947a6f91fe4ec9dc7a553adcd4eed7c2399",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump says he’s working with bipartisan senators on film industry legislation - The Hill",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBWbU5oTUwwTk1KWU5lWkNiMFZlV0FUckNhLTh5ZFZ4Q2lBd25zODVtVFZUUzhBbTNpNXVHeFkwZVI0UVVGTFlhUV9ndG5mcjRfN25MeUlheHBOMVpfc09WTndIaFNYdVJGSG1CekVOVXJNV01NeFFESlVVTjlJUdIBgwFBVV95cUxOOW93S0pka1Q5WVk0TGF5anNldk9wYnpaTmhScnRibFZSZ1FUNlhpajI1RlgzNUUtbU56OEdwUlk5bTdScXVadG83YWlrbHFNVFpqUGktUXd6LWw4bHZLQXQ2akx6cUFHc2dSRkQ2dFljVjBzWVZpRl95ZG1rUGVvdmdxVQ?oc=5\" target=\"_blank\">Trump says he’s working with bipartisan senators on film industry legislation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWbU5oTUwwTk1KWU5lWkNiMFZlV0FUckNhLTh5ZFZ4Q2lBd25zODVtVFZUUzhBbTNpNXVHeFkwZVI0UVVGTFlhUV9ndG5mcjRfN25MeUlheHBOMVpfc09WTndIaFNYdVJGSG1CekVOVXJNV01NeFFESlVVTjlJUdIBgwFBVV95cUxOOW93S0pka1Q5WVk0TGF5anNldk9wYnpaTmhScnRibFZSZ1FUNlhpajI1RlgzNUUtbU56OEdwUlk5bTdScXVadG83YWlrbHFNVFpqUGktUXd6LWw4bHZLQXQ2akx6cUFHc2dSRkQ2dFljVjBzWVZpRl95ZG1rUGVvdmdxVQ?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 20:29:00 GMT",
+    "source": "The Hill",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump says he’s working with bipartisan senators on film industry legislation",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
