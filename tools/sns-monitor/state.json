@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-14T05:01:16.726Z",
+  "lastCheckedAt": "2026-11-14T05:11:15.388Z",
   "seenPostIds": {
     "7KKF67aA7IS4IOuLueyyrSDsnbTqsqwg": {
       "seenAt": "2026-11-10T16:29:20.030Z",
@@ -2500,7 +2500,39 @@
       "seenAt": "2026-11-14T04:51:15.646Z",
       "title": "[속보] 한동훈 “이재명 대통령, 조작기소특검법 총리에게 떠넘겨…직접 할 배짱 없으면 접어야” - 강원일보",
       "targetName": "이재명"
+    },
+    "a01a2a4ed36e66e442fe052986bb57dc33aca1e4c21172ad29a198076f7239b3": {
+      "seenAt": "2026-11-14T05:11:16.528Z",
+      "title": "[속보] 전한길 “노무현 추천서로 하버드 입학”…이준석 “허위 사실 추가 고소” - 경기일보",
+      "targetName": "이준석"
+    },
+    "776f7a78f1aa8214e6364aad930e98873654d99fa363e2d8bc6af15b649fc132": {
+      "seenAt": "2026-11-14T05:11:17.248Z",
+      "title": "“노무현 대통령 추천으로 하버드?”…이준석, 전한길 추가 고소 예고 - 채널A",
+      "targetName": "이준석"
+    },
+    "2f2d0bd291d9aaacf38e8f36a99f7dce5f2fb4d360c8677d58a8b30165dcc888": {
+      "seenAt": "2026-11-14T05:11:17.888Z",
+      "title": "[속보] “노무현 추천으로 하버드 입학했다고?”…이준석, ‘학력 의혹’ 전한길 16일 추가 고소 예고 - 세계일보",
+      "targetName": "이준석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "77410331cb94aa64dcbb69162b8a5e633821c8a868bf236502d89937d07a1246",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump claims he offered job of White House press secretary to UFC CEO Dana White - Scripps News",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNQmxLOW9HVjFkcVk3S0MwSkZISEtIak5pM1VBXzdiYVZHQzNkbzlIaHpfSWIyUERQaFdfYjdDaUJXZ3pZNlNDeHhLWHktTTh2YU55Q1NYOHJtRmZNc2thSWZpdVV3YmtsOEJUV3JpdWU2Rm9RRFF4dVVhRjFyZ0l1Ujl2cW1Sak1lV3dfUlY5QXpMbE5GTXpHMGhRSTdoWXN5c0F6MXNzR0hMR2lfOUQzcFVlSHdfQkprbjRveC1CQzQ3bWZ4SmRyVmVScw?oc=5\" target=\"_blank\">Trump claims he offered job of White House press secretary to UFC CEO Dana White</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scripps News</font>",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQmxLOW9HVjFkcVk3S0MwSkZISEtIak5pM1VBXzdiYVZHQzNkbzlIaHpfSWIyUERQaFdfYjdDaUJXZ3pZNlNDeHhLWHktTTh2YU55Q1NYOHJtRmZNc2thSWZpdVV3YmtsOEJUV3JpdWU2Rm9RRFF4dVVhRjFyZ0l1Ujl2cW1Sak1lV3dfUlY5QXpMbE5GTXpHMGhRSTdoWXN5c0F6MXNzR0hMR2lfOUQzcFVlSHdfQkprbjRveC1CQzQ3bWZ4SmRyVmVScw?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 04:33:28 GMT",
+        "source": "Scripps News",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
