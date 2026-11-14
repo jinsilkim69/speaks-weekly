@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-14T03:51:18.897Z",
+  "lastCheckedAt": "2026-11-14T04:01:15.484Z",
   "seenPostIds": {
-    "VHJ1bXAgUmV2aXZlcyBFbGVjdGlvbiBG": {
-      "seenAt": "2026-11-10T08:17:13.561Z",
-      "title": "Trump Revives Election Fraud Claims Days After Pledging to Accept Midterms - Truthout",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "7J207J6s66qFIOuMgO2GteuguSDslrjq": {
       "seenAt": "2026-11-10T16:29:19.455Z",
       "title": "이재명 대통령 언급한 '이주노동자 겨울옷 나눔' 전국에서 동참 - 파이낸셜뉴스",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-14T03:51:20.359Z",
       "title": "한동훈 “이재명 빼박 ‘시한부 대통령’”…최민희 발언 고리로 與와 설전 - 문화일보",
       "targetName": "이재명"
+    },
+    "38a2a023483520a25c64cfef62897b8c89fb77a212b094d0fc457bcddaff23ea": {
+      "seenAt": "2026-11-14T04:01:16.526Z",
+      "title": "[속보]“한동훈 거짓말 마라”…최민희, ‘尹-李 재판 달라’ 입장표명 - www.dt.co.kr",
+      "targetName": "한동훈"
+    },
+    "e710e7ecc478d15f2400c0608ad2484e8fa607cdc5b57e4720724b1a67067aff": {
+      "seenAt": "2026-11-14T04:01:17.218Z",
+      "title": "[속보] \"노무현이 하버드 입학 추천?\"…이준석, 전한길에 추가 고소 예고 - 매일신문",
+      "targetName": "이준석"
     }
   },
   "pending": []

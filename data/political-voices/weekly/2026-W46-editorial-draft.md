@@ -4720,3 +4720,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [속보]“한동훈 거짓말 마라”…최민희, ‘尹-李 재판 달라’ 입장표명 - www.dt.co.kr
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “한동훈 거짓말 마라”…최민희, ‘尹-李 재판 달라’ 입장표명
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBneUEzaG9Jc2xPcVIyUEN5c3lTT2JOdTktQ1ltOEFLbm9kWDhZNTFtLWJqTU9YU0xmUWd3VEltS0hzU3owSE9SWU5RN1d5Zw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** [속보] "노무현이 하버드 입학 추천?"…이준석, 전한길에 추가 고소 예고 - 매일신문
+
+- **수집일**: 2026-11-14 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "노무현이 하버드 입학 추천?"…이준석, 전한길에 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsUHd2aHR2NnN0Q2dxaVUzakNWU1pKUHhzREY3VDNOeFRVZzcxbnVDV2lkSGhYMUJ2aTJoS3BNNDFwQlNGWFJQSm9oYXhjMUVqaS12by1ENlE4NFc5UHZQcGxn?oc=5)
+
+---
+

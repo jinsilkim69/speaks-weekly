@@ -1499,5 +1499,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "38a2a023483520a25c64cfef62897b8c89fb77a212b094d0fc457bcddaff23ea",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "[속보]“한동훈 거짓말 마라”…최민희, ‘尹-李 재판 달라’ 입장표명 - www.dt.co.kr",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBneUEzaG9Jc2xPcVIyUEN5c3lTT2JOdTktQ1ltOEFLbm9kWDhZNTFtLWJqTU9YU0xmUWd3VEltS0hzU3owSE9SWU5RN1d5Zw?oc=5\" target=\"_blank\">[속보]“한동훈 거짓말 마라”…최민희, ‘尹-李 재판 달라’ 입장표명</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.dt.co.kr</font>",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBneUEzaG9Jc2xPcVIyUEN5c3lTT2JOdTktQ1ltOEFLbm9kWDhZNTFtLWJqTU9YU0xmUWd3VEltS0hzU3owSE9SWU5RN1d5Zw?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 02:56:09 GMT",
+    "source": "www.dt.co.kr",
+    "ageHours": 1.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “한동훈 거짓말 마라”…최민희, ‘尹-李 재판 달라’ 입장표명",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "e710e7ecc478d15f2400c0608ad2484e8fa607cdc5b57e4720724b1a67067aff",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "[속보] \"노무현이 하버드 입학 추천?\"…이준석, 전한길에 추가 고소 예고 - 매일신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsUHd2aHR2NnN0Q2dxaVUzakNWU1pKUHhzREY3VDNOeFRVZzcxbnVDV2lkSGhYMUJ2aTJoS3BNNDFwQlNGWFJQSm9oYXhjMUVqaS12by1ENlE4NFc5UHZQcGxn?oc=5\" target=\"_blank\">[속보] \"노무현이 하버드 입학 추천?\"…이준석, 전한길에 추가 고소 예고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsUHd2aHR2NnN0Q2dxaVUzakNWU1pKUHhzREY3VDNOeFRVZzcxbnVDV2lkSGhYMUJ2aTJoS3BNNDFwQlNGWFJQSm9oYXhjMUVqaS12by1ENlE4NFc5UHZQcGxn?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 03:54:58 GMT",
+    "source": "매일신문",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"노무현이 하버드 입학 추천?\"…이준석, 전한길에 추가 고소 예고",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
