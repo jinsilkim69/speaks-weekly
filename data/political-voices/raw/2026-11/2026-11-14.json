@@ -1274,5 +1274,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "97bc836ccbd8763a60b10695e18ab7944d6caef0fd3ef699441e500bc8959f3b",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "계파 갈등에 막힌 김민석, 강경 투쟁에 갇힌 장동혁 - 중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxOUpUVzlrUDg2b2dXWVBOTmUwWnBsOWl1REllWkJELWVQcmxIWjMyUEl2dkJxREZyM3E0UTZkcGg1a0xldy1pVEh1ZE5FZHM0TXkyRGZB?oc=5\" target=\"_blank\">계파 갈등에 막힌 김민석, 강경 투쟁에 갇힌 장동혁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxOUpUVzlrUDg2b2dXWVBOTmUwWnBsOWl1REllWkJELWVQcmxIWjMyUEl2dkJxREZyM3E0UTZkcGg1a0xldy1pVEh1ZE5FZHM0TXkyRGZB?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 00:00:00 GMT",
+    "source": "중앙일보",
+    "ageHours": 3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 계파 갈등에 막힌 김민석, 강경 투쟁에 갇힌 장동혁",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
