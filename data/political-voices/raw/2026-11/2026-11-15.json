@@ -1812,5 +1812,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d6e9fe2f52a6cb07779a0649ce44f5662dd0f9dc17a857f9775ebcb8ca4fc4fb",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석, 전한길 추가 고소 예고…˝하버드 졸업장 공개한 지 10년 넘어˝:중수청일보 - 중수청일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE11ZUtYS3RaZU9aNF9jaXNkQ2dOOVIxN24wdzBCbFhLMHFxSWdxU0N6ZG1zRFRIeUJfVFVVOUtPYTZhdVlGRVI1UkZqRmJnRjM1MEh2R1lPNVVwdVdUQTgtQmY5NELSAWRBVV95cUxNdWVLWEt0WmVPWjRfY2lzZENnTjlSMTduMHcwQmxYSzBxcUlncVNDemRtc0RUSHlCX1RVVTlLT2E2YXVZRkVSNVJGakZiZ0YzNTBIdkdZTzVVcHVXVEE4LUJmOTRC?oc=5\" target=\"_blank\">이준석, 전한길 추가 고소 예고…˝하버드 졸업장 공개한 지 10년 넘어˝:중수청일보</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중수청일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11ZUtYS3RaZU9aNF9jaXNkQ2dOOVIxN24wdzBCbFhLMHFxSWdxU0N6ZG1zRFRIeUJfVFVVOUtPYTZhdVlGRVI1UkZqRmJnRjM1MEh2R1lPNVVwdVdUQTgtQmY5NELSAWRBVV95cUxNdWVLWEt0WmVPWjRfY2lzZENnTjlSMTduMHcwQmxYSzBxcUlncVNDemRtc0RUSHlCX1RVVTlLT2E2YXVZRkVSNVJGakZiZ0YzNTBIdkdZTzVVcHVXVEE4LUJmOTRC?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 21:15:29 GMT",
+    "source": "중수청일보",
+    "ageHours": 9.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석, 전한길 추가 고소 예고…˝하버드 졸업장 공개한 지 10년 넘어˝:중수청일보",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "80523d5115448115a5c6bd60f728cb57c9b77567f50ad7dea20192f61dc10017",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석, 전한길 추가 고소 예고…학력 의혹 반박 : 정치 - 재경일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxRjF1b2hZbUxfdEJza2lyc1NrR21uWXU1cWxhRkNleFhmRkdBdkRXZmdMb1pmRWFUNTkzSmZkMEl2NFMzaF9sTlA1VQ?oc=5\" target=\"_blank\">이준석, 전한길 추가 고소 예고…학력 의혹 반박 : 정치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBxRjF1b2hZbUxfdEJza2lyc1NrR21uWXU1cWxhRkNleFhmRkdBdkRXZmdMb1pmRWFUNTkzSmZkMEl2NFMzaF9sTlA1VQ?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 12:52:17 GMT",
+    "source": "재경일보",
+    "ageHours": 17.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석, 전한길 추가 고소 예고…학력 의혹 반박 : 정치",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
