@@ -1282,5 +1282,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "971dc0a4524242f839d7d2d0b9cdeac26e7a21aa14a881ab0a79cc0e1f369ab5",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 \"늦었지만 조희대 탄핵해야…민주, 아무 일 하지 않아 내부서 역풍\" - 더팩트",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wV0xtdllWcjMzOHlnMjBPZmxpYkRnZjFLV2Q0d3JqczFwYUtobUc3UUFBMEhfNDVicTZaY3l3Qk90NEZoYjBxd1NGWklvcm5fRUtj0gFTQVVfeXFMTzBXTG12WVZyMzM4eWcyME9mbGliRGdmMUtXZDR3cmpzMXBhS2htRzdRQUEwSF80NWJxNlpjeXdCT3Q0RmhiMHF3U0ZaSW9ybl9FS2M?oc=5\" target=\"_blank\">조국 \"늦었지만 조희대 탄핵해야…민주, 아무 일 하지 않아 내부서 역풍\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더팩트</font>",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wV0xtdllWcjMzOHlnMjBPZmxpYkRnZjFLV2Q0d3JqczFwYUtobUc3UUFBMEhfNDVicTZaY3l3Qk90NEZoYjBxd1NGWklvcm5fRUtj0gFTQVVfeXFMTzBXTG12WVZyMzM4eWcyME9mbGliRGdmMUtXZDR3cmpzMXBhS2htRzdRQUEwSF80NWJxNlpjeXdCT3Q0RmhiMHF3U0ZaSW9ybl9FS2M?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 02:44:00 GMT",
+    "source": "더팩트",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"늦었지만 조희대 탄핵해야…민주, 아무 일 하지 않아 내부서 역풍\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
