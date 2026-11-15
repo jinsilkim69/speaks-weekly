@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T10:41:15.521Z",
+  "lastCheckedAt": "2026-11-15T10:51:15.078Z",
   "seenPostIds": {
-    "8990cc03074ba67134e2193b7141a2c1982777da771624e80326cd5e1cb7fb1a": {
-      "seenAt": "2026-11-12T14:51:18.319Z",
-      "title": "\"대화하자\" vs \"2차 가해\"…김민석·정청래 '신천지 갈등' 재점화 - KBC광주방송",
-      "targetName": "정청래"
-    },
     "45fb261c78161cc76eb0679429d70d56ea2269e3389ba8b0744c477a21794e1c": {
       "seenAt": "2026-11-12T14:51:19.054Z",
       "title": "정청래, “대화” 김민석에 “방송서 요란하게 먼저 떠드는 것 아냐” - 중앙일보",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-15T10:41:16.808Z",
       "title": "Trump Offers Little Public Response More Than 24 Hours After Nationwide Ground Stop - HuffPost",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "0937ca88d7b73e912849e36f397a7c0f118833e6c43d2c97525b77ea9547c471": {
+      "seenAt": "2026-11-15T10:51:16.329Z",
+      "title": "이재명 대통령 “공직자, 인기 얻는 일 아닌 필요한 일 해야...개혁 이름 빌려 방해 용납 어려워” - 시사뉴스",
+      "targetName": "이재명"
+    },
+    "f8e9b894248a109f440c595ce97ba45bb7f94b42ff8e78e925f1847d224ab8ab": {
+      "seenAt": "2026-11-15T10:51:17.055Z",
+      "title": "송영길 의원, 소방재정 안정화 법안 발의…구급차 기준 개선도 추진 - 서울일보",
+      "targetName": "송영길"
     }
   },
   "pending": []

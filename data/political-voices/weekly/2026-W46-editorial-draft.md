@@ -7372,3 +7372,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 “공직자, 인기 얻는 일 아닌 필요한 일 해야...개혁 이름 빌려 방해 용납 어려워” - 시사뉴스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “공직자, 인기 얻는 일 아닌 필요한 일 해야...개혁 이름 빌려 방해 용납 어려워”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XTHk0VHBpd3lmSFFzYU9rMGtyTG1URjNrUkpZZ0t0TDhCQm12RzY1anNXanlSVXpXdXRoZnRadmZ2cWFuY1NKTGxnWGtrRmh0Q0F1VU15WVJFeHBFdVNJWmhObw?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원, 소방재정 안정화 법안 발의…구급차 기준 개선도 추진 - 서울일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원, 소방재정 안정화 법안 발의…구급차 기준 개선도 추진
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE5VSTAtcFNJVDNnell1SGZEWVNYMnJ4bURnRzlVTUI5TGlBLWJhdEl4NjdQbnlrazJaZEVqUXh0clc0NEVMUldjcVRveTBKcGtINFNOTllZZzZ3TFJKREQxMUhzYUY3TWxKejl30gFvQVVfeXFMT1l4aTQ1eHczUWFvSEpQQzdJVjlRR1FCTFBDcXZDWEJBZEdfakNjUWRzeFpnUURHaXI5dld0MkRacU5xODMzQlVScThWMzQzRl8wa2NQN3NzS3Q1akdsdm1rYjViTVQ1b1VZOXZCQ2Zv?oc=5)
+
+---
+
