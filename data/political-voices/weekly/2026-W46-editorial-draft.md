@@ -6436,3 +6436,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전 - 세계일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OaDJDc2FVdlN5SHd0ZldReTJnVXBDSW9SSHNYTzhmSVJMdHJXWmVLR2ItVWFTVU9NX3dMSDdXcnczYWNrMm1zSTN0WkdlRDZrNnlJZzBlcnfSAVRBVV95cUxNWTk4OUx1UEJMQ2FMaU54ZF9OcGRjRm91YlE0ZnpsZm9nRHlja1ZqclhxaExCNmh1N3o0MjRtb1dqbUlwZmJtVDJOYS1HY01DZHBWank?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주당 정면충돌, 친청계 “윤리감찰 대상은 김민석 대표” - 전라일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 정면충돌, 친청계 “윤리감찰 대상은 김민석 대표”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1pMHJQWVJLUHI4a3BFQk1ETHhvcnhxSVVPOWhwWG5Qam0wRk01UFZVY2NwTnpGNnVUdUMtcjFmR3ozRmdaaFR4LWxXYWR2VkVkdFpaSWM4SHhWMUxCWk9raTMtSGJ5Y211dVZlaNIBcEFVX3lxTE84RXluTWItMFZCN0pyXzBmdHZkNFlZd0hwdXZoNk9GeHZXcWdmVjktQjA2QkI2bkVxTUF2MlFya2lmeUxkb0FldW4xWFJEQzRIcWt2Z3g3MDBkVFFGM2lMY1RONGdHSlk2N0FmUFdkR2Y?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** "시험 안 치고 노무현 추천으로 하버드 갔다" 전한길 주장에…이준석 "16일 추가 형사 조치" - 파이낸셜뉴스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "시험 안 치고 노무현 추천으로 하버드 갔다" 전한길 주장에…이준석 "16일 추가 형사 조치"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Nlo0OHc3WjdiMS1JUXlTU3gyM2syU19JNU53TktIa19jUDUtby1mWVFFWFZfX0VvQXBmT1ctLV9XS2djN0pkUTMzSDhLTlFJd2Z4Szcyd2Frdw?oc=5)
+
+---
+
