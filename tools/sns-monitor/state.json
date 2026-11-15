@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-15T15:01:17.697Z",
+  "lastCheckedAt": "2026-11-15T15:11:16.650Z",
   "seenPostIds": {
     "56214c2d19c00d1dea00c097e66478b14ad848c593358738fa0247fc05f76544": {
       "seenAt": "2026-11-12T16:31:18.124Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-15T14:51:17.166Z",
       "title": "김민석, '최민희 발언 논란' 윤리심판원 이첩 지시…징계 수순(종합) - 연합뉴스",
       "targetName": "김민석"
+    },
+    "81c99e3c16efe28fa4dbaf0ec6e527ce639ee27a32ff38fde879b764d80f4d44": {
+      "seenAt": "2026-11-15T15:11:18.039Z",
+      "title": "Trump blames Biden for nationwide travel stoppage - The Independent",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
