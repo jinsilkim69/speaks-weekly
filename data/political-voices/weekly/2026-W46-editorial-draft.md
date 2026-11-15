@@ -7996,3 +7996,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump makes millions with unconstitutional Truth Social scheme - Freedom of the Press Foundation
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump makes millions with unconstitutional Truth Social scheme
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUHBxZldaWm9PMmZ3X1JPSzhGZmp2Q0JVckdVc0dLY0tYdkRxUzBlTkxFdXlGMFJRdUZDRXp3UVZlemVJcHVMNVkxd1pLZy1jTVF1c2lMYXVBMHhKdUFuemhCTEttSElVM2ZzR2J1VjN0dHRtWW9XbmEtUHBjYkJVb1lHTmladkhfNllBaUo5ZExqNnFuUFRsaDViVW11OFdPeTU4?oc=5)
+
+---
+

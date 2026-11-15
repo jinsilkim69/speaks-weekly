@@ -473,5 +473,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "07f7b15734b6136c39b30697b2ec11eeb78fa3eeb97d8960e0121d8f08a51287",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump makes millions with unconstitutional Truth Social scheme - Freedom of the Press Foundation",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNUHBxZldaWm9PMmZ3X1JPSzhGZmp2Q0JVckdVc0dLY0tYdkRxUzBlTkxFdXlGMFJRdUZDRXp3UVZlemVJcHVMNVkxd1pLZy1jTVF1c2lMYXVBMHhKdUFuemhCTEttSElVM2ZzR2J1VjN0dHRtWW9XbmEtUHBjYkJVb1lHTmladkhfNllBaUo5ZExqNnFuUFRsaDViVW11OFdPeTU4?oc=5\" target=\"_blank\">Trump makes millions with unconstitutional Truth Social scheme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Freedom of the Press Foundation</font>",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUHBxZldaWm9PMmZ3X1JPSzhGZmp2Q0JVckdVc0dLY0tYdkRxUzBlTkxFdXlGMFJRdUZDRXp3UVZlemVJcHVMNVkxd1pLZy1jTVF1c2lMYXVBMHhKdUFuemhCTEttSElVM2ZzR2J1VjN0dHRtWW9XbmEtUHBjYkJVb1lHTmladkhfNllBaUo5ZExqNnFuUFRsaDViVW11OFdPeTU4?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 21:00:00 GMT",
+    "source": "Freedom of the Press Foundation",
+    "ageHours": 1.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump makes millions with unconstitutional Truth Social scheme",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
