@@ -2113,5 +2113,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e802ca2fe593b67aa51ea3486620adcd1adaa24ca8844bc5ffbab7e9f5c98f39",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "무소속 한동훈-민주당 최민희, '이재명-윤석열 재판' 놓고 SNS '설전' - 사이렌스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzODJ5b29KS3B5SW9fcnQwNFJWV05FbURHdHM5QlhwaFpTSWxqbkttV3oyQ1REaE5uTWtwYjV4S1V2clduRmk4VTZOcWFyT0k?oc=5\" target=\"_blank\">무소속 한동훈-민주당 최민희, '이재명-윤석열 재판' 놓고 SNS '설전'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">사이렌스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzODJ5b29KS3B5SW9fcnQwNFJWV05FbURHdHM5QlhwaFpTSWxqbkttV3oyQ1REaE5uTWtwYjV4S1V2clduRmk4VTZOcWFyT0k?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 14:20:36 GMT",
+    "source": "사이렌스",
+    "ageHours": 17.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 무소속 한동훈-민주당 최민희, '이재명-윤석열 재판' 놓고 SNS '설전'",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
