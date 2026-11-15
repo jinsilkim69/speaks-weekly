@@ -7359,3 +7359,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Offers Little Public Response More Than 24 Hours After Nationwide Ground Stop - HuffPost
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Offers Little Public Response More Than 24 Hours After Nationwide Ground Stop
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimwFBVV95cUxPREJ3U2xWc05GZFozZklXR3RhRXpVeFlDU1Z6cUJoSmtQV2F5MGJSUTBmLVR3Sk5JSy1xS3cyTWlPRnBKaTRIQjJ1dFFubDUtWWg1dUVyX05KcFRNMExCQlVJc3hJc3FhT2FlTmI2RGw0Z3ZzV3hMZFFaamllWkZZMERiVElRYUJYYUt2TXl2UDFWdjNBNFRxakRGY9IBoAFBVV95cUxNNkozNlRDQlNGVE5jNmFTRTNMS0hIdUxzYmhJX2VGbHRjZkhrTk9wZjZEd2YxeGYyQ3NlRlpuZlBYMVhVOFVTRmFOVDdLREZXTHhlWlJ3bFBnUm1pNlNnM1k5RzZKOEc3X2U0ZHpYWG1mSEppRmpMdmE5Q3JmUnRtdjJUX1FDTmpPLXJPbjF1ZUVGVVdCV3JudWliaUdxQ2Yy?oc=5)
+
+---
+

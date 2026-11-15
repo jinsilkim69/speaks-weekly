@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T10:31:14.515Z",
+  "lastCheckedAt": "2026-11-15T10:41:15.521Z",
   "seenPostIds": {
-    "b9cb8dd38f1443004f31e228ce8c48fbda2aecb78dd17474103926cb3a7d5139": {
-      "seenAt": "2026-11-12T14:41:18.928Z",
-      "title": "與 신천지 갈등…김민석 \"만나서 대화\" vs 정청래 \"사과부터 제대로\" - 뉴스웍스",
-      "targetName": "정청래"
-    },
-    "77db1e1001355051ccfa717194ce32e380f5baef9d3378b728b86fc0339ced3b": {
-      "seenAt": "2026-11-12T14:41:19.643Z",
-      "title": "김민석·\"부동산 정책 일관\" 종부세 엇박자 불식 주력, 정청래 갈등엔 \"만나서 대화\" - 국제신문",
-      "targetName": "정청래"
-    },
-    "4099919cf10f69d29be4c66ce8584f3fe7fc5d9cad5cc8c7ef2ffd48366120fc": {
-      "seenAt": "2026-11-12T14:41:20.391Z",
-      "title": "‘신천지 수렁’ 민주…김민석 “대화로 해결” 정청래 “사과부터” - 한겨레",
-      "targetName": "정청래"
-    },
     "8990cc03074ba67134e2193b7141a2c1982777da771624e80326cd5e1cb7fb1a": {
       "seenAt": "2026-11-12T14:51:18.319Z",
       "title": "\"대화하자\" vs \"2차 가해\"…김민석·정청래 '신천지 갈등' 재점화 - KBC광주방송",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-15T10:31:16.781Z",
       "title": "“대통령도 탄핵 반대” 최민희 징계받나···김민석, 감찰 결과 윤리심판원 이첩 - 주간경향",
       "targetName": "김민석"
+    },
+    "6465e5282f0ce1e9a0e03ce0ad25d19a80d4ceaeaaac1a024a2bedd17bd375f8": {
+      "seenAt": "2026-11-15T10:41:16.808Z",
+      "title": "Trump Offers Little Public Response More Than 24 Hours After Nationwide Ground Stop - HuffPost",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
