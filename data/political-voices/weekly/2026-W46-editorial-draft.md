@@ -7593,3 +7593,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 감찰 윤리심판원 이첩…친청계 "金 징계청원도 접수"(종합) - 뉴시스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 감찰 윤리심판원 이첩…친청계 "金 징계청원도 접수"(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmV0F6Ny05T3IyU29CWUJ3S3hlRXdsSU5PaHY3WDh0UmhwUTEtdTBEUHUwcHJwU3c3S1ZONDg2SjI4YTZsekVKVEtnUU1wZllDSUtwcDFkN0RwcGIySG9zctIBeEFVX3lxTE1KVThlN0FvbU44bUt3M3hDVlJXaVJrOFJLakUwbW9QSUJON3RTTHhweU1jU1Z5SnJOZlpXV0pQNzZ6eHM2cC1XMlNWbm16SDZXMUYxUmJuakRiNVpOd1ZXT0xIbFJySTJ6bk9HOUNEbEh3ZS1wWnVHWA?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 박원석 “20대 총선, 혐오 부르는 인사 정리해 승리…대표적으로 정청래” - 문화일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박원석 “20대 총선, 혐오 부르는 인사 정리해 승리…대표적으로 정청래”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DcDZMXzVBUUdMRVA1aU5mWVFDWW1LMWFlWFlrTlVqSFIxM3FSTVhfUzhXNkxScWs3TXNnVE96eG5pYWNsUXBIOENWSU4zT3h6?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국의 작심비판 “조희대는 행동하는데 민주당은 말만” - 인디포커스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국의 작심비판 “조희대는 행동하는데 민주당은 말만”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9SSTJObHFhRGFLNXlZc2diNFVISXdvam4yMExxaVBndkFtb2ZLTTZRT2lTcHE4dzFpd1JvaG8ybEhYQVE?oc=5)
+
+---
+

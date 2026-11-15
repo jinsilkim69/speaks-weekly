@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T13:11:18.344Z",
+  "lastCheckedAt": "2026-11-15T13:21:16.495Z",
   "seenPostIds": {
-    "c65e837a34891e21843306fa6383342d67096fb0a0031084759a4ba6ca74297f": {
-      "seenAt": "2026-11-12T15:41:19.067Z",
-      "title": "조국혁신당, '한덕수 구속만료전' 조희대 탄핵소추안 통과 촉구 - 굿모닝충청",
-      "targetName": "조국"
-    },
-    "b053cde31339011200c007a3928b2a1b991194845f223ac7dc63100342ec9d1d": {
-      "seenAt": "2026-11-12T15:41:19.902Z",
-      "title": "조국혁신당 \"與박희승, 조희대 탄핵 요구하는 시민들 '미친 사람' 취급…사죄해야\" - 뉴시스",
-      "targetName": "조국"
-    },
-    "8d7cf7fa8a64e26022d26b014fee01218ec4e9424004e3d285e98c091b92d263": {
-      "seenAt": "2026-11-12T15:41:20.801Z",
-      "title": "조국혁신당 \"청해부대 파견은 사실상 우회파병… 당론으로 반대\" - TV서울",
-      "targetName": "조국"
-    },
     "276c621bf174d599f5ed4ee06f566b51f4040757d85adc6c21dcb4b2a2ad1921": {
       "seenAt": "2026-11-12T15:51:17.616Z",
       "title": "신장식 \"당·정·청 엇박자 걱정\"…최인호 \"부동산 입장 후퇴 없어\" - 뉴시스",
@@ -2515,6 +2500,21 @@
       "seenAt": "2026-11-15T13:11:21.423Z",
       "title": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes - The Guardian",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "18cb983fb6ae50653e3960461624ec6903f417e0f94e6c13bd818708517ad136": {
+      "seenAt": "2026-11-15T13:21:17.774Z",
+      "title": "김민석, 최민희 감찰 윤리심판원 이첩…친청계 \"金 징계청원도 접수\"(종합) - 뉴시스",
+      "targetName": "김민석"
+    },
+    "9aca0ce9d040d4a1965836eb405ed9638769a185ea9f883dd7e1c636e1bd0cad": {
+      "seenAt": "2026-11-15T13:21:18.518Z",
+      "title": "박원석 “20대 총선, 혐오 부르는 인사 정리해 승리…대표적으로 정청래” - 문화일보",
+      "targetName": "정청래"
+    },
+    "272520d1f297f8059a8a73fca87778837cec5379e21da7630a6949fcd5a6e34d": {
+      "seenAt": "2026-11-15T13:21:19.235Z",
+      "title": "조국의 작심비판 “조희대는 행동하는데 민주당은 말만” - 인디포커스",
+      "targetName": "조국"
     }
   },
   "pending": []
