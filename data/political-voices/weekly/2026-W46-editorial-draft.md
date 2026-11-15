@@ -7008,3 +7008,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "시한부 대통령"-최민희 "거짓말 마라" - 더리포트
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "시한부 대통령"-최민희 "거짓말 마라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE4yR29MRGpCTTVkUEE1S2NtM3hNOGJtSjBXX0JMUTJKbWFIcmZqWGFmNVpkWTM3bmVxMThaclJabnJBSE1WREJQMkM3UERRcjVJS3V3bGRRNHM4Zy0za05aTzVCQ3BfWWRvUURaU2JB?oc=5)
+
+---
+

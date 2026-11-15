@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T08:31:14.518Z",
+  "lastCheckedAt": "2026-11-15T08:41:17.080Z",
   "seenPostIds": {
-    "7Iug7J6l7IudIOKAnOyiheu2gOyEuCDs": {
-      "seenAt": "2026-11-12T11:57:57.448Z",
-      "title": "신장식 “종부세 엇박자 우려”…최인호 “정부 입장 후퇴 없다” - 서울신문",
-      "targetName": "신장식"
-    },
-    "7Iug7J6l7IudLCDsl6zqtowg7KCV7LGF": {
-      "seenAt": "2026-11-12T11:57:57.448Z",
-      "title": "신장식, 여권 정책 혼선 우려 전달…청와대 “부동산 정책 기조 변화 없어” - 서울뉴스통신",
-      "targetName": "신장식"
-    },
-    "W+2PrO2GoF0g7LWc7J247Zi4IOygleus": {
-      "seenAt": "2026-11-12T11:57:57.448Z",
-      "title": "[포토] 최인호 정무수석 예방받은 신장식 대표 - 파이낸스투데이",
-      "targetName": "신장식"
-    },
     "7J247IKs66eQ7ZWY64qUIOyLoOyepeyL": {
       "seenAt": "2026-11-12T11:57:57.448Z",
       "title": "인사말하는 신장식 - 뉴시스",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-15T08:31:17.053Z",
       "title": "조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이 - 머니투데이",
       "targetName": "조국"
+    },
+    "6b95da9fabf5fe8da92447e218d21c0f2647707ddd7bf63400677ee5b372c0b9": {
+      "seenAt": "2026-11-15T08:41:18.259Z",
+      "title": "한동훈 \"시한부 대통령\"-최민희 \"거짓말 마라\" - 더리포트",
+      "targetName": "한동훈"
     }
   },
   "pending": []
