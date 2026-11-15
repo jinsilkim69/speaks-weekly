@@ -7047,3 +7047,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [이은철의 너튜브B컷] 이재명 대통령의 X·Y `Z` - 부산일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령의 X·Y `Z`
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE9sOGFVRVRoQjV2SXdPaFlOckFuaHZ3TVEyb00wSzJ3OGNzUTA3WUxrRHNhQXlidkxDZGpfUTJpZlNqaEw4TjBPX004V0NMcFFPbklNV2xOTFBGeXh6WDdiN2xLbWtuMm96dGJUTmFiUlliaU5U?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [365 인물전망대] 11월 14일-한동훈 무소속 의원 - www.sideview.co.kr
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 11월 14일-한동훈 무소속 의원
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5JNTEtbTVBQTRHUG5sWmQ2amxWb0xYMkplTHYzc3doNGUyR2ljX0ZxQ3lob0NNS2RDXzZJV2duV2wxUmlxTTI4RzhNLTgwYUdQa05YZlZQMVJvYXdsX1M5UHhHakwzMUZPTlZuRg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [속보] 김민석, ‘언행논란’ 최민희 감찰결과 보고받아…심판원 이첩지시 - 중앙일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, ‘언행논란’ 최민희 감찰결과 보고받아…심판원 이첩지시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxNkJCcV9CekhPZzl5MDAwbnpEYWc4NVJsbHpCWm1VVGhueV92MENMd1ZXZm9tdUVzUzRZRHZCSmRtMDA2Um8tbEpYLURualJKZWtUQmp3?oc=5)
+
+---
+
