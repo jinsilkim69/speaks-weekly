@@ -5,6 +5,7 @@
  */
 
 import fs from 'node:fs';
+import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { feedFromIssue } from './live-feed.mjs';
@@ -61,6 +62,21 @@ export async function exportStaticSite() {
     fs.writeFileSync(path.join(apiDir,'editions',item.id+'.json'),JSON.stringify(edition,null,2));
     if(fs.statSync(path.join(PUBLIC_DIR,edition.pdfUrl)).size>25*1024*1024)throw Error('배포 PDF가 25MiB를 넘었습니다: '+edition.id);
     fs.copyFileSync(path.join(PUBLIC_DIR,edition.pdfUrl),path.join(DIST_DIR,edition.pdfUrl));
+  }
+  // Preserve the publisher-approved manually composed 116-page issue on future builds.
+  // This public web edition was checked against the exact approved PDF.
+  const approvedWebPath = path.join(DATA_DIR, 'published-web', '2026-11-16.json');
+  if (fs.existsSync(approvedWebPath) && !home.editions.some(i => i.id === '2026-11-16' && i.status === 'published')) {
+    const approvedWeb = JSON.parse(fs.readFileSync(approvedWebPath, 'utf8'));
+    const approvedPdf = path.join(PUBLIC_DIR, 'editions', '2026-11-16.pdf');
+    const pdfHash = createHash('sha256').update(fs.readFileSync(approvedPdf)).digest('hex');
+    if (pdfHash !== 'd705c3182803317e29a9ff7e811a3e9e0f03b515786806118dc4baf0dff045f2' || approvedWeb.status !== 'published' || approvedWeb.articleSnapshots?.length !== 19) throw Error('승인된 11월 16일호 자료가 일치하지 않습니다.');
+    for (const a of approvedWeb.articleSnapshots) for (const v of [a.visual, ...(a.supportingVisuals || [])]) {
+      if (!/^\/images\/editions\/2026-11-16\/[a-f0-9]+\.(?:jpg|png)$/.test(v.url) || !fs.existsSync(path.join(DIST_DIR, v.url.slice(1)))) throw Error('공개 기사 이미지가 없습니다: ' + a.id);
+    }
+    fs.copyFileSync(approvedPdf, path.join(editionsDir, '2026-11-16.pdf'));
+    fs.writeFileSync(path.join(apiDir, 'editions', '2026-11-16.json'), JSON.stringify(approvedWeb));
+    home.editions.unshift({id: approvedWeb.id, title: approvedWeb.title, period: approvedWeb.period, status: 'published', pdfUrl: approvedWeb.pdfUrl, publishedAt: approvedWeb.publishedAt, pages: approvedWeb.pages});
   }
   fs.writeFileSync(path.join(apiDir, 'home'), JSON.stringify(home, null, 2));
   fs.writeFileSync(path.join(apiDir, 'home.json'), JSON.stringify(home, null, 2));
