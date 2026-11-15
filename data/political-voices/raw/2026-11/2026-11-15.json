@@ -1079,5 +1079,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e88e771100f1536695c4692375c1ee21144a565c36a469ae54aee2648a9a9c38",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 \"늦었지만 조희대 탄핵해야…민주, 아무 일 하지 않아 내부서 역풍\" - 더팩트",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE03OXBQZlQ1NFM1ZHhodWIxQ2t4ejNZV2lfRm1VSVNVRW55cUtucEdZaWFjZHVyZ001S2U2RnB6RTQ4Q0xkd0pUWWkxU3p5cm5Sa01fLVB1NmjSAVNBVV95cUxPMFdMbXZZVnIzMzh5ZzIwT2ZsaWJEZ2YxS1dkNHdyanMxcGFLaG1HN1FBQTBIXzQ1YnE2WmN5d0JPdDRGaGIwcXdTRlpJb3JuX0VLYw?oc=5\" target=\"_blank\">조국 \"늦었지만 조희대 탄핵해야…민주, 아무 일 하지 않아 내부서 역풍\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더팩트</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03OXBQZlQ1NFM1ZHhodWIxQ2t4ejNZV2lfRm1VSVNVRW55cUtucEdZaWFjZHVyZ001S2U2RnB6RTQ4Q0xkd0pUWWkxU3p5cm5Sa01fLVB1NmjSAVNBVV95cUxPMFdMbXZZVnIzMzh5ZzIwT2ZsaWJEZ2YxS1dkNHdyanMxcGFLaG1HN1FBQTBIXzQ1YnE2WmN5d0JPdDRGaGIwcXdTRlpJb3JuX0VLYw?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 02:44:43 GMT",
+    "source": "더팩트",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"늦었지만 조희대 탄핵해야…민주, 아무 일 하지 않아 내부서 역풍\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "fef5bed90c9a77ea8195fb440fd276c3ed8a986e8db5885f3f4ac20bcca53b8a",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump silent on ground stop, airport snarls - NewsNation",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFoweDMwRGF3TlBfVW9EeGpMdTNESUlaRlNVZW14eGxsNlRkWDZXMVhZRzZUOXUyZ2ZybjVGdXJibWlBeW9pU0lUQkh6eUJNaWtiZ3Vtd2FEbU1SQ21Rc2lpejNoei03UkZSU01hVWtxN3ZvbkNGTkphWVBZRGVPZ1NzeGVYMk9SZDZQR1cwbkhUZjDSAZgBQVVfeXFMTS1mTGNPSUNnTlhnUGJuUzNfak9kTHQwaHNzbGR5X1VPVkFaNnJ6QjM5XzloUC1qdFJsODg1UUZTNDlXZ0RBTHlZTFpwUlRhOS1HYzYwUEFkYzhsQ2ZvZjEzTHFheWc3SHVwV083QzdUU1cya013VGFWZm9EZkk1RTBvYkVLd3pJOWQyczFpcC1Cc3MzUHRHRTE?oc=5\" target=\"_blank\">Trump silent on ground stop, airport snarls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFoweDMwRGF3TlBfVW9EeGpMdTNESUlaRlNVZW14eGxsNlRkWDZXMVhZRzZUOXUyZ2ZybjVGdXJibWlBeW9pU0lUQkh6eUJNaWtiZ3Vtd2FEbU1SQ21Rc2lpejNoei03UkZSU01hVWtxN3ZvbkNGTkphWVBZRGVPZ1NzeGVYMk9SZDZQR1cwbkhUZjDSAZgBQVVfeXFMTS1mTGNPSUNnTlhnUGJuUzNfak9kTHQwaHNzbGR5X1VPVkFaNnJ6QjM5XzloUC1qdFJsODg1UUZTNDlXZ0RBTHlZTFpwUlRhOS1HYzYwUEFkYzhsQ2ZvZjEzTHFheWc3SHVwV083QzdUU1cya013VGFWZm9EZkk1RTBvYkVLd3pJOWQyczFpcC1Cc3MzUHRHRTE?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 02:15:59 GMT",
+    "source": "NewsNation",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump silent on ground stop, airport snarls",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

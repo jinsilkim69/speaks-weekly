@@ -6410,3 +6410,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "늦었지만 조희대 탄핵해야…민주, 아무 일 하지 않아 내부서 역풍" - 더팩트
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "늦었지만 조희대 탄핵해야…민주, 아무 일 하지 않아 내부서 역풍"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE03OXBQZlQ1NFM1ZHhodWIxQ2t4ejNZV2lfRm1VSVNVRW55cUtucEdZaWFjZHVyZ001S2U2RnB6RTQ4Q0xkd0pUWWkxU3p5cm5Sa01fLVB1NmjSAVNBVV95cUxPMFdMbXZZVnIzMzh5ZzIwT2ZsaWJEZ2YxS1dkNHdyanMxcGFLaG1HN1FBQTBIXzQ1YnE2WmN5d0JPdDRGaGIwcXdTRlpJb3JuX0VLYw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump silent on ground stop, airport snarls - NewsNation
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump silent on ground stop, airport snarls
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFoweDMwRGF3TlBfVW9EeGpMdTNESUlaRlNVZW14eGxsNlRkWDZXMVhZRzZUOXUyZ2ZybjVGdXJibWlBeW9pU0lUQkh6eUJNaWtiZ3Vtd2FEbU1SQ21Rc2lpejNoei03UkZSU01hVWtxN3ZvbkNGTkphWVBZRGVPZ1NzeGVYMk9SZDZQR1cwbkhUZjDSAZgBQVVfeXFMTS1mTGNPSUNnTlhnUGJuUzNfak9kTHQwaHNzbGR5X1VPVkFaNnJ6QjM5XzloUC1qdFJsODg1UUZTNDlXZ0RBTHlZTFpwUlRhOS1HYzYwUEFkYzhsQ2ZvZjEzTHFheWc3SHVwV083QzdUU1cya013VGFWZm9EZkk1RTBvYkVLd3pJOWQyczFpcC1Cc3MzUHRHRTE?oc=5)
+
+---
+
