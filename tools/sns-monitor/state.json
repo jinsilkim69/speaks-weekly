@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-15T23:41:14.973Z",
+  "lastCheckedAt": "2026-11-15T23:51:17.585Z",
   "seenPostIds": {
     "d00d06a3953e114571b0a875ab09de1a6e5ce9a5d77251cdd2a8b947f09e295e": {
       "seenAt": "2026-11-12T17:41:19.192Z",
@@ -2500,6 +2500,16 @@
       "seenAt": "2026-11-15T23:31:17.211Z",
       "title": "박원석 \"민주당, 20대 총선 정청래 컷오프로 대승…이번엔 최민희라는 공감대\" - 뉴스1",
       "targetName": "정청래"
+    },
+    "06a41770b19cab202c4e7065966443e4ffeb5c15c430cf97b39c3a6406f78050": {
+      "seenAt": "2026-11-15T23:51:18.785Z",
+      "title": "김태호 의원 “한동훈 복당 더 이상 미뤄선 안 돼”… - 웅상뉴스",
+      "targetName": "한동훈"
+    },
+    "222e7766b7bb9a22556ebb8d6eeb69b20f97065dafb69c7dc7cc1564d49d0095": {
+      "seenAt": "2026-11-15T23:51:19.447Z",
+      "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP - PBS",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

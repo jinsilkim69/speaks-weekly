@@ -8048,3 +8048,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김태호 의원 “한동훈 복당 더 이상 미뤄선 안 돼”… - 웅상뉴스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김태호 의원 “한동훈 복당 더 이상 미뤄선 안 돼”…
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3V3V3ZqR2d0NU5WQVlweHFQOUplaFpSM3dPSFVRNVlJcWs4eGNUQXRGMFc5MjdfeFpTaE0yQzgwdFlET25RMTM2N0F5T201WGxzT0tibXhmQ3RSa2FPcXcwdDhUVFpHbXFXc1BqRjJzemg0bVdWYllobVBuY3REOFRaZw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP - PBS
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb2pLSGVXQ1pZUGxCcTNXbjRWUVZEOER6WHVsSER0ekwwOUpWQkNub0lyZjdjYk5fQklxeU1DWE9xaUV2V3N6cjRaOEhPbnpabjBoSjNFc1o4YU4xX0NqOGFaM1lyZTVKWWF5cDBLNF90ck1mTVhGaE9Ucm5INmRyUXJ0SU1zN1NrMGV4QlBHSVhsdWJMQ0JyOGdvM2FzR3gySzJNS20zc2pMX0ZpYUNsd2VHWEh0NHNXY1dUUW1fSVUwNHVndkhQSmhyVy1aMHdOUUHSAdcBQVVfeXFMTnM3WjFjLUhZZ25CSW8tTnliYkgzSUFrUGtId0pVd09uak5fN1Z5TkMzREdoWE1BNTItZEVONVpyTEVyb1h3VVJsQWhYUVpYbmNPdWpEdjNiOVk4Mm1MdmxyWndrRHlZY0VhZ0ZkcHpyY1VkS2JDU2dQdmpaeGxVZ2d2ZDRiQnVXaVpsWG9STWFGWUVlcld1NW9TVmFHYmJRWVYwdmhLaVFQSEhTZzFJdF92dHZveWpZeGdCM0NRWXVVR19UVTNmM0llczYxeWd4aGZGa25hcUU?oc=5)
+
+---
+
