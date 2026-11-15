@@ -348,5 +348,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "3552d2b8ac91b843de26a410527402cf364275e0bed49907c5b0aa3f1a974630",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "How Many Congressional Democrats Is Trump Planning to Prosecute? - Mother Jones",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWFKYWF0c3QzMFoyUWV5N2k4X054Y2VsUHpxMkQ1cVNRNU8xbm93cTlGQmdncHNYb09LMEUteXhfZUpnSG85eGlkVURQZXFXUVlRalN3MVZOTnlKNXZwdkR6VVBGOXNxT01adnEwdWc4dkJnYTBUUTZ3aFdsbjF4QU1sbDBJMmpCY21ySHFlN1g?oc=5\" target=\"_blank\">How Many Congressional Democrats Is Trump Planning to Prosecute?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mother Jones</font>",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWFKYWF0c3QzMFoyUWV5N2k4X054Y2VsUHpxMkQ1cVNRNU8xbm93cTlGQmdncHNYb09LMEUteXhfZUpnSG85eGlkVURQZXFXUVlRalN3MVZOTnlKNXZwdkR6VVBGOXNxT01adnEwdWc4dkJnYTBUUTZ3aFdsbjF4QU1sbDBJMmpCY21ySHFlN1g?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 19:56:13 GMT",
+    "source": "Mother Jones",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] How Many Congressional Democrats Is Trump Planning to Prosecute?",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
