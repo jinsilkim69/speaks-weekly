@@ -1411,5 +1411,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "ba096408c0cdbc352ce5552a9cfb82026eec49430b14bc7b7beb6005b28fe9f8",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Judge issues temporary block against Trump on Washington public golf course redevelopment - LiveNOW from FOX",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0JWM2dIQnBKLTVnSElHU2Y2RHFoemFITGhILUptWmZDYThVVklSS3hrTjU0M2VDcXdYTlVtbVFtalZVbnRyOUZVT1pCaGxrc2FDV2tEMVFpR2wxYktsTUdabV9KWER5SXhGY3NFMUd2UXJ5ZlRvMW5STVcta0pCdWxXSkMza09nSzZwUUlsb1FvNThfZ09XeEpDeDVaVFhKTTZ3ZzNuWlc4QUNwVGU3LUp0cTBWdTE2NGc?oc=5\" target=\"_blank\">Judge issues temporary block against Trump on Washington public golf course redevelopment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveNOW from FOX</font>",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0JWM2dIQnBKLTVnSElHU2Y2RHFoemFITGhILUptWmZDYThVVklSS3hrTjU0M2VDcXdYTlVtbVFtalZVbnRyOUZVT1pCaGxrc2FDV2tEMVFpR2wxYktsTUdabV9KWER5SXhGY3NFMUd2UXJ5ZlRvMW5STVcta0pCdWxXSkMza09nSzZwUUlsb1FvNThfZ09XeEpDeDVaVFhKTTZ3ZzNuWlc4QUNwVGU3LUp0cTBWdTE2NGc?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 03:47:16 GMT",
+    "source": "LiveNOW from FOX",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Judge issues temporary block against Trump on Washington public golf course redevelopment",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

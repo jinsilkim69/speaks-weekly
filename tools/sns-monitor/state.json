@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T04:01:15.760Z",
+  "lastCheckedAt": "2026-11-15T04:11:20.540Z",
   "seenPostIds": {
-    "7KGw6rWt7ZiB7Iug64u5ICLssq3tlbTr": {
-      "seenAt": "2026-11-12T03:48:54.951Z",
-      "title": "조국혁신당 \"청해부대 파견은 사실상 우회파병… 당론으로 반대\" - TV서울",
-      "targetName": "조국"
-    },
-    "7KGw6rWt7ZiB7Iug64u5IOKAnO2VnOuN": {
-      "seenAt": "2026-11-12T03:48:54.951Z",
-      "title": "조국혁신당 “한덕수 석방 전 조희대 탄핵하고 직무 정지시켜야” - 동아일보",
-      "targetName": "조국"
-    },
-    "7KKF67aA7IS47JeQIOqwiOudvOynhCDr": {
-      "seenAt": "2026-11-12T03:48:54.951Z",
-      "title": "종부세에 갈라진 민주당…지도부 '갈팡질팡'에 조국혁신당도 반발 - 데일리안",
-      "targetName": "조국"
-    },
     "7KGw6rWt7ZiB7Iug64u5IOy1nOqzoOyc": {
       "seenAt": "2026-11-12T03:48:54.951Z",
       "title": "조국혁신당 최고위원회 열어 - 뉴시스",
@@ -2515,24 +2500,12 @@
       "seenAt": "2026-11-15T04:01:18.408Z",
       "title": "김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화 - 뉴스1",
       "targetName": "정청래"
+    },
+    "ba096408c0cdbc352ce5552a9cfb82026eec49430b14bc7b7beb6005b28fe9f8": {
+      "seenAt": "2026-11-15T04:11:22.123Z",
+      "title": "Judge issues temporary block against Trump on Washington public golf course redevelopment - LiveNOW from FOX",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "ba096408c0cdbc352ce5552a9cfb82026eec49430b14bc7b7beb6005b28fe9f8",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Judge issues temporary block against Trump on Washington public golf course redevelopment - LiveNOW from FOX",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0JWM2dIQnBKLTVnSElHU2Y2RHFoemFITGhILUptWmZDYThVVklSS3hrTjU0M2VDcXdYTlVtbVFtalZVbnRyOUZVT1pCaGxrc2FDV2tEMVFpR2wxYktsTUdabV9KWER5SXhGY3NFMUd2UXJ5ZlRvMW5STVcta0pCdWxXSkMza09nSzZwUUlsb1FvNThfZ09XeEpDeDVaVFhKTTZ3ZzNuWlc4QUNwVGU3LUp0cTBWdTE2NGc?oc=5\" target=\"_blank\">Judge issues temporary block against Trump on Washington public golf course redevelopment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveNOW from FOX</font>",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0JWM2dIQnBKLTVnSElHU2Y2RHFoemFITGhILUptWmZDYThVVklSS3hrTjU0M2VDcXdYTlVtbVFtalZVbnRyOUZVT1pCaGxrc2FDV2tEMVFpR2wxYktsTUdabV9KWER5SXhGY3NFMUd2UXJ5ZlRvMW5STVcta0pCdWxXSkMza09nSzZwUUlsb1FvNThfZ09XeEpDeDVaVFhKTTZ3ZzNuWlc4QUNwVGU3LUp0cTBWdTE2NGc?oc=5",
-        "pubDate": "Sun, 15 Nov 2026 03:47:16 GMT",
-        "source": "LiveNOW from FOX",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

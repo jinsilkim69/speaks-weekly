@@ -6579,3 +6579,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Judge issues temporary block against Trump on Washington public golf course redevelopment - LiveNOW from FOX
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Judge issues temporary block against Trump on Washington public golf course redevelopment
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0JWM2dIQnBKLTVnSElHU2Y2RHFoemFITGhILUptWmZDYThVVklSS3hrTjU0M2VDcXdYTlVtbVFtalZVbnRyOUZVT1pCaGxrc2FDV2tEMVFpR2wxYktsTUdabV9KWER5SXhGY3NFMUd2UXJ5ZlRvMW5STVcta0pCdWxXSkMza09nSzZwUUlsb1FvNThfZ09XeEpDeDVaVFhKTTZ3ZzNuWlc4QUNwVGU3LUp0cTBWdTE2NGc?oc=5)
+
+---
+
