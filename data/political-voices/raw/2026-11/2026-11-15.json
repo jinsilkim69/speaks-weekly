@@ -650,5 +650,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4e916844195494d2686432444600639362d068822424635fa5f61bebbb63405e",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 취임 100일도 전에…커지는 與 집안싸움 [여의도는 지금] - 한국경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yWEdYY0xpS1l4YnpDMExuVlJPaTJONTBfSmRfN2ZLZWpuUm5CVWFyLWNmNTFKbDZmX3VieXlsM3VyTEdhWW0zQV9jeE9qU0dRVzhxUi16eUNWQQ?oc=5\" target=\"_blank\">김민석 취임 100일도 전에…커지는 與 집안싸움 [여의도는 지금]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yWEdYY0xpS1l4YnpDMExuVlJPaTJONTBfSmRfN2ZLZWpuUm5CVWFyLWNmNTFKbDZmX3VieXlsM3VyTEdhWW0zQV9jeE9qU0dRVzhxUi16eUNWQQ?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 00:20:29 GMT",
+    "source": "한국경제",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 취임 100일도 전에…커지는 與 집안싸움",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "501e5c5c2592b68a57c6d1f5a635d8788bc727e7866badb2cbe05a6fc56a250e",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump takes parting shot at DC golf course conditions one day before major overhaul begins - Fox News",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNMU1uRGM3QmRhMlZpSkpOMU9JYjlyb2JzaG9LcHRoRGloTUZ1TXhXM0NzNTRHd0RJYjBydVB4LUVGOG1FdFRDVEl5NVZfZWpqX3JtdWVNRC0wOUUzU2xvSWdNWnA4QTI3aEFTZURFNm15aFdNcFY5WmNOVGMxay0yUXVhSVFMeTdHZF9IcVRScGcxYllsalJSNzBpTTJzSzhTcUFpVElIWVBPVEx0MHBjb1ZaMnFlVWVCaWhONzFZSkJqOF8z?oc=5\" target=\"_blank\">Trump takes parting shot at DC golf course conditions one day before major overhaul begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMU1uRGM3QmRhMlZpSkpOMU9JYjlyb2JzaG9LcHRoRGloTUZ1TXhXM0NzNTRHd0RJYjBydVB4LUVGOG1FdFRDVEl5NVZfZWpqX3JtdWVNRC0wOUUzU2xvSWdNWnA4QTI3aEFTZURFNm15aFdNcFY5WmNOVGMxay0yUXVhSVFMeTdHZF9IcVRScGcxYllsalJSNzBpTTJzSzhTcUFpVElIWVBPVEx0MHBjb1ZaMnFlVWVCaWhONzFZSkJqOF8z?oc=5",
+    "pubDate": "Sat, 14 Nov 2026 21:55:15 GMT",
+    "source": "Fox News",
+    "ageHours": 2.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump takes parting shot at DC golf course conditions one day before major overhaul begins",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
