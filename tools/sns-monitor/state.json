@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T02:31:15.715Z",
+  "lastCheckedAt": "2026-11-15T02:41:14.513Z",
   "seenPostIds": {
-    "7JWI7LKg7IiYIOKAnO2VnOuPme2biCDr": {
-      "seenAt": "2026-11-12T03:48:53.366Z",
-      "title": "안철수 “한동훈 복당? 물귀신 행태…차라리 창당을” - 한겨레",
-      "targetName": "한동훈"
-    },
-    "J+2VnOuPme2biCDrs7Xri7knIOmHjiDt": {
-      "seenAt": "2026-11-12T03:48:53.366Z",
-      "title": "'한동훈 복당' 野 통합 최대 걸림돌 … 오세훈 '글쎄', 장동혁-이준석 '부정적' - 뉴데일리",
-      "targetName": "한동훈"
-    },
-    "6rmA66+87ISdICLrjIDtmZTroZwg6rCI": {
-      "seenAt": "2026-11-12T03:48:53.605Z",
-      "title": "김민석 \"대화로 갈등 풀 것\"...정청래 \"전대 이후 통화 한번 안 해\" - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
     "6IiHLCAn6rmA66+87ISdIOynhOujjCDt": {
       "seenAt": "2026-11-12T03:48:53.605Z",
       "title": "與, '김민석 진료 특혜' 의혹에 \"예약 방문\" 반박 - 싱글리스트",
@@ -2515,24 +2500,22 @@
       "seenAt": "2026-11-15T02:31:18.592Z",
       "title": "Where is Trump? He hasn’t commented on FAA incident - CNN",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f0d7a52f04dbf1b5c2ff9988e12140098010ae257329c143c0e5f52584c7b54b": {
+      "seenAt": "2026-11-15T02:41:15.927Z",
+      "title": "Trump Posts More Than 40 Images Of Latest Renovation Obsession Amid Heated Legal Battle - HuffPost",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "53626faef4244ea54593c6ba8b6b8b3b2a20165d10acbdb70e5b70f292eb78bc": {
+      "seenAt": "2026-11-15T02:41:16.666Z",
+      "title": "조국 이미 늦었지만…조희대 탄핵 후 사법개혁 완수하자 - 아주경제",
+      "targetName": "조국"
+    },
+    "ee917a54034f5d0ebef0c675e3c056a2413cc75b4733212e9e231c3ed250a7c7": {
+      "seenAt": "2026-11-15T02:41:17.379Z",
+      "title": "신장식 조국혁신당 원내대표 “굴 어업인 위한 문제 제기였다”…통영서 직접 해명 - 통영신문",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "f0d7a52f04dbf1b5c2ff9988e12140098010ae257329c143c0e5f52584c7b54b",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Posts More Than 40 Images Of Latest Renovation Obsession Amid Heated Legal Battle - HuffPost",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOR2YweE5JeXFSb1ZQU1VQT2U1UERjRFY1eTIyZTQ5aWtxQV9SYWs2blVVczAyLURvc3dxcnZrc3pyZmxpUFpsTEdrekNON28yenRfb1c3MUJOTTdWRTRocFZtZm9yX2hvU3JGWlJ4YjI2MEpST3h3YklWdmdMY2oybnZsRjhRZlFUTTlrWU9iejkwT3NJbzNPX1FmV3FjZzB2QmxR0gGoAUFVX3lxTE9fLVZTN2hHVHpjai02amktZEtlQk81Tl9fUTRjeEZoSkdJZ2JBQ1B4Q1l6VkQ0a1lhZEhLZkRyQ1Rua2gxbXZ3bjVBVl9rOUVhcUNfYjVYTkFINjB4dndGZzlyMEZGaFVmR0xwQTRWOE9vMDBGcUZaTHZWQXM3eXR0UU5BRkx5ZERhalhLbkU5dmNSdmp1aDBfRkJGa1VRWWZkdFJxdTNaRQ?oc=5\" target=\"_blank\">Trump Posts More Than 40 Images Of Latest Renovation Obsession Amid Heated Legal Battle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HuffPost</font>",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR2YweE5JeXFSb1ZQU1VQT2U1UERjRFY1eTIyZTQ5aWtxQV9SYWs2blVVczAyLURvc3dxcnZrc3pyZmxpUFpsTEdrekNON28yenRfb1c3MUJOTTdWRTRocFZtZm9yX2hvU3JGWlJ4YjI2MEpST3h3YklWdmdMY2oybnZsRjhRZlFUTTlrWU9iejkwT3NJbzNPX1FmV3FjZzB2QmxR0gGoAUFVX3lxTE9fLVZTN2hHVHpjai02amktZEtlQk81Tl9fUTRjeEZoSkdJZ2JBQ1B4Q1l6VkQ0a1lhZEhLZkRyQ1Rua2gxbXZ3bjVBVl9rOUVhcUNfYjVYTkFINjB4dndGZzlyMEZGaFVmR0xwQTRWOE9vMDBGcUZaTHZWQXM3eXR0UU5BRkx5ZERhalhLbkU5dmNSdmp1aDBfRkJGa1VRWWZkdFJxdTNaRQ?oc=5",
-        "pubDate": "Sat, 14 Nov 2026 22:54:54 GMT",
-        "source": "HuffPost",
-        "ageHours": 3.6
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

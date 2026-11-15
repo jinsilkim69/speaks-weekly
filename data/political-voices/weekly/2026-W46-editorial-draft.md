@@ -6371,3 +6371,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Posts More Than 40 Images Of Latest Renovation Obsession Amid Heated Legal Battle - HuffPost
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Posts More Than 40 Images Of Latest Renovation Obsession Amid Heated Legal Battle
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowFBVV95cUxOR2YweE5JeXFSb1ZQU1VQT2U1UERjRFY1eTIyZTQ5aWtxQV9SYWs2blVVczAyLURvc3dxcnZrc3pyZmxpUFpsTEdrekNON28yenRfb1c3MUJOTTdWRTRocFZtZm9yX2hvU3JGWlJ4YjI2MEpST3h3YklWdmdMY2oybnZsRjhRZlFUTTlrWU9iejkwT3NJbzNPX1FmV3FjZzB2QmxR0gGoAUFVX3lxTE9fLVZTN2hHVHpjai02amktZEtlQk81Tl9fUTRjeEZoSkdJZ2JBQ1B4Q1l6VkQ0a1lhZEhLZkRyQ1Rua2gxbXZ3bjVBVl9rOUVhcUNfYjVYTkFINjB4dndGZzlyMEZGaFVmR0xwQTRWOE9vMDBGcUZaTHZWQXM3eXR0UU5BRkx5ZERhalhLbkU5dmNSdmp1aDBfRkJGa1VRWWZkdFJxdTNaRQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 이미 늦었지만…조희대 탄핵 후 사법개혁 완수하자 - 아주경제
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 이미 늦었지만…조희대 탄핵 후 사법개혁 완수하자
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBueGlzMThuR3RMcmFMb3FkeFdsazVabDBfVlBWWHFGRGw2WkZsUE44ZmNTNHlUbkRjdTJsUmtXb2wzZnE5OUxWd0UzYWRjYzVoNHl0SVpxTmRMZ9IBWEFVX3lxTE01Vm53LTg2UTVmd3dIV2JlanEtMU81alBDLXl4c3Y0YmpzWlVuRGlDUHlWME55TldEZmZvYmQyckFYSmx6R0F3U1V1bUxLcXdib0E2UnlWVWM?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 신장식 조국혁신당 원내대표 “굴 어업인 위한 문제 제기였다”…통영서 직접 해명 - 통영신문
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 조국혁신당 원내대표 “굴 어업인 위한 문제 제기였다”…통영서 직접 해명
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE5kSktHMzJSN2NsU0g1S2hXZnNvb3dCVHk3VmhUajduSXV4MXk0cFFfQi1pdmtaSHhjUGFsbl95T25Bc3VySnk0dXd0dS1vZWhmWWJtUFBtZlpVSFlMc0FSbVpGcV9HQU9tTllqLUVkWEfSAXNBVV95cUxPdHRTMWM2ZFVmZVdfQjMxMUFJYWR2bkU2RWV0Nmljbld6bjlBSHlnN2k1Qjk3X1ZEQlZMTFFhczJienMwR1lpd0YtVnJaWVQtUHBiSHFTSmkyZUhuUk5KeVIwMDM3UE9TTFd0TnJZcnoyeFdJ?oc=5)
+
+---
+
