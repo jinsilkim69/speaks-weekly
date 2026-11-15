@@ -7632,3 +7632,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 대표, 최민희 최고위원 윤리심판원 이첩 지시…징계 절차 시작 - 스페셜타임스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 대표, 최민희 최고위원 윤리심판원 이첩 지시…징계 절차 시작
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE55SVQ5QndRQW80b3hTQ01jQXkzSDBZUHA5THVWMHNTM1lQN3FaczhLcERVTEs3NlNUZWRPeHU4UGVoYlpucXRGbjQ3LVJ0SlNFQ3B3eTBsNWhzZUtHR3VyMmx3bmZNMWkxeUJRUnJISl9LUHc?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 조국혁신당 원내대표 “굴 어업인 위한 문제 제기였다”…통영서 직접 해명 - 통영신문
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 조국혁신당 원내대표 “굴 어업인 위한 문제 제기였다”…통영서 직접 해명
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE5KeHB4ZFpibElfeFlFc3UwMmNlelhYQzVSTF9SLTlpWU0xNDVZamlKdXVDMTJ1cUM2MW5DVEplaVM1U1ZkTlpBajBPTUZxRnBQakxXREU0YjByYnNpVFA3XzR6NjRYWko3U0NyR2lmQdIBc0FVX3lxTE90dFMxYzZkVWZlV19CMzExQUlhZHZuRTZFZXQ2aWNuV3puOUFIeWc3aTVCOTdfVkRCVkxMUWFzMmJ6czBHWWl3Ri1WclpZVC1QcGJIcVNKaTJlSG5STkp5UjAwMzdQT1NMV3ROcllyejJ4V0k?oc=5)
+
+---
+
