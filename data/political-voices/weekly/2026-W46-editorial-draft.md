@@ -7242,3 +7242,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원, 소방재정 안정화 법안 발의…구급차 기준 개선도 추진 - 서울일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원, 소방재정 안정화 법안 발의…구급차 기준 개선도 추진
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5NeDhTNk1MdXctaFlNY1N5TTdiZC1VUWd0S3k2TS1DYkVZV2swaDFiNE9RR3MydVlJbDQtRlFTV0d6LXpyVXlYVGs1QTMxNXFLdHl2YzlDYTVTTDdQU002dnhaR2hocmJXazRxeNIBb0FVX3lxTE9ZeGk0NXh3M1Fhb0hKUEM3SVY5UUdRQkxQQ3F2Q1hCQWRHX2pDY1Fkc3haZ1FER2lyOXZXdDJEWnFOcTgzM0JVUnE4VjM0M0ZfMGtjUDdzc0t0NWpHbHZta2I1Yk1UNW9VWTl2QkNmbw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 함경우 "모택동 따른 중국 홍군 9000km 대장정처럼, 많은 이들 한동훈 따라 극복할 것" - 매일신문
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 함경우 "모택동 따른 중국 홍군 9000km 대장정처럼, 많은 이들 한동훈 따라 극복할 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fbXBkaHJRQWFxcnRGb0dqRjZDbmdrVGVTMmlERlNyVThHUVNLWXVsUVlzTkY3MkRwNk1vZDZGS0JvT3FQQUVjYUhENkVsRE92cmtPNHhHSElnR2djcnJxLUdn?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '한동훈 의원 장인' 진형구 전 대전고검장 별세, 81세 - 중앙일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '한동훈 의원 장인' 진형구 전 대전고검장 별세, 81세
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCT3NjVGxKLVFEVFNHb3lnX3hzR3pMN0trdm5sb3loTVJqOHlZZF93QXJIS012QzdLcVVucXUtcVczWnoteVpWeTJqV0ZkMWZqOHpoYmJB?oc=5)
+
+---
+

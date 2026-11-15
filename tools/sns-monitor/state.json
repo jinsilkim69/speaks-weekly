@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T10:01:15.633Z",
+  "lastCheckedAt": "2026-11-15T10:11:17.845Z",
   "seenPostIds": {
-    "82cc14bb25de3dec6bfb48d6393f1c1438124d0a1876eed606cf7ff7c560a854": {
-      "seenAt": "2026-11-12T14:11:18.894Z",
-      "title": "SNS서 ‘김민석 병원 프리패스’ 논란…與 “정상 예약 진료” 반박 - 미주중앙일보",
-      "targetName": "김민석"
-    },
-    "83b713f215e7d950e079db0a87b2b619fec45e736fa96aedaa6984290f0fa358": {
-      "seenAt": "2026-11-12T14:11:19.592Z",
-      "title": "정청래, '만나서 풀겠다'는 김민석에 \"사과부터 제대로 해야\" - MBC 뉴스",
-      "targetName": "김민석"
-    },
-    "385da28d3cb9f5aefe4c23864a7ec86f99cd9652d9a553c1d7e3d65371d3f6e1": {
-      "seenAt": "2026-11-12T14:11:20.317Z",
-      "title": "김민석 \"대화로 갈등 풀 것\"...정청래 \"전대 이후 통화 한번 안 해\" - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
     "a8ce054c4e2561be6377b33777abe79038abb1dc8f22d9df4bf20f1e6ee40455": {
       "seenAt": "2026-11-12T14:21:17.909Z",
       "title": "‘신천지 수렁’ 민주…김민석 “대화로 해결” 정청래 “사과부터” - 한겨레",
@@ -2515,21 +2500,36 @@
       "seenAt": "2026-11-15T10:01:18.637Z",
       "title": "“최민희 제명” 요구에 “김민석 책임” 맞불… 명청 갈등 ‘치킨게임’ - 서울신문",
       "targetName": "김민석"
+    },
+    "b114260607b4bedb8f0f25aa187f2984dd0de35012c560d491b87102e802fc7c": {
+      "seenAt": "2026-11-15T10:11:19.324Z",
+      "title": "송영길 의원, 소방재정 안정화 법안 발의…구급차 기준 개선도 추진 - 서울일보",
+      "targetName": "송영길"
+    },
+    "919c4d1fb5acd61984808b0fb7c78721dd1be185e08b6a552b26f7703d208fd4": {
+      "seenAt": "2026-11-15T10:11:20.088Z",
+      "title": "함경우 \"모택동 따른 중국 홍군 9000km 대장정처럼, 많은 이들 한동훈 따라 극복할 것\" - 매일신문",
+      "targetName": "한동훈"
+    },
+    "ebfdf0557444daf354dab81acb765d408f78576e48511e42fb62aed047791c2e": {
+      "seenAt": "2026-11-15T10:11:20.825Z",
+      "title": "'한동훈 의원 장인' 진형구 전 대전고검장 별세, 81세 - 중앙일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "b114260607b4bedb8f0f25aa187f2984dd0de35012c560d491b87102e802fc7c",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 의원, 소방재정 안정화 법안 발의…구급차 기준 개선도 추진 - 서울일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5NeDhTNk1MdXctaFlNY1N5TTdiZC1VUWd0S3k2TS1DYkVZV2swaDFiNE9RR3MydVlJbDQtRlFTV0d6LXpyVXlYVGs1QTMxNXFLdHl2YzlDYTVTTDdQU002dnhaR2hocmJXazRxeNIBb0FVX3lxTE9ZeGk0NXh3M1Fhb0hKUEM3SVY5UUdRQkxQQ3F2Q1hCQWRHX2pDY1Fkc3haZ1FER2lyOXZXdDJEWnFOcTgzM0JVUnE4VjM0M0ZfMGtjUDdzc0t0NWpHbHZta2I1Yk1UNW9VWTl2QkNmbw?oc=5\" target=\"_blank\">송영길 의원, 소방재정 안정화 법안 발의…구급차 기준 개선도 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NeDhTNk1MdXctaFlNY1N5TTdiZC1VUWd0S3k2TS1DYkVZV2swaDFiNE9RR3MydVlJbDQtRlFTV0d6LXpyVXlYVGs1QTMxNXFLdHl2YzlDYTVTTDdQU002dnhaR2hocmJXazRxeNIBb0FVX3lxTE9ZeGk0NXh3M1Fhb0hKUEM3SVY5UUdRQkxQQ3F2Q1hCQWRHX2pDY1Fkc3haZ1FER2lyOXZXdDJEWnFOcTgzM0JVUnE4VjM0M0ZfMGtjUDdzc0t0NWpHbHZta2I1Yk1UNW9VWTl2QkNmbw?oc=5",
-        "pubDate": "Sun, 15 Nov 2026 08:34:23 GMT",
-        "source": "서울일보",
-        "ageHours": 1.4
+        "id": "26461b1c9c2d16b67b1b12346cdbe23799d835d7f63d35d0d842c2c28e6d2998",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "민주당 또 때린 조국 “바람은 극복하는 것” - 채널A",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSZFFhM25qcVZIbGZNTVFHekdNaHhqWWY5czVidFFVTS1GbWlFMUpubUpKNjRVeUVxa2lFWnpfLXRLSU83c3FpSTJ0ZEhUSWNNTG1Ha1pZcUlOVmNKeHfSAWNBVV95cUxPemVRcGdmV2dfalE4aWRmQVQ4LXNnWEg0Z2x6UFlqWjliQ0JSV0I4MC02QXF6T25NcHEzMF9HRk9VTHQxYlZOYi1aMGIyUXpRQ1AzY2tyRTBTa09IMWFPczNUdEU?oc=5\" target=\"_blank\">민주당 또 때린 조국 “바람은 극복하는 것”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSZFFhM25qcVZIbGZNTVFHekdNaHhqWWY5czVidFFVTS1GbWlFMUpubUpKNjRVeUVxa2lFWnpfLXRLSU83c3FpSTJ0ZEhUSWNNTG1Ha1pZcUlOVmNKeHfSAWNBVV95cUxPemVRcGdmV2dfalE4aWRmQVQ4LXNnWEg0Z2x6UFlqWjliQ0JSV0I4MC02QXF6T25NcHEzMF9HRk9VTHQxYlZOYi1aMGIyUXpRQ1AzY2tyRTBTa09IMWFPczNUdEU?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 09:21:00 GMT",
+        "source": "채널A",
+        "ageHours": 0.8
       },
       "delivered": [],
       "archived": false
