@@ -7866,3 +7866,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [노트북을 열며] 김민석엔 침묵하고 최민희에만 발끈하는 민주당 초선들 - 굿모닝충청
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석엔 침묵하고 최민희에만 발끈하는 민주당 초선들
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE9aTGZsRE84TGx1WHo2R2VMOHJqR09pcVNPZ3ZRN2Q3X25yWkw1cjlhOEowUldQRzFrM0diRDl2SnAxRmFUeFIwNG9vNDROak9NaDc4TGxVVnFfRzYzNEY2SFBnVDhzNnBDeEd6MTdIazNCUQ?oc=5)
+
+---
+
