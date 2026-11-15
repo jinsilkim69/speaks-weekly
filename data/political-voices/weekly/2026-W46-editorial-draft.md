@@ -7281,3 +7281,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 민주당 또 때린 조국 “바람은 극복하는 것” - 채널A
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 또 때린 조국 “바람은 극복하는 것”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSZFFhM25qcVZIbGZNTVFHekdNaHhqWWY5czVidFFVTS1GbWlFMUpubUpKNjRVeUVxa2lFWnpfLXRLSU83c3FpSTJ0ZEhUSWNNTG1Ha1pZcUlOVmNKeHfSAWNBVV95cUxPemVRcGdmV2dfalE4aWRmQVQ4LXNnWEg0Z2x6UFlqWjliQ0JSV0I4MC02QXF6T25NcHEzMF9HRk9VTHQxYlZOYi1aMGIyUXpRQ1AzY2tyRTBTa09IMWFPczNUdEU?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 ‘징계조작’ 추가폭로 예고…찻잔 속 태풍? - 국제신문
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 ‘징계조작’ 추가폭로 예고…찻잔 속 태풍?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVhzZ294aUI0SkFsRXRyRUJxdDYyb1YwSEw4eDQ1dmJDc196eWhvRHRDdzd3VEY5VEJpLVpBc0F2NGxXVTlhNHpKNkhxMzkwZ3hXQmstWjFyS1UwQTdwVzFQR3NaZVpZV0w3Q1dpdmJMN05vUHN6a3hnNXN6bDRseVRocTZ2aUpyNDNQcGFB?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 대표, ‘최민희 발언 논란’ 윤리심판원 이첩 지시…징계 수순 - 국제신문
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 대표, ‘최민희 발언 논란’ 윤리심판원 이첩 지시…징계 수순
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHRub3JaRWxwa1c4RjZTWEJ4TWVaZEgtZ2NTVjFHQUZXM2Q5NTR6NE5WSVF2aXFhSVBtOC10UlJPeC1YQjJsNFJHVlFncTFZMEItcTV3SWdKc3dQV0c1WGtQWUh5ZDhjREs3NVI3S05Vc3FoU1dDMWFlUW8yTWhabGlwSFZYX1NPLVU1OW9R?oc=5)
+
+---
+
