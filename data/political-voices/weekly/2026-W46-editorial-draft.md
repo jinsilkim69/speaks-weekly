@@ -7671,3 +7671,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, ‘발언 논란’ 최민희 징계 속도…중징계 땐 친명·친청 전면전 - 한겨레
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, ‘발언 논란’ 최민희 징계 속도…중징계 땐 친명·친청 전면전
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTFBsN1JMcklvMHhyM01lbWZldERKRzNVekdFRFA2d2NhQU50MENZRS1uckEyWDlLd2pZNVgwcmprN2I0UU1rVDNKZ1lSWW5BQzQ5OEh1Q25MYnNYYUdEamtIN2JuZEZ6SXBXeE9VZURJcWpLV1dI?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** "노무현 대통령 추천, 시험 안 치고 하버드 갔다" 전한길 주장에 이준석 추가 고소 예고 - 아시아경제
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "노무현 대통령 추천, 시험 안 치고 하버드 갔다" 전한길 주장에 이준석 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiggFBVV95cUxPWldMRm5abmI2c2FxSERxd0hSWUdaRFduNXNqRmR5UW45M0hmR3EzVVItVFl5dnhLVkI2eUc5cWptVElzZDMyZUtRU0hUWllSMXpVS3k5Vzd3SVF4UWR4b1d5RERSak93c1VxWkV6SzFUU21aNGpVRUJwRWtGNDJld1hn?oc=5)
+
+---
+
