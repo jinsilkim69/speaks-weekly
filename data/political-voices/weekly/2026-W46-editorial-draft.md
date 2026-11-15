@@ -6540,3 +6540,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전 - 세계일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTFB1SE9hUklmYmRiNjlvZ0t0bDl6QktxTzRiTlFWcWhodVdZVXcybjB2aVpYcU1vM1A2RDZMQ3hfUlNzN29WNmloZkI4bmhxOS1ScWhPckU0UWUxV0tyNlRwRHR5R2lPQ2FaaXdv0gFUQVVfeXFMTVk5ODlMdVBCTENhTGlOeGRfTnBkY0ZvdWJRNGZ6bGZvZ0R5Y2tWanJYcWhMQjZodTd6NDI0bW9Xam1JcGZibVQyTmEtR2NNQ2RwVmp5?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화 - 뉴스1
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rd2pZTy1zYUsyZzNxeGtHN2d5ZWZuRnU0Yy1mTGJsTkZhTm9pMW9GM2dOM2t6QUpVZk9wZW1oQTRSSXprRldqSElnQThIeDFLOVRfMkc5WTdNdw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화 - 뉴스1
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rd2pZTy1zYUsyZzNxeGtHN2d5ZWZuRnU0Yy1mTGJsTkZhTm9pMW9GM2dOM2t6QUpVZk9wZW1oQTRSSXprRldqSElnQThIeDFLOVRfMkc5WTdNdw?oc=5)
+
+---
+

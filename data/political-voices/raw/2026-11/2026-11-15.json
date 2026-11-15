@@ -1334,5 +1334,82 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f0996b0570bac88d239e2c78f11a59a0468015d1623b0cc5191f66aeae62912b",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전 - 세계일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB1SE9hUklmYmRiNjlvZ0t0bDl6QktxTzRiTlFWcWhodVdZVXcybjB2aVpYcU1vM1A2RDZMQ3hfUlNzN29WNmloZkI4bmhxOS1ScWhPckU0UWUxV0tyNlRwRHR5R2lPQ2FaaXdv0gFUQVVfeXFMTVk5ODlMdVBCTENhTGlOeGRfTnBkY0ZvdWJRNGZ6bGZvZ0R5Y2tWanJYcWhMQjZodTd6NDI0bW9Xam1JcGZibVQyTmEtR2NNQ2RwVmp5?oc=5\" target=\"_blank\">한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1SE9hUklmYmRiNjlvZ0t0bDl6QktxTzRiTlFWcWhodVdZVXcybjB2aVpYcU1vM1A2RDZMQ3hfUlNzN29WNmloZkI4bmhxOS1ScWhPckU0UWUxV0tyNlRwRHR5R2lPQ2FaaXdv0gFUQVVfeXFMTVk5ODlMdVBCTENhTGlOeGRfTnBkY0ZvdWJRNGZ6bGZvZ0R5Y2tWanJYcWhMQjZodTd6NDI0bW9Xam1JcGZibVQyTmEtR2NNQ2RwVmp5?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 02:08:09 GMT",
+    "source": "세계일보",
+    "ageHours": 1.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "18e0b64ada8fe242921b20c2962ca37b01629ceaf2eb9e46b085db404460ceca",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화 - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rd2pZTy1zYUsyZzNxeGtHN2d5ZWZuRnU0Yy1mTGJsTkZhTm9pMW9GM2dOM2t6QUpVZk9wZW1oQTRSSXprRldqSElnQThIeDFLOVRfMkc5WTdNdw?oc=5\" target=\"_blank\">김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rd2pZTy1zYUsyZzNxeGtHN2d5ZWZuRnU0Yy1mTGJsTkZhTm9pMW9GM2dOM2t6QUpVZk9wZW1oQTRSSXprRldqSElnQThIeDFLOVRfMkc5WTdNdw?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 03:53:10 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "6bd0bf798457c4d6fbe09554ede13b6be959f9851017048887b96018916832ae",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화 - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rd2pZTy1zYUsyZzNxeGtHN2d5ZWZuRnU0Yy1mTGJsTkZhTm9pMW9GM2dOM2t6QUpVZk9wZW1oQTRSSXprRldqSElnQThIeDFLOVRfMkc5WTdNdw?oc=5\" target=\"_blank\">김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Rd2pZTy1zYUsyZzNxeGtHN2d5ZWZuRnU0Yy1mTGJsTkZhTm9pMW9GM2dOM2t6QUpVZk9wZW1oQTRSSXprRldqSElnQThIeDFLOVRfMkc5WTdNdw?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 03:53:10 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

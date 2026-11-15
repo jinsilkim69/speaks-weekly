@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T03:51:15.790Z",
+  "lastCheckedAt": "2026-11-15T04:01:15.760Z",
   "seenPostIds": {
-    "6rK966Gc64u5LCDqsqjsmrjsl5Qg7LCs": {
-      "seenAt": "2026-11-12T03:48:54.618Z",
-      "title": "경로당, 겨울엔 찬방 신세?…천하람 \"스마트 한파 쉼터 구축\" - 이데일리",
-      "targetName": "천하람"
-    },
     "7KGw6rWt7ZiB7Iug64u5ICLssq3tlbTr": {
       "seenAt": "2026-11-12T03:48:54.951Z",
       "title": "조국혁신당 \"청해부대 파견은 사실상 우회파병… 당론으로 반대\" - TV서울",
@@ -2505,7 +2500,39 @@
       "seenAt": "2026-11-15T03:51:17.043Z",
       "title": "조국 이미 늦었지만…조희대 탄핵 후 사법개혁 완수하자 - 아주경제",
       "targetName": "조국"
+    },
+    "f0996b0570bac88d239e2c78f11a59a0468015d1623b0cc5191f66aeae62912b": {
+      "seenAt": "2026-11-15T04:01:16.936Z",
+      "title": "한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전 - 세계일보",
+      "targetName": "한동훈"
+    },
+    "18e0b64ada8fe242921b20c2962ca37b01629ceaf2eb9e46b085db404460ceca": {
+      "seenAt": "2026-11-15T04:01:17.672Z",
+      "title": "김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화 - 뉴스1",
+      "targetName": "김민석"
+    },
+    "6bd0bf798457c4d6fbe09554ede13b6be959f9851017048887b96018916832ae": {
+      "seenAt": "2026-11-15T04:01:18.408Z",
+      "title": "김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화 - 뉴스1",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "ba096408c0cdbc352ce5552a9cfb82026eec49430b14bc7b7beb6005b28fe9f8",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Judge issues temporary block against Trump on Washington public golf course redevelopment - LiveNOW from FOX",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0JWM2dIQnBKLTVnSElHU2Y2RHFoemFITGhILUptWmZDYThVVklSS3hrTjU0M2VDcXdYTlVtbVFtalZVbnRyOUZVT1pCaGxrc2FDV2tEMVFpR2wxYktsTUdabV9KWER5SXhGY3NFMUd2UXJ5ZlRvMW5STVcta0pCdWxXSkMza09nSzZwUUlsb1FvNThfZ09XeEpDeDVaVFhKTTZ3ZzNuWlc4QUNwVGU3LUp0cTBWdTE2NGc?oc=5\" target=\"_blank\">Judge issues temporary block against Trump on Washington public golf course redevelopment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveNOW from FOX</font>",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0JWM2dIQnBKLTVnSElHU2Y2RHFoemFITGhILUptWmZDYThVVklSS3hrTjU0M2VDcXdYTlVtbVFtalZVbnRyOUZVT1pCaGxrc2FDV2tEMVFpR2wxYktsTUdabV9KWER5SXhGY3NFMUd2UXJ5ZlRvMW5STVcta0pCdWxXSkMza09nSzZwUUlsb1FvNThfZ09XeEpDeDVaVFhKTTZ3ZzNuWlc4QUNwVGU3LUp0cTBWdTE2NGc?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 03:47:16 GMT",
+        "source": "LiveNOW from FOX",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
