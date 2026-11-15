@@ -7554,3 +7554,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 대표, 최민희 최고위원 윤리심판원 이첩 지시…징계 절차 시작 - 스페셜타임스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 대표, 최민희 최고위원 윤리심판원 이첩 지시…징계 절차 시작
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE9jcC1IQTh5MHJmOHJUWU9uTzltYm56VE1ONjNqdmQ2ejhzTWk5d3c0LXowZm1FNV80cHlpdjFXZjdmU2VhYnRaUDBQSUhlVnY0eC1mdWlCQk9vaEZ1U0tEOEQzcktrZ0tUd0x5RjlhOUFIQQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 감찰 결과 보고 받고 윤리심판원 이첩 지시 - SBS 뉴스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 감찰 결과 보고 받고 윤리심판원 이첩 지시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9Xay1XOTBUY3E3V0FzNlhlYnZiT29FeXRDcGJaUnlpQ1BxT2Zia1daQnA5NXV5Q01xeEhSR1pZM3dvVkN1cFNqd2VRWU1ZNE5EYXplWjdEd3pLWnFfM1oyTGNDb0x1cWVPVlE?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** ‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes - The Guardian
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVJPaGFQel9iOFVleXFta3ZybVhldVV5LW9oRk9HckJxeWgzRVBwWWRGaDdDUFdoYjRhZEZZVjJSd1ZXWHVHWkR0bDVvTkIzOUIwbGdORng1X0xtVEREWVlaeXRDaEhLNlloZVB6M3ZPaXlMQjRJYmpzcUljSzc3Y2xUS2o?oc=5)
+
+---
+
