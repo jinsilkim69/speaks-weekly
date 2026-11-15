@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-15T14:21:17.020Z",
+  "lastCheckedAt": "2026-11-15T14:31:14.819Z",
   "seenPostIds": {
     "da1de34f7b34fbd0514aa4c88d3e897a39c1e825c3a493f46121265d5cd5f7df": {
       "seenAt": "2026-11-12T16:11:21.049Z",
@@ -2500,6 +2500,16 @@
       "seenAt": "2026-11-15T13:51:19.256Z",
       "title": "\"노무현 대통령 추천, 시험 안 치고 하버드 갔다\" 전한길 주장에 이준석 추가 고소 예고 - 아시아경제",
       "targetName": "이준석"
+    },
+    "363ada663760909d6fcb09ef93eb7402c665afd76b03e164740012d2cea70323": {
+      "seenAt": "2026-11-15T14:31:15.870Z",
+      "title": "김민석, 최민희 감찰 윤리심판원 이첩…친청계 \"金 징계청원도 접수\"(종합) - 뉴시스",
+      "targetName": "김민석"
+    },
+    "e3a8db1c7512405d116a6bc35f427d169753eef6d9268efe35ecbea4058cc06e": {
+      "seenAt": "2026-11-15T14:31:16.530Z",
+      "title": "Donald Trump breaks silence on nationwide grounding of all flights, blames Biden - The Jerusalem Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

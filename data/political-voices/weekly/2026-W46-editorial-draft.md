@@ -7697,3 +7697,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 감찰 윤리심판원 이첩…친청계 "金 징계청원도 접수"(종합) - 뉴시스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 감찰 윤리심판원 이첩…친청계 "金 징계청원도 접수"(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1KVThlN0FvbU44bUt3M3hDVlJXaVJrOFJLakUwbW9QSUJON3RTTHhweU1jU1Z5SnJOZlpXV0pQNzZ6eHM2cC1XMlNWbm16SDZXMUYxUmJuakRiNVpOd1ZXT0xIbFJySTJ6bk9HOUNEbEh3ZS1wWnVHWNIBeEFVX3lxTE1KVThlN0FvbU44bUt3M3hDVlJXaVJrOFJLakUwbW9QSUJON3RTTHhweU1jU1Z5SnJOZlpXV0pQNzZ6eHM2cC1XMlNWbm16SDZXMUYxUmJuakRiNVpOd1ZXT0xIbFJySTJ6bk9HOUNEbEh3ZS1wWnVHWA?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump breaks silence on nationwide grounding of all flights, blames Biden - The Jerusalem Post
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump breaks silence on nationwide grounding of all flights, blames Biden
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GU0NjSVpoeGptRWFpSjZFdmlSRTB6djRoLVIxQjg5bTBMRnBISEVpbFdjMy1wRTRubENKakxoNF9YZ0hLeS1TMXZnMzVzUkMzUnZweEhJaXFaUFI2X01r?oc=5)
+
+---
+
