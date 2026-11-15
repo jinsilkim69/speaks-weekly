@@ -7164,3 +7164,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '한동훈 복당론' 힘 받을까 - 한국경제
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '한동훈 복당론' 힘 받을까
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE95aGVzWHp0TzB6d2dnRjNJWXJFSk9mX0NJY1F0ZXBzOE5RNXlBRFFEdjkwcFk2M2xkRzk0MzQyZGJpaXFaS2ZzME1mcjlqdmczcGstMkdqbkhCQQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 안철수가 응원하는(?) 한동훈 신당…‘영남판 국민의당’ 가능할까 - 에너지경제신문
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 안철수가 응원하는(?) 한동훈 신당…‘영남판 국민의당’ 가능할까
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yM3ZrSjI5MmdXdHVJZjBJV0tHMl9WVUVOMHpEX09wRGlKSjNEa1dmay1RMU90Y0hibnFacWVFcWxjenZ4U0huNUJwSzNObFI4ZklEb09mdUlPVjQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 "대통령께 사죄" 숙였지만 … 김민석 때리기는 계속 - 매일경제
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 "대통령께 사죄" 숙였지만 … 김민석 때리기는 계속
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3ZGZ3MkQxM3FVeTFFNDUyeGN5U0pwUk1ENkJmV2VjblVaQXZZekVuWDBDYVlONk9ZeWZ5T2c4VGpCZ0o0X0E?oc=5)
+
+---
+

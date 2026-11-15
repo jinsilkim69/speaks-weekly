@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-15T09:41:16.638Z",
+  "lastCheckedAt": "2026-11-15T09:51:19.006Z",
   "seenPostIds": {
     "cb281e686edbbf75c911cb89f1f60fcf2f0f9bf22b666260dd45b652940c8c58": {
       "seenAt": "2026-11-12T14:01:18.360Z",
@@ -2500,7 +2500,55 @@
       "seenAt": "2026-11-15T09:31:16.696Z",
       "title": "[속보] 김민석, 최민희 감찰결과 보고받아…윤리심판원 이첩 지시 - 조선일보",
       "targetName": "김민석"
+    },
+    "c2873ade150475101805baacadfd3d9c977eddca302878be580cfefd70ec0cee": {
+      "seenAt": "2026-11-15T09:51:20.023Z",
+      "title": "'한동훈 복당론' 힘 받을까 - 한국경제",
+      "targetName": "한동훈"
+    },
+    "3ed2d6544b67702e56d80b0ed1481e3b09c0f6bb5f9862918c0f280f1b4678fa": {
+      "seenAt": "2026-11-15T09:51:21.225Z",
+      "title": "안철수가 응원하는(?) 한동훈 신당…‘영남판 국민의당’ 가능할까 - 에너지경제신문",
+      "targetName": "한동훈"
+    },
+    "7914c58508b410c5f4b5ab7a222e44d7d94021834958a14e852ace604d59b319": {
+      "seenAt": "2026-11-15T09:51:21.848Z",
+      "title": "최민희 \"대통령께 사죄\" 숙였지만 … 김민석 때리기는 계속 - 매일경제",
+      "targetName": "김민석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "3957a93c2dc276d83a6ff48bff229f629ad0efc08d7579425aa378d1292f4194",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump rages at judge holding up DC golf course – but remains silent on flight chaos - The Independent",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGhUZEVVbGUxMy1NYnVicUR5SDhfVlc2NXd3Z0JNTmVHZVZob3daWjJOUUtucWN5ZTVqanFEbHUyX0ZjS2pfZ1h4clZKTXBpTmhZVTduOTg0NS04WUlyWnhublJDaUJndjgyLTd0NGhzdkl5TjF4eEtYTDQ2X0hEYmRKWUh3d0EzTTFhcXFZMG11dHFzRkF6Q3dtaXFuOEJ6S0VSaXUxTnNKY3FYYXpVTDR3?oc=5\" target=\"_blank\">Trump rages at judge holding up DC golf course – but remains silent on flight chaos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVGhUZEVVbGUxMy1NYnVicUR5SDhfVlc2NXd3Z0JNTmVHZVZob3daWjJOUUtucWN5ZTVqanFEbHUyX0ZjS2pfZ1h4clZKTXBpTmhZVTduOTg0NS04WUlyWnhublJDaUJndjgyLTd0NGhzdkl5TjF4eEtYTDQ2X0hEYmRKWUh3d0EzTTFhcXFZMG11dHFzRkF6Q3dtaXFuOEJ6S0VSaXUxTnNKY3FYYXpVTDR3?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 09:02:00 GMT",
+        "source": "The Independent",
+        "ageHours": 0.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "bec5ee6e0c95d5060831ecc0c6a7633cd8afcedae0470c3db90c11e53f0f4d0c",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump takes down image from his social media platform that depicted him as a Jesus-like figure - ABC News - Breaking News, Latest News and Videos",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNYXNiOEgwd3JrMjlEeFlzTDNqTXA3SGd4MGZuRTRBaWpuYlN5cUxCVDB0Ulh4THJTYzFjRUh0TmZLcFp5T1l1bFdCam5VZ0hIb09zVlF3dC1aWmZON3dVanlna2hydFJRVDA0SmczdlctRlVSMjcyZnMyN2ZqYndCNUZqQnR0N2lZSEJ4SFhnVjZ6dEx5emVOUDRvQzB4R2UyQ3p3ddIBqgFBVV95cUxPVHVOdk1raXZfc2JQQjJVYk9GTUxNWDMybmowbHBraDFGV2xwMzFlemdYcFdDSmdkVDVqUE83SmxYSk83MV9qZU9oQWk5cU1DNlhnZG5oQXFwX2pfem1OelhxU0UyTGZMc0h1c0tRVGxJRzVfYXpNdkx5RzBJRGlweDdvLTh0WU1HMkh3VV9qOFBuWFFkVlhGMlVGXy1GSENsWGpFRzE1SFlxQQ?oc=5\" target=\"_blank\">Trump takes down image from his social media platform that depicted him as a Jesus-like figure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYXNiOEgwd3JrMjlEeFlzTDNqTXA3SGd4MGZuRTRBaWpuYlN5cUxCVDB0Ulh4THJTYzFjRUh0TmZLcFp5T1l1bFdCam5VZ0hIb09zVlF3dC1aWmZON3dVanlna2hydFJRVDA0SmczdlctRlVSMjcyZnMyN2ZqYndCNUZqQnR0N2lZSEJ4SFhnVjZ6dEx5emVOUDRvQzB4R2UyQ3p3ddIBqgFBVV95cUxPVHVOdk1raXZfc2JQQjJVYk9GTUxNWDMybmowbHBraDFGV2xwMzFlemdYcFdDSmdkVDVqUE83SmxYSk83MV9qZU9oQWk5cU1DNlhnZG5oQXFwX2pfem1OelhxU0UyTGZMc0h1c0tRVGxJRzVfYXpNdkx5RzBJRGlweDdvLTh0WU1HMkh3VV9qOFBuWFFkVlhGMlVGXy1GSENsWGpFRzE1SFlxQQ?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 17:39:14 GMT",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "ageHours": 16.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
