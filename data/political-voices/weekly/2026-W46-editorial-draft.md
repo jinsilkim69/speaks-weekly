@@ -7320,3 +7320,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 언행 논란 윤리심판원 이첩…사실상 징계 수순 - 강원도민일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 언행 논란 윤리심판원 이첩…사실상 징계 수순
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tcTFvR3dSdEJlWXFTd1RqRm9wRnRGa2VTSzJGdl9sYmtEUXJaMVNlWjJJdThQX2l2OTA4TlMxOGhWZnlvd0xsOEg2VTNZdGM4LTU5c2JaNjZlbFJVRGJPUmwxTXhOcU9q?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 언행 논란 최민희 윤리심판원 이첩…근시일 내 징계 발표될 듯 - 아주경제
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 언행 논란 최민희 윤리심판원 이첩…근시일 내 징계 발표될 듯
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tdUNrblY3Rl8wZDBDTGpCaHZSMTZ5XzhQeldPQjd0T09WRnl0OW5fMXVsdGRyaFlzY0M5TnRsWkJLSjFFc0NkNGNLSlVsamZwMEJDZk11Z3XSAVhBVV95cUxPbXVDa25WN0ZfMGQwQ0xqQmh2UjE2eV84UHpXT0I3dE9PVkZ5dDluXzF1bHRkcmhZc2NDOU50bFpCS0oxRXNDZDRjS0pVbGpmcDBCQ2ZNdWd1?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** “대통령도 탄핵 반대” 최민희 징계받나···김민석, 감찰 결과 윤리심판원 이첩 - 주간경향
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “대통령도 탄핵 반대” 최민희 징계받나···김민석, 감찰 결과 윤리심판원 이첩
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sU1JNMW51ZllhalVjUUU5MllPTXA2c1Qwci1fWlhMSl9sOUo1MHFkajJkSzZrRGl1bmNTbWExM20wQ05lWmVJcTJ0S0t5cEVFQ3FSZTZyOEJOQWlRcHc?oc=5)
+
+---
+

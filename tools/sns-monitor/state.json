@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T10:21:19.384Z",
+  "lastCheckedAt": "2026-11-15T10:31:14.515Z",
   "seenPostIds": {
-    "d57a8e57eadb0d0a52a7494766665f6cb9323a8e7d0ea89d3ee6a11fe17c1cde": {
-      "seenAt": "2026-11-12T14:31:20.038Z",
-      "title": "정청래, 김민석 대화 제안에 “자기 장사하나…사과부터 제대로” - 경기일보",
-      "targetName": "정청래"
-    },
-    "9aff0147d10f1fc316375072de7e8a766e3bde49e52ef6634df746719fad9bbc": {
-      "seenAt": "2026-11-12T14:31:20.780Z",
-      "title": "김민석 \"만나서 대화\"…정청래 \"피해자에 합의강요는 2차 가해\" - 연합뉴스TV",
-      "targetName": "정청래"
-    },
-    "66fb2ef0264540a8eeb05b97d919350c5d63a467c76dc4eeb69db9675b7dbb6b": {
-      "seenAt": "2026-11-12T14:31:21.486Z",
-      "title": "정청래 SNS에 대인배 박지원옹 반응 #shorts #오마이tv - 오마이TV - OhmyNews",
-      "targetName": "정청래"
-    },
     "b9cb8dd38f1443004f31e228ce8c48fbda2aecb78dd17474103926cb3a7d5139": {
       "seenAt": "2026-11-12T14:41:18.928Z",
       "title": "與 신천지 갈등…김민석 \"만나서 대화\" vs 정청래 \"사과부터 제대로\" - 뉴스웍스",
@@ -2515,24 +2500,22 @@
       "seenAt": "2026-11-15T10:21:22.895Z",
       "title": "김민석 대표, ‘최민희 발언 논란’ 윤리심판원 이첩 지시…징계 수순 - 국제신문",
       "targetName": "김민석"
+    },
+    "e9d8f2a2e4125170a7e8b629df24b967ff17674659177690158f5c841d32e3b6": {
+      "seenAt": "2026-11-15T10:31:15.527Z",
+      "title": "김민석, 최민희 언행 논란 윤리심판원 이첩…사실상 징계 수순 - 강원도민일보",
+      "targetName": "김민석"
+    },
+    "0e01e78c6b552b3aa20d09f792a98a253018cadb15c5590b34bfba1a2487ebb3": {
+      "seenAt": "2026-11-15T10:31:16.161Z",
+      "title": "김민석, 언행 논란 최민희 윤리심판원 이첩…근시일 내 징계 발표될 듯 - 아주경제",
+      "targetName": "김민석"
+    },
+    "1dc2832a3fe386f15d5cd71f8447412197da1f77cc33aeb330358ec1360bae03": {
+      "seenAt": "2026-11-15T10:31:16.781Z",
+      "title": "“대통령도 탄핵 반대” 최민희 징계받나···김민석, 감찰 결과 윤리심판원 이첩 - 주간경향",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "e9d8f2a2e4125170a7e8b629df24b967ff17674659177690158f5c841d32e3b6",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, 최민희 언행 논란 윤리심판원 이첩…사실상 징계 수순 - 강원도민일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tcTFvR3dSdEJlWXFTd1RqRm9wRnRGa2VTSzJGdl9sYmtEUXJaMVNlWjJJdThQX2l2OTA4TlMxOGhWZnlvd0xsOEg2VTNZdGM4LTU5c2JaNjZlbFJVRGJPUmwxTXhOcU9q?oc=5\" target=\"_blank\">김민석, 최민희 언행 논란 윤리심판원 이첩…사실상 징계 수순</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원도민일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tcTFvR3dSdEJlWXFTd1RqRm9wRnRGa2VTSzJGdl9sYmtEUXJaMVNlWjJJdThQX2l2OTA4TlMxOGhWZnlvd0xsOEg2VTNZdGM4LTU5c2JaNjZlbFJVRGJPUmwxTXhOcU9q?oc=5",
-        "pubDate": "Sun, 15 Nov 2026 10:03:59 GMT",
-        "source": "강원도민일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
