@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T22:21:15.967Z",
+  "lastCheckedAt": "2026-11-15T22:31:16.649Z",
   "seenPostIds": {
-    "179c84602baf147ce4c17c8774a6691929deb103c5f1b1a5cf313e68cd1678f0": {
-      "seenAt": "2026-11-12T17:21:19.408Z",
-      "title": "김민석, '언행 논란' 최민희 감찰조사 지시…\"심각 인식\"(종합) - 연합뉴스",
-      "targetName": "김민석"
-    },
     "cc094bea678a687d30e298ee8d9db6afa3234b6f62dfcc21d37e61d67ecb7161": {
       "seenAt": "2026-11-12T17:31:17.188Z",
       "title": "[줌 인 여의도] 보수 살길 '4인(오세훈, 한동훈, 장동혁, 이준석) 4색' 주장… 어느 것이 통할까 - 대구일보",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-15T22:21:17.399Z",
       "title": "Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts - Time Magazine",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "af656a2c77153fa254c0aa3b0cc3d42823cba3402981a0610458376e4d7b546b": {
+      "seenAt": "2026-11-15T22:31:17.715Z",
+      "title": "친명 김남희 \"최민희 묵과 못해, 엄중 조치\" vs 친청 한민수 \"김민석도 같은 잣대를\" - 뉴스1",
+      "targetName": "김민석"
     }
   },
   "pending": []
