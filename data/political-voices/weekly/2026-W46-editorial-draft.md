@@ -6527,3 +6527,16 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 이미 늦었지만…조희대 탄핵 후 사법개혁 완수하자 - 아주경제
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 이미 늦었지만…조희대 탄핵 후 사법개혁 완수하자
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE01Vm53LTg2UTVmd3dIV2JlanEtMU81alBDLXl4c3Y0YmpzWlVuRGlDUHlWME55TldEZmZvYmQyckFYSmx6R0F3U1V1bUxLcXdib0E2UnlWVWPSAVhBVV95cUxNNVZudy04NlE1Znd3SFdiZWpxLTFPNWpQQy15eHN2NGJqc1pVbkRpQ1B5VjBOeU5XRGZmb2JkMnJBWEpsekdBd1NVdW1MS3F3Ym9BNlJ5VlVj?oc=5)
+
+---
+

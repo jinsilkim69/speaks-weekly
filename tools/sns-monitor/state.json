@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T03:41:14.843Z",
+  "lastCheckedAt": "2026-11-15T03:51:15.790Z",
   "seenPostIds": {
-    "7J207KSA7ISdICIyMOunjO2YuCDspons": {
-      "seenAt": "2026-11-12T03:48:54.385Z",
-      "title": "이준석 \"20만호 즉시 공급할 부지 있다…취득·양도세 감면 추진\" - 이데일리",
-      "targetName": "이준석"
-    },
     "6rK966Gc64u5LCDqsqjsmrjsl5Qg7LCs": {
       "seenAt": "2026-11-12T03:48:54.618Z",
       "title": "경로당, 겨울엔 찬방 신세?…천하람 \"스마트 한파 쉼터 구축\" - 이데일리",
@@ -2504,6 +2499,11 @@
     "971dc0a4524242f839d7d2d0b9cdeac26e7a21aa14a881ab0a79cc0e1f369ab5": {
       "seenAt": "2026-11-15T03:41:15.807Z",
       "title": "조국 \"늦었지만 조희대 탄핵해야…민주, 아무 일 하지 않아 내부서 역풍\" - 더팩트",
+      "targetName": "조국"
+    },
+    "74b31ade8c7b9a0e8434c6c43be48447b4466c6dffe175f3f91e169330f4bce6": {
+      "seenAt": "2026-11-15T03:51:17.043Z",
+      "title": "조국 이미 늦었지만…조희대 탄핵 후 사법개혁 완수하자 - 아주경제",
       "targetName": "조국"
     }
   },
