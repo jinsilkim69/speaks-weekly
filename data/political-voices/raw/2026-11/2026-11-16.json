@@ -23,5 +23,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "13b2d1f459e1b6b5ec6dd4ee1000b75dbc7639451498386f94f0ea3113f70f33",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "‘깃발’ 놓고 고민하는 정청래⋯ 신천지로 반전 노리지만 역부족 - 국민일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xWHNfWU1yRXd0eEdMXzlRZjY3SkZ4OEE1NjVBSWw1dVBBVHRYSG1iUVJhMVRzOWk1UTdHX1BpdWZHSzR5NF92dUp1cmlxZ093Q28yckFhSUk?oc=5\" target=\"_blank\">‘깃발’ 놓고 고민하는 정청래⋯ 신천지로 반전 노리지만 역부족</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국민일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xWHNfWU1yRXd0eEdMXzlRZjY3SkZ4OEE1NjVBSWw1dVBBVHRYSG1iUVJhMVRzOWk1UTdHX1BpdWZHSzR5NF92dUp1cmlxZ093Q28yckFhSUk?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 14:10:00 GMT",
+    "source": "국민일보",
+    "ageHours": 1.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘깃발’ 놓고 고민하는 정청래⋯ 신천지로 반전 노리지만 역부족",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T15:11:16.650Z",
+  "lastCheckedAt": "2026-11-15T15:31:16.071Z",
   "seenPostIds": {
-    "56214c2d19c00d1dea00c097e66478b14ad848c593358738fa0247fc05f76544": {
-      "seenAt": "2026-11-12T16:31:18.124Z",
-      "title": "Trump gives Hegseth an A-plus amid impeachment efforts - USA Today",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "cb6563b7ed56ecc3439de2e37212e22813fde8a14c3c243e30e76860071805f1": {
       "seenAt": "2026-11-12T16:31:18.744Z",
       "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-15T15:11:18.039Z",
       "title": "Trump blames Biden for nationwide travel stoppage - The Independent",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "13b2d1f459e1b6b5ec6dd4ee1000b75dbc7639451498386f94f0ea3113f70f33": {
+      "seenAt": "2026-11-15T15:31:17.216Z",
+      "title": "‘깃발’ 놓고 고민하는 정청래⋯ 신천지로 반전 노리지만 역부족 - 국민일보",
+      "targetName": "정청래"
     }
   },
   "pending": []
