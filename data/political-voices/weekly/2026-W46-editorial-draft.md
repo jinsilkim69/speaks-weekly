@@ -6722,3 +6722,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** "시험 안 치고 노무현 추천으로 하버드 갔다" 전한길 주장에…이준석 "16일 추가 형사 조치" - 부산파이낸셜뉴스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "시험 안 치고 노무현 추천으로 하버드 갔다" 전한길 주장에…이준석 "16일 추가 형사 조치"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOREUtQUZEVXRpVnY0VHJldjhXdnV0bEhsY2hZQWQ5VnpPejBWaWlhaUJRY0ZHOTFNanRXcFJLR1B3d3pCZWdUTnVSeUtoVlRtMGVyR0p0RnRTcWI5?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 하버드 입학 의혹 제기한 전한길 추가 고소 예고 - 대전일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 하버드 입학 의혹 제기한 전한길 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE1rTDJfbXViVGJiRWhjME95aHV4aU5SZEtVWS1CYUlvNlNFd2FJVE15TWlBVFFEM3hWbTh4YzdVeWRzNkRhaWlEUDJva2pIVkEwdkw3NnRaWUFiSUc1ZE5ZU2RuMm9oY1Q1SzBuMVZ4OHNTUUnSAXNBVV95cUxNa0wyX211YlRiYkVoYzBPeWh1eGlOUmRLVVktQmFJbzZTRXdhSVRNeU1pQVRRRDN4Vm04eGM3VXlkczZEYWlpRFAyb2tqSFZBMHZMNzZ0WllBYklHNWROWVNkbjJvaGNUNUswbjFWeDhzU1FJ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “조희대, 한덕수 구속 유지로 ‘탄핵 접어달라’ 메시지 보낼 수도” - 주간경향
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “조희대, 한덕수 구속 유지로 ‘탄핵 접어달라’ 메시지 보낼 수도”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE44M0dmREg5Rnh2bEE3MEZaM3VZdjVNTmFWMDFuTGJOUTI5cDBJYnBZV1RhcnhTZ1VuZnFnUHpUV0t1dzE0dGlIU0JmZ3hDcWtTUDZ6S0MwTzdxYktXSUE?oc=5)
+
+---
+
