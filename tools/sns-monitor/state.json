@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T02:21:17.090Z",
+  "lastCheckedAt": "2026-11-15T02:31:15.715Z",
   "seenPostIds": {
-    "7Jyk7IOB7ZiELCDlrokgYO2VnOuPme2b": {
-      "seenAt": "2026-11-12T03:48:53.366Z",
-      "title": "윤상현, 安 `한동훈 복당` 비판에 `분열의 늪 더 두려워`…`오동석장` 재차 제안 - 매일신문",
-      "targetName": "한동훈"
-    },
-    "7JWI7LKg7IiYLCDtlZzrj5ntm4gg67O1": {
-      "seenAt": "2026-11-12T03:48:53.366Z",
-      "title": "안철수, 한동훈 복당론에 \"물귀신 행태…차라리 창당하시라\" - 아시아경제",
-      "targetName": "한동훈"
-    },
     "7JWI7LKg7IiYIOKAnO2VnOuPme2biCDr": {
       "seenAt": "2026-11-12T03:48:53.366Z",
       "title": "안철수 “한동훈 복당? 물귀신 행태…차라리 창당을” - 한겨레",
@@ -2510,7 +2500,39 @@
       "seenAt": "2026-11-15T02:21:19.380Z",
       "title": "송영길 의원, 소방재정 안정화·구급차 제도 개선 추진 - 일간투데이",
       "targetName": "송영길"
+    },
+    "eb429167b0e094611f43bdfcc2554cdcdcecc8bb81dfc0a857830b849da5e43b": {
+      "seenAt": "2026-11-15T02:31:17.095Z",
+      "title": "조국 \"與, 아무 일도 하지 않아 진영 내부서 역풍…조희대 탄핵해야\" - 뉴시스",
+      "targetName": "조국"
+    },
+    "4d2a3439885e9097b53c519366014b71116dac21a0cc5f5b1def0f7591b55aeb": {
+      "seenAt": "2026-11-15T02:31:17.850Z",
+      "title": "신장식 조국혁신당 원내대표 “굴 어업인 위한 문제 제기였다”…통영서 직접 해명 - 통영신문",
+      "targetName": "신장식"
+    },
+    "3213a677ee22426bfa31b11e3766ef843342319b5d150ae0f7d909668eac1102": {
+      "seenAt": "2026-11-15T02:31:18.592Z",
+      "title": "Where is Trump? He hasn’t commented on FAA incident - CNN",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "f0d7a52f04dbf1b5c2ff9988e12140098010ae257329c143c0e5f52584c7b54b",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Posts More Than 40 Images Of Latest Renovation Obsession Amid Heated Legal Battle - HuffPost",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOR2YweE5JeXFSb1ZQU1VQT2U1UERjRFY1eTIyZTQ5aWtxQV9SYWs2blVVczAyLURvc3dxcnZrc3pyZmxpUFpsTEdrekNON28yenRfb1c3MUJOTTdWRTRocFZtZm9yX2hvU3JGWlJ4YjI2MEpST3h3YklWdmdMY2oybnZsRjhRZlFUTTlrWU9iejkwT3NJbzNPX1FmV3FjZzB2QmxR0gGoAUFVX3lxTE9fLVZTN2hHVHpjai02amktZEtlQk81Tl9fUTRjeEZoSkdJZ2JBQ1B4Q1l6VkQ0a1lhZEhLZkRyQ1Rua2gxbXZ3bjVBVl9rOUVhcUNfYjVYTkFINjB4dndGZzlyMEZGaFVmR0xwQTRWOE9vMDBGcUZaTHZWQXM3eXR0UU5BRkx5ZERhalhLbkU5dmNSdmp1aDBfRkJGa1VRWWZkdFJxdTNaRQ?oc=5\" target=\"_blank\">Trump Posts More Than 40 Images Of Latest Renovation Obsession Amid Heated Legal Battle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HuffPost</font>",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR2YweE5JeXFSb1ZQU1VQT2U1UERjRFY1eTIyZTQ5aWtxQV9SYWs2blVVczAyLURvc3dxcnZrc3pyZmxpUFpsTEdrekNON28yenRfb1c3MUJOTTdWRTRocFZtZm9yX2hvU3JGWlJ4YjI2MEpST3h3YklWdmdMY2oybnZsRjhRZlFUTTlrWU9iejkwT3NJbzNPX1FmV3FjZzB2QmxR0gGoAUFVX3lxTE9fLVZTN2hHVHpjai02amktZEtlQk81Tl9fUTRjeEZoSkdJZ2JBQ1B4Q1l6VkQ0a1lhZEhLZkRyQ1Rua2gxbXZ3bjVBVl9rOUVhcUNfYjVYTkFINjB4dndGZzlyMEZGaFVmR0xwQTRWOE9vMDBGcUZaTHZWQXM3eXR0UU5BRkx5ZERhalhLbkU5dmNSdmp1aDBfRkJGa1VRWWZkdFJxdTNaRQ?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 22:54:54 GMT",
+        "source": "HuffPost",
+        "ageHours": 3.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
