@@ -750,5 +750,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "53b7d65612b0a08097f16ab6720d88576265743c9588a385614902d93777fc3c",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "민주·조국혁신당 합당 반대 38%…한동훈 복당도 반대 우세[한국갤럽] - 미디어인뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBCdkVhUGhsdS00eTc3NGpJMEpjSU9meVYyOFhwb1p0SUpQaWpSblRPUFNTaEIzNVFpZVVpeExFOUJrS1N2dzZHMGpQeDFQd21IeGNSUUFhZzlDa25mYUxVaWI1cU14OTZ0YndjWFZn?oc=5\" target=\"_blank\">민주·조국혁신당 합당 반대 38%…한동훈 복당도 반대 우세[한국갤럽]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미디어인뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCdkVhUGhsdS00eTc3NGpJMEpjSU9meVYyOFhwb1p0SUpQaWpSblRPUFNTaEIzNVFpZVVpeExFOUJrS1N2dzZHMGpQeDFQd21IeGNSUUFhZzlDa25mYUxVaWI1cU14OTZ0YndjWFZn?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 00:57:47 GMT",
+    "source": "미디어인뉴스",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주·조국혁신당 합당 반대 38%…한동훈 복당도 반대 우세",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

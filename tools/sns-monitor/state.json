@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T01:01:15.310Z",
+  "lastCheckedAt": "2026-11-15T01:11:14.560Z",
   "seenPostIds": {
-    "VHJ1bXAgdGFyZ2V0cyBOZXcgWW9yayBU": {
-      "seenAt": "2026-11-11T23:06:19.508Z",
-      "title": "Trump targets New York Times over coverage of Bedminster suit, C-SPAN call - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "VHJ1bXAgZGVmbGVjdHMgYmxhbWUgZm9y": {
-      "seenAt": "2026-11-11T23:06:19.508Z",
-      "title": "Trump deflects blame for Republican midterm losses as finger-pointing begins - Scripps News",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "VHJ1bXAgUmFnZXMgQXQgT2xkIE5lbWVz": {
       "seenAt": "2026-11-11T23:06:19.508Z",
       "title": "Trump Rages At Old Nemesis At 1:25 A.M. On Truth Social – And Comes Back For More - HuffPost",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-15T01:01:17.070Z",
       "title": "Trump says he’s working with bipartisan senators on film industry legislation - The Hill",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "53b7d65612b0a08097f16ab6720d88576265743c9588a385614902d93777fc3c": {
+      "seenAt": "2026-11-15T01:11:15.858Z",
+      "title": "민주·조국혁신당 합당 반대 38%…한동훈 복당도 반대 우세[한국갤럽] - 미디어인뉴스",
+      "targetName": "조국"
     }
   },
   "pending": []
