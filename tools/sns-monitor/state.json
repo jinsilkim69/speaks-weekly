@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T09:11:14.847Z",
+  "lastCheckedAt": "2026-11-15T09:21:14.348Z",
   "seenPostIds": {
-    "55befce14b485b211f3174bfe9a41caa18e48cbdb6a48fc5e86b70a5bc773d8a": {
-      "seenAt": "2026-11-12T13:04:27.050Z",
-      "title": "[심층분석]이재명 대통령 지지율 44%·부정평가 47%…부동산 민심은 역전..\"대통령 SNS·유튜브 직접 소통 줄여야\" 우세 - 창업일보",
-      "targetName": "이재명"
-    },
-    "7d13d547a6c7ba32e3a2f931e61d021245d9b3f4890bbe7ff26d3eb33b530d46": {
-      "seenAt": "2026-11-12T13:04:27.657Z",
-      "title": "이재명 지지율 44%로 하락…국민 51% “대통령 SNS 소통 줄여야” [NBS] - 시사타파NEWS",
-      "targetName": "이재명"
-    },
-    "251d30a192ea71551f3099029632ee1f05a14264ef4753392fadcab81172889f": {
-      "seenAt": "2026-11-12T13:04:28.002Z",
-      "title": "한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까 - 에너지경제신문",
-      "targetName": "한동훈"
-    },
     "62fb27bd7c2792970065a3ec9e5addeeeff982371e2d2225624e67efb6dad4b7": {
       "seenAt": "2026-11-12T13:05:39.771Z",
       "title": "적반하장 그 자체! \"전형적 벼락출세 한동훈\" #shorts - 오마이TV - OhmyNews",
@@ -2515,37 +2500,52 @@
       "seenAt": "2026-11-15T09:11:17.856Z",
       "title": "[속보] 김민석, ‘언행논란’ 최민희 감찰결과 보고받아…심판원 이첩지시 - 중앙일보",
       "targetName": "김민석"
+    },
+    "626a00881cc558c9e467ed424e269406951057d3635cf0db0c99c03d41af3f9c": {
+      "seenAt": "2026-11-15T09:21:15.358Z",
+      "title": "조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이 - 머니투데이",
+      "targetName": "조국"
+    },
+    "9dd455127e4b5fb14324e5bdcebfb31d94a2d338fd154bb360ebc224d2e05a7b": {
+      "seenAt": "2026-11-15T09:21:15.984Z",
+      "title": "Trump Hides Out Amid Crisis to Rage Over Golf Course - The Daily Beast",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "bf8b59d27aae4d0704bf1b0ddb0b6a2d46d33c8b6cbd3972ec01e38881766115": {
+      "seenAt": "2026-11-15T09:21:16.596Z",
+      "title": "이재명 대통령 얼굴로 영정사진 만들고···정부, ‘변형현수막’ 집중단속 - 경향신문",
+      "targetName": "이재명"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "626a00881cc558c9e467ed424e269406951057d3635cf0db0c99c03d41af3f9c",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE80cFhWSmhnYmpoYlFVNWtTbncybnM4MS1CRGduVkdMT0ItMXpsc0VXaVBhYVJnTThUY0FqYm1ZNWhPd3RKRXF1M0hyR1ptTEVEbDMyNURSOUx0cF9QOUl0RWhCV3hnaUNLaGtKR2hJTUR1TEdXNjM4MHhZc3lLUlHSAX9BVV95cUxPNHBYVkpoZ2JqaGJRVTVrU253Mm5zODEtQkRnblZHTE9CLTF6bHNFV2lQYWFSZ004VGNBamJtWTVoT3d0SkVxdTNIckdabUxFRGwzMjVEUjlMdHBfUDlJdEVoQld4Z2lDS2hrSkdoSU1EdUxHVzYzODB4WXN5S1JR?oc=5\" target=\"_blank\">조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80cFhWSmhnYmpoYlFVNWtTbncybnM4MS1CRGduVkdMT0ItMXpsc0VXaVBhYVJnTThUY0FqYm1ZNWhPd3RKRXF1M0hyR1ptTEVEbDMyNURSOUx0cF9QOUl0RWhCV3hnaUNLaGtKR2hJTUR1TEdXNjM4MHhZc3lLUlHSAX9BVV95cUxPNHBYVkpoZ2JqaGJRVTVrU253Mm5zODEtQkRnblZHTE9CLTF6bHNFV2lQYWFSZ004VGNBamJtWTVoT3d0SkVxdTNIckdabUxFRGwzMjVEUjlMdHBfUDlJdEVoQld4Z2lDS2hrSkdoSU1EdUxHVzYzODB4WXN5S1JR?oc=5",
-        "pubDate": "Sun, 15 Nov 2026 07:57:31 GMT",
-        "source": "머니투데이",
-        "ageHours": 1.2
+        "id": "0349f2587edf1a0318e3cfbce1ab54a37c6aef114426f1b7cb39586c9521f260",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, '언행논란' 최민희 감찰결과 보고받고 윤리심판원 이첩 지시 - 뉴스1",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQldvRTkyVWp2M3ltU3A5ZTNBZ0NUaXAtUmRDRFZkeHlDUGhkSV82YTlEb2Vtei1FaWNoTnZLdVl5Qi0yU0kzRGtuU0pCcnpaUGVnbmVxVGJkQQ?oc=5\" target=\"_blank\">김민석, '언행논란' 최민희 감찰결과 보고받고 윤리심판원 이첩 지시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQldvRTkyVWp2M3ltU3A5ZTNBZ0NUaXAtUmRDRFZkeHlDUGhkSV82YTlEb2Vtei1FaWNoTnZLdVl5Qi0yU0kzRGtuU0pCcnpaUGVnbmVxVGJkQQ?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 09:12:17 GMT",
+        "source": "뉴스1",
+        "ageHours": 0.1
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "9dd455127e4b5fb14324e5bdcebfb31d94a2d338fd154bb360ebc224d2e05a7b",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Hides Out Amid Crisis to Rage Over Golf Course - The Daily Beast",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXZiRjVScGNlaTVtcTNnVlpBdWFJQ3VWdXNmR0JPVzNreVhVMmVUYnI5cGtvX3dJYXd6VEhqZjFqQjE2SERwd2F4VlUzWjdNT0RieVE5QlpVUFVGUURscG92ZGlhWUJTYzBicW9WaXRyX1dwdDRPSXhJd3lfb20tdVBNSVpndzZ2Y3c?oc=5\" target=\"_blank\">Trump Hides Out Amid Crisis to Rage Over Golf Course</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXZiRjVScGNlaTVtcTNnVlpBdWFJQ3VWdXNmR0JPVzNreVhVMmVUYnI5cGtvX3dJYXd6VEhqZjFqQjE2SERwd2F4VlUzWjdNT0RieVE5QlpVUFVGUURscG92ZGlhWUJTYzBicW9WaXRyX1dwdDRPSXhJd3lfb20tdVBNSVpndzZ2Y3c?oc=5",
-        "pubDate": "Sun, 15 Nov 2026 02:40:00 GMT",
-        "source": "The Daily Beast",
-        "ageHours": 6.5
+        "id": "c1226d0aa03ca0d0ad65c31fd0c6382caadfdef9d7f40d19a719add984aa98a8",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "[속보]‘칼 뺀’ 김민석…최민희, 윤리심판원으로 이첩 지시 - 문화일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE52X0FtclFadWpsN3drSl9MSHYtUHVuVmZJMU5MeFFrYTJyTm1SdVhoOG8wa2N6TXVTd3lfTWQ0ZG1nazU5TVhYVWdsd3l4SjF4?oc=5\" target=\"_blank\">[속보]‘칼 뺀’ 김민석…최민희, 윤리심판원으로 이첩 지시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52X0FtclFadWpsN3drSl9MSHYtUHVuVmZJMU5MeFFrYTJyTm1SdVhoOG8wa2N6TXVTd3lfTWQ0ZG1nazU5TVhYVWdsd3l4SjF4?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 09:14:09 GMT",
+        "source": "문화일보",
+        "ageHours": 0.1
       },
       "delivered": [],
       "archived": false

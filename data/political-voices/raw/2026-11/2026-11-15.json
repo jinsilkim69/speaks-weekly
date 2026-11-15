@@ -2388,5 +2388,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "626a00881cc558c9e467ed424e269406951057d3635cf0db0c99c03d41af3f9c",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE80cFhWSmhnYmpoYlFVNWtTbncybnM4MS1CRGduVkdMT0ItMXpsc0VXaVBhYVJnTThUY0FqYm1ZNWhPd3RKRXF1M0hyR1ptTEVEbDMyNURSOUx0cF9QOUl0RWhCV3hnaUNLaGtKR2hJTUR1TEdXNjM4MHhZc3lLUlHSAX9BVV95cUxPNHBYVkpoZ2JqaGJRVTVrU253Mm5zODEtQkRnblZHTE9CLTF6bHNFV2lQYWFSZ004VGNBamJtWTVoT3d0SkVxdTNIckdabUxFRGwzMjVEUjlMdHBfUDlJdEVoQld4Z2lDS2hrSkdoSU1EdUxHVzYzODB4WXN5S1JR?oc=5\" target=\"_blank\">조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80cFhWSmhnYmpoYlFVNWtTbncybnM4MS1CRGduVkdMT0ItMXpsc0VXaVBhYVJnTThUY0FqYm1ZNWhPd3RKRXF1M0hyR1ptTEVEbDMyNURSOUx0cF9QOUl0RWhCV3hnaUNLaGtKR2hJTUR1TEdXNjM4MHhZc3lLUlHSAX9BVV95cUxPNHBYVkpoZ2JqaGJRVTVrU253Mm5zODEtQkRnblZHTE9CLTF6bHNFV2lQYWFSZ004VGNBamJtWTVoT3d0SkVxdTNIckdabUxFRGwzMjVEUjlMdHBfUDlJdEVoQld4Z2lDS2hrSkdoSU1EdUxHVzYzODB4WXN5S1JR?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 07:57:31 GMT",
+    "source": "머니투데이",
+    "ageHours": 1.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "9dd455127e4b5fb14324e5bdcebfb31d94a2d338fd154bb360ebc224d2e05a7b",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Hides Out Amid Crisis to Rage Over Golf Course - The Daily Beast",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXZiRjVScGNlaTVtcTNnVlpBdWFJQ3VWdXNmR0JPVzNreVhVMmVUYnI5cGtvX3dJYXd6VEhqZjFqQjE2SERwd2F4VlUzWjdNT0RieVE5QlpVUFVGUURscG92ZGlhWUJTYzBicW9WaXRyX1dwdDRPSXhJd3lfb20tdVBNSVpndzZ2Y3c?oc=5\" target=\"_blank\">Trump Hides Out Amid Crisis to Rage Over Golf Course</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXZiRjVScGNlaTVtcTNnVlpBdWFJQ3VWdXNmR0JPVzNreVhVMmVUYnI5cGtvX3dJYXd6VEhqZjFqQjE2SERwd2F4VlUzWjdNT0RieVE5QlpVUFVGUURscG92ZGlhWUJTYzBicW9WaXRyX1dwdDRPSXhJd3lfb20tdVBNSVpndzZ2Y3c?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 02:40:00 GMT",
+    "source": "The Daily Beast",
+    "ageHours": 6.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Hides Out Amid Crisis to Rage Over Golf Course",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "bf8b59d27aae4d0704bf1b0ddb0b6a2d46d33c8b6cbd3972ec01e38881766115",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "이재명 대통령 얼굴로 영정사진 만들고···정부, ‘변형현수막’ 집중단속 - 경향신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zZHpmYlJNWkQ1QlRnVFh5d2Rpd1lvRzN1dWNqdkVyYnhxLVNRTVctc3hNaEwtNjdhUmhrZEdaMm1UdW9ZejI4elB6VmVmMWV0R3RRVUVsa2p0UdIBX0FVX3lxTFBEbmE4bkZWckVmNTJzamJDaDhFMmJwb1ViZ3g0NWxrVENSbGF1QlFIaC1ZQXFmSzdxQzhuaDUyQ1l5QWxneUNIeVdBSzUwR1g2VFJxVG1vVzcxUUxTU21r?oc=5\" target=\"_blank\">이재명 대통령 얼굴로 영정사진 만들고···정부, ‘변형현수막’ 집중단속</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zZHpmYlJNWkQ1QlRnVFh5d2Rpd1lvRzN1dWNqdkVyYnhxLVNRTVctc3hNaEwtNjdhUmhrZEdaMm1UdW9ZejI4elB6VmVmMWV0R3RRVUVsa2p0UdIBX0FVX3lxTFBEbmE4bkZWckVmNTJzamJDaDhFMmJwb1ViZ3g0NWxrVENSbGF1QlFIaC1ZQXFmSzdxQzhuaDUyQ1l5QWxneUNIeVdBSzUwR1g2VFJxVG1vVzcxUUxTU21r?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 05:14:00 GMT",
+    "source": "경향신문",
+    "ageHours": 4.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이재명 대통령 얼굴로 영정사진 만들고···정부, ‘변형현수막’ 집중단속",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

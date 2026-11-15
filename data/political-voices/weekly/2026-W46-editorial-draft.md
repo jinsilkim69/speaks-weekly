@@ -7086,3 +7086,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE80cFhWSmhnYmpoYlFVNWtTbncybnM4MS1CRGduVkdMT0ItMXpsc0VXaVBhYVJnTThUY0FqYm1ZNWhPd3RKRXF1M0hyR1ptTEVEbDMyNURSOUx0cF9QOUl0RWhCV3hnaUNLaGtKR2hJTUR1TEdXNjM4MHhZc3lLUlHSAX9BVV95cUxPNHBYVkpoZ2JqaGJRVTVrU253Mm5zODEtQkRnblZHTE9CLTF6bHNFV2lQYWFSZ004VGNBamJtWTVoT3d0SkVxdTNIckdabUxFRGwzMjVEUjlMdHBfUDlJdEVoQld4Z2lDS2hrSkdoSU1EdUxHVzYzODB4WXN5S1JR?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Hides Out Amid Crisis to Rage Over Golf Course - The Daily Beast
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Hides Out Amid Crisis to Rage Over Golf Course
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXZiRjVScGNlaTVtcTNnVlpBdWFJQ3VWdXNmR0JPVzNreVhVMmVUYnI5cGtvX3dJYXd6VEhqZjFqQjE2SERwd2F4VlUzWjdNT0RieVE5QlpVUFVGUURscG92ZGlhWUJTYzBicW9WaXRyX1dwdDRPSXhJd3lfb20tdVBNSVpndzZ2Y3c?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 얼굴로 영정사진 만들고···정부, ‘변형현수막’ 집중단속 - 경향신문
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 얼굴로 영정사진 만들고···정부, ‘변형현수막’ 집중단속
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zZHpmYlJNWkQ1QlRnVFh5d2Rpd1lvRzN1dWNqdkVyYnhxLVNRTVctc3hNaEwtNjdhUmhrZEdaMm1UdW9ZejI4elB6VmVmMWV0R3RRVUVsa2p0UdIBX0FVX3lxTFBEbmE4bkZWckVmNTJzamJDaDhFMmJwb1ViZ3g0NWxrVENSbGF1QlFIaC1ZQXFmSzdxQzhuaDUyQ1l5QWxneUNIeVdBSzUwR1g2VFJxVG1vVzcxUUxTU21r?oc=5)
+
+---
+
