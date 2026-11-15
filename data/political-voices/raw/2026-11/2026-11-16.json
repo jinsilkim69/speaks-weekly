@@ -73,5 +73,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "30eb210923fbff32ea25eca4ab18515cc39de56b85ef907b010c86b44173d40e",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Points Finger at Biden Admin After Ground Stop Chaos - Newsweek",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDdad1U1Y2RkcnpLanYtU1dGeDhFMjJ5ZC1IS1g3WHNLQTB0VHVmOEN0UjRUdTdldFhqQTFsMmNlemNvTFlGcmdSVHVtdDZlbkpCRC04YkpXem4wbTJwelh5ZS10UUdjdVNxWlBwLUsxcFQyTHBIUWpKNzY0Q20xRXRFX05HR1lyV3dTcktvTmp5bTJTa0FZ?oc=5\" target=\"_blank\">Trump Points Finger at Biden Admin After Ground Stop Chaos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDdad1U1Y2RkcnpLanYtU1dGeDhFMjJ5ZC1IS1g3WHNLQTB0VHVmOEN0UjRUdTdldFhqQTFsMmNlemNvTFlGcmdSVHVtdDZlbkpCRC04YkpXem4wbTJwelh5ZS10UUdjdVNxWlBwLUsxcFQyTHBIUWpKNzY0Q20xRXRFX05HR1lyV3dTcktvTmp5bTJTa0FZ?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 14:28:00 GMT",
+    "source": "Newsweek",
+    "ageHours": 1.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Points Finger at Biden Admin After Ground Stop Chaos",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
