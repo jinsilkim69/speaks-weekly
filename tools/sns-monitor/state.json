@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T04:31:14.961Z",
+  "lastCheckedAt": "2026-11-15T04:41:18.332Z",
   "seenPostIds": {
-    "SnVkZ2UgYWxsb3dzIFRydW1wIGRlZmFt": {
-      "seenAt": "2026-11-12T03:48:55.495Z",
-      "title": "Judge allows Trump defamation case against BBC to proceed but tosses 1 claim - WWNY",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "7J207J6s66qFIOyngOyngOycqCA0NCXr": {
-      "seenAt": "2026-11-12T11:57:55.252Z",
-      "title": "이재명 지지율 44%로 하락…국민 51% “대통령 SNS 소통 줄여야” [NBS] - 시사타파NEWS",
-      "targetName": "이재명"
-    },
     "7ZWc64+Z7ZuIIOuzteuLueuhoCDsnqzs": {
       "seenAt": "2026-11-12T11:57:55.590Z",
       "title": "한동훈 복당론 재점화…국민의힘 비대위 전환 가능할까 - 에너지경제신문",
@@ -2510,6 +2500,16 @@
       "seenAt": "2026-11-15T04:31:16.724Z",
       "title": "\"노무현 대통령 추천, 시험 안 치고 하버드 갔다\" 전한길 주장에 이준석 추가 고소 예고 - 아시아경제",
       "targetName": "이준석"
+    },
+    "f69ff65e9eef59c82792b7442047f36e3a8cfc33bf46d072070dd504e678050f": {
+      "seenAt": "2026-11-15T04:41:19.303Z",
+      "title": "'해남 배추 스타일' 박지원 \"배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지\"[여의도초대석] - KBC광주방송",
+      "targetName": "김민석"
+    },
+    "477991b534926e9e6551b09141dbd21d03eab78ec3471ee198b1a173db0bcf0e": {
+      "seenAt": "2026-11-15T04:41:19.897Z",
+      "title": "'해남 배추 스타일' 박지원 \"배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지\"[여의도초대석] - KBC광주방송",
+      "targetName": "정청래"
     }
   },
   "pending": []

@@ -1561,5 +1561,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f69ff65e9eef59c82792b7442047f36e3a8cfc33bf46d072070dd504e678050f",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "'해남 배추 스타일' 박지원 \"배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지\"[여의도초대석] - KBC광주방송",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE90bURBcmNJb05oNzd6TmpyVFAxNEhMUjRfbWdlRkxwdWRzQVRVXzR0T3BIUVVlTFpRTWxhdWd0SXhvRlJIT3pham5NTHJkRm42T2dkeGROYm5tazA4Q3ROZQ?oc=5\" target=\"_blank\">'해남 배추 스타일' 박지원 \"배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지\"[여의도초대석]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90bURBcmNJb05oNzd6TmpyVFAxNEhMUjRfbWdlRkxwdWRzQVRVXzR0T3BIUVVlTFpRTWxhdWd0SXhvRlJIT3pham5NTHJkRm42T2dkeGROYm5tazA4Q3ROZQ?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 04:30:01 GMT",
+    "source": "KBC광주방송",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '해남 배추 스타일' 박지원 \"배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "477991b534926e9e6551b09141dbd21d03eab78ec3471ee198b1a173db0bcf0e",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "'해남 배추 스타일' 박지원 \"배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지\"[여의도초대석] - KBC광주방송",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE90bURBcmNJb05oNzd6TmpyVFAxNEhMUjRfbWdlRkxwdWRzQVRVXzR0T3BIUVVlTFpRTWxhdWd0SXhvRlJIT3pham5NTHJkRm42T2dkeGROYm5tazA4Q3ROZQ?oc=5\" target=\"_blank\">'해남 배추 스타일' 박지원 \"배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지\"[여의도초대석]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90bURBcmNJb05oNzd6TmpyVFAxNEhMUjRfbWdlRkxwdWRzQVRVXzR0T3BIUVVlTFpRTWxhdWd0SXhvRlJIT3pham5NTHJkRm42T2dkeGROYm5tazA4Q3ROZQ?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 04:30:01 GMT",
+    "source": "KBC광주방송",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '해남 배추 스타일' 박지원 \"배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

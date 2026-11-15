@@ -6657,3 +6657,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** '해남 배추 스타일' 박지원 "배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지"[여의도초대석] - KBC광주방송
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '해남 배추 스타일' 박지원 "배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE90bURBcmNJb05oNzd6TmpyVFAxNEhMUjRfbWdlRkxwdWRzQVRVXzR0T3BIUVVlTFpRTWxhdWd0SXhvRlJIT3pham5NTHJkRm42T2dkeGROYm5tazA4Q3ROZQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** '해남 배추 스타일' 박지원 "배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지"[여의도초대석] - KBC광주방송
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '해남 배추 스타일' 박지원 "배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE90bURBcmNJb05oNzd6TmpyVFAxNEhMUjRfbWdlRkxwdWRzQVRVXzR0T3BIUVVlTFpRTWxhdWd0SXhvRlJIT3pham5NTHJkRm42T2dkeGROYm5tazA4Q3ROZQ?oc=5)
+
+---
+
