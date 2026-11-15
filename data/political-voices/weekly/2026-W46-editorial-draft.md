@@ -6137,3 +6137,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 ‘하이에나 떼’ 발언 당 차원 사과 - 쿠키뉴스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 ‘하이에나 떼’ 발언 당 차원 사과
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaZmxhMnpHTUJhMnhBWDc5WHhqVnZBYll2aTFMTnpxdXpjNlczOWIxeXo4OTRySXMxZDFQYWJnU0tZREFtTldlSEJkUVFoUDZQMS0tbzh4b1l6SU5sQTlIVG1Waw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** 'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts - ABC News - Breaking News, Latest News and Videos
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTlNxLWhIR2xFeDYzZTRuQjU2RUZJcjVkSTVIbGJvN3NyX0Q3eTNvaWVXQndoT3BtRTNqWHlFQkFyb2RRaUZ4ZjFnQVV2bGpUbWxSVklMNlJiam9sdHR6em1GTHZxQmRWVm9XRzBzV3l5NHZGT0w4SmVfQTRzR3ptVmNqNURhZ1QxZ3E4VURyMTg1NHQwbklMbjRZcDJXRzI3MGZ2c3dJeGvSAa4BQVVfeXFMUDdGSHgweGtzWU5EZ3VDQ0E3ZVp3OUtIaVlZLU80dkZUckhXUWt5cXIyQ0h2ZGh4MzNRRUFDT2Z4OWN4RUp2TkZSLWxkaFFTamUxckM0dWgxQzBOZE05Wm52cHdtb1hWTWNsSGk3cHJkaHlLWnBlWGVyZTl6RVhjdEktaGpJQUtaczI1N0lRQkpBX1pqVjVUUVBCTFNyR1R3eVlpOW94Q0I1OWhMeXdB?oc=5)
+
+---
+
