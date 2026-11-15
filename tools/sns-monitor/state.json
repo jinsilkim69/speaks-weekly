@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-15T23:01:37.450Z",
+  "lastCheckedAt": "2026-11-15T23:11:19.685Z",
   "seenPostIds": {
     "000a7a4e0e3c92aeed1d5516f099b94914d7641c4dd337242d813c09420a1402": {
       "seenAt": "2026-11-12T17:31:18.437Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-15T22:51:15.053Z",
       "title": "Trump makes millions with unconstitutional Truth Social scheme - Freedom of the Press Foundation",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "e14b55c9a344de466f8912826251557a03f659c9f5bd0a7b51dd7a09e0f70923": {
+      "seenAt": "2026-11-15T23:11:21.064Z",
+      "title": "이재명 대통령의 이주노동자 발언, 꼼꼼히 따져보니 - 시사IN",
+      "targetName": "이재명"
     }
   },
   "pending": []
