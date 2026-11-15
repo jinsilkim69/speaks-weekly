@@ -7398,3 +7398,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 윤리심판원에 넘겼다…감찰 사흘 만에 징계 절차 본격화 - www.hidomin.com
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 윤리심판원에 넘겼다…감찰 사흘 만에 징계 절차 본격화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE5TZVQtcGx1d2lLNjlsVWRXOGNpc09MdnVfdHQ4NEpNbkh0VHZNaS1IbFlibmFBZHJFNWNHRFpxSjdieHFMZXViY21ySERBOGpnbUlqa0w5ZWNrb3ZrbjF0VG96bEJ1VDRVZXc?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** [부음] 이준석(현대커머셜 시니어매니저) 씨 외조부상 - 서플 뉴스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석(현대커머셜 시니어매니저) 씨 외조부상
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GcEZ6akJKOU04aUhrTEFCZndPekMxWVJJMlNnbHpSUXJZMXFqdEdvamFBeExtTzJFa0pzYVhaT3pLR25BSmNzNDJtRWk2djExbkttcVBvb2Z6OFl3?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 조희대 탄핵 재촉…“민주당이 말만 하다 역풍 맞는다” - OBC 뉴스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 조희대 탄핵 재촉…“민주당이 말만 하다 역풍 맞는다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE8tazhqTWtzOVFjMEI5RGpfcThmQm4yYjhQNk4tNUYwcDlVeWJxRzJlX1JvWDF5ZS01dGEwTkR4NFdJMVFGbW1KWTdybVViekZlQlFvT0N4YW9rR2p3dmFVajhzOXFLcERfaVE?oc=5)
+
+---
+
