@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T06:41:15.523Z",
+  "lastCheckedAt": "2026-11-15T06:51:15.168Z",
   "seenPostIds": {
-    "7J207KSA7ISdICLsobDsnpEg7KeV6rOE": {
-      "seenAt": "2026-11-12T11:57:56.634Z",
-      "title": "이준석 \"조작 징계 논리 안 맞아…한 세력 빼놓고 보수 연대 가능\" - 한국경제",
-      "targetName": "이준석"
-    },
-    "7J207KSA7ISdIOKAnOKAmO2YvOyekCDs": {
-      "seenAt": "2026-11-12T11:57:56.634Z",
-      "title": "이준석 “‘혼자 잘 났다고 떠드는 사람’ 빼고, 보수 연대 논의” - 주간경향",
-      "targetName": "이준석"
-    },
     "7J207KSA7ISdICLrp4jsmrTsnpDroZwg": {
       "seenAt": "2026-11-12T11:57:56.634Z",
       "title": "이준석 \"마운자로 반입 허용 환영…자가치료 목적은 허용해야\" - 아시아경제",
@@ -2510,6 +2500,16 @@
       "seenAt": "2026-11-15T06:41:17.489Z",
       "title": "친명은 ‘최민희 제명’, 친청은 ‘김민석 쇄신’…민주당 권력투쟁 전면전 - OBC 뉴스",
       "targetName": "김민석"
+    },
+    "b022248ad4e057c7482aedd67b46d4f626a82b354a04cc62e88670f1a96650dd": {
+      "seenAt": "2026-11-15T06:51:16.536Z",
+      "title": "민주 ‘친명ㆍ친청’ 갈등 전면전…최민희 감찰에 김민석 리더십 시험대 - 대한경제",
+      "targetName": "김민석"
+    },
+    "2e446ebc6713b12dbd4dbd82ceae4962ca947a5f0f033d6bbd880d283ad51a37": {
+      "seenAt": "2026-11-15T06:51:17.289Z",
+      "title": "김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화 - 파이낸셜뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": []
