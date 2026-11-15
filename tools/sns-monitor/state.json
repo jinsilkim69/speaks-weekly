@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T02:11:15.410Z",
+  "lastCheckedAt": "2026-11-15T02:21:17.090Z",
   "seenPostIds": {
-    "7JWI7YOc7ZuIIOuvvOyjvOuLuSDrtoDr": {
-      "seenAt": "2026-11-12T03:48:53.057Z",
-      "title": "안태훈 민주당 부대변인 \"전광훈 목사, 이재명 대통령 ‘알박기’ 지적에 '나쁜x 자식\" 욕설 - 브레이크뉴스",
-      "targetName": "이재명"
-    },
     "7Jyk7IOB7ZiELCDlrokgYO2VnOuPme2b": {
       "seenAt": "2026-11-12T03:48:53.366Z",
       "title": "윤상현, 安 `한동훈 복당` 비판에 `분열의 늪 더 두려워`…`오동석장` 재차 제안 - 매일신문",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-15T02:11:16.675Z",
       "title": "조국 \"늦었지만 조희대 탄핵해야…적기 놓치니 曺가 주도권 행사\" - 뉴스1",
       "targetName": "조국"
+    },
+    "68d3cce6a2bd64a84fbf7e0645989f491e0c4ef27c294d26fefaa4480bee8d7d": {
+      "seenAt": "2026-11-15T02:21:18.565Z",
+      "title": "[김능구·황장수의 닥터둠의 전망 11월②] YS·DJ도 위기 땐 손잡았다… 김민석·정청래, 계파 넘어 당 위기 수습해야 - 폴리뉴스 Polinews",
+      "targetName": "정청래"
+    },
+    "026f17fa800a0a3637939c0bc3322e0f2a0f7f11a2b3ee5cb78d7541683ec238": {
+      "seenAt": "2026-11-15T02:21:19.380Z",
+      "title": "송영길 의원, 소방재정 안정화·구급차 제도 개선 추진 - 일간투데이",
+      "targetName": "송영길"
     }
   },
   "pending": []

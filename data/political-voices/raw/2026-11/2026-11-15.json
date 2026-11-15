@@ -877,5 +877,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "68d3cce6a2bd64a84fbf7e0645989f491e0c4ef27c294d26fefaa4480bee8d7d",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "[김능구·황장수의 닥터둠의 전망 11월②] YS·DJ도 위기 땐 손잡았다… 김민석·정청래, 계파 넘어 당 위기 수습해야 - 폴리뉴스 Polinews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1McTYzVm13clYzRjRpa1Q4bHpHVTJ4b1B5VXM1aDRkYjFObjhpSDBZd0Rkc19VZnU2eERFaDBoSTBiNGFZZGo2ZkpNaGRGRV9Fc0NUY0Q3WmZpQlZ0YzdwRFZESHNFTWxJR0gxQkVn?oc=5\" target=\"_blank\">[김능구·황장수의 닥터둠의 전망 11월②] YS·DJ도 위기 땐 손잡았다… 김민석·정청래, 계파 넘어 당 위기 수습해야</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">폴리뉴스 Polinews</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1McTYzVm13clYzRjRpa1Q4bHpHVTJ4b1B5VXM1aDRkYjFObjhpSDBZd0Rkc19VZnU2eERFaDBoSTBiNGFZZGo2ZkpNaGRGRV9Fc0NUY0Q3WmZpQlZ0YzdwRFZESHNFTWxJR0gxQkVn?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 02:12:02 GMT",
+    "source": "폴리뉴스 Polinews",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] YS·DJ도 위기 땐 손잡았다… 김민석·정청래, 계파 넘어 당 위기 수습해야",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "026f17fa800a0a3637939c0bc3322e0f2a0f7f11a2b3ee5cb78d7541683ec238",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "송영길 의원, 소방재정 안정화·구급차 제도 개선 추진 - 일간투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE96NElIUTFSd1BqLUU3UTQybXdwajQ5MWN6b0ZmN2hxOHlHRU5HbzFnZ3Rvc1NoLVlzTmplelRxcGg0UzN2cGFoQ1V4YWtkVm9SYXc1ZFNQLVh4WUIwbHJ5VmZkelE3dG1SZzhJ?oc=5\" target=\"_blank\">송영길 의원, 소방재정 안정화·구급차 제도 개선 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">일간투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96NElIUTFSd1BqLUU3UTQybXdwajQ5MWN6b0ZmN2hxOHlHRU5HbzFnZ3Rvc1NoLVlzTmplelRxcGg0UzN2cGFoQ1V4YWtkVm9SYXc1ZFNQLVh4WUIwbHJ5VmZkelE3dG1SZzhJ?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 02:06:25 GMT",
+    "source": "일간투데이",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길 의원, 소방재정 안정화·구급차 제도 개선 추진",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

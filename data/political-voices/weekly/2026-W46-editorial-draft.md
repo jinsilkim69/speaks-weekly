@@ -6306,3 +6306,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [김능구·황장수의 닥터둠의 전망 11월②] YS·DJ도 위기 땐 손잡았다… 김민석·정청래, 계파 넘어 당 위기 수습해야 - 폴리뉴스 Polinews
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] YS·DJ도 위기 땐 손잡았다… 김민석·정청래, 계파 넘어 당 위기 수습해야
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1McTYzVm13clYzRjRpa1Q4bHpHVTJ4b1B5VXM1aDRkYjFObjhpSDBZd0Rkc19VZnU2eERFaDBoSTBiNGFZZGo2ZkpNaGRGRV9Fc0NUY0Q3WmZpQlZ0YzdwRFZESHNFTWxJR0gxQkVn?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원, 소방재정 안정화·구급차 제도 개선 추진 - 일간투데이
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원, 소방재정 안정화·구급차 제도 개선 추진
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE96NElIUTFSd1BqLUU3UTQybXdwajQ5MWN6b0ZmN2hxOHlHRU5HbzFnZ3Rvc1NoLVlzTmplelRxcGg0UzN2cGFoQ1V4YWtkVm9SYXc1ZFNQLVh4WUIwbHJ5VmZkelE3dG1SZzhJ?oc=5)
+
+---
+
