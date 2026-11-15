@@ -6865,3 +6865,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 “개혁은 인기 아닌 국리민복”…여권 향해 ‘말보다 행동’ 주문 - www.sisaworld.kr
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 “개혁은 인기 아닌 국리민복”…여권 향해 ‘말보다 행동’ 주문
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE8xeXdQRWt5b0xfX0NKQjJ5cTlGOUtQV0poUndjT0pwdTEyZm5KeFQxdmZpUVhNR2IwZkRTVnI0OWdOeWk1Qmk2SXhqNmtreC1rN09LZGY1bmFMVHJZVUJxMFA5ZTNVZFNMTXc?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주 ‘친명ㆍ친청’ 갈등 전면전…최민희 감찰에 김민석 리더십 시험대 - 대한경제
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주 ‘친명ㆍ친청’ 갈등 전면전…최민희 감찰에 김민석 리더십 시험대
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE9MWHZnUEJwRWw4b3YwbndBV20xcW5pWHI2VG96b2NjX1VNLXBhTU81RUNLY1A2aXhyanNwZnV6YS1ZbEtQTmdUT09QRFp5T3Z4TTFVUkhjUnY0TjBSdWFjLXdHTTVYakctdVA3MFFXS0lXSURq?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 민주당 또 때린 조국 "조희대는 행동 하는데 與는 말만 하고 있어" - 데일리안
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 또 때린 조국 "조희대는 행동 하는데 與는 말만 하고 있어"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgJBVV95cUxPX3FDeV9VZXlQaXJPSnFHdl84dEFKVm1sRzY4aHhoUkE5REUyeUV5V21GeWhEbXMzenJGYWd4Z3NmYXZqY2p5Y0R6U0dqY1MzS2FMTVNaQ055bjkzVEN2eHF2RjBoSnJBTW1hMjRHWWIzZDJEZXZ4NVhpMUtsRHVHTDR6bzNiQWpCM2Ftdldvc25Ob0h3Wl84QWFuQklsa0stUDJtZmxiQi14eGVYRzJMMXNfRUx2ZEtVZ0hWcVN1eG9jOGtaVFFwSXR3SEVYQ252RDhyNnNSUDZuSjV1TGNlZ09MY3gwbEpiMEJuNTc1cVZOY3RSTE5JZk80Uk9zdURualZxcUtUR1NPUFdwU2c?oc=5)
+
+---
+
