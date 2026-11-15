@@ -3190,5 +3190,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "83b699000fdabe54340a2856c79994556af39ed023d3bc7ad009d20e3abbda2c",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "기자들에 “하이에나 떼”라고 한 최민희 언행 논란에 김민석, 윤리심판원 이첩 지시 - 강원일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FUnVZcmQ2MmZhRVJYYm1OM1lGS0ppVFVyekZqUjVudTRyWmZvaGNsU051d00zdFBBVmdRZmRCTUJSd2NmU0ZBRXdfclJ0aWszc1hvNEZPM3hxLVk?oc=5\" target=\"_blank\">기자들에 “하이에나 떼”라고 한 최민희 언행 논란에 김민석, 윤리심판원 이첩 지시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FUnVZcmQ2MmZhRVJYYm1OM1lGS0ppVFVyekZqUjVudTRyWmZvaGNsU051d00zdFBBVmdRZmRCTUJSd2NmU0ZBRXdfclJ0aWszc1hvNEZPM3hxLVk?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 11:07:59 GMT",
+    "source": "강원일보",
+    "ageHours": 1.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 기자들에 “하이에나 떼”라고 한 최민희 언행 논란에 김민석, 윤리심판원 이첩 지시",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

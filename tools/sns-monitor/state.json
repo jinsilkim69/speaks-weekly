@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T12:01:19.608Z",
+  "lastCheckedAt": "2026-11-15T12:11:16.990Z",
   "seenPostIds": {
-    "56f724629d925fad849a41485c963d7cde0a92cc38a20b4495a170ae562a018e": {
-      "seenAt": "2026-11-12T15:26:49.651Z",
-      "title": "조국혁신당 \"종부세 엇박자 대통령에 부담\"·靑 \"입장 후퇴 없어\" - 연합뉴스TV",
-      "targetName": "조국"
-    },
     "d76614db9be94478837a52807b7f0c8a91bf5f8de33e828796a182fa75e73818": {
       "seenAt": "2026-11-12T15:26:50.343Z",
       "title": "쑨원 탄생 160주년 대회…시진핑 “조국통일 반드시 실현할 수 있어” - 중앙일보",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-15T12:01:21.051Z",
       "title": "'Disaster for justice': Trump slams Newsom's plan to commute California's death sentences - KOKI FOX 23",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "83b699000fdabe54340a2856c79994556af39ed023d3bc7ad009d20e3abbda2c": {
+      "seenAt": "2026-11-15T12:11:18.894Z",
+      "title": "기자들에 “하이에나 떼”라고 한 최민희 언행 논란에 김민석, 윤리심판원 이첩 지시 - 강원일보",
+      "targetName": "김민석"
     }
   },
   "pending": []
