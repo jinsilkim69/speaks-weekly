@@ -6475,3 +6475,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "與, 아무 일도 하지 않아 진영 내부서 역풍…조희대 탄핵해야" - 뉴시스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "與, 아무 일도 하지 않아 진영 내부서 역풍…조희대 탄핵해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBMWThpMkhUSjROVEZVWTdfb3NsNExWWmVrM3pMNnBkbXNUOXQwZ2hJX196LWRUTmJHMHRDV2plYUlpTXUtdTVuQTAtYkFUd3Zoc0FaVUo3TVhiXzlEai15Ti1ORjVmdVYtSGoxeklaRmY1dDF1VjlRSNIBeEFVX3lxTFBMWThpMkhUSjROVEZVWTdfb3NsNExWWmVrM3pMNnBkbXNUOXQwZ2hJX196LWRUTmJHMHRDV2plYUlpTXUtdTVuQTAtYkFUd3Zoc0FaVUo3TVhiXzlEai15Ti1ORjVmdVYtSGoxeklaRmY1dDF1VjlRSA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "曺, 한덕수 조건부 석방할 것…민주당은 아무 일 안 해" - 조선일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "曺, 한덕수 조건부 석방할 것…민주당은 아무 일 안 해"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxObTh5R25YVy1yU0NXZUVVX1h1MTlXb2wtcUlGM1o2b3JxcGpUckd1Q05Sbnc4ajBROWFlbmh4OVExMlFrTklFRUpVUC1VdDJYT1hFb0RVX3hBWUwzeUVESmY3aWlBendpRUtZM205R2dkR2lLRUtyVS1jVFE0c0h4SE43ZHQtdw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 조희대 탄핵 재촉…“민주당이 말만 하다 역풍 맞는다” - OBC 뉴스
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 조희대 탄핵 재촉…“민주당이 말만 하다 역풍 맞는다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1relZLemMwRjllVFJjMERERlF6bURMb0tIYUVGNzRTeExIajY0R2VJMkY2U2NfckhOVFZJY21BNEp1d1ZOQ2JleTU3TzkwVHB3MkEtSHRjbXRFRW5MVVFXc3lhUEdQWVBj?oc=5)
+
+---
+
