@@ -6709,3 +6709,16 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 전한길 추가 고소 예고…˝하버드 졸업장 공개한 지 10년 넘어˝:중수청일보 - 중수청일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 전한길 추가 고소 예고…˝하버드 졸업장 공개한 지 10년 넘어˝:중수청일보
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNN2pUNmZ0R0JLTEdfTTFUZnkxYnhsQURPNDc1elpJYWxkazhDZEs4c1FNOVdMbktLeDgwdUlZVlRxQ05uSXN0UdIBZEFVX3lxTE11ZUtYS3RaZU9aNF9jaXNkQ2dOOVIxN24wdzBCbFhLMHFxSWdxU0N6ZG1zRFRIeUJfVFVVOUtPYTZhdVlGRVI1UkZqRmJnRjM1MEh2R1lPNVVwdVdUQTgtQmY5NEI?oc=5)
+
+---
+

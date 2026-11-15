@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T05:11:17.899Z",
+  "lastCheckedAt": "2026-11-15T05:21:13.579Z",
   "seenPostIds": {
-    "7Jyk66as7JyEIOKAmOuCtOu2gCDtj63r": {
-      "seenAt": "2026-11-12T11:57:55.590Z",
-      "title": "윤리위 ‘내부 폭로’ 변수에 한동훈 복당 공방 재점화 - 부산일보",
-      "targetName": "한동훈"
-    },
-    "7JWI7LKg7IiYICLtlZzrj5ntm4gg67O1": {
-      "seenAt": "2026-11-12T11:57:55.590Z",
-      "title": "안철수 \"한동훈 복당론은 물귀신 행태…차라리 창당하라\" - www.hidomin.com",
-      "targetName": "한동훈"
-    },
     "6IiHIOyLoOyynOyngCDqsIjrk7HigKbq": {
       "seenAt": "2026-11-12T11:57:55.869Z",
       "title": "與 신천지 갈등…김민석 \"만나서 대화\" vs 정청래 \"사과부터 제대로\" - 뉴스웍스",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-15T05:11:19.545Z",
       "title": "조국 “조희대, 한덕수 조건부 석방할 수도…與 아무것도 안 해” - 서울경제",
       "targetName": "조국"
+    },
+    "5da6492d0cba7f6caf287c93911fe8f891a940d1d0c62e139c54fc1f4fe8baa0": {
+      "seenAt": "2026-11-15T05:21:14.667Z",
+      "title": "이준석, 전한길 추가 고소 예고…˝하버드 졸업장 공개한 지 10년 넘어˝:중수청일보 - 중수청일보",
+      "targetName": "이준석"
     }
   },
   "pending": []
