@@ -3490,5 +3490,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "cdfa17e572b75431b0f13ec2381b4eb06cbc49561cce7c2118bb2938ea3be727",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "한민수 “김민석도 징계청원 접수…최민희와 공정하게 처리돼야” - 문화일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BTXBvWjY4cHFQY3FjdUJDbk1ocXF2dldNay1oWmNkTEExRUJLb1dBa2p0N1ktMW9zMjVvT050QV9YNUxjUVVleTVldEhFUjho?oc=5\" target=\"_blank\">한민수 “김민석도 징계청원 접수…최민희와 공정하게 처리돼야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BTXBvWjY4cHFQY3FjdUJDbk1ocXF2dldNay1oWmNkTEExRUJLb1dBa2p0N1ktMW9zMjVvT050QV9YNUxjUVVleTVldEhFUjho?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 12:57:17 GMT",
+    "source": "문화일보",
+    "ageHours": 0.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한민수 “김민석도 징계청원 접수…최민희와 공정하게 처리돼야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
