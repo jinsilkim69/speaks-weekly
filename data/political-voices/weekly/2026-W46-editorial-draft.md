@@ -7125,3 +7125,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, '언행논란' 최민희 감찰결과 보고받고 윤리심판원 이첩 지시 - 뉴스1
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, '언행논란' 최민희 감찰결과 보고받고 윤리심판원 이첩 지시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQldvRTkyVWp2M3ltU3A5ZTNBZ0NUaXAtUmRDRFZkeHlDUGhkSV82YTlEb2Vtei1FaWNoTnZLdVl5Qi0yU0kzRGtuU0pCcnpaUGVnbmVxVGJkQQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [속보]‘칼 뺀’ 김민석…최민희, 윤리심판원으로 이첩 지시 - 문화일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘칼 뺀’ 김민석…최민희, 윤리심판원으로 이첩 지시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE52X0FtclFadWpsN3drSl9MSHYtUHVuVmZJMU5MeFFrYTJyTm1SdVhoOG8wa2N6TXVTd3lfTWQ0ZG1nazU5TVhYVWdsd3l4SjF4?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [속보] 김민석, 최민희 감찰결과 보고받아…윤리심판원 이첩 지시 - 조선일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 감찰결과 보고받아…윤리심판원 이첩 지시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2xFN3lLNmI0UVhya2FLa3FReTlNVkREeVBsOU9rWm1oTVFyNHNKazRRSlZMOG5PZl9TampLaVBtazRISVp1djV4X0lBZEt4dndMN1Jkd085d2hPcjJGWTBqNUg3X3V3MnhUeW55blcwUTYwc1c5SURQX0xSQTYwX2VKSXl6YUNBcXZyRUhfZWs?oc=5)
+
+---
+

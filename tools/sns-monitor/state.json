@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T09:21:14.348Z",
+  "lastCheckedAt": "2026-11-15T09:31:14.213Z",
   "seenPostIds": {
-    "62fb27bd7c2792970065a3ec9e5addeeeff982371e2d2225624e67efb6dad4b7": {
-      "seenAt": "2026-11-12T13:05:39.771Z",
-      "title": "적반하장 그 자체! \"전형적 벼락출세 한동훈\" #shorts - 오마이TV - OhmyNews",
-      "targetName": "한동훈"
-    },
-    "7bbc72ce2a9589693dc75f48ac77a3d3aa00cae0d96ad46e499e5d16578cb1ac": {
-      "seenAt": "2026-11-12T13:05:40.480Z",
-      "title": "윤리위 ‘내부 폭로’ 변수에 한동훈 복당 공방 재점화 - 부산일보",
-      "targetName": "한동훈"
-    },
-    "27a90ad276aa9f812df9c50f801817f871badcfc10851dda1814d783a0088552": {
-      "seenAt": "2026-11-12T13:05:41.162Z",
-      "title": "안철수 \"한동훈 복당론은 물귀신 행태…차라리 창당하라\" - www.hidomin.com",
-      "targetName": "한동훈"
-    },
     "66676fbb1cd82498dc4ef238030e90d16896e0d8c59c8662927d9844113927d4": {
       "seenAt": "2026-11-12T13:51:18.026Z",
       "title": "“복당 물귀신”“장동혁 해명하라”…‘한동훈 복당’에 또 갈라졌다 - 미주중앙일보",
@@ -2515,40 +2500,22 @@
       "seenAt": "2026-11-15T09:21:16.596Z",
       "title": "이재명 대통령 얼굴로 영정사진 만들고···정부, ‘변형현수막’ 집중단속 - 경향신문",
       "targetName": "이재명"
+    },
+    "0349f2587edf1a0318e3cfbce1ab54a37c6aef114426f1b7cb39586c9521f260": {
+      "seenAt": "2026-11-15T09:31:15.400Z",
+      "title": "김민석, '언행논란' 최민희 감찰결과 보고받고 윤리심판원 이첩 지시 - 뉴스1",
+      "targetName": "김민석"
+    },
+    "c1226d0aa03ca0d0ad65c31fd0c6382caadfdef9d7f40d19a719add984aa98a8": {
+      "seenAt": "2026-11-15T09:31:16.046Z",
+      "title": "[속보]‘칼 뺀’ 김민석…최민희, 윤리심판원으로 이첩 지시 - 문화일보",
+      "targetName": "김민석"
+    },
+    "4d05a62d9a74167bdad0f7ff8c3a1c9c30a4128118dcc7cba03449129cc4c177": {
+      "seenAt": "2026-11-15T09:31:16.696Z",
+      "title": "[속보] 김민석, 최민희 감찰결과 보고받아…윤리심판원 이첩 지시 - 조선일보",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "0349f2587edf1a0318e3cfbce1ab54a37c6aef114426f1b7cb39586c9521f260",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, '언행논란' 최민희 감찰결과 보고받고 윤리심판원 이첩 지시 - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQldvRTkyVWp2M3ltU3A5ZTNBZ0NUaXAtUmRDRFZkeHlDUGhkSV82YTlEb2Vtei1FaWNoTnZLdVl5Qi0yU0kzRGtuU0pCcnpaUGVnbmVxVGJkQQ?oc=5\" target=\"_blank\">김민석, '언행논란' 최민희 감찰결과 보고받고 윤리심판원 이첩 지시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQldvRTkyVWp2M3ltU3A5ZTNBZ0NUaXAtUmRDRFZkeHlDUGhkSV82YTlEb2Vtei1FaWNoTnZLdVl5Qi0yU0kzRGtuU0pCcnpaUGVnbmVxVGJkQQ?oc=5",
-        "pubDate": "Sun, 15 Nov 2026 09:12:17 GMT",
-        "source": "뉴스1",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c1226d0aa03ca0d0ad65c31fd0c6382caadfdef9d7f40d19a719add984aa98a8",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "[속보]‘칼 뺀’ 김민석…최민희, 윤리심판원으로 이첩 지시 - 문화일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE52X0FtclFadWpsN3drSl9MSHYtUHVuVmZJMU5MeFFrYTJyTm1SdVhoOG8wa2N6TXVTd3lfTWQ0ZG1nazU5TVhYVWdsd3l4SjF4?oc=5\" target=\"_blank\">[속보]‘칼 뺀’ 김민석…최민희, 윤리심판원으로 이첩 지시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52X0FtclFadWpsN3drSl9MSHYtUHVuVmZJMU5MeFFrYTJyTm1SdVhoOG8wa2N6TXVTd3lfTWQ0ZG1nazU5TVhYVWdsd3l4SjF4?oc=5",
-        "pubDate": "Sun, 15 Nov 2026 09:14:09 GMT",
-        "source": "문화일보",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
