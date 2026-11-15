@@ -7814,3 +7814,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** CNN’s Kaitlan Collins Slams Donald Trump’s FAA Ground Stop Response - TV Insider
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] CNN’s Kaitlan Collins Slams Donald Trump’s FAA Ground Stop Response
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMHdoRS0zc29rMHN0bXZFQXZzNEs5cHU5V2c0RlA1SnNYU0hOSW1wSDJ5VzN4NVlEclUyel81MHE2c3NETjlGQW5pLVQ2dTR2WFlCZmNneTcxR01iZlZxdzRuYVVJbmlENGxIM0w5RUo3bnJxYVRMbXdTQ3A2TVlxcXJoOS1MVnZtN0w1RDlsVXhydXFtd3MzeFRhYUN4VDQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP - WHEC.com
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMizAFBVV95cUxQMm56NnN3QUN1dGZvd3dxaGlob2ZibWdBWUtXS0hwQTRpTWF1b1VPWGdMQ3BVVWlaWkN4b1RndHFEVXU2VE9GcFVwQWQtNUxuaEtKTE9ScG9oLWxCUjJHZjJZUnVPVl9IWVgwQllFZ1hTdnlMclZkRDJiRE0yaFlhUFFyOXFBZ0lycy1hZlpQWVpSQ0dTRkJOc2FZRmpGcThhZWF6WmtUdi1lTjBPN3lHZmNYbmJIV2VKQWxwNENKX3MtNmpNQ2dISXFzZks?oc=5)
+
+---
+

@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-15T16:51:17.724Z",
+  "lastCheckedAt": "2026-11-15T17:01:16.305Z",
   "seenPostIds": {
     "cc64d5a5f8d477f2a10e63e1f053e612bae92011fbe26e0b99414fde0658015c": {
       "seenAt": "2026-11-12T16:41:19.614Z",
@@ -2500,6 +2500,16 @@
       "seenAt": "2026-11-15T16:31:18.049Z",
       "title": "'해남 배추 스타일' 박지원 \"배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지\"[여의도초대석] - KBC광주방송",
       "targetName": "정청래"
+    },
+    "52e04b8eb8d863275b2f33bf3061f8a6231a67791a828a210dfb5663d3fd6c5e": {
+      "seenAt": "2026-11-15T17:01:17.410Z",
+      "title": "CNN’s Kaitlan Collins Slams Donald Trump’s FAA Ground Stop Response - TV Insider",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ddfe6c2f8e2d4b1ec9835c61eebccec74fbf2826b0df9fa3e62e6da881d03bc8": {
+      "seenAt": "2026-11-15T17:01:18.227Z",
+      "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP - WHEC.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
