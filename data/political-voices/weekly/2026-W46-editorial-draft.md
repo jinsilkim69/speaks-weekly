@@ -6930,3 +6930,16 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5jYW1WNDVCT0dmNXB2WHRaOGFXVVVhbnl5Q3dvSE9NcUluMmJTbVdneWJtTFIzdV9sOEw3N3MyV1dOVGdVRHNuMXNTVEhJSmk5V2JGeDZkUVVPOVVPY01McFFDZFEtdGlpQU4wY9IBckFVX3lxTE1pTWJIMnRNSElHWkdjQzdYV2ZnaVNZQjY4THQ0SXBzWnVYdzg5cUdBSThsMDh4MnJmRE5ObW5rQlhNWWxldlJoSXI2R3pObjBJSGVjR05UYm9OSm53YUxiY3pMdTBKWF91ZXdsczNncF92dw?oc=5)
+
+---
+

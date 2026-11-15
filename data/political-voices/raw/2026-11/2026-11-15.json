@@ -2088,5 +2088,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "1b7d1b1313f4182416e9d74d92bbbd849e2f3fec65e2fa0361f6716ddc4d3dce",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5jYW1WNDVCT0dmNXB2WHRaOGFXVVVhbnl5Q3dvSE9NcUluMmJTbVdneWJtTFIzdV9sOEw3N3MyV1dOVGdVRHNuMXNTVEhJSmk5V2JGeDZkUVVPOVVPY01McFFDZFEtdGlpQU4wY9IBckFVX3lxTE1pTWJIMnRNSElHWkdjQzdYV2ZnaVNZQjY4THQ0SXBzWnVYdzg5cUdBSThsMDh4MnJmRE5ObW5rQlhNWWxldlJoSXI2R3pObjBJSGVjR05UYm9OSm53YUxiY3pMdTBKWF91ZXdsczNncF92dw?oc=5\" target=\"_blank\">조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jYW1WNDVCT0dmNXB2WHRaOGFXVVVhbnl5Q3dvSE9NcUluMmJTbVdneWJtTFIzdV9sOEw3N3MyV1dOVGdVRHNuMXNTVEhJSmk5V2JGeDZkUVVPOVVPY01McFFDZFEtdGlpQU4wY9IBckFVX3lxTE1pTWJIMnRNSElHWkdjQzdYV2ZnaVNZQjY4THQ0SXBzWnVYdzg5cUdBSThsMDh4MnJmRE5ObW5rQlhNWWxldlJoSXI2R3pObjBJSGVjR05UYm9OSm53YUxiY3pMdTBKWF91ZXdsczNncF92dw?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 07:57:31 GMT",
+    "source": "머니투데이",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
