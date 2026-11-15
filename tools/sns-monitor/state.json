@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T04:11:20.540Z",
+  "lastCheckedAt": "2026-11-15T04:21:15.306Z",
   "seenPostIds": {
-    "7KGw6rWt7ZiB7Iug64u5IOy1nOqzoOyc": {
-      "seenAt": "2026-11-12T03:48:54.951Z",
-      "title": "조국혁신당 최고위원회 열어 - 뉴시스",
-      "targetName": "조국"
-    },
     "67Cc7Ja47ZWY64qUIOyLoOyepeyLnSDs": {
       "seenAt": "2026-11-12T03:48:55.189Z",
       "title": "발언하는 신장식 조국혁신당 대표 - 뉴시스",
@@ -2505,6 +2500,21 @@
       "seenAt": "2026-11-15T04:11:22.123Z",
       "title": "Judge issues temporary block against Trump on Washington public golf course redevelopment - LiveNOW from FOX",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "fc2d4d07b358527a666de8dcdc59eb8ea2e1a086c036c82d356f88c2d2f657b1": {
+      "seenAt": "2026-11-15T04:21:16.700Z",
+      "title": "한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전 - 세계일보",
+      "targetName": "한동훈"
+    },
+    "b05177d0e3ae6a7a720e9fa6d3d0d5edbb6cc126cfab524230e49729c1503115": {
+      "seenAt": "2026-11-15T04:21:17.397Z",
+      "title": "최민희·한동훈, ’李·尹 재판비교’ 설전…“거짓말 마라“vs“우기면 추해“ - 연합뉴스TV",
+      "targetName": "한동훈"
+    },
+    "74c81a47430704b2c77c2a31111b9461f25a955ccb3737c052f821920ddcee60": {
+      "seenAt": "2026-11-15T04:21:18.177Z",
+      "title": "조갑제 “장동혁은 민주당 전략자산, 한동훈은 대한민국 전략자산” - 경기일보",
+      "targetName": "한동훈"
     }
   },
   "pending": []

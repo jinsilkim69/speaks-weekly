@@ -6592,3 +6592,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전 - 세계일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZOTg5THVQQkxDYUxpTnhkX05wZGNGb3ViUTRmemxmb2dEeWNrVmpyWHFoTEI2aHU3ejQyNG1vV2ptSXBmYm1UMk5hLUdjTUNkcFZqedIBVEFVX3lxTE1ZOTg5THVQQkxDYUxpTnhkX05wZGNGb3ViUTRmemxmb2dEeWNrVmpyWHFoTEI2aHU3ejQyNG1vV2ptSXBmYm1UMk5hLUdjTUNkcFZqeQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 최민희·한동훈, ’李·尹 재판비교’ 설전…“거짓말 마라“vs“우기면 추해“ - 연합뉴스TV
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희·한동훈, ’李·尹 재판비교’ 설전…“거짓말 마라“vs“우기면 추해“
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMTnB0SkJ2WENlT1JXQ2Q5bTlXRzc3TnctOFk5UmpVcmtoRzBQdTRPdlkzSkZ1MTA1LUpBcmw0S2FwdFlOSExfdndQcWc3NFBWbFI4cTNocTZpWWkwWWFVRVJPd3lOSFk?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 조갑제 “장동혁은 민주당 전략자산, 한동훈은 대한민국 전략자산” - 경기일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조갑제 “장동혁은 민주당 전략자산, 한동훈은 대한민국 전략자산”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5saU44ajFJWklKTndwQnZKaVQ2QXF1ZjExZFhSWFVDNEVLNHlGWHFpNzlCZXZZYjQzRTFTdHd2Y2ZvZ1RsYTlNZWJWU3owaGJRQ09BOXh4MGV4Nlk?oc=5)
+
+---
+
