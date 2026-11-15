@@ -7723,3 +7723,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump, in first comments on air travel halt, blames Biden - Arab News
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump, in first comments on air travel halt, blames Biden
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQm5KZFQ0d3VRMFdjeFgyM0dUcGVHLUFVR3B1WVBUUkowMm15d25UeE51cXRhTmotOGhEMDN3cWhPSVV4WFZRZGZRTHNPSzZ5aGRmM3M5S2xNaXpEMkk0WnFmRDhfMHNRM3NTU2IxRmc4aTdJSDVUc2xza29Ja1hpU1NPODNSbkxxSzhMRkJPX3ZiZ1JjVExZS0x3?oc=5)
+
+---
+

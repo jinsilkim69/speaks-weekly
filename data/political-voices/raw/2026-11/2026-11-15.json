@@ -3615,5 +3615,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b635371c4cb280839a818ca4b324bb19834dc60d9fa758ddb6a4b9a9d81b0d95",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump, in first comments on air travel halt, blames Biden - Arab News",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQm5KZFQ0d3VRMFdjeFgyM0dUcGVHLUFVR3B1WVBUUkowMm15d25UeE51cXRhTmotOGhEMDN3cWhPSVV4WFZRZGZRTHNPSzZ5aGRmM3M5S2xNaXpEMkk0WnFmRDhfMHNRM3NTU2IxRmc4aTdJSDVUc2xza29Ja1hpU1NPODNSbkxxSzhMRkJPX3ZiZ1JjVExZS0x3?oc=5\" target=\"_blank\">Trump, in first comments on air travel halt, blames Biden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arab News</font>",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQm5KZFQ0d3VRMFdjeFgyM0dUcGVHLUFVR3B1WVBUUkowMm15d25UeE51cXRhTmotOGhEMDN3cWhPSVV4WFZRZGZRTHNPSzZ5aGRmM3M5S2xNaXpEMkk0WnFmRDhfMHNRM3NTU2IxRmc4aTdJSDVUc2xza29Ja1hpU1NPODNSbkxxSzhMRkJPX3ZiZ1JjVExZS0x3?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 13:50:27 GMT",
+    "source": "Arab News",
+    "ageHours": 0.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump, in first comments on air travel halt, blames Biden",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
