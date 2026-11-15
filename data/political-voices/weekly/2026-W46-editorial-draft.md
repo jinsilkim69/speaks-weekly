@@ -7021,3 +7021,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 손수조 "'드루킹' 김경수 감옥, '당게' 한동훈은...곧 발표, 징계조작은 무슨, '조작기소' 李 닮아가나"[여의도 진검승부] - KBC광주방송
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 손수조 "'드루킹' 김경수 감옥, '당게' 한동훈은...곧 발표, 징계조작은 무슨, '조작기소' 李 닮아가나"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iX1kzeEdSM1pxT0Z3SGZrM2NqZUJQYTluTDRSYU13bjhydGEwWldLRWozdFYyV1ZwOEppalpOZUlvTkt6UjVRZEltOUkwRmJCRjhtV1FhRHdJNHJHRTQ2aw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 고개 숙인 최민희, 반격 포문?...국힘은 '한동훈 복당' 갑론을박 - YTN
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 고개 숙인 최민희, 반격 포문?...국힘은 '한동훈 복당' 갑론을박
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidkFVX3lxTE9Za2dwLUtTdDF6cl9iWEgxT2R6ZGx2REFnTy1VaDhqRzBmd3VFNGpVTTNkMkduclNVUUhHQTFONUJkVlJyNEl6YVo3SmNCX0RpNVE5SlVPZ1VUOVhFcnZ3cHE0Z2s0WlQxLTVfdlRjQ19qRk4zRGc?oc=5)
+
+---
+
