@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T01:21:16.172Z",
+  "lastCheckedAt": "2026-11-15T01:31:23.784Z",
   "seenPostIds": {
-    "VHJ1bXAgY2VsZWJyYXRlcyAnSHVnZSBW": {
-      "seenAt": "2026-11-11T23:06:19.508Z",
-      "title": "Trump celebrates 'Huge Victory against Fake News BBC' after judge allows defamation suit - National News Desk",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "7J207J6s66qFIOuMgO2GteuguSDqta3s": {
-      "seenAt": "2026-11-12T03:48:53.056Z",
-      "title": "이재명 대통령 국정 평가 '팽팽'···긍정 44%-부정 47% - 더리포트",
-      "targetName": "이재명"
-    },
     "7Yq465+87ZSEIFNOUyDtjIzqs6Drk6Ag": {
       "seenAt": "2026-11-12T03:48:53.057Z",
       "title": "트럼프 SNS 파고든 ‘위장 민심’…李대통령도 경계해야[송종호의 국정쏙쏙] - 서울경제",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-15T01:21:18.225Z",
       "title": "연일 ‘조희대 탄핵’ 외치는 조국혁신당의 두 가지 셈법 - 에너지경제신문",
       "targetName": "조국"
+    },
+    "43636a2d971887a3ae306b8659f35f99c4f3aabae504d0cd12901731d85025aa": {
+      "seenAt": "2026-11-15T01:31:25.080Z",
+      "title": "김민석, '언행 논란' 최민희 당 윤리감찰단 조사 지시 : 정치 - 재경일보",
+      "targetName": "김민석"
     }
   },
   "pending": []
