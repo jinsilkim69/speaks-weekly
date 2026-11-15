@@ -6761,3 +6761,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 “개혁 이름 빌려 개혁 방해하는 것 용납 어렵다” - 경기일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “개혁 이름 빌려 개혁 방해하는 것 용납 어렵다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE81eWE5MWpXUEFHT3dFRHJvUTVESjBfZGlHYkJVMVRNbFBmRmZRVGV4X0d1RURaRzlseldvZU8tdXItanJRZS1XZWxvVmJYTEY3LVNEcnpEQmtOWU0?oc=5)
+
+---
+
