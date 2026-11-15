@@ -273,5 +273,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "df4dc96d081976088e4d5fc9174441f9ed24dcc07cf661c9e7adabd4382858b0",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump blames Biden admin for FAA outage debacle — as he repeats Duffy’s call to spend billions on upgrades - New York Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRXpxdnpzWUZza3FfcTJhRkNSRW52Zl9yYjQ2S1JqNmJUQnM1S3BJSjJuNDl2VmxmOHNUNVI2SDF6UWZfYmJVTzRHNVBTbExBamFGZE9GVkJoSFNfMHQwR2MycXo3MS1adkU1TFkxajUxNDAtaFBvSWN5dU9hbGFtZWh4M042VU54ZktEU1RGd2tEQ1A3Q1czdXI3Wk1tcUd2WWtPRmppWXI0QWtJVmZVZ1JLajd0Qjd1R1hBVTZZcUhUNnZOZXYzbEhHVHp6SlE?oc=5\" target=\"_blank\">Trump blames Biden admin for FAA outage debacle — as he repeats Duffy’s call to spend billions on upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRXpxdnpzWUZza3FfcTJhRkNSRW52Zl9yYjQ2S1JqNmJUQnM1S3BJSjJuNDl2VmxmOHNUNVI2SDF6UWZfYmJVTzRHNVBTbExBamFGZE9GVkJoSFNfMHQwR2MycXo3MS1adkU1TFkxajUxNDAtaFBvSWN5dU9hbGFtZWh4M042VU54ZktEU1RGd2tEQ1A3Q1czdXI3Wk1tcUd2WWtPRmppWXI0QWtJVmZVZ1JLajd0Qjd1R1hBVTZZcUhUNnZOZXYzbEhHVHp6SlE?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 17:10:00 GMT",
+    "source": "New York Post",
+    "ageHours": 1.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump blames Biden admin for FAA outage debacle — as he repeats Duffy’s call to spend billions on upgrades",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
