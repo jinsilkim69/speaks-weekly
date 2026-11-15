@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T14:41:15.848Z",
+  "lastCheckedAt": "2026-11-15T14:51:15.819Z",
   "seenPostIds": {
-    "dc7cab7a8fb9f3327c8c62b12cfcf23438780481d2b1f4481d399afb10798174": {
-      "seenAt": "2026-11-12T16:21:18.955Z",
-      "title": "Trump deflects blame for Republican midterm losses as finger-pointing begins - Scripps News",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "a7e2aa1a3131a1449f4b5099f3b4a15040e0980bb52436896ac13db25fabb1fd": {
       "seenAt": "2026-11-12T16:21:19.562Z",
       "title": "Trump Announces Susie Wiles out, Stephen Miller in as WH Chief of Staff - The Well News",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-15T14:41:16.942Z",
       "title": "Trump, in first comments on air travel halt, blames Biden - Arab News",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "df5bf90451592c50a238cfdeec7ee0106d5427b2d13462a400655f7472f20d47": {
+      "seenAt": "2026-11-15T14:51:17.166Z",
+      "title": "김민석, '최민희 발언 논란' 윤리심판원 이첩 지시…징계 수순(종합) - 연합뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": []
