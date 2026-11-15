@@ -7515,3 +7515,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 “개혁 방해 용납 어려워”… 여권 강경파 겨냥 해석 - 천지일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “개혁 방해 용납 어려워”… 여권 강경파 겨냥 해석
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE5JTGk0TERFWW5ndnU5TjlZWENDU0g3YWw2ZFl2S0IyWjdCbjB0bXJYVlp2REk3YkVEMmlHMmdyZ1M2X3JXNGRvOXNfT3ZfdnJCOGJMaGVIbWl6TlhTd0k3X0RpVkZORVQ5c0E?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “우기면 추해” 최민희 “거짓말 마”…李·尹 재판 놓고 설전 - 미주중앙일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “우기면 추해” 최민희 “거짓말 마”…李·尹 재판 놓고 설전
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFZWk1OFV6T2t3SHg2a3kzTWxQV2VGOEdKUU5sNmJGd04yVzQyN2o2NGRSdG9pbTFla1FDSnV4Q2gzdldfWGw1WExDdHNrb2pKU0pEdVRGckJJWWlFM0szQk9n?oc=5)
+
+---
+
