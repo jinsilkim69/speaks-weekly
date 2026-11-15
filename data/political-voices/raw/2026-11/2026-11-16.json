@@ -323,5 +323,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "1efd1e9d4b7de7116596d7b832ada9511b75d5569706613d34aa94e255b674f3",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Blames Biden Administration for FAA Ground Stop While Breaking His Silence on Nationwide Crisis - People.com",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUkVYeXBjaFRoX3RpUWNLcV9BdzltWFJ4N1RqMnpncGw2STRpMnVZcFdXY25XMFdOOFpLY0oyUWNmY005ZmhYT0ttZUpVTDV2S3FkcndQWW5HTV9CdmxrdGJfTnlfczlKN2p1cFJDWUNubjZZaUdPcGFxbUtsa3lzd3BnUmhqYjJtUVRBT0xuME4zVzFuM094VVdlajhWZEJL?oc=5\" target=\"_blank\">Trump Blames Biden Administration for FAA Ground Stop While Breaking His Silence on Nationwide Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUkVYeXBjaFRoX3RpUWNLcV9BdzltWFJ4N1RqMnpncGw2STRpMnVZcFdXY25XMFdOOFpLY0oyUWNmY005ZmhYT0ttZUpVTDV2S3FkcndQWW5HTV9CdmxrdGJfTnlfczlKN2p1cFJDWUNubjZZaUdPcGFxbUtsa3lzd3BnUmhqYjJtUVRBT0xuME4zVzFuM094VVdlajhWZEJL?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 19:37:58 GMT",
+    "source": "People.com",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Blames Biden Administration for FAA Ground Stop While Breaking His Silence on Nationwide Crisis",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

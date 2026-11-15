@@ -7918,3 +7918,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Blames Biden Administration for FAA Ground Stop While Breaking His Silence on Nationwide Crisis - People.com
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Blames Biden Administration for FAA Ground Stop While Breaking His Silence on Nationwide Crisis
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUkVYeXBjaFRoX3RpUWNLcV9BdzltWFJ4N1RqMnpncGw2STRpMnVZcFdXY25XMFdOOFpLY0oyUWNmY005ZmhYT0ttZUpVTDV2S3FkcndQWW5HTV9CdmxrdGJfTnlfczlKN2p1cFJDWUNubjZZaUdPcGFxbUtsa3lzd3BnUmhqYjJtUVRBT0xuME4zVzFuM094VVdlajhWZEJL?oc=5)
+
+---
+
