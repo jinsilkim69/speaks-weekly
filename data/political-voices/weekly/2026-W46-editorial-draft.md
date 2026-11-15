@@ -7944,3 +7944,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown - PBS
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlN2bms3WThwX1hyY1pvcjVBa0FJeUNjaWE5Mll0MzNRVTZKUHltaDZwZlVLb3RtSHc3VjZEQzVkd29NbXpGZjdRTEQ5MjRTU3VMRWRiNHVjOUk3cU9jaUNzeGF3VWVyUDF0LW45bEZ4anNYcVRYQTNHVVd2OXZiY0s5ZWtMbnZlVlAxb1NkUjFyaFZtMTEwOXNiclMyM0VUOHVvWThCQnpzM2kxM1I3Q0k2QTltY0hMakJja3J30gHDAUFVX3lxTFBVMmdTSjk0cS12a29lalFrWVVtSXVHWFFycV9SS00yMTJvUGNYbVNkS01BV2o3ajFuR01xTmQ0MVhTYUhITGdQb0NGQzh0YVpacGVpWWZkRDhEYk5ValFhSjgwbUtNM3hTbkNTVjM5ZEswT2hHakZkRmZwRF9LTjBtUUJnX0g5QkJ5Y1ZPVGdldnJObEVBeHFmVTUxbllBLTJQQlc0ZF8tVG1wNXdhTURtTnBnTDN2MDBlNWdVTU1VWnFHdw?oc=5)
+
+---
+

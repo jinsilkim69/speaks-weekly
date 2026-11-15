@@ -373,5 +373,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "ed5f937c6fb4278dca63855635cb0f31272660947d3feecf78fa1000a1e4f059",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown - PBS",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlN2bms3WThwX1hyY1pvcjVBa0FJeUNjaWE5Mll0MzNRVTZKUHltaDZwZlVLb3RtSHc3VjZEQzVkd29NbXpGZjdRTEQ5MjRTU3VMRWRiNHVjOUk3cU9jaUNzeGF3VWVyUDF0LW45bEZ4anNYcVRYQTNHVVd2OXZiY0s5ZWtMbnZlVlAxb1NkUjFyaFZtMTEwOXNiclMyM0VUOHVvWThCQnpzM2kxM1I3Q0k2QTltY0hMakJja3J30gHDAUFVX3lxTFBVMmdTSjk0cS12a29lalFrWVVtSXVHWFFycV9SS00yMTJvUGNYbVNkS01BV2o3ajFuR01xTmQ0MVhTYUhITGdQb0NGQzh0YVpacGVpWWZkRDhEYk5ValFhSjgwbUtNM3hTbkNTVjM5ZEswT2hHakZkRmZwRF9LTjBtUUJnX0g5QkJ5Y1ZPVGdldnJObEVBeHFmVTUxbllBLTJQQlc0ZF8tVG1wNXdhTURtTnBnTDN2MDBlNWdVTU1VWnFHdw?oc=5\" target=\"_blank\">Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlN2bms3WThwX1hyY1pvcjVBa0FJeUNjaWE5Mll0MzNRVTZKUHltaDZwZlVLb3RtSHc3VjZEQzVkd29NbXpGZjdRTEQ5MjRTU3VMRWRiNHVjOUk3cU9jaUNzeGF3VWVyUDF0LW45bEZ4anNYcVRYQTNHVVd2OXZiY0s5ZWtMbnZlVlAxb1NkUjFyaFZtMTEwOXNiclMyM0VUOHVvWThCQnpzM2kxM1I3Q0k2QTltY0hMakJja3J30gHDAUFVX3lxTFBVMmdTSjk0cS12a29lalFrWVVtSXVHWFFycV9SS00yMTJvUGNYbVNkS01BV2o3ajFuR01xTmQ0MVhTYUhITGdQb0NGQzh0YVpacGVpWWZkRDhEYk5ValFhSjgwbUtNM3hTbkNTVjM5ZEswT2hHakZkRmZwRF9LTjBtUUJnX0g5QkJ5Y1ZPVGdldnJObEVBeHFmVTUxbllBLTJQQlc0ZF8tVG1wNXdhTURtTnBnTDN2MDBlNWdVTU1VWnFHdw?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 19:44:00 GMT",
+    "source": "PBS",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
