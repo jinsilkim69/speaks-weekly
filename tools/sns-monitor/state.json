@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T04:21:15.306Z",
+  "lastCheckedAt": "2026-11-15T04:31:14.961Z",
   "seenPostIds": {
-    "67Cc7Ja47ZWY64qUIOyLoOyepeyLnSDs": {
-      "seenAt": "2026-11-12T03:48:55.189Z",
-      "title": "발언하는 신장식 조국혁신당 대표 - 뉴시스",
-      "targetName": "신장식"
-    },
-    "7LWc6rOg7JyEIOuwnOyWuO2VmOuKlCDs": {
-      "seenAt": "2026-11-12T03:48:55.189Z",
-      "title": "최고위 발언하는 신장식 조국혁신당 대표 - 뉴시스",
-      "targetName": "신장식"
-    },
-    "7LWc6rOg7JyE7JuQ7ZqMIOywuOyEne2V": {
-      "seenAt": "2026-11-12T03:48:55.189Z",
-      "title": "최고위원회 참석한 신장식 대표 - 뉴시스",
-      "targetName": "신장식"
-    },
     "SnVkZ2UgYWxsb3dzIFRydW1wIGRlZmFt": {
       "seenAt": "2026-11-12T03:48:55.495Z",
       "title": "Judge allows Trump defamation case against BBC to proceed but tosses 1 claim - WWNY",
@@ -2515,6 +2500,16 @@
       "seenAt": "2026-11-15T04:21:18.177Z",
       "title": "조갑제 “장동혁은 민주당 전략자산, 한동훈은 대한민국 전략자산” - 경기일보",
       "targetName": "한동훈"
+    },
+    "9515554db0288c29220b822d8086ae73c60fe4f825105cad758df0c6e3b93899": {
+      "seenAt": "2026-11-15T04:31:16.031Z",
+      "title": "[속보] 강득구 \"김민석이 종교집단 힘 빌려 정치적 이익? 헛웃음 나와\" - 경기일보",
+      "targetName": "김민석"
+    },
+    "4e399ffcf432a626d79a2d458f99b00891b0049c9ec4657b4cbb9c2ac7f2ca2e": {
+      "seenAt": "2026-11-15T04:31:16.724Z",
+      "title": "\"노무현 대통령 추천, 시험 안 치고 하버드 갔다\" 전한길 주장에 이준석 추가 고소 예고 - 아시아경제",
+      "targetName": "이준석"
     }
   },
   "pending": []

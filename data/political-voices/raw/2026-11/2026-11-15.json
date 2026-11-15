@@ -1511,5 +1511,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "9515554db0288c29220b822d8086ae73c60fe4f825105cad758df0c6e3b93899",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "[속보] 강득구 \"김민석이 종교집단 힘 빌려 정치적 이익? 헛웃음 나와\" - 경기일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE55QzVlbWFQTUQ3MW8tWnRFS21YY0NQRnVVbFduYlZUek5zRVN4UHhlQ0ctV3JOdG1DMWNGb0pHMGx0dm42QUllRGRnNWE5S1d6OVlON3NyeWZWMEk?oc=5\" target=\"_blank\">[속보] 강득구 \"김민석이 종교집단 힘 빌려 정치적 이익? 헛웃음 나와\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55QzVlbWFQTUQ3MW8tWnRFS21YY0NQRnVVbFduYlZUek5zRVN4UHhlQ0ctV3JOdG1DMWNGb0pHMGx0dm42QUllRGRnNWE5S1d6OVlON3NyeWZWMEk?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 04:20:16 GMT",
+    "source": "경기일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 강득구 \"김민석이 종교집단 힘 빌려 정치적 이익? 헛웃음 나와\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "4e399ffcf432a626d79a2d458f99b00891b0049c9ec4657b4cbb9c2ac7f2ca2e",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "\"노무현 대통령 추천, 시험 안 치고 하버드 갔다\" 전한길 주장에 이준석 추가 고소 예고 - 아시아경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE10YWVyeERmUXd3bnh5Vm1TenJ2aTF4cmQ0djlfR0REclBfc2NUb0ZfYW0zbnk0Y3hiWEp0ME10Ry1FekVGYUt0bkI1c2V1d3ozOEMzekRRZnUyT1FzZ0YySg?oc=5\" target=\"_blank\">\"노무현 대통령 추천, 시험 안 치고 하버드 갔다\" 전한길 주장에 이준석 추가 고소 예고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10YWVyeERmUXd3bnh5Vm1TenJ2aTF4cmQ0djlfR0REclBfc2NUb0ZfYW0zbnk0Y3hiWEp0ME10Ry1FekVGYUt0bkI1c2V1d3ozOEMzekRRZnUyT1FzZ0YySg?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 04:23:55 GMT",
+    "source": "아시아경제",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"노무현 대통령 추천, 시험 안 치고 하버드 갔다\" 전한길 주장에 이준석 추가 고소 예고",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

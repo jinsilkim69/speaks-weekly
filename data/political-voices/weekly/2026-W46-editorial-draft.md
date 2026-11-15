@@ -6631,3 +6631,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [속보] 강득구 "김민석이 종교집단 힘 빌려 정치적 이익? 헛웃음 나와" - 경기일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 강득구 "김민석이 종교집단 힘 빌려 정치적 이익? 헛웃음 나와"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE55QzVlbWFQTUQ3MW8tWnRFS21YY0NQRnVVbFduYlZUek5zRVN4UHhlQ0ctV3JOdG1DMWNGb0pHMGx0dm42QUllRGRnNWE5S1d6OVlON3NyeWZWMEk?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** "노무현 대통령 추천, 시험 안 치고 하버드 갔다" 전한길 주장에 이준석 추가 고소 예고 - 아시아경제
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "노무현 대통령 추천, 시험 안 치고 하버드 갔다" 전한길 주장에 이준석 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE10YWVyeERmUXd3bnh5Vm1TenJ2aTF4cmQ0djlfR0REclBfc2NUb0ZfYW0zbnk0Y3hiWEp0ME10Ry1FekVGYUt0bkI1c2V1d3ozOEMzekRRZnUyT1FzZ0YySg?oc=5)
+
+---
+
