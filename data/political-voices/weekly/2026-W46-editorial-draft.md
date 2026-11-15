@@ -7541,3 +7541,16 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 최민희 논란에 칼 빼든 김민석... 친명 "중징계 불가피", 정청래는 침묵 - 한국일보
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 논란에 칼 빼든 김민석... 친명 "중징계 불가피", 정청래는 침묵
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE1vYjJ3VmtRWEcxLWNLSHFxeGJWMXJSX2RUb3M0dTBSbXdZQTB4djVJX0xScVg0b2s4VFB1aWoxQWFhVFdQczZVU2FfVXlwdlRKMG5jQkNoQnZSVDQzd0JUaFd3VDJ4SFZPQktWYkpQMDd3WnfSAXNBVV95cUxNb2Iyd1ZrUVhHMS1jS0hxcXhiVjFyUl9kVG9zNHUwUm13WUEweHY1SV9MUnFYNG9rOFRQdWlqMUFhYVRXUHM2VVNhX1V5cHZUSjBuY0JDaEJ2UlQ0M3dCVGhXd1QyeEhWT0JLVmJKUDA3d1p3?oc=5)
+
+---
+
