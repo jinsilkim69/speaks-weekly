@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-15T21:01:15.228Z",
+  "lastCheckedAt": "2026-11-15T21:11:15.053Z",
   "seenPostIds": {
     "65bc1394d22799bf643d6b4860c0134ac406fdb8d2a642d57298d34e2516c0d0": {
       "seenAt": "2026-11-12T17:21:18.698Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-15T20:41:19.664Z",
       "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown - PBS",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "c9727b71ba650903aa67d1e61bc9c46a6483a8917813b3212c9708576db3ad77": {
+      "seenAt": "2026-11-15T21:11:16.196Z",
+      "title": "민주당 또 때린 조국 \"조희대는 행동 하는데 與는 말만 하고 있어\" 등 [11/16(월) 데일리안 출근길 뉴스] - 데일리안",
+      "targetName": "조국"
     }
   },
   "pending": []
