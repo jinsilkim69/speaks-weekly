@@ -6904,3 +6904,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 의원 장인 진형구 전 대전고검장 별세…향년 81세 - 한국경제
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 의원 장인 진형구 전 대전고검장 별세…향년 81세
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DUFA0ZnUtLUltMFVUcWd2dF83cG9qaGt6b3R3b0RpVjJORDliTXNmQ1Z4OWpLeVdEV3BpdTlySlNQVDV0c2lkVVJ5SzFUUE5URzNhX0JvNnlidw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "노무현 대통령 추천서로 하버드 입학?"⋯전한길 추가 고소 예고 - 아이뉴스24
+
+- **수집일**: 2026-11-15 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "노무현 대통령 추천서로 하버드 입학?"⋯전한길 추가 고소 예고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiSEFVX3lxTE80ZDhvUHl3SnZzMUFHaWdscGJJTU9BTTBXME5CR3hWMW1IdEtteVFMcnBFdHN6WUE4ZnVPT3I1VWNWTm1wWVhWcA?oc=5)
+
+---
+
