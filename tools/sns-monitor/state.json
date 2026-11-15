@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T23:11:19.685Z",
+  "lastCheckedAt": "2026-11-15T23:21:16.382Z",
   "seenPostIds": {
-    "000a7a4e0e3c92aeed1d5516f099b94914d7641c4dd337242d813c09420a1402": {
-      "seenAt": "2026-11-12T17:31:18.437Z",
-      "title": "Trump says ‘we don’t need a deal with Iran’ - CNBC",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "adaf4226ac7e3a8742af8143e116747f910073db678c3b4ee2037a075b186385": {
       "seenAt": "2026-11-12T17:41:17.820Z",
       "title": "Trump’s morning meltdown includes reminders he pays his taxes and false claims about presidential salary - The Independent",
@@ -2504,6 +2499,11 @@
     "e14b55c9a344de466f8912826251557a03f659c9f5bd0a7b51dd7a09e0f70923": {
       "seenAt": "2026-11-15T23:11:21.064Z",
       "title": "이재명 대통령의 이주노동자 발언, 꼼꼼히 따져보니 - 시사IN",
+      "targetName": "이재명"
+    },
+    "f8594a1e74b8c13a9bcc0eaa80e7bf9c2acabf65a164d093fb2dd3b4b0ab4708": {
+      "seenAt": "2026-11-15T23:21:17.542Z",
+      "title": "이재명 대통령, “등 뒤에서 날아오는 화살”… 천준호 격려 뒤로 숨긴 민주당 내홍 향한 ‘작심 경고’ - 미디어써치",
       "targetName": "이재명"
     }
   },
