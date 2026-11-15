@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-15T22:11:16.928Z",
+  "lastCheckedAt": "2026-11-15T22:21:15.967Z",
   "seenPostIds": {
     "179c84602baf147ce4c17c8774a6691929deb103c5f1b1a5cf313e68cd1678f0": {
       "seenAt": "2026-11-12T17:21:19.408Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-15T21:11:16.196Z",
       "title": "민주당 또 때린 조국 \"조희대는 행동 하는데 與는 말만 하고 있어\" 등 [11/16(월) 데일리안 출근길 뉴스] - 데일리안",
       "targetName": "조국"
+    },
+    "4a6b2bf7578f37c4294a875200841f267229260195c09fbf3f41feed4e0046f0": {
+      "seenAt": "2026-11-15T22:21:17.399Z",
+      "title": "Trump’s Golf Course Plans Hit a Legal Obstacle: His Own Social Media Posts - Time Magazine",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
