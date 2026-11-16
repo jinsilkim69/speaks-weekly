@@ -2086,5 +2086,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c53077a9945053e321d2d2043315ed2850071bf965cadd857437e5a19fe63bb1",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당 '민주유공자법 즉각 제정하라!' - 서울뉴스통신",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE50dDNvUXo3SkpPSC0wLXpwYW9lS295enRlT1otUHdtV2RlU21sM0xKVWVNUV9sZ3RyaVpmUHZiTlR5NFg5djNUR0FxVEhERlNELWVYQUhRQU9OeHVIajAyWmNnZG9uYnFrUzgw?oc=5\" target=\"_blank\">조국혁신당 '민주유공자법 즉각 제정하라!'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울뉴스통신</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50dDNvUXo3SkpPSC0wLXpwYW9lS295enRlT1otUHdtV2RlU21sM0xKVWVNUV9sZ3RyaVpmUHZiTlR5NFg5djNUR0FxVEhERlNELWVYQUhRQU9OeHVIajAyWmNnZG9uYnFrUzgw?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 05:11:24 GMT",
+    "source": "서울뉴스통신",
+    "ageHours": 2.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당 '민주유공자법 즉각 제정하라!'",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
