@@ -348,5 +348,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "1fe66913095296bea80bf8053f72e51a5b3cf6f6a0eb820961afd8c33c84c66b",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "DOJ Warns Democratic Senator of ‘Legal Consequences’ Over Trump Investigations—What Can It Actually Do? - Time Magazine",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVN6WUMxWF9NenhVRVl5ZE9Tb3llU0Jja1pqZGhrb1V2S0k2Q0xUU19kRlhvZWE2a1dfa1BUQlNMSE95VXhLWnY5VnVCRVllcFJ1SXJQTVFsRGttZGZyY0d1RE45NXR6b1FBaHFpVUtmUm9yWlRfYnRsSUFmWG1KSWgzSm5UcjBhSEE3QnR6RUh5TFhVanRpa25pVXRvNERoT1Ixa3JEYjhhTVpmU3JoaS1CdHhKY05Ncm11RXgwdmtQTDNsVGYteE5pejlsMkdMTlRENg?oc=5\" target=\"_blank\">DOJ Warns Democratic Senator of ‘Legal Consequences’ Over Trump Investigations—What Can It Actually Do?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Time Magazine</font>",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRVN6WUMxWF9NenhVRVl5ZE9Tb3llU0Jja1pqZGhrb1V2S0k2Q0xUU19kRlhvZWE2a1dfa1BUQlNMSE95VXhLWnY5VnVCRVllcFJ1SXJQTVFsRGttZGZyY0d1RE45NXR6b1FBaHFpVUtmUm9yWlRfYnRsSUFmWG1KSWgzSm5UcjBhSEE3QnR6RUh5TFhVanRpa25pVXRvNERoT1Ixa3JEYjhhTVpmU3JoaS1CdHhKY05Ncm11RXgwdmtQTDNsVGYteE5pejlsMkdMTlRENg?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 18:38:20 GMT",
+    "source": "Time Magazine",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] DOJ Warns Democratic Senator of ‘Legal Consequences’ Over Trump Investigations—What Can It Actually Do?",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T18:41:20.021Z",
+  "lastCheckedAt": "2026-11-16T18:51:19.367Z",
   "seenPostIds": {
-    "b72c263463d6e11d317209b90309c13949cd55453fc6116cf5f6bf82923880f8": {
-      "seenAt": "2026-11-13T07:11:18.075Z",
-      "title": "합당하자면서 '대선 꿈 접으라'는 민주당 … 조국당 \"기만\" 반발 - 뉴데일리",
-      "targetName": "조국"
-    },
     "c1d39e4e016baa20647142b1bd4102789e0653312b80beb938674da561e3eb46": {
       "seenAt": "2026-11-13T07:11:18.695Z",
       "title": "민주당은 '합당 군불'…조국혁신당은 \"사과부터\" - 데일리안",
@@ -2504,6 +2499,11 @@
     "e8eb61d2af2fff521feb1ba9147163db3fc3471372c3dd380de1edd13f7e8c0c": {
       "seenAt": "2026-11-16T18:41:21.216Z",
       "title": "Bill Maher, 70, Backs Trump’s D.C. Desecration After Public Humiliation - Yahoo",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "1fe66913095296bea80bf8053f72e51a5b3cf6f6a0eb820961afd8c33c84c66b": {
+      "seenAt": "2026-11-16T18:51:20.446Z",
+      "title": "DOJ Warns Democratic Senator of ‘Legal Consequences’ Over Trump Investigations—What Can It Actually Do? - Time Magazine",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
