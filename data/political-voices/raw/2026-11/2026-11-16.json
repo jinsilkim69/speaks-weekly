@@ -2586,5 +2586,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "000e0bfcdfe896a18c0ece424d3d301e00aa61554d972f2488a80ef9326f77dd",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "정청래 차량 걷어찬 남성에 '장애 있다' 발언…유튜버 송치 - 이데일리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0RwdHk0anNSUy1MekZkc1hYQjdUbGk1aFZkMnAwQTlMQld0LWl4U0FhN3o5SHV5aUpTaWxFakExdDhxS3NVVGU4c3drWmdWOTNBM01WLWpWU2JBRmNLa2VMVUhTQ0JHNHVhcUxEeU1WR3FFWV9BdlRNUTN4eEF1aQ?oc=5\" target=\"_blank\">정청래 차량 걷어찬 남성에 '장애 있다' 발언…유튜버 송치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0RwdHk0anNSUy1MekZkc1hYQjdUbGk1aFZkMnAwQTlMQld0LWl4U0FhN3o5SHV5aUpTaWxFakExdDhxS3NVVGU4c3drWmdWOTNBM01WLWpWU2JBRmNLa2VMVUhTQ0JHNHVhcUxEeU1WR3FFWV9BdlRNUTN4eEF1aQ?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 10:48:00 GMT",
+    "source": "이데일리",
+    "ageHours": 1.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래 차량 걷어찬 남성에 '장애 있다' 발언…유튜버 송치",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
