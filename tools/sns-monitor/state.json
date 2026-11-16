@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T05:41:21.319Z",
+  "lastCheckedAt": "2026-11-16T05:51:17.259Z",
   "seenPostIds": {
-    "0162c9232519a758eb0225730167b9227cb2b96910a232f9d786a682b3a90ede": {
-      "seenAt": "2026-11-12T21:21:28.552Z",
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor - Yahoo Finance",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "3ac32e9803146d81a9e2b8b9012b8d33052586e05a0a43dae29d65ce687c2c5a": {
       "seenAt": "2026-11-12T21:31:19.358Z",
       "title": "“친일재산국가귀속법 시행령 보완해야”…조국혁신당‧광복회 공감대 - 충북인뉴스",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-16T05:41:22.750Z",
       "title": "민주당 또 때린 조국 \"조희대는 행동 하는데 與는 말만 하고 있어\" - 데일리안",
       "targetName": "조국"
+    },
+    "d7ef30d9757085265b70f1676e67f1876d50d9f19a5bc9dd0758dd0ed1a401f2": {
+      "seenAt": "2026-11-16T05:51:18.407Z",
+      "title": "국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길 - 뉴시스",
+      "targetName": "한동훈"
+    },
+    "00f907d9f9d48b17a95b0199150235f824760c9d8615b9afa2573f601e547085": {
+      "seenAt": "2026-11-16T05:51:19.102Z",
+      "title": "이준석, 尹 겨냥했나…\"돈에 관심 없다는 사람은 돈에 미친 사람\" - JTBC",
+      "targetName": "이준석"
     }
   },
   "pending": []

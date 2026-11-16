@@ -547,3 +547,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길 - 뉴시스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sSEI0S2JaT1pLZXkySzRWUThfSmd4c0tkSWZ6MXgwMVNvT2xfWk9uNk1peE5Ec1plbW1HREtwcHRZd3FNX2NsYkl6SnZZbElwNldwcU95TS02UllIVE9KUtIBeEFVX3lxTE1uam0ydkpXTzVTTllZeUpPWmdmVXd6ZFFHV2FyTFYwakE4WGxvVmR3SkFja2cyYnc3MFFCQU9qSXJ0TXpybkdfcUVvZEV6ZTRoa3h6RmhoR2pPUUZUbll4dnJFbDZsRDBQQ09VMlk3bjZVV3hsQWJ1aw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 尹 겨냥했나…"돈에 관심 없다는 사람은 돈에 미친 사람" - JTBC
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 尹 겨냥했나…"돈에 관심 없다는 사람은 돈에 미친 사람"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vRGlQQ09xQVFRbEZobzJmWEhaVzNYNzRFMGU0eHZDUGVMdXF3TE5GSUV3dzN1MEVHZEM4dUlMZ3pMeXZvZHoyX3dPSTVpXzlubFh5ZQ?oc=5)
+
+---
+

@@ -1683,5 +1683,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d7ef30d9757085265b70f1676e67f1876d50d9f19a5bc9dd0758dd0ed1a401f2",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길 - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sSEI0S2JaT1pLZXkySzRWUThfSmd4c0tkSWZ6MXgwMVNvT2xfWk9uNk1peE5Ec1plbW1HREtwcHRZd3FNX2NsYkl6SnZZbElwNldwcU95TS02UllIVE9KUtIBeEFVX3lxTE1uam0ydkpXTzVTTllZeUpPWmdmVXd6ZFFHV2FyTFYwakE4WGxvVmR3SkFja2cyYnc3MFFCQU9qSXJ0TXpybkdfcUVvZEV6ZTRoa3h6RmhoR2pPUUZUbll4dnJFbDZsRDBQQ09VMlk3bjZVV3hsQWJ1aw?oc=5\" target=\"_blank\">국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sSEI0S2JaT1pLZXkySzRWUThfSmd4c0tkSWZ6MXgwMVNvT2xfWk9uNk1peE5Ec1plbW1HREtwcHRZd3FNX2NsYkl6SnZZbElwNldwcU95TS02UllIVE9KUtIBeEFVX3lxTE1uam0ydkpXTzVTTllZeUpPWmdmVXd6ZFFHV2FyTFYwakE4WGxvVmR3SkFja2cyYnc3MFFCQU9qSXJ0TXpybkdfcUVvZEV6ZTRoa3h6RmhoR2pPUUZUbll4dnJFbDZsRDBQQ09VMlk3bjZVV3hsQWJ1aw?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 04:56:22 GMT",
+    "source": "뉴시스",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "00f907d9f9d48b17a95b0199150235f824760c9d8615b9afa2573f601e547085",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석, 尹 겨냥했나…\"돈에 관심 없다는 사람은 돈에 미친 사람\" - JTBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vRGlQQ09xQVFRbEZobzJmWEhaVzNYNzRFMGU0eHZDUGVMdXF3TE5GSUV3dzN1MEVHZEM4dUlMZ3pMeXZvZHoyX3dPSTVpXzlubFh5ZQ?oc=5\" target=\"_blank\">이준석, 尹 겨냥했나…\"돈에 관심 없다는 사람은 돈에 미친 사람\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vRGlQQ09xQVFRbEZobzJmWEhaVzNYNzRFMGU0eHZDUGVMdXF3TE5GSUV3dzN1MEVHZEM4dUlMZ3pMeXZvZHoyX3dPSTVpXzlubFh5ZQ?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 03:00:12 GMT",
+    "source": "JTBC",
+    "ageHours": 2.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석, 尹 겨냥했나…\"돈에 관심 없다는 사람은 돈에 미친 사람\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
