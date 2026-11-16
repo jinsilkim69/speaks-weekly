@@ -1236,3 +1236,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 조상호 "한동훈·주진우, 예의주시하며 지켜보는 중" #Shorts - OhmyNews
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조상호 "한동훈·주진우, 예의주시하며 지켜보는 중" #Shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE1NWjVKeGVyRElSRzk2Wml3Nk9TSW44UEtOMUdvb3pvSGNOUFhySW03SlF1eTQ5RUdHczYxTjB2czRranRZWTROSzZBejg2NWJiZTBZaFR0RUZxTlZfREhOaWI2SEd0VzVWWHBwYjhTYkczN3BkTEZ6S09JSEdrQ2c?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 발언 논란에 "정치 별개 윤리 문제 판단 이뤄질 것" - SBS 뉴스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 발언 논란에 "정치 별개 윤리 문제 판단 이뤄질 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFA0eTNQcHZpMjE3V01yRXBVZC1GclRXdzdLdHpQeEFLclhQNDVCdk1oRzRiRDNMMXRyWThyTlFuM0VrWXhiWVVKbGV3cC1VTDhUVmc3U3RJcC14VnVkN3FhOERrRWphX1F2Z0E?oc=5)
+
+---
+
