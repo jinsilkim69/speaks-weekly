@@ -1275,3 +1275,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희, 90도 사과했지만… 김민석 "당헌 따라 처리" - 조선일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희, 90도 사과했지만… 김민석 "당헌 따라 처리"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxNS1pBM2pGRFo1bmhkQ21jRVotVWY4UzFRU0JKSUlnZmpmOU16QzJmUVpMOWdIWEIwSjNGU252Z2I4bWhITmFoSGJ0S21ZNHVKMnNyRmhoVGpQdDctbVNNZ1d1WHYxRHljT2czbFNpcmFBSHRlaF9kTGZ6TVRWTkFaWGxfWURvdw?oc=5)
+
+---
+

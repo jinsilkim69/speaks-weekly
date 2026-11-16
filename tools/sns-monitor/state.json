@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T15:51:27.067Z",
+  "lastCheckedAt": "2026-11-16T16:01:26.994Z",
   "seenPostIds": {
-    "7b95f2d8031d02036ff8485eee45ccb266d28298d3642a3d003e1230f97b323e": {
-      "seenAt": "2026-11-13T06:31:15.911Z",
-      "title": "김민석 \"대화하자\"에 정청래 \"2차가해\"…與, 신천지 갈등 출구 찾기 진통 - 뉴시스",
-      "targetName": "정청래"
-    },
     "adbbe3a7057d9f6cfef42204aa486a40320aa6f11ed4a76e7d67e77304d02c8a": {
       "seenAt": "2026-11-13T06:31:16.653Z",
       "title": "조국혁신당, ‘김민석-조국 회동설’에 “통합 논의 1㎜도 진행 안 돼” - 한겨레",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-16T15:51:27.785Z",
       "title": "Trump Keeps Posting Weird AI Slop Instead of Talking About FAA Outage - The New Republic",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "beca68f583a8bddec8f7bb85f588179660b213ace6c6c4a1521355fc66a2637a": {
+      "seenAt": "2026-11-16T16:01:28.055Z",
+      "title": "최민희, 90도 사과했지만… 김민석 \"당헌 따라 처리\" - 조선일보",
+      "targetName": "김민석"
     }
   },
   "pending": []
