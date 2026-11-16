@@ -417,3 +417,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 발언 논란에 "정치별개 윤리문제 판단 이뤄질것" - 연합뉴스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 발언 논란에 "정치별개 윤리문제 판단 이뤄질것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14aklDU0NNbjcweTZFTjAtWm1xOWZNaEJLQmR6aExHaGVaLUFUbWx0RFBkZU50UVVEbXpQcHdEdmhnUVhzLUswSEJJVzVrTFdPdXhyQWlrV0lHenY0dEJrV9IBYEFVX3lxTE14aklDU0NNbjcweTZFTjAtWm1xOWZNaEJLQmR6aExHaGVaLUFUbWx0RFBkZU50UVVEbXpQcHdEdmhnUVhzLUswSEJJVzVrTFdPdXhyQWlrV0lHenY0dEJrVw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "아침 일찍 광주 다녀왔습니다"…최민희 감찰 후 당내 갈등 속 호남행 눈길 - 매일신문
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "아침 일찍 광주 다녀왔습니다"…최민희 감찰 후 당내 갈등 속 호남행 눈길
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YRWMwS0pVUkxjOFduTk16Ul9JS3JZUXFvUXlqZXp6UmFmcGZrbkw5ZDhqeEZXOHJzc0IzUVg1cjBoeUdMcklWYXJYWjJhX3FzYkpwd0hfWFFRajRKc3VZOUxn?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 장동혁 "대책 없으면 수능 연기 검토해야"…천하람 "수능 연기 반드시 필요" - 경인방송 뉴스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 "대책 없으면 수능 연기 검토해야"…천하람 "수능 연기 반드시 필요"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXVkRzdUxSV2lzMmJ2S3BJTnVVUjFaVVgxZ09ZMThGWk93eGZ5NTVtc3Vhd2VYVXdlaml0SlVXb2xrdVNKNXN6VVJXcWpBVXlVWU4xek1RS2pUWU5ldHdtQ2V5OXg?oc=5)
+
+---
+

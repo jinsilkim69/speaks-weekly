@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-16T04:11:49.888Z",
+  "lastCheckedAt": "2026-11-16T04:21:19.350Z",
   "seenPostIds": {
     "c90a9dc5d8fd5844c68bceb55674df8a1dd79180362c460e1cedd0e67c8f8d93": {
       "seenAt": "2026-11-12T19:41:16.412Z",
@@ -2500,7 +2500,39 @@
       "seenAt": "2026-11-16T04:01:19.713Z",
       "title": "與, 한덕수 선고기일 지정에 \"만시지탄\"…정청래는 \"조희대 탄핵\" - 머니투데이 - 머니투데이",
       "targetName": "정청래"
+    },
+    "6c2b70e4525e1b4157c0caeb29af8ac75e1b85b981d2e53514d74a42e3d12814": {
+      "seenAt": "2026-11-16T04:21:20.417Z",
+      "title": "김민석, 최민희 발언 논란에 \"정치별개 윤리문제 판단 이뤄질것\" - 연합뉴스",
+      "targetName": "김민석"
+    },
+    "32c1a4d83dfb915f3ee0dd7ecf18e81fd705f0a2abf9dd27dcc7079fd672732c": {
+      "seenAt": "2026-11-16T04:21:21.034Z",
+      "title": "정청래 \"아침 일찍 광주 다녀왔습니다\"…최민희 감찰 후 당내 갈등 속 호남행 눈길 - 매일신문",
+      "targetName": "정청래"
+    },
+    "60fec06c6e1ddc69b099c7fcb9cdbfddbf9ab4b968e2f4c599c4de9eb4d7f303": {
+      "seenAt": "2026-11-16T04:21:21.685Z",
+      "title": "장동혁 \"대책 없으면 수능 연기 검토해야\"…천하람 \"수능 연기 반드시 필요\" - 경인방송 뉴스",
+      "targetName": "천하람"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "e3814d48f9a5af9e000010a191ab9fb053213a569e53f0eb66eeac67f721fb80",
+        "targetId": "cheon_haram",
+        "targetName": "천하람",
+        "targetTitle": "개혁신당 원내대표",
+        "title": "[현장영상+] \"수능 연기가 반드시 필요하다\" 천하람, 중국 가오카오 벤치마킹 언급 - 경인방송 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3OE1TdFRTX2wySDJkakZzMjl4bmMyLUNkTjNNZVBxRTd1RWNKNnBFd1BySHlNeGNrUEdMWW5HUEpVc3pVdTVZcFp1d0tGVFJISDNYTXl0TkNMeGNQVmdyZEgxMXQ?oc=5\" target=\"_blank\">[현장영상+] \"수능 연기가 반드시 필요하다\" 천하람, 중국 가오카오 벤치마킹 언급</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경인방송 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3OE1TdFRTX2wySDJkakZzMjl4bmMyLUNkTjNNZVBxRTd1RWNKNnBFd1BySHlNeGNrUEdMWW5HUEpVc3pVdTVZcFp1d0tGVFJISDNYTXl0TkNMeGNQVmdyZEgxMXQ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 03:44:32 GMT",
+        "source": "경인방송 뉴스",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
