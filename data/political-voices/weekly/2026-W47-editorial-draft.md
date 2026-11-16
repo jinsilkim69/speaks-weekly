@@ -924,3 +924,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [부고]한동훈(국회의원)씨 빙부상 - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈(국회의원)씨 빙부상
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE43ZUlOdVRKUXI0Q0NuQ2MzeXJYNTAxQ1FqdXpKT3J0Vl9FY0RsUi05V0o2SDgzTHlVTWZJU2RoemdoOXB2bWs5eG5WNHE2dWJCR0ZIR0VySG9DR2h4VkpCM1ZieENlZU15SXU00gFwQVVfeXFMUGY5aDEzWVg1RVE2MklOdmg1dmFJQVJUWFY2Qk8yZkhMbjRKNjNuS24zbDRzZC1DVEtSWV9CZDVncWF2YmI4RGlFNEljSkJBSk5MYkwtUDM5NHlwMmFrb1BLb3RORFdpaE00YkhMU0hlRQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 발언 논란에 "정치별개 윤리문제 판단 이뤄질것" - 연합뉴스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 발언 논란에 "정치별개 윤리문제 판단 이뤄질것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hM2JuU1Babzk3Q1JSMndKRmpiblZaSTNFdkhiUG5DLTQxYmRHZHJ1TjVJSm9Gb29tdXZ3VFU0b0kxMXlxN1FVNEtnalF3NHVKeFhPbmE4S0hjQjDSAWBBVV95cUxNeGpJQ1NDTW43MHk2RU4wLVptcTlmTWhCS0JkemhMR2hlWi1BVG1sdERQZGVOdFFVRG16UHB3RHZoZ1FYcy1LMEhCSVc1a0xXT3V4ckFpa1dJR3p2NHRCa1c?oc=5)
+
+---
+
