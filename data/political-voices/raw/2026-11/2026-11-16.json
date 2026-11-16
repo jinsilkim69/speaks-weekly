@@ -2386,5 +2386,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6013b46a8581e5c59ba44d2ed815d1c8c631633ac2ad78971cda4fa48bc139fd",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "송영길 \"광주 군공항, 무안공항 임시배치 검토해야\" 국방장관 \"재검토 후 보고\" - 남도일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1YNFR6Y3RmUHQyb1lTbXdVSjd6Z21JNmd2ZFdEaEpLLWxjQXlUTEh6RjlTZUNmS1pqWW9fbndKV041U21VeGxCaTdFTjEwVk1pTkVEWHhkeGJORTVxRWpRY09CSTd0ZXY5UmtVOdIBcEFVX3lxTE1lSUxkMlpaZVF0ZXJFbGEzbDFhelVNTGNFMUtSc1l1NE1mTVg3RGo3MDFuWDBqSmdydmRTbFlDMUJsRnJyc0RjWWVSd2hPaTcwR2hXRTlENm9aeEQ0clo0b0hUZ3pjTFJFWWZkbmY1RFc?oc=5\" target=\"_blank\">송영길 \"광주 군공항, 무안공항 임시배치 검토해야\" 국방장관 \"재검토 후 보고\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">남도일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YNFR6Y3RmUHQyb1lTbXdVSjd6Z21JNmd2ZFdEaEpLLWxjQXlUTEh6RjlTZUNmS1pqWW9fbndKV041U21VeGxCaTdFTjEwVk1pTkVEWHhkeGJORTVxRWpRY09CSTd0ZXY5UmtVOdIBcEFVX3lxTE1lSUxkMlpaZVF0ZXJFbGEzbDFhelVNTGNFMUtSc1l1NE1mTVg3RGo3MDFuWDBqSmdydmRTbFlDMUJsRnJyc0RjWWVSd2hPaTcwR2hXRTlENm9aeEQ0clo0b0hUZ3pjTFJFWWZkbmY1RFc?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 09:18:11 GMT",
+    "source": "남도일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길 \"광주 군공항, 무안공항 임시배치 검토해야\" 국방장관 \"재검토 후 보고\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

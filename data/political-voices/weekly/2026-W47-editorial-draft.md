@@ -911,3 +911,16 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "광주 군공항, 무안공항 임시배치 검토해야" 국방장관 "재검토 후 보고" - 남도일보
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "광주 군공항, 무안공항 임시배치 검토해야" 국방장관 "재검토 후 보고"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1YNFR6Y3RmUHQyb1lTbXdVSjd6Z21JNmd2ZFdEaEpLLWxjQXlUTEh6RjlTZUNmS1pqWW9fbndKV041U21VeGxCaTdFTjEwVk1pTkVEWHhkeGJORTVxRWpRY09CSTd0ZXY5UmtVOdIBcEFVX3lxTE1lSUxkMlpaZVF0ZXJFbGEzbDFhelVNTGNFMUtSc1l1NE1mTVg3RGo3MDFuWDBqSmdydmRTbFlDMUJsRnJyc0RjWWVSd2hPaTcwR2hXRTlENm9aeEQ0clo0b0hUZ3pjTFJFWWZkbmY1RFc?oc=5)
+
+---
+
