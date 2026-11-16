@@ -1050,5 +1050,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "005351da90dcd53834e6d96257589d8b583f56e49d949e698fd11a21f211646c",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Shares WSJ Opinion Piece on Truth Social Amid Retweets - Forth.News",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBENWdjb1E3YnRVbFMyY2hndUdESlVaX2ZyRUswMU00ZWt0NFZkVVdTdVZySnUxTDhDVmdRU3QyLWc1YUJ1R2ptbmVhd19sVVB0SWp3bjBlNUVSTmpJMGhQQnh3?oc=5\" target=\"_blank\">Trump Shares WSJ Opinion Piece on Truth Social Amid Retweets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBENWdjb1E3YnRVbFMyY2hndUdESlVaX2ZyRUswMU00ZWt0NFZkVVdTdVZySnUxTDhDVmdRU3QyLWc1YUJ1R2ptbmVhd19sVVB0SWp3bjBlNUVSTmpJMGhQQnh3?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 17:44:01 GMT",
+    "source": "Forth.News",
+    "ageHours": 8.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Shares WSJ Opinion Piece on Truth Social Amid Retweets",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "50d822996180573fbe8030bc8b0aa948d4212c18843ecd4f264e940698eea536",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "출국한 이재명 대통령, 웃으며 배웅한 정부여당 #Shorts - 오마이TV - OhmyNews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBKTkkyZlR4Z056cUc0N2lYd2ItelpOR1lobzBjLW1NYVI5VzdaZUhXcVU5bFRHNzZzWm51MmhYRHBweWNpWDNGa2ZyYU1vVnJrUTFsS1lkU3Q2WVNoaFpmaVRmaGo5b29Kdk5LaVd3bWh6V2FTangzbnoteEczLVU?oc=5\" target=\"_blank\">출국한 이재명 대통령, 웃으며 배웅한 정부여당 #Shorts - 오마이TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKTkkyZlR4Z056cUc0N2lYd2ItelpOR1lobzBjLW1NYVI5VzdaZUhXcVU5bFRHNzZzWm51MmhYRHBweWNpWDNGa2ZyYU1vVnJrUTFsS1lkU3Q2WVNoaFpmaVRmaGo5b29Kdk5LaVd3bWh6V2FTangzbnoteEczLVU?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 01:39:23 GMT",
+    "source": "OhmyNews",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 출국한 이재명 대통령, 웃으며 배웅한 정부여당 #Shorts",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "2e6cfc959b52614621c13786dd947b4f1f0ae1e5084bd6963842c961706cc060",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "조국 \"한동훈 딸 천재인지 특검으로 확인하자\" - JTBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IZ2Q2UzM0Yi02dzhNSlhURDdsclpDX1lGR0Z0dXBVenNhVFloZHZQTEhzOG9ob0tUdkZjYjdPYnljNmJDRzNLZDE5QWxtM2lIS2hoS2pHV3A5bHlvU3laSWp6dl85dUVl?oc=5\" target=\"_blank\">조국 \"한동훈 딸 천재인지 특검으로 확인하자\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IZ2Q2UzM0Yi02dzhNSlhURDdsclpDX1lGR0Z0dXBVenNhVFloZHZQTEhzOG9ob0tUdkZjYjdPYnljNmJDRzNLZDE5QWxtM2lIS2hoS2pHV3A5bHlvU3laSWp6dl85dUVl?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 10:20:00 GMT",
+    "source": "JTBC",
+    "ageHours": 16.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"한동훈 딸 천재인지 특검으로 확인하자\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -222,3 +222,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Shares WSJ Opinion Piece on Truth Social Amid Retweets - Forth.News
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Shares WSJ Opinion Piece on Truth Social Amid Retweets
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBENWdjb1E3YnRVbFMyY2hndUdESlVaX2ZyRUswMU00ZWt0NFZkVVdTdVZySnUxTDhDVmdRU3QyLWc1YUJ1R2ptbmVhd19sVVB0SWp3bjBlNUVSTmpJMGhQQnh3?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 출국한 이재명 대통령, 웃으며 배웅한 정부여당 #Shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 출국한 이재명 대통령, 웃으며 배웅한 정부여당 #Shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKTkkyZlR4Z056cUc0N2lYd2ItelpOR1lobzBjLW1NYVI5VzdaZUhXcVU5bFRHNzZzWm51MmhYRHBweWNpWDNGa2ZyYU1vVnJrUTFsS1lkU3Q2WVNoaFpmaVRmaGo5b29Kdk5LaVd3bWh6V2FTangzbnoteEczLVU?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 조국 "한동훈 딸 천재인지 특검으로 확인하자" - JTBC
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "한동훈 딸 천재인지 특검으로 확인하자"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IZ2Q2UzM0Yi02dzhNSlhURDdsclpDX1lGR0Z0dXBVenNhVFloZHZQTEhzOG9ob0tUdkZjYjdPYnljNmJDRzNLZDE5QWxtM2lIS2hoS2pHV3A5bHlvU3laSWp6dl85dUVl?oc=5)
+
+---
+
