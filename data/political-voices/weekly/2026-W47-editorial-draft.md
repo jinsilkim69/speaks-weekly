@@ -1379,3 +1379,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Bill Maher, 70, Backs Trump’s D.C. Desecration After Public Humiliation - Yahoo
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Bill Maher, 70, Backs Trump’s D.C. Desecration After Public Humiliation
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOE5BaU9vTDBqbTZtNC0xMHlwSHo4RmFxTlNnVWhkTkVLNE11VmItUk9BNUhXUUJQb0V2ZDRwVjJCNjFVN1pTWm40RWRvX3JXWWlpTVFPc2JlVFhSQ2hKMHYtRS1FUHd1amRNV3F6Z19OYmJVRmFZZ2Jxa2F2c21qQ1gzRVRBQ0VYNmxpNFdpb3RPaVlYMDM1NjdUYw?oc=5)
+
+---
+

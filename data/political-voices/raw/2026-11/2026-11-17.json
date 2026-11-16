@@ -323,5 +323,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e8eb61d2af2fff521feb1ba9147163db3fc3471372c3dd380de1edd13f7e8c0c",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Bill Maher, 70, Backs Trump’s D.C. Desecration After Public Humiliation - Yahoo",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOE5BaU9vTDBqbTZtNC0xMHlwSHo4RmFxTlNnVWhkTkVLNE11VmItUk9BNUhXUUJQb0V2ZDRwVjJCNjFVN1pTWm40RWRvX3JXWWlpTVFPc2JlVFhSQ2hKMHYtRS1FUHd1amRNV3F6Z19OYmJVRmFZZ2Jxa2F2c21qQ1gzRVRBQ0VYNmxpNFdpb3RPaVlYMDM1NjdUYw?oc=5\" target=\"_blank\">Bill Maher, 70, Backs Trump’s D.C. Desecration After Public Humiliation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOE5BaU9vTDBqbTZtNC0xMHlwSHo4RmFxTlNnVWhkTkVLNE11VmItUk9BNUhXUUJQb0V2ZDRwVjJCNjFVN1pTWm40RWRvX3JXWWlpTVFPc2JlVFhSQ2hKMHYtRS1FUHd1amRNV3F6Z19OYmJVRmFZZ2Jxa2F2c21qQ1gzRVRBQ0VYNmxpNFdpb3RPaVlYMDM1NjdUYw?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 16:47:37 GMT",
+    "source": "Yahoo",
+    "ageHours": 1.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Bill Maher, 70, Backs Trump’s D.C. Desecration After Public Humiliation",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
