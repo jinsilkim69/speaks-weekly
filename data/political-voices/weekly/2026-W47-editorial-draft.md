@@ -1028,3 +1028,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 한-아세안 정상회의 참석…태국·필리핀과 정상회담도 - 연합뉴스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 한-아세안 정상회의 참석…태국·필리핀과 정상회담도
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1aSjg0VEM1OG1KRDg4MnNTLVB3YUViUDhSZUlkTThZMENhNUtPbm1QUURSUUdlWTBSMVp2TFRqLS1TanRNSmxvVlU0dWFiVHVUNjlQSkxZTXFfSktKQ01pMS03SGVXTFFpa3FoYXV6S0ZPcW1RdGRsSg?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국힘 당권파 “한동훈 복당 원하면 더 성찰해야” VS 친한계 “장동혁 없어지면 돼” - 주간경향
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘 당권파 “한동훈 복당 원하면 더 성찰해야” VS 친한계 “장동혁 없어지면 돼”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqanBSdFYtYmxOeWhoOTFNVUhkR0t0LTVwWEJNQ3NxWFNzRlhrMG80V1MxalhaY3hwMlhNcHNtVWJ3YUktQU9mSEJaTnQ4ZUFHYm1ScWNvUTNsWGhzc3c?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 조계원 "경고 받은 최민희, 엄중징계 불가피...정청래? 침묵 말고 입장 내야" - YTN
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조계원 "경고 받은 최민희, 엄중징계 불가피...정청래? 침묵 말고 입장 내야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidkFVX3lxTFBLLWZjdEVRSkdpTVpKWE44OTFyM0x0WFlIeUx2MFlrYmoxdlZNelJVS0hQOVc0UWlIZHFUOThXVWpDVmhfWW5HRFhvWElyNzhFVm1FeWZZbV9PbzBPZV9Obm4tZi1kX0VRdUd0OVJpYTNPQ0s2Mmc?oc=5)
+
+---
+
