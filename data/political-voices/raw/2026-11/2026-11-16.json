@@ -2912,5 +2912,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "11ed481eea662e7165bcb26752db33da291149417384b115446dfee13914f7be",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 흔들려도 ‘우원식 비대위’는 어려운 3가지 이유 - 에너지경제신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcEJIT2FKRUhoeDZYWWJxV0pxcE5XbHJ0R256UFk4MFk5cFBHZnF0Mkx0OFB6NV9xQjVpUE8tNzk4Z2JTMFBVcWx2QXZVRWczNEoycjNkQ0dZcl9WWDM1WXUxOA?oc=5\" target=\"_blank\">김민석 흔들려도 ‘우원식 비대위’는 어려운 3가지 이유</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcEJIT2FKRUhoeDZYWWJxV0pxcE5XbHJ0R256UFk4MFk5cFBHZnF0Mkx0OFB6NV9xQjVpUE8tNzk4Z2JTMFBVcWx2QXZVRWczNEoycjNkQ0dZcl9WWDM1WXUxOA?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 05:59:21 GMT",
+    "source": "에너지경제신문",
+    "ageHours": 8.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 흔들려도 ‘우원식 비대위’는 어려운 3가지 이유",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T14:21:21.918Z",
+  "lastCheckedAt": "2026-11-16T14:31:42.672Z",
   "seenPostIds": {
-    "2dfadf96821f5a3b9481dc1a15a78a8aaa68cc4834098e3e37dc6dae3134beb9": {
-      "seenAt": "2026-11-13T05:21:15.414Z",
-      "title": "조작징계 의혹 파장…국힘, '한동훈 복당' 놓고서 갈라져 - 조세일보",
-      "targetName": "한동훈"
-    },
     "b1502a408c5228298c00893fb2be640877233a3f6819e7a5c908489f2389499c": {
       "seenAt": "2026-11-13T05:21:16.223Z",
       "title": "이준석 \"20만 호 즉시 공급할 땅 있어…李, 연락 주면 알려드리겠다\" - 부산파이낸셜뉴스",
@@ -2505,26 +2500,12 @@
       "seenAt": "2026-11-16T14:21:23.640Z",
       "title": "여야, 계파 갈등에 내홍 격화…김민석·장동혁 리더십 시험대 - 인디포커스",
       "targetName": "김민석"
+    },
+    "11ed481eea662e7165bcb26752db33da291149417384b115446dfee13914f7be": {
+      "seenAt": "2026-11-16T14:31:43.412Z",
+      "title": "김민석 흔들려도 ‘우원식 비대위’는 어려운 3가지 이유 - 에너지경제신문",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "11ed481eea662e7165bcb26752db33da291149417384b115446dfee13914f7be",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 흔들려도 ‘우원식 비대위’는 어려운 3가지 이유 - 에너지경제신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcEJIT2FKRUhoeDZYWWJxV0pxcE5XbHJ0R256UFk4MFk5cFBHZnF0Mkx0OFB6NV9xQjVpUE8tNzk4Z2JTMFBVcWx2QXZVRWczNEoycjNkQ0dZcl9WWDM1WXUxOA?oc=5\" target=\"_blank\">김민석 흔들려도 ‘우원식 비대위’는 어려운 3가지 이유</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcEJIT2FKRUhoeDZYWWJxV0pxcE5XbHJ0R256UFk4MFk5cFBHZnF0Mkx0OFB6NV9xQjVpUE8tNzk4Z2JTMFBVcWx2QXZVRWczNEoycjNkQ0dZcl9WWDM1WXUxOA?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 05:59:21 GMT",
-        "source": "에너지경제신문",
-        "ageHours": 8.4
-      },
-      "delivered": [
-        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
-      ],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
