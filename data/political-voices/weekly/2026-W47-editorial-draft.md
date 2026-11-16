@@ -950,3 +950,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 현장 최고위원회의서 발언하는 신장식 조국혁신당 대표 - 국제뉴스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 현장 최고위원회의서 발언하는 신장식 조국혁신당 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFA0QmZncWFfYmdCRTBHQS1peFFTVkFBanFxa0ItaTFoYUZNZHh5ZXcwOTF2NFhaX0t3WUUzN2ZEU21LbFduLXV4bHc0TERYRTE5cFlvbjNrRFRTdHBSakFMTERDcDFydWo4eU4wM193?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 국회 앞 천막농성... 민주유공자법 제정 촉구 - OhmyNews
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 국회 앞 천막농성... 민주유공자법 제정 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTFB6VzV2VldCWWVoTEFWaFBMaHJ0VnpMOW9JYjNfQXBXRlA3NUY1aVJZY0FyOFAzcjFJd2hDTERLRE5JSXkzc2UxaGp3OHowb216SWVKWVg2UXQ0aDVta0MwSHJVQ0dDTS1Nc00wc2tCRmxRaGVv?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 현장 최고위원회의서 발언하는 신장식 조국혁신당 대표 - 국제뉴스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 현장 최고위원회의서 발언하는 신장식 조국혁신당 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFA0QmZncWFfYmdCRTBHQS1peFFTVkFBanFxa0ItaTFoYUZNZHh5ZXcwOTF2NFhaX0t3WUUzN2ZEU21LbFduLXV4bHc0TERYRTE5cFlvbjNrRFRTdHBSakFMTERDcDFydWo4eU4wM193?oc=5)
+
+---
+
