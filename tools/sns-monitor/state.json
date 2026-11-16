@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T03:11:19.164Z",
+  "lastCheckedAt": "2026-11-16T03:21:19.572Z",
   "seenPostIds": {
-    "eae728d73fd9bc31a43e5eb0e48634793059fff401b27d66ee70fbeede9e9194": {
-      "seenAt": "2026-11-12T19:11:18.345Z",
-      "title": "Trump pulls Vance off Iran - Politico",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "517b1aba864f312949a7f630d54028979da9cb9e6a4a00b7ce8f79fa506d1546": {
       "seenAt": "2026-11-12T19:21:18.908Z",
       "title": "이준석 \"한동훈, 당원 게시판 작성자 빨리 밝혀야\" - 뉴시스",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-16T03:11:20.462Z",
       "title": "잼통, 출국길서 김민석, 임광현-최인호와 무슨 말? #Shorts - 오마이TV - OhmyNews",
       "targetName": "김민석"
+    },
+    "0c08258d4a40602a27a2b33f48d30a982e19d406ccfe4c60103bbcb0be7461fe": {
+      "seenAt": "2026-11-16T03:21:20.968Z",
+      "title": "「M포토」 발언하는 신장식 조국혁신당 대표 - M이코노미뉴스",
+      "targetName": "조국"
+    },
+    "de45aff5c9b55a70ceb4f292dd3a0e228a7bdc92561eca0404bb7b1e5f20609f": {
+      "seenAt": "2026-11-16T03:21:21.691Z",
+      "title": "「M포토」 발언하는 신장식 조국혁신당 대표 - M이코노미뉴스",
+      "targetName": "신장식"
     }
   },
   "pending": []

@@ -1279,5 +1279,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "0c08258d4a40602a27a2b33f48d30a982e19d406ccfe4c60103bbcb0be7461fe",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "「M포토」 발언하는 신장식 조국혁신당 대표 - M이코노미뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3UnBmRzFMMjctY3dNdTJSSkpiQ2tYa3pVRVVsMVprMnk4eGxGcGVsMTQwMjJEQTZmdUhPaFc5ZFhLTXFWb0hEdldWXy1mNGV6RGZHZVA5OS00b1BrZFpPbU4zZU1tN3c?oc=5\" target=\"_blank\">「M포토」 발언하는 신장식 조국혁신당 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">M이코노미뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3UnBmRzFMMjctY3dNdTJSSkpiQ2tYa3pVRVVsMVprMnk4eGxGcGVsMTQwMjJEQTZmdUhPaFc5ZFhLTXFWb0hEdldWXy1mNGV6RGZHZVA5OS00b1BrZFpPbU4zZU1tN3c?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 03:07:52 GMT",
+    "source": "M이코노미뉴스",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 「M포토」 발언하는 신장식 조국혁신당 대표",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "de45aff5c9b55a70ceb4f292dd3a0e228a7bdc92561eca0404bb7b1e5f20609f",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "「M포토」 발언하는 신장식 조국혁신당 대표 - M이코노미뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3UnBmRzFMMjctY3dNdTJSSkpiQ2tYa3pVRVVsMVprMnk4eGxGcGVsMTQwMjJEQTZmdUhPaFc5ZFhLTXFWb0hEdldWXy1mNGV6RGZHZVA5OS00b1BrZFpPbU4zZU1tN3c?oc=5\" target=\"_blank\">「M포토」 발언하는 신장식 조국혁신당 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">M이코노미뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3UnBmRzFMMjctY3dNdTJSSkpiQ2tYa3pVRVVsMVprMnk4eGxGcGVsMTQwMjJEQTZmdUhPaFc5ZFhLTXFWb0hEdldWXy1mNGV6RGZHZVA5OS00b1BrZFpPbU4zZU1tN3c?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 03:07:52 GMT",
+    "source": "M이코노미뉴스",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 「M포토」 발언하는 신장식 조국혁신당 대표",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
