@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-16T16:11:20.344Z",
+  "lastCheckedAt": "2026-11-16T16:21:19.763Z",
   "seenPostIds": {
     "a67a87a977ca650bc7f162b590457cee4c7d53b52820d0ef3c6502bdd3983c9b": {
       "seenAt": "2026-11-13T06:31:17.447Z",
@@ -2500,6 +2500,16 @@
       "seenAt": "2026-11-16T16:01:28.055Z",
       "title": "최민희, 90도 사과했지만… 김민석 \"당헌 따라 처리\" - 조선일보",
       "targetName": "김민석"
+    },
+    "62a7d11daba902709b222ae1783cf68f7c4040325412910109fb2f8f81914fc4": {
+      "seenAt": "2026-11-16T16:21:20.859Z",
+      "title": "이재명 대통령, 한-아세안 정상회의 참석…태국·필리핀과 정상회담도 - 연합뉴스",
+      "targetName": "이재명"
+    },
+    "c27242a682a38773af9a5f34f63d646ffb7543671c7e2329d30938675603e8d5": {
+      "seenAt": "2026-11-16T16:21:21.511Z",
+      "title": "Here’s What Trump Was Doing While the FAA Imploded - The New Republic",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

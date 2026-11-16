@@ -1288,3 +1288,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 한-아세안 정상회의 참석…태국·필리핀과 정상회담도 - 연합뉴스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 한-아세안 정상회의 참석…태국·필리핀과 정상회담도
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE15aXhmMWY5STVvZXFoSFRTR2RpbkQ2ZXQ3Wk0wbll1NnZST01xeEt3MTBZcEliUVdvbkFjZVVHTmJibzNmT2loSDVkSVVycUlHX0MxaTNOM3k4NVU?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Here’s What Trump Was Doing While the FAA Imploded - The New Republic
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Here’s What Trump Was Doing While the FAA Imploded
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE5wMVh5U3JqdkV6OFN5aDdjTHBvRkJoMGRWQkpZOHFvemt1SkxOTDctMS1tRkJTVk1EMVBtOGg5dTd0Y1l4YkQwa1RLRm5JX2lmYjU2cHNGWTlFRHhXZ1AtWFZpSVotYmRuT3ZUc0ZXVV8?oc=5)
+
+---
+
