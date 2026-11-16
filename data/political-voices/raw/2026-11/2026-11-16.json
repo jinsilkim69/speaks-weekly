@@ -2887,5 +2887,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f61c1fc6dff261a6e94a9f3afdec51854fe4721ce259c3e5b2f39d86064b7409",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "여야, 계파 갈등에 내홍 격화…김민석·장동혁 리더십 시험대 - 인디포커스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE94UDlSZXFiMG9idW1CQVF5OUl1SVFRd2VxT2dCRjh3eVBJNFhTRDZjbkYySWtOU0tqZWQ4cXdzWDNHdFE?oc=5\" target=\"_blank\">여야, 계파 갈등에 내홍 격화…김민석·장동혁 리더십 시험대</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인디포커스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE94UDlSZXFiMG9idW1CQVF5OUl1SVFRd2VxT2dCRjh3eVBJNFhTRDZjbkYySWtOU0tqZWQ4cXdzWDNHdFE?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
+    "source": "인디포커스",
+    "ageHours": 6.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 여야, 계파 갈등에 내홍 격화…김민석·장동혁 리더십 시험대",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

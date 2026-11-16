@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T14:01:18.434Z",
+  "lastCheckedAt": "2026-11-16T14:21:21.918Z",
   "seenPostIds": {
-    "6c4d9deffc4cb7c810e418ebc9c081b6858a581804be98a4bd213e57f0d0a5e6": {
-      "seenAt": "2026-11-13T05:11:19.861Z",
-      "title": "조국, 더불어민주당 ‘합당론’에 “대화 없는 전망은 예의 아냐” - 천지일보",
-      "targetName": "조국"
-    },
     "2dfadf96821f5a3b9481dc1a15a78a8aaa68cc4834098e3e37dc6dae3134beb9": {
       "seenAt": "2026-11-13T05:21:15.414Z",
       "title": "조작징계 의혹 파장…국힘, '한동훈 복당' 놓고서 갈라져 - 조세일보",
@@ -2505,7 +2500,31 @@
       "seenAt": "2026-11-16T14:01:19.475Z",
       "title": "오세훈·한동훈 없는 국힘 당권 경쟁…‘틈새 공략’ 노리는 중진들 - 경향신문",
       "targetName": "한동훈"
+    },
+    "f61c1fc6dff261a6e94a9f3afdec51854fe4721ce259c3e5b2f39d86064b7409": {
+      "seenAt": "2026-11-16T14:21:23.640Z",
+      "title": "여야, 계파 갈등에 내홍 격화…김민석·장동혁 리더십 시험대 - 인디포커스",
+      "targetName": "김민석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "11ed481eea662e7165bcb26752db33da291149417384b115446dfee13914f7be",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 흔들려도 ‘우원식 비대위’는 어려운 3가지 이유 - 에너지경제신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcEJIT2FKRUhoeDZYWWJxV0pxcE5XbHJ0R256UFk4MFk5cFBHZnF0Mkx0OFB6NV9xQjVpUE8tNzk4Z2JTMFBVcWx2QXZVRWczNEoycjNkQ0dZcl9WWDM1WXUxOA?oc=5\" target=\"_blank\">김민석 흔들려도 ‘우원식 비대위’는 어려운 3가지 이유</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcEJIT2FKRUhoeDZYWWJxV0pxcE5XbHJ0R256UFk4MFk5cFBHZnF0Mkx0OFB6NV9xQjVpUE8tNzk4Z2JTMFBVcWx2QXZVRWczNEoycjNkQ0dZcl9WWDM1WXUxOA?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 05:59:21 GMT",
+        "source": "에너지경제신문",
+        "ageHours": 8.4
+      },
+      "delivered": [
+        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
+      ],
+      "archived": false
+    }
+  ]
 }
