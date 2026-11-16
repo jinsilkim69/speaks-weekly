@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-16T01:01:20.108Z",
+  "lastCheckedAt": "2026-11-16T01:11:16.748Z",
   "seenPostIds": {
     "95d0ccbfcf3cf7a429baecb86edc1ddb50ad85464bd1813b31d38201b35c08c5": {
       "seenAt": "2026-11-12T18:01:22.482Z",
@@ -2500,6 +2500,16 @@
       "seenAt": "2026-11-16T00:51:31.033Z",
       "title": "Trump breaks silence on nationwide ground stop - Spectrum News",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "6066e9879ba86f6bd018d5733fd8c95825c26059c343a9cc63152d1d0f6b3658": {
+      "seenAt": "2026-11-16T01:11:17.958Z",
+      "title": "국민의힘, 민주당·이재명 대통령 ‘진흙탕 권력투쟁’ 비판 - 한국사회복지저널",
+      "targetName": "이재명"
+    },
+    "8190811dd541e7f598d6a28c411db64d343a7b89b209b5a4e7888651e8eb91ad": {
+      "seenAt": "2026-11-16T01:11:18.623Z",
+      "title": "천하람 \"수능 연기 반드시 필요…AI 부정행위 못 막으면 공정성 무너져\" - 뉴스핌",
+      "targetName": "천하람"
     }
   },
   "pending": []

@@ -53,3 +53,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 국민의힘, 민주당·이재명 대통령 ‘진흙탕 권력투쟁’ 비판 - 한국사회복지저널
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘, 민주당·이재명 대통령 ‘진흙탕 권력투쟁’ 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1sN29taWNzWXlLeHducnZpampVQXZwWEdadGwzRE5KSGh6WUJkVzktTVFGOFFxaENTamszRW4zR2pNRWF1QVBiOXQzbzB3el9nRmgtMEpQNDYwNloySkZWRlpLWlN4S3EwOVln?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 천하람 "수능 연기 반드시 필요…AI 부정행위 못 막으면 공정성 무너져" - 뉴스핌
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 천하람 "수능 연기 반드시 필요…AI 부정행위 못 막으면 공정성 무너져"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sV1lOZHJEUlJIblUwWXNjUV9BQTdPX01GbVVZR2YzdEw1cUZXSXIxTDhCWXNaMGtqa0syX3RyaUN2dDVkRkJIT2o5WkJfVlAtN0FEN05STk5VWllx?oc=5)
+
+---
+

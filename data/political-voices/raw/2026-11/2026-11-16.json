@@ -723,5 +723,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6066e9879ba86f6bd018d5733fd8c95825c26059c343a9cc63152d1d0f6b3658",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "국민의힘, 민주당·이재명 대통령 ‘진흙탕 권력투쟁’ 비판 - 한국사회복지저널",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1sN29taWNzWXlLeHducnZpampVQXZwWEdadGwzRE5KSGh6WUJkVzktTVFGOFFxaENTamszRW4zR2pNRWF1QVBiOXQzbzB3el9nRmgtMEpQNDYwNloySkZWRlpLWlN4S3EwOVln?oc=5\" target=\"_blank\">국민의힘, 민주당·이재명 대통령 ‘진흙탕 권력투쟁’ 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국사회복지저널</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sN29taWNzWXlLeHducnZpampVQXZwWEdadGwzRE5KSGh6WUJkVzktTVFGOFFxaENTamszRW4zR2pNRWF1QVBiOXQzbzB3el9nRmgtMEpQNDYwNloySkZWRlpLWlN4S3EwOVln?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 01:07:11 GMT",
+    "source": "한국사회복지저널",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 국민의힘, 민주당·이재명 대통령 ‘진흙탕 권력투쟁’ 비판",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "8190811dd541e7f598d6a28c411db64d343a7b89b209b5a4e7888651e8eb91ad",
+    "targetId": "cheon_haram",
+    "targetName": "천하람",
+    "targetTitle": "개혁신당 원내대표",
+    "title": "천하람 \"수능 연기 반드시 필요…AI 부정행위 못 막으면 공정성 무너져\" - 뉴스핌",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sV1lOZHJEUlJIblUwWXNjUV9BQTdPX01GbVVZR2YzdEw1cUZXSXIxTDhCWXNaMGtqa0syX3RyaUN2dDVkRkJIT2o5WkJfVlAtN0FEN05STk5VWllx?oc=5\" target=\"_blank\">천하람 \"수능 연기 반드시 필요…AI 부정행위 못 막으면 공정성 무너져\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sV1lOZHJEUlJIblUwWXNjUV9BQTdPX01GbVVZR2YzdEw1cUZXSXIxTDhCWXNaMGtqa0syX3RyaUN2dDVkRkJIT2o5WkJfVlAtN0FEN05STk5VWllx?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 01:06:00 GMT",
+    "source": "뉴스핌",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 천하람 \"수능 연기 반드시 필요…AI 부정행위 못 막으면 공정성 무너져\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "천하람",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
