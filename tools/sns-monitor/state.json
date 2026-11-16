@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T17:41:19.182Z",
+  "lastCheckedAt": "2026-11-16T17:51:18.121Z",
   "seenPostIds": {
-    "ab562ed1d358873d2b97dc0f7d984a7d06fe90855900f789a0b8524e849b8caf": {
-      "seenAt": "2026-11-13T07:01:24.405Z",
-      "title": "\"만나겠다\"는 김민석, 정청래는 \"전화 한 통 없어…방송서 떠드는 건 자기 장사\" 직격 - JTBC",
-      "targetName": "정청래"
-    },
     "4e63dbd2464ed48e1dc21340bcccce46f2a28ca544afa72721ddec37958c6f60": {
       "seenAt": "2026-11-13T07:01:25.113Z",
       "title": "천하람 \"이혜훈 부정청약 10개월 만에 송치…100억 아파트 서둘러 환수해야\" - 뉴시스",
@@ -2504,6 +2499,11 @@
     "27708a3a181a7f114e81b02605bd8237413b1bfe6825c598d74350fc3f5e94da": {
       "seenAt": "2026-11-16T17:41:20.351Z",
       "title": "Trump Media faces possible $1 billion debt repayment as stock nears record lows - Reuters",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "cb6563b7ed56ecc3439de2e37212e22813fde8a14c3c243e30e76860071805f1": {
+      "seenAt": "2026-11-16T17:51:19.335Z",
+      "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
