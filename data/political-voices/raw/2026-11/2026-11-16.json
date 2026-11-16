@@ -1505,5 +1505,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e3814d48f9a5af9e000010a191ab9fb053213a569e53f0eb66eeac67f721fb80",
+    "targetId": "cheon_haram",
+    "targetName": "천하람",
+    "targetTitle": "개혁신당 원내대표",
+    "title": "[현장영상+] \"수능 연기가 반드시 필요하다\" 천하람, 중국 가오카오 벤치마킹 언급 - 경인방송 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3OE1TdFRTX2wySDJkakZzMjl4bmMyLUNkTjNNZVBxRTd1RWNKNnBFd1BySHlNeGNrUEdMWW5HUEpVc3pVdTVZcFp1d0tGVFJISDNYTXl0TkNMeGNQVmdyZEgxMXQ?oc=5\" target=\"_blank\">[현장영상+] \"수능 연기가 반드시 필요하다\" 천하람, 중국 가오카오 벤치마킹 언급</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경인방송 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3OE1TdFRTX2wySDJkakZzMjl4bmMyLUNkTjNNZVBxRTd1RWNKNnBFd1BySHlNeGNrUEdMWW5HUEpVc3pVdTVZcFp1d0tGVFJISDNYTXl0TkNMeGNQVmdyZEgxMXQ?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 03:44:32 GMT",
+    "source": "경인방송 뉴스",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"수능 연기가 반드시 필요하다\" 천하람, 중국 가오카오 벤치마킹 언급",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "천하람",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

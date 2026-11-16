@@ -456,3 +456,16 @@
 
 ---
 
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** [현장영상+] "수능 연기가 반드시 필요하다" 천하람, 중국 가오카오 벤치마킹 언급 - 경인방송 뉴스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "수능 연기가 반드시 필요하다" 천하람, 중국 가오카오 벤치마킹 언급
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3OE1TdFRTX2wySDJkakZzMjl4bmMyLUNkTjNNZVBxRTd1RWNKNnBFd1BySHlNeGNrUEdMWW5HUEpVc3pVdTVZcFp1d0tGVFJISDNYTXl0TkNMeGNQVmdyZEgxMXQ?oc=5)
+
+---
+
