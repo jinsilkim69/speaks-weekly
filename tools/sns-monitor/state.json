@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-15T23:51:17.585Z",
+  "lastCheckedAt": "2026-11-16T00:01:17.032Z",
   "seenPostIds": {
-    "d00d06a3953e114571b0a875ab09de1a6e5ce9a5d77251cdd2a8b947f09e295e": {
-      "seenAt": "2026-11-12T17:41:19.192Z",
-      "title": "US President Donald Trump: “We don’t need a deal with Iran” – Truth Social - FXStreet",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "f0618e15363e16e75972871ab4dd2037311e3232809507c036dde38c330f6a61": {
-      "seenAt": "2026-11-12T17:51:18.483Z",
-      "title": "Trump Threatens To Double Tariffs On Mexico, Calls Midterms A ‘Perceived Loss’ - Yahoo News New Zealand",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "55776729a86f46a43e02b2a1121eb10bbf8a763d54d7c30f557277f7367ce319": {
       "seenAt": "2026-11-12T17:51:19.209Z",
       "title": "Oil prices rise after Trump said the U.S. doesn't need an Iran deal - Quartz",
@@ -2510,6 +2500,16 @@
       "seenAt": "2026-11-15T23:51:19.447Z",
       "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP - PBS",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d40214282d0b5857ec819341cb8555f23e2a563a91309d9771302fab9cfe35ee": {
+      "seenAt": "2026-11-16T00:01:18.223Z",
+      "title": "이재명 대통령, “개혁 방해 용납 못 해”… 여권 내홍 향한 ‘작심 경고’ - 미디어써치",
+      "targetName": "이재명"
+    },
+    "11db301e9e114f1461905ea36b10440a6bbe3cd96760e9012f4eb1b073b2cf2f": {
+      "seenAt": "2026-11-16T00:01:18.892Z",
+      "title": "조국 `조희대는 `행동`하는데 민주당은 `말`만…누가 두려워하겠나` - 매일신문",
+      "targetName": "조국"
     }
   },
   "pending": []
