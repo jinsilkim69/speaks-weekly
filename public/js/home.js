@@ -76,7 +76,9 @@ function renderOfficialPrograms(directory){
  let calendarHeading=document.getElementById('review-calendar-heading');if(!calendarHeading){calendarHeading=document.createElement('h2');calendarHeading.id='review-calendar-heading';calendarHeading.textContent='요일별 방송 코너';document.getElementById('review-period').before(calendarHeading);}
  const weekStart=iso=>{const d=new Date(iso+'T12:00:00Z');d.setUTCDate(d.getUTCDate()-(d.getUTCDay()+6)%7);return d.toISOString().slice(0,10);};
  const shift=(iso,days)=>{const d=new Date(iso+'T12:00:00Z');d.setUTCDate(d.getUTCDate()+days);return d.toISOString().slice(0,10);};
- const current=weekStart(period.start), archiveStart='2026-10-01', oldest=weekStart(archiveStart);
+ const seoulParts=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date());
+ const today=['year','month','day'].map(k=>seoulParts.find(p=>p.type===k).value).join('-');
+ const current=weekStart(today), archiveStart='2026-10-01', oldest=weekStart(archiveStart);
  const weeks=[];for(let w=current;w>=oldest;w=shift(w,-7))if(w===current||w===shift(current,-7)||entries.some(e=>e.displayDate>=archiveStart&&e.displayDate>=w&&e.displayDate<=shift(w,6)))weeks.push(w);
  let controls=document.getElementById('review-week-controls');if(!controls){controls=document.createElement('div');controls.id='review-week-controls';controls.className='review-week-controls';document.getElementById('review-period').before(controls);}
  controls.innerHTML=`<div class="review-week-shortcuts"><button type="button" data-week="${current}">이번 주</button><button type="button" data-week="${shift(current,-7)}">지난주</button></div><label>다른 주 보기 <select id="review-week-select">${weeks.map(w=>`<option value="${w}">${w===current?'이번 주 · ':w===shift(current,-7)?'지난주 · ':''}${(w<archiveStart?archiveStart:w).replaceAll('-','. ')} – ${shift(w,6).replaceAll('-','. ')}</option>`).join('')}</select></label>`;
