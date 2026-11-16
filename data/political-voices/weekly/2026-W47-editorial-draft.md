@@ -573,3 +573,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길 - 뉴시스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1uam0ydkpXTzVTTllZeUpPWmdmVXd6ZFFHV2FyTFYwakE4WGxvVmR3SkFja2cyYnc3MFFCQU9qSXJ0TXpybkdfcUVvZEV6ZTRoa3h6RmhoR2pPUUZUbll4dnJFbDZsRDBQQ09VMlk3bjZVV3hsQWJ1a9IBeEFVX3lxTE1uam0ydkpXTzVTTllZeUpPWmdmVXd6ZFFHV2FyTFYwakE4WGxvVmR3SkFja2cyYnc3MFFCQU9qSXJ0TXpybkdfcUVvZEV6ZTRoa3h6RmhoR2pPUUZUbll4dnJFbDZsRDBQQ09VMlk3bjZVV3hsQWJ1aw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Self-Soothes With Dodgy MAGA Math After Election Disaster - The Daily Beast
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Self-Soothes With Dodgy MAGA Math After Election Disaster
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkJXam5ZMUlpSXlPcjJtNHV5Z25XclN6Z0ZXTUZVWC1CSDQ4NExWbVZHeGxzRGZ1bGNIV2k5djU3ZVNFNnRtajV3RHA0X1YzQXhjSkVoeWxOek5PcWVWejlVbkJVVm9haWhwV2Nwa1JqdHBnYzFHZFY0djEwSlFfNjBNNkdidWZyVkpKbE5Relp5Z1pMY053dw?oc=5)
+
+---
+

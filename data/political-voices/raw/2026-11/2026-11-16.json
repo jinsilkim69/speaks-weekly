@@ -1733,5 +1733,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4249433f6412657ba091775bb6a0f3caa8ed2e47b6df0cc88e2dad3c083f6f21",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길 - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1uam0ydkpXTzVTTllZeUpPWmdmVXd6ZFFHV2FyTFYwakE4WGxvVmR3SkFja2cyYnc3MFFCQU9qSXJ0TXpybkdfcUVvZEV6ZTRoa3h6RmhoR2pPUUZUbll4dnJFbDZsRDBQQ09VMlk3bjZVV3hsQWJ1a9IBeEFVX3lxTE1uam0ydkpXTzVTTllZeUpPWmdmVXd6ZFFHV2FyTFYwakE4WGxvVmR3SkFja2cyYnc3MFFCQU9qSXJ0TXpybkdfcUVvZEV6ZTRoa3h6RmhoR2pPUUZUbll4dnJFbDZsRDBQQ09VMlk3bjZVV3hsQWJ1aw?oc=5\" target=\"_blank\">국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uam0ydkpXTzVTTllZeUpPWmdmVXd6ZFFHV2FyTFYwakE4WGxvVmR3SkFja2cyYnc3MFFCQU9qSXJ0TXpybkdfcUVvZEV6ZTRoa3h6RmhoR2pPUUZUbll4dnJFbDZsRDBQQ09VMlk3bjZVV3hsQWJ1a9IBeEFVX3lxTE1uam0ydkpXTzVTTllZeUpPWmdmVXd6ZFFHV2FyTFYwakE4WGxvVmR3SkFja2cyYnc3MFFCQU9qSXJ0TXpybkdfcUVvZEV6ZTRoa3h6RmhoR2pPUUZUbll4dnJFbDZsRDBQQ09VMlk3bjZVV3hsQWJ1aw?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 04:56:22 GMT",
+    "source": "뉴시스",
+    "ageHours": 1.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "1b90abe15def2203e5154e4ce6483a5443694704d9fd722b77a43a11e30c0fcc",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Self-Soothes With Dodgy MAGA Math After Election Disaster - The Daily Beast",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkJXam5ZMUlpSXlPcjJtNHV5Z25XclN6Z0ZXTUZVWC1CSDQ4NExWbVZHeGxzRGZ1bGNIV2k5djU3ZVNFNnRtajV3RHA0X1YzQXhjSkVoeWxOek5PcWVWejlVbkJVVm9haWhwV2Nwa1JqdHBnYzFHZFY0djEwSlFfNjBNNkdidWZyVkpKbE5Relp5Z1pMY053dw?oc=5\" target=\"_blank\">Trump Self-Soothes With Dodgy MAGA Math After Election Disaster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkJXam5ZMUlpSXlPcjJtNHV5Z25XclN6Z0ZXTUZVWC1CSDQ4NExWbVZHeGxzRGZ1bGNIV2k5djU3ZVNFNnRtajV3RHA0X1YzQXhjSkVoeWxOek5PcWVWejlVbkJVVm9haWhwV2Nwa1JqdHBnYzFHZFY0djEwSlFfNjBNNkdidWZyVkpKbE5Relp5Z1pMY053dw?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 23:17:10 GMT",
+    "source": "The Daily Beast",
+    "ageHours": 6.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Self-Soothes With Dodgy MAGA Math After Election Disaster",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
