@@ -833,3 +833,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국민의힘 중진들 한동훈 복당 놓고 엇갈린 입장…당권 경쟁 움직임 주목 - 뉴스21일간
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘 중진들 한동훈 복당 놓고 엇갈린 입장…당권 경쟁 움직임 주목
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QTWhJZVpHcFJIYkFsVER1RF9ENF9WQzZSMndfbWFSRUJQTHhBZmdaS3BCR0kxQUZjYUVBQzBXWk8wNUxvREg4OEFOUzBKUQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 차량 파손 남성에 '장애 있다' 발언…40대 유튜버 송치 - 뉴시스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 차량 파손 남성에 '장애 있다' 발언…40대 유튜버 송치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE4ySlo4MW1oOFpLLURxMWx2eGV5UTVNazBZVVFiUFJHaGtaSzNONHp3S040YmRTcDFQZkFGQS0tb0dUYjRHYUY4UldUdlFiVF84bF9YYkVUdWMtWmpyYnJfYXpMQnlkRThJZVZmVEFB0gF4QVVfeXFMTjFKdFJSdjJoUjJNMnkzRFQ4M1FLRUJjdzYyNTBLeXBwdzZpWTdjU2R6MUFQWjFQSFhOMU5XRk15ZHhybWl3RThhX2JPMEhyTzNfb2ZoYUotRnE5b1NMRzhvQ3NFTUxjWWJkZUtmb19UeHRuWnJsMFk4?oc=5)
+
+---
+
