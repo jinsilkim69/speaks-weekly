@@ -768,3 +768,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 얼굴 왜 흐릴까? 강영호가 밝힌 비밀 메시지 - 평화나무
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 얼굴 왜 흐릴까? 강영호가 밝힌 비밀 메시지
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBhTGZtcGxvdzhJN3hKSjdzQnRZRlliaS1Jd2RVVG54SDlSQVloUzE1dXZRV1FiS01mSFFKMTBTN3ZlX2gzTmJpN1FCSnVONm9TV1ZaZlh1TTJsalR5UlAxWDJYdVZyOFJLSlE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 여야, 계파 갈등에 내홍 격화…김민석·장동혁 리더십 시험대 - 인디포커스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 여야, 계파 갈등에 내홍 격화…김민석·장동혁 리더십 시험대
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxNaXJpcmhVdzRZdy1XSlhleTJ3WUtRRGc5Z1k0bXJlcy1yenNqZ19TMUpwbmZ6SHBMeWNvTUFqU0dGa003YlE0OUlKWU9zOWxPbWtHT2lBaXNEQzZNZnpvTVRaa3lZNjVka0ZrUFlNcG9ZMkhyNkZnUmtpTWFkZUo4SXo4emd2cERNYVdhLXBkWmg?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원 “소방안전교부세 부족분 국가가 지원해야” - 소방방재신문
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원 “소방안전교부세 부족분 국가가 지원해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiREFVX3lxTE1zT2dPYjhiLU1vX3RPRHl0T1hmQjRiSlhwTU1KY2tib0dvS0RQOWQwZ0tqZWlXTWdrRGE0YV9FSU4waUd1?oc=5)
+
+---
+

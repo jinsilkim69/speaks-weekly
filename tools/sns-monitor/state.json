@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T08:01:22.224Z",
+  "lastCheckedAt": "2026-11-16T08:11:18.147Z",
   "seenPostIds": {
-    "3fcff19df7bd2ea9a504535075d7dd90b5341bc21b7445acd0cc61b58980e602": {
-      "seenAt": "2026-11-13T01:01:16.838Z",
-      "title": "인사말하는 신장식 - 뉴시스",
-      "targetName": "신장식"
-    },
     "4e230eae6efeec605f66ea72f9103146ee0b3637cc1c42b8468e027c47d9547f": {
       "seenAt": "2026-11-13T01:01:17.550Z",
       "title": "최인호 정무수석, 신장식 조국혁신당 대표 예방 - 뉴시스",
@@ -2505,7 +2500,39 @@
       "seenAt": "2026-11-16T08:01:23.726Z",
       "title": "조국혁신당 '민주유공자법 즉각 제정하라!' - 서울뉴스통신",
       "targetName": "조국"
+    },
+    "ef566af72b9b5c2d5b657fef1d39dc2e5f3f8b58def3f029a1be3c18865ce6ed": {
+      "seenAt": "2026-11-16T08:11:19.156Z",
+      "title": "이재명 얼굴 왜 흐릴까? 강영호가 밝힌 비밀 메시지 - 평화나무",
+      "targetName": "이재명"
+    },
+    "ead763ae332dc3029206dba5c82c865cde8ffe725c01a6232e55624c144749ff": {
+      "seenAt": "2026-11-16T08:11:19.801Z",
+      "title": "여야, 계파 갈등에 내홍 격화…김민석·장동혁 리더십 시험대 - 인디포커스",
+      "targetName": "김민석"
+    },
+    "a81a1948fcbf5caecca4795cdae4e458ed0b0b251b8b5c4cf83dfb2d34a4dd66": {
+      "seenAt": "2026-11-16T08:11:20.438Z",
+      "title": "송영길 의원 “소방안전교부세 부족분 국가가 지원해야” - 소방방재신문",
+      "targetName": "송영길"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "d60a4c4cf37493e84de59c32405af23e13e2c0ca1e666f7ddf2dc6668fe14c92",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 후보 유세 현장서 선거사무원·경찰 폭행‥40대 남성 불구속 송치 - MBC 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE93bzZhQUc3aEdoVDZILXJFQlNhZlBJZWo5WUxGLXlNS1oxT0U4bUc4S2dINnNMUHRGOG1URDdabW1xQldSZFVCb1BoOXB5aUFwTTVtUnhIQXZhN3VOTTN1LVhvY1JGWnc3M0VTa0o4XzliSzdjdVdr0gF3QVVfeXFMTmoyeHhwRGNkQTB1UWZYOS1Hamp6a0dhYUlXT0IyT0FfLTNEQmczSTltalI4bmJaRXkwNlJtRTA2NWNGVDlJOXRNWXh2STdINDhfdE8xWTlidHVrV01rLVlQQWtfX2RKSUtJREh3eWVId0FfVy11Z2s?oc=5\" target=\"_blank\">조국 후보 유세 현장서 선거사무원·경찰 폭행‥40대 남성 불구속 송치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93bzZhQUc3aEdoVDZILXJFQlNhZlBJZWo5WUxGLXlNS1oxT0U4bUc4S2dINnNMUHRGOG1URDdabW1xQldSZFVCb1BoOXB5aUFwTTVtUnhIQXZhN3VOTTN1LVhvY1JGWnc3M0VTa0o4XzliSzdjdVdr0gF3QVVfeXFMTmoyeHhwRGNkQTB1UWZYOS1Hamp6a0dhYUlXT0IyT0FfLTNEQmczSTltalI4bmJaRXkwNlJtRTA2NWNGVDlJOXRNWXh2STdINDhfdE8xWTlidHVrV01rLVlQQWtfX2RKSUtJREh3eWVId0FfVy11Z2s?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 07:28:02 GMT",
+        "source": "MBC 뉴스",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
