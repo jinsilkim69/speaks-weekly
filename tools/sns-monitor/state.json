@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T03:01:18.957Z",
+  "lastCheckedAt": "2026-11-16T03:06:27.647Z",
   "seenPostIds": {
-    "b6a6062eb1e30e131c2615f58684de1d7a051a06f33e9ea1349293cd515a9cb9": {
-      "seenAt": "2026-11-12T19:01:20.872Z",
-      "title": "Trump threatens to double tariffs on Mexico if it fails to stop migrant caravan - KATU",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "e89adfd68c7e88e42acb47b5292ba589e42c4b9f1554d460c01e74e1b4b4f7ae": {
-      "seenAt": "2026-11-12T19:01:21.572Z",
-      "title": "Trump says Apple’s Tim Cook should take over Nvidia - The Washington Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "cc55da576be03b9a8f98c7439641c5e0d0109e1d5bef5b79c4b8bb1e9dc75698": {
-      "seenAt": "2026-11-12T19:11:17.090Z",
-      "title": "‘조작징계 의혹’ 폭로에…‘한동훈 복당’ 놓고 국힘 사분오열 - 한겨레",
-      "targetName": "한동훈"
-    },
     "c4ffbdf46b585f7a1d7e7c0fa4fd161e06ccd3908b3233e5289cbe494b32ee3d": {
       "seenAt": "2026-11-12T19:11:17.723Z",
       "title": "Trump: ‘Huge CARAVANS are … beginning illegal march through Mexico’ - The Hill",
@@ -2515,24 +2500,12 @@
       "seenAt": "2026-11-16T03:01:21.383Z",
       "title": "정청래 조국 \"한덕수 김건희 19일 선고, 탄핵 포기하라는 조희대 책략…더더욱 탄핵\" - 뉴스1",
       "targetName": "조국"
+    },
+    "f1c6ce7e2c3e34b8a9043ceca8ef4b7b440d92e67d2ed8d465de3d56ab2ec545": {
+      "seenAt": "2026-11-16T03:06:29.081Z",
+      "title": "조국혁신당, 조희대 탄핵·민주유공자법 처리 촉구… 천막농성 돌입 - 천지일보",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "f1c6ce7e2c3e34b8a9043ceca8ef4b7b440d92e67d2ed8d465de3d56ab2ec545",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당, 조희대 탄핵·민주유공자법 처리 촉구… 천막농성 돌입 - 천지일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9iSmlKLTI4V3l6UjNlejR0RUVZTV9wYzluY3N1OEQ4LUxnblp5aExQMG5ycWlQSHhGYUF5SjYwYW9WRFhYcTJrY0FGWC1sajBtc3laanJGWGtjLXRnTGtPR3U1MDRod2VFZXc?oc=5\" target=\"_blank\">조국혁신당, 조희대 탄핵·민주유공자법 처리 촉구… 천막농성 돌입</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iSmlKLTI4V3l6UjNlejR0RUVZTV9wYzluY3N1OEQ4LUxnblp5aExQMG5ycWlQSHhGYUF5SjYwYW9WRFhYcTJrY0FGWC1sajBtc3laanJGWGtjLXRnTGtPR3U1MDRod2VFZXc?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 02:34:59 GMT",
-        "source": "천지일보",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

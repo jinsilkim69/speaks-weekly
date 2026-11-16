@@ -1228,5 +1228,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f1c6ce7e2c3e34b8a9043ceca8ef4b7b440d92e67d2ed8d465de3d56ab2ec545",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당, 조희대 탄핵·민주유공자법 처리 촉구… 천막농성 돌입 - 천지일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9iSmlKLTI4V3l6UjNlejR0RUVZTV9wYzluY3N1OEQ4LUxnblp5aExQMG5ycWlQSHhGYUF5SjYwYW9WRFhYcTJrY0FGWC1sajBtc3laanJGWGtjLXRnTGtPR3U1MDRod2VFZXc?oc=5\" target=\"_blank\">조국혁신당, 조희대 탄핵·민주유공자법 처리 촉구… 천막농성 돌입</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iSmlKLTI4V3l6UjNlejR0RUVZTV9wYzluY3N1OEQ4LUxnblp5aExQMG5ycWlQSHhGYUF5SjYwYW9WRFhYcTJrY0FGWC1sajBtc3laanJGWGtjLXRnTGtPR3U1MDRod2VFZXc?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 02:34:59 GMT",
+    "source": "천지일보",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당, 조희대 탄핵·민주유공자법 처리 촉구… 천막농성 돌입",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
