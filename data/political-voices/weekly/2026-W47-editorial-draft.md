@@ -1457,3 +1457,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김태호 의원 ˝한동훈 복당 더 이상 미뤄선 안 돼˝ - 웅상뉴스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김태호 의원 ˝한동훈 복당 더 이상 미뤄선 안 돼˝
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE03MXFDb0ZkTjN2RGFSVENnSE5DSmR4dzB6OEd3QjRoUU5kX3BqVTExNkxRWHR3dVM0NmJ3bUFNZUFqc2xiZWxWMi16LWRoUEVtVE1TNG4tZC1VU1dzT29IdFJoYkRmV1JGX2Q3SWpYWm1pUQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희, 또 90도 숙여 사과…김민석 “당규 따라 엄정 조치” - 중앙일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희, 또 90도 숙여 사과…김민석 “당규 따라 엄정 조치”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zZ1M3SWlkaXNYYVhGMFB1Ykh5OTFtck5tb0NPLXdldG5yXzZyVHBFWkRZa3pEV1BjeFZweUxnUXpGX0p4bElkWVppbEZsUE9WcnpvUFBn?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** ‘Trump Is Such BS’: MS Now Host Explodes On President Over FAA ‘Blame Game’ - Yahoo News Singapore
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘Trump Is Such BS’: MS Now Host Explodes On President Over FAA ‘Blame Game’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE9ya3lBMzl0TmlPdVpHc3ZlYXVuQW5YZ1NJYVdCZFdvcDYtcDliVHJ0ZVR2eVA5eWJyNzVaRURGOXJDUWRobU83a2stVXJ6UVpCdGJ0TUhGU0E3dXFJZmMtaGNaYWpGWDIyOUYyY2hB?oc=5)
+
+---
+
