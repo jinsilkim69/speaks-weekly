@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T07:21:21.674Z",
+  "lastCheckedAt": "2026-11-16T07:31:18.579Z",
   "seenPostIds": {
-    "87f39a61590c42cc5b32b94d9fd6739b068f9a01cec759a289f4f05dba271e0d": {
-      "seenAt": "2026-11-12T23:11:18.517Z",
-      "title": "정청래 “金 사과부터 제대로 하라”…與 계파갈등 점입가경 - 서울경제",
-      "targetName": "정청래"
-    },
-    "d1472b8be76cc6e90826e089478a80a2a8761e532e26002512c321f6b12ab98a": {
-      "seenAt": "2026-11-12T23:31:17.044Z",
-      "title": "송영길, 소방안전교부세 재원 부족 시 국가예산에서 지원 추진 - 세정일보",
-      "targetName": "송영길"
-    },
-    "d49f2748b6a20169c94ce4cb54a73b661df2bf17e0106644f6245eafc23b48fd": {
-      "seenAt": "2026-11-13T00:01:17.262Z",
-      "title": "Trump tells Vance to turn his focus away from Iran: ‘We don’t need a deal’ - CNN",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "a71c49bcd86459b9a8ee5d7cf8ba361a6bd2db2491e9e3bec5a249ee9af12666": {
       "seenAt": "2026-11-13T00:21:19.030Z",
       "title": "최인호 정무수석, 신장식 대표 예방 - 연합뉴스",
@@ -2515,24 +2500,22 @@
       "seenAt": "2026-11-16T07:21:24.679Z",
       "title": "천하람 “수능 연기하자…AI 부정행위 막는 필수조치 필요” - KBS 뉴스",
       "targetName": "천하람"
+    },
+    "f669c6f9aedcf3785bfba163c7012fd82fca12bcc230d7b7e7bf1abe54abea62": {
+      "seenAt": "2026-11-16T07:31:19.662Z",
+      "title": "조국 \"조희대, 한덕수·김건희 구속 유지와 '탄핵 포기' 맞교환 전술\" - 머니투데이 - 머니투데이",
+      "targetName": "조국"
+    },
+    "874c6e92b067469a2111e579aa8231813855352d68f9d05859f03467128a1aeb": {
+      "seenAt": "2026-11-16T07:31:20.350Z",
+      "title": "‘한동훈 의원 장인’ 진형구 전 대전고검장 별세···생전 ‘조폐공사 파업 유도’ 발언 파문 - 경향신문",
+      "targetName": "한동훈"
+    },
+    "468203b67ac8df36b5e92c012fc3c811b90f4a319b1775ecf9b0d56a66e83011": {
+      "seenAt": "2026-11-16T07:31:20.968Z",
+      "title": "최민희, 김민석과 함께 최고위 회의 입장 #Shorts - 오마이TV - OhmyNews",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "f669c6f9aedcf3785bfba163c7012fd82fca12bcc230d7b7e7bf1abe54abea62",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 \"조희대, 한덕수·김건희 구속 유지와 '탄핵 포기' 맞교환 전술\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5KVEU4enBJbTg0WVdUWXV3REE0Z3VpQnlqT3J1OGw2VWJRaUtnYkMtcUJNVV8tVDR1alE3UVZCQnBqZFhiZ1o2YzdZSm9QR0ZPWk91enh2UGItSEFaWGhvRFJ1V3pIT2pJc09pTS1Gdl9tUdIBckFVX3lxTE5KVEU4enBJbTg0WVdUWXV3REE0Z3VpQnlqT3J1OGw2VWJRaUtnYkMtcUJNVV8tVDR1alE3UVZCQnBqZFhiZ1o2YzdZSm9QR0ZPWk91enh2UGItSEFaWGhvRFJ1V3pIT2pJc09pTS1Gdl9tUQ?oc=5\" target=\"_blank\">조국 \"조희대, 한덕수·김건희 구속 유지와 '탄핵 포기' 맞교환 전술\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KVEU4enBJbTg0WVdUWXV3REE0Z3VpQnlqT3J1OGw2VWJRaUtnYkMtcUJNVV8tVDR1alE3UVZCQnBqZFhiZ1o2YzdZSm9QR0ZPWk91enh2UGItSEFaWGhvRFJ1V3pIT2pJc09pTS1Gdl9tUdIBckFVX3lxTE5KVEU4enBJbTg0WVdUWXV3REE0Z3VpQnlqT3J1OGw2VWJRaUtnYkMtcUJNVV8tVDR1alE3UVZCQnBqZFhiZ1o2YzdZSm9QR0ZPWk91enh2UGItSEFaWGhvRFJ1V3pIT2pJc09pTS1Gdl9tUQ?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 05:18:50 GMT",
-        "source": "머니투데이",
-        "ageHours": 2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
