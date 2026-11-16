@@ -1132,3 +1132,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 서용주 "정청래? 침묵 오래될 가능성...金 취임 100일에 깃발 들기 쉽지 않아" - YTN
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 서용주 "정청래? 침묵 오래될 가능성...金 취임 100일에 깃발 들기 쉽지 않아"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KRnZpaGxJTTlWSGxVb1FTZ2Z3aVV4Q3gxRkV2Q0hSWklyYXk5ZVQ1WWpBMG53bTd5bkJGWDl4NWpFSnZhQnliZFlJTXdfNUl5Vk9XNWZiV2pEVDhuR1E?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 윤상현 기자회견, “수도권 열세로 총선 승리 어렵다” “오세훈·한동훈·이준석·장동혁 외연 확장” 주문 - 에브리뉴스 EveryNews
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 윤상현 기자회견, “수도권 열세로 총선 승리 어렵다” “오세훈·한동훈·이준석·장동혁 외연 확장” 주문
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1OU2tWODZWSmQxZXh1Y09KU214QkQ1ZVlKWFlnZ1V0Qm44NmVHZExYTGFFRkw3eGtaQnNuVDU0RldlYWI3SFFYUnlKemkwc21wOVZpNURCTGt5VVhtSzdTeUxhbEdDWmV6aVFjLURB?oc=5)
+
+---
+
