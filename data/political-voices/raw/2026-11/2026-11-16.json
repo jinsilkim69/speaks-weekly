@@ -1530,5 +1530,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d6fb09bb924817925363f1dec2575bb076547b67f4a1f7f9a8d6fe96d7905962",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "최민희 \"李 대통령에 누 끼쳐\" 김민석 \"모든 절차 당헌·당규 따를 것\" [뉴시스Pic] - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZWURoX1BnQUNuUjcwSF9lbVB5U1hqNUlYa250SHRrclBXYVJkNHp3TnRkakttWlhjVVFrVTItUjZiLUNMelI0NkFUQmRnY3VLZ0pyMVVVcW95QkNWX2lrRdIBeEFVX3lxTE1sWUxrZU1ubVVIMnRPVDd2TlNOS19FV0NSSDZ2NkM2RDQtbjN1VHhndkhyMENoUDRsVGxhWnR5SEhydW5rc01OWGtyYWNhWUprMlprRlhFOTBOdVBVNGxsQzdfNjRZRlV6Yzh0bFpSenktOGo4NFJMRg?oc=5\" target=\"_blank\">최민희 \"李 대통령에 누 끼쳐\" 김민석 \"모든 절차 당헌·당규 따를 것\" [뉴시스Pic]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZWURoX1BnQUNuUjcwSF9lbVB5U1hqNUlYa250SHRrclBXYVJkNHp3TnRkakttWlhjVVFrVTItUjZiLUNMelI0NkFUQmRnY3VLZ0pyMVVVcW95QkNWX2lrRdIBeEFVX3lxTE1sWUxrZU1ubVVIMnRPVDd2TlNOS19FV0NSSDZ2NkM2RDQtbjN1VHhndkhyMENoUDRsVGxhWnR5SEhydW5rc01OWGtyYWNhWUprMlprRlhFOTBOdVBVNGxsQzdfNjRZRlV6Yzh0bFpSenktOGo4NFJMRg?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 04:34:26 GMT",
+    "source": "뉴시스",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 최민희 \"李 대통령에 누 끼쳐\" 김민석 \"모든 절차 당헌·당규 따를 것\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "5124f333a3c88f7689fe3db8b6f30c5996cd227d3b73c05b4685e38770c3e9e5",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당 \"민주유공자법 19일 반드시 처리\"…조희대 탄핵도 촉구 - KBC광주방송",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RQ2tIYTlXZllIaFZIdTBLTEJ0bGZ1WERPbkJfTkFxejZHdVQ0NDRWdkJ5STFxeWdBWkkyUHJEbEl5WDJ5T1VheGktY01BYVF2M01vLTRGeXFZOEVITHZKYg?oc=5\" target=\"_blank\">조국혁신당 \"민주유공자법 19일 반드시 처리\"…조희대 탄핵도 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RQ2tIYTlXZllIaFZIdTBLTEJ0bGZ1WERPbkJfTkFxejZHdVQ0NDRWdkJ5STFxeWdBWkkyUHJEbEl5WDJ5T1VheGktY01BYVF2M01vLTRGeXFZOEVITHZKYg?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 04:35:45 GMT",
+    "source": "KBC광주방송",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당 \"민주유공자법 19일 반드시 처리\"…조희대 탄핵도 촉구",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

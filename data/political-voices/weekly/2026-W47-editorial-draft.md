@@ -469,3 +469,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 "李 대통령에 누 끼쳐" 김민석 "모든 절차 당헌·당규 따를 것" [뉴시스Pic] - 뉴시스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 "李 대통령에 누 끼쳐" 김민석 "모든 절차 당헌·당규 따를 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZWURoX1BnQUNuUjcwSF9lbVB5U1hqNUlYa250SHRrclBXYVJkNHp3TnRkakttWlhjVVFrVTItUjZiLUNMelI0NkFUQmRnY3VLZ0pyMVVVcW95QkNWX2lrRdIBeEFVX3lxTE1sWUxrZU1ubVVIMnRPVDd2TlNOS19FV0NSSDZ2NkM2RDQtbjN1VHhndkhyMENoUDRsVGxhWnR5SEhydW5rc01OWGtyYWNhWUprMlprRlhFOTBOdVBVNGxsQzdfNjRZRlV6Yzh0bFpSenktOGo4NFJMRg?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 "민주유공자법 19일 반드시 처리"…조희대 탄핵도 촉구 - KBC광주방송
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 "민주유공자법 19일 반드시 처리"…조희대 탄핵도 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RQ2tIYTlXZllIaFZIdTBLTEJ0bGZ1WERPbkJfTkFxejZHdVQ0NDRWdkJ5STFxeWdBWkkyUHJEbEl5WDJ5T1VheGktY01BYVF2M01vLTRGeXFZOEVITHZKYg?oc=5)
+
+---
+
