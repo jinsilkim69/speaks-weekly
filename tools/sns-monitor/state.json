@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T03:06:27.647Z",
+  "lastCheckedAt": "2026-11-16T03:11:19.164Z",
   "seenPostIds": {
-    "c4ffbdf46b585f7a1d7e7c0fa4fd161e06ccd3908b3233e5289cbe494b32ee3d": {
-      "seenAt": "2026-11-12T19:11:17.723Z",
-      "title": "Trump: ‘Huge CARAVANS are … beginning illegal march through Mexico’ - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "eae728d73fd9bc31a43e5eb0e48634793059fff401b27d66ee70fbeede9e9194": {
       "seenAt": "2026-11-12T19:11:18.345Z",
       "title": "Trump pulls Vance off Iran - Politico",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-16T03:06:29.081Z",
       "title": "조국혁신당, 조희대 탄핵·민주유공자법 처리 촉구… 천막농성 돌입 - 천지일보",
       "targetName": "조국"
+    },
+    "05a608cad1e84e72b4fa4e5010aa76b2075fa0f92e8fce89e72332d710b8b802": {
+      "seenAt": "2026-11-16T03:11:20.462Z",
+      "title": "잼통, 출국길서 김민석, 임광현-최인호와 무슨 말? #Shorts - 오마이TV - OhmyNews",
+      "targetName": "김민석"
     }
   },
   "pending": []
