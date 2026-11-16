@@ -424,5 +424,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6d96facdeff50fd24e5e84298c001591476d5539f66a7c258170b1a3ed3db04c",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump’s big profits from selling social media access - The Week",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTNhR2ZVbUtOWFgwa3hoUk9wdHBnbFByMWRmSkkwMjZ6aXBKcm1NNHlXcnpETUcxU012WWZnZWdKelNoOEhPU1BYZ3E4cTcxeWRELWRTaHpQaGx2d3FpbGgydmhzd05OTmVDQTFBeWdDRGpaNlJaZVlkbUZ0bkJ6dlhZcEs?oc=5\" target=\"_blank\">Trump’s big profits from selling social media access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Week</font>",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTNhR2ZVbUtOWFgwa3hoUk9wdHBnbFByMWRmSkkwMjZ6aXBKcm1NNHlXcnpETUcxU012WWZnZWdKelNoOEhPU1BYZ3E4cTcxeWRELWRTaHpQaGx2d3FpbGgydmhzd05OTmVDQTFBeWdDRGpaNlJaZVlkbUZ0bkJ6dlhZcEs?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 19:05:18 GMT",
+    "source": "The Week",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump’s big profits from selling social media access",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "7e721cbe14adf8be5cac27f9850849b484560ca3ad52f5409c3578b99d8a24cd",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump blames Biden for FAA ground stop. Who is at fault for old system? - USA Today",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNaGxJb0FWV2w1OWJfWHlqSzVWXzdVVnVrZDFiSWdWcUFoRmV0RmZETURpTWJrc09VRTR0SlQ5U3pUQ2JfUFg2cU1OQlFGQVlqV3JLUEtRNjBVQjdpelA5YXlHbElmQUxCSWNMNGFPWFRxYldNVGVSUlNKa2RGZ21QYzJkSkFJemxCMGFIeGoxRXk1TkRZbV9PMFprMk4?oc=5\" target=\"_blank\">Trump blames Biden for FAA ground stop. Who is at fault for old system?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaGxJb0FWV2w1OWJfWHlqSzVWXzdVVnVrZDFiSWdWcUFoRmV0RmZETURpTWJrc09VRTR0SlQ5U3pUQ2JfUFg2cU1OQlFGQVlqV3JLUEtRNjBVQjdpelA5YXlHbElmQUxCSWNMNGFPWFRxYldNVGVSUlNKa2RGZ21QYzJkSkFJemxCMGFIeGoxRXk1TkRZbV9PMFprMk4?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 19:01:00 GMT",
+    "source": "USA Today",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump blames Biden for FAA ground stop. Who is at fault for old system?",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

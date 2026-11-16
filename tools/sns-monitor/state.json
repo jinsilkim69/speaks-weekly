@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-16T19:11:19.819Z",
+  "lastCheckedAt": "2026-11-16T19:21:20.249Z",
   "seenPostIds": {
     "739fa1fe8b402d43eab7f6275bf88e9b72d6b423ebdd18515a80a8196b1e7683": {
       "seenAt": "2026-11-13T07:21:16.194Z",
@@ -2500,6 +2500,16 @@
       "seenAt": "2026-11-16T19:01:34.068Z",
       "title": "정청래, 한덕수 구속만료 하루 전 선고에 \"정치적 계산…조희대 탄핵감\" - 머니투데이 - 머니투데이",
       "targetName": "정청래"
+    },
+    "6d96facdeff50fd24e5e84298c001591476d5539f66a7c258170b1a3ed3db04c": {
+      "seenAt": "2026-11-16T19:21:21.514Z",
+      "title": "Trump’s big profits from selling social media access - The Week",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "7e721cbe14adf8be5cac27f9850849b484560ca3ad52f5409c3578b99d8a24cd": {
+      "seenAt": "2026-11-16T19:21:22.224Z",
+      "title": "Trump blames Biden for FAA ground stop. Who is at fault for old system? - USA Today",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

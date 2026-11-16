@@ -1431,3 +1431,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump’s big profits from selling social media access - The Week
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump’s big profits from selling social media access
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTNhR2ZVbUtOWFgwa3hoUk9wdHBnbFByMWRmSkkwMjZ6aXBKcm1NNHlXcnpETUcxU012WWZnZWdKelNoOEhPU1BYZ3E4cTcxeWRELWRTaHpQaGx2d3FpbGgydmhzd05OTmVDQTFBeWdDRGpaNlJaZVlkbUZ0bkJ6dlhZcEs?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump blames Biden for FAA ground stop. Who is at fault for old system? - USA Today
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump blames Biden for FAA ground stop. Who is at fault for old system?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaGxJb0FWV2w1OWJfWHlqSzVWXzdVVnVrZDFiSWdWcUFoRmV0RmZETURpTWJrc09VRTR0SlQ5U3pUQ2JfUFg2cU1OQlFGQVlqV3JLUEtRNjBVQjdpelA5YXlHbElmQUxCSWNMNGFPWFRxYldNVGVSUlNKa2RGZ21QYzJkSkFJemxCMGFIeGoxRXk1TkRZbV9PMFprMk4?oc=5)
+
+---
+
