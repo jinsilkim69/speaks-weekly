@@ -2186,5 +2186,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d60a4c4cf37493e84de59c32405af23e13e2c0ca1e666f7ddf2dc6668fe14c92",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 후보 유세 현장서 선거사무원·경찰 폭행‥40대 남성 불구속 송치 - MBC 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE93bzZhQUc3aEdoVDZILXJFQlNhZlBJZWo5WUxGLXlNS1oxT0U4bUc4S2dINnNMUHRGOG1URDdabW1xQldSZFVCb1BoOXB5aUFwTTVtUnhIQXZhN3VOTTN1LVhvY1JGWnc3M0VTa0o4XzliSzdjdVdr0gF3QVVfeXFMTmoyeHhwRGNkQTB1UWZYOS1Hamp6a0dhYUlXT0IyT0FfLTNEQmczSTltalI4bmJaRXkwNlJtRTA2NWNGVDlJOXRNWXh2STdINDhfdE8xWTlidHVrV01rLVlQQWtfX2RKSUtJREh3eWVId0FfVy11Z2s?oc=5\" target=\"_blank\">조국 후보 유세 현장서 선거사무원·경찰 폭행‥40대 남성 불구속 송치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93bzZhQUc3aEdoVDZILXJFQlNhZlBJZWo5WUxGLXlNS1oxT0U4bUc4S2dINnNMUHRGOG1URDdabW1xQldSZFVCb1BoOXB5aUFwTTVtUnhIQXZhN3VOTTN1LVhvY1JGWnc3M0VTa0o4XzliSzdjdVdr0gF3QVVfeXFMTmoyeHhwRGNkQTB1UWZYOS1Hamp6a0dhYUlXT0IyT0FfLTNEQmczSTltalI4bmJaRXkwNlJtRTA2NWNGVDlJOXRNWXh2STdINDhfdE8xWTlidHVrV01rLVlQQWtfX2RKSUtJREh3eWVId0FfVy11Z2s?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 07:28:02 GMT",
+    "source": "MBC 뉴스",
+    "ageHours": 0.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 후보 유세 현장서 선거사무원·경찰 폭행‥40대 남성 불구속 송치",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

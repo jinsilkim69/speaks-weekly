@@ -807,3 +807,16 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 후보 유세 현장서 선거사무원·경찰 폭행‥40대 남성 불구속 송치 - MBC 뉴스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 후보 유세 현장서 선거사무원·경찰 폭행‥40대 남성 불구속 송치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE93bzZhQUc3aEdoVDZILXJFQlNhZlBJZWo5WUxGLXlNS1oxT0U4bUc4S2dINnNMUHRGOG1URDdabW1xQldSZFVCb1BoOXB5aUFwTTVtUnhIQXZhN3VOTTN1LVhvY1JGWnc3M0VTa0o4XzliSzdjdVdr0gF3QVVfeXFMTmoyeHhwRGNkQTB1UWZYOS1Hamp6a0dhYUlXT0IyT0FfLTNEQmczSTltalI4bmJaRXkwNlJtRTA2NWNGVDlJOXRNWXh2STdINDhfdE8xWTlidHVrV01rLVlQQWtfX2RKSUtJREh3eWVId0FfVy11Z2s?oc=5)
+
+---
+
