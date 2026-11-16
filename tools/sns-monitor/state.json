@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T15:31:20.365Z",
+  "lastCheckedAt": "2026-11-16T15:41:18.566Z",
   "seenPostIds": {
-    "8cb0c56a3115959cf972d1da409904d8e235b3c0eb2594f0f2e95a16f6aa9a4e": {
-      "seenAt": "2026-11-13T05:51:16.527Z",
-      "title": "\"최민희와 한동훈, 이준석의 공통점은~\" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진 - 경향신문",
-      "targetName": "한동훈"
-    },
-    "2dbb7fdf891383746730601886ada2df4a686751fd6981ce9bd2c74338034584": {
-      "seenAt": "2026-11-13T06:21:17.364Z",
-      "title": "양당 통합 진행중이란 민주당…조국혁신당 \"1㎜도 없어\" - 머니투데이 - 머니투데이",
-      "targetName": "조국"
-    },
     "7b95f2d8031d02036ff8485eee45ccb266d28298d3642a3d003e1230f97b323e": {
       "seenAt": "2026-11-13T06:31:15.911Z",
       "title": "김민석 \"대화하자\"에 정청래 \"2차가해\"…與, 신천지 갈등 출구 찾기 진통 - 뉴시스",
@@ -2512,5 +2502,24 @@
       "targetName": "김민석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "4f4037ae31824fa153302389b20cd9b43e4c85ab28a364d3787a92eabb87fb1f",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Keeps Posting Weird AI Slop Instead of Talking About FAA Outage - The New Republic",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5LX0wwWFRWNnpWRkRTTEFOTHh6R2RTVG9ZY29wTmtBeEU4c1lLNFo1VkNaWV9JLUd2ZXpncHcyd3ZxeE14Y3huTDF6bHl0dlN6bVVCQWhaT1VTT0s1aEZLTlpkLWFyajRrQ2ZwT2pqUV9CNk13cnJkaTFjaWE?oc=5\" target=\"_blank\">Trump Keeps Posting Weird AI Slop Instead of Talking About FAA Outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Republic</font>",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LX0wwWFRWNnpWRkRTTEFOTHh6R2RTVG9ZY29wTmtBeEU4c1lLNFo1VkNaWV9JLUd2ZXpncHcyd3ZxeE14Y3huTDF6bHl0dlN6bVVCQWhaT1VTT0s1aEZLTlpkLWFyajRrQ2ZwT2pqUV9CNk13cnJkaTFjaWE?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 15:27:19 GMT",
+        "source": "The New Republic",
+        "ageHours": 0.2
+      },
+      "delivered": [
+        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
+      ],
+      "archived": false
+    }
+  ]
 }
