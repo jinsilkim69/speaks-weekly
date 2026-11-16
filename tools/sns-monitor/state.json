@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T05:31:18.281Z",
+  "lastCheckedAt": "2026-11-16T05:41:21.319Z",
   "seenPostIds": {
-    "cfbfb7f73f836f6de1393fa8ecf551cf5ec219fa21d7e628b9b16309cd0bb57d": {
-      "seenAt": "2026-11-12T20:31:18.957Z",
-      "title": "Trump renews call for prosecutions of Democrats over advice on illegal military orders - KOKH",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "a911d6916bf8cd4b786f3530af5fc340de2631d4b1cd1d957af89eac86d376fb": {
-      "seenAt": "2026-11-12T20:41:25.268Z",
-      "title": "Trump says the U.S. doesn’t ‘need’ a deal with Iran - NBC News",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "0162c9232519a758eb0225730167b9227cb2b96910a232f9d786a682b3a90ede": {
       "seenAt": "2026-11-12T21:21:28.552Z",
       "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor - Yahoo Finance",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-16T05:31:20.132Z",
       "title": "[포토] 국회 본청 앞에서 발언하는 신장식 조국혁신당 대표 - 파이낸스투데이",
       "targetName": "신장식"
+    },
+    "f9e582f56761dadd159c5b8ee6b1d4de5808709e9d9088053fd3b1bed4cd94c9": {
+      "seenAt": "2026-11-16T05:41:22.750Z",
+      "title": "민주당 또 때린 조국 \"조희대는 행동 하는데 與는 말만 하고 있어\" - 데일리안",
+      "targetName": "조국"
     }
   },
   "pending": []
