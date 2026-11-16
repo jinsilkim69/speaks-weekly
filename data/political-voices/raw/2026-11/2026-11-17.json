@@ -98,5 +98,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4f4037ae31824fa153302389b20cd9b43e4c85ab28a364d3787a92eabb87fb1f",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Keeps Posting Weird AI Slop Instead of Talking About FAA Outage - The New Republic",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5LX0wwWFRWNnpWRkRTTEFOTHh6R2RTVG9ZY29wTmtBeEU4c1lLNFo1VkNaWV9JLUd2ZXpncHcyd3ZxeE14Y3huTDF6bHl0dlN6bVVCQWhaT1VTT0s1aEZLTlpkLWFyajRrQ2ZwT2pqUV9CNk13cnJkaTFjaWE?oc=5\" target=\"_blank\">Trump Keeps Posting Weird AI Slop Instead of Talking About FAA Outage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Republic</font>",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LX0wwWFRWNnpWRkRTTEFOTHh6R2RTVG9ZY29wTmtBeEU4c1lLNFo1VkNaWV9JLUd2ZXpncHcyd3ZxeE14Y3huTDF6bHl0dlN6bVVCQWhaT1VTT0s1aEZLTlpkLWFyajRrQ2ZwT2pqUV9CNk13cnJkaTFjaWE?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 15:27:19 GMT",
+    "source": "The New Republic",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Keeps Posting Weird AI Slop Instead of Talking About FAA Outage",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
