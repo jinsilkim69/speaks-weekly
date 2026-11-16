@@ -698,5 +698,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "65caaed2c3cc3a707f75910d114a4e5b6b324d54781c28d6681c83fc97aa6259",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump breaks silence on nationwide ground stop - Spectrum News",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNTVUa2JQU2dPNjB6UWpwZjlqZk0xN25FZUFLSFNVNE9HbVJkbUdtYjI3NW1kd21EZUw3a3gyUm1FVmhoUlIxS0hkRC1BTlhJUWRiTHhEQXFTWnZLZVZtWEQyTmYxRV9JYXgxanZVOTU2S0NxOFBfazFaWWZDbnVmMGlRdVl4Q1FMb0l3elBjcFJscWp2MXBOZFhxMmQwVk41dS1yZExEcHRiYlNpOEdFaXNmRUlxODdjMmpacDhLX2lGOFhURndPX2YxWFdWM3Q0ZkFrLTJn?oc=5\" target=\"_blank\">Trump breaks silence on nationwide ground stop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News</font>",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNTVUa2JQU2dPNjB6UWpwZjlqZk0xN25FZUFLSFNVNE9HbVJkbUdtYjI3NW1kd21EZUw3a3gyUm1FVmhoUlIxS0hkRC1BTlhJUWRiTHhEQXFTWnZLZVZtWEQyTmYxRV9JYXgxanZVOTU2S0NxOFBfazFaWWZDbnVmMGlRdVl4Q1FMb0l3elBjcFJscWp2MXBOZFhxMmQwVk41dS1yZExEcHRiYlNpOEdFaXNmRUlxODdjMmpacDhLX2lGOFhURndPX2YxWFdWM3Q0ZkFrLTJn?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 18:02:00 GMT",
+    "source": "Spectrum News",
+    "ageHours": 6.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump breaks silence on nationwide ground stop",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
