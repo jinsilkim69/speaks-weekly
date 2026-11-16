@@ -92,3 +92,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 최형두 "이 대통령, 본인 후련하자고 정치하나...트럼프-박근혜보다 안 좋아, SNS 적당히, 걱정"[KBC-지방자치TV특별대담] - KBC광주방송
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최형두 "이 대통령, 본인 후련하자고 정치하나...트럼프-박근혜보다 안 좋아, SNS 적당히, 걱정"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNEdZU01lOFdNVGRMVF9aSnJtRFZTYi1UQlZ2ZWZfUVJ3a1owdDNQR1puQkRnbEJJZDUtUHFVMmFLQzRiSV9XV2xyYTR6STNvWlZTNXRFYnBxLWNxejVLWQ?oc=5)
+
+---
+
