@@ -183,3 +183,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 박원석 "민주당, 20대 총선 정청래 컷오프로 대승…이번엔 최민희라는 공감대" - 네이트
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박원석 "민주당, 20대 총선 정청래 컷오프로 대승…이번엔 최민희라는 공감대"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XUWpSU3hWY1g0NHAxRVkwYTkwckZxckl2SXRfeEVoLUhGMVprQk9BMGpqbXd2Xy10UU1hblhpekdWZXNpZ3djYlN5Ni1YTG0xRkdr?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** [부고] 이준석(현대카드 시니어 매니저)씨 외조부상 - 연합인포맥스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석(현대카드 시니어 매니저)씨 외조부상
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE1tYkdhSmx5eklRUGxQTm9DclI4Z0cxc3lmZ3NTZ3lDZ2dfXzRQcnltUmpuSDJqd3BPTDlHYWlOeXlHS0ZHMWt5eEtCWk0yM1RSMTZtQnY2bGt3NllnZGFDMDY3Q0VFUWl6OW1JeFl5UXPSAXRBVV95cUxOak9vY3RrUGNIOGFLa1J4RzUyZWJDcWNxZXNncUJ6RnQ1VGxFU0ZJRS1mbl9VSksxODdOWkFkcU9neVlGa0FvLUlGMTVRSXBSOTZrQjBJSDMyVVY2UHVQQjV2aThrVXBZWG45UHR0WmtMUUU4ZQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** 62 of the most stupid things Donald Trump has ever said - Indy100
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 62 of the most stupid things Donald Trump has ever said
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxQSGFMT05FNGR0VXBpNUc0UUp6QVhxcFIydk9oZXZDeEZRNUp2NUxkbE9jT1Q4ZDBETGxVVU9pQlRiQWdNSHM2OGtRT1NaMzFZSmdsTlEwcTNSQl8tRVNncF9vR3BCNXZiRWpsM3JrWkVKcDJiRW4xSEgyV3BFWVBzT3E2NjB4dnFnOW1HR3ByWDQ?oc=5)
+
+---
+

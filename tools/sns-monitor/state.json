@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T02:11:18.977Z",
+  "lastCheckedAt": "2026-11-16T02:21:21.172Z",
   "seenPostIds": {
-    "514080d0a5400be97f18e555b130db31ec33d6d9191c8f9ef60c6bdfd553ae5f": {
-      "seenAt": "2026-11-12T18:31:18.850Z",
-      "title": "조국혁신당·진보당, '청해부대 작전구역 확대' 동의안에 \"꼼수 파병\" 반대 - 뉴시스",
-      "targetName": "조국"
-    },
-    "d2f9a52afe7cda8e83f2e656e938ca549403ffe2d52246438e6e0cc2ac811788": {
-      "seenAt": "2026-11-12T18:31:19.499Z",
-      "title": "김민석 대화로 풀어가자는데 정청래 “합의 강요는 2차 가해” [이런뉴스] - KBS 뉴스",
-      "targetName": "정청래"
-    },
     "cbd12ac422ba7c5f4f4bf8d414d398f5b030bbb90139f5f26ef2769153ed9615": {
       "seenAt": "2026-11-12T18:41:17.770Z",
       "title": "조국혁신당 \"청해부대 작전구역 확대, 당론 반대\"…본회의 반대투표 예고 - 프레시안",
@@ -2510,7 +2500,39 @@
       "seenAt": "2026-11-16T02:11:20.903Z",
       "title": "송영길 “24시간 관문공항 가덕도신공항, 국가균형발전 핵심 축” - 가야일보",
       "targetName": "송영길"
+    },
+    "9768bd58b7509703005ba2aa1367a6594e537551eb46c09c8ef41885c6712959": {
+      "seenAt": "2026-11-16T02:21:22.373Z",
+      "title": "박원석 \"민주당, 20대 총선 정청래 컷오프로 대승…이번엔 최민희라는 공감대\" - 네이트",
+      "targetName": "정청래"
+    },
+    "4a074fe809130fc094a108571389baf691a226b084cf2b0c940ed3a9c4098ed9": {
+      "seenAt": "2026-11-16T02:21:23.065Z",
+      "title": "[부고] 이준석(현대카드 시니어 매니저)씨 외조부상 - 연합인포맥스",
+      "targetName": "이준석"
+    },
+    "6a7b935da7e9122ffc2742d112189c5157178a41a50fc70b219b02ae0b4d25d4": {
+      "seenAt": "2026-11-16T02:21:23.720Z",
+      "title": "62 of the most stupid things Donald Trump has ever said - Indy100",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "005351da90dcd53834e6d96257589d8b583f56e49d949e698fd11a21f211646c",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Shares WSJ Opinion Piece on Truth Social Amid Retweets - Forth.News",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBENWdjb1E3YnRVbFMyY2hndUdESlVaX2ZyRUswMU00ZWt0NFZkVVdTdVZySnUxTDhDVmdRU3QyLWc1YUJ1R2ptbmVhd19sVVB0SWp3bjBlNUVSTmpJMGhQQnh3?oc=5\" target=\"_blank\">Trump Shares WSJ Opinion Piece on Truth Social Amid Retweets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBENWdjb1E3YnRVbFMyY2hndUdESlVaX2ZyRUswMU00ZWt0NFZkVVdTdVZySnUxTDhDVmdRU3QyLWc1YUJ1R2ptbmVhd19sVVB0SWp3bjBlNUVSTmpJMGhQQnh3?oc=5",
+        "pubDate": "Sun, 15 Nov 2026 17:44:01 GMT",
+        "source": "Forth.News",
+        "ageHours": 8.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
