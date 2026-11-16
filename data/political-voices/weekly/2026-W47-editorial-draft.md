@@ -274,3 +274,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 발언 논란에 "정치별개 윤리문제 판단 이뤄질것" - 연합뉴스 한민족센터
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 발언 논란에 "정치별개 윤리문제 판단 이뤄질것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE5ObFRCQ0xXSzhtd3otSENQNGJaRUpoZ2lRcUNqWUZDbjUwRVk2N1gwWVI5MnRBbnZydDkzX1k0OXRKdnpKWjhkcFJOd1duak9CSnFYaEZQNTdMWHNydVF2Nk83XzhQa1B0cmd5aUhKVEFNOHBh?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 조국 "한덕수 김건희 19일 선고, 탄핵 포기하라는 조희대 책략…더더욱 탄핵" - 뉴스1
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 조국 "한덕수 김건희 19일 선고, 탄핵 포기하라는 조희대 책략…더더욱 탄핵"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ybEdQTHBYRjctbDBxbUJBYUZhZEIwYnRqcFNYdHdrWGYxdkVkYkVYYzZ6XzFEZzUyWVVYWFoyaGtpbW9vS2RESGhaM2xUaFFNRGFtVmt3eGdfZw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 정청래 조국 "한덕수 김건희 19일 선고, 탄핵 포기하라는 조희대 책략…더더욱 탄핵" - 뉴스1
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 조국 "한덕수 김건희 19일 선고, 탄핵 포기하라는 조희대 책략…더더욱 탄핵"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ybEdQTHBYRjctbDBxbUJBYUZhZEIwYnRqcFNYdHdrWGYxdkVkYkVYYzZ6XzFEZzUyWVVYWFoyaGtpbW9vS2RESGhaM2xUaFFNRGFtVmt3eGdfZw?oc=5)
+
+---
+
