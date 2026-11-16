@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-16T03:41:18.766Z",
+  "lastCheckedAt": "2026-11-16T03:51:17.093Z",
   "seenPostIds": {
     "485faaa8aeb0de0190780549efc53f53b6b6f2256ba512c22fca45255ee2cc4d": {
       "seenAt": "2026-11-12T19:31:20.384Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-16T03:31:38.528Z",
       "title": "김민석 “최민희 발언, 정치와 별개로 판단 이뤄질 것” - 진일보 | 전남일보",
       "targetName": "김민석"
+    },
+    "26265c8d43a1d80fa629d47bb5e90fcd8fbb0261f87ea10a96b7f5b7448a01db": {
+      "seenAt": "2026-11-16T03:51:18.227Z",
+      "title": "[영상] 최민희 '징계 심판대'로...정청래 '깃발' 들까 - YTN",
+      "targetName": "정청래"
     }
   },
   "pending": []

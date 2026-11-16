@@ -1354,5 +1354,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "26265c8d43a1d80fa629d47bb5e90fcd8fbb0261f87ea10a96b7f5b7448a01db",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "[영상] 최민희 '징계 심판대'로...정청래 '깃발' 들까 - YTN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE56WEUyYmVMRjJ3bUVYZ2xfcU91SE9JUF9wSTdnd3FWOEp3a2xnT0Q3d0lxTmpqRGRHYU1YZU91a3NaREpZYmwzVTU2VTY5TVB1UUYzX3RBRFktR2J0YUE?oc=5\" target=\"_blank\">[영상] 최민희 '징계 심판대'로...정청래 '깃발' 들까</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56WEUyYmVMRjJ3bUVYZ2xfcU91SE9JUF9wSTdnd3FWOEp3a2xnT0Q3d0lxTmpqRGRHYU1YZU91a3NaREpZYmwzVTU2VTY5TVB1UUYzX3RBRFktR2J0YUE?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 03:39:00 GMT",
+    "source": "YTN",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 최민희 '징계 심판대'로...정청래 '깃발' 들까",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
