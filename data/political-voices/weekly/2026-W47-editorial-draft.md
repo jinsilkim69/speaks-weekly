@@ -27,3 +27,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says Interior will appeal ruling delaying golf course renovations - The Hill
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says Interior will appeal ruling delaying golf course renovations
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzRxMUVTQkhURnhFQnNwa0h1X2d6ZEhPWjhXeGM4TlVXVWh5V3lTZlppWVluSVJvbmRmZjhJV3RzcjhMb3UtZXdZOGtfTDFmc3JCMWNNcXd5YUZQZFNhNVJNRGpTMjR3RG9LUVZHcjdqcS1veEh0aWV1cXhxRC1vWE1JS2NMVkdablZZ0gGQAUFVX3lxTE0yZXBMRnBlNW54ZHRrRGU2aFMyb05XOHdZblR5Q190bjZkX2lYd2RBSFVXaUpYWk84cmVyaUxrSEZoUVNWM01vNi10SVlVQWhrRklHY0lXS3kwOGNWSjY5ajdPUXgxMjRCQm14MTV5NHBXal9aRDhodkhhM0UwZ19fdm1RN1NiQUFtdnBCVmJxcg?oc=5)
+
+---
+
