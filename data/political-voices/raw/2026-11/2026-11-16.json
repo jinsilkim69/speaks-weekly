@@ -1379,5 +1379,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "966aa885ed705d9986b8343c6c6fd24029f380cbc333205f5ad68f4c04bfebdd",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "김준일 \"한동훈 복당 가능성 높아져…50%는 넘었다\"[뉴스연구소] - 노컷뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yQ0hoSjdKZjhyZ3d2UjVpbzJjLWd0blh2cUNpZ1RHZG4tMlZmMUFTSGJJa3l0dDJHT1ZJQ09PQVRGZDJvbEZISnY2S3FKRDVZemc?oc=5\" target=\"_blank\">김준일 \"한동훈 복당 가능성 높아져…50%는 넘었다\"[뉴스연구소]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">노컷뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yQ0hoSjdKZjhyZ3d2UjVpbzJjLWd0blh2cUNpZ1RHZG4tMlZmMUFTSGJJa3l0dDJHT1ZJQ09PQVRGZDJvbEZISnY2S3FKRDVZemc?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 01:19:43 GMT",
+    "source": "노컷뉴스",
+    "ageHours": 2.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김준일 \"한동훈 복당 가능성 높아져…50%는 넘었다\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "f45fb9aadda986822f45d9691b42803127e9182dcb9b79cba08df78212648ad1",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "與, 한덕수 선고기일 지정에 \"만시지탄\"…정청래는 \"조희대 탄핵\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE52dWR0aG1DbVJKQXRIWGhjTjdhb0VMMXBRcUROdHQ4Q0gtemZEMnRJZ19vRnR1NnBVcnowbFliS0JoMmhNNE1xMUVvUFFGRl90Q2pvSnBjSWdRdEhJZUFpZ0xhc2xCSERWNUhpUtIBckFVX3lxTE5zbHBzWDdiNWdPUDdQeGpJMko0aldYazhyakY0M2sySzBuOGVmUGFyUk9oVXE0UE9qUWJCXzVFVXZJZW94RDQwMzFYaGw2QVZuZ3MzdUlwbDhkR2J3Zl9wZ2xkQjRJcmhtX0dWYnc2VDFLdw?oc=5\" target=\"_blank\">與, 한덕수 선고기일 지정에 \"만시지탄\"…정청래는 \"조희대 탄핵\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52dWR0aG1DbVJKQXRIWGhjTjdhb0VMMXBRcUROdHQ4Q0gtemZEMnRJZ19vRnR1NnBVcnowbFliS0JoMmhNNE1xMUVvUFFGRl90Q2pvSnBjSWdRdEhJZUFpZ0xhc2xCSERWNUhpUtIBckFVX3lxTE5zbHBzWDdiNWdPUDdQeGpJMko0aldYazhyakY0M2sySzBuOGVmUGFyUk9oVXE0UE9qUWJCXzVFVXZJZW94RDQwMzFYaGw2QVZuZ3MzdUlwbDhkR2J3Zl9wZ2xkQjRJcmhtX0dWYnc2VDFLdw?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 03:56:14 GMT",
+    "source": "머니투데이",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 與, 한덕수 선고기일 지정에 \"만시지탄\"…정청래는 \"조희대 탄핵\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

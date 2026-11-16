@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T03:51:17.093Z",
+  "lastCheckedAt": "2026-11-16T04:01:17.831Z",
   "seenPostIds": {
-    "485faaa8aeb0de0190780549efc53f53b6b6f2256ba512c22fca45255ee2cc4d": {
-      "seenAt": "2026-11-12T19:31:20.384Z",
-      "title": "Trump calls for Tim Cook to replace Jensen Huang at Nvidia - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "da0bc9bdf98a0cc23695a40126ed5e68bfd3d1ea213d3b58caf79148a8f9a6ea": {
       "seenAt": "2026-11-12T19:31:21.124Z",
       "title": "김민석 \"만나서 대화\"...정청래 \"피해자에 합의강요는 2차 가해\"...갈등골만 깊어 - 경북신문",
@@ -2504,6 +2499,16 @@
     "26265c8d43a1d80fa629d47bb5e90fcd8fbb0261f87ea10a96b7f5b7448a01db": {
       "seenAt": "2026-11-16T03:51:18.227Z",
       "title": "[영상] 최민희 '징계 심판대'로...정청래 '깃발' 들까 - YTN",
+      "targetName": "정청래"
+    },
+    "966aa885ed705d9986b8343c6c6fd24029f380cbc333205f5ad68f4c04bfebdd": {
+      "seenAt": "2026-11-16T04:01:19.045Z",
+      "title": "김준일 \"한동훈 복당 가능성 높아져…50%는 넘었다\"[뉴스연구소] - 노컷뉴스",
+      "targetName": "한동훈"
+    },
+    "f45fb9aadda986822f45d9691b42803127e9182dcb9b79cba08df78212648ad1": {
+      "seenAt": "2026-11-16T04:01:19.713Z",
+      "title": "與, 한덕수 선고기일 지정에 \"만시지탄\"…정청래는 \"조희대 탄핵\" - 머니투데이 - 머니투데이",
       "targetName": "정청래"
     }
   },

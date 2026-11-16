@@ -391,3 +391,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김준일 "한동훈 복당 가능성 높아져…50%는 넘었다"[뉴스연구소] - 노컷뉴스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김준일 "한동훈 복당 가능성 높아져…50%는 넘었다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yQ0hoSjdKZjhyZ3d2UjVpbzJjLWd0blh2cUNpZ1RHZG4tMlZmMUFTSGJJa3l0dDJHT1ZJQ09PQVRGZDJvbEZISnY2S3FKRDVZemc?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 與, 한덕수 선고기일 지정에 "만시지탄"…정청래는 "조희대 탄핵" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與, 한덕수 선고기일 지정에 "만시지탄"…정청래는 "조희대 탄핵"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE52dWR0aG1DbVJKQXRIWGhjTjdhb0VMMXBRcUROdHQ4Q0gtemZEMnRJZ19vRnR1NnBVcnowbFliS0JoMmhNNE1xMUVvUFFGRl90Q2pvSnBjSWdRdEhJZUFpZ0xhc2xCSERWNUhpUtIBckFVX3lxTE5zbHBzWDdiNWdPUDdQeGpJMko0aldYazhyakY0M2sySzBuOGVmUGFyUk9oVXE0UE9qUWJCXzVFVXZJZW94RDQwMzFYaGw2QVZuZ3MzdUlwbDhkR2J3Zl9wZ2xkQjRJcmhtX0dWYnc2VDFLdw?oc=5)
+
+---
+
