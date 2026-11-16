@@ -105,3 +105,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 인터뷰 전문: 여선웅 “정청래 전 대표는 최민희 징계 이후에 등판하지 않을까” [정치시그널] - 채널A
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 인터뷰 전문: 여선웅 “정청래 전 대표는 최민희 징계 이후에 등판하지 않을까”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfVmJ2TnRlMkpnQWtTemRyUmNDSUtpdXRYSjJTVlFkSVQtRjI2akRRMlAxRnVvaVBQbkNpRE1mMFl3NzVVOW01OFRMd0Zhai1uQ0ZpZjhFNUVXb0d2SHfSAWNBVV95cUxQaG1SSkZPcVNjQl9sZjRNQTRJS3hzXzFDNHV2ak9RWTltcVo1cFZLTjJwaS1WaUFlLVBDV3k4ZnpCc2dHQWNkOUpwbERJOVdUQ0diZ1prUl9vZmxySmcyVUlETnc?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 국민의힘 장동혁·개혁신당 천하람 "수능 연기해야" - OBS경인TV
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘 장동혁·개혁신당 천하람 "수능 연기해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE82VWlIdWhvWnI1S3Q5dVBqYzEtNXNxOXdBVlJ2NS02NUlvTGZobkFvaW1faTEzemZBYnRuN0ViY25rbldLU29UT2UwbDZHWThOY1d3Smoxc3dGWDBNTTBoWFh1a0ZjNjQ1Z0dDOURn?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Koh blames Trump for blocking Biden-era infrastructure, FAA funding - The Hill
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Koh blames Trump for blocking Biden-era infrastructure, FAA funding
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMifEFVX3lxTE1lSFBGZkNRM3dvVllFNU9qdlVUX2JNYkFsVVdwQzBwVkdTVUEtN01meG9lczg3WktsbnpKX3E4allFQno2cW5oR2xjbzhRNzNqbll0NGRfSUVEQl9CazNhYkVjQWJuc09oOTBhS2l3VHlzQmp0cE9yRGx5MWfSAYIBQVVfeXFMT0l4NkREMWJ5ZktWQ2FlRXpzS241Ynp3Y1ZGempMWWlUWmh0VllxNTRTS1VaWjktbDVWQ2E4d1cwUFowejJySnRxTmFaa3hmSDh5MF9lYkNXVS0zYkdQLUJaVFVIbW9YZlFQRms0cnE0UWpPOF85bGw4b1djZmJHVDViUQ?oc=5)
+
+---
+

@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T01:41:17.546Z",
+  "lastCheckedAt": "2026-11-16T01:51:20.144Z",
   "seenPostIds": {
-    "8b94ae5d84882d706c951f416da8f01f26b6d0198fbd9a3e407718b2c9d99ecf": {
-      "seenAt": "2026-11-12T18:11:29.601Z",
-      "title": "\"최민희와 한동훈, 이준석의 공통점은~\" 김민하의 신박한 분석 (261112 목요일 클립) 김민하 신인규 이유진 - 경향신문",
-      "targetName": "이준석"
-    },
     "3f53acd8fdf66eab3f38590cfcc361af8f5967387af7ec769f22d37a565dacf4": {
       "seenAt": "2026-11-12T18:21:17.448Z",
       "title": "Trump: Vance to focus solely on ‘Massive Corruption and Crime’ in Democrat-led cities, states - The Hill",
@@ -2505,6 +2500,21 @@
       "seenAt": "2026-11-16T01:41:18.812Z",
       "title": "최형두 \"이 대통령, 본인 후련하자고 정치하나...트럼프-박근혜보다 안 좋아, SNS 적당히, 걱정\"[KBC-지방자치TV특별대담] - KBC광주방송",
       "targetName": "이재명"
+    },
+    "ef09e55544e822d1b902db8a5e8ed1b4ec41b77d51868363308c9897e75b487f": {
+      "seenAt": "2026-11-16T01:51:21.321Z",
+      "title": "인터뷰 전문: 여선웅 “정청래 전 대표는 최민희 징계 이후에 등판하지 않을까” [정치시그널] - 채널A",
+      "targetName": "정청래"
+    },
+    "f0316caadb3deed40274fa8b32c6fe3a6a2ea926757091cb9a89de7b1db6b33f": {
+      "seenAt": "2026-11-16T01:51:22.001Z",
+      "title": "국민의힘 장동혁·개혁신당 천하람 \"수능 연기해야\" - OBS경인TV",
+      "targetName": "천하람"
+    },
+    "46186c9e3b603361cc7594563b41b96514df9519e297b322e348bfa999e3e59c": {
+      "seenAt": "2026-11-16T01:51:22.668Z",
+      "title": "Koh blames Trump for blocking Biden-era infrastructure, FAA funding - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
