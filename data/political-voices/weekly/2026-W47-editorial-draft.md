@@ -144,3 +144,16 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 장동혁, 오세훈, 한동훈의 삼국지.. 이준석의 짜증엔 이유가 있다? - 최보식의언론
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, 오세훈, 한동훈의 삼국지.. 이준석의 짜증엔 이유가 있다?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTE56c0FDNWJjV0RFRXExUERWRG91QjFhOHdvaTNSeGV6d2pPTjFqU3h0Z1VnU3NDQVp5M0hwZm5RLWd4U1hJbHRWZjJtTnZoVUY3OHN1emVXNFIxRkR0SXA2MzFWblrSAWhBVV95cUxORFRmS3E3NXdQT2xiWTE4STdmT3lVb3dqQzJ4djJrdTRwd0lUc1VMLXM3ZUM5WkRVX2ltUmlXUXRMMGpNSHotdUcwSTliSDBPVnFNcUpTRTE1YXMxN21iXy14ZlVfMHV0Vw?oc=5)
+
+---
+

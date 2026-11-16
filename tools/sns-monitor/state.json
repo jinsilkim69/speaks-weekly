@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T01:51:20.144Z",
+  "lastCheckedAt": "2026-11-16T02:01:17.841Z",
   "seenPostIds": {
-    "3f53acd8fdf66eab3f38590cfcc361af8f5967387af7ec769f22d37a565dacf4": {
-      "seenAt": "2026-11-12T18:21:17.448Z",
-      "title": "Trump: Vance to focus solely on ‘Massive Corruption and Crime’ in Democrat-led cities, states - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "4de0eea8c4fbdfd22ba634df3e7083b5636cdb1f7924d7c0111a990491933316": {
-      "seenAt": "2026-11-12T18:21:18.397Z",
-      "title": "정청래 “심판 행세 말고 빠지라”에···박지원 “계속 싸우잔 거냐” - 경향신문",
-      "targetName": "정청래"
-    },
-    "0ea4d92f873393e74c27b4e2d40f4e768fc81240641b3dc5bc452d83c061ba23": {
-      "seenAt": "2026-11-12T18:21:19.251Z",
-      "title": "Trump reverts to an old theme, warns of immigrant caravans - The Washington Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "98fba06e69e6a2794b18796cddca767f9fde368a6ca592ad10e413338074cc8a": {
       "seenAt": "2026-11-12T18:31:18.168Z",
       "title": "【시사토픽Q=입법.정당/이슈특보】 장동혁, '한동훈 복당 불가' 원칙 재확인…이진숙, '통합·연대' 발언에 지지 철회 움직임 - 데일리NGO뉴스",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-16T01:51:22.668Z",
       "title": "Koh blames Trump for blocking Biden-era infrastructure, FAA funding - The Hill",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d1a3b67656abb3d569f79073f78788bfa97cd4c105743ff358062b5a1bfd302c": {
+      "seenAt": "2026-11-16T02:01:19.021Z",
+      "title": "장동혁, 오세훈, 한동훈의 삼국지.. 이준석의 짜증엔 이유가 있다? - 최보식의언론",
+      "targetName": "이준석"
     }
   },
   "pending": []
