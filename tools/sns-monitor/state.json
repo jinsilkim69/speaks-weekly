@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T04:51:18.631Z",
+  "lastCheckedAt": "2026-11-16T05:01:16.993Z",
   "seenPostIds": {
-    "78d75fba052a1026c1b67234f132f0d0700e1277ec9fdee024ed25063111dbcb": {
-      "seenAt": "2026-11-12T19:51:18.364Z",
-      "title": "김민석 \"정청래 만나 풀겠다\"…정청래 \"사과 권유는 2차 가해\" 반발 - 폴리뉴스 Polinews",
-      "targetName": "정청래"
-    },
-    "0a91461eeb610412216242dec751edbeb4c753778a16dfa630c1e6479c4d669e": {
-      "seenAt": "2026-11-12T19:51:19.018Z",
-      "title": "Trump says no deal needed with Iran, closes down Vance negotiations - The Washington Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "eed6c80cb269d898d964f467468d7b658cb1561913abfd5408b695ebd06044ca": {
       "seenAt": "2026-11-12T20:01:19.741Z",
       "title": "Trump Tells Mexico He’ll Double Tariffs If It Doesn’t Crack Down On Migrant Caravans - Forbes",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-16T04:51:21.074Z",
       "title": "조국혁신당 \"민주유공자법 19일 반드시 처리\"…조희대 탄핵도 촉구 - KBC광주방송",
       "targetName": "조국"
+    },
+    "4cd87ef515e108bea7e977843c2ee0916e7c50732e781fd949bbb08412626101": {
+      "seenAt": "2026-11-16T05:01:18.165Z",
+      "title": "與, 한덕수 선고기일 지정에 \"만시지탄\"…정청래는 \"조희대 탄핵\" - 서플 뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": []
