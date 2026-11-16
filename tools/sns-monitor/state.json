@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T18:51:19.367Z",
+  "lastCheckedAt": "2026-11-16T19:01:31.917Z",
   "seenPostIds": {
-    "c1d39e4e016baa20647142b1bd4102789e0653312b80beb938674da561e3eb46": {
-      "seenAt": "2026-11-13T07:11:18.695Z",
-      "title": "민주당은 '합당 군불'…조국혁신당은 \"사과부터\" - 데일리안",
-      "targetName": "조국"
-    },
     "cbc525bdc6b683e80e454c0e2da70a77b4f3a2650d0f638ef6c6a84bbd76af62": {
       "seenAt": "2026-11-13T07:11:19.356Z",
       "title": "국힘 ‘한동훈 조작징계’ 놓고 계파 충돌…친한계 “제명 무효” vs 당권파 “궤변” - 아시아투데이",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-16T18:51:20.446Z",
       "title": "DOJ Warns Democratic Senator of ‘Legal Consequences’ Over Trump Investigations—What Can It Actually Do? - Time Magazine",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "09caa9fbad1efc99f43fa316b2ce45b31393a341e8e72873a9c9d77ec35cc816": {
+      "seenAt": "2026-11-16T19:01:33.316Z",
+      "title": "김민석 대표 책임, 민주당은 어디까지 물을 것인가? - 네이버 프리미엄콘텐츠",
+      "targetName": "김민석"
+    },
+    "608054f01da7b2d4e46dd63ae7a5fc2709563357acae07b601d27d492955426d": {
+      "seenAt": "2026-11-16T19:01:34.068Z",
+      "title": "정청래, 한덕수 구속만료 하루 전 선고에 \"정치적 계산…조희대 탄핵감\" - 머니투데이 - 머니투데이",
+      "targetName": "정청래"
     }
   },
   "pending": []

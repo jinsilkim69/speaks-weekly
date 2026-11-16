@@ -1405,3 +1405,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 대표 책임, 민주당은 어디까지 물을 것인가? - 네이버 프리미엄콘텐츠
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 대표 책임, 민주당은 어디까지 물을 것인가?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMifkFVX3lxTE1KQTRVNTRUTThhaDIxSE4tdk5oNGQyS3VPSVhST3lYdWs3bk9JdGhDX0FmSHV2S3BFS2MwS0tXckd1UkhFenByZmEwOVI2SGlqZFJ4Ty1VaE1aUFhrbTFYdDhnRklIbFlQQ2VFN2YybTlMMDZ4Q1BPX255blZfdw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 한덕수 구속만료 하루 전 선고에 "정치적 계산…조희대 탄핵감" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 한덕수 구속만료 하루 전 선고에 "정치적 계산…조희대 탄핵감"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE9WY1ZpaVV0VXlIZTBkVkFNd3ZxVmlVU3FGUkhabS1wOVpNZk1Gdnd0Z2g5ZGlIc3NaRzVobk9pdUdIdmlxU0x3dlZHaTVldXJDNUlRd1RzakhYVmJHaUNydlBYQnpjWVV6MnAydEREVllqZ9IBckFVX3lxTE9WY1ZpaVV0VXlIZTBkVkFNd3ZxVmlVU3FGUkhabS1wOVpNZk1Gdnd0Z2g5ZGlIc3NaRzVobk9pdUdIdmlxU0x3dlZHaTVldXJDNUlRd1RzakhYVmJHaUNydlBYQnpjWVV6MnAydEREVllqZw?oc=5)
+
+---
+
