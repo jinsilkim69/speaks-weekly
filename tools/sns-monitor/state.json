@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-16T07:11:18.790Z",
+  "lastCheckedAt": "2026-11-16T07:21:21.674Z",
   "seenPostIds": {
     "87f39a61590c42cc5b32b94d9fd6739b068f9a01cec759a289f4f05dba271e0d": {
       "seenAt": "2026-11-12T23:11:18.517Z",
@@ -2500,7 +2500,39 @@
       "seenAt": "2026-11-16T07:01:30.262Z",
       "title": "조국 “조작기소특검법 위헌제청 여지…할 말은 해야” - 쿠키뉴스",
       "targetName": "조국"
+    },
+    "31131eef5c9bfe872fe7fea23e09b5974b8045c2d6f681faf8c5b9a09a1c1ebe": {
+      "seenAt": "2026-11-16T07:21:23.114Z",
+      "title": "'한동훈 복당' 또 수면 위로...장동혁은 일단 '선 긋기' [이슈톺] - YTN",
+      "targetName": "한동훈"
+    },
+    "70ed54b0350d353d95c48078b7df8700432f063339df4f478f91e8b45a6f4a55": {
+      "seenAt": "2026-11-16T07:21:23.859Z",
+      "title": "진형구(1기) 전 대전고검장 본인상·한동훈(27기) 의원 장인상·진은정 김·장 법률사무소 외국변호사 부친상 - 법률신문",
+      "targetName": "한동훈"
+    },
+    "6694a2703f37a106b4971b1e2d8e62fab39283bbcc45b4b19d8e34e346eb685b": {
+      "seenAt": "2026-11-16T07:21:24.679Z",
+      "title": "천하람 “수능 연기하자…AI 부정행위 막는 필수조치 필요” - KBS 뉴스",
+      "targetName": "천하람"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "f669c6f9aedcf3785bfba163c7012fd82fca12bcc230d7b7e7bf1abe54abea62",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 \"조희대, 한덕수·김건희 구속 유지와 '탄핵 포기' 맞교환 전술\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5KVEU4enBJbTg0WVdUWXV3REE0Z3VpQnlqT3J1OGw2VWJRaUtnYkMtcUJNVV8tVDR1alE3UVZCQnBqZFhiZ1o2YzdZSm9QR0ZPWk91enh2UGItSEFaWGhvRFJ1V3pIT2pJc09pTS1Gdl9tUdIBckFVX3lxTE5KVEU4enBJbTg0WVdUWXV3REE0Z3VpQnlqT3J1OGw2VWJRaUtnYkMtcUJNVV8tVDR1alE3UVZCQnBqZFhiZ1o2YzdZSm9QR0ZPWk91enh2UGItSEFaWGhvRFJ1V3pIT2pJc09pTS1Gdl9tUQ?oc=5\" target=\"_blank\">조국 \"조희대, 한덕수·김건희 구속 유지와 '탄핵 포기' 맞교환 전술\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KVEU4enBJbTg0WVdUWXV3REE0Z3VpQnlqT3J1OGw2VWJRaUtnYkMtcUJNVV8tVDR1alE3UVZCQnBqZFhiZ1o2YzdZSm9QR0ZPWk91enh2UGItSEFaWGhvRFJ1V3pIT2pJc09pTS1Gdl9tUdIBckFVX3lxTE5KVEU4enBJbTg0WVdUWXV3REE0Z3VpQnlqT3J1OGw2VWJRaUtnYkMtcUJNVV8tVDR1alE3UVZCQnBqZFhiZ1o2YzdZSm9QR0ZPWk91enh2UGItSEFaWGhvRFJ1V3pIT2pJc09pTS1Gdl9tUQ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 05:18:50 GMT",
+        "source": "머니투데이",
+        "ageHours": 2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

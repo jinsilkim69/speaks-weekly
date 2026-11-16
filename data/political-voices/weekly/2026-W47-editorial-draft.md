@@ -664,3 +664,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '한동훈 복당' 또 수면 위로...장동혁은 일단 '선 긋기' [이슈톺] - YTN
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '한동훈 복당' 또 수면 위로...장동혁은 일단 '선 긋기'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidkFVX3lxTE9JMi1TY0xvZlM2aTZ1clFsNTRIQjlGcGF0cWxHdm1OdDA1RDhvVXFKdTV0TnVsdmhFM09DZzItM3ZabEx1UjFpZkx4eU9iTUpwOTNTbWJnbEdiaVVXN1dNa0plNEpSWHFyUjl0U3d1THNsMmp1TXc?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 진형구(1기) 전 대전고검장 본인상·한동훈(27기) 의원 장인상·진은정 김·장 법률사무소 외국변호사 부친상 - 법률신문
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 진형구(1기) 전 대전고검장 본인상·한동훈(27기) 의원 장인상·진은정 김·장 법률사무소 외국변호사 부친상
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE9IR3dWUzJoRTNPRUEwRldncUxMMTg0RmlhcDJNempNNXl0akZKWmRnSS1JZ2l3X3RNd1FvTEROQjJacXVRQ0dtOUhpSzBsSTJ2TllRMFZ4Tl9qR3VvT3dkN29MZ3VZU0FGSVNYX1ZB0gFyQVVfeXFMTVBLMHM1X212dDdGbEVWM0U2V3JiNVZLSXpDa1NGb0FtbER3dVAwWFRFZ2cxUTFibWNhN3RvV0hYVFc1OUhWWEZUWHZpSkhPbmJ6Ym5lNzQySUtvRmJGX1VMdVpUbE9GZ05SckthZEJBNkFB?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 천하람 “수능 연기하자…AI 부정행위 막는 필수조치 필요” - KBS 뉴스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 천하람 “수능 연기하자…AI 부정행위 막는 필수조치 필요”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zS2VvWXZiUUcxemVjY3hPUWxrVmUtOFY0ajFFS2QxQ3lHOFdZZE1iTHBJV2VBQVlNRm8tTmo4T1kxeWtjQTNudFhodWRwcnVUZkRUTXlVMHNMb2lQcWZwUHVxdVB1UQ?oc=5)
+
+---
+
