@@ -2536,5 +2536,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e6b2d2fc8e7d7be9261b1a040f90b6f16a1082f310f995bbe80f5ac2f286996f",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당 현장 최고위원회의 - 국제뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5lN1h5ZEIzVXRTRHd6bnQwWVlIblVoM2tKYWVCenFrR0trV3hjZUp5RHF5NmFiRjkyVFYtOWtaaERJZ0ZlTmhjcWY5LU5hMjJ6RGRxUThDVHBhWkQtSXFkYVlHVEpib0l3dHV1aDRR?oc=5\" target=\"_blank\">조국혁신당 현장 최고위원회의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lN1h5ZEIzVXRTRHd6bnQwWVlIblVoM2tKYWVCenFrR0trV3hjZUp5RHF5NmFiRjkyVFYtOWtaaERJZ0ZlTmhjcWY5LU5hMjJ6RGRxUThDVHBhWkQtSXFkYVlHVEpib0l3dHV1aDRR?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 04:27:29 GMT",
+    "source": "국제뉴스",
+    "ageHours": 6.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당 현장 최고위원회의",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
