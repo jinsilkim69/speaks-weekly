@@ -638,3 +638,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 눈길 안 준 김민석과 두 손 모은 최민희 #Shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 눈길 안 준 김민석과 두 손 모은 최민희 #Shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFBsMnBaQ01yblVIdl9HSnB3QnN3S0xBVTcxVFl3MU9xMDFwOE5uTTE5ZlJYNGVFNUtwVWptNDg0MThzY3U0ZHZhSjdEVDgtdWZPelhTeE5zcTJlQkswbFVQNzJSc3o0OGsxZXdEb0t4Vzdkc2lhZjIta2hpblNWM1U?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “조작기소특검법 위헌제청 여지…할 말은 해야” - 쿠키뉴스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “조작기소특검법 위헌제청 여지…할 말은 해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyODROT1RfWmtaOFFkdHVGZFZRWjE1aHJWV29WM3dOVHEwTHBMMU9tcVg5aFdrUTVPZTJJQ3E0RHBJY2k2TWpyWjJHM3NkRWE4RU1nVU5SRHRqRWFQd240Vlo1WQ?oc=5)
+
+---
+
