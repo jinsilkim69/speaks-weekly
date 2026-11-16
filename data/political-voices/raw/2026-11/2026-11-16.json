@@ -1126,5 +1126,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "910ff0930938a96cd6e8610f47669fae1b700b9b90e2408bf27215bf4e08fdda",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 \"신라젠 음모론에 유시민 이어 나까지 엮으려 해 개탄\" - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXdHEyRFlZZjFxdWhDRE11dlU3T2xzQ0RvOUxReWhfQW9KRGdzNHlFUndjWmJ3NnlJcjk1TFlCeGFUTE1rN3d4SlI2ZE1QRWg2ZkpidVg5UXdKTjFQeWhpcVZMemY?oc=5\" target=\"_blank\">조국 \"신라젠 음모론에 유시민 이어 나까지 엮으려 해 개탄\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXdHEyRFlZZjFxdWhDRE11dlU3T2xzQ0RvOUxReWhfQW9KRGdzNHlFUndjWmJ3NnlJcjk1TFlCeGFUTE1rN3d4SlI2ZE1QRWg2ZkpidVg5UXdKTjFQeWhpcVZMemY?oc=5",
+    "pubDate": "Sun, 15 Nov 2026 05:27:08 GMT",
+    "source": "뉴스1",
+    "ageHours": 21.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"신라젠 음모론에 유시민 이어 나까지 엮으려 해 개탄\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
