@@ -885,3 +885,29 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원 “소방안전교부세 부족분 국가가 지원해야” - 소방방재신문
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원 “소방안전교부세 부족분 국가가 지원해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRd00yX0x3a0oxaDRxb3NYbWEzd0lHQWItclN6ektkVHlWc2pTTy14MVdkTmpRZlp3Nm1peWcyVnZxVjAyS1E?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 국회 앞 천막농성... 민주유공자법 제정 촉구 - OhmyNews
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 국회 앞 천막농성... 민주유공자법 제정 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE9JZmFVVHM1cUhMX1ZUcENxZkxiNkZMZWlpdnNSU0VzVzNDRkNIYTZpanI4cDNZUTY3aHhmY0M0OUp6T0lteVh0eUp3RHlRbzJLUHFFTS1PSFpNcERQelJPdFdzSXlEVTlPdkI4UWVZWGYyZzJvRFhF?oc=5)
+
+---
+
