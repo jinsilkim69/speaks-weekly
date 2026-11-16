@@ -198,5 +198,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "dca794ca62f69702a5a4946546e49afe7a8cacd043724a1a5dd832d76fa8f68b",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Natalie Harp Could Be Banned From Using Trump’s Social Account: Lawsuit - Newsweek",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjMtdjZ1NjlKSXctRkU0ZHdOMHp6VmZfYm9RREVlSVNrdlVtdTVRd1FLTDNrdzUwaE9UTGo2VXBlNk5yVzlnV0NXR0Y1Y1ZIcHBkZzZsajBnaDBIYzBJUkpLVElzN2tPY3ZDM3VFUnp2aFJ5LW5YWVl5a1NUbG5wRExrVWliNjI4WjljQVMwQU1jUQ?oc=5\" target=\"_blank\">Natalie Harp Could Be Banned From Using Trump’s Social Account: Lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjMtdjZ1NjlKSXctRkU0ZHdOMHp6VmZfYm9RREVlSVNrdlVtdTVRd1FLTDNrdzUwaE9UTGo2VXBlNk5yVzlnV0NXR0Y1Y1ZIcHBkZzZsajBnaDBIYzBJUkpLVElzN2tPY3ZDM3VFUnp2aFJ5LW5YWVl5a1NUbG5wRExrVWliNjI4WjljQVMwQU1jUQ?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 16:50:00 GMT",
+    "source": "Newsweek",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Natalie Harp Could Be Banned From Using Trump’s Social Account: Lawsuit",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
