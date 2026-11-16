@@ -820,3 +820,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 인터뷰 전문: 서영교 “한동훈, 조작수사·조작기소 당시 법무부 장관…자유롭지 못해” [정치시그널] - 채널A
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 인터뷰 전문: 서영교 “한동훈, 조작수사·조작기소 당시 법무부 장관…자유롭지 못해”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtR3M2bXlUWlBiWDdKWTg4MF94VWhYNkY1RlFYV3hEcUJtRy1Vcm4yWFFJbzQxSy1zc0tKb3JLWlZzNC1GUnVaUGwzdnNIakJQZ1ZpenE0NEttbENMTXfSAWNBVV95cUxQcElsMXBHVFV2a1JBaW1mOHVvdGxGajdJNTdiZXFYc2w0RkxGTmtWd1VLRDBUREVCRUlGa1BpdlZ2MjZocjJURXIxWUpnRW9IcDQwbkhCZ0RsX0ZDT2F3bGg2dEU?oc=5)
+
+---
+

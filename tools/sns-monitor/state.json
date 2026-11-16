@@ -1,26 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T08:11:18.147Z",
+  "lastCheckedAt": "2026-11-16T08:31:18.040Z",
   "seenPostIds": {
-    "4e230eae6efeec605f66ea72f9103146ee0b3637cc1c42b8468e027c47d9547f": {
-      "seenAt": "2026-11-13T01:01:17.550Z",
-      "title": "최인호 정무수석, 신장식 조국혁신당 대표 예방 - 뉴시스",
-      "targetName": "신장식"
-    },
-    "2e1ed1fbdcc846d1da373a1d9f56c98b437abcc32ab3eaad8443dcc654f181c2": {
-      "seenAt": "2026-11-13T01:11:17.903Z",
-      "title": "Slotkin Statement After Trump Again Called for Her to be Prosecuted Over 90-Second Video - U.S. Senate (.gov)",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "ac0e12376e2ed9aef479319eee612d4319e384f3c0d8fe86abf6558bd282df3f": {
-      "seenAt": "2026-11-13T01:21:16.776Z",
-      "title": "“조작 징계” 의혹에 갈라진 국힘…한동훈 복당·장동혁 연임 변수 되나 - 아이엠피터뉴스",
-      "targetName": "한동훈"
-    },
-    "aab9ebb6b94a0ab0af734258855cfaeb71f43123f068e3c7966fe5247ea41da4": {
-      "seenAt": "2026-11-13T01:21:17.377Z",
-      "title": "‘신천지 3자 비밀연합’, 정청래·김민석 만남으로 풀 수 없는 이유 : 민주당 ‘당원 절반’의 분노와 상처 - 허프포스트코리아",
-      "targetName": "정청래"
-    },
     "aa92c6e2f85bc9883ddfad39b13d3ffcb03d7331d50077d2e2628cfae036ecc8": {
       "seenAt": "2026-11-13T01:31:23.328Z",
       "title": "김민석·\"부동산 정책 일관\" 종부세 엇박자 불식 주력, 정청래 갈등엔 \"만나서 대화\" - 국제신문",
@@ -2520,6 +2500,11 @@
       "seenAt": "2026-11-16T08:21:28.923Z",
       "title": "조국 후보 유세 현장서 선거사무원·경찰 폭행‥40대 남성 불구속 송치 - MBC 뉴스",
       "targetName": "조국"
+    },
+    "ac4d113eedbe69a64469a330eb0154336a68a59a7ea18d8c6983d9c576d7fb5b": {
+      "seenAt": "2026-11-16T08:31:19.216Z",
+      "title": "인터뷰 전문: 서영교 “한동훈, 조작수사·조작기소 당시 법무부 장관…자유롭지 못해” [정치시그널] - 채널A",
+      "targetName": "한동훈"
     }
   },
   "pending": []
