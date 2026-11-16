@@ -2787,5 +2787,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "7954e58194e5d4871537f7f50a3d3998a00044c5c69e62ae8ce0ea44937024c0",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Posts Bizarre Troop Video After Shocking Revelation - The Daily Beast",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS1NpX2plblVKdEZiRFk1WVI2T0poUEhLUlhqU1hqOE9tZE5ZRWxSd0l2MUdRbnFBWXpBRGJtX2d6aVBYX3RFN1NuSktIN1Y3aTgwNDFVbEtOeThQQXdJdi13U0RELTBhYmpHbUVXTXNEZ2lSMEJWQndHRnI3Z1BJYm9iTkJtalZfS2lMVVlobGRQMkxpUENkWGxUVDMzckN0b3hXUzk5ZVlidGNIV3FKdTdvTU9ER20yNTBnZ1RHX2V1ZUtyZTF6WQ?oc=5\" target=\"_blank\">Trump Posts Bizarre Troop Video After Shocking Revelation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS1NpX2plblVKdEZiRFk1WVI2T0poUEhLUlhqU1hqOE9tZE5ZRWxSd0l2MUdRbnFBWXpBRGJtX2d6aVBYX3RFN1NuSktIN1Y3aTgwNDFVbEtOeThQQXdJdi13U0RELTBhYmpHbUVXTXNEZ2lSMEJWQndHRnI3Z1BJYm9iTkJtalZfS2lMVVlobGRQMkxpUENkWGxUVDMzckN0b3hXUzk5ZVlidGNIV3FKdTdvTU9ER20yNTBnZ1RHX2V1ZUtyZTF6WQ?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 11:56:24 GMT",
+    "source": "The Daily Beast",
+    "ageHours": 1.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Posts Bizarre Troop Video After Shocking Revelation",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
