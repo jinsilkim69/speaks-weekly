@@ -1080,3 +1080,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 "李 대통령에 누 끼쳐" 김민석 "모든 절차 당헌·당규 따를 것" [뉴시스Pic] - 뉴시스
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 "李 대통령에 누 끼쳐" 김민석 "모든 절차 당헌·당규 따를 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1sWUxrZU1ubVVIMnRPVDd2TlNOS19FV0NSSDZ2NkM2RDQtbjN1VHhndkhyMENoUDRsVGxhWnR5SEhydW5rc01OWGtyYWNhWUprMlprRlhFOTBOdVBVNGxsQzdfNjRZRlV6Yzh0bFpSenktOGo4NFJMRtIBeEFVX3lxTE1sWUxrZU1ubVVIMnRPVDd2TlNOS19FV0NSSDZ2NkM2RDQtbjN1VHhndkhyMENoUDRsVGxhWnR5SEhydW5rc01OWGtyYWNhWUprMlprRlhFOTBOdVBVNGxsQzdfNjRZRlV6Yzh0bFpSenktOGo4NFJMRg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 한덕수 석방 임박에 '조희대 탄핵론' 재점화…고심 깊어지는 김민석 - 한국경제
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한덕수 석방 임박에 '조희대 탄핵론' 재점화…고심 깊어지는 김민석
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jYklaX0k4RmlzaVFVekhtczZ1NEREaGNIZ2I1OTl6bEpPTzd5M3BQRWJLVXZyU0xsNThRWl9oSVItQ1QwUDh1UW1BRzk1ZDhwNHBxcktQUHVCdw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** “최민희 엄정 판단” vs “김민석, 역지사지”…면전서 싸우는 민주당 - 시사저널
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “최민희 엄정 판단” vs “김민석, 역지사지”…면전서 싸우는 민주당
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9WaDdSQ0F1ZV9IWi1nal8tbV9feFhKbkJGdzJNTDhvaDVMN3FIZnRZUk15Y09JOGJzMTdWaGlLRUVrQ1Jrb3dfV0duWHNwVTQ3Z05qRlI4d2N2eE80NDZIQWJWZ3JHZE1Hd1dubW5yc9IBc0FVX3lxTE1iR1dYa3JRRUJlY2Q2aWFhdTVjMGFfRjN1akFIS0RRTTlDN2FhMVVxa014T2duLTdFSWhDOGx2Y0lWV2p1eVpaMEpQRi1xV3M1bVhkSlB6QkdjWDhyaUVlRGFfdWVrSGJrbG5ucUtmN2lxSFk?oc=5)
+
+---
+
