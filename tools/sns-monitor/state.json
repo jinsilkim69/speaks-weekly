@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-16T15:11:19.970Z",
+  "lastCheckedAt": "2026-11-16T15:21:21.390Z",
   "seenPostIds": {
     "ecf46dc3f3e76c197019db2ff25d3b9aa863132b13c844815d104ebf689e0c69": {
       "seenAt": "2026-11-13T05:31:15.800Z",
@@ -2500,26 +2500,17 @@
       "seenAt": "2026-11-16T14:51:20.322Z",
       "title": "\"윤석열재판과 이재명 대통령 재판은 차원이 달라!!!\" 노영희X강수영의 분노 (261116 월요일 클립) 강수영 노영희 - 경향신문",
       "targetName": "이재명"
+    },
+    "aab19ba350bbcfbb3888535a063dcb6d811ad4cdc02b0f82bfa5b255e9f2ca76": {
+      "seenAt": "2026-11-16T15:21:22.092Z",
+      "title": "Trump Rages At '60 Minutes' Report On Iran Attacks At Start Of War - Deadline",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "7d060db6f68b2be3272c6d88cff9329bab03d544ecc71db6f227a9ad101e58e6": {
+      "seenAt": "2026-11-16T15:21:23.042Z",
+      "title": "김민석, AI 부정행위에 “응시제한 최대 10년 확대 검토” - 중앙일보",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "aab19ba350bbcfbb3888535a063dcb6d811ad4cdc02b0f82bfa5b255e9f2ca76",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Rages At '60 Minutes' Report On Iran Attacks At Start Of War - Deadline",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9PNDNiOFNQMktOMWp0TG9TYUktY2VHWU10c2VEcDJXRUxtYVdya284NU9XOXl1THhUcTg3QmlDN21VOVdPYldfWmxqYkpjTE8yZk1Oek9wS09vcVVOM2c2d0E5RE9IbDgwdzB3TnZ2Xzk4XzNP?oc=5\" target=\"_blank\">Trump Rages At '60 Minutes' Report On Iran Attacks At Start Of War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PNDNiOFNQMktOMWp0TG9TYUktY2VHWU10c2VEcDJXRUxtYVdya284NU9XOXl1THhUcTg3QmlDN21VOVdPYldfWmxqYkpjTE8yZk1Oek9wS09vcVVOM2c2d0E5RE9IbDgwdzB3TnZ2Xzk4XzNP?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 15:08:00 GMT",
-        "source": "Deadline",
-        "ageHours": 0.1
-      },
-      "delivered": [
-        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
-      ],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

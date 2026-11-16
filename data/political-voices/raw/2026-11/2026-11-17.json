@@ -1,0 +1,52 @@
+[
+  {
+    "id": "aab19ba350bbcfbb3888535a063dcb6d811ad4cdc02b0f82bfa5b255e9f2ca76",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Rages At '60 Minutes' Report On Iran Attacks At Start Of War - Deadline",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9PNDNiOFNQMktOMWp0TG9TYUktY2VHWU10c2VEcDJXRUxtYVdya284NU9XOXl1THhUcTg3QmlDN21VOVdPYldfWmxqYkpjTE8yZk1Oek9wS09vcVVOM2c2d0E5RE9IbDgwdzB3TnZ2Xzk4XzNP?oc=5\" target=\"_blank\">Trump Rages At '60 Minutes' Report On Iran Attacks At Start Of War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deadline</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PNDNiOFNQMktOMWp0TG9TYUktY2VHWU10c2VEcDJXRUxtYVdya284NU9XOXl1THhUcTg3QmlDN21VOVdPYldfWmxqYkpjTE8yZk1Oek9wS09vcVVOM2c2d0E5RE9IbDgwdzB3TnZ2Xzk4XzNP?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 15:08:00 GMT",
+    "source": "Deadline",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Rages At '60 Minutes' Report On Iran Attacks At Start Of War",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "7d060db6f68b2be3272c6d88cff9329bab03d544ecc71db6f227a9ad101e58e6",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, AI 부정행위에 “응시제한 최대 10년 확대 검토” - 중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xRHJNajktYm5iY1AzSXVhQW5JcmMwTmJUVXJybFBzS1FmUi1aSF84anlmWnVKMV9mYUJuWFZkMUlPYnNaUWlsN091NklDdVBFSmtsSzhR?oc=5\" target=\"_blank\">김민석, AI 부정행위에 “응시제한 최대 10년 확대 검토”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xRHJNajktYm5iY1AzSXVhQW5JcmMwTmJUVXJybFBzS1FmUi1aSF84anlmWnVKMV9mYUJuWFZkMUlPYnNaUWlsN091NklDdVBFSmtsSzhR?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 04:56:01 GMT",
+    "source": "중앙일보",
+    "ageHours": 10.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, AI 부정행위에 “응시제한 최대 10년 확대 검토”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  }
+]
