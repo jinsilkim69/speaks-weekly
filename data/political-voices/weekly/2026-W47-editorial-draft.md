@@ -599,3 +599,16 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** "정청래 차량 습격범은 장애인"… 20만 정치 유튜버 명예훼손 송치 - 한국일보
+
+- **수집일**: 2026-11-16 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "정청래 차량 습격범은 장애인"… 20만 정치 유튜버 명예훼손 송치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1yS2JyTVNva0h5RV9qOXVFYklyMmlFOW96SUxEZ2hGZTRLeXVxVDZ1SmtvTTNfRGN3WEJhTjNIdG8xbktHWFo0VVB1bTdWNW1vQlFKOVp1aHFTYkNyby1kS282RGJsOGdQWkJtLTR30gFzQVVfeXFMT1ZJSkJGUG9ZX1lsM0RRTXNrN0JQN1FTd3ZEOW1FNkVrTTh1ekk0ZGszXzAwMUxicW84N2Z1bnhGbE5ZcWNNcDc4aXpEV0pYaTN4ZGxoWjZKV1ZJMzItUVphRWVUV1Z3Qm9PbklEbk5nNG4tNA?oc=5)
+
+---
+

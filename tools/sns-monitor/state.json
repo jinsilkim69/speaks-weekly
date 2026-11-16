@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T06:01:39.416Z",
+  "lastCheckedAt": "2026-11-16T06:11:25.825Z",
   "seenPostIds": {
-    "6d33cae73450b2dfa4c083b048540a3d30d37065ff19afa5a7fe9d9874831dbf": {
-      "seenAt": "2026-11-12T21:31:20.743Z",
-      "title": "Trump renews calls for $350B military funding package as GOP faces ticking clock - Politico",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "3014edaa285e21c0d7e2f91f2e6e354235f98660ed1964580a40c56069f5e6b0": {
-      "seenAt": "2026-11-12T21:41:15.520Z",
-      "title": "장동혁 반격 “한동훈 복당, 패륜의 정치” - 중앙일보",
-      "targetName": "한동훈"
-    },
     "a71666bf53a3f4be7940bf044abe9995e63f090cf3af2bf9ccfa0e264af1cece": {
       "seenAt": "2026-11-12T22:11:19.148Z",
       "title": "Trump pulls Vance from Iran talks, saying ‘we don’t need a deal’ - Los Angeles Times",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-16T06:01:41.298Z",
       "title": "Trump Self-Soothes With Dodgy MAGA Math After Election Disaster - The Daily Beast",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8d4936ebfbefc909bbd173c03289a63c89d3a08a97189e504175346704352068": {
+      "seenAt": "2026-11-16T06:11:27.236Z",
+      "title": "\"정청래 차량 습격범은 장애인\"… 20만 정치 유튜버 명예훼손 송치 - 한국일보",
+      "targetName": "정청래"
     }
   },
   "pending": []
