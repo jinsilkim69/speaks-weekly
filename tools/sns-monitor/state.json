@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T09:21:18.638Z",
+  "lastCheckedAt": "2026-11-17T09:41:19.550Z",
   "seenPostIds": {
-    "c24e92df2d5f4c3e190df0f7b639af42cacf1801c08e67d77e827029b346b201": {
-      "seenAt": "2026-11-13T12:41:17.596Z",
-      "title": "‘반쪽 최고위’ 최민희 감찰에 친청 전면전…“감찰대상은 김민석” - 중앙일보",
-      "targetName": "김민석"
-    },
-    "c4e59e60fd78f3b8da2b0022328936977b526b4f4ccb6ce8275e16742690e36f": {
-      "seenAt": "2026-11-13T12:41:18.317Z",
-      "title": "조국도 김민석 저격?…\"민주당, 합당 결사 반대했던 이들이 찬성론자인 양…\" - 프레시안",
-      "targetName": "조국"
-    },
-    "5c98d12ff53b213d8b40e029bc5b561d9aa33f879e684699decb3b9333660748": {
-      "seenAt": "2026-11-13T12:51:15.584Z",
-      "title": "민주당 ‘친정청래계’ 3인 “최민희 감찰은 악의적 프레임 전환…김민석을 감찰해야” - KBS 뉴스",
-      "targetName": "정청래"
-    },
-    "726728c7c1b3cced7a8dc89bcfb14b0589ce77778e83f09b7b637a337361ca88": {
-      "seenAt": "2026-11-13T13:01:23.002Z",
-      "title": "나경원 “이재명 대통령 양심 있다면 거부권 행사하라” - 뉴스클레임",
-      "targetName": "이재명"
-    },
-    "69fef9dd2846eeb4493a73869730fd1a50f0e68277ed638835c51930f099b751": {
-      "seenAt": "2026-11-13T13:01:23.710Z",
-      "title": "김민석 \"대화하자\"에 정청래 \"2차가해\"…與, 신천지 갈등 출구 찾기 진통 - 뉴시스",
-      "targetName": "김민석"
-    },
-    "84a8296919b13742feb9f3c7d02a8b6f59859e7046a647383d6fa81176c7bbcc": {
-      "seenAt": "2026-11-13T13:11:16.947Z",
-      "title": "\"최민희 윤리감찰\" 김민석 지시에‥친청계 '보이콧' 맞불 - MBC 뉴스",
-      "targetName": "김민석"
-    },
     "7702d3b02fdd925c78ed45b93eb300be899dc6a359f03d3b11bfe0be142ec015": {
       "seenAt": "2026-11-13T13:11:17.667Z",
       "title": "“윤리감찰 대상은 김민석” vs “최민희 제명”…민주당 계파갈등 ‘전면전’ - 경향신문",
@@ -2530,57 +2500,24 @@
       "seenAt": "2026-11-17T09:31:19.835Z",
       "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달자 나서지 말라\" - 연합뉴스",
       "targetName": "송영길"
+    },
+    "dd4e9e098736ffc1191ad5a57be60e9e097c64416438a729567217ddf34855c3": {
+      "seenAt": "2026-11-17T09:41:20.885Z",
+      "title": "송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\" - 대전일보",
+      "targetName": "송영길"
+    },
+    "f8f53331e738caac2ed055fbacab5b7c3a6bc002f0710f2fabaa653def778e59": {
+      "seenAt": "2026-11-17T09:41:21.622Z",
+      "title": "정청래, ‘대타협 제안’ 송영길에 “자격 미달자는 나서지 마라” - 천지일보",
+      "targetName": "송영길"
+    },
+    "f64041239c7ed4a9e4bf6e8150e11478ef0aa788f67b1243fe95db4b7aaba9e3": {
+      "seenAt": "2026-11-17T09:41:22.347Z",
+      "title": "정청래, 송영길에 \"자격미달자\" 공개 비판 … 민주당 '명청대전' 석 달째 격화 - 뉴데일리",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "dd4e9e098736ffc1191ad5a57be60e9e097c64416438a729567217ddf34855c3",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\" - 대전일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1rZFRuWUVsTFpvaVpZV1ZtTjVyeFB6TlFST0RIQmo0eGFDc0tCdlVrN2RBenRzYkRZSTlmLXlCVlR5NWYzYTgzbjMwZ2NYTHZfM0RYMm1PMWt6NlFMZVV4T2xlM2Zhc1NMSTJtRlN1MA?oc=5\" target=\"_blank\">송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rZFRuWUVsTFpvaVpZV1ZtTjVyeFB6TlFST0RIQmo0eGFDc0tCdlVrN2RBenRzYkRZSTlmLXlCVlR5NWYzYTgzbjMwZ2NYTHZfM0RYMm1PMWt6NlFMZVV4T2xlM2Zhc1NMSTJtRlN1MA?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:34:00 GMT",
-        "source": "대전일보",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f8f53331e738caac2ed055fbacab5b7c3a6bc002f0710f2fabaa653def778e59",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, ‘대타협 제안’ 송영길에 “자격 미달자는 나서지 마라” - 천지일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB4RGItNmtPMUZWMmZlUU1jdmFrb3pNQmU5dXQwZ29FVHZpbGNmY3NFUVZSMHB0ZVFibEJrSmd0c2NBZzl0aTlUUUF0Vkczd29jdkNHVDdLQnhLOWNTTjc5T2NvcTNjZi1fa2c?oc=5\" target=\"_blank\">정청래, ‘대타협 제안’ 송영길에 “자격 미달자는 나서지 마라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4RGItNmtPMUZWMmZlUU1jdmFrb3pNQmU5dXQwZ29FVHZpbGNmY3NFUVZSMHB0ZVFibEJrSmd0c2NBZzl0aTlUUUF0Vkczd29jdkNHVDdLQnhLOWNTTjc5T2NvcTNjZi1fa2c?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:58:26 GMT",
-        "source": "천지일보",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f64041239c7ed4a9e4bf6e8150e11478ef0aa788f67b1243fe95db4b7aaba9e3",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 송영길에 \"자격미달자\" 공개 비판 … 민주당 '명청대전' 석 달째 격화 - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB6cGtBS2p0aW40bzZUdlM4bFFObW1TMW5LRF9HaVpXQS15X1ltaVdmM0J3Vmd0cjdTRGxBRUtxR1BQMWdUeXBlaml0OUcwMC10RU95SG1fZUgzWVNXd1doLUpHVlNmUG0tcGZFTHFPN0tXdnBUMFZENUNpVdIBgAFBVV95cUxQclAtMXVIMHJSLXhiblNQQ1FvSE5IbElFRlNSQUNLdVMzNjhRRUZSUlI4Q3gwU3EzN1prVFR6RVBKSWdrb2FUM3hSTVFCU24tRTkybVEwRGQ4ZHZVU3NpVVJJV3FxLXZmdWZJakJHSlFUeUUyY0gza2FDWDd1dWVEUg?oc=5\" target=\"_blank\">정청래, 송영길에 \"자격미달자\" 공개 비판 … 민주당 '명청대전' 석 달째 격화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6cGtBS2p0aW40bzZUdlM4bFFObW1TMW5LRF9HaVpXQS15X1ltaVdmM0J3Vmd0cjdTRGxBRUtxR1BQMWdUeXBlaml0OUcwMC10RU95SG1fZUgzWVNXd1doLUpHVlNmUG0tcGZFTHFPN0tXdnBUMFZENUNpVdIBgAFBVV95cUxQclAtMXVIMHJSLXhiblNQQ1FvSE5IbElFRlNSQUNLdVMzNjhRRUZSUlI4Q3gwU3EzN1prVFR6RVBKSWdrb2FUM3hSTVFCU24tRTkybVEwRGQ4ZHZVU3NpVVJJV3FxLXZmdWZJakJHSlFUeUUyY0gza2FDWDd1dWVEUg?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:34:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 1.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "b64c224b11bc20cd6cdc80feff10ba265513126c587b4f9caf05fc8f7afcb13d",
@@ -3457,6 +3394,54 @@
         "pubDate": "Tue, 17 Nov 2026 07:57:26 GMT",
         "source": "미디어오늘",
         "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2834a1ca1ef0194c870123afb13ccf56098f58024e06d581592ac7151987887c",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "장동혁, 한동훈 장인상 조문…윤리위 개입 논란에 빛바랜 장외투쟁 - 경향신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UaDVTWXZzdlpzbFI5c0JXRkZqa2sxUDY5Ni1kV1ppVUN5dmJJTnloME5fQTlRT0Y1Y1YyQ2JBNDhSZU1TZDQxMDN3VGM5NUtQMGttV2E3WGdlOV81Slp30gFfQVVfeXFMT1RoNVNZdnN2WnNsUjlzQldGRmprazFQNjk2LWRXWmlVQ3l2YklOeWgwTl9BOVFPRjVjVjJDYkE0OFJlTVNkNDEwM3dUYzk1S1Awa21XYTdYZ2U5XzVKWnc?oc=5\" target=\"_blank\">장동혁, 한동훈 장인상 조문…윤리위 개입 논란에 빛바랜 장외투쟁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UaDVTWXZzdlpzbFI5c0JXRkZqa2sxUDY5Ni1kV1ppVUN5dmJJTnloME5fQTlRT0Y1Y1YyQ2JBNDhSZU1TZDQxMDN3VGM5NUtQMGttV2E3WGdlOV81Slp30gFfQVVfeXFMT1RoNVNZdnN2WnNsUjlzQldGRmprazFQNjk2LWRXWmlVQ3l2YklOeWgwTl9BOVFPRjVjVjJDYkE0OFJlTVNkNDEwM3dUYzk1S1Awa21XYTdYZ2U5XzVKWnc?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:19:00 GMT",
+        "source": "경향신문",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "e77f8f47a5c57f61f0fb876fae186798ce92d66bfe5683aef52f0512df710af7",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\" - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rU9IBeEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rUw?oc=5\" target=\"_blank\">조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rU9IBeEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rUw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:30:00 GMT",
+        "source": "뉴시스",
+        "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "0eff38fb1ef7d966d1b3a62fcbe1edc75abd9c9c8cd075d201976a0c05138a1c",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국, 일본 공항서 입국 거부…“독도 방문 이유라면 부당한 도전” - 미디어오늘",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1mTm8xN29UMGtnRmVodnN0Q211YWt1cFVzOVdmTjZSdWxxbElKNUVVbms0UFVnMHg0eUdWMEt2THJ6UDVJb2RpenBIOHB5Z1YwRTNXeEhFaEZUSUZHU0NxMUNFMUtMOWRST2k5eWlsRkU?oc=5\" target=\"_blank\">조국, 일본 공항서 입국 거부…“독도 방문 이유라면 부당한 도전”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미디어오늘</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mTm8xN29UMGtnRmVodnN0Q211YWt1cFVzOVdmTjZSdWxxbElKNUVVbms0UFVnMHg0eUdWMEt2THJ6UDVJb2RpenBIOHB5Z1YwRTNXeEhFaEZUSUZHU0NxMUNFMUtMOWRST2k5eWlsRkU?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 07:57:26 GMT",
+        "source": "미디어오늘",
+        "ageHours": 1.7
       },
       "delivered": [],
       "archived": false
