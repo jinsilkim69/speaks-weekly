@@ -198,5 +198,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "28482003d7732baf5b96924a76872bc660e498890ee9c0fa3fd3f3e061bbcf83",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Media investors learn the Truth about betting on bitcoin - Financial Times",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNeC1kOVhVUG1QN2VIcUxHd1E2bEttV203WmY0U1hXODZrdHFFRnlXWmtka1dLajFpbHUwTzl2SnZpQXlIbjlQcjRaaEZYcE02V0RxWkhtN01ZSTVDNnVRUkoyUGFRM25aLXFRT2daNkZGWm1SZDRvaEE2OER0aUlkdXZZbHA?oc=5\" target=\"_blank\">Trump Media investors learn the Truth about betting on bitcoin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Financial Times</font>",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeC1kOVhVUG1QN2VIcUxHd1E2bEttV203WmY0U1hXODZrdHFFRnlXWmtka1dLajFpbHUwTzl2SnZpQXlIbjlQcjRaaEZYcE02V0RxWkhtN01ZSTVDNnVRUkoyUGFRM25aLXFRT2daNkZGWm1SZDRvaEE2OER0aUlkdXZZbHA?oc=5",
+    "pubDate": "Tue, 17 Nov 2026 17:30:01 GMT",
+    "source": "Financial Times",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Media investors learn the Truth about betting on bitcoin",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

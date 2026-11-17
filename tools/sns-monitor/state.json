@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-17T17:21:19.946Z",
+  "lastCheckedAt": "2026-11-17T17:41:21.908Z",
   "seenPostIds": {
     "c390ac7b036e1a804bdda9abdd298b6d5beb7e3037e4eb435360766c101003c9": {
       "seenAt": "2026-11-14T05:31:19.240Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-17T17:11:21.740Z",
       "title": "추미애, 김민석에 \"신천지 허위 주장 사과로 끝낼 일 아냐\"…최민희 감찰 속 직접 등판 - 매일신문",
       "targetName": "김민석"
+    },
+    "28482003d7732baf5b96924a76872bc660e498890ee9c0fa3fd3f3e061bbcf83": {
+      "seenAt": "2026-11-17T17:41:23.321Z",
+      "title": "Trump Media investors learn the Truth about betting on bitcoin - Financial Times",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
