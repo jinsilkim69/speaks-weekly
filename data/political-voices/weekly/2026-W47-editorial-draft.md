@@ -1613,3 +1613,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 인터뷰 전문: 성치훈 “정청래, 최민희 옹호하면 같이 죽어…김민석 만날 때 됐다” [정치시그널] - 채널A
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 인터뷰 전문: 성치훈 “정청래, 최민희 옹호하면 같이 죽어…김민석 만날 때 됐다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE11ZGhWZkJObV9wNGdzYjBRVjBPbTl0Rld3NExfd0RlTExVUzFEN2tDZTN5MGJveUprdURoMHpka2JSOGxJOUVqR3BYNk1ZY0h6VVlDMW9ObjUzNnhUUGfSAWNBVV95cUxOWk1SOUpVeGpJcjhXUHlIcWROZEpEWUdlV2djeTcyS0ZTUVJORWFQNFpMakc3YlVQWk56UVJRYlBRUWVrZHpYY3ZHbmFlRXRyOFRQTWdub18wZXZpYlFKUjhEQ00?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 與송영길 "김민석·정청래 만나 대타협해야…포용해서 함께 가야" - 조선일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與송영길 "김민석·정청래 만나 대타협해야…포용해서 함께 가야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbm84RnFDZ1lDaEpRNFM5Mm5yelZET2tZWkNQUml4NTFSSWdCWW00LVQ0RWR1SmpGQ1B3bldsaWN1RWVqMVlGNWZ5a3hUN3pydXZybmpYLTdNc0xEdWgzZU9pa1VIVkdCaHItY3QybXZSZlZ1RkNranZjR25veGZiUkRzTXFEQQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 조계원 "경고 받은 최민희, 엄중징계 불가피...정청래? 침묵 말고 입장 내야" - YTN
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조계원 "경고 받은 최민희, 엄중징계 불가피...정청래? 침묵 말고 입장 내야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DcFhVaVhuVWNHd3JZUkxKdW9MMnBEbzZQS3BPVjJHSGItSUIxS05yWkp2S1VYU2tGNmFRamZ4UThQNmJQSnFDRU9jZVIwY2R1ZUdVc0lISHJKWGFvOUE?oc=5)
+
+---
+
