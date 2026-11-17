@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-17T18:11:20.763Z",
+  "lastCheckedAt": "2026-11-17T18:41:18.932Z",
   "seenPostIds": {
     "75625539226051af353a84cd351134b35913f2287b2a86fea1e98380cbeeacc5": {
       "seenAt": "2026-11-14T05:41:18.542Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-17T17:51:21.277Z",
       "title": "[단독] '법령 준수' 약속 두 달 만에…한동훈 '수능 응원' 현수막 또 논란 - https://www.ppss.kr/",
       "targetName": "한동훈"
+    },
+    "7bd354b0c53d4257c0940219e538d5ebf7c7c7e514deb1d03f4b0f5aa0659c00": {
+      "seenAt": "2026-11-17T18:41:19.958Z",
+      "title": "Fact-check: Did Trump warn of '90-day' nationwide blackout? Social media videos manipulated - WRAL",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
