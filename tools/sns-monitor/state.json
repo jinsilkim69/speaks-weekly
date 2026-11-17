@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-17T16:41:22.383Z",
+  "lastCheckedAt": "2026-11-17T16:51:18.506Z",
   "seenPostIds": {
     "afa7e1d35cf47876bd46e0adc4cf99b29a024637f63a00823967bdbb83cbdd54": {
       "seenAt": "2026-11-14T05:21:19.450Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-17T16:11:29.529Z",
       "title": "이재명 대통령 \"시험 후에도 끝까지 찾아낼 것\"…수능 부정행위 경고 - 경기신문",
       "targetName": "이재명"
+    },
+    "da082b5017e81f25bffb89ff5281dce4d04c2ef6ee4a9bdab575f9f27f30c7b6": {
+      "seenAt": "2026-11-17T16:51:19.740Z",
+      "title": "Trump Media Climbs 3% After Buying Back $100 Million in Convertible Notes; Rumble Slides 3%, Meta Dips - 24/7 Wall St.",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
