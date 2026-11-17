@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T09:51:20.634Z",
+  "lastCheckedAt": "2026-11-17T10:11:23.812Z",
   "seenPostIds": {
-    "5d53f2b51a5002b25583483c2086c6616e9d09ea8594b0239c4e5dc83e73c314": {
-      "seenAt": "2026-11-13T13:31:19.429Z",
-      "title": "이재명 대통령, 자본시장 정책 간담회 후 시민 소통 - 시사일보",
-      "targetName": "이재명"
-    },
-    "ed84709f84a2a2a0a5e76fd205c67c29335cf8a51609c9c834e642f4c510acc2": {
-      "seenAt": "2026-11-13T13:31:20.067Z",
-      "title": "친청계 최고위원 3인 \"지금 윤리감찰을 해야할 사람은 김민석\" - 굿모닝충청",
-      "targetName": "김민석"
-    },
-    "9154f5f9cc37c87d9d4d8775faeb1a6e5943e8f1ee38ef310f880672349d7352": {
-      "seenAt": "2026-11-13T13:31:20.839Z",
-      "title": "[장문기의 여의주(住)] AI에 이어 비만치료제…이준석의 무기는 집요함 - 아주경제",
-      "targetName": "이준석"
-    },
-    "4cd1bf9c034612345018a55e74d7f65dc4494a019ceb454b0a2649b6faaddc01": {
-      "seenAt": "2026-11-13T14:01:26.991Z",
-      "title": "\"최민희 윤리감찰\" 김민석 지시에‥친청계 '보이콧' 맞불 - MBC 뉴스",
-      "targetName": "김민석"
-    },
-    "fa4547f1cec60218fdf3dc345122a0498033511f6d810ae3d69b20377f121b43": {
-      "seenAt": "2026-11-13T14:01:27.824Z",
-      "title": "조국 “정청래와 당권·대권 밀약론으로 저와 혁신당 공격···민주당 사과해야” - 주간경향",
-      "targetName": "정청래"
-    },
-    "8ea54ad50c04f4bfbd7484e2d37eba35d6b44664ca0785c1f938a8a5c5b4f64f": {
-      "seenAt": "2026-11-13T14:01:28.650Z",
-      "title": "조국 “정청래와 당권·대권 밀약론으로 저와 혁신당 공격···민주당 사과해야” - 주간경향",
-      "targetName": "조국"
-    },
     "bc54c92e739756bc50d7fffadba6104eafb77f1fd0977896766d4a3afef7db6f": {
       "seenAt": "2026-11-13T14:21:19.387Z",
       "title": "한동훈 \"최민희 말이 맞아…李대통령, 재판만 열리면 끝나는 시한부\" - 매일신문",
@@ -2530,57 +2500,24 @@
       "seenAt": "2026-11-17T10:01:24.283Z",
       "title": "이준석 \"교육부 답변 한숨…비행기서 코딩, AI 커닝 방지 앱 배포\" - JTBC",
       "targetName": "이준석"
+    },
+    "7ffe4db4fed296e3d32ce74ba837f56b8e61d24cd00522d9c749c6114e4b7fb1": {
+      "seenAt": "2026-11-17T10:11:25.241Z",
+      "title": "'한라산 꼭대기'서도 코딩하던 이준석, 'AI 컨닝 전파' 탐지 앱 개발 - 머니투데이 - 머니투데이",
+      "targetName": "이준석"
+    },
+    "ada7de5246c254b4ba31437d578e541a538467f81d9c88dfe732d6b6beb4e8f3": {
+      "seenAt": "2026-11-17T10:11:26.240Z",
+      "title": "이준석, 기내에서 대입 수능 AI 부정 전파탐지 앱 개발!..소스 공개 - 최보식의언론",
+      "targetName": "이준석"
+    },
+    "21f9b32b3e457215f913928904bd44ea9a539438fee23905f47c97fa57d00fd5": {
+      "seenAt": "2026-11-17T10:11:26.958Z",
+      "title": "‘하버드 출신’ 이준석도 나섰다…직접 만든 ‘AI 커닝 탐지 앱’ 깜짝 - 중앙일보",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "7ffe4db4fed296e3d32ce74ba837f56b8e61d24cd00522d9c749c6114e4b7fb1",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "'한라산 꼭대기'서도 코딩하던 이준석, 'AI 컨닝 전파' 탐지 앱 개발 - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8yYzBWbHVqc01JeFhVa1BNQnNtMTZFTmlEODFENnlNM3Y1a0tLZXViRzU0S1NjbEJEYTQtZDVSU3p0YWVnWXR2Um1Qend4X3FOS1Bzd3B6ZUhwVmdIdGpZOXVZLXM5bU9zUU5tcNIBckFVX3lxTE5Ua0tvYVp3Y3N4SU5kekJJbDNjZUlsTVJ5Sjg5UDZtaVlTVXpZWjRmQVlWVFBGcHF4MDdQRXVrUzJSZHo5S0o3TzJTZFRrQUlVdTRnNmswQ1lCQVVFYjNUSXFOOEo1X3FZOXMzczRZZWZwZw?oc=5\" target=\"_blank\">'한라산 꼭대기'서도 코딩하던 이준석, 'AI 컨닝 전파' 탐지 앱 개발 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yYzBWbHVqc01JeFhVa1BNQnNtMTZFTmlEODFENnlNM3Y1a0tLZXViRzU0S1NjbEJEYTQtZDVSU3p0YWVnWXR2Um1Qend4X3FOS1Bzd3B6ZUhwVmdIdGpZOXVZLXM5bU9zUU5tcNIBckFVX3lxTE5Ua0tvYVp3Y3N4SU5kekJJbDNjZUlsTVJ5Sjg5UDZtaVlTVXpZWjRmQVlWVFBGcHF4MDdQRXVrUzJSZHo5S0o3TzJTZFRrQUlVdTRnNmswQ1lCQVVFYjNUSXFOOEo1X3FZOXMzczRZZWZwZw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 05:42:15 GMT",
-        "source": "머니투데이",
-        "ageHours": 2.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ada7de5246c254b4ba31437d578e541a538467f81d9c88dfe732d6b6beb4e8f3",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석, 기내에서 대입 수능 AI 부정 전파탐지 앱 개발!..소스 공개 - 최보식의언론",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE93NjV0bDA5QnUtQXUyYkNSRXFpaDZ6YTNYQTFhektwUjNaUWtDVXF4WDg3cEhBUFZjWG5XN0x2VmFMRG9XWWFfX1lZdlh5UERJQXVzSlZqdWdPd09YMzNONWN0YjNRMU9i0gFoQVVfeXFMT3c2NXRsMDlCdS1BdTJiQ1JFcWloNnphM1hBMWF6S3BSM1pRa0NVcXhYODdwSEFQVmNYblc3THZWYUxEb1dZYV9fWVl2WHlQRElBdXNKVmp1Z093T1gzM041Y3RiM1ExT2I?oc=5\" target=\"_blank\">이준석, 기내에서 대입 수능 AI 부정 전파탐지 앱 개발!..소스 공개</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">최보식의언론</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93NjV0bDA5QnUtQXUyYkNSRXFpaDZ6YTNYQTFhektwUjNaUWtDVXF4WDg3cEhBUFZjWG5XN0x2VmFMRG9XWWFfX1lZdlh5UERJQXVzSlZqdWdPd09YMzNONWN0YjNRMU9i0gFoQVVfeXFMT3c2NXRsMDlCdS1BdTJiQ1JFcWloNnphM1hBMWF6S3BSM1pRa0NVcXhYODdwSEFQVmNYblc3THZWYUxEb1dZYV9fWVl2WHlQRElBdXNKVmp1Z093T1gzM041Y3RiM1ExT2I?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:36:28 GMT",
-        "source": "최보식의언론",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "21f9b32b3e457215f913928904bd44ea9a539438fee23905f47c97fa57d00fd5",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "‘하버드 출신’ 이준석도 나섰다…직접 만든 ‘AI 커닝 탐지 앱’ 깜짝 - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uOG12ZFV5MUIwUDMxWlM2MGNUaUJ3R2lad3lFaDFsNG9DdE1LZ1hxekdPNjNpSTBwVGlkbnVpem1jaUx1OVctUlJxcEdDOWV4Qk5qRWdR?oc=5\" target=\"_blank\">‘하버드 출신’ 이준석도 나섰다…직접 만든 ‘AI 커닝 탐지 앱’ 깜짝</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uOG12ZFV5MUIwUDMxWlM2MGNUaUJ3R2lad3lFaDFsNG9DdE1LZ1hxekdPNjNpSTBwVGlkbnVpem1jaUx1OVctUlJxcEdDOWV4Qk5qRWdR?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 03:32:12 GMT",
-        "source": "중앙일보",
-        "ageHours": 4.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "1b7d2867e935b127c7f1b0c118d73fdad59c4cee9aea2bea6fbdf5b8060a53c9",
@@ -3377,6 +3314,70 @@
         "pubDate": "Tue, 17 Nov 2026 08:13:27 GMT",
         "source": "서울신문",
         "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "af98e9158b2986f86c7fa9419a5e34283653eb1af20a0b7afb1db65d3a7596f4",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 대통령, 필리핀서 한일 정상회담…아세안+3 정상회의 등도 참석 - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdG5IM2c4d2V1clpCdmpfelpOT3dmbkpId0FRX3h5QXhzZ3VtSHJWWDJSREdXQzVfV2UzQk5yWXdyLXhRb0hzZF9adDZ4NlpfZF9vOTZGaGpQcVo1ZFY4c0xjdHU0eHBfNDBudUF3NlZ4Sk92dk9LQw?oc=5\" target=\"_blank\">이재명 대통령, 필리핀서 한일 정상회담…아세안+3 정상회의 등도 참석</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdG5IM2c4d2V1clpCdmpfelpOT3dmbkpId0FRX3h5QXhzZ3VtSHJWWDJSREdXQzVfV2UzQk5yWXdyLXhRb0hzZF9adDZ4NlpfZF9vOTZGaGpQcVo1ZFY4c0xjdHU0eHBfNDBudUF3NlZ4Sk92dk9LQw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 09:55:29 GMT",
+        "source": "연합뉴스",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f515802c114857e8980aad5ae58e31b89867dba3c2eb3cf1d69be805bbac80e6",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "[17일 오!정말] 국힘 윤상현, 한동훈 복당 두고 \"당대표 되면 숙청당할 거라 생각\" - 비즈니스포스트",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9WeTNRczdVYklzcGhkTTAxQTl4b0xWUVFMTGY3MUpkM2d1T2U3bmlrOWJGZ1dNUlF1dVNRUHNDZXJsMXRXbzA4TGRUNkZaaW1NQXVrSWgyeGpQVEdZc3lzdjNUS25nczY0a3FJR29iZXdlVG8?oc=5\" target=\"_blank\">[17일 오!정말] 국힘 윤상현, 한동훈 복당 두고 \"당대표 되면 숙청당할 거라 생각\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">비즈니스포스트</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WeTNRczdVYklzcGhkTTAxQTl4b0xWUVFMTGY3MUpkM2d1T2U3bmlrOWJGZ1dNUlF1dVNRUHNDZXJsMXRXbzA4TGRUNkZaaW1NQXVrSWgyeGpQVEdZc3lzdjNUS25nczY0a3FJR29iZXdlVG8?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 09:19:55 GMT",
+        "source": "비즈니스포스트",
+        "ageHours": 0.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "a4b18e624b6471b6f6f6aafaa15d85488349d75253865dfe65a76ced74206ea1",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "친명계 \"최민희 엄중 징계\" vs 친청계 \"김민석 징계도 공정하게\" - 프레시안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE56ZlF2RF9pNlVWNUU2YlJUcWVRYkhqN2UteTdLLW1nMnhWWGFWZkRnQ3FSekZraFhOb2p4NlZNcHVJdHFKUXV5WFdzREIwaHdHNDBtMDB6THNYMUpzWUJmZ0lnSmtxdFFIYU5v?oc=5\" target=\"_blank\">친명계 \"최민희 엄중 징계\" vs 친청계 \"김민석 징계도 공정하게\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56ZlF2RF9pNlVWNUU2YlJUcWVRYkhqN2UteTdLLW1nMnhWWGFWZkRnQ3FSekZraFhOb2p4NlZNcHVJdHFKUXV5WFdzREIwaHdHNDBtMDB6THNYMUpzWUJmZ0lnSmtxdFFIYU5v?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 09:40:52 GMT",
+        "source": "프레시안",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "8b35f2c1e83ab288ab78104a8ad4f9fe62839c397d4a4f7025f6cf43cd57eccc",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "[단독] 日당국자 “조국 입국 거부, 전과자 비자 절차 안밟은 듯” - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OTWJld3ZxVlA4Ynl2azhZNnFhYi1vU0EweXRfcG9CMWtfT2VqRGlaT0lVZTEwSmJIN2xTOGxEUU8zWnhKZ0NQcXBTVkNCVnRmSGFIUWpn?oc=5\" target=\"_blank\">[단독] 日당국자 “조국 입국 거부, 전과자 비자 절차 안밟은 듯”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OTWJld3ZxVlA4Ynl2azhZNnFhYi1vU0EweXRfcG9CMWtfT2VqRGlaT0lVZTEwSmJIN2xTOGxEUU8zWnhKZ0NQcXBTVkNCVnRmSGFIUWpn?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:50:35 GMT",
+        "source": "중앙일보",
+        "ageHours": 1.3
       },
       "delivered": [],
       "archived": false

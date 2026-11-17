@@ -2328,3 +2328,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** '한라산 꼭대기'서도 코딩하던 이준석, 'AI 컨닝 전파' 탐지 앱 개발 - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '한라산 꼭대기'서도 코딩하던 이준석, 'AI 컨닝 전파' 탐지 앱 개발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE8yYzBWbHVqc01JeFhVa1BNQnNtMTZFTmlEODFENnlNM3Y1a0tLZXViRzU0S1NjbEJEYTQtZDVSU3p0YWVnWXR2Um1Qend4X3FOS1Bzd3B6ZUhwVmdIdGpZOXVZLXM5bU9zUU5tcNIBckFVX3lxTE5Ua0tvYVp3Y3N4SU5kekJJbDNjZUlsTVJ5Sjg5UDZtaVlTVXpZWjRmQVlWVFBGcHF4MDdQRXVrUzJSZHo5S0o3TzJTZFRrQUlVdTRnNmswQ1lCQVVFYjNUSXFOOEo1X3FZOXMzczRZZWZwZw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 기내에서 대입 수능 AI 부정 전파탐지 앱 개발!..소스 공개 - 최보식의언론
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 기내에서 대입 수능 AI 부정 전파탐지 앱 개발!..소스 공개
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE93NjV0bDA5QnUtQXUyYkNSRXFpaDZ6YTNYQTFhektwUjNaUWtDVXF4WDg3cEhBUFZjWG5XN0x2VmFMRG9XWWFfX1lZdlh5UERJQXVzSlZqdWdPd09YMzNONWN0YjNRMU9i0gFoQVVfeXFMT3c2NXRsMDlCdS1BdTJiQ1JFcWloNnphM1hBMWF6S3BSM1pRa0NVcXhYODdwSEFQVmNYblc3THZWYUxEb1dZYV9fWVl2WHlQRElBdXNKVmp1Z093T1gzM041Y3RiM1ExT2I?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** ‘하버드 출신’ 이준석도 나섰다…직접 만든 ‘AI 커닝 탐지 앱’ 깜짝 - 중앙일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘하버드 출신’ 이준석도 나섰다…직접 만든 ‘AI 커닝 탐지 앱’ 깜짝
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uOG12ZFV5MUIwUDMxWlM2MGNUaUJ3R2lad3lFaDFsNG9DdE1LZ1hxekdPNjNpSTBwVGlkbnVpem1jaUx1OVctUlJxcEdDOWV4Qk5qRWdR?oc=5)
+
+---
+
