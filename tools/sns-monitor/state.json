@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T15:51:19.518Z",
+  "lastCheckedAt": "2026-11-17T16:11:28.049Z",
   "seenPostIds": {
-    "776f7a78f1aa8214e6364aad930e98873654d99fa363e2d8bc6af15b649fc132": {
-      "seenAt": "2026-11-14T05:11:17.248Z",
-      "title": "“노무현 대통령 추천으로 하버드?”…이준석, 전한길 추가 고소 예고 - 채널A",
-      "targetName": "이준석"
-    },
-    "2f2d0bd291d9aaacf38e8f36a99f7dce5f2fb4d360c8677d58a8b30165dcc888": {
-      "seenAt": "2026-11-14T05:11:17.888Z",
-      "title": "[속보] “노무현 추천으로 하버드 입학했다고?”…이준석, ‘학력 의혹’ 전한길 16일 추가 고소 예고 - 세계일보",
-      "targetName": "이준석"
-    },
-    "77410331cb94aa64dcbb69162b8a5e633821c8a868bf236502d89937d07a1246": {
-      "seenAt": "2026-11-14T05:21:17.967Z",
-      "title": "Trump claims he offered job of White House press secretary to UFC CEO Dana White - Scripps News",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "301a44ce98073361cdb88960ff0fa739963280d32cd47bf7428d0f9d3c6c8eae": {
       "seenAt": "2026-11-14T05:21:18.750Z",
       "title": "“노무현 추천으로 하버드 입학?”···이준석 전한길 추가 고소 예고 - 주간경향",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-17T15:51:22.391Z",
       "title": "송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라” - 시사저널",
       "targetName": "송영길"
+    },
+    "dd7310caee8fdc64233ae576b59c4c725bd83486dae0d93e9b432fd565c10f9a": {
+      "seenAt": "2026-11-17T16:11:29.529Z",
+      "title": "이재명 대통령 \"시험 후에도 끝까지 찾아낼 것\"…수능 부정행위 경고 - 경기신문",
+      "targetName": "이재명"
     }
   },
   "pending": []

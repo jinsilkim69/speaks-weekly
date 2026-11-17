@@ -3290,3 +3290,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "시험 후에도 끝까지 찾아낼 것"…수능 부정행위 경고 - 경기신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "시험 후에도 끝까지 찾아낼 것"…수능 부정행위 경고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jT2lJMEw4ckdmRmtZbzA3UFYyNkltT2ppWXFFQVZZN3JGVnBtM00wb1lNWnU2R3JxY0V5dG5VaWNWMHg1T1k0QTF6TXVCQWhTdUEzSjFZTHRlcjlLNEM0dFFR?oc=5)
+
+---
+
