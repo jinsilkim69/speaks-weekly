@@ -2640,3 +2640,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈 - 한국경제
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOHJWNW5LUEdlRzZlbUV0ZUFLNmlkdS15aTFxOUljTlptN21kRmVNSmMzN3Q2T0VlbDB2SjJ5M1gwSUpkS25UVkNqM29kYi1XT3Vrb01CQ1VlQQ?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라” - 시사저널
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE5hZzRoR3VzR0lla05jakdFV1lGOWU4bkZXZ2pWQWdSOWFhcW85N213aDRiWFVjM1hycnBBcFBvaHBDcWFqSERuS2pQa2VwNWwtQVllQklTbFFPaWpzQlhaYUNMM2NXY2QtbnJSR1l5a01nd2_SAXNBVV95cUxOYWc0aEd1c0dJZWtOY2pHRVdZRjllOG5GV2dqVkFnUjlhYXFvOTdtd2g0YlhVYzNYcnJwQXBQb2hwQ3FhakhEbktqUGtlcDVsLUFZZUJJU2xRT2lqc0JYWmFDTDNjV2NkLW5yUkdZeWtNZ3dv?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 죽창가 SNS 올리던 조국, 日 하네다공항서 입국 거부당했다 - 뉴데일리
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 죽창가 SNS 올리던 조국, 日 하네다공항서 입국 거부당했다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbU1wVDNUaFJfTjA3WmEyRkVxbGQ3ckdHTzlQc3BYV0Z5YVZzRHZaaXhMdHRhMkRvZXlPUUVxZVlXUDhZVG16QUVkMVNQdW45RDY4bUh2QWE3c3pkR1ZDUVJqeUpvSkswNi1QRnZUMFV0anZ2Vy1reW5wUdIBgAFBVV95cUxPb0JzVWxjM2kybmpPZzQ3U0JwcFNkVGZPdnpib2FWcFNXQWFpLWRVSkdhY0hPbWVEOTkySl9kN3RiT1RmYjNkY1p3aHFmU01oTUdkcFV3TnFObnVzNk5mQnVTeW1tTHRPejB6WmxmX0pRa2YtZmRIZXpkTXN0TEJFbg?oc=5)
+
+---
+

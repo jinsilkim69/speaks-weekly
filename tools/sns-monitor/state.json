@@ -2515,57 +2515,24 @@
       "seenAt": "2026-11-17T11:21:25.644Z",
       "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달자 나서지 말라\" - 연합뉴스",
       "targetName": "정청래"
+    },
+    "016ea8e88cee193f1d905e2394a3420f3b0ec0273c3016d9ef2a100205a6f0d0": {
+      "seenAt": "2026-11-17T11:31:17.970Z",
+      "title": "의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈 - 한국경제",
+      "targetName": "송영길"
+    },
+    "d0019afba3373d73f054b638143e794a5363a189517bd1235e31a7d4186fe4f9": {
+      "seenAt": "2026-11-17T11:31:18.563Z",
+      "title": "송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라” - 시사저널",
+      "targetName": "송영길"
+    },
+    "9bf04b41bcf70d30a381e03c63ca1263a72c0cef9e9527e3b2062d0baca02a66": {
+      "seenAt": "2026-11-17T11:31:19.196Z",
+      "title": "죽창가 SNS 올리던 조국, 日 하네다공항서 입국 거부당했다 - 뉴데일리",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "016ea8e88cee193f1d905e2394a3420f3b0ec0273c3016d9ef2a100205a6f0d0",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈 - 한국경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOHJWNW5LUEdlRzZlbUV0ZUFLNmlkdS15aTFxOUljTlptN21kRmVNSmMzN3Q2T0VlbDB2SjJ5M1gwSUpkS25UVkNqM29kYi1XT3Vrb01CQ1VlQQ?oc=5\" target=\"_blank\">의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOHJWNW5LUEdlRzZlbUV0ZUFLNmlkdS15aTFxOUljTlptN21kRmVNSmMzN3Q2T0VlbDB2SjJ5M1gwSUpkS25UVkNqM29kYi1XT3Vrb01CQ1VlQQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:25:36 GMT",
-        "source": "한국경제",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d0019afba3373d73f054b638143e794a5363a189517bd1235e31a7d4186fe4f9",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라” - 시사저널",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5hZzRoR3VzR0lla05jakdFV1lGOWU4bkZXZ2pWQWdSOWFhcW85N213aDRiWFVjM1hycnBBcFBvaHBDcWFqSERuS2pQa2VwNWwtQVllQklTbFFPaWpzQlhaYUNMM2NXY2QtbnJSR1l5a01nd2_SAXNBVV95cUxOYWc0aEd1c0dJZWtOY2pHRVdZRjllOG5GV2dqVkFnUjlhYXFvOTdtd2g0YlhVYzNYcnJwQXBQb2hwQ3FhakhEbktqUGtlcDVsLUFZZUJJU2xRT2lqc0JYWmFDTDNjV2NkLW5yUkdZeWtNZ3dv?oc=5\" target=\"_blank\">송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hZzRoR3VzR0lla05jakdFV1lGOWU4bkZXZ2pWQWdSOWFhcW85N213aDRiWFVjM1hycnBBcFBvaHBDcWFqSERuS2pQa2VwNWwtQVllQklTbFFPaWpzQlhaYUNMM2NXY2QtbnJSR1l5a01nd2_SAXNBVV95cUxOYWc0aEd1c0dJZWtOY2pHRVdZRjllOG5GV2dqVkFnUjlhYXFvOTdtd2g0YlhVYzNYcnJwQXBQb2hwQ3FhakhEbktqUGtlcDVsLUFZZUJJU2xRT2lqc0JYWmFDTDNjV2NkLW5yUkdZeWtNZ3dv?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:13:37 GMT",
-        "source": "시사저널",
-        "ageHours": 1.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "9bf04b41bcf70d30a381e03c63ca1263a72c0cef9e9527e3b2062d0baca02a66",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "죽창가 SNS 올리던 조국, 日 하네다공항서 입국 거부당했다 - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbU1wVDNUaFJfTjA3WmEyRkVxbGQ3ckdHTzlQc3BYV0Z5YVZzRHZaaXhMdHRhMkRvZXlPUUVxZVlXUDhZVG16QUVkMVNQdW45RDY4bUh2QWE3c3pkR1ZDUVJqeUpvSkswNi1QRnZUMFV0anZ2Vy1reW5wUdIBgAFBVV95cUxPb0JzVWxjM2kybmpPZzQ3U0JwcFNkVGZPdnpib2FWcFNXQWFpLWRVSkdhY0hPbWVEOTkySl9kN3RiT1RmYjNkY1p3aHFmU01oTUdkcFV3TnFObnVzNk5mQnVTeW1tTHRPejB6WmxmX0pRa2YtZmRIZXpkTXN0TEJFbg?oc=5\" target=\"_blank\">죽창가 SNS 올리던 조국, 日 하네다공항서 입국 거부당했다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbU1wVDNUaFJfTjA3WmEyRkVxbGQ3ckdHTzlQc3BYV0Z5YVZzRHZaaXhMdHRhMkRvZXlPUUVxZVlXUDhZVG16QUVkMVNQdW45RDY4bUh2QWE3c3pkR1ZDUVJqeUpvSkswNi1QRnZUMFV0anZ2Vy1reW5wUdIBgAFBVV95cUxPb0JzVWxjM2kybmpPZzQ3U0JwcFNkVGZPdnpib2FWcFNXQWFpLWRVSkdhY0hPbWVEOTkySl9kN3RiT1RmYjNkY1p3aHFmU01oTUdkcFV3TnFObnVzNk5mQnVTeW1tTHRPejB6WmxmX0pRa2YtZmRIZXpkTXN0TEJFbg?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:32:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "63e80c54ab96204ef2d113a5efc8356b9650f735a678ac92e305abb005aa27da",
