@@ -2133,3 +2133,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석과 타협 제안한 송영길에 “자격 미달 나서지 마시라” - 채널A
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석과 타협 제안한 송영길에 “자격 미달 나서지 마시라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE50Q29Vd1VCRW41emVxekdMTWVESnRPM0g5SnNPQ2xaeVVnZ21jdHRxYWhzNmdLOGRzanVSUExzLWVzcHg2cVBQSG5KeUlVREx6UFdqTEFicVRyU2hQclHSAWNBVV95cUxOd2Q0WVdTOWxmOTFXLTN2aFZZU1VRbjNpNERBY2dYUnEwY3Vtb1U2YzRwSG9wUmZKRUE4eng3dGJrMnlJS3dkN1VnQmlZQVhQbng1a0lYYVdjS01xX3lma01yN2s?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 "김민석·정청래 만나 대타협해야"…정청래 "자격 미달자 나서지 말라"(종합) - 뉴시스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "김민석·정청래 만나 대타협해야"…정청래 "자격 미달자 나서지 말라"(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFA4MmxxWklJczRIUTh3aGd6eGJVZW9zWE1NZ0U1WmV4TDFYa0M3WWg3eExwM2xsOFpPQnNUeEhaT0l5TU5NSzdOZWVLck42d0hKRGpicmlZNTZWRXJfMkt1X3RyR0J1Vmd0VXZzRUVzNW94aHFObVU1cdIBeEFVX3lxTFA4MmxxWklJczRIUTh3aGd6eGJVZW9zWE1NZ0U1WmV4TDFYa0M3WWg3eExwM2xsOFpPQnNUeEhaT0l5TU5NSzdOZWVLck42d0hKRGpicmlZNTZWRXJfMkt1X3RyR0J1Vmd0VXZzRUVzNW94aHFObVU1cQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라” - 시사저널
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBGMFMzalh3cFFZU19uZGM2R01CYm5zV0RrMUlMSzIxc3AxeWhQUVFtd0YzUWlBMVplTmxlSWlkWGVSRUV1TkY4V2l2WGYxR2puNTgwNWd0YWZ0WHAzY3RfcG1CS0gtaEZERXEzalFZZ9IBc0FVX3lxTE5hZzRoR3VzR0lla05jakdFV1lGOWU4bkZXZ2pWQWdSOWFhcW85N213aDRiWFVjM1hycnBBcFBvaHBDcWFqSERuS2pQa2VwNWwtQVllQklTbFFPaWpzQlhaYUNMM2NXY2QtbnJSR1l5a01nd28?oc=5)
+
+---
+
