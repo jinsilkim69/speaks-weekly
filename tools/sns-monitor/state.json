@@ -2650,24 +2650,12 @@
       "seenAt": "2026-11-17T05:01:22.495Z",
       "title": "Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit - Time Magazine",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "5e1b2d8810123a79626219b2e7db498bf0576155042ca6c7f27e0041d79a017d": {
+      "seenAt": "2026-11-17T05:11:24.201Z",
+      "title": "Don't panic over fake Trump post warning of disruptions to food supply, banking services - Snopes",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "5e1b2d8810123a79626219b2e7db498bf0576155042ca6c7f27e0041d79a017d",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Don't panic over fake Trump post warning of disruptions to food supply, banking services - Snopes",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBJWThYczlGcGtqNDBva0M1SGxGNVYzbkkweHNxY0U3QXBXOHUtLXNKWGZadmdlYnZGeUROTGplaDJvUWE1blI1NGgxcU5MSExNdk94ODZoR2UyS3NKaV9nWTA1a0JXc2FheU1UNXRtbnQ?oc=5\" target=\"_blank\">Don't panic over fake Trump post warning of disruptions to food supply, banking services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Snopes</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJWThYczlGcGtqNDBva0M1SGxGNVYzbkkweHNxY0U3QXBXOHUtLXNKWGZadmdlYnZGeUROTGplaDJvUWE1blI1NGgxcU5MSExNdk94ODZoR2UyS3NKaV9nWTA1a0JXc2FheU1UNXRtbnQ?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 21:53:03 GMT",
-        "source": "Snopes",
-        "ageHours": 5.7
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
