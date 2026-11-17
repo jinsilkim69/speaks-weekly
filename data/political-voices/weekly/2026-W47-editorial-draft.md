@@ -2874,3 +2874,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁, 한동훈 빙부상 조문…7분여 머물러 - 동아일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, 한동훈 빙부상 조문…7분여 머물러
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTFB1NTg4MmlpMllMcXh6VEo0c0dLYnpKalBNRmU3NUtIbU9xczRNTnA2bmtvQUtWdXlNVVZLYkIxQ1YzbFJOeTNqaUxPYzZsdlpYal9JeF9ueU9KbzJrRGM2R0pEQTczQ2NDMHk1cmlMMFp0VDBBYWNZ0gFmQVVfeXFMTjBiZHNZalFOWERscHVRYjNNVVJVWTRqYnBVbmpCQ3QzNEphTi1lbi1xMm1ESkRqWTVZRTF0aVZZdzMyaGhkUTBFVHIwZ3F4a3Nfb0ZzT1FLTFJlYXJKYnhnUEFSSzdB?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, '김민석과 대타협' 제안한 송영길에 "자격미달자 나서지 말라" 직격 - 데일리안
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, '김민석과 대타협' 제안한 송영길에 "자격미달자 나서지 말라" 직격
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowJBVV95cUxPdXQzSzFvbzZQeUFXRURxN1A4R0xVMkhFRGkzQi1IdjNtdVdnRktGcEJ3b1QxTE9kNHRTUVFlRFpBaVl1eTVCUGN4RHRicl8zRDBUVnFRcmdMdjF0ZHpqTXlRdVhtRnhyRG1sSzZuTGFGRHlKc0pGVEJXWlpjb0x5dGc0cl9lTUR1XzdkdjhHdm51YzZnbXBwM2dhSl9jUUhmU2VSVkZoYjNOd0RobWpNcmI4YW9vRW8taUVVN2k4VGhyRUQ0aTJJSHNtNWhjRm5fN29wWUNvNHZmQUE4ZGhKckMwbkhHMHNDUm82bkk4Tl8ySm9GLUk1RGIzZE03LWxxam1Lc0MxNTRuSzk0Z2FwU2pYQXJoVWVEdUJoOGVtS2Z3OGs?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 '김민석과 대타협' 제안에… 정청래 "자격 미달자 나서지 말라" | - 대전일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 '김민석과 대타협' 제안에… 정청래 "자격 미달자 나서지 말라" |
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTFBuZFNCaDZSNXhkTV8zbkNCS2dnTkpYbTFiRG1aU0tUQnA4bHp1a1JSeHVkV1pPVm1pOWJiR1RlbnplekNSMG9hb2cxYjVWRHVtT1pPWm1zLXByeDR3RjZlV2RuWWhoeEs5QmF4U2QzaVFmQkE?oc=5)
+
+---
+
