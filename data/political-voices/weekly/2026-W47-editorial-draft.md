@@ -1574,3 +1574,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 “수능 AI 부정행위에 단호히 대응…잠재적 범죄자 취급은 경계” - 중앙일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 “수능 AI 부정행위에 단호히 대응…잠재적 범죄자 취급은 경계”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OLUNvQl9nd1ZWbFVHWDh3WkVQWnBOTHM2XzZIUXNuZnBoc1lVaC1xZEF5amdFMkdJTG5oQ1d2QmRtelFuMlNqU1dPTDMtTEUyUGF4T2Rn?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "AI 부정행위 적발 시 '응시 10년 제한'…입법안 낸다" - 매일일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "AI 부정행위 적발 시 '응시 10년 제한'…입법안 낸다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hd1pIRkxkSzRHemk5Q2RfNjU0QVhneE9HQXY0QThSUlNBbEdPTzJvcXh5SzVTeF9fcEdoSFpHZU1jaFpkOGlqOFZmZ2sxSDY5dUFscUkzMTBfVFZtSVhIUGVtalA?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 박지원 “김민석, 정청래 안 만나주면 집 앞에 서 있어야” [김은지의 뉴스IN] - 시사IN
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원 “김민석, 정청래 안 만나주면 집 앞에 서 있어야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE96aVl3eGZSS3dFVDJabHlsbkpibWhDbzRHaXprNWpyTy1PTFpJdVI5R0I1dnJJSVJmb2JKQmNjWWVGQ1JLVXlBbTBWZzZ0bUVGQlBIYXBmUVYwa2tkYVQ4R0VaeUlidl9fREE?oc=5)
+
+---
+
