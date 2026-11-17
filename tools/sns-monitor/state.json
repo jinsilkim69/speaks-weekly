@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T22:51:18.635Z",
+  "lastCheckedAt": "2026-11-17T23:11:15.898Z",
   "seenPostIds": {
-    "5f0332aee256ebd2991e1535003ff4abdf7e8c1caa8431c3a1ccc7a2a952b399": {
-      "seenAt": "2026-11-14T07:11:15.472Z",
-      "title": "한동훈·최민희, '李대통령·尹 공직선거법 재판' 놓고 SNS 설전 - 연합뉴스",
-      "targetName": "한동훈"
-    },
-    "8d7be1a493a7e5662b5c2e6527edcf55d08be9768e9310ea3d82f54aea89ca1a": {
-      "seenAt": "2026-11-14T07:11:16.131Z",
-      "title": "이준석 “노무현 추천서를 왜 받냐”…전한길 추가 고소 예고 - 문화일보",
-      "targetName": "이준석"
-    },
-    "c32e9e944871ae83f7be012a1a8d4e6027f4fa053108e7495df7c8c46ca2fd1a": {
-      "seenAt": "2026-11-14T07:21:17.309Z",
-      "title": "\"이 대통령·尹 선거법 재판, 같다? 다르다?\"... 최민희·한동훈 SNS 설전 - 한국일보",
-      "targetName": "한동훈"
-    },
     "4cb9aa9118fae1f45cce4c19744d6a540c5c119c617ab06bb627359b4a8aaf86": {
       "seenAt": "2026-11-14T07:21:17.995Z",
       "title": "[속보] 한동훈, “李대통령, 조작기소특검법 직접 할 배짱 없으면 접어야” - 경기일보",
@@ -2515,7 +2500,39 @@
       "seenAt": "2026-11-17T22:51:21.381Z",
       "title": "Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - KEYE",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "79d4d378f24799804e06c3469a9ffa3f1c826b2bd57562ef21b9ad11bbcfbc80": {
+      "seenAt": "2026-11-17T23:11:16.945Z",
+      "title": "추미애 “김민석 사과로 끝낼 일 아냐”…민주당 윤리심판원 판단 촉구 - 이투데이",
+      "targetName": "김민석"
+    },
+    "8dc537939c06e19e79d83484e5d97ea5ddec8026e15ece845593c9b78e361c1d": {
+      "seenAt": "2026-11-17T23:11:17.534Z",
+      "title": "정청래 \"'대타협 촉구' 송영길, 자격미달자 나서지 마세요\" - 이데일리",
+      "targetName": "정청래"
+    },
+    "e0a643615920cd65ce7521b0a380d510a559929861370d141566ce223a25ed91": {
+      "seenAt": "2026-11-17T23:11:18.141Z",
+      "title": "Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - 13WHAM-TV",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "0b772906c004c1434eaf3b9433ef02330f3d1d51cb808139734519896d790118",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Senator Slotkin says Trump “hitting rock bottom” with call to prosecute her, others - WKZO",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE54YjlhZl9aQmpVTFhERTh3YWtuLUxVQmloeEZhMUw2TUxOdjF3YmU1cmlIamRlUGJ2WVNZZ1p5ZkRDTEdJNmNoTWdnVQ?oc=5\" target=\"_blank\">Senator Slotkin says Trump “hitting rock bottom” with call to prosecute her, others</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKZO</font>",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54YjlhZl9aQmpVTFhERTh3YWtuLUxVQmloeEZhMUw2TUxOdjF3YmU1cmlIamRlUGJ2WVNZZ1p5ZkRDTEdJNmNoTWdnVQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 14:52:56 GMT",
+        "source": "WKZO",
+        "ageHours": 8.3
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

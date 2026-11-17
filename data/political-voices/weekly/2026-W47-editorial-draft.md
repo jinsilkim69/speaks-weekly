@@ -3576,3 +3576,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애 “김민석 사과로 끝낼 일 아냐”…민주당 윤리심판원 판단 촉구 - 이투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애 “김민석 사과로 끝낼 일 아냐”…민주당 윤리심판원 판단 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RdVlvejdyMDgxU1ZFYTFpUnFrMFhERW9sS19UOWxaY29ZWXA4di1GS2JGM01hNl9kUFBCT0pwd2hITzdCcF9lUG0zNHcxS2tjb2M5Wg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "'대타협 촉구' 송영길, 자격미달자 나서지 마세요" - 이데일리
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "'대타협 촉구' 송영길, 자격미달자 나서지 마세요"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxNN3BUR3FHUV9nWkVYT0tQeWdocnVILW1hWEJjbHEyZk1pWE9KaVBrNXZBdHZ2QU8zU1hiX1FLLW1YRkpYOWxVektQS2pNSWFvemJaUDFlTUlsVG1SLWIyYWpQeTBnSzNNSTZaeVdZRDFBbUN0c0doNWVVZmZ6WEU1SQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - 13WHAM-TV
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAJBVV95cUxPN0ZHYVF1MGdmSlBSeWVrQ0hPSUZyM0xqSlkxWGRJdTRZOFVmQWhWUzEwUXAybzctX2YtLUJ5X3dXLU9oSG53OUZ2S0hlUm9HbkZOLVN2YjU3Ulk3Rmpjek9ULUxzUll6VWNyZGVCM0U3Y0RhVnZzaU45M2RDRkFSajFBTEhkcDBPR1R5UDBWbnA2YTdQRzNqcE1ZSFVzc00tckh0YzhlVEFuN0NLUDhVc2dTTEhxbmlET0Z5N0dYX2QxT0FyUHp0TE5NVW55dXF6T3QxR3c0OXVFZEFObFBNVnpCbVFQaDNNMEdURWVjTmhuZ3lFSENlTFo5Q0pzNUpmM3RmSlpHMlZkb2JNUjdTUg?oc=5)
+
+---
+
