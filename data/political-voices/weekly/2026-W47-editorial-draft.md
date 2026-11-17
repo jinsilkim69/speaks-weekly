@@ -2445,3 +2445,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 전 의원, 일본 하네다 공항서 입국 불허 - 굿모닝충청
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 전 의원, 일본 하네다 공항서 입국 불허
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE5QcGRhX3NsV3pCLUlUS0E1b2lsZUxNa1F3ZDZwWWpPMUphWkh5M1Q2a3c3REhYRGhtTXFMUHd2YWIwcDJDcjZ0a1ZlX3ctNWZ4RjNDc1gwQ2xsd0gzdFgwMkt0eU9ZRWtPMW11RHRoUW1adw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 일본에서 입국 거부 당해…혁신당 “일본에 사과와 재발방지 요구” [지금뉴스] - KBS 뉴스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 일본에서 입국 거부 당해…혁신당 “일본에 사과와 재발방지 요구”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrUi1wUDNmcDdlRzRDVS1PQlVheTdtS0J1N3JNZjVWZUZ1WW80amVPTnVpeG5KWlhTY0p1UVg5dUVZWEh6blU1VWRCNWFMTG1lWERXcS1raHhxYTNvdk50VXJlNFc4QQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [속보] 조국, 일본 공항서 입국 거부당해…‘죽창가’ 언급 때문? - 한겨레
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 일본 공항서 입국 거부당해…‘죽창가’ 언급 때문?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTFAyUW9FQ1hYN3RWaDRBLTBLTk9hQkdnNlBWM0VWdEFLaHM3NjgyTlpqaldWdmZmcnNBUFVUNDlqN2Rpc3JWXy00WXlacHJ1dU85dG5aY2hvcFVZX09GTmhwUVpPclJZTGx3SUJZREZuN0RoaGt6?oc=5)
+
+---
+
