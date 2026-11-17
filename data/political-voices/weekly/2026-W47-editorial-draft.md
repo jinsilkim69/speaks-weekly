@@ -3251,3 +3251,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, 김민석에 직격탄…“민주당 민주주의 무너뜨린 책임 물어야” - 중부일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, 김민석에 직격탄…“민주당 민주주의 무너뜨린 책임 물어야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBqdmNlbWRUWUZ1RU1ZcTJJUTJzMmN5YWV4SGh2RVE2bjFMWENMVFk3cTZyeF9VNGRQdWFELTEydTdmWGZXa2NETlNDRUdYalp6QWlqbDk5Y091WGZXNl90RmlHTTNyRHlNeWxtODR3?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, 김민석 겨냥 “신천지 마타도어부터 심판하라”…민주당 내홍 정면 가세 - OBC 뉴스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, 김민석 겨냥 “신천지 마타도어부터 심판하라”…민주당 내홍 정면 가세
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBnMEhKZGw2NnpIR2ZPMHF0UGpMZFBIb0pfVU9HWVpQMUMwbkJHcENMZUxjQWRtZ0NlNnd3am0xckFyb05FcE9DX2RfY2FvcEVjS1F6S3h5YUNDa1FVbmk3RWxaY284ZXZaUFE?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라” - 시사저널
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBGMFMzalh3cFFZU19uZGM2R01CYm5zV0RrMUlMSzIxc3AxeWhQUVFtd0YzUWlBMVplTmxlSWlkWGVSRUV1TkY4V2l2WGYxR2puNTgwNWd0YWZ0WHAzY3RfcG1CS0gtaEZERXEzalFZZ9IBc0FVX3lxTE5hZzRoR3VzR0lla05jakdFV1lGOWU4bkZXZ2pWQWdSOWFhcW85N213aDRiWFVjM1hycnBBcFBvaHBDcWFqSERuS2pQa2VwNWwtQVllQklTbFFPaWpzQlhaYUNMM2NXY2QtbnJSR1l5a01nd28?oc=5)
+
+---
+
