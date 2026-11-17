@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T12:27:16.183Z",
+  "lastCheckedAt": "2026-11-17T12:41:19.482Z",
   "seenPostIds": {
-    "50c28288ef7cb97bd3c7881c533cc11f6dc6b36b2fe30c8a74e32337d8d1bc4d": {
-      "seenAt": "2026-11-14T01:01:25.655Z",
-      "title": "구본현 체포, 이재명 대통령 \"해외 도피, 이제 끝\" 법과 질서 강화 예고 - 공감신문",
-      "targetName": "이재명"
-    },
-    "a74fe7a42738c7664ec2e16ffcd6aa68212431d8a67e84aa843bd1f55d0aefcf": {
-      "seenAt": "2026-11-14T01:01:26.410Z",
-      "title": "박지원 \"김민석-정청래 싸움, 대통령 지지율 '뚝'...죽이 되든 밥이 되든 만나, 적당히들 하길\"[여의도초대석] - KBC광주방송",
-      "targetName": "정청래"
-    },
-    "885fb9dba9abca43fc6d55249c7bb8948aa4a42253a0494f0533ddd1fa2e4f55": {
-      "seenAt": "2026-11-14T01:11:17.623Z",
-      "title": "담배 세금 줄면 소방재정 감소?…송영길, 소방재정 안정화 법안 발의 - KBC광주방송",
-      "targetName": "송영길"
-    },
-    "7211454a545e43d1747555f20e1646342b8f96950758080c33959399748a8b1a": {
-      "seenAt": "2026-11-14T01:11:18.223Z",
-      "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum - IMDb",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "8cbee8640114e0105be3e0bb5d32c690a727623f8ee8470f35cde7ed45a8f7dc": {
-      "seenAt": "2026-11-14T01:41:15.586Z",
-      "title": "[속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전 - 세계일보",
-      "targetName": "한동훈"
-    },
-    "a8956bbd5ee0b38e1bea2b058bd085bad7ff6dab15c2c9b332855ae46662f93b": {
-      "seenAt": "2026-11-14T01:51:18.489Z",
-      "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum - IMDb",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "aaa5fc5b827d32d7cac68852d83c2347b9040e4ef262498214b4ec9d4c585016": {
       "seenAt": "2026-11-14T02:01:18.447Z",
       "title": "최민희 \"통일교가 김민석 대표 밀어\"...추가 녹취도 파문 - 중앙신문",
@@ -2530,57 +2500,24 @@
       "seenAt": "2026-11-17T12:31:34.483Z",
       "title": "독도 방문 때문?…일본, 조국 입국 거부 파장 - 한겨레",
       "targetName": "조국"
+    },
+    "d163a1545c8cd9aa6601d5860a5c6fc4535b04dbdb1277a3df8639424529c5b5": {
+      "seenAt": "2026-11-17T12:41:20.680Z",
+      "title": "[속보] 조국, 일본 공항서 입국 거부…“독도 방문 이유라면 부당한 도전“ - 미디어오늘",
+      "targetName": "조국"
+    },
+    "2834a1ca1ef0194c870123afb13ccf56098f58024e06d581592ac7151987887c": {
+      "seenAt": "2026-11-17T12:41:21.414Z",
+      "title": "장동혁, 한동훈 장인상 조문…윤리위 개입 논란에 빛바랜 장외투쟁 - 경향신문",
+      "targetName": "한동훈"
+    },
+    "e77f8f47a5c57f61f0fb876fae186798ce92d66bfe5683aef52f0512df710af7": {
+      "seenAt": "2026-11-17T12:41:22.101Z",
+      "title": "조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\" - 뉴시스",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "d163a1545c8cd9aa6601d5860a5c6fc4535b04dbdb1277a3df8639424529c5b5",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "[속보] 조국, 일본 공항서 입국 거부…“독도 방문 이유라면 부당한 도전“ - 미디어오늘",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA2V2JpbXlJR21abjBuQW1kSFJsMUlqSURvNWhtbDY1SGlCbzNjS0h5bEU4ZTQ2VWwxNGI0d1RHUnlzM1NzRUE0aXAyb1Z2X2JzUC1ud1l0SHVxVG1CX1JwaENRZ1FMQnltQ1FtdjlpUzZkSmtZ?oc=5\" target=\"_blank\">[속보] 조국, 일본 공항서 입국 거부…“독도 방문 이유라면 부당한 도전“</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미디어오늘</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2V2JpbXlJR21abjBuQW1kSFJsMUlqSURvNWhtbDY1SGlCbzNjS0h5bEU4ZTQ2VWwxNGI0d1RHUnlzM1NzRUE0aXAyb1Z2X2JzUC1ud1l0SHVxVG1CX1JwaENRZ1FMQnltQ1FtdjlpUzZkSmtZ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:57:26 GMT",
-        "source": "미디어오늘",
-        "ageHours": 1.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "2834a1ca1ef0194c870123afb13ccf56098f58024e06d581592ac7151987887c",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "장동혁, 한동훈 장인상 조문…윤리위 개입 논란에 빛바랜 장외투쟁 - 경향신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UaDVTWXZzdlpzbFI5c0JXRkZqa2sxUDY5Ni1kV1ppVUN5dmJJTnloME5fQTlRT0Y1Y1YyQ2JBNDhSZU1TZDQxMDN3VGM5NUtQMGttV2E3WGdlOV81Slp30gFfQVVfeXFMT1RoNVNZdnN2WnNsUjlzQldGRmprazFQNjk2LWRXWmlVQ3l2YklOeWgwTl9BOVFPRjVjVjJDYkE0OFJlTVNkNDEwM3dUYzk1S1Awa21XYTdYZ2U5XzVKWnc?oc=5\" target=\"_blank\">장동혁, 한동훈 장인상 조문…윤리위 개입 논란에 빛바랜 장외투쟁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UaDVTWXZzdlpzbFI5c0JXRkZqa2sxUDY5Ni1kV1ppVUN5dmJJTnloME5fQTlRT0Y1Y1YyQ2JBNDhSZU1TZDQxMDN3VGM5NUtQMGttV2E3WGdlOV81Slp30gFfQVVfeXFMT1RoNVNZdnN2WnNsUjlzQldGRmprazFQNjk2LWRXWmlVQ3l2YklOeWgwTl9BOVFPRjVjVjJDYkE0OFJlTVNkNDEwM3dUYzk1S1Awa21XYTdYZ2U5XzVKWnc?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:19:00 GMT",
-        "source": "경향신문",
-        "ageHours": 1.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e77f8f47a5c57f61f0fb876fae186798ce92d66bfe5683aef52f0512df710af7",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rU9IBeEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rUw?oc=5\" target=\"_blank\">조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rU9IBeEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rUw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:30:00 GMT",
-        "source": "뉴시스",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "0eff38fb1ef7d966d1b3a62fcbe1edc75abd9c9c8cd075d201976a0c05138a1c",

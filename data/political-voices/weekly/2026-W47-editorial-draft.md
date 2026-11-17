@@ -2952,3 +2952,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [속보] 조국, 일본 공항서 입국 거부…“독도 방문 이유라면 부당한 도전“ - 미디어오늘
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 일본 공항서 입국 거부…“독도 방문 이유라면 부당한 도전“
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTFA2V2JpbXlJR21abjBuQW1kSFJsMUlqSURvNWhtbDY1SGlCbzNjS0h5bEU4ZTQ2VWwxNGI0d1RHUnlzM1NzRUE0aXAyb1Z2X2JzUC1ud1l0SHVxVG1CX1JwaENRZ1FMQnltQ1FtdjlpUzZkSmtZ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁, 한동훈 장인상 조문…윤리위 개입 논란에 빛바랜 장외투쟁 - 경향신문
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, 한동훈 장인상 조문…윤리위 개입 논란에 빛바랜 장외투쟁
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UaDVTWXZzdlpzbFI5c0JXRkZqa2sxUDY5Ni1kV1ppVUN5dmJJTnloME5fQTlRT0Y1Y1YyQ2JBNDhSZU1TZDQxMDN3VGM5NUtQMGttV2E3WGdlOV81Slp30gFfQVVfeXFMT1RoNVNZdnN2WnNsUjlzQldGRmprazFQNjk2LWRXWmlVQ3l2YklOeWgwTl9BOVFPRjVjVjJDYkE0OFJlTVNkNDEwM3dUYzk1S1Awa21XYTdYZ2U5XzVKWnc?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야" - 뉴시스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rU9IBeEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rUw?oc=5)
+
+---
+
