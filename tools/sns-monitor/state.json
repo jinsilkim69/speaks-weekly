@@ -1,31 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T12:51:18.281Z",
+  "lastCheckedAt": "2026-11-17T13:11:18.390Z",
   "seenPostIds": {
-    "e2bd6467985f81895b188e0e6a26aa06fd3a18c777e555cf6150cfe4fa427f4a": {
-      "seenAt": "2026-11-14T02:21:16.331Z",
-      "title": "\"통일교가 김민석 밀어\"…최민희 녹취록 추가 파장 - 연합뉴스TV",
-      "targetName": "김민석"
-    },
-    "5002dbb972b928335bbd965e3abce494f3439026aa5462a7267f08984707dcba": {
-      "seenAt": "2026-11-14T02:21:16.969Z",
-      "title": "Trump does not want to resume war with Iran 'for now': Report - Anadolu Ajansı",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "8fc6469fc4ed752aac4fbdaa83bc3296cb9d9b2ee95b2ac9c891fa19beb44e31": {
-      "seenAt": "2026-11-14T02:51:16.578Z",
-      "title": "[속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전 - 세계일보",
-      "targetName": "한동훈"
-    },
-    "97bc836ccbd8763a60b10695e18ab7944d6caef0fd3ef699441e500bc8959f3b": {
-      "seenAt": "2026-11-14T03:01:20.385Z",
-      "title": "계파 갈등에 막힌 김민석, 강경 투쟁에 갇힌 장동혁 - 중앙일보",
-      "targetName": "김민석"
-    },
-    "8fa07a7a8599d60f377e6f1e866c21c6a7d0330a5cd7bde17b5044de31496039": {
-      "seenAt": "2026-11-14T03:11:18.079Z",
-      "title": "[속보] 한동훈 “이재명, 확정적 ‘시한부 대통령’…윤석열보다 더 빼박” - 경기일보",
-      "targetName": "한동훈"
-    },
     "c1c86bbabdb25c85c877c6c1d2ea789c48adfae24d4b6b3bd8b818954cc4eb7b": {
       "seenAt": "2026-11-14T03:11:18.680Z",
       "title": "[속보] 전한길 \"이준석 하버드 졸업장 내놔라\"…이준석 \"허위 사실 남발 추가 고소\" - 프레시안",
@@ -2525,59 +2500,24 @@
       "seenAt": "2026-11-17T13:01:23.762Z",
       "title": "[단독] 日당국자 “조국 입국 거부, 전과자 비자 절차 안밟은 듯” - 중앙일보",
       "targetName": "조국"
+    },
+    "f515802c114857e8980aad5ae58e31b89867dba3c2eb3cf1d69be805bbac80e6": {
+      "seenAt": "2026-11-17T13:11:18.923Z",
+      "title": "[17일 오!정말] 국힘 윤상현, 한동훈 복당 두고 \"당대표 되면 숙청당할 거라 생각\" - 비즈니스포스트",
+      "targetName": "한동훈"
+    },
+    "297acac5091f07531e040cde25cfb58c45503e34e0cf7f8cb9afab1c40ef8a64": {
+      "seenAt": "2026-11-17T13:11:19.782Z",
+      "title": "정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라 - 뉴데일리",
+      "targetName": "정청래"
+    },
+    "bfac75f4421e9415b5fe370a22acde9517c696af7aa2359b937bf3374214a72d": {
+      "seenAt": "2026-11-17T13:11:20.463Z",
+      "title": "‘Market-moving’ posts under fire: White House aide Natalie Harp could be barred from posting to Donald Trump’s Truth Social in lawsuit - AOL.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "f515802c114857e8980aad5ae58e31b89867dba3c2eb3cf1d69be805bbac80e6",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "[17일 오!정말] 국힘 윤상현, 한동훈 복당 두고 \"당대표 되면 숙청당할 거라 생각\" - 비즈니스포스트",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9WeTNRczdVYklzcGhkTTAxQTl4b0xWUVFMTGY3MUpkM2d1T2U3bmlrOWJGZ1dNUlF1dVNRUHNDZXJsMXRXbzA4TGRUNkZaaW1NQXVrSWgyeGpQVEdZc3lzdjNUS25nczY0a3FJR29iZXdlVG8?oc=5\" target=\"_blank\">[17일 오!정말] 국힘 윤상현, 한동훈 복당 두고 \"당대표 되면 숙청당할 거라 생각\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">비즈니스포스트</font>",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WeTNRczdVYklzcGhkTTAxQTl4b0xWUVFMTGY3MUpkM2d1T2U3bmlrOWJGZ1dNUlF1dVNRUHNDZXJsMXRXbzA4TGRUNkZaaW1NQXVrSWgyeGpQVEdZc3lzdjNUS25nczY0a3FJR29iZXdlVG8?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 09:19:55 GMT",
-        "source": "비즈니스포스트",
-        "ageHours": 0.9
-      },
-      "delivered": [
-        "7feb08519b5a3fb6ed164637254ee2b714d6a2d9ee36ef370074d084638ccc5a"
-      ],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "297acac5091f07531e040cde25cfb58c45503e34e0cf7f8cb9afab1c40ef8a64",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라 - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbU1wVDNUaFJfTjA3WmEyRkVxbGQ3ckdHTzlQc3BYV0Z5YVZzRHZaaXhMdHRhMkRvZXlPUUVxZVlXUDhZVG16QUVkMVNQdW45RDY4bUh2QWE3c3pkR1ZDUVJqeUpvSkswNi1QRnZUMFV0anZ2Vy1reW5wUdIBgAFBVV95cUxPb0JzVWxjM2kybmpPZzQ3U0JwcFNkVGZPdnpib2FWcFNXQWFpLWRVSkdhY0hPbWVEOTkySl9kN3RiT1RmYjNkY1p3aHFmU01oTUdkcFV3TnFObnVzNk5mQnVTeW1tTHRPejB6WmxmX0pRa2YtZmRIZXpkTXN0TEJFbg?oc=5\" target=\"_blank\">정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbU1wVDNUaFJfTjA3WmEyRkVxbGQ3ckdHTzlQc3BYV0Z5YVZzRHZaaXhMdHRhMkRvZXlPUUVxZVlXUDhZVG16QUVkMVNQdW45RDY4bUh2QWE3c3pkR1ZDUVJqeUpvSkswNi1QRnZUMFV0anZ2Vy1reW5wUdIBgAFBVV95cUxPb0JzVWxjM2kybmpPZzQ3U0JwcFNkVGZPdnpib2FWcFNXQWFpLWRVSkdhY0hPbWVEOTkySl9kN3RiT1RmYjNkY1p3aHFmU01oTUdkcFV3TnFObnVzNk5mQnVTeW1tTHRPejB6WmxmX0pRa2YtZmRIZXpkTXN0TEJFbg?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:32:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 3.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "bfac75f4421e9415b5fe370a22acde9517c696af7aa2359b937bf3374214a72d",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "‘Market-moving’ posts under fire: White House aide Natalie Harp could be barred from posting to Donald Trump’s Truth Social in lawsuit - AOL.com",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5KYURWclFDTWtiWHZFNzY2YnRVck9OdGFxd0Y3bmNTYy1RZWUwOC1DNEF6ZU5YX0lZSjRmMnBZTFRQZ1I2U1RIRGhldk1vcVNjNXMzcVFNZnNZSkhrSkJNOXBpWnBYQlA5MHIzWUNXSXlwZGRWMGZscC1qeXctR1U?oc=5\" target=\"_blank\">‘Market-moving’ posts under fire: White House aide Natalie Harp could be barred from posting to Donald Trump’s Truth Social in lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KYURWclFDTWtiWHZFNzY2YnRVck9OdGFxd0Y3bmNTYy1RZWUwOC1DNEF6ZU5YX0lZSjRmMnBZTFRQZ1I2U1RIRGhldk1vcVNjNXMzcVFNZnNZSkhrSkJNOXBpWnBYQlA5MHIzWUNXSXlwZGRWMGZscC1qeXctR1U?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 09:30:38 GMT",
-        "source": "AOL.com",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "d07243883791f5e8856c758cd513b0f3cedca1c4bec5283a421f4444124fafa6",
@@ -2686,6 +2626,22 @@
         "pubDate": "Tue, 17 Nov 2026 08:41:00 GMT",
         "source": "경향신문",
         "ageHours": 3.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "719eed82db244e1c1f7bf8f0352ff42ec71ceb54c5ad07ae92e4ea65a8a07a4e",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 대통령도 전면전, \"AI 입시부정 최대 5년 처벌\" > 뉴스 - 지데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5Tb1VvMTVmTndLQVZ5S1prTXNnbUlXRGhfY1FBVGViVTVDQ29WS3oyV0czd0YzNzFvZi03d0ZtcTFzQTg1OU00X09COTF4YV9UMnBlU2FkY1RpRWtZM2h6dlBtNmNMZlNXMGNOXw?oc=5\" target=\"_blank\">이재명 대통령도 전면전, \"AI 입시부정 최대 5년 처벌\" > 뉴스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">지데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Tb1VvMTVmTndLQVZ5S1prTXNnbUlXRGhfY1FBVGViVTVDQ29WS3oyV0czd0YzNzFvZi03d0ZtcTFzQTg1OU00X09COTF4YV9UMnBlU2FkY1RpRWtZM2h6dlBtNmNMZlNXMGNOXw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 12:38:00 GMT",
+        "source": "지데일리",
+        "ageHours": 0.6
       },
       "delivered": [],
       "archived": false
