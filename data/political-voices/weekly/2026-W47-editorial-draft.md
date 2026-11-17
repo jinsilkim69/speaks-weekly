@@ -3394,3 +3394,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, 김민석에 직격탄…“민주당 민주주의 무너뜨린 책임 물어야” - 중부일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, 김민석에 직격탄…“민주당 민주주의 무너뜨린 책임 물어야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE5mdVVoOEtDY1BoWGNRU2hTeWhGMnFqR3hRM2l1V204czRjX29lZGZxSVI2S0V0a3NfdVNhaVhMa1ozY3NXMnZxdWlwYXV4Q3BJNUpqdUppTGViNGU3N0h0cHBVMmRmSlFvTzZzalFMZw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Heroic Santa Cruz teen lifeguard who saved child recognized by Trump at White House - 6abc Philadelphia
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Heroic Santa Cruz teen lifeguard who saved child recognized by Trump at White House
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiywhBVV95cUxNWmIwOHh0RlBta1hkdlcxcF9tRUpIUnhwWXAwemhrS2piQXdIeHNoREFxay1LaTZBeUVfaXRLVXJGYlhYTi00UDRfWjlWZWVOQlNfSnh2aV9ZUExsWERaR1Q5czh0MHdUWDdVMlpiV0Z4MjdQUmVuT1hmSHphbE1uVTR6SDVLMWxOb3lxd0dUZkt5SG1tYzlqUDBjZkZ1WUFxLXQ4YzNfQjk0NUdBYTN5VnpUdmtVam5NQXk3RTAwQjNOSDZSaU5qT2ViTXdjbV9OVlFTSWFNUE1vZ1pERlZCNlJfNUlYbkhZdV9nZlE1RGRuUGhOODgtZUJWM0pVZnh0bGFaY0ROTGZobGZvNkw3M1diWEtLMzVwRWM2ZklQOUszSGJFNVh1WGVPLUxpS0V1WHE5bS0wTzMtTUdzd19RZ1Nyd1BLYnR1MGhNYWx5ZUpCWXNnUlFVNndUaE4yXzlXMk1rdGxtTXU0Mmt1cjU3dnNRMXh6VUsyZGxLdVNkTVlHRllBQmhySFEySVpnTGdVT1dDeWJHWmNPb0JhMFFCc3llM0FRa3dUandDSS02b0RlS3Q1el84RXRmUlFEUG0tQXFSUS0wUndDbFYzQUdwUXV0SlYzcFNhRTl0Mko1VjU0bjdVaUFNdkNraHZHWWJSVW5YRG4wUXNGUHRDd2J6NmQ3MW9TQTFlSFZ4VGdfU05UUEF2T0hFQ0FodGl0Y0J5Mkl3VE05RzhZV0owbV9DYllkQTBxS0k5VFNaRGU1Vi15ci1qQVp3VUNqU0loRC16N25ieHdkMmtsb3lQa3ZGVEJmc2dsb3U4LXYwOUprSW5RcDZJd05TRHd6LUxVai05TXdlTkNNOHhEY2k1bTlXUmtoM1o4Wk1BU3dwek00dkZZWGIxeTVyTTJlSkJiUUg0NlJuWXFoREw5SXQxTWlQZUlpdEhOTTdDNkxkQTRyNkdueHJ0SEh4VE43dmJQanduUHdNWHo3LWt3QllsTV9MRF85MFVnUGRZMWQ0WXh6ZXZYUWwzTUxBM3RaQ29fMXREbHlaVm9vZzQtZUN1d25YMkZKMWpzNWhQeXNCdnU5cVBudUMzWmZjVkNWemkxTzUtcWsxc2NmVERyMEh5QzJ4dkJwOFlVbW1MMWhFNkVhMmZwYzVkcnVUNXh2b09BLTlZMUlNTTRLSGlMTVIzOEpheXpyZmlJMVNzNHdYX2lKaE9rVW1ORWlaMW5McWtwWWJyLVdMSlg0bXJ5MTZRd201VkRyZXl1UFhKZFROLWtJeElNUnpMdlA5Wmc2Zzg5Q3ZtUFBzRW9PZE9ILW5DVUFIcWwwdkZrZTYtSUtuMW1ua3dZbW1CbEpCM3BaY2U4T3JGMWJrY1otMndrR1doemtXT19QQUFVRTBXY3Njd0VKYk9QTnFMVkRISVZWcGlwSEctb3JzbXU3V0JYbWdULVZBQnprQ0x3OWVWaVlN?oc=5)
+
+---
+

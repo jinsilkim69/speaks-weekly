@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T19:41:21.323Z",
+  "lastCheckedAt": "2026-11-17T19:51:19.206Z",
   "seenPostIds": {
-    "8c31ead182f28c510d3330134b8cf11896cc9956d073ba5fd42e5a7bb8ccd7dd": {
-      "seenAt": "2026-11-14T05:51:17.432Z",
-      "title": "한동훈 \"막 우기면 좀 추해\"…'李·尹 재판 똑같다' 최민희와 충돌 - 뉴스1",
-      "targetName": "한동훈"
-    },
     "7f50a72667de704d40bb46658692386b7a3b4d8f0c7c121e8ea8d53c098dcd57": {
       "seenAt": "2026-11-14T05:51:18.229Z",
       "title": "[속보] “노무현 추천으로 하버드 입학했다고?”…이준석, ‘학력 의혹’ 전한길 16일 추가 고소 예고 - 세계일보",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-17T19:41:22.651Z",
       "title": "'일본 입국 거부' 조국 \"과거 방문 땐 문제 없었는데...\" - OhmyNews",
       "targetName": "조국"
+    },
+    "51a757922a9c1454df259775f753240a1e49b5bc4e223dc99f195c4d2c6124a5": {
+      "seenAt": "2026-11-17T19:51:20.320Z",
+      "title": "추미애, 김민석에 직격탄…“민주당 민주주의 무너뜨린 책임 물어야” - 중부일보",
+      "targetName": "김민석"
+    },
+    "b0a9cd4462ff2572d529a1a1e1adfecada3438cce46df2d67894b747233437f5": {
+      "seenAt": "2026-11-17T19:51:20.948Z",
+      "title": "Heroic Santa Cruz teen lifeguard who saved child recognized by Trump at White House - 6abc Philadelphia",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
