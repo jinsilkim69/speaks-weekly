@@ -2406,3 +2406,42 @@
 
 ---
 
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 천하람 "열화상카메라·검전기로 AI 커닝 적발 어려워…수능 연기해야" - 뉴스핌
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 천하람 "열화상카메라·검전기로 AI 커닝 적발 어려워…수능 연기해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XX0lUUm5PVjBaaWNfbTZLQkx5dzJqWUNLbXpmXzY0QnZkT0RCdEJlQlQ3SVlIQTNiS2FvbGlkWWxMbjhKVXVsN2RVa1lDTWpGaTlkekJyVXNBb09r?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 천하람 "與 김문수 '수험생끼리 신고'? 대책 없음 자백…수능 연기해야" - 뉴스1
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 천하람 "與 김문수 '수험생끼리 신고'? 대책 없음 자백…수능 연기해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUMGJJQTZCaEh1b19xMjhISnNma21BakZ4Z080azhITDFDdF9YMk5ENHN6LU9XMTkzSDE3OXdEZ0g5RXh6QjBqU1hQNVlnZk5HMjVpbUFscXBvZw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 일본 입국 거부 당해…혁신당 “日 정부, 사과하라” - 중앙일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 일본 입국 거부 당해…혁신당 “日 정부, 사과하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oQkRZVHI5eTFHRVQzcmpfSndIa1J3UEVTZGh1TFZIaEx6aFpoRV9FMkphc1RjTFExMVRfZUVwRDNzOEg4TDdRS25vZXpiUzZ2YWpFSG9R?oc=5)
+
+---
+
