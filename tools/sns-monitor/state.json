@@ -2635,57 +2635,24 @@
       "seenAt": "2026-11-17T04:51:19.658Z",
       "title": "삼성라이온즈 선수가 김민석·조국보다 훌륭한 시절 - OhmyNews",
       "targetName": "조국"
+    },
+    "302353e78f75da411811f7e10bc73b037cddf1f7968639bbed2f2ea83f16d24a": {
+      "seenAt": "2026-11-17T05:01:21.272Z",
+      "title": "[아침저널] 신장식 \"한덕수 구속과 대법원장 탄핵 연계? 曺 꼼수에 놀아나는 것\" - BBS불교방송",
+      "targetName": "신장식"
+    },
+    "5706f1e3233a2c3083bfa1a0a5a8135c6ab8b285225fd2f8d4615df3e188aa6d": {
+      "seenAt": "2026-11-17T05:01:21.881Z",
+      "title": "Fact Check: Trump Did NOT Post on Truth Social Urging People to 'Stock Up on at Least 90 Days of Food, Water and Essential Supplies' - Yahoo",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f276f8c1fdfe70803713514bd1c643e0a0d36b3ac3d80a739f125b04979de3a8": {
+      "seenAt": "2026-11-17T05:01:22.495Z",
+      "title": "Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit - Time Magazine",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "302353e78f75da411811f7e10bc73b037cddf1f7968639bbed2f2ea83f16d24a",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "[아침저널] 신장식 \"한덕수 구속과 대법원장 탄핵 연계? 曺 꼼수에 놀아나는 것\" - BBS불교방송",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5fX2dhVkxDYUk5UEtvYTNacG1xMGhncXZmeHlqRlpXMGlQdjRYZFRQUW5XNG16ZXdTV0d1UnB2V3A0VEduWHV5aHc0V1RON1ZtbVVnWTJ2MTFodnZkUnJxTjhxMTd5VTFSalJV?oc=5\" target=\"_blank\">[아침저널] 신장식 \"한덕수 구속과 대법원장 탄핵 연계? 曺 꼼수에 놀아나는 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBS불교방송</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fX2dhVkxDYUk5UEtvYTNacG1xMGhncXZmeHlqRlpXMGlQdjRYZFRQUW5XNG16ZXdTV0d1UnB2V3A0VEduWHV5aHc0V1RON1ZtbVVnWTJ2MTFodnZkUnJxTjhxMTd5VTFSalJV?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 23:52:55 GMT",
-        "source": "BBS불교방송",
-        "ageHours": 3.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5706f1e3233a2c3083bfa1a0a5a8135c6ab8b285225fd2f8d4615df3e188aa6d",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Fact Check: Trump Did NOT Post on Truth Social Urging People to 'Stock Up on at Least 90 Days of Food, Water and Essential Supplies' - Yahoo",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjRXdV9OUHdOQUZTeDU0MkthU2s4cklTSkNJZmZsZ3FNVUFJQW9EYU5NcUhlSVNpcUdCc2hhRzBFdHp0TmFwajlrdGVNWFc2b3FLRHlHZXYtZThEdnczeElWN0taMXVqZ2xNa0JEWktWV1FJMllZaFVIVlI4OEJQUUk0dVRwLWJXRHg5Ng?oc=5\" target=\"_blank\">Fact Check: Trump Did NOT Post on Truth Social Urging People to 'Stock Up on at Least 90 Days of Food, Water and Essential Supplies'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjRXdV9OUHdOQUZTeDU0MkthU2s4cklTSkNJZmZsZ3FNVUFJQW9EYU5NcUhlSVNpcUdCc2hhRzBFdHp0TmFwajlrdGVNWFc2b3FLRHlHZXYtZThEdnczeElWN0taMXVqZ2xNa0JEWktWV1FJMllZaFVIVlI4OEJQUUk0dVRwLWJXRHg5Ng?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 01:17:00 GMT",
-        "source": "Yahoo",
-        "ageHours": 2.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f276f8c1fdfe70803713514bd1c643e0a0d36b3ac3d80a739f125b04979de3a8",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit - Time Magazine",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUE41a3lwYTE2RjR3UUYwSGplLXBHdVJLYW5QVFllSWg1OTh0UXZCNE1pcXM2Yl9NSjdONjByYTB4dzRKUFZtUElkbDQ0T3ljR0xERzl0UE9jTFNPaTdrV0xfZDlVVF9uUE9iTzZDMHlqVVlyNkpPZzRLUGplaHJZWTMwMTlDbmVHNFQ2SG5fOUhUNWdPOUlQZWN1djJSY0dm?oc=5\" target=\"_blank\">Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Time Magazine</font>",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUE41a3lwYTE2RjR3UUYwSGplLXBHdVJLYW5QVFllSWg1OTh0UXZCNE1pcXM2Yl9NSjdONjByYTB4dzRKUFZtUElkbDQ0T3ljR0xERzl0UE9jTFNPaTdrV0xfZDlVVF9uUE9iTzZDMHlqVVlyNkpPZzRLUGplaHJZWTMwMTlDbmVHNFQ2SG5fOUhUNWdPOUlQZWN1djJSY0dm?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 22:59:48 GMT",
-        "source": "Time Magazine",
-        "ageHours": 4.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "5e1b2d8810123a79626219b2e7db498bf0576155042ca6c7f27e0041d79a017d",

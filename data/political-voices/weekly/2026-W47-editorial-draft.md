@@ -1847,3 +1847,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** [아침저널] 신장식 "한덕수 구속과 대법원장 탄핵 연계? 曺 꼼수에 놀아나는 것" - BBS불교방송
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "한덕수 구속과 대법원장 탄핵 연계? 曺 꼼수에 놀아나는 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE5fX2dhVkxDYUk5UEtvYTNacG1xMGhncXZmeHlqRlpXMGlQdjRYZFRQUW5XNG16ZXdTV0d1UnB2V3A0VEduWHV5aHc0V1RON1ZtbVVnWTJ2MTFodnZkUnJxTjhxMTd5VTFSalJV?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Fact Check: Trump Did NOT Post on Truth Social Urging People to 'Stock Up on at Least 90 Days of Food, Water and Essential Supplies' - Yahoo
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Fact Check: Trump Did NOT Post on Truth Social Urging People to 'Stock Up on at Least 90 Days of Food, Water and Essential Supplies'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjRXdV9OUHdOQUZTeDU0MkthU2s4cklTSkNJZmZsZ3FNVUFJQW9EYU5NcUhlSVNpcUdCc2hhRzBFdHp0TmFwajlrdGVNWFc2b3FLRHlHZXYtZThEdnczeElWN0taMXVqZ2xNa0JEWktWV1FJMllZaFVIVlI4OEJQUUk0dVRwLWJXRHg5Ng?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit - Time Magazine
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUE41a3lwYTE2RjR3UUYwSGplLXBHdVJLYW5QVFllSWg1OTh0UXZCNE1pcXM2Yl9NSjdONjByYTB4dzRKUFZtUElkbDQ0T3ljR0xERzl0UE9jTFNPaTdrV0xfZDlVVF9uUE9iTzZDMHlqVVlyNkpPZzRLUGplaHJZWTMwMTlDbmVHNFQ2SG5fOUhUNWdPOUlQZWN1djJSY0dm?oc=5)
+
+---
+
