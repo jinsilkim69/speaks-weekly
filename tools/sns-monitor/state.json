@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T11:11:19.939Z",
+  "lastCheckedAt": "2026-11-17T11:21:23.347Z",
   "seenPostIds": {
-    "fe732c7c5c9dbcf2895e04631ea58dcd96c6f796b526c6c256fc282d52872bc4": {
-      "seenAt": "2026-11-13T20:01:17.788Z",
-      "title": "Trump DOJ wants immediate stop to lawsuit discovery over Truth Social’s new $100,000 service, calls request for records a waste of time - Yahoo",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "25a984077f3faa7da67e1bd7aec262d7c7d96a3bb412e263bdb9f057bf22c0b7": {
-      "seenAt": "2026-11-13T20:31:20.156Z",
-      "title": "\"김민석이 감찰 대상\" vs \"반명 분열주의\"…與 계파 정면충돌 - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
-    "6625064dbaff372e76d7dc272b35e6d433261a7fad6b23b6e6ec3f62185aa678": {
-      "seenAt": "2026-11-13T20:31:20.878Z",
-      "title": "최고위 박차고 나간 친정청래계 3인…“윤리감찰 대상은 김민석” - 주간조선",
-      "targetName": "정청래"
-    },
     "1a261422c4979f7629710ea75ba598245ed824ef37bc139c735fe12d56326876": {
       "seenAt": "2026-11-13T20:41:18.372Z",
       "title": "조국혁신당, 민주당 합당론에 \"논의 1㎜도 안 돼…쇼통\" - 이투데이",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-17T11:11:23.053Z",
       "title": "국힘 장동혁 대표, 한동훈 장인상 조문 - TBS 서울",
       "targetName": "한동훈"
+    },
+    "8ce83df4a0cdd2c9b9e062c7e11922bc1ee3c1209312c52c5666eaa1e8ac21fd": {
+      "seenAt": "2026-11-17T11:21:24.377Z",
+      "title": "송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\" - 대전일보",
+      "targetName": "김민석"
+    },
+    "e16a917968ac5ecaad8665bf9af1a517b503ddf53a43d7f4919d71cb724d2178": {
+      "seenAt": "2026-11-17T11:21:24.990Z",
+      "title": "의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈 - 한국경제",
+      "targetName": "정청래"
+    },
+    "4597845d162ad340cf70aac8b646d4ecb71432d11d866ec8ebf5396c5a2a42fe": {
+      "seenAt": "2026-11-17T11:21:25.644Z",
+      "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달자 나서지 말라\" - 연합뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "8ce83df4a0cdd2c9b9e062c7e11922bc1ee3c1209312c52c5666eaa1e8ac21fd",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\" - 대전일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1rZFRuWUVsTFpvaVpZV1ZtTjVyeFB6TlFST0RIQmo0eGFDc0tCdlVrN2RBenRzYkRZSTlmLXlCVlR5NWYzYTgzbjMwZ2NYTHZfM0RYMm1PMWt6NlFMZVV4T2xlM2Zhc1NMSTJtRlN1MA?oc=5\" target=\"_blank\">송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rZFRuWUVsTFpvaVpZV1ZtTjVyeFB6TlFST0RIQmo0eGFDc0tCdlVrN2RBenRzYkRZSTlmLXlCVlR5NWYzYTgzbjMwZ2NYTHZfM0RYMm1PMWt6NlFMZVV4T2xlM2Zhc1NMSTJtRlN1MA?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:34:00 GMT",
-        "source": "대전일보",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e16a917968ac5ecaad8665bf9af1a517b503ddf53a43d7f4919d71cb724d2178",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈 - 한국경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOHJWNW5LUEdlRzZlbUV0ZUFLNmlkdS15aTFxOUljTlptN21kRmVNSmMzN3Q2T0VlbDB2SjJ5M1gwSUpkS25UVkNqM29kYi1XT3Vrb01CQ1VlQQ?oc=5\" target=\"_blank\">의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOHJWNW5LUEdlRzZlbUV0ZUFLNmlkdS15aTFxOUljTlptN21kRmVNSmMzN3Q2T0VlbDB2SjJ5M1gwSUpkS25UVkNqM29kYi1XT3Vrb01CQ1VlQQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:25:36 GMT",
-        "source": "한국경제",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4597845d162ad340cf70aac8b646d4ecb71432d11d866ec8ebf5396c5a2a42fe",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달자 나서지 말라\" - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdmJSQmFoMUp1Y2w4amw2VTRDU3oyZUdaQncycnplVTQ1eWN5TFhtOVluQXBDSzBoS3pQdF9SRFg3azBScS16aVZhMWpqdFJoMmg4OXhyN2l1OGhVcDZGMtIBYEFVX3lxTE5BdmJSQmFoMUp1Y2w4amw2VTRDU3oyZUdaQncycnplVTQ1eWN5TFhtOVluQXBDSzBoS3pQdF9SRFg3azBScS16aVZhMWpqdFJoMmg4OXhyN2l1OGhVcDZGMg?oc=5\" target=\"_blank\">송영길 \"金·鄭 대화해야\"…정청래 \"자격미달자 나서지 말라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdmJSQmFoMUp1Y2w4amw2VTRDU3oyZUdaQncycnplVTQ1eWN5TFhtOVluQXBDSzBoS3pQdF9SRFg3azBScS16aVZhMWpqdFJoMmg4OXhyN2l1OGhVcDZGMtIBYEFVX3lxTE5BdmJSQmFoMUp1Y2w4amw2VTRDU3oyZUdaQncycnplVTQ1eWN5TFhtOVluQXBDSzBoS3pQdF9SRFg3azBScS16aVZhMWpqdFJoMmg4OXhyN2l1OGhVcDZGMg?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:06:01 GMT",
-        "source": "연합뉴스",
-        "ageHours": 1.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "016ea8e88cee193f1d905e2394a3420f3b0ec0273c3016d9ef2a100205a6f0d0",
@@ -3170,6 +3122,22 @@
         "pubDate": "Tue, 17 Nov 2026 10:45:46 GMT",
         "source": "문화일보",
         "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4e030d3df233264dd30c50d5fc38c641cd848b9a857e70582b2ab0ad2698c23b",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전”(종합) - 서울신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5fZy1ZNW5uTmNibXBVZk5Sb1hqTDg4WW8wYjQ5OFBYeGl5dy1GV1J2RWVDRlVGV3hJZ0lLQlVYU01tQ3oxWFBZYjFudkJjdW11T0ZYYUxRLWtQOTUwUjB1Uml1QlhUOWhIWFJKamY2NG4?oc=5\" target=\"_blank\">조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전”(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fZy1ZNW5uTmNibXBVZk5Sb1hqTDg4WW8wYjQ5OFBYeGl5dy1GV1J2RWVDRlVGV3hJZ0lLQlVYU01tQ3oxWFBZYjFudkJjdW11T0ZYYUxRLWtQOTUwUjB1Uml1QlhUOWhIWFJKamY2NG4?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 10:53:06 GMT",
+        "source": "서울신문",
+        "ageHours": 0.5
       },
       "delivered": [],
       "archived": false

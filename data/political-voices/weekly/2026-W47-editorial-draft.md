@@ -2601,3 +2601,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 송영길 '김민석과 대타협' 제안에… 정청래 "자격 미달자 나서지 말라" - 대전일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 '김민석과 대타협' 제안에… 정청래 "자격 미달자 나서지 말라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1rZFRuWUVsTFpvaVpZV1ZtTjVyeFB6TlFST0RIQmo0eGFDc0tCdlVrN2RBenRzYkRZSTlmLXlCVlR5NWYzYTgzbjMwZ2NYTHZfM0RYMm1PMWt6NlFMZVV4T2xlM2Zhc1NMSTJtRlN1MA?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈 - 한국경제
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOHJWNW5LUEdlRzZlbUV0ZUFLNmlkdS15aTFxOUljTlptN21kRmVNSmMzN3Q2T0VlbDB2SjJ5M1gwSUpkS25UVkNqM29kYi1XT3Vrb01CQ1VlQQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 "金·鄭 대화해야"…정청래 "자격미달자 나서지 말라" - 연합뉴스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "金·鄭 대화해야"…정청래 "자격미달자 나서지 말라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdmJSQmFoMUp1Y2w4amw2VTRDU3oyZUdaQncycnplVTQ1eWN5TFhtOVluQXBDSzBoS3pQdF9SRFg3azBScS16aVZhMWpqdFJoMmg4OXhyN2l1OGhVcDZGMtIBYEFVX3lxTE5BdmJSQmFoMUp1Y2w4amw2VTRDU3oyZUdaQncycnplVTQ1eWN5TFhtOVluQXBDSzBoS3pQdF9SRFg3azBScS16aVZhMWpqdFJoMmg4OXhyN2l1OGhVcDZGMg?oc=5)
+
+---
+
