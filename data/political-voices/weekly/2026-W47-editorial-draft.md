@@ -3641,3 +3641,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [이슈체크]이재명 대통령, 수능 AI 부정행위 전면전…1억 포상·10년 응시 제한·AI 기록 추적 추진 - 창업일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 수능 AI 부정행위 전면전…1억 포상·10년 응시 제한·AI 기록 추적 추진
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVNXhUeDJjNXIyRVJzTllSTTAtSjlveWdQaVhEckRVLTZfbTNvRFh3YzRQdUp6b0R4RnlKNktFWDAxTXZiT1l6akNVOEJ6TmVxcWxmeXVTTG9fZXpqRXdlS2pLNlVHWkd2?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애 "윤리심판원, 김민석 마타도어부터 판단해야"… 민주당 '최민희 징계' 내홍 확전 - 한국경제
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애 "윤리심판원, 김민석 마타도어부터 판단해야"… 민주당 '최민희 징계' 내홍 확전
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VRmV6OWQ2OFB6cEdOUnJYM3Q5X0labVlUbVFkZGZvOFhxdVJpQkc4SVFwRTRHSGFSR1RqMFdmdzBTaEh3anRLTG51a203X2oxM2k0VWRMeFVjZw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, '최민희 발언 논란' 징계에 "김민석 문제부터 엄중 판단해야" - 중앙신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, '최민희 발언 논란' 징계에 "김민석 문제부터 엄중 판단해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi9wJBVV95cUxQX250MUJEcGN0Rk9zdHpWY3YzNTFwMWxvUXFpNGhGMVJOUTJPRnFzUDd1ZmJpbHRXLWJMVmo2NVVEVVVrNEItcVRVNVcxV3dhZU15S0RGT0hSRTE5ZUU1c3daeWNxTEt3bUY2NEZucVVxMmwySHM5dHVHMmNRalhndUVSSW5tQkE1WjJCOVIxb29RRFZYejRUYi1zazRpMTZnNjROZWI5MVlFNDRLTjN3eC1NM2RNUm1XV0MxMGdSejFUdVRyNkZwelVKTTYtckl3X2RoNURBU1JNUDI4S3ByNWUxTVZQdmItLVZxallUaXhLWFFnOXpMVTVGa1VwdzNuVkF2UUdkNWhYaTJhM05NRVV1ei1kR2lqSzN1bWxUNThRQzIzUEw1aUVvTURFcnRnTVp3VUJ4VkpZbS1aTE5Rd3hvSGpYTEtIeWlkT0NVWk80Q3RROV93eXphOUY2QkFVY0NvS0FjQnh3NkNJeHdZdjAydnVBM1k?oc=5)
+
+---
+
