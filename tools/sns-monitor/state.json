@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-17T19:31:26.645Z",
+  "lastCheckedAt": "2026-11-17T19:41:21.323Z",
   "seenPostIds": {
     "8c31ead182f28c510d3330134b8cf11896cc9956d073ba5fd42e5a7bb8ccd7dd": {
       "seenAt": "2026-11-14T05:51:17.432Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-17T18:41:19.958Z",
       "title": "Fact-check: Did Trump warn of '90-day' nationwide blackout? Social media videos manipulated - WRAL",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ebfdde85a9a5a3ed73effaa8ac39844c4d1130225b1ee33366822eabd3f5254e": {
+      "seenAt": "2026-11-17T19:41:22.651Z",
+      "title": "'일본 입국 거부' 조국 \"과거 방문 땐 문제 없었는데...\" - OhmyNews",
+      "targetName": "조국"
     }
   },
   "pending": []
