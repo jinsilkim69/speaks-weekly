@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T16:51:18.506Z",
+  "lastCheckedAt": "2026-11-17T17:11:20.019Z",
   "seenPostIds": {
-    "afa7e1d35cf47876bd46e0adc4cf99b29a024637f63a00823967bdbb83cbdd54": {
-      "seenAt": "2026-11-14T05:21:19.450Z",
-      "title": "\"내가 왜 노무현 추천서를 받나\" 전한길 저격한 이준석 - 데일리안",
-      "targetName": "이준석"
-    },
     "3e44d3836528f91320ec86d7eb700b8350e4fd211dc39ddd23fb08c0b97febe1": {
       "seenAt": "2026-11-14T05:31:17.755Z",
       "title": "김동명, 조국혁신당에 정년연장 연내 입법 협력 요청 - 매일노동뉴스",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-17T16:51:19.740Z",
       "title": "Trump Media Climbs 3% After Buying Back $100 Million in Convertible Notes; Rumble Slides 3%, Meta Dips - 24/7 Wall St.",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "093df743222447d8591acc6c283b4d3d9c2d1d6372031c5b6e6aedb6e3bee2f9": {
+      "seenAt": "2026-11-17T17:11:21.115Z",
+      "title": "“한동훈 떨거지들 버릇 고치고”…국힘 윤리위원 ‘조작징계’ 증거 제시 - 중앙신문",
+      "targetName": "한동훈"
+    },
+    "a77a0a25e866398dd89dac8ace17ca570cf829444c7848b49f9bc34e9337204a": {
+      "seenAt": "2026-11-17T17:11:21.740Z",
+      "title": "추미애, 김민석에 \"신천지 허위 주장 사과로 끝낼 일 아냐\"…최민희 감찰 속 직접 등판 - 매일신문",
+      "targetName": "김민석"
     }
   },
   "pending": []
