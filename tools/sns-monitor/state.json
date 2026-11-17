@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T23:11:15.898Z",
+  "lastCheckedAt": "2026-11-17T23:21:17.366Z",
   "seenPostIds": {
-    "4cb9aa9118fae1f45cce4c19744d6a540c5c119c617ab06bb627359b4a8aaf86": {
-      "seenAt": "2026-11-14T07:21:17.995Z",
-      "title": "[속보] 한동훈, “李대통령, 조작기소특검법 직접 할 배짱 없으면 접어야” - 경기일보",
-      "targetName": "한동훈"
-    },
-    "fbca39d080105f7c979754541c73bb96ae879863018964848a6ef9b04d953d24": {
-      "seenAt": "2026-11-14T07:21:18.706Z",
-      "title": "\"노무현 대통령 추천으로 하버드 입학?\"…이준석, 전한길 추가 고소 예고 - 뉴시스",
-      "targetName": "이준석"
-    },
-    "0ac3d0cfab1dc349fab3e176da4572d724dd2fea6b295d41b600124352285564": {
-      "seenAt": "2026-11-14T07:31:19.585Z",
-      "title": "李대통령·尹 선거법 재판 두고 한동훈·최민희 SNS 설전 - 한국경제",
-      "targetName": "한동훈"
-    },
     "1f50a637c5ed405f89c785dfc662242565dcf20a4de17967a24a40a941ce4ce8": {
       "seenAt": "2026-11-14T07:41:15.216Z",
       "title": "한동훈·최민희 공직선거법 재판 설전…SNS 공방 : 정치 - 재경일보",
@@ -2515,24 +2500,17 @@
       "seenAt": "2026-11-17T23:11:18.141Z",
       "title": "Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - 13WHAM-TV",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "0b772906c004c1434eaf3b9433ef02330f3d1d51cb808139734519896d790118": {
+      "seenAt": "2026-11-17T23:21:18.444Z",
+      "title": "Senator Slotkin says Trump “hitting rock bottom” with call to prosecute her, others - WKZO",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "1b91773ca650a3a8d099873c7cde40718d4dae3961d4f420d632fc5851c0aa41": {
+      "seenAt": "2026-11-17T23:21:19.048Z",
+      "title": "[속보] 추미애 “김민석, 윤리위 판단 받아야...‘신천지 비밀연합’ 근거 없어” - 경기일보",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "0b772906c004c1434eaf3b9433ef02330f3d1d51cb808139734519896d790118",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Senator Slotkin says Trump “hitting rock bottom” with call to prosecute her, others - WKZO",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE54YjlhZl9aQmpVTFhERTh3YWtuLUxVQmloeEZhMUw2TUxOdjF3YmU1cmlIamRlUGJ2WVNZZ1p5ZkRDTEdJNmNoTWdnVQ?oc=5\" target=\"_blank\">Senator Slotkin says Trump “hitting rock bottom” with call to prosecute her, others</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKZO</font>",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54YjlhZl9aQmpVTFhERTh3YWtuLUxVQmloeEZhMUw2TUxOdjF3YmU1cmlIamRlUGJ2WVNZZ1p5ZkRDTEdJNmNoTWdnVQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 14:52:56 GMT",
-        "source": "WKZO",
-        "ageHours": 8.3
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

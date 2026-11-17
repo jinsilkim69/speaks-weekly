@@ -3615,3 +3615,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Senator Slotkin says Trump “hitting rock bottom” with call to prosecute her, others - WKZO
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Senator Slotkin says Trump “hitting rock bottom” with call to prosecute her, others
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE54YjlhZl9aQmpVTFhERTh3YWtuLUxVQmloeEZhMUw2TUxOdjF3YmU1cmlIamRlUGJ2WVNZZ1p5ZkRDTEdJNmNoTWdnVQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [속보] 추미애 “김민석, 윤리위 판단 받아야...‘신천지 비밀연합’ 근거 없어” - 경기일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애 “김민석, 윤리위 판단 받아야...‘신천지 비밀연합’ 근거 없어”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wWm4wclFmRjVOYWM1OEhWNU5mTlpsRk5EaGhNUk1RN0hhcjNmSllpYnFUQlR0ZEQyM1dwcjhJQWIzMkZ1QkJiZTMwS01ydXhwUllHZWFtanRKSUE?oc=5)
+
+---
+
