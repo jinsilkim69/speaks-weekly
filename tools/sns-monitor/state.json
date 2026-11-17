@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-16T22:51:24.306Z",
+  "lastCheckedAt": "2026-11-17T03:33:41.005Z",
   "seenPostIds": {
-    "0bed45a76dfec8fcc0572d4746f7d50954d86a8e84b2911fd2512adc79e50500": {
-      "seenAt": "2026-11-13T07:31:17.867Z",
-      "title": "민주당 박범계·이해식 조국혁신당과 통합 엑스맨? 논의 없는 일방적 메시지가 원인 - Howl.Link",
-      "targetName": "조국"
-    },
-    "4d6c6a32f42c45e8cfde23a58192aed5015d4b7e1d5a90f274b23b082249c43d": {
-      "seenAt": "2026-11-13T07:31:18.583Z",
-      "title": "한동훈, 복당 贊 29%·反 40%...국힘 지지층선 贊 48% 反 39% [한국갤럽] - 중앙신문",
-      "targetName": "한동훈"
-    },
-    "4f80525964a7b8780f0d7ec7b6d1d1b87da7e9189e92a7d8a213f152938d50b8": {
-      "seenAt": "2026-11-13T07:31:19.323Z",
-      "title": "이준석 “한동훈, 욕쟁이 할머니집인데 맛도 없다···가라고 강요하면 폭력” - 주간경향",
-      "targetName": "이준석"
-    },
     "9600c1d36f289d6b25fe44303abf3bc8b1bb42578e07b553cb7f8a96923fd094": {
       "seenAt": "2026-11-13T07:41:17.328Z",
       "title": "'한동훈 복당' 놓고 갈등 증폭...장동혁은 안철수와 회동 - 파이낸셜뉴스",
@@ -2515,7 +2500,471 @@
       "seenAt": "2026-11-16T22:51:26.417Z",
       "title": "‘Trump Is Such BS’: MS Now Host Explodes On President Over FAA ‘Blame Game’ - Yahoo News Singapore",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f6e02df44b2dbdf3b8308bfa498697b712f60452183e8a5df529188941178fc6": {
+      "seenAt": "2026-11-17T03:33:42.131Z",
+      "title": "이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 대한민국 정책브리핑",
+      "targetName": "이재명"
+    },
+    "36349b0ef6b16503e5019a72379fa0de375805a09508ff34802860868dabefd6": {
+      "seenAt": "2026-11-17T03:33:42.757Z",
+      "title": "이재명 대통령, 아누틴 찬위라꾼 태국 총리와 정상회담 - 정경시사 FOCUS",
+      "targetName": "이재명"
+    },
+    "b7ddd3fb341281d7c24bf311dc0b7fdfdfb9775ccae65e245148438a0e8f5af5": {
+      "seenAt": "2026-11-17T03:33:43.407Z",
+      "title": "장동혁, 한동훈 장인상 조문… 7분간 머물러 - 조선일보",
+      "targetName": "한동훈"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "794a2493ea49ae342876eab024c4cf3aa378d513a96c27781d9dc9fbbc9c0bfe",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "장동혁, 한동훈 빙부상 조문 … 국민의힘 지도부와 함께 빈소 찾아 - 뉴데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9sRWxfVmd0SFQtTjhnMG5kV0NSYXRlZThEeGtVam5hTVVXYm9EYVhVbUc0Z09CdWZvT2FMMGs3OEh6SExCZVdKLW5ETmVhVXk2TTlDazBRMnVZckJqSmRmUHB1cl9ndTZld0tTbkNXQXFCY3JNTUowTGJuVdIBgAFBVV95cUxQZFdVcHZ3Y2M5VEdjZGV3RGk4VjhjVE1haEYtSFdMbVl0TEFUbnN0NmpKMjlJd2t4QW5sdVFXa2lqcU5Va2U0OFNSeURTbUhhRWJRNDNnSDUtcElEc2tTLXhyangtQUZxVFo4VVhVUjMzT2lBbTJ3THlWUi1Ha1NCRA?oc=5\" target=\"_blank\">장동혁, 한동훈 빙부상 조문 … 국민의힘 지도부와 함께 빈소 찾아</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sRWxfVmd0SFQtTjhnMG5kV0NSYXRlZThEeGtVam5hTVVXYm9EYVhVbUc0Z09CdWZvT2FMMGs3OEh6SExCZVdKLW5ETmVhVXk2TTlDazBRMnVZckJqSmRmUHB1cl9ndTZld0tTbkNXQXFCY3JNTUowTGJuVdIBgAFBVV95cUxQZFdVcHZ3Y2M5VEdjZGV3RGk4VjhjVE1haEYtSFdMbVl0TEFUbnN0NmpKMjlJd2t4QW5sdVFXa2lqcU5Va2U0OFNSeURTbUhhRWJRNDNnSDUtcElEc2tTLXhyangtQUZxVFo4VVhVUjMzT2lBbTJ3THlWUi1Ha1NCRA?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 00:24:00 GMT",
+        "source": "뉴데일리",
+        "ageHours": 3.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "840e2c4304ddf4a8db9cbb84b2341b457499915ced46bac5be6aca802473c56a",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "'최민희 사태', 김민석에게 필요한 리더십 - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQekJuVExIRmFwMWtRd29GSHFxVFBuTHlncHNtXzQxRDBKS05UYVBrTHR4TmgwZlU2c2paMmt2dUl4TmdUWHdqYVFyMFF1QXpMSHNLdWV4eVdJY2YwS0NreDNZWnhuOTNHUmRRaC1iOHBIS25VMUYzaFFrSzFOVG95eER1UXpmdE1yc1E?oc=5\" target=\"_blank\">'최민희 사태', 김민석에게 필요한 리더십</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQekJuVExIRmFwMWtRd29GSHFxVFBuTHlncHNtXzQxRDBKS05UYVBrTHR4TmgwZlU2c2paMmt2dUl4TmdUWHdqYVFyMFF1QXpMSHNLdWV4eVdJY2YwS0NreDNZWnhuOTNHUmRRaC1iOHBIS25VMUYzaFFrSzFOVG95eER1UXpmdE1yc1E?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 21:49:00 GMT",
+        "source": "OhmyNews",
+        "ageHours": 5.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "fe16a82ffff8c4d80d90e0abedb611190c36bd67ccfe70d4a3ae0e81531bc788",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 \"AI 부정행위 적발시 응시자격 10년 제한 입법 추진\" - 진일보 | 전남일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE0wMHY3ZVBoNWlRMnB2dlBxc0IzQkgwb3Ryd2s5RkNrcnpwUDFOT0pUdEdxeFF0Vmd3Uks1MnJ2VHBvdld1RmkzOVNYLVZ6a0RXVm9zaDZaTlo1YkNfQXF3UmQ0THFLTzYxSno5dl9uNA?oc=5\" target=\"_blank\">김민석 \"AI 부정행위 적발시 응시자격 10년 제한 입법 추진\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">진일보 | 전남일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wMHY3ZVBoNWlRMnB2dlBxc0IzQkgwb3Ryd2s5RkNrcnpwUDFOT0pUdEdxeFF0Vmd3Uks1MnJ2VHBvdld1RmkzOVNYLVZ6a0RXVm9zaDZaTlo1YkNfQXF3UmQ0THFLTzYxSno5dl9uNA?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 00:25:08 GMT",
+        "source": "진일보 | 전남일보",
+        "ageHours": 3.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "fc9897fb48473dea64ebb8d1ec102fea36aa9b9ed623432ac19027245e77019a",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 “수능 AI 부정행위에 단호히 대응…잠재적 범죄자 취급은 경계” - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OLUNvQl9nd1ZWbFVHWDh3WkVQWnBOTHM2XzZIUXNuZnBoc1lVaC1xZEF5amdFMkdJTG5oQ1d2QmRtelFuMlNqU1dPTDMtTEUyUGF4T2Rn?oc=5\" target=\"_blank\">김민석 “수능 AI 부정행위에 단호히 대응…잠재적 범죄자 취급은 경계”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OLUNvQl9nd1ZWbFVHWDh3WkVQWnBOTHM2XzZIUXNuZnBoc1lVaC1xZEF5amdFMkdJTG5oQ1d2QmRtelFuMlNqU1dPTDMtTEUyUGF4T2Rn?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 00:17:04 GMT",
+        "source": "중앙일보",
+        "ageHours": 3.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ba34de1867fadb2923d7167e9404124835abff21b86781f73cfba0685ba837e7",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 \"AI 부정행위 적발 시 '응시 10년 제한'…입법안 낸다\" - 매일일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hd1pIRkxkSzRHemk5Q2RfNjU0QVhneE9HQXY0QThSUlNBbEdPTzJvcXh5SzVTeF9fcEdoSFpHZU1jaFpkOGlqOFZmZ2sxSDY5dUFscUkzMTBfVFZtSVhIUGVtalA?oc=5\" target=\"_blank\">김민석 \"AI 부정행위 적발 시 '응시 10년 제한'…입법안 낸다\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hd1pIRkxkSzRHemk5Q2RfNjU0QVhneE9HQXY0QThSUlNBbEdPTzJvcXh5SzVTeF9fcEdoSFpHZU1jaFpkOGlqOFZmZ2sxSDY5dUFscUkzMTBfVFZtSVhIUGVtalA?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 00:07:24 GMT",
+        "source": "매일일보",
+        "ageHours": 3.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "644e66ba564a96ca6664225bfef09c615099fcbfca4435dba5146e6ab0833021",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "박지원 “김민석, 정청래 안 만나주면 집 앞에 서 있어야” [김은지의 뉴스IN] - 시사IN",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE96aVl3eGZSS3dFVDJabHlsbkpibWhDbzRHaXprNWpyTy1PTFpJdVI5R0I1dnJJSVJmb2JKQmNjWWVGQ1JLVXlBbTBWZzZ0bUVGQlBIYXBmUVYwa2tkYVQ4R0VaeUlidl9fREE?oc=5\" target=\"_blank\">박지원 “김민석, 정청래 안 만나주면 집 앞에 서 있어야” [김은지의 뉴스IN]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사IN</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96aVl3eGZSS3dFVDJabHlsbkpibWhDbzRHaXprNWpyTy1PTFpJdVI5R0I1dnJJSVJmb2JKQmNjWWVGQ1JLVXlBbTBWZzZ0bUVGQlBIYXBmUVYwa2tkYVQ4R0VaeUlidl9fREE?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 23:18:51 GMT",
+        "source": "시사IN",
+        "ageHours": 4.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "e93597f9bfefd8d2cf312dfc1ba2dd72c541daaa232d57a30b5bacaea97173c0",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "인터뷰 전문: 성치훈 “정청래, 최민희 옹호하면 같이 죽어…김민석 만날 때 됐다” [정치시그널] - 채널A",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE11ZGhWZkJObV9wNGdzYjBRVjBPbTl0Rld3NExfd0RlTExVUzFEN2tDZTN5MGJveUprdURoMHpka2JSOGxJOUVqR3BYNk1ZY0h6VVlDMW9ObjUzNnhUUGfSAWNBVV95cUxOWk1SOUpVeGpJcjhXUHlIcWROZEpEWUdlV2djeTcyS0ZTUVJORWFQNFpMakc3YlVQWk56UVJRYlBRUWVrZHpYY3ZHbmFlRXRyOFRQTWdub18wZXZpYlFKUjhEQ00?oc=5\" target=\"_blank\">인터뷰 전문: 성치훈 “정청래, 최민희 옹호하면 같이 죽어…김민석 만날 때 됐다” [정치시그널]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11ZGhWZkJObV9wNGdzYjBRVjBPbTl0Rld3NExfd0RlTExVUzFEN2tDZTN5MGJveUprdURoMHpka2JSOGxJOUVqR3BYNk1ZY0h6VVlDMW9ObjUzNnhUUGfSAWNBVV95cUxOWk1SOUpVeGpJcjhXUHlIcWROZEpEWUdlV2djeTcyS0ZTUVJORWFQNFpMakc3YlVQWk56UVJRYlBRUWVrZHpYY3ZHbmFlRXRyOFRQTWdub18wZXZpYlFKUjhEQ00?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 01:24:00 GMT",
+        "source": "채널A",
+        "ageHours": 2.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "6f8acfbf73c0a8a5a184ca95cd9ad2d28cb32a26ca595d05f6e4bcf0095b15f6",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "與송영길 \"김민석·정청래 만나 대타협해야…포용해서 함께 가야\" - 조선일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNbm84RnFDZ1lDaEpRNFM5Mm5yelZET2tZWkNQUml4NTFSSWdCWW00LVQ0RWR1SmpGQ1B3bldsaWN1RWVqMVlGNWZ5a3hUN3pydXZybmpYLTdNc0xEdWgzZU9pa1VIVkdCaHItY3QybXZSZlZ1RkNranZjR25veGZiUkRzTXFEQQ?oc=5\" target=\"_blank\">與송영길 \"김민석·정청래 만나 대타협해야…포용해서 함께 가야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbm84RnFDZ1lDaEpRNFM5Mm5yelZET2tZWkNQUml4NTFSSWdCWW00LVQ0RWR1SmpGQ1B3bldsaWN1RWVqMVlGNWZ5a3hUN3pydXZybmpYLTdNc0xEdWgzZU9pa1VIVkdCaHItY3QybXZSZlZ1RkNranZjR25veGZiUkRzTXFEQQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 00:59:00 GMT",
+        "source": "조선일보",
+        "ageHours": 2.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "65490f91bfe5395b79465aa7d7eb2bb453fe77398c0585a835a99463f089d299",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "조계원 \"경고 받은 최민희, 엄중징계 불가피...정청래? 침묵 말고 입장 내야\" - YTN",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DcFhVaVhuVWNHd3JZUkxKdW9MMnBEbzZQS3BPVjJHSGItSUIxS05yWkp2S1VYU2tGNmFRamZ4UThQNmJQSnFDRU9jZVIwY2R1ZUdVc0lISHJKWGFvOUE?oc=5\" target=\"_blank\">조계원 \"경고 받은 최민희, 엄중징계 불가피...정청래? 침묵 말고 입장 내야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DcFhVaVhuVWNHd3JZUkxKdW9MMnBEbzZQS3BPVjJHSGItSUIxS05yWkp2S1VYU2tGNmFRamZ4UThQNmJQSnFDRU9jZVIwY2R1ZUdVc0lISHJKWGFvOUE?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 10:15:00 GMT",
+        "source": "YTN",
+        "ageHours": 17.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "a57cdd48a94589e90c222ddf248af70d8abb437c05b4ef2c3ecc249eb426b899",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "송영길 \"김민석·정청래, 대타협해야…집안싸움 할 때 아냐\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE41N1pGOXloV0k4QTdIUFF1c2tuM1ZGMzcwb2RJOGFiN1NIMktEZ2dRTTZqT19WOW5qQ09RLVg1UU5TQk4zbjFNQ0FJUHQwMWt3X1pRQjdzRlZvUHNaTWxyeWloNjNrMGxGYzBuT1VaTjZ6R2VabFV0ZUZR0gF_QVVfeXFMUG11bkJ3djJtcXZod2ZzQjFLUDhZZ1ZDQmQ0WE1BNlNPRmpmMWxhM0RweDF0UV92NzZZOU5kX0tEa1U2eEU5ZGZTNjl0TkhnSzhkbWpWWDh5VjhmNktoY2lPcThQd1JVMUJNeHRXS0NKTWRVUmRONGcwdW9jWnhIcw?oc=5\" target=\"_blank\">송영길 \"김민석·정청래, 대타협해야…집안싸움 할 때 아냐\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41N1pGOXloV0k4QTdIUFF1c2tuM1ZGMzcwb2RJOGFiN1NIMktEZ2dRTTZqT19WOW5qQ09RLVg1UU5TQk4zbjFNQ0FJUHQwMWt3X1pRQjdzRlZvUHNaTWxyeWloNjNrMGxGYzBuT1VaTjZ6R2VabFV0ZUZR0gF_QVVfeXFMUG11bkJ3djJtcXZod2ZzQjFLUDhZZ1ZDQmQ0WE1BNlNPRmpmMWxhM0RweDF0UV92NzZZOU5kX0tEa1U2eEU5ZGZTNjl0TkhnSzhkbWpWWDh5VjhmNktoY2lPcThQd1JVMUJNeHRXS0NKTWRVUmRONGcwdW9jWnhIcw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 01:18:06 GMT",
+        "source": "머니투데이",
+        "ageHours": 2.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "63ddc27a6c1053ffe4761abe1850c60eb7a6f6fcdc840eb361a8df413d7a7f74",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 \"김민석·정청래, 대타협해야…집안싸움 할 때 아냐\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE41N1pGOXloV0k4QTdIUFF1c2tuM1ZGMzcwb2RJOGFiN1NIMktEZ2dRTTZqT19WOW5qQ09RLVg1UU5TQk4zbjFNQ0FJUHQwMWt3X1pRQjdzRlZvUHNaTWxyeWloNjNrMGxGYzBuT1VaTjZ6R2VabFV0ZUZR0gF_QVVfeXFMUG11bkJ3djJtcXZod2ZzQjFLUDhZZ1ZDQmQ0WE1BNlNPRmpmMWxhM0RweDF0UV92NzZZOU5kX0tEa1U2eEU5ZGZTNjl0TkhnSzhkbWpWWDh5VjhmNktoY2lPcThQd1JVMUJNeHRXS0NKTWRVUmRONGcwdW9jWnhIcw?oc=5\" target=\"_blank\">송영길 \"김민석·정청래, 대타협해야…집안싸움 할 때 아냐\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41N1pGOXloV0k4QTdIUFF1c2tuM1ZGMzcwb2RJOGFiN1NIMktEZ2dRTTZqT19WOW5qQ09RLVg1UU5TQk4zbjFNQ0FJUHQwMWt3X1pRQjdzRlZvUHNaTWxyeWloNjNrMGxGYzBuT1VaTjZ6R2VabFV0ZUZR0gF_QVVfeXFMUG11bkJ3djJtcXZod2ZzQjFLUDhZZ1ZDQmQ0WE1BNlNPRmpmMWxhM0RweDF0UV92NzZZOU5kX0tEa1U2eEU5ZGZTNjl0TkhnSzhkbWpWWDh5VjhmNktoY2lPcThQd1JVMUJNeHRXS0NKTWRVUmRONGcwdW9jWnhIcw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 01:18:06 GMT",
+        "source": "머니투데이",
+        "ageHours": 2.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "eacbfa0fc885b696fb9aff44bb3ebd16dd93521ea435c1156724461f25a59e9d",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 \"金·鄭 만나 대타협 해야‥대통령도 당내 문제 걱정\" - MBC 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0xYTE0WUFVQnVMWmd5MXd4dXBINmxuMF9LaDBHX1pwVm1ka0VIWEduakU2OUFQMjU2ZnpTd2s3UWxoOThhU1BBVUlRTXRDV3R1MFZ4TlFicWpQZE04blV2TEtPTmRTT2oxTFFJclUyc1NKQWhUd0paOdIBeEFVX3lxTE1FMUhaNi1GYy1UQ2RmemozdDNmTEtTNHBDOFhqcFpNdExYWnVkQktHXzdHZ2E1MEJsWjVmeWxVREllZkN6YU13akQ1Z0hPZEo1dHd4TzZnVmlaVFZXSzl1dFZ0eG5VMWpGVDNxaWNCaTFVUy1UN3owMQ?oc=5\" target=\"_blank\">송영길 \"金·鄭 만나 대타협 해야‥대통령도 당내 문제 걱정\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xYTE0WUFVQnVMWmd5MXd4dXBINmxuMF9LaDBHX1pwVm1ka0VIWEduakU2OUFQMjU2ZnpTd2s3UWxoOThhU1BBVUlRTXRDV3R1MFZ4TlFicWpQZE04blV2TEtPTmRTT2oxTFFJclUyc1NKQWhUd0paOdIBeEFVX3lxTE1FMUhaNi1GYy1UQ2RmemozdDNmTEtTNHBDOFhqcFpNdExYWnVkQktHXzdHZ2E1MEJsWjVmeWxVREllZkN6YU13akQ1Z0hPZEo1dHd4TzZnVmlaVFZXSzl1dFZ0eG5VMWpGVDNxaWNCaTFVUy1UN3owMQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 01:01:58 GMT",
+        "source": "MBC 뉴스",
+        "ageHours": 2.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ecc29e65b951f8e0a26503fc85423c7ca48637c59dc61b702f1add68ccb861dd",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "與송영길 \"김민석·정청래 만나 대타협해야…포용해서 함께 가야\" - 조선일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNbm84RnFDZ1lDaEpRNFM5Mm5yelZET2tZWkNQUml4NTFSSWdCWW00LVQ0RWR1SmpGQ1B3bldsaWN1RWVqMVlGNWZ5a3hUN3pydXZybmpYLTdNc0xEdWgzZU9pa1VIVkdCaHItY3QybXZSZlZ1RkNranZjR25veGZiUkRzTXFEQQ?oc=5\" target=\"_blank\">與송영길 \"김민석·정청래 만나 대타협해야…포용해서 함께 가야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbm84RnFDZ1lDaEpRNFM5Mm5yelZET2tZWkNQUml4NTFSSWdCWW00LVQ0RWR1SmpGQ1B3bldsaWN1RWVqMVlGNWZ5a3hUN3pydXZybmpYLTdNc0xEdWgzZU9pa1VIVkdCaHItY3QybXZSZlZ1RkNranZjR25veGZiUkRzTXFEQQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 00:59:00 GMT",
+        "source": "조선일보",
+        "ageHours": 2.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4712a3b209d2d31d5f64d702e66e94b527b1e128f406077f29a514c516050b35",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 “북미도 만나는데... 김민석·정청래 만나서 대타협 해야” - 이데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ1JfUmRBRE51X2JLYkhPRHBOcWU3SEprZkVzVlRtenhZbjdSN0IxYVhIWk1YR3RFMEw0aHBGdjhsZ0RVNmJoaVFMNW8zbkZRRkNoODVjN1ZDYUFwajlrUkVBaHgzaW5rSTdxOFg1Mkt5dldwT1JuWHpGQ29mZkN1Ng?oc=5\" target=\"_blank\">송영길 “북미도 만나는데... 김민석·정청래 만나서 대타협 해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ1JfUmRBRE51X2JLYkhPRHBOcWU3SEprZkVzVlRtenhZbjdSN0IxYVhIWk1YR3RFMEw0aHBGdjhsZ0RVNmJoaVFMNW8zbkZRRkNoODVjN1ZDYUFwajlrUkVBaHgzaW5rSTdxOFg1Mkt5dldwT1JuWHpGQ29mZkN1Ng?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 00:05:45 GMT",
+        "source": "이데일리",
+        "ageHours": 3.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "65fe93f59b8ae4a8b428484e7d70a489362c9a35211e07cf2fda43b14394436a",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "부산상의, 송영길 대통령 외교특보 초청 특강 진행 - 메트로신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE00c1dfX3Y3bGJISkpuUkx1bS13Z1M1cnVxVTBzMnkxaVYtWHlNdFRwRW5kTzdoNTdWOFRCdV9CTHBTcWZCdC15Qk1vakZLQnNJbXMyMkczUWRYcFJmeXpfYQ?oc=5\" target=\"_blank\">부산상의, 송영길 대통령 외교특보 초청 특강 진행</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">메트로신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00c1dfX3Y3bGJISkpuUkx1bS13Z1M1cnVxVTBzMnkxaVYtWHlNdFRwRW5kTzdoNTdWOFRCdV9CTHBTcWZCdC15Qk1vakZLQnNJbXMyMkczUWRYcFJmeXpfYQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 00:21:01 GMT",
+        "source": "메트로신문",
+        "ageHours": 3.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "caa76a1ea1e7692d5fa4d53a3c864ebab8e22dc15d162283fda7e8092ca35ac0",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석, 수능 AI 부정행위 탐지앱 영국행 비행기서 직접 개발 \"교육부 장관 답변에 한숨\" - 매일신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE15LWVpaTNZcUthNWl0LUs0aXVqUlVZeXZ2N2I1dERhM05neUtYZEJETk1MM1dvNWVsc2l4VWlZUlVTSE1ibEpGTUpSeDA0MjJEOUt6aHRoNnRyaGRYNENvT193?oc=5\" target=\"_blank\">이준석, 수능 AI 부정행위 탐지앱 영국행 비행기서 직접 개발 \"교육부 장관 답변에 한숨\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15LWVpaTNZcUthNWl0LUs0aXVqUlVZeXZ2N2I1dERhM05neUtYZEJETk1MM1dvNWVsc2l4VWlZUlVTSE1ibEpGTUpSeDA0MjJEOUt6aHRoNnRyaGRYNENvT193?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 02:21:04 GMT",
+        "source": "매일신문",
+        "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "37201d15b5a717acb51eb9ed214952f7c3d07ea2e012e6ca3024497b28e40b7c",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석 \"AI 커닝 방지 앱 개발\"…교육부에 사용 허가 요청 - news.sbs.co.kr",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjA0dVJQV0lXSm9ySG5VbnhpLXlqOGQ3ak9EUE13dkdDS25WbkcwOG5nZUpJLTNMbHdib2ZNZXFtWjBnMDNRaXJUQVJaeWhwcl9reThnWVZpTUhyaU85Xzh1WU1mYmRZRzdxZUxCd3FSZWtmWWlxMl9pb0N2UlJaNEQyNVVKLWYxTDQ2NTlPaw?oc=5\" target=\"_blank\">이준석 \"AI 커닝 방지 앱 개발\"…교육부에 사용 허가 요청</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.sbs.co.kr</font>",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjA0dVJQV0lXSm9ySG5VbnhpLXlqOGQ3ak9EUE13dkdDS25WbkcwOG5nZUpJLTNMbHdib2ZNZXFtWjBnMDNRaXJUQVJaeWhwcl9reThnWVZpTUhyaU85Xzh1WU1mYmRZRzdxZUxCd3FSZWtmWWlxMl9pb0N2UlJaNEQyNVVKLWYxTDQ2NTlPaw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 03:25:35 GMT",
+        "source": "news.sbs.co.kr",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "a2fcb859855961bf7572dda045e1919cb958f92db056d1b1d49f3881e61d75ee",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "AI 커닝 대책? 이준석은 '전파탐지 앱', 장동혁은 '수능 연기' - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBGQzNJNTRnd1ExUWtaYlRXRUhVTl9wRTFfdk11N3lZVDhpRkM3aWJvM2R3TnRTYl9zbTZfazBCa1RTbWgyWGJSUHpOYU5HT1J4UWp5bjFFY0lIMUJPamk3Qkk3YnluaDRNRnE0VmdKOFRSX3M4eTFr?oc=5\" target=\"_blank\">AI 커닝 대책? 이준석은 '전파탐지 앱', 장동혁은 '수능 연기'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGQzNJNTRnd1ExUWtaYlRXRUhVTl9wRTFfdk11N3lZVDhpRkM3aWJvM2R3TnRTYl9zbTZfazBCa1RTbWgyWGJSUHpOYU5HT1J4UWp5bjFFY0lIMUJPamk3Qkk3YnluaDRNRnE0VmdKOFRSX3M4eTFr?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 02:57:00 GMT",
+        "source": "OhmyNews",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ee76255fb7f787d1bf1b0522865e860d7efbaef3485624826cc91f684bbf9044",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석, 직접 만든 ‘AI 커닝 탐지 앱’ 공개…“정부가 적극 검증해야” - 서울신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBxVml1Q2pkbzdsVVJaY3Zya2NWb2t4NEpma1RXNTYtZU9aRC1kTFJHaFRDVTZZMFYyZk5maHpRV2Q4WUN4SjBCNFg2RzlKLW55eVNwTXBLaTZESHdVLWs5OFhHY0tNSnFZNV9yWkZnank?oc=5\" target=\"_blank\">이준석, 직접 만든 ‘AI 커닝 탐지 앱’ 공개…“정부가 적극 검증해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxVml1Q2pkbzdsVVJaY3Zya2NWb2t4NEpma1RXNTYtZU9aRC1kTFJHaFRDVTZZMFYyZk5maHpRV2Q4WUN4SjBCNFg2RzlKLW55eVNwTXBLaTZESHdVLWs5OFhHY0tNSnFZNV9yWkZnank?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 02:41:29 GMT",
+        "source": "서울신문",
+        "ageHours": 0.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5a9fc98e917a4c1e6e4f99f01164c0431076a0b9664346ef5cb326e82b3a00dc",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석, 기내서 '수능 부정행위' 탐지 앱 개발…교육부에 검증 제안 - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQLW9ITVNYYzk0RXhENS01blV6YVREQ0o4QkNsdm5qb0RTd1ZPV2pwaFEwUUJsYW1NMm50Ykk4bFNPbmROUl95YVdsTlVDODVObHFuVTdBeUVYTU94S000azl6VGRBWmFDd21Vb0pzWUtGQUFJaENjYlhZZ1N1bk9XMUJrdWpZZ1ZnT18yOU0wRWkxaDhiZ2xFV29iZVZYVVFPME5jWkVrVjVaZVZKaVZJbDdQOFlIVDVxLTVJMmd4Z2F0eHJ3VkRUdWNobzk2YlNMVWpjQU5FMEJTQ3QyQ2JPRTVxOGt3a0txVVFEb0RqVDR6OE5TaFUwbEhxMnZSXzM4SHZlRUw3aktqZno4R21sUVhNRF9fNFoz?oc=5\" target=\"_blank\">이준석, 기내서 '수능 부정행위' 탐지 앱 개발…교육부에 검증 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQLW9ITVNYYzk0RXhENS01blV6YVREQ0o4QkNsdm5qb0RTd1ZPV2pwaFEwUUJsYW1NMm50Ykk4bFNPbmROUl95YVdsTlVDODVObHFuVTdBeUVYTU94S000azl6VGRBWmFDd21Vb0pzWUtGQUFJaENjYlhZZ1N1bk9XMUJrdWpZZ1ZnT18yOU0wRWkxaDhiZ2xFV29iZVZYVVFPME5jWkVrVjVaZVZKaVZJbDdQOFlIVDVxLTVJMmd4Z2F0eHJ3VkRUdWNobzk2YlNMVWpjQU5FMEJTQ3QyQ2JPRTVxOGt3a0txVVFEb0RqVDR6OE5TaFUwbEhxMnZSXzM4SHZlRUw3aktqZno4R21sUVhNRF9fNFoz?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 02:32:00 GMT",
+        "source": "데일리안",
+        "ageHours": 1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5048d8c237fe88e1e957b032ac38ea6342f3be59e2a89855106c57a8dbe1270b",
+        "targetId": "cheon_haram",
+        "targetName": "천하람",
+        "targetTitle": "개혁신당 원내대표",
+        "title": "‘열화상카메라’ 마지막 희망?…“AI커닝 잡을 가능성 매우 낮아” 천하람 알아보니 - 헤럴드경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbjVVemhDbEloWXFSeWZ4VTVUdlBqTjdSa1NIXy1ROHFkM0kwMGFSR01oekFLU2pUZXhMSlhIZk9idUxLa0NDVk16WFVZRFRsZlJMRVhR?oc=5\" target=\"_blank\">‘열화상카메라’ 마지막 희망?…“AI커닝 잡을 가능성 매우 낮아” 천하람 알아보니</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbjVVemhDbEloWXFSeWZ4VTVUdlBqTjdSa1NIXy1ROHFkM0kwMGFSR01oekFLU2pUZXhMSlhIZk9idUxLa0NDVk16WFVZRFRsZlJMRVhR?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 02:21:12 GMT",
+        "source": "헤럴드경제",
+        "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "233c3faada74c53289657dcd91f115af7191bc4fe6dcf3be641b056b3d25cc90",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 \"또 뒤통수 맞을 것…한덕수 대법 판결 주목해야\" - 뉴스1",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TdGtwWW10Y2JvakNaTmhBSGF2ZU9fdEhhVkRLVHpmY1dQMmxSU0U0MmlEVjZLZFk4RUJHMGxIakZUVVFmU1ZMS196N082TGVzV1VLUjlJRUFoUQ?oc=5\" target=\"_blank\">조국 \"또 뒤통수 맞을 것…한덕수 대법 판결 주목해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TdGtwWW10Y2JvakNaTmhBSGF2ZU9fdEhhVkRLVHpmY1dQMmxSU0U0MmlEVjZLZFk4RUJHMGxIakZUVVFmU1ZMS196N082TGVzV1VLUjlJRUFoUQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 00:36:46 GMT",
+        "source": "뉴스1",
+        "ageHours": 2.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ea75e8e68861a15da06df80a3c46cc3d963d15f7c7e6be40871777388164bac0",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당 의원총회, 발언하는 김준형 원내대표 - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EYVc1cFpUY2E1QWRYcktLdTFpVnA2N2tVNndFb0t0YTNmaGR6LVMtckZxYmw1OXg2LTJ0V251QXdFM2Z5UnphaE14eXE4WWZhaGFQeENtWlVjc1BxRDV3WNIBYEFVX3lxTE5EYVc1cFpUY2E1QWRYcktLdTFpVnA2N2tVNndFb0t0YTNmaGR6LVMtckZxYmw1OXg2LTJ0V251QXdFM2Z5UnphaE14eXE4WWZhaGFQeENtWlVjc1BxRDV3WA?oc=5\" target=\"_blank\">조국혁신당 의원총회, 발언하는 김준형 원내대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EYVc1cFpUY2E1QWRYcktLdTFpVnA2N2tVNndFb0t0YTNmaGR6LVMtckZxYmw1OXg2LTJ0V251QXdFM2Z5UnphaE14eXE4WWZhaGFQeENtWlVjc1BxRDV3WNIBYEFVX3lxTE5EYVc1cFpUY2E1QWRYcktLdTFpVnA2N2tVNndFb0t0YTNmaGR6LVMtckZxYmw1OXg2LTJ0V251QXdFM2Z5UnphaE14eXE4WWZhaGFQeENtWlVjc1BxRDV3WA?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 00:47:50 GMT",
+        "source": "연합뉴스",
+        "ageHours": 2.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b6970ef94bebe992a7e0dd7b98e825d9723f3cf534b3f7fade7924da78150ede",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "삼성라이온즈 선수가 김민석·조국보다 훌륭한 시절 - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9jLW5MRlFXUF85RkFnTzVQeXZGd0U2T2VNU2hVRmVWTDBhNmhhZUtPMnZCTlhWMFQtWHdmcEY0VDlqZzBxd1VUWHhIZU9CekhPRlNOY1lVUEpUczVUQ0JqQXBOTi1rVkgyVm1pM3lVbVQ4NFgtT05r?oc=5\" target=\"_blank\">삼성라이온즈 선수가 김민석·조국보다 훌륭한 시절</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jLW5MRlFXUF85RkFnTzVQeXZGd0U2T2VNU2hVRmVWTDBhNmhhZUtPMnZCTlhWMFQtWHdmcEY0VDlqZzBxd1VUWHhIZU9CekhPRlNOY1lVUEpUczVUQ0JqQXBOTi1rVkgyVm1pM3lVbVQ4NFgtT05r?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 02:56:00 GMT",
+        "source": "OhmyNews",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "302353e78f75da411811f7e10bc73b037cddf1f7968639bbed2f2ea83f16d24a",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "[아침저널] 신장식 \"한덕수 구속과 대법원장 탄핵 연계? 曺 꼼수에 놀아나는 것\" - BBS불교방송",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5fX2dhVkxDYUk5UEtvYTNacG1xMGhncXZmeHlqRlpXMGlQdjRYZFRQUW5XNG16ZXdTV0d1UnB2V3A0VEduWHV5aHc0V1RON1ZtbVVnWTJ2MTFodnZkUnJxTjhxMTd5VTFSalJV?oc=5\" target=\"_blank\">[아침저널] 신장식 \"한덕수 구속과 대법원장 탄핵 연계? 曺 꼼수에 놀아나는 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBS불교방송</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fX2dhVkxDYUk5UEtvYTNacG1xMGhncXZmeHlqRlpXMGlQdjRYZFRQUW5XNG16ZXdTV0d1UnB2V3A0VEduWHV5aHc0V1RON1ZtbVVnWTJ2MTFodnZkUnJxTjhxMTd5VTFSalJV?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 23:52:55 GMT",
+        "source": "BBS불교방송",
+        "ageHours": 3.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5706f1e3233a2c3083bfa1a0a5a8135c6ab8b285225fd2f8d4615df3e188aa6d",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Fact Check: Trump Did NOT Post on Truth Social Urging People to 'Stock Up on at Least 90 Days of Food, Water and Essential Supplies' - Yahoo",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjRXdV9OUHdOQUZTeDU0MkthU2s4cklTSkNJZmZsZ3FNVUFJQW9EYU5NcUhlSVNpcUdCc2hhRzBFdHp0TmFwajlrdGVNWFc2b3FLRHlHZXYtZThEdnczeElWN0taMXVqZ2xNa0JEWktWV1FJMllZaFVIVlI4OEJQUUk0dVRwLWJXRHg5Ng?oc=5\" target=\"_blank\">Fact Check: Trump Did NOT Post on Truth Social Urging People to 'Stock Up on at Least 90 Days of Food, Water and Essential Supplies'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjRXdV9OUHdOQUZTeDU0MkthU2s4cklTSkNJZmZsZ3FNVUFJQW9EYU5NcUhlSVNpcUdCc2hhRzBFdHp0TmFwajlrdGVNWFc2b3FLRHlHZXYtZThEdnczeElWN0taMXVqZ2xNa0JEWktWV1FJMllZaFVIVlI4OEJQUUk0dVRwLWJXRHg5Ng?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 01:17:00 GMT",
+        "source": "Yahoo",
+        "ageHours": 2.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f276f8c1fdfe70803713514bd1c643e0a0d36b3ac3d80a739f125b04979de3a8",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit - Time Magazine",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUE41a3lwYTE2RjR3UUYwSGplLXBHdVJLYW5QVFllSWg1OTh0UXZCNE1pcXM2Yl9NSjdONjByYTB4dzRKUFZtUElkbDQ0T3ljR0xERzl0UE9jTFNPaTdrV0xfZDlVVF9uUE9iTzZDMHlqVVlyNkpPZzRLUGplaHJZWTMwMTlDbmVHNFQ2SG5fOUhUNWdPOUlQZWN1djJSY0dm?oc=5\" target=\"_blank\">Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Time Magazine</font>",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUE41a3lwYTE2RjR3UUYwSGplLXBHdVJLYW5QVFllSWg1OTh0UXZCNE1pcXM2Yl9NSjdONjByYTB4dzRKUFZtUElkbDQ0T3ljR0xERzl0UE9jTFNPaTdrV0xfZDlVVF9uUE9iTzZDMHlqVVlyNkpPZzRLUGplaHJZWTMwMTlDbmVHNFQ2SG5fOUhUNWdPOUlQZWN1djJSY0dm?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 22:59:48 GMT",
+        "source": "Time Magazine",
+        "ageHours": 4.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5e1b2d8810123a79626219b2e7db498bf0576155042ca6c7f27e0041d79a017d",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Don't panic over fake Trump post warning of disruptions to food supply, banking services - Snopes",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBJWThYczlGcGtqNDBva0M1SGxGNVYzbkkweHNxY0U3QXBXOHUtLXNKWGZadmdlYnZGeUROTGplaDJvUWE1blI1NGgxcU5MSExNdk94ODZoR2UyS3NKaV9nWTA1a0JXc2FheU1UNXRtbnQ?oc=5\" target=\"_blank\">Don't panic over fake Trump post warning of disruptions to food supply, banking services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Snopes</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJWThYczlGcGtqNDBva0M1SGxGNVYzbkkweHNxY0U3QXBXOHUtLXNKWGZadmdlYnZGeUROTGplaDJvUWE1blI1NGgxcU5MSExNdk94ODZoR2UyS3NKaV9nWTA1a0JXc2FheU1UNXRtbnQ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 21:53:03 GMT",
+        "source": "Snopes",
+        "ageHours": 5.7
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

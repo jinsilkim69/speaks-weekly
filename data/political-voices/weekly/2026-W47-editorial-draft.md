@@ -1496,3 +1496,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 대한민국 정책브리핑
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE94Vmx4WDhWNXdpdjBSNnpuSHpVbGQ5M3pEY2FhNTFGRkFJRVJLV3lDOS1tcl83RmFLS08yQzhNMWFlWG9EX2UzTnktZ0Q3eVdockpYSy0xZEFLeHh5QTlEakxpWlFqMENT?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 아누틴 찬위라꾼 태국 총리와 정상회담 - 정경시사 FOCUS
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 아누틴 찬위라꾼 태국 총리와 정상회담
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvWVhkeUNGZmlhUXc5a0FUektIbnFDcVR2WHpsRlpmQjJ1M2plUzdXNldad0s1VWhXS1VQTXg0MzdabTQzVjVYTXZlZEhJWlN2aExWWnB4aUpCbnI3MmQ3bWFmTGRFdkhN?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁, 한동훈 장인상 조문… 7분간 머물러 - 조선일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, 한동훈 장인상 조문… 7분간 머물러
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxObzFNRnBzQ3N1LWpicVU3aDdLTGprMEw3YzR5TkdvODlMMW9lUGp4dFVReUZlMlp2ZmJta2RiS0wwVDczRnVpcWlLTWdkeTd5cUdiME9KWEZrLTltWHhNdzlhN3VLb3RvZTRQOFFqWkdUTkFlOVdOWngzblFlYURJQnRjRVh3UQ?oc=5)
+
+---
+
