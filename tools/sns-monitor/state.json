@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T21:51:18.135Z",
+  "lastCheckedAt": "2026-11-17T22:11:19.778Z",
   "seenPostIds": {
-    "f74392f9d03544290b2a25f9b7d04a37a0646d0af53c12c78b547c17b69094ab": {
-      "seenAt": "2026-11-14T06:01:26.404Z",
-      "title": "‘하버드 학력 의혹’ 다시 꺼낸 전한길…이준석 “추가 형사 조치할 것” - 이데일리",
-      "targetName": "이준석"
-    },
     "268c2d71bb388f28525883fef22afb41c3d08e8a3dda70c4b6d54f82d7e06bca": {
       "seenAt": "2026-11-14T06:11:17.224Z",
       "title": "이준석, 전한길 추가 고소 예고…“노 대통령 추천서를 내가 어떻게 받나” - 한겨레",
@@ -2505,6 +2500,21 @@
       "seenAt": "2026-11-17T21:51:19.127Z",
       "title": "천하람 \"열화상 카메라로 AI 커닝 못 잡아…수능 연기해야\" - 파이낸셜뉴스",
       "targetName": "천하람"
+    },
+    "1485478ac5b9d621d6e3faa19ef36fc7dc5c38e928ca15303396064cd7195c2d": {
+      "seenAt": "2026-11-17T22:11:21.880Z",
+      "title": "추미애, 김민석 전대 발언 재소환…\"사과로 끝낼 일 아니다\" - 뉴스1",
+      "targetName": "김민석"
+    },
+    "a46da89904138af8410f0be65490231a2ac9b840629533ba068281228b7288bb": {
+      "seenAt": "2026-11-17T22:11:22.608Z",
+      "title": "추미애 “김민석, 신천지 사과로 끝낼 일 아니야···혼탁 전대 뒤 당 혼미” - 주간경향",
+      "targetName": "김민석"
+    },
+    "837533b5ebd96ca2746270b70c4e4ccae359d2fbc2d462e384501cbb730c336f": {
+      "seenAt": "2026-11-17T22:11:23.327Z",
+      "title": "Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - WSMH",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

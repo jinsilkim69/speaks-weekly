@@ -3459,3 +3459,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, 김민석 전대 발언 재소환…"사과로 끝낼 일 아니다" - 뉴스1
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, 김민석 전대 발언 재소환…"사과로 끝낼 일 아니다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE92ZFdWOU1XTTYzWHhkWHIwekMyS09YYmtNaTJvS0Zrd0dZRlMwLUNiRmplWUZJWDlvT2M3U296NDhrX3BwWlBWLTFSQUhvRGxpcFFhQ3dR?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애 “김민석, 신천지 사과로 끝낼 일 아니야···혼탁 전대 뒤 당 혼미” - 주간경향
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애 “김민석, 신천지 사과로 끝낼 일 아니야···혼탁 전대 뒤 당 혼미”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2VW8wYVdoeFk4eXVVWEY4blFtRE1Pc041bFFRb3FqUHEzRzducjV3dmtwcDZlMDFqMTRnd0JvaW4xZ19fbEZSUVE1dVVNTWVKYTFORm5PWVNrcVpkZWc?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - WSMH
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWmgwekk1Q051TmdINVM0V3ZhWFFRLWl2cWdzNHJwUHRTb0ROcmwtMkZlNFpkRUMwbGpWb0hvY3pRVGRvTkNPeTBsT3lYWVdGU0dReUtNZWhrQVFpcDJwRGpoLVU3ZVRRSjQzaFVvMEZXZXN3UEpQNk9rUkE5MjZYdWhzT2ZIRDBTeE1maWRDS0xrUWtpcXVaRnl2RUFnYWNVb2FSY2RtazlhRE9MYm1sRDBxTEd0dmFsMGtvNzVPYTdvcVVVMW1sZlpEQmpCRTlwMlRGVzRqazhleXNBZjJBSDVMWHN2Q0tjYXd5TkRWNGZlZmxMLVNXZlZNcw?oc=5)
+
+---
+
