@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T22:41:17.155Z",
+  "lastCheckedAt": "2026-11-17T22:51:18.635Z",
   "seenPostIds": {
-    "ba687c658ccd8268c13f406bda30c2e056c3128a59af7b763bf395d84d5f4306": {
-      "seenAt": "2026-11-14T06:41:17.453Z",
-      "title": "\"尹보다 李가 더 빼박\" 한동훈, 최민희에 \"우기지 말고 반박하라\" - 대전일보",
-      "targetName": "한동훈"
-    },
-    "02052916906bc3bf4f880e8a68cf6b6c7a893e69f9fa651beab163b9fa57a2c8": {
-      "seenAt": "2026-11-14T06:51:18.392Z",
-      "title": "한동훈 \"막 우기면 추해\"…李·尹 재판 두고 최민희와 공방 - 이데일리",
-      "targetName": "한동훈"
-    },
-    "bc6e024bc120e5dc92cb13f1354dfda7b0f9d4a7b347daea64ee8e1c7e2597dd": {
-      "seenAt": "2026-11-14T06:51:19.177Z",
-      "title": "‘가능한 사랑’ 영화평 남긴 조국 “전도연, 접신의 경지” - 문화일보",
-      "targetName": "조국"
-    },
     "5f0332aee256ebd2991e1535003ff4abdf7e8c1caa8431c3a1ccc7a2a952b399": {
       "seenAt": "2026-11-14T07:11:15.472Z",
       "title": "한동훈·최민희, '李대통령·尹 공직선거법 재판' 놓고 SNS 설전 - 연합뉴스",
@@ -2514,6 +2499,21 @@
     "ed297bf8dfd7bfc0b932df0efc1f41237010462409bed0f478933a93522c32bf": {
       "seenAt": "2026-11-17T22:41:19.614Z",
       "title": "President Trump Posts on Truth Social, Most Content Not Newsworthy - Forth.News",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "73aa58fadc0a19cfacfa7269f540e250e88a34f9b96268f5a51eaa026a06c51f": {
+      "seenAt": "2026-11-17T22:51:19.971Z",
+      "title": "추미애, 김민석 향해 \"신천지 주장, 사과로 끝낼 문제 아냐\" - 뉴시스",
+      "targetName": "김민석"
+    },
+    "f62134d79404f7d307fff55b774cfd3aaea445329c89238d6dafe75c33ddfac7": {
+      "seenAt": "2026-11-17T22:51:20.680Z",
+      "title": "추미애 “김민석 사과로 끝낼 일 아냐”…민주당 윤리심판원 판단 촉구 - 이투데이",
+      "targetName": "김민석"
+    },
+    "4fac45ae4328f7e1900fcdcfca6ab55f54a5335842799f52860bfc320615f99a": {
+      "seenAt": "2026-11-17T22:51:21.381Z",
+      "title": "Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - KEYE",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },

@@ -573,5 +573,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "73aa58fadc0a19cfacfa7269f540e250e88a34f9b96268f5a51eaa026a06c51f",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "추미애, 김민석 향해 \"신천지 주장, 사과로 끝낼 문제 아냐\" - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FdkxudE0zNVJIdkRpWkNsdXh1UFRzc05sNlNWV19zNXNfbnRhb3F6d3I2WDFkRXJ1Y1FDbWY2MTZza2lKU2ZwMmRwTWlVai1SenFaY0lXLU52YlVsd2lkVdIBeEFVX3lxTE1mR1l3NXJ0T3hiRzROWEhVNF9ibVRXSVBTeHBGdjR1WV9YZXB0Z3B2TVBXNE81SGdydlh2Yjl4Yy1nZUF0NFc4TDNyc0JzcllUTlRSUkprUWJtQTVQQXhnZUEwc2phcXpJVFNTc2JKY1k3eTNaVlFiQQ?oc=5\" target=\"_blank\">추미애, 김민석 향해 \"신천지 주장, 사과로 끝낼 문제 아냐\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FdkxudE0zNVJIdkRpWkNsdXh1UFRzc05sNlNWV19zNXNfbnRhb3F6d3I2WDFkRXJ1Y1FDbWY2MTZza2lKU2ZwMmRwTWlVai1SenFaY0lXLU52YlVsd2lkVdIBeEFVX3lxTE1mR1l3NXJ0T3hiRzROWEhVNF9ibVRXSVBTeHBGdjR1WV9YZXB0Z3B2TVBXNE81SGdydlh2Yjl4Yy1nZUF0NFc4TDNyc0JzcllUTlRSUkprUWJtQTVQQXhnZUEwc2phcXpJVFNTc2JKY1k3eTNaVlFiQQ?oc=5",
+    "pubDate": "Tue, 17 Nov 2026 22:32:33 GMT",
+    "source": "뉴시스",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 추미애, 김민석 향해 \"신천지 주장, 사과로 끝낼 문제 아냐\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "f62134d79404f7d307fff55b774cfd3aaea445329c89238d6dafe75c33ddfac7",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "추미애 “김민석 사과로 끝낼 일 아냐”…민주당 윤리심판원 판단 촉구 - 이투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE40cDZGS3pObEV1NTlDM0FjemRCYUlzdlRlRlhDZ2tJODZYT3VJeUJPZmtBRG5OeUYxelN2WWhhVEpFOWRaTF9XQ2Q3cFRROHVUMEJfZm05bXpEN243eHNKY1VmZ3o0NW5LTGJsMlQxNGZXTGV4?oc=5\" target=\"_blank\">추미애 “김민석 사과로 끝낼 일 아냐”…민주당 윤리심판원 판단 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40cDZGS3pObEV1NTlDM0FjemRCYUlzdlRlRlhDZ2tJODZYT3VJeUJPZmtBRG5OeUYxelN2WWhhVEpFOWRaTF9XQ2Q3cFRROHVUMEJfZm05bXpEN243eHNKY1VmZ3o0NW5LTGJsMlQxNGZXTGV4?oc=5",
+    "pubDate": "Tue, 17 Nov 2026 22:46:00 GMT",
+    "source": "이투데이",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 추미애 “김민석 사과로 끝낼 일 아냐”…민주당 윤리심판원 판단 촉구",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "4fac45ae4328f7e1900fcdcfca6ab55f54a5335842799f52860bfc320615f99a",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - KEYE",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTXdjMlFRSUpwTk9VREFPMVRXV3JHNUltZHNZUFFOajB4RXVUcEI4dGtUV3g4UXJHNUVXNXBxRGZtd1BWMkd4bG5XUmxYTlBlWmp6bU55Q1BmYlJxVmtHZVNkWnNwcGdHRTNrUDNESDFVNGlTanIzUUZIdnlwdVpuUVpGMmstc2FGeFJXcVdnYXVhQXY3b29HZDA2WVZWWGpUYmNGd0ZVNmJCMUJOeU5XTjRwSlBMRDRBSmxtMXZEaW9UUUpoZjRIRnJPTGxxMzNnbkIyVXhCRUtGeUxIeVRWeWI2UmZpRkNLYWc1QTJ4VS05RzVC?oc=5\" target=\"_blank\">Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KEYE</font>",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTXdjMlFRSUpwTk9VREFPMVRXV3JHNUltZHNZUFFOajB4RXVUcEI4dGtUV3g4UXJHNUVXNXBxRGZtd1BWMkd4bG5XUmxYTlBlWmp6bU55Q1BmYlJxVmtHZVNkWnNwcGdHRTNrUDNESDFVNGlTanIzUUZIdnlwdVpuUVpGMmstc2FGeFJXcVdnYXVhQXY3b29HZDA2WVZWWGpUYmNGd0ZVNmJCMUJOeU5XTjRwSlBMRDRBSmxtMXZEaW9UUUpoZjRIRnJPTGxxMzNnbkIyVXhCRUtGeUxIeVRWeWI2UmZpRkNLYWc1QTJ4VS05RzVC?oc=5",
+    "pubDate": "Tue, 17 Nov 2026 21:50:22 GMT",
+    "source": "KEYE",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

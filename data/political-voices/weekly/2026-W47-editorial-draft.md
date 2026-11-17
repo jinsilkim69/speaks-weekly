@@ -3537,3 +3537,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, 김민석 향해 "신천지 주장, 사과로 끝낼 문제 아냐" - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, 김민석 향해 "신천지 주장, 사과로 끝낼 문제 아냐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FdkxudE0zNVJIdkRpWkNsdXh1UFRzc05sNlNWV19zNXNfbnRhb3F6d3I2WDFkRXJ1Y1FDbWY2MTZza2lKU2ZwMmRwTWlVai1SenFaY0lXLU52YlVsd2lkVdIBeEFVX3lxTE1mR1l3NXJ0T3hiRzROWEhVNF9ibVRXSVBTeHBGdjR1WV9YZXB0Z3B2TVBXNE81SGdydlh2Yjl4Yy1nZUF0NFc4TDNyc0JzcllUTlRSUkprUWJtQTVQQXhnZUEwc2phcXpJVFNTc2JKY1k3eTNaVlFiQQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애 “김민석 사과로 끝낼 일 아냐”…민주당 윤리심판원 판단 촉구 - 이투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애 “김민석 사과로 끝낼 일 아냐”…민주당 윤리심판원 판단 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE40cDZGS3pObEV1NTlDM0FjemRCYUlzdlRlRlhDZ2tJODZYT3VJeUJPZmtBRG5OeUYxelN2WWhhVEpFOWRaTF9XQ2Q3cFRROHVUMEJfZm05bXpEN243eHNKY1VmZ3o0NW5LTGJsMlQxNGZXTGV4?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - KEYE
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTXdjMlFRSUpwTk9VREFPMVRXV3JHNUltZHNZUFFOajB4RXVUcEI4dGtUV3g4UXJHNUVXNXBxRGZtd1BWMkd4bG5XUmxYTlBlWmp6bU55Q1BmYlJxVmtHZVNkWnNwcGdHRTNrUDNESDFVNGlTanIzUUZIdnlwdVpuUVpGMmstc2FGeFJXcVdnYXVhQXY3b29HZDA2WVZWWGpUYmNGd0ZVNmJCMUJOeU5XTjRwSlBMRDRBSmxtMXZEaW9UUUpoZjRIRnJPTGxxMzNnbkIyVXhCRUtGeUxIeVRWeWI2UmZpRkNLYWc1QTJ4VS05RzVC?oc=5)
+
+---
+
