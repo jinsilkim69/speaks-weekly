@@ -1769,3 +1769,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 직접 만든 ‘AI 커닝 탐지 앱’ 공개…“정부가 적극 검증해야” - 서울신문
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 직접 만든 ‘AI 커닝 탐지 앱’ 공개…“정부가 적극 검증해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTFBxVml1Q2pkbzdsVVJaY3Zya2NWb2t4NEpma1RXNTYtZU9aRC1kTFJHaFRDVTZZMFYyZk5maHpRV2Q4WUN4SjBCNFg2RzlKLW55eVNwTXBLaTZESHdVLWs5OFhHY0tNSnFZNV9yWkZnank?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 기내서 '수능 부정행위' 탐지 앱 개발…교육부에 검증 제안 - 데일리안
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 기내서 '수능 부정행위' 탐지 앱 개발…교육부에 검증 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimAJBVV95cUxQLW9ITVNYYzk0RXhENS01blV6YVREQ0o4QkNsdm5qb0RTd1ZPV2pwaFEwUUJsYW1NMm50Ykk4bFNPbmROUl95YVdsTlVDODVObHFuVTdBeUVYTU94S000azl6VGRBWmFDd21Vb0pzWUtGQUFJaENjYlhZZ1N1bk9XMUJrdWpZZ1ZnT18yOU0wRWkxaDhiZ2xFV29iZVZYVVFPME5jWkVrVjVaZVZKaVZJbDdQOFlIVDVxLTVJMmd4Z2F0eHJ3VkRUdWNobzk2YlNMVWpjQU5FMEJTQ3QyQ2JPRTVxOGt3a0txVVFEb0RqVDR6OE5TaFUwbEhxMnZSXzM4SHZlRUw3aktqZno4R21sUVhNRF9fNFoz?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** ‘열화상카메라’ 마지막 희망?…“AI커닝 잡을 가능성 매우 낮아” 천하람 알아보니 - 헤럴드경제
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘열화상카메라’ 마지막 희망?…“AI커닝 잡을 가능성 매우 낮아” 천하람 알아보니
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbjVVemhDbEloWXFSeWZ4VTVUdlBqTjdSa1NIXy1ROHFkM0kwMGFSR01oekFLU2pUZXhMSlhIZk9idUxLa0NDVk16WFVZRFRsZlJMRVhR?oc=5)
+
+---
+

@@ -2605,57 +2605,24 @@
       "seenAt": "2026-11-17T04:31:22.350Z",
       "title": "AI 커닝 대책? 이준석은 '전파탐지 앱', 장동혁은 '수능 연기' - OhmyNews",
       "targetName": "이준석"
+    },
+    "ee76255fb7f787d1bf1b0522865e860d7efbaef3485624826cc91f684bbf9044": {
+      "seenAt": "2026-11-17T04:41:18.610Z",
+      "title": "이준석, 직접 만든 ‘AI 커닝 탐지 앱’ 공개…“정부가 적극 검증해야” - 서울신문",
+      "targetName": "이준석"
+    },
+    "5a9fc98e917a4c1e6e4f99f01164c0431076a0b9664346ef5cb326e82b3a00dc": {
+      "seenAt": "2026-11-17T04:41:19.279Z",
+      "title": "이준석, 기내서 '수능 부정행위' 탐지 앱 개발…교육부에 검증 제안 - 데일리안",
+      "targetName": "이준석"
+    },
+    "5048d8c237fe88e1e957b032ac38ea6342f3be59e2a89855106c57a8dbe1270b": {
+      "seenAt": "2026-11-17T04:41:20.055Z",
+      "title": "‘열화상카메라’ 마지막 희망?…“AI커닝 잡을 가능성 매우 낮아” 천하람 알아보니 - 헤럴드경제",
+      "targetName": "천하람"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "ee76255fb7f787d1bf1b0522865e860d7efbaef3485624826cc91f684bbf9044",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석, 직접 만든 ‘AI 커닝 탐지 앱’ 공개…“정부가 적극 검증해야” - 서울신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBxVml1Q2pkbzdsVVJaY3Zya2NWb2t4NEpma1RXNTYtZU9aRC1kTFJHaFRDVTZZMFYyZk5maHpRV2Q4WUN4SjBCNFg2RzlKLW55eVNwTXBLaTZESHdVLWs5OFhHY0tNSnFZNV9yWkZnank?oc=5\" target=\"_blank\">이준석, 직접 만든 ‘AI 커닝 탐지 앱’ 공개…“정부가 적극 검증해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxVml1Q2pkbzdsVVJaY3Zya2NWb2t4NEpma1RXNTYtZU9aRC1kTFJHaFRDVTZZMFYyZk5maHpRV2Q4WUN4SjBCNFg2RzlKLW55eVNwTXBLaTZESHdVLWs5OFhHY0tNSnFZNV9yWkZnank?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 02:41:29 GMT",
-        "source": "서울신문",
-        "ageHours": 0.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5a9fc98e917a4c1e6e4f99f01164c0431076a0b9664346ef5cb326e82b3a00dc",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석, 기내서 '수능 부정행위' 탐지 앱 개발…교육부에 검증 제안 - 데일리안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQLW9ITVNYYzk0RXhENS01blV6YVREQ0o4QkNsdm5qb0RTd1ZPV2pwaFEwUUJsYW1NMm50Ykk4bFNPbmROUl95YVdsTlVDODVObHFuVTdBeUVYTU94S000azl6VGRBWmFDd21Vb0pzWUtGQUFJaENjYlhZZ1N1bk9XMUJrdWpZZ1ZnT18yOU0wRWkxaDhiZ2xFV29iZVZYVVFPME5jWkVrVjVaZVZKaVZJbDdQOFlIVDVxLTVJMmd4Z2F0eHJ3VkRUdWNobzk2YlNMVWpjQU5FMEJTQ3QyQ2JPRTVxOGt3a0txVVFEb0RqVDR6OE5TaFUwbEhxMnZSXzM4SHZlRUw3aktqZno4R21sUVhNRF9fNFoz?oc=5\" target=\"_blank\">이준석, 기내서 '수능 부정행위' 탐지 앱 개발…교육부에 검증 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
-        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQLW9ITVNYYzk0RXhENS01blV6YVREQ0o4QkNsdm5qb0RTd1ZPV2pwaFEwUUJsYW1NMm50Ykk4bFNPbmROUl95YVdsTlVDODVObHFuVTdBeUVYTU94S000azl6VGRBWmFDd21Vb0pzWUtGQUFJaENjYlhZZ1N1bk9XMUJrdWpZZ1ZnT18yOU0wRWkxaDhiZ2xFV29iZVZYVVFPME5jWkVrVjVaZVZKaVZJbDdQOFlIVDVxLTVJMmd4Z2F0eHJ3VkRUdWNobzk2YlNMVWpjQU5FMEJTQ3QyQ2JPRTVxOGt3a0txVVFEb0RqVDR6OE5TaFUwbEhxMnZSXzM4SHZlRUw3aktqZno4R21sUVhNRF9fNFoz?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 02:32:00 GMT",
-        "source": "데일리안",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5048d8c237fe88e1e957b032ac38ea6342f3be59e2a89855106c57a8dbe1270b",
-        "targetId": "cheon_haram",
-        "targetName": "천하람",
-        "targetTitle": "개혁신당 원내대표",
-        "title": "‘열화상카메라’ 마지막 희망?…“AI커닝 잡을 가능성 매우 낮아” 천하람 알아보니 - 헤럴드경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbjVVemhDbEloWXFSeWZ4VTVUdlBqTjdSa1NIXy1ROHFkM0kwMGFSR01oekFLU2pUZXhMSlhIZk9idUxLa0NDVk16WFVZRFRsZlJMRVhR?oc=5\" target=\"_blank\">‘열화상카메라’ 마지막 희망?…“AI커닝 잡을 가능성 매우 낮아” 천하람 알아보니</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHbjVVemhDbEloWXFSeWZ4VTVUdlBqTjdSa1NIXy1ROHFkM0kwMGFSR01oekFLU2pUZXhMSlhIZk9idUxLa0NDVk16WFVZRFRsZlJMRVhR?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 02:21:12 GMT",
-        "source": "헤럴드경제",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "233c3faada74c53289657dcd91f115af7191bc4fe6dcf3be641b056b3d25cc90",
