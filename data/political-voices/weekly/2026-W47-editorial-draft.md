@@ -2016,3 +2016,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석과 대타협 제안한 송영길에 "자격 미달자 나서지 마라" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석과 대타협 제안한 송영길에 "자격 미달자 나서지 마라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFBYeWJfN2tDaXU3VW1ES0pFaUVLNC1LZF94ZTVRYzBSNUszLUNQN2xnUzVCM3dXVV9IeDFDUVFwUDEwYnk0Y2pQanlRZzB3T2NKWTZRMklpVHNxYXFveDBRYzB5cUN2bV95N3RxbNIBckFVX3lxTE5hcHYxYXJ0WEVGUTc4S1BDalc4OTd2aWVqbjRJRnAteG9YUy14cnNWUy1rUHFzNnFGU3pzVFdVbmIxRkVrLUpwTGFSS0x6Tk1tWHBFaUVOV2RUUWxuX3R2cXU3a0xrZXdWRzlEcDFzbk5fZw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [오마이포토2026] 의총 참석한 정청래-김민석 - OhmyNews
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 의총 참석한 정청래-김민석
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHpnZkpGYzNDSHFVcERIRURaYW5QWnJuWGt2aWNDX2NGbFU3UUVadHZ0UnRHQmhENkx2SkdVcVFWQTl4NlQ3d1FWZWNyTllRTS04Y3lUOWR5ellRYnU4UWtpNkVsQlp4UDFoMURKMTRMZF9mU3pscGFudmFqQnBmbDZTbEgzVjFSRGpmM2dB?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석과 타협 제안한 송영길에 “자격 미달 나서지 마시라” - 채널A
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석과 타협 제안한 송영길에 “자격 미달 나서지 마시라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE50Q29Vd1VCRW41emVxekdMTWVESnRPM0g5SnNPQ2xaeVVnZ21jdHRxYWhzNmdLOGRzanVSUExzLWVzcHg2cVBQSG5KeUlVREx6UFdqTEFicVRyU2hQclHSAWNBVV95cUxOd2Q0WVdTOWxmOTFXLTN2aFZZU1VRbjNpNERBY2dYUnEwY3Vtb1U2YzRwSG9wUmZKRUE4eng3dGJrMnlJS3dkN1VnQmlZQVhQbng1a0lYYVdjS01xX3lma01yN2s?oc=5)
+
+---
+
