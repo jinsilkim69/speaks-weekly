@@ -3498,3 +3498,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, “반·분·신 비밀연합, 반민주적 마타도어…김민석 사과로 끝낼 문제 아냐” - 경향신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, “반·분·신 비밀연합, 반민주적 마타도어…김민석 사과로 끝낼 문제 아냐”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjM1c1k0ZmJiTWdCd3RBRVdnSk8xQWtNcGM4ZmFyQjMwUThKMnNXakhta25kVkRrMjJTcmtOM0ltWFFPS2VQQUd3c1h1Vl8ybmxxMTJVVVdBLTNUTlFQaWREREgzcHY2dUFPZEtKY2dBb1VZX09YcVBhTnRWRkJrN19KZ1QwcmNwaUZCdjNDVmhjNHhTUjg3OEc3bzhlY1F1dzEwRnNpYkozQnZI0gFfQVVfeXFMT0lBWkZSbDgwQ3hoeDZ3ME1PNkV6dUpFNmU0MHJNYmMxNVJFTU5zaEdWNFpldlc5aFQ0b2FqanJPeGVnOWFfcHZEbG9NZkFLNWk4YUNacGFzTEU3TkM4Tnc?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - WBFF
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWjdZLVp6UW5VSDBlNHRuZlB3WDV5Yi1uMjlzcEV5VHJ0cE1DX2RDeTdyTDVwUWZTTWhOOXlTU19rbHF1dUpYaDJOMk5OMThPdDRVTDByTXB3VjZYbC1XaHB6dVVoNDRGd2hNYWpudEhQMHJLZG5fYmdtRGlidHZXV1lZWEdqVlhDR0FUemh6b0VhVUJyM0lRcklRa2FFOVJMemF4S1VzMHpZdWVuZ3l3SjQ5ZWNkckl3NTRUbG1oWWsxVXh4TTRHbVcwNFlGelhZNWNqSFFqTEllS0llT3FMaThYYzV2ckstbGVuSkhLczh6LVU?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** President Trump Posts on Truth Social, Most Content Not Newsworthy - Forth.News
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] President Trump Posts on Truth Social, Most Content Not Newsworthy
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nYm1mdTBXMURWcFJJX0UteGsyUGg0YXp4T2hMalUzU1ExUnFIVE1QU3B0aU1wZlRoUFUwSkxoal9LY0NxSmZzVUNZS3IwV01LVzRwb3ZrejVtQTMzd2hzZzZ3?oc=5)
+
+---
+
