@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T11:51:18.492Z",
+  "lastCheckedAt": "2026-11-17T12:11:28.942Z",
   "seenPostIds": {
-    "4e636c72bcafbdcd05bf9be5f7e1fcd78ae19e7b1c99a913e078c88866bb0265": {
-      "seenAt": "2026-11-13T23:21:16.458Z",
-      "title": "이재명 대통령 \"공정하고 투명한 자본시장 만들겠다\"…주가조작·불공정거래 무관용 원칙 강조 - 복지TV부울경방송",
-      "targetName": "이재명"
-    },
-    "af5e60588573543ed66ab3931ce7d9cc870c2f5b5da47036133116029ef7684a": {
-      "seenAt": "2026-11-13T23:21:17.336Z",
-      "title": "Donald Trump Urges Congress To Pass Federal Film & TV Tax Incentive - Deadline",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "14bc83f1f076f5689a4c59e6bea68d60b13ad2a98667e3f2b0ee702cf828c3dc": {
-      "seenAt": "2026-11-13T23:31:21.712Z",
-      "title": "최민희의 말말말…‘尹 탄핵 반대’ 발언 사과, ‘김민석 지지’ 제보도 논란 - 더시사법률",
-      "targetName": "김민석"
-    },
-    "e9ca67d1ebbe0fac85efce8338b7404e790d83bd8af0c4f1a2df73812c21f8be": {
-      "seenAt": "2026-11-13T23:31:22.433Z",
-      "title": "Trump says US could devastate Iran in three days as diplomatic efforts stall - WBFF",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "e6d6ba253e9469444c3affe82cd517231a54f5bd86f643759a1fdf05cbf68fa2": {
-      "seenAt": "2026-11-13T23:51:24.541Z",
-      "title": "한동훈 \"이재명 재판 훨씬 더 빼박\"…민주당 반박 - 데일리메이커",
-      "targetName": "이재명"
-    },
-    "8c3debcaa94d943f930d7d1930071b4ea65bd29e7a1142497058b237a59e4d48": {
-      "seenAt": "2026-11-13T23:51:25.275Z",
-      "title": "한동훈 \"이재명 재판 훨씬 더 빼박\"…민주당 반박 - 데일리메이커",
-      "targetName": "한동훈"
-    },
     "c216ea8bf79d19dff2a50d67a15900f30e03ac4168474df66cad4d0d9efb7f6e": {
       "seenAt": "2026-11-13T23:51:26.012Z",
       "title": "Trump Hasn’t Commented on Nationwide Flight Shutdown, But He’s Promoting the Federal Film Incentive - Variety",
@@ -2530,57 +2500,24 @@
       "seenAt": "2026-11-17T12:01:20.818Z",
       "title": "정청래, '김민석과 대타협 촉구' 송영길에 \"자격 미달자는 나서지 마시라\" - 뉴스핌",
       "targetName": "김민석"
+    },
+    "cea98ee11f826922d656bd401fb321790b938b29125903d7079e5b08d350d059": {
+      "seenAt": "2026-11-17T12:11:30.537Z",
+      "title": "정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이 - 머니투데이",
+      "targetName": "정청래"
+    },
+    "9b18931247bef523fd8eddf2c491b9f390b18f118032624c041165309fffc7a6": {
+      "seenAt": "2026-11-17T12:11:31.378Z",
+      "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달 나서지 말라\" - 중앙신문",
+      "targetName": "정청래"
+    },
+    "f74ddbac920fe8ab54a950703f9682a355a677b48ef546caf05fa77858c2c6c5": {
+      "seenAt": "2026-11-17T12:11:32.241Z",
+      "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달 나서지 말라\" - 중앙신문",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "cea98ee11f826922d656bd401fb321790b938b29125903d7079e5b08d350d059",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBYeWJfN2tDaXU3VW1ES0pFaUVLNC1LZF94ZTVRYzBSNUszLUNQN2xnUzVCM3dXVV9IeDFDUVFwUDEwYnk0Y2pQanlRZzB3T2NKWTZRMklpVHNxYXFveDBRYzB5cUN2bV95N3RxbNIBckFVX3lxTE5hcHYxYXJ0WEVGUTc4S1BDalc4OTd2aWVqbjRJRnAteG9YUy14cnNWUy1rUHFzNnFGU3pzVFdVbmIxRkVrLUpwTGFSS0x6Tk1tWHBFaUVOV2RUUWxuX3R2cXU3a0xrZXdWRzlEcDFzbk5fZw?oc=5\" target=\"_blank\">정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYeWJfN2tDaXU3VW1ES0pFaUVLNC1LZF94ZTVRYzBSNUszLUNQN2xnUzVCM3dXVV9IeDFDUVFwUDEwYnk0Y2pQanlRZzB3T2NKWTZRMklpVHNxYXFveDBRYzB5cUN2bV95N3RxbNIBckFVX3lxTE5hcHYxYXJ0WEVGUTc4S1BDalc4OTd2aWVqbjRJRnAteG9YUy14cnNWUy1rUHFzNnFGU3pzVFdVbmIxRkVrLUpwTGFSS0x6Tk1tWHBFaUVOV2RUUWxuX3R2cXU3a0xrZXdWRzlEcDFzbk5fZw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 04:43:32 GMT",
-        "source": "머니투데이",
-        "ageHours": 4.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "9b18931247bef523fd8eddf2c491b9f390b18f118032624c041165309fffc7a6",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달 나서지 말라\" - 중앙신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxQS0NsNy03RERMRXVhNmRNbTBWWkhMcXp3c1lhQ2ZrRmZhbFl3T2RTMjVUZUplSWJ5dkxOWXNDM2YxTkV5ZnYydXczZS1xelpxNkxMUGtBZS00ZThFTS1uLTJZVW1uY2NBbDN1OXNWWi11cWFsMENNRWRtb0ZabV9qRXo3S3JFVzZQTm5wQ2Z0aW5YNkpra0VLOWI3TzBTSkJ0RGJWZW5kb3IyTzJ5NzdpWldtMTh3ZWtoaXhTY0NlQ3phTUg1aFNZb0l3cFpyMEVjanJFRFRXTjZTOGFia3VFY3NONDFpNUNVR0QzSjZBbkp6Qmo2OW1GRWRTU3MzbGg0UXdvQWpZZlh4eDJ2YmNHUmwycXpISVZLejJtZm9oNHBxOFJrV08zUnQyS1FNSWRGaXdmUHpzMjcxWnQ3M21kdzhOMA?oc=5\" target=\"_blank\">송영길 \"金·鄭 대화해야\"…정청래 \"자격미달 나서지 말라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQS0NsNy03RERMRXVhNmRNbTBWWkhMcXp3c1lhQ2ZrRmZhbFl3T2RTMjVUZUplSWJ5dkxOWXNDM2YxTkV5ZnYydXczZS1xelpxNkxMUGtBZS00ZThFTS1uLTJZVW1uY2NBbDN1OXNWWi11cWFsMENNRWRtb0ZabV9qRXo3S3JFVzZQTm5wQ2Z0aW5YNkpra0VLOWI3TzBTSkJ0RGJWZW5kb3IyTzJ5NzdpWldtMTh3ZWtoaXhTY0NlQ3phTUg1aFNZb0l3cFpyMEVjanJFRFRXTjZTOGFia3VFY3NONDFpNUNVR0QzSjZBbkp6Qmo2OW1GRWRTU3MzbGg0UXdvQWpZZlh4eDJ2YmNHUmwycXpISVZLejJtZm9oNHBxOFJrV08zUnQyS1FNSWRGaXdmUHpzMjcxWnQ3M21kdzhOMA?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:09:31 GMT",
-        "source": "중앙신문",
-        "ageHours": 1.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f74ddbac920fe8ab54a950703f9682a355a677b48ef546caf05fa77858c2c6c5",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달 나서지 말라\" - 중앙신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxQS0NsNy03RERMRXVhNmRNbTBWWkhMcXp3c1lhQ2ZrRmZhbFl3T2RTMjVUZUplSWJ5dkxOWXNDM2YxTkV5ZnYydXczZS1xelpxNkxMUGtBZS00ZThFTS1uLTJZVW1uY2NBbDN1OXNWWi11cWFsMENNRWRtb0ZabV9qRXo3S3JFVzZQTm5wQ2Z0aW5YNkpra0VLOWI3TzBTSkJ0RGJWZW5kb3IyTzJ5NzdpWldtMTh3ZWtoaXhTY0NlQ3phTUg1aFNZb0l3cFpyMEVjanJFRFRXTjZTOGFia3VFY3NONDFpNUNVR0QzSjZBbkp6Qmo2OW1GRWRTU3MzbGg0UXdvQWpZZlh4eDJ2YmNHUmwycXpISVZLejJtZm9oNHBxOFJrV08zUnQyS1FNSWRGaXdmUHpzMjcxWnQ3M21kdzhOMA?oc=5\" target=\"_blank\">송영길 \"金·鄭 대화해야\"…정청래 \"자격미달 나서지 말라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQS0NsNy03RERMRXVhNmRNbTBWWkhMcXp3c1lhQ2ZrRmZhbFl3T2RTMjVUZUplSWJ5dkxOWXNDM2YxTkV5ZnYydXczZS1xelpxNkxMUGtBZS00ZThFTS1uLTJZVW1uY2NBbDN1OXNWWi11cWFsMENNRWRtb0ZabV9qRXo3S3JFVzZQTm5wQ2Z0aW5YNkpra0VLOWI3TzBTSkJ0RGJWZW5kb3IyTzJ5NzdpWldtMTh3ZWtoaXhTY0NlQ3phTUg1aFNZb0l3cFpyMEVjanJFRFRXTjZTOGFia3VFY3NONDFpNUNVR0QzSjZBbkp6Qmo2OW1GRWRTU3MzbGg0UXdvQWpZZlh4eDJ2YmNHUmwycXpISVZLejJtZm9oNHBxOFJrV08zUnQyS1FNSWRGaXdmUHpzMjcxWnQ3M21kdzhOMA?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:09:31 GMT",
-        "source": "중앙신문",
-        "ageHours": 1.7
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "a118a0eb1992734bc034138cf5020087e31558ce59b555c49729173385b87e2e",
@@ -2993,6 +2930,22 @@
         "pubDate": "Tue, 17 Nov 2026 11:19:25 GMT",
         "source": "The Daily Beast",
         "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d2b2e87e4924e55b885320cc816ae5e95c2d2f9ee8da2a3fdcbfb1a67b569468",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국, 일본 공항서 입국거부…과거 형사처벌 전력 때문? 혁신당 “일본 정부 사과해야” - 경향신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZSkR5RDJZcGxfSE1HOWwzV3U5eG9ackFxRnZOWm9UNm9PRXRyR24tWmsxN21BQ1RmWVdabElFSjlFNWpFc1RGa3gzMVpSd3UtbUUtbFU4MENVd9IBX0FVX3lxTE5vTl9iMUVRS19neHo1Z1g4ampGY3ZqdGVYc2FhSE1NUno2ZjI5VlVjVV9SeHh1YkFoQVdZNnc5TE9xTi1uU1NKdGdWOTc5bWZzYWxQcGozek96ZzdrdmpF?oc=5\" target=\"_blank\">조국, 일본 공항서 입국거부…과거 형사처벌 전력 때문? 혁신당 “일본 정부 사과해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZSkR5RDJZcGxfSE1HOWwzV3U5eG9ackFxRnZOWm9UNm9PRXRyR24tWmsxN21BQ1RmWVdabElFSjlFNWpFc1RGa3gzMVpSd3UtbUUtbFU4MENVd9IBX0FVX3lxTE5vTl9iMUVRS19neHo1Z1g4ampGY3ZqdGVYc2FhSE1NUno2ZjI5VlVjVV9SeHh1YkFoQVdZNnc5TE9xTi1uU1NKdGdWOTc5bWZzYWxQcGozek96ZzdrdmpF?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:41:00 GMT",
+        "source": "경향신문",
+        "ageHours": 3.5
       },
       "delivered": [],
       "archived": false

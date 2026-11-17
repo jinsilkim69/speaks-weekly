@@ -2796,3 +2796,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석과 대타협 제안한 송영길에 "자격 미달자 나서지 마라" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석과 대타협 제안한 송영길에 "자격 미달자 나서지 마라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFBYeWJfN2tDaXU3VW1ES0pFaUVLNC1LZF94ZTVRYzBSNUszLUNQN2xnUzVCM3dXVV9IeDFDUVFwUDEwYnk0Y2pQanlRZzB3T2NKWTZRMklpVHNxYXFveDBRYzB5cUN2bV95N3RxbNIBckFVX3lxTE5hcHYxYXJ0WEVGUTc4S1BDalc4OTd2aWVqbjRJRnAteG9YUy14cnNWUy1rUHFzNnFGU3pzVFdVbmIxRkVrLUpwTGFSS0x6Tk1tWHBFaUVOV2RUUWxuX3R2cXU3a0xrZXdWRzlEcDFzbk5fZw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 "金·鄭 대화해야"…정청래 "자격미달 나서지 말라" - 중앙신문
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "金·鄭 대화해야"…정청래 "자격미달 나서지 말라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQS0NsNy03RERMRXVhNmRNbTBWWkhMcXp3c1lhQ2ZrRmZhbFl3T2RTMjVUZUplSWJ5dkxOWXNDM2YxTkV5ZnYydXczZS1xelpxNkxMUGtBZS00ZThFTS1uLTJZVW1uY2NBbDN1OXNWWi11cWFsMENNRWRtb0ZabV9qRXo3S3JFVzZQTm5wQ2Z0aW5YNkpra0VLOWI3TzBTSkJ0RGJWZW5kb3IyTzJ5NzdpWldtMTh3ZWtoaXhTY0NlQ3phTUg1aFNZb0l3cFpyMEVjanJFRFRXTjZTOGFia3VFY3NONDFpNUNVR0QzSjZBbkp6Qmo2OW1GRWRTU3MzbGg0UXdvQWpZZlh4eDJ2YmNHUmwycXpISVZLejJtZm9oNHBxOFJrV08zUnQyS1FNSWRGaXdmUHpzMjcxWnQ3M21kdzhOMA?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "金·鄭 대화해야"…정청래 "자격미달 나서지 말라" - 중앙신문
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "金·鄭 대화해야"…정청래 "자격미달 나서지 말라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiwwJBVV95cUxQS0NsNy03RERMRXVhNmRNbTBWWkhMcXp3c1lhQ2ZrRmZhbFl3T2RTMjVUZUplSWJ5dkxOWXNDM2YxTkV5ZnYydXczZS1xelpxNkxMUGtBZS00ZThFTS1uLTJZVW1uY2NBbDN1OXNWWi11cWFsMENNRWRtb0ZabV9qRXo3S3JFVzZQTm5wQ2Z0aW5YNkpra0VLOWI3TzBTSkJ0RGJWZW5kb3IyTzJ5NzdpWldtMTh3ZWtoaXhTY0NlQ3phTUg1aFNZb0l3cFpyMEVjanJFRFRXTjZTOGFia3VFY3NONDFpNUNVR0QzSjZBbkp6Qmo2OW1GRWRTU3MzbGg0UXdvQWpZZlh4eDJ2YmNHUmwycXpISVZLejJtZm9oNHBxOFJrV08zUnQyS1FNSWRGaXdmUHpzMjcxWnQ3M21kdzhOMA?oc=5)
+
+---
+
