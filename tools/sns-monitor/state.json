@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T13:11:18.390Z",
+  "lastCheckedAt": "2026-11-17T13:21:18.141Z",
   "seenPostIds": {
-    "c1c86bbabdb25c85c877c6c1d2ea789c48adfae24d4b6b3bd8b818954cc4eb7b": {
-      "seenAt": "2026-11-14T03:11:18.680Z",
-      "title": "[속보] 전한길 \"이준석 하버드 졸업장 내놔라\"…이준석 \"허위 사실 남발 추가 고소\" - 프레시안",
-      "targetName": "이준석"
-    },
-    "3b3e855f0a745a7538e0abbdc471d36504e9141a763c99c5789edb688c72da7f": {
-      "seenAt": "2026-11-14T03:21:17.195Z",
-      "title": "최민희 “한동훈 거짓말 마라! 윤석열은 항소심 유죄 빼박, 이 대통령 조희대 억지 파기환송” - 주간경향",
-      "targetName": "한동훈"
-    },
-    "90e5a9d5e8a7016936d12ba3f324330c610db8f004e4b153661435bd74c61d64": {
-      "seenAt": "2026-11-14T03:21:17.843Z",
-      "title": "[속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전 - 세계일보",
-      "targetName": "한동훈"
-    },
     "d9b493581b9088ca8a8705eb09ec43ee5060f4d9d6a94c7a3b75004ff53a09d3": {
       "seenAt": "2026-11-14T03:21:18.479Z",
       "title": "[속보] 전한길 \"이준석 하버드 졸업장 내놔라\"…이준석 \"허위 사실 남발 추가 고소\" - 프레시안",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-17T13:11:20.463Z",
       "title": "‘Market-moving’ posts under fire: White House aide Natalie Harp could be barred from posting to Donald Trump’s Truth Social in lawsuit - AOL.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d07243883791f5e8856c758cd513b0f3cedca1c4bec5283a421f4444124fafa6": {
+      "seenAt": "2026-11-17T13:21:19.360Z",
+      "title": "이재명 대통령, 한-아세안 정상회의·한-메콩 정상회의에 잇따라 참석, 광폭행보 - 정경시사 FOCUS",
+      "targetName": "이재명"
+    },
+    "2e58071617313286e1d30d3767d8847a30eec6791782af76078b5e60544517c8": {
+      "seenAt": "2026-11-17T13:21:20.030Z",
+      "title": "Trump Says US to Start Blockading the Strait of Hormuz Immediately - EnergyNow.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "2229a31b079517866a1f05d4af23f998be2005ad468c720338d26fcaf78fbd13": {
+      "seenAt": "2026-11-17T13:21:20.713Z",
+      "title": "천하람 “열화상으로 커닝 못 잡아…포항 지진 때도 수능 연기했다” - 문화일보",
+      "targetName": "천하람"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "d07243883791f5e8856c758cd513b0f3cedca1c4bec5283a421f4444124fafa6",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령, 한-아세안 정상회의·한-메콩 정상회의에 잇따라 참석, 광폭행보 - 정경시사 FOCUS",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hdWxlREwwcWtTRDZGX3VyT1hObFR5clAxSGNIcm1oNGJmMURYNTl2N2FMVlBoQnZab19QZl9MSnlEel9uamp0UHFaMXY1RzFWQUdYMVBWZlVxOWtFZTFRUG5pS0tXaEFy?oc=5\" target=\"_blank\">이재명 대통령, 한-아세안 정상회의·한-메콩 정상회의에 잇따라 참석, 광폭행보</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">정경시사 FOCUS</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hdWxlREwwcWtTRDZGX3VyT1hObFR5clAxSGNIcm1oNGJmMURYNTl2N2FMVlBoQnZab19QZl9MSnlEel9uamp0UHFaMXY1RzFWQUdYMVBWZlVxOWtFZTFRUG5pS0tXaEFy?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 09:55:13 GMT",
-        "source": "정경시사 FOCUS",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "2e58071617313286e1d30d3767d8847a30eec6791782af76078b5e60544517c8",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Says US to Start Blockading the Strait of Hormuz Immediately - EnergyNow.com",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNWlVBMkRyNHpFcC1HMGVUWW1UMzJDLXM0STRvQ2FERlE4WUdzWDFSRVhocW9DanhyX09rd3M2RVNVWEY0UXlyWC04eFh5cHZleDBkTi1lWkVBYndCYkY4ODlNLUFMSmZNdHpzZ2h0c200Um12dUI1cWF1Z19pZ1ZDUVVTNU5kQUtyclRlVERvZlF6UENpZmVpZkl1ckVidw?oc=5\" target=\"_blank\">Trump Says US to Start Blockading the Strait of Hormuz Immediately</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyNow.com</font>",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlVBMkRyNHpFcC1HMGVUWW1UMzJDLXM0STRvQ2FERlE4WUdzWDFSRVhocW9DanhyX09rd3M2RVNVWEY0UXlyWC04eFh5cHZleDBkTi1lWkVBYndCYkY4ODlNLUFMSmZNdHpzZ2h0c200Um12dUI1cWF1Z19pZ1ZDUVVTNU5kQUtyclRlVERvZlF6UENpZmVpZkl1ckVidw?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 23:27:04 GMT",
-        "source": "EnergyNow.com",
-        "ageHours": 11.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "2229a31b079517866a1f05d4af23f998be2005ad468c720338d26fcaf78fbd13",
-        "targetId": "cheon_haram",
-        "targetName": "천하람",
-        "targetTitle": "개혁신당 원내대표",
-        "title": "천하람 “열화상으로 커닝 못 잡아…포항 지진 때도 수능 연기했다” - 문화일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BUVJIZ1lBYVRMb24xR1VZcUdzRkFwQkJLVzFjZ29OUmxyZEtnT1JjcnFPYWV6TTNMeDgxRjVhWGFMZ1JGU0NPWHZ2Nkl5b0ls?oc=5\" target=\"_blank\">천하람 “열화상으로 커닝 못 잡아…포항 지진 때도 수능 연기했다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BUVJIZ1lBYVRMb24xR1VZcUdzRkFwQkJLVzFjZ29OUmxyZEtnT1JjcnFPYWV6TTNMeDgxRjVhWGFMZ1JGU0NPWHZ2Nkl5b0ls?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 10:45:46 GMT",
-        "source": "문화일보",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "4e030d3df233264dd30c50d5fc38c641cd848b9a857e70582b2ab0ad2698c23b",
