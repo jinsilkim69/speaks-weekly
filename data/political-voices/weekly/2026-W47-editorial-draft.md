@@ -1730,3 +1730,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 수능 AI 부정행위 탐지앱 영국행 비행기서 직접 개발 "교육부 장관 답변에 한숨" - 매일신문
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 수능 AI 부정행위 탐지앱 영국행 비행기서 직접 개발 "교육부 장관 답변에 한숨"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE15LWVpaTNZcUthNWl0LUs0aXVqUlVZeXZ2N2I1dERhM05neUtYZEJETk1MM1dvNWVsc2l4VWlZUlVTSE1ibEpGTUpSeDA0MjJEOUt6aHRoNnRyaGRYNENvT193?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "AI 커닝 방지 앱 개발"…교육부에 사용 허가 요청 - news.sbs.co.kr
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "AI 커닝 방지 앱 개발"…교육부에 사용 허가 요청
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjA0dVJQV0lXSm9ySG5VbnhpLXlqOGQ3ak9EUE13dkdDS25WbkcwOG5nZUpJLTNMbHdib2ZNZXFtWjBnMDNRaXJUQVJaeWhwcl9reThnWVZpTUhyaU85Xzh1WU1mYmRZRzdxZUxCd3FSZWtmWWlxMl9pb0N2UlJaNEQyNVVKLWYxTDQ2NTlPaw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** AI 커닝 대책? 이준석은 '전파탐지 앱', 장동혁은 '수능 연기' - OhmyNews
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] AI 커닝 대책? 이준석은 '전파탐지 앱', 장동혁은 '수능 연기'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTFBGQzNJNTRnd1ExUWtaYlRXRUhVTl9wRTFfdk11N3lZVDhpRkM3aWJvM2R3TnRTYl9zbTZfazBCa1RTbWgyWGJSUHpOYU5HT1J4UWp5bjFFY0lIMUJPamk3Qkk3YnluaDRNRnE0VmdKOFRSX3M4eTFr?oc=5)
+
+---
+

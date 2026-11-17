@@ -2590,57 +2590,24 @@
       "seenAt": "2026-11-17T04:21:21.226Z",
       "title": "부산상의, 송영길 대통령 외교특보 초청 특강 진행 - 메트로신문",
       "targetName": "송영길"
+    },
+    "caa76a1ea1e7692d5fa4d53a3c864ebab8e22dc15d162283fda7e8092ca35ac0": {
+      "seenAt": "2026-11-17T04:31:21.120Z",
+      "title": "이준석, 수능 AI 부정행위 탐지앱 영국행 비행기서 직접 개발 \"교육부 장관 답변에 한숨\" - 매일신문",
+      "targetName": "이준석"
+    },
+    "37201d15b5a717acb51eb9ed214952f7c3d07ea2e012e6ca3024497b28e40b7c": {
+      "seenAt": "2026-11-17T04:31:21.754Z",
+      "title": "이준석 \"AI 커닝 방지 앱 개발\"…교육부에 사용 허가 요청 - news.sbs.co.kr",
+      "targetName": "이준석"
+    },
+    "a2fcb859855961bf7572dda045e1919cb958f92db056d1b1d49f3881e61d75ee": {
+      "seenAt": "2026-11-17T04:31:22.350Z",
+      "title": "AI 커닝 대책? 이준석은 '전파탐지 앱', 장동혁은 '수능 연기' - OhmyNews",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "caa76a1ea1e7692d5fa4d53a3c864ebab8e22dc15d162283fda7e8092ca35ac0",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석, 수능 AI 부정행위 탐지앱 영국행 비행기서 직접 개발 \"교육부 장관 답변에 한숨\" - 매일신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE15LWVpaTNZcUthNWl0LUs0aXVqUlVZeXZ2N2I1dERhM05neUtYZEJETk1MM1dvNWVsc2l4VWlZUlVTSE1ibEpGTUpSeDA0MjJEOUt6aHRoNnRyaGRYNENvT193?oc=5\" target=\"_blank\">이준석, 수능 AI 부정행위 탐지앱 영국행 비행기서 직접 개발 \"교육부 장관 답변에 한숨\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15LWVpaTNZcUthNWl0LUs0aXVqUlVZeXZ2N2I1dERhM05neUtYZEJETk1MM1dvNWVsc2l4VWlZUlVTSE1ibEpGTUpSeDA0MjJEOUt6aHRoNnRyaGRYNENvT193?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 02:21:04 GMT",
-        "source": "매일신문",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "37201d15b5a717acb51eb9ed214952f7c3d07ea2e012e6ca3024497b28e40b7c",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"AI 커닝 방지 앱 개발\"…교육부에 사용 허가 요청 - news.sbs.co.kr",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjA0dVJQV0lXSm9ySG5VbnhpLXlqOGQ3ak9EUE13dkdDS25WbkcwOG5nZUpJLTNMbHdib2ZNZXFtWjBnMDNRaXJUQVJaeWhwcl9reThnWVZpTUhyaU85Xzh1WU1mYmRZRzdxZUxCd3FSZWtmWWlxMl9pb0N2UlJaNEQyNVVKLWYxTDQ2NTlPaw?oc=5\" target=\"_blank\">이준석 \"AI 커닝 방지 앱 개발\"…교육부에 사용 허가 요청</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.sbs.co.kr</font>",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjA0dVJQV0lXSm9ySG5VbnhpLXlqOGQ3ak9EUE13dkdDS25WbkcwOG5nZUpJLTNMbHdib2ZNZXFtWjBnMDNRaXJUQVJaeWhwcl9reThnWVZpTUhyaU85Xzh1WU1mYmRZRzdxZUxCd3FSZWtmWWlxMl9pb0N2UlJaNEQyNVVKLWYxTDQ2NTlPaw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 03:25:35 GMT",
-        "source": "news.sbs.co.kr",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "a2fcb859855961bf7572dda045e1919cb958f92db056d1b1d49f3881e61d75ee",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "AI 커닝 대책? 이준석은 '전파탐지 앱', 장동혁은 '수능 연기' - OhmyNews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBGQzNJNTRnd1ExUWtaYlRXRUhVTl9wRTFfdk11N3lZVDhpRkM3aWJvM2R3TnRTYl9zbTZfazBCa1RTbWgyWGJSUHpOYU5HT1J4UWp5bjFFY0lIMUJPamk3Qkk3YnluaDRNRnE0VmdKOFRSX3M4eTFr?oc=5\" target=\"_blank\">AI 커닝 대책? 이준석은 '전파탐지 앱', 장동혁은 '수능 연기'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGQzNJNTRnd1ExUWtaYlRXRUhVTl9wRTFfdk11N3lZVDhpRkM3aWJvM2R3TnRTYl9zbTZfazBCa1RTbWgyWGJSUHpOYU5HT1J4UWp5bjFFY0lIMUJPamk3Qkk3YnluaDRNRnE0VmdKOFRSX3M4eTFr?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 02:57:00 GMT",
-        "source": "OhmyNews",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "ee76255fb7f787d1bf1b0522865e860d7efbaef3485624826cc91f684bbf9044",
