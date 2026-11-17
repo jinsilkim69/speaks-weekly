@@ -2575,57 +2575,24 @@
       "seenAt": "2026-11-17T04:11:24.352Z",
       "title": "송영길 \"金·鄭 만나 대타협 해야‥대통령도 당내 문제 걱정\" - MBC 뉴스",
       "targetName": "송영길"
+    },
+    "ecc29e65b951f8e0a26503fc85423c7ca48637c59dc61b702f1add68ccb861dd": {
+      "seenAt": "2026-11-17T04:21:19.672Z",
+      "title": "與송영길 \"김민석·정청래 만나 대타협해야…포용해서 함께 가야\" - 조선일보",
+      "targetName": "송영길"
+    },
+    "4712a3b209d2d31d5f64d702e66e94b527b1e128f406077f29a514c516050b35": {
+      "seenAt": "2026-11-17T04:21:20.426Z",
+      "title": "송영길 “북미도 만나는데... 김민석·정청래 만나서 대타협 해야” - 이데일리",
+      "targetName": "송영길"
+    },
+    "65fe93f59b8ae4a8b428484e7d70a489362c9a35211e07cf2fda43b14394436a": {
+      "seenAt": "2026-11-17T04:21:21.226Z",
+      "title": "부산상의, 송영길 대통령 외교특보 초청 특강 진행 - 메트로신문",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "ecc29e65b951f8e0a26503fc85423c7ca48637c59dc61b702f1add68ccb861dd",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "與송영길 \"김민석·정청래 만나 대타협해야…포용해서 함께 가야\" - 조선일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNbm84RnFDZ1lDaEpRNFM5Mm5yelZET2tZWkNQUml4NTFSSWdCWW00LVQ0RWR1SmpGQ1B3bldsaWN1RWVqMVlGNWZ5a3hUN3pydXZybmpYLTdNc0xEdWgzZU9pa1VIVkdCaHItY3QybXZSZlZ1RkNranZjR25veGZiUkRzTXFEQQ?oc=5\" target=\"_blank\">與송영길 \"김민석·정청래 만나 대타협해야…포용해서 함께 가야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbm84RnFDZ1lDaEpRNFM5Mm5yelZET2tZWkNQUml4NTFSSWdCWW00LVQ0RWR1SmpGQ1B3bldsaWN1RWVqMVlGNWZ5a3hUN3pydXZybmpYLTdNc0xEdWgzZU9pa1VIVkdCaHItY3QybXZSZlZ1RkNranZjR25veGZiUkRzTXFEQQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 00:59:00 GMT",
-        "source": "조선일보",
-        "ageHours": 2.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4712a3b209d2d31d5f64d702e66e94b527b1e128f406077f29a514c516050b35",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 “북미도 만나는데... 김민석·정청래 만나서 대타협 해야” - 이데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ1JfUmRBRE51X2JLYkhPRHBOcWU3SEprZkVzVlRtenhZbjdSN0IxYVhIWk1YR3RFMEw0aHBGdjhsZ0RVNmJoaVFMNW8zbkZRRkNoODVjN1ZDYUFwajlrUkVBaHgzaW5rSTdxOFg1Mkt5dldwT1JuWHpGQ29mZkN1Ng?oc=5\" target=\"_blank\">송영길 “북미도 만나는데... 김민석·정청래 만나서 대타협 해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ1JfUmRBRE51X2JLYkhPRHBOcWU3SEprZkVzVlRtenhZbjdSN0IxYVhIWk1YR3RFMEw0aHBGdjhsZ0RVNmJoaVFMNW8zbkZRRkNoODVjN1ZDYUFwajlrUkVBaHgzaW5rSTdxOFg1Mkt5dldwT1JuWHpGQ29mZkN1Ng?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 00:05:45 GMT",
-        "source": "이데일리",
-        "ageHours": 3.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "65fe93f59b8ae4a8b428484e7d70a489362c9a35211e07cf2fda43b14394436a",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "부산상의, 송영길 대통령 외교특보 초청 특강 진행 - 메트로신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE00c1dfX3Y3bGJISkpuUkx1bS13Z1M1cnVxVTBzMnkxaVYtWHlNdFRwRW5kTzdoNTdWOFRCdV9CTHBTcWZCdC15Qk1vakZLQnNJbXMyMkczUWRYcFJmeXpfYQ?oc=5\" target=\"_blank\">부산상의, 송영길 대통령 외교특보 초청 특강 진행</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">메트로신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00c1dfX3Y3bGJISkpuUkx1bS13Z1M1cnVxVTBzMnkxaVYtWHlNdFRwRW5kTzdoNTdWOFRCdV9CTHBTcWZCdC15Qk1vakZLQnNJbXMyMkczUWRYcFJmeXpfYQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 00:21:01 GMT",
-        "source": "메트로신문",
-        "ageHours": 3.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "caa76a1ea1e7692d5fa4d53a3c864ebab8e22dc15d162283fda7e8092ca35ac0",
