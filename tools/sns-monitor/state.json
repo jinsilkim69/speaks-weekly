@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-17T20:21:20.602Z",
+  "lastCheckedAt": "2026-11-17T20:51:20.037Z",
   "seenPostIds": {
     "32428b4bfbdbe8d3e692d12bdec7815a9626f7016fee1afba53eedd5b80e10f8": {
       "seenAt": "2026-11-14T06:01:24.102Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-17T19:51:20.948Z",
       "title": "Heroic Santa Cruz teen lifeguard who saved child recognized by Trump at White House - 6abc Philadelphia",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a88979a6729af33df4de66569bd255f0f9001498c379e3a820631cddf2aa0bc4": {
+      "seenAt": "2026-11-17T20:51:21.107Z",
+      "title": "이준석 \"수능 수험장 전파 탐지 앱 개발…교육부, 한시적 허용해야\" - 뉴시스",
+      "targetName": "이준석"
     }
   },
   "pending": []
