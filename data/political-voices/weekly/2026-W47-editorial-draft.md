@@ -3030,3 +3030,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 친명계 "최민희 엄중 징계" vs 친청계 "김민석 징계도 공정하게" - 프레시안
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 친명계 "최민희 엄중 징계" vs 친청계 "김민석 징계도 공정하게"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE56ZlF2RF9pNlVWNUU2YlJUcWVRYkhqN2UteTdLLW1nMnhWWGFWZkRnQ3FSekZraFhOb2p4NlZNcHVJdHFKUXV5WFdzREIwaHdHNDBtMDB6THNYMUpzWUJmZ0lnSmtxdFFIYU5v?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [단독] 日당국자 “조국 입국 거부, 전과자 비자 절차 안밟은 듯” - 중앙일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 日당국자 “조국 입국 거부, 전과자 비자 절차 안밟은 듯”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OTWJld3ZxVlA4Ynl2azhZNnFhYi1vU0EweXRfcG9CMWtfT2VqRGlaT0lVZTEwSmJIN2xTOGxEUU8zWnhKZ0NQcXBTVkNCVnRmSGFIUWpn?oc=5)
+
+---
+
