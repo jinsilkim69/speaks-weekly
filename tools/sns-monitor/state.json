@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T11:41:20.904Z",
+  "lastCheckedAt": "2026-11-17T11:51:18.492Z",
   "seenPostIds": {
-    "028c332471101f844695cdd5e0d39685ad5310c21a85f736378478a5638ea44d": {
-      "seenAt": "2026-11-13T23:01:20.374Z",
-      "title": "김민석의 특별한 ‘신성’ 챙기기… 체육공단 감사 떨어지자 당 체육위원장으로 - 주간조선",
-      "targetName": "김민석"
-    },
-    "f084e9d4b77b96624a77295794e611336a5594b8b58348d2d8521b3cfee3097e": {
-      "seenAt": "2026-11-13T23:01:21.117Z",
-      "title": "'광주 강남' 남구 새 둥지 튼 조국혁신당…차기 총선 포석일까 - 뉴스1",
-      "targetName": "조국"
-    },
-    "99f5af9c0f407753582812102bcea0c6b19b16368098cb0dee74a2d1fdda4c5b": {
-      "seenAt": "2026-11-13T23:11:17.089Z",
-      "title": "이혜훈 '아파트 부정청약' 혐의 공소청 송치...천하람 “100억 아파트 환수해야” - M이코노미뉴스",
-      "targetName": "천하람"
-    },
     "4e636c72bcafbdcd05bf9be5f7e1fcd78ae19e7b1c99a913e078c88866bb0265": {
       "seenAt": "2026-11-13T23:21:16.458Z",
       "title": "이재명 대통령 \"공정하고 투명한 자본시장 만들겠다\"…주가조작·불공정거래 무관용 원칙 강조 - 복지TV부울경방송",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-17T11:41:23.891Z",
       "title": "Donald Trump’s Favorite Aide Faces New Threat to Truth Social Role - AOL.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ce570e4a191e7ba5ff43a3678ecd87f01493239313745320093633cef31e14a5": {
+      "seenAt": "2026-11-17T11:51:19.588Z",
+      "title": "‘조작기소 특검법’ 국무회의 통과에 野 “이재명 탈옥법...국민이 심판할 것” 반발 - 조선일보",
+      "targetName": "이재명"
+    },
+    "b923c604fef17b65ec20ce4b04d2969ffdbed8bc98a03cce7e4286ee35b7b34b": {
+      "seenAt": "2026-11-17T11:51:20.400Z",
+      "title": "정청래, ‘대타협 제안’ 송영길에 “자격 미달자는 나서지 마라” - 천지일보",
+      "targetName": "정청래"
+    },
+    "bde238eebc9e5e9fd0e93c5e0489fb7ef4460cb5fcd73342f637c7f07c79a2a6": {
+      "seenAt": "2026-11-17T11:51:21.098Z",
+      "title": "이준석, 비행기서 만든 AI 부정행위 탐지 앱 공개…“교육부 답변에 한숨” - 주간조선",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "ce570e4a191e7ba5ff43a3678ecd87f01493239313745320093633cef31e14a5",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "‘조작기소 특검법’ 국무회의 통과에 野 “이재명 탈옥법...국민이 심판할 것” 반발 - 조선일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxObjhpVHJxNmUyd2t5U0pTUFVIeTBJSUlMNzNsNS1paXVORG51Qi1qLWdQWmo0TFVYMVpHYlctdTFnZzBDQkdxcENBeEJEWXJUQ3RlU29SSTFzNmRlcVhqN1NXdkJOZ0JrdXlEdWJ3aTRIa0dJVm81NURzV0NaZERVT0NaN0JJQQ?oc=5\" target=\"_blank\">‘조작기소 특검법’ 국무회의 통과에 野 “이재명 탈옥법...국민이 심판할 것” 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjhpVHJxNmUyd2t5U0pTUFVIeTBJSUlMNzNsNS1paXVORG51Qi1qLWdQWmo0TFVYMVpHYlctdTFnZzBDQkdxcENBeEJEWXJUQ3RlU29SSTFzNmRlcVhqN1NXdkJOZ0JrdXlEdWJ3aTRIa0dJVm81NURzV0NaZERVT0NaN0JJQQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 05:41:00 GMT",
-        "source": "조선일보",
-        "ageHours": 3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "b923c604fef17b65ec20ce4b04d2969ffdbed8bc98a03cce7e4286ee35b7b34b",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, ‘대타협 제안’ 송영길에 “자격 미달자는 나서지 마라” - 천지일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB4RGItNmtPMUZWMmZlUU1jdmFrb3pNQmU5dXQwZ29FVHZpbGNmY3NFUVZSMHB0ZVFibEJrSmd0c2NBZzl0aTlUUUF0Vkczd29jdkNHVDdLQnhLOWNTTjc5T2NvcTNjZi1fa2c?oc=5\" target=\"_blank\">정청래, ‘대타협 제안’ 송영길에 “자격 미달자는 나서지 마라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4RGItNmtPMUZWMmZlUU1jdmFrb3pNQmU5dXQwZ29FVHZpbGNmY3NFUVZSMHB0ZVFibEJrSmd0c2NBZzl0aTlUUUF0Vkczd29jdkNHVDdLQnhLOWNTTjc5T2NvcTNjZi1fa2c?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:58:26 GMT",
-        "source": "천지일보",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "bde238eebc9e5e9fd0e93c5e0489fb7ef4460cb5fcd73342f637c7f07c79a2a6",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석, 비행기서 만든 AI 부정행위 탐지 앱 공개…“교육부 답변에 한숨” - 주간조선",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA4VXNobk9NNWUtSDk3dnM0RmRKUldNbnpqN2hNUlJEakY4OW5CMXVHWnRWWEFpbFdhMTBOSkN2b01tRnNQN1V5VlpJT1FfeElpNHpzSTlCSHB2Rklta196TzJtUjlZTy1VM2fSAW5BVV95cUxQeGl3YnhKRF9VZHB4VE52c0Q1YzhCOFpKWmtxcWVaOHBUQVkyYkEwbkViTFVVbU9GcGtVUmp0MGo4aFZaRnNRSEpySVpVV2hUZi1qcmlYWTFhQ3JMRHhRelRpMExjNEZ4Y091QlBOZw?oc=5\" target=\"_blank\">이준석, 비행기서 만든 AI 부정행위 탐지 앱 공개…“교육부 답변에 한숨”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간조선</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4VXNobk9NNWUtSDk3dnM0RmRKUldNbnpqN2hNUlJEakY4OW5CMXVHWnRWWEFpbFdhMTBOSkN2b01tRnNQN1V5VlpJT1FfeElpNHpzSTlCSHB2Rklta196TzJtUjlZTy1VM2fSAW5BVV95cUxQeGl3YnhKRF9VZHB4VE52c0Q1YzhCOFpKWmtxcWVaOHBUQVkyYkEwbkViTFVVbU9GcGtVUmp0MGo4aFZaRnNRSEpySVpVV2hUZi1qcmlYWTFhQ3JMRHhRelRpMExjNEZ4Y091QlBOZw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 05:45:00 GMT",
-        "source": "주간조선",
-        "ageHours": 2.9
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "db91d30e17508dffc0f833cac43b6d04200966c8f4a1bc7e09a00ad31c5f6499",

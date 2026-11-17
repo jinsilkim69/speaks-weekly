@@ -2718,3 +2718,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** ‘조작기소 특검법’ 국무회의 통과에 野 “이재명 탈옥법...국민이 심판할 것” 반발 - 조선일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘조작기소 특검법’ 국무회의 통과에 野 “이재명 탈옥법...국민이 심판할 것” 반발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxObjhpVHJxNmUyd2t5U0pTUFVIeTBJSUlMNzNsNS1paXVORG51Qi1qLWdQWmo0TFVYMVpHYlctdTFnZzBDQkdxcENBeEJEWXJUQ3RlU29SSTFzNmRlcVhqN1NXdkJOZ0JrdXlEdWJ3aTRIa0dJVm81NURzV0NaZERVT0NaN0JJQQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, ‘대타협 제안’ 송영길에 “자격 미달자는 나서지 마라” - 천지일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, ‘대타협 제안’ 송영길에 “자격 미달자는 나서지 마라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFB4RGItNmtPMUZWMmZlUU1jdmFrb3pNQmU5dXQwZ29FVHZpbGNmY3NFUVZSMHB0ZVFibEJrSmd0c2NBZzl0aTlUUUF0Vkczd29jdkNHVDdLQnhLOWNTTjc5T2NvcTNjZi1fa2c?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 비행기서 만든 AI 부정행위 탐지 앱 공개…“교육부 답변에 한숨” - 주간조선
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 비행기서 만든 AI 부정행위 탐지 앱 공개…“교육부 답변에 한숨”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFA4VXNobk9NNWUtSDk3dnM0RmRKUldNbnpqN2hNUlJEakY4OW5CMXVHWnRWWEFpbFdhMTBOSkN2b01tRnNQN1V5VlpJT1FfeElpNHpzSTlCSHB2Rklta196TzJtUjlZTy1VM2fSAW5BVV95cUxQeGl3YnhKRF9VZHB4VE52c0Q1YzhCOFpKWmtxcWVaOHBUQVkyYkEwbkViTFVVbU9GcGtVUmp0MGo4aFZaRnNRSEpySVpVV2hUZi1qcmlYWTFhQ3JMRHhRelRpMExjNEZ4Y091QlBOZw?oc=5)
+
+---
+
