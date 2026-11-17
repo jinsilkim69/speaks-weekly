@@ -2515,57 +2515,24 @@
       "seenAt": "2026-11-17T09:21:21.002Z",
       "title": "송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라” - 시사저널",
       "targetName": "정청래"
+    },
+    "ca6c29f8814aa4b5a9fc15769e51ee8ec744e7bbe402399d57ccb4464527a7f2": {
+      "seenAt": "2026-11-17T09:31:18.466Z",
+      "title": "정청래, '대타협 촉구' 송영길에 \"자격미달자 나서지 마세요\" - 싱글리스트",
+      "targetName": "정청래"
+    },
+    "c5dbe612d88f358f1ace3ccfe5397e5611dda5f551ac30fd7534caa709f76775": {
+      "seenAt": "2026-11-17T09:31:19.117Z",
+      "title": "송영길 “金·鄭 만나서 풀어야”…정청래 “자격 미달자 나서지 말라” - 중앙일보",
+      "targetName": "송영길"
+    },
+    "cd5033bed99a805a269fcbb0bd8d0fa27129c4055ade4c0d9052290addf3ab75": {
+      "seenAt": "2026-11-17T09:31:19.835Z",
+      "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달자 나서지 말라\" - 연합뉴스",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "ca6c29f8814aa4b5a9fc15769e51ee8ec744e7bbe402399d57ccb4464527a7f2",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, '대타협 촉구' 송영길에 \"자격미달자 나서지 마세요\" - 싱글리스트",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vdFVteUlnMm5YNFZMRUdHMTd0dTBkWjJlU1J4d3NGWi1CdTBjNmJxUUJhVjhjdXdTNWg1d1FKMjY4RkZXYXB5NU4zS3VNMTVqNTdrejVabnFkS0dsN3NYRlVweUdfUQ?oc=5\" target=\"_blank\">정청래, '대타협 촉구' 송영길에 \"자격미달자 나서지 마세요\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">싱글리스트</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vdFVteUlnMm5YNFZMRUdHMTd0dTBkWjJlU1J4d3NGWi1CdTBjNmJxUUJhVjhjdXdTNWg1d1FKMjY4RkZXYXB5NU4zS3VNMTVqNTdrejVabnFkS0dsN3NYRlVweUdfUQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:27:41 GMT",
-        "source": "싱글리스트",
-        "ageHours": 0.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c5dbe612d88f358f1ace3ccfe5397e5611dda5f551ac30fd7534caa709f76775",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 “金·鄭 만나서 풀어야”…정청래 “자격 미달자 나서지 말라” - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mSzhQeGNpcWVYUWpTaUFnaUFZZUlpQVhpR3lDOGNHSUpYck5kcUFmbGg2RmpnNU1GRGJxQXpKQmtRUm9XdzZwVm9ZcFhrTzhoakNEZ0VR?oc=5\" target=\"_blank\">송영길 “金·鄭 만나서 풀어야”…정청래 “자격 미달자 나서지 말라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mSzhQeGNpcWVYUWpTaUFnaUFZZUlpQVhpR3lDOGNHSUpYck5kcUFmbGg2RmpnNU1GRGJxQXpKQmtRUm9XdzZwVm9ZcFhrTzhoakNEZ0VR?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:49:40 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "cd5033bed99a805a269fcbb0bd8d0fa27129c4055ade4c0d9052290addf3ab75",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달자 나서지 말라\" - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JWTNKYmNBWWVPNVVKVEhIS2VhVFNpZ0N2T2VleC0wUlo0YS1BQ2xZTFp0Nk5KbTF3ZzZRZkRPZVU0c29rSk8zMFpuSEpwQTlobktoTE5GRDhOWkHSAWBBVV95cUxOQXZiUkJhaDFKdWNsOGpsNlU0Q1N6MmVHWkJ3MnJ6ZVU0NXljeUxYbTlZbkFwQ0swaEt6UHRfUkRYN2swUnEtemlWYTFqanRSaDJoODl4cjdpdThoVXA2RjI?oc=5\" target=\"_blank\">송영길 \"金·鄭 대화해야\"…정청래 \"자격미달자 나서지 말라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JWTNKYmNBWWVPNVVKVEhIS2VhVFNpZ0N2T2VleC0wUlo0YS1BQ2xZTFp0Nk5KbTF3ZzZRZkRPZVU0c29rSk8zMFpuSEpwQTlobktoTE5GRDhOWkHSAWBBVV95cUxOQXZiUkJhaDFKdWNsOGpsNlU0Q1N6MmVHWkJ3MnJ6ZVU0NXljeUxYbTlZbkFwQ0swaEt6UHRfUkRYN2swUnEtemlWYTFqanRSaDJoODl4cjdpdThoVXA2RjI?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:06:01 GMT",
-        "source": "연합뉴스",
-        "ageHours": 1.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "dd4e9e098736ffc1191ad5a57be60e9e097c64416438a729567217ddf34855c3",
