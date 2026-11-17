@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T10:11:23.812Z",
+  "lastCheckedAt": "2026-11-17T10:21:18.967Z",
   "seenPostIds": {
-    "bc54c92e739756bc50d7fffadba6104eafb77f1fd0977896766d4a3afef7db6f": {
-      "seenAt": "2026-11-13T14:21:19.387Z",
-      "title": "한동훈 \"최민희 말이 맞아…李대통령, 재판만 열리면 끝나는 시한부\" - 매일신문",
-      "targetName": "한동훈"
-    },
-    "c69e81a1e26eed615f99cc665295d5e007c8ea8d92a7b8ad54e1351de0a06953": {
-      "seenAt": "2026-11-13T14:41:16.891Z",
-      "title": "\"한국 기독교인이여, 신천지와 왜 싸우지 않는가!\" 송영길의 간곡한 호소문(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문",
-      "targetName": "송영길"
-    },
-    "8814a619a5c7bb92cb33d422980f7cf4c5bf783eb7ff130e251827c5410c59b8": {
-      "seenAt": "2026-11-13T14:41:17.561Z",
-      "title": "\"한덕수, 석방 안될 것!\" 법률가 송영길이 확신하는 진짜 이유 (261113 금요일 방송) 송영길 정구승 오윤혜 - 경향신문",
-      "targetName": "송영길"
-    },
     "3e6b056e454816eb40fce014d75b97fb81735f8f00c88df5cc33d688deafbc12": {
       "seenAt": "2026-11-13T15:01:17.991Z",
       "title": "오세훈·이준석, 시청서 조찬 회동…정책 현안 논의 - 서울경제",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-17T10:11:26.958Z",
       "title": "‘하버드 출신’ 이준석도 나섰다…직접 만든 ‘AI 커닝 탐지 앱’ 깜짝 - 중앙일보",
       "targetName": "이준석"
+    },
+    "1b7d2867e935b127c7f1b0c118d73fdad59c4cee9aea2bea6fbdf5b8060a53c9": {
+      "seenAt": "2026-11-17T10:21:19.989Z",
+      "title": "이준석 “전파탐지 앱 개발했다…교육부 신속 검토 바라” [자막뉴스] - 채널A",
+      "targetName": "이준석"
+    },
+    "a5fef3198cbdc21816721d7ad71b2edbf3a5f0fdcb5370e9667034fffa61a6ec": {
+      "seenAt": "2026-11-17T10:21:20.622Z",
+      "title": "'AI 컨닝' 계산기까지 개조... 이준석, 전파 탐지 앱 개발 - 법률방송뉴스",
+      "targetName": "이준석"
+    },
+    "03f83699c24fd47e51df2506e508f420ad67f6c477941b51dd1af5a1c7af7479": {
+      "seenAt": "2026-11-17T10:21:21.238Z",
+      "title": "[인터뷰] 천하람 \"中, 수능 때 AI 문제풀이 차단…한국도 배워야\" - 뉴스1",
+      "targetName": "천하람"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "1b7d2867e935b127c7f1b0c118d73fdad59c4cee9aea2bea6fbdf5b8060a53c9",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 “전파탐지 앱 개발했다…교육부 신속 검토 바라” [자막뉴스] - 채널A",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MdEZmT20zdEluTkhUWnE3ZDdSRWVsS3o4NHI1VVhnS0h5TDBJUkg2Tnh1cmFxRmg1WVZPd2tPdWZDblNMM0hWRVplc2RWU3JSNGt6Yk96blF4MGlQVkRXVm5aWdIBY0FVX3lxTE5MdEZmT20zdEluTkhUWnE3ZDdSRWVsS3o4NHI1VVhnS0h5TDBJUkg2Tnh1cmFxRmg1WVZPd2tPdWZDblNMM0hWRVplc2RWU3JSNGt6Yk96blF4MGlQVkRXVm5aWQ?oc=5\" target=\"_blank\">이준석 “전파탐지 앱 개발했다…교육부 신속 검토 바라” [자막뉴스]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MdEZmT20zdEluTkhUWnE3ZDdSRWVsS3o4NHI1VVhnS0h5TDBJUkg2Tnh1cmFxRmg1WVZPd2tPdWZDblNMM0hWRVplc2RWU3JSNGt6Yk96blF4MGlQVkRXVm5aWdIBY0FVX3lxTE5MdEZmT20zdEluTkhUWnE3ZDdSRWVsS3o4NHI1VVhnS0h5TDBJUkg2Tnh1cmFxRmg1WVZPd2tPdWZDblNMM0hWRVplc2RWU3JSNGt6Yk96blF4MGlQVkRXVm5aWQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 05:56:00 GMT",
-        "source": "채널A",
-        "ageHours": 2.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "a5fef3198cbdc21816721d7ad71b2edbf3a5f0fdcb5370e9667034fffa61a6ec",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "'AI 컨닝' 계산기까지 개조... 이준석, 전파 탐지 앱 개발 - 법률방송뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lN0JhM1FMMmlGZ1N0WkZPbmpkYUFoMUYzaWZPbmZ3Y09jS0kybmduMnlnZURKWnpMNjVFbHZ1bWcxUjFtbnJnaFRoZ1dPOWZ3X3BuNjEwX3B2RUxHSGwwME5vVzg?oc=5\" target=\"_blank\">'AI 컨닝' 계산기까지 개조... 이준석, 전파 탐지 앱 개발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">법률방송뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lN0JhM1FMMmlGZ1N0WkZPbmpkYUFoMUYzaWZPbmZ3Y09jS0kybmduMnlnZURKWnpMNjVFbHZ1bWcxUjFtbnJnaFRoZ1dPOWZ3X3BuNjEwX3B2RUxHSGwwME5vVzg?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 05:36:25 GMT",
-        "source": "법률방송뉴스",
-        "ageHours": 2.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "03f83699c24fd47e51df2506e508f420ad67f6c477941b51dd1af5a1c7af7479",
-        "targetId": "cheon_haram",
-        "targetName": "천하람",
-        "targetTitle": "개혁신당 원내대표",
-        "title": "[인터뷰] 천하람 \"中, 수능 때 AI 문제풀이 차단…한국도 배워야\" - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WWnhIRWluNXk3VDltMXhBR2pIUEFWdEJYUy10VzFkbEVyRmdHa0VHZkU4U0JJZEcyYjBqZElOcExFSnFUNThVMVU1WkF3ZlY2T01NNUF5Q1RJVktKNUFmM25tMTI?oc=5\" target=\"_blank\">[인터뷰] 천하람 \"中, 수능 때 AI 문제풀이 차단…한국도 배워야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WWnhIRWluNXk3VDltMXhBR2pIUEFWdEJYUy10VzFkbEVyRmdHa0VHZkU4U0JJZEcyYjBqZElOcExFSnFUNThVMVU1WkF3ZlY2T01NNUF5Q1RJVktKNUFmM25tMTI?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 05:28:58 GMT",
-        "source": "뉴스1",
-        "ageHours": 2.9
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "408786869aaf0e833a375adc9da51435965b5b49cd88aca6b63163c2ef1dbb05",
@@ -3378,6 +3330,38 @@
         "pubDate": "Tue, 17 Nov 2026 08:50:35 GMT",
         "source": "중앙일보",
         "ageHours": 1.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "297acac5091f07531e040cde25cfb58c45503e34e0cf7f8cb9afab1c40ef8a64",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라 - 뉴데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbU1wVDNUaFJfTjA3WmEyRkVxbGQ3ckdHTzlQc3BYV0Z5YVZzRHZaaXhMdHRhMkRvZXlPUUVxZVlXUDhZVG16QUVkMVNQdW45RDY4bUh2QWE3c3pkR1ZDUVJqeUpvSkswNi1QRnZUMFV0anZ2Vy1reW5wUdIBgAFBVV95cUxPb0JzVWxjM2kybmpPZzQ3U0JwcFNkVGZPdnpib2FWcFNXQWFpLWRVSkdhY0hPbWVEOTkySl9kN3RiT1RmYjNkY1p3aHFmU01oTUdkcFV3TnFObnVzNk5mQnVTeW1tTHRPejB6WmxmX0pRa2YtZmRIZXpkTXN0TEJFbg?oc=5\" target=\"_blank\">정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbU1wVDNUaFJfTjA3WmEyRkVxbGQ3ckdHTzlQc3BYV0Z5YVZzRHZaaXhMdHRhMkRvZXlPUUVxZVlXUDhZVG16QUVkMVNQdW45RDY4bUh2QWE3c3pkR1ZDUVJqeUpvSkswNi1QRnZUMFV0anZ2Vy1reW5wUdIBgAFBVV95cUxPb0JzVWxjM2kybmpPZzQ3U0JwcFNkVGZPdnpib2FWcFNXQWFpLWRVSkdhY0hPbWVEOTkySl9kN3RiT1RmYjNkY1p3aHFmU01oTUdkcFV3TnFObnVzNk5mQnVTeW1tTHRPejB6WmxmX0pRa2YtZmRIZXpkTXN0TEJFbg?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 06:32:00 GMT",
+        "source": "뉴데일리",
+        "ageHours": 3.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "bfac75f4421e9415b5fe370a22acde9517c696af7aa2359b937bf3374214a72d",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "‘Market-moving’ posts under fire: White House aide Natalie Harp could be barred from posting to Donald Trump’s Truth Social in lawsuit - AOL.com",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5KYURWclFDTWtiWHZFNzY2YnRVck9OdGFxd0Y3bmNTYy1RZWUwOC1DNEF6ZU5YX0lZSjRmMnBZTFRQZ1I2U1RIRGhldk1vcVNjNXMzcVFNZnNZSkhrSkJNOXBpWnBYQlA5MHIzWUNXSXlwZGRWMGZscC1qeXctR1U?oc=5\" target=\"_blank\">‘Market-moving’ posts under fire: White House aide Natalie Harp could be barred from posting to Donald Trump’s Truth Social in lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KYURWclFDTWtiWHZFNzY2YnRVck9OdGFxd0Y3bmNTYy1RZWUwOC1DNEF6ZU5YX0lZSjRmMnBZTFRQZ1I2U1RIRGhldk1vcVNjNXMzcVFNZnNZSkhrSkJNOXBpWnBYQlA5MHIzWUNXSXlwZGRWMGZscC1qeXctR1U?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 09:30:38 GMT",
+        "source": "AOL.com",
+        "ageHours": 0.8
       },
       "delivered": [],
       "archived": false
