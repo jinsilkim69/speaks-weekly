@@ -1808,3 +1808,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "또 뒤통수 맞을 것…한덕수 대법 판결 주목해야" - 뉴스1
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "또 뒤통수 맞을 것…한덕수 대법 판결 주목해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TdGtwWW10Y2JvakNaTmhBSGF2ZU9fdEhhVkRLVHpmY1dQMmxSU0U0MmlEVjZLZFk4RUJHMGxIakZUVVFmU1ZMS196N082TGVzV1VLUjlJRUFoUQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 의원총회, 발언하는 김준형 원내대표 - 연합뉴스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 의원총회, 발언하는 김준형 원내대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EYVc1cFpUY2E1QWRYcktLdTFpVnA2N2tVNndFb0t0YTNmaGR6LVMtckZxYmw1OXg2LTJ0V251QXdFM2Z5UnphaE14eXE4WWZhaGFQeENtWlVjc1BxRDV3WNIBYEFVX3lxTE5EYVc1cFpUY2E1QWRYcktLdTFpVnA2N2tVNndFb0t0YTNmaGR6LVMtckZxYmw1OXg2LTJ0V251QXdFM2Z5UnphaE14eXE4WWZhaGFQeENtWlVjc1BxRDV3WA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 삼성라이온즈 선수가 김민석·조국보다 훌륭한 시절 - OhmyNews
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 삼성라이온즈 선수가 김민석·조국보다 훌륭한 시절
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE9jLW5MRlFXUF85RkFnTzVQeXZGd0U2T2VNU2hVRmVWTDBhNmhhZUtPMnZCTlhWMFQtWHdmcEY0VDlqZzBxd1VUWHhIZU9CekhPRlNOY1lVUEpUczVUQ0JqQXBOTi1rVkgyVm1pM3lVbVQ4NFgtT05r?oc=5)
+
+---
+
