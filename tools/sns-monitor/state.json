@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T10:51:17.321Z",
+  "lastCheckedAt": "2026-11-17T11:11:19.939Z",
   "seenPostIds": {
-    "0e06372e9dc450f89f7cd32dac91cbd9ab1d8981b839de89f2d8e5b7d8aff41e": {
-      "seenAt": "2026-11-13T16:21:18.622Z",
-      "title": "\"신주쿠 한인 가게, 500개 늘어\" 이잼의 실용외교가 바꿔놓은 재일동포의 삶(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문",
-      "targetName": "송영길"
-    },
-    "cd01bcd18d317b8eeb81166764f76663f5c6749a129b86096a8910097f149ed2": {
-      "seenAt": "2026-11-13T16:31:20.027Z",
-      "title": "President Trump floated this Alabama ‘legend’ as a surprise candidate to become Nvidia’s CEO - AL.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "c703fb902c2814c4c92060e7971cb351ace64d10fa62fc1a9aa29e52fa66aa77": {
-      "seenAt": "2026-11-13T17:41:22.540Z",
-      "title": "Jimmy Kimmel thinks Donald Trump has ‘lost his mojo’ after midterms: ‘This is getting pathetic’ - Entertainment Weekly",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "098052f12bd6462da929cc67f61b76d054ce79fc94d319f7d14d4abe321addae": {
-      "seenAt": "2026-11-13T18:31:19.422Z",
-      "title": "이재명 대통령, 증시 개혁 칼 뺐다.. 부실기업 퇴출·주가조작 엄단 > 뉴스 - 지데일리",
-      "targetName": "이재명"
-    },
-    "dcb95ac234db25f59ac2edd2cd0f25174325335bd6c2d724cf7019ccbe3e99be": {
-      "seenAt": "2026-11-13T18:41:22.521Z",
-      "title": "최민희 “통일교가 김민석 밀었다…이재명 대통령도 ‘윤석열 하야’ 쪽이었다\" - JTBC",
-      "targetName": "이재명"
-    },
-    "5636c3b7d6c28a4888b1da43bed0189c4380fb023358b8b9d766066d674cd52d": {
-      "seenAt": "2026-11-13T19:51:16.874Z",
-      "title": "\"최민희 윤리감찰\" 김민석 지시에‥친청계 '보이콧' 맞불 - MBC 뉴스",
-      "targetName": "김민석"
-    },
     "fe732c7c5c9dbcf2895e04631ea58dcd96c6f796b526c6c256fc282d52872bc4": {
       "seenAt": "2026-11-13T20:01:17.788Z",
       "title": "Trump DOJ wants immediate stop to lawsuit discovery over Truth Social’s new $100,000 service, calls request for records a waste of time - Yahoo",
@@ -2530,57 +2500,24 @@
       "seenAt": "2026-11-17T11:01:23.172Z",
       "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f7af1872be032bdee4b2cc9314b74b5bf220f0b3af0aadfa34bfc1be26b58ab7": {
+      "seenAt": "2026-11-17T11:11:21.447Z",
+      "title": "이재명 대통령, 아세안에 ‘AI 동행·문화 창조산업’ 2대 이니셔티브 제안 - 아세안익스프레스",
+      "targetName": "이재명"
+    },
+    "0c2c21caca4a809d4e90710c5104e198544735f934b2550dcdb01275c9ec7c4f": {
+      "seenAt": "2026-11-17T11:11:22.283Z",
+      "title": "“한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성 - 중앙일보",
+      "targetName": "한동훈"
+    },
+    "ebfe352c6e572a5b8569800a53c8d7d378c5946fa3631096866318c6068b052b": {
+      "seenAt": "2026-11-17T11:11:23.053Z",
+      "title": "국힘 장동혁 대표, 한동훈 장인상 조문 - TBS 서울",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "f7af1872be032bdee4b2cc9314b74b5bf220f0b3af0aadfa34bfc1be26b58ab7",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령, 아세안에 ‘AI 동행·문화 창조산업’ 2대 이니셔티브 제안 - 아세안익스프레스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsM3JBZXhSY01HdUFjRXQwY0RBUk4xRUM4VkJLV1JmWFhYeFlrb3pNYlNFZWtSUmZMOHdtMkM1V09BdWVSdW8wZHJaLUF6Z1JxOGZURkRZYm5FdjF5NHZQVnhIZnpMaVEw?oc=5\" target=\"_blank\">이재명 대통령, 아세안에 ‘AI 동행·문화 창조산업’ 2대 이니셔티브 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아세안익스프레스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsM3JBZXhSY01HdUFjRXQwY0RBUk4xRUM4VkJLV1JmWFhYeFlrb3pNYlNFZWtSUmZMOHdtMkM1V09BdWVSdW8wZHJaLUF6Z1JxOGZURkRZYm5FdjF5NHZQVnhIZnpMaVEw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:33:11 GMT",
-        "source": "아세안익스프레스",
-        "ageHours": 2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "0c2c21caca4a809d4e90710c5104e198544735f934b2550dcdb01275c9ec7c4f",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "“한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성 - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OenM2d3dFTFB5bFZaZS1jaENlelhmVzFBNlE2aGMyQjdKeHJzbkQxZElRVmtqN2hTamlQRUcyVUI2amJmaDl2YWFNLUUybDlOZXUtVlhn?oc=5\" target=\"_blank\">“한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OenM2d3dFTFB5bFZaZS1jaENlelhmVzFBNlE2aGMyQjdKeHJzbkQxZElRVmtqN2hTamlQRUcyVUI2amJmaDl2YWFNLUUybDlOZXUtVlhn?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:07:09 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ebfe352c6e572a5b8569800a53c8d7d378c5946fa3631096866318c6068b052b",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "국힘 장동혁 대표, 한동훈 장인상 조문 - TBS 서울",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDA3eGlPNWI5cDlDNzREQmFzcFlJeE1vb0xEdi1jdmVUTjA0bE1zZVpFR2wyRVR5SGNPTl9SVjRQX0pNeHNzV3A0T3hnelh6TmhZcE9oTkJJNEpFYkFUOWQ5LUxaTWx5aTZVZUJiXy1HTTZmYV9lREpXc1hSd3gxX19jTkxIbVJGaFE?oc=5\" target=\"_blank\">국힘 장동혁 대표, 한동훈 장인상 조문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS 서울</font>",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDA3eGlPNWI5cDlDNzREQmFzcFlJeE1vb0xEdi1jdmVUTjA0bE1zZVpFR2wyRVR5SGNPTl9SVjRQX0pNeHNzV3A0T3hnelh6TmhZcE9oTkJJNEpFYkFUOWQ5LUxaTWx5aTZVZUJiXy1HTTZmYV9lREpXc1hSd3gxX19jTkxIbVJGaFE?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 01:27:00 GMT",
-        "source": "TBS 서울",
-        "ageHours": 7.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "8ce83df4a0cdd2c9b9e062c7e11922bc1ee3c1209312c52c5666eaa1e8ac21fd",

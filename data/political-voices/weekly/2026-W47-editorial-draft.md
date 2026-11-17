@@ -2562,3 +2562,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 아세안에 ‘AI 동행·문화 창조산업’ 2대 이니셔티브 제안 - 아세안익스프레스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 아세안에 ‘AI 동행·문화 창조산업’ 2대 이니셔티브 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsM3JBZXhSY01HdUFjRXQwY0RBUk4xRUM4VkJLV1JmWFhYeFlrb3pNYlNFZWtSUmZMOHdtMkM1V09BdWVSdW8wZHJaLUF6Z1JxOGZURkRZYm5FdjF5NHZQVnhIZnpMaVEw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** “한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성 - 중앙일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OenM2d3dFTFB5bFZaZS1jaENlelhmVzFBNlE2aGMyQjdKeHJzbkQxZElRVmtqN2hTamlQRUcyVUI2amJmaDl2YWFNLUUybDlOZXUtVlhn?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국힘 장동혁 대표, 한동훈 장인상 조문 - TBS 서울
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘 장동혁 대표, 한동훈 장인상 조문
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDA3eGlPNWI5cDlDNzREQmFzcFlJeE1vb0xEdi1jdmVUTjA0bE1zZVpFR2wyRVR5SGNPTl9SVjRQX0pNeHNzV3A0T3hnelh6TmhZcE9oTkJJNEpFYkFUOWQ5LUxaTWx5aTZVZUJiXy1HTTZmYV9lREpXc1hSd3gxX19jTkxIbVJGaFE?oc=5)
+
+---
+
