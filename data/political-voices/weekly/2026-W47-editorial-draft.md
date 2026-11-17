@@ -2679,3 +2679,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 혁신당 "일본, 조국 입국 거부‥즉각 해명·사과하라" - MBC 뉴스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 혁신당 "일본, 조국 입국 거부‥즉각 해명·사과하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE50TzZTRXROR0JfNm9aWFcyOWZIT1pWbHlFRXNhbUtrekpYb1ByRVJuV1VhcDlsR0xuaklEOFhhUWRlc0hET3NQWFJDYTZXTjB3bHRrdmZSMkV2aFVjanZHSGNlblJIQ2VLZmdVSXEtOTRHeW9aNFhkNdIBeEFVX3lxTFBHeUFHdHdxLUlPZEwyQTZJbkhqaGMtY3VpLXVpRjE4bnBnM3J2YTJCSEpXbE0xZjdCNGpjSHZOQnJVS2ttdHBVX0NZdl9ydi1nNmoyc2JYT1ZwdE15Sk1RcTV1eDc0bXFPUENGX2o0Tm9pNlpjaXcwbw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 일본 하네다공항서 입국 거부…혁신당 “일본 정부 공식 사과하라” - 신문고뉴스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 일본 하네다공항서 입국 거부…혁신당 “일본 정부 공식 사과하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YXzdtWUhvc0F5ZUt2blFCNEhEZ3NMaGlta1A3SHVDcS1mMjN3Z1drM0wtTmIzTTJyVnl2a1Ria09DRzRyQ1Br?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump’s Favorite Aide Faces New Threat to Truth Social Role - AOL.com
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump’s Favorite Aide Faces New Threat to Truth Social Role
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiggFBVV95cUxPZjVEVDM3MDlxXzJpN2VYU3pLTGVDY00tQTlKeEJOZVVqcHFXajNBSnRoUmZNc1JTajdHQ21NM2dCOS1YY0hnV3FsT21EZGxpQk9yYnRPS0lUWU5IWVVzdGNJWG83Nmt1YjlCQXpmRlRtLVJyaUs5V3VsRnVsazBBTWt3?oc=5)
+
+---
+

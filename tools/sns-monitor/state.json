@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T11:21:23.347Z",
+  "lastCheckedAt": "2026-11-17T11:41:20.904Z",
   "seenPostIds": {
-    "1a261422c4979f7629710ea75ba598245ed824ef37bc139c735fe12d56326876": {
-      "seenAt": "2026-11-13T20:41:18.372Z",
-      "title": "조국혁신당, 민주당 합당론에 \"논의 1㎜도 안 돼…쇼통\" - 이투데이",
-      "targetName": "조국"
-    },
-    "d9d116d03790ded749658b38599f82e12ef98033314b51244ddecf6a434a6224": {
-      "seenAt": "2026-11-13T21:01:16.949Z",
-      "title": "김민석 100일도 안돼 ‘명·청 정면충돌’ - 조선일보",
-      "targetName": "김민석"
-    },
-    "c385ca3bbd41e825051bcd2853ce8afaffdffcef6c8b25a43a296f0c349c022b": {
-      "seenAt": "2026-11-13T21:11:17.716Z",
-      "title": "[뉴스분석] 김민석, '소통'으로 위기 정면돌파...정청래에 손 내밀고 여론 경청 행보 - 뉴스핌",
-      "targetName": "정청래"
-    },
-    "cd50c6838852c026c150bb9efb2dc5b264163ec62acf1e3f1ba9ffdee79c6bbd": {
-      "seenAt": "2026-11-13T21:21:18.893Z",
-      "title": "친정청래계 3인방 기자회견 일파만파... 심각하다는 현재 민주당 상황 - 위키트리",
-      "targetName": "정청래"
-    },
-    "67c189ca8fcc1fa4e4767748a38cbf7e297657d0ec0c49c8d7a9d19c0565a726": {
-      "seenAt": "2026-11-13T21:31:17.692Z",
-      "title": "오세훈·이준석, 시청서 조찬 회동…정책 현안 논의 - 서울경제",
-      "targetName": "이준석"
-    },
-    "31268a7f56381a80c8ddbaf514c42e265aaa1d8f50006dd5f27b6690b6dacdd7": {
-      "seenAt": "2026-11-13T22:31:16.536Z",
-      "title": "조국도 김민석 저격?…\"민주당, 합당 결사 반대했던 이들이 찬성론자인 양…\" - 프레시안",
-      "targetName": "김민석"
-    },
     "028c332471101f844695cdd5e0d39685ad5310c21a85f736378478a5638ea44d": {
       "seenAt": "2026-11-13T23:01:20.374Z",
       "title": "김민석의 특별한 ‘신성’ 챙기기… 체육공단 감사 떨어지자 당 체육위원장으로 - 주간조선",
@@ -2530,57 +2500,24 @@
       "seenAt": "2026-11-17T11:31:19.196Z",
       "title": "죽창가 SNS 올리던 조국, 日 하네다공항서 입국 거부당했다 - 뉴데일리",
       "targetName": "조국"
+    },
+    "63e80c54ab96204ef2d113a5efc8356b9650f735a678ac92e305abb005aa27da": {
+      "seenAt": "2026-11-17T11:41:22.365Z",
+      "title": "혁신당 \"일본, 조국 입국 거부‥즉각 해명·사과하라\" - MBC 뉴스",
+      "targetName": "조국"
+    },
+    "78dae56d53d34d6a51ec8b904561de0084325c7d246ac8be27e3fff92b1fc433": {
+      "seenAt": "2026-11-17T11:41:23.136Z",
+      "title": "조국, 일본 하네다공항서 입국 거부…혁신당 “일본 정부 공식 사과하라” - 신문고뉴스",
+      "targetName": "조국"
+    },
+    "ba80e49e4ad132b6e49aaf24af2b70b77c7d1b0837524099503464445e5902d9": {
+      "seenAt": "2026-11-17T11:41:23.891Z",
+      "title": "Donald Trump’s Favorite Aide Faces New Threat to Truth Social Role - AOL.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "63e80c54ab96204ef2d113a5efc8356b9650f735a678ac92e305abb005aa27da",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "혁신당 \"일본, 조국 입국 거부‥즉각 해명·사과하라\" - MBC 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE50TzZTRXROR0JfNm9aWFcyOWZIT1pWbHlFRXNhbUtrekpYb1ByRVJuV1VhcDlsR0xuaklEOFhhUWRlc0hET3NQWFJDYTZXTjB3bHRrdmZSMkV2aFVjanZHSGNlblJIQ2VLZmdVSXEtOTRHeW9aNFhkNdIBeEFVX3lxTFBHeUFHdHdxLUlPZEwyQTZJbkhqaGMtY3VpLXVpRjE4bnBnM3J2YTJCSEpXbE0xZjdCNGpjSHZOQnJVS2ttdHBVX0NZdl9ydi1nNmoyc2JYT1ZwdE15Sk1RcTV1eDc0bXFPUENGX2o0Tm9pNlpjaXcwbw?oc=5\" target=\"_blank\">혁신당 \"일본, 조국 입국 거부‥즉각 해명·사과하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50TzZTRXROR0JfNm9aWFcyOWZIT1pWbHlFRXNhbUtrekpYb1ByRVJuV1VhcDlsR0xuaklEOFhhUWRlc0hET3NQWFJDYTZXTjB3bHRrdmZSMkV2aFVjanZHSGNlblJIQ2VLZmdVSXEtOTRHeW9aNFhkNdIBeEFVX3lxTFBHeUFHdHdxLUlPZEwyQTZJbkhqaGMtY3VpLXVpRjE4bnBnM3J2YTJCSEpXbE0xZjdCNGpjSHZOQnJVS2ttdHBVX0NZdl9ydi1nNmoyc2JYT1ZwdE15Sk1RcTV1eDc0bXFPUENGX2o0Tm9pNlpjaXcwbw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:17:13 GMT",
-        "source": "MBC 뉴스",
-        "ageHours": 2.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "78dae56d53d34d6a51ec8b904561de0084325c7d246ac8be27e3fff92b1fc433",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국, 일본 하네다공항서 입국 거부…혁신당 “일본 정부 공식 사과하라” - 신문고뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YXzdtWUhvc0F5ZUt2blFCNEhEZ3NMaGlta1A3SHVDcS1mMjN3Z1drM0wtTmIzTTJyVnl2a1Ria09DRzRyQ1Br?oc=5\" target=\"_blank\">조국, 일본 하네다공항서 입국 거부…혁신당 “일본 정부 공식 사과하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">신문고뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YXzdtWUhvc0F5ZUt2blFCNEhEZ3NMaGlta1A3SHVDcS1mMjN3Z1drM0wtTmIzTTJyVnl2a1Ria09DRzRyQ1Br?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:13:00 GMT",
-        "source": "신문고뉴스",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ba80e49e4ad132b6e49aaf24af2b70b77c7d1b0837524099503464445e5902d9",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Donald Trump’s Favorite Aide Faces New Threat to Truth Social Role - AOL.com",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZjVEVDM3MDlxXzJpN2VYU3pLTGVDY00tQTlKeEJOZVVqcHFXajNBSnRoUmZNc1JTajdHQ21NM2dCOS1YY0hnV3FsT21EZGxpQk9yYnRPS0lUWU5IWVVzdGNJWG83Nmt1YjlCQXpmRlRtLVJyaUs5V3VsRnVsazBBTWt3?oc=5\" target=\"_blank\">Donald Trump’s Favorite Aide Faces New Threat to Truth Social Role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZjVEVDM3MDlxXzJpN2VYU3pLTGVDY00tQTlKeEJOZVVqcHFXajNBSnRoUmZNc1JTajdHQ21NM2dCOS1YY0hnV3FsT21EZGxpQk9yYnRPS0lUWU5IWVVzdGNJWG83Nmt1YjlCQXpmRlRtLVJyaUs5V3VsRnVsazBBTWt3?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:35:00 GMT",
-        "source": "AOL.com",
-        "ageHours": 0.9
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "ce570e4a191e7ba5ff43a3678ecd87f01493239313745320093633cef31e14a5",
@@ -3105,6 +3042,38 @@
         "pubDate": "Tue, 17 Nov 2026 10:53:06 GMT",
         "source": "서울신문",
         "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "e822fb19d9ead11b80e42834be862945c127d94278b7efdd6fd12688a3c5549d",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 \"조희대, 한덕수·김건희 구속 유지와 '탄핵 포기' 맞교환 전술\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBDMDEzN29JNHh5ZVpDdDZDSENzVUFVcHkxZjl1aXh6UXU3amtTZkRuMEZjdW0xOUZpd0hmTXNTYXF0aFM0c3Q1bjJzeXdLUExnNnpvZktGaktFcXRycS1LUUpUMjRVTWZTR3ZkQtIBckFVX3lxTE5KVEU4enBJbTg0WVdUWXV3REE0Z3VpQnlqT3J1OGw2VWJRaUtnYkMtcUJNVV8tVDR1alE3UVZCQnBqZFhiZ1o2YzdZSm9QR0ZPWk91enh2UGItSEFaWGhvRFJ1V3pIT2pJc09pTS1Gdl9tUQ?oc=5\" target=\"_blank\">조국 \"조희대, 한덕수·김건희 구속 유지와 '탄핵 포기' 맞교환 전술\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDMDEzN29JNHh5ZVpDdDZDSENzVUFVcHkxZjl1aXh6UXU3amtTZkRuMEZjdW0xOUZpd0hmTXNTYXF0aFM0c3Q1bjJzeXdLUExnNnpvZktGaktFcXRycS1LUUpUMjRVTWZTR3ZkQtIBckFVX3lxTE5KVEU4enBJbTg0WVdUWXV3REE0Z3VpQnlqT3J1OGw2VWJRaUtnYkMtcUJNVV8tVDR1alE3UVZCQnBqZFhiZ1o2YzdZSm9QR0ZPWk91enh2UGItSEFaWGhvRFJ1V3pIT2pJc09pTS1Gdl9tUQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 07:15:05 GMT",
+        "source": "머니투데이",
+        "ageHours": 4.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "74e1c184b1eecd38f76a722b047367d1fc152a1a37ccc7bbd7f3a8ee44fad221",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Unravels on Economy in Unhinged Truth Social Tirade - The Daily Beast",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0wzZlJ6RWQtSHphOWVxazVFOFdWSVZ3M2Z5Zkp0SXpIaEo5WjczMTU3bDQ4Uk5XUUtjc0U2aUpvT1JZTEZUUkJ0akxyR0oxcW52R1lwMjhFU2p4RFFsTFdzNl9EOWlQS3lKU2phY0QzVjZxWDdYdEttaEF0bUZybWRBbHhhemdqYzZubl9yaDk?oc=5\" target=\"_blank\">Trump Unravels on Economy in Unhinged Truth Social Tirade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0wzZlJ6RWQtSHphOWVxazVFOFdWSVZ3M2Z5Zkp0SXpIaEo5WjczMTU3bDQ4Uk5XUUtjc0U2aUpvT1JZTEZUUkJ0akxyR0oxcW52R1lwMjhFU2p4RFFsTFdzNl9EOWlQS3lKU2phY0QzVjZxWDdYdEttaEF0bUZybWRBbHhhemdqYzZubl9yaDk?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 11:19:25 GMT",
+        "source": "The Daily Beast",
+        "ageHours": 0.4
       },
       "delivered": [],
       "archived": false
