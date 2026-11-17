@@ -2515,57 +2515,24 @@
       "seenAt": "2026-11-17T10:51:19.960Z",
       "title": "조국, 日입국 거부당해…혁신당 \"독도 방문이 사유되지 않았을까\" - 한국경제",
       "targetName": "조국"
+    },
+    "973b308661204745dd3d63022538c355d86956051cf7713651813ad573727f1d": {
+      "seenAt": "2026-11-17T11:01:21.767Z",
+      "title": "조국, 日하네다공항서 입국 거부…혁신당 \"해명·사과하라\"(종합) - 뉴스1",
+      "targetName": "조국"
+    },
+    "9b25660c2209da8e9bc90b939f9cfd254201c9fed569ee76809e2594d02eff09": {
+      "seenAt": "2026-11-17T11:01:22.444Z",
+      "title": "[포토] 간호정책 선포식 축사하는 신장식 대표 - 천지일보",
+      "targetName": "신장식"
+    },
+    "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047": {
+      "seenAt": "2026-11-17T11:01:23.172Z",
+      "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "973b308661204745dd3d63022538c355d86956051cf7713651813ad573727f1d",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국, 日하네다공항서 입국 거부…혁신당 \"해명·사과하라\"(종합) - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSVdkTjVQaEZPTktWYm1Qa3NtTUtPblZhd20xc3NFWUYwR29xQ09ib3pPMFBGR0xNNkJUbW5VTVRJMDdRMGxZRzJnSlpYcWw5ejV1a19SMWRKUQ?oc=5\" target=\"_blank\">조국, 日하네다공항서 입국 거부…혁신당 \"해명·사과하라\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPSVdkTjVQaEZPTktWYm1Qa3NtTUtPblZhd20xc3NFWUYwR29xQ09ib3pPMFBGR0xNNkJUbW5VTVRJMDdRMGxZRzJnSlpYcWw5ejV1a19SMWRKUQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:13:08 GMT",
-        "source": "뉴스1",
-        "ageHours": 2.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "9b25660c2209da8e9bc90b939f9cfd254201c9fed569ee76809e2594d02eff09",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "[포토] 간호정책 선포식 축사하는 신장식 대표 - 천지일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9NcnRFU0NiWXJaRlRhdmpOZENuZFBsZDFJcGRCaUtWa0EtTExXRVZBWHVLSUZUOUhRbFhNQlZNQlJGeE1hTmVIQW1uaWFqR09UMEFkVHVhcmdaa3NOLTgyZ0dJWE5RUEoyd1E?oc=5\" target=\"_blank\">[포토] 간호정책 선포식 축사하는 신장식 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NcnRFU0NiWXJaRlRhdmpOZENuZFBsZDFJcGRCaUtWa0EtTExXRVZBWHVLSUZUOUhRbFhNQlZNQlJGeE1hTmVIQW1uaWFqR09UMEFkVHVhcmdaa3NOLTgyZ0dJWE5RUEoyd1E?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:22:26 GMT",
-        "source": "천지일보",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1VtazEtTTZBendJOWNnaTQ5b2E5Z003aHQ4eC1QYS1hSWNBYndPX2lPcklQZ0NleW9mSzY0U2tKWnNUQTZlS0ZLbVV6bDUtd2ZiZG5KQ0dJOHpWYzI2dnBQM0RfNGpRVmtzLXJBTGVWX3M2N0xwSlBNNTFuWUhCX2JhbDF2R3RGUGY2eS03U25Gd1pYTExUdFV4LVROcm1UWlA5ME9wc3jSAa4BQVVfeXFMTkw1dmlnQjdGa0hPUDVoeEJjWTNrWEQtSVlrbWYxOFNES3ZnVGxDYTdhR1VqNUVXZ080dzhsX1NfMFpjSnQxaFItdUtINjBjM2Fjc0NSazlubE9zYmppbTZHOUpnb0dENlRieVlQQVRpXzdrS3F5TmhiMmNBSkdOYXpCQl9IZXhYZW9GcVhDNTBmZS12YnJNZjdLWjNGMGZBRHduZXYwTXhvWHVIQ2RB?oc=5\" target=\"_blank\">'Let Data Reign': Trump goes all in on controversial data centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1VtazEtTTZBendJOWNnaTQ5b2E5Z003aHQ4eC1QYS1hSWNBYndPX2lPcklQZ0NleW9mSzY0U2tKWnNUQTZlS0ZLbVV6bDUtd2ZiZG5KQ0dJOHpWYzI2dnBQM0RfNGpRVmtzLXJBTGVWX3M2N0xwSlBNNTFuWUhCX2JhbDF2R3RGUGY2eS03U25Gd1pYTExUdFV4LVROcm1UWlA5ME9wc3jSAa4BQVVfeXFMTkw1dmlnQjdGa0hPUDVoeEJjWTNrWEQtSVlrbWYxOFNES3ZnVGxDYTdhR1VqNUVXZ080dzhsX1NfMFpjSnQxaFItdUtINjBjM2Fjc0NSazlubE9zYmppbTZHOUpnb0dENlRieVlQQVRpXzdrS3F5TmhiMmNBSkdOYXpCQl9IZXhYZW9GcVhDNTBmZS12YnJNZjdLWjNGMGZBRHduZXYwTXhvWHVIQ2RB?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 15:20:13 GMT",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "ageHours": 17
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "f7af1872be032bdee4b2cc9314b74b5bf220f0b3af0aadfa34bfc1be26b58ab7",
