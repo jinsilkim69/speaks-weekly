@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T08:21:19.919Z",
+  "lastCheckedAt": "2026-11-17T08:31:26.144Z",
   "seenPostIds": {
-    "93a3a666cfed3c99a53cf108e68d58e46742326bd84eaa67640cb398dfc41106": {
-      "seenAt": "2026-11-13T09:51:20.236Z",
-      "title": "국힘 ‘한동훈 징계조작 의혹’, 중진 나서며 갈등 재점화…친한계 “조작 확인시 장동혁 처벌해야” - 경향신문",
-      "targetName": "한동훈"
-    },
-    "081a4fec17987d2a67ddb269ff2b0a9bbb302630a310bda9a549f56e1634f4f6": {
-      "seenAt": "2026-11-13T10:01:18.717Z",
-      "title": "문진석, 한동훈 '李대통령은 재판 열리면 끝난다' 발언에 \"법 모르는 듯\" - 뉴시스",
-      "targetName": "한동훈"
-    },
-    "25b8ac92516dab7f6e048b5cdd8822a97ae164593cf761c8dbe942f875863961": {
-      "seenAt": "2026-11-13T10:01:19.483Z",
-      "title": "이준석 \"한동훈은 '욕쟁이 할머니?'···맛도 없는데 가야 한다고 강요하면 폭력\" - 대구MBC",
-      "targetName": "이준석"
-    },
     "59d513d8319fdbd7ece1b648fa8f193653366ae963d1ab3a78cc7c6217aec488": {
       "seenAt": "2026-11-13T10:01:20.226Z",
       "title": "조국 \"신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄\" - 뉴시스",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-17T08:21:23.026Z",
       "title": "‘한동훈 복당’ 놓고 국민의힘 내홍 계속...‘조작 징계’ 추가 폭로 예고까지 - 투데이신문",
       "targetName": "한동훈"
+    },
+    "08f31c1dedbd04c7b56edb067203c016ce505afbc2bde5b9440889ca52b66d99": {
+      "seenAt": "2026-11-17T08:31:27.544Z",
+      "title": "송국건 정치평론가 \"한동훈 의원 복당론 제기는 자기 정치 아니냐\" 비판 - 매일신문",
+      "targetName": "한동훈"
+    },
+    "e508a0f12ca19af145f7d8a24b0d9426046018cb841bebd1f31cf18a3a47e464": {
+      "seenAt": "2026-11-17T08:31:28.386Z",
+      "title": "“한동훈 떨거지들 버릇 고치고”…국힘 윤리위원 ‘조작징계’ 증거 제시 - 중앙신문",
+      "targetName": "한동훈"
+    },
+    "aad6a8f11fd4fdf760088cf95eff00dea42e00781f8306bbba3ad57f5c5cda76": {
+      "seenAt": "2026-11-17T08:31:29.143Z",
+      "title": "“한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성 - 중앙일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "08f31c1dedbd04c7b56edb067203c016ce505afbc2bde5b9440889ca52b66d99",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "송국건 정치평론가 \"한동훈 의원 복당론 제기는 자기 정치 아니냐\" 비판 - 매일신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE83NzdZdnNaQlRiWlRzRFk3V1poa2JyX2ZqeVFrM19tOXB4RjRMbG8zZGpKQ3IteHFrb3cwR3RsMHhOdlhhWEpwZlRCc2JVS3VTYkMwY2ZKc3JpVmcxSEQySDNR?oc=5\" target=\"_blank\">송국건 정치평론가 \"한동훈 의원 복당론 제기는 자기 정치 아니냐\" 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83NzdZdnNaQlRiWlRzRFk3V1poa2JyX2ZqeVFrM19tOXB4RjRMbG8zZGpKQ3IteHFrb3cwR3RsMHhOdlhhWEpwZlRCc2JVS3VTYkMwY2ZKc3JpVmcxSEQySDNR?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:08:12 GMT",
-        "source": "매일신문",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e508a0f12ca19af145f7d8a24b0d9426046018cb841bebd1f31cf18a3a47e464",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "“한동훈 떨거지들 버릇 고치고”…국힘 윤리위원 ‘조작징계’ 증거 제시 - 중앙신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMimwNBVV95cUxQNXcwYjRtd0FOLU04NGhlWFNZZE9ORF9ZWVhJWGZXS2llQWotNjR4QWl5eXJuX1FrWURPY0dfTkxBMnFjaHdYN19tYjdvYnJHNzdsRUYtVVBTeEVpVnJwNWNzaU1SQjhWQmNHVG94cThGUjUtbHBDZ2UyRW1DODIwM3JTN29ydWVKZVVza0xOSEdsalpYWEo4enpuREIwMEVyaEZWR2hKOHRXcDZXb0hoUlR4WTVfb29aRzVzWTdlQUlwZHU2dUtma1Q1R1RzV0lPeDlYMlVIc0Z0eDJqaktPZEVQYnkwVFVZZTEtR0YwajJHSE02THVmcDBOQl95d3dzSEtqS2owZ2tPSzBGcHBfY09kdnZNMGtreUE4eW1ERUxsaFAydjNGRi1fWlhjOEp2bDhkZGhqcXNMNnR6RFl2M3NGZVhKQm5aNDd5SE5xc1FaTkI1bmVXM1FCWUtCcGdBNTl2OVBVdnc1Rk9lZmtRODFJSE9tMVNoRDZ6RzE0R1VUYll4UXN0dUVsM2s1anR4YWNrT3RjMXNPYlU?oc=5\" target=\"_blank\">“한동훈 떨거지들 버릇 고치고”…국힘 윤리위원 ‘조작징계’ 증거 제시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQNXcwYjRtd0FOLU04NGhlWFNZZE9ORF9ZWVhJWGZXS2llQWotNjR4QWl5eXJuX1FrWURPY0dfTkxBMnFjaHdYN19tYjdvYnJHNzdsRUYtVVBTeEVpVnJwNWNzaU1SQjhWQmNHVG94cThGUjUtbHBDZ2UyRW1DODIwM3JTN29ydWVKZVVza0xOSEdsalpYWEo4enpuREIwMEVyaEZWR2hKOHRXcDZXb0hoUlR4WTVfb29aRzVzWTdlQUlwZHU2dUtma1Q1R1RzV0lPeDlYMlVIc0Z0eDJqaktPZEVQYnkwVFVZZTEtR0YwajJHSE02THVmcDBOQl95d3dzSEtqS2owZ2tPSzBGcHBfY09kdnZNMGtreUE4eW1ERUxsaFAydjNGRi1fWlhjOEp2bDhkZGhqcXNMNnR6RFl2M3NGZVhKQm5aNDd5SE5xc1FaTkI1bmVXM1FCWUtCcGdBNTl2OVBVdnc1Rk9lZmtRODFJSE9tMVNoRDZ6RzE0R1VUYll4UXN0dUVsM2s1anR4YWNrT3RjMXNPYlU?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 05:49:01 GMT",
-        "source": "중앙신문",
-        "ageHours": 2.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "aad6a8f11fd4fdf760088cf95eff00dea42e00781f8306bbba3ad57f5c5cda76",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "“한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성 - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mM1FwS0YxUEtYOGNwbDRlLTlrMnJianJNYUF5aldLM0ZuOF95dnJYa2gzclFpLVRtbHdXbkpTOU5oaHk3ZnBKRU8xMVkydTVnRmxOWDZR?oc=5\" target=\"_blank\">“한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mM1FwS0YxUEtYOGNwbDRlLTlrMnJianJNYUF5aldLM0ZuOF95dnJYa2gzclFpLVRtbHdXbkpTOU5oaHk3ZnBKRU8xMVkydTVnRmxOWDZR?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:51:12 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "82973a812e79c754c8fe3eb17dbd697a961e8fbc3b298da7e790236bba8cf570",
@@ -3282,6 +3234,198 @@
         "pubDate": "Mon, 16 Nov 2026 15:20:13 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
         "ageHours": 17
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f7af1872be032bdee4b2cc9314b74b5bf220f0b3af0aadfa34bfc1be26b58ab7",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 대통령, 아세안에 ‘AI 동행·문화 창조산업’ 2대 이니셔티브 제안 - 아세안익스프레스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsM3JBZXhSY01HdUFjRXQwY0RBUk4xRUM4VkJLV1JmWFhYeFlrb3pNYlNFZWtSUmZMOHdtMkM1V09BdWVSdW8wZHJaLUF6Z1JxOGZURkRZYm5FdjF5NHZQVnhIZnpMaVEw?oc=5\" target=\"_blank\">이재명 대통령, 아세안에 ‘AI 동행·문화 창조산업’ 2대 이니셔티브 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아세안익스프레스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsM3JBZXhSY01HdUFjRXQwY0RBUk4xRUM4VkJLV1JmWFhYeFlrb3pNYlNFZWtSUmZMOHdtMkM1V09BdWVSdW8wZHJaLUF6Z1JxOGZURkRZYm5FdjF5NHZQVnhIZnpMaVEw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 06:33:11 GMT",
+        "source": "아세안익스프레스",
+        "ageHours": 2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "0c2c21caca4a809d4e90710c5104e198544735f934b2550dcdb01275c9ec7c4f",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "“한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성 - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OenM2d3dFTFB5bFZaZS1jaENlelhmVzFBNlE2aGMyQjdKeHJzbkQxZElRVmtqN2hTamlQRUcyVUI2amJmaDl2YWFNLUUybDlOZXUtVlhn?oc=5\" target=\"_blank\">“한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OenM2d3dFTFB5bFZaZS1jaENlelhmVzFBNlE2aGMyQjdKeHJzbkQxZElRVmtqN2hTamlQRUcyVUI2amJmaDl2YWFNLUUybDlOZXUtVlhn?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:07:09 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ebfe352c6e572a5b8569800a53c8d7d378c5946fa3631096866318c6068b052b",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "국힘 장동혁 대표, 한동훈 장인상 조문 - TBS 서울",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDA3eGlPNWI5cDlDNzREQmFzcFlJeE1vb0xEdi1jdmVUTjA0bE1zZVpFR2wyRVR5SGNPTl9SVjRQX0pNeHNzV3A0T3hnelh6TmhZcE9oTkJJNEpFYkFUOWQ5LUxaTWx5aTZVZUJiXy1HTTZmYV9lREpXc1hSd3gxX19jTkxIbVJGaFE?oc=5\" target=\"_blank\">국힘 장동혁 대표, 한동훈 장인상 조문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TBS 서울</font>",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDA3eGlPNWI5cDlDNzREQmFzcFlJeE1vb0xEdi1jdmVUTjA0bE1zZVpFR2wyRVR5SGNPTl9SVjRQX0pNeHNzV3A0T3hnelh6TmhZcE9oTkJJNEpFYkFUOWQ5LUxaTWx5aTZVZUJiXy1HTTZmYV9lREpXc1hSd3gxX19jTkxIbVJGaFE?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 01:27:00 GMT",
+        "source": "TBS 서울",
+        "ageHours": 7.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "8ce83df4a0cdd2c9b9e062c7e11922bc1ee3c1209312c52c5666eaa1e8ac21fd",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\" - 대전일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1rZFRuWUVsTFpvaVpZV1ZtTjVyeFB6TlFST0RIQmo0eGFDc0tCdlVrN2RBenRzYkRZSTlmLXlCVlR5NWYzYTgzbjMwZ2NYTHZfM0RYMm1PMWt6NlFMZVV4T2xlM2Zhc1NMSTJtRlN1MA?oc=5\" target=\"_blank\">송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rZFRuWUVsTFpvaVpZV1ZtTjVyeFB6TlFST0RIQmo0eGFDc0tCdlVrN2RBenRzYkRZSTlmLXlCVlR5NWYzYTgzbjMwZ2NYTHZfM0RYMm1PMWt6NlFMZVV4T2xlM2Zhc1NMSTJtRlN1MA?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 07:34:00 GMT",
+        "source": "대전일보",
+        "ageHours": 1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "e16a917968ac5ecaad8665bf9af1a517b503ddf53a43d7f4919d71cb724d2178",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈 - 한국경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOHJWNW5LUEdlRzZlbUV0ZUFLNmlkdS15aTFxOUljTlptN21kRmVNSmMzN3Q2T0VlbDB2SjJ5M1gwSUpkS25UVkNqM29kYi1XT3Vrb01CQ1VlQQ?oc=5\" target=\"_blank\">의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOHJWNW5LUEdlRzZlbUV0ZUFLNmlkdS15aTFxOUljTlptN21kRmVNSmMzN3Q2T0VlbDB2SjJ5M1gwSUpkS25UVkNqM29kYi1XT3Vrb01CQ1VlQQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:25:36 GMT",
+        "source": "한국경제",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4597845d162ad340cf70aac8b646d4ecb71432d11d866ec8ebf5396c5a2a42fe",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달자 나서지 말라\" - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdmJSQmFoMUp1Y2w4amw2VTRDU3oyZUdaQncycnplVTQ1eWN5TFhtOVluQXBDSzBoS3pQdF9SRFg3azBScS16aVZhMWpqdFJoMmg4OXhyN2l1OGhVcDZGMtIBYEFVX3lxTE5BdmJSQmFoMUp1Y2w4amw2VTRDU3oyZUdaQncycnplVTQ1eWN5TFhtOVluQXBDSzBoS3pQdF9SRFg3azBScS16aVZhMWpqdFJoMmg4OXhyN2l1OGhVcDZGMg?oc=5\" target=\"_blank\">송영길 \"金·鄭 대화해야\"…정청래 \"자격미달자 나서지 말라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdmJSQmFoMUp1Y2w4amw2VTRDU3oyZUdaQncycnplVTQ1eWN5TFhtOVluQXBDSzBoS3pQdF9SRFg3azBScS16aVZhMWpqdFJoMmg4OXhyN2l1OGhVcDZGMtIBYEFVX3lxTE5BdmJSQmFoMUp1Y2w4amw2VTRDU3oyZUdaQncycnplVTQ1eWN5TFhtOVluQXBDSzBoS3pQdF9SRFg3azBScS16aVZhMWpqdFJoMmg4OXhyN2l1OGhVcDZGMg?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 07:06:01 GMT",
+        "source": "연합뉴스",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "016ea8e88cee193f1d905e2394a3420f3b0ec0273c3016d9ef2a100205a6f0d0",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈 - 한국경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOHJWNW5LUEdlRzZlbUV0ZUFLNmlkdS15aTFxOUljTlptN21kRmVNSmMzN3Q2T0VlbDB2SjJ5M1gwSUpkS25UVkNqM29kYi1XT3Vrb01CQ1VlQQ?oc=5\" target=\"_blank\">의총장 앞에서 날 세운 정청래·송영길…與 윤리심판원에 쏠리는 눈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BOHJWNW5LUEdlRzZlbUV0ZUFLNmlkdS15aTFxOUljTlptN21kRmVNSmMzN3Q2T0VlbDB2SjJ5M1gwSUpkS25UVkNqM29kYi1XT3Vrb01CQ1VlQQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:25:36 GMT",
+        "source": "한국경제",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d0019afba3373d73f054b638143e794a5363a189517bd1235e31a7d4186fe4f9",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라” - 시사저널",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5hZzRoR3VzR0lla05jakdFV1lGOWU4bkZXZ2pWQWdSOWFhcW85N213aDRiWFVjM1hycnBBcFBvaHBDcWFqSERuS2pQa2VwNWwtQVllQklTbFFPaWpzQlhaYUNMM2NXY2QtbnJSR1l5a01nd2_SAXNBVV95cUxOYWc0aEd1c0dJZWtOY2pHRVdZRjllOG5GV2dqVkFnUjlhYXFvOTdtd2g0YlhVYzNYcnJwQXBQb2hwQ3FhakhEbktqUGtlcDVsLUFZZUJJU2xRT2lqc0JYWmFDTDNjV2NkLW5yUkdZeWtNZ3dv?oc=5\" target=\"_blank\">송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hZzRoR3VzR0lla05jakdFV1lGOWU4bkZXZ2pWQWdSOWFhcW85N213aDRiWFVjM1hycnBBcFBvaHBDcWFqSERuS2pQa2VwNWwtQVllQklTbFFPaWpzQlhaYUNMM2NXY2QtbnJSR1l5a01nd2_SAXNBVV95cUxOYWc0aEd1c0dJZWtOY2pHRVdZRjllOG5GV2dqVkFnUjlhYXFvOTdtd2g0YlhVYzNYcnJwQXBQb2hwQ3FhakhEbktqUGtlcDVsLUFZZUJJU2xRT2lqc0JYWmFDTDNjV2NkLW5yUkdZeWtNZ3dv?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 07:13:37 GMT",
+        "source": "시사저널",
+        "ageHours": 1.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "9bf04b41bcf70d30a381e03c63ca1263a72c0cef9e9527e3b2062d0baca02a66",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "죽창가 SNS 올리던 조국, 日 하네다공항서 입국 거부당했다 - 뉴데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbU1wVDNUaFJfTjA3WmEyRkVxbGQ3ckdHTzlQc3BYV0Z5YVZzRHZaaXhMdHRhMkRvZXlPUUVxZVlXUDhZVG16QUVkMVNQdW45RDY4bUh2QWE3c3pkR1ZDUVJqeUpvSkswNi1QRnZUMFV0anZ2Vy1reW5wUdIBgAFBVV95cUxPb0JzVWxjM2kybmpPZzQ3U0JwcFNkVGZPdnpib2FWcFNXQWFpLWRVSkdhY0hPbWVEOTkySl9kN3RiT1RmYjNkY1p3aHFmU01oTUdkcFV3TnFObnVzNk5mQnVTeW1tTHRPejB6WmxmX0pRa2YtZmRIZXpkTXN0TEJFbg?oc=5\" target=\"_blank\">죽창가 SNS 올리던 조국, 日 하네다공항서 입국 거부당했다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RbU1wVDNUaFJfTjA3WmEyRkVxbGQ3ckdHTzlQc3BYV0Z5YVZzRHZaaXhMdHRhMkRvZXlPUUVxZVlXUDhZVG16QUVkMVNQdW45RDY4bUh2QWE3c3pkR1ZDUVJqeUpvSkswNi1QRnZUMFV0anZ2Vy1reW5wUdIBgAFBVV95cUxPb0JzVWxjM2kybmpPZzQ3U0JwcFNkVGZPdnpib2FWcFNXQWFpLWRVSkdhY0hPbWVEOTkySl9kN3RiT1RmYjNkY1p3aHFmU01oTUdkcFV3TnFObnVzNk5mQnVTeW1tTHRPejB6WmxmX0pRa2YtZmRIZXpkTXN0TEJFbg?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 06:32:00 GMT",
+        "source": "뉴데일리",
+        "ageHours": 2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "63e80c54ab96204ef2d113a5efc8356b9650f735a678ac92e305abb005aa27da",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "혁신당 \"일본, 조국 입국 거부‥즉각 해명·사과하라\" - MBC 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE50TzZTRXROR0JfNm9aWFcyOWZIT1pWbHlFRXNhbUtrekpYb1ByRVJuV1VhcDlsR0xuaklEOFhhUWRlc0hET3NQWFJDYTZXTjB3bHRrdmZSMkV2aFVjanZHSGNlblJIQ2VLZmdVSXEtOTRHeW9aNFhkNdIBeEFVX3lxTFBHeUFHdHdxLUlPZEwyQTZJbkhqaGMtY3VpLXVpRjE4bnBnM3J2YTJCSEpXbE0xZjdCNGpjSHZOQnJVS2ttdHBVX0NZdl9ydi1nNmoyc2JYT1ZwdE15Sk1RcTV1eDc0bXFPUENGX2o0Tm9pNlpjaXcwbw?oc=5\" target=\"_blank\">혁신당 \"일본, 조국 입국 거부‥즉각 해명·사과하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50TzZTRXROR0JfNm9aWFcyOWZIT1pWbHlFRXNhbUtrekpYb1ByRVJuV1VhcDlsR0xuaklEOFhhUWRlc0hET3NQWFJDYTZXTjB3bHRrdmZSMkV2aFVjanZHSGNlblJIQ2VLZmdVSXEtOTRHeW9aNFhkNdIBeEFVX3lxTFBHeUFHdHdxLUlPZEwyQTZJbkhqaGMtY3VpLXVpRjE4bnBnM3J2YTJCSEpXbE0xZjdCNGpjSHZOQnJVS2ttdHBVX0NZdl9ydi1nNmoyc2JYT1ZwdE15Sk1RcTV1eDc0bXFPUENGX2o0Tm9pNlpjaXcwbw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 06:17:13 GMT",
+        "source": "MBC 뉴스",
+        "ageHours": 2.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "78dae56d53d34d6a51ec8b904561de0084325c7d246ac8be27e3fff92b1fc433",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국, 일본 하네다공항서 입국 거부…혁신당 “일본 정부 공식 사과하라” - 신문고뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YXzdtWUhvc0F5ZUt2blFCNEhEZ3NMaGlta1A3SHVDcS1mMjN3Z1drM0wtTmIzTTJyVnl2a1Ria09DRzRyQ1Br?oc=5\" target=\"_blank\">조국, 일본 하네다공항서 입국 거부…혁신당 “일본 정부 공식 사과하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">신문고뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YXzdtWUhvc0F5ZUt2blFCNEhEZ3NMaGlta1A3SHVDcS1mMjN3Z1drM0wtTmIzTTJyVnl2a1Ria09DRzRyQ1Br?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:13:00 GMT",
+        "source": "신문고뉴스",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ba80e49e4ad132b6e49aaf24af2b70b77c7d1b0837524099503464445e5902d9",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Donald Trump’s Favorite Aide Faces New Threat to Truth Social Role - AOL.com",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZjVEVDM3MDlxXzJpN2VYU3pLTGVDY00tQTlKeEJOZVVqcHFXajNBSnRoUmZNc1JTajdHQ21NM2dCOS1YY0hnV3FsT21EZGxpQk9yYnRPS0lUWU5IWVVzdGNJWG83Nmt1YjlCQXpmRlRtLVJyaUs5V3VsRnVsazBBTWt3?oc=5\" target=\"_blank\">Donald Trump’s Favorite Aide Faces New Threat to Truth Social Role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZjVEVDM3MDlxXzJpN2VYU3pLTGVDY00tQTlKeEJOZVVqcHFXajNBSnRoUmZNc1JTajdHQ21NM2dCOS1YY0hnV3FsT21EZGxpQk9yYnRPS0lUWU5IWVVzdGNJWG83Nmt1YjlCQXpmRlRtLVJyaUs5V3VsRnVsazBBTWt3?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 07:35:00 GMT",
+        "source": "AOL.com",
+        "ageHours": 0.9
       },
       "delivered": [],
       "archived": false

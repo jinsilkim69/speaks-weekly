@@ -1938,3 +1938,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 송국건 정치평론가 "한동훈 의원 복당론 제기는 자기 정치 아니냐" 비판 - 매일신문
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송국건 정치평론가 "한동훈 의원 복당론 제기는 자기 정치 아니냐" 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE83NzdZdnNaQlRiWlRzRFk3V1poa2JyX2ZqeVFrM19tOXB4RjRMbG8zZGpKQ3IteHFrb3cwR3RsMHhOdlhhWEpwZlRCc2JVS3VTYkMwY2ZKc3JpVmcxSEQySDNR?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** “한동훈 떨거지들 버릇 고치고”…국힘 윤리위원 ‘조작징계’ 증거 제시 - 중앙신문
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “한동훈 떨거지들 버릇 고치고”…국힘 윤리위원 ‘조작징계’ 증거 제시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimwNBVV95cUxQNXcwYjRtd0FOLU04NGhlWFNZZE9ORF9ZWVhJWGZXS2llQWotNjR4QWl5eXJuX1FrWURPY0dfTkxBMnFjaHdYN19tYjdvYnJHNzdsRUYtVVBTeEVpVnJwNWNzaU1SQjhWQmNHVG94cThGUjUtbHBDZ2UyRW1DODIwM3JTN29ydWVKZVVza0xOSEdsalpYWEo4enpuREIwMEVyaEZWR2hKOHRXcDZXb0hoUlR4WTVfb29aRzVzWTdlQUlwZHU2dUtma1Q1R1RzV0lPeDlYMlVIc0Z0eDJqaktPZEVQYnkwVFVZZTEtR0YwajJHSE02THVmcDBOQl95d3dzSEtqS2owZ2tPSzBGcHBfY09kdnZNMGtreUE4eW1ERUxsaFAydjNGRi1fWlhjOEp2bDhkZGhqcXNMNnR6RFl2M3NGZVhKQm5aNDd5SE5xc1FaTkI1bmVXM1FCWUtCcGdBNTl2OVBVdnc1Rk9lZmtRODFJSE9tMVNoRDZ6RzE0R1VUYll4UXN0dUVsM2s1anR4YWNrT3RjMXNPYlU?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** “한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성 - 중앙일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mM1FwS0YxUEtYOGNwbDRlLTlrMnJianJNYUF5aldLM0ZuOF95dnJYa2gzclFpLVRtbHdXbkpTOU5oaHk3ZnBKRU8xMVkydTVnRmxOWDZR?oc=5)
+
+---
+
