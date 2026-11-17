@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T08:51:19.128Z",
+  "lastCheckedAt": "2026-11-17T09:11:18.384Z",
   "seenPostIds": {
-    "6feca8ed30fb12d19654769b3f8af770928c5c20e426b4aacececc340bc32ad2": {
-      "seenAt": "2026-11-13T10:51:18.676Z",
-      "title": "이준석 \"한동훈, 보수 쪽 작살내…총선도 화끈하게 져\" - 조세일보",
-      "targetName": "이준석"
-    },
-    "1a20bebbc2079ce1cf93af60080981d6bd0acae1a4435cd9b7843696beb8a44f": {
-      "seenAt": "2026-11-13T11:11:18.414Z",
-      "title": "최민희 감찰 지시에 ‘친정청래계’ 공개 반발…민주당 ‘내홍’ 폭발 - KBS 뉴스",
-      "targetName": "정청래"
-    },
-    "fbea164e2cc19d86d82a6d91cfd999f6265466908dd633bcf976c2ec1a7d01b9": {
-      "seenAt": "2026-11-13T11:11:19.026Z",
-      "title": "오세훈·이준석 조찬 회동…동탄 광역버스 등 정책 논의 - 뉴시스",
-      "targetName": "이준석"
-    },
-    "ee97c7d35b4365db948fb8956ea3bf4907fb638779c615fd3e427c7da4b9e866": {
-      "seenAt": "2026-11-13T11:31:17.184Z",
-      "title": "[속보] 민주 ‘친정청래계’ 3인 “최민희에 대한 감찰 지시, 악의적 프레임 전환 시도” - KBS 뉴스",
-      "targetName": "정청래"
-    },
-    "bb3368cdfe009043c7e2b689cf096efda5030e18993ad4b857a5864810412400": {
-      "seenAt": "2026-11-13T11:31:17.867Z",
-      "title": "이준석 \"한동훈, 욕쟁이 할머니 집인데 맛도 없다\" - 대전일보",
-      "targetName": "이준석"
-    },
-    "f223952df87494c802064edf48ddb45435b404345185b475c24a45d54d557718": {
-      "seenAt": "2026-11-13T11:51:16.920Z",
-      "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance? - Al Jazeera",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "ceb0905b4a69e2c31a539a84e6e77aa02f09445209ebfb1519b22cf80d44c493": {
       "seenAt": "2026-11-13T12:11:17.110Z",
       "title": "김민석 100일 앞두고 사실상 ‘선전포고’…\"터질 게 터졌다\" - JTBC",
@@ -2530,57 +2500,24 @@
       "seenAt": "2026-11-17T09:01:24.605Z",
       "title": "민주당 '최다선' 송영길, 정청래·김민석 만남 강조 : \"선거 때는 무슨 말도 한다\" 갈등 봉합론 제기 - 허프포스트코리아",
       "targetName": "김민석"
+    },
+    "e39c84324156a882e9f41aedf1128d2addd510e35db9007286356216eb767a0d": {
+      "seenAt": "2026-11-17T09:11:19.442Z",
+      "title": "정청래 \"자격미달자는 나서지 말라\" - 국제뉴스",
+      "targetName": "정청래"
+    },
+    "49eb42fe590acb6aa03b6868e9135383826c74374731f6ee3d87979a3c0131ff": {
+      "seenAt": "2026-11-17T09:11:20.055Z",
+      "title": "송영길 “金·鄭 만나서 풀어야”…정청래 “자격 미달자 나서지 말라” - 중앙일보",
+      "targetName": "정청래"
+    },
+    "ddfc761c06fa4cc0ffa19fd38a6d7d4e38ae77e8999299487eca0f48e09764da": {
+      "seenAt": "2026-11-17T09:11:20.654Z",
+      "title": "[오마이포토2026] 의총 참석한 정청래-김민석 - OhmyNews",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "e39c84324156a882e9f41aedf1128d2addd510e35db9007286356216eb767a0d",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래 \"자격미달자는 나서지 말라\" - 국제뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5hdVo3Qk1DazVIUG5CYVc1R2R2WUxMY2RBbnpMUlp6d3YyV0NWNENTZ2tkSGFMSzhTMFFHZUpnMkpnYUxEMkc2MXJvMEc1RzZGeDN0OHQzREVXRTF5dktBcUNnY0xVVzRFRWxUeTdB?oc=5\" target=\"_blank\">정청래 \"자격미달자는 나서지 말라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hdVo3Qk1DazVIUG5CYVc1R2R2WUxMY2RBbnpMUlp6d3YyV0NWNENTZ2tkSGFMSzhTMFFHZUpnMkpnYUxEMkc2MXJvMEc1RzZGeDN0OHQzREVXRTF5dktBcUNnY0xVVzRFRWxUeTdB?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:41:18 GMT",
-        "source": "국제뉴스",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "49eb42fe590acb6aa03b6868e9135383826c74374731f6ee3d87979a3c0131ff",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "송영길 “金·鄭 만나서 풀어야”…정청래 “자격 미달자 나서지 말라” - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mSzhQeGNpcWVYUWpTaUFnaUFZZUlpQVhpR3lDOGNHSUpYck5kcUFmbGg2RmpnNU1GRGJxQXpKQmtRUm9XdzZwVm9ZcFhrTzhoakNEZ0VR?oc=5\" target=\"_blank\">송영길 “金·鄭 만나서 풀어야”…정청래 “자격 미달자 나서지 말라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mSzhQeGNpcWVYUWpTaUFnaUFZZUlpQVhpR3lDOGNHSUpYck5kcUFmbGg2RmpnNU1GRGJxQXpKQmtRUm9XdzZwVm9ZcFhrTzhoakNEZ0VR?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:49:40 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ddfc761c06fa4cc0ffa19fd38a6d7d4e38ae77e8999299487eca0f48e09764da",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "[오마이포토2026] 의총 참석한 정청래-김민석 - OhmyNews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHpnZkpGYzNDSHFVcERIRURaYW5QWnJuWGt2aWNDX2NGbFU3UUVadHZ0UnRHQmhENkx2SkdVcVFWQTl4NlQ3d1FWZWNyTllRTS04Y3lUOWR5ellRYnU4UWtpNkVsQlp4UDFoMURKMTRMZF9mU3pscGFudmFqQnBmbDZTbEgzVjFSRGpmM2dB?oc=5\" target=\"_blank\">[오마이포토2026] 의총 참석한 정청래-김민석</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHpnZkpGYzNDSHFVcERIRURaYW5QWnJuWGt2aWNDX2NGbFU3UUVadHZ0UnRHQmhENkx2SkdVcVFWQTl4NlQ3d1FWZWNyTllRTS04Y3lUOWR5ellRYnU4UWtpNkVsQlp4UDFoMURKMTRMZF9mU3pscGFudmFqQnBmbDZTbEgzVjFSRGpmM2dB?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:31:59 GMT",
-        "source": "OhmyNews",
-        "ageHours": 1.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "f1efd638eeaf083d847efcf0e30e7aab911b3dfb3b3a8624a85418e95b28c07d",
@@ -3473,6 +3410,70 @@
         "pubDate": "Tue, 17 Nov 2026 08:25:49 GMT",
         "source": "더팩트",
         "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "a6b70b7836c6d43894968e41b7e125cf4148ef79d85af322ed02565aed5b4dc5",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQTA1Z2F2TkFxTHRfa01LVVhtdzZOcmJ5OEtfdjFiajZlSEFkRnhnWEJtQ3Q3ZWx4VkNkTzd3ODluOUZKa2huOHhPNDVHUUMyU0UzY3BXN1ZiOVNxalkybFNfazgzWlZkZU9EQjBYblloSkt6ZXVMMUJoSjBWaG5SWllrZWEtX3BraHdr?oc=5\" target=\"_blank\">이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 전체 | 카드/한컷 | 멀티미디어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한민국 정책브리핑</font>",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQTA1Z2F2TkFxTHRfa01LVVhtdzZOcmJ5OEtfdjFiajZlSEFkRnhnWEJtQ3Q3ZWx4VkNkTzd3ODluOUZKa2huOHhPNDVHUUMyU0UzY3BXN1ZiOVNxalkybFNfazgzWlZkZU9EQjBYblloSkt6ZXVMMUJoSjBWaG5SWllrZWEtX3BraHdr?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 21:00:00 GMT",
+        "source": "대한민국 정책브리핑",
+        "ageHours": 12.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "33c1d95b8f5e709ecd1e7e9aef0e404ea0bec73560993c6a183550ca828502cd",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "장동혁, 한동훈 빙부상 조문…7분여 머물러 - 동아일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB1NTg4MmlpMllMcXh6VEo0c0dLYnpKalBNRmU3NUtIbU9xczRNTnA2bmtvQUtWdXlNVVZLYkIxQ1YzbFJOeTNqaUxPYzZsdlpYal9JeF9ueU9KbzJrRGM2R0pEQTczQ2NDMHk1cmlMMFp0VDBBYWNZ0gFmQVVfeXFMTjBiZHNZalFOWERscHVRYjNNVVJVWTRqYnBVbmpCQ3QzNEphTi1lbi1xMm1ESkRqWTVZRTF0aVZZdzMyaGhkUTBFVHIwZ3F4a3Nfb0ZzT1FLTFJlYXJKYnhnUEFSSzdB?oc=5\" target=\"_blank\">장동혁, 한동훈 빙부상 조문…7분여 머물러</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1NTg4MmlpMllMcXh6VEo0c0dLYnpKalBNRmU3NUtIbU9xczRNTnA2bmtvQUtWdXlNVVZLYkIxQ1YzbFJOeTNqaUxPYzZsdlpYal9JeF9ueU9KbzJrRGM2R0pEQTczQ2NDMHk1cmlMMFp0VDBBYWNZ0gFmQVVfeXFMTjBiZHNZalFOWERscHVRYjNNVVJVWTRqYnBVbmpCQ3QzNEphTi1lbi1xMm1ESkRqWTVZRTF0aVZZdzMyaGhkUTBFVHIwZ3F4a3Nfb0ZzT1FLTFJlYXJKYnhnUEFSSzdB?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 00:08:00 GMT",
+        "source": "동아일보",
+        "ageHours": 9.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ec416223eaddab716482d249de06ce41f69fbadd852d7e2e1722de9c29507aa4",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "정청래, '김민석과 대타협' 제안한 송영길에 \"자격미달자 나서지 말라\" 직격 - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxPdXQzSzFvbzZQeUFXRURxN1A4R0xVMkhFRGkzQi1IdjNtdVdnRktGcEJ3b1QxTE9kNHRTUVFlRFpBaVl1eTVCUGN4RHRicl8zRDBUVnFRcmdMdjF0ZHpqTXlRdVhtRnhyRG1sSzZuTGFGRHlKc0pGVEJXWlpjb0x5dGc0cl9lTUR1XzdkdjhHdm51YzZnbXBwM2dhSl9jUUhmU2VSVkZoYjNOd0RobWpNcmI4YW9vRW8taUVVN2k4VGhyRUQ0aTJJSHNtNWhjRm5fN29wWUNvNHZmQUE4ZGhKckMwbkhHMHNDUm82bkk4Tl8ySm9GLUk1RGIzZE03LWxxam1Lc0MxNTRuSzk0Z2FwU2pYQXJoVWVEdUJoOGVtS2Z3OGs?oc=5\" target=\"_blank\">정청래, '김민석과 대타협' 제안한 송영길에 \"자격미달자 나서지 말라\" 직격</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdXQzSzFvbzZQeUFXRURxN1A4R0xVMkhFRGkzQi1IdjNtdVdnRktGcEJ3b1QxTE9kNHRTUVFlRFpBaVl1eTVCUGN4RHRicl8zRDBUVnFRcmdMdjF0ZHpqTXlRdVhtRnhyRG1sSzZuTGFGRHlKc0pGVEJXWlpjb0x5dGc0cl9lTUR1XzdkdjhHdm51YzZnbXBwM2dhSl9jUUhmU2VSVkZoYjNOd0RobWpNcmI4YW9vRW8taUVVN2k4VGhyRUQ0aTJJSHNtNWhjRm5fN29wWUNvNHZmQUE4ZGhKckMwbkhHMHNDUm82bkk4Tl8ySm9GLUk1RGIzZE03LWxxam1Lc0MxNTRuSzk0Z2FwU2pYQXJoVWVEdUJoOGVtS2Z3OGs?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:15:00 GMT",
+        "source": "데일리안",
+        "ageHours": 0.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "0ccae5de19a9d4c372a9e275cf01dfac5516390edf2e3ea4f0209a156b114a5f",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\" | - 대전일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBuZFNCaDZSNXhkTV8zbkNCS2dnTkpYbTFiRG1aU0tUQnA4bHp1a1JSeHVkV1pPVm1pOWJiR1RlbnplekNSMG9hb2cxYjVWRHVtT1pPWm1zLXByeDR3RjZlV2RuWWhoeEs5QmF4U2QzaVFmQkE?oc=5\" target=\"_blank\">송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\" |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuZFNCaDZSNXhkTV8zbkNCS2dnTkpYbTFiRG1aU0tUQnA4bHp1a1JSeHVkV1pPVm1pOWJiR1RlbnplekNSMG9hb2cxYjVWRHVtT1pPWm1zLXByeDR3RjZlV2RuWWhoeEs5QmF4U2QzaVFmQkE?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 07:57:38 GMT",
+        "source": "대전일보",
+        "ageHours": 1.2
       },
       "delivered": [],
       "archived": false

@@ -2094,3 +2094,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "자격미달자는 나서지 말라" - 국제뉴스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "자격미달자는 나서지 말라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE5hdVo3Qk1DazVIUG5CYVc1R2R2WUxMY2RBbnpMUlp6d3YyV0NWNENTZ2tkSGFMSzhTMFFHZUpnMkpnYUxEMkc2MXJvMEc1RzZGeDN0OHQzREVXRTF5dktBcUNnY0xVVzRFRWxUeTdB?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 “金·鄭 만나서 풀어야”…정청래 “자격 미달자 나서지 말라” - 중앙일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 “金·鄭 만나서 풀어야”…정청래 “자격 미달자 나서지 말라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mSzhQeGNpcWVYUWpTaUFnaUFZZUlpQVhpR3lDOGNHSUpYck5kcUFmbGg2RmpnNU1GRGJxQXpKQmtRUm9XdzZwVm9ZcFhrTzhoakNEZ0VR?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [오마이포토2026] 의총 참석한 정청래-김민석 - OhmyNews
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 의총 참석한 정청래-김민석
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHpnZkpGYzNDSHFVcERIRURaYW5QWnJuWGt2aWNDX2NGbFU3UUVadHZ0UnRHQmhENkx2SkdVcVFWQTl4NlQ3d1FWZWNyTllRTS04Y3lUOWR5ellRYnU4UWtpNkVsQlp4UDFoMURKMTRMZF9mU3pscGFudmFqQnBmbDZTbEgzVjFSRGpmM2dB?oc=5)
+
+---
+
