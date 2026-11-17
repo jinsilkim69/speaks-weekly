@@ -1,31 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T13:21:18.141Z",
+  "lastCheckedAt": "2026-11-17T13:41:21.613Z",
   "seenPostIds": {
-    "d9b493581b9088ca8a8705eb09ec43ee5060f4d9d6a94c7a3b75004ff53a09d3": {
-      "seenAt": "2026-11-14T03:21:18.479Z",
-      "title": "[속보] 전한길 \"이준석 하버드 졸업장 내놔라\"…이준석 \"허위 사실 남발 추가 고소\" - 프레시안",
-      "targetName": "이준석"
-    },
-    "03fbf0e378c61930dbc4daf1eeb5e3fee087961fe2c94e7cefa8d74c06746ec1": {
-      "seenAt": "2026-11-14T03:41:19.599Z",
-      "title": "조국도 김민석 저격?…\"민주당, 합당 결사 반대했던 이들이 찬성론자인 양…\" - 프레시안",
-      "targetName": "김민석"
-    },
-    "37d56790e5d94ff3a325e6817d403bfd6566101110099e7076c14f46e2a9d36a": {
-      "seenAt": "2026-11-14T03:41:20.402Z",
-      "title": "조국도 김민석 저격?…\"민주당, 합당 결사 반대했던 이들이 찬성론자인 양…\" - 프레시안",
-      "targetName": "조국"
-    },
-    "44c4daf6754df2329fcc941f9bd8b248e26cb2809ff207e017c6785ff43d5a3b": {
-      "seenAt": "2026-11-14T03:51:20.359Z",
-      "title": "한동훈 “이재명 빼박 ‘시한부 대통령’”…최민희 발언 고리로 與와 설전 - 문화일보",
-      "targetName": "이재명"
-    },
-    "38a2a023483520a25c64cfef62897b8c89fb77a212b094d0fc457bcddaff23ea": {
-      "seenAt": "2026-11-14T04:01:16.526Z",
-      "title": "[속보]“한동훈 거짓말 마라”…최민희, ‘尹-李 재판 달라’ 입장표명 - www.dt.co.kr",
-      "targetName": "한동훈"
-    },
     "e710e7ecc478d15f2400c0608ad2484e8fa607cdc5b57e4720724b1a67067aff": {
       "seenAt": "2026-11-14T04:01:17.218Z",
       "title": "[속보] \"노무현이 하버드 입학 추천?\"…이준석, 전한길에 추가 고소 예고 - 매일신문",
@@ -2525,58 +2500,22 @@
       "seenAt": "2026-11-17T13:31:21.822Z",
       "title": "Trump Unravels on Economy in Unhinged Truth Social Tirade - The Daily Beast",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "4e030d3df233264dd30c50d5fc38c641cd848b9a857e70582b2ab0ad2698c23b": {
+      "seenAt": "2026-11-17T13:41:22.105Z",
+      "title": "조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전”(종합) - 서울신문",
+      "targetName": "조국"
+    },
+    "d2b2e87e4924e55b885320cc816ae5e95c2d2f9ee8da2a3fdcbfb1a67b569468": {
+      "seenAt": "2026-11-17T13:41:22.888Z",
+      "title": "조국, 일본 공항서 입국거부…과거 형사처벌 전력 때문? 혁신당 “일본 정부 사과해야” - 경향신문",
+      "targetName": "조국"
+    },
+    "719eed82db244e1c1f7bf8f0352ff42ec71ceb54c5ad07ae92e4ea65a8a07a4e": {
+      "seenAt": "2026-11-17T13:41:23.529Z",
+      "title": "이재명 대통령도 전면전, \"AI 입시부정 최대 5년 처벌\" > 뉴스 - 지데일리",
+      "targetName": "이재명"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "4e030d3df233264dd30c50d5fc38c641cd848b9a857e70582b2ab0ad2698c23b",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전”(종합) - 서울신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5fZy1ZNW5uTmNibXBVZk5Sb1hqTDg4WW8wYjQ5OFBYeGl5dy1GV1J2RWVDRlVGV3hJZ0lLQlVYU01tQ3oxWFBZYjFudkJjdW11T0ZYYUxRLWtQOTUwUjB1Uml1QlhUOWhIWFJKamY2NG4?oc=5\" target=\"_blank\">조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전”(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fZy1ZNW5uTmNibXBVZk5Sb1hqTDg4WW8wYjQ5OFBYeGl5dy1GV1J2RWVDRlVGV3hJZ0lLQlVYU01tQ3oxWFBZYjFudkJjdW11T0ZYYUxRLWtQOTUwUjB1Uml1QlhUOWhIWFJKamY2NG4?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 10:53:06 GMT",
-        "source": "서울신문",
-        "ageHours": 0.5
-      },
-      "delivered": [
-        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
-      ],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d2b2e87e4924e55b885320cc816ae5e95c2d2f9ee8da2a3fdcbfb1a67b569468",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국, 일본 공항서 입국거부…과거 형사처벌 전력 때문? 혁신당 “일본 정부 사과해야” - 경향신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZSkR5RDJZcGxfSE1HOWwzV3U5eG9ackFxRnZOWm9UNm9PRXRyR24tWmsxN21BQ1RmWVdabElFSjlFNWpFc1RGa3gzMVpSd3UtbUUtbFU4MENVd9IBX0FVX3lxTE5vTl9iMUVRS19neHo1Z1g4ampGY3ZqdGVYc2FhSE1NUno2ZjI5VlVjVV9SeHh1YkFoQVdZNnc5TE9xTi1uU1NKdGdWOTc5bWZzYWxQcGozek96ZzdrdmpF?oc=5\" target=\"_blank\">조국, 일본 공항서 입국거부…과거 형사처벌 전력 때문? 혁신당 “일본 정부 사과해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZSkR5RDJZcGxfSE1HOWwzV3U5eG9ackFxRnZOWm9UNm9PRXRyR24tWmsxN21BQ1RmWVdabElFSjlFNWpFc1RGa3gzMVpSd3UtbUUtbFU4MENVd9IBX0FVX3lxTE5vTl9iMUVRS19neHo1Z1g4ampGY3ZqdGVYc2FhSE1NUno2ZjI5VlVjVV9SeHh1YkFoQVdZNnc5TE9xTi1uU1NKdGdWOTc5bWZzYWxQcGozek96ZzdrdmpF?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:41:00 GMT",
-        "source": "경향신문",
-        "ageHours": 3.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "719eed82db244e1c1f7bf8f0352ff42ec71ceb54c5ad07ae92e4ea65a8a07a4e",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령도 전면전, \"AI 입시부정 최대 5년 처벌\" > 뉴스 - 지데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5Tb1VvMTVmTndLQVZ5S1prTXNnbUlXRGhfY1FBVGViVTVDQ29WS3oyV0czd0YzNzFvZi03d0ZtcTFzQTg1OU00X09COTF4YV9UMnBlU2FkY1RpRWtZM2h6dlBtNmNMZlNXMGNOXw?oc=5\" target=\"_blank\">이재명 대통령도 전면전, \"AI 입시부정 최대 5년 처벌\" > 뉴스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">지데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Tb1VvMTVmTndLQVZ5S1prTXNnbUlXRGhfY1FBVGViVTVDQ29WS3oyV0czd0YzNzFvZi03d0ZtcTFzQTg1OU00X09COTF4YV9UMnBlU2FkY1RpRWtZM2h6dlBtNmNMZlNXMGNOXw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 12:38:00 GMT",
-        "source": "지데일리",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
