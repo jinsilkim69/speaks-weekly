@@ -373,5 +373,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "9d98c42754e14d8cd526f25230c2801a6a25f3170ebaea476f6bd2028fd1a1e6",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "EXCLUSIVE: Donald Trump 'Facing Pleas to Stop Social Media Outbursts Over Widespread Legal Fears' - AOL.com",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUgzTGU4QVczUVZMUG5XZS1JdzdUa09EOXBITkpKR2RSa2ttUkZ0dzlaOTV5aE04VEx4NHA1M2lVZTQxR2dVNXZzb1k0dGZULUVRRDZxeDBxVHI0RFN3OGJuN3RPbUZORVcxdVc0SE9URlZ3eDc4Z2Y0eFNzYUNfalY4RndFdw?oc=5\" target=\"_blank\">EXCLUSIVE: Donald Trump 'Facing Pleas to Stop Social Media Outbursts Over Widespread Legal Fears'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUgzTGU4QVczUVZMUG5XZS1JdzdUa09EOXBITkpKR2RSa2ttUkZ0dzlaOTV5aE04VEx4NHA1M2lVZTQxR2dVNXZzb1k0dGZULUVRRDZxeDBxVHI0RFN3OGJuN3RPbUZORVcxdVc0SE9URlZ3eDc4Z2Y0eFNzYUNfalY4RndFdw?oc=5",
+    "pubDate": "Tue, 17 Nov 2026 19:44:09 GMT",
+    "source": "AOL.com",
+    "ageHours": 2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] EXCLUSIVE: Donald Trump 'Facing Pleas to Stop Social Media Outbursts Over Widespread Legal Fears'",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
