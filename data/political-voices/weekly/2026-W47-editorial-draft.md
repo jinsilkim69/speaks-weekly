@@ -2757,3 +2757,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야" - 뉴시스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnYWstWmVtdkVsWV90ODJKcmp5N0lGMmdaOVBsazF1djNjU2JzN1NTRHl6R3pDVkE2eG5RQWs2ZTcyZ3NCc0lqYU0wZW5ydUMxTzNxdVdaVF9icEl0SUJ4S9IBeEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rUw?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 野 "이재명 탈옥법, 국무회의서 대리의결…국민이 심판할 것" - KB Think
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 野 "이재명 탈옥법, 국무회의서 대리의결…국민이 심판할 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE1GN2FmSnZ4VnYxMWppR2k2WGNNYzNuTjRhaFBMdW5UY1ZVZjlyNjhDZnZsaVdXUTM3NVdfekhzbENHUU9kUHcwQ05xdTdRUmh4ZDR4UUVIcHR6dnlyWFFNdDhuSzkwb2tMZGxsYmZDSVlxdw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, '김민석과 대타협 촉구' 송영길에 "자격 미달자는 나서지 마시라" - 뉴스핌
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, '김민석과 대타협 촉구' 송영길에 "자격 미달자는 나서지 마시라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDdkVNVkM3UUg4VUlGTGxZWkM3aGQ4OUlIX1pZWGNhUExsUkt0QjdvOGZIRi1vNlBvMW5ldUV4emtYLThGRmxHajV0bTZyam5xUk5zTU9jZGRtOC1l?oc=5)
+
+---
+

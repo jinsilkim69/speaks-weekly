@@ -2515,57 +2515,24 @@
       "seenAt": "2026-11-17T11:51:21.098Z",
       "title": "이준석, 비행기서 만든 AI 부정행위 탐지 앱 공개…“교육부 답변에 한숨” - 주간조선",
       "targetName": "이준석"
+    },
+    "db91d30e17508dffc0f833cac43b6d04200966c8f4a1bc7e09a00ad31c5f6499": {
+      "seenAt": "2026-11-17T12:01:19.498Z",
+      "title": "조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\" - 뉴시스",
+      "targetName": "조국"
+    },
+    "8016f0a8d504fd491c5a13f767eb325fef769aabfd0d4cc9dbe15ffafc044a97": {
+      "seenAt": "2026-11-17T12:01:20.141Z",
+      "title": "野 \"이재명 탈옥법, 국무회의서 대리의결…국민이 심판할 것\" - KB Think",
+      "targetName": "이재명"
+    },
+    "ccf4092d086014f2471fc1f8cfe3c598a70482ba1512617fb900c1510c37732a": {
+      "seenAt": "2026-11-17T12:01:20.818Z",
+      "title": "정청래, '김민석과 대타협 촉구' 송영길에 \"자격 미달자는 나서지 마시라\" - 뉴스핌",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "db91d30e17508dffc0f833cac43b6d04200966c8f4a1bc7e09a00ad31c5f6499",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnYWstWmVtdkVsWV90ODJKcmp5N0lGMmdaOVBsazF1djNjU2JzN1NTRHl6R3pDVkE2eG5RQWs2ZTcyZ3NCc0lqYU0wZW5ydUMxTzNxdVdaVF9icEl0SUJ4S9IBeEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rUw?oc=5\" target=\"_blank\">조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnYWstWmVtdkVsWV90ODJKcmp5N0lGMmdaOVBsazF1djNjU2JzN1NTRHl6R3pDVkE2eG5RQWs2ZTcyZ3NCc0lqYU0wZW5ydUMxTzNxdVdaVF9icEl0SUJ4S9IBeEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rUw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:30:00 GMT",
-        "source": "뉴시스",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "8016f0a8d504fd491c5a13f767eb325fef769aabfd0d4cc9dbe15ffafc044a97",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "野 \"이재명 탈옥법, 국무회의서 대리의결…국민이 심판할 것\" - KB Think",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1GN2FmSnZ4VnYxMWppR2k2WGNNYzNuTjRhaFBMdW5UY1ZVZjlyNjhDZnZsaVdXUTM3NVdfekhzbENHUU9kUHcwQ05xdTdRUmh4ZDR4UUVIcHR6dnlyWFFNdDhuSzkwb2tMZGxsYmZDSVlxdw?oc=5\" target=\"_blank\">野 \"이재명 탈옥법, 국무회의서 대리의결…국민이 심판할 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KB Think</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GN2FmSnZ4VnYxMWppR2k2WGNNYzNuTjRhaFBMdW5UY1ZVZjlyNjhDZnZsaVdXUTM3NVdfekhzbENHUU9kUHcwQ05xdTdRUmh4ZDR4UUVIcHR6dnlyWFFNdDhuSzkwb2tMZGxsYmZDSVlxdw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:35:02 GMT",
-        "source": "KB Think",
-        "ageHours": 2.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ccf4092d086014f2471fc1f8cfe3c598a70482ba1512617fb900c1510c37732a",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "정청래, '김민석과 대타협 촉구' 송영길에 \"자격 미달자는 나서지 마시라\" - 뉴스핌",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDdkVNVkM3UUg4VUlGTGxZWkM3aGQ4OUlIX1pZWGNhUExsUkt0QjdvOGZIRi1vNlBvMW5ldUV4emtYLThGRmxHajV0bTZyam5xUk5zTU9jZGRtOC1l?oc=5\" target=\"_blank\">정청래, '김민석과 대타협 촉구' 송영길에 \"자격 미달자는 나서지 마시라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDdkVNVkM3UUg4VUlGTGxZWkM3aGQ4OUlIX1pZWGNhUExsUkt0QjdvOGZIRi1vNlBvMW5ldUV4emtYLThGRmxHajV0bTZyam5xUk5zTU9jZGRtOC1l?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 05:30:00 GMT",
-        "source": "뉴스핌",
-        "ageHours": 3.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "cea98ee11f826922d656bd401fb321790b938b29125903d7079e5b08d350d059",
