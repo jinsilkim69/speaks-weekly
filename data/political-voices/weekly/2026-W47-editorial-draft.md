@@ -3225,3 +3225,16 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "수능 수험장 전파 탐지 앱 개발…교육부, 한시적 허용해야" - 뉴시스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "수능 수험장 전파 탐지 앱 개발…교육부, 한시적 허용해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1jdGpmc19tbzYtaFdZMngyMmtSM0FSWnFBc1FnUzBjM3RlZlJPWW1YN3RPcnhMYU83NHVPWU1nZ013SGNBeTNzODg4cnlOQWx1WnhiNVhweFUwZHRqeU83NFdobG1ncFFHdENvTzRXWEZ4V1Fhc3c5etIBeEFVX3lxTE1jdGpmc19tbzYtaFdZMngyMmtSM0FSWnFBc1FnUzBjM3RlZlJPWW1YN3RPcnhMYU83NHVPWU1nZ013SGNBeTNzODg4cnlOQWx1WnhiNVhweFUwZHRqeU83NFdobG1ncFFHdENvTzRXWEZ4V1Fhc3c5eg?oc=5)
+
+---
+
