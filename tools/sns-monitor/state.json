@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T10:41:20.863Z",
+  "lastCheckedAt": "2026-11-17T10:51:17.321Z",
   "seenPostIds": {
-    "db385c68b49fd492158d30b130955b7aa4673117c0cbf9ad7e833e8dac410242": {
-      "seenAt": "2026-11-13T16:11:19.228Z",
-      "title": "한동훈 “최민희 말이 맞다···이 대통령, 재판 열리면 끝나는 시한부” - 주간경향",
-      "targetName": "한동훈"
-    },
-    "f0bd214f21fb515dc327f8abe2a735dadfed7d8387c369e051812eea9ade1aac": {
-      "seenAt": "2026-11-13T16:11:20.034Z",
-      "title": "\"조혁당과의 합당, 명분도 이유도 부족\" 송영길의 2028 총선 구도(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문",
-      "targetName": "송영길"
-    },
-    "0446df0048d3f06addbb91588b747025b774d1139aad1ae190a895c2ab813185": {
-      "seenAt": "2026-11-13T16:11:20.756Z",
-      "title": "\"최민희의 해당행위가 스노우볼되어 당과 청와대 공격 중\" 정구승의 분노(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문",
-      "targetName": "송영길"
-    },
     "0e06372e9dc450f89f7cd32dac91cbd9ab1d8981b839de89f2d8e5b7d8aff41e": {
       "seenAt": "2026-11-13T16:21:18.622Z",
       "title": "\"신주쿠 한인 가게, 500개 늘어\" 이잼의 실용외교가 바꿔놓은 재일동포의 삶(261113 금요일 클립) 송영길 정구승 오윤혜 - 경향신문",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-17T10:41:23.937Z",
       "title": "[속보] 조국, 일본 공항서 입국 거부당해…‘죽창가’ 언급 때문? - 한겨레",
       "targetName": "조국"
+    },
+    "416a08e719478631a8b22bc05fbe2f6950ff576e694d0fb264ddd4b818f38606": {
+      "seenAt": "2026-11-17T10:51:18.521Z",
+      "title": "조국 전 대표, 일본 입국 거부 당해... 독도 방문 이력 ? - 중앙신문",
+      "targetName": "조국"
+    },
+    "833db22f9ea2311239b46026353b40e61e6d23e295edeb735e7891e6d8676abf": {
+      "seenAt": "2026-11-17T10:51:19.222Z",
+      "title": "조국 혁신당 전 대표, 일본 입국 거부 당해... 독도 방문 이력 때문? - 조선일보",
+      "targetName": "조국"
+    },
+    "c1284c49aeb0dff8670a21ddc3398bb93b0c0e9efcac1b885e50030a1f1d167c": {
+      "seenAt": "2026-11-17T10:51:19.960Z",
+      "title": "조국, 日입국 거부당해…혁신당 \"독도 방문이 사유되지 않았을까\" - 한국경제",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "416a08e719478631a8b22bc05fbe2f6950ff576e694d0fb264ddd4b818f38606",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 전 대표, 일본 입국 거부 당해... 독도 방문 이력 ? - 중앙신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxOcXB4OTRncUNSTDZCWmd1aXpLYTRuc2pOME5Nbno3b2dhUC1fUVVacEw5TEdCc1h6ZDdaYURXOW9mMDBOMXQzc2JZblFqNlAtS3RWUjBlVWdhbEVuYzhpWTFSMk9GQTk5dnNfWng2cDhtWkVScG8tTkRKREdudVcwSmFNUmtzbkRfNkhIc0xETVVmemcycUtUSlpNYVhxOG12djRyQVN3d05zRFhOOEw5aHlsMW5TRW5LRjFPMG12UHhFZ2lYaG1fa1ZJSlFjTVBTUWJUUHNYZk5NLUlwTVN5ZjdqVFZHOURCLUtmZHQzNmtPa3lzSjVRQ0lkX3VoYnBNOF84MGVTWHZhVmdKT25ZWDBuOFoxNXZPMjZnRjlFWWRPSnA5cUdMUW1hZnFtc0RjTGt0S1pLNl9ackJ0VnFjblAxLVpRWVhz?oc=5\" target=\"_blank\">조국 전 대표, 일본 입국 거부 당해... 독도 방문 이력 ?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOcXB4OTRncUNSTDZCWmd1aXpLYTRuc2pOME5Nbno3b2dhUC1fUVVacEw5TEdCc1h6ZDdaYURXOW9mMDBOMXQzc2JZblFqNlAtS3RWUjBlVWdhbEVuYzhpWTFSMk9GQTk5dnNfWng2cDhtWkVScG8tTkRKREdudVcwSmFNUmtzbkRfNkhIc0xETVVmemcycUtUSlpNYVhxOG12djRyQVN3d05zRFhOOEw5aHlsMW5TRW5LRjFPMG12UHhFZ2lYaG1fa1ZJSlFjTVBTUWJUUHNYZk5NLUlwTVN5ZjdqVFZHOURCLUtmZHQzNmtPa3lzSjVRQ0lkX3VoYnBNOF84MGVTWHZhVmdKT25ZWDBuOFoxNXZPMjZnRjlFWWRPSnA5cUdMUW1hZnFtc0RjTGt0S1pLNl9ackJ0VnFjblAxLVpRWVhz?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:20:10 GMT",
-        "source": "중앙신문",
-        "ageHours": 2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "833db22f9ea2311239b46026353b40e61e6d23e295edeb735e7891e6d8676abf",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 혁신당 전 대표, 일본 입국 거부 당해... 독도 방문 이력 때문? - 조선일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQcUlNdmlyaFRwcjFYc3lQQlYwRkdoRkYxeV8wem53ZmZuM1RlMjNyMEhTQjM5TXQyWmVOZ21xSkR0VDVmelduRUNVOWM3WFRlSUwzbVZETVFKTWhrNEFHN3dGU0dtWVhzNWhtdThoSnRHOWQ4QkllT0ZMellYOUkzYXpIZnRNS25uN3hEOVhLVUJuWUpkakdOMlg0QTZUZw?oc=5\" target=\"_blank\">조국 혁신당 전 대표, 일본 입국 거부 당해... 독도 방문 이력 때문?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUlNdmlyaFRwcjFYc3lQQlYwRkdoRkYxeV8wem53ZmZuM1RlMjNyMEhTQjM5TXQyWmVOZ21xSkR0VDVmelduRUNVOWM3WFRlSUwzbVZETVFKTWhrNEFHN3dGU0dtWVhzNWhtdThoSnRHOWQ4QkllT0ZMellYOUkzYXpIZnRNS25uN3hEOVhLVUJuWUpkakdOMlg0QTZUZw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 05:59:00 GMT",
-        "source": "조선일보",
-        "ageHours": 2.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c1284c49aeb0dff8670a21ddc3398bb93b0c0e9efcac1b885e50030a1f1d167c",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국, 日입국 거부당해…혁신당 \"독도 방문이 사유되지 않았을까\" - 한국경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MWVNhT0FuQ0podUNyVzhsbENrN1kxTUQ1enkyUlBMekE5a0tVNlpKcm9fd1pvTlI1cGRwTnV3X3pHdnhlOC1nZFlJOE5pdmNuU1Fkanh2MmhaUQ?oc=5\" target=\"_blank\">조국, 日입국 거부당해…혁신당 \"독도 방문이 사유되지 않았을까\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MWVNhT0FuQ0podUNyVzhsbENrN1kxTUQ1enkyUlBMekE5a0tVNlpKcm9fd1pvTlI1cGRwTnV3X3pHdnhlOC1nZFlJOE5pdmNuU1Fkanh2MmhaUQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:11:12 GMT",
-        "source": "한국경제",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "973b308661204745dd3d63022538c355d86956051cf7713651813ad573727f1d",
@@ -3298,6 +3250,22 @@
         "pubDate": "Mon, 16 Nov 2026 23:27:04 GMT",
         "source": "EnergyNow.com",
         "ageHours": 11.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2229a31b079517866a1f05d4af23f998be2005ad468c720338d26fcaf78fbd13",
+        "targetId": "cheon_haram",
+        "targetName": "천하람",
+        "targetTitle": "개혁신당 원내대표",
+        "title": "천하람 “열화상으로 커닝 못 잡아…포항 지진 때도 수능 연기했다” - 문화일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BUVJIZ1lBYVRMb24xR1VZcUdzRkFwQkJLVzFjZ29OUmxyZEtnT1JjcnFPYWV6TTNMeDgxRjVhWGFMZ1JGU0NPWHZ2Nkl5b0ls?oc=5\" target=\"_blank\">천하람 “열화상으로 커닝 못 잡아…포항 지진 때도 수능 연기했다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BUVJIZ1lBYVRMb24xR1VZcUdzRkFwQkJLVzFjZ29OUmxyZEtnT1JjcnFPYWV6TTNMeDgxRjVhWGFMZ1JGU0NPWHZ2Nkl5b0ls?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 10:45:46 GMT",
+        "source": "문화일보",
+        "ageHours": 0.1
       },
       "delivered": [],
       "archived": false

@@ -2484,3 +2484,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 전 대표, 일본 입국 거부 당해... 독도 방문 이력 ? - 중앙신문
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 전 대표, 일본 입국 거부 당해... 독도 방문 이력 ?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiyAJBVV95cUxOcXB4OTRncUNSTDZCWmd1aXpLYTRuc2pOME5Nbno3b2dhUC1fUVVacEw5TEdCc1h6ZDdaYURXOW9mMDBOMXQzc2JZblFqNlAtS3RWUjBlVWdhbEVuYzhpWTFSMk9GQTk5dnNfWng2cDhtWkVScG8tTkRKREdudVcwSmFNUmtzbkRfNkhIc0xETVVmemcycUtUSlpNYVhxOG12djRyQVN3d05zRFhOOEw5aHlsMW5TRW5LRjFPMG12UHhFZ2lYaG1fa1ZJSlFjTVBTUWJUUHNYZk5NLUlwTVN5ZjdqVFZHOURCLUtmZHQzNmtPa3lzSjVRQ0lkX3VoYnBNOF84MGVTWHZhVmdKT25ZWDBuOFoxNXZPMjZnRjlFWWRPSnA5cUdMUW1hZnFtc0RjTGt0S1pLNl9ackJ0VnFjblAxLVpRWVhz?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 혁신당 전 대표, 일본 입국 거부 당해... 독도 방문 이력 때문? - 조선일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 혁신당 전 대표, 일본 입국 거부 당해... 독도 방문 이력 때문?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMingFBVV95cUxQcUlNdmlyaFRwcjFYc3lQQlYwRkdoRkYxeV8wem53ZmZuM1RlMjNyMEhTQjM5TXQyWmVOZ21xSkR0VDVmelduRUNVOWM3WFRlSUwzbVZETVFKTWhrNEFHN3dGU0dtWVhzNWhtdThoSnRHOWQ4QkllT0ZMellYOUkzYXpIZnRNS25uN3hEOVhLVUJuWUpkakdOMlg0QTZUZw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 日입국 거부당해…혁신당 "독도 방문이 사유되지 않았을까" - 한국경제
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 日입국 거부당해…혁신당 "독도 방문이 사유되지 않았을까"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MWVNhT0FuQ0podUNyVzhsbENrN1kxTUQ1enkyUlBMekE5a0tVNlpKcm9fd1pvTlI1cGRwTnV3X3pHdnhlOC1nZFlJOE5pdmNuU1Fkanh2MmhaUQ?oc=5)
+
+---
+
