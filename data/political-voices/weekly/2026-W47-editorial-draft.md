@@ -2289,3 +2289,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "수험장 전파 탐지 앱 개발"‥교육부에 한시 허용 요청 - MBC 뉴스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "수험장 전파 탐지 앱 개발"‥교육부에 한시 허용 요청
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE53RTJ6ZXlDMGdzZGtFOFBjRzZUcWkzLUpaN0kwaElya25RLUtCblV5b09fSHo0QnlpeHl6LUg4bUhFakI1ZTlQTnlNLTIweTJIeGlQclhBeVRBaHc1ZUFic0c2TDZGSVZlTnpqVWRLZHdXUWR4UUVwdNIBeEFVX3lxTE1Rd1NYTE1MckFOQ0k1NUVkbWhTU2RYaktVS2lxd2hVQ200cVJiSVp5Q0lnZXdud1p0Yktscmg0WlJDWFJzbThXUU53bHA4WFpSbVlYQzZKcnZzbXN0T1lrLVFDU2ZhdzVfS1FXaG5TUlJvbjZUQkdNWQ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** '하버드 컴공과' 이준석, 비행기서 뚝딱…'AI 커닝 탐지 앱' 공개 - 한국경제
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '하버드 컴공과' 이준석, 비행기서 뚝딱…'AI 커닝 탐지 앱' 공개
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uQl9LdjcteTRpcU4yaU04OVJqd2xCeFZWaFFzcDRHOEhuejlqZXh2V2FmcXpla3k2elh1cm1lLWg2TkYxY0JEbDEzRWZxUWhPWnFBUWRDbnNIZw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "교육부 답변 한숨…비행기서 코딩, AI 커닝 방지 앱 배포" - JTBC
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "교육부 답변 한숨…비행기서 코딩, AI 커닝 방지 앱 배포"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oX01lRkY4bUdLbWxsaHJaMmZLNXRDZU5lYUNkeHUybjJTMklLTnBfQTBvdXFpQllLRkVVNWplZDlnR05HSGdUY2R6WE00M0Z6bW5mVg?oc=5)
+
+---
+

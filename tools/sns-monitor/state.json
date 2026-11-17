@@ -2515,57 +2515,24 @@
       "seenAt": "2026-11-17T09:51:23.517Z",
       "title": "정청래, 김민석과 타협 제안한 송영길에 “자격 미달 나서지 마시라” - 채널A",
       "targetName": "송영길"
+    },
+    "a41fa042af2d383aa2e138e5d8f549886303b398ef7ef7ae73aaede3c9effe63": {
+      "seenAt": "2026-11-17T10:01:22.692Z",
+      "title": "이준석 \"수험장 전파 탐지 앱 개발\"‥교육부에 한시 허용 요청 - MBC 뉴스",
+      "targetName": "이준석"
+    },
+    "e2c401b541d155e3828c6b4b30291b077f431a3f1d35490211c9b2f3c6d39e62": {
+      "seenAt": "2026-11-17T10:01:23.501Z",
+      "title": "'하버드 컴공과' 이준석, 비행기서 뚝딱…'AI 커닝 탐지 앱' 공개 - 한국경제",
+      "targetName": "이준석"
+    },
+    "c6acd154047749138d3900e21aba19ead1fae7d9fd8f4a961b87bd6037b6276a": {
+      "seenAt": "2026-11-17T10:01:24.283Z",
+      "title": "이준석 \"교육부 답변 한숨…비행기서 코딩, AI 커닝 방지 앱 배포\" - JTBC",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "a41fa042af2d383aa2e138e5d8f549886303b398ef7ef7ae73aaede3c9effe63",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"수험장 전파 탐지 앱 개발\"‥교육부에 한시 허용 요청 - MBC 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE53RTJ6ZXlDMGdzZGtFOFBjRzZUcWkzLUpaN0kwaElya25RLUtCblV5b09fSHo0QnlpeHl6LUg4bUhFakI1ZTlQTnlNLTIweTJIeGlQclhBeVRBaHc1ZUFic0c2TDZGSVZlTnpqVWRLZHdXUWR4UUVwdNIBeEFVX3lxTE1Rd1NYTE1MckFOQ0k1NUVkbWhTU2RYaktVS2lxd2hVQ200cVJiSVp5Q0lnZXdud1p0Yktscmg0WlJDWFJzbThXUU53bHA4WFpSbVlYQzZKcnZzbXN0T1lrLVFDU2ZhdzVfS1FXaG5TUlJvbjZUQkdNWQ?oc=5\" target=\"_blank\">이준석 \"수험장 전파 탐지 앱 개발\"‥교육부에 한시 허용 요청</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53RTJ6ZXlDMGdzZGtFOFBjRzZUcWkzLUpaN0kwaElya25RLUtCblV5b09fSHo0QnlpeHl6LUg4bUhFakI1ZTlQTnlNLTIweTJIeGlQclhBeVRBaHc1ZUFic0c2TDZGSVZlTnpqVWRLZHdXUWR4UUVwdNIBeEFVX3lxTE1Rd1NYTE1MckFOQ0k1NUVkbWhTU2RYaktVS2lxd2hVQ200cVJiSVp5Q0lnZXdud1p0Yktscmg0WlJDWFJzbThXUU53bHA4WFpSbVlYQzZKcnZzbXN0T1lrLVFDU2ZhdzVfS1FXaG5TUlJvbjZUQkdNWQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:48:22 GMT",
-        "source": "MBC 뉴스",
-        "ageHours": 1.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e2c401b541d155e3828c6b4b30291b077f431a3f1d35490211c9b2f3c6d39e62",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "'하버드 컴공과' 이준석, 비행기서 뚝딱…'AI 커닝 탐지 앱' 공개 - 한국경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uQl9LdjcteTRpcU4yaU04OVJqd2xCeFZWaFFzcDRHOEhuejlqZXh2V2FmcXpla3k2elh1cm1lLWg2TkYxY0JEbDEzRWZxUWhPWnFBUWRDbnNIZw?oc=5\" target=\"_blank\">'하버드 컴공과' 이준석, 비행기서 뚝딱…'AI 커닝 탐지 앱' 공개</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uQl9LdjcteTRpcU4yaU04OVJqd2xCeFZWaFFzcDRHOEhuejlqZXh2V2FmcXpla3k2elh1cm1lLWg2TkYxY0JEbDEzRWZxUWhPWnFBUWRDbnNIZw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:20:21 GMT",
-        "source": "한국경제",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c6acd154047749138d3900e21aba19ead1fae7d9fd8f4a961b87bd6037b6276a",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"교육부 답변 한숨…비행기서 코딩, AI 커닝 방지 앱 배포\" - JTBC",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oX01lRkY4bUdLbWxsaHJaMmZLNXRDZU5lYUNkeHUybjJTMklLTnBfQTBvdXFpQllLRkVVNWplZDlnR05HSGdUY2R6WE00M0Z6bW5mVg?oc=5\" target=\"_blank\">이준석 \"교육부 답변 한숨…비행기서 코딩, AI 커닝 방지 앱 배포\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oX01lRkY4bUdLbWxsaHJaMmZLNXRDZU5lYUNkeHUybjJTMklLTnBfQTBvdXFpQllLRkVVNWplZDlnR05HSGdUY2R6WE00M0Z6bW5mVg?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 05:01:00 GMT",
-        "source": "JTBC",
-        "ageHours": 3.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "7ffe4db4fed296e3d32ce74ba837f56b8e61d24cd00522d9c749c6114e4b7fb1",
