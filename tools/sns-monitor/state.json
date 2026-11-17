@@ -2515,57 +2515,24 @@
       "seenAt": "2026-11-17T03:33:43.407Z",
       "title": "장동혁, 한동훈 장인상 조문… 7분간 머물러 - 조선일보",
       "targetName": "한동훈"
+    },
+    "794a2493ea49ae342876eab024c4cf3aa378d513a96c27781d9dc9fbbc9c0bfe": {
+      "seenAt": "2026-11-17T03:41:24.027Z",
+      "title": "장동혁, 한동훈 빙부상 조문 … 국민의힘 지도부와 함께 빈소 찾아 - 뉴데일리",
+      "targetName": "한동훈"
+    },
+    "840e2c4304ddf4a8db9cbb84b2341b457499915ced46bac5be6aca802473c56a": {
+      "seenAt": "2026-11-17T03:41:24.834Z",
+      "title": "'최민희 사태', 김민석에게 필요한 리더십 - OhmyNews",
+      "targetName": "김민석"
+    },
+    "fe16a82ffff8c4d80d90e0abedb611190c36bd67ccfe70d4a3ae0e81531bc788": {
+      "seenAt": "2026-11-17T03:41:25.609Z",
+      "title": "김민석 \"AI 부정행위 적발시 응시자격 10년 제한 입법 추진\" - 진일보 | 전남일보",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "794a2493ea49ae342876eab024c4cf3aa378d513a96c27781d9dc9fbbc9c0bfe",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "장동혁, 한동훈 빙부상 조문 … 국민의힘 지도부와 함께 빈소 찾아 - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9sRWxfVmd0SFQtTjhnMG5kV0NSYXRlZThEeGtVam5hTVVXYm9EYVhVbUc0Z09CdWZvT2FMMGs3OEh6SExCZVdKLW5ETmVhVXk2TTlDazBRMnVZckJqSmRmUHB1cl9ndTZld0tTbkNXQXFCY3JNTUowTGJuVdIBgAFBVV95cUxQZFdVcHZ3Y2M5VEdjZGV3RGk4VjhjVE1haEYtSFdMbVl0TEFUbnN0NmpKMjlJd2t4QW5sdVFXa2lqcU5Va2U0OFNSeURTbUhhRWJRNDNnSDUtcElEc2tTLXhyangtQUZxVFo4VVhVUjMzT2lBbTJ3THlWUi1Ha1NCRA?oc=5\" target=\"_blank\">장동혁, 한동훈 빙부상 조문 … 국민의힘 지도부와 함께 빈소 찾아</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sRWxfVmd0SFQtTjhnMG5kV0NSYXRlZThEeGtVam5hTVVXYm9EYVhVbUc0Z09CdWZvT2FMMGs3OEh6SExCZVdKLW5ETmVhVXk2TTlDazBRMnVZckJqSmRmUHB1cl9ndTZld0tTbkNXQXFCY3JNTUowTGJuVdIBgAFBVV95cUxQZFdVcHZ3Y2M5VEdjZGV3RGk4VjhjVE1haEYtSFdMbVl0TEFUbnN0NmpKMjlJd2t4QW5sdVFXa2lqcU5Va2U0OFNSeURTbUhhRWJRNDNnSDUtcElEc2tTLXhyangtQUZxVFo4VVhVUjMzT2lBbTJ3THlWUi1Ha1NCRA?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 00:24:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 3.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "840e2c4304ddf4a8db9cbb84b2341b457499915ced46bac5be6aca802473c56a",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "'최민희 사태', 김민석에게 필요한 리더십 - OhmyNews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQekJuVExIRmFwMWtRd29GSHFxVFBuTHlncHNtXzQxRDBKS05UYVBrTHR4TmgwZlU2c2paMmt2dUl4TmdUWHdqYVFyMFF1QXpMSHNLdWV4eVdJY2YwS0NreDNZWnhuOTNHUmRRaC1iOHBIS25VMUYzaFFrSzFOVG95eER1UXpmdE1yc1E?oc=5\" target=\"_blank\">'최민희 사태', 김민석에게 필요한 리더십</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQekJuVExIRmFwMWtRd29GSHFxVFBuTHlncHNtXzQxRDBKS05UYVBrTHR4TmgwZlU2c2paMmt2dUl4TmdUWHdqYVFyMFF1QXpMSHNLdWV4eVdJY2YwS0NreDNZWnhuOTNHUmRRaC1iOHBIS25VMUYzaFFrSzFOVG95eER1UXpmdE1yc1E?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 21:49:00 GMT",
-        "source": "OhmyNews",
-        "ageHours": 5.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "fe16a82ffff8c4d80d90e0abedb611190c36bd67ccfe70d4a3ae0e81531bc788",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 \"AI 부정행위 적발시 응시자격 10년 제한 입법 추진\" - 진일보 | 전남일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE0wMHY3ZVBoNWlRMnB2dlBxc0IzQkgwb3Ryd2s5RkNrcnpwUDFOT0pUdEdxeFF0Vmd3Uks1MnJ2VHBvdld1RmkzOVNYLVZ6a0RXVm9zaDZaTlo1YkNfQXF3UmQ0THFLTzYxSno5dl9uNA?oc=5\" target=\"_blank\">김민석 \"AI 부정행위 적발시 응시자격 10년 제한 입법 추진\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">진일보 | 전남일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wMHY3ZVBoNWlRMnB2dlBxc0IzQkgwb3Ryd2s5RkNrcnpwUDFOT0pUdEdxeFF0Vmd3Uks1MnJ2VHBvdld1RmkzOVNYLVZ6a0RXVm9zaDZaTlo1YkNfQXF3UmQ0THFLTzYxSno5dl9uNA?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 00:25:08 GMT",
-        "source": "진일보 | 전남일보",
-        "ageHours": 3.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "fc9897fb48473dea64ebb8d1ec102fea36aa9b9ed623432ac19027245e77019a",

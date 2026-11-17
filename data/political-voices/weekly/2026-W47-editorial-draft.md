@@ -1535,3 +1535,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁, 한동훈 빙부상 조문 … 국민의힘 지도부와 함께 빈소 찾아 - 뉴데일리
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, 한동훈 빙부상 조문 … 국민의힘 지도부와 함께 빈소 찾아
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE9sRWxfVmd0SFQtTjhnMG5kV0NSYXRlZThEeGtVam5hTVVXYm9EYVhVbUc0Z09CdWZvT2FMMGs3OEh6SExCZVdKLW5ETmVhVXk2TTlDazBRMnVZckJqSmRmUHB1cl9ndTZld0tTbkNXQXFCY3JNTUowTGJuVdIBgAFBVV95cUxQZFdVcHZ3Y2M5VEdjZGV3RGk4VjhjVE1haEYtSFdMbVl0TEFUbnN0NmpKMjlJd2t4QW5sdVFXa2lqcU5Va2U0OFNSeURTbUhhRWJRNDNnSDUtcElEc2tTLXhyangtQUZxVFo4VVhVUjMzT2lBbTJ3THlWUi1Ha1NCRA?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** '최민희 사태', 김민석에게 필요한 리더십 - OhmyNews
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '최민희 사태', 김민석에게 필요한 리더십
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiigFBVV95cUxQekJuVExIRmFwMWtRd29GSHFxVFBuTHlncHNtXzQxRDBKS05UYVBrTHR4TmgwZlU2c2paMmt2dUl4TmdUWHdqYVFyMFF1QXpMSHNLdWV4eVdJY2YwS0NreDNZWnhuOTNHUmRRaC1iOHBIS25VMUYzaFFrSzFOVG95eER1UXpmdE1yc1E?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "AI 부정행위 적발시 응시자격 10년 제한 입법 추진" - 진일보 | 전남일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "AI 부정행위 적발시 응시자격 10년 제한 입법 추진"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE0wMHY3ZVBoNWlRMnB2dlBxc0IzQkgwb3Ryd2s5RkNrcnpwUDFOT0pUdEdxeFF0Vmd3Uks1MnJ2VHBvdld1RmkzOVNYLVZ6a0RXVm9zaDZaTlo1YkNfQXF3UmQ0THFLTzYxSno5dl9uNA?oc=5)
+
+---
+
