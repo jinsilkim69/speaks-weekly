@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T09:41:19.550Z",
+  "lastCheckedAt": "2026-11-17T09:51:20.634Z",
   "seenPostIds": {
-    "7702d3b02fdd925c78ed45b93eb300be899dc6a359f03d3b11bfe0be142ec015": {
-      "seenAt": "2026-11-13T13:11:17.667Z",
-      "title": "“윤리감찰 대상은 김민석” vs “최민희 제명”…민주당 계파갈등 ‘전면전’ - 경향신문",
-      "targetName": "김민석"
-    },
-    "26cc58a73a42c4e2a92779a4337855e989efc44cea40ace711b6d24fabfffe26": {
-      "seenAt": "2026-11-13T13:21:18.953Z",
-      "title": "민주당 박범계·이해식 조국혁신당과 통합 엑스맨? 논의 없는 일방적 메시지가 원인 - 허프포스트코리아",
-      "targetName": "조국"
-    },
-    "53b8b2e899052d20b05654fdcaf084a046e9e229c0c2c434dd9fc1f137979525": {
-      "seenAt": "2026-11-13T13:21:19.667Z",
-      "title": "위대한 민족단결의 전통을 계승하고, 조국전선 사업에 새로운 이정표를 세웁니다. - Vietnam.vn",
-      "targetName": "조국"
-    },
     "5d53f2b51a5002b25583483c2086c6616e9d09ea8594b0239c4e5dc83e73c314": {
       "seenAt": "2026-11-13T13:31:19.429Z",
       "title": "이재명 대통령, 자본시장 정책 간담회 후 시민 소통 - 시사일보",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-17T09:41:22.347Z",
       "title": "정청래, 송영길에 \"자격미달자\" 공개 비판 … 민주당 '명청대전' 석 달째 격화 - 뉴데일리",
       "targetName": "송영길"
+    },
+    "b64c224b11bc20cd6cdc80feff10ba265513126c587b4f9caf05fc8f7afcb13d": {
+      "seenAt": "2026-11-17T09:51:22.018Z",
+      "title": "정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이 - 머니투데이",
+      "targetName": "송영길"
+    },
+    "de0b6421238e277681810e41945812cebd0e3395691383964ffbcb0fff9de890": {
+      "seenAt": "2026-11-17T09:51:22.751Z",
+      "title": "송영길 \"김민석·정청래 만나 대타협해야\"…정청래 \"자격 미달자 나서지 말라\"(종합) - 뉴시스",
+      "targetName": "송영길"
+    },
+    "8cb156d11882cb5a9657a4acaaee0280a7712c9b9098fdefe5f4af6e7586e283": {
+      "seenAt": "2026-11-17T09:51:23.517Z",
+      "title": "정청래, 김민석과 타협 제안한 송영길에 “자격 미달 나서지 마시라” - 채널A",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "b64c224b11bc20cd6cdc80feff10ba265513126c587b4f9caf05fc8f7afcb13d",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBYeWJfN2tDaXU3VW1ES0pFaUVLNC1LZF94ZTVRYzBSNUszLUNQN2xnUzVCM3dXVV9IeDFDUVFwUDEwYnk0Y2pQanlRZzB3T2NKWTZRMklpVHNxYXFveDBRYzB5cUN2bV95N3RxbNIBckFVX3lxTE5hcHYxYXJ0WEVGUTc4S1BDalc4OTd2aWVqbjRJRnAteG9YUy14cnNWUy1rUHFzNnFGU3pzVFdVbmIxRkVrLUpwTGFSS0x6Tk1tWHBFaUVOV2RUUWxuX3R2cXU3a0xrZXdWRzlEcDFzbk5fZw?oc=5\" target=\"_blank\">정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYeWJfN2tDaXU3VW1ES0pFaUVLNC1LZF94ZTVRYzBSNUszLUNQN2xnUzVCM3dXVV9IeDFDUVFwUDEwYnk0Y2pQanlRZzB3T2NKWTZRMklpVHNxYXFveDBRYzB5cUN2bV95N3RxbNIBckFVX3lxTE5hcHYxYXJ0WEVGUTc4S1BDalc4OTd2aWVqbjRJRnAteG9YUy14cnNWUy1rUHFzNnFGU3pzVFdVbmIxRkVrLUpwTGFSS0x6Tk1tWHBFaUVOV2RUUWxuX3R2cXU3a0xrZXdWRzlEcDFzbk5fZw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 04:43:32 GMT",
-        "source": "머니투데이",
-        "ageHours": 3.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "de0b6421238e277681810e41945812cebd0e3395691383964ffbcb0fff9de890",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 \"김민석·정청래 만나 대타협해야\"…정청래 \"자격 미달자 나서지 말라\"(종합) - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE51Mm4xTUM5VUJGeGNDS012ek1hbTNrRXBKX2g1eU9rV01kSWl4bkJjSmR4TzBEODA5N3VBVk1NZUFLb0RVMHRKVTZ6cVVsZzhZNVlXTW82ano4YUsxcWFERdIBeEFVX3lxTFA4MmxxWklJczRIUTh3aGd6eGJVZW9zWE1NZ0U1WmV4TDFYa0M3WWg3eExwM2xsOFpPQnNUeEhaT0l5TU5NSzdOZWVLck42d0hKRGpicmlZNTZWRXJfMkt1X3RyR0J1Vmd0VXZzRUVzNW94aHFObVU1cQ?oc=5\" target=\"_blank\">송영길 \"김민석·정청래 만나 대타협해야\"…정청래 \"자격 미달자 나서지 말라\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51Mm4xTUM5VUJGeGNDS012ek1hbTNrRXBKX2g1eU9rV01kSWl4bkJjSmR4TzBEODA5N3VBVk1NZUFLb0RVMHRKVTZ6cVVsZzhZNVlXTW82ano4YUsxcWFERdIBeEFVX3lxTFA4MmxxWklJczRIUTh3aGd6eGJVZW9zWE1NZ0U1WmV4TDFYa0M3WWg3eExwM2xsOFpPQnNUeEhaT0l5TU5NSzdOZWVLck42d0hKRGpicmlZNTZWRXJfMkt1X3RyR0J1Vmd0VXZzRUVzNW94aHFObVU1cQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:12:35 GMT",
-        "source": "뉴시스",
-        "ageHours": 2.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "8cb156d11882cb5a9657a4acaaee0280a7712c9b9098fdefe5f4af6e7586e283",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 김민석과 타협 제안한 송영길에 “자격 미달 나서지 마시라” - 채널A",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE50Q29Vd1VCRW41emVxekdMTWVESnRPM0g5SnNPQ2xaeVVnZ21jdHRxYWhzNmdLOGRzanVSUExzLWVzcHg2cVBQSG5KeUlVREx6UFdqTEFicVRyU2hQclHSAWNBVV95cUxOd2Q0WVdTOWxmOTFXLTN2aFZZU1VRbjNpNERBY2dYUnEwY3Vtb1U2YzRwSG9wUmZKRUE4eng3dGJrMnlJS3dkN1VnQmlZQVhQbng1a0lYYVdjS01xX3lma01yN2s?oc=5\" target=\"_blank\">정청래, 김민석과 타협 제안한 송영길에 “자격 미달 나서지 마시라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50Q29Vd1VCRW41emVxekdMTWVESnRPM0g5SnNPQ2xaeVVnZ21jdHRxYWhzNmdLOGRzanVSUExzLWVzcHg2cVBQSG5KeUlVREx6UFdqTEFicVRyU2hQclHSAWNBVV95cUxOd2Q0WVdTOWxmOTFXLTN2aFZZU1VRbjNpNERBY2dYUnEwY3Vtb1U2YzRwSG9wUmZKRUE4eng3dGJrMnlJS3dkN1VnQmlZQVhQbng1a0lYYVdjS01xX3lma01yN2s?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 05:08:00 GMT",
-        "source": "채널A",
-        "ageHours": 3.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "a41fa042af2d383aa2e138e5d8f549886303b398ef7ef7ae73aaede3c9effe63",
@@ -3442,6 +3394,22 @@
         "pubDate": "Tue, 17 Nov 2026 07:57:26 GMT",
         "source": "미디어오늘",
         "ageHours": 1.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4a132025a3024ea30a6b524916a4ab9b7e87641ee5116193bbbfc4bc6228265f",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전” - 서울신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBteTBCejRxV2NYWWRTT0FxNU5KOExYaTI4ZmJJU0d4MFRNLXpBWnVHaDYtYmJUX3FTQXQwY1RsMUhtU2hJdUp6blZOLTNrbE5lZEZBOHo5bFdhZTBqWHVsSzRVeXh5TWhVUWRhQTN3Rmo?oc=5\" target=\"_blank\">조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBteTBCejRxV2NYWWRTT0FxNU5KOExYaTI4ZmJJU0d4MFRNLXpBWnVHaDYtYmJUX3FTQXQwY1RsMUhtU2hJdUp6blZOLTNrbE5lZEZBOHo5bFdhZTBqWHVsSzRVeXh5TWhVUWRhQTN3Rmo?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:13:27 GMT",
+        "source": "서울신문",
+        "ageHours": 1.6
       },
       "delivered": [],
       "archived": false
