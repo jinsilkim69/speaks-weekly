@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T08:31:26.144Z",
+  "lastCheckedAt": "2026-11-17T08:41:21.743Z",
   "seenPostIds": {
-    "59d513d8319fdbd7ece1b648fa8f193653366ae963d1ab3a78cc7c6217aec488": {
-      "seenAt": "2026-11-13T10:01:20.226Z",
-      "title": "조국 \"신라젠 음모론자들이 유시민 넘어 나까지 엮으려 해 개탄\" - 뉴시스",
-      "targetName": "조국"
-    },
-    "46b57966918b28135fa81d2a0e637a0469f8c9f3d126407267471990b9de799a": {
-      "seenAt": "2026-11-13T10:11:19.739Z",
-      "title": "민주당 \"김민석‧조국 곧 만날 것\"...조국 \"신뢰 회복이 먼저\" - 조선일보",
-      "targetName": "김민석"
-    },
-    "cbdaa1bea0841382c6852b6078bb8485945f246acc4873051758f5b83310be77": {
-      "seenAt": "2026-11-13T10:11:20.391Z",
-      "title": "장동혁, ‘韓 복당 비판’ 안철수와 회동…오세훈은 이준석 만나 - 동아일보",
-      "targetName": "이준석"
-    },
     "dcb99b10ecb54084a2331da4fc94341e0f40368b2928638b1e309b9139860896": {
       "seenAt": "2026-11-13T10:31:18.145Z",
       "title": "이성윤 \"지금 윤리감찰 대상은 김민석 대표...총재시대 아냐\" - 프레시안",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-17T08:31:29.143Z",
       "title": "“한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성 - 중앙일보",
       "targetName": "한동훈"
+    },
+    "82973a812e79c754c8fe3eb17dbd697a961e8fbc3b298da7e790236bba8cf570": {
+      "seenAt": "2026-11-17T08:41:23.225Z",
+      "title": "‘한동훈 조작징계’ 증거 오늘 공개…“장동혁 대화 내용 포함” - 주간경향",
+      "targetName": "한동훈"
+    },
+    "291055de6c462b26f482f111877655dfa9e179f74350e7b8bc7a9687c0fd908d": {
+      "seenAt": "2026-11-17T08:41:24.009Z",
+      "title": "장동혁, 당 지도부와 한동훈 장인상 조문…정점식 등 원내지도부도 오후 방문 예정 - 전자신문",
+      "targetName": "한동훈"
+    },
+    "5ce272f29c894e9475b5e44522907df1bf42978fb39666a67514cba7e270e64b": {
+      "seenAt": "2026-11-17T08:41:24.903Z",
+      "title": "저속 표현으로 김민석 비판… 조용우 부산시의원 당원권 1년 정지 - 부산일보",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "82973a812e79c754c8fe3eb17dbd697a961e8fbc3b298da7e790236bba8cf570",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "‘한동훈 조작징계’ 증거 오늘 공개…“장동혁 대화 내용 포함” - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SaXJ2YmlmWUNRMFlkdHd4YTNIc1BuQ3pScDRCSTd5MllqQVhVS1Q1QXJmQjU0NklCbV9xak90Q3NmNTY3bVlFTkU2X2pwdU1lMkhodVd6dHZwWE1QN2c?oc=5\" target=\"_blank\">‘한동훈 조작징계’ 증거 오늘 공개…“장동혁 대화 내용 포함”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SaXJ2YmlmWUNRMFlkdHd4YTNIc1BuQ3pScDRCSTd5MllqQVhVS1Q1QXJmQjU0NklCbV9xak90Q3NmNTY3bVlFTkU2X2pwdU1lMkhodVd6dHZwWE1QN2c?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 23:45:00 GMT",
-        "source": "주간경향",
-        "ageHours": 8.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "291055de6c462b26f482f111877655dfa9e179f74350e7b8bc7a9687c0fd908d",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "장동혁, 당 지도부와 한동훈 장인상 조문…정점식 등 원내지도부도 오후 방문 예정 - 전자신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE96YnNlMEhueGRsRHE5cVlSTXA3TkRtNUVsYWotRDN6UXVPWVpnaHlVWkJ1MUhDSXI2SHFaT3ZyRUZib0xEdnRJT3lhY1E1NGxLbjZR?oc=5\" target=\"_blank\">장동혁, 당 지도부와 한동훈 장인상 조문…정점식 등 원내지도부도 오후 방문 예정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96YnNlMEhueGRsRHE5cVlSTXA3TkRtNUVsYWotRDN6UXVPWVpnaHlVWkJ1MUhDSXI2SHFaT3ZyRUZib0xEdnRJT3lhY1E1NGxLbjZR?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 02:00:41 GMT",
-        "source": "전자신문",
-        "ageHours": 6.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5ce272f29c894e9475b5e44522907df1bf42978fb39666a67514cba7e270e64b",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "저속 표현으로 김민석 비판… 조용우 부산시의원 당원권 1년 정지 - 부산일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBXOXA1LV9ndlVraGoyWm1lYzlCQmRHYWxnd0p4QXdUTFlsQkJkQWtQZW1uWlBQZGVVUnVCZ0xFWk95Z1FVTk1iWW15ZW9Md0lpb0hzUUdLc0FGY1JXS1AyM3ZmT1c1M2dzTUJxRFdUX2tkSVhI?oc=5\" target=\"_blank\">저속 표현으로 김민석 비판… 조용우 부산시의원 당원권 1년 정지</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXOXA1LV9ndlVraGoyWm1lYzlCQmRHYWxnd0p4QXdUTFlsQkJkQWtQZW1uWlBQZGVVUnVCZ0xFWk95Z1FVTk1iWW15ZW9Md0lpb0hzUUdLc0FGY1JXS1AyM3ZmT1c1M2dzTUJxRFdUX2tkSVhI?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:45:17 GMT",
-        "source": "부산일보",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "b03fcb34ba92e17d51fa5897ca4673f08feff07e0aadbc4eea7574a86fe63606",
@@ -3426,6 +3378,70 @@
         "pubDate": "Tue, 17 Nov 2026 07:35:00 GMT",
         "source": "AOL.com",
         "ageHours": 0.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ce570e4a191e7ba5ff43a3678ecd87f01493239313745320093633cef31e14a5",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "‘조작기소 특검법’ 국무회의 통과에 野 “이재명 탈옥법...국민이 심판할 것” 반발 - 조선일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxObjhpVHJxNmUyd2t5U0pTUFVIeTBJSUlMNzNsNS1paXVORG51Qi1qLWdQWmo0TFVYMVpHYlctdTFnZzBDQkdxcENBeEJEWXJUQ3RlU29SSTFzNmRlcVhqN1NXdkJOZ0JrdXlEdWJ3aTRIa0dJVm81NURzV0NaZERVT0NaN0JJQQ?oc=5\" target=\"_blank\">‘조작기소 특검법’ 국무회의 통과에 野 “이재명 탈옥법...국민이 심판할 것” 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjhpVHJxNmUyd2t5U0pTUFVIeTBJSUlMNzNsNS1paXVORG51Qi1qLWdQWmo0TFVYMVpHYlctdTFnZzBDQkdxcENBeEJEWXJUQ3RlU29SSTFzNmRlcVhqN1NXdkJOZ0JrdXlEdWJ3aTRIa0dJVm81NURzV0NaZERVT0NaN0JJQQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 05:41:00 GMT",
+        "source": "조선일보",
+        "ageHours": 3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b923c604fef17b65ec20ce4b04d2969ffdbed8bc98a03cce7e4286ee35b7b34b",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, ‘대타협 제안’ 송영길에 “자격 미달자는 나서지 마라” - 천지일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB4RGItNmtPMUZWMmZlUU1jdmFrb3pNQmU5dXQwZ29FVHZpbGNmY3NFUVZSMHB0ZVFibEJrSmd0c2NBZzl0aTlUUUF0Vkczd29jdkNHVDdLQnhLOWNTTjc5T2NvcTNjZi1fa2c?oc=5\" target=\"_blank\">정청래, ‘대타협 제안’ 송영길에 “자격 미달자는 나서지 마라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4RGItNmtPMUZWMmZlUU1jdmFrb3pNQmU5dXQwZ29FVHZpbGNmY3NFUVZSMHB0ZVFibEJrSmd0c2NBZzl0aTlUUUF0Vkczd29jdkNHVDdLQnhLOWNTTjc5T2NvcTNjZi1fa2c?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 07:58:26 GMT",
+        "source": "천지일보",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "bde238eebc9e5e9fd0e93c5e0489fb7ef4460cb5fcd73342f637c7f07c79a2a6",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석, 비행기서 만든 AI 부정행위 탐지 앱 공개…“교육부 답변에 한숨” - 주간조선",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA4VXNobk9NNWUtSDk3dnM0RmRKUldNbnpqN2hNUlJEakY4OW5CMXVHWnRWWEFpbFdhMTBOSkN2b01tRnNQN1V5VlpJT1FfeElpNHpzSTlCSHB2Rklta196TzJtUjlZTy1VM2fSAW5BVV95cUxQeGl3YnhKRF9VZHB4VE52c0Q1YzhCOFpKWmtxcWVaOHBUQVkyYkEwbkViTFVVbU9GcGtVUmp0MGo4aFZaRnNRSEpySVpVV2hUZi1qcmlYWTFhQ3JMRHhRelRpMExjNEZ4Y091QlBOZw?oc=5\" target=\"_blank\">이준석, 비행기서 만든 AI 부정행위 탐지 앱 공개…“교육부 답변에 한숨”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간조선</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4VXNobk9NNWUtSDk3dnM0RmRKUldNbnpqN2hNUlJEakY4OW5CMXVHWnRWWEFpbFdhMTBOSkN2b01tRnNQN1V5VlpJT1FfeElpNHpzSTlCSHB2Rklta196TzJtUjlZTy1VM2fSAW5BVV95cUxQeGl3YnhKRF9VZHB4VE52c0Q1YzhCOFpKWmtxcWVaOHBUQVkyYkEwbkViTFVVbU9GcGtVUmp0MGo4aFZaRnNRSEpySVpVV2hUZi1qcmlYWTFhQ3JMRHhRelRpMExjNEZ4Y091QlBOZw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 05:45:00 GMT",
+        "source": "주간조선",
+        "ageHours": 2.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "db91d30e17508dffc0f833cac43b6d04200966c8f4a1bc7e09a00ad31c5f6499",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\" - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnYWstWmVtdkVsWV90ODJKcmp5N0lGMmdaOVBsazF1djNjU2JzN1NTRHl6R3pDVkE2eG5RQWs2ZTcyZ3NCc0lqYU0wZW5ydUMxTzNxdVdaVF9icEl0SUJ4S9IBeEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rUw?oc=5\" target=\"_blank\">조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnYWstWmVtdkVsWV90ODJKcmp5N0lGMmdaOVBsazF1djNjU2JzN1NTRHl6R3pDVkE2eG5RQWs2ZTcyZ3NCc0lqYU0wZW5ydUMxTzNxdVdaVF9icEl0SUJ4S9IBeEFVX3lxTFBKRE9iNGxURjlIY2dNQXBRXzhmVHBOeFlDakk2NmhZSHBmMnpDRW53RTJLSkFiRU93M2ZFT0J4TWotcFNSb3FRV29HaVFuZUYta0JJX1ZEaWx1RnNmSUdQMkJqWFViTFZQbGZWY0dZc1ZnaWx6aC1rUw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:30:00 GMT",
+        "source": "뉴시스",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false

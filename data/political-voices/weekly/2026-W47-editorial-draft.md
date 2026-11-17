@@ -1977,3 +1977,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** ‘한동훈 조작징계’ 증거 오늘 공개…“장동혁 대화 내용 포함” - 주간경향
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘한동훈 조작징계’ 증거 오늘 공개…“장동혁 대화 내용 포함”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SaXJ2YmlmWUNRMFlkdHd4YTNIc1BuQ3pScDRCSTd5MllqQVhVS1Q1QXJmQjU0NklCbV9xak90Q3NmNTY3bVlFTkU2X2pwdU1lMkhodVd6dHZwWE1QN2c?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁, 당 지도부와 한동훈 장인상 조문…정점식 등 원내지도부도 오후 방문 예정 - 전자신문
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, 당 지도부와 한동훈 장인상 조문…정점식 등 원내지도부도 오후 방문 예정
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiU0FVX3lxTE96YnNlMEhueGRsRHE5cVlSTXA3TkRtNUVsYWotRDN6UXVPWVpnaHlVWkJ1MUhDSXI2SHFaT3ZyRUZib0xEdnRJT3lhY1E1NGxLbjZR?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 저속 표현으로 김민석 비판… 조용우 부산시의원 당원권 1년 정지 - 부산일보
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 저속 표현으로 김민석 비판… 조용우 부산시의원 당원권 1년 정지
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTFBXOXA1LV9ndlVraGoyWm1lYzlCQmRHYWxnd0p4QXdUTFlsQkJkQWtQZW1uWlBQZGVVUnVCZ0xFWk95Z1FVTk1iWW15ZW9Md0lpb0hzUUdLc0FGY1JXS1AyM3ZmT1c1M2dzTUJxRFdUX2tkSVhI?oc=5)
+
+---
+
