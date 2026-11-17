@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T21:41:16.815Z",
+  "lastCheckedAt": "2026-11-17T21:51:18.135Z",
   "seenPostIds": {
-    "5a04259a94b97df9a1eaf33f1b7e0684eae4a3ceb09017f13dee8534965d36b8": {
-      "seenAt": "2026-11-14T06:01:24.994Z",
-      "title": "Trump Fires Off Bonkers Post Amid Worst Flight Chaos Since 9/11 - The Daily Beast",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "f74392f9d03544290b2a25f9b7d04a37a0646d0af53c12c78b547c17b69094ab": {
       "seenAt": "2026-11-14T06:01:26.404Z",
       "title": "‘하버드 학력 의혹’ 다시 꺼낸 전한길…이준석 “추가 형사 조치할 것” - 이데일리",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-17T21:41:18.001Z",
       "title": "EXCLUSIVE: Donald Trump 'Facing Pleas to Stop Social Media Outbursts Over Widespread Legal Fears' - AOL.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a06fa48694df2bcda224341843d435b01610cee23ae099b74ffa16fb99be834d": {
+      "seenAt": "2026-11-17T21:51:19.127Z",
+      "title": "천하람 \"열화상 카메라로 AI 커닝 못 잡아…수능 연기해야\" - 파이낸셜뉴스",
+      "targetName": "천하람"
     }
   },
   "pending": []
