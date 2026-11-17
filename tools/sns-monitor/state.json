@@ -2515,57 +2515,24 @@
       "seenAt": "2026-11-17T12:27:19.253Z",
       "title": "송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\" | - 대전일보",
       "targetName": "송영길"
+    },
+    "7b3c9565251b7f93a6bfbe5b70166411596d971df91d33ee638f7b8a56725a82": {
+      "seenAt": "2026-11-17T12:31:32.932Z",
+      "title": "삼성라이온즈 선수가 김민석·조국보다 훌륭한 시절 - OhmyNews",
+      "targetName": "김민석"
+    },
+    "a58735df5602a5f7695dc0dd7ad70c47a37cc1ba2c64ff975c58b3186fddf4e2": {
+      "seenAt": "2026-11-17T12:31:33.697Z",
+      "title": "정청래, 송영길에 \"자격미달자\" 공개 비판 … 민주당 '명청대전' 석 달째 격화 - 뉴데일리",
+      "targetName": "정청래"
+    },
+    "82ae1b8edd53def8b1053b40d6882dae36c54b4cbd306859858ad62ccc6e93db": {
+      "seenAt": "2026-11-17T12:31:34.483Z",
+      "title": "독도 방문 때문?…일본, 조국 입국 거부 파장 - 한겨레",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "7b3c9565251b7f93a6bfbe5b70166411596d971df91d33ee638f7b8a56725a82",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "삼성라이온즈 선수가 김민석·조국보다 훌륭한 시절 - OhmyNews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9jLW5MRlFXUF85RkFnTzVQeXZGd0U2T2VNU2hVRmVWTDBhNmhhZUtPMnZCTlhWMFQtWHdmcEY0VDlqZzBxd1VUWHhIZU9CekhPRlNOY1lVUEpUczVUQ0JqQXBOTi1rVkgyVm1pM3lVbVQ4NFgtT05r?oc=5\" target=\"_blank\">삼성라이온즈 선수가 김민석·조국보다 훌륭한 시절</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jLW5MRlFXUF85RkFnTzVQeXZGd0U2T2VNU2hVRmVWTDBhNmhhZUtPMnZCTlhWMFQtWHdmcEY0VDlqZzBxd1VUWHhIZU9CekhPRlNOY1lVUEpUczVUQ0JqQXBOTi1rVkgyVm1pM3lVbVQ4NFgtT05r?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 02:56:00 GMT",
-        "source": "OhmyNews",
-        "ageHours": 6.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "a58735df5602a5f7695dc0dd7ad70c47a37cc1ba2c64ff975c58b3186fddf4e2",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 송영길에 \"자격미달자\" 공개 비판 … 민주당 '명청대전' 석 달째 격화 - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQclAtMXVIMHJSLXhiblNQQ1FvSE5IbElFRlNSQUNLdVMzNjhRRUZSUlI4Q3gwU3EzN1prVFR6RVBKSWdrb2FUM3hSTVFCU24tRTkybVEwRGQ4ZHZVU3NpVVJJV3FxLXZmdWZJakJHSlFUeUUyY0gza2FDWDd1dWVEUtIBgAFBVV95cUxQclAtMXVIMHJSLXhiblNQQ1FvSE5IbElFRlNSQUNLdVMzNjhRRUZSUlI4Q3gwU3EzN1prVFR6RVBKSWdrb2FUM3hSTVFCU24tRTkybVEwRGQ4ZHZVU3NpVVJJV3FxLXZmdWZJakJHSlFUeUUyY0gza2FDWDd1dWVEUg?oc=5\" target=\"_blank\">정청래, 송영길에 \"자격미달자\" 공개 비판 … 민주당 '명청대전' 석 달째 격화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQclAtMXVIMHJSLXhiblNQQ1FvSE5IbElFRlNSQUNLdVMzNjhRRUZSUlI4Q3gwU3EzN1prVFR6RVBKSWdrb2FUM3hSTVFCU24tRTkybVEwRGQ4ZHZVU3NpVVJJV3FxLXZmdWZJakJHSlFUeUUyY0gza2FDWDd1dWVEUtIBgAFBVV95cUxQclAtMXVIMHJSLXhiblNQQ1FvSE5IbElFRlNSQUNLdVMzNjhRRUZSUlI4Q3gwU3EzN1prVFR6RVBKSWdrb2FUM3hSTVFCU24tRTkybVEwRGQ4ZHZVU3NpVVJJV3FxLXZmdWZJakJHSlFUeUUyY0gza2FDWDd1dWVEUg?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:34:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 2.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "82ae1b8edd53def8b1053b40d6882dae36c54b4cbd306859858ad62ccc6e93db",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "독도 방문 때문?…일본, 조국 입국 거부 파장 - 한겨레",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBhZFpXZzh4eWVkdWVSUUZIMDBpRkt2cEtnRVJjcDlVbDlja2VjbW5UekxIaG56NWNrODhpOEhEUExMc3RVc2tWdExPZEh6QzcxNWRrbnRaeEpmd0lpRHZlZlR4cEhacGx0dE1seVl1eW9lNlRE?oc=5\" target=\"_blank\">독도 방문 때문?…일본, 조국 입국 거부 파장</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhZFpXZzh4eWVkdWVSUUZIMDBpRkt2cEtnRVJjcDlVbDlja2VjbW5UekxIaG56NWNrODhpOEhEUExMc3RVc2tWdExPZEh6QzcxNWRrbnRaeEpmd0lpRHZlZlR4cEhacGx0dE1seVl1eW9lNlRE?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 09:19:00 GMT",
-        "source": "한겨레",
-        "ageHours": 0
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "d163a1545c8cd9aa6601d5860a5c6fc4535b04dbdb1277a3df8639424529c5b5",
