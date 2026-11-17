@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T17:41:21.908Z",
+  "lastCheckedAt": "2026-11-17T17:51:20.040Z",
   "seenPostIds": {
-    "c390ac7b036e1a804bdda9abdd298b6d5beb7e3037e4eb435360766c101003c9": {
-      "seenAt": "2026-11-14T05:31:19.240Z",
-      "title": "한동훈 “李, 확정적 ‘시한부 대통령’”…최민희 녹취록으로 공세 - Chosunbiz",
-      "targetName": "한동훈"
-    },
     "4bdde28c4e4b87fcd10375b61841fb5f9199c6161139bf4de5fd6eaf2e0fd224": {
       "seenAt": "2026-11-14T05:41:17.817Z",
       "title": "\"내가 왜 노무현 추천서를 받나\" 전한길 저격한 이준석 - 데일리안",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-17T17:41:23.321Z",
       "title": "Trump Media investors learn the Truth about betting on bitcoin - Financial Times",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ead3a86c69dd35359d104493bd097bb0bc7d962fab15441bbad2561883eb0409": {
+      "seenAt": "2026-11-17T17:51:21.277Z",
+      "title": "[단독] '법령 준수' 약속 두 달 만에…한동훈 '수능 응원' 현수막 또 논란 - https://www.ppss.kr/",
+      "targetName": "한동훈"
     }
   },
   "pending": []
