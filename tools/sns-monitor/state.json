@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T12:11:28.942Z",
+  "lastCheckedAt": "2026-11-17T12:21:18.067Z",
   "seenPostIds": {
-    "c216ea8bf79d19dff2a50d67a15900f30e03ac4168474df66cad4d0d9efb7f6e": {
-      "seenAt": "2026-11-13T23:51:26.012Z",
-      "title": "Trump Hasn’t Commented on Nationwide Flight Shutdown, But He’s Promoting the Federal Film Incentive - Variety",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "4349d7a1214c68fa2341ce1093b820c5542ae0c7fb95cfb52635754c1cdad303": {
-      "seenAt": "2026-11-14T00:01:20.102Z",
-      "title": "Trump says Jensen Huang is going 'through hell' amid scandal - USA Today",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "975e471affe82d2fe2bdc0af77e2c4f34a0564e7b22251920b6324a2a7fdf1b9": {
-      "seenAt": "2026-11-14T00:31:19.018Z",
-      "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum - The Hollywood Reporter",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "50a4d9656a1094ef95a1d65975204730efaeef649bf1969b3ad826f96bdcf588": {
       "seenAt": "2026-11-14T00:41:16.688Z",
       "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum - IMDb",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-17T12:11:32.241Z",
       "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달 나서지 말라\" - 중앙신문",
       "targetName": "송영길"
+    },
+    "a118a0eb1992734bc034138cf5020087e31558ce59b555c49729173385b87e2e": {
+      "seenAt": "2026-11-17T12:21:19.211Z",
+      "title": "정청래, 송영길에 \"자격미달자\" 공개 비판 … 민주당 '명청대전' 석 달째 격화 - 뉴데일리",
+      "targetName": "송영길"
+    },
+    "8f7818824726a65dbd7709c02aa784be2e783f7b025f216c8b370e885bc7659e": {
+      "seenAt": "2026-11-17T12:21:19.975Z",
+      "title": "이준석, 'AI 부정행위 방지 앱' 개발…\"교육부, 감독관 휴대전화 예외 검토를\" - 더팩트",
+      "targetName": "이준석"
+    },
+    "a6b70b7836c6d43894968e41b7e125cf4148ef79d85af322ed02565aed5b4dc5": {
+      "seenAt": "2026-11-17T12:21:20.676Z",
+      "title": "이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "targetName": "이재명"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "a118a0eb1992734bc034138cf5020087e31558ce59b555c49729173385b87e2e",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 송영길에 \"자격미달자\" 공개 비판 … 민주당 '명청대전' 석 달째 격화 - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQclAtMXVIMHJSLXhiblNQQ1FvSE5IbElFRlNSQUNLdVMzNjhRRUZSUlI4Q3gwU3EzN1prVFR6RVBKSWdrb2FUM3hSTVFCU24tRTkybVEwRGQ4ZHZVU3NpVVJJV3FxLXZmdWZJakJHSlFUeUUyY0gza2FDWDd1dWVEUtIBgAFBVV95cUxQclAtMXVIMHJSLXhiblNQQ1FvSE5IbElFRlNSQUNLdVMzNjhRRUZSUlI4Q3gwU3EzN1prVFR6RVBKSWdrb2FUM3hSTVFCU24tRTkybVEwRGQ4ZHZVU3NpVVJJV3FxLXZmdWZJakJHSlFUeUUyY0gza2FDWDd1dWVEUg?oc=5\" target=\"_blank\">정청래, 송영길에 \"자격미달자\" 공개 비판 … 민주당 '명청대전' 석 달째 격화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQclAtMXVIMHJSLXhiblNQQ1FvSE5IbElFRlNSQUNLdVMzNjhRRUZSUlI4Q3gwU3EzN1prVFR6RVBKSWdrb2FUM3hSTVFCU24tRTkybVEwRGQ4ZHZVU3NpVVJJV3FxLXZmdWZJakJHSlFUeUUyY0gza2FDWDd1dWVEUtIBgAFBVV95cUxQclAtMXVIMHJSLXhiblNQQ1FvSE5IbElFRlNSQUNLdVMzNjhRRUZSUlI4Q3gwU3EzN1prVFR6RVBKSWdrb2FUM3hSTVFCU24tRTkybVEwRGQ4ZHZVU3NpVVJJV3FxLXZmdWZJakJHSlFUeUUyY0gza2FDWDd1dWVEUg?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 06:34:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 2.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "8f7818824726a65dbd7709c02aa784be2e783f7b025f216c8b370e885bc7659e",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석, 'AI 부정행위 방지 앱' 개발…\"교육부, 감독관 휴대전화 예외 검토를\" - 더팩트",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wTU1PN1c1aEZzdXdvMnNaenZ1U1d1RXRxa1RZeFRJZThwTHpJU0h1UzFHdkFkalhTQkpnamMyRUotMUh3Wko4SXhRMFdwYW02ZnRnanRoeGjSAVNBVV95cUxPQzJrSHhIMzZaRDlrUHJHa21teXBFOEJGX2dXeEt4NHRWNWxaTkNFaVdPaHF0b0FpTnAzR0RsdGZ6aDgxRWlLdjlDWHFmYjJmUGszTQ?oc=5\" target=\"_blank\">이준석, 'AI 부정행위 방지 앱' 개발…\"교육부, 감독관 휴대전화 예외 검토를\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더팩트</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wTU1PN1c1aEZzdXdvMnNaenZ1U1d1RXRxa1RZeFRJZThwTHpJU0h1UzFHdkFkalhTQkpnamMyRUotMUh3Wko4SXhRMFdwYW02ZnRnanRoeGjSAVNBVV95cUxPQzJrSHhIMzZaRDlrUHJHa21teXBFOEJGX2dXeEt4NHRWNWxaTkNFaVdPaHF0b0FpTnAzR0RsdGZ6aDgxRWlLdjlDWHFmYjJmUGszTQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:25:49 GMT",
-        "source": "더팩트",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "a6b70b7836c6d43894968e41b7e125cf4148ef79d85af322ed02565aed5b4dc5",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQTA1Z2F2TkFxTHRfa01LVVhtdzZOcmJ5OEtfdjFiajZlSEFkRnhnWEJtQ3Q3ZWx4VkNkTzd3ODluOUZKa2huOHhPNDVHUUMyU0UzY3BXN1ZiOVNxalkybFNfazgzWlZkZU9EQjBYblloSkt6ZXVMMUJoSjBWaG5SWllrZWEtX3BraHdr?oc=5\" target=\"_blank\">이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 전체 | 카드/한컷 | 멀티미디어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대한민국 정책브리핑</font>",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQTA1Z2F2TkFxTHRfa01LVVhtdzZOcmJ5OEtfdjFiajZlSEFkRnhnWEJtQ3Q3ZWx4VkNkTzd3ODluOUZKa2huOHhPNDVHUUMyU0UzY3BXN1ZiOVNxalkybFNfazgzWlZkZU9EQjBYblloSkt6ZXVMMUJoSjBWaG5SWllrZWEtX3BraHdr?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 21:00:00 GMT",
-        "source": "대한민국 정책브리핑",
-        "ageHours": 12.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "33c1d95b8f5e709ecd1e7e9aef0e404ea0bec73560993c6a183550ca828502cd",
