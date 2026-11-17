@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-17T12:41:19.482Z",
+  "lastCheckedAt": "2026-11-17T12:51:18.281Z",
   "seenPostIds": {
-    "aaa5fc5b827d32d7cac68852d83c2347b9040e4ef262498214b4ec9d4c585016": {
-      "seenAt": "2026-11-14T02:01:18.447Z",
-      "title": "최민희 \"통일교가 김민석 대표 밀어\"...추가 녹취도 파문 - 중앙신문",
-      "targetName": "김민석"
-    },
-    "dd48eb4983107b6b08850d2beb97d46ab6978f299dadc7a7a1524bc20a4c1832": {
-      "seenAt": "2026-11-14T02:11:16.715Z",
-      "title": "What's Trump's strategy now with Iran? To keep things as they are - NPR",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "0295f1946866eaf809985e9bbf5d8c67143419b278d36f51d1e35cc4130d8111": {
-      "seenAt": "2026-11-14T02:21:15.694Z",
-      "title": "[속보] 한동훈 “李, 확정적 ‘시한부 대통령’…尹 재판보다 더 빼박” 여당과 SNS 설전 - 세계일보",
-      "targetName": "한동훈"
-    },
     "e2bd6467985f81895b188e0e6a26aa06fd3a18c777e555cf6150cfe4fa427f4a": {
       "seenAt": "2026-11-14T02:21:16.331Z",
       "title": "\"통일교가 김민석 밀어\"…최민희 녹취록 추가 파장 - 연합뉴스TV",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-17T12:41:22.101Z",
       "title": "조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\" - 뉴시스",
       "targetName": "조국"
+    },
+    "0eff38fb1ef7d966d1b3a62fcbe1edc75abd9c9c8cd075d201976a0c05138a1c": {
+      "seenAt": "2026-11-17T12:51:19.508Z",
+      "title": "조국, 일본 공항서 입국 거부…“독도 방문 이유라면 부당한 도전” - 미디어오늘",
+      "targetName": "조국"
+    },
+    "4a132025a3024ea30a6b524916a4ab9b7e87641ee5116193bbbfc4bc6228265f": {
+      "seenAt": "2026-11-17T12:51:20.286Z",
+      "title": "조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전” - 서울신문",
+      "targetName": "조국"
+    },
+    "af98e9158b2986f86c7fa9419a5e34283653eb1af20a0b7afb1db65d3a7596f4": {
+      "seenAt": "2026-11-17T12:51:20.937Z",
+      "title": "이재명 대통령, 필리핀서 한일 정상회담…아세안+3 정상회의 등도 참석 - 연합뉴스",
+      "targetName": "이재명"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "0eff38fb1ef7d966d1b3a62fcbe1edc75abd9c9c8cd075d201976a0c05138a1c",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국, 일본 공항서 입국 거부…“독도 방문 이유라면 부당한 도전” - 미디어오늘",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1mTm8xN29UMGtnRmVodnN0Q211YWt1cFVzOVdmTjZSdWxxbElKNUVVbms0UFVnMHg0eUdWMEt2THJ6UDVJb2RpenBIOHB5Z1YwRTNXeEhFaEZUSUZHU0NxMUNFMUtMOWRST2k5eWlsRkU?oc=5\" target=\"_blank\">조국, 일본 공항서 입국 거부…“독도 방문 이유라면 부당한 도전”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미디어오늘</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mTm8xN29UMGtnRmVodnN0Q211YWt1cFVzOVdmTjZSdWxxbElKNUVVbms0UFVnMHg0eUdWMEt2THJ6UDVJb2RpenBIOHB5Z1YwRTNXeEhFaEZUSUZHU0NxMUNFMUtMOWRST2k5eWlsRkU?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 07:57:26 GMT",
-        "source": "미디어오늘",
-        "ageHours": 1.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4a132025a3024ea30a6b524916a4ab9b7e87641ee5116193bbbfc4bc6228265f",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전” - 서울신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBteTBCejRxV2NYWWRTT0FxNU5KOExYaTI4ZmJJU0d4MFRNLXpBWnVHaDYtYmJUX3FTQXQwY1RsMUhtU2hJdUp6blZOLTNrbE5lZEZBOHo5bFdhZTBqWHVsSzRVeXh5TWhVUWRhQTN3Rmo?oc=5\" target=\"_blank\">조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBteTBCejRxV2NYWWRTT0FxNU5KOExYaTI4ZmJJU0d4MFRNLXpBWnVHaDYtYmJUX3FTQXQwY1RsMUhtU2hJdUp6blZOLTNrbE5lZEZBOHo5bFdhZTBqWHVsSzRVeXh5TWhVUWRhQTN3Rmo?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:13:27 GMT",
-        "source": "서울신문",
-        "ageHours": 1.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "af98e9158b2986f86c7fa9419a5e34283653eb1af20a0b7afb1db65d3a7596f4",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령, 필리핀서 한일 정상회담…아세안+3 정상회의 등도 참석 - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdG5IM2c4d2V1clpCdmpfelpOT3dmbkpId0FRX3h5QXhzZ3VtSHJWWDJSREdXQzVfV2UzQk5yWXdyLXhRb0hzZF9adDZ4NlpfZF9vOTZGaGpQcVo1ZFY4c0xjdHU0eHBfNDBudUF3NlZ4Sk92dk9LQw?oc=5\" target=\"_blank\">이재명 대통령, 필리핀서 한일 정상회담…아세안+3 정상회의 등도 참석</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdG5IM2c4d2V1clpCdmpfelpOT3dmbkpId0FRX3h5QXhzZ3VtSHJWWDJSREdXQzVfV2UzQk5yWXdyLXhRb0hzZF9adDZ4NlpfZF9vOTZGaGpQcVo1ZFY4c0xjdHU0eHBfNDBudUF3NlZ4Sk92dk9LQw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 09:55:29 GMT",
-        "source": "연합뉴스",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "f515802c114857e8980aad5ae58e31b89867dba3c2eb3cf1d69be805bbac80e6",

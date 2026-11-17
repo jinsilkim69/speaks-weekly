@@ -2991,3 +2991,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 일본 공항서 입국 거부…“독도 방문 이유라면 부당한 도전” - 미디어오늘
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 일본 공항서 입국 거부…“독도 방문 이유라면 부당한 도전”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE1mTm8xN29UMGtnRmVodnN0Q211YWt1cFVzOVdmTjZSdWxxbElKNUVVbms0UFVnMHg0eUdWMEt2THJ6UDVJb2RpenBIOHB5Z1YwRTNXeEhFaEZUSUZHU0NxMUNFMUtMOWRST2k5eWlsRkU?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전” - 서울신문
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTFBteTBCejRxV2NYWWRTT0FxNU5KOExYaTI4ZmJJU0d4MFRNLXpBWnVHaDYtYmJUX3FTQXQwY1RsMUhtU2hJdUp6blZOLTNrbE5lZEZBOHo5bFdhZTBqWHVsSzRVeXh5TWhVUWRhQTN3Rmo?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 필리핀서 한일 정상회담…아세안+3 정상회의 등도 참석 - 연합뉴스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 필리핀서 한일 정상회담…아세안+3 정상회의 등도 참석
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdG5IM2c4d2V1clpCdmpfelpOT3dmbkpId0FRX3h5QXhzZ3VtSHJWWDJSREdXQzVfV2UzQk5yWXdyLXhRb0hzZF9adDZ4NlpfZF9vOTZGaGpQcVo1ZFY4c0xjdHU0eHBfNDBudUF3NlZ4Sk92dk9LQw?oc=5)
+
+---
+
