@@ -1652,3 +1652,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 "김민석·정청래, 대타협해야…집안싸움 할 때 아냐" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "김민석·정청래, 대타협해야…집안싸움 할 때 아냐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE41N1pGOXloV0k4QTdIUFF1c2tuM1ZGMzcwb2RJOGFiN1NIMktEZ2dRTTZqT19WOW5qQ09RLVg1UU5TQk4zbjFNQ0FJUHQwMWt3X1pRQjdzRlZvUHNaTWxyeWloNjNrMGxGYzBuT1VaTjZ6R2VabFV0ZUZR0gF_QVVfeXFMUG11bkJ3djJtcXZod2ZzQjFLUDhZZ1ZDQmQ0WE1BNlNPRmpmMWxhM0RweDF0UV92NzZZOU5kX0tEa1U2eEU5ZGZTNjl0TkhnSzhkbWpWWDh5VjhmNktoY2lPcThQd1JVMUJNeHRXS0NKTWRVUmRONGcwdW9jWnhIcw?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "김민석·정청래, 대타협해야…집안싸움 할 때 아냐" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "김민석·정청래, 대타협해야…집안싸움 할 때 아냐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE41N1pGOXloV0k4QTdIUFF1c2tuM1ZGMzcwb2RJOGFiN1NIMktEZ2dRTTZqT19WOW5qQ09RLVg1UU5TQk4zbjFNQ0FJUHQwMWt3X1pRQjdzRlZvUHNaTWxyeWloNjNrMGxGYzBuT1VaTjZ6R2VabFV0ZUZR0gF_QVVfeXFMUG11bkJ3djJtcXZod2ZzQjFLUDhZZ1ZDQmQ0WE1BNlNPRmpmMWxhM0RweDF0UV92NzZZOU5kX0tEa1U2eEU5ZGZTNjl0TkhnSzhkbWpWWDh5VjhmNktoY2lPcThQd1JVMUJNeHRXS0NKTWRVUmRONGcwdW9jWnhIcw?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "金·鄭 만나 대타협 해야‥대통령도 당내 문제 걱정" - MBC 뉴스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "金·鄭 만나 대타협 해야‥대통령도 당내 문제 걱정"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE0xYTE0WUFVQnVMWmd5MXd4dXBINmxuMF9LaDBHX1pwVm1ka0VIWEduakU2OUFQMjU2ZnpTd2s3UWxoOThhU1BBVUlRTXRDV3R1MFZ4TlFicWpQZE04blV2TEtPTmRTT2oxTFFJclUyc1NKQWhUd0paOdIBeEFVX3lxTE1FMUhaNi1GYy1UQ2RmemozdDNmTEtTNHBDOFhqcFpNdExYWnVkQktHXzdHZ2E1MEJsWjVmeWxVREllZkN6YU13akQ1Z0hPZEo1dHd4TzZnVmlaVFZXSzl1dFZ0eG5VMWpGVDNxaWNCaTFVUy1UN3owMQ?oc=5)
+
+---
+
