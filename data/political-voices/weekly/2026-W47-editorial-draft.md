@@ -1899,3 +1899,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 野 "이재명 탈옥법, 국무회의서 대리의결…국민이 심판할 것" | - 연합인포맥스
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 野 "이재명 탈옥법, 국무회의서 대리의결…국민이 심판할 것" |
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE1zSjFHeUlFTjV0dEJCdlFxOEJDSGI5MFRpTzFvaVFxTm5oZy1NVnlHejlXTWc4QldOTFc4TVpsNnJYbnBreEFxZGNfUFhnSWhLbW9aMlZFWllxUUtPM042U2taWkY4NVpxOGxhYzh0NVFmQTh0?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 황교안 “‘한동훈 체포’ 글은 부정선거 수사하란 뜻” [현장영상] - 채널A
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 황교안 “‘한동훈 체포’ 글은 부정선거 수사하란 뜻”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mVHk5WDJLaVlqenJxb2pRd0ZDcGFUdHlVT0NWa01CLVpYRkptR09JcWVYQUJfQWNad0VZVDNwaWV3c1BNQ1NlT1YwbGV1NHVMVGxxclpLdXR1b2ZmNzREZnBhc9IBY0FVX3lxTE1mVHk5WDJLaVlqenJxb2pRd0ZDcGFUdHlVT0NWa01CLVpYRkptR09JcWVYQUJfQWNad0VZVDNwaWV3c1BNQ1NlT1YwbGV1NHVMVGxxclpLdXR1b2ZmNzREZnBhcw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** ‘한동훈 복당’ 놓고 국민의힘 내홍 계속...‘조작 징계’ 추가 폭로 예고까지 - 투데이신문
+
+- **수집일**: 2026-11-17 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘한동훈 복당’ 놓고 국민의힘 내홍 계속...‘조작 징계’ 추가 폭로 예고까지
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBDbzBkT0pMUW82VTVOQzVzYlpCMXByMU4tdmxiakFTdFJhSW80Qk9Pd2dLeC1ZandCTWh4bThja2hUamZBOXNHX2RzOXprTDE2aTcySDFKSG5jMThENjhFWDNPM08tczdLMFRwTkdMb9IBb0FVX3lxTFBDbzBkT0pMUW82VTVOQzVzYlpCMXByMU4tdmxiakFTdFJhSW80Qk9Pd2dLeC1ZandCTWh4bThja2hUamZBOXNHX2RzOXprTDE2aTcySDFKSG5jMThENjhFWDNPM08tczdLMFRwTkdMbw?oc=5)
+
+---
+
