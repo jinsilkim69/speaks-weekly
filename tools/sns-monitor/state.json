@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T17:41:18.039Z",
+  "lastCheckedAt": "2026-11-18T17:51:17.541Z",
   "seenPostIds": {
-    "83b699000fdabe54340a2856c79994556af39ed023d3bc7ad009d20e3abbda2c": {
-      "seenAt": "2026-11-15T12:11:18.894Z",
-      "title": "기자들에 “하이에나 떼”라고 한 최민희 언행 논란에 김민석, 윤리심판원 이첩 지시 - 강원일보",
-      "targetName": "김민석"
-    },
-    "4a9cf6d03b5a0d5cf3853bbf0cd42c5acf1ebb2fc1916daa228a7a34e5eaefa5": {
-      "seenAt": "2026-11-15T12:21:19.818Z",
-      "title": "이재명 대통령 “개혁 방해 용납 어려워”… 여권 강경파 겨냥 해석 - 천지일보",
-      "targetName": "이재명"
-    },
     "60782ab23cf6d796635ccf12e56d1c915f1da132e12f9effa5149af1395a919b": {
       "seenAt": "2026-11-15T12:21:20.426Z",
       "title": "한동훈 “우기면 추해” 최민희 “거짓말 마”…李·尹 재판 놓고 설전 - 미주중앙일보",
@@ -2509,6 +2499,11 @@
     "f9e322da2469db5fc8b045247fe4a04fcd7b4c3f52b64e09500929fbbf506bd5": {
       "seenAt": "2026-11-18T17:41:20.087Z",
       "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - KFXL",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "bbd7adf0136cb3f4bd72b3693d8d4bc3537ded41181d927ed8fd6bb50950244c": {
+      "seenAt": "2026-11-18T17:51:18.829Z",
+      "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WGXA",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
