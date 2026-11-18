@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T02:21:15.869Z",
+  "lastCheckedAt": "2026-11-18T02:31:17.472Z",
   "seenPostIds": {
-    "33f086cb837698870580c2df36eedd820c9839327ffbaf56c5b037dad693d314": {
-      "seenAt": "2026-11-14T10:31:16.773Z",
-      "title": "이준석 \"노무현 대통령 추천서로 하버드 입학?\"⋯전한길 추가 고소 예고 - 아이뉴스24",
-      "targetName": "이준석"
-    },
-    "a8e85c275878ae76cf334800a9fe42ff66eadbccdcdbfae114f5d9c660561777": {
-      "seenAt": "2026-11-14T10:41:15.667Z",
-      "title": "Trump touts Iran victory by ‘status quo’ economic pressure - The Washington Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "4f9b7e7af2a63780777af88418efa101946bf96c992161861e9ec227fe4aaf9b": {
-      "seenAt": "2026-11-14T10:41:16.429Z",
-      "title": "한동훈 \"이재명 재판 열리면 당선무효\"…최민희 \"거짓말 마라\" 설전 - KBC광주방송",
-      "targetName": "이재명"
-    },
     "4844454ac60e8800e847c5c0d487774023e57c3a478a55ebd63f7d3f5d37806d": {
       "seenAt": "2026-11-14T10:41:17.213Z",
       "title": "최민희·한동훈 SNS서 설전···“막 우기면 추해” “거짓말 마라” - 경향신문",
@@ -2515,56 +2500,22 @@
       "seenAt": "2026-11-18T02:21:18.391Z",
       "title": "Biden’s fault? Trump’s fault? Fact-checking the partisan blame game about the FAA ground stop - PolitiFact",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d137b454df82b62f36e12edee78948d446e7a6683a6c1bc69c0909ca0c3a522f": {
+      "seenAt": "2026-11-18T02:31:18.827Z",
+      "title": "[속보]이준석 “영국 출장 비행기서 AI커닝 방지 앱 개발…수능 때 이용하라” - 국제신문",
+      "targetName": "이준석"
+    },
+    "c33712affe0a897d8053a1441e62023a4c9fe85dcb1c6a9d26a23cab1273ebb8": {
+      "seenAt": "2026-11-18T02:31:19.532Z",
+      "title": "전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이 - 머니투데이",
+      "targetName": "조국"
+    },
+    "f338221567eacc96e64cfa4be8fc74b026b4082f2107b16dc23ca06cc5c93707": {
+      "seenAt": "2026-11-18T02:31:20.285Z",
+      "title": "Trump Unravels on Economy in Unhinged Truth Social Tirade - Yahoo",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "d137b454df82b62f36e12edee78948d446e7a6683a6c1bc69c0909ca0c3a522f",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "[속보]이준석 “영국 출장 비행기서 AI커닝 방지 앱 개발…수능 때 이용하라” - 국제신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1VPUnpMRlo0b0VpVTVuai00MmExRWQ3dnI5ck9HY3NhdWo3eWEzLV8xUHhXS00yel9fZlV6d19xM2xfS0lVOFNaNVY1Y2JtZllPa1hRMVQzT1o0blh0U1lfQnZNUW1HY1Y3d3lESWt4N2ttZUVwTFM2M0I5Mnc3LU91Q1M3M2x3SDcwMVB3?oc=5\" target=\"_blank\">[속보]이준석 “영국 출장 비행기서 AI커닝 방지 앱 개발…수능 때 이용하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1VPUnpMRlo0b0VpVTVuai00MmExRWQ3dnI5ck9HY3NhdWo3eWEzLV8xUHhXS00yel9fZlV6d19xM2xfS0lVOFNaNVY1Y2JtZllPa1hRMVQzT1o0blh0U1lfQnZNUW1HY1Y3d3lESWt4N2ttZUVwTFM2M0I5Mnc3LU91Q1M3M2x3SDcwMVB3?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 05:02:00 GMT",
-        "source": "국제신문",
-        "ageHours": 21.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c33712affe0a897d8053a1441e62023a4c9fe85dcb1c6a9d26a23cab1273ebb8",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE13TlJfcGxCSVQwS3N2bDR3VlBQWE9pU29JcUppWDVLdUsycGluYURXUlkwQjRzSmNWZ1hXZm1jWTNrVXdWUEdzb0FxZVM4MnlhN05teWFvd20xeFlQTWlXZHd2TjVxZWloREM1YW1CQTB5Z9IBckFVX3lxTE13TlJfcGxCSVQwS3N2bDR3VlBQWE9pU29JcUppWDVLdUsycGluYURXUlkwQjRzSmNWZ1hXZm1jWTNrVXdWUEdzb0FxZVM4MnlhN05teWFvd20xeFlQTWlXZHd2TjVxZWloREM1YW1CQTB5Zw?oc=5\" target=\"_blank\">전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13TlJfcGxCSVQwS3N2bDR3VlBQWE9pU29JcUppWDVLdUsycGluYURXUlkwQjRzSmNWZ1hXZm1jWTNrVXdWUEdzb0FxZVM4MnlhN05teWFvd20xeFlQTWlXZHd2TjVxZWloREM1YW1CQTB5Z9IBckFVX3lxTE13TlJfcGxCSVQwS3N2bDR3VlBQWE9pU29JcUppWDVLdUsycGluYURXUlkwQjRzSmNWZ1hXZm1jWTNrVXdWUEdzb0FxZVM4MnlhN05teWFvd20xeFlQTWlXZHd2TjVxZWloREM1YW1CQTB5Zw?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 00:25:57 GMT",
-        "source": "머니투데이",
-        "ageHours": 1.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f338221567eacc96e64cfa4be8fc74b026b4082f2107b16dc23ca06cc5c93707",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Unravels on Economy in Unhinged Truth Social Tirade - Yahoo",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNS0xjX0xKU1FyM3c1Rmk3T0NodjZPX1ZtR01IcFJVbXh1a3BCV0ZURnJoZ1pab2NWcHJUdmtESmxncDBaX0l6bkw4X0RYcnR6NU9QaDNyZWt2Q01fQXk1bGZRMnV4dEJqTEdJZ2pNdHhhaUZCODFtcG40b0lObmtZRnVzY1NqWlRUUE9EOWpvRFlkXzI1Um9Ca1c2dUlEUQ?oc=5\" target=\"_blank\">Trump Unravels on Economy in Unhinged Truth Social Tirade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0xjX0xKU1FyM3c1Rmk3T0NodjZPX1ZtR01IcFJVbXh1a3BCV0ZURnJoZ1pab2NWcHJUdmtESmxncDBaX0l6bkw4X0RYcnR6NU9QaDNyZWt2Q01fQXk1bGZRMnV4dEJqTEdJZ2pNdHhhaUZCODFtcG40b0lObmtZRnVzY1NqWlRUUE9EOWpvRFlkXzI1Um9Ca1c2dUlEUQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 11:19:25 GMT",
-        "source": "Yahoo",
-        "ageHours": 15
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

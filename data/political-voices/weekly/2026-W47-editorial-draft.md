@@ -3992,3 +3992,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** [속보]이준석 “영국 출장 비행기서 AI커닝 방지 앱 개발…수능 때 이용하라” - 국제신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “영국 출장 비행기서 AI커닝 방지 앱 개발…수능 때 이용하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1VPUnpMRlo0b0VpVTVuai00MmExRWQ3dnI5ck9HY3NhdWo3eWEzLV8xUHhXS00yel9fZlV6d19xM2xfS0lVOFNaNVY1Y2JtZllPa1hRMVQzT1o0blh0U1lfQnZNUW1HY1Y3d3lESWt4N2ttZUVwTFM2M0I5Mnc3LU91Q1M3M2x3SDcwMVB3?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 전용기 "조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 전용기 "조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE13TlJfcGxCSVQwS3N2bDR3VlBQWE9pU29JcUppWDVLdUsycGluYURXUlkwQjRzSmNWZ1hXZm1jWTNrVXdWUEdzb0FxZVM4MnlhN05teWFvd20xeFlQTWlXZHd2TjVxZWloREM1YW1CQTB5Z9IBckFVX3lxTE13TlJfcGxCSVQwS3N2bDR3VlBQWE9pU29JcUppWDVLdUsycGluYURXUlkwQjRzSmNWZ1hXZm1jWTNrVXdWUEdzb0FxZVM4MnlhN05teWFvd20xeFlQTWlXZHd2TjVxZWloREM1YW1CQTB5Zw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Unravels on Economy in Unhinged Truth Social Tirade - Yahoo
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Unravels on Economy in Unhinged Truth Social Tirade
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMingFBVV95cUxNS0xjX0xKU1FyM3c1Rmk3T0NodjZPX1ZtR01IcFJVbXh1a3BCV0ZURnJoZ1pab2NWcHJUdmtESmxncDBaX0l6bkw4X0RYcnR6NU9QaDNyZWt2Q01fQXk1bGZRMnV4dEJqTEdJZ2pNdHhhaUZCODFtcG40b0lObmtZRnVzY1NqWlRUUE9EOWpvRFlkXzI1Um9Ca1c2dUlEUQ?oc=5)
+
+---
+
