@@ -4733,3 +4733,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김민석 차기 탈락 속 오세훈·장동혁·한동훈 ‘3강 구도’ [여론 뒤집기] - 이데일리
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 차기 탈락 속 오세훈·장동혁·한동훈 ‘3강 구도’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZm51Zl83b2tfb2Q5SEtCVVRPTm4yeVRlN0RRbzAxcHRpWmhUQ2lTeG9uclE0NEZSSnRRMmFXNklRTFFzN0w0d2oyVEtzOTN6eEJ4X210Ul84QmxCSnVnWmlCeDYtQlN1cTRDVE9uak5GY2NqTE5pblBWamN1MnRuaQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애 지사, “김민석 대표 징계해야” - 인천일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애 지사, “김민석 대표 징계해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTFA0LXRaclhuRGFGS1ZHZWFrNklSeG1qTEVqRGk0TVExUnBWUy1sT1Rob2o3OGZsWVVLdXp2QUZZOE83VWYzZTY4QjRoVXFSSlVKM3VGVGJ1MXg1czMtZTF0Mk5tdHVBR1hRZ1lkVTh2N0Q?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** “김민석 비판” 조용우 부산시의원 중징계...‘민주 계파싸움’ 지방까지 번지나 - 펜앤마이크
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “김민석 비판” 조용우 부산시의원 중징계...‘민주 계파싸움’ 지방까지 번지나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTFA1Z3VFa0RRWFNUQzBmZWNVb3gwTkpGa2FnTGlVRk54aHg2bFpzRlNyZUZnaFZ5Y2poSFo0dlA0SlpnVjQwNHJZdlJ2dGpvLWpHUVRmS3Z3RmtpVTh6LTdHNnZ4S01vNEltSzdJ0gFvQVVfeXFMTmJDUFhycThkZGFYSVhtc2pfR3dwMVd3MWY5MlFmTzM3clJ2Y29OOFV5Y3oyWGJra0VGajJYVTU4TTF2WkVwR0xuOU8yUHMxWE5TenpnVUg2OHBXdWhzUGJENFFMZXFGRTg2TEd4bUo0?oc=5)
+
+---
+

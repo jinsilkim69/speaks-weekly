@@ -2879,5 +2879,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "54846531e336a5bc84b43c54d190eb17c229838761ddd65a4c20ceb073e67b0e",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "김민석 차기 탈락 속 오세훈·장동혁·한동훈 ‘3강 구도’ [여론 뒤집기] - 이데일리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZm51Zl83b2tfb2Q5SEtCVVRPTm4yeVRlN0RRbzAxcHRpWmhUQ2lTeG9uclE0NEZSSnRRMmFXNklRTFFzN0w0d2oyVEtzOTN6eEJ4X210Ul84QmxCSnVnWmlCeDYtQlN1cTRDVE9uak5GY2NqTE5pblBWamN1MnRuaQ?oc=5\" target=\"_blank\">김민석 차기 탈락 속 오세훈·장동혁·한동훈 ‘3강 구도’ [여론 뒤집기]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZm51Zl83b2tfb2Q5SEtCVVRPTm4yeVRlN0RRbzAxcHRpWmhUQ2lTeG9uclE0NEZSSnRRMmFXNklRTFFzN0w0d2oyVEtzOTN6eEJ4X210Ul84QmxCSnVnWmlCeDYtQlN1cTRDVE9uak5GY2NqTE5pblBWamN1MnRuaQ?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 02:24:47 GMT",
+    "source": "이데일리",
+    "ageHours": 4.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 차기 탈락 속 오세훈·장동혁·한동훈 ‘3강 구도’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "3e407ec9ba97b2b218bbe9c23d01c0f637930f9ce5829af23d42220d7539030d",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "추미애 지사, “김민석 대표 징계해야” - 인천일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFA0LXRaclhuRGFGS1ZHZWFrNklSeG1qTEVqRGk0TVExUnBWUy1sT1Rob2o3OGZsWVVLdXp2QUZZOE83VWYzZTY4QjRoVXFSSlVKM3VGVGJ1MXg1czMtZTF0Mk5tdHVBR1hRZ1lkVTh2N0Q?oc=5\" target=\"_blank\">추미애 지사, “김민석 대표 징계해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0LXRaclhuRGFGS1ZHZWFrNklSeG1qTEVqRGk0TVExUnBWUy1sT1Rob2o3OGZsWVVLdXp2QUZZOE83VWYzZTY4QjRoVXFSSlVKM3VGVGJ1MXg1czMtZTF0Mk5tdHVBR1hRZ1lkVTh2N0Q?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 06:24:00 GMT",
+    "source": "인천일보",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 추미애 지사, “김민석 대표 징계해야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "7d0caa6cdce96720328e6088ce8050c3b29341d7f2c04985417d295cd300c0d0",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "“김민석 비판” 조용우 부산시의원 중징계...‘민주 계파싸움’ 지방까지 번지나 - 펜앤마이크",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA1Z3VFa0RRWFNUQzBmZWNVb3gwTkpGa2FnTGlVRk54aHg2bFpzRlNyZUZnaFZ5Y2poSFo0dlA0SlpnVjQwNHJZdlJ2dGpvLWpHUVRmS3Z3RmtpVTh6LTdHNnZ4S01vNEltSzdJ0gFvQVVfeXFMTmJDUFhycThkZGFYSVhtc2pfR3dwMVd3MWY5MlFmTzM3clJ2Y29OOFV5Y3oyWGJra0VGajJYVTU4TTF2WkVwR0xuOU8yUHMxWE5TenpnVUg2OHBXdWhzUGJENFFMZXFGRTg2TEd4bUo0?oc=5\" target=\"_blank\">“김민석 비판” 조용우 부산시의원 중징계...‘민주 계파싸움’ 지방까지 번지나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">펜앤마이크</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1Z3VFa0RRWFNUQzBmZWNVb3gwTkpGa2FnTGlVRk54aHg2bFpzRlNyZUZnaFZ5Y2poSFo0dlA0SlpnVjQwNHJZdlJ2dGpvLWpHUVRmS3Z3RmtpVTh6LTdHNnZ4S01vNEltSzdJ0gFvQVVfeXFMTmJDUFhycThkZGFYSVhtc2pfR3dwMVd3MWY5MlFmTzM3clJ2Y29OOFV5Y3oyWGJra0VGajJYVTU4TTF2WkVwR0xuOU8yUHMxWE5TenpnVUg2OHBXdWhzUGJENFFMZXFGRTg2TEd4bUo0?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 06:02:48 GMT",
+    "source": "펜앤마이크",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “김민석 비판” 조용우 부산시의원 중징계...‘민주 계파싸움’ 지방까지 번지나",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
