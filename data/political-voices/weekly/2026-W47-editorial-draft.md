@@ -4941,3 +4941,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원, 민주당 내 갈등 해결 촉구…정청래의 강한 반발과 그 속내 - 공감신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원, 민주당 내 갈등 해결 촉구…정청래의 강한 반발과 그 속내
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMnloNWpGLXJveWwtTXp6WmxvZzVpYmJzbng0ZlBqY1oyRGJfRy1ZTVZZVldKYUpkTTZaSkZXZEJRQ3Bxc3QzbDhBYjZmNXQ4NTVDcmFiUGt1R0I5c2k2aGlCcV9nN0Nu?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해” [현장영상] - 채널A
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyYWdkdDlXNkw5ZjNaa0VVOTdyajkyOElGOVNpRWp2alBpTzl0T2NiRTduMWZTdHFfalVTRmhFTXZsQXMtcTI5YXBxWEF0X0EzdHEyYzkxT1pEcXVvbVHSAWNBVV95cUxPc1NldThKcEdsVGZTU1p6YVJsSEFNNXJMLVlUUktkeGRzT3l3RzJJRmF4NXlSSngyMGNjZDNzdW1XR25wa1J6V3ZFZlAxZHg1TnE2M2N6ajBZbFNqYTk3ZDlpbWM?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 추경호 무죄에 "법비들의 감옥 보내기 경쟁 끝내야" - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 추경호 무죄에 "법비들의 감옥 보내기 경쟁 끝내야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE16cHRwUHFYZ0hwcjRRUzM2T2c1MndtUEs1T1VZWlhiSkwtUngtcTA4YUk4MWpIbDlhYkR3QW9sY1pJQVZGSTZ1aGZsakQwMHJ0eDUtMmpFZEQySnFTQTYyc9IBeEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bQ?oc=5)
+
+---
+

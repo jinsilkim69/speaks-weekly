@@ -3285,5 +3285,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8f6f2448dfc5117b196494dd43a3d948268a592709a1c1c39f12daea38c97528",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "송영길 의원, 민주당 내 갈등 해결 촉구…정청래의 강한 반발과 그 속내 - 공감신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMnloNWpGLXJveWwtTXp6WmxvZzVpYmJzbng0ZlBqY1oyRGJfRy1ZTVZZVldKYUpkTTZaSkZXZEJRQ3Bxc3QzbDhBYjZmNXQ4NTVDcmFiUGt1R0I5c2k2aGlCcV9nN0Nu?oc=5\" target=\"_blank\">송영길 의원, 민주당 내 갈등 해결 촉구…정청래의 강한 반발과 그 속내</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">공감신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMnloNWpGLXJveWwtTXp6WmxvZzVpYmJzbng0ZlBqY1oyRGJfRy1ZTVZZVldKYUpkTTZaSkZXZEJRQ3Bxc3QzbDhBYjZmNXQ4NTVDcmFiUGt1R0I5c2k2aGlCcV9nN0Nu?oc=5",
+    "pubDate": "Tue, 17 Nov 2026 22:19:17 GMT",
+    "source": "공감신문",
+    "ageHours": 9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길 의원, 민주당 내 갈등 해결 촉구…정청래의 강한 반발과 그 속내",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "c08e8593159da5598d4fd7f857888765649535076cdbd1071267a56e055acd10",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해” [현장영상] - 채널A",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyYWdkdDlXNkw5ZjNaa0VVOTdyajkyOElGOVNpRWp2alBpTzl0T2NiRTduMWZTdHFfalVTRmhFTXZsQXMtcTI5YXBxWEF0X0EzdHEyYzkxT1pEcXVvbVHSAWNBVV95cUxPc1NldThKcEdsVGZTU1p6YVJsSEFNNXJMLVlUUktkeGRzT3l3RzJJRmF4NXlSSngyMGNjZDNzdW1XR25wa1J6V3ZFZlAxZHg1TnE2M2N6ajBZbFNqYTk3ZDlpbWM?oc=5\" target=\"_blank\">정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해” [현장영상]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyYWdkdDlXNkw5ZjNaa0VVOTdyajkyOElGOVNpRWp2alBpTzl0T2NiRTduMWZTdHFfalVTRmhFTXZsQXMtcTI5YXBxWEF0X0EzdHEyYzkxT1pEcXVvbVHSAWNBVV95cUxPc1NldThKcEdsVGZTU1p6YVJsSEFNNXJMLVlUUktkeGRzT3l3RzJJRmF4NXlSSngyMGNjZDNzdW1XR25wa1J6V3ZFZlAxZHg1TnE2M2N6ajBZbFNqYTk3ZDlpbWM?oc=5",
+    "pubDate": "Tue, 17 Nov 2026 08:11:00 GMT",
+    "source": "채널A",
+    "ageHours": 23.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "bd69574113eaa9f86d5b642656c2a07bc1e3a30eef0faf39a97091170bd024f3",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\" - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE16cHRwUHFYZ0hwcjRRUzM2T2c1MndtUEs1T1VZWlhiSkwtUngtcTA4YUk4MWpIbDlhYkR3QW9sY1pJQVZGSTZ1aGZsakQwMHJ0eDUtMmpFZEQySnFTQTYyc9IBeEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bQ?oc=5\" target=\"_blank\">이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16cHRwUHFYZ0hwcjRRUzM2T2c1MndtUEs1T1VZWlhiSkwtUngtcTA4YUk4MWpIbDlhYkR3QW9sY1pJQVZGSTZ1aGZsakQwMHJ0eDUtMmpFZEQySnFTQTYyc9IBeEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bQ?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 06:58:44 GMT",
+    "source": "뉴시스",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언",
+        "민생예산"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

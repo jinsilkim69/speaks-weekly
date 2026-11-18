@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T07:31:15.902Z",
+  "lastCheckedAt": "2026-11-18T07:51:42.064Z",
   "seenPostIds": {
-    "30976292344ebda370bd438a691f6fb6be2cedaf177018b40f654f0a5247a471": {
-      "seenAt": "2026-11-15T03:11:15.158Z",
-      "title": "한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전 - 세계일보",
-      "targetName": "한동훈"
-    },
-    "e652130dd6cdf13a549b386373d16e577c10d98b1b4761aeb5c561e85e23b689": {
-      "seenAt": "2026-11-15T03:11:15.802Z",
-      "title": "민주당 정면충돌, 친청계 “윤리감찰 대상은 김민석 대표” - 전라일보",
-      "targetName": "김민석"
-    },
-    "32bc39168a2fac7ded08513320ecbc3e26b0e0c9f686d573775eb92be116f572": {
-      "seenAt": "2026-11-15T03:11:16.509Z",
-      "title": "\"시험 안 치고 노무현 추천으로 하버드 갔다\" 전한길 주장에…이준석 \"16일 추가 형사 조치\" - 파이낸셜뉴스",
-      "targetName": "이준석"
-    },
-    "7fc8756b4183a75287ded740a43dfedaab3ca3c5b8a1521f745df57e408d7650": {
-      "seenAt": "2026-11-15T03:21:20.114Z",
-      "title": "조국 \"與, 아무 일도 하지 않아 진영 내부서 역풍…조희대 탄핵해야\" - 뉴시스",
-      "targetName": "조국"
-    },
-    "0a60c899b60b686a9868d9930a244fa70101a24ba57e465069c6eb2563aca2ba": {
-      "seenAt": "2026-11-15T03:21:20.727Z",
-      "title": "조국 \"曺, 한덕수 조건부 석방할 것…민주당은 아무 일 안 해\" - 조선일보",
-      "targetName": "조국"
-    },
-    "19836a18d77db6ec0db38e3c2b96f8397210ab2bfc5ba7f329ad758652686e51": {
-      "seenAt": "2026-11-15T03:21:21.531Z",
-      "title": "조국, 조희대 탄핵 재촉…“민주당이 말만 하다 역풍 맞는다” - OBC 뉴스",
-      "targetName": "조국"
-    },
     "971dc0a4524242f839d7d2d0b9cdeac26e7a21aa14a881ab0a79cc0e1f369ab5": {
       "seenAt": "2026-11-15T03:41:15.807Z",
       "title": "조국 \"늦었지만 조희대 탄핵해야…민주, 아무 일 하지 않아 내부서 역풍\" - 더팩트",
@@ -2530,57 +2500,24 @@
       "seenAt": "2026-11-18T07:41:18.345Z",
       "title": "정청래 \"최민희 징계 강력 반대\"…김민석 대표 향해 \"신천지 정치공작이 해당행위\" - 스페셜타임스",
       "targetName": "정청래"
+    },
+    "8f6f2448dfc5117b196494dd43a3d948268a592709a1c1c39f12daea38c97528": {
+      "seenAt": "2026-11-18T07:51:43.462Z",
+      "title": "송영길 의원, 민주당 내 갈등 해결 촉구…정청래의 강한 반발과 그 속내 - 공감신문",
+      "targetName": "송영길"
+    },
+    "c08e8593159da5598d4fd7f857888765649535076cdbd1071267a56e055acd10": {
+      "seenAt": "2026-11-18T07:51:44.257Z",
+      "title": "정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해” [현장영상] - 채널A",
+      "targetName": "송영길"
+    },
+    "bd69574113eaa9f86d5b642656c2a07bc1e3a30eef0faf39a97091170bd024f3": {
+      "seenAt": "2026-11-18T07:51:45.048Z",
+      "title": "이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\" - 뉴시스",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "8f6f2448dfc5117b196494dd43a3d948268a592709a1c1c39f12daea38c97528",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 의원, 민주당 내 갈등 해결 촉구…정청래의 강한 반발과 그 속내 - 공감신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMnloNWpGLXJveWwtTXp6WmxvZzVpYmJzbng0ZlBqY1oyRGJfRy1ZTVZZVldKYUpkTTZaSkZXZEJRQ3Bxc3QzbDhBYjZmNXQ4NTVDcmFiUGt1R0I5c2k2aGlCcV9nN0Nu?oc=5\" target=\"_blank\">송영길 의원, 민주당 내 갈등 해결 촉구…정청래의 강한 반발과 그 속내</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">공감신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMnloNWpGLXJveWwtTXp6WmxvZzVpYmJzbng0ZlBqY1oyRGJfRy1ZTVZZVldKYUpkTTZaSkZXZEJRQ3Bxc3QzbDhBYjZmNXQ4NTVDcmFiUGt1R0I5c2k2aGlCcV9nN0Nu?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 22:19:17 GMT",
-        "source": "공감신문",
-        "ageHours": 9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c08e8593159da5598d4fd7f857888765649535076cdbd1071267a56e055acd10",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해” [현장영상] - 채널A",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyYWdkdDlXNkw5ZjNaa0VVOTdyajkyOElGOVNpRWp2alBpTzl0T2NiRTduMWZTdHFfalVTRmhFTXZsQXMtcTI5YXBxWEF0X0EzdHEyYzkxT1pEcXVvbVHSAWNBVV95cUxPc1NldThKcEdsVGZTU1p6YVJsSEFNNXJMLVlUUktkeGRzT3l3RzJJRmF4NXlSSngyMGNjZDNzdW1XR25wa1J6V3ZFZlAxZHg1TnE2M2N6ajBZbFNqYTk3ZDlpbWM?oc=5\" target=\"_blank\">정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해” [현장영상]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyYWdkdDlXNkw5ZjNaa0VVOTdyajkyOElGOVNpRWp2alBpTzl0T2NiRTduMWZTdHFfalVTRmhFTXZsQXMtcTI5YXBxWEF0X0EzdHEyYzkxT1pEcXVvbVHSAWNBVV95cUxPc1NldThKcEdsVGZTU1p6YVJsSEFNNXJMLVlUUktkeGRzT3l3RzJJRmF4NXlSSngyMGNjZDNzdW1XR25wa1J6V3ZFZlAxZHg1TnE2M2N6ajBZbFNqYTk3ZDlpbWM?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:11:00 GMT",
-        "source": "채널A",
-        "ageHours": 23.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "bd69574113eaa9f86d5b642656c2a07bc1e3a30eef0faf39a97091170bd024f3",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE16cHRwUHFYZ0hwcjRRUzM2T2c1MndtUEs1T1VZWlhiSkwtUngtcTA4YUk4MWpIbDlhYkR3QW9sY1pJQVZGSTZ1aGZsakQwMHJ0eDUtMmpFZEQySnFTQTYyc9IBeEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bQ?oc=5\" target=\"_blank\">이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16cHRwUHFYZ0hwcjRRUzM2T2c1MndtUEs1T1VZWlhiSkwtUngtcTA4YUk4MWpIbDlhYkR3QW9sY1pJQVZGSTZ1aGZsakQwMHJ0eDUtMmpFZEQySnFTQTYyc9IBeEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 06:58:44 GMT",
-        "source": "뉴시스",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "d64b4b424b6d87a9dc31340647c35f26e81d149d33a46f85c8e4b027c9ea09b9",
@@ -2657,6 +2594,54 @@
         "pubDate": "Wed, 18 Nov 2026 06:52:39 GMT",
         "source": "한국경제",
         "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d79f0a37b661842758a6f09707ba3872af11960e24c083464edc5831370234c1",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "[지역현안] 송영길, 스마트오토밸리 무산 이후 송도중고차단지 대체부지 확보 논의 - 인천뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8wY256ZElQZXYzOWR4YXBzOE53bE9CMURwSXk0bGdTeDJ6ZHFzdE5aU0NxMjhCeV9vVGJBNWRKY2hIdlQ1SGpDWEF2clp3bXFWX2psWTRqS1VLSzNmM2prWHVGR091bmEzMHY0M0JRUQ?oc=5\" target=\"_blank\">[지역현안] 송영길, 스마트오토밸리 무산 이후 송도중고차단지 대체부지 확보 논의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wY256ZElQZXYzOWR4YXBzOE53bE9CMURwSXk0bGdTeDJ6ZHFzdE5aU0NxMjhCeV9vVGJBNWRKY2hIdlQ1SGpDWEF2clp3bXFWX2psWTRqS1VLSzNmM2prWHVGR091bmEzMHY0M0JRUQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 07:19:59 GMT",
+        "source": "인천뉴스",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f1625de6758ec0447da30dcaf539e2cace352790c66080c578c30ea2b5ef19b2",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석 \"추경호 무죄…법비들의 감옥 보내기 경쟁 그만\" - 뉴스1",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sTVl5Q1E4anRNckhzN3pJU0ZXbGdUUVA2eUZxYU1EZlhGbFNMbjlrdm1RNjUtSXppUGw5Y2pHUExrWXRQZVRITHNvbG9aLWdhdkI0NS1jbEtQZw?oc=5\" target=\"_blank\">이준석 \"추경호 무죄…법비들의 감옥 보내기 경쟁 그만\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sTVl5Q1E4anRNckhzN3pJU0ZXbGdUUVA2eUZxYU1EZlhGbFNMbjlrdm1RNjUtSXppUGw5Y2pHUExrWXRQZVRITHNvbG9aLWdhdkI0NS1jbEtQZw?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 06:24:45 GMT",
+        "source": "뉴스1",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "373a999f3cc2b8de94667a91bc178851132c3adfcd378810416718f757b92917",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 입국 거부가 불붙인 與 대일 공세 | - 공공뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBwV2xkYnNRMUlMTlhhQW1BTXZ0SlMzejZ3a1p1WjZsaGtKVFRJX0JIVkQ4ckxfVG9XZTdrNDVnTkw0NVFJQnRDTGZHR3RlbFUxd2pSVDhyZmxDM3prY25vdWpUSF94N3pEZjJ2dGFB?oc=5\" target=\"_blank\">조국 입국 거부가 불붙인 與 대일 공세 |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">공공뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwV2xkYnNRMUlMTlhhQW1BTXZ0SlMzejZ3a1p1WjZsaGtKVFRJX0JIVkQ4ckxfVG9XZTdrNDVnTkw0NVFJQnRDTGZHR3RlbFUxd2pSVDhyZmxDM3prY25vdWpUSF94N3pEZjJ2dGFB?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 06:21:04 GMT",
+        "source": "공공뉴스",
+        "ageHours": 1.5
       },
       "delivered": [],
       "archived": false
