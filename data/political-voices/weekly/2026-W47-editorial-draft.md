@@ -5539,3 +5539,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** U.S. President Donald Trump on Wednesday announced that the Philippines and the United States had secured a “big” trade deal as the two leaders held bilateral talks in Malacañang. Trump did not provide further details about the trade agreement. Read mor - Facebook
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] U.S. President Donald Trump on Wednesday announced that the Philippines and the United States had secured a “big” trade deal as the two leaders held bilateral talks in Malacañang. Trump did not provide further details about the trade agreement. Read mor
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaFk3bWhSMUwxMzMyOUpLMlkydnJZamJvOURrZWdOeXBpTVJ2TnRfZGp2TjZfRlVLYzN3OEdfalg5ZkhRUjBjbXJhcnQxdlNvc1VIYUtPS3hOeXR1THpwUzc2T3JRTUl0Rks4MHpCYm5EWEw5c3lBMHNEeF9EZGpTbkpXTThXTWhpNTR2akdFSm0tZTZWYkhIWXZVMFVWUERtbDFidWJXaWNzb2lqaXZSMlZ5X2cxRnJnQXBocUZBVUtSajZmWHJZaGRmSjlvOWl6Nnh3?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** "독도 상륙한 조국씨는..." 일본 의회서 세 차례나 문제삼았다 - OhmyNews
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "독도 상륙한 조국씨는..." 일본 의회서 세 차례나 문제삼았다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE9aQUo0TFdWSU5aZlNxdVhNUjlxS1NLLTRUX29mam9IV0JfWHZuYjN4Tzl6dlFtUUpFWG5XMUNvWlBCSFJRNWdmZ3k0NHZYakxiVkplNE5fc3UtRS1DaWRQQUp5akdpQ3ktWWJLaW9UcW5tbkd4X3lj?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합) - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBLR0VpRkFacXRDWC1JR05YY1FJbzFiT3FNdXFndFBfcWduRWdDZVFmT05EZFVOYndCcWl3eUcydDRoMEl5d3pxSzF1V1RRNFZtaEFsNkFFajRNMWVRamtWX2NmTG1XUXRjRXpOTVY5MHpIUVFnQl96a9IBeEFVX3lxTFBLR0VpRkFacXRDWC1JR05YY1FJbzFiT3FNdXFndFBfcWduRWdDZVFmT05EZFVOYndCcWl3eUcydDRoMEl5d3pxSzF1V1RRNFZtaEFsNkFFajRNMWVRamtWX2NmTG1XUXRjRXpOTVY5MHpIUVFnQl96aw?oc=5)
+
+---
+
