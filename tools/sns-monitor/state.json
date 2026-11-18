@@ -1,26 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T00:21:18.591Z",
+  "lastCheckedAt": "2026-11-18T00:51:16.225Z",
   "seenPostIds": {
-    "50c8d27ade88c98bb7a277d44aaf064d3a8c1ef60eb857d566a5aa36167f6436": {
-      "seenAt": "2026-11-14T08:51:19.037Z",
-      "title": "박지원 \"김민석-정청래 싸움, 대통령 지지율 '뚝'...죽이 되든 밥이 되든 만나, 적당히들 하길\"[여의도초대석] - KBC광주방송",
-      "targetName": "김민석"
-    },
-    "7194e5d56eef69ac822fa5efb16d79e43279d6be13b5851fd100c242a6cbb395": {
-      "seenAt": "2026-11-14T09:01:17.224Z",
-      "title": "김민석 취임 뒤 흔들린 與 ‘집토끼’…진보층 파고든 조국혁신당 [데이터로 본 정치민심] - 서울경제",
-      "targetName": "조국"
-    },
-    "a6789ce005398e885e128eab864426c243dd4f45ddeb8816d3123f09ce14af57": {
-      "seenAt": "2026-11-14T09:11:18.662Z",
-      "title": "최민희·한동훈 SNS서 설전···“막 우기면 추해” “거짓말 마라” - 경향신문",
-      "targetName": "한동훈"
-    },
-    "a16726c5b2b5b4fce41ea405e041e25e3ecca09b39854e7d2f60db1fb5a5f14d": {
-      "seenAt": "2026-11-14T09:19:27.899Z",
-      "title": "한동훈 \"이재명 재판 열리면 당선무효\"…최민희 \"거짓말 마라\" 설전 - KBC광주방송",
-      "targetName": "이재명"
-    },
     "af1c5a26ff49dae01de14fe4875bb4ee19a6c8d824e373bf03440c419424bdce": {
       "seenAt": "2026-11-14T09:19:28.582Z",
       "title": "한동훈, 최민희와 '李·尹 공직선거법 재판' 두고 공방…\"우기면 추해\" - 뉴시스",
@@ -2520,7 +2500,39 @@
       "seenAt": "2026-11-18T00:31:19.338Z",
       "title": "[속보] 조국 \"'전과'로 日입국 거부? 삼성 이재용, 이명박·박근혜도 거부당할까?\" 글 공유 - 프레시안",
       "targetName": "조국"
+    },
+    "195e152e678c3be4565c2c65c534b6da571c8a47ef739c0e4c24ce45531e4bea": {
+      "seenAt": "2026-11-18T00:51:17.371Z",
+      "title": "추미애 \"전당대회 혼탁하게 만든 김민석 문제 판단해야\" - MBC 뉴스",
+      "targetName": "김민석"
+    },
+    "0bbb45c8e90179b78af87006c0121a1c065f2d875529ac0d90e5d8dbaf0e0902": {
+      "seenAt": "2026-11-18T00:51:17.985Z",
+      "title": "우원식 “민주당, 정청래당도 김민석당도 아냐…의석 수 쪼그라들 수도” - 한겨레",
+      "targetName": "김민석"
+    },
+    "4895705212e1310768d7d8c91667c66018f5ea495a0de1ca2af1c9bc01e68524": {
+      "seenAt": "2026-11-18T00:51:18.714Z",
+      "title": "추미애, 최민희 징계 수순에 \"김민석 마타도어부터 판단해야\" - 이데일리",
+      "targetName": "김민석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "e3b3e387e7dbd504e13c5219a02c718c6c03e81f2fefe4ce9d4700556d36c20d",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "우원식 “민주당, 정청래당도 김민석당도 아냐…의석 수 쪼그라들 수도” - 한겨레",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVTdVZWVUUndfaVg0V3RFYnhadlBPVTU1SWNUajFUa2FJQTJyYkZ0YTVKNHF4dFc5RERoVFZMQk1NR0ZVTTJlLXFPNlRWdDZ6elgyeDZfUVBmQnhTdkV6NVZFbFJnUFVpdC1fX1o2VW5JMVl6?oc=5\" target=\"_blank\">우원식 “민주당, 정청래당도 김민석당도 아냐…의석 수 쪼그라들 수도”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVTdVZWVUUndfaVg0V3RFYnhadlBPVTU1SWNUajFUa2FJQTJyYkZ0YTVKNHF4dFc5RERoVFZMQk1NR0ZVTTJlLXFPNlRWdDZ6elgyeDZfUVBmQnhTdkV6NVZFbFJnUFVpdC1fX1o2VW5JMVl6?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 00:42:00 GMT",
+        "source": "한겨레",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

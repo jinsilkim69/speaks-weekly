@@ -3784,3 +3784,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애 "전당대회 혼탁하게 만든 김민석 문제 판단해야" - MBC 뉴스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애 "전당대회 혼탁하게 만든 김민석 문제 판단해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE92RXkwa0ZNRnA1R1huR3lNamt6SVMtS2lSZUpTOXVNZ3JVeW9ybUdNcUl4bkVYenZtUlQ3SFZka09pbEF5NkJNbm5VdHFEcVRfd0hqbk1OeDdmcDlUY1ZwQ3FtVHlMcFJPcy0zdFljbHFsM1AzYWpRZNIBeEFVX3lxTE1LazJ5cWdDaENCZC1TNjh2Q2FJLTVSZ09uSWkwLVZlS1NDRDBLQl96eUk5eXJ0bW9PejZ3NG90ajhrMFBiOVBQUGpiZmExVDBnN2h2LXdFOWlqUlRiNDI3UHVDTTVWR3Y2UzBGa29oRlRoSHdlNlVpcg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 우원식 “민주당, 정청래당도 김민석당도 아냐…의석 수 쪼그라들 수도” - 한겨레
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 우원식 “민주당, 정청래당도 김민석당도 아냐…의석 수 쪼그라들 수도”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVTdVZWVUUndfaVg0V3RFYnhadlBPVTU1SWNUajFUa2FJQTJyYkZ0YTVKNHF4dFc5RERoVFZMQk1NR0ZVTTJlLXFPNlRWdDZ6elgyeDZfUVBmQnhTdkV6NVZFbFJnUFVpdC1fX1o2VW5JMVl6?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, 최민희 징계 수순에 "김민석 마타도어부터 판단해야" - 이데일리
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, 최민희 징계 수순에 "김민석 마타도어부터 판단해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxOYjJJRVdpRDNBbkpOSEtEYi02RHJOWlFFTEVWSC1XZGQtQnpJcERuMkpHRGtZSTI3MVpqZVFfY0U2c3Z5SHhBeGJsSTgtaHd0cGt4MUg5d25MODJFcWI5WXNaemhzVFZyQ2VNVjRKWEtZRWJOa3M1cGpWVHV5TU1leQ?oc=5)
+
+---
+
