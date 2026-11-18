@@ -5175,3 +5175,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석, 추경호 무죄에 "법원의 퇴행적 판결"… 정청래 "조희대 탄핵"(종합) - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 추경호 무죄에 "법원의 퇴행적 판결"… 정청래 "조희대 탄핵"(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OemczeS1vV0lDVmhja1diMnowYUlRaHF5VVpaaWNzZGRRUnFTa0hDcnYzc0FrWjdFS3Y4eVN0Z1I1LW9pOXc4UGxJS0x5Mm1BX3p2SXhveGJHVVBqMHFkNtIBeEFVX3lxTFBqdmIwZFluUEtWSmRibmdHR1E5TFlzd25MZ2VtUzZzZVZIb1l4YWRvWmJMeGtXV2ttbkYwcVdlamFlMll6TUhPZTBaOTZLb1BBYjB1TjNLVzNqVnN0Qi1Mc1Z3cWVnRkZpdkFoVHY1SnFMTmdvaUkxMg?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** [핫피플]송영길 ‘대타협’ 당부에…정청래 “풉 나서지 마라” - 채널A
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 ‘대타협’ 당부에…정청래 “풉 나서지 마라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHUFVqSG5VS01xcDFiTXoxNUNQdk1Ec0lYY3ZEdUxPazFJbFJIYmtMYlF2MkFoODNVeU1FWTZiWTY4T0V2SENaT1ZrbmtZOGZSR3lGS3ZrYmtqNGFGdGN3?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** "이명박·박근혜도 日 입국 거부당할까"…조국, 박노자 글 공유 '전과설' 반박 - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "이명박·박근혜도 日 입국 거부당할까"…조국, 박노자 글 공유 '전과설' 반박
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYdIBeEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYQ?oc=5)
+
+---
+

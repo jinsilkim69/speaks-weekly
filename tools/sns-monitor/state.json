@@ -2515,57 +2515,24 @@
       "seenAt": "2026-11-18T08:41:21.046Z",
       "title": "Donald Trump Questions Falling Gas Prices After Election Drubbing - Newsweek",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "510145236aa79192d4ec2d7b204c4ad0dec042221507f82926803845aca0c1d5": {
+      "seenAt": "2026-11-18T08:51:17.097Z",
+      "title": "김민석, 추경호 무죄에 \"법원의 퇴행적 판결\"… 정청래 \"조희대 탄핵\"(종합) - 뉴시스",
+      "targetName": "정청래"
+    },
+    "1465fcfeff19a6abbd828198c3f9a0a5aafd9300666eee0fecef667f913cce8d": {
+      "seenAt": "2026-11-18T08:51:17.807Z",
+      "title": "[핫피플]송영길 ‘대타협’ 당부에…정청래 “풉 나서지 마라” - 채널A",
+      "targetName": "송영길"
+    },
+    "7be13850bb8a6a302340c8d93cf6f9661d940269b608cae2b98ecbe5453a72b7": {
+      "seenAt": "2026-11-18T08:51:18.517Z",
+      "title": "\"이명박·박근혜도 日 입국 거부당할까\"…조국, 박노자 글 공유 '전과설' 반박 - 뉴시스",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "510145236aa79192d4ec2d7b204c4ad0dec042221507f82926803845aca0c1d5",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "김민석, 추경호 무죄에 \"법원의 퇴행적 판결\"… 정청래 \"조희대 탄핵\"(종합) - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OemczeS1vV0lDVmhja1diMnowYUlRaHF5VVpaaWNzZGRRUnFTa0hDcnYzc0FrWjdFS3Y4eVN0Z1I1LW9pOXc4UGxJS0x5Mm1BX3p2SXhveGJHVVBqMHFkNtIBeEFVX3lxTFBqdmIwZFluUEtWSmRibmdHR1E5TFlzd25MZ2VtUzZzZVZIb1l4YWRvWmJMeGtXV2ttbkYwcVdlamFlMll6TUhPZTBaOTZLb1BBYjB1TjNLVzNqVnN0Qi1Mc1Z3cWVnRkZpdkFoVHY1SnFMTmdvaUkxMg?oc=5\" target=\"_blank\">김민석, 추경호 무죄에 \"법원의 퇴행적 판결\"… 정청래 \"조희대 탄핵\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OemczeS1vV0lDVmhja1diMnowYUlRaHF5VVpaaWNzZGRRUnFTa0hDcnYzc0FrWjdFS3Y4eVN0Z1I1LW9pOXc4UGxJS0x5Mm1BX3p2SXhveGJHVVBqMHFkNtIBeEFVX3lxTFBqdmIwZFluUEtWSmRibmdHR1E5TFlzd25MZ2VtUzZzZVZIb1l4YWRvWmJMeGtXV2ttbkYwcVdlamFlMll6TUhPZTBaOTZLb1BBYjB1TjNLVzNqVnN0Qi1Mc1Z3cWVnRkZpdkFoVHY1SnFMTmdvaUkxMg?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 07:44:45 GMT",
-        "source": "뉴시스",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "1465fcfeff19a6abbd828198c3f9a0a5aafd9300666eee0fecef667f913cce8d",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "[핫피플]송영길 ‘대타협’ 당부에…정청래 “풉 나서지 마라” - 채널A",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHUFVqSG5VS01xcDFiTXoxNUNQdk1Ec0lYY3ZEdUxPazFJbFJIYmtMYlF2MkFoODNVeU1FWTZiWTY4T0V2SENaT1ZrbmtZOGZSR3lGS3ZrYmtqNGFGdGN3?oc=5\" target=\"_blank\">[핫피플]송영길 ‘대타협’ 당부에…정청래 “풉 나서지 마라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHUFVqSG5VS01xcDFiTXoxNUNQdk1Ec0lYY3ZEdUxPazFJbFJIYmtMYlF2MkFoODNVeU1FWTZiWTY4T0V2SENaT1ZrbmtZOGZSR3lGS3ZrYmtqNGFGdGN3?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 23:52:00 GMT",
-        "source": "채널A",
-        "ageHours": 8.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "7be13850bb8a6a302340c8d93cf6f9661d940269b608cae2b98ecbe5453a72b7",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "\"이명박·박근혜도 日 입국 거부당할까\"…조국, 박노자 글 공유 '전과설' 반박 - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYdIBeEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYQ?oc=5\" target=\"_blank\">\"이명박·박근혜도 日 입국 거부당할까\"…조국, 박노자 글 공유 '전과설' 반박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYdIBeEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 07:30:00 GMT",
-        "source": "뉴시스",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "b29d25f34f0fea8990e9f668bace19fcbb9962fc0284d608699dce210f2b575d",
