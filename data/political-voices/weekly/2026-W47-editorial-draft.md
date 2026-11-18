@@ -4187,3 +4187,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, ‘최민희 논란’에 참전…“김민석 문제부터 엄중 판단해야” - 시사저널
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, ‘최민희 논란’에 참전…“김민석 문제부터 엄중 판단해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBOOHlxaWlfN2hmNkpwdGQzUS14TkpScjJRMUxDZ3RaS290RlpyQWNDbTYyZmptS0JKVUE5ZG03OWhFVmVvbGNJaWptWEhGalNNVFZValFRd3JyMnkxWlF5eE80aERiODQwNGFJTGlSTdIBc0FVX3lxTFBHT0h4WjFfQmloRkxBMFY2TGJPUG5KWlhJTEdSTkl6MVRJZmhHVTFKM2liMDd2LWhfUzl6cVZEWkV0OFk2SklXTTlCd2RWdkFCeG1XSnlmRkw1XzBoekhQb19DVEZFcTN5UHNhSEllbUJBSTg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 우원식 "민주당은 김민석·정청래 당 아냐…추미애는 말 얹지 말고 경기도 집중해야" - 조선일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 우원식 "민주당은 김민석·정청래 당 아냐…추미애는 말 얹지 말고 경기도 집중해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEtrX1BwTWVLMi1kdUpEcDZ0XzFvOWxNVHp6WEFTenZKMllKRmMxTllsM2NwYjBPaXJMWU5lVkpBTV84am5ZMDc0QmR3NWhsM3VtYWx1eHcxeFNyRC1ONjVKMHdnRmdzQmtTcHJzN1RQUDZONjVvSk51Vzg4ckZDNklwSmxxSmZ4VmlZRDVwVDI?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** "이재용·MB·박근혜도 日 입국 막나"…조국, 박노자 글 공유해 '전과설' 반박 - 이데일리
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "이재용·MB·박근혜도 日 입국 막나"…조국, 박노자 글 공유해 '전과설' 반박
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxPc3liOWY1M2RmaG1yN2tjb1YxdVZhNWh6LU1uWEFhb2MxdEd6UlV5Zi00ZjRkNHdsV3R3dUt0U0Y5eDdGMnJ3aW5rUzBZVDRhRTVYSF8xeTB4bzlwSXRINVZweFZQSU9uTVU5M0JyRGFQMkp6OG85RmdaS2FOdmNINA?oc=5)
+
+---
+
