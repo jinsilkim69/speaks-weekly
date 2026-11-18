@@ -1523,5 +1523,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "eba0309a813266ad09ec4142d637535386877a4cc1d15baa90222e66d706061c",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "\"김민석과 대타협해야\" 송영길 제안에…정청래 \"풉, 자격미달자는 나서지 말라\" - 매일신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mUmVGUGU2NUtEekZGZWtpcnVyV1lqeWxvYWx2SV95QlZNbUxqRG9wZGg2ekZGZXBVWjlPWk43UEZ5UDRwZ2w3bzZ1ckxnanVBN0JGZHRub0VFWGtKWlVwMER3?oc=5\" target=\"_blank\">\"김민석과 대타협해야\" 송영길 제안에…정청래 \"풉, 자격미달자는 나서지 말라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mUmVGUGU2NUtEekZGZWtpcnVyV1lqeWxvYWx2SV95QlZNbUxqRG9wZGg2ekZGZXBVWjlPWk43UEZ5UDRwZ2w3bzZ1ckxnanVBN0JGZHRub0VFWGtKWlVwMER3?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 02:35:27 GMT",
+    "source": "매일신문",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"김민석과 대타협해야\" 송영길 제안에…정청래 \"풉, 자격미달자는 나서지 말라\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "0128543f65e10a72d54de66c6da880792e99e89de441cdc49b64b9cabb69e4db",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "나경원 \"부정행위 1억 포상? 이준석 앱, 전문가 대책을 적극 검토하라\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5DRTdfTWd3NnlQMjVvUUhHcjg1TFN2VHlNM0FxY2VPX0QzNUpsVlpMMS1xRVNtOF92UU5lM2ktNmpPdE1Pdl9rRERuWEdjLUhJM0QtaGVoWUg0dHJSa1pOX3FqNmhHMmJYNERMTU5feC12QdIBckFVX3lxTE5DRTdfTWd3NnlQMjVvUUhHcjg1TFN2VHlNM0FxY2VPX0QzNUpsVlpMMS1xRVNtOF92UU5lM2ktNmpPdE1Pdl9rRERuWEdjLUhJM0QtaGVoWUg0dHJSa1pOX3FqNmhHMmJYNERMTU5feC12QQ?oc=5\" target=\"_blank\">나경원 \"부정행위 1억 포상? 이준석 앱, 전문가 대책을 적극 검토하라\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DRTdfTWd3NnlQMjVvUUhHcjg1TFN2VHlNM0FxY2VPX0QzNUpsVlpMMS1xRVNtOF92UU5lM2ktNmpPdE1Pdl9rRERuWEdjLUhJM0QtaGVoWUg0dHJSa1pOX3FqNmhHMmJYNERMTU5feC12QdIBckFVX3lxTE5DRTdfTWd3NnlQMjVvUUhHcjg1TFN2VHlNM0FxY2VPX0QzNUpsVlpMMS1xRVNtOF92UU5lM2ktNmpPdE1Pdl9rRERuWEdjLUhJM0QtaGVoWUg0dHJSa1pOX3FqNmhHMmJYNERMTU5feC12QQ?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 02:03:12 GMT",
+    "source": "머니투데이",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 나경원 \"부정행위 1억 포상? 이준석 앱, 전문가 대책을 적극 검토하라\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "a3dcd6506895ba011818d76ae947e8eeea75e7277982a670d0f6771e029bb074",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "전용기 \"조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋\" - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB5Rll5bFhLTVhET3Y5OWdVdHpIc0pqbWppcnFfZEFYWGhKMFJBS1dEdldoTlhHUDdBMTRzdEpKM1RMeTJsZmZwcEJhMlVWSFh0X1dMZ0tRX1NaaDMxMUlYU1V6M2JnNWgxSEVaa0taVW9rRUgzS2Rhb9IBeEFVX3lxTFB5Rll5bFhLTVhET3Y5OWdVdHpIc0pqbWppcnFfZEFYWGhKMFJBS1dEdldoTlhHUDdBMTRzdEpKM1RMeTJsZmZwcEJhMlVWSFh0X1dMZ0tRX1NaaDMxMUlYU1V6M2JnNWgxSEVaa0taVW9rRUgzS2Rhbw?oc=5\" target=\"_blank\">전용기 \"조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5Rll5bFhLTVhET3Y5OWdVdHpIc0pqbWppcnFfZEFYWGhKMFJBS1dEdldoTlhHUDdBMTRzdEpKM1RMeTJsZmZwcEJhMlVWSFh0X1dMZ0tRX1NaaDMxMUlYU1V6M2JnNWgxSEVaa0taVW9rRUgzS2Rhb9IBeEFVX3lxTFB5Rll5bFhLTVhET3Y5OWdVdHpIc0pqbWppcnFfZEFYWGhKMFJBS1dEdldoTlhHUDdBMTRzdEpKM1RMeTJsZmZwcEJhMlVWSFh0X1dMZ0tRX1NaaDMxMUlYU1V6M2JnNWgxSEVaa0taVW9rRUgzS2Rhbw?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 01:30:00 GMT",
+    "source": "뉴시스",
+    "ageHours": 1.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 전용기 \"조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

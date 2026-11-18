@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T02:31:17.472Z",
+  "lastCheckedAt": "2026-11-18T02:41:16.642Z",
   "seenPostIds": {
-    "4844454ac60e8800e847c5c0d487774023e57c3a478a55ebd63f7d3f5d37806d": {
-      "seenAt": "2026-11-14T10:41:17.213Z",
-      "title": "최민희·한동훈 SNS서 설전···“막 우기면 추해” “거짓말 마라” - 경향신문",
-      "targetName": "한동훈"
-    },
-    "06bee8b4b7ca79b0946e23d54b89488c4b6112981ebbb7a12af5cb4f46466826": {
-      "seenAt": "2026-11-14T10:51:17.806Z",
-      "title": "“최민희 제명” vs “김민석 감찰”… 與 계파싸움 전면전 양상 - 동아일보",
-      "targetName": "김민석"
-    },
-    "d132a8b0332440575e694807babcd83da122105215e1af19366999bbb47a0fea": {
-      "seenAt": "2026-11-14T10:51:18.537Z",
-      "title": "김민석의 특별한 ‘신성’ 챙기기… 체육공단 감사 떨어지자 당 체육위원장으로 - 주간조선",
-      "targetName": "김민석"
-    },
     "4a59d52d46dc508fb6f4c73e6f3899370ab4e527baa02d61b7a2831a971fdf45": {
       "seenAt": "2026-11-14T11:21:18.163Z",
       "title": "민주 김민석 曺탄핵 시사…한덕수 석방 압박 : 정치 - 재경일보",
@@ -2515,7 +2500,39 @@
       "seenAt": "2026-11-18T02:31:20.285Z",
       "title": "Trump Unravels on Economy in Unhinged Truth Social Tirade - Yahoo",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "eba0309a813266ad09ec4142d637535386877a4cc1d15baa90222e66d706061c": {
+      "seenAt": "2026-11-18T02:41:18.059Z",
+      "title": "\"김민석과 대타협해야\" 송영길 제안에…정청래 \"풉, 자격미달자는 나서지 말라\" - 매일신문",
+      "targetName": "송영길"
+    },
+    "0128543f65e10a72d54de66c6da880792e99e89de441cdc49b64b9cabb69e4db": {
+      "seenAt": "2026-11-18T02:41:18.801Z",
+      "title": "나경원 \"부정행위 1억 포상? 이준석 앱, 전문가 대책을 적극 검토하라\" - 머니투데이 - 머니투데이",
+      "targetName": "이준석"
+    },
+    "a3dcd6506895ba011818d76ae947e8eeea75e7277982a670d0f6771e029bb074": {
+      "seenAt": "2026-11-18T02:41:19.559Z",
+      "title": "전용기 \"조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋\" - 뉴시스",
+      "targetName": "조국"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "40c04289feb49687a363a36b307bfb41ba6e09ab79b1123e5c37463cefc8690e",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "日 언론, 조국 하네다공항 입국 거부에 '실형 전력·독도 방문' 주목 - 프리진뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBrX082SE5jUmJrc2Uyc2tJQnRGZnhPTmZON3JOWDRnRkJaOFd2T2s4VmN1X1JNaGMyakVETEZ6NFlKTm1yaVFqZGpHeUhMVHJkWVFzWnFWcS1zeTFzN1BiSDNRTm1Ddl9HTDA2QUJtSQ?oc=5\" target=\"_blank\">日 언론, 조국 하네다공항 입국 거부에 '실형 전력·독도 방문' 주목</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프리진뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrX082SE5jUmJrc2Uyc2tJQnRGZnhPTmZON3JOWDRnRkJaOFd2T2s4VmN1X1JNaGMyakVETEZ6NFlKTm1yaVFqZGpHeUhMVHJkWVFzWnFWcS1zeTFzN1BiSDNRTm1Ddl9HTDA2QUJtSQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 02:22:21 GMT",
+        "source": "프리진뉴스",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

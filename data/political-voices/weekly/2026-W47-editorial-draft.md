@@ -4031,3 +4031,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "김민석과 대타협해야" 송영길 제안에…정청래 "풉, 자격미달자는 나서지 말라" - 매일신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "김민석과 대타협해야" 송영길 제안에…정청래 "풉, 자격미달자는 나서지 말라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mUmVGUGU2NUtEekZGZWtpcnVyV1lqeWxvYWx2SV95QlZNbUxqRG9wZGg2ekZGZXBVWjlPWk43UEZ5UDRwZ2w3bzZ1ckxnanVBN0JGZHRub0VFWGtKWlVwMER3?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 나경원 "부정행위 1억 포상? 이준석 앱, 전문가 대책을 적극 검토하라" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 나경원 "부정행위 1억 포상? 이준석 앱, 전문가 대책을 적극 검토하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE5DRTdfTWd3NnlQMjVvUUhHcjg1TFN2VHlNM0FxY2VPX0QzNUpsVlpMMS1xRVNtOF92UU5lM2ktNmpPdE1Pdl9rRERuWEdjLUhJM0QtaGVoWUg0dHJSa1pOX3FqNmhHMmJYNERMTU5feC12QdIBckFVX3lxTE5DRTdfTWd3NnlQMjVvUUhHcjg1TFN2VHlNM0FxY2VPX0QzNUpsVlpMMS1xRVNtOF92UU5lM2ktNmpPdE1Pdl9rRERuWEdjLUhJM0QtaGVoWUg0dHJSa1pOX3FqNmhHMmJYNERMTU5feC12QQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 전용기 "조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋" - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 전용기 "조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFB5Rll5bFhLTVhET3Y5OWdVdHpIc0pqbWppcnFfZEFYWGhKMFJBS1dEdldoTlhHUDdBMTRzdEpKM1RMeTJsZmZwcEJhMlVWSFh0X1dMZ0tRX1NaaDMxMUlYU1V6M2JnNWgxSEVaa0taVW9rRUgzS2Rhb9IBeEFVX3lxTFB5Rll5bFhLTVhET3Y5OWdVdHpIc0pqbWppcnFfZEFYWGhKMFJBS1dEdldoTlhHUDdBMTRzdEpKM1RMeTJsZmZwcEJhMlVWSFh0X1dMZ0tRX1NaaDMxMUlYU1V6M2JnNWgxSEVaa0taVW9rRUgzS2Rhbw?oc=5)
+
+---
+
