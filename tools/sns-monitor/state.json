@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T11:19:43.132Z",
+  "lastCheckedAt": "2026-11-18T11:21:16.009Z",
   "seenPostIds": {
-    "4d05a62d9a74167bdad0f7ff8c3a1c9c30a4128118dcc7cba03449129cc4c177": {
-      "seenAt": "2026-11-15T09:31:16.696Z",
-      "title": "[속보] 김민석, 최민희 감찰결과 보고받아…윤리심판원 이첩 지시 - 조선일보",
-      "targetName": "김민석"
-    },
-    "c2873ade150475101805baacadfd3d9c977eddca302878be580cfefd70ec0cee": {
-      "seenAt": "2026-11-15T09:51:20.023Z",
-      "title": "'한동훈 복당론' 힘 받을까 - 한국경제",
-      "targetName": "한동훈"
-    },
     "3ed2d6544b67702e56d80b0ed1481e3b09c0f6bb5f9862918c0f280f1b4678fa": {
       "seenAt": "2026-11-15T09:51:21.225Z",
       "title": "안철수가 응원하는(?) 한동훈 신당…‘영남판 국민의당’ 가능할까 - 에너지경제신문",
@@ -2510,26 +2500,17 @@
       "seenAt": "2026-11-18T11:19:45.254Z",
       "title": "일본 입국 거부된 조국, 당원들과 세 번째 독도행 예정 - 한국경제",
       "targetName": "조국"
+    },
+    "526faf49852e678a902102271cc6bb831185c6052280217d647bb2a406ab04a8": {
+      "seenAt": "2026-11-18T11:21:16.595Z",
+      "title": "이재명 대통령의 자신만만 수능대책…수험생 분노에 기름 부어 - 폴리타임즈",
+      "targetName": "이재명"
+    },
+    "e3a80213ed1b70d8a086838c73406246a2e540dba51f4cb6a5db0807b4969fad": {
+      "seenAt": "2026-11-18T11:21:17.473Z",
+      "title": "우원식 “김민석, 간담상조 자세로...정청래, 솔로몬 재판 떠올리길” - 한겨레",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "526faf49852e678a902102271cc6bb831185c6052280217d647bb2a406ab04a8",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령의 자신만만 수능대책…수험생 분노에 기름 부어 - 폴리타임즈",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE52R0FPazBtZkFKN0tnX2xEVk1zMFFTOEpYTjNyRjhCUFc4eUdHa3dxVjBKTGR1Z256YnluLXVzSU9KcFh6cnFXb1IwRWp2d1g1SXR6UnJ1RmFXdW9qX2pUY2x3VERIM19QSkk2NQ?oc=5\" target=\"_blank\">이재명 대통령의 자신만만 수능대책…수험생 분노에 기름 부어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">폴리타임즈</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52R0FPazBtZkFKN0tnX2xEVk1zMFFTOEpYTjNyRjhCUFc4eUdHa3dxVjBKTGR1Z256YnluLXVzSU9KcFh6cnFXb1IwRWp2d1g1SXR6UnJ1RmFXdW9qX2pUY2x3VERIM19QSkk2NQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 05:36:39 GMT",
-        "source": "폴리타임즈",
-        "ageHours": 5.7
-      },
-      "delivered": [
-        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
-      ],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

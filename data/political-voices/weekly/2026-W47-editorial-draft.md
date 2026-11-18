@@ -5604,3 +5604,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령의 자신만만 수능대책…수험생 분노에 기름 부어 - 폴리타임즈
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령의 자신만만 수능대책…수험생 분노에 기름 부어
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE52R0FPazBtZkFKN0tnX2xEVk1zMFFTOEpYTjNyRjhCUFc4eUdHa3dxVjBKTGR1Z256YnluLXVzSU9KcFh6cnFXb1IwRWp2d1g1SXR6UnJ1RmFXdW9qX2pUY2x3VERIM19QSkk2NQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 우원식 “김민석, 간담상조 자세로...정청래, 솔로몬 재판 떠올리길” - 한겨레
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 우원식 “김민석, 간담상조 자세로...정청래, 솔로몬 재판 떠올리길”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE5DVEVqYjg1bVZjWXdNR25iUWlhdGd3RGlTY1lWZ1B2TENSamk2a09YY25yYk9wcWVYMGI5dWphMk1iS280a2pKQkI5ZTlnZGFIQUZ2ZHRVUGdGUnhVdGV6VHdrV29ZMDJKYnRwRmpITl8xSlJa?oc=5)
+
+---
+
