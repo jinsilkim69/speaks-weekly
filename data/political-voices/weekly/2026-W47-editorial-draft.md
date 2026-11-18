@@ -4577,3 +4577,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 비행기서 ‘AI커닝 탐지 앱’ 개발…“블루투스 신호 탐지” - 세계일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 비행기서 ‘AI커닝 탐지 앱’ 개발…“블루투스 신호 탐지”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vVXFmRlB5RF8tZWsxaS1SN2hoT0N5dTNZbndCMFBCaVpDcFB2UWRQcGhjc2lJeHkxbVVWaDJ6aHp0ZTJ3RS0zY2t6OTB1eDBmb1pUZmFQdjDSAVRBVV95cUxPSkdhLU5GQUhnRjFEVHZHaXpLU3dLajRycjlCSFhlanVwcGU5ZGpxV1Jwa093X2NfX29mcWZqUTI2dlNFdy0yVU9qeFZLR2hSQVZVbk4?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [기획특집_세계를 움직이는 정상들의 아침을 여는 SNS 소통 메시지 ①] 이재명은 수능, 트럼프는 기름값… 정상들이 뉴스보다 먼저 띄운 말 - STN SPORTS
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명은 수능, 트럼프는 기름값… 정상들이 뉴스보다 먼저 띄운 말
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1EN3VjQXJEdV8wcWtsaFJrUnZ6SVlKNS1wTHJTUFoxLVQ3My10bW5iejBwOVhyN0NQUE9hZmMwQnZ3WHM0SGhKaVc5SUt4TnlIaGNNbUJoZmd3OFdtYWJ6aXhqS1JLQ05TTk5vY2N3Yw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰청장 후보자 "한동훈 딸 의혹 수사 아쉬움…끝나면 감찰" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰청장 후보자 "한동훈 딸 의혹 수사 아쉬움…끝나면 감찰"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1yTTVLTm5tQXJROE9HS1BNdTZ6Z1Ztd2FYaWx2MnBiU0xURklBMUdiRmlmVWYxRzJQTWRuN1Q4emcyclZHbmtxYWVNMEdDMlU5eUZ4OEdvdjBDSHQ0NzFnX3VJOTJGakVrTVFUTdIBckFVX3lxTE9LWW5VYVU1QnFYMFVfdlQtX01KVkR6YlR6Nm10QTk5UVJzVGdnd0tMV0VHM1REaHVORm16MUY3ZWVlM19UNEdFY3BjOW45aDlBNE5UV0dkUlNiV2pDUGlHZmtONXRoSzFSV3dGcHRrZHhDQQ?oc=5)
+
+---
+

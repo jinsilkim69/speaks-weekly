@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T05:51:14.030Z",
+  "lastCheckedAt": "2026-11-18T06:11:16.987Z",
   "seenPostIds": {
-    "917108c89c8abb34681d3c5cefcaa774d832db2016df828abfe6b5026c7b8257": {
-      "seenAt": "2026-11-14T22:41:16.272Z",
-      "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop - The New York Times",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "b9656aab22bf5ed8e3499c52eea9911ee99b70f099b58db182d00b14428a8d02": {
-      "seenAt": "2026-11-14T22:41:16.923Z",
-      "title": "Trump claims he offered job of White House press secretary to UFC CEO Dana White - WTVR.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "6863b5a61470e5483a4385cb349066f50b2c5f5cda94291feaa874e54d0ba451": {
-      "seenAt": "2026-11-14T22:51:16.170Z",
-      "title": "국민여론, 민주당과 조국혁신당의 합당, 한동훈 무소속 의원의 국민의힘 복당도 반대가 더 많아 - 정경시사 FOCUS",
-      "targetName": "조국"
-    },
-    "6a536f25e5d2bf9fc21d892cd7d6ed0d15cfb3c94ad3cffb5479a1d31998087e": {
-      "seenAt": "2026-11-14T23:31:17.830Z",
-      "title": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "3c3fcd76918c98feb02ca6d1088d08b5df63758b20ebbdfd57f754a5178993f1": {
-      "seenAt": "2026-11-14T23:51:16.447Z",
-      "title": "김민석 100일 앞두고...선명해지는 정청래의 '깃발' - YTN",
-      "targetName": "정청래"
-    },
-    "17fc605cdd43cca231b3da113e938b93d06159af011abd0c12f49d079ccfc2cd": {
-      "seenAt": "2026-11-15T00:09:01.089Z",
-      "title": "김민석, 최민희 ‘하이에나 떼’ 발언 당 차원 사과 - 쿠키뉴스",
-      "targetName": "김민석"
-    },
     "b37203c0c7af656b34ce2b2309485f8c02bdc51b6f6f15756fc09be0db17e875": {
       "seenAt": "2026-11-15T00:09:01.806Z",
       "title": "'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts - ABC News - Breaking News, Latest News and Videos",
@@ -2530,21 +2500,100 @@
       "seenAt": "2026-11-18T06:01:22.489Z",
       "title": "[단독] '어린이보호구역 현수막' 지적받은 개혁신당…이준석 의원이 또 - 노컷뉴스",
       "targetName": "이준석"
+    },
+    "ab6a1776d2dbe1f110cc8f881ab1f177709e4186a95d9c4f9866fa5a781a8d5a": {
+      "seenAt": "2026-11-18T06:11:18.426Z",
+      "title": "이준석, 비행기서 ‘AI커닝 탐지 앱’ 개발…“블루투스 신호 탐지” - 세계일보",
+      "targetName": "이준석"
+    },
+    "7dc05558c39e01c3274c5c003556655b26bb596b97926de71626a4b4c88d3e5a": {
+      "seenAt": "2026-11-18T06:11:19.626Z",
+      "title": "[기획특집_세계를 움직이는 정상들의 아침을 여는 SNS 소통 메시지 ①] 이재명은 수능, 트럼프는 기름값… 정상들이 뉴스보다 먼저 띄운 말 - STN SPORTS",
+      "targetName": "이재명"
+    },
+    "c0ce3274ad8f5f0bfb9c819fcbec3bc1c1690f1282f1bb20e5c2fab2ad790a91": {
+      "seenAt": "2026-11-18T06:11:20.473Z",
+      "title": "경찰청장 후보자 \"한동훈 딸 의혹 수사 아쉬움…끝나면 감찰\" - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "ab6a1776d2dbe1f110cc8f881ab1f177709e4186a95d9c4f9866fa5a781a8d5a",
+        "id": "b00dfeb9fa3afa9e0430ed677c34e31985c56b00dc8f2b3aada2c57fd71982d2",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "정청래 “최민희 징계 강력 반대한다”…김민석 겨냥해 “신천지가 더 큰 해당행위” - 헤럴드경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jODMtQ1RnNHpCMjdLM0prYmVocmxmcGZUZm9zNk10TmZTU2lORENxTlFid05mcmJBd1p2dVd4dEZBT0NKZUdGYXhtNUZhd3AzZmJxenF3?oc=5\" target=\"_blank\">정청래 “최민희 징계 강력 반대한다”…김민석 겨냥해 “신천지가 더 큰 해당행위”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jODMtQ1RnNHpCMjdLM0prYmVocmxmcGZUZm9zNk10TmZTU2lORENxTlFid05mcmJBd1p2dVd4dEZBT0NKZUdGYXhtNUZhd3AzZmJxenF3?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 05:56:47 GMT",
+        "source": "헤럴드경제",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5366dced45461ed59767d55fedcd1f71fdcb2ec29ab7dc8c518f911590533410",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래 \"최민희 해명·진심 믿어‥징계는 당에 도움 안 돼\" - MBC 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB2d3hXbmVTcnFUa1VmOFotNUZvY3ZJX3Z2aEJwTEd3S3NWc1NUNkxZQW1kX0VnQm1nNTlnWFJyS3VZQXA1eF91RHRRbFVncTRBOVF4MjBCa2FEZnVkNzZWVzNFaGVHQXh2UmVnbVBubzdsMlRRWDNRM9IBeEFVX3lxTE11MFE5X09UUzZFMVJJa2pMWjM0SmJJZGFhMWdXbkZxbW9MdUFueURzekVmTEFLemctQTBzR2VHMlJqbDBWMlg1VHR4SVRPNWRrYUVvRXlLSXlOUWQzNERzMzdwelUwak9YV2dDQ08tZUVRbHJrbHpiRQ?oc=5\" target=\"_blank\">정청래 \"최민희 해명·진심 믿어‥징계는 당에 도움 안 돼\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2d3hXbmVTcnFUa1VmOFotNUZvY3ZJX3Z2aEJwTEd3S3NWc1NUNkxZQW1kX0VnQm1nNTlnWFJyS3VZQXA1eF91RHRRbFVncTRBOVF4MjBCa2FEZnVkNzZWVzNFaGVHQXh2UmVnbVBubzdsMlRRWDNRM9IBeEFVX3lxTE11MFE5X09UUzZFMVJJa2pMWjM0SmJJZGFhMWdXbkZxbW9MdUFueURzekVmTEFLemctQTBzR2VHMlJqbDBWMlg1VHR4SVRPNWRrYUVvRXlLSXlOUWQzNERzMzdwelUwak9YV2dDQ08tZUVRbHJrbHpiRQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 05:21:18 GMT",
+        "source": "MBC 뉴스",
+        "ageHours": 0.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "02ff01b670c9608d503eef53bb6445e47467f2d0ec5bded36d0064c82674e532",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "'최민희 징계'에 입 연 정청래 \"징계 강력하게 반대\" - 이데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVN1a0UyeGVCNjNDZjFCM3hidGowVVRJNjBZR0EtLU5RQWZ0eDZMR2tRamhLSmREZ1plYTBQd3ctSkYzMGd0Z1VPck5OYkJRbnpIX3J5cHN4eVB1ZTFYb19lSDhQQ0NyX0ZYejBlVHRqUWpEakp1UmtFX2c2OVRVQw?oc=5\" target=\"_blank\">'최민희 징계'에 입 연 정청래 \"징계 강력하게 반대\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVN1a0UyeGVCNjNDZjFCM3hidGowVVRJNjBZR0EtLU5RQWZ0eDZMR2tRamhLSmREZ1plYTBQd3ctSkYzMGd0Z1VPck5OYkJRbnpIX3J5cHN4eVB1ZTFYb19lSDhQQ0NyX0ZYejBlVHRqUWpEakp1UmtFX2c2OVRVQw?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 05:24:38 GMT",
+        "source": "이데일리",
+        "ageHours": 0.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "289c23e6df52f27df0e639dea7c0d1a7c75df07b2ea99d4cd9671a39770cdf12",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래 \"최민희 징계 강력반대\"…金에 \"신천지가 더 큰 해당행위\" - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4WmpRaUFSQnpfa2E2ZGM4WWxiamtIZXNvamQ2YTVLay11Y3N1MDd6MkZnVGpwd0dIZm9qNXRBbjhUYzFXS2xHWkdtbUg1RF9JVzFOZXVjbllGVTjSAWBBVV95cUxQZEViVTg4TXJ3OGJMZ1cwNGlaZXZ3S2dLYkZGVFU3ZU1GN2ZERlB6aERSY3JJOUtxTUxDTWdiZ0kzek1xUlFLaEZSYmV3T3BUS2U2UjFvdEpwOFVpaTVCcHg?oc=5\" target=\"_blank\">정청래 \"최민희 징계 강력반대\"…金에 \"신천지가 더 큰 해당행위\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4WmpRaUFSQnpfa2E2ZGM4WWxiamtIZXNvamQ2YTVLay11Y3N1MDd6MkZnVGpwd0dIZm9qNXRBbjhUYzFXS2xHWkdtbUg1RF9JVzFOZXVjbllGVTjSAWBBVV95cUxQZEViVTg4TXJ3OGJMZ1cwNGlaZXZ3S2dLYkZGVFU3ZU1GN2ZERlB6aERSY3JJOUtxTUxDTWdiZ0kzek1xUlFLaEZSYmV3T3BUS2U2UjFvdEpwOFVpaTVCcHg?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 05:39:25 GMT",
+        "source": "연합뉴스",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5dd433175c356513abfb71e525ab312f6e81a4e3f6c878a24af4af788c7fd2cd",
         "targetId": "lee_junseok",
         "targetName": "이준석",
         "targetTitle": "개혁신당 의원",
-        "title": "이준석, 비행기서 ‘AI커닝 탐지 앱’ 개발…“블루투스 신호 탐지” - 세계일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vVXFmRlB5RF8tZWsxaS1SN2hoT0N5dTNZbndCMFBCaVpDcFB2UWRQcGhjc2lJeHkxbVVWaDJ6aHp0ZTJ3RS0zY2t6OTB1eDBmb1pUZmFQdjDSAVRBVV95cUxPSkdhLU5GQUhnRjFEVHZHaXpLU3dLajRycjlCSFhlanVwcGU5ZGpxV1Jwa093X2NfX29mcWZqUTI2dlNFdy0yVU9qeFZLR2hSQVZVbk4?oc=5\" target=\"_blank\">이준석, 비행기서 ‘AI커닝 탐지 앱’ 개발…“블루투스 신호 탐지”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vVXFmRlB5RF8tZWsxaS1SN2hoT0N5dTNZbndCMFBCaVpDcFB2UWRQcGhjc2lJeHkxbVVWaDJ6aHp0ZTJ3RS0zY2t6OTB1eDBmb1pUZmFQdjDSAVRBVV95cUxPSkdhLU5GQUhnRjFEVHZHaXpLU3dLajRycjlCSFhlanVwcGU5ZGpxV1Jwa093X2NfX29mcWZqUTI2dlNFdy0yVU9qeFZLR2hSQVZVbk4?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 23:04:57 GMT",
-        "source": "세계일보",
-        "ageHours": 6.8
+        "title": "이준석 \"추경호 무죄, 기초적인 헌법 부정한 법비들의 정치\"…1년 전 주장 다시 꺼냈다 - 매일신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE05WFZGc01ZaDFNLXAtZk1RbjNvbVFuNUtaTXViR0x1WlJQY0FZQzRfbjRnT0JmZzFVNEFfNmNFV2dhd1FiQ0w5TFJ1MDI5dEIwSUplOVZzOVhQSlhHYXc2SzB3?oc=5\" target=\"_blank\">이준석 \"추경호 무죄, 기초적인 헌법 부정한 법비들의 정치\"…1년 전 주장 다시 꺼냈다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05WFZGc01ZaDFNLXAtZk1RbjNvbVFuNUtaTXViR0x1WlJQY0FZQzRfbjRnT0JmZzFVNEFfNmNFV2dhd1FiQ0w5TFJ1MDI5dEIwSUplOVZzOVhQSlhHYXc2SzB3?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 05:47:55 GMT",
+        "source": "매일신문",
+        "ageHours": 0.4
       },
       "delivered": [],
       "archived": false
