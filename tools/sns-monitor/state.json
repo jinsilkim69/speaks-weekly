@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T02:41:16.642Z",
+  "lastCheckedAt": "2026-11-18T02:51:17.260Z",
   "seenPostIds": {
-    "4a59d52d46dc508fb6f4c73e6f3899370ab4e527baa02d61b7a2831a971fdf45": {
-      "seenAt": "2026-11-14T11:21:18.163Z",
-      "title": "민주 김민석 曺탄핵 시사…한덕수 석방 압박 : 정치 - 재경일보",
-      "targetName": "김민석"
-    },
-    "9265f6fba092ea93f9eacfa96ea069d5836d6fc8cf014b471d50cf4b3e2c8de3": {
-      "seenAt": "2026-11-14T11:21:18.871Z",
-      "title": "이준석 “내가 노무현 추천서를 왜, 어떻게 받나”…전한길 추가 고소 예고 - 중앙일보",
-      "targetName": "이준석"
-    },
-    "25dce817ce3178185e32347e8f81516686af7f5f7d62b494b7e19dc18425c472": {
-      "seenAt": "2026-11-14T11:21:19.562Z",
-      "title": "Trump Media & Technology Group Corp. (DJT) stock price, news, quote and history - Yahoo Finance UK",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "71cbc511ce0ff0ffba6025f6c3b7ce9b9ac017d949bafe24f307d91338af4de2": {
       "seenAt": "2026-11-14T11:31:15.670Z",
       "title": "이준석 “노무현 추천으로 하버드 입학?”…전한길 추가 고소 예고 - 미주중앙일보",
@@ -2515,21 +2500,36 @@
       "seenAt": "2026-11-18T02:41:19.559Z",
       "title": "전용기 \"조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋\" - 뉴시스",
       "targetName": "조국"
+    },
+    "40c04289feb49687a363a36b307bfb41ba6e09ab79b1123e5c37463cefc8690e": {
+      "seenAt": "2026-11-18T02:51:18.809Z",
+      "title": "日 언론, 조국 하네다공항 입국 거부에 '실형 전력·독도 방문' 주목 - 프리진뉴스",
+      "targetName": "조국"
+    },
+    "7372fcd73477441becd3a84a4459ab8361c491d4f3ad0cd1c6bf3df88cf7920c": {
+      "seenAt": "2026-11-18T02:51:19.758Z",
+      "title": "정청래, 조국 日 입국 불허에 \"나도 독도 갔지만 제약 없었다\" - 매일신문",
+      "targetName": "정청래"
+    },
+    "4f21934c2eccecdd7e9e24fd8d4ee9511a53272dcf3f0afdf079102e01bb42a1": {
+      "seenAt": "2026-11-18T02:51:20.779Z",
+      "title": "정청래, 조국 日 입국 불허에 \"나도 독도 갔지만 제약 없었다\" - 매일신문",
+      "targetName": "조국"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "40c04289feb49687a363a36b307bfb41ba6e09ab79b1123e5c37463cefc8690e",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "日 언론, 조국 하네다공항 입국 거부에 '실형 전력·독도 방문' 주목 - 프리진뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBrX082SE5jUmJrc2Uyc2tJQnRGZnhPTmZON3JOWDRnRkJaOFd2T2s4VmN1X1JNaGMyakVETEZ6NFlKTm1yaVFqZGpHeUhMVHJkWVFzWnFWcS1zeTFzN1BiSDNRTm1Ddl9HTDA2QUJtSQ?oc=5\" target=\"_blank\">日 언론, 조국 하네다공항 입국 거부에 '실형 전력·독도 방문' 주목</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프리진뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrX082SE5jUmJrc2Uyc2tJQnRGZnhPTmZON3JOWDRnRkJaOFd2T2s4VmN1X1JNaGMyakVETEZ6NFlKTm1yaVFqZGpHeUhMVHJkWVFzWnFWcS1zeTFzN1BiSDNRTm1Ddl9HTDA2QUJtSQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 02:22:21 GMT",
-        "source": "프리진뉴스",
-        "ageHours": 0.3
+        "id": "316d8b18e0b2afc013dc7bbe55c6072a0a4c10b053be73142cd360a97f432a0c",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "최고위 발언하는 신장식 대표 - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5IZm1kZnVRTThxWmxKZ1ZuTnlWQWM5YnIyYzF4NXB2MHNCTEpXcmIxQmdBdTFQenlLZmRCMTgzOUtaOEFJWmo1eWJsckwyNkszSE1YMUM2RVZKQTVKOW55WDFQamFZVHVBbnRPM2d2TEVOU1hVSl8yY9IBeEFVX3lxTE5IZm1kZnVRTThxWmxKZ1ZuTnlWQWM5YnIyYzF4NXB2MHNCTEpXcmIxQmdBdTFQenlLZmRCMTgzOUtaOEFJWmo1eWJsckwyNkszSE1YMUM2RVZKQTVKOW55WDFQamFZVHVBbnRPM2d2TEVOU1hVSl8yYw?oc=5\" target=\"_blank\">최고위 발언하는 신장식 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IZm1kZnVRTThxWmxKZ1ZuTnlWQWM5YnIyYzF4NXB2MHNCTEpXcmIxQmdBdTFQenlLZmRCMTgzOUtaOEFJWmo1eWJsckwyNkszSE1YMUM2RVZKQTVKOW55WDFQamFZVHVBbnRPM2d2TEVOU1hVSl8yY9IBeEFVX3lxTE5IZm1kZnVRTThxWmxKZ1ZuTnlWQWM5YnIyYzF4NXB2MHNCTEpXcmIxQmdBdTFQenlLZmRCMTgzOUtaOEFJWmo1eWJsckwyNkszSE1YMUM2RVZKQTVKOW55WDFQamFZVHVBbnRPM2d2TEVOU1hVSl8yYw?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 00:18:37 GMT",
+        "source": "뉴시스",
+        "ageHours": 2.5
       },
       "delivered": [],
       "archived": false
