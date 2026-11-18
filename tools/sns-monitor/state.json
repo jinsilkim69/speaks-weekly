@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T21:31:18.942Z",
+  "lastCheckedAt": "2026-11-18T21:41:26.706Z",
   "seenPostIds": {
-    "cdfa17e572b75431b0f13ec2381b4eb06cbc49561cce7c2118bb2938ea3be727": {
-      "seenAt": "2026-11-15T13:41:18.254Z",
-      "title": "한민수 “김민석도 징계청원 접수…최민희와 공정하게 처리돼야” - 문화일보",
-      "targetName": "김민석"
-    },
-    "88113ff66c7f8cb2b73b80c4fd5f0d60047fe48d87a632b1acd1f228fc46b343": {
-      "seenAt": "2026-11-15T13:51:18.562Z",
-      "title": "김민석, ‘발언 논란’ 최민희 징계 속도…중징계 땐 친명·친청 전면전 - 한겨레",
-      "targetName": "김민석"
-    },
     "e4f5fde27647ec846b4dcd31d708894bb73cf9cdbf1bc95717c479c0016330ee": {
       "seenAt": "2026-11-15T13:51:19.256Z",
       "title": "\"노무현 대통령 추천, 시험 안 치고 하버드 갔다\" 전한길 주장에 이준석 추가 고소 예고 - 아시아경제",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-18T21:31:20.636Z",
       "title": "‘WE MADE A NEW COMPLETELY DIFFERENT TRADE DEAL WITH THE PHILIPPINES’ US President Donald Trump announced that he signed a new trade deal with the Philippines during his state visit for the ASEAN Summit in Manila. In a Truth Social post o - Facebook",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d6448ae853447e26bbd819df8e81f035a80f2b3090384be62d40355f38b9727c": {
+      "seenAt": "2026-11-18T21:41:28.302Z",
+      "title": "한동훈·최민희, 이재명 재판 발언 두고 정면충돌…SNS 공방 격화:경찰연합신문 - 경찰연합신문",
+      "targetName": "한동훈"
     }
   },
   "pending": []
