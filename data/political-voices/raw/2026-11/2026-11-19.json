@@ -579,5 +579,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c9123e312f29bf50dbe08ca8229eaef686d06e2008a8773c610ff5f48e953ee2",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Biden’s fault? Trump’s fault? Fact-checking the blame game over the air travel freeze - WRAL",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOTEZvRHhSOXhPbmtrdUgtUWJGQ0JkSEVTSGcxUU1jd1c3V2ltZ0RTbFNod0llblBPTUtDNzdvbzVqaGVmazFzRnJnaU41c2NMa2pOS0VVaDYzNEU5Unl6TlktT0FpUzNPdWs4RklyXzVSd05aX3gwRGdnZFdGSUhFS0VScEZNMURWaTJiTWk5dDZtdkJTRUE?oc=5\" target=\"_blank\">Biden’s fault? Trump’s fault? Fact-checking the blame game over the air travel freeze</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font>",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTEZvRHhSOXhPbmtrdUgtUWJGQ0JkSEVTSGcxUU1jd1c3V2ltZ0RTbFNod0llblBPTUtDNzdvbzVqaGVmazFzRnJnaU41c2NMa2pOS0VVaDYzNEU5Unl6TlktT0FpUzNPdWs4RklyXzVSd05aX3gwRGdnZFdGSUhFS0VScEZNMURWaTJiTWk5dDZtdkJTRUE?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 15:41:50 GMT",
+    "source": "WRAL",
+    "ageHours": 5.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Biden’s fault? Trump’s fault? Fact-checking the blame game over the air travel freeze",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

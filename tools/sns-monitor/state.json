@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T20:51:18.179Z",
+  "lastCheckedAt": "2026-11-18T21:01:17.290Z",
   "seenPostIds": {
-    "272520d1f297f8059a8a73fca87778837cec5379e21da7630a6949fcd5a6e34d": {
-      "seenAt": "2026-11-15T13:21:19.235Z",
-      "title": "조국의 작심비판 “조희대는 행동하는데 민주당은 말만” - 인디포커스",
-      "targetName": "조국"
-    },
-    "47bd2cab944d56a0ecb5589fb0045978e6409aeb02094b850d4a145fd680d796": {
-      "seenAt": "2026-11-15T13:31:18.855Z",
-      "title": "김민석 대표, 최민희 최고위원 윤리심판원 이첩 지시…징계 절차 시작 - 스페셜타임스",
-      "targetName": "김민석"
-    },
     "6ab218e72cd4fd0e5c66d09b733ef56bebc76c3a106576d72333438091f8d68e": {
       "seenAt": "2026-11-15T13:31:19.614Z",
       "title": "신장식 조국혁신당 원내대표 “굴 어업인 위한 문제 제기였다”…통영서 직접 해명 - 통영신문",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-18T20:51:19.986Z",
       "title": "이준석 “추경호 유죄 주장, 기본적 헌법 무시…尹·李 들어 심화된 법비들의 정치” - 문화일보",
       "targetName": "이준석"
+    },
+    "c9123e312f29bf50dbe08ca8229eaef686d06e2008a8773c610ff5f48e953ee2": {
+      "seenAt": "2026-11-18T21:01:18.389Z",
+      "title": "Biden’s fault? Trump’s fault? Fact-checking the blame game over the air travel freeze - WRAL",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
