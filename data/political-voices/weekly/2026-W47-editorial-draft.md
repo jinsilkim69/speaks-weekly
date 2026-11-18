@@ -6254,3 +6254,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** "최민희 최고위 복귀한 날, 김민석 대표만 '이 얘기'하더라" #shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "최민희 최고위 복귀한 날, 김민석 대표만 '이 얘기'하더라" #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFBrQkVqVHhvSmpoclUwLWdmOGN6SFJtdmlQSkpIZV9VSldoUWtTUEt2Mml2QjB3Zmh2bVhLWVZJZVByQUd1WjBCeFJ5VGZzOU1iclUzWU1obzdoa1F3c0p1UWFncC16allraXRmQWNfNTBLckJmdThfNzhqY0d0Z3M?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - KRXI
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMivAFBVV95cUxOM1lMcWlEQ19jSGNZN1N0c1luNlEwR3ZKTWRTZnNXdTB1YW9XT2htNEdDZUtoMHBSbElDX1ZMdUM3NHAzWFZaX2FkcDgxQlU2VDNHRDJJT1lvM0JxYUowUHdTOTRNTGZiYjVQSmp0X3ZpcW8zV2J5XzBWRmZTZDVPVzJveFY2UTFtbHprVnJnZllhZmpCQ2d1OHNrYW9UdlM2VnpvRFhZY2NMVW01MnpIX0hfTExhODhjb3VtZQ?oc=5)
+
+---
+
