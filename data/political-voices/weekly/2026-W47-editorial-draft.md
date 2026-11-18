@@ -4499,3 +4499,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 작심 발언 “최민희 해명 믿어, 징계 반대”…김민석 “녹취록 일부 10월 입수” - 미디어오늘
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 작심 발언 “최민희 해명 믿어, 징계 반대”…김민석 “녹취록 일부 10월 입수”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zRU1pWDNBdHRzZ0xSekZVbjRDQ1ZVeTlVQktZSHlFcjhaMG1lR1NEOXg5c3kzWWluV05rLUZaMngwVTBIMWZZdkRzbjdYcXc5SkpwbEktNDR0SWJFVGg3MXFVSGViNTUyb2p6RGFmLVg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 “최민희 징계 반대…신천지 공세가 해당 행위” - 한겨레
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 “최민희 징계 반대…신천지 공세가 해당 행위”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFA2cU9hcXRmM1VOVUpFckhyNnllcWZic3ZWU3JGeDI3QW1HRl9SRGF6dmtsOFM3Nk5XNzdBWXJpcmptYUh3eDVUU2hCXzRQaEJEZ0p6ZEVwTzN5WW91WEg0WE5TQ2pBc2d2MUE?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** ‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라” - 주간경향
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Y0Y0NHpmbTh5T0pmYzV2Q3JHMUdYeFJfcW41U2toNklXc2ZfY2ZMX0RkcmNFSkdNaEd1cF94LVFHZE10aWZKMkNaRDBLWTBRejNYWlFnZGNvM0E2a2c?oc=5)
+
+---
+

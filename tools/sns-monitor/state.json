@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T05:41:20.982Z",
+  "lastCheckedAt": "2026-11-18T05:51:14.030Z",
   "seenPostIds": {
-    "44c37105cee0a73b84c1c829d55b2b3c9e1bad0e9f4139257676c5c7da6ccb8f": {
-      "seenAt": "2026-11-14T21:31:16.448Z",
-      "title": "김민석 100일 앞두고...선명해지는 정청래의 '깃발' - YTN",
-      "targetName": "김민석"
-    },
-    "25e018ababb4621a82932a430760c6e4c39dade70c2546a939a0230ed6791cdb": {
-      "seenAt": "2026-11-14T21:31:17.090Z",
-      "title": "김민석 100일 앞두고...선명해지는 정청래의 '깃발' - YTN",
-      "targetName": "정청래"
-    },
-    "f0f8c1087c87c6ffc60ef7062bd6a334d7fe0b1c4c7e8539ab4665dfefa60949": {
-      "seenAt": "2026-11-14T21:51:16.454Z",
-      "title": "최민희 비공개 녹취 70분 전체 분석…김민석에 100일 시한 - 시민언론 뉴탐사",
-      "targetName": "김민석"
-    },
     "917108c89c8abb34681d3c5cefcaa774d832db2016df828abfe6b5026c7b8257": {
       "seenAt": "2026-11-14T22:41:16.272Z",
       "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop - The New York Times",
@@ -2515,20 +2500,67 @@
       "seenAt": "2026-11-18T05:41:23.386Z",
       "title": "정청래 \"최민희 징계 강력 반대…이재명 정부 성공을 위한 진심 믿는다\" - 뉴시스",
       "targetName": "정청래"
+    },
+    "d0cdd196a4aca297fb98653d1229b03a08adb0fab52b1927a08c0ce83d7545be": {
+      "seenAt": "2026-11-18T05:51:15.070Z",
+      "title": "정청래 작심 발언 “최민희 해명 믿어, 징계 반대”…김민석 “녹취록 일부 10월 입수” - 미디어오늘",
+      "targetName": "정청래"
+    },
+    "ed5feabfb3af157272ead2f06cc279843f2ca2d7266fd700f6b7c1a00d3cb474": {
+      "seenAt": "2026-11-18T05:51:15.712Z",
+      "title": "정청래 “최민희 징계 반대…신천지 공세가 해당 행위” - 한겨레",
+      "targetName": "정청래"
+    },
+    "76cead75ec0934c39948346e9de463716a8514e3d7106e32045bdabc0bcff00f": {
+      "seenAt": "2026-11-18T05:51:16.322Z",
+      "title": "‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라” - 주간경향",
+      "targetName": "송영길"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "d0cdd196a4aca297fb98653d1229b03a08adb0fab52b1927a08c0ce83d7545be",
+        "id": "39cc7c1a3de0a1ea0d6668017b88fdab8aa814a2d4c8b4406cd50702a64a9104",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "경찰청장 후보자 “한동훈 딸 수사 아쉬움…감찰조사하겠다” - 채널A",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XLXdkVlJXUWxfUFlzZWw1T0QxYlBVNTVOM0djeU1fZzd4TEFHMS1aSEJGQmFzRklnWGlkdHVOT0Q1TjRwZkFrVURTYXdwMU8yNXdIRlhZZUtjS01KWmfSAWNBVV95cUxNT3J5czFxcDhzb0VhT3l0aHlfLXkzMUprTkdqaFI3dEFOSy0yZTFjTGJKSHQtaUlzYnFZajZNSWJwT2lHU2VlcWF4OEhzRWR5VklUOVdiTTQxVGo5MS1BcFJlY0k?oc=5\" target=\"_blank\">경찰청장 후보자 “한동훈 딸 수사 아쉬움…감찰조사하겠다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XLXdkVlJXUWxfUFlzZWw1T0QxYlBVNTVOM0djeU1fZzd4TEFHMS1aSEJGQmFzRklnWGlkdHVOT0Q1TjRwZkFrVURTYXdwMU8yNXdIRlhZZUtjS01KWmfSAWNBVV95cUxNT3J5czFxcDhzb0VhT3l0aHlfLXkzMUprTkdqaFI3dEFOSy0yZTFjTGJKSHQtaUlzYnFZajZNSWJwT2lHU2VlcWF4OEhzRWR5VklUOVdiTTQxVGo5MS1BcFJlY0k?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 04:37:00 GMT",
+        "source": "채널A",
+        "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "0abbc735334b628d4870011fa32673e8c0108d625ad7498f134d3844ea61d885",
         "targetId": "jung_cheongrae",
         "targetName": "정청래",
         "targetTitle": "국회 법제사법위원장",
-        "title": "정청래 작심 발언 “최민희 해명 믿어, 징계 반대”…김민석 “녹취록 일부 10월 입수” - 미디어오늘",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8zRU1pWDNBdHRzZ0xSekZVbjRDQ1ZVeTlVQktZSHlFcjhaMG1lR1NEOXg5c3kzWWluV05rLUZaMngwVTBIMWZZdkRzbjdYcXc5SkpwbEktNDR0SWJFVGg3MXFVSGViNTUyb2p6RGFmLVg?oc=5\" target=\"_blank\">정청래 작심 발언 “최민희 해명 믿어, 징계 반대”…김민석 “녹취록 일부 10월 입수”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미디어오늘</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zRU1pWDNBdHRzZ0xSekZVbjRDQ1ZVeTlVQktZSHlFcjhaMG1lR1NEOXg5c3kzWWluV05rLUZaMngwVTBIMWZZdkRzbjdYcXc5SkpwbEktNDR0SWJFVGg3MXFVSGViNTUyb2p6RGFmLVg?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 05:25:00 GMT",
-        "source": "미디어오늘",
+        "title": "‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라” - 주간경향",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Y0Y0NHpmbTh5T0pmYzV2Q3JHMUdYeFJfcW41U2toNklXc2ZfY2ZMX0RkcmNFSkdNaEd1cF94LVFHZE10aWZKMkNaRDBLWTBRejNYWlFnZGNvM0E2a2c?oc=5\" target=\"_blank\">‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Y0Y0NHpmbTh5T0pmYzV2Q3JHMUdYeFJfcW41U2toNklXc2ZfY2ZMX0RkcmNFSkdNaEd1cF94LVFHZE10aWZKMkNaRDBLWTBRejNYWlFnZGNvM0E2a2c?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 03:59:00 GMT",
+        "source": "주간경향",
+        "ageHours": 1.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "208eab646dd03ba276a34b6bed7ee8d979bc8a8f0e9e53f8c066ef00a54c973e",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "[단독] '어린이보호구역 현수막' 지적받은 개혁신당…이준석 의원이 또 - 노컷뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lQU84WmRxZC1PeXF6Q25wMlIyRzZ5ckFhWmJhcXhPbHpKMXZVWWRKSkJwbzZXUWtudy1OWFBrUE1ENHpJUDFlZGpzNjNZd25zbnc?oc=5\" target=\"_blank\">[단독] '어린이보호구역 현수막' 지적받은 개혁신당…이준석 의원이 또</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">노컷뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lQU84WmRxZC1PeXF6Q25wMlIyRzZ5ckFhWmJhcXhPbHpKMXZVWWRKSkJwbzZXUWtudy1OWFBrUE1ENHpJUDFlZGpzNjNZd25zbnc?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 05:34:47 GMT",
+        "source": "노컷뉴스",
         "ageHours": 0.3
       },
       "delivered": [],
@@ -2536,32 +2568,16 @@
     },
     {
       "post": {
-        "id": "ed5feabfb3af157272ead2f06cc279843f2ca2d7266fd700f6b7c1a00d3cb474",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래 “최민희 징계 반대…신천지 공세가 해당 행위” - 한겨레",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA2cU9hcXRmM1VOVUpFckhyNnllcWZic3ZWU3JGeDI3QW1HRl9SRGF6dmtsOFM3Nk5XNzdBWXJpcmptYUh3eDVUU2hCXzRQaEJEZ0p6ZEVwTzN5WW91WEg0WE5TQ2pBc2d2MUE?oc=5\" target=\"_blank\">정청래 “최민희 징계 반대…신천지 공세가 해당 행위”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2cU9hcXRmM1VOVUpFckhyNnllcWZic3ZWU3JGeDI3QW1HRl9SRGF6dmtsOFM3Nk5XNzdBWXJpcmptYUh3eDVUU2hCXzRQaEJEZ0p6ZEVwTzN5WW91WEg0WE5TQ2pBc2d2MUE?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 04:37:00 GMT",
-        "source": "한겨레",
-        "ageHours": 1.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "76cead75ec0934c39948346e9de463716a8514e3d7106e32045bdabc0bcff00f",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라” - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Y0Y0NHpmbTh5T0pmYzV2Q3JHMUdYeFJfcW41U2toNklXc2ZfY2ZMX0RkcmNFSkdNaEd1cF94LVFHZE10aWZKMkNaRDBLWTBRejNYWlFnZGNvM0E2a2c?oc=5\" target=\"_blank\">‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Y0Y0NHpmbTh5T0pmYzV2Q3JHMUdYeFJfcW41U2toNklXc2ZfY2ZMX0RkcmNFSkdNaEd1cF94LVFHZE10aWZKMkNaRDBLWTBRejNYWlFnZGNvM0E2a2c?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 03:59:00 GMT",
-        "source": "주간경향",
-        "ageHours": 1.7
+        "id": "ab6a1776d2dbe1f110cc8f881ab1f177709e4186a95d9c4f9866fa5a781a8d5a",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석, 비행기서 ‘AI커닝 탐지 앱’ 개발…“블루투스 신호 탐지” - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vVXFmRlB5RF8tZWsxaS1SN2hoT0N5dTNZbndCMFBCaVpDcFB2UWRQcGhjc2lJeHkxbVVWaDJ6aHp0ZTJ3RS0zY2t6OTB1eDBmb1pUZmFQdjDSAVRBVV95cUxPSkdhLU5GQUhnRjFEVHZHaXpLU3dLajRycjlCSFhlanVwcGU5ZGpxV1Jwa093X2NfX29mcWZqUTI2dlNFdy0yVU9qeFZLR2hSQVZVbk4?oc=5\" target=\"_blank\">이준석, 비행기서 ‘AI커닝 탐지 앱’ 개발…“블루투스 신호 탐지”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vVXFmRlB5RF8tZWsxaS1SN2hoT0N5dTNZbndCMFBCaVpDcFB2UWRQcGhjc2lJeHkxbVVWaDJ6aHp0ZTJ3RS0zY2t6OTB1eDBmb1pUZmFQdjDSAVRBVV95cUxPSkdhLU5GQUhnRjFEVHZHaXpLU3dLajRycjlCSFhlanVwcGU5ZGpxV1Jwa093X2NfX29mcWZqUTI2dlNFdy0yVU9qeFZLR2hSQVZVbk4?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 23:04:57 GMT",
+        "source": "세계일보",
+        "ageHours": 6.8
       },
       "delivered": [],
       "archived": false
