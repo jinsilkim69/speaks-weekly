@@ -6085,3 +6085,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [단독] 한동훈 장인상에 국민의힘 의원 75명 문상…정치적 함의는 등 [11/19(목) 데일리안 출근길 뉴스] - 데일리안
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 장인상에 국민의힘 의원 75명 문상…정치적 함의는 등
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgJBVV95cUxQdVdqWHBfVVI2TFlrcWVrMVRsOC1ubkR5MUhmcEhEM0Zlc3pmbllOYVdyc2hKRTVZUkJxVFBoc3k3eGtWeU9taWs2N2JoUDJaWVkxRjctUmtLZERUd1ZERFJzSGIwd25fNEtzS01hWDZSN1E3TkZhQlRNMDUwMGRDektDQ0t6N2V3LTRxSWE0SHFTSTBwVDRhSk1qdjVPYWNZLVh4WlZLU2xkWk9qSFBkQ1R5SXlaRnppZEtZMlJOMFM3TGxUeFBLTUdhYW5saWlJTzFaN2Y0UktYbDljOGloS0tsNDlBdjh4ZldjZlQya3JQUUVuNVRlbUxRb1V4Wk15MEg2SFROMDQ1dFE5RUE?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** ‘WE MADE A NEW COMPLETELY DIFFERENT TRADE DEAL WITH THE PHILIPPINES’ US President Donald Trump announced that he signed a new trade deal with the Philippines during his state visit for the ASEAN Summit in Manila. In a Truth Social post o - Facebook
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘WE MADE A NEW COMPLETELY DIFFERENT TRADE DEAL WITH THE PHILIPPINES’ US President Donald Trump announced that he signed a new trade deal with the Philippines during his state visit for the ASEAN Summit in Manila. In a Truth Social post o
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZlJ5bzZ6V0hHdERyRFJ5NEFwcVJnQ3E1Q1hicUZPdmVfMFB5X29Ib1F4ZjFOWkk2MU55aWQtVDVxNjFFa3BVYVFqMzZsRjBLU0JOM040Y3B4RUdabjJhbjJFblpRTzdoZ3V1QmNWYTNNR0lRbldHU3V3clVwRmd2aTcyNkd6WTY0N0tHMHJOeER0X1dPMHVGak44RGc1WnV6Q04tRUo3N0FVZnFuNmJ1c3cya05jYXVtZy04R29LWEdfN3JFYm1BOC1NNEJnV25Fc0JySTc0QU0zTEp5?oc=5)
+
+---
+
