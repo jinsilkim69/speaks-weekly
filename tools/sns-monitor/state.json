@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T02:51:17.260Z",
+  "lastCheckedAt": "2026-11-18T02:57:45.330Z",
   "seenPostIds": {
-    "71cbc511ce0ff0ffba6025f6c3b7ce9b9ac017d949bafe24f307d91338af4de2": {
-      "seenAt": "2026-11-14T11:31:15.670Z",
-      "title": "이준석 “노무현 추천으로 하버드 입학?”…전한길 추가 고소 예고 - 미주중앙일보",
-      "targetName": "이준석"
-    },
-    "98c0247cac51ed25ea2d653c978bfccbd611b22ea4c1d6a126ff2c3464d6f087": {
-      "seenAt": "2026-11-14T11:41:17.968Z",
-      "title": "[정치포커스] 위기의 김민석…신천지에 최민희까지 '첩첩산중' - 신아일보",
-      "targetName": "김민석"
-    },
-    "885940600afae801c7962725a85529705358bf6df2d2566bb55076be19396d5e": {
-      "seenAt": "2026-11-14T11:41:18.631Z",
-      "title": "이 대통령이 윤석열 탄핵 반대? 최민희·김민석 함께 비판한 경향신문 - 미디어오늘",
-      "targetName": "김민석"
-    },
     "269c5f9a4c9df2be1b908f6102c8e091bdc9f38be176069840cd07e19ba41a0c": {
       "seenAt": "2026-11-14T11:41:19.423Z",
       "title": "이준석 “내가 노무현 추천서 받았다고?” 전한길 형사고소 예고 - 미디어오늘",
@@ -2515,24 +2500,22 @@
       "seenAt": "2026-11-18T02:51:20.779Z",
       "title": "정청래, 조국 日 입국 불허에 \"나도 독도 갔지만 제약 없었다\" - 매일신문",
       "targetName": "조국"
+    },
+    "316d8b18e0b2afc013dc7bbe55c6072a0a4c10b053be73142cd360a97f432a0c": {
+      "seenAt": "2026-11-18T02:57:46.612Z",
+      "title": "최고위 발언하는 신장식 대표 - 뉴시스",
+      "targetName": "신장식"
+    },
+    "5eeee8404d0c75aefcab051927ee4859086ede69521b7fb849d642d514e3a9e4": {
+      "seenAt": "2026-11-18T02:57:47.322Z",
+      "title": "박정하 \"한동훈, '제명' 정상적이지 않았다면 '가처분 복당'도 고려해야\" - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
+    },
+    "759cec0e70471cb3427e4dac9bbfbe3c4229dbc9766c5eec72ad4fdf0c26e201": {
+      "seenAt": "2026-11-18T02:57:48.108Z",
+      "title": "\"이재용·MB·박근혜도 日 입국 막나\"…조국, 박노자 글 공유해 '전과설' 반박 - 이데일리",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "316d8b18e0b2afc013dc7bbe55c6072a0a4c10b053be73142cd360a97f432a0c",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "최고위 발언하는 신장식 대표 - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5IZm1kZnVRTThxWmxKZ1ZuTnlWQWM5YnIyYzF4NXB2MHNCTEpXcmIxQmdBdTFQenlLZmRCMTgzOUtaOEFJWmo1eWJsckwyNkszSE1YMUM2RVZKQTVKOW55WDFQamFZVHVBbnRPM2d2TEVOU1hVSl8yY9IBeEFVX3lxTE5IZm1kZnVRTThxWmxKZ1ZuTnlWQWM5YnIyYzF4NXB2MHNCTEpXcmIxQmdBdTFQenlLZmRCMTgzOUtaOEFJWmo1eWJsckwyNkszSE1YMUM2RVZKQTVKOW55WDFQamFZVHVBbnRPM2d2TEVOU1hVSl8yYw?oc=5\" target=\"_blank\">최고위 발언하는 신장식 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IZm1kZnVRTThxWmxKZ1ZuTnlWQWM5YnIyYzF4NXB2MHNCTEpXcmIxQmdBdTFQenlLZmRCMTgzOUtaOEFJWmo1eWJsckwyNkszSE1YMUM2RVZKQTVKOW55WDFQamFZVHVBbnRPM2d2TEVOU1hVSl8yY9IBeEFVX3lxTE5IZm1kZnVRTThxWmxKZ1ZuTnlWQWM5YnIyYzF4NXB2MHNCTEpXcmIxQmdBdTFQenlLZmRCMTgzOUtaOEFJWmo1eWJsckwyNkszSE1YMUM2RVZKQTVKOW55WDFQamFZVHVBbnRPM2d2TEVOU1hVSl8yYw?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 00:18:37 GMT",
-        "source": "뉴시스",
-        "ageHours": 2.5
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

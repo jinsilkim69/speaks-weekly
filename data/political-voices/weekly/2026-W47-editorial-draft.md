@@ -4109,3 +4109,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 최고위 발언하는 신장식 대표 - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최고위 발언하는 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE5IZm1kZnVRTThxWmxKZ1ZuTnlWQWM5YnIyYzF4NXB2MHNCTEpXcmIxQmdBdTFQenlLZmRCMTgzOUtaOEFJWmo1eWJsckwyNkszSE1YMUM2RVZKQTVKOW55WDFQamFZVHVBbnRPM2d2TEVOU1hVSl8yY9IBeEFVX3lxTE5IZm1kZnVRTThxWmxKZ1ZuTnlWQWM5YnIyYzF4NXB2MHNCTEpXcmIxQmdBdTFQenlLZmRCMTgzOUtaOEFJWmo1eWJsckwyNkszSE1YMUM2RVZKQTVKOW55WDFQamFZVHVBbnRPM2d2TEVOU1hVSl8yYw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 박정하 "한동훈, '제명' 정상적이지 않았다면 '가처분 복당'도 고려해야" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박정하 "한동훈, '제명' 정상적이지 않았다면 '가처분 복당'도 고려해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9WdV9jRE1kNmtYcFBwTDlGS3lPbDhNTnA2cXIxN3BaMnZldTQ4Q2ltem1FTS1fRFh4T1pfazUtXzljU0c5LWl6bkVSeHhnY25UVlN5RmtyZ2h1VVZZRFZUd0Y4MUlZdmJ2RWJmYdIBckFVX3lxTE5Yd1VpWDZyQl9iVWJzWmJ6Q0NEQ2wwTTVkbkVxUUZ6aVk1LUt3c2g4dVBwX2RzUElHc0F3MlVBN0wwRmZWQ216ZGlBU1FrOXZEUEVlZXVhUFRtU2JvdWpxMjYwTnNfSUE0MHVPWXBfZ19udw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** "이재용·MB·박근혜도 日 입국 막나"…조국, 박노자 글 공유해 '전과설' 반박 - 이데일리
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "이재용·MB·박근혜도 日 입국 막나"…조국, 박노자 글 공유해 '전과설' 반박
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE5aY2tfQkVuTkpRWld0SVg3UjJQRks1cUcxVEhFVGhQY3B4QzE3aWdOelRORVk3WVFaeDhEbVhITDFaT1dRTTFWUDFhMVFnSG1CakVvdnNxMDV4UVdQdXkyN2hJckFkVGRVSzloc2Q2RmQyTjV2?oc=5)
+
+---
+
