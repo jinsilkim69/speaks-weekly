@@ -5136,3 +5136,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 추경호 무죄에 "법비들의 감옥 보내기 경쟁 끝내야" - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 추경호 무죄에 "법비들의 감옥 보내기 경쟁 끝내야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bdIBeEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** "이명박·박근혜도 日 입국 거부당할까"…조국, 박노자 글 공유 '전과설' 반박 - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "이명박·박근혜도 日 입국 거부당할까"…조국, 박노자 글 공유 '전과설' 반박
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IWGpnX090eU02YTNIbWlySUpiSHYzU1FSeHBLRjdReWFWdm1zTE9ycEFOS1NncVFqR3d2WFNhOFBiQV9NUXV4WmVYTkpOX2VBWVZjakJFc1Z4UjU5T1VJb9IBeEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump Questions Falling Gas Prices After Election Drubbing - Newsweek
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump Questions Falling Gas Prices After Election Drubbing
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGNZRDlpdkplSkEwYjNUZS1UMHZYTVc3OGdBZDB1SDctR3VHa1ZyWXRQV3AzbWVaOGdOZHNfNWlvc3pWS011LXB2RVRkelhqM0sxTjZuS2VlbklxRVVEMjIxZjhqWmROdW1GbEZWU1o0NTVLWDFFUmlTM1lQenJwUXZ6OU4ycFFRRDNLZUw1MGVGbjdXM3FzYTgyYXdoQkFfZG5lNkVacHZXdklp?oc=5)
+
+---
+

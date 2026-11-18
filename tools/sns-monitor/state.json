@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T08:31:19.277Z",
+  "lastCheckedAt": "2026-11-18T08:41:18.353Z",
   "seenPostIds": {
-    "477991b534926e9e6551b09141dbd21d03eab78ec3471ee198b1a173db0bcf0e": {
-      "seenAt": "2026-11-15T04:41:19.897Z",
-      "title": "'해남 배추 스타일' 박지원 \"배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지\"[여의도초대석] - KBC광주방송",
-      "targetName": "정청래"
-    },
-    "9099730eb7be629408279b1c8bf690d812b62a1eceda431bd6eac396932ff075": {
-      "seenAt": "2026-11-15T05:11:18.933Z",
-      "title": "與 내홍 '갈수록 태산' ...'민생' 외치려던 김민석, 리더십 시험대 - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
-    "babb6d89011cf97c1f1362ed25cb3455c96f7f48e18ce9c9208a73d4e6b14296": {
-      "seenAt": "2026-11-15T05:11:19.545Z",
-      "title": "조국 “조희대, 한덕수 조건부 석방할 수도…與 아무것도 안 해” - 서울경제",
-      "targetName": "조국"
-    },
     "5da6492d0cba7f6caf287c93911fe8f891a940d1d0c62e139c54fc1f4fe8baa0": {
       "seenAt": "2026-11-15T05:21:14.667Z",
       "title": "이준석, 전한길 추가 고소 예고…˝하버드 졸업장 공개한 지 10년 넘어˝:중수청일보 - 중수청일보",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-18T08:31:21.643Z",
       "title": "민주당 내홍 격화…송영길 중재에 정청래 “자격 미달” - 뉴스프리존",
       "targetName": "송영길"
+    },
+    "2346dfd984d5fdb497cb11b42bb48b446237a8d8b011602b051c41eeff1420c0": {
+      "seenAt": "2026-11-18T08:41:19.613Z",
+      "title": "이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\" - 뉴시스",
+      "targetName": "이준석"
+    },
+    "68691066384d7d31e89f9faf19df9833fe19f11c74752c6784d499003d4da68c": {
+      "seenAt": "2026-11-18T08:41:20.337Z",
+      "title": "\"이명박·박근혜도 日 입국 거부당할까\"…조국, 박노자 글 공유 '전과설' 반박 - 뉴시스",
+      "targetName": "조국"
+    },
+    "4396e7fadd3fd30eb71045f2c611e40f31842f80a5ff478507caba03d83c11df": {
+      "seenAt": "2026-11-18T08:41:21.046Z",
+      "title": "Donald Trump Questions Falling Gas Prices After Election Drubbing - Newsweek",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "2346dfd984d5fdb497cb11b42bb48b446237a8d8b011602b051c41eeff1420c0",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bdIBeEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bQ?oc=5\" target=\"_blank\">이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bdIBeEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 06:58:44 GMT",
-        "source": "뉴시스",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "68691066384d7d31e89f9faf19df9833fe19f11c74752c6784d499003d4da68c",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "\"이명박·박근혜도 日 입국 거부당할까\"…조국, 박노자 글 공유 '전과설' 반박 - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IWGpnX090eU02YTNIbWlySUpiSHYzU1FSeHBLRjdReWFWdm1zTE9ycEFOS1NncVFqR3d2WFNhOFBiQV9NUXV4WmVYTkpOX2VBWVZjakJFc1Z4UjU5T1VJb9IBeEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYQ?oc=5\" target=\"_blank\">\"이명박·박근혜도 日 입국 거부당할까\"…조국, 박노자 글 공유 '전과설' 반박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IWGpnX090eU02YTNIbWlySUpiSHYzU1FSeHBLRjdReWFWdm1zTE9ycEFOS1NncVFqR3d2WFNhOFBiQV9NUXV4WmVYTkpOX2VBWVZjakJFc1Z4UjU5T1VJb9IBeEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 07:30:00 GMT",
-        "source": "뉴시스",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4396e7fadd3fd30eb71045f2c611e40f31842f80a5ff478507caba03d83c11df",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Donald Trump Questions Falling Gas Prices After Election Drubbing - Newsweek",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGNZRDlpdkplSkEwYjNUZS1UMHZYTVc3OGdBZDB1SDctR3VHa1ZyWXRQV3AzbWVaOGdOZHNfNWlvc3pWS011LXB2RVRkelhqM0sxTjZuS2VlbklxRVVEMjIxZjhqWmROdW1GbEZWU1o0NTVLWDFFUmlTM1lQenJwUXZ6OU4ycFFRRDNLZUw1MGVGbjdXM3FzYTgyYXdoQkFfZG5lNkVacHZXdklp?oc=5\" target=\"_blank\">Donald Trump Questions Falling Gas Prices After Election Drubbing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGNZRDlpdkplSkEwYjNUZS1UMHZYTVc3OGdBZDB1SDctR3VHa1ZyWXRQV3AzbWVaOGdOZHNfNWlvc3pWS011LXB2RVRkelhqM0sxTjZuS2VlbklxRVVEMjIxZjhqWmROdW1GbEZWU1o0NTVLWDFFUmlTM1lQenJwUXZ6OU4ycFFRRDNLZUw1MGVGbjdXM3FzYTgyYXdoQkFfZG5lNkVacHZXdklp?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 08:02:00 GMT",
-        "source": "Newsweek",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "510145236aa79192d4ec2d7b204c4ad0dec042221507f82926803845aca0c1d5",
@@ -2610,6 +2562,38 @@
         "pubDate": "Wed, 18 Nov 2026 07:30:00 GMT",
         "source": "뉴시스",
         "ageHours": 1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b29d25f34f0fea8990e9f668bace19fcbb9962fc0284d608699dce210f2b575d",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, ‘친청계’ 최민희 징계 반대…“김민석 ‘신천지 의혹’이 더 큰 해당행위” - 국제신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOcWZoczFtNXZOS3BEbndpSEVsMXhKZDBEdUNxdk9ZeXh6ekY2bkFkT2daSmFTc2VXQldHMzVxZ2VYcEV5Q3B3YTQ3Y05QYWg5UGJJcWpCQWpnUWxTQXNHYWhIUWNkYXA5MW94QnVUOWd4S3lkZWdTdGpVWHdmMGFIWHVjZU5FeHUxV0MyRzVR?oc=5\" target=\"_blank\">정청래, ‘친청계’ 최민희 징계 반대…“김민석 ‘신천지 의혹’이 더 큰 해당행위”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcWZoczFtNXZOS3BEbndpSEVsMXhKZDBEdUNxdk9ZeXh6ekY2bkFkT2daSmFTc2VXQldHMzVxZ2VYcEV5Q3B3YTQ3Y05QYWg5UGJJcWpCQWpnUWxTQXNHYWhIUWNkYXA5MW94QnVUOWd4S3lkZWdTdGpVWHdmMGFIWHVjZU5FeHUxV0MyRzVR?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 07:12:00 GMT",
+        "source": "국제신문",
+        "ageHours": 1.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "94a1988f8479acf0ac0d62679258a8e720f292e7e7353660faa6ffc40cff0161",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 “당원들과 조만간 독도 다시 방문”...내년 초 서울서 학술세미나 개최 - JTBC",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE56eEdTUFFBZ1BtX3pIWHoxVXV3S3RMbzBKcHFZLVZNMlpDU2Y0bW9xZFJIWk9oWUY1ZkowTkIxMlNlUDZHc1hYdm8ybTVxWml4UHhUaw?oc=5\" target=\"_blank\">조국 “당원들과 조만간 독도 다시 방문”...내년 초 서울서 학술세미나 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56eEdTUFFBZ1BtX3pIWHoxVXV3S3RMbzBKcHFZLVZNMlpDU2Y0bW9xZFJIWk9oWUY1ZkowTkIxMlNlUDZHc1hYdm8ybTVxWml4UHhUaw?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 06:57:00 GMT",
+        "source": "JTBC",
+        "ageHours": 1.7
       },
       "delivered": [],
       "archived": false
