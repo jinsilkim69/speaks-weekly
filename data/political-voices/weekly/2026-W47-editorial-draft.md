@@ -5058,3 +5058,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "추경호 무죄…법비들의 감옥 보내기 경쟁 그만" - 뉴스1
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "추경호 무죄…법비들의 감옥 보내기 경쟁 그만"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sTVl5Q1E4anRNckhzN3pJU0ZXbGdUUVA2eUZxYU1EZlhGbFNMbjlrdm1RNjUtSXppUGw5Y2pHUExrWXRQZVRITHNvbG9aLWdhdkI0NS1jbEtQZw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 입국 거부가 불붙인 與 대일 공세 | - 공공뉴스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 입국 거부가 불붙인 與 대일 공세 |
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBwV2xkYnNRMUlMTlhhQW1BTXZ0SlMzejZ3a1p1WjZsaGtKVFRJX0JIVkQ4ckxfVG9XZTdrNDVnTkw0NVFJQnRDTGZHR3RlbFUxd2pSVDhyZmxDM3prY25vdWpUSF94N3pEZjJ2dGFB?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '추경호 무죄'에 한동훈 "무죄 받을 것이라 지적해왔다…당연한 귀결" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '추경호 무죄'에 한동훈 "무죄 받을 것이라 지적해왔다…당연한 귀결"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE9pUHc1WWRaRi1md3R6WkhrQU9PaWRqcGVLN0hDQ2x1eTRYOTROemQtRkhhbWRzSkxGYUwxQ3FiTWtaM3BCaUx5SEs2dm9VYmZxR2JxZlR1SlZ6WGs0amw5dTFZcmNXZ0hMNmVPQW1KNXFUQmViYUlKV3ZIX2M4VWvSAX9BVV95cUxPaVB3NVlkWkYtZnd0elpIa0FPT2lkanBlSzdIQ0NsdXk0WDk0TnpkLUZIYW1kc0pMRmFMMUNxYk1rWjNwQmlMeUhLNnZvVWJmcUdicWZUdUpWelhrNGpsOXUxWXJjV2dITDZlT0FtSjVxVEJlYmFJSld2SF9jOFVr?oc=5)
+
+---
+

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T08:11:16.226Z",
+  "lastCheckedAt": "2026-11-18T08:21:16.713Z",
   "seenPostIds": {
-    "fc2d4d07b358527a666de8dcdc59eb8ea2e1a086c036c82d356f88c2d2f657b1": {
-      "seenAt": "2026-11-15T04:21:16.700Z",
-      "title": "한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전 - 세계일보",
-      "targetName": "한동훈"
-    },
-    "b05177d0e3ae6a7a720e9fa6d3d0d5edbb6cc126cfab524230e49729c1503115": {
-      "seenAt": "2026-11-15T04:21:17.397Z",
-      "title": "최민희·한동훈, ’李·尹 재판비교’ 설전…“거짓말 마라“vs“우기면 추해“ - 연합뉴스TV",
-      "targetName": "한동훈"
-    },
-    "74c81a47430704b2c77c2a31111b9461f25a955ccb3737c052f821920ddcee60": {
-      "seenAt": "2026-11-15T04:21:18.177Z",
-      "title": "조갑제 “장동혁은 민주당 전략자산, 한동훈은 대한민국 전략자산” - 경기일보",
-      "targetName": "한동훈"
-    },
     "9515554db0288c29220b822d8086ae73c60fe4f825105cad758df0c6e3b93899": {
       "seenAt": "2026-11-15T04:31:16.031Z",
       "title": "[속보] 강득구 \"김민석이 종교집단 힘 빌려 정치적 이익? 헛웃음 나와\" - 경기일보",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-18T08:11:18.465Z",
       "title": "[지역현안] 송영길, 스마트오토밸리 무산 이후 송도중고차단지 대체부지 확보 논의 - 인천뉴스",
       "targetName": "송영길"
+    },
+    "f1625de6758ec0447da30dcaf539e2cace352790c66080c578c30ea2b5ef19b2": {
+      "seenAt": "2026-11-18T08:21:18.194Z",
+      "title": "이준석 \"추경호 무죄…법비들의 감옥 보내기 경쟁 그만\" - 뉴스1",
+      "targetName": "이준석"
+    },
+    "373a999f3cc2b8de94667a91bc178851132c3adfcd378810416718f757b92917": {
+      "seenAt": "2026-11-18T08:21:19.135Z",
+      "title": "조국 입국 거부가 불붙인 與 대일 공세 | - 공공뉴스",
+      "targetName": "조국"
+    },
+    "6f34e2fcd594e67d12b47790857430ee9e7dd335053455fd873bc04316945edb": {
+      "seenAt": "2026-11-18T08:21:20.275Z",
+      "title": "'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "f1625de6758ec0447da30dcaf539e2cace352790c66080c578c30ea2b5ef19b2",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"추경호 무죄…법비들의 감옥 보내기 경쟁 그만\" - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sTVl5Q1E4anRNckhzN3pJU0ZXbGdUUVA2eUZxYU1EZlhGbFNMbjlrdm1RNjUtSXppUGw5Y2pHUExrWXRQZVRITHNvbG9aLWdhdkI0NS1jbEtQZw?oc=5\" target=\"_blank\">이준석 \"추경호 무죄…법비들의 감옥 보내기 경쟁 그만\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sTVl5Q1E4anRNckhzN3pJU0ZXbGdUUVA2eUZxYU1EZlhGbFNMbjlrdm1RNjUtSXppUGw5Y2pHUExrWXRQZVRITHNvbG9aLWdhdkI0NS1jbEtQZw?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 06:24:45 GMT",
-        "source": "뉴스1",
-        "ageHours": 1.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "373a999f3cc2b8de94667a91bc178851132c3adfcd378810416718f757b92917",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 입국 거부가 불붙인 與 대일 공세 | - 공공뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBwV2xkYnNRMUlMTlhhQW1BTXZ0SlMzejZ3a1p1WjZsaGtKVFRJX0JIVkQ4ckxfVG9XZTdrNDVnTkw0NVFJQnRDTGZHR3RlbFUxd2pSVDhyZmxDM3prY25vdWpUSF94N3pEZjJ2dGFB?oc=5\" target=\"_blank\">조국 입국 거부가 불붙인 與 대일 공세 |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">공공뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwV2xkYnNRMUlMTlhhQW1BTXZ0SlMzejZ3a1p1WjZsaGtKVFRJX0JIVkQ4ckxfVG9XZTdrNDVnTkw0NVFJQnRDTGZHR3RlbFUxd2pSVDhyZmxDM3prY25vdWpUSF94N3pEZjJ2dGFB?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 06:21:04 GMT",
-        "source": "공공뉴스",
-        "ageHours": 1.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "6f34e2fcd594e67d12b47790857430ee9e7dd335053455fd873bc04316945edb",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9pUHc1WWRaRi1md3R6WkhrQU9PaWRqcGVLN0hDQ2x1eTRYOTROemQtRkhhbWRzSkxGYUwxQ3FiTWtaM3BCaUx5SEs2dm9VYmZxR2JxZlR1SlZ6WGs0amw5dTFZcmNXZ0hMNmVPQW1KNXFUQmViYUlKV3ZIX2M4VWvSAX9BVV95cUxPaVB3NVlkWkYtZnd0elpIa0FPT2lkanBlSzdIQ0NsdXk0WDk0TnpkLUZIYW1kc0pMRmFMMUNxYk1rWjNwQmlMeUhLNnZvVWJmcUdicWZUdUpWelhrNGpsOXUxWXJjV2dITDZlT0FtSjVxVEJlYmFJSld2SF9jOFVr?oc=5\" target=\"_blank\">'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pUHc1WWRaRi1md3R6WkhrQU9PaWRqcGVLN0hDQ2x1eTRYOTROemQtRkhhbWRzSkxGYUwxQ3FiTWtaM3BCaUx5SEs2dm9VYmZxR2JxZlR1SlZ6WGs0amw5dTFZcmNXZ0hMNmVPQW1KNXFUQmViYUlKV3ZIX2M4VWvSAX9BVV95cUxPaVB3NVlkWkYtZnd0elpIa0FPT2lkanBlSzdIQ0NsdXk0WDk0TnpkLUZIYW1kc0pMRmFMMUNxYk1rWjNwQmlMeUhLNnZvVWJmcUdicWZUdUpWelhrNGpsOXUxWXJjV2dITDZlT0FtSjVxVEJlYmFJSld2SF9jOFVr?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 06:14:02 GMT",
-        "source": "머니투데이",
-        "ageHours": 1.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "73f833f94ff7d9a5048d77d836747bdae647383de164dc0a56755ea62de85b6e",
@@ -2658,6 +2610,22 @@
         "pubDate": "Wed, 18 Nov 2026 08:02:00 GMT",
         "source": "Newsweek",
         "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "510145236aa79192d4ec2d7b204c4ad0dec042221507f82926803845aca0c1d5",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "김민석, 추경호 무죄에 \"법원의 퇴행적 판결\"… 정청래 \"조희대 탄핵\"(종합) - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OemczeS1vV0lDVmhja1diMnowYUlRaHF5VVpaaWNzZGRRUnFTa0hDcnYzc0FrWjdFS3Y4eVN0Z1I1LW9pOXc4UGxJS0x5Mm1BX3p2SXhveGJHVVBqMHFkNtIBeEFVX3lxTFBqdmIwZFluUEtWSmRibmdHR1E5TFlzd25MZ2VtUzZzZVZIb1l4YWRvWmJMeGtXV2ttbkYwcVdlamFlMll6TUhPZTBaOTZLb1BBYjB1TjNLVzNqVnN0Qi1Mc1Z3cWVnRkZpdkFoVHY1SnFMTmdvaUkxMg?oc=5\" target=\"_blank\">김민석, 추경호 무죄에 \"법원의 퇴행적 판결\"… 정청래 \"조희대 탄핵\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OemczeS1vV0lDVmhja1diMnowYUlRaHF5VVpaaWNzZGRRUnFTa0hDcnYzc0FrWjdFS3Y4eVN0Z1I1LW9pOXc4UGxJS0x5Mm1BX3p2SXhveGJHVVBqMHFkNtIBeEFVX3lxTFBqdmIwZFluUEtWSmRibmdHR1E5TFlzd25MZ2VtUzZzZVZIb1l4YWRvWmJMeGtXV2ttbkYwcVdlamFlMll6TUhPZTBaOTZLb1BBYjB1TjNLVzNqVnN0Qi1Mc1Z3cWVnRkZpdkFoVHY1SnFMTmdvaUkxMg?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 07:44:45 GMT",
+        "source": "뉴시스",
+        "ageHours": 0.6
       },
       "delivered": [],
       "archived": false
