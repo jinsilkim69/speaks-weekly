@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-18T14:51:17.070Z",
+  "lastCheckedAt": "2026-11-18T15:01:17.483Z",
   "seenPostIds": {
     "1dc2832a3fe386f15d5cd71f8447412197da1f77cc33aeb330358ec1360bae03": {
       "seenAt": "2026-11-15T10:31:16.781Z",
@@ -2500,6 +2500,16 @@
       "seenAt": "2026-11-18T14:11:21.062Z",
       "title": "Trump touts ‘landmark’ trade deal with Philippines - The Hill",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "e22f0b91de350bc9b999bfcd1ccd498e7309faadc88ab8d7e94345a816bb4d43": {
+      "seenAt": "2026-11-18T15:01:18.541Z",
+      "title": "추경호 무죄에 한동훈 `배신자 프레임` 확산…안철수 `이제 당이 단죄할 시간` - 매일신문",
+      "targetName": "한동훈"
+    },
+    "1363668c08105275fa32127490a772087c11501bc17d6e94c761626f1d8f1066": {
+      "seenAt": "2026-11-18T15:01:19.185Z",
+      "title": "조국, 일제 필기구 애용했는데도 입국 거절 왜? - 월간조선",
+      "targetName": "조국"
     }
   },
   "pending": []

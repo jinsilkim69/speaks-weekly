@@ -5773,3 +5773,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 추경호 무죄에 한동훈 `배신자 프레임` 확산…안철수 `이제 당이 단죄할 시간` - 매일신문
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추경호 무죄에 한동훈 `배신자 프레임` 확산…안철수 `이제 당이 단죄할 시간`
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLOWlVWGdwYmJlUGhQMnNjem5tYkMyN3RQMUlUYkFxeHFkSFdNczNacXhoeElBaEktMFkyb1B4R3RQRncyS0JZVmoyTVp4RWg2RmJwMmtHdDhWN0JReTVodER3?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 일제 필기구 애용했는데도 입국 거절 왜? - 월간조선
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 일제 필기구 애용했는데도 입국 거절 왜?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFBuei1RZWxtVUZnRHVmQ0hLSnYxMmp4Sy1TcUZ6MUQ3c2kyczEtZGlwd1dHR2N0NFRaTUJYOWxEUXpvQUl5d2QyX3JKbmg1dHJFNl84eDlIX1ZWeFVRVmFiYmdMd05NOTAtcWxGbw?oc=5)
+
+---
+
