@@ -2545,24 +2545,12 @@
       "seenAt": "2026-11-18T07:01:19.269Z",
       "title": "나경원 \"이준석 전파 탐지 앱 검증해야\" 수능 대책 보완 촉구 - 뉴스클레임",
       "targetName": "이준석"
+    },
+    "e0f461ec54d1032fe35ef158da586e162882ccd05f3c99199593d2721bd757ca": {
+      "seenAt": "2026-11-18T07:11:15.314Z",
+      "title": "정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라 - 인터넷타임즈",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "e0f461ec54d1032fe35ef158da586e162882ccd05f3c99199593d2721bd757ca",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라 - 인터넷타임즈",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1xcWExMDc4dEl2NDVTQkxncWtqX0pJRU1NTEFCNllsSUdjMVBib2plS1VhZXhEcEQ4cGw1eURha2xEbENCdmVyX1JmWXprVXFGOFJzbXozSFdTMnQyVkRmLXFJZ3ZVdnFUNFNEZQ?oc=5\" target=\"_blank\">정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인터넷타임즈</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xcWExMDc4dEl2NDVTQkxncWtqX0pJRU1NTEFCNllsSUdjMVBib2plS1VhZXhEcEQ4cGw1eURha2xEbENCdmVyX1JmWXprVXFGOFJzbXozSFdTMnQyVkRmLXFJZ3ZVdnFUNFNEZQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 02:24:27 GMT",
-        "source": "인터넷타임즈",
-        "ageHours": 4.3
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
