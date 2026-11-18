@@ -3771,3 +3771,16 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [속보] 조국 "'전과'로 日입국 거부? 삼성 이재용, 이명박·박근혜도 거부당할까?" 글 공유 - 프레시안
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "'전과'로 日입국 거부? 삼성 이재용, 이명박·박근혜도 거부당할까?" 글 공유
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE9jU3RTUkp6YnpJczQ5eWpZMlRyZFVfMmxxd29reVE1ZFl0eWJDMWdyRlVDMk5FS2pEQkFHcWltNDNTcFdjUERFQ093RVVKNEFJMFU4cnl3dkNYQzdIbmRPMF9ua3V6emJkZmh3ZVRHZzVieVlwLXNXX3dicw?oc=5)
+
+---
+

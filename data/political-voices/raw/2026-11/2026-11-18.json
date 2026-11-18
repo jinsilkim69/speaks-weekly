@@ -1023,5 +1023,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "87e10bd851fadc6e370d7970bdc6289e2d2274b4691b0894f2fb5053b23fbc46",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "[속보] 조국 \"'전과'로 日입국 거부? 삼성 이재용, 이명박·박근혜도 거부당할까?\" 글 공유 - 프레시안",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9jU3RTUkp6YnpJczQ5eWpZMlRyZFVfMmxxd29reVE1ZFl0eWJDMWdyRlVDMk5FS2pEQkFHcWltNDNTcFdjUERFQ093RVVKNEFJMFU4cnl3dkNYQzdIbmRPMF9ua3V6emJkZmh3ZVRHZzVieVlwLXNXX3dicw?oc=5\" target=\"_blank\">[속보] 조국 \"'전과'로 日입국 거부? 삼성 이재용, 이명박·박근혜도 거부당할까?\" 글 공유</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jU3RTUkp6YnpJczQ5eWpZMlRyZFVfMmxxd29reVE1ZFl0eWJDMWdyRlVDMk5FS2pEQkFHcWltNDNTcFdjUERFQ093RVVKNEFJMFU4cnl3dkNYQzdIbmRPMF9ua3V6emJkZmh3ZVRHZzVieVlwLXNXX3dicw?oc=5",
+    "pubDate": "Tue, 17 Nov 2026 23:58:58 GMT",
+    "source": "프레시안",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"'전과'로 日입국 거부? 삼성 이재용, 이명박·박근혜도 거부당할까?\" 글 공유",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-18T00:21:21.317Z",
       "title": "정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해” [현장영상] - 채널A",
       "targetName": "정청래"
+    },
+    "87e10bd851fadc6e370d7970bdc6289e2d2274b4691b0894f2fb5053b23fbc46": {
+      "seenAt": "2026-11-18T00:31:19.338Z",
+      "title": "[속보] 조국 \"'전과'로 日입국 거부? 삼성 이재용, 이명박·박근혜도 거부당할까?\" 글 공유 - 프레시안",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "87e10bd851fadc6e370d7970bdc6289e2d2274b4691b0894f2fb5053b23fbc46",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "[속보] 조국 \"'전과'로 日입국 거부? 삼성 이재용, 이명박·박근혜도 거부당할까?\" 글 공유 - 프레시안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9jU3RTUkp6YnpJczQ5eWpZMlRyZFVfMmxxd29reVE1ZFl0eWJDMWdyRlVDMk5FS2pEQkFHcWltNDNTcFdjUERFQ093RVVKNEFJMFU4cnl3dkNYQzdIbmRPMF9ua3V6emJkZmh3ZVRHZzVieVlwLXNXX3dicw?oc=5\" target=\"_blank\">[속보] 조국 \"'전과'로 日입국 거부? 삼성 이재용, 이명박·박근혜도 거부당할까?\" 글 공유</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jU3RTUkp6YnpJczQ5eWpZMlRyZFVfMmxxd29reVE1ZFl0eWJDMWdyRlVDMk5FS2pEQkFHcWltNDNTcFdjUERFQ093RVVKNEFJMFU4cnl3dkNYQzdIbmRPMF9ua3V6emJkZmh3ZVRHZzVieVlwLXNXX3dicw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 23:58:58 GMT",
-        "source": "프레시안",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
