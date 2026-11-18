@@ -6124,3 +6124,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 홍준표 "되지도 않을 한동훈 복당 논쟁 그만…장동혁 대표 중심으로" - 뉴시스
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 홍준표 "되지도 않을 한동훈 복당 논쟁 그만…장동혁 대표 중심으로"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yZXdRc2lXMGFSSFp0ZFJobXlBekVDUzJxV2dmYUx1Y2dZQlBwaGx6RGxtVkdFVjE3ZVFsYkYtVmVQcEt1dkFxaVJ6TWI1b0E1VEFrOTZOQllwWUpUWUZUWNIBeEFVX3lxTE00VnZqNjFZVGFDcnlJUnN3Y2FZaGlJXzJ5VVd5R3h5cnByb1F5aHVmZ0M0YURxa3phWTFoVzlVSFF1Zl9WdXI2akRtLUJWU21CN0RRMjZKZkJrVHFVclpsV0RmT3l2VUFHVldaUm54dWxNTHJjcnhBQw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - KVII
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkhuWDUyQnlSeFhwWU56MEd5NmJfTXZsaGVOa2ZiVk1EUy1pZWw2cGN1S3htcWsyb0kzQ1BuWWs2dkh6b2dlOUVQSjAyLTl5RFVlcXRrM0p1VkNxR2tvTzBMQ3oxVWtxOUdFekFfUGE2SDgtRExSTFFxZVF5TVp3cmZBODIwRnBUclhUcXV6d09MVk9yTXJoQVdFVnBCRnNfOE5mcmtJZlc5X0JGOVJFYlF5eWhrZF9Pc3BHcGRYZlY4aFU?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WJAC
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdm5MSDV6S0M1SDVoQ3hXQkczOFZEODJCZjJqUnB2Z3hJd0lxQ1RfVlF2alRzLTA5U3NyaHF6WWZ1SkNvZ0dBT0w3eVY3R09udjdSa1g1WWdVZ0dMY0ZQUWd5ZktrT1otVFc1UnE2c1kwOTB5a2dsbzlPQ054RlBWc1JRSkRKa0xFR1JfTXVwQkYtRUFzbDVaNUtWMmdOUnVUbGFHclVpSGo2ejVDNF9xTHROeEJ3NEF6Unhr?oc=5)
+
+---
+
