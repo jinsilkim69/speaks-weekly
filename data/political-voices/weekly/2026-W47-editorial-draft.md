@@ -5240,3 +5240,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 추경호 무죄에 '정당 해산' 한숨 돌린 국힘 … '폐문부재' 한동훈에 불똥 - 뉴데일리
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추경호 무죄에 '정당 해산' 한숨 돌린 국힘 … '폐문부재' 한동훈에 불똥
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZN1ZtZ3BYb0lFZXF0WVdFTWEzR1g4RENwRmNTZHNzVFNYUzFmQ2ZfMnYwbF9VVkhZWjkxd055Z054ZXhqTGxYbEc1OVFfYUFnZEM1OUg4bzlERW5waUhseG4yTzVWeXY1djJIMnpFb0Vra0RMWVFCTGxyVdIBgAFBVV95cUxOaUk4UkNleUdVM2dsblhfbFBjbVhydkdtN0pMY296MkZudWpVLW1sbklTZjBEa2hZWFlWNHRLaG42MTVrOUx6NlpvbVhMenNoMWRQZWpYdE1YZk1fYjB1UkZ2Zk56dC1BNEhNb2dtS1pLTUN6MDBpY1dIYl9qMFpJNg?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈에 손 내밀면서도 조기 복당은 안 된다는 중진들…친한계·당권파 모두 “비겁하다” - 경향신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈에 손 내밀면서도 조기 복당은 안 된다는 중진들…친한계·당권파 모두 “비겁하다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wbE8zQ00wS1RoVTBVZTZKZ1RjNTl4ZFJLSHVqUjgzcTdFakFZYnpJYUotemVFYmY1STNic0F4cUhia2dVVEdkbWtPYm9NaWQ3aFlUNV9ybThCQdIBX0FVX3lxTE41bGVZQklhZGJ6ZE9PbFB0cFRRalRJTmx2MndQb05scy1udGxTLURYbExzSGtObGhjcUt2cEdWWHdhbC1ZUGJlNC1tRVpjQkdkRXN1WXJWNTVuaDNJTlgw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "최민희 징계 강력 반대"…민주, 25일 윤리심판원 심의 - 신아일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 징계 강력 반대"…민주, 25일 윤리심판원 심의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE1zM1RESDlnbkRBVkRkdkpibVE1em80dTFPOGJaTWdwQmluNGhVZnlUR1ppbTlRaG5CYVFERTExUmRIX2Z4eUhtS0Vvb3JwTmxhLWRtbV9xTk0zcnhXNXJEQkhKNmNSeklmSWtlbllMaG0?oc=5)
+
+---
+

@@ -1,46 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T08:41:18.353Z",
+  "lastCheckedAt": "2026-11-18T09:11:17.815Z",
   "seenPostIds": {
-    "5da6492d0cba7f6caf287c93911fe8f891a940d1d0c62e139c54fc1f4fe8baa0": {
-      "seenAt": "2026-11-15T05:21:14.667Z",
-      "title": "이준석, 전한길 추가 고소 예고…˝하버드 졸업장 공개한 지 10년 넘어˝:중수청일보 - 중수청일보",
-      "targetName": "이준석"
-    },
-    "49aa5bdf9a4f508d6165622fadc831e3c5e223523b4600285378d1191323010c": {
-      "seenAt": "2026-11-15T05:41:18.572Z",
-      "title": "\"시험 안 치고 노무현 추천으로 하버드 갔다\" 전한길 주장에…이준석 \"16일 추가 형사 조치\" - 부산파이낸셜뉴스",
-      "targetName": "이준석"
-    },
-    "ffca61d4b67a799f4c272f017e447dfaaad454d858264824bb2d9be782b6b9e5": {
-      "seenAt": "2026-11-15T05:41:19.193Z",
-      "title": "이준석, 하버드 입학 의혹 제기한 전한길 추가 고소 예고 - 대전일보",
-      "targetName": "이준석"
-    },
-    "013556bc1da1ce0dd67b5a26d2b1e186d534dcba8c71b7c012ae6a3cc50c56e3": {
-      "seenAt": "2026-11-15T05:41:19.794Z",
-      "title": "조국 “조희대, 한덕수 구속 유지로 ‘탄핵 접어달라’ 메시지 보낼 수도” - 주간경향",
-      "targetName": "조국"
-    },
-    "97c9938eee3c8e4462f6ac658ec1cd33a67cfaa2bebbcc7c2c6a7cd890ce857b": {
-      "seenAt": "2026-11-15T05:51:20.871Z",
-      "title": "이재명 대통령 “개혁 이름 빌려 개혁 방해하는 것 용납 어렵다” - 경기일보",
-      "targetName": "이재명"
-    },
-    "31e5c10ba778ca7136f203abe67c6ebfc8bde34a35a3e2eee99ffb46936128d8": {
-      "seenAt": "2026-11-15T06:01:16.250Z",
-      "title": "與 내홍 '갈수록 태산' ...'민생' 외치려던 김민석, 리더십 시험대 - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
-    "d6e9fe2f52a6cb07779a0649ce44f5662dd0f9dc17a857f9775ebcb8ca4fc4fb": {
-      "seenAt": "2026-11-15T06:20:39.624Z",
-      "title": "이준석, 전한길 추가 고소 예고…˝하버드 졸업장 공개한 지 10년 넘어˝:중수청일보 - 중수청일보",
-      "targetName": "이준석"
-    },
-    "80523d5115448115a5c6bd60f728cb57c9b77567f50ad7dea20192f61dc10017": {
-      "seenAt": "2026-11-15T06:20:40.332Z",
-      "title": "이준석, 전한길 추가 고소 예고…학력 의혹 반박 : 정치 - 재경일보",
-      "targetName": "이준석"
-    },
     "2a6b3fc25f7b96c4e9d3f158b5d9f0aa615165ec141f9b03af70e20acb3f3b8f": {
       "seenAt": "2026-11-15T06:41:16.709Z",
       "title": "與 내홍 '갈수록 태산' ...'민생' 외치려던 김민석, 리더십 시험대 - 머니투데이 - 머니투데이",
@@ -2540,7 +2500,71 @@
       "seenAt": "2026-11-18T09:01:25.874Z",
       "title": "조국 “당원들과 조만간 독도 다시 방문”...내년 초 서울서 학술세미나 개최 - JTBC",
       "targetName": "조국"
+    },
+    "919a94cc4a9dc7de2a563925eaf229fa988aa78aa2f140baa46984ff883a0aa1": {
+      "seenAt": "2026-11-18T09:11:19.261Z",
+      "title": "추경호 무죄에 '정당 해산' 한숨 돌린 국힘 … '폐문부재' 한동훈에 불똥 - 뉴데일리",
+      "targetName": "한동훈"
+    },
+    "630f7fc1a664e8b76bfbbdd2096a25ce95fc70292fcc241e095b39195804a0f3": {
+      "seenAt": "2026-11-18T09:11:20.061Z",
+      "title": "한동훈에 손 내밀면서도 조기 복당은 안 된다는 중진들…친한계·당권파 모두 “비겁하다” - 경향신문",
+      "targetName": "한동훈"
+    },
+    "7eee76e1572dcd2c9224a2cbfaba48d280e6a79b60d87708feb084b3a01e3829": {
+      "seenAt": "2026-11-18T09:11:20.823Z",
+      "title": "정청래 \"최민희 징계 강력 반대\"…민주, 25일 윤리심판원 심의 - 신아일보",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "1d0d14f66d4fb77a39c4bf63657e79803dcf910214e3af547bd335c80f37153d",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "김민석, 추경호 무죄에 \"법원의 퇴행적 판결\"… 정청래 \"조희대 탄핵\"(종합) - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBqdmIwZFluUEtWSmRibmdHR1E5TFlzd25MZ2VtUzZzZVZIb1l4YWRvWmJMeGtXV2ttbkYwcVdlamFlMll6TUhPZTBaOTZLb1BBYjB1TjNLVzNqVnN0Qi1Mc1Z3cWVnRkZpdkFoVHY1SnFMTmdvaUkxMtIBeEFVX3lxTFBqdmIwZFluUEtWSmRibmdHR1E5TFlzd25MZ2VtUzZzZVZIb1l4YWRvWmJMeGtXV2ttbkYwcVdlamFlMll6TUhPZTBaOTZLb1BBYjB1TjNLVzNqVnN0Qi1Mc1Z3cWVnRkZpdkFoVHY1SnFMTmdvaUkxMg?oc=5\" target=\"_blank\">김민석, 추경호 무죄에 \"법원의 퇴행적 판결\"… 정청래 \"조희대 탄핵\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqdmIwZFluUEtWSmRibmdHR1E5TFlzd25MZ2VtUzZzZVZIb1l4YWRvWmJMeGtXV2ttbkYwcVdlamFlMll6TUhPZTBaOTZLb1BBYjB1TjNLVzNqVnN0Qi1Mc1Z3cWVnRkZpdkFoVHY1SnFMTmdvaUkxMtIBeEFVX3lxTFBqdmIwZFluUEtWSmRibmdHR1E5TFlzd25MZ2VtUzZzZVZIb1l4YWRvWmJMeGtXV2ttbkYwcVdlamFlMll6TUhPZTBaOTZLb1BBYjB1TjNLVzNqVnN0Qi1Mc1Z3cWVnRkZpdkFoVHY1SnFMTmdvaUkxMg?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 07:44:45 GMT",
+        "source": "뉴시스",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d3a60b25cf552c827fab3ceb2f85131f935b02e90be63e6b163c96ae857a846a",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 “金·鄭 만나야”…정청래“풉, 자격미달자 나서지마세요” - 문화일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rOVJDa052WFVOOGQwRDJNcURlbEVXQWc0RjFwNTJGTGFBYTcyZGxlV3o1ZU1rdi1VQmhjYWVtMVFxVmYzeFpCY3hUZkt6SEFx?oc=5\" target=\"_blank\">송영길 “金·鄭 만나야”…정청래“풉, 자격미달자 나서지마세요”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rOVJDa052WFVOOGQwRDJNcURlbEVXQWc0RjFwNTJGTGFBYTcyZGxlV3o1ZU1rdi1VQmhjYWVtMVFxVmYzeFpCY3hUZkt6SEFx?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 09:00:42 GMT",
+        "source": "문화일보",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2517c1da6c6092e72e291b2473215ca75515c227dcc915c200825cb9f22c9040",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says US wrapped up ‘very big trade deal’ with Philippines - New York Post",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNVndnaUpPcm42V3pDM1dUN3h6UXZESkVMZ055NUNtWi03UDNqempOOG9EQkhLb0JUVXFxejU5V2hUMHI3VFRwWUx1Y19jQlJyUHZqRldfWFZVWl82M2tjM3FRSU9FQ18yeWtpSl83QlNnQ3ROelJha0RENG00X0J1cnRySmhyMHpIRXFibG1BSGs5NjNNeGlLMmRtUVNzYUpsaUE?oc=5\" target=\"_blank\">Trump says US wrapped up ‘very big trade deal’ with Philippines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVndnaUpPcm42V3pDM1dUN3h6UXZESkVMZ055NUNtWi03UDNqempOOG9EQkhLb0JUVXFxejU5V2hUMHI3VFRwWUx1Y19jQlJyUHZqRldfWFZVWl82M2tjM3FRSU9FQ18yeWtpSl83QlNnQ3ROelJha0RENG00X0J1cnRySmhyMHpIRXFibG1BSGs5NjNNeGlLMmRtUVNzYUpsaUE?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 08:31:00 GMT",
+        "source": "New York Post",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
