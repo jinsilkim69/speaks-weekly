@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T05:11:18.362Z",
+  "lastCheckedAt": "2026-11-18T05:21:22.364Z",
   "seenPostIds": {
-    "842a22bd19c0a18e3a19718350b9ed9cd14e8a52517c2251ca121e77409a5b33": {
-      "seenAt": "2026-11-14T16:41:18.492Z",
-      "title": "'Disaster for justice': Trump slams Newsom's plan to commute California's death sentences - WCIV",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "76fd1e3a00201e32aabfc89fd56e6d4a42e37a61b7cc31357dc8bdf17e48cbc2": {
-      "seenAt": "2026-11-14T17:01:16.898Z",
-      "title": "이재명 대통령 “가장 힘든 건 등 뒤에서 날아오는 화살”…천준호 격려 - 경기일보",
-      "targetName": "이재명"
-    },
-    "f8a5c60daeb9dcfdf5b347dc2c946baf7afebc7260fcb3efe728815f291f3837": {
-      "seenAt": "2026-11-14T17:31:15.881Z",
-      "title": "Donald Trump Teams Up With Adam Schiff to Save Hollywood - Newsweek",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "0d13202c6257a0b93cb3aa3aae5607c4e84b78594dd5d4a026be2419914f0644": {
       "seenAt": "2026-11-14T20:11:17.303Z",
       "title": "[강릉뉴스 칼럼] 김민석 대표는 왜 물러나야 하나? - 강릉뉴스",
@@ -2515,21 +2500,52 @@
       "seenAt": "2026-11-18T05:11:22.200Z",
       "title": "우원식 \"민주당은 김민석·정청래 당 아냐…추미애는 말 얹지 말고 경기도 집중해야\" - 조선일보",
       "targetName": "정청래"
+    },
+    "feda27ad09cb82c39c799414310642a9c880858239fad5325adf62335165972f": {
+      "seenAt": "2026-11-18T05:21:23.789Z",
+      "title": "이준석표 코리요스캔 수능 투입 요구…개혁신당 정부, 오늘 안에 검증하라 - 아주경제",
+      "targetName": "이준석"
+    },
+    "78ef5178473f14defd6555db4dc40a6eeaaa379d2c5e05419c4a1d5bca26f47d": {
+      "seenAt": "2026-11-18T05:21:24.525Z",
+      "title": "추미애, 최민희 징계 수순에 \"김민석 문제부터 판단해야\" - 한국경제",
+      "targetName": "김민석"
+    },
+    "40e9685273eb0a0116062a7ee4c19ec3d7f27e2088444f343240915f63e68b03": {
+      "seenAt": "2026-11-18T05:21:25.278Z",
+      "title": "추미애 \"김민석 '신천지발언' 사과로 끝낼 일 아냐\"…김민석 측 \"수능대책 집중해얄 때\" - 아시아경제",
+      "targetName": "김민석"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "feda27ad09cb82c39c799414310642a9c880858239fad5325adf62335165972f",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석표 코리요스캔 수능 투입 요구…개혁신당 정부, 오늘 안에 검증하라 - 아주경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zVF80azNmYzhJRTB2Z0tqam5fbEFaYWZ3YWNpejZ6Q2t6eVpBUV9iaUZUeEluQ0lUYXk2aFNmeWJtQWxibDRyMnk1SkFhbWcxY3MydEc4S1TSAVhBVV95cUxNM1RfNGszZmM4SUUwdmdLampuX2xBWmFmd2FjaXo2ekNrenlaQVFfYmlGVHhJbkNJVGF5NmhTZnlibUFsYmw0cjJ5NUpBYW1nMWNzMnRHOEtU?oc=5\" target=\"_blank\">이준석표 코리요스캔 수능 투입 요구…개혁신당 정부, 오늘 안에 검증하라</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아주경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zVF80azNmYzhJRTB2Z0tqam5fbEFaYWZ3YWNpejZ6Q2t6eVpBUV9iaUZUeEluQ0lUYXk2aFNmeWJtQWxibDRyMnk1SkFhbWcxY3MydEc4S1TSAVhBVV95cUxNM1RfNGszZmM4SUUwdmdLampuX2xBWmFmd2FjaXo2ekNrenlaQVFfYmlGVHhJbkNJVGF5NmhTZnlibUFsYmw0cjJ5NUpBYW1nMWNzMnRHOEtU?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 02:50:33 GMT",
-        "source": "아주경제",
-        "ageHours": 2.3
+        "id": "2d2060f26a93a0bb94f54dfac918fedbca2e0aa3ae89279f3455105377122c1d",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "민주당 내홍 격화…송영길 중재에 정청래 “자격 미달” - 뉴스프리존",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB6X25ZUzdnOWduV1ZuZi1uV1ZPektqd2lsMFNwMGJKNlJkSGVXcEZZTUsyYl9Kd29PWUllNXZVZ3U3S2tzbGx0U2VRNlJNYWRaeFNVQXlXbmZFc2F6cVhSN2hJRjBUUjlrcnE5OWRMRTNQTGvSAXdBVV95cUxNbHJybDRzNUxuSHVsRGRzeXJxN2dUdVlfREh0dDZ4eDcxZTVWdkZCZmpDbWZrWTQyRWhLVWlhQnRqbkJrNVEwblVwQXZ2dkVUaXFnNkFoSFRGYlVRYW9ORUhtVk51R2p4NUpjalZiNE5CczNfcm8wbw?oc=5\" target=\"_blank\">민주당 내홍 격화…송영길 중재에 정청래 “자격 미달”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스프리존</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6X25ZUzdnOWduV1ZuZi1uV1ZPektqd2lsMFNwMGJKNlJkSGVXcEZZTUsyYl9Kd29PWUllNXZVZ3U3S2tzbGx0U2VRNlJNYWRaeFNVQXlXbmZFc2F6cVhSN2hJRjBUUjlrcnE5OWRMRTNQTGvSAXdBVV95cUxNbHJybDRzNUxuSHVsRGRzeXJxN2dUdVlfREh0dDZ4eDcxZTVWdkZCZmpDbWZrWTQyRWhLVWlhQnRqbkJrNVEwblVwQXZ2dkVUaXFnNkFoSFRGYlVRYW9ORUhtVk51R2p4NUpjalZiNE5CczNfcm8wbw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 23:09:26 GMT",
+        "source": "뉴스프리존",
+        "ageHours": 6.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "cf862bc6ee5a2c48d762d6760a8e5dcaa1b2a6482ceb03e578fd044ae2e24d4a",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "’日입국 거부’ 조국 “독도 방문 이력 확인했나“…여당서도 “경위 밝혀야“ - 연합뉴스TV",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFdklmb0VKS3k4bjR0aENKWk1VamJVRWRjR3BvRFVoWFdvNjFPSjd1dXUyc1BMWjdnZHIxenhSa0dEb2k0cEZZM3NjSjNucHRfR3M3V3B3bmtlbzU2ZWdEQWtKbnp0WUk?oc=5\" target=\"_blank\">’日입국 거부’ 조국 “독도 방문 이력 확인했나“…여당서도 “경위 밝혀야“</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFdklmb0VKS3k4bjR0aENKWk1VamJVRWRjR3BvRFVoWFdvNjFPSjd1dXUyc1BMWjdnZHIxenhSa0dEb2k0cEZZM3NjSjNucHRfR3M3V3B3bmtlbzU2ZWdEQWtKbnp0WUk?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 02:59:00 GMT",
+        "source": "연합뉴스TV",
+        "ageHours": 2.4
       },
       "delivered": [],
       "archived": false
