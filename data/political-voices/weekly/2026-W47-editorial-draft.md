@@ -5422,3 +5422,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 조계원 "'동문서답' 한동훈, 미친 척?...'술자리 갔냐' 물었더니 '나 노래 못해', 안 물, 안 궁금"[여의도초대석] - KBC광주방송
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조계원 "'동문서답' 한동훈, 미친 척?...'술자리 갔냐' 물었더니 '나 노래 못해', 안 물, 안 궁금"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE94dXBTU3dhRGpGa3JIam4wY3k2TVh4SnNmbjJaNDlHNFRHTF9ycFJMT3dpd3ZheExmMURwdmc3aTI2eUxRZTdDYVo3dHpjS2pGV0hodVh1aXdmb28tdjNWV3ZR?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈에 손 내밀면서도 조기 복당은 안 된다는 중진들…친한계·당권파 모두 “비겁하다” - 경향신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈에 손 내밀면서도 조기 복당은 안 된다는 중진들…친한계·당권파 모두 “비겁하다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiX0FVX3lxTE41bGVZQklhZGJ6ZE9PbFB0cFRRalRJTmx2MndQb05scy1udGxTLURYbExzSGtObGhjcUt2cEdWWHdhbC1ZUGJlNC1tRVpjQkdkRXN1WXJWNTVuaDNJTlgw0gFfQVVfeXFMTjVsZVlCSWFkYnpkT09sUHRwVFFqVElObHYyd1BvTmxzLW50bFMtRFhsTHNIa05saGNxS3ZwR1ZYd2FsLVlQYmU0LW1FWmNCR2RFc3VZclY1NW5oM0lOWDA?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야” - 세계일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xc1NxQXhuVTQydUdMWDJkWTlfMXZ0ekQ0NWh6bDFCWGNLMzVJUDhyV3pLc1dfenViZFdHRmZrU1RpZXB6NG94NC05UXlIa01wQWpoNdIBVEFVX3lxTE9xc1NxQXhuVTQydUdMWDJkWTlfMXZ0ekQ0NWh6bDFCWGNLMzVJUDhyV3pLc1dfenViZFdHRmZrU1RpZXB6NG94NC05UXlIa01wQWpoNQ?oc=5)
+
+---
+

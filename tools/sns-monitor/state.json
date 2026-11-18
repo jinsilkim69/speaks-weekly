@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T09:51:17.501Z",
+  "lastCheckedAt": "2026-11-18T10:41:17.027Z",
   "seenPostIds": {
-    "c5bf8dcd82511cdc52a4587bef01962f7be17001ec55831ba353421cae33e0b4": {
-      "seenAt": "2026-11-15T08:31:15.643Z",
-      "title": "국힘 김태호, 장동혁·오세훈·한동훈에 회동 제안…\"통합 길 열어야\" - 뉴시스",
-      "targetName": "한동훈"
-    },
-    "8c74e4862d639ca5190a2f23f5fa1a469eeec51c0b8fbea3e6a59e70672e77b7": {
-      "seenAt": "2026-11-15T08:31:16.358Z",
-      "title": "與내홍 점입가경...초선들 \"최민희 자진탈당\" 최 \"신천지, 김민석 책임\" - 중앙신문",
-      "targetName": "김민석"
-    },
     "64149518f0b51372e594e06797e64febcc6fce619d425262c398c3ef5f5c854c": {
       "seenAt": "2026-11-15T08:31:17.053Z",
       "title": "조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이 - 머니투데이",
@@ -2510,7 +2500,135 @@
       "seenAt": "2026-11-18T09:51:19.437Z",
       "title": "정청래 \"최민희 징계 반대\"···추미애 \"김민석 먼저 판단\" - 더리포트",
       "targetName": "김민석"
+    },
+    "211ce99d4485e837c1be2fa0a86df89998907a29cddadad68814c9119a611f53": {
+      "seenAt": "2026-11-18T10:41:18.232Z",
+      "title": "조계원 \"'동문서답' 한동훈, 미친 척?...'술자리 갔냐' 물었더니 '나 노래 못해', 안 물, 안 궁금\"[여의도초대석] - KBC광주방송",
+      "targetName": "한동훈"
+    },
+    "9525d33d3338224272ef9392661ed48836ff7b0d2281fdff5fc1c1f32e847dee": {
+      "seenAt": "2026-11-18T10:41:18.885Z",
+      "title": "한동훈에 손 내밀면서도 조기 복당은 안 된다는 중진들…친한계·당권파 모두 “비겁하다” - 경향신문",
+      "targetName": "한동훈"
+    },
+    "170bf43d5d363d7ea948493400400cfe023306fd3b5e5c176e3327b2c7e1466a": {
+      "seenAt": "2026-11-18T10:41:19.586Z",
+      "title": "추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야” - 세계일보",
+      "targetName": "한동훈"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "efc237d3b8ff4acace85cc7978f04fef65f9252769fb6171f601260ccdf0bfd7",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "[단독] 정청래 “최민희 녹취록 타이밍 조절?”…김우영 “김민석, 전체 녹취 없었다” - 시사저널",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5BanBlaW1NRGhJcXVUcTRkN0hNT3JNcHJ0UWM2VXF3SXZrbXZ4UWk3VzliNFBCWXI4VVZSbDF0bU5HNXp5aXpkMUNvSEZfMFV2YnVQV3RlR1BQcmUyenpDdXJqa0x4S1IwX1I4YVJmTG9wTEHSAXNBVV95cUxOQWpwZWltTURoSXF1VHE0ZDdITU9yTXBydFFjNlVxd0l2a212eFFpN1c5YjRQQllyOFVWUmwxdG1ORzV6eWl6ZDFDb0hGXzBVdmJ1UFd0ZUdQUHJlMnp6Q3VyamtMeEtSMF9SOGFSZkxvcExB?oc=5\" target=\"_blank\">[단독] 정청래 “최민희 녹취록 타이밍 조절?”…김우영 “김민석, 전체 녹취 없었다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BanBlaW1NRGhJcXVUcTRkN0hNT3JNcHJ0UWM2VXF3SXZrbXZ4UWk3VzliNFBCWXI4VVZSbDF0bU5HNXp5aXpkMUNvSEZfMFV2YnVQV3RlR1BQcmUyenpDdXJqa0x4S1IwX1I4YVJmTG9wTEHSAXNBVV95cUxOQWpwZWltTURoSXF1VHE0ZDdITU9yTXBydFFjNlVxd0l2a212eFFpN1c5YjRQQllyOFVWUmwxdG1ORzV6eWl6ZDFDb0hGXzBVdmJ1UFd0ZUdQUHJlMnp6Q3VyamtMeEtSMF9SOGFSZkxvcExB?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 08:27:00 GMT",
+        "source": "시사저널",
+        "ageHours": 2.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "9d21e2b63203149f907116ef3aab058ed3c3e4ade303f18c7a0933b8b334598d",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합) - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LOC1Ha1JRZHh1cmt4SXBwbVo1SlBMRFJ1dzNlQ3dBUzZiUms1aGt1X1BIUXV4M2g4RWZRQWlwQlNwUnV4UGZiZ2R3c1oxZElpZlFKdU9uYnhOUTlsclBGNtIBeEFVX3lxTFBLR0VpRkFacXRDWC1JR05YY1FJbzFiT3FNdXFndFBfcWduRWdDZVFmT05EZFVOYndCcWl3eUcydDRoMEl5d3pxSzF1V1RRNFZtaEFsNkFFajRNMWVRamtWX2NmTG1XUXRjRXpOTVY5MHpIUVFnQl96aw?oc=5\" target=\"_blank\">與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LOC1Ha1JRZHh1cmt4SXBwbVo1SlBMRFJ1dzNlQ3dBUzZiUms1aGt1X1BIUXV4M2g4RWZRQWlwQlNwUnV4UGZiZ2R3c1oxZElpZlFKdU9uYnhOUTlsclBGNtIBeEFVX3lxTFBLR0VpRkFacXRDWC1JR05YY1FJbzFiT3FNdXFndFBfcWduRWdDZVFmT05EZFVOYndCcWl3eUcydDRoMEl5d3pxSzF1V1RRNFZtaEFsNkFFajRNMWVRamtWX2NmTG1XUXRjRXpOTVY5MHpIUVFnQl96aw?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 10:01:05 GMT",
+        "source": "뉴시스",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4b10f28dac3f2bfb71be9a20e85ef0478e39b6080dcd6cca4206b89a91d07e61",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBoeG9nZFkzYlpLMFNpMExzWC13NlNidUNaR0IzY3prMjdfRTNqTmtDdV82cFlxN3VEU0VfaTl1RXZsSDlFV2hPSF9VYXJzU0lxNWFJMUNCamU3RmM5akpHU3hSQUEtSlVEd2Z3S0JETDU4VWxNRjRETVdn0gF_QVVfeXFMTUtsdDVORE8zSHpES2xsZDhrcTRlemc4Q3NFeFUzVjBJZFFCb0pNTnRVajBuY2xPcHRGR3dOSENsWGlEZlcwbzNnTmZMNGRDei1iVXhKc2ZUZTNvc2lhbmJRbU9sMzN6a0lGNWJ0Q3NMRGR5eV8xVHFlR0tvVGNpTQ?oc=5\" target=\"_blank\">정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoeG9nZFkzYlpLMFNpMExzWC13NlNidUNaR0IzY3prMjdfRTNqTmtDdV82cFlxN3VEU0VfaTl1RXZsSDlFV2hPSF9VYXJzU0lxNWFJMUNCamU3RmM5akpHU3hSQUEtSlVEd2Z3S0JETDU4VWxNRjRETVdn0gF_QVVfeXFMTUtsdDVORE8zSHpES2xsZDhrcTRlemc4Q3NFeFUzVjBJZFFCb0pNTnRVajBuY2xPcHRGR3dOSENsWGlEZlcwbzNnTmZMNGRDei1iVXhKc2ZUZTNvc2lhbmJRbU9sMzN6a0lGNWJ0Q3NMRGR5eV8xVHFlR0tvVGNpTQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 08:58:53 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "579928752b018443304ad627e03804aa23d8b6d12964316f228b01d15c7b33ff",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "\"독도 상륙한 조국씨는...\" 일본 의회서 세 차례나 문제삼았다 - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlBoVEtIQ1VGcmZzX1JiWHdrRVdtSzU0bUg3enQwTzN2eEdUSGtEVHJ4eUpsOUdfOFhwU2JLWVVnaGFzTGZYb0pZdTJOM0VhQlFqb2hhTHVJb1hicHhydWM0aVFXd3F0LTZ5b0UxQmhDczk2ZEhUYndNeExiMVVSa29ZN3Y3aEptMjNrRGhnVXhoX3hrNEYyQ05GZXFRSm5panViWUVWMUo?oc=5\" target=\"_blank\">\"독도 상륙한 조국씨는...\" 일본 의회서 세 차례나 문제삼았다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlBoVEtIQ1VGcmZzX1JiWHdrRVdtSzU0bUg3enQwTzN2eEdUSGtEVHJ4eUpsOUdfOFhwU2JLWVVnaGFzTGZYb0pZdTJOM0VhQlFqb2hhTHVJb1hicHhydWM0aVFXd3F0LTZ5b0UxQmhDczk2ZEhUYndNeExiMVVSa29ZN3Y3aEptMjNrRGhnVXhoX3hrNEYyQ05GZXFRSm5panViWUVWMUo?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 09:22:00 GMT",
+        "source": "OhmyNews",
+        "ageHours": 1.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "db16523ca982ddfcc8b4f4b63b62afde244fddc377525e53bf60502ecb68fe2c",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 “전과 있어도 일본 여러 차례 방문”…입국 거부 사유 공개 요구 - 더시사법률",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZRjdLNi00R09PT1ppSGcwLTlvTXg5U2FvSHJJV3dlOENicXZ1TWFKcFdoX3o0MFI5UVdTaGo2dXJ1LTdwaWxFcHBkZk9oTlozcGhLMDNoU2hxX2xDcFJVdQ?oc=5\" target=\"_blank\">조국 “전과 있어도 일본 여러 차례 방문”…입국 거부 사유 공개 요구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더시사법률</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZRjdLNi00R09PT1ppSGcwLTlvTXg5U2FvSHJJV3dlOENicXZ1TWFKcFdoX3o0MFI5UVdTaGo2dXJ1LTdwaWxFcHBkZk9oTlozcGhLMDNoU2hxX2xDcFJVdQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 07:04:18 GMT",
+        "source": "더시사법률",
+        "ageHours": 3.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "acdd1fc61db7222462584a2c9d91c422f74bd3810cc96cd0546fac06ff586dee",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says he 'will not sign' bipartisan housing bill, but doesn't threaten veto either - ABC News - Breaking News, Latest News and Videos",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQa0tLaEhwanhIY0M1RnVjRi1kRS01T25YUU1iZjBQQnpjdXB3ZFJRa21fc3VMelZHU3BLUjByQzF1LTYySS1rUnc4cFlsSWFvai16ZC1wQXh4N2RONXQ3US1zWk9pN0UzMmYzeTlzRElpZXNNX3lfTml1bE1lWmQ2VWpMWDlfR0M1aGNXcEE0V2VoenRZQnRpX2dUNjjSAaIBQVVfeXFMUC1HdU9CeWNKeVUya0J5YnphcWltYVJNYWdrNDhqMkMtTnNSeDh6bHlRQmo5c1ZadnJmWUhweWJwdjhTTW5iNmlxeUFBZk5KZ3JNWUJoamw1TV8tM2VzLW96V00zMGhQeVJ3UHpDQWZPM1lWUU03ZmZVNjZfOVNGQkM2N2ZBOEI1R2FmenlrM3RQZlpKd0dCSzEycHF3UndMWlBR?oc=5\" target=\"_blank\">Trump says he 'will not sign' bipartisan housing bill, but doesn't threaten veto either</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa0tLaEhwanhIY0M1RnVjRi1kRS01T25YUU1iZjBQQnpjdXB3ZFJRa21fc3VMelZHU3BLUjByQzF1LTYySS1rUnc4cFlsSWFvai16ZC1wQXh4N2RONXQ3US1zWk9pN0UzMmYzeTlzRElpZXNNX3lfTml1bE1lWmQ2VWpMWDlfR0M1aGNXcEE0V2VoenRZQnRpX2dUNjjSAaIBQVVfeXFMUC1HdU9CeWNKeVUya0J5YnphcWltYVJNYWdrNDhqMkMtTnNSeDh6bHlRQmo5c1ZadnJmWUhweWJwdjhTTW5iNmlxeUFBZk5KZ3JNWUJoamw1TV8tM2VzLW96V00zMGhQeVJ3UHpDQWZPM1lWUU03ZmZVNjZfOVNGQkM2N2ZBOEI1R2FmenlrM3RQZlpKd0dCSzEycHF3UndMWlBR?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 08:48:52 GMT",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "ageHours": 1.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "584cb165a80040ca090bf97b3a3c8b55dd1a4a7a2389f8bc09a680f42b3b98c1",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "U.S. President Donald Trump on Wednesday announced that the Philippines and the United States had secured a “big” trade deal as the two leaders held bilateral talks in Malacañang. Trump did not provide further details about the trade agreement. Read mor - Facebook",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaFk3bWhSMUwxMzMyOUpLMlkydnJZamJvOURrZWdOeXBpTVJ2TnRfZGp2TjZfRlVLYzN3OEdfalg5ZkhRUjBjbXJhcnQxdlNvc1VIYUtPS3hOeXR1THpwUzc2T3JRTUl0Rks4MHpCYm5EWEw5c3lBMHNEeF9EZGpTbkpXTThXTWhpNTR2akdFSm0tZTZWYkhIWXZVMFVWUERtbDFidWJXaWNzb2lqaXZSMlZ5X2cxRnJnQXBocUZBVUtSajZmWHJZaGRmSjlvOWl6Nnh3?oc=5\" target=\"_blank\">U.S. President Donald Trump on Wednesday announced that the Philippines and the United States had secured a “big” trade deal as the two leaders held bilateral talks in Malacañang. Trump did not provide further details about the trade agreement. Read mor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facebook</font>",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaFk3bWhSMUwxMzMyOUpLMlkydnJZamJvOURrZWdOeXBpTVJ2TnRfZGp2TjZfRlVLYzN3OEdfalg5ZkhRUjBjbXJhcnQxdlNvc1VIYUtPS3hOeXR1THpwUzc2T3JRTUl0Rks4MHpCYm5EWEw5c3lBMHNEeF9EZGpTbkpXTThXTWhpNTR2akdFSm0tZTZWYkhIWXZVMFVWUERtbDFidWJXaWNzb2lqaXZSMlZ5X2cxRnJnQXBocUZBVUtSajZmWHJZaGRmSjlvOWl6Nnh3?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 10:35:14 GMT",
+        "source": "Facebook",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
