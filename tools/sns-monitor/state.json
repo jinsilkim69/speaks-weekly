@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T04:21:18.672Z",
+  "lastCheckedAt": "2026-11-18T04:41:15.511Z",
   "seenPostIds": {
-    "5f57698688ad1601e17299c663101f02c78d304a33664306aa7a544a9d74d489": {
-      "seenAt": "2026-11-14T13:01:18.090Z",
-      "title": "노무현 추천으로 하버드 입학했다고?…이준석, 전한길 추가 고소 예고 - 헤럴드경제",
-      "targetName": "이준석"
-    },
-    "8488f5ff473c4aa9b67d65be61537b04f953ae570fc7d85c3d01ac60a51dafeb": {
-      "seenAt": "2026-11-14T13:21:17.989Z",
-      "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades - Financial Times",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "cfd206abc95f117cec692ea162bd6351e3d3bd2318063abc593a72aa6dcd2cb3": {
-      "seenAt": "2026-11-14T13:41:16.972Z",
-      "title": "노무현 추천으로 하버드 입학했다고?…이준석, 전한길 추가 고소 예고 - 헤럴드경제",
-      "targetName": "이준석"
-    },
-    "6045f1a7be52d7e5ea738fdc340e90e6685845c54e016f008b1a96ed09ce9415": {
-      "seenAt": "2026-11-14T15:21:18.117Z",
-      "title": "Trump blames US ground stop outage on ‘old broken stuff’ while Democrats demand answers over airport chaos - The Independent",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "0675ebdfe9a29808e838c0f0334ffd85e15469f69b3c59636fc16f654428fa5e": {
-      "seenAt": "2026-11-14T15:41:18.628Z",
-      "title": "민주, 최민희 녹취록에 계파 갈등 격화… 김민석 리더십 또 ‘휘청’ - 천지일보",
-      "targetName": "김민석"
-    },
-    "4a5084d43756d8dff5e41121511e943a2502413add8edbe43e06c655ff311a71": {
-      "seenAt": "2026-11-14T15:51:16.293Z",
-      "title": "'Disaster for justice': Trump slams Newsom's plan to commute California's death sentences - KATU",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "8ae063b105de45cc5d4e7e506f0f2c3d6f0b5953223a53433c1a5e0e5c2ac2f1": {
       "seenAt": "2026-11-14T16:31:16.131Z",
       "title": "\"가장 힘든 일은 등 뒤에서 날아오는 화살\"… 이재명 대통령이 갑자기 꺼낸 말 - 위키트리",
@@ -2530,6 +2500,16 @@
       "seenAt": "2026-11-18T04:31:17.291Z",
       "title": "최고위 발언하는 신장식 조국혁신당 대표 - 뉴시스",
       "targetName": "신장식"
+    },
+    "e813076413ab5283ec955af41826035c263f07e2c25c297948c095d8ee26e455": {
+      "seenAt": "2026-11-18T04:41:16.483Z",
+      "title": "정청래 \"최민희 징계 강력 반대…이재명 정부 성공을 위한 진심 믿는다\" - 뉴시스",
+      "targetName": "정청래"
+    },
+    "91ab24e8ef93d0b0e2bf377da2dac3c8b1d26c71465c87565f14126c03df6d7b": {
+      "seenAt": "2026-11-18T04:41:18.911Z",
+      "title": "日 언론, 조국 하네다공항 입국 거부에 '실형 전력·독도 방문' 주목 - 프리진경제",
+      "targetName": "조국"
     }
   },
   "pending": []

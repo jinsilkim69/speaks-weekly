@@ -4317,3 +4317,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "최민희 징계 강력 반대…이재명 정부 성공을 위한 진심 믿는다" - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 징계 강력 반대…이재명 정부 성공을 위한 진심 믿는다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPQnVRQlE2am1XeDF0ZVZLNi1JZXltR0U4OHhuMm5aS1d3MGdrNzN3bE1TMkhINTBRYVJwczhZZ0RZazlHaTl1cVFvSnRNZndtbG1SREZqZ1VXdHp6cGJGUdIBeEFVX3lxTE4xTGR0SV9razR5b0dLbzFmdFZuZWk0TVBZaWNqTVZWYXlodVk3QU5EdUZIZmJ5eGtKMmx5Q00zYWxTZnNnbno3SDF1b2VZbDUxOGc1cmJBRE10Z3BJcG40VzhWU3BDMTFnYXNfQ2ZVQ3A2cF9PVUluSg?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 日 언론, 조국 하네다공항 입국 거부에 '실형 전력·독도 방문' 주목 - 프리진경제
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 日 언론, 조국 하네다공항 입국 거부에 '실형 전력·독도 방문' 주목
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5TclRTbkh4eF9aQzlRazBFMFZlX1AtQTJYdl8wLUt0YjF5YzU0SlV2WFRvWjJHZ3BUU3podTBvNXJKOUNaREFvWnpNMFkzbVRYRnBhYVhzVHMyQ2E4N1o4YVVLb2g5dEx6V1VkNQ?oc=5)
+
+---
+
