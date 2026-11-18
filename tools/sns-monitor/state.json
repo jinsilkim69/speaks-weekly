@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T09:21:16.044Z",
+  "lastCheckedAt": "2026-11-18T09:41:20.015Z",
   "seenPostIds": {
-    "2e446ebc6713b12dbd4dbd82ceae4962ca947a5f0f033d6bbd880d283ad51a37": {
-      "seenAt": "2026-11-15T06:51:17.289Z",
-      "title": "김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화 - 파이낸셜뉴스",
-      "targetName": "정청래"
-    },
-    "a7441029a8b4f6762429db876a05ea15ecf4b402e7bed95f34f721f979fd3f68": {
-      "seenAt": "2026-11-15T07:31:17.743Z",
-      "title": "이재명 “개혁은 인기 아닌 국리민복”…여권 향해 ‘말보다 행동’ 주문 - www.sisaworld.kr",
-      "targetName": "이재명"
-    },
-    "ae7912a72f2f7b4546f12ff99ac66686c71672bc8fbbf6df2f0a8f7946071bd0": {
-      "seenAt": "2026-11-15T07:31:18.404Z",
-      "title": "민주 ‘친명ㆍ친청’ 갈등 전면전…최민희 감찰에 김민석 리더십 시험대 - 대한경제",
-      "targetName": "김민석"
-    },
-    "41ab797ccde45477795f6011919416f561ff964751de03ca5e18764fdc2ca941": {
-      "seenAt": "2026-11-15T07:31:19.125Z",
-      "title": "민주당 또 때린 조국 \"조희대는 행동 하는데 與는 말만 하고 있어\" - 데일리안",
-      "targetName": "조국"
-    },
-    "35479e24239a8ca1f682096a0470426306a6f59cb4757c919c0c16cfc53b9568": {
-      "seenAt": "2026-11-15T07:51:14.156Z",
-      "title": "한동훈 의원 장인 진형구 전 대전고검장 별세…향년 81세 - 한국경제",
-      "targetName": "한동훈"
-    },
-    "973d388a6a1556155cd5fb132f449dc206bf793ec769601794ba92eced6a7738": {
-      "seenAt": "2026-11-15T07:51:15.004Z",
-      "title": "이준석 \"노무현 대통령 추천서로 하버드 입학?\"⋯전한길 추가 고소 예고 - 아이뉴스24",
-      "targetName": "이준석"
-    },
     "1b7d1b1313f4182416e9d74d92bbbd849e2f3fec65e2fa0361f6716ddc4d3dce": {
       "seenAt": "2026-11-15T08:01:17.646Z",
       "title": "조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이 - 머니투데이",
@@ -2530,7 +2500,39 @@
       "seenAt": "2026-11-18T09:31:19.982Z",
       "title": "\"징계 반대\" 정청래 참전에도…崔 최고위원직 위태 - 한국경제",
       "targetName": "정청래"
+    },
+    "9a7a1ae8a93820e3342a58ae73c83cfd50a25561767f268269d5150b40596b97": {
+      "seenAt": "2026-11-18T09:41:21.572Z",
+      "title": "'추경호 무죄'에 대여 공세 강화…'한동훈 복당' 계파 갈등도 확산 - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
+    },
+    "b66dbd125f69a459888f101417e4a2ea516a34a1082ddf77873f49afd5f52ecd": {
+      "seenAt": "2026-11-18T09:41:22.367Z",
+      "title": "추경호 무죄에 '정당 해산' 한숨 돌린 국힘 … '폐문부재' 한동훈에 불똥 - 뉴데일리",
+      "targetName": "한동훈"
+    },
+    "b54eb82464d5ce2ad7eb78cfc3455dfe8fc147e7a6a9f8fa47fb2ccbb325782a": {
+      "seenAt": "2026-11-18T09:41:23.161Z",
+      "title": "우원식 “김민석, 간담상조 자세로...정청래, 솔로몬 재판 떠올리길” - 한겨레",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "1427a63d832f151ee30b78570bd1124811bafda84db24c57444015b19134349c",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 조국혁신당 대표 “12년 방치 영종 크린넷, 정책 실패 선언해야” - 인천투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMDNZRjUyNnEyQjNzb1NINXVXakQwSVFvdWRsWDNPU0J2QV9vN051bFlZU1JLeG4xQnVrYnYwRkw0QjVtenNEWXkxQS0xdUpjVmFGem5DajBoeWhTRFVJQXNuRFlKRWx1dV84SGhoU2o?oc=5\" target=\"_blank\">신장식 조국혁신당 대표 “12년 방치 영종 크린넷, 정책 실패 선언해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMDNZRjUyNnEyQjNzb1NINXVXakQwSVFvdWRsWDNPU0J2QV9vN051bFlZU1JLeG4xQnVrYnYwRkw0QjVtenNEWXkxQS0xdUpjVmFGem5DajBoeWhTRFVJQXNuRFlKRWx1dV84SGhoU2o?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 08:57:00 GMT",
+        "source": "인천투데이",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

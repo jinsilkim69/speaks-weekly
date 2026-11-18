@@ -5357,3 +5357,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '추경호 무죄'에 대여 공세 강화…'한동훈 복당' 계파 갈등도 확산 - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '추경호 무죄'에 대여 공세 강화…'한동훈 복당' 계파 갈등도 확산
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE0zMEZXODktTHczcUhWZEFtNHc3aUJBS0FGT2FRNjRFTVZMZTJyTXVhM1Z3eXdsdVVJbjhUOUZPVDR0LWY3TkNFWHNtN1JqOHBCUmxhaDFYcnNKMXBQN0Zwa2QyT3Z1bFJGX1Z4dWxmeG00Z9IBckFVX3lxTE0zMEZXODktTHczcUhWZEFtNHc3aUJBS0FGT2FRNjRFTVZMZTJyTXVhM1Z3eXdsdVVJbjhUOUZPVDR0LWY3TkNFWHNtN1JqOHBCUmxhaDFYcnNKMXBQN0Zwa2QyT3Z1bFJGX1Z4dWxmeG00Zw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 추경호 무죄에 '정당 해산' 한숨 돌린 국힘 … '폐문부재' 한동훈에 불똥 - 뉴데일리
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추경호 무죄에 '정당 해산' 한숨 돌린 국힘 … '폐문부재' 한동훈에 불똥
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxOaUk4UkNleUdVM2dsblhfbFBjbVhydkdtN0pMY296MkZudWpVLW1sbklTZjBEa2hZWFlWNHRLaG42MTVrOUx6NlpvbVhMenNoMWRQZWpYdE1YZk1fYjB1UkZ2Zk56dC1BNEhNb2dtS1pLTUN6MDBpY1dIYl9qMFpJNtIBgAFBVV95cUxOaUk4UkNleUdVM2dsblhfbFBjbVhydkdtN0pMY296MkZudWpVLW1sbklTZjBEa2hZWFlWNHRLaG42MTVrOUx6NlpvbVhMenNoMWRQZWpYdE1YZk1fYjB1UkZ2Zk56dC1BNEhNb2dtS1pLTUN6MDBpY1dIYl9qMFpJNg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 우원식 “김민석, 간담상조 자세로...정청래, 솔로몬 재판 떠올리길” - 한겨레
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 우원식 “김민석, 간담상조 자세로...정청래, 솔로몬 재판 떠올리길”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE5DVEVqYjg1bVZjWXdNR25iUWlhdGd3RGlTY1lWZ1B2TENSamk2a09YY25yYk9wcWVYMGI5dWphMk1iS280a2pKQkI5ZTlnZGFIQUZ2ZHRVUGdGUnhVdGV6VHdrV29ZMDJKYnRwRmpITl8xSlJa?oc=5)
+
+---
+
