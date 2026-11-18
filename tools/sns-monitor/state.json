@@ -2515,57 +2515,24 @@
       "seenAt": "2026-11-18T05:51:16.322Z",
       "title": "‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라” - 주간경향",
       "targetName": "송영길"
+    },
+    "39cc7c1a3de0a1ea0d6668017b88fdab8aa814a2d4c8b4406cd50702a64a9104": {
+      "seenAt": "2026-11-18T06:01:20.844Z",
+      "title": "경찰청장 후보자 “한동훈 딸 수사 아쉬움…감찰조사하겠다” - 채널A",
+      "targetName": "한동훈"
+    },
+    "0abbc735334b628d4870011fa32673e8c0108d625ad7498f134d3844ea61d885": {
+      "seenAt": "2026-11-18T06:01:21.693Z",
+      "title": "‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라” - 주간경향",
+      "targetName": "정청래"
+    },
+    "208eab646dd03ba276a34b6bed7ee8d979bc8a8f0e9e53f8c066ef00a54c973e": {
+      "seenAt": "2026-11-18T06:01:22.489Z",
+      "title": "[단독] '어린이보호구역 현수막' 지적받은 개혁신당…이준석 의원이 또 - 노컷뉴스",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "39cc7c1a3de0a1ea0d6668017b88fdab8aa814a2d4c8b4406cd50702a64a9104",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "경찰청장 후보자 “한동훈 딸 수사 아쉬움…감찰조사하겠다” - 채널A",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XLXdkVlJXUWxfUFlzZWw1T0QxYlBVNTVOM0djeU1fZzd4TEFHMS1aSEJGQmFzRklnWGlkdHVOT0Q1TjRwZkFrVURTYXdwMU8yNXdIRlhZZUtjS01KWmfSAWNBVV95cUxNT3J5czFxcDhzb0VhT3l0aHlfLXkzMUprTkdqaFI3dEFOSy0yZTFjTGJKSHQtaUlzYnFZajZNSWJwT2lHU2VlcWF4OEhzRWR5VklUOVdiTTQxVGo5MS1BcFJlY0k?oc=5\" target=\"_blank\">경찰청장 후보자 “한동훈 딸 수사 아쉬움…감찰조사하겠다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XLXdkVlJXUWxfUFlzZWw1T0QxYlBVNTVOM0djeU1fZzd4TEFHMS1aSEJGQmFzRklnWGlkdHVOT0Q1TjRwZkFrVURTYXdwMU8yNXdIRlhZZUtjS01KWmfSAWNBVV95cUxNT3J5czFxcDhzb0VhT3l0aHlfLXkzMUprTkdqaFI3dEFOSy0yZTFjTGJKSHQtaUlzYnFZajZNSWJwT2lHU2VlcWF4OEhzRWR5VklUOVdiTTQxVGo5MS1BcFJlY0k?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 04:37:00 GMT",
-        "source": "채널A",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "0abbc735334b628d4870011fa32673e8c0108d625ad7498f134d3844ea61d885",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라” - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Y0Y0NHpmbTh5T0pmYzV2Q3JHMUdYeFJfcW41U2toNklXc2ZfY2ZMX0RkcmNFSkdNaEd1cF94LVFHZE10aWZKMkNaRDBLWTBRejNYWlFnZGNvM0E2a2c?oc=5\" target=\"_blank\">‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Y0Y0NHpmbTh5T0pmYzV2Q3JHMUdYeFJfcW41U2toNklXc2ZfY2ZMX0RkcmNFSkdNaEd1cF94LVFHZE10aWZKMkNaRDBLWTBRejNYWlFnZGNvM0E2a2c?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 03:59:00 GMT",
-        "source": "주간경향",
-        "ageHours": 1.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "208eab646dd03ba276a34b6bed7ee8d979bc8a8f0e9e53f8c066ef00a54c973e",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "[단독] '어린이보호구역 현수막' 지적받은 개혁신당…이준석 의원이 또 - 노컷뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lQU84WmRxZC1PeXF6Q25wMlIyRzZ5ckFhWmJhcXhPbHpKMXZVWWRKSkJwbzZXUWtudy1OWFBrUE1ENHpJUDFlZGpzNjNZd25zbnc?oc=5\" target=\"_blank\">[단독] '어린이보호구역 현수막' 지적받은 개혁신당…이준석 의원이 또</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">노컷뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lQU84WmRxZC1PeXF6Q25wMlIyRzZ5ckFhWmJhcXhPbHpKMXZVWWRKSkJwbzZXUWtudy1OWFBrUE1ENHpJUDFlZGpzNjNZd25zbnc?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 05:34:47 GMT",
-        "source": "노컷뉴스",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "ab6a1776d2dbe1f110cc8f881ab1f177709e4186a95d9c4f9866fa5a781a8d5a",

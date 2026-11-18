@@ -4538,3 +4538,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰청장 후보자 “한동훈 딸 수사 아쉬움…감찰조사하겠다” - 채널A
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰청장 후보자 “한동훈 딸 수사 아쉬움…감찰조사하겠다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XLXdkVlJXUWxfUFlzZWw1T0QxYlBVNTVOM0djeU1fZzd4TEFHMS1aSEJGQmFzRklnWGlkdHVOT0Q1TjRwZkFrVURTYXdwMU8yNXdIRlhZZUtjS01KWmfSAWNBVV95cUxNT3J5czFxcDhzb0VhT3l0aHlfLXkzMUprTkdqaFI3dEFOSy0yZTFjTGJKSHQtaUlzYnFZajZNSWJwT2lHU2VlcWF4OEhzRWR5VklUOVdiTTQxVGo5MS1BcFJlY0k?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** ‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라” - 주간경향
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Y0Y0NHpmbTh5T0pmYzV2Q3JHMUdYeFJfcW41U2toNklXc2ZfY2ZMX0RkcmNFSkdNaEd1cF94LVFHZE10aWZKMkNaRDBLWTBRejNYWlFnZGNvM0E2a2c?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** [단독] '어린이보호구역 현수막' 지적받은 개혁신당…이준석 의원이 또 - 노컷뉴스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '어린이보호구역 현수막' 지적받은 개혁신당…이준석 의원이 또
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lQU84WmRxZC1PeXF6Q25wMlIyRzZ5ckFhWmJhcXhPbHpKMXZVWWRKSkJwbzZXUWtudy1OWFBrUE1ENHpJUDFlZGpzNjNZd25zbnc?oc=5)
+
+---
+
