@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T11:01:19.108Z",
+  "lastCheckedAt": "2026-11-18T11:19:43.132Z",
   "seenPostIds": {
-    "293c45079e87b8131cf972f3a0deab8540092b4f8a98a1b27821bdc6654b8214": {
-      "seenAt": "2026-11-15T09:11:17.856Z",
-      "title": "[속보] 김민석, ‘언행논란’ 최민희 감찰결과 보고받아…심판원 이첩지시 - 중앙일보",
-      "targetName": "김민석"
-    },
-    "626a00881cc558c9e467ed424e269406951057d3635cf0db0c99c03d41af3f9c": {
-      "seenAt": "2026-11-15T09:21:15.358Z",
-      "title": "조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이 - 머니투데이",
-      "targetName": "조국"
-    },
-    "9dd455127e4b5fb14324e5bdcebfb31d94a2d338fd154bb360ebc224d2e05a7b": {
-      "seenAt": "2026-11-15T09:21:15.984Z",
-      "title": "Trump Hides Out Amid Crisis to Rage Over Golf Course - The Daily Beast",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "bf8b59d27aae4d0704bf1b0ddb0b6a2d46d33c8b6cbd3972ec01e38881766115": {
-      "seenAt": "2026-11-15T09:21:16.596Z",
-      "title": "이재명 대통령 얼굴로 영정사진 만들고···정부, ‘변형현수막’ 집중단속 - 경향신문",
-      "targetName": "이재명"
-    },
-    "0349f2587edf1a0318e3cfbce1ab54a37c6aef114426f1b7cb39586c9521f260": {
-      "seenAt": "2026-11-15T09:31:15.400Z",
-      "title": "김민석, '언행논란' 최민희 감찰결과 보고받고 윤리심판원 이첩 지시 - 뉴스1",
-      "targetName": "김민석"
-    },
-    "c1226d0aa03ca0d0ad65c31fd0c6382caadfdef9d7f40d19a719add984aa98a8": {
-      "seenAt": "2026-11-15T09:31:16.046Z",
-      "title": "[속보]‘칼 뺀’ 김민석…최민희, 윤리심판원으로 이첩 지시 - 문화일보",
-      "targetName": "김민석"
-    },
     "4d05a62d9a74167bdad0f7ff8c3a1c9c30a4128118dcc7cba03449129cc4c177": {
       "seenAt": "2026-11-15T09:31:16.696Z",
       "title": "[속보] 김민석, 최민희 감찰결과 보고받아…윤리심판원 이첩 지시 - 조선일보",
@@ -2530,7 +2500,36 @@
       "seenAt": "2026-11-18T11:11:18.050Z",
       "title": "與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합) - 뉴시스",
       "targetName": "정청래"
+    },
+    "98cae32c64be93bb3559c38815b9b2dda04b093ab4229adf95d3bd3763663a46": {
+      "seenAt": "2026-11-18T11:19:44.655Z",
+      "title": "송영길 \"김민석·정청래 만나 대타협을\" 제안…정청래 \"자격 미달자 나서지 말라\" - 스페셜타임스",
+      "targetName": "송영길"
+    },
+    "754efb5fd2184439a80ff73919267bd22530abb90576e81de20c7b358279de70": {
+      "seenAt": "2026-11-18T11:19:45.254Z",
+      "title": "일본 입국 거부된 조국, 당원들과 세 번째 독도행 예정 - 한국경제",
+      "targetName": "조국"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "526faf49852e678a902102271cc6bb831185c6052280217d647bb2a406ab04a8",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 대통령의 자신만만 수능대책…수험생 분노에 기름 부어 - 폴리타임즈",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE52R0FPazBtZkFKN0tnX2xEVk1zMFFTOEpYTjNyRjhCUFc4eUdHa3dxVjBKTGR1Z256YnluLXVzSU9KcFh6cnFXb1IwRWp2d1g1SXR6UnJ1RmFXdW9qX2pUY2x3VERIM19QSkk2NQ?oc=5\" target=\"_blank\">이재명 대통령의 자신만만 수능대책…수험생 분노에 기름 부어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">폴리타임즈</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52R0FPazBtZkFKN0tnX2xEVk1zMFFTOEpYTjNyRjhCUFc4eUdHa3dxVjBKTGR1Z256YnluLXVzSU9KcFh6cnFXb1IwRWp2d1g1SXR6UnJ1RmFXdW9qX2pUY2x3VERIM19QSkk2NQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 05:36:39 GMT",
+        "source": "폴리타임즈",
+        "ageHours": 5.7
+      },
+      "delivered": [
+        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
+      ],
+      "archived": false
+    }
+  ]
 }

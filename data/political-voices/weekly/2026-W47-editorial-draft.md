@@ -5578,3 +5578,29 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "김민석·정청래 만나 대타협을" 제안…정청래 "자격 미달자 나서지 말라" - 스페셜타임스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "김민석·정청래 만나 대타협을" 제안…정청래 "자격 미달자 나서지 말라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE1PZ0ZqaEVTeHhqVHJVQkpiZ1NHZ1JRZjlFN1AwaG1HejRCREowUWlDb282NlhJaXNUNkF4M2JrS0pUWnZaOFNUUzNySlFSaHN0QlR4UUhUOFpNWV9Pd1VnZ1JwM19WRTJMeXdJVk51Q2RQU28?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 일본 입국 거부된 조국, 당원들과 세 번째 독도행 예정 - 한국경제
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 일본 입국 거부된 조국, 당원들과 세 번째 독도행 예정
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UWFJXeVVUOUk5SDE5aDI3OE5sZDdFVzlqZ2owSGFUWXRRcGdhWUpNSl8tWXFWWVh5dzl6bjZMamdzQmllUWFPNE9OUDV3S1pKVzlYbWswYWFLdw?oc=5)
+
+---
+
