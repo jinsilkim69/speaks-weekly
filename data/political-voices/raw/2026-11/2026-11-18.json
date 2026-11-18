@@ -898,5 +898,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "01afc6e5aa83a7566a49532f3b934c302ae3fd6ba36df8438f08f2f21b2a193e",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "'당 상임고문으로' 명청대전 뛰어든 추미애 \"김민석 신천지 사과로 끝낼 문제 아냐\" - 국제뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE03R1RhQTNiWU82WVVXN09QZWtXSEZZSjVtR2F5OXM5MWJCM1E2dkRVU1ZIZl93bjBfbGwxQXd0N18ycXVJbkFmeEI5SHI1V1NXUDI1Nlp5ZDh4ckVyaEFzZXJlQURTUWRvVkVsejVn?oc=5\" target=\"_blank\">'당 상임고문으로' 명청대전 뛰어든 추미애 \"김민석 신천지 사과로 끝낼 문제 아냐\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03R1RhQTNiWU82WVVXN09QZWtXSEZZSjVtR2F5OXM5MWJCM1E2dkRVU1ZIZl93bjBfbGwxQXd0N18ycXVJbkFmeEI5SHI1V1NXUDI1Nlp5ZDh4ckVyaEFzZXJlQURTUWRvVkVsejVn?oc=5",
+    "pubDate": "Tue, 17 Nov 2026 23:58:45 GMT",
+    "source": "국제뉴스",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '당 상임고문으로' 명청대전 뛰어든 추미애 \"김민석 신천지 사과로 끝낼 문제 아냐\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "1b076c067d5e6214813a762962a0020fb396710c5610693399e8f372aafd8016",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "정청래, '김민석과 대타협 촉구' 송영길에 \"자격 미달자는 나서지 마시라\" - 뉴스핌",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDdkVNVkM3UUg4VUlGTGxZWkM3aGQ4OUlIX1pZWGNhUExsUkt0QjdvOGZIRi1vNlBvMW5ldUV4emtYLThGRmxHajV0bTZyam5xUk5zTU9jZGRtOC1l?oc=5\" target=\"_blank\">정청래, '김민석과 대타협 촉구' 송영길에 \"자격 미달자는 나서지 마시라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDdkVNVkM3UUg4VUlGTGxZWkM3aGQ4OUlIX1pZWGNhUExsUkt0QjdvOGZIRi1vNlBvMW5ldUV4emtYLThGRmxHajV0bTZyam5xUk5zTU9jZGRtOC1l?oc=5",
+    "pubDate": "Tue, 17 Nov 2026 05:30:00 GMT",
+    "source": "뉴스핌",
+    "ageHours": 18.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래, '김민석과 대타협 촉구' 송영길에 \"자격 미달자는 나서지 마시라\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
