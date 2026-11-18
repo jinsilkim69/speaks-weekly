@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T15:41:19.543Z",
+  "lastCheckedAt": "2026-11-18T15:51:22.055Z",
   "seenPostIds": {
-    "0937ca88d7b73e912849e36f397a7c0f118833e6c43d2c97525b77ea9547c471": {
-      "seenAt": "2026-11-15T10:51:16.329Z",
-      "title": "이재명 대통령 “공직자, 인기 얻는 일 아닌 필요한 일 해야...개혁 이름 빌려 방해 용납 어려워” - 시사뉴스",
-      "targetName": "이재명"
-    },
     "f8e9b894248a109f440c595ce97ba45bb7f94b42ff8e78e925f1847d224ab8ab": {
       "seenAt": "2026-11-15T10:51:17.055Z",
       "title": "송영길 의원, 소방재정 안정화 법안 발의…구급차 기준 개선도 추진 - 서울일보",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-18T15:41:20.857Z",
       "title": "장동혁, 추경호 무죄에 주도권 강화?…한동훈 '배신자 프레임' 거세지나 - 더팩트",
       "targetName": "한동훈"
+    },
+    "7d30616b9f9e9821411d9457bb9438ed280d25f59a56da18c955d69d6cd7d187": {
+      "seenAt": "2026-11-18T15:51:23.418Z",
+      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does data show? - BBC",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
