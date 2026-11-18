@@ -6215,3 +6215,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** "최민희 징계 반대" 정청래 참전에 '폭풍전야' - SBS 뉴스
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "최민희 징계 반대" 정청래 참전에 '폭풍전야'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE11Ql9HWEpZSEU4US1Kb0xPVTc0d0tBM1VhMUNnM2pEQVRZcVJGSERpNWN4WTFoSVJWQVNNNUI1aVE5MU5oUzBnLWRDcThRQ19qR3BnVHZtZmZEM3ZRMjByNHUzRVk3MlFrNEHSAWZBVV95cUxPTlhLeVp3SzNVRGFhMEZxX3NxdmFCTkxGYk03dGhIekNYbjRGdFZBRU1qZHdPYVNsSGhrN3BKNmd3ajFNdTUzSXRQZ2paUWN6VmJkX2RuWXFjakdYbmVKYmVTUnJuNGc?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WXLV
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmYwTGk4RHFxZnBCcnZfWFVFcWpOR2ZNam5KeUhGR2VwbVVZdmRwamlrN0tUdm1OM3V4TVh0WHh3V3pUSnZWWktfV2pVbHhPR0J4MzMtVXU5dW5SYlF6amxzOEdjSnB4UGVSa1ZnOEtzaXdTRkJrNXB4MFNraVdaRmJCTTNESlZsX3lYMHlEd1FKbFpyOWFtSzd1Z01paHhzNXp4Z05LeUk3ekhrSHB3TnU5OWt2YjdTOVE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래 "김민석, 녹취록 공개 타이밍 조절했나"…최민희 징계 반대 - 조세일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "김민석, 녹취록 공개 타이밍 조절했나"…최민희 징계 반대
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Z1A0ajNiTjZ4Q1EtbW8xc1BqZTlGQ3V6YjhJTHNVRnZqV0Jva3ZzZDVEY0QxX09JU1ZNUnktVkUzdUNQVmZjWTZZSFkwOFI1elgzUDNpb3RfOGZpSWZv?oc=5)
+
+---
+
