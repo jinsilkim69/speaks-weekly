@@ -4278,3 +4278,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 조국 방일 불허에 "다카이치 총리의 미래지향은 허언인가" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 조국 방일 불허에 "다카이치 총리의 미래지향은 허언인가"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTFAxdF95RlI4b200aE1DY1M3Q2tQaG5OWEdnV0NBMWFES1UtZEtHUEt0Um1YOUNsQzJsOUotR3JTTWU4Y3p5Z0JEYUdOQmpMVU5PdWZ5anJibFN1aDNDSTlQNmZhaDdpbkRoZDZJWFpEX3pnQdIBckFVX3lxTFAxdF95RlI4b200aE1DY1M3Q2tQaG5OWEdnV0NBMWFES1UtZEtHUEt0Um1YOUNsQzJsOUotR3JTTWU4Y3p5Z0JEYUdOQmpMVU5PdWZ5anJibFN1aDNDSTlQNmZhaDdpbkRoZDZJWFpEX3pnQQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "日 조국 방일 불허, 독도 망언 계속 하겠다는 의지인가…강력 규탄" - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "日 조국 방일 불허, 독도 망언 계속 하겠다는 의지인가…강력 규탄"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBHVDZGSkFZTmlXbzRFQzFfOEo0bE1kazhmNEZTaTNwNlJXT1pObllnTENpZWZGSWNmUzRDWHNrMXUxNTkyUl82bWowQmNoT1BvVTdDT0VMR2dIb29zOHRtVkZDY1lYa04wZU1WcmZIM2c0TkJhNHNmcNIBeEFVX3lxTFBHVDZGSkFZTmlXbzRFQzFfOEo0bE1kazhmNEZTaTNwNlJXT1pObllnTENpZWZGSWNmUzRDWHNrMXUxNTkyUl82bWowQmNoT1BvVTdDT0VMR2dIb29zOHRtVkZDY1lYa04wZU1WcmZIM2c0TkJhNHNmcA?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 최고위 발언하는 신장식 조국혁신당 대표 - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최고위 발언하는 신장식 조국혁신당 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE9zaUgwMGM0RDZFV0JJNTJnQjVPNmlTenhVdThnd2xWaHBwTWNqeFUwUTcwNjBzUG1BUEFrNWx5ZWU5NG9ybURnUGQ4b1pyV0VIOXVhbXlWb3RwSXp6dVJuMld1RzA3S0pYVDRKUWpES0pBZ19LR29OYdIBeEFVX3lxTE9zaUgwMGM0RDZFV0JJNTJnQjVPNmlTenhVdThnd2xWaHBwTWNqeFUwUTcwNjBzUG1BUEFrNWx5ZWU5NG9ybURnUGQ4b1pyV0VIOXVhbXlWb3RwSXp6dVJuMld1RzA3S0pYVDRKUWpES0pBZ19LR29OYQ?oc=5)
+
+---
+
