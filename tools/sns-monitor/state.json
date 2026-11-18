@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-18T00:51:18.714Z",
       "title": "추미애, 최민희 징계 수순에 \"김민석 마타도어부터 판단해야\" - 이데일리",
       "targetName": "김민석"
+    },
+    "e3b3e387e7dbd504e13c5219a02c718c6c03e81f2fefe4ce9d4700556d36c20d": {
+      "seenAt": "2026-11-18T01:01:17.103Z",
+      "title": "우원식 “민주당, 정청래당도 김민석당도 아냐…의석 수 쪼그라들 수도” - 한겨레",
+      "targetName": "정청래"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "e3b3e387e7dbd504e13c5219a02c718c6c03e81f2fefe4ce9d4700556d36c20d",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "우원식 “민주당, 정청래당도 김민석당도 아냐…의석 수 쪼그라들 수도” - 한겨레",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVTdVZWVUUndfaVg0V3RFYnhadlBPVTU1SWNUajFUa2FJQTJyYkZ0YTVKNHF4dFc5RERoVFZMQk1NR0ZVTTJlLXFPNlRWdDZ6elgyeDZfUVBmQnhTdkV6NVZFbFJnUFVpdC1fX1o2VW5JMVl6?oc=5\" target=\"_blank\">우원식 “민주당, 정청래당도 김민석당도 아냐…의석 수 쪼그라들 수도”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVTdVZWVUUndfaVg0V3RFYnhadlBPVTU1SWNUajFUa2FJQTJyYkZ0YTVKNHF4dFc5RERoVFZMQk1NR0ZVTTJlLXFPNlRWdDZ6elgyeDZfUVBmQnhTdkV6NVZFbFJnUFVpdC1fX1o2VW5JMVl6?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 00:42:00 GMT",
-        "source": "한겨레",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
