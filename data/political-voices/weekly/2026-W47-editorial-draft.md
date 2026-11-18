@@ -4356,3 +4356,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁 ‘징계조작’ 의혹 침묵모드…한동훈에 쏠리는 눈 [이런정치] - 헤럴드경제
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 ‘징계조작’ 의혹 침묵모드…한동훈에 쏠리는 눈
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hSDlFc2tmdnE3M0RmMFMySWtqVzBfWDBtamY2WktZZGtRSG1nTlpNMTBQT3p0elF1YnVnbnhXa3d1ZllqTUFvMFAzZ0JIZG9LMFZPS3Vn?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 조작징계 공방에 오세훈 비대위론까지…국힘 다시 혼란 속으로 - 쿠키뉴스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 조작징계 공방에 오세훈 비대위론까지…국힘 다시 혼란 속으로
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oYUNPTHhZaXgyLWZrTklsV3UyNi0yZE55N3g1eklLbHpVb0MweXo4N29wZXpPQzJvcnlfTjVsZmdpRVpva2stcVl3Ui1GMXdYMm9YRUt1bVZyVm5MM0h5cmhWdw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 우원식 "민주당은 김민석·정청래 당 아냐…추미애는 말 얹지 말고 경기도 집중해야" - 조선일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 우원식 "민주당은 김민석·정청래 당 아냐…추미애는 말 얹지 말고 경기도 집중해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEtrX1BwTWVLMi1kdUpEcDZ0XzFvOWxNVHp6WEFTenZKMllKRmMxTllsM2NwYjBPaXJMWU5lVkpBTV84am5ZMDc0QmR3NWhsM3VtYWx1eHcxeFNyRC1ONjVKMHdnRmdzQmtTcHJzN1RQUDZONjVvSk51Vzg4ckZDNklwSmxxSmZ4VmlZRDVwVDI?oc=5)
+
+---
+

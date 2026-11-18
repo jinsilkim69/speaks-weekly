@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T04:51:19.583Z",
+  "lastCheckedAt": "2026-11-18T05:11:18.362Z",
   "seenPostIds": {
-    "a31bf0415996784b7fe4b9999e52c5269bd923a85cb20d87c0118ff46fc28698": {
-      "seenAt": "2026-11-14T16:41:17.811Z",
-      "title": "“노무현 추천서로 하버드?”…이준석, 전한길 추가 고소 예고 - 매일경제",
-      "targetName": "이준석"
-    },
     "842a22bd19c0a18e3a19718350b9ed9cd14e8a52517c2251ca121e77409a5b33": {
       "seenAt": "2026-11-14T16:41:18.492Z",
       "title": "'Disaster for justice': Trump slams Newsom's plan to commute California's death sentences - WCIV",
@@ -2505,7 +2500,39 @@
       "seenAt": "2026-11-18T04:51:21.116Z",
       "title": "[속보] 조국, 2년 전 日의원 \"입국 블랙리스트\" 요구 회의록 공개…독도 방문 보복 의혹 증거 제시 - 매일신문",
       "targetName": "조국"
+    },
+    "6e550718d3e7b911a09fad0da2f30b3f03b2d0d07c314405dad518004493d5a0": {
+      "seenAt": "2026-11-18T05:11:19.857Z",
+      "title": "장동혁 ‘징계조작’ 의혹 침묵모드…한동훈에 쏠리는 눈 [이런정치] - 헤럴드경제",
+      "targetName": "한동훈"
+    },
+    "9c6168d480c8e9929790f1da19b4bc31dfbdb34f57261c5baabcda05b735cc63": {
+      "seenAt": "2026-11-18T05:11:20.621Z",
+      "title": "한동훈 조작징계 공방에 오세훈 비대위론까지…국힘 다시 혼란 속으로 - 쿠키뉴스",
+      "targetName": "한동훈"
+    },
+    "c154dc46d6a519690e745f9230b98eeadffc303aac24fed2ec7239bccccb6dae": {
+      "seenAt": "2026-11-18T05:11:22.200Z",
+      "title": "우원식 \"민주당은 김민석·정청래 당 아냐…추미애는 말 얹지 말고 경기도 집중해야\" - 조선일보",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "feda27ad09cb82c39c799414310642a9c880858239fad5325adf62335165972f",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석표 코리요스캔 수능 투입 요구…개혁신당 정부, 오늘 안에 검증하라 - 아주경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zVF80azNmYzhJRTB2Z0tqam5fbEFaYWZ3YWNpejZ6Q2t6eVpBUV9iaUZUeEluQ0lUYXk2aFNmeWJtQWxibDRyMnk1SkFhbWcxY3MydEc4S1TSAVhBVV95cUxNM1RfNGszZmM4SUUwdmdLampuX2xBWmFmd2FjaXo2ekNrenlaQVFfYmlGVHhJbkNJVGF5NmhTZnlibUFsYmw0cjJ5NUpBYW1nMWNzMnRHOEtU?oc=5\" target=\"_blank\">이준석표 코리요스캔 수능 투입 요구…개혁신당 정부, 오늘 안에 검증하라</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아주경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zVF80azNmYzhJRTB2Z0tqam5fbEFaYWZ3YWNpejZ6Q2t6eVpBUV9iaUZUeEluQ0lUYXk2aFNmeWJtQWxibDRyMnk1SkFhbWcxY3MydEc4S1TSAVhBVV95cUxNM1RfNGszZmM4SUUwdmdLampuX2xBWmFmd2FjaXo2ekNrenlaQVFfYmlGVHhJbkNJVGF5NmhTZnlibUFsYmw0cjJ5NUpBYW1nMWNzMnRHOEtU?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 02:50:33 GMT",
+        "source": "아주경제",
+        "ageHours": 2.3
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
