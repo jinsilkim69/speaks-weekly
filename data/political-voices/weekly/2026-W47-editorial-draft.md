@@ -3953,3 +3953,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 전용기 "조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 전용기 "조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE5yUG1iUjAzTHhyYi1KVGJEQXprUjk3M0JZWU82MmJrSkZOS2JvWmhsUzlhSHNOeTJUc1dId3FUcWhBajBCdEZ0QmI4bWRJMFZVRFFBemJLVnJrelVOUGRlR3RRR2cyV1FYMXBvMmczVkhPLUg4ZE5XZ3Jn0gF_QVVfeXFMTlA4c3dXcGpBR0tGZWlqOEJMU3FZVy0xeFVVZzJZdUd0a3RGemF0ZUxUVWRSZmlpTENCVTFnSkt5c0pOUFdNbUV2NUNjY1NQQ0MxdzFDWjZwTFUxcG1vQ21BX3FTcHdpbzVSaTN4emZOenktMzNqdG44dFBxOUNkSQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump’s Markwayne Mullin Story With Apparent AI Images Draws 25th Amendment Calls - Yahoo
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump’s Markwayne Mullin Story With Apparent AI Images Draws 25th Amendment Calls
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjMza2ltUHl0TjhucS1kaEJrT0lyeWVzeEhjLS1GR3RmaEI1SFhXbzFaMGxfdE81Vm9WNDFVUlVDTS1TY1ZmWXVja3FGRlZLNlB5UEJ1R2xIVUhMeWV0UnAzZXhVRUJlRUNBaUxsRjBGWUZvVGNGSjcwbW90aHl3bDgzTGVrLWc4SnlXZnNmZWpjd09lOWVPc2NtVQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Biden’s fault? Trump’s fault? Fact-checking the partisan blame game about the FAA ground stop - PolitiFact
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Biden’s fault? Trump’s fault? Fact-checking the partisan blame game about the FAA ground stop
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3ZOaWw4X2JmZEJqLUVNY1p2NlZfak83Tk9aZElPNU80NHZYczk2bDdnVFJaUEFKRXhaSllKOVlaWm9obGczZkswNGlLT0ZCS25qaW1BeVh2eW5PLS0yMWJfMWxHZklsM0xHdlVfRVF3ZDViRnFKMUI1R3l4VmhMbXdoQkt2Qnc3MVRMTjM5Sm9uaVdXNWs0?oc=5)
+
+---
+

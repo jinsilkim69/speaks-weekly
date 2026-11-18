@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T02:11:19.964Z",
+  "lastCheckedAt": "2026-11-18T02:21:15.869Z",
   "seenPostIds": {
-    "ee3958775f5a2f69c257b1b8a34d5343d412de4f31b4cfc6801fd027db20a684": {
-      "seenAt": "2026-11-14T10:11:19.267Z",
-      "title": "[속보] 최민희·한동훈, 이재명·윤석열 재판 놓고 SNS 설전…“시한부 대통령” vs “공작재판” - 강원일보",
-      "targetName": "한동훈"
-    },
-    "c10c8b61a29b5740a53f1f000e4ff549789da2181ca41b662ab1e4cc66f95eb6": {
-      "seenAt": "2026-11-14T10:31:15.280Z",
-      "title": "최민희·한동훈 ‘李·尹 선거법 재판 비교 발언’ 놓고 SNS 공방 - 천지일보",
-      "targetName": "한동훈"
-    },
-    "78c26115c371a9a40d29a0504993c8f3a8317c9c42a8bf441ca4067157719c98": {
-      "seenAt": "2026-11-14T10:31:16.005Z",
-      "title": "최민희 “통일교가 김민석 밀었다” 녹취 파장…국힘 “특검하라” - 중앙일보",
-      "targetName": "김민석"
-    },
     "33f086cb837698870580c2df36eedd820c9839327ffbaf56c5b037dad693d314": {
       "seenAt": "2026-11-14T10:31:16.773Z",
       "title": "이준석 \"노무현 대통령 추천서로 하버드 입학?\"⋯전한길 추가 고소 예고 - 아이뉴스24",
@@ -2515,53 +2500,68 @@
       "seenAt": "2026-11-18T02:11:22.321Z",
       "title": "전용기 \"조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋\" - 뉴시스",
       "targetName": "조국"
+    },
+    "d315b0534af6d32e5634bd02996cc1c969c2123b51245000e9bd607fc00358c3": {
+      "seenAt": "2026-11-18T02:21:16.908Z",
+      "title": "전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이 - 머니투데이",
+      "targetName": "조국"
+    },
+    "d9fa26765403287d8bc1314ebd62508f2a19f2a25a3c869354af36edeafa0f30": {
+      "seenAt": "2026-11-18T02:21:17.523Z",
+      "title": "Donald Trump’s Markwayne Mullin Story With Apparent AI Images Draws 25th Amendment Calls - Yahoo",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8ea954958a97e1e02dbf38e7db7c83034b3d07104035cf6701b5612b602cbbe2": {
+      "seenAt": "2026-11-18T02:21:18.391Z",
+      "title": "Biden’s fault? Trump’s fault? Fact-checking the partisan blame game about the FAA ground stop - PolitiFact",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "d315b0534af6d32e5634bd02996cc1c969c2123b51245000e9bd607fc00358c3",
+        "id": "d137b454df82b62f36e12edee78948d446e7a6683a6c1bc69c0909ca0c3a522f",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "[속보]이준석 “영국 출장 비행기서 AI커닝 방지 앱 개발…수능 때 이용하라” - 국제신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1VPUnpMRlo0b0VpVTVuai00MmExRWQ3dnI5ck9HY3NhdWo3eWEzLV8xUHhXS00yel9fZlV6d19xM2xfS0lVOFNaNVY1Y2JtZllPa1hRMVQzT1o0blh0U1lfQnZNUW1HY1Y3d3lESWt4N2ttZUVwTFM2M0I5Mnc3LU91Q1M3M2x3SDcwMVB3?oc=5\" target=\"_blank\">[속보]이준석 “영국 출장 비행기서 AI커닝 방지 앱 개발…수능 때 이용하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1VPUnpMRlo0b0VpVTVuai00MmExRWQ3dnI5ck9HY3NhdWo3eWEzLV8xUHhXS00yel9fZlV6d19xM2xfS0lVOFNaNVY1Y2JtZllPa1hRMVQzT1o0blh0U1lfQnZNUW1HY1Y3d3lESWt4N2ttZUVwTFM2M0I5Mnc3LU91Q1M3M2x3SDcwMVB3?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 05:02:00 GMT",
+        "source": "국제신문",
+        "ageHours": 21.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "c33712affe0a897d8053a1441e62023a4c9fe85dcb1c6a9d26a23cab1273ebb8",
         "targetId": "cho_kuk",
         "targetName": "조국",
         "targetTitle": "조국혁신당 대표",
         "title": "전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5yUG1iUjAzTHhyYi1KVGJEQXprUjk3M0JZWU82MmJrSkZOS2JvWmhsUzlhSHNOeTJUc1dId3FUcWhBajBCdEZ0QmI4bWRJMFZVRFFBemJLVnJrelVOUGRlR3RRR2cyV1FYMXBvMmczVkhPLUg4ZE5XZ3Jn0gF_QVVfeXFMTlA4c3dXcGpBR0tGZWlqOEJMU3FZVy0xeFVVZzJZdUd0a3RGemF0ZUxUVWRSZmlpTENCVTFnSkt5c0pOUFdNbUV2NUNjY1NQQ0MxdzFDWjZwTFUxcG1vQ21BX3FTcHdpbzVSaTN4emZOenktMzNqdG44dFBxOUNkSQ?oc=5\" target=\"_blank\">전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yUG1iUjAzTHhyYi1KVGJEQXprUjk3M0JZWU82MmJrSkZOS2JvWmhsUzlhSHNOeTJUc1dId3FUcWhBajBCdEZ0QmI4bWRJMFZVRFFBemJLVnJrelVOUGRlR3RRR2cyV1FYMXBvMmczVkhPLUg4ZE5XZ3Jn0gF_QVVfeXFMTlA4c3dXcGpBR0tGZWlqOEJMU3FZVy0xeFVVZzJZdUd0a3RGemF0ZUxUVWRSZmlpTENCVTFnSkt5c0pOUFdNbUV2NUNjY1NQQ0MxdzFDWjZwTFUxcG1vQ21BX3FTcHdpbzVSaTN4emZOenktMzNqdG44dFBxOUNkSQ?oc=5",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE13TlJfcGxCSVQwS3N2bDR3VlBQWE9pU29JcUppWDVLdUsycGluYURXUlkwQjRzSmNWZ1hXZm1jWTNrVXdWUEdzb0FxZVM4MnlhN05teWFvd20xeFlQTWlXZHd2TjVxZWloREM1YW1CQTB5Z9IBckFVX3lxTE13TlJfcGxCSVQwS3N2bDR3VlBQWE9pU29JcUppWDVLdUsycGluYURXUlkwQjRzSmNWZ1hXZm1jWTNrVXdWUEdzb0FxZVM4MnlhN05teWFvd20xeFlQTWlXZHd2TjVxZWloREM1YW1CQTB5Zw?oc=5\" target=\"_blank\">전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13TlJfcGxCSVQwS3N2bDR3VlBQWE9pU29JcUppWDVLdUsycGluYURXUlkwQjRzSmNWZ1hXZm1jWTNrVXdWUEdzb0FxZVM4MnlhN05teWFvd20xeFlQTWlXZHd2TjVxZWloREM1YW1CQTB5Z9IBckFVX3lxTE13TlJfcGxCSVQwS3N2bDR3VlBQWE9pU29JcUppWDVLdUsycGluYURXUlkwQjRzSmNWZ1hXZm1jWTNrVXdWUEdzb0FxZVM4MnlhN05teWFvd20xeFlQTWlXZHd2TjVxZWloREM1YW1CQTB5Zw?oc=5",
         "pubDate": "Wed, 18 Nov 2026 00:25:57 GMT",
         "source": "머니투데이",
-        "ageHours": 1.8
+        "ageHours": 1.9
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "d9fa26765403287d8bc1314ebd62508f2a19f2a25a3c869354af36edeafa0f30",
+        "id": "f338221567eacc96e64cfa4be8fc74b026b4082f2107b16dc23ca06cc5c93707",
         "targetId": "donald_trump",
         "targetName": "도널드 트럼프 (Donald Trump)",
         "targetTitle": "미국 대통령",
-        "title": "Donald Trump’s Markwayne Mullin Story With Apparent AI Images Draws 25th Amendment Calls - Yahoo",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjMza2ltUHl0TjhucS1kaEJrT0lyeWVzeEhjLS1GR3RmaEI1SFhXbzFaMGxfdE81Vm9WNDFVUlVDTS1TY1ZmWXVja3FGRlZLNlB5UEJ1R2xIVUhMeWV0UnAzZXhVRUJlRUNBaUxsRjBGWUZvVGNGSjcwbW90aHl3bDgzTGVrLWc4SnlXZnNmZWpjd09lOWVPc2NtVQ?oc=5\" target=\"_blank\">Donald Trump’s Markwayne Mullin Story With Apparent AI Images Draws 25th Amendment Calls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjMza2ltUHl0TjhucS1kaEJrT0lyeWVzeEhjLS1GR3RmaEI1SFhXbzFaMGxfdE81Vm9WNDFVUlVDTS1TY1ZmWXVja3FGRlZLNlB5UEJ1R2xIVUhMeWV0UnAzZXhVRUJlRUNBaUxsRjBGWUZvVGNGSjcwbW90aHl3bDgzTGVrLWc4SnlXZnNmZWpjd09lOWVPc2NtVQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:23:10 GMT",
+        "title": "Trump Unravels on Economy in Unhinged Truth Social Tirade - Yahoo",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNS0xjX0xKU1FyM3c1Rmk3T0NodjZPX1ZtR01IcFJVbXh1a3BCV0ZURnJoZ1pab2NWcHJUdmtESmxncDBaX0l6bkw4X0RYcnR6NU9QaDNyZWt2Q01fQXk1bGZRMnV4dEJqTEdJZ2pNdHhhaUZCODFtcG40b0lObmtZRnVzY1NqWlRUUE9EOWpvRFlkXzI1Um9Ca1c2dUlEUQ?oc=5\" target=\"_blank\">Trump Unravels on Economy in Unhinged Truth Social Tirade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0xjX0xKU1FyM3c1Rmk3T0NodjZPX1ZtR01IcFJVbXh1a3BCV0ZURnJoZ1pab2NWcHJUdmtESmxncDBaX0l6bkw4X0RYcnR6NU9QaDNyZWt2Q01fQXk1bGZRMnV4dEJqTEdJZ2pNdHhhaUZCODFtcG40b0lObmtZRnVzY1NqWlRUUE9EOWpvRFlkXzI1Um9Ca1c2dUlEUQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 11:19:25 GMT",
         "source": "Yahoo",
-        "ageHours": 17.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "8ea954958a97e1e02dbf38e7db7c83034b3d07104035cf6701b5612b602cbbe2",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Biden’s fault? Trump’s fault? Fact-checking the partisan blame game about the FAA ground stop - PolitiFact",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3ZOaWw4X2JmZEJqLUVNY1p2NlZfak83Tk9aZElPNU80NHZYczk2bDdnVFJaUEFKRXhaSllKOVlaWm9obGczZkswNGlLT0ZCS25qaW1BeVh2eW5PLS0yMWJfMWxHZklsM0xHdlVfRVF3ZDViRnFKMUI1R3l4VmhMbXdoQkt2Qnc3MVRMTjM5Sm9uaVdXNWs0?oc=5\" target=\"_blank\">Biden’s fault? Trump’s fault? Fact-checking the partisan blame game about the FAA ground stop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PolitiFact</font>",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3ZOaWw4X2JmZEJqLUVNY1p2NlZfak83Tk9aZElPNU80NHZYczk2bDdnVFJaUEFKRXhaSllKOVlaWm9obGczZkswNGlLT0ZCS25qaW1BeVh2eW5PLS0yMWJfMWxHZklsM0xHdlVfRVF3ZDViRnFKMUI1R3l4VmhMbXdoQkt2Qnc3MVRMTjM5Sm9uaVdXNWs0?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 20:53:53 GMT",
-        "source": "PolitiFact",
-        "ageHours": 5.3
+        "ageHours": 15
       },
       "delivered": [],
       "archived": false
