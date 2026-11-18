@@ -1148,5 +1148,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e6f7107c0ee381bcb56611e9f6683b1c98bfe59f7ca5a08d1d11fe1c73af2eda",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "조용하던 추미애, 김민석 다시 저격…“반민주적 마타도어, 엄중 판단해야” - 에너지경제신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBySnFyTHZsdnZEc0FRdEZ1NEUxd1duWFdMTV9KakdWZzhLS05laFAtSTVrQmRpWld5TXpWQllwRVJBWDJ1c2FudWczV1VnbDdTTDFzdTBkWHI1ZnpFT25sWUwwZw?oc=5\" target=\"_blank\">조용하던 추미애, 김민석 다시 저격…“반민주적 마타도어, 엄중 판단해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBySnFyTHZsdnZEc0FRdEZ1NEUxd1duWFdMTV9KakdWZzhLS05laFAtSTVrQmRpWld5TXpWQllwRVJBWDJ1c2FudWczV1VnbDdTTDFzdTBkWHI1ZnpFT25sWUwwZw?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 00:32:18 GMT",
+    "source": "에너지경제신문",
+    "ageHours": 0.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조용하던 추미애, 김민석 다시 저격…“반민주적 마타도어, 엄중 판단해야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
