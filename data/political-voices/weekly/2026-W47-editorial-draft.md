@@ -4148,3 +4148,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 정청래, 조국 방일 불허에 "다카이치 총리의 미래지향은 허언인가" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 조국 방일 불허에 "다카이치 총리의 미래지향은 허언인가"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kTi0zZzM3N3E4bmtrZ2hHOE44Q19zY05Xa0psWXBUQW5WSDl6Y1lOdnlvaXdXWHdQX0NnZ2NUTkJ6alNjZzBaNjVPUHBPbkw0bFl4U003WjJmNnVHbk9aaGRLUWViVDFZZ2ViM9IBckFVX3lxTFAxdF95RlI4b200aE1DY1M3Q2tQaG5OWEdnV0NBMWFES1UtZEtHUEt0Um1YOUNsQzJsOUotR3JTTWU4Y3p5Z0JEYUdOQmpMVU5PdWZ5anJibFN1aDNDSTlQNmZhaDdpbkRoZDZJWFpEX3pnQQ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 발언하는 신장식 대표 - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 발언하는 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE90QkhWbkVRWTQ3QkI4aVcyd19kVWRJcWloSlh5SEZlZG9ubmJ1VnJOMTN2Q0NLRTQyaTFoUlBqVnJWQ2dkRXZVaFJJbnJDaElfM3dTM2NhRU5VY3VURld0elduVC1jRHBSN0JxZFlhcUdjMDZaMWJoSNIBeEFVX3lxTE90QkhWbkVRWTQ3QkI4aVcyd19kVWRJcWloSlh5SEZlZG9ubmJ1VnJOMTN2Q0NLRTQyaTFoUlBqVnJWQ2dkRXZVaFJJbnJDaElfM3dTM2NhRU5VY3VURld0elduVC1jRHBSN0JxZFlhcUdjMDZaMWJoSA?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Says US Will Not Attack Iran Before Midterm Elections in November - EnergyNow.com
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Says US Will Not Attack Iran Before Midterm Elections in November
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWi1Kb1dQRjFRWVF4b1RSMnc4R1p2T3NTY0tJTHRqbkxZaWVGNXA5ZWNqZFRFNkpLM2picTJUNWVOQjRNcFZUZHRlQWdCQk52OGhXaFpKWl9PRnFrNF8wWk9oVi1TalJWdFhfV1lMZWRvY3UwZTNsSks5Z2JycExHMUd1anZaYWx2aUctSmVBRmdQUllxVkdQWjZKQk1UbEVDZTk4Ug?oc=5)
+
+---
+
