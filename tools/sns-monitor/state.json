@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T13:41:19.504Z",
+  "lastCheckedAt": "2026-11-18T13:51:18.283Z",
   "seenPostIds": {
-    "39b01e4f9951dcd8ae3f06abe76fc6c8569ea601e8c593beeb313f4cfb903554": {
-      "seenAt": "2026-11-15T10:21:22.895Z",
-      "title": "김민석 대표, ‘최민희 발언 논란’ 윤리심판원 이첩 지시…징계 수순 - 국제신문",
-      "targetName": "김민석"
-    },
     "e9d8f2a2e4125170a7e8b629df24b967ff17674659177690158f5c841d32e3b6": {
       "seenAt": "2026-11-15T10:31:15.527Z",
       "title": "김민석, 최민희 언행 논란 윤리심판원 이첩…사실상 징계 수순 - 강원도민일보",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-18T13:41:20.927Z",
       "title": "한동훈, 추경호 1심 무죄에 “당연한 귀결 환영” - 문화일보",
       "targetName": "한동훈"
+    },
+    "84775e011d6e306c12ea8c21b8ba81db0fe14b7aa44572b78c80c98523695ded": {
+      "seenAt": "2026-11-18T13:51:19.427Z",
+      "title": "Trump touts ‘landmark’ trade deal with Philippines - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
