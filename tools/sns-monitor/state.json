@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T10:41:17.027Z",
+  "lastCheckedAt": "2026-11-18T10:51:16.437Z",
   "seenPostIds": {
-    "64149518f0b51372e594e06797e64febcc6fce619d425262c398c3ef5f5c854c": {
-      "seenAt": "2026-11-15T08:31:17.053Z",
-      "title": "조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이 - 머니투데이",
-      "targetName": "조국"
-    },
-    "6b95da9fabf5fe8da92447e218d21c0f2647707ddd7bf63400677ee5b372c0b9": {
-      "seenAt": "2026-11-15T08:41:18.259Z",
-      "title": "한동훈 \"시한부 대통령\"-최민희 \"거짓말 마라\" - 더리포트",
-      "targetName": "한동훈"
-    },
-    "255b313542c6d430f771b8f9c0a4f6acd51bc154d63f8ae06cde13a773d1a3db": {
-      "seenAt": "2026-11-15T09:01:16.222Z",
-      "title": "손수조 \"'드루킹' 김경수 감옥, '당게' 한동훈은...곧 발표, 징계조작은 무슨, '조작기소' 李 닮아가나\"[여의도 진검승부] - KBC광주방송",
-      "targetName": "한동훈"
-    },
     "bc0b4f3deca718ddb038ddccfa6e20a57601de44bc7cd9b41a815c3f5fc1dae0": {
       "seenAt": "2026-11-15T09:01:16.871Z",
       "title": "고개 숙인 최민희, 반격 포문?...국힘은 '한동훈 복당' 갑론을박 - YTN",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-18T10:41:19.586Z",
       "title": "추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야” - 세계일보",
       "targetName": "한동훈"
+    },
+    "efc237d3b8ff4acace85cc7978f04fef65f9252769fb6171f601260ccdf0bfd7": {
+      "seenAt": "2026-11-18T10:51:17.476Z",
+      "title": "[단독] 정청래 “최민희 녹취록 타이밍 조절?”…김우영 “김민석, 전체 녹취 없었다” - 시사저널",
+      "targetName": "김민석"
+    },
+    "9d21e2b63203149f907116ef3aab058ed3c3e4ade303f18c7a0933b8b334598d": {
+      "seenAt": "2026-11-18T10:51:18.099Z",
+      "title": "與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합) - 뉴시스",
+      "targetName": "정청래"
+    },
+    "4b10f28dac3f2bfb71be9a20e85ef0478e39b6080dcd6cca4206b89a91d07e61": {
+      "seenAt": "2026-11-18T10:51:18.771Z",
+      "title": "정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이 - 머니투데이",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "efc237d3b8ff4acace85cc7978f04fef65f9252769fb6171f601260ccdf0bfd7",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "[단독] 정청래 “최민희 녹취록 타이밍 조절?”…김우영 “김민석, 전체 녹취 없었다” - 시사저널",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5BanBlaW1NRGhJcXVUcTRkN0hNT3JNcHJ0UWM2VXF3SXZrbXZ4UWk3VzliNFBCWXI4VVZSbDF0bU5HNXp5aXpkMUNvSEZfMFV2YnVQV3RlR1BQcmUyenpDdXJqa0x4S1IwX1I4YVJmTG9wTEHSAXNBVV95cUxOQWpwZWltTURoSXF1VHE0ZDdITU9yTXBydFFjNlVxd0l2a212eFFpN1c5YjRQQllyOFVWUmwxdG1ORzV6eWl6ZDFDb0hGXzBVdmJ1UFd0ZUdQUHJlMnp6Q3VyamtMeEtSMF9SOGFSZkxvcExB?oc=5\" target=\"_blank\">[단독] 정청래 “최민희 녹취록 타이밍 조절?”…김우영 “김민석, 전체 녹취 없었다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BanBlaW1NRGhJcXVUcTRkN0hNT3JNcHJ0UWM2VXF3SXZrbXZ4UWk3VzliNFBCWXI4VVZSbDF0bU5HNXp5aXpkMUNvSEZfMFV2YnVQV3RlR1BQcmUyenpDdXJqa0x4S1IwX1I4YVJmTG9wTEHSAXNBVV95cUxOQWpwZWltTURoSXF1VHE0ZDdITU9yTXBydFFjNlVxd0l2a212eFFpN1c5YjRQQllyOFVWUmwxdG1ORzV6eWl6ZDFDb0hGXzBVdmJ1UFd0ZUdQUHJlMnp6Q3VyamtMeEtSMF9SOGFSZkxvcExB?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 08:27:00 GMT",
-        "source": "시사저널",
-        "ageHours": 2.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "9d21e2b63203149f907116ef3aab058ed3c3e4ade303f18c7a0933b8b334598d",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합) - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LOC1Ha1JRZHh1cmt4SXBwbVo1SlBMRFJ1dzNlQ3dBUzZiUms1aGt1X1BIUXV4M2g4RWZRQWlwQlNwUnV4UGZiZ2R3c1oxZElpZlFKdU9uYnhOUTlsclBGNtIBeEFVX3lxTFBLR0VpRkFacXRDWC1JR05YY1FJbzFiT3FNdXFndFBfcWduRWdDZVFmT05EZFVOYndCcWl3eUcydDRoMEl5d3pxSzF1V1RRNFZtaEFsNkFFajRNMWVRamtWX2NmTG1XUXRjRXpOTVY5MHpIUVFnQl96aw?oc=5\" target=\"_blank\">與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LOC1Ha1JRZHh1cmt4SXBwbVo1SlBMRFJ1dzNlQ3dBUzZiUms1aGt1X1BIUXV4M2g4RWZRQWlwQlNwUnV4UGZiZ2R3c1oxZElpZlFKdU9uYnhOUTlsclBGNtIBeEFVX3lxTFBLR0VpRkFacXRDWC1JR05YY1FJbzFiT3FNdXFndFBfcWduRWdDZVFmT05EZFVOYndCcWl3eUcydDRoMEl5d3pxSzF1V1RRNFZtaEFsNkFFajRNMWVRamtWX2NmTG1XUXRjRXpOTVY5MHpIUVFnQl96aw?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 10:01:05 GMT",
-        "source": "뉴시스",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4b10f28dac3f2bfb71be9a20e85ef0478e39b6080dcd6cca4206b89a91d07e61",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBoeG9nZFkzYlpLMFNpMExzWC13NlNidUNaR0IzY3prMjdfRTNqTmtDdV82cFlxN3VEU0VfaTl1RXZsSDlFV2hPSF9VYXJzU0lxNWFJMUNCamU3RmM5akpHU3hSQUEtSlVEd2Z3S0JETDU4VWxNRjRETVdn0gF_QVVfeXFMTUtsdDVORE8zSHpES2xsZDhrcTRlemc4Q3NFeFUzVjBJZFFCb0pNTnRVajBuY2xPcHRGR3dOSENsWGlEZlcwbzNnTmZMNGRDei1iVXhKc2ZUZTNvc2lhbmJRbU9sMzN6a0lGNWJ0Q3NMRGR5eV8xVHFlR0tvVGNpTQ?oc=5\" target=\"_blank\">정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoeG9nZFkzYlpLMFNpMExzWC13NlNidUNaR0IzY3prMjdfRTNqTmtDdV82cFlxN3VEU0VfaTl1RXZsSDlFV2hPSF9VYXJzU0lxNWFJMUNCamU3RmM5akpHU3hSQUEtSlVEd2Z3S0JETDU4VWxNRjRETVdn0gF_QVVfeXFMTUtsdDVORE8zSHpES2xsZDhrcTRlemc4Q3NFeFUzVjBJZFFCb0pNTnRVajBuY2xPcHRGR3dOSENsWGlEZlcwbzNnTmZMNGRDei1iVXhKc2ZUZTNvc2lhbmJRbU9sMzN6a0lGNWJ0Q3NMRGR5eV8xVHFlR0tvVGNpTQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 08:58:53 GMT",
-        "source": "머니투데이",
-        "ageHours": 1.7
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "579928752b018443304ad627e03804aa23d8b6d12964316f228b01d15c7b33ff",
@@ -2626,6 +2578,22 @@
         "pubDate": "Wed, 18 Nov 2026 10:35:14 GMT",
         "source": "Facebook",
         "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b4224be1e987f23492f941d9553ef8188798b15b5338b69964436ddcf01d3837",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "\"독도 상륙한 조국씨는...\" 일본 의회서 세 차례나 문제삼았다 - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9aQUo0TFdWSU5aZlNxdVhNUjlxS1NLLTRUX29mam9IV0JfWHZuYjN4Tzl6dlFtUUpFWG5XMUNvWlBCSFJRNWdmZ3k0NHZYakxiVkplNE5fc3UtRS1DaWRQQUp5akdpQ3ktWWJLaW9UcW5tbkd4X3lj?oc=5\" target=\"_blank\">\"독도 상륙한 조국씨는...\" 일본 의회서 세 차례나 문제삼았다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aQUo0TFdWSU5aZlNxdVhNUjlxS1NLLTRUX29mam9IV0JfWHZuYjN4Tzl6dlFtUUpFWG5XMUNvWlBCSFJRNWdmZ3k0NHZYakxiVkplNE5fc3UtRS1DaWRQQUp5akdpQ3ktWWJLaW9UcW5tbkd4X3lj?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 09:22:00 GMT",
+        "source": "OhmyNews",
+        "ageHours": 1.5
       },
       "delivered": [],
       "archived": false

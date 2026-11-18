@@ -5461,3 +5461,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [단독] 정청래 “최민희 녹취록 타이밍 조절?”…김우영 “김민석, 전체 녹취 없었다” - 시사저널
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 “최민희 녹취록 타이밍 조절?”…김우영 “김민석, 전체 녹취 없었다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE5BanBlaW1NRGhJcXVUcTRkN0hNT3JNcHJ0UWM2VXF3SXZrbXZ4UWk3VzliNFBCWXI4VVZSbDF0bU5HNXp5aXpkMUNvSEZfMFV2YnVQV3RlR1BQcmUyenpDdXJqa0x4S1IwX1I4YVJmTG9wTEHSAXNBVV95cUxOQWpwZWltTURoSXF1VHE0ZDdITU9yTXBydFFjNlVxd0l2a212eFFpN1c5YjRQQllyOFVWUmwxdG1ORzV6eWl6ZDFDb0hGXzBVdmJ1UFd0ZUdQUHJlMnp6Q3VyamtMeEtSMF9SOGFSZkxvcExB?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합) - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LOC1Ha1JRZHh1cmt4SXBwbVo1SlBMRFJ1dzNlQ3dBUzZiUms1aGt1X1BIUXV4M2g4RWZRQWlwQlNwUnV4UGZiZ2R3c1oxZElpZlFKdU9uYnhOUTlsclBGNtIBeEFVX3lxTFBLR0VpRkFacXRDWC1JR05YY1FJbzFiT3FNdXFndFBfcWduRWdDZVFmT05EZFVOYndCcWl3eUcydDRoMEl5d3pxSzF1V1RRNFZtaEFsNkFFajRNMWVRamtWX2NmTG1XUXRjRXpOTVY5MHpIUVFnQl96aw?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석과 대타협 제안한 송영길에 "자격 미달자 나서지 마라" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석과 대타협 제안한 송영길에 "자격 미달자 나서지 마라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTFBoeG9nZFkzYlpLMFNpMExzWC13NlNidUNaR0IzY3prMjdfRTNqTmtDdV82cFlxN3VEU0VfaTl1RXZsSDlFV2hPSF9VYXJzU0lxNWFJMUNCamU3RmM5akpHU3hSQUEtSlVEd2Z3S0JETDU4VWxNRjRETVdn0gF_QVVfeXFMTUtsdDVORE8zSHpES2xsZDhrcTRlemc4Q3NFeFUzVjBJZFFCb0pNTnRVajBuY2xPcHRGR3dOSENsWGlEZlcwbzNnTmZMNGRDei1iVXhKc2ZUZTNvc2lhbmJRbU9sMzN6a0lGNWJ0Q3NMRGR5eV8xVHFlR0tvVGNpTQ?oc=5)
+
+---
+
