@@ -2515,57 +2515,24 @@
       "seenAt": "2026-11-18T06:21:23.591Z",
       "title": "'최민희 징계'에 입 연 정청래 \"징계 강력하게 반대\" - 이데일리",
       "targetName": "정청래"
+    },
+    "289c23e6df52f27df0e639dea7c0d1a7c75df07b2ea99d4cd9671a39770cdf12": {
+      "seenAt": "2026-11-18T06:31:17.529Z",
+      "title": "정청래 \"최민희 징계 강력반대\"…金에 \"신천지가 더 큰 해당행위\" - 연합뉴스",
+      "targetName": "정청래"
+    },
+    "5dd433175c356513abfb71e525ab312f6e81a4e3f6c878a24af4af788c7fd2cd": {
+      "seenAt": "2026-11-18T06:31:18.390Z",
+      "title": "이준석 \"추경호 무죄, 기초적인 헌법 부정한 법비들의 정치\"…1년 전 주장 다시 꺼냈다 - 매일신문",
+      "targetName": "이준석"
+    },
+    "aad5605bf2caba6d1a0eb2024044db26ee59128952fb2cb74a15083b3f7b70be": {
+      "seenAt": "2026-11-18T06:31:18.987Z",
+      "title": "한동훈, 장인상 발인 마치고 추경호 무죄 환영 \"특검 무리한 수사·기소의 당연한 귀결\" - 매일신문",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "289c23e6df52f27df0e639dea7c0d1a7c75df07b2ea99d4cd9671a39770cdf12",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래 \"최민희 징계 강력반대\"…金에 \"신천지가 더 큰 해당행위\" - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4WmpRaUFSQnpfa2E2ZGM4WWxiamtIZXNvamQ2YTVLay11Y3N1MDd6MkZnVGpwd0dIZm9qNXRBbjhUYzFXS2xHWkdtbUg1RF9JVzFOZXVjbllGVTjSAWBBVV95cUxQZEViVTg4TXJ3OGJMZ1cwNGlaZXZ3S2dLYkZGVFU3ZU1GN2ZERlB6aERSY3JJOUtxTUxDTWdiZ0kzek1xUlFLaEZSYmV3T3BUS2U2UjFvdEpwOFVpaTVCcHg?oc=5\" target=\"_blank\">정청래 \"최민희 징계 강력반대\"…金에 \"신천지가 더 큰 해당행위\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4WmpRaUFSQnpfa2E2ZGM4WWxiamtIZXNvamQ2YTVLay11Y3N1MDd6MkZnVGpwd0dIZm9qNXRBbjhUYzFXS2xHWkdtbUg1RF9JVzFOZXVjbllGVTjSAWBBVV95cUxQZEViVTg4TXJ3OGJMZ1cwNGlaZXZ3S2dLYkZGVFU3ZU1GN2ZERlB6aERSY3JJOUtxTUxDTWdiZ0kzek1xUlFLaEZSYmV3T3BUS2U2UjFvdEpwOFVpaTVCcHg?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 05:39:25 GMT",
-        "source": "연합뉴스",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5dd433175c356513abfb71e525ab312f6e81a4e3f6c878a24af4af788c7fd2cd",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"추경호 무죄, 기초적인 헌법 부정한 법비들의 정치\"…1년 전 주장 다시 꺼냈다 - 매일신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE05WFZGc01ZaDFNLXAtZk1RbjNvbVFuNUtaTXViR0x1WlJQY0FZQzRfbjRnT0JmZzFVNEFfNmNFV2dhd1FiQ0w5TFJ1MDI5dEIwSUplOVZzOVhQSlhHYXc2SzB3?oc=5\" target=\"_blank\">이준석 \"추경호 무죄, 기초적인 헌법 부정한 법비들의 정치\"…1년 전 주장 다시 꺼냈다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05WFZGc01ZaDFNLXAtZk1RbjNvbVFuNUtaTXViR0x1WlJQY0FZQzRfbjRnT0JmZzFVNEFfNmNFV2dhd1FiQ0w5TFJ1MDI5dEIwSUplOVZzOVhQSlhHYXc2SzB3?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 05:47:55 GMT",
-        "source": "매일신문",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "aad5605bf2caba6d1a0eb2024044db26ee59128952fb2cb74a15083b3f7b70be",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈, 장인상 발인 마치고 추경호 무죄 환영 \"특검 무리한 수사·기소의 당연한 귀결\" - 매일신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tNVZyVTlyaHpwb0paZnZYRjJpQ01CNmFNMHp2SVNKc1llVWhiZ0J5Zm5pNTg0Zk02NkFuNjNfRjE4R045OXdfTFdfQ1NPUjZCMll2T1lQNjRlby1QaHN3Ynd3?oc=5\" target=\"_blank\">한동훈, 장인상 발인 마치고 추경호 무죄 환영 \"특검 무리한 수사·기소의 당연한 귀결\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tNVZyVTlyaHpwb0paZnZYRjJpQ01CNmFNMHp2SVNKc1llVWhiZ0J5Zm5pNTg0Zk02NkFuNjNfRjE4R045OXdfTFdfQ1NPUjZCMll2T1lQNjRlby1QaHN3Ynd3?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 06:10:08 GMT",
-        "source": "매일신문",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "6bf0bce6e28387d67aac2f8e23c5209ac792be8caf22d406168142e5064a2e95",

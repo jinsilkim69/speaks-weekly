@@ -4655,3 +4655,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "최민희 징계 강력반대"…金에 "신천지가 더 큰 해당행위" - 연합뉴스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 징계 강력반대"…金에 "신천지가 더 큰 해당행위"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4WmpRaUFSQnpfa2E2ZGM4WWxiamtIZXNvamQ2YTVLay11Y3N1MDd6MkZnVGpwd0dIZm9qNXRBbjhUYzFXS2xHWkdtbUg1RF9JVzFOZXVjbllGVTjSAWBBVV95cUxQZEViVTg4TXJ3OGJMZ1cwNGlaZXZ3S2dLYkZGVFU3ZU1GN2ZERlB6aERSY3JJOUtxTUxDTWdiZ0kzek1xUlFLaEZSYmV3T3BUS2U2UjFvdEpwOFVpaTVCcHg?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "추경호 무죄, 기초적인 헌법 부정한 법비들의 정치"…1년 전 주장 다시 꺼냈다 - 매일신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "추경호 무죄, 기초적인 헌법 부정한 법비들의 정치"…1년 전 주장 다시 꺼냈다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE05WFZGc01ZaDFNLXAtZk1RbjNvbVFuNUtaTXViR0x1WlJQY0FZQzRfbjRnT0JmZzFVNEFfNmNFV2dhd1FiQ0w5TFJ1MDI5dEIwSUplOVZzOVhQSlhHYXc2SzB3?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 장인상 발인 마치고 추경호 무죄 환영 "특검 무리한 수사·기소의 당연한 귀결" - 매일신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 장인상 발인 마치고 추경호 무죄 환영 "특검 무리한 수사·기소의 당연한 귀결"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tNVZyVTlyaHpwb0paZnZYRjJpQ01CNmFNMHp2SVNKc1llVWhiZ0J5Zm5pNTg0Zk02NkFuNjNfRjE4R045OXdfTFdfQ1NPUjZCMll2T1lQNjRlby1QaHN3Ynd3?oc=5)
+
+---
+
