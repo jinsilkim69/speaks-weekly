@@ -5097,3 +5097,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야” - 세계일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ha25SSnd3U0ZwRzA5WHl5eVVZNFRSbUJFdnVhSmJGVGdHU0FidUJXOW1YeGVTT2NBYVRodEg2NXppSF84dDB2TnlNckZZVGpxT2VTWFZ5bnFjSC1ROFV6TmJzLXRnaVZfaGJn0gFUQVVfeXFMT3FzU3FBeG5VNDJ1R0xYMmRZOV8xdnR6RDQ1aHpsMUJYY0szNUlQOHJXektzV196dWJkV0dGZmtTVGllcHo0b3g0LTlReUhrTXBBamg1?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** ‘석청 대타협’ 제안한 송영길에…정청래 “자격미달자는 나서지 말라” - www.dt.co.kr
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘석청 대타협’ 제안한 송영길에…정청래 “자격미달자는 나서지 말라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VUDZpSlZSNnFOTUp6eDhBanM2RW1fNWlzV1lPRkNQcmJ3RnVTaTVoTjBEVk9NMGUyX2I3NDNJeTBnWDRMUU1FUjVLUWVSZw?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 민주당 내홍 격화…송영길 중재에 정청래 “자격 미달” - 뉴스프리존
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 내홍 격화…송영길 중재에 정청래 “자격 미달”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE1scnJsNHM1TG5IdWxEZHN5cnE3Z1R1WV9ESHR0Nnh4NzFlNVZ2RkJmakNtZmtZNDJFaEtVaWFCdGpuQms1UTBuVXBBdnZ2RVRpcWc2QWhIVEZiVVFhb05FSG1WTnVHang1SmNqVmI0TkJzM19ybzBv0gF3QVVfeXFMTWxycmw0czVMbkh1bERkc3lycTdnVHVZX0RIdHQ2eHg3MWU1VnZGQmZqQ21ma1k0MkVoS1VpYUJ0am5CazVRMG5VcEF2dnZFVGlxZzZBaEhURmJVUWFvTkVIbVZOdUdqeDVKY2pWYjROQnMzX3JvMG8?oc=5)
+
+---
+

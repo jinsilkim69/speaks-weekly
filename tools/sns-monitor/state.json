@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T08:21:16.713Z",
+  "lastCheckedAt": "2026-11-18T08:31:19.277Z",
   "seenPostIds": {
-    "9515554db0288c29220b822d8086ae73c60fe4f825105cad758df0c6e3b93899": {
-      "seenAt": "2026-11-15T04:31:16.031Z",
-      "title": "[속보] 강득구 \"김민석이 종교집단 힘 빌려 정치적 이익? 헛웃음 나와\" - 경기일보",
-      "targetName": "김민석"
-    },
-    "4e399ffcf432a626d79a2d458f99b00891b0049c9ec4657b4cbb9c2ac7f2ca2e": {
-      "seenAt": "2026-11-15T04:31:16.724Z",
-      "title": "\"노무현 대통령 추천, 시험 안 치고 하버드 갔다\" 전한길 주장에 이준석 추가 고소 예고 - 아시아경제",
-      "targetName": "이준석"
-    },
-    "f69ff65e9eef59c82792b7442047f36e3a8cfc33bf46d072070dd504e678050f": {
-      "seenAt": "2026-11-15T04:41:19.303Z",
-      "title": "'해남 배추 스타일' 박지원 \"배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지\"[여의도초대석] - KBC광주방송",
-      "targetName": "김민석"
-    },
     "477991b534926e9e6551b09141dbd21d03eab78ec3471ee198b1a173db0bcf0e": {
       "seenAt": "2026-11-15T04:41:19.897Z",
       "title": "'해남 배추 스타일' 박지원 \"배춧값은 잡았는데, 김민석-정청래는...조희대도, 진즉에 내 말 듣지\"[여의도초대석] - KBC광주방송",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-18T08:21:20.275Z",
       "title": "'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이 - 머니투데이",
       "targetName": "한동훈"
+    },
+    "73f833f94ff7d9a5048d77d836747bdae647383de164dc0a56755ea62de85b6e": {
+      "seenAt": "2026-11-18T08:31:20.306Z",
+      "title": "추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야” - 세계일보",
+      "targetName": "한동훈"
+    },
+    "5b3c10bbf085fead6415e338b0d0e1d3aa886967d7267a513554493a72b885b9": {
+      "seenAt": "2026-11-18T08:31:21.025Z",
+      "title": "‘석청 대타협’ 제안한 송영길에…정청래 “자격미달자는 나서지 말라” - www.dt.co.kr",
+      "targetName": "송영길"
+    },
+    "15949867bb4f625ffceef977033a19d142be6f344ae52850147346e43308db73": {
+      "seenAt": "2026-11-18T08:31:21.643Z",
+      "title": "민주당 내홍 격화…송영길 중재에 정청래 “자격 미달” - 뉴스프리존",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "73f833f94ff7d9a5048d77d836747bdae647383de164dc0a56755ea62de85b6e",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야” - 세계일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ha25SSnd3U0ZwRzA5WHl5eVVZNFRSbUJFdnVhSmJGVGdHU0FidUJXOW1YeGVTT2NBYVRodEg2NXppSF84dDB2TnlNckZZVGpxT2VTWFZ5bnFjSC1ROFV6TmJzLXRnaVZfaGJn0gFUQVVfeXFMT3FzU3FBeG5VNDJ1R0xYMmRZOV8xdnR6RDQ1aHpsMUJYY0szNUlQOHJXektzV196dWJkV0dGZmtTVGllcHo0b3g0LTlReUhrTXBBamg1?oc=5\" target=\"_blank\">추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ha25SSnd3U0ZwRzA5WHl5eVVZNFRSbUJFdnVhSmJGVGdHU0FidUJXOW1YeGVTT2NBYVRodEg2NXppSF84dDB2TnlNckZZVGpxT2VTWFZ5bnFjSC1ROFV6TmJzLXRnaVZfaGJn0gFUQVVfeXFMT3FzU3FBeG5VNDJ1R0xYMmRZOV8xdnR6RDQ1aHpsMUJYY0szNUlQOHJXektzV196dWJkV0dGZmtTVGllcHo0b3g0LTlReUhrTXBBamg1?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 07:32:43 GMT",
-        "source": "세계일보",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5b3c10bbf085fead6415e338b0d0e1d3aa886967d7267a513554493a72b885b9",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "‘석청 대타협’ 제안한 송영길에…정청래 “자격미달자는 나서지 말라” - www.dt.co.kr",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VUDZpSlZSNnFOTUp6eDhBanM2RW1fNWlzV1lPRkNQcmJ3RnVTaTVoTjBEVk9NMGUyX2I3NDNJeTBnWDRMUU1FUjVLUWVSZw?oc=5\" target=\"_blank\">‘석청 대타협’ 제안한 송영길에…정청래 “자격미달자는 나서지 말라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.dt.co.kr</font>",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VUDZpSlZSNnFOTUp6eDhBanM2RW1fNWlzV1lPRkNQcmJ3RnVTaTVoTjBEVk9NMGUyX2I3NDNJeTBnWDRMUU1FUjVLUWVSZw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 08:11:36 GMT",
-        "source": "www.dt.co.kr",
-        "ageHours": 23.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "15949867bb4f625ffceef977033a19d142be6f344ae52850147346e43308db73",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "민주당 내홍 격화…송영길 중재에 정청래 “자격 미달” - 뉴스프리존",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1scnJsNHM1TG5IdWxEZHN5cnE3Z1R1WV9ESHR0Nnh4NzFlNVZ2RkJmakNtZmtZNDJFaEtVaWFCdGpuQms1UTBuVXBBdnZ2RVRpcWc2QWhIVEZiVVFhb05FSG1WTnVHang1SmNqVmI0TkJzM19ybzBv0gF3QVVfeXFMTWxycmw0czVMbkh1bERkc3lycTdnVHVZX0RIdHQ2eHg3MWU1VnZGQmZqQ21ma1k0MkVoS1VpYUJ0am5CazVRMG5VcEF2dnZFVGlxZzZBaEhURmJVUWFvTkVIbVZOdUdqeDVKY2pWYjROQnMzX3JvMG8?oc=5\" target=\"_blank\">민주당 내홍 격화…송영길 중재에 정청래 “자격 미달”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스프리존</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1scnJsNHM1TG5IdWxEZHN5cnE3Z1R1WV9ESHR0Nnh4NzFlNVZ2RkJmakNtZmtZNDJFaEtVaWFCdGpuQms1UTBuVXBBdnZ2RVRpcWc2QWhIVEZiVVFhb05FSG1WTnVHang1SmNqVmI0TkJzM19ybzBv0gF3QVVfeXFMTWxycmw0czVMbkh1bERkc3lycTdnVHVZX0RIdHQ2eHg3MWU1VnZGQmZqQ21ma1k0MkVoS1VpYUJ0am5CazVRMG5VcEF2dnZFVGlxZzZBaEhURmJVUWFvTkVIbVZOdUdqeDVKY2pWYjROQnMzX3JvMG8?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 23:51:03 GMT",
-        "source": "뉴스프리존",
-        "ageHours": 8.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "2346dfd984d5fdb497cb11b42bb48b446237a8d8b011602b051c41eeff1420c0",
@@ -2626,6 +2578,38 @@
         "pubDate": "Wed, 18 Nov 2026 07:44:45 GMT",
         "source": "뉴시스",
         "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "1465fcfeff19a6abbd828198c3f9a0a5aafd9300666eee0fecef667f913cce8d",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "[핫피플]송영길 ‘대타협’ 당부에…정청래 “풉 나서지 마라” - 채널A",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHUFVqSG5VS01xcDFiTXoxNUNQdk1Ec0lYY3ZEdUxPazFJbFJIYmtMYlF2MkFoODNVeU1FWTZiWTY4T0V2SENaT1ZrbmtZOGZSR3lGS3ZrYmtqNGFGdGN3?oc=5\" target=\"_blank\">[핫피플]송영길 ‘대타협’ 당부에…정청래 “풉 나서지 마라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHUFVqSG5VS01xcDFiTXoxNUNQdk1Ec0lYY3ZEdUxPazFJbFJIYmtMYlF2MkFoODNVeU1FWTZiWTY4T0V2SENaT1ZrbmtZOGZSR3lGS3ZrYmtqNGFGdGN3?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 23:52:00 GMT",
+        "source": "채널A",
+        "ageHours": 8.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "7be13850bb8a6a302340c8d93cf6f9661d940269b608cae2b98ecbe5453a72b7",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "\"이명박·박근혜도 日 입국 거부당할까\"…조국, 박노자 글 공유 '전과설' 반박 - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYdIBeEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYQ?oc=5\" target=\"_blank\">\"이명박·박근혜도 日 입국 거부당할까\"…조국, 박노자 글 공유 '전과설' 반박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYdIBeEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 07:30:00 GMT",
+        "source": "뉴시스",
+        "ageHours": 1
       },
       "delivered": [],
       "archived": false
