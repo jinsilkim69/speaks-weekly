@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T11:51:18.916Z",
+  "lastCheckedAt": "2026-11-18T12:21:23.734Z",
   "seenPostIds": {
-    "3957a93c2dc276d83a6ff48bff229f629ad0efc08d7579425aa378d1292f4194": {
-      "seenAt": "2026-11-15T10:01:17.076Z",
-      "title": "Trump rages at judge holding up DC golf course – but remains silent on flight chaos - The Independent",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "bec5ee6e0c95d5060831ecc0c6a7633cd8afcedae0470c3db90c11e53f0f4d0c": {
       "seenAt": "2026-11-15T10:01:17.865Z",
       "title": "Trump takes down image from his social media platform that depicted him as a Jesus-like figure - ABC News - Breaking News, Latest News and Videos",
@@ -2505,6 +2500,21 @@
       "seenAt": "2026-11-18T11:51:19.889Z",
       "title": "입국 거부된 조국, 독도 찾는다…정청래·진성준도 日조치 비판(종합2보) - 뉴스1",
       "targetName": "조국"
+    },
+    "1198b1f04c0a30621f27b3efa60ca3c560d264500365f96dcc9343de08134ddd": {
+      "seenAt": "2026-11-18T12:21:25.156Z",
+      "title": "김민석 비판 중징계…선거법 위반 무혐의…부산 與비례 희비 - 국제신문",
+      "targetName": "김민석"
+    },
+    "e19d30a7131faa23c2b7353abb72f227b99c3e49d6b857e030a8d14d291da2f4": {
+      "seenAt": "2026-11-18T12:21:25.920Z",
+      "title": "“최민희 징계 반대” 정청래 직접 참전…친명·친청 갈등 격화일로 - 한겨레",
+      "targetName": "정청래"
+    },
+    "7a75f7b2318a6a6b72665e21d88706ea2d8b378e480b2f83972873ff4955c1d7": {
+      "seenAt": "2026-11-18T12:21:26.776Z",
+      "title": "READ: US President Donald Trump announces on Wednesday (Nov. 18, 2026) in his Truth Social account a \"new and completely different\" trade deal with the Philippines after meeting President Ferdinand R. Marcos Jr. bilaterally in Manila. The US leader the - Facebook",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

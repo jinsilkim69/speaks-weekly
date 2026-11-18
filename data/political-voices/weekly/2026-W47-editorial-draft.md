@@ -5643,3 +5643,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 비판 중징계…선거법 위반 무혐의…부산 與비례 희비 - 국제신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 비판 중징계…선거법 위반 무혐의…부산 與비례 희비
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc2RqY1VGWXNxVVY4N3luZHU3LXV4OHdYOGVUX1hhVFV6el9ISTJheHFibFh6RFM2YjNJR0d1dXpaN0tTSDR6WEZFNnBXVjdqcFd3QmxJTUJTdEJuT3ZPMDN1eVZwWGMzTlBpQ1lfVV9ZMVZWUmF5RjVQdlVIQkpRb3R5bFotNFVnZlJlOTNn?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** “최민희 징계 반대” 정청래 직접 참전…친명·친청 갈등 격화일로 - 한겨레
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “최민희 징계 반대” 정청래 직접 참전…친명·친청 갈등 격화일로
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTFBzOUo2OEpYbWVCYWZBcEFFUnJIQXVvSXBueVZia0VfMjloSWRqdVBMUkxfZVpWQUw3WlBfRnV5MV8tWjBQc3pzcjRScjY0YW9lUm5mS1RNanh4Z2FWZHJjbnVhVDEzNVpjLXQ4OTlrVU9vaU5s?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** READ: US President Donald Trump announces on Wednesday (Nov. 18, 2026) in his Truth Social account a "new and completely different" trade deal with the Philippines after meeting President Ferdinand R. Marcos Jr. bilaterally in Manila. The US leader the - Facebook
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] READ: US President Donald Trump announces on Wednesday (Nov. 18, 2026) in his Truth Social account a "new and completely different" trade deal with the Philippines after meeting President Ferdinand R. Marcos Jr. bilaterally in Manila. The US leader the
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWHhTSVV6VDdtVE5KVVNmakRFV0h0d0hiaWlvZGhVa3BZV1hudjBIY25fa0dOa1lEVEpaQXlEZ19Vd3hYaFVYYVRqLTVucUd0NmpCcm1EZ3d1Y3dfdTZMLUFncjZVelRFSnlyZFd0NldIaUlMX0RyanNFMkxlRktfTWxjZjJ0cEJwc210Q3BlV2tJbEZnWG1HalJOR0lKbjZxdnJQNTd3X1hqMHpmZUJGZVkwS2EwY0JNQmRIMnZXM2wxTVNQQXcyaTYtRThVcTI3ZzJCYg?oc=5)
+
+---
+
