@@ -6020,3 +6020,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "신천지가 더 큰 해당행위… 최민희 징계 반대" - 조선일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "신천지가 더 큰 해당행위… 최민희 징계 반대"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxOczVJX2dfU2w1cXBiT19WYUdXak1VeEMzWFc4bmszNmpRMUxJaU0zQUhSc0dpNGh5YllDTGVzdXRwZjN2M0wyQnFPWDJJUDA0RmQ0TWk1eUota2ljX0Y1RldjSi1wZUlHVEU5VTRuYnlsakRlX1JZU0FmQlJZdFcxdjZWbnAxQQ?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** [여의도확대경] 송영길, 24년 전 北·日 회담 주역 회고록 번역판 낸다 - 이데일리
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길, 24년 전 北·日 회담 주역 회고록 번역판 낸다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGk3a3UwZV9VUkU3ZDhlQlRaZXNIWXB4QzZNaFZqbHBOUFpvQndUbXBDWVJ1and0RkM4ZTNLUmQzVzNPd1BVQnZHOW56Um4tcHllVXd3eG1KUDJfZlBqcHUtNG13WUVpY2Nja0NLMVgwMnNGWEtyclZzWS1yQWQ5dA?oc=5)
+
+---
+

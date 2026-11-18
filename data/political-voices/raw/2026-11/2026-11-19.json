@@ -478,5 +478,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "2f7561048739beabc3ba358a5ba88af3561ab800865fd4c747ef067129dd4d15",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "정청래 \"신천지가 더 큰 해당행위… 최민희 징계 반대\" - 조선일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOczVJX2dfU2w1cXBiT19WYUdXak1VeEMzWFc4bmszNmpRMUxJaU0zQUhSc0dpNGh5YllDTGVzdXRwZjN2M0wyQnFPWDJJUDA0RmQ0TWk1eUota2ljX0Y1RldjSi1wZUlHVEU5VTRuYnlsakRlX1JZU0FmQlJZdFcxdjZWbnAxQQ?oc=5\" target=\"_blank\">정청래 \"신천지가 더 큰 해당행위… 최민희 징계 반대\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOczVJX2dfU2w1cXBiT19WYUdXak1VeEMzWFc4bmszNmpRMUxJaU0zQUhSc0dpNGh5YllDTGVzdXRwZjN2M0wyQnFPWDJJUDA0RmQ0TWk1eUota2ljX0Y1RldjSi1wZUlHVEU5VTRuYnlsakRlX1JZU0FmQlJZdFcxdjZWbnAxQQ?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 15:49:00 GMT",
+    "source": "조선일보",
+    "ageHours": 4.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래 \"신천지가 더 큰 해당행위… 최민희 징계 반대\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "889a45af43160f76d9b11f428523b9c0d84d69a1a9df4d1f64ab64b4ff7e5af4",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "[여의도확대경] 송영길, 24년 전 北·日 회담 주역 회고록 번역판 낸다 - 이데일리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGk3a3UwZV9VUkU3ZDhlQlRaZXNIWXB4QzZNaFZqbHBOUFpvQndUbXBDWVJ1and0RkM4ZTNLUmQzVzNPd1BVQnZHOW56Um4tcHllVXd3eG1KUDJfZlBqcHUtNG13WUVpY2Nja0NLMVgwMnNGWEtyclZzWS1yQWQ5dA?oc=5\" target=\"_blank\">[여의도확대경] 송영길, 24년 전 北·日 회담 주역 회고록 번역판 낸다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGk3a3UwZV9VUkU3ZDhlQlRaZXNIWXB4QzZNaFZqbHBOUFpvQndUbXBDWVJ1and0RkM4ZTNLUmQzVzNPd1BVQnZHOW56Um4tcHllVXd3eG1KUDJfZlBqcHUtNG13WUVpY2Nja0NLMVgwMnNGWEtyclZzWS1yQWQ5dA?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 20:00:07 GMT",
+    "source": "이데일리",
+    "ageHours": 0.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길, 24년 전 北·日 회담 주역 회고록 번역판 낸다",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
