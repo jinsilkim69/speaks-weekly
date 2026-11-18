@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T17:21:16.475Z",
+  "lastCheckedAt": "2026-11-18T17:41:18.039Z",
   "seenPostIds": {
-    "c7f6e6a0e68a68b1b7c780721fe04e2cd0d59352cba4d51b398a968e545e2440": {
-      "seenAt": "2026-11-15T11:11:17.082Z",
-      "title": "최민희 감찰 결과 받아든 김민석, 곧바로 윤리심판원 회부 - 헤럴드경제",
-      "targetName": "김민석"
-    },
-    "020af5ab88202a6726114419115c0623dacddcc1363b4b270ccf5faa024618e1": {
-      "seenAt": "2026-11-15T11:21:18.020Z",
-      "title": "최민희 논란에 칼 빼든 김민석... 친명 \"중징계 불가피\", 정청래는 침묵 - 한국일보",
-      "targetName": "정청래"
-    },
-    "ab6a83ef9c6899ed8c6da41a9bea56c75e01dbc8b527608e51e0d52c0428c067": {
-      "seenAt": "2026-11-15T12:01:21.051Z",
-      "title": "'Disaster for justice': Trump slams Newsom's plan to commute California's death sentences - KOKI FOX 23",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "83b699000fdabe54340a2856c79994556af39ed023d3bc7ad009d20e3abbda2c": {
       "seenAt": "2026-11-15T12:11:18.894Z",
       "title": "기자들에 “하이에나 떼”라고 한 최민희 언행 논란에 김민석, 윤리심판원 이첩 지시 - 강원일보",
@@ -2514,6 +2499,16 @@
     "9e1c73ad1c0aa4b21f75dff5beb1f43566eedf778c02c9c26d338c48057cc8b6": {
       "seenAt": "2026-11-18T17:21:19.750Z",
       "title": "Trump Says U.S. Concluded Very Big Trade Deal With Philippines: 6 outlets compared - NewsCord",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8506668b44d03a11d2892a2b9d2564fac5d899446ec524a1e8825d488b53df91": {
+      "seenAt": "2026-11-18T17:41:19.369Z",
+      "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WCYB",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f9e322da2469db5fc8b045247fe4a04fcd7b4c3f52b64e09500929fbbf506bd5": {
+      "seenAt": "2026-11-18T17:41:20.087Z",
+      "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - KFXL",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
