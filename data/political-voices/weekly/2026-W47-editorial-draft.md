@@ -5019,3 +5019,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 추경호 '계엄해제 표결 방해 혐의' 1심 무죄에 "조희대 탄핵해야" - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 추경호 '계엄해제 표결 방해 혐의' 1심 무죄에 "조희대 탄핵해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBkNmFScjBoU3RDNXFZaGhjLWkxeG0ycWpCV0d5Q3JiWGFCTmNJMFRfOW5CNHRWREgxYTJBR2VwdWhZNjMwVXBkNlJza0wwYVpLSWU4RGpnc2d4bTFXMFlGeWdjZldNU0pqeVY4MzhoX1IyeTlPLUVfcdIBeEFVX3lxTFBkNmFScjBoU3RDNXFZaGhjLWkxeG0ycWpCV0d5Q3JiWGFCTmNJMFRfOW5CNHRWREgxYTJBR2VwdWhZNjMwVXBkNlJza0wwYVpLSWU4RGpnc2d4bTFXMFlGeWdjZldNU0pqeVY4MzhoX1IyeTlPLUVfcQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 일본서 퇴짜 맞자…세 번째 독도 방문 '맞불' - 한국경제
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 일본서 퇴짜 맞자…세 번째 독도 방문 '맞불'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MTzJvNzRXM1BvVDRKeGVrTGRfTS02bG5hMHlCUHRZRTRzYWhkWmp4Ul9Rdy00TnZLQlZPN0VSbkZjeVlTZDQ4cndYTWkyZGNRejMwLVhJdHZKdw?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** [지역현안] 송영길, 스마트오토밸리 무산 이후 송도중고차단지 대체부지 확보 논의 - 인천뉴스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길, 스마트오토밸리 무산 이후 송도중고차단지 대체부지 확보 논의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wY256ZElQZXYzOWR4YXBzOE53bE9CMURwSXk0bGdTeDJ6ZHFzdE5aU0NxMjhCeV9vVGJBNWRKY2hIdlQ1SGpDWEF2clp3bXFWX2psWTRqS1VLSzNmM2prWHVGR091bmEzMHY0M0JRUQ?oc=5)
+
+---
+

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T08:01:16.999Z",
+  "lastCheckedAt": "2026-11-18T08:11:16.226Z",
   "seenPostIds": {
-    "18e0b64ada8fe242921b20c2962ca37b01629ceaf2eb9e46b085db404460ceca": {
-      "seenAt": "2026-11-15T04:01:17.672Z",
-      "title": "김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화 - 뉴스1",
-      "targetName": "김민석"
-    },
-    "6bd0bf798457c4d6fbe09554ede13b6be959f9851017048887b96018916832ae": {
-      "seenAt": "2026-11-15T04:01:18.408Z",
-      "title": "김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화 - 뉴스1",
-      "targetName": "정청래"
-    },
-    "ba096408c0cdbc352ce5552a9cfb82026eec49430b14bc7b7beb6005b28fe9f8": {
-      "seenAt": "2026-11-15T04:11:22.123Z",
-      "title": "Judge issues temporary block against Trump on Washington public golf course redevelopment - LiveNOW from FOX",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "fc2d4d07b358527a666de8dcdc59eb8ea2e1a086c036c82d356f88c2d2f657b1": {
       "seenAt": "2026-11-15T04:21:16.700Z",
       "title": "한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전 - 세계일보",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-18T08:01:19.573Z",
       "title": "정청래 “최민희 징계 반대... 사과는 ‘그만하라’ 할 때까지 해야” - 조선일보",
       "targetName": "정청래"
+    },
+    "8ef932d817c77eebb3475b126e767f0c72c1311c46486f610df53d79b812a1fb": {
+      "seenAt": "2026-11-18T08:11:17.213Z",
+      "title": "조국혁신당, 추경호 '계엄해제 표결 방해 혐의' 1심 무죄에 \"조희대 탄핵해야\" - 뉴시스",
+      "targetName": "조국"
+    },
+    "f6ccee25c689c8a4ac89abd828b8f02e0d4f4ec6ac8e1236db1c4a19cd73af54": {
+      "seenAt": "2026-11-18T08:11:17.840Z",
+      "title": "조국, 일본서 퇴짜 맞자…세 번째 독도 방문 '맞불' - 한국경제",
+      "targetName": "조국"
+    },
+    "d79f0a37b661842758a6f09707ba3872af11960e24c083464edc5831370234c1": {
+      "seenAt": "2026-11-18T08:11:18.465Z",
+      "title": "[지역현안] 송영길, 스마트오토밸리 무산 이후 송도중고차단지 대체부지 확보 논의 - 인천뉴스",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "8ef932d817c77eebb3475b126e767f0c72c1311c46486f610df53d79b812a1fb",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당, 추경호 '계엄해제 표결 방해 혐의' 1심 무죄에 \"조희대 탄핵해야\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBkNmFScjBoU3RDNXFZaGhjLWkxeG0ycWpCV0d5Q3JiWGFCTmNJMFRfOW5CNHRWREgxYTJBR2VwdWhZNjMwVXBkNlJza0wwYVpLSWU4RGpnc2d4bTFXMFlGeWdjZldNU0pqeVY4MzhoX1IyeTlPLUVfcdIBeEFVX3lxTFBkNmFScjBoU3RDNXFZaGhjLWkxeG0ycWpCV0d5Q3JiWGFCTmNJMFRfOW5CNHRWREgxYTJBR2VwdWhZNjMwVXBkNlJza0wwYVpLSWU4RGpnc2d4bTFXMFlGeWdjZldNU0pqeVY4MzhoX1IyeTlPLUVfcQ?oc=5\" target=\"_blank\">조국혁신당, 추경호 '계엄해제 표결 방해 혐의' 1심 무죄에 \"조희대 탄핵해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkNmFScjBoU3RDNXFZaGhjLWkxeG0ycWpCV0d5Q3JiWGFCTmNJMFRfOW5CNHRWREgxYTJBR2VwdWhZNjMwVXBkNlJza0wwYVpLSWU4RGpnc2d4bTFXMFlGeWdjZldNU0pqeVY4MzhoX1IyeTlPLUVfcdIBeEFVX3lxTFBkNmFScjBoU3RDNXFZaGhjLWkxeG0ycWpCV0d5Q3JiWGFCTmNJMFRfOW5CNHRWREgxYTJBR2VwdWhZNjMwVXBkNlJza0wwYVpLSWU4RGpnc2d4bTFXMFlGeWdjZldNU0pqeVY4MzhoX1IyeTlPLUVfcQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 06:13:21 GMT",
-        "source": "뉴시스",
-        "ageHours": 1.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f6ccee25c689c8a4ac89abd828b8f02e0d4f4ec6ac8e1236db1c4a19cd73af54",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국, 일본서 퇴짜 맞자…세 번째 독도 방문 '맞불' - 한국경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MTzJvNzRXM1BvVDRKeGVrTGRfTS02bG5hMHlCUHRZRTRzYWhkWmp4Ul9Rdy00TnZLQlZPN0VSbkZjeVlTZDQ4cndYTWkyZGNRejMwLVhJdHZKdw?oc=5\" target=\"_blank\">조국, 일본서 퇴짜 맞자…세 번째 독도 방문 '맞불'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MTzJvNzRXM1BvVDRKeGVrTGRfTS02bG5hMHlCUHRZRTRzYWhkWmp4Ul9Rdy00TnZLQlZPN0VSbkZjeVlTZDQ4cndYTWkyZGNRejMwLVhJdHZKdw?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 06:52:39 GMT",
-        "source": "한국경제",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d79f0a37b661842758a6f09707ba3872af11960e24c083464edc5831370234c1",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "[지역현안] 송영길, 스마트오토밸리 무산 이후 송도중고차단지 대체부지 확보 논의 - 인천뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8wY256ZElQZXYzOWR4YXBzOE53bE9CMURwSXk0bGdTeDJ6ZHFzdE5aU0NxMjhCeV9vVGJBNWRKY2hIdlQ1SGpDWEF2clp3bXFWX2psWTRqS1VLSzNmM2prWHVGR091bmEzMHY0M0JRUQ?oc=5\" target=\"_blank\">[지역현안] 송영길, 스마트오토밸리 무산 이후 송도중고차단지 대체부지 확보 논의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wY256ZElQZXYzOWR4YXBzOE53bE9CMURwSXk0bGdTeDJ6ZHFzdE5aU0NxMjhCeV9vVGJBNWRKY2hIdlQ1SGpDWEF2clp3bXFWX2psWTRqS1VLSzNmM2prWHVGR091bmEzMHY0M0JRUQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 07:19:59 GMT",
-        "source": "인천뉴스",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "f1625de6758ec0447da30dcaf539e2cace352790c66080c578c30ea2b5ef19b2",
@@ -2642,6 +2594,70 @@
         "pubDate": "Tue, 17 Nov 2026 08:11:36 GMT",
         "source": "www.dt.co.kr",
         "ageHours": 23.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "15949867bb4f625ffceef977033a19d142be6f344ae52850147346e43308db73",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "민주당 내홍 격화…송영길 중재에 정청래 “자격 미달” - 뉴스프리존",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1scnJsNHM1TG5IdWxEZHN5cnE3Z1R1WV9ESHR0Nnh4NzFlNVZ2RkJmakNtZmtZNDJFaEtVaWFCdGpuQms1UTBuVXBBdnZ2RVRpcWc2QWhIVEZiVVFhb05FSG1WTnVHang1SmNqVmI0TkJzM19ybzBv0gF3QVVfeXFMTWxycmw0czVMbkh1bERkc3lycTdnVHVZX0RIdHQ2eHg3MWU1VnZGQmZqQ21ma1k0MkVoS1VpYUJ0am5CazVRMG5VcEF2dnZFVGlxZzZBaEhURmJVUWFvTkVIbVZOdUdqeDVKY2pWYjROQnMzX3JvMG8?oc=5\" target=\"_blank\">민주당 내홍 격화…송영길 중재에 정청래 “자격 미달”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스프리존</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1scnJsNHM1TG5IdWxEZHN5cnE3Z1R1WV9ESHR0Nnh4NzFlNVZ2RkJmakNtZmtZNDJFaEtVaWFCdGpuQms1UTBuVXBBdnZ2RVRpcWc2QWhIVEZiVVFhb05FSG1WTnVHang1SmNqVmI0TkJzM19ybzBv0gF3QVVfeXFMTWxycmw0czVMbkh1bERkc3lycTdnVHVZX0RIdHQ2eHg3MWU1VnZGQmZqQ21ma1k0MkVoS1VpYUJ0am5CazVRMG5VcEF2dnZFVGlxZzZBaEhURmJVUWFvTkVIbVZOdUdqeDVKY2pWYjROQnMzX3JvMG8?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 23:51:03 GMT",
+        "source": "뉴스프리존",
+        "ageHours": 8.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2346dfd984d5fdb497cb11b42bb48b446237a8d8b011602b051c41eeff1420c0",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\" - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bdIBeEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bQ?oc=5\" target=\"_blank\">이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bdIBeEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 06:58:44 GMT",
+        "source": "뉴시스",
+        "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "68691066384d7d31e89f9faf19df9833fe19f11c74752c6784d499003d4da68c",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "\"이명박·박근혜도 日 입국 거부당할까\"…조국, 박노자 글 공유 '전과설' 반박 - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IWGpnX090eU02YTNIbWlySUpiSHYzU1FSeHBLRjdReWFWdm1zTE9ycEFOS1NncVFqR3d2WFNhOFBiQV9NUXV4WmVYTkpOX2VBWVZjakJFc1Z4UjU5T1VJb9IBeEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYQ?oc=5\" target=\"_blank\">\"이명박·박근혜도 日 입국 거부당할까\"…조국, 박노자 글 공유 '전과설' 반박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IWGpnX090eU02YTNIbWlySUpiSHYzU1FSeHBLRjdReWFWdm1zTE9ycEFOS1NncVFqR3d2WFNhOFBiQV9NUXV4WmVYTkpOX2VBWVZjakJFc1Z4UjU5T1VJb9IBeEFVX3lxTE1vcm43QTIyaDlaSkFzNk9aZWhTRDM1Z3NHZlEwUmp3WFlhZDhIa2xmclNhZi1pZUIwTzh3SVl3bTJwaktZcnZpYTBSMkdEeXdITERxb3B0VU91Nm5uczJOR3BkbGlvclBxV1FHOUlVNVNRSU1GU1lTYQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 07:30:00 GMT",
+        "source": "뉴시스",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4396e7fadd3fd30eb71045f2c611e40f31842f80a5ff478507caba03d83c11df",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Donald Trump Questions Falling Gas Prices After Election Drubbing - Newsweek",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGNZRDlpdkplSkEwYjNUZS1UMHZYTVc3OGdBZDB1SDctR3VHa1ZyWXRQV3AzbWVaOGdOZHNfNWlvc3pWS011LXB2RVRkelhqM0sxTjZuS2VlbklxRVVEMjIxZjhqWmROdW1GbEZWU1o0NTVLWDFFUmlTM1lQenJwUXZ6OU4ycFFRRDNLZUw1MGVGbjdXM3FzYTgyYXdoQkFfZG5lNkVacHZXdklp?oc=5\" target=\"_blank\">Donald Trump Questions Falling Gas Prices After Election Drubbing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGNZRDlpdkplSkEwYjNUZS1UMHZYTVc3OGdBZDB1SDctR3VHa1ZyWXRQV3AzbWVaOGdOZHNfNWlvc3pWS011LXB2RVRkelhqM0sxTjZuS2VlbklxRVVEMjIxZjhqWmROdW1GbEZWU1o0NTVLWDFFUmlTM1lQenJwUXZ6OU4ycFFRRDNLZUw1MGVGbjdXM3FzYTgyYXdoQkFfZG5lNkVacHZXdklp?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 08:02:00 GMT",
+        "source": "Newsweek",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
