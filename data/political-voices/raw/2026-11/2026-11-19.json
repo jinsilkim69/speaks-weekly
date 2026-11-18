@@ -377,5 +377,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "3aedf7351ff9b528eb12cfbf5740a7f694ff2a1989e16cc84be04890ef91d14f",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - KATV",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdHh6OWlkMHg5ZVpoZms0OXREcGNYV3c1ZEwtTWp4MVg5aGhUbFR2WUFOUmpoRUlGdFMzU2YxZXNMM2pxbUdISkRpTHdpb0lwQzBMT0ZYc01zQ1F3U0IzVTdRVFZqSlBUUXRyV3NxOXhjdUxVZklwRkJ5ZUJrdmJwRlZsa3FVZkFTVDh0bi1UUmU5UGtqTUlpOGJMeHdhZGFKZjJRTzNzQlJIeFVWUk1LeFJ3ZzRIV0xZ?oc=5\" target=\"_blank\">No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KATV</font>",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdHh6OWlkMHg5ZVpoZms0OXREcGNYV3c1ZEwtTWp4MVg5aGhUbFR2WUFOUmpoRUlGdFMzU2YxZXNMM2pxbUdISkRpTHdpb0lwQzBMT0ZYc01zQ1F3U0IzVTdRVFZqSlBUUXRyV3NxOXhjdUxVZklwRkJ5ZUJrdmJwRlZsa3FVZkFTVDh0bi1UUmU5UGtqTUlpOGJMeHdhZGFKZjJRTzNzQlJIeFVWUk1LeFJ3ZzRIV0xZ?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 16:51:52 GMT",
+    "source": "KATV",
+    "ageHours": 1.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
