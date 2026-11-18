@@ -5851,3 +5851,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 “수능 부정행위 무관용 원칙 엄정 대응…시험 후에도 끝까지 추적" - 경기일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “수능 부정행위 무관용 원칙 엄정 대응…시험 후에도 끝까지 추적"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xUDdIVWVIWGRPTUlCQUc3YXp5LVR6dXNhYmdDa0xsQUx3RGZMN0txckJ1aWZKS3VYclY1SEdDUHVkTzZILTllQlZfR3ktbzFNY2lTSnRkUmhJTU0?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야” - 세계일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KZFdXY2FoczBBVzF1a2xtbjljS2pfRmRselNLdndDV0tZb1J1UDk2cXp4REJfWVlhSG5NcV9KTmVSQy1lSEZuS29RTWt2QTU20gFUQVVfeXFMT3FzU3FBeG5VNDJ1R0xYMmRZOV8xdnR6RDQ1aHpsMUJYY0szNUlQOHJXektzV196dWJkV0dGZmtTVGllcHo0b3g0LTlReUhrTXBBamg1?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump meets longtime friend Imelda Marcos while visiting son in Philippines - The Hill
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump meets longtime friend Imelda Marcos while visiting son in Philippines
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinwFBVV95cUxONUJHdGpXalU5cHB4cnc5anRJMEU4c3dTRkg0cUNVNkRlcnlkVG9kaVNEY3JDbk5ETkpzVDdqMVg2NnVwcXJBam5pTVVlckItNXlpTk1iU1FvMnFvcWRnOWxoMG1JR3Z1Sms2azJKQ2NyRlZJUnVfdHNhZ0hGRTBSeUZhb25MQ1FkbkRJakw3eEswbXVkVV9yOEdLYnpabzDSAZ8BQVVfeXFMTjVCR3RqV2pVOXBweHJ3OWp0STBFOHN3U0ZINHFDVTZEZXJ5ZFRvZGlTRGNyQ25ORE5Kc1Q3ajFYNjZ1cHFyQWpuaU1VZXJCLTV5aU5NYlNRbzJxb3FkZzlsaDBtSUd2dUprNmsySkNjckZWSVJ1X3RzYWdIRkUwUnlGYW9uTENRZG5ESWpMN3hLMG11ZFVfcjhHS2J6Wm8w?oc=5)
+
+---
+
