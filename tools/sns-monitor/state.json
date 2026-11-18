@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T01:11:20.662Z",
+  "lastCheckedAt": "2026-11-18T01:41:16.710Z",
   "seenPostIds": {
-    "ec694b303be9b66e98c08f3d5ff64cbdcb072355254e5ec536361dc65e02f0f6": {
-      "seenAt": "2026-11-14T09:41:17.473Z",
-      "title": "세 명의 기자회견이 아니라, 정청래 정치가 남긴 청구서다 - 세계뉴스",
-      "targetName": "정청래"
-    },
     "a37a4f42bc3be7030cb36259b1e6d38dca2b69a30a54fee7526f4f40a8f16d4d": {
       "seenAt": "2026-11-14T09:51:18.302Z",
       "title": "한동훈 \"우기면 추해\"⋯최민희와 '李대통령·尹 재판' 놓고 SNS 설전 - 아이뉴스24",
@@ -2505,7 +2500,55 @@
       "seenAt": "2026-11-18T01:11:22.091Z",
       "title": "조용하던 추미애, 김민석 다시 저격…“반민주적 마타도어, 엄중 판단해야” - 에너지경제신문",
       "targetName": "김민석"
+    },
+    "1f22dce106878c37003708aac6df97a0368962fb416c8b462fbbae69e4e2ee05": {
+      "seenAt": "2026-11-18T01:41:18.114Z",
+      "title": "‘조작징계 의혹’ 후폭풍…한동훈 복당론에 다시 갈라진 국힘 - 쿠키뉴스",
+      "targetName": "한동훈"
+    },
+    "e60711fdab66085165ee4418dd3bab04d79553456ccdbd920579b91f047bd5fc": {
+      "seenAt": "2026-11-18T01:41:18.853Z",
+      "title": "\"막말인가, 입막음인가\"…김민석 비판한 조용우 부산시의원 당원권 1년 정지 - 노컷뉴스",
+      "targetName": "김민석"
+    },
+    "cc8e419c5eba56584899345a1f608cebc3f0a3672c82572562c3cc32f17d003a": {
+      "seenAt": "2026-11-18T01:41:19.618Z",
+      "title": "조국, 日공항서 입국 거부 당했다…독도 방문·징역형·죽창가 때문? - 중앙일보",
+      "targetName": "조국"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "47dca14c7ee56345042d4112f85006ddbc0edc2eb9a3d5b37d034cc5813b29ef",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5QOHN3V3BqQUdLRmVpajhCTFNxWVctMXhVVWcyWXVHdGt0RnphdGVMVFVkUmZpaUxDQlUxZ0pLeXNKTlBXTW1FdjVDY2NTUENDMXcxQ1o2cExVMXBtb0NtQV9xU3B3aW81UmkzeHpmTnp5LTMzanRuOHRQcTlDZEnSAX9BVV95cUxOUDhzd1dwakFHS0ZlaWo4QkxTcVlXLTF4VVVnMll1R3RrdEZ6YXRlTFRVZFJmaWlMQ0JVMWdKS3lzSk5QV01tRXY1Q2NjU1BDQzF3MUNaNnBMVTFwbW9DbUFfcVNwd2lvNVJpM3h6Zk56eS0zM2p0bjh0UHE5Q2RJ?oc=5\" target=\"_blank\">전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QOHN3V3BqQUdLRmVpajhCTFNxWVctMXhVVWcyWXVHdGt0RnphdGVMVFVkUmZpaUxDQlUxZ0pLeXNKTlBXTW1FdjVDY2NTUENDMXcxQ1o2cExVMXBtb0NtQV9xU3B3aW81UmkzeHpmTnp5LTMzanRuOHRQcTlDZEnSAX9BVV95cUxOUDhzd1dwakFHS0ZlaWo4QkxTcVlXLTF4VVVnMll1R3RrdEZ6YXRlTFRVZFJmaWlMQ0JVMWdKS3lzSk5QV01tRXY1Q2NjU1BDQzF3MUNaNnBMVTFwbW9DbUFfcVNwd2lvNVJpM3h6Zk56eS0zM2p0bjh0UHE5Q2RJ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 00:25:57 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "79e795e732584d549c626580b8697f6ffee14133c0cf01c1547d0170b820f04f",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Dem senator-elect mocks President Trump with AI Jesus image in 'Trumpcare for All' pitch - Fox News",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YUjBoTVJabDRfSnhpY0sxUFp0dkE3cm1oZm93OUtZMXRmWVFQaEN6VGJYelFudmM0YTMxTVRjQWJKQzViMkpEYnh1cFNmb2hvMGpta0Rn?oc=5\" target=\"_blank\">Dem senator-elect mocks President Trump with AI Jesus image in 'Trumpcare for All' pitch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YUjBoTVJabDRfSnhpY0sxUFp0dkE3cm1oZm93OUtZMXRmWVFQaEN6VGJYelFudmM0YTMxTVRjQWJKQzViMkpEYnh1cFNmb2hvMGpta0Rn?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 20:52:36 GMT",
+        "source": "Fox News",
+        "ageHours": 4.8
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
