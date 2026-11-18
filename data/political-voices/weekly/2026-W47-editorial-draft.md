@@ -5825,3 +5825,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁, 추경호 무죄에 주도권 강화?…한동훈 '배신자 프레임' 거세지나 - 더팩트
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, 추경호 무죄에 주도권 강화?…한동훈 '배신자 프레임' 거세지나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiU0FVX3lxTE52VUduRVJRVEk5NWFJZDJ0OHhvS2xycEo4bzBoRFNsdE9VUEMxajFXN0ZpOExKMVRPbjZHSVJYVTRKWnl2UkVhN1hsOHltd2RSWlQ00gFTQVVfeXFMTnZVR25FUlFUSTk1YUlkMnQ4eG9LbHJwSjhvMGhEU2x0T1VQQzFqMVc3Rmk4TEoxVE9uNkdJUlhVNEpaeXZSRWE3WGw4eW13ZFJaVDQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump meets longtime friend Imelda Marcos while visiting son in Philippines - Fox 59
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump meets longtime friend Imelda Marcos while visiting son in Philippines
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiugFBVV95cUxORXUzaU1JcjU2anVLQ0V4UTVISkFWOXVKTFpXbW16VUR1cGxOeklITW11WjgwOHd0WVU0RE9HZHZHOVYzM3lrbWw5UjU5RGZjME5QaWhrMlpab3dBMUxyQ2pKanFBdkpIWml5cm03NUNXQkZ4c0UzZHdzdjhYLXBwb1VWclNFSWVCR1E5cjl6R05HMm9RUE1YUnAtSjcyTTRJWGlTNTFPYzlSNGVibk8tRnZYYkZuNmFFc3fSAboBQVVfeXFMTkV1M2lNSXI1Nmp1S0NFeFE1SEpBVjl1SkxaV21telVEdXBsTnpJSE1tdVo4MDh3dFlVNERPR2R2RzlWMzN5a21sOVI1OURmYzBOUGloazJaWm93QTFMckNqSmpxQXZKSFppeXJtNzVDV0JGeHNFM2R3c3Y4WC1wcG9VVnJTRUllQkdROXI5ekdORzJvUVBNWFJwLUo3Mk00SVhpUzUxT2M5UjRlYm5PLUZ2WGJGbjZhRXN3?oc=5)
+
+---
+
