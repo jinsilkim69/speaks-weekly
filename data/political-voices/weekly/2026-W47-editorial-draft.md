@@ -3888,3 +3888,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 전용기 "조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 전용기 "조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QOHN3V3BqQUdLRmVpajhCTFNxWVctMXhVVWcyWXVHdGt0RnphdGVMVFVkUmZpaUxDQlUxZ0pLeXNKTlBXTW1FdjVDY2NTUENDMXcxQ1o2cExVMXBtb0NtQV9xU3B3aW81UmkzeHpmTnp5LTMzanRuOHRQcTlDZEnSAX9BVV95cUxOUDhzd1dwakFHS0ZlaWo4QkxTcVlXLTF4VVVnMll1R3RrdEZ6YXRlTFRVZFJmaWlMQ0JVMWdKS3lzSk5QV01tRXY1Q2NjU1BDQzF3MUNaNnBMVTFwbW9DbUFfcVNwd2lvNVJpM3h6Zk56eS0zM2p0bjh0UHE5Q2RJ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Dem senator-elect mocks President Trump with AI Jesus image in 'Trumpcare for All' pitch - Fox News
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Dem senator-elect mocks President Trump with AI Jesus image in 'Trumpcare for All' pitch
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YUjBoTVJabDRfSnhpY0sxUFp0dkE3cm1oZm93OUtZMXRmWVFQaEN6VGJYelFudmM0YTMxTVRjQWJKQzViMkpEYnh1cFNmb2hvMGpta0Rn?oc=5)
+
+---
+
