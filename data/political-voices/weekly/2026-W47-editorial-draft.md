@@ -4460,3 +4460,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 중수청, '한동훈 딸 허위 스펙 의혹' 고발 사건 공수처·경찰 이첩 - MBC 뉴스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 중수청, '한동훈 딸 허위 스펙 의혹' 고발 사건 공수처·경찰 이첩
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTFBXRTJFTmhlbUUyTDlDRWhfemxjeGIyUl9FOXVLOEhjMlU3U1BWa193QXVOUl82TzZmTXBSbFJPVjRWSllIOFBPa2dfXzFDUDJqMktVZGUzSk9yS2VfNVJ3U0QyWFVwTTJuZGthbTJaVVpiZzdZbEVJ0gF3QVVfeXFMT0FRdlFWU014YzJTamhnT1p4LVptUm5CNkdTT01LWU15N3BnMHpDekNZZnkxcVo3R3JTS1pVWWFLMjhKME8tSjl6Ui1yeHRlanZmYnRlVVJYd2p3eDR2RUlvd3E1WlhtQ1BWVHItZTk5SFBoRDZYdlk?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래 작심 발언 “최민희 해명 믿어, 징계 반대”…김민석 “녹취록 일부 10월 입수” - 미디어오늘
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 작심 발언 “최민희 해명 믿어, 징계 반대”…김민석 “녹취록 일부 10월 입수”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zRU1pWDNBdHRzZ0xSekZVbjRDQ1ZVeTlVQktZSHlFcjhaMG1lR1NEOXg5c3kzWWluV05rLUZaMngwVTBIMWZZdkRzbjdYcXc5SkpwbEktNDR0SWJFVGg3MXFVSGViNTUyb2p6RGFmLVg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "최민희 징계 강력 반대…이재명 정부 성공을 위한 진심 믿는다" - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 징계 강력 반대…이재명 정부 성공을 위한 진심 믿는다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE4xTGR0SV9razR5b0dLbzFmdFZuZWk0TVBZaWNqTVZWYXlodVk3QU5EdUZIZmJ5eGtKMmx5Q00zYWxTZnNnbno3SDF1b2VZbDUxOGc1cmJBRE10Z3BJcG40VzhWU3BDMTFnYXNfQ2ZVQ3A2cF9PVUluStIBeEFVX3lxTE4xTGR0SV9razR5b0dLbzFmdFZuZWk0TVBZaWNqTVZWYXlodVk3QU5EdUZIZmJ5eGtKMmx5Q00zYWxTZnNnbno3SDF1b2VZbDUxOGc1cmJBRE10Z3BJcG40VzhWU3BDMTFnYXNfQ2ZVQ3A2cF9PVUluSg?oc=5)
+
+---
+

@@ -1,31 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T05:21:22.364Z",
+  "lastCheckedAt": "2026-11-18T05:41:20.982Z",
   "seenPostIds": {
-    "0d13202c6257a0b93cb3aa3aae5607c4e84b78594dd5d4a026be2419914f0644": {
-      "seenAt": "2026-11-14T20:11:17.303Z",
-      "title": "[강릉뉴스 칼럼] 김민석 대표는 왜 물러나야 하나? - 강릉뉴스",
-      "targetName": "김민석"
-    },
-    "a582d3b811474af7ce3c1c66b8663e0581bdc9add5bc728d3b999abb588bf40d": {
-      "seenAt": "2026-11-14T20:11:18.041Z",
-      "title": "공단 감사직 떨어지자 당 체육위원장... 김민석 ’20년 최측근' 챙기기 - 조선일보",
-      "targetName": "김민석"
-    },
-    "84c3c5a7d287f0971850409b593df085b93303325f14698500a56647e800a738": {
-      "seenAt": "2026-11-14T20:31:21.334Z",
-      "title": "이재명 대통령, 천준호 공개 격려…\"고생 많으셨다\" - 국제뉴스",
-      "targetName": "이재명"
-    },
-    "078054034a2fc3913d23c931887ea947a6f91fe4ec9dc7a553adcd4eed7c2399": {
-      "seenAt": "2026-11-14T20:51:20.216Z",
-      "title": "Trump says he’s working with bipartisan senators on film industry legislation - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "a0b0334fa36647b29758f51c474e368648ef03517b4b133acab62d0cbb867fe8": {
-      "seenAt": "2026-11-14T21:01:16.327Z",
-      "title": "연일 ‘조희대 탄핵’ 외치는 조국혁신당의 두 가지 셈법 - 에너지경제신문",
-      "targetName": "조국"
-    },
     "44c37105cee0a73b84c1c829d55b2b3c9e1bad0e9f4139257676c5c7da6ccb8f": {
       "seenAt": "2026-11-14T21:31:16.448Z",
       "title": "김민석 100일 앞두고...선명해지는 정청래의 '깃발' - YTN",
@@ -2525,7 +2500,71 @@
       "seenAt": "2026-11-18T05:31:22.476Z",
       "title": "’日입국 거부’ 조국 “독도 방문 이력 확인했나“…여당서도 “경위 밝혀야“ - 연합뉴스TV",
       "targetName": "조국"
+    },
+    "03ba403265c072dfca557b26a5e0b78536d66b1b9b7ab979ba661d07f54e0ec3": {
+      "seenAt": "2026-11-18T05:41:22.113Z",
+      "title": "중수청, '한동훈 딸 허위 스펙 의혹' 고발 사건 공수처·경찰 이첩 - MBC 뉴스",
+      "targetName": "한동훈"
+    },
+    "c5757defb31b547a32bbe12cf9659ded88384061b34dbb47e949eac0b0542abc": {
+      "seenAt": "2026-11-18T05:41:22.742Z",
+      "title": "정청래 작심 발언 “최민희 해명 믿어, 징계 반대”…김민석 “녹취록 일부 10월 입수” - 미디어오늘",
+      "targetName": "김민석"
+    },
+    "e34132ecc9db72eb557835f5b65adedbd5b30ec9a0c9b65e9a4023f0066a9749": {
+      "seenAt": "2026-11-18T05:41:23.386Z",
+      "title": "정청래 \"최민희 징계 강력 반대…이재명 정부 성공을 위한 진심 믿는다\" - 뉴시스",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "d0cdd196a4aca297fb98653d1229b03a08adb0fab52b1927a08c0ce83d7545be",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래 작심 발언 “최민희 해명 믿어, 징계 반대”…김민석 “녹취록 일부 10월 입수” - 미디어오늘",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8zRU1pWDNBdHRzZ0xSekZVbjRDQ1ZVeTlVQktZSHlFcjhaMG1lR1NEOXg5c3kzWWluV05rLUZaMngwVTBIMWZZdkRzbjdYcXc5SkpwbEktNDR0SWJFVGg3MXFVSGViNTUyb2p6RGFmLVg?oc=5\" target=\"_blank\">정청래 작심 발언 “최민희 해명 믿어, 징계 반대”…김민석 “녹취록 일부 10월 입수”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미디어오늘</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zRU1pWDNBdHRzZ0xSekZVbjRDQ1ZVeTlVQktZSHlFcjhaMG1lR1NEOXg5c3kzWWluV05rLUZaMngwVTBIMWZZdkRzbjdYcXc5SkpwbEktNDR0SWJFVGg3MXFVSGViNTUyb2p6RGFmLVg?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 05:25:00 GMT",
+        "source": "미디어오늘",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ed5feabfb3af157272ead2f06cc279843f2ca2d7266fd700f6b7c1a00d3cb474",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래 “최민희 징계 반대…신천지 공세가 해당 행위” - 한겨레",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA2cU9hcXRmM1VOVUpFckhyNnllcWZic3ZWU3JGeDI3QW1HRl9SRGF6dmtsOFM3Nk5XNzdBWXJpcmptYUh3eDVUU2hCXzRQaEJEZ0p6ZEVwTzN5WW91WEg0WE5TQ2pBc2d2MUE?oc=5\" target=\"_blank\">정청래 “최민희 징계 반대…신천지 공세가 해당 행위”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2cU9hcXRmM1VOVUpFckhyNnllcWZic3ZWU3JGeDI3QW1HRl9SRGF6dmtsOFM3Nk5XNzdBWXJpcmptYUh3eDVUU2hCXzRQaEJEZ0p6ZEVwTzN5WW91WEg0WE5TQ2pBc2d2MUE?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 04:37:00 GMT",
+        "source": "한겨레",
+        "ageHours": 1.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "76cead75ec0934c39948346e9de463716a8514e3d7106e32045bdabc0bcff00f",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라” - 주간경향",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Y0Y0NHpmbTh5T0pmYzV2Q3JHMUdYeFJfcW41U2toNklXc2ZfY2ZMX0RkcmNFSkdNaEd1cF94LVFHZE10aWZKMkNaRDBLWTBRejNYWlFnZGNvM0E2a2c?oc=5\" target=\"_blank\">‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Y0Y0NHpmbTh5T0pmYzV2Q3JHMUdYeFJfcW41U2toNklXc2ZfY2ZMX0RkcmNFSkdNaEd1cF94LVFHZE10aWZKMkNaRDBLWTBRejNYWlFnZGNvM0E2a2c?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 03:59:00 GMT",
+        "source": "주간경향",
+        "ageHours": 1.7
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
