@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T07:51:42.064Z",
+  "lastCheckedAt": "2026-11-18T08:01:16.999Z",
   "seenPostIds": {
-    "971dc0a4524242f839d7d2d0b9cdeac26e7a21aa14a881ab0a79cc0e1f369ab5": {
-      "seenAt": "2026-11-15T03:41:15.807Z",
-      "title": "조국 \"늦었지만 조희대 탄핵해야…민주, 아무 일 하지 않아 내부서 역풍\" - 더팩트",
-      "targetName": "조국"
-    },
-    "74b31ade8c7b9a0e8434c6c43be48447b4466c6dffe175f3f91e169330f4bce6": {
-      "seenAt": "2026-11-15T03:51:17.043Z",
-      "title": "조국 이미 늦었지만…조희대 탄핵 후 사법개혁 완수하자 - 아주경제",
-      "targetName": "조국"
-    },
-    "f0996b0570bac88d239e2c78f11a59a0468015d1623b0cc5191f66aeae62912b": {
-      "seenAt": "2026-11-15T04:01:16.936Z",
-      "title": "한동훈 “李 재판 열리면 당선무효”…최민희 “거짓말마라” SNS 설전 - 세계일보",
-      "targetName": "한동훈"
-    },
     "18e0b64ada8fe242921b20c2962ca37b01629ceaf2eb9e46b085db404460ceca": {
       "seenAt": "2026-11-15T04:01:17.672Z",
       "title": "김민석 100일 앞 정청래 '깃발' 주목…혁신당 통합·조희대 탄핵 차별화 - 뉴스1",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-18T07:51:45.048Z",
       "title": "이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\" - 뉴시스",
       "targetName": "이준석"
+    },
+    "d64b4b424b6d87a9dc31340647c35f26e81d149d33a46f85c8e4b027c9ea09b9": {
+      "seenAt": "2026-11-18T08:01:18.247Z",
+      "title": "나경원 \"수능 대책 답답하고 다급…이준석 부정행위 탐지 앱 즉시 검증해야\" - 뉴스핌",
+      "targetName": "이준석"
+    },
+    "fe5d8dcaef0f8dfa03d79f24b910b34d4000b5e20e65aaec664397fb91ad0014": {
+      "seenAt": "2026-11-18T08:01:18.916Z",
+      "title": "정청래 \"최민희 징계 강력 반대\"…김민석 대표 향해 \"신천지 정치공작이 해당행위\" - 스페셜타임스",
+      "targetName": "김민석"
+    },
+    "4ed2c5270054bb5cbbf33b1506145786b24a645c3e72375e854a4b6047dfe359": {
+      "seenAt": "2026-11-18T08:01:19.573Z",
+      "title": "정청래 “최민희 징계 반대... 사과는 ‘그만하라’ 할 때까지 해야” - 조선일보",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "d64b4b424b6d87a9dc31340647c35f26e81d149d33a46f85c8e4b027c9ea09b9",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "나경원 \"수능 대책 답답하고 다급…이준석 부정행위 탐지 앱 즉시 검증해야\" - 뉴스핌",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZjJyQVlKbkY2Nm5xVkhSU01VOVdUZEtoVF9IS0lVdTM5OG1nc0VFTjlaVjVfRU5sbDd4d3FlS0RiaFFNYXIyOVVmQllJU1NtRDFVYktyaUx4amIy?oc=5\" target=\"_blank\">나경원 \"수능 대책 답답하고 다급…이준석 부정행위 탐지 앱 즉시 검증해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZjJyQVlKbkY2Nm5xVkhSU01VOVdUZEtoVF9IS0lVdTM5OG1nc0VFTjlaVjVfRU5sbDd4d3FlS0RiaFFNYXIyOVVmQllJU1NtRDFVYktyaUx4amIy?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 05:25:00 GMT",
-        "source": "뉴스핌",
-        "ageHours": 1.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "fe5d8dcaef0f8dfa03d79f24b910b34d4000b5e20e65aaec664397fb91ad0014",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "정청래 \"최민희 징계 강력 반대\"…김민석 대표 향해 \"신천지 정치공작이 해당행위\" - 스페셜타임스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0wTnZoeTM3d1BqbWZEczJHcHJvd0JZd1JKSFgwaXRyNVB2d1Y2bi0tMHdJaXMxN0RTdmVkeThsNjExVFIwNHpXMFlwWEhNeHB6RWpEb2hwT05EdHRBRngtSjhnZ1NOTEdmNUZiZ0E0TWY3Wnc?oc=5\" target=\"_blank\">정청래 \"최민희 징계 강력 반대\"…김민석 대표 향해 \"신천지 정치공작이 해당행위\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스페셜타임스</font>",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wTnZoeTM3d1BqbWZEczJHcHJvd0JZd1JKSFgwaXRyNVB2d1Y2bi0tMHdJaXMxN0RTdmVkeThsNjExVFIwNHpXMFlwWEhNeHB6RWpEb2hwT05EdHRBRngtSjhnZ1NOTEdmNUZiZ0E0TWY3Wnc?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 07:02:23 GMT",
-        "source": "스페셜타임스",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4ed2c5270054bb5cbbf33b1506145786b24a645c3e72375e854a4b6047dfe359",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래 “최민희 징계 반대... 사과는 ‘그만하라’ 할 때까지 해야” - 조선일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNYkVjR09LVnRZWjBKSW9WZFNBVnBMNEY0QlAzQ3ZZTnczUVoyVEx3TE1qcS1rUVp5dFpXV2o1YWhXckpadkFYMEN2S3R4aTRDQUROdkJfQWRPRU9SVVJRcl81ZXBQUDRoZERPb0RPV0FncUd6S1kwZmZqVld1bUlYZ2U1LXZ5Zw?oc=5\" target=\"_blank\">정청래 “최민희 징계 반대... 사과는 ‘그만하라’ 할 때까지 해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYkVjR09LVnRZWjBKSW9WZFNBVnBMNEY0QlAzQ3ZZTnczUVoyVEx3TE1qcS1rUVp5dFpXV2o1YWhXckpadkFYMEN2S3R4aTRDQUROdkJfQWRPRU9SVVJRcl81ZXBQUDRoZERPb0RPV0FncUd6S1kwZmZqVld1bUlYZ2U1LXZ5Zw?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 05:12:00 GMT",
-        "source": "조선일보",
-        "ageHours": 2.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "8ef932d817c77eebb3475b126e767f0c72c1311c46486f610df53d79b812a1fb",
@@ -2642,6 +2594,54 @@
         "pubDate": "Wed, 18 Nov 2026 06:21:04 GMT",
         "source": "공공뉴스",
         "ageHours": 1.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "6f34e2fcd594e67d12b47790857430ee9e7dd335053455fd873bc04316945edb",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9pUHc1WWRaRi1md3R6WkhrQU9PaWRqcGVLN0hDQ2x1eTRYOTROemQtRkhhbWRzSkxGYUwxQ3FiTWtaM3BCaUx5SEs2dm9VYmZxR2JxZlR1SlZ6WGs0amw5dTFZcmNXZ0hMNmVPQW1KNXFUQmViYUlKV3ZIX2M4VWvSAX9BVV95cUxPaVB3NVlkWkYtZnd0elpIa0FPT2lkanBlSzdIQ0NsdXk0WDk0TnpkLUZIYW1kc0pMRmFMMUNxYk1rWjNwQmlMeUhLNnZvVWJmcUdicWZUdUpWelhrNGpsOXUxWXJjV2dITDZlT0FtSjVxVEJlYmFJSld2SF9jOFVr?oc=5\" target=\"_blank\">'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pUHc1WWRaRi1md3R6WkhrQU9PaWRqcGVLN0hDQ2x1eTRYOTROemQtRkhhbWRzSkxGYUwxQ3FiTWtaM3BCaUx5SEs2dm9VYmZxR2JxZlR1SlZ6WGs0amw5dTFZcmNXZ0hMNmVPQW1KNXFUQmViYUlKV3ZIX2M4VWvSAX9BVV95cUxPaVB3NVlkWkYtZnd0elpIa0FPT2lkanBlSzdIQ0NsdXk0WDk0TnpkLUZIYW1kc0pMRmFMMUNxYk1rWjNwQmlMeUhLNnZvVWJmcUdicWZUdUpWelhrNGpsOXUxWXJjV2dITDZlT0FtSjVxVEJlYmFJSld2SF9jOFVr?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 06:14:02 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "73f833f94ff7d9a5048d77d836747bdae647383de164dc0a56755ea62de85b6e",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야” - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ha25SSnd3U0ZwRzA5WHl5eVVZNFRSbUJFdnVhSmJGVGdHU0FidUJXOW1YeGVTT2NBYVRodEg2NXppSF84dDB2TnlNckZZVGpxT2VTWFZ5bnFjSC1ROFV6TmJzLXRnaVZfaGJn0gFUQVVfeXFMT3FzU3FBeG5VNDJ1R0xYMmRZOV8xdnR6RDQ1aHpsMUJYY0szNUlQOHJXektzV196dWJkV0dGZmtTVGllcHo0b3g0LTlReUhrTXBBamg1?oc=5\" target=\"_blank\">추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ha25SSnd3U0ZwRzA5WHl5eVVZNFRSbUJFdnVhSmJGVGdHU0FidUJXOW1YeGVTT2NBYVRodEg2NXppSF84dDB2TnlNckZZVGpxT2VTWFZ5bnFjSC1ROFV6TmJzLXRnaVZfaGJn0gFUQVVfeXFMT3FzU3FBeG5VNDJ1R0xYMmRZOV8xdnR6RDQ1aHpsMUJYY0szNUlQOHJXektzV196dWJkV0dGZmtTVGllcHo0b3g0LTlReUhrTXBBamg1?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 07:32:43 GMT",
+        "source": "세계일보",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5b3c10bbf085fead6415e338b0d0e1d3aa886967d7267a513554493a72b885b9",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "‘석청 대타협’ 제안한 송영길에…정청래 “자격미달자는 나서지 말라” - www.dt.co.kr",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VUDZpSlZSNnFOTUp6eDhBanM2RW1fNWlzV1lPRkNQcmJ3RnVTaTVoTjBEVk9NMGUyX2I3NDNJeTBnWDRMUU1FUjVLUWVSZw?oc=5\" target=\"_blank\">‘석청 대타협’ 제안한 송영길에…정청래 “자격미달자는 나서지 말라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.dt.co.kr</font>",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VUDZpSlZSNnFOTUp6eDhBanM2RW1fNWlzV1lPRkNQcmJ3RnVTaTVoTjBEVk9NMGUyX2I3NDNJeTBnWDRMUU1FUjVLUWVSZw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:11:36 GMT",
+        "source": "www.dt.co.kr",
+        "ageHours": 23.8
       },
       "delivered": [],
       "archived": false
