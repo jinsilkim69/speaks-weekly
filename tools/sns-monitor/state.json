@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T03:41:17.033Z",
+  "lastCheckedAt": "2026-11-18T03:51:15.876Z",
   "seenPostIds": {
-    "134f73bf7802aaaa47578ba5cf5aa7addf7645ff78a9acc9be3f720f9643442a": {
-      "seenAt": "2026-11-14T12:21:19.892Z",
-      "title": "장동혁 “청와대가 안전한 도피처라 믿나”…이재명 대통령 ‘도피처’ 발언 맞받아 - 스페셜타임스",
-      "targetName": "이재명"
-    },
-    "f1b14a95fd4989dde202939139b52a31c6df7d6e574988f5be6fd5d840b9ee72": {
-      "seenAt": "2026-11-14T12:21:20.666Z",
-      "title": "김민석號 출범 100일 앞두고 '내부 갈등' 위기 최고조 - 노컷뉴스",
-      "targetName": "김민석"
-    },
-    "b8de9773b21e023fbabd41662967f39fdc9db755bd2e9e1194d23cd530a7b611": {
-      "seenAt": "2026-11-14T12:31:18.955Z",
-      "title": "Dana White-Donald Trump press secretary episode doubles as promotion for UFC 334 - The New York Times",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "0ab3b7c3d727010a3bda8cad2d98e45fee5c7e628d0a1a9f63df008b0c97f462": {
       "seenAt": "2026-11-14T12:41:15.698Z",
       "title": "이준석 “내가 노무현 추천서 받았다고?” 전한길 형사고소 예고 - 미디어오늘",
@@ -2514,6 +2499,11 @@
     "8c3b8fa2b958a2a6a929b395ca36ab201b1d751c6944cfe517db69854f9add58": {
       "seenAt": "2026-11-18T03:41:20.204Z",
       "title": "\"이재용·MB·박근혜도 日 입국 막나\"…조국, 박노자 글 공유해 '전과설' 반박 - 이데일리",
+      "targetName": "조국"
+    },
+    "a543344f94ccbfe81802c969d279b4318ea15dc2309816f154b04cb814d04ed9": {
+      "seenAt": "2026-11-18T03:51:17.161Z",
+      "title": "조국 \"전과자는 사전 비자 받아야? 그런 법 없다\" - OhmyNews",
       "targetName": "조국"
     }
   },
