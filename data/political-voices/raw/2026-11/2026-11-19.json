@@ -754,5 +754,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e97e3ba8f7c8244d96d319b7047a4c38afcf5307e4c39c1d62c735c0ec0b7441",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "최민희 징계 불씨에 정청래·추미애 가세…민주당 내홍 격화 - 서울경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TNHFudnBQSWcyMkFJWExDVG14UGlmV1RvUDZNTlAxQUExZl9aT3k4TW5GYm1tbFl0a0hBdzFZNl96N185bklTaUpTaVBxbWdmTVHSAVNBVV95cUxNNzVxeFNnWV96Mm9fdExHWUdJbk8yT1BrTTdMamkzWHlHZF9pSWNUel84eWRSWHRJZ1F6czl4VjVTWGNvSkhrNmZNRy13Tk1tejlnSQ?oc=5\" target=\"_blank\">최민희 징계 불씨에 정청래·추미애 가세…민주당 내홍 격화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TNHFudnBQSWcyMkFJWExDVG14UGlmV1RvUDZNTlAxQUExZl9aT3k4TW5GYm1tbFl0a0hBdzFZNl96N185bklTaUpTaVBxbWdmTVHSAVNBVV95cUxNNzVxeFNnWV96Mm9fdExHWUdJbk8yT1BrTTdMamkzWHlHZF9pSWNUel84eWRSWHRJZ1F6czl4VjVTWGNvSkhrNmZNRy13Tk1tejlnSQ?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 21:50:00 GMT",
+    "source": "서울경제",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 최민희 징계 불씨에 정청래·추미애 가세…민주당 내홍 격화",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
