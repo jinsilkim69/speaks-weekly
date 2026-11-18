@@ -4824,3 +4824,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장인상 마친 한동훈 "추경호 무죄는 당연…특검, 무리한 수사·기소 탓" - 뉴스1
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장인상 마친 한동훈 "추경호 무죄는 당연…특검, 무리한 수사·기소 탓"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZLVVlQmU3YklKemFCTEhRWlpxUXhLNWpSd3p1bDlGMFBRUVpDcll3eWV1OUp3YVpCRjZWTVVGZGhqMWZhNm00VUdCYWNIZVZvVWthelpkdlp6dw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '추경호 무죄'에 한동훈 "무죄 받을 것이라 지적해왔다…당연한 귀결" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '추경호 무죄'에 한동훈 "무죄 받을 것이라 지적해왔다…당연한 귀결"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTFBkV3RtZ3owR0Q3Y3Y3NGZBMkp0TEQzZE1KUHVIYWNOS1dVSmY0MTVnTm9zY0hnSWg3TFZWS1ZOZHBOXy1pb2p3TnExN0E5ajRKdnBFdVNDMDhNazJmdS11R3VDc1E1bE1WQkdSQ2l6VF9HZ9IBckFVX3lxTFBkV3RtZ3owR0Q3Y3Y3NGZBMkp0TEQzZE1KUHVIYWNOS1dVSmY0MTVnTm9zY0hnSWg3TFZWS1ZOZHBOXy1pb2p3TnExN0E5ajRKdnBFdVNDMDhNazJmdS11R3VDc1E1bE1WQkdSQ2l6VF9HZw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 중수청, ‘한동훈 딸 허위 스펙·수사 무마’ 사건 공수처·경찰 이첩 - 중앙신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 중수청, ‘한동훈 딸 허위 스펙·수사 무마’ 사건 공수처·경찰 이첩
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgNBVV95cUxQWFZhUEpjbnQ4OGc3c3ZmWDRibjlZMWsxZEtLeFUxSzFMQkE3aHRWSlFrbS1oMVF2R3M0M21TWEw5ckJORGpuQlY4SmEyZDB5WW1jRW4tTlpvODBMVEdldHA1bFNRQkdEUXYzUDdTTWpFY0VVRkdkWFprdnpzY3U1UFdkYjB4U2puNHlOTUdqVWNVVEpPTzFLa2VXWXN0b3VYdXNMdElqaV8tbTZCMm54RURUSjFSSHZvOEZIY2xiY3ZlZlEzVW14MG5xMGRZa3UzNDh0RHU3UWxubWFlZThCY2FUX0kyM1Y0RnJQRTNGS1o4VldqakdtNGROZDU3RHVwd3JQdHlLYkZoQ3BHX2ZsMHZrQ1I5ZHBVQ3ZJeHFyZVJTWGFtMlA4R3ptQlBuUWNmdHZUaEZKUlhMSVM0UDNPd0tQajltNmI0RE43SlUyMGZNV3U0Rmpjb0xJVUp6b2VtV0FUMmM2Nlp3ZS13ZkFYUVI4MWVPLTdHN3FlTUtSS2VnbFVJS1E?oc=5)
+
+---
+

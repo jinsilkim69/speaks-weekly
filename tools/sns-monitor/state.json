@@ -1,56 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T06:41:20.216Z",
+  "lastCheckedAt": "2026-11-18T07:21:16.011Z",
   "seenPostIds": {
-    "9ca1c31ec39a7a90401c1b6c92aa8e0cd8f7f525a89a42e719e65a69ae24249f": {
-      "seenAt": "2026-11-15T01:21:18.225Z",
-      "title": "연일 ‘조희대 탄핵’ 외치는 조국혁신당의 두 가지 셈법 - 에너지경제신문",
-      "targetName": "조국"
-    },
-    "43636a2d971887a3ae306b8659f35f99c4f3aabae504d0cd12901731d85025aa": {
-      "seenAt": "2026-11-15T01:31:25.080Z",
-      "title": "김민석, '언행 논란' 최민희 당 윤리감찰단 조사 지시 : 정치 - 재경일보",
-      "targetName": "김민석"
-    },
-    "240a2a5e646aed0b10f50dac1bf642d4f8ffa945840b364b9d5d437d90f0b19a": {
-      "seenAt": "2026-11-15T02:11:16.675Z",
-      "title": "조국 \"늦었지만 조희대 탄핵해야…적기 놓치니 曺가 주도권 행사\" - 뉴스1",
-      "targetName": "조국"
-    },
-    "68d3cce6a2bd64a84fbf7e0645989f491e0c4ef27c294d26fefaa4480bee8d7d": {
-      "seenAt": "2026-11-15T02:21:18.565Z",
-      "title": "[김능구·황장수의 닥터둠의 전망 11월②] YS·DJ도 위기 땐 손잡았다… 김민석·정청래, 계파 넘어 당 위기 수습해야 - 폴리뉴스 Polinews",
-      "targetName": "정청래"
-    },
-    "026f17fa800a0a3637939c0bc3322e0f2a0f7f11a2b3ee5cb78d7541683ec238": {
-      "seenAt": "2026-11-15T02:21:19.380Z",
-      "title": "송영길 의원, 소방재정 안정화·구급차 제도 개선 추진 - 일간투데이",
-      "targetName": "송영길"
-    },
-    "eb429167b0e094611f43bdfcc2554cdcdcecc8bb81dfc0a857830b849da5e43b": {
-      "seenAt": "2026-11-15T02:31:17.095Z",
-      "title": "조국 \"與, 아무 일도 하지 않아 진영 내부서 역풍…조희대 탄핵해야\" - 뉴시스",
-      "targetName": "조국"
-    },
-    "4d2a3439885e9097b53c519366014b71116dac21a0cc5f5b1def0f7591b55aeb": {
-      "seenAt": "2026-11-15T02:31:17.850Z",
-      "title": "신장식 조국혁신당 원내대표 “굴 어업인 위한 문제 제기였다”…통영서 직접 해명 - 통영신문",
-      "targetName": "신장식"
-    },
-    "3213a677ee22426bfa31b11e3766ef843342319b5d150ae0f7d909668eac1102": {
-      "seenAt": "2026-11-15T02:31:18.592Z",
-      "title": "Where is Trump? He hasn’t commented on FAA incident - CNN",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "f0d7a52f04dbf1b5c2ff9988e12140098010ae257329c143c0e5f52584c7b54b": {
-      "seenAt": "2026-11-15T02:41:15.927Z",
-      "title": "Trump Posts More Than 40 Images Of Latest Renovation Obsession Amid Heated Legal Battle - HuffPost",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "53626faef4244ea54593c6ba8b6b8b3b2a20165d10acbdb70e5b70f292eb78bc": {
-      "seenAt": "2026-11-15T02:41:16.666Z",
-      "title": "조국 이미 늦었지만…조희대 탄핵 후 사법개혁 완수하자 - 아주경제",
-      "targetName": "조국"
-    },
     "ee917a54034f5d0ebef0c675e3c056a2413cc75b4733212e9e231c3ed250a7c7": {
       "seenAt": "2026-11-15T02:41:17.379Z",
       "title": "신장식 조국혁신당 원내대표 “굴 어업인 위한 문제 제기였다”…통영서 직접 해명 - 통영신문",
@@ -2550,7 +2500,183 @@
       "seenAt": "2026-11-18T07:11:15.314Z",
       "title": "정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라 - 인터넷타임즈",
       "targetName": "조국"
+    },
+    "8861e87f9481f58d841d7894a0fa5951b533eed78cfb58a77efa9280e02b0a7a": {
+      "seenAt": "2026-11-18T07:21:17.060Z",
+      "title": "장인상 마친 한동훈 \"추경호 무죄는 당연…특검, 무리한 수사·기소 탓\" - 뉴스1",
+      "targetName": "한동훈"
+    },
+    "db2aca7dfe73aa346548ab9bfa43769a39ce6f6913e86e90d6e29415c1e7e3b4": {
+      "seenAt": "2026-11-18T07:21:17.694Z",
+      "title": "'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
+    },
+    "3674a61f241adcb656fd197b51793c66d7934d294d22f375590b6c97f4169d44": {
+      "seenAt": "2026-11-18T07:21:18.325Z",
+      "title": "중수청, ‘한동훈 딸 허위 스펙·수사 무마’ 사건 공수처·경찰 이첩 - 중앙신문",
+      "targetName": "한동훈"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "fad48867309b109f696f20cbfc71fcd187cd6559db1cb3faef901fcfa7f9bc65",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "서울중수청, 한동훈 딸 ‘허위 스펙’ 고발건 공수처·경찰 나눠 이첩 - 법률신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1wVnhGaDJzY2FPX0NCclBrSnBFTGhXWC1iaFhDN0hpNjVJVFRjMW9NN2U5ZVNqM3VsOE5LS1R3X21oamx3bDVTVUczd09UYnFBS0g3Y3NWSnc3N3JEendwNzk3WU5mVnJ5UHY1ekZB0gFyQVVfeXFMTUZRU1k1b0tjdXNRZDMyOXJiQUlURFpDMWZ4cHBrTmtuY3pJRUk5ZERuMUN6MFdEcDdJQ2dwOXY1ZFh0NjhQbWdCWTZXc1l1Y0cxOU80R3FzSVMwS1VjZDZKRFVGNU9ETWxqcko0Nm9oU0R3?oc=5\" target=\"_blank\">서울중수청, 한동훈 딸 ‘허위 스펙’ 고발건 공수처·경찰 나눠 이첩</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">법률신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wVnhGaDJzY2FPX0NCclBrSnBFTGhXWC1iaFhDN0hpNjVJVFRjMW9NN2U5ZVNqM3VsOE5LS1R3X21oamx3bDVTVUczd09UYnFBS0g3Y3NWSnc3N3JEendwNzk3WU5mVnJ5UHY1ekZB0gFyQVVfeXFMTUZRU1k1b0tjdXNRZDMyOXJiQUlURFpDMWZ4cHBrTmtuY3pJRUk5ZERuMUN6MFdEcDdJQ2dwOXY1ZFh0NjhQbWdCWTZXc1l1Y0cxOU80R3FzSVMwS1VjZDZKRFVGNU9ETWxqcko0Nm9oU0R3?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 06:50:52 GMT",
+        "source": "법률신문",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "58de35cca294a9f242a24de1fb02f7cba7dd5a9db07652a39e58c377e727c439",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "추경호 무죄에…나경원부터 한동훈까지 \"특검의 억지수사·정치기소 귀결\" - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQOVc4NWhUMnJfWU1COW5McmY1V1dUVENKX29CUDdCVjNXOGVFWVd3aHQtNTFDUUVBemQ1YWNUd2FLUlA5QkxhMFhVTnNwdzd5NXpZLVRidC1vZFdhbVJjRmlfUDVMMVZ2YzNqUFlpa0xrTXByU094Z2xra3FUbHJ0QmFxeXNlQ1g2TDQ0bnBxYUktbl9MaFZSdEYtTmxYRXMzVXJYNTRzMHNac1JUVmRMS0F0TG5OX3BES041WndwS1NBdFZCakFEblQwVlZWR3VXZjQwU090ZFZKekNFbWdnTGJJYnZtNEFmLVFFREtGdDZQQV8tMlV6REczcFJ3UlhMd05hQ21GOFVDVkRwQjN6ZU9nUG02N0ozMUJZbENGLXRKNUk?oc=5\" target=\"_blank\">추경호 무죄에…나경원부터 한동훈까지 \"특검의 억지수사·정치기소 귀결\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQOVc4NWhUMnJfWU1COW5McmY1V1dUVENKX29CUDdCVjNXOGVFWVd3aHQtNTFDUUVBemQ1YWNUd2FLUlA5QkxhMFhVTnNwdzd5NXpZLVRidC1vZFdhbVJjRmlfUDVMMVZ2YzNqUFlpa0xrTXByU094Z2xra3FUbHJ0QmFxeXNlQ1g2TDQ0bnBxYUktbl9MaFZSdEYtTmxYRXMzVXJYNTRzMHNac1JUVmRMS0F0TG5OX3BES041WndwS1NBdFZCakFEblQwVlZWR3VXZjQwU090ZFZKekNFbWdnTGJJYnZtNEFmLVFFREtGdDZQQV8tMlV6REczcFJ3UlhMd05hQ21GOFVDVkRwQjN6ZU9nUG02N0ozMUJZbENGLXRKNUk?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 06:48:00 GMT",
+        "source": "데일리안",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "58389881486dd82518cbc67275f416fc1acf3ad200bc2d3726d1ed6b009a0ecd",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래까지 나섰다…민주당 계파 갈등 재격화 - 매일일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DbDRiREpjY2swMW9QU1Q4TnlIUmJaWDNXRU9yM2VUbV9rM3Y1N3dtSW1XeXI3MG1LV0RHVldJOEtMcGZGcXpRb0c5Q3NkSkxTQTJoTDBYMWRpVFN6TUQ4aDlJVFE?oc=5\" target=\"_blank\">정청래까지 나섰다…민주당 계파 갈등 재격화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DbDRiREpjY2swMW9QU1Q4TnlIUmJaWDNXRU9yM2VUbV9rM3Y1N3dtSW1XeXI3MG1LV0RHVldJOEtMcGZGcXpRb0c5Q3NkSkxTQTJoTDBYMWRpVFN6TUQ4aDlJVFE?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 06:41:43 GMT",
+        "source": "매일일보",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "32f4d157ae5649d3e51c8348d059a49c908d32a379d9695122fe6f5951f2a5b9",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래 \"최민희 징계 강력반대\"…金에 \"신천지가 더 큰 해당행위\" - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkRWJVODhNcnc4YkxnVzA0aVpldndLZ0tiRkZUVTdlTUY3ZkRGUHpoRFJjckk5S3FNTENNZ2JnSTN6TXFSUUtoRlJiZXdPcFRLZTZSMW90SnA4VWlpNUJweNIBYEFVX3lxTFBkRWJVODhNcnc4YkxnVzA0aVpldndLZ0tiRkZUVTdlTUY3ZkRGUHpoRFJjckk5S3FNTENNZ2JnSTN6TXFSUUtoRlJiZXdPcFRLZTZSMW90SnA4VWlpNUJweA?oc=5\" target=\"_blank\">정청래 \"최민희 징계 강력반대\"…金에 \"신천지가 더 큰 해당행위\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkRWJVODhNcnc4YkxnVzA0aVpldndLZ0tiRkZUVTdlTUY3ZkRGUHpoRFJjckk5S3FNTENNZ2JnSTN6TXFSUUtoRlJiZXdPcFRLZTZSMW90SnA4VWlpNUJweNIBYEFVX3lxTFBkRWJVODhNcnc4YkxnVzA0aVpldndLZ0tiRkZUVTdlTUY3ZkRGUHpoRFJjckk5S3FNTENNZ2JnSTN6TXFSUUtoRlJiZXdPcFRLZTZSMW90SnA4VWlpNUJweA?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 05:39:25 GMT",
+        "source": "연합뉴스",
+        "ageHours": 1.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "dc872e0b8186f59e1c0372b0036582477fa58f6181e10492f9b59a2a0e19ed28",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래 \"최민희 징계 강력하게 반대\"…논란 6일만에 직접 참전 - 부산일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0wWHZuTmU5QW9jVDU5dEd1WTFmZ2lEZ3RScEY3Q1FzYm5LWlhXSXMxdmpPcEZwSHRtOUNXbDVvcmNGZGpBWXBZQkRBMkFXX3ZoaDIzbjViWGhibmR6ZGs3OEFOQW9wNWRLbTFQNWpVdXdZNVRV?oc=5\" target=\"_blank\">정청래 \"최민희 징계 강력하게 반대\"…논란 6일만에 직접 참전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wWHZuTmU5QW9jVDU5dEd1WTFmZ2lEZ3RScEY3Q1FzYm5LWlhXSXMxdmpPcEZwSHRtOUNXbDVvcmNGZGpBWXBZQkRBMkFXX3ZoaDIzbjViWGhibmR6ZGs3OEFOQW9wNWRLbTFQNWpVdXdZNVRV?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 06:49:44 GMT",
+        "source": "부산일보",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "64459d9802489401288945e4b058075136b5a1d1bed86ffc844e0c6ef8023968",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래 \"최민희 징계 강력 반대\"…김민석 대표 향해 \"신천지 정치공작이 해당행위\" - 스페셜타임스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0wTnZoeTM3d1BqbWZEczJHcHJvd0JZd1JKSFgwaXRyNVB2d1Y2bi0tMHdJaXMxN0RTdmVkeThsNjExVFIwNHpXMFlwWEhNeHB6RWpEb2hwT05EdHRBRngtSjhnZ1NOTEdmNUZiZ0E0TWY3Wnc?oc=5\" target=\"_blank\">정청래 \"최민희 징계 강력 반대\"…김민석 대표 향해 \"신천지 정치공작이 해당행위\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스페셜타임스</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wTnZoeTM3d1BqbWZEczJHcHJvd0JZd1JKSFgwaXRyNVB2d1Y2bi0tMHdJaXMxN0RTdmVkeThsNjExVFIwNHpXMFlwWEhNeHB6RWpEb2hwT05EdHRBRngtSjhnZ1NOTEdmNUZiZ0E0TWY3Wnc?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 07:02:23 GMT",
+        "source": "스페셜타임스",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "8f6f2448dfc5117b196494dd43a3d948268a592709a1c1c39f12daea38c97528",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 의원, 민주당 내 갈등 해결 촉구…정청래의 강한 반발과 그 속내 - 공감신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMnloNWpGLXJveWwtTXp6WmxvZzVpYmJzbng0ZlBqY1oyRGJfRy1ZTVZZVldKYUpkTTZaSkZXZEJRQ3Bxc3QzbDhBYjZmNXQ4NTVDcmFiUGt1R0I5c2k2aGlCcV9nN0Nu?oc=5\" target=\"_blank\">송영길 의원, 민주당 내 갈등 해결 촉구…정청래의 강한 반발과 그 속내</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">공감신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMnloNWpGLXJveWwtTXp6WmxvZzVpYmJzbng0ZlBqY1oyRGJfRy1ZTVZZVldKYUpkTTZaSkZXZEJRQ3Bxc3QzbDhBYjZmNXQ4NTVDcmFiUGt1R0I5c2k2aGlCcV9nN0Nu?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 22:19:17 GMT",
+        "source": "공감신문",
+        "ageHours": 9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "c08e8593159da5598d4fd7f857888765649535076cdbd1071267a56e055acd10",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해” [현장영상] - 채널A",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyYWdkdDlXNkw5ZjNaa0VVOTdyajkyOElGOVNpRWp2alBpTzl0T2NiRTduMWZTdHFfalVTRmhFTXZsQXMtcTI5YXBxWEF0X0EzdHEyYzkxT1pEcXVvbVHSAWNBVV95cUxPc1NldThKcEdsVGZTU1p6YVJsSEFNNXJMLVlUUktkeGRzT3l3RzJJRmF4NXlSSngyMGNjZDNzdW1XR25wa1J6V3ZFZlAxZHg1TnE2M2N6ajBZbFNqYTk3ZDlpbWM?oc=5\" target=\"_blank\">정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해” [현장영상]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyYWdkdDlXNkw5ZjNaa0VVOTdyajkyOElGOVNpRWp2alBpTzl0T2NiRTduMWZTdHFfalVTRmhFTXZsQXMtcTI5YXBxWEF0X0EzdHEyYzkxT1pEcXVvbVHSAWNBVV95cUxPc1NldThKcEdsVGZTU1p6YVJsSEFNNXJMLVlUUktkeGRzT3l3RzJJRmF4NXlSSngyMGNjZDNzdW1XR25wa1J6V3ZFZlAxZHg1TnE2M2N6ajBZbFNqYTk3ZDlpbWM?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:11:00 GMT",
+        "source": "채널A",
+        "ageHours": 23.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "bd69574113eaa9f86d5b642656c2a07bc1e3a30eef0faf39a97091170bd024f3",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\" - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE16cHRwUHFYZ0hwcjRRUzM2T2c1MndtUEs1T1VZWlhiSkwtUngtcTA4YUk4MWpIbDlhYkR3QW9sY1pJQVZGSTZ1aGZsakQwMHJ0eDUtMmpFZEQySnFTQTYyc9IBeEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bQ?oc=5\" target=\"_blank\">이준석, 추경호 무죄에 \"법비들의 감옥 보내기 경쟁 끝내야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16cHRwUHFYZ0hwcjRRUzM2T2c1MndtUEs1T1VZWlhiSkwtUngtcTA4YUk4MWpIbDlhYkR3QW9sY1pJQVZGSTZ1aGZsakQwMHJ0eDUtMmpFZEQySnFTQTYyc9IBeEFVX3lxTE9YdzAwT3h6LXFjMzFqVWpfMy1uYWpQaUk4NlM4RVNyZnh0eEZkRWhwLTdJT1RsMUZTdU1wd1hCMkxOM2E1M0M0WWtYQUxTU3N5d0pCQ2lEU3hqNm1lazMtMlRNTzRlVm02OTZYRTI0MHdfNWswOVk3bQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 06:58:44 GMT",
+        "source": "뉴시스",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d64b4b424b6d87a9dc31340647c35f26e81d149d33a46f85c8e4b027c9ea09b9",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "나경원 \"수능 대책 답답하고 다급…이준석 부정행위 탐지 앱 즉시 검증해야\" - 뉴스핌",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZjJyQVlKbkY2Nm5xVkhSU01VOVdUZEtoVF9IS0lVdTM5OG1nc0VFTjlaVjVfRU5sbDd4d3FlS0RiaFFNYXIyOVVmQllJU1NtRDFVYktyaUx4amIy?oc=5\" target=\"_blank\">나경원 \"수능 대책 답답하고 다급…이준석 부정행위 탐지 앱 즉시 검증해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZjJyQVlKbkY2Nm5xVkhSU01VOVdUZEtoVF9IS0lVdTM5OG1nc0VFTjlaVjVfRU5sbDd4d3FlS0RiaFFNYXIyOVVmQllJU1NtRDFVYktyaUx4amIy?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 05:25:00 GMT",
+        "source": "뉴스핌",
+        "ageHours": 1.9
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
