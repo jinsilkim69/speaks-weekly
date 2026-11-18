@@ -5318,3 +5318,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '추경호 무죄'에 대여 공세 강화…'한동훈 복당' 계파 갈등도 확산 - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '추경호 무죄'에 대여 공세 강화…'한동훈 복당' 계파 갈등도 확산
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFBiZm9lZGdTX0l5SVNUampGYW56S0MwSDBjT2lKVi1ZWno2dGhvOGhYdWY4ay1wa2NTOTE2LWxuWURvUnJCUHhvSTZPR1dXZGRMdmx0Y0NqUzBrMUFiT0w5eG1lajMxNVNTUHkyMjV5TlNvZl9weklKLVUyd2NWeTjSAX9BVV95cUxQYmZvZWRnU19JeUlTVGpqRmFuektDMEgwY09pSlYtWVp6NnRobzhoWHVmOGstcGtjUzkxNi1sbllEb1JyQlB4b0k2T0dXV2RkTHZsdGNDalMwazFBYk9MOXhtZWozMTVTU1B5MjI1eU5Tb2ZfcHpJSi1VMndjVnk4?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 안철수, 추경호 무죄에 한동훈 겨냥…"유죄 기우제 지낸 무리 정리해야" - 뉴스핌
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 안철수, 추경호 무죄에 한동훈 겨냥…"유죄 기우제 지낸 무리 정리해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZQjJtZ3hnQW5YX3hVN0FPQlVIVUJOWURLNmhrUDNaUnZWQnl0b3JGN1h4V2RkV1ZydGZXcWJVUklWMW5HMXBMV3VQQVc4NVB0UnliRTNfeTUyazlW?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** "징계 반대" 정청래 참전에도…崔 최고위원직 위태 - 한국경제
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "징계 반대" 정청래 참전에도…崔 최고위원직 위태
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HUXVLU1VsWWd4b0dBN0h5VVc4XzdRTFB6aHpJV1VLa1JCcldhaWpSYVhoV09idllTeDhSY2RHeS1vdkEyMVZWS2NMbHJ0SzA5OHRLWlZfT1FJQQ?oc=5)
+
+---
+
