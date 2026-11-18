@@ -1,31 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T01:41:16.710Z",
+  "lastCheckedAt": "2026-11-18T02:11:19.964Z",
   "seenPostIds": {
-    "a37a4f42bc3be7030cb36259b1e6d38dca2b69a30a54fee7526f4f40a8f16d4d": {
-      "seenAt": "2026-11-14T09:51:18.302Z",
-      "title": "한동훈 \"우기면 추해\"⋯최민희와 '李대통령·尹 재판' 놓고 SNS 설전 - 아이뉴스24",
-      "targetName": "한동훈"
-    },
-    "fb4339537b65a278867dbadc6cbe5146f01675600dabf3e00bdc81d7e256e2e1": {
-      "seenAt": "2026-11-14T10:01:16.715Z",
-      "title": "李대통령 강추 `이재명의 시간`, 1년 뒤 베스트셀러 역주행 교보문고 정치사회 1위 - 매일신문",
-      "targetName": "이재명"
-    },
-    "77e3901b518f1f7a58ec29cdc03a653e9dc6698661001c04efaf9c5398971635": {
-      "seenAt": "2026-11-14T10:01:17.424Z",
-      "title": "이준석, 하버드 입학 의혹 제기한 전한길 추가 고소 예고 - 대전일보",
-      "targetName": "이준석"
-    },
-    "49f1d44df174cecd24a02105bf8a197fb8f0971954e660ebacb1c03fa63f3f00": {
-      "seenAt": "2026-11-14T10:01:18.069Z",
-      "title": "Trump Truth Social post attempting to big up his accomplishments backfired instantly - Indy100",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "2b8e811b081b9a2a933cc390aed07c2c8251d92d3572d71dd9981b854401b633": {
-      "seenAt": "2026-11-14T10:11:18.537Z",
-      "title": "[속보] 최민희·한동훈, 이재명·윤석열 재판 놓고 SNS 설전…“시한부 대통령” vs “공작재판” - 강원일보",
-      "targetName": "이재명"
-    },
     "ee3958775f5a2f69c257b1b8a34d5343d412de4f31b4cfc6801fd027db20a684": {
       "seenAt": "2026-11-14T10:11:19.267Z",
       "title": "[속보] 최민희·한동훈, 이재명·윤석열 재판 놓고 SNS 설전…“시한부 대통령” vs “공작재판” - 강원일보",
@@ -2525,7 +2500,71 @@
       "seenAt": "2026-11-18T01:51:30.074Z",
       "title": "Dem senator-elect mocks President Trump with AI Jesus image in 'Trumpcare for All' pitch - Fox News",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ee2659993df7dfb14d8ef0ba7ddcc859a7bdbc73e680228c4e89902b9e3ab980": {
+      "seenAt": "2026-11-18T02:11:21.014Z",
+      "title": "나경원 \"부정행위 1억 포상? 이준석 앱, 전문가 대책을 적극 검토하라\" - 머니투데이 - 머니투데이",
+      "targetName": "이준석"
+    },
+    "7fbf57d9cc057d99a3d4241e5787bc89a43debe4fae37859342a9a310aba7c54": {
+      "seenAt": "2026-11-18T02:11:21.654Z",
+      "title": "‘日 입국거부’ 일파만파…조국 “나를 불령선인으로 봤다” - 헤럴드경제",
+      "targetName": "조국"
+    },
+    "bc7d127f5391934991571292f829693954d3f3fdab88b1079e997616950cdf76": {
+      "seenAt": "2026-11-18T02:11:22.321Z",
+      "title": "전용기 \"조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋\" - 뉴시스",
+      "targetName": "조국"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "d315b0534af6d32e5634bd02996cc1c969c2123b51245000e9bd607fc00358c3",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5yUG1iUjAzTHhyYi1KVGJEQXprUjk3M0JZWU82MmJrSkZOS2JvWmhsUzlhSHNOeTJUc1dId3FUcWhBajBCdEZ0QmI4bWRJMFZVRFFBemJLVnJrelVOUGRlR3RRR2cyV1FYMXBvMmczVkhPLUg4ZE5XZ3Jn0gF_QVVfeXFMTlA4c3dXcGpBR0tGZWlqOEJMU3FZVy0xeFVVZzJZdUd0a3RGemF0ZUxUVWRSZmlpTENCVTFnSkt5c0pOUFdNbUV2NUNjY1NQQ0MxdzFDWjZwTFUxcG1vQ21BX3FTcHdpbzVSaTN4emZOenktMzNqdG44dFBxOUNkSQ?oc=5\" target=\"_blank\">전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yUG1iUjAzTHhyYi1KVGJEQXprUjk3M0JZWU82MmJrSkZOS2JvWmhsUzlhSHNOeTJUc1dId3FUcWhBajBCdEZ0QmI4bWRJMFZVRFFBemJLVnJrelVOUGRlR3RRR2cyV1FYMXBvMmczVkhPLUg4ZE5XZ3Jn0gF_QVVfeXFMTlA4c3dXcGpBR0tGZWlqOEJMU3FZVy0xeFVVZzJZdUd0a3RGemF0ZUxUVWRSZmlpTENCVTFnSkt5c0pOUFdNbUV2NUNjY1NQQ0MxdzFDWjZwTFUxcG1vQ21BX3FTcHdpbzVSaTN4emZOenktMzNqdG44dFBxOUNkSQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 00:25:57 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d9fa26765403287d8bc1314ebd62508f2a19f2a25a3c869354af36edeafa0f30",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Donald Trump’s Markwayne Mullin Story With Apparent AI Images Draws 25th Amendment Calls - Yahoo",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjMza2ltUHl0TjhucS1kaEJrT0lyeWVzeEhjLS1GR3RmaEI1SFhXbzFaMGxfdE81Vm9WNDFVUlVDTS1TY1ZmWXVja3FGRlZLNlB5UEJ1R2xIVUhMeWV0UnAzZXhVRUJlRUNBaUxsRjBGWUZvVGNGSjcwbW90aHl3bDgzTGVrLWc4SnlXZnNmZWpjd09lOWVPc2NtVQ?oc=5\" target=\"_blank\">Donald Trump’s Markwayne Mullin Story With Apparent AI Images Draws 25th Amendment Calls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjMza2ltUHl0TjhucS1kaEJrT0lyeWVzeEhjLS1GR3RmaEI1SFhXbzFaMGxfdE81Vm9WNDFVUlVDTS1TY1ZmWXVja3FGRlZLNlB5UEJ1R2xIVUhMeWV0UnAzZXhVRUJlRUNBaUxsRjBGWUZvVGNGSjcwbW90aHl3bDgzTGVrLWc4SnlXZnNmZWpjd09lOWVPc2NtVQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 08:23:10 GMT",
+        "source": "Yahoo",
+        "ageHours": 17.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "8ea954958a97e1e02dbf38e7db7c83034b3d07104035cf6701b5612b602cbbe2",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Biden’s fault? Trump’s fault? Fact-checking the partisan blame game about the FAA ground stop - PolitiFact",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3ZOaWw4X2JmZEJqLUVNY1p2NlZfak83Tk9aZElPNU80NHZYczk2bDdnVFJaUEFKRXhaSllKOVlaWm9obGczZkswNGlLT0ZCS25qaW1BeVh2eW5PLS0yMWJfMWxHZklsM0xHdlVfRVF3ZDViRnFKMUI1R3l4VmhMbXdoQkt2Qnc3MVRMTjM5Sm9uaVdXNWs0?oc=5\" target=\"_blank\">Biden’s fault? Trump’s fault? Fact-checking the partisan blame game about the FAA ground stop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PolitiFact</font>",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3ZOaWw4X2JmZEJqLUVNY1p2NlZfak83Tk9aZElPNU80NHZYczk2bDdnVFJaUEFKRXhaSllKOVlaWm9obGczZkswNGlLT0ZCS25qaW1BeVh2eW5PLS0yMWJfMWxHZklsM0xHdlVfRVF3ZDViRnFKMUI1R3l4VmhMbXdoQkt2Qnc3MVRMTjM5Sm9uaVdXNWs0?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 20:53:53 GMT",
+        "source": "PolitiFact",
+        "ageHours": 5.3
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

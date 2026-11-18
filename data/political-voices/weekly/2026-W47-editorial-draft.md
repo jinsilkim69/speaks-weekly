@@ -3914,3 +3914,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 나경원 "부정행위 1억 포상? 이준석 앱, 전문가 대책을 적극 검토하라" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 나경원 "부정행위 1억 포상? 이준석 앱, 전문가 대책을 적극 검토하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9udGtSV0FTUkh2cFJTNTlYU19pMU9laDZXRVdNNnhxd1lETHBONkg2U0FGYXg0MjBGb2szdTdiakdTc2NtWkM5V0J5bUVLN1RFV21fUEJYYUVVZHlWTHFfb2R3VXR4dVlhdmxSN9IBckFVX3lxTE5DRTdfTWd3NnlQMjVvUUhHcjg1TFN2VHlNM0FxY2VPX0QzNUpsVlpMMS1xRVNtOF92UU5lM2ktNmpPdE1Pdl9rRERuWEdjLUhJM0QtaGVoWUg0dHJSa1pOX3FqNmhHMmJYNERMTU5feC12QQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** ‘日 입국거부’ 일파만파…조국 “나를 불령선인으로 봤다” - 헤럴드경제
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘日 입국거부’ 일파만파…조국 “나를 불령선인으로 봤다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yYkFWYjE2Y3JyUGdyeEtrdXdjVk9hbFppOXdYc1FfUmtvMFRjYk5GaEd0Ny1wWWotYlIyOGpSSDZ1cmRvYmd5YUNyUTZmLUJCNlljYVl3?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 전용기 "조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋" - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 전용기 "조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6M2hDZ192OXkzVEI2bGF6eHVqN3p6Z1NvRVJmQWhyVmFybHVCeW9GMEtMeHBzTC1VZUxMV1J4SU5LTjQ4cHNDdnRhMUZ0RFo0a1lpN3MtQkp5bXp5Q0lXWtIBeEFVX3lxTFB5Rll5bFhLTVhET3Y5OWdVdHpIc0pqbWppcnFfZEFYWGhKMFJBS1dEdldoTlhHUDdBMTRzdEpKM1RMeTJsZmZwcEJhMlVWSFh0X1dMZ0tRX1NaaDMxMUlYU1V6M2JnNWgxSEVaa0taVW9rRUgzS2Rhbw?oc=5)
+
+---
+
