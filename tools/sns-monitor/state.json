@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T00:11:17.001Z",
+  "lastCheckedAt": "2026-11-18T00:21:18.591Z",
   "seenPostIds": {
-    "4547b42412040ca9e692687113b177aef41f844053f5216a895118f1c306b82e": {
-      "seenAt": "2026-11-14T08:41:15.865Z",
-      "title": "한동훈·최민희, 이재명·윤석열 재판 놓고 설전…“시한부 대통령” vs “거짓말” [이런정치] - 헤럴드경제",
-      "targetName": "한동훈"
-    },
-    "d9f6428367d0094c3c983ddbf53ea83c64576fbaa7ba81a7a82492ed7459ac21": {
-      "seenAt": "2026-11-14T08:51:18.060Z",
-      "title": "한동훈, 최민희와 '李·尹 공직선거법 재판' 두고 공방…\"우기면 추해\" - 뉴시스",
-      "targetName": "한동훈"
-    },
     "50c8d27ade88c98bb7a277d44aaf064d3a8c1ef60eb857d566a5aa36167f6436": {
       "seenAt": "2026-11-14T08:51:19.037Z",
       "title": "박지원 \"김민석-정청래 싸움, 대통령 지지율 '뚝'...죽이 되든 밥이 되든 만나, 적당히들 하길\"[여의도초대석] - KBC광주방송",
@@ -2510,7 +2500,39 @@
       "seenAt": "2026-11-18T00:11:18.886Z",
       "title": "정청래, '김민석과 대타협 촉구' 송영길에 \"자격 미달자는 나서지 마시라\" - 뉴스핌",
       "targetName": "정청래"
+    },
+    "79168916ca0ee7207756ca7f642332005ed41f32a23f0f86328e1c26850d2681": {
+      "seenAt": "2026-11-18T00:21:19.897Z",
+      "title": "추미애, 최민희 징계 논란에 \"김민석부터 엄중히 판단해야\" - KBC광주방송",
+      "targetName": "김민석"
+    },
+    "ead23fa72080254df56b298b11f6e88f3e973a3bfba714d84ac9d87acd25569d": {
+      "seenAt": "2026-11-18T00:21:20.615Z",
+      "title": "추미애, 최민희 징계 수순에 “김민석 발언부터 엄중 판단해야” - 강원도민일보",
+      "targetName": "김민석"
+    },
+    "305a63b1130b32b515fc7165681b4d7a737f0b22d9c1a7917d719456aec7e84f": {
+      "seenAt": "2026-11-18T00:21:21.317Z",
+      "title": "정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해” [현장영상] - 채널A",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "87e10bd851fadc6e370d7970bdc6289e2d2274b4691b0894f2fb5053b23fbc46",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "[속보] 조국 \"'전과'로 日입국 거부? 삼성 이재용, 이명박·박근혜도 거부당할까?\" 글 공유 - 프레시안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9jU3RTUkp6YnpJczQ5eWpZMlRyZFVfMmxxd29reVE1ZFl0eWJDMWdyRlVDMk5FS2pEQkFHcWltNDNTcFdjUERFQ093RVVKNEFJMFU4cnl3dkNYQzdIbmRPMF9ua3V6emJkZmh3ZVRHZzVieVlwLXNXX3dicw?oc=5\" target=\"_blank\">[속보] 조국 \"'전과'로 日입국 거부? 삼성 이재용, 이명박·박근혜도 거부당할까?\" 글 공유</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jU3RTUkp6YnpJczQ5eWpZMlRyZFVfMmxxd29reVE1ZFl0eWJDMWdyRlVDMk5FS2pEQkFHcWltNDNTcFdjUERFQ093RVVKNEFJMFU4cnl3dkNYQzdIbmRPMF9ua3V6emJkZmh3ZVRHZzVieVlwLXNXX3dicw?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 23:58:58 GMT",
+        "source": "프레시안",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

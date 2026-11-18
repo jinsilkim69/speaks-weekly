@@ -3732,3 +3732,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, 최민희 징계 논란에 "김민석부터 엄중히 판단해야" - KBC광주방송
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, 최민희 징계 논란에 "김민석부터 엄중히 판단해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DS2RCN0VtdkxQYnNQb3U2RV9GYTVwNi13dFVMc1BKMF9qcnZjQ29rRlVuQ1dCb0FJZWhqN2tyNjhOUFlrRGpQUGVxaldmd3RxaG9hWU9uYVVKN0J0VTR3YQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, 최민희 징계 수순에 “김민석 발언부터 엄중 판단해야” - 강원도민일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, 최민희 징계 수순에 “김민석 발언부터 엄중 판단해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfRzdYa0ZhMmhLRjZqT3VTbWFKcVpJeXFBTkRLQkpsOURlNHBYS05RRkh5d21jZnByRHlZcThtSG9Za3hCT09qRWhabTNXRm83dy1UOXRZcnduWjVRdHk0SmV2ZTl2NXc?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해” [현장영상] - 채널A
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyYWdkdDlXNkw5ZjNaa0VVOTdyajkyOElGOVNpRWp2alBpTzl0T2NiRTduMWZTdHFfalVTRmhFTXZsQXMtcTI5YXBxWEF0X0EzdHEyYzkxT1pEcXVvbVHSAWNBVV95cUxPc1NldThKcEdsVGZTU1p6YVJsSEFNNXJMLVlUUktkeGRzT3l3RzJJRmF4NXlSSngyMGNjZDNzdW1XR25wa1J6V3ZFZlAxZHg1TnE2M2N6ajBZbFNqYTk3ZDlpbWM?oc=5)
+
+---
+
