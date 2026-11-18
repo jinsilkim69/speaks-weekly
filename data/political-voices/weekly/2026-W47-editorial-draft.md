@@ -4863,3 +4863,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 서울중수청, 한동훈 딸 ‘허위 스펙’ 고발건 공수처·경찰 나눠 이첩 - 법률신문
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 서울중수청, 한동훈 딸 ‘허위 스펙’ 고발건 공수처·경찰 나눠 이첩
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1wVnhGaDJzY2FPX0NCclBrSnBFTGhXWC1iaFhDN0hpNjVJVFRjMW9NN2U5ZVNqM3VsOE5LS1R3X21oamx3bDVTVUczd09UYnFBS0g3Y3NWSnc3N3JEendwNzk3WU5mVnJ5UHY1ekZB0gFyQVVfeXFMTUZRU1k1b0tjdXNRZDMyOXJiQUlURFpDMWZ4cHBrTmtuY3pJRUk5ZERuMUN6MFdEcDdJQ2dwOXY1ZFh0NjhQbWdCWTZXc1l1Y0cxOU80R3FzSVMwS1VjZDZKRFVGNU9ETWxqcko0Nm9oU0R3?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 추경호 무죄에…나경원부터 한동훈까지 "특검의 억지수사·정치기소 귀결" - 데일리안
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추경호 무죄에…나경원부터 한동훈까지 "특검의 억지수사·정치기소 귀결"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowJBVV95cUxQOVc4NWhUMnJfWU1COW5McmY1V1dUVENKX29CUDdCVjNXOGVFWVd3aHQtNTFDUUVBemQ1YWNUd2FLUlA5QkxhMFhVTnNwdzd5NXpZLVRidC1vZFdhbVJjRmlfUDVMMVZ2YzNqUFlpa0xrTXByU094Z2xra3FUbHJ0QmFxeXNlQ1g2TDQ0bnBxYUktbl9MaFZSdEYtTmxYRXMzVXJYNTRzMHNac1JUVmRMS0F0TG5OX3BES041WndwS1NBdFZCakFEblQwVlZWR3VXZjQwU090ZFZKekNFbWdnTGJJYnZtNEFmLVFFREtGdDZQQV8tMlV6REczcFJ3UlhMd05hQ21GOFVDVkRwQjN6ZU9nUG02N0ozMUJZbENGLXRKNUk?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래까지 나섰다…민주당 계파 갈등 재격화 - 매일일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래까지 나섰다…민주당 계파 갈등 재격화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DbDRiREpjY2swMW9QU1Q4TnlIUmJaWDNXRU9yM2VUbV9rM3Y1N3dtSW1XeXI3MG1LV0RHVldJOEtMcGZGcXpRb0c5Q3NkSkxTQTJoTDBYMWRpVFN6TUQ4aDlJVFE?oc=5)
+
+---
+
