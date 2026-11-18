@@ -4176,5 +4176,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "1427a63d832f151ee30b78570bd1124811bafda84db24c57444015b19134349c",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "신장식 조국혁신당 대표 “12년 방치 영종 크린넷, 정책 실패 선언해야” - 인천투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMDNZRjUyNnEyQjNzb1NINXVXakQwSVFvdWRsWDNPU0J2QV9vN051bFlZU1JLeG4xQnVrYnYwRkw0QjVtenNEWXkxQS0xdUpjVmFGem5DajBoeWhTRFVJQXNuRFlKRWx1dV84SGhoU2o?oc=5\" target=\"_blank\">신장식 조국혁신당 대표 “12년 방치 영종 크린넷, 정책 실패 선언해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMDNZRjUyNnEyQjNzb1NINXVXakQwSVFvdWRsWDNPU0J2QV9vN051bFlZU1JLeG4xQnVrYnYwRkw0QjVtenNEWXkxQS0xdUpjVmFGem5DajBoeWhTRFVJQXNuRFlKRWx1dV84SGhoU2o?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 08:57:00 GMT",
+    "source": "인천투데이",
+    "ageHours": 0.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식 조국혁신당 대표 “12년 방치 영종 크린넷, 정책 실패 선언해야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "aa038cb4e5c99bc8f41bf9155231ac43dbfb00b93e50a4f918350ec033faf835",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "정청래 \"최민희 징계 반대\"···추미애 \"김민석 먼저 판단\" - 더리포트",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE4tenV1TzhjUEoxcnpaOU1tVEJ4aWZVZWU5YnhCckhjM29pOTFDMnF2QU52eV9MMVlGNEtqSU1kR2I4aUh6YmxQY3VLRXE3bjdoSnB2RXVLRlRlTko1VGItbG0ySVhheDl4RjM3djhB?oc=5\" target=\"_blank\">정청래 \"최민희 징계 반대\"···추미애 \"김민석 먼저 판단\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더리포트</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tenV1TzhjUEoxcnpaOU1tVEJ4aWZVZWU5YnhCckhjM29pOTFDMnF2QU52eV9MMVlGNEtqSU1kR2I4aUh6YmxQY3VLRXE3bjdoSnB2RXVLRlRlTko1VGItbG0ySVhheDl4RjM3djhB?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 08:45:26 GMT",
+    "source": "더리포트",
+    "ageHours": 1.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래 \"최민희 징계 반대\"···추미애 \"김민석 먼저 판단\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

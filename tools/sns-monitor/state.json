@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T09:41:20.015Z",
+  "lastCheckedAt": "2026-11-18T09:51:17.501Z",
   "seenPostIds": {
-    "1b7d1b1313f4182416e9d74d92bbbd849e2f3fec65e2fa0361f6716ddc4d3dce": {
-      "seenAt": "2026-11-15T08:01:17.646Z",
-      "title": "조국 \"조희대, 한덕수 조건부 석방할 수도…與는 아무것도 안 해\" - 머니투데이 - 머니투데이",
-      "targetName": "조국"
-    },
-    "e802ca2fe593b67aa51ea3486620adcd1adaa24ca8844bc5ffbab7e9f5c98f39": {
-      "seenAt": "2026-11-15T08:11:17.256Z",
-      "title": "무소속 한동훈-민주당 최민희, '이재명-윤석열 재판' 놓고 SNS '설전' - 사이렌스",
-      "targetName": "한동훈"
-    },
-    "d67034316de9e1a29d4591ef0b754c630c5fe56c808553579538817209fbeef4": {
-      "seenAt": "2026-11-15T08:21:19.405Z",
-      "title": "“한동훈, 조작징계 텔레그램 공개” VS “당게 IP부터 먼저 공개하라” - 주간경향",
-      "targetName": "한동훈"
-    },
     "c5bf8dcd82511cdc52a4587bef01962f7be17001ec55831ba353421cae33e0b4": {
       "seenAt": "2026-11-15T08:31:15.643Z",
       "title": "국힘 김태호, 장동혁·오세훈·한동훈에 회동 제안…\"통합 길 열어야\" - 뉴시스",
@@ -2515,24 +2500,17 @@
       "seenAt": "2026-11-18T09:41:23.161Z",
       "title": "우원식 “김민석, 간담상조 자세로...정청래, 솔로몬 재판 떠올리길” - 한겨레",
       "targetName": "정청래"
+    },
+    "1427a63d832f151ee30b78570bd1124811bafda84db24c57444015b19134349c": {
+      "seenAt": "2026-11-18T09:51:18.603Z",
+      "title": "신장식 조국혁신당 대표 “12년 방치 영종 크린넷, 정책 실패 선언해야” - 인천투데이",
+      "targetName": "신장식"
+    },
+    "aa038cb4e5c99bc8f41bf9155231ac43dbfb00b93e50a4f918350ec033faf835": {
+      "seenAt": "2026-11-18T09:51:19.437Z",
+      "title": "정청래 \"최민희 징계 반대\"···추미애 \"김민석 먼저 판단\" - 더리포트",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "1427a63d832f151ee30b78570bd1124811bafda84db24c57444015b19134349c",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 조국혁신당 대표 “12년 방치 영종 크린넷, 정책 실패 선언해야” - 인천투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMDNZRjUyNnEyQjNzb1NINXVXakQwSVFvdWRsWDNPU0J2QV9vN051bFlZU1JLeG4xQnVrYnYwRkw0QjVtenNEWXkxQS0xdUpjVmFGem5DajBoeWhTRFVJQXNuRFlKRWx1dV84SGhoU2o?oc=5\" target=\"_blank\">신장식 조국혁신당 대표 “12년 방치 영종 크린넷, 정책 실패 선언해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMDNZRjUyNnEyQjNzb1NINXVXakQwSVFvdWRsWDNPU0J2QV9vN051bFlZU1JLeG4xQnVrYnYwRkw0QjVtenNEWXkxQS0xdUpjVmFGem5DajBoeWhTRFVJQXNuRFlKRWx1dV84SGhoU2o?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 08:57:00 GMT",
-        "source": "인천투데이",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

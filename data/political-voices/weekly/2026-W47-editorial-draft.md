@@ -5396,3 +5396,29 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 조국혁신당 대표 “12년 방치 영종 크린넷, 정책 실패 선언해야” - 인천투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 조국혁신당 대표 “12년 방치 영종 크린넷, 정책 실패 선언해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMDNZRjUyNnEyQjNzb1NINXVXakQwSVFvdWRsWDNPU0J2QV9vN051bFlZU1JLeG4xQnVrYnYwRkw0QjVtenNEWXkxQS0xdUpjVmFGem5DajBoeWhTRFVJQXNuRFlKRWx1dV84SGhoU2o?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래 "최민희 징계 반대"···추미애 "김민석 먼저 판단" - 더리포트
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 징계 반대"···추미애 "김민석 먼저 판단"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tenV1TzhjUEoxcnpaOU1tVEJ4aWZVZWU5YnhCckhjM29pOTFDMnF2QU52eV9MMVlGNEtqSU1kR2I4aUh6YmxQY3VLRXE3bjdoSnB2RXVLRlRlTko1VGItbG0ySVhheDl4RjM3djhB?oc=5)
+
+---
+
