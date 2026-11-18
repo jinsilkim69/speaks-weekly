@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T12:51:18.165Z",
+  "lastCheckedAt": "2026-11-18T13:11:18.363Z",
   "seenPostIds": {
-    "919c4d1fb5acd61984808b0fb7c78721dd1be185e08b6a552b26f7703d208fd4": {
-      "seenAt": "2026-11-15T10:11:20.088Z",
-      "title": "함경우 \"모택동 따른 중국 홍군 9000km 대장정처럼, 많은 이들 한동훈 따라 극복할 것\" - 매일신문",
-      "targetName": "한동훈"
-    },
     "ebfdf0557444daf354dab81acb765d408f78576e48511e42fb62aed047791c2e": {
       "seenAt": "2026-11-15T10:11:20.825Z",
       "title": "'한동훈 의원 장인' 진형구 전 대전고검장 별세, 81세 - 중앙일보",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-18T12:51:19.978Z",
       "title": "한동훈 \"추경호 무죄, 특검 무리한 수사·기소의 당연한 귀결\" - 이데일리",
       "targetName": "한동훈"
+    },
+    "e893e539e3914a9ba665aae123d9f6b6a8f2a370e4c390fa7ec494e19ea49c08": {
+      "seenAt": "2026-11-18T13:11:19.562Z",
+      "title": "나경원 \"이준석 전파 탐지 앱 검증해야\" 수능 대책 보완 촉구 | - 뉴스클레임",
+      "targetName": "이준석"
+    },
+    "f827092125f85642de55bd239b9836ff3b4b10858208d832e907d4703c504588": {
+      "seenAt": "2026-11-18T13:11:20.237Z",
+      "title": "Donald Trump: US, Philippines concluded big trade deal - The Jerusalem Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

@@ -5695,3 +5695,29 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 나경원 "이준석 전파 탐지 앱 검증해야" 수능 대책 보완 촉구 | - 뉴스클레임
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 나경원 "이준석 전파 탐지 앱 검증해야" 수능 대책 보완 촉구 |
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE56NTRiNExnNzlNbC01b2ZxbENIWlhaaTZBZXVhZG9tblVWTkx4b28yc3NVTEw0dnRzUHFIQUtCLTYyejB5R29JU2s3cTNQZFhMYURYUW5OVlF1Rmh2R3lZcHhXaGU4b2JVNGVJZU1hb1ZxYXkx?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump: US, Philippines concluded big trade deal - The Jerusalem Post
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump: US, Philippines concluded big trade deal
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xSkFnSy1PenlzbEkwRFpnaU44dVBxUS1lSmZpT014c29LZktEUzllY3YxcVZXbzkxdDQ1enhPdEw0bG5Xa09CYnhoWHJTZWh5ck9VX2tOVl83Y09mSVlr?oc=5)
+
+---
+

@@ -4754,5 +4754,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e893e539e3914a9ba665aae123d9f6b6a8f2a370e4c390fa7ec494e19ea49c08",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "나경원 \"이준석 전파 탐지 앱 검증해야\" 수능 대책 보완 촉구 | - 뉴스클레임",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE56NTRiNExnNzlNbC01b2ZxbENIWlhaaTZBZXVhZG9tblVWTkx4b28yc3NVTEw0dnRzUHFIQUtCLTYyejB5R29JU2s3cTNQZFhMYURYUW5OVlF1Rmh2R3lZcHhXaGU4b2JVNGVJZU1hb1ZxYXkx?oc=5\" target=\"_blank\">나경원 \"이준석 전파 탐지 앱 검증해야\" 수능 대책 보완 촉구 |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스클레임</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56NTRiNExnNzlNbC01b2ZxbENIWlhaaTZBZXVhZG9tblVWTkx4b28yc3NVTEw0dnRzUHFIQUtCLTYyejB5R29JU2s3cTNQZFhMYURYUW5OVlF1Rmh2R3lZcHhXaGU4b2JVNGVJZU1hb1ZxYXkx?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 06:20:54 GMT",
+    "source": "뉴스클레임",
+    "ageHours": 6.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 나경원 \"이준석 전파 탐지 앱 검증해야\" 수능 대책 보완 촉구 |",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "f827092125f85642de55bd239b9836ff3b4b10858208d832e907d4703c504588",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Donald Trump: US, Philippines concluded big trade deal - The Jerusalem Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xSkFnSy1PenlzbEkwRFpnaU44dVBxUS1lSmZpT014c29LZktEUzllY3YxcVZXbzkxdDQ1enhPdEw0bG5Xa09CYnhoWHJTZWh5ck9VX2tOVl83Y09mSVlr?oc=5\" target=\"_blank\">Donald Trump: US, Philippines concluded big trade deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xSkFnSy1PenlzbEkwRFpnaU44dVBxUS1lSmZpT014c29LZktEUzllY3YxcVZXbzkxdDQ1enhPdEw0bG5Xa09CYnhoWHJTZWh5ck9VX2tOVl83Y09mSVlr?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 05:26:36 GMT",
+    "source": "The Jerusalem Post",
+    "ageHours": 7.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Donald Trump: US, Philippines concluded big trade deal",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
