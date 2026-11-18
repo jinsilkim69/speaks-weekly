@@ -3680,3 +3680,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애 "김민석, 신천지 발언 사과로 끝낼 일 아냐…당 윤리심판원 엄중히 판단해야" - 아시아경제
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애 "김민석, 신천지 발언 사과로 끝낼 일 아냐…당 윤리심판원 엄중히 판단해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NWEIwZlB0bXRLMDJ5YmpHOWNaWkI0UU41ZUd1VXg4TUlMNDlDd3RMZzZzZGZXQnZrbVJNRlhjd2VxT2Vna1gtSFhveVo4Zjh3YzZyaWV2VmZXd2dXQS1aTA?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, 최민희 징계 수순에 "김민석 문제부터 엄중 판단해야" - 연합뉴스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, 최민희 징계 수순에 "김민석 문제부터 엄중 판단해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUb2tyR1FuejZVcWd2Y25JZVpBNTNrTUp6dkpLRkstNV9YdWNwTzV0RXJMWHBHakFndVdvaEkxazFGT3ozVVUtUkR5VGdPR3UwVnhQX1gzR3ppOFXSAWBBVV95cUxNdzZyLW5MaGlVVXNwM0tsODh1dXh3TWo3ZWZGYjJNOVNjeUtiTC1RbHVUN01GTmsxMExVdE1aRGszQmtRdFdfdUVxNV9ld09YMVp0Y2tjZkZCVkhfWEd4Qkk?oc=5)
+
+---
+

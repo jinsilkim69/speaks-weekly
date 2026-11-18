@@ -2515,40 +2515,17 @@
       "seenAt": "2026-11-17T23:51:20.784Z",
       "title": "추미애, '최민희 발언 논란' 징계에 \"김민석 문제부터 엄중 판단해야\" - 중앙신문",
       "targetName": "김민석"
+    },
+    "66f6019f7aac68622a8a62939cc988963d69114d89b501f7960e2ee46a8c9470": {
+      "seenAt": "2026-11-18T00:01:19.865Z",
+      "title": "추미애 \"김민석, 신천지 발언 사과로 끝낼 일 아냐…당 윤리심판원 엄중히 판단해야\" - 아시아경제",
+      "targetName": "김민석"
+    },
+    "8604ed8a0087ecafa092727ef4b0ec6226e4baa6d4483f05c8995b47bc432ce8": {
+      "seenAt": "2026-11-18T00:01:20.632Z",
+      "title": "추미애, 최민희 징계 수순에 \"김민석 문제부터 엄중 판단해야\" - 연합뉴스",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "66f6019f7aac68622a8a62939cc988963d69114d89b501f7960e2ee46a8c9470",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "추미애 \"김민석, 신천지 발언 사과로 끝낼 일 아냐…당 윤리심판원 엄중히 판단해야\" - 아시아경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NWEIwZlB0bXRLMDJ5YmpHOWNaWkI0UU41ZUd1VXg4TUlMNDlDd3RMZzZzZGZXQnZrbVJNRlhjd2VxT2Vna1gtSFhveVo4Zjh3YzZyaWV2VmZXd2dXQS1aTA?oc=5\" target=\"_blank\">추미애 \"김민석, 신천지 발언 사과로 끝낼 일 아냐…당 윤리심판원 엄중히 판단해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NWEIwZlB0bXRLMDJ5YmpHOWNaWkI0UU41ZUd1VXg4TUlMNDlDd3RMZzZzZGZXQnZrbVJNRlhjd2VxT2Vna1gtSFhveVo4Zjh3YzZyaWV2VmZXd2dXQS1aTA?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 23:34:50 GMT",
-        "source": "아시아경제",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "8604ed8a0087ecafa092727ef4b0ec6226e4baa6d4483f05c8995b47bc432ce8",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "추미애, 최민희 징계 수순에 \"김민석 문제부터 엄중 판단해야\" - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUb2tyR1FuejZVcWd2Y25JZVpBNTNrTUp6dkpLRkstNV9YdWNwTzV0RXJMWHBHakFndVdvaEkxazFGT3ozVVUtUkR5VGdPR3UwVnhQX1gzR3ppOFXSAWBBVV95cUxNdzZyLW5MaGlVVXNwM0tsODh1dXh3TWo3ZWZGYjJNOVNjeUtiTC1RbHVUN01GTmsxMExVdE1aRGszQmtRdFdfdUVxNV9ld09YMVp0Y2tjZkZCVkhfWEd4Qkk?oc=5\" target=\"_blank\">추미애, 최민희 징계 수순에 \"김민석 문제부터 엄중 판단해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUb2tyR1FuejZVcWd2Y25JZVpBNTNrTUp6dkpLRkstNV9YdWNwTzV0RXJMWHBHakFndVdvaEkxazFGT3ozVVUtUkR5VGdPR3UwVnhQX1gzR3ppOFXSAWBBVV95cUxNdzZyLW5MaGlVVXNwM0tsODh1dXh3TWo3ZWZGYjJNOVNjeUtiTC1RbHVUN01GTmsxMExVdE1aRGszQmtRdFdfdUVxNV9ld09YMVp0Y2tjZkZCVkhfWEd4Qkk?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 23:18:19 GMT",
-        "source": "연합뉴스",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
