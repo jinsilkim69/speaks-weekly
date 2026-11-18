@@ -5981,3 +5981,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump arrives in China ahead of high-stakes talks with Xi, Putin amid US technical outages - WCYB
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump arrives in China ahead of high-stakes talks with Xi, Putin amid US technical outages
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi9gJBVV95cUxPV3U4anEwTXRwQ1Z4aE5qdVYwTjBJc1VXV1NyajNFSXpXTEJkdG12bzlUQmwwVEpMdGM4UjNIRnVZa184eGZuT0ZmUGh3a2xFUkgzS2l2ZE1oZjZPbWhELUdqaDBUQnBHUUZubVE0Vm9zQm15SE5iMmRMZFRQNjJHbmVjbDhTNkdlZkxXeGs3TG5YYVplVkNwQjRGQVhNdnlYOFZZSDZrbnFxMWNNbDQ5RW9KYmZ1N1BsSXEyVTF5V3NCcUtuVEVFbHdJcjJsSk56SUFNZFpqUDBFeTcxSmJPV052YUtjLUFaZ1ZSS3N4N3JuYU04anFoY2w5c0MtbXkyaDdrXzNGcDNXUEdxbGZYUzU2bm5vTFE0THBRLWtNMGE0ZGVkN3pEMmRNWDF4czRudTltYzBnMUVzcU40ZVh6eTNHOWM4YzVxNFpkZUV1eTctamhVNmozMEdkVi1JOUJ4UkVhcTNIclpjZWllb0J3NFZpUVg0UQ?oc=5)
+
+---
+
