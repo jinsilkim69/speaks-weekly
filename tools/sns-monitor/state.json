@@ -2515,40 +2515,17 @@
       "seenAt": "2026-11-18T05:21:25.278Z",
       "title": "추미애 \"김민석 '신천지발언' 사과로 끝낼 일 아냐\"…김민석 측 \"수능대책 집중해얄 때\" - 아시아경제",
       "targetName": "김민석"
+    },
+    "2d2060f26a93a0bb94f54dfac918fedbca2e0aa3ae89279f3455105377122c1d": {
+      "seenAt": "2026-11-18T05:31:21.681Z",
+      "title": "민주당 내홍 격화…송영길 중재에 정청래 “자격 미달” - 뉴스프리존",
+      "targetName": "송영길"
+    },
+    "cf862bc6ee5a2c48d762d6760a8e5dcaa1b2a6482ceb03e578fd044ae2e24d4a": {
+      "seenAt": "2026-11-18T05:31:22.476Z",
+      "title": "’日입국 거부’ 조국 “독도 방문 이력 확인했나“…여당서도 “경위 밝혀야“ - 연합뉴스TV",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "2d2060f26a93a0bb94f54dfac918fedbca2e0aa3ae89279f3455105377122c1d",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "민주당 내홍 격화…송영길 중재에 정청래 “자격 미달” - 뉴스프리존",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB6X25ZUzdnOWduV1ZuZi1uV1ZPektqd2lsMFNwMGJKNlJkSGVXcEZZTUsyYl9Kd29PWUllNXZVZ3U3S2tzbGx0U2VRNlJNYWRaeFNVQXlXbmZFc2F6cVhSN2hJRjBUUjlrcnE5OWRMRTNQTGvSAXdBVV95cUxNbHJybDRzNUxuSHVsRGRzeXJxN2dUdVlfREh0dDZ4eDcxZTVWdkZCZmpDbWZrWTQyRWhLVWlhQnRqbkJrNVEwblVwQXZ2dkVUaXFnNkFoSFRGYlVRYW9ORUhtVk51R2p4NUpjalZiNE5CczNfcm8wbw?oc=5\" target=\"_blank\">민주당 내홍 격화…송영길 중재에 정청래 “자격 미달”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스프리존</font>",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6X25ZUzdnOWduV1ZuZi1uV1ZPektqd2lsMFNwMGJKNlJkSGVXcEZZTUsyYl9Kd29PWUllNXZVZ3U3S2tzbGx0U2VRNlJNYWRaeFNVQXlXbmZFc2F6cVhSN2hJRjBUUjlrcnE5OWRMRTNQTGvSAXdBVV95cUxNbHJybDRzNUxuSHVsRGRzeXJxN2dUdVlfREh0dDZ4eDcxZTVWdkZCZmpDbWZrWTQyRWhLVWlhQnRqbkJrNVEwblVwQXZ2dkVUaXFnNkFoSFRGYlVRYW9ORUhtVk51R2p4NUpjalZiNE5CczNfcm8wbw?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 23:09:26 GMT",
-        "source": "뉴스프리존",
-        "ageHours": 6.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "cf862bc6ee5a2c48d762d6760a8e5dcaa1b2a6482ceb03e578fd044ae2e24d4a",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "’日입국 거부’ 조국 “독도 방문 이력 확인했나“…여당서도 “경위 밝혀야“ - 연합뉴스TV",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFdklmb0VKS3k4bjR0aENKWk1VamJVRWRjR3BvRFVoWFdvNjFPSjd1dXUyc1BMWjdnZHIxenhSa0dEb2k0cEZZM3NjSjNucHRfR3M3V3B3bmtlbzU2ZWdEQWtKbnp0WUk?oc=5\" target=\"_blank\">’日입국 거부’ 조국 “독도 방문 이력 확인했나“…여당서도 “경위 밝혀야“</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFdklmb0VKS3k4bjR0aENKWk1VamJVRWRjR3BvRFVoWFdvNjFPSjd1dXUyc1BMWjdnZHIxenhSa0dEb2k0cEZZM3NjSjNucHRfR3M3V3B3bmtlbzU2ZWdEQWtKbnp0WUk?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 02:59:00 GMT",
-        "source": "연합뉴스TV",
-        "ageHours": 2.4
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
