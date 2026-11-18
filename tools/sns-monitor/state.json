@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T03:51:15.876Z",
+  "lastCheckedAt": "2026-11-18T04:21:18.672Z",
   "seenPostIds": {
-    "0ab3b7c3d727010a3bda8cad2d98e45fee5c7e628d0a1a9f63df008b0c97f462": {
-      "seenAt": "2026-11-14T12:41:15.698Z",
-      "title": "이준석 “내가 노무현 추천서 받았다고?” 전한길 형사고소 예고 - 미디어오늘",
-      "targetName": "이준석"
-    },
     "5f57698688ad1601e17299c663101f02c78d304a33664306aa7a544a9d74d489": {
       "seenAt": "2026-11-14T13:01:18.090Z",
       "title": "노무현 추천으로 하버드 입학했다고?…이준석, 전한길 추가 고소 예고 - 헤럴드경제",
@@ -2505,7 +2500,71 @@
       "seenAt": "2026-11-18T03:51:17.161Z",
       "title": "조국 \"전과자는 사전 비자 받아야? 그런 법 없다\" - OhmyNews",
       "targetName": "조국"
+    },
+    "ec19d841608eaab5e67ca18dd8b4ca1d738e45da0a4895376c4034fcdb3113a1": {
+      "seenAt": "2026-11-18T04:21:20.057Z",
+      "title": "차기 대통령감 1위 오세훈 17.9%…장동혁 13.8%·한동훈 13.3% [조원씨앤아이] - 한국경제",
+      "targetName": "한동훈"
+    },
+    "ee674239f220a03f304ca1ceb1f69a26e134709d97feb94da5336705c649f799": {
+      "seenAt": "2026-11-18T04:21:20.782Z",
+      "title": "추미애, 김민석 향해 \"신천지 주장, 사과로 끝낼 문제 아냐\" - 뉴시스",
+      "targetName": "김민석"
+    },
+    "7c0b84a171f14ceaf8badc9156fc3be7f4b09ad64d2dab5735deeca1fa9c92f7": {
+      "seenAt": "2026-11-18T04:21:21.557Z",
+      "title": "정청래 \"최민희 최고위원 징계 강력 반대\"…\"당에 도움 안 돼\" - 데일리메이커",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "1e076deb82b0becefd305dba2b0e901d190bde2289854ad1528c445e18c5aa5f",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, 조국 방일 불허에 \"다카이치 총리의 미래지향은 허언인가\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAxdF95RlI4b200aE1DY1M3Q2tQaG5OWEdnV0NBMWFES1UtZEtHUEt0Um1YOUNsQzJsOUotR3JTTWU4Y3p5Z0JEYUdOQmpMVU5PdWZ5anJibFN1aDNDSTlQNmZhaDdpbkRoZDZJWFpEX3pnQdIBckFVX3lxTFAxdF95RlI4b200aE1DY1M3Q2tQaG5OWEdnV0NBMWFES1UtZEtHUEt0Um1YOUNsQzJsOUotR3JTTWU4Y3p5Z0JEYUdOQmpMVU5PdWZ5anJibFN1aDNDSTlQNmZhaDdpbkRoZDZJWFpEX3pnQQ?oc=5\" target=\"_blank\">정청래, 조국 방일 불허에 \"다카이치 총리의 미래지향은 허언인가\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxdF95RlI4b200aE1DY1M3Q2tQaG5OWEdnV0NBMWFES1UtZEtHUEt0Um1YOUNsQzJsOUotR3JTTWU4Y3p5Z0JEYUdOQmpMVU5PdWZ5anJibFN1aDNDSTlQNmZhaDdpbkRoZDZJWFpEX3pnQdIBckFVX3lxTFAxdF95RlI4b200aE1DY1M3Q2tQaG5OWEdnV0NBMWFES1UtZEtHUEt0Um1YOUNsQzJsOUotR3JTTWU4Y3p5Z0JEYUdOQmpMVU5PdWZ5anJibFN1aDNDSTlQNmZhaDdpbkRoZDZJWFpEX3pnQQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 02:55:27 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "bcfdeea6900ed345192898e86658ef3f749efb18137acf029c74820817b1d290",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래 \"日 조국 방일 불허, 독도 망언 계속 하겠다는 의지인가…강력 규탄\" - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBHVDZGSkFZTmlXbzRFQzFfOEo0bE1kazhmNEZTaTNwNlJXT1pObllnTENpZWZGSWNmUzRDWHNrMXUxNTkyUl82bWowQmNoT1BvVTdDT0VMR2dIb29zOHRtVkZDY1lYa04wZU1WcmZIM2c0TkJhNHNmcNIBeEFVX3lxTFBHVDZGSkFZTmlXbzRFQzFfOEo0bE1kazhmNEZTaTNwNlJXT1pObllnTENpZWZGSWNmUzRDWHNrMXUxNTkyUl82bWowQmNoT1BvVTdDT0VMR2dIb29zOHRtVkZDY1lYa04wZU1WcmZIM2c0TkJhNHNmcA?oc=5\" target=\"_blank\">정청래 \"日 조국 방일 불허, 독도 망언 계속 하겠다는 의지인가…강력 규탄\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHVDZGSkFZTmlXbzRFQzFfOEo0bE1kazhmNEZTaTNwNlJXT1pObllnTENpZWZGSWNmUzRDWHNrMXUxNTkyUl82bWowQmNoT1BvVTdDT0VMR2dIb29zOHRtVkZDY1lYa04wZU1WcmZIM2c0TkJhNHNmcNIBeEFVX3lxTFBHVDZGSkFZTmlXbzRFQzFfOEo0bE1kazhmNEZTaTNwNlJXT1pObllnTENpZWZGSWNmUzRDWHNrMXUxNTkyUl82bWowQmNoT1BvVTdDT0VMR2dIb29zOHRtVkZDY1lYa04wZU1WcmZIM2c0TkJhNHNmcA?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 03:23:28 GMT",
+        "source": "뉴시스",
+        "ageHours": 1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "63726f77f47a0df14ae6d3fccf18c4cfb95639d8cecd20e1bca6f23f14bd7ca0",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "최고위 발언하는 신장식 조국혁신당 대표 - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9zaUgwMGM0RDZFV0JJNTJnQjVPNmlTenhVdThnd2xWaHBwTWNqeFUwUTcwNjBzUG1BUEFrNWx5ZWU5NG9ybURnUGQ4b1pyV0VIOXVhbXlWb3RwSXp6dVJuMld1RzA3S0pYVDRKUWpES0pBZ19LR29OYdIBeEFVX3lxTE9zaUgwMGM0RDZFV0JJNTJnQjVPNmlTenhVdThnd2xWaHBwTWNqeFUwUTcwNjBzUG1BUEFrNWx5ZWU5NG9ybURnUGQ4b1pyV0VIOXVhbXlWb3RwSXp6dVJuMld1RzA3S0pYVDRKUWpES0pBZ19LR29OYQ?oc=5\" target=\"_blank\">최고위 발언하는 신장식 조국혁신당 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zaUgwMGM0RDZFV0JJNTJnQjVPNmlTenhVdThnd2xWaHBwTWNqeFUwUTcwNjBzUG1BUEFrNWx5ZWU5NG9ybURnUGQ4b1pyV0VIOXVhbXlWb3RwSXp6dVJuMld1RzA3S0pYVDRKUWpES0pBZ19LR29OYdIBeEFVX3lxTE9zaUgwMGM0RDZFV0JJNTJnQjVPNmlTenhVdThnd2xWaHBwTWNqeFUwUTcwNjBzUG1BUEFrNWx5ZWU5NG9ybURnUGQ4b1pyV0VIOXVhbXlWb3RwSXp6dVJuMld1RzA3S0pYVDRKUWpES0pBZ19LR29OYQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 00:18:37 GMT",
+        "source": "뉴시스",
+        "ageHours": 4
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

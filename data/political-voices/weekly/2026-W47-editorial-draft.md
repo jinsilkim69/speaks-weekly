@@ -4239,3 +4239,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 차기 대통령감 1위 오세훈 17.9%…장동혁 13.8%·한동훈 13.3% [조원씨앤아이] - 한국경제
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 차기 대통령감 1위 오세훈 17.9%…장동혁 13.8%·한동훈 13.3%
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FM3B3bk5qbmtuRC1aOVpkenRUbXVIZUNkd0dESmIwdXhnTW5Mb3pMcXVrUTFXUTFwcmNFRGpDUW9DUVJvQWE4NU5fN3RoSUx6U2lSMC1qQVFidw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애, 김민석 향해 "신천지 주장, 사과로 끝낼 문제 아냐" - 뉴시스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애, 김민석 향해 "신천지 주장, 사과로 끝낼 문제 아냐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1mR1l3NXJ0T3hiRzROWEhVNF9ibVRXSVBTeHBGdjR1WV9YZXB0Z3B2TVBXNE81SGdydlh2Yjl4Yy1nZUF0NFc4TDNyc0JzcllUTlRSUkprUWJtQTVQQXhnZUEwc2phcXpJVFNTc2JKY1k3eTNaVlFiQdIBeEFVX3lxTE1mR1l3NXJ0T3hiRzROWEhVNF9ibVRXSVBTeHBGdjR1WV9YZXB0Z3B2TVBXNE81SGdydlh2Yjl4Yy1nZUF0NFc4TDNyc0JzcllUTlRSUkprUWJtQTVQQXhnZUEwc2phcXpJVFNTc2JKY1k3eTNaVlFiQQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "최민희 최고위원 징계 강력 반대"…"당에 도움 안 돼" - 데일리메이커
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 최고위원 징계 강력 반대"…"당에 도움 안 돼"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4TTdDVDdwUWEwcjhuODBhRV9YeDM1aW4tb25DTE5KMlVsbjFLeTRBd1VUTGtBNmh4T2JVT0taeWdUMFViWld0Vm9sRlZmYzZSQUFOYWc5LWM4VFFnX013bkdTclYxQQ?oc=5)
+
+---
+
