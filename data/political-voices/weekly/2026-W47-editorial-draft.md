@@ -4902,3 +4902,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "최민희 징계 강력반대"…金에 "신천지가 더 큰 해당행위" - 연합뉴스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 징계 강력반대"…金에 "신천지가 더 큰 해당행위"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkRWJVODhNcnc4YkxnVzA0aVpldndLZ0tiRkZUVTdlTUY3ZkRGUHpoRFJjckk5S3FNTENNZ2JnSTN6TXFSUUtoRlJiZXdPcFRLZTZSMW90SnA4VWlpNUJweNIBYEFVX3lxTFBkRWJVODhNcnc4YkxnVzA0aVpldndLZ0tiRkZUVTdlTUY3ZkRGUHpoRFJjckk5S3FNTENNZ2JnSTN6TXFSUUtoRlJiZXdPcFRLZTZSMW90SnA4VWlpNUJweA?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "최민희 징계 강력하게 반대"…논란 6일만에 직접 참전 - 부산일보
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 징계 강력하게 반대"…논란 6일만에 직접 참전
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE0wWHZuTmU5QW9jVDU5dEd1WTFmZ2lEZ3RScEY3Q1FzYm5LWlhXSXMxdmpPcEZwSHRtOUNXbDVvcmNGZGpBWXBZQkRBMkFXX3ZoaDIzbjViWGhibmR6ZGs3OEFOQW9wNWRLbTFQNWpVdXdZNVRV?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "최민희 징계 강력 반대"…김민석 대표 향해 "신천지 정치공작이 해당행위" - 스페셜타임스
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 징계 강력 반대"…김민석 대표 향해 "신천지 정치공작이 해당행위"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE0wTnZoeTM3d1BqbWZEczJHcHJvd0JZd1JKSFgwaXRyNVB2d1Y2bi0tMHdJaXMxN0RTdmVkeThsNjExVFIwNHpXMFlwWEhNeHB6RWpEb2hwT05EdHRBRngtSjhnZ1NOTEdmNUZiZ0E0TWY3Wnc?oc=5)
+
+---
+
