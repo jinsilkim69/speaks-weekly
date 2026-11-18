@@ -4772,3 +4772,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** “최민희 징계 강력 반대” 정청래, 김민석 겨냥 “녹취록 공개 타이밍 조절했나” - 주간경향
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “최민희 징계 강력 반대” 정청래, 김민석 겨냥 “녹취록 공개 타이밍 조절했나”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE44d3RoYThUdUhOcDdUMnVvUHE1MU11RGJKb0xMUDBxZl9SbkdGdV9ya29mME95ZnVVcXVOMnRwMHB0X0EyNkZfVFp4SWZNenAxeEVjMWdpLXpuOFAycmc?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 與초선 최민희 압박에 정청래·추미애 직접 등판…계파별 구심력 커진다 - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與초선 최민희 압박에 정청래·추미애 직접 등판…계파별 구심력 커진다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE9IS0lJTW9nTHhCdnRPYTBYRk9ycXRSRGwzZTBuOFhQczlqMGVUaGM1Zm9BMzl0dHptWGpmVGh6Tndnc1B2TGJnTEhHMV9HQnhZR2ZrRS1GT2dkRlNoQVdvbjRCODkwYkJZdHQzMG9QSnV4d9IBckFVX3lxTE9IS0lJTW9nTHhCdnRPYTBYRk9ycXRSRGwzZTBuOFhQczlqMGVUaGM1Zm9BMzl0dHptWGpmVGh6Tndnc1B2TGJnTEhHMV9HQnhZR2ZrRS1GT2dkRlNoQVdvbjRCODkwYkJZdHQzMG9QSnV4dw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 나경원 "이준석 전파 탐지 앱 검증해야" 수능 대책 보완 촉구 - 뉴스클레임
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 나경원 "이준석 전파 탐지 앱 검증해야" 수능 대책 보완 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE0taUVxSGltRmZTR0NFYXQteEM0NHZ5YnkxQmdIVmptMHVqdzE3cXFDUUh6YnNHQjUtV3ViLXhiUkFENnBjYm4ya2FPNmpuZmJyZkdWeF9hUHRyQ0syZDJUOU53TU9SMm8zZWU0Ujl2Mkw?oc=5)
+
+---
+
