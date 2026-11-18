@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T12:21:23.734Z",
+  "lastCheckedAt": "2026-11-18T12:51:18.165Z",
   "seenPostIds": {
-    "bec5ee6e0c95d5060831ecc0c6a7633cd8afcedae0470c3db90c11e53f0f4d0c": {
-      "seenAt": "2026-11-15T10:01:17.865Z",
-      "title": "Trump takes down image from his social media platform that depicted him as a Jesus-like figure - ABC News - Breaking News, Latest News and Videos",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "1ec4c1e846ef80a64ebbdbd66432ef13dd4faf9f0b00d1016f0fce13b99c1bfd": {
-      "seenAt": "2026-11-15T10:01:18.637Z",
-      "title": "“최민희 제명” 요구에 “김민석 책임” 맞불… 명청 갈등 ‘치킨게임’ - 서울신문",
-      "targetName": "김민석"
-    },
-    "b114260607b4bedb8f0f25aa187f2984dd0de35012c560d491b87102e802fc7c": {
-      "seenAt": "2026-11-15T10:11:19.324Z",
-      "title": "송영길 의원, 소방재정 안정화 법안 발의…구급차 기준 개선도 추진 - 서울일보",
-      "targetName": "송영길"
-    },
     "919c4d1fb5acd61984808b0fb7c78721dd1be185e08b6a552b26f7703d208fd4": {
       "seenAt": "2026-11-15T10:11:20.088Z",
       "title": "함경우 \"모택동 따른 중국 홍군 9000km 대장정처럼, 많은 이들 한동훈 따라 극복할 것\" - 매일신문",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-18T12:21:26.776Z",
       "title": "READ: US President Donald Trump announces on Wednesday (Nov. 18, 2026) in his Truth Social account a \"new and completely different\" trade deal with the Philippines after meeting President Ferdinand R. Marcos Jr. bilaterally in Manila. The US leader the - Facebook",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "821b057a4505e4ca69531af163700e4841c64f6809a166f9dcd754135a1d78c1": {
+      "seenAt": "2026-11-18T12:51:19.978Z",
+      "title": "한동훈 \"추경호 무죄, 특검 무리한 수사·기소의 당연한 귀결\" - 이데일리",
+      "targetName": "한동훈"
     }
   },
   "pending": []

@@ -4727,5 +4727,32 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "821b057a4505e4ca69531af163700e4841c64f6809a166f9dcd754135a1d78c1",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 \"추경호 무죄, 특검 무리한 수사·기소의 당연한 귀결\" - 이데일리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDF6N0VTUks5dHBoWHJ3LUpZVFg3bWI4NXlFa093LXRxVWhJZkhoS3BUSWUzSTdWVmZqem54ek44QnJqVkswWWtOR2ctVnpqS29HNXV0eXZ5ZmlVSUk3SlZVTWRoZGc0X1g2TTF3a053Q0hWVE5xcGFoODU3ZTRqOQ?oc=5\" target=\"_blank\">한동훈 \"추경호 무죄, 특검 무리한 수사·기소의 당연한 귀결\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDF6N0VTUks5dHBoWHJ3LUpZVFg3bWI4NXlFa093LXRxVWhJZkhoS3BUSWUzSTdWVmZqem54ek44QnJqVkswWWtOR2ctVnpqS29HNXV0eXZ5ZmlVSUk3SlZVTWRoZGc0X1g2TTF3a053Q0hWVE5xcGFoODU3ZTRqOQ?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 06:53:40 GMT",
+    "source": "이데일리",
+    "ageHours": 6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"추경호 무죄, 특검 무리한 수사·기소의 당연한 귀결\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "민생예산",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
