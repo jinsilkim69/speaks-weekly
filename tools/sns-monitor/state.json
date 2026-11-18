@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T06:11:16.987Z",
+  "lastCheckedAt": "2026-11-18T06:21:20.665Z",
   "seenPostIds": {
-    "b37203c0c7af656b34ce2b2309485f8c02bdc51b6f6f15756fc09be0db17e875": {
-      "seenAt": "2026-11-15T00:09:01.806Z",
-      "title": "'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts - ABC News - Breaking News, Latest News and Videos",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "8c00def525e6b6e1e046fc35945d65eba012cd179ec81836e361b5317688d651": {
-      "seenAt": "2026-11-15T00:21:16.421Z",
-      "title": "김민석 100일 앞두고...선명해지는 정청래의 '깃발' - YTN",
-      "targetName": "김민석"
-    },
-    "cd7cdc4701b9db61a129bcde0d202cf758f2eea2c0eba936bda43502262e254b": {
-      "seenAt": "2026-11-15T00:21:17.060Z",
-      "title": "연일 ‘조희대 탄핵’ 외치는 조국혁신당의 두 가지 셈법 - 에너지경제신문",
-      "targetName": "조국"
-    },
     "4e916844195494d2686432444600639362d068822424635fa5f61bebbb63405e": {
       "seenAt": "2026-11-15T00:41:20.012Z",
       "title": "김민석 취임 100일도 전에…커지는 與 집안싸움 [여의도는 지금] - 한국경제",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-18T06:11:20.473Z",
       "title": "경찰청장 후보자 \"한동훈 딸 의혹 수사 아쉬움…끝나면 감찰\" - 머니투데이 - 머니투데이",
       "targetName": "한동훈"
+    },
+    "b00dfeb9fa3afa9e0430ed677c34e31985c56b00dc8f2b3aada2c57fd71982d2": {
+      "seenAt": "2026-11-18T06:21:22.088Z",
+      "title": "정청래 “최민희 징계 강력 반대한다”…김민석 겨냥해 “신천지가 더 큰 해당행위” - 헤럴드경제",
+      "targetName": "김민석"
+    },
+    "5366dced45461ed59767d55fedcd1f71fdcb2ec29ab7dc8c518f911590533410": {
+      "seenAt": "2026-11-18T06:21:22.819Z",
+      "title": "정청래 \"최민희 해명·진심 믿어‥징계는 당에 도움 안 돼\" - MBC 뉴스",
+      "targetName": "정청래"
+    },
+    "02ff01b670c9608d503eef53bb6445e47467f2d0ec5bded36d0064c82674e532": {
+      "seenAt": "2026-11-18T06:21:23.591Z",
+      "title": "'최민희 징계'에 입 연 정청래 \"징계 강력하게 반대\" - 이데일리",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "b00dfeb9fa3afa9e0430ed677c34e31985c56b00dc8f2b3aada2c57fd71982d2",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "정청래 “최민희 징계 강력 반대한다”…김민석 겨냥해 “신천지가 더 큰 해당행위” - 헤럴드경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jODMtQ1RnNHpCMjdLM0prYmVocmxmcGZUZm9zNk10TmZTU2lORENxTlFid05mcmJBd1p2dVd4dEZBT0NKZUdGYXhtNUZhd3AzZmJxenF3?oc=5\" target=\"_blank\">정청래 “최민희 징계 강력 반대한다”…김민석 겨냥해 “신천지가 더 큰 해당행위”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jODMtQ1RnNHpCMjdLM0prYmVocmxmcGZUZm9zNk10TmZTU2lORENxTlFid05mcmJBd1p2dVd4dEZBT0NKZUdGYXhtNUZhd3AzZmJxenF3?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 05:56:47 GMT",
-        "source": "헤럴드경제",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5366dced45461ed59767d55fedcd1f71fdcb2ec29ab7dc8c518f911590533410",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래 \"최민희 해명·진심 믿어‥징계는 당에 도움 안 돼\" - MBC 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB2d3hXbmVTcnFUa1VmOFotNUZvY3ZJX3Z2aEJwTEd3S3NWc1NUNkxZQW1kX0VnQm1nNTlnWFJyS3VZQXA1eF91RHRRbFVncTRBOVF4MjBCa2FEZnVkNzZWVzNFaGVHQXh2UmVnbVBubzdsMlRRWDNRM9IBeEFVX3lxTE11MFE5X09UUzZFMVJJa2pMWjM0SmJJZGFhMWdXbkZxbW9MdUFueURzekVmTEFLemctQTBzR2VHMlJqbDBWMlg1VHR4SVRPNWRrYUVvRXlLSXlOUWQzNERzMzdwelUwak9YV2dDQ08tZUVRbHJrbHpiRQ?oc=5\" target=\"_blank\">정청래 \"최민희 해명·진심 믿어‥징계는 당에 도움 안 돼\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2d3hXbmVTcnFUa1VmOFotNUZvY3ZJX3Z2aEJwTEd3S3NWc1NUNkxZQW1kX0VnQm1nNTlnWFJyS3VZQXA1eF91RHRRbFVncTRBOVF4MjBCa2FEZnVkNzZWVzNFaGVHQXh2UmVnbVBubzdsMlRRWDNRM9IBeEFVX3lxTE11MFE5X09UUzZFMVJJa2pMWjM0SmJJZGFhMWdXbkZxbW9MdUFueURzekVmTEFLemctQTBzR2VHMlJqbDBWMlg1VHR4SVRPNWRrYUVvRXlLSXlOUWQzNERzMzdwelUwak9YV2dDQ08tZUVRbHJrbHpiRQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 05:21:18 GMT",
-        "source": "MBC 뉴스",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "02ff01b670c9608d503eef53bb6445e47467f2d0ec5bded36d0064c82674e532",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "'최민희 징계'에 입 연 정청래 \"징계 강력하게 반대\" - 이데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVN1a0UyeGVCNjNDZjFCM3hidGowVVRJNjBZR0EtLU5RQWZ0eDZMR2tRamhLSmREZ1plYTBQd3ctSkYzMGd0Z1VPck5OYkJRbnpIX3J5cHN4eVB1ZTFYb19lSDhQQ0NyX0ZYejBlVHRqUWpEakp1UmtFX2c2OVRVQw?oc=5\" target=\"_blank\">'최민희 징계'에 입 연 정청래 \"징계 강력하게 반대\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVN1a0UyeGVCNjNDZjFCM3hidGowVVRJNjBZR0EtLU5RQWZ0eDZMR2tRamhLSmREZ1plYTBQd3ctSkYzMGd0Z1VPck5OYkJRbnpIX3J5cHN4eVB1ZTFYb19lSDhQQ0NyX0ZYejBlVHRqUWpEakp1UmtFX2c2OVRVQw?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 05:24:38 GMT",
-        "source": "이데일리",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "289c23e6df52f27df0e639dea7c0d1a7c75df07b2ea99d4cd9671a39770cdf12",
@@ -2594,6 +2546,54 @@
         "pubDate": "Wed, 18 Nov 2026 05:47:55 GMT",
         "source": "매일신문",
         "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "aad5605bf2caba6d1a0eb2024044db26ee59128952fb2cb74a15083b3f7b70be",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈, 장인상 발인 마치고 추경호 무죄 환영 \"특검 무리한 수사·기소의 당연한 귀결\" - 매일신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tNVZyVTlyaHpwb0paZnZYRjJpQ01CNmFNMHp2SVNKc1llVWhiZ0J5Zm5pNTg0Zk02NkFuNjNfRjE4R045OXdfTFdfQ1NPUjZCMll2T1lQNjRlby1QaHN3Ynd3?oc=5\" target=\"_blank\">한동훈, 장인상 발인 마치고 추경호 무죄 환영 \"특검 무리한 수사·기소의 당연한 귀결\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tNVZyVTlyaHpwb0paZnZYRjJpQ01CNmFNMHp2SVNKc1llVWhiZ0J5Zm5pNTg0Zk02NkFuNjNfRjE4R045OXdfTFdfQ1NPUjZCMll2T1lQNjRlby1QaHN3Ynd3?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 06:10:08 GMT",
+        "source": "매일신문",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "6bf0bce6e28387d67aac2f8e23c5209ac792be8caf22d406168142e5064a2e95",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5pUmxGSktrRmdRUF9mRmRFUDNHRWtNOTR6S01YenhvaTQteFRBU2NDbmNRTl82bEJ6VHlBcmloR3JPckpiaXJMNVFKdVZUMGRERWs2QkhFbktOVVo3ZWJIX1JfR2k3TjNSZkRGSEJCSlZhUGk4cTR4UkhB0gF_QVVfeXFMT2lQdzVZZFpGLWZ3dHpaSGtBT09pZGpwZUs3SENDbHV5NFg5NE56ZC1GSGFtZHNKTEZhTDFDcWJNa1ozcEJpTHlISzZ2b1ViZnFHYnFmVHVKVnpYazRqbDl1MVlyY1dnSEw2ZU9BbUo1cVRCZWJhSUpXdkhfYzhVaw?oc=5\" target=\"_blank\">'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pUmxGSktrRmdRUF9mRmRFUDNHRWtNOTR6S01YenhvaTQteFRBU2NDbmNRTl82bEJ6VHlBcmloR3JPckpiaXJMNVFKdVZUMGRERWs2QkhFbktOVVo3ZWJIX1JfR2k3TjNSZkRGSEJCSlZhUGk4cTR4UkhB0gF_QVVfeXFMT2lQdzVZZFpGLWZ3dHpaSGtBT09pZGpwZUs3SENDbHV5NFg5NE56ZC1GSGFtZHNKTEZhTDFDcWJNa1ozcEJpTHlISzZ2b1ViZnFHYnFmVHVKVnpYazRqbDl1MVlyY1dnSEw2ZU9BbUo1cVRCZWJhSUpXdkhfYzhVaw?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 06:14:02 GMT",
+        "source": "머니투데이",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "6a536f25e5d2bf9fc21d892cd7d6ed0d15cfb3c94ad3cffb5479a1d31998087e",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5\" target=\"_blank\">Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 13:51:26 GMT",
+        "source": "Yahoo! Finance Canada",
+        "ageHours": 16.5
       },
       "delivered": [],
       "archived": false
