@@ -6176,3 +6176,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명-시진핑, 선전서 정상회담..."전략적 동반자 관계로 도약" - 아세안익스프레스
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명-시진핑, 선전서 정상회담..."전략적 동반자 관계로 도약"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiXzlOLUk4Y0o2ZS1aMnZhSWtQTnpmWTZpZG9CZjc4TWhhdGdCWHE5UUhoNGx3dmFmZXotWHpqOGhDc2tNcC0tUW9qNS1NdEt1WmNjeHNwaEltbHJub0tzTlF3VkJyNlJY?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장예찬, 당게 글 공개 “미국 있는 한동훈 딸 ‘추경호, 용산 실드 적당히 해’라고 썼다” - 주간경향
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장예찬, 당게 글 공개 “미국 있는 한동훈 딸 ‘추경호, 용산 실드 적당히 해’라고 썼다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IYmdGVnVLQTVWSWwwZlozM01IdV9DWTRzNXhYNF9helFqRDRyZkNxcGZoMno2RWtER3dRcU1kVXNtNXYwSmU5VGxjX1lKZjJMNmRubmIzMW9fb2ZRQWc?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '추경호 무죄'에 한동훈 "무죄 받을 것이라 지적해왔다…당연한 귀결" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '추경호 무죄'에 한동훈 "무죄 받을 것이라 지적해왔다…당연한 귀결"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE10SjA1MHpFS1NvLV9fanJsUV9aNy1ZNW9SUGJxOWZ1dzBTMGt2ckd6RVV4bGNuaHpNOGJRSVhwcHVSNGY0b0d2TXZ6OG9LSGVkV0NObjFYLUZyWnBqYkY5WlQxb0RKd1BfOHF6WNIBckFVX3lxTFBkV3RtZ3owR0Q3Y3Y3NGZBMkp0TEQzZE1KUHVIYWNOS1dVSmY0MTVnTm9zY0hnSWg3TFZWS1ZOZHBOXy1pb2p3TnExN0E5ajRKdnBFdVNDMDhNazJmdS11R3VDc1E1bE1WQkdSQ2l6VF9HZw?oc=5)
+
+---
+

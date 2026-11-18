@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T22:51:16.712Z",
+  "lastCheckedAt": "2026-11-18T23:11:17.205Z",
   "seenPostIds": {
-    "df5bf90451592c50a238cfdeec7ee0106d5427b2d13462a400655f7472f20d47": {
-      "seenAt": "2026-11-15T14:51:17.166Z",
-      "title": "김민석, '최민희 발언 논란' 윤리심판원 이첩 지시…징계 수순(종합) - 연합뉴스",
-      "targetName": "김민석"
-    },
     "81c99e3c16efe28fa4dbaf0ec6e527ce639ee27a32ff38fde879b764d80f4d44": {
       "seenAt": "2026-11-15T15:11:18.039Z",
       "title": "Trump blames Biden for nationwide travel stoppage - The Independent",
@@ -2505,7 +2500,55 @@
       "seenAt": "2026-11-18T22:51:17.732Z",
       "title": "최민희 징계 불씨에 정청래·추미애 가세…민주당 내홍 격화 - 서울경제",
       "targetName": "정청래"
+    },
+    "0049a59443d62081db1ad0764a2a5e6a8a7f32d3a68d28ef2604b23b242ab403": {
+      "seenAt": "2026-11-18T23:11:18.215Z",
+      "title": "이재명-시진핑, 선전서 정상회담...\"전략적 동반자 관계로 도약\" - 아세안익스프레스",
+      "targetName": "이재명"
+    },
+    "6b9ca68149baf325f10046f6e28b71b385320dc202414cbe32febe5259b642c5": {
+      "seenAt": "2026-11-18T23:11:18.837Z",
+      "title": "장예찬, 당게 글 공개 “미국 있는 한동훈 딸 ‘추경호, 용산 실드 적당히 해’라고 썼다” - 주간경향",
+      "targetName": "한동훈"
+    },
+    "0ac1fcc949de6925658ded57ba0ae612bdf25142c49109bed15ee6a8af7788b7": {
+      "seenAt": "2026-11-18T23:11:19.444Z",
+      "title": "'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "3a5f5bde1f74cf071bd92d8f08dc08fb7af4c85132a04cd4389988c30f682a67",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "\"최민희 징계 반대\" 정청래 참전에 '폭풍전야' - SBS 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE11Ql9HWEpZSEU4US1Kb0xPVTc0d0tBM1VhMUNnM2pEQVRZcVJGSERpNWN4WTFoSVJWQVNNNUI1aVE5MU5oUzBnLWRDcThRQ19qR3BnVHZtZmZEM3ZRMjByNHUzRVk3MlFrNEHSAWZBVV95cUxPTlhLeVp3SzNVRGFhMEZxX3NxdmFCTkxGYk03dGhIekNYbjRGdFZBRU1qZHdPYVNsSGhrN3BKNmd3ajFNdTUzSXRQZ2paUWN6VmJkX2RuWXFjakdYbmVKYmVTUnJuNGc?oc=5\" target=\"_blank\">\"최민희 징계 반대\" 정청래 참전에 '폭풍전야'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SBS 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11Ql9HWEpZSEU4US1Kb0xPVTc0d0tBM1VhMUNnM2pEQVRZcVJGSERpNWN4WTFoSVJWQVNNNUI1aVE5MU5oUzBnLWRDcThRQ19qR3BnVHZtZmZEM3ZRMjByNHUzRVk3MlFrNEHSAWZBVV95cUxPTlhLeVp3SzNVRGFhMEZxX3NxdmFCTkxGYk03dGhIekNYbjRGdFZBRU1qZHdPYVNsSGhrN3BKNmd3ajFNdTUzSXRQZ2paUWN6VmJkX2RuWXFjakdYbmVKYmVTUnJuNGc?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 12:14:16 GMT",
+        "source": "SBS 뉴스",
+        "ageHours": 10.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f200a7847ccdbe2e1d9dd9d28b944e1954709a2511903715ee728a8e660e4f15",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WXLV",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmYwTGk4RHFxZnBCcnZfWFVFcWpOR2ZNam5KeUhGR2VwbVVZdmRwamlrN0tUdm1OM3V4TVh0WHh3V3pUSnZWWktfV2pVbHhPR0J4MzMtVXU5dW5SYlF6amxzOEdjSnB4UGVSa1ZnOEtzaXdTRkJrNXB4MFNraVdaRmJCTTNESlZsX3lYMHlEd1FKbFpyOWFtSzd1Z01paHhzNXp4Z05LeUk3ekhrSHB3TnU5OWt2YjdTOVE?oc=5\" target=\"_blank\">No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WXLV</font>",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZmYwTGk4RHFxZnBCcnZfWFVFcWpOR2ZNam5KeUhGR2VwbVVZdmRwamlrN0tUdm1OM3V4TVh0WHh3V3pUSnZWWktfV2pVbHhPR0J4MzMtVXU5dW5SYlF6amxzOEdjSnB4UGVSa1ZnOEtzaXdTRkJrNXB4MFNraVdaRmJCTTNESlZsX3lYMHlEd1FKbFpyOWFtSzd1Z01paHhzNXp4Z05LeUk3ekhrSHB3TnU5OWt2YjdTOVE?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 16:55:46 GMT",
+        "source": "WXLV",
+        "ageHours": 6.3
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
