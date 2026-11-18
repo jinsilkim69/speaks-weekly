@@ -2802,5 +2802,82 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6bf0bce6e28387d67aac2f8e23c5209ac792be8caf22d406168142e5064a2e95",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5pUmxGSktrRmdRUF9mRmRFUDNHRWtNOTR6S01YenhvaTQteFRBU2NDbmNRTl82bEJ6VHlBcmloR3JPckpiaXJMNVFKdVZUMGRERWs2QkhFbktOVVo3ZWJIX1JfR2k3TjNSZkRGSEJCSlZhUGk4cTR4UkhB0gF_QVVfeXFMT2lQdzVZZFpGLWZ3dHpaSGtBT09pZGpwZUs3SENDbHV5NFg5NE56ZC1GSGFtZHNKTEZhTDFDcWJNa1ozcEJpTHlISzZ2b1ViZnFHYnFmVHVKVnpYazRqbDl1MVlyY1dnSEw2ZU9BbUo1cVRCZWJhSUpXdkhfYzhVaw?oc=5\" target=\"_blank\">'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pUmxGSktrRmdRUF9mRmRFUDNHRWtNOTR6S01YenhvaTQteFRBU2NDbmNRTl82bEJ6VHlBcmloR3JPckpiaXJMNVFKdVZUMGRERWs2QkhFbktOVVo3ZWJIX1JfR2k3TjNSZkRGSEJCSlZhUGk4cTR4UkhB0gF_QVVfeXFMT2lQdzVZZFpGLWZ3dHpaSGtBT09pZGpwZUs3SENDbHV5NFg5NE56ZC1GSGFtZHNKTEZhTDFDcWJNa1ozcEJpTHlISzZ2b1ViZnFHYnFmVHVKVnpYazRqbDl1MVlyY1dnSEw2ZU9BbUo1cVRCZWJhSUpXdkhfYzhVaw?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 06:14:02 GMT",
+    "source": "머니투데이",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "민생예산"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "6a536f25e5d2bf9fc21d892cd7d6ed0d15cfb3c94ad3cffb5479a1d31998087e",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5\" target=\"_blank\">Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5",
+    "pubDate": "Tue, 17 Nov 2026 13:51:26 GMT",
+    "source": "Yahoo! Finance Canada",
+    "ageHours": 16.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "effb945d9b2a3e49880528b67438203c2148094328eabde475bdb3074bb91d5e",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈, ‘계엄해제 표결 방해의혹’ 추경호 1심 무죄 선고에 “당연한 귀결” - 헤럴드경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SNFpWM2c3WVI2dkEwbkJjdVVjRkJnLXRVdW1zOGRUVEpySEwxUDNEQmZMeFdXWW1KSHZEbjVzSXNrX21rR3hWTnZtcWZQb3FQbXl2N25R?oc=5\" target=\"_blank\">한동훈, ‘계엄해제 표결 방해의혹’ 추경호 1심 무죄 선고에 “당연한 귀결”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SNFpWM2c3WVI2dkEwbkJjdVVjRkJnLXRVdW1zOGRUVEpySEwxUDNEQmZMeFdXWW1KSHZEbjVzSXNrX21rR3hWTnZtcWZQb3FQbXl2N25R?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 06:21:12 GMT",
+    "source": "헤럴드경제",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈, ‘계엄해제 표결 방해의혹’ 추경호 1심 무죄 선고에 “당연한 귀결”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "민생예산"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

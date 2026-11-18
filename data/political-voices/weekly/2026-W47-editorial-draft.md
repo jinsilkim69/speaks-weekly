@@ -4694,3 +4694,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '추경호 무죄'에 한동훈 "무죄 받을 것이라 지적해왔다…당연한 귀결" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '추경호 무죄'에 한동훈 "무죄 받을 것이라 지적해왔다…당연한 귀결"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE5pUmxGSktrRmdRUF9mRmRFUDNHRWtNOTR6S01YenhvaTQteFRBU2NDbmNRTl82bEJ6VHlBcmloR3JPckpiaXJMNVFKdVZUMGRERWs2QkhFbktOVVo3ZWJIX1JfR2k3TjNSZkRGSEJCSlZhUGk4cTR4UkhB0gF_QVVfeXFMT2lQdzVZZFpGLWZ3dHpaSGtBT09pZGpwZUs3SENDbHV5NFg5NE56ZC1GSGFtZHNKTEZhTDFDcWJNa1ozcEJpTHlISzZ2b1ViZnFHYnFmVHVKVnpYazRqbDl1MVlyY1dnSEw2ZU9BbUo1cVRCZWJhSUpXdkhfYzhVaw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, ‘계엄해제 표결 방해의혹’ 추경호 1심 무죄 선고에 “당연한 귀결” - 헤럴드경제
+
+- **수집일**: 2026-11-18 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, ‘계엄해제 표결 방해의혹’ 추경호 1심 무죄 선고에 “당연한 귀결”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SNFpWM2c3WVI2dkEwbkJjdVVjRkJnLXRVdW1zOGRUVEpySEwxUDNEQmZMeFdXWW1KSHZEbjVzSXNrX21rR3hWTnZtcWZQb3FQbXl2N25R?oc=5)
+
+---
+
