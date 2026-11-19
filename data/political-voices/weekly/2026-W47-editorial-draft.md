@@ -6644,3 +6644,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [단독] 국민연금에 국내 주식 투자 ‘권유’했던 이재명 대통령, 직권남용 논란 - 월간조선
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민연금에 국내 주식 투자 ‘권유’했던 이재명 대통령, 직권남용 논란
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9TOWdieUlSazNHSk9CVFltUHNxNG5nZHVtX2Y5Rl9ZZ3dlcDJIZ1dEbDhDRENjakJ5a2s0eUxLRklTemRBYWRNZk9EQXBtWEZrcUg4d2ZmbG5KcVJPaTFmUkQ4dElXN3E3Z0FMbw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망 - 뉴데일리
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxONDMyeTdlT0tKTHJVRk5hbk5KUUFIR1JsR00wSmZ2Z0dZVnBLMnI2NnNrakFheTVqdHVkSVd0YXA3OG15ek9qaFdRX0N3ZS1iRUgwWVc2T0ZFdTVfOU9GdGpqNlFSd1ZFRkNFdDlwbGxRWjhfRkkta2dSZ0FsRVRWZtIBgAFBVV95cUxONDMyeTdlT0tKTHJVRk5hbk5KUUFIR1JsR00wSmZ2Z0dZVnBLMnI2NnNrakFheTVqdHVkSVd0YXA3OG15ek9qaFdRX0N3ZS1iRUgwWVc2T0ZFdTVfOU9GdGpqNlFSd1ZFRkNFdDlwbGxRWjhfRkkta2dSZ0FsRVRWZg?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망 - 뉴데일리
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxONDMyeTdlT0tKTHJVRk5hbk5KUUFIR1JsR00wSmZ2Z0dZVnBLMnI2NnNrakFheTVqdHVkSVd0YXA3OG15ek9qaFdRX0N3ZS1iRUgwWVc2T0ZFdTVfOU9GdGpqNlFSd1ZFRkNFdDlwbGxRWjhfRkkta2dSZ0FsRVRWZtIBgAFBVV95cUxONDMyeTdlT0tKTHJVRk5hbk5KUUFIR1JsR00wSmZ2Z0dZVnBLMnI2NnNrakFheTVqdHVkSVd0YXA3OG15ek9qaFdRX0N3ZS1iRUgwWVc2T0ZFdTVfOU9GdGpqNlFSd1ZFRkNFdDlwbGxRWjhfRkkta2dSZ0FsRVRWZg?oc=5)
+
+---
+

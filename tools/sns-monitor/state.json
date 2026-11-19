@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T04:51:17.367Z",
+  "lastCheckedAt": "2026-11-19T05:21:17.308Z",
   "seenPostIds": {
-    "46186c9e3b603361cc7594563b41b96514df9519e297b322e348bfa999e3e59c": {
-      "seenAt": "2026-11-16T01:51:22.668Z",
-      "title": "Koh blames Trump for blocking Biden-era infrastructure, FAA funding - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "d1a3b67656abb3d569f79073f78788bfa97cd4c105743ff358062b5a1bfd302c": {
       "seenAt": "2026-11-16T02:01:19.021Z",
       "title": "장동혁, 오세훈, 한동훈의 삼국지.. 이준석의 짜증엔 이유가 있다? - 최보식의언론",
@@ -2505,7 +2500,71 @@
       "seenAt": "2026-11-19T04:51:18.804Z",
       "title": "김민석 대표에 'X소리' 막말...중징계 받은 부산시의원 \"정치 탄압\" - KBC광주방송",
       "targetName": "김민석"
+    },
+    "f68469f5dceaf29b2872c8c43a61db367d8adf878d9428521460b8ab4d9d7352": {
+      "seenAt": "2026-11-19T05:21:18.693Z",
+      "title": "[단독] 국민연금에 국내 주식 투자 ‘권유’했던 이재명 대통령, 직권남용 논란 - 월간조선",
+      "targetName": "이재명"
+    },
+    "323a6661a1daf4ddfc59308d37dbb00459c0b6e02c98892765886710540536a5": {
+      "seenAt": "2026-11-19T05:21:19.405Z",
+      "title": "장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망 - 뉴데일리",
+      "targetName": "한동훈"
+    },
+    "274567ba066a081cf108faeff931422134236a4f5098c40afbf7eb451333f332": {
+      "seenAt": "2026-11-19T05:21:20.130Z",
+      "title": "장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망 - 뉴데일리",
+      "targetName": "이준석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "67cc973f5aa3ce962fe0b8988c459d250d53ea08702f1d507862b019a87be53e",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 \"죽창가, 사퇴 각오하고…日과 무역전쟁 결과 소부장 강화\" - 뉴스1",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZ1ItZ3ctNXhRVnMtTXlIZ0tmdDJwYVFIV2RVMHdmX1M3VHRxUlA2OW9JMWtnQzZ1SWUtQlI4N1JxRlNQSlRFT1RaUFN1eUxZdzFTTkVBNXl4Zw?oc=5\" target=\"_blank\">조국 \"죽창가, 사퇴 각오하고…日과 무역전쟁 결과 소부장 강화\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZ1ItZ3ctNXhRVnMtTXlIZ0tmdDJwYVFIV2RVMHdmX1M3VHRxUlA2OW9JMWtnQzZ1SWUtQlI4N1JxRlNQSlRFT1RaUFN1eUxZdzFTTkVBNXl4Zw?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 04:59:09 GMT",
+        "source": "뉴스1",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "3ef508ac3bcf87368527ca8d9dbe80562bbc0434e4a69d461570abfdb8719e6d",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WLOS",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0otdVhpR2hyOTNBU3hkNzBaOVp4T1Zld2Q1Wk90ak4zR191QUFCQkpiU0RQbkVlU2F0TkVENjdzcUc3T1hMcVZlVzhscjFVUmx5NW5RaVp2cXVRLTc4dk5JNUJHRDJEOG81VjRVV2ZxWG9uNEh0YWJJT0FkZUlZVFJ0Mjl3RThLVlNfV3c4UlZhOTdRZUtyNkMtdWRDT0QtUktRMGFiN0lBWEM4UWR3V1hFSEdoYW9s?oc=5\" target=\"_blank\">No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOS</font>",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0otdVhpR2hyOTNBU3hkNzBaOVp4T1Zld2Q1Wk90ak4zR191QUFCQkpiU0RQbkVlU2F0TkVENjdzcUc3T1hMcVZlVzhscjFVUmx5NW5RaVp2cXVRLTc4dk5JNUJHRDJEOG81VjRVV2ZxWG9uNEh0YWJJT0FkZUlZVFJ0Mjl3RThLVlNfV3c4UlZhOTdRZUtyNkMtdWRDT0QtUktRMGFiN0lBWEM4UWR3V1hFSEdoYW9s?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 17:40:39 GMT",
+        "source": "WLOS",
+        "ageHours": 11.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f57bb0ba64c99cc0f5aef41439c3632520974a2d91f82f69a334bef729825a9e",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "‘PRESIDENT MARCOS IS A POWERFUL LEADER, AND A MAN OF HIGH INTEGRITY AND SUBSTANCE’ US President Donald Trump is now heading to China after his state visit to the Philippines, where he announced a new trade deal between the two cou - Facebook",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY1pzLWlweGVKT2tZVUZnY0FpUDR3eWVKSXJkUGFUUUFuU1Mxb1F4WXFMd0I2d0Rtb0pmQnlILVllU0xHNUpDTUlIWDRtU3c1c21sS2VmSU9QOXBjb054aGIyMHJqdjBhTFk4WGM1aEMzTlVETG54ODZrRVVPNldfaVN0V3J0ZE05ay04WGpXUXpYMFZXRWNsdEtZMlBmX1JLbTZfZW94SE56UUI4akktWk1HempWSkJ2UFFLc013WllEcTI4eVJmQktCa1BERURMTlQ4?oc=5\" target=\"_blank\">‘PRESIDENT MARCOS IS A POWERFUL LEADER, AND A MAN OF HIGH INTEGRITY AND SUBSTANCE’ US President Donald Trump is now heading to China after his state visit to the Philippines, where he announced a new trade deal between the two cou</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facebook</font>",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY1pzLWlweGVKT2tZVUZnY0FpUDR3eWVKSXJkUGFUUUFuU1Mxb1F4WXFMd0I2d0Rtb0pmQnlILVllU0xHNUpDTUlIWDRtU3c1c21sS2VmSU9QOXBjb054aGIyMHJqdjBhTFk4WGM1aEMzTlVETG54ODZrRVVPNldfaVN0V3J0ZE05ay04WGpXUXpYMFZXRWNsdEtZMlBmX1JLbTZfZW94SE56UUI4akktWk1HempWSkJ2UFFLc013WllEcTI4eVJmQktCa1BERURMTlQ4?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 03:41:00 GMT",
+        "source": "Facebook",
+        "ageHours": 1.7
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
