@@ -8126,3 +8126,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 전합 판결인데 조희대만?…한동훈 "與, 탄핵하려면 대법관 전원 하라" 등 [11/20(금) 데일리안 출근길 뉴스] - 데일리안
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 전합 판결인데 조희대만?…한동훈 "與, 탄핵하려면 대법관 전원 하라" 등
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvbmt6Y1JScXBDcHZnSmVUdTFDMmtfRXpLTV9hWW95UmxYWWhtd0tDczBWdzFqdldraGV1OVp5TUlZdGMtZG1aSGJ4NUxXQnB5MGlfOQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Pardons Pete Rose as Garcia Calls Biden’s Pardons a ‘Mistake’ - Newsweek
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Pardons Pete Rose as Garcia Calls Biden’s Pardons a ‘Mistake’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0VaRzJrT1lhZXZyWHZsTWt4dW1oM3FyUnQ3RDJyTEZzcDVwSVNMQzk1X3B1Rm9MMkNQS09vcG12TkltNldkWmxMTS0tOFZSdjQ0YUFvSUd6WjRaREt3c3NrVGx6aUgyQlFxM1pCSmVVRlp6QUFyQjJqRFRVZ1A1bWJfdUlpc2w1QVUzWHNoZDhsbWE4UmR5bklaeTl2Y2s?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** President Donald Trump announces he's posthumously pardoned Pete Rose, who was reinstated by MLB last spring - Yahoo
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] President Donald Trump announces he's posthumously pardoned Pete Rose, who was reinstated by MLB last spring
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdFhzYzl0OVI1T1NXZ3lmNTE5ZjlGcEFMRUVfWHQ0MjlVLXlIOHRaWWhUYlBpNlU3LWxNckFfdHNjZlROTGZKN0ZaOVQtMjBiZms2bGlDcWFIUTlPT1dfN0JhME9sUzBPdEQzRTRYUU1hUzZ1eXNCYmJaU000eTlDQzU2MjdhdG9xNmpKajdLcm1EcG1zTVg5S3Jma1BJa2QyTnR0a0Z2aEF5OW5nblNSYXJPLUlKZjFyaTcwZE9FckE1RF9EcnpkSW8yeTdUMGt0THNfTUlNN3R4U0QxQVREZU1Ha09ORGJQVHc?oc=5)
+
+---
+

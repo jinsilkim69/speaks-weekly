@@ -781,5 +781,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d6f6516f80964d296cef522f5d163a21464dcaab2474b6d5974edac8bb22f5c8",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "전합 판결인데 조희대만?…한동훈 \"與, 탄핵하려면 대법관 전원 하라\" 등 [11/20(금) 데일리안 출근길 뉴스] - 데일리안",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvbmt6Y1JScXBDcHZnSmVUdTFDMmtfRXpLTV9hWW95UmxYWWhtd0tDczBWdzFqdldraGV1OVp5TUlZdGMtZG1aSGJ4NUxXQnB5MGlfOQ?oc=5\" target=\"_blank\">전합 판결인데 조희대만?…한동훈 \"與, 탄핵하려면 대법관 전원 하라\" 등 [11/20(금) 데일리안 출근길 뉴스]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvbmt6Y1JScXBDcHZnSmVUdTFDMmtfRXpLTV9hWW95UmxYWWhtd0tDczBWdzFqdldraGV1OVp5TUlZdGMtZG1aSGJ4NUxXQnB5MGlfOQ?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 21:00:00 GMT",
+    "source": "데일리안",
+    "ageHours": 2.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 전합 판결인데 조희대만?…한동훈 \"與, 탄핵하려면 대법관 전원 하라\" 등",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "c960843b90b3e52148d72bb5118f48198a7fadf78ed0aca2fefc8a4ee24af47e",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Pardons Pete Rose as Garcia Calls Biden’s Pardons a ‘Mistake’ - Newsweek",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0VaRzJrT1lhZXZyWHZsTWt4dW1oM3FyUnQ3RDJyTEZzcDVwSVNMQzk1X3B1Rm9MMkNQS09vcG12TkltNldkWmxMTS0tOFZSdjQ0YUFvSUd6WjRaREt3c3NrVGx6aUgyQlFxM1pCSmVVRlp6QUFyQjJqRFRVZ1A1bWJfdUlpc2w1QVUzWHNoZDhsbWE4UmR5bklaeTl2Y2s?oc=5\" target=\"_blank\">Trump Pardons Pete Rose as Garcia Calls Biden’s Pardons a ‘Mistake’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0VaRzJrT1lhZXZyWHZsTWt4dW1oM3FyUnQ3RDJyTEZzcDVwSVNMQzk1X3B1Rm9MMkNQS09vcG12TkltNldkWmxMTS0tOFZSdjQ0YUFvSUd6WjRaREt3c3NrVGx6aUgyQlFxM1pCSmVVRlp6QUFyQjJqRFRVZ1A1bWJfdUlpc2w1QVUzWHNoZDhsbWE4UmR5bklaeTl2Y2s?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 22:52:00 GMT",
+    "source": "Newsweek",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Pardons Pete Rose as Garcia Calls Biden’s Pardons a ‘Mistake’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "280597dc5a70cf5b175ff4c54680be181a44593974cb1def6737c20e32dfb554",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "President Donald Trump announces he's posthumously pardoned Pete Rose, who was reinstated by MLB last spring - Yahoo",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdFhzYzl0OVI1T1NXZ3lmNTE5ZjlGcEFMRUVfWHQ0MjlVLXlIOHRaWWhUYlBpNlU3LWxNckFfdHNjZlROTGZKN0ZaOVQtMjBiZms2bGlDcWFIUTlPT1dfN0JhME9sUzBPdEQzRTRYUU1hUzZ1eXNCYmJaU000eTlDQzU2MjdhdG9xNmpKajdLcm1EcG1zTVg5S3Jma1BJa2QyTnR0a0Z2aEF5OW5nblNSYXJPLUlKZjFyaTcwZE9FckE1RF9EcnpkSW8yeTdUMGt0THNfTUlNN3R4U0QxQVREZU1Ha09ORGJQVHc?oc=5\" target=\"_blank\">President Donald Trump announces he's posthumously pardoned Pete Rose, who was reinstated by MLB last spring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdFhzYzl0OVI1T1NXZ3lmNTE5ZjlGcEFMRUVfWHQ0MjlVLXlIOHRaWWhUYlBpNlU3LWxNckFfdHNjZlROTGZKN0ZaOVQtMjBiZms2bGlDcWFIUTlPT1dfN0JhME9sUzBPdEQzRTRYUU1hUzZ1eXNCYmJaU000eTlDQzU2MjdhdG9xNmpKajdLcm1EcG1zTVg5S3Jma1BJa2QyTnR0a0Z2aEF5OW5nblNSYXJPLUlKZjFyaTcwZE9FckE1RF9EcnpkSW8yeTdUMGt0THNfTUlNN3R4U0QxQVREZU1Ha09ORGJQVHc?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 22:59:41 GMT",
+    "source": "Yahoo",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] President Donald Trump announces he's posthumously pardoned Pete Rose, who was reinstated by MLB last spring",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
