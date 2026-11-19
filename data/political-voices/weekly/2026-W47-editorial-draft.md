@@ -7684,3 +7684,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정성호 “최민희 징계 불가피…김민석·정청래 연락 안 되면 내가 중재” - 경기일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정성호 “최민희 징계 불가피…김민석·정청래 연락 안 되면 내가 중재”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfVkNRSnY2aElNcTkxMzdrbkw4U0kyTV94RTc2MmRIbXQ2X1pIU1ZsOFBjdDVTV3RmYWxaYnV0TE5TcTk5RXFna0gtdk9mRzF0TDgtT0V3dGlJN2s?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 한여넷, 일본 입국 거부 조국 원장 태도 '지록위마'에 빗대 비판 - 데일리중앙
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한여넷, 일본 입국 거부 조국 원장 태도 '지록위마'에 빗대 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE5FOHFUdUJ3MEFhTkhISkpZOFJoeWlaVjFhNWFnZHZPamFNYXFIYTZHREw4RzMtSEREVGtFQzZDSkRhVGdPdEx0RXIxZk5abzlWd09UOHZET0FjcHFzWVZ1ZE14ZU1jOU5EU1MzSGp3?oc=5)
+
+---
+

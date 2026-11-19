@@ -3705,5 +3705,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "ab54a6bcf20ab40ba3914d29fd448ffb976cc2c674eb0ceb15cbb95d338e4e28",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "정성호 “최민희 징계 불가피…김민석·정청래 연락 안 되면 내가 중재” - 경기일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfVkNRSnY2aElNcTkxMzdrbkw4U0kyTV94RTc2MmRIbXQ2X1pIU1ZsOFBjdDVTV3RmYWxaYnV0TE5TcTk5RXFna0gtdk9mRzF0TDgtT0V3dGlJN2s?oc=5\" target=\"_blank\">정성호 “최민희 징계 불가피…김민석·정청래 연락 안 되면 내가 중재”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfVkNRSnY2aElNcTkxMzdrbkw4U0kyTV94RTc2MmRIbXQ2X1pIU1ZsOFBjdDVTV3RmYWxaYnV0TE5TcTk5RXFna0gtdk9mRzF0TDgtT0V3dGlJN2s?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 03:50:49 GMT",
+    "source": "경기일보",
+    "ageHours": 10.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정성호 “최민희 징계 불가피…김민석·정청래 연락 안 되면 내가 중재”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "c5f18608cea5588bed98c9a606e24b7511f06a4339512882cc221f46b7ad3f6c",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "한여넷, 일본 입국 거부 조국 원장 태도 '지록위마'에 빗대 비판 - 데일리중앙",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5FOHFUdUJ3MEFhTkhISkpZOFJoeWlaVjFhNWFnZHZPamFNYXFIYTZHREw4RzMtSEREVGtFQzZDSkRhVGdPdEx0RXIxZk5abzlWd09UOHZET0FjcHFzWVZ1ZE14ZU1jOU5EU1MzSGp3?oc=5\" target=\"_blank\">한여넷, 일본 입국 거부 조국 원장 태도 '지록위마'에 빗대 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리중앙</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FOHFUdUJ3MEFhTkhISkpZOFJoeWlaVjFhNWFnZHZPamFNYXFIYTZHREw4RzMtSEREVGtFQzZDSkRhVGdPdEx0RXIxZk5abzlWd09UOHZET0FjcHFzWVZ1ZE14ZU1jOU5EU1MzSGp3?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 09:06:40 GMT",
+    "source": "데일리중앙",
+    "ageHours": 5.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한여넷, 일본 입국 거부 조국 원장 태도 '지록위마'에 빗대 비판",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

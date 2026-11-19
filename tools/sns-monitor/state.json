@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T14:11:26.895Z",
+  "lastCheckedAt": "2026-11-19T14:21:18.306Z",
   "seenPostIds": {
-    "f61c1fc6dff261a6e94a9f3afdec51854fe4721ce259c3e5b2f39d86064b7409": {
-      "seenAt": "2026-11-16T14:21:23.640Z",
-      "title": "여야, 계파 갈등에 내홍 격화…김민석·장동혁 리더십 시험대 - 인디포커스",
-      "targetName": "김민석"
-    },
     "11ed481eea662e7165bcb26752db33da291149417384b115446dfee13914f7be": {
       "seenAt": "2026-11-16T14:31:43.412Z",
       "title": "김민석 흔들려도 ‘우원식 비대위’는 어려운 3가지 이유 - 에너지경제신문",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-19T14:11:28.615Z",
       "title": "Trump upset 'biggest drop in gasoline in 18 years' came after election - USA Today",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ab54a6bcf20ab40ba3914d29fd448ffb976cc2c674eb0ceb15cbb95d338e4e28": {
+      "seenAt": "2026-11-19T14:21:19.691Z",
+      "title": "정성호 “최민희 징계 불가피…김민석·정청래 연락 안 되면 내가 중재” - 경기일보",
+      "targetName": "정청래"
+    },
+    "c5f18608cea5588bed98c9a606e24b7511f06a4339512882cc221f46b7ad3f6c": {
+      "seenAt": "2026-11-19T14:21:20.426Z",
+      "title": "한여넷, 일본 입국 거부 조국 원장 태도 '지록위마'에 빗대 비판 - 데일리중앙",
+      "targetName": "조국"
     }
   },
   "pending": []
