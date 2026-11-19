@@ -7372,3 +7372,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 계엄 때 보여준 한동훈의 '리더십' "한동훈 판단이 국힘을 살렸다"｜이현종의 뉴스쇼 [문화일보] #shorts - 문화일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 계엄 때 보여준 한동훈의 '리더십' "한동훈 판단이 국힘을 살렸다"｜이현종의 뉴스쇼  #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NWktTV1ZKTlFhVmNxWk5mSUdlQVBIYjgweHZ4b0F4N3ZtQTZKalFmbTlZOF93T2hvYTB6b21rUV9qdHBTREJ6ZGs5MElobmNaRDFiaVNR?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 민주당, 조희대 탄핵론 분출 … 조국당은 촛불집회 시작 - 뉴데일리
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당, 조희대 탄핵론 분출 … 조국당은 촛불집회 시작
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE41V2J2dTc2YndQa2NUQlRfSHVhODBhRTRXSkhWTEt3c1ZRYS13R3NVaTJ4WG1GaHIyX2tsbWl1OHRLUHl6cFlDcklqTFd6T0gwclRkSTVjVUM4Y19CYUxqMk5QWGFlY0hvRGRiNm0yM2otWm9JMW4tSFluSdIBgAFBVV95cUxPZXJoYlBOOWRfYVhWWmJkbzc3VmZ4ZkVCcVVLZnl6OE85dHh0djZlelcySm1Kb21ianJqYUJRd0NlN3BsRGdrSWh2SE5ObEo5d3NTQ3Q0V0JadEVvOGpYb19mSG53bVpzTmF5eXJmYUxTSTJCendaZ2lTOWUtV292cw?oc=5)
+
+---
+
