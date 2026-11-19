@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T01:22:52.588Z",
+  "lastCheckedAt": "2026-11-19T01:31:16.193Z",
   "seenPostIds": {
-    "df4dc96d081976088e4d5fc9174441f9ed24dcc07cf661c9e7adabd4382858b0": {
-      "seenAt": "2026-11-15T18:31:18.413Z",
-      "title": "Trump blames Biden admin for FAA outage debacle — as he repeats Duffy’s call to spend billions on upgrades - New York Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "2c54ba5b1c4ec776325c393dc9cb70c5346e2182f27914acd44a43e8e5cc8d45": {
       "seenAt": "2026-11-15T18:51:15.876Z",
       "title": "최민희 징계 심판대 올린 김민석…친청계는 '김민석 징계' 맞불 - 주간조선",
@@ -2505,7 +2500,39 @@
       "seenAt": "2026-11-19T01:22:54.579Z",
       "title": "[손병관의 뉴스프레소] 정청래 \"최민희 징계 반대\"... 김민석 겨냥 \"타이밍 조절했나\" - OhmyNews",
       "targetName": "김민석"
+    },
+    "6ff0ee4e23b5c5704f09c08735237a4a76c3517ce4c0d974ec28a50908143e1b": {
+      "seenAt": "2026-11-19T01:31:17.460Z",
+      "title": "차기 대선후보는 누구?...오세훈 17.8%·김민석 14.1%·한동훈 13.1% [코리아정보리서치] - 중앙신문",
+      "targetName": "한동훈"
+    },
+    "f35ea3145c83371d81b6165621a87f7567bf4d5925108f6bd8e721b2a6fabd3b": {
+      "seenAt": "2026-11-19T01:31:18.104Z",
+      "title": "민주당 김민석 대표에 SNS로 막말한 친청계 부산시의원 중징계 - 연합뉴스",
+      "targetName": "김민석"
+    },
+    "d7c784bb95dc92f11a96d7c855bac0fada1a64a1a3ee57ff7c8d6d5a3e51e87b": {
+      "seenAt": "2026-11-19T01:31:18.770Z",
+      "title": "‘김민석 SNS 비판’ 조용우 부산시의원 당원권 1년 정지 - 경북매일",
+      "targetName": "김민석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "e03cb86485a3f1d276e0cdb5a406fcb4373dfb30a517420b91e0a43ca579a6e7",
+        "targetId": "cheon_haram",
+        "targetName": "천하람",
+        "targetTitle": "개혁신당 원내대표",
+        "title": "천하람 \"AI 커닝, 中처럼 막아야\"…기술 방지책 촉구 - www.edaily.co.kr",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVlaX2ZlWTI2ZjdPQkRrT3NUQlU0YmpBN0FrTy0yQ3pidmRMekt0TnhaTGVIZGZwZnRreFhyaUR2MnJDSUIyek9zNXVxUUNZSUpOZ2o2Ul9Dc3N4MlliOWY2OENOOGVONHlncVZtakdNQ1d4ZTh4RG1YVzREMkltbw?oc=5\" target=\"_blank\">천하람 \"AI 커닝, 中처럼 막아야\"…기술 방지책 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.edaily.co.kr</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVlaX2ZlWTI2ZjdPQkRrT3NUQlU0YmpBN0FrTy0yQ3pidmRMekt0TnhaTGVIZGZwZnRreFhyaUR2MnJDSUIyek9zNXVxUUNZSUpOZ2o2Ul9Dc3N4MlliOWY2OENOOGVONHlncVZtakdNQ1d4ZTh4RG1YVzREMkltbw?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 01:26:12 GMT",
+        "source": "www.edaily.co.kr",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

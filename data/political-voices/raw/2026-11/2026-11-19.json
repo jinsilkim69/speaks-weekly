@@ -1082,5 +1082,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6ff0ee4e23b5c5704f09c08735237a4a76c3517ce4c0d974ec28a50908143e1b",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "차기 대선후보는 누구?...오세훈 17.8%·김민석 14.1%·한동훈 13.1% [코리아정보리서치] - 중앙신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiqgNBVV95cUxOVV9mUU1lenlIaVJCRTgyZ0xnLXM4a084aXJPYUpjLU5XUUZGQ3RiOWxJT0hHbTJwaEVvSlF5S1RXdVRSSDFsdHhQQkNZUHhWbmo4RGFyVFFiSDF6QnExZkFJeUNPOWltMXUzaTR6ZEtsbzIxRTROb3loN0VtZmVhZm9KWVdNaGt1MnVOVDZOemV5alhxeFNua09YdC1wSnBnVTlCaFE1aW1Ka0tnZ19GZEZSOWlUZ1JWRW05YkpJZ0dJRm91UDlyVURkVDRjcm9NOUhkNXlEZEhPdDQzSkRlNzdwdGZERmloUXRNZl9TX2dkMzloUTU2UzF5M0JyMmRTSUlZMzBBMjlsbml1MjN4WnR2RjVnUEoxRXNpZlYwQWpyVFV6NW1zb3UwUC1FODRueDJqdXhsakVQNmdKMDJvQWFfNTF1YkFDUjFBU0cyOFRkQUs4QjFjaVNhMHlXbDhFb0xEUUlvZW1JN19jVkJvaTl6QnVVQVFOWllYdUFYNjZvcTBvcWEyNzk3TDN1Nk1ZX2dodm94RWRnUlFWY3BQR0ZIR3oxR0VpWVE?oc=5\" target=\"_blank\">차기 대선후보는 누구?...오세훈 17.8%·김민석 14.1%·한동훈 13.1% [코리아정보리서치]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOVV9mUU1lenlIaVJCRTgyZ0xnLXM4a084aXJPYUpjLU5XUUZGQ3RiOWxJT0hHbTJwaEVvSlF5S1RXdVRSSDFsdHhQQkNZUHhWbmo4RGFyVFFiSDF6QnExZkFJeUNPOWltMXUzaTR6ZEtsbzIxRTROb3loN0VtZmVhZm9KWVdNaGt1MnVOVDZOemV5alhxeFNua09YdC1wSnBnVTlCaFE1aW1Ka0tnZ19GZEZSOWlUZ1JWRW05YkpJZ0dJRm91UDlyVURkVDRjcm9NOUhkNXlEZEhPdDQzSkRlNzdwdGZERmloUXRNZl9TX2dkMzloUTU2UzF5M0JyMmRTSUlZMzBBMjlsbml1MjN4WnR2RjVnUEoxRXNpZlYwQWpyVFV6NW1zb3UwUC1FODRueDJqdXhsakVQNmdKMDJvQWFfNTF1YkFDUjFBU0cyOFRkQUs4QjFjaVNhMHlXbDhFb0xEUUlvZW1JN19jVkJvaTl6QnVVQVFOWllYdUFYNjZvcTBvcWEyNzk3TDN1Nk1ZX2dodm94RWRnUlFWY3BQR0ZIR3oxR0VpWVE?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 01:22:24 GMT",
+    "source": "중앙신문",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 차기 대선후보는 누구?...오세훈 17.8%·김민석 14.1%·한동훈 13.1%",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "f35ea3145c83371d81b6165621a87f7567bf4d5925108f6bd8e721b2a6fabd3b",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "민주당 김민석 대표에 SNS로 막말한 친청계 부산시의원 중징계 - 연합뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XOWhuYlFkRVQzZy16MmZoSklhNTZCaHpBblNwYk5pRTdNNFcxZkFROXRoRGJMcS12eHM1VEpodFVsSEVLWVNORzlkSlQ4dFRkRWc2WGxSZ2owOUnSAWBBVV95cUxPS2FMRFR6b3FYV2hWOHA1VlBpdU9ydUtyb01EMXdhMHBFMmZyNVNZeFctbUhEWFhlSE9RRmNXbjhGT0kxZEJnZWEwWHVYa21hVlJnVWlzQ3g1aWFZd2JCZVI?oc=5\" target=\"_blank\">민주당 김민석 대표에 SNS로 막말한 친청계 부산시의원 중징계</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XOWhuYlFkRVQzZy16MmZoSklhNTZCaHpBblNwYk5pRTdNNFcxZkFROXRoRGJMcS12eHM1VEpodFVsSEVLWVNORzlkSlQ4dFRkRWc2WGxSZ2owOUnSAWBBVV95cUxPS2FMRFR6b3FYV2hWOHA1VlBpdU9ydUtyb01EMXdhMHBFMmZyNVNZeFctbUhEWFhlSE9RRmNXbjhGT0kxZEJnZWEwWHVYa21hVlJnVWlzQ3g1aWFZd2JCZVI?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 01:15:38 GMT",
+    "source": "연합뉴스",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당 김민석 대표에 SNS로 막말한 친청계 부산시의원 중징계",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "d7c784bb95dc92f11a96d7c855bac0fada1a64a1a3ee57ff7c8d6d5a3e51e87b",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "‘김민석 SNS 비판’ 조용우 부산시의원 당원권 1년 정지 - 경북매일",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tZnlHNWtpWExfVHlKb3V4bkU2aVZBWmdOT1ZIS0Q0Nm9ESlBhLV9YUzNZcHBpZ1F5anVmalNmMjd6OTFjbDZaa01SYVhXRWJWZ2dlRmZCTDN3dw?oc=5\" target=\"_blank\">‘김민석 SNS 비판’ 조용우 부산시의원 당원권 1년 정지</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북매일</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tZnlHNWtpWExfVHlKb3V4bkU2aVZBWmdOT1ZIS0Q0Nm9ESlBhLV9YUzNZcHBpZ1F5anVmalNmMjd6OTFjbDZaa01SYVhXRWJWZ2dlRmZCTDN3dw?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 01:20:00 GMT",
+    "source": "경북매일",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘김민석 SNS 비판’ 조용우 부산시의원 당원권 1년 정지",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

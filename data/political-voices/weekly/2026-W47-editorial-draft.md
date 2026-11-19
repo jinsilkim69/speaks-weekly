@@ -6332,3 +6332,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 차기 대선후보는 누구?...오세훈 17.8%·김민석 14.1%·한동훈 13.1% [코리아정보리서치] - 중앙신문
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 차기 대선후보는 누구?...오세훈 17.8%·김민석 14.1%·한동훈 13.1%
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiqgNBVV95cUxOVV9mUU1lenlIaVJCRTgyZ0xnLXM4a084aXJPYUpjLU5XUUZGQ3RiOWxJT0hHbTJwaEVvSlF5S1RXdVRSSDFsdHhQQkNZUHhWbmo4RGFyVFFiSDF6QnExZkFJeUNPOWltMXUzaTR6ZEtsbzIxRTROb3loN0VtZmVhZm9KWVdNaGt1MnVOVDZOemV5alhxeFNua09YdC1wSnBnVTlCaFE1aW1Ka0tnZ19GZEZSOWlUZ1JWRW05YkpJZ0dJRm91UDlyVURkVDRjcm9NOUhkNXlEZEhPdDQzSkRlNzdwdGZERmloUXRNZl9TX2dkMzloUTU2UzF5M0JyMmRTSUlZMzBBMjlsbml1MjN4WnR2RjVnUEoxRXNpZlYwQWpyVFV6NW1zb3UwUC1FODRueDJqdXhsakVQNmdKMDJvQWFfNTF1YkFDUjFBU0cyOFRkQUs4QjFjaVNhMHlXbDhFb0xEUUlvZW1JN19jVkJvaTl6QnVVQVFOWllYdUFYNjZvcTBvcWEyNzk3TDN1Nk1ZX2dodm94RWRnUlFWY3BQR0ZIR3oxR0VpWVE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주당 김민석 대표에 SNS로 막말한 친청계 부산시의원 중징계 - 연합뉴스
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 김민석 대표에 SNS로 막말한 친청계 부산시의원 중징계
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XOWhuYlFkRVQzZy16MmZoSklhNTZCaHpBblNwYk5pRTdNNFcxZkFROXRoRGJMcS12eHM1VEpodFVsSEVLWVNORzlkSlQ4dFRkRWc2WGxSZ2owOUnSAWBBVV95cUxPS2FMRFR6b3FYV2hWOHA1VlBpdU9ydUtyb01EMXdhMHBFMmZyNVNZeFctbUhEWFhlSE9RRmNXbjhGT0kxZEJnZWEwWHVYa21hVlJnVWlzQ3g1aWFZd2JCZVI?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** ‘김민석 SNS 비판’ 조용우 부산시의원 당원권 1년 정지 - 경북매일
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘김민석 SNS 비판’ 조용우 부산시의원 당원권 1년 정지
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tZnlHNWtpWExfVHlKb3V4bkU2aVZBWmdOT1ZIS0Q0Nm9ESlBhLV9YUzNZcHBpZ1F5anVmalNmMjd6OTFjbDZaa01SYVhXRWJWZ2dlRmZCTDN3dw?oc=5)
+
+---
+
