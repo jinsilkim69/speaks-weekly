@@ -6800,3 +6800,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 추경호 1심 무죄에 ‘한동훈 책임론’ 직격탄…당내 “폐문부재 뒤에 숨어 영웅놀이” - 파이낸스투데이
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추경호 1심 무죄에 ‘한동훈 책임론’ 직격탄…당내 “폐문부재 뒤에 숨어 영웅놀이”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE4xQUhDOUxQMGxhemNLY0N3dER3MkZmYTBQU1lOWXJ3WG1QcU9aWVhpb1hYU3RXNWVWeTBBVDdGWHZxT1pCTmFaU3RlWG4wWHR6RElqRVRMU2xVNWxlN2Z4eVExcTNfMVEtVTRLeg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 징계에 친청계 반격…정청래·추미애 "김민석 전대 발언부터" - www.hidomin.com
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 징계에 친청계 반격…정청래·추미애 "김민석 전대 발언부터"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE44V0hXdF9lektncm80X09FRTA3NGkxSmRORHlQbDVGQVlsRWNUeGRXdnRSWUJXc3dRWEJDRlNhZ1RhZlRxb24zVm96WkI3NU5Nc21qWW40a1B4OUdKdVdKWl9VTmJobDFWU3c?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [손병관의 뉴스프레소] 정청래 "최민희 징계 반대"... 김민석 겨냥 "타이밍 조절했나" - OhmyNews
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 징계 반대"... 김민석 겨냥 "타이밍 조절했나"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE1XWWZJYm5HeTdORXpPaG1ZWDMxbTFIYTQwVVdaYTVyMllBVkZPeWRrZm9yVDFXMzdLU3pMZl9Rc0J5YnZITVZ5SjljSkh1YVlHb25mek1hRE5QV1NXN1IwRElFX25lZy05dnJTa2VQRS1zcEFT?oc=5)
+
+---
+
