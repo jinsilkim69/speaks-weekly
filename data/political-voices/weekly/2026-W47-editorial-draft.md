@@ -7996,3 +7996,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 홍준표, 한동훈 겨냥 “배신자들 활개치는 세상, 정의에 반해” - 주간경향
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 홍준표, 한동훈 겨냥 “배신자들 활개치는 세상, 정의에 반해”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ta1BVZnZKN1JoTk5jTEU0QXRHTXhzd2lpSmMtYUh4blJGRGY4bU9yWDBibFdkVEFJVEFhNWhJSnZYRi0zdHhuVWRiVnF3aGhRXzNSSEZaVDhMXzJWOVE?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 추경호 무죄에 다시 불붙은 與내홍…한동훈 복당 '가시밭길' - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추경호 무죄에 다시 불붙은 與내홍…한동훈 복당 '가시밭길'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE96UXhUZlJkMVJ1amludi1zMnhxNDd6cGdFZVZHdkNFOEtoQUNBX0FPNS16VXJvUXJRUGNRckNZaTA2ZXZqUTc1SlI5N3BnU3JWSE1WWHFzVVpBSHNETG00bTZ6RnN0d1VxTjdLQXpES0wwcVlLNmpHa2V30gF_QVVfeXFMUHllZklxaWpwR2pCZURTbnFPeEl0d2pwd0xfWUhEUU9JQ0RvcmxjZEpxVnBkb01fY1RfZmxzdGNwR1I0N3VQRU53MURUbHQ3bm80R1ExVzgtcnVaOW9CS2pYY1pBdU5pcUlXWURzazFqdXZEX1J4VVNqNzcyNklXYw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 한덕수 파기환송에 "조희대 사법부 규탄…인정할 수 없다" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 한덕수 파기환송에 "조희대 사법부 규탄…인정할 수 없다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE9YOUdkNF81X1otbmx0U0RvN0hGbTQtcW12MkdTVi0wV2tnN2pGZ0hrVEIwS1kwcjE0T1dPbDh5bkRreHNRNFhNU2VTZ0lLckhRSHN3T1FCb1hhVmMyNU1TaHpYN0ZJcFZfVVlLLWZfaUZBZ9IBckFVX3lxTE9YOUdkNF81X1otbmx0U0RvN0hGbTQtcW12MkdTVi0wV2tnN2pGZ0hrVEIwS1kwcjE0T1dPbDh5bkRreHNRNFhNU2VTZ0lLckhRSHN3T1FCb1hhVmMyNU1TaHpYN0ZJcFZfVVlLLWZfaUZBZw?oc=5)
+
+---
+
