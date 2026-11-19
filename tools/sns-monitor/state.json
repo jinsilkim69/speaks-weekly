@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-18T23:51:22.157Z",
+  "lastCheckedAt": "2026-11-19T00:11:17.574Z",
   "seenPostIds": {
-    "ddfe6c2f8e2d4b1ec9835c61eebccec74fbf2826b0df9fa3e62e6da881d03bc8": {
-      "seenAt": "2026-11-15T17:01:18.227Z",
-      "title": "Trump's handpicked party chair faces a rebellion as midterm losses challenge president's grip on GOP - WHEC.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "2075368defe85e30643b6c36e6170ac7b13153f994e256a29b1f3180da41781a": {
-      "seenAt": "2026-11-15T17:11:18.409Z",
-      "title": "Trump calls on Congress to fund new air traffic control system - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "17a7e364c2ef52e2e7541ca26022ffcde7f89bcba3e15e7af555244efac944b7": {
       "seenAt": "2026-11-15T17:31:18.185Z",
       "title": "장동혁, ‘한동훈 복당 반대 의견’ 안철수와 회동 가져…‘당내결속과 대여투쟁에 집중’ - www.1waynews.com",
@@ -2510,6 +2500,16 @@
       "seenAt": "2026-11-18T23:51:24.749Z",
       "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - KRXI",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "19c4b9743f004fb0b6dd03f6424208ee94bf0a2954c7890e3159e9df3f0a2814": {
+      "seenAt": "2026-11-19T00:11:18.679Z",
+      "title": "홍준표 \"되지도 않을 한동훈 복당 논쟁 그만…장동혁 대표 중심으로\" - 뉴시스",
+      "targetName": "한동훈"
+    },
+    "35bf083ea437c7c1566d54db6d7a7d5abf1bf02a14aeb46ef63747764a7a3175": {
+      "seenAt": "2026-11-19T00:11:19.318Z",
+      "title": "송영길, 최민희 징계에 “김민석 흔들리지 말고 빨리 처리해야” [김은지의 뉴스IN] - 시사IN",
+      "targetName": "송영길"
     }
   },
   "pending": []

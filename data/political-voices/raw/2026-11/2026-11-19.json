@@ -982,5 +982,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "19c4b9743f004fb0b6dd03f6424208ee94bf0a2954c7890e3159e9df3f0a2814",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "홍준표 \"되지도 않을 한동훈 복당 논쟁 그만…장동혁 대표 중심으로\" - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE00VnZqNjFZVGFDcnlJUnN3Y2FZaGlJXzJ5VVd5R3h5cnByb1F5aHVmZ0M0YURxa3phWTFoVzlVSFF1Zl9WdXI2akRtLUJWU21CN0RRMjZKZkJrVHFVclpsV0RmT3l2VUFHVldaUm54dWxNTHJjcnhBQ9IBeEFVX3lxTE00VnZqNjFZVGFDcnlJUnN3Y2FZaGlJXzJ5VVd5R3h5cnByb1F5aHVmZ0M0YURxa3phWTFoVzlVSFF1Zl9WdXI2akRtLUJWU21CN0RRMjZKZkJrVHFVclpsV0RmT3l2VUFHVldaUm54dWxNTHJjcnhBQw?oc=5\" target=\"_blank\">홍준표 \"되지도 않을 한동훈 복당 논쟁 그만…장동혁 대표 중심으로\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00VnZqNjFZVGFDcnlJUnN3Y2FZaGlJXzJ5VVd5R3h5cnByb1F5aHVmZ0M0YURxa3phWTFoVzlVSFF1Zl9WdXI2akRtLUJWU21CN0RRMjZKZkJrVHFVclpsV0RmT3l2VUFHVldaUm54dWxNTHJjcnhBQ9IBeEFVX3lxTE00VnZqNjFZVGFDcnlJUnN3Y2FZaGlJXzJ5VVd5R3h5cnByb1F5aHVmZ0M0YURxa3phWTFoVzlVSFF1Zl9WdXI2akRtLUJWU21CN0RRMjZKZkJrVHFVclpsV0RmT3l2VUFHVldaUm54dWxNTHJjcnhBQw?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 22:28:40 GMT",
+    "source": "뉴시스",
+    "ageHours": 1.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 홍준표 \"되지도 않을 한동훈 복당 논쟁 그만…장동혁 대표 중심으로\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "35bf083ea437c7c1566d54db6d7a7d5abf1bf02a14aeb46ef63747764a7a3175",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "송영길, 최민희 징계에 “김민석 흔들리지 말고 빨리 처리해야” [김은지의 뉴스IN] - 시사IN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9WOVotSXVEUU9JOXRwb3pSeDlKRkVZQUdseXJkS1BFQWNaU254SWV5X183QWZlWGNzV3JLOTRNR0tNazMyeUptZFhlRWNLanczREZOR055WjFrYWFtTjk1aVBrRnhfTDQtSXc?oc=5\" target=\"_blank\">송영길, 최민희 징계에 “김민석 흔들리지 말고 빨리 처리해야” [김은지의 뉴스IN]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사IN</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WOVotSXVEUU9JOXRwb3pSeDlKRkVZQUdseXJkS1BFQWNaU254SWV5X183QWZlWGNzV3JLOTRNR0tNazMyeUptZFhlRWNLanczREZOR055WjFrYWFtTjk1aVBrRnhfTDQtSXc?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 23:45:00 GMT",
+    "source": "시사IN",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길, 최민희 징계에 “김민석 흔들리지 말고 빨리 처리해야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
