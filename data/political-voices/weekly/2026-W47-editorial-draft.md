@@ -7424,3 +7424,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** SCMP "이재명 부부, 중국 SNS 달궈"…"자연스러운 품격" - 세상을 바꾸는 시민언론 민들레
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] SCMP "이재명 부부, 중국 SNS 달궈"…"자연스러운 품격"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE0xQlQ2QlVueG9XcmV6aDVLMklhU3FkZmxQWnNvYnRSU2phcE9lekZkRnNoY2laQ2h4UmRzVlAyRGEtOVZhUVNla2xSeEczcFBWVGQ2Nnp6VlRoNlNKa3BQcFpJd2xNSHlXbmJ0Uw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 박지원 "정청래, 돌아가면서 한 방씩…경솔한 말씀을 했다" - 뉴시스
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원 "정청래, 돌아가면서 한 방씩…경솔한 말씀을 했다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XcDdPR1hIdjFDZGZVRTR5V0pndWFibXczRUZ4YkZfQ21QN2hhdTl3bjgyVDNzeE9aTFZhbFlScjlFV20yTU9VcFhpQnBoVU5za0VQUzBuUkUzUGFuOGdfY9IBeEFVX3lxTE1xNlh2TlBrTXdac1Q1LTNTaXpibXlVM1dhdENzQXdKbG5KTW1ETFoyXzJwakNHbnZWZzlUMWFaQ29UOE15aXN4RkZiVDNUODFzTHRRbEU1MVpGR1VCRFAyOUoxMW1OZ0F3RHpJT0ZtWkJ5MWZOa3F1dw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** ‘정청래 말려라’ 與원로 총출동…박지원 “국민이 민주 버릴라” - 아시아투데이
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘정청래 말려라’ 與원로 총출동…박지원 “국민이 민주 버릴라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1NX0xGSkUtMlFoT01aZ3dSSzhlSGVvdW9FdUVubUh6bHB4Tm1TMDF0QWEzQzlXZ3BYM1FaMWZnR2R0enFPdWVVVzh3c05SZTctZ3RHNkUyNDdBZjNIa3MwRGhndWJMMS03d1cwVnJB?oc=5)
+
+---
+
