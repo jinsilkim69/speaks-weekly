@@ -7333,3 +7333,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** “정청래, 李 대통령에 안 좋은 생각 있는 듯…최민희가 동조” 친명 직격 - 매일경제
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “정청래, 李 대통령에 안 좋은 생각 있는 듯…최민희가 동조” 친명 직격
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9feE9NUGplakx1TGFOb0pjYXlOY1NDZnZTV2V4dzU3TlM3Y3lLRVlfNloxN0RrZGQtVzhQdndURVFmUnlhV2c?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 대한전선 사장, 임직원과 소통··· 목표는 하나로, 과정은 치열하게, 결실은 함께 - 일렉트릭파워
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 대한전선 사장, 임직원과 소통··· 목표는 하나로, 과정은 치열하게, 결실은 함께
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UWWV0eVloc1FCWHIyNmZESllRdE1jTUhOODVmbHNiT0hybkJsb1NhdURTeFU4bE01WEc5N3F6eWdrTkdHbGZjcFpLaHVoZUhLNF81NTNjSHVla05LTGMtdHJNU3I?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 "대법원의 국민보호 포기 선언…조희대 탄핵해야" - 연합뉴스TV
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 "대법원의 국민보호 포기 선언…조희대 탄핵해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PRS1sRVVTSmJOSjVJQWtkX3lrTXRqZDc0c1ZSNENvb0xNeEpTbFdrY1c1NFdWQ3ZNSlhKSjlXS0dtUk1Da1E5VXF5dnpOUGx6cldzQVV5SVQ2OUNWR1Y1RVduU1ZBSTQ?oc=5)
+
+---
+
