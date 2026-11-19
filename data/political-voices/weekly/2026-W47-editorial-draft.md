@@ -6839,3 +6839,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망 - 뉴데일리
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE12aEUtMjFfd3JHd1U1LVd3SnJETUZaQV8xVkJIRkZCUDZjcHdTWDllVDNNeU4zbnpOMVBCRl9Na05RNTV6UTNUTndWLWx1ZkpiLXN5NXVHT2VKRWJyR2V2Wi1zN05yNW1SUlFrVWMwOTJDVUpzTEgzTjFvUdIBgAFBVV95cUxONDMyeTdlT0tKTHJVRk5hbk5KUUFIR1JsR00wSmZ2Z0dZVnBLMnI2NnNrakFheTVqdHVkSVd0YXA3OG15ek9qaFdRX0N3ZS1iRUgwWVc2T0ZFdTVfOU9GdGpqNlFSd1ZFRkNFdDlwbGxRWjhfRkkta2dSZ0FsRVRWZg?oc=5)
+
+---
+
