@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T10:41:17.727Z",
+  "lastCheckedAt": "2026-11-19T10:51:16.520Z",
   "seenPostIds": {
-    "8fce884c48b2bc04e05a29c0f0f0e25dbc8c1a609f3713831e310cc3a0d5a19e": {
-      "seenAt": "2026-11-16T10:11:18.124Z",
-      "title": "[부고]한동훈(국회의원)씨 빙부상 - 머니투데이 - 머니투데이",
-      "targetName": "한동훈"
-    },
-    "30468bff7927adb7fdc222c432e0495d5233183ac50147b52ffda9098cbc74a5": {
-      "seenAt": "2026-11-16T10:11:18.751Z",
-      "title": "김민석, 최민희 발언 논란에 \"정치별개 윤리문제 판단 이뤄질것\" - 연합뉴스",
-      "targetName": "김민석"
-    },
-    "c464c67fc75bbf1e355b3038eaca09355f936e945ef1bc86b6ddcd5b9bae1ed5": {
-      "seenAt": "2026-11-16T10:21:19.439Z",
-      "title": "현장 최고위원회의서 발언하는 신장식 조국혁신당 대표 - 국제뉴스",
-      "targetName": "조국"
-    },
     "f8ca84a92eb0d1c98fe87bc85b6da1a554c23c1bf5710ec136dc5193bc611528": {
       "seenAt": "2026-11-16T10:21:20.119Z",
       "title": "조국혁신당, 국회 앞 천막농성... 민주유공자법 제정 촉구 - OhmyNews",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-19T10:41:20.294Z",
       "title": "‘정청래 말려라’ 與원로 총출동…박지원 “국민이 민주 버릴라” - 아시아투데이",
       "targetName": "정청래"
+    },
+    "b6aa8692be22e251a0e032d924a9d862a866bbc125c0f1cea37fa23e542ebaec": {
+      "seenAt": "2026-11-19T10:51:17.587Z",
+      "title": "Trump-backed right-wing lawyer appears to win Colombia's presidential election - ABC News - Breaking News, Latest News and Videos",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
