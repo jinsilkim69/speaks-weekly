@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T05:31:17.042Z",
+  "lastCheckedAt": "2026-11-19T05:41:15.883Z",
   "seenPostIds": {
-    "9768bd58b7509703005ba2aa1367a6594e537551eb46c09c8ef41885c6712959": {
-      "seenAt": "2026-11-16T02:21:22.373Z",
-      "title": "박원석 \"민주당, 20대 총선 정청래 컷오프로 대승…이번엔 최민희라는 공감대\" - 네이트",
-      "targetName": "정청래"
-    },
-    "4a074fe809130fc094a108571389baf691a226b084cf2b0c940ed3a9c4098ed9": {
-      "seenAt": "2026-11-16T02:21:23.065Z",
-      "title": "[부고] 이준석(현대카드 시니어 매니저)씨 외조부상 - 연합인포맥스",
-      "targetName": "이준석"
-    },
-    "6a7b935da7e9122ffc2742d112189c5157178a41a50fc70b219b02ae0b4d25d4": {
-      "seenAt": "2026-11-16T02:21:23.720Z",
-      "title": "62 of the most stupid things Donald Trump has ever said - Indy100",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "005351da90dcd53834e6d96257589d8b583f56e49d949e698fd11a21f211646c": {
       "seenAt": "2026-11-16T02:31:19.012Z",
       "title": "Trump Shares WSJ Opinion Piece on Truth Social Amid Retweets - Forth.News",
@@ -2515,6 +2500,16 @@
       "seenAt": "2026-11-19T05:31:20.016Z",
       "title": "‘PRESIDENT MARCOS IS A POWERFUL LEADER, AND A MAN OF HIGH INTEGRITY AND SUBSTANCE’ US President Donald Trump is now heading to China after his state visit to the Philippines, where he announced a new trade deal between the two cou - Facebook",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "67719672e06020d30cb54df88283457dacdef0ef1f47795fb418a42da7cb740b": {
+      "seenAt": "2026-11-19T05:41:17.472Z",
+      "title": "野당권파, '추경호 무죄'로 '조작징계' 되치기…한동훈·친한계 '정조준' - 뉴스1",
+      "targetName": "한동훈"
+    },
+    "d6ecaabdbceae896daedea65d4964864473850d4c02554a723dd5d4120e72bfa": {
+      "seenAt": "2026-11-19T05:41:18.123Z",
+      "title": "장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망 - 뉴데일리",
+      "targetName": "이준석"
     }
   },
   "pending": []
