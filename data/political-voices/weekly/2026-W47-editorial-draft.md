@@ -7827,3 +7827,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump urges Congress to pass a new farm bill - Lexington Herald Leader
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump urges Congress to pass a new farm bill
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMifkFVX3lxTE1PS2QxS3BFdlhPOTNBdm1LSVBld0pKeDB1WmhjNnBfeGJrQkpKbGdyaUE2QXo1dTA1Q1BxYTNkSDE3T0tuU2Q1dl9uX25FakF2ZDhVSmxkX2tJand2NWE4N2gyZE41NjA3YVVwVXVVOFo1WlEwcm0wRFVXd0xLUQ?oc=5)
+
+---
+
