@@ -7229,3 +7229,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 푸틴 포함 각국 정상과 인사 #Shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 푸틴 포함 각국 정상과 인사 #Shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3SndieU0za1F1TDlKanBjaXUwVXh1a2xHb1phRzRtZXUtLWxUeEprSHpWdnhUU2RSMkdGWUVSeEVCWVJoNGhBQ2JEMVhYTU0wNHdxaUVPVUFJYndZMFlUMmpWNklBX21Ba0E2djJhY2ZMaTZKZGQ3N3YxdkZudVk?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 한여넷, 일본 입국 거부 조국 원장 태도 '지록위마'에 빗대 비판 - 데일리중앙
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한여넷, 일본 입국 거부 조국 원장 태도 '지록위마'에 빗대 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wMWhsS1dxMEV0bkhVdzUyTFh4NTJVeHFzSFhEOV9KRS1rS1pFbWZaYWRPbm5tQzdBeXJrX3ROREtCZ3JlaHYwWDNEWUoyTWkyY0FQbjNwTFpjekY5U2MyVkhWTkoyaXBqdVZEMw?oc=5)
+
+---
+
