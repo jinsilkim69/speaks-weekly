@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T15:31:37.427Z",
+  "lastCheckedAt": "2026-11-19T15:41:18.449Z",
   "seenPostIds": {
-    "d609a8cd57a429686817be5a291df49e72540131e7a31f1630a741cb03f2cdde": {
-      "seenAt": "2026-11-16T15:31:22.482Z",
-      "title": "김민석, 최민희 발언 논란에 \"정치 별개 윤리 문제 판단 이뤄질 것\" - SBS 뉴스",
-      "targetName": "김민석"
-    },
     "4f4037ae31824fa153302389b20cd9b43e4c85ab28a364d3787a92eabb87fb1f": {
       "seenAt": "2026-11-16T15:51:27.785Z",
       "title": "Trump Keeps Posting Weird AI Slop Instead of Talking About FAA Outage - The New Republic",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-19T15:31:38.852Z",
       "title": "Trump Urges Congress to Pass a New Farm Bill - U.S. News & World Report",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ada16ac5132a22c805322e990da004f6050a9889e79d2341ac57f2ce5072f942": {
+      "seenAt": "2026-11-19T15:41:19.523Z",
+      "title": "김민석도 강공 돌아섰다…“대법 역사적 반역, 조희대 탄핵” - 중앙일보",
+      "targetName": "김민석"
     }
   },
   "pending": []

@@ -74,5 +74,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "ada16ac5132a22c805322e990da004f6050a9889e79d2341ac57f2ce5072f942",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석도 강공 돌아섰다…“대법 역사적 반역, 조희대 탄핵” - 중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzVHQ2SWZSNXNTOHFfNW9vdG01T1hVZFk3N3FMYUVQWkp2LXJLYXJ2bHpZUVFZYkNBM3hwQmtNdW9xTnl6U0F4WEc1RTBLbThhdGkzZVhn?oc=5\" target=\"_blank\">김민석도 강공 돌아섰다…“대법 역사적 반역, 조희대 탄핵”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzVHQ2SWZSNXNTOHFfNW9vdG01T1hVZFk3N3FMYUVQWkp2LXJLYXJ2bHpZUVFZYkNBM3hwQmtNdW9xTnl6U0F4WEc1RTBLbThhdGkzZVhn?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 15:01:00 GMT",
+    "source": "중앙일보",
+    "ageHours": 0.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석도 강공 돌아섰다…“대법 역사적 반역, 조희대 탄핵”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
