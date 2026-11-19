@@ -1233,5 +1233,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e7e545a87282b7a8f2d11d59411d5150547af1732aeea0ff740d0c46aaa0be71",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "[손병관의 뉴스프레소] 정청래 \"최민희 징계 반대\"... 김민석 겨냥 \"타이밍 조절했나\" - OhmyNews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1XWWZJYm5HeTdORXpPaG1ZWDMxbTFIYTQwVVdaYTVyMllBVkZPeWRrZm9yVDFXMzdLU3pMZl9Rc0J5YnZITVZ5SjljSkh1YVlHb25mek1hRE5QV1NXN1IwRElFX25lZy05dnJTa2VQRS1zcEFT?oc=5\" target=\"_blank\">[손병관의 뉴스프레소] 정청래 \"최민희 징계 반대\"... 김민석 겨냥 \"타이밍 조절했나\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XWWZJYm5HeTdORXpPaG1ZWDMxbTFIYTQwVVdaYTVyMllBVkZPeWRrZm9yVDFXMzdLU3pMZl9Rc0J5YnZITVZ5SjljSkh1YVlHb25mek1hRE5QV1NXN1IwRElFX25lZy05dnJTa2VQRS1zcEFT?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 22:15:00 GMT",
+    "source": "OhmyNews",
+    "ageHours": 3.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래 \"최민희 징계 반대\"... 김민석 겨냥 \"타이밍 조절했나\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "c32939d0846feeed9ec2e50014faf575b06496b93b4841a4674dd13e59a9f96d",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 비판하며 막말한 부산시의원, 당원권 1년 정지 : 정치 - 재경일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTa2RtUExWeXpDUldxU2NULUpBbGNKZGxlbklBN1VLaUZHcTJCaVNVRkY5ejFLdVIxY3dwSE1hMVotRi1sWG1MTGpaNA?oc=5\" target=\"_blank\">김민석 비판하며 막말한 부산시의원, 당원권 1년 정지 : 정치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTa2RtUExWeXpDUldxU2NULUpBbGNKZGxlbklBN1VLaUZHcTJCaVNVRkY5ejFLdVIxY3dwSE1hMVotRi1sWG1MTGpaNA?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 01:40:30 GMT",
+    "source": "재경일보",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 비판하며 막말한 부산시의원, 당원권 1년 정지 : 정치",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
