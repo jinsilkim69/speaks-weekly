@@ -7983,3 +7983,16 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 박지원 "정청래·추미애 파벌싸움 불질러…국민이 민주당 버릴 것" - 프레시안
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원 "정청래·추미애 파벌싸움 불질러…국민이 민주당 버릴 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ycld0TDRCTzRHbnNJbm5vVDZVeERFakkxbUN6OWdGblNyRWZkNndQeEZJaUR2TE9MNWd0eW9Bb19VZG9CaUpjYm5ZRTFMZ3p3NEZSSjBuYzV4eUlHTU1KZUE0VGF2YlU1bDJn?oc=5)
+
+---
+
