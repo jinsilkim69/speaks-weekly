@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T08:51:20.328Z",
+  "lastCheckedAt": "2026-11-19T08:57:09.211Z",
   "seenPostIds": {
-    "0fe3e5041e76a986b242e94425688f7e22251d31618661a05ed0e7fb8b5fa525": {
-      "seenAt": "2026-11-16T06:51:18.878Z",
-      "title": "박원석 \"정청래 컷오프로 20대 총선 승리…최민희 정리가 쇄신 출발” - 진일보 | 전남일보",
-      "targetName": "정청래"
-    },
-    "041fed6b0a1d844375996bf1398a4ae14c77f2222587db359c586c6cb33118c0": {
-      "seenAt": "2026-11-16T07:01:29.481Z",
-      "title": "눈길 안 준 김민석과 두 손 모은 최민희 #Shorts - 오마이TV - OhmyNews",
-      "targetName": "김민석"
-    },
-    "fe54e3db3a8aa93d36a35c6965e5523aa761af44354a7a36b6f659489f805509": {
-      "seenAt": "2026-11-16T07:01:30.262Z",
-      "title": "조국 “조작기소특검법 위헌제청 여지…할 말은 해야” - 쿠키뉴스",
-      "targetName": "조국"
-    },
     "31131eef5c9bfe872fe7fea23e09b5974b8045c2d6f681faf8c5b9a09a1c1ebe": {
       "seenAt": "2026-11-16T07:21:23.114Z",
       "title": "'한동훈 복당' 또 수면 위로...장동혁은 일단 '선 긋기' [이슈톺] - YTN",
@@ -2515,7 +2500,39 @@
       "seenAt": "2026-11-19T08:51:22.829Z",
       "title": "조국 입국 거부한 일본 “독도 때문 아냐…출입국관리법대로” - 한겨레",
       "targetName": "조국"
+    },
+    "bb413ca5b4f7dff533a542fe82e370436f0d6463147acdfacbae72c7755b5f28": {
+      "seenAt": "2026-11-19T08:57:10.646Z",
+      "title": "이재명 대통령 보자 미소 짓고 악수한 시진핑 #Shorts - 오마이TV - OhmyNews",
+      "targetName": "이재명"
+    },
+    "dd3c84a984cda9e327d92ddd0f9b94ad0e54a6576225208e60e8fca16f8a3ef7": {
+      "seenAt": "2026-11-19T08:57:11.381Z",
+      "title": "\"김민석 탓\" vs \"대법원 수준 미달\"…한덕수 판결에 與 지지자 엇갈려 - 한국경제",
+      "targetName": "김민석"
+    },
+    "83881d9a9d130fafce188d6b28574ac1f73f36546b69bf3a2b3b5818de896652": {
+      "seenAt": "2026-11-19T08:57:12.146Z",
+      "title": "조국 \"추경호 무죄 후 한덕수 파기환송…與 조희대 방치한 후과\" - 머니투데이 - 머니투데이",
+      "targetName": "조국"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "ea2eeb074e986add0858c5eea93bb534f13988eb80a739f394bce7d6e3d409ab",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "THE BLAME GAME - The US Blames Canada for Failed Talks, the Reaction From Trump and What Happens Next - EnergyNow",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVc0OG9kYUY4WXJ0Y0xYODZtNHFkVWNBRUxYMF9XN0VyRFpnZmMzeFZ5UzZtVzB3SmlaS3dqb0dqR3FBZlRlZWRRcUd5QnlwQWFiX18tenM1TW9pcy1TWndBR3JvSXNWT2NrbDAzMm9USGd4LVFOM2kwd3FtQ0o1dlRRYXNGVENKOG1XMXJ1NGlyU2lpM3VqUVZQQzNHVmhzZWhxUzZod2tTc196N2gxejNyVUtCNy1YZTJZR2VmZ1paN3RDbDVv?oc=5\" target=\"_blank\">THE BLAME GAME - The US Blames Canada for Failed Talks, the Reaction From Trump and What Happens Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyNow</font>",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVc0OG9kYUY4WXJ0Y0xYODZtNHFkVWNBRUxYMF9XN0VyRFpnZmMzeFZ5UzZtVzB3SmlaS3dqb0dqR3FBZlRlZWRRcUd5QnlwQWFiX18tenM1TW9pcy1TWndBR3JvSXNWT2NrbDAzMm9USGd4LVFOM2kwd3FtQ0o1dlRRYXNGVENKOG1XMXJ1NGlyU2lpM3VqUVZQQzNHVmhzZWhxUzZod2tTc196N2gxejNyVUtCNy1YZTJZR2VmZ1paN3RDbDVv?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 22:51:15 GMT",
+        "source": "EnergyNow",
+        "ageHours": 10.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

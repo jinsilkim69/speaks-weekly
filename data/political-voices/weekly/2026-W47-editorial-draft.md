@@ -7164,3 +7164,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 보자 미소 짓고 악수한 시진핑 #Shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 보자 미소 짓고 악수한 시진핑 #Shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE5STlpSaW5UT1FnWGNXQ2EzWU12VVRMT1NTRUZuSFBJRlE3RGZwS0h0U3QzQ05LYXFuVVlqMm4zM1k4QlQ5WU0zQ3JxRlRfeGJqNkw3Z2NzZTFybVdhd2dtcVVHckMzaUt6VEJmVlpNOFlhbDFndE1RM3gzVkNvaWs?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** "김민석 탓" vs "대법원 수준 미달"…한덕수 판결에 與 지지자 엇갈려 - 한국경제
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "김민석 탓" vs "대법원 수준 미달"…한덕수 판결에 與 지지자 엇갈려
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NNW5TaFN4LTF4OVF5SFppYldGejBsamRpSkhwSFcydG54WjdEc2tSUHRhM1BGYk85MDcxZDBBQ01DeUQ5cTZkSm1ndHFpdmpFV0tweURNU1N6QQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "추경호 무죄 후 한덕수 파기환송…與 조희대 방치한 후과" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "추경호 무죄 후 한덕수 파기환송…與 조희대 방치한 후과"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE1mM0tNVkpYRmhQUFRVc1VEWjF2NDdlZlNTZTYtcktWcVUzZEtpUzUzeWc4dTg0NEt5SFhKSmp1aVdnZGVLSm5WUFp6MDdDcTBUQjJfaGpUbkVxdm51SXg1el9WZk4wTVRMZUIteTdURDUtYkpyOFF1ejJ30gF_QVVfeXFMUHEyWmlmcFVqRzQtLXA5TjB4emwxVTJHN3pSS2Nza2xxV1FROFE0Nkx6VTFQY0JaVjZKQ0EzekVqZWVMSG5sb3k1d2VPYzJPYTNjMUkwcUZlS040cTdRMnpJT295NmVhamdtLWJwcHhMNTRPY2ZxRDJoTnl6alY5aw?oc=5)
+
+---
+
