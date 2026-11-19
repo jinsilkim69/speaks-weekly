@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-19T22:51:21.357Z",
       "title": "한동훈 \"전국 재판 업무 중단을\"…이준석 \"李대통령 파기환송심 진행을\" - 뉴스1",
       "targetName": "이준석"
+    },
+    "089d826e4b2442bae105c6a50276abc73b522784a3fcc5400b6a50f1c1edb956": {
+      "seenAt": "2026-11-19T23:01:14.910Z",
+      "title": "Trump posthumously pardons Pete Rose - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "089d826e4b2442bae105c6a50276abc73b522784a3fcc5400b6a50f1c1edb956",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump posthumously pardons Pete Rose - The Hill",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPUmVlTUZqSFEwLW9iQVFmWUFWQm1QVjZLRnFkVWk4R0I1RWFxUVhrcGJSR1RhM0dSSk1GY1ZqZkpIaEVGcGlfaDN6SWpLMU9wdTdzRjJCbjFncmppbV9YNlQ2bTBYWGUyNzhlSHdfaEtrMmYxeEZoNm5QZVFRdUdnYTNvUnhlcS1OOHF3UEhuRdIBlAFBVV95cUxPWm92TXR5RXFGLXFKU3B4cnUtOTFCRDZiUlI3WU9XME9lOU8yT0JXNXY4dThuWkhHbkF4Qnp2cGdnRmV3aUFrUlEtUXRfT2F2SXVKY0xOT0YxUDFpNnJoV2ticEFLSkJuenlkbnVMSy1PTlp3aHJrWEZULU1XTXdITkhDT3hSLWZ5ei1keG9NeGEtd1Fq?oc=5\" target=\"_blank\">Trump posthumously pardons Pete Rose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUmVlTUZqSFEwLW9iQVFmWUFWQm1QVjZLRnFkVWk4R0I1RWFxUVhrcGJSR1RhM0dSSk1GY1ZqZkpIaEVGcGlfaDN6SWpLMU9wdTdzRjJCbjFncmppbV9YNlQ2bTBYWGUyNzhlSHdfaEtrMmYxeEZoNm5QZVFRdUdnYTNvUnhlcS1OOHF3UEhuRdIBlAFBVV95cUxPWm92TXR5RXFGLXFKU3B4cnUtOTFCRDZiUlI3WU9XME9lOU8yT0JXNXY4dThuWkhHbkF4Qnp2cGdnRmV3aUFrUlEtUXRfT2F2SXVKY0xOT0YxUDFpNnJoV2ticEFLSkJuenlkbnVMSy1PTlp3aHJrWEZULU1XTXdITkhDT3hSLWZ5ei1keG9NeGEtd1Fq?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 21:51:00 GMT",
-        "source": "The Hill",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
