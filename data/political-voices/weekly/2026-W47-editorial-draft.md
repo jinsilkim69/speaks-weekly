@@ -7515,3 +7515,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 전합 판결인데 조희대만?…한동훈 "與, 탄핵하려면 대법관 전원 하라" - 데일리안
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 전합 판결인데 조희대만?…한동훈 "與, 탄핵하려면 대법관 전원 하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowJBVV95cUxOLWNOVkdqaGxlQUpPOXBaSERrSWtMUUxCYjVtV2p5NnB0aWJEbktOc1dvY01hR0NMU0tKUy1CQXdXNTBUOThTNVp6QTFsV0RudzRxcEFJRzZOWXczanVoQ1FLaGdVem51LXktMzZsdjAydS1NV2NVNmdOcUhaWnMxQzN1a0FkQm84anN3OTZVbXBFalJKYUMzczJ6NW51S1BFZGtmSVhRSWhQems2QjhDSXlGWXU4MUZHZFItcGlBQm4tTFFVSjBFSDdTUFd6dFc2N1VLcDgxZkRmZ1lOU2wtUlRycXotSGpKUXJjNk1LdjZIOFdQZThmcXV3R1RWYXlvY1laLXFFeFZ1dkNwWWpRYXhpbWJ5Y01Eb3NybWhzYkxBc3M?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주당 '조희대 탄핵' 추진 결론... 김민석 "이 판결은 역사적 반역" - OhmyNews
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 '조희대 탄핵' 추진 결론... 김민석 "이 판결은 역사적 반역"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE5Dd3BLVV9hcG5aZl9rekoxbkJLWE1zckpzdDhJNlJZcGx2WkU0VlVXR1ZzN09iN3RKT0Qwb00tVVhlci0tTVczel94LXNzaGFNTnZUWWRTektSbllJYlBpZGh2dU04cmltMDdIRWh0ZlljMnpHWnhv?oc=5)
+
+---
+
