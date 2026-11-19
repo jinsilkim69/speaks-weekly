@@ -177,5 +177,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "02ac4a56a734d96b3f7cd70d15a9251eb3f800698fa4e4acbcfd4ff87bc8547c",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Stick pins have become the unexpected symbol of East Potomac … and the Trump Administration - Golf Digest",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXNlaWZEeUtzYTVfQlJmc2FtNlJ2MXl0QU9ZN3pQanZ3eXhlZlh5Q3k4d19pNnE2S3VnbGp2U2JBdGYwS091c3o5OWZ1VEIzTm1NS3pLTURZTUw5TDFWTUpsWFFndXlNelhja3ZRUGdocmZwQnF4QkpTc1F5NlBfS3l1OGxUQjI3WTNCZW1Cakl3Znh3UWpR?oc=5\" target=\"_blank\">Stick pins have become the unexpected symbol of East Potomac … and the Trump Administration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Golf Digest</font>",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXNlaWZEeUtzYTVfQlJmc2FtNlJ2MXl0QU9ZN3pQanZ3eXhlZlh5Q3k4d19pNnE2S3VnbGp2U2JBdGYwS091c3o5OWZ1VEIzTm1NS3pLTURZTUw5TDFWTUpsWFFndXlNelhja3ZRUGdocmZwQnF4QkpTc1F5NlBfS3l1OGxUQjI3WTNCZW1Cakl3Znh3UWpR?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 15:57:47 GMT",
+    "source": "Golf Digest",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Stick pins have become the unexpected symbol of East Potomac … and the Trump Administration",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
