@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T06:41:16.781Z",
+  "lastCheckedAt": "2026-11-19T06:51:16.187Z",
   "seenPostIds": {
-    "de45aff5c9b55a70ceb4f292dd3a0e228a7bdc92561eca0404bb7b1e5f20609f": {
-      "seenAt": "2026-11-16T03:21:21.691Z",
-      "title": "「M포토」 발언하는 신장식 조국혁신당 대표 - M이코노미뉴스",
-      "targetName": "신장식"
-    },
-    "5ac70b45bbb8b86178201aedd71f12e16057f08f133fae5fd4a04bd048b648e2": {
-      "seenAt": "2026-11-16T03:31:38.528Z",
-      "title": "김민석 “최민희 발언, 정치와 별개로 판단 이뤄질 것” - 진일보 | 전남일보",
-      "targetName": "김민석"
-    },
     "26265c8d43a1d80fa629d47bb5e90fcd8fbb0261f87ea10a96b7f5b7448a01db": {
       "seenAt": "2026-11-16T03:51:18.227Z",
       "title": "[영상] 최민희 '징계 심판대'로...정청래 '깃발' 들까 - YTN",
@@ -2510,7 +2500,39 @@
       "seenAt": "2026-11-19T06:41:18.864Z",
       "title": "정청래 징계 반대…최민희 해명 믿는다, 녹취록 공개 시점에도 의문 - CBC뉴스",
       "targetName": "정청래"
+    },
+    "25339cb336e8e712d4b568853998cee8e6e66c3f55d60e179cdec5786e422c16": {
+      "seenAt": "2026-11-19T06:51:17.371Z",
+      "title": "야당, 이재명 대통령 조작기소특검법 재가 맹비난 - 기호일보",
+      "targetName": "이재명"
+    },
+    "2d697c503348579dd4cc18670e43cb13712ec21e204ba50e0e3879b05f12eb92": {
+      "seenAt": "2026-11-19T06:51:18.070Z",
+      "title": "박지원 \"추미애-정청래 '최민희 사태' 뛰어들면서 파벌싸움\" #shorts - 오마이TV - OhmyNews",
+      "targetName": "정청래"
+    },
+    "f564e5d67da4726c21cb731ff4493bbe624519be6c2cedb17f8f584d3646b274": {
+      "seenAt": "2026-11-19T06:51:18.839Z",
+      "title": "우원식, 정청래 양비론 지적에 \"갈등 확장돼선 안 돼\" - 머니투데이 - 머니투데이",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "27efc8a201fe106eb69a00a1074163e3b2c15df6d26c300d510e972cd5746f31",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석이 AI로 개발한 ‘커닝 탐지 앱’ 엉터리?…“통신 기초도 이해 못해” 주장 검증해보니 - 주간경향",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjN0NlWmp5eEhlblVCMVlXMWpCYl9YRkRNdk9qSFVBUThmQ1lwNEpRM1FGRGxkUUtHZWtfN0tVdFJhUThFa0NTTlhsaklDdnd5Z3BVM0h4UWVnbG9nbVE?oc=5\" target=\"_blank\">이준석이 AI로 개발한 ‘커닝 탐지 앱’ 엉터리?…“통신 기초도 이해 못해” 주장 검증해보니</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjN0NlWmp5eEhlblVCMVlXMWpCYl9YRkRNdk9qSFVBUThmQ1lwNEpRM1FGRGxkUUtHZWtfN0tVdFJhUThFa0NTTlhsaklDdnd5Z3BVM0h4UWVnbG9nbVE?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 06:21:00 GMT",
+        "source": "주간경향",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

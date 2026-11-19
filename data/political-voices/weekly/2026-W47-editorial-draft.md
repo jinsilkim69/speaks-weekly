@@ -6878,3 +6878,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 야당, 이재명 대통령 조작기소특검법 재가 맹비난 - 기호일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 야당, 이재명 대통령 조작기소특검법 재가 맹비난
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJOFhQMFY2NEg5SEpUdWdXc3dYNXJRR3pEWTdMTmE0cXJwSENxUGtvMHhqTmVLa3BNTHB6YTB6M3FhVms5a093OXAyQUoxX3hka251b0lCbURmbWp5SHdxVEJNckZxTUNRcVlPa1Rtdw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 박지원 "추미애-정청래 '최민희 사태' 뛰어들면서 파벌싸움" #shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원 "추미애-정청래 '최민희 사태' 뛰어들면서 파벌싸움" #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE0wS3JHcV9LM0MtdGVlRzNxY0JFUTdDLWtvYmNIa3NmeC1DY2l2dVRiRVVVTFpsTVJiZTRsMWNYclVnQ1ROekd4T0FTV3VCYm1uY2tocllla2V5dUJLM29EMldVV1prR2NUTXJKaGZWVVlzSUZyalZRTjdVc0RvRjg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 우원식, 정청래 양비론 지적에 "갈등 확장돼선 안 돼" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 우원식, 정청래 양비론 지적에 "갈등 확장돼선 안 돼"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZeUpBZGdvcDZQdEdwMHhISktINDhzekk4VGZKdXR5NFhUSC1BVzlqRkthNWNzVjByc0xyNnR4NDFxQUw2ZDg0eW0yU3BfNU4xcVQ4QmlodExISm1CNUU3bC15aGhTRVphRDhWMdIBckFVX3lxTE5hdFl0MjZRZDBfcDFEMWJKUXRxSDVkemplX1JkUm9CM1dndGl0WHVSdlFFREl0NWpoVzNLRnlmWVdLUkMtbHJHbFhMcnI5cGZWS0RGdk0zVTh0aXBBdFBlOWJENC01REVZbXJKNFZ2VjFmQQ?oc=5)
+
+---
+
