@@ -3628,5 +3628,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "21a8495681b51657107fdaa4d6397210f9f5a2112be79f4a82b3329f08dbd897",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국, 한덕수 파기환송에 “민주당이 조희대 탄핵 방치한 후과” - 시사저널",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9hSXlkSzk5YmtIRFU4QnVJRmpWdDhhX1g3X0NXNHByblYtWlpLYlJEaGRlWGsxUGd1YmJxemhjTk5TZjFuTDhfbWNfZC1OaGtES3NNOGV2ODhjeTc1bm5qMGZHUlA1X3BiQ21wc1QyVdIBc0FVX3lxTE5uM2s4U2loUkdVLWp3SDI4NWVKbklsdUdwckR6alJOTm5heW9qZ2Z6eFh3WS1oWUl1NkRYY1dHWHMzOFNlcmlZaE9JdlEwNVdRdUpGbUkyTGlqbUVxbHlCejNqZXNiRTlCcnBrRjRpX3ZzOFU?oc=5\" target=\"_blank\">조국, 한덕수 파기환송에 “민주당이 조희대 탄핵 방치한 후과”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hSXlkSzk5YmtIRFU4QnVJRmpWdDhhX1g3X0NXNHByblYtWlpLYlJEaGRlWGsxUGd1YmJxemhjTk5TZjFuTDhfbWNfZC1OaGtES3NNOGV2ODhjeTc1bm5qMGZHUlA1X3BiQ21wc1QyVdIBc0FVX3lxTE5uM2s4U2loUkdVLWp3SDI4NWVKbklsdUdwckR6alJOTm5heW9qZ2Z6eFh3WS1oWUl1NkRYY1dHWHMzOFNlcmlZaE9JdlEwNVdRdUpGbUkyTGlqbUVxbHlCejNqZXNiRTlCcnBrRjRpX3ZzOFU?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 12:50:04 GMT",
+    "source": "시사저널",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국, 한덕수 파기환송에 “민주당이 조희대 탄핵 방치한 후과”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

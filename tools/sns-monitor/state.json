@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T13:11:24.328Z",
+  "lastCheckedAt": "2026-11-19T13:51:16.998Z",
   "seenPostIds": {
-    "7954e58194e5d4871537f7f50a3d3998a00044c5c69e62ae8ce0ea44937024c0": {
-      "seenAt": "2026-11-16T13:41:21.212Z",
-      "title": "Trump Posts Bizarre Troop Video After Shocking Revelation - The Daily Beast",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "2696c15f606a1ec6f30ddb15a1b1df136a8a1984b54bab5d57fa94de38703814": {
-      "seenAt": "2026-11-16T13:51:19.469Z",
-      "title": "서용주 \"정청래? 침묵 오래될 가능성...金 취임 100일에 깃발 들기 쉽지 않아\" - YTN",
-      "targetName": "정청래"
-    },
     "37ed29bdd60871e486e1e77522c3c8a47755181211fa3f82b5af6cb26aeb7fed": {
       "seenAt": "2026-11-16T13:51:20.190Z",
       "title": "윤상현 기자회견, “수도권 열세로 총선 승리 어렵다” “오세훈·한동훈·이준석·장동혁 외연 확장” 주문 - 에브리뉴스 EveryNews",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-19T13:11:26.503Z",
       "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin (BTC) - CoinDesk",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "21a8495681b51657107fdaa4d6397210f9f5a2112be79f4a82b3329f08dbd897": {
+      "seenAt": "2026-11-19T13:51:18.286Z",
+      "title": "조국, 한덕수 파기환송에 “민주당이 조희대 탄핵 방치한 후과” - 시사저널",
+      "targetName": "조국"
     }
   },
   "pending": []
