@@ -327,5 +327,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "3370672f600e89049a43c11323589d6a7c90ef3bf7673bc0c9346eeba61430aa",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "송영길 \"신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도\" [굿모닝 인천-주간핫이슈] - 경인방송 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE40ZjR3T2lYSFNGM3ZRd2RjRmpWdHlBTEJWTWpOaDJYNDd3VkJTSVJJTkNIYTF6RmZGMDlqdjEzUFNmUUpjMGZfQU5zS0pIUG92dzdlM1VYRFN4MHhaa3JnVzctUmc?oc=5\" target=\"_blank\">송영길 \"신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도\" [굿모닝 인천-주간핫이슈]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경인방송 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40ZjR3T2lYSFNGM3ZRd2RjRmpWdHlBTEJWTWpOaDJYNDd3VkJTSVJJTkNIYTF6RmZGMDlqdjEzUFNmUUpjMGZfQU5zS0pIUG92dzdlM1VYRFN4MHhaa3JnVzctUmc?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 19:00:34 GMT",
+    "source": "경인방송 뉴스",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길 \"신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

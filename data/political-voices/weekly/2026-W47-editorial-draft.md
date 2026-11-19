@@ -7892,3 +7892,16 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도" [굿모닝 인천-주간핫이슈] - 경인방송 뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTE40ZjR3T2lYSFNGM3ZRd2RjRmpWdHlBTEJWTWpOaDJYNDd3VkJTSVJJTkNIYTF6RmZGMDlqdjEzUFNmUUpjMGZfQU5zS0pIUG92dzdlM1VYRFN4MHhaa3JnVzctUmc?oc=5)
+
+---
+
