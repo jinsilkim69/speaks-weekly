@@ -2290,5 +2290,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "3cbb0a675a4739f45ee8d34ef40c50533513b84a4d8091e332c84f911739c7c6",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "'한한령 해제' 진전에 박지원 엄지척 \"이재명 대통령 진짜 잘했다\" #shorts - 오마이TV - OhmyNews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBoWnNUNVJyRFB2SHNwTTc4blRyYUV3WGhsa3NYaTBxQy1QMjFCNnhndEJmcHBoazVWMENMNC1adVJhMHZReDZmMTFxdVE2R1ViWngtbDdjVW0zSVJqdHdBQVVkdUg2ZkdNWXkzakVXR1ZTNmZxdUJzQTc2d19tSk0?oc=5\" target=\"_blank\">'한한령 해제' 진전에 박지원 엄지척 \"이재명 대통령 진짜 잘했다\" #shorts - 오마이TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoWnNUNVJyRFB2SHNwTTc4blRyYUV3WGhsa3NYaTBxQy1QMjFCNnhndEJmcHBoazVWMENMNC1adVJhMHZReDZmMTFxdVE2R1ViWngtbDdjVW0zSVJqdHdBQVVkdUg2ZkdNWXkzakVXR1ZTNmZxdUJzQTc2d19tSk0?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 05:35:55 GMT",
+    "source": "OhmyNews",
+    "ageHours": 1.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '한한령 해제' 진전에 박지원 엄지척 \"이재명 대통령 진짜 잘했다\" #shorts",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "78f88b8cd1a898d8e05145766733bef66d1fc757b737a8e8353e2bcac2f93e55",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "정성호 “최민희 징계 불가피…김민석·정청래 연락 안 되면 내가 중재” - 경기일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfVkNRSnY2aElNcTkxMzdrbkw4U0kyTV94RTc2MmRIbXQ2X1pIU1ZsOFBjdDVTV3RmYWxaYnV0TE5TcTk5RXFna0gtdk9mRzF0TDgtT0V3dGlJN2s?oc=5\" target=\"_blank\">정성호 “최민희 징계 불가피…김민석·정청래 연락 안 되면 내가 중재”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfVkNRSnY2aElNcTkxMzdrbkw4U0kyTV94RTc2MmRIbXQ2X1pIU1ZsOFBjdDVTV3RmYWxaYnV0TE5TcTk5RXFna0gtdk9mRzF0TDgtT0V3dGlJN2s?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 05:11:49 GMT",
+    "source": "경기일보",
+    "ageHours": 2.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정성호 “최민희 징계 불가피…김민석·정청래 연락 안 되면 내가 중재”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
