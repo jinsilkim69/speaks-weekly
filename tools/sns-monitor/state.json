@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T15:11:17.567Z",
+  "lastCheckedAt": "2026-11-19T15:21:18.881Z",
   "seenPostIds": {
-    "7d060db6f68b2be3272c6d88cff9329bab03d544ecc71db6f227a9ad101e58e6": {
-      "seenAt": "2026-11-16T15:21:23.042Z",
-      "title": "김민석, AI 부정행위에 “응시제한 최대 10년 확대 검토” - 중앙일보",
-      "targetName": "김민석"
-    },
     "33d5ede6f81303ce30bdf84ec3976aec6926c32d5e8155153c9244f2392e94de": {
       "seenAt": "2026-11-16T15:31:21.728Z",
       "title": "조상호 \"한동훈·주진우, 예의주시하며 지켜보는 중\" #Shorts - OhmyNews",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-19T15:11:18.705Z",
       "title": "한동훈 의원, 조희대 대법원장 탄핵 추진에 강력 반발...\"사법부 마비·대한민국 후진국 전락\" 경고 - 뉴스투데이",
       "targetName": "한동훈"
+    },
+    "cc0a13f5c4f699e97d95edee3e582c677311f34109a1f530b3102cf236e75ee5": {
+      "seenAt": "2026-11-19T15:21:20.023Z",
+      "title": "Trump urges Congress to pass a new farm bill - Rock Hill Herald",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

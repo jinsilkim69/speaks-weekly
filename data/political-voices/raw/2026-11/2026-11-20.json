@@ -24,5 +24,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "cc0a13f5c4f699e97d95edee3e582c677311f34109a1f530b3102cf236e75ee5",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump urges Congress to pass a new farm bill - Rock Hill Herald",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQbFZnWFkxX3Fvc1FzZGVFa3FWQnhsZFdQcUJqY2swS3g0UTdTa0xWOUJlVHliaGJQQUZwaEoxRHUyaWMzZGpTTW1xYlR4UjdHdW5oSW0yVG9Vc2NZdmtQZjJVeHhkUGduTHVHcnYyREFGMmtxemRxOTk4VjJocENPc19kWQ?oc=5\" target=\"_blank\">Trump urges Congress to pass a new farm bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rock Hill Herald</font>",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbFZnWFkxX3Fvc1FzZGVFa3FWQnhsZFdQcUJqY2swS3g0UTdTa0xWOUJlVHliaGJQQUZwaEoxRHUyaWMzZGpTTW1xYlR4UjdHdW5oSW0yVG9Vc2NZdmtQZjJVeHhkUGduTHVHcnYyREFGMmtxemRxOTk4VjJocENPc19kWQ?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 15:11:06 GMT",
+    "source": "Rock Hill Herald",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump urges Congress to pass a new farm bill",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
