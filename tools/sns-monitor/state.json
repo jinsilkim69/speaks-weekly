@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T17:51:21.078Z",
+  "lastCheckedAt": "2026-11-19T18:04:04.145Z",
   "seenPostIds": {
-    "93e567b0300734240d6dd550f0fad2d72101551e5255a92f2b01d1849fa1586d": {
-      "seenAt": "2026-11-16T17:31:33.557Z",
-      "title": "Trump Rages That ‘60 Minutes’ Current Leadership Is ‘Even Worse Than Their Predecessors,’ Claims Newsmagazine’s Iran Whistleblower Report Lacked Context - Variety",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "27708a3a181a7f114e81b02605bd8237413b1bfe6825c598d74350fc3f5e94da": {
-      "seenAt": "2026-11-16T17:41:20.351Z",
-      "title": "Trump Media faces possible $1 billion debt repayment as stock nears record lows - Reuters",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "cb6563b7ed56ecc3439de2e37212e22813fde8a14c3c243e30e76860071805f1": {
-      "seenAt": "2026-11-16T17:51:19.335Z",
-      "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "e8eb61d2af2fff521feb1ba9147163db3fc3471372c3dd380de1edd13f7e8c0c": {
       "seenAt": "2026-11-16T18:41:21.216Z",
       "title": "Bill Maher, 70, Backs Trump’s D.C. Desecration After Public Humiliation - Yahoo",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-19T17:51:23.980Z",
       "title": "Trump Explodes in Weird All-Caps Rant From AF1 En Route Back from China - Yahoo",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a7438ebfb898be35b330df3c8512c76a5bde06d6ac2d13bc5572947da4ef8320": {
+      "seenAt": "2026-11-19T18:04:05.206Z",
+      "title": "혁신당, 일본 대사관에 조국 입국 거부 항의서한 전달…\"진상 밝혀야\" - 머니투데이 - 머니투데이",
+      "targetName": "조국"
     }
   },
   "pending": []
