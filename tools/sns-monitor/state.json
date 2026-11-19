@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-19T12:21:20.282Z",
       "title": "정청래, 한덕수 파기환송에 \"조희대 사법부 규탄…인정할 수 없다\" - 머니투데이 - 머니투데이",
       "targetName": "정청래"
+    },
+    "603f86ba572637d06e0693bc54d8df68f549c1821129ce7e615428a505a1ee33": {
+      "seenAt": "2026-11-19T12:31:17.956Z",
+      "title": "정청래 “최민희 징계 강력 반대”, 추미애 “김민석부터 엄중 판단” - 미주중앙일보",
+      "targetName": "정청래"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "603f86ba572637d06e0693bc54d8df68f549c1821129ce7e615428a505a1ee33",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래 “최민희 징계 강력 반대”, 추미애 “김민석부터 엄중 판단” - 미주중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Nay0yTnpzeEczbXdjUkRKWDJ5dzk0NVZlcFRFLW14UkJpMWdGQjNSSzhGWjNJNGZFcVJIXy1PbXc4NU93WGFsQTEyLTh3Qm5oTkstN18wWXR5cU9HZ0tyU1lB?oc=5\" target=\"_blank\">정청래 “최민희 징계 강력 반대”, 추미애 “김민석부터 엄중 판단”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미주중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Nay0yTnpzeEczbXdjUkRKWDJ5dzk0NVZlcFRFLW14UkJpMWdGQjNSSzhGWjNJNGZFcVJIXy1PbXc4NU93WGFsQTEyLTh3Qm5oTkstN18wWXR5cU9HZ0tyU1lB?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 20:22:00 GMT",
-        "source": "미주중앙일보",
-        "ageHours": 16
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

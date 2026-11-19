@@ -7580,3 +7580,16 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 “최민희 징계 강력 반대”, 추미애 “김민석부터 엄중 판단” - 미주중앙일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 “최민희 징계 강력 반대”, 추미애 “김민석부터 엄중 판단”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Nay0yTnpzeEczbXdjUkRKWDJ5dzk0NVZlcFRFLW14UkJpMWdGQjNSSzhGWjNJNGZFcVJIXy1PbXc4NU93WGFsQTEyLTh3Qm5oTkstN18wWXR5cU9HZ0tyU1lB?oc=5)
+
+---
+
