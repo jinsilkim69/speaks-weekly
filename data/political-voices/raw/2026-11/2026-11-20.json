@@ -352,5 +352,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "1ee1d2bf28b8ce7d285ecfe824df2a24cb531b613647c2c9415ff9e669a6b302",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump urges Congress to pass a new farm bill - San Luis Obispo Tribune",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEZKUGt0ZndmZkZUY21seHhNMDhjdi1TelJhMWZudmc3eWZYeDEtNDNmakNmYmQ1Wnh4T1R5ZlR1WXN3dlBzT3VaRVUtZjZQOXhJVWVCa0FfVTNmenY5Y2ZubEwtTWRmS0wzaFNoRUlXM3pKMUFfUEE0WEJrTTN3QVd3NU4?oc=5\" target=\"_blank\">Trump urges Congress to pass a new farm bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEZKUGt0ZndmZkZUY21seHhNMDhjdi1TelJhMWZudmc3eWZYeDEtNDNmakNmYmQ1Wnh4T1R5ZlR1WXN3dlBzT3VaRVUtZjZQOXhJVWVCa0FfVTNmenY5Y2ZubEwtTWRmS0wzaFNoRUlXM3pKMUFfUEE0WEJrTTN3QVd3NU4?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 14:11:08 GMT",
+    "source": "San Luis Obispo Tribune",
+    "ageHours": 5.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump urges Congress to pass a new farm bill",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
