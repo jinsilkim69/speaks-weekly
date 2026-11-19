@@ -6982,3 +6982,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 안철수, 한동훈 복당 반대 재확인…"실수·착오 먼저 인정해야" - 더퍼블릭
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 안철수, 한동훈 복당 반대 재확인…"실수·착오 먼저 인정해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTFBCRDhyc0ZkT0tsOGNBQl94RDBsTXdkRVh6d3hKc0lxNWU3VnlpVkdlcU53MldBZ2toWmhrckFOaDFIWUlwTmVNMFZibXNIbUQwWm5UZDJVQW8xa3E1dld1Q0ZZUzV5dWZSd19R?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 박정훈 "한동훈 복당 늦어도 1월 안에" "돌아오면 당 질서 바로 잡힐 것"ㅣ이현종의 뉴스쇼 [문화일보] #shorts - 문화일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박정훈 "한동훈 복당 늦어도 1월 안에" "돌아오면 당 질서 바로 잡힐 것"ㅣ이현종의 뉴스쇼  #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aS2hqaVdzU09OLXl3OWlOdGJBanQtMEtjVWRzV2lWRkZqcFVFQWhuNTVpcUR6YmltZjRqM3JMX2swcGE3Ylh2c3QzQkp4ZnBRdEZqbzVR?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 친청 당원 모임, 김민석 대표 향해 "'최민희 불공정 징계' 중단하라" - 뉴데일리
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 친청 당원 모임, 김민석 대표 향해 "'최민희 불공정 징계' 중단하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE81cGlKYjNRQzNBWnhkQ3dTMmQ4RmQzSlU2aDJvdXZCaEN1UmEzQTV1VUhubzEyemJqWXJWYTJVRDZkWGdhYm9zbTVJMTRWMVhoYXdNbUo0Z3pfV2U5NjlJVHBGeDZmNkhyeUlFYzBuRlNhN0lITUVrbDZtRQ?oc=5)
+
+---
+

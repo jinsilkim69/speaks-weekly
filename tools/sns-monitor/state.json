@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T07:21:17.379Z",
+  "lastCheckedAt": "2026-11-19T07:51:16.076Z",
   "seenPostIds": {
-    "e3814d48f9a5af9e000010a191ab9fb053213a569e53f0eb66eeac67f721fb80": {
-      "seenAt": "2026-11-16T04:31:19.752Z",
-      "title": "[현장영상+] \"수능 연기가 반드시 필요하다\" 천하람, 중국 가오카오 벤치마킹 언급 - 경인방송 뉴스",
-      "targetName": "천하람"
-    },
-    "d6fb09bb924817925363f1dec2575bb076547b67f4a1f7f9a8d6fe96d7905962": {
-      "seenAt": "2026-11-16T04:51:20.108Z",
-      "title": "최민희 \"李 대통령에 누 끼쳐\" 김민석 \"모든 절차 당헌·당규 따를 것\" [뉴시스Pic] - 뉴시스",
-      "targetName": "김민석"
-    },
     "5124f333a3c88f7689fe3db8b6f30c5996cd227d3b73c05b4685e38770c3e9e5": {
       "seenAt": "2026-11-16T04:51:21.074Z",
       "title": "조국혁신당 \"민주유공자법 19일 반드시 처리\"…조희대 탄핵도 촉구 - KBC광주방송",
@@ -2510,7 +2500,39 @@
       "seenAt": "2026-11-19T07:21:19.084Z",
       "title": "정성호 “최민희 징계 불가피…김민석·정청래 연락 안 되면 내가 중재” - 경기일보",
       "targetName": "김민석"
+    },
+    "43fe248a92c43af43fc2812a6c33fb3968ff72050dce6697cbc30123ef38b897": {
+      "seenAt": "2026-11-19T07:51:17.214Z",
+      "title": "안철수, 한동훈 복당 반대 재확인…\"실수·착오 먼저 인정해야\" - 더퍼블릭",
+      "targetName": "한동훈"
+    },
+    "62553e5702430d9478af4926af3648fc9ee76e9e59658d4b042c8577a8932ac2": {
+      "seenAt": "2026-11-19T07:51:17.852Z",
+      "title": "박정훈 \"한동훈 복당 늦어도 1월 안에\" \"돌아오면 당 질서 바로 잡힐 것\"ㅣ이현종의 뉴스쇼 [문화일보] #shorts - 문화일보",
+      "targetName": "한동훈"
+    },
+    "23fb2e64a8c5085a0c8c2b3a2ca60216f849cf78ac896fd9a7925e8da7e0d0ea": {
+      "seenAt": "2026-11-19T07:51:18.511Z",
+      "title": "친청 당원 모임, 김민석 대표 향해 \"'최민희 불공정 징계' 중단하라\" - 뉴데일리",
+      "targetName": "김민석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "1763e8eef20d329d5f704aa4da3148e1cc299dee01d42ef1881501d0aa013067",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "외교부, 日조국 입국 거부에 “전과 때문…독도 방문 관련 없어” - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zMUdQOXBmTzNUX2QzMUJFaHJrSFA4ZnZhb3VNZV9KeTRIdkJ3aENXaUZxdHplbVRKcHlUb1NubVJtNk55ME5HcENqSmhYLWtkSmcxa3RR?oc=5\" target=\"_blank\">외교부, 日조국 입국 거부에 “전과 때문…독도 방문 관련 없어”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zMUdQOXBmTzNUX2QzMUJFaHJrSFA4ZnZhb3VNZV9KeTRIdkJ3aENXaUZxdHplbVRKcHlUb1NubVJtNk55ME5HcENqSmhYLWtkSmcxa3RR?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 15:40:32 GMT",
+        "source": "중앙일보",
+        "ageHours": 16.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
