@@ -6436,3 +6436,29 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "법 기술자들 정계 떠나야…AI로 입법 생산성 경쟁을" - 동행미디어 시대
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "법 기술자들 정계 떠나야…AI로 입법 생산성 경쟁을"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aOWF1cU9zdU1tUHBrRUZsNlJCdWZfb3IxblJBQXBBeFFoRHhwWUlNNktwY3IwQng4VTdCVzYzbXdwWHM3cldHR294bFRfekQtWVpqV1RtVXB3YXQtWHhpQzZB?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Fact or Fiction: Trump warns of food, banking and internet disruptions? - 10News.com
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Fact or Fiction: Trump warns of food, banking and internet disruptions?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTFRuNFpOZS1mVUFTeEVVTjluYmhUUTFmUkdQZm42TktQcnhSY0NVZkJBSkpQQnFXcE9zZUFKbXpNWWdfend0a3NCRklDalB2Wm9TUDRVNWpsclBEclhMa0poTTdacWFScDRyQ0hRMEk3Z29aVko4MjBqUUZCaFplZ2ZkVm1pS1RvVzhpazJBeWRPTDJILUZlRllmRmtDTUxCZlZXWkJNNHh0ellJOFN4a0V3?oc=5)
+
+---
+

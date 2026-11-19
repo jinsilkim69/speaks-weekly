@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T02:01:15.854Z",
+  "lastCheckedAt": "2026-11-19T02:11:22.298Z",
   "seenPostIds": {
-    "af656a2c77153fa254c0aa3b0cc3d42823cba3402981a0610458376e4d7b546b": {
-      "seenAt": "2026-11-15T22:31:17.715Z",
-      "title": "친명 김남희 \"최민희 묵과 못해, 엄중 조치\" vs 친청 한민수 \"김민석도 같은 잣대를\" - 뉴스1",
-      "targetName": "김민석"
-    },
-    "07f7b15734b6136c39b30697b2ec11eeb78fa3eeb97d8960e0121d8f08a51287": {
-      "seenAt": "2026-11-15T22:51:15.053Z",
-      "title": "Trump makes millions with unconstitutional Truth Social scheme - Freedom of the Press Foundation",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "e14b55c9a344de466f8912826251557a03f659c9f5bd0a7b51dd7a09e0f70923": {
       "seenAt": "2026-11-15T23:11:21.064Z",
       "title": "이재명 대통령의 이주노동자 발언, 꼼꼼히 따져보니 - 시사IN",
@@ -2510,6 +2500,16 @@
       "seenAt": "2026-11-19T02:01:17.524Z",
       "title": "김민석 비판하며 막말한 부산시의원, 당원권 1년 정지 : 정치 - 재경일보",
       "targetName": "김민석"
+    },
+    "4d9eecea7a90212d38a5c630e901281f09eba5bf0692047f049b834061a8192d": {
+      "seenAt": "2026-11-19T02:11:23.719Z",
+      "title": "이준석 \"법 기술자들 정계 떠나야…AI로 입법 생산성 경쟁을\" - 동행미디어 시대",
+      "targetName": "이준석"
+    },
+    "1ae238ba838364a855432234fe3c61246680d6fe1bf0680f7979e04aeb0316f6": {
+      "seenAt": "2026-11-19T02:11:24.482Z",
+      "title": "Fact or Fiction: Trump warns of food, banking and internet disruptions? - 10News.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
