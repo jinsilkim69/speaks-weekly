@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T14:21:18.306Z",
+  "lastCheckedAt": "2026-11-19T14:31:17.925Z",
   "seenPostIds": {
-    "11ed481eea662e7165bcb26752db33da291149417384b115446dfee13914f7be": {
-      "seenAt": "2026-11-16T14:31:43.412Z",
-      "title": "김민석 흔들려도 ‘우원식 비대위’는 어려운 3가지 이유 - 에너지경제신문",
-      "targetName": "김민석"
-    },
-    "5bf1748d6ce62616ee122f0be22360d7f9212c8f5a900b52c73cee8e13bfa5de": {
-      "seenAt": "2026-11-16T14:51:20.322Z",
-      "title": "\"윤석열재판과 이재명 대통령 재판은 차원이 달라!!!\" 노영희X강수영의 분노 (261116 월요일 클립) 강수영 노영희 - 경향신문",
-      "targetName": "이재명"
-    },
     "aab19ba350bbcfbb3888535a063dcb6d811ad4cdc02b0f82bfa5b255e9f2ca76": {
       "seenAt": "2026-11-16T15:21:22.092Z",
       "title": "Trump Rages At '60 Minutes' Report On Iran Attacks At Start Of War - Deadline",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-19T14:21:20.426Z",
       "title": "한여넷, 일본 입국 거부 조국 원장 태도 '지록위마'에 빗대 비판 - 데일리중앙",
       "targetName": "조국"
+    },
+    "f6ae4f335c71de6317be2d8b86ce1e7c047683f91325f05153108d7707caaf9f": {
+      "seenAt": "2026-11-19T14:31:19.244Z",
+      "title": "[단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란 - 시사타파NEWS",
+      "targetName": "송영길"
     }
   },
   "pending": []
