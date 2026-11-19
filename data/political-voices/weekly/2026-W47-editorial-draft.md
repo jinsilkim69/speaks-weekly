@@ -6748,3 +6748,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 조갑제 "추경호 무죄는 한동훈 결단 덕분…은혜를 원수로 갚지 말라" - www.hidomin.com
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조갑제 "추경호 무죄는 한동훈 결단 덕분…은혜를 원수로 갚지 말라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9kRG9IM2E1blpqUDlIX1Q0dXZvenlNYW9IMl9val9VU0tacHlBNnRRLWlwdjdXcmhEVDhQRWdIQjlpYzRYMTBaZmh0enFkWVp2Z1Y1WE9ld3pUbVMxOFVhMUxNdjBFLXJGZWc?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "최민희 징계 강력 반대"…이첩 지시에 의혹 제기 - 뉴스피릿
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 징계 강력 반대"…이첩 지시에 의혹 제기
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1lRFBZVEpYekxCTjhhbEZuRjVYYTVsaU1UVzdrRTY0ZGFOUXdUdzNjMDB3anVHSlBYT3BlUXhTVzJmRWxfalJzUnNpMEZDTWZSaGJhZXplejhSZHk2ei1NeUV4MEhmT1FoLXlR?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 우원식, 정청래 양비론 지적에 "갈등 확장돼선 안 돼" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 우원식, 정청래 양비론 지적에 "갈등 확장돼선 안 돼"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE5hdFl0MjZRZDBfcDFEMWJKUXRxSDVkemplX1JkUm9CM1dndGl0WHVSdlFFREl0NWpoVzNLRnlmWVdLUkMtbHJHbFhMcnI5cGZWS0RGdk0zVTh0aXBBdFBlOWJENC01REVZbXJKNFZ2VjFmQdIBckFVX3lxTE5hdFl0MjZRZDBfcDFEMWJKUXRxSDVkemplX1JkUm9CM1dndGl0WHVSdlFFREl0NWpoVzNLRnlmWVdLUkMtbHJHbFhMcnI5cGZWS0RGdk0zVTh0aXBBdFBlOWJENC01REVZbXJKNFZ2VjFmQQ?oc=5)
+
+---
+
