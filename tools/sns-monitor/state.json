@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-19T03:31:16.511Z",
+  "lastCheckedAt": "2026-11-19T03:41:16.549Z",
   "seenPostIds": {
     "913fb8a1dfac4f330e8cbea014e397d90268ccfded8dca0194105ef85645685b": {
       "seenAt": "2026-11-16T00:21:18.436Z",
@@ -2500,7 +2500,55 @@
       "seenAt": "2026-11-19T03:21:21.172Z",
       "title": "정청래 \"최민희 징계 강력 반대\"…김민석 향해 '신천지 의혹 책임론·녹취록 시기 조절설' 정면 제기 - 프리진뉴스",
       "targetName": "정청래"
+    },
+    "a90c724d1ed884d009ac66dabea21cd9cfaf65773792dd48ddadbaa2bd7f3738": {
+      "seenAt": "2026-11-19T03:41:17.592Z",
+      "title": "김혜경 여사 소탈한 모습 중국에서 화제…이재명 대통령 따라 ‘국회 담장 인증샷’도 인기 - 경향신문",
+      "targetName": "이재명"
+    },
+    "2c46f7730792a3991e89de1eee46dff861952574aaafcb779d2f877261af9732": {
+      "seenAt": "2026-11-19T03:41:18.201Z",
+      "title": "오세훈 “머슴 자처한 이재명, 7개 특검에 혈세 1100억 쌈짓돈처럼 써… 책임져야” - 천지일보",
+      "targetName": "이재명"
+    },
+    "55618993ef15be33a9a07a4ff5aa32203465fd7fb4f84309c0d6c17aaa0a5971": {
+      "seenAt": "2026-11-19T03:41:18.815Z",
+      "title": "조갑제 \"추경호 무죄, 용감한 한동훈 덕분…그 은혜를 원수로 갚아선 안 돼\" - 매일신문",
+      "targetName": "한동훈"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "aa6f24fb23785ed161d89d2919188813f86ee316d3624dfd1503d913caf0ae13",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "[손병관의 뉴스프레소] 정청래 \"최민희 징계 반대\"... 김민석 겨냥 \"타이밍 조절했나\" - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWd4NXVBVk5PZldIcHdCYUJNTGs5c05rLThTUjlRYXo3QlJreU5JZnVTUEFaWjdCbjVfa2JoZWdMNFBhckpEYTc0OUl5R21jLXcweGZIZFUyb0hOOUlGWWxOa0xlQUJzUm1INDQwNnB1RjZweVJXb3JWWk1iTWZ6RE1yd0ZLVFRiaXc?oc=5\" target=\"_blank\">[손병관의 뉴스프레소] 정청래 \"최민희 징계 반대\"... 김민석 겨냥 \"타이밍 조절했나\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWd4NXVBVk5PZldIcHdCYUJNTGs5c05rLThTUjlRYXo3QlJreU5JZnVTUEFaWjdCbjVfa2JoZWdMNFBhckpEYTc0OUl5R21jLXcweGZIZFUyb0hOOUlGWWxOa0xlQUJzUm1INDQwNnB1RjZweVJXb3JWWk1iTWZ6RE1yd0ZLVFRiaXc?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 22:15:00 GMT",
+        "source": "OhmyNews",
+        "ageHours": 5.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b0fc49f7d84a71e1225b7aa5c2e33b2a570a3aea45bad0c4d25514af600017b6",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "정청래 \"최민희 징계 강력 반대\"…김민석 향해 '신천지 의혹 책임론·녹취록 시기 조절설' 정면 제기 - 프리진뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1neS1aRDRzSHdOSk5CNHhIeTk3S2JGaWVFRTFvR2VOaVcwanVTN0loX1VvTnVWbndveU15c2hOX1EwTkFHT0FtYUdNMHJMSFlDSmo4ZnVWNy1pUExNTGo5MTRpX0w1cEFqYW1yOTc5NA?oc=5\" target=\"_blank\">정청래 \"최민희 징계 강력 반대\"…김민석 향해 '신천지 의혹 책임론·녹취록 시기 조절설' 정면 제기</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프리진뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1neS1aRDRzSHdOSk5CNHhIeTk3S2JGaWVFRTFvR2VOaVcwanVTN0loX1VvTnVWbndveU15c2hOX1EwTkFHT0FtYUdNMHJMSFlDSmo4ZnVWNy1pUExNTGo5MTRpX0w1cEFqYW1yOTc5NA?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 03:10:42 GMT",
+        "source": "프리진뉴스",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
