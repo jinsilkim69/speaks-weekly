@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-19T05:51:19.241Z",
       "title": "우원식, 정청래 양비론 지적에 \"갈등 확장돼선 안 돼\" - 머니투데이 - 머니투데이",
       "targetName": "정청래"
+    },
+    "e31b314b503f0aaef15d0897affb1b82d1c0b51cc1cd74cf27241355c13a7887": {
+      "seenAt": "2026-11-19T06:01:16.104Z",
+      "title": "\"당원·국민과 함께 독도를 재방문하겠다\"...조국, 지난 18일 공식 발표 - 뉴스21 통신",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "e31b314b503f0aaef15d0897affb1b82d1c0b51cc1cd74cf27241355c13a7887",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "\"당원·국민과 함께 독도를 재방문하겠다\"...조국, 지난 18일 공식 발표 - 뉴스21 통신",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYaDExZmlucmNoVnFHTVZfc0pibTFEYzBkMFNiTlhxbGJ2Zjh0QWZMdEg2VjdvbENBZ0IzNGt5MTBlMWtRZkxtTzk5N2dKWFl1Nm9KUTln?oc=5\" target=\"_blank\">\"당원·국민과 함께 독도를 재방문하겠다\"...조국, 지난 18일 공식 발표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스21 통신</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYaDExZmlucmNoVnFHTVZfc0pibTFEYzBkMFNiTlhxbGJ2Zjh0QWZMdEg2VjdvbENBZ0IzNGt5MTBlMWtRZkxtTzk5N2dKWFl1Nm9KUTln?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 05:45:14 GMT",
-        "source": "뉴스21 통신",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
