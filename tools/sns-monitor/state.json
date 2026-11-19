@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T14:01:20.482Z",
+  "lastCheckedAt": "2026-11-19T14:11:26.895Z",
   "seenPostIds": {
-    "500c8bc73ad34f4cd306ea0d6abdcaaf71b927f2f548e5988911338d0584c823": {
-      "seenAt": "2026-11-16T14:01:19.475Z",
-      "title": "오세훈·한동훈 없는 국힘 당권 경쟁…‘틈새 공략’ 노리는 중진들 - 경향신문",
-      "targetName": "한동훈"
-    },
     "f61c1fc6dff261a6e94a9f3afdec51854fe4721ce259c3e5b2f39d86064b7409": {
       "seenAt": "2026-11-16T14:21:23.640Z",
       "title": "여야, 계파 갈등에 내홍 격화…김민석·장동혁 리더십 시험대 - 인디포커스",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-19T14:01:21.746Z",
       "title": "김민석, 한덕수 파기환송에 \"용납 안돼\"…與강경파 \"曺 즉시탄핵\"(종합) - 연합뉴스",
       "targetName": "김민석"
+    },
+    "0ca4fdfb448c7abe14312e08fd6d44a1057d547d8ce6f13366f4dbf2d0eee4e9": {
+      "seenAt": "2026-11-19T14:11:28.615Z",
+      "title": "Trump upset 'biggest drop in gasoline in 18 years' came after election - USA Today",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
