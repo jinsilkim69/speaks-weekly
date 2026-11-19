@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-19T02:31:19.196Z",
+  "lastCheckedAt": "2026-11-19T02:51:22.169Z",
   "seenPostIds": {
     "e9a552253868315d2d77d9744fc671983cf759a90a6bbe6af9e50691a858ae32": {
       "seenAt": "2026-11-15T23:31:17.211Z",
@@ -2500,6 +2500,16 @@
       "seenAt": "2026-11-19T02:11:24.482Z",
       "title": "Fact or Fiction: Trump warns of food, banking and internet disruptions? - 10News.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "026056a93e34fbfcd92ef33a72fe9354e899b0b72d4a298e22b682cf6ee7d3a4": {
+      "seenAt": "2026-11-19T02:51:23.750Z",
+      "title": "이재명 대통령, ‘조작기소 특검법’ 재가… 공포 즉시 시행 - 법률신문",
+      "targetName": "이재명"
+    },
+    "9a456f5e470dc8c4eeb89700883e879e439521161c9e6c93234ec9187159a9f5": {
+      "seenAt": "2026-11-19T02:51:24.463Z",
+      "title": "장동혁 \"이재명 대통령 재판 재개해야\" 촉구 - 매일일보",
+      "targetName": "이재명"
     }
   },
   "pending": []

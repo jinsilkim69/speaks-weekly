@@ -6462,3 +6462,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, ‘조작기소 특검법’ 재가… 공포 즉시 시행 - 법률신문
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, ‘조작기소 특검법’ 재가… 공포 즉시 시행
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NLTNKT1pDeW8yUXR6RTk5MjJSdlROVEhqNkRnMzM5bzVYeDF0VE13WGFSZGlpTHZ3YkxSVVZDcVNPNTk5c3I2NmdOQ2pWVVp2WmRlYV9mVDdjY1hoMU5ITWZGM2FFRG1raVJ2czRn0gFyQVVfeXFMT25pV1Fma2ZFdWRjT0RvRzhXYVNjaXplb3BvQXBtWGE4YVA1VmNmX3JuU3E3M3QtSElHdTlKTENrUGl5RVRiY0JFVHVfRzFkWjVxbjRSd3c0aWhkVTc3RVYzLV9zdWNSb2RKZko2RTNMUGJ3?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 장동혁 "이재명 대통령 재판 재개해야" 촉구 - 매일일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 "이재명 대통령 재판 재개해야" 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IaXBNNl80Qkp2RFBDa09YZ3N5QmZhVDgtMjNiQTAtajhMdFZKbnNaLUt5eHRIVlEyN3JVWVExaVJITGJLLVN0V1dFY3JaMG81dDFWM1JOcW80ZEJWR0FIRHNwYkk?oc=5)
+
+---
+
