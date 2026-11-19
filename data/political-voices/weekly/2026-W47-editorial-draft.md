@@ -6566,3 +6566,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [손병관의 뉴스프레소] 정청래 "최민희 징계 반대"... 김민석 겨냥 "타이밍 조절했나" - OhmyNews
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 징계 반대"... 김민석 겨냥 "타이밍 조절했나"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWd4NXVBVk5PZldIcHdCYUJNTGs5c05rLThTUjlRYXo3QlJreU5JZnVTUEFaWjdCbjVfa2JoZWdMNFBhckpEYTc0OUl5R21jLXcweGZIZFUyb0hOOUlGWWxOa0xlQUJzUm1INDQwNnB1RjZweVJXb3JWWk1iTWZ6RE1yd0ZLVFRiaXc?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래 "최민희 징계 강력 반대"…김민석 향해 '신천지 의혹 책임론·녹취록 시기 조절설' 정면 제기 - 프리진뉴스
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "최민희 징계 강력 반대"…김민석 향해 '신천지 의혹 책임론·녹취록 시기 조절설' 정면 제기
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1neS1aRDRzSHdOSk5CNHhIeTk3S2JGaWVFRTFvR2VOaVcwanVTN0loX1VvTnVWbndveU15c2hOX1EwTkFHT0FtYUdNMHJMSFlDSmo4ZnVWNy1pUExNTGo5MTRpX0w1cEFqYW1yOTc5NA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 전용기 "조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 전용기 "조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFA2VlF2allQVEJIbktKa2Q2NnRjeGFUa3RjOEhoZ3NmNUVBQmduamNRc0ViT2tvOHo0YVYtbFlMQS14TGdrYUVZNjQ3cFZlZ205T0VERnNOTzNheHNZT0JzamMzRThYMWE2UEl6SNIBckFVX3lxTE13TlJfcGxCSVQwS3N2bDR3VlBQWE9pU29JcUppWDVLdUsycGluYURXUlkwQjRzSmNWZ1hXZm1jWTNrVXdWUEdzb0FxZVM4MnlhN05teWFvd20xeFlQTWlXZHd2TjVxZWloREM1YW1CQTB5Zw?oc=5)
+
+---
+
