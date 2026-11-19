@@ -6618,3 +6618,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 김혜경 여사 소탈한 모습 중국에서 화제…이재명 대통령 따라 ‘국회 담장 인증샷’도 인기 - 경향신문
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김혜경 여사 소탈한 모습 중국에서 화제…이재명 대통령 따라 ‘국회 담장 인증샷’도 인기
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiX0FVX3lxTE91WWVxVU0xMVktVlJkUjJRRHhNS1Jya3J4enBYZkNfcFJMN1p1UjRlb0M0NlNoMzlsM2R3TzdxQkdYVmgwZUtHVldtd0thYTh6VjJPT2hrSEszczFJdmp30gFfQVVfeXFMT3VZZXFVTTExWS1WUmRSMlFEeE1LUnJrcnh6cFhmQ19wUkw3WnVSNGVvQzQ2U2gzOWwzZHdPN3FCR1hWaDBlS0dWV213S2FhOHpWMk9PaGtISzNzMUl2anc?oc=5)
+
+---
+
