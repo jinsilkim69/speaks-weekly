@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T23:21:15.986Z",
+  "lastCheckedAt": "2026-11-19T23:51:17.869Z",
   "seenPostIds": {
-    "63ddc27a6c1053ffe4761abe1850c60eb7a6f6fcdc840eb361a8df413d7a7f74": {
-      "seenAt": "2026-11-17T04:11:23.581Z",
-      "title": "송영길 \"김민석·정청래, 대타협해야…집안싸움 할 때 아냐\" - 머니투데이 - 머니투데이",
-      "targetName": "송영길"
-    },
-    "eacbfa0fc885b696fb9aff44bb3ebd16dd93521ea435c1156724461f25a59e9d": {
-      "seenAt": "2026-11-17T04:11:24.352Z",
-      "title": "송영길 \"金·鄭 만나 대타협 해야‥대통령도 당내 문제 걱정\" - MBC 뉴스",
-      "targetName": "송영길"
-    },
-    "ecc29e65b951f8e0a26503fc85423c7ca48637c59dc61b702f1add68ccb861dd": {
-      "seenAt": "2026-11-17T04:21:19.672Z",
-      "title": "與송영길 \"김민석·정청래 만나 대타협해야…포용해서 함께 가야\" - 조선일보",
-      "targetName": "송영길"
-    },
     "4712a3b209d2d31d5f64d702e66e94b527b1e128f406077f29a514c516050b35": {
       "seenAt": "2026-11-17T04:21:20.426Z",
       "title": "송영길 “북미도 만나는데... 김민석·정청래 만나서 대타협 해야” - 이데일리",
@@ -2515,7 +2500,39 @@
       "seenAt": "2026-11-19T23:21:18.214Z",
       "title": "President Trump pardons disgraced MLB star Pete Rose, who died in 2024 - The Washington Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "551ec5f58f71cf910acdc6047d4699745d907f403359368f5c8f7df717086694": {
+      "seenAt": "2026-11-19T23:51:19.180Z",
+      "title": "김민석, 한덕수 파기환송에 \"용납 안돼\"…與강경파 \"曺 즉시탄핵\"(종합) - 연합뉴스",
+      "targetName": "김민석"
+    },
+    "216b5fca842e233695e90d36b8c5b948079aef49f81da6ca387aa4eee31d5b3f": {
+      "seenAt": "2026-11-19T23:51:19.895Z",
+      "title": "이준석 \"조희대 탄핵하는 순간 서울고법은 李 파기환송심 진행해야\" - 인사이트",
+      "targetName": "이준석"
+    },
+    "2b9fe8b744f8241efd514146abde1ea5be2b82cd9e4d0a3312073189de37fd8f": {
+      "seenAt": "2026-11-19T23:51:20.599Z",
+      "title": "Trump gives posthumous pardon to Pete Rose, all-time MLB hits leader - NBC News",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "6c90137e45370b879fce4ecc9a84edc4c3a85a3213980156b0a7cad2106c702b",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump grants posthumous pardon to MLB hit king Pete Rose - New York Post",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkhjSzQwRnpZcE1TMjRia0ctRUtGXzlrd3ZIN0x0ellFVVVQLXU3RkRFNnBZdEFkNmp1ZkkyZkgwLUhMd09CalZoNGpzMG9sRUU4MUdwWEVOOG1pZmZrc1U4cDdIWXVlV1ptQzZITFNiRDI0a1kxZXQxR00wMU9mLUZUbTZlM1ZMd3RJUXVBUDkxYjhYR28xNXFJb3BSV2tXUWc?oc=5\" target=\"_blank\">Trump grants posthumous pardon to MLB hit king Pete Rose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkhjSzQwRnpZcE1TMjRia0ctRUtGXzlrd3ZIN0x0ellFVVVQLXU3RkRFNnBZdEFkNmp1ZkkyZkgwLUhMd09CalZoNGpzMG9sRUU4MUdwWEVOOG1pZmZrc1U4cDdIWXVlV1ptQzZITFNiRDI0a1kxZXQxR00wMU9mLUZUbTZlM1ZMd3RJUXVBUDkxYjhYR28xNXFJb3BSV2tXUWc?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 22:52:30 GMT",
+        "source": "New York Post",
+        "ageHours": 1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

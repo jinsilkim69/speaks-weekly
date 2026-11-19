@@ -8204,3 +8204,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 한덕수 파기환송에 "용납 안돼"…與강경파 "曺 즉시탄핵"(종합) - 연합뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 한덕수 파기환송에 "용납 안돼"…與강경파 "曺 즉시탄핵"(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OR3N0a012d2tmLXNlTDdwSUh3VnZzVlNrcUNudzJhRjFsYS1yM1N1NTBoU2RtN3pPcDRRY0hpZ2N6ZWxhMFBrcDB3bzhYNVFzWWRGOWNXSGNYWkXSAWBBVV95cUxOUDdWczFrcFp0SFc1cHBUMV9sN3p0dE5oN2FoamE3eVFpTFFkWjNNOXJ2V2V1akY5N2JpN3hkbUhUWERMMTg2REE4bEU2M19NQUxfUnZxeHNuWVdOTTRwV20?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "조희대 탄핵하는 순간 서울고법은 李 파기환송심 진행해야" - 인사이트
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "조희대 탄핵하는 순간 서울고법은 李 파기환송심 진행해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuQzlja3RBcFN0NDIxeU5xSldPZmRXeFZaOXJkYzFxQ1pkNFNKUWJCOXlwT200LWhva3pJaDBHRzhyRkszZVRsQVE3U014QQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump gives posthumous pardon to Pete Rose, all-time MLB hits leader - NBC News
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump gives posthumous pardon to Pete Rose, all-time MLB hits leader
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmVZdzhkaDdzUXg2ZDdUVG5zV3c2VzFDTDNUc3NfMTBfbEtPeXUyVlktcF95SkZBcWVjRWMwcXB6bXZsR2t4RmVyamFya0tUTzVSRTZMVmhQdFhDcDVqLVBKR0FQT2xTYlFCU0NBbDJmUUNVbTRkUlVDVHh5WWJ6REQweDNwcFZJZVRmeUY5SVFENk1ad3J3cW15Xzl0a0VvZGlnaERoUDhNeG1mSjdoQ3NTYlo2ZjYzU3dZ?oc=5)
+
+---
+

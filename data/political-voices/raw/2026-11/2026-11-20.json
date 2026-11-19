@@ -933,5 +933,82 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "551ec5f58f71cf910acdc6047d4699745d907f403359368f5c8f7df717086694",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, 한덕수 파기환송에 \"용납 안돼\"…與강경파 \"曺 즉시탄핵\"(종합) - 연합뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OR3N0a012d2tmLXNlTDdwSUh3VnZzVlNrcUNudzJhRjFsYS1yM1N1NTBoU2RtN3pPcDRRY0hpZ2N6ZWxhMFBrcDB3bzhYNVFzWWRGOWNXSGNYWkXSAWBBVV95cUxOUDdWczFrcFp0SFc1cHBUMV9sN3p0dE5oN2FoamE3eVFpTFFkWjNNOXJ2V2V1akY5N2JpN3hkbUhUWERMMTg2REE4bEU2M19NQUxfUnZxeHNuWVdOTTRwV20?oc=5\" target=\"_blank\">김민석, 한덕수 파기환송에 \"용납 안돼\"…與강경파 \"曺 즉시탄핵\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OR3N0a012d2tmLXNlTDdwSUh3VnZzVlNrcUNudzJhRjFsYS1yM1N1NTBoU2RtN3pPcDRRY0hpZ2N6ZWxhMFBrcDB3bzhYNVFzWWRGOWNXSGNYWkXSAWBBVV95cUxOUDdWczFrcFp0SFc1cHBUMV9sN3p0dE5oN2FoamE3eVFpTFFkWjNNOXJ2V2V1akY5N2JpN3hkbUhUWERMMTg2REE4bEU2M19NQUxfUnZxeHNuWVdOTTRwV20?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 09:33:56 GMT",
+    "source": "연합뉴스",
+    "ageHours": 14.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 한덕수 파기환송에 \"용납 안돼\"…與강경파 \"曺 즉시탄핵\"(종합)",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "216b5fca842e233695e90d36b8c5b948079aef49f81da6ca387aa4eee31d5b3f",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석 \"조희대 탄핵하는 순간 서울고법은 李 파기환송심 진행해야\" - 인사이트",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuQzlja3RBcFN0NDIxeU5xSldPZmRXeFZaOXJkYzFxQ1pkNFNKUWJCOXlwT200LWhva3pJaDBHRzhyRkszZVRsQVE3U014QQ?oc=5\" target=\"_blank\">이준석 \"조희대 탄핵하는 순간 서울고법은 李 파기환송심 진행해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인사이트</font>",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuQzlja3RBcFN0NDIxeU5xSldPZmRXeFZaOXJkYzFxQ1pkNFNKUWJCOXlwT200LWhva3pJaDBHRzhyRkszZVRsQVE3U014QQ?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 23:21:49 GMT",
+    "source": "인사이트",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석 \"조희대 탄핵하는 순간 서울고법은 李 파기환송심 진행해야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "2b9fe8b744f8241efd514146abde1ea5be2b82cd9e4d0a3312073189de37fd8f",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump gives posthumous pardon to Pete Rose, all-time MLB hits leader - NBC News",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmVZdzhkaDdzUXg2ZDdUVG5zV3c2VzFDTDNUc3NfMTBfbEtPeXUyVlktcF95SkZBcWVjRWMwcXB6bXZsR2t4RmVyamFya0tUTzVSRTZMVmhQdFhDcDVqLVBKR0FQT2xTYlFCU0NBbDJmUUNVbTRkUlVDVHh5WWJ6REQweDNwcFZJZVRmeUY5SVFENk1ad3J3cW15Xzl0a0VvZGlnaERoUDhNeG1mSjdoQ3NTYlo2ZjYzU3dZ?oc=5\" target=\"_blank\">Trump gives posthumous pardon to Pete Rose, all-time MLB hits leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmVZdzhkaDdzUXg2ZDdUVG5zV3c2VzFDTDNUc3NfMTBfbEtPeXUyVlktcF95SkZBcWVjRWMwcXB6bXZsR2t4RmVyamFya0tUTzVSRTZMVmhQdFhDcDVqLVBKR0FQT2xTYlFCU0NBbDJmUUNVbTRkUlVDVHh5WWJ6REQweDNwcFZJZVRmeUY5SVFENk1ad3J3cW15Xzl0a0VvZGlnaERoUDhNeG1mSjdoQ3NTYlo2ZjYzU3dZ?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 22:55:53 GMT",
+    "source": "NBC News",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump gives posthumous pardon to Pete Rose, all-time MLB hits leader",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
