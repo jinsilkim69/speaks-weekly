@@ -3148,5 +3148,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "df967705f9579476c70ef7ca6e12542d96adb6eb08174dcc6c21704da542dfef",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, 한덕수 파기환송에 \"기회주의자들 위한 변명\" - OhmyNews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQblViWm83YkE3bzVqdGpOUC1UQkxBYWNnSV9MR0g4TnFpbmJJc2E2VUxScFppcUNvci1PWFhOYW1Mc2QyLTFRLVlBUWlWVEhGcWQxVTNlSjBGWHJOaDRSYmgwcWsyMG13QlNzUmx1VkJsWHJpMmdoVXJzd3RrcEwxRXRLWjlQWWluY3FvQU1GYzlOOVg1blp6R0xnd3M?oc=5\" target=\"_blank\">김민석, 한덕수 파기환송에 \"기회주의자들 위한 변명\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQblViWm83YkE3bzVqdGpOUC1UQkxBYWNnSV9MR0g4TnFpbmJJc2E2VUxScFppcUNvci1PWFhOYW1Mc2QyLTFRLVlBUWlWVEhGcWQxVTNlSjBGWHJOaDRSYmgwcWsyMG13QlNzUmx1VkJsWHJpMmdoVXJzd3RrcEwxRXRLWjlQWWluY3FvQU1GYzlOOVg1blp6R0xnd3M?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 09:15:00 GMT",
+    "source": "OhmyNews",
+    "ageHours": 1.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 한덕수 파기환송에 \"기회주의자들 위한 변명\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "52d7d22dd24ce10e9bd4a08960ac1143c4a4f2cfbfbf304141be06b28e982f0f",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "외교부 “조국 日입국 거부는 독도 아닌 전과이력 때문” - 동아일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBBNjZBWVZPdmFqdjB6SnVhQ1B0cFRkQzA1ZWxfbUFYcFNDSmN3cGxpRll0Z05uaEg0djNYUzZIekVBdXlFWVNHTXpzd0MxSmZ1NndpRDJ6aFI5R3BjenB3aEJ0SnZvX0VBVlB5dmlhbEdmcE5seEo00gFmQVVfeXFMT0owdGFBMG91bTR6N1dIUzhyNkZ1YzdhNVU5RnhabFAxMkVXeTZ3MFl2TjZiY2FtcjJrQ1BIeFl6RTdIeTZlV1lKNUFnUlo2SUtmcmNPX3BFU182S3RsaHk2aW5kV1FR?oc=5\" target=\"_blank\">외교부 “조국 日입국 거부는 독도 아닌 전과이력 때문”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBNjZBWVZPdmFqdjB6SnVhQ1B0cFRkQzA1ZWxfbUFYcFNDSmN3cGxpRll0Z05uaEg0djNYUzZIekVBdXlFWVNHTXpzd0MxSmZ1NndpRDJ6aFI5R3BjenB3aEJ0SnZvX0VBVlB5dmlhbEdmcE5seEo00gFmQVVfeXFMT0owdGFBMG91bTR6N1dIUzhyNkZ1YzdhNVU5RnhabFAxMkVXeTZ3MFl2TjZiY2FtcjJrQ1BIeFl6RTdIeTZlV1lKNUFnUlo2SUtmcmNPX3BFU182S3RsaHk2aW5kV1FR?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 00:36:46 GMT",
+    "source": "동아일보",
+    "ageHours": 9.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 외교부 “조국 日입국 거부는 독도 아닌 전과이력 때문”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

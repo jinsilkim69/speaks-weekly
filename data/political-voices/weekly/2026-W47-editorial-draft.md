@@ -7398,3 +7398,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 한덕수 파기환송에 "기회주의자들 위한 변명" - OhmyNews
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 한덕수 파기환송에 "기회주의자들 위한 변명"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinAFBVV95cUxQblViWm83YkE3bzVqdGpOUC1UQkxBYWNnSV9MR0g4TnFpbmJJc2E2VUxScFppcUNvci1PWFhOYW1Mc2QyLTFRLVlBUWlWVEhGcWQxVTNlSjBGWHJOaDRSYmgwcWsyMG13QlNzUmx1VkJsWHJpMmdoVXJzd3RrcEwxRXRLWjlQWWluY3FvQU1GYzlOOVg1blp6R0xnd3M?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 외교부 “조국 日입국 거부는 독도 아닌 전과이력 때문” - 동아일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 외교부 “조국 日입국 거부는 독도 아닌 전과이력 때문”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTFBBNjZBWVZPdmFqdjB6SnVhQ1B0cFRkQzA1ZWxfbUFYcFNDSmN3cGxpRll0Z05uaEg0djNYUzZIekVBdXlFWVNHTXpzd0MxSmZ1NndpRDJ6aFI5R3BjenB3aEJ0SnZvX0VBVlB5dmlhbEdmcE5seEo00gFmQVVfeXFMT0owdGFBMG91bTR6N1dIUzhyNkZ1YzdhNVU5RnhabFAxMkVXeTZ3MFl2TjZiY2FtcjJrQ1BIeFl6RTdIeTZlV1lKNUFnUlo2SUtmcmNPX3BFU182S3RsaHk2aW5kV1FR?oc=5)
+
+---
+
