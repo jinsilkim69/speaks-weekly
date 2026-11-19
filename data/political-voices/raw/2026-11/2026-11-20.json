@@ -680,5 +680,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "0b22c61c61e1bc9babfa5d0f4ba3d775af5de537d5d1c30abf55556a6188b691",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Explodes in All-Caps AF1 Rant After Dictator Party - The Daily Beast",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxON2lFbU1vRDNKZ1NoRXU3NU5aSjM3RVd6ZHc2TklOMklNUnhwaWY0ek5reFRlZXdLVXNsUnh2LXpxYjVEdmdwaF8yNW11YmJQMzdzdGoxdFRpNlVDQXo4amhMeU1vN1Y2SE9odWN3NnZWNkdva1hzeDBKcG1Vd25CV295RGhnX2treFVUbDBZRFUtOTdnOFNtbkFVbEVsSzRw?oc=5\" target=\"_blank\">Trump Explodes in All-Caps AF1 Rant After Dictator Party</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON2lFbU1vRDNKZ1NoRXU3NU5aSjM3RVd6ZHc2TklOMklNUnhwaWY0ek5reFRlZXdLVXNsUnh2LXpxYjVEdmdwaF8yNW11YmJQMzdzdGoxdFRpNlVDQXo4amhMeU1vN1Y2SE9odWN3NnZWNkdva1hzeDBKcG1Vd25CV295RGhnX2treFVUbDBZRFUtOTdnOFNtbkFVbEVsSzRw?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 16:48:23 GMT",
+    "source": "The Daily Beast",
+    "ageHours": 5.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Explodes in All-Caps AF1 Rant After Dictator Party",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "fee002734dae18cee0d74efad5875a51fde527a1e6a3e25f5fd157f08040dfd3",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "與 '조희대 탄핵' 추진에…한동훈 \"미쳐도 곱게 미쳐야\" - 한국경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE96QWNpRE5jQW9INmxJWTJ3UThXaEEyRWYwWXU2d1Roai1jLVJ4M0w2NUxyX3ZmS2NmRjVzbEtoOC1sVVgxU2M3OThUQVVhZ3NWdHQxZHgxcXVHdw?oc=5\" target=\"_blank\">與 '조희대 탄핵' 추진에…한동훈 \"미쳐도 곱게 미쳐야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96QWNpRE5jQW9INmxJWTJ3UThXaEEyRWYwWXU2d1Roai1jLVJ4M0w2NUxyX3ZmS2NmRjVzbEtoOC1sVVgxU2M3OThUQVVhZ3NWdHQxZHgxcXVHdw?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 22:29:43 GMT",
+    "source": "한국경제",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 與 '조희대 탄핵' 추진에…한동훈 \"미쳐도 곱게 미쳐야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "27ba7ad3c0254c969870191457e1561e507030f33d946875e7ed9df923763ff5",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "한동훈 \"전국 재판 업무 중단을\"…이준석 \"李대통령 파기환송심 진행을\" - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bem5sV0M3Y0lQNGZKa0pqNk1tVlU4eEpHR2pwM3EyWmphLTlIc2Q4Y255R3JoZ0daLWJQZTdEb3BhcXh5aTRwNDdHejV2R1NUZC1WVnc0TEZ1UQ?oc=5\" target=\"_blank\">한동훈 \"전국 재판 업무 중단을\"…이준석 \"李대통령 파기환송심 진행을\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bem5sV0M3Y0lQNGZKa0pqNk1tVlU4eEpHR2pwM3EyWmphLTlIc2Q4Y255R3JoZ0daLWJQZTdEb3BhcXh5aTRwNDdHejV2R1NUZC1WVnc0TEZ1UQ?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 22:33:21 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"전국 재판 업무 중단을\"…이준석 \"李대통령 파기환송심 진행을\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

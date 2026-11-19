@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T22:31:18.122Z",
+  "lastCheckedAt": "2026-11-19T22:51:18.593Z",
   "seenPostIds": {
-    "f6e02df44b2dbdf3b8308bfa498697b712f60452183e8a5df529188941178fc6": {
-      "seenAt": "2026-11-17T03:33:42.131Z",
-      "title": "이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 대한민국 정책브리핑",
-      "targetName": "이재명"
-    },
-    "36349b0ef6b16503e5019a72379fa0de375805a09508ff34802860868dabefd6": {
-      "seenAt": "2026-11-17T03:33:42.757Z",
-      "title": "이재명 대통령, 아누틴 찬위라꾼 태국 총리와 정상회담 - 정경시사 FOCUS",
-      "targetName": "이재명"
-    },
-    "b7ddd3fb341281d7c24bf311dc0b7fdfdfb9775ccae65e245148438a0e8f5af5": {
-      "seenAt": "2026-11-17T03:33:43.407Z",
-      "title": "장동혁, 한동훈 장인상 조문… 7분간 머물러 - 조선일보",
-      "targetName": "한동훈"
-    },
-    "794a2493ea49ae342876eab024c4cf3aa378d513a96c27781d9dc9fbbc9c0bfe": {
-      "seenAt": "2026-11-17T03:41:24.027Z",
-      "title": "장동혁, 한동훈 빙부상 조문 … 국민의힘 지도부와 함께 빈소 찾아 - 뉴데일리",
-      "targetName": "한동훈"
-    },
-    "840e2c4304ddf4a8db9cbb84b2341b457499915ced46bac5be6aca802473c56a": {
-      "seenAt": "2026-11-17T03:41:24.834Z",
-      "title": "'최민희 사태', 김민석에게 필요한 리더십 - OhmyNews",
-      "targetName": "김민석"
-    },
-    "fe16a82ffff8c4d80d90e0abedb611190c36bd67ccfe70d4a3ae0e81531bc788": {
-      "seenAt": "2026-11-17T03:41:25.609Z",
-      "title": "김민석 \"AI 부정행위 적발시 응시자격 10년 제한 입법 추진\" - 진일보 | 전남일보",
-      "targetName": "김민석"
-    },
     "fc9897fb48473dea64ebb8d1ec102fea36aa9b9ed623432ac19027245e77019a": {
       "seenAt": "2026-11-17T03:51:19.208Z",
       "title": "김민석 “수능 AI 부정행위에 단호히 대응…잠재적 범죄자 취급은 경계” - 중앙일보",
@@ -2530,21 +2500,36 @@
       "seenAt": "2026-11-19T22:41:22.953Z",
       "title": "Law Firm Did $11 Million Worth Of Free Legal Work For Trump Administration After Shakedown - HuffPost",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "0b22c61c61e1bc9babfa5d0f4ba3d775af5de537d5d1c30abf55556a6188b691": {
+      "seenAt": "2026-11-19T22:51:19.941Z",
+      "title": "Trump Explodes in All-Caps AF1 Rant After Dictator Party - The Daily Beast",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "fee002734dae18cee0d74efad5875a51fde527a1e6a3e25f5fd157f08040dfd3": {
+      "seenAt": "2026-11-19T22:51:20.634Z",
+      "title": "與 '조희대 탄핵' 추진에…한동훈 \"미쳐도 곱게 미쳐야\" - 한국경제",
+      "targetName": "한동훈"
+    },
+    "27ba7ad3c0254c969870191457e1561e507030f33d946875e7ed9df923763ff5": {
+      "seenAt": "2026-11-19T22:51:21.357Z",
+      "title": "한동훈 \"전국 재판 업무 중단을\"…이준석 \"李대통령 파기환송심 진행을\" - 뉴스1",
+      "targetName": "이준석"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "0b22c61c61e1bc9babfa5d0f4ba3d775af5de537d5d1c30abf55556a6188b691",
+        "id": "089d826e4b2442bae105c6a50276abc73b522784a3fcc5400b6a50f1c1edb956",
         "targetId": "donald_trump",
         "targetName": "도널드 트럼프 (Donald Trump)",
         "targetTitle": "미국 대통령",
-        "title": "Trump Explodes in All-Caps AF1 Rant After Dictator Party - The Daily Beast",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxON2lFbU1vRDNKZ1NoRXU3NU5aSjM3RVd6ZHc2TklOMklNUnhwaWY0ek5reFRlZXdLVXNsUnh2LXpxYjVEdmdwaF8yNW11YmJQMzdzdGoxdFRpNlVDQXo4amhMeU1vN1Y2SE9odWN3NnZWNkdva1hzeDBKcG1Vd25CV295RGhnX2treFVUbDBZRFUtOTdnOFNtbkFVbEVsSzRw?oc=5\" target=\"_blank\">Trump Explodes in All-Caps AF1 Rant After Dictator Party</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON2lFbU1vRDNKZ1NoRXU3NU5aSjM3RVd6ZHc2TklOMklNUnhwaWY0ek5reFRlZXdLVXNsUnh2LXpxYjVEdmdwaF8yNW11YmJQMzdzdGoxdFRpNlVDQXo4amhMeU1vN1Y2SE9odWN3NnZWNkdva1hzeDBKcG1Vd25CV295RGhnX2treFVUbDBZRFUtOTdnOFNtbkFVbEVsSzRw?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 16:48:23 GMT",
-        "source": "The Daily Beast",
-        "ageHours": 5.7
+        "title": "Trump posthumously pardons Pete Rose - The Hill",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPUmVlTUZqSFEwLW9iQVFmWUFWQm1QVjZLRnFkVWk4R0I1RWFxUVhrcGJSR1RhM0dSSk1GY1ZqZkpIaEVGcGlfaDN6SWpLMU9wdTdzRjJCbjFncmppbV9YNlQ2bTBYWGUyNzhlSHdfaEtrMmYxeEZoNm5QZVFRdUdnYTNvUnhlcS1OOHF3UEhuRdIBlAFBVV95cUxPWm92TXR5RXFGLXFKU3B4cnUtOTFCRDZiUlI3WU9XME9lOU8yT0JXNXY4dThuWkhHbkF4Qnp2cGdnRmV3aUFrUlEtUXRfT2F2SXVKY0xOT0YxUDFpNnJoV2ticEFLSkJuenlkbnVMSy1PTlp3aHJrWEZULU1XTXdITkhDT3hSLWZ5ei1keG9NeGEtd1Fq?oc=5\" target=\"_blank\">Trump posthumously pardons Pete Rose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUmVlTUZqSFEwLW9iQVFmWUFWQm1QVjZLRnFkVWk4R0I1RWFxUVhrcGJSR1RhM0dSSk1GY1ZqZkpIaEVGcGlfaDN6SWpLMU9wdTdzRjJCbjFncmppbV9YNlQ2bTBYWGUyNzhlSHdfaEtrMmYxeEZoNm5QZVFRdUdnYTNvUnhlcS1OOHF3UEhuRdIBlAFBVV95cUxPWm92TXR5RXFGLXFKU3B4cnUtOTFCRDZiUlI3WU9XME9lOU8yT0JXNXY4dThuWkhHbkF4Qnp2cGdnRmV3aUFrUlEtUXRfT2F2SXVKY0xOT0YxUDFpNnJoV2ticEFLSkJuenlkbnVMSy1PTlp3aHJrWEZULU1XTXdITkhDT3hSLWZ5ei1keG9NeGEtd1Fq?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 21:51:00 GMT",
+        "source": "The Hill",
+        "ageHours": 1
       },
       "delivered": [],
       "archived": false

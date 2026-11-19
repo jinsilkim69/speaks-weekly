@@ -8074,3 +8074,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Explodes in All-Caps AF1 Rant After Dictator Party - The Daily Beast
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Explodes in All-Caps AF1 Rant After Dictator Party
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMioAFBVV95cUxON2lFbU1vRDNKZ1NoRXU3NU5aSjM3RVd6ZHc2TklOMklNUnhwaWY0ek5reFRlZXdLVXNsUnh2LXpxYjVEdmdwaF8yNW11YmJQMzdzdGoxdFRpNlVDQXo4amhMeU1vN1Y2SE9odWN3NnZWNkdva1hzeDBKcG1Vd25CV295RGhnX2treFVUbDBZRFUtOTdnOFNtbkFVbEVsSzRw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 與 '조희대 탄핵' 추진에…한동훈 "미쳐도 곱게 미쳐야" - 한국경제
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 '조희대 탄핵' 추진에…한동훈 "미쳐도 곱게 미쳐야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE96QWNpRE5jQW9INmxJWTJ3UThXaEEyRWYwWXU2d1Roai1jLVJ4M0w2NUxyX3ZmS2NmRjVzbEtoOC1sVVgxU2M3OThUQVVhZ3NWdHQxZHgxcXVHdw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 한동훈 "전국 재판 업무 중단을"…이준석 "李대통령 파기환송심 진행을" - 뉴스1
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "전국 재판 업무 중단을"…이준석 "李대통령 파기환송심 진행을"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bem5sV0M3Y0lQNGZKa0pqNk1tVlU4eEpHR2pwM3EyWmphLTlIc2Q4Y255R3JoZ0daLWJQZTdEb3BhcXh5aTRwNDdHejV2R1NUZC1WVnc0TEZ1UQ?oc=5)
+
+---
+
