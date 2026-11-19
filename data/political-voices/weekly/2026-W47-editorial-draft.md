@@ -6371,3 +6371,42 @@
 
 ---
 
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 천하람 "AI 커닝, 中처럼 막아야"…기술 방지책 촉구 - www.edaily.co.kr
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 천하람 "AI 커닝, 中처럼 막아야"…기술 방지책 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVlaX2ZlWTI2ZjdPQkRrT3NUQlU0YmpBN0FrTy0yQ3pidmRMekt0TnhaTGVIZGZwZnRreFhyaUR2MnJDSUIyek9zNXVxUUNZSUpOZ2o2Ul9Dc3N4MlliOWY2OENOOGVONHlncVZtakdNQ1d4ZTh4RG1YVzREMkltbw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 추경호 무죄에 한동훈계 '흔들'...안철수 "단죄할 시간" 장동혁 "엄정 조치" - 펜앤마이크
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추경호 무죄에 한동훈계 '흔들'...안철수 "단죄할 시간" 장동혁 "엄정 조치"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE16U0JhbEdyTU9jdWRheHZHMVMyeFUySVFXVnppVFJUeVRNM0U3RUhTZUNORHI3M0YzRkhjVS1FZUNpMHhGTHI0X1UwbWZKOXhTVjJtM3I4MTdWREliQ2MwZ2JFcGJpdmVIVTkw0gFvQVVfeXFMT0c0bzh2ejBzb2pDLWp1Zm1IbW1RZVpOTWJJSkh2NHEtQmlLbHJCeEZjeUVIWmRmYzVHVlFTM0M1SUhTcVMwQlRfQ3VGYnhsaEI0eGJfdjRfOTZGZmROVmdGbUZtZjFBbEItVldnVXhZ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 대표에 'X소리' 막말...중징계 받은 부산시의원 "정치 탄압" - KBC광주방송
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 대표에 'X소리' 막말...중징계 받은 부산시의원 "정치 탄압"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BSDBxZ2ZYR0QzTFE2eUtKVmFHNTllOGJoZDlMRzFlWmFqaDhMQ0pIejFEeW1mNXZIeF9lc24wdHdCbHlRb1NXYlhKNF95M3N0d2lrR0NLbjZBOGJhOGp6Uw?oc=5)
+
+---
+

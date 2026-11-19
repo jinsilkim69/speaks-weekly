@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T01:31:16.193Z",
+  "lastCheckedAt": "2026-11-19T01:41:21.647Z",
   "seenPostIds": {
-    "2c54ba5b1c4ec776325c393dc9cb70c5346e2182f27914acd44a43e8e5cc8d45": {
-      "seenAt": "2026-11-15T18:51:15.876Z",
-      "title": "최민희 징계 심판대 올린 김민석…친청계는 '김민석 징계' 맞불 - 주간조선",
-      "targetName": "김민석"
-    },
-    "1efd1e9d4b7de7116596d7b832ada9511b75d5569706613d34aa94e255b674f3": {
-      "seenAt": "2026-11-15T20:11:15.773Z",
-      "title": "Trump Blames Biden Administration for FAA Ground Stop While Breaking His Silence on Nationwide Crisis - People.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "3552d2b8ac91b843de26a410527402cf364275e0bed49907c5b0aa3f1a974630": {
-      "seenAt": "2026-11-15T20:31:19.120Z",
-      "title": "How Many Congressional Democrats Is Trump Planning to Prosecute? - Mother Jones",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "ed5f937c6fb4278dca63855635cb0f31272660947d3feecf78fa1000a1e4f059": {
       "seenAt": "2026-11-15T20:41:19.664Z",
       "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown - PBS",
@@ -2515,24 +2500,22 @@
       "seenAt": "2026-11-19T01:31:18.770Z",
       "title": "‘김민석 SNS 비판’ 조용우 부산시의원 당원권 1년 정지 - 경북매일",
       "targetName": "김민석"
+    },
+    "e03cb86485a3f1d276e0cdb5a406fcb4373dfb30a517420b91e0a43ca579a6e7": {
+      "seenAt": "2026-11-19T01:41:22.586Z",
+      "title": "천하람 \"AI 커닝, 中처럼 막아야\"…기술 방지책 촉구 - www.edaily.co.kr",
+      "targetName": "천하람"
+    },
+    "048d29bd75891566227d521a188cd9a7fdf045667864120fadfd74a9243033d5": {
+      "seenAt": "2026-11-19T01:41:23.294Z",
+      "title": "추경호 무죄에 한동훈계 '흔들'...안철수 \"단죄할 시간\" 장동혁 \"엄정 조치\" - 펜앤마이크",
+      "targetName": "한동훈"
+    },
+    "531e942c0fb924b3fd85438f35b88db483f6b1ad4087cc00b1abe75dcf1948ab": {
+      "seenAt": "2026-11-19T01:41:23.968Z",
+      "title": "김민석 대표에 'X소리' 막말...중징계 받은 부산시의원 \"정치 탄압\" - KBC광주방송",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "e03cb86485a3f1d276e0cdb5a406fcb4373dfb30a517420b91e0a43ca579a6e7",
-        "targetId": "cheon_haram",
-        "targetName": "천하람",
-        "targetTitle": "개혁신당 원내대표",
-        "title": "천하람 \"AI 커닝, 中처럼 막아야\"…기술 방지책 촉구 - www.edaily.co.kr",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVlaX2ZlWTI2ZjdPQkRrT3NUQlU0YmpBN0FrTy0yQ3pidmRMekt0TnhaTGVIZGZwZnRreFhyaUR2MnJDSUIyek9zNXVxUUNZSUpOZ2o2Ul9Dc3N4MlliOWY2OENOOGVONHlncVZtakdNQ1d4ZTh4RG1YVzREMkltbw?oc=5\" target=\"_blank\">천하람 \"AI 커닝, 中처럼 막아야\"…기술 방지책 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.edaily.co.kr</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVlaX2ZlWTI2ZjdPQkRrT3NUQlU0YmpBN0FrTy0yQ3pidmRMekt0TnhaTGVIZGZwZnRreFhyaUR2MnJDSUIyek9zNXVxUUNZSUpOZ2o2Ul9Dc3N4MlliOWY2OENOOGVONHlncVZtakdNQ1d4ZTh4RG1YVzREMkltbw?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 01:26:12 GMT",
-        "source": "www.edaily.co.kr",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
