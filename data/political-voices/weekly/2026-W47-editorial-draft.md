@@ -7112,3 +7112,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump uses press secretary role to promote Ultimate Fighting Championship CEO - www.tcnjsignalnews.com
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump uses press secretary role to promote Ultimate Fighting Championship CEO
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWUttUThfNlZUdzNHZjJ2X0ZCQWtKblgtZTkyRTVqME9GcDlZOU5QZUQtRkdfMHRCaU9oa3Zla2dFUUxuR1ZVSEl0UkZNNFVIcW81NHAtRE82TlgzY3lfczdsd29vVkFTLXlMMHAtRnZ4U2NweWJiZ1hoZk9pNk1zTl9wYkpCdXJrZ25Sa3hwUkcwOXcwZDE2YXdoNzd5a0J5Sm5yU2JuN3NLMFJNc1d4OHRtYk9TdGRHNV9KRS1GN0p5QQ?oc=5)
+
+---
+

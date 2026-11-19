@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-19T08:21:18.799Z",
       "title": "안철수 `한동훈, `모함·비겁함` 대명사…박정훈·배현진은 누구?` [금요비대위] - 매일신문",
       "targetName": "한동훈"
+    },
+    "d7038cd223dee58b65f5c405b09bfba9f7a2eccc04eb5a6553b98ae50691e7c6": {
+      "seenAt": "2026-11-19T08:31:16.554Z",
+      "title": "Trump uses press secretary role to promote Ultimate Fighting Championship CEO - www.tcnjsignalnews.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "d7038cd223dee58b65f5c405b09bfba9f7a2eccc04eb5a6553b98ae50691e7c6",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump uses press secretary role to promote Ultimate Fighting Championship CEO - www.tcnjsignalnews.com",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWUttUThfNlZUdzNHZjJ2X0ZCQWtKblgtZTkyRTVqME9GcDlZOU5QZUQtRkdfMHRCaU9oa3Zla2dFUUxuR1ZVSEl0UkZNNFVIcW81NHAtRE82TlgzY3lfczdsd29vVkFTLXlMMHAtRnZ4U2NweWJiZ1hoZk9pNk1zTl9wYkpCdXJrZ25Sa3hwUkcwOXcwZDE2YXdoNzd5a0J5Sm5yU2JuN3NLMFJNc1d4OHRtYk9TdGRHNV9KRS1GN0p5QQ?oc=5\" target=\"_blank\">Trump uses press secretary role to promote Ultimate Fighting Championship CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.tcnjsignalnews.com</font>",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWUttUThfNlZUdzNHZjJ2X0ZCQWtKblgtZTkyRTVqME9GcDlZOU5QZUQtRkdfMHRCaU9oa3Zla2dFUUxuR1ZVSEl0UkZNNFVIcW81NHAtRE82TlgzY3lfczdsd29vVkFTLXlMMHAtRnZ4U2NweWJiZ1hoZk9pNk1zTl9wYkpCdXJrZ25Sa3hwUkcwOXcwZDE2YXdoNzd5a0J5Sm5yU2JuN3NLMFJNc1d4OHRtYk9TdGRHNV9KRS1GN0p5QQ?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 22:07:00 GMT",
-        "source": "www.tcnjsignalnews.com",
-        "ageHours": 10.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
