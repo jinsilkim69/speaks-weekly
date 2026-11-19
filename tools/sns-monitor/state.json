@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T08:11:17.078Z",
+  "lastCheckedAt": "2026-11-19T08:21:16.265Z",
   "seenPostIds": {
-    "f9e582f56761dadd159c5b8ee6b1d4de5808709e9d9088053fd3b1bed4cd94c9": {
-      "seenAt": "2026-11-16T05:41:22.750Z",
-      "title": "민주당 또 때린 조국 \"조희대는 행동 하는데 與는 말만 하고 있어\" - 데일리안",
-      "targetName": "조국"
-    },
-    "d7ef30d9757085265b70f1676e67f1876d50d9f19a5bc9dd0758dd0ed1a401f2": {
-      "seenAt": "2026-11-16T05:51:18.407Z",
-      "title": "국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길 - 뉴시스",
-      "targetName": "한동훈"
-    },
-    "00f907d9f9d48b17a95b0199150235f824760c9d8615b9afa2573f601e547085": {
-      "seenAt": "2026-11-16T05:51:19.102Z",
-      "title": "이준석, 尹 겨냥했나…\"돈에 관심 없다는 사람은 돈에 미친 사람\" - JTBC",
-      "targetName": "이준석"
-    },
     "4249433f6412657ba091775bb6a0f3caa8ed2e47b6df0cc88e2dad3c083f6f21": {
       "seenAt": "2026-11-16T06:01:40.646Z",
       "title": "국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길 - 뉴시스",
@@ -2515,21 +2500,36 @@
       "seenAt": "2026-11-19T08:11:19.733Z",
       "title": "정청래 “최민희 징계 강력 반대”, 추미애 “김민석부터 엄중 판단” - 중앙일보",
       "targetName": "정청래"
+    },
+    "9aa7974c108ab6f5bf482093b27251d0b0b409c909995154cd5ba5d872ac4e69": {
+      "seenAt": "2026-11-19T08:21:17.457Z",
+      "title": "日정부, 조국 입국 거부에 \"법에 따른 조치\" - 연합뉴스TV",
+      "targetName": "조국"
+    },
+    "97db7f8ecd749e564bee233ceb56629196d2deff8791d589b0ae56cdff0442e7": {
+      "seenAt": "2026-11-19T08:21:18.148Z",
+      "title": "조갑제 “추경호, 용감한 한동훈 덕분에 살아…은혜를 원수로 갚지 말라” - 경기일보",
+      "targetName": "한동훈"
+    },
+    "abdcd389c2ee51b367588fa44910fc540844f868e4db83fc216a981b5ed61194": {
+      "seenAt": "2026-11-19T08:21:18.799Z",
+      "title": "안철수 `한동훈, `모함·비겁함` 대명사…박정훈·배현진은 누구?` [금요비대위] - 매일신문",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "9aa7974c108ab6f5bf482093b27251d0b0b409c909995154cd5ba5d872ac4e69",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "日정부, 조국 입국 거부에 \"법에 따른 조치\" - 연합뉴스TV",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5peWxFX0liMnVUNmNuUjIxNUNjRGZaaThWNWM2aUxhV0FycmRCcHVBd05Tc25lOFBsanpsRGZCdnNZX3k2NUNJT25xY2JIdjhVMWVzWnFoRGZCRWxOcTNJVzVrN29jcnM?oc=5\" target=\"_blank\">日정부, 조국 입국 거부에 \"법에 따른 조치\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5peWxFX0liMnVUNmNuUjIxNUNjRGZaaThWNWM2aUxhV0FycmRCcHVBd05Tc25lOFBsanpsRGZCdnNZX3k2NUNJT25xY2JIdjhVMWVzWnFoRGZCRWxOcTNJVzVrN29jcnM?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 09:22:00 GMT",
-        "source": "연합뉴스TV",
-        "ageHours": 22.8
+        "id": "d7038cd223dee58b65f5c405b09bfba9f7a2eccc04eb5a6553b98ae50691e7c6",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump uses press secretary role to promote Ultimate Fighting Championship CEO - www.tcnjsignalnews.com",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWUttUThfNlZUdzNHZjJ2X0ZCQWtKblgtZTkyRTVqME9GcDlZOU5QZUQtRkdfMHRCaU9oa3Zla2dFUUxuR1ZVSEl0UkZNNFVIcW81NHAtRE82TlgzY3lfczdsd29vVkFTLXlMMHAtRnZ4U2NweWJiZ1hoZk9pNk1zTl9wYkpCdXJrZ25Sa3hwUkcwOXcwZDE2YXdoNzd5a0J5Sm5yU2JuN3NLMFJNc1d4OHRtYk9TdGRHNV9KRS1GN0p5QQ?oc=5\" target=\"_blank\">Trump uses press secretary role to promote Ultimate Fighting Championship CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.tcnjsignalnews.com</font>",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWUttUThfNlZUdzNHZjJ2X0ZCQWtKblgtZTkyRTVqME9GcDlZOU5QZUQtRkdfMHRCaU9oa3Zla2dFUUxuR1ZVSEl0UkZNNFVIcW81NHAtRE82TlgzY3lfczdsd29vVkFTLXlMMHAtRnZ4U2NweWJiZ1hoZk9pNk1zTl9wYkpCdXJrZ25Sa3hwUkcwOXcwZDE2YXdoNzd5a0J5Sm5yU2JuN3NLMFJNc1d4OHRtYk9TdGRHNV9KRS1GN0p5QQ?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 22:07:00 GMT",
+        "source": "www.tcnjsignalnews.com",
+        "ageHours": 10.2
       },
       "delivered": [],
       "archived": false

@@ -7073,3 +7073,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 日정부, 조국 입국 거부에 "법에 따른 조치" - 연합뉴스TV
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 日정부, 조국 입국 거부에 "법에 따른 조치"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5peWxFX0liMnVUNmNuUjIxNUNjRGZaaThWNWM2aUxhV0FycmRCcHVBd05Tc25lOFBsanpsRGZCdnNZX3k2NUNJT25xY2JIdjhVMWVzWnFoRGZCRWxOcTNJVzVrN29jcnM?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 조갑제 “추경호, 용감한 한동훈 덕분에 살아…은혜를 원수로 갚지 말라” - 경기일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조갑제 “추경호, 용감한 한동훈 덕분에 살아…은혜를 원수로 갚지 말라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHbDNzb3VHaVpueFRWYmhrdDZ1TXZlei1keEtyYnVSTWw4dTI1Y1M1Sm9KV1RvV2NBM1Iyd0Z1Unh5RjR3OGplOXV6VDZCSEVSQldkaGZaRE04S28?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 안철수 `한동훈, `모함·비겁함` 대명사…박정훈·배현진은 누구?` [금요비대위] - 매일신문
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 안철수 `한동훈, `모함·비겁함` 대명사…박정훈·배현진은 누구?`
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYamdUS0Y5eWF2STRhWGs4THctYnhPVUFuZ2hHWS1HXzl4NC01RFJUYk9GSUtSREZqVDhidlVpcGNIYjk0TnJKaFpMbDNjRERXX1dvcHNtd2hvb0hKR3JOVVlR?oc=5)
+
+---
+
