@@ -3323,5 +3323,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "fb07a3ddf606c6e064e59a9af4a195e0bc8c09cdb670cf44ff73b39f80526c1c",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국, 한덕수 파기환송에 \"與, 조희대 탄핵·사법개혁 방치 후과\" - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLTURZX21kWnRVNUNvMkFKSE14bkNwSlZMRTliamxUY0JVOXJlWExzUkJjaVdUeDNYZVNmNjBhNl8yd0hqeG5Nd1hScGw2TURHVWNicjZndmhpZw?oc=5\" target=\"_blank\">조국, 한덕수 파기환송에 \"與, 조희대 탄핵·사법개혁 방치 후과\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLTURZX21kWnRVNUNvMkFKSE14bkNwSlZMRTliamxUY0JVOXJlWExzUkJjaVdUeDNYZVNmNjBhNl8yd0hqeG5Nd1hScGw2TURHVWNicjZndmhpZw?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 09:15:41 GMT",
+    "source": "뉴스1",
+    "ageHours": 2.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국, 한덕수 파기환송에 \"與, 조희대 탄핵·사법개혁 방치 후과\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
