@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T15:21:18.881Z",
+  "lastCheckedAt": "2026-11-19T15:31:37.427Z",
   "seenPostIds": {
-    "33d5ede6f81303ce30bdf84ec3976aec6926c32d5e8155153c9244f2392e94de": {
-      "seenAt": "2026-11-16T15:31:21.728Z",
-      "title": "조상호 \"한동훈·주진우, 예의주시하며 지켜보는 중\" #Shorts - OhmyNews",
-      "targetName": "한동훈"
-    },
     "d609a8cd57a429686817be5a291df49e72540131e7a31f1630a741cb03f2cdde": {
       "seenAt": "2026-11-16T15:31:22.482Z",
       "title": "김민석, 최민희 발언 논란에 \"정치 별개 윤리 문제 판단 이뤄질 것\" - SBS 뉴스",
@@ -2504,6 +2499,11 @@
     "cc0a13f5c4f699e97d95edee3e582c677311f34109a1f530b3102cf236e75ee5": {
       "seenAt": "2026-11-19T15:21:20.023Z",
       "title": "Trump urges Congress to pass a new farm bill - Rock Hill Herald",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "6f2c1b27c2679e2d884079f01ea40297689c35ca14fa2f3869dbb788da25b0df": {
+      "seenAt": "2026-11-19T15:31:38.852Z",
+      "title": "Trump Urges Congress to Pass a New Farm Bill - U.S. News & World Report",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
