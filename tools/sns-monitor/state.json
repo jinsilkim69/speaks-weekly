@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T10:51:16.520Z",
+  "lastCheckedAt": "2026-11-19T11:11:18.250Z",
   "seenPostIds": {
-    "f8ca84a92eb0d1c98fe87bc85b6da1a554c23c1bf5710ec136dc5193bc611528": {
-      "seenAt": "2026-11-16T10:21:20.119Z",
-      "title": "조국혁신당, 국회 앞 천막농성... 민주유공자법 제정 촉구 - OhmyNews",
-      "targetName": "조국"
-    },
     "9c4bf9f6c7d8e83906435c3f8d2100a3fe45667006debdec7aab1494d5f21050": {
       "seenAt": "2026-11-16T10:21:20.755Z",
       "title": "현장 최고위원회의서 발언하는 신장식 조국혁신당 대표 - 국제뉴스",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-19T10:51:17.587Z",
       "title": "Trump-backed right-wing lawyer appears to win Colombia's presidential election - ABC News - Breaking News, Latest News and Videos",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "211166bd98bac6e6f180e5492ded009b0c4840f8f13bf1c89d6cae43c1129453": {
+      "seenAt": "2026-11-19T11:11:19.624Z",
+      "title": "송영길 \"시험 부정행위자 '응시제한 연동제' 도입해야\" - 엔지오프레스",
+      "targetName": "송영길"
     }
   },
   "pending": []
