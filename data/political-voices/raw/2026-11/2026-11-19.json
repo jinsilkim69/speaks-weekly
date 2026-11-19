@@ -1057,5 +1057,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "a8072bdcdc0a3c956440c831905ed824d7fef36f52d12e79aae7fbcb22af7398",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "[손병관의 뉴스프레소] 정청래 \"최민희 징계 반대\"... 김민석 겨냥 \"타이밍 조절했나\" - OhmyNews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9iaWFtd3U5YkxYNlRNUFV4ZWR2akxsdWY1d1JadVhpNDBOSjFXelF2bER1dEg0Ulg1NTJYSWd3UGVpSlU4Q190eXNzaTVlZVhZN0dRRFNYY3BMVl9YRy1FVm80U0NNeDVpYUFhMTlkS1I0NjdENW5J?oc=5\" target=\"_blank\">[손병관의 뉴스프레소] 정청래 \"최민희 징계 반대\"... 김민석 겨냥 \"타이밍 조절했나\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iaWFtd3U5YkxYNlRNUFV4ZWR2akxsdWY1d1JadVhpNDBOSjFXelF2bER1dEg0Ulg1NTJYSWd3UGVpSlU4Q190eXNzaTVlZVhZN0dRRFNYY3BMVl9YRy1FVm80U0NNeDVpYUFhMTlkS1I0NjdENW5J?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 22:15:00 GMT",
+    "source": "OhmyNews",
+    "ageHours": 3.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래 \"최민희 징계 반대\"... 김민석 겨냥 \"타이밍 조절했나\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

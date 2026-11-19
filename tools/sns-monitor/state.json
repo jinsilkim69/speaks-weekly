@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-19T01:21:17.084Z",
+  "lastCheckedAt": "2026-11-19T01:22:52.588Z",
   "seenPostIds": {
     "df4dc96d081976088e4d5fc9174441f9ed24dcc07cf661c9e7adabd4382858b0": {
       "seenAt": "2026-11-15T18:31:18.413Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-19T00:41:18.303Z",
       "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - KTUL",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a8072bdcdc0a3c956440c831905ed824d7fef36f52d12e79aae7fbcb22af7398": {
+      "seenAt": "2026-11-19T01:22:54.579Z",
+      "title": "[손병관의 뉴스프레소] 정청래 \"최민희 징계 반대\"... 김민석 겨냥 \"타이밍 조절했나\" - OhmyNews",
+      "targetName": "김민석"
     }
   },
   "pending": []
