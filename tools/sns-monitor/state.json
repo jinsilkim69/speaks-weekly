@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-19T08:57:12.146Z",
       "title": "조국 \"추경호 무죄 후 한덕수 파기환송…與 조희대 방치한 후과\" - 머니투데이 - 머니투데이",
       "targetName": "조국"
+    },
+    "ea2eeb074e986add0858c5eea93bb534f13988eb80a739f394bce7d6e3d409ab": {
+      "seenAt": "2026-11-19T09:01:16.680Z",
+      "title": "THE BLAME GAME - The US Blames Canada for Failed Talks, the Reaction From Trump and What Happens Next - EnergyNow",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "ea2eeb074e986add0858c5eea93bb534f13988eb80a739f394bce7d6e3d409ab",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "THE BLAME GAME - The US Blames Canada for Failed Talks, the Reaction From Trump and What Happens Next - EnergyNow",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVc0OG9kYUY4WXJ0Y0xYODZtNHFkVWNBRUxYMF9XN0VyRFpnZmMzeFZ5UzZtVzB3SmlaS3dqb0dqR3FBZlRlZWRRcUd5QnlwQWFiX18tenM1TW9pcy1TWndBR3JvSXNWT2NrbDAzMm9USGd4LVFOM2kwd3FtQ0o1dlRRYXNGVENKOG1XMXJ1NGlyU2lpM3VqUVZQQzNHVmhzZWhxUzZod2tTc196N2gxejNyVUtCNy1YZTJZR2VmZ1paN3RDbDVv?oc=5\" target=\"_blank\">THE BLAME GAME - The US Blames Canada for Failed Talks, the Reaction From Trump and What Happens Next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyNow</font>",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVc0OG9kYUY4WXJ0Y0xYODZtNHFkVWNBRUxYMF9XN0VyRFpnZmMzeFZ5UzZtVzB3SmlaS3dqb0dqR3FBZlRlZWRRcUd5QnlwQWFiX18tenM1TW9pcy1TWndBR3JvSXNWT2NrbDAzMm9USGd4LVFOM2kwd3FtQ0o1dlRRYXNGVENKOG1XMXJ1NGlyU2lpM3VqUVZQQzNHVmhzZWhxUzZod2tTc196N2gxejNyVUtCNy1YZTJZR2VmZ1paN3RDbDVv?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 22:51:15 GMT",
-        "source": "EnergyNow",
-        "ageHours": 10.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
