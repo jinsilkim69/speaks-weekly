@@ -604,5 +604,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e0be671f1c5d47e581a2af45fa34b78e43974c4f3f6760a5d432be28cadc2ca0",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "정청래 \"한덕수 일부 무죄는 꼼수 판결…조희대 탄핵 마땅\" - 대전일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1CeEdVMGRwbG5DTXRHWFZHckxYTS1pZDRzenAxNVFsOFljOUkwbzM4UGhpbmRHUGtYdVltSXpfU2NlNS1IaGNwWG0wWXN1ZXhFMGJaVU1sUmhSUEJJdnhaR1NVRmo0Qm9CZlN1cURBVQ?oc=5\" target=\"_blank\">정청래 \"한덕수 일부 무죄는 꼼수 판결…조희대 탄핵 마땅\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CeEdVMGRwbG5DTXRHWFZHckxYTS1pZDRzenAxNVFsOFljOUkwbzM4UGhpbmRHUGtYdVltSXpfU2NlNS1IaGNwWG0wWXN1ZXhFMGJaVU1sUmhSUEJJdnhaR1NVRmo0Qm9CZlN1cURBVQ?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 13:23:00 GMT",
+    "source": "대전일보",
+    "ageHours": 9.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래 \"한덕수 일부 무죄는 꼼수 판결…조희대 탄핵 마땅\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "3cb0481217544806a85163105a2846914f9ff2a55676367025d958e2d5ca96a1",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "개혁신당 이준석 \"대한항공 스타링크 신세계\"…파라타·진에어, 경쟁 가세 - 신아일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9vLWZVVVJsU0RZdXUwaVM2azJqMUJSWGt5MlMwZ2pnLXI4ZEo2WTVuQzRWci1BS0JGbjhBcXhXeW5hay1wZHlzc2lBc2ppMmdpenFFLWVPRWx1LWo2b082MWRXd1N5UWE2MnN5QWxKdTU?oc=5\" target=\"_blank\">개혁신당 이준석 \"대한항공 스타링크 신세계\"…파라타·진에어, 경쟁 가세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">신아일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vLWZVVVJsU0RZdXUwaVM2azJqMUJSWGt5MlMwZ2pnLXI4ZEo2WTVuQzRWci1BS0JGbjhBcXhXeW5hay1wZHlzc2lBc2ppMmdpenFFLWVPRWx1LWo2b082MWRXd1N5UWE2MnN5QWxKdTU?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 22:10:00 GMT",
+    "source": "신아일보",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 개혁신당 이준석 \"대한항공 스타링크 신세계\"…파라타·진에어, 경쟁 가세",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "5be1f3367aa1bcf878a730c1c86befdb0a2a062fec2572784ed968c039d51525",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Law Firm Did $11 Million Worth Of Free Legal Work For Trump Administration After Shakedown - HuffPost",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnBNQmRRTEhJTUZaYXhrSkNobFRhWkZFcVBnVU5nbEEzWk9JWXl5N3Zrc1JBZl9tbkM1cmhrN0dzdGFLVXJJcDJOVlBzbUd0TjFHR0d0cUFyeE1ZOUNPaHVxLXI4aEppcXdJYk5hZHVMWmNKM0tmS012dnI0dXgzODV1aExlYmtxMEFUZ0dReWs4UHNia1kwMHk0U0RrRW9KMmFvVTN0TWzSAa4BQVVfeXFMTXVSeEt4a3BOTmk0dXM3bS1MQWhLb2xTUk55RkE5Z0JCNW5yenBPSEVjZDZXZmV1QmFKbHFTSW5vWGlWSWtLZVNSVXVBeVFqbkN1UTZlaWtCUzdjWVYxQS1oSWpIVWQwc3g4d2oyZVB1bURLemwzRkZIeGYxUmJwdWZ4MmdZVzF5ZjB1SUN6T1VXUnFDMlh6WEZPeDc5SHhnX2s3U2JsX1dxbl9PdXB3?oc=5\" target=\"_blank\">Law Firm Did $11 Million Worth Of Free Legal Work For Trump Administration After Shakedown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HuffPost</font>",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnBNQmRRTEhJTUZaYXhrSkNobFRhWkZFcVBnVU5nbEEzWk9JWXl5N3Zrc1JBZl9tbkM1cmhrN0dzdGFLVXJJcDJOVlBzbUd0TjFHR0d0cUFyeE1ZOUNPaHVxLXI4aEppcXdJYk5hZHVMWmNKM0tmS012dnI0dXgzODV1aExlYmtxMEFUZ0dReWs4UHNia1kwMHk0U0RrRW9KMmFvVTN0TWzSAa4BQVVfeXFMTXVSeEt4a3BOTmk0dXM3bS1MQWhLb2xTUk55RkE5Z0JCNW5yenBPSEVjZDZXZmV1QmFKbHFTSW5vWGlWSWtLZVNSVXVBeVFqbkN1UTZlaWtCUzdjWVYxQS1oSWpIVWQwc3g4d2oyZVB1bURLemwzRkZIeGYxUmJwdWZ4MmdZVzF5ZjB1SUN6T1VXUnFDMlh6WEZPeDc5SHhnX2s3U2JsX1dxbl9PdXB3?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 18:05:53 GMT",
+    "source": "HuffPost",
+    "ageHours": 4.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Law Firm Did $11 Million Worth Of Free Legal Work For Trump Administration After Shakedown",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

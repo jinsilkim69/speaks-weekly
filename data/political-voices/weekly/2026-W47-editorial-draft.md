@@ -8035,3 +8035,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "한덕수 일부 무죄는 꼼수 판결…조희대 탄핵 마땅" - 대전일보
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "한덕수 일부 무죄는 꼼수 판결…조희대 탄핵 마땅"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1CeEdVMGRwbG5DTXRHWFZHckxYTS1pZDRzenAxNVFsOFljOUkwbzM4UGhpbmRHUGtYdVltSXpfU2NlNS1IaGNwWG0wWXN1ZXhFMGJaVU1sUmhSUEJJdnhaR1NVRmo0Qm9CZlN1cURBVQ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 개혁신당 이준석 "대한항공 스타링크 신세계"…파라타·진에어, 경쟁 가세 - 신아일보
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 개혁신당 이준석 "대한항공 스타링크 신세계"…파라타·진에어, 경쟁 가세
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE9vLWZVVVJsU0RZdXUwaVM2azJqMUJSWGt5MlMwZ2pnLXI4ZEo2WTVuQzRWci1BS0JGbjhBcXhXeW5hay1wZHlzc2lBc2ppMmdpenFFLWVPRWx1LWo2b082MWRXd1N5UWE2MnN5QWxKdTU?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Law Firm Did $11 Million Worth Of Free Legal Work For Trump Administration After Shakedown - HuffPost
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Law Firm Did $11 Million Worth Of Free Legal Work For Trump Administration After Shakedown
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnBNQmRRTEhJTUZaYXhrSkNobFRhWkZFcVBnVU5nbEEzWk9JWXl5N3Zrc1JBZl9tbkM1cmhrN0dzdGFLVXJJcDJOVlBzbUd0TjFHR0d0cUFyeE1ZOUNPaHVxLXI4aEppcXdJYk5hZHVMWmNKM0tmS012dnI0dXgzODV1aExlYmtxMEFUZ0dReWs4UHNia1kwMHk0U0RrRW9KMmFvVTN0TWzSAa4BQVVfeXFMTXVSeEt4a3BOTmk0dXM3bS1MQWhLb2xTUk55RkE5Z0JCNW5yenBPSEVjZDZXZmV1QmFKbHFTSW5vWGlWSWtLZVNSVXVBeVFqbkN1UTZlaWtCUzdjWVYxQS1oSWpIVWQwc3g4d2oyZVB1bURLemwzRkZIeGYxUmJwdWZ4MmdZVzF5ZjB1SUN6T1VXUnFDMlh6WEZPeDc5SHhnX2s3U2JsX1dxbl9PdXB3?oc=5)
+
+---
+
