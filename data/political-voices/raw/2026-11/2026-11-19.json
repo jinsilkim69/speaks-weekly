@@ -1611,5 +1611,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8341c49af0f11ea03c0c6252f7dc5f1d7eee540fae62a3f7533334a74539a46b",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "“독도 방문 때문에 입국 거부?”…조국이 먼저 설명해야 할 것들 - 주간경향",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kVjZQcHBaWkl3bFA3b2pHQURXdGdxZlV1X3BCc2x5RWRmaVlBSjVDSjB1eGFaVUE0VjZUMFpxWno2YkJiTHNjMncxaUl3TkpnSVZOeU1xcnhJLXpHX0E?oc=5\" target=\"_blank\">“독도 방문 때문에 입국 거부?”…조국이 먼저 설명해야 할 것들</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kVjZQcHBaWkl3bFA3b2pHQURXdGdxZlV1X3BCc2x5RWRmaVlBSjVDSjB1eGFaVUE0VjZUMFpxWno2YkJiTHNjMncxaUl3TkpnSVZOeU1xcnhJLXpHX0E?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 11:00:00 GMT",
+    "source": "주간경향",
+    "ageHours": 16.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “독도 방문 때문에 입국 거부?”…조국이 먼저 설명해야 할 것들",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

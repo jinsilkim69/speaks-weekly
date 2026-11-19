@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-19T03:51:18.307Z",
       "title": "전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이 - 머니투데이",
       "targetName": "조국"
+    },
+    "8341c49af0f11ea03c0c6252f7dc5f1d7eee540fae62a3f7533334a74539a46b": {
+      "seenAt": "2026-11-19T04:01:16.470Z",
+      "title": "“독도 방문 때문에 입국 거부?”…조국이 먼저 설명해야 할 것들 - 주간경향",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "8341c49af0f11ea03c0c6252f7dc5f1d7eee540fae62a3f7533334a74539a46b",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "“독도 방문 때문에 입국 거부?”…조국이 먼저 설명해야 할 것들 - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kVjZQcHBaWkl3bFA3b2pHQURXdGdxZlV1X3BCc2x5RWRmaVlBSjVDSjB1eGFaVUE0VjZUMFpxWno2YkJiTHNjMncxaUl3TkpnSVZOeU1xcnhJLXpHX0E?oc=5\" target=\"_blank\">“독도 방문 때문에 입국 거부?”…조국이 먼저 설명해야 할 것들</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kVjZQcHBaWkl3bFA3b2pHQURXdGdxZlV1X3BCc2x5RWRmaVlBSjVDSjB1eGFaVUE0VjZUMFpxWno2YkJiTHNjMncxaUl3TkpnSVZOeU1xcnhJLXpHX0E?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 11:00:00 GMT",
-        "source": "주간경향",
-        "ageHours": 16.9
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
