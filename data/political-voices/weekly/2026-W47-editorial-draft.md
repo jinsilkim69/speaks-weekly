@@ -7125,3 +7125,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 김근식, 독도 재방문 예고한 조국에 "관심 끌기 버릇 고쳐라" - 뉴시스
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김근식, 독도 재방문 예고한 조국에 "관심 끌기 버릇 고쳐라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wQjRmVEluT1hQZktHSWFicGtWN1FjdVNJWkI2OEFOXzE3aVJfNVIwNUJRTUR5Y19lRnFVazVNR0x1UWpUWE1maWlWeng1aGVtN0NQRWdNdF9CTEV5Tm96UdIBeEFVX3lxTE1lOFVKdDBNM3k5U0hubEJPT1VKdjBwejB5amxud0F4c29QenA5WjdPcV9CdV9SMVY0TERMaF9jbk5LMlR0WXdoWmFzNWJqU0Z3LWdxQ0thcG9pNlNLeUtTdzY0MWExSF9XZ1JBUHBSdlNDRFM2cGZiZw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 입국 거부당한 조국, 독도 재방문 맞불…日 "'전과' 제한 규정 있다" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 입국 거부당한 조국, 독도 재방문 맞불…日 "'전과' 제한 규정 있다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE42M3JhcElmNmtIRXF4eTc2UDFuY3huXzZWZVItcVhBdHZUa0tIcXF6dVViOUlmLUxrNTQ1T0taWDUwU2owNmpLbmluYm9COVNYN2otVVNvcENGVFE1dWJWdjdobFllMGJ1U2NmUtIBckFVX3lxTE9HYlRYRGZtRzlJR0RLZE53Q1NxNkZZbkdTbXpwQlFHYzBEQlR5cE4tVHFnSW5SdHlSNzBvbHBfSUc5Z3VBa1ZnRTNUNGpQUnoyUzBhbC1STlltd0ZXQnU2OHRVZWh4aUxURXJTQW5POWxBUQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 입국 거부한 일본 “독도 때문 아냐…출입국관리법대로” - 한겨레
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 입국 거부한 일본 “독도 때문 아냐…출입국관리법대로”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUUFIRWFIRG5jMnZKdzdvR2FZV3Vzdks4TnVkeV93OXBfS0dYQmE0Q2d6elk1NnVMUG5VdzFpRUtCSjRTV0ZxT0l0ZzQ2ZlFPWFZ5S25jNl91N0FLSGVTWU15c2s4MmxnWWhsaE90Q1JVSUVPSzlXRWJXckMyS1g1cHNn?oc=5)
+
+---
+

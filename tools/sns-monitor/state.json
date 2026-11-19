@@ -1,26 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T08:21:16.265Z",
+  "lastCheckedAt": "2026-11-19T08:51:20.328Z",
   "seenPostIds": {
-    "4249433f6412657ba091775bb6a0f3caa8ed2e47b6df0cc88e2dad3c083f6f21": {
-      "seenAt": "2026-11-16T06:01:40.646Z",
-      "title": "국힘, '조작 징계' 내홍 지속…'한동훈 제명' 추가 폭로에 눈길 - 뉴시스",
-      "targetName": "한동훈"
-    },
-    "1b90abe15def2203e5154e4ce6483a5443694704d9fd722b77a43a11e30c0fcc": {
-      "seenAt": "2026-11-16T06:01:41.298Z",
-      "title": "Trump Self-Soothes With Dodgy MAGA Math After Election Disaster - The Daily Beast",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "8d4936ebfbefc909bbd173c03289a63c89d3a08a97189e504175346704352068": {
-      "seenAt": "2026-11-16T06:11:27.236Z",
-      "title": "\"정청래 차량 습격범은 장애인\"… 20만 정치 유튜버 명예훼손 송치 - 한국일보",
-      "targetName": "정청래"
-    },
-    "e55252f154d3ae69b2272f36cb4ee726846761958b251257e4c648148ca2a3a0": {
-      "seenAt": "2026-11-16T06:51:18.271Z",
-      "title": "‘한동훈 가처분’ 카드 급부상…장동혁 측 “당게 민낯 드러날 것” - 중앙일보",
-      "targetName": "한동훈"
-    },
     "0fe3e5041e76a986b242e94425688f7e22251d31618661a05ed0e7fb8b5fa525": {
       "seenAt": "2026-11-16T06:51:18.878Z",
       "title": "박원석 \"정청래 컷오프로 20대 총선 승리…최민희 정리가 쇄신 출발” - 진일보 | 전남일보",
@@ -2520,6 +2500,21 @@
       "seenAt": "2026-11-19T08:31:16.554Z",
       "title": "Trump uses press secretary role to promote Ultimate Fighting Championship CEO - www.tcnjsignalnews.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "2b49de383fcd39f264dfea9afaffc073c5610a55c29094d47f9c8b014c66df63": {
+      "seenAt": "2026-11-19T08:51:21.395Z",
+      "title": "김근식, 독도 재방문 예고한 조국에 \"관심 끌기 버릇 고쳐라\" - 뉴시스",
+      "targetName": "조국"
+    },
+    "41dccf9337ea0b82c7cd26c206530926983a9cf7b48373843a1c2cf9784fa5aa": {
+      "seenAt": "2026-11-19T08:51:22.131Z",
+      "title": "입국 거부당한 조국, 독도 재방문 맞불…日 \"'전과' 제한 규정 있다\" - 머니투데이 - 머니투데이",
+      "targetName": "조국"
+    },
+    "1c96d10c3ab0fc7e76e07bb157335f98a92cd304a032e28c1ef0da2ddd0e4fdc": {
+      "seenAt": "2026-11-19T08:51:22.829Z",
+      "title": "조국 입국 거부한 일본 “독도 때문 아냐…출입국관리법대로” - 한겨레",
+      "targetName": "조국"
     }
   },
   "pending": []
