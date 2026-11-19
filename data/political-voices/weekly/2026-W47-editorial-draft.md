@@ -7255,3 +7255,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 “내란에 대한 기회주의적 변명”…與, 조희대 탄핵론도 분출 - 중앙일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 “내란에 대한 기회주의적 변명”…與, 조희대 탄핵론도 분출
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNVTVqT1hITGVONF9vTDI5akpDRlNVTWZVZllmVVhPSkl1YXRGN0NtSU1PckJ6N1pTVEtXMVlTN0tkSk1wcXVVZVNZbWxndndKRTlBNU1B?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "추경호 무죄 후 한덕수 파기환송…與 조희대 방치한 후과" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "추경호 무죄 후 한덕수 파기환송…與 조희대 방치한 후과"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE0tY3lJOVJhQTRfQVNIcnBmOHZ2ZzF5Rl9icUJwU3Y1RjRjcTVPVmNpWllVTTdmWjYwdzZOZWh2eGJ6MGJHLU0tbU1iOENmZTRvRkRqTmpyZDlBaHpWNFdUeVZJczhpamgtbkZ4SUI3Qi1HZ9IBckFVX3lxTE0tY3lJOVJhQTRfQVNIcnBmOHZ2ZzF5Rl9icUJwU3Y1RjRjcTVPVmNpWllVTTdmWjYwdzZOZWh2eGJ6MGJHLU0tbU1iOENmZTRvRkRqTmpyZDlBaHpWNFdUeVZJczhpamgtbkZ4SUI3Qi1HZw?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 「M포토」 발언하는 신장식 조국혁신당 대표 - M이코노미뉴스
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 「M포토」 발언하는 신장식 조국혁신당 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02WW1mUS1UN2VIV1pFYXc2cUVJWEp3Z3FGaDBzNW9jMWJzeTJjOW1qOFRKcFBrVWZ4UVlGQU9oWThDMExDQm01TFVjM1BHWW1WQUNMbzE1ZDF5UG1nRXhMWWZoS1RYb28?oc=5)
+
+---
+
