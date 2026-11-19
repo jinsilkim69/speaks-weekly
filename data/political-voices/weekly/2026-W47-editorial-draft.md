@@ -7294,3 +7294,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** "친한계, 벼랑 끝 동지의 손을 뿌리쳤다...한동훈 복당 절대 안돼"[박영환의 시사1번지] - KBC광주방송
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "친한계, 벼랑 끝 동지의 손을 뿌리쳤다...한동훈 복당 절대 안돼"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxblAyWkhUWTRKZElzSndwNHFGYzRmekRBRGdIeThFajVIWFdxVnZOaXFLeGlPWk85YnlfNGVlU0pObXBWbDdKVklmRHA2T3p2dFQxdVg2aFZWalozRDc5Nw?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 조희대 탄핵촉구 촛불집회에서 발언하는 신장식 대표 - www.gukjenews.com
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조희대 탄핵촉구 촛불집회에서 발언하는 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBDbjBWcnVkeXYzandidUh2emRnMWVySlhBZ1NvRUk2cGpqNU1OazZ1a3V1MWJhQmlpOXh2MmxNbl8yektrSWNyTjByOVEzaDJpSUU5MldMWGZOQ0hZVDBMVlFZc2kxemphTU9YeHFR?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식, 조희대 탄핵촉구 촛불집회 발언 - www.gukjenews.com
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식, 조희대 탄핵촉구 촛불집회 발언
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBXT29BdWNqRWl3a3FBVF8wanVxY3NOSE14RmtrWlJZYVo1Z1U1TUVvMGdORzhjd1VmakNST3pweVR6b2xoYUwwWVk4bllub2dwQk1IZHkwa1Fyd3EyYWJwenNSd0YxMS1YdnNuTEhn?oc=5)
+
+---
+
