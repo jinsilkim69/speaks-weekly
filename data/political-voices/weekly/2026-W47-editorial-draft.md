@@ -7840,3 +7840,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Law firm that reached deal with Trump has provided nearly $12 million in free legal work for administration - CBS News
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Law firm that reached deal with Trump has provided nearly $12 million in free legal work for administration
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilgFBVV95cUxOenI5dEkyM3J5aDhuSzRZMHZkOUNpa0JSdmFvTV9ndWZhak5zQ0Q1eFRMczFFYWhvdnJ3V2lCSDlXLTA2amVuLW9zQTdmdGROYl9OSXdBbExFenRnS0p5bVFDNlJKanYyZVdWUThyMktoNUJtcUF0a2pzV2JsVVFIa1lKTzRTQnhwYU9YRXFpZXRMVWxTekE?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump calls China trip ‘Great and Highly Consequential,’ announces Friday news conference - New York Post
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump calls China trip ‘Great and Highly Consequential,’ announces Friday news conference
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc0lLd21GZmxUa3dlbWZyTjFxdEpnc0tSZ2FBTTN1aGlNWXlpQU8ySzh3QUUwbDY1Z1JEU3UyWVFPQzRkWjNma21YZlBNTGlQNG5SSkZ6bmFrV0xSZkllMmhWZjA5V0JsdXRtNmpYQTUwYWhjTjAxaGIwZ2dfTFZ2Ulc3QlBlM2RLTG1xX01aRllWVWFEX3pJckRzNVJ5azJVRlpYenFmbjFoVTZZdmRIUUU5dmFNejFPS2phbXE0NENaajA?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Explodes in Weird All-Caps Rant From AF1 En Route Back from China - Yahoo
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Explodes in Weird All-Caps Rant From AF1 En Route Back from China
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUEzVkJwOGFjcFhUa1lCbkZYenpCSlBHRGswTUhtMkNjOFJpNmFSSExXcF9wZlVyaENGQlVfQks4VXk4cDFKb1NQaGtxZ25rMDRsTFU4aTVJd054UGdub3BnajlVUE5oajQ0YWd3cWdiR3NHa3RvM1NoVVlEWWp2UUZIbDBKMVhqUS1OWjBEbWJJUkpG?oc=5)
+
+---
+
