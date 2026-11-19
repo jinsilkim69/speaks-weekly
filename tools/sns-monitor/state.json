@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-19T07:51:18.511Z",
       "title": "친청 당원 모임, 김민석 대표 향해 \"'최민희 불공정 징계' 중단하라\" - 뉴데일리",
       "targetName": "김민석"
+    },
+    "1763e8eef20d329d5f704aa4da3148e1cc299dee01d42ef1881501d0aa013067": {
+      "seenAt": "2026-11-19T08:01:16.595Z",
+      "title": "외교부, 日조국 입국 거부에 “전과 때문…독도 방문 관련 없어” - 중앙일보",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "1763e8eef20d329d5f704aa4da3148e1cc299dee01d42ef1881501d0aa013067",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "외교부, 日조국 입국 거부에 “전과 때문…독도 방문 관련 없어” - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zMUdQOXBmTzNUX2QzMUJFaHJrSFA4ZnZhb3VNZV9KeTRIdkJ3aENXaUZxdHplbVRKcHlUb1NubVJtNk55ME5HcENqSmhYLWtkSmcxa3RR?oc=5\" target=\"_blank\">외교부, 日조국 입국 거부에 “전과 때문…독도 방문 관련 없어”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zMUdQOXBmTzNUX2QzMUJFaHJrSFA4ZnZhb3VNZV9KeTRIdkJ3aENXaUZxdHplbVRKcHlUb1NubVJtNk55ME5HcENqSmhYLWtkSmcxa3RR?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 15:40:32 GMT",
-        "source": "중앙일보",
-        "ageHours": 16.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
