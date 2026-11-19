@@ -6683,3 +6683,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "죽창가, 사퇴 각오하고…日과 무역전쟁 결과 소부장 강화" - 뉴스1
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "죽창가, 사퇴 각오하고…日과 무역전쟁 결과 소부장 강화"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZ1ItZ3ctNXhRVnMtTXlIZ0tmdDJwYVFIV2RVMHdmX1M3VHRxUlA2OW9JMWtnQzZ1SWUtQlI4N1JxRlNQSlRFT1RaUFN1eUxZdzFTTkVBNXl4Zw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WLOS
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0otdVhpR2hyOTNBU3hkNzBaOVp4T1Zld2Q1Wk90ak4zR191QUFCQkpiU0RQbkVlU2F0TkVENjdzcUc3T1hMcVZlVzhscjFVUmx5NW5RaVp2cXVRLTc4dk5JNUJHRDJEOG81VjRVV2ZxWG9uNEh0YWJJT0FkZUlZVFJ0Mjl3RThLVlNfV3c4UlZhOTdRZUtyNkMtdWRDT0QtUktRMGFiN0lBWEM4UWR3V1hFSEdoYW9s?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** ‘PRESIDENT MARCOS IS A POWERFUL LEADER, AND A MAN OF HIGH INTEGRITY AND SUBSTANCE’ US President Donald Trump is now heading to China after his state visit to the Philippines, where he announced a new trade deal between the two cou - Facebook
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘PRESIDENT MARCOS IS A POWERFUL LEADER, AND A MAN OF HIGH INTEGRITY AND SUBSTANCE’ US President Donald Trump is now heading to China after his state visit to the Philippines, where he announced a new trade deal between the two cou
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY1pzLWlweGVKT2tZVUZnY0FpUDR3eWVKSXJkUGFUUUFuU1Mxb1F4WXFMd0I2d0Rtb0pmQnlILVllU0xHNUpDTUlIWDRtU3c1c21sS2VmSU9QOXBjb054aGIyMHJqdjBhTFk4WGM1aEMzTlVETG54ODZrRVVPNldfaVN0V3J0ZE05ay04WGpXUXpYMFZXRWNsdEtZMlBmX1JLbTZfZW94SE56UUI4akktWk1HempWSkJ2UFFLc013WllEcTI4eVJmQktCa1BERURMTlQ4?oc=5)
+
+---
+

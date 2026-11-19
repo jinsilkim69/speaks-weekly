@@ -1761,5 +1761,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "67cc973f5aa3ce962fe0b8988c459d250d53ea08702f1d507862b019a87be53e",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 \"죽창가, 사퇴 각오하고…日과 무역전쟁 결과 소부장 강화\" - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZ1ItZ3ctNXhRVnMtTXlIZ0tmdDJwYVFIV2RVMHdmX1M3VHRxUlA2OW9JMWtnQzZ1SWUtQlI4N1JxRlNQSlRFT1RaUFN1eUxZdzFTTkVBNXl4Zw?oc=5\" target=\"_blank\">조국 \"죽창가, 사퇴 각오하고…日과 무역전쟁 결과 소부장 강화\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZ1ItZ3ctNXhRVnMtTXlIZ0tmdDJwYVFIV2RVMHdmX1M3VHRxUlA2OW9JMWtnQzZ1SWUtQlI4N1JxRlNQSlRFT1RaUFN1eUxZdzFTTkVBNXl4Zw?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 04:59:09 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"죽창가, 사퇴 각오하고…日과 무역전쟁 결과 소부장 강화\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "3ef508ac3bcf87368527ca8d9dbe80562bbc0434e4a69d461570abfdb8719e6d",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WLOS",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0otdVhpR2hyOTNBU3hkNzBaOVp4T1Zld2Q1Wk90ak4zR191QUFCQkpiU0RQbkVlU2F0TkVENjdzcUc3T1hMcVZlVzhscjFVUmx5NW5RaVp2cXVRLTc4dk5JNUJHRDJEOG81VjRVV2ZxWG9uNEh0YWJJT0FkZUlZVFJ0Mjl3RThLVlNfV3c4UlZhOTdRZUtyNkMtdWRDT0QtUktRMGFiN0lBWEM4UWR3V1hFSEdoYW9s?oc=5\" target=\"_blank\">No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOS</font>",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0otdVhpR2hyOTNBU3hkNzBaOVp4T1Zld2Q1Wk90ak4zR191QUFCQkpiU0RQbkVlU2F0TkVENjdzcUc3T1hMcVZlVzhscjFVUmx5NW5RaVp2cXVRLTc4dk5JNUJHRDJEOG81VjRVV2ZxWG9uNEh0YWJJT0FkZUlZVFJ0Mjl3RThLVlNfV3c4UlZhOTdRZUtyNkMtdWRDT0QtUktRMGFiN0lBWEM4UWR3V1hFSEdoYW9s?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 17:40:39 GMT",
+    "source": "WLOS",
+    "ageHours": 11.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "f57bb0ba64c99cc0f5aef41439c3632520974a2d91f82f69a334bef729825a9e",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "‘PRESIDENT MARCOS IS A POWERFUL LEADER, AND A MAN OF HIGH INTEGRITY AND SUBSTANCE’ US President Donald Trump is now heading to China after his state visit to the Philippines, where he announced a new trade deal between the two cou - Facebook",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY1pzLWlweGVKT2tZVUZnY0FpUDR3eWVKSXJkUGFUUUFuU1Mxb1F4WXFMd0I2d0Rtb0pmQnlILVllU0xHNUpDTUlIWDRtU3c1c21sS2VmSU9QOXBjb054aGIyMHJqdjBhTFk4WGM1aEMzTlVETG54ODZrRVVPNldfaVN0V3J0ZE05ay04WGpXUXpYMFZXRWNsdEtZMlBmX1JLbTZfZW94SE56UUI4akktWk1HempWSkJ2UFFLc013WllEcTI4eVJmQktCa1BERURMTlQ4?oc=5\" target=\"_blank\">‘PRESIDENT MARCOS IS A POWERFUL LEADER, AND A MAN OF HIGH INTEGRITY AND SUBSTANCE’ US President Donald Trump is now heading to China after his state visit to the Philippines, where he announced a new trade deal between the two cou</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facebook</font>",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY1pzLWlweGVKT2tZVUZnY0FpUDR3eWVKSXJkUGFUUUFuU1Mxb1F4WXFMd0I2d0Rtb0pmQnlILVllU0xHNUpDTUlIWDRtU3c1c21sS2VmSU9QOXBjb054aGIyMHJqdjBhTFk4WGM1aEMzTlVETG54ODZrRVVPNldfaVN0V3J0ZE05ay04WGpXUXpYMFZXRWNsdEtZMlBmX1JLbTZfZW94SE56UUI4akktWk1HempWSkJ2UFFLc013WllEcTI4eVJmQktCa1BERURMTlQ4?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 03:41:00 GMT",
+    "source": "Facebook",
+    "ageHours": 1.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘PRESIDENT MARCOS IS A POWERFUL LEADER, AND A MAN OF HIGH INTEGRITY AND SUBSTANCE’ US President Donald Trump is now heading to China after his state visit to the Philippines, where he announced a new trade deal between the two cou",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T05:21:17.308Z",
+  "lastCheckedAt": "2026-11-19T05:31:17.042Z",
   "seenPostIds": {
-    "d1a3b67656abb3d569f79073f78788bfa97cd4c105743ff358062b5a1bfd302c": {
-      "seenAt": "2026-11-16T02:01:19.021Z",
-      "title": "장동혁, 오세훈, 한동훈의 삼국지.. 이준석의 짜증엔 이유가 있다? - 최보식의언론",
-      "targetName": "이준석"
-    },
-    "921d28f2efc660c9b30875e6b92cb7781216c4f631e095f0e8b64168bc4dbc18": {
-      "seenAt": "2026-11-16T02:11:20.182Z",
-      "title": "정청래, 한덕수 구속만료 하루 전 선고에 \"정치적 계산…조희대 탄핵감\" - 머니투데이 - 머니투데이",
-      "targetName": "정청래"
-    },
-    "7e9a70b3f77e35296bdf238ca14137d424ad4aba39ce174421818973a3e09e7e": {
-      "seenAt": "2026-11-16T02:11:20.903Z",
-      "title": "송영길 “24시간 관문공항 가덕도신공항, 국가균형발전 핵심 축” - 가야일보",
-      "targetName": "송영길"
-    },
     "9768bd58b7509703005ba2aa1367a6594e537551eb46c09c8ef41885c6712959": {
       "seenAt": "2026-11-16T02:21:22.373Z",
       "title": "박원석 \"민주당, 20대 총선 정청래 컷오프로 대승…이번엔 최민희라는 공감대\" - 네이트",
@@ -2515,56 +2500,22 @@
       "seenAt": "2026-11-19T05:21:20.130Z",
       "title": "장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망 - 뉴데일리",
       "targetName": "이준석"
+    },
+    "67cc973f5aa3ce962fe0b8988c459d250d53ea08702f1d507862b019a87be53e": {
+      "seenAt": "2026-11-19T05:31:18.434Z",
+      "title": "조국 \"죽창가, 사퇴 각오하고…日과 무역전쟁 결과 소부장 강화\" - 뉴스1",
+      "targetName": "조국"
+    },
+    "3ef508ac3bcf87368527ca8d9dbe80562bbc0434e4a69d461570abfdb8719e6d": {
+      "seenAt": "2026-11-19T05:31:19.214Z",
+      "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WLOS",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f57bb0ba64c99cc0f5aef41439c3632520974a2d91f82f69a334bef729825a9e": {
+      "seenAt": "2026-11-19T05:31:20.016Z",
+      "title": "‘PRESIDENT MARCOS IS A POWERFUL LEADER, AND A MAN OF HIGH INTEGRITY AND SUBSTANCE’ US President Donald Trump is now heading to China after his state visit to the Philippines, where he announced a new trade deal between the two cou - Facebook",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "67cc973f5aa3ce962fe0b8988c459d250d53ea08702f1d507862b019a87be53e",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 \"죽창가, 사퇴 각오하고…日과 무역전쟁 결과 소부장 강화\" - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZ1ItZ3ctNXhRVnMtTXlIZ0tmdDJwYVFIV2RVMHdmX1M3VHRxUlA2OW9JMWtnQzZ1SWUtQlI4N1JxRlNQSlRFT1RaUFN1eUxZdzFTTkVBNXl4Zw?oc=5\" target=\"_blank\">조국 \"죽창가, 사퇴 각오하고…日과 무역전쟁 결과 소부장 강화\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZ1ItZ3ctNXhRVnMtTXlIZ0tmdDJwYVFIV2RVMHdmX1M3VHRxUlA2OW9JMWtnQzZ1SWUtQlI4N1JxRlNQSlRFT1RaUFN1eUxZdzFTTkVBNXl4Zw?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 04:59:09 GMT",
-        "source": "뉴스1",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "3ef508ac3bcf87368527ca8d9dbe80562bbc0434e4a69d461570abfdb8719e6d",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WLOS",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0otdVhpR2hyOTNBU3hkNzBaOVp4T1Zld2Q1Wk90ak4zR191QUFCQkpiU0RQbkVlU2F0TkVENjdzcUc3T1hMcVZlVzhscjFVUmx5NW5RaVp2cXVRLTc4dk5JNUJHRDJEOG81VjRVV2ZxWG9uNEh0YWJJT0FkZUlZVFJ0Mjl3RThLVlNfV3c4UlZhOTdRZUtyNkMtdWRDT0QtUktRMGFiN0lBWEM4UWR3V1hFSEdoYW9s?oc=5\" target=\"_blank\">No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOS</font>",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS0otdVhpR2hyOTNBU3hkNzBaOVp4T1Zld2Q1Wk90ak4zR191QUFCQkpiU0RQbkVlU2F0TkVENjdzcUc3T1hMcVZlVzhscjFVUmx5NW5RaVp2cXVRLTc4dk5JNUJHRDJEOG81VjRVV2ZxWG9uNEh0YWJJT0FkZUlZVFJ0Mjl3RThLVlNfV3c4UlZhOTdRZUtyNkMtdWRDT0QtUktRMGFiN0lBWEM4UWR3V1hFSEdoYW9s?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 17:40:39 GMT",
-        "source": "WLOS",
-        "ageHours": 11.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f57bb0ba64c99cc0f5aef41439c3632520974a2d91f82f69a334bef729825a9e",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "‘PRESIDENT MARCOS IS A POWERFUL LEADER, AND A MAN OF HIGH INTEGRITY AND SUBSTANCE’ US President Donald Trump is now heading to China after his state visit to the Philippines, where he announced a new trade deal between the two cou - Facebook",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY1pzLWlweGVKT2tZVUZnY0FpUDR3eWVKSXJkUGFUUUFuU1Mxb1F4WXFMd0I2d0Rtb0pmQnlILVllU0xHNUpDTUlIWDRtU3c1c21sS2VmSU9QOXBjb054aGIyMHJqdjBhTFk4WGM1aEMzTlVETG54ODZrRVVPNldfaVN0V3J0ZE05ay04WGpXUXpYMFZXRWNsdEtZMlBmX1JLbTZfZW94SE56UUI4akktWk1HempWSkJ2UFFLc013WllEcTI4eVJmQktCa1BERURMTlQ4?oc=5\" target=\"_blank\">‘PRESIDENT MARCOS IS A POWERFUL LEADER, AND A MAN OF HIGH INTEGRITY AND SUBSTANCE’ US President Donald Trump is now heading to China after his state visit to the Philippines, where he announced a new trade deal between the two cou</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facebook</font>",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY1pzLWlweGVKT2tZVUZnY0FpUDR3eWVKSXJkUGFUUUFuU1Mxb1F4WXFMd0I2d0Rtb0pmQnlILVllU0xHNUpDTUlIWDRtU3c1c21sS2VmSU9QOXBjb054aGIyMHJqdjBhTFk4WGM1aEMzTlVETG54ODZrRVVPNldfaVN0V3J0ZE05ay04WGpXUXpYMFZXRWNsdEtZMlBmX1JLbTZfZW94SE56UUI4akktWk1HempWSkJ2UFFLc013WllEcTI4eVJmQktCa1BERURMTlQ4?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 03:41:00 GMT",
-        "source": "Facebook",
-        "ageHours": 1.7
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
