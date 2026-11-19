@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-19T20:51:20.264Z",
+  "lastCheckedAt": "2026-11-19T21:11:45.486Z",
   "seenPostIds": {
     "f261f0a9693eb9093b0dddcec75f005410b44022fc4ce0181419df2b944f3fbe": {
       "seenAt": "2026-11-16T22:51:25.831Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-19T20:21:19.596Z",
       "title": "Trump urges Congress to pass a new farm bill - Bradenton Herald",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "b89ec103e12bbde72ef9453a158ea0e202d4285fe137e85e38c7c22c35bbf669": {
+      "seenAt": "2026-11-19T21:11:46.557Z",
+      "title": "전합 판결인데 조희대만?…한동훈 \"與, 탄핵하려면 대법관 전원 하라\" 등 [11/20(금) 데일리안 출근길 뉴스] - 데일리안",
+      "targetName": "한동훈"
     }
   },
   "pending": []

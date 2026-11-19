@@ -7970,3 +7970,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 전합 판결인데 조희대만?…한동훈 "與, 탄핵하려면 대법관 전원 하라" 등 [11/20(금) 데일리안 출근길 뉴스] - 데일리안
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 전합 판결인데 조희대만?…한동훈 "與, 탄핵하려면 대법관 전원 하라" 등
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowJBVV95cUxQSVZxc0NvNUVhbm9mb2o0UUdlOUk3UENXWHQ0X2FuYzlPbkdfQWJVb1RMWWhjSEtYZjlvUXhELVJ0aWtvSVdHQWI5Rm82Sl9HclpBUFNxaHZWakRKNkFINnExTjl5ZzlGSmdGRlZ5NFdwb2xUbEo1cF8zZ25LN3Q1aHZ6NWhXWTVyUFRNa2Y2ZXBkR3JTVWFYeDRXNVJhX3c2OWlfRlBDZzE1Ym5Gd1dkT0lRaUxZQ1RFZ3Y2b2NJQTRFdWthYUE1NlZnWmJFa1VuLVhnYmItSm52cFBLRnJUcG5IM3VNeVRiVy12RWR4emhiSWh4OGczWWtjMHBUMkZuNVlVZHlpQjk3WXJLRFBMWUg4ZW5RNjdMVkNfWGRPaXVHSjA?oc=5)
+
+---
+
