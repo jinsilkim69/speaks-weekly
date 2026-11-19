@@ -7931,3 +7931,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 선명해지는 정청래의 '100일 깃발' 메시지…영향력은? - 민주신문
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 선명해지는 정청래의 '100일 깃발' 메시지…영향력은?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BNVJjVFNrU2Y3aHlTYlo5ZlZvZlNwd2ZjMkZHdEVrQkt4X0lBRjNORTNVM3RiUHRZNzQyU09MNFczM1JrUWZKVzhIbVdKdGxhZTg4aWpxX3FBcmR6UUJteHhBM0tnWUXSAWtBVV95cUxOY2tHTDBxbzJQendGa0JBb0JoU29qa3o0Y010dGxPWmlKcVRqUURLb2V2TC1JLWVzbmR0SkpGeVRfWUFrN2ppQ083UGdUZmxjS2EtZ1pzaHFHc29DVi1wMVRER0h4M090aEF5RQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 입국 거부, 법대로라지만…日 심사 기준 따져보니 - 쿠키뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 입국 거부, 법대로라지만…日 심사 기준 따져보니
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VZFQxU1lXZmhLVkNoOHZtVEZUeUZiN210Nm1GWXlQZlJhV1BHUFlDMEt2b2pYdEdINE1abm92NXFQT2FnSWRmdmNUSE0yRGxXMTVHWE50MS1uZWtjc1FaZHRiRQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump urges Congress to pass a new farm bill - Bradenton Herald
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump urges Congress to pass a new farm bill
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE9uLWNZaGJ6NUNIRG5TVDVJRlJvLVZ4TzJWLWs2TVVfSE9IYXc5X3dkSmtlUEM1R2hZM1JidXhfajduT2tKajctblFBejcwWFBENkRXbmRhSkJiN1pMOWdlQUhNQmV4NUJiQkZhQjdHSmQyRko4VkVJaTdiczRUa3M?oc=5)
+
+---
+

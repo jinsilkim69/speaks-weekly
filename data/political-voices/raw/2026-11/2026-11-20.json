@@ -402,5 +402,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "35dc5f93a9ca4e59e22bba3ae0f42807fcc70ea3ee3fd133e632e79b848c7aa3",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "선명해지는 정청래의 '100일 깃발' 메시지…영향력은? - 민주신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BNVJjVFNrU2Y3aHlTYlo5ZlZvZlNwd2ZjMkZHdEVrQkt4X0lBRjNORTNVM3RiUHRZNzQyU09MNFczM1JrUWZKVzhIbVdKdGxhZTg4aWpxX3FBcmR6UUJteHhBM0tnWUXSAWtBVV95cUxOY2tHTDBxbzJQendGa0JBb0JoU29qa3o0Y010dGxPWmlKcVRqUURLb2V2TC1JLWVzbmR0SkpGeVRfWUFrN2ppQ083UGdUZmxjS2EtZ1pzaHFHc29DVi1wMVRER0h4M090aEF5RQ?oc=5\" target=\"_blank\">선명해지는 정청래의 '100일 깃발' 메시지…영향력은?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">민주신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BNVJjVFNrU2Y3aHlTYlo5ZlZvZlNwd2ZjMkZHdEVrQkt4X0lBRjNORTNVM3RiUHRZNzQyU09MNFczM1JrUWZKVzhIbVdKdGxhZTg4aWpxX3FBcmR6UUJteHhBM0tnWUXSAWtBVV95cUxOY2tHTDBxbzJQendGa0JBb0JoU29qa3o0Y010dGxPWmlKcVRqUURLb2V2TC1JLWVzbmR0SkpGeVRfWUFrN2ppQ083UGdUZmxjS2EtZ1pzaHFHc29DVi1wMVRER0h4M090aEF5RQ?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 07:19:07 GMT",
+    "source": "민주신문",
+    "ageHours": 13,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 선명해지는 정청래의 '100일 깃발' 메시지…영향력은?",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "a056b078ed6e2662ed21bb34efcfaf1eb0f529e236bb1ee686473d90bfc14baa",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 입국 거부, 법대로라지만…日 심사 기준 따져보니 - 쿠키뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VZFQxU1lXZmhLVkNoOHZtVEZUeUZiN210Nm1GWXlQZlJhV1BHUFlDMEt2b2pYdEdINE1abm92NXFQT2FnSWRmdmNUSE0yRGxXMTVHWE50MS1uZWtjc1FaZHRiRQ?oc=5\" target=\"_blank\">조국 입국 거부, 법대로라지만…日 심사 기준 따져보니</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">쿠키뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VZFQxU1lXZmhLVkNoOHZtVEZUeUZiN210Nm1GWXlQZlJhV1BHUFlDMEt2b2pYdEdINE1abm92NXFQT2FnSWRmdmNUSE0yRGxXMTVHWE50MS1uZWtjc1FaZHRiRQ?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 15:59:54 GMT",
+    "source": "쿠키뉴스",
+    "ageHours": 4.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 입국 거부, 법대로라지만…日 심사 기준 따져보니",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "3e00616f6d7adf62a422221857f01cbadfba10b956910336bc3303c845ca6cf4",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump urges Congress to pass a new farm bill - Bradenton Herald",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9uLWNZaGJ6NUNIRG5TVDVJRlJvLVZ4TzJWLWs2TVVfSE9IYXc5X3dkSmtlUEM1R2hZM1JidXhfajduT2tKajctblFBejcwWFBENkRXbmRhSkJiN1pMOWdlQUhNQmV4NUJiQkZhQjdHSmQyRko4VkVJaTdiczRUa3M?oc=5\" target=\"_blank\">Trump urges Congress to pass a new farm bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bradenton Herald</font>",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uLWNZaGJ6NUNIRG5TVDVJRlJvLVZ4TzJWLWs2TVVfSE9IYXc5X3dkSmtlUEM1R2hZM1JidXhfajduT2tKajctblFBejcwWFBENkRXbmRhSkJiN1pMOWdlQUhNQmV4NUJiQkZhQjdHSmQyRko4VkVJaTdiczRUa3M?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 14:11:08 GMT",
+    "source": "Bradenton Herald",
+    "ageHours": 6.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump urges Congress to pass a new farm bill",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
