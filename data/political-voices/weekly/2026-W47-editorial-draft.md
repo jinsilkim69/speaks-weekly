@@ -7619,3 +7619,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 추미애 "김민석, 3자 비밀연합 증거 없다 인정…사과로 끝낼 문제 아냐" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애 "김민석, 3자 비밀연합 증거 없다 인정…사과로 끝낼 문제 아냐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1UR0lyR0J5VmdCVFZZeWtwbnU2cmVZUl9hMVRrYWpLRHp4aHJPcmFyVW5tTndxMVJZQjVYSHZLdFRadldmZHU5ZzRkRXlFUnFEdm5GZUc5aUVIbTlOb3JUNWVhcWEzaTBYd0pwbtIBckFVX3lxTE9LLUNTY0FTNEk1Q3pHZGFsWHV1Q3hKVXp6VWw4Q2lUZW5pZFRHeFh2Mm5Hd3p0ZTUza0QwTU9ralJ6RHN0N3FhZFRJWEdCdng0UUQtLS1ERFROMWZjN01PbTR3Z0tKakFpU2VpdDRpNW11UQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Media wants to clear $884 million of debt without selling its bitcoin (BTC) - CoinDesk
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Media wants to clear $884 million of debt without selling its bitcoin (BTC)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWZCWTRlS0ljSl9PRmJvTHlicjJWSW80SG1UME1GdUpCNml3cEI5RVV4bEFmVzREM01xblRlMktZWF9aSlBiaU5mUS1sZ2IzX2pCUjhvdm5acW80UUthenpOM0hlZWtFWml3TmNaRllKdFhXYmtRTk5EVzhZRjZQNVBxVnNLNGNLbGU4TnpDMVdMcmJOMklia3JuMVo2bS1oMUxlVWlYcTdRMC1ZVkgxN0Q1eFpDbXZwQ1dsVlpn?oc=5)
+
+---
+
