@@ -100,5 +100,57 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "90e3bde1b1ad0e3c3f5621b4fee9a73f187d51eefec3dc6004768f544bf868e2",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라 - 인터넷타임즈",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBkZzRuLUxwMDlHbkJyTXhvb0paT2RiYlltaTVZQmI4TE0xRlVCS3NBNlRLT24zVURnNXFva0ZoSE4wZmwxaDNoLW0tOEprc3RRY3ZnTDlldTd5UGNoYThzZEljNUZ3LTBxVHQtZw?oc=5\" target=\"_blank\">정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인터넷타임즈</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkZzRuLUxwMDlHbkJyTXhvb0paT2RiYlltaTVZQmI4TE0xRlVCS3NBNlRLT24zVURnNXFva0ZoSE4wZmwxaDNoLW0tOEprc3RRY3ZnTDlldTd5UGNoYThzZEljNUZ3LTBxVHQtZw?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 15:45:31 GMT",
+    "source": "인터넷타임즈",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언",
+        "외교통상"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "dfb963d48ccb5962af5c152d15c8531e6580624e963b97c2e6331c948775a1cc",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라 - 인터넷타임즈",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBkZzRuLUxwMDlHbkJyTXhvb0paT2RiYlltaTVZQmI4TE0xRlVCS3NBNlRLT24zVURnNXFva0ZoSE4wZmwxaDNoLW0tOEprc3RRY3ZnTDlldTd5UGNoYThzZEljNUZ3LTBxVHQtZw?oc=5\" target=\"_blank\">정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인터넷타임즈</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkZzRuLUxwMDlHbkJyTXhvb0paT2RiYlltaTVZQmI4TE0xRlVCS3NBNlRLT24zVURnNXFva0ZoSE4wZmwxaDNoLW0tOEprc3RRY3ZnTDlldTd5UGNoYThzZEljNUZ3LTBxVHQtZw?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 15:45:31 GMT",
+    "source": "인터넷타임즈",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "외교통상"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T15:41:18.449Z",
+  "lastCheckedAt": "2026-11-19T15:51:19.500Z",
   "seenPostIds": {
-    "4f4037ae31824fa153302389b20cd9b43e4c85ab28a364d3787a92eabb87fb1f": {
-      "seenAt": "2026-11-16T15:51:27.785Z",
-      "title": "Trump Keeps Posting Weird AI Slop Instead of Talking About FAA Outage - The New Republic",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "beca68f583a8bddec8f7bb85f588179660b213ace6c6c4a1521355fc66a2637a": {
       "seenAt": "2026-11-16T16:01:28.055Z",
       "title": "최민희, 90도 사과했지만… 김민석 \"당헌 따라 처리\" - 조선일보",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-19T15:41:19.523Z",
       "title": "김민석도 강공 돌아섰다…“대법 역사적 반역, 조희대 탄핵” - 중앙일보",
       "targetName": "김민석"
+    },
+    "90e3bde1b1ad0e3c3f5621b4fee9a73f187d51eefec3dc6004768f544bf868e2": {
+      "seenAt": "2026-11-19T15:51:20.882Z",
+      "title": "정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라 - 인터넷타임즈",
+      "targetName": "정청래"
+    },
+    "dfb963d48ccb5962af5c152d15c8531e6580624e963b97c2e6331c948775a1cc": {
+      "seenAt": "2026-11-19T15:51:21.687Z",
+      "title": "정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라 - 인터넷타임즈",
+      "targetName": "조국"
     }
   },
   "pending": []
