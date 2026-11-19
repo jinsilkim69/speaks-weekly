@@ -6930,3 +6930,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 박상규, 조국 일본 입국 거부에 "日정부가 원칙을 택한 것...법대로 한 것 뿐" - 펜앤마이크
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박상규, 조국 일본 입국 거부에 "日정부가 원칙을 택한 것...법대로 한 것 뿐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE03ZmJXSjNheU9NT2MzR2o5ZmxtaFUyS193OVpHM1VVZXp3NWFCdmhOaXczUFEzNnh2UUQyREZ3V0ZaLUpFeXlXelZoX0NtamE2UGlSd0NFTjdnTWJXWlpHT0Rla3JmNFZNNHRr?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** "독도 방문이 조국 입국 거부 사유?…일본은 이유 밝혀야"[박영환의 시사1번지] - KBC광주방송
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "독도 방문이 조국 입국 거부 사유?…일본은 이유 밝혀야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xUHFLa2ZfWTV2YjZjYXlKeWxMelB5NXdoX0FEMXRzRDFYYTBfdi1tbDZWT29CdFFXbFA5VE8wb0t5UE92Y0J2MVJSbDE4SU9McGVIaGFpRTFtVktYZlRlZg?oc=5)
+
+---
+

@@ -2240,5 +2240,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "ce89ff9836d9945c06b6f389b6fdb46f718cbf4adbb627e1b893c0d11643d06a",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "박상규, 조국 일본 입국 거부에 \"日정부가 원칙을 택한 것...법대로 한 것 뿐\" - 펜앤마이크",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE03ZmJXSjNheU9NT2MzR2o5ZmxtaFUyS193OVpHM1VVZXp3NWFCdmhOaXczUFEzNnh2UUQyREZ3V0ZaLUpFeXlXelZoX0NtamE2UGlSd0NFTjdnTWJXWlpHT0Rla3JmNFZNNHRr?oc=5\" target=\"_blank\">박상규, 조국 일본 입국 거부에 \"日정부가 원칙을 택한 것...법대로 한 것 뿐\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">펜앤마이크</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03ZmJXSjNheU9NT2MzR2o5ZmxtaFUyS193OVpHM1VVZXp3NWFCdmhOaXczUFEzNnh2UUQyREZ3V0ZaLUpFeXlXelZoX0NtamE2UGlSd0NFTjdnTWJXWlpHT0Rla3JmNFZNNHRr?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 01:23:00 GMT",
+    "source": "펜앤마이크",
+    "ageHours": 5.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 박상규, 조국 일본 입국 거부에 \"日정부가 원칙을 택한 것...법대로 한 것 뿐\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "8ccfef3fc266283edf9b8c04ad28f7b6380dd784dd44c3d9a925c165eb22618b",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "\"독도 방문이 조국 입국 거부 사유?…일본은 이유 밝혀야\"[박영환의 시사1번지] - KBC광주방송",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xUHFLa2ZfWTV2YjZjYXlKeWxMelB5NXdoX0FEMXRzRDFYYTBfdi1tbDZWT29CdFFXbFA5VE8wb0t5UE92Y0J2MVJSbDE4SU9McGVIaGFpRTFtVktYZlRlZg?oc=5\" target=\"_blank\">\"독도 방문이 조국 입국 거부 사유?…일본은 이유 밝혀야\"[박영환의 시사1번지]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xUHFLa2ZfWTV2YjZjYXlKeWxMelB5NXdoX0FEMXRzRDFYYTBfdi1tbDZWT29CdFFXbFA5VE8wb0t5UE92Y0J2MVJSbDE4SU9McGVIaGFpRTFtVktYZlRlZg?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 08:30:01 GMT",
+    "source": "KBC광주방송",
+    "ageHours": 22.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"독도 방문이 조국 입국 거부 사유?…일본은 이유 밝혀야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
