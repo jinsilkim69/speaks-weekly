@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T15:51:19.500Z",
+  "lastCheckedAt": "2026-11-19T16:11:28.343Z",
   "seenPostIds": {
-    "beca68f583a8bddec8f7bb85f588179660b213ace6c6c4a1521355fc66a2637a": {
-      "seenAt": "2026-11-16T16:01:28.055Z",
-      "title": "최민희, 90도 사과했지만… 김민석 \"당헌 따라 처리\" - 조선일보",
-      "targetName": "김민석"
-    },
-    "62a7d11daba902709b222ae1783cf68f7c4040325412910109fb2f8f81914fc4": {
-      "seenAt": "2026-11-16T16:21:20.859Z",
-      "title": "이재명 대통령, 한-아세안 정상회의 참석…태국·필리핀과 정상회담도 - 연합뉴스",
-      "targetName": "이재명"
-    },
     "c27242a682a38773af9a5f34f63d646ffb7543671c7e2329d30938675603e8d5": {
       "seenAt": "2026-11-16T16:21:21.511Z",
       "title": "Here’s What Trump Was Doing While the FAA Imploded - The New Republic",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-19T15:51:21.687Z",
       "title": "정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라 - 인터넷타임즈",
       "targetName": "조국"
+    },
+    "a35fbc79addaa06b414eb11bd89a9f393ac46f5921e8b9d801236af852b24d2c": {
+      "seenAt": "2026-11-19T16:11:29.897Z",
+      "title": "Awkward moments from Trump and Xi’s meeting: Holding hands and accusations of falling asleep - Yahoo News Canada",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

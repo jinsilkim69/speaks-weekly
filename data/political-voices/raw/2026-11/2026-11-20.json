@@ -152,5 +152,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "a35fbc79addaa06b414eb11bd89a9f393ac46f5921e8b9d801236af852b24d2c",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Awkward moments from Trump and Xi’s meeting: Holding hands and accusations of falling asleep - Yahoo News Canada",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8tbXE0QVVneE5LRnhyYVg1T0ExY2NoTWxwZkVINDg3MXZ4Rk5pUGJ2bnhZcEt1aElSbnhKZkxyZjlQOVBmbmZBellTcWRWbEluWFRxWmVXT3NsNG93b0ZLOWlIZDVyOWYyOGx1cGl0UG9MTW5Kc2dYNnhPaG5nQQ?oc=5\" target=\"_blank\">Awkward moments from Trump and Xi’s meeting: Holding hands and accusations of falling asleep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Canada</font>",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tbXE0QVVneE5LRnhyYVg1T0ExY2NoTWxwZkVINDg3MXZ4Rk5pUGJ2bnhZcEt1aElSbnhKZkxyZjlQOVBmbmZBellTcWRWbEluWFRxWmVXT3NsNG93b0ZLOWlIZDVyOWYyOGx1cGl0UG9MTW5Kc2dYNnhPaG5nQQ?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 15:41:11 GMT",
+    "source": "Yahoo News Canada",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Awkward moments from Trump and Xi’s meeting: Holding hands and accusations of falling asleep",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
