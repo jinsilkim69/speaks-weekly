@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T23:11:16.943Z",
+  "lastCheckedAt": "2026-11-19T23:21:15.986Z",
   "seenPostIds": {
-    "6f8acfbf73c0a8a5a184ca95cd9ad2d28cb32a26ca595d05f6e4bcf0095b15f6": {
-      "seenAt": "2026-11-17T04:01:20.071Z",
-      "title": "與송영길 \"김민석·정청래 만나 대타협해야…포용해서 함께 가야\" - 조선일보",
-      "targetName": "정청래"
-    },
-    "65490f91bfe5395b79465aa7d7eb2bb453fe77398c0585a835a99463f089d299": {
-      "seenAt": "2026-11-17T04:01:20.812Z",
-      "title": "조계원 \"경고 받은 최민희, 엄중징계 불가피...정청래? 침묵 말고 입장 내야\" - YTN",
-      "targetName": "정청래"
-    },
-    "a57cdd48a94589e90c222ddf248af70d8abb437c05b4ef2c3ecc249eb426b899": {
-      "seenAt": "2026-11-17T04:11:22.843Z",
-      "title": "송영길 \"김민석·정청래, 대타협해야…집안싸움 할 때 아냐\" - 머니투데이 - 머니투데이",
-      "targetName": "정청래"
-    },
     "63ddc27a6c1053ffe4761abe1850c60eb7a6f6fcdc840eb361a8df413d7a7f74": {
       "seenAt": "2026-11-17T04:11:23.581Z",
       "title": "송영길 \"김민석·정청래, 대타협해야…집안싸움 할 때 아냐\" - 머니투데이 - 머니투데이",
@@ -2514,6 +2499,21 @@
     "280597dc5a70cf5b175ff4c54680be181a44593974cb1def6737c20e32dfb554": {
       "seenAt": "2026-11-19T23:11:19.507Z",
       "title": "President Donald Trump announces he's posthumously pardoned Pete Rose, who was reinstated by MLB last spring - Yahoo",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "0cbaf83544adc7e710ce987989e65011384a7abd93b38e679457eab83cf771d9": {
+      "seenAt": "2026-11-19T23:21:16.991Z",
+      "title": "한동훈 \"전국 재판 업무 중단을\"…이준석 \"李대통령 파기환송심 진행을\" - 뉴스1",
+      "targetName": "한동훈"
+    },
+    "f46e851e1345c20e86ccdfb0b2927471c3e883ac34f2952612c786dda0e14e12": {
+      "seenAt": "2026-11-19T23:21:17.621Z",
+      "title": "한동훈 \"조희대 탄핵하면 사법부 마비…대한민국 후진국 될 것\" - 이데일리",
+      "targetName": "한동훈"
+    },
+    "2acee1c9cabdbb96cea54b3abb23e9abb81152c7fe2612779770a7e36e56bd7b": {
+      "seenAt": "2026-11-19T23:21:18.214Z",
+      "title": "President Trump pardons disgraced MLB star Pete Rose, who died in 2024 - The Washington Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },

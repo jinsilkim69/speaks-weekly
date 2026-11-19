@@ -8165,3 +8165,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "전국 재판 업무 중단을"…이준석 "李대통령 파기환송심 진행을" - 뉴스1
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "전국 재판 업무 중단을"…이준석 "李대통령 파기환송심 진행을"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bem5sV0M3Y0lQNGZKa0pqNk1tVlU4eEpHR2pwM3EyWmphLTlIc2Q4Y255R3JoZ0daLWJQZTdEb3BhcXh5aTRwNDdHejV2R1NUZC1WVnc0TEZ1UQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵하면 사법부 마비…대한민국 후진국 될 것" - 이데일리
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵하면 사법부 마비…대한민국 후진국 될 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxOWkhOaHMwUjFXeGhNenJGTVN6OUFlNmpsT3NFV1A0MnJRdEFpRTBOSllweC11M2ZoNldyTVRDR1p3NlN0ak5ZYU5qWkV4TUlNMHhnX0JMclFmQkoyNnBNbW84aVYwZWNwTVVwbFczRW43S0pTWWZCU0ZYUHZSN1pTMg?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** President Trump pardons disgraced MLB star Pete Rose, who died in 2024 - The Washington Post
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] President Trump pardons disgraced MLB star Pete Rose, who died in 2024
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkpSbE5tY3pjZFNDMlUwSnludngyeVhKandVenhVYkhFRG0wNElTWlBiMzNvUzZINm1qb2xFOWl4RzIwSVpjaTRXU3MteE00VHg2eDlUWWFlaDJHV3dqVUE5MmtJMW5LT0JsLVdqTmk2ZEF1NDd2emZlbV9VNmtCQ1huaWxBTTl5S1FRRkVweFI2QzRSX05aRkxDYnltTWhBWHRiWjkyYVN6cjZZWXZBLW94M2tZR2c?oc=5)
+
+---
+

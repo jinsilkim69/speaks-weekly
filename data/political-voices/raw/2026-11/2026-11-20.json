@@ -857,5 +857,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "0cbaf83544adc7e710ce987989e65011384a7abd93b38e679457eab83cf771d9",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 \"전국 재판 업무 중단을\"…이준석 \"李대통령 파기환송심 진행을\" - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bem5sV0M3Y0lQNGZKa0pqNk1tVlU4eEpHR2pwM3EyWmphLTlIc2Q4Y255R3JoZ0daLWJQZTdEb3BhcXh5aTRwNDdHejV2R1NUZC1WVnc0TEZ1UQ?oc=5\" target=\"_blank\">한동훈 \"전국 재판 업무 중단을\"…이준석 \"李대통령 파기환송심 진행을\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bem5sV0M3Y0lQNGZKa0pqNk1tVlU4eEpHR2pwM3EyWmphLTlIc2Q4Y255R3JoZ0daLWJQZTdEb3BhcXh5aTRwNDdHejV2R1NUZC1WVnc0TEZ1UQ?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 22:33:21 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"전국 재판 업무 중단을\"…이준석 \"李대통령 파기환송심 진행을\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "f46e851e1345c20e86ccdfb0b2927471c3e883ac34f2952612c786dda0e14e12",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 \"조희대 탄핵하면 사법부 마비…대한민국 후진국 될 것\" - 이데일리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWkhOaHMwUjFXeGhNenJGTVN6OUFlNmpsT3NFV1A0MnJRdEFpRTBOSllweC11M2ZoNldyTVRDR1p3NlN0ak5ZYU5qWkV4TUlNMHhnX0JMclFmQkoyNnBNbW84aVYwZWNwTVVwbFczRW43S0pTWWZCU0ZYUHZSN1pTMg?oc=5\" target=\"_blank\">한동훈 \"조희대 탄핵하면 사법부 마비…대한민국 후진국 될 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWkhOaHMwUjFXeGhNenJGTVN6OUFlNmpsT3NFV1A0MnJRdEFpRTBOSllweC11M2ZoNldyTVRDR1p3NlN0ak5ZYU5qWkV4TUlNMHhnX0JMclFmQkoyNnBNbW84aVYwZWNwTVVwbFczRW43S0pTWWZCU0ZYUHZSN1pTMg?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 23:00:50 GMT",
+    "source": "이데일리",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"조희대 탄핵하면 사법부 마비…대한민국 후진국 될 것\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "2acee1c9cabdbb96cea54b3abb23e9abb81152c7fe2612779770a7e36e56bd7b",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "President Trump pardons disgraced MLB star Pete Rose, who died in 2024 - The Washington Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkpSbE5tY3pjZFNDMlUwSnludngyeVhKandVenhVYkhFRG0wNElTWlBiMzNvUzZINm1qb2xFOWl4RzIwSVpjaTRXU3MteE00VHg2eDlUWWFlaDJHV3dqVUE5MmtJMW5LT0JsLVdqTmk2ZEF1NDd2emZlbV9VNmtCQ1huaWxBTTl5S1FRRkVweFI2QzRSX05aRkxDYnltTWhBWHRiWjkyYVN6cjZZWXZBLW94M2tZR2c?oc=5\" target=\"_blank\">President Trump pardons disgraced MLB star Pete Rose, who died in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkpSbE5tY3pjZFNDMlUwSnludngyeVhKandVenhVYkhFRG0wNElTWlBiMzNvUzZINm1qb2xFOWl4RzIwSVpjaTRXU3MteE00VHg2eDlUWWFlaDJHV3dqVUE5MmtJMW5LT0JsLVdqTmk2ZEF1NDd2emZlbV9VNmtCQ1huaWxBTTl5S1FRRkVweFI2QzRSX05aRkxDYnltTWhBWHRiWjkyYVN6cjZZWXZBLW94M2tZR2c?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 23:10:06 GMT",
+    "source": "The Washington Post",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] President Trump pardons disgraced MLB star Pete Rose, who died in 2024",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
