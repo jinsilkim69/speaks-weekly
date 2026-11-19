@@ -1,26 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T07:51:16.076Z",
+  "lastCheckedAt": "2026-11-19T08:11:17.078Z",
   "seenPostIds": {
-    "5124f333a3c88f7689fe3db8b6f30c5996cd227d3b73c05b4685e38770c3e9e5": {
-      "seenAt": "2026-11-16T04:51:21.074Z",
-      "title": "조국혁신당 \"민주유공자법 19일 반드시 처리\"…조희대 탄핵도 촉구 - KBC광주방송",
-      "targetName": "조국"
-    },
-    "4cd87ef515e108bea7e977843c2ee0916e7c50732e781fd949bbb08412626101": {
-      "seenAt": "2026-11-16T05:01:18.165Z",
-      "title": "與, 한덕수 선고기일 지정에 \"만시지탄\"…정청래는 \"조희대 탄핵\" - 서플 뉴스",
-      "targetName": "정청래"
-    },
-    "b872f83c2b32208513d0644fd50f14932f1d0b1aa9a45ea8730077ebeb1efd20": {
-      "seenAt": "2026-11-16T05:31:19.495Z",
-      "title": "조국 \"한동훈 딸 천재인지 특검으로 확인하자\" - JTBC",
-      "targetName": "조국"
-    },
-    "b7c4b900c96351bf278fd154037ffa532b314a772e1663fb80df115df9dd14af": {
-      "seenAt": "2026-11-16T05:31:20.132Z",
-      "title": "[포토] 국회 본청 앞에서 발언하는 신장식 조국혁신당 대표 - 파이낸스투데이",
-      "targetName": "신장식"
-    },
     "f9e582f56761dadd159c5b8ee6b1d4de5808709e9d9088053fd3b1bed4cd94c9": {
       "seenAt": "2026-11-16T05:41:22.750Z",
       "title": "민주당 또 때린 조국 \"조희대는 행동 하는데 與는 말만 하고 있어\" - 데일리안",
@@ -2520,7 +2500,39 @@
       "seenAt": "2026-11-19T08:01:16.595Z",
       "title": "외교부, 日조국 입국 거부에 “전과 때문…독도 방문 관련 없어” - 중앙일보",
       "targetName": "조국"
+    },
+    "c78eab7f813701a470ed60da143f3e854d678c564dc40304ef4c44a65a278dda": {
+      "seenAt": "2026-11-19T08:11:18.441Z",
+      "title": "안철수, 한동훈 복당 반대 재확인…\"실수 고백이 먼저\" - 신아일보",
+      "targetName": "한동훈"
+    },
+    "50d528fc9a9554d14118cf9e83205ceace54ffc95584dd8f5891c182e80dbe2c": {
+      "seenAt": "2026-11-19T08:11:19.089Z",
+      "title": "김민석, 수출 1조달러에 \"日도 도달 못한 숫자…국민 모두의 성과\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
+    },
+    "b3887e491d7193e8fff499a902a78ae71a226a3f6f8e698faa3ca516c0f1f0c2": {
+      "seenAt": "2026-11-19T08:11:19.733Z",
+      "title": "정청래 “최민희 징계 강력 반대”, 추미애 “김민석부터 엄중 판단” - 중앙일보",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "9aa7974c108ab6f5bf482093b27251d0b0b409c909995154cd5ba5d872ac4e69",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "日정부, 조국 입국 거부에 \"법에 따른 조치\" - 연합뉴스TV",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5peWxFX0liMnVUNmNuUjIxNUNjRGZaaThWNWM2aUxhV0FycmRCcHVBd05Tc25lOFBsanpsRGZCdnNZX3k2NUNJT25xY2JIdjhVMWVzWnFoRGZCRWxOcTNJVzVrN29jcnM?oc=5\" target=\"_blank\">日정부, 조국 입국 거부에 \"법에 따른 조치\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5peWxFX0liMnVUNmNuUjIxNUNjRGZaaThWNWM2aUxhV0FycmRCcHVBd05Tc25lOFBsanpsRGZCdnNZX3k2NUNJT25xY2JIdjhVMWVzWnFoRGZCRWxOcTNJVzVrN29jcnM?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 09:22:00 GMT",
+        "source": "연합뉴스TV",
+        "ageHours": 22.8
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

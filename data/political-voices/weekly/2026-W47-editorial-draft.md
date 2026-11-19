@@ -7034,3 +7034,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 안철수, 한동훈 복당 반대 재확인…"실수 고백이 먼저" - 신아일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 안철수, 한동훈 복당 반대 재확인…"실수 고백이 먼저"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE80LXVtRlV2ZWdpTlY2MlBUZ0lKTFdnOXFQaUxyOWsxbTdYRE1hMXVxZTBfY3dMcVRHTlVJalFQb3EyenZ2RnpqUGNCQzRvSWw0MUdIeDEydnZiNG50bnVqSFUwYm01Y2dDem1Yb2pLbTI?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 수출 1조달러에 "日도 도달 못한 숫자…국민 모두의 성과" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 수출 1조달러에 "日도 도달 못한 숫자…국민 모두의 성과"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE8taEM0dDJxY1VwalV1bU9IRVJvb1JkbGxfZDlISVhJSnB1SzZlcGtDYkROckhleThDUG8zTEQ4Q0thZkt1QmhYekxkY0s2NzlOZVc2NDk2QWkxUFpCWXgyMndGX0tDRHg0RmhzSENWMFNjUdIBckFVX3lxTE8taEM0dDJxY1VwalV1bU9IRVJvb1JkbGxfZDlISVhJSnB1SzZlcGtDYkROckhleThDUG8zTEQ4Q0thZkt1QmhYekxkY0s2NzlOZVc2NDk2QWkxUFpCWXgyMndGX0tDRHg0RmhzSENWMFNjUQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 “최민희 징계 강력 반대”, 추미애 “김민석부터 엄중 판단” - 중앙일보
+
+- **수집일**: 2026-11-19 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 “최민희 징계 강력 반대”, 추미애 “김민석부터 엄중 판단”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0clhveTV4eUtLdS1TRHlqaTV3MkhSWkJGOG50bWZrVG92TnZScG14UzhNbkszenlETzJJMTNtX01NQS05OTJPT1VTdVpFNDYxT2pJbVRR?oc=5)
+
+---
+
