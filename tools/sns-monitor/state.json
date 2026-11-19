@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-19T20:01:16.354Z",
+  "lastCheckedAt": "2026-11-19T20:11:18.233Z",
   "seenPostIds": {
     "608054f01da7b2d4e46dd63ae7a5fc2709563357acae07b601d27d492955426d": {
       "seenAt": "2026-11-16T19:01:34.068Z",
@@ -2499,6 +2499,11 @@
     "1ee1d2bf28b8ce7d285ecfe824df2a24cb531b613647c2c9415ff9e669a6b302": {
       "seenAt": "2026-11-19T19:41:17.996Z",
       "title": "Trump urges Congress to pass a new farm bill - San Luis Obispo Tribune",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d1f1c70230556cfd410a7ca4c4a492dac1104123a1aeb2f7c7a70cca8c46c044": {
+      "seenAt": "2026-11-19T20:11:19.490Z",
+      "title": "Trump pressures Congress to pass farm bill this year - WTVB",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
