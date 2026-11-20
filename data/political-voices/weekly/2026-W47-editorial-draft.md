@@ -8672,3 +8672,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 조희대 탄핵 관련 기자회견하는 신장식 대표 - 서울뉴스통신
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조희대 탄핵 관련 기자회견하는 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE92bTlVT3FZS0RCVUpIMzFUSHdPN0hqbVV6TkZnOEFTM0FQNG5oNmQ5NTZ0ZkVURzVvTkZvYTFYeEFYemdKazN1c1NRUTdvR1N1OUxEbjlRblZPM282eWtnR3d2Y1J3UEYxYV9R?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Here's the point Trump misses with Pete Rose 'pardon' - Yahoo Sports
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Here's the point Trump misses with Pete Rose 'pardon'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUFPSDhBWURJbzBGOVpMM1NUbWNnQlo5QVZaaDc2OV9IU21JczdjdzlXekNzNHFCcUhTYVhZaTcwS2Q2UFc4WEhpa1J5TGNpWTN2MXJCTTB3Z0hVQzB4NnR0dV9xdzdkNHp0VVJleGl4OUZFSVFMR0JjWEdPT1Bqd3NVSU0?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump Spirals on Truth Social on Way Home From Major Summit - The Daily Beast
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump Spirals on Truth Social on Way Home From Major Summit
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkxXVW5SSkw3RjBobFp4T0FQMUNmbFhVZ1J5dHR6NHFFVnpBam11dVNTNHZpY1liQTZlam9QZHBGVlZ6dWlmT28wc3NiUFF4UlQ1S0R3ZlpvSmo2YVVNdktadHhIT3FKc25pXzd6RnA1NndxT18tSGZSOWJ6ZDZieVdJRVlVQV95U1c3NFBCX3ZnZFhqMXhTQkdPdFE?oc=5)
+
+---
+

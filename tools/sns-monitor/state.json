@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T03:01:16.835Z",
+  "lastCheckedAt": "2026-11-20T03:11:16.260Z",
   "seenPostIds": {
-    "f1efd638eeaf083d847efcf0e30e7aab911b3dfb3b3a8624a85418e95b28c07d": {
-      "seenAt": "2026-11-17T09:21:19.719Z",
-      "title": "정청래, 김민석과 타협 제안한 송영길에 “자격 미달 나서지 마시라” - 채널A",
-      "targetName": "정청래"
-    },
-    "c2722a237c228fb9ba953bc89bf3037795f66f24c9b3c2f683eb37d8225ae15d": {
-      "seenAt": "2026-11-17T09:21:20.385Z",
-      "title": "송영길 \"김민석·정청래 만나 대타협해야\"…정청래 \"자격 미달자 나서지 말라\"(종합) - 뉴시스",
-      "targetName": "정청래"
-    },
-    "53ac0ed03eb76b9020781adb563bd40fc1d155cfa17ca6cd12c4fb3fb2f68ae5": {
-      "seenAt": "2026-11-17T09:21:21.002Z",
-      "title": "송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라” - 시사저널",
-      "targetName": "정청래"
-    },
     "ca6c29f8814aa4b5a9fc15769e51ee8ec744e7bbe402399d57ccb4464527a7f2": {
       "seenAt": "2026-11-17T09:31:18.466Z",
       "title": "정청래, '대타협 촉구' 송영길에 \"자격미달자 나서지 마세요\" - 싱글리스트",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-20T03:01:19.244Z",
       "title": "신장식 \"조희대 탄핵안 오늘 국회 제출·내일 표결하자\" - 뉴스1",
       "targetName": "신장식"
+    },
+    "5784db3c0b4d8d241cbe9bd3306e852aee97dac700255d7b2a7973ec0388f252": {
+      "seenAt": "2026-11-20T03:11:17.325Z",
+      "title": "조희대 탄핵 관련 기자회견하는 신장식 대표 - 서울뉴스통신",
+      "targetName": "신장식"
+    },
+    "ddaac79a5493b04678e6ea623400afe33c14cbc07bdabdfb4e6a05c2d1d88cfb": {
+      "seenAt": "2026-11-20T03:11:17.931Z",
+      "title": "Here's the point Trump misses with Pete Rose 'pardon' - Yahoo Sports",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "c1510a14c287e3f7bb8dd3d256a8f84750ab7239cd5242e1c31fa9682d825836": {
+      "seenAt": "2026-11-20T03:11:18.597Z",
+      "title": "Donald Trump Spirals on Truth Social on Way Home From Major Summit - The Daily Beast",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "5784db3c0b4d8d241cbe9bd3306e852aee97dac700255d7b2a7973ec0388f252",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "조희대 탄핵 관련 기자회견하는 신장식 대표 - 서울뉴스통신",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE92bTlVT3FZS0RCVUpIMzFUSHdPN0hqbVV6TkZnOEFTM0FQNG5oNmQ5NTZ0ZkVURzVvTkZvYTFYeEFYemdKazN1c1NRUTdvR1N1OUxEbjlRblZPM282eWtnR3d2Y1J3UEYxYV9R?oc=5\" target=\"_blank\">조희대 탄핵 관련 기자회견하는 신장식 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울뉴스통신</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92bTlVT3FZS0RCVUpIMzFUSHdPN0hqbVV6TkZnOEFTM0FQNG5oNmQ5NTZ0ZkVURzVvTkZvYTFYeEFYemdKazN1c1NRUTdvR1N1OUxEbjlRblZPM282eWtnR3d2Y1J3UEYxYV9R?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 02:11:44 GMT",
-        "source": "서울뉴스통신",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ddaac79a5493b04678e6ea623400afe33c14cbc07bdabdfb4e6a05c2d1d88cfb",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Here's the point Trump misses with Pete Rose 'pardon' - Yahoo Sports",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUFPSDhBWURJbzBGOVpMM1NUbWNnQlo5QVZaaDc2OV9IU21JczdjdzlXekNzNHFCcUhTYVhZaTcwS2Q2UFc4WEhpa1J5TGNpWTN2MXJCTTB3Z0hVQzB4NnR0dV9xdzdkNHp0VVJleGl4OUZFSVFMR0JjWEdPT1Bqd3NVSU0?oc=5\" target=\"_blank\">Here's the point Trump misses with Pete Rose 'pardon'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUFPSDhBWURJbzBGOVpMM1NUbWNnQlo5QVZaaDc2OV9IU21JczdjdzlXekNzNHFCcUhTYVhZaTcwS2Q2UFc4WEhpa1J5TGNpWTN2MXJCTTB3Z0hVQzB4NnR0dV9xdzdkNHp0VVJleGl4OUZFSVFMR0JjWEdPT1Bqd3NVSU0?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 01:16:00 GMT",
-        "source": "Yahoo Sports",
-        "ageHours": 1.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c1510a14c287e3f7bb8dd3d256a8f84750ab7239cd5242e1c31fa9682d825836",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Donald Trump Spirals on Truth Social on Way Home From Major Summit - The Daily Beast",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkxXVW5SSkw3RjBobFp4T0FQMUNmbFhVZ1J5dHR6NHFFVnpBam11dVNTNHZpY1liQTZlam9QZHBGVlZ6dWlmT28wc3NiUFF4UlQ1S0R3ZlpvSmo2YVVNdktadHhIT3FKc25pXzd6RnA1NndxT18tSGZSOWJ6ZDZieVdJRVlVQV95U1c3NFBCX3ZnZFhqMXhTQkdPdFE?oc=5\" target=\"_blank\">Donald Trump Spirals on Truth Social on Way Home From Major Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkxXVW5SSkw3RjBobFp4T0FQMUNmbFhVZ1J5dHR6NHFFVnpBam11dVNTNHZpY1liQTZlam9QZHBGVlZ6dWlmT28wc3NiUFF4UlQ1S0R3ZlpvSmo2YVVNdktadHhIT3FKc25pXzd6RnA1NndxT18tSGZSOWJ6ZDZieVdJRVlVQV95U1c3NFBCX3ZnZFhqMXhTQkdPdFE?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 02:06:00 GMT",
-        "source": "The Daily Beast",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "f6378a6f67f2a245a0f37deaf3ac43bfb3f92fdfc3eff3d128b1f96b61615b64",
@@ -2722,6 +2674,38 @@
         "pubDate": "Fri, 20 Nov 2026 01:26:55 GMT",
         "source": "파이낸스투데이",
         "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "13bec633050affe2df42cd89d790cac8575cda27b9a9387360ebdb10749111ab",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국, 일본 입국 거부에 \"이재용도 문제 없어…이승철·김창열 사례인 듯\" - JTBC",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DTm1IUmNwcGJVMzZ1Z3k3VDRLdGtTZlBZRjBtZVdpUFNKQnlsdkE3c1gtbmZuLWg2MkM0NjcxOUlzeHdqMjZGbWN4dEI5WmlFbnc?oc=5\" target=\"_blank\">조국, 일본 입국 거부에 \"이재용도 문제 없어…이승철·김창열 사례인 듯\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DTm1IUmNwcGJVMzZ1Z3k3VDRLdGtTZlBZRjBtZVdpUFNKQnlsdkE3c1gtbmZuLWg2MkM0NjcxOUlzeHdqMjZGbWN4dEI5WmlFbnc?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 20:12:06 GMT",
+        "source": "JTBC",
+        "ageHours": 7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "741d3f5356432548119666aba48858aa872ef3819a6f73918a9ed71cb08087bd",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZRHhEaTVQNGNBNVdYZktNeUFpSG5iNGFFTm1ya1ktaktNNWg5X0stWjJXano0b3RsbUYyd0ZXeHJNNHBocXh1LTUwcXRvalB0QVJrSnZnMFdOVGpJVldISNIBYEFVX3lxTFBZRHhEaTVQNGNBNVdYZktNeUFpSG5iNGFFTm1ya1ktaktNNWg5X0stWjJXano0b3RsbUYyd0ZXeHJNNHBocXh1LTUwcXRvalB0QVJrSnZnMFdOVGpJVldISA?oc=5\" target=\"_blank\">신장식 대표, 조희대 대법원장 탄핵 추진 기자회견</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZRHhEaTVQNGNBNVdYZktNeUFpSG5iNGFFTm1ya1ktaktNNWg5X0stWjJXano0b3RsbUYyd0ZXeHJNNHBocXh1LTUwcXRvalB0QVJrSnZnMFdOVGpJVldISNIBYEFVX3lxTFBZRHhEaTVQNGNBNVdYZktNeUFpSG5iNGFFTm1ya1ktaktNNWg5X0stWjJXano0b3RsbUYyd0ZXeHJNNHBocXh1LTUwcXRvalB0QVJrSnZnMFdOVGpJVldISA?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 00:24:49 GMT",
+        "source": "연합뉴스",
+        "ageHours": 2.8
       },
       "delivered": [],
       "archived": false
