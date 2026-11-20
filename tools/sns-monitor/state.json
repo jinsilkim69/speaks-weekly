@@ -2515,57 +2515,24 @@
       "seenAt": "2026-11-20T04:21:19.637Z",
       "title": "김민석 \"준비한 기량 발휘하길\"…與, 수험생 격려·부정행위 엄단 강조 - 머니투데이 - 머니투데이",
       "targetName": "김민석"
+    },
+    "6ae2386e3191f8646cc2c71352d7f9d001c0dd7336020fb1bae33240b0baa32f": {
+      "seenAt": "2026-11-20T04:31:18.742Z",
+      "title": "[단독] '독도 지킴이' 서경덕 \"日 입국 거부당한 적 없다\" … 조국은 애꿎은 독도 탓 - 뉴데일리",
+      "targetName": "조국"
+    },
+    "bf9a99493d5b81b3accdb3c943f99499cd5b91223f070a5417bf95a88f0c274a": {
+      "seenAt": "2026-11-20T04:31:19.358Z",
+      "title": "[포토] 조희대 탄핵 추진 기자회견하는 신장식 대표 - 천지일보",
+      "targetName": "신장식"
+    },
+    "e002edc4ebe2ee8c2b7a6d9553fad086e6f81dffc01d7b5c8711b57bbbd21ae2": {
+      "seenAt": "2026-11-20T04:31:19.976Z",
+      "title": "'최민희 징계' 27일 심의…일부 당원들 '김민석 직무정지' 가처분 '맞불' - 데일리안",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "6ae2386e3191f8646cc2c71352d7f9d001c0dd7336020fb1bae33240b0baa32f",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "[단독] '독도 지킴이' 서경덕 \"日 입국 거부당한 적 없다\" … 조국은 애꿎은 독도 탓 - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9rYUJMSWdHQ29TZ0duUnBoUVNZM0IxdlM0NGJpMk5fakdYT0c5ZFY2ck1XWDRuc1RDVy11UlppaDJkWFV5NW9WQzdEVWFCS0sxVTIzakpmZUpiY0NPcDd2UXVfbUxkV3NINTAxUF91aEdIRmxXa2xiSHI3WdIBgAFBVV95cUxNajl4ZE5acHVjS2xtRExkZTRKdV94RDlHUktvQi1vOHdwS25CVkEtUnJSUHgzSlZsdEplSWhKcHpuV29TRE5sUGZDSGhEaWNJVW5FcWVLUjdYMVAweExhS0FobU9IZzlhcVRYOURPOXB3c3pxYlpPdmFxUFZxWVlDUg?oc=5\" target=\"_blank\">[단독] '독도 지킴이' 서경덕 \"日 입국 거부당한 적 없다\" … 조국은 애꿎은 독도 탓</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rYUJMSWdHQ29TZ0duUnBoUVNZM0IxdlM0NGJpMk5fakdYT0c5ZFY2ck1XWDRuc1RDVy11UlppaDJkWFV5NW9WQzdEVWFCS0sxVTIzakpmZUpiY0NPcDd2UXVfbUxkV3NINTAxUF91aEdIRmxXa2xiSHI3WdIBgAFBVV95cUxNajl4ZE5acHVjS2xtRExkZTRKdV94RDlHUktvQi1vOHdwS25CVkEtUnJSUHgzSlZsdEplSWhKcHpuV29TRE5sUGZDSGhEaWNJVW5FcWVLUjdYMVAweExhS0FobU9IZzlhcVRYOURPOXB3c3pxYlpPdmFxUFZxWVlDUg?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:48:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 3.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "bf9a99493d5b81b3accdb3c943f99499cd5b91223f070a5417bf95a88f0c274a",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "[포토] 조희대 탄핵 추진 기자회견하는 신장식 대표 - 천지일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUUJhNmF3WE9pRjh3bVQ0UV9tTXpDVHE2T2RXVVhldHhpcjNpd0VZWWRnTDNlVzV1S3BmNHJoUDVYNllqTUFzVV9yREZsNjhxX1E2MWR2UVBOWi1rUXlFRzM1RjFZNDdydVE?oc=5\" target=\"_blank\">[포토] 조희대 탄핵 추진 기자회견하는 신장식 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUUJhNmF3WE9pRjh3bVQ0UV9tTXpDVHE2T2RXVVhldHhpcjNpd0VZWWRnTDNlVzV1S3BmNHJoUDVYNllqTUFzVV9yREZsNjhxX1E2MWR2UVBOWi1rUXlFRzM1RjFZNDdydVE?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 02:45:46 GMT",
-        "source": "천지일보",
-        "ageHours": 1.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e002edc4ebe2ee8c2b7a6d9553fad086e6f81dffc01d7b5c8711b57bbbd21ae2",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "'최민희 징계' 27일 심의…일부 당원들 '김민석 직무정지' 가처분 '맞불' - 데일리안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOSnQyUjBYbERJVFl3TVA3bXcxb1lwTnd3dDF3N1YzUUZYc2x1RXltMTRmQWxZWWZNb0Vla001SmRXUFRjcTV1NGtwTkEzbVhqTkxXTktGTjBxNjNST1ROcG5aR3dTc0xIWm03cHEtUTBBY0Z6MEtUTHAyU0FfOFB4a0NQRGhJb0ZxcUtVNWlyMjRKTzJpVzdEMTlkQ05JbTVsMmdhdXVWSk5uNFY2R1RRazB0YXV4Y1Z2dDlPZllfTkZGTkNFQ1k5dERXSGt1aHBfRjJSdUZ3bDV6bGhOM2VwVTBkSEIzdEJiTnc4REc3OENqMnFnTG4wV2dEeXpaTlM1VlE?oc=5\" target=\"_blank\">'최민희 징계' 27일 심의…일부 당원들 '김민석 직무정지' 가처분 '맞불'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSnQyUjBYbERJVFl3TVA3bXcxb1lwTnd3dDF3N1YzUUZYc2x1RXltMTRmQWxZWWZNb0Vla001SmRXUFRjcTV1NGtwTkEzbVhqTkxXTktGTjBxNjNST1ROcG5aR3dTc0xIWm03cHEtUTBBY0Z6MEtUTHAyU0FfOFB4a0NQRGhJb0ZxcUtVNWlyMjRKTzJpVzdEMTlkQ05JbTVsMmdhdXVWSk5uNFY2R1RRazB0YXV4Y1Z2dDlPZllfTkZGTkNFQ1k5dERXSGt1aHBfRjJSdUZ3bDV6bGhOM2VwVTBkSEIzdEJiTnc4REc3OENqMnFnTG4wV2dEeXpaTlM1VlE?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 02:23:00 GMT",
-        "source": "데일리안",
-        "ageHours": 1.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "f6fcdb1a168254cf16ccd10efd1e7d98319860a189b23f80c2d84d6b6896775f",
