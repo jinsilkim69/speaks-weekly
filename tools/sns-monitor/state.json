@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T00:35:27.164Z",
+  "lastCheckedAt": "2026-11-20T00:41:18.689Z",
   "seenPostIds": {
-    "233c3faada74c53289657dcd91f115af7191bc4fe6dcf3be641b056b3d25cc90": {
-      "seenAt": "2026-11-17T04:51:18.314Z",
-      "title": "조국 \"또 뒤통수 맞을 것…한덕수 대법 판결 주목해야\" - 뉴스1",
-      "targetName": "조국"
-    },
     "ea75e8e68861a15da06df80a3c46cc3d963d15f7c7e6be40871777388164bac0": {
       "seenAt": "2026-11-17T04:51:18.929Z",
       "title": "조국혁신당 의원총회, 발언하는 김준형 원내대표 - 연합뉴스",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-20T00:35:28.582Z",
       "title": "Trump pressures Congress to pass farm bill this year - Reuters",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "993c6dc69991c27cc450ca68ad7ace0b35f75c93a9178773521e64a9db3f3a17": {
+      "seenAt": "2026-11-20T00:41:19.885Z",
+      "title": "한동훈 \"조희대 탄핵 땐 사법부 마비\"…이준석 \"李 파기환송심 진행해야\" - 뉴시스",
+      "targetName": "한동훈"
+    },
+    "aad2b3c855db1e13b2fcf706e6055783ae719d3b8bcc185826853dbaf7452125": {
+      "seenAt": "2026-11-20T00:41:20.537Z",
+      "title": "한동훈 \"조희대 탄핵 땐 사법부 마비\"…이준석 \"李 파기환송심 진행해야\" - 뉴시스",
+      "targetName": "이준석"
     }
   },
   "pending": []
