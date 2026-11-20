@@ -8243,3 +8243,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump grants posthumous pardon to MLB hit king Pete Rose - New York Post
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump grants posthumous pardon to MLB hit king Pete Rose
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkhjSzQwRnpZcE1TMjRia0ctRUtGXzlrd3ZIN0x0ellFVVVQLXU3RkRFNnBZdEFkNmp1ZkkyZkgwLUhMd09CalZoNGpzMG9sRUU4MUdwWEVOOG1pZmZrc1U4cDdIWXVlV1ptQzZITFNiRDI0a1kxZXQxR00wMU9mLUZUbTZlM1ZMd3RJUXVBUDkxYjhYR28xNXFJb3BSV2tXUWc?oc=5)
+
+---
+

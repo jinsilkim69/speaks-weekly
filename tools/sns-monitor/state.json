@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-19T23:51:20.599Z",
       "title": "Trump gives posthumous pardon to Pete Rose, all-time MLB hits leader - NBC News",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "6c90137e45370b879fce4ecc9a84edc4c3a85a3213980156b0a7cad2106c702b": {
+      "seenAt": "2026-11-20T00:01:19.760Z",
+      "title": "Trump grants posthumous pardon to MLB hit king Pete Rose - New York Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "6c90137e45370b879fce4ecc9a84edc4c3a85a3213980156b0a7cad2106c702b",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump grants posthumous pardon to MLB hit king Pete Rose - New York Post",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkhjSzQwRnpZcE1TMjRia0ctRUtGXzlrd3ZIN0x0ellFVVVQLXU3RkRFNnBZdEFkNmp1ZkkyZkgwLUhMd09CalZoNGpzMG9sRUU4MUdwWEVOOG1pZmZrc1U4cDdIWXVlV1ptQzZITFNiRDI0a1kxZXQxR00wMU9mLUZUbTZlM1ZMd3RJUXVBUDkxYjhYR28xNXFJb3BSV2tXUWc?oc=5\" target=\"_blank\">Trump grants posthumous pardon to MLB hit king Pete Rose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYkhjSzQwRnpZcE1TMjRia0ctRUtGXzlrd3ZIN0x0ellFVVVQLXU3RkRFNnBZdEFkNmp1ZkkyZkgwLUhMd09CalZoNGpzMG9sRUU4MUdwWEVOOG1pZmZrc1U4cDdIWXVlV1ptQzZITFNiRDI0a1kxZXQxR00wMU9mLUZUbTZlM1ZMd3RJUXVBUDkxYjhYR28xNXFJb3BSV2tXUWc?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 22:52:30 GMT",
-        "source": "New York Post",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
