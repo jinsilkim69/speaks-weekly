@@ -9023,3 +9023,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 박지원 "정청래·추미애 파벌싸움 불질러…국민이 민주당 버릴 것" - 프레시안
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원 "정청래·추미애 파벌싸움 불질러…국민이 민주당 버릴 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE95MlJwNlRCdDRMalM5Z0piYXVUM0dldlViVnhsbzI1MURFb0ZQdE9fcU1BSGZqMGM3dmlFMlMwekt2NGZRcWRKRGhrX2gwZ1Vac1ZHOUljd1B3Q0ZYN2NmeXB2Q1JHZnNmUHRlSzFKS0p1WVNnaVh0NGxfQVg4cTA?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [김종석의 왜]정청래 목소리 커졌다, 왜? - 채널A
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 목소리 커졌다, 왜?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VNFdCOWx4THVDTFpCZzA3QnY5el9INjB1NWRQZ3FvdXdYZUctMkFINFR4OTkzVnBCbElTSEsxRDZpdUxMcG84X21vVmtTMmhDand3dkZEa05BS3g5SG01QzBBMNIBY0FVX3lxTE9VNFdCOWx4THVDTFpCZzA3QnY5el9INjB1NWRQZ3FvdXdYZUctMkFINFR4OTkzVnBCbElTSEsxRDZpdUxMcG84X21vVmtTMmhDand3dkZEa05BS3g5SG01QzBBMA?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 직무평가 '잘하고 있다' 40% .. 부정평가 '부동산'에서 '경제/민생'으로 변화 - 데일리경제
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 직무평가 '잘하고 있다' 40% .. 부정평가 '부동산'에서 '경제/민생'으로 변화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9wdTZVeHh0TDBLZVJEemUxNzI0MXV2OWlQWlpqaGZRczZRMVZHb1hJX192SjBuMENEWDE2MzFzdXlNWHd5amxvWjRLN0hMNkthX0tjejVjaURpT3pwX2psanJHTG9raFBPOElRZQ?oc=5)
+
+---
+

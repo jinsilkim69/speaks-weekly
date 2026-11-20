@@ -2530,57 +2530,24 @@
       "seenAt": "2026-11-20T04:31:19.976Z",
       "title": "'최민희 징계' 27일 심의…일부 당원들 '김민석 직무정지' 가처분 '맞불' - 데일리안",
       "targetName": "김민석"
+    },
+    "f6fcdb1a168254cf16ccd10efd1e7d98319860a189b23f80c2d84d6b6896775f": {
+      "seenAt": "2026-11-20T04:41:17.817Z",
+      "title": "박지원 \"정청래·추미애 파벌싸움 불질러…국민이 민주당 버릴 것\" - 프레시안",
+      "targetName": "정청래"
+    },
+    "84dc65ecca6d4a8f5c68dbe11bedb65978e2c34ef4b93beef771f6a801b8933d": {
+      "seenAt": "2026-11-20T04:41:18.522Z",
+      "title": "[김종석의 왜]정청래 목소리 커졌다, 왜? - 채널A",
+      "targetName": "정청래"
+    },
+    "87da76f29b4b45d2d16b24a29e25b79a6a7520c9c71d30d592049bc714687287": {
+      "seenAt": "2026-11-20T04:41:19.246Z",
+      "title": "이재명 대통령 직무평가 '잘하고 있다' 40% .. 부정평가 '부동산'에서 '경제/민생'으로 변화 - 데일리경제",
+      "targetName": "이재명"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "f6fcdb1a168254cf16ccd10efd1e7d98319860a189b23f80c2d84d6b6896775f",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "박지원 \"정청래·추미애 파벌싸움 불질러…국민이 민주당 버릴 것\" - 프레시안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE95MlJwNlRCdDRMalM5Z0piYXVUM0dldlViVnhsbzI1MURFb0ZQdE9fcU1BSGZqMGM3dmlFMlMwekt2NGZRcWRKRGhrX2gwZ1Vac1ZHOUljd1B3Q0ZYN2NmeXB2Q1JHZnNmUHRlSzFKS0p1WVNnaVh0NGxfQVg4cTA?oc=5\" target=\"_blank\">박지원 \"정청래·추미애 파벌싸움 불질러…국민이 민주당 버릴 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95MlJwNlRCdDRMalM5Z0piYXVUM0dldlViVnhsbzI1MURFb0ZQdE9fcU1BSGZqMGM3dmlFMlMwekt2NGZRcWRKRGhrX2gwZ1Vac1ZHOUljd1B3Q0ZYN2NmeXB2Q1JHZnNmUHRlSzFKS0p1WVNnaVh0NGxfQVg4cTA?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 19:58:57 GMT",
-        "source": "프레시안",
-        "ageHours": 8.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "84dc65ecca6d4a8f5c68dbe11bedb65978e2c34ef4b93beef771f6a801b8933d",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "[김종석의 왜]정청래 목소리 커졌다, 왜? - 채널A",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VNFdCOWx4THVDTFpCZzA3QnY5el9INjB1NWRQZ3FvdXdYZUctMkFINFR4OTkzVnBCbElTSEsxRDZpdUxMcG84X21vVmtTMmhDand3dkZEa05BS3g5SG01QzBBMNIBY0FVX3lxTE9VNFdCOWx4THVDTFpCZzA3QnY5el9INjB1NWRQZ3FvdXdYZUctMkFINFR4OTkzVnBCbElTSEsxRDZpdUxMcG84X21vVmtTMmhDand3dkZEa05BS3g5SG01QzBBMA?oc=5\" target=\"_blank\">[김종석의 왜]정청래 목소리 커졌다, 왜?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VNFdCOWx4THVDTFpCZzA3QnY5el9INjB1NWRQZ3FvdXdYZUctMkFINFR4OTkzVnBCbElTSEsxRDZpdUxMcG84X21vVmtTMmhDand3dkZEa05BS3g5SG01QzBBMNIBY0FVX3lxTE9VNFdCOWx4THVDTFpCZzA3QnY5el9INjB1NWRQZ3FvdXdYZUctMkFINFR4OTkzVnBCbElTSEsxRDZpdUxMcG84X21vVmtTMmhDand3dkZEa05BS3g5SG01QzBBMA?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 12:36:00 GMT",
-        "source": "채널A",
-        "ageHours": 15.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "87da76f29b4b45d2d16b24a29e25b79a6a7520c9c71d30d592049bc714687287",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령 직무평가 '잘하고 있다' 40% .. 부정평가 '부동산'에서 '경제/민생'으로 변화 - 데일리경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9wdTZVeHh0TDBLZVJEemUxNzI0MXV2OWlQWlpqaGZRczZRMVZHb1hJX192SjBuMENEWDE2MzFzdXlNWHd5amxvWjRLN0hMNkthX0tjejVjaURpT3pwX2psanJHTG9raFBPOElRZQ?oc=5\" target=\"_blank\">이재명 대통령 직무평가 '잘하고 있다' 40% .. 부정평가 '부동산'에서 '경제/민생'으로 변화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wdTZVeHh0TDBLZVJEemUxNzI0MXV2OWlQWlpqaGZRczZRMVZHb1hJX192SjBuMENEWDE2MzFzdXlNWHd5amxvWjRLN0hMNkthX0tjejVjaURpT3pwX2psanJHTG9raFBPOElRZQ?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 04:14:35 GMT",
-        "source": "데일리경제",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "b3c7810b61c591f17db21578135c1929a9e74eb27d52b06db75efd793edc0fdc",
