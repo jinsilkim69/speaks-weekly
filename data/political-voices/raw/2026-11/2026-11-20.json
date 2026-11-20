@@ -1592,5 +1592,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8ae799dd31a3797ec61c234b1a88d742ba221705d82ce40b1b02af0f50318cf4",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump posthumously pardons former Phillie Pete Rose - Inquirer.com",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONVlEVVlVSnJLVnppRmF6d2JNei1xZGV1V2JnUFA1U1I2VjB6Ykk5eDBDemVHdzVKbDQ2djcyVEp3YjQ2bUNWZkYxY1psOU13Y0laQ3F6SlZveHNFcnFVZUgxZy1PZ3JJeG95dnNOTHBoa3JpVnNxOF9oNUxMZmw3UDNuaWlsVnZvZ1Q1Zg?oc=5\" target=\"_blank\">Trump posthumously pardons former Phillie Pete Rose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inquirer.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVlEVVlVSnJLVnppRmF6d2JNei1xZGV1V2JnUFA1U1I2VjB6Ykk5eDBDemVHdzVKbDQ2djcyVEp3YjQ2bUNWZkYxY1psOU13Y0laQ3F6SlZveHNFcnFVZUgxZy1PZ3JJeG95dnNOTHBoa3JpVnNxOF9oNUxMZmw3UDNuaWlsVnZvZ1Q1Zg?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 22:42:17 GMT",
+    "source": "Inquirer.com",
+    "ageHours": 3.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump posthumously pardons former Phillie Pete Rose",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

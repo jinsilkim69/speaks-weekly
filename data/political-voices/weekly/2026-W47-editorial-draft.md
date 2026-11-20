@@ -8542,3 +8542,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump posthumously pardons former Phillie Pete Rose - Inquirer.com
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump posthumously pardons former Phillie Pete Rose
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijAFBVV95cUxONVlEVVlVSnJLVnppRmF6d2JNei1xZGV1V2JnUFA1U1I2VjB6Ykk5eDBDemVHdzVKbDQ2djcyVEp3YjQ2bUNWZkYxY1psOU13Y0laQ3F6SlZveHNFcnFVZUgxZy1PZ3JJeG95dnNOTHBoa3JpVnNxOF9oNUxMZmw3UDNuaWlsVnZvZ1Q1Zg?oc=5)
+
+---
+

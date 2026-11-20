@@ -2530,24 +2530,12 @@
       "seenAt": "2026-11-20T02:01:23.748Z",
       "title": "신장식 \"민주당, 이번 주말 조희대 탄핵 추진하자\" - 뉴스토마토",
       "targetName": "신장식"
+    },
+    "8ae799dd31a3797ec61c234b1a88d742ba221705d82ce40b1b02af0f50318cf4": {
+      "seenAt": "2026-11-20T02:11:17.624Z",
+      "title": "Trump posthumously pardons former Phillie Pete Rose - Inquirer.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "8ae799dd31a3797ec61c234b1a88d742ba221705d82ce40b1b02af0f50318cf4",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump posthumously pardons former Phillie Pete Rose - Inquirer.com",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONVlEVVlVSnJLVnppRmF6d2JNei1xZGV1V2JnUFA1U1I2VjB6Ykk5eDBDemVHdzVKbDQ2djcyVEp3YjQ2bUNWZkYxY1psOU13Y0laQ3F6SlZveHNFcnFVZUgxZy1PZ3JJeG95dnNOTHBoa3JpVnNxOF9oNUxMZmw3UDNuaWlsVnZvZ1Q1Zg?oc=5\" target=\"_blank\">Trump posthumously pardons former Phillie Pete Rose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inquirer.com</font>",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVlEVVlVSnJLVnppRmF6d2JNei1xZGV1V2JnUFA1U1I2VjB6Ykk5eDBDemVHdzVKbDQ2djcyVEp3YjQ2bUNWZkYxY1psOU13Y0laQ3F6SlZveHNFcnFVZUgxZy1PZ3JJeG95dnNOTHBoa3JpVnNxOF9oNUxMZmw3UDNuaWlsVnZvZ1Q1Zg?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 22:42:17 GMT",
-        "source": "Inquirer.com",
-        "ageHours": 3.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
