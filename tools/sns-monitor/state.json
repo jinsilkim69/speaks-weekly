@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-20T12:51:16.345Z",
+  "lastCheckedAt": "2026-11-20T13:11:16.576Z",
   "seenPostIds": {
     "ead3a86c69dd35359d104493bd097bb0bc7d962fab15441bbad2561883eb0409": {
       "seenAt": "2026-11-17T17:51:21.277Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-20T12:41:20.027Z",
       "title": "Trump, 80, Called Out for Embarrassing Error in Pardon Post - The Daily Beast",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a5fd481796457bdab634d4519d73afd9b4d1a66966a5476b0c57c0c90cfb5838": {
+      "seenAt": "2026-11-20T13:11:17.889Z",
+      "title": "이재명 \"5,500억 공익환수가 배임이면 일반 개발허가는 어찌되나\" - 연합뉴스TV",
+      "targetName": "이재명"
     }
   },
   "pending": []
