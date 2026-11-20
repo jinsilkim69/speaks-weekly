@@ -3228,5 +3228,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "dc00ecbc4fc12142b2f1ccfc6d8ea8dfa406c727de17e02abfbcd0f91933ae11",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "신장식, 조희대 주말탄핵 주장하는 이유 “언론이 ‘역풍’ 부추기기 전에 해야” - 미디어오늘",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnV3VrWFVxWVU5Ykttal91VlFHX2htQi1DOE5IaVF3Vi1zRHNmeFRjaUFVc0NZOFpzVmJtR3d5WEpYN1Q3cWpHWDFTdnFuWGFqc2V3MjE2Zy1zUnlrMU90WVVPeW9wb1dhRzZITmFkdm8?oc=5\" target=\"_blank\">신장식, 조희대 주말탄핵 주장하는 이유 “언론이 ‘역풍’ 부추기기 전에 해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미디어오늘</font>",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnV3VrWFVxWVU5Ykttal91VlFHX2htQi1DOE5IaVF3Vi1zRHNmeFRjaUFVc0NZOFpzVmJtR3d5WEpYN1Q3cWpHWDFTdnFuWGFqc2V3MjE2Zy1zUnlrMU90WVVPeW9wb1dhRzZITmFkdm8?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 06:34:20 GMT",
+    "source": "미디어오늘",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식, 조희대 주말탄핵 주장하는 이유 “언론이 ‘역풍’ 부추기기 전에 해야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

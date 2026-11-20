@@ -9374,3 +9374,16 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식, 조희대 주말탄핵 주장하는 이유 “언론이 ‘역풍’ 부추기기 전에 해야” - 미디어오늘
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식, 조희대 주말탄핵 주장하는 이유 “언론이 ‘역풍’ 부추기기 전에 해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTFBnV3VrWFVxWVU5Ykttal91VlFHX2htQi1DOE5IaVF3Vi1zRHNmeFRjaUFVc0NZOFpzVmJtR3d5WEpYN1Q3cWpHWDFTdnFuWGFqc2V3MjE2Zy1zUnlrMU90WVVPeW9wb1dhRzZITmFkdm8?oc=5)
+
+---
+

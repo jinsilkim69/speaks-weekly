@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-20T06:51:21.152Z",
       "title": "[뉴스 즉설]10일에 1%p씩 까먹은 김민석, '진격의 깃발' 든 정청래 - 대전일보",
       "targetName": "정청래"
+    },
+    "dc00ecbc4fc12142b2f1ccfc6d8ea8dfa406c727de17e02abfbcd0f91933ae11": {
+      "seenAt": "2026-11-20T07:01:17.182Z",
+      "title": "신장식, 조희대 주말탄핵 주장하는 이유 “언론이 ‘역풍’ 부추기기 전에 해야” - 미디어오늘",
+      "targetName": "신장식"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "dc00ecbc4fc12142b2f1ccfc6d8ea8dfa406c727de17e02abfbcd0f91933ae11",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식, 조희대 주말탄핵 주장하는 이유 “언론이 ‘역풍’ 부추기기 전에 해야” - 미디어오늘",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnV3VrWFVxWVU5Ykttal91VlFHX2htQi1DOE5IaVF3Vi1zRHNmeFRjaUFVc0NZOFpzVmJtR3d5WEpYN1Q3cWpHWDFTdnFuWGFqc2V3MjE2Zy1zUnlrMU90WVVPeW9wb1dhRzZITmFkdm8?oc=5\" target=\"_blank\">신장식, 조희대 주말탄핵 주장하는 이유 “언론이 ‘역풍’ 부추기기 전에 해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미디어오늘</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnV3VrWFVxWVU5Ykttal91VlFHX2htQi1DOE5IaVF3Vi1zRHNmeFRjaUFVc0NZOFpzVmJtR3d5WEpYN1Q3cWpHWDFTdnFuWGFqc2V3MjE2Zy1zUnlrMU90WVVPeW9wb1dhRzZITmFkdm8?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 06:34:20 GMT",
-        "source": "미디어오늘",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
