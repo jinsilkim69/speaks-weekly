@@ -4190,5 +4190,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "79ef748a5eb4de11ed5fd12ab389e449f8dc87e59e52902f905cef59382406db",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "민주당, 조희대 대법원장 탄핵 추진 결정…김민석 \"한덕수 파기환송은 반역사적 결정\" - 프리진뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBkcXZYWWMwMDdYWFJBZl9YTzcyb3JrSW9lZmxxSWM4eEZXYm40UlhFX0J3OUZKWVRCVTBQZWlMejBMQ1lHaGFNcTQ0dzBiWW1QbmZvQVg5ci0wcXVYeTVVT0xaZHR0MEFjOXQ0U0xKRQ?oc=5\" target=\"_blank\">민주당, 조희대 대법원장 탄핵 추진 결정…김민석 \"한덕수 파기환송은 반역사적 결정\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프리진뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkcXZYWWMwMDdYWFJBZl9YTzcyb3JrSW9lZmxxSWM4eEZXYm40UlhFX0J3OUZKWVRCVTBQZWlMejBMQ1lHaGFNcTQ0dzBiWW1QbmZvQVg5ci0wcXVYeTVVT0xaZHR0MEFjOXQ0U0xKRQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 14:13:10 GMT",
+    "source": "프리진뉴스",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당, 조희대 대법원장 탄핵 추진 결정…김민석 \"한덕수 파기환송은 반역사적 결정\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "20e28bf4e17765202c92da5d21053268db75786ee1e8ab79cb7ae43cfaad2c8e",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Fact Check: Fake Trump Truth Social screenshots on post-election policy are satire - Reuters",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkF1b0o0YWNHNWo5TFhkNGNfM3d1VF9uWi1iMjRjSE5kMUZpMVpsQWlWd1Zyc2tqblJnV3Rrd29zU184aTYwcVFGTkVfdkxlczktMXpIVTl2RHVrNkZCZ081RHp6QWZ0VlcyejV1dzU5RU04YkhTdEM5Ql84NjByTEtRRzFJUFh0NWh6d3l5WkJMQmp0c1NzNHRzbVJwREpJcjNSaU52MmJtNzg2Sll4MkR1aU0?oc=5\" target=\"_blank\">Fact Check: Fake Trump Truth Social screenshots on post-election policy are satire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkF1b0o0YWNHNWo5TFhkNGNfM3d1VF9uWi1iMjRjSE5kMUZpMVpsQWlWd1Zyc2tqblJnV3Rrd29zU184aTYwcVFGTkVfdkxlczktMXpIVTl2RHVrNkZCZ081RHp6QWZ0VlcyejV1dzU5RU04YkhTdEM5Ql84NjByTEtRRzFJUFh0NWh6d3l5WkJMQmp0c1NzNHRzbVJwREpJcjNSaU52MmJtNzg2Sll4MkR1aU0?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 14:14:39 GMT",
+    "source": "Reuters",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Fact Check: Fake Trump Truth Social screenshots on post-election policy are satire",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

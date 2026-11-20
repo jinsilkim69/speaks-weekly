@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-20T14:01:17.606Z",
+  "lastCheckedAt": "2026-11-20T14:21:21.169Z",
   "seenPostIds": {
     "7bd354b0c53d4257c0940219e538d5ebf7c7c7e514deb1d03f4b0f5aa0659c00": {
       "seenAt": "2026-11-17T18:41:19.958Z",
@@ -2500,6 +2500,16 @@
       "seenAt": "2026-11-20T13:11:17.889Z",
       "title": "이재명 \"5,500억 공익환수가 배임이면 일반 개발허가는 어찌되나\" - 연합뉴스TV",
       "targetName": "이재명"
+    },
+    "79ef748a5eb4de11ed5fd12ab389e449f8dc87e59e52902f905cef59382406db": {
+      "seenAt": "2026-11-20T14:21:22.672Z",
+      "title": "민주당, 조희대 대법원장 탄핵 추진 결정…김민석 \"한덕수 파기환송은 반역사적 결정\" - 프리진뉴스",
+      "targetName": "김민석"
+    },
+    "20e28bf4e17765202c92da5d21053268db75786ee1e8ab79cb7ae43cfaad2c8e": {
+      "seenAt": "2026-11-20T14:21:23.465Z",
+      "title": "Fact Check: Fake Trump Truth Social screenshots on post-election policy are satire - Reuters",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

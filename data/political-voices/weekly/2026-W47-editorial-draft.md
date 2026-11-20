@@ -9868,3 +9868,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주당, 조희대 대법원장 탄핵 추진 결정…김민석 "한덕수 파기환송은 반역사적 결정" - 프리진뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당, 조희대 대법원장 탄핵 추진 결정…김민석 "한덕수 파기환송은 반역사적 결정"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBkcXZYWWMwMDdYWFJBZl9YTzcyb3JrSW9lZmxxSWM4eEZXYm40UlhFX0J3OUZKWVRCVTBQZWlMejBMQ1lHaGFNcTQ0dzBiWW1QbmZvQVg5ci0wcXVYeTVVT0xaZHR0MEFjOXQ0U0xKRQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Fact Check: Fake Trump Truth Social screenshots on post-election policy are satire - Reuters
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Fact Check: Fake Trump Truth Social screenshots on post-election policy are satire
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkF1b0o0YWNHNWo5TFhkNGNfM3d1VF9uWi1iMjRjSE5kMUZpMVpsQWlWd1Zyc2tqblJnV3Rrd29zU184aTYwcVFGTkVfdkxlczktMXpIVTl2RHVrNkZCZ081RHp6QWZ0VlcyejV1dzU5RU04YkhTdEM5Ql84NjByTEtRRzFJUFh0NWh6d3l5WkJMQmp0c1NzNHRzbVJwREpJcjNSaU52MmJtNzg2Sll4MkR1aU0?oc=5)
+
+---
+
