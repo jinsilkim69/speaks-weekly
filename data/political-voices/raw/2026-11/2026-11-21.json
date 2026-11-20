@@ -603,5 +603,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4125d151299ff59dbfa7b9541e7313ab2c42d98bbf808e56d6c9ed6039970913",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나? - 에너지경제신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BWjBNRG1ockxxUTlsd29DVXM4cmFZT21TeEpPbEVEWjA1NDc5NFAwRnpJc3NCSzRFcDc4SDJ5b0dOR3dSNUVJdlQwQUVIdTFOWi1ZbDBtQWljTms?oc=5\" target=\"_blank\">한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BWjBNRG1ockxxUTlsd29DVXM4cmFZT21TeEpPbEVEWjA1NDc5NFAwRnpJc3NCSzRFcDc4SDJ5b0dOR3dSNUVJdlQwQUVIdTFOWi1ZbDBtQWljTms?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 07:57:07 GMT",
+    "source": "에너지경제신문",
+    "ageHours": 11.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나?",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

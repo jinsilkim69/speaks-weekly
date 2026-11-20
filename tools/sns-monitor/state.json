@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-20T19:21:16.934Z",
+  "lastCheckedAt": "2026-11-20T19:31:20.484Z",
   "seenPostIds": {
     "79168916ca0ee7207756ca7f642332005ed41f32a23f0f86328e1c26850d2681": {
       "seenAt": "2026-11-18T00:21:19.897Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-20T19:11:18.391Z",
       "title": "WATCH LIVE: President Trump holds news conference after returning from China - KGW",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "4125d151299ff59dbfa7b9541e7313ab2c42d98bbf808e56d6c9ed6039970913": {
+      "seenAt": "2026-11-20T19:31:21.851Z",
+      "title": "한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나? - 에너지경제신문",
+      "targetName": "한동훈"
     }
   },
   "pending": []
