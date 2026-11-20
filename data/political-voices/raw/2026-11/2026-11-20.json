@@ -3963,5 +3963,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "eefdda969d947e64c15994f7f891f76e3100a29655af218a209d0c0ebb54e4da",
+    "targetId": "cheon_haram",
+    "targetName": "천하람",
+    "targetTitle": "개혁신당 원내대표",
+    "title": "'마이 케이팝 스타' 시상식서 발언하는 천하람 원내대표 - 뉴스핌",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2TUtscmpCZTVrWEotUUFaYUhqdC1fbmxfNXFfX3d3VExMdTZWS0ppb3NXR2tRWG03b0dWTzQxcG9yblUtc25oY0E1UkY3ZFhHbl9tWnpsRHc0alNQ?oc=5\" target=\"_blank\">'마이 케이팝 스타' 시상식서 발언하는 천하람 원내대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2TUtscmpCZTVrWEotUUFaYUhqdC1fbmxfNXFfX3d3VExMdTZWS0ppb3NXR2tRWG03b0dWTzQxcG9yblUtc25oY0E1UkY3ZFhHbl9tWnpsRHc0alNQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 09:41:00 GMT",
+    "source": "뉴스핌",
+    "ageHours": 1.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '마이 케이팝 스타' 시상식서 발언하는 천하람 원내대표",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "천하람",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
