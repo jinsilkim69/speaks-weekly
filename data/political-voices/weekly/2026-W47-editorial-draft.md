@@ -9777,3 +9777,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** '리더십 위기' 김민석 꺼낸 '조희대 탄핵' 카드 … 李 재판재개 트리거 '부메랑'되나 - 뉴데일리
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '리더십 위기' 김민석 꺼낸 '조희대 탄핵' 카드 … 李 재판재개 트리거 '부메랑'되나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE9VRWUxZDhDV0V3RzdEQ1puQkd0X3QtaUxENHYybi1nWk1ZeVZFeTl3dExpMFBvS2w3UjVCU1VRVzJodHl0NzV5UVdWUnlKak41Y1NRRGpCX09aYTFqdHBacjgtcXF3TWNKOVZyQ2VIN0F0b01zekJRbjRRRdIBgAFBVV95cUxOTFlDb2YxZjBfUnp4UGdnX3B0a1dxSDFFcVN2WUhOd09yNVFhVzFOVWpmTWRhd3BEZlRvdkEzM3JLd1REMm1DZzJGRC02bnQtdUktMXV0TFlsWEE3Y2FBT0hNQzQwZlBiMG96SEtDd0FNTGJaSXBjXzdsNmdMZUlMbQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** '음주운전 징계 후 귀화' 김민석, 헝가리 대표팀 은퇴 …2030 올림픽서 태극마크 도전 가능성도 - 일간스포츠
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '음주운전 징계 후 귀화' 김민석, 헝가리 대표팀 은퇴 …2030 올림픽서 태극마크 도전 가능성도
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUZG5ySDVHdUZpYnd2Q2NtbjYzaGZxU1M5b1dzUE1HU3EyelQ4SGJVVDhlWkZuYnpHRVoxNUpGMFM5dW9EQmdBcEdnMkU0NTU4UHFQZll0MXhjT1E?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 함께모여 논의하는 민주당-조국혁신당 - 국제뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 함께모여 논의하는 민주당-조국혁신당
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1IT29ncWRkTVJ3bXZCbWZvOHBfbEtnNXAzQ2trUWRwamhHVFdiT01wT29mdDdNaUg5NEQ5eUpBVnFYOFdlZVlpNk5rUUZqYXJhazFPbnBPb0FKQW9fbmd0MU4tbjYxVzZmNV9sZ0hn?oc=5)
+
+---
+
