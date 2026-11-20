@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T15:51:17.824Z",
+  "lastCheckedAt": "2026-11-20T16:01:19.983Z",
   "seenPostIds": {
-    "87a48d68c391e36178628c3a947d6bb283022a606414ec1c9c759b833fed39e1": {
-      "seenAt": "2026-11-17T22:41:18.317Z",
-      "title": "추미애, “반·분·신 비밀연합, 반민주적 마타도어…김민석 사과로 끝낼 문제 아냐” - 경향신문",
-      "targetName": "김민석"
-    },
     "f8690ab93d24acd55974672e3350805e92391303357845b6189e89ac660f2cc7": {
       "seenAt": "2026-11-17T22:41:18.961Z",
       "title": "Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - WBFF",
@@ -2505,7 +2500,55 @@
       "seenAt": "2026-11-20T15:51:18.958Z",
       "title": "President Donald Trump Pardons Pete Rose, Claims Baseball Legend Was ‘Treated Terribly’ by MLB - Yahoo Sports",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "c4b8c9715c86159c475d0fddcdd7cd2c461543c7ff9beac6009ed1ff63ceb0b0": {
+      "seenAt": "2026-11-20T16:01:21.355Z",
+      "title": "\"조희대 탄핵은 국헌문란이자 내란\" 국힘 맹공…한동훈 \"임진왜란 일으킨 격\" - KBC광주방송",
+      "targetName": "한동훈"
+    },
+    "8575b10ad398f6556a819e29debcb75744ba45f173426394714413a1d3bda776": {
+      "seenAt": "2026-11-20T16:01:22.039Z",
+      "title": "한동훈, ‘조희대 탄핵 드라이브’ 與에 “가능성 0%, 곱게 미쳐야” - 시사저널",
+      "targetName": "한동훈"
+    },
+    "ded1f13a1f8b54182ece1a81103863bd10ee793f7de67e9f135ad604ce99b6a4": {
+      "seenAt": "2026-11-20T16:01:22.789Z",
+      "title": "'한동훈 딸 봉사 실적' 안양시의회서 점화... 시장 \"시스템 무너졌구나\" - OhmyNews",
+      "targetName": "한동훈"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "4c4fd7b86f067e1f528207b4fb18faca62700f34d612ba92a275c9f4def69004",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "[뉴스 즉설]10일에 1%p씩 까먹은 김민석, '진격의 깃발' 든 정청래 - 대전일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE93d2VYbFNGb2pzYm15dGd5VWZKcXAxR0lLMGlmZDBBbUhwVmpHMlVZNGZZMlVYVkpWdzVObjFDX1JRc3ZER24zV3RIT0FtTmZhZENNRmN3Y0xNVmJ6YkFIcHJTNGUzWkVYd3lrYzAwZmt3NzDSAXNBVV95cUxPd3dlWGxTRm9qc2JteXRneVVmSnFwMUdJSzBpZmQwQW1IcFZqRzJVWTRmWTJVWFZKVnc1Tm4xQ19SUXN2REduM1d0SE9BbU5mYWRDTUZjd2NMTVZiemJBSHByUzRlM1pFWHd5a2MwMGZrdzcw?oc=5\" target=\"_blank\">[뉴스 즉설]10일에 1%p씩 까먹은 김민석, '진격의 깃발' 든 정청래</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93d2VYbFNGb2pzYm15dGd5VWZKcXAxR0lLMGlmZDBBbUhwVmpHMlVZNGZZMlVYVkpWdzVObjFDX1JRc3ZER24zV3RIT0FtTmZhZENNRmN3Y0xNVmJ6YkFIcHJTNGUzWkVYd3lrYzAwZmt3NzDSAXNBVV95cUxPd3dlWGxTRm9qc2JteXRneVVmSnFwMUdJSzBpZmQwQW1IcFZqRzJVWTRmWTJVWFZKVnc1Tm4xQ19SUXN2REduM1d0SE9BbU5mYWRDTUZjd2NMTVZiemJBSHByUzRlM1pFWHd5a2MwMGZrdzcw?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 21:53:51 GMT",
+        "source": "대전일보",
+        "ageHours": 18.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d04a631a9a0297f9e0909b818bf65ae66faea46963a4a7179fbfe44f6b707b13",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "President Trump to hold news conference after returning from China - WKYC",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTDhXU3RlS0twTGQzS0l0TDd5dW5heTJ1cDdRZVNyNnU3UEluRmxHT0xnR3ZHWF9wNVZpN2U0STF1a3Y4ZWlsS0laRVhBY3BEMVktSlRaa1Y1SF9sVU5SX293NW8tQXZTX3NlUzE0dy1nNEZUZTY2cmV3d0Y2dS1uYllSeEhUeWVWc0plMkN2OWpnRUhrbm1EMUtjMVdXN0ozbzhCRUhKUl9YMENlU2EtM3FfZDktSWFuZWpkVjFsVzQxOWhJNjZOaTdKVjR0ZHpYQmJmdHdBZjhhMDd3NU14UDRKZEFFa1o5YzhRX2NXM3lLUmR6VjB2MzVvQW1rbVU?oc=5\" target=\"_blank\">President Trump to hold news conference after returning from China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKYC</font>",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTDhXU3RlS0twTGQzS0l0TDd5dW5heTJ1cDdRZVNyNnU3UEluRmxHT0xnR3ZHWF9wNVZpN2U0STF1a3Y4ZWlsS0laRVhBY3BEMVktSlRaa1Y1SF9sVU5SX293NW8tQXZTX3NlUzE0dy1nNEZUZTY2cmV3d0Y2dS1uYllSeEhUeWVWc0plMkN2OWpnRUhrbm1EMUtjMVdXN0ozbzhCRUhKUl9YMENlU2EtM3FfZDktSWFuZWpkVjFsVzQxOWhJNjZOaTdKVjR0ZHpYQmJmdHdBZjhhMDd3NU14UDRKZEFFa1o5YzhRX2NXM3lLUmR6VjB2MzVvQW1rbVU?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 15:07:00 GMT",
+        "source": "WKYC",
+        "ageHours": 0.9
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

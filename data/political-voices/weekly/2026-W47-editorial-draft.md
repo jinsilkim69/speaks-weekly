@@ -10011,3 +10011,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** "조희대 탄핵은 국헌문란이자 내란" 국힘 맹공…한동훈 "임진왜란 일으킨 격" - KBC광주방송
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "조희대 탄핵은 국헌문란이자 내란" 국힘 맹공…한동훈 "임진왜란 일으킨 격"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1UmtVdU53R0FWVUVtek1BVDhQbkV0T2lqcWtmMEd3ampBTXVReGFvMWFUbVhyQWIwamdCdThJZWFXVGdxaFdqRXRtc0dvM3R2YWs2SDNTY1F4ZGF2SWlWNA?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, ‘조희대 탄핵 드라이브’ 與에 “가능성 0%, 곱게 미쳐야” - 시사저널
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, ‘조희대 탄핵 드라이브’ 與에 “가능성 0%, 곱게 미쳐야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZZFVsbm9tMmhIYlh1bzVtbWt0MW1SMFRDT1BGQ19PWi03NS12R1ZUWE5haXNnVWVPVnJpY1Z5VUl1cWx5WWx2SEFRMEZWdm9qN2FEaFlFNzlXcnJGRFN3QUVmbk5POTFReGtEeldlUHgtVzTSAXNBVV95cUxOWWRVbG5vbTJoSGJYdW81bW1rdDFtUjBUQ09QRkNfT1otNzUtdkdWVFhOYWlzZ1VlT1ZyaWNWeVVJdXFseVlsdkhBUTBGVnZvajdhRGhZRTc5V3JyRkRTd0FFZm5OTzkxUXhrRHpXZVB4LVc0?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '한동훈 딸 봉사 실적' 안양시의회서 점화... 시장 "시스템 무너졌구나" - OhmyNews
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '한동훈 딸 봉사 실적' 안양시의회서 점화... 시장 "시스템 무너졌구나"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE0tUUpEY2FpdXFSejdXcTA2M3FqV2llQ0pSYUdNN0E5QVdIX1ZwSWJEUVM3VS1QWnNMN21oUnhTb1N4NHp2Mlc0dFpHUk4xMVc2MXhXTkl2QkJheUMxM2RPX0hUSUJncWZiTTRvN1Ytc2U2c3ZJbUFv?oc=5)
+
+---
+
