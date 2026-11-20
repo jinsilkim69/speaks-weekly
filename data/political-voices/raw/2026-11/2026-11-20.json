@@ -3000,5 +3000,82 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "3544e73b54921ba3b320f04d249551fb657858c9668a1c8315150d0308980653",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "비공개 의총 참석하는 정청래 더불어민주당 의원 - 데일리안",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQbVhYeXpDZTF1UFVIQXFnZnNBSDh0VG5FNWRLS0xCZmNTQmwteEFzMVpIdmR5ZWJlU0RHeHZBUkFFNE5sUTVRX25VUkUzNXpJN0ZnOGQ2OGdla0JLZ2RyQ1J6ci10NDNoNUtQNWwxelJxc3lyWTBzRjNiYVhqUlRqOUItN0JsbC1zVlFQR2N0QTBueV9iY18wQ1VoTHQzSFVzOUpGMVQwR1ctWm5pbW5teXNOWEh6UVZvYUN5X2k0LWdVbzdVVmpCbnVjbkhkckFZOGEzNkRLc3k1aE8tVVpQamxHTldqdktPVFl0RThWSDJiN2tEWmQ5NDVQZTFYS0tQSDZHa09zMy1OMGtZUDVHd2c0X0JMR0dqUG9qSXNnRk5Jb0k?oc=5\" target=\"_blank\">비공개 의총 참석하는 정청래 더불어민주당 의원</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQbVhYeXpDZTF1UFVIQXFnZnNBSDh0VG5FNWRLS0xCZmNTQmwteEFzMVpIdmR5ZWJlU0RHeHZBUkFFNE5sUTVRX25VUkUzNXpJN0ZnOGQ2OGdla0JLZ2RyQ1J6ci10NDNoNUtQNWwxelJxc3lyWTBzRjNiYVhqUlRqOUItN0JsbC1zVlFQR2N0QTBueV9iY18wQ1VoTHQzSFVzOUpGMVQwR1ctWm5pbW5teXNOWEh6UVZvYUN5X2k0LWdVbzdVVmpCbnVjbkhkckFZOGEzNkRLc3k1aE8tVVpQamxHTldqdktPVFl0RThWSDJiN2tEWmQ5NDVQZTFYS0tQSDZHa09zMy1OMGtZUDVHd2c0X0JMR0dqUG9qSXNnRk5Jb0k?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 04:51:00 GMT",
+    "source": "데일리안",
+    "ageHours": 1.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 비공개 의총 참석하는 정청래 더불어민주당 의원",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "5eff88b2b7442da3be6e3d26236c040a02cede25e2f30f33579173b8de622dad",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZlpuLWFHRXROckNhcnRFWDdlb3hPV1FGZTI1dk5PT253dlRaVVFfYVRjbjdrcVBjN3Y0djVTT29PbWFmSG9TWTlYS0lzSGwyYUFpZ1pjZUpDTjlSb09EUG5hQjNUVlhnU0x4R9IBckFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UQ?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZlpuLWFHRXROckNhcnRFWDdlb3hPV1FGZTI1dk5PT253dlRaVVFfYVRjbjdrcVBjN3Y0djVTT29PbWFmSG9TWTlYS0lzSGwyYUFpZ1pjZUpDTjlSb09EUG5hQjNUVlhnU0x4R9IBckFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 05:55:48 GMT",
+    "source": "머니투데이",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "09ad45f9be70c64f0db28f243a15b35a8f3bcf21fbb4b6537e839b284ee84693",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "신장식, “曺 이번 주말에 바로 탄핵해야”...법원행정처 폐지도 촉구 - 매일경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nNmF2OFZtZkJFZTBhdWFoYy10OHVudDQ1dlNpdTdIX1FzYkRVbjZWNzlBamY3OUpWVFpOUTdyREJuMHVXcG8wU1U5LUlRN3BYa05KLWFB?oc=5\" target=\"_blank\">신장식, “曺 이번 주말에 바로 탄핵해야”...법원행정처 폐지도 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nNmF2OFZtZkJFZTBhdWFoYy10OHVudDQ1dlNpdTdIX1FzYkRVbjZWNzlBamY3OUpWVFpOUTdyREJuMHVXcG8wU1U5LUlRN3BYa05KLWFB?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 04:27:36 GMT",
+    "source": "매일경제",
+    "ageHours": 1.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식, “曺 이번 주말에 바로 탄핵해야”...법원행정처 폐지도 촉구",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

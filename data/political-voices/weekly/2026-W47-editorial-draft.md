@@ -9257,3 +9257,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 비공개 의총 참석하는 정청래 더불어민주당 의원 - 데일리안
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 비공개 의총 참석하는 정청래 더불어민주당 의원
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowJBVV95cUxQbVhYeXpDZTF1UFVIQXFnZnNBSDh0VG5FNWRLS0xCZmNTQmwteEFzMVpIdmR5ZWJlU0RHeHZBUkFFNE5sUTVRX25VUkUzNXpJN0ZnOGQ2OGdla0JLZ2RyQ1J6ci10NDNoNUtQNWwxelJxc3lyWTBzRjNiYVhqUlRqOUItN0JsbC1zVlFQR2N0QTBueV9iY18wQ1VoTHQzSFVzOUpGMVQwR1ctWm5pbW5teXNOWEh6UVZvYUN5X2k0LWdVbzdVVmpCbnVjbkhkckFZOGEzNkRLc3k1aE8tVVpQamxHTldqdktPVFl0RThWSDJiN2tEWmQ5NDVQZTFYS0tQSDZHa09zMy1OMGtZUDVHd2c0X0JMR0dqUG9qSXNnRk5Jb0k?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZlpuLWFHRXROckNhcnRFWDdlb3hPV1FGZTI1dk5PT253dlRaVVFfYVRjbjdrcVBjN3Y0djVTT29PbWFmSG9TWTlYS0lzSGwyYUFpZ1pjZUpDTjlSb09EUG5hQjNUVlhnU0x4R9IBckFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UQ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식, “曺 이번 주말에 바로 탄핵해야”...법원행정처 폐지도 촉구 - 매일경제
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식, “曺 이번 주말에 바로 탄핵해야”...법원행정처 폐지도 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nNmF2OFZtZkJFZTBhdWFoYy10OHVudDQ1dlNpdTdIX1FzYkRVbjZWNzlBamY3OUpWVFpOUTdyREJuMHVXcG8wU1U5LUlRN3BYa05KLWFB?oc=5)
+
+---
+

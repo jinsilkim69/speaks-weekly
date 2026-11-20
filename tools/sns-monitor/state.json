@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T06:01:19.233Z",
+  "lastCheckedAt": "2026-11-20T06:11:16.451Z",
   "seenPostIds": {
-    "ce570e4a191e7ba5ff43a3678ecd87f01493239313745320093633cef31e14a5": {
-      "seenAt": "2026-11-17T11:51:19.588Z",
-      "title": "‘조작기소 특검법’ 국무회의 통과에 野 “이재명 탈옥법...국민이 심판할 것” 반발 - 조선일보",
-      "targetName": "이재명"
-    },
-    "b923c604fef17b65ec20ce4b04d2969ffdbed8bc98a03cce7e4286ee35b7b34b": {
-      "seenAt": "2026-11-17T11:51:20.400Z",
-      "title": "정청래, ‘대타협 제안’ 송영길에 “자격 미달자는 나서지 마라” - 천지일보",
-      "targetName": "정청래"
-    },
-    "bde238eebc9e5e9fd0e93c5e0489fb7ef4460cb5fcd73342f637c7f07c79a2a6": {
-      "seenAt": "2026-11-17T11:51:21.098Z",
-      "title": "이준석, 비행기서 만든 AI 부정행위 탐지 앱 공개…“교육부 답변에 한숨” - 주간조선",
-      "targetName": "이준석"
-    },
     "db91d30e17508dffc0f833cac43b6d04200966c8f4a1bc7e09a00ad31c5f6499": {
       "seenAt": "2026-11-17T12:01:19.498Z",
       "title": "조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\" - 뉴시스",
@@ -2515,40 +2500,22 @@
       "seenAt": "2026-11-20T06:01:22.458Z",
       "title": "정청래 \"한덕수 일부 무죄는 꼼수 판결…조희대 탄핵 마땅\" | - 대전일보",
       "targetName": "정청래"
+    },
+    "3544e73b54921ba3b320f04d249551fb657858c9668a1c8315150d0308980653": {
+      "seenAt": "2026-11-20T06:11:17.504Z",
+      "title": "비공개 의총 참석하는 정청래 더불어민주당 의원 - 데일리안",
+      "targetName": "정청래"
+    },
+    "5eff88b2b7442da3be6e3d26236c040a02cede25e2f30f33579173b8de622dad": {
+      "seenAt": "2026-11-20T06:11:18.112Z",
+      "title": "신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\" - 머니투데이 - 머니투데이",
+      "targetName": "신장식"
+    },
+    "09ad45f9be70c64f0db28f243a15b35a8f3bcf21fbb4b6537e839b284ee84693": {
+      "seenAt": "2026-11-20T06:11:18.765Z",
+      "title": "신장식, “曺 이번 주말에 바로 탄핵해야”...법원행정처 폐지도 촉구 - 매일경제",
+      "targetName": "신장식"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "3544e73b54921ba3b320f04d249551fb657858c9668a1c8315150d0308980653",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "비공개 의총 참석하는 정청래 더불어민주당 의원 - 데일리안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQbVhYeXpDZTF1UFVIQXFnZnNBSDh0VG5FNWRLS0xCZmNTQmwteEFzMVpIdmR5ZWJlU0RHeHZBUkFFNE5sUTVRX25VUkUzNXpJN0ZnOGQ2OGdla0JLZ2RyQ1J6ci10NDNoNUtQNWwxelJxc3lyWTBzRjNiYVhqUlRqOUItN0JsbC1zVlFQR2N0QTBueV9iY18wQ1VoTHQzSFVzOUpGMVQwR1ctWm5pbW5teXNOWEh6UVZvYUN5X2k0LWdVbzdVVmpCbnVjbkhkckFZOGEzNkRLc3k1aE8tVVpQamxHTldqdktPVFl0RThWSDJiN2tEWmQ5NDVQZTFYS0tQSDZHa09zMy1OMGtZUDVHd2c0X0JMR0dqUG9qSXNnRk5Jb0k?oc=5\" target=\"_blank\">비공개 의총 참석하는 정청래 더불어민주당 의원</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
-        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQbVhYeXpDZTF1UFVIQXFnZnNBSDh0VG5FNWRLS0xCZmNTQmwteEFzMVpIdmR5ZWJlU0RHeHZBUkFFNE5sUTVRX25VUkUzNXpJN0ZnOGQ2OGdla0JLZ2RyQ1J6ci10NDNoNUtQNWwxelJxc3lyWTBzRjNiYVhqUlRqOUItN0JsbC1zVlFQR2N0QTBueV9iY18wQ1VoTHQzSFVzOUpGMVQwR1ctWm5pbW5teXNOWEh6UVZvYUN5X2k0LWdVbzdVVmpCbnVjbkhkckFZOGEzNkRLc3k1aE8tVVpQamxHTldqdktPVFl0RThWSDJiN2tEWmQ5NDVQZTFYS0tQSDZHa09zMy1OMGtZUDVHd2c0X0JMR0dqUG9qSXNnRk5Jb0k?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 04:51:00 GMT",
-        "source": "데일리안",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5eff88b2b7442da3be6e3d26236c040a02cede25e2f30f33579173b8de622dad",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZlpuLWFHRXROckNhcnRFWDdlb3hPV1FGZTI1dk5PT253dlRaVVFfYVRjbjdrcVBjN3Y0djVTT29PbWFmSG9TWTlYS0lzSGwyYUFpZ1pjZUpDTjlSb09EUG5hQjNUVlhnU0x4R9IBckFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UQ?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZlpuLWFHRXROckNhcnRFWDdlb3hPV1FGZTI1dk5PT253dlRaVVFfYVRjbjdrcVBjN3Y0djVTT29PbWFmSG9TWTlYS0lzSGwyYUFpZ1pjZUpDTjlSb09EUG5hQjNUVlhnU0x4R9IBckFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UQ?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 05:55:48 GMT",
-        "source": "머니투데이",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
