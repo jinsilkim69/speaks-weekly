@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T08:01:15.142Z",
+  "lastCheckedAt": "2026-11-20T08:41:17.167Z",
   "seenPostIds": {
-    "2834a1ca1ef0194c870123afb13ccf56098f58024e06d581592ac7151987887c": {
-      "seenAt": "2026-11-17T12:41:21.414Z",
-      "title": "장동혁, 한동훈 장인상 조문…윤리위 개입 논란에 빛바랜 장외투쟁 - 경향신문",
-      "targetName": "한동훈"
-    },
     "e77f8f47a5c57f61f0fb876fae186798ce92d66bfe5683aef52f0512df710af7": {
       "seenAt": "2026-11-17T12:41:22.101Z",
       "title": "조국 \"뒤통수 또 맞을 것…한덕수 대법원 판결 주목해야\" - 뉴시스",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-20T08:01:16.168Z",
       "title": "밝은 표정의 최민희, 정청래와 악수... 징계 공방 속 맞잡은 손 [오늘의 정치 B컷] - 세계일보",
       "targetName": "정청래"
+    },
+    "3574379afac8aa00cf83c9c7777bc257214d3975113c556977786d3136994629": {
+      "seenAt": "2026-11-20T08:41:18.523Z",
+      "title": "조국, 조국혁신당 '비전랩' 위원장 맡는다 - 뉴스1",
+      "targetName": "조국"
+    },
+    "cb6563b7ed56ecc3439de2e37212e22813fde8a14c3c243e30e76860071805f1": {
+      "seenAt": "2026-11-20T08:41:19.283Z",
+      "title": "Trump Says US Can Take Strait of Hormuz With More Time, Take the Oil and Make a Fortune - EnergyNow.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
