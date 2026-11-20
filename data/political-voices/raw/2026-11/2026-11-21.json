@@ -782,5 +782,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d5fc0c34ad59873b7aff6c05bbacee024986465c0c2b9fca124119ca64908662",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "President Trump to hold news conference after returning from China - KING5.com",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNZjUxeWVzY2xvbi1lbUNRRDdSMWQwZ1dMMmNxLUd1NURhWVFfeVA5SGxHWnFGNVNFX29WQllxT25JcXhZNE1mU05UMVNqUUpaMGlZMVVRZkFCUW1PckJCQWpFZHc4cUQwbHZZOUZFTTJiMHB5YmRvUHdJVXdVaEVzY1hlelVnRU10SkJQWTJUeS02VXV0ZUNka25ub0FlX1dUYUZQOENsdmQ5NzNsdzJlWEpSR3F3ZURIWW11dy1pX2M1RnJreGhOYVRfYnpGNTc2VWJrOVVlWk5JTG5CYzhwOFZBWjk5Q0RqSEhpdjNyTkpRTVJ3a2hkbDByTGozTHdG?oc=5\" target=\"_blank\">President Trump to hold news conference after returning from China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KING5.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZjUxeWVzY2xvbi1lbUNRRDdSMWQwZ1dMMmNxLUd1NURhWVFfeVA5SGxHWnFGNVNFX29WQllxT25JcXhZNE1mU05UMVNqUUpaMGlZMVVRZkFCUW1PckJCQWpFZHc4cUQwbHZZOUZFTTJiMHB5YmRvUHdJVXdVaEVzY1hlelVnRU10SkJQWTJUeS02VXV0ZUNka25ub0FlX1dUYUZQOENsdmQ5NzNsdzJlWEpSR3F3ZURIWW11dy1pX2M1RnJreGhOYVRfYnpGNTc2VWJrOVVlWk5JTG5CYzhwOFZBWjk5Q0RqSEhpdjNyTkpRTVJ3a2hkbDByTGozTHdG?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 15:07:00 GMT",
+    "source": "KING5.com",
+    "ageHours": 6.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] President Trump to hold news conference after returning from China",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
