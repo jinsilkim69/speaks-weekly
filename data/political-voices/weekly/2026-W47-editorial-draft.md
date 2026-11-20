@@ -9725,3 +9725,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 수출 1조달러에 "日도 도달 못한 숫자…국민 모두의 성과" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 수출 1조달러에 "日도 도달 못한 숫자…국민 모두의 성과"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE1uS0c2WWg1azRfSlg1dUh4SmNaR1gwT3lEUFBDcHplVloyWGVCbUZ6bE1WdXRFb1NfdjVxNm9JRng4d3lrZHVTeVJxS0dOaGFzbTlUTzI1cjVaS3V5NzJjSHAxczFnMXRtazh4WHlhbkRKSV9CalloYWNn0gF_QVVfeXFMTWI2Q0tmUjFkdm9obmEtUHlENHFWTnkyNVRia3k5bExKTTFaYVRqMUxSeEkyRUliWmktM1BzYm1kS2JMQnNrSVRfdjVFNGlEdklXeUVaQUY0WWVwSG1UVTJjQUNIX1BuZmNlMEhOTFJZMmhwZkhqX3RvMFlGakdUWQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** President Trump’s social media pardon of Pete Rose raises questions worth asking | Opinion - Inquirer.com
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] President Trump’s social media pardon of Pete Rose raises questions worth asking | Opinion
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0ViYm5fTVlUMWxqaElNSFBGRDdaMVhqdVVQSlhYN3hENTEwb3N5UjVvYUkxYkdzaFRPS2cyVGMzOF9hZUgwSTdJMGVMSlFnVE1LcldseEZ5SXd2TEd3UXM1U0EwMXJackdWcnF2Q2t6VkJpNTBFTUhkZV91RlZhUlUxVXBZc3NGbXVCQnA1SlRwd1B0LTVlRUx5WVlWODl2NVprMGt6RzM?oc=5)
+
+---
+
