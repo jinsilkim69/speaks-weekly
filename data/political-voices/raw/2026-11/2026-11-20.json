@@ -4241,5 +4241,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "824dcfe51e922e72fe82d7bc459b256dd0233e06900865f29683c5e4c31fb68c",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "민주당, 조희대 대법원장 탄핵 추진 결정…김민석 \"한덕수 파기환송은 반역사적 결정\" - 프리진경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5TYU85VDFyaVVsVUI2bnIxRzdFci1FODZ1dnNIbzNYTzRKeDZ0bl83Vm16WkdHdy0xZm52bmJaaWNHa2gzVExTd1RNeHR4N1lDNWdrRUc5MjhCZDVncm96eFozbjFZeWVoNF8yaA?oc=5\" target=\"_blank\">민주당, 조희대 대법원장 탄핵 추진 결정…김민석 \"한덕수 파기환송은 반역사적 결정\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프리진경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TYU85VDFyaVVsVUI2bnIxRzdFci1FODZ1dnNIbzNYTzRKeDZ0bl83Vm16WkdHdy0xZm52bmJaaWNHa2gzVExTd1RNeHR4N1lDNWdrRUc5MjhCZDVncm96eFozbjFZeWVoNF8yaA?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 14:13:10 GMT",
+    "source": "프리진경제",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당, 조희대 대법원장 탄핵 추진 결정…김민석 \"한덕수 파기환송은 반역사적 결정\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "beb9e21a13529885c1ead34eba37663be978cb349d1ce71f38d081f8b55ef2cc",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "일본 \"조국 입국 거부는 입시비리 전과 때문…독도 방문 무관\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9nNGNxWlJ0S1N0UWR5Q3pyU1NCWjNGdmNVemI3WXFlVldkX0NJcWxtQW1qa0tjZHJYMlZHRENiU0M1cmtHeW1vYXNxTHZ5eG1yam1CZlhmeHpzdTBNdzVTUmpTY1pvSXF1aTEwWXROcmZMeHl2ejk1NU530gF_QVVfeXFMTmhJZUlVSWVCQ0lGaWp6YVFVZ1pMRTVaZGx1akVDRldmYW9pTVZQdnBWdFAzLUd6bE15bjgtQnJXWVJneVRubVdpU19IT1RLUVNvMy02ZGM0cXhGTWpiZjJ6UnN0cW10cnFGY015T2djRXl4U3l3eF9CTVVQQXpSUQ?oc=5\" target=\"_blank\">일본 \"조국 입국 거부는 입시비리 전과 때문…독도 방문 무관\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nNGNxWlJ0S1N0UWR5Q3pyU1NCWjNGdmNVemI3WXFlVldkX0NJcWxtQW1qa0tjZHJYMlZHRENiU0M1cmtHeW1vYXNxTHZ5eG1yam1CZlhmeHpzdTBNdzVTUmpTY1pvSXF1aTEwWXROcmZMeHl2ejk1NU530gF_QVVfeXFMTmhJZUlVSWVCQ0lGaWp6YVFVZ1pMRTVaZGx1akVDRldmYW9pTVZQdnBWdFAzLUd6bE15bjgtQnJXWVJneVRubVdpU19IT1RLUVNvMy02ZGM0cXhGTWpiZjJ6UnN0cW10cnFGY015T2djRXl4U3l3eF9CTVVQQXpSUQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 12:37:21 GMT",
+    "source": "머니투데이",
+    "ageHours": 2.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 일본 \"조국 입국 거부는 입시비리 전과 때문…독도 방문 무관\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

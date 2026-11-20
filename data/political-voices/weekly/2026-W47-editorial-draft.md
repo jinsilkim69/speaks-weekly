@@ -9894,3 +9894,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주당, 조희대 대법원장 탄핵 추진 결정…김민석 "한덕수 파기환송은 반역사적 결정" - 프리진경제
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당, 조희대 대법원장 탄핵 추진 결정…김민석 "한덕수 파기환송은 반역사적 결정"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5TYU85VDFyaVVsVUI2bnIxRzdFci1FODZ1dnNIbzNYTzRKeDZ0bl83Vm16WkdHdy0xZm52bmJaaWNHa2gzVExTd1RNeHR4N1lDNWdrRUc5MjhCZDVncm96eFozbjFZeWVoNF8yaA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 일본 "조국 입국 거부는 입시비리 전과 때문…독도 방문 무관" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 일본 "조국 입국 거부는 입시비리 전과 때문…독도 방문 무관"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE9nNGNxWlJ0S1N0UWR5Q3pyU1NCWjNGdmNVemI3WXFlVldkX0NJcWxtQW1qa0tjZHJYMlZHRENiU0M1cmtHeW1vYXNxTHZ5eG1yam1CZlhmeHpzdTBNdzVTUmpTY1pvSXF1aTEwWXROcmZMeHl2ejk1NU530gF_QVVfeXFMTmhJZUlVSWVCQ0lGaWp6YVFVZ1pMRTVaZGx1akVDRldmYW9pTVZQdnBWdFAzLUd6bE15bjgtQnJXWVJneVRubVdpU19IT1RLUVNvMy02ZGM0cXhGTWpiZjJ6UnN0cW10cnFGY015T2djRXl4U3l3eF9CTVVQQXpSUQ?oc=5)
+
+---
+

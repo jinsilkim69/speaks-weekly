@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T14:21:21.169Z",
+  "lastCheckedAt": "2026-11-20T14:41:24.528Z",
   "seenPostIds": {
-    "7bd354b0c53d4257c0940219e538d5ebf7c7c7e514deb1d03f4b0f5aa0659c00": {
-      "seenAt": "2026-11-17T18:41:19.958Z",
-      "title": "Fact-check: Did Trump warn of '90-day' nationwide blackout? Social media videos manipulated - WRAL",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "ebfdde85a9a5a3ed73effaa8ac39844c4d1130225b1ee33366822eabd3f5254e": {
-      "seenAt": "2026-11-17T19:41:22.651Z",
-      "title": "'일본 입국 거부' 조국 \"과거 방문 땐 문제 없었는데...\" - OhmyNews",
-      "targetName": "조국"
-    },
     "51a757922a9c1454df259775f753240a1e49b5bc4e223dc99f195c4d2c6124a5": {
       "seenAt": "2026-11-17T19:51:20.320Z",
       "title": "추미애, 김민석에 직격탄…“민주당 민주주의 무너뜨린 책임 물어야” - 중부일보",
@@ -2510,6 +2500,16 @@
       "seenAt": "2026-11-20T14:21:23.465Z",
       "title": "Fact Check: Fake Trump Truth Social screenshots on post-election policy are satire - Reuters",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "824dcfe51e922e72fe82d7bc459b256dd0233e06900865f29683c5e4c31fb68c": {
+      "seenAt": "2026-11-20T14:41:26.020Z",
+      "title": "민주당, 조희대 대법원장 탄핵 추진 결정…김민석 \"한덕수 파기환송은 반역사적 결정\" - 프리진경제",
+      "targetName": "김민석"
+    },
+    "beb9e21a13529885c1ead34eba37663be978cb349d1ce71f38d081f8b55ef2cc": {
+      "seenAt": "2026-11-20T14:41:28.008Z",
+      "title": "일본 \"조국 입국 거부는 입시비리 전과 때문…독도 방문 무관\" - 머니투데이 - 머니투데이",
+      "targetName": "조국"
     }
   },
   "pending": []
