@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T18:21:18.126Z",
+  "lastCheckedAt": "2026-11-20T18:41:17.935Z",
   "seenPostIds": {
-    "2c2ef11608e19736beafbac281a9ba4c8d491c54fe68422eb36ef553e4a9d691": {
-      "seenAt": "2026-11-17T23:51:20.090Z",
-      "title": "추미애 \"윤리심판원, 김민석 마타도어부터 판단해야\"… 민주당 '최민희 징계' 내홍 확전 - 한국경제",
-      "targetName": "김민석"
-    },
-    "1a69ba188311245eb6728960b5c5c72b42a6e34e82e3a327ec7519a9f3e36a8b": {
-      "seenAt": "2026-11-17T23:51:20.784Z",
-      "title": "추미애, '최민희 발언 논란' 징계에 \"김민석 문제부터 엄중 판단해야\" - 중앙신문",
-      "targetName": "김민석"
-    },
     "66f6019f7aac68622a8a62939cc988963d69114d89b501f7960e2ee46a8c9470": {
       "seenAt": "2026-11-18T00:01:19.865Z",
       "title": "추미애 \"김민석, 신천지 발언 사과로 끝낼 일 아냐…당 윤리심판원 엄중히 판단해야\" - 아시아경제",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-20T18:21:19.793Z",
       "title": "WATCH LIVE: President Trump holds news conference after returning from China - KHOU",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "736e9c19f318e09145a324f48e59c1defa36366ffb696edaed0474a169fbaac1": {
+      "seenAt": "2026-11-20T18:41:19.181Z",
+      "title": "이재명 ‘눈물 유세’…송영길 \"토닥토닥\", 홍준표 \"쇼 잘한다\" - JTBC",
+      "targetName": "송영길"
     }
   },
   "pending": []
