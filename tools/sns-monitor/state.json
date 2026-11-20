@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-20T06:41:15.842Z",
+  "lastCheckedAt": "2026-11-20T06:51:18.403Z",
   "seenPostIds": {
     "a118a0eb1992734bc034138cf5020087e31558ce59b555c49729173385b87e2e": {
       "seenAt": "2026-11-17T12:21:19.211Z",
@@ -2500,7 +2500,39 @@
       "seenAt": "2026-11-20T06:31:16.919Z",
       "title": "김민석, 수출 1조달러에 \"日도 도달 못한 숫자…국민 모두의 성과\" - 머니투데이 - 머니투데이",
       "targetName": "김민석"
+    },
+    "bb8b0f87a9adda4dcffe9a3328ef7f508d458f49a0da12bb35846c8adfdee115": {
+      "seenAt": "2026-11-20T06:51:19.766Z",
+      "title": "이재명 \"韓 전자정부 1위론 부족…국민 체감 ‘AI 민주정부’ 구축” - 지디넷코리아",
+      "targetName": "이재명"
+    },
+    "189dab1e449c6af35a9c1ea7b24b956ebc3d63c9ece2ebe44f88a9f947f35803": {
+      "seenAt": "2026-11-20T06:51:20.465Z",
+      "title": "김우영 “조희대 탄핵, 정청래 추미애 뭐했나?” - 평화나무",
+      "targetName": "정청래"
+    },
+    "46ad3258fce00b7293bfddb61e42dfba0dc168ce6a786e700f8fd67190ec55f8": {
+      "seenAt": "2026-11-20T06:51:21.152Z",
+      "title": "[뉴스 즉설]10일에 1%p씩 까먹은 김민석, '진격의 깃발' 든 정청래 - 대전일보",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "dc00ecbc4fc12142b2f1ccfc6d8ea8dfa406c727de17e02abfbcd0f91933ae11",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식, 조희대 주말탄핵 주장하는 이유 “언론이 ‘역풍’ 부추기기 전에 해야” - 미디어오늘",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBnV3VrWFVxWVU5Ykttal91VlFHX2htQi1DOE5IaVF3Vi1zRHNmeFRjaUFVc0NZOFpzVmJtR3d5WEpYN1Q3cWpHWDFTdnFuWGFqc2V3MjE2Zy1zUnlrMU90WVVPeW9wb1dhRzZITmFkdm8?oc=5\" target=\"_blank\">신장식, 조희대 주말탄핵 주장하는 이유 “언론이 ‘역풍’ 부추기기 전에 해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미디어오늘</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnV3VrWFVxWVU5Ykttal91VlFHX2htQi1DOE5IaVF3Vi1zRHNmeFRjaUFVc0NZOFpzVmJtR3d5WEpYN1Q3cWpHWDFTdnFuWGFqc2V3MjE2Zy1zUnlrMU90WVVPeW9wb1dhRzZITmFkdm8?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 06:34:20 GMT",
+        "source": "미디어오늘",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

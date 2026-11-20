@@ -9335,3 +9335,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 "韓 전자정부 1위론 부족…국민 체감 ‘AI 민주정부’ 구축” - 지디넷코리아
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 "韓 전자정부 1위론 부족…국민 체감 ‘AI 민주정부’ 구축”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE44Y1B0ZWZaQmh2cXowMWd3MXI5NXBUOGtvcWdyaHppN25sWjNMc0plT3V3ajlvQ2pTNnFTVTJwWW9oalBaVTEzZjVfRFBwRlI2cENDaUdB?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김우영 “조희대 탄핵, 정청래 추미애 뭐했나?” - 평화나무
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김우영 “조희대 탄핵, 정청래 추미애 뭐했나?”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBfaFJtdHhCNnZNQXBnejRUX2dKbUFaOUhOVkdFdi1hcmIxWW1VLTdhb0R1ZEJEUWVLemhMUkc1RUhCVU5uY2hWLWRTeG85d3dybUVtNWJIYjhieXJfaU1rSC03VGdmT1YtY0E?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [뉴스 즉설]10일에 1%p씩 까먹은 김민석, '진격의 깃발' 든 정청래 - 대전일보
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 10일에 1%p씩 까먹은 김민석, '진격의 깃발' 든 정청래
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE5TcmFaZklqRUt1Sm5PZF9vU2xTNVBJX1h6enczVjNLN0pYWjE2V2hKWmU3aDhCcnR0dEFHQXpfLWtQbFU3czI2bGtBQ01lVWhFSXhZUzR5ZHRrdHpzSTB1V0lSVWpvZnhyZ3NuWlNVb9IBc0FVX3lxTE93d2VYbFNGb2pzYm15dGd5VWZKcXAxR0lLMGlmZDBBbUhwVmpHMlVZNGZZMlVYVkpWdzVObjFDX1JRc3ZER24zV3RIT0FtTmZhZENNRmN3Y0xNVmJ6YkFIcHJTNGUzWkVYd3lrYzAwZmt3NzA?oc=5)
+
+---
+
