@@ -10271,3 +10271,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 “5천500억 공익환수가 배임이면 일반 개발허가는 무엇인가” : 정치 - 재경일보
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 “5천500억 공익환수가 배임이면 일반 개발허가는 무엇인가” : 정치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIZi1fc3BSaUhJZTBwR2hXYnJnd3FLS3VBV081aEtxeG5RU2VFMDZ5ZTlpbl93ZXhxbWd4UnZxMW5HeVlmazNlTmxGcw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 이어 민주당도 조희대 탄핵 동참…야권 "광기·내란" 비난(종합) - 뉴스토마토
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 이어 민주당도 조희대 탄핵 동참…야권 "광기·내란" 비난(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wMi0yUHkyTlNQZGpvY3FOdF93V1BWU1BwVFBXT3FfS1poUlVkVmhld1hVdlpleC1FZ1dHazJJY2h2d0ZPZzRndVhrd2t4OU9KLUZoNlU0S0NoaHVQQl8zcg?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** "말보다 노래로"…신장식, 민주유공자법 통과 소회 담아 '사람 사는 세상' 열창 #shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "말보다 노래로"…신장식, 민주유공자법 통과 소회 담아 '사람 사는 세상' 열창 #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE02U3FudE5NUDlsWVY1QU1CZ2VqTzVPS1Q4Ni16ZDUwZ2ZRRm1VV3k3UXRzMzZXZlFqUUt4dFg1ajhXNC1MLWtCZFJYd0o3RlNlcjV0Q0VPRnhiWTJOWUxYVk14Rk1aM0F6T2RPY0JybGd3SnFUZzRtT2VJREozNmM?oc=5)
+
+---
+
