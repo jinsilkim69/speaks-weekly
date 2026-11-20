@@ -2846,5 +2846,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "28ccc7c310c2a17071d06b2d988251f5286acea642b1cdd93915452288d521b3",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "與윤리심판원, 27일 최민희 징계 심의…김민석 ‘신천지 발언’도 논의 - 경기일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5meE1VOTNFUnVDZGFKVlBoRDZ5VUxXLTVfR0JDQW4wZzNsV1llR1MtZUN1b1JNYXNQSThTWGpBMW14dGs4cUxEanZFUXRubzFYU2R6RER5Z2l3bjQ?oc=5\" target=\"_blank\">與윤리심판원, 27일 최민희 징계 심의…김민석 ‘신천지 발언’도 논의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5meE1VOTNFUnVDZGFKVlBoRDZ5VUxXLTVfR0JDQW4wZzNsV1llR1MtZUN1b1JNYXNQSThTWGpBMW14dGs4cUxEanZFUXRubzFYU2R6RER5Z2l3bjQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 02:41:52 GMT",
+    "source": "경기일보",
+    "ageHours": 2.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 與윤리심판원, 27일 최민희 징계 심의…김민석 ‘신천지 발언’도 논의",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "1e3984abd8c03083e927cd1c5271c9fce98f2c2b29d5d162870a921fc0fac715",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "[영상] 신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" - OhmyNews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxORDc1LW5TNzlJQURGLUltQzRPeVdJWFlieldFRzhYUDJzUHFlcWYzUnFVR1haZkJ6c1FNUktfSzlQckdkeW1mS3ZZVXpnQzZYUFVPcERaanVoX2k4YXI4SWdvbU1RQ1dPMFVPMXJwd1dmVlNtTWhPcjlQQTAzUExMSDZOekI0RnVXRElIblBn?oc=5\" target=\"_blank\">[영상] 신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORDc1LW5TNzlJQURGLUltQzRPeVdJWFlieldFRzhYUDJzUHFlcWYzUnFVR1haZkJ6c1FNUktfSzlQckdkeW1mS3ZZVXpnQzZYUFVPcERaanVoX2k4YXI4SWdvbU1RQ1dPMFVPMXJwd1dmVlNtTWhPcjlQQTAzUExMSDZOekI0RnVXRElIblBn?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 02:59:59 GMT",
+    "source": "OhmyNews",
+    "ageHours": 2.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

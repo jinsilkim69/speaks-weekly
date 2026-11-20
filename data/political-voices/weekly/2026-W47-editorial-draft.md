@@ -9179,3 +9179,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與윤리심판원, 27일 최민희 징계 심의…김민석 ‘신천지 발언’도 논의 - 경기일보
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與윤리심판원, 27일 최민희 징계 심의…김민석 ‘신천지 발언’도 논의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5meE1VOTNFUnVDZGFKVlBoRDZ5VUxXLTVfR0JDQW4wZzNsV1llR1MtZUN1b1JNYXNQSThTWGpBMW14dGs4cUxEanZFUXRubzFYU2R6RER5Z2l3bjQ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** [영상] 신장식 "조희대 탄핵 추진 환영... 내일 표결하자" - OhmyNews
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대 탄핵 추진 환영... 내일 표결하자"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxORDc1LW5TNzlJQURGLUltQzRPeVdJWFlieldFRzhYUDJzUHFlcWYzUnFVR1haZkJ6c1FNUktfSzlQckdkeW1mS3ZZVXpnQzZYUFVPcERaanVoX2k4YXI4SWdvbU1RQ1dPMFVPMXJwd1dmVlNtTWhPcjlQQTAzUExMSDZOekI0RnVXRElIblBn?oc=5)
+
+---
+
