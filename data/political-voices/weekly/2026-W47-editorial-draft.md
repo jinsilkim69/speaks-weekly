@@ -9387,3 +9387,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 여 조희대 탄핵에 “민주 미쳐도 곱게 미쳐야···김민석, 당신 의원직 걸거냐” - 주간경향
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 여 조희대 탄핵에 “민주 미쳐도 곱게 미쳐야···김민석, 당신 의원직 걸거냐”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CUzF5WldPVEpudGFwNWRjWFlZbm1qLVVkV0h2dDBsRDAtZ0dDZWFobXNDSElGZ2xnNzRGX0pTelJ6MG1RRzlTUEE5bFNVcjBlOTZDN09VRGlwZm91dVE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 한동훈, 여 조희대 탄핵에 “민주 미쳐도 곱게 미쳐야···김민석, 당신 의원직 걸거냐” - 주간경향
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 여 조희대 탄핵에 “민주 미쳐도 곱게 미쳐야···김민석, 당신 의원직 걸거냐”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CUzF5WldPVEpudGFwNWRjWFlZbm1qLVVkV0h2dDBsRDAtZ0dDZWFobXNDSElGZ2xnNzRGX0pTelJ6MG1RRzlTUEE5bFNVcjBlOTZDN09VRGlwZm91dVE?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 밝은 표정의 최민희, 정청래와 악수... 징계 공방 속 맞잡은 손 [오늘의 정치 B컷] - 세계일보
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 밝은 표정의 최민희, 정청래와 악수... 징계 공방 속 맞잡은 손
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBncXFTa0lBaXlhdXh1SV91UXlfcC1LX1BUYkdJM0p0WGlZUXB1R1NnelA0YTNPUnM3MmV5b184Y184YVNUbjF4dktLdk1pV29EVlcyYVlwdG3SAVRBVV95cUxORXZ0TGVpbDFEWVUzTnA2b1BlVUF5QmNMeG9pZWNmNHJmNXVmdWdpOUdycjctSHY2bkZxTXpUQl84SE1qT09XUktteUVuVmFGdmZ4NHQ?oc=5)
+
+---
+

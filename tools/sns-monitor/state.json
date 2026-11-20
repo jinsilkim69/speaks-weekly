@@ -1,26 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T06:51:18.403Z",
+  "lastCheckedAt": "2026-11-20T07:31:18.640Z",
   "seenPostIds": {
-    "a118a0eb1992734bc034138cf5020087e31558ce59b555c49729173385b87e2e": {
-      "seenAt": "2026-11-17T12:21:19.211Z",
-      "title": "정청래, 송영길에 \"자격미달자\" 공개 비판 … 민주당 '명청대전' 석 달째 격화 - 뉴데일리",
-      "targetName": "송영길"
-    },
-    "8f7818824726a65dbd7709c02aa784be2e783f7b025f216c8b370e885bc7659e": {
-      "seenAt": "2026-11-17T12:21:19.975Z",
-      "title": "이준석, 'AI 부정행위 방지 앱' 개발…\"교육부, 감독관 휴대전화 예외 검토를\" - 더팩트",
-      "targetName": "이준석"
-    },
-    "a6b70b7836c6d43894968e41b7e125cf4148ef79d85af322ed02565aed5b4dc5": {
-      "seenAt": "2026-11-17T12:21:20.676Z",
-      "title": "이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "targetName": "이재명"
-    },
-    "33c1d95b8f5e709ecd1e7e9aef0e404ea0bec73560993c6a183550ca828502cd": {
-      "seenAt": "2026-11-17T12:27:17.658Z",
-      "title": "장동혁, 한동훈 빙부상 조문…7분여 머물러 - 동아일보",
-      "targetName": "한동훈"
-    },
     "ec416223eaddab716482d249de06ce41f69fbadd852d7e2e1722de9c29507aa4": {
       "seenAt": "2026-11-17T12:27:18.426Z",
       "title": "정청래, '김민석과 대타협' 제안한 송영길에 \"자격미달자 나서지 말라\" 직격 - 데일리안",
@@ -2520,7 +2500,55 @@
       "seenAt": "2026-11-20T07:01:17.182Z",
       "title": "신장식, 조희대 주말탄핵 주장하는 이유 “언론이 ‘역풍’ 부추기기 전에 해야” - 미디어오늘",
       "targetName": "신장식"
+    },
+    "3441cf1226cff0159bc3e6e3da95d35971e7b8eaf72bff45d24eb45ba1523dea": {
+      "seenAt": "2026-11-20T07:31:19.808Z",
+      "title": "한동훈, 여 조희대 탄핵에 “민주 미쳐도 곱게 미쳐야···김민석, 당신 의원직 걸거냐” - 주간경향",
+      "targetName": "한동훈"
+    },
+    "1e9be47afc15e4e11802c11a5aa157e7896d262ca007fbae57d773e8e85eddae": {
+      "seenAt": "2026-11-20T07:31:20.537Z",
+      "title": "한동훈, 여 조희대 탄핵에 “민주 미쳐도 곱게 미쳐야···김민석, 당신 의원직 걸거냐” - 주간경향",
+      "targetName": "김민석"
+    },
+    "e342d5a31a2afda328060314e6b6df8f3ceaf9747585bc0b5c7151ede9878d1a": {
+      "seenAt": "2026-11-20T07:31:21.224Z",
+      "title": "밝은 표정의 최민희, 정청래와 악수... 징계 공방 속 맞잡은 손 [오늘의 정치 B컷] - 세계일보",
+      "targetName": "정청래"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "896ad6db9c8cdb60a58d5b3c8db553c9741c6a49d1f234c2df8c98a1ad5a1127",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "축구 접고 회사 그만두고 아시아 정상… 이준석, 인천 학생선수들 앞에 서다 - 한국무예신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiPkFVX3lxTE9OaXc4NFZLZFUycW5ia2poZzhXOVkzMGdYWnhOdVliQTlJZlFVNWpkUFFzcXRSMkt1VkFNeDh3?oc=5\" target=\"_blank\">축구 접고 회사 그만두고 아시아 정상… 이준석, 인천 학생선수들 앞에 서다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국무예신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9OaXc4NFZLZFUycW5ia2poZzhXOVkzMGdYWnhOdVliQTlJZlFVNWpkUFFzcXRSMkt1VkFNeDh3?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:00:00 GMT",
+        "source": "한국무예신문",
+        "ageHours": 6.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "fbf2d6720b6f75dac4f0a3528d5d96ae65c3c51c36a56195b299d85282f195ee",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UdIBckFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UQ?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UdIBckFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UQ?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 05:55:48 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
