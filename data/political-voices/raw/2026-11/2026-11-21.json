@@ -124,5 +124,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "475c56561d7f9bb449a95191d9928cd4019e434f40ab6124931b92bfd6936e1b",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "WATCH LIVE: Trump holds news conference after China trip - Washington Examiner",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWpwVFVOSE1LRkNMQU1CNG9PMko0QjBjd1pseHZ2SURta1M2SWxHdzhneUcyWmkxVmw2SkYwOUlGRjhETE1GU3pTcVI5VkRCUzB4NkN5cHBlbE1IWW5NMjROWHVvTzcyUXVxR3hYUFdrcE8tbEc2eTUxQi00LTRaQ1dwTnYtZllldkFDazYzMW5nMVZGZERwMjdyOWhoX3FxYVVkdkRVQTJHWGdaYkVR?oc=5\" target=\"_blank\">WATCH LIVE: Trump holds news conference after China trip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Washington Examiner</font>",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWpwVFVOSE1LRkNMQU1CNG9PMko0QjBjd1pseHZ2SURta1M2SWxHdzhneUcyWmkxVmw2SkYwOUlGRjhETE1GU3pTcVI5VkRCUzB4NkN5cHBlbE1IWW5NMjROWHVvTzcyUXVxR3hYUFdrcE8tbEc2eTUxQi00LTRaQ1dwTnYtZllldkFDazYzMW5nMVZGZERwMjdyOWhoX3FxYVVkdkRVQTJHWGdaYkVR?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 15:18:40 GMT",
+    "source": "Washington Examiner",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] WATCH LIVE: Trump holds news conference after China trip",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

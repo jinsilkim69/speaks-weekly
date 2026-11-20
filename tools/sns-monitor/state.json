@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T15:21:19.327Z",
+  "lastCheckedAt": "2026-11-20T15:41:17.065Z",
   "seenPostIds": {
-    "1485478ac5b9d621d6e3faa19ef36fc7dc5c38e928ca15303396064cd7195c2d": {
-      "seenAt": "2026-11-17T22:11:21.880Z",
-      "title": "추미애, 김민석 전대 발언 재소환…\"사과로 끝낼 일 아니다\" - 뉴스1",
-      "targetName": "김민석"
-    },
-    "a46da89904138af8410f0be65490231a2ac9b840629533ba068281228b7288bb": {
-      "seenAt": "2026-11-17T22:11:22.608Z",
-      "title": "추미애 “김민석, 신천지 사과로 끝낼 일 아니야···혼탁 전대 뒤 당 혼미” - 주간경향",
-      "targetName": "김민석"
-    },
     "837533b5ebd96ca2746270b70c4e4ccae359d2fbc2d462e384501cbb730c336f": {
       "seenAt": "2026-11-17T22:11:23.327Z",
       "title": "Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - WSMH",
@@ -2509,6 +2499,11 @@
     "fb25b5f1a6e19a075617b0684eb8dc4f42d3a0c91af17de6858014ff724b0998": {
       "seenAt": "2026-11-20T15:21:21.053Z",
       "title": "President Trump to hold news conference after returning from China - WFAA",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "475c56561d7f9bb449a95191d9928cd4019e434f40ab6124931b92bfd6936e1b": {
+      "seenAt": "2026-11-20T15:41:18.185Z",
+      "title": "WATCH LIVE: Trump holds news conference after China trip - Washington Examiner",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
