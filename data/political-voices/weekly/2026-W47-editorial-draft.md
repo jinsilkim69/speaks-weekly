@@ -8373,3 +8373,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "조희대, 토요일에 바로 탄핵하자"…與에 신속 처리 촉구 - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대, 토요일에 바로 탄핵하자"…與에 신속 처리 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTFBWNmVHSk92TVZHRmlYbnA0VHpkYXFtZDZlRjV5emc4cHJuU1JqalZ1RHZmaUg4RzNkZWFUcVVPRnY4WjJFaGc0eUQzekhOdkkxSFFzV1hJekhJbE5uZkR1bU5YS3ZpbEEzNEc5VDhUaXhlN2VLVGhQSEh30gF_QVVfeXFMUGtQQUZjeklLUmpNLXl6NkxYaWxlelNQQUdNNlBnY0FfNjVGRzlRYUp0QTdLNlpLQUNoM1pIZ3lKVkZmbU1YN210S3FyckZNWWE4YUVXT1ZnSzBhZ185Y2dmWXRQMEw1NC0ySTFYUDNsY0ZEMTczdDQ4d3dzM1p1VQ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 「M포토」 ‘조희대 탄핵 추진’ 기자회견 참석하는 신장식 - M이코노미뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 「M포토」 ‘조희대 탄핵 추진’ 기자회견 참석하는 신장식
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QUmZwNGlyR2VGVDR1MTBKZnl3UVNMa2tseTJLMzZsNnJSRnJRVkZZdXhpMUl0WjZZSzNjSlF6UEhNWFdDODBXNG5mbThrcU1pekRKMDhYcDdNeWQtbmtSRmJaR0xNVmM?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump posthumously pardons US baseball legend Pete Rose - Yahoo Sports
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump posthumously pardons US baseball legend Pete Rose
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0c5blVvWmQ0WUJRdDI2bTctR0E5U0t3dXpsczVOUUNDUTczcGthRHFZYTY3QlI4QlVhRDJNRWZWNk85ejZ6N3BsQVVsdDVIZGZuOGxkYmpJRGRnV2xmMWItWGtVNUNsNU1lby1ZTlRNRXdjNWFVd04zR09lRkZ3aWdEd0NGVHpoZDB3aXQ4cUc?oc=5)
+
+---
+
