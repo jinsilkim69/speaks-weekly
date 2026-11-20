@@ -8789,3 +8789,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "조희대 탄핵 더 미룰 이유 없다⋯내일 본회의서 표결 가능" - 아이뉴스24
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대 탄핵 더 미룰 이유 없다⋯내일 본회의서 표결 가능"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGT3BpQWtxTjV6Q1lBX2doOHhpQWt5WmRQcDd6RUhtVUs3bDRQSnFkN25wV1dEbnpRVG5BOFUtRUxhbmRLNUpv?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁 "조희대 탄핵은 자살폭탄 버튼" 홍준표 "전두환식 폭거" 한동훈 "국헌문란 내란" - 매일신문
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 "조희대 탄핵은 자살폭탄 버튼" 홍준표 "전두환식 폭거" 한동훈 "국헌문란 내란"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NbUhYVjVYVTlSb1RvMlBzOUpjZlcxYXJxVi1vOENMdWFhYWF6aGZ1OUdqS05uU1VVcW96YWhCZlI3OTF1Yi1UMzg3Tm5HN2NpSGZEb0VYUE5ZNDFCQ1lJZWl3?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** [포토] 구호 외치는 조국혁신당 신장식 대표 - 천지일보
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 구호 외치는 조국혁신당 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFB0aXR5dzNFN1gza0l2VVA0Qm82WlJzajh0RWVXOHJucjhDWlVZdTdHTllLOGJzZmRQOTVIODR1YXBfNXhFNzdCZUpRSHVBRXc1VGRKQTkwOXh5MGJ2WGVDa21WQnpyb2o3SXc?oc=5)
+
+---
+

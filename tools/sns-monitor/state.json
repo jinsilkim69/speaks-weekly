@@ -1,36 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T03:21:18.555Z",
+  "lastCheckedAt": "2026-11-20T03:41:15.273Z",
   "seenPostIds": {
-    "dd4e9e098736ffc1191ad5a57be60e9e097c64416438a729567217ddf34855c3": {
-      "seenAt": "2026-11-17T09:41:20.885Z",
-      "title": "송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\" - 대전일보",
-      "targetName": "송영길"
-    },
-    "f8f53331e738caac2ed055fbacab5b7c3a6bc002f0710f2fabaa653def778e59": {
-      "seenAt": "2026-11-17T09:41:21.622Z",
-      "title": "정청래, ‘대타협 제안’ 송영길에 “자격 미달자는 나서지 마라” - 천지일보",
-      "targetName": "송영길"
-    },
-    "f64041239c7ed4a9e4bf6e8150e11478ef0aa788f67b1243fe95db4b7aaba9e3": {
-      "seenAt": "2026-11-17T09:41:22.347Z",
-      "title": "정청래, 송영길에 \"자격미달자\" 공개 비판 … 민주당 '명청대전' 석 달째 격화 - 뉴데일리",
-      "targetName": "송영길"
-    },
-    "b64c224b11bc20cd6cdc80feff10ba265513126c587b4f9caf05fc8f7afcb13d": {
-      "seenAt": "2026-11-17T09:51:22.018Z",
-      "title": "정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이 - 머니투데이",
-      "targetName": "송영길"
-    },
-    "de0b6421238e277681810e41945812cebd0e3395691383964ffbcb0fff9de890": {
-      "seenAt": "2026-11-17T09:51:22.751Z",
-      "title": "송영길 \"김민석·정청래 만나 대타협해야\"…정청래 \"자격 미달자 나서지 말라\"(종합) - 뉴시스",
-      "targetName": "송영길"
-    },
-    "8cb156d11882cb5a9657a4acaaee0280a7712c9b9098fdefe5f4af6e7586e283": {
-      "seenAt": "2026-11-17T09:51:23.517Z",
-      "title": "정청래, 김민석과 타협 제안한 송영길에 “자격 미달 나서지 마시라” - 채널A",
-      "targetName": "송영길"
-    },
     "a41fa042af2d383aa2e138e5d8f549886303b398ef7ef7ae73aaede3c9effe63": {
       "seenAt": "2026-11-17T10:01:22.692Z",
       "title": "이준석 \"수험장 전파 탐지 앱 개발\"‥교육부에 한시 허용 요청 - MBC 뉴스",
@@ -2530,57 +2500,24 @@
       "seenAt": "2026-11-20T03:31:16.917Z",
       "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
       "targetName": "신장식"
+    },
+    "f79e3cadfcf33a766d58121948f89c86b0a89a27e0b88949a56bde93593ab67b": {
+      "seenAt": "2026-11-20T03:41:16.422Z",
+      "title": "신장식 \"조희대 탄핵 더 미룰 이유 없다⋯내일 본회의서 표결 가능\" - 아이뉴스24",
+      "targetName": "신장식"
+    },
+    "ae7a7b0a79eaffc9e624de409ac879de2dfaa7df32af980e1c958adbfa84747c": {
+      "seenAt": "2026-11-20T03:41:17.035Z",
+      "title": "장동혁 \"조희대 탄핵은 자살폭탄 버튼\" 홍준표 \"전두환식 폭거\" 한동훈 \"국헌문란 내란\" - 매일신문",
+      "targetName": "한동훈"
+    },
+    "ec39d8e0a839d8068f9a214f129414113e28bf485055335f542562c4598f99da": {
+      "seenAt": "2026-11-20T03:41:17.685Z",
+      "title": "[포토] 구호 외치는 조국혁신당 신장식 대표 - 천지일보",
+      "targetName": "신장식"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "f79e3cadfcf33a766d58121948f89c86b0a89a27e0b88949a56bde93593ab67b",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 \"조희대 탄핵 더 미룰 이유 없다⋯내일 본회의서 표결 가능\" - 아이뉴스24",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGT3BpQWtxTjV6Q1lBX2doOHhpQWt5WmRQcDd6RUhtVUs3bDRQSnFkN25wV1dEbnpRVG5BOFUtRUxhbmRLNUpv?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵 더 미룰 이유 없다⋯내일 본회의서 표결 가능\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아이뉴스24</font>",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGT3BpQWtxTjV6Q1lBX2doOHhpQWt5WmRQcDd6RUhtVUs3bDRQSnFkN25wV1dEbnpRVG5BOFUtRUxhbmRLNUpv?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 01:58:11 GMT",
-        "source": "아이뉴스24",
-        "ageHours": 0.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ae7a7b0a79eaffc9e624de409ac879de2dfaa7df32af980e1c958adbfa84747c",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "장동혁 \"조희대 탄핵은 자살폭탄 버튼\" 홍준표 \"전두환식 폭거\" 한동훈 \"국헌문란 내란\" - 매일신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NbUhYVjVYVTlSb1RvMlBzOUpjZlcxYXJxVi1vOENMdWFhYWF6aGZ1OUdqS05uU1VVcW96YWhCZlI3OTF1Yi1UMzg3Tm5HN2NpSGZEb0VYUE5ZNDFCQ1lJZWl3?oc=5\" target=\"_blank\">장동혁 \"조희대 탄핵은 자살폭탄 버튼\" 홍준표 \"전두환식 폭거\" 한동훈 \"국헌문란 내란\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NbUhYVjVYVTlSb1RvMlBzOUpjZlcxYXJxVi1vOENMdWFhYWF6aGZ1OUdqS05uU1VVcW96YWhCZlI3OTF1Yi1UMzg3Tm5HN2NpSGZEb0VYUE5ZNDFCQ1lJZWl3?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 02:48:53 GMT",
-        "source": "매일신문",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ec39d8e0a839d8068f9a214f129414113e28bf485055335f542562c4598f99da",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "[포토] 구호 외치는 조국혁신당 신장식 대표 - 천지일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB0aXR5dzNFN1gza0l2VVA0Qm82WlJzajh0RWVXOHJucjhDWlVZdTdHTllLOGJzZmRQOTVIODR1YXBfNXhFNzdCZUpRSHVBRXc1VGRKQTkwOXh5MGJ2WGVDa21WQnpyb2o3SXc?oc=5\" target=\"_blank\">[포토] 구호 외치는 조국혁신당 신장식 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0aXR5dzNFN1gza0l2VVA0Qm82WlJzajh0RWVXOHJucjhDWlVZdTdHTllLOGJzZmRQOTVIODR1YXBfNXhFNzdCZUpRSHVBRXc1VGRKQTkwOXh5MGJ2WGVDa21WQnpyb2o3SXc?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 02:44:26 GMT",
-        "source": "천지일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "5bc1c568e48a715024e554fe0e87d7542eaee51c4b652e87e5d558791c8d81ef",
@@ -2689,6 +2626,70 @@
         "pubDate": "Thu, 19 Nov 2026 23:00:02 GMT",
         "source": "연합뉴스",
         "ageHours": 4.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "92ba9592379a03d66c808f5c8af65cb7247a9bb945768f0d3cfef39458458891",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 \"조희대 탄핵, 국헌 문란 목적의 내란…헌재 인용 가능성 0%\" - 뉴스1",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ldkl2Mnd2SHM2cmxRZHZkNzRUTFdjb1VCc3JnQy03dDdsUFJqZF85SXhKRGphZnNhczhwLWt5alNDRFkyTUduZm43R2tzN3hfMlhFWWlzalByZw?oc=5\" target=\"_blank\">한동훈 \"조희대 탄핵, 국헌 문란 목적의 내란…헌재 인용 가능성 0%\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ldkl2Mnd2SHM2cmxRZHZkNzRUTFdjb1VCc3JnQy03dDdsUFJqZF85SXhKRGphZnNhczhwLWt5alNDRFkyTUduZm43R2tzN3hfMlhFWWlzalByZw?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:05:15 GMT",
+        "source": "뉴스1",
+        "ageHours": 2.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "6ed719ba640e0f17d53e29ff8f77bf0a9a26aa050e1d576e61ccc5f4a31c72cd",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 \"조희대 탄핵은 국헌문란 목적의 내란…가능성 0%\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsd9IBckFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsdw?oc=5\" target=\"_blank\">한동훈 \"조희대 탄핵은 국헌문란 목적의 내란…가능성 0%\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsd9IBckFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsdw?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:01:26 GMT",
+        "source": "머니투데이",
+        "ageHours": 2.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2a114b58c9f4e27bd7d3fd14e65135ad8b75eb945d5c0e243853a5fd163c893f",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 \"조희대 대법원장 탄핵 결정\"…파기환송 비판 - 데일리메이커",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GZkYtbFpmV21NT3NpdlUzUHBxUkJ2VTdUVXAzVkpicnViM25VdEZtTE95RHZQdEtCUGlMV1Z0ZEtfV1BjN2lQQ19FcW44Qjg3TDRfTDBWZW9KTjJzekxKcDladzJnUQ?oc=5\" target=\"_blank\">김민석 \"조희대 대법원장 탄핵 결정\"…파기환송 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리메이커</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GZkYtbFpmV21NT3NpdlUzUHBxUkJ2VTdUVXAzVkpicnViM25VdEZtTE95RHZQdEtCUGlMV1Z0ZEtfV1BjN2lQQ19FcW44Qjg3TDRfTDBWZW9KTjJzekxKcDladzJnUQ?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 03:26:16 GMT",
+        "source": "데일리메이커",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "62268d4bd98c6b7cf4f97ba28ec8f439cec7dfc387437421df91af74bc999d3a",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "하헌기 \"조희대 탄핵? 의원직 걸어라\"…김종혁 \"김민석, 외부의 적 세워\" - JTBC",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UVDRTc1Y5TGxNSnpGVEtzemQxZlNBVXV3N2dJV1U5ZGJNWEpsVzJQZ0FLNW5jbjdWUEVtMDZCdXp2RFJFc0dvN2RKQm90dTV3RDBnWA?oc=5\" target=\"_blank\">하헌기 \"조희대 탄핵? 의원직 걸어라\"…김종혁 \"김민석, 외부의 적 세워\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UVDRTc1Y5TGxNSnpGVEtzemQxZlNBVXV3N2dJV1U5ZGJNWEpsVzJQZ0FLNW5jbjdWUEVtMDZCdXp2RFJFc0dvN2RKQm90dTV3RDBnWA?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:06:00 GMT",
+        "source": "JTBC",
+        "ageHours": 2.6
       },
       "delivered": [],
       "archived": false
