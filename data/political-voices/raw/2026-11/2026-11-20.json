@@ -1416,5 +1416,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c7f358b98c0183429542caa65cdfa721689b7c276fc633e7a0ca6f94b3cdd1d0",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Here's the point Trump misses with Pete Rose 'pardon' - Cincinnati Enquirer",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeGxobFFza29CRUZnZEdZZUhrcEZHcjNOcTdyWEtrdHBMYmRWblp4U3FpWTVseWw3UUp5ODhyb0JkdnJNZkZ0bGEtMkwxOWFhdEtpQXBpeERBV2dySTdDQ2RES3JsTkFLMkxndVNtMUlhYVVFMHVOY2U2b2x1VGQ2UFE1bl8zQml1QXFjY0tFZS1LNFpwSHlaWEMzX3c3U3FXQ2xQYlhfTHZERmpJUzRxTEtjTG5hR2xxYml2RV85cWF6eEt2ODJCaWI5bjRRR1Q0?oc=5\" target=\"_blank\">Here's the point Trump misses with Pete Rose 'pardon'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cincinnati Enquirer</font>",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeGxobFFza29CRUZnZEdZZUhrcEZHcjNOcTdyWEtrdHBMYmRWblp4U3FpWTVseWw3UUp5ODhyb0JkdnJNZkZ0bGEtMkwxOWFhdEtpQXBpeERBV2dySTdDQ2RES3JsTkFLMkxndVNtMUlhYVVFMHVOY2U2b2x1VGQ2UFE1bl8zQml1QXFjY0tFZS1LNFpwSHlaWEMzX3c3U3FXQ2xQYlhfTHZERmpJUzRxTEtjTG5hR2xxYml2RV85cWF6eEt2ODJCaWI5bjRRR1Q0?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 01:16:00 GMT",
+    "source": "Cincinnati Enquirer",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Here's the point Trump misses with Pete Rose 'pardon'",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

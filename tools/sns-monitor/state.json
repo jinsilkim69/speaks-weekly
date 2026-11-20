@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-20T01:21:21.300Z",
       "title": "신장식 “조희대 탄핵, 토요일 표결하자” - OBC 뉴스",
       "targetName": "신장식"
+    },
+    "c7f358b98c0183429542caa65cdfa721689b7c276fc633e7a0ca6f94b3cdd1d0": {
+      "seenAt": "2026-11-20T01:31:16.074Z",
+      "title": "Here's the point Trump misses with Pete Rose 'pardon' - Cincinnati Enquirer",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "c7f358b98c0183429542caa65cdfa721689b7c276fc633e7a0ca6f94b3cdd1d0",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Here's the point Trump misses with Pete Rose 'pardon' - Cincinnati Enquirer",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeGxobFFza29CRUZnZEdZZUhrcEZHcjNOcTdyWEtrdHBMYmRWblp4U3FpWTVseWw3UUp5ODhyb0JkdnJNZkZ0bGEtMkwxOWFhdEtpQXBpeERBV2dySTdDQ2RES3JsTkFLMkxndVNtMUlhYVVFMHVOY2U2b2x1VGQ2UFE1bl8zQml1QXFjY0tFZS1LNFpwSHlaWEMzX3c3U3FXQ2xQYlhfTHZERmpJUzRxTEtjTG5hR2xxYml2RV85cWF6eEt2ODJCaWI5bjRRR1Q0?oc=5\" target=\"_blank\">Here's the point Trump misses with Pete Rose 'pardon'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cincinnati Enquirer</font>",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeGxobFFza29CRUZnZEdZZUhrcEZHcjNOcTdyWEtrdHBMYmRWblp4U3FpWTVseWw3UUp5ODhyb0JkdnJNZkZ0bGEtMkwxOWFhdEtpQXBpeERBV2dySTdDQ2RES3JsTkFLMkxndVNtMUlhYVVFMHVOY2U2b2x1VGQ2UFE1bl8zQml1QXFjY0tFZS1LNFpwSHlaWEMzX3c3U3FXQ2xQYlhfTHZERmpJUzRxTEtjTG5hR2xxYml2RV85cWF6eEt2ODJCaWI5bjRRR1Q0?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 01:16:00 GMT",
-        "source": "Cincinnati Enquirer",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
