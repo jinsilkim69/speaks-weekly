@@ -757,5 +757,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "3490f3bdc0e0bece4b4744a0a0c6d623a23df9620abc07a31a42ceb73329907d",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Donald Trump posthumously pardons baseball great Pete Rose - The Palm Beach Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzdKaWM5a0YwX2VYYnBTTVdENlNIR3V0WDl1YWRzWklDTGdhNGo5QWRfRm5FX3hFMDgzSDhUVElmMWd5anEza1oyLUhVblBNTHdKa1FoT2EtTjhrN3NKZW5yY0tfR3lnYTFKNXltMUdnOFE5QTVrY01wc3EwWHF4REU1QXBDU3JmamNhY2F0bTNBUENodnZORWFEMFp2TlplQld2MXRSako2bkRUVGdyMg?oc=5\" target=\"_blank\">Donald Trump posthumously pardons baseball great Pete Rose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Palm Beach Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQzdKaWM5a0YwX2VYYnBTTVdENlNIR3V0WDl1YWRzWklDTGdhNGo5QWRfRm5FX3hFMDgzSDhUVElmMWd5anEza1oyLUhVblBNTHdKa1FoT2EtTjhrN3NKZW5yY0tfR3lnYTFKNXltMUdnOFE5QTVrY01wc3EwWHF4REU1QXBDU3JmamNhY2F0bTNBUENodnZORWFEMFp2TlplQld2MXRSako2bkRUVGdyMg?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 20:20:00 GMT",
+    "source": "The Palm Beach Post",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Donald Trump posthumously pardons baseball great Pete Rose",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
