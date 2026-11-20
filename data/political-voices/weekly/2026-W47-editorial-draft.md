@@ -8256,3 +8256,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 박지원 "정청래·추미애 발언에 파벌 싸움 시작…분열하면 국민이 민주당 버려" - www.gukjenews.com
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원 "정청래·추미애 발언에 파벌 싸움 시작…분열하면 국민이 민주당 버려"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE5yWFY2QWhkbFM1SFFPZGtHS01Ra1oxbENXWXQwckQ5eWtfXzA0b1JMYkhfMUswX3AxY0owejkzU2hOd19ENjYwc0FKckVQV0tYOFhzazgwY2xGLTRrNksxUVY5UGRESDB3bTU0LTR3?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump posthumously pardons US baseball legend Pete Rose - BBC
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump posthumously pardons US baseball legend Pete Rose
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1aEZMRUVEU1J3US1VZjN5YUdnMlgzd1NrTGRCVUYtQWo1YW5FVTJxdDdtMExXQnR1eHo5bDlBcEFnSm1EUkJkOGxyb0JIeXhOdHQ4UFdBaTdYSlE?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Pardons Late Baseball Legend Pete Rose, Calls Him Superstar - Forth.News
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Pardons Late Baseball Legend Pete Rose, Calls Him Superstar
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FSGlfMVlDcWFXdUN0SWNIXzM3bzJGRGhQZ214Y3dWM0hMeWpZRFlhbVRNLUdIcTNJWFdGZnBEWEtIQ2RTa3hxVWV4TUFaOEhIWThLMnRmWlltaFZ6TnNXZGZ3?oc=5)
+
+---
+

@@ -1,26 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-19T23:51:17.869Z",
+  "lastCheckedAt": "2026-11-20T00:21:16.290Z",
   "seenPostIds": {
-    "4712a3b209d2d31d5f64d702e66e94b527b1e128f406077f29a514c516050b35": {
-      "seenAt": "2026-11-17T04:21:20.426Z",
-      "title": "송영길 “북미도 만나는데... 김민석·정청래 만나서 대타협 해야” - 이데일리",
-      "targetName": "송영길"
-    },
-    "65fe93f59b8ae4a8b428484e7d70a489362c9a35211e07cf2fda43b14394436a": {
-      "seenAt": "2026-11-17T04:21:21.226Z",
-      "title": "부산상의, 송영길 대통령 외교특보 초청 특강 진행 - 메트로신문",
-      "targetName": "송영길"
-    },
-    "caa76a1ea1e7692d5fa4d53a3c864ebab8e22dc15d162283fda7e8092ca35ac0": {
-      "seenAt": "2026-11-17T04:31:21.120Z",
-      "title": "이준석, 수능 AI 부정행위 탐지앱 영국행 비행기서 직접 개발 \"교육부 장관 답변에 한숨\" - 매일신문",
-      "targetName": "이준석"
-    },
-    "37201d15b5a717acb51eb9ed214952f7c3d07ea2e012e6ca3024497b28e40b7c": {
-      "seenAt": "2026-11-17T04:31:21.754Z",
-      "title": "이준석 \"AI 커닝 방지 앱 개발\"…교육부에 사용 허가 요청 - news.sbs.co.kr",
-      "targetName": "이준석"
-    },
     "a2fcb859855961bf7572dda045e1919cb958f92db056d1b1d49f3881e61d75ee": {
       "seenAt": "2026-11-17T04:31:22.350Z",
       "title": "AI 커닝 대책? 이준석은 '전파탐지 앱', 장동혁은 '수능 연기' - OhmyNews",
@@ -2519,6 +2499,21 @@
     "6c90137e45370b879fce4ecc9a84edc4c3a85a3213980156b0a7cad2106c702b": {
       "seenAt": "2026-11-20T00:01:19.760Z",
       "title": "Trump grants posthumous pardon to MLB hit king Pete Rose - New York Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "63c560f90c00514fdbebac413e4aa23129e27b0d3668c16d9416835a59959fb5": {
+      "seenAt": "2026-11-20T00:21:17.316Z",
+      "title": "박지원 \"정청래·추미애 발언에 파벌 싸움 시작…분열하면 국민이 민주당 버려\" - www.gukjenews.com",
+      "targetName": "정청래"
+    },
+    "6a2290c9b93357b884063c9792fa554e7a69b35559b3e32db22a88e12d60bd21": {
+      "seenAt": "2026-11-20T00:21:17.918Z",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose - BBC",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a83322443293d5173683fadf82749737326fdf1efa2f8cdc408faeb481150554": {
+      "seenAt": "2026-11-20T00:21:18.566Z",
+      "title": "Trump Pardons Late Baseball Legend Pete Rose, Calls Him Superstar - Forth.News",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },

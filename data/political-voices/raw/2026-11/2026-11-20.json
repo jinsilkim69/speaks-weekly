@@ -1035,5 +1035,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "63c560f90c00514fdbebac413e4aa23129e27b0d3668c16d9416835a59959fb5",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "박지원 \"정청래·추미애 발언에 파벌 싸움 시작…분열하면 국민이 민주당 버려\" - www.gukjenews.com",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5yWFY2QWhkbFM1SFFPZGtHS01Ra1oxbENXWXQwckQ5eWtfXzA0b1JMYkhfMUswX3AxY0owejkzU2hOd19ENjYwc0FKckVQV0tYOFhzazgwY2xGLTRrNksxUVY5UGRESDB3bTU0LTR3?oc=5\" target=\"_blank\">박지원 \"정청래·추미애 발언에 파벌 싸움 시작…분열하면 국민이 민주당 버려\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.gukjenews.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yWFY2QWhkbFM1SFFPZGtHS01Ra1oxbENXWXQwckQ5eWtfXzA0b1JMYkhfMUswX3AxY0owejkzU2hOd19ENjYwc0FKckVQV0tYOFhzazgwY2xGLTRrNksxUVY5UGRESDB3bTU0LTR3?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 00:17:52 GMT",
+    "source": "www.gukjenews.com",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 박지원 \"정청래·추미애 발언에 파벌 싸움 시작…분열하면 국민이 민주당 버려\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "6a2290c9b93357b884063c9792fa554e7a69b35559b3e32db22a88e12d60bd21",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump posthumously pardons US baseball legend Pete Rose - BBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1aEZMRUVEU1J3US1VZjN5YUdnMlgzd1NrTGRCVUYtQWo1YW5FVTJxdDdtMExXQnR1eHo5bDlBcEFnSm1EUkJkOGxyb0JIeXhOdHQ4UFdBaTdYSlE?oc=5\" target=\"_blank\">Trump posthumously pardons US baseball legend Pete Rose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1aEZMRUVEU1J3US1VZjN5YUdnMlgzd1NrTGRCVUYtQWo1YW5FVTJxdDdtMExXQnR1eHo5bDlBcEFnSm1EUkJkOGxyb0JIeXhOdHQ4UFdBaTdYSlE?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 23:51:50 GMT",
+    "source": "BBC",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump posthumously pardons US baseball legend Pete Rose",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "a83322443293d5173683fadf82749737326fdf1efa2f8cdc408faeb481150554",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Pardons Late Baseball Legend Pete Rose, Calls Him Superstar - Forth.News",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FSGlfMVlDcWFXdUN0SWNIXzM3bzJGRGhQZ214Y3dWM0hMeWpZRFlhbVRNLUdIcTNJWFdGZnBEWEtIQ2RTa3hxVWV4TUFaOEhIWThLMnRmWlltaFZ6TnNXZGZ3?oc=5\" target=\"_blank\">Trump Pardons Late Baseball Legend Pete Rose, Calls Him Superstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FSGlfMVlDcWFXdUN0SWNIXzM3bzJGRGhQZ214Y3dWM0hMeWpZRFlhbVRNLUdIcTNJWFdGZnBEWEtIQ2RTa3hxVWV4TUFaOEhIWThLMnRmWlltaFZ6TnNXZGZ3?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 00:03:41 GMT",
+    "source": "Forth.News",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Pardons Late Baseball Legend Pete Rose, Calls Him Superstar",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
