@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T04:01:16.746Z",
+  "lastCheckedAt": "2026-11-20T04:11:16.087Z",
   "seenPostIds": {
-    "1b7d2867e935b127c7f1b0c118d73fdad59c4cee9aea2bea6fbdf5b8060a53c9": {
-      "seenAt": "2026-11-17T10:21:19.989Z",
-      "title": "이준석 “전파탐지 앱 개발했다…교육부 신속 검토 바라” [자막뉴스] - 채널A",
-      "targetName": "이준석"
-    },
-    "a5fef3198cbdc21816721d7ad71b2edbf3a5f0fdcb5370e9667034fffa61a6ec": {
-      "seenAt": "2026-11-17T10:21:20.622Z",
-      "title": "'AI 컨닝' 계산기까지 개조... 이준석, 전파 탐지 앱 개발 - 법률방송뉴스",
-      "targetName": "이준석"
-    },
-    "03f83699c24fd47e51df2506e508f420ad67f6c477941b51dd1af5a1c7af7479": {
-      "seenAt": "2026-11-17T10:21:21.238Z",
-      "title": "[인터뷰] 천하람 \"中, 수능 때 AI 문제풀이 차단…한국도 배워야\" - 뉴스1",
-      "targetName": "천하람"
-    },
     "408786869aaf0e833a375adc9da51435965b5b49cd88aca6b63163c2ef1dbb05": {
       "seenAt": "2026-11-17T10:31:19.931Z",
       "title": "천하람 \"열화상카메라·검전기로 AI 커닝 적발 어려워…수능 연기해야\" - 뉴스핌",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-20T04:01:18.949Z",
       "title": "「M포토」 조국혁신당 “내란동조 조희대 탄핵하라” - M이코노미뉴스",
       "targetName": "조국"
+    },
+    "3d6ce08beadbb153d5a68de4a4cbc97d62a5956ef68ca57e46504ddbf135a82b": {
+      "seenAt": "2026-11-20T04:11:17.257Z",
+      "title": "혁신당 '비전랩 위원장'에 조국…미래비전·혁신 방안 연구 - 연합뉴스",
+      "targetName": "조국"
+    },
+    "92ba9592379a03d66c808f5c8af65cb7247a9bb945768f0d3cfef39458458891": {
+      "seenAt": "2026-11-20T04:11:17.912Z",
+      "title": "한동훈 \"조희대 탄핵, 국헌 문란 목적의 내란…헌재 인용 가능성 0%\" - 뉴스1",
+      "targetName": "한동훈"
+    },
+    "6ed719ba640e0f17d53e29ff8f77bf0a9a26aa050e1d576e61ccc5f4a31c72cd": {
+      "seenAt": "2026-11-20T04:11:18.579Z",
+      "title": "한동훈 \"조희대 탄핵은 국헌문란 목적의 내란…가능성 0%\" - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "3d6ce08beadbb153d5a68de4a4cbc97d62a5956ef68ca57e46504ddbf135a82b",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "혁신당 '비전랩 위원장'에 조국…미래비전·혁신 방안 연구 - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRkRic0JGZjZmZ2NFNnZJNjNsMW1URUpOczhUM0dyOGhzNGFvQUo0QUVIVlZCa2twS0N6bEp5WXMyVTBRTG5JOWJlUjFNMVZYYndQd1lsaE1kRjTSAWBBVV95cUxORkE2dmdnRVBvaWVYaEh3bXQ5a093MHc2cXdtZjRCcGU5d25uX2dCMk1KT3cyZ1ZGOWYzTkZvNGM3b3BXZUZVSmcyV2tVa0RHZklMLXQ2c05fVXJOZE9Edlc?oc=5\" target=\"_blank\">혁신당 '비전랩 위원장'에 조국…미래비전·혁신 방안 연구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRkRic0JGZjZmZ2NFNnZJNjNsMW1URUpOczhUM0dyOGhzNGFvQUo0QUVIVlZCa2twS0N6bEp5WXMyVTBRTG5JOWJlUjFNMVZYYndQd1lsaE1kRjTSAWBBVV95cUxORkE2dmdnRVBvaWVYaEh3bXQ5a093MHc2cXdtZjRCcGU5d25uX2dCMk1KT3cyZ1ZGOWYzTkZvNGM3b3BXZUZVSmcyV2tVa0RHZklMLXQ2c05fVXJOZE9Edlc?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 23:00:02 GMT",
-        "source": "연합뉴스",
-        "ageHours": 4.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "92ba9592379a03d66c808f5c8af65cb7247a9bb945768f0d3cfef39458458891",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 \"조희대 탄핵, 국헌 문란 목적의 내란…헌재 인용 가능성 0%\" - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ldkl2Mnd2SHM2cmxRZHZkNzRUTFdjb1VCc3JnQy03dDdsUFJqZF85SXhKRGphZnNhczhwLWt5alNDRFkyTUduZm43R2tzN3hfMlhFWWlzalByZw?oc=5\" target=\"_blank\">한동훈 \"조희대 탄핵, 국헌 문란 목적의 내란…헌재 인용 가능성 0%\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ldkl2Mnd2SHM2cmxRZHZkNzRUTFdjb1VCc3JnQy03dDdsUFJqZF85SXhKRGphZnNhczhwLWt5alNDRFkyTUduZm43R2tzN3hfMlhFWWlzalByZw?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 01:05:15 GMT",
-        "source": "뉴스1",
-        "ageHours": 2.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "6ed719ba640e0f17d53e29ff8f77bf0a9a26aa050e1d576e61ccc5f4a31c72cd",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 \"조희대 탄핵은 국헌문란 목적의 내란…가능성 0%\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsd9IBckFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsdw?oc=5\" target=\"_blank\">한동훈 \"조희대 탄핵은 국헌문란 목적의 내란…가능성 0%\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsd9IBckFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsdw?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 01:01:26 GMT",
-        "source": "머니투데이",
-        "ageHours": 2.7
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "2a114b58c9f4e27bd7d3fd14e65135ad8b75eb945d5c0e243853a5fd163c893f",
@@ -2658,6 +2610,38 @@
         "pubDate": "Fri, 20 Nov 2026 02:23:00 GMT",
         "source": "데일리안",
         "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f6fcdb1a168254cf16ccd10efd1e7d98319860a189b23f80c2d84d6b6896775f",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "박지원 \"정청래·추미애 파벌싸움 불질러…국민이 민주당 버릴 것\" - 프레시안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE95MlJwNlRCdDRMalM5Z0piYXVUM0dldlViVnhsbzI1MURFb0ZQdE9fcU1BSGZqMGM3dmlFMlMwekt2NGZRcWRKRGhrX2gwZ1Vac1ZHOUljd1B3Q0ZYN2NmeXB2Q1JHZnNmUHRlSzFKS0p1WVNnaVh0NGxfQVg4cTA?oc=5\" target=\"_blank\">박지원 \"정청래·추미애 파벌싸움 불질러…국민이 민주당 버릴 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95MlJwNlRCdDRMalM5Z0piYXVUM0dldlViVnhsbzI1MURFb0ZQdE9fcU1BSGZqMGM3dmlFMlMwekt2NGZRcWRKRGhrX2gwZ1Vac1ZHOUljd1B3Q0ZYN2NmeXB2Q1JHZnNmUHRlSzFKS0p1WVNnaVh0NGxfQVg4cTA?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 19:58:57 GMT",
+        "source": "프레시안",
+        "ageHours": 8.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "84dc65ecca6d4a8f5c68dbe11bedb65978e2c34ef4b93beef771f6a801b8933d",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "[김종석의 왜]정청래 목소리 커졌다, 왜? - 채널A",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VNFdCOWx4THVDTFpCZzA3QnY5el9INjB1NWRQZ3FvdXdYZUctMkFINFR4OTkzVnBCbElTSEsxRDZpdUxMcG84X21vVmtTMmhDand3dkZEa05BS3g5SG01QzBBMNIBY0FVX3lxTE9VNFdCOWx4THVDTFpCZzA3QnY5el9INjB1NWRQZ3FvdXdYZUctMkFINFR4OTkzVnBCbElTSEsxRDZpdUxMcG84X21vVmtTMmhDand3dkZEa05BS3g5SG01QzBBMA?oc=5\" target=\"_blank\">[김종석의 왜]정청래 목소리 커졌다, 왜?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VNFdCOWx4THVDTFpCZzA3QnY5el9INjB1NWRQZ3FvdXdYZUctMkFINFR4OTkzVnBCbElTSEsxRDZpdUxMcG84X21vVmtTMmhDand3dkZEa05BS3g5SG01QzBBMNIBY0FVX3lxTE9VNFdCOWx4THVDTFpCZzA3QnY5el9INjB1NWRQZ3FvdXdYZUctMkFINFR4OTkzVnBCbElTSEsxRDZpdUxMcG84X21vVmtTMmhDand3dkZEa05BS3g5SG01QzBBMA?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 12:36:00 GMT",
+        "source": "채널A",
+        "ageHours": 15.6
       },
       "delivered": [],
       "archived": false

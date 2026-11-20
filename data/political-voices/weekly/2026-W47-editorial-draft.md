@@ -8906,3 +8906,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 혁신당 '비전랩 위원장'에 조국…미래비전·혁신 방안 연구 - 연합뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 혁신당 '비전랩 위원장'에 조국…미래비전·혁신 방안 연구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRkRic0JGZjZmZ2NFNnZJNjNsMW1URUpOczhUM0dyOGhzNGFvQUo0QUVIVlZCa2twS0N6bEp5WXMyVTBRTG5JOWJlUjFNMVZYYndQd1lsaE1kRjTSAWBBVV95cUxORkE2dmdnRVBvaWVYaEh3bXQ5a093MHc2cXdtZjRCcGU5d25uX2dCMk1KT3cyZ1ZGOWYzTkZvNGM3b3BXZUZVSmcyV2tVa0RHZklMLXQ2c05fVXJOZE9Edlc?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵, 국헌 문란 목적의 내란…헌재 인용 가능성 0%" - 뉴스1
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵, 국헌 문란 목적의 내란…헌재 인용 가능성 0%"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ldkl2Mnd2SHM2cmxRZHZkNzRUTFdjb1VCc3JnQy03dDdsUFJqZF85SXhKRGphZnNhczhwLWt5alNDRFkyTUduZm43R2tzN3hfMlhFWWlzalByZw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵은 국헌문란 목적의 내란…가능성 0%" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵은 국헌문란 목적의 내란…가능성 0%"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsd9IBckFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsdw?oc=5)
+
+---
+
