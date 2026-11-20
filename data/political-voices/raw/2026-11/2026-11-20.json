@@ -3483,5 +3483,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "526030c579804ca0d3807bea14e9159d883e8235d5b41c6f6c2864b369ae1551",
+    "targetId": "cheon_haram",
+    "targetName": "천하람",
+    "targetTitle": "개혁신당 원내대표",
+    "title": "마이 케이팝 스타 참가자들에게 격려의 말 전하는 천하람 원내대표 - 뉴스핌",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kUG0xOEJkbkU1ZkZkb1FTT3Nia29tY3ZPSngxM3huVVVnTjRnbmZDaGVlQVI5dE9GeF9UTXR1M1hXa3dTeHpsS0dpdmpQekQ2NmMyYkZhQldTeWtD?oc=5\" target=\"_blank\">마이 케이팝 스타 참가자들에게 격려의 말 전하는 천하람 원내대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kUG0xOEJkbkU1ZkZkb1FTT3Nia29tY3ZPSngxM3huVVVnTjRnbmZDaGVlQVI5dE9GeF9UTXR1M1hXa3dTeHpsS0dpdmpQekQ2NmMyYkZhQldTeWtD?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 08:56:00 GMT",
+    "source": "뉴스핌",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 마이 케이팝 스타 참가자들에게 격려의 말 전하는 천하람 원내대표",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "천하람",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "329ad2cc78492ba5a5bc21949641f1dc99940bf116b4ad0fd9ce16c545406605",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "\"조희대 탄핵, 이번 주말 추진하자\"...조국혁신당, 민주당에 3대 제안 - KBC광주방송",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xR2RtTkdQNTV0cFp4TDhPUi1ZN01NMmpqU1JuV3oxVENod1ZLYTNyNDJYYk9zd2hOT3dsMU5mMUtGLUx3OVR1WG5SSWN0M1dIQlFGRjFSN1BIU1NQRXY2Mg?oc=5\" target=\"_blank\">\"조희대 탄핵, 이번 주말 추진하자\"...조국혁신당, 민주당에 3대 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xR2RtTkdQNTV0cFp4TDhPUi1ZN01NMmpqU1JuV3oxVENod1ZLYTNyNDJYYk9zd2hOT3dsMU5mMUtGLUx3OVR1WG5SSWN0M1dIQlFGRjFSN1BIU1NQRXY2Mg?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 00:49:29 GMT",
+    "source": "KBC광주방송",
+    "ageHours": 8.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"조희대 탄핵, 이번 주말 추진하자\"...조국혁신당, 민주당에 3대 제안",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
