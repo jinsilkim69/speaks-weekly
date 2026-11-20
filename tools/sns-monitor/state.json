@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T03:51:18.506Z",
+  "lastCheckedAt": "2026-11-20T04:01:16.746Z",
   "seenPostIds": {
-    "7ffe4db4fed296e3d32ce74ba837f56b8e61d24cd00522d9c749c6114e4b7fb1": {
-      "seenAt": "2026-11-17T10:11:25.241Z",
-      "title": "'한라산 꼭대기'서도 코딩하던 이준석, 'AI 컨닝 전파' 탐지 앱 개발 - 머니투데이 - 머니투데이",
-      "targetName": "이준석"
-    },
-    "ada7de5246c254b4ba31437d578e541a538467f81d9c88dfe732d6b6beb4e8f3": {
-      "seenAt": "2026-11-17T10:11:26.240Z",
-      "title": "이준석, 기내에서 대입 수능 AI 부정 전파탐지 앱 개발!..소스 공개 - 최보식의언론",
-      "targetName": "이준석"
-    },
-    "21f9b32b3e457215f913928904bd44ea9a539438fee23905f47c97fa57d00fd5": {
-      "seenAt": "2026-11-17T10:11:26.958Z",
-      "title": "‘하버드 출신’ 이준석도 나섰다…직접 만든 ‘AI 커닝 탐지 앱’ 깜짝 - 중앙일보",
-      "targetName": "이준석"
-    },
     "1b7d2867e935b127c7f1b0c118d73fdad59c4cee9aea2bea6fbdf5b8060a53c9": {
       "seenAt": "2026-11-17T10:21:19.989Z",
       "title": "이준석 “전파탐지 앱 개발했다…교육부 신속 검토 바라” [자막뉴스] - 채널A",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-20T03:51:21.217Z",
       "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
       "targetName": "신장식"
+    },
+    "6245cd06b222059ad1e08539c14b1800a2a154c96a303148b7fd73989e58d12e": {
+      "seenAt": "2026-11-20T04:01:17.719Z",
+      "title": "김민석 \"조희대 탄핵의 최대 실익은 이것\" - OhmyNews",
+      "targetName": "김민석"
+    },
+    "c15f03159ebf4c308794b505c81c92ff80583ff2ff84c2ff4b82d5ff266c7511": {
+      "seenAt": "2026-11-20T04:01:18.334Z",
+      "title": "한동훈 “대법원장 탄핵은 사법부 전복 노린 내란…김민석, 의원직 걸겠나” - 매일경제",
+      "targetName": "김민석"
+    },
+    "2875e9bc5093b418e7379e394db9805d7f52f650f8fcd9812303031879c662be": {
+      "seenAt": "2026-11-20T04:01:18.949Z",
+      "title": "「M포토」 조국혁신당 “내란동조 조희대 탄핵하라” - M이코노미뉴스",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "6245cd06b222059ad1e08539c14b1800a2a154c96a303148b7fd73989e58d12e",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 \"조희대 탄핵의 최대 실익은 이것\" - OhmyNews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1CeWJaanBqckx2QnBzTHlvZV9HNWlhdEZfU1dNdXYyRDBWOFlkMElsUkVWTFdfS3hNSnpBTUFMUkYyMk42M2Z4OW5PbEhIR1l6VzlrZTNYbWd1ZzQ1YjlmamNqOGNDTnp0RDFUV2pyTXFfeGxHWU9B?oc=5\" target=\"_blank\">김민석 \"조희대 탄핵의 최대 실익은 이것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CeWJaanBqckx2QnBzTHlvZV9HNWlhdEZfU1dNdXYyRDBWOFlkMElsUkVWTFdfS3hNSnpBTUFMUkYyMk42M2Z4OW5PbEhIR1l6VzlrZTNYbWd1ZzQ1YjlmamNqOGNDTnp0RDFUV2pyTXFfeGxHWU9B?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:51:00 GMT",
-        "source": "OhmyNews",
-        "ageHours": 2.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c15f03159ebf4c308794b505c81c92ff80583ff2ff84c2ff4b82d5ff266c7511",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "한동훈 “대법원장 탄핵은 사법부 전복 노린 내란…김민석, 의원직 걸겠나” - 매일경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE91V1JnMUdaLUp3dUgzb0p4bncyS21GdVZ5dFdqeXJJNG1VWjV0alplN3B2QzgxMVNDelJUdFBFWjlPejFKbEE?oc=5\" target=\"_blank\">한동훈 “대법원장 탄핵은 사법부 전복 노린 내란…김민석, 의원직 걸겠나”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91V1JnMUdaLUp3dUgzb0p4bncyS21GdVZ5dFdqeXJJNG1VWjV0alplN3B2QzgxMVNDelJUdFBFWjlPejFKbEE?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:55:25 GMT",
-        "source": "매일경제",
-        "ageHours": 2.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "2875e9bc5093b418e7379e394db9805d7f52f650f8fcd9812303031879c662be",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "「M포토」 조국혁신당 “내란동조 조희대 탄핵하라” - M이코노미뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qV0FkTUZvbFNzTkprV0tTR0hIclJVZV9USlVFYXJ0TFdzNG1lc2t4cE5KbDVLOWNSVVlSSVZINmFFNDZyUFNfUlJfWmk3V3hkMk92UkRseVpKOXRBV1Y5SVFSTmVDbUE?oc=5\" target=\"_blank\">「M포토」 조국혁신당 “내란동조 조희대 탄핵하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">M이코노미뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qV0FkTUZvbFNzTkprV0tTR0hIclJVZV9USlVFYXJ0TFdzNG1lc2t4cE5KbDVLOWNSVVlSSVZINmFFNDZyUFNfUlJfWmk3V3hkMk92UkRseVpKOXRBV1Y5SVFSTmVDbUE?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 01:01:59 GMT",
-        "source": "M이코노미뉴스",
-        "ageHours": 2.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "3d6ce08beadbb153d5a68de4a4cbc97d62a5956ef68ca57e46504ddbf135a82b",
@@ -2690,6 +2642,22 @@
         "pubDate": "Fri, 20 Nov 2026 02:45:46 GMT",
         "source": "천지일보",
         "ageHours": 1.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "e002edc4ebe2ee8c2b7a6d9553fad086e6f81dffc01d7b5c8711b57bbbd21ae2",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "'최민희 징계' 27일 심의…일부 당원들 '김민석 직무정지' 가처분 '맞불' - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOSnQyUjBYbERJVFl3TVA3bXcxb1lwTnd3dDF3N1YzUUZYc2x1RXltMTRmQWxZWWZNb0Vla001SmRXUFRjcTV1NGtwTkEzbVhqTkxXTktGTjBxNjNST1ROcG5aR3dTc0xIWm03cHEtUTBBY0Z6MEtUTHAyU0FfOFB4a0NQRGhJb0ZxcUtVNWlyMjRKTzJpVzdEMTlkQ05JbTVsMmdhdXVWSk5uNFY2R1RRazB0YXV4Y1Z2dDlPZllfTkZGTkNFQ1k5dERXSGt1aHBfRjJSdUZ3bDV6bGhOM2VwVTBkSEIzdEJiTnc4REc3OENqMnFnTG4wV2dEeXpaTlM1VlE?oc=5\" target=\"_blank\">'최민희 징계' 27일 심의…일부 당원들 '김민석 직무정지' 가처분 '맞불'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSnQyUjBYbERJVFl3TVA3bXcxb1lwTnd3dDF3N1YzUUZYc2x1RXltMTRmQWxZWWZNb0Vla001SmRXUFRjcTV1NGtwTkEzbVhqTkxXTktGTjBxNjNST1ROcG5aR3dTc0xIWm03cHEtUTBBY0Z6MEtUTHAyU0FfOFB4a0NQRGhJb0ZxcUtVNWlyMjRKTzJpVzdEMTlkQ05JbTVsMmdhdXVWSk5uNFY2R1RRazB0YXV4Y1Z2dDlPZllfTkZGTkNFQ1k5dERXSGt1aHBfRjJSdUZ3bDV6bGhOM2VwVTBkSEIzdEJiTnc4REc3OENqMnFnTG4wV2dEeXpaTlM1VlE?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 02:23:00 GMT",
+        "source": "데일리안",
+        "ageHours": 1.6
       },
       "delivered": [],
       "archived": false
