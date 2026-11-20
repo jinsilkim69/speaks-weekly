@@ -9218,3 +9218,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 與 조희대 탄핵 추진 두고 "국헌문란·폭동·내란" - 신아일보
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 與 조희대 탄핵 추진 두고 "국헌문란·폭동·내란"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE1KT3psRTEzdkk1ZHBxbXRjaGR5UFYyZ1loams4WnlVRTNINTZfT3NKNkt2dUNuZFpQM3ZVZmp6TlZnUnhBV3gzX2dGZ3NGMEVsOXgzOGRRSTYzOElxbmNpcFNRSGl0bUpUQ0lvWFFrN3A?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주당 윤리심판원, 27일에 최민희 징계 심의…김민석 징계 청원도 검토 - JTBC
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 윤리심판원, 27일에 최민희 징계 심의…김민석 징계 청원도 검토
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqSmtiNG4xTzhSa0EzNkRlMG03T2l6M3BjVEQzb2lXM3lWTEFhNkRFaW5YZWhKNE1HRzcwLVA1SEJHSktGSUdzTE85dy1nTHMxZXVmcg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "한덕수 일부 무죄는 꼼수 판결…조희대 탄핵 마땅" | - 대전일보
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "한덕수 일부 무죄는 꼼수 판결…조희대 탄핵 마땅" |
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE5DRzRndTBTR2xfdjh6YVJQekQ4clRac2dveS1WeDlDbmJuVTVwUTJXS0l6d2xZVHl3WTN4UnktcUswNW1GTWhiZUNCR1lKSmNQZkc3Qmx4bE9JdFJUWTNDcUI0aldmWnRFS0JGeGt1VzZXdlk?oc=5)
+
+---
+
