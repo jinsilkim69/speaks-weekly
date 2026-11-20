@@ -9959,3 +9959,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** President Trump to hold news conference after returning from China - fox61.com
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] President Trump to hold news conference after returning from China
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAJBVV95cUxOQjRpcTlOamwzZ2t2QmhqVmx1SG9ENU54QXdFX052RTJXQTBfa213UzBZRjNvei1vcFJXUHNpMzU1amc5ZHpuR05VeW50VDFKNEtTV21TSUE1OTB1NGRweFU2ZzZzOHozZ1VpanRrbGpEb2tzUFlad19rUHNzd3VhcWxUZlBVbEczTzQ3WFZjbUVQbUNCeEJhS3JIQnpYQUcweXlwT04xaDExSjhiTjN4LVlneTkzQmp3RXpONHgxQkRydXFhQkYzazVTN0tzcnE5NzR0Q0FVdUVtWF9GcnRrd1ppRUtOenJjTURDaW1uM0VHc0RRLVpleEJXemxWOF93?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** President Trump to hold news conference after returning from China - WFAA
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] President Trump to hold news conference after returning from China
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdlI5eHVMd0JrX2c0Z3dxcm53RTFZRnNWY0NaaTdkYnV1U25EY3Fac2Z5cHo0bzVJYTFwQklpMTd2MlJ6MnI2dHNtNWN1LWxLS0tFLUNTckJ3VEE2VG9LNEVkRUl2aXRwTmRVSzBFb1hnTGRpamltR1NCQjk4TXo2Mi0yUkNHd3FjNkQtWGVEeXdjYmRaU0ZmNmgxVFcyanhpazVjYVBZa09VRERzRDI5THgwSkNpaXRxUzhRMlhjX1lQdGY1NjN0eS1Ea2RFaWRyTGhDRVBmNG5tSWd0QzhnRTdfUGZYNXF3eTRrWV9OdmlhejVWU0NwR0RNaTRfV2M?oc=5)
+
+---
+
