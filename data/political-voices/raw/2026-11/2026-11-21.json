@@ -376,5 +376,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "5af0dd0a31515d2e42997df862258850fe1a1fd7cc51852ccb50dbf1ac642fb6",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 “민주당, 조희대 탄핵 결정…역사적 기회주의자들에게 면죄부” - 로리더",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBuX1JtQXpoNUxQbUZwVzJZejRiaU9pWjNOaHdJQTI3eThpLXR3VE0xSVFFWFpYUlprbVplZG1BcmRMS05wUWgxNWVWZkZyejBtX3FqVzByQm0tdEZzb2RWX2pDbEN3c2RFaXlBQlk0aWpaQdIBckFVX3lxTFBuX1JtQXpoNUxQbUZwVzJZejRiaU9pWjNOaHdJQTI3eThpLXR3VE0xSVFFWFpYUlprbVplZG1BcmRMS05wUWgxNWVWZkZyejBtX3FqVzByQm0tdEZzb2RWX2pDbEN3c2RFaXlBQlk0aWpaQQ?oc=5\" target=\"_blank\">김민석 “민주당, 조희대 탄핵 결정…역사적 기회주의자들에게 면죄부”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">로리더</font>",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuX1JtQXpoNUxQbUZwVzJZejRiaU9pWjNOaHdJQTI3eThpLXR3VE0xSVFFWFpYUlprbVplZG1BcmRMS05wUWgxNWVWZkZyejBtX3FqVzByQm0tdEZzb2RWX2pDbEN3c2RFaXlBQlk0aWpaQdIBckFVX3lxTFBuX1JtQXpoNUxQbUZwVzJZejRiaU9pWjNOaHdJQTI3eThpLXR3VE0xSVFFWFpYUlprbVplZG1BcmRMS05wUWgxNWVWZkZyejBtX3FqVzByQm0tdEZzb2RWX2pDbEN3c2RFaXlBQlk0aWpaQQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 10:22:49 GMT",
+    "source": "로리더",
+    "ageHours": 6.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 “민주당, 조희대 탄핵 결정…역사적 기회주의자들에게 면죄부”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

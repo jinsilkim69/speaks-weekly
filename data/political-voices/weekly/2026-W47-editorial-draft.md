@@ -10115,3 +10115,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 “민주당, 조희대 탄핵 결정…역사적 기회주의자들에게 면죄부” - 로리더
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 “민주당, 조희대 탄핵 결정…역사적 기회주의자들에게 면죄부”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTFBuX1JtQXpoNUxQbUZwVzJZejRiaU9pWjNOaHdJQTI3eThpLXR3VE0xSVFFWFpYUlprbVplZG1BcmRMS05wUWgxNWVWZkZyejBtX3FqVzByQm0tdEZzb2RWX2pDbEN3c2RFaXlBQlk0aWpaQdIBckFVX3lxTFBuX1JtQXpoNUxQbUZwVzJZejRiaU9pWjNOaHdJQTI3eThpLXR3VE0xSVFFWFpYUlprbVplZG1BcmRMS05wUWgxNWVWZkZyejBtX3FqVzByQm0tdEZzb2RWX2pDbEN3c2RFaXlBQlk0aWpaQQ?oc=5)
+
+---
+

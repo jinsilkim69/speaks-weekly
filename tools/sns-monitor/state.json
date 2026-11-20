@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-20T16:51:17.554Z",
+  "lastCheckedAt": "2026-11-20T17:11:19.755Z",
   "seenPostIds": {
     "0b772906c004c1434eaf3b9433ef02330f3d1d51cb808139734519896d790118": {
       "seenAt": "2026-11-17T23:21:18.444Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-20T16:41:20.892Z",
       "title": "Trump pressures Congress to pass farm bill this year - Hawaii Tribune-Herald",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "5af0dd0a31515d2e42997df862258850fe1a1fd7cc51852ccb50dbf1ac642fb6": {
+      "seenAt": "2026-11-20T17:11:21.166Z",
+      "title": "김민석 “민주당, 조희대 탄핵 결정…역사적 기회주의자들에게 면죄부” - 로리더",
+      "targetName": "김민석"
     }
   },
   "pending": []
