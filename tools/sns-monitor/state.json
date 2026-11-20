@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-20T09:21:22.424Z",
       "title": "조국 日 입국 거부, 독도 때문 아니었다…진짜 이유는 '징역 2년' - 주간조선",
       "targetName": "조국"
+    },
+    "fa6754f5fa37184c8feed16ec93e23eef45ba688f6d910b9f7198304252ddf00": {
+      "seenAt": "2026-11-20T09:31:18.585Z",
+      "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
+      "targetName": "신장식"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "fa6754f5fa37184c8feed16ec93e23eef45ba688f6d910b9f7198304252ddf00",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Kd1BwM1lhbktZcE8wNUdBN0czQ1RfeXhQbFNoS3kxdWZHWlJMbGpwUVpYeldnYTRmd0YxaVFLZWtSS1RmN1NfZXJpVVZFM0Y3YzF4LWN4OGhEMXVZQ3JzRdIBYEFVX3lxTE9Kd1BwM1lhbktZcE8wNUdBN0czQ1RfeXhQbFNoS3kxdWZHWlJMbGpwUVpYeldnYTRmd0YxaVFLZWtSS1RmN1NfZXJpVVZFM0Y3YzF4LWN4OGhEMXVZQ3JzRQ?oc=5\" target=\"_blank\">신장식 대표, 조희대 대법원장 탄핵 추진 기자회견</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Kd1BwM1lhbktZcE8wNUdBN0czQ1RfeXhQbFNoS3kxdWZHWlJMbGpwUVpYeldnYTRmd0YxaVFLZWtSS1RmN1NfZXJpVVZFM0Y3YzF4LWN4OGhEMXVZQ3JzRdIBYEFVX3lxTE9Kd1BwM1lhbktZcE8wNUdBN0czQ1RfeXhQbFNoS3kxdWZHWlJMbGpwUVpYeldnYTRmd0YxaVFLZWtSS1RmN1NfZXJpVVZFM0Y3YzF4LWN4OGhEMXVZQ3JzRQ?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:24:57 GMT",
-        "source": "연합뉴스",
-        "ageHours": 8.9
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
