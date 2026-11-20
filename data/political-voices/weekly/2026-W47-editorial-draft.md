@@ -8503,3 +8503,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [막전막후] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나 - 펜앤마이크
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTFBONWpXUTh5UkNLTWF5eTdhTTJMdloyX3lCQXJ3ZVBfSThsMGRyZjU2aXN5TF9jMWFXQnRpLXdoM3RUWTc0YktxbDdmV0F4UEF3WU9aYURNdC1oQ0NtLWhqaDUzMFhtbmlrZ0pF0gFvQVVfeXFMTW9UNkNITnNzSG4xcm5zUzBscmd5MFdsUmxrNGlGbFJUOGdpYmRqaEgyZUJ1RkVRLWxhTWlWaTJPc01feVNDWDhqWXl5cVYzQnlGZDlnS2RXUWxOQ2didlp0aVphMlJWY3hNLUd5cEd3?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 「M포토」 발언하는 신장식 조국혁신당 대표 - M이코노미뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 「M포토」 발언하는 신장식 조국혁신당 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4NG5zMHdnOThWR2hJcV9sZ3FQS0RhVzB3YmhjYjdwaWZMZW9TZE85X2xkMmd3Y2JaWkszUVFxM3ExZzBRUjkydElUSHlhM0FPcDIwZ00wVDhRbEZWNi1nSG5mdU9HdW8?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "민주당, 이번 주말 조희대 탄핵 추진하자" - 뉴스토마토
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "민주당, 이번 주말 조희대 탄핵 추진하자"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GM1ZNUDhqbzZzRWRfSGxoTUZXSFl3X2N3MV9DdkRBZzlmRDJMTERCVDZNY25VajRmSTA2RjJQUVNwZGpvelM0a3U3Wi05T0hfaXl5U0VpOTJ1SU5rYVJTLQ?oc=5)
+
+---
+
