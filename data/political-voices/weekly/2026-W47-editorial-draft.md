@@ -9673,3 +9673,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 “민주당, 이번 주말 바로 조희대 탄핵하자” - KBS 뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 “민주당, 이번 주말 바로 조희대 탄핵하자”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vZk84XzVqNjU2QU9lak5aaVRaWHNhb2lId0FGTlFKSjByYUZPVm1IcTQ0RVRtV2hRYVYyME5oWUlOaExBN3ZfX09paTl2SlBiNWlGTnNDdTB5c0E?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 「M포토」 조국혁신당 지도부와 대화하는 한병도 원내대표 - M이코노미뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 「M포토」 조국혁신당 지도부와 대화하는 한병도 원내대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6c0t3bW1hVXRaQnYydHI1TDBmYmFicUN1SjEwc1pqeURMQnJWMnItMGtSSGt1SmsteDZZYWVUTER1b29DZGNJOGw4bnlKNGJPRVY1VmxFUjVHd2c3dUVycDY5X05DZ0U?oc=5)
+
+---
+

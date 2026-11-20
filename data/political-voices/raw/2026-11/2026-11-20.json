@@ -3812,5 +3812,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "662f4f4a5c32851f7c28b04258102e2de6cecbccc231fb89c7c9ad497040a311",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당 “민주당, 이번 주말 바로 조희대 탄핵하자” - KBS 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vZk84XzVqNjU2QU9lak5aaVRaWHNhb2lId0FGTlFKSjByYUZPVm1IcTQ0RVRtV2hRYVYyME5oWUlOaExBN3ZfX09paTl2SlBiNWlGTnNDdTB5c0E?oc=5\" target=\"_blank\">조국혁신당 “민주당, 이번 주말 바로 조희대 탄핵하자”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vZk84XzVqNjU2QU9lak5aaVRaWHNhb2lId0FGTlFKSjByYUZPVm1IcTQ0RVRtV2hRYVYyME5oWUlOaExBN3ZfX09paTl2SlBiNWlGTnNDdTB5c0E?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 01:32:00 GMT",
+    "source": "KBS 뉴스",
+    "ageHours": 8.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당 “민주당, 이번 주말 바로 조희대 탄핵하자”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "8b05c77cc122599149db126a03cb991f41b7ede750b3c742ae0cd7dc18791687",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "「M포토」 조국혁신당 지도부와 대화하는 한병도 원내대표 - M이코노미뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6c0t3bW1hVXRaQnYydHI1TDBmYmFicUN1SjEwc1pqeURMQnJWMnItMGtSSGt1SmsteDZZYWVUTER1b29DZGNJOGw4bnlKNGJPRVY1VmxFUjVHd2c3dUVycDY5X05DZ0U?oc=5\" target=\"_blank\">「M포토」 조국혁신당 지도부와 대화하는 한병도 원내대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">M이코노미뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6c0t3bW1hVXRaQnYydHI1TDBmYmFicUN1SjEwc1pqeURMQnJWMnItMGtSSGt1SmsteDZZYWVUTER1b29DZGNJOGw4bnlKNGJPRVY1VmxFUjVHd2c3dUVycDY5X05DZ0U?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 06:56:24 GMT",
+    "source": "M이코노미뉴스",
+    "ageHours": 3.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 「M포토」 조국혁신당 지도부와 대화하는 한병도 원내대표",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
