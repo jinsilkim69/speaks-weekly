@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-20T23:11:17.903Z",
+  "lastCheckedAt": "2026-11-20T23:21:17.158Z",
   "seenPostIds": {
     "e60711fdab66085165ee4418dd3bab04d79553456ccdbd920579b91f047bd5fc": {
       "seenAt": "2026-11-18T01:41:18.853Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-20T22:31:17.055Z",
       "title": "Trump delights in pomp of Asia trip, with no breakthroughs to report - The Washington Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8d88d7b38e934a8ac9446a5f0f544193eebad9f25c08d895448b3402987833ff": {
+      "seenAt": "2026-11-20T23:21:18.423Z",
+      "title": "이재명 대통령 '대장동 檢 기소' 반박 \"5500억 환수가 배임인가\" - 대전일보",
+      "targetName": "이재명"
     }
   },
   "pending": []
