@@ -9530,3 +9530,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** “최민희 운명은?” 與윤리심판원, 27일 징계 심의…김민석 징계청원도 논의 - 시사저널
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “최민희 운명은?” 與윤리심판원, 27일 징계 심의…김민석 징계청원도 논의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBDWXFpbTZtUWpwRU1NenhpcDBPMTd4NW9xVEFibWcySVMxU2FGZ01DRDBXQ0RoQnJmTnVfNWx4LUtvR2hlcTNqdXM0NHRJWC1EcTIxaDhCamp1dVZEU0lubURnU1lvRFRUSnNpeUxrRdIBc0FVX3lxTE0yaHk5YzZkTVU4WnJrMjdNUTV4ZXRfOWpUQ1FJR24tRXVVNGFkbjRDcjktZHRUbGE4Ymd2RzExUVdJNU5XM0lDU3BGQk5lZGRZQ2lWQm10eVdFLXZ0QWYzdVJwbHJnRUpLVGk0cmxGSG50MHM?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 민병복-민병덕-김태호-김재원-천하람-강경숙, 마이 케이팝 스타 결선무대 - 뉴스핌
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민병복-민병덕-김태호-김재원-천하람-강경숙, 마이 케이팝 스타 결선무대
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PTXU1eTN6NVd6ZnR6djh1Vng2SWFhMnk4aVdCNm9tNklQaEFfUVZsaXhXemdDcEcteWljNTVXVEtLWGk0Q1E4SE9rR3R1bTV2d0lfNXVWS2pQMnZ3?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 日 입국 거부, 독도 때문 아니었다…진짜 이유는 '징역 2년' - 주간조선
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 日 입국 거부, 독도 때문 아니었다…진짜 이유는 '징역 2년'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBySkl0VW85UGREcWpIU1JEZHhHVkgxYXlFNDJxdjhSSHZSbzFNd3ZzdGxNTDdaNTZwdlFVanBxZV9XYklvU3JoSTZnMTRtSDI0RnNndTIwenBrR21fcnQzb0NJNC1JQUVpNGfSAW5BVV95cUxNX0VpeUthaXFEdWhsaE5ZUHFZNGg0cElNU0NtNjJSWjNrU3JNM3ZlQmthV09idGYxeVJwbVlxZkhvOHFjZ3AtUnpNWUhmRGwxeHZDWHRac25IMFQyNktUaWZYNEp1T1FhQ0dHVlY5Zw?oc=5)
+
+---
+

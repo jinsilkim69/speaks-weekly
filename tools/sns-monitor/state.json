@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T09:11:18.783Z",
+  "lastCheckedAt": "2026-11-20T09:21:19.818Z",
   "seenPostIds": {
-    "4a132025a3024ea30a6b524916a4ab9b7e87641ee5116193bbbfc4bc6228265f": {
-      "seenAt": "2026-11-17T12:51:20.286Z",
-      "title": "조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전” - 서울신문",
-      "targetName": "조국"
-    },
-    "af98e9158b2986f86c7fa9419a5e34283653eb1af20a0b7afb1db65d3a7596f4": {
-      "seenAt": "2026-11-17T12:51:20.937Z",
-      "title": "이재명 대통령, 필리핀서 한일 정상회담…아세안+3 정상회의 등도 참석 - 연합뉴스",
-      "targetName": "이재명"
-    },
     "a4b18e624b6471b6f6f6aafaa15d85488349d75253865dfe65a76ced74206ea1": {
       "seenAt": "2026-11-17T13:01:22.933Z",
       "title": "친명계 \"최민희 엄중 징계\" vs 친청계 \"김민석 징계도 공정하게\" - 프레시안",
@@ -2510,7 +2500,39 @@
       "seenAt": "2026-11-20T09:11:21.193Z",
       "title": "\"조희대 탄핵, 이번 주말 추진하자\"...조국혁신당, 민주당에 3대 제안 - KBC광주방송",
       "targetName": "조국"
+    },
+    "22ba1070ed0d0eaa360b94fa76d11527f8f260c7703e5ba39d6f14be862b855d": {
+      "seenAt": "2026-11-20T09:21:21.057Z",
+      "title": "“최민희 운명은?” 與윤리심판원, 27일 징계 심의…김민석 징계청원도 논의 - 시사저널",
+      "targetName": "김민석"
+    },
+    "5e5f215152fb2aecc4e4adda55e65cee8aca8aec73162afc2a4b9cfb10fcda79": {
+      "seenAt": "2026-11-20T09:21:21.737Z",
+      "title": "민병복-민병덕-김태호-김재원-천하람-강경숙, 마이 케이팝 스타 결선무대 - 뉴스핌",
+      "targetName": "천하람"
+    },
+    "fd40b5a0c0b1531802c4f111c141d8994e95addaf04667e9dffa25c515da96f2": {
+      "seenAt": "2026-11-20T09:21:22.424Z",
+      "title": "조국 日 입국 거부, 독도 때문 아니었다…진짜 이유는 '징역 2년' - 주간조선",
+      "targetName": "조국"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "fa6754f5fa37184c8feed16ec93e23eef45ba688f6d910b9f7198304252ddf00",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Kd1BwM1lhbktZcE8wNUdBN0czQ1RfeXhQbFNoS3kxdWZHWlJMbGpwUVpYeldnYTRmd0YxaVFLZWtSS1RmN1NfZXJpVVZFM0Y3YzF4LWN4OGhEMXVZQ3JzRdIBYEFVX3lxTE9Kd1BwM1lhbktZcE8wNUdBN0czQ1RfeXhQbFNoS3kxdWZHWlJMbGpwUVpYeldnYTRmd0YxaVFLZWtSS1RmN1NfZXJpVVZFM0Y3YzF4LWN4OGhEMXVZQ3JzRQ?oc=5\" target=\"_blank\">신장식 대표, 조희대 대법원장 탄핵 추진 기자회견</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Kd1BwM1lhbktZcE8wNUdBN0czQ1RfeXhQbFNoS3kxdWZHWlJMbGpwUVpYeldnYTRmd0YxaVFLZWtSS1RmN1NfZXJpVVZFM0Y3YzF4LWN4OGhEMXVZQ3JzRdIBYEFVX3lxTE9Kd1BwM1lhbktZcE8wNUdBN0czQ1RfeXhQbFNoS3kxdWZHWlJMbGpwUVpYeldnYTRmd0YxaVFLZWtSS1RmN1NfZXJpVVZFM0Y3YzF4LWN4OGhEMXVZQ3JzRQ?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 00:24:57 GMT",
+        "source": "연합뉴스",
+        "ageHours": 8.9
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
