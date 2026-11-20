@@ -9140,3 +9140,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "조희대 탄핵 추진 환영... 내일 표결하자" #shorts - OhmyNews
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대 탄핵 추진 환영... 내일 표결하자" #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE11UU9HV2NnR0V5aEhKUFhqazBHQlhoS3B4OThoZHBPQXdjRGgzRndVYURvR2hoVWpEaVAwdDlMZDZNWlFwc1FXc0JiZFY4d2FZbmdnUXNXcGYwTkswQjl2cmRxUktsLXdBVHVpbUlweXpIVmtZVXhuQnBMVEdndjA?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "조희대 탄핵 더 미룰 이유 없다⋯내일 본회의서 표결 가능" - 아이뉴스24
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대 탄핵 더 미룰 이유 없다⋯내일 본회의서 표결 가능"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1Mm13alJ6SzMyQTJpVkRPd0FpNk9aZGJSd0VDVDVCSGQ4Mm1LNHRUejBxV0dsMzk4U2dYc2ZDX2tzN0JzVHpIYTNxQQ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "조희대 탄핵 추진 환영... 내일 표결하자" - OhmyNews
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대 탄핵 추진 환영... 내일 표결하자"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTFBsbGRpRjZjRWhEZlA5RjZQTHMwZ3dKZ05ybjhhbHN1QjBzc0hYcTFSYmpla3hRZWQ2OVoyclo1dkRlVElPM3hFUXp2SG5XWUlLcVZEZzVQOWRqZVhQZGVzc0RKZHpyUEhQRVBXejFHQzR2NHpzdU9hb09aQQ?oc=5)
+
+---
+
