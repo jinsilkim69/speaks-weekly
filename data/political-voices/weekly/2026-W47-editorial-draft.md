@@ -8945,3 +8945,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "조희대 대법원장 탄핵 결정"…파기환송 비판 - 데일리메이커
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "조희대 대법원장 탄핵 결정"…파기환송 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GZkYtbFpmV21NT3NpdlUzUHBxUkJ2VTdUVXAzVkpicnViM25VdEZtTE95RHZQdEtCUGlMV1Z0ZEtfV1BjN2lQQ19FcW44Qjg3TDRfTDBWZW9KTjJzekxKcDladzJnUQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 하헌기 "조희대 탄핵? 의원직 걸어라"…김종혁 "김민석, 외부의 적 세워" - JTBC
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 하헌기 "조희대 탄핵? 의원직 걸어라"…김종혁 "김민석, 외부의 적 세워"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UVDRTc1Y5TGxNSnpGVEtzemQxZlNBVXV3N2dJV1U5ZGJNWEpsVzJQZ0FLNW5jbjdWUEVtMDZCdXp2RFJFc0dvN2RKQm90dTV3RDBnWA?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "준비한 기량 발휘하길"…與, 수험생 격려·부정행위 엄단 강조 - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "준비한 기량 발휘하길"…與, 수험생 격려·부정행위 엄단 강조
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFBVMi1vaTZEbVFXQ1RSbGtqWU1ES1FFOE43bWQ5UGFnTzJMdzZsOXllTTEyMDlDaHdOTnVWUXJrcmMxTzFNVG5NUHdVdzJTSW5SSjREM2tlQm5ISTFKUkdDLTBZZDVuNTloaVRKStIBckFVX3lxTE8yVXdDSDRaRnFnVzFmYWI0SnlIY2JmV20teXJuVWx1UnJKdVhjdnRJSGVPX0pNMVpuNFpZb3JRZjJDRk9uT1FkajRlUXBLaThUMzlLUFBQX2JrWk0zY3N5U1djc3dHNnlHbF83T203U1l3QQ?oc=5)
+
+---
+

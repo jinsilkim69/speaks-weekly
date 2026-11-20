@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T04:11:16.087Z",
+  "lastCheckedAt": "2026-11-20T04:21:17.187Z",
   "seenPostIds": {
-    "408786869aaf0e833a375adc9da51435965b5b49cd88aca6b63163c2ef1dbb05": {
-      "seenAt": "2026-11-17T10:31:19.931Z",
-      "title": "천하람 \"열화상카메라·검전기로 AI 커닝 적발 어려워…수능 연기해야\" - 뉴스핌",
-      "targetName": "천하람"
-    },
-    "c8a2b43e85a6623b596dd9e80fc3cfcc3f8359d9b1a7459e2aff685d63eb489c": {
-      "seenAt": "2026-11-17T10:31:20.891Z",
-      "title": "천하람 \"與 김문수 '수험생끼리 신고'? 대책 없음 자백…수능 연기해야\" - 뉴스1",
-      "targetName": "천하람"
-    },
-    "bd00f2fbe812708d64c4bdac14a173f51ab49d4bb52101c26bc477412266eed8": {
-      "seenAt": "2026-11-17T10:31:21.506Z",
-      "title": "조국, 일본 입국 거부 당해…혁신당 “日 정부, 사과하라” - 중앙일보",
-      "targetName": "조국"
-    },
     "4ef7d8a3535bb4142460b455f67ca18381d66e3eb970f17514dcb6fd025dbb7b": {
       "seenAt": "2026-11-17T10:41:22.297Z",
       "title": "조국 전 의원, 일본 하네다 공항서 입국 불허 - 굿모닝충청",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-20T04:11:18.579Z",
       "title": "한동훈 \"조희대 탄핵은 국헌문란 목적의 내란…가능성 0%\" - 머니투데이 - 머니투데이",
       "targetName": "한동훈"
+    },
+    "2a114b58c9f4e27bd7d3fd14e65135ad8b75eb945d5c0e243853a5fd163c893f": {
+      "seenAt": "2026-11-20T04:21:18.357Z",
+      "title": "김민석 \"조희대 대법원장 탄핵 결정\"…파기환송 비판 - 데일리메이커",
+      "targetName": "김민석"
+    },
+    "62268d4bd98c6b7cf4f97ba28ec8f439cec7dfc387437421df91af74bc999d3a": {
+      "seenAt": "2026-11-20T04:21:19.007Z",
+      "title": "하헌기 \"조희대 탄핵? 의원직 걸어라\"…김종혁 \"김민석, 외부의 적 세워\" - JTBC",
+      "targetName": "김민석"
+    },
+    "b4dc34d2be61eb1e633748bc71a967dbaa8bb00a765eaf00aac5c2d366067cf5": {
+      "seenAt": "2026-11-20T04:21:19.637Z",
+      "title": "김민석 \"준비한 기량 발휘하길\"…與, 수험생 격려·부정행위 엄단 강조 - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "2a114b58c9f4e27bd7d3fd14e65135ad8b75eb945d5c0e243853a5fd163c893f",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 \"조희대 대법원장 탄핵 결정\"…파기환송 비판 - 데일리메이커",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GZkYtbFpmV21NT3NpdlUzUHBxUkJ2VTdUVXAzVkpicnViM25VdEZtTE95RHZQdEtCUGlMV1Z0ZEtfV1BjN2lQQ19FcW44Qjg3TDRfTDBWZW9KTjJzekxKcDladzJnUQ?oc=5\" target=\"_blank\">김민석 \"조희대 대법원장 탄핵 결정\"…파기환송 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리메이커</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GZkYtbFpmV21NT3NpdlUzUHBxUkJ2VTdUVXAzVkpicnViM25VdEZtTE95RHZQdEtCUGlMV1Z0ZEtfV1BjN2lQQ19FcW44Qjg3TDRfTDBWZW9KTjJzekxKcDladzJnUQ?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 03:26:16 GMT",
-        "source": "데일리메이커",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "62268d4bd98c6b7cf4f97ba28ec8f439cec7dfc387437421df91af74bc999d3a",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "하헌기 \"조희대 탄핵? 의원직 걸어라\"…김종혁 \"김민석, 외부의 적 세워\" - JTBC",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UVDRTc1Y5TGxNSnpGVEtzemQxZlNBVXV3N2dJV1U5ZGJNWEpsVzJQZ0FLNW5jbjdWUEVtMDZCdXp2RFJFc0dvN2RKQm90dTV3RDBnWA?oc=5\" target=\"_blank\">하헌기 \"조희대 탄핵? 의원직 걸어라\"…김종혁 \"김민석, 외부의 적 세워\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UVDRTc1Y5TGxNSnpGVEtzemQxZlNBVXV3N2dJV1U5ZGJNWEpsVzJQZ0FLNW5jbjdWUEVtMDZCdXp2RFJFc0dvN2RKQm90dTV3RDBnWA?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 01:06:00 GMT",
-        "source": "JTBC",
-        "ageHours": 2.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "b4dc34d2be61eb1e633748bc71a967dbaa8bb00a765eaf00aac5c2d366067cf5",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 \"준비한 기량 발휘하길\"…與, 수험생 격려·부정행위 엄단 강조 - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBVMi1vaTZEbVFXQ1RSbGtqWU1ES1FFOE43bWQ5UGFnTzJMdzZsOXllTTEyMDlDaHdOTnVWUXJrcmMxTzFNVG5NUHdVdzJTSW5SSjREM2tlQm5ISTFKUkdDLTBZZDVuNTloaVRKStIBckFVX3lxTE8yVXdDSDRaRnFnVzFmYWI0SnlIY2JmV20teXJuVWx1UnJKdVhjdnRJSGVPX0pNMVpuNFpZb3JRZjJDRk9uT1FkajRlUXBLaThUMzlLUFBQX2JrWk0zY3N5U1djc3dHNnlHbF83T203U1l3QQ?oc=5\" target=\"_blank\">김민석 \"준비한 기량 발휘하길\"…與, 수험생 격려·부정행위 엄단 강조 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVMi1vaTZEbVFXQ1RSbGtqWU1ES1FFOE43bWQ5UGFnTzJMdzZsOXllTTEyMDlDaHdOTnVWUXJrcmMxTzFNVG5NUHdVdzJTSW5SSjREM2tlQm5ISTFKUkdDLTBZZDVuNTloaVRKStIBckFVX3lxTE8yVXdDSDRaRnFnVzFmYWI0SnlIY2JmV20teXJuVWx1UnJKdVhjdnRJSGVPX0pNMVpuNFpZb3JRZjJDRk9uT1FkajRlUXBLaThUMzlLUFBQX2JrWk0zY3N5U1djc3dHNnlHbF83T203U1l3QQ?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 15:41:23 GMT",
-        "source": "머니투데이",
-        "ageHours": 12.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "6ae2386e3191f8646cc2c71352d7f9d001c0dd7336020fb1bae33240b0baa32f",
@@ -2642,6 +2594,38 @@
         "pubDate": "Thu, 19 Nov 2026 12:36:00 GMT",
         "source": "채널A",
         "ageHours": 15.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "87da76f29b4b45d2d16b24a29e25b79a6a7520c9c71d30d592049bc714687287",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 대통령 직무평가 '잘하고 있다' 40% .. 부정평가 '부동산'에서 '경제/민생'으로 변화 - 데일리경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9wdTZVeHh0TDBLZVJEemUxNzI0MXV2OWlQWlpqaGZRczZRMVZHb1hJX192SjBuMENEWDE2MzFzdXlNWHd5amxvWjRLN0hMNkthX0tjejVjaURpT3pwX2psanJHTG9raFBPOElRZQ?oc=5\" target=\"_blank\">이재명 대통령 직무평가 '잘하고 있다' 40% .. 부정평가 '부동산'에서 '경제/민생'으로 변화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wdTZVeHh0TDBLZVJEemUxNzI0MXV2OWlQWlpqaGZRczZRMVZHb1hJX192SjBuMENEWDE2MzFzdXlNWHd5amxvWjRLN0hMNkthX0tjejVjaURpT3pwX2psanJHTG9raFBPOElRZQ?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 04:14:35 GMT",
+        "source": "데일리경제",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b3c7810b61c591f17db21578135c1929a9e74eb27d52b06db75efd793edc0fdc",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식, 민주당에 '조희대 탄핵안' 21일 표결 제안 - 한국경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUc1ZTbTdqTWdQX1RrT29YY2h2Q2JyZUVMRG5JYi1ULVZ0djF4UTd1ODVTQXNQdkRJdFF4aUlGaWVtOVIxQVpNeWJjOGRXRlU5aWhsdHV1RHU4Zw?oc=5\" target=\"_blank\">신장식, 민주당에 '조희대 탄핵안' 21일 표결 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUc1ZTbTdqTWdQX1RrT29YY2h2Q2JyZUVMRG5JYi1ULVZ0djF4UTd1ODVTQXNQdkRJdFF4aUlGaWVtOVIxQVpNeWJjOGRXRlU5aWhsdHV1RHU4Zw?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 02:42:16 GMT",
+        "source": "한국경제",
+        "ageHours": 1.7
       },
       "delivered": [],
       "archived": false
