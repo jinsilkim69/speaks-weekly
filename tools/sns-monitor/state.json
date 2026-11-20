@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T10:21:14.786Z",
+  "lastCheckedAt": "2026-11-20T10:41:17.193Z",
   "seenPostIds": {
-    "d2b2e87e4924e55b885320cc816ae5e95c2d2f9ee8da2a3fdcbfb1a67b569468": {
-      "seenAt": "2026-11-17T13:41:22.888Z",
-      "title": "조국, 일본 공항서 입국거부…과거 형사처벌 전력 때문? 혁신당 “일본 정부 사과해야” - 경향신문",
-      "targetName": "조국"
-    },
-    "719eed82db244e1c1f7bf8f0352ff42ec71ceb54c5ad07ae92e4ea65a8a07a4e": {
-      "seenAt": "2026-11-17T13:41:23.529Z",
-      "title": "이재명 대통령도 전면전, \"AI 입시부정 최대 5년 처벌\" > 뉴스 - 지데일리",
-      "targetName": "이재명"
-    },
     "83d593301b6ffcd6e8ffd7616081e73dd99b1ed4973e4e6eac78e00947aee487": {
       "seenAt": "2026-11-17T13:51:20.407Z",
       "title": "이준석, 'AI 부정행위 방지 앱' 개발…\"블루투스 신호 탐지\" - 한국경제",
@@ -2510,6 +2500,16 @@
       "seenAt": "2026-11-20T10:21:17.211Z",
       "title": "「M포토」 조국혁신당 지도부와 대화하는 한병도 원내대표 - M이코노미뉴스",
       "targetName": "조국"
+    },
+    "c44fce39583aa3b74d70abd9c4ceaa63abfdf529870fb19f5d9c42dc56b973a7": {
+      "seenAt": "2026-11-20T10:41:18.251Z",
+      "title": "[포토] 비공개 의원총회 참석 위해 이동하는 정청래 의원 - 파이낸스투데이",
+      "targetName": "정청래"
+    },
+    "32428b4bfbdbe8d3e692d12bdec7815a9626f7016fee1afba53eedd5b80e10f8": {
+      "seenAt": "2026-11-20T10:41:18.878Z",
+      "title": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

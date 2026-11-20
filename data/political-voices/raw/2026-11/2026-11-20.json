@@ -3863,5 +3863,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c44fce39583aa3b74d70abd9c4ceaa63abfdf529870fb19f5d9c42dc56b973a7",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "[포토] 비공개 의원총회 참석 위해 이동하는 정청래 의원 - 파이낸스투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE55RWwzSGlOeVJGamVmXzE4RjA5SEVjTnd3ay1mU1UxV2tpNk5pSVBXbGNWOWJfMVdMYzFoX080R0RzdXJhaHhyUlVmUWRJeEw5OG5iX1l3QmRFLXNqVzV5UWtDbzJIczhrVEtN?oc=5\" target=\"_blank\">[포토] 비공개 의원총회 참석 위해 이동하는 정청래 의원</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸스투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55RWwzSGlOeVJGamVmXzE4RjA5SEVjTnd3ay1mU1UxV2tpNk5pSVBXbGNWOWJfMVdMYzFoX080R0RzdXJhaHhyUlVmUWRJeEw5OG5iX1l3QmRFLXNqVzV5UWtDbzJIczhrVEtN?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 08:25:00 GMT",
+    "source": "파이낸스투데이",
+    "ageHours": 2.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 비공개 의원총회 참석 위해 이동하는 정청래 의원",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "32428b4bfbdbe8d3e692d12bdec7815a9626f7016fee1afba53eedd5b80e10f8",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5\" target=\"_blank\">Trump Media & Technology Group | Truth Social, DJT, History, & TAE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Britannica</font>",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 09:26:48 GMT",
+    "source": "Britannica",
+    "ageHours": 1.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Media & Technology Group | Truth Social, DJT, History, & TAE",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
