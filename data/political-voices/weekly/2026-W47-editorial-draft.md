@@ -10102,3 +10102,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump pressures Congress to pass farm bill this year - Hawaii Tribune-Herald
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump pressures Congress to pass farm bill this year
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHV0YXRiTExBaTZwMDNmbVNIVFBTVlVyTXU3U0YxWS1xYzAtQmdtVXNkcXF2TG1sTzFveVk0MnktUXRta2J4ZVZKckpJQ1NZcVdTaWIwMUF4aUk4R2lhMjVDRU4xVzF5dHR4NUdsOGV6N2IwbF9fRVJqeVZHSVBYa1VOdi0zemsxVC1qdVpSRVJEcDNIWkVqNG9HRUZ5UlR0Z3NmUlpPYjVwYVhkcnVJOWtNaFlqR2V1VnFZ?oc=5)
+
+---
+

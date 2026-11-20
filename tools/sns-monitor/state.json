@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T16:25:26.101Z",
+  "lastCheckedAt": "2026-11-20T16:41:19.935Z",
   "seenPostIds": {
-    "8dc537939c06e19e79d83484e5d97ea5ddec8026e15ece845593c9b78e361c1d": {
-      "seenAt": "2026-11-17T23:11:17.534Z",
-      "title": "정청래 \"'대타협 촉구' 송영길, 자격미달자 나서지 마세요\" - 이데일리",
-      "targetName": "정청래"
-    },
     "e0a643615920cd65ce7521b0a380d510a559929861370d141566ce223a25ed91": {
       "seenAt": "2026-11-17T23:11:18.141Z",
       "title": "Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - 13WHAM-TV",
@@ -2504,6 +2499,11 @@
     "c69bb13451c36435bdbb39d1384ca63c325d9b23c778cc4d334b83c18f5c9901": {
       "seenAt": "2026-11-20T16:25:27.425Z",
       "title": "President Trump to hold news conference after returning from China - WCNC",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "7e1170bcf31f13298c89b281105a9791f6575320272ce7d78a63c1a8b61865d3": {
+      "seenAt": "2026-11-20T16:41:20.892Z",
+      "title": "Trump pressures Congress to pass farm bill this year - Hawaii Tribune-Herald",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },

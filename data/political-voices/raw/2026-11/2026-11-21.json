@@ -351,5 +351,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "7e1170bcf31f13298c89b281105a9791f6575320272ce7d78a63c1a8b61865d3",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump pressures Congress to pass farm bill this year - Hawaii Tribune-Herald",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHV0YXRiTExBaTZwMDNmbVNIVFBTVlVyTXU3U0YxWS1xYzAtQmdtVXNkcXF2TG1sTzFveVk0MnktUXRta2J4ZVZKckpJQ1NZcVdTaWIwMUF4aUk4R2lhMjVDRU4xVzF5dHR4NUdsOGV6N2IwbF9fRVJqeVZHSVBYa1VOdi0zemsxVC1qdVpSRVJEcDNIWkVqNG9HRUZ5UlR0Z3NmUlpPYjVwYVhkcnVJOWtNaFlqR2V1VnFZ?oc=5\" target=\"_blank\">Trump pressures Congress to pass farm bill this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii Tribune-Herald</font>",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHV0YXRiTExBaTZwMDNmbVNIVFBTVlVyTXU3U0YxWS1xYzAtQmdtVXNkcXF2TG1sTzFveVk0MnktUXRta2J4ZVZKckpJQ1NZcVdTaWIwMUF4aUk4R2lhMjVDRU4xVzF5dHR4NUdsOGV6N2IwbF9fRVJqeVZHSVBYa1VOdi0zemsxVC1qdVpSRVJEcDNIWkVqNG9HRUZ5UlR0Z3NmUlpPYjVwYVhkcnVJOWtNaFlqR2V1VnFZ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 10:05:00 GMT",
+    "source": "Hawaii Tribune-Herald",
+    "ageHours": 6.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump pressures Congress to pass farm bill this year",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
