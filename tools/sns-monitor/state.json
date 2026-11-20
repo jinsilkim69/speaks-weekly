@@ -1,41 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T01:51:18.220Z",
+  "lastCheckedAt": "2026-11-20T02:41:20.021Z",
   "seenPostIds": {
-    "aad6a8f11fd4fdf760088cf95eff00dea42e00781f8306bbba3ad57f5c5cda76": {
-      "seenAt": "2026-11-17T08:31:29.143Z",
-      "title": "“한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성 - 중앙일보",
-      "targetName": "한동훈"
-    },
-    "82973a812e79c754c8fe3eb17dbd697a961e8fbc3b298da7e790236bba8cf570": {
-      "seenAt": "2026-11-17T08:41:23.225Z",
-      "title": "‘한동훈 조작징계’ 증거 오늘 공개…“장동혁 대화 내용 포함” - 주간경향",
-      "targetName": "한동훈"
-    },
-    "291055de6c462b26f482f111877655dfa9e179f74350e7b8bc7a9687c0fd908d": {
-      "seenAt": "2026-11-17T08:41:24.009Z",
-      "title": "장동혁, 당 지도부와 한동훈 장인상 조문…정점식 등 원내지도부도 오후 방문 예정 - 전자신문",
-      "targetName": "한동훈"
-    },
-    "5ce272f29c894e9475b5e44522907df1bf42978fb39666a67514cba7e270e64b": {
-      "seenAt": "2026-11-17T08:41:24.903Z",
-      "title": "저속 표현으로 김민석 비판… 조용우 부산시의원 당원권 1년 정지 - 부산일보",
-      "targetName": "김민석"
-    },
-    "b03fcb34ba92e17d51fa5897ca4673f08feff07e0aadbc4eea7574a86fe63606": {
-      "seenAt": "2026-11-17T08:51:20.129Z",
-      "title": "정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
-    "87f3735e899c3200d4d18dbebe60863e83be11458ab018841085757c9f5feb34": {
-      "seenAt": "2026-11-17T08:51:20.748Z",
-      "title": "[오마이포토2026] 의총 참석한 정청래-김민석 - OhmyNews",
-      "targetName": "김민석"
-    },
-    "c10851d7bb3518f51a54c103a962c7cd522754d9ab4541cc163a7a11f1566149": {
-      "seenAt": "2026-11-17T08:51:21.375Z",
-      "title": "정청래, 김민석과 타협 제안한 송영길에 “자격 미달 나서지 마시라” - 채널A",
-      "targetName": "김민석"
-    },
     "4a06019ccdef37805185a79f510d96980fe5a3d7c7c4c9f913166f478b2f5178": {
       "seenAt": "2026-11-17T09:01:23.063Z",
       "title": "송영길 \"김민석·정청래 만나 대타협해야\"…정청래 \"자격 미달자 나서지 말라\"(종합) - 뉴시스",
@@ -2535,7 +2500,199 @@
       "seenAt": "2026-11-20T02:11:17.624Z",
       "title": "Trump posthumously pardons former Phillie Pete Rose - Inquirer.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "1ad70359fa49e73e4a0296c3064911ca93562ad45ba4a3b9cee993c978b1a9dd": {
+      "seenAt": "2026-11-20T02:41:21.405Z",
+      "title": "[기획특집_세계를 움직이는 정상들의 아침을 여는 SNS 소통 메시지③] 李 “수출 1조 달러” 트럼프 “중대한 순방”… 베를린에선 우크라 평화협상에 유럽 참여 요구... 정상들이 뉴스보다 먼저 띄운 말 - STN SPORTS",
+      "targetName": "이재명"
+    },
+    "d42e4e50f2b1730866f73021399eae4b098b6dd47eb489a7eae011bbd58906e6": {
+      "seenAt": "2026-11-20T02:41:22.145Z",
+      "title": "[여론조사on] 이재명 대통령 지지율 40% '6주째 횡보'…민주 36%·국힘 28% 격차 다시 8%p - ISSUE ON (이슈온)",
+      "targetName": "이재명"
+    },
+    "2bd3fc185d73cd184984cd2e20c65fc2ff960151b9df9251b73f6e3a47bdd019": {
+      "seenAt": "2026-11-20T02:41:22.861Z",
+      "title": "한동훈, 조희대 탄핵 추진에 “국헌문란 목적의 내란”… 이준석은 李 재판 재개 촉구 - 세계일보",
+      "targetName": "한동훈"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "7c0597da2c850cc1f45b4322e15bb8d94f969506716eeaf3e1bc790461396eea",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 \"조희대 탄핵은 국헌문란 목적의 내란…가능성 0%\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9JU0I4SHdTZ2QwRHV2NUxRcGNhenFsSXZpSFpMbDNpM19FYm9peXlpNlhMdkFubEtUSFM5OEdPLXhJdncwaTBiLVJ3bVBwOFpJYTdEdnhScnRZWDI1X1dMY0pMaDNpZ0ZoYWt3WtIBckFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsdw?oc=5\" target=\"_blank\">한동훈 \"조희대 탄핵은 국헌문란 목적의 내란…가능성 0%\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JU0I4SHdTZ2QwRHV2NUxRcGNhenFsSXZpSFpMbDNpM19FYm9peXlpNlhMdkFubEtUSFM5OEdPLXhJdncwaTBiLVJ3bVBwOFpJYTdEdnhScnRZWDI1X1dMY0pMaDNpZ0ZoYWt3WtIBckFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsdw?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:01:26 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "3913976aac98f567b7591313c32f25f79a4e7767bfb2ad873c4c2f4adbd3c4b4",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 \"대법원장 탄핵은 내란…민주, 헌재서 기각될 줄 알아\" - 더팩트",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UNlNHbG5FNHJQVnZSVnowSWxrSndtNWJLWmZpOGtNazlnSUtWeHBCY1Jfa3RtdGxnMm1sT3h5dWtyZXVRY1luRzUyUnc1eXNJUHdJ0gFTQVVfeXFMT1Q2U0dsbkU0clBWdlJWejBJbGtKd201YktaZmk4a01rOWdJS1Z4cEJjUl9rdG10bGcybWxPeHl1a3JldVFjWW5HNTJSdzV5c0lQd0k?oc=5\" target=\"_blank\">한동훈 \"대법원장 탄핵은 내란…민주, 헌재서 기각될 줄 알아\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더팩트</font>",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UNlNHbG5FNHJQVnZSVnowSWxrSndtNWJLWmZpOGtNazlnSUtWeHBCY1Jfa3RtdGxnMm1sT3h5dWtyZXVRY1luRzUyUnc1eXNJUHdJ0gFTQVVfeXFMT1Q2U0dsbkU0clBWdlJWejBJbGtKd201YktaZmk4a01rOWdJS1Z4cEJjUl9rdG10bGcybWxPeHl1a3JldVFjWW5HNTJSdzV5c0lQd0k?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:31:00 GMT",
+        "source": "더팩트",
+        "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "8a80344f66d380a60e3e2e356784af4995956c7b0b3e7c5e2c3b52f5d7f8a036",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "[막전막후] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나 - 펜앤마이크",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1vVDZDSE5zc0huMXJuc1MwbHJneTBXbFJsazRpRmxSVDhnaWJkamhIMmVCdUZFUS1sYU1pVmkyT3NNX3lTQ1g4all5eXFWM0J5RmQ5Z0tkV1FsTkNnYnZadGlaYTJSVmN4TS1HeXBHd9IBb0FVX3lxTE1vVDZDSE5zc0huMXJuc1MwbHJneTBXbFJsazRpRmxSVDhnaWJkamhIMmVCdUZFUS1sYU1pVmkyT3NNX3lTQ1g4all5eXFWM0J5RmQ5Z0tkV1FsTkNnYnZadGlaYTJSVmN4TS1HeXBHdw?oc=5\" target=\"_blank\">[막전막후] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">펜앤마이크</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vVDZDSE5zc0huMXJuc1MwbHJneTBXbFJsazRpRmxSVDhnaWJkamhIMmVCdUZFUS1sYU1pVmkyT3NNX3lTQ1g4all5eXFWM0J5RmQ5Z0tkV1FsTkNnYnZadGlaYTJSVmN4TS1HeXBHd9IBb0FVX3lxTE1vVDZDSE5zc0huMXJuc1MwbHJneTBXbFJsazRpRmxSVDhnaWJkamhIMmVCdUZFUS1sYU1pVmkyT3NNX3lTQ1g4all5eXFWM0J5RmQ5Z0tkV1FsTkNnYnZadGlaYTJSVmN4TS1HeXBHdw?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:18:28 GMT",
+        "source": "펜앤마이크",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "955ac6304e992c554a44e47202d79e2470692150b6594561e7dccab74a0dfc99",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "한동훈, 조희대 탄핵 추진에 “국헌문란 목적의 내란”… 이준석은 李 재판 재개 촉구 - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nbTRLVUZEV0Y2V2NlalFZUzY3dDlpdjFhU3ZuRHE2WmhSLXV1M3gzb01wTmx4eFJRbkNQdE9udnpIb1hvR2dYSHFNNWF4bTRISjB4ZjB1ckHSAVRBVV95cUxQVmdoN1dacms5NmlsS2NDemtwVUZKa05pQ3hoNktrUDhlakU0cWNxRlVIbVQ0aWEzWW1zUHNWMFF4RV9ES3U2bWRSQjNITDk3U21xTFQ?oc=5\" target=\"_blank\">한동훈, 조희대 탄핵 추진에 “국헌문란 목적의 내란”… 이준석은 李 재판 재개 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nbTRLVUZEV0Y2V2NlalFZUzY3dDlpdjFhU3ZuRHE2WmhSLXV1M3gzb01wTmx4eFJRbkNQdE9udnpIb1hvR2dYSHFNNWF4bTRISjB4ZjB1ckHSAVRBVV95cUxQVmdoN1dacms5NmlsS2NDemtwVUZKa05pQ3hoNktrUDhlakU0cWNxRlVIbVQ0aWEzWW1zUHNWMFF4RV9ES3U2bWRSQjNITDk3U21xTFQ?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 02:10:32 GMT",
+        "source": "세계일보",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ed53d363ffe917b67ee5a6aa419d8a42c6b515925de3a0841e4963fe02b776ad",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "[오마이포토2026] 신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5KWVotbFY5MUQ3b3VSbFVpT3V4V2VDZ0o5UmFXVVBieUduZGUwd3dFR3VrLVc0OTBEcm1PNmd1RVJYcUlWWmlGNjdrZ1l5dzhlMktQV0VZcGdpdUZnTTJWbG9hRUotY2NweVo0SG1PaGpVU0N1dlpN?oc=5\" target=\"_blank\">[오마이포토2026] 신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KWVotbFY5MUQ3b3VSbFVpT3V4V2VDZ0o5UmFXVVBieUduZGUwd3dFR3VrLVc0OTBEcm1PNmd1RVJYcUlWWmlGNjdrZ1l5dzhlMktQV0VZcGdpdUZnTTJWbG9hRUotY2NweVo0SG1PaGpVU0N1dlpN?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 02:16:00 GMT",
+        "source": "OhmyNews",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "40e3be30596eb54e5f6a162eee8123764942d84637d5785155da8e70b7b22bcb",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 \"조희대 탄핵안 오늘 국회 제출·내일 표결하자\" - 뉴스1",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTHd2Z3lNeGROV2RNbC1UV0oxUmF3NVphVUxwNkcxcHh1cWhHWU5TR2gtRGdOLXYwVVg5SWE3bkRCTV91WUVGMVZtam9mUWZqLVpYOUhzM3FQdw?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵안 오늘 국회 제출·내일 표결하자\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTHd2Z3lNeGROV2RNbC1UV0oxUmF3NVphVUxwNkcxcHh1cWhHWU5TR2gtRGdOLXYwVVg5SWE3bkRCTV91WUVGMVZtam9mUWZqLVpYOUhzM3FQdw?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 00:39:55 GMT",
+        "source": "뉴스1",
+        "ageHours": 2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5784db3c0b4d8d241cbe9bd3306e852aee97dac700255d7b2a7973ec0388f252",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "조희대 탄핵 관련 기자회견하는 신장식 대표 - 서울뉴스통신",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE92bTlVT3FZS0RCVUpIMzFUSHdPN0hqbVV6TkZnOEFTM0FQNG5oNmQ5NTZ0ZkVURzVvTkZvYTFYeEFYemdKazN1c1NRUTdvR1N1OUxEbjlRblZPM282eWtnR3d2Y1J3UEYxYV9R?oc=5\" target=\"_blank\">조희대 탄핵 관련 기자회견하는 신장식 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울뉴스통신</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92bTlVT3FZS0RCVUpIMzFUSHdPN0hqbVV6TkZnOEFTM0FQNG5oNmQ5NTZ0ZkVURzVvTkZvYTFYeEFYemdKazN1c1NRUTdvR1N1OUxEbjlRblZPM282eWtnR3d2Y1J3UEYxYV9R?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 02:11:44 GMT",
+        "source": "서울뉴스통신",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ddaac79a5493b04678e6ea623400afe33c14cbc07bdabdfb4e6a05c2d1d88cfb",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Here's the point Trump misses with Pete Rose 'pardon' - Yahoo Sports",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUFPSDhBWURJbzBGOVpMM1NUbWNnQlo5QVZaaDc2OV9IU21JczdjdzlXekNzNHFCcUhTYVhZaTcwS2Q2UFc4WEhpa1J5TGNpWTN2MXJCTTB3Z0hVQzB4NnR0dV9xdzdkNHp0VVJleGl4OUZFSVFMR0JjWEdPT1Bqd3NVSU0?oc=5\" target=\"_blank\">Here's the point Trump misses with Pete Rose 'pardon'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUFPSDhBWURJbzBGOVpMM1NUbWNnQlo5QVZaaDc2OV9IU21JczdjdzlXekNzNHFCcUhTYVhZaTcwS2Q2UFc4WEhpa1J5TGNpWTN2MXJCTTB3Z0hVQzB4NnR0dV9xdzdkNHp0VVJleGl4OUZFSVFMR0JjWEdPT1Bqd3NVSU0?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:16:00 GMT",
+        "source": "Yahoo Sports",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "c1510a14c287e3f7bb8dd3d256a8f84750ab7239cd5242e1c31fa9682d825836",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Donald Trump Spirals on Truth Social on Way Home From Major Summit - The Daily Beast",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkxXVW5SSkw3RjBobFp4T0FQMUNmbFhVZ1J5dHR6NHFFVnpBam11dVNTNHZpY1liQTZlam9QZHBGVlZ6dWlmT28wc3NiUFF4UlQ1S0R3ZlpvSmo2YVVNdktadHhIT3FKc25pXzd6RnA1NndxT18tSGZSOWJ6ZDZieVdJRVlVQV95U1c3NFBCX3ZnZFhqMXhTQkdPdFE?oc=5\" target=\"_blank\">Donald Trump Spirals on Truth Social on Way Home From Major Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkxXVW5SSkw3RjBobFp4T0FQMUNmbFhVZ1J5dHR6NHFFVnpBam11dVNTNHZpY1liQTZlam9QZHBGVlZ6dWlmT28wc3NiUFF4UlQ1S0R3ZlpvSmo2YVVNdktadHhIT3FKc25pXzd6RnA1NndxT18tSGZSOWJ6ZDZieVdJRVlVQV95U1c3NFBCX3ZnZFhqMXhTQkdPdFE?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 02:06:00 GMT",
+        "source": "The Daily Beast",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f6378a6f67f2a245a0f37deaf3ac43bfb3f92fdfc3eff3d128b1f96b61615b64",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says he's pardoned deceased MLB slugger Pete Rose - CBS News",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlVXRlY0xObHBGQUs3TUZzbmJvY0tDUVhwUEJ2Um84Z0JlN1NvazJReHI0OFFMQlI4U1RQWGlvRndZRVlpMnJ5NDRWVnJSeWNpV2FzUGdqazRxRE9LZFBxTnllelFYX2tk?oc=5\" target=\"_blank\">Trump says he's pardoned deceased MLB slugger Pete Rose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlVXRlY0xObHBGQUs3TUZzbmJvY0tDUVhwUEJ2Um84Z0JlN1NvazJReHI0OFFMQlI4U1RQWGlvRndZRVlpMnJ5NDRWVnJSeWNpV2FzUGdqazRxRE9LZFBxTnllelFYX2tk?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 22:19:00 GMT",
+        "source": "CBS News",
+        "ageHours": 4.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "eb46d2fb55a19fcd25b80828e8c6128d54fdb95d8515a115fc79a4bb5c032aac",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Late MLB Star Pete Rose Posthumously Pardoned by President Trump 2 Years After His Death - Us Weekly",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNY2xPMk9NVFY2am5xcTlIUmZBUmFaWVlIMEMybDRpRzVldnBVSm8tc0ZpR01YZmQzZ3A3X2tmb3lsOXVUUGVUdlhkS0tuU3ZFVnZiWUY3LXZmNDlESVdpbTlxWWM1RlJlaTJsN2RJdE4tTGRFZVh6Z3NmdkhWd0xWaXNpdGNlRlVkem1NTHBjWE90blBrZ0VUV0Y2MWpxRXlYSWl6SDlKUE1FTWxLSy1UWHlVSndCdjlyTHZod0UwUXVLcEpZVDNV?oc=5\" target=\"_blank\">Late MLB Star Pete Rose Posthumously Pardoned by President Trump 2 Years After His Death</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Us Weekly</font>",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY2xPMk9NVFY2am5xcTlIUmZBUmFaWVlIMEMybDRpRzVldnBVSm8tc0ZpR01YZmQzZ3A3X2tmb3lsOXVUUGVUdlhkS0tuU3ZFVnZiWUY3LXZmNDlESVdpbTlxWWM1RlJlaTJsN2RJdE4tTGRFZVh6Z3NmdkhWd0xWaXNpdGNlRlVkem1NTHBjWE90blBrZ0VUV0Y2MWpxRXlYSWl6SDlKUE1FTWxLSy1UWHlVSndCdjlyTHZod0UwUXVLcEpZVDNV?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:38:36 GMT",
+        "source": "Us Weekly",
+        "ageHours": 1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
