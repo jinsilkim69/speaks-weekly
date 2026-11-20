@@ -10050,3 +10050,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [뉴스 즉설]10일에 1%p씩 까먹은 김민석, '진격의 깃발' 든 정청래 - 대전일보
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 10일에 1%p씩 까먹은 김민석, '진격의 깃발' 든 정청래
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE93d2VYbFNGb2pzYm15dGd5VWZKcXAxR0lLMGlmZDBBbUhwVmpHMlVZNGZZMlVYVkpWdzVObjFDX1JRc3ZER24zV3RIT0FtTmZhZENNRmN3Y0xNVmJ6YkFIcHJTNGUzWkVYd3lrYzAwZmt3NzDSAXNBVV95cUxPd3dlWGxTRm9qc2JteXRneVVmSnFwMUdJSzBpZmQwQW1IcFZqRzJVWTRmWTJVWFZKVnc1Tm4xQ19SUXN2REduM1d0SE9BbU5mYWRDTUZjd2NMTVZiemJBSHByUzRlM1pFWHd5a2MwMGZrdzcw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** President Trump to hold news conference after returning from China - WKYC
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] President Trump to hold news conference after returning from China
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTDhXU3RlS0twTGQzS0l0TDd5dW5heTJ1cDdRZVNyNnU3UEluRmxHT0xnR3ZHWF9wNVZpN2U0STF1a3Y4ZWlsS0laRVhBY3BEMVktSlRaa1Y1SF9sVU5SX293NW8tQXZTX3NlUzE0dy1nNEZUZTY2cmV3d0Y2dS1uYllSeEhUeWVWc0plMkN2OWpnRUhrbm1EMUtjMVdXN0ozbzhCRUhKUl9YMENlU2EtM3FfZDktSWFuZWpkVjFsVzQxOWhJNjZOaTdKVjR0ZHpYQmJmdHdBZjhhMDd3NU14UDRKZEFFa1o5YzhRX2NXM3lLUmR6VjB2MzVvQW1rbVU?oc=5)
+
+---
+

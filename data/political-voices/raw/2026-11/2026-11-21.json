@@ -251,5 +251,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4c4fd7b86f067e1f528207b4fb18faca62700f34d612ba92a275c9f4def69004",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "[뉴스 즉설]10일에 1%p씩 까먹은 김민석, '진격의 깃발' 든 정청래 - 대전일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE93d2VYbFNGb2pzYm15dGd5VWZKcXAxR0lLMGlmZDBBbUhwVmpHMlVZNGZZMlVYVkpWdzVObjFDX1JRc3ZER24zV3RIT0FtTmZhZENNRmN3Y0xNVmJ6YkFIcHJTNGUzWkVYd3lrYzAwZmt3NzDSAXNBVV95cUxPd3dlWGxTRm9qc2JteXRneVVmSnFwMUdJSzBpZmQwQW1IcFZqRzJVWTRmWTJVWFZKVnc1Tm4xQ19SUXN2REduM1d0SE9BbU5mYWRDTUZjd2NMTVZiemJBSHByUzRlM1pFWHd5a2MwMGZrdzcw?oc=5\" target=\"_blank\">[뉴스 즉설]10일에 1%p씩 까먹은 김민석, '진격의 깃발' 든 정청래</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93d2VYbFNGb2pzYm15dGd5VWZKcXAxR0lLMGlmZDBBbUhwVmpHMlVZNGZZMlVYVkpWdzVObjFDX1JRc3ZER24zV3RIT0FtTmZhZENNRmN3Y0xNVmJ6YkFIcHJTNGUzWkVYd3lrYzAwZmt3NzDSAXNBVV95cUxPd3dlWGxTRm9qc2JteXRneVVmSnFwMUdJSzBpZmQwQW1IcFZqRzJVWTRmWTJVWFZKVnc1Tm4xQ19SUXN2REduM1d0SE9BbU5mYWRDTUZjd2NMTVZiemJBSHByUzRlM1pFWHd5a2MwMGZrdzcw?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 21:53:51 GMT",
+    "source": "대전일보",
+    "ageHours": 18.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 10일에 1%p씩 까먹은 김민석, '진격의 깃발' 든 정청래",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "d04a631a9a0297f9e0909b818bf65ae66faea46963a4a7179fbfe44f6b707b13",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "President Trump to hold news conference after returning from China - WKYC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTDhXU3RlS0twTGQzS0l0TDd5dW5heTJ1cDdRZVNyNnU3UEluRmxHT0xnR3ZHWF9wNVZpN2U0STF1a3Y4ZWlsS0laRVhBY3BEMVktSlRaa1Y1SF9sVU5SX293NW8tQXZTX3NlUzE0dy1nNEZUZTY2cmV3d0Y2dS1uYllSeEhUeWVWc0plMkN2OWpnRUhrbm1EMUtjMVdXN0ozbzhCRUhKUl9YMENlU2EtM3FfZDktSWFuZWpkVjFsVzQxOWhJNjZOaTdKVjR0ZHpYQmJmdHdBZjhhMDd3NU14UDRKZEFFa1o5YzhRX2NXM3lLUmR6VjB2MzVvQW1rbVU?oc=5\" target=\"_blank\">President Trump to hold news conference after returning from China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKYC</font>",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTDhXU3RlS0twTGQzS0l0TDd5dW5heTJ1cDdRZVNyNnU3UEluRmxHT0xnR3ZHWF9wNVZpN2U0STF1a3Y4ZWlsS0laRVhBY3BEMVktSlRaa1Y1SF9sVU5SX293NW8tQXZTX3NlUzE0dy1nNEZUZTY2cmV3d0Y2dS1uYllSeEhUeWVWc0plMkN2OWpnRUhrbm1EMUtjMVdXN0ozbzhCRUhKUl9YMENlU2EtM3FfZDktSWFuZWpkVjFsVzQxOWhJNjZOaTdKVjR0ZHpYQmJmdHdBZjhhMDd3NU14UDRKZEFFa1o5YzhRX2NXM3lLUmR6VjB2MzVvQW1rbVU?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 15:07:00 GMT",
+    "source": "WKYC",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] President Trump to hold news conference after returning from China",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
