@@ -1135,5 +1135,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "17a1f6df795ae0e0dfdde67a82dd6fcef379caeb2ae68a1754a83d3768e3d1f6",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump pressures Congress to pass farm bill this year - Reuters",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnJlNUdSV2wtMnpOOTVFWlVLMThyVDV1M0lSLXJaZTlKQnJZQTJPbTNZc2REeW9kUENIeWJ1Vjh0VU9CY0o4Mmk3Z181YXdDbjlNZGZiRkk2M2FaZ0dDNmlZQUNfQjZ6R1hxaENNcEZENkZmWTZ4N2kzUFJXbjh1NWdYSXhKbzBEZUY4UA?oc=5\" target=\"_blank\">Trump pressures Congress to pass farm bill this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnJlNUdSV2wtMnpOOTVFWlVLMThyVDV1M0lSLXJaZTlKQnJZQTJPbTNZc2REeW9kUENIeWJ1Vjh0VU9CY0o4Mmk3Z181YXdDbjlNZGZiRkk2M2FaZ0dDNmlZQUNfQjZ6R1hxaENNcEZENkZmWTZ4N2kzUFJXbjh1NWdYSXhKbzBEZUY4UA?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 16:22:30 GMT",
+    "source": "Reuters",
+    "ageHours": 8.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump pressures Congress to pass farm bill this year",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

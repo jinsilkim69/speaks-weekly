@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T00:31:18.334Z",
+  "lastCheckedAt": "2026-11-20T00:35:27.164Z",
   "seenPostIds": {
-    "5048d8c237fe88e1e957b032ac38ea6342f3be59e2a89855106c57a8dbe1270b": {
-      "seenAt": "2026-11-17T04:41:20.055Z",
-      "title": "‘열화상카메라’ 마지막 희망?…“AI커닝 잡을 가능성 매우 낮아” 천하람 알아보니 - 헤럴드경제",
-      "targetName": "천하람"
-    },
     "233c3faada74c53289657dcd91f115af7191bc4fe6dcf3be641b056b3d25cc90": {
       "seenAt": "2026-11-17T04:51:18.314Z",
       "title": "조국 \"또 뒤통수 맞을 것…한덕수 대법 판결 주목해야\" - 뉴스1",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-20T00:31:19.385Z",
       "title": "조국, 조국혁신당 ‘비전랩’ 위원장 맡는다 - 중앙일보",
       "targetName": "조국"
+    },
+    "17a1f6df795ae0e0dfdde67a82dd6fcef379caeb2ae68a1754a83d3768e3d1f6": {
+      "seenAt": "2026-11-20T00:35:28.582Z",
+      "title": "Trump pressures Congress to pass farm bill this year - Reuters",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
