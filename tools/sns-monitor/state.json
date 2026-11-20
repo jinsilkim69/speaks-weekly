@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T09:51:22.822Z",
+  "lastCheckedAt": "2026-11-20T10:01:15.477Z",
   "seenPostIds": {
-    "2229a31b079517866a1f05d4af23f998be2005ad468c720338d26fcaf78fbd13": {
-      "seenAt": "2026-11-17T13:21:20.713Z",
-      "title": "천하람 “열화상으로 커닝 못 잡아…포항 지진 때도 수능 연기했다” - 문화일보",
-      "targetName": "천하람"
-    },
-    "e822fb19d9ead11b80e42834be862945c127d94278b7efdd6fd12688a3c5549d": {
-      "seenAt": "2026-11-17T13:31:21.137Z",
-      "title": "조국 \"조희대, 한덕수·김건희 구속 유지와 '탄핵 포기' 맞교환 전술\" - 머니투데이 - 머니투데이",
-      "targetName": "조국"
-    },
-    "74e1c184b1eecd38f76a722b047367d1fc152a1a37ccc7bbd7f3a8ee44fad221": {
-      "seenAt": "2026-11-17T13:31:21.822Z",
-      "title": "Trump Unravels on Economy in Unhinged Truth Social Tirade - The Daily Beast",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "4e030d3df233264dd30c50d5fc38c641cd848b9a857e70582b2ab0ad2698c23b": {
       "seenAt": "2026-11-17T13:41:22.105Z",
       "title": "조국, 日 입국 거부돼…혁신당 “독도 방문 이유면 영토 주권 도전”(종합) - 서울신문",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-20T09:51:25.763Z",
       "title": "동응악구: 디지털 공동체 구축에 있어 조국전선의 역할 증진. - Vietnam.vn",
       "targetName": "조국"
+    },
+    "ecc4d6c44d59b8d47219bc1932d530b0fb30c57a1dbeba0d1ddd1ef6694a80df": {
+      "seenAt": "2026-11-20T10:01:16.678Z",
+      "title": "이재명 대통령, 전자정부 세계 1위에…수출 1조 달러 이어 12년 만의 쾌거 - CBC뉴스",
+      "targetName": "이재명"
     }
   },
   "pending": []
