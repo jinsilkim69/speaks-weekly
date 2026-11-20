@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T20:21:19.922Z",
+  "lastCheckedAt": "2026-11-20T20:51:18.978Z",
   "seenPostIds": {
-    "305a63b1130b32b515fc7165681b4d7a737f0b22d9c1a7917d719456aec7e84f": {
-      "seenAt": "2026-11-18T00:21:21.317Z",
-      "title": "정청래에 “자격 미달 나서지 마라” 소리 들은 송영길 “마음 달래야지 어떡해” [현장영상] - 채널A",
-      "targetName": "정청래"
-    },
     "87e10bd851fadc6e370d7970bdc6289e2d2274b4691b0894f2fb5053b23fbc46": {
       "seenAt": "2026-11-18T00:31:19.338Z",
       "title": "[속보] 조국 \"'전과'로 日입국 거부? 삼성 이재용, 이명박·박근혜도 거부당할까?\" 글 공유 - 프레시안",
@@ -2507,5 +2502,54 @@
       "targetName": "조국"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "255ac9b5886603ec67b2bbd1f784f42a40dec99a041dd81ca2f2815f8b91b66b",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 “5천500억 공익환수가 배임이면 일반 개발허가는 무엇인가” : 정치 - 재경일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIZi1fc3BSaUhJZTBwR2hXYnJnd3FLS3VBV081aEtxeG5RU2VFMDZ5ZTlpbl93ZXhxbWd4UnZxMW5HeVlmazNlTmxGcw?oc=5\" target=\"_blank\">이재명 “5천500억 공익환수가 배임이면 일반 개발허가는 무엇인가” : 정치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIZi1fc3BSaUhJZTBwR2hXYnJnd3FLS3VBV081aEtxeG5RU2VFMDZ5ZTlpbl93ZXhxbWd4UnZxMW5HeVlmazNlTmxGcw?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 14:42:21 GMT",
+        "source": "재경일보",
+        "ageHours": 6.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "896d9fca23f11ea0c32617802ec4360b66b36a7023c1d8ad15667e5fefabf685",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당 이어 민주당도 조희대 탄핵 동참…야권 \"광기·내란\" 비난(종합) - 뉴스토마토",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wMi0yUHkyTlNQZGpvY3FOdF93V1BWU1BwVFBXT3FfS1poUlVkVmhld1hVdlpleC1FZ1dHazJJY2h2d0ZPZzRndVhrd2t4OU9KLUZoNlU0S0NoaHVQQl8zcg?oc=5\" target=\"_blank\">조국혁신당 이어 민주당도 조희대 탄핵 동참…야권 \"광기·내란\" 비난(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wMi0yUHkyTlNQZGpvY3FOdF93V1BWU1BwVFBXT3FfS1poUlVkVmhld1hVdlpleC1FZ1dHazJJY2h2d0ZPZzRndVhrd2t4OU9KLUZoNlU0S0NoaHVQQl8zcg?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 06:20:33 GMT",
+        "source": "뉴스토마토",
+        "ageHours": 14.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "99829baa0a1f8bcea8a4cc9249e5092ab7a1229733555916c70aa8fac2f4590f",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "\"말보다 노래로\"…신장식, 민주유공자법 통과 소회 담아 '사람 사는 세상' 열창 #shorts - 오마이TV - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE02U3FudE5NUDlsWVY1QU1CZ2VqTzVPS1Q4Ni16ZDUwZ2ZRRm1VV3k3UXRzMzZXZlFqUUt4dFg1ajhXNC1MLWtCZFJYd0o3RlNlcjV0Q0VPRnhiWTJOWUxYVk14Rk1aM0F6T2RPY0JybGd3SnFUZzRtT2VJREozNmM?oc=5\" target=\"_blank\">\"말보다 노래로\"…신장식, 민주유공자법 통과 소회 담아 '사람 사는 세상' 열창 #shorts - 오마이TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02U3FudE5NUDlsWVY1QU1CZ2VqTzVPS1Q4Ni16ZDUwZ2ZRRm1VV3k3UXRzMzZXZlFqUUt4dFg1ajhXNC1MLWtCZFJYd0o3RlNlcjV0Q0VPRnhiWTJOWUxYVk14Rk1aM0F6T2RPY0JybGd3SnFUZzRtT2VJREozNmM?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 12:05:18 GMT",
+        "source": "OhmyNews",
+        "ageHours": 8.8
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
