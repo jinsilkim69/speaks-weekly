@@ -9322,3 +9322,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 수출 1조달러에 "日도 도달 못한 숫자…국민 모두의 성과" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 수출 1조달러에 "日도 도달 못한 숫자…국민 모두의 성과"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFA5QnlMZXhzTzZ1b0xoZFVPa1pVdjFSdlFyQmdvZTF6SUFVR1dhbVpXZWxSczdMZk0zSzJlUWhpX2hRRF9wM3ZYZng4NDNOUTA0bGF1TWFoQkRjYXRSWE5RcThwQ1JaUVh5U1JNVtIBckFVX3lxTE8taEM0dDJxY1VwalV1bU9IRVJvb1JkbGxfZDlISVhJSnB1SzZlcGtDYkROckhleThDUG8zTEQ4Q0thZkt1QmhYekxkY0s2NzlOZVc2NDk2QWkxUFpCWXgyMndGX0tDRHg0RmhzSENWMFNjUQ?oc=5)
+
+---
+
