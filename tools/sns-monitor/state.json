@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T00:21:16.290Z",
+  "lastCheckedAt": "2026-11-20T00:31:18.334Z",
   "seenPostIds": {
-    "a2fcb859855961bf7572dda045e1919cb958f92db056d1b1d49f3881e61d75ee": {
-      "seenAt": "2026-11-17T04:31:22.350Z",
-      "title": "AI 커닝 대책? 이준석은 '전파탐지 앱', 장동혁은 '수능 연기' - OhmyNews",
-      "targetName": "이준석"
-    },
-    "ee76255fb7f787d1bf1b0522865e860d7efbaef3485624826cc91f684bbf9044": {
-      "seenAt": "2026-11-17T04:41:18.610Z",
-      "title": "이준석, 직접 만든 ‘AI 커닝 탐지 앱’ 공개…“정부가 적극 검증해야” - 서울신문",
-      "targetName": "이준석"
-    },
-    "5a9fc98e917a4c1e6e4f99f01164c0431076a0b9664346ef5cb326e82b3a00dc": {
-      "seenAt": "2026-11-17T04:41:19.279Z",
-      "title": "이준석, 기내서 '수능 부정행위' 탐지 앱 개발…교육부에 검증 제안 - 데일리안",
-      "targetName": "이준석"
-    },
     "5048d8c237fe88e1e957b032ac38ea6342f3be59e2a89855106c57a8dbe1270b": {
       "seenAt": "2026-11-17T04:41:20.055Z",
       "title": "‘열화상카메라’ 마지막 희망?…“AI커닝 잡을 가능성 매우 낮아” 천하람 알아보니 - 헤럴드경제",
@@ -2515,6 +2500,11 @@
       "seenAt": "2026-11-20T00:21:18.566Z",
       "title": "Trump Pardons Late Baseball Legend Pete Rose, Calls Him Superstar - Forth.News",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "810d8541af469b1b0a9397ae7b1ef0277f4d616636942d16ec37cc4086a3c0cd": {
+      "seenAt": "2026-11-20T00:31:19.385Z",
+      "title": "조국, 조국혁신당 ‘비전랩’ 위원장 맡는다 - 중앙일보",
+      "targetName": "조국"
     }
   },
   "pending": []

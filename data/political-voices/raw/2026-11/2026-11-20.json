@@ -1110,5 +1110,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "810d8541af469b1b0a9397ae7b1ef0277f4d616636942d16ec37cc4086a3c0cd",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국, 조국혁신당 ‘비전랩’ 위원장 맡는다 - 중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lMEpSaTEyekxjWUZ2UXFHM2k2TGdOV2FWeDZtbk5WWmIxWGt0RnE5M1M5Yk9iaWFESXRsaDVYX01aTFdFYWxqRndUSGxVUkpXa0RRTlhn?oc=5\" target=\"_blank\">조국, 조국혁신당 ‘비전랩’ 위원장 맡는다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lMEpSaTEyekxjWUZ2UXFHM2k2TGdOV2FWeDZtbk5WWmIxWGt0RnE5M1M5Yk9iaWFESXRsaDVYX01aTFdFYWxqRndUSGxVUkpXa0RRTlhn?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 00:10:19 GMT",
+    "source": "중앙일보",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국, 조국혁신당 ‘비전랩’ 위원장 맡는다",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
