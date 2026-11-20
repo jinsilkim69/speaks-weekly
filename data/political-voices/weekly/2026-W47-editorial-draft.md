@@ -9296,3 +9296,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** "김민석 X소리" 민주당 부산시의원, 당원권 정지 1년 ‘중징계’ - JTBC
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "김민석 X소리" 민주당 부산시의원, 당원권 정지 1년 ‘중징계’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAteDR6aE1oY0Y1SWJZRjV6cE9GM0ZzU1hBeFVVWXNTU2tJMUdiU1NIcHhVd3NBWXVucV9lcmxGYWdGc1NiazVRMkc3MURyYXpnbWc?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 충청, "김민석 신천지 의혹 책임지고 당대표 사퇴" 53.2% [미디어토마토] - 이세종경제
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 충청, "김민석 신천지 의혹 책임지고 당대표 사퇴" 53.2%
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5EQndyWXN6RlN1cVc1cmpEbWxlTkJlaUxkaGlvd1hyaXktVU9jSndRNmJXZmRBc2lIeTV1M0dmaVAwX2lSNS1mbTduLWRHMUF3bU5ZVTJSOUx3U3NmeWdKaGpjLUZ5U1kzdnlkWg?oc=5)
+
+---
+

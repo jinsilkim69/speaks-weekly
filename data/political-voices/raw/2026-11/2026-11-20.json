@@ -3077,5 +3077,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "9e050b546a035c83aa0c1f1b35364df84ffe6495f709ae90a8d23da197b37307",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "\"김민석 X소리\" 민주당 부산시의원, 당원권 정지 1년 ‘중징계’ - JTBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFAteDR6aE1oY0Y1SWJZRjV6cE9GM0ZzU1hBeFVVWXNTU2tJMUdiU1NIcHhVd3NBWXVucV9lcmxGYWdGc1NiazVRMkc3MURyYXpnbWc?oc=5\" target=\"_blank\">\"김민석 X소리\" 민주당 부산시의원, 당원권 정지 1년 ‘중징계’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAteDR6aE1oY0Y1SWJZRjV6cE9GM0ZzU1hBeFVVWXNTU2tJMUdiU1NIcHhVd3NBWXVucV9lcmxGYWdGc1NiazVRMkc3MURyYXpnbWc?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 02:48:31 GMT",
+    "source": "JTBC",
+    "ageHours": 3.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"김민석 X소리\" 민주당 부산시의원, 당원권 정지 1년 ‘중징계’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "e288eba71cfcb3f8269113a3edd6c0085729be30f03a2a1dc2ed69330aa6cb0c",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "충청, \"김민석 신천지 의혹 책임지고 당대표 사퇴\" 53.2% [미디어토마토] - 이세종경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5EQndyWXN6RlN1cVc1cmpEbWxlTkJlaUxkaGlvd1hyaXktVU9jSndRNmJXZmRBc2lIeTV1M0dmaVAwX2lSNS1mbTduLWRHMUF3bU5ZVTJSOUx3U3NmeWdKaGpjLUZ5U1kzdnlkWg?oc=5\" target=\"_blank\">충청, \"김민석 신천지 의혹 책임지고 당대표 사퇴\" 53.2% [미디어토마토]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이세종경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EQndyWXN6RlN1cVc1cmpEbWxlTkJlaUxkaGlvd1hyaXktVU9jSndRNmJXZmRBc2lIeTV1M0dmaVAwX2lSNS1mbTduLWRHMUF3bU5ZVTJSOUx3U3NmeWdKaGpjLUZ5U1kzdnlkWg?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 00:07:20 GMT",
+    "source": "이세종경제",
+    "ageHours": 6.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 충청, \"김민석 신천지 의혹 책임지고 당대표 사퇴\" 53.2%",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
