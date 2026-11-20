@@ -2515,57 +2515,24 @@
       "seenAt": "2026-11-20T03:21:21.498Z",
       "title": "한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이 - 머니투데이",
       "targetName": "한동훈"
+    },
+    "d0d6f24d638aed3246eb250946ade832b94934856eadf9a9a438039d0cc9cc47": {
+      "seenAt": "2026-11-20T03:31:15.515Z",
+      "title": "한동훈 “대법원장 탄핵은 사법부 전복 노린 내란…김민석, 의원직 걸겠나” - 매일경제",
+      "targetName": "한동훈"
+    },
+    "41a944a8bb85f8db6dd98c29c5216d9b88103752a73626131314db6a280712d8": {
+      "seenAt": "2026-11-20T03:31:16.220Z",
+      "title": "[단독] '독도 지킴이' 서경덕 \"日 입국 거부당한 적 없다\" … 조국은 애꿎은 독도 탓 - 뉴데일리",
+      "targetName": "조국"
+    },
+    "6f37558255da49c289b8f36aca22d03c380c19757c75f8877b53dd5485591306": {
+      "seenAt": "2026-11-20T03:31:16.917Z",
+      "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
+      "targetName": "신장식"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "d0d6f24d638aed3246eb250946ade832b94934856eadf9a9a438039d0cc9cc47",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 “대법원장 탄핵은 사법부 전복 노린 내란…김민석, 의원직 걸겠나” - 매일경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE91V1JnMUdaLUp3dUgzb0p4bncyS21GdVZ5dFdqeXJJNG1VWjV0alplN3B2QzgxMVNDelJUdFBFWjlPejFKbEE?oc=5\" target=\"_blank\">한동훈 “대법원장 탄핵은 사법부 전복 노린 내란…김민석, 의원직 걸겠나”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91V1JnMUdaLUp3dUgzb0p4bncyS21GdVZ5dFdqeXJJNG1VWjV0alplN3B2QzgxMVNDelJUdFBFWjlPejFKbEE?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:55:25 GMT",
-        "source": "매일경제",
-        "ageHours": 1.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "41a944a8bb85f8db6dd98c29c5216d9b88103752a73626131314db6a280712d8",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "[단독] '독도 지킴이' 서경덕 \"日 입국 거부당한 적 없다\" … 조국은 애꿎은 독도 탓 - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNajl4ZE5acHVjS2xtRExkZTRKdV94RDlHUktvQi1vOHdwS25CVkEtUnJSUHgzSlZsdEplSWhKcHpuV29TRE5sUGZDSGhEaWNJVW5FcWVLUjdYMVAweExhS0FobU9IZzlhcVRYOURPOXB3c3pxYlpPdmFxUFZxWVlDUtIBgAFBVV95cUxNajl4ZE5acHVjS2xtRExkZTRKdV94RDlHUktvQi1vOHdwS25CVkEtUnJSUHgzSlZsdEplSWhKcHpuV29TRE5sUGZDSGhEaWNJVW5FcWVLUjdYMVAweExhS0FobU9IZzlhcVRYOURPOXB3c3pxYlpPdmFxUFZxWVlDUg?oc=5\" target=\"_blank\">[단독] '독도 지킴이' 서경덕 \"日 입국 거부당한 적 없다\" … 조국은 애꿎은 독도 탓</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNajl4ZE5acHVjS2xtRExkZTRKdV94RDlHUktvQi1vOHdwS25CVkEtUnJSUHgzSlZsdEplSWhKcHpuV29TRE5sUGZDSGhEaWNJVW5FcWVLUjdYMVAweExhS0FobU9IZzlhcVRYOURPOXB3c3pxYlpPdmFxUFZxWVlDUtIBgAFBVV95cUxNajl4ZE5acHVjS2xtRExkZTRKdV94RDlHUktvQi1vOHdwS25CVkEtUnJSUHgzSlZsdEplSWhKcHpuV29TRE5sUGZDSGhEaWNJVW5FcWVLUjdYMVAweExhS0FobU9IZzlhcVRYOURPOXB3c3pxYlpPdmFxUFZxWVlDUg?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:48:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 2.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "6f37558255da49c289b8f36aca22d03c380c19757c75f8877b53dd5485591306",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vOHA2WWxleG51NVU5eWcwTGlEOWs3ME9kYXVxZHV2XzFENzJHakFBOTBzcWRHV01uZVVzLWx1bldOcENIdU90WF9vcmVYVkdFejBsdFZ5UUpwQ3o4clFQctIBYEFVX3lxTE9vOHA2WWxleG51NVU5eWcwTGlEOWs3ME9kYXVxZHV2XzFENzJHakFBOTBzcWRHV01uZVVzLWx1bldOcENIdU90WF9vcmVYVkdFejBsdFZ5UUpwQ3o4clFQcg?oc=5\" target=\"_blank\">신장식 대표, 조희대 대법원장 탄핵 추진 기자회견</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vOHA2WWxleG51NVU5eWcwTGlEOWs3ME9kYXVxZHV2XzFENzJHakFBOTBzcWRHV01uZVVzLWx1bldOcENIdU90WF9vcmVYVkdFejBsdFZ5UUpwQ3o4clFQctIBYEFVX3lxTE9vOHA2WWxleG51NVU5eWcwTGlEOWs3ME9kYXVxZHV2XzFENzJHakFBOTBzcWRHV01uZVVzLWx1bldOcENIdU90WF9vcmVYVkdFejBsdFZ5UUpwQ3o4clFQcg?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:24:41 GMT",
-        "source": "연합뉴스",
-        "ageHours": 2.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "f79e3cadfcf33a766d58121948f89c86b0a89a27e0b88949a56bde93593ab67b",

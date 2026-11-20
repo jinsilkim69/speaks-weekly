@@ -8750,3 +8750,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “대법원장 탄핵은 사법부 전복 노린 내란…김민석, 의원직 걸겠나” - 매일경제
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “대법원장 탄핵은 사법부 전복 노린 내란…김민석, 의원직 걸겠나”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiRkFVX3lxTE91V1JnMUdaLUp3dUgzb0p4bncyS21GdVZ5dFdqeXJJNG1VWjV0alplN3B2QzgxMVNDelJUdFBFWjlPejFKbEE?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [단독] '독도 지킴이' 서경덕 "日 입국 거부당한 적 없다" … 조국은 애꿎은 독도 탓 - 뉴데일리
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '독도 지킴이' 서경덕 "日 입국 거부당한 적 없다" … 조국은 애꿎은 독도 탓
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxNajl4ZE5acHVjS2xtRExkZTRKdV94RDlHUktvQi1vOHdwS25CVkEtUnJSUHgzSlZsdEplSWhKcHpuV29TRE5sUGZDSGhEaWNJVW5FcWVLUjdYMVAweExhS0FobU9IZzlhcVRYOURPOXB3c3pxYlpPdmFxUFZxWVlDUtIBgAFBVV95cUxNajl4ZE5acHVjS2xtRExkZTRKdV94RDlHUktvQi1vOHdwS25CVkEtUnJSUHgzSlZsdEplSWhKcHpuV29TRE5sUGZDSGhEaWNJVW5FcWVLUjdYMVAweExhS0FobU9IZzlhcVRYOURPOXB3c3pxYlpPdmFxUFZxWVlDUg?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 대표, 조희대 대법원장 탄핵 추진 기자회견
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vOHA2WWxleG51NVU5eWcwTGlEOWs3ME9kYXVxZHV2XzFENzJHakFBOTBzcWRHV01uZVVzLWx1bldOcENIdU90WF9vcmVYVkdFejBsdFZ5UUpwQ3o4clFQctIBYEFVX3lxTE9vOHA2WWxleG51NVU5eWcwTGlEOWs3ME9kYXVxZHV2XzFENzJHakFBOTBzcWRHV01uZVVzLWx1bldOcENIdU90WF9vcmVYVkdFejBsdFZ5UUpwQ3o4clFQcg?oc=5)
+
+---
+
