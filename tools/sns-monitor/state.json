@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-20T20:01:21.001Z",
+  "lastCheckedAt": "2026-11-20T20:11:16.222Z",
   "seenPostIds": {
     "ead23fa72080254df56b298b11f6e88f3e973a3bfba714d84ac9d87acd25569d": {
       "seenAt": "2026-11-18T00:21:20.615Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-20T19:31:21.851Z",
       "title": "한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나? - 에너지경제신문",
       "targetName": "한동훈"
+    },
+    "beb544a9e7d615acee961cc37bea8a35e0a7425ca3b89378dfd1d992c7f1a8ab": {
+      "seenAt": "2026-11-20T20:11:17.268Z",
+      "title": "한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나? - 에너지경제신문",
+      "targetName": "김민석"
     }
   },
   "pending": []
