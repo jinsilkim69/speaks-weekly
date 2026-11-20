@@ -527,5 +527,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "49386ff53d1494956058729df1349e8d622361596238e073e6ce05068982c141",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "송영길 \"신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도\" [굿모닝 인천 - 경인방송 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BbXJnajVJV0lsUFNOcmxnN3M2eGU2ODhpNUtUME1HeG15OTFvbFhoSUFTVDU5MXpVcVpfRzBueV82VFlsbW1idHFIM3ZucENZRlhKMnJUaFFGek51aDZkVlM3d2JtcVk3?oc=5\" target=\"_blank\">송영길 \"신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도\" [굿모닝 인천</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경인방송 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BbXJnajVJV0lsUFNOcmxnN3M2eGU2ODhpNUtUME1HeG15OTFvbFhoSUFTVDU5MXpVcVpfRzBueV82VFlsbW1idHFIM3ZucENZRlhKMnJUaFFGek51aDZkVlM3d2JtcVk3?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 19:15:41 GMT",
+    "source": "경인방송 뉴스",
+    "ageHours": 23.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길 \"신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도\" [굿모닝 인천",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "74b52dcc79f5fa42521b714cb9f76d98dd1462eb3c386fb738d49b5bd9504c0f",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당 \"조희대 탄핵 속전속결로 이뤄야\" - 굿모닝충청",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9GbE9LQTBUNXpIVW1wWjdyamhFYjZZZnZ4RnJLRmgzYXpNMXpzNG9DY3FEbjg2SmlUX2luTFhGUGh1WTZNa1ZmYzZkblFVMndxRU4zT0xOcUZMcGE1MUxLdVAyZ0g5OVVoR3UyTGdBYUtPUQ?oc=5\" target=\"_blank\">조국혁신당 \"조희대 탄핵 속전속결로 이뤄야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">굿모닝충청</font>",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GbE9LQTBUNXpIVW1wWjdyamhFYjZZZnZ4RnJLRmgzYXpNMXpzNG9DY3FEbjg2SmlUX2luTFhGUGh1WTZNa1ZmYzZkblFVMndxRU4zT0xOcUZMcGE1MUxLdVAyZ0g5OVVoR3UyTGdBYUtPUQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 18:21:13 GMT",
+    "source": "굿모닝충청",
+    "ageHours": 0.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당 \"조희대 탄핵 속전속결로 이뤄야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "c7a1d614bc34c4fa52f08d7471a0dfc978c00aa2a9fefd33734f4a8fa9e49463",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "WATCH LIVE: President Trump holds news conference after returning from China - KGW",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSUt3UjVJN25NeG9mS1NmOHhaVHhRM0c4cVFTNkR1WkhKRDNzc0xxSXdhaTFybVNJVXFROXF4ZTZqMHlYTjV2TTZoTlUzTEhrYlp2Z1JlYVhTSThIa3pLZ2dzWFdVMGd5a1lSdnl1cmx1a1dSczZhTU5QeHg3Nl8zTTR4cjh2OURIYjQxQ2FGVjhlM1VBcXc5b0lubmxaMEFZZ0xEQ2RnbHctTjlZeGdyQTc5RnQtWHRydEYzQlZ0bWU0U3JJQ2ZYcWFSMEptUWFjWUVKS09MdEdMLWhncFEtczItWVVCU0xMRHA1cFY2cTVfQm9SQ3dYTUpydm1RQQ?oc=5\" target=\"_blank\">WATCH LIVE: President Trump holds news conference after returning from China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KGW</font>",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSUt3UjVJN25NeG9mS1NmOHhaVHhRM0c4cVFTNkR1WkhKRDNzc0xxSXdhaTFybVNJVXFROXF4ZTZqMHlYTjV2TTZoTlUzTEhrYlp2Z1JlYVhTSThIa3pLZ2dzWFdVMGd5a1lSdnl1cmx1a1dSczZhTU5QeHg3Nl8zTTR4cjh2OURIYjQxQ2FGVjhlM1VBcXc5b0lubmxaMEFZZ0xEQ2RnbHctTjlZeGdyQTc5RnQtWHRydEYzQlZ0bWU0U3JJQ2ZYcWFSMEptUWFjWUVKS09MdEdMLWhncFEtczItWVVCU0xMRHA1cFY2cTVfQm9SQ3dYTUpydm1RQQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 15:07:00 GMT",
+    "source": "KGW",
+    "ageHours": 4.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] WATCH LIVE: President Trump holds news conference after returning from China",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

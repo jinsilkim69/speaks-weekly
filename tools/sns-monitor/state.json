@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T18:41:17.935Z",
+  "lastCheckedAt": "2026-11-20T19:11:16.153Z",
   "seenPostIds": {
-    "66f6019f7aac68622a8a62939cc988963d69114d89b501f7960e2ee46a8c9470": {
-      "seenAt": "2026-11-18T00:01:19.865Z",
-      "title": "추미애 \"김민석, 신천지 발언 사과로 끝낼 일 아냐…당 윤리심판원 엄중히 판단해야\" - 아시아경제",
-      "targetName": "김민석"
-    },
     "8604ed8a0087ecafa092727ef4b0ec6226e4baa6d4483f05c8995b47bc432ce8": {
       "seenAt": "2026-11-18T00:01:20.632Z",
       "title": "추미애, 최민희 징계 수순에 \"김민석 문제부터 엄중 판단해야\" - 연합뉴스",
@@ -2505,6 +2500,21 @@
       "seenAt": "2026-11-20T18:41:19.181Z",
       "title": "이재명 ‘눈물 유세’…송영길 \"토닥토닥\", 홍준표 \"쇼 잘한다\" - JTBC",
       "targetName": "송영길"
+    },
+    "49386ff53d1494956058729df1349e8d622361596238e073e6ce05068982c141": {
+      "seenAt": "2026-11-20T19:11:17.177Z",
+      "title": "송영길 \"신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도\" [굿모닝 인천 - 경인방송 뉴스",
+      "targetName": "송영길"
+    },
+    "74b52dcc79f5fa42521b714cb9f76d98dd1462eb3c386fb738d49b5bd9504c0f": {
+      "seenAt": "2026-11-20T19:11:17.782Z",
+      "title": "조국혁신당 \"조희대 탄핵 속전속결로 이뤄야\" - 굿모닝충청",
+      "targetName": "조국"
+    },
+    "c7a1d614bc34c4fa52f08d7471a0dfc978c00aa2a9fefd33734f4a8fa9e49463": {
+      "seenAt": "2026-11-20T19:11:18.391Z",
+      "title": "WATCH LIVE: President Trump holds news conference after returning from China - KGW",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

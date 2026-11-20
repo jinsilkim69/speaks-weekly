@@ -10193,3 +10193,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도" [굿모닝 인천 - 경인방송 뉴스
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도" [굿모닝 인천
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BbXJnajVJV0lsUFNOcmxnN3M2eGU2ODhpNUtUME1HeG15OTFvbFhoSUFTVDU5MXpVcVpfRzBueV82VFlsbW1idHFIM3ZucENZRlhKMnJUaFFGek51aDZkVlM3d2JtcVk3?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 "조희대 탄핵 속전속결로 이뤄야" - 굿모닝충청
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 "조희대 탄핵 속전속결로 이뤄야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE9GbE9LQTBUNXpIVW1wWjdyamhFYjZZZnZ4RnJLRmgzYXpNMXpzNG9DY3FEbjg2SmlUX2luTFhGUGh1WTZNa1ZmYzZkblFVMndxRU4zT0xOcUZMcGE1MUxLdVAyZ0g5OVVoR3UyTGdBYUtPUQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** WATCH LIVE: President Trump holds news conference after returning from China - KGW
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] WATCH LIVE: President Trump holds news conference after returning from China
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSUt3UjVJN25NeG9mS1NmOHhaVHhRM0c4cVFTNkR1WkhKRDNzc0xxSXdhaTFybVNJVXFROXF4ZTZqMHlYTjV2TTZoTlUzTEhrYlp2Z1JlYVhTSThIa3pLZ2dzWFdVMGd5a1lSdnl1cmx1a1dSczZhTU5QeHg3Nl8zTTR4cjh2OURIYjQxQ2FGVjhlM1VBcXc5b0lubmxaMEFZZ0xEQ2RnbHctTjlZeGdyQTc5RnQtWHRydEYzQlZ0bWU0U3JJQ2ZYcWFSMEptUWFjWUVKS09MdEdMLWhncFEtczItWVVCU0xMRHA1cFY2cTVfQm9SQ3dYTUpydm1RQQ?oc=5)
+
+---
+
