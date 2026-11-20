@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T15:41:17.065Z",
+  "lastCheckedAt": "2026-11-20T15:51:17.824Z",
   "seenPostIds": {
-    "837533b5ebd96ca2746270b70c4e4ccae359d2fbc2d462e384501cbb730c336f": {
-      "seenAt": "2026-11-17T22:11:23.327Z",
-      "title": "Tucker Carlson says he spoke to Trump and is convinced he wants to de-escalate in Iran - WSMH",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "87a48d68c391e36178628c3a947d6bb283022a606414ec1c9c759b833fed39e1": {
       "seenAt": "2026-11-17T22:41:18.317Z",
       "title": "추미애, “반·분·신 비밀연합, 반민주적 마타도어…김민석 사과로 끝낼 문제 아냐” - 경향신문",
@@ -2504,6 +2499,11 @@
     "475c56561d7f9bb449a95191d9928cd4019e434f40ab6124931b92bfd6936e1b": {
       "seenAt": "2026-11-20T15:41:18.185Z",
       "title": "WATCH LIVE: Trump holds news conference after China trip - Washington Examiner",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "029440a8fbadc9d450d1f70a91c8ed81fc13be06b9738752269c8cdbb3e536c9": {
+      "seenAt": "2026-11-20T15:51:18.958Z",
+      "title": "President Donald Trump Pardons Pete Rose, Claims Baseball Legend Was ‘Treated Terribly’ by MLB - Yahoo Sports",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },

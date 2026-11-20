@@ -149,5 +149,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "029440a8fbadc9d450d1f70a91c8ed81fc13be06b9738752269c8cdbb3e536c9",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "President Donald Trump Pardons Pete Rose, Claims Baseball Legend Was ‘Treated Terribly’ by MLB - Yahoo Sports",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZmRPbWhyY1pCZWd6SDl6ZDlZY0V3cjNQLS1QYjZ4M3FaY3Y0MFB2VlgyY3NKNlJhZUVzTVg1ZlpZcGg4OUk2X2FORW9sQlZNR3JxX0tmSkF3dmVwS01GelBDNnp4a2pvRVdnWE9KWktqV0xidWNSbWo4YlhRNGpxRkVGdENSZTRUTWF6Qg?oc=5\" target=\"_blank\">President Donald Trump Pardons Pete Rose, Claims Baseball Legend Was ‘Treated Terribly’ by MLB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZmRPbWhyY1pCZWd6SDl6ZDlZY0V3cjNQLS1QYjZ4M3FaY3Y0MFB2VlgyY3NKNlJhZUVzTVg1ZlpZcGg4OUk2X2FORW9sQlZNR3JxX0tmSkF3dmVwS01GelBDNnp4a2pvRVdnWE9KWktqV0xidWNSbWo4YlhRNGpxRkVGdENSZTRUTWF6Qg?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 15:32:14 GMT",
+    "source": "Yahoo Sports",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] President Donald Trump Pardons Pete Rose, Claims Baseball Legend Was ‘Treated Terribly’ by MLB",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
