@@ -1,51 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T04:21:17.187Z",
+  "lastCheckedAt": "2026-11-20T04:51:22.417Z",
   "seenPostIds": {
-    "4ef7d8a3535bb4142460b455f67ca18381d66e3eb970f17514dcb6fd025dbb7b": {
-      "seenAt": "2026-11-17T10:41:22.297Z",
-      "title": "조국 전 의원, 일본 하네다 공항서 입국 불허 - 굿모닝충청",
-      "targetName": "조국"
-    },
-    "1d571f8b071b44cde57284b53c6d20b055648038d41c4c9a3a30d801166796dd": {
-      "seenAt": "2026-11-17T10:41:23.054Z",
-      "title": "조국, 일본에서 입국 거부 당해…혁신당 “일본에 사과와 재발방지 요구” [지금뉴스] - KBS 뉴스",
-      "targetName": "조국"
-    },
-    "4f02dd6f298ec154c141d3e4ac3885bb06718ea81d24c35253e3495e59e48c78": {
-      "seenAt": "2026-11-17T10:41:23.937Z",
-      "title": "[속보] 조국, 일본 공항서 입국 거부당해…‘죽창가’ 언급 때문? - 한겨레",
-      "targetName": "조국"
-    },
-    "416a08e719478631a8b22bc05fbe2f6950ff576e694d0fb264ddd4b818f38606": {
-      "seenAt": "2026-11-17T10:51:18.521Z",
-      "title": "조국 전 대표, 일본 입국 거부 당해... 독도 방문 이력 ? - 중앙신문",
-      "targetName": "조국"
-    },
-    "833db22f9ea2311239b46026353b40e61e6d23e295edeb735e7891e6d8676abf": {
-      "seenAt": "2026-11-17T10:51:19.222Z",
-      "title": "조국 혁신당 전 대표, 일본 입국 거부 당해... 독도 방문 이력 때문? - 조선일보",
-      "targetName": "조국"
-    },
-    "c1284c49aeb0dff8670a21ddc3398bb93b0c0e9efcac1b885e50030a1f1d167c": {
-      "seenAt": "2026-11-17T10:51:19.960Z",
-      "title": "조국, 日입국 거부당해…혁신당 \"독도 방문이 사유되지 않았을까\" - 한국경제",
-      "targetName": "조국"
-    },
-    "973b308661204745dd3d63022538c355d86956051cf7713651813ad573727f1d": {
-      "seenAt": "2026-11-17T11:01:21.767Z",
-      "title": "조국, 日하네다공항서 입국 거부…혁신당 \"해명·사과하라\"(종합) - 뉴스1",
-      "targetName": "조국"
-    },
-    "9b25660c2209da8e9bc90b939f9cfd254201c9fed569ee76809e2594d02eff09": {
-      "seenAt": "2026-11-17T11:01:22.444Z",
-      "title": "[포토] 간호정책 선포식 축사하는 신장식 대표 - 천지일보",
-      "targetName": "신장식"
-    },
-    "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047": {
-      "seenAt": "2026-11-17T11:01:23.172Z",
-      "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "f7af1872be032bdee4b2cc9314b74b5bf220f0b3af0aadfa34bfc1be26b58ab7": {
       "seenAt": "2026-11-17T11:11:21.447Z",
       "title": "이재명 대통령, 아세안에 ‘AI 동행·문화 창조산업’ 2대 이니셔티브 제안 - 아세안익스프레스",
@@ -2545,24 +2500,22 @@
       "seenAt": "2026-11-20T04:41:19.246Z",
       "title": "이재명 대통령 직무평가 '잘하고 있다' 40% .. 부정평가 '부동산'에서 '경제/민생'으로 변화 - 데일리경제",
       "targetName": "이재명"
+    },
+    "b3c7810b61c591f17db21578135c1929a9e74eb27d52b06db75efd793edc0fdc": {
+      "seenAt": "2026-11-20T04:51:23.856Z",
+      "title": "신장식, 민주당에 '조희대 탄핵안' 21일 표결 제안 - 한국경제",
+      "targetName": "신장식"
+    },
+    "6c827066941f63cc66630349f6e31cdcbb492ea2bc80121e1679947e5e990bd7": {
+      "seenAt": "2026-11-20T04:51:24.684Z",
+      "title": "“유시민·이준석 코인 발언 아쉬워…이젠 인식 바꿔야” - 이데일리",
+      "targetName": "이준석"
+    },
+    "874ffeaf0fa712e3caffc1437b43f0488bb31e20df8b02e170439f20d44ec198": {
+      "seenAt": "2026-11-20T04:51:25.596Z",
+      "title": "조희대 탄핵 관련 기자회견 입장하는 신장식 대표 - 서울뉴스통신",
+      "targetName": "신장식"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "b3c7810b61c591f17db21578135c1929a9e74eb27d52b06db75efd793edc0fdc",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식, 민주당에 '조희대 탄핵안' 21일 표결 제안 - 한국경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUc1ZTbTdqTWdQX1RrT29YY2h2Q2JyZUVMRG5JYi1ULVZ0djF4UTd1ODVTQXNQdkRJdFF4aUlGaWVtOVIxQVpNeWJjOGRXRlU5aWhsdHV1RHU4Zw?oc=5\" target=\"_blank\">신장식, 민주당에 '조희대 탄핵안' 21일 표결 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUc1ZTbTdqTWdQX1RrT29YY2h2Q2JyZUVMRG5JYi1ULVZ0djF4UTd1ODVTQXNQdkRJdFF4aUlGaWVtOVIxQVpNeWJjOGRXRlU5aWhsdHV1RHU4Zw?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 02:42:16 GMT",
-        "source": "한국경제",
-        "ageHours": 1.7
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
