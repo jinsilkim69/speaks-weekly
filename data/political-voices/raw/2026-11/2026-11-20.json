@@ -1925,5 +1925,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f6378a6f67f2a245a0f37deaf3ac43bfb3f92fdfc3eff3d128b1f96b61615b64",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump says he's pardoned deceased MLB slugger Pete Rose - CBS News",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlVXRlY0xObHBGQUs3TUZzbmJvY0tDUVhwUEJ2Um84Z0JlN1NvazJReHI0OFFMQlI4U1RQWGlvRndZRVlpMnJ5NDRWVnJSeWNpV2FzUGdqazRxRE9LZFBxTnllelFYX2tk?oc=5\" target=\"_blank\">Trump says he's pardoned deceased MLB slugger Pete Rose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlVXRlY0xObHBGQUs3TUZzbmJvY0tDUVhwUEJ2Um84Z0JlN1NvazJReHI0OFFMQlI4U1RQWGlvRndZRVlpMnJ5NDRWVnJSeWNpV2FzUGdqazRxRE9LZFBxTnllelFYX2tk?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 22:19:00 GMT",
+    "source": "CBS News",
+    "ageHours": 4.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump says he's pardoned deceased MLB slugger Pete Rose",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "eb46d2fb55a19fcd25b80828e8c6128d54fdb95d8515a115fc79a4bb5c032aac",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Late MLB Star Pete Rose Posthumously Pardoned by President Trump 2 Years After His Death - Us Weekly",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNY2xPMk9NVFY2am5xcTlIUmZBUmFaWVlIMEMybDRpRzVldnBVSm8tc0ZpR01YZmQzZ3A3X2tmb3lsOXVUUGVUdlhkS0tuU3ZFVnZiWUY3LXZmNDlESVdpbTlxWWM1RlJlaTJsN2RJdE4tTGRFZVh6Z3NmdkhWd0xWaXNpdGNlRlVkem1NTHBjWE90blBrZ0VUV0Y2MWpxRXlYSWl6SDlKUE1FTWxLSy1UWHlVSndCdjlyTHZod0UwUXVLcEpZVDNV?oc=5\" target=\"_blank\">Late MLB Star Pete Rose Posthumously Pardoned by President Trump 2 Years After His Death</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Us Weekly</font>",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY2xPMk9NVFY2am5xcTlIUmZBUmFaWVlIMEMybDRpRzVldnBVSm8tc0ZpR01YZmQzZ3A3X2tmb3lsOXVUUGVUdlhkS0tuU3ZFVnZiWUY3LXZmNDlESVdpbTlxWWM1RlJlaTJsN2RJdE4tTGRFZVh6Z3NmdkhWd0xWaXNpdGNlRlVkem1NTHBjWE90blBrZ0VUV0Y2MWpxRXlYSWl6SDlKUE1FTWxLSy1UWHlVSndCdjlyTHZod0UwUXVLcEpZVDNV?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 01:38:36 GMT",
+    "source": "Us Weekly",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Late MLB Star Pete Rose Posthumously Pardoned by President Trump 2 Years After His Death",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "a73fa6e69f07caa7652f5542035abe798ee07ee8980e07f64636a5622f1c0cc6",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UdIBckFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UQ?oc=5\" target=\"_blank\">한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UdIBckFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 00:44:00 GMT",
+    "source": "머니투데이",
+    "ageHours": 2.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T03:11:16.260Z",
+  "lastCheckedAt": "2026-11-20T03:21:18.555Z",
   "seenPostIds": {
-    "ca6c29f8814aa4b5a9fc15769e51ee8ec744e7bbe402399d57ccb4464527a7f2": {
-      "seenAt": "2026-11-17T09:31:18.466Z",
-      "title": "정청래, '대타협 촉구' 송영길에 \"자격미달자 나서지 마세요\" - 싱글리스트",
-      "targetName": "정청래"
-    },
-    "c5dbe612d88f358f1ace3ccfe5397e5611dda5f551ac30fd7534caa709f76775": {
-      "seenAt": "2026-11-17T09:31:19.117Z",
-      "title": "송영길 “金·鄭 만나서 풀어야”…정청래 “자격 미달자 나서지 말라” - 중앙일보",
-      "targetName": "송영길"
-    },
-    "cd5033bed99a805a269fcbb0bd8d0fa27129c4055ade4c0d9052290addf3ab75": {
-      "seenAt": "2026-11-17T09:31:19.835Z",
-      "title": "송영길 \"金·鄭 대화해야\"…정청래 \"자격미달자 나서지 말라\" - 연합뉴스",
-      "targetName": "송영길"
-    },
     "dd4e9e098736ffc1191ad5a57be60e9e097c64416438a729567217ddf34855c3": {
       "seenAt": "2026-11-17T09:41:20.885Z",
       "title": "송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\" - 대전일보",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-20T03:11:18.597Z",
       "title": "Donald Trump Spirals on Truth Social on Way Home From Major Summit - The Daily Beast",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f6378a6f67f2a245a0f37deaf3ac43bfb3f92fdfc3eff3d128b1f96b61615b64": {
+      "seenAt": "2026-11-20T03:21:19.969Z",
+      "title": "Trump says he's pardoned deceased MLB slugger Pete Rose - CBS News",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "eb46d2fb55a19fcd25b80828e8c6128d54fdb95d8515a115fc79a4bb5c032aac": {
+      "seenAt": "2026-11-20T03:21:20.781Z",
+      "title": "Late MLB Star Pete Rose Posthumously Pardoned by President Trump 2 Years After His Death - Us Weekly",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a73fa6e69f07caa7652f5542035abe798ee07ee8980e07f64636a5622f1c0cc6": {
+      "seenAt": "2026-11-20T03:21:21.498Z",
+      "title": "한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "f6378a6f67f2a245a0f37deaf3ac43bfb3f92fdfc3eff3d128b1f96b61615b64",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump says he's pardoned deceased MLB slugger Pete Rose - CBS News",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlVXRlY0xObHBGQUs3TUZzbmJvY0tDUVhwUEJ2Um84Z0JlN1NvazJReHI0OFFMQlI4U1RQWGlvRndZRVlpMnJ5NDRWVnJSeWNpV2FzUGdqazRxRE9LZFBxTnllelFYX2tk?oc=5\" target=\"_blank\">Trump says he's pardoned deceased MLB slugger Pete Rose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlVXRlY0xObHBGQUs3TUZzbmJvY0tDUVhwUEJ2Um84Z0JlN1NvazJReHI0OFFMQlI4U1RQWGlvRndZRVlpMnJ5NDRWVnJSeWNpV2FzUGdqazRxRE9LZFBxTnllelFYX2tk?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 22:19:00 GMT",
-        "source": "CBS News",
-        "ageHours": 4.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "eb46d2fb55a19fcd25b80828e8c6128d54fdb95d8515a115fc79a4bb5c032aac",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Late MLB Star Pete Rose Posthumously Pardoned by President Trump 2 Years After His Death - Us Weekly",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNY2xPMk9NVFY2am5xcTlIUmZBUmFaWVlIMEMybDRpRzVldnBVSm8tc0ZpR01YZmQzZ3A3X2tmb3lsOXVUUGVUdlhkS0tuU3ZFVnZiWUY3LXZmNDlESVdpbTlxWWM1RlJlaTJsN2RJdE4tTGRFZVh6Z3NmdkhWd0xWaXNpdGNlRlVkem1NTHBjWE90blBrZ0VUV0Y2MWpxRXlYSWl6SDlKUE1FTWxLSy1UWHlVSndCdjlyTHZod0UwUXVLcEpZVDNV?oc=5\" target=\"_blank\">Late MLB Star Pete Rose Posthumously Pardoned by President Trump 2 Years After His Death</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Us Weekly</font>",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY2xPMk9NVFY2am5xcTlIUmZBUmFaWVlIMEMybDRpRzVldnBVSm8tc0ZpR01YZmQzZ3A3X2tmb3lsOXVUUGVUdlhkS0tuU3ZFVnZiWUY3LXZmNDlESVdpbTlxWWM1RlJlaTJsN2RJdE4tTGRFZVh6Z3NmdkhWd0xWaXNpdGNlRlVkem1NTHBjWE90blBrZ0VUV0Y2MWpxRXlYSWl6SDlKUE1FTWxLSy1UWHlVSndCdjlyTHZod0UwUXVLcEpZVDNV?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 01:38:36 GMT",
-        "source": "Us Weekly",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "a73fa6e69f07caa7652f5542035abe798ee07ee8980e07f64636a5622f1c0cc6",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UdIBckFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UQ?oc=5\" target=\"_blank\">한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UdIBckFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UQ?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:44:00 GMT",
-        "source": "머니투데이",
-        "ageHours": 2.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "d0d6f24d638aed3246eb250946ade832b94934856eadf9a9a438039d0cc9cc47",
@@ -2706,6 +2658,70 @@
         "pubDate": "Fri, 20 Nov 2026 00:24:49 GMT",
         "source": "연합뉴스",
         "ageHours": 2.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "6245cd06b222059ad1e08539c14b1800a2a154c96a303148b7fd73989e58d12e",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 \"조희대 탄핵의 최대 실익은 이것\" - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1CeWJaanBqckx2QnBzTHlvZV9HNWlhdEZfU1dNdXYyRDBWOFlkMElsUkVWTFdfS3hNSnpBTUFMUkYyMk42M2Z4OW5PbEhIR1l6VzlrZTNYbWd1ZzQ1YjlmamNqOGNDTnp0RDFUV2pyTXFfeGxHWU9B?oc=5\" target=\"_blank\">김민석 \"조희대 탄핵의 최대 실익은 이것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CeWJaanBqckx2QnBzTHlvZV9HNWlhdEZfU1dNdXYyRDBWOFlkMElsUkVWTFdfS3hNSnpBTUFMUkYyMk42M2Z4OW5PbEhIR1l6VzlrZTNYbWd1ZzQ1YjlmamNqOGNDTnp0RDFUV2pyTXFfeGxHWU9B?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 00:51:00 GMT",
+        "source": "OhmyNews",
+        "ageHours": 2.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "c15f03159ebf4c308794b505c81c92ff80583ff2ff84c2ff4b82d5ff266c7511",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "한동훈 “대법원장 탄핵은 사법부 전복 노린 내란…김민석, 의원직 걸겠나” - 매일경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE91V1JnMUdaLUp3dUgzb0p4bncyS21GdVZ5dFdqeXJJNG1VWjV0alplN3B2QzgxMVNDelJUdFBFWjlPejFKbEE?oc=5\" target=\"_blank\">한동훈 “대법원장 탄핵은 사법부 전복 노린 내란…김민석, 의원직 걸겠나”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE91V1JnMUdaLUp3dUgzb0p4bncyS21GdVZ5dFdqeXJJNG1VWjV0alplN3B2QzgxMVNDelJUdFBFWjlPejFKbEE?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 00:55:25 GMT",
+        "source": "매일경제",
+        "ageHours": 2.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2875e9bc5093b418e7379e394db9805d7f52f650f8fcd9812303031879c662be",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "「M포토」 조국혁신당 “내란동조 조희대 탄핵하라” - M이코노미뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qV0FkTUZvbFNzTkprV0tTR0hIclJVZV9USlVFYXJ0TFdzNG1lc2t4cE5KbDVLOWNSVVlSSVZINmFFNDZyUFNfUlJfWmk3V3hkMk92UkRseVpKOXRBV1Y5SVFSTmVDbUE?oc=5\" target=\"_blank\">「M포토」 조국혁신당 “내란동조 조희대 탄핵하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">M이코노미뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qV0FkTUZvbFNzTkprV0tTR0hIclJVZV9USlVFYXJ0TFdzNG1lc2t4cE5KbDVLOWNSVVlSSVZINmFFNDZyUFNfUlJfWmk3V3hkMk92UkRseVpKOXRBV1Y5SVFSTmVDbUE?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:01:59 GMT",
+        "source": "M이코노미뉴스",
+        "ageHours": 2.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "3d6ce08beadbb153d5a68de4a4cbc97d62a5956ef68ca57e46504ddbf135a82b",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "혁신당 '비전랩 위원장'에 조국…미래비전·혁신 방안 연구 - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRkRic0JGZjZmZ2NFNnZJNjNsMW1URUpOczhUM0dyOGhzNGFvQUo0QUVIVlZCa2twS0N6bEp5WXMyVTBRTG5JOWJlUjFNMVZYYndQd1lsaE1kRjTSAWBBVV95cUxORkE2dmdnRVBvaWVYaEh3bXQ5a093MHc2cXdtZjRCcGU5d25uX2dCMk1KT3cyZ1ZGOWYzTkZvNGM3b3BXZUZVSmcyV2tVa0RHZklMLXQ2c05fVXJOZE9Edlc?oc=5\" target=\"_blank\">혁신당 '비전랩 위원장'에 조국…미래비전·혁신 방안 연구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRkRic0JGZjZmZ2NFNnZJNjNsMW1URUpOczhUM0dyOGhzNGFvQUo0QUVIVlZCa2twS0N6bEp5WXMyVTBRTG5JOWJlUjFNMVZYYndQd1lsaE1kRjTSAWBBVV95cUxORkE2dmdnRVBvaWVYaEh3bXQ5a093MHc2cXdtZjRCcGU5d25uX2dCMk1KT3cyZ1ZGOWYzTkZvNGM3b3BXZUZVSmcyV2tVa0RHZklMLXQ2c05fVXJOZE9Edlc?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 23:00:02 GMT",
+        "source": "연합뉴스",
+        "ageHours": 4.4
       },
       "delivered": [],
       "archived": false
