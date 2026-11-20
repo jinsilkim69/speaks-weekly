@@ -8464,3 +8464,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “李 자기 재판막으려는 말초적 욕심…사법부 마비·후진국 초래” - 경기일보
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “李 자기 재판막으려는 말초적 욕심…사법부 마비·후진국 초래”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE14VkNkdzJKRVNUS0JiTXdKeThXbE9pdnhacU94OWR5WmJGb25MVDM2UklOTFZKaTFtQTNYM3dLVDVxVWtGSzFpNVV1WXlNeWdnazNzNkZXZlRmRjA?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "한덕수처럼 하라는 대법원 판결…내란 정당화하는 역사적 반역" - 미디어인뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "한덕수처럼 하라는 대법원 판결…내란 정당화하는 역사적 반역"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1aMDdCSXp5VmRiVllhdDktcGEzVlBZOUxYTmMza0ZQeDlSemtBamZuTkpLM0pTLXhMc3JzWHlSbERWc1MtbmROckphLWFzNVZheFJuWWpYeENfWng5LXNodnF1SHRUd2NDTmRTNFpB?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與 이성윤 "김민석 '신천지 의혹 제기'도 윤리심판원 신속 심의해야 공정해" - 뉴시스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 이성윤 "김민석 '신천지 의혹 제기'도 윤리심판원 신속 심의해야 공정해"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ldm9OcmZuUGRwV0JzWlpVN3VKN21DOWJsUHNSTFd5SHU5dXF6Tk9TNHR2VTRiWjQwY0p6QmlzajZwdUs0S2pIQnRlM29PZ1U1djVaTlRXTkdkQW40eGI5QtIBeEFVX3lxTE1NdFpoLUZ2X0JQeXZ1NEdxendYZjNWckREZzNiQm9HTFhRT3JwaU9EN19leGZTN0pldjBreEVCdVBBcWdQZVp2enVFYXpuRnROOF9JNVNTRU50Z2xvVFByazRYZUxFdDdCYW1MMWNXcER4amVjcHlDeQ?oc=5)
+
+---
+

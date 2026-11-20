@@ -1,26 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T01:21:18.418Z",
+  "lastCheckedAt": "2026-11-20T01:51:18.220Z",
   "seenPostIds": {
-    "d10c9b3279181ac8307d954ce069545f55e566c86b24fa87439c9c746b254e7d": {
-      "seenAt": "2026-11-17T08:21:22.252Z",
-      "title": "황교안 “‘한동훈 체포’ 글은 부정선거 수사하란 뜻” [현장영상] - 채널A",
-      "targetName": "한동훈"
-    },
-    "1eb22f04d2dbfb704b57ed512154b78e7aab94456739b6b5d354b2ecda820076": {
-      "seenAt": "2026-11-17T08:21:23.026Z",
-      "title": "‘한동훈 복당’ 놓고 국민의힘 내홍 계속...‘조작 징계’ 추가 폭로 예고까지 - 투데이신문",
-      "targetName": "한동훈"
-    },
-    "08f31c1dedbd04c7b56edb067203c016ce505afbc2bde5b9440889ca52b66d99": {
-      "seenAt": "2026-11-17T08:31:27.544Z",
-      "title": "송국건 정치평론가 \"한동훈 의원 복당론 제기는 자기 정치 아니냐\" 비판 - 매일신문",
-      "targetName": "한동훈"
-    },
-    "e508a0f12ca19af145f7d8a24b0d9426046018cb841bebd1f31cf18a3a47e464": {
-      "seenAt": "2026-11-17T08:31:28.386Z",
-      "title": "“한동훈 떨거지들 버릇 고치고”…국힘 윤리위원 ‘조작징계’ 증거 제시 - 중앙신문",
-      "targetName": "한동훈"
-    },
     "aad6a8f11fd4fdf760088cf95eff00dea42e00781f8306bbba3ad57f5c5cda76": {
       "seenAt": "2026-11-17T08:31:29.143Z",
       "title": "“한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성 - 중앙일보",
@@ -2520,7 +2500,87 @@
       "seenAt": "2026-11-20T01:31:16.074Z",
       "title": "Here's the point Trump misses with Pete Rose 'pardon' - Cincinnati Enquirer",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "4b3afa326ac7712da0ee430e594b3e0875ccd8182da209eb10dc7ea489820446": {
+      "seenAt": "2026-11-20T01:51:19.564Z",
+      "title": "한동훈 “李 자기 재판막으려는 말초적 욕심…사법부 마비·후진국 초래” - 경기일보",
+      "targetName": "한동훈"
+    },
+    "6ff12d338b0b51cb4216b317e120f2be1be1053949b51322313af1dab72d1cc3": {
+      "seenAt": "2026-11-20T01:51:20.317Z",
+      "title": "김민석 \"한덕수처럼 하라는 대법원 판결…내란 정당화하는 역사적 반역\" - 미디어인뉴스",
+      "targetName": "김민석"
+    },
+    "f0dcddc913ed4f2a740ccc0bfcf5726345f7f5d9af5ce7f15d02399d4e4e53ad": {
+      "seenAt": "2026-11-20T01:51:21.012Z",
+      "title": "與 이성윤 \"김민석 '신천지 의혹 제기'도 윤리심판원 신속 심의해야 공정해\" - 뉴시스",
+      "targetName": "김민석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "b0d57852900c50bc19b18ee347432a57d52caea9d0c26928ab566c9791df1c59",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "[막전막후] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나 - 펜앤마이크",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBONWpXUTh5UkNLTWF5eTdhTTJMdloyX3lCQXJ3ZVBfSThsMGRyZjU2aXN5TF9jMWFXQnRpLXdoM3RUWTc0YktxbDdmV0F4UEF3WU9aYURNdC1oQ0NtLWhqaDUzMFhtbmlrZ0pF0gFvQVVfeXFMTW9UNkNITnNzSG4xcm5zUzBscmd5MFdsUmxrNGlGbFJUOGdpYmRqaEgyZUJ1RkVRLWxhTWlWaTJPc01feVNDWDhqWXl5cVYzQnlGZDlnS2RXUWxOQ2didlp0aVphMlJWY3hNLUd5cEd3?oc=5\" target=\"_blank\">[막전막후] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">펜앤마이크</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBONWpXUTh5UkNLTWF5eTdhTTJMdloyX3lCQXJ3ZVBfSThsMGRyZjU2aXN5TF9jMWFXQnRpLXdoM3RUWTc0YktxbDdmV0F4UEF3WU9aYURNdC1oQ0NtLWhqaDUzMFhtbmlrZ0pF0gFvQVVfeXFMTW9UNkNITnNzSG4xcm5zUzBscmd5MFdsUmxrNGlGbFJUOGdpYmRqaEgyZUJ1RkVRLWxhTWlWaTJPc01feVNDWDhqWXl5cVYzQnlGZDlnS2RXUWxOQ2didlp0aVphMlJWY3hNLUd5cEd3?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:13:54 GMT",
+        "source": "펜앤마이크",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2967fa2b20cde42292d9a0d753b24b9f3f7913b08a23c30f105238a2e0e6c3b6",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "「M포토」 발언하는 신장식 조국혁신당 대표 - M이코노미뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4NG5zMHdnOThWR2hJcV9sZ3FQS0RhVzB3YmhjYjdwaWZMZW9TZE85X2xkMmd3Y2JaWkszUVFxM3ExZzBRUjkydElUSHlhM0FPcDIwZ00wVDhRbEZWNi1nSG5mdU9HdW8?oc=5\" target=\"_blank\">「M포토」 발언하는 신장식 조국혁신당 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">M이코노미뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4NG5zMHdnOThWR2hJcV9sZ3FQS0RhVzB3YmhjYjdwaWZMZW9TZE85X2xkMmd3Y2JaWkszUVFxM3ExZzBRUjkydElUSHlhM0FPcDIwZ00wVDhRbEZWNi1nSG5mdU9HdW8?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:37:45 GMT",
+        "source": "M이코노미뉴스",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "fe1f3bc68e1bb5db25198eba1d9ae5a604d61bf55fb023a9a759f95717418f0a",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 \"민주당, 이번 주말 조희대 탄핵 추진하자\" - 뉴스토마토",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GM1ZNUDhqbzZzRWRfSGxoTUZXSFl3X2N3MV9DdkRBZzlmRDJMTERCVDZNY25VajRmSTA2RjJQUVNwZGpvelM0a3U3Wi05T0hfaXl5U0VpOTJ1SU5rYVJTLQ?oc=5\" target=\"_blank\">신장식 \"민주당, 이번 주말 조희대 탄핵 추진하자\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GM1ZNUDhqbzZzRWRfSGxoTUZXSFl3X2N3MV9DdkRBZzlmRDJMTERCVDZNY25VajRmSTA2RjJQUVNwZGpvelM0a3U3Wi05T0hfaXl5U0VpOTJ1SU5rYVJTLQ?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 00:54:01 GMT",
+        "source": "뉴스토마토",
+        "ageHours": 1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "8ae799dd31a3797ec61c234b1a88d742ba221705d82ce40b1b02af0f50318cf4",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump posthumously pardons former Phillie Pete Rose - Inquirer.com",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONVlEVVlVSnJLVnppRmF6d2JNei1xZGV1V2JnUFA1U1I2VjB6Ykk5eDBDemVHdzVKbDQ2djcyVEp3YjQ2bUNWZkYxY1psOU13Y0laQ3F6SlZveHNFcnFVZUgxZy1PZ3JJeG95dnNOTHBoa3JpVnNxOF9oNUxMZmw3UDNuaWlsVnZvZ1Q1Zg?oc=5\" target=\"_blank\">Trump posthumously pardons former Phillie Pete Rose</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inquirer.com</font>",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVlEVVlVSnJLVnppRmF6d2JNei1xZGV1V2JnUFA1U1I2VjB6Ykk5eDBDemVHdzVKbDQ2djcyVEp3YjQ2bUNWZkYxY1psOU13Y0laQ3F6SlZveHNFcnFVZUgxZy1PZ3JJeG95dnNOTHBoa3JpVnNxOF9oNUxMZmw3UDNuaWlsVnZvZ1Q1Zg?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 22:42:17 GMT",
+        "source": "Inquirer.com",
+        "ageHours": 3.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
