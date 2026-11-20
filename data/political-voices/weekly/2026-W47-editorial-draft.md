@@ -8412,3 +8412,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [단독]폴킴·정승환·김민석·빅나티·하현상, ‘고막소년단’ 뭉친다 - JTBC
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 폴킴·정승환·김민석·빅나티·하현상, ‘고막소년단’ 뭉친다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XVWJ2aENVNDlhVG9wMkR1M2dUQ1Mzb2gza294czN4cWdJakZsei1IZ1JaOTJpNnZob1d4T29BM1NqcEdvZHRleWo0aHFla0o5SEpsMQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 우원식, 정청래 양비론 지적에 "갈등 확장돼선 안 돼" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 우원식, 정청래 양비론 지적에 "갈등 확장돼선 안 돼"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE1PczdfdFhmbnRBaVNWTVN2NDhDNG1vdnFlUzF3MExLY0hKS3VHeTZQRTZaYWg3YWMwTFZ3ZXJWQnZ3dFFTSFlnU2NUbk8yZ1BiSjZQMDhRZ0dlRkkxeEhHNV9NaTFNb0c0VzVFQ3Z2QVRaUE1PUWdfYTdn0gF_QVVfeXFMUGdrd1lscjF6MTZmMVlhbGF3bTRMWFNNdUFDOG9Ca3FwWWMzelBtaFJxWTV0Y2hZX0VWQ3kxZ1ZQTE1lcF8zejBVV05OeHBIMFIzY0ZTYVFManhENlFLakw0WU8xT0NkNVJTbFVDSkxCZ2hpaHBFZTRNb2FOTE1qQQ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 “조희대 탄핵, 토요일 표결하자” - OBC 뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 “조희대 탄핵, 토요일 표결하자”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE56SEg4SXBwSmoybmVPTDdpS0t0LUh2TXY2TGhhT2RhWHpoTGZibVFBRTRsMjh1eERPcFRRcmF5OVVJaG5waEdObDRhWGdqWUJRbkFNNkNwWGpielN4NW1DR2pJNXluZXpDSkE?oc=5)
+
+---
+

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T01:11:17.726Z",
+  "lastCheckedAt": "2026-11-20T01:21:18.418Z",
   "seenPostIds": {
-    "f276f8c1fdfe70803713514bd1c643e0a0d36b3ac3d80a739f125b04979de3a8": {
-      "seenAt": "2026-11-17T05:01:22.495Z",
-      "title": "Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit - Time Magazine",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "5e1b2d8810123a79626219b2e7db498bf0576155042ca6c7f27e0041d79a017d": {
-      "seenAt": "2026-11-17T05:11:24.201Z",
-      "title": "Don't panic over fake Trump post warning of disruptions to food supply, banking services - Snopes",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "b6df93ebab2c0439499ec2dbadb7d766dd4e9d6a3b97bb09a5beb9d79be93d93": {
-      "seenAt": "2026-11-17T08:21:21.450Z",
-      "title": "野 \"이재명 탈옥법, 국무회의서 대리의결…국민이 심판할 것\" | - 연합인포맥스",
-      "targetName": "이재명"
-    },
     "d10c9b3279181ac8307d954ce069545f55e566c86b24fa87439c9c746b254e7d": {
       "seenAt": "2026-11-17T08:21:22.252Z",
       "title": "황교안 “‘한동훈 체포’ 글은 부정선거 수사하란 뜻” [현장영상] - 채널A",
@@ -2515,7 +2500,39 @@
       "seenAt": "2026-11-20T01:12:38.918Z",
       "title": "Trump posthumously pardons US baseball legend Pete Rose - Yahoo Sports",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "32edb52c2933a5f3e9ce513e21aee8c8a264f1dbc1b83c0c21b3f7416eb2377e": {
+      "seenAt": "2026-11-20T01:21:19.826Z",
+      "title": "[단독]폴킴·정승환·김민석·빅나티·하현상, ‘고막소년단’ 뭉친다 - JTBC",
+      "targetName": "김민석"
+    },
+    "d1ac47600bf373360922e92bcefe5c7311b71f5615f03a7058a9a0fd3284de89": {
+      "seenAt": "2026-11-20T01:21:20.568Z",
+      "title": "우원식, 정청래 양비론 지적에 \"갈등 확장돼선 안 돼\" - 머니투데이 - 머니투데이",
+      "targetName": "정청래"
+    },
+    "0f73e96e761324d554959c98699832173847430c8fa6877d76b979ed75ab67bf": {
+      "seenAt": "2026-11-20T01:21:21.300Z",
+      "title": "신장식 “조희대 탄핵, 토요일 표결하자” - OBC 뉴스",
+      "targetName": "신장식"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "c7f358b98c0183429542caa65cdfa721689b7c276fc633e7a0ca6f94b3cdd1d0",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Here's the point Trump misses with Pete Rose 'pardon' - Cincinnati Enquirer",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeGxobFFza29CRUZnZEdZZUhrcEZHcjNOcTdyWEtrdHBMYmRWblp4U3FpWTVseWw3UUp5ODhyb0JkdnJNZkZ0bGEtMkwxOWFhdEtpQXBpeERBV2dySTdDQ2RES3JsTkFLMkxndVNtMUlhYVVFMHVOY2U2b2x1VGQ2UFE1bl8zQml1QXFjY0tFZS1LNFpwSHlaWEMzX3c3U3FXQ2xQYlhfTHZERmpJUzRxTEtjTG5hR2xxYml2RV85cWF6eEt2ODJCaWI5bjRRR1Q0?oc=5\" target=\"_blank\">Here's the point Trump misses with Pete Rose 'pardon'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cincinnati Enquirer</font>",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeGxobFFza29CRUZnZEdZZUhrcEZHcjNOcTdyWEtrdHBMYmRWblp4U3FpWTVseWw3UUp5ODhyb0JkdnJNZkZ0bGEtMkwxOWFhdEtpQXBpeERBV2dySTdDQ2RES3JsTkFLMkxndVNtMUlhYVVFMHVOY2U2b2x1VGQ2UFE1bl8zQml1QXFjY0tFZS1LNFpwSHlaWEMzX3c3U3FXQ2xQYlhfTHZERmpJUzRxTEtjTG5hR2xxYml2RV85cWF6eEt2ODJCaWI5bjRRR1Q0?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:16:00 GMT",
+        "source": "Cincinnati Enquirer",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
