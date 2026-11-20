@@ -9621,3 +9621,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나? - 에너지경제신문
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9venctTE9lZ0FOcjVMMERoTjc0SUZyZUNZd3h6SU9lQk9PbmFsNTJYcjl0WGVyUWF5MGQ5SGZndG1CY0UtNzRINmZOamNQQTVPelhiTXdUVHhva1F3ZjVENHB5TQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나? - 에너지경제신문
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9venctTE9lZ0FOcjVMMERoTjc0SUZyZUNZd3h6SU9lQk9PbmFsNTJYcjl0WGVyUWF5MGQ5SGZndG1CY0UtNzRINmZOamNQQTVPelhiTXdUVHhva1F3ZjVENHB5TQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 동응악구: 디지털 공동체 구축에 있어 조국전선의 역할 증진. - Vietnam.vn
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 동응악구: 디지털 공동체 구축에 있어 조국전선의 역할 증진.
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRXZYOERwRkFmeG1HUnhXbVowX2dCb2JFSEkwdEFUanFpVVd6RFNsTVZuNm9DMHc0T3FmSzNoekU0MnI0OEV3NWlkNGRtM1M3d2h0SlZpUUZ4TmpLckNoLUxBTmlaN2x3VWw2TU1BM1ZUZFZFdno1TTdnb1QwVzBDTXRfQnhsemlnTDgtdzZyMENfQ3FlR2dfWUhSQnE?oc=5)
+
+---
+
