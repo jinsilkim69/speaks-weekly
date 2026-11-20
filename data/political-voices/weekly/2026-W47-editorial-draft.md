@@ -9582,3 +9582,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與 윤리심판원, 최민희 징계 심의…김민석 징계 청원도 검토 - 중앙일보
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 윤리심판원, 최민희 징계 심의…김민석 징계 청원도 검토
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ydFp0YU9RMWtOSjNWUGJYb1NNR0p2X1hIN0F1TnJrRG5ra25yX2VPS2YtWFIxcmQ0ZUR5OFN2bTlWMzBab2lKYV9KTWZuMk1NeFc2VmpB?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** “김어준이 ‘최민희에 과도하다’하니까 정청래·추미애까지 나서…괴상하다” - 평화나무
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “김어준이 ‘최민희에 과도하다’하니까 정청래·추미애까지 나서…괴상하다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBNYUVDVXg1X3k5cUZ4Y0RXN2FhQ2thTjRXeFkybzFoTll4N01xQmR6SUdlUXBfRmxPSXVNak5iRUN4dVZ1VHFBa0cxTmdxYjRmOTlTVE16eVRJMkNwck1fUFZjR1hWbGI3X2c?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 제1회 '마이 케이팝 스타' 결선 찾은 민병덕-김태호-김재원-천하람 - 뉴스핌
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 제1회 '마이 케이팝 스타' 결선 찾은 민병덕-김태호-김재원-천하람
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SMzgxXzM2UjVleWt6UlNhNEFKWXhkaUFYbHdMbXY5Vk9sclVRYnN2MUJ0dFF1aTZKbjhjd0p6QVBSZnVCLWZzRnJIMkdxeGNCbnBIYjU5R3AyZkNu?oc=5)
+
+---
+

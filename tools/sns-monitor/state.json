@@ -1,26 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T09:21:19.818Z",
+  "lastCheckedAt": "2026-11-20T09:41:19.352Z",
   "seenPostIds": {
-    "a4b18e624b6471b6f6f6aafaa15d85488349d75253865dfe65a76ced74206ea1": {
-      "seenAt": "2026-11-17T13:01:22.933Z",
-      "title": "친명계 \"최민희 엄중 징계\" vs 친청계 \"김민석 징계도 공정하게\" - 프레시안",
-      "targetName": "김민석"
-    },
-    "8b35f2c1e83ab288ab78104a8ad4f9fe62839c397d4a4f7025f6cf43cd57eccc": {
-      "seenAt": "2026-11-17T13:01:23.762Z",
-      "title": "[단독] 日당국자 “조국 입국 거부, 전과자 비자 절차 안밟은 듯” - 중앙일보",
-      "targetName": "조국"
-    },
-    "f515802c114857e8980aad5ae58e31b89867dba3c2eb3cf1d69be805bbac80e6": {
-      "seenAt": "2026-11-17T13:11:18.923Z",
-      "title": "[17일 오!정말] 국힘 윤상현, 한동훈 복당 두고 \"당대표 되면 숙청당할 거라 생각\" - 비즈니스포스트",
-      "targetName": "한동훈"
-    },
-    "297acac5091f07531e040cde25cfb58c45503e34e0cf7f8cb9afab1c40ef8a64": {
-      "seenAt": "2026-11-17T13:11:19.782Z",
-      "title": "정청래·진성준 '미국 제동' 이어 'SNS 죽창가' 조국, 日 입국 거부당해 … 이러다 '우방국 봉' 될라 - 뉴데일리",
-      "targetName": "정청래"
-    },
     "bfac75f4421e9415b5fe370a22acde9517c696af7aa2359b937bf3374214a72d": {
       "seenAt": "2026-11-17T13:11:20.463Z",
       "title": "‘Market-moving’ posts under fire: White House aide Natalie Harp could be barred from posting to Donald Trump’s Truth Social in lawsuit - AOL.com",
@@ -2520,6 +2500,21 @@
       "seenAt": "2026-11-20T09:31:18.585Z",
       "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
       "targetName": "신장식"
+    },
+    "35f39b8e04b82ee0b11b3737e2aa8bc58aebb538ded51493e4d5fabbc2912df8": {
+      "seenAt": "2026-11-20T09:41:20.811Z",
+      "title": "與 윤리심판원, 최민희 징계 심의…김민석 징계 청원도 검토 - 중앙일보",
+      "targetName": "김민석"
+    },
+    "5f076ff1de15ccecc20ce4bc897f72bfdd7f39f7e0840bc18340c669212c0aeb": {
+      "seenAt": "2026-11-20T09:41:21.547Z",
+      "title": "“김어준이 ‘최민희에 과도하다’하니까 정청래·추미애까지 나서…괴상하다” - 평화나무",
+      "targetName": "정청래"
+    },
+    "5595757b1a9e7ca01435ef92b2c0a29279db5cb247afc757beb5041d3da52ba9": {
+      "seenAt": "2026-11-20T09:41:22.346Z",
+      "title": "제1회 '마이 케이팝 스타' 결선 찾은 민병덕-김태호-김재원-천하람 - 뉴스핌",
+      "targetName": "천하람"
     }
   },
   "pending": []
