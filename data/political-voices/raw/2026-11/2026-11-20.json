@@ -3331,5 +3331,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "896ad6db9c8cdb60a58d5b3c8db553c9741c6a49d1f234c2df8c98a1ad5a1127",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "축구 접고 회사 그만두고 아시아 정상… 이준석, 인천 학생선수들 앞에 서다 - 한국무예신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiPkFVX3lxTE9OaXc4NFZLZFUycW5ia2poZzhXOVkzMGdYWnhOdVliQTlJZlFVNWpkUFFzcXRSMkt1VkFNeDh3?oc=5\" target=\"_blank\">축구 접고 회사 그만두고 아시아 정상… 이준석, 인천 학생선수들 앞에 서다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국무예신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9OaXc4NFZLZFUycW5ia2poZzhXOVkzMGdYWnhOdVliQTlJZlFVNWpkUFFzcXRSMkt1VkFNeDh3?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 01:00:00 GMT",
+    "source": "한국무예신문",
+    "ageHours": 6.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 축구 접고 회사 그만두고 아시아 정상… 이준석, 인천 학생선수들 앞에 서다",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "fbf2d6720b6f75dac4f0a3528d5d96ae65c3c51c36a56195b299d85282f195ee",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UdIBckFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UQ?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UdIBckFVX3lxTE45UnJDZk5CVXYybDMweHQ2Y3pOYXVUTHV3OXlGakRUVC1NM1pyZUNPckxfM0dUSFd5QmJoUFYxTDB0M2ZWbHF0QVRyTlR4dFJMMThpUGIxTkhPdGpMOHR3cHV5MDk5QTRHVHFHaXJ6RGY0UQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 05:55:48 GMT",
+    "source": "머니투데이",
+    "ageHours": 1.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
