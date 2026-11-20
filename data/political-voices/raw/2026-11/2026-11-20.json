@@ -2897,5 +2897,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f166afda35e3e9b7ffecfbf2df6b9743ec23e88adb95b6b3bb5b3d594e51c291",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "신장식 \"曺 탄핵안 오늘 국회 제출·내일 표결을…역풍 막아야\"(종합) - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kb3NLR3hVSjA3U05LYnF6cmZMemF1SGF0SjBIbTg3NWVBU3I5Nkh1OGNnWGR0M1Y0UWtRZkZ4Z3dmVmhrMmJrQWtFNWwwRkE3b2JOdXJpcVAyQQ?oc=5\" target=\"_blank\">신장식 \"曺 탄핵안 오늘 국회 제출·내일 표결을…역풍 막아야\"(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kb3NLR3hVSjA3U05LYnF6cmZMemF1SGF0SjBIbTg3NWVBU3I5Nkh1OGNnWGR0M1Y0UWtRZkZ4Z3dmVmhrMmJrQWtFNWwwRkE3b2JOdXJpcVAyQQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 05:36:34 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식 \"曺 탄핵안 오늘 국회 제출·내일 표결을…역풍 막아야\"(종합)",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

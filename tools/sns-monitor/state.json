@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T05:31:17.195Z",
+  "lastCheckedAt": "2026-11-20T05:41:18.494Z",
   "seenPostIds": {
-    "63e80c54ab96204ef2d113a5efc8356b9650f735a678ac92e305abb005aa27da": {
-      "seenAt": "2026-11-17T11:41:22.365Z",
-      "title": "혁신당 \"일본, 조국 입국 거부‥즉각 해명·사과하라\" - MBC 뉴스",
-      "targetName": "조국"
-    },
-    "78dae56d53d34d6a51ec8b904561de0084325c7d246ac8be27e3fff92b1fc433": {
-      "seenAt": "2026-11-17T11:41:23.136Z",
-      "title": "조국, 일본 하네다공항서 입국 거부…혁신당 “일본 정부 공식 사과하라” - 신문고뉴스",
-      "targetName": "조국"
-    },
     "ba80e49e4ad132b6e49aaf24af2b70b77c7d1b0837524099503464445e5902d9": {
       "seenAt": "2026-11-17T11:41:23.891Z",
       "title": "Donald Trump’s Favorite Aide Faces New Threat to Truth Social Role - AOL.com",
@@ -2509,6 +2499,11 @@
     "1e3984abd8c03083e927cd1c5271c9fce98f2c2b29d5d162870a921fc0fac715": {
       "seenAt": "2026-11-20T05:31:19.252Z",
       "title": "[영상] 신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" - OhmyNews",
+      "targetName": "신장식"
+    },
+    "f166afda35e3e9b7ffecfbf2df6b9743ec23e88adb95b6b3bb5b3d594e51c291": {
+      "seenAt": "2026-11-20T05:41:19.931Z",
+      "title": "신장식 \"曺 탄핵안 오늘 국회 제출·내일 표결을…역풍 막아야\"(종합) - 뉴스1",
       "targetName": "신장식"
     }
   },
