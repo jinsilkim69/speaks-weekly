@@ -10154,3 +10154,29 @@
 
 ---
 
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 천하람 의원 "마이 케이팝 스타에서 BTS 넘어설 스타 많이 나올 것" - 뉴스핌
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 천하람 의원 "마이 케이팝 스타에서 BTS 넘어설 스타 많이 나올 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTE03SGttWWlIRlJseEQteC1heE5oZzRjaXdBeTlMRWpyc0ZHSS1JSXEtb3N0NjFhSTcwLWZ0T0RjTHNFcEZlTXhQQVpEUGxhdktCMUkyY1I4eUdlaFh2?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** WATCH LIVE: President Trump holds news conference after returning from China - KHOU
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] WATCH LIVE: President Trump holds news conference after returning from China
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQnRteVdZd1NrNkQtZjdzNzZtNGQya2g0TzE1Z2h5Q1ZtYklkbjU5cmQ1Y0g1ZDFfY1lSVE56VWx2S2NFUkVZaVZPR2cxcTlxQTJadHh3b0lBOXpCaHdTOUdlWjhXb2ZVV1UxRnBuaUxXRzlDSHNzZEpST3lkTV9jaDVNRzZXb2hBRWhNeXY3enk3QVU1VDdOUGlWTkkyOXFYQ2JIa3hxNTRscGUwOC1MV0lxSlV6aF9felZFNmJhX2VrOWtBTTI1UVNDSGdVdXAwMndpanVsTWF1dVJBMWx1QnhROUEySDRHUE9pQ2EtVy05SE1ZdVN1bjdxUlZGN28?oc=5)
+
+---
+
