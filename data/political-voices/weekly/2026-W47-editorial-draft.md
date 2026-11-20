@@ -8828,3 +8828,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** [포토] 신장식 대표, 조희대 대법원장 탄핵 추진 촉구 - 파이낸스투데이
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 대표, 조희대 대법원장 탄핵 추진 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5wYWw1b2tCSlhGSW5WcUMzX2FfQml1aDVFelR1RXgzT1Z4M2dWMWVnekkzUVdkYmJLZnN2amwyMnZRWVI0dHIzWmh5MkVzRTBkd2NZbEZab3kxRUVJNlY1cXhpZVBGMWVqQVRpaQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 일본 입국 거부에 "이재용도 문제 없어…이승철·김창열 사례인 듯" - JTBC
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 일본 입국 거부에 "이재용도 문제 없어…이승철·김창열 사례인 듯"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DTm1IUmNwcGJVMzZ1Z3k3VDRLdGtTZlBZRjBtZVdpUFNKQnlsdkE3c1gtbmZuLWg2MkM0NjcxOUlzeHdqMjZGbWN4dEI5WmlFbnc?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 대표, 조희대 대법원장 탄핵 추진 기자회견
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZRHhEaTVQNGNBNVdYZktNeUFpSG5iNGFFTm1ya1ktaktNNWg5X0stWjJXano0b3RsbUYyd0ZXeHJNNHBocXh1LTUwcXRvalB0QVJrSnZnMFdOVGpJVldISNIBYEFVX3lxTFBZRHhEaTVQNGNBNVdYZktNeUFpSG5iNGFFTm1ya1ktaktNNWg5X0stWjJXano0b3RsbUYyd0ZXeHJNNHBocXh1LTUwcXRvalB0QVJrSnZnMFdOVGpJVldISA?oc=5)
+
+---
+

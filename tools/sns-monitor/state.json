@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T03:41:15.273Z",
+  "lastCheckedAt": "2026-11-20T03:51:18.506Z",
   "seenPostIds": {
-    "a41fa042af2d383aa2e138e5d8f549886303b398ef7ef7ae73aaede3c9effe63": {
-      "seenAt": "2026-11-17T10:01:22.692Z",
-      "title": "이준석 \"수험장 전파 탐지 앱 개발\"‥교육부에 한시 허용 요청 - MBC 뉴스",
-      "targetName": "이준석"
-    },
-    "e2c401b541d155e3828c6b4b30291b077f431a3f1d35490211c9b2f3c6d39e62": {
-      "seenAt": "2026-11-17T10:01:23.501Z",
-      "title": "'하버드 컴공과' 이준석, 비행기서 뚝딱…'AI 커닝 탐지 앱' 공개 - 한국경제",
-      "targetName": "이준석"
-    },
-    "c6acd154047749138d3900e21aba19ead1fae7d9fd8f4a961b87bd6037b6276a": {
-      "seenAt": "2026-11-17T10:01:24.283Z",
-      "title": "이준석 \"교육부 답변 한숨…비행기서 코딩, AI 커닝 방지 앱 배포\" - JTBC",
-      "targetName": "이준석"
-    },
     "7ffe4db4fed296e3d32ce74ba837f56b8e61d24cd00522d9c749c6114e4b7fb1": {
       "seenAt": "2026-11-17T10:11:25.241Z",
       "title": "'한라산 꼭대기'서도 코딩하던 이준석, 'AI 컨닝 전파' 탐지 앱 개발 - 머니투데이 - 머니투데이",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-20T03:41:17.685Z",
       "title": "[포토] 구호 외치는 조국혁신당 신장식 대표 - 천지일보",
       "targetName": "신장식"
+    },
+    "5bc1c568e48a715024e554fe0e87d7542eaee51c4b652e87e5d558791c8d81ef": {
+      "seenAt": "2026-11-20T03:51:19.809Z",
+      "title": "[포토] 신장식 대표, 조희대 대법원장 탄핵 추진 촉구 - 파이낸스투데이",
+      "targetName": "신장식"
+    },
+    "13bec633050affe2df42cd89d790cac8575cda27b9a9387360ebdb10749111ab": {
+      "seenAt": "2026-11-20T03:51:20.534Z",
+      "title": "조국, 일본 입국 거부에 \"이재용도 문제 없어…이승철·김창열 사례인 듯\" - JTBC",
+      "targetName": "조국"
+    },
+    "741d3f5356432548119666aba48858aa872ef3819a6f73918a9ed71cb08087bd": {
+      "seenAt": "2026-11-20T03:51:21.217Z",
+      "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
+      "targetName": "신장식"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "5bc1c568e48a715024e554fe0e87d7542eaee51c4b652e87e5d558791c8d81ef",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "[포토] 신장식 대표, 조희대 대법원장 탄핵 추진 촉구 - 파이낸스투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5wYWw1b2tCSlhGSW5WcUMzX2FfQml1aDVFelR1RXgzT1Z4M2dWMWVnekkzUVdkYmJLZnN2amwyMnZRWVI0dHIzWmh5MkVzRTBkd2NZbEZab3kxRUVJNlY1cXhpZVBGMWVqQVRpaQ?oc=5\" target=\"_blank\">[포토] 신장식 대표, 조희대 대법원장 탄핵 추진 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸스투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wYWw1b2tCSlhGSW5WcUMzX2FfQml1aDVFelR1RXgzT1Z4M2dWMWVnekkzUVdkYmJLZnN2amwyMnZRWVI0dHIzWmh5MkVzRTBkd2NZbEZab3kxRUVJNlY1cXhpZVBGMWVqQVRpaQ?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 01:26:55 GMT",
-        "source": "파이낸스투데이",
-        "ageHours": 1.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "13bec633050affe2df42cd89d790cac8575cda27b9a9387360ebdb10749111ab",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국, 일본 입국 거부에 \"이재용도 문제 없어…이승철·김창열 사례인 듯\" - JTBC",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DTm1IUmNwcGJVMzZ1Z3k3VDRLdGtTZlBZRjBtZVdpUFNKQnlsdkE3c1gtbmZuLWg2MkM0NjcxOUlzeHdqMjZGbWN4dEI5WmlFbnc?oc=5\" target=\"_blank\">조국, 일본 입국 거부에 \"이재용도 문제 없어…이승철·김창열 사례인 듯\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DTm1IUmNwcGJVMzZ1Z3k3VDRLdGtTZlBZRjBtZVdpUFNKQnlsdkE3c1gtbmZuLWg2MkM0NjcxOUlzeHdqMjZGbWN4dEI5WmlFbnc?oc=5",
-        "pubDate": "Thu, 19 Nov 2026 20:12:06 GMT",
-        "source": "JTBC",
-        "ageHours": 7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "741d3f5356432548119666aba48858aa872ef3819a6f73918a9ed71cb08087bd",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZRHhEaTVQNGNBNVdYZktNeUFpSG5iNGFFTm1ya1ktaktNNWg5X0stWjJXano0b3RsbUYyd0ZXeHJNNHBocXh1LTUwcXRvalB0QVJrSnZnMFdOVGpJVldISNIBYEFVX3lxTFBZRHhEaTVQNGNBNVdYZktNeUFpSG5iNGFFTm1ya1ktaktNNWg5X0stWjJXano0b3RsbUYyd0ZXeHJNNHBocXh1LTUwcXRvalB0QVJrSnZnMFdOVGpJVldISA?oc=5\" target=\"_blank\">신장식 대표, 조희대 대법원장 탄핵 추진 기자회견</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZRHhEaTVQNGNBNVdYZktNeUFpSG5iNGFFTm1ya1ktaktNNWg5X0stWjJXano0b3RsbUYyd0ZXeHJNNHBocXh1LTUwcXRvalB0QVJrSnZnMFdOVGpJVldISNIBYEFVX3lxTFBZRHhEaTVQNGNBNVdYZktNeUFpSG5iNGFFTm1ya1ktaktNNWg5X0stWjJXano0b3RsbUYyd0ZXeHJNNHBocXh1LTUwcXRvalB0QVJrSnZnMFdOVGpJVldISA?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:24:49 GMT",
-        "source": "연합뉴스",
-        "ageHours": 2.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "6245cd06b222059ad1e08539c14b1800a2a154c96a303148b7fd73989e58d12e",
@@ -2690,6 +2642,54 @@
         "pubDate": "Fri, 20 Nov 2026 01:06:00 GMT",
         "source": "JTBC",
         "ageHours": 2.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b4dc34d2be61eb1e633748bc71a967dbaa8bb00a765eaf00aac5c2d366067cf5",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 \"준비한 기량 발휘하길\"…與, 수험생 격려·부정행위 엄단 강조 - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBVMi1vaTZEbVFXQ1RSbGtqWU1ES1FFOE43bWQ5UGFnTzJMdzZsOXllTTEyMDlDaHdOTnVWUXJrcmMxTzFNVG5NUHdVdzJTSW5SSjREM2tlQm5ISTFKUkdDLTBZZDVuNTloaVRKStIBckFVX3lxTE8yVXdDSDRaRnFnVzFmYWI0SnlIY2JmV20teXJuVWx1UnJKdVhjdnRJSGVPX0pNMVpuNFpZb3JRZjJDRk9uT1FkajRlUXBLaThUMzlLUFBQX2JrWk0zY3N5U1djc3dHNnlHbF83T203U1l3QQ?oc=5\" target=\"_blank\">김민석 \"준비한 기량 발휘하길\"…與, 수험생 격려·부정행위 엄단 강조 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVMi1vaTZEbVFXQ1RSbGtqWU1ES1FFOE43bWQ5UGFnTzJMdzZsOXllTTEyMDlDaHdOTnVWUXJrcmMxTzFNVG5NUHdVdzJTSW5SSjREM2tlQm5ISTFKUkdDLTBZZDVuNTloaVRKStIBckFVX3lxTE8yVXdDSDRaRnFnVzFmYWI0SnlIY2JmV20teXJuVWx1UnJKdVhjdnRJSGVPX0pNMVpuNFpZb3JRZjJDRk9uT1FkajRlUXBLaThUMzlLUFBQX2JrWk0zY3N5U1djc3dHNnlHbF83T203U1l3QQ?oc=5",
+        "pubDate": "Thu, 19 Nov 2026 15:41:23 GMT",
+        "source": "머니투데이",
+        "ageHours": 12.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "6ae2386e3191f8646cc2c71352d7f9d001c0dd7336020fb1bae33240b0baa32f",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "[단독] '독도 지킴이' 서경덕 \"日 입국 거부당한 적 없다\" … 조국은 애꿎은 독도 탓 - 뉴데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9rYUJMSWdHQ29TZ0duUnBoUVNZM0IxdlM0NGJpMk5fakdYT0c5ZFY2ck1XWDRuc1RDVy11UlppaDJkWFV5NW9WQzdEVWFCS0sxVTIzakpmZUpiY0NPcDd2UXVfbUxkV3NINTAxUF91aEdIRmxXa2xiSHI3WdIBgAFBVV95cUxNajl4ZE5acHVjS2xtRExkZTRKdV94RDlHUktvQi1vOHdwS25CVkEtUnJSUHgzSlZsdEplSWhKcHpuV29TRE5sUGZDSGhEaWNJVW5FcWVLUjdYMVAweExhS0FobU9IZzlhcVRYOURPOXB3c3pxYlpPdmFxUFZxWVlDUg?oc=5\" target=\"_blank\">[단독] '독도 지킴이' 서경덕 \"日 입국 거부당한 적 없다\" … 조국은 애꿎은 독도 탓</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rYUJMSWdHQ29TZ0duUnBoUVNZM0IxdlM0NGJpMk5fakdYT0c5ZFY2ck1XWDRuc1RDVy11UlppaDJkWFV5NW9WQzdEVWFCS0sxVTIzakpmZUpiY0NPcDd2UXVfbUxkV3NINTAxUF91aEdIRmxXa2xiSHI3WdIBgAFBVV95cUxNajl4ZE5acHVjS2xtRExkZTRKdV94RDlHUktvQi1vOHdwS25CVkEtUnJSUHgzSlZsdEplSWhKcHpuV29TRE5sUGZDSGhEaWNJVW5FcWVLUjdYMVAweExhS0FobU9IZzlhcVRYOURPOXB3c3pxYlpPdmFxUFZxWVlDUg?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 00:48:00 GMT",
+        "source": "뉴데일리",
+        "ageHours": 3.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "bf9a99493d5b81b3accdb3c943f99499cd5b91223f070a5417bf95a88f0c274a",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "[포토] 조희대 탄핵 추진 기자회견하는 신장식 대표 - 천지일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUUJhNmF3WE9pRjh3bVQ0UV9tTXpDVHE2T2RXVVhldHhpcjNpd0VZWWRnTDNlVzV1S3BmNHJoUDVYNllqTUFzVV9yREZsNjhxX1E2MWR2UVBOWi1rUXlFRzM1RjFZNDdydVE?oc=5\" target=\"_blank\">[포토] 조희대 탄핵 추진 기자회견하는 신장식 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUUJhNmF3WE9pRjh3bVQ0UV9tTXpDVHE2T2RXVVhldHhpcjNpd0VZWWRnTDNlVzV1S3BmNHJoUDVYNllqTUFzVV9yREZsNjhxX1E2MWR2UVBOWi1rUXlFRzM1RjFZNDdydVE?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 02:45:46 GMT",
+        "source": "천지일보",
+        "ageHours": 1.1
       },
       "delivered": [],
       "archived": false
