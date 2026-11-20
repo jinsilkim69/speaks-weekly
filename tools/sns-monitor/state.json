@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T17:11:19.755Z",
+  "lastCheckedAt": "2026-11-20T17:21:16.372Z",
   "seenPostIds": {
-    "0b772906c004c1434eaf3b9433ef02330f3d1d51cb808139734519896d790118": {
-      "seenAt": "2026-11-17T23:21:18.444Z",
-      "title": "Senator Slotkin says Trump “hitting rock bottom” with call to prosecute her, others - WKZO",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "1b91773ca650a3a8d099873c7cde40718d4dae3961d4f420d632fc5851c0aa41": {
       "seenAt": "2026-11-17T23:21:19.048Z",
       "title": "[속보] 추미애 “김민석, 윤리위 판단 받아야...‘신천지 비밀연합’ 근거 없어” - 경기일보",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-20T17:11:21.166Z",
       "title": "김민석 “민주당, 조희대 탄핵 결정…역사적 기회주의자들에게 면죄부” - 로리더",
       "targetName": "김민석"
+    },
+    "b2a436e444c6c73110a7b1a7e175c7cf586b8a8d10751550752ac62b5ab6539e": {
+      "seenAt": "2026-11-20T17:21:17.447Z",
+      "title": "What Trump pardon means for Pete Rose's Hall of Fame case - Cincinnati Enquirer",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

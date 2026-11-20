@@ -402,5 +402,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b2a436e444c6c73110a7b1a7e175c7cf586b8a8d10751550752ac62b5ab6539e",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "What Trump pardon means for Pete Rose's Hall of Fame case - Cincinnati Enquirer",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTR0cUM0YldDV1I2aVJyMGNjRkpPdkQ2UTVhbTVrNDZQNUdHTlZxUUQxSEcwbEoxdzNUV1QzMjd3aVJwOHo3Q2hrTFMzTjg5aHVuemJNd2lIVjA0VE1FWHBNR3JlR3JnNmRkLVZfMU01cUg0eE8ycDVrR3gzbnEwUU94U1JnVThYQUVFMG1wTG1BbUFJZ3dqLVlyeTZYRU9zaEphT01LRmZ2RGdnQW9HNjVSZHIzR3JmUmVqLXNRa0thUQ?oc=5\" target=\"_blank\">What Trump pardon means for Pete Rose's Hall of Fame case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cincinnati Enquirer</font>",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTR0cUM0YldDV1I2aVJyMGNjRkpPdkQ2UTVhbTVrNDZQNUdHTlZxUUQxSEcwbEoxdzNUV1QzMjd3aVJwOHo3Q2hrTFMzTjg5aHVuemJNd2lIVjA0VE1FWHBNR3JlR3JnNmRkLVZfMU01cUg0eE8ycDVrR3gzbnEwUU94U1JnVThYQUVFMG1wTG1BbUFJZ3dqLVlyeTZYRU9zaEphT01LRmZ2RGdnQW9HNjVSZHIzR3JmUmVqLXNRa0thUQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 17:14:00 GMT",
+    "source": "Cincinnati Enquirer",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] What Trump pardon means for Pete Rose's Hall of Fame case",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
