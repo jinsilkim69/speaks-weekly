@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T02:51:17.136Z",
+  "lastCheckedAt": "2026-11-20T03:01:16.835Z",
   "seenPostIds": {
-    "e39c84324156a882e9f41aedf1128d2addd510e35db9007286356216eb767a0d": {
-      "seenAt": "2026-11-17T09:11:19.442Z",
-      "title": "정청래 \"자격미달자는 나서지 말라\" - 국제뉴스",
-      "targetName": "정청래"
-    },
-    "49eb42fe590acb6aa03b6868e9135383826c74374731f6ee3d87979a3c0131ff": {
-      "seenAt": "2026-11-17T09:11:20.055Z",
-      "title": "송영길 “金·鄭 만나서 풀어야”…정청래 “자격 미달자 나서지 말라” - 중앙일보",
-      "targetName": "정청래"
-    },
-    "ddfc761c06fa4cc0ffa19fd38a6d7d4e38ae77e8999299487eca0f48e09764da": {
-      "seenAt": "2026-11-17T09:11:20.654Z",
-      "title": "[오마이포토2026] 의총 참석한 정청래-김민석 - OhmyNews",
-      "targetName": "정청래"
-    },
     "f1efd638eeaf083d847efcf0e30e7aab911b3dfb3b3a8624a85418e95b28c07d": {
       "seenAt": "2026-11-17T09:21:19.719Z",
       "title": "정청래, 김민석과 타협 제안한 송영길에 “자격 미달 나서지 마시라” - 채널A",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-20T02:51:19.698Z",
       "title": "[막전막후] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나 - 펜앤마이크",
       "targetName": "정청래"
+    },
+    "955ac6304e992c554a44e47202d79e2470692150b6594561e7dccab74a0dfc99": {
+      "seenAt": "2026-11-20T03:01:17.965Z",
+      "title": "한동훈, 조희대 탄핵 추진에 “국헌문란 목적의 내란”… 이준석은 李 재판 재개 촉구 - 세계일보",
+      "targetName": "이준석"
+    },
+    "ed53d363ffe917b67ee5a6aa419d8a42c6b515925de3a0841e4963fe02b776ad": {
+      "seenAt": "2026-11-20T03:01:18.596Z",
+      "title": "[오마이포토2026] 신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" - OhmyNews",
+      "targetName": "신장식"
+    },
+    "40e3be30596eb54e5f6a162eee8123764942d84637d5785155da8e70b7b22bcb": {
+      "seenAt": "2026-11-20T03:01:19.244Z",
+      "title": "신장식 \"조희대 탄핵안 오늘 국회 제출·내일 표결하자\" - 뉴스1",
+      "targetName": "신장식"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "955ac6304e992c554a44e47202d79e2470692150b6594561e7dccab74a0dfc99",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "한동훈, 조희대 탄핵 추진에 “국헌문란 목적의 내란”… 이준석은 李 재판 재개 촉구 - 세계일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nbTRLVUZEV0Y2V2NlalFZUzY3dDlpdjFhU3ZuRHE2WmhSLXV1M3gzb01wTmx4eFJRbkNQdE9udnpIb1hvR2dYSHFNNWF4bTRISjB4ZjB1ckHSAVRBVV95cUxQVmdoN1dacms5NmlsS2NDemtwVUZKa05pQ3hoNktrUDhlakU0cWNxRlVIbVQ0aWEzWW1zUHNWMFF4RV9ES3U2bWRSQjNITDk3U21xTFQ?oc=5\" target=\"_blank\">한동훈, 조희대 탄핵 추진에 “국헌문란 목적의 내란”… 이준석은 李 재판 재개 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nbTRLVUZEV0Y2V2NlalFZUzY3dDlpdjFhU3ZuRHE2WmhSLXV1M3gzb01wTmx4eFJRbkNQdE9udnpIb1hvR2dYSHFNNWF4bTRISjB4ZjB1ckHSAVRBVV95cUxQVmdoN1dacms5NmlsS2NDemtwVUZKa05pQ3hoNktrUDhlakU0cWNxRlVIbVQ0aWEzWW1zUHNWMFF4RV9ES3U2bWRSQjNITDk3U21xTFQ?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 02:10:32 GMT",
-        "source": "세계일보",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ed53d363ffe917b67ee5a6aa419d8a42c6b515925de3a0841e4963fe02b776ad",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "[오마이포토2026] 신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" - OhmyNews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5KWVotbFY5MUQ3b3VSbFVpT3V4V2VDZ0o5UmFXVVBieUduZGUwd3dFR3VrLVc0OTBEcm1PNmd1RVJYcUlWWmlGNjdrZ1l5dzhlMktQV0VZcGdpdUZnTTJWbG9hRUotY2NweVo0SG1PaGpVU0N1dlpN?oc=5\" target=\"_blank\">[오마이포토2026] 신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KWVotbFY5MUQ3b3VSbFVpT3V4V2VDZ0o5UmFXVVBieUduZGUwd3dFR3VrLVc0OTBEcm1PNmd1RVJYcUlWWmlGNjdrZ1l5dzhlMktQV0VZcGdpdUZnTTJWbG9hRUotY2NweVo0SG1PaGpVU0N1dlpN?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 02:16:00 GMT",
-        "source": "OhmyNews",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "40e3be30596eb54e5f6a162eee8123764942d84637d5785155da8e70b7b22bcb",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 \"조희대 탄핵안 오늘 국회 제출·내일 표결하자\" - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTHd2Z3lNeGROV2RNbC1UV0oxUmF3NVphVUxwNkcxcHh1cWhHWU5TR2gtRGdOLXYwVVg5SWE3bkRCTV91WUVGMVZtam9mUWZqLVpYOUhzM3FQdw?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵안 오늘 국회 제출·내일 표결하자\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTHd2Z3lNeGROV2RNbC1UV0oxUmF3NVphVUxwNkcxcHh1cWhHWU5TR2gtRGdOLXYwVVg5SWE3bkRCTV91WUVGMVZtam9mUWZqLVpYOUhzM3FQdw?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 00:39:55 GMT",
-        "source": "뉴스1",
-        "ageHours": 2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "5784db3c0b4d8d241cbe9bd3306e852aee97dac700255d7b2a7973ec0388f252",
@@ -2722,6 +2674,54 @@
         "pubDate": "Fri, 20 Nov 2026 01:58:11 GMT",
         "source": "아이뉴스24",
         "ageHours": 0.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ae7a7b0a79eaffc9e624de409ac879de2dfaa7df32af980e1c958adbfa84747c",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "장동혁 \"조희대 탄핵은 자살폭탄 버튼\" 홍준표 \"전두환식 폭거\" 한동훈 \"국헌문란 내란\" - 매일신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NbUhYVjVYVTlSb1RvMlBzOUpjZlcxYXJxVi1vOENMdWFhYWF6aGZ1OUdqS05uU1VVcW96YWhCZlI3OTF1Yi1UMzg3Tm5HN2NpSGZEb0VYUE5ZNDFCQ1lJZWl3?oc=5\" target=\"_blank\">장동혁 \"조희대 탄핵은 자살폭탄 버튼\" 홍준표 \"전두환식 폭거\" 한동훈 \"국헌문란 내란\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NbUhYVjVYVTlSb1RvMlBzOUpjZlcxYXJxVi1vOENMdWFhYWF6aGZ1OUdqS05uU1VVcW96YWhCZlI3OTF1Yi1UMzg3Tm5HN2NpSGZEb0VYUE5ZNDFCQ1lJZWl3?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 02:48:53 GMT",
+        "source": "매일신문",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ec39d8e0a839d8068f9a214f129414113e28bf485055335f542562c4598f99da",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "[포토] 구호 외치는 조국혁신당 신장식 대표 - 천지일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB0aXR5dzNFN1gza0l2VVA0Qm82WlJzajh0RWVXOHJucjhDWlVZdTdHTllLOGJzZmRQOTVIODR1YXBfNXhFNzdCZUpRSHVBRXc1VGRKQTkwOXh5MGJ2WGVDa21WQnpyb2o3SXc?oc=5\" target=\"_blank\">[포토] 구호 외치는 조국혁신당 신장식 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0aXR5dzNFN1gza0l2VVA0Qm82WlJzajh0RWVXOHJucjhDWlVZdTdHTllLOGJzZmRQOTVIODR1YXBfNXhFNzdCZUpRSHVBRXc1VGRKQTkwOXh5MGJ2WGVDa21WQnpyb2o3SXc?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 02:44:26 GMT",
+        "source": "천지일보",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5bc1c568e48a715024e554fe0e87d7542eaee51c4b652e87e5d558791c8d81ef",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "[포토] 신장식 대표, 조희대 대법원장 탄핵 추진 촉구 - 파이낸스투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5wYWw1b2tCSlhGSW5WcUMzX2FfQml1aDVFelR1RXgzT1Z4M2dWMWVnekkzUVdkYmJLZnN2amwyMnZRWVI0dHIzWmh5MkVzRTBkd2NZbEZab3kxRUVJNlY1cXhpZVBGMWVqQVRpaQ?oc=5\" target=\"_blank\">[포토] 신장식 대표, 조희대 대법원장 탄핵 추진 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸스투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wYWw1b2tCSlhGSW5WcUMzX2FfQml1aDVFelR1RXgzT1Z4M2dWMWVnekkzUVdkYmJLZnN2amwyMnZRWVI0dHIzWmh5MkVzRTBkd2NZbEZab3kxRUVJNlY1cXhpZVBGMWVqQVRpaQ?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:26:55 GMT",
+        "source": "파이낸스투데이",
+        "ageHours": 1.6
       },
       "delivered": [],
       "archived": false

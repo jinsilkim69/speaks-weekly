@@ -8633,3 +8633,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 한동훈, 조희대 탄핵 추진에 “국헌문란 목적의 내란”… 이준석은 李 재판 재개 촉구 - 세계일보
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 조희대 탄핵 추진에 “국헌문란 목적의 내란”… 이준석은 李 재판 재개 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nbTRLVUZEV0Y2V2NlalFZUzY3dDlpdjFhU3ZuRHE2WmhSLXV1M3gzb01wTmx4eFJRbkNQdE9udnpIb1hvR2dYSHFNNWF4bTRISjB4ZjB1ckHSAVRBVV95cUxQVmdoN1dacms5NmlsS2NDemtwVUZKa05pQ3hoNktrUDhlakU0cWNxRlVIbVQ0aWEzWW1zUHNWMFF4RV9ES3U2bWRSQjNITDk3U21xTFQ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** [오마이포토2026] 신장식 "조희대 탄핵 추진 환영... 내일 표결하자" - OhmyNews
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대 탄핵 추진 환영... 내일 표결하자"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE5KWVotbFY5MUQ3b3VSbFVpT3V4V2VDZ0o5UmFXVVBieUduZGUwd3dFR3VrLVc0OTBEcm1PNmd1RVJYcUlWWmlGNjdrZ1l5dzhlMktQV0VZcGdpdUZnTTJWbG9hRUotY2NweVo0SG1PaGpVU0N1dlpN?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "조희대 탄핵안 오늘 국회 제출·내일 표결하자" - 뉴스1
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대 탄핵안 오늘 국회 제출·내일 표결하자"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTHd2Z3lNeGROV2RNbC1UV0oxUmF3NVphVUxwNkcxcHh1cWhHWU5TR2gtRGdOLXYwVVg5SWE3bkRCTV91WUVGMVZtam9mUWZqLVpYOUhzM3FQdw?oc=5)
+
+---
+
