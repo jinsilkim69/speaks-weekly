@@ -427,5 +427,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "44e29cc8d74a1ec997ef16c0c42c5745573556c4b8f6e9ad28e5719029bfa639",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈, 제명 징계 조작 의혹에 \"진실 드러나\"…장동혁엔 \"과거 돌아보라\" - JTBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Fdkh0WVRYVlpDejFFN3FndUtrT0ZqZDRnLTJLQUFqRnExWFl2ZjBlV3d0WE82UXRkTl9ocVZxVXdGajdEbHV6UjY2ZUltTll3X2s5aQ?oc=5\" target=\"_blank\">한동훈, 제명 징계 조작 의혹에 \"진실 드러나\"…장동혁엔 \"과거 돌아보라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Fdkh0WVRYVlpDejFFN3FndUtrT0ZqZDRnLTJLQUFqRnExWFl2ZjBlV3d0WE82UXRkTl9ocVZxVXdGajdEbHV6UjY2ZUltTll3X2s5aQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 08:54:00 GMT",
+    "source": "JTBC",
+    "ageHours": 9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈, 제명 징계 조작 의혹에 \"진실 드러나\"…장동혁엔 \"과거 돌아보라\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

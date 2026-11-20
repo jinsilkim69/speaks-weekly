@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-20T17:41:21.301Z",
+  "lastCheckedAt": "2026-11-20T17:51:17.417Z",
   "seenPostIds": {
     "4128a1d3238dc1b2aab810465f61f4fb7aa44a797ece80dcaf1761db9142f0d5": {
       "seenAt": "2026-11-17T23:51:19.386Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-20T17:21:17.447Z",
       "title": "What Trump pardon means for Pete Rose's Hall of Fame case - Cincinnati Enquirer",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "44e29cc8d74a1ec997ef16c0c42c5745573556c4b8f6e9ad28e5719029bfa639": {
+      "seenAt": "2026-11-20T17:51:18.634Z",
+      "title": "한동훈, 제명 징계 조작 의혹에 \"진실 드러나\"…장동혁엔 \"과거 돌아보라\" - JTBC",
+      "targetName": "한동훈"
     }
   },
   "pending": []
