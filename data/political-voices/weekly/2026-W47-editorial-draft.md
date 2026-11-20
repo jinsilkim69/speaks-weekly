@@ -8594,3 +8594,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵은 국헌문란 목적의 내란…가능성 0%" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵은 국헌문란 목적의 내란…가능성 0%"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9JU0I4SHdTZ2QwRHV2NUxRcGNhenFsSXZpSFpMbDNpM19FYm9peXlpNlhMdkFubEtUSFM5OEdPLXhJdncwaTBiLVJ3bVBwOFpJYTdEdnhScnRZWDI1X1dMY0pMaDNpZ0ZoYWt3WtIBckFVX3lxTE1mWTZDMU9lV2NGUTd2VTJKQXRzZmpfenRKSzB5QzFwdkZqVDY2OFQydENmbDZ0X3VaNUwteHZsQjUyRkNoR1dXRHV6Ujd2WkpmZjJxRE5DaTFRc1JLRzEyM2ZmU0ZoY1dHYmQ2MmxOLXhsdw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "대법원장 탄핵은 내란…민주, 헌재서 기각될 줄 알아" - 더팩트
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "대법원장 탄핵은 내란…민주, 헌재서 기각될 줄 알아"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UNlNHbG5FNHJQVnZSVnowSWxrSndtNWJLWmZpOGtNazlnSUtWeHBCY1Jfa3RtdGxnMm1sT3h5dWtyZXVRY1luRzUyUnc1eXNJUHdJ0gFTQVVfeXFMT1Q2U0dsbkU0clBWdlJWejBJbGtKd201YktaZmk4a01rOWdJS1Z4cEJjUl9rdG10bGcybWxPeHl1a3JldVFjWW5HNTJSdzV5c0lQd0k?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [막전막후] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나 - 펜앤마이크
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1vVDZDSE5zc0huMXJuc1MwbHJneTBXbFJsazRpRmxSVDhnaWJkamhIMmVCdUZFUS1sYU1pVmkyT3NNX3lTQ1g4all5eXFWM0J5RmQ5Z0tkV1FsTkNnYnZadGlaYTJSVmN4TS1HeXBHd9IBb0FVX3lxTE1vVDZDSE5zc0huMXJuc1MwbHJneTBXbFJsazRpRmxSVDhnaWJkamhIMmVCdUZFUS1sYU1pVmkyT3NNX3lTQ1g4all5eXFWM0J5RmQ5Z0tkV1FsTkNnYnZadGlaYTJSVmN4TS1HeXBHdw?oc=5)
+
+---
+
