@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T12:31:18.196Z",
+  "lastCheckedAt": "2026-11-20T12:41:17.400Z",
   "seenPostIds": {
-    "55eb1879ac6e845a950d3087e4e109e3e3105f4388bb82e6797afcbbacfd3cd8": {
-      "seenAt": "2026-11-17T15:51:22.391Z",
-      "title": "송영길 ‘석청 대타협’ 제안에…정청래 “풉, 자격미달자 나서지 마시라” - 시사저널",
-      "targetName": "송영길"
-    },
-    "dd7310caee8fdc64233ae576b59c4c725bd83486dae0d93e9b432fd565c10f9a": {
-      "seenAt": "2026-11-17T16:11:29.529Z",
-      "title": "이재명 대통령 \"시험 후에도 끝까지 찾아낼 것\"…수능 부정행위 경고 - 경기신문",
-      "targetName": "이재명"
-    },
-    "da082b5017e81f25bffb89ff5281dce4d04c2ef6ee4a9bdab575f9f27f30c7b6": {
-      "seenAt": "2026-11-17T16:51:19.740Z",
-      "title": "Trump Media Climbs 3% After Buying Back $100 Million in Convertible Notes; Rumble Slides 3%, Meta Dips - 24/7 Wall St.",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "093df743222447d8591acc6c283b4d3d9c2d1d6372031c5b6e6aedb6e3bee2f9": {
       "seenAt": "2026-11-17T17:11:21.115Z",
       "title": "“한동훈 떨거지들 버릇 고치고”…국힘 윤리위원 ‘조작징계’ 증거 제시 - 중앙신문",
@@ -2515,6 +2500,21 @@
       "seenAt": "2026-11-20T12:31:21.120Z",
       "title": "함께모여 논의하는 민주당-조국혁신당 - 국제뉴스",
       "targetName": "조국"
+    },
+    "d12e1f0fd041954942cd827edb255cfbf6de79b035b8866465fcfd721360a5fb": {
+      "seenAt": "2026-11-20T12:41:18.657Z",
+      "title": "김민석 “민주당, 조희대 탄핵 결정…역사적 기회주의자들에게 면죄부” - 로리더",
+      "targetName": "김민석"
+    },
+    "2d792a19cf9b620cf03efda9c4fdc7d9ef8766784a5eec85b2004a363a3bcc9d": {
+      "seenAt": "2026-11-20T12:41:19.341Z",
+      "title": "\"인천의 15번째 국회의원\" 김형연 조국혁신당 연수구 지역위원장, \"건물 외형보다 주민 삶 책임지는 정치 펼칠 것\" [굿모닝 인천-주간핫이슈] - 경인방송 뉴스",
+      "targetName": "조국"
+    },
+    "f48d7b9f919c002cbb7090fcd2ad368ab073efbc9abfe786744b5828665b6c32": {
+      "seenAt": "2026-11-20T12:41:20.027Z",
+      "title": "Trump, 80, Called Out for Embarrassing Error in Pardon Post - The Daily Beast",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

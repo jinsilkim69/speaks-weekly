@@ -9816,3 +9816,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 “민주당, 조희대 탄핵 결정…역사적 기회주의자들에게 면죄부” - 로리더
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 “민주당, 조희대 탄핵 결정…역사적 기회주의자들에게 면죄부”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zNEc3Mk1sdExocjBOQ1dSRFVCckJFamlFUVV4aS15MXBLUEk0WjBZckdzbUV3NVpoUVJCSzBLQ0ZTanEzZG1MbU9NZURLWW84UWVVY1hXU1l3dWI2UkNWR1JBNFhjcWJ3VDBPTEx30gFyQVVfeXFMUG5fUm1Bemg1TFBtRnBXMll6NGJpT2laM05od0lBMjd5OGktdHdUTTFJUUVYWlhSWmttWmVkbUFyZExLTnBRaDE1ZVZmRnJ6MG1fcWpXMHJCbS10RnNvZFZfakNsQ3dzZEVpeUFCWTRpalpB?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** "인천의 15번째 국회의원" 김형연 조국혁신당 연수구 지역위원장, "건물 외형보다 주민 삶 책임지는 정치 펼칠 것" [굿모닝 인천-주간핫이슈] - 경인방송 뉴스
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "인천의 15번째 국회의원" 김형연 조국혁신당 연수구 지역위원장, "건물 외형보다 주민 삶 책임지는 정치 펼칠 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lelhheS1iVnZtYzZRMUp3dGtBSEhpS0czSVJBRTVjUG44WUV6M3hfMDg3TkUxcmJtcFRUdk95LW9WSGtQYXBKUWZ0dGgta2R1a0puTC15ZW52N09xWGhjamJXYkk?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump, 80, Called Out for Embarrassing Error in Pardon Post - The Daily Beast
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump, 80, Called Out for Embarrassing Error in Pardon Post
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMingFBVV95cUxPTTk5UlNPX0NZWDNCZkpVTjFFeG9XcHFWZjBDdk1uU2RMQmt5SUhuTjRDczhEYlFyQlFnLWJsWnFuNHk5S3BVOUxGclhYend6dnFMWGNVUEJrYUp2VEJtVVJTcjNaaExqWFhNaEZ3M2JMZU5KblhrYmV6a3R3dmMtVkw4NjIyVkU2VXBncEIzVkV1YkJ4eDJhNjI3X3lOQQ?oc=5)
+
+---
+
