@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T16:21:26.434Z",
+  "lastCheckedAt": "2026-11-20T16:25:26.101Z",
   "seenPostIds": {
-    "79d4d378f24799804e06c3469a9ffa3f1c826b2bd57562ef21b9ad11bbcfbc80": {
-      "seenAt": "2026-11-17T23:11:16.945Z",
-      "title": "추미애 “김민석 사과로 끝낼 일 아냐”…민주당 윤리심판원 판단 촉구 - 이투데이",
-      "targetName": "김민석"
-    },
     "8dc537939c06e19e79d83484e5d97ea5ddec8026e15ece845593c9b78e361c1d": {
       "seenAt": "2026-11-17T23:11:17.534Z",
       "title": "정청래 \"'대타협 촉구' 송영길, 자격미달자 나서지 마세요\" - 이데일리",
@@ -2504,6 +2499,11 @@
     "af9b2d2ee314b7a1b9e555a195a214518f02057e218b7f3ae22d7f8e730709dd": {
       "seenAt": "2026-11-20T16:21:27.967Z",
       "title": "President Trump to hold news conference after returning from China - 11Alive.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "c69bb13451c36435bdbb39d1384ca63c325d9b23c778cc4d334b83c18f5c9901": {
+      "seenAt": "2026-11-20T16:25:27.425Z",
+      "title": "President Trump to hold news conference after returning from China - WCNC",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },

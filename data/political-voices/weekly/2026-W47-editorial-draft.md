@@ -10089,3 +10089,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** President Trump to hold news conference after returning from China - WCNC
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] President Trump to hold news conference after returning from China
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi_wFBVV95cUxORHlsb19lQ1dJTEM0TjU2OUlaOExxTzZmSG1ibGRjYWZncTNLcnBpT0Y1VEVzSEU3Xzh0Q2FMSy1BYjljUnhwTlVkaUUyOEhTZzR6a3JwMTlLMnREY2tsTEJmTGpCQUl3c1hlOGlPbm85OFpodEEyQ0ZBbmJDWi05OVlQVkRmVlNmdWYxa1NEakVsc3lGZ0twTzU3YVdueUZjOE9RX19DRkhzZDZnOHlTVXFpZi1leVRZOUl3LXNQeVdyRjY3Q2prbjhnc2UwdDBNQXVLeXVXVkNfTC0wZVVWczVYLVJmNkhNUmVrUnM3Nl9MTjNrRm1mYXFCMV9zcEE?oc=5)
+
+---
+
