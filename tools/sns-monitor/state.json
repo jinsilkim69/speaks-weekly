@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-20T04:51:22.417Z",
+  "lastCheckedAt": "2026-11-20T05:11:15.917Z",
   "seenPostIds": {
-    "f7af1872be032bdee4b2cc9314b74b5bf220f0b3af0aadfa34bfc1be26b58ab7": {
-      "seenAt": "2026-11-17T11:11:21.447Z",
-      "title": "이재명 대통령, 아세안에 ‘AI 동행·문화 창조산업’ 2대 이니셔티브 제안 - 아세안익스프레스",
-      "targetName": "이재명"
-    },
-    "0c2c21caca4a809d4e90710c5104e198544735f934b2550dcdb01275c9ec7c4f": {
-      "seenAt": "2026-11-17T11:11:22.283Z",
-      "title": "“한동훈이 개판 쳤어!”…집무실 밖에서도 들린 尹 괴성 - 중앙일보",
-      "targetName": "한동훈"
-    },
-    "ebfe352c6e572a5b8569800a53c8d7d378c5946fa3631096866318c6068b052b": {
-      "seenAt": "2026-11-17T11:11:23.053Z",
-      "title": "국힘 장동혁 대표, 한동훈 장인상 조문 - TBS 서울",
-      "targetName": "한동훈"
-    },
     "8ce83df4a0cdd2c9b9e062c7e11922bc1ee3c1209312c52c5666eaa1e8ac21fd": {
       "seenAt": "2026-11-17T11:21:24.377Z",
       "title": "송영길 '김민석과 대타협' 제안에… 정청래 \"자격 미달자 나서지 말라\" - 대전일보",
@@ -2515,7 +2500,55 @@
       "seenAt": "2026-11-20T04:51:25.596Z",
       "title": "조희대 탄핵 관련 기자회견 입장하는 신장식 대표 - 서울뉴스통신",
       "targetName": "신장식"
+    },
+    "89bd906c4bc0cbfdcb18249ef2e6f355771e0367412918238f6c15448c0a443c": {
+      "seenAt": "2026-11-20T05:11:16.989Z",
+      "title": "한동훈, ‘조희대 탄핵 드라이브’ 與에 “가능성 0%, 곱게 미쳐야” - 시사저널",
+      "targetName": "한동훈"
+    },
+    "fac78f8eee7e76415c07c5d1498c360da04ab855aa318317cc795457c67c6b69": {
+      "seenAt": "2026-11-20T05:11:17.608Z",
+      "title": "“V좀 만나달라” 김건희 문자…한동훈 다섯 번 읽씹한 이유 - 중앙일보",
+      "targetName": "한동훈"
+    },
+    "c3612e3731563d0f60b784a15e7bc370ea3ebfcf3c693b24a3d501106844fcd3": {
+      "seenAt": "2026-11-20T05:11:18.255Z",
+      "title": "조희대 탄핵 관련 기자회견하는 신장식 대표 - 서울뉴스통신",
+      "targetName": "신장식"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "168c7dbb91d5f138233256388c3fe9913aace3f514ea20a946870d807e981472",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" #shorts - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE11UU9HV2NnR0V5aEhKUFhqazBHQlhoS3B4OThoZHBPQXdjRGgzRndVYURvR2hoVWpEaVAwdDlMZDZNWlFwc1FXc0JiZFY4d2FZbmdnUXNXcGYwTkswQjl2cmRxUktsLXdBVHVpbUlweXpIVmtZVXhuQnBMVEdndjA?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" #shorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11UU9HV2NnR0V5aEhKUFhqazBHQlhoS3B4OThoZHBPQXdjRGgzRndVYURvR2hoVWpEaVAwdDlMZDZNWlFwc1FXc0JiZFY4d2FZbmdnUXNXcGYwTkswQjl2cmRxUktsLXdBVHVpbUlweXpIVmtZVXhuQnBMVEdndjA?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 04:07:04 GMT",
+        "source": "OhmyNews",
+        "ageHours": 1.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "cf200b345ff90ecc14b958042c95ddfb3286560083da09fc4a9dbb31c41dd580",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 \"조희대 탄핵 더 미룰 이유 없다⋯내일 본회의서 표결 가능\" - 아이뉴스24",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1Mm13alJ6SzMyQTJpVkRPd0FpNk9aZGJSd0VDVDVCSGQ4Mm1LNHRUejBxV0dsMzk4U2dYc2ZDX2tzN0JzVHpIYTNxQQ?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵 더 미룰 이유 없다⋯내일 본회의서 표결 가능\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아이뉴스24</font>",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1Mm13alJ6SzMyQTJpVkRPd0FpNk9aZGJSd0VDVDVCSGQ4Mm1LNHRUejBxV0dsMzk4U2dYc2ZDX2tzN0JzVHpIYTNxQQ?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 01:58:11 GMT",
+        "source": "아이뉴스24",
+        "ageHours": 3.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

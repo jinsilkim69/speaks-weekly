@@ -9101,3 +9101,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, ‘조희대 탄핵 드라이브’ 與에 “가능성 0%, 곱게 미쳐야” - 시사저널
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, ‘조희대 탄핵 드라이브’ 與에 “가능성 0%, 곱게 미쳐야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jSXIzMWsyV1luQzhTTUxjb2V2eW4wZEhIcDUzSlJXMmVpZ0VkcDc3SWZCUFpCWHB0aFEzdng0Y2lYVTZfUWw3SFg4Q2dSaW9uYXFick5FWmVINzZQU0o5dGFsUVpTdVR4Z0IzanI3TdIBc0FVX3lxTE5ZZFVsbm9tMmhIYlh1bzVtbWt0MW1SMFRDT1BGQ19PWi03NS12R1ZUWE5haXNnVWVPVnJpY1Z5VUl1cWx5WWx2SEFRMEZWdm9qN2FEaFlFNzlXcnJGRFN3QUVmbk5POTFReGtEeldlUHgtVzQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** “V좀 만나달라” 김건희 문자…한동훈 다섯 번 읽씹한 이유 - 중앙일보
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “V좀 만나달라” 김건희 문자…한동훈 다섯 번 읽씹한 이유
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE90QmowZ0NIbnBvSkhiOGVfQ3BLZ0paWXVoV25tWE1mWGRXUHBfSzhyc1U2OGtkbkdUb2VvbWFFdTM5eEMxcGVSSFRqa1ByQ3d6OGFCY1V3?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 조희대 탄핵 관련 기자회견하는 신장식 대표 - 서울뉴스통신
+
+- **수집일**: 2026-11-20 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조희대 탄핵 관련 기자회견하는 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5LY3o0Q19TUVlVQXBRNEdzYVIxN21kVjFGOGNlMk1xcmNmc2VTSDlNX2FBMjJaUmt2TXBIdVBRbmlMZmREWGZMUXo5c3BUN0NDWU5hVkJWX09nd2tKNC0xRHR4aUFoRU5rNHdiSg?oc=5)
+
+---
+
