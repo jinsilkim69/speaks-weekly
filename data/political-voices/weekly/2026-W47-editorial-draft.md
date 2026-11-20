@@ -9920,3 +9920,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** “대통령님께서 우리 곁을 떠나신 지 어느덧...” 이재명 대통령이 오늘 SNS에 올린 글 - 위키트리
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “대통령님께서 우리 곁을 떠나신 지 어느덧...” 이재명 대통령이 오늘 SNS에 올린 글
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qSEpLT3hrMEVldEltQ19GUnd5bENPTGNaU2lIQmRGTmtPT29VZVRzTTB0bzNuX0RrWERrZG4xcUlvQWR5UEVWZGJpNS1Iekk2aFdvbVhn?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 민주 ‘대법원장 탄핵 추진’에…한동훈 "국헌문란 목적 내란, 미쳐도 곱게 미쳐야" - JTBC
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주 ‘대법원장 탄핵 추진’에…한동훈 "국헌문란 목적 내란, 미쳐도 곱게 미쳐야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE83Q0doYXlkd0drT1RuYk5uOTNDM3hDUk9nN1FXT1BoeEtFcEE3UXZJdFFLXy04bWxWYUdDamhDY3V4Tmw4TUJUS0FnSm43M2ZlLXJTbg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 한덕수 파기환송에 "조희대 사법부 규탄…인정할 수 없다" - 머니투데이
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 한덕수 파기환송에 "조희대 사법부 규탄…인정할 수 없다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdDJZNFBqcTk4c3VUQmZrN09YazdyNzJaaVhMSDhEVmlKXzVnbWpCU0ZlWHdlVUhoVDhrcTJWMkxPNk9zcFNIZEZOcV9taEU2UXdYbHRPUGFHb3FfUDc2OE44VmFxbU0zb3pyOQ?oc=5)
+
+---
+
