@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-21T00:11:23.877Z",
+  "lastCheckedAt": "2026-11-21T00:21:24.226Z",
   "seenPostIds": {
     "47dca14c7ee56345042d4112f85006ddbc0edc2eb9a3d5b37d034cc5813b29ef": {
       "seenAt": "2026-11-18T01:51:29.333Z",
@@ -2500,6 +2500,11 @@
       "seenAt": "2026-11-20T23:51:18.279Z",
       "title": "Trump takes down image from his social media platform that depicted him as a Jesus-like figure - ABC News - Breaking News, Latest News and Videos",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "884f619a42169dd1b8aa1c6a243b0ff7264c9daa63baee181b78735690a3fc58": {
+      "seenAt": "2026-11-21T00:21:25.667Z",
+      "title": "나경원 \"코스피 5% 폭락…이재명 정권 무책임엔 바닥 없어\" - 이데일리",
+      "targetName": "이재명"
     }
   },
   "pending": []
