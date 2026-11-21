@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T13:11:17.700Z",
+  "lastCheckedAt": "2026-11-21T13:21:14.599Z",
   "seenPostIds": {
-    "58de35cca294a9f242a24de1fb02f7cba7dd5a9db07652a39e58c377e727c439": {
-      "seenAt": "2026-11-18T07:31:17.743Z",
-      "title": "추경호 무죄에…나경원부터 한동훈까지 \"특검의 억지수사·정치기소 귀결\" - 데일리안",
-      "targetName": "한동훈"
-    },
     "58389881486dd82518cbc67275f416fc1acf3ad200bc2d3726d1ed6b009a0ecd": {
       "seenAt": "2026-11-18T07:31:18.360Z",
       "title": "정청래까지 나섰다…민주당 계파 갈등 재격화 - 매일일보",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-21T13:11:18.848Z",
       "title": "'Incredibly creepy': Trump AI post depicts him cradling DHS secretary's teenaged son - Indy100",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "51e97d0896a615ca9e1e4bfaaf044918183ad98c847154d1e37647e0b356a6f2": {
+      "seenAt": "2026-11-21T13:21:15.759Z",
+      "title": "한동훈 의원 \"민주당, 조희대 대법원장 탄핵은 내란 자백…모두 감옥 갈 것\" - 사이렌스",
+      "targetName": "한동훈"
+    },
+    "e4b25d0f42ca1db12a2f78b56eb8ec0def3f279a2cb032b4aa10413ec2cf81c7": {
+      "seenAt": "2026-11-21T13:21:16.439Z",
+      "title": "김민석 은퇴·빅토르 안 방송 복귀…귀화 선수의 한국행, 원칙은 있는가 - 무예신문",
+      "targetName": "김민석"
     }
   },
   "pending": []
