@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T02:21:16.901Z",
+  "lastCheckedAt": "2026-11-21T02:31:19.070Z",
   "seenPostIds": {
-    "eba0309a813266ad09ec4142d637535386877a4cc1d15baa90222e66d706061c": {
-      "seenAt": "2026-11-18T02:41:18.059Z",
-      "title": "\"김민석과 대타협해야\" 송영길 제안에…정청래 \"풉, 자격미달자는 나서지 말라\" - 매일신문",
-      "targetName": "송영길"
-    },
     "0128543f65e10a72d54de66c6da880792e99e89de441cdc49b64b9cabb69e4db": {
       "seenAt": "2026-11-18T02:41:18.801Z",
       "title": "나경원 \"부정행위 1억 포상? 이준석 앱, 전문가 대책을 적극 검토하라\" - 머니투데이 - 머니투데이",
@@ -2505,6 +2500,16 @@
       "seenAt": "2026-11-21T02:21:17.966Z",
       "title": "‘최민희 사태’에 둘로 쪼개진 민주당…\"엄중 징계\" vs \"김민석 징계\"｜다시보기｜장르만 여의도 - JTBC",
       "targetName": "김민석"
+    },
+    "a94ba30bdfd5791e8c4cfa8a477718e2580a665292683e7a21137f0f840cd6ce": {
+      "seenAt": "2026-11-21T02:31:20.585Z",
+      "title": "한동훈 “제명 징계 공작 예상했지만, 내부자 증거 제시는 뜻밖” - 중앙일보",
+      "targetName": "한동훈"
+    },
+    "846608006087efaaaa91647dd6c4658676a5dd9f5622d164ffd2f808e4b32c67": {
+      "seenAt": "2026-11-21T02:31:21.328Z",
+      "title": "Trump posthumously pardons baseball 'SUPERSTAR & LEGEND' Pete Rose - WLOS",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []

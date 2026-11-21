@@ -10544,3 +10544,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “제명 징계 공작 예상했지만, 내부자 증거 제시는 뜻밖” - 중앙일보
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “제명 징계 공작 예상했지만, 내부자 증거 제시는 뜻밖”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1udEVIUnJsSUptZmgwandBZ3FKM1E1TGxVd1hLcmQ2a2hBU1lHd1YwTmFiQnU2VVliUEdIWmhDcmo1ampzYk1jdUJTR1pDWTVCanAtNkx3?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump posthumously pardons baseball 'SUPERSTAR & LEGEND' Pete Rose - WLOS
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump posthumously pardons baseball 'SUPERSTAR & LEGEND' Pete Rose
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmpOVE5DWVNFRmVSY3E0YjdYUk5IY1pWY3Z3emtVWGlpQmZ3LWxDR0J1X01xWDNHcVg5TUpYZkxRREFkNEVpdjJkYUs4NWZGM3VTaGZWTUxOd3hGVXVzeTU1Z2NudmxRN1hQOVJ5dFhHUUJENHliZFJJNHZBOVFQTVVOa1BvaFZCLUE2OVYxYWI4Yk0yNXZva2xTNmNVTDdhbWlNWV9PU0NiVlB4WUFR?oc=5)
+
+---
+
