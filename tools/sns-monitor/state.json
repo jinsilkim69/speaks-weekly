@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T08:21:16.551Z",
+  "lastCheckedAt": "2026-11-21T08:31:15.746Z",
   "seenPostIds": {
-    "c5757defb31b547a32bbe12cf9659ded88384061b34dbb47e949eac0b0542abc": {
-      "seenAt": "2026-11-18T05:41:22.742Z",
-      "title": "정청래 작심 발언 “최민희 해명 믿어, 징계 반대”…김민석 “녹취록 일부 10월 입수” - 미디어오늘",
-      "targetName": "김민석"
-    },
-    "e34132ecc9db72eb557835f5b65adedbd5b30ec9a0c9b65e9a4023f0066a9749": {
-      "seenAt": "2026-11-18T05:41:23.386Z",
-      "title": "정청래 \"최민희 징계 강력 반대…이재명 정부 성공을 위한 진심 믿는다\" - 뉴시스",
-      "targetName": "정청래"
-    },
-    "d0cdd196a4aca297fb98653d1229b03a08adb0fab52b1927a08c0ce83d7545be": {
-      "seenAt": "2026-11-18T05:51:15.070Z",
-      "title": "정청래 작심 발언 “최민희 해명 믿어, 징계 반대”…김민석 “녹취록 일부 10월 입수” - 미디어오늘",
-      "targetName": "정청래"
-    },
     "ed5feabfb3af157272ead2f06cc279843f2ca2d7266fd700f6b7c1a00d3cb474": {
       "seenAt": "2026-11-18T05:51:15.712Z",
       "title": "정청래 “최민희 징계 반대…신천지 공세가 해당 행위” - 한겨레",
@@ -2515,20 +2500,35 @@
       "seenAt": "2026-11-21T08:21:18.940Z",
       "title": "신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\" - 머니투데이 - 머니투데이",
       "targetName": "신장식"
+    },
+    "ab2728b157b6e7ff49f83e4f469ec495bfd004ecdee199bcd819aa1a182d65d5": {
+      "seenAt": "2026-11-21T08:31:16.792Z",
+      "title": "김민석 \"민주당, 큰 고민 중 하나는 청년…더 함께하고 싶다\" - 연합뉴스",
+      "targetName": "김민석"
+    },
+    "f945d68054310be7fcf34465d324593e266876e210c660494f712ba98f0265c3": {
+      "seenAt": "2026-11-21T08:31:17.422Z",
+      "title": "김민석 \"민주당 큰 고민 중 하나는 청년...함께 하고싶단 절박함\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
+    },
+    "4f035136a34c9458bff3f0cfb169247a091e6063817532b1c39cb1a047499717": {
+      "seenAt": "2026-11-21T08:31:18.078Z",
+      "title": "이재명 대통령, 울산 AI데이터센터 현장 찾아 \"세계경쟁서 속도가 생명\" - 연합뉴스",
+      "targetName": "이재명"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "ab2728b157b6e7ff49f83e4f469ec495bfd004ecdee199bcd819aa1a182d65d5",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 \"민주당, 큰 고민 중 하나는 청년…더 함께하고 싶다\" - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwR1RvdG5oT1ZYbEFTRXFPR1ZaTmJSR3d6R2cxd21PQWFwaFM1UWVNMEJWcUZhNDR3ZnhXMm4tYTg4VXhUQUt6d19aUU9GejR1Zm8xcGllSmZPVknSAWBBVV95cUxOX01paWtySFZ5VUQ4NnU2WUdIb3c2bDVzREFsQ3luYlJXTTZnbXRZOTZEbWVwNWpYZEJxelN1eVhPM043aGZCbUtjM0pBbzF6dllTNUdKWXFpdTZCd0pjVzI?oc=5\" target=\"_blank\">김민석 \"민주당, 큰 고민 중 하나는 청년…더 함께하고 싶다\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwR1RvdG5oT1ZYbEFTRXFPR1ZaTmJSR3d6R2cxd21PQWFwaFM1UWVNMEJWcUZhNDR3ZnhXMm4tYTg4VXhUQUt6d19aUU9GejR1Zm8xcGllSmZPVknSAWBBVV95cUxOX01paWtySFZ5VUQ4NnU2WUdIb3c2bDVzREFsQ3luYlJXTTZnbXRZOTZEbWVwNWpYZEJxelN1eVhPM043aGZCbUtjM0pBbzF6dllTNUdKWXFpdTZCd0pjVzI?oc=5",
-        "pubDate": "Sat, 21 Nov 2026 07:00:17 GMT",
-        "source": "연합뉴스",
+        "id": "8b9d5ec9b6502f71d31dbfbdeb70e572c4475e9694006edf314839ddcb3c7c37",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 대통령 “수능 부정행위 1건당 최소 1억원 포상” - 메디컬투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1sUWZSY0lzLXNibXN4S290eE1VZTZFZjZTNW54RDctN3FZZEVjZkVxVHpQTEVNOTlHR3dsUDRIbmVmd0FNMHVpdUx4RTBHNXBtbC0teTJwWGVVNzRpcDRFSHJHMnZPRTJ0R2hWUA?oc=5\" target=\"_blank\">이재명 대통령 “수능 부정행위 1건당 최소 1억원 포상”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">메디컬투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sUWZSY0lzLXNibXN4S290eE1VZTZFZjZTNW54RDctN3FZZEVjZkVxVHpQTEVNOTlHR3dsUDRIbmVmd0FNMHVpdUx4RTBHNXBtbC0teTJwWGVVNzRpcDRFSHJHMnZPRTJ0R2hWUA?oc=5",
+        "pubDate": "Sat, 21 Nov 2026 07:11:08 GMT",
+        "source": "메디컬투데이",
         "ageHours": 1.3
       },
       "delivered": [],
@@ -2536,16 +2536,48 @@
     },
     {
       "post": {
-        "id": "f945d68054310be7fcf34465d324593e266876e210c660494f712ba98f0265c3",
+        "id": "8973ba4988ddf84f84592bb1a09d04ee3f93d5cb812463d1ef3eb1f76f1be650",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 “민주, 조희대 탄핵 무르지 말고 12·3일 꼭 해라···모두 감옥갈 것” - 주간경향",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RWXd4TzRtRXRuQ2JORzJOQ1dKcHFjaWwyUDJZd29Zd1JESG9lamV4aHl1V2hmUS16dUw5SU15blBsTnZwdUtkSDZ1YURWTlhLSEFldDhXTXBOVHZTamc?oc=5\" target=\"_blank\">한동훈 “민주, 조희대 탄핵 무르지 말고 12·3일 꼭 해라···모두 감옥갈 것”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RWXd4TzRtRXRuQ2JORzJOQ1dKcHFjaWwyUDJZd29Zd1JESG9lamV4aHl1V2hmUS16dUw5SU15blBsTnZwdUtkSDZ1YURWTlhLSEFldDhXTXBOVHZTamc?oc=5",
+        "pubDate": "Sat, 21 Nov 2026 08:23:00 GMT",
+        "source": "주간경향",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "0aa1617157248383c02094339f12e732e99f85a801b647c8b7ff5fcde792e9a6",
         "targetId": "kim_minseok",
         "targetName": "김민석",
         "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 \"민주당 큰 고민 중 하나는 청년...함께 하고싶단 절박함\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9CRUR1RWdYLTBrNHhkbzdMT2t3THhhYmJfTWR0T3I1LU5NbXBmUFNWR09pQW1wQzV5RUxyNXZtNl9OWXVOUGMzR1BGQlk0MUdUS1F4Y2ZCS0xRY3dEZ212LTBrYnVBTUVkUF9aUNIBckFVX3lxTE1KVTRmMnl3WlI1RGM4Y0t1M0xvMGJNTFA5VGhUQ1Z3Z1JtTzdkV0FybTU4VFg1MEJKWUVIWU5EMmt5R01hTzBfaDEzWUN0R0tPWGRMa2VJVG5WSmtvYlhZRnVPZFdxMEZjREh5X2xQWTdzdw?oc=5\" target=\"_blank\">김민석 \"민주당 큰 고민 중 하나는 청년...함께 하고싶단 절박함\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CRUR1RWdYLTBrNHhkbzdMT2t3THhhYmJfTWR0T3I1LU5NbXBmUFNWR09pQW1wQzV5RUxyNXZtNl9OWXVOUGMzR1BGQlk0MUdUS1F4Y2ZCS0xRY3dEZ212LTBrYnVBTUVkUF9aUNIBckFVX3lxTE1KVTRmMnl3WlI1RGM4Y0t1M0xvMGJNTFA5VGhUQ1Z3Z1JtTzdkV0FybTU4VFg1MEJKWUVIWU5EMmt5R01hTzBfaDEzWUN0R0tPWGRMa2VJVG5WSmtvYlhZRnVPZFdxMEZjREh5X2xQWTdzdw?oc=5",
-        "pubDate": "Sat, 21 Nov 2026 08:12:28 GMT",
-        "source": "머니투데이",
-        "ageHours": 0.1
+        "title": "김민석 \"민주당 최대고민 중 하나는 '청년과 함께하는' 것\" - 노컷뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HaV85d0Y3RUlvNHF3ZTJNVXV0RXlvdzBPRlUxaVpsbm1obklKTm5NSzltMVZqcHA1NXlxVUNPTU1maERFdUZQTDM3MFJwMDNMUGc?oc=5\" target=\"_blank\">김민석 \"민주당 최대고민 중 하나는 '청년과 함께하는' 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">노컷뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HaV85d0Y3RUlvNHF3ZTJNVXV0RXlvdzBPRlUxaVpsbm1obklKTm5NSzltMVZqcHA1NXlxVUNPTU1maERFdUZQTDM3MFJwMDNMUGc?oc=5",
+        "pubDate": "Sat, 21 Nov 2026 07:53:39 GMT",
+        "source": "노컷뉴스",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "450a59125bd0bb633fcf11ddb66091b8423e6cefcd98784d487c8cc738c8844d",
+        "targetId": "cheon_haram",
+        "targetName": "천하람",
+        "targetTitle": "개혁신당 원내대표",
+        "title": "개혁신당, 천하람 순천 출마 수용…공천 조기 확정 - 쿠키뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hUVhoZWh2S0xUc28zU2J1bDRYZ21WQzBnM29yakF1SDdEUWdfS0hVMWxoN2oyQmJJSzF2QnFmY24yQ0diQnhMWVphQ0FIa0VDR25TTUFhNlhXSmRTUjE4blJqMA?oc=5\" target=\"_blank\">개혁신당, 천하람 순천 출마 수용…공천 조기 확정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">쿠키뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hUVhoZWh2S0xUc28zU2J1bDRYZ21WQzBnM29yakF1SDdEUWdfS0hVMWxoN2oyQmJJSzF2QnFmY24yQ0diQnhMWVphQ0FIa0VDR25TTUFhNlhXSmRTUjE4blJqMA?oc=5",
+        "pubDate": "Sat, 21 Nov 2026 05:39:41 GMT",
+        "source": "쿠키뉴스",
+        "ageHours": 2.9
       },
       "delivered": [],
       "archived": false

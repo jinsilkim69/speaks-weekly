@@ -11012,3 +11012,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "민주당, 큰 고민 중 하나는 청년…더 함께하고 싶다" - 연합뉴스
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "민주당, 큰 고민 중 하나는 청년…더 함께하고 싶다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwR1RvdG5oT1ZYbEFTRXFPR1ZaTmJSR3d6R2cxd21PQWFwaFM1UWVNMEJWcUZhNDR3ZnhXMm4tYTg4VXhUQUt6d19aUU9GejR1Zm8xcGllSmZPVknSAWBBVV95cUxOX01paWtySFZ5VUQ4NnU2WUdIb3c2bDVzREFsQ3luYlJXTTZnbXRZOTZEbWVwNWpYZEJxelN1eVhPM043aGZCbUtjM0pBbzF6dllTNUdKWXFpdTZCd0pjVzI?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "민주당 큰 고민 중 하나는 청년...함께 하고싶단 절박함" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "민주당 큰 고민 중 하나는 청년...함께 하고싶단 절박함"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9CRUR1RWdYLTBrNHhkbzdMT2t3THhhYmJfTWR0T3I1LU5NbXBmUFNWR09pQW1wQzV5RUxyNXZtNl9OWXVOUGMzR1BGQlk0MUdUS1F4Y2ZCS0xRY3dEZ212LTBrYnVBTUVkUF9aUNIBckFVX3lxTE1KVTRmMnl3WlI1RGM4Y0t1M0xvMGJNTFA5VGhUQ1Z3Z1JtTzdkV0FybTU4VFg1MEJKWUVIWU5EMmt5R01hTzBfaDEzWUN0R0tPWGRMa2VJVG5WSmtvYlhZRnVPZFdxMEZjREh5X2xQWTdzdw?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 울산 AI데이터센터 현장 찾아 "세계경쟁서 속도가 생명" - 연합뉴스
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 울산 AI데이터센터 현장 찾아 "세계경쟁서 속도가 생명"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE9PSEJLbThWdGlUMlhWZUg0LXJUOHlNQzVxanphblJQN0l0MmZBVVAtM1RTVGdZWXczeWhlSEpWX0hOMUVEWnM5b0xHZjJZdUFRcUdJTlNpR0RhNDhWQWxaTWE2VmdySy1SX0RGNDIxLUxTSFB5bzNucg?oc=5)
+
+---
+
