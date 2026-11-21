@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T22:31:13.257Z",
+  "lastCheckedAt": "2026-11-21T22:41:13.440Z",
   "seenPostIds": {
-    "b66dbd125f69a459888f101417e4a2ea516a34a1082ddf77873f49afd5f52ecd": {
-      "seenAt": "2026-11-18T09:41:22.367Z",
-      "title": "추경호 무죄에 '정당 해산' 한숨 돌린 국힘 … '폐문부재' 한동훈에 불똥 - 뉴데일리",
-      "targetName": "한동훈"
-    },
     "b54eb82464d5ce2ad7eb78cfc3455dfe8fc147e7a6a9f8fa47fb2ccbb325782a": {
       "seenAt": "2026-11-18T09:41:23.161Z",
       "title": "우원식 “김민석, 간담상조 자세로...정청래, 솔로몬 재판 떠올리길” - 한겨레",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-21T22:31:14.379Z",
       "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - The Independent",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ece26823f392aa0fc86d51cb6292e7e3591b3e6ef5f878f1f5036bdc36119e2a": {
+      "seenAt": "2026-11-21T22:41:14.798Z",
+      "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - Yahoo News UK",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "9fe7b812a2146c27003c1a0856f68d431cb633da91d811925bc0511e8aff8948",
-    "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - The Independent",
+    "postId": "ece26823f392aa0fc86d51cb6292e7e3591b3e6ef5f878f1f5036bdc36119e2a",
+    "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - Yahoo News UK",
     "bot": "jongsuk_pol_bot",
-    "runId": "44957143724",
-    "sentAt": "2026-11-21T22:31:13.849Z"
+    "runId": "44958001654",
+    "sentAt": "2026-11-21T22:41:14.167Z"
   }
 }
