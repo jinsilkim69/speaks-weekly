@@ -10973,3 +10973,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 민주당 대표 '청년들과 함께할 것 고민' : 정치 - 재경일보
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 민주당 대표 '청년들과 함께할 것 고민' : 정치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aUEFZaVEtMGxtS0JkUlpPdHRqT21JRmdmUGxZN0lFNTVXUEVmbVJySjRtNkF3ek1tclYzODlrcklFaW5yWkFVbkxfaw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 ‘지지율 10%p 상승’ 공언 무색…시험대 오른 리더십 - 쿠키뉴스
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 ‘지지율 10%p 상승’ 공언 무색…시험대 오른 리더십
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oaTBfSW5uTklvR3N4anVmLXhycWRyQWVxQzRBdUdJMHpoeXJyOVEwQkRfX3pSSlM2Sjh4cVBpN29jTHN4RXNIOUFCalZ0V1B6OTRGaFFWTkY5RW9teHdILU1uaw?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTFBkYU5mdzFIOWVrSDRyNm1xSjg2bGlOR1Y5YTNTSDBwTmY1QkMtUmdJYUFQMUE4Z2ZYUnlTdXdYZDdIMnlud0pIVUxFcXBxTVUyZ0txQ2RDY1AwOTNtMDE3bEhIMzBhSlRzT01IaUFvZE1vNGYxZUFveDR30gF_QVVfeXFMTkJRVGQ0Y2ctR2NxeE5mOXBMTk52Ujd0Ml9jNnJjSncySlo2dE9FdmZuM2RUVXE0WFBJWGlLZl9LOUZNXzk2d1VxUUF4RTJ4RkdEZnZPaU1EdmJ1NmFXZlIxYzg5enE4MVd2T0xhNUFaSEhPUVpmV3Axc01acW5qcw?oc=5)
+
+---
+
