@@ -2515,24 +2515,12 @@
       "seenAt": "2026-11-21T09:11:22.809Z",
       "title": "한동훈 \"민주당 대법원장 탄핵 추진은 내란 자백\"…12월 3일 발의 방침 직격 - 스페셜타임스",
       "targetName": "한동훈"
+    },
+    "24ead65297f2221df8664b97e796ec39b075bb6d8e0fe70d8d9035e8a61fa8f5": {
+      "seenAt": "2026-11-21T09:21:15.853Z",
+      "title": "[속보]한동훈 \"與 대법원장 탄핵은 내란 자백…모두 감옥 갈 것\" - 대전일보",
+      "targetName": "한동훈"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "24ead65297f2221df8664b97e796ec39b075bb6d8e0fe70d8d9035e8a61fa8f5",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "[속보]한동훈 \"與 대법원장 탄핵은 내란 자백…모두 감옥 갈 것\" - 대전일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBEOFZ5X2t2XzQ5WWstUUxjLWdtSzRMYTRkLThzV2diWWhKNVpTSWdpNnVyNGxhY3NKaEZ0NmMxU2FoZGtwWWNJOWVaLXFvR0hPbGdfcXphN2VkZV9qR3RjNncxMkFKZUhzTk9FdUFBbw?oc=5\" target=\"_blank\">[속보]한동훈 \"與 대법원장 탄핵은 내란 자백…모두 감옥 갈 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEOFZ5X2t2XzQ5WWstUUxjLWdtSzRMYTRkLThzV2diWWhKNVpTSWdpNnVyNGxhY3NKaEZ0NmMxU2FoZGtwWWNJOWVaLXFvR0hPbGdfcXphN2VkZV9qR3RjNncxMkFKZUhzTk9FdUFBbw?oc=5",
-        "pubDate": "Sat, 21 Nov 2026 08:39:00 GMT",
-        "source": "대전일보",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ]
+  "pending": []
 }
