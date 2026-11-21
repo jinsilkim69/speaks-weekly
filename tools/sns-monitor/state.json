@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T21:51:18.869Z",
+  "lastCheckedAt": "2026-11-21T22:01:14.386Z",
   "seenPostIds": {
-    "d3a60b25cf552c827fab3ceb2f85131f935b02e90be63e6b163c96ae857a846a": {
-      "seenAt": "2026-11-18T09:21:17.770Z",
-      "title": "송영길 “金·鄭 만나야”…정청래“풉, 자격미달자 나서지마세요” - 문화일보",
-      "targetName": "송영길"
-    },
-    "2517c1da6c6092e72e291b2473215ca75515c227dcc915c200825cb9f22c9040": {
-      "seenAt": "2026-11-18T09:21:18.418Z",
-      "title": "Trump says US wrapped up ‘very big trade deal’ with Philippines - New York Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "1e9dce7abc1432fe65e136649be94c1ffdab797a6db3d31c8e7b9c303b8b7cac": {
       "seenAt": "2026-11-18T09:31:18.419Z",
       "title": "'추경호 무죄'에 대여 공세 강화…'한동훈 복당' 계파 갈등도 확산 - 머니투데이 - 머니투데이",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-21T21:51:21.421Z",
       "title": "Trump-backed film incentive plan comes as California production falls - Mezha.net",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "673a24083f82391afd45152023190d0db3d817123f8e12cdef81c5d70705b92e": {
+      "seenAt": "2026-11-21T22:01:15.751Z",
+      "title": "더불어민주당 김민석 대표 \"가장 큰 고민은 청년과의 소통\" - 스페셜타임스",
+      "targetName": "김민석"
+    },
+    "824eaaf9c041df91d983d29c16c150d0202242a0e34b63df02f5b4f5598dbd18": {
+      "seenAt": "2026-11-21T22:01:16.420Z",
+      "title": "Trump Hints Abdul El-Sayed’s Stroking-His-Ego Strategy May Be Working with ‘Medicare for All’ Message - Yahoo",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "182ef06a6248de48dce0e1e0d915dc8d622d146724ad776e98a563c757a3e25d",
-    "title": "Trump-backed film incentive plan comes as California production falls - Mezha.net",
+    "postId": "824eaaf9c041df91d983d29c16c150d0202242a0e34b63df02f5b4f5598dbd18",
+    "title": "Trump Hints Abdul El-Sayed’s Stroking-His-Ego Strategy May Be Working with ‘Medicare for All’ Message - Yahoo",
     "bot": "jongsuk_pol_bot",
-    "runId": "44953657641",
-    "sentAt": "2026-11-21T21:51:21.038Z"
+    "runId": "44954495783",
+    "sentAt": "2026-11-21T22:01:16.088Z"
   }
 }

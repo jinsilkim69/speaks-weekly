@@ -11818,3 +11818,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 더불어민주당 김민석 대표 "가장 큰 고민은 청년과의 소통" - 스페셜타임스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 더불어민주당 김민석 대표 "가장 큰 고민은 청년과의 소통"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTFB5cjQwUGZxSER6bmkzbE9ZUF92R3hjVkpmaDJiTTlkM2JkUlBjczhHNWpUcTIwMUlKN0JFMEZ1ZUQtMmFqcTk0RW85T0luUmFrTnpsU3VlSnM1SkUwN004eC1kVkFLN1VVUFFIRTZaOHloOWs?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Hints Abdul El-Sayed’s Stroking-His-Ego Strategy May Be Working with ‘Medicare for All’ Message - Yahoo
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Hints Abdul El-Sayed’s Stroking-His-Ego Strategy May Be Working with ‘Medicare for All’ Message
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijwFBVV95cUxOMTEyWTVNOXlMVlJiUGMtUnJHSnJET0c3czM4WE90SmtWQUJOaHE0cjRZYzhXSDd0d0EzNkpCM2k4NEVIR3FkTlRvajVid1pzVkNmOEcxNjRiZ3NNckRvdi15T1Joc3g2TXo3UkVDMzNNMUk5RzZneFpiVUJQMWwxeWYtaEZKNTJNTGhTaDVSYw?oc=5)
+
+---
+

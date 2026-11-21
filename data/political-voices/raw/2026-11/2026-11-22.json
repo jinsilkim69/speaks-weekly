@@ -627,5 +627,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "673a24083f82391afd45152023190d0db3d817123f8e12cdef81c5d70705b92e",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "더불어민주당 김민석 대표 \"가장 큰 고민은 청년과의 소통\" - 스페셜타임스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB5cjQwUGZxSER6bmkzbE9ZUF92R3hjVkpmaDJiTTlkM2JkUlBjczhHNWpUcTIwMUlKN0JFMEZ1ZUQtMmFqcTk0RW85T0luUmFrTnpsU3VlSnM1SkUwN004eC1kVkFLN1VVUFFIRTZaOHloOWs?oc=5\" target=\"_blank\">더불어민주당 김민석 대표 \"가장 큰 고민은 청년과의 소통\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스페셜타임스</font>",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5cjQwUGZxSER6bmkzbE9ZUF92R3hjVkpmaDJiTTlkM2JkUlBjczhHNWpUcTIwMUlKN0JFMEZ1ZUQtMmFqcTk0RW85T0luUmFrTnpsU3VlSnM1SkUwN004eC1kVkFLN1VVUFFIRTZaOHloOWs?oc=5",
+    "pubDate": "Sat, 21 Nov 2026 11:11:47 GMT",
+    "source": "스페셜타임스",
+    "ageHours": 10.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 더불어민주당 김민석 대표 \"가장 큰 고민은 청년과의 소통\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "824eaaf9c041df91d983d29c16c150d0202242a0e34b63df02f5b4f5598dbd18",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Hints Abdul El-Sayed’s Stroking-His-Ego Strategy May Be Working with ‘Medicare for All’ Message - Yahoo",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMTEyWTVNOXlMVlJiUGMtUnJHSnJET0c3czM4WE90SmtWQUJOaHE0cjRZYzhXSDd0d0EzNkpCM2k4NEVIR3FkTlRvajVid1pzVkNmOEcxNjRiZ3NNckRvdi15T1Joc3g2TXo3UkVDMzNNMUk5RzZneFpiVUJQMWwxeWYtaEZKNTJNTGhTaDVSYw?oc=5\" target=\"_blank\">Trump Hints Abdul El-Sayed’s Stroking-His-Ego Strategy May Be Working with ‘Medicare for All’ Message</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMTEyWTVNOXlMVlJiUGMtUnJHSnJET0c3czM4WE90SmtWQUJOaHE0cjRZYzhXSDd0d0EzNkpCM2k4NEVIR3FkTlRvajVid1pzVkNmOEcxNjRiZ3NNckRvdi15T1Joc3g2TXo3UkVDMzNNMUk5RzZneFpiVUJQMWwxeWYtaEZKNTJNTGhTaDVSYw?oc=5",
+    "pubDate": "Sat, 21 Nov 2026 20:54:43 GMT",
+    "source": "Yahoo",
+    "ageHours": 1.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Hints Abdul El-Sayed’s Stroking-His-Ego Strategy May Be Working with ‘Medicare for All’ Message",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
