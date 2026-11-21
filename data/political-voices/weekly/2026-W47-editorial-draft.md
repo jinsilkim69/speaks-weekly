@@ -11233,3 +11233,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "민주당 내란정당 자백... 모두 감옥 갈 것" - 경북도민일보
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "민주당 내란정당 자백... 모두 감옥 갈 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBMYktJLVRJSVZ0cmpTa3dwWUdhR3VBYVpTQXJueDZ6NTBadHFlYWxuWndIdldITkg1OF9YcUtHRk0wSzQxNGZqcURFb1Boay1rUmkzdS1mejRvNGZaYmFJZF9hMjh2MmgxWlE?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 대법원장 탄핵 추진 與에 "무르지 말고 12월 3일에 꼭 하라" - 조선일보
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 대법원장 탄핵 추진 與에 "무르지 말고 12월 3일에 꼭 하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxNaHRpX2VpdVhiQ3ktUXFpbHMwb3ZFa09IeS1jVzB2NUdHQ0FhdVpSU29uaThWS28xYkJZSnVhdmhrbWdRM0FWb1psMnNhSU5pSU5ucUlWNjROazBtR2pLeVg0c0hBbzhrRjZPX2lMUHJOTGtxNTY0czhrSUtoSXg2ZUZWWkYwOEx3dk9kampCRDA?oc=5)
+
+---
+
