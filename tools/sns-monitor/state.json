@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T07:51:15.558Z",
+  "lastCheckedAt": "2026-11-21T08:11:17.866Z",
   "seenPostIds": {
-    "40e9685273eb0a0116062a7ee4c19ec3d7f27e2088444f343240915f63e68b03": {
-      "seenAt": "2026-11-18T05:21:25.278Z",
-      "title": "추미애 \"김민석 '신천지발언' 사과로 끝낼 일 아냐\"…김민석 측 \"수능대책 집중해얄 때\" - 아시아경제",
-      "targetName": "김민석"
-    },
     "2d2060f26a93a0bb94f54dfac918fedbca2e0aa3ae89279f3455105377122c1d": {
       "seenAt": "2026-11-18T05:31:21.681Z",
       "title": "민주당 내홍 격화…송영길 중재에 정청래 “자격 미달” - 뉴스프리존",
@@ -2505,7 +2500,71 @@
       "seenAt": "2026-11-21T07:51:16.951Z",
       "title": "이재명 대통령 “울산 방문해 시민들 만나…관광 많이 오시라” - 경상일보",
       "targetName": "이재명"
+    },
+    "7d36f451498fd3622392ffdf3ee481d5db0231510aafcd38c452ee02afbee274": {
+      "seenAt": "2026-11-21T08:11:19.315Z",
+      "title": "김민석 \"민주당, 큰 고민 중 하나는 청년…더 함께하고 싶다\" - 연합뉴스",
+      "targetName": "김민석"
+    },
+    "d6585f3969ac18d99e75e37655b3500d7c9fd36f94408492e66e55b206d06e32": {
+      "seenAt": "2026-11-21T08:11:20.532Z",
+      "title": "김민석, 곧 취임 100일…지지율·내홍 리더십 시험대 - 연합뉴스TV",
+      "targetName": "김민석"
+    },
+    "56ec0e42c08d0449489a29817a4c4b8fc51377c6429ec39418fb6b99abb9c2ec": {
+      "seenAt": "2026-11-21T08:11:21.468Z",
+      "title": "김민석 “청년 통해 민주당이 할 일 깨닫길”…소통 확대 강조 - 아시아경제",
+      "targetName": "김민석"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "e11d3b57f319faf6baf71bda00ae201221b11d1d1496e59e93ae04269193889e",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 민주당 대표 '청년들과 함께할 것 고민' : 정치 - 재경일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aUEFZaVEtMGxtS0JkUlpPdHRqT21JRmdmUGxZN0lFNTVXUEVmbVJySjRtNkF3ek1tclYzODlrcklFaW5yWkFVbkxfaw?oc=5\" target=\"_blank\">김민석 민주당 대표 '청년들과 함께할 것 고민' : 정치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aUEFZaVEtMGxtS0JkUlpPdHRqT21JRmdmUGxZN0lFNTVXUEVmbVJySjRtNkF3ek1tclYzODlrcklFaW5yWkFVbkxfaw?oc=5",
+        "pubDate": "Sat, 21 Nov 2026 07:24:33 GMT",
+        "source": "재경일보",
+        "ageHours": 0.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "aed432412ca6b35acaf91ed3a4e38616657aeb58aaae5528dda089c2bb9ce3fd",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 ‘지지율 10%p 상승’ 공언 무색…시험대 오른 리더십 - 쿠키뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oaTBfSW5uTklvR3N4anVmLXhycWRyQWVxQzRBdUdJMHpoeXJyOVEwQkRfX3pSSlM2Sjh4cVBpN29jTHN4RXNIOUFCalZ0V1B6OTRGaFFWTkY5RW9teHdILU1uaw?oc=5\" target=\"_blank\">김민석 ‘지지율 10%p 상승’ 공언 무색…시험대 오른 리더십</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">쿠키뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oaTBfSW5uTklvR3N4anVmLXhycWRyQWVxQzRBdUdJMHpoeXJyOVEwQkRfX3pSSlM2Sjh4cVBpN29jTHN4RXNIOUFCalZ0V1B6OTRGaFFWTkY5RW9teHdILU1uaw?oc=5",
+        "pubDate": "Sat, 21 Nov 2026 04:11:04 GMT",
+        "source": "쿠키뉴스",
+        "ageHours": 4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d315312d9ebfa5282496bc67899fccb80553fa12ae80cb18c411e4f01388ea17",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBkYU5mdzFIOWVrSDRyNm1xSjg2bGlOR1Y5YTNTSDBwTmY1QkMtUmdJYUFQMUE4Z2ZYUnlTdXdYZDdIMnlud0pIVUxFcXBxTVUyZ0txQ2RDY1AwOTNtMDE3bEhIMzBhSlRzT01IaUFvZE1vNGYxZUFveDR30gF_QVVfeXFMTkJRVGQ0Y2ctR2NxeE5mOXBMTk52Ujd0Ml9jNnJjSncySlo2dE9FdmZuM2RUVXE0WFBJWGlLZl9LOUZNXzk2d1VxUUF4RTJ4RkdEZnZPaU1EdmJ1NmFXZlIxYzg5enE4MVd2T0xhNUFaSEhPUVpmV3Axc01acW5qcw?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵, 역풍 전 속전속결 해야…이번 주말 딱 좋다\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkYU5mdzFIOWVrSDRyNm1xSjg2bGlOR1Y5YTNTSDBwTmY1QkMtUmdJYUFQMUE4Z2ZYUnlTdXdYZDdIMnlud0pIVUxFcXBxTVUyZ0txQ2RDY1AwOTNtMDE3bEhIMzBhSlRzT01IaUFvZE1vNGYxZUFveDR30gF_QVVfeXFMTkJRVGQ0Y2ctR2NxeE5mOXBMTk52Ujd0Ml9jNnJjSncySlo2dE9FdmZuM2RUVXE0WFBJWGlLZl9LOUZNXzk2d1VxUUF4RTJ4RkdEZnZPaU1EdmJ1NmFXZlIxYzg5enE4MVd2T0xhNUFaSEhPUVpmV3Axc01acW5qcw?oc=5",
+        "pubDate": "Sat, 21 Nov 2026 06:42:06 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.5
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
