@@ -10843,3 +10843,16 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 한덕수 파기환송에 "조희대 사법부 규탄…인정할 수 없다" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 한덕수 파기환송에 "조희대 사법부 규탄…인정할 수 없다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE1PSWxVMVJ3YkxnSUU2S1RzazZKTFFOWUpldFJtSXI0TWVUU2RKMmx3cy1sRUpyV0VISGJBZEcxRGw5MUhNNnRRQUtqQlNkTGtHb1JoUXVPclA0Y0p5LW81eU16NDhTUFJieW5fbm5uUjdmVklvVW9Ka1ZB0gF_QVVfeXFMTl9NbHVHYldTZVlSTHZ6NmJNc2tCb091bjRWcHpyamprVENzUHJfMkVuZlNzYWljZzVMTWVTNWpfSFlpWExlaVN3WGJnRndUcklDNEVZT21GSlpYU0N1RlJyOTdLSXNNNEJWaUFjR3h4ejZRS0F3S0pCa2Qyd21NNA?oc=5)
+
+---
+
