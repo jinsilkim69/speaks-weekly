@@ -1415,5 +1415,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "236d053025f0523d0fce7397610eca79e1a3d595650dcde1907ae585917ced5c",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 \"내란 면죄부 준 조희대 탄핵, 더 미룰 수 없는 역사적 판단\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9ub214REhGcDhjUzM0Q05Scmhrb05PSlZzdDU0cWR0YndFQ3g1OXVkWGlkbHNXOUI2b29SeWNWcEFjaGRYSVo1ZDZRTTc5SzlTR0VFS2FVdFZzNTIyMW1fX0FVUnVFeFN2MGNSX9IBckFVX3lxTE1VNnVYQ05aRUVQN1MwSDVMQ20yVlF5SWNBZzk4UW1tcnBfM3VKejJ5ZWgyWG1rdzRPbTlBOExsakdkUzhHMklseWNpR2NMSDEzWHZEc0c5eERNNk1QNVppcjhtY0pqUUNibHo3d0ZLN3B5dw?oc=5\" target=\"_blank\">김민석 \"내란 면죄부 준 조희대 탄핵, 더 미룰 수 없는 역사적 판단\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ub214REhGcDhjUzM0Q05Scmhrb05PSlZzdDU0cWR0YndFQ3g1OXVkWGlkbHNXOUI2b29SeWNWcEFjaGRYSVo1ZDZRTTc5SzlTR0VFS2FVdFZzNTIyMW1fX0FVUnVFeFN2MGNSX9IBckFVX3lxTE1VNnVYQ05aRUVQN1MwSDVMQ20yVlF5SWNBZzk4UW1tcnBfM3VKejJ5ZWgyWG1rdzRPbTlBOExsakdkUzhHMklseWNpR2NMSDEzWHZEc0c5eERNNk1QNVppcjhtY0pqUUNibHo3d0ZLN3B5dw?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 17:16:15 GMT",
+    "source": "머니투데이",
+    "ageHours": 9.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 \"내란 면죄부 준 조희대 탄핵, 더 미룰 수 없는 역사적 판단\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

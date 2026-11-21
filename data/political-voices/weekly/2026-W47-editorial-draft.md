@@ -10648,3 +10648,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "내란 면죄부 준 조희대 탄핵, 더 미룰 수 없는 역사적 판단" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "내란 면죄부 준 조희대 탄핵, 더 미룰 수 없는 역사적 판단"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ub214REhGcDhjUzM0Q05Scmhrb05PSlZzdDU0cWR0YndFQ3g1OXVkWGlkbHNXOUI2b29SeWNWcEFjaGRYSVo1ZDZRTTc5SzlTR0VFS2FVdFZzNTIyMW1fX0FVUnVFeFN2MGNSX9IBckFVX3lxTE1VNnVYQ05aRUVQN1MwSDVMQ20yVlF5SWNBZzk4UW1tcnBfM3VKejJ5ZWgyWG1rdzRPbTlBOExsakdkUzhHMklseWNpR2NMSDEzWHZEc0c5eERNNk1QNVppcjhtY0pqUUNibHo3d0ZLN3B5dw?oc=5)
+
+---
+
