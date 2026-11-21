@@ -301,5 +301,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "36f38e1ceedb5c153e4cc0e60727fd0e1bbc171ef84cb0e6d4566a0be7da2646",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "BREAKING: Donald Trump Turns On Lauren Boebert...Too Late - Colorado Pols",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0hyVmt2SW8yU2xFY0hocHR5V1I1a1ZGNkxya0NQZnVQUlVlZFdqWlBXTkpSeFhCcjhuWmwwMXp3R281U3dZRE5CUGptaEFHVjg3UDU1endfdS1aN2pGTUZRTGN5WFpXVXZwVE9mdEJCUm9DN1lqbWExS3ZQNDJtMTRRM0pVLXptR21QSVNFMXptN1U2TnJpa2xzYjM?oc=5\" target=\"_blank\">BREAKING: Donald Trump Turns On Lauren Boebert...Too Late</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Colorado Pols</font>",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0hyVmt2SW8yU2xFY0hocHR5V1I1a1ZGNkxya0NQZnVQUlVlZFdqWlBXTkpSeFhCcjhuWmwwMXp3R281U3dZRE5CUGptaEFHVjg3UDU1endfdS1aN2pGTUZRTGN5WFpXVXZwVE9mdEJCUm9DN1lqbWExS3ZQNDJtMTRRM0pVLXptR21QSVNFMXptN1U2TnJpa2xzYjM?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 20:51:39 GMT",
+    "source": "Colorado Pols",
+    "ageHours": 21.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] BREAKING: Donald Trump Turns On Lauren Boebert...Too Late",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
