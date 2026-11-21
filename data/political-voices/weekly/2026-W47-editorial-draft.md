@@ -11870,3 +11870,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - The Independent
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXFMdm5ZX3BlM25FNzEzcW9qYW80cGx3Ym1fc1l6STR2Mlc0YlZBUi1OMWVjZk9ibnRJNjFiZ1o0WlZYTTlZMDR5dnpMYUE3ZF9KSi1KNWZZUldTTmRBalAzZHhvb1hlb1puaDRFMUVCSi1xOFNXaHZRbjhPY0tzdVVockJhMC0waWZ6RnM5aFVEMWNIWHFOR2FQSTVFRFVIUHBBZFVienBVcHU0TU9zM0ticw?oc=5)
+
+---
+

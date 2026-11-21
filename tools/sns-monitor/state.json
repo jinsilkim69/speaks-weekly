@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T22:21:15.196Z",
+  "lastCheckedAt": "2026-11-21T22:31:13.257Z",
   "seenPostIds": {
-    "9a7a1ae8a93820e3342a58ae73c83cfd50a25561767f268269d5150b40596b97": {
-      "seenAt": "2026-11-18T09:41:21.572Z",
-      "title": "'추경호 무죄'에 대여 공세 강화…'한동훈 복당' 계파 갈등도 확산 - 머니투데이 - 머니투데이",
-      "targetName": "한동훈"
-    },
     "b66dbd125f69a459888f101417e4a2ea516a34a1082ddf77873f49afd5f52ecd": {
       "seenAt": "2026-11-18T09:41:22.367Z",
       "title": "추경호 무죄에 '정당 해산' 한숨 돌린 국힘 … '폐문부재' 한동훈에 불똥 - 뉴데일리",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-21T22:21:16.619Z",
       "title": "조국 “이재명 정부 성공하려면 무조건 박수쳐선 안 돼…잘못 지적하고 대안 내야” - 쿠키뉴스",
       "targetName": "조국"
+    },
+    "9fe7b812a2146c27003c1a0856f68d431cb633da91d811925bc0511e8aff8948": {
+      "seenAt": "2026-11-21T22:31:14.379Z",
+      "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - The Independent",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "9a229c2de334b5299557f06c8a7361d4f0750f61472c44968c191c619372d6f3",
-    "title": "조국 “이재명 정부 성공하려면 무조건 박수쳐선 안 돼…잘못 지적하고 대안 내야” - 쿠키뉴스",
+    "postId": "9fe7b812a2146c27003c1a0856f68d431cb633da91d811925bc0511e8aff8948",
+    "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - The Independent",
     "bot": "jongsuk_pol_bot",
-    "runId": "44956286668",
-    "sentAt": "2026-11-21T22:21:15.924Z"
+    "runId": "44957143724",
+    "sentAt": "2026-11-21T22:31:13.849Z"
   }
 }
