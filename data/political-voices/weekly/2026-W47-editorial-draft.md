@@ -11129,3 +11129,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "민주당, 12·3에 조희대 탄핵 꼭 하라…모두 감옥갈 것" - 데일리안
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "민주당, 12·3에 조희대 탄핵 꼭 하라…모두 감옥갈 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYk1YMTU0MHJPMXdZZHN6TUJMdTRRUktFSjJxWWZSSi1rb3gxTHI2WmV5MUl5RTJNOHQ4VlZMR0NQVjFra3pSNmhrODdmV1JfMlo5dXlqVVRBX0cyT1J0WnFrb1lYd2xBTWJ5OUtuZEdTZUNVdDRhTEJwWmhETVZZSFRFMG1rUDk3ZlZZSmUtdEw1UHdhenlVdXQyVkthVGlrcEFXY1hmdlVsZTRBZ050TXBmcWdjSmF6TEYwWjNueE9iTEpMU2hRMjZlUEFfVm5CXzFmMTVwUlZ5NEtUYWgwbnA5MVBOUFFWeVd5X0FfYk5wcmFLQ05SQw?oc=5)
+
+---
+
