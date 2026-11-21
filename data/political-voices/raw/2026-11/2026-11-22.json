@@ -226,5 +226,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "134ef9389ab95f412c6c9bece7996930db0709a388821eb414cc8032cb2e3972",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump’s posthumous pardon for Pete Rose has 1 glaring error - Yahoo Sports",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOMUNRRHA5dnZUYXBTMGxVSVFLY3pKQWxqOVlZMjc4TXlMNGJjWVNRMHh5ZXUtdU9WRDF6eWZyRVdTblk5T0ZqWkpEdWh5ZFBxZFlBQzh4U3lrTlFVam9kMEhsc2FmcVFGWjhnWDFCLXFjbFZwYTJXeE5uemNESnZLNmUyZEFMVkZHR0E?oc=5\" target=\"_blank\">Trump’s posthumous pardon for Pete Rose has 1 glaring error</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMUNRRHA5dnZUYXBTMGxVSVFLY3pKQWxqOVlZMjc4TXlMNGJjWVNRMHh5ZXUtdU9WRDF6eWZyRVdTblk5T0ZqWkpEdWh5ZFBxZFlBQzh4U3lrTlFVam9kMEhsc2FmcVFGWjhnWDFCLXFjbFZwYTJXeE5uemNESnZLNmUyZEFMVkZHR0E?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 17:47:12 GMT",
+    "source": "Yahoo Sports",
+    "ageHours": 23.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump’s posthumous pardon for Pete Rose has 1 glaring error",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T17:11:17.681Z",
+  "lastCheckedAt": "2026-11-21T17:21:23.447Z",
   "seenPostIds": {
-    "73f833f94ff7d9a5048d77d836747bdae647383de164dc0a56755ea62de85b6e": {
-      "seenAt": "2026-11-18T08:31:20.306Z",
-      "title": "추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야” - 세계일보",
-      "targetName": "한동훈"
-    },
     "5b3c10bbf085fead6415e338b0d0e1d3aa886967d7267a513554493a72b885b9": {
       "seenAt": "2026-11-18T08:31:21.025Z",
       "title": "‘석청 대타협’ 제안한 송영길에…정청래 “자격미달자는 나서지 말라” - www.dt.co.kr",
@@ -2504,6 +2499,11 @@
     "8c402fd858280262980b54ca0f1340e5a3cde8726f87ca1cd9aab6d451dd5cbb": {
       "seenAt": "2026-11-21T17:11:18.881Z",
       "title": "Donald Trump Bungles Stat When Revealing Posthumous Pardon of MLB Star Pete Rose - People.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "134ef9389ab95f412c6c9bece7996930db0709a388821eb414cc8032cb2e3972": {
+      "seenAt": "2026-11-21T17:21:24.896Z",
+      "title": "Trump’s posthumous pardon for Pete Rose has 1 glaring error - Yahoo Sports",
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
