@@ -1,26 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T08:51:16.949Z",
+  "lastCheckedAt": "2026-11-21T09:11:19.994Z",
   "seenPostIds": {
-    "7dc05558c39e01c3274c5c003556655b26bb596b97926de71626a4b4c88d3e5a": {
-      "seenAt": "2026-11-18T06:11:19.626Z",
-      "title": "[기획특집_세계를 움직이는 정상들의 아침을 여는 SNS 소통 메시지 ①] 이재명은 수능, 트럼프는 기름값… 정상들이 뉴스보다 먼저 띄운 말 - STN SPORTS",
-      "targetName": "이재명"
-    },
-    "c0ce3274ad8f5f0bfb9c819fcbec3bc1c1690f1282f1bb20e5c2fab2ad790a91": {
-      "seenAt": "2026-11-18T06:11:20.473Z",
-      "title": "경찰청장 후보자 \"한동훈 딸 의혹 수사 아쉬움…끝나면 감찰\" - 머니투데이 - 머니투데이",
-      "targetName": "한동훈"
-    },
-    "b00dfeb9fa3afa9e0430ed677c34e31985c56b00dc8f2b3aada2c57fd71982d2": {
-      "seenAt": "2026-11-18T06:21:22.088Z",
-      "title": "정청래 “최민희 징계 강력 반대한다”…김민석 겨냥해 “신천지가 더 큰 해당행위” - 헤럴드경제",
-      "targetName": "김민석"
-    },
-    "5366dced45461ed59767d55fedcd1f71fdcb2ec29ab7dc8c518f911590533410": {
-      "seenAt": "2026-11-18T06:21:22.819Z",
-      "title": "정청래 \"최민희 해명·진심 믿어‥징계는 당에 도움 안 돼\" - MBC 뉴스",
-      "targetName": "정청래"
-    },
     "02ff01b670c9608d503eef53bb6445e47467f2d0ec5bded36d0064c82674e532": {
       "seenAt": "2026-11-18T06:21:23.591Z",
       "title": "'최민희 징계'에 입 연 정청래 \"징계 강력하게 반대\" - 이데일리",
@@ -2520,7 +2500,39 @@
       "seenAt": "2026-11-21T09:01:18.925Z",
       "title": "한동훈 \"민주당, 12·3에 조희대 탄핵 꼭 하라…모두 감옥갈 것\" - 데일리안",
       "targetName": "한동훈"
+    },
+    "4e00d80d8e6153d34e3d929a17d7347a8ba4c81427753b90bb0bd1236875a28b": {
+      "seenAt": "2026-11-21T09:11:21.377Z",
+      "title": "한동훈의 예언…대법원장 탄핵 추진 與에 \"모두 감옥갈 것\" - 한국경제",
+      "targetName": "한동훈"
+    },
+    "c897f084388ee6e3212cf830679266a44e8fa08fd57d0d9a0db4a11d8bb15eb3": {
+      "seenAt": "2026-11-21T09:11:22.079Z",
+      "title": "[속보] 한동훈 “민주당, 대법원장 탄핵은 내란 자백…모두 감옥 갈 것” - 강원일보",
+      "targetName": "한동훈"
+    },
+    "8ca0d5c2b94e06f81fc5dc8088279b7389ca72bf15bddbd58a8f371abb6a6778": {
+      "seenAt": "2026-11-21T09:11:22.809Z",
+      "title": "한동훈 \"민주당 대법원장 탄핵 추진은 내란 자백\"…12월 3일 발의 방침 직격 - 스페셜타임스",
+      "targetName": "한동훈"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "24ead65297f2221df8664b97e796ec39b075bb6d8e0fe70d8d9035e8a61fa8f5",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "[속보]한동훈 \"與 대법원장 탄핵은 내란 자백…모두 감옥 갈 것\" - 대전일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBEOFZ5X2t2XzQ5WWstUUxjLWdtSzRMYTRkLThzV2diWWhKNVpTSWdpNnVyNGxhY3NKaEZ0NmMxU2FoZGtwWWNJOWVaLXFvR0hPbGdfcXphN2VkZV9qR3RjNncxMkFKZUhzTk9FdUFBbw?oc=5\" target=\"_blank\">[속보]한동훈 \"與 대법원장 탄핵은 내란 자백…모두 감옥 갈 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEOFZ5X2t2XzQ5WWstUUxjLWdtSzRMYTRkLThzV2diWWhKNVpTSWdpNnVyNGxhY3NKaEZ0NmMxU2FoZGtwWWNJOWVaLXFvR0hPbGdfcXphN2VkZV9qR3RjNncxMkFKZUhzTk9FdUFBbw?oc=5",
+        "pubDate": "Sat, 21 Nov 2026 08:39:00 GMT",
+        "source": "대전일보",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }

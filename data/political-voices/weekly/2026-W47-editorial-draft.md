@@ -11142,3 +11142,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈의 예언…대법원장 탄핵 추진 與에 "모두 감옥갈 것" - 한국경제
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈의 예언…대법원장 탄핵 추진 與에 "모두 감옥갈 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxenUyN2phRzZJWGhCNE5Ra2JKckFFVTc5NWdBVEFKNV9CQV91Smxyb2NpcWMzeWQxZEItYVlubXlVTmZZZHlBMjh0eGRGRFNqT0ZOS3ZFNDFVdw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [속보] 한동훈 “민주당, 대법원장 탄핵은 내란 자백…모두 감옥 갈 것” - 강원일보
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “민주당, 대법원장 탄핵은 내란 자백…모두 감옥 갈 것”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wbVBQajZyc0Q4ZFE0YndCLUZxdmo2cDhZdGd3ZDZ2X1J6aFBGVXFIRmgtelFZZTZmREFTRG1FWDNVZnc5b2xTaGZiVENYU2dKTHQ3bGFIOXFDdG8?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "민주당 대법원장 탄핵 추진은 내란 자백"…12월 3일 발의 방침 직격 - 스페셜타임스
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "민주당 대법원장 탄핵 추진은 내란 자백"…12월 3일 발의 방침 직격
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTFBBT1A2TjU0cmlNTVlQTGFJMVh6WWh1UlhjSWhvUU12b2xkSEIzNmNoUGhDLVZTZTNvNVBCWi1sanJoUENxY21SUEdnT05BQ05kZzlVRFBCUHc5WkRpZG53OWsxZTBnNWozekNlV2ZrbEIwZw?oc=5)
+
+---
+
