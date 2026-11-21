@@ -31,7 +31,7 @@ async function main() {
   let failed = false;
   try { posts = await collectAllNewPosts(config, state, error => {
     failed = true;
-    console.error(error.message);
+    console.error("::error::" + error.message);
   }); }
   catch (err) { failed = true; console.error(err.message); }
   const queued = new Set(state.pending.map(item => item.post.id));
@@ -48,7 +48,16 @@ async function main() {
       const key = recipientKey(sub);
       if (item.delivered.includes(key)) continue;
       const sent = await sendTelegramNotification(token, [sub], analyzed);
-      if (sent === 1) { item.delivered.push(key); save(); }
+      if (sent === 1) {
+        item.delivered.push(key);
+        if (sub.name?.startsWith('관리자(')) {
+          state.lastAdminNewsDelivery = {
+            postId: item.post.id, title: item.post.title, bot: 'jongsuk_pol_bot',
+            runId: process.env.GITHUB_RUN_ID, sentAt: new Date().toISOString()
+          };
+        }
+        save();
+      }
       else { failed = true; console.error('발송 실패: 다음 실행에서 재시도합니다.'); }
     }
     if (subs.every(sub => item.delivered.includes(recipientKey(sub)))) {

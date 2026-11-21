@@ -55,10 +55,12 @@ ${escapeHtml(bullets)}
       });
 
       const data = await res.json();
-      if (res.ok && data.ok) {
+      if (res.ok && data.ok && data.result?.message_id &&
+          data.result.from?.username === 'jongsuk_pol_bot' &&
+          String(data.result.chat?.id) === String(sub.chatId)) {
         sentCount++;
       } else {
-        console.warn(`[발송 실패] Telegram HTTP ${res.status}, API 오류 ${Number(data.error_code) || '미상'}`);
+        console.warn(`::error::[발송 실패] Telegram HTTP ${res.status}, API 오류 ${Number(data.error_code) || '미상'}`);
       }
     } catch (err) {
       console.error(`[네트워크 에러] ${sub.name}:`, err.message);
