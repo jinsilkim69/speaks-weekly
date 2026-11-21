@@ -10726,3 +10726,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈이 김민석을 ‘도요토미 히데요시’라 부른 이유 - www.dt.co.kr
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈이 김민석을 ‘도요토미 히데요시’라 부른 이유
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XUy1hQnlMUHY1Rm5UQXQ1cUNRd3hFTnNDRml3TDhkU3ExWnJHRWJpT1I1WV9fYmlsOGhhV0sxTWhSSVZoWmt3cVFyYTNPdw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "조희대, 퇴학시켜달라 구걸하는 불량학생 태도…물러나야" - JTBC
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "조희대, 퇴학시켜달라 구걸하는 불량학생 태도…물러나야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBSNWEwQ3lUeURCbGJ6WGFzWWRieGc1MVJfOTFNUzFSWTFjbmNia0hMMW1ucFR4VEh5RUxPckwxbFpwM09USEhqR0stUFdsUWFsbl9jVVNucFlNQWdzcURsVHJxWkNQSW8tdFE?oc=5)
+
+---
+

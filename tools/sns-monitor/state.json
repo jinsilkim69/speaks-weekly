@@ -1,31 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T03:21:17.755Z",
+  "lastCheckedAt": "2026-11-21T03:33:40.663Z",
   "seenPostIds": {
-    "41ada739c3610e5bcc2acdc41cfd4e20428b7d287d9906bfb84f48650c1a672f": {
-      "seenAt": "2026-11-18T03:01:19.368Z",
-      "title": "발언하는 신장식 대표 - 뉴시스",
-      "targetName": "신장식"
-    },
-    "9ab87f70795c9cd62c95e17e860c792868725fa5555d712a662ca04a6a4c8935": {
-      "seenAt": "2026-11-18T03:01:20.048Z",
-      "title": "Trump Says US Will Not Attack Iran Before Midterm Elections in November - EnergyNow.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "ec5fbbd10bf637628976000c2b64bdc5b3cdd25ee80945342d3524ef5544f56c": {
-      "seenAt": "2026-11-18T03:41:18.868Z",
-      "title": "추미애, ‘최민희 논란’에 참전…“김민석 문제부터 엄중 판단해야” - 시사저널",
-      "targetName": "김민석"
-    },
-    "e3d4847e0018915d148e3dac2953ec3f1ac4127dc8cc8f1758ad3488eea53a9f": {
-      "seenAt": "2026-11-18T03:41:19.535Z",
-      "title": "우원식 \"민주당은 김민석·정청래 당 아냐…추미애는 말 얹지 말고 경기도 집중해야\" - 조선일보",
-      "targetName": "김민석"
-    },
-    "8c3b8fa2b958a2a6a929b395ca36ab201b1d751c6944cfe517db69854f9add58": {
-      "seenAt": "2026-11-18T03:41:20.204Z",
-      "title": "\"이재용·MB·박근혜도 日 입국 막나\"…조국, 박노자 글 공유해 '전과설' 반박 - 이데일리",
-      "targetName": "조국"
-    },
     "a543344f94ccbfe81802c969d279b4318ea15dc2309816f154b04cb814d04ed9": {
       "seenAt": "2026-11-18T03:51:17.161Z",
       "title": "조국 \"전과자는 사전 비자 받아야? 그런 법 없다\" - OhmyNews",
@@ -2525,26 +2500,17 @@
       "seenAt": "2026-11-21T03:31:18.665Z",
       "title": "[칼럼] “당론 아니라던 정청래, 이제 와서 탄핵하라”…추미애도 뒤늦게 “일찍 탄핵했어야”, 그때는 머했을까?:내외신문 - 내외신문",
       "targetName": "정청래"
+    },
+    "73bd1c3117a81bed9bc96f4f1b8014addafbc2263366a1919f61ada8441460c3": {
+      "seenAt": "2026-11-21T03:33:41.309Z",
+      "title": "한동훈이 김민석을 ‘도요토미 히데요시’라 부른 이유 - www.dt.co.kr",
+      "targetName": "한동훈"
+    },
+    "91ba6c2550690739ba36e9b688398c8096028bf9e6ef8f8b1cb71be217705ddc": {
+      "seenAt": "2026-11-21T03:33:42.230Z",
+      "title": "김민석 \"조희대, 퇴학시켜달라 구걸하는 불량학생 태도…물러나야\" - JTBC",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "73bd1c3117a81bed9bc96f4f1b8014addafbc2263366a1919f61ada8441460c3",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈이 김민석을 ‘도요토미 히데요시’라 부른 이유 - www.dt.co.kr",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XUy1hQnlMUHY1Rm5UQXQ1cUNRd3hFTnNDRml3TDhkU3ExWnJHRWJpT1I1WV9fYmlsOGhhV0sxTWhSSVZoWmt3cVFyYTNPdw?oc=5\" target=\"_blank\">한동훈이 김민석을 ‘도요토미 히데요시’라 부른 이유</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.dt.co.kr</font>",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XUy1hQnlMUHY1Rm5UQXQ1cUNRd3hFTnNDRml3TDhkU3ExWnJHRWJpT1I1WV9fYmlsOGhhV0sxTWhSSVZoWmt3cVFyYTNPdw?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 15:43:58 GMT",
-        "source": "www.dt.co.kr",
-        "ageHours": 11.6
-      },
-      "delivered": [
-        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
-      ],
-      "archived": false
-    }
-  ]
+  "pending": []
 }

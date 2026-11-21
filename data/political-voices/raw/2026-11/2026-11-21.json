@@ -1567,5 +1567,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "73bd1c3117a81bed9bc96f4f1b8014addafbc2263366a1919f61ada8441460c3",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈이 김민석을 ‘도요토미 히데요시’라 부른 이유 - www.dt.co.kr",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XUy1hQnlMUHY1Rm5UQXQ1cUNRd3hFTnNDRml3TDhkU3ExWnJHRWJpT1I1WV9fYmlsOGhhV0sxTWhSSVZoWmt3cVFyYTNPdw?oc=5\" target=\"_blank\">한동훈이 김민석을 ‘도요토미 히데요시’라 부른 이유</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.dt.co.kr</font>",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XUy1hQnlMUHY1Rm5UQXQ1cUNRd3hFTnNDRml3TDhkU3ExWnJHRWJpT1I1WV9fYmlsOGhhV0sxTWhSSVZoWmt3cVFyYTNPdw?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 15:43:58 GMT",
+    "source": "www.dt.co.kr",
+    "ageHours": 11.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈이 김민석을 ‘도요토미 히데요시’라 부른 이유",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "91ba6c2550690739ba36e9b688398c8096028bf9e6ef8f8b1cb71be217705ddc",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 \"조희대, 퇴학시켜달라 구걸하는 불량학생 태도…물러나야\" - JTBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBSNWEwQ3lUeURCbGJ6WGFzWWRieGc1MVJfOTFNUzFSWTFjbmNia0hMMW1ucFR4VEh5RUxPckwxbFpwM09USEhqR0stUFdsUWFsbl9jVVNucFlNQWdzcURsVHJxWkNQSW8tdFE?oc=5\" target=\"_blank\">김민석 \"조희대, 퇴학시켜달라 구걸하는 불량학생 태도…물러나야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSNWEwQ3lUeURCbGJ6WGFzWWRieGc1MVJfOTFNUzFSWTFjbmNia0hMMW1ucFR4VEh5RUxPckwxbFpwM09USEhqR0stUFdsUWFsbl9jVVNucFlNQWdzcURsVHJxWkNQSW8tdFE?oc=5",
+    "pubDate": "Sat, 21 Nov 2026 01:55:03 GMT",
+    "source": "JTBC",
+    "ageHours": 1.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 \"조희대, 퇴학시켜달라 구걸하는 불량학생 태도…물러나야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
