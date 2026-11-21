@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T00:21:24.226Z",
+  "lastCheckedAt": "2026-11-21T00:41:25.952Z",
   "seenPostIds": {
-    "47dca14c7ee56345042d4112f85006ddbc0edc2eb9a3d5b37d034cc5813b29ef": {
-      "seenAt": "2026-11-18T01:51:29.333Z",
-      "title": "전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이 - 머니투데이",
-      "targetName": "조국"
-    },
     "79e795e732584d549c626580b8697f6ffee14133c0cf01c1547d0170b820f04f": {
       "seenAt": "2026-11-18T01:51:30.074Z",
       "title": "Dem senator-elect mocks President Trump with AI Jesus image in 'Trumpcare for All' pitch - Fox News",
@@ -2504,6 +2499,11 @@
     "884f619a42169dd1b8aa1c6a243b0ff7264c9daa63baee181b78735690a3fc58": {
       "seenAt": "2026-11-21T00:21:25.667Z",
       "title": "나경원 \"코스피 5% 폭락…이재명 정권 무책임엔 바닥 없어\" - 이데일리",
+      "targetName": "이재명"
+    },
+    "06a38229fba7ae3907228086c606e7d8ce8bac098e759ff111d762cd0b2652d9": {
+      "seenAt": "2026-11-21T00:41:27.364Z",
+      "title": "이재명 대통령 \"대장동 개발, 공익 환수에도 배임죄?\" 논란의 중심에 서다 - 공감신문",
       "targetName": "이재명"
     }
   },

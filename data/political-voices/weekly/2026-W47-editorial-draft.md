@@ -10401,3 +10401,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "대장동 개발, 공익 환수에도 배임죄?" 논란의 중심에 서다 - 공감신문
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "대장동 개발, 공익 환수에도 배임죄?" 논란의 중심에 서다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zSjUwcF9MRXB2YTlJS1lJaDFjN0F4VHFwejRDd2ROWkE5UG83YmItNlVGdHVmcXVQRmJWdlBiWlI4c1J1cGtNR2xqRElvR2JQSURZSUZERnEzTGN0c2RWT21nZVVNbVNX?oc=5)
+
+---
+
