@@ -1668,5 +1668,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c140cad3ab6dcb8ccd2571648e3b413f29a8e15a0d18038ecc37c360dc3a8344",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "[뉴스 즉설]'창당의 길'로 내몰리는 한동훈, '복당의 문' 대못질하는 장동혁 - 대전일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1yZ256azd5ajZXejF4dTRNaFBaNDdBYmd4SkF5T3FjMUpsVk5XSXpuMUJRdXpfU19ma1p6RlVmXzFOM3RXMWpfczEyZi1RRTlSckFqS1V0Q1RyVURHOHp6dUFDTThyWlZKUVQ3bTFFZ1dsaDjSAXNBVV95cUxNcmduems3eWo2V3oxeHU0TWhQWjQ3QWJneEpBeU9xYzFKbFZOV0l6bjFCUXV6X1NfZmtaekZVZl8xTjN0VzFqX3MxMmYtUUU5UnJBaktVdENUclVERzh6enVBQ004clpWSlFUN20xRWdXbGg4?oc=5\" target=\"_blank\">[뉴스 즉설]'창당의 길'로 내몰리는 한동훈, '복당의 문' 대못질하는 장동혁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yZ256azd5ajZXejF4dTRNaFBaNDdBYmd4SkF5T3FjMUpsVk5XSXpuMUJRdXpfU19ma1p6RlVmXzFOM3RXMWpfczEyZi1RRTlSckFqS1V0Q1RyVURHOHp6dUFDTThyWlZKUVQ3bTFFZ1dsaDjSAXNBVV95cUxNcmduems3eWo2V3oxeHU0TWhQWjQ3QWJneEpBeU9xYzFKbFZOV0l6bjFCUXV6X1NfZmtaekZVZl8xTjN0VzFqX3MxMmYtUUU5UnJBaktVdENUclVERzh6enVBQ004clpWSlFUN20xRWdXbGg4?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 21:14:16 GMT",
+    "source": "대전일보",
+    "ageHours": 7.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '창당의 길'로 내몰리는 한동훈, '복당의 문' 대못질하는 장동혁",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "bb54019d221fce92a57e41520953e1cc1ebb2847c9ca298b12c71c4939848f24",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "\"말보다 노래로\"…신장식, 민주유공자법 통과 소회 담아 '사람 사는 세상' 열창 #shorts - OhmyNews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA4Yl8yVjc4WGgzMk5yUWpueWlxX3g2TTVOTmdHLU1ocmstZUtJV3YtVFdNUHM1SWxwZF8yRUgwd055LUg0cThxcmU3Z1pHRnF6MmFrck5YM3BJb01zbjB1clZYOGhlclpXN21PQmtTSlpHQW1NUjlMdQ?oc=5\" target=\"_blank\">\"말보다 노래로\"…신장식, 민주유공자법 통과 소회 담아 '사람 사는 세상' 열창 #shorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4Yl8yVjc4WGgzMk5yUWpueWlxX3g2TTVOTmdHLU1ocmstZUtJV3YtVFdNUHM1SWxwZF8yRUgwd055LUg0cThxcmU3Z1pHRnF6MmFrck5YM3BJb01zbjB1clZYOGhlclpXN21PQmtTSlpHQW1NUjlMdQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 10:24:15 GMT",
+    "source": "OhmyNews",
+    "ageHours": 18.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"말보다 노래로\"…신장식, 민주유공자법 통과 소회 담아 '사람 사는 세상' 열창 #shorts",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

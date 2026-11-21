@@ -10778,3 +10778,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [뉴스 즉설]'창당의 길'로 내몰리는 한동훈, '복당의 문' 대못질하는 장동혁 - 대전일보
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '창당의 길'로 내몰리는 한동훈, '복당의 문' 대못질하는 장동혁
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE1yZ256azd5ajZXejF4dTRNaFBaNDdBYmd4SkF5T3FjMUpsVk5XSXpuMUJRdXpfU19ma1p6RlVmXzFOM3RXMWpfczEyZi1RRTlSckFqS1V0Q1RyVURHOHp6dUFDTThyWlZKUVQ3bTFFZ1dsaDjSAXNBVV95cUxNcmduems3eWo2V3oxeHU0TWhQWjQ3QWJneEpBeU9xYzFKbFZOV0l6bjFCUXV6X1NfZmtaekZVZl8xTjN0VzFqX3MxMmYtUUU5UnJBaktVdENUclVERzh6enVBQ004clpWSlFUN20xRWdXbGg4?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** "말보다 노래로"…신장식, 민주유공자법 통과 소회 담아 '사람 사는 세상' 열창 #shorts - OhmyNews
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "말보다 노래로"…신장식, 민주유공자법 통과 소회 담아 '사람 사는 세상' 열창 #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFA4Yl8yVjc4WGgzMk5yUWpueWlxX3g2TTVOTmdHLU1ocmstZUtJV3YtVFdNUHM1SWxwZF8yRUgwd055LUg0cThxcmU3Z1pHRnF6MmFrck5YM3BJb01zbjB1clZYOGhlclpXN21PQmtTSlpHQW1NUjlMdQ?oc=5)
+
+---
+
