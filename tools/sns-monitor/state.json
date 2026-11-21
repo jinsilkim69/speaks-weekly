@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-21T21:03:30.523Z",
+  "lastCheckedAt": "2026-11-21T21:11:12.728Z",
   "seenPostIds": {
     "919a94cc4a9dc7de2a563925eaf229fa988aa78aa2f140baa46984ff883a0aa1": {
       "seenAt": "2026-11-18T09:11:19.261Z",
@@ -2500,7 +2500,19 @@
       "seenAt": "2026-11-21T20:41:20.106Z",
       "title": "장동혁, 이재명에 \"억울하면 재판 받으라\"…'탈옥법' 추진 비판 - www.gukjenews.com",
       "targetName": "이재명"
+    },
+    "93ac02ee6fac46d908cbc0ff6440490338ecfb13c21550074b5ec0ef5da709f9": {
+      "seenAt": "2026-11-21T21:11:13.748Z",
+      "title": "김민석 \"민주당 큰 고민 중 하나는 청년과 함께 하는 방법\" - 연합뉴스TV",
+      "targetName": "김민석"
     }
   },
-  "pending": []
+  "pending": [],
+  "lastAdminNewsDelivery": {
+    "postId": "93ac02ee6fac46d908cbc0ff6440490338ecfb13c21550074b5ec0ef5da709f9",
+    "title": "김민석 \"민주당 큰 고민 중 하나는 청년과 함께 하는 방법\" - 연합뉴스TV",
+    "bot": "jongsuk_pol_bot",
+    "runId": "44950192014",
+    "sentAt": "2026-11-21T21:11:13.237Z"
+  }
 }
