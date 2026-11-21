@@ -11727,3 +11727,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 장동혁, 이재명에 "억울하면 재판 받으라"…'탈옥법' 추진 비판 - www.gukjenews.com
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, 이재명에 "억울하면 재판 받으라"…'탈옥법' 추진 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTFBseUthOWNhTWRoNXdpeHlsMW9xaklyVEpQODJjYU9fWFV4cDNlNXhXcF9RU2dfcG1udEU0ZngycmxqRU5jcmY1NnphMzhHbW02eEFfR2lUMTlQcERXM0hjS1M0LU9yYXc5WE5peF91R1RMUjAzb0NnMnlhbw?oc=5)
+
+---
+

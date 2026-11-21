@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T20:31:16.761Z",
+  "lastCheckedAt": "2026-11-21T20:41:18.625Z",
   "seenPostIds": {
-    "b29d25f34f0fea8990e9f668bace19fcbb9962fc0284d608699dce210f2b575d": {
-      "seenAt": "2026-11-18T09:01:25.086Z",
-      "title": "정청래, ‘친청계’ 최민희 징계 반대…“김민석 ‘신천지 의혹’이 더 큰 해당행위” - 국제신문",
-      "targetName": "정청래"
-    },
     "94a1988f8479acf0ac0d62679258a8e720f292e7e7353660faa6ffc40cff0161": {
       "seenAt": "2026-11-18T09:01:25.874Z",
       "title": "조국 “당원들과 조만간 독도 다시 방문”...내년 초 서울서 학술세미나 개최 - JTBC",
@@ -2505,6 +2500,11 @@
       "seenAt": "2026-11-21T20:31:17.832Z",
       "title": "Trump Memecoin Hits 2026 Low As Price Slumps Ahead Of President’s VIP Dinner - TradingView",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "17f4b4408a2b1337ea869040b0efc0c44fbb4a863212baf3e21054be1696c67e": {
+      "seenAt": "2026-11-21T20:41:20.106Z",
+      "title": "장동혁, 이재명에 \"억울하면 재판 받으라\"…'탈옥법' 추진 비판 - www.gukjenews.com",
+      "targetName": "이재명"
     }
   },
   "pending": []
