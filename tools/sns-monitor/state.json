@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T21:11:12.728Z",
+  "lastCheckedAt": "2026-11-21T21:21:14.959Z",
   "seenPostIds": {
-    "919a94cc4a9dc7de2a563925eaf229fa988aa78aa2f140baa46984ff883a0aa1": {
-      "seenAt": "2026-11-18T09:11:19.261Z",
-      "title": "추경호 무죄에 '정당 해산' 한숨 돌린 국힘 … '폐문부재' 한동훈에 불똥 - 뉴데일리",
-      "targetName": "한동훈"
-    },
     "630f7fc1a664e8b76bfbbdd2096a25ce95fc70292fcc241e095b39195804a0f3": {
       "seenAt": "2026-11-18T09:11:20.061Z",
       "title": "한동훈에 손 내밀면서도 조기 복당은 안 된다는 중진들…친한계·당권파 모두 “비겁하다” - 경향신문",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-21T21:11:13.748Z",
       "title": "김민석 \"민주당 큰 고민 중 하나는 청년과 함께 하는 방법\" - 연합뉴스TV",
       "targetName": "김민석"
+    },
+    "467850c167f19e618f586dd3239b42d3b35b077e9bfa87760b7443f909d22ce7": {
+      "seenAt": "2026-11-21T21:21:16.975Z",
+      "title": "'취임 100일' 김민석…당정관계 안정에도 내부통합·지지율 숙제 - 연합뉴스 한민족센터",
+      "targetName": "김민석"
+    },
+    "0ccbbeec07bdf4665c0258e5b7e67832641a9338438bf80edcf82edc70a2182e": {
+      "seenAt": "2026-11-21T21:21:17.609Z",
+      "title": "Trump once again called Putin his friend — this time dedicating a separate post to him on Truth Social - Українські Національні Новини (УНН)",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "93ac02ee6fac46d908cbc0ff6440490338ecfb13c21550074b5ec0ef5da709f9",
-    "title": "김민석 \"민주당 큰 고민 중 하나는 청년과 함께 하는 방법\" - 연합뉴스TV",
+    "postId": "0ccbbeec07bdf4665c0258e5b7e67832641a9338438bf80edcf82edc70a2182e",
+    "title": "Trump once again called Putin his friend — this time dedicating a separate post to him on Truth Social - Українські Національні Новини (УНН)",
     "bot": "jongsuk_pol_bot",
-    "runId": "44950192014",
-    "sentAt": "2026-11-21T21:11:13.237Z"
+    "runId": "44951073273",
+    "sentAt": "2026-11-21T21:21:17.279Z"
   }
 }

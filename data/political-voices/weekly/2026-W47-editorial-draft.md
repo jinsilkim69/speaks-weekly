@@ -11753,3 +11753,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** '취임 100일' 김민석…당정관계 안정에도 내부통합·지지율 숙제 - 연합뉴스 한민족센터
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '취임 100일' 김민석…당정관계 안정에도 내부통합·지지율 숙제
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE1kVl82UnJvTDEwdE1VQllpRXBMNVBOY3gyR3doSTRVNHg3VkpoS3JQYmVINHpOYnpHeUVBX3VkTEUwZnFOekpmOHI5azd6S1NLU0d4bDJVUVFyU3lrdlE1RmFfNHJ1bnVvMVU2QWNsRVlSenh3?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump once again called Putin his friend — this time dedicating a separate post to him on Truth Social - Українські Національні Новини (УНН)
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump once again called Putin his friend — this time dedicating a separate post to him on Truth Social
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSU9LQ2RHdUFzSVIzU05zbi1Zc183QTR4NFR6eTM0UHhfQXZNRWZ0aE1yVDdNbmt1OXJvdFBvZ3pXMnhLR3lfbWVHbm1oQ3JfSFN0LXVQc3JodEZoMVQwRG9Hckl0OWpMVllra2tnYnI1dEF5dWZSdklJc09rSUZsYlVLR0dWUF9UZHdmUGJXYnpEMnNfeGJleWNCSHJIdW1heDNaenhjNURUdnJUaHNoOHpULTZDYmg1eVo4QUZGTm7SAb8BQVVfeXFMTnNsOWVRUEo2bE44dXZtTERzdHVjRFpXNkcybzNENThCel9obUp1Z1JUc1JrWVRqR1JBTUV3SE1qNVBuOFRvWUpTVnNfVVlyd3Fkd0w4TE5GVlJfWDJGeVg2cU9NU0xiMjlnWWV5cFFKUTNhdDUyeWpZWGE1VTZDSDlmcUxBdXN3MnlCZDlMbWQyU1pRUWJHLWlKOVBrR21YTVkwZVZUQ2RwRHBfdEtqZzBKTlRUUUNXbUk1VWJGd0k?oc=5)
+
+---
+
