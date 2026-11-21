@@ -1009,5 +1009,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "35f0bbe4b9f38ba6656fb03ff85d106cddc6c17a771c7acd8ad369298f05968a",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "홍준표 못지않은 ‘독고다이’ 정청래의 행로 - 에너지경제신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZ196X01ZcFhIbS1TQ0twbEVBMHEtVXdyWmlGODF5aGo1UHZweVYtUHhkRkJKd0pvc01OS1czcEk1WlhBZnVkdTF0Q3M4UzNrQlk1LUFvTG00djA?oc=5\" target=\"_blank\">홍준표 못지않은 ‘독고다이’ 정청래의 행로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZ196X01ZcFhIbS1TQ0twbEVBMHEtVXdyWmlGODF5aGo1UHZweVYtUHhkRkJKd0pvc01OS1czcEk1WlhBZnVkdTF0Q3M4UzNrQlk1LUFvTG00djA?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 22:00:00 GMT",
+    "source": "에너지경제신문",
+    "ageHours": 3.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 홍준표 못지않은 ‘독고다이’ 정청래의 행로",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
