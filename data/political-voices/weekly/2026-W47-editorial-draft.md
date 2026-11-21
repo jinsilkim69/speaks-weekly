@@ -10453,3 +10453,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [뉴스 즉설]'창당의 길'로 내몰리는 한동훈, '복당의 문' 대못질하는 장동혁 - 대전일보
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '창당의 길'로 내몰리는 한동훈, '복당의 문' 대못질하는 장동혁
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBuN0ZVNjQ4Vk5DSG1oS2dHZ2J6WWFrZTNpSHRRckZ1Q1RKdFhQOXdRRGxOdlVQWWFoZ0dPb2dVSHNtY1ZaZWdpeUpzczhzVzFJS3N6Qk16N2syb1ZxUEFhSUtJN2oyb2RmM2FwRE9nONIBc0FVX3lxTE1yZ256azd5ajZXejF4dTRNaFBaNDdBYmd4SkF5T3FjMUpsVk5XSXpuMUJRdXpfU19ma1p6RlVmXzFOM3RXMWpfczEyZi1RRTlSckFqS1V0Q1RyVURHOHp6dUFDTThyWlZKUVQ3bTFFZ1dsaDg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [포토] 비공개 의원총회 참석 위해 이동하는 정청래 의원 - 파이낸스투데이
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 비공개 의원총회 참석 위해 이동하는 정청래 의원
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9IbXNxaDhOYUV5by1JX1BVaGVpM1ZNODFadWJJbmVuTzdlOExPa1NMallUU2hiSXhMX3ljanhxMTdzUFVQa0dGNERLSThhbHMxSmk3UGZaM1dYMlJpNW5IbE5pVVBJZzh5Rk4yVQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "거대 양당 중심 정치 바꿔야…다원 민주주의 확대해야" - 아시아경제
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "거대 양당 중심 정치 바꿔야…다원 민주주의 확대해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nZWFtd3Y1UnlPdk50NHZmRmhfZ3JfRHFObHAxUXpqSDhSWlcxVGlWbTF6bE5FQXJqWDVSZGRCMFNHbE5RbVJid0l1TWxBZGxCNE1FNHdCU3NKSC1UNVZXaw?oc=5)
+
+---
+

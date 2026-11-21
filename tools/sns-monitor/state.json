@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T01:21:16.447Z",
+  "lastCheckedAt": "2026-11-21T01:41:16.252Z",
   "seenPostIds": {
-    "bc7d127f5391934991571292f829693954d3f3fdab88b1079e997616950cdf76": {
-      "seenAt": "2026-11-18T02:11:22.321Z",
-      "title": "전용기 \"조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋\" - 뉴시스",
-      "targetName": "조국"
-    },
     "d315b0534af6d32e5634bd02996cc1c969c2123b51245000e9bd607fc00358c3": {
       "seenAt": "2026-11-18T02:21:16.908Z",
       "title": "전용기 \"조국 일본 입국 거부와 과거 비슷한 일 겪어…사실관계 확인해야\" - 머니투데이 - 머니투데이",
@@ -2505,7 +2500,39 @@
       "seenAt": "2026-11-21T01:21:17.603Z",
       "title": "홍준표 못지않은 ‘독고다이’ 정청래의 행로 - 에너지경제신문",
       "targetName": "정청래"
+    },
+    "189aff834f5d65490f8db82bac15629415e781565a02b70d346059c29fefbb94": {
+      "seenAt": "2026-11-21T01:41:17.299Z",
+      "title": "[뉴스 즉설]'창당의 길'로 내몰리는 한동훈, '복당의 문' 대못질하는 장동혁 - 대전일보",
+      "targetName": "한동훈"
+    },
+    "638a0d3c5dd40592520a972c6993bfc83af78a21e64e9111e4154440241a4de5": {
+      "seenAt": "2026-11-21T01:41:17.909Z",
+      "title": "[포토] 비공개 의원총회 참석 위해 이동하는 정청래 의원 - 파이낸스투데이",
+      "targetName": "정청래"
+    },
+    "06e0afa1e3a765f19073d42a4511ff7d8da527520d96643cddbbaac3430bb2f2": {
+      "seenAt": "2026-11-21T01:41:18.535Z",
+      "title": "조국 \"거대 양당 중심 정치 바꿔야…다원 민주주의 확대해야\" - 아시아경제",
+      "targetName": "조국"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "3b487843373722f98b2de745c398d7b477b9e837ad8803b3ffaba346246d949b",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Demands Lower Gas Prices From Oil Companies, Chides Chevron CEO - EnergyNow.com",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFJ6YmgybVVRNmhHYmszYmhFVkw0T1JFQVFNUWk0SlRVMk12T3dZQzl5UmcxX1U0TGVqajI2WUJfRnhJOVhzdWt1XzBoQ3BXQXNuREhoZTg0eExLQjNLenYzd3pJeXZiZkExbG92UGFEbEU3Z2FmbWRTdGRYVURfVVl2NC1EYkIwaDl4V3JaQmRtb3ZHX05yYmRYZklwUEpy?oc=5\" target=\"_blank\">Trump Demands Lower Gas Prices From Oil Companies, Chides Chevron CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyNow.com</font>",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFJ6YmgybVVRNmhHYmszYmhFVkw0T1JFQVFNUWk0SlRVMk12T3dZQzl5UmcxX1U0TGVqajI2WUJfRnhJOVhzdWt1XzBoQ3BXQXNuREhoZTg0eExLQjNLenYzd3pJeXZiZkExbG92UGFEbEU3Z2FmbWRTdGRYVURfVVl2NC1EYkIwaDl4V3JaQmRtb3ZHX05yYmRYZklwUEpy?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 21:57:40 GMT",
+        "source": "EnergyNow.com",
+        "ageHours": 3.7
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
