@@ -427,5 +427,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b0b727e89cf255cfefd93ec7359396e3580043e0a77b3c84542202e6c7307c10",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Memecoin Hits 2026 Low As Price Slumps Ahead Of President’s VIP Dinner - TradingView",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcjBiYWRwT05CMXNXSEQzbVdzbEstR1JLUjIyaTVYTlBXMlRzdjRXU2xmOHoycFBtLV9fZjBRUVZDbUNnM0UzWUdHSU9rc2pkM3d1LTF0VTNQLUowb05MYlJjUTBQRU5ISzNmUWtUNDJEWG14VFdKUWItS0s0bHlPZktSaU84VHBEckVEMGhuSVhOQW1TS0pPaUJOUldOaVFkRVNvOHRRUXpOcEU2SXlZOVFYakdkQURodE9fSzFPTWlwQmlIZ2hVX2RYbXBmaEJjcC1B?oc=5\" target=\"_blank\">Trump Memecoin Hits 2026 Low As Price Slumps Ahead Of President’s VIP Dinner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcjBiYWRwT05CMXNXSEQzbVdzbEstR1JLUjIyaTVYTlBXMlRzdjRXU2xmOHoycFBtLV9fZjBRUVZDbUNnM0UzWUdHSU9rc2pkM3d1LTF0VTNQLUowb05MYlJjUTBQRU5ISzNmUWtUNDJEWG14VFdKUWItS0s0bHlPZktSaU84VHBEckVEMGhuSVhOQW1TS0pPaUJOUldOaVFkRVNvOHRRUXpOcEU2SXlZOVFYakdkQURodE9fSzFPTWlwQmlIZ2hVX2RYbXBmaEJjcC1B?oc=5",
+    "pubDate": "Sat, 21 Nov 2026 09:40:35 GMT",
+    "source": "TradingView",
+    "ageHours": 10.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Memecoin Hits 2026 Low As Price Slumps Ahead Of President’s VIP Dinner",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
