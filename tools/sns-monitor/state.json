@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-21T23:11:14.379Z",
+  "lastCheckedAt": "2026-11-21T23:21:14.027Z",
   "seenPostIds": {
     "aa038cb4e5c99bc8f41bf9155231ac43dbfb00b93e50a4f918350ec033faf835": {
       "seenAt": "2026-11-18T09:51:19.437Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-21T22:51:16.929Z",
       "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - AOL.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "fc473b042f93643a79ecd99c79c64d647d1583ffa4698ea77374860643c0ef5c": {
+      "seenAt": "2026-11-21T23:21:15.111Z",
+      "title": "‘이준석 사퇴’ 개혁신당, 비대위 전환 돌입…이르면 13일 지명 발표 - 쿠키뉴스",
+      "targetName": "이준석"
+    },
+    "0e618d3260cd4927b3d0b0dd4f3c8323d79693614200cafec77015865ae8cea3": {
+      "seenAt": "2026-11-21T23:21:15.718Z",
+      "title": "조국 조국혁신당 혁신정책연구원장, 창당 1,000일을 앞두고 ‘확장성 있는 당명’ 개정 제안 - 의정일보",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "6ff071ccacc968ba15a1a61f367fe20f3e1ab1e1f4dd94b4c788eb74a492c807",
-    "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - AOL.com",
+    "postId": "0e618d3260cd4927b3d0b0dd4f3c8323d79693614200cafec77015865ae8cea3",
+    "title": "조국 조국혁신당 혁신정책연구원장, 창당 1,000일을 앞두고 ‘확장성 있는 당명’ 개정 제안 - 의정일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "44958842527",
-    "sentAt": "2026-11-21T22:51:16.214Z"
+    "runId": "44961356057",
+    "sentAt": "2026-11-21T23:21:15.411Z"
   }
 }

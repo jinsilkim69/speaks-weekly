@@ -11909,3 +11909,29 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** ‘이준석 사퇴’ 개혁신당, 비대위 전환 돌입…이르면 13일 지명 발표 - 쿠키뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘이준석 사퇴’ 개혁신당, 비대위 전환 돌입…이르면 13일 지명 발표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE53MXoxTWxDWlkwdmtmOU5yVm9BQVdCOUc2dmJmclBmUmRUM210bkItU194YzZYVkZRTTJPbjhpOUVQM01NeEM1dl9zTzF1UHI5dGxCRDA2Y2d6M0FWTTZNVkFaYw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 조국혁신당 혁신정책연구원장, 창당 1,000일을 앞두고 ‘확장성 있는 당명’ 개정 제안 - 의정일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 조국혁신당 혁신정책연구원장, 창당 1,000일을 앞두고 ‘확장성 있는 당명’ 개정 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jemh1Q2Q3MHZ4cWdZQW5qdjRjaElvMUNFdm8wSVV2anJQSGJjZ1pDV215dUJZSVBPR3ByZFdSSTVhRHc0NTh1SThMcWNGVm9qM0YwOGY1Y21KWjJ2ZWpBampOUTlHUGFLWFE?oc=5)
+
+---
+
