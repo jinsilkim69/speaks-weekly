@@ -10830,3 +10830,16 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래는 꽃놀이패, 기각 책임은 김민석이 - 펜앤마이크
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래는 꽃놀이패, 기각 책임은 김민석이
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ock5xRlRTLWlxUmc0aGQ4bkRId05ncHZMR2phS0lfZkQ0VUtFN0tTTUt3VWY4QnV1VmhKY2JuN1dXNlNoaXk1eGxNZFlSeU9kOUZNUkx6RTVmYW1wbWVVTXlVckxrc2I1cVJr0gFvQVVfeXFMT2UxZlhMTkJWaDk5d2EtaWROY2dudGNPZ3ZvRFVRNU1NdUlyTnFiRXZuQjdWZFJjTDVPMlVmS1pnSHVpMDhVUHplamVRbjFpQkxDNXFvcEZtMi1KMy05Y090aEJRTlZQQW00WVVCalpZ?oc=5)
+
+---
+
