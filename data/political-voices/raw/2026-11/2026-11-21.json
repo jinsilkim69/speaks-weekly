@@ -2961,5 +2961,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4392365ee6b316740fa1a5bd6512f0bad84ab9c54920e6749d43401965e34946",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 “조희대 탄핵 무르지 말고 꼭 하라…민주당은 이제 내란정당” - 서울경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE01MEdiUDc3YUdXY1lwSVdISUl6Q2ZkUXM4MXJiMVViYVBCSzVRRk5pNmhqWVFGM2lJcHhwQUZ0T2piVVFTN3pJaEVLdWszV2ZBZHfSAVNBVV95cUxQdnFLd1djMUk0N0plaTBUSGNINjRPMGpxMWwwdmNyVXJxTEZVUEZyTkY1YUtXY20teldnaHZveVo0QzV0N3lJYUtWdWd0M3pXYlY1VQ?oc=5\" target=\"_blank\">한동훈 “조희대 탄핵 무르지 말고 꼭 하라…민주당은 이제 내란정당”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01MEdiUDc3YUdXY1lwSVdISUl6Q2ZkUXM4MXJiMVViYVBCSzVRRk5pNmhqWVFGM2lJcHhwQUZ0T2piVVFTN3pJaEVLdWszV2ZBZHfSAVNBVV95cUxQdnFLd1djMUk0N0plaTBUSGNINjRPMGpxMWwwdmNyVXJxTEZVUEZyTkY1YUtXY20teldnaHZveVo0QzV0N3lJYUtWdWd0M3pXYlY1VQ?oc=5",
+    "pubDate": "Sat, 21 Nov 2026 09:37:44 GMT",
+    "source": "서울경제",
+    "ageHours": 4.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 “조희대 탄핵 무르지 말고 꼭 하라…민주당은 이제 내란정당”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
