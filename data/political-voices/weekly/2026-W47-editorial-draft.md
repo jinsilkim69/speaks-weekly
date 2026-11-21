@@ -11623,3 +11623,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** 62 of the most stupid things Donald Trump has ever said - Indy100
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 62 of the most stupid things Donald Trump has ever said
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnZsQ19XenVkbV9hbENaZ1hCN2xZeWpRZkdIWTBvMk1KajBLVXpQRXRkSTN0VVcwS1VDV2xsQTVsZ2p2bTk0QS0wXzhybTAyeHlPbjlpbDFLX3Q1N29rSEJqclA3aThmRE54ZDN1eEVJajFvTDMzd1JPQUdCZUh1d1djLUJNT2FlVU5yQmdscVE?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump to Headline Freedom 250 Festival After Half of the Musical Acts Drop Off Lineup - TicketNews
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump to Headline Freedom 250 Festival After Half of the Musical Acts Drop Off Lineup
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2N2TDQzR1YxZ0JkcWgxUmxKRXdLLU9SbHhyQWRGQURpdXNDeWhQVEo5MU5PYmhfQmk3TFdkRExuV0lMcjJRQnNILUZYV2k5UnVwUV92WHJzMjIwejlKMndGeHR6S1V6ZVphcEVNd25zQVBlaWNCS1FGLUFLdWlRYWZSdWRhY196S0lyRjlIVzdLNjFDQ0Nj?oc=5)
+
+---
+
