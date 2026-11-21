@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T21:41:22.517Z",
+  "lastCheckedAt": "2026-11-21T21:51:18.869Z",
   "seenPostIds": {
-    "1d0d14f66d4fb77a39c4bf63657e79803dcf910214e3af547bd335c80f37153d": {
-      "seenAt": "2026-11-18T09:21:17.144Z",
-      "title": "김민석, 추경호 무죄에 \"법원의 퇴행적 판결\"… 정청래 \"조희대 탄핵\"(종합) - 뉴시스",
-      "targetName": "정청래"
-    },
     "d3a60b25cf552c827fab3ceb2f85131f935b02e90be63e6b163c96ae857a846a": {
       "seenAt": "2026-11-18T09:21:17.770Z",
       "title": "송영길 “金·鄭 만나야”…정청래“풉, 자격미달자 나서지마세요” - 문화일보",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-21T21:41:24.159Z",
       "title": "신천지 논란 순천 정청래 강연, 배후에 미키루크 이상호 - 시민언론 뉴탐사",
       "targetName": "정청래"
+    },
+    "576cb16c7100bb7d9d4691e3f3ef27d611b2bb6e1ce3de04465040143520c9f3": {
+      "seenAt": "2026-11-21T21:51:20.670Z",
+      "title": "한은, 기준금리 인상 재개하나...美 PCE·성장률 관심 [한동훈의 위클리전망대] - 서울경제",
+      "targetName": "한동훈"
+    },
+    "182ef06a6248de48dce0e1e0d915dc8d622d146724ad776e98a563c757a3e25d": {
+      "seenAt": "2026-11-21T21:51:21.421Z",
+      "title": "Trump-backed film incentive plan comes as California production falls - Mezha.net",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "447abecb348ce8ccfe6d200683bb995e7ce842fb400892f97e09f1bc7b240808",
-    "title": "신천지 논란 순천 정청래 강연, 배후에 미키루크 이상호 - 시민언론 뉴탐사",
+    "postId": "182ef06a6248de48dce0e1e0d915dc8d622d146724ad776e98a563c757a3e25d",
+    "title": "Trump-backed film incentive plan comes as California production falls - Mezha.net",
     "bot": "jongsuk_pol_bot",
-    "runId": "44952800018",
-    "sentAt": "2026-11-21T21:41:23.658Z"
+    "runId": "44953657641",
+    "sentAt": "2026-11-21T21:51:21.038Z"
   }
 }
