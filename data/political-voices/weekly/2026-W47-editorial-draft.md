@@ -10752,3 +10752,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵은 국헌문란 목적의 내란…가능성 0%" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵은 국헌문란 목적의 내란…가능성 0%"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTFA2Tm1nWWVlQzBFSzJTUkVIMUs4T3RGdzJ2VVlwX3Fzb0thVlZCS0p2TDlfejBBS2MwSHhBUTRKb093STEtWEhadlZidHh4MXRudWhseVptczhLT3FEZUhQYXY4djRWajRoSGR1R3paZWY5RnVNZWZQYU930gF_QVVfeXFMTTNwQTFUX2FGdFBWUndUaWY4elpwNFJITk5tOW1LaWxtdDNkZjkwR2hVMUpYOHk4QjJPS1JDcEZqd0NudHdGbjNCYkcwT18tM1Uyc0VVcFRWTzkzYTQ1NUZOV0VMb3pwcnc1Y3dVTmkzSGdrUUNVdTBTcFoyOGEyRQ?oc=5)
+
+---
+
