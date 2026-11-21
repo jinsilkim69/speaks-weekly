@@ -1311,5 +1311,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4daf248fa9f47e36664c0488d0acf88336237ecbeedea5d10e1ce1ab4e1bd1e4",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "내홍 속 취임 100일...김민석, '조희대 탄핵'으로 돌파구 찾나 - YTN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wdFdlTVplSUVObkUzSWx0Uzd2ejVPLS1idjk4UVZEenZyVGU0OWd2eGVvUEtDX1lLNXBFUGR2S1pFT1RfUVZOVHVqWEJZalg5S3Z4M21LVnR2bDlfNXc?oc=5\" target=\"_blank\">내홍 속 취임 100일...김민석, '조희대 탄핵'으로 돌파구 찾나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wdFdlTVplSUVObkUzSWx0Uzd2ejVPLS1idjk4UVZEenZyVGU0OWd2eGVvUEtDX1lLNXBFUGR2S1pFT1RfUVZOVHVqWEJZalg5S3Z4M21LVnR2bDlfNXc?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 20:14:00 GMT",
+    "source": "YTN",
+    "ageHours": 6.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 내홍 속 취임 100일...김민석, '조희대 탄핵'으로 돌파구 찾나",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
