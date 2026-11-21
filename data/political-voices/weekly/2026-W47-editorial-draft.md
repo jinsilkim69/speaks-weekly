@@ -10700,3 +10700,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "대법원 판결은 '12.3 계엄=내란' 밝힌 것"…與·장동혁 동시 겨냥 - 프레시안
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "대법원 판결은 '12.3 계엄=내란' 밝힌 것"…與·장동혁 동시 겨냥
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE9IcjcyUEZOX0pVOTRJWW1xYjFQZlFLekt2T0IyR2hQcFJ5WE9IWFl6QVRlZEVDTm1rXzMzUFpxcEt5cVRRd1ZYbW0weExkRUpLb0xqYThsLWg2YVU3Y1ZfOHFvWTZyclJTNjZn?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [칼럼] “당론 아니라던 정청래, 이제 와서 탄핵하라”…추미애도 뒤늦게 “일찍 탄핵했어야”, 그때는 머했을까?:내외신문 - 내외신문
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “당론 아니라던 정청래, 이제 와서 탄핵하라”…추미애도 뒤늦게 “일찍 탄핵했어야”, 그때는 머했을까?:내외신문
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QQUtyVkVjaDQ3VkZQNTItbmRPOGJVb2MzUVl1ZUNaT09RWGNMM3dNeGNpbVRVZ2EzRmxXbkswTHdBMFJMM2E4Yi0yQk1KZGtGRVBHTdIBZEFVX3lxTFBzaDFwUmZMa2pTZ0hrdHd0RmxDNFZYSENmb3ltV2ZDRWt1QnNKMDJaTXdhVlp5bG44MWpCTTBuY1hpc3ItbzF2UlZ4NDFuY1ZqYm1ZVllOSG92elF6ZFczZGwzSnQ?oc=5)
+
+---
+

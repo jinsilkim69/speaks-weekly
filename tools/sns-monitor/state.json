@@ -2515,6 +2515,16 @@
       "seenAt": "2026-11-21T03:21:20.545Z",
       "title": "박민영 ““한동훈계 정리와 세대교체 없으면 당 재건 불가”…통합론·원로 행보 정면 비판 - 파이낸스투데이",
       "targetName": "한동훈"
+    },
+    "ebd50bac9cc3e7aa4685ff1a01f3cf65bd6673fa3bd04039d9283f6879684cb5": {
+      "seenAt": "2026-11-21T03:31:17.983Z",
+      "title": "한동훈 \"대법원 판결은 '12.3 계엄=내란' 밝힌 것\"…與·장동혁 동시 겨냥 - 프레시안",
+      "targetName": "한동훈"
+    },
+    "a8e044e0da093363834d5948c8659284343b4504aaff9d9142723d1b3c89411a": {
+      "seenAt": "2026-11-21T03:31:18.665Z",
+      "title": "[칼럼] “당론 아니라던 정청래, 이제 와서 탄핵하라”…추미애도 뒤늦게 “일찍 탄핵했어야”, 그때는 머했을까?:내외신문 - 내외신문",
+      "targetName": "정청래"
     }
   },
   "pending": [
@@ -2531,39 +2541,9 @@
         "source": "www.dt.co.kr",
         "ageHours": 11.6
       },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ebd50bac9cc3e7aa4685ff1a01f3cf65bd6673fa3bd04039d9283f6879684cb5",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 \"대법원 판결은 '12.3 계엄=내란' 밝힌 것\"…與·장동혁 동시 겨냥 - 프레시안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9IcjcyUEZOX0pVOTRJWW1xYjFQZlFLekt2T0IyR2hQcFJ5WE9IWFl6QVRlZEVDTm1rXzMzUFpxcEt5cVRRd1ZYbW0weExkRUpLb0xqYThsLWg2YVU3Y1ZfOHFvWTZyclJTNjZn?oc=5\" target=\"_blank\">한동훈 \"대법원 판결은 '12.3 계엄=내란' 밝힌 것\"…與·장동혁 동시 겨냥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IcjcyUEZOX0pVOTRJWW1xYjFQZlFLekt2T0IyR2hQcFJ5WE9IWFl6QVRlZEVDTm1rXzMzUFpxcEt5cVRRd1ZYbW0weExkRUpLb0xqYThsLWg2YVU3Y1ZfOHFvWTZyclJTNjZn?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 12:43:33 GMT",
-        "source": "프레시안",
-        "ageHours": 14.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "a8e044e0da093363834d5948c8659284343b4504aaff9d9142723d1b3c89411a",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "[칼럼] “당론 아니라던 정청래, 이제 와서 탄핵하라”…추미애도 뒤늦게 “일찍 탄핵했어야”, 그때는 머했을까?:내외신문 - 내외신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QQUtyVkVjaDQ3VkZQNTItbmRPOGJVb2MzUVl1ZUNaT09RWGNMM3dNeGNpbVRVZ2EzRmxXbkswTHdBMFJMM2E4Yi0yQk1KZGtGRVBHTdIBZEFVX3lxTFBzaDFwUmZMa2pTZ0hrdHd0RmxDNFZYSENmb3ltV2ZDRWt1QnNKMDJaTXdhVlp5bG44MWpCTTBuY1hpc3ItbzF2UlZ4NDFuY1ZqYm1ZVllOSG92elF6ZFczZGwzSnQ?oc=5\" target=\"_blank\">[칼럼] “당론 아니라던 정청래, 이제 와서 탄핵하라”…추미애도 뒤늦게 “일찍 탄핵했어야”, 그때는 머했을까?:내외신문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">내외신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QQUtyVkVjaDQ3VkZQNTItbmRPOGJVb2MzUVl1ZUNaT09RWGNMM3dNeGNpbVRVZ2EzRmxXbkswTHdBMFJMM2E4Yi0yQk1KZGtGRVBHTdIBZEFVX3lxTFBzaDFwUmZMa2pTZ0hrdHd0RmxDNFZYSENmb3ltV2ZDRWt1QnNKMDJaTXdhVlp5bG44MWpCTTBuY1hpc3ItbzF2UlZ4NDFuY1ZqYm1ZVllOSG92elF6ZFczZGwzSnQ?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 23:49:00 GMT",
-        "source": "내외신문",
-        "ageHours": 3.5
-      },
-      "delivered": [],
+      "delivered": [
+        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
+      ],
       "archived": false
     }
   ]
