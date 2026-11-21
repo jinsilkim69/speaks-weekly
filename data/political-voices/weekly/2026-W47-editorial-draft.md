@@ -11480,3 +11480,16 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** '어이없는' 42년 민주당원 "조희대 탄핵? 정청래, 대표 시절 뭐 했나?" #shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '어이없는' 42년 민주당원 "조희대 탄핵? 정청래, 대표 시절 뭐 했나?" #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LbmhScXpodFNmSjdQalVmNE9USkktY3ZaYlhkUUFURzNsOU55STFzbWRzWGktYWV1ajFrVmpodzdocl9PWVpCOW5Va3FLdGMtelM4dGduTXRub2ZWSGx6bDNEU2NTejk3UVBXQV9SZnZsdElNY0VHSi1yanMtZEE?oc=5)
+
+---
+
