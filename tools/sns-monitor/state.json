@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-21T18:51:15.864Z",
+  "lastCheckedAt": "2026-11-21T19:11:17.265Z",
   "seenPostIds": {
     "510145236aa79192d4ec2d7b204c4ad0dec042221507f82926803845aca0c1d5": {
       "seenAt": "2026-11-18T08:51:17.097Z",
@@ -2500,6 +2500,16 @@
       "seenAt": "2026-11-21T18:21:22.318Z",
       "title": "Trump Shares Inaccurate Ranking of Presidents’ Midterm Losses - Newsweek",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "7cf0207f2e3ec80ef59f4b954d4beb039be0d235faf18edad48c3e952b581c75": {
+      "seenAt": "2026-11-21T19:11:18.695Z",
+      "title": "장동혁, 이재명에 \"억울하면 재판 받으라\"…'탈옥법' 추진 비판 - 국제뉴스",
+      "targetName": "이재명"
+    },
+    "f9c5dfceb3fcb8106028522bbcedbd77c45928d5f9072e1fe236fcac3b165621": {
+      "seenAt": "2026-11-21T19:11:19.402Z",
+      "title": "한동훈, 민주당 조희대 탄핵 추진 비판…\"이제 민주당은 '내란정당'\" - 국제뉴스",
+      "targetName": "한동훈"
     }
   },
   "pending": []

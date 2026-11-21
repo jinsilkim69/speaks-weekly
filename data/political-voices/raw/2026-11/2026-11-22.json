@@ -351,5 +351,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "7cf0207f2e3ec80ef59f4b954d4beb039be0d235faf18edad48c3e952b581c75",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "장동혁, 이재명에 \"억울하면 재판 받으라\"…'탈옥법' 추진 비판 - 국제뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9hckJPZUlnRjNwNFYxZ3V4UTc0cUU0LUlPRUV6QkY3TnZQaVdTOXRWbW9xbnJub1ZlSnl4OTRDRHRIeGg4ai1Uc2pGVm1tR3dRa1dzRWxLaGJtUGd5OFE2UlZxV3NpNXZjd2FubUJn?oc=5\" target=\"_blank\">장동혁, 이재명에 \"억울하면 재판 받으라\"…'탈옥법' 추진 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hckJPZUlnRjNwNFYxZ3V4UTc0cUU0LUlPRUV6QkY3TnZQaVdTOXRWbW9xbnJub1ZlSnl4OTRDRHRIeGg4ai1Uc2pGVm1tR3dRa1dzRWxLaGJtUGd5OFE2UlZxV3NpNXZjd2FubUJn?oc=5",
+    "pubDate": "Sat, 21 Nov 2026 18:57:22 GMT",
+    "source": "국제뉴스",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 장동혁, 이재명에 \"억울하면 재판 받으라\"…'탈옥법' 추진 비판",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "f9c5dfceb3fcb8106028522bbcedbd77c45928d5f9072e1fe236fcac3b165621",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈, 민주당 조희대 탄핵 추진 비판…\"이제 민주당은 '내란정당'\" - 국제뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE54NFhwWnBjZWhfVnQ1RGo5MS1yWndSZ3NvbWxYYkM1ZmhGenFoTUFpUzVnWkp2dHI1MldmMnh3VnM4eEprVjFoOUZ6NzJSOXdWeUxONXgxNDNEZXlleFBMUkhIWDFoc2RyRFQ2NnRB?oc=5\" target=\"_blank\">한동훈, 민주당 조희대 탄핵 추진 비판…\"이제 민주당은 '내란정당'\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54NFhwWnBjZWhfVnQ1RGo5MS1yWndSZ3NvbWxYYkM1ZmhGenFoTUFpUzVnWkp2dHI1MldmMnh3VnM4eEprVjFoOUZ6NzJSOXdWeUxONXgxNDNEZXlleFBMUkhIWDFoc2RyRFQ2NnRB?oc=5",
+    "pubDate": "Sat, 21 Nov 2026 18:55:32 GMT",
+    "source": "국제뉴스",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈, 민주당 조희대 탄핵 추진 비판…\"이제 민주당은 '내란정당'\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
