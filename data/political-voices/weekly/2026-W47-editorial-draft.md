@@ -10414,3 +10414,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 국민의힘, 이재명 대통령에 '탈옥 특검 멈추고 당장 재판받으라' 촉구 - 한국사회복지저널
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘, 이재명 대통령에 '탈옥 특검 멈추고 당장 재판받으라' 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE4xRmlxTENrMHhnSmJJUUdMaVVJbl9hckVFZzBobHdCZ2x4LXFuR2c0aTd2YnFSYUVXTWtxUTJpZTBoUElsX19nYkptT2RNdkNNMnJZdDljQ0JZOGd5ek9TYUN2N2NtcENfRTNV?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 조희대 탄핵 관련 기자회견 입장하는 신장식 대표 - 서울뉴스통신
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조희대 탄핵 관련 기자회견 입장하는 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1VMXBNbjFEZ1VxcHMwN3l6N0hDLVZubzJ6cGdJbl9HdUpsUDBCVUg0V0VUMDg0V3JjSUdQZ0JxdVk4dWpUbnEyNnFMbEx2b1JYSm5KRmZLNlFNRWJFbUxDSnlQMmRUWWlpZ25RMw?oc=5)
+
+---
+
