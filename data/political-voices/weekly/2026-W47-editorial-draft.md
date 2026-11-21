@@ -11272,3 +11272,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “‘조희대 탄핵 추진’ 민주당은 내란 정당…모두 감옥 갈 것” - 경기일보
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “‘조희대 탄핵 추진’ 민주당은 내란 정당…모두 감옥 갈 것”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmVUZ0WEVZYUpBV1Z6Z0hJd1dBTEtHNDBhZU9jTkl2UXdPYzhxbDQ3UzJuQVBOZm5lUVJJQ1JZTkFPU19jbTZCR1k0R2YzZ1B5SUpTR3lGeVFqb3M?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "與, 12·3에 무르지 말고 대법원장 탄핵 하라…모두 감옥 갈 것" - 뉴스1
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "與, 12·3에 무르지 말고 대법원장 탄핵 하라…모두 감옥 갈 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Jc1E1WWpvUUtHVW5iMFZKYmxUb2FWalM4YkVETktoZU9RVDF0RmJHRE10ZWtQNEdNUEJ2ZnRQWHN3RnBwd01hUjI1R3RjVV9YUUZLM3R6R0dyUQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 민주당 대표 "가장 큰 고민은 청년과의 동행…고루함 벗어야" - 아주경제
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 민주당 대표 "가장 큰 고민은 청년과의 동행…고루함 벗어야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jeHp5YzJQaE91NnoxOUZYSjlKbXhKdkctaHp4Q2JFQ1VCRkhXZkIyZjVwR2VneVM2dVQxNGUxT0lUM1l3MWczbTFiLVFJaktsYUtmQ1llR3NxUQ?oc=5)
+
+---
+
