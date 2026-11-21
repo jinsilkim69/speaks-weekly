@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-21T23:41:15.736Z",
+  "lastCheckedAt": "2026-11-21T23:51:21.582Z",
   "seenPostIds": {
     "9d21e2b63203149f907116ef3aab058ed3c3e4ade303f18c7a0933b8b334598d": {
       "seenAt": "2026-11-18T10:51:18.099Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-21T23:31:18.526Z",
       "title": "'취임 100일' 김민석…당정관계 안정에도 내부통합·지지율 숙제 - 연합뉴스",
       "targetName": "김민석"
+    },
+    "2e5d7c071174807d6b341286059bc0e7c776dcf8997c78fdf43378c529f1b91c": {
+      "seenAt": "2026-11-21T23:51:23.373Z",
+      "title": "김민석 “청년과 함께하는 것이 민주당 최대 과제” - 서울경제",
+      "targetName": "김민석"
+    },
+    "91ac2c167d486563fdc88f2da8da73c1f040edd87a05d9fc3cb9e7b55ef944be": {
+      "seenAt": "2026-11-21T23:51:24.131Z",
+      "title": "Trump Shares Yalta Comparison Featuring Himself, Xi and Putin - Newsweek",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "f69f9fc81fb146ea3358ee4c0fcb8c07bbfd196e53556f2f9522e8c1eee16ae6",
-    "title": "'취임 100일' 김민석…당정관계 안정에도 내부통합·지지율 숙제 - 연합뉴스",
+    "postId": "91ac2c167d486563fdc88f2da8da73c1f040edd87a05d9fc3cb9e7b55ef944be",
+    "title": "Trump Shares Yalta Comparison Featuring Himself, Xi and Putin - Newsweek",
     "bot": "jongsuk_pol_bot",
-    "runId": "44962171492",
-    "sentAt": "2026-11-21T23:31:18.159Z"
+    "runId": "44963773729",
+    "sentAt": "2026-11-21T23:51:23.748Z"
   }
 }

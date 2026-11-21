@@ -11974,3 +11974,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 “청년과 함께하는 것이 민주당 최대 과제” - 서울경제
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 “청년과 함께하는 것이 민주당 최대 과제”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FN1diNjRUR3FRQV9JRjNFX3JfS3JWSU5RaDVJU1BKRWdQQk9EQWdWbEtOUHA1OE1XbHUyNTVDczlzVklTeXN1LVp2aC1ESV94Rnc?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Shares Yalta Comparison Featuring Himself, Xi and Putin - Newsweek
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Shares Yalta Comparison Featuring Himself, Xi and Putin
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimgFBVV95cUxPaFNEamFlV20ybEt6NktZLXJ0UXAyRk5vTkNtUF9qSTJsMXVqbS1Bcjd6NHNid1U5anlxSWlteXJGTzg4Yko3T2ZfRktuc0dfQzdWcWRwbU94cDFXcHUyWEhtRjJrMXY3bWxfaG4yVVhzRVBZVFdEQm5YWDVGRmtLbFVuczhGajQ3LXFGQ3YwTTByeExnZXp6enVB?oc=5)
+
+---
+

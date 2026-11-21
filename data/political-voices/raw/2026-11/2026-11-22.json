@@ -928,5 +928,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "2e5d7c071174807d6b341286059bc0e7c776dcf8997c78fdf43378c529f1b91c",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 “청년과 함께하는 것이 민주당 최대 과제” - 서울경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FN1diNjRUR3FRQV9JRjNFX3JfS3JWSU5RaDVJU1BKRWdQQk9EQWdWbEtOUHA1OE1XbHUyNTVDczlzVklTeXN1LVp2aC1ESV94Rnc?oc=5\" target=\"_blank\">김민석 “청년과 함께하는 것이 민주당 최대 과제”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FN1diNjRUR3FRQV9JRjNFX3JfS3JWSU5RaDVJU1BKRWdQQk9EQWdWbEtOUHA1OE1XbHUyNTVDczlzVklTeXN1LVp2aC1ESV94Rnc?oc=5",
+    "pubDate": "Sat, 21 Nov 2026 12:19:21 GMT",
+    "source": "서울경제",
+    "ageHours": 11.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 “청년과 함께하는 것이 민주당 최대 과제”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "91ac2c167d486563fdc88f2da8da73c1f040edd87a05d9fc3cb9e7b55ef944be",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Shares Yalta Comparison Featuring Himself, Xi and Putin - Newsweek",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPaFNEamFlV20ybEt6NktZLXJ0UXAyRk5vTkNtUF9qSTJsMXVqbS1Bcjd6NHNid1U5anlxSWlteXJGTzg4Yko3T2ZfRktuc0dfQzdWcWRwbU94cDFXcHUyWEhtRjJrMXY3bWxfaG4yVVhzRVBZVFdEQm5YWDVGRmtLbFVuczhGajQ3LXFGQ3YwTTByeExnZXp6enVB?oc=5\" target=\"_blank\">Trump Shares Yalta Comparison Featuring Himself, Xi and Putin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaFNEamFlV20ybEt6NktZLXJ0UXAyRk5vTkNtUF9qSTJsMXVqbS1Bcjd6NHNid1U5anlxSWlteXJGTzg4Yko3T2ZfRktuc0dfQzdWcWRwbU94cDFXcHUyWEhtRjJrMXY3bWxfaG4yVVhzRVBZVFdEQm5YWDVGRmtLbFVuczhGajQ3LXFGQ3YwTTByeExnZXp6enVB?oc=5",
+    "pubDate": "Sat, 21 Nov 2026 23:21:00 GMT",
+    "source": "Newsweek",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Shares Yalta Comparison Featuring Himself, Xi and Putin",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
