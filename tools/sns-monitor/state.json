@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T22:01:14.386Z",
+  "lastCheckedAt": "2026-11-21T22:11:18.750Z",
   "seenPostIds": {
-    "1e9dce7abc1432fe65e136649be94c1ffdab797a6db3d31c8e7b9c303b8b7cac": {
-      "seenAt": "2026-11-18T09:31:18.419Z",
-      "title": "'추경호 무죄'에 대여 공세 강화…'한동훈 복당' 계파 갈등도 확산 - 머니투데이 - 머니투데이",
-      "targetName": "한동훈"
-    },
-    "05c10084bd6c711e0aa6a134d89fae60f78f4d7f1637e9ba14d2ef8ffc8cf1a1": {
-      "seenAt": "2026-11-18T09:31:19.325Z",
-      "title": "안철수, 추경호 무죄에 한동훈 겨냥…\"유죄 기우제 지낸 무리 정리해야\" - 뉴스핌",
-      "targetName": "한동훈"
-    },
     "ef69e8b190aeb734fb1c7667d76ae6e8453eda67454f34ad944d50f015339cf8": {
       "seenAt": "2026-11-18T09:31:19.982Z",
       "title": "\"징계 반대\" 정청래 참전에도…崔 최고위원직 위태 - 한국경제",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-21T22:01:16.420Z",
       "title": "Trump Hints Abdul El-Sayed’s Stroking-His-Ego Strategy May Be Working with ‘Medicare for All’ Message - Yahoo",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "b3e197187c716b8480a95e397361e611ac3f1ff786067645a493330b1a8ba093": {
+      "seenAt": "2026-11-21T22:11:20.748Z",
+      "title": "Trump shares Democratic senator-elect's 'TrumpCare' proposal on Truth Social - Anadolu Ajansı",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "824eaaf9c041df91d983d29c16c150d0202242a0e34b63df02f5b4f5598dbd18",
-    "title": "Trump Hints Abdul El-Sayed’s Stroking-His-Ego Strategy May Be Working with ‘Medicare for All’ Message - Yahoo",
+    "postId": "b3e197187c716b8480a95e397361e611ac3f1ff786067645a493330b1a8ba093",
+    "title": "Trump shares Democratic senator-elect's 'TrumpCare' proposal on Truth Social - Anadolu Ajansı",
     "bot": "jongsuk_pol_bot",
-    "runId": "44954495783",
-    "sentAt": "2026-11-21T22:01:16.088Z"
+    "runId": "44955398836",
+    "sentAt": "2026-11-21T22:11:20.174Z"
   }
 }

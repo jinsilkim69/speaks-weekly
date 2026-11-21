@@ -677,5 +677,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b3e197187c716b8480a95e397361e611ac3f1ff786067645a493330b1a8ba093",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump shares Democratic senator-elect's 'TrumpCare' proposal on Truth Social - Anadolu Ajansı",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNzl4aHNOeThuQll3UEdDMlN3djFONndLQVlBZHMxRUVha2ZJVmd6aTNIeVR4ME1tSXBybzlyUHpJWkRhVnFmcm8xcjdIaEtIS1JEN3VmT1JLRkZPbmRCbTBLazRRaUN4NmNjbjR3YlNLMjdxYjV0X09iX3dCbDduUkwtYUxwSEhyQTdmclE0d2s4RldMMnhSTUNsc3lPRGo2M04yUTZnaDlnSjlkbXJTZU1kRkZDUQ?oc=5\" target=\"_blank\">Trump shares Democratic senator-elect's 'TrumpCare' proposal on Truth Social</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajansı</font>",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNzl4aHNOeThuQll3UEdDMlN3djFONndLQVlBZHMxRUVha2ZJVmd6aTNIeVR4ME1tSXBybzlyUHpJWkRhVnFmcm8xcjdIaEtIS1JEN3VmT1JLRkZPbmRCbTBLazRRaUN4NmNjbjR3YlNLMjdxYjV0X09iX3dCbDduUkwtYUxwSEhyQTdmclE0d2s4RldMMnhSTUNsc3lPRGo2M04yUTZnaDlnSjlkbXJTZU1kRkZDUQ?oc=5",
+    "pubDate": "Sat, 21 Nov 2026 22:05:38 GMT",
+    "source": "Anadolu Ajansı",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump shares Democratic senator-elect's 'TrumpCare' proposal on Truth Social",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
