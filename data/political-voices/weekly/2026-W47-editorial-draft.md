@@ -11337,3 +11337,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 대학수학능력시험 부정행위 신고 포상금에 “건당 최소 1억원, 행위자 수만큼 가산” - 시사뉴스
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 대학수학능력시험 부정행위 신고 포상금에 “건당 최소 1억원, 행위자 수만큼 가산”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XLXZPbndIN044VGVORkFjV0FJcGpDeUF4ekFZUDh6SzlJZDBHTkJUQndVQ3J5T0lBR0s4LW5jZlRjT20tU0RWTWcxWEZ5WkNtQUhodXozR09ReDNwUExldDA2MA?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "민주당 큰 고민 중 하나는 청년…더 함께하고 싶다"(종합) - 연합뉴스
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "민주당 큰 고민 중 하나는 청년…더 함께하고 싶다"(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfQ0ZEQzRJaWNySXBsVnY0b2ptMXFpazNteXI3eWR6SDV3bHRtZTNUYWN0cVY3bTQ0TkJmYzBGczM2N1VFUl9fN3V1bEFRMjl0b1ZpMHdCc3d4U1XSAWBBVV95cUxOcEdFdTA1MUV2VG1CdmVBM3kxM196WlAtOW9Bcl9DZDhUUUJoRmlOLXJhMXJuOTdXdFY4ZW5uTnZSRjg5b0oxU2FkSWs4elRxSEZaSFVOYTJmeWhpLXFCNnQ?oc=5)
+
+---
+
