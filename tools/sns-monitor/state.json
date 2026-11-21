@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T22:11:18.750Z",
+  "lastCheckedAt": "2026-11-21T22:21:15.196Z",
   "seenPostIds": {
-    "ef69e8b190aeb734fb1c7667d76ae6e8453eda67454f34ad944d50f015339cf8": {
-      "seenAt": "2026-11-18T09:31:19.982Z",
-      "title": "\"징계 반대\" 정청래 참전에도…崔 최고위원직 위태 - 한국경제",
-      "targetName": "정청래"
-    },
     "9a7a1ae8a93820e3342a58ae73c83cfd50a25561767f268269d5150b40596b97": {
       "seenAt": "2026-11-18T09:41:21.572Z",
       "title": "'추경호 무죄'에 대여 공세 강화…'한동훈 복당' 계파 갈등도 확산 - 머니투데이 - 머니투데이",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-21T22:11:20.748Z",
       "title": "Trump shares Democratic senator-elect's 'TrumpCare' proposal on Truth Social - Anadolu Ajansı",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "9a229c2de334b5299557f06c8a7361d4f0750f61472c44968c191c619372d6f3": {
+      "seenAt": "2026-11-21T22:21:16.619Z",
+      "title": "조국 “이재명 정부 성공하려면 무조건 박수쳐선 안 돼…잘못 지적하고 대안 내야” - 쿠키뉴스",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "b3e197187c716b8480a95e397361e611ac3f1ff786067645a493330b1a8ba093",
-    "title": "Trump shares Democratic senator-elect's 'TrumpCare' proposal on Truth Social - Anadolu Ajansı",
+    "postId": "9a229c2de334b5299557f06c8a7361d4f0750f61472c44968c191c619372d6f3",
+    "title": "조국 “이재명 정부 성공하려면 무조건 박수쳐선 안 돼…잘못 지적하고 대안 내야” - 쿠키뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "44955398836",
-    "sentAt": "2026-11-21T22:11:20.174Z"
+    "runId": "44956286668",
+    "sentAt": "2026-11-21T22:21:15.924Z"
   }
 }
