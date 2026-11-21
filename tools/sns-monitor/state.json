@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T22:41:13.440Z",
+  "lastCheckedAt": "2026-11-21T22:51:15.474Z",
   "seenPostIds": {
-    "b54eb82464d5ce2ad7eb78cfc3455dfe8fc147e7a6a9f8fa47fb2ccbb325782a": {
-      "seenAt": "2026-11-18T09:41:23.161Z",
-      "title": "우원식 “김민석, 간담상조 자세로...정청래, 솔로몬 재판 떠올리길” - 한겨레",
-      "targetName": "정청래"
-    },
     "1427a63d832f151ee30b78570bd1124811bafda84db24c57444015b19134349c": {
       "seenAt": "2026-11-18T09:51:18.603Z",
       "title": "신장식 조국혁신당 대표 “12년 방치 영종 크린넷, 정책 실패 선언해야” - 인천투데이",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-21T22:41:14.798Z",
       "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - Yahoo News UK",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "6ff071ccacc968ba15a1a61f367fe20f3e1ab1e1f4dd94b4c788eb74a492c807": {
+      "seenAt": "2026-11-21T22:51:16.929Z",
+      "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - AOL.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "ece26823f392aa0fc86d51cb6292e7e3591b3e6ef5f878f1f5036bdc36119e2a",
-    "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - Yahoo News UK",
+    "postId": "6ff071ccacc968ba15a1a61f367fe20f3e1ab1e1f4dd94b4c788eb74a492c807",
+    "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - AOL.com",
     "bot": "jongsuk_pol_bot",
-    "runId": "44958001654",
-    "sentAt": "2026-11-21T22:41:14.167Z"
+    "runId": "44958842527",
+    "sentAt": "2026-11-21T22:51:16.214Z"
   }
 }

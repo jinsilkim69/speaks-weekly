@@ -777,5 +777,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6ff071ccacc968ba15a1a61f367fe20f3e1ab1e1f4dd94b4c788eb74a492c807",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - AOL.com",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPaUdPZFU2M3FvMUN3Q1gtRUtkdTZnYVl2Q21EZExUcmFOTUNxTFl4YUxEU2Q0ZXJVaEVSbU15Y3YwNk1IWUkwaDQtbmk1Q3FhdWQxVldhblpFYi1YVHVEWlBiaGk0bUpSSkNjS1F6YTA2UmtRYUpDSXZGdXliMVd2Yg?oc=5\" target=\"_blank\">Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaUdPZFU2M3FvMUN3Q1gtRUtkdTZnYVl2Q21EZExUcmFOTUNxTFl4YUxEU2Q0ZXJVaEVSbU15Y3YwNk1IWUkwaDQtbmk1Q3FhdWQxVldhblpFYi1YVHVEWlBiaGk0bUpSSkNjS1F6YTA2UmtRYUpDSXZGdXliMVd2Yg?oc=5",
+    "pubDate": "Sat, 21 Nov 2026 22:21:02 GMT",
+    "source": "AOL.com",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
