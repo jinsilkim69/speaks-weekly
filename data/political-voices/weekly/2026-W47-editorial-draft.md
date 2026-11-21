@@ -11090,3 +11090,42 @@
 
 ---
 
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 개혁신당, 천하람 순천 출마 수용…공천 조기 확정 - 쿠키뉴스
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 개혁신당, 천하람 순천 출마 수용…공천 조기 확정
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hUVhoZWh2S0xUc28zU2J1bDRYZ21WQzBnM29yakF1SDdEUWdfS0hVMWxoN2oyQmJJSzF2QnFmY24yQ0diQnhMWVphQ0FIa0VDR25TTUFhNlhXSmRTUjE4blJqMA?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "李·민주당, 민주공화정의 적…대한민국을 후진국 만들어" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "李·민주당, 민주공화정의 적…대한민국을 후진국 만들어"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE4wVUItRENlUlBzaE5NenBvLTFrTDlfQ0VLejRuNWxvMHp5T1lXT0pwbmZZZ19qQUhJQ0hiLUYxcjQ0T01hWWRZcXV1TGdRM3NhT3plMU1ZUFl4a2JtUDZVWm5nQjdXbzhVbEFWWdIBckFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "與, 12·3에 무르지 말고 '曺 탄핵' 꼭 하라…이제 내란정당" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "與, 12·3에 무르지 말고 '曺 탄핵' 꼭 하라…이제 내란정당"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTFAzQUQtenJVSVhpcnpSNkxRellJY0hjdTctcWFfMHFZUlFTRWlKTVRndWN0VElpd2wxTlNuRnFqem9rU2FUUHdVUEZ2MjJqak9EajhabUpxLXpGWTVOWDhsVEduVm1YbkJ1U0diN1J4MHBfY2NNUTFmSmJ30gF_QVVfeXFMT0V0MDk4WXQzaTlIN3dwN01OaHlqUzZlTEt4UUh6cXl2T1k0VVVLT3pWWjRxQktzblltRWx5TkEwM2lGV2ZhTVhvYUlrRW02andSdDBoSzdHeS1QWXVHVHBsMjl6ZDhSLXpRQXAxVlk1ME1XQURlVEt2bDNtZklSNA?oc=5)
+
+---
+

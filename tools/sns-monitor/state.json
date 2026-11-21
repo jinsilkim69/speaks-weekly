@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T08:41:15.537Z",
+  "lastCheckedAt": "2026-11-21T08:51:16.949Z",
   "seenPostIds": {
-    "0abbc735334b628d4870011fa32673e8c0108d625ad7498f134d3844ea61d885": {
-      "seenAt": "2026-11-18T06:01:21.693Z",
-      "title": "‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라” - 주간경향",
-      "targetName": "정청래"
-    },
-    "208eab646dd03ba276a34b6bed7ee8d979bc8a8f0e9e53f8c066ef00a54c973e": {
-      "seenAt": "2026-11-18T06:01:22.489Z",
-      "title": "[단독] '어린이보호구역 현수막' 지적받은 개혁신당…이준석 의원이 또 - 노컷뉴스",
-      "targetName": "이준석"
-    },
-    "ab6a1776d2dbe1f110cc8f881ab1f177709e4186a95d9c4f9866fa5a781a8d5a": {
-      "seenAt": "2026-11-18T06:11:18.426Z",
-      "title": "이준석, 비행기서 ‘AI커닝 탐지 앱’ 개발…“블루투스 신호 탐지” - 세계일보",
-      "targetName": "이준석"
-    },
     "7dc05558c39e01c3274c5c003556655b26bb596b97926de71626a4b4c88d3e5a": {
       "seenAt": "2026-11-18T06:11:19.626Z",
       "title": "[기획특집_세계를 움직이는 정상들의 아침을 여는 SNS 소통 메시지 ①] 이재명은 수능, 트럼프는 기름값… 정상들이 뉴스보다 먼저 띄운 말 - STN SPORTS",
@@ -2515,37 +2500,36 @@
       "seenAt": "2026-11-21T08:41:17.870Z",
       "title": "김민석 \"민주당 최대고민 중 하나는 '청년과 함께하는' 것\" - 노컷뉴스",
       "targetName": "김민석"
+    },
+    "450a59125bd0bb633fcf11ddb66091b8423e6cefcd98784d487c8cc738c8844d": {
+      "seenAt": "2026-11-21T08:51:18.280Z",
+      "title": "개혁신당, 천하람 순천 출마 수용…공천 조기 확정 - 쿠키뉴스",
+      "targetName": "천하람"
+    },
+    "3ca98271956c27ee6d6d199e4f75547ded11218d7bd18138eb5c010d31aa957c": {
+      "seenAt": "2026-11-21T08:51:19.024Z",
+      "title": "한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
+    },
+    "bc99aaa44a249c6bca138957359e5c47d8421c5e77a07454d5593396c18cc2f2": {
+      "seenAt": "2026-11-21T08:51:19.736Z",
+      "title": "한동훈 \"與, 12·3에 무르지 말고 '曺 탄핵' 꼭 하라…이제 내란정당\" - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "450a59125bd0bb633fcf11ddb66091b8423e6cefcd98784d487c8cc738c8844d",
-        "targetId": "cheon_haram",
-        "targetName": "천하람",
-        "targetTitle": "개혁신당 원내대표",
-        "title": "개혁신당, 천하람 순천 출마 수용…공천 조기 확정 - 쿠키뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hUVhoZWh2S0xUc28zU2J1bDRYZ21WQzBnM29yakF1SDdEUWdfS0hVMWxoN2oyQmJJSzF2QnFmY24yQ0diQnhMWVphQ0FIa0VDR25TTUFhNlhXSmRTUjE4blJqMA?oc=5\" target=\"_blank\">개혁신당, 천하람 순천 출마 수용…공천 조기 확정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">쿠키뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hUVhoZWh2S0xUc28zU2J1bDRYZ21WQzBnM29yakF1SDdEUWdfS0hVMWxoN2oyQmJJSzF2QnFmY24yQ0diQnhMWVphQ0FIa0VDR25TTUFhNlhXSmRTUjE4blJqMA?oc=5",
-        "pubDate": "Sat, 21 Nov 2026 05:39:41 GMT",
-        "source": "쿠키뉴스",
-        "ageHours": 2.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "3ca98271956c27ee6d6d199e4f75547ded11218d7bd18138eb5c010d31aa957c",
+        "id": "3c0a2643c7cb7fdb5c6e9248a183d3b6d2ac3eacca44ac529b2b1046740cec68",
         "targetId": "han_donghoon",
         "targetName": "한동훈",
         "targetTitle": "국민의힘 대표",
-        "title": "한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4wVUItRENlUlBzaE5NenBvLTFrTDlfQ0VLejRuNWxvMHp5T1lXT0pwbmZZZ19qQUhJQ0hiLUYxcjQ0T01hWWRZcXV1TGdRM3NhT3plMU1ZUFl4a2JtUDZVWm5nQjdXbzhVbEFWWdIBckFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UQ?oc=5\" target=\"_blank\">한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wVUItRENlUlBzaE5NenBvLTFrTDlfQ0VLejRuNWxvMHp5T1lXT0pwbmZZZ19qQUhJQ0hiLUYxcjQ0T01hWWRZcXV1TGdRM3NhT3plMU1ZUFl4a2JtUDZVWm5nQjdXbzhVbEFWWdIBckFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UQ?oc=5",
-        "pubDate": "Sat, 21 Nov 2026 07:54:34 GMT",
-        "source": "머니투데이",
-        "ageHours": 0.8
+        "title": "한동훈 \"민주당, 12·3에 조희대 탄핵 꼭 하라…모두 감옥갈 것\" - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYk1YMTU0MHJPMXdZZHN6TUJMdTRRUktFSjJxWWZSSi1rb3gxTHI2WmV5MUl5RTJNOHQ4VlZMR0NQVjFra3pSNmhrODdmV1JfMlo5dXlqVVRBX0cyT1J0WnFrb1lYd2xBTWJ5OUtuZEdTZUNVdDRhTEJwWmhETVZZSFRFMG1rUDk3ZlZZSmUtdEw1UHdhenlVdXQyVkthVGlrcEFXY1hmdlVsZTRBZ050TXBmcWdjSmF6TEYwWjNueE9iTEpMU2hRMjZlUEFfVm5CXzFmMTVwUlZ5NEtUYWgwbnA5MVBOUFFWeVd5X0FfYk5wcmFLQ05SQw?oc=5\" target=\"_blank\">한동훈 \"민주당, 12·3에 조희대 탄핵 꼭 하라…모두 감옥갈 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYk1YMTU0MHJPMXdZZHN6TUJMdTRRUktFSjJxWWZSSi1rb3gxTHI2WmV5MUl5RTJNOHQ4VlZMR0NQVjFra3pSNmhrODdmV1JfMlo5dXlqVVRBX0cyT1J0WnFrb1lYd2xBTWJ5OUtuZEdTZUNVdDRhTEJwWmhETVZZSFRFMG1rUDk3ZlZZSmUtdEw1UHdhenlVdXQyVkthVGlrcEFXY1hmdlVsZTRBZ050TXBmcWdjSmF6TEYwWjNueE9iTEpMU2hRMjZlUEFfVm5CXzFmMTVwUlZ5NEtUYWgwbnA5MVBOUFFWeVd5X0FfYk5wcmFLQ05SQw?oc=5",
+        "pubDate": "Sat, 21 Nov 2026 08:42:00 GMT",
+        "source": "데일리안",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
