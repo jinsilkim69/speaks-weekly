@@ -11493,3 +11493,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump shares cartoon of UFC CEO Dana White as White House press secretary on Truth Social - fox23.com
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump shares cartoon of UFC CEO Dana White as White House press secretary on Truth Social
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinANBVV95cUxPVzVtbDI4ZjdlUERxaXJRMVhzNXA4S0lPSjhqTm04V1RFLTRISElZYl9KS3hZbXRzajdZckhUWS1fdGlPMU1hOVd1MkxXaUdBc1RyemtUNXQtdkZlRHg3WHg5cHlYNGFmWWMwZUp6T2RqMkc4cm1RWUMzSmpka3ZXdjhkU3Vic3lMOU1hQ2kxZ0VONGthZnBkZEdqMU9lOE5uTWZrYmFOTFh3aGNGSkg1MjY4eFNDa09MZ01ZcHZBNjlrWlZzNUVIX0tIVmNDZGRMLTAxQTFqZkYzNjdLeFBsMHBOMkl5U1NRZXR5a1B0azNyZlh4VTNaTFpJUlZUNXNIdDJnZS1iZXBHRWJxUDFpa1NBOC1EUEFsOHJKVWIxLW5WRmVFTk1SR2MxclhCMzJJcGRWTmpwQzlYcDc3aHNOTlFyM3RDZlhuT2IzRDY0WGFEdEpUUzJRNDlzMVJabWhoS202M2RzeG56TFRTeUNNcGtzYWw2blZqNkNYRllMbWpuUFdncmtFbWd1U0RWLWZEMGMzc3BqMjRTb3hJ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5)
+
+---
+
