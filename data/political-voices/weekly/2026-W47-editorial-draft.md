@@ -10609,3 +10609,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 민주 ‘대법원장 탄핵 추진’에…한동훈 "국헌문란 목적 내란, 미쳐도 곱게 미쳐야" - JTBC
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주 ‘대법원장 탄핵 추진’에…한동훈 "국헌문란 목적 내란, 미쳐도 곱게 미쳐야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Wb0lXRE12NXBNSWJ4Z2lZYTJZcDVxODY0bjJuTDBCNXFPSmJfaXVERGxoLW9MaUhRX2VrWEhSVlM5UFJ3T19DeUJiVVk2VDl5ZlE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 취임 100일 앞두고 '조희대 탄핵' 꺼낸 김민석…지지율 반전 승부수 통할까 - 데일리안
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 취임 100일 앞두고 '조희대 탄핵' 꺼낸 김민석…지지율 반전 승부수 통할까
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSXhITjFaTk15MjdKWV9IaV80bXdVdmdPalMwNXBhWlJuckJrV19Xa2dGWDFyS2dVX1dzSkNucTVpamgtcXVtNlVFX0ZHVENlRzhEN0RVVFNmMTZ2YWNNcHdyVDJGNXB1NkhxdTZUWmVlR19hdV8wTWdaY3g1X1d5S3dQZXN1alRob191ZkhpTzdUQUJMY1BpVVNRWEVfU0lQZndUelVuSDM5SnJPYjd3QjRpRFRxWVU4R2lXZ1hNN1FWYUJkVk5wUWFORTMwclVicXFEZ0VGemlYMnZBS3F1ZWROQldUNFBBQlVEOTFsXzlzdkFoSlBwVg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [칼럼] “당론 아니라던 정청래, 이제 와서 탄핵하라”…추미애도 뒤늦게 “일찍 탄핵했어야”, 그때는 머했을까?:내외신문 - 내외신문
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “당론 아니라던 정청래, 이제 와서 탄핵하라”…추미애도 뒤늦게 “일찍 탄핵했어야”, 그때는 머했을까?:내외신문
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzaDFwUmZMa2pTZ0hrdHd0RmxDNFZYSENmb3ltV2ZDRWt1QnNKMDJaTXdhVlp5bG44MWpCTTBuY1hpc3ItbzF2UlZ4NDFuY1ZqYm1ZVllOSG92elF6ZFczZGwzSnTSAWRBVV95cUxQc2gxcFJmTGtqU2dIa3R3dEZsQzRWWEhDZm95bVdmQ0VrdUJzSjAyWk13YVZaeWxuODFqQk0wbmNYaXNyLW8xdlJWeDQxbmNWamJtWVZZTkhvdnpRemRXM2RsM0p0?oc=5)
+
+---
+
