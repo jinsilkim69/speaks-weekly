@@ -13,7 +13,7 @@ async function api(method, body) {
 }
 async function verify() {
 const bot = await api('getMe', {});
-if (bot.username !== 'speaks_radar_bot') throw new Error('기존 봇 계정 불일치: @' + bot.username);
+if (bot.username !== 'jongsuk_pol_bot') throw new Error('기존 봇 계정 불일치: @' + bot.username);
 const sent = await api('sendMessage', {chat_id:admin.chatId, text:'[수신 확인] 위클리 스픽스 SNS 레이더의 기존 봇 연결을 점검했습니다.'});
 if (!sent.message_id || String(sent.chat.id) !== String(admin.chatId) || sent.from.id !== bot.id) throw new Error('발송 결과 불일치');
 console.log('기존 봇의 관리자 대화방 발송 확인');
