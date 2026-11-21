@@ -10921,3 +10921,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 “울산 방문해 시민들 만나…관광 많이 오시라” - 경상일보
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “울산 방문해 시민들 만나…관광 많이 오시라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9aXzVMRF9TZHNqbDgwMXJfUnV3dW1Cd3ljb1NEb1hzNzl6bGc1N1ZEd3dfY3Nqa0xtVDVYc3NPX1UxX2x4OWg3MlZkWDNaNTBGRlJiZVRBWmRzc1lWVElseTNBYy03T3EzZ0s3NQ?oc=5)
+
+---
+
