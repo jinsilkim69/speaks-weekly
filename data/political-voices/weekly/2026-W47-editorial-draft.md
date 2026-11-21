@@ -11051,3 +11051,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 “수능 부정행위 1건당 최소 1억원 포상” - 메디컬투데이
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “수능 부정행위 1건당 최소 1억원 포상”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1sUWZSY0lzLXNibXN4S290eE1VZTZFZjZTNW54RDctN3FZZEVjZkVxVHpQTEVNOTlHR3dsUDRIbmVmd0FNMHVpdUx4RTBHNXBtbC0teTJwWGVVNzRpcDRFSHJHMnZPRTJ0R2hWUA?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “민주, 조희대 탄핵 무르지 말고 12·3일 꼭 해라···모두 감옥갈 것” - 주간경향
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “민주, 조희대 탄핵 무르지 말고 12·3일 꼭 해라···모두 감옥갈 것”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RWXd4TzRtRXRuQ2JORzJOQ1dKcHFjaWwyUDJZd29Zd1JESG9lamV4aHl1V2hmUS16dUw5SU15blBsTnZwdUtkSDZ1YURWTlhLSEFldDhXTXBOVHZTamc?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "민주당 최대고민 중 하나는 '청년과 함께하는' 것" - 노컷뉴스
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "민주당 최대고민 중 하나는 '청년과 함께하는' 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HaV85d0Y3RUlvNHF3ZTJNVXV0RXlvdzBPRlUxaVpsbm1obklKTm5NSzltMVZqcHA1NXlxVUNPTU1maERFdUZQTDM3MFJwMDNMUGc?oc=5)
+
+---
+

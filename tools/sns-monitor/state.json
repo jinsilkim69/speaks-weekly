@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T08:31:15.746Z",
+  "lastCheckedAt": "2026-11-21T08:41:15.537Z",
   "seenPostIds": {
-    "ed5feabfb3af157272ead2f06cc279843f2ca2d7266fd700f6b7c1a00d3cb474": {
-      "seenAt": "2026-11-18T05:51:15.712Z",
-      "title": "정청래 “최민희 징계 반대…신천지 공세가 해당 행위” - 한겨레",
-      "targetName": "정청래"
-    },
-    "76cead75ec0934c39948346e9de463716a8514e3d7106e32045bdabc0bcff00f": {
-      "seenAt": "2026-11-18T05:51:16.322Z",
-      "title": "‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라” - 주간경향",
-      "targetName": "송영길"
-    },
-    "39cc7c1a3de0a1ea0d6668017b88fdab8aa814a2d4c8b4406cd50702a64a9104": {
-      "seenAt": "2026-11-18T06:01:20.844Z",
-      "title": "경찰청장 후보자 “한동훈 딸 수사 아쉬움…감찰조사하겠다” - 채널A",
-      "targetName": "한동훈"
-    },
     "0abbc735334b628d4870011fa32673e8c0108d625ad7498f134d3844ea61d885": {
       "seenAt": "2026-11-18T06:01:21.693Z",
       "title": "‘대타협’ 언급한 송영길에, 정청래 “풉, 자격 미달자는 나서지 마시라” - 주간경향",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-21T08:31:18.078Z",
       "title": "이재명 대통령, 울산 AI데이터센터 현장 찾아 \"세계경쟁서 속도가 생명\" - 연합뉴스",
       "targetName": "이재명"
+    },
+    "8b9d5ec9b6502f71d31dbfbdeb70e572c4475e9694006edf314839ddcb3c7c37": {
+      "seenAt": "2026-11-21T08:41:16.593Z",
+      "title": "이재명 대통령 “수능 부정행위 1건당 최소 1억원 포상” - 메디컬투데이",
+      "targetName": "이재명"
+    },
+    "8973ba4988ddf84f84592bb1a09d04ee3f93d5cb812463d1ef3eb1f76f1be650": {
+      "seenAt": "2026-11-21T08:41:17.216Z",
+      "title": "한동훈 “민주, 조희대 탄핵 무르지 말고 12·3일 꼭 해라···모두 감옥갈 것” - 주간경향",
+      "targetName": "한동훈"
+    },
+    "0aa1617157248383c02094339f12e732e99f85a801b647c8b7ff5fcde792e9a6": {
+      "seenAt": "2026-11-21T08:41:17.870Z",
+      "title": "김민석 \"민주당 최대고민 중 하나는 '청년과 함께하는' 것\" - 노컷뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "8b9d5ec9b6502f71d31dbfbdeb70e572c4475e9694006edf314839ddcb3c7c37",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령 “수능 부정행위 1건당 최소 1억원 포상” - 메디컬투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1sUWZSY0lzLXNibXN4S290eE1VZTZFZjZTNW54RDctN3FZZEVjZkVxVHpQTEVNOTlHR3dsUDRIbmVmd0FNMHVpdUx4RTBHNXBtbC0teTJwWGVVNzRpcDRFSHJHMnZPRTJ0R2hWUA?oc=5\" target=\"_blank\">이재명 대통령 “수능 부정행위 1건당 최소 1억원 포상”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">메디컬투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sUWZSY0lzLXNibXN4S290eE1VZTZFZjZTNW54RDctN3FZZEVjZkVxVHpQTEVNOTlHR3dsUDRIbmVmd0FNMHVpdUx4RTBHNXBtbC0teTJwWGVVNzRpcDRFSHJHMnZPRTJ0R2hWUA?oc=5",
-        "pubDate": "Sat, 21 Nov 2026 07:11:08 GMT",
-        "source": "메디컬투데이",
-        "ageHours": 1.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "8973ba4988ddf84f84592bb1a09d04ee3f93d5cb812463d1ef3eb1f76f1be650",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 “민주, 조희대 탄핵 무르지 말고 12·3일 꼭 해라···모두 감옥갈 것” - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RWXd4TzRtRXRuQ2JORzJOQ1dKcHFjaWwyUDJZd29Zd1JESG9lamV4aHl1V2hmUS16dUw5SU15blBsTnZwdUtkSDZ1YURWTlhLSEFldDhXTXBOVHZTamc?oc=5\" target=\"_blank\">한동훈 “민주, 조희대 탄핵 무르지 말고 12·3일 꼭 해라···모두 감옥갈 것”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RWXd4TzRtRXRuQ2JORzJOQ1dKcHFjaWwyUDJZd29Zd1JESG9lamV4aHl1V2hmUS16dUw5SU15blBsTnZwdUtkSDZ1YURWTlhLSEFldDhXTXBOVHZTamc?oc=5",
-        "pubDate": "Sat, 21 Nov 2026 08:23:00 GMT",
-        "source": "주간경향",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "0aa1617157248383c02094339f12e732e99f85a801b647c8b7ff5fcde792e9a6",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 \"민주당 최대고민 중 하나는 '청년과 함께하는' 것\" - 노컷뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HaV85d0Y3RUlvNHF3ZTJNVXV0RXlvdzBPRlUxaVpsbm1obklKTm5NSzltMVZqcHA1NXlxVUNPTU1maERFdUZQTDM3MFJwMDNMUGc?oc=5\" target=\"_blank\">김민석 \"민주당 최대고민 중 하나는 '청년과 함께하는' 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">노컷뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HaV85d0Y3RUlvNHF3ZTJNVXV0RXlvdzBPRlUxaVpsbm1obklKTm5NSzltMVZqcHA1NXlxVUNPTU1maERFdUZQTDM3MFJwMDNMUGc?oc=5",
-        "pubDate": "Sat, 21 Nov 2026 07:53:39 GMT",
-        "source": "노컷뉴스",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "450a59125bd0bb633fcf11ddb66091b8423e6cefcd98784d487c8cc738c8844d",
@@ -2578,6 +2530,22 @@
         "pubDate": "Sat, 21 Nov 2026 05:39:41 GMT",
         "source": "쿠키뉴스",
         "ageHours": 2.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "3ca98271956c27ee6d6d199e4f75547ded11218d7bd18138eb5c010d31aa957c",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4wVUItRENlUlBzaE5NenBvLTFrTDlfQ0VLejRuNWxvMHp5T1lXT0pwbmZZZ19qQUhJQ0hiLUYxcjQ0T01hWWRZcXV1TGdRM3NhT3plMU1ZUFl4a2JtUDZVWm5nQjdXbzhVbEFWWdIBckFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UQ?oc=5\" target=\"_blank\">한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wVUItRENlUlBzaE5NenBvLTFrTDlfQ0VLejRuNWxvMHp5T1lXT0pwbmZZZ19qQUhJQ0hiLUYxcjQ0T01hWWRZcXV1TGdRM3NhT3plMU1ZUFl4a2JtUDZVWm5nQjdXbzhVbEFWWdIBckFVX3lxTE5IdjFHcEktY0lVdWFCclVWZVZUcElPaEJUeE4yVThlXzdSMmlGVS0yNTV1TUxYM3FhczgxM2lGeUJGZGZqbDRmY0o2YlR0eXBxQXRBRktRV3dJeDJ4cXp6SDJSbHpzYUY0ckNDVWE0RlJ0UQ?oc=5",
+        "pubDate": "Sat, 21 Nov 2026 07:54:34 GMT",
+        "source": "머니투데이",
+        "ageHours": 0.8
       },
       "delivered": [],
       "archived": false
