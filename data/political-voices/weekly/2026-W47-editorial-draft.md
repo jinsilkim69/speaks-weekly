@@ -11311,3 +11311,16 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** '하루 만에 금메달 박탈!' 대반전 터지나? 조국서 아파트+훈장 받은 카자흐 경보 선수, 金 되찾기 돌입…CAS 제소 - www.xportsnews.com
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '하루 만에 금메달 박탈!' 대반전 터지나? 조국서 아파트+훈장 받은 카자흐 경보 선수, 金 되찾기 돌입…CAS 제소
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5bUxfQ1JKb2phUnRwUEw1UFZaZk1FYzZsbDZENkpTTTdvTmRKNnUxRl9LS3ExOWV4c1p6X0tpSTM5TFlBbDBDZWJ6b0xESkNyZWwzVUdR?oc=5)
+
+---
+
