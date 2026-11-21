@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T02:31:19.070Z",
+  "lastCheckedAt": "2026-11-21T02:41:17.238Z",
   "seenPostIds": {
-    "0128543f65e10a72d54de66c6da880792e99e89de441cdc49b64b9cabb69e4db": {
-      "seenAt": "2026-11-18T02:41:18.801Z",
-      "title": "나경원 \"부정행위 1억 포상? 이준석 앱, 전문가 대책을 적극 검토하라\" - 머니투데이 - 머니투데이",
-      "targetName": "이준석"
-    },
-    "a3dcd6506895ba011818d76ae947e8eeea75e7277982a670d0f6771e029bb074": {
-      "seenAt": "2026-11-18T02:41:19.559Z",
-      "title": "전용기 \"조국 日 입국 거부, 나도 비슷한 일…상호주의 원칙 어긋\" - 뉴시스",
-      "targetName": "조국"
-    },
     "40c04289feb49687a363a36b307bfb41ba6e09ab79b1123e5c37463cefc8690e": {
       "seenAt": "2026-11-18T02:51:18.809Z",
       "title": "日 언론, 조국 하네다공항 입국 거부에 '실형 전력·독도 방문' 주목 - 프리진뉴스",
@@ -2510,6 +2500,16 @@
       "seenAt": "2026-11-21T02:31:21.328Z",
       "title": "Trump posthumously pardons baseball 'SUPERSTAR & LEGEND' Pete Rose - WLOS",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "094159f44e62781041a217749763562700b7f0fb8b094b51566e610e09734df1": {
+      "seenAt": "2026-11-21T02:41:18.568Z",
+      "title": "이재명 대통령 \"대장동 개발, 공익 환수에도 배임죄?\" 논란의 중심에 서다 - 공감신문",
+      "targetName": "이재명"
+    },
+    "cbcc9279934da7407c0a0d83e4ca46c3fd55b7944e142136b4f1232d87cc928e": {
+      "seenAt": "2026-11-21T02:41:19.302Z",
+      "title": "신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" #shorts - OhmyNews",
+      "targetName": "신장식"
     }
   },
   "pending": []
