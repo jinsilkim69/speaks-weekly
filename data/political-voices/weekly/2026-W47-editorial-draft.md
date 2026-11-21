@@ -11662,3 +11662,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Shares Inaccurate Ranking of Presidents’ Midterm Losses - Newsweek
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Shares Inaccurate Ranking of Presidents’ Midterm Losses
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUkV4TnBUS09pbXZUNUxkblZ3U0tTY1dvWTROMVVOT0xGMHlTTGIxcnRMVlo1SzNDNVVEQ2dxdHhBWjJoUkY4Vk5SQXRDR2xSM3pvUWpIbmFJVHJxNUMxcVN0enYweTgtT0haU1NfbHVLSmM2R2dnbUxINk5ReUdhOGlDZ3VVWURrQVN1TXF6TUZfUnUyQ3pxUDZn?oc=5)
+
+---
+
