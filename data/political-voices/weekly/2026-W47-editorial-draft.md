@@ -11519,3 +11519,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "與, 12·3에 무르지 말고 '曺 탄핵' 꼭 하라…이제 내란정당" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "與, 12·3에 무르지 말고 '曺 탄핵' 꼭 하라…이제 내란정당"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1YMDFQdEVDVmlYM1hEa3FQMUk2OURxRnFaWklPZjREcXNuRmc1S085Y2VmMXZ2UWtMa2NIZ2YzWmdxc2NZX085cmFBZVVsSWlEOFVuWG9ndkxHTElpYTJVV0lCR1kydWgtREZqStIBckFVX3lxTE15aW1rOGo1cHoyZVRGalJHenYxWXVJMmhDWEJlQXZYc1RRY0Q0YkZ6SkE1TFA4clU5dUpUejZtdXRDWG85b1g1WnBKZzZOdm5iSzZuS3B0TDBxdnFnemp4T2FuallWNmZ3TnRwbzlxX3pXdw?oc=5)
+
+---
+

@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T15:11:19.013Z",
+  "lastCheckedAt": "2026-11-21T15:21:18.630Z",
   "seenPostIds": {
-    "fe5d8dcaef0f8dfa03d79f24b910b34d4000b5e20e65aaec664397fb91ad0014": {
-      "seenAt": "2026-11-18T08:01:18.916Z",
-      "title": "정청래 \"최민희 징계 강력 반대\"…김민석 대표 향해 \"신천지 정치공작이 해당행위\" - 스페셜타임스",
-      "targetName": "김민석"
-    },
-    "4ed2c5270054bb5cbbf33b1506145786b24a645c3e72375e854a4b6047dfe359": {
-      "seenAt": "2026-11-18T08:01:19.573Z",
-      "title": "정청래 “최민희 징계 반대... 사과는 ‘그만하라’ 할 때까지 해야” - 조선일보",
-      "targetName": "정청래"
-    },
     "8ef932d817c77eebb3475b126e767f0c72c1311c46486f610df53d79b812a1fb": {
       "seenAt": "2026-11-18T08:11:17.213Z",
       "title": "조국혁신당, 추경호 '계엄해제 표결 방해 혐의' 1심 무죄에 \"조희대 탄핵해야\" - 뉴시스",
@@ -2510,6 +2500,11 @@
       "seenAt": "2026-11-21T15:11:20.644Z",
       "title": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "644ddb2cec089b83b0b5267980391b89b3360764932bace2b4422a4e97593c8f": {
+      "seenAt": "2026-11-21T15:21:20.131Z",
+      "title": "한동훈 \"與, 12·3에 무르지 말고 '曺 탄핵' 꼭 하라…이제 내란정당\" - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
     }
   },
   "pending": []
