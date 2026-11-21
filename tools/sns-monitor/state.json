@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-21T21:31:13.369Z",
+  "lastCheckedAt": "2026-11-21T21:41:22.517Z",
   "seenPostIds": {
     "1d0d14f66d4fb77a39c4bf63657e79803dcf910214e3af547bd335c80f37153d": {
       "seenAt": "2026-11-18T09:21:17.144Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-21T21:21:17.609Z",
       "title": "Trump once again called Putin his friend — this time dedicating a separate post to him on Truth Social - Українські Національні Новини (УНН)",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "447abecb348ce8ccfe6d200683bb995e7ce842fb400892f97e09f1bc7b240808": {
+      "seenAt": "2026-11-21T21:41:24.159Z",
+      "title": "신천지 논란 순천 정청래 강연, 배후에 미키루크 이상호 - 시민언론 뉴탐사",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "0ccbbeec07bdf4665c0258e5b7e67832641a9338438bf80edcf82edc70a2182e",
-    "title": "Trump once again called Putin his friend — this time dedicating a separate post to him on Truth Social - Українські Національні Новини (УНН)",
+    "postId": "447abecb348ce8ccfe6d200683bb995e7ce842fb400892f97e09f1bc7b240808",
+    "title": "신천지 논란 순천 정청래 강연, 배후에 미키루크 이상호 - 시민언론 뉴탐사",
     "bot": "jongsuk_pol_bot",
-    "runId": "44951073273",
-    "sentAt": "2026-11-21T21:21:17.279Z"
+    "runId": "44952800018",
+    "sentAt": "2026-11-21T21:41:23.658Z"
   }
 }
