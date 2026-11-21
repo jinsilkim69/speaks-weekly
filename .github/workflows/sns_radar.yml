@@ -5,8 +5,11 @@ concurrency:
   cancel-in-progress: false
 
 on:
+  push:
+    branches: [main]
+    paths: ['tools/sns-monitor/verify-admin.mjs']
   schedule:
-    # 10분 간격으로 정각을 피해 예약 (GitHub 지연 가능)
+    # 10분마다 클라우드에서 자동 실행 (내 컴퓨터가 꺼져 있어도 작동)
     - cron: '3-59/10 * * * *'
   workflow_dispatch: # 수동 즉시 실행 지원
 
@@ -18,12 +21,18 @@ jobs:
 
     steps:
       - name: 저장소 코드 가져오기
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      - name: Node.js 20 설치
-        uses: actions/setup-node@v4
+      - name: Node.js 24 설치
+        uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 24
+
+      - name: 기존 레이더 봇 관리자 수신 확인
+        if: github.event_name == 'push'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: node tools/sns-monitor/verify-admin.mjs
 
       - name: 10대 정치인 SNS 실시간 발언 수집 & 텔레그램 발송 & 주간지 아카이빙
         env:
@@ -39,5 +48,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add tools/sns-monitor/state.json data/political-voices/
-          git commit -m "chore: archive politician sns speeches for weekly magazine [skip ci]" || echo "변경 사항 없음"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: archive politician sns speeches for weekly magazine [skip ci]"
+            git push
+          fi

@@ -9,7 +9,7 @@ import {contentHash} from '../scripts/editorial-catalog.mjs';
 const root=path.resolve(import.meta.dirname,'..');
 
 test('named AI reporters share values but retain different beats; disclosure and length are enforced',()=>{
- const config=writerProfiles(root);assert.equal(new Set(config.profiles.map(p=>p.name)).size,7);
+ const config=writerProfiles(root);assert.ok(config.profiles.length >= 7);assert.equal(new Set(config.profiles.map(p=>p.name)).size,config.profiles.length);
  assert.match(config.common.identity,/자발적 이타주의/);
  const base={id:'politics-copy',lead:'핵심',bodyParagraphs:['## 분량에서 제외할 소제목','가'.repeat(5100)]};
  const article=assignReporter(base,config.profiles[0]);assert.equal(reporterLength(article),5104);validateReporter(article,root);

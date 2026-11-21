@@ -9,6 +9,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
+import { setTimeout as delay } from 'node:timers/promises';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -41,11 +42,20 @@ export async function collectTargetPosts(target) {
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&${langParam}`;
 
   try {
-    const res = await fetch(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    let res;
+    for (let attempt = 0; attempt < 2; attempt++) {
+      try {
+        res = await fetch(url, {
+          signal: AbortSignal.timeout(12000),
+          headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
+        });
+        if (res.status < 500 || res.ok || attempt === 1) break;
+        await res.body?.cancel();
+      } catch (error) {
+        if (attempt === 1) throw error;
       }
-    });
+      await delay(1000);
+    }
 
     if (!res.ok) {
       throw new Error(`검색 응답 HTTP ${res.status}`);
@@ -67,7 +77,7 @@ export async function collectTargetPosts(target) {
       const sourceMatch = itemXml.match(/<source[^>]*>(.*?)<\/source>/);
 
       const title = titleMatch ? decodeEntities(titleMatch[1].trim()) : '';
-      const link = linkMatch ? linkMatch[1].trim() : '';
+      const link = linkMatch ? decodeEntities(linkMatch[1].trim()) : '';
       const pubDateStr = pubDateMatch ? pubDateMatch[1].trim() : '';
       const desc = descMatch ? decodeEntities(descMatch[1].replace(/<[^>]+>/g, '').trim()) : '';
       const source = sourceMatch ? decodeEntities(sourceMatch[1].trim()) : '속보 언론';
@@ -89,8 +99,7 @@ export async function collectTargetPosts(target) {
       // 발언 관련 키워드 검증
       const isPoliticalStatement =
         title.includes(target.name) ||
-        title.includes('트럼프') ||
-        title.includes('Trump') ||
+        (target.id === 'donald_trump' && /트럼프|\bTrump\b/i.test(title)) ||
         desc.includes(target.name);
 
       if (isPoliticalStatement) {
@@ -118,7 +127,7 @@ export async function collectTargetPosts(target) {
 /**
  * 전체 10인 정치인 피드 일괄 수집 & 캐시 대조
  */
-export async function collectAllNewPosts(config, state) {
+export async function collectAllNewPosts(config, state, onTargetError) {
   const newPosts = [];
   const seenMap = state.seenPostIds || {};
 
@@ -126,7 +135,14 @@ export async function collectAllNewPosts(config, state) {
 
   for (const target of config.targets) {
     if (!target.active) continue;
-    const posts = await collectTargetPosts(target);
+    let posts;
+    try {
+      posts = await collectTargetPosts(target);
+    } catch (error) {
+      if (!onTargetError) throw error;
+      onTargetError(error);
+      continue;
+    }
 
     for (const post of posts) {
       if (!seenMap[post.id]) {

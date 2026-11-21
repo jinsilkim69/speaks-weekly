@@ -42,6 +42,9 @@ export async function analyzePoliticalPost(post, geminiApiKey = null) {
         const jsonText = data.candidates?.[0]?.content?.parts?.[0]?.text;
         if (jsonText) {
           const parsed = JSON.parse(jsonText);
+          if (!Array.isArray(parsed?.summaryPoints) || !parsed.summaryPoints.every(p => typeof p === 'string') ||
+              !Array.isArray(parsed.keywords) || !parsed.keywords.every(k => typeof k === 'string') ||
+              typeof parsed.impact !== 'string') throw new Error('분석 결과 형식 오류');
           return {
             ...post,
             analysis: parsed

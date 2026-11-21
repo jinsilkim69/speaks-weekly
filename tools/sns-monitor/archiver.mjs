@@ -29,7 +29,7 @@ export async function archivePoliticalPosts(posts) {
   const now = new Date();
   const dateStr = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit' }).format(now);
   const monthStr = dateStr.substring(0, 7); // YYYY-MM
-  const weekStr = getIsoWeek(now); // YYYY-Www
+  const weekStr = getIsoWeek(new Date(dateStr + 'T12:00:00')); // 일자와 같은 한국 기준 주차
 
   const rawDir = path.join(ARCHIVE_ROOT, 'raw', monthStr);
   const dailyDir = path.join(ARCHIVE_ROOT, 'daily');
@@ -43,7 +43,7 @@ export async function archivePoliticalPosts(posts) {
   const rawFile = path.join(rawDir, `${dateStr}.json`);
   let rawList = [];
   if (fs.existsSync(rawFile)) {
-    try { rawList = JSON.parse(fs.readFileSync(rawFile, 'utf8')); } catch (e) {}
+    rawList = JSON.parse(fs.readFileSync(rawFile, 'utf8'));
   }
   rawList.push(...posts);
   fs.writeFileSync(rawFile, JSON.stringify(rawList, null, 2), 'utf8');

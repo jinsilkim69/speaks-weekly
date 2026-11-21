@@ -29,7 +29,10 @@ const recipientKey = s => createHash('sha256').update(String(s.chatId)).digest('
 async function main() {
   let posts = [];
   let failed = false;
-  try { posts = await collectAllNewPosts(config, state); }
+  try { posts = await collectAllNewPosts(config, state, error => {
+    failed = true;
+    console.error(error.message);
+  }); }
   catch (err) { failed = true; console.error(err.message); }
   const queued = new Set(state.pending.map(item => item.post.id));
   for (const post of posts) {
@@ -52,6 +55,11 @@ async function main() {
       if (!item.archived) { await archivePoliticalPosts([analyzed]); item.archived = true; }
       state.seenPostIds[item.post.id] = { seenAt: new Date().toISOString(), title: item.post.title, targetName: item.post.targetName };
       state.pending = state.pending.filter(entry => entry.post.id !== item.post.id);
+      save();
+    } else {
+      // 실패한 알림 세 건이 이후의 모든 발송을 가로막지 않도록 순서를 돌린다.
+      state.pending.splice(state.pending.indexOf(item), 1);
+      state.pending.push(item);
       save();
     }
   }

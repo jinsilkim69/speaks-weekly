@@ -19,7 +19,7 @@ export async function sendTelegramNotification(botToken, subscribers, post) {
 
 👤 <b>검색 대상:</b> ${escapeHtml(post.targetName)} (직함 확인 필요)
 📅 <b>시각:</b> ${new Date().toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' })}
-📰 <b>출처:</b> ${post.source || 'SNS / 속보'}
+📰 <b>출처:</b> ${escapeHtml(post.source || 'SNS / 속보')}
 
 ━━━━━━━━━━━━━━━━━━━━
 📢 <b>미확인 뉴스 검색 후보</b>
@@ -34,7 +34,7 @@ ${escapeHtml(bullets)}
 
 🏷️ <b>키워드:</b> ${escapeHtml(tags)}
 ━━━━━━━━━━━━━━━━━━━━
-👉 <a href="${post.link}">[원문 보도 및 SNS 발언 확인하기 ↗]</a>
+👉 <a href="${escapeHtml(post.link)}">[원문 보도 및 SNS 발언 확인하기 ↗]</a>
 `.trim();
 
   let sentCount = 0;
@@ -58,7 +58,7 @@ ${escapeHtml(bullets)}
       if (res.ok && data.ok) {
         sentCount++;
       } else {
-        console.warn('[발송 실패] Telegram HTTP 상태:', res.status, '오류 코드:', Number(data.error_code) || 0, '유형:', /chat not found/i.test(data.description || '') ? 'chat_not_found' : /bot was blocked/i.test(data.description || '') ? 'bot_blocked' : /parse entities/i.test(data.description || '') ? 'invalid_format' : /unauthorized/i.test(data.description || '') ? 'unauthorized' : 'other');
+        console.warn(`[발송 실패] Telegram HTTP ${res.status}, API 오류 ${Number(data.error_code) || '미상'}`);
       }
     } catch (err) {
       console.error(`[네트워크 에러] ${sub.name}:`, err.message);
@@ -72,5 +72,6 @@ function escapeHtml(text = '') {
   return text
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;');
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
 }
