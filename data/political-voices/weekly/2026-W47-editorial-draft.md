@@ -10661,3 +10661,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 박지원 "한동훈, 이재명 시한부 대통령?...헛소리, 입만 벌리면 거짓말, 수사받고 감옥 가자"[여의도초대석] - KBC광주방송
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원 "한동훈, 이재명 시한부 대통령?...헛소리, 입만 벌리면 거짓말, 수사받고 감옥 가자"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE91Y1g2NnVSQjFoaGN2RF9CWTZ1S1ptVEpLWlZIaEkxUnFhNFZpZ0haVkFral9rdmlKUUg4THA5cDhkLXJQb3hadmNLc3NvY3VITG9WVEZjbjZ2NzYtaEpLcw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 조작징계 의혹에 “결국 진실 드러나···기획·공작 예상했다” - 주간경향
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 조작징계 의혹에 “결국 진실 드러나···기획·공작 예상했다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUVdYellJVTBZb1ZTN2xRdGVSN0hRT0IyQ01ZTWJBRzdQNXFWZ3FVVlN5OElLclB3OVQteW1GU1VZV3dqb2hLQzJmVzd6ejZRaV81a2hsMWktZ1lySEE?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 박민영 ““한동훈계 정리와 세대교체 없으면 당 재건 불가”…통합론·원로 행보 정면 비판 - 파이낸스투데이
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박민영 ““한동훈계 정리와 세대교체 없으면 당 재건 불가”…통합론·원로 행보 정면 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1HOWZpeURka245QzlHSk9McG1HNFhXX2U0WEF4S3dvTHlQZkFIQmpHS0FsV09HS1QzazMxWng4QVIwbEg5QlZodXZDQjFuc0xpelF3T2Y5dHZIU3J3cVpUeExUbE13TVBPYzNuUQ?oc=5)
+
+---
+

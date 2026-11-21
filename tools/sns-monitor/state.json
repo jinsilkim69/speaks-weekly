@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T03:11:19.591Z",
+  "lastCheckedAt": "2026-11-21T03:21:17.755Z",
   "seenPostIds": {
-    "9ae756cdf68a57a3c1182cedb824319589a807ded05757d06998eb898dda1ddb": {
-      "seenAt": "2026-11-18T03:01:18.691Z",
-      "title": "정청래, 조국 방일 불허에 \"다카이치 총리의 미래지향은 허언인가\" - 머니투데이 - 머니투데이",
-      "targetName": "조국"
-    },
     "41ada739c3610e5bcc2acdc41cfd4e20428b7d287d9906bfb84f48650c1a672f": {
       "seenAt": "2026-11-18T03:01:19.368Z",
       "title": "발언하는 신장식 대표 - 뉴시스",
@@ -2505,7 +2500,71 @@
       "seenAt": "2026-11-21T03:11:21.003Z",
       "title": "김민석 \"내란 면죄부 준 조희대 탄핵, 더 미룰 수 없는 역사적 판단\" - 머니투데이 - 머니투데이",
       "targetName": "김민석"
+    },
+    "7485db030e8a784f645ae5352c66e80855e621cdbc7016f462eb6518c8c67b27": {
+      "seenAt": "2026-11-21T03:21:19.095Z",
+      "title": "박지원 \"한동훈, 이재명 시한부 대통령?...헛소리, 입만 벌리면 거짓말, 수사받고 감옥 가자\"[여의도초대석] - KBC광주방송",
+      "targetName": "한동훈"
+    },
+    "9ca50aa8dc4b919fba7d1e2b909ca0da5c22c70998011802503dde127b5378ab": {
+      "seenAt": "2026-11-21T03:21:19.807Z",
+      "title": "한동훈, 조작징계 의혹에 “결국 진실 드러나···기획·공작 예상했다” - 주간경향",
+      "targetName": "한동훈"
+    },
+    "ef0080e6d24c4c0f32a323b7943e7051be2abc5e037e5b3f1a59c77b84771702": {
+      "seenAt": "2026-11-21T03:21:20.545Z",
+      "title": "박민영 ““한동훈계 정리와 세대교체 없으면 당 재건 불가”…통합론·원로 행보 정면 비판 - 파이낸스투데이",
+      "targetName": "한동훈"
     }
   },
-  "pending": []
+  "pending": [
+    {
+      "post": {
+        "id": "73bd1c3117a81bed9bc96f4f1b8014addafbc2263366a1919f61ada8441460c3",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈이 김민석을 ‘도요토미 히데요시’라 부른 이유 - www.dt.co.kr",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XUy1hQnlMUHY1Rm5UQXQ1cUNRd3hFTnNDRml3TDhkU3ExWnJHRWJpT1I1WV9fYmlsOGhhV0sxTWhSSVZoWmt3cVFyYTNPdw?oc=5\" target=\"_blank\">한동훈이 김민석을 ‘도요토미 히데요시’라 부른 이유</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.dt.co.kr</font>",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XUy1hQnlMUHY1Rm5UQXQ1cUNRd3hFTnNDRml3TDhkU3ExWnJHRWJpT1I1WV9fYmlsOGhhV0sxTWhSSVZoWmt3cVFyYTNPdw?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 15:43:58 GMT",
+        "source": "www.dt.co.kr",
+        "ageHours": 11.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ebd50bac9cc3e7aa4685ff1a01f3cf65bd6673fa3bd04039d9283f6879684cb5",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 \"대법원 판결은 '12.3 계엄=내란' 밝힌 것\"…與·장동혁 동시 겨냥 - 프레시안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9IcjcyUEZOX0pVOTRJWW1xYjFQZlFLekt2T0IyR2hQcFJ5WE9IWFl6QVRlZEVDTm1rXzMzUFpxcEt5cVRRd1ZYbW0weExkRUpLb0xqYThsLWg2YVU3Y1ZfOHFvWTZyclJTNjZn?oc=5\" target=\"_blank\">한동훈 \"대법원 판결은 '12.3 계엄=내란' 밝힌 것\"…與·장동혁 동시 겨냥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IcjcyUEZOX0pVOTRJWW1xYjFQZlFLekt2T0IyR2hQcFJ5WE9IWFl6QVRlZEVDTm1rXzMzUFpxcEt5cVRRd1ZYbW0weExkRUpLb0xqYThsLWg2YVU3Y1ZfOHFvWTZyclJTNjZn?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 12:43:33 GMT",
+        "source": "프레시안",
+        "ageHours": 14.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "a8e044e0da093363834d5948c8659284343b4504aaff9d9142723d1b3c89411a",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "[칼럼] “당론 아니라던 정청래, 이제 와서 탄핵하라”…추미애도 뒤늦게 “일찍 탄핵했어야”, 그때는 머했을까?:내외신문 - 내외신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QQUtyVkVjaDQ3VkZQNTItbmRPOGJVb2MzUVl1ZUNaT09RWGNMM3dNeGNpbVRVZ2EzRmxXbkswTHdBMFJMM2E4Yi0yQk1KZGtGRVBHTdIBZEFVX3lxTFBzaDFwUmZMa2pTZ0hrdHd0RmxDNFZYSENmb3ltV2ZDRWt1QnNKMDJaTXdhVlp5bG44MWpCTTBuY1hpc3ItbzF2UlZ4NDFuY1ZqYm1ZVllOSG92elF6ZFczZGwzSnQ?oc=5\" target=\"_blank\">[칼럼] “당론 아니라던 정청래, 이제 와서 탄핵하라”…추미애도 뒤늦게 “일찍 탄핵했어야”, 그때는 머했을까?:내외신문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">내외신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QQUtyVkVjaDQ3VkZQNTItbmRPOGJVb2MzUVl1ZUNaT09RWGNMM3dNeGNpbVRVZ2EzRmxXbkswTHdBMFJMM2E4Yi0yQk1KZGtGRVBHTdIBZEFVX3lxTFBzaDFwUmZMa2pTZ0hrdHd0RmxDNFZYSENmb3ltV2ZDRWt1QnNKMDJaTXdhVlp5bG44MWpCTTBuY1hpc3ItbzF2UlZ4NDFuY1ZqYm1ZVllOSG92elF6ZFczZGwzSnQ?oc=5",
+        "pubDate": "Fri, 20 Nov 2026 23:49:00 GMT",
+        "source": "내외신문",
+        "ageHours": 3.5
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ]
 }
