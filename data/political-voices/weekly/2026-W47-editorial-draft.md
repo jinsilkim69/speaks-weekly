@@ -11194,3 +11194,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "민주당 대법원장 탄핵 추진은 내란 자백"…12월 3일 발의 방침 직격 - 스페셜타임스
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "민주당 대법원장 탄핵 추진은 내란 자백"…12월 3일 발의 방침 직격
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE56OGE0ZXN1c2RUblF6SDhBM2VFNjJMOXhuWHFMTjFacWpBTFp3eTROanZuTzBLMUVhMTZ3d1RhNVhzRTFxc1pBQW5HcDZzMVY0Rk52cmF5Tnpuc3VoWHFnWHBqaXVmelZPMVVkZXU5M1hwVEk?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** '하루 만에 금메달 박탈!' 대반전 터지나? 조국서 아파트+훈장 받은 카자흐 경보 선수, 金 되찾기 돌입…CAS 제소 - www.xportsnews.com
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '하루 만에 금메달 박탈!' 대반전 터지나? 조국서 아파트+훈장 받은 카자흐 경보 선수, 金 되찾기 돌입…CAS 제소
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IaFNQaXlKNkg0RUZRMThiMENyMExrVkY3ZzNrVWpDS0N3MjJhelZMTVNwM3UwQ0Qwc3NyM2tDbTlrTU5RQzdfMHhzZHZwbGpzQWY2LQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump posthumously pardons baseball 'SUPERSTAR & LEGEND' Pete Rose - WKEF
+
+- **수집일**: 2026-11-21 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump posthumously pardons baseball 'SUPERSTAR & LEGEND' Pete Rose
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiugFBVV95cUxPeVZpNjB5dTlwMS1mc3JUcndYMi1jVE44c3dFcHVtcVFHMkd5elBlVFdoQ1B0cmVaR3dkUXUzb3pkX291c1BMZHVXSklOT05SZkdtTHRYcmVPdGVEWHhGb3l2aDY0WC1rMUlWMUR1RXRGeDBTVjRHcVJQU1NZQ2Q1dUlHVDA3YmN2ZUZ3UXFVOG9MMkN2OUlsbTZJWmRQYWVJaURVaW9Cbjl5bU5OckNZN1RhZjN2djgxd2c?oc=5)
+
+---
+

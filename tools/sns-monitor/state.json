@@ -1,26 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T09:11:19.994Z",
+  "lastCheckedAt": "2026-11-21T09:31:16.076Z",
   "seenPostIds": {
-    "02ff01b670c9608d503eef53bb6445e47467f2d0ec5bded36d0064c82674e532": {
-      "seenAt": "2026-11-18T06:21:23.591Z",
-      "title": "'최민희 징계'에 입 연 정청래 \"징계 강력하게 반대\" - 이데일리",
-      "targetName": "정청래"
-    },
-    "289c23e6df52f27df0e639dea7c0d1a7c75df07b2ea99d4cd9671a39770cdf12": {
-      "seenAt": "2026-11-18T06:31:17.529Z",
-      "title": "정청래 \"최민희 징계 강력반대\"…金에 \"신천지가 더 큰 해당행위\" - 연합뉴스",
-      "targetName": "정청래"
-    },
-    "5dd433175c356513abfb71e525ab312f6e81a4e3f6c878a24af4af788c7fd2cd": {
-      "seenAt": "2026-11-18T06:31:18.390Z",
-      "title": "이준석 \"추경호 무죄, 기초적인 헌법 부정한 법비들의 정치\"…1년 전 주장 다시 꺼냈다 - 매일신문",
-      "targetName": "이준석"
-    },
-    "aad5605bf2caba6d1a0eb2024044db26ee59128952fb2cb74a15083b3f7b70be": {
-      "seenAt": "2026-11-18T06:31:18.987Z",
-      "title": "한동훈, 장인상 발인 마치고 추경호 무죄 환영 \"특검 무리한 수사·기소의 당연한 귀결\" - 매일신문",
-      "targetName": "한동훈"
-    },
     "6bf0bce6e28387d67aac2f8e23c5209ac792be8caf22d406168142e5064a2e95": {
       "seenAt": "2026-11-18T06:41:21.358Z",
       "title": "'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이 - 머니투데이",
@@ -2520,6 +2500,21 @@
       "seenAt": "2026-11-21T09:21:15.853Z",
       "title": "[속보]한동훈 \"與 대법원장 탄핵은 내란 자백…모두 감옥 갈 것\" - 대전일보",
       "targetName": "한동훈"
+    },
+    "3443a41afc46925b8fbc99b374b623518f05c61e1220eb45b930d484650db4da": {
+      "seenAt": "2026-11-21T09:31:17.161Z",
+      "title": "한동훈 \"민주당 대법원장 탄핵 추진은 내란 자백\"…12월 3일 발의 방침 직격 - 스페셜타임스",
+      "targetName": "한동훈"
+    },
+    "68f99e6c9a6d96fcd970fd1d4d8aec92e9af5cb7d21ade0a4f20a0d557a23d35": {
+      "seenAt": "2026-11-21T09:31:17.823Z",
+      "title": "'하루 만에 금메달 박탈!' 대반전 터지나? 조국서 아파트+훈장 받은 카자흐 경보 선수, 金 되찾기 돌입…CAS 제소 - www.xportsnews.com",
+      "targetName": "조국"
+    },
+    "372e181350d2f889a5a782e1493926cab977f39de14420acd9eac189adc1d1e5": {
+      "seenAt": "2026-11-21T09:31:18.474Z",
+      "title": "Trump posthumously pardons baseball 'SUPERSTAR & LEGEND' Pete Rose - WKEF",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": []
