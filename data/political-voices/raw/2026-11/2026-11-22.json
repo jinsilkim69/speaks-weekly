@@ -3425,5 +3425,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8014893614fdfd533de5a3c966b8ca52fc4d25f42466c4c8e544792372e42a5e",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "보수 잠룡 오세훈·한동훈, 조희대 탄핵에 맹공…\"李 심판열차 출발\" - 이데일리TV",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWWxJZ214akZ3V3pHczNKTElITDdFNmI0TlZES2pUUUJoNk50S1FTX19JZFlqSENzeEw4dmN4a1FNUlNyOEJPRzdlMkp1WVRCcnM3TTRObHlJbEd2djBvcFNuZGdFUWh2TGNSZDVMZnV5Z2hDMzdpVUM2TQ?oc=5\" target=\"_blank\">보수 잠룡 오세훈·한동훈, 조희대 탄핵에 맹공…\"李 심판열차 출발\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리TV</font>",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VWWxJZ214akZ3V3pHczNKTElITDdFNmI0TlZES2pUUUJoNk50S1FTX19JZFlqSENzeEw4dmN4a1FNUlNyOEJPRzdlMkp1WVRCcnM3TTRObHlJbEd2djBvcFNuZGdFUWh2TGNSZDVMZnV5Z2hDMzdpVUM2TQ?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 05:07:00 GMT",
+    "source": "이데일리TV",
+    "ageHours": 2.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 보수 잠룡 오세훈·한동훈, 조희대 탄핵에 맹공…\"李 심판열차 출발\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "a03dd88fcfe9c8460afd30669941219d7c12f2b005bab1e3f4100fc9f583606c",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "‘조국’ 대신 ‘민주’·‘개혁’?…조국 \"확장성 있는 당명으로 개정\" 제안 - JTBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fdWRqRnctWTlUaHkyVDBBUzAxU1NYTHR6ZlNUMm9JNXZBWlphOEpEa2JoWmUxM1Yzb2JYX2tDbUo3dHBQc2FDdXBpUlJtVURtclE?oc=5\" target=\"_blank\">‘조국’ 대신 ‘민주’·‘개혁’?…조국 \"확장성 있는 당명으로 개정\" 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fdWRqRnctWTlUaHkyVDBBUzAxU1NYTHR6ZlNUMm9JNXZBWlphOEpEa2JoWmUxM1Yzb2JYX2tDbUo3dHBQc2FDdXBpUlJtVURtclE?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 06:20:44 GMT",
+    "source": "JTBC",
+    "ageHours": 1.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘조국’ 대신 ‘민주’·‘개혁’?…조국 \"확장성 있는 당명으로 개정\" 제안",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

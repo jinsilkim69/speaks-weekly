@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T07:41:13.410Z",
+  "lastCheckedAt": "2026-11-22T07:51:14.691Z",
   "seenPostIds": {
-    "67719672e06020d30cb54df88283457dacdef0ef1f47795fb418a42da7cb740b": {
-      "seenAt": "2026-11-19T05:41:17.472Z",
-      "title": "野당권파, '추경호 무죄'로 '조작징계' 되치기…한동훈·친한계 '정조준' - 뉴스1",
-      "targetName": "한동훈"
-    },
-    "d6ecaabdbceae896daedea65d4964864473850d4c02554a723dd5d4120e72bfa": {
-      "seenAt": "2026-11-19T05:41:18.123Z",
-      "title": "장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망 - 뉴데일리",
-      "targetName": "이준석"
-    },
-    "d00c46ec42ad6a5fdefb329e85011eb0014bb5365e04a533d4fd3dcb6a4fd0f2": {
-      "seenAt": "2026-11-19T05:51:17.918Z",
-      "title": "조갑제 \"추경호 무죄는 한동훈 결단 덕분…은혜를 원수로 갚지 말라\" - www.hidomin.com",
-      "targetName": "한동훈"
-    },
     "8068e976cd16bf1a00c58035cfa204cd590ddbed42c88447facff5b150135da5": {
       "seenAt": "2026-11-19T05:51:18.572Z",
       "title": "정청래 \"최민희 징계 강력 반대\"…이첩 지시에 의혹 제기 - 뉴스피릿",
@@ -2515,14 +2500,24 @@
       "seenAt": "2026-11-22T07:41:16.236Z",
       "title": "\"'반명' 추미애, 정청래, 최민희, 조국당... '반명' 기득권 정치! 그만해!\" #shorts - 오마이TV - OhmyNews",
       "targetName": "정청래"
+    },
+    "8014893614fdfd533de5a3c966b8ca52fc4d25f42466c4c8e544792372e42a5e": {
+      "seenAt": "2026-11-22T07:51:15.942Z",
+      "title": "보수 잠룡 오세훈·한동훈, 조희대 탄핵에 맹공…\"李 심판열차 출발\" - 이데일리TV",
+      "targetName": "한동훈"
+    },
+    "a03dd88fcfe9c8460afd30669941219d7c12f2b005bab1e3f4100fc9f583606c": {
+      "seenAt": "2026-11-22T07:51:16.638Z",
+      "title": "‘조국’ 대신 ‘민주’·‘개혁’?…조국 \"확장성 있는 당명으로 개정\" 제안 - JTBC",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "2e15fb45da7ca63650062497bb3dc04b87a4d36ae0f7009abe65dda58389d5b8",
-    "title": "\"'반명' 추미애, 정청래, 최민희, 조국당... '반명' 기득권 정치! 그만해!\" #shorts - 오마이TV - OhmyNews",
+    "postId": "a03dd88fcfe9c8460afd30669941219d7c12f2b005bab1e3f4100fc9f583606c",
+    "title": "‘조국’ 대신 ‘민주’·‘개혁’?…조국 \"확장성 있는 당명으로 개정\" 제안 - JTBC",
     "bot": "jongsuk_pol_bot",
-    "runId": "44999336109",
-    "sentAt": "2026-11-22T07:41:15.856Z"
+    "runId": "45000083666",
+    "sentAt": "2026-11-22T07:51:16.276Z"
   }
 }
