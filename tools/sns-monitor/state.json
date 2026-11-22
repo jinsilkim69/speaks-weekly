@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T20:11:12.926Z",
+  "lastCheckedAt": "2026-11-22T20:21:16.973Z",
   "seenPostIds": {
-    "39e8b79e3e637a7a3d44545629575a3d6bf3a4ad4751a1f0f0d92e094a71e507": {
-      "seenAt": "2026-11-19T10:41:18.963Z",
-      "title": "SCMP \"이재명 부부, 중국 SNS 달궈\"…\"자연스러운 품격\" - 세상을 바꾸는 시민언론 민들레",
-      "targetName": "이재명"
-    },
-    "5507f5d7650f22ea018f55be2c09e56f4976ca06067f0990552c1f299234fdac": {
-      "seenAt": "2026-11-19T10:41:19.625Z",
-      "title": "박지원 \"정청래, 돌아가면서 한 방씩…경솔한 말씀을 했다\" - 뉴시스",
-      "targetName": "정청래"
-    },
     "3d24989bb54aaf3a6633551e06297a942c19a9ea1f6b1f4a0f18a926e9f139b7": {
       "seenAt": "2026-11-19T10:41:20.294Z",
       "title": "‘정청래 말려라’ 與원로 총출동…박지원 “국민이 민주 버릴라” - 아시아투데이",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-22T20:11:14.864Z",
       "title": "Trump blames $6T stock market slide on Democrats’ midterm wins - The Hill",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "519ffa8fb923c8582295e3ce9cb720adde3c3afb1d484d78e0a7800eeb58397c": {
+      "seenAt": "2026-11-22T20:21:18.034Z",
+      "title": "Trump gives suprising boost to El-Sayed’s health-care pitch - New York Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "9f2e251a6c718d9fa18bea2283df68c0ef671b602799da749c30811b7a6c59de",
-    "title": "Trump blames $6T stock market slide on Democrats’ midterm wins - The Hill",
+    "postId": "519ffa8fb923c8582295e3ce9cb720adde3c3afb1d484d78e0a7800eeb58397c",
+    "title": "Trump gives suprising boost to El-Sayed’s health-care pitch - New York Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "45064965078",
-    "sentAt": "2026-11-22T20:11:14.523Z"
+    "runId": "45065939845",
+    "sentAt": "2026-11-22T20:21:17.527Z"
   }
 }

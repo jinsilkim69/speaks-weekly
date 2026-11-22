@@ -402,5 +402,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "519ffa8fb923c8582295e3ce9cb720adde3c3afb1d484d78e0a7800eeb58397c",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump gives suprising boost to El-Sayed’s health-care pitch - New York Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOb0ZVU0pfOFlZWTNlVjQ0T2JCNkdYd1NMQzdYNXdVTWJtczRlMXdzZFgtTEZBNzhHZmw3ZnU5MHlLRWlOSHNyeGMyZ1lhT0hGVE1KQjNuSXhnOTZsTE9pS2dfSDdyTXpQaTR2YmJIV1BNM25DMGMxM2VVWkJXLXpaeVZiNEdLTUJiRXRLV2FPRzk2eUtWaUxWYjZzUzRHdw?oc=5\" target=\"_blank\">Trump gives suprising boost to El-Sayed’s health-care pitch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0ZVU0pfOFlZWTNlVjQ0T2JCNkdYd1NMQzdYNXdVTWJtczRlMXdzZFgtTEZBNzhHZmw3ZnU5MHlLRWlOSHNyeGMyZ1lhT0hGVE1KQjNuSXhnOTZsTE9pS2dfSDdyTXpQaTR2YmJIV1BNM25DMGMxM2VVWkJXLXpaeVZiNEdLTUJiRXRLV2FPRzk2eUtWaUxWYjZzUzRHdw?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 19:18:00 GMT",
+    "source": "New York Post",
+    "ageHours": 1.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump gives suprising boost to El-Sayed’s health-care pitch",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
