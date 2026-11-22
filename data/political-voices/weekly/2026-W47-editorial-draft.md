@@ -12520,3 +12520,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 조희대 대법원장 민주당 탄핵 추진…김민석, 한덕수 파기환송 강력 비판 - CBC뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조희대 대법원장 민주당 탄핵 추진…김민석, 한덕수 파기환송 강력 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE90TGh5Wmt1VGQyZWdTU1o4NEM2ck9Wc2IxY3d1R2xyRl9sY2VFMWhiT0hRTU5MS1dkX2taWFZaVmhCcTc5QW5ST3B0el94TlF0ZkhaT0FRRjNFMDhoNEFCemFGQnRNbzY1?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원, 인천 12개 대학 총학생회와 치맥 간담회 - 국제뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원, 인천 12개 대학 총학생회와 치맥 간담회
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE9HSHNyRE1yTWYxeVZiNUkzanlSMDhDRXBUejVqLUx4Nmk4akRxcGFPcWw5d2FDX2lFczNUWEE2QnlwY1oySXNmQmM3c2l3QVJlSU5pQmlNNi1fMkdzV0NXSE54QXRsLTZKQ3F5akxR?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “사법부 정지 시도 민주당, 입법부 마비 ‘망상 법비’처럼 무너질 것” - 서울신문
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “사법부 정지 시도 민주당, 입법부 마비 ‘망상 법비’처럼 무너질 것”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NTzZTeVZYZ1QzZXBVUUIzcEZYOGNxc1hmak5VRFp3cV9wa3ZLLXA0c3BJZWVxNG1ISmpMc0duWnpsZnNsemx5TFRVWEN0ZjhYeHJfYUJyMA?oc=5)
+
+---
+

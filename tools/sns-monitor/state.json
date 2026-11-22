@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T03:11:19.661Z",
+  "lastCheckedAt": "2026-11-22T03:21:16.462Z",
   "seenPostIds": {
-    "64c79949ae67c77872e0c4756c57a6eb5973696a4ecbbf237096513f917ca9fc": {
-      "seenAt": "2026-11-18T20:11:18.573Z",
-      "title": "장예찬, 당원게시판 글 공개…``한동훈 가족 명의` 추경호 비난 글만 63개`[일타뉴스] - 매일신문",
-      "targetName": "한동훈"
-    },
     "2f7561048739beabc3ba358a5ba88af3561ab800865fd4c747ef067129dd4d15": {
       "seenAt": "2026-11-18T20:41:19.822Z",
       "title": "정청래 \"신천지가 더 큰 해당행위… 최민희 징계 반대\" - 조선일보",
@@ -2505,14 +2500,62 @@
       "seenAt": "2026-11-22T03:11:20.898Z",
       "title": "오세훈·한동훈의 협공 \"李대통령 심판열차 출발\" \"민주당은 내란정당\" - 조선일보",
       "targetName": "한동훈"
+    },
+    "16e7c99c344033327aad815d7389e7c9ccf26c98e9d71a44b34dc9e12f649727": {
+      "seenAt": "2026-11-22T03:21:18.157Z",
+      "title": "조희대 대법원장 민주당 탄핵 추진…김민석, 한덕수 파기환송 강력 비판 - CBC뉴스",
+      "targetName": "김민석"
+    },
+    "2777b4e1040ca5688f8d12ddd60cd2768cb5a6550ef6ecdd74a998b480fa9ebf": {
+      "seenAt": "2026-11-22T03:21:18.852Z",
+      "title": "송영길 의원, 인천 12개 대학 총학생회와 치맥 간담회 - 국제뉴스",
+      "targetName": "송영길"
+    },
+    "fa486e775957a2fe44e2a5a407b4c5708aeee4b5c15badb687387f1c7c42d291": {
+      "seenAt": "2026-11-22T03:21:19.543Z",
+      "title": "이준석 “사법부 정지 시도 민주당, 입법부 마비 ‘망상 법비’처럼 무너질 것” - 서울신문",
+      "targetName": "이준석"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "3653aaa6a2d3c27610af634992718d01036c55d19033fa26ffa53d94f462e970",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 \"혁신당 당명 개정 제안…당원·국민 의견 수렴할 것\" - 남도일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4xelpSY1pOZWlpTk44QXRnZjREa1dIek4wWVNEaW84dTg4bzhrTENUaHY2STE5UE1NcmRYTUVsY1JlU3ZQU3dGeHVkZnpVTjVDa28ySmZTbXFJdmsxbWU4ejNhaFM0ZG94N2RXUNIBcEFVX3lxTE5SY0pJT0trLV9kUVVlQ0F3QzlKcEdlM1pwZGt5YWdhME5sc1J5VmdJVmY5ZVZZU1h3U0FDeHNBTGpZWk5rZnZYRFItQTNGS0ZORVVLREp0Y0RsNENCN21DZldtaEFpMHVlblBxWTBKb0k?oc=5\" target=\"_blank\">조국 \"혁신당 당명 개정 제안…당원·국민 의견 수렴할 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">남도일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xelpSY1pOZWlpTk44QXRnZjREa1dIek4wWVNEaW84dTg4bzhrTENUaHY2STE5UE1NcmRYTUVsY1JlU3ZQU3dGeHVkZnpVTjVDa28ySmZTbXFJdmsxbWU4ejNhaFM0ZG94N2RXUNIBcEFVX3lxTE5SY0pJT0trLV9kUVVlQ0F3QzlKcEdlM1pwZGt5YWdhME5sc1J5VmdJVmY5ZVZZU1h3U0FDeHNBTGpZWk5rZnZYRFItQTNGS0ZORVVLREp0Y0RsNENCN21DZldtaEFpMHVlblBxWTBKb0k?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 02:55:16 GMT",
+        "source": "남도일보",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "06cd3b66852c60e8638691c6859e1facd32fff8a46e956d6da9d2c2bc3e19b84",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump’s Social Media Post Fuels Questions About Potential Medicare-For-All Support - HuffPost",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjlBVk1TUi1CSkV3ZjVDN2w2OUJMWDV4Q3RDbGRTSjJfOEM3YzJrX0lHYUNTaWhjVnJhVzloUkd1WmJUWG1XUl9VQTlscjItTkQ3WWlJTFYzd2JjRmFlS3c1cVlUdXFKWDZEcjlRVVF5RnJ6UC1BanBpWXpVcmczbW5RdE13MWdqUk9aSkdvcnZ4a1RaZWFvbGhhWV9TYWRqSjBn?oc=5\" target=\"_blank\">Trump’s Social Media Post Fuels Questions About Potential Medicare-For-All Support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HuffPost</font>",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjlBVk1TUi1CSkV3ZjVDN2w2OUJMWDV4Q3RDbGRTSjJfOEM3YzJrX0lHYUNTaWhjVnJhVzloUkd1WmJUWG1XUl9VQTlscjItTkQ3WWlJTFYzd2JjRmFlS3c1cVlUdXFKWDZEcjlRVVF5RnJ6UC1BanBpWXpVcmczbW5RdE13MWdqUk9aSkdvcnZ4a1RaZWFvbGhhWV9TYWRqSjBn?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 03:05:44 GMT",
+        "source": "HuffPost",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "1a9d1b9a82a18840782501e473d0bc5f6ddae283a0def6d34b410137d1685756",
-    "title": "오세훈·한동훈의 협공 \"李대통령 심판열차 출발\" \"민주당은 내란정당\" - 조선일보",
+    "postId": "fa486e775957a2fe44e2a5a407b4c5708aeee4b5c15badb687387f1c7c42d291",
+    "title": "이준석 “사법부 정지 시도 민주당, 입법부 마비 ‘망상 법비’처럼 무너질 것” - 서울신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "44979450278",
-    "sentAt": "2026-11-22T03:11:20.434Z"
+    "runId": "44980216602",
+    "sentAt": "2026-11-22T03:21:19.195Z"
   }
 }
