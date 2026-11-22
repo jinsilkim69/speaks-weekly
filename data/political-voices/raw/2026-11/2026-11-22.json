@@ -3780,5 +3780,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b9bdb41099a9adff22d6fff185def44e263d7cc8ff76a461e1cf281704b3c1bb",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 취임 100일 앞두고 반전 없었다…흔들리는 리더십 - 자유일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1ONTk3NW91dEp6eXBrRlNmbWxNSFNXQmdyT1JLUHZNUENwVVRYMFp6YnpVdlZFMkcxNldWQ29hVGdKSUY4VlpuZUQxM01YNnFIcXJwTnJMZ3E1b2ZteXd5UjBkWnE0aF91dXpj0gFvQVVfeXFMTkktT281YVktd1hSbWFlM284VjZMZmdRNVBVY3hSOXlvaTNfVkR1TWhsTERWVVNwRGFpbjVCajg0V1Z3bUdHd1Q4UUF0WUhsOVVtdEdIcXhHUVh6OXIwdG5ES3VSdGZPODYtYU1DNXpZ?oc=5\" target=\"_blank\">김민석 취임 100일 앞두고 반전 없었다…흔들리는 리더십</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">자유일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ONTk3NW91dEp6eXBrRlNmbWxNSFNXQmdyT1JLUHZNUENwVVRYMFp6YnpVdlZFMkcxNldWQ29hVGdKSUY4VlpuZUQxM01YNnFIcXJwTnJMZ3E1b2ZteXd5UjBkWnE0aF91dXpj0gFvQVVfeXFMTkktT281YVktd1hSbWFlM284VjZMZmdRNVBVY3hSOXlvaTNfVkR1TWhsTERWVVNwRGFpbjVCajg0V1Z3bUdHd1Q4UUF0WUhsOVVtdEdIcXhHUVh6OXIwdG5ES3VSdGZPODYtYU1DNXpZ?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 06:58:00 GMT",
+    "source": "자유일보",
+    "ageHours": 2.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 취임 100일 앞두고 반전 없었다…흔들리는 리더십",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T09:31:19.277Z",
+  "lastCheckedAt": "2026-11-22T09:41:16.171Z",
   "seenPostIds": {
     "8ccfef3fc266283edf9b8c04ad28f7b6380dd784dd44c3d9a925c165eb22618b": {
       "seenAt": "2026-11-19T07:11:27.278Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-22T09:21:16.696Z",
       "title": "이준석, '조희대 탄핵' 추진에…\"근조 민주당, 한방에 무너질 것\" - 뉴시스",
       "targetName": "이준석"
+    },
+    "b9bdb41099a9adff22d6fff185def44e263d7cc8ff76a461e1cf281704b3c1bb": {
+      "seenAt": "2026-11-22T09:41:17.597Z",
+      "title": "김민석 취임 100일 앞두고 반전 없었다…흔들리는 리더십 - 자유일보",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3c574801f5333f99dd0b3ad635e582a389faa9438ce815bf1e0aac50d82d34d3",
-    "title": "이준석, '조희대 탄핵' 추진에…\"근조 민주당, 한방에 무너질 것\" - 뉴시스",
+    "postId": "b9bdb41099a9adff22d6fff185def44e263d7cc8ff76a461e1cf281704b3c1bb",
+    "title": "김민석 취임 100일 앞두고 반전 없었다…흔들리는 리더십 - 자유일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45007108116",
-    "sentAt": "2026-11-22T09:21:16.336Z"
+    "runId": "45008726727",
+    "sentAt": "2026-11-22T09:41:17.018Z"
   }
 }
