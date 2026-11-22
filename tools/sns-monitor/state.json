@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T07:21:21.922Z",
+  "lastCheckedAt": "2026-11-22T07:31:14.382Z",
   "seenPostIds": {
     "f57bb0ba64c99cc0f5aef41439c3632520974a2d91f82f69a334bef729825a9e": {
       "seenAt": "2026-11-19T05:31:20.016Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-22T07:11:14.938Z",
       "title": "이준석 \"민주당, 대법원장 탄핵 시 한 방에 무너진다\" - 더팩트",
       "targetName": "이준석"
+    },
+    "29e289e69dd08edab0cd9a91431a32e53f403657c035e4d095bcea8c3b38911e": {
+      "seenAt": "2026-11-22T07:31:15.625Z",
+      "title": "이재명 대통령, 시험 부정행위 대책 지시…순방 외교 비판에도 입장 밝혀 - 일간투데이",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "fba0ecf8a2b1592b62f7d4d0cafb4b6db52f149dd979166cf84f87eefbd7c047",
-    "title": "이준석 \"민주당, 대법원장 탄핵 시 한 방에 무너진다\" - 더팩트",
+    "postId": "29e289e69dd08edab0cd9a91431a32e53f403657c035e4d095bcea8c3b38911e",
+    "title": "이재명 대통령, 시험 부정행위 대책 지시…순방 외교 비판에도 입장 밝혀 - 일간투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "44997057009",
-    "sentAt": "2026-11-22T07:11:14.602Z"
+    "runId": "44998582927",
+    "sentAt": "2026-11-22T07:31:15.015Z"
   }
 }
