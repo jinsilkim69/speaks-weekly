@@ -13534,3 +13534,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 대장동 의혹 재차 반박 "성남시 4300억 이익 보장" 강조 - 진일보 | 전남일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 대장동 의혹 재차 반박 "성남시 4300억 이익 보장" 강조
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1TR1B0VG1xdzlhMVJDYXZfcl9fZWhuT2d6WWR6dFRwckJFQlF1UXRjbDN5OGJramtQZGN4eVJXS05GbVJ4R3hDWHo1dHpadHlCQ2xZNkxuMDZheHl0SWV3bThOVWJDdW1YaEFBM0tlRQ?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** "업자 결탁했다면 불가능"…이재명 대통령 대장동 배임 정면반박 - 한국경제
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "업자 결탁했다면 불가능"…이재명 대통령 대장동 배임 정면반박
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUFM4eDl6LVpZYWxyWklxQjJib1BvSm8zSGtDVjNFWWk3QzVzNWxEYVRveTNtbmYzbWpsNjhac05pb2s2MkVkUENacy1Yc1MtdVI0UlV6NEp3Zw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "민주당 큰 고민 중 하나는 청년…더 함께하고 싶다" - TV서울
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "민주당 큰 고민 중 하나는 청년…더 함께하고 싶다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BLVNDV3BPMTBLRzV6TUI0d3h1SVhJUDF4cXRCTjkzRGh3RjA2ZW9YQzA5bzV4VWlnUGxhb0JpcWxvZVlURUNReGxTRi1BNWstYVpZS1ZkY2o?oc=5)
+
+---
+
