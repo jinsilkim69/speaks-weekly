@@ -12923,3 +12923,29 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** '조희대 탄핵' 추진에 이준석 "근조 민주당…역풍으로 한방에 무너질 것" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '조희대 탄핵' 추진에 이준석 "근조 민주당…역풍으로 한방에 무너질 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTFBkWGhpUy1UbF9JbEZyREgxQ1BsNlFMcGx5ZWxsTTl4NTE2WnhXb25ETmpYX3IzSUo0d2dYUVd4c1FTWDNMS21jdjlpaEZZY1l0R3NfUjg0N0ExZTdvTzJmQjh4UU9aRE9jYk5yb25xenloUkptWTFTcWZn0gF_QVVfeXFMTk14MG1NaGtLN28wcHFyYzFYSmhWODVhdVZtRDBoSmNUQmdPS3ZPMHlPc2M4aHdkT3FiY05pV0ZHVGlBZVdoRC1tbHNnbW9VM3g0bnlrMEZRaU9qMlRRUGZkUUwxcHhlZkNXNXhXN2F2czJpUnYxMjhyeGZiXzVwRQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "확장성 있는 당명으로"…당명 개정 제안 - 연합뉴스TV
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "확장성 있는 당명으로"…당명 개정 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11RnNlbWhSd2ZRdU9JcGlRSkRQdzlqZ1RDOGpJN0VUZUo2RWJselpxeDNQMkg5c1RNUFM4VjdsRHBBazUycE51TG1POU1PTVNQdlRXaTcxeTN4RzhOelY1SFFGNjdrZVk?oc=5)
+
+---
+

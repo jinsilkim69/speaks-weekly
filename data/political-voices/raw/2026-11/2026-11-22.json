@@ -2765,5 +2765,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "46c95e266248c8cbad080d70ac2790585ef6238bd61f3dd2abe6ecb9d5da064d",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "'조희대 탄핵' 추진에 이준석 \"근조 민주당…역풍으로 한방에 무너질 것\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBkWGhpUy1UbF9JbEZyREgxQ1BsNlFMcGx5ZWxsTTl4NTE2WnhXb25ETmpYX3IzSUo0d2dYUVd4c1FTWDNMS21jdjlpaEZZY1l0R3NfUjg0N0ExZTdvTzJmQjh4UU9aRE9jYk5yb25xenloUkptWTFTcWZn0gF_QVVfeXFMTk14MG1NaGtLN28wcHFyYzFYSmhWODVhdVZtRDBoSmNUQmdPS3ZPMHlPc2M4aHdkT3FiY05pV0ZHVGlBZVdoRC1tbHNnbW9VM3g0bnlrMEZRaU9qMlRRUGZkUUwxcHhlZkNXNXhXN2F2czJpUnYxMjhyeGZiXzVwRQ?oc=5\" target=\"_blank\">'조희대 탄핵' 추진에 이준석 \"근조 민주당…역풍으로 한방에 무너질 것\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkWGhpUy1UbF9JbEZyREgxQ1BsNlFMcGx5ZWxsTTl4NTE2WnhXb25ETmpYX3IzSUo0d2dYUVd4c1FTWDNMS21jdjlpaEZZY1l0R3NfUjg0N0ExZTdvTzJmQjh4UU9aRE9jYk5yb25xenloUkptWTFTcWZn0gF_QVVfeXFMTk14MG1NaGtLN28wcHFyYzFYSmhWODVhdVZtRDBoSmNUQmdPS3ZPMHlPc2M4aHdkT3FiY05pV0ZHVGlBZVdoRC1tbHNnbW9VM3g0bnlrMEZRaU9qMlRRUGZkUUwxcHhlZkNXNXhXN2F2czJpUnYxMjhyeGZiXzVwRQ?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 05:21:24 GMT",
+    "source": "머니투데이",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '조희대 탄핵' 추진에 이준석 \"근조 민주당…역풍으로 한방에 무너질 것\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "816366f78b4546bf67958bf2b80e5e7659639ea1657ea3104863750846ac2bc8",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 \"확장성 있는 당명으로\"…당명 개정 제안 - 연합뉴스TV",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11RnNlbWhSd2ZRdU9JcGlRSkRQdzlqZ1RDOGpJN0VUZUo2RWJselpxeDNQMkg5c1RNUFM4VjdsRHBBazUycE51TG1POU1PTVNQdlRXaTcxeTN4RzhOelY1SFFGNjdrZVk?oc=5\" target=\"_blank\">조국 \"확장성 있는 당명으로\"…당명 개정 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11RnNlbWhSd2ZRdU9JcGlRSkRQdzlqZ1RDOGpJN0VUZUo2RWJselpxeDNQMkg5c1RNUFM4VjdsRHBBazUycE51TG1POU1PTVNQdlRXaTcxeTN4RzhOelY1SFFGNjdrZVk?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 05:17:00 GMT",
+    "source": "연합뉴스TV",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"확장성 있는 당명으로\"…당명 개정 제안",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
