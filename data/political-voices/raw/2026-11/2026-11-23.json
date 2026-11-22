@@ -199,5 +199,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d9a110cb95ced3dc10cd52cbecb06ee7c056bf4155aac829d31544c3ea1da818",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "오세훈·한동훈, 與 조희대 탄핵 추진에 맹공…“사법부 장악·친위쿠데타” - 세계일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pVnFkRXFvanRybjJSdWR2bE1KdFdHRGc4NENMUTVLcEJNbDBWVl9adFh4NFNDRDFHZEFFRks2Y09KVzhPcGEwTTl1by1KOFFpN1hzQW9CeXjSAVRBVV95cUxPdkVBbzY3MWp1ZkdnS0I2SUhNajhoTVZOanpzakNhYWQ3Y0ltX0tURVZmX0NoejdzQ19EVElTY01aOWFYQU5jdUtSN0J2d0Jrc2ZMS3g?oc=5\" target=\"_blank\">오세훈·한동훈, 與 조희대 탄핵 추진에 맹공…“사법부 장악·친위쿠데타”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pVnFkRXFvanRybjJSdWR2bE1KdFdHRGc4NENMUTVLcEJNbDBWVl9adFh4NFNDRDFHZEFFRks2Y09KVzhPcGEwTTl1by1KOFFpN1hzQW9CeXjSAVRBVV95cUxPdkVBbzY3MWp1ZkdnS0I2SUhNajhoTVZOanpzakNhYWQ3Y0ltX0tURVZmX0NoejdzQ19EVElTY01aOWFYQU5jdUtSN0J2d0Jrc2ZMS3g?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 06:52:29 GMT",
+    "source": "세계일보",
+    "ageHours": 10.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 오세훈·한동훈, 與 조희대 탄핵 추진에 맹공…“사법부 장악·친위쿠데타”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
