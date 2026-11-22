@@ -1857,5 +1857,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c1fd5176f50e00f5f5b9e094410d0c00af8b4bce550963f714d30c3b31f50e0e",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 \"12월 3일 조희대 탄핵 꼭 하라…이젠 민주당이 내란 정당\" - 주간조선",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1rR2xIOG5QSjZoeGpLOWpDczZaNllXejdjU0lSM2pNV09oaUJsRWxIbEVCV1RrUUtOa3lDRUwxam9JVVh0Rk1hT3hIcHdaWFVwT0tOajB1X0JsbkF1WDdlZ2ZPSG1MRnc2SXc?oc=5\" target=\"_blank\">한동훈 \"12월 3일 조희대 탄핵 꼭 하라…이젠 민주당이 내란 정당\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간조선</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rR2xIOG5QSjZoeGpLOWpDczZaNllXejdjU0lSM2pNV09oaUJsRWxIbEVCV1RrUUtOa3lDRUwxam9JVVh0Rk1hT3hIcHdaWFVwT0tOajB1X0JsbkF1WDdlZ2ZPSG1MRnc2SXc?oc=5",
+    "pubDate": "Sat, 21 Nov 2026 14:25:04 GMT",
+    "source": "주간조선",
+    "ageHours": 12.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"12월 3일 조희대 탄핵 꼭 하라…이젠 민주당이 내란 정당\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "51b7601f282eed8216e79daa4e23a6d29904998991bac09704890c272b3e531c",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국, 당명에서 ‘조국’ 지우나…개인정당 넘어 독자 생존 승부수 - OBC 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBCdnR0dHc4UVZpaGgwQnVJVTh6eDRHUWk2VWNSZDQ2TFJlS24tMzBYQWZ6Vk1MUFJ6X01paVl6a1V0RjZwdC1vUTdHcUlwNDFJYjRHWEJBUVcxZWl3V2dVYklPRFFWMEZPalE?oc=5\" target=\"_blank\">조국, 당명에서 ‘조국’ 지우나…개인정당 넘어 독자 생존 승부수</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OBC 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCdnR0dHc4UVZpaGgwQnVJVTh6eDRHUWk2VWNSZDQ2TFJlS24tMzBYQWZ6Vk1MUFJ6X01paVl6a1V0RjZwdC1vUTdHcUlwNDFJYjRHWEJBUVcxZWl3V2dVYklPRFFWMEZPalE?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 02:41:29 GMT",
+    "source": "OBC 뉴스",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국, 당명에서 ‘조국’ 지우나…개인정당 넘어 독자 생존 승부수",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

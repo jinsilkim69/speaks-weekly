@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T02:41:19.824Z",
+  "lastCheckedAt": "2026-11-22T02:51:14.341Z",
   "seenPostIds": {
-    "8506668b44d03a11d2892a2b9d2564fac5d899446ec524a1e8825d488b53df91": {
-      "seenAt": "2026-11-18T17:41:19.369Z",
-      "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WCYB",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "f9e322da2469db5fc8b045247fe4a04fcd7b4c3f52b64e09500929fbbf506bd5": {
-      "seenAt": "2026-11-18T17:41:20.087Z",
-      "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - KFXL",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "bbd7adf0136cb3f4bd72b3693d8d4bc3537ded41181d927ed8fd6bb50950244c": {
       "seenAt": "2026-11-18T17:51:18.829Z",
       "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WGXA",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-22T02:41:22.275Z",
       "title": "조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안 - 매일경제",
       "targetName": "조국"
+    },
+    "c1fd5176f50e00f5f5b9e094410d0c00af8b4bce550963f714d30c3b31f50e0e": {
+      "seenAt": "2026-11-22T02:51:15.820Z",
+      "title": "한동훈 \"12월 3일 조희대 탄핵 꼭 하라…이젠 민주당이 내란 정당\" - 주간조선",
+      "targetName": "한동훈"
+    },
+    "51b7601f282eed8216e79daa4e23a6d29904998991bac09704890c272b3e531c": {
+      "seenAt": "2026-11-22T02:51:16.540Z",
+      "title": "조국, 당명에서 ‘조국’ 지우나…개인정당 넘어 독자 생존 승부수 - OBC 뉴스",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "7309996a4cd80cba6bf14435cbbb97e4709cb6f10dfdf4adc09cd6bf32dcefc3",
-    "title": "조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안 - 매일경제",
+    "postId": "51b7601f282eed8216e79daa4e23a6d29904998991bac09704890c272b3e531c",
+    "title": "조국, 당명에서 ‘조국’ 지우나…개인정당 넘어 독자 생존 승부수 - OBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "44977216361",
-    "sentAt": "2026-11-22T02:41:21.892Z"
+    "runId": "44977956720",
+    "sentAt": "2026-11-22T02:51:16.202Z"
   }
 }
