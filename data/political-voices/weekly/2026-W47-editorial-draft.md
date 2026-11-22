@@ -12143,3 +12143,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 장동혁 국민의힘 대표, 이재명 대통령 대장동 발언에 반박:중수청일보 - 중수청일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 국민의힘 대표, 이재명 대통령 대장동 발언에 반박:중수청일보
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oU0xXU1d6cGJZWVYyNkhUNHI4TjYyS3pndDVyTEJiVEJYQUhJaER4Q3oxTGVuTEFIa25jUkJjT1JOZTB1eFY5StIBZEFVX3lxTE9uWExxMjRHR0k4Y2F5RUhjZ212ZTIzWEtQUWR0cHlDdkRpVUZOTWFHdFVOOUxWWmt4c0wyU1pKVTlDLXQ1dVlDQUNEMEpkQi0xbG84WXNtUExPZjdnTDVpbV9MN3Y?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 추미애 "조희대, 즉각 탄핵 실행" VS 한동훈 "모두 감옥 갈 것" - 한국일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 추미애 "조희대, 즉각 탄핵 실행" VS 한동훈 "모두 감옥 갈 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE92VC1TUkpTbWEyZnU1cjNDcmU5cERZN0h3QXFfMXZIdkpReTdMejdZbzBkVml3ZVVYZGlBSW1Kams2LVRhUy1mdEF3RGFlMUtCb0FybDY1TXhqOEk3eVUyLVJEX1lEOGUzYzdMbC130gFzQVVfeXFMTXJmTXF3a3EyWTA5SGRtQTdNNC03ajZiVjFadVZIeUpscXR6NTNGVWUyRE1pUXpCX1pTd2NIR3IxV2NGUnZtajhQNjgtZHpoVFpac0g2SnI2bTRGQmRzcG15Q2pnZEE3TnVGcmhWbEU3YVZaVQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** "확장성 있는 당명으로"…조국혁신당, 당명서 '조국' 뺄까 - 한국경제
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "확장성 있는 당명으로"…조국혁신당, 당명서 '조국' 뺄까
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOR3Ryd2NRb1YwSDk2Sjc3X3NNNDd4eERXa3ZSRE50UHdUSW80ZGhfM01rVWFqTjVoSGY2RnNCbjJ3QS1nMHZNUXdTOTFaNmN6SU9EVG9RWl9BZw?oc=5)
+
+---
+

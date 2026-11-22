@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T00:51:19.586Z",
+  "lastCheckedAt": "2026-11-22T01:01:13.146Z",
   "seenPostIds": {
-    "e3a80213ed1b70d8a086838c73406246a2e540dba51f4cb6a5db0807b4969fad": {
-      "seenAt": "2026-11-18T11:21:17.473Z",
-      "title": "우원식 “김민석, 간담상조 자세로...정청래, 솔로몬 재판 떠올리길” - 한겨레",
-      "targetName": "김민석"
-    },
-    "4c9dab28fdec889df43da97e337de296deb0bc651960369472e5654e13b59d93": {
-      "seenAt": "2026-11-18T11:51:19.889Z",
-      "title": "입국 거부된 조국, 독도 찾는다…정청래·진성준도 日조치 비판(종합2보) - 뉴스1",
-      "targetName": "조국"
-    },
     "1198b1f04c0a30621f27b3efa60ca3c560d264500365f96dcc9343de08134ddd": {
       "seenAt": "2026-11-18T12:21:25.156Z",
       "title": "김민석 비판 중징계…선거법 위반 무혐의…부산 與비례 희비 - 국제신문",
@@ -2510,14 +2500,78 @@
       "seenAt": "2026-11-22T00:51:22.211Z",
       "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ebe2cd622f4a679ba1f28557296d1dc08e48b2f89df3b2e37de744c31d0a4454": {
+      "seenAt": "2026-11-22T01:01:14.155Z",
+      "title": "장동혁 국민의힘 대표, 이재명 대통령 대장동 발언에 반박:중수청일보 - 중수청일보",
+      "targetName": "이재명"
+    },
+    "6e587743a20a449529c8cdbe050d20ce075c0039edfbdb695b31f0da47d67afa": {
+      "seenAt": "2026-11-22T01:01:14.755Z",
+      "title": "추미애 \"조희대, 즉각 탄핵 실행\" VS 한동훈 \"모두 감옥 갈 것\" - 한국일보",
+      "targetName": "한동훈"
+    },
+    "abb2a73c8208d509532440281d3c21f40a1c1373fdb947c959c25de6c7efafea": {
+      "seenAt": "2026-11-22T01:01:15.352Z",
+      "title": "\"확장성 있는 당명으로\"…조국혁신당, 당명서 '조국' 뺄까 - 한국경제",
+      "targetName": "조국"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "36abb6a4c84a4bcf6970b5a41ef0aeddbeb54d7ace06eeaf724dfacf46bd63c5",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "혁신당의 '조국' 빠지나…조국 \"확장성 있게 범민주 좋아할 이름으로\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE10MEh1amZlRnBsSm5ZaDVpcGNaTkZiSHNVNkxYbFlZZDU0UGkyR3FfaU1yRTEyNjZ0c3VEXzF3Ylgzc0ZVWTdvV3dhb0pQUnplSFlhU0tYaWlLQVNjU2hlQnd4LUl2TFFHdERZOTJtR21VeDN4em1oMWV30gF_QVVfeXFMTkJab2stZnh6MnVjWGwtVXlOYmVkaEQ3RU80aS1TT1p5NXI5ZmJqdnVaeFV6ekRhNUFQRlBNOHdjaUlmd3FIOXU4alRzNFlZSl9JRy1iUHVBWFdoa1dibW9JVmNmWjVLekhFRk5Va3g3RHAwcDJiWEJ6aVZGQUZpWQ?oc=5\" target=\"_blank\">혁신당의 '조국' 빠지나…조국 \"확장성 있게 범민주 좋아할 이름으로\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10MEh1amZlRnBsSm5ZaDVpcGNaTkZiSHNVNkxYbFlZZDU0UGkyR3FfaU1yRTEyNjZ0c3VEXzF3Ylgzc0ZVWTdvV3dhb0pQUnplSFlhU0tYaWlLQVNjU2hlQnd4LUl2TFFHdERZOTJtR21VeDN4em1oMWV30gF_QVVfeXFMTkJab2stZnh6MnVjWGwtVXlOYmVkaEQ3RU80aS1TT1p5NXI5ZmJqdnVaeFV6ekRhNUFQRlBNOHdjaUlmd3FIOXU4alRzNFlZSl9JRy1iUHVBWFdoa1dibW9JVmNmWjVLekhFRk5Va3g3RHAwcDJiWEJ6aVZGQUZpWQ?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 00:52:32 GMT",
+        "source": "머니투데이",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b8b5efebf51a29240b04a3a80b1a7ac4216c6950db460ad3dead6ef5a6ec328c",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "‘조국혁신당 간판 바뀌나’ 조국 “확장성 있는 당명 개정 제안” - 이데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQb3dwMTNaRXVvUUszN0VlQ2d2QWVQMnJjQ0VvWXRCT082TWd0bGJkMS1waEJtSGJGQWZZRXgyd3RnRDhYUE5VMWJERFk1d0hNUUtSWmRjMm5ab2k3N3RiN05qYXh2dm1yRXlsdXk3TldmN3BKVGNzdUFWNXFXV213WQ?oc=5\" target=\"_blank\">‘조국혁신당 간판 바뀌나’ 조국 “확장성 있는 당명 개정 제안”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb3dwMTNaRXVvUUszN0VlQ2d2QWVQMnJjQ0VvWXRCT082TWd0bGJkMS1waEJtSGJGQWZZRXgyd3RnRDhYUE5VMWJERFk1d0hNUUtSWmRjMm5ab2k3N3RiN05qYXh2dm1yRXlsdXk3TldmN3BKVGNzdUFWNXFXV213WQ?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 00:49:55 GMT",
+        "source": "이데일리",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "94372646241f36a3e5253d1bd29f921df6b0a0ddea8791a1073c621ac7a41e14",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국, 창당 1000일 앞두고 당명 개정 제안… “국민 의견 수렴” - 천지일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBNNWlkbFhTMTNXVjVERlV0dElQcE96X3N3aHV0RTYwaUZwMlIwb0xtVkhGaXlhLVNfaXp6SkZySTFxZjB5ZDhsdHZzRVpMLURCcUZ3THNSX0hZb2NHczY5Z1gxWnJUMmZMNmc?oc=5\" target=\"_blank\">조국, 창당 1000일 앞두고 당명 개정 제안… “국민 의견 수렴”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNNWlkbFhTMTNXVjVERlV0dElQcE96X3N3aHV0RTYwaUZwMlIwb0xtVkhGaXlhLVNfaXp6SkZySTFxZjB5ZDhsdHZzRVpMLURCcUZ3THNSX0hZb2NHczY5Z1gxWnJUMmZMNmc?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 00:50:05 GMT",
+        "source": "천지일보",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "d1e0e6ed2abf90add0cda7afac2d5c8a8d8c3c0292b14410a695a7f920c18ad2",
-    "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News",
+    "postId": "abb2a73c8208d509532440281d3c21f40a1c1373fdb947c959c25de6c7efafea",
+    "title": "\"확장성 있는 당명으로\"…조국혁신당, 당명서 '조국' 뺄까 - 한국경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "44968619782",
-    "sentAt": "2026-11-22T00:51:21.824Z"
+    "runId": "44969413261",
+    "sentAt": "2026-11-22T01:01:15.051Z"
   }
 }
