@@ -12117,3 +12117,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 당명 개정 제안한 조국…“확장성 있어야” - 아시아투데이
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 당명 개정 제안한 조국…“확장성 있어야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE9jUVZCN3ZJaWdvM1V4ekw0RjI4bm9sLW16WXdUbFB0Z0taMzNRQ1dBbXVHc0xNQ3Zybzh4OEVkOHhMUHRGaGs3UmNGUHlNdXJPX3JkMVdJc3NUb1gzWkpGYi1sM25hR1B0UldZQnJB?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0JNdklfa1ZNZ3IxMHplQW1YRFFhX2k1NEZRc0djOFc1MHBqSGxyV1NXaGFTWmFDak9XUVgwLWd6X0RzZkVXNTk3Uk4tclRBQW5WcXpjVHJyOWpQM1pJYTV6MDRpRzZ0ZGxRS2ktcGo5UlJOZnh0VU5VeDUxalloalZ3cVRvaXRtTGpnZ09kVXdvb1Fkcjhmb1VVR2g2Q2tDUTNjYnc2SERMMmJIaS1aZVF3?oc=5)
+
+---
+
