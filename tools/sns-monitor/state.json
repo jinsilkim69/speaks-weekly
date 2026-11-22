@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T12:31:14.000Z",
+  "lastCheckedAt": "2026-11-22T12:41:12.964Z",
   "seenPostIds": {
     "41dccf9337ea0b82c7cd26c206530926983a9cf7b48373843a1c2cf9784fa5aa": {
       "seenAt": "2026-11-19T08:51:22.131Z",
@@ -2500,14 +2500,46 @@
       "seenAt": "2026-11-22T12:21:15.610Z",
       "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
       "targetName": "김민석"
+    },
+    "aa5b6e06ec91d645cc21c15cf5986b844668af20cfaac791f3b03143dcda8833": {
+      "seenAt": "2026-11-22T12:41:14.218Z",
+      "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’ - 서울매일신문",
+      "targetName": "송영길"
+    },
+    "7725b895c6ab8ebf8bcc26616e9ef05119c8a78a178f0be212ff367ff66fe2f5": {
+      "seenAt": "2026-11-22T12:41:14.919Z",
+      "title": "이준석 “사법부 정치적 압박 참담…근조 민주당, 부끄러운 줄 알라” - www.dt.co.kr",
+      "targetName": "이준석"
+    },
+    "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047": {
+      "seenAt": "2026-11-22T12:41:15.607Z",
+      "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "55af71dde297c72d85a803361744897231ee02d6b2f75eee682af34897b6e8db",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post - The Guardian",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVJRX1MydWNfVFFwcVh4bjVQUC1HWFpSLUYxTkRSM2kzdFV5NVhVMXVZUkhNZEpRU21mMVNGNVVxajZINEgwMW9xNUNnQzlpQkZ5REJjbkI4SXJaNGRIVk4tS3phTUdoMlQxQ2k3RU9hN3lPdDFwdEs4b0JkVHRabjktcjlsU1lhX0JjSWcxTUZBcG03NmxpV3hlVVFPVzRUV2g0a3p0TkFIX19nMlNtZjZydHB4bHQxREJoLUo2RU9xOHNZ?oc=5\" target=\"_blank\">‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVJRX1MydWNfVFFwcVh4bjVQUC1HWFpSLUYxTkRSM2kzdFV5NVhVMXVZUkhNZEpRU21mMVNGNVVxajZINEgwMW9xNUNnQzlpQkZ5REJjbkI4SXJaNGRIVk4tS3phTUdoMlQxQ2k3RU9hN3lPdDFwdEs4b0JkVHRabjktcjlsU1lhX0JjSWcxTUZBcG03NmxpV3hlVVFPVzRUV2g0a3p0TkFIX19nMlNtZjZydHB4bHQxREJoLUo2RU9xOHNZ?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 12:36:00 GMT",
+        "source": "The Guardian",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "1b0d2495194a088af5209bc166034848b03420a1179e695a6eaf5049881a7a8c",
-    "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
+    "postId": "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047",
+    "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
     "bot": "jongsuk_pol_bot",
-    "runId": "45021814431",
-    "sentAt": "2026-11-22T12:21:15.252Z"
+    "runId": "45023549417",
+    "sentAt": "2026-11-22T12:41:15.256Z"
   }
 }
