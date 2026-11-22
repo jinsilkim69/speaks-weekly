@@ -12559,3 +12559,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "혁신당 당명 개정 제안…당원·국민 의견 수렴할 것" - 남도일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "혁신당 당명 개정 제안…당원·국민 의견 수렴할 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE4xelpSY1pOZWlpTk44QXRnZjREa1dIek4wWVNEaW84dTg4bzhrTENUaHY2STE5UE1NcmRYTUVsY1JlU3ZQU3dGeHVkZnpVTjVDa28ySmZTbXFJdmsxbWU4ejNhaFM0ZG94N2RXUNIBcEFVX3lxTE5SY0pJT0trLV9kUVVlQ0F3QzlKcEdlM1pwZGt5YWdhME5sc1J5VmdJVmY5ZVZZU1h3U0FDeHNBTGpZWk5rZnZYRFItQTNGS0ZORVVLREp0Y0RsNENCN21DZldtaEFpMHVlblBxWTBKb0k?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump’s Social Media Post Fuels Questions About Potential Medicare-For-All Support - HuffPost
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump’s Social Media Post Fuels Questions About Potential Medicare-For-All Support
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjlBVk1TUi1CSkV3ZjVDN2w2OUJMWDV4Q3RDbGRTSjJfOEM3YzJrX0lHYUNTaWhjVnJhVzloUkd1WmJUWG1XUl9VQTlscjItTkQ3WWlJTFYzd2JjRmFlS3c1cVlUdXFKWDZEcjlRVVF5RnJ6UC1BanBpWXpVcmczbW5RdE13MWdqUk9aSkdvcnZ4a1RaZWFvbGhhWV9TYWRqSjBn?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "졸업 후에도 인천에 살고 싶어요"…송영길 의원, 12개 대학 학생회와 청년 해법 모색 - 중도일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "졸업 후에도 인천에 살고 싶어요"…송영길 의원, 12개 대학 학생회와 청년 해법 모색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5lZ2MyNnlCalpDdTBLeDNmdmNNQnI2SzA2R2ZqTTJyYTUwbDVPck9Cb3ZNd08zd3RwS3Vnc2o1NkE0SVRxUFFkQlB6bU85dDB5RHdUNlg2LWRtYThwbV90amMtRGtEb1dVNXhmQw?oc=5)
+
+---
+

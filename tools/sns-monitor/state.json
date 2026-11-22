@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T03:21:16.462Z",
+  "lastCheckedAt": "2026-11-22T03:23:13.849Z",
   "seenPostIds": {
-    "2f7561048739beabc3ba358a5ba88af3561ab800865fd4c747ef067129dd4d15": {
-      "seenAt": "2026-11-18T20:41:19.822Z",
-      "title": "정청래 \"신천지가 더 큰 해당행위… 최민희 징계 반대\" - 조선일보",
-      "targetName": "정청래"
-    },
-    "889a45af43160f76d9b11f428523b9c0d84d69a1a9df4d1f64ab64b4ff7e5af4": {
-      "seenAt": "2026-11-18T20:41:20.424Z",
-      "title": "[여의도확대경] 송영길, 24년 전 北·日 회담 주역 회고록 번역판 낸다 - 이데일리",
-      "targetName": "송영길"
-    },
-    "89e51d8fb9cfc32d020cb7046a9551983a6fb663583986dc3008280b8e5bea86": {
-      "seenAt": "2026-11-18T20:51:19.342Z",
-      "title": "[기획특집_세계를 움직이는 정상들의 아침을 여는 SNS 소통 메시지 ②] 이재명은 ‘한중 관계의 새 출발’, 시진핑은 ‘아태 자유무역’... 정상들이 뉴스보다 먼저 띄운 말 - www.stnsports.co.kr",
-      "targetName": "이재명"
-    },
     "7063c444fd2c6805b3c6e5a5c5223b222ebbed32732aa91a16e0be9242524072": {
       "seenAt": "2026-11-18T20:51:19.986Z",
       "title": "이준석 “추경호 유죄 주장, 기본적 헌법 무시…尹·李 들어 심화된 법비들의 정치” - 문화일보",
@@ -2515,47 +2500,46 @@
       "seenAt": "2026-11-22T03:21:19.543Z",
       "title": "이준석 “사법부 정지 시도 민주당, 입법부 마비 ‘망상 법비’처럼 무너질 것” - 서울신문",
       "targetName": "이준석"
+    },
+    "3653aaa6a2d3c27610af634992718d01036c55d19033fa26ffa53d94f462e970": {
+      "seenAt": "2026-11-22T03:23:14.907Z",
+      "title": "조국 \"혁신당 당명 개정 제안…당원·국민 의견 수렴할 것\" - 남도일보",
+      "targetName": "조국"
+    },
+    "06cd3b66852c60e8638691c6859e1facd32fff8a46e956d6da9d2c2bc3e19b84": {
+      "seenAt": "2026-11-22T03:23:15.540Z",
+      "title": "Trump’s Social Media Post Fuels Questions About Potential Medicare-For-All Support - HuffPost",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "b1cf9de6be7905aa30b60c371abef79b04d874978b8e89c823b044daa16862a0": {
+      "seenAt": "2026-11-22T03:23:16.174Z",
+      "title": "\"졸업 후에도 인천에 살고 싶어요\"…송영길 의원, 12개 대학 학생회와 청년 해법 모색 - 중도일보",
+      "targetName": "송영길"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "3653aaa6a2d3c27610af634992718d01036c55d19033fa26ffa53d94f462e970",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 \"혁신당 당명 개정 제안…당원·국민 의견 수렴할 것\" - 남도일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4xelpSY1pOZWlpTk44QXRnZjREa1dIek4wWVNEaW84dTg4bzhrTENUaHY2STE5UE1NcmRYTUVsY1JlU3ZQU3dGeHVkZnpVTjVDa28ySmZTbXFJdmsxbWU4ejNhaFM0ZG94N2RXUNIBcEFVX3lxTE5SY0pJT0trLV9kUVVlQ0F3QzlKcEdlM1pwZGt5YWdhME5sc1J5VmdJVmY5ZVZZU1h3U0FDeHNBTGpZWk5rZnZYRFItQTNGS0ZORVVLREp0Y0RsNENCN21DZldtaEFpMHVlblBxWTBKb0k?oc=5\" target=\"_blank\">조국 \"혁신당 당명 개정 제안…당원·국민 의견 수렴할 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">남도일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xelpSY1pOZWlpTk44QXRnZjREa1dIek4wWVNEaW84dTg4bzhrTENUaHY2STE5UE1NcmRYTUVsY1JlU3ZQU3dGeHVkZnpVTjVDa28ySmZTbXFJdmsxbWU4ejNhaFM0ZG94N2RXUNIBcEFVX3lxTE5SY0pJT0trLV9kUVVlQ0F3QzlKcEdlM1pwZGt5YWdhME5sc1J5VmdJVmY5ZVZZU1h3U0FDeHNBTGpZWk5rZnZYRFItQTNGS0ZORVVLREp0Y0RsNENCN21DZldtaEFpMHVlblBxWTBKb0k?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 02:55:16 GMT",
-        "source": "남도일보",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "06cd3b66852c60e8638691c6859e1facd32fff8a46e956d6da9d2c2bc3e19b84",
+        "id": "69e4bce9db2287cbccc166b1a4821f30020abdcd092293bd8ef2e9219839994a",
         "targetId": "donald_trump",
         "targetName": "도널드 트럼프 (Donald Trump)",
         "targetTitle": "미국 대통령",
-        "title": "Trump’s Social Media Post Fuels Questions About Potential Medicare-For-All Support - HuffPost",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjlBVk1TUi1CSkV3ZjVDN2w2OUJMWDV4Q3RDbGRTSjJfOEM3YzJrX0lHYUNTaWhjVnJhVzloUkd1WmJUWG1XUl9VQTlscjItTkQ3WWlJTFYzd2JjRmFlS3c1cVlUdXFKWDZEcjlRVVF5RnJ6UC1BanBpWXpVcmczbW5RdE13MWdqUk9aSkdvcnZ4a1RaZWFvbGhhWV9TYWRqSjBn?oc=5\" target=\"_blank\">Trump’s Social Media Post Fuels Questions About Potential Medicare-For-All Support</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HuffPost</font>",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjlBVk1TUi1CSkV3ZjVDN2w2OUJMWDV4Q3RDbGRTSjJfOEM3YzJrX0lHYUNTaWhjVnJhVzloUkd1WmJUWG1XUl9VQTlscjItTkQ3WWlJTFYzd2JjRmFlS3c1cVlUdXFKWDZEcjlRVVF5RnJ6UC1BanBpWXpVcmczbW5RdE13MWdqUk9aSkdvcnZ4a1RaZWFvbGhhWV9TYWRqSjBn?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 03:05:44 GMT",
-        "source": "HuffPost",
-        "ageHours": 0.3
+        "title": "Trump Shares El-Sayed’s ‘TrumpCare’ Plan, Says He May Work with Democrats - Newsweek",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQN09tbFkxUGRXNE5MRXlTVXVsbG5lSXZ0WGJQUVg4b2FtZjdLNlJqaVoyLUpFQ3NoRW5wSndUb1FUUUlQemxDWE5pRThSSU9teXg5R3NJYWVXTGVJM09WeUdkU0x4YXNKV0lfY0wxZC1ZdFR6MlhiQURwenc1S2NyZk14cDJjeWtuNkd1U0dlZFNmRTBOeTRHYjU1TE1PX1dNUmxQeHVB?oc=5\" target=\"_blank\">Trump Shares El-Sayed’s ‘TrumpCare’ Plan, Says He May Work with Democrats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN09tbFkxUGRXNE5MRXlTVXVsbG5lSXZ0WGJQUVg4b2FtZjdLNlJqaVoyLUpFQ3NoRW5wSndUb1FUUUlQemxDWE5pRThSSU9teXg5R3NJYWVXTGVJM09WeUdkU0x4YXNKV0lfY0wxZC1ZdFR6MlhiQURwenc1S2NyZk14cDJjeWtuNkd1U0dlZFNmRTBOeTRHYjU1TE1PX1dNUmxQeHVB?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 02:25:00 GMT",
+        "source": "Newsweek",
+        "ageHours": 1
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "fa486e775957a2fe44e2a5a407b4c5708aeee4b5c15badb687387f1c7c42d291",
-    "title": "이준석 “사법부 정지 시도 민주당, 입법부 마비 ‘망상 법비’처럼 무너질 것” - 서울신문",
+    "postId": "b1cf9de6be7905aa30b60c371abef79b04d874978b8e89c823b044daa16862a0",
+    "title": "\"졸업 후에도 인천에 살고 싶어요\"…송영길 의원, 12개 대학 학생회와 청년 해법 모색 - 중도일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "44980216602",
-    "sentAt": "2026-11-22T03:21:19.195Z"
+    "runId": "44980372703",
+    "sentAt": "2026-11-22T03:23:15.835Z"
   }
 }
