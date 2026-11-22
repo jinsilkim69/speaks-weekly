@@ -13131,3 +13131,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** "'궁디팡팡' 이재명 대통령, 전 세계 동포들이 응원합니다!" #shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "'궁디팡팡' 이재명 대통령, 전 세계 동포들이 응원합니다!" #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE1adnpQSC1EWGJVQUJRSElnVU05WkhzSEljcXlSeUp3ekRIOW5DSjU4SUtlOGtFbHBSdjctU1laelU4TjhIQ3R6R180bDJDYjVLM0FxWHpIMEJpZUpSRTB1T0E2LXktd21nSlkwNXFIajNtRl9feDFkQTZ3cndIa2M?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "시험지 촬영·외부 전송 기술적으로 막겠다" - 국제뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "시험지 촬영·외부 전송 기술적으로 막겠다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE40eThUaEk3N2pLZTZ0ZHpBdktjaDJrME5pLS02NUl1TEhUVEdRVnVKYVU3SnA2Y2E0Nm4tRktVbjItSXF6UUVkV3IxLXJtMzVwMkVaV3Z1aE54Z0JrcmpVYXkxSXo0amROS1ExVDln?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁 "이재명 탈옥 위한 탄핵"…한동훈 "서부지법 폭력보다 나빠" - JTBC
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 "이재명 탈옥 위한 탄핵"…한동훈 "서부지법 폭력보다 나빠"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kaDZXR1VKYWVkc2pyQ2hjVEdneVZZMVNPdnhhVGQ5NU1jNHpSN3BRS0ZaUUdGNGY2YTVUU2hiU2pMTFZ0c01UY3NSV0FCVG5MOEpwaA?oc=5)
+
+---
+

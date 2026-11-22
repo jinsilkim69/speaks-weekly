@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T06:51:13.342Z",
+  "lastCheckedAt": "2026-11-22T07:01:18.584Z",
   "seenPostIds": {
-    "1a0c1c7d822175f1c6a3bb1b043ae95deb8a9ea8e18fa0cd2ee1397b45c00e5e": {
-      "seenAt": "2026-11-19T04:11:17.614Z",
-      "title": "김혜경 여사 소탈한 모습 중국에서 화제…이재명 대통령 따라 ‘국회 담장 인증샷’도 인기 - 경향신문",
-      "targetName": "이재명"
-    },
     "b04469de9df75f0df6bdd88c2ea3353854d99a62d0e485df1cceabb81586f50d": {
       "seenAt": "2026-11-19T04:51:18.804Z",
       "title": "김민석 대표에 'X소리' 막말...중징계 받은 부산시의원 \"정치 탄압\" - KBC광주방송",
@@ -2505,14 +2500,29 @@
       "seenAt": "2026-11-22T06:51:14.411Z",
       "title": "정청래 전 대표, 순창 떡볶이페스타서 시민들과 환담 - 전북도민일보",
       "targetName": "정청래"
+    },
+    "8e3d00da913562b4ca26a58f1439f755bbb4a3c684a3b323c91b24806ec70248": {
+      "seenAt": "2026-11-22T07:01:20.284Z",
+      "title": "\"'궁디팡팡' 이재명 대통령, 전 세계 동포들이 응원합니다!\" #shorts - 오마이TV - OhmyNews",
+      "targetName": "이재명"
+    },
+    "625dece5bb0edf256195144110ee51406fdbe59894c70abcd6e80f38c2b8fedf": {
+      "seenAt": "2026-11-22T07:01:21.052Z",
+      "title": "이재명 대통령 \"시험지 촬영·외부 전송 기술적으로 막겠다\" - 국제뉴스",
+      "targetName": "이재명"
+    },
+    "372b3ad7d3ff624f838f9aacab0da43a0025846c803b83b7b0d62083b87549f1": {
+      "seenAt": "2026-11-22T07:01:21.836Z",
+      "title": "장동혁 \"이재명 탈옥 위한 탄핵\"…한동훈 \"서부지법 폭력보다 나빠\" - JTBC",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "cc1647b889127aa50efc88c63ca66fae52a6978e11aaa7d162f7be993f35c590",
-    "title": "정청래 전 대표, 순창 떡볶이페스타서 시민들과 환담 - 전북도민일보",
+    "postId": "372b3ad7d3ff624f838f9aacab0da43a0025846c803b83b7b0d62083b87549f1",
+    "title": "장동혁 \"이재명 탈옥 위한 탄핵\"…한동훈 \"서부지법 폭력보다 나빠\" - JTBC",
     "bot": "jongsuk_pol_bot",
-    "runId": "44995569327",
-    "sentAt": "2026-11-22T06:51:13.916Z"
+    "runId": "44996285117",
+    "sentAt": "2026-11-22T07:01:21.439Z"
   }
 }
