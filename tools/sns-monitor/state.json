@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T01:11:14.006Z",
+  "lastCheckedAt": "2026-11-22T01:21:15.582Z",
   "seenPostIds": {
-    "821b057a4505e4ca69531af163700e4841c64f6809a166f9dcd754135a1d78c1": {
-      "seenAt": "2026-11-18T12:51:19.978Z",
-      "title": "한동훈 \"추경호 무죄, 특검 무리한 수사·기소의 당연한 귀결\" - 이데일리",
-      "targetName": "한동훈"
-    },
-    "e893e539e3914a9ba665aae123d9f6b6a8f2a370e4c390fa7ec494e19ea49c08": {
-      "seenAt": "2026-11-18T13:11:19.562Z",
-      "title": "나경원 \"이준석 전파 탐지 앱 검증해야\" 수능 대책 보완 촉구 | - 뉴스클레임",
-      "targetName": "이준석"
-    },
-    "f827092125f85642de55bd239b9836ff3b4b10858208d832e907d4703c504588": {
-      "seenAt": "2026-11-18T13:11:20.237Z",
-      "title": "Donald Trump: US, Philippines concluded big trade deal - The Jerusalem Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "5304ae9ec0330409e0faf9f0c32fe1501af7f0e6adfa83a8d06003e0113e9f68": {
       "seenAt": "2026-11-18T13:31:16.568Z",
       "title": "홍준표 “더 이상 되지도 않을 한동훈 복당 논쟁 그만두라···장동혁 중심돼야” - 주간경향",
@@ -2515,63 +2500,46 @@
       "seenAt": "2026-11-22T01:11:16.235Z",
       "title": "조국, 창당 1000일 앞두고 당명 개정 제안… “국민 의견 수렴” - 천지일보",
       "targetName": "조국"
+    },
+    "4a808e76d56f56e390072137c1d34964b7adbdb07ab04f02f9671d1d1d4df2d3": {
+      "seenAt": "2026-11-22T01:21:16.671Z",
+      "title": "“정청래가 왔다!” 순창 떡볶이 페스타 깜짝 방문에 축제장 술렁 - 전라일보",
+      "targetName": "정청래"
+    },
+    "3e304b3b9d47e53633a2d70a6b05c87707dfc34f64f6f401d7248528f2666082": {
+      "seenAt": "2026-11-22T01:21:17.309Z",
+      "title": "조국 “확장성 있는 당명으로“…혁신당 ’조국’ 빠지나 - 연합뉴스TV",
+      "targetName": "조국"
+    },
+    "09c45e3801f616ed18b3effcd204bee0294fb0a7c78e1c3159d61f4e0075c356": {
+      "seenAt": "2026-11-22T01:21:17.943Z",
+      "title": "조국, 당명 개정 제안… “제 이름 아니지만, 확장성 있는 당명 필요” - 채널A",
+      "targetName": "조국"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "4a808e76d56f56e390072137c1d34964b7adbdb07ab04f02f9671d1d1d4df2d3",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "“정청래가 왔다!” 순창 떡볶이 페스타 깜짝 방문에 축제장 술렁 - 전라일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE00dno2ZndpaGgwSklEN1dJZXkzWUE2RWVXNEgtcjBPXzN1SVUyNGJFVVdtb2VMN0M0MGVLbk1KRk9iOFlHRlFTcEdaVktUX0ozTnVXZk1XSW9UekkySVVCVWtGbXhBMGhMWk1zRmJB0gFwQVVfeXFMTWhhR2JyX05Nc0tlQV8za1ZVeTYwQURjdFQtS1I1aV81a3NXbWpsQk5NYy05Q3hJUVRXcXdKeUJ3WHJKTkMzaUpWc0l3cjRmNVBFcERldWlIdUU0M3RDV1VNWC1IaDEwa2d6UWUwZXBEaA?oc=5\" target=\"_blank\">“정청래가 왔다!” 순창 떡볶이 페스타 깜짝 방문에 축제장 술렁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전라일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00dno2ZndpaGgwSklEN1dJZXkzWUE2RWVXNEgtcjBPXzN1SVUyNGJFVVdtb2VMN0M0MGVLbk1KRk9iOFlHRlFTcEdaVktUX0ozTnVXZk1XSW9UekkySVVCVWtGbXhBMGhMWk1zRmJB0gFwQVVfeXFMTWhhR2JyX05Nc0tlQV8za1ZVeTYwQURjdFQtS1I1aV81a3NXbWpsQk5NYy05Q3hJUVRXcXdKeUJ3WHJKTkMzaUpWc0l3cjRmNVBFcERldWlIdUU0M3RDV1VNWC1IaDEwa2d6UWUwZXBEaA?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 00:26:53 GMT",
-        "source": "전라일보",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "3e304b3b9d47e53633a2d70a6b05c87707dfc34f64f6f401d7248528f2666082",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 “확장성 있는 당명으로“…혁신당 ’조국’ 빠지나 - 연합뉴스TV",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53anNWUDBlNzVLODJrMjU0QWxGeFNnaHlQWWdNdG9ua2E2OGNzVVdlX08zVkVsTzllVUNaUmV1WjJhX01MYmtycHdrR3dTTlk4MzJtLWl3QWlMalJ6WW5tQjR0VlVEMFk?oc=5\" target=\"_blank\">조국 “확장성 있는 당명으로“…혁신당 ’조국’ 빠지나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53anNWUDBlNzVLODJrMjU0QWxGeFNnaHlQWWdNdG9ua2E2OGNzVVdlX08zVkVsTzllVUNaUmV1WjJhX01MYmtycHdrR3dTTlk4MzJtLWl3QWlMalJ6WW5tQjR0VlVEMFk?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 01:03:00 GMT",
-        "source": "연합뉴스TV",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "09c45e3801f616ed18b3effcd204bee0294fb0a7c78e1c3159d61f4e0075c356",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국, 당명 개정 제안… “제 이름 아니지만, 확장성 있는 당명 필요” - 채널A",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oZ0RvRDRLdHZpSE1WaFozcm9qTlRnWDNvUE1Ham45eXdFb2Q3ZlJFaEs4VnM1NFNzM1d2WnJhS05NdVZmQkhka3l5Vmw0bzhFaDhyc2E1Tk5OLU0yM2fSAWNBVV95cUxQR0JyOS1hSzZTWnF0OC01a29BRVcwLXhWNGp2THFDVjEwUnMyQUk4VF9WSm9JSmIxb1ZaYjdGZGpCTDllbGpRM0pwYnRneWFuNUxWTWgwUnRjdDlwdkhOcEVaUFE?oc=5\" target=\"_blank\">조국, 당명 개정 제안… “제 이름 아니지만, 확장성 있는 당명 필요”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oZ0RvRDRLdHZpSE1WaFozcm9qTlRnWDNvUE1Ham45eXdFb2Q3ZlJFaEs4VnM1NFNzM1d2WnJhS05NdVZmQkhka3l5Vmw0bzhFaDhyc2E1Tk5OLU0yM2fSAWNBVV95cUxQR0JyOS1hSzZTWnF0OC01a29BRVcwLXhWNGp2THFDVjEwUnMyQUk4VF9WSm9JSmIxb1ZaYjdGZGpCTDllbGpRM0pwYnRneWFuNUxWTWgwUnRjdDlwdkhOcEVaUFE?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 00:44:00 GMT",
-        "source": "채널A",
-        "ageHours": 0.5
+        "id": "0f4fe13ca34b65d956356f6197ee7b96071528239432ea9531a2cbe91b8d74f2",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 의원, 민주당의 조희대 대법원장 탄핵 추진 비판:경찰연합신문 - 경찰연합신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE56c2w0OVFYemRNN191dHNDcUxfM2JiQVdoSmYtcWZIZE8wQ0lWSmpBLWxRQTlSR3BoZHFnbXIzSTZqdTBTcnBHdm5DLTNpMHd00gFsQVVfeXFMT19id0dja2Y5eUhzUnJTdWhadklKM0lySno5bnVfTnRRaVA1MDhneUVZQk1mWk8tUGlZb3VQZFVKaHpmd2N5cVc4VFRpZGRGZGtzYmdncExFY3BkWVpXbmU3SDNHUWtSczF1YVFZ?oc=5\" target=\"_blank\">한동훈 의원, 민주당의 조희대 대법원장 탄핵 추진 비판:경찰연합신문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경찰연합신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56c2w0OVFYemRNN191dHNDcUxfM2JiQVdoSmYtcWZIZE8wQ0lWSmpBLWxRQTlSR3BoZHFnbXIzSTZqdTBTcnBHdm5DLTNpMHd00gFsQVVfeXFMT19id0dja2Y5eUhzUnJTdWhadklKM0lySno5bnVfTnRRaVA1MDhneUVZQk1mWk8tUGlZb3VQZFVKaHpmd2N5cVc4VFRpZGRGZGtzYmdncExFY3BkWVpXbmU3SDNHUWtSczF1YVFZ?oc=5",
+        "pubDate": "Sat, 21 Nov 2026 20:44:54 GMT",
+        "source": "경찰연합신문",
+        "ageHours": 4.6
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "94372646241f36a3e5253d1bd29f921df6b0a0ddea8791a1073c621ac7a41e14",
-    "title": "조국, 창당 1000일 앞두고 당명 개정 제안… “국민 의견 수렴” - 천지일보",
+    "postId": "09c45e3801f616ed18b3effcd204bee0294fb0a7c78e1c3159d61f4e0075c356",
+    "title": "조국, 당명 개정 제안… “제 이름 아니지만, 확장성 있는 당명 필요” - 채널A",
     "bot": "jongsuk_pol_bot",
-    "runId": "44970228266",
-    "sentAt": "2026-11-22T01:11:15.925Z"
+    "runId": "44971042730",
+    "sentAt": "2026-11-22T01:21:17.623Z"
   }
 }

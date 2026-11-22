@@ -12221,3 +12221,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** “정청래가 왔다!” 순창 떡볶이 페스타 깜짝 방문에 축제장 술렁 - 전라일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “정청래가 왔다!” 순창 떡볶이 페스타 깜짝 방문에 축제장 술렁
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE00dno2ZndpaGgwSklEN1dJZXkzWUE2RWVXNEgtcjBPXzN1SVUyNGJFVVdtb2VMN0M0MGVLbk1KRk9iOFlHRlFTcEdaVktUX0ozTnVXZk1XSW9UekkySVVCVWtGbXhBMGhMWk1zRmJB0gFwQVVfeXFMTWhhR2JyX05Nc0tlQV8za1ZVeTYwQURjdFQtS1I1aV81a3NXbWpsQk5NYy05Q3hJUVRXcXdKeUJ3WHJKTkMzaUpWc0l3cjRmNVBFcERldWlIdUU0M3RDV1VNWC1IaDEwa2d6UWUwZXBEaA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “확장성 있는 당명으로“…혁신당 ’조국’ 빠지나 - 연합뉴스TV
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “확장성 있는 당명으로“…혁신당 ’조국’ 빠지나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53anNWUDBlNzVLODJrMjU0QWxGeFNnaHlQWWdNdG9ua2E2OGNzVVdlX08zVkVsTzllVUNaUmV1WjJhX01MYmtycHdrR3dTTlk4MzJtLWl3QWlMalJ6WW5tQjR0VlVEMFk?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 당명 개정 제안… “제 이름 아니지만, 확장성 있는 당명 필요” - 채널A
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 당명 개정 제안… “제 이름 아니지만, 확장성 있는 당명 필요”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oZ0RvRDRLdHZpSE1WaFozcm9qTlRnWDNvUE1Ham45eXdFb2Q3ZlJFaEs4VnM1NFNzM1d2WnJhS05NdVZmQkhka3l5Vmw0bzhFaDhyc2E1Tk5OLU0yM2fSAWNBVV95cUxQR0JyOS1hSzZTWnF0OC01a29BRVcwLXhWNGp2THFDVjEwUnMyQUk4VF9WSm9JSmIxb1ZaYjdGZGpCTDllbGpRM0pwYnRneWFuNUxWTWgwUnRjdDlwdkhOcEVaUFE?oc=5)
+
+---
+
