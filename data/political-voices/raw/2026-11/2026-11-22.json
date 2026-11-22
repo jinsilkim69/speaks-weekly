@@ -3502,5 +3502,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8dcca062b33fc28a009b5b1921e28958816d217153ca830e8c2d87edef5199cc",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "“자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나 - 미주중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nMTNZdl9pazBZNXRPVkNHUEpaN1VfbE0wYUd1Mm50RklyN1VuMzJpOFhiMDBlRU1JanZNT0NrZlMwUTJWYWN4S0RTenFJcUdqd3FFanJkTnF3ZFF0dzQwejdB?oc=5\" target=\"_blank\">“자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미주중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nMTNZdl9pazBZNXRPVkNHUEpaN1VfbE0wYUd1Mm50RklyN1VuMzJpOFhiMDBlRU1JanZNT0NrZlMwUTJWYWN4S0RTenFJcUdqd3FFanJkTnF3ZFF0dzQwejdB?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 08:15:00 GMT",
+    "source": "미주중앙일보",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

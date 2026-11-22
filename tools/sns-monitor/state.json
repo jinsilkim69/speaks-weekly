@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T08:11:18.876Z",
+  "lastCheckedAt": "2026-11-22T08:21:12.661Z",
   "seenPostIds": {
     "818b9c7d2ebdac54a03347c33b8141e48c1e74448ca8d6b1071f528d0f2ff755": {
       "seenAt": "2026-11-19T06:11:18.023Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-22T08:01:20.477Z",
       "title": "이준석 \"민주당, 대법원장 탄핵 시 한 방에 무너진다\" - 더팩트",
       "targetName": "이준석"
+    },
+    "8dcca062b33fc28a009b5b1921e28958816d217153ca830e8c2d87edef5199cc": {
+      "seenAt": "2026-11-22T08:21:13.750Z",
+      "title": "“자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나 - 미주중앙일보",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "fa00eade7a7fff63df0fb761e42a019227e82b7b50dec08c203e16c5217eebeb",
-    "title": "이준석 \"민주당, 대법원장 탄핵 시 한 방에 무너진다\" - 더팩트",
+    "postId": "8dcca062b33fc28a009b5b1921e28958816d217153ca830e8c2d87edef5199cc",
+    "title": "“자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나 - 미주중앙일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45000821004",
-    "sentAt": "2026-11-22T08:01:19.879Z"
+    "runId": "45002391453",
+    "sentAt": "2026-11-22T08:21:13.231Z"
   }
 }
