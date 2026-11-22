@@ -12975,3 +12975,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** '취임 100일' 김민석…지지율 하락·계파갈등 격화·민생 실종 '첩첩산중' - 싱글리스트
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '취임 100일' 김민석…지지율 하락·계파갈등 격화·민생 실종 '첩첩산중'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01NzJNNnZlclhLTS1NMTJDVU9BOHdMYnFIQ0J3dlZwWG1lbTUtN2UtREZ4dHVfTERWWXFzMm84OFNhSk9GNkVuUGxCb2k1TmtQeVBRVUNzMXNBc05KTGpJSUF1MkJIQQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [정치in] 민주 계파 갈등, 최민희 징계가 분수령… 김민석 통합력 시험대 - 천지일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주 계파 갈등, 최민희 징계가 분수령… 김민석 통합력 시험대
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9FWlFKM3NuZ3FoY29SU0t2dXhraVBkaUhCejdDV1Y0QjZqeHdjRVpvRkNwZ0tZTHVJcVdKbmItZnhLNk9ad1ZpMk1JRVprQjRleUdWZmhWZGZjTWpEeS1waUtQQzVCblJTdXc?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원, 인천지역 12개 대학 총학생회와 치맥 간담회 - 인천in 시민의 손으로 만드는 인터넷신문
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원, 인천지역 12개 대학 총학생회와 치맥 간담회
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1MdXpTckhoRWY2emhzT1ZGSTlZVHNMamJjUjljUGNEcEFJRmxEckZYUFdoME1VX2tRYXdpc1JZQ250MDQ2dGNTaVFoZmtKT2ZXTVJtOHEySGhIZFpIRXl4aW0tRlo1djBXc1AzYg?oc=5)
+
+---
+
