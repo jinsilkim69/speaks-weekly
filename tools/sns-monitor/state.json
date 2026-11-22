@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T02:01:18.231Z",
+  "lastCheckedAt": "2026-11-22T02:11:22.238Z",
   "seenPostIds": {
-    "8f3dd3e2a60f90b79ed85079842c2af8f82415cdef2b08960ae96365202c4b18": {
-      "seenAt": "2026-11-18T16:11:18.889Z",
-      "title": "Trump meets longtime friend Imelda Marcos while visiting son in Philippines - Fox 59",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "97b4537adce19994f50c0242a41d4fc00735103888e122bc6de58463bb7ac979": {
       "seenAt": "2026-11-18T16:41:21.010Z",
       "title": "이재명 대통령 “수능 부정행위 무관용 원칙 엄정 대응…시험 후에도 끝까지 추적\" - 경기일보",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-22T02:01:19.632Z",
       "title": "'취임 100일' 김민석…당정관계 안정에도 내부통합·지지율 숙제 - 연합뉴스",
       "targetName": "김민석"
+    },
+    "23c13615976b5232e5d34c500a86231b70566ec7ec51961d300994125dcbf91c": {
+      "seenAt": "2026-11-22T02:11:23.593Z",
+      "title": "조국 “당명 속 ‘조국’이 제 이름은 아니지만… 당명 바꾸자” - 조선일보",
+      "targetName": "조국"
+    },
+    "123999878514a6d906158a08f116369c082c88b8c93f862fdc1f239cf8dd8d6c": {
+      "seenAt": "2026-11-22T02:11:24.235Z",
+      "title": "신장식, 실경작자 보호·농지농용 원칙 확립 위한 '특정농지 정리에 관한 특별조치법안' 발의 기자회견 - 노동일보",
+      "targetName": "신장식"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "943f19ccda4639db865852f07a39c350d10a3e62e966bdd43fb7730e3cd1c574",
-    "title": "'취임 100일' 김민석…당정관계 안정에도 내부통합·지지율 숙제 - 연합뉴스",
+    "postId": "123999878514a6d906158a08f116369c082c88b8c93f862fdc1f239cf8dd8d6c",
+    "title": "신장식, 실경작자 보호·농지농용 원칙 확립 위한 '특정농지 정리에 관한 특별조치법안' 발의 기자회견 - 노동일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "44974089083",
-    "sentAt": "2026-11-22T02:01:19.110Z"
+    "runId": "44974872189",
+    "sentAt": "2026-11-22T02:11:23.919Z"
   }
 }
