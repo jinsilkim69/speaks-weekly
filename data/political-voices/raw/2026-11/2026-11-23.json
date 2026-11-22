@@ -502,5 +502,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "9c866243b99c9e265d80e9e763d8b18365e90a48c02f23d868a805827899f409",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "취임 100일 앞둔 김민석…민생 외쳤지만 당내 갈등·지지율 저조 고심 - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE56emUxZkRrUVozWFhSM2dEejRnazFVOElQdUpjdFBNY0dmMVllZWtaalhQd3ZYblhwR3V4VmI1UVJJVUFYQW9Kc1NDT1kwRU9vb1RMWWt4NHdBclI1bHJObHJ3?oc=5\" target=\"_blank\">취임 100일 앞둔 김민석…민생 외쳤지만 당내 갈등·지지율 저조 고심</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56emUxZkRrUVozWFhSM2dEejRnazFVOElQdUpjdFBNY0dmMVllZWtaalhQd3ZYblhwR3V4VmI1UVJJVUFYQW9Kc1NDT1kwRU9vb1RMWWt4NHdBclI1bHJObHJ3?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 20:14:24 GMT",
+    "source": "뉴시스",
+    "ageHours": 1.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 취임 100일 앞둔 김민석…민생 외쳤지만 당내 갈등·지지율 저조 고심",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
