@@ -1179,5 +1179,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "5ed1192985a8c69af6c72e896038663698561ba3931a7225741b31736f6c4ced",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "당명 개정 제안한 조국…“확장성 있어야” - 아시아투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBQUHpzRWh0a1FUcHByODJOV28xUGZyU044OWZZZmFMNnBzazBmX215dE00UmJLY0FYYXltSWFtM0x6TkdOZjl1YmNYYk82bzdIWDY5X3JhazA5cHpfOVQ5WmozSkNuTXF0X184Yw?oc=5\" target=\"_blank\">당명 개정 제안한 조국…“확장성 있어야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQUHpzRWh0a1FUcHByODJOV28xUGZyU044OWZZZmFMNnBzazBmX215dE00UmJLY0FYYXltSWFtM0x6TkdOZjl1YmNYYk82bzdIWDY5X3JhazA5cHpfOVQ5WmozSkNuTXF0X184Yw?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 00:30:51 GMT",
+    "source": "아시아투데이",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 당명 개정 제안한 조국…“확장성 있어야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
