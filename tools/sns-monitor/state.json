@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T02:11:22.238Z",
+  "lastCheckedAt": "2026-11-22T02:21:13.138Z",
   "seenPostIds": {
-    "97b4537adce19994f50c0242a41d4fc00735103888e122bc6de58463bb7ac979": {
-      "seenAt": "2026-11-18T16:41:21.010Z",
-      "title": "이재명 대통령 “수능 부정행위 무관용 원칙 엄정 대응…시험 후에도 끝까지 추적\" - 경기일보",
-      "targetName": "이재명"
-    },
-    "6d2756a969076c78dc7f201714fa712191e7a14e07cea39fe875ca5577b6d874": {
-      "seenAt": "2026-11-18T16:41:21.767Z",
-      "title": "추경호 1심 무죄에… 안철수, 한동훈 겨냥 “‘유죄 기우제’ 무리 단죄해야” - 세계일보",
-      "targetName": "한동훈"
-    },
     "69429334e2ad830dad50413c7bcc8e52c8c961340a17cba8680ea464d00ed173": {
       "seenAt": "2026-11-18T16:41:22.512Z",
       "title": "Trump meets longtime friend Imelda Marcos while visiting son in Philippines - The Hill",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-22T02:11:24.235Z",
       "title": "신장식, 실경작자 보호·농지농용 원칙 확립 위한 '특정농지 정리에 관한 특별조치법안' 발의 기자회견 - 노동일보",
       "targetName": "신장식"
+    },
+    "489469bfb7e578d5842d4ce19bd0858ae718468da8c0db421d5f78978af57813": {
+      "seenAt": "2026-11-22T02:21:14.199Z",
+      "title": "조국, 창당 1,000일 앞두고 당명 변경 제안...신장식 “최고위서 논의” - M이코노미뉴스",
+      "targetName": "신장식"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "123999878514a6d906158a08f116369c082c88b8c93f862fdc1f239cf8dd8d6c",
-    "title": "신장식, 실경작자 보호·농지농용 원칙 확립 위한 '특정농지 정리에 관한 특별조치법안' 발의 기자회견 - 노동일보",
+    "postId": "489469bfb7e578d5842d4ce19bd0858ae718468da8c0db421d5f78978af57813",
+    "title": "조국, 창당 1,000일 앞두고 당명 변경 제안...신장식 “최고위서 논의” - M이코노미뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "44974872189",
-    "sentAt": "2026-11-22T02:11:23.919Z"
+    "runId": "44975671324",
+    "sentAt": "2026-11-22T02:21:13.678Z"
   }
 }
