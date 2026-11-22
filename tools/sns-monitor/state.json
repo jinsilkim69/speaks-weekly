@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T20:01:19.862Z",
+  "lastCheckedAt": "2026-11-22T20:11:12.926Z",
   "seenPostIds": {
     "39e8b79e3e637a7a3d44545629575a3d6bf3a4ad4751a1f0f0d92e094a71e507": {
       "seenAt": "2026-11-19T10:41:18.963Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-22T19:31:16.772Z",
       "title": "조작기소 특검법은 왜 이재명 대통령에게 독배인가 - 시사IN",
       "targetName": "이재명"
+    },
+    "d93a003890e9ea55a5767915fe916886b6f68a72ac1ff293a5d47c2f135f4a9f": {
+      "seenAt": "2026-11-22T20:11:14.154Z",
+      "title": "송영길·인천 12개 대학 총학생회 ‘치맥 간담회’ 개최... 청년 주거·취업·수도권 역차별 해법 모색 - 투어코리아",
+      "targetName": "송영길"
+    },
+    "9f2e251a6c718d9fa18bea2283df68c0ef671b602799da749c30811b7a6c59de": {
+      "seenAt": "2026-11-22T20:11:14.864Z",
+      "title": "Trump blames $6T stock market slide on Democrats’ midterm wins - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "2a729d44060cdd707d2bd29aca26e4a8f7b823e47b28b47bab3a03457868e0a4",
-    "title": "조작기소 특검법은 왜 이재명 대통령에게 독배인가 - 시사IN",
+    "postId": "9f2e251a6c718d9fa18bea2283df68c0ef671b602799da749c30811b7a6c59de",
+    "title": "Trump blames $6T stock market slide on Democrats’ midterm wins - The Hill",
     "bot": "jongsuk_pol_bot",
-    "runId": "45061186238",
-    "sentAt": "2026-11-22T19:31:16.108Z"
+    "runId": "45064965078",
+    "sentAt": "2026-11-22T20:11:14.523Z"
   }
 }
