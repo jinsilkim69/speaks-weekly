@@ -13170,3 +13170,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "근조 민주당…조희대 탄핵 강행하면 한 방에 무너질 것" - 뉴스핌
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "근조 민주당…조희대 탄핵 강행하면 한 방에 무너질 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBeG1xOUhnZURlSlM2RU1nM2JWdG5NUkYtSVdvdWI5NTdfNDVGVjN2VlpVMEJVSTBQY0d2SGJUSmxCM3A1cW1pYUEtOTdQaHpuUkVReG9xRVZ1NnhR?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** '조희대 탄핵' 추진에 이준석 "근조 민주당…역풍으로 한방에 무너질 것" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '조희대 탄핵' 추진에 이준석 "근조 민주당…역풍으로 한방에 무너질 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE1uRXZVMWJPTHRhaTRzVkh2eUlOcXl5U1Q5c3MxUndjYVVLWDViVExkSWJKMEhoeVpUdE9KRDJqdFoySUNTdjhYeWZ2TU5UUDdzZlpmSDgtYTdrTXFaWFpJZnJyS1VJYVpxTTdOR25ZRHR6UdIBckFVX3lxTE1uRXZVMWJPTHRhaTRzVkh2eUlOcXl5U1Q5c3MxUndjYVVLWDViVExkSWJKMEhoeVpUdE9KRDJqdFoySUNTdjhYeWZ2TU5UUDdzZlpmSDgtYTdrTXFaWFpJZnJyS1VJYVpxTTdOR25ZRHR6UQ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "민주당, 대법원장 탄핵 시 한 방에 무너진다" - 더팩트
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "민주당, 대법원장 탄핵 시 한 방에 무너진다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBReE9TQTJ5bFdVaXpWWndsbmpta2kzU29WVXFKWDl1X0htaXRVZE8xNkFFWUhMRGh2Tll0TGVpV3F0Q0VLUmxXNlRSTmZMTVFxbXRuczZmRG7SAVNBVV95cUxQUC1PbERNQXI0dTVHWE5YLTluLUR1ekhKYTh4dy1RZ2RmN2RUX0hSWkFrM09RSFhsNEZDcnBRSTN5NVBKNUp1NW9YS3R1LV82UlFKUQ?oc=5)
+
+---
+
