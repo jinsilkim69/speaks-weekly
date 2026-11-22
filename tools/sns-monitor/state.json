@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T16:11:14.929Z",
+  "lastCheckedAt": "2026-11-22T16:21:13.360Z",
   "seenPostIds": {
-    "ba10afa6b7fc695ef1491585b6a9a49a69679aa71fe240230133fc751c3d38cc": {
-      "seenAt": "2026-11-19T09:31:19.303Z",
-      "title": "조국 \"추경호 무죄 후 한덕수 파기환송…與 조희대 방치한 후과\" - 머니투데이 - 머니투데이",
-      "targetName": "조국"
-    },
-    "7ec381fede60794bd7fbdc3384ee378ba54ac6db99932014f29767907c4d58bd": {
-      "seenAt": "2026-11-19T09:31:19.979Z",
-      "title": "「M포토」 발언하는 신장식 조국혁신당 대표 - M이코노미뉴스",
-      "targetName": "신장식"
-    },
-    "0e6abf55a628a00fbc756c764f2ddd2045b3982a5c28884355a965d7e0c09598": {
-      "seenAt": "2026-11-19T09:41:17.912Z",
-      "title": "\"친한계, 벼랑 끝 동지의 손을 뿌리쳤다...한동훈 복당 절대 안돼\"[박영환의 시사1번지] - KBC광주방송",
-      "targetName": "한동훈"
-    },
     "f49bf610eeb55585f874462c9827320d465d546defcd905f57412e28c0996ad6": {
       "seenAt": "2026-11-19T09:41:18.665Z",
       "title": "조희대 탄핵촉구 촛불집회에서 발언하는 신장식 대표 - www.gukjenews.com",
@@ -2515,31 +2500,19 @@
       "seenAt": "2026-11-22T16:11:17.968Z",
       "title": "김민석 대표 만든 ‘1인 1표’… 더 커진 강성 당원, 더 깊어진 내홍 - 서울신문",
       "targetName": "김민석"
+    },
+    "16fefb7b17e08a26211784da60dd8c79a143efaaf9ed215471ef846b55bd0fc2": {
+      "seenAt": "2026-11-22T16:21:14.426Z",
+      "title": "이준석 “민주당은 한 방에 무너질 것… 부끄러운 줄 알라” - 세계일보",
+      "targetName": "이준석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "16fefb7b17e08a26211784da60dd8c79a143efaaf9ed215471ef846b55bd0fc2",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 “민주당은 한 방에 무너질 것… 부끄러운 줄 알라” - 세계일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSdm9FODUyMC1Wek5kMTU2YW53MjV2aUt0b1lHbmdDajJDdWU4TERGSjJVZnhhVy1SbU5VUkxxN2VDNEUtUTdrSHJmQ0ZNWmxNa3d2UllCanPSAVRBVV95cUxPV04zS3IzbDZ4akJkelhGRkozSjdMUUlPMnNsTXB0UU1kUWpESDNlYnp0ZUxtWEFTTEtzMEZ0bDMtaHFPNkdIMEtTNHNITjVCQlJSN1A?oc=5\" target=\"_blank\">이준석 “민주당은 한 방에 무너질 것… 부끄러운 줄 알라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSdm9FODUyMC1Wek5kMTU2YW53MjV2aUt0b1lHbmdDajJDdWU4TERGSjJVZnhhVy1SbU5VUkxxN2VDNEUtUTdrSHJmQ0ZNWmxNa3d2UllCanPSAVRBVV95cUxPV04zS3IzbDZ4akJkelhGRkozSjdMUUlPMnNsTXB0UU1kUWpESDNlYnp0ZUxtWEFTTEtzMEZ0bDMtaHFPNkdIMEtTNHNITjVCQlJSN1A?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 04:59:16 GMT",
-        "source": "세계일보",
-        "ageHours": 11.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "83f791f2a264bf585e00e19bf6847360fde5aadfd1971d58b6394250b5b3ff0a",
-    "title": "김민석 대표 만든 ‘1인 1표’… 더 커진 강성 당원, 더 깊어진 내홍 - 서울신문",
+    "postId": "16fefb7b17e08a26211784da60dd8c79a143efaaf9ed215471ef846b55bd0fc2",
+    "title": "이준석 “민주당은 한 방에 무너질 것… 부끄러운 줄 알라” - 세계일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45042377748",
-    "sentAt": "2026-11-22T16:11:17.564Z"
+    "runId": "45043332845",
+    "sentAt": "2026-11-22T16:21:13.944Z"
   }
 }
