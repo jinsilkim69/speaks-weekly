@@ -13222,3 +13222,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與, 조희대 탄핵 연내 처리 속도전…김민석의 국면전환 카드될까 - 대한경제
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與, 조희대 탄핵 연내 처리 속도전…김민석의 국면전환 카드될까
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE9GNUZrSnhVdXdCdVNCQmI0NDNVaGs4aml3M2d4VHhUMjJvOHFCMS1uS3M5U3Fha3NaanNGaUUwa2dTVHpUZ3puNnh4bFM2LTNRYU5ua0w4eU8xQVpaaTFjNl9KcVdscDZBaW9iYkFJM0paSk5v?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 취임 100일…당정 조율 성과, 당내 통합 숙제 - 경북매일
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 취임 100일…당정 조율 성과, 당내 통합 숙제
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qSWF1aC1LUVZZNE1MbFpIY2xWaDg1VVFIOUJMMmZVMFFsYVdObVp6OW8zWDl1ZVZvRENHNjZ6eEdxQVlBQXgyX3Y4WGx2OWxla09DNFZXcDFlUQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** "'반명' 추미애, 정청래, 최민희, 조국당... '반명' 기득권 정치! 그만해!" #shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "'반명' 추미애, 정청래, 최민희, 조국당... '반명' 기득권 정치! 그만해!" #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE0tb0Z3eDhJMmdFNVlqSjlpNzZJTWlDZXRZQzZGNXhOUTgtdy1UQmdBaGhlTE5VamtqN3FLVGZxM0Fxb0RMQ19MX2d6cTV3TUtDemhqNWhDelJyaklMVW9odmZFcmFOMTZOTXFuNGhtQnNaSjcxZmMtcmNqQjYwQ2c?oc=5)
+
+---
+

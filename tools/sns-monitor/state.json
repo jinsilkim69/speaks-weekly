@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T07:31:14.382Z",
+  "lastCheckedAt": "2026-11-22T07:41:13.410Z",
   "seenPostIds": {
-    "f57bb0ba64c99cc0f5aef41439c3632520974a2d91f82f69a334bef729825a9e": {
-      "seenAt": "2026-11-19T05:31:20.016Z",
-      "title": "‘PRESIDENT MARCOS IS A POWERFUL LEADER, AND A MAN OF HIGH INTEGRITY AND SUBSTANCE’ US President Donald Trump is now heading to China after his state visit to the Philippines, where he announced a new trade deal between the two cou - Facebook",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "67719672e06020d30cb54df88283457dacdef0ef1f47795fb418a42da7cb740b": {
       "seenAt": "2026-11-19T05:41:17.472Z",
       "title": "野당권파, '추경호 무죄'로 '조작징계' 되치기…한동훈·친한계 '정조준' - 뉴스1",
@@ -2505,14 +2500,29 @@
       "seenAt": "2026-11-22T07:31:15.625Z",
       "title": "이재명 대통령, 시험 부정행위 대책 지시…순방 외교 비판에도 입장 밝혀 - 일간투데이",
       "targetName": "이재명"
+    },
+    "c19a900647476b2187c00ea8f5c6563fb586d85cf776ac75a11e871bc521bf1c": {
+      "seenAt": "2026-11-22T07:41:14.736Z",
+      "title": "與, 조희대 탄핵 연내 처리 속도전…김민석의 국면전환 카드될까 - 대한경제",
+      "targetName": "김민석"
+    },
+    "87432f918303c64766880889ca0af2dec5e46a87eaf8448f1c7f4714903a4f12": {
+      "seenAt": "2026-11-22T07:41:15.505Z",
+      "title": "김민석 취임 100일…당정 조율 성과, 당내 통합 숙제 - 경북매일",
+      "targetName": "김민석"
+    },
+    "2e15fb45da7ca63650062497bb3dc04b87a4d36ae0f7009abe65dda58389d5b8": {
+      "seenAt": "2026-11-22T07:41:16.236Z",
+      "title": "\"'반명' 추미애, 정청래, 최민희, 조국당... '반명' 기득권 정치! 그만해!\" #shorts - 오마이TV - OhmyNews",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "29e289e69dd08edab0cd9a91431a32e53f403657c035e4d095bcea8c3b38911e",
-    "title": "이재명 대통령, 시험 부정행위 대책 지시…순방 외교 비판에도 입장 밝혀 - 일간투데이",
+    "postId": "2e15fb45da7ca63650062497bb3dc04b87a4d36ae0f7009abe65dda58389d5b8",
+    "title": "\"'반명' 추미애, 정청래, 최민희, 조국당... '반명' 기득권 정치! 그만해!\" #shorts - 오마이TV - OhmyNews",
     "bot": "jongsuk_pol_bot",
-    "runId": "44998582927",
-    "sentAt": "2026-11-22T07:31:15.015Z"
+    "runId": "44999336109",
+    "sentAt": "2026-11-22T07:41:15.856Z"
   }
 }
