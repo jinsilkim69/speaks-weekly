@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T17:41:14.166Z",
+  "lastCheckedAt": "2026-11-22T17:51:13.667Z",
   "seenPostIds": {
     "0714107af564e067796bf493a98e56cb82626e11c4fb927064e59f041199c2b9": {
       "seenAt": "2026-11-19T10:11:20.635Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-22T17:31:16.774Z",
       "title": "오세훈·한동훈, 與 조희대 탄핵 추진에 맹공…“사법부 장악·친위쿠데타” - 세계일보",
       "targetName": "한동훈"
+    },
+    "5326c4dde6165cda97556b41e62b6689707bed0db497cddd68ac8a9cc443e3bf": {
+      "seenAt": "2026-11-22T17:51:14.722Z",
+      "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "d9a110cb95ced3dc10cd52cbecb06ee7c056bf4155aac829d31544c3ea1da818",
-    "title": "오세훈·한동훈, 與 조희대 탄핵 추진에 맹공…“사법부 장악·친위쿠데타” - 세계일보",
+    "postId": "5326c4dde6165cda97556b41e62b6689707bed0db497cddd68ac8a9cc443e3bf",
+    "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45049876160",
-    "sentAt": "2026-11-22T17:31:16.099Z"
+    "runId": "45051734466",
+    "sentAt": "2026-11-22T17:51:14.233Z"
   }
 }
