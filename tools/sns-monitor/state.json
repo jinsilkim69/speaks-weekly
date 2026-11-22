@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T08:33:49.060Z",
+  "lastCheckedAt": "2026-11-22T08:41:13.500Z",
   "seenPostIds": {
     "d7449bc7f884b363cf20bf07a202bf50c6e0c117828fd6ec7ae2929cb3b6179c": {
       "seenAt": "2026-11-19T06:11:18.900Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-22T08:21:13.750Z",
       "title": "“자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나 - 미주중앙일보",
       "targetName": "조국"
+    },
+    "93006286986a2c9a26e4a4bea7d5a7d116a8667dc6c36bc24ca80cb2d9fe629b": {
+      "seenAt": "2026-11-22T08:41:14.663Z",
+      "title": "“자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나 - 중앙일보",
+      "targetName": "조국"
+    },
+    "33442711072ce0ca22dff39fdd69d4e60b72a5f482da4aa4607df100af6a99b3": {
+      "seenAt": "2026-11-22T08:41:15.478Z",
+      "title": "Donald Trump Posts ‘My Friend’ Photo With Putin and Yalta Comparison - Kyiv Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "8dcca062b33fc28a009b5b1921e28958816d217153ca830e8c2d87edef5199cc",
-    "title": "“자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나 - 미주중앙일보",
+    "postId": "33442711072ce0ca22dff39fdd69d4e60b72a5f482da4aa4607df100af6a99b3",
+    "title": "Donald Trump Posts ‘My Friend’ Photo With Putin and Yalta Comparison - Kyiv Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "45002391453",
-    "sentAt": "2026-11-22T08:21:13.231Z"
+    "runId": "45003946273",
+    "sentAt": "2026-11-22T08:41:15.148Z"
   }
 }

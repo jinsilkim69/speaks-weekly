@@ -13313,3 +13313,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** “자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나 - 중앙일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE10UFc3SmpVOXF5c1hBOEpaV2h6cW1Ha2JySVJBWWg3SEtJUThCY2FORXFkUWxWcmZpckFMR3hYaU9SRHFESXN3c1lmOGRobzBTaktXVmZ3?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump Posts ‘My Friend’ Photo With Putin and Yalta Comparison - Kyiv Post
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump Posts ‘My Friend’ Photo With Putin and Yalta Comparison
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ybkxWZC1pWnNNM2g1TFFaVTI3bmZzdUR3c21XRnlIQWZhNnplb3gwVUFqS1J2MmlCSDZzWXpReC1BUFVGVGlTY3hmSQ?oc=5)
+
+---
+

@@ -3527,5 +3527,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "93006286986a2c9a26e4a4bea7d5a7d116a8667dc6c36bc24ca80cb2d9fe629b",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "“자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나 - 중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE10UFc3SmpVOXF5c1hBOEpaV2h6cW1Ha2JySVJBWWg3SEtJUThCY2FORXFkUWxWcmZpckFMR3hYaU9SRHFESXN3c1lmOGRobzBTaktXVmZ3?oc=5\" target=\"_blank\">“자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10UFc3SmpVOXF5c1hBOEpaV2h6cW1Ha2JySVJBWWg3SEtJUThCY2FORXFkUWxWcmZpckFMR3hYaU9SRHFESXN3c1lmOGRobzBTaktXVmZ3?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 08:15:18 GMT",
+    "source": "중앙일보",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "33442711072ce0ca22dff39fdd69d4e60b72a5f482da4aa4607df100af6a99b3",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Donald Trump Posts ‘My Friend’ Photo With Putin and Yalta Comparison - Kyiv Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ybkxWZC1pWnNNM2g1TFFaVTI3bmZzdUR3c21XRnlIQWZhNnplb3gwVUFqS1J2MmlCSDZzWXpReC1BUFVGVGlTY3hmSQ?oc=5\" target=\"_blank\">Donald Trump Posts ‘My Friend’ Photo With Putin and Yalta Comparison</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kyiv Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ybkxWZC1pWnNNM2g1TFFaVTI3bmZzdUR3c21XRnlIQWZhNnplb3gwVUFqS1J2MmlCSDZzWXpReC1BUFVGVGlTY3hmSQ?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 08:20:18 GMT",
+    "source": "Kyiv Post",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Donald Trump Posts ‘My Friend’ Photo With Putin and Yalta Comparison",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
