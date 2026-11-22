@@ -1806,5 +1806,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "dda71f616ca7ae98d53ac2ba608cd863614ff155be562f91a3c4f47b275f0031",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 \"12.3 대법원장 탄핵한다는 민주당, 내란죄 자백…그날 꼭 하시라\" - 프레시안",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1zekpiWWx0NU44cjluX2FnQURLdHN1Mm1uUU40eEFnLS1XdFFXanVwbkRncThHZE5kanZBVlJZUzJhOWQ0UmJSekx2RzhmU3VTQ0UtTzJPSnE0a3dOZWtnTWJfUGptb0Z5M0ZobG83eTBMNFhURnZfalRpbw?oc=5\" target=\"_blank\">한동훈 \"12.3 대법원장 탄핵한다는 민주당, 내란죄 자백…그날 꼭 하시라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프레시안</font>",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zekpiWWx0NU44cjluX2FnQURLdHN1Mm1uUU40eEFnLS1XdFFXanVwbkRncThHZE5kanZBVlJZUzJhOWQ0UmJSekx2RzhmU3VTQ0UtTzJPSnE0a3dOZWtnTWJfUGptb0Z5M0ZobG83eTBMNFhURnZfalRpbw?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 02:10:38 GMT",
+    "source": "프레시안",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"12.3 대법원장 탄핵한다는 민주당, 내란죄 자백…그날 꼭 하시라\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "7309996a4cd80cba6bf14435cbbb97e4709cb6f10dfdf4adc09cd6bf32dcefc3",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안 - 매일경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lWEpGLTFhOWVnNjlxeW1fcDR3V1ZOZlVKU004UTBUejRma3FGbm5hM0ZkQWNSTmNfQXl1cGc4SXZXV0s3WlVMMTgwT2l5TllmUkNjZTBR?oc=5\" target=\"_blank\">조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lWEpGLTFhOWVnNjlxeW1fcDR3V1ZOZlVKU004UTBUejRma3FGbm5hM0ZkQWNSTmNfQXl1cGc4SXZXV0s3WlVMMTgwT2l5TllmUkNjZTBR?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 02:34:17 GMT",
+    "source": "매일경제",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T02:31:13.633Z",
+  "lastCheckedAt": "2026-11-22T02:41:19.824Z",
   "seenPostIds": {
-    "f4d494073a3771e14f09ff753d79938a38b68b5e41015193f3e671f62f20b2e2": {
-      "seenAt": "2026-11-18T17:21:18.346Z",
-      "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - KTXS",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "b4f1aba12cab7e62ede382c26e6bcbaea0442f74581a192aaae94208ee25f081": {
-      "seenAt": "2026-11-18T17:21:19.015Z",
-      "title": "Trump announces ‘biggest trade deal’ between Philippines, US U.S. President Donald Trump announces ‘the biggest trade deal’ between the Philippines and the United States. Full story: https://www.rappler.com/philippines/marcos-trump-bilateral-meeting-tra - Facebook",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "9e1c73ad1c0aa4b21f75dff5beb1f43566eedf778c02c9c26d338c48057cc8b6": {
-      "seenAt": "2026-11-18T17:21:19.750Z",
-      "title": "Trump Says U.S. Concluded Very Big Trade Deal With Philippines: 6 outlets compared - NewsCord",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "8506668b44d03a11d2892a2b9d2564fac5d899446ec524a1e8825d488b53df91": {
       "seenAt": "2026-11-18T17:41:19.369Z",
       "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WCYB",
@@ -2515,14 +2500,24 @@
       "seenAt": "2026-11-22T02:31:16.433Z",
       "title": "조국, 창당 1,000일 앞두고 당명 변경 제안...신장식 “최고위서 논의” - M이코노미뉴스",
       "targetName": "조국"
+    },
+    "dda71f616ca7ae98d53ac2ba608cd863614ff155be562f91a3c4f47b275f0031": {
+      "seenAt": "2026-11-22T02:41:21.510Z",
+      "title": "한동훈 \"12.3 대법원장 탄핵한다는 민주당, 내란죄 자백…그날 꼭 하시라\" - 프레시안",
+      "targetName": "한동훈"
+    },
+    "7309996a4cd80cba6bf14435cbbb97e4709cb6f10dfdf4adc09cd6bf32dcefc3": {
+      "seenAt": "2026-11-22T02:41:22.275Z",
+      "title": "조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안 - 매일경제",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "1ee96f402b40f0a0959c190c2e806e11f40ec5891d778594210663a31015595b",
-    "title": "조국, 창당 1,000일 앞두고 당명 변경 제안...신장식 “최고위서 논의” - M이코노미뉴스",
+    "postId": "7309996a4cd80cba6bf14435cbbb97e4709cb6f10dfdf4adc09cd6bf32dcefc3",
+    "title": "조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안 - 매일경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "44976457323",
-    "sentAt": "2026-11-22T02:31:16.073Z"
+    "runId": "44977216361",
+    "sentAt": "2026-11-22T02:41:21.892Z"
   }
 }

@@ -12429,3 +12429,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "12.3 대법원장 탄핵한다는 민주당, 내란죄 자백…그날 꼭 하시라" - 프레시안
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "12.3 대법원장 탄핵한다는 민주당, 내란죄 자백…그날 꼭 하시라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE1zekpiWWx0NU44cjluX2FnQURLdHN1Mm1uUU40eEFnLS1XdFFXanVwbkRncThHZE5kanZBVlJZUzJhOWQ0UmJSekx2RzhmU3VTQ0UtTzJPSnE0a3dOZWtnTWJfUGptb0Z5M0ZobG83eTBMNFhURnZfalRpbw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안 - 매일경제
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lWEpGLTFhOWVnNjlxeW1fcDR3V1ZOZlVKU004UTBUejRma3FGbm5hM0ZkQWNSTmNfQXl1cGc4SXZXV0s3WlVMMTgwT2l5TllmUkNjZTBR?oc=5)
+
+---
+
