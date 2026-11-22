@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T00:11:14.403Z",
+  "lastCheckedAt": "2026-11-22T00:21:18.475Z",
   "seenPostIds": {
-    "acdd1fc61db7222462584a2c9d91c422f74bd3810cc96cd0546fac06ff586dee": {
-      "seenAt": "2026-11-18T11:01:21.497Z",
-      "title": "Trump says he 'will not sign' bipartisan housing bill, but doesn't threaten veto either - ABC News - Breaking News, Latest News and Videos",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "584cb165a80040ca090bf97b3a3c8b55dd1a4a7a2389f8bc09a680f42b3b98c1": {
-      "seenAt": "2026-11-18T11:11:16.806Z",
-      "title": "U.S. President Donald Trump on Wednesday announced that the Philippines and the United States had secured a “big” trade deal as the two leaders held bilateral talks in Malacañang. Trump did not provide further details about the trade agreement. Read mor - Facebook",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "b4224be1e987f23492f941d9553ef8188798b15b5338b69964436ddcf01d3837": {
-      "seenAt": "2026-11-18T11:11:17.422Z",
-      "title": "\"독도 상륙한 조국씨는...\" 일본 의회서 세 차례나 문제삼았다 - OhmyNews",
-      "targetName": "조국"
-    },
     "b34b62600cfadbfd971916dc4ee9c0028ee07e040d6cd501dded2b4be13ae314": {
       "seenAt": "2026-11-18T11:11:18.050Z",
       "title": "與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합) - 뉴시스",
@@ -2515,31 +2500,24 @@
       "seenAt": "2026-11-22T00:11:17.342Z",
       "title": "조국 \"당명 개정 제안…당원·국민 의견 수렴할 것\" - 뉴시스",
       "targetName": "조국"
+    },
+    "c95313c7a9655b40cb518214eaeab4d29cbc5fd5691ad75873d89823016816ac": {
+      "seenAt": "2026-11-22T00:21:19.892Z",
+      "title": "日 입국 거부 조국 외면한 민주당…전과에 반일 ‘반文교사’인가 - 중앙일보",
+      "targetName": "조국"
+    },
+    "e6c21cba91750a7b5a8a7b44d4fe5427d5a65dd9edb2a407de17c40b758b066a": {
+      "seenAt": "2026-11-22T00:21:20.634Z",
+      "title": "Trump shares Yalta comparison featuring himself, Xi and Putin - AOL.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "c95313c7a9655b40cb518214eaeab4d29cbc5fd5691ad75873d89823016816ac",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "日 입국 거부 조국 외면한 민주당…전과에 반일 ‘반文교사’인가 - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ODNFVUxKRlFUZ0dla29hYzU5Y3VzNXBxQVp1SjZfYy0ycEtLNkdGN3B4NFdncDVPZGpnUDZzc0o2blEzTXZId0Itank4b3RIZmFXSkhR?oc=5\" target=\"_blank\">日 입국 거부 조국 외면한 민주당…전과에 반일 ‘반文교사’인가</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ODNFVUxKRlFUZ0dla29hYzU5Y3VzNXBxQVp1SjZfYy0ycEtLNkdGN3B4NFdncDVPZGpnUDZzc0o2blEzTXZId0Itank4b3RIZmFXSkhR?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "95a8968cbe93b363d43103ef74461d70136b9553370a42ad70c9f4d5e8a9626a",
-    "title": "조국 \"당명 개정 제안…당원·국민 의견 수렴할 것\" - 뉴시스",
+    "postId": "e6c21cba91750a7b5a8a7b44d4fe5427d5a65dd9edb2a407de17c40b758b066a",
+    "title": "Trump shares Yalta comparison featuring himself, Xi and Putin - AOL.com",
     "bot": "jongsuk_pol_bot",
-    "runId": "44965372461",
-    "sentAt": "2026-11-22T00:11:16.995Z"
+    "runId": "44966182056",
+    "sentAt": "2026-11-22T00:21:20.264Z"
   }
 }

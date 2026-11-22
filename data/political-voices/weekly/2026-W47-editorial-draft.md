@@ -12065,3 +12065,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 日 입국 거부 조국 외면한 민주당…전과에 반일 ‘반文교사’인가 - 중앙일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 日 입국 거부 조국 외면한 민주당…전과에 반일 ‘반文교사’인가
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ODNFVUxKRlFUZ0dla29hYzU5Y3VzNXBxQVp1SjZfYy0ycEtLNkdGN3B4NFdncDVPZGpnUDZzc0o2blEzTXZId0Itank4b3RIZmFXSkhR?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump shares Yalta comparison featuring himself, Xi and Putin - AOL.com
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump shares Yalta comparison featuring himself, Xi and Putin
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQlhkOTBCT2VnMGJuaUVhVGl6SlVDTVluSXlKYmZVeWp0MG0xWmRNRjI0RGhobzRCS0dnYmR6Sk9TTlFNc0I4UEUxU3FSNzZPdVYxVmRfbU84WGFwREtrcGNTLUhjV3p1UDJZLThDeDY4Q1JBS3ppZjVucFp6enROUmpHN1o0MFNVUGM0?oc=5)
+
+---
+
