@@ -13404,3 +13404,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, AI 악용한 시험 부정행위 근절 위한 제도 정비 지시 - 데일리저널
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, AI 악용한 시험 부정행위 근절 위한 제도 정비 지시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE92U2JkazV5VVFMV0lqbGlzWHFXWExXOTkzdFN5VGN1a0taTkFSeXpsdUpKTy1aZ2VSOE9SSjdsWnVEVFFpRGZMN2dXMzZzSE9oTExLSGNIYTFGbVRsbElkOE1icEt2UTczVlE?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 국민의힘, 이재명 대통령 논란 거론하며 "부처 행세 말고 민생 보라" 비판 - 한국사회복지저널
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘, 이재명 대통령 논란 거론하며 "부처 행세 말고 민생 보라" 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE4ycDdRdnItV3RNOXlLdEtXa1hHY0pyX1dHOURpdlZtanFUZGtrZ3FWREFGaHdMQWk4cjlmZVhsck1zSHdiUFU4N2VIYUJOMmhoZExtY0dXLV9fdjdPclhqUlg4S2xRZ2ZIV3dZ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, '조희대 탄핵' 추진에…"근조 민주당, 한방에 무너질 것" - 뉴시스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, '조희대 탄핵' 추진에…"근조 민주당, 한방에 무너질 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5cWRDNG1yRm5RSG11Y3JVQjdral93ZWxRVzFBZzlFNEo1bkdmTUtiZzB4clE0cWV4YmxTZERpRDVvdzRSMHFyV1o2SHV6cjBvUHJ0QnpxUU1YVk0zMnBldtIBeEFVX3lxTE56Z1ZWaFEwUXdacjYyaU4yeWhDNi1jeFRoNUhYaU9OQnFCalg5Q2kyZjdBRjNVaHM4UHdHbEJ5a0ZjMDdmS1o3ZGFTNkdUOHBOTHlES1FjbDlMUERNaWs0X05jNFdQTmQ2c0VoQ05USWNFMEhzZUVydg?oc=5)
+
+---
+
