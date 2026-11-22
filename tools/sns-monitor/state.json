@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T15:31:14.399Z",
+  "lastCheckedAt": "2026-11-22T15:41:15.769Z",
   "seenPostIds": {
     "6a88a78f7c996b801ad2a66cb24a90d83ac76b1ef03825f6d55ab25b7f5eeb6a": {
       "seenAt": "2026-11-19T09:31:18.628Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-22T15:11:24.147Z",
       "title": "장동혁, 與 조희대 탄핵 추진에 “이재명 탈옥 탄핵”...한동훈 \"삼권분립 훼손\" - 신문고뉴스",
       "targetName": "한동훈"
+    },
+    "afd08e1041a8619d03e949a916dcce722801196d2299db16f3b963f790eae180": {
+      "seenAt": "2026-11-22T15:41:17.265Z",
+      "title": "Trump says it will be 'very hard' to work with Schumer after he predicted deals - USA Today",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "cff9eb80695ce4dd6032d741b7b619f208f1e70916b270faf4a989a52671fc0d",
-    "title": "장동혁, 與 조희대 탄핵 추진에 “이재명 탈옥 탄핵”...한동훈 \"삼권분립 훼손\" - 신문고뉴스",
+    "postId": "afd08e1041a8619d03e949a916dcce722801196d2299db16f3b963f790eae180",
+    "title": "Trump says it will be 'very hard' to work with Schumer after he predicted deals - USA Today",
     "bot": "jongsuk_pol_bot",
-    "runId": "45036872423",
-    "sentAt": "2026-11-22T15:11:23.392Z"
+    "runId": "45039651663",
+    "sentAt": "2026-11-22T15:41:16.627Z"
   }
 }
