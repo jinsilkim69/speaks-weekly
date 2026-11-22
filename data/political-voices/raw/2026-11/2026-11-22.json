@@ -2689,5 +2689,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "7e9b1500df07dea3ed1170ee32daa3e2df1cefecb150aabd951dd1e3c043edb6",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "보수 잠룡 오세훈·한동훈, 조희대 탄핵에 맹공…\"李 심판열차 출발\" - 이데일리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxObzNwVnNVbHBfNGdzZlZOVVh1Q2NIZXFUWjFPQlpONVdnRVJ2VkNUUzNIZGJyRHdUb2ItT1EtMVBBbEtzU0lyUmFVRzdVUHRFY0lfZl9uWHJQdmhDTXI1YzAtcFZwVkFBU19ET1ZhWEZOeG5QMF9HaW9pcFh3ZHBXQg?oc=5\" target=\"_blank\">보수 잠룡 오세훈·한동훈, 조희대 탄핵에 맹공…\"李 심판열차 출발\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObzNwVnNVbHBfNGdzZlZOVVh1Q2NIZXFUWjFPQlpONVdnRVJ2VkNUUzNIZGJyRHdUb2ItT1EtMVBBbEtzU0lyUmFVRzdVUHRFY0lfZl9uWHJQdmhDTXI1YzAtcFZwVkFBU19ET1ZhWEZOeG5QMF9HaW9pcFh3ZHBXQg?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 05:07:09 GMT",
+    "source": "이데일리",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 보수 잠룡 오세훈·한동훈, 조희대 탄핵에 맹공…\"李 심판열차 출발\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "6b4df843e1c8e58ac69fb47f05c619f3d77cfcfbd880d677a59e823bd01836f1",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 서프라이즈뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5TZXJtazd5NVhPN3VUQWtwbk5iNVpOSVFUNkoyM0hsQ0hwalM5b09EOFhYN2hxRmhtVU1QSmhCaGo3VDYxcWUwa0Zaak5fa1AxMjBnaE5ZTUFVeldjZTJ5Y1Z3LUNYbkxScFVPcTZSYw?oc=5\" target=\"_blank\">송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서프라이즈뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TZXJtazd5NVhPN3VUQWtwbk5iNVpOSVFUNkoyM0hsQ0hwalM5b09EOFhYN2hxRmhtVU1QSmhCaGo3VDYxcWUwa0Zaak5fa1AxMjBnaE5ZTUFVeldjZTJ5Y1Z3LUNYbkxScFVPcTZSYw?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 02:50:13 GMT",
+    "source": "서프라이즈뉴스",
+    "ageHours": 2.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

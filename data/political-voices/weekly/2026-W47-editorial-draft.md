@@ -12884,3 +12884,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 보수 잠룡 오세훈·한동훈, 조희대 탄핵에 맹공…"李 심판열차 출발" - 이데일리
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 보수 잠룡 오세훈·한동훈, 조희대 탄핵에 맹공…"李 심판열차 출발"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxObzNwVnNVbHBfNGdzZlZOVVh1Q2NIZXFUWjFPQlpONVdnRVJ2VkNUUzNIZGJyRHdUb2ItT1EtMVBBbEtzU0lyUmFVRzdVUHRFY0lfZl9uWHJQdmhDTXI1YzAtcFZwVkFBU19ET1ZhWEZOeG5QMF9HaW9pcFh3ZHBXQg?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 서프라이즈뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE5TZXJtazd5NVhPN3VUQWtwbk5iNVpOSVFUNkoyM0hsQ0hwalM5b09EOFhYN2hxRmhtVU1QSmhCaGo3VDYxcWUwa0Zaak5fa1AxMjBnaE5ZTUFVeldjZTJ5Y1Z3LUNYbkxScFVPcTZSYw?oc=5)
+
+---
+
