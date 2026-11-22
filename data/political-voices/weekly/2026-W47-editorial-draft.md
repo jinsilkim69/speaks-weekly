@@ -12663,3 +12663,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "與, 대법원장 탄핵...모두 감옥 갈 것" - 더팩트
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "與, 대법원장 탄핵...모두 감옥 갈 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zeENPRUtMUjZKMzlBbURIbWYxdkwtb3lvYk5FeW1CR3J2SEg3cllqWGtwX21RcUY2RFNRVU5ncnpVbzhjLTFzNFF5RnlJTmVpS3c40gFTQVVfeXFMT3N4Q09FS0xSNkozOUFtREhtZjF2TC1veW9iTkV5bUJHcnZISDdyWWpYa3BfbVFxRjZEU1FVTmdyelVvOGMtMXM0UXlGeUlOZWlLdzg?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 조국혁신당 당명 개정 제안 "일부는 우리 당 조롱하기도" - 대구MBC
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 조국혁신당 당명 개정 제안 "일부는 우리 당 조롱하기도"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hSnh3VzYwUzNCM0VyNkNZMFhBcERzSzlETWsyb2l5ZC13VXdZMU1XdjFZT1JObmVRNUMzOUg1NzNEUUd3RUcxMkVobEo?oc=5)
+
+---
+
