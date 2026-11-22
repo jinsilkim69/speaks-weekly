@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T04:41:14.140Z",
+  "lastCheckedAt": "2026-11-22T04:51:12.334Z",
   "seenPostIds": {
-    "575cdc9c22c302470bf23221f69759fe37ba3a2ac9cc89a69041c38d3dedcc6a": {
-      "seenAt": "2026-11-18T23:51:24.749Z",
-      "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - KRXI",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "19c4b9743f004fb0b6dd03f6424208ee94bf0a2954c7890e3159e9df3f0a2814": {
-      "seenAt": "2026-11-19T00:11:18.679Z",
-      "title": "홍준표 \"되지도 않을 한동훈 복당 논쟁 그만…장동혁 대표 중심으로\" - 뉴시스",
-      "targetName": "한동훈"
-    },
-    "35bf083ea437c7c1566d54db6d7a7d5abf1bf02a14aeb46ef63747764a7a3175": {
-      "seenAt": "2026-11-19T00:11:19.318Z",
-      "title": "송영길, 최민희 징계에 “김민석 흔들리지 말고 빨리 처리해야” [김은지의 뉴스IN] - 시사IN",
-      "targetName": "송영길"
-    },
     "f56f7c7c099199787f46347af1a109971d7e26acceeed84eb6b12539cc7d5434": {
       "seenAt": "2026-11-19T00:41:18.303Z",
       "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - KTUL",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-22T04:41:17.331Z",
       "title": "조국 제안에, 혁신당 당명 개정 착수…조국 \"범민주진보진영 좋아할 이름으로\" - news.sbs.co.kr",
       "targetName": "조국"
+    },
+    "c4255b91d3864d331d32420364811177b1277380ece1b00cf644d5f8f25ff37a": {
+      "seenAt": "2026-11-22T04:51:13.410Z",
+      "title": "한동훈 “민주당 대법원장 탄핵이 서부지법 폭력보다 더 나빠” - 헤럴드경제",
+      "targetName": "한동훈"
+    },
+    "16e71ae084a1db2fe844725f3215bae526b2c9cf88abbc0c8f8882d36017f30c": {
+      "seenAt": "2026-11-22T04:51:14.057Z",
+      "title": "조희대 대법원장 민주당 탄핵 추진…김민석, 한덕수 파기환송 강력 비판 - CBC뉴스",
+      "targetName": "김민석"
+    },
+    "d92e919d555966a0b7a5e7acda81c12e94402b8cc7ef83f217b4cfd66d1ccf8a": {
+      "seenAt": "2026-11-22T04:51:14.694Z",
+      "title": "‘조국혁신당’에 ‘조국’ 빠지나…조국 “당명 개정하자” - 중앙일보",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "c4255b91d3864d331d32420364811177b1277380ece1b00cf644d5f8f25ff37a",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 “민주당 대법원장 탄핵이 서부지법 폭력보다 더 나빠” - 헤럴드경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE56QXNnTktEaUhTRUpjQ1pqaXhYai01dnE5Z09VR1Y1NkI0UzJqeTNUQ2tYcUZDNmR1eTdlUGQ5ZUNiSW1ya1pyNGFjYngweXVqM0d1cmN3?oc=5\" target=\"_blank\">한동훈 “민주당 대법원장 탄핵이 서부지법 폭력보다 더 나빠”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56QXNnTktEaUhTRUpjQ1pqaXhYai01dnE5Z09VR1Y1NkI0UzJqeTNUQ2tYcUZDNmR1eTdlUGQ5ZUNiSW1ya1pyNGFjYngweXVqM0d1cmN3?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 04:27:55 GMT",
-        "source": "헤럴드경제",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "16e71ae084a1db2fe844725f3215bae526b2c9cf88abbc0c8f8882d36017f30c",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "조희대 대법원장 민주당 탄핵 추진…김민석, 한덕수 파기환송 강력 비판 - CBC뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrSlpad19oTEJDYkN6MUJ5WHhCZ0I0c19GbU1GLVU4Vi1UVXg4WjN3dFVabjNRQVdscmFZVmFlaXI5cDRhc0dOUTJNS2FYa3lvSGgwM2NQdUxMLXpxanZsZnNtTUU0Z00?oc=5\" target=\"_blank\">조희대 대법원장 민주당 탄핵 추진…김민석, 한덕수 파기환송 강력 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrSlpad19oTEJDYkN6MUJ5WHhCZ0I0c19GbU1GLVU4Vi1UVXg4WjN3dFVabjNRQVdscmFZVmFlaXI5cDRhc0dOUTJNS2FYa3lvSGgwM2NQdUxMLXpxanZsZnNtTUU0Z00?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 03:10:00 GMT",
-        "source": "CBC뉴스",
-        "ageHours": 1.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d92e919d555966a0b7a5e7acda81c12e94402b8cc7ef83f217b4cfd66d1ccf8a",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "‘조국혁신당’에 ‘조국’ 빠지나…조국 “당명 개정하자” - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xN2pDdVJQU2M2SGE0dFZDUEFvWDFZVG1uc1VibUlwck1XaUNDZjd6a2k4T2MwTlNiU3JBQmd2YkhmYWg1Sm1xd1dNUEhIZFdheXVyWmJR?oc=5\" target=\"_blank\">‘조국혁신당’에 ‘조국’ 빠지나…조국 “당명 개정하자”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xN2pDdVJQU2M2SGE0dFZDUEFvWDFZVG1uc1VibUlwck1XaUNDZjd6a2k4T2MwTlNiU3JBQmd2YkhmYWg1Sm1xd1dNUEhIZFdheXVyWmJR?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 03:16:46 GMT",
-        "source": "중앙일보",
-        "ageHours": 1.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "4113e0eaaf1872ea0e2ed8f30fd7ead7d2bd0bfed8431c79e843689821d5b790",
@@ -2581,13 +2533,45 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "8fe8611f7c2fbf984f96e9881523b481eb2452c56d19375eba329472f3cbab45",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 \"당명 속 '조국' 제 이름 아니지만…확장성 있는 당명 필요\" - 아시아경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Bb0RFUlFJMU9ESjlnanF5YU5jQm1sUkF1UDRYTGZxd05qNE5aVzhkenNoZ2NIRmlpcFRWMWFsakt3YzRFME82WkhkclE1N2EtRDMyRU9RQVFvTlNBQy1YeQ?oc=5\" target=\"_blank\">조국 \"당명 속 '조국' 제 이름 아니지만…확장성 있는 당명 필요\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Bb0RFUlFJMU9ESjlnanF5YU5jQm1sUkF1UDRYTGZxd05qNE5aVzhkenNoZ2NIRmlpcFRWMWFsakt3YzRFME82WkhkclE1N2EtRDMyRU9RQVFvTlNBQy1YeQ?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 04:32:07 GMT",
+        "source": "아시아경제",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4b9172123b49b98ef4096ed003250897db3690465c67d984b8e772de0120b2d6",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식, 실경작자 보호·농지농용 원칙 확립 위한 '특정농지 정리에 관한 특별조치법안' 발의 기자회견 - press24(프레스24)",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBXeTFkeVZMczdVVGJQeVlyN3owYTBJS21xdFNfWjdmYmFYUndLZjVQeE9hMXc1c0dqVDNZSGZENlY2cjg2M1BlbnkwMlB5dFNBbTNMQk85ZlEwb0JldENYTHJ0NER4MzA5WGxV?oc=5\" target=\"_blank\">신장식, 실경작자 보호·농지농용 원칙 확립 위한 '특정농지 정리에 관한 특별조치법안' 발의 기자회견</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">press24(프레스24)</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXeTFkeVZMczdVVGJQeVlyN3owYTBJS21xdFNfWjdmYmFYUndLZjVQeE9hMXc1c0dqVDNZSGZENlY2cjg2M1BlbnkwMlB5dFNBbTNMQk85ZlEwb0JldENYTHJ0NER4MzA5WGxV?oc=5",
+        "pubDate": "Sat, 21 Nov 2026 22:48:00 GMT",
+        "source": "press24(프레스24)",
+        "ageHours": 6.1
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "24cec921128852d5c0cf18a825418a5ffa32e58a0f0d20b35029d8274e0ff249",
-    "title": "조국 제안에, 혁신당 당명 개정 착수…조국 \"범민주진보진영 좋아할 이름으로\" - news.sbs.co.kr",
+    "postId": "d92e919d555966a0b7a5e7acda81c12e94402b8cc7ef83f217b4cfd66d1ccf8a",
+    "title": "‘조국혁신당’에 ‘조국’ 빠지나…조국 “당명 개정하자” - 중앙일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "44986124680",
-    "sentAt": "2026-11-22T04:41:16.696Z"
+    "runId": "44986837485",
+    "sentAt": "2026-11-22T04:51:14.369Z"
   }
 }
