@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T09:41:16.171Z",
+  "lastCheckedAt": "2026-11-22T09:51:11.781Z",
   "seenPostIds": {
-    "8ccfef3fc266283edf9b8c04ad28f7b6380dd784dd44c3d9a925c165eb22618b": {
-      "seenAt": "2026-11-19T07:11:27.278Z",
-      "title": "\"독도 방문이 조국 입국 거부 사유?…일본은 이유 밝혀야\"[박영환의 시사1번지] - KBC광주방송",
-      "targetName": "조국"
-    },
     "3cbb0a675a4739f45ee8d34ef40c50533513b84a4d8091e332c84f911739c7c6": {
       "seenAt": "2026-11-19T07:21:18.440Z",
       "title": "'한한령 해제' 진전에 박지원 엄지척 \"이재명 대통령 진짜 잘했다\" #shorts - 오마이TV - OhmyNews",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-22T09:41:17.597Z",
       "title": "김민석 취임 100일 앞두고 반전 없었다…흔들리는 리더십 - 자유일보",
       "targetName": "김민석"
+    },
+    "07c4fcc1a53cdbd1ccf617f0873b0bbd47b7d331109e3541dfc6bcb75024fc70": {
+      "seenAt": "2026-11-22T09:51:12.924Z",
+      "title": "이재명 대통령, 최교진 장관 사의 즉각 수리…\"全부처 시험관리실태 점검\" 지시 - 퍼블릭타임스",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "b9bdb41099a9adff22d6fff185def44e263d7cc8ff76a461e1cf281704b3c1bb",
-    "title": "김민석 취임 100일 앞두고 반전 없었다…흔들리는 리더십 - 자유일보",
+    "postId": "07c4fcc1a53cdbd1ccf617f0873b0bbd47b7d331109e3541dfc6bcb75024fc70",
+    "title": "이재명 대통령, 최교진 장관 사의 즉각 수리…\"全부처 시험관리실태 점검\" 지시 - 퍼블릭타임스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45008726727",
-    "sentAt": "2026-11-22T09:41:17.018Z"
+    "runId": "45009525241",
+    "sentAt": "2026-11-22T09:51:12.362Z"
   }
 }
