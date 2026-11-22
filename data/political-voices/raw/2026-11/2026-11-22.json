@@ -2134,5 +2134,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "69e4bce9db2287cbccc166b1a4821f30020abdcd092293bd8ef2e9219839994a",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Shares El-Sayed’s ‘TrumpCare’ Plan, Says He May Work with Democrats - Newsweek",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQN09tbFkxUGRXNE5MRXlTVXVsbG5lSXZ0WGJQUVg4b2FtZjdLNlJqaVoyLUpFQ3NoRW5wSndUb1FUUUlQemxDWE5pRThSSU9teXg5R3NJYWVXTGVJM09WeUdkU0x4YXNKV0lfY0wxZC1ZdFR6MlhiQURwenc1S2NyZk14cDJjeWtuNkd1U0dlZFNmRTBOeTRHYjU1TE1PX1dNUmxQeHVB?oc=5\" target=\"_blank\">Trump Shares El-Sayed’s ‘TrumpCare’ Plan, Says He May Work with Democrats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN09tbFkxUGRXNE5MRXlTVXVsbG5lSXZ0WGJQUVg4b2FtZjdLNlJqaVoyLUpFQ3NoRW5wSndUb1FUUUlQemxDWE5pRThSSU9teXg5R3NJYWVXTGVJM09WeUdkU0x4YXNKV0lfY0wxZC1ZdFR6MlhiQURwenc1S2NyZk14cDJjeWtuNkd1U0dlZFNmRTBOeTRHYjU1TE1PX1dNUmxQeHVB?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 02:25:00 GMT",
+    "source": "Newsweek",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Shares El-Sayed’s ‘TrumpCare’ Plan, Says He May Work with Democrats",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "13949e4d0694e5f0241fe53c661dcc873760b7dda5a5e75ed5ca0170ce7f580a",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "‘조국혁신당’에 ‘조국’ 빠지나…조국 “당명 개정하자” - 미주중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE44STQyU2tLVlNuRUxkTGRBMlE2NzNwcHlodWdsa0NaTzM0N0dQNV9haDltMktZTGZ5QWJpVDNXbWpTNDVsS2lwWV9KVENGRlFmTzVLVUgydGFIR282LTRTYXBn?oc=5\" target=\"_blank\">‘조국혁신당’에 ‘조국’ 빠지나…조국 “당명 개정하자”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미주중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44STQyU2tLVlNuRUxkTGRBMlE2NzNwcHlodWdsa0NaTzM0N0dQNV9haDltMktZTGZ5QWJpVDNXbWpTNDVsS2lwWV9KVENGRlFmTzVLVUgydGFIR282LTRTYXBn?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 03:16:00 GMT",
+    "source": "미주중앙일보",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘조국혁신당’에 ‘조국’ 빠지나…조국 “당명 개정하자”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

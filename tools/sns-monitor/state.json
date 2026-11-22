@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T03:23:13.849Z",
+  "lastCheckedAt": "2026-11-22T03:31:22.333Z",
   "seenPostIds": {
-    "7063c444fd2c6805b3c6e5a5c5223b222ebbed32732aa91a16e0be9242524072": {
-      "seenAt": "2026-11-18T20:51:19.986Z",
-      "title": "이준석 “추경호 유죄 주장, 기본적 헌법 무시…尹·李 들어 심화된 법비들의 정치” - 문화일보",
-      "targetName": "이준석"
-    },
-    "c9123e312f29bf50dbe08ca8229eaef686d06e2008a8773c610ff5f48e953ee2": {
-      "seenAt": "2026-11-18T21:01:18.389Z",
-      "title": "Biden’s fault? Trump’s fault? Fact-checking the blame game over the air travel freeze - WRAL",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "cd41292eb64eaf23e3936623c84fe0f59e632354a953ac8520a753b2e0435ccf": {
-      "seenAt": "2026-11-18T21:31:20.013Z",
-      "title": "[단독] 한동훈 장인상에 국민의힘 의원 75명 문상…정치적 함의는 등 [11/19(목) 데일리안 출근길 뉴스] - 데일리안",
-      "targetName": "한동훈"
-    },
     "b5effdc648ea5c69083044ff574fc2affbc4fdf7c38655a586a5d88137a81ed2": {
       "seenAt": "2026-11-18T21:31:20.636Z",
       "title": "‘WE MADE A NEW COMPLETELY DIFFERENT TRADE DEAL WITH THE PHILIPPINES’ US President Donald Trump announced that he signed a new trade deal with the Philippines during his state visit for the ASEAN Summit in Manila. In a Truth Social post o - Facebook",
@@ -2515,31 +2500,24 @@
       "seenAt": "2026-11-22T03:23:16.174Z",
       "title": "\"졸업 후에도 인천에 살고 싶어요\"…송영길 의원, 12개 대학 학생회와 청년 해법 모색 - 중도일보",
       "targetName": "송영길"
+    },
+    "69e4bce9db2287cbccc166b1a4821f30020abdcd092293bd8ef2e9219839994a": {
+      "seenAt": "2026-11-22T03:31:24.151Z",
+      "title": "Trump Shares El-Sayed’s ‘TrumpCare’ Plan, Says He May Work with Democrats - Newsweek",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "13949e4d0694e5f0241fe53c661dcc873760b7dda5a5e75ed5ca0170ce7f580a": {
+      "seenAt": "2026-11-22T03:31:24.915Z",
+      "title": "‘조국혁신당’에 ‘조국’ 빠지나…조국 “당명 개정하자” - 미주중앙일보",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "69e4bce9db2287cbccc166b1a4821f30020abdcd092293bd8ef2e9219839994a",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Shares El-Sayed’s ‘TrumpCare’ Plan, Says He May Work with Democrats - Newsweek",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQN09tbFkxUGRXNE5MRXlTVXVsbG5lSXZ0WGJQUVg4b2FtZjdLNlJqaVoyLUpFQ3NoRW5wSndUb1FUUUlQemxDWE5pRThSSU9teXg5R3NJYWVXTGVJM09WeUdkU0x4YXNKV0lfY0wxZC1ZdFR6MlhiQURwenc1S2NyZk14cDJjeWtuNkd1U0dlZFNmRTBOeTRHYjU1TE1PX1dNUmxQeHVB?oc=5\" target=\"_blank\">Trump Shares El-Sayed’s ‘TrumpCare’ Plan, Says He May Work with Democrats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN09tbFkxUGRXNE5MRXlTVXVsbG5lSXZ0WGJQUVg4b2FtZjdLNlJqaVoyLUpFQ3NoRW5wSndUb1FUUUlQemxDWE5pRThSSU9teXg5R3NJYWVXTGVJM09WeUdkU0x4YXNKV0lfY0wxZC1ZdFR6MlhiQURwenc1S2NyZk14cDJjeWtuNkd1U0dlZFNmRTBOeTRHYjU1TE1PX1dNUmxQeHVB?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 02:25:00 GMT",
-        "source": "Newsweek",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "b1cf9de6be7905aa30b60c371abef79b04d874978b8e89c823b044daa16862a0",
-    "title": "\"졸업 후에도 인천에 살고 싶어요\"…송영길 의원, 12개 대학 학생회와 청년 해법 모색 - 중도일보",
+    "postId": "13949e4d0694e5f0241fe53c661dcc873760b7dda5a5e75ed5ca0170ce7f580a",
+    "title": "‘조국혁신당’에 ‘조국’ 빠지나…조국 “당명 개정하자” - 미주중앙일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "44980372703",
-    "sentAt": "2026-11-22T03:23:15.835Z"
+    "runId": "44980992246",
+    "sentAt": "2026-11-22T03:31:24.530Z"
   }
 }
