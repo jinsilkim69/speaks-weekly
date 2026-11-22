@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T14:31:14.900Z",
+  "lastCheckedAt": "2026-11-22T14:41:21.110Z",
   "seenPostIds": {
-    "ea2eeb074e986add0858c5eea93bb534f13988eb80a739f394bce7d6e3d409ab": {
-      "seenAt": "2026-11-19T09:01:16.680Z",
-      "title": "THE BLAME GAME - The US Blames Canada for Failed Talks, the Reaction From Trump and What Happens Next - EnergyNow",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "55f022e96e203cc4a38dff50801a2b13a3d949dfd0a47b133afa1b07ae5be8a2": {
       "seenAt": "2026-11-19T09:11:18.621Z",
       "title": "박정훈 \"최규동 증언 신빙성 높아\" \"한동훈 복당이 아닌 원상복구 돼야\"ㅣ이현종의 뉴스쇼 [문화일보] #shorts - 문화일보",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-22T14:31:16.421Z",
       "title": "Trump reposts El-Sayed’s ‘TrumpCare’ pitch for universal health care - The Washington Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "494e2af0626d087e36ddeb0516849858953763c0c2b85be322056752fae096a3": {
+      "seenAt": "2026-11-22T14:41:22.713Z",
+      "title": "정청래가 움직이기도 전에 추미애가 뛰어들었다… 무슨 신호? (인물비상구 20261122 클립 최민희와 계파갈등 편) - 경향신문",
+      "targetName": "정청래"
+    },
+    "53463e6a833df5fd4935864e7b44770ed06512d60909397d55210b3169acc3e5": {
+      "seenAt": "2026-11-22T14:41:23.405Z",
+      "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 일간대한뉴스",
+      "targetName": "송영길"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c85295fa02524e2a49a9496be9fc9c9d6ccc1fac5ca273cadd0cce4e64ba313c",
-    "title": "Trump reposts El-Sayed’s ‘TrumpCare’ pitch for universal health care - The Washington Post",
+    "postId": "53463e6a833df5fd4935864e7b44770ed06512d60909397d55210b3169acc3e5",
+    "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 일간대한뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45033235762",
-    "sentAt": "2026-11-22T14:31:15.655Z"
+    "runId": "45034137499",
+    "sentAt": "2026-11-22T14:41:23.082Z"
   }
 }

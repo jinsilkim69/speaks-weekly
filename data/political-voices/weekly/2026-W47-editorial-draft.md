@@ -13716,3 +13716,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래가 움직이기도 전에 추미애가 뛰어들었다… 무슨 신호? (인물비상구 20261122 클립 최민희와 계파갈등 편) - 경향신문
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래가 움직이기도 전에 추미애가 뛰어들었다… 무슨 신호? (인물비상구 20261122 클립 최민희와 계파갈등 편)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcGJVcU1YbUR2Z0RUUEtwLVZfS25BWWpXZFllRkhsT0VpWE4zQjFOMi1TTmJPcE5JZW56UVF3ckRpUHNvODlyTjJ2TXc0aE9nNWQ5U1FCdkxfbkFnYWRIYm93?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 일간대한뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01d3ZOTFNEd2Y5b1JvRXpleVB5QUl5dm9keW1ZRGVjODJJbDRoeFA4ZFVhdElqcVp2QjdsNldYNXdhOFpfWS1reEw1NTY2RU5CRE4zek5xbV9iSm1jWFQ5TFNuVkpmejA?oc=5)
+
+---
+
