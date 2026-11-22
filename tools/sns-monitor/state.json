@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T13:41:21.450Z",
+  "lastCheckedAt": "2026-11-22T13:51:17.712Z",
   "seenPostIds": {
     "83881d9a9d130fafce188d6b28574ac1f73f36546b69bf3a2b3b5818de896652": {
       "seenAt": "2026-11-19T08:57:12.146Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-22T12:51:16.693Z",
       "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post - The Guardian",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "3b9e7c064bc779a26575b44eb82fde182fc38b98d52aec3d8495ece3ca8ab574": {
+      "seenAt": "2026-11-22T13:51:19.288Z",
+      "title": "\"이재명 대통령은 소신 있게! 김민석 대표는 강하게!\" #shorts - 오마이TV - OhmyNews",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "55af71dde297c72d85a803361744897231ee02d6b2f75eee682af34897b6e8db",
-    "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post - The Guardian",
+    "postId": "3b9e7c064bc779a26575b44eb82fde182fc38b98d52aec3d8495ece3ca8ab574",
+    "title": "\"이재명 대통령은 소신 있게! 김민석 대표는 강하게!\" #shorts - 오마이TV - OhmyNews",
     "bot": "jongsuk_pol_bot",
-    "runId": "45024402963",
-    "sentAt": "2026-11-22T12:51:16.030Z"
+    "runId": "45029636740",
+    "sentAt": "2026-11-22T13:51:18.557Z"
   }
 }
