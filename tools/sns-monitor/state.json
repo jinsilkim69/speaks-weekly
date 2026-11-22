@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T01:41:14.267Z",
+  "lastCheckedAt": "2026-11-22T01:51:14.001Z",
   "seenPostIds": {
-    "3b54628479b2890b0a57adb996805e24104d6352b9409789697b3f23cafadb58": {
-      "seenAt": "2026-11-18T15:41:20.857Z",
-      "title": "장동혁, 추경호 무죄에 주도권 강화?…한동훈 '배신자 프레임' 거세지나 - 더팩트",
-      "targetName": "한동훈"
-    },
     "7d30616b9f9e9821411d9457bb9438ed280d25f59a56da18c955d69d6cd7d187": {
       "seenAt": "2026-11-18T15:51:23.418Z",
       "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does data show? - BBC",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-22T01:41:15.575Z",
       "title": "조국혁신당 ‘조국’ 빠진다···“확장성 있는 당명 필요” - 주간경향",
       "targetName": "조국"
+    },
+    "522cef7e630b726890dd64f6ee904f48bd0805511664b66abd40e00c3d10cd2f": {
+      "seenAt": "2026-11-22T01:51:15.092Z",
+      "title": "혁신당의 '조국' 빠지나…조국 \"확장성 있게 범민주 좋아할 이름으로\" - 머니투데이 - 머니투데이",
+      "targetName": "조국"
+    },
+    "9c6a00d88888ae68ddc5677ac411e87a433b2cdd0aa2996907aececd42e454ce": {
+      "seenAt": "2026-11-22T01:51:15.717Z",
+      "title": "Trump floods Truth Social with China visit photos, calls himself 'GOAT' and touts 'great powers' - 헤럴드경제",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "4f8e2ac874545b300604aee81d8b34b655a03fc95c3787bd3c6c8c00bfc623b5",
-    "title": "조국혁신당 ‘조국’ 빠진다···“확장성 있는 당명 필요” - 주간경향",
+    "postId": "9c6a00d88888ae68ddc5677ac411e87a433b2cdd0aa2996907aececd42e454ce",
+    "title": "Trump floods Truth Social with China visit photos, calls himself 'GOAT' and touts 'great powers' - 헤럴드경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "44972591973",
-    "sentAt": "2026-11-22T01:41:14.938Z"
+    "runId": "44973358858",
+    "sentAt": "2026-11-22T01:51:15.394Z"
   }
 }
