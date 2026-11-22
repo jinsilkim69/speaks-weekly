@@ -12481,3 +12481,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Giddy Trump, 80, Goes Full Sycophant in Wild 35-Post Spree - The Daily Beast
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Giddy Trump, 80, Goes Full Sycophant in Wild 35-Post Spree
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdktNUl9tSllTZjA5Y3Q0WG1pR21ObWFGa3RxRWh3YndyV2ZZckplSC1yVjhYR0hvUjJtQzZBTEV0XzdSOFVWLVR1RFYyMlBPLXVGb2RNRmFBNXlfVkp6WllqQ1A5UktSOXZyWlV3WjcxSUNwanVYbDNwS3E4MFVCbzE3T1p3MnJUVnVHWjFxQ3U?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** UPDATE Trump's Truth Social Account Returns After Vanishing for Hours, No New Posts For 24 Hours After "Civilization Will Die" Resurfaces - Showbiz411
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] UPDATE Trump's Truth Social Account Returns After Vanishing for Hours, No New Posts For 24 Hours After "Civilization Will Die" Resurfaces
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAJBVV95cUxPWGlwRGJ4eERPWHYtdERRRkkzS1A4Ylctb1owcllBbHppamZmaGhUNzlob3dLd1Z2MUR4STF0aFYzd2Z3WWtSN1gzX0puazFQSTBHSFpWTVNxV2ZpZ0hOUjVjMHdrV3Ixd0tkVE5tQ21xUERUblU3bnFzWDRabjBWd3lIVmZ1dHhHc0tXZG1Ya0tLT1p6alZKdXVfWVVTVGhBaDBnR1hYSzRWXzJZUzBldVQ3UlA2WFBrQnlUWmtMMnJDcXduN2szbno1Ym5mck9ENGphd01kOFJMV1U4dHZaT19OYnF2MVZQalNzUm5PMk1fUzdlZDczWURCdXZsQ3Rn?oc=5)
+
+---
+

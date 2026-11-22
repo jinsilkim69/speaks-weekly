@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T02:51:14.341Z",
+  "lastCheckedAt": "2026-11-22T03:01:14.205Z",
   "seenPostIds": {
-    "bbd7adf0136cb3f4bd72b3693d8d4bc3537ded41181d927ed8fd6bb50950244c": {
-      "seenAt": "2026-11-18T17:51:18.829Z",
-      "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WGXA",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "3aedf7351ff9b528eb12cfbf5740a7f694ff2a1989e16cc84be04890ef91d14f": {
-      "seenAt": "2026-11-18T18:41:20.715Z",
-      "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - KATV",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "9e29b24ea16771e13d963c9427deac5afc276585455f9608d8dc89884c3a3bc1": {
       "seenAt": "2026-11-18T19:21:20.418Z",
       "title": "Trump arrives in China ahead of high-stakes talks with Xi, Putin amid US technical outages - WCYB",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-22T02:51:16.540Z",
       "title": "조국, 당명에서 ‘조국’ 지우나…개인정당 넘어 독자 생존 승부수 - OBC 뉴스",
       "targetName": "조국"
+    },
+    "5dc4057101de021c0b402e809eac38fbae2be0d2cded2cf65dca75cb477b8d86": {
+      "seenAt": "2026-11-22T03:01:15.442Z",
+      "title": "Giddy Trump, 80, Goes Full Sycophant in Wild 35-Post Spree - The Daily Beast",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8b134e3f3c4baf5ebd09fb6ef8658b1f354b98795840e770cce0093cadef9bf8": {
+      "seenAt": "2026-11-22T03:01:16.155Z",
+      "title": "UPDATE Trump's Truth Social Account Returns After Vanishing for Hours, No New Posts For 24 Hours After \"Civilization Will Die\" Resurfaces - Showbiz411",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "51b7601f282eed8216e79daa4e23a6d29904998991bac09704890c272b3e531c",
-    "title": "조국, 당명에서 ‘조국’ 지우나…개인정당 넘어 독자 생존 승부수 - OBC 뉴스",
+    "postId": "8b134e3f3c4baf5ebd09fb6ef8658b1f354b98795840e770cce0093cadef9bf8",
+    "title": "UPDATE Trump's Truth Social Account Returns After Vanishing for Hours, No New Posts For 24 Hours After \"Civilization Will Die\" Resurfaces - Showbiz411",
     "bot": "jongsuk_pol_bot",
-    "runId": "44977956720",
-    "sentAt": "2026-11-22T02:51:16.202Z"
+    "runId": "44978669122",
+    "sentAt": "2026-11-22T03:01:15.786Z"
   }
 }
