@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T12:41:12.964Z",
+  "lastCheckedAt": "2026-11-22T12:51:15.470Z",
   "seenPostIds": {
-    "41dccf9337ea0b82c7cd26c206530926983a9cf7b48373843a1c2cf9784fa5aa": {
-      "seenAt": "2026-11-19T08:51:22.131Z",
-      "title": "입국 거부당한 조국, 독도 재방문 맞불…日 \"'전과' 제한 규정 있다\" - 머니투데이 - 머니투데이",
-      "targetName": "조국"
-    },
-    "1c96d10c3ab0fc7e76e07bb157335f98a92cd304a032e28c1ef0da2ddd0e4fdc": {
-      "seenAt": "2026-11-19T08:51:22.829Z",
-      "title": "조국 입국 거부한 일본 “독도 때문 아냐…출입국관리법대로” - 한겨레",
-      "targetName": "조국"
-    },
-    "bb413ca5b4f7dff533a542fe82e370436f0d6463147acdfacbae72c7755b5f28": {
-      "seenAt": "2026-11-19T08:57:10.646Z",
-      "title": "이재명 대통령 보자 미소 짓고 악수한 시진핑 #Shorts - 오마이TV - OhmyNews",
-      "targetName": "이재명"
-    },
     "dd3c84a984cda9e327d92ddd0f9b94ad0e54a6576225208e60e8fca16f8a3ef7": {
       "seenAt": "2026-11-19T08:57:11.381Z",
       "title": "\"김민석 탓\" vs \"대법원 수준 미달\"…한덕수 판결에 與 지지자 엇갈려 - 한국경제",
@@ -2515,31 +2500,19 @@
       "seenAt": "2026-11-22T12:41:15.607Z",
       "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "55af71dde297c72d85a803361744897231ee02d6b2f75eee682af34897b6e8db": {
+      "seenAt": "2026-11-22T12:51:16.693Z",
+      "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post - The Guardian",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "55af71dde297c72d85a803361744897231ee02d6b2f75eee682af34897b6e8db",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post - The Guardian",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVJRX1MydWNfVFFwcVh4bjVQUC1HWFpSLUYxTkRSM2kzdFV5NVhVMXVZUkhNZEpRU21mMVNGNVVxajZINEgwMW9xNUNnQzlpQkZ5REJjbkI4SXJaNGRIVk4tS3phTUdoMlQxQ2k3RU9hN3lPdDFwdEs4b0JkVHRabjktcjlsU1lhX0JjSWcxTUZBcG03NmxpV3hlVVFPVzRUV2g0a3p0TkFIX19nMlNtZjZydHB4bHQxREJoLUo2RU9xOHNZ?oc=5\" target=\"_blank\">‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVJRX1MydWNfVFFwcVh4bjVQUC1HWFpSLUYxTkRSM2kzdFV5NVhVMXVZUkhNZEpRU21mMVNGNVVxajZINEgwMW9xNUNnQzlpQkZ5REJjbkI4SXJaNGRIVk4tS3phTUdoMlQxQ2k3RU9hN3lPdDFwdEs4b0JkVHRabjktcjlsU1lhX0JjSWcxTUZBcG03NmxpV3hlVVFPVzRUV2g0a3p0TkFIX19nMlNtZjZydHB4bHQxREJoLUo2RU9xOHNZ?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 12:36:00 GMT",
-        "source": "The Guardian",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047",
-    "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
+    "postId": "55af71dde297c72d85a803361744897231ee02d6b2f75eee682af34897b6e8db",
+    "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post - The Guardian",
     "bot": "jongsuk_pol_bot",
-    "runId": "45023549417",
-    "sentAt": "2026-11-22T12:41:15.256Z"
+    "runId": "45024402963",
+    "sentAt": "2026-11-22T12:51:16.030Z"
   }
 }
