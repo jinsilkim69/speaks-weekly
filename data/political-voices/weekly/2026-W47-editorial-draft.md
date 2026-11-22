@@ -13495,3 +13495,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, ‘대학수학능력시험 혼란’ 최교진 교육부 장관 사의 수락...“각종 시험 관리 전 부처 점검” - 시사뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, ‘대학수학능력시험 혼란’ 최교진 교육부 장관 사의 수락...“각종 시험 관리 전 부처 점검”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3dDc3ZEl4U19PTC1ucG1jTmVRSUUwOXdKZnpVNWhvNXJ1VjZzT1dMRzZ2UVBhbTRlWTdBTlFBSDM1YW0zQU92eVBjTnl3bF9PVlZDdldmMDJPeVJsWnFYNzg3WQ?oc=5)
+
+---
+
