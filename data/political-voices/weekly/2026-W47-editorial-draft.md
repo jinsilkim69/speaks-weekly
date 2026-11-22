@@ -12026,3 +12026,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “與, 12·3 맞춰 대법원장 탄핵하라…모두 감옥 갈 것” - 중앙일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “與, 12·3 맞춰 대법원장 탄핵하라…모두 감옥 갈 것”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NdFZCUHFiS1JKQmtrNEZWdmExallIMUx2YUdsZkp2RHBvRWRSbGtCVXlralFLRlVhd040TTBPMUw2cjRqd1ZUS0IxdVllTkFGb3FjOU93?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 취임 100일 D-2…공약은 공약(空約) 당은 사분오열 - 에너지경제신문
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 취임 100일 D-2…공약은 공약(空約) 당은 사분오열
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5NnBSTVRSZ21neVEyamFwNzdKZThJZDRQS2lGbHgzSFlKNFRCMVZLVG9lemxybmFBUGRJUEhoNWIzQS10cnRsQnkzSFdQajJ0Wmlwa1NrSDQ3LU9MYnc?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "당명 개정 제안…당원·국민 의견 수렴할 것" - 뉴시스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "당명 개정 제안…당원·국민 의견 수렴할 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BSEozOGpGS1lvUkJQU3R2VlVXSFQxR2VmZWRrVlFTdEk3SV9HTkFqUW5BcjRJaF8zVWhZd0JsQ3dYZFFWY0FEbjBsV1ZzZnIxM1puZDJkOTFjZmRsYkJ4MNIBeEFVX3lxTFBabVFkcURVOXZ0Sjdkb0tKZzM4ZVc1WW5DYm1LLUVYZGhxR1RGeUo2Q1JkTTJ6SVNGajJ5ZHh4MDRsVW9JZnhwTHlxb19WemNtOTNnZUJEczJfdTZTMlRjdWpDQjViYlRXOWcyTE9jRUFkUmNuaUlSRA?oc=5)
+
+---
+

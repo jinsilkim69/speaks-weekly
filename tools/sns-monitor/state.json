@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T00:01:13.946Z",
+  "lastCheckedAt": "2026-11-22T00:11:14.403Z",
   "seenPostIds": {
-    "579928752b018443304ad627e03804aa23d8b6d12964316f228b01d15c7b33ff": {
-      "seenAt": "2026-11-18T11:01:20.241Z",
-      "title": "\"독도 상륙한 조국씨는...\" 일본 의회서 세 차례나 문제삼았다 - OhmyNews",
-      "targetName": "조국"
-    },
-    "db16523ca982ddfcc8b4f4b63b62afde244fddc377525e53bf60502ecb68fe2c": {
-      "seenAt": "2026-11-18T11:01:20.867Z",
-      "title": "조국 “전과 있어도 일본 여러 차례 방문”…입국 거부 사유 공개 요구 - 더시사법률",
-      "targetName": "조국"
-    },
     "acdd1fc61db7222462584a2c9d91c422f74bd3810cc96cd0546fac06ff586dee": {
       "seenAt": "2026-11-18T11:01:21.497Z",
       "title": "Trump says he 'will not sign' bipartisan housing bill, but doesn't threaten veto either - ABC News - Breaking News, Latest News and Videos",
@@ -2510,14 +2500,46 @@
       "seenAt": "2026-11-22T00:01:15.641Z",
       "title": "Trump reposts El-Sayed's 'TrumpCare' proposal - FOX 2 Detroit",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "4681d6297888b20df67c5752c6160d11767188f92c5abe3452f212658b1dc233": {
+      "seenAt": "2026-11-22T00:11:15.972Z",
+      "title": "한동훈 “與, 12·3 맞춰 대법원장 탄핵하라…모두 감옥 갈 것” - 중앙일보",
+      "targetName": "한동훈"
+    },
+    "8faab3e44911e07102951e19dd66802afeb352f80b567f229d224871adc7b0d1": {
+      "seenAt": "2026-11-22T00:11:16.653Z",
+      "title": "김민석 취임 100일 D-2…공약은 공약(空約) 당은 사분오열 - 에너지경제신문",
+      "targetName": "김민석"
+    },
+    "95a8968cbe93b363d43103ef74461d70136b9553370a42ad70c9f4d5e8a9626a": {
+      "seenAt": "2026-11-22T00:11:17.342Z",
+      "title": "조국 \"당명 개정 제안…당원·국민 의견 수렴할 것\" - 뉴시스",
+      "targetName": "조국"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "c95313c7a9655b40cb518214eaeab4d29cbc5fd5691ad75873d89823016816ac",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "日 입국 거부 조국 외면한 민주당…전과에 반일 ‘반文교사’인가 - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ODNFVUxKRlFUZ0dla29hYzU5Y3VzNXBxQVp1SjZfYy0ycEtLNkdGN3B4NFdncDVPZGpnUDZzc0o2blEzTXZId0Itank4b3RIZmFXSkhR?oc=5\" target=\"_blank\">日 입국 거부 조국 외면한 민주당…전과에 반일 ‘반文교사’인가</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ODNFVUxKRlFUZ0dla29hYzU5Y3VzNXBxQVp1SjZfYy0ycEtLNkdGN3B4NFdncDVPZGpnUDZzc0o2blEzTXZId0Itank4b3RIZmFXSkhR?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "444e881252ffe41bdf23ad77473be239ce6b77dcc06f8950a5443e35c2e627a7",
-    "title": "Trump reposts El-Sayed's 'TrumpCare' proposal - FOX 2 Detroit",
+    "postId": "95a8968cbe93b363d43103ef74461d70136b9553370a42ad70c9f4d5e8a9626a",
+    "title": "조국 \"당명 개정 제안…당원·국민 의견 수렴할 것\" - 뉴시스",
     "bot": "jongsuk_pol_bot",
-    "runId": "44964550383",
-    "sentAt": "2026-11-22T00:01:15.272Z"
+    "runId": "44965372461",
+    "sentAt": "2026-11-22T00:11:16.995Z"
   }
 }
