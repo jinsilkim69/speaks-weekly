@@ -12767,3 +12767,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길, 인천 12개 대학 총학생회와 청년 주거·취업 문제 논의 - 인천뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길, 인천 12개 대학 총학생회와 청년 주거·취업 문제 논의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1kVDBEUXBaU1VQbVhuTENNSkJWdEhqaktwR3dRTmZhX2Fmd1UzSVZlU05waEk4NHdqR0hBb2NfZGQ2YXJ6LWgwaXVualRUZFk2eG1qRFItMk9FT1llVjhxZFM4VzFPdmZVOXdKX01R?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 창당 1000일 앞두고 당명 개정 제안…“범민주 진영 좋아할 당명 고민해달라” - 강원도민일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 창당 1000일 앞두고 당명 개정 제안…“범민주 진영 좋아할 당명 고민해달라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYMENGZzNRYkdzSVkydlJPTVpHV2x3N0N3cHg1enpFN3pIYWNiUlJJZGJBcWNjd0t2M0lFUDlySnJtZWlCdjNVTk1xTHFVYVJzRTNZeXNaWmhjeW1NZ2pMUlMyVTlBSmct?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 제안에, 혁신당 당명 개정 착수…조국 "범민주진보진영 좋아할 이름으로" - news.sbs.co.kr
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 제안에, 혁신당 당명 개정 착수…조국 "범민주진보진영 좋아할 이름으로"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBiQlVzLXJwQURFZjZoSDhmUWxmdy16LVVfVENLVm1DeGhlU25jZ0o4TXVSQU94TnlMT0EyRjBYNGRSeURVZkNQbWMwZ2RrbE9mVlB0a2p5WHNpbFQ0dmR5eTFWemZaSzNKZm1DZ1dwSmhNV2Myb1lJcA?oc=5)
+
+---
+
