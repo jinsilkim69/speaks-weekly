@@ -12182,3 +12182,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 혁신당의 '조국' 빠지나…조국 "확장성 있게 범민주 좋아할 이름으로" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 혁신당의 '조국' 빠지나…조국 "확장성 있게 범민주 좋아할 이름으로"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE10MEh1amZlRnBsSm5ZaDVpcGNaTkZiSHNVNkxYbFlZZDU0UGkyR3FfaU1yRTEyNjZ0c3VEXzF3Ylgzc0ZVWTdvV3dhb0pQUnplSFlhU0tYaWlLQVNjU2hlQnd4LUl2TFFHdERZOTJtR21VeDN4em1oMWV30gF_QVVfeXFMTkJab2stZnh6MnVjWGwtVXlOYmVkaEQ3RU80aS1TT1p5NXI5ZmJqdnVaeFV6ekRhNUFQRlBNOHdjaUlmd3FIOXU4alRzNFlZSl9JRy1iUHVBWFdoa1dibW9JVmNmWjVLekhFRk5Va3g3RHAwcDJiWEJ6aVZGQUZpWQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** ‘조국혁신당 간판 바뀌나’ 조국 “확장성 있는 당명 개정 제안” - 이데일리
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘조국혁신당 간판 바뀌나’ 조국 “확장성 있는 당명 개정 제안”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxQb3dwMTNaRXVvUUszN0VlQ2d2QWVQMnJjQ0VvWXRCT082TWd0bGJkMS1waEJtSGJGQWZZRXgyd3RnRDhYUE5VMWJERFk1d0hNUUtSWmRjMm5ab2k3N3RiN05qYXh2dm1yRXlsdXk3TldmN3BKVGNzdUFWNXFXV213WQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 창당 1000일 앞두고 당명 개정 제안… “국민 의견 수렴” - 천지일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 창당 1000일 앞두고 당명 개정 제안… “국민 의견 수렴”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBNNWlkbFhTMTNXVjVERlV0dElQcE96X3N3aHV0RTYwaUZwMlIwb0xtVkhGaXlhLVNfaXp6SkZySTFxZjB5ZDhsdHZzRVpMLURCcUZ3THNSX0hZb2NHczY5Z1gxWnJUMmZMNmc?oc=5)
+
+---
+
