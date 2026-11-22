@@ -13469,3 +13469,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 100일, 세 번 교차한 민주당 지지율…표심은 어디로 향했나 - 주간경향
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 100일, 세 번 교차한 민주당 지지율…표심은 어디로 향했나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE53akdZOUlkTHVDWUFuSUlJSEw3UHUyM3FDbFp3NkZXcXRFSHVqelJoV2J3X2kxMlNiTzR1ZGRmY2JNTmhGSkpMYzFXWGwwOFlBQkNWS0xuODJySmNHMUE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 지지율 5%P 추락·명청 대전 격화 …김민석 리더십 시험대 - 세계일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 지지율 5%P 추락·명청 대전 격화 …김민석 리더십 시험대
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mZFVtRnFWalNDWXdDY3BsRFh0U0NBdDNIb29rVG1EWHpOc0sya25LZ25ZZVJBODMxbEozWVc1UktDR2JDS2pGeW5LWHpwREZwZ0ZJVWpVM0HSAVRBVV95cUxONnZPYmgtT09GVl8zV1ZhZTR3RThRUUhkSWluODFfeDI1eVhuMEphbi1OaWpaWVRpaXljMy01QmhVVUY1Q29qckxDc2xudVVBekpEWEM?oc=5)
+
+---
+
