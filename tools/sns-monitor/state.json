@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T20:51:16.409Z",
+  "lastCheckedAt": "2026-11-22T21:01:16.254Z",
   "seenPostIds": {
     "211166bd98bac6e6f180e5492ded009b0c4840f8f13bf1c89d6cae43c1129453": {
       "seenAt": "2026-11-19T11:11:19.624Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-22T20:31:16.698Z",
       "title": "'The ultimate Trump card': El-Sayed pushes for health care deal with GOP - USA Today",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "da9b1765bc2bb78a189d0ba285e44224fec7ba4140da1178a420672f1ad43d49": {
+      "seenAt": "2026-11-22T21:01:17.569Z",
+      "title": "Trump Points Finger At Dems For Stock Market Slide: 'It Will Only Get Worse' - Yahoo",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "674460ac26a3cc4f624e553beca66a36ca3579b3470f7006c51fdf72a50278d4",
-    "title": "'The ultimate Trump card': El-Sayed pushes for health care deal with GOP - USA Today",
+    "postId": "da9b1765bc2bb78a189d0ba285e44224fec7ba4140da1178a420672f1ad43d49",
+    "title": "Trump Points Finger At Dems For Stock Market Slide: 'It Will Only Get Worse' - Yahoo",
     "bot": "jongsuk_pol_bot",
-    "runId": "45066864230",
-    "sentAt": "2026-11-22T20:31:16.181Z"
+    "runId": "45069659226",
+    "sentAt": "2026-11-22T21:01:17.059Z"
   }
 }

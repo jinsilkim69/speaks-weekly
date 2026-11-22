@@ -452,5 +452,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "da9b1765bc2bb78a189d0ba285e44224fec7ba4140da1178a420672f1ad43d49",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Points Finger At Dems For Stock Market Slide: 'It Will Only Get Worse' - Yahoo",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUV5a2U0SnBCN3dSUHBJYzU1Yl9wTWhFSVpsLXA0NlQtTDBIZDBOUDc4U1Y2Tjd6LWdxblNrbkVieHVzeU1lU1hnMlF3ZXF5bWtDMW0tNFRQdkpEcEhWYjRMaVRtOEtUQUJUZUtxWlFmSVpPNkxWSG5ldTJTM2s0OENSRQ?oc=5\" target=\"_blank\">Trump Points Finger At Dems For Stock Market Slide: 'It Will Only Get Worse'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUV5a2U0SnBCN3dSUHBJYzU1Yl9wTWhFSVpsLXA0NlQtTDBIZDBOUDc4U1Y2Tjd6LWdxblNrbkVieHVzeU1lU1hnMlF3ZXF5bWtDMW0tNFRQdkpEcEhWYjRMaVRtOEtUQUJUZUtxWlFmSVpPNkxWSG5ldTJTM2s0OENSRQ?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 20:26:05 GMT",
+    "source": "Yahoo",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Points Finger At Dems For Stock Market Slide: 'It Will Only Get Worse'",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
