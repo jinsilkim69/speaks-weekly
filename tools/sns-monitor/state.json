@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T20:21:16.973Z",
+  "lastCheckedAt": "2026-11-22T20:31:15.612Z",
   "seenPostIds": {
-    "3d24989bb54aaf3a6633551e06297a942c19a9ea1f6b1f4a0f18a926e9f139b7": {
-      "seenAt": "2026-11-19T10:41:20.294Z",
-      "title": "‘정청래 말려라’ 與원로 총출동…박지원 “국민이 민주 버릴라” - 아시아투데이",
-      "targetName": "정청래"
-    },
     "b6aa8692be22e251a0e032d924a9d862a866bbc125c0f1cea37fa23e542ebaec": {
       "seenAt": "2026-11-19T10:51:17.587Z",
       "title": "Trump-backed right-wing lawyer appears to win Colombia's presidential election - ABC News - Breaking News, Latest News and Videos",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-22T20:21:18.034Z",
       "title": "Trump gives suprising boost to El-Sayed’s health-care pitch - New York Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "674460ac26a3cc4f624e553beca66a36ca3579b3470f7006c51fdf72a50278d4": {
+      "seenAt": "2026-11-22T20:31:16.698Z",
+      "title": "'The ultimate Trump card': El-Sayed pushes for health care deal with GOP - USA Today",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "519ffa8fb923c8582295e3ce9cb720adde3c3afb1d484d78e0a7800eeb58397c",
-    "title": "Trump gives suprising boost to El-Sayed’s health-care pitch - New York Post",
+    "postId": "674460ac26a3cc4f624e553beca66a36ca3579b3470f7006c51fdf72a50278d4",
+    "title": "'The ultimate Trump card': El-Sayed pushes for health care deal with GOP - USA Today",
     "bot": "jongsuk_pol_bot",
-    "runId": "45065939845",
-    "sentAt": "2026-11-22T20:21:17.527Z"
+    "runId": "45066864230",
+    "sentAt": "2026-11-22T20:31:16.181Z"
   }
 }

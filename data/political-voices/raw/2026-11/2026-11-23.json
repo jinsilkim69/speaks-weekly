@@ -427,5 +427,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "674460ac26a3cc4f624e553beca66a36ca3579b3470f7006c51fdf72a50278d4",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "'The ultimate Trump card': El-Sayed pushes for health care deal with GOP - USA Today",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUs4eXZ6ZXRHNG9JZmllemFnbDVpYXdZaDIwQnJOZEVmQWhiZVV4cTk3Mk5WQkZ0MUpTdTBTUlo5QVdzd3FpRFVuOUpyOFI0dlJrdE84Y0daOWg5S3BzWGp3VGdCU3MxYXVaY3o1N19TeWhmd25HNk9XR3I4SGROZTFFVTNDVVpaWk9rYTFFSU9Rek45MmNCZGdhVEY?oc=5\" target=\"_blank\">'The ultimate Trump card': El-Sayed pushes for health care deal with GOP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUs4eXZ6ZXRHNG9JZmllemFnbDVpYXdZaDIwQnJOZEVmQWhiZVV4cTk3Mk5WQkZ0MUpTdTBTUlo5QVdzd3FpRFVuOUpyOFI0dlJrdE84Y0daOWg5S3BzWGp3VGdCU3MxYXVaY3o1N19TeWhmd25HNk9XR3I4SGROZTFFVTNDVVpaWk9rYTFFSU9Rek45MmNCZGdhVEY?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 19:22:00 GMT",
+    "source": "USA Today",
+    "ageHours": 1.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 'The ultimate Trump card': El-Sayed pushes for health care deal with GOP",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
