@@ -12689,3 +12689,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “확장성 있는 당명 필요하다” 새 당명 찾는다 - 미디어오늘
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “확장성 있는 당명 필요하다” 새 당명 찾는다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZnlGRVI0Vm1fbG5wZnBtMHVUXzdKemx5cGVGUVZlVXp2NDBfOXpkdTJjVnpTRFdiZEpDeklwbmxZVHM5V3k0YXFncFhmeXA2V0w1MUcwSTdmUFFDemxBWWY3bzM1b3pMU1JOZHVnd2Y?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 당명 개정 제안…"확장성 있는 당명 필요" - 매일일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 당명 개정 제안…"확장성 있는 당명 필요"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHc2tZME1aSkJXcTlTb001THEzWHNpb2xyRTJaWS1Ub2Q3YUNXSDQwXzZvanRqbGFXWVl2dXVBZUtFRGRETHBsU3hvaU90TXhGTFVMdjIwZVRPMm5ldFc1d0E0MU8?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안 - 매일경제
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NNGxQWlpDUUtrWHJjRWU2SWE5WW42Q0p1V2hoOTRlcFlyM0lMY25ZOVl4MVUybENadXM3ZEVITnhobkxaTmc?oc=5)
+
+---
+
