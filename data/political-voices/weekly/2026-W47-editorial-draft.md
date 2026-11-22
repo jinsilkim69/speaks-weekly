@@ -12000,3 +12000,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [이슈포커스]이재명 대통령 “수능 부정 신고포상금 건당 최소 1억원”…공범 수만큼 가산·자수자도 지급 - 창업일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “수능 부정 신고포상금 건당 최소 1억원”…공범 수만큼 가산·자수자도 지급
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HQXpEOThxQnYwR0JXZ3V5Q2lJakk1TWdwUGdVLXgtN3BkV1BON1dWVVRwRmZ1U2steklfX3J4UU56Q3FsRHpsMXZzWXE3S2V5d0NCYVh6cTMxSGJJUzV5UjAtOUZjZEha?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump reposts El-Sayed's 'TrumpCare' proposal - FOX 2 Detroit
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump reposts El-Sayed's 'TrumpCare' proposal
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxNX2xCVkRZMG0zSEFxN1gyRUFmeXNGSGNlSXBhbThxalh2ZnQzUlRqUFpVRDhQYnFEOHo0bTlRejRESlZDSjZ0NENLcnpQcTlqc2JQLVJ6akRGcFdJSDNnOEFWZkYtV0VsNzluNXJXdE5fVWJDNkppRjkwZHl1Q2pPSg?oc=5)
+
+---
+

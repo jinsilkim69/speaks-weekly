@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-21T23:51:21.582Z",
+  "lastCheckedAt": "2026-11-22T00:01:13.946Z",
   "seenPostIds": {
-    "9d21e2b63203149f907116ef3aab058ed3c3e4ade303f18c7a0933b8b334598d": {
-      "seenAt": "2026-11-18T10:51:18.099Z",
-      "title": "與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합) - 뉴시스",
-      "targetName": "정청래"
-    },
-    "4b10f28dac3f2bfb71be9a20e85ef0478e39b6080dcd6cca4206b89a91d07e61": {
-      "seenAt": "2026-11-18T10:51:18.771Z",
-      "title": "정청래, 김민석과 대타협 제안한 송영길에 \"자격 미달자 나서지 마라\" - 머니투데이 - 머니투데이",
-      "targetName": "송영길"
-    },
     "579928752b018443304ad627e03804aa23d8b6d12964316f228b01d15c7b33ff": {
       "seenAt": "2026-11-18T11:01:20.241Z",
       "title": "\"독도 상륙한 조국씨는...\" 일본 의회서 세 차례나 문제삼았다 - OhmyNews",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-21T23:51:24.131Z",
       "title": "Trump Shares Yalta Comparison Featuring Himself, Xi and Putin - Newsweek",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "9453aa1551be45180ac76743ac2ded5f6e14d4a632ab26adb7eb623d5ed67315": {
+      "seenAt": "2026-11-22T00:01:14.969Z",
+      "title": "[이슈포커스]이재명 대통령 “수능 부정 신고포상금 건당 최소 1억원”…공범 수만큼 가산·자수자도 지급 - 창업일보",
+      "targetName": "이재명"
+    },
+    "444e881252ffe41bdf23ad77473be239ce6b77dcc06f8950a5443e35c2e627a7": {
+      "seenAt": "2026-11-22T00:01:15.641Z",
+      "title": "Trump reposts El-Sayed's 'TrumpCare' proposal - FOX 2 Detroit",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "91ac2c167d486563fdc88f2da8da73c1f040edd87a05d9fc3cb9e7b55ef944be",
-    "title": "Trump Shares Yalta Comparison Featuring Himself, Xi and Putin - Newsweek",
+    "postId": "444e881252ffe41bdf23ad77473be239ce6b77dcc06f8950a5443e35c2e627a7",
+    "title": "Trump reposts El-Sayed's 'TrumpCare' proposal - FOX 2 Detroit",
     "bot": "jongsuk_pol_bot",
-    "runId": "44963773729",
-    "sentAt": "2026-11-21T23:51:23.748Z"
+    "runId": "44964550383",
+    "sentAt": "2026-11-22T00:01:15.272Z"
   }
 }
