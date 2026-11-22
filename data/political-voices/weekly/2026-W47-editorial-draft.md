@@ -12728,3 +12728,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 제안에, 혁신당 당명 개정 착수…조국 "범민주진보진영 좋아할 이름으로" - SBS 뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 제안에, 혁신당 당명 개정 착수…조국 "범민주진보진영 좋아할 이름으로"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9xM0dDRVJWVHUxeElfS045eWN0VUZYc1B1YmJkVWlVM3pJU1ZNWHp2R1lLSEdkWXBfYmtTd29UaFRLR21tQ1N6emNDcUh1M29jM25CeTE2SjVCQTVPdk4zMHkzSkxWQktuQlE?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "與, 대법원장 탄핵...모두 감옥 갈 것" - 더팩트
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "與, 대법원장 탄핵...모두 감옥 갈 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tNjhEWU9VTTdabWplWXJ5bno1T3l1dEdyaE54anplTnp0ODhZNFM3TDhhMEJLMG9ZcW5xMFpiT3pWcGRlYnB6ckVabE9ZTDFYdUxYMk9XX2bSAVNBVV95cUxPc3hDT0VLTFI2SjM5QW1ESG1mMXZMLW95b2JORXltQkdydkhIN3JZalhrcF9tUXFGNkRTUVVOZ3J6VW84Yy0xczRReUZ5SU5laUt3OA?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "12.3 대법원장 탄핵한다는 민주당, 내란죄 자백…그날 꼭 하시라" - 프레시안
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "12.3 대법원장 탄핵한다는 민주당, 내란죄 자백…그날 꼭 하시라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFBZR2hIY3RCM21CejFtTUpQdnpISFhNMkZyaHVpd1lOc0VaSE1iR1hIcHdYYkV3NFRiOTB0bGkzeUhnWjY2YXg2THFZWU9KbUVFMTRCM3pORnlkQWVnQkJYaHNjV3Y4YWY2UVBubF9ObUpDd1JYLUIxSEgtTlhhTk0?oc=5)
+
+---
+

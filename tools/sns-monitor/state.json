@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T04:21:13.660Z",
+  "lastCheckedAt": "2026-11-22T04:31:15.737Z",
   "seenPostIds": {
-    "6b9ca68149baf325f10046f6e28b71b385320dc202414cbe32febe5259b642c5": {
-      "seenAt": "2026-11-18T23:11:18.837Z",
-      "title": "장예찬, 당게 글 공개 “미국 있는 한동훈 딸 ‘추경호, 용산 실드 적당히 해’라고 썼다” - 주간경향",
-      "targetName": "한동훈"
-    },
-    "0ac1fcc949de6925658ded57ba0ae612bdf25142c49109bed15ee6a8af7788b7": {
-      "seenAt": "2026-11-18T23:11:19.444Z",
-      "title": "'추경호 무죄'에 한동훈 \"무죄 받을 것이라 지적해왔다…당연한 귀결\" - 머니투데이 - 머니투데이",
-      "targetName": "한동훈"
-    },
-    "3a5f5bde1f74cf071bd92d8f08dc08fb7af4c85132a04cd4389988c30f682a67": {
-      "seenAt": "2026-11-18T23:21:17.929Z",
-      "title": "\"최민희 징계 반대\" 정청래 참전에 '폭풍전야' - SBS 뉴스",
-      "targetName": "정청래"
-    },
     "f200a7847ccdbe2e1d9dd9d28b944e1954709a2511903715ee728a8e660e4f15": {
       "seenAt": "2026-11-18T23:21:18.660Z",
       "title": "No deal signed yet, Philippine officials temper Trump's claim of 'very big' trade pact - WXLV",
@@ -2515,31 +2500,78 @@
       "seenAt": "2026-11-22T04:21:17.017Z",
       "title": "조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안 - 매일경제",
       "targetName": "조국"
+    },
+    "ee578fae9803f48ec99830bc91101980025793adf8d0de798ea3c845a986a209": {
+      "seenAt": "2026-11-22T04:31:17.009Z",
+      "title": "조국 제안에, 혁신당 당명 개정 착수…조국 \"범민주진보진영 좋아할 이름으로\" - SBS 뉴스",
+      "targetName": "조국"
+    },
+    "55568c372ac8c82d56dcae937b1a6d70743124e183a94d7748e6270df017cff8": {
+      "seenAt": "2026-11-22T04:31:17.842Z",
+      "title": "한동훈 \"與, 대법원장 탄핵...모두 감옥 갈 것\" - 더팩트",
+      "targetName": "한동훈"
+    },
+    "2369d2f35b835d86a74db7e9cb4399ecb940f5eaab03734715b6a411db8eda16": {
+      "seenAt": "2026-11-22T04:31:18.513Z",
+      "title": "한동훈 \"12.3 대법원장 탄핵한다는 민주당, 내란죄 자백…그날 꼭 하시라\" - 프레시안",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "ee578fae9803f48ec99830bc91101980025793adf8d0de798ea3c845a986a209",
+        "id": "d1c46b9030d16395397bd39a8dd6f82eca44c5037ad1f0d70f13d3fed622e11c",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길, 인천 12개 대학 총학생회와 청년 주거·취업 문제 논의 - 인천뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1kVDBEUXBaU1VQbVhuTENNSkJWdEhqaktwR3dRTmZhX2Fmd1UzSVZlU05waEk4NHdqR0hBb2NfZGQ2YXJ6LWgwaXVualRUZFk2eG1qRFItMk9FT1llVjhxZFM4VzFPdmZVOXdKX01R?oc=5\" target=\"_blank\">송영길, 인천 12개 대학 총학생회와 청년 주거·취업 문제 논의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kVDBEUXBaU1VQbVhuTENNSkJWdEhqaktwR3dRTmZhX2Fmd1UzSVZlU05waEk4NHdqR0hBb2NfZGQ2YXJ6LWgwaXVualRUZFk2eG1qRFItMk9FT1llVjhxZFM4VzFPdmZVOXdKX01R?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 04:18:28 GMT",
+        "source": "인천뉴스",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "383a39bb0811d0e4b0f5312c0b58cbbf47896fec55b9f7c79bef4bce6515454e",
         "targetId": "cho_kuk",
         "targetName": "조국",
         "targetTitle": "조국혁신당 대표",
-        "title": "조국 제안에, 혁신당 당명 개정 착수…조국 \"범민주진보진영 좋아할 이름으로\" - SBS 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9xM0dDRVJWVHUxeElfS045eWN0VUZYc1B1YmJkVWlVM3pJU1ZNWHp2R1lLSEdkWXBfYmtTd29UaFRLR21tQ1N6emNDcUh1M29jM25CeTE2SjVCQTVPdk4zMHkzSkxWQktuQlE?oc=5\" target=\"_blank\">조국 제안에, 혁신당 당명 개정 착수…조국 \"범민주진보진영 좋아할 이름으로\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SBS 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xM0dDRVJWVHUxeElfS045eWN0VUZYc1B1YmJkVWlVM3pJU1ZNWHp2R1lLSEdkWXBfYmtTd29UaFRLR21tQ1N6emNDcUh1M29jM25CeTE2SjVCQTVPdk4zMHkzSkxWQktuQlE?oc=5",
+        "title": "조국, 창당 1000일 앞두고 당명 개정 제안…“범민주 진영 좋아할 당명 고민해달라” - 강원도민일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYMENGZzNRYkdzSVkydlJPTVpHV2x3N0N3cHg1enpFN3pIYWNiUlJJZGJBcWNjd0t2M0lFUDlySnJtZWlCdjNVTk1xTHFVYVJzRTNZeXNaWmhjeW1NZ2pMUlMyVTlBSmct?oc=5\" target=\"_blank\">조국, 창당 1000일 앞두고 당명 개정 제안…“범민주 진영 좋아할 당명 고민해달라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원도민일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYMENGZzNRYkdzSVkydlJPTVpHV2x3N0N3cHg1enpFN3pIYWNiUlJJZGJBcWNjd0t2M0lFUDlySnJtZWlCdjNVTk1xTHFVYVJzRTNZeXNaWmhjeW1NZ2pMUlMyVTlBSmct?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 04:11:44 GMT",
+        "source": "강원도민일보",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "24cec921128852d5c0cf18a825418a5ffa32e58a0f0d20b35029d8274e0ff249",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 제안에, 혁신당 당명 개정 착수…조국 \"범민주진보진영 좋아할 이름으로\" - news.sbs.co.kr",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBiQlVzLXJwQURFZjZoSDhmUWxmdy16LVVfVENLVm1DeGhlU25jZ0o4TXVSQU94TnlMT0EyRjBYNGRSeURVZkNQbWMwZ2RrbE9mVlB0a2p5WHNpbFQ0dmR5eTFWemZaSzNKZm1DZ1dwSmhNV2Myb1lJcA?oc=5\" target=\"_blank\">조국 제안에, 혁신당 당명 개정 착수…조국 \"범민주진보진영 좋아할 이름으로\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.sbs.co.kr</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiQlVzLXJwQURFZjZoSDhmUWxmdy16LVVfVENLVm1DeGhlU25jZ0o4TXVSQU94TnlMT0EyRjBYNGRSeURVZkNQbWMwZ2RrbE9mVlB0a2p5WHNpbFQ0dmR5eTFWemZaSzNKZm1DZ1dwSmhNV2Myb1lJcA?oc=5",
         "pubDate": "Sun, 22 Nov 2026 03:05:46 GMT",
-        "source": "SBS 뉴스",
-        "ageHours": 1.3
+        "source": "news.sbs.co.kr",
+        "ageHours": 1.4
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "991a718f770b9a715131c5306b6f4e3e3f8727b4f48e7068d212cfcab2e51a60",
-    "title": "조국혁신당 ‘조국’ 뗄까…조국 “범민주진보까지 품어야” 당명 변경 제안 - 매일경제",
+    "postId": "2369d2f35b835d86a74db7e9cb4399ecb940f5eaab03734715b6a411db8eda16",
+    "title": "한동훈 \"12.3 대법원장 탄핵한다는 민주당, 내란죄 자백…그날 꼭 하시라\" - 프레시안",
     "bot": "jongsuk_pol_bot",
-    "runId": "44984654981",
-    "sentAt": "2026-11-22T04:21:16.434Z"
+    "runId": "44985393804",
+    "sentAt": "2026-11-22T04:31:18.173Z"
   }
 }
