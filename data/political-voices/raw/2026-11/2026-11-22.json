@@ -4030,5 +4030,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "5007521396e306ca82347916dabe96d17e3a61f0ceac611d8e9c298f9d53dba6",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump posts tribute to ‘friend’ Putin - The Telegraph",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2RYUDdsWG82VDBiNk1kSmFYVEdKOWRrTmdscGtIa01qUGtqcFVkMmcwbDhxMDdJbG1QSlJCY3F2ZFdBZmN6VUJjYUlqX29LTzlzSmtiVzVhLXNYa1VpSVhYUDBvYlVFTFI5ZjFoMm1ra0NaeTQ0bXQ4eTJJM3VPeVFJMk1KSkdGVVplYVhDMVBYal91SW5pWEpfOUZ4Q2RfUFdoOEpSMFY?oc=5\" target=\"_blank\">Trump posts tribute to ‘friend’ Putin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Telegraph</font>",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2RYUDdsWG82VDBiNk1kSmFYVEdKOWRrTmdscGtIa01qUGtqcFVkMmcwbDhxMDdJbG1QSlJCY3F2ZFdBZmN6VUJjYUlqX29LTzlzSmtiVzVhLXNYa1VpSVhYUDBvYlVFTFI5ZjFoMm1ra0NaeTQ0bXQ4eTJJM3VPeVFJMk1KSkdGVVplYVhDMVBYal91SW5pWEpfOUZ4Q2RfUFdoOEpSMFY?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 10:00:00 GMT",
+    "source": "The Telegraph",
+    "ageHours": 1.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump posts tribute to ‘friend’ Putin",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

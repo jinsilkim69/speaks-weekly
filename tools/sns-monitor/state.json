@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T11:21:18.151Z",
+  "lastCheckedAt": "2026-11-22T11:31:16.154Z",
   "seenPostIds": {
     "9aa7974c108ab6f5bf482093b27251d0b0b409c909995154cd5ba5d872ac4e69": {
       "seenAt": "2026-11-19T08:21:17.457Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-22T11:11:20.471Z",
       "title": "김민석 \"민주당 큰 고민 중 하나는 청년…더 함께하고 싶다\" - TV서울",
       "targetName": "김민석"
+    },
+    "5007521396e306ca82347916dabe96d17e3a61f0ceac611d8e9c298f9d53dba6": {
+      "seenAt": "2026-11-22T11:31:17.603Z",
+      "title": "Trump posts tribute to ‘friend’ Putin - The Telegraph",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "f81f5a585204fd9b8905d513575ffcf9e94d7af35af6b4e013f93e24f035a0f5",
-    "title": "김민석 \"민주당 큰 고민 중 하나는 청년…더 함께하고 싶다\" - TV서울",
+    "postId": "5007521396e306ca82347916dabe96d17e3a61f0ceac611d8e9c298f9d53dba6",
+    "title": "Trump posts tribute to ‘friend’ Putin - The Telegraph",
     "bot": "jongsuk_pol_bot",
-    "runId": "45016051048",
-    "sentAt": "2026-11-22T11:11:20.082Z"
+    "runId": "45017704556",
+    "sentAt": "2026-11-22T11:31:16.944Z"
   }
 }
