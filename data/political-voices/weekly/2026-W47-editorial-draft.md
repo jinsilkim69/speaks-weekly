@@ -12260,3 +12260,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 의원, 민주당의 조희대 대법원장 탄핵 추진 비판:경찰연합신문 - 경찰연합신문
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 의원, 민주당의 조희대 대법원장 탄핵 추진 비판:경찰연합신문
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE56c2w0OVFYemRNN191dHNDcUxfM2JiQVdoSmYtcWZIZE8wQ0lWSmpBLWxRQTlSR3BoZHFnbXIzSTZqdTBTcnBHdm5DLTNpMHd00gFsQVVfeXFMT19id0dja2Y5eUhzUnJTdWhadklKM0lySno5bnVfTnRRaVA1MDhneUVZQk1mWk8tUGlZb3VQZFVKaHpmd2N5cVc4VFRpZGRGZGtzYmdncExFY3BkWVpXbmU3SDNHUWtSczF1YVFZ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 혁신당 창당 1천일 앞두고 당명 개정 제안‥"확장성 있어야" - MBC 뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 혁신당 창당 1천일 앞두고 당명 개정 제안‥"확장성 있어야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBmWHR0b0l3U0dSbTVIUHh2djZicjNNVUQzR0xKYWNEeGN4c05MVXZPekk1T3IySE5ZdnZEME9FMnpYd29VRC0xSmIxUjQ4TjVqZjNpMTcxNHNOYmNjQzV2Z0pCQWFOMzM4S2tlRnlsc0RLMk94STVDbtIBeEFVX3lxTE5QUVllRVFDQTdxZFFXbzJISks4eUM4eVNnc1hsSGtKdWVmVnYycG53SkpSUjlvN3dBc1BaZ0paZC1nZnZqSGtXenVRZTAxVzdicXZ1T1JsRS1oR0g1VEVheTJtQV9GTm1kUFJTVWxpMC1rWldDQ3piRQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “당명 개정 제안…당명 속 ‘조국’이 제 이름은 아니지만” - 한겨레
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “당명 개정 제안…당명 속 ‘조국’이 제 이름은 아니지만”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE9vY0JQWFppZngtaUh6RVhsVEhqUGx4SEJUSlZfazFzcGZ0d2dwcFU5Rm1vMjEyNWpWOE9RWklWdlhNQk9JTTczUlVCVjJ0OWFYMHBYM1E2Y29ucVpkdVRGSk92d3JUNEdKLS0ySXZfUXJrVUNB?oc=5)
+
+---
+

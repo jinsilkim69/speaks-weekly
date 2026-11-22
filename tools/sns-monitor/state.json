@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T01:21:15.582Z",
+  "lastCheckedAt": "2026-11-22T01:31:14.779Z",
   "seenPostIds": {
-    "5304ae9ec0330409e0faf9f0c32fe1501af7f0e6adfa83a8d06003e0113e9f68": {
-      "seenAt": "2026-11-18T13:31:16.568Z",
-      "title": "홍준표 “더 이상 되지도 않을 한동훈 복당 논쟁 그만두라···장동혁 중심돼야” - 주간경향",
-      "targetName": "한동훈"
-    },
-    "ba2dccd69fd67cd6f31aae9d7370797f64409a79f335f9b1e7c01b33498aec1f": {
-      "seenAt": "2026-11-18T13:41:20.927Z",
-      "title": "한동훈, 추경호 1심 무죄에 “당연한 귀결 환영” - 문화일보",
-      "targetName": "한동훈"
-    },
-    "84775e011d6e306c12ea8c21b8ba81db0fe14b7aa44572b78c80c98523695ded": {
-      "seenAt": "2026-11-18T13:51:19.427Z",
-      "title": "Trump touts ‘landmark’ trade deal with Philippines - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "76485ba141dfad4ad40b028546fdcb10f79810f46ad92c0b45a0d91658ae64c2": {
       "seenAt": "2026-11-18T14:11:21.062Z",
       "title": "Trump touts ‘landmark’ trade deal with Philippines - The Hill",
@@ -2515,31 +2500,46 @@
       "seenAt": "2026-11-22T01:21:17.943Z",
       "title": "조국, 당명 개정 제안… “제 이름 아니지만, 확장성 있는 당명 필요” - 채널A",
       "targetName": "조국"
+    },
+    "0f4fe13ca34b65d956356f6197ee7b96071528239432ea9531a2cbe91b8d74f2": {
+      "seenAt": "2026-11-22T01:31:16.322Z",
+      "title": "한동훈 의원, 민주당의 조희대 대법원장 탄핵 추진 비판:경찰연합신문 - 경찰연합신문",
+      "targetName": "한동훈"
+    },
+    "7b50db7633db925e4a60ca75b7095779d6bfa783ff45f131109f2d29e9c427a7": {
+      "seenAt": "2026-11-22T01:31:17.095Z",
+      "title": "조국, 혁신당 창당 1천일 앞두고 당명 개정 제안‥\"확장성 있어야\" - MBC 뉴스",
+      "targetName": "조국"
+    },
+    "9e94ae197b188bc18eb6f041feb115c5b1838f9cf2c45ac0394d2faf95802a12": {
+      "seenAt": "2026-11-22T01:31:17.886Z",
+      "title": "조국 “당명 개정 제안…당명 속 ‘조국’이 제 이름은 아니지만” - 한겨레",
+      "targetName": "조국"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "0f4fe13ca34b65d956356f6197ee7b96071528239432ea9531a2cbe91b8d74f2",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 의원, 민주당의 조희대 대법원장 탄핵 추진 비판:경찰연합신문 - 경찰연합신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE56c2w0OVFYemRNN191dHNDcUxfM2JiQVdoSmYtcWZIZE8wQ0lWSmpBLWxRQTlSR3BoZHFnbXIzSTZqdTBTcnBHdm5DLTNpMHd00gFsQVVfeXFMT19id0dja2Y5eUhzUnJTdWhadklKM0lySno5bnVfTnRRaVA1MDhneUVZQk1mWk8tUGlZb3VQZFVKaHpmd2N5cVc4VFRpZGRGZGtzYmdncExFY3BkWVpXbmU3SDNHUWtSczF1YVFZ?oc=5\" target=\"_blank\">한동훈 의원, 민주당의 조희대 대법원장 탄핵 추진 비판:경찰연합신문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경찰연합신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56c2w0OVFYemRNN191dHNDcUxfM2JiQVdoSmYtcWZIZE8wQ0lWSmpBLWxRQTlSR3BoZHFnbXIzSTZqdTBTcnBHdm5DLTNpMHd00gFsQVVfeXFMT19id0dja2Y5eUhzUnJTdWhadklKM0lySno5bnVfTnRRaVA1MDhneUVZQk1mWk8tUGlZb3VQZFVKaHpmd2N5cVc4VFRpZGRGZGtzYmdncExFY3BkWVpXbmU3SDNHUWtSczF1YVFZ?oc=5",
-        "pubDate": "Sat, 21 Nov 2026 20:44:54 GMT",
-        "source": "경찰연합신문",
-        "ageHours": 4.6
+        "id": "4f8e2ac874545b300604aee81d8b34b655a03fc95c3787bd3c6c8c00bfc623b5",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당 ‘조국’ 빠진다···“확장성 있는 당명 필요” - 주간경향",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SM29OVjNfOTlEQ0pkMFFTdVZpbUFZY1FYck1lcFhncjRJWmNsb19RbGZUWU4wOWJOSlhCRkwwVHU5cWRVd2d0VzhKQzc5akFGbzJSMWpfdE1kcXVtUUE?oc=5\" target=\"_blank\">조국혁신당 ‘조국’ 빠진다···“확장성 있는 당명 필요”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SM29OVjNfOTlEQ0pkMFFTdVZpbUFZY1FYck1lcFhncjRJWmNsb19RbGZUWU4wOWJOSlhCRkwwVHU5cWRVd2d0VzhKQzc5akFGbzJSMWpfdE1kcXVtUUE?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 01:21:00 GMT",
+        "source": "주간경향",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "09c45e3801f616ed18b3effcd204bee0294fb0a7c78e1c3159d61f4e0075c356",
-    "title": "조국, 당명 개정 제안… “제 이름 아니지만, 확장성 있는 당명 필요” - 채널A",
+    "postId": "9e94ae197b188bc18eb6f041feb115c5b1838f9cf2c45ac0394d2faf95802a12",
+    "title": "조국 “당명 개정 제안…당명 속 ‘조국’이 제 이름은 아니지만” - 한겨레",
     "bot": "jongsuk_pol_bot",
-    "runId": "44971042730",
-    "sentAt": "2026-11-22T01:21:17.623Z"
+    "runId": "44971817650",
+    "sentAt": "2026-11-22T01:31:17.488Z"
   }
 }
