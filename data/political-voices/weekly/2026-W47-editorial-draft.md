@@ -13014,3 +13014,29 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** [속보] 이준석 “근조 민주당, 부끄러운 줄 알라”...조희대 탄핵에 맹비난 - 경기일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “근조 민주당, 부끄러운 줄 알라”...조희대 탄핵에 맹비난
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNRDJVYUxJMERjVjcwcVdxV0lrUlRvaURuS1lPTEptczlzQXlWVkYxYjY4bHFJemdwclZlaXdsNnNqMmJENml6cEczSEdYQUx6NGcwWDdLcEl6RDA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 창당 1천일 앞두고 조국혁신당 당명 개정 제안 - 경기일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 창당 1천일 앞두고 조국혁신당 당명 개정 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xQWNmdHc3MzZiNWtMWVE3OEdOdmxtT3ZxdXpqYmM5ZkZHaGhISXMxZjVqLW9RbEdadTItT21hbFpZVlZiV1pUazdGT2MxTnJ1dWxCTF9fcDJpZmc?oc=5)
+
+---
+
