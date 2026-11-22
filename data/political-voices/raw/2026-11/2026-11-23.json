@@ -326,5 +326,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "2a729d44060cdd707d2bd29aca26e4a8f7b823e47b28b47bab3a03457868e0a4",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "조작기소 특검법은 왜 이재명 대통령에게 독배인가 - 시사IN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9xVmVEVzY1SVFmUEJfV3BkODJtYklXemZNUkVaeWZNTDVjU0ZrMjJ0MzVVeDktdEJkYk5rdklnaG11ZVBfanJrWWl2cTd3UjRvOERDNENFTzI3NHo4S1drRjE2VHR2aGktYkE?oc=5\" target=\"_blank\">조작기소 특검법은 왜 이재명 대통령에게 독배인가</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사IN</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xVmVEVzY1SVFmUEJfV3BkODJtYklXemZNUkVaeWZNTDVjU0ZrMjJ0MzVVeDktdEJkYk5rdklnaG11ZVBfanJrWWl2cTd3UjRvOERDNENFTzI3NHo4S1drRjE2VHR2aGktYkE?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 18:25:56 GMT",
+    "source": "시사IN",
+    "ageHours": 1.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조작기소 특검법은 왜 이재명 대통령에게 독배인가",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

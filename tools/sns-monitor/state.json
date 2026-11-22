@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T19:21:14.000Z",
+  "lastCheckedAt": "2026-11-22T19:31:15.341Z",
   "seenPostIds": {
     "52d7d22dd24ce10e9bd4a08960ac1143c4a4f2cfbfbf304141be06b28e982f0f": {
       "seenAt": "2026-11-19T10:31:25.443Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-22T19:01:15.521Z",
       "title": "이재명 대통령, ‘대장동 의혹’ 또 반박…“업자와 결탁한 시장 아냐” - 국제신문",
       "targetName": "이재명"
+    },
+    "2a729d44060cdd707d2bd29aca26e4a8f7b823e47b28b47bab3a03457868e0a4": {
+      "seenAt": "2026-11-22T19:31:16.772Z",
+      "title": "조작기소 특검법은 왜 이재명 대통령에게 독배인가 - 시사IN",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "6748179f99c5a3e57f596d1f98b5375cbf6cf419bc5c6826cb2fcdba473882c0",
-    "title": "이재명 대통령, ‘대장동 의혹’ 또 반박…“업자와 결탁한 시장 아냐” - 국제신문",
+    "postId": "2a729d44060cdd707d2bd29aca26e4a8f7b823e47b28b47bab3a03457868e0a4",
+    "title": "조작기소 특검법은 왜 이재명 대통령에게 독배인가 - 시사IN",
     "bot": "jongsuk_pol_bot",
-    "runId": "45058306987",
-    "sentAt": "2026-11-22T19:01:14.887Z"
+    "runId": "45061186238",
+    "sentAt": "2026-11-22T19:31:16.108Z"
   }
 }
