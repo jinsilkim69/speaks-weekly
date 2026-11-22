@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T10:51:16.737Z",
+  "lastCheckedAt": "2026-11-22T11:01:13.941Z",
   "seenPostIds": {
-    "23fb2e64a8c5085a0c8c2b3a2ca60216f849cf78ac896fd9a7925e8da7e0d0ea": {
-      "seenAt": "2026-11-19T07:51:18.511Z",
-      "title": "친청 당원 모임, 김민석 대표 향해 \"'최민희 불공정 징계' 중단하라\" - 뉴데일리",
-      "targetName": "김민석"
-    },
     "1763e8eef20d329d5f704aa4da3148e1cc299dee01d42ef1881501d0aa013067": {
       "seenAt": "2026-11-19T08:01:16.595Z",
       "title": "외교부, 日조국 입국 거부에 “전과 때문…독도 방문 관련 없어” - 중앙일보",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-22T10:51:18.208Z",
       "title": "지지율 5%P 추락·명청 대전 격화 …김민석 리더십 시험대 - 세계일보",
       "targetName": "김민석"
+    },
+    "6a228df71e562c9eb3fdd5aabf9dbec4a5f64c43bf6c4f877b0e57c40fae9ec6": {
+      "seenAt": "2026-11-22T11:01:15.092Z",
+      "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "69d4535a7204c72eebaacf46fc6d96417dec3b6e06e56433c9cca6709036f44d",
-    "title": "지지율 5%P 추락·명청 대전 격화 …김민석 리더십 시험대 - 세계일보",
+    "postId": "6a228df71e562c9eb3fdd5aabf9dbec4a5f64c43bf6c4f877b0e57c40fae9ec6",
+    "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45014415445",
-    "sentAt": "2026-11-22T10:51:17.627Z"
+    "runId": "45015207874",
+    "sentAt": "2026-11-22T11:01:14.546Z"
   }
 }

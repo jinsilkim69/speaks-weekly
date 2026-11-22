@@ -3930,5 +3930,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6a228df71e562c9eb3fdd5aabf9dbec4a5f64c43bf6c4f877b0e57c40fae9ec6",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0kxTTNIRU9zQlF3WG5yNTZIdExHbVFaeHpLU0xSMkl5cUwtU2FrSi1uYXI2WTlzUGdLVmxadGNUWXhfOGZVcVJLdm1pU1JuZUNiLUcyenotWUpiSmVlUHdtYTc1M3ZDelYtVjBFTXhGZ0RuSUVKSTBMMGdEVDNxSmxpMHAzbE9JWUVaMEFNV2FzSURu?oc=5\" target=\"_blank\">민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0kxTTNIRU9zQlF3WG5yNTZIdExHbVFaeHpLU0xSMkl5cUwtU2FrSi1uYXI2WTlzUGdLVmxadGNUWXhfOGZVcVJLdm1pU1JuZUNiLUcyenotWUpiSmVlUHdtYTc1M3ZDelYtVjBFTXhGZ0RuSUVKSTBMMGdEVDNxSmxpMHAzbE9JWUVaMEFNV2FzSURu?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 10:47:00 GMT",
+    "source": "국제신문",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
