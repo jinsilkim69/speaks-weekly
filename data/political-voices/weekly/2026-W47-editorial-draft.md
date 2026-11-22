@@ -12390,3 +12390,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “사법부 정지 시도 민주당, 입법부 마비 ‘망상 법비’처럼 무너질 것” - 서울신문
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “사법부 정지 시도 민주당, 입법부 마비 ‘망상 법비’처럼 무너질 것”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTFBrZVRNOWV1TVBjWENsN3ZadkVpNmMybjliZ1lfWHFlWGUwYmIwWEduN2lmaFhKa1RtZ244Vmt5QkwxaG5VdEsxdEVKdUtfaUZfX3IzNXd4STNpUnlpeEg3MjJ2eWI2cmZBUFRiZmRYRzU?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “당명 개정 결정할 시점”…혁신당, 개명 절차 돌입[이런정치] - 헤럴드경제
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “당명 개정 결정할 시점”…혁신당, 개명 절차 돌입
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tX21Oc3JNbHI5cHh0VFpLdnJXd0ZyTWJuc0I0Yk14cUFsUHFnLXBFWHk1ZG5tT00yTTNVcnF5c01JSXA4TE1MN3VEYnRjOTh4NDJKODJB?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 창당 1,000일 앞두고 당명 변경 제안...신장식 “최고위서 논의” - M이코노미뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 창당 1,000일 앞두고 당명 변경 제안...신장식 “최고위서 논의”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvM18tZ2lCRE5XUll3VF9zcGRQcnJBaHJTME1PZGZlWmJ6OUY4ekdUUkVNQ1FiTXE4LTZZa2tOcGl0YkNVSHh0RDRZTFIyUmdrMXYzYW9mTTZwb1l6TWp3bGhXQkd1NFU?oc=5)
+
+---
+
