@@ -2234,5 +2234,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "53f34e4fd6d3686d2ac0287431b23dd383d74bc79cd58bce540216fc24be3e30",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "President Trump Posts 30 Summit Photos with Xi, Putin - 조선일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmdXQ0d0dU55STd6UE9Qd1N2YUxrT3NYNHhZVFpqdmdEVVlIY0Y3Vk03Z2xRNXBVMjhzSmFhTF9fTzVFWUYxaVVJUFI4SHpsQzZtSlVJX0FHQ1pPVUV4ZTRLdGlBZTBjMHhQcllOVVk4dVlfcm5pMzBOTEVIbDNISWlFdGc?oc=5\" target=\"_blank\">President Trump Posts 30 Summit Photos with Xi, Putin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmdXQ0d0dU55STd6UE9Qd1N2YUxrT3NYNHhZVFpqdmdEVVlIY0Y3Vk03Z2xRNXBVMjhzSmFhTF9fTzVFWUYxaVVJUFI4SHpsQzZtSlVJX0FHQ1pPVUV4ZTRLdGlBZTBjMHhQcllOVVk4dVlfcm5pMzBOTEVIbDNISWlFdGc?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 03:58:51 GMT",
+    "source": "조선일보",
+    "ageHours": 0,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] President Trump Posts 30 Summit Photos with Xi, Putin",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

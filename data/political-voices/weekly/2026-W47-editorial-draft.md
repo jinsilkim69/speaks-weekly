@@ -12650,3 +12650,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** President Trump Posts 30 Summit Photos with Xi, Putin - 조선일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] President Trump Posts 30 Summit Photos with Xi, Putin
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmdXQ0d0dU55STd6UE9Qd1N2YUxrT3NYNHhZVFpqdmdEVVlIY0Y3Vk03Z2xRNXBVMjhzSmFhTF9fTzVFWUYxaVVJUFI4SHpsQzZtSlVJX0FHQ1pPVUV4ZTRLdGlBZTBjMHhQcllOVVk4dVlfcm5pMzBOTEVIbDNISWlFdGc?oc=5)
+
+---
+
