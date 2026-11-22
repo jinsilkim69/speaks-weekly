@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T00:21:18.475Z",
+  "lastCheckedAt": "2026-11-22T00:31:13.377Z",
   "seenPostIds": {
-    "b34b62600cfadbfd971916dc4ee9c0028ee07e040d6cd501dded2b4be13ae314": {
-      "seenAt": "2026-11-18T11:11:18.050Z",
-      "title": "與 '최민희 징계' 내홍 확산…정청래·추미애 가세(종합) - 뉴시스",
-      "targetName": "정청래"
-    },
-    "98cae32c64be93bb3559c38815b9b2dda04b093ab4229adf95d3bd3763663a46": {
-      "seenAt": "2026-11-18T11:19:44.655Z",
-      "title": "송영길 \"김민석·정청래 만나 대타협을\" 제안…정청래 \"자격 미달자 나서지 말라\" - 스페셜타임스",
-      "targetName": "송영길"
-    },
     "754efb5fd2184439a80ff73919267bd22530abb90576e81de20c7b358279de70": {
       "seenAt": "2026-11-18T11:19:45.254Z",
       "title": "일본 입국 거부된 조국, 당원들과 세 번째 독도행 예정 - 한국경제",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-22T00:21:20.634Z",
       "title": "Trump shares Yalta comparison featuring himself, Xi and Putin - AOL.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "e32689d52bf9cdfec90a65aa7847a8d99e5817049c3dccad98390ab57061b4ac": {
+      "seenAt": "2026-11-22T00:31:14.379Z",
+      "title": "조국, 혁신당 당명 개정 제안…\"확장성 있는 당명 필요\" - 뉴스1",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "e6c21cba91750a7b5a8a7b44d4fe5427d5a65dd9edb2a407de17c40b758b066a",
-    "title": "Trump shares Yalta comparison featuring himself, Xi and Putin - AOL.com",
+    "postId": "e32689d52bf9cdfec90a65aa7847a8d99e5817049c3dccad98390ab57061b4ac",
+    "title": "조국, 혁신당 당명 개정 제안…\"확장성 있는 당명 필요\" - 뉴스1",
     "bot": "jongsuk_pol_bot",
-    "runId": "44966182056",
-    "sentAt": "2026-11-22T00:21:20.264Z"
+    "runId": "44966999246",
+    "sentAt": "2026-11-22T00:31:13.899Z"
   }
 }
