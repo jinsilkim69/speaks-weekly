@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T21:01:16.254Z",
+  "lastCheckedAt": "2026-11-22T21:11:13.548Z",
   "seenPostIds": {
-    "211166bd98bac6e6f180e5492ded009b0c4840f8f13bf1c89d6cae43c1129453": {
-      "seenAt": "2026-11-19T11:11:19.624Z",
-      "title": "송영길 \"시험 부정행위자 '응시제한 연동제' 도입해야\" - 엔지오프레스",
-      "targetName": "송영길"
-    },
     "fb07a3ddf606c6e064e59a9af4a195e0bc8c09cdb670cf44ff73b39f80526c1c": {
       "seenAt": "2026-11-19T11:21:18.721Z",
       "title": "조국, 한덕수 파기환송에 \"與, 조희대 탄핵·사법개혁 방치 후과\" - 뉴스1",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-22T21:01:17.569Z",
       "title": "Trump Points Finger At Dems For Stock Market Slide: 'It Will Only Get Worse' - Yahoo",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "3cac737486d869221af2bb20a0b8f94a064aca195a41f80e9e794439bef4172e": {
+      "seenAt": "2026-11-22T21:11:14.563Z",
+      "title": "최민희 징계 앞두고 추미애 등판에 정청래도 움직였다…‘깃발’ 든 진짜 이유 (인물비상구 20261122 방송 최민희와 계파갈등 편) - 경향신문",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "da9b1765bc2bb78a189d0ba285e44224fec7ba4140da1178a420672f1ad43d49",
-    "title": "Trump Points Finger At Dems For Stock Market Slide: 'It Will Only Get Worse' - Yahoo",
+    "postId": "3cac737486d869221af2bb20a0b8f94a064aca195a41f80e9e794439bef4172e",
+    "title": "최민희 징계 앞두고 추미애 등판에 정청래도 움직였다…‘깃발’ 든 진짜 이유 (인물비상구 20261122 방송 최민희와 계파갈등 편) - 경향신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45069659226",
-    "sentAt": "2026-11-22T21:01:17.059Z"
+    "runId": "45070643361",
+    "sentAt": "2026-11-22T21:11:14.080Z"
   }
 }
