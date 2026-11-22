@@ -3094,5 +3094,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "62938c0ee9d371c093e82c09c8f69ce99eef266fd90f86d524e3dee5595506e7",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "국힘, 與 조희대 탄핵 추진에 “이게 진짜 내란”…한동훈·이준석도 반발 - 중앙이코노미뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBTQ00zcUdoYVZuNUZ0WXBXdWFpNG4zTXVDOXJIdFRJb0h0ZVZYVWgzZTFBUUd5eDJjQ0lQMXR1X1dJbTJBa2JuNVZ4TVhIbmdacWR5U052aHF0NEhGOFNyQU9XWTI3VVlRb3ppUzNYT1JJUQ?oc=5\" target=\"_blank\">국힘, 與 조희대 탄핵 추진에 “이게 진짜 내란”…한동훈·이준석도 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙이코노미뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTQ00zcUdoYVZuNUZ0WXBXdWFpNG4zTXVDOXJIdFRJb0h0ZVZYVWgzZTFBUUd5eDJjQ0lQMXR1X1dJbTJBa2JuNVZ4TVhIbmdacWR5U052aHF0NEhGOFNyQU9XWTI3VVlRb3ppUzNYT1JJUQ?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 06:18:00 GMT",
+    "source": "중앙이코노미뉴스",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 국힘, 與 조희대 탄핵 추진에 “이게 진짜 내란”…한동훈·이준석도 반발",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "db12f391cfe51a41513915c054c66298fffdba2caf9f2a775c4e94b9fd175e64",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 “당명 바꾸자…범민주진보진영 좋아할 이름으로” - 강원일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XRWxTNkh0Ynk4eHFBbnFoMnlURFNLQUxOOEw0T29YbUR3Tk1YNWtkanRweU9Zc1g4WGR3V0VaYkp2SWc0Rkt1bkZ4WEFfeUFKZWNtRHgzOUlNRmc?oc=5\" target=\"_blank\">조국 “당명 바꾸자…범민주진보진영 좋아할 이름으로”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XRWxTNkh0Ynk4eHFBbnFoMnlURFNLQUxOOEw0T29YbUR3Tk1YNWtkanRweU9Zc1g4WGR3V0VaYkp2SWc0Rkt1bkZ4WEFfeUFKZWNtRHgzOUlNRmc?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 06:25:02 GMT",
+    "source": "강원일보",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 “당명 바꾸자…범민주진보진영 좋아할 이름으로”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

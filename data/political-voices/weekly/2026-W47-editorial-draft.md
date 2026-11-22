@@ -13092,3 +13092,29 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 국힘, 與 조희대 탄핵 추진에 “이게 진짜 내란”…한동훈·이준석도 반발 - 중앙이코노미뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘, 與 조희대 탄핵 추진에 “이게 진짜 내란”…한동훈·이준석도 반발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTFBTQ00zcUdoYVZuNUZ0WXBXdWFpNG4zTXVDOXJIdFRJb0h0ZVZYVWgzZTFBUUd5eDJjQ0lQMXR1X1dJbTJBa2JuNVZ4TVhIbmdacWR5U052aHF0NEhGOFNyQU9XWTI3VVlRb3ppUzNYT1JJUQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “당명 바꾸자…범민주진보진영 좋아할 이름으로” - 강원일보
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “당명 바꾸자…범민주진보진영 좋아할 이름으로”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XRWxTNkh0Ynk4eHFBbnFoMnlURFNLQUxOOEw0T29YbUR3Tk1YNWtkanRweU9Zc1g4WGR3V0VaYkp2SWc0Rkt1bkZ4WEFfeUFKZWNtRHgzOUlNRmc?oc=5)
+
+---
+
