@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T16:03:46.810Z",
+  "lastCheckedAt": "2026-11-22T16:11:14.929Z",
   "seenPostIds": {
     "ba10afa6b7fc695ef1491585b6a9a49a69679aa71fe240230133fc751c3d38cc": {
       "seenAt": "2026-11-19T09:31:19.303Z",
@@ -2500,14 +2500,46 @@
       "seenAt": "2026-11-22T15:41:17.265Z",
       "title": "Trump says it will be 'very hard' to work with Schumer after he predicted deals - USA Today",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "2c4a0c8bc9c1b4591e7108cbc196171602ad298e69d1501cd566c0344dbc32f2": {
+      "seenAt": "2026-11-22T16:11:16.356Z",
+      "title": "김민석 취임 100일, 지지율 10%p 올린다더니 8%p 떨어졌다 - 조선일보",
+      "targetName": "김민석"
+    },
+    "351f873343a129eab019de44d7873d0d42c68e5090f30a7d0f8f92e085d1db4b": {
+      "seenAt": "2026-11-22T16:11:17.189Z",
+      "title": "‘취임 100일’ 김민석, 내부 통합·지지율 반등 과제 - 울산일보",
+      "targetName": "김민석"
+    },
+    "83f791f2a264bf585e00e19bf6847360fde5aadfd1971d58b6394250b5b3ff0a": {
+      "seenAt": "2026-11-22T16:11:17.968Z",
+      "title": "김민석 대표 만든 ‘1인 1표’… 더 커진 강성 당원, 더 깊어진 내홍 - 서울신문",
+      "targetName": "김민석"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "16fefb7b17e08a26211784da60dd8c79a143efaaf9ed215471ef846b55bd0fc2",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석 “민주당은 한 방에 무너질 것… 부끄러운 줄 알라” - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSdm9FODUyMC1Wek5kMTU2YW53MjV2aUt0b1lHbmdDajJDdWU4TERGSjJVZnhhVy1SbU5VUkxxN2VDNEUtUTdrSHJmQ0ZNWmxNa3d2UllCanPSAVRBVV95cUxPV04zS3IzbDZ4akJkelhGRkozSjdMUUlPMnNsTXB0UU1kUWpESDNlYnp0ZUxtWEFTTEtzMEZ0bDMtaHFPNkdIMEtTNHNITjVCQlJSN1A?oc=5\" target=\"_blank\">이준석 “민주당은 한 방에 무너질 것… 부끄러운 줄 알라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSdm9FODUyMC1Wek5kMTU2YW53MjV2aUt0b1lHbmdDajJDdWU4TERGSjJVZnhhVy1SbU5VUkxxN2VDNEUtUTdrSHJmQ0ZNWmxNa3d2UllCanPSAVRBVV95cUxPV04zS3IzbDZ4akJkelhGRkozSjdMUUlPMnNsTXB0UU1kUWpESDNlYnp0ZUxtWEFTTEtzMEZ0bDMtaHFPNkdIMEtTNHNITjVCQlJSN1A?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 04:59:16 GMT",
+        "source": "세계일보",
+        "ageHours": 11.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "afd08e1041a8619d03e949a916dcce722801196d2299db16f3b963f790eae180",
-    "title": "Trump says it will be 'very hard' to work with Schumer after he predicted deals - USA Today",
+    "postId": "83f791f2a264bf585e00e19bf6847360fde5aadfd1971d58b6394250b5b3ff0a",
+    "title": "김민석 대표 만든 ‘1인 1표’… 더 커진 강성 당원, 더 깊어진 내홍 - 서울신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45039651663",
-    "sentAt": "2026-11-22T15:41:16.627Z"
+    "runId": "45042377748",
+    "sentAt": "2026-11-22T16:11:17.564Z"
   }
 }
