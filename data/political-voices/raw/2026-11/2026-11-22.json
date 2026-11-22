@@ -3476,5 +3476,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "fa00eade7a7fff63df0fb761e42a019227e82b7b50dec08c203e16c5217eebeb",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석 \"민주당, 대법원장 탄핵 시 한 방에 무너진다\" - 더팩트",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQLU9sRE1BcjR1NUdYTlgtOW4tRHV6SEphOHh3LVFnZGY3ZFRfSFJaQWszT1FIWGw0RkNycFFJM3k1UEo1SnU1b1hLdHUtXzZSUUpR0gFTQVVfeXFMUFAtT2xETUFyNHU1R1hOWC05bi1EdXpISmE4eHctUWdkZjdkVF9IUlpBazNPUUhYbDRGQ3JwUUkzeTVQSjVKdTVvWEt0dS1fNlJRSlE?oc=5\" target=\"_blank\">이준석 \"민주당, 대법원장 탄핵 시 한 방에 무너진다\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">더팩트</font>",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQLU9sRE1BcjR1NUdYTlgtOW4tRHV6SEphOHh3LVFnZGY3ZFRfSFJaQWszT1FIWGw0RkNycFFJM3k1UEo1SnU1b1hLdHUtXzZSUUpR0gFTQVVfeXFMUFAtT2xETUFyNHU1R1hOWC05bi1EdXpISmE4eHctUWdkZjdkVF9IUlpBazNPUUhYbDRGQ3JwUUkzeTVQSjVKdTVvWEt0dS1fNlJRSlE?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 06:56:00 GMT",
+    "source": "더팩트",
+    "ageHours": 1.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석 \"민주당, 대법원장 탄핵 시 한 방에 무너진다\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
