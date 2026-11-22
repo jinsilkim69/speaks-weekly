@@ -552,5 +552,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "9d86a2cd8bb0dac1a228e0c3869776617c740f8ada6d15a934ddda58caacab39",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의 - 포커스인천",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBqZmI5ek1YVzU0LWh5clA1TDNyX295U2ctaGZkZTVZbk82dTVDeUx2QmNaaHJCb2diakN2cU1IU1EyYm0yN25TTWstOFNYakU3OG03a2VaSEF3eUVza1lTcWhKbEx4LTRnSmd3XzR4QdIBckFVX3lxTE5kLXhsMExhbEFHc1o2bFZaNEJDNXl6TGRraEdzcHVZQ0UxTG96NGpfbnB3OUNvZVZNQk9UYlpnSUx3NGt0QkVxVVFiTC1YUy0wdmFTRThJUXRTWk1NVG40US1CZ1d2aFhIMDlKTGlXRTJQdw?oc=5\" target=\"_blank\">송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">포커스인천</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqZmI5ek1YVzU0LWh5clA1TDNyX295U2ctaGZkZTVZbk82dTVDeUx2QmNaaHJCb2diakN2cU1IU1EyYm0yN25TTWstOFNYakU3OG03a2VaSEF3eUVza1lTcWhKbEx4LTRnSmd3XzR4QdIBckFVX3lxTE5kLXhsMExhbEFHc1o2bFZaNEJDNXl6TGRraEdzcHVZQ0UxTG96NGpfbnB3OUNvZVZNQk9UYlpnSUx3NGt0QkVxVVFiTC1YUy0wdmFTRThJUXRTWk1NVG40US1CZ1d2aFhIMDlKTGlXRTJQdw?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 13:55:49 GMT",
+    "source": "포커스인천",
+    "ageHours": 8.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

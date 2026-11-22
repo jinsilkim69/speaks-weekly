@@ -287,3 +287,16 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의 - 포커스인천
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBqZmI5ek1YVzU0LWh5clA1TDNyX295U2ctaGZkZTVZbk82dTVDeUx2QmNaaHJCb2diakN2cU1IU1EyYm0yN25TTWstOFNYakU3OG03a2VaSEF3eUVza1lTcWhKbEx4LTRnSmd3XzR4QdIBckFVX3lxTE5kLXhsMExhbEFHc1o2bFZaNEJDNXl6TGRraEdzcHVZQ0UxTG96NGpfbnB3OUNvZVZNQk9UYlpnSUx3NGt0QkVxVVFiTC1YUy0wdmFTRThJUXRTWk1NVG40US1CZ1d2aFhIMDlKTGlXRTJQdw?oc=5)
+
+---
+
