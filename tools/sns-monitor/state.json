@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T08:41:13.500Z",
+  "lastCheckedAt": "2026-11-22T08:51:16.843Z",
   "seenPostIds": {
-    "d7449bc7f884b363cf20bf07a202bf50c6e0c117828fd6ec7ae2929cb3b6179c": {
-      "seenAt": "2026-11-19T06:11:18.900Z",
-      "title": "최민희 징계에 친청계 반격…정청래·추미애 \"김민석 전대 발언부터\" - www.hidomin.com",
-      "targetName": "김민석"
-    },
-    "8350a60b612c014648d0d1e4525e537be5e793293fdbfd6949a1b1e6c009da07": {
-      "seenAt": "2026-11-19T06:11:19.649Z",
-      "title": "[손병관의 뉴스프레소] 정청래 \"최민희 징계 반대\"... 김민석 겨냥 \"타이밍 조절했나\" - OhmyNews",
-      "targetName": "정청래"
-    },
     "380157952633fb7160c31154feb0e4a56491d96e95e7ca61ae3da88b3d2566d7": {
       "seenAt": "2026-11-19T06:21:17.271Z",
       "title": "장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망 - 뉴데일리",
@@ -2510,14 +2500,46 @@
       "seenAt": "2026-11-22T08:41:15.478Z",
       "title": "Donald Trump Posts ‘My Friend’ Photo With Putin and Yalta Comparison - Kyiv Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "596d96b77f208f5aefbc8aabd71e20de4df9a579fc5fe415378f50f97f064c0f": {
+      "seenAt": "2026-11-22T08:51:18.955Z",
+      "title": "오세훈·한동훈, 與 조희대 탄핵 추진에 맹공…“사법부 장악·친위쿠데타” - 세계일보",
+      "targetName": "한동훈"
+    },
+    "6817acab5a0151171b2d3939e3223a0f97c6e177c9feccfa89e2dca6fe6da457": {
+      "seenAt": "2026-11-22T08:51:19.729Z",
+      "title": "김민석 대표 100일…당정 소통 성과에도 계파갈등 난제 : 정치 - 재경일보",
+      "targetName": "김민석"
+    },
+    "1223809ffad3690bb5d2075d37b78aafa2b28c512aad44f418abe81ac3ebd53c": {
+      "seenAt": "2026-11-22T08:51:20.553Z",
+      "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 코리아 이슈저널",
+      "targetName": "송영길"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "575e5c8691bed46b5fc90ca570e530f90a0d41e06a6671411259366466bbb320",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "“근조 민주당”…이준석이 찌른 조희대 탄핵의 급소 - OBC 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAydFJMejVXeVRNYnlfNHRIcF9OQU91N3VVVGwyOVh2akJCMGV2QWVrNVA5SWxvRld0Rko2QjdYZnNqS21XTEZhOVdiV0N1a1JHd1NEZ3BvcE1UZWZHUFJ1ZDBTYzRQbU5DLWc?oc=5\" target=\"_blank\">“근조 민주당”…이준석이 찌른 조희대 탄핵의 급소</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OBC 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAydFJMejVXeVRNYnlfNHRIcF9OQU91N3VVVGwyOVh2akJCMGV2QWVrNVA5SWxvRld0Rko2QjdYZnNqS21XTEZhOVdiV0N1a1JHd1NEZ3BvcE1UZWZHUFJ1ZDBTYzRQbU5DLWc?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 08:36:54 GMT",
+        "source": "OBC 뉴스",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "33442711072ce0ca22dff39fdd69d4e60b72a5f482da4aa4607df100af6a99b3",
-    "title": "Donald Trump Posts ‘My Friend’ Photo With Putin and Yalta Comparison - Kyiv Post",
+    "postId": "1223809ffad3690bb5d2075d37b78aafa2b28c512aad44f418abe81ac3ebd53c",
+    "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 코리아 이슈저널",
     "bot": "jongsuk_pol_bot",
-    "runId": "45003946273",
-    "sentAt": "2026-11-22T08:41:15.148Z"
+    "runId": "45004716427",
+    "sentAt": "2026-11-22T08:51:20.147Z"
   }
 }
