@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T18:21:16.735Z",
+  "lastCheckedAt": "2026-11-22T18:31:18.986Z",
   "seenPostIds": {
     "ea18eb4f2d139f1e87fb9a29997d861dff0b7a9a0fdcb8693266053faab74f0a": {
       "seenAt": "2026-11-19T10:21:18.392Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-22T17:51:14.722Z",
       "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
       "targetName": "김민석"
+    },
+    "9c5acb0dd1ad5137829748c131cc72b2a9f29327ac809d62ad198c5222f557cd": {
+      "seenAt": "2026-11-22T18:31:20.427Z",
+      "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "5326c4dde6165cda97556b41e62b6689707bed0db497cddd68ac8a9cc443e3bf",
-    "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
+    "postId": "9c5acb0dd1ad5137829748c131cc72b2a9f29327ac809d62ad198c5222f557cd",
+    "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader - The Hill",
     "bot": "jongsuk_pol_bot",
-    "runId": "45051734466",
-    "sentAt": "2026-11-22T17:51:14.233Z"
+    "runId": "45055519179",
+    "sentAt": "2026-11-22T18:31:19.887Z"
   }
 }
