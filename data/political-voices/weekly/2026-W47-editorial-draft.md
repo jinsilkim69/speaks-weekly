@@ -12624,3 +12624,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "AI 부정행위 차단 법적 근거 정비 지시" - 데일리메이커
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "AI 부정행위 차단 법적 근거 정비 지시"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MNFIzeHl6SlgxSmNjY2VQc0FyQTZ5R0ZYaDA2U2FIWTdqU2p0bHZLVEhRUVJNbExkaExMM1R0bU1QckxSc0tqemdUYVVOSlctQmxXSEgtUEtvcnpUSDN6anVBaWdoQQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump, 80, Goes Full Sycophant in Wild 35-Post Spree - Yahoo
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump, 80, Goes Full Sycophant in Wild 35-Post Spree
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTC1rS25wM3pyOVU1Uy1iSlhaRkU1X3REVmUtbkNOZ1F1MVlia2FHRGZVWm5QZmkyYTh5RnZBN0hodk1PVTFxMmFmODZJV1pOUGplbElCNFM4N2ZDRFcwblhMcF9DUjNRTG9Pa0ljWmVBcVhSc2NidEpmVWgzLTE2N3pLcEE1SHBxRXZKQUtn?oc=5)
+
+---
+
