@@ -13612,3 +13612,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '조작 징계'후폭풍…한동훈 복당 탄력? - 부산경남대표방송 KNN 뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '조작 징계'후폭풍…한동훈 복당 탄력?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FQ2ExRmpGRzBScXU2N25TZ1NrTTlTc2JiRkFlQkxYaTJxa3c4OG5WRGJKZndUOVVjeS1nMDFpa0x0TDdSdkNSTmRMWEtjb0lvMEtMMg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijAFBVV95cUxONzg4ZEQyY0RZSnEwMm9GcDBibmQ2LVRyYks1RWMtTVh1cmxGdEpDN1RpdlFvZk1zdFdxNmo5YmppNnhUbXl0V182RnctcnYzYUxESUw0djJabWtjOVhleENXOENBXzNCYzhlNmpONVVVSjRfM1FaMnR6WmFpZmtIVGFBbGFpS2lpdktGag?oc=5)
+
+---
+
