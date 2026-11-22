@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T01:31:14.779Z",
+  "lastCheckedAt": "2026-11-22T01:41:14.267Z",
   "seenPostIds": {
-    "76485ba141dfad4ad40b028546fdcb10f79810f46ad92c0b45a0d91658ae64c2": {
-      "seenAt": "2026-11-18T14:11:21.062Z",
-      "title": "Trump touts ‘landmark’ trade deal with Philippines - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "e22f0b91de350bc9b999bfcd1ccd498e7309faadc88ab8d7e94345a816bb4d43": {
-      "seenAt": "2026-11-18T15:01:18.541Z",
-      "title": "추경호 무죄에 한동훈 `배신자 프레임` 확산…안철수 `이제 당이 단죄할 시간` - 매일신문",
-      "targetName": "한동훈"
-    },
-    "1363668c08105275fa32127490a772087c11501bc17d6e94c761626f1d8f1066": {
-      "seenAt": "2026-11-18T15:01:19.185Z",
-      "title": "조국, 일제 필기구 애용했는데도 입국 거절 왜? - 월간조선",
-      "targetName": "조국"
-    },
     "3b54628479b2890b0a57adb996805e24104d6352b9409789697b3f23cafadb58": {
       "seenAt": "2026-11-18T15:41:20.857Z",
       "title": "장동혁, 추경호 무죄에 주도권 강화?…한동훈 '배신자 프레임' 거세지나 - 더팩트",
@@ -2515,31 +2500,19 @@
       "seenAt": "2026-11-22T01:31:17.886Z",
       "title": "조국 “당명 개정 제안…당명 속 ‘조국’이 제 이름은 아니지만” - 한겨레",
       "targetName": "조국"
+    },
+    "4f8e2ac874545b300604aee81d8b34b655a03fc95c3787bd3c6c8c00bfc623b5": {
+      "seenAt": "2026-11-22T01:41:15.575Z",
+      "title": "조국혁신당 ‘조국’ 빠진다···“확장성 있는 당명 필요” - 주간경향",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "4f8e2ac874545b300604aee81d8b34b655a03fc95c3787bd3c6c8c00bfc623b5",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 ‘조국’ 빠진다···“확장성 있는 당명 필요” - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SM29OVjNfOTlEQ0pkMFFTdVZpbUFZY1FYck1lcFhncjRJWmNsb19RbGZUWU4wOWJOSlhCRkwwVHU5cWRVd2d0VzhKQzc5akFGbzJSMWpfdE1kcXVtUUE?oc=5\" target=\"_blank\">조국혁신당 ‘조국’ 빠진다···“확장성 있는 당명 필요”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SM29OVjNfOTlEQ0pkMFFTdVZpbUFZY1FYck1lcFhncjRJWmNsb19RbGZUWU4wOWJOSlhCRkwwVHU5cWRVd2d0VzhKQzc5akFGbzJSMWpfdE1kcXVtUUE?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 01:21:00 GMT",
-        "source": "주간경향",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "9e94ae197b188bc18eb6f041feb115c5b1838f9cf2c45ac0394d2faf95802a12",
-    "title": "조국 “당명 개정 제안…당명 속 ‘조국’이 제 이름은 아니지만” - 한겨레",
+    "postId": "4f8e2ac874545b300604aee81d8b34b655a03fc95c3787bd3c6c8c00bfc623b5",
+    "title": "조국혁신당 ‘조국’ 빠진다···“확장성 있는 당명 필요” - 주간경향",
     "bot": "jongsuk_pol_bot",
-    "runId": "44971817650",
-    "sentAt": "2026-11-22T01:31:17.488Z"
+    "runId": "44972591973",
+    "sentAt": "2026-11-22T01:41:14.938Z"
   }
 }

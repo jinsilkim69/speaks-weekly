@@ -1556,5 +1556,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4f8e2ac874545b300604aee81d8b34b655a03fc95c3787bd3c6c8c00bfc623b5",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당 ‘조국’ 빠진다···“확장성 있는 당명 필요” - 주간경향",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SM29OVjNfOTlEQ0pkMFFTdVZpbUFZY1FYck1lcFhncjRJWmNsb19RbGZUWU4wOWJOSlhCRkwwVHU5cWRVd2d0VzhKQzc5akFGbzJSMWpfdE1kcXVtUUE?oc=5\" target=\"_blank\">조국혁신당 ‘조국’ 빠진다···“확장성 있는 당명 필요”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SM29OVjNfOTlEQ0pkMFFTdVZpbUFZY1FYck1lcFhncjRJWmNsb19RbGZUWU4wOWJOSlhCRkwwVHU5cWRVd2d0VzhKQzc5akFGbzJSMWpfdE1kcXVtUUE?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 01:21:00 GMT",
+    "source": "주간경향",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당 ‘조국’ 빠진다···“확장성 있는 당명 필요”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
