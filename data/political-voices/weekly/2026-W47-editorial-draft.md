@@ -13378,3 +13378,29 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** “근조 민주당”…이준석이 찌른 조희대 탄핵의 급소 - OBC 뉴스
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “근조 민주당”…이준석이 찌른 조희대 탄핵의 급소
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFAydFJMejVXeVRNYnlfNHRIcF9OQU91N3VVVGwyOVh2akJCMGV2QWVrNVA5SWxvRld0Rko2QjdYZnNqS21XTEZhOVdiV0N1a1JHd1NEZ3BvcE1UZWZHUFJ1ZDBTYzRQbU5DLWc?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 취임 100일 이틀 앞둔 김민석…지지율 반등 약속은 ‘역주행’ - 매일경제
+
+- **수집일**: 2026-11-22 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 취임 100일 이틀 앞둔 김민석…지지율 반등 약속은 ‘역주행’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iVWstYTRwMWk5QkZWTnV2SFVJS2FURnNfZ24yTUNsOGNZQTFGSVZaZDlhTTBFRXllcVE5czNJZlZQeTZJQURscDh5N0ZDRWVCeUVuWHNB?oc=5)
+
+---
+

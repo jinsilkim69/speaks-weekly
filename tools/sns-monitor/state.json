@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-22T08:51:16.843Z",
+  "lastCheckedAt": "2026-11-22T09:01:14.237Z",
   "seenPostIds": {
-    "380157952633fb7160c31154feb0e4a56491d96e95e7ca61ae3da88b3d2566d7": {
-      "seenAt": "2026-11-19T06:21:17.271Z",
-      "title": "장동혁·안철수·이준석, '한동훈 빼고' … 韓과 푸닥거리 없던 오세훈만 관망 - 뉴데일리",
-      "targetName": "한동훈"
-    },
-    "30f68013fdad768d1e0b5db80a64c2afa74a6b7d88d60985977c1a40ce10d31e": {
-      "seenAt": "2026-11-19T06:41:18.081Z",
-      "title": "차기 대선후보는 누구?...오세훈 17.8%·김민석 14.1%·한동훈 13.1% [코리아정보리서치] - 중앙신문",
-      "targetName": "한동훈"
-    },
-    "c9010235880b460d1e1bd827844bdcd664cdda59b31e50df238ac651299ca1b1": {
-      "seenAt": "2026-11-19T06:41:18.864Z",
-      "title": "정청래 징계 반대…최민희 해명 믿는다, 녹취록 공개 시점에도 의문 - CBC뉴스",
-      "targetName": "정청래"
-    },
     "25339cb336e8e712d4b568853998cee8e6e66c3f55d60e179cdec5786e422c16": {
       "seenAt": "2026-11-19T06:51:17.371Z",
       "title": "야당, 이재명 대통령 조작기소특검법 재가 맹비난 - 기호일보",
@@ -2515,31 +2500,24 @@
       "seenAt": "2026-11-22T08:51:20.553Z",
       "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 코리아 이슈저널",
       "targetName": "송영길"
+    },
+    "575e5c8691bed46b5fc90ca570e530f90a0d41e06a6671411259366466bbb320": {
+      "seenAt": "2026-11-22T09:01:15.597Z",
+      "title": "“근조 민주당”…이준석이 찌른 조희대 탄핵의 급소 - OBC 뉴스",
+      "targetName": "이준석"
+    },
+    "5df7d9254a59e9df8383f89ff8b097b2c6f34d546112ad332bcb7ace5b2ca287": {
+      "seenAt": "2026-11-22T09:01:16.313Z",
+      "title": "취임 100일 이틀 앞둔 김민석…지지율 반등 약속은 ‘역주행’ - 매일경제",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "575e5c8691bed46b5fc90ca570e530f90a0d41e06a6671411259366466bbb320",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "“근조 민주당”…이준석이 찌른 조희대 탄핵의 급소 - OBC 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAydFJMejVXeVRNYnlfNHRIcF9OQU91N3VVVGwyOVh2akJCMGV2QWVrNVA5SWxvRld0Rko2QjdYZnNqS21XTEZhOVdiV0N1a1JHd1NEZ3BvcE1UZWZHUFJ1ZDBTYzRQbU5DLWc?oc=5\" target=\"_blank\">“근조 민주당”…이준석이 찌른 조희대 탄핵의 급소</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OBC 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAydFJMejVXeVRNYnlfNHRIcF9OQU91N3VVVGwyOVh2akJCMGV2QWVrNVA5SWxvRld0Rko2QjdYZnNqS21XTEZhOVdiV0N1a1JHd1NEZ3BvcE1UZWZHUFJ1ZDBTYzRQbU5DLWc?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 08:36:54 GMT",
-        "source": "OBC 뉴스",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "1223809ffad3690bb5d2075d37b78aafa2b28c512aad44f418abe81ac3ebd53c",
-    "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 코리아 이슈저널",
+    "postId": "5df7d9254a59e9df8383f89ff8b097b2c6f34d546112ad332bcb7ace5b2ca287",
+    "title": "취임 100일 이틀 앞둔 김민석…지지율 반등 약속은 ‘역주행’ - 매일경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45004716427",
-    "sentAt": "2026-11-22T08:51:20.147Z"
+    "runId": "45005470777",
+    "sentAt": "2026-11-22T09:01:15.937Z"
   }
 }

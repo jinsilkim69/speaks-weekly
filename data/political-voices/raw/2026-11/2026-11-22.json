@@ -3653,5 +3653,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "575e5c8691bed46b5fc90ca570e530f90a0d41e06a6671411259366466bbb320",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "“근조 민주당”…이준석이 찌른 조희대 탄핵의 급소 - OBC 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAydFJMejVXeVRNYnlfNHRIcF9OQU91N3VVVGwyOVh2akJCMGV2QWVrNVA5SWxvRld0Rko2QjdYZnNqS21XTEZhOVdiV0N1a1JHd1NEZ3BvcE1UZWZHUFJ1ZDBTYzRQbU5DLWc?oc=5\" target=\"_blank\">“근조 민주당”…이준석이 찌른 조희대 탄핵의 급소</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OBC 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAydFJMejVXeVRNYnlfNHRIcF9OQU91N3VVVGwyOVh2akJCMGV2QWVrNVA5SWxvRld0Rko2QjdYZnNqS21XTEZhOVdiV0N1a1JHd1NEZ3BvcE1UZWZHUFJ1ZDBTYzRQbU5DLWc?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 08:36:54 GMT",
+    "source": "OBC 뉴스",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “근조 민주당”…이준석이 찌른 조희대 탄핵의 급소",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "5df7d9254a59e9df8383f89ff8b097b2c6f34d546112ad332bcb7ace5b2ca287",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "취임 100일 이틀 앞둔 김민석…지지율 반등 약속은 ‘역주행’ - 매일경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iVWstYTRwMWk5QkZWTnV2SFVJS2FURnNfZ24yTUNsOGNZQTFGSVZaZDlhTTBFRXllcVE5czNJZlZQeTZJQURscDh5N0ZDRWVCeUVuWHNB?oc=5\" target=\"_blank\">취임 100일 이틀 앞둔 김민석…지지율 반등 약속은 ‘역주행’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iVWstYTRwMWk5QkZWTnV2SFVJS2FURnNfZ24yTUNsOGNZQTFGSVZaZDlhTTBFRXllcVE5czNJZlZQeTZJQURscDh5N0ZDRWVCeUVuWHNB?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 00:34:27 GMT",
+    "source": "매일경제",
+    "ageHours": 8.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 취임 100일 이틀 앞둔 김민석…지지율 반등 약속은 ‘역주행’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
