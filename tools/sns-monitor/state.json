@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T22:51:14.264Z",
+  "lastCheckedAt": "2026-11-22T23:01:13.108Z",
   "seenPostIds": {
     "3fe30fcee1781d7c4828041278ee3cf39de3c122e168a4d05533650c328f6cbe": {
       "seenAt": "2026-11-19T12:21:18.989Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-22T22:21:15.181Z",
       "title": "송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의 - 포커스인천",
       "targetName": "송영길"
+    },
+    "3b420d7cf443ee88512ceebf07ceac8bc7e1d6c8a6dab3c4023153746dafb730": {
+      "seenAt": "2026-11-22T23:01:14.111Z",
+      "title": "U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate' - PBS",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "9d86a2cd8bb0dac1a228e0c3869776617c740f8ada6d15a934ddda58caacab39",
-    "title": "송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의 - 포커스인천",
+    "postId": "3b420d7cf443ee88512ceebf07ceac8bc7e1d6c8a6dab3c4023153746dafb730",
+    "title": "U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate' - PBS",
     "bot": "jongsuk_pol_bot",
-    "runId": "45077219597",
-    "sentAt": "2026-11-22T22:21:14.694Z"
+    "runId": "45080883173",
+    "sentAt": "2026-11-22T23:01:13.633Z"
   }
 }
