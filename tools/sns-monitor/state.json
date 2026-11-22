@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T12:01:22.428Z",
+  "lastCheckedAt": "2026-11-22T12:11:19.147Z",
   "seenPostIds": {
     "97db7f8ecd749e564bee233ceb56629196d2deff8791d589b0ae56cdff0442e7": {
       "seenAt": "2026-11-19T08:21:18.148Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-22T11:31:17.603Z",
       "title": "Trump posts tribute to ‘friend’ Putin - The Telegraph",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f8a4f95a4b228ed0e8f577f2c1d5cf69123a633bfd53d4af5a3e6d6b3c470c22": {
+      "seenAt": "2026-11-22T12:11:20.340Z",
+      "title": "김민석, 당대표·범진보 대선주자 모두 선두…민주당 지지층서 우위 [쿠키뉴스 여론조사] - 쿠키뉴스",
+      "targetName": "김민석"
+    },
+    "b13fcad3b676f3cd6175a316a941c77fe06d3aa4c617175a3a0a8316238a5788": {
+      "seenAt": "2026-11-22T12:11:20.950Z",
+      "title": "‘취임 100일’ 김민석…‘최민희 징계’ 해법 내놓나 - 채널A",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "5007521396e306ca82347916dabe96d17e3a61f0ceac611d8e9c298f9d53dba6",
-    "title": "Trump posts tribute to ‘friend’ Putin - The Telegraph",
+    "postId": "b13fcad3b676f3cd6175a316a941c77fe06d3aa4c617175a3a0a8316238a5788",
+    "title": "‘취임 100일’ 김민석…‘최민희 징계’ 해법 내놓나 - 채널A",
     "bot": "jongsuk_pol_bot",
-    "runId": "45017704556",
-    "sentAt": "2026-11-22T11:31:16.944Z"
+    "runId": "45020957954",
+    "sentAt": "2026-11-22T12:11:20.638Z"
   }
 }
