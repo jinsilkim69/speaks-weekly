@@ -4443,5 +4443,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4288989787c77a0798a61e0c0b1eec390fd686cfd057a5e99f5e48923214d2d9",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWVEeGZOX0J3TWk5T3JxbWx2eWhvSmh2dFIzX3p4U3dub3V4dkE0NmVMQmJJM3U2SjdfelVlRmFPRTFqUXBXZkllTVZrQXRwN21vQk9FWVE4eEZBTURROTNDLVRyS0ZvQndCUHdYLTlEaFJ4RmhKVTBfUjhTVzBVVw?oc=5\" target=\"_blank\">Trump condemned over ‘gutter racism’ in shocking Truth Social post</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indy100</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWVEeGZOX0J3TWk5T3JxbWx2eWhvSmh2dFIzX3p4U3dub3V4dkE0NmVMQmJJM3U2SjdfelVlRmFPRTFqUXBXZkllTVZrQXRwN21vQk9FWVE4eEZBTURROTNDLVRyS0ZvQndCUHdYLTlEaFJ4RmhKVTBfUjhTVzBVVw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 10:01:46 GMT",
+    "source": "Indy100",
+    "ageHours": 3.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump condemned over ‘gutter racism’ in shocking Truth Social post",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
