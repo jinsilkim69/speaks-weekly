@@ -716,3 +716,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치 - 연합뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBweDd4cVFSRkRpMmpnSEo3Q196ektzTHhvS0M3MUFTaTFFQ1lYY3YzZkIxSlpNTWJ0bklDYUhrYjYyMjZUTjNUVkJpNWV0VGMwc1d2QXJ6YUZDS1nSAWBBVV95cUxNZFIwa3BmVE9Gbk11MndhMzAwWVpZUGh6bDlWTG1CU1QtNDBTN01XZURITkFwbERpU1NmUlkwQ0VkWVhqZFYzVGxRWlJJTWg3dTFfMjdwVVBfeV9IX0VpeU8?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의 - 포커스인천
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1fejdlNWQ4eXBLR2sxZzBxc3pYTDhWUGRVLWcwaHgtM0dKT1IzaWRwYlJuVnlxRUFpaENsbGlycWx6aVJCVW40QVhhWUlsX3FudW56X1Y3VXRfQ054LVk2OVI2b2hubDA5ekEyR3pB0gFyQVVfeXFMTmQteGwwTGFsQUdzWjZsVlo0QkM1eXpMZGtoR3NwdVlDRTFMb3o0al9ucHc5Q29lVk1CT1RiWmdJTHc0a3RCRXFVUWJMLVhTLTB2YVNFOElRdFNaTU1UbjRRLUJnV3ZoWEgwOUpMaVdFMlB3?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** “당명 속 ‘조국’ 제 이름은 아니지만”…당명 개정 제안, 확장성 강조 - 동아일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “당명 속 ‘조국’ 제 이름은 아니지만”…당명 개정 제안, 확장성 강조
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE00bDZoVmhyWHpmcjZ5VHo0QVF3TEI4NXUtTF9xSkdna05SdnRQTmVvRWM0UC1LY2liSnFvQVc3NXBybEw2QjZILXlLenNVR0pILVNURGtadDROWlBwWnQzLVhhU1RRX0RCSm4tbUdTMG82YURHekkw0gFmQVVfeXFMUHUzMTVxYjJJcmd2bmpJNVpvNXdfUjRabUF2clRoaWxRTi1jQjgzS3VudUp0bzh1LXI3Ymd3dUlhS3kzUEVGZGtMSlhxNGdqRFhVaFdLR0FxYTR6WVk2OU83bUdEc0dR?oc=5)
+
+---
+
