@@ -3693,5 +3693,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "3e625d47a2e41de5757e4983b3319a53099c25373f205ceb171f5fd2e55016a2",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump threatens fresh strikes on Iran if diplomacy fails - The Arab Weekly",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFN3aHFhMEtwUHhCU0dzUFM1WkJkeHk3X3BSbXgtMFBJeTgzUFRyWExuclEzcnZidFBuTGlwTGVTNm00RjY0QlQ2WmRXbUd2UXpPem10NF9GSlZjNWFrZnZuclFGMEpsV0hNWXpQTWloS1B0X2pPSlRxQW94ZHdZWlYwYU9Ndw?oc=5\" target=\"_blank\">Trump threatens fresh strikes on Iran if diplomacy fails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arab Weekly</font>",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFN3aHFhMEtwUHhCU0dzUFM1WkJkeHk3X3BSbXgtMFBJeTgzUFRyWExuclEzcnZidFBuTGlwTGVTNm00RjY0QlQ2WmRXbUd2UXpPem10NF9GSlZjNWFrZnZuclFGMEpsV0hNWXpQTWloS1B0X2pPSlRxQW94ZHdZWlYwYU9Ndw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 08:52:17 GMT",
+    "source": "The Arab Weekly",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump threatens fresh strikes on Iran if diplomacy fails",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

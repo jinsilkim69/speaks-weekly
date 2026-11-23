@@ -1912,3 +1912,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump threatens fresh strikes on Iran if diplomacy fails - The Arab Weekly
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump threatens fresh strikes on Iran if diplomacy fails
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFN3aHFhMEtwUHhCU0dzUFM1WkJkeHk3X3BSbXgtMFBJeTgzUFRyWExuclEzcnZidFBuTGlwTGVTNm00RjY0QlQ2WmRXbUd2UXpPem10NF9GSlZjNWFrZnZuclFGMEpsV0hNWXpQTWloS1B0X2pPSlRxQW94ZHdZWlYwYU9Ndw?oc=5)
+
+---
+

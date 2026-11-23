@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T09:11:13.694Z",
+  "lastCheckedAt": "2026-11-23T09:21:14.685Z",
   "seenPostIds": {
-    "c3612e3731563d0f60b784a15e7bc370ea3ebfcf3c693b24a3d501106844fcd3": {
-      "seenAt": "2026-11-20T05:11:18.255Z",
-      "title": "조희대 탄핵 관련 기자회견하는 신장식 대표 - 서울뉴스통신",
-      "targetName": "신장식"
-    },
-    "168c7dbb91d5f138233256388c3fe9913aace3f514ea20a946870d807e981472": {
-      "seenAt": "2026-11-20T05:21:23.797Z",
-      "title": "신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" #shorts - OhmyNews",
-      "targetName": "신장식"
-    },
     "cf200b345ff90ecc14b958042c95ddfb3286560083da09fc4a9dbb31c41dd580": {
       "seenAt": "2026-11-20T05:21:24.546Z",
       "title": "신장식 \"조희대 탄핵 더 미룰 이유 없다⋯내일 본회의서 표결 가능\" - 아이뉴스24",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-23T09:11:15.673Z",
       "title": "신장식 의원·농민단체 '농지 소유 특례보다 실경작자 보호 우선' - 전북타임즈",
       "targetName": "신장식"
+    },
+    "3e625d47a2e41de5757e4983b3319a53099c25373f205ceb171f5fd2e55016a2": {
+      "seenAt": "2026-11-23T09:21:15.978Z",
+      "title": "Trump threatens fresh strikes on Iran if diplomacy fails - The Arab Weekly",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "fa2167e1a16c4a1938bfdb562a31b6cad7af23813e8efb063277feb84e21b766",
-    "title": "신장식 의원·농민단체 '농지 소유 특례보다 실경작자 보호 우선' - 전북타임즈",
+    "postId": "3e625d47a2e41de5757e4983b3319a53099c25373f205ceb171f5fd2e55016a2",
+    "title": "Trump threatens fresh strikes on Iran if diplomacy fails - The Arab Weekly",
     "bot": "jongsuk_pol_bot",
-    "runId": "45144732992",
-    "sentAt": "2026-11-23T09:11:15.345Z"
+    "runId": "45146208641",
+    "sentAt": "2026-11-23T09:21:15.357Z"
   }
 }
