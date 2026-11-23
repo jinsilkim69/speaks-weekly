@@ -2484,3 +2484,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [김종석의 리포트]“尹 사형 구형일 맞춰 한동훈 제명” - 채널A
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “尹 사형 구형일 맞춰 한동훈 제명”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaUGtFTVBrQXJxd3RmVXVVN3ZVYTJSbTNXbFREOHlkdzV2SU9LeWlUYkNnTEEzTTJ6OXVUYlRQVHlNZklGbjNpMG9QRmJES183Q3FmNWRfZDByMGJUNnfSAWNBVV95cUxPX0JOYXFOMVZUTC1wenlaTG9TTm4tcUVtbGJKTWlCR0JTdHA4TFdaX3BFMWt1RWx5OHB1VlFWcktSYXNFckZmUm5sN09uWl9XV0YzUGdRMWF5a19GbjZvWU14Xzg?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Hours before Nvidia board announced Huang’s return, President Donald Trump endorsed his reinstatement in a Truth Social post - CNN
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Hours before Nvidia board announced Huang’s return, President Donald Trump endorsed his reinstatement in a Truth Social post
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAJBVV95cUxQcjhCSGIwLV9SOTZId2gybUI2czl3TTViV1ppY2NxSHN6a1FoQmE3akZ2S19FNURVWXN0UWxqdzNLX0EzdUdlWmxPdE5XcXd4QkNpU3JkazJkcmZ5YzFGVlFlS2REdW4yWHoyWG9MblhVcmR1V2NwY3lYVzFpVFUxYmpfRndjSjl3N1plaWNUVmxlMG9ob3ZISVl6ZUhMN0RmRUVYNUlxcUZTWG5PRm83MmdvdnB4S25HdzUtdGozdy1RYV9zVXZUVzBkNG9wR0ZmeVVNeHBWX1FyXy15MFFmVUVMTXgwM3ZpQW1mUEpITGJucEtPQUNpN29PLU93WTFV?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Successfully Begs for Jensen Huang’s Return - The New Republic
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Successfully Begs for Jensen Huang’s Return
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMifEFVX3lxTE5EeGZzR3NocUllYUNVNjZnbmx4V2pQTUFKTUlmQWxhYmlrWENhTVdaRkpudTRqZ0NoXzd3aTAzM2NubXpZUTlpWU82dVVpVllvOU1nWFU0bmt2RHh2R0MtM19MamJILTJ0UER6V0dBQ2ZTVEZ3aUFNdlI4ZnU?oc=5)
+
+---
+

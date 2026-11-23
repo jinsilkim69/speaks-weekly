@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T14:42:08.344Z",
+  "lastCheckedAt": "2026-11-23T14:51:16.269Z",
   "seenPostIds": {
-    "c44fce39583aa3b74d70abd9c4ceaa63abfdf529870fb19f5d9c42dc56b973a7": {
-      "seenAt": "2026-11-20T10:41:18.251Z",
-      "title": "[포토] 비공개 의원총회 참석 위해 이동하는 정청래 의원 - 파이낸스투데이",
-      "targetName": "정청래"
-    },
-    "32428b4bfbdbe8d3e692d12bdec7815a9626f7016fee1afba53eedd5b80e10f8": {
-      "seenAt": "2026-11-20T10:41:18.878Z",
-      "title": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "450b1d7468b9561898931355f4a6d03f40b8377ff4a2e2e156a1f78d209f7991": {
       "seenAt": "2026-11-20T11:11:21.307Z",
       "title": "김민석, 수출 1조달러에 \"日도 도달 못한 숫자…국민 모두의 성과\" - 머니투데이 - 머니투데이",
@@ -2510,14 +2500,46 @@
       "seenAt": "2026-11-23T14:42:10.953Z",
       "title": "Trump urges Nvidia to rehire Jensen Huang and attacks Somalis in Truth Social spree - The Independent",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "fb778f8098f8c64fffaff55b6f7dc6e5b82bc1b9530c7e794f74d67d3bb78983": {
+      "seenAt": "2026-11-23T14:51:17.440Z",
+      "title": "[김종석의 리포트]“尹 사형 구형일 맞춰 한동훈 제명” - 채널A",
+      "targetName": "한동훈"
+    },
+    "c8e519ce0524c76dd2c9a7c02ae2260cf3741a846c06775070e16556f6f97d40": {
+      "seenAt": "2026-11-23T14:51:18.080Z",
+      "title": "Hours before Nvidia board announced Huang’s return, President Donald Trump endorsed his reinstatement in a Truth Social post - CNN",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "7ff10bcdc53ecca7d14378b4b985107cd977aa249b73b04176ab8b0bef0d3b5d": {
+      "seenAt": "2026-11-23T14:51:18.713Z",
+      "title": "Trump Successfully Begs for Jensen Huang’s Return - The New Republic",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "8b3568a699dc9f65ffa4439adcbbbeda402033f74d7cf91a02422e0a88232f51",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump doubles down on call for Nvidia to rehire Jensen Huang amid alleged Chinese spy scandal - Fox Business",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxONFJrVGN5d3FSZlNoRDBkX29hc0tMNG5EaHAzenpHMnJ0QnVpemQwY3ZHRkJTU2NoU0Vzd2tpR0ZndU9QcWw3cDd1aV9GZ3R3djQ4c0hYbkduSWNDdG1ZTklzRlJHUTh4RkR2Y1hicUZHUXVCcGJZbURSLW9BVUVCTXVocEFxWUdxWWNZUmUxV3p0eWlGTlNlZlpJcW1iOXNDTXRFaEZhaUtWblJjS0t3NXhkMGJaeWJqZ1hFeNIBwgFBVV95cUxNYlZiaHhyS1Vqbnk5YlZVZWNxUm1UaFNCc0FYTXE4dTJqMktQZVN0UjBHYnlabXFRd0ZTSWwwenV1YmdVU1BGYzVvLTJpd2lWQ3Y1MmtKMDNtQWl3VEUxb2F3T24wY2tfYmVHZjNXQlF4N0JrQmJWTXVFMnlZRVJFQTBDcnJlZjI0ZVg3V2t3NnNaSEJGdzVPN1NxdnhFXzY2b3VVbWlxOHJDTXNVa1JWQks5LWFoWW5zZ2ozbVFEWl93QQ?oc=5\" target=\"_blank\">Trump doubles down on call for Nvidia to rehire Jensen Huang amid alleged Chinese spy scandal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONFJrVGN5d3FSZlNoRDBkX29hc0tMNG5EaHAzenpHMnJ0QnVpemQwY3ZHRkJTU2NoU0Vzd2tpR0ZndU9QcWw3cDd1aV9GZ3R3djQ4c0hYbkduSWNDdG1ZTklzRlJHUTh4RkR2Y1hicUZHUXVCcGJZbURSLW9BVUVCTXVocEFxWUdxWWNZUmUxV3p0eWlGTlNlZlpJcW1iOXNDTXRFaEZhaUtWblJjS0t3NXhkMGJaeWJqZ1hFeNIBwgFBVV95cUxNYlZiaHhyS1Vqbnk5YlZVZWNxUm1UaFNCc0FYTXE4dTJqMktQZVN0UjBHYnlabXFRd0ZTSWwwenV1YmdVU1BGYzVvLTJpd2lWQ3Y1MmtKMDNtQWl3VEUxb2F3T24wY2tfYmVHZjNXQlF4N0JrQmJWTXVFMnlZRVJFQTBDcnJlZjI0ZVg3V2t3NnNaSEJGdzVPN1NxdnhFXzY2b3VVbWlxOHJDTXNVa1JWQks5LWFoWW5zZ2ozbVFEWl93QQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 07:48:00 GMT",
+        "source": "Fox Business",
+        "ageHours": 7.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "3c0101c8e2ffc8f6b47c106cf06782ebc9d2777894851905cb7c54ceb1cebdc5",
-    "title": "Trump urges Nvidia to rehire Jensen Huang and attacks Somalis in Truth Social spree - The Independent",
+    "postId": "7ff10bcdc53ecca7d14378b4b985107cd977aa249b73b04176ab8b0bef0d3b5d",
+    "title": "Trump Successfully Begs for Jensen Huang’s Return - The New Republic",
     "bot": "jongsuk_pol_bot",
-    "runId": "45196824213",
-    "sentAt": "2026-11-23T14:42:10.567Z"
+    "runId": "45198626446",
+    "sentAt": "2026-11-23T14:51:18.382Z"
   }
 }
