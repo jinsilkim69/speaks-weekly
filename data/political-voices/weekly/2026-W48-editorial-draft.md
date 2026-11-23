@@ -2029,3 +2029,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국민의힘 윤리위원 “한동훈 제명 발표는 기획”…장동혁 “사건 본질 안 바뀌어” - KBS 뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘 윤리위원 “한동훈 제명 발표는 기획”…장동혁 “사건 본질 안 바뀌어”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bXNtSFZjNk1SLUpBdGF2bHBZUDRDX0hsU21Jc2puSXFtS2lQRHlxa2RNUUE4czZzSjNVaDR5NVByZVNwa283RDVoUDJaaHZ0S0o0cENXZkVDVVU?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 당명 개정 추진… ‘조국’ 떼고 새출발하나 - 시사위크
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 당명 개정 추진… ‘조국’ 떼고 새출발하나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE5pazdSek1QM2dLZ3h5N3l3QXFnMWE3MGxhSGd1a0F0LUxERnluRkE3ZTc4VlU2MllEaWJYYkRRUU9ZSGFMSWNHYmtjdkoteExna0k0b0owakw1S1BPbm9vTmw1SlJhUUllOTVR0gFvQVVfeXFMUEFiS2tqOVRCODFWcjlQbndlWmhhQTFKMThCR21aS1QzX3hOc1lnVm1VV2gzQnIzQmc5ZXdweHVQdlJTSjhZOVVjeE1Sa3RUb3BBREZ0alNTbnhqaWtESmRWUl9KRTd6STE3TTc0dDE4?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 조국혁신당 최고위 발언하는 신장식 대표 - 뉴시스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 최고위 발언하는 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBycm5ENHI4S0Z4eXVXd1BCVTJEbzI3V0ZFX215NGd5N1lwSkxkM0ZnT3pJQmNEWVFySmE0RlppOEs1MFVXVGh3OVRjWjdvc2g4UzFTWHBsOWJUMXdmS3hkXw?oc=5)
+
+---
+
