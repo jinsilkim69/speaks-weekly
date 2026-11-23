@@ -807,3 +807,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "조희대 탄핵 사유 차고 넘쳐"…탄핵안 준비 착수 - 데일리메이커
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "조희대 탄핵 사유 차고 넘쳐"…탄핵안 준비 착수
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1za04yaDQ2cXJMQ1dVbGlFU2htOTd0V3hQRXdiZU52MHFERnpoRWN1OHNFT2l0aEJrc3FtdDFyWE5PRlp4VEFndUhmTmhReTJxczlrSnBVU01JWTFOWHVsTHdxQWpuZw?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 당명 개정 관련 발언하는 신장식 조국혁신당 대표 - 국제뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 당명 개정 관련 발언하는 신장식 조국혁신당 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE94bkZ5VWpHdm55d2x4YVFra18xUWctM1laRkgyS1BuSnB0YUgwYV9NZE1HeDNQdmlSVm83aXNrSEJ1UENQTEpGd1RLbm55ZlIyMHQ2THVRZDI0ZTdXVUVobXNXeUFyTXU4bjN2NEdn?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 당명 개정 관련 발언하는 신장식 대표 - 서울뉴스통신
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 당명 개정 관련 발언하는 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE9DOWk0Q2R4dnktVURFb3NvQ21zbzVQTlpUb3ZfYVp4ZDI0X3RSMTdoZ1RETTlfWWJQemVoY1drbXBfNWMteGxZbHFQazlKX3hqZ2o2SWI3MEVUb0JrUXdydE9ONVF4WFVrVmVZ?oc=5)
+
+---
+
