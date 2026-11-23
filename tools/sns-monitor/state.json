@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T02:11:15.424Z",
+  "lastCheckedAt": "2026-11-23T02:21:15.571Z",
   "seenPostIds": {
-    "6f2c1b27c2679e2d884079f01ea40297689c35ca14fa2f3869dbb788da25b0df": {
-      "seenAt": "2026-11-19T15:31:38.852Z",
-      "title": "Trump Urges Congress to Pass a New Farm Bill - U.S. News & World Report",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "ada16ac5132a22c805322e990da004f6050a9889e79d2341ac57f2ce5072f942": {
       "seenAt": "2026-11-19T15:41:19.523Z",
       "title": "김민석도 강공 돌아섰다…“대법 역사적 반역, 조희대 탄핵” - 중앙일보",
@@ -2505,14 +2500,29 @@
       "seenAt": "2026-11-23T02:11:16.707Z",
       "title": "「M포토」 발언하는 김민석 대표 - M이코노미뉴스",
       "targetName": "김민석"
+    },
+    "664a9c493e0b7745f6eba532ccb432dcdadda71df3b1125d6ec5513a1d84e988": {
+      "seenAt": "2026-11-23T02:21:16.864Z",
+      "title": "김민석 \"대법원, 비상계엄의 내란 여부 명료하게 정리해야\" - 연합뉴스TV",
+      "targetName": "김민석"
+    },
+    "aeb0bbba1b0e1d04ee93c20f5928541813422f0ab1f11574c0336b59995f257c": {
+      "seenAt": "2026-11-23T02:21:17.551Z",
+      "title": "[포토]최고위 마친 김민석 대표 - 이데일리",
+      "targetName": "김민석"
+    },
+    "9a51b7a0f86a14d3a003b1a8df55dbd1994022ad2ae970efa0b61982a9e2deb1": {
+      "seenAt": "2026-11-23T02:21:18.267Z",
+      "title": "생각에 잠긴 김민석 대표 - 뉴스핌",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "260502aa7ffbe531b7eb8ef44c11f6e379866bcf11b8c8c8c9650645785ed5ae",
-    "title": "「M포토」 발언하는 김민석 대표 - M이코노미뉴스",
+    "postId": "9a51b7a0f86a14d3a003b1a8df55dbd1994022ad2ae970efa0b61982a9e2deb1",
+    "title": "생각에 잠긴 김민석 대표 - 뉴스핌",
     "bot": "jongsuk_pol_bot",
-    "runId": "45098720102",
-    "sentAt": "2026-11-23T02:11:16.098Z"
+    "runId": "45099693150",
+    "sentAt": "2026-11-23T02:21:17.905Z"
   }
 }

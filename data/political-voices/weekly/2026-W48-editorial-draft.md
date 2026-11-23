@@ -521,3 +521,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "대법원, 비상계엄의 내란 여부 명료하게 정리해야" - 연합뉴스TV
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "대법원, 비상계엄의 내란 여부 명료하게 정리해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5USzJxYlpkejFFeVFxNjRrVEtRa0JsdXpndVJMNDVSYWJ6STI1ZUlpejhxX0U1eTVXN1JlbDQ1WWF5OEZaeE1NRU5WR0pYRWRHM2R1alpFcjVZQWdLRmtjSWxjS3M5SlE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [포토]최고위 마친 김민석 대표 - 이데일리
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최고위 마친 김민석 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxNY1U4NXdPaE1FMjJtZzhLQWI4bUFtbFhVZDRPQkN0Q1JVVm1zZzBSRHd0NTlEY3FETEt5MENfRDVlRy05Z01wVUktcHZaTm5GaUNiR0JONTFSVDEtbGp4enRWdnM2NDBVRGtWeC02Tk84WUtjTUdNWmZnel9wYTRCNA?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 생각에 잠긴 김민석 대표 - 뉴스핌
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 생각에 잠긴 김민석 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUTUM4ckRXa21kMmZSZFp1X01Wcjl6cFUwd05sMkp0c0stSERQNVN5czZMcVlhWF9lS1RMVzJ2Rm1FRXZHSkdGdEw4ZmN5NThhbkZjRGdNN203N2NG?oc=5)
+
+---
+
