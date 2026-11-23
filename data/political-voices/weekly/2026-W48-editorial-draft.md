@@ -2094,3 +2094,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 국민의힘, 이재명 대통령 SNS 발언에 "국민을 돼지에 비유" 비판 - 한국사회복지저널
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘, 이재명 대통령 SNS 발언에 "국민을 돼지에 비유" 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE95UGxtN3FqSVVuU3YyMEdQaTJFS0hMX3ZJLTd3NGJZVGk3SUxDTTRpTEVHU3llUnB6MW0zTHVUSC1OOEdEZ0dYZmJKbllUbVU5V3l3aDJ4TUxGdXpQWkVaVGptVnBDVHhkWThRNA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 당명 개정 추진… ‘조국’ 떼고 새출발하나 - 시사위크
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 당명 개정 추진… ‘조국’ 떼고 새출발하나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBBYktrajlUQjgxVnI5UG53ZVpoYUExSjE4QkdtWktUM194TnNZZ1ZtVVdoM0JyM0JnOWV3cHh1UHZSU0o4WTlVY3hNUmt0VG9wQURGdGpTU254amlrREpkVlJfSkU3ekkxN003NHQxONIBb0FVX3lxTFBBYktrajlUQjgxVnI5UG53ZVpoYUExSjE4QkdtWktUM194TnNZZ1ZtVVdoM0JyM0JnOWV3cHh1UHZSU0o4WTlVY3hNUmt0VG9wQURGdGpTU254amlrREpkVlJfSkU3ekkxN003NHQxOA?oc=5)
+
+---
+
