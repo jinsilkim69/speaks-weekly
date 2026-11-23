@@ -365,3 +365,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 국민의힘 "이재명 대통령, SNS 셀프 판결…방탄의 혀가 길어질 뿐" - 한국사회복지저널
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘 "이재명 대통령, SNS 셀프 판결…방탄의 혀가 길어질 뿐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE5hY2R0MTFzYlhpQW94N3A3NVd2Z1RKT0lKSUVUZEVGaFpPLVo4Xzl1aDZCTXRpdlRIdjJfSE9nNlc2bFp6Xzk2LXA5cUlGZUU1S090ZUZZLTYtdzZhbHBvc250dDFITVFDUVYw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [정치家] 김민석 더불어민주당 대표 ⑫ㅣ 조희대 탄핵 강공·당내 기강 다잡기…청년·당정청 소통도 강화 - CBC뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 더불어민주당 대표 ⑫ㅣ 조희대 탄핵 강공·당내 기강 다잡기…청년·당정청 소통도 강화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LS2wzRmNmdGVZV3hoV3NxMVdzenFJMW9aZ1FlNlR6eXJtOUtsLXdoVFB2aWpGNmRka2plSlc3WmQwY0RuZmpWdnhESEZzSTlDNTZZMXdxUU5PWFFKbUNYck1wSkNLMVBP?oc=5)
+
+---
+
