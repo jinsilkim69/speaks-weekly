@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T15:21:15.304Z",
+  "lastCheckedAt": "2026-11-23T15:31:17.382Z",
   "seenPostIds": {
     "7fd0873c74f0d5d66bb475d4dc4f70b7e59614a7edf38b3d1c8796b5e02f858a": {
       "seenAt": "2026-11-20T12:31:21.120Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-23T15:11:17.876Z",
       "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors - Reuters",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "b6ecd267eec103683b55d502e7450ee4ed9a6954990c275d2b138b004f53436c": {
+      "seenAt": "2026-11-23T15:31:19.054Z",
+      "title": "\"윤 구형 맞춰 한동훈 제명\"...추가 폭로에도 장동혁은 \"본질 아냐\" - YTN",
+      "targetName": "한동훈"
+    },
+    "7e482f93cf3b52af3da8b2b9e3c4f369afe655efa0bb297039218cd954a94117": {
+      "seenAt": "2026-11-23T15:31:19.940Z",
+      "title": "‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang - Time Magazine",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "019f0949270904a77474bdcb4b0d71bd30774cd5094b1cb6693605203151e0f8",
-    "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors - Reuters",
+    "postId": "7e482f93cf3b52af3da8b2b9e3c4f369afe655efa0bb297039218cd954a94117",
+    "title": "‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang - Time Magazine",
     "bot": "jongsuk_pol_bot",
-    "runId": "45202327688",
-    "sentAt": "2026-11-23T15:11:17.319Z"
+    "runId": "45206102801",
+    "sentAt": "2026-11-23T15:31:19.491Z"
   }
 }
