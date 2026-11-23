@@ -1808,3 +1808,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 전남광주시당 "조희대 대법원장 즉각 탄핵해야" - 연합뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 전남광주시당 "조희대 대법원장 즉각 탄핵해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MLTRiZXlOQ0tad1FmeEptVDhWOXpWS3oxeDd2Wm9KWURyQXdjNG1SLTVvQVFyUmZiRHpsalZsc2VUcW1QUzRJbjlkdHY0endRX0Z1U0NzWmRQQk3SAWBBVV95cUxPUV9FeWNMdUZGT1FvellSVm9MUmVsV2E5RDVLRnpYOVY0OEZDalJwM3VNckJpb0ZWYUQ2eXlfeVliX0k1Yi1oeElRY29JcVZDWHlkRk1yNFA5TVYyV2xGaEs?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 엔디엔뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBXVG1jaWVNRjJPZVd4N1VWa0RwOFNIZUx2RlE2UFVJVUQzZUt0WjRLRWI3Nkd1RE5zU3MzRDRETHE3WFFrR0xTb2xERzFiQlNkY0c5N1hQVjNhN1MxdnFTU29fQ2c0OHE1enMwbmdB0gFyQVVfeXFMT1ZBLTZBYTRtMFVzOHR0eWZCTmc2cGF2Z3hpeUlpYm8xUEVwd1ByQ2lKTl9FdVZmZ2hlMjJYY0VzTXRiVldlQ3lMN1VUaUwybGRfUUYxZkpxWmJkYkdTd2RrYnZoMW5YWmZKTXlKSm9Bdnln?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** 62 of the most stupid things Donald Trump has ever said - Indy100
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 62 of the most stupid things Donald Trump has ever said
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxPYk9UNW8xcnVreG1CM0RXWWNNQWdhSUZYc1I4S0drNWxWNm9HT0FxUkwtOTVKNlVDaUp5bWlHdkZKbFNOOUtJLWxZUzd4Tkl6dEQ4aEwxSVJ0dWJvT1RWczQwZFVqc1JROG5uNGRPdmFkVXUyOFk3aVBob2JYZHN2STBxaUw1TFc5M1R2Y09kdXo?oc=5)
+
+---
+

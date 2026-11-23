@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T08:41:16.521Z",
+  "lastCheckedAt": "2026-11-23T08:51:15.173Z",
   "seenPostIds": {
-    "e002edc4ebe2ee8c2b7a6d9553fad086e6f81dffc01d7b5c8711b57bbbd21ae2": {
-      "seenAt": "2026-11-20T04:31:19.976Z",
-      "title": "'최민희 징계' 27일 심의…일부 당원들 '김민석 직무정지' 가처분 '맞불' - 데일리안",
-      "targetName": "김민석"
-    },
-    "f6fcdb1a168254cf16ccd10efd1e7d98319860a189b23f80c2d84d6b6896775f": {
-      "seenAt": "2026-11-20T04:41:17.817Z",
-      "title": "박지원 \"정청래·추미애 파벌싸움 불질러…국민이 민주당 버릴 것\" - 프레시안",
-      "targetName": "정청래"
-    },
-    "84dc65ecca6d4a8f5c68dbe11bedb65978e2c34ef4b93beef771f6a801b8933d": {
-      "seenAt": "2026-11-20T04:41:18.522Z",
-      "title": "[김종석의 왜]정청래 목소리 커졌다, 왜? - 채널A",
-      "targetName": "정청래"
-    },
     "87da76f29b4b45d2d16b24a29e25b79a6a7520c9c71d30d592049bc714687287": {
       "seenAt": "2026-11-20T04:41:19.246Z",
       "title": "이재명 대통령 직무평가 '잘하고 있다' 40% .. 부정평가 '부동산'에서 '경제/민생'으로 변화 - 데일리경제",
@@ -2515,47 +2500,29 @@
       "seenAt": "2026-11-23T08:41:19.368Z",
       "title": "더불어민주당 내홍 속 대구 팔공산 찾은 정청래 - 경북매일",
       "targetName": "정청래"
+    },
+    "7e320061ac967a8f524b607213e7243d5ac4e4ea3924aba5cb63960d08f80d45": {
+      "seenAt": "2026-11-23T08:51:16.197Z",
+      "title": "조국혁신당 전남광주시당 \"조희대 대법원장 즉각 탄핵해야\" - 연합뉴스",
+      "targetName": "조국"
+    },
+    "b53fd3531e8b235c5780ab713a3e8aa7fd9226da4b85f3029360369524d7190a": {
+      "seenAt": "2026-11-23T08:51:16.823Z",
+      "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 엔디엔뉴스",
+      "targetName": "송영길"
+    },
+    "e03035711ed2c1be81c34d8468663e6f7cbd65713042fb829395d57498df3a4f": {
+      "seenAt": "2026-11-23T08:51:17.481Z",
+      "title": "62 of the most stupid things Donald Trump has ever said - Indy100",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "7e320061ac967a8f524b607213e7243d5ac4e4ea3924aba5cb63960d08f80d45",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 전남광주시당 \"조희대 대법원장 즉각 탄핵해야\" - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MLTRiZXlOQ0tad1FmeEptVDhWOXpWS3oxeDd2Wm9KWURyQXdjNG1SLTVvQVFyUmZiRHpsalZsc2VUcW1QUzRJbjlkdHY0endRX0Z1U0NzWmRQQk3SAWBBVV95cUxPUV9FeWNMdUZGT1FvellSVm9MUmVsV2E5RDVLRnpYOVY0OEZDalJwM3VNckJpb0ZWYUQ2eXlfeVliX0k1Yi1oeElRY29JcVZDWHlkRk1yNFA5TVYyV2xGaEs?oc=5\" target=\"_blank\">조국혁신당 전남광주시당 \"조희대 대법원장 즉각 탄핵해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MLTRiZXlOQ0tad1FmeEptVDhWOXpWS3oxeDd2Wm9KWURyQXdjNG1SLTVvQVFyUmZiRHpsalZsc2VUcW1QUzRJbjlkdHY0endRX0Z1U0NzWmRQQk3SAWBBVV95cUxPUV9FeWNMdUZGT1FvellSVm9MUmVsV2E5RDVLRnpYOVY0OEZDalJwM3VNckJpb0ZWYUQ2eXlfeVliX0k1Yi1oeElRY29JcVZDWHlkRk1yNFA5TVYyV2xGaEs?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 02:43:54 GMT",
-        "source": "연합뉴스",
-        "ageHours": 5.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "b53fd3531e8b235c5780ab713a3e8aa7fd9226da4b85f3029360369524d7190a",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 엔디엔뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBXVG1jaWVNRjJPZVd4N1VWa0RwOFNIZUx2RlE2UFVJVUQzZUt0WjRLRWI3Nkd1RE5zU3MzRDRETHE3WFFrR0xTb2xERzFiQlNkY0c5N1hQVjNhN1MxdnFTU29fQ2c0OHE1enMwbmdB0gFyQVVfeXFMT1ZBLTZBYTRtMFVzOHR0eWZCTmc2cGF2Z3hpeUlpYm8xUEVwd1ByQ2lKTl9FdVZmZ2hlMjJYY0VzTXRiVldlQ3lMN1VUaUwybGRfUUYxZkpxWmJkYkdTd2RrYnZoMW5YWmZKTXlKSm9Bdnln?oc=5\" target=\"_blank\">송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">엔디엔뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXVG1jaWVNRjJPZVd4N1VWa0RwOFNIZUx2RlE2UFVJVUQzZUt0WjRLRWI3Nkd1RE5zU3MzRDRETHE3WFFrR0xTb2xERzFiQlNkY0c5N1hQVjNhN1MxdnFTU29fQ2c0OHE1enMwbmdB0gFyQVVfeXFMT1ZBLTZBYTRtMFVzOHR0eWZCTmc2cGF2Z3hpeUlpYm8xUEVwd1ByQ2lKTl9FdVZmZ2hlMjJYY0VzTXRiVldlQ3lMN1VUaUwybGRfUUYxZkpxWmJkYkdTd2RrYnZoMW5YWmZKTXlKSm9Bdnln?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 04:52:36 GMT",
-        "source": "엔디엔뉴스",
-        "ageHours": 3.8
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "28d694b64165935ce105f161db52e960733d0648e646f1a62b2550f8b946f1f3",
-    "title": "더불어민주당 내홍 속 대구 팔공산 찾은 정청래 - 경북매일",
+    "postId": "e03035711ed2c1be81c34d8468663e6f7cbd65713042fb829395d57498df3a4f",
+    "title": "62 of the most stupid things Donald Trump has ever said - Indy100",
     "bot": "jongsuk_pol_bot",
-    "runId": "45140603446",
-    "sentAt": "2026-11-23T08:41:19.031Z"
+    "runId": "45141934024",
+    "sentAt": "2026-11-23T08:51:17.172Z"
   }
 }
