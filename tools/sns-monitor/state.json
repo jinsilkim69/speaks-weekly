@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T13:31:15.088Z",
+  "lastCheckedAt": "2026-11-23T13:41:15.351Z",
   "seenPostIds": {
-    "fd40b5a0c0b1531802c4f111c141d8994e95addaf04667e9dffa25c515da96f2": {
-      "seenAt": "2026-11-20T09:21:22.424Z",
-      "title": "조국 日 입국 거부, 독도 때문 아니었다…진짜 이유는 '징역 2년' - 주간조선",
-      "targetName": "조국"
-    },
-    "fa6754f5fa37184c8feed16ec93e23eef45ba688f6d910b9f7198304252ddf00": {
-      "seenAt": "2026-11-20T09:31:18.585Z",
-      "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
-      "targetName": "신장식"
-    },
-    "35f39b8e04b82ee0b11b3737e2aa8bc58aebb538ded51493e4d5fabbc2912df8": {
-      "seenAt": "2026-11-20T09:41:20.811Z",
-      "title": "與 윤리심판원, 최민희 징계 심의…김민석 징계 청원도 검토 - 중앙일보",
-      "targetName": "김민석"
-    },
     "5f076ff1de15ccecc20ce4bc897f72bfdd7f39f7e0840bc18340c669212c0aeb": {
       "seenAt": "2026-11-20T09:41:21.547Z",
       "title": "“김어준이 ‘최민희에 과도하다’하니까 정청래·추미애까지 나서…괴상하다” - 평화나무",
@@ -2515,14 +2500,24 @@
       "seenAt": "2026-11-23T13:31:17.752Z",
       "title": "\"尹 구형맞춰 한동훈 제물로\"…'기획 숙청' 의혹 추가 폭로 - 한국경제",
       "targetName": "한동훈"
+    },
+    "9b9dcdbd1dd5ee156c3a81d999b7b998f8409318e4a3d03d7e4e794208201470": {
+      "seenAt": "2026-11-23T13:41:16.623Z",
+      "title": "김민석 취임 100일상에 찬물 끼얹은 신천지 논란 - 파이낸셜뉴스",
+      "targetName": "김민석"
+    },
+    "c7708e5ba96f1e9fdba08826f50365a09b229c5c61f2654adf975c88316c5a6c": {
+      "seenAt": "2026-11-23T13:41:17.387Z",
+      "title": "40대 대전시민 \" 정청래 지도부 뭐했어? 조희대 탄핵해야\" #Shorts - OhmyNews",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "b8aeed3fd2642839849e078a094194792e66a11f6e5e25763d4d1a971852cce2",
-    "title": "\"尹 구형맞춰 한동훈 제물로\"…'기획 숙청' 의혹 추가 폭로 - 한국경제",
+    "postId": "c7708e5ba96f1e9fdba08826f50365a09b229c5c61f2654adf975c88316c5a6c",
+    "title": "40대 대전시민 \" 정청래 지도부 뭐했어? 조희대 탄핵해야\" #Shorts - OhmyNews",
     "bot": "jongsuk_pol_bot",
-    "runId": "45184690438",
-    "sentAt": "2026-11-23T13:31:17.396Z"
+    "runId": "45186336857",
+    "sentAt": "2026-11-23T13:41:16.962Z"
   }
 }

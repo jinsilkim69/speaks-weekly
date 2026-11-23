@@ -4543,5 +4543,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "9b9dcdbd1dd5ee156c3a81d999b7b998f8409318e4a3d03d7e4e794208201470",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 취임 100일상에 찬물 끼얹은 신천지 논란 - 파이낸셜뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KbjNtUGVVQ3o1ODhJUWNSZGJ2OVhLN2kyRDhEY1RyOVR0cU1HUnRVMnkxN0lMN3VKUC1Sc3BzdlVkcGVfX3pOVkxqUnAyTWJWV3A3V3BHS0cyZw?oc=5\" target=\"_blank\">김민석 취임 100일상에 찬물 끼얹은 신천지 논란</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸셜뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KbjNtUGVVQ3o1ODhJUWNSZGJ2OVhLN2kyRDhEY1RyOVR0cU1HUnRVMnkxN0lMN3VKUC1Sc3BzdlVkcGVfX3pOVkxqUnAyTWJWV3A3V3BHS0cyZw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 07:29:54 GMT",
+    "source": "파이낸셜뉴스",
+    "ageHours": 6.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 취임 100일상에 찬물 끼얹은 신천지 논란",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "c7708e5ba96f1e9fdba08826f50365a09b229c5c61f2654adf975c88316c5a6c",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "40대 대전시민 \" 정청래 지도부 뭐했어? 조희대 탄핵해야\" #Shorts - OhmyNews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Si04NWg2Sng5VHp6SkhLbmYtbUJOaVNuWVdIaTBSR3NMU0c4MGVDbGNxME5NbU9LTTJqTFJkR3ByaTRGY3FoTXVjNmNzQjRXdnJXMThBcy1Ic29kanZwWUtWMXJYWTE3RWJvX1dIT2NVeGNuSUtrV2pxYnNKY3M?oc=5\" target=\"_blank\">40대 대전시민 \" 정청래 지도부 뭐했어? 조희대 탄핵해야\" #Shorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2Si04NWg2Sng5VHp6SkhLbmYtbUJOaVNuWVdIaTBSR3NMU0c4MGVDbGNxME5NbU9LTTJqTFJkR3ByaTRGY3FoTXVjNmNzQjRXdnJXMThBcy1Ic29kanZwWUtWMXJYWTE3RWJvX1dIT2NVeGNuSUtrV2pxYnNKY3M?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 12:05:27 GMT",
+    "source": "OhmyNews",
+    "ageHours": 1.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 40대 대전시민 \" 정청래 지도부 뭐했어? 조희대 탄핵해야\" #Shorts",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
