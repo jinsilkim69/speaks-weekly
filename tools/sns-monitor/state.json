@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T05:21:18.204Z",
+  "lastCheckedAt": "2026-11-23T05:31:21.227Z",
   "seenPostIds": {
-    "2b9fe8b744f8241efd514146abde1ea5be2b82cd9e4d0a3312073189de37fd8f": {
-      "seenAt": "2026-11-19T23:51:20.599Z",
-      "title": "Trump gives posthumous pardon to Pete Rose, all-time MLB hits leader - NBC News",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "6c90137e45370b879fce4ecc9a84edc4c3a85a3213980156b0a7cad2106c702b": {
-      "seenAt": "2026-11-20T00:01:19.760Z",
-      "title": "Trump grants posthumous pardon to MLB hit king Pete Rose - New York Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "63c560f90c00514fdbebac413e4aa23129e27b0d3668c16d9416835a59959fb5": {
-      "seenAt": "2026-11-20T00:21:17.316Z",
-      "title": "박지원 \"정청래·추미애 발언에 파벌 싸움 시작…분열하면 국민이 민주당 버려\" - www.gukjenews.com",
-      "targetName": "정청래"
-    },
     "6a2290c9b93357b884063c9792fa554e7a69b35559b3e32db22a88e12d60bd21": {
       "seenAt": "2026-11-20T00:21:17.918Z",
       "title": "Trump posthumously pardons US baseball legend Pete Rose - BBC",
@@ -2515,63 +2500,62 @@
       "seenAt": "2026-11-23T05:21:20.630Z",
       "title": "김민석, 당 회의서 '신천지' 발언한 박선원에 \"구두경고\" - MBC 뉴스",
       "targetName": "김민석"
+    },
+    "f6ae4f335c71de6317be2d8b86ce1e7c047683f91325f05153108d7707caaf9f": {
+      "seenAt": "2026-11-23T05:31:22.947Z",
+      "title": "[단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란 - 시사타파NEWS",
+      "targetName": "송영길"
+    },
+    "568cec9f3ae88d129e12954191c9710bd950052768de5aaeede829967c325eec": {
+      "seenAt": "2026-11-23T05:31:23.711Z",
+      "title": "이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시 - 헤럴드경제",
+      "targetName": "이준석"
+    },
+    "60cafbea5de08637cc3c1e70e887c2074b2da1ee30d944b0a3413fb5d2665710": {
+      "seenAt": "2026-11-23T05:31:24.478Z",
+      "title": "조국혁신당·개혁신당 자강의 시간 - 공공뉴스",
+      "targetName": "조국"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "f6ae4f335c71de6317be2d8b86ce1e7c047683f91325f05153108d7707caaf9f",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "[단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란 - 시사타파NEWS",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1THZyYmJLc1RnRXVJZTRGQzEyVEpMMEZRQ3JDX1VjcDJPT2FnUXd6aXVtb3VoajdOTk5wYXJyQkNzSnRzQ3ROSlVkeGMtSUV4RmN1SHdCRHhFVENuSWNiaFZB?oc=5\" target=\"_blank\">[단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사타파NEWS</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1THZyYmJLc1RnRXVJZTRGQzEyVEpMMEZRQ3JDX1VjcDJPT2FnUXd6aXVtb3VoajdOTk5wYXJyQkNzSnRzQ3ROSlVkeGMtSUV4RmN1SHdCRHhFVENuSWNiaFZB?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 01:23:52 GMT",
-        "source": "시사타파NEWS",
-        "ageHours": 4
+        "id": "86b8a1508652c1609748f3f78ae8dbfaf77ef337bb7335110578edaadad410eb",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "오세훈 \"대통령 이재명 삶, 피고인 이재명에게 쓰지 마시라\" - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DWWdIZFEtcWZwRVh4T0xQQ04xZnhsSGJfOVh5aHd5ODNOUUNoMEhrem16cFczZ3V2Nm1rM3B6NmtQRThyNUZ2UEo0RW5DMUlEZktCV05iWmY4VEXSAWBBVV95cUxPaFlwV2JLUmp2WjYtdmxhQWYwR2tfTmhzbUxpYWZMWEl1dElYVElkdDBDNlNwaUJSM1RIWnYwbEhYYnpJd1IzV3ktUDc3NFUwRzM4MzdiY1pSMGN4UkQwRE4?oc=5\" target=\"_blank\">오세훈 \"대통령 이재명 삶, 피고인 이재명에게 쓰지 마시라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DWWdIZFEtcWZwRVh4T0xQQ04xZnhsSGJfOVh5aHd5ODNOUUNoMEhrem16cFczZ3V2Nm1rM3B6NmtQRThyNUZ2UEo0RW5DMUlEZktCV05iWmY4VEXSAWBBVV95cUxPaFlwV2JLUmp2WjYtdmxhQWYwR2tfTmhzbUxpYWZMWEl1dElYVElkdDBDNlNwaUJSM1RIWnYwbEhYYnpJd1IzV3ktUDc3NFUwRzM4MzdiY1pSMGN4UkQwRE4?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:20:27 GMT",
+        "source": "연합뉴스",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "568cec9f3ae88d129e12954191c9710bd950052768de5aaeede829967c325eec",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시 - 헤럴드경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sbHpFMC1yVjVRbzVyOXhKLVg1akxXc0o5M2dpV1VaVzBqMDUzVFVFY2prN3o5OVllNnNLUE1IOGpUeXJ5TlIyVnBWOC10R3NOSUtvV2NB?oc=5\" target=\"_blank\">이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sbHpFMC1yVjVRbzVyOXhKLVg1akxXc0o5M2dpV1VaVzBqMDUzVFVFY2prN3o5OVllNnNLUE1IOGpUeXJ5TlIyVnBWOC10R3NOSUtvV2NB?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 04:58:39 GMT",
-        "source": "헤럴드경제",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "60cafbea5de08637cc3c1e70e887c2074b2da1ee30d944b0a3413fb5d2665710",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당·개혁신당 자강의 시간 - 공공뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB6OEliSGI3alpFSzN5dlh2SEJKdHppbFRjS251TXBENDkyWVdONjB5SXVMd1dwYjl4UkxCMkIwSWlmZktob0dEX1VFSVJTRUVrdnRfdWFRaTBxcVdleU5ZZ2lIcVp4Nm1ual9uMDRB0gFuQVVfeXFMUHo4SWJIYjdqWkVLM3l2WHZIQkp0emlsVGNLbnVNcEQ0OTJZV042MHlJdUx3V3BiOXhSTEIyQjBJaWZmS2hvR0RfVUVJUlNFRWt2dF91YVFpMHFxV2V5TllnaUhxWng2bW5qX24wNEE?oc=5\" target=\"_blank\">조국혁신당·개혁신당 자강의 시간</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">공공뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6OEliSGI3alpFSzN5dlh2SEJKdHppbFRjS251TXBENDkyWVdONjB5SXVMd1dwYjl4UkxCMkIwSWlmZktob0dEX1VFSVJTRUVrdnRfdWFRaTBxcVdleU5ZZ2lIcVp4Nm1ual9uMDRB0gFuQVVfeXFMUHo4SWJIYjdqWkVLM3l2WHZIQkp0emlsVGNLbnVNcEQ0OTJZV042MHlJdUx3V3BiOXhSTEIyQjBJaWZmS2hvR0RfVUVJUlNFRWt2dF91YVFpMHFxV2V5TllnaUhxWng2bW5qX24wNEE?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 03:40:22 GMT",
-        "source": "공공뉴스",
-        "ageHours": 1.7
+        "id": "71424d61d586a23b9b9bc27fabe37d045bb5a80d688147b51cb516e399e7d7b9",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "오세훈 서울시장 \"대통령의 삶, 피고인 이재명에 쓰지 마라\" - 한국경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZclA3Qm13ZmlqbjdjejRMeWp3bGllcXhYYTRqWG1kZWNhWGI0eUZLLUY4SDNlQjlGSFpyeVF1ci1DWWVCc2dUdVdfYzR4bUNJaUZQeXItTVdrQQ?oc=5\" target=\"_blank\">오세훈 서울시장 \"대통령의 삶, 피고인 이재명에 쓰지 마라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZclA3Qm13ZmlqbjdjejRMeWp3bGllcXhYYTRqWG1kZWNhWGI0eUZLLUY4SDNlQjlGSFpyeVF1ci1DWWVCc2dUdVdfYzR4bUNJaUZQeXItTVdrQQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:27:58 GMT",
+        "source": "한국경제",
+        "ageHours": 0.1
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "f65fae265a627238210a4e6ea4ad5e4780e138ec1b2ccc87fa88c724a10e9c7d",
-    "title": "김민석, 당 회의서 '신천지' 발언한 박선원에 \"구두경고\" - MBC 뉴스",
+    "postId": "60cafbea5de08637cc3c1e70e887c2074b2da1ee30d944b0a3413fb5d2665710",
+    "title": "조국혁신당·개혁신당 자강의 시간 - 공공뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45117210977",
-    "sentAt": "2026-11-23T05:21:20.327Z"
+    "runId": "45118269694",
+    "sentAt": "2026-11-23T05:31:24.096Z"
   }
 }

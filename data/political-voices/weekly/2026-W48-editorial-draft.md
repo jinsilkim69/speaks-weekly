@@ -1028,3 +1028,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** [단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란 - 시사타파NEWS
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1THZyYmJLc1RnRXVJZTRGQzEyVEpMMEZRQ3JDX1VjcDJPT2FnUXd6aXVtb3VoajdOTk5wYXJyQkNzSnRzQ3ROSlVkeGMtSUV4RmN1SHdCRHhFVENuSWNiaFZB?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시 - 헤럴드경제
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sbHpFMC1yVjVRbzVyOXhKLVg1akxXc0o5M2dpV1VaVzBqMDUzVFVFY2prN3o5OVllNnNLUE1IOGpUeXJ5TlIyVnBWOC10R3NOSUtvV2NB?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당·개혁신당 자강의 시간 - 공공뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당·개혁신당 자강의 시간
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFB6OEliSGI3alpFSzN5dlh2SEJKdHppbFRjS251TXBENDkyWVdONjB5SXVMd1dwYjl4UkxCMkIwSWlmZktob0dEX1VFSVJTRUVrdnRfdWFRaTBxcVdleU5ZZ2lIcVp4Nm1ual9uMDRB0gFuQVVfeXFMUHo4SWJIYjdqWkVLM3l2WHZIQkp0emlsVGNLbnVNcEQ0OTJZV042MHlJdUx3V3BiOXhSTEIyQjBJaWZmS2hvR0RfVUVJUlNFRWt2dF91YVFpMHFxV2V5TllnaUhxWng2bW5qX24wNEE?oc=5)
+
+---
+
