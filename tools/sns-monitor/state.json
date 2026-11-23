@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T08:21:13.374Z",
+  "lastCheckedAt": "2026-11-23T08:31:16.433Z",
   "seenPostIds": {
-    "6ed719ba640e0f17d53e29ff8f77bf0a9a26aa050e1d576e61ccc5f4a31c72cd": {
-      "seenAt": "2026-11-20T04:11:18.579Z",
-      "title": "한동훈 \"조희대 탄핵은 국헌문란 목적의 내란…가능성 0%\" - 머니투데이 - 머니투데이",
-      "targetName": "한동훈"
-    },
-    "2a114b58c9f4e27bd7d3fd14e65135ad8b75eb945d5c0e243853a5fd163c893f": {
-      "seenAt": "2026-11-20T04:21:18.357Z",
-      "title": "김민석 \"조희대 대법원장 탄핵 결정\"…파기환송 비판 - 데일리메이커",
-      "targetName": "김민석"
-    },
-    "62268d4bd98c6b7cf4f97ba28ec8f439cec7dfc387437421df91af74bc999d3a": {
-      "seenAt": "2026-11-20T04:21:19.007Z",
-      "title": "하헌기 \"조희대 탄핵? 의원직 걸어라\"…김종혁 \"김민석, 외부의 적 세워\" - JTBC",
-      "targetName": "김민석"
-    },
     "b4dc34d2be61eb1e633748bc71a967dbaa8bb00a765eaf00aac5c2d366067cf5": {
       "seenAt": "2026-11-20T04:21:19.637Z",
       "title": "김민석 \"준비한 기량 발휘하길\"…與, 수험생 격려·부정행위 엄단 강조 - 머니투데이 - 머니투데이",
@@ -2515,63 +2500,94 @@
       "seenAt": "2026-11-23T08:21:15.913Z",
       "title": "취임 100일 앞두고 또 터진 '신천지 갈등'…김민석 리더십 흔들 - 머니투데이 - 머니투데이",
       "targetName": "김민석"
+    },
+    "92b08975a2e47adf92cec5b73ea137eec5982d5be093c104c359776f8ce05d77": {
+      "seenAt": "2026-11-23T08:31:17.890Z",
+      "title": "“尹 사형 구형 맞춰 한동훈 제명”…野윤리위원, 기획 징계 의혹 제기 - 중앙일보",
+      "targetName": "한동훈"
+    },
+    "7b76e85c6aee4b8da994d59abd572f5af6bb5f55fb95a984e65a6f81daa41ae3": {
+      "seenAt": "2026-11-23T08:31:18.524Z",
+      "title": "[여론조사꽃] 조국혁신당 지지도 10.4%로 두 자릿수 돌파 : 조국 '당명 바꾸자' 제안, '자신감' 보인다 - 허프포스트코리아",
+      "targetName": "조국"
+    },
+    "bf26562ca9375ae8d45bb30364ec2c2586344864cb305be799a6c153c911bf84": {
+      "seenAt": "2026-11-23T08:31:19.275Z",
+      "title": "조국혁신당 충남도당, 고위험 발달장애아동 긴급돌봄체계 즉각 시행 촉구 - 아산포커스",
+      "targetName": "조국"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "92b08975a2e47adf92cec5b73ea137eec5982d5be093c104c359776f8ce05d77",
+        "id": "72bfcd78968245d24314a06268fffb5e54e8658c7130eec5538221ba7c62b69a",
         "targetId": "han_donghoon",
         "targetName": "한동훈",
         "targetTitle": "국민의힘 대표",
-        "title": "“尹 사형 구형 맞춰 한동훈 제명”…野윤리위원, 기획 징계 의혹 제기 - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3ckFlcEwxNHNrWHpmQks2ZTZRYmlyaTl4UzdIT0VlLUhTV2xfTURNZW0tNTRlWWU4dm44d0V6amtLUUVNSzR4bjcwbU1iZlNudDZGVUF3?oc=5\" target=\"_blank\">“尹 사형 구형 맞춰 한동훈 제명”…野윤리위원, 기획 징계 의혹 제기</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3ckFlcEwxNHNrWHpmQks2ZTZRYmlyaTl4UzdIT0VlLUhTV2xfTURNZW0tNTRlWWU4dm44d0V6amtLUUVNSzR4bjcwbU1iZlNudDZGVUF3?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 07:44:01 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.5
+        "title": "\"윤석열 구형일 맞춰 한동훈 제명\"‥국힘 '조작징계' 추가 폭로 - MBC 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOGpLa1R4ZllaSGhoLW5VVXk4NGptajljeDY2T25XTWlJbUZQV1ExVDR3aFVLOE1iblo5RHQ0dW9RbTFIck9rdHdTNnNvajE4QjN1NTBsQkxra2pDQzNhRElZT0NlZXl0TGVucmdoZXYtMnFzNmt0NNIBeEFVX3lxTFB0S1g5d1VSMG01NW85ZndnTkNIdGR3NE9YbmxGX0tXV1JvTFpfb2dhTUdGbU1NNnNwd2VrZGZmcXB6SmllSDNobGk0Y2J5NGFCTTJ2cl9PRHNFVWw4bjk1WEZmNkFiVVE0SGI0UGhJeXhIV1B0YnRzdw?oc=5\" target=\"_blank\">\"윤석열 구형일 맞춰 한동훈 제명\"‥국힘 '조작징계' 추가 폭로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOGpLa1R4ZllaSGhoLW5VVXk4NGptajljeDY2T25XTWlJbUZQV1ExVDR3aFVLOE1iblo5RHQ0dW9RbTFIck9rdHdTNnNvajE4QjN1NTBsQkxra2pDQzNhRElZT0NlZXl0TGVucmdoZXYtMnFzNmt0NNIBeEFVX3lxTFB0S1g5d1VSMG01NW85ZndnTkNIdGR3NE9YbmxGX0tXV1JvTFpfb2dhTUdGbU1NNnNwd2VrZGZmcXB6SmllSDNobGk0Y2J5NGFCTTJ2cl9PRHNFVWw4bjk1WEZmNkFiVVE0SGI0UGhJeXhIV1B0YnRzdw?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 07:09:33 GMT",
+        "source": "MBC 뉴스",
+        "ageHours": 1.4
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "7b76e85c6aee4b8da994d59abd572f5af6bb5f55fb95a984e65a6f81daa41ae3",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "[여론조사꽃] 조국혁신당 지지도 10.4%로 두 자릿수 돌파 : 조국 '당명 바꾸자' 제안, '자신감' 보인다 - 허프포스트코리아",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFeUZKN1BRQzdsUjlzTTk5Q2RlLUhHdVNYM3dPZlpNNnlicFpCV3EzNUJDMlZtdmFmamo2R3ZPNFdnOGJhQ21VaWt3Sk5iRXA5S1d2MDRuYw?oc=5\" target=\"_blank\">[여론조사꽃] 조국혁신당 지지도 10.4%로 두 자릿수 돌파 : 조국 '당명 바꾸자' 제안, '자신감' 보인다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">허프포스트코리아</font>",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFeUZKN1BRQzdsUjlzTTk5Q2RlLUhHdVNYM3dPZlpNNnlicFpCV3EzNUJDMlZtdmFmamo2R3ZPNFdnOGJhQ21VaWt3Sk5iRXA5S1d2MDRuYw?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 02:20:34 GMT",
-        "source": "허프포스트코리아",
-        "ageHours": 6
+        "id": "3171d6b630ce228923f98c7c713a04a29f5a944813460d343d1f210ce69b5a68",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "박선원 \"김민석 구두경고 수용하지만…이성윤·한민수도 경고해야\" - 뉴스1",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE43eFYxLVB6WlB3bzJRVHZzRTQwSXZEWmZKVGRrMzBHTWRES0VUa2ZCQTVaQ2Y4VkU1MVFvem5YRXl0UmVpVlp2czROOFhieWlZMnpSVHQweVNmUQ?oc=5\" target=\"_blank\">박선원 \"김민석 구두경고 수용하지만…이성윤·한민수도 경고해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43eFYxLVB6WlB3bzJRVHZzRTQwSXZEWmZKVGRrMzBHTWRES0VUa2ZCQTVaQ2Y4VkU1MVFvem5YRXl0UmVpVlp2czROOFhieWlZMnpSVHQweVNmUQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:57:25 GMT",
+        "source": "뉴스1",
+        "ageHours": 2.6
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "bf26562ca9375ae8d45bb30364ec2c2586344864cb305be799a6c153c911bf84",
+        "id": "28d694b64165935ce105f161db52e960733d0648e646f1a62b2550f8b946f1f3",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "더불어민주당 내홍 속 대구 팔공산 찾은 정청래 - 경북매일",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMWtvOE9UM0dEREFDZmJpTXR3NWpxRHNaWWNPa0VyZnZMdjBFNXJMQUZOLXBCQVdQZ19WR2d5RVpDbDRkZDczVWFiUUN1UUZKZjAtbkpkRm03UQ?oc=5\" target=\"_blank\">더불어민주당 내홍 속 대구 팔공산 찾은 정청래</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북매일</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMWtvOE9UM0dEREFDZmJpTXR3NWpxRHNaWWNPa0VyZnZMdjBFNXJMQUZOLXBCQVdQZ19WR2d5RVpDbDRkZDczVWFiUUN1UUZKZjAtbkpkRm03UQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 08:16:00 GMT",
+        "source": "경북매일",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "7e320061ac967a8f524b607213e7243d5ac4e4ea3924aba5cb63960d08f80d45",
         "targetId": "cho_kuk",
         "targetName": "조국",
         "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 충남도당, 고위험 발달장애아동 긴급돌봄체계 즉각 시행 촉구 - 아산포커스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1XN01sdDJLRnBmWTdRbndnd2V2LTBCZU5JelN3dlJ3WXEzQU5sRHBYNEpGcHJlMS1SeDhDVHR4S2g2Nmw1OGhIMHA3QXhZVkJwT3hlUHE4OVdwbFJ6aDdhR2YtY0xYT1I3amRPME1B?oc=5\" target=\"_blank\">조국혁신당 충남도당, 고위험 발달장애아동 긴급돌봄체계 즉각 시행 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아산포커스</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XN01sdDJLRnBmWTdRbndnd2V2LTBCZU5JelN3dlJ3WXEzQU5sRHBYNEpGcHJlMS1SeDhDVHR4S2g2Nmw1OGhIMHA3QXhZVkJwT3hlUHE4OVdwbFJ6aDdhR2YtY0xYT1I3amRPME1B?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 07:53:29 GMT",
-        "source": "아산포커스",
-        "ageHours": 0.5
+        "title": "조국혁신당 전남광주시당 \"조희대 대법원장 즉각 탄핵해야\" - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MLTRiZXlOQ0tad1FmeEptVDhWOXpWS3oxeDd2Wm9KWURyQXdjNG1SLTVvQVFyUmZiRHpsalZsc2VUcW1QUzRJbjlkdHY0endRX0Z1U0NzWmRQQk3SAWBBVV95cUxPUV9FeWNMdUZGT1FvellSVm9MUmVsV2E5RDVLRnpYOVY0OEZDalJwM3VNckJpb0ZWYUQ2eXlfeVliX0k1Yi1oeElRY29JcVZDWHlkRk1yNFA5TVYyV2xGaEs?oc=5\" target=\"_blank\">조국혁신당 전남광주시당 \"조희대 대법원장 즉각 탄핵해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MLTRiZXlOQ0tad1FmeEptVDhWOXpWS3oxeDd2Wm9KWURyQXdjNG1SLTVvQVFyUmZiRHpsalZsc2VUcW1QUzRJbjlkdHY0endRX0Z1U0NzWmRQQk3SAWBBVV95cUxPUV9FeWNMdUZGT1FvellSVm9MUmVsV2E5RDVLRnpYOVY0OEZDalJwM3VNckJpb0ZWYUQ2eXlfeVliX0k1Yi1oeElRY29JcVZDWHlkRk1yNFA5TVYyV2xGaEs?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 02:43:54 GMT",
+        "source": "연합뉴스",
+        "ageHours": 5.8
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "11fab95a32704d929e1540cd3ab674352bb455e7b62c137fcf1a6e29401e799b",
-    "title": "취임 100일 앞두고 또 터진 '신천지 갈등'…김민석 리더십 흔들 - 머니투데이 - 머니투데이",
+    "postId": "bf26562ca9375ae8d45bb30364ec2c2586344864cb305be799a6c153c911bf84",
+    "title": "조국혁신당 충남도당, 고위험 발달장애아동 긴급돌봄체계 즉각 시행 촉구 - 아산포커스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45137903612",
-    "sentAt": "2026-11-23T08:21:15.570Z"
+    "runId": "45139250247",
+    "sentAt": "2026-11-23T08:31:18.835Z"
   }
 }
