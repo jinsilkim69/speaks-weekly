@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T05:11:20.996Z",
+  "lastCheckedAt": "2026-11-23T05:21:18.204Z",
   "seenPostIds": {
-    "2acee1c9cabdbb96cea54b3abb23e9abb81152c7fe2612779770a7e36e56bd7b": {
-      "seenAt": "2026-11-19T23:21:18.214Z",
-      "title": "President Trump pardons disgraced MLB star Pete Rose, who died in 2024 - The Washington Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "551ec5f58f71cf910acdc6047d4699745d907f403359368f5c8f7df717086694": {
-      "seenAt": "2026-11-19T23:51:19.180Z",
-      "title": "김민석, 한덕수 파기환송에 \"용납 안돼\"…與강경파 \"曺 즉시탄핵\"(종합) - 연합뉴스",
-      "targetName": "김민석"
-    },
-    "216b5fca842e233695e90d36b8c5b948079aef49f81da6ca387aa4eee31d5b3f": {
-      "seenAt": "2026-11-19T23:51:19.895Z",
-      "title": "이준석 \"조희대 탄핵하는 순간 서울고법은 李 파기환송심 진행해야\" - 인사이트",
-      "targetName": "이준석"
-    },
     "2b9fe8b744f8241efd514146abde1ea5be2b82cd9e4d0a3312073189de37fd8f": {
       "seenAt": "2026-11-19T23:51:20.599Z",
       "title": "Trump gives posthumous pardon to Pete Rose, all-time MLB hits leader - NBC News",
@@ -2515,31 +2500,78 @@
       "seenAt": "2026-11-23T05:11:24.283Z",
       "title": "이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시 - 헤럴드경제 미주판",
       "targetName": "이준석"
+    },
+    "35699fcacd2726f6f42b1d7d051f9ebdd91d675b6954d6f566a415c6d388d2bd": {
+      "seenAt": "2026-11-23T05:21:19.440Z",
+      "title": "조국혁신당서 ‘조국’ 뺀다…당명 개정 제안 - 서울경제",
+      "targetName": "조국"
+    },
+    "9aeb69387de76ba8bf86f949b0f2633f65c76008258a0d026a105e5bba31c3a4": {
+      "seenAt": "2026-11-23T05:21:20.042Z",
+      "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라\" - 뉴스1",
+      "targetName": "이재명"
+    },
+    "f65fae265a627238210a4e6ea4ad5e4780e138ec1b2ccc87fa88c724a10e9c7d": {
+      "seenAt": "2026-11-23T05:21:20.630Z",
+      "title": "김민석, 당 회의서 '신천지' 발언한 박선원에 \"구두경고\" - MBC 뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "35699fcacd2726f6f42b1d7d051f9ebdd91d675b6954d6f566a415c6d388d2bd",
+        "id": "f6ae4f335c71de6317be2d8b86ce1e7c047683f91325f05153108d7707caaf9f",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "[단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란 - 시사타파NEWS",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1THZyYmJLc1RnRXVJZTRGQzEyVEpMMEZRQ3JDX1VjcDJPT2FnUXd6aXVtb3VoajdOTk5wYXJyQkNzSnRzQ3ROSlVkeGMtSUV4RmN1SHdCRHhFVENuSWNiaFZB?oc=5\" target=\"_blank\">[단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사타파NEWS</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1THZyYmJLc1RnRXVJZTRGQzEyVEpMMEZRQ3JDX1VjcDJPT2FnUXd6aXVtb3VoajdOTk5wYXJyQkNzSnRzQ3ROSlVkeGMtSUV4RmN1SHdCRHhFVENuSWNiaFZB?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 01:23:52 GMT",
+        "source": "시사타파NEWS",
+        "ageHours": 4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "568cec9f3ae88d129e12954191c9710bd950052768de5aaeede829967c325eec",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시 - 헤럴드경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sbHpFMC1yVjVRbzVyOXhKLVg1akxXc0o5M2dpV1VaVzBqMDUzVFVFY2prN3o5OVllNnNLUE1IOGpUeXJ5TlIyVnBWOC10R3NOSUtvV2NB?oc=5\" target=\"_blank\">이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sbHpFMC1yVjVRbzVyOXhKLVg1akxXc0o5M2dpV1VaVzBqMDUzVFVFY2prN3o5OVllNnNLUE1IOGpUeXJ5TlIyVnBWOC10R3NOSUtvV2NB?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 04:58:39 GMT",
+        "source": "헤럴드경제",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "60cafbea5de08637cc3c1e70e887c2074b2da1ee30d944b0a3413fb5d2665710",
         "targetId": "cho_kuk",
         "targetName": "조국",
         "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당서 ‘조국’ 뺀다…당명 개정 제안 - 서울경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2a1pMYlI2Mm1KekFiWDFWdGlpVG51Z3VuemxWVVhpUVRFaFZLd3JmRktHUl9CcjFnbG9Pc1ZISUpSYVlpcXE5ZWFTbGpyZHR5eXfSAVNBVV95cUxNM18xNy1rS0R2dXpoNzJNTUdjTzNpamhpQlF6cHNZYkN5TFBGSm1lOXp1Q1lHbGFpRGl6bzNhb0ZzSG0xTlMwN0RYeTBBYnNoVm5GOA?oc=5\" target=\"_blank\">조국혁신당서 ‘조국’ 뺀다…당명 개정 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2a1pMYlI2Mm1KekFiWDFWdGlpVG51Z3VuemxWVVhpUVRFaFZLd3JmRktHUl9CcjFnbG9Pc1ZISUpSYVlpcXE5ZWFTbGpyZHR5eXfSAVNBVV95cUxNM18xNy1rS0R2dXpoNzJNTUdjTzNpamhpQlF6cHNZYkN5TFBGSm1lOXp1Q1lHbGFpRGl6bzNhb0ZzSG0xTlMwN0RYeTBBYnNoVm5GOA?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 08:12:28 GMT",
-        "source": "서울경제",
-        "ageHours": 21
+        "title": "조국혁신당·개혁신당 자강의 시간 - 공공뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB6OEliSGI3alpFSzN5dlh2SEJKdHppbFRjS251TXBENDkyWVdONjB5SXVMd1dwYjl4UkxCMkIwSWlmZktob0dEX1VFSVJTRUVrdnRfdWFRaTBxcVdleU5ZZ2lIcVp4Nm1ual9uMDRB0gFuQVVfeXFMUHo4SWJIYjdqWkVLM3l2WHZIQkp0emlsVGNLbnVNcEQ0OTJZV042MHlJdUx3V3BiOXhSTEIyQjBJaWZmS2hvR0RfVUVJUlNFRWt2dF91YVFpMHFxV2V5TllnaUhxWng2bW5qX24wNEE?oc=5\" target=\"_blank\">조국혁신당·개혁신당 자강의 시간</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">공공뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6OEliSGI3alpFSzN5dlh2SEJKdHppbFRjS251TXBENDkyWVdONjB5SXVMd1dwYjl4UkxCMkIwSWlmZktob0dEX1VFSVJTRUVrdnRfdWFRaTBxcVdleU5ZZ2lIcVp4Nm1ual9uMDRB0gFuQVVfeXFMUHo4SWJIYjdqWkVLM3l2WHZIQkp0emlsVGNLbnVNcEQ0OTJZV042MHlJdUx3V3BiOXhSTEIyQjBJaWZmS2hvR0RfVUVJUlNFRWt2dF91YVFpMHFxV2V5TllnaUhxWng2bW5qX24wNEE?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 03:40:22 GMT",
+        "source": "공공뉴스",
+        "ageHours": 1.7
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "480f7cf95537641dc4c7bd1951953ebff4dcffc38cd46879ef979406560d38f1",
-    "title": "이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시 - 헤럴드경제 미주판",
+    "postId": "f65fae265a627238210a4e6ea4ad5e4780e138ec1b2ccc87fa88c724a10e9c7d",
+    "title": "김민석, 당 회의서 '신천지' 발언한 박선원에 \"구두경고\" - MBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45116162614",
-    "sentAt": "2026-11-23T05:11:23.890Z"
+    "runId": "45117210977",
+    "sentAt": "2026-11-23T05:21:20.327Z"
   }
 }

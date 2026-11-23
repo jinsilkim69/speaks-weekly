@@ -1911,5 +1911,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "35699fcacd2726f6f42b1d7d051f9ebdd91d675b6954d6f566a415c6d388d2bd",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당서 ‘조국’ 뺀다…당명 개정 제안 - 서울경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2a1pMYlI2Mm1KekFiWDFWdGlpVG51Z3VuemxWVVhpUVRFaFZLd3JmRktHUl9CcjFnbG9Pc1ZISUpSYVlpcXE5ZWFTbGpyZHR5eXfSAVNBVV95cUxNM18xNy1rS0R2dXpoNzJNTUdjTzNpamhpQlF6cHNZYkN5TFBGSm1lOXp1Q1lHbGFpRGl6bzNhb0ZzSG0xTlMwN0RYeTBBYnNoVm5GOA?oc=5\" target=\"_blank\">조국혁신당서 ‘조국’ 뺀다…당명 개정 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2a1pMYlI2Mm1KekFiWDFWdGlpVG51Z3VuemxWVVhpUVRFaFZLd3JmRktHUl9CcjFnbG9Pc1ZISUpSYVlpcXE5ZWFTbGpyZHR5eXfSAVNBVV95cUxNM18xNy1rS0R2dXpoNzJNTUdjTzNpamhpQlF6cHNZYkN5TFBGSm1lOXp1Q1lHbGFpRGl6bzNhb0ZzSG0xTlMwN0RYeTBBYnNoVm5GOA?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 08:12:28 GMT",
+    "source": "서울경제",
+    "ageHours": 21,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당서 ‘조국’ 뺀다…당명 개정 제안",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "9aeb69387de76ba8bf86f949b0f2633f65c76008258a0d026a105e5bba31c3a4",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라\" - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zanN2VUNuN0VWeXdWZ2I4VGpLWEhzN3RDNWtsMFpJRHJGZUxKSnRFSkNZcjRvMXpuZVVwVTkwaDRvNURPV1d4RFJYejI4UDg?oc=5\" target=\"_blank\">오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zanN2VUNuN0VWeXdWZ2I4VGpLWEhzN3RDNWtsMFpJRHJGZUxKSnRFSkNZcjRvMXpuZVVwVTkwaDRvNURPV1d4RFJYejI4UDg?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 05:10:29 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "f65fae265a627238210a4e6ea4ad5e4780e138ec1b2ccc87fa88c724a10e9c7d",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, 당 회의서 '신천지' 발언한 박선원에 \"구두경고\" - MBC 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1tZmJBZUJYWjZET1dMQWJqZnJDeDNIelpsUlBCVk9heWNrRE5VaXpMWlI4dHRPY2h3NHU0dkhGejZwQS1mWEtweTdFdm1sc1BBeXRnZkhfNG1qOVRuTXk1bjRKMUdYOE9CWWNIM0cwMG1XSGdyd0NTQtIBeEFVX3lxTE4ybTZqQi1uRVdBNjF4enFLRG9GTWtheVI1Z253N0hzUnYydE1xMFlWd0NIN1RPY2gxTGs4RXJSQ2VGb1hlc1BESjRmS3BORFRVVTYyMGxnXzVKOElsZTdBU3luN0xoUzNIRmNLT3dicUtJdklvSUprLQ?oc=5\" target=\"_blank\">김민석, 당 회의서 '신천지' 발언한 박선원에 \"구두경고\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tZmJBZUJYWjZET1dMQWJqZnJDeDNIelpsUlBCVk9heWNrRE5VaXpMWlI4dHRPY2h3NHU0dkhGejZwQS1mWEtweTdFdm1sc1BBeXRnZkhfNG1qOVRuTXk1bjRKMUdYOE9CWWNIM0cwMG1XSGdyd0NTQtIBeEFVX3lxTE4ybTZqQi1uRVdBNjF4enFLRG9GTWtheVI1Z253N0hzUnYydE1xMFlWd0NIN1RPY2gxTGs4RXJSQ2VGb1hlc1BESjRmS3BORFRVVTYyMGxnXzVKOElsZTdBU3luN0xoUzNIRmNLT3dicUtJdklvSUprLQ?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 04:35:14 GMT",
+    "source": "MBC 뉴스",
+    "ageHours": 0.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 당 회의서 '신천지' 발언한 박선원에 \"구두경고\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

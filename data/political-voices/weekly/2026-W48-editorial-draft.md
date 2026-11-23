@@ -989,3 +989,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당서 ‘조국’ 뺀다…당명 개정 제안 - 서울경제
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당서 ‘조국’ 뺀다…당명 개정 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2a1pMYlI2Mm1KekFiWDFWdGlpVG51Z3VuemxWVVhpUVRFaFZLd3JmRktHUl9CcjFnbG9Pc1ZISUpSYVlpcXE5ZWFTbGpyZHR5eXfSAVNBVV95cUxNM18xNy1rS0R2dXpoNzJNTUdjTzNpamhpQlF6cHNZYkN5TFBGSm1lOXp1Q1lHbGFpRGl6bzNhb0ZzSG0xTlMwN0RYeTBBYnNoVm5GOA?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 "대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라" - 뉴스1
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 "대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zanN2VUNuN0VWeXdWZ2I4VGpLWEhzN3RDNWtsMFpJRHJGZUxKSnRFSkNZcjRvMXpuZVVwVTkwaDRvNURPV1d4RFJYejI4UDg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 당 회의서 '신천지' 발언한 박선원에 "구두경고" - MBC 뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 당 회의서 '신천지' 발언한 박선원에 "구두경고"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1tZmJBZUJYWjZET1dMQWJqZnJDeDNIelpsUlBCVk9heWNrRE5VaXpMWlI4dHRPY2h3NHU0dkhGejZwQS1mWEtweTdFdm1sc1BBeXRnZkhfNG1qOVRuTXk1bjRKMUdYOE9CWWNIM0cwMG1XSGdyd0NTQtIBeEFVX3lxTE4ybTZqQi1uRVdBNjF4enFLRG9GTWtheVI1Z253N0hzUnYydE1xMFlWd0NIN1RPY2gxTGs4RXJSQ2VGb1hlc1BESjRmS3BORFRVVTYyMGxnXzVKOElsZTdBU3luN0xoUzNIRmNLT3dicUtJdklvSUprLQ?oc=5)
+
+---
+
