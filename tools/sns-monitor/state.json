@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T08:51:15.173Z",
+  "lastCheckedAt": "2026-11-23T09:01:15.888Z",
   "seenPostIds": {
-    "87da76f29b4b45d2d16b24a29e25b79a6a7520c9c71d30d592049bc714687287": {
-      "seenAt": "2026-11-20T04:41:19.246Z",
-      "title": "이재명 대통령 직무평가 '잘하고 있다' 40% .. 부정평가 '부동산'에서 '경제/민생'으로 변화 - 데일리경제",
-      "targetName": "이재명"
-    },
-    "b3c7810b61c591f17db21578135c1929a9e74eb27d52b06db75efd793edc0fdc": {
-      "seenAt": "2026-11-20T04:51:23.856Z",
-      "title": "신장식, 민주당에 '조희대 탄핵안' 21일 표결 제안 - 한국경제",
-      "targetName": "신장식"
-    },
-    "6c827066941f63cc66630349f6e31cdcbb492ea2bc80121e1679947e5e990bd7": {
-      "seenAt": "2026-11-20T04:51:24.684Z",
-      "title": "“유시민·이준석 코인 발언 아쉬워…이젠 인식 바꿔야” - 이데일리",
-      "targetName": "이준석"
-    },
     "874ffeaf0fa712e3caffc1437b43f0488bb31e20df8b02e170439f20d44ec198": {
       "seenAt": "2026-11-20T04:51:25.596Z",
       "title": "조희대 탄핵 관련 기자회견 입장하는 신장식 대표 - 서울뉴스통신",
@@ -2515,14 +2500,62 @@
       "seenAt": "2026-11-23T08:51:17.481Z",
       "title": "62 of the most stupid things Donald Trump has ever said - Indy100",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "06a28cf5de1841d99f9482f925e6e415cfaa195da1a5cb9ab99615e0aa8ada62": {
+      "seenAt": "2026-11-23T09:01:17.364Z",
+      "title": "\"한동훈 원복해야\" vs \"관심 없다\"…윤리위 자료 폭로에 고조되는 장·한 갈등 - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
+    },
+    "c86188f05800228606e357c15bdeeb7dac58c9a451ec37f57222fdb41a3777d2": {
+      "seenAt": "2026-11-23T09:01:18.102Z",
+      "title": "한동훈 제명 시점 둘러싼 기획 의혹 추가 제기 - 스페셜타임스",
+      "targetName": "한동훈"
+    },
+    "c7ed7f87c56353307ab251a951afe278866ce400a9f8296bfe07eae974725d3c": {
+      "seenAt": "2026-11-23T09:01:18.843Z",
+      "title": "정청래, 하동 정씨 대종회 시제 초헌관 참석…선조 기리고 문중 화합 - 국제뉴스",
+      "targetName": "정청래"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "30eb755db4c486d4c1119537ed1e7bef11940a393d189a6277e0814f9e888646",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스 - SeattleN",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MUUNSWl9JeXZEOXpFTDRjMjRkRHRsdkRwNXJrZC1vOWZLQm1IekRYSkNYZmlrRGtyX0JrYkRyb1JlbEszSWNzZGVrTng?oc=5\" target=\"_blank\">외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeattleN</font>",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MUUNSWl9JeXZEOXpFTDRjMjRkRHRsdkRwNXJrZC1vOWZLQm1IekRYSkNYZmlrRGtyX0JrYkRyb1JlbEszSWNzZGVrTng?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 07:56:13 GMT",
+        "source": "SeattleN",
+        "ageHours": 1.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "fa2167e1a16c4a1938bfdb562a31b6cad7af23813e8efb063277feb84e21b766",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 의원·농민단체 '농지 소유 특례보다 실경작자 보호 우선' - 전북타임즈",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OSjBKdHhMeXlpZkdvdVRZS0taRldOWFdzY0JhX1dMcHpUWWxja0NlTHk5a2RUVDNCTXFQczZScldDOUNMeG5Jdjc1NTc3WTBRbnk5YmtqRXZzcHlQUkVJeDJ3?oc=5\" target=\"_blank\">신장식 의원·농민단체 '농지 소유 특례보다 실경작자 보호 우선'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전북타임즈</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OSjBKdHhMeXlpZkdvdVRZS0taRldOWFdzY0JhX1dMcHpUWWxja0NlTHk5a2RUVDNCTXFQczZScldDOUNMeG5Jdjc1NTc3WTBRbnk5YmtqRXZzcHlQUkVJeDJ3?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:35:50 GMT",
+        "source": "전북타임즈",
+        "ageHours": 3.4
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "e03035711ed2c1be81c34d8468663e6f7cbd65713042fb829395d57498df3a4f",
-    "title": "62 of the most stupid things Donald Trump has ever said - Indy100",
+    "postId": "c7ed7f87c56353307ab251a951afe278866ce400a9f8296bfe07eae974725d3c",
+    "title": "정청래, 하동 정씨 대종회 시제 초헌관 참석…선조 기리고 문중 화합 - 국제뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45141934024",
-    "sentAt": "2026-11-23T08:51:17.172Z"
+    "runId": "45143292491",
+    "sentAt": "2026-11-23T09:01:18.496Z"
   }
 }

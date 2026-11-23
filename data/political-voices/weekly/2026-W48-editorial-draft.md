@@ -1847,3 +1847,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** "한동훈 원복해야" vs "관심 없다"…윤리위 자료 폭로에 고조되는 장·한 갈등 - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "한동훈 원복해야" vs "관심 없다"…윤리위 자료 폭로에 고조되는 장·한 갈등
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYNTZWNkhZWDBuTmp1d0VNUnlsZjRjYkktWmxKOU1SZTNuU1pacjIwVGx6LXJYN25kbWNIX2xrNzZvTWl2XzIwUVhBbFR4UUdrR2FrOUU3VHdZQTZEMjF3STh3bTd1VUhycGJyOXVfRzJDNFJOLXk0OGZB0gF_QVVfeXFMUGdoNHJKNVBJNDJJWUFZRzRQSFpKRnExY21xaGM5U1pjbDk1WGpwcWJwNkVrcXpYREhKSnRIaEpLcWdsTTRlSWdmTmpqVHNLUllkR2wtWUptV2drUXM1b25rMGFQS2pIN0F2ZEMzTkVDb1BnbzZTNnhrc2VDR0Nybw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 제명 시점 둘러싼 기획 의혹 추가 제기 - 스페셜타임스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 제명 시점 둘러싼 기획 의혹 추가 제기
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTFAyR2lkaWFJbTBBeHZETDNGWUZ6S0xhOVhGYWh1anZ2aEJlQ0dhQ1ZJT2R1LUtzX2x4SUlxQXFMcmt3aUlsY3hZUmF4bUNSN3FLOVFLanJEWXYtbkhVUUx2d09rcTYwZV9FSmRuOWhGY2hIQzA?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 하동 정씨 대종회 시제 초헌관 참석…선조 기리고 문중 화합 - 국제뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 하동 정씨 대종회 시제 초헌관 참석…선조 기리고 문중 화합
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE03ZjlFQ003NEw4clJUMkpOQU9vUlN4Y0V0MDJaSEJFdndqM0c5aF9OVlVEbEotYkxLQWRjOGQ5bTdXRWx5YVlockY0dV9PYUgzZkR2b28wY2RjaDhvQkQ3eVVTcHV4MEl3MlprUkFR?oc=5)
+
+---
+
