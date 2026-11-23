@@ -978,5 +978,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "260502aa7ffbe531b7eb8ef44c11f6e379866bcf11b8c8c8c9650645785ed5ae",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "「M포토」 발언하는 김민석 대표 - M이코노미뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYzA4R3VabHFCbzZtM0d1X2RfUHhjYkY5cWZURjk4cENNeEV0V0dzcE9YSi1STkkzSDN1MVFlSEFxQkFWcmxfS2E5QWVIeU1yVHp4aFlxRklseVlqbU5XWWdXRXc2cFU?oc=5\" target=\"_blank\">「M포토」 발언하는 김민석 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">M이코노미뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYzA4R3VabHFCbzZtM0d1X2RfUHhjYkY5cWZURjk4cENNeEV0V0dzcE9YSi1STkkzSDN1MVFlSEFxQkFWcmxfS2E5QWVIeU1yVHp4aFlxRklseVlqbU5XWWdXRXc2cFU?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 02:02:03 GMT",
+    "source": "M이코노미뉴스",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 「M포토」 발언하는 김민석 대표",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
