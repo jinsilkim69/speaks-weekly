@@ -3643,5 +3643,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "30eb755db4c486d4c1119537ed1e7bef11940a393d189a6277e0814f9e888646",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스 - SeattleN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MUUNSWl9JeXZEOXpFTDRjMjRkRHRsdkRwNXJrZC1vOWZLQm1IekRYSkNYZmlrRGtyX0JrYkRyb1JlbEszSWNzZGVrTng?oc=5\" target=\"_blank\">외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeattleN</font>",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MUUNSWl9JeXZEOXpFTDRjMjRkRHRsdkRwNXJrZC1vOWZLQm1IekRYSkNYZmlrRGtyX0JrYkRyb1JlbEszSWNzZGVrTng?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 07:56:13 GMT",
+    "source": "SeattleN",
+    "ageHours": 1.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "fa2167e1a16c4a1938bfdb562a31b6cad7af23813e8efb063277feb84e21b766",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "신장식 의원·농민단체 '농지 소유 특례보다 실경작자 보호 우선' - 전북타임즈",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OSjBKdHhMeXlpZkdvdVRZS0taRldOWFdzY0JhX1dMcHpUWWxja0NlTHk5a2RUVDNCTXFQczZScldDOUNMeG5Jdjc1NTc3WTBRbnk5YmtqRXZzcHlQUkVJeDJ3?oc=5\" target=\"_blank\">신장식 의원·농민단체 '농지 소유 특례보다 실경작자 보호 우선'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전북타임즈</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OSjBKdHhMeXlpZkdvdVRZS0taRldOWFdzY0JhX1dMcHpUWWxja0NlTHk5a2RUVDNCTXFQczZScldDOUNMeG5Jdjc1NTc3WTBRbnk5YmtqRXZzcHlQUkVJeDJ3?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 05:35:50 GMT",
+    "source": "전북타임즈",
+    "ageHours": 3.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식 의원·농민단체 '농지 소유 특례보다 실경작자 보호 우선'",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

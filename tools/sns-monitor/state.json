@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T09:01:15.888Z",
+  "lastCheckedAt": "2026-11-23T09:11:13.694Z",
   "seenPostIds": {
-    "874ffeaf0fa712e3caffc1437b43f0488bb31e20df8b02e170439f20d44ec198": {
-      "seenAt": "2026-11-20T04:51:25.596Z",
-      "title": "조희대 탄핵 관련 기자회견 입장하는 신장식 대표 - 서울뉴스통신",
-      "targetName": "신장식"
-    },
-    "89bd906c4bc0cbfdcb18249ef2e6f355771e0367412918238f6c15448c0a443c": {
-      "seenAt": "2026-11-20T05:11:16.989Z",
-      "title": "한동훈, ‘조희대 탄핵 드라이브’ 與에 “가능성 0%, 곱게 미쳐야” - 시사저널",
-      "targetName": "한동훈"
-    },
-    "fac78f8eee7e76415c07c5d1498c360da04ab855aa318317cc795457c67c6b69": {
-      "seenAt": "2026-11-20T05:11:17.608Z",
-      "title": "“V좀 만나달라” 김건희 문자…한동훈 다섯 번 읽씹한 이유 - 중앙일보",
-      "targetName": "한동훈"
-    },
     "c3612e3731563d0f60b784a15e7bc370ea3ebfcf3c693b24a3d501106844fcd3": {
       "seenAt": "2026-11-20T05:11:18.255Z",
       "title": "조희대 탄핵 관련 기자회견하는 신장식 대표 - 서울뉴스통신",
@@ -2515,47 +2500,24 @@
       "seenAt": "2026-11-23T09:01:18.843Z",
       "title": "정청래, 하동 정씨 대종회 시제 초헌관 참석…선조 기리고 문중 화합 - 국제뉴스",
       "targetName": "정청래"
+    },
+    "30eb755db4c486d4c1119537ed1e7bef11940a393d189a6277e0814f9e888646": {
+      "seenAt": "2026-11-23T09:11:14.928Z",
+      "title": "외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스 - SeattleN",
+      "targetName": "조국"
+    },
+    "fa2167e1a16c4a1938bfdb562a31b6cad7af23813e8efb063277feb84e21b766": {
+      "seenAt": "2026-11-23T09:11:15.673Z",
+      "title": "신장식 의원·농민단체 '농지 소유 특례보다 실경작자 보호 우선' - 전북타임즈",
+      "targetName": "신장식"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "30eb755db4c486d4c1119537ed1e7bef11940a393d189a6277e0814f9e888646",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스 - SeattleN",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MUUNSWl9JeXZEOXpFTDRjMjRkRHRsdkRwNXJrZC1vOWZLQm1IekRYSkNYZmlrRGtyX0JrYkRyb1JlbEszSWNzZGVrTng?oc=5\" target=\"_blank\">외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeattleN</font>",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MUUNSWl9JeXZEOXpFTDRjMjRkRHRsdkRwNXJrZC1vOWZLQm1IekRYSkNYZmlrRGtyX0JrYkRyb1JlbEszSWNzZGVrTng?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 07:56:13 GMT",
-        "source": "SeattleN",
-        "ageHours": 1.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "fa2167e1a16c4a1938bfdb562a31b6cad7af23813e8efb063277feb84e21b766",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 의원·농민단체 '농지 소유 특례보다 실경작자 보호 우선' - 전북타임즈",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OSjBKdHhMeXlpZkdvdVRZS0taRldOWFdzY0JhX1dMcHpUWWxja0NlTHk5a2RUVDNCTXFQczZScldDOUNMeG5Jdjc1NTc3WTBRbnk5YmtqRXZzcHlQUkVJeDJ3?oc=5\" target=\"_blank\">신장식 의원·농민단체 '농지 소유 특례보다 실경작자 보호 우선'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전북타임즈</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OSjBKdHhMeXlpZkdvdVRZS0taRldOWFdzY0JhX1dMcHpUWWxja0NlTHk5a2RUVDNCTXFQczZScldDOUNMeG5Jdjc1NTc3WTBRbnk5YmtqRXZzcHlQUkVJeDJ3?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:35:50 GMT",
-        "source": "전북타임즈",
-        "ageHours": 3.4
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c7ed7f87c56353307ab251a951afe278866ce400a9f8296bfe07eae974725d3c",
-    "title": "정청래, 하동 정씨 대종회 시제 초헌관 참석…선조 기리고 문중 화합 - 국제뉴스",
+    "postId": "fa2167e1a16c4a1938bfdb562a31b6cad7af23813e8efb063277feb84e21b766",
+    "title": "신장식 의원·농민단체 '농지 소유 특례보다 실경작자 보호 우선' - 전북타임즈",
     "bot": "jongsuk_pol_bot",
-    "runId": "45143292491",
-    "sentAt": "2026-11-23T09:01:18.496Z"
+    "runId": "45144732992",
+    "sentAt": "2026-11-23T09:11:15.345Z"
   }
 }
