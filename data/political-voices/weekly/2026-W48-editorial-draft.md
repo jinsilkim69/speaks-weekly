@@ -482,3 +482,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 지지율 정체·계파 갈등 이중고…취임 100일 메시지 '주목' - 청주일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 지지율 정체·계파 갈등 이중고…취임 100일 메시지 '주목'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBLVTBHdm9CNWhlSXFkNWt1d0Z3VDh1M1BmdU9yNkQta0hKaFVIUGdSLXFHVUtlSjlVakwxZWM1NXlIM3pNVXlvbWk3WC05dC1GQ094SGZpLTZBc0ZJWDdEejNyWWJKWEpUUHc?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 코스피 반토막에 ``초심자의 운` 경고했지만 조롱 많이 받아`…증시 대책 3가지 제안 - 매일신문
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 코스피 반토막에 ``초심자의 운` 경고했지만 조롱 많이 받아`…증시 대책 3가지 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DU1BBNV90d3RlZUZDNU5IaV9TS3AxcnBuWHVWeXd5aTNDQ05uSVEwWklnTDkxb0F6RUVPdHp6bEdreGJsVU9IQnZ2QnBPOWQ3U3BlRE5iQXRuTlRJY2xvSllB?oc=5)
+
+---
+

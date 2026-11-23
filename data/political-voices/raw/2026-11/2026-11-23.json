@@ -928,5 +928,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "373982512a29c82ed588fe82bdc71defec840657dced8889ad6f9b8432849685",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, 지지율 정체·계파 갈등 이중고…취임 100일 메시지 '주목' - 청주일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBLVTBHdm9CNWhlSXFkNWt1d0Z3VDh1M1BmdU9yNkQta0hKaFVIUGdSLXFHVUtlSjlVakwxZWM1NXlIM3pNVXlvbWk3WC05dC1GQ094SGZpLTZBc0ZJWDdEejNyWWJKWEpUUHc?oc=5\" target=\"_blank\">김민석, 지지율 정체·계파 갈등 이중고…취임 100일 메시지 '주목'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">청주일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLVTBHdm9CNWhlSXFkNWt1d0Z3VDh1M1BmdU9yNkQta0hKaFVIUGdSLXFHVUtlSjlVakwxZWM1NXlIM3pNVXlvbWk3WC05dC1GQ094SGZpLTZBc0ZJWDdEejNyWWJKWEpUUHc?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 00:05:55 GMT",
+    "source": "청주일보",
+    "ageHours": 1.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 지지율 정체·계파 갈등 이중고…취임 100일 메시지 '주목'",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "a95ce5b3edc69f30a02a473fd7bb16e711557b19ac98fc415bbcf4117f27fa7a",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석, 코스피 반토막에 ``초심자의 운` 경고했지만 조롱 많이 받아`…증시 대책 3가지 제안 - 매일신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DU1BBNV90d3RlZUZDNU5IaV9TS3AxcnBuWHVWeXd5aTNDQ05uSVEwWklnTDkxb0F6RUVPdHp6bEdreGJsVU9IQnZ2QnBPOWQ3U3BlRE5iQXRuTlRJY2xvSllB?oc=5\" target=\"_blank\">이준석, 코스피 반토막에 ``초심자의 운` 경고했지만 조롱 많이 받아`…증시 대책 3가지 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DU1BBNV90d3RlZUZDNU5IaV9TS3AxcnBuWHVWeXd5aTNDQ05uSVEwWklnTDkxb0F6RUVPdHp6bEdreGJsVU9IQnZ2QnBPOWQ3U3BlRE5iQXRuTlRJY2xvSllB?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 01:51:45 GMT",
+    "source": "매일신문",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석, 코스피 반토막에 ``초심자의 운` 경고했지만 조롱 많이 받아`…증시 대책 3가지 제안",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
