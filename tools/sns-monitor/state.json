@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T20:01:13.357Z",
+  "lastCheckedAt": "2026-11-23T20:11:16.342Z",
   "seenPostIds": {
     "d04a631a9a0297f9e0909b818bf65ae66faea46963a4a7179fbfe44f6b707b13": {
       "seenAt": "2026-11-20T16:11:19.063Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-23T19:11:18.205Z",
       "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang - USA Today",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "06847ff7d0a322987095878ab774355f76bdfd2af84b8abdeb3027c65c3fc285": {
+      "seenAt": "2026-11-23T20:11:17.432Z",
+      "title": "카메라 앞서도 터진 내분…김민석 100일만에 탄핵 외친 속사정 - 중앙일보",
+      "targetName": "김민석"
+    },
+    "ce5502f6fecfe8656599736918dd8ee6083417033a84e31f6e8d3ab600e7f7ca": {
+      "seenAt": "2026-11-23T20:11:18.043Z",
+      "title": "Trump shares video comparing scrutiny of Schumer’s age to Biden’s - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "28e4928a4e85aaf7f3de8263280f8e9fd20f6e72c37027cff3bc8ea63754ce08",
-    "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang - USA Today",
+    "postId": "ce5502f6fecfe8656599736918dd8ee6083417033a84e31f6e8d3ab600e7f7ca",
+    "title": "Trump shares video comparing scrutiny of Schumer’s age to Biden’s - The Hill",
     "bot": "jongsuk_pol_bot",
-    "runId": "45246233047",
-    "sentAt": "2026-11-23T19:11:17.514Z"
+    "runId": "45256683761",
+    "sentAt": "2026-11-23T20:11:17.732Z"
   }
 }

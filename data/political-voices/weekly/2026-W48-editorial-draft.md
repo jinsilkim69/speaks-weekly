@@ -2822,3 +2822,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 카메라 앞서도 터진 내분…김민석 100일만에 탄핵 외친 속사정 - 중앙일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 카메라 앞서도 터진 내분…김민석 100일만에 탄핵 외친 속사정
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wMEJJVEllZ2lYNHJpQnVTTFVqYjRmVFNleU1HSlE4blAyVzFUNTFTN3R5bElRaS1XbWY0eTgtTkxxc1FBLWh3ZlRIWVRCYkU2VWFMMkdn?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump shares video comparing scrutiny of Schumer’s age to Biden’s - The Hill
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump shares video comparing scrutiny of Schumer’s age to Biden’s
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDZNN1dvNlVrNnI1eUZMUlRXM0NoZDl1eEZjWmFxYkRKcHZkbHAxeVltTmhPWHlxVjVkQkl4QVZtSS1GY1Y4MnliQnA4TjhiUEw4VEUwVmZxTndaQmtfcExmd01maFVkMDl4dWhEQ0pJN2pjU2VhYnlHdVVDdTRhWjB4WlVHMk5zRzdnOHJ4MlRVenA2M25uMmxB0gGfAUFVX3lxTE9XWUVZYmpFM2oxd01HN3VaeDFfRjBmTUZ0UENHYXJwYUE5Nmh0UXliMnkzZHhVNWZxQ0pQbTJRdHQwaGFqSkVqODczbFJaLVZLdnQ4bGNiampacjlxNHdTeTktQUNpNnRJUTdCaTBtd2RwZVVlRGNBVjhYZkJYQTREUFZjNmRkZWRFY01BX0IyV2RnN05EZnNhdXNrSmpmdw?oc=5)
+
+---
+
