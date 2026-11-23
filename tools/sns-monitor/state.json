@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T22:11:17.151Z",
+  "lastCheckedAt": "2026-11-23T22:21:16.535Z",
   "seenPostIds": {
     "736e9c19f318e09145a324f48e59c1defa36366ffb696edaed0474a169fbaac1": {
       "seenAt": "2026-11-20T18:41:19.181Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-23T21:51:16.198Z",
       "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief - The New York Times",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ca9ca6aa9e197bce6abc5a6ba2d57f3e09ac14e8c05b29a4ed491d424757c814": {
+      "seenAt": "2026-11-23T22:21:17.765Z",
+      "title": "조희대 탄핵…김민석 “모든 역량 집중” vs 장동혁 “李대통령 재판 재개 마중물” [투데이 여의도 스케치] - 세계일보",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "1c27b49c8c54eae1d4cbf082658ecd25694c86b38db4bec587149c80f2dabd30",
-    "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief - The New York Times",
+    "postId": "ca9ca6aa9e197bce6abc5a6ba2d57f3e09ac14e8c05b29a4ed491d424757c814",
+    "title": "조희대 탄핵…김민석 “모든 역량 집중” vs 장동혁 “李대통령 재판 재개 마중물” [투데이 여의도 스케치] - 세계일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45273812291",
-    "sentAt": "2026-11-23T21:51:15.649Z"
+    "runId": "45278814348",
+    "sentAt": "2026-11-23T22:21:17.271Z"
   }
 }
