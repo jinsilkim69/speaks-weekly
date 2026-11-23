@@ -885,3 +885,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與 최고위 ‘신천지 충돌’에 또 아수라장…김민석, 박선원에 구두 경고 - 시사저널
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 최고위 ‘신천지 충돌’에 또 아수라장…김민석, 박선원에 구두 경고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE80WHdQb3VVSExGcDQ2S2UtV0pmdFFjZ1FMczN0TlpQaWRqajY2eThsRmd3MzdJb1BNNUZ3T0tiQTI4eVI3YmFMbnhmY21BT2QzeWNpY0xxakpCd3RGbWRndkNmYU9meEFKSlV6Z1d6c9IBc0FVX3lxTE16c0JtWHNiTW96VVNhU3RnRWZIQ29pY003Vjg4SnN5Q2NJMDJ3QnRmZENSanY3SDNzZldLLWlWYlhyWUprazhJajVJQ096NUVsY2ppQU9KcVNWdTZ4Wm9kZi1HY1d0RF9NQnMxMkVDVTlMelU?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 “조희대 대법원장 탄핵 사유 차고도 넘쳐” - 동아일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 “조희대 대법원장 탄핵 사유 차고도 넘쳐”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE5JbXRybnZMcTFnMVdDcFkwaDZQS09Yc0JmY2Z4ZTNkbXhtRzc1M2lkM29EYmJfNFBFdnYxN3QybW5EZmplblIweGRDeFhuS1c1UUhwX0VZRTlmZnJXNnBhN2RYLUdWc1hoa21BSnhSVlhxX05jWVkw0gFmQVVfeXFMTk90S3JVd0hCVkNfbkEzNzAwcG5mcThwdThXdWNBczJYQ3IzeVVmRGxNZkc3dlZNU2c3bmphVDFoMUdIc1U1ZllQX1lDTGdvcmtpRUZhb3U1TzRnOFgwcDhlRFRnQS13?oc=5)
+
+---
+
