@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T16:41:14.283Z",
+  "lastCheckedAt": "2026-11-23T16:51:14.757Z",
   "seenPostIds": {
     "824dcfe51e922e72fe82d7bc459b256dd0233e06900865f29683c5e4c31fb68c": {
       "seenAt": "2026-11-20T14:41:26.020Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-23T16:11:17.299Z",
       "title": "Trump praises Nvidia’s reinstatement of Huang - The Hill",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d0ec0238549a90512ec3dd1206a60a9c7d6de77b8b30cea2cccb98fb1aae6003": {
+      "seenAt": "2026-11-23T16:51:16.051Z",
+      "title": "이준석, 코스피 급락에 제도 개선 3대 제안…“반대매매 기준 통일해야” - 뉴스코리아",
+      "targetName": "이준석"
+    },
+    "8af7d4800f9adcc56cc3bf8a770caf2931c5b686c6707860021bc85ee3b3f096": {
+      "seenAt": "2026-11-23T16:51:16.824Z",
+      "title": "Trump says \"no reason to believe\" Jensen Huang's return to Nvidia poses national security risk - CBS News",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "872f73f97e12381f6196b08558c0ed8fbb228688121e3bcabc4ea4b410a3073e",
-    "title": "Trump praises Nvidia’s reinstatement of Huang - The Hill",
+    "postId": "8af7d4800f9adcc56cc3bf8a770caf2931c5b686c6707860021bc85ee3b3f096",
+    "title": "Trump says \"no reason to believe\" Jensen Huang's return to Nvidia poses national security risk - CBS News",
     "bot": "jongsuk_pol_bot",
-    "runId": "45213590126",
-    "sentAt": "2026-11-23T16:11:16.984Z"
+    "runId": "45221110295",
+    "sentAt": "2026-11-23T16:51:16.435Z"
   }
 }
