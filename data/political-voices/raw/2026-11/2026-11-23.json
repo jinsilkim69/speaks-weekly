@@ -3718,5 +3718,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "67ab141ce59d0382f7eddf8f64996df906acc7df9ee7635a8461cc428974b35e",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "보수 대연합부터 코스피 반토막까지, 이준석의 해법은…24일 라이브 출연 [불편한 여의도] - 중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FREhRQ3VSTVJVMjI3clBQak9qRmFXY01mdHdjWnFzNU5IdTBpT1ZRQUdvemd1WE9SdktuMndxUWRMbEl3ckxLcjNmcXpZOTZKLVVtNWFn?oc=5\" target=\"_blank\">보수 대연합부터 코스피 반토막까지, 이준석의 해법은…24일 라이브 출연 [불편한 여의도]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FREhRQ3VSTVJVMjI3clBQak9qRmFXY01mdHdjWnFzNU5IdTBpT1ZRQUdvemd1WE9SdktuMndxUWRMbEl3ckxLcjNmcXpZOTZKLVVtNWFn?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 09:25:46 GMT",
+    "source": "중앙일보",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 보수 대연합부터 코스피 반토막까지, 이준석의 해법은…24일 라이브 출연",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

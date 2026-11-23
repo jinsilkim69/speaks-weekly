@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T09:21:14.685Z",
+  "lastCheckedAt": "2026-11-23T09:31:14.104Z",
   "seenPostIds": {
-    "cf200b345ff90ecc14b958042c95ddfb3286560083da09fc4a9dbb31c41dd580": {
-      "seenAt": "2026-11-20T05:21:24.546Z",
-      "title": "신장식 \"조희대 탄핵 더 미룰 이유 없다⋯내일 본회의서 표결 가능\" - 아이뉴스24",
-      "targetName": "신장식"
-    },
     "e6e008cafa882e68094cf7dfe700de6558742df4593f25164f4fdf60ab768968": {
       "seenAt": "2026-11-20T05:21:25.285Z",
       "title": "신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" - OhmyNews",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-23T09:21:15.978Z",
       "title": "Trump threatens fresh strikes on Iran if diplomacy fails - The Arab Weekly",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "67ab141ce59d0382f7eddf8f64996df906acc7df9ee7635a8461cc428974b35e": {
+      "seenAt": "2026-11-23T09:31:15.437Z",
+      "title": "보수 대연합부터 코스피 반토막까지, 이준석의 해법은…24일 라이브 출연 [불편한 여의도] - 중앙일보",
+      "targetName": "이준석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3e625d47a2e41de5757e4983b3319a53099c25373f205ceb171f5fd2e55016a2",
-    "title": "Trump threatens fresh strikes on Iran if diplomacy fails - The Arab Weekly",
+    "postId": "67ab141ce59d0382f7eddf8f64996df906acc7df9ee7635a8461cc428974b35e",
+    "title": "보수 대연합부터 코스피 반토막까지, 이준석의 해법은…24일 라이브 출연 [불편한 여의도] - 중앙일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45146208641",
-    "sentAt": "2026-11-23T09:21:15.357Z"
+    "runId": "45147739938",
+    "sentAt": "2026-11-23T09:31:14.736Z"
   }
 }
