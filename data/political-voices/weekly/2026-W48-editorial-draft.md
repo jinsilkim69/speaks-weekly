@@ -2224,3 +2224,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 조세일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFB5X2FMa3JXQ3d0cFF2SzBJaFJvOU5NM1VFU29sTjlIbnJqcUVtaVlVdTNKZ2dhakt3UUpfNkhhOW96eWo3Q0EtNEZXelRzZlpXZUlkTnhvRXVlb2hldm8yTFNhbk1oZDRjTjZmYzlqZw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 "차기 교육부 장관, AI시대 교육개혁 소신 있게 추진해야" - 한국사회복지저널
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 "차기 교육부 장관, AI시대 교육개혁 소신 있게 추진해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1mVXR4MnFoWE9EbzN5ODR1dHhDYlFBWEU5MWJyODR2cnZPbndwU255Tzlockl1Nm9Ua2cyWkdrN3cxcVFyUzdSVUMtdzRtZDdhYmg3TDJhcThBTFhfejZxYXBvTWYza0Y3d0tj?oc=5)
+
+---
+

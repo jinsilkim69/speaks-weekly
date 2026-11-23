@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T12:11:16.519Z",
+  "lastCheckedAt": "2026-11-23T12:21:17.234Z",
   "seenPostIds": {
     "9b9e0a0a6bd5ad4f9c1ca9dcfa702e7571ca266da2fe51d2f69f6d8a7aaf0f50": {
       "seenAt": "2026-11-20T08:01:16.168Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-23T11:51:19.686Z",
       "title": "Donald Trump’s Cozy New Post About Vladimir Putin Sparks Outrage - Yahoo News Singapore",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "131c3e42f110ea1493ee3e7207b6eb3d2e1b9b1cce540e8129109296d79d7657": {
+      "seenAt": "2026-11-23T12:21:18.513Z",
+      "title": "오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 조세일보",
+      "targetName": "이재명"
+    },
+    "adbb711addb35aef208e7fe949359084b919af458173b5bb6d8e15346a0cd091": {
+      "seenAt": "2026-11-23T12:21:19.132Z",
+      "title": "조국혁신당 \"차기 교육부 장관, AI시대 교육개혁 소신 있게 추진해야\" - 한국사회복지저널",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "fb13b138b2c79886d6528729ee6c3c06fa308248e870ec428f6d18797c6cd4db",
-    "title": "Donald Trump’s Cozy New Post About Vladimir Putin Sparks Outrage - Yahoo News Singapore",
+    "postId": "adbb711addb35aef208e7fe949359084b919af458173b5bb6d8e15346a0cd091",
+    "title": "조국혁신당 \"차기 교육부 장관, AI시대 교육개혁 소신 있게 추진해야\" - 한국사회복지저널",
     "bot": "jongsuk_pol_bot",
-    "runId": "45168854116",
-    "sentAt": "2026-11-23T11:51:19.367Z"
+    "runId": "45173452932",
+    "sentAt": "2026-11-23T12:21:18.825Z"
   }
 }
