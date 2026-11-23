@@ -1223,3 +1223,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 창당 1000일 앞두고 당명 개정론 부상…조국 ˝확장성 있는 새 이름 찾자˝:경찰연합신문 - 경찰연합신문
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 창당 1000일 앞두고 당명 개정론 부상…조국 ˝확장성 있는 새 이름 찾자˝:경찰연합신문
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrbjlZdzJtS2JxTjMxNFZGYjh1cTVMNzFRNW9VRnVwMXNlZ1M3T1V5amJxV0ZsQWh4Ny1VZE4wUFVqdjltSFdFVXM4MEVxZjYz0gFsQVVfeXFMT0pia0E3Z3Q0a3E3Zmk2TWlLMXJ3WWNLSnJQdnRVb1V2bHpPMnpXUHhCYWdxNThyWHRWQXRMa1NwYlJTTlV5c19lNmRwMmpONTNWMVZtOWgwQXktTVprbV9oM1lwcUQwaGVzR3My?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 조희대 대법원장 탄핵 촉구로 사법부 개혁 요구 쇄도 - 공감신문
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 조희대 대법원장 탄핵 촉구로 사법부 개혁 요구 쇄도
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pQUI0M3hOOXhPRE1mREV4ODR6TWxRUVZLanZlSktVS25UVWhIMTU4b3VyNHl5NnJXQ0JJcVhGRDFFa3FLSWIzZ0tIdnpTbjNhQ1lKREtZRzlYVTlHYlh2SEVwa1lBRXVM?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 ‘대장동’ 글 올리자…국힘 "할 말 많으면 재판부터" - JTBC
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 ‘대장동’ 글 올리자…국힘 "할 말 많으면 재판부터"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbkV0OGl6aTRFVUVJTVZZa05BTDVlcG5GY0JRektxUnA5OHRGSWtEUmVYOFN0clRhNFhmdVZxSk1WclpJanhMLUJ0MWNOd0lZNFdERQ?oc=5)
+
+---
+

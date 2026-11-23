@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T06:11:16.544Z",
+  "lastCheckedAt": "2026-11-23T06:21:18.232Z",
   "seenPostIds": {
-    "d1ac47600bf373360922e92bcefe5c7311b71f5615f03a7058a9a0fd3284de89": {
-      "seenAt": "2026-11-20T01:21:20.568Z",
-      "title": "우원식, 정청래 양비론 지적에 \"갈등 확장돼선 안 돼\" - 머니투데이 - 머니투데이",
-      "targetName": "정청래"
-    },
-    "0f73e96e761324d554959c98699832173847430c8fa6877d76b979ed75ab67bf": {
-      "seenAt": "2026-11-20T01:21:21.300Z",
-      "title": "신장식 “조희대 탄핵, 토요일 표결하자” - OBC 뉴스",
-      "targetName": "신장식"
-    },
-    "c7f358b98c0183429542caa65cdfa721689b7c276fc633e7a0ca6f94b3cdd1d0": {
-      "seenAt": "2026-11-20T01:31:16.074Z",
-      "title": "Here's the point Trump misses with Pete Rose 'pardon' - Cincinnati Enquirer",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "4b3afa326ac7712da0ee430e594b3e0875ccd8182da209eb10dc7ea489820446": {
       "seenAt": "2026-11-20T01:51:19.564Z",
       "title": "한동훈 “李 자기 재판막으려는 말초적 욕심…사법부 마비·후진국 초래” - 경기일보",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T06:11:18.820Z",
       "title": "조국혁신당 황현선 “당명 개정, 변화의 시작…정략적 합당 필요 없어” - 동아일보",
       "targetName": "조국"
+    },
+    "923bd1ab939f749277e676edb0e4e3fa0b9a751dcc7221da1b972f9aae0b8e54": {
+      "seenAt": "2026-11-23T06:21:19.607Z",
+      "title": "조국혁신당, 창당 1000일 앞두고 당명 개정론 부상…조국 ˝확장성 있는 새 이름 찾자˝:경찰연합신문 - 경찰연합신문",
+      "targetName": "조국"
+    },
+    "ffee0500dae87b0e2ade5e4f304f2e0eeedb03e70a3e4376a801a5b558aa1d4e": {
+      "seenAt": "2026-11-23T06:21:20.325Z",
+      "title": "조국혁신당, 조희대 대법원장 탄핵 촉구로 사법부 개혁 요구 쇄도 - 공감신문",
+      "targetName": "조국"
+    },
+    "b2ddc0a27feffb2ca383392976034cb466de1b375644764e2f58c93c9e5ebfca": {
+      "seenAt": "2026-11-23T06:21:21.037Z",
+      "title": "이재명 대통령 ‘대장동’ 글 올리자…국힘 \"할 말 많으면 재판부터\" - JTBC",
+      "targetName": "이재명"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "923bd1ab939f749277e676edb0e4e3fa0b9a751dcc7221da1b972f9aae0b8e54",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당, 창당 1000일 앞두고 당명 개정론 부상…조국 ˝확장성 있는 새 이름 찾자˝:경찰연합신문 - 경찰연합신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrbjlZdzJtS2JxTjMxNFZGYjh1cTVMNzFRNW9VRnVwMXNlZ1M3T1V5amJxV0ZsQWh4Ny1VZE4wUFVqdjltSFdFVXM4MEVxZjYz0gFsQVVfeXFMT0pia0E3Z3Q0a3E3Zmk2TWlLMXJ3WWNLSnJQdnRVb1V2bHpPMnpXUHhCYWdxNThyWHRWQXRMa1NwYlJTTlV5c19lNmRwMmpONTNWMVZtOWgwQXktTVprbV9oM1lwcUQwaGVzR3My?oc=5\" target=\"_blank\">조국혁신당, 창당 1000일 앞두고 당명 개정론 부상…조국 ˝확장성 있는 새 이름 찾자˝:경찰연합신문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경찰연합신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrbjlZdzJtS2JxTjMxNFZGYjh1cTVMNzFRNW9VRnVwMXNlZ1M3T1V5amJxV0ZsQWh4Ny1VZE4wUFVqdjltSFdFVXM4MEVxZjYz0gFsQVVfeXFMT0pia0E3Z3Q0a3E3Zmk2TWlLMXJ3WWNLSnJQdnRVb1V2bHpPMnpXUHhCYWdxNThyWHRWQXRMa1NwYlJTTlV5c19lNmRwMmpONTNWMVZtOWgwQXktTVprbV9oM1lwcUQwaGVzR3My?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 22:41:52 GMT",
-        "source": "경찰연합신문",
-        "ageHours": 7.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ffee0500dae87b0e2ade5e4f304f2e0eeedb03e70a3e4376a801a5b558aa1d4e",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당, 조희대 대법원장 탄핵 촉구로 사법부 개혁 요구 쇄도 - 공감신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pQUI0M3hOOXhPRE1mREV4ODR6TWxRUVZLanZlSktVS25UVWhIMTU4b3VyNHl5NnJXQ0JJcVhGRDFFa3FLSWIzZ0tIdnpTbjNhQ1lKREtZRzlYVTlHYlh2SEVwa1lBRXVM?oc=5\" target=\"_blank\">조국혁신당, 조희대 대법원장 탄핵 촉구로 사법부 개혁 요구 쇄도</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">공감신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pQUI0M3hOOXhPRE1mREV4ODR6TWxRUVZLanZlSktVS25UVWhIMTU4b3VyNHl5NnJXQ0JJcVhGRDFFa3FLSWIzZ0tIdnpTbjNhQ1lKREtZRzlYVTlHYlh2SEVwa1lBRXVM?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:19:57 GMT",
-        "source": "공감신문",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "b2ddc0a27feffb2ca383392976034cb466de1b375644764e2f58c93c9e5ebfca",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령 ‘대장동’ 글 올리자…국힘 \"할 말 많으면 재판부터\" - JTBC",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbkV0OGl6aTRFVUVJTVZZa05BTDVlcG5GY0JRektxUnA5OHRGSWtEUmVYOFN0clRhNFhmdVZxSk1WclpJanhMLUJ0MWNOd0lZNFdERQ?oc=5\" target=\"_blank\">이재명 대통령 ‘대장동’ 글 올리자…국힘 \"할 말 많으면 재판부터\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbkV0OGl6aTRFVUVJTVZZa05BTDVlcG5GY0JRektxUnA5OHRGSWtEUmVYOFN0clRhNFhmdVZxSk1WclpJanhMLUJ0MWNOd0lZNFdERQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:43:00 GMT",
-        "source": "JTBC",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "a389e226a34eeda13f28d532c2c6f0ca3edc2d52f15759e887ddd31324d7bdcc",
@@ -2709,13 +2661,45 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "e18f3eb476de7184b3e032205fc616887f6139c582ebed2df3527b3ae8c83a70",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 대표, 신천지 의혹 '日 부역자' 언급 박선원에 구두 경고 - 경기일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PUGZFa3l5V1luRWNaTjVyaE1SU09PUHRfQXoyOEJLblBQZFhzTERlZXE0eWh6UUhNTnQxWVZsMi1EdE0tT0FWRERaZjRiUHcxYW82c1Y5SEpTU00?oc=5\" target=\"_blank\">김민석 대표, 신천지 의혹 '日 부역자' 언급 박선원에 구두 경고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PUGZFa3l5V1luRWNaTjVyaE1SU09PUHRfQXoyOEJLblBQZFhzTERlZXE0eWh6UUhNTnQxWVZsMi1EdE0tT0FWRERaZjRiUHcxYW82c1Y5SEpTU00?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 06:13:48 GMT",
+        "source": "경기일보",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f7986f08d0baabe43e041faa25d15f0505648ae8de0b8cf72addc9be9d557cb6",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "[포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표 - 파이낸스투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9UajF0VDN3WUpWYnM4SktUNlFQT2pUNjNqSHYtN09vQmRSQjhHQ0E5Ri16dnExSlJsYi1fOThqcFVYRWpZN2huOTRZOUlra3g0dlk2VGxUM0FOQVBBVFBPYnFIN1BfZl9pYWwzSQ?oc=5\" target=\"_blank\">[포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸스투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UajF0VDN3WUpWYnM4SktUNlFQT2pUNjNqSHYtN09vQmRSQjhHQ0E5Ri16dnExSlJsYi1fOThqcFVYRWpZN2huOTRZOUlra3g0dlk2VGxUM0FOQVBBVFBPYnFIN1BfZl9pYWwzSQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 06:05:07 GMT",
+        "source": "파이낸스투데이",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "3790cea263b7c172b42b926aef512b40bf098b49fd5f67f3262994b5cbe45ef2",
-    "title": "조국혁신당 황현선 “당명 개정, 변화의 시작…정략적 합당 필요 없어” - 동아일보",
+    "postId": "b2ddc0a27feffb2ca383392976034cb466de1b375644764e2f58c93c9e5ebfca",
+    "title": "이재명 대통령 ‘대장동’ 글 올리자…국힘 \"할 말 많으면 재판부터\" - JTBC",
     "bot": "jongsuk_pol_bot",
-    "runId": "45122409191",
-    "sentAt": "2026-11-23T06:11:18.510Z"
+    "runId": "45123498579",
+    "sentAt": "2026-11-23T06:21:20.676Z"
   }
 }
