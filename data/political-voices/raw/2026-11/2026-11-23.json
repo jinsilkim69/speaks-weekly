@@ -1078,5 +1078,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8bd65c14bb5ebc9e0d904344396ba2c075984b81d1622d073d55dbfede931f82",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "[포토] 당내 논란...김민석 “책임 있게, 최대 한도로 힘을 모아 풀겠다” - 일요시사",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE02dlpGbGxRSFN5N0xDU3FmN0ZWdUZtUEFSNlNQQ0FDdUpteDRmYVUxMWxKSlR0cE00ODJ4S0FlUXhka2JFX1RQUUlaNC11RVNtQmYyaldxaWVibndDUF9PUHlWUzE?oc=5\" target=\"_blank\">[포토] 당내 논란...김민석 “책임 있게, 최대 한도로 힘을 모아 풀겠다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">일요시사</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02dlpGbGxRSFN5N0xDU3FmN0ZWdUZtUEFSNlNQQ0FDdUpteDRmYVUxMWxKSlR0cE00ODJ4S0FlUXhka2JFX1RQUUlaNC11RVNtQmYyaldxaWVibndDUF9PUHlWUzE?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 02:17:12 GMT",
+    "source": "일요시사",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 당내 논란...김민석 “책임 있게, 최대 한도로 힘을 모아 풀겠다”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
