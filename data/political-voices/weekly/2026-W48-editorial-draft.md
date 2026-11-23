@@ -326,3 +326,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** "드러난 악마의 속마음 ... 정청래, 최민희 무서워" #shorts - OhmyNews
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "드러난 악마의 속마음 ... 정청래, 최민희 무서워" #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE9QVHNpb1NwTld2VkNyX0FsdkxXRlZxbGhUbmt1TWxCX25LbUNVb1c2aE5Wc2dLdXJMRmlNQ1RzYTRVQm1RZl9mSENZbHpBM0tqSklPSlU1WG1iUEkwby12X3NmbXp0ZzQ5MUx4ZjZoRmxRTk40VW1xTDdnSnZlazg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [PICK! 이 안건] 정청래 등 10인 "시험감독관의 검색요구에 따르지 않을 경우 10년간 수능시험 응시자격 박탈 등 처벌해야" - 전국매일신문
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 등 10인 "시험감독관의 검색요구에 따르지 않을 경우 10년간 수능시험 응시자격 박탈 등 처벌해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1kb3hsbWllV3diUVcwbWQ4WEIyTm54eHdLeUpHRTI3dWFmcmpQYmJ2bmhiRkJrb3N1WmlyOEFCWm9TRTVuQ2tHVkxmVFE5T2x0TVNva3RTa0FTLWM4N1dyVy1fQzhZc0ZPOWowTkFB?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** "통합은 이미 결정, 연구용역은 요식행위인가"…신장식 의원·4대 항만 노조, 24일 국회서 규탄 회견 - 해사신문
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "통합은 이미 결정, 연구용역은 요식행위인가"…신장식 의원·4대 항만 노조, 24일 국회서 규탄 회견
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE5MVkFHNGgxYTBSR1FvV29aZW4tejhqUl9CSkJPd3JoR1ZCNU52OTA1clZCMEZ5ZHpIZXMyTUhtSDdWdzZUSldWaUVJcUlLazQxR3FCb2YtTnhublZMMWJ1Z1B1ckZmcV83ejBV?oc=5)
+
+---
+
