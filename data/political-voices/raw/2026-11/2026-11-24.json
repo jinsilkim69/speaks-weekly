@@ -473,5 +473,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d9b5c38d63733b215964222e6ea500fc129e41e386daeb77eb1d7eb0e44ab592",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Posts Bizarre AI Meme of Jensen Huang Holding Up Bra Riffing Off Assassination Attempt - Variety",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHZ6N3NOWnlkM2o0Q0tkeWkyZXhVZXFYQnlfam1ySzI4bTk2NWpVQmN4elU3WGlvbXBYUEJCS1ExZEliTm1WM29lUzhrU2YyR2tGWjFtcEZzQVNEMzM0N2hWLWZLRGlXdklDSTE1dF9DTjRTcGxsTk5oQmpfSVdYNHMxNDNwNkc1NS1qcWZEYjU1SE5CU01hNW1mTDZJeHpNZ3NGdw?oc=5\" target=\"_blank\">Trump Posts Bizarre AI Meme of Jensen Huang Holding Up Bra Riffing Off Assassination Attempt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font>",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHZ6N3NOWnlkM2o0Q0tkeWkyZXhVZXFYQnlfam1ySzI4bTk2NWpVQmN4elU3WGlvbXBYUEJCS1ExZEliTm1WM29lUzhrU2YyR2tGWjFtcEZzQVNEMzM0N2hWLWZLRGlXdklDSTE1dF9DTjRTcGxsTk5oQmpfSVdYNHMxNDNwNkc1NS1qcWZEYjU1SE5CU01hNW1mTDZJeHpNZ3NGdw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 16:55:00 GMT",
+    "source": "Variety",
+    "ageHours": 1.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Posts Bizarre AI Meme of Jensen Huang Holding Up Bra Riffing Off Assassination Attempt",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

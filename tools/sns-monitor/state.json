@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T18:21:23.011Z",
+  "lastCheckedAt": "2026-11-23T18:31:16.596Z",
   "seenPostIds": {
-    "475c56561d7f9bb449a95191d9928cd4019e434f40ab6124931b92bfd6936e1b": {
-      "seenAt": "2026-11-20T15:41:18.185Z",
-      "title": "WATCH LIVE: Trump holds news conference after China trip - Washington Examiner",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "029440a8fbadc9d450d1f70a91c8ed81fc13be06b9738752269c8cdbb3e536c9": {
-      "seenAt": "2026-11-20T15:51:18.958Z",
-      "title": "President Donald Trump Pardons Pete Rose, Claims Baseball Legend Was ‘Treated Terribly’ by MLB - Yahoo Sports",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "c4b8c9715c86159c475d0fddcdd7cd2c461543c7ff9beac6009ed1ff63ceb0b0": {
       "seenAt": "2026-11-20T16:01:21.355Z",
       "title": "\"조희대 탄핵은 국헌문란이자 내란\" 국힘 맹공…한동훈 \"임진왜란 일으킨 격\" - KBC광주방송",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-23T18:21:25.903Z",
       "title": "Trump posts AI image of Jensen Haung after news of reinstatement - FOX 4 News Dallas-Fort Worth",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d9b5c38d63733b215964222e6ea500fc129e41e386daeb77eb1d7eb0e44ab592": {
+      "seenAt": "2026-11-23T18:31:18.208Z",
+      "title": "Trump Posts Bizarre AI Meme of Jensen Huang Holding Up Bra Riffing Off Assassination Attempt - Variety",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "44c833f6f97890c5f52ec3a172f41b0f9aff6e2717322ec9a03fbba391a718af",
-    "title": "Trump posts AI image of Jensen Haung after news of reinstatement - FOX 4 News Dallas-Fort Worth",
+    "postId": "d9b5c38d63733b215964222e6ea500fc129e41e386daeb77eb1d7eb0e44ab592",
+    "title": "Trump Posts Bizarre AI Meme of Jensen Huang Holding Up Bra Riffing Off Assassination Attempt - Variety",
     "bot": "jongsuk_pol_bot",
-    "runId": "45237431671",
-    "sentAt": "2026-11-23T18:21:25.507Z"
+    "runId": "45239220232",
+    "sentAt": "2026-11-23T18:31:17.526Z"
   }
 }
