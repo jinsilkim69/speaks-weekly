@@ -2185,3 +2185,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 조세일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQ3BVcmhqV2E2WnExWkp5djRMOEFoamZGX1lBWU1XdVdfWnVYT1JKcWFGWXhETGtKYV9fUmZTSFZqZG1XQm9qM1VqUXdEOU5kMy1wMUN6UmdkX2FWRkJwM21IVml2blFDUm5NRVIxeDl5XzVr?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 “의무공개매수제도, 정무위안 바로잡아야…매수 대상 100%로” - 로리더
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 “의무공개매수제도, 정무위안 바로잡아야…매수 대상 100%로”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE5hdWpURE5OdWR2eDRmYk8xeWFreWpqOHFLOEVwX292M2wzQUZuOGFsYVFOOHZUOE5vX0FGNl9haWRITEVRWnhXbXVjTm1fS2IyUnQ2ektMOTNTUFRVNG1wcU9abE5YSVdhQU9kZGF30gFyQVVfeXFMUHpmS20zU3RNYVlIQUdWX1BFOWdJemFGc2s0alhrSVhBRmkyeHI2U3JBbmRoNFgyamttLWNlb0FGMU1wOXF5LTVjWXNkVVZxX2F0VVVUU1NEZTlucktDN3l5WFVhM2p6YWtyRjB3cERNZDh3?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump’s Cozy New Post About Vladimir Putin Sparks Outrage - Yahoo News Singapore
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump’s Cozy New Post About Vladimir Putin Sparks Outrage
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMifEFVX3lxTE96UDAyaUJrYWZpX2R4QjlDYXFWU21zS0ZJYWxxS0lfVUpKSDI1U096cnlMLXhzM3Q3YTN2VTA0SFRaWmFfUFNvNUU3UW5hVlJQWERUVFVDNDhvZ1FsTjlZVGJnVzh6bTYwOVFSMlhBdmQ2R3ZDbzVnMzkwWlA?oc=5)
+
+---
+

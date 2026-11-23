@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T11:41:17.082Z",
+  "lastCheckedAt": "2026-11-23T11:51:17.031Z",
   "seenPostIds": {
-    "e342d5a31a2afda328060314e6b6df8f3ceaf9747585bc0b5c7151ede9878d1a": {
-      "seenAt": "2026-11-20T07:31:21.224Z",
-      "title": "밝은 표정의 최민희, 정청래와 악수... 징계 공방 속 맞잡은 손 [오늘의 정치 B컷] - 세계일보",
-      "targetName": "정청래"
-    },
     "896ad6db9c8cdb60a58d5b3c8db553c9741c6a49d1f234c2df8c98a1ad5a1127": {
       "seenAt": "2026-11-20T07:41:19.541Z",
       "title": "축구 접고 회사 그만두고 아시아 정상… 이준석, 인천 학생선수들 앞에 서다 - 한국무예신문",
@@ -2505,14 +2500,29 @@
       "seenAt": "2026-11-23T11:41:18.549Z",
       "title": "한동훈 제명 결정한 날, 장동혁에 “이벤트 마무리중” 문자 전송 - 동아일보",
       "targetName": "한동훈"
+    },
+    "c1b560c660325234da328c8b462677e5650e7b490878bb2f525655bec5b2a714": {
+      "seenAt": "2026-11-23T11:51:18.395Z",
+      "title": "오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 조세일보",
+      "targetName": "이재명"
+    },
+    "2aa55219652eb29611f315edee160bddb6f8d27dd9ce5c016090e28d6ef85ecd": {
+      "seenAt": "2026-11-23T11:51:19.029Z",
+      "title": "신장식 “의무공개매수제도, 정무위안 바로잡아야…매수 대상 100%로” - 로리더",
+      "targetName": "신장식"
+    },
+    "fb13b138b2c79886d6528729ee6c3c06fa308248e870ec428f6d18797c6cd4db": {
+      "seenAt": "2026-11-23T11:51:19.686Z",
+      "title": "Donald Trump’s Cozy New Post About Vladimir Putin Sparks Outrage - Yahoo News Singapore",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "d4a48163ad7657cef9e0afd17b7d48864457a1443ee915f7dcc422bbf19dab93",
-    "title": "한동훈 제명 결정한 날, 장동혁에 “이벤트 마무리중” 문자 전송 - 동아일보",
+    "postId": "fb13b138b2c79886d6528729ee6c3c06fa308248e870ec428f6d18797c6cd4db",
+    "title": "Donald Trump’s Cozy New Post About Vladimir Putin Sparks Outrage - Yahoo News Singapore",
     "bot": "jongsuk_pol_bot",
-    "runId": "45167377753",
-    "sentAt": "2026-11-23T11:41:17.939Z"
+    "runId": "45168854116",
+    "sentAt": "2026-11-23T11:51:19.367Z"
   }
 }
