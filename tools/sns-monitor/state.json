@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T14:11:15.050Z",
+  "lastCheckedAt": "2026-11-23T14:21:16.988Z",
   "seenPostIds": {
-    "3dc1f3c5af228e415bf23a710f56bd0a5020c2e631ed83522e835694e6339a1f": {
-      "seenAt": "2026-11-20T09:51:25.005Z",
-      "title": "한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나? - 에너지경제신문",
-      "targetName": "김민석"
-    },
-    "474202998c63ab2ed01c248faa2db61a1b04fb309842626a88e53c2c56506ab5": {
-      "seenAt": "2026-11-20T09:51:25.763Z",
-      "title": "동응악구: 디지털 공동체 구축에 있어 조국전선의 역할 증진. - Vietnam.vn",
-      "targetName": "조국"
-    },
-    "ecc4d6c44d59b8d47219bc1932d530b0fb30c57a1dbeba0d1ddd1ef6694a80df": {
-      "seenAt": "2026-11-20T10:01:16.678Z",
-      "title": "이재명 대통령, 전자정부 세계 1위에…수출 1조 달러 이어 12년 만의 쾌거 - CBC뉴스",
-      "targetName": "이재명"
-    },
     "662f4f4a5c32851f7c28b04258102e2de6cecbccc231fb89c7c9ad497040a311": {
       "seenAt": "2026-11-20T10:21:16.471Z",
       "title": "조국혁신당 “민주당, 이번 주말 바로 조희대 탄핵하자” - KBS 뉴스",
@@ -2515,14 +2500,24 @@
       "seenAt": "2026-11-23T14:11:17.351Z",
       "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang - MarketWatch",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "0f1b68651e0237c932fdbac2b9436c9bba845e71d829664a159ed6e8eb2c035d": {
+      "seenAt": "2026-11-23T14:21:18.538Z",
+      "title": "외교 수장은 임웅순으로…송영길 입각 기대 꺾은 ‘동맹과 실무’ - 재외동포신문",
+      "targetName": "송영길"
+    },
+    "52b8079b85a0bf085d2451688a94585822f7db83979054ad35be4ef27bf1afb5": {
+      "seenAt": "2026-11-23T14:21:19.345Z",
+      "title": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing’ for U.S. - The Washington Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "736568d78bac54b01660529fc0ba45e4e45926306ff8af98e43a995af02332a3",
-    "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang - MarketWatch",
+    "postId": "52b8079b85a0bf085d2451688a94585822f7db83979054ad35be4ef27bf1afb5",
+    "title": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing’ for U.S. - The Washington Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "45191441687",
-    "sentAt": "2026-11-23T14:11:17.051Z"
+    "runId": "45193241124",
+    "sentAt": "2026-11-23T14:21:18.944Z"
   }
 }
