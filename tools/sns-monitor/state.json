@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T15:41:14.332Z",
+  "lastCheckedAt": "2026-11-23T15:51:18.895Z",
   "seenPostIds": {
     "2d792a19cf9b620cf03efda9c4fdc7d9ef8766784a5eec85b2004a363a3bcc9d": {
       "seenAt": "2026-11-20T12:41:19.341Z",
@@ -2502,12 +2502,31 @@
       "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "f4922f4518285b41d9bb98de1a446fe63dc0dfbc0eebcb6443c7eff2c70541e9",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate leader - Baltimore Sun",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSW01OFdPWmF2Zm1Wb2R2amUzTi13SFRyQU1tNDFwY3lTN2JNTGdOcTRKRG1oQXpiaGs1WUpDNWxiNFp4VWlmbG9SNTRBWDRKbVYxbEhDdWRyMmxtRGMtbjdGSlhPMjllekhUeDB0amM5OUZURUJ4c0JEcDRvbjBTZE94enpyRHdJOVV1bWdOWE5EQVFtdXA3am1fRmFkNFpEYmVoWV9jNW1iT1BFZnF3?oc=5\" target=\"_blank\">Trump says it will be ‘very hard’ to work with Schumer as Senate leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baltimore Sun</font>",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSW01OFdPWmF2Zm1Wb2R2amUzTi13SFRyQU1tNDFwY3lTN2JNTGdOcTRKRG1oQXpiaGs1WUpDNWxiNFp4VWlmbG9SNTRBWDRKbVYxbEhDdWRyMmxtRGMtbjdGSlhPMjllekhUeDB0amM5OUZURUJ4c0JEcDRvbjBTZE94enpyRHdJOVV1bWdOWE5EQVFtdXA3am1fRmFkNFpEYmVoWV9jNW1iT1BFZnF3?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 15:39:01 GMT",
+        "source": "Baltimore Sun",
+        "ageHours": 0.2
+      },
+      "delivered": [
+        "7feb08519b5a3fb6ed164637254ee2b714d6a2d9ee36ef370074d084638ccc5a"
+      ],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "7e482f93cf3b52af3da8b2b9e3c4f369afe655efa0bb297039218cd954a94117",
-    "title": "‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang - Time Magazine",
+    "postId": "f4922f4518285b41d9bb98de1a446fe63dc0dfbc0eebcb6443c7eff2c70541e9",
+    "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate leader - Baltimore Sun",
     "bot": "jongsuk_pol_bot",
-    "runId": "45206102801",
-    "sentAt": "2026-11-23T15:31:19.491Z"
+    "runId": "45209815851",
+    "sentAt": "2026-11-23T15:51:19.630Z"
   }
 }
