@@ -2874,3 +2874,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 민주당도 경계하는 한동훈 복당?…역설적 보수 결집 계기 될까 - 데일리안
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당도 경계하는 한동훈 복당?…역설적 보수 결집 계기 될까
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiogJBVV95cUxNV3BSYWJEU25WV25JZDhoeC1KekdhQzVpOWZSdEFlVUhGRkJ5R0ZKU01FMXp3T2oyNFh3cU4xbkozRW9ma0ZUcjFRN0xkWVNQWjRNM3F6eTBWRWRwN0dVcVNNaC1FVE5FaGtOMVlaUDhrRERjSEdZZTdyR3JMRDJvcmNCT3kxWWdZSHZmQ2p0d0JzQk9TMXd3WDltUUhvbzVvYnc3b0N1dWFoX1pqblNURHJ3a0pvUV83akJqeWFPREN5aXIxZG1PeUpKQzJDWWxQNVVNRlE0NnBWRm9NUC1JVnFvczUyRWlKV0NZd0ptUjNvb1JNdkJrWVdMdS1odUdkUXU2ekw3NzFQNHR5Y0d0dnhYdjQ1cU04Rlo2eWswcG9TZw?oc=5)
+
+---
+
