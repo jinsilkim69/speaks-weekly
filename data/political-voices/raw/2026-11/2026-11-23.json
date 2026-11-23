@@ -1531,5 +1531,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8f8b1ce642e33fb2e3d1ef21e4d1a40f6db5dd69e33c8f2dd6ab8dafaf559367",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "친명·친청, 신천지로 '반민특위' 설전…김민석, 박선원에 '구두경고'(종합) - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQjQ0LTlSS01VT25BZmt6aGNMYVhGdkVrcGMxaFpTS1dlMmJTUTA2T0FmMy1wX3NNcUNXdkotZjJIWVVybGpNZTAtVFRsT2tYZzMwdVRhem1zdw?oc=5\" target=\"_blank\">친명·친청, 신천지로 '반민특위' 설전…김민석, 박선원에 '구두경고'(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQjQ0LTlSS01VT25BZmt6aGNMYVhGdkVrcGMxaFpTS1dlMmJTUTA2T0FmMy1wX3NNcUNXdkotZjJIWVVybGpNZTAtVFRsT2tYZzMwdVRhem1zdw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 02:54:59 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 친명·친청, 신천지로 '반민특위' 설전…김민석, 박선원에 '구두경고'(종합)",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

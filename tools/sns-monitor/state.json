@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T03:41:17.085Z",
+  "lastCheckedAt": "2026-11-23T03:51:14.635Z",
   "seenPostIds": {
-    "aac9fc25ca1c1eaa77b24e466b6a4a159b798d95e053413e0b9fa2f3b3cbc19c": {
-      "seenAt": "2026-11-19T22:31:19.391Z",
-      "title": "홍준표, 한동훈 겨냥 “배신자들 활개치는 세상, 정의에 반해” - 주간경향",
-      "targetName": "한동훈"
-    },
-    "2703ae535b62bad71fa0be9c6cad8e1fd6b510f84fc492cf5ebeee9dd4422b50": {
-      "seenAt": "2026-11-19T22:31:20.104Z",
-      "title": "추경호 무죄에 다시 불붙은 與내홍…한동훈 복당 '가시밭길' - 머니투데이 - 머니투데이",
-      "targetName": "한동훈"
-    },
-    "952f958760e3f6c8faad4eba34ffa45a5d5d6fd7c879c482c4cce1d7805285ab": {
-      "seenAt": "2026-11-19T22:31:20.941Z",
-      "title": "정청래, 한덕수 파기환송에 \"조희대 사법부 규탄…인정할 수 없다\" - 머니투데이 - 머니투데이",
-      "targetName": "정청래"
-    },
     "e0be671f1c5d47e581a2af45fa34b78e43974c4f3f6760a5d432be28cadc2ca0": {
       "seenAt": "2026-11-19T22:41:21.385Z",
       "title": "정청래 \"한덕수 일부 무죄는 꼼수 판결…조희대 탄핵 마땅\" - 대전일보",
@@ -2515,31 +2500,19 @@
       "seenAt": "2026-11-23T03:41:19.738Z",
       "title": "김민석, 친정청래계 겨냥 “일제 부역자” 발언 박선원에 엄중 경고 - KBS 뉴스",
       "targetName": "정청래"
+    },
+    "8f8b1ce642e33fb2e3d1ef21e4d1a40f6db5dd69e33c8f2dd6ab8dafaf559367": {
+      "seenAt": "2026-11-23T03:51:15.974Z",
+      "title": "친명·친청, 신천지로 '반민특위' 설전…김민석, 박선원에 '구두경고'(종합) - 뉴스1",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "8f8b1ce642e33fb2e3d1ef21e4d1a40f6db5dd69e33c8f2dd6ab8dafaf559367",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "친명·친청, 신천지로 '반민특위' 설전…김민석, 박선원에 '구두경고'(종합) - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQjQ0LTlSS01VT25BZmt6aGNMYVhGdkVrcGMxaFpTS1dlMmJTUTA2T0FmMy1wX3NNcUNXdkotZjJIWVVybGpNZTAtVFRsT2tYZzMwdVRhem1zdw?oc=5\" target=\"_blank\">친명·친청, 신천지로 '반민특위' 설전…김민석, 박선원에 '구두경고'(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQjQ0LTlSS01VT25BZmt6aGNMYVhGdkVrcGMxaFpTS1dlMmJTUTA2T0FmMy1wX3NNcUNXdkotZjJIWVVybGpNZTAtVFRsT2tYZzMwdVRhem1zdw?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 02:54:59 GMT",
-        "source": "뉴스1",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "4d337b35f47d01a941814b8ccf47635855d033884e5f82eb5ea9b0ac6421575c",
-    "title": "김민석, 친정청래계 겨냥 “일제 부역자” 발언 박선원에 엄중 경고 - KBS 뉴스",
+    "postId": "8f8b1ce642e33fb2e3d1ef21e4d1a40f6db5dd69e33c8f2dd6ab8dafaf559367",
+    "title": "친명·친청, 신천지로 '반민특위' 설전…김민석, 박선원에 '구두경고'(종합) - 뉴스1",
     "bot": "jongsuk_pol_bot",
-    "runId": "45107420951",
-    "sentAt": "2026-11-23T03:41:19.420Z"
+    "runId": "45108366354",
+    "sentAt": "2026-11-23T03:51:15.346Z"
   }
 }
