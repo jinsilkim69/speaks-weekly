@@ -2978,3 +2978,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 전하께서 동쪽이라 하시면 신도 동쪽이요... '左派 영수' 김민석 상소문 - 최보식의언론
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 전하께서 동쪽이라 하시면 신도 동쪽이요... '左派 영수' 김민석 상소문
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UbGo3Z2xIVnZDS29YSF80WFNPeHJVMVprSXJCVkhiWTNPckZwTGlRaTN3ZjlSUXl6QU9iZ3VHTWpqN1d4M1JVV1ZSS2x5bTdzWmREU2k2U3JJQnVEOGw1OVBTMVrSAWhBVV95cUxPbjZIYlI3S01UN0VISHB3eW5zMGFTTG5VejV1RzNkem42UjZwbzhidEltc3BzbFBRRjV1ZEpOVnhUUEZBY2tBaWpxUC05b2YtV0Z2MGFMNW9tWnZYTkRLS3JONWx2dlB6eQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump posts AI image of Jensen Huang after news of reinstatement - FOX 4 News Dallas-Fort Worth
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump posts AI image of Jensen Huang after news of reinstatement
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikgFBVV95cUxOTmRZUFBtSEdPUGFvd1dkU2hyNnVzckZUQWRsb2dfcTFoaDh1UE9JUWNUcnUxTUROUGtyejQ1MnZRcERzNTRROE40Z1FvSHVQOWJWTlplWDV1dF9BVnM0N2dfODRyUWo3Yl9BQTZ1cm9MaGxBMzExa2ZMX2NnUEEtRkdiU1NTRHU2TGZTbWt6MEM1QQ?oc=5)
+
+---
+

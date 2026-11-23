@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T23:21:17.550Z",
+  "lastCheckedAt": "2026-11-23T23:31:15.191Z",
   "seenPostIds": {
     "c7a1d614bc34c4fa52f08d7471a0dfc978c00aa2a9fefd33734f4a8fa9e49463": {
       "seenAt": "2026-11-20T19:11:18.391Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-23T22:51:15.709Z",
       "title": "Trump's Nvidia CEO post encapsulates his depraved America | Opinion - USA Today",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "b6e503c153e80513dbc62a3337cb66484ab584fba56b0ad51b241fd2054a4285": {
+      "seenAt": "2026-11-23T23:31:16.489Z",
+      "title": "전하께서 동쪽이라 하시면 신도 동쪽이요... '左派 영수' 김민석 상소문 - 최보식의언론",
+      "targetName": "김민석"
+    },
+    "f525e719a26d9d123c2973e6f6c49460643d0e38f127d066c5eadcd0d814522e": {
+      "seenAt": "2026-11-23T23:31:17.195Z",
+      "title": "Trump posts AI image of Jensen Huang after news of reinstatement - FOX 4 News Dallas-Fort Worth",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "5b0736388ee35ff997ecd73e8b1c5a0d033a12d2fb09e8ca3735bdd1a000b97d",
-    "title": "Trump's Nvidia CEO post encapsulates his depraved America | Opinion - USA Today",
+    "postId": "f525e719a26d9d123c2973e6f6c49460643d0e38f127d066c5eadcd0d814522e",
+    "title": "Trump posts AI image of Jensen Huang after news of reinstatement - FOX 4 News Dallas-Fort Worth",
     "bot": "jongsuk_pol_bot",
-    "runId": "45283535909",
-    "sentAt": "2026-11-23T22:51:15.410Z"
+    "runId": "45289476815",
+    "sentAt": "2026-11-23T23:31:16.826Z"
   }
 }
