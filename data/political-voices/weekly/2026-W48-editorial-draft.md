@@ -2146,3 +2146,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 “대통령 이재명 시간, 피고인 이재명에게 쓰지 말라” - 중앙일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 “대통령 이재명 시간, 피고인 이재명에게 쓰지 말라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4weUI3ZDhOanBWaVhHVjl2ejJ6NXl4OFh6Z045YU5WTzkyZWdtcHBpZTVTVEJEb0s1MlJNcXNsbkdWVzhOMkRJRF81N1lQekYwS0NOLXVn?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 의원 “정상화되면 국민의힘으로 돌아가 민주당과 싸우겠다” - 경북일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 의원 “정상화되면 국민의힘으로 돌아가 민주당과 싸우겠다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE50cm5KYkFRbXhaTFNqYXI3eVJTOVlSN2tWMzNLaWVLdzJ5TWJnV0phVlZYN0VDVzdSLTcya3B3ZHBRTlF2c0hjWGMwd3E5R1dmQ2R3SGpGOEhmRXh6dGJtREpSN2dKRFdQbTdPMEFqcw?oc=5)
+
+---
+

@@ -4143,5 +4143,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4ffc4e1a0cefb5d57e414c3afeae67b01127c87a2f39bc35898535f8eaeaf044",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "오세훈 “대통령 이재명 시간, 피고인 이재명에게 쓰지 말라” - 중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE4weUI3ZDhOanBWaVhHVjl2ejJ6NXl4OFh6Z045YU5WTzkyZWdtcHBpZTVTVEJEb0s1MlJNcXNsbkdWVzhOMkRJRF81N1lQekYwS0NOLXVn?oc=5\" target=\"_blank\">오세훈 “대통령 이재명 시간, 피고인 이재명에게 쓰지 말라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4weUI3ZDhOanBWaVhHVjl2ejJ6NXl4OFh6Z045YU5WTzkyZWdtcHBpZTVTVEJEb0s1MlJNcXNsbkdWVzhOMkRJRF81N1lQekYwS0NOLXVn?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 05:58:15 GMT",
+    "source": "중앙일보",
+    "ageHours": 5.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 오세훈 “대통령 이재명 시간, 피고인 이재명에게 쓰지 말라”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "757c24a167e631752e323ff06a03531ea2247c48960caed2590a7743e73a6caf",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 의원 “정상화되면 국민의힘으로 돌아가 민주당과 싸우겠다” - 경북일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE50cm5KYkFRbXhaTFNqYXI3eVJTOVlSN2tWMzNLaWVLdzJ5TWJnV0phVlZYN0VDVzdSLTcya3B3ZHBRTlF2c0hjWGMwd3E5R1dmQ2R3SGpGOEhmRXh6dGJtREpSN2dKRFdQbTdPMEFqcw?oc=5\" target=\"_blank\">한동훈 의원 “정상화되면 국민의힘으로 돌아가 민주당과 싸우겠다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50cm5KYkFRbXhaTFNqYXI3eVJTOVlSN2tWMzNLaWVLdzJ5TWJnV0phVlZYN0VDVzdSLTcya3B3ZHBRTlF2c0hjWGMwd3E5R1dmQ2R3SGpGOEhmRXh6dGJtREpSN2dKRFdQbTdPMEFqcw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 11:01:45 GMT",
+    "source": "경북일보",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 의원 “정상화되면 국민의힘으로 돌아가 민주당과 싸우겠다”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
