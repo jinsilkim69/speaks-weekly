@@ -3417,5 +3417,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "72bfcd78968245d24314a06268fffb5e54e8658c7130eec5538221ba7c62b69a",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "\"윤석열 구형일 맞춰 한동훈 제명\"‥국힘 '조작징계' 추가 폭로 - MBC 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOGpLa1R4ZllaSGhoLW5VVXk4NGptajljeDY2T25XTWlJbUZQV1ExVDR3aFVLOE1iblo5RHQ0dW9RbTFIck9rdHdTNnNvajE4QjN1NTBsQkxra2pDQzNhRElZT0NlZXl0TGVucmdoZXYtMnFzNmt0NNIBeEFVX3lxTFB0S1g5d1VSMG01NW85ZndnTkNIdGR3NE9YbmxGX0tXV1JvTFpfb2dhTUdGbU1NNnNwd2VrZGZmcXB6SmllSDNobGk0Y2J5NGFCTTJ2cl9PRHNFVWw4bjk1WEZmNkFiVVE0SGI0UGhJeXhIV1B0YnRzdw?oc=5\" target=\"_blank\">\"윤석열 구형일 맞춰 한동훈 제명\"‥국힘 '조작징계' 추가 폭로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOGpLa1R4ZllaSGhoLW5VVXk4NGptajljeDY2T25XTWlJbUZQV1ExVDR3aFVLOE1iblo5RHQ0dW9RbTFIck9rdHdTNnNvajE4QjN1NTBsQkxra2pDQzNhRElZT0NlZXl0TGVucmdoZXYtMnFzNmt0NNIBeEFVX3lxTFB0S1g5d1VSMG01NW85ZndnTkNIdGR3NE9YbmxGX0tXV1JvTFpfb2dhTUdGbU1NNnNwd2VrZGZmcXB6SmllSDNobGk0Y2J5NGFCTTJ2cl9PRHNFVWw4bjk1WEZmNkFiVVE0SGI0UGhJeXhIV1B0YnRzdw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 07:09:33 GMT",
+    "source": "MBC 뉴스",
+    "ageHours": 1.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"윤석열 구형일 맞춰 한동훈 제명\"‥국힘 '조작징계' 추가 폭로",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "3171d6b630ce228923f98c7c713a04a29f5a944813460d343d1f210ce69b5a68",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "박선원 \"김민석 구두경고 수용하지만…이성윤·한민수도 경고해야\" - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE43eFYxLVB6WlB3bzJRVHZzRTQwSXZEWmZKVGRrMzBHTWRES0VUa2ZCQTVaQ2Y4VkU1MVFvem5YRXl0UmVpVlp2czROOFhieWlZMnpSVHQweVNmUQ?oc=5\" target=\"_blank\">박선원 \"김민석 구두경고 수용하지만…이성윤·한민수도 경고해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43eFYxLVB6WlB3bzJRVHZzRTQwSXZEWmZKVGRrMzBHTWRES0VUa2ZCQTVaQ2Y4VkU1MVFvem5YRXl0UmVpVlp2czROOFhieWlZMnpSVHQweVNmUQ?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 05:57:25 GMT",
+    "source": "뉴스1",
+    "ageHours": 2.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 박선원 \"김민석 구두경고 수용하지만…이성윤·한민수도 경고해야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "28d694b64165935ce105f161db52e960733d0648e646f1a62b2550f8b946f1f3",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "더불어민주당 내홍 속 대구 팔공산 찾은 정청래 - 경북매일",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMWtvOE9UM0dEREFDZmJpTXR3NWpxRHNaWWNPa0VyZnZMdjBFNXJMQUZOLXBCQVdQZ19WR2d5RVpDbDRkZDczVWFiUUN1UUZKZjAtbkpkRm03UQ?oc=5\" target=\"_blank\">더불어민주당 내홍 속 대구 팔공산 찾은 정청래</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북매일</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMWtvOE9UM0dEREFDZmJpTXR3NWpxRHNaWWNPa0VyZnZMdjBFNXJMQUZOLXBCQVdQZ19WR2d5RVpDbDRkZDczVWFiUUN1UUZKZjAtbkpkRm03UQ?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 08:16:00 GMT",
+    "source": "경북매일",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 더불어민주당 내홍 속 대구 팔공산 찾은 정청래",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

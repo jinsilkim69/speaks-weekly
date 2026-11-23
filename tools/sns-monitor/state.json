@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T08:31:16.433Z",
+  "lastCheckedAt": "2026-11-23T08:41:16.521Z",
   "seenPostIds": {
-    "b4dc34d2be61eb1e633748bc71a967dbaa8bb00a765eaf00aac5c2d366067cf5": {
-      "seenAt": "2026-11-20T04:21:19.637Z",
-      "title": "김민석 \"준비한 기량 발휘하길\"…與, 수험생 격려·부정행위 엄단 강조 - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
-    "6ae2386e3191f8646cc2c71352d7f9d001c0dd7336020fb1bae33240b0baa32f": {
-      "seenAt": "2026-11-20T04:31:18.742Z",
-      "title": "[단독] '독도 지킴이' 서경덕 \"日 입국 거부당한 적 없다\" … 조국은 애꿎은 독도 탓 - 뉴데일리",
-      "targetName": "조국"
-    },
-    "bf9a99493d5b81b3accdb3c943f99499cd5b91223f070a5417bf95a88f0c274a": {
-      "seenAt": "2026-11-20T04:31:19.358Z",
-      "title": "[포토] 조희대 탄핵 추진 기자회견하는 신장식 대표 - 천지일보",
-      "targetName": "신장식"
-    },
     "e002edc4ebe2ee8c2b7a6d9553fad086e6f81dffc01d7b5c8711b57bbbd21ae2": {
       "seenAt": "2026-11-20T04:31:19.976Z",
       "title": "'최민희 징계' 27일 심의…일부 당원들 '김민석 직무정지' 가처분 '맞불' - 데일리안",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T08:31:19.275Z",
       "title": "조국혁신당 충남도당, 고위험 발달장애아동 긴급돌봄체계 즉각 시행 촉구 - 아산포커스",
       "targetName": "조국"
+    },
+    "72bfcd78968245d24314a06268fffb5e54e8658c7130eec5538221ba7c62b69a": {
+      "seenAt": "2026-11-23T08:41:17.977Z",
+      "title": "\"윤석열 구형일 맞춰 한동훈 제명\"‥국힘 '조작징계' 추가 폭로 - MBC 뉴스",
+      "targetName": "한동훈"
+    },
+    "3171d6b630ce228923f98c7c713a04a29f5a944813460d343d1f210ce69b5a68": {
+      "seenAt": "2026-11-23T08:41:18.702Z",
+      "title": "박선원 \"김민석 구두경고 수용하지만…이성윤·한민수도 경고해야\" - 뉴스1",
+      "targetName": "김민석"
+    },
+    "28d694b64165935ce105f161db52e960733d0648e646f1a62b2550f8b946f1f3": {
+      "seenAt": "2026-11-23T08:41:19.368Z",
+      "title": "더불어민주당 내홍 속 대구 팔공산 찾은 정청래 - 경북매일",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "72bfcd78968245d24314a06268fffb5e54e8658c7130eec5538221ba7c62b69a",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "\"윤석열 구형일 맞춰 한동훈 제명\"‥국힘 '조작징계' 추가 폭로 - MBC 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOGpLa1R4ZllaSGhoLW5VVXk4NGptajljeDY2T25XTWlJbUZQV1ExVDR3aFVLOE1iblo5RHQ0dW9RbTFIck9rdHdTNnNvajE4QjN1NTBsQkxra2pDQzNhRElZT0NlZXl0TGVucmdoZXYtMnFzNmt0NNIBeEFVX3lxTFB0S1g5d1VSMG01NW85ZndnTkNIdGR3NE9YbmxGX0tXV1JvTFpfb2dhTUdGbU1NNnNwd2VrZGZmcXB6SmllSDNobGk0Y2J5NGFCTTJ2cl9PRHNFVWw4bjk1WEZmNkFiVVE0SGI0UGhJeXhIV1B0YnRzdw?oc=5\" target=\"_blank\">\"윤석열 구형일 맞춰 한동훈 제명\"‥국힘 '조작징계' 추가 폭로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOGpLa1R4ZllaSGhoLW5VVXk4NGptajljeDY2T25XTWlJbUZQV1ExVDR3aFVLOE1iblo5RHQ0dW9RbTFIck9rdHdTNnNvajE4QjN1NTBsQkxra2pDQzNhRElZT0NlZXl0TGVucmdoZXYtMnFzNmt0NNIBeEFVX3lxTFB0S1g5d1VSMG01NW85ZndnTkNIdGR3NE9YbmxGX0tXV1JvTFpfb2dhTUdGbU1NNnNwd2VrZGZmcXB6SmllSDNobGk0Y2J5NGFCTTJ2cl9PRHNFVWw4bjk1WEZmNkFiVVE0SGI0UGhJeXhIV1B0YnRzdw?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 07:09:33 GMT",
-        "source": "MBC 뉴스",
-        "ageHours": 1.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "3171d6b630ce228923f98c7c713a04a29f5a944813460d343d1f210ce69b5a68",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "박선원 \"김민석 구두경고 수용하지만…이성윤·한민수도 경고해야\" - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE43eFYxLVB6WlB3bzJRVHZzRTQwSXZEWmZKVGRrMzBHTWRES0VUa2ZCQTVaQ2Y4VkU1MVFvem5YRXl0UmVpVlp2czROOFhieWlZMnpSVHQweVNmUQ?oc=5\" target=\"_blank\">박선원 \"김민석 구두경고 수용하지만…이성윤·한민수도 경고해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43eFYxLVB6WlB3bzJRVHZzRTQwSXZEWmZKVGRrMzBHTWRES0VUa2ZCQTVaQ2Y4VkU1MVFvem5YRXl0UmVpVlp2czROOFhieWlZMnpSVHQweVNmUQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:57:25 GMT",
-        "source": "뉴스1",
-        "ageHours": 2.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "28d694b64165935ce105f161db52e960733d0648e646f1a62b2550f8b946f1f3",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "더불어민주당 내홍 속 대구 팔공산 찾은 정청래 - 경북매일",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMWtvOE9UM0dEREFDZmJpTXR3NWpxRHNaWWNPa0VyZnZMdjBFNXJMQUZOLXBCQVdQZ19WR2d5RVpDbDRkZDczVWFiUUN1UUZKZjAtbkpkRm03UQ?oc=5\" target=\"_blank\">더불어민주당 내홍 속 대구 팔공산 찾은 정청래</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북매일</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMWtvOE9UM0dEREFDZmJpTXR3NWpxRHNaWWNPa0VyZnZMdjBFNXJMQUZOLXBCQVdQZ19WR2d5RVpDbDRkZDczVWFiUUN1UUZKZjAtbkpkRm03UQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 08:16:00 GMT",
-        "source": "경북매일",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "7e320061ac967a8f524b607213e7243d5ac4e4ea3924aba5cb63960d08f80d45",
@@ -2581,13 +2533,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "b53fd3531e8b235c5780ab713a3e8aa7fd9226da4b85f3029360369524d7190a",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 엔디엔뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBXVG1jaWVNRjJPZVd4N1VWa0RwOFNIZUx2RlE2UFVJVUQzZUt0WjRLRWI3Nkd1RE5zU3MzRDRETHE3WFFrR0xTb2xERzFiQlNkY0c5N1hQVjNhN1MxdnFTU29fQ2c0OHE1enMwbmdB0gFyQVVfeXFMT1ZBLTZBYTRtMFVzOHR0eWZCTmc2cGF2Z3hpeUlpYm8xUEVwd1ByQ2lKTl9FdVZmZ2hlMjJYY0VzTXRiVldlQ3lMN1VUaUwybGRfUUYxZkpxWmJkYkdTd2RrYnZoMW5YWmZKTXlKSm9Bdnln?oc=5\" target=\"_blank\">송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">엔디엔뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXVG1jaWVNRjJPZVd4N1VWa0RwOFNIZUx2RlE2UFVJVUQzZUt0WjRLRWI3Nkd1RE5zU3MzRDRETHE3WFFrR0xTb2xERzFiQlNkY0c5N1hQVjNhN1MxdnFTU29fQ2c0OHE1enMwbmdB0gFyQVVfeXFMT1ZBLTZBYTRtMFVzOHR0eWZCTmc2cGF2Z3hpeUlpYm8xUEVwd1ByQ2lKTl9FdVZmZ2hlMjJYY0VzTXRiVldlQ3lMN1VUaUwybGRfUUYxZkpxWmJkYkdTd2RrYnZoMW5YWmZKTXlKSm9Bdnln?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 04:52:36 GMT",
+        "source": "엔디엔뉴스",
+        "ageHours": 3.8
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "bf26562ca9375ae8d45bb30364ec2c2586344864cb305be799a6c153c911bf84",
-    "title": "조국혁신당 충남도당, 고위험 발달장애아동 긴급돌봄체계 즉각 시행 촉구 - 아산포커스",
+    "postId": "28d694b64165935ce105f161db52e960733d0648e646f1a62b2550f8b946f1f3",
+    "title": "더불어민주당 내홍 속 대구 팔공산 찾은 정청래 - 경북매일",
     "bot": "jongsuk_pol_bot",
-    "runId": "45139250247",
-    "sentAt": "2026-11-23T08:31:18.835Z"
+    "runId": "45140603446",
+    "sentAt": "2026-11-23T08:41:19.031Z"
   }
 }

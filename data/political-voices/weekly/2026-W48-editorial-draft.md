@@ -1769,3 +1769,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** "윤석열 구형일 맞춰 한동훈 제명"‥국힘 '조작징계' 추가 폭로 - MBC 뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "윤석열 구형일 맞춰 한동훈 제명"‥국힘 '조작징계' 추가 폭로
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1rOGpLa1R4ZllaSGhoLW5VVXk4NGptajljeDY2T25XTWlJbUZQV1ExVDR3aFVLOE1iblo5RHQ0dW9RbTFIck9rdHdTNnNvajE4QjN1NTBsQkxra2pDQzNhRElZT0NlZXl0TGVucmdoZXYtMnFzNmt0NNIBeEFVX3lxTFB0S1g5d1VSMG01NW85ZndnTkNIdGR3NE9YbmxGX0tXV1JvTFpfb2dhTUdGbU1NNnNwd2VrZGZmcXB6SmllSDNobGk0Y2J5NGFCTTJ2cl9PRHNFVWw4bjk1WEZmNkFiVVE0SGI0UGhJeXhIV1B0YnRzdw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 박선원 "김민석 구두경고 수용하지만…이성윤·한민수도 경고해야" - 뉴스1
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박선원 "김민석 구두경고 수용하지만…이성윤·한민수도 경고해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE43eFYxLVB6WlB3bzJRVHZzRTQwSXZEWmZKVGRrMzBHTWRES0VUa2ZCQTVaQ2Y4VkU1MVFvem5YRXl0UmVpVlp2czROOFhieWlZMnpSVHQweVNmUQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 더불어민주당 내홍 속 대구 팔공산 찾은 정청래 - 경북매일
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 더불어민주당 내홍 속 대구 팔공산 찾은 정청래
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMWtvOE9UM0dEREFDZmJpTXR3NWpxRHNaWWNPa0VyZnZMdjBFNXJMQUZOLXBCQVdQZ19WR2d5RVpDbDRkZDczVWFiUUN1UUZKZjAtbkpkRm03UQ?oc=5)
+
+---
+
