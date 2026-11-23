@@ -753,5 +753,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e4fc992985082c556485e3e376196f7de6697f964b0a539028d438bf75aecbfc",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader | NewsNation Live - NewsNation",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUWp1a3FrSGY2Q0Z2dmpxQXJSRlM3MFdsSU9lek4tNzZLS3FTZE9MX3Q2VURGM3g2MzVzSkxSajBvNmZ2SHYyMGM0cl92a1ByTTRpLVF2Nkp6VENIcEJzTG9tOG1lVGVVMS1pSHJRcENvQTItZDE0Sm5RZ3ZFdlNxT3phc2UxNFlIMXRQZGVwNG1fd3FPRHFkRjFhbEp4ZVAwQ1BYNlhNMkQzeVVLRHRLbzB4NHotR2FFZzNQeE90dm1acVg4VThKQnFkcnFPS1F0RFB3Y3BPTTk5SmExeFE4eDlGcWnSAeoBQVVfeXFMTmdiQ2dab1VDOUp0dDB6el9jSTVLS0lGU0JfUzlsbVhFV0d5bFJwWW1HbXJpVi1PQWhUcGVpb2hrNXk5R1lkZ0hWS2xPSF9ETGtMTTZPNFBVSlZaeU0tQ25KdVVhb0pYSjdzWDc3anZ4SlJMLXZyRTk1cVhkcENvcU1Mbk8yaXQ4bnNVVk9la01wRXZoQlVGRzFPSzNJYWw2QWlWd2EzNTR3amFiWFJrMUJyVlNTcjkzUzdPUHNmLXNtZVJfaEp2UjJEMTJibFp5U3h3SVFuSDk1V2FsMXNjMnVrOXJFS215WDBR?oc=5\" target=\"_blank\">Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader | NewsNation Live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUWp1a3FrSGY2Q0Z2dmpxQXJSRlM3MFdsSU9lek4tNzZLS3FTZE9MX3Q2VURGM3g2MzVzSkxSajBvNmZ2SHYyMGM0cl92a1ByTTRpLVF2Nkp6VENIcEJzTG9tOG1lVGVVMS1pSHJRcENvQTItZDE0Sm5RZ3ZFdlNxT3phc2UxNFlIMXRQZGVwNG1fd3FPRHFkRjFhbEp4ZVAwQ1BYNlhNMkQzeVVLRHRLbzB4NHotR2FFZzNQeE90dm1acVg4VThKQnFkcnFPS1F0RFB3Y3BPTTk5SmExeFE4eDlGcWnSAeoBQVVfeXFMTmdiQ2dab1VDOUp0dDB6el9jSTVLS0lGU0JfUzlsbVhFV0d5bFJwWW1HbXJpVi1PQWhUcGVpb2hrNXk5R1lkZ0hWS2xPSF9ETGtMTTZPNFBVSlZaeU0tQ25KdVVhb0pYSjdzWDc3anZ4SlJMLXZyRTk1cVhkcENvcU1Mbk8yaXQ4bnNVVk9la01wRXZoQlVGRzFPSzNJYWw2QWlWd2EzNTR3amFiWFJrMUJyVlNTcjkzUzdPUHNmLXNtZVJfaEp2UjJEMTJibFp5U3h3SVFuSDk1V2FsMXNjMnVrOXJFS215WDBR?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 22:12:20 GMT",
+    "source": "NewsNation",
+    "ageHours": 3.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader | NewsNation Live",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

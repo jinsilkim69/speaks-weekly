@@ -391,3 +391,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader | NewsNation Live - NewsNation
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader | NewsNation Live
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUWp1a3FrSGY2Q0Z2dmpxQXJSRlM3MFdsSU9lek4tNzZLS3FTZE9MX3Q2VURGM3g2MzVzSkxSajBvNmZ2SHYyMGM0cl92a1ByTTRpLVF2Nkp6VENIcEJzTG9tOG1lVGVVMS1pSHJRcENvQTItZDE0Sm5RZ3ZFdlNxT3phc2UxNFlIMXRQZGVwNG1fd3FPRHFkRjFhbEp4ZVAwQ1BYNlhNMkQzeVVLRHRLbzB4NHotR2FFZzNQeE90dm1acVg4VThKQnFkcnFPS1F0RFB3Y3BPTTk5SmExeFE4eDlGcWnSAeoBQVVfeXFMTmdiQ2dab1VDOUp0dDB6el9jSTVLS0lGU0JfUzlsbVhFV0d5bFJwWW1HbXJpVi1PQWhUcGVpb2hrNXk5R1lkZ0hWS2xPSF9ETGtMTTZPNFBVSlZaeU0tQ25KdVVhb0pYSjdzWDc3anZ4SlJMLXZyRTk1cVhkcENvcU1Mbk8yaXQ4bnNVVk9la01wRXZoQlVGRzFPSzNJYWw2QWlWd2EzNTR3amFiWFJrMUJyVlNTcjkzUzdPUHNmLXNtZVJfaEp2UjJEMTJibFp5U3h3SVFuSDk1V2FsMXNjMnVrOXJFS215WDBR?oc=5)
+
+---
+
