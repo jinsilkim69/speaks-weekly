@@ -825,5 +825,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "38d9d7b887f817274312f3c4e9aa8fae201ab11599c291cfbe094c51c0c3785f",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "조희대 탄핵…김민석 “모든 역량 집중” vs 장동혁 “李대통령 재판 재개 마중물” [투데이 여의도 스케치] - 세계일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE92MlIzTnlycnlfbzVFX3I3VThEb292VFEtMzBROTBVNXUxeUs4NmVFaGVkanlrZnViZ3JnOW1OdUF0dWJ4WW5DdW9HZ2tZdVlt?oc=5\" target=\"_blank\">조희대 탄핵…김민석 “모든 역량 집중” vs 장동혁 “李대통령 재판 재개 마중물” [투데이 여의도 스케치]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92MlIzTnlycnlfbzVFX3I3VThEb292VFEtMzBROTBVNXUxeUs4NmVFaGVkanlrZnViZ3JnOW1OdUF0dWJ4WW5DdW9HZ2tZdVlt?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 21:00:00 GMT",
+    "source": "세계일보",
+    "ageHours": 1.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조희대 탄핵…김민석 “모든 역량 집중” vs 장동혁 “李대통령 재판 재개 마중물”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "5b0736388ee35ff997ecd73e8b1c5a0d033a12d2fb09e8ca3735bdd1a000b97d",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump's Nvidia CEO post encapsulates his depraved America | Opinion - USA Today",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQemYwcjZvOWZSbjNGSjU2b2FPaGZCQlpwU3AzdXd4elA0VkVycWxuQ2IxX3VONGp6ekNGMUNncEEyajJ2ZlBaWU9WQkRwSU4xbHJPejNzOWd0Z1hZUGQ4X0UzMEtsdGM3LTJMS3FaY0o2N3JnVWdobTI3MzNoQmdfdkcwR1R3TE9JbDFxOEN6LWJuYUhPQ2p5T0lQTWRESDhBclpWa2xtUmxBcnhzSUdBNWx4Yw?oc=5\" target=\"_blank\">Trump's Nvidia CEO post encapsulates his depraved America | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemYwcjZvOWZSbjNGSjU2b2FPaGZCQlpwU3AzdXd4elA0VkVycWxuQ2IxX3VONGp6ekNGMUNncEEyajJ2ZlBaWU9WQkRwSU4xbHJPejNzOWd0Z1hZUGQ4X0UzMEtsdGM3LTJMS3FaY0o2N3JnVWdobTI3MzNoQmdfdkcwR1R3TE9JbDFxOEN6LWJuYUhPQ2p5T0lQTWRESDhBclpWa2xtUmxBcnhzSUdBNWx4Yw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 20:29:00 GMT",
+    "source": "USA Today",
+    "ageHours": 2.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump's Nvidia CEO post encapsulates his depraved America | Opinion",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

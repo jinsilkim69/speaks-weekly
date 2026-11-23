@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T22:41:13.766Z",
+  "lastCheckedAt": "2026-11-23T22:51:14.063Z",
   "seenPostIds": {
     "49386ff53d1494956058729df1349e8d622361596238e073e6ce05068982c141": {
       "seenAt": "2026-11-20T19:11:17.177Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-23T22:21:17.765Z",
       "title": "조희대 탄핵…김민석 “모든 역량 집중” vs 장동혁 “李대통령 재판 재개 마중물” [투데이 여의도 스케치] - 세계일보",
       "targetName": "김민석"
+    },
+    "38d9d7b887f817274312f3c4e9aa8fae201ab11599c291cfbe094c51c0c3785f": {
+      "seenAt": "2026-11-23T22:51:15.116Z",
+      "title": "조희대 탄핵…김민석 “모든 역량 집중” vs 장동혁 “李대통령 재판 재개 마중물” [투데이 여의도 스케치] - 세계일보",
+      "targetName": "김민석"
+    },
+    "5b0736388ee35ff997ecd73e8b1c5a0d033a12d2fb09e8ca3735bdd1a000b97d": {
+      "seenAt": "2026-11-23T22:51:15.709Z",
+      "title": "Trump's Nvidia CEO post encapsulates his depraved America | Opinion - USA Today",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "ca9ca6aa9e197bce6abc5a6ba2d57f3e09ac14e8c05b29a4ed491d424757c814",
-    "title": "조희대 탄핵…김민석 “모든 역량 집중” vs 장동혁 “李대통령 재판 재개 마중물” [투데이 여의도 스케치] - 세계일보",
+    "postId": "5b0736388ee35ff997ecd73e8b1c5a0d033a12d2fb09e8ca3735bdd1a000b97d",
+    "title": "Trump's Nvidia CEO post encapsulates his depraved America | Opinion - USA Today",
     "bot": "jongsuk_pol_bot",
-    "runId": "45278814348",
-    "sentAt": "2026-11-23T22:21:17.271Z"
+    "runId": "45283535909",
+    "sentAt": "2026-11-23T22:51:15.410Z"
   }
 }

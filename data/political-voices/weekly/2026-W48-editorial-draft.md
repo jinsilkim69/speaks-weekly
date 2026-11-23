@@ -2952,3 +2952,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 조희대 탄핵…김민석 “모든 역량 집중” vs 장동혁 “李대통령 재판 재개 마중물” [투데이 여의도 스케치] - 세계일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조희대 탄핵…김민석 “모든 역량 집중” vs 장동혁 “李대통령 재판 재개 마중물”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE92MlIzTnlycnlfbzVFX3I3VThEb292VFEtMzBROTBVNXUxeUs4NmVFaGVkanlrZnViZ3JnOW1OdUF0dWJ4WW5DdW9HZ2tZdVlt?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump's Nvidia CEO post encapsulates his depraved America | Opinion - USA Today
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump's Nvidia CEO post encapsulates his depraved America | Opinion
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiswFBVV95cUxQemYwcjZvOWZSbjNGSjU2b2FPaGZCQlpwU3AzdXd4elA0VkVycWxuQ2IxX3VONGp6ekNGMUNncEEyajJ2ZlBaWU9WQkRwSU4xbHJPejNzOWd0Z1hZUGQ4X0UzMEtsdGM3LTJMS3FaY0o2N3JnVWdobTI3MzNoQmdfdkcwR1R3TE9JbDFxOEN6LWJuYUhPQ2p5T0lQTWRESDhBclpWa2xtUmxBcnhzSUdBNWx4Yw?oc=5)
+
+---
+
