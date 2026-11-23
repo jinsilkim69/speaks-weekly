@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T20:41:16.436Z",
+  "lastCheckedAt": "2026-11-23T20:51:16.324Z",
   "seenPostIds": {
     "c69bb13451c36435bdbb39d1384ca63c325d9b23c778cc4d334b83c18f5c9901": {
       "seenAt": "2026-11-20T16:25:27.425Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-23T20:11:18.043Z",
       "title": "Trump shares video comparing scrutiny of Schumer’s age to Biden’s - The Hill",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "19e4ed2627346437af8f86f70d9f77ca4c62887fb4bea9fe69df6159de26c993": {
+      "seenAt": "2026-11-23T20:51:17.579Z",
+      "title": "정청래, 두 달 새 김민석 추월…민주당 당권 경쟁 ‘초박빙’ - 쿠키뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "ce5502f6fecfe8656599736918dd8ee6083417033a84e31f6e8d3ab600e7f7ca",
-    "title": "Trump shares video comparing scrutiny of Schumer’s age to Biden’s - The Hill",
+    "postId": "19e4ed2627346437af8f86f70d9f77ca4c62887fb4bea9fe69df6159de26c993",
+    "title": "정청래, 두 달 새 김민석 추월…민주당 당권 경쟁 ‘초박빙’ - 쿠키뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45256683761",
-    "sentAt": "2026-11-23T20:11:17.732Z"
+    "runId": "45263591334",
+    "sentAt": "2026-11-23T20:51:16.995Z"
   }
 }

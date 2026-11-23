@@ -2848,3 +2848,16 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 두 달 새 김민석 추월…민주당 당권 경쟁 ‘초박빙’ - 쿠키뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 두 달 새 김민석 추월…민주당 당권 경쟁 ‘초박빙’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWY3d3R0RxSlpmeXRXeExsOVl2NUc3MGY5YmRzVEpscVZGMVJZalJ4TW00UGtPd0d1SnJBQVU3Zy1zamZ4dV9pUnBoYjNNNDROdUpkaFFoczVJZ255M0lRM0FoOA?oc=5)
+
+---
+
