@@ -1103,5 +1103,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "a8df0f240c72d4e18e106a3b063b02d69e3184ea0d2ffbaa3608b517d2a4de3f",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "굳은 표정의 김민석 대표 - 노컷뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpWFNfaUNCVmx1RVVYZHNJeHphdVRYcEhwaXcwLXZfTFZHcUVvS0cxSkg2bW5pbVlDeER1ZzVBdDFtSW1XU3piNjduNF95dVNDWWc?oc=5\" target=\"_blank\">굳은 표정의 김민석 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">노컷뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpWFNfaUNCVmx1RVVYZHNJeHphdVRYcEhwaXcwLXZfTFZHcUVvS0cxSkg2bW5pbVlDeER1ZzVBdDFtSW1XU3piNjduNF95dVNDWWc?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 02:25:29 GMT",
+    "source": "노컷뉴스",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 굳은 표정의 김민석 대표",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "545ea40f935e55da3669996686490175d8576b2b9d44194a26cc4831cc76fa2d",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 \"曺탄핵·민생에 모든 역량…한덕수 판결에 국민 비판\" - 연합뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE01Tlo0YTNiODdjaVN3bGxRSWNCMWIxcDYwc3BWSGxJUkQ2OTFnUnFGaHJyQjZNN1FETzJuaXlrZ3JtSmJFU1luWklfeFVyRE5XelpQRGIzRGo0dTjSAWBBVV95cUxNdEZUSHBSQ0hib29SajZvTkhxRjFxTS1kX01xTVZnd3BfdUtudTB6eTNlRDNRdEM0cHNvYkRIOV9USGtIVjU2WHpFNEYtTWZFOHlkNy1NVnNjUW5yX1IyYk0?oc=5\" target=\"_blank\">김민석 \"曺탄핵·민생에 모든 역량…한덕수 판결에 국민 비판\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01Tlo0YTNiODdjaVN3bGxRSWNCMWIxcDYwc3BWSGxJUkQ2OTFnUnFGaHJyQjZNN1FETzJuaXlrZ3JtSmJFU1luWklfeFVyRE5XelpQRGIzRGo0dTjSAWBBVV95cUxNdEZUSHBSQ0hib29SajZvTkhxRjFxTS1kX01xTVZnd3BfdUtudTB6eTNlRDNRdEM0cHNvYkRIOV9USGtIVjU2WHpFNEYtTWZFOHlkNy1NVnNjUW5yX1IyYk0?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 02:30:38 GMT",
+    "source": "연합뉴스",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 \"曺탄핵·민생에 모든 역량…한덕수 판결에 국민 비판\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

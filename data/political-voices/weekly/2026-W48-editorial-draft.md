@@ -573,3 +573,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 굳은 표정의 김민석 대표 - 노컷뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 굳은 표정의 김민석 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpWFNfaUNCVmx1RVVYZHNJeHphdVRYcEhwaXcwLXZfTFZHcUVvS0cxSkg2bW5pbVlDeER1ZzVBdDFtSW1XU3piNjduNF95dVNDWWc?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "曺탄핵·민생에 모든 역량…한덕수 판결에 국민 비판" - 연합뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "曺탄핵·민생에 모든 역량…한덕수 판결에 국민 비판"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE01Tlo0YTNiODdjaVN3bGxRSWNCMWIxcDYwc3BWSGxJUkQ2OTFnUnFGaHJyQjZNN1FETzJuaXlrZ3JtSmJFU1luWklfeFVyRE5XelpQRGIzRGo0dTjSAWBBVV95cUxNdEZUSHBSQ0hib29SajZvTkhxRjFxTS1kX01xTVZnd3BfdUtudTB6eTNlRDNRdEM0cHNvYkRIOV9USGtIVjU2WHpFNEYtTWZFOHlkNy1NVnNjUW5yX1IyYk0?oc=5)
+
+---
+
