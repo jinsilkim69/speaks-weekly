@@ -2815,5 +2815,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "ccb06fdf2372963046c9019fc57b4223df4c128a004825a75c40a01608616051",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations - Forbes",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbG4xZTAydWxlbWc4YXplRThOSkF1UXl3clBjbFNPLWdsUkdLZUR2b3dIckk4TklIRm5zb1ptQXVHcHJZX0tvR1M1QjJhWGZpWEE0aUZXaTVmYzctYTBTczJnNHk5THAwcC1mMFp6RkRDT2N2ZFhyMEtiUmw3d2lKdVNET0pEUjFTbWtNR0NaaDMyN0FTdlFXNWJzdXlKVkpabEJJakhnZGlEZDBQN2lKd1haWlNvZDliTHZBUFNIQmdDeDdsRFctYjVNYmMxdm9Lbk0xWHVvN1BUQ2hsYXc?oc=5\" target=\"_blank\">Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbG4xZTAydWxlbWc4YXplRThOSkF1UXl3clBjbFNPLWdsUkdLZUR2b3dIckk4TklIRm5zb1ptQXVHcHJZX0tvR1M1QjJhWGZpWEE0aUZXaTVmYzctYTBTczJnNHk5THAwcC1mMFp6RkRDT2N2ZFhyMEtiUmw3d2lKdVNET0pEUjFTbWtNR0NaaDMyN0FTdlFXNWJzdXlKVkpabEJJakhnZGlEZDBQN2lKd1haWlNvZDliTHZBUFNIQmdDeDdsRFctYjVNYmMxdm9Lbk0xWHVvN1BUQ2hsYXc?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 06:02:45 GMT",
+    "source": "Forbes",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "46333224406af6743d2a187bc1ccb57f79c7976bed099b9b9342d606dbe3de94",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라\" - 부산일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE15bGh2d2FUS2t1d0FxZGg3dDBRSVlPeUJ6TmxJbEViTEFjUEZtZFdkU2NvUzJxbkVldlpRZ2pXdEVYME5uTVBPQ2JPU0ZjaC1Gb0lkU1QwSUZpRWNDZFFaVnNRZFF3MWtVeXZmM3VHdWxFYmxQ?oc=5\" target=\"_blank\">오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bGh2d2FUS2t1d0FxZGg3dDBRSVlPeUJ6TmxJbEViTEFjUEZtZFdkU2NvUzJxbkVldlpRZ2pXdEVYME5uTVBPQ2JPU0ZjaC1Gb0lkU1QwSUZpRWNDZFFaVnNRZFF3MWtVeXZmM3VHdWxFYmxQ?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 05:48:35 GMT",
+    "source": "부산일보",
+    "ageHours": 1.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "4c2bca752afbc91a33fc1b0c239deb486e628b349006965c776bcbc1438e05b3",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "‘조작 징계’ 추가 폭로… ‘尹 구형 맞춰 한동훈 제명 기획’ - 아시아타임즈",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1YzBjb3pQMWhJWGh1c05ZT3hEMDA2d1NpclUwVXV5NERCandYOXphMThKb2dVOGFqY1NpY0hTQTA1eGQtdWdsQmZ5TkZJdzlVS2tYcmx6NEhjSDBEZkE?oc=5\" target=\"_blank\">‘조작 징계’ 추가 폭로… ‘尹 구형 맞춰 한동훈 제명 기획’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아타임즈</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1YzBjb3pQMWhJWGh1c05ZT3hEMDA2d1NpclUwVXV5NERCandYOXphMThKb2dVOGFqY1NpY0hTQTA1eGQtdWdsQmZ5TkZJdzlVS2tYcmx6NEhjSDBEZkE?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 06:52:00 GMT",
+    "source": "아시아타임즈",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘조작 징계’ 추가 폭로… ‘尹 구형 맞춰 한동훈 제명 기획’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

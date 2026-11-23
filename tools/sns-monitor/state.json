@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T07:11:26.131Z",
+  "lastCheckedAt": "2026-11-23T07:21:14.893Z",
   "seenPostIds": {
-    "40e3be30596eb54e5f6a162eee8123764942d84637d5785155da8e70b7b22bcb": {
-      "seenAt": "2026-11-20T03:01:19.244Z",
-      "title": "신장식 \"조희대 탄핵안 오늘 국회 제출·내일 표결하자\" - 뉴스1",
-      "targetName": "신장식"
-    },
-    "5784db3c0b4d8d241cbe9bd3306e852aee97dac700255d7b2a7973ec0388f252": {
-      "seenAt": "2026-11-20T03:11:17.325Z",
-      "title": "조희대 탄핵 관련 기자회견하는 신장식 대표 - 서울뉴스통신",
-      "targetName": "신장식"
-    },
-    "ddaac79a5493b04678e6ea623400afe33c14cbc07bdabdfb4e6a05c2d1d88cfb": {
-      "seenAt": "2026-11-20T03:11:17.931Z",
-      "title": "Here's the point Trump misses with Pete Rose 'pardon' - Yahoo Sports",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "c1510a14c287e3f7bb8dd3d256a8f84750ab7239cd5242e1c31fa9682d825836": {
       "seenAt": "2026-11-20T03:11:18.597Z",
       "title": "Donald Trump Spirals on Truth Social on Way Home From Major Summit - The Daily Beast",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T07:11:29.827Z",
       "title": "윤석열 사형 구형일과 맞춘 한동훈 제명, 국민의힘의 숨은 전략? - 공감신문",
       "targetName": "한동훈"
+    },
+    "ccb06fdf2372963046c9019fc57b4223df4c128a004825a75c40a01608616051": {
+      "seenAt": "2026-11-23T07:21:16.307Z",
+      "title": "Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations - Forbes",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "46333224406af6743d2a187bc1ccb57f79c7976bed099b9b9342d606dbe3de94": {
+      "seenAt": "2026-11-23T07:21:17.019Z",
+      "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라\" - 부산일보",
+      "targetName": "이재명"
+    },
+    "4c2bca752afbc91a33fc1b0c239deb486e628b349006965c776bcbc1438e05b3": {
+      "seenAt": "2026-11-23T07:21:17.726Z",
+      "title": "‘조작 징계’ 추가 폭로… ‘尹 구형 맞춰 한동훈 제명 기획’ - 아시아타임즈",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "ccb06fdf2372963046c9019fc57b4223df4c128a004825a75c40a01608616051",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations - Forbes",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbG4xZTAydWxlbWc4YXplRThOSkF1UXl3clBjbFNPLWdsUkdLZUR2b3dIckk4TklIRm5zb1ptQXVHcHJZX0tvR1M1QjJhWGZpWEE0aUZXaTVmYzctYTBTczJnNHk5THAwcC1mMFp6RkRDT2N2ZFhyMEtiUmw3d2lKdVNET0pEUjFTbWtNR0NaaDMyN0FTdlFXNWJzdXlKVkpabEJJakhnZGlEZDBQN2lKd1haWlNvZDliTHZBUFNIQmdDeDdsRFctYjVNYmMxdm9Lbk0xWHVvN1BUQ2hsYXc?oc=5\" target=\"_blank\">Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbG4xZTAydWxlbWc4YXplRThOSkF1UXl3clBjbFNPLWdsUkdLZUR2b3dIckk4TklIRm5zb1ptQXVHcHJZX0tvR1M1QjJhWGZpWEE0aUZXaTVmYzctYTBTczJnNHk5THAwcC1mMFp6RkRDT2N2ZFhyMEtiUmw3d2lKdVNET0pEUjFTbWtNR0NaaDMyN0FTdlFXNWJzdXlKVkpabEJJakhnZGlEZDBQN2lKd1haWlNvZDliTHZBUFNIQmdDeDdsRFctYjVNYmMxdm9Lbk0xWHVvN1BUQ2hsYXc?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 06:02:45 GMT",
-        "source": "Forbes",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "46333224406af6743d2a187bc1ccb57f79c7976bed099b9b9342d606dbe3de94",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라\" - 부산일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE15bGh2d2FUS2t1d0FxZGg3dDBRSVlPeUJ6TmxJbEViTEFjUEZtZFdkU2NvUzJxbkVldlpRZ2pXdEVYME5uTVBPQ2JPU0ZjaC1Gb0lkU1QwSUZpRWNDZFFaVnNRZFF3MWtVeXZmM3VHdWxFYmxQ?oc=5\" target=\"_blank\">오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bGh2d2FUS2t1d0FxZGg3dDBRSVlPeUJ6TmxJbEViTEFjUEZtZFdkU2NvUzJxbkVldlpRZ2pXdEVYME5uTVBPQ2JPU0ZjaC1Gb0lkU1QwSUZpRWNDZFFaVnNRZFF3MWtVeXZmM3VHdWxFYmxQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:48:35 GMT",
-        "source": "부산일보",
-        "ageHours": 1.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4c2bca752afbc91a33fc1b0c239deb486e628b349006965c776bcbc1438e05b3",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "‘조작 징계’ 추가 폭로… ‘尹 구형 맞춰 한동훈 제명 기획’ - 아시아타임즈",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1YzBjb3pQMWhJWGh1c05ZT3hEMDA2d1NpclUwVXV5NERCandYOXphMThKb2dVOGFqY1NpY0hTQTA1eGQtdWdsQmZ5TkZJdzlVS2tYcmx6NEhjSDBEZkE?oc=5\" target=\"_blank\">‘조작 징계’ 추가 폭로… ‘尹 구형 맞춰 한동훈 제명 기획’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아타임즈</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1YzBjb3pQMWhJWGh1c05ZT3hEMDA2d1NpclUwVXV5NERCandYOXphMThKb2dVOGFqY1NpY0hTQTA1eGQtdWdsQmZ5TkZJdzlVS2tYcmx6NEhjSDBEZkE?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 06:52:00 GMT",
-        "source": "아시아타임즈",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "67c0503b30b9999d7e5bacaac2b4cc70d423de3d72c58388f42e50d5b8dc67fa",
@@ -2581,13 +2533,77 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "1b65e2bee58c31ba85b183e2166a0a4b144c86d51e5cc04a947335a195d3adeb",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "지지율 떨어진 김민석호, 앞길도 첩첩산중 … 신천지·조희대·부동산·증시 '퇴로가 없다' - 뉴데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE04Z1JOS0VuN0tIMS1RZklaZ3lKemRjVW9fTHFMQzJnNHBiNDJUVzhYd3pyYmNSdEY3dEJnSU9TcF9GcFB2S0lhdGpUbGNwTlE5T2V0OE1PQ29lQ09VOWdnR1l5c1I2YlJnMklRbkFocmw5d2s1LUtKVVQyZw?oc=5\" target=\"_blank\">지지율 떨어진 김민석호, 앞길도 첩첩산중 … 신천지·조희대·부동산·증시 '퇴로가 없다'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04Z1JOS0VuN0tIMS1RZklaZ3lKemRjVW9fTHFMQzJnNHBiNDJUVzhYd3pyYmNSdEY3dEJnSU9TcF9GcFB2S0lhdGpUbGNwTlE5T2V0OE1PQ29lQ09VOWdnR1l5c1I2YlJnMklRbkFocmw5d2s1LUtKVVQyZw?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:50:00 GMT",
+        "source": "뉴데일리",
+        "ageHours": 1.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "178c3351c1f976d1f6965550dbf765e17d5deb34ba65e34e20b09d6150782511",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 100일 앞두고 '석청 대전'...'콩가루' 되는 민주당 - 자유일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBKY04yYm9KcXpEb2cyLUtUamdBWDMwS00wekVXbDBRSlZmM0ctYlprN1pkUWdPNFF5d0NwdkRYSkJaY3NCRm91YTRlbko5ckUtYWtGNmZoMW16MmVUeWRDdHBSbnlYVWw3Zmxz0gFvQVVfeXFMUFBTeHl2VXh5NS1PcnZQZHk1ODI3WGl1ZVZYcDNmYXZMLUttYVZzdGw3T3lkUHpqN0ZzY2dFaFlSekh5X2pBVHNldmdUWlRjcEhPRExLV05iMm9zN1Npdm5BS21xUDVfYzNzcUdPUHJJ?oc=5\" target=\"_blank\">김민석 100일 앞두고 '석청 대전'...'콩가루' 되는 민주당</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">자유일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKY04yYm9KcXpEb2cyLUtUamdBWDMwS00wekVXbDBRSlZmM0ctYlprN1pkUWdPNFF5d0NwdkRYSkJaY3NCRm91YTRlbko5ckUtYWtGNmZoMW16MmVUeWRDdHBSbnlYVWw3Zmxz0gFvQVVfeXFMUFBTeHl2VXh5NS1PcnZQZHk1ODI3WGl1ZVZYcDNmYXZMLUttYVZzdGw3T3lkUHpqN0ZzY2dFaFlSekh5X2pBVHNldmdUWlRjcEhPRExLV05iMm9zN1Npdm5BS21xUDVfYzNzcUdPUHJJ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 06:39:00 GMT",
+        "source": "자유일보",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "7f27120ebd0ab3bee607e030288a1733738a5a49083872a67b3a9930a1c7778a",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE0wSVlQN3UxR1F5ZnpYTFNOWmRTZnZtQWQ4TEpNMXdQZ2lHSnNwU1BDZ1B1bmVIRkVHS0lDZVViQWpNbHRNVGpjVUFUUVB5NlRpOHVDRS1SNzFwRUZlZXlpV3FkWmljU1lSX3dBa0JBRVVfa3MxWE1v?oc=5\" target=\"_blank\">김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wSVlQN3UxR1F5ZnpYTFNOWmRTZnZtQWQ4TEpNMXdQZ2lHSnNwU1BDZ1B1bmVIRkVHS0lDZVViQWpNbHRNVGpjVUFUUVB5NlRpOHVDRS1SNzFwRUZlZXlpV3FkWmljU1lSX3dBa0JBRVVfa3MxWE1v?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:48:51 GMT",
+        "source": "연합뉴스",
+        "ageHours": 1.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d6f6de2b7297420780b1d086bf54888193125b64b7122d33e34c220597e82f5a",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당, '제정당 조희대 탄핵추진단' 제안…\"즉각 직무정지해야\" - mnews.sbs.co.kr",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXR6WlhXSHh3eXBabURfMVozeXVZT0NCYncxRDFLWTE5Y2dFVUJrSDAyUnFrQmV2ZGRmbjhSLTdWYUpfQXVuVHpldEJ4dVc1NHVWMFVjRzBRU0R5WnRlb1lwNUlTS0g1WENmTDlmY1RwbE1QajE0eDVSdWxEZEJOdFhoREtFVEJRd1lsWVZibw?oc=5\" target=\"_blank\">조국혁신당, '제정당 조희대 탄핵추진단' 제안…\"즉각 직무정지해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mnews.sbs.co.kr</font>",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXR6WlhXSHh3eXBabURfMVozeXVZT0NCYncxRDFLWTE5Y2dFVUJrSDAyUnFrQmV2ZGRmbjhSLTdWYUpfQXVuVHpldEJ4dVc1NHVWMFVjRzBRU0R5WnRlb1lwNUlTS0g1WENmTDlmY1RwbE1QajE0eDVSdWxEZEJOdFhoREtFVEJRd1lsWVZibw?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 01:38:56 GMT",
+        "source": "mnews.sbs.co.kr",
+        "ageHours": 5.7
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "e4a44437d0010fafba687da8987eab4d7eb601e040708073929298cc0c637f96",
-    "title": "윤석열 사형 구형일과 맞춘 한동훈 제명, 국민의힘의 숨은 전략? - 공감신문",
+    "postId": "4c2bca752afbc91a33fc1b0c239deb486e628b349006965c776bcbc1438e05b3",
+    "title": "‘조작 징계’ 추가 폭로… ‘尹 구형 맞춰 한동훈 제명 기획’ - 아시아타임즈",
     "bot": "jongsuk_pol_bot",
-    "runId": "45129242828",
-    "sentAt": "2026-11-23T07:11:29.452Z"
+    "runId": "45130440150",
+    "sentAt": "2026-11-23T07:21:17.371Z"
   }
 }
