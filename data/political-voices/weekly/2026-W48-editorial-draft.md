@@ -677,3 +677,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與 최고위 또 ‘신천지’ 충돌…김민석, “일제부역” 박선원에 경고 - 중앙일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 최고위 또 ‘신천지’ 충돌…김민석, “일제부역” 박선원에 경고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXa1J4WkhOdk5Zd3V3SmZhQXVkMC1wZm40WEZFYldOZE5xLVFlamZyOGozZlduTXQweTZLcF9qa3FRd0ZsS2JFY09sNldDMVNBQjJjWFJn?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [포토] 생각에 잠긴 김민석 더불어민주당 대표 - 뉴데일리
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 생각에 잠긴 김민석 더불어민주당 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE9tclNLcENHNFM3Q0JNY2Rwd1ZIZm54aTktMW9HYktPU19Wa3VFUzNoZDFLeWRHTjF0b0pCWXloWklJeFdUZ3Btb3pYU1FORm01amxac3lsbDJiZW1nRk5fajdJaFNuRkc1ak1XSmctNzRYWFE0cWt4WlB6WdIBgAFBVV95cUxQMnFJMzhnbmIzSHJFU0J1WHJuZ0xZUXhtSy1yaG1GOXFLOXNMVDVidU1JQkVZUlo4SDFOVl9ZT3BISktrMTNmUkdnWVpQbEhCWDlKdlEtMVo2RUpUc0xlM2wtUWY0U1QxTWJQQU91TTdab1VsM2NHY3B5REdmYWNKSg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 신천지 조사 두고 최고위 또 충돌…김민석, 박선원에 구두 경고 - 노컷뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신천지 조사 두고 최고위 또 충돌…김민석, 박선원에 구두 경고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZ3dhRF9iWDVQdFhSbXpEaE5BQVZOeUtzWm9mR2R1OHFNQzhuazlBRFhENmZySlR1Nk83Sm9aSWFTV1VDZ21jUVJDaFZwYmdoZFE?oc=5)
+
+---
+

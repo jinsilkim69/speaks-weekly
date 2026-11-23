@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T03:11:13.648Z",
+  "lastCheckedAt": "2026-11-23T03:21:14.735Z",
   "seenPostIds": {
-    "a7438ebfb898be35b330df3c8512c76a5bde06d6ac2d13bc5572947da4ef8320": {
-      "seenAt": "2026-11-19T18:04:05.206Z",
-      "title": "혁신당, 일본 대사관에 조국 입국 거부 항의서한 전달…\"진상 밝혀야\" - 머니투데이 - 머니투데이",
-      "targetName": "조국"
-    },
-    "3370672f600e89049a43c11323589d6a7c90ef3bf7673bc0c9346eeba61430aa": {
-      "seenAt": "2026-11-19T19:21:28.893Z",
-      "title": "송영길 \"신천지 등 사이비 종교 가입 시 당원 자격 박탈해야…송도 유원지 개발·원도심 교육 혁신 속도\" [굿모닝 인천-주간핫이슈] - 경인방송 뉴스",
-      "targetName": "송영길"
-    },
-    "1ee1d2bf28b8ce7d285ecfe824df2a24cb531b613647c2c9415ff9e669a6b302": {
-      "seenAt": "2026-11-19T19:41:17.996Z",
-      "title": "Trump urges Congress to pass a new farm bill - San Luis Obispo Tribune",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "d1f1c70230556cfd410a7ca4c4a492dac1104123a1aeb2f7c7a70cca8c46c044": {
       "seenAt": "2026-11-19T20:11:19.490Z",
       "title": "Trump pressures Congress to pass farm bill this year - WTVB",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T03:11:16.035Z",
       "title": "장동혁, 與 조희대 탄핵 추진에 “이재명 탈옥 탄핵”...한동훈 \"삼권분립 훼손\" - 신문고뉴스",
       "targetName": "한동훈"
+    },
+    "2aeb11718db7edf0370ab53730a5c70c7b672ac01a3317bdea250ec737c37efe": {
+      "seenAt": "2026-11-23T03:21:15.934Z",
+      "title": "與 최고위 또 ‘신천지’ 충돌…김민석, “일제부역” 박선원에 경고 - 중앙일보",
+      "targetName": "김민석"
+    },
+    "15fee8da20f6e0f54a9acb27263af946bec8185e2a6c0eaa6125075f44695aeb": {
+      "seenAt": "2026-11-23T03:21:16.604Z",
+      "title": "[포토] 생각에 잠긴 김민석 더불어민주당 대표 - 뉴데일리",
+      "targetName": "김민석"
+    },
+    "4baf4f075190191bdc8ebf10b56eb950fa2f5a0433fd03527bcc43d4af05a38e": {
+      "seenAt": "2026-11-23T03:21:17.251Z",
+      "title": "신천지 조사 두고 최고위 또 충돌…김민석, 박선원에 구두 경고 - 노컷뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "2aeb11718db7edf0370ab53730a5c70c7b672ac01a3317bdea250ec737c37efe",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "與 최고위 또 ‘신천지’ 충돌…김민석, “일제부역” 박선원에 경고 - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXa1J4WkhOdk5Zd3V3SmZhQXVkMC1wZm40WEZFYldOZE5xLVFlamZyOGozZlduTXQweTZLcF9qa3FRd0ZsS2JFY09sNldDMVNBQjJjWFJn?oc=5\" target=\"_blank\">與 최고위 또 ‘신천지’ 충돌…김민석, “일제부역” 박선원에 경고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXa1J4WkhOdk5Zd3V3SmZhQXVkMC1wZm40WEZFYldOZE5xLVFlamZyOGozZlduTXQweTZLcF9qa3FRd0ZsS2JFY09sNldDMVNBQjJjWFJn?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 03:05:06 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "15fee8da20f6e0f54a9acb27263af946bec8185e2a6c0eaa6125075f44695aeb",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "[포토] 생각에 잠긴 김민석 더불어민주당 대표 - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9tclNLcENHNFM3Q0JNY2Rwd1ZIZm54aTktMW9HYktPU19Wa3VFUzNoZDFLeWRHTjF0b0pCWXloWklJeFdUZ3Btb3pYU1FORm01amxac3lsbDJiZW1nRk5fajdJaFNuRkc1ak1XSmctNzRYWFE0cWt4WlB6WdIBgAFBVV95cUxQMnFJMzhnbmIzSHJFU0J1WHJuZ0xZUXhtSy1yaG1GOXFLOXNMVDVidU1JQkVZUlo4SDFOVl9ZT3BISktrMTNmUkdnWVpQbEhCWDlKdlEtMVo2RUpUc0xlM2wtUWY0U1QxTWJQQU91TTdab1VsM2NHY3B5REdmYWNKSg?oc=5\" target=\"_blank\">[포토] 생각에 잠긴 김민석 더불어민주당 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tclNLcENHNFM3Q0JNY2Rwd1ZIZm54aTktMW9HYktPU19Wa3VFUzNoZDFLeWRHTjF0b0pCWXloWklJeFdUZ3Btb3pYU1FORm01amxac3lsbDJiZW1nRk5fajdJaFNuRkc1ak1XSmctNzRYWFE0cWt4WlB6WdIBgAFBVV95cUxQMnFJMzhnbmIzSHJFU0J1WHJuZ0xZUXhtSy1yaG1GOXFLOXNMVDVidU1JQkVZUlo4SDFOVl9ZT3BISktrMTNmUkdnWVpQbEhCWDlKdlEtMVo2RUpUc0xlM2wtUWY0U1QxTWJQQU91TTdab1VsM2NHY3B5REdmYWNKSg?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 02:25:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4baf4f075190191bdc8ebf10b56eb950fa2f5a0433fd03527bcc43d4af05a38e",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "신천지 조사 두고 최고위 또 충돌…김민석, 박선원에 구두 경고 - 노컷뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZ3dhRF9iWDVQdFhSbXpEaE5BQVZOeUtzWm9mR2R1OHFNQzhuazlBRFhENmZySlR1Nk83Sm9aSWFTV1VDZ21jUVJDaFZwYmdoZFE?oc=5\" target=\"_blank\">신천지 조사 두고 최고위 또 충돌…김민석, 박선원에 구두 경고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">노컷뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZ3dhRF9iWDVQdFhSbXpEaE5BQVZOeUtzWm9mR2R1OHFNQzhuazlBRFhENmZySlR1Nk83Sm9aSWFTV1VDZ21jUVJDaFZwYmdoZFE?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 02:50:38 GMT",
-        "source": "노컷뉴스",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "85d357902ba6f962fc8078320ec811959bd6380c458189f4b3b41fdcb4d51a52",
@@ -2613,13 +2565,45 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "d49e80c43ba9a5d1e0c49a5b5d336f9c730de880ea4065bd7d376a12b75d82a2",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "국민의힘, 이재명 대통령 SNS 발언에 \"국민을 돼지에 비유\" 비판 - 한국사회복지저널",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE93eE5KcXBnclZaWlFpcGRRM21VYnVjVXlncmVETl9lQVU4Z1p4eEgzcHduNFB4UFRIZGNRWG1WbmJMUmlsdzc3MkZ1Tm80REFPZFlhN0dsNVpUQmdRaVNfYTNnRHVsLVl2eU84?oc=5\" target=\"_blank\">국민의힘, 이재명 대통령 SNS 발언에 \"국민을 돼지에 비유\" 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국사회복지저널</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93eE5KcXBnclZaWlFpcGRRM21VYnVjVXlncmVETl9lQVU4Z1p4eEgzcHduNFB4UFRIZGNRWG1WbmJMUmlsdzc3MkZ1Tm80REFPZFlhN0dsNVpUQmdRaVNfYTNnRHVsLVl2eU84?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 03:02:47 GMT",
+        "source": "한국사회복지저널",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "bc8774989d48dacd860d120131c360254bec652588fd4d8cbef5129119e2df83",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "혁신당의 '조국' 빠지나…조국 \"확장성 있게 범민주 좋아할 이름으로\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBYVUJZVExVV2VRdUR1NUd6Mm5ZY21RT0pzSDF5M1ZRWkNlQVI3RkxqT09PMkdvSmpMdlJpQ0l1S2hCNVNuTmVaanpyNGctT0JQSnlSNnZuNlh3RGJLZkNwUWhOMi1YNVVqVmFNbNIBckFVX3lxTFBNSUt5MzJuazQ4V0VROUhJeDJyN29pV21LWjBFdElPX1kzVnd2UV80ZTR3cWxlOHdaUTdhYVl4b1g2WGdmWkl1Qlp3RjFXRzFtRVBnUzNmMjhRYXowR1NOYktjUllZYnIxMHBYVUFsc05wUQ?oc=5\" target=\"_blank\">혁신당의 '조국' 빠지나…조국 \"확장성 있게 범민주 좋아할 이름으로\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYVUJZVExVV2VRdUR1NUd6Mm5ZY21RT0pzSDF5M1ZRWkNlQVI3RkxqT09PMkdvSmpMdlJpQ0l1S2hCNVNuTmVaanpyNGctT0JQSnlSNnZuNlh3RGJLZkNwUWhOMi1YNVVqVmFNbNIBckFVX3lxTFBNSUt5MzJuazQ4V0VROUhJeDJyN29pV21LWjBFdElPX1kzVnd2UV80ZTR3cWxlOHdaUTdhYVl4b1g2WGdmWkl1Qlp3RjFXRzFtRVBnUzNmMjhRYXowR1NOYktjUllZYnIxMHBYVUFsc05wUQ?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 20:19:31 GMT",
+        "source": "머니투데이",
+        "ageHours": 7
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "11eaa700d48041aeca4888c7c065b4776722941a0ede9f7a36fced1dbae220ec",
-    "title": "장동혁, 與 조희대 탄핵 추진에 “이재명 탈옥 탄핵”...한동훈 \"삼권분립 훼손\" - 신문고뉴스",
+    "postId": "4baf4f075190191bdc8ebf10b56eb950fa2f5a0433fd03527bcc43d4af05a38e",
+    "title": "신천지 조사 두고 최고위 또 충돌…김민석, 박선원에 구두 경고 - 노컷뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45104443274",
-    "sentAt": "2026-11-23T03:11:15.712Z"
+    "runId": "45105451664",
+    "sentAt": "2026-11-23T03:21:16.917Z"
   }
 }
