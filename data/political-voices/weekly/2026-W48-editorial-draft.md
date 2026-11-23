@@ -1184,3 +1184,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 대구 팔공산 방문 무슨일? - 매일신문
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 대구 팔공산 방문 무슨일?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HVXZuVE50c0NCTC1NS0tHOFdvRnZ0MENQVmVRU09YaE1KTXM5R1dCMDJPS0UxV2FYMUJzaWFGcHRaZ0RVd3hkN2pmZ1E2UUg4YjNsVFdaUE91czFOZXAwaS1n?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 강수영 "조국, 지금 대표인가"…당명 변경 행보 비판 - 평화나무
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 강수영 "조국, 지금 대표인가"…당명 변경 행보 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBSSmlOUHBndUlQQ1dkLXFrV1ZRRUYzdW5YU3VYZ21ES1pISkx2S0tIX0R2WXhnV1hnTTJQTzEzcVljUmF3NGhwLXRiVldKN0FUR2RyeXFtb1QxbC1mRkxfUXk1OUdYNjZRT3c?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 황현선 “당명 개정, 변화의 시작…정략적 합당 필요 없어” - 동아일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 황현선 “당명 개정, 변화의 시작…정략적 합당 필요 없어”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbTh2dm1mUVFSU1ZxLWZ5aWVKckNONHI1elA3NWNqX0xpRDktSWlNaUNiYnlwZk9EcUdvekppalhaOVVfbTdZdEZQNmd4LS1fbzJIWEdJMVV1ekdaaTV4SXhrWURYdmRRd0dfWmxQUXNBdUYtNFJOX3BKdkRCQdIBZkFVX3lxTFA4VDZqX29lODVWREJZUW82dnpCLXMwQXdNM2o2OGRyR3JvZ3JJWkhVN0Jkdnpoc3NzRG9iNUNNd1JjdnU4S0pLLVBLNkxnTGxEZG5lRUFWeGF0cmhVdHZpX2xZWVRTZw?oc=5)
+
+---
+

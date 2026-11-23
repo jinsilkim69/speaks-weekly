@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T06:01:16.187Z",
+  "lastCheckedAt": "2026-11-23T06:11:16.544Z",
   "seenPostIds": {
-    "4af436e7fce02ac802bb32bd53a57d0a80be5302253bd97b98420f7b3d557645": {
-      "seenAt": "2026-11-20T01:12:38.184Z",
-      "title": "「M포토」 ‘조희대 탄핵 추진’ 기자회견 참석하는 신장식 - M이코노미뉴스",
-      "targetName": "신장식"
-    },
-    "a07e12f23292b55ba1fc96a9d9a6bd2f28270ea15d8db82c919eee2553273b56": {
-      "seenAt": "2026-11-20T01:12:38.918Z",
-      "title": "Trump posthumously pardons US baseball legend Pete Rose - Yahoo Sports",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "32edb52c2933a5f3e9ce513e21aee8c8a264f1dbc1b83c0c21b3f7416eb2377e": {
-      "seenAt": "2026-11-20T01:21:19.826Z",
-      "title": "[단독]폴킴·정승환·김민석·빅나티·하현상, ‘고막소년단’ 뭉친다 - JTBC",
-      "targetName": "김민석"
-    },
     "d1ac47600bf373360922e92bcefe5c7311b71f5615f03a7058a9a0fd3284de89": {
       "seenAt": "2026-11-20T01:21:20.568Z",
       "title": "우원식, 정청래 양비론 지적에 \"갈등 확장돼선 안 돼\" - 머니투데이 - 머니투데이",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T06:01:19.025Z",
       "title": "野, 사흘째 '與 조희대 탄핵' 맹공…정점식 \"민주당 '탄핵냥이'\"·한동훈 \"미쳐도 곱게 미쳐라\" - 폴리뉴스 Polinews",
       "targetName": "한동훈"
+    },
+    "40cc0c441fbb7da914eae3905cd1ff0ccae807fca5c6a10ce8df7f08be024e93": {
+      "seenAt": "2026-11-23T06:11:17.576Z",
+      "title": "정청래 대구 팔공산 방문 무슨일? - 매일신문",
+      "targetName": "정청래"
+    },
+    "e5712922f6d05c49e02051aab3e68d509c2bcfa56d058ecade27024c22e20259": {
+      "seenAt": "2026-11-23T06:11:18.206Z",
+      "title": "강수영 \"조국, 지금 대표인가\"…당명 변경 행보 비판 - 평화나무",
+      "targetName": "조국"
+    },
+    "3790cea263b7c172b42b926aef512b40bf098b49fd5f67f3262994b5cbe45ef2": {
+      "seenAt": "2026-11-23T06:11:18.820Z",
+      "title": "조국혁신당 황현선 “당명 개정, 변화의 시작…정략적 합당 필요 없어” - 동아일보",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "40cc0c441fbb7da914eae3905cd1ff0ccae807fca5c6a10ce8df7f08be024e93",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래 대구 팔공산 방문 무슨일? - 매일신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HVXZuVE50c0NCTC1NS0tHOFdvRnZ0MENQVmVRU09YaE1KTXM5R1dCMDJPS0UxV2FYMUJzaWFGcHRaZ0RVd3hkN2pmZ1E2UUg4YjNsVFdaUE91czFOZXAwaS1n?oc=5\" target=\"_blank\">정청래 대구 팔공산 방문 무슨일?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HVXZuVE50c0NCTC1NS0tHOFdvRnZ0MENQVmVRU09YaE1KTXM5R1dCMDJPS0UxV2FYMUJzaWFGcHRaZ0RVd3hkN2pmZ1E2UUg4YjNsVFdaUE91czFOZXAwaS1n?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:48:46 GMT",
-        "source": "매일신문",
-        "ageHours": 0
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e5712922f6d05c49e02051aab3e68d509c2bcfa56d058ecade27024c22e20259",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "강수영 \"조국, 지금 대표인가\"…당명 변경 행보 비판 - 평화나무",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBSSmlOUHBndUlQQ1dkLXFrV1ZRRUYzdW5YU3VYZ21ES1pISkx2S0tIX0R2WXhnV1hnTTJQTzEzcVljUmF3NGhwLXRiVldKN0FUR2RyeXFtb1QxbC1mRkxfUXk1OUdYNjZRT3c?oc=5\" target=\"_blank\">강수영 \"조국, 지금 대표인가\"…당명 변경 행보 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">평화나무</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSSmlOUHBndUlQQ1dkLXFrV1ZRRUYzdW5YU3VYZ21ES1pISkx2S0tIX0R2WXhnV1hnTTJQTzEzcVljUmF3NGhwLXRiVldKN0FUR2RyeXFtb1QxbC1mRkxfUXk1OUdYNjZRT3c?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:36:07 GMT",
-        "source": "평화나무",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "3790cea263b7c172b42b926aef512b40bf098b49fd5f67f3262994b5cbe45ef2",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 황현선 “당명 개정, 변화의 시작…정략적 합당 필요 없어” - 동아일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbTh2dm1mUVFSU1ZxLWZ5aWVKckNONHI1elA3NWNqX0xpRDktSWlNaUNiYnlwZk9EcUdvekppalhaOVVfbTdZdEZQNmd4LS1fbzJIWEdJMVV1ekdaaTV4SXhrWURYdmRRd0dfWmxQUXNBdUYtNFJOX3BKdkRCQdIBZkFVX3lxTFA4VDZqX29lODVWREJZUW82dnpCLXMwQXdNM2o2OGRyR3JvZ3JJWkhVN0Jkdnpoc3NzRG9iNUNNd1JjdnU4S0pLLVBLNkxnTGxEZG5lRUFWeGF0cmhVdHZpX2xZWVRTZw?oc=5\" target=\"_blank\">조국혁신당 황현선 “당명 개정, 변화의 시작…정략적 합당 필요 없어”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbTh2dm1mUVFSU1ZxLWZ5aWVKckNONHI1elA3NWNqX0xpRDktSWlNaUNiYnlwZk9EcUdvekppalhaOVVfbTdZdEZQNmd4LS1fbzJIWEdJMVV1ekdaaTV4SXhrWURYdmRRd0dfWmxQUXNBdUYtNFJOX3BKdkRCQdIBZkFVX3lxTFA4VDZqX29lODVWREJZUW82dnpCLXMwQXdNM2o2OGRyR3JvZ3JJWkhVN0Jkdnpoc3NzRG9iNUNNd1JjdnU4S0pLLVBLNkxnTGxEZG5lRUFWeGF0cmhVdHZpX2xZWVRTZw?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 04:16:02 GMT",
-        "source": "동아일보",
-        "ageHours": 1.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "923bd1ab939f749277e676edb0e4e3fa0b9a751dcc7221da1b972f9aae0b8e54",
@@ -2693,13 +2645,77 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "227e0f4f7272c6b0699adb0477f52def2e10e710a1a24c99909b147b4480a383",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\"…조희대 탄핵 중단 촉구 - 한국NGO신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oQm0yeHVuOEJDMjA4T0YxdGNwQ2h1MzM2Y0t4S3NhV1M3STNvTVJ1ME95NW9uek9PQlVNU3BaaXR1NWxBcmpEc0xZRDh2RlUybFZPYnpsOHg1cFdTN1hISHlqMTBGZWlQ?oc=5\" target=\"_blank\">오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\"…조희대 탄핵 중단 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국NGO신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oQm0yeHVuOEJDMjA4T0YxdGNwQ2h1MzM2Y0t4S3NhV1M3STNvTVJ1ME95NW9uek9PQlVNU3BaaXR1NWxBcmpEc0xZRDh2RlUybFZPYnpsOHg1cFdTN1hISHlqMTBGZWlQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:54:51 GMT",
+        "source": "한국NGO신문",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "1a01aa41a38e09af738a5acc3e03a3205ae23590d7415a2c8e016699a63d27af",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, 박선원 과도한 표현에 구두 경고 - 스페셜타임스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5WM01sTmF2aEpkSVNHN0N2QlVTbGdKRUViYVc4akJCMUswcEdXT1FGb1hDWWlWSXN5dVFHSExleVR3ekxBQUx1eHAxS0hva3NVVUpoMGxMSG02ZUxDRlo1akdWVG05b2JRZWViaHFrWTVESzQ?oc=5\" target=\"_blank\">김민석, 박선원 과도한 표현에 구두 경고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스페셜타임스</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WM01sTmF2aEpkSVNHN0N2QlVTbGdKRUViYVc4akJCMUswcEdXT1FGb1hDWWlWSXN5dVFHSExleVR3ekxBQUx1eHAxS0hva3NVVUpoMGxMSG02ZUxDRlo1akdWVG05b2JRZWViaHFrWTVESzQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:54:36 GMT",
+        "source": "스페셜타임스",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5b8b20e9c25f685b2c47fefc7a868244978045a0786ec1239f4b98f3473226b4",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "“2028년 총선은 부동산 심판 선거”…조정훈·이준석, 종부세 손질 요구 - 매일경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnQmduQzFic0Q0QnM1aTBwZ3lFTU1RZklSQW40RTlyVXBfSWJtMHNEbFVwNWZtM203amg4c01rakRNY3AtSlFlUTVjWmlBNnczWWt3YkZR?oc=5\" target=\"_blank\">“2028년 총선은 부동산 심판 선거”…조정훈·이준석, 종부세 손질 요구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnQmduQzFic0Q0QnM1aTBwZ3lFTU1RZklSQW40RTlyVXBfSWJtMHNEbFVwNWZtM203amg4c01rakRNY3AtSlFlUTVjWmlBNnczWWt3YkZR?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:57:49 GMT",
+        "source": "매일경제",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5a7da346519eb57ba7d067b9b658d5350ba399fa2f7f1c1176cc39200177af95",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says he hopes Nvidia rehires Jensen Huang: ‘Best thing for the USA’ - New York Post",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjBkd3dPamZiYm5YSEsxTE5kNmVLNGdxaVp1UDlrZngtcEFETWk1dE5qTVg2RVFsdk9QSzlJYlNaekd0Ym9CYi1XWk83eFBrTlk4QjhIZDFtd25VVzlySThSbloydnd4eldNRnJTYVltOE92T3M1LXZGVHFlRVJwMXRTZEFsbTZWN1FaaFFCUVA4eVl1Rk8wWlYwYW83T2M4SW16c2xMNU1fLUdSYmc?oc=5\" target=\"_blank\">Trump says he hopes Nvidia rehires Jensen Huang: ‘Best thing for the USA’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjBkd3dPamZiYm5YSEsxTE5kNmVLNGdxaVp1UDlrZngtcEFETWk1dE5qTVg2RVFsdk9QSzlJYlNaekd0Ym9CYi1XWk83eFBrTlk4QjhIZDFtd25VVzlySThSbloydnd4eldNRnJTYVltOE92T3M1LXZGVHFlRVJwMXRTZEFsbTZWN1FaaFFCUVA4eVl1Rk8wWlYwYW83T2M4SW16c2xMNU1fLUdSYmc?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:44:00 GMT",
+        "source": "New York Post",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "33be12633060ef39770db6c400427f6726dfb803ea88074bb20b57481f2fa7c6",
-    "title": "野, 사흘째 '與 조희대 탄핵' 맹공…정점식 \"민주당 '탄핵냥이'\"·한동훈 \"미쳐도 곱게 미쳐라\" - 폴리뉴스 Polinews",
+    "postId": "3790cea263b7c172b42b926aef512b40bf098b49fd5f67f3262994b5cbe45ef2",
+    "title": "조국혁신당 황현선 “당명 개정, 변화의 시작…정략적 합당 필요 없어” - 동아일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45121339933",
-    "sentAt": "2026-11-23T06:01:18.663Z"
+    "runId": "45122409191",
+    "sentAt": "2026-11-23T06:11:18.510Z"
   }
 }
