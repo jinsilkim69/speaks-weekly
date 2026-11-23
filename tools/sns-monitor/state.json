@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T15:01:15.147Z",
+  "lastCheckedAt": "2026-11-23T15:11:16.396Z",
   "seenPostIds": {
-    "4bf2b98c39f79df6ec84fb26511606d9442dfe4e87f4c0c1c35540a0f9ed290f": {
-      "seenAt": "2026-11-20T12:21:20.202Z",
-      "title": "이재명 대통령, 수석보좌관회의 발언 - 뉴스1",
-      "targetName": "이재명"
-    },
-    "c59ec777daeb436186d56a6b04f346853e67e746d1cdc55b8ebecb344a17f34f": {
-      "seenAt": "2026-11-20T12:31:19.619Z",
-      "title": "'리더십 위기' 김민석 꺼낸 '조희대 탄핵' 카드 … 李 재판재개 트리거 '부메랑'되나 - 뉴데일리",
-      "targetName": "김민석"
-    },
     "ddd698720e68831ca4ac4e13658cfb4f6063a75cb727f99cd6779cecd6ec3efe": {
       "seenAt": "2026-11-20T12:31:20.371Z",
       "title": "'음주운전 징계 후 귀화' 김민석, 헝가리 대표팀 은퇴 …2030 올림픽서 태극마크 도전 가능성도 - 일간스포츠",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-23T15:01:17.258Z",
       "title": "[김종석의 리포트]“尹 사형 구형일 맞춰 한동훈 제명” - 채널A",
       "targetName": "한동훈"
+    },
+    "019f0949270904a77474bdcb4b0d71bd30774cd5094b1cb6693605203151e0f8": {
+      "seenAt": "2026-11-23T15:11:17.876Z",
+      "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors - Reuters",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "6496090943be583faea73b35291cddda46a04c0561ad23e477c350cc698cd9bf",
-    "title": "[김종석의 리포트]“尹 사형 구형일 맞춰 한동훈 제명” - 채널A",
+    "postId": "019f0949270904a77474bdcb4b0d71bd30774cd5094b1cb6693605203151e0f8",
+    "title": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors - Reuters",
     "bot": "jongsuk_pol_bot",
-    "runId": "45200448181",
-    "sentAt": "2026-11-23T15:01:16.839Z"
+    "runId": "45202327688",
+    "sentAt": "2026-11-23T15:11:17.319Z"
   }
 }
