@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T06:41:14.628Z",
+  "lastCheckedAt": "2026-11-23T06:51:15.816Z",
   "seenPostIds": {
-    "8ae799dd31a3797ec61c234b1a88d742ba221705d82ce40b1b02af0f50318cf4": {
-      "seenAt": "2026-11-20T02:11:17.624Z",
-      "title": "Trump posthumously pardons former Phillie Pete Rose - Inquirer.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "1ad70359fa49e73e4a0296c3064911ca93562ad45ba4a3b9cee993c978b1a9dd": {
-      "seenAt": "2026-11-20T02:41:21.405Z",
-      "title": "[기획특집_세계를 움직이는 정상들의 아침을 여는 SNS 소통 메시지③] 李 “수출 1조 달러” 트럼프 “중대한 순방”… 베를린에선 우크라 평화협상에 유럽 참여 요구... 정상들이 뉴스보다 먼저 띄운 말 - STN SPORTS",
-      "targetName": "이재명"
-    },
-    "d42e4e50f2b1730866f73021399eae4b098b6dd47eb489a7eae011bbd58906e6": {
-      "seenAt": "2026-11-20T02:41:22.145Z",
-      "title": "[여론조사on] 이재명 대통령 지지율 40% '6주째 횡보'…민주 36%·국힘 28% 격차 다시 8%p - ISSUE ON (이슈온)",
-      "targetName": "이재명"
-    },
     "2bd3fc185d73cd184984cd2e20c65fc2ff960151b9df9251b73f6e3a47bdd019": {
       "seenAt": "2026-11-20T02:41:22.861Z",
       "title": "한동훈, 조희대 탄핵 추진에 “국헌문란 목적의 내란”… 이준석은 李 재판 재개 촉구 - 세계일보",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T06:41:17.251Z",
       "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\"…조희대 탄핵 중단 촉구 - 한국NGO신문",
       "targetName": "이재명"
+    },
+    "1a01aa41a38e09af738a5acc3e03a3205ae23590d7415a2c8e016699a63d27af": {
+      "seenAt": "2026-11-23T06:51:16.966Z",
+      "title": "김민석, 박선원 과도한 표현에 구두 경고 - 스페셜타임스",
+      "targetName": "김민석"
+    },
+    "5b8b20e9c25f685b2c47fefc7a868244978045a0786ec1239f4b98f3473226b4": {
+      "seenAt": "2026-11-23T06:51:17.652Z",
+      "title": "“2028년 총선은 부동산 심판 선거”…조정훈·이준석, 종부세 손질 요구 - 매일경제",
+      "targetName": "이준석"
+    },
+    "5a7da346519eb57ba7d067b9b658d5350ba399fa2f7f1c1176cc39200177af95": {
+      "seenAt": "2026-11-23T06:51:18.291Z",
+      "title": "Trump says he hopes Nvidia rehires Jensen Huang: ‘Best thing for the USA’ - New York Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "1a01aa41a38e09af738a5acc3e03a3205ae23590d7415a2c8e016699a63d27af",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, 박선원 과도한 표현에 구두 경고 - 스페셜타임스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5WM01sTmF2aEpkSVNHN0N2QlVTbGdKRUViYVc4akJCMUswcEdXT1FGb1hDWWlWSXN5dVFHSExleVR3ekxBQUx1eHAxS0hva3NVVUpoMGxMSG02ZUxDRlo1akdWVG05b2JRZWViaHFrWTVESzQ?oc=5\" target=\"_blank\">김민석, 박선원 과도한 표현에 구두 경고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스페셜타임스</font>",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WM01sTmF2aEpkSVNHN0N2QlVTbGdKRUViYVc4akJCMUswcEdXT1FGb1hDWWlWSXN5dVFHSExleVR3ekxBQUx1eHAxS0hva3NVVUpoMGxMSG02ZUxDRlo1akdWVG05b2JRZWViaHFrWTVESzQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:54:36 GMT",
-        "source": "스페셜타임스",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5b8b20e9c25f685b2c47fefc7a868244978045a0786ec1239f4b98f3473226b4",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "“2028년 총선은 부동산 심판 선거”…조정훈·이준석, 종부세 손질 요구 - 매일경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnQmduQzFic0Q0QnM1aTBwZ3lFTU1RZklSQW40RTlyVXBfSWJtMHNEbFVwNWZtM203amg4c01rakRNY3AtSlFlUTVjWmlBNnczWWt3YkZR?oc=5\" target=\"_blank\">“2028년 총선은 부동산 심판 선거”…조정훈·이준석, 종부세 손질 요구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnQmduQzFic0Q0QnM1aTBwZ3lFTU1RZklSQW40RTlyVXBfSWJtMHNEbFVwNWZtM203amg4c01rakRNY3AtSlFlUTVjWmlBNnczWWt3YkZR?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:57:49 GMT",
-        "source": "매일경제",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5a7da346519eb57ba7d067b9b658d5350ba399fa2f7f1c1176cc39200177af95",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump says he hopes Nvidia rehires Jensen Huang: ‘Best thing for the USA’ - New York Post",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjBkd3dPamZiYm5YSEsxTE5kNmVLNGdxaVp1UDlrZngtcEFETWk1dE5qTVg2RVFsdk9QSzlJYlNaekd0Ym9CYi1XWk83eFBrTlk4QjhIZDFtd25VVzlySThSbloydnd4eldNRnJTYVltOE92T3M1LXZGVHFlRVJwMXRTZEFsbTZWN1FaaFFCUVA4eVl1Rk8wWlYwYW83T2M4SW16c2xMNU1fLUdSYmc?oc=5\" target=\"_blank\">Trump says he hopes Nvidia rehires Jensen Huang: ‘Best thing for the USA’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjBkd3dPamZiYm5YSEsxTE5kNmVLNGdxaVp1UDlrZngtcEFETWk1dE5qTVg2RVFsdk9QSzlJYlNaekd0Ym9CYi1XWk83eFBrTlk4QjhIZDFtd25VVzlySThSbloydnd4eldNRnJTYVltOE92T3M1LXZGVHFlRVJwMXRTZEFsbTZWN1FaaFFCUVA4eVl1Rk8wWlYwYW83T2M4SW16c2xMNU1fLUdSYmc?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:44:00 GMT",
-        "source": "New York Post",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "e18f3eb476de7184b3e032205fc616887f6139c582ebed2df3527b3ae8c83a70",
@@ -2632,10 +2584,10 @@
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "227e0f4f7272c6b0699adb0477f52def2e10e710a1a24c99909b147b4480a383",
-    "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\"…조희대 탄핵 중단 촉구 - 한국NGO신문",
+    "postId": "5a7da346519eb57ba7d067b9b658d5350ba399fa2f7f1c1176cc39200177af95",
+    "title": "Trump says he hopes Nvidia rehires Jensen Huang: ‘Best thing for the USA’ - New York Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "45125750723",
-    "sentAt": "2026-11-23T06:41:16.906Z"
+    "runId": "45126921738",
+    "sentAt": "2026-11-23T06:51:17.960Z"
   }
 }

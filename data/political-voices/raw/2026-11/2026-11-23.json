@@ -2590,5 +2590,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "1a01aa41a38e09af738a5acc3e03a3205ae23590d7415a2c8e016699a63d27af",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, 박선원 과도한 표현에 구두 경고 - 스페셜타임스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5WM01sTmF2aEpkSVNHN0N2QlVTbGdKRUViYVc4akJCMUswcEdXT1FGb1hDWWlWSXN5dVFHSExleVR3ekxBQUx1eHAxS0hva3NVVUpoMGxMSG02ZUxDRlo1akdWVG05b2JRZWViaHFrWTVESzQ?oc=5\" target=\"_blank\">김민석, 박선원 과도한 표현에 구두 경고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스페셜타임스</font>",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WM01sTmF2aEpkSVNHN0N2QlVTbGdKRUViYVc4akJCMUswcEdXT1FGb1hDWWlWSXN5dVFHSExleVR3ekxBQUx1eHAxS0hva3NVVUpoMGxMSG02ZUxDRlo1akdWVG05b2JRZWViaHFrWTVESzQ?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 05:54:36 GMT",
+    "source": "스페셜타임스",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 박선원 과도한 표현에 구두 경고",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "5b8b20e9c25f685b2c47fefc7a868244978045a0786ec1239f4b98f3473226b4",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "“2028년 총선은 부동산 심판 선거”…조정훈·이준석, 종부세 손질 요구 - 매일경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnQmduQzFic0Q0QnM1aTBwZ3lFTU1RZklSQW40RTlyVXBfSWJtMHNEbFVwNWZtM203amg4c01rakRNY3AtSlFlUTVjWmlBNnczWWt3YkZR?oc=5\" target=\"_blank\">“2028년 총선은 부동산 심판 선거”…조정훈·이준석, 종부세 손질 요구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnQmduQzFic0Q0QnM1aTBwZ3lFTU1RZklSQW40RTlyVXBfSWJtMHNEbFVwNWZtM203amg4c01rakRNY3AtSlFlUTVjWmlBNnczWWt3YkZR?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 05:57:49 GMT",
+    "source": "매일경제",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “2028년 총선은 부동산 심판 선거”…조정훈·이준석, 종부세 손질 요구",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "5a7da346519eb57ba7d067b9b658d5350ba399fa2f7f1c1176cc39200177af95",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump says he hopes Nvidia rehires Jensen Huang: ‘Best thing for the USA’ - New York Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjBkd3dPamZiYm5YSEsxTE5kNmVLNGdxaVp1UDlrZngtcEFETWk1dE5qTVg2RVFsdk9QSzlJYlNaekd0Ym9CYi1XWk83eFBrTlk4QjhIZDFtd25VVzlySThSbloydnd4eldNRnJTYVltOE92T3M1LXZGVHFlRVJwMXRTZEFsbTZWN1FaaFFCUVA4eVl1Rk8wWlYwYW83T2M4SW16c2xMNU1fLUdSYmc?oc=5\" target=\"_blank\">Trump says he hopes Nvidia rehires Jensen Huang: ‘Best thing for the USA’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjBkd3dPamZiYm5YSEsxTE5kNmVLNGdxaVp1UDlrZngtcEFETWk1dE5qTVg2RVFsdk9QSzlJYlNaekd0Ym9CYi1XWk83eFBrTlk4QjhIZDFtd25VVzlySThSbloydnd4eldNRnJTYVltOE92T3M1LXZGVHFlRVJwMXRTZEFsbTZWN1FaaFFCUVA4eVl1Rk8wWlYwYW83T2M4SW16c2xMNU1fLUdSYmc?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 05:44:00 GMT",
+    "source": "New York Post",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump says he hopes Nvidia rehires Jensen Huang: ‘Best thing for the USA’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
