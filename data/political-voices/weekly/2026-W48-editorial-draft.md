@@ -2120,3 +2120,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 "대통령 이재명 삶, 피고인 이재명에게 쓰지 마시라" - SBS 뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 "대통령 이재명 삶, 피고인 이재명에게 쓰지 마시라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE5wcG9YYnd2TUVxZjJKcDhZOWU4ZUxIeTdZbU93c2RKa2tVTFNRV0dKQ09kN3ZoY0NOUXZ6V3owWEpVeWk0Sm9LMUNQcTN4UHRtUDBwTGdXakJzaWh4QWQtVWJON2VmY1ZIVUE?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 천하람, 연평도 포격전 16주기 맞아 전사자 묘역 참배.."용기와 헌신에 감사" - 파이낸셜뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 천하람, 연평도 포격전 16주기 맞아 전사자 묘역 참배.."용기와 헌신에 감사"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Nbk1HcFpaWEh4QXJXbm1ZamRKZGtXa1ZnUjdqLXNlMmdGSXNxTVExbm5PRm80eGh1MzlQMW5SN184V0pPdmUzX1h3ZWpweWR1VERiZl94RjU1QQ?oc=5)
+
+---
+

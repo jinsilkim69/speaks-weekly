@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T11:01:20.508Z",
+  "lastCheckedAt": "2026-11-23T11:11:13.835Z",
   "seenPostIds": {
-    "bb8b0f87a9adda4dcffe9a3328ef7f508d458f49a0da12bb35846c8adfdee115": {
-      "seenAt": "2026-11-20T06:51:19.766Z",
-      "title": "이재명 \"韓 전자정부 1위론 부족…국민 체감 ‘AI 민주정부’ 구축” - 지디넷코리아",
-      "targetName": "이재명"
-    },
-    "189dab1e449c6af35a9c1ea7b24b956ebc3d63c9ece2ebe44f88a9f947f35803": {
-      "seenAt": "2026-11-20T06:51:20.465Z",
-      "title": "김우영 “조희대 탄핵, 정청래 추미애 뭐했나?” - 평화나무",
-      "targetName": "정청래"
-    },
     "46ad3258fce00b7293bfddb61e42dfba0dc168ce6a786e700f8fd67190ec55f8": {
       "seenAt": "2026-11-20T06:51:21.152Z",
       "title": "[뉴스 즉설]10일에 1%p씩 까먹은 김민석, '진격의 깃발' 든 정청래 - 대전일보",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-23T11:01:23.257Z",
       "title": "조국혁신당, 당명 개정 추진… ‘조국’ 떼고 새출발하나 - 시사위크",
       "targetName": "조국"
+    },
+    "a47014bd49c9cda653e0efb786758dc24cde72d2d4b20cd5b64b0dba4d0e374d": {
+      "seenAt": "2026-11-23T11:11:15.041Z",
+      "title": "오세훈 \"대통령 이재명 삶, 피고인 이재명에게 쓰지 마시라\" - SBS 뉴스",
+      "targetName": "이재명"
+    },
+    "9addd26deb3044f5c4b0b75c60927718f10bf1a3dfd2194c85551dfab484c32a": {
+      "seenAt": "2026-11-23T11:11:15.714Z",
+      "title": "천하람, 연평도 포격전 16주기 맞아 전사자 묘역 참배..\"용기와 헌신에 감사\" - 파이낸셜뉴스",
+      "targetName": "천하람"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "b43df50ecd6b0ceaf99ffa5bf2431c1a3c151bf2a16903bd60026fe430549804",
-    "title": "조국혁신당, 당명 개정 추진… ‘조국’ 떼고 새출발하나 - 시사위크",
+    "postId": "9addd26deb3044f5c4b0b75c60927718f10bf1a3dfd2194c85551dfab484c32a",
+    "title": "천하람, 연평도 포격전 16주기 맞아 전사자 묘역 참배..\"용기와 헌신에 감사\" - 파이낸셜뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45161282958",
-    "sentAt": "2026-11-23T11:01:22.842Z"
+    "runId": "45162823150",
+    "sentAt": "2026-11-23T11:11:15.363Z"
   }
 }
