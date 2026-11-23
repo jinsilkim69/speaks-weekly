@@ -1145,3 +1145,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump Finds Bizarre New Scapegoat for His Mounting Woes - The Daily Beast
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump Finds Bizarre New Scapegoat for His Mounting Woes
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTRiclNkWktTWmFDYzJnZDY5dFlrMGtoWnBHSldtT0FMeDBySkVjSjNhcTN3eXBRRWZ4cEJYNnBNNExRRjdGMEZLc3ZTc2RGdDhNcFdhQ0hxUkN6TlFHM1dWOWtYX0dkWWpNbG9nUVlFYWM4dWw1R0ViSUQtMndxTEhicTdZM1N1cFY2M1I1c29LWkpETDNJ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁·한동훈 ‘적대적 공생’ 고착화… 길 잃은 보수 통합 - 서울신문
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁·한동훈 ‘적대적 공생’ 고착화… 길 잃은 보수 통합
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE4tQV9qT2lSVHdJWU9kU0lvaktGOWZoUUF2WlZMYWNKemRhU2FqVkg5R21WcGg1bHgtVGtHR19nUGZINk03SDhuSFpadWR2SWp5ZEZvSlI4aFlaVmp6ZlRkbFEwZ2ZiVGFNek11V0JiOHI?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 野, 사흘째 '與 조희대 탄핵' 맹공…정점식 "민주당 '탄핵냥이'"·한동훈 "미쳐도 곱게 미쳐라" - 폴리뉴스 Polinews
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 野, 사흘째 '與 조희대 탄핵' 맹공…정점식 "민주당 '탄핵냥이'"·한동훈 "미쳐도 곱게 미쳐라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE80NkdDZUsycllsTnFJbjZlWDNxeXZlYWlOLUpIbW52eW1nZmhGU3puWDFIT0NJWkl0MU9pbnlPUVZ5TDVFWTNlU3VyRUQ4THRPTm5XWTQ0ekxIWHNOZjNkamNNN1VZa2hRLWhSQWxR?oc=5)
+
+---
+

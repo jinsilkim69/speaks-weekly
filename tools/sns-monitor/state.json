@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T05:51:37.914Z",
+  "lastCheckedAt": "2026-11-23T06:01:16.187Z",
   "seenPostIds": {
-    "b06c02495302c01e613048187d41f82eee9bce4125284aa6db06b926e42d8af5": {
-      "seenAt": "2026-11-20T00:51:17.827Z",
-      "title": "한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이 - 머니투데이",
-      "targetName": "한동훈"
-    },
-    "855db3ee9f16c448e1377826a26c6290de9d36d4276c77d69eb86b2be7454a01": {
-      "seenAt": "2026-11-20T00:51:18.432Z",
-      "title": "신장식 \"조희대, 토요일에 바로 탄핵하자\"…與에 신속 처리 촉구 - 머니투데이 - 머니투데이",
-      "targetName": "신장식"
-    },
-    "51eeb10ff085dc86370795a7f8c0c56781134204df705114c2396bb85823f661": {
-      "seenAt": "2026-11-20T01:12:37.438Z",
-      "title": "신장식 \"조희대, 토요일에 바로 탄핵하자\"…與에 신속 처리 촉구 - 머니투데이 - 머니투데이",
-      "targetName": "신장식"
-    },
     "4af436e7fce02ac802bb32bd53a57d0a80be5302253bd97b98420f7b3d557645": {
       "seenAt": "2026-11-20T01:12:38.184Z",
       "title": "「M포토」 ‘조희대 탄핵 추진’ 기자회견 참석하는 신장식 - M이코노미뉴스",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T05:51:42.509Z",
       "title": "Trump urges Nvidia board to rehire Jensen Huang - Yahoo Finance",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "580c3a3939bd6521be094f392ae1251585b1602d8767275d6c0713819b4258e5": {
+      "seenAt": "2026-11-23T06:01:17.555Z",
+      "title": "Donald Trump Finds Bizarre New Scapegoat for His Mounting Woes - The Daily Beast",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "c515a315cd22f36ac77cb37bfab47895d1f123c75bd5129dd0110425b58d0a97": {
+      "seenAt": "2026-11-23T06:01:18.307Z",
+      "title": "장동혁·한동훈 ‘적대적 공생’ 고착화… 길 잃은 보수 통합 - 서울신문",
+      "targetName": "한동훈"
+    },
+    "33be12633060ef39770db6c400427f6726dfb803ea88074bb20b57481f2fa7c6": {
+      "seenAt": "2026-11-23T06:01:19.025Z",
+      "title": "野, 사흘째 '與 조희대 탄핵' 맹공…정점식 \"민주당 '탄핵냥이'\"·한동훈 \"미쳐도 곱게 미쳐라\" - 폴리뉴스 Polinews",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "580c3a3939bd6521be094f392ae1251585b1602d8767275d6c0713819b4258e5",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Donald Trump Finds Bizarre New Scapegoat for His Mounting Woes - The Daily Beast",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTRiclNkWktTWmFDYzJnZDY5dFlrMGtoWnBHSldtT0FMeDBySkVjSjNhcTN3eXBRRWZ4cEJYNnBNNExRRjdGMEZLc3ZTc2RGdDhNcFdhQ0hxUkN6TlFHM1dWOWtYX0dkWWpNbG9nUVlFYWM4dWw1R0ViSUQtMndxTEhicTdZM1N1cFY2M1I1c29LWkpETDNJ?oc=5\" target=\"_blank\">Donald Trump Finds Bizarre New Scapegoat for His Mounting Woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTRiclNkWktTWmFDYzJnZDY5dFlrMGtoWnBHSldtT0FMeDBySkVjSjNhcTN3eXBRRWZ4cEJYNnBNNExRRjdGMEZLc3ZTc2RGdDhNcFdhQ0hxUkN6TlFHM1dWOWtYX0dkWWpNbG9nUVlFYWM4dWw1R0ViSUQtMndxTEhicTdZM1N1cFY2M1I1c29LWkpETDNJ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:34:39 GMT",
-        "source": "The Daily Beast",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c515a315cd22f36ac77cb37bfab47895d1f123c75bd5129dd0110425b58d0a97",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "장동혁·한동훈 ‘적대적 공생’ 고착화… 길 잃은 보수 통합 - 서울신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4tQV9qT2lSVHdJWU9kU0lvaktGOWZoUUF2WlZMYWNKemRhU2FqVkg5R21WcGg1bHgtVGtHR19nUGZINk03SDhuSFpadWR2SWp5ZEZvSlI4aFlaVmp6ZlRkbFEwZ2ZiVGFNek11V0JiOHI?oc=5\" target=\"_blank\">장동혁·한동훈 ‘적대적 공생’ 고착화… 길 잃은 보수 통합</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tQV9qT2lSVHdJWU9kU0lvaktGOWZoUUF2WlZMYWNKemRhU2FqVkg5R21WcGg1bHgtVGtHR19nUGZINk03SDhuSFpadWR2SWp5ZEZvSlI4aFlaVmp6ZlRkbFEwZ2ZiVGFNek11V0JiOHI?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 09:03:47 GMT",
-        "source": "서울신문",
-        "ageHours": 20.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "33be12633060ef39770db6c400427f6726dfb803ea88074bb20b57481f2fa7c6",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "野, 사흘째 '與 조희대 탄핵' 맹공…정점식 \"민주당 '탄핵냥이'\"·한동훈 \"미쳐도 곱게 미쳐라\" - 폴리뉴스 Polinews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE80NkdDZUsycllsTnFJbjZlWDNxeXZlYWlOLUpIbW52eW1nZmhGU3puWDFIT0NJWkl0MU9pbnlPUVZ5TDVFWTNlU3VyRUQ4THRPTm5XWTQ0ekxIWHNOZjNkamNNN1VZa2hRLWhSQWxR?oc=5\" target=\"_blank\">野, 사흘째 '與 조희대 탄핵' 맹공…정점식 \"민주당 '탄핵냥이'\"·한동훈 \"미쳐도 곱게 미쳐라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">폴리뉴스 Polinews</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80NkdDZUsycllsTnFJbjZlWDNxeXZlYWlOLUpIbW52eW1nZmhGU3puWDFIT0NJWkl0MU9pbnlPUVZ5TDVFWTNlU3VyRUQ4THRPTm5XWTQ0ekxIWHNOZjNkamNNN1VZa2hRLWhSQWxR?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 07:14:24 GMT",
-        "source": "폴리뉴스 Polinews",
-        "ageHours": 22.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "40cc0c441fbb7da914eae3905cd1ff0ccae807fca5c6a10ce8df7f08be024e93",
@@ -2645,13 +2597,109 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "b2ddc0a27feffb2ca383392976034cb466de1b375644764e2f58c93c9e5ebfca",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 대통령 ‘대장동’ 글 올리자…국힘 \"할 말 많으면 재판부터\" - JTBC",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbkV0OGl6aTRFVUVJTVZZa05BTDVlcG5GY0JRektxUnA5OHRGSWtEUmVYOFN0clRhNFhmdVZxSk1WclpJanhMLUJ0MWNOd0lZNFdERQ?oc=5\" target=\"_blank\">이재명 대통령 ‘대장동’ 글 올리자…국힘 \"할 말 많으면 재판부터\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbkV0OGl6aTRFVUVJTVZZa05BTDVlcG5GY0JRektxUnA5OHRGSWtEUmVYOFN0clRhNFhmdVZxSk1WclpJanhMLUJ0MWNOd0lZNFdERQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:43:00 GMT",
+        "source": "JTBC",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "a389e226a34eeda13f28d532c2c6f0ca3edc2d52f15759e887ddd31324d7bdcc",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 의원, “기업 유치 조례 개정해놓고 예산은 미반영” - 뉴스N제주",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBMcXREb1JmU3dvMlY0RFJYNDdad2x4WDA3REFuWmRtazJKYWRuRG9Ub3RUQjR5T0dQdE8zY005VG1KZXV3YUt6NDZJV3VVcXhRY2JFNzVvR1N3Y3NIVVJpZ0dLeFVhN0tIeWYweQ?oc=5\" target=\"_blank\">한동훈 의원, “기업 유치 조례 개정해놓고 예산은 미반영”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스N제주</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMcXREb1JmU3dvMlY0RFJYNDdad2x4WDA3REFuWmRtazJKYWRuRG9Ub3RUQjR5T0dQdE8zY005VG1KZXV3YUt6NDZJV3VVcXhRY2JFNzVvR1N3Y3NIVVJpZ0dLeFVhN0tIeWYweQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 02:40:05 GMT",
+        "source": "뉴스N제주",
+        "ageHours": 3.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "aa8c03da48d7fa3625eb0abaa36f8c09df245bd73f256525d1f52a81fcc41c0e",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "민심과 너무나도 다른 '보수 배신자' 한동훈 복당 여론! (TD 기획 기사) : 양영태박사 TV - 인터넷타임즈",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9DZFVtVmNRN3ptQmFHUGdIMFlUWDA1QlFTRE5jcEZBcmdLeWNFOFMwby1TeUlIOWp0ZDN0b1ZmanNGTzV5SFNiT3lwbk5LU3lIdFBiMjk1aHNxZTVjR2ZMX2dkakV6cEVIemhOYg?oc=5\" target=\"_blank\">민심과 너무나도 다른 '보수 배신자' 한동훈 복당 여론! (TD 기획 기사) : 양영태박사 TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인터넷타임즈</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DZFVtVmNRN3ptQmFHUGdIMFlUWDA1QlFTRE5jcEZBcmdLeWNFOFMwby1TeUlIOWp0ZDN0b1ZmanNGTzV5SFNiT3lwbk5LU3lIdFBiMjk1aHNxZTVjR2ZMX2dkakV6cEVIemhOYg?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:26:43 GMT",
+        "source": "인터넷타임즈",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "87c798a0db6ec7dd2e063b3f23df8f7c5baf71a1c8e9add7662b1be3d607b407",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iT3JON09LZFFVSVMwa0NWLU5pSG04T1VRTUlKZnJsUGdFdFVLMGJ4NUgwR28yN0ZSTzA1SFV1eXpCcC0xSG5jbWRjNFhUMlFHeU5QVU9JNFFNSWvSAWBBVV95cUxNZWZlczZKMGUtLWJTVFN3X2V4M2FSYzJ4SmhiNVlpQ0lrYi1TNzB1ZnYzaFZvRWdqSzUzS29xbGt6M0twcDZQX2pyLVl1MTZmNlN5R3pSMFN3dmFqMEdUQ00?oc=5\" target=\"_blank\">김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iT3JON09LZFFVSVMwa0NWLU5pSG04T1VRTUlKZnJsUGdFdFVLMGJ4NUgwR28yN0ZSTzA1SFV1eXpCcC0xSG5jbWRjNFhUMlFHeU5QVU9JNFFNSWvSAWBBVV95cUxNZWZlczZKMGUtLWJTVFN3X2V4M2FSYzJ4SmhiNVlpQ0lrYi1TNzB1ZnYzaFZvRWdqSzUzS29xbGt6M0twcDZQX2pyLVl1MTZmNlN5R3pSMFN3dmFqMEdUQ00?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:48:51 GMT",
+        "source": "연합뉴스",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "257a4cf712994fa5c6ca683e1a15cafb7a6f1fb9ee510cc4dc80766effbaf9fa",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, 박선원 과도한 표현에 구두 경고 - 스페셜타임스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9PaUpCOXJuakNpaTlkNXpmWTl4VmdFa0drcXhQSnRuX2Z4cDhRRkhQdjdHTmM1WEJrMUt4UW95dnRaSTdzNHk3b1V5aHNhTDdiVml4Tk9BQ0VRTHhuNkRTbE82eVpxVlktclNoWTVmWk0zQQ?oc=5\" target=\"_blank\">김민석, 박선원 과도한 표현에 구두 경고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스페셜타임스</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PaUpCOXJuakNpaTlkNXpmWTl4VmdFa0drcXhQSnRuX2Z4cDhRRkhQdjdHTmM1WEJrMUt4UW95dnRaSTdzNHk3b1V5aHNhTDdiVml4Tk9BQ0VRTHhuNkRTbE82eVpxVlktclNoWTVmWk0zQQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:54:36 GMT",
+        "source": "스페셜타임스",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d778634410a27fa4a36bc259b0ce2fd3f023cadea69f2f71faa2382c0389711f",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 \"박정희·전두환도 국회에 軍 안 보내…침묵한 조희대, 이미 자격 상실\" - 뉴스1",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qMk5UNkoxdzg1NjRqdGhVV095YTE1dUN1WVQySG9YTEF1MzlOdkVpeGFWV3VsMHVGV2wyZ1NmT3dnNGQxeHI4N2dnQUdadkJ0b3JVV1lYZkVMUQ?oc=5\" target=\"_blank\">송영길 \"박정희·전두환도 국회에 軍 안 보내…침묵한 조희대, 이미 자격 상실\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qMk5UNkoxdzg1NjRqdGhVV095YTE1dUN1WVQySG9YTEF1MzlOdkVpeGFWV3VsMHVGV2wyZ1NmT3dnNGQxeHI4N2dnQUdadkJ0b3JVV1lYZkVMUQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:41:39 GMT",
+        "source": "뉴스1",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "de70fed87e374c63a183181f82ee3a52ecdb7a6231f2291f563b52ca097fea81",
-    "title": "Trump urges Nvidia board to rehire Jensen Huang - Yahoo Finance",
+    "postId": "33be12633060ef39770db6c400427f6726dfb803ea88074bb20b57481f2fa7c6",
+    "title": "野, 사흘째 '與 조희대 탄핵' 맹공…정점식 \"민주당 '탄핵냥이'\"·한동훈 \"미쳐도 곱게 미쳐라\" - 폴리뉴스 Polinews",
     "bot": "jongsuk_pol_bot",
-    "runId": "45120329429",
-    "sentAt": "2026-11-23T05:51:42.141Z"
+    "runId": "45121339933",
+    "sentAt": "2026-11-23T06:01:18.663Z"
   }
 }
