@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T05:01:21.918Z",
+  "lastCheckedAt": "2026-11-23T05:11:20.996Z",
   "seenPostIds": {
     "2acee1c9cabdbb96cea54b3abb23e9abb81152c7fe2612779770a7e36e56bd7b": {
       "seenAt": "2026-11-19T23:21:18.214Z",
@@ -2500,14 +2500,46 @@
       "seenAt": "2026-11-23T04:51:17.416Z",
       "title": "조국혁신당 광주특별시당 “조희대 대법원장 즉각 탄핵해야” - 무등일보",
       "targetName": "조국"
+    },
+    "98db4c41bd6317ed1e5c86a0d35c2b16e50f38560984cba2ee7635cb7c887c28": {
+      "seenAt": "2026-11-23T05:11:22.736Z",
+      "title": "한동훈은 서부지법 폭동을 옹호할 셈인가 - OhmyNews",
+      "targetName": "한동훈"
+    },
+    "ba8a887e50c6525561316e12573f68ef1d572b50e00677e1f55750fb805d404e": {
+      "seenAt": "2026-11-23T05:11:23.500Z",
+      "title": "김민석 \"조희대 탄핵 사유 차고 넘쳐\"…탄핵안 준비 착수 - 데일리메이커",
+      "targetName": "김민석"
+    },
+    "480f7cf95537641dc4c7bd1951953ebff4dcffc38cd46879ef979406560d38f1": {
+      "seenAt": "2026-11-23T05:11:24.283Z",
+      "title": "이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시 - 헤럴드경제 미주판",
+      "targetName": "이준석"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "35699fcacd2726f6f42b1d7d051f9ebdd91d675b6954d6f566a415c6d388d2bd",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당서 ‘조국’ 뺀다…당명 개정 제안 - 서울경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2a1pMYlI2Mm1KekFiWDFWdGlpVG51Z3VuemxWVVhpUVRFaFZLd3JmRktHUl9CcjFnbG9Pc1ZISUpSYVlpcXE5ZWFTbGpyZHR5eXfSAVNBVV95cUxNM18xNy1rS0R2dXpoNzJNTUdjTzNpamhpQlF6cHNZYkN5TFBGSm1lOXp1Q1lHbGFpRGl6bzNhb0ZzSG0xTlMwN0RYeTBBYnNoVm5GOA?oc=5\" target=\"_blank\">조국혁신당서 ‘조국’ 뺀다…당명 개정 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2a1pMYlI2Mm1KekFiWDFWdGlpVG51Z3VuemxWVVhpUVRFaFZLd3JmRktHUl9CcjFnbG9Pc1ZISUpSYVlpcXE5ZWFTbGpyZHR5eXfSAVNBVV95cUxNM18xNy1rS0R2dXpoNzJNTUdjTzNpamhpQlF6cHNZYkN5TFBGSm1lOXp1Q1lHbGFpRGl6bzNhb0ZzSG0xTlMwN0RYeTBBYnNoVm5GOA?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 08:12:28 GMT",
+        "source": "서울경제",
+        "ageHours": 21
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "92e789225674cd998a7433faa969e00807caeacfb14136656b762ae67d50d4ed",
-    "title": "조국혁신당 광주특별시당 “조희대 대법원장 즉각 탄핵해야” - 무등일보",
+    "postId": "480f7cf95537641dc4c7bd1951953ebff4dcffc38cd46879ef979406560d38f1",
+    "title": "이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시 - 헤럴드경제 미주판",
     "bot": "jongsuk_pol_bot",
-    "runId": "45114255589",
-    "sentAt": "2026-11-23T04:51:17.075Z"
+    "runId": "45116162614",
+    "sentAt": "2026-11-23T05:11:23.890Z"
   }
 }

@@ -950,3 +950,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈은 서부지법 폭동을 옹호할 셈인가 - OhmyNews
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈은 서부지법 폭동을 옹호할 셈인가
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE5QUHZOMlV4b093WGZUbW5Lb3dfMWRLSnh5ODB1WVFJNVRqSV9Qa2FLYTJuRzE5MFRSVVp4VFdlU3BrWDZvQ19VNWE2NGRsQzcxUnBvOUlfR3d2NFV3N2pGcDlxVC1odkxaeU9fcWoyRExfcjduX0dB?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "조희대 탄핵 사유 차고 넘쳐"…탄핵안 준비 착수 - 데일리메이커
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "조희대 탄핵 사유 차고 넘쳐"…탄핵안 준비 착수
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92RWljcVprY3p0b2NKUnpaVU1QTi10dE5LQzhFQTBtUWtJLWxndjI3ZnlXeG9HNGNXcG5Kd3ZnYU9IbFBfbm0zRXM2U1VLTzJ1SThpV0g2clIwRlVzeDFnSlRPR0VuY2M?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시 - 헤럴드경제 미주판
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “코스피 오를 때 조롱 많이 받았는데 5개월 만에…” 대안 제시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ndDI0ZGVfWWhXeUR5eVhpOU1tX1I3VU02LWtQV0NNVHlPdlNnZmJCaWlqY0V4c2JUSE5vRlNxR1Azc0VzZjYtNnN1ODhHakY5OHIwMWVSR3RBdGlFUGNIbQ?oc=5)
+
+---
+
