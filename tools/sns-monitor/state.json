@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T01:41:20.534Z",
+  "lastCheckedAt": "2026-11-23T01:51:13.168Z",
   "seenPostIds": {
-    "21a8495681b51657107fdaa4d6397210f9f5a2112be79f4a82b3329f08dbd897": {
-      "seenAt": "2026-11-19T13:51:18.286Z",
-      "title": "조국, 한덕수 파기환송에 “민주당이 조희대 탄핵 방치한 후과” - 시사저널",
-      "targetName": "조국"
-    },
-    "32f89ccb035bfb45e14bb8364e201ffadde6762ebc855af135afee182e871382": {
-      "seenAt": "2026-11-19T14:01:21.746Z",
-      "title": "김민석, 한덕수 파기환송에 \"용납 안돼\"…與강경파 \"曺 즉시탄핵\"(종합) - 연합뉴스",
-      "targetName": "김민석"
-    },
-    "0ca4fdfb448c7abe14312e08fd6d44a1057d547d8ce6f13366f4dbf2d0eee4e9": {
-      "seenAt": "2026-11-19T14:11:28.615Z",
-      "title": "Trump upset 'biggest drop in gasoline in 18 years' came after election - USA Today",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "ab54a6bcf20ab40ba3914d29fd448ffb976cc2c674eb0ceb15cbb95d338e4e28": {
       "seenAt": "2026-11-19T14:21:19.691Z",
       "title": "정성호 “최민희 징계 불가피…김민석·정청래 연락 안 되면 내가 중재” - 경기일보",
@@ -2515,14 +2500,29 @@
       "seenAt": "2026-11-23T01:41:23.808Z",
       "title": "[포토] 천막에서 최고위원회의 주재하는 신장식 대표 - 파이낸스투데이",
       "targetName": "신장식"
+    },
+    "5e136942baae61197f419099c7c3f2895346ae3f5c71f9cf2de1f5a86882d467": {
+      "seenAt": "2026-11-23T01:51:14.621Z",
+      "title": "\"인간 한계치 뛰어넘는 과로... 이재명 대통령 건강해야\" #shorts - 오마이TV - OhmyNews",
+      "targetName": "이재명"
+    },
+    "13ecc83a55ee44ebae4f7592e89085d1cbdfd68e2b64b06ba0495592c73baf3e": {
+      "seenAt": "2026-11-23T01:51:15.263Z",
+      "title": "[포토] 발언하는 김민석 대표 - 아시아경제",
+      "targetName": "김민석"
+    },
+    "6e8686e31a721411703e27641ab82df09e5dc9fa309e6cd7418f7155a06689d2": {
+      "seenAt": "2026-11-23T01:51:16.012Z",
+      "title": "인터뷰 전문: 박형수 “김민석, 최민희 징계 천명까지 했는데 접기는 쉽지 않을 것” [정치시그널] - 채널A",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "ace7a475e71b2fda7c7ca856759681a68d89eb992c35a072192ac2681fa4ac69",
-    "title": "[포토] 천막에서 최고위원회의 주재하는 신장식 대표 - 파이낸스투데이",
+    "postId": "6e8686e31a721411703e27641ab82df09e5dc9fa309e6cd7418f7155a06689d2",
+    "title": "인터뷰 전문: 박형수 “김민석, 최민희 징계 천명까지 했는데 접기는 쉽지 않을 것” [정치시그널] - 채널A",
     "bot": "jongsuk_pol_bot",
-    "runId": "45095926572",
-    "sentAt": "2026-11-23T01:41:23.401Z"
+    "runId": "45096864957",
+    "sentAt": "2026-11-23T01:51:15.699Z"
   }
 }

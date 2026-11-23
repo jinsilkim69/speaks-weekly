@@ -443,3 +443,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** "인간 한계치 뛰어넘는 과로... 이재명 대통령 건강해야" #shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "인간 한계치 뛰어넘는 과로... 이재명 대통령 건강해야" #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE0xNDNqaFBWSHpnd0lMeEtDUUpCRWk1Tk9rRkE2a0kzOHNQcFJSNE9LZVN2LUQyOEJfS3hNTnRmUTc3TTZhVnpDd2hUbWdTNmMyQnExbG5iUEdzVDZDaVFRUEo5T25qbUFYQnFNX3lLR0wzeWZmOTNkb3dIS1hxemc?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [포토] 발언하는 김민석 대표 - 아시아경제
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 발언하는 김민석 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4taURXa2ZMMk01NmlxQjB6YTNDa0NmeHhHc1ZscW5OOXpRTkNTRUJmTjJiWW5xSVNlS1QwT19mLTFsUVRRV2xuT29PNnRnLVp4NkpySTM1N0tQbzlPMzFrQw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 인터뷰 전문: 박형수 “김민석, 최민희 징계 천명까지 했는데 접기는 쉽지 않을 것” [정치시그널] - 채널A
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 인터뷰 전문: 박형수 “김민석, 최민희 징계 천명까지 했는데 접기는 쉽지 않을 것”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wWUNLYld1RmtfWWpMZ0x0ZEk1bl9qTUpEQ2dSaGFQNGFXemNWNkpTdWJyRU5BNlJBS2pGZ1hZVU5KNFp6dTRDRzBxbTJDcVY1bU1rMVRlYWdMTFFHRXfSAWNBVV95cUxPWFk2T25Yc1AyVHoyek9ZcUFaNG5Bd2JKaVl4WHVBRmE0cmZwOFNwZWg5TlBEWl9CX1VfaGFnT2t4cE1HLWNTcU1vdTVYR1NOTkZ5Z3B6b2NTLXh6VmlLYzVMWXM?oc=5)
+
+---
+
