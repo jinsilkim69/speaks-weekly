@@ -2965,5 +2965,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "7f27120ebd0ab3bee607e030288a1733738a5a49083872a67b3a9930a1c7778a",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE0wSVlQN3UxR1F5ZnpYTFNOWmRTZnZtQWQ4TEpNMXdQZ2lHSnNwU1BDZ1B1bmVIRkVHS0lDZVViQWpNbHRNVGpjVUFUUVB5NlRpOHVDRS1SNzFwRUZlZXlpV3FkWmljU1lSX3dBa0JBRVVfa3MxWE1v?oc=5\" target=\"_blank\">김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wSVlQN3UxR1F5ZnpYTFNOWmRTZnZtQWQ4TEpNMXdQZ2lHSnNwU1BDZ1B1bmVIRkVHS0lDZVViQWpNbHRNVGpjVUFUUVB5NlRpOHVDRS1SNzFwRUZlZXlpV3FkWmljU1lSX3dBa0JBRVVfa3MxWE1v?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 05:48:51 GMT",
+    "source": "연합뉴스",
+    "ageHours": 1.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합)",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "d6f6de2b7297420780b1d086bf54888193125b64b7122d33e34c220597e82f5a",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당, '제정당 조희대 탄핵추진단' 제안…\"즉각 직무정지해야\" - mnews.sbs.co.kr",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXR6WlhXSHh3eXBabURfMVozeXVZT0NCYncxRDFLWTE5Y2dFVUJrSDAyUnFrQmV2ZGRmbjhSLTdWYUpfQXVuVHpldEJ4dVc1NHVWMFVjRzBRU0R5WnRlb1lwNUlTS0g1WENmTDlmY1RwbE1QajE0eDVSdWxEZEJOdFhoREtFVEJRd1lsWVZibw?oc=5\" target=\"_blank\">조국혁신당, '제정당 조희대 탄핵추진단' 제안…\"즉각 직무정지해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mnews.sbs.co.kr</font>",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXR6WlhXSHh3eXBabURfMVozeXVZT0NCYncxRDFLWTE5Y2dFVUJrSDAyUnFrQmV2ZGRmbjhSLTdWYUpfQXVuVHpldEJ4dVc1NHVWMFVjRzBRU0R5WnRlb1lwNUlTS0g1WENmTDlmY1RwbE1QajE0eDVSdWxEZEJOdFhoREtFVEJRd1lsWVZibw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 01:38:56 GMT",
+    "source": "mnews.sbs.co.kr",
+    "ageHours": 5.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당, '제정당 조희대 탄핵추진단' 제안…\"즉각 직무정지해야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "cae117e99a3b5aad3ef06fe579aadfeaba72f4aef23b49549dba5c41184558f3",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "“윤석열 구형일 맞춰 한동훈 제명···강성지지층 노린 십자가 처형 전략” - 주간경향",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mZnZ2VDhVbXBFT1d0TjRxZmpDZGo4TnRBM29ITFpxTGFLdWc0TExjMS1vQnZpdHUxemx6ZkRZRWs5TGVyZW1JaTNYeDhuWE9ObzhrekNxRUxrSW1rUnc?oc=5\" target=\"_blank\">“윤석열 구형일 맞춰 한동훈 제명···강성지지층 노린 십자가 처형 전략”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mZnZ2VDhVbXBFT1d0TjRxZmpDZGo4TnRBM29ITFpxTGFLdWc0TExjMS1vQnZpdHUxemx6ZkRZRWs5TGVyZW1JaTNYeDhuWE9ObzhrekNxRUxrSW1rUnc?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 06:36:00 GMT",
+    "source": "주간경향",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “윤석열 구형일 맞춰 한동훈 제명···강성지지층 노린 십자가 처형 전략”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

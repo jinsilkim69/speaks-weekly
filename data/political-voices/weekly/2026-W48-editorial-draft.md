@@ -1535,3 +1535,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE0wSVlQN3UxR1F5ZnpYTFNOWmRTZnZtQWQ4TEpNMXdQZ2lHSnNwU1BDZ1B1bmVIRkVHS0lDZVViQWpNbHRNVGpjVUFUUVB5NlRpOHVDRS1SNzFwRUZlZXlpV3FkWmljU1lSX3dBa0JBRVVfa3MxWE1v?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, '제정당 조희대 탄핵추진단' 제안…"즉각 직무정지해야" - mnews.sbs.co.kr
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, '제정당 조희대 탄핵추진단' 제안…"즉각 직무정지해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXR6WlhXSHh3eXBabURfMVozeXVZT0NCYncxRDFLWTE5Y2dFVUJrSDAyUnFrQmV2ZGRmbjhSLTdWYUpfQXVuVHpldEJ4dVc1NHVWMFVjRzBRU0R5WnRlb1lwNUlTS0g1WENmTDlmY1RwbE1QajE0eDVSdWxEZEJOdFhoREtFVEJRd1lsWVZibw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** “윤석열 구형일 맞춰 한동훈 제명···강성지지층 노린 십자가 처형 전략” - 주간경향
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “윤석열 구형일 맞춰 한동훈 제명···강성지지층 노린 십자가 처형 전략”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mZnZ2VDhVbXBFT1d0TjRxZmpDZGo4TnRBM29ITFpxTGFLdWc0TExjMS1vQnZpdHUxemx6ZkRZRWs5TGVyZW1JaTNYeDhuWE9ObzhrekNxRUxrSW1rUnc?oc=5)
+
+---
+
