@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T10:01:20.270Z",
+  "lastCheckedAt": "2026-11-23T10:11:19.010Z",
   "seenPostIds": {
-    "54bd35b2ec6b051ff357c615631caa066168495f1315d4785efa837dde98f730": {
-      "seenAt": "2026-11-20T06:01:20.791Z",
-      "title": "한동훈, 與 조희대 탄핵 추진 두고 \"국헌문란·폭동·내란\" - 신아일보",
-      "targetName": "한동훈"
-    },
-    "bae2a7bd135f25dece27763c971ccc81fad070390cc8df671a847820a9591dfb": {
-      "seenAt": "2026-11-20T06:01:21.590Z",
-      "title": "민주당 윤리심판원, 27일에 최민희 징계 심의…김민석 징계 청원도 검토 - JTBC",
-      "targetName": "김민석"
-    },
     "5316ae073df15cd6356d9213287536867dc8010637aca528e41e8570e7eeafd2": {
       "seenAt": "2026-11-20T06:01:22.458Z",
       "title": "정청래 \"한덕수 일부 무죄는 꼼수 판결…조희대 탄핵 마땅\" | - 대전일보",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-23T10:01:22.044Z",
       "title": "당명 개정 관련 발언하는 신장식 조국혁신당 대표 - 뉴시스",
       "targetName": "신장식"
+    },
+    "0a859b975a469940f2d4d798cba5e717399ccb0b8f14449582d07c36ffb9b38b": {
+      "seenAt": "2026-11-23T10:11:20.210Z",
+      "title": "\"한동훈 원복해야\" vs \"관심 없다\"…윤리위 자료 폭로에 고조되는 장·한 갈등 - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
+    },
+    "3f1f4bac56e4286ceaa1a45d57e65ec3a86e69714de13b8e3ebba94e8d7065cb": {
+      "seenAt": "2026-11-23T10:11:20.814Z",
+      "title": "Emperor images, WWII memes: Trump pushes back against summit critics - The Japan Times",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "d56432d99611d67c80d3a7f71d932c3101bc0219a4aa8b56b9ce8cb639533b73",
-    "title": "당명 개정 관련 발언하는 신장식 조국혁신당 대표 - 뉴시스",
+    "postId": "3f1f4bac56e4286ceaa1a45d57e65ec3a86e69714de13b8e3ebba94e8d7065cb",
+    "title": "Emperor images, WWII memes: Trump pushes back against summit critics - The Japan Times",
     "bot": "jongsuk_pol_bot",
-    "runId": "45152208427",
-    "sentAt": "2026-11-23T10:01:21.745Z"
+    "runId": "45153728595",
+    "sentAt": "2026-11-23T10:11:20.508Z"
   }
 }
