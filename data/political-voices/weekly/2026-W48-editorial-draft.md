@@ -1574,3 +1574,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** “한동훈 국힘 제명 발표, 尹 사형 구형 맞춰 기획” 폭로 - 시사저널
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “한동훈 국힘 제명 발표, 尹 사형 구형 맞춰 기획” 폭로
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE5KOUlVUHhudnpjQmR2XzZEOWhkejhyNjBHMm0yZzVrRWNFREttSGpmSkNpeDFqeThWUzJWWWRjSGZaMlJhNksxQjdqM0ExdTVCR1Q0M1ZBVnBadjdWTklUTUlEUG5XNzdRbUY2eHpzY9IBc0FVX3lxTE51dXVyUUVYNHFoRkRhM1JIMTdZMjIzd2dDZXUxQl9YTnU0RnZEMXpwVnRZdkZYM3pIQUJ5YUEyUm9vd1gtaVhDcXVZWTJiT2M5NlpwYk8wbFZ6UlYtLS1uODdZZDNJUWJHemRHVFpFTlBXSUU?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 의원, “기업은 지원 대상 아닌 ‘고객’… 제주형 원스톱 유치 전략 시급” - 제주환경일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 의원, “기업은 지원 대상 아닌 ‘고객’… 제주형 원스톱 유치 전략 시급”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yOV9CdGhKOU5WcFJ6OUlIR0FQQU13SUVKWnV0VGw3NFJ5T1F3WnVTYWtJRVh1UTJ5VEk3cDR5Nnk5dl84VVV1S3RNc25WRUNlNFBia3ZaYXAxUWIwN01MRmdqYTNkZDhT?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국힘 윤리위원 “한동훈 제명, 尹 사형 구형일 맞춰 기획” - 아시아투데이
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘 윤리위원 “한동훈 제명, 尹 사형 구형일 맞춰 기획”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE9vbzdQN2pHRVNUeEo2UXBadjJVclRCVU1rYzFicTNhSUcwWWtJN1FZand2OUhUTDlldmlUN0ZpTUo4TjVBVEFxbmlXNEJaRWZGZC1iS2wtWHJZQ0lBbU1LUVN0Ty1iYURhd3FSS0RR?oc=5)
+
+---
+

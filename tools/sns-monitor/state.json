@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T07:41:17.527Z",
+  "lastCheckedAt": "2026-11-23T07:51:16.168Z",
   "seenPostIds": {
-    "6f37558255da49c289b8f36aca22d03c380c19757c75f8877b53dd5485591306": {
-      "seenAt": "2026-11-20T03:31:16.917Z",
-      "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
-      "targetName": "신장식"
-    },
-    "f79e3cadfcf33a766d58121948f89c86b0a89a27e0b88949a56bde93593ab67b": {
-      "seenAt": "2026-11-20T03:41:16.422Z",
-      "title": "신장식 \"조희대 탄핵 더 미룰 이유 없다⋯내일 본회의서 표결 가능\" - 아이뉴스24",
-      "targetName": "신장식"
-    },
-    "ae7a7b0a79eaffc9e624de409ac879de2dfaa7df32af980e1c958adbfa84747c": {
-      "seenAt": "2026-11-20T03:41:17.035Z",
-      "title": "장동혁 \"조희대 탄핵은 자살폭탄 버튼\" 홍준표 \"전두환식 폭거\" 한동훈 \"국헌문란 내란\" - 매일신문",
-      "targetName": "한동훈"
-    },
     "ec39d8e0a839d8068f9a214f129414113e28bf485055335f542562c4598f99da": {
       "seenAt": "2026-11-20T03:41:17.685Z",
       "title": "[포토] 구호 외치는 조국혁신당 신장식 대표 - 천지일보",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T07:41:19.941Z",
       "title": "“윤석열 구형일 맞춰 한동훈 제명···강성지지층 노린 십자가 처형 전략” - 주간경향",
       "targetName": "한동훈"
+    },
+    "cc74de74aa10921ab48e67cbb7fcc923dee81c2e4ac6a19b8246579346db4e4a": {
+      "seenAt": "2026-11-23T07:51:17.533Z",
+      "title": "“한동훈 국힘 제명 발표, 尹 사형 구형 맞춰 기획” 폭로 - 시사저널",
+      "targetName": "한동훈"
+    },
+    "d42843d6910e3c08c921780ddc80ec40145c2f62da11ddb9a963f3c68b9e7dd9": {
+      "seenAt": "2026-11-23T07:51:18.239Z",
+      "title": "한동훈 의원, “기업은 지원 대상 아닌 ‘고객’… 제주형 원스톱 유치 전략 시급” - 제주환경일보",
+      "targetName": "한동훈"
+    },
+    "7d00d4915422348ec9bc1d8d5db6a4100732362a0f9cf02bc93adf38774b1510": {
+      "seenAt": "2026-11-23T07:51:18.948Z",
+      "title": "국힘 윤리위원 “한동훈 제명, 尹 사형 구형일 맞춰 기획” - 아시아투데이",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "cc74de74aa10921ab48e67cbb7fcc923dee81c2e4ac6a19b8246579346db4e4a",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "“한동훈 국힘 제명 발표, 尹 사형 구형 맞춰 기획” 폭로 - 시사저널",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5KOUlVUHhudnpjQmR2XzZEOWhkejhyNjBHMm0yZzVrRWNFREttSGpmSkNpeDFqeThWUzJWWWRjSGZaMlJhNksxQjdqM0ExdTVCR1Q0M1ZBVnBadjdWTklUTUlEUG5XNzdRbUY2eHpzY9IBc0FVX3lxTE51dXVyUUVYNHFoRkRhM1JIMTdZMjIzd2dDZXUxQl9YTnU0RnZEMXpwVnRZdkZYM3pIQUJ5YUEyUm9vd1gtaVhDcXVZWTJiT2M5NlpwYk8wbFZ6UlYtLS1uODdZZDNJUWJHemRHVFpFTlBXSUU?oc=5\" target=\"_blank\">“한동훈 국힘 제명 발표, 尹 사형 구형 맞춰 기획” 폭로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KOUlVUHhudnpjQmR2XzZEOWhkejhyNjBHMm0yZzVrRWNFREttSGpmSkNpeDFqeThWUzJWWWRjSGZaMlJhNksxQjdqM0ExdTVCR1Q0M1ZBVnBadjdWTklUTUlEUG5XNzdRbUY2eHpzY9IBc0FVX3lxTE51dXVyUUVYNHFoRkRhM1JIMTdZMjIzd2dDZXUxQl9YTnU0RnZEMXpwVnRZdkZYM3pIQUJ5YUEyUm9vd1gtaVhDcXVZWTJiT2M5NlpwYk8wbFZ6UlYtLS1uODdZZDNJUWJHemRHVFpFTlBXSUU?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 07:14:47 GMT",
-        "source": "시사저널",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d42843d6910e3c08c921780ddc80ec40145c2f62da11ddb9a963f3c68b9e7dd9",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 의원, “기업은 지원 대상 아닌 ‘고객’… 제주형 원스톱 유치 전략 시급” - 제주환경일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yOV9CdGhKOU5WcFJ6OUlIR0FQQU13SUVKWnV0VGw3NFJ5T1F3WnVTYWtJRVh1UTJ5VEk3cDR5Nnk5dl84VVV1S3RNc25WRUNlNFBia3ZaYXAxUWIwN01MRmdqYTNkZDhT?oc=5\" target=\"_blank\">한동훈 의원, “기업은 지원 대상 아닌 ‘고객’… 제주형 원스톱 유치 전략 시급”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">제주환경일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yOV9CdGhKOU5WcFJ6OUlIR0FQQU13SUVKWnV0VGw3NFJ5T1F3WnVTYWtJRVh1UTJ5VEk3cDR5Nnk5dl84VVV1S3RNc25WRUNlNFBia3ZaYXAxUWIwN01MRmdqYTNkZDhT?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 06:23:26 GMT",
-        "source": "제주환경일보",
-        "ageHours": 1.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "7d00d4915422348ec9bc1d8d5db6a4100732362a0f9cf02bc93adf38774b1510",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "국힘 윤리위원 “한동훈 제명, 尹 사형 구형일 맞춰 기획” - 아시아투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9vbzdQN2pHRVNUeEo2UXBadjJVclRCVU1rYzFicTNhSUcwWWtJN1FZand2OUhUTDlldmlUN0ZpTUo4TjVBVEFxbmlXNEJaRWZGZC1iS2wtWHJZQ0lBbU1LUVN0Ty1iYURhd3FSS0RR?oc=5\" target=\"_blank\">국힘 윤리위원 “한동훈 제명, 尹 사형 구형일 맞춰 기획”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vbzdQN2pHRVNUeEo2UXBadjJVclRCVU1rYzFicTNhSUcwWWtJN1FZand2OUhUTDlldmlUN0ZpTUo4TjVBVEFxbmlXNEJaRWZGZC1iS2wtWHJZQ0lBbU1LUVN0Ty1iYURhd3FSS0RR?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 06:51:27 GMT",
-        "source": "아시아투데이",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "e5ec1b591adc72d38f0de1c2c1dd15b212614b957f18c9c491ba954cafa4e24b",
@@ -2629,13 +2581,77 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "ad7bb894fa08ae019a09b02193d71ef6d5aa347b90db94f42f05acfd38e193f0",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 경기일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UaHd3SGowRkt4LVZNZjdyVS1XTGlhUzRGaUVGcmcxMFE5MlZNclZTaVdocldzSnNTMkllYTREcVFZTlVrVElybERmRW1qTVFjWk4ya0VRTi1BQ0U?oc=5\" target=\"_blank\">오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UaHd3SGowRkt4LVZNZjdyVS1XTGlhUzRGaUVGcmcxMFE5MlZNclZTaVdocldzSnNTMkllYTREcVFZTlVrVElybERmRW1qTVFjWk4ya0VRTi1BQ0U?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 07:35:52 GMT",
+        "source": "경기일보",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "775fb110629f37a6c371d3b22361b4380efdc7e775ce27042b310c5699dd4928",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "장동혁·한동훈 ‘내란몰이’ 공방… 보수 통합 먼 길 - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iWGM5Tm1pTlJ5RkF0Z2habFBOTl80NE5MU2dHTmJrcEp5UTlUaEw1Uk9oT254ZFNNUzU5SjVvNmljbWsxZUtaSnBzdGE5cW0xS3A4b2xjSjLSAVRBVV95cUxQSXhnNVFaY2Q2RFpyZjJLZDJ4T0NCS3V5TmNMZmJlNFk5M0FDMktCVUQ1U2t2d3Q2eFNVLW91cnp4MElOR2piOU9IMU9jZkJDRWhQM1U?oc=5\" target=\"_blank\">장동혁·한동훈 ‘내란몰이’ 공방… 보수 통합 먼 길</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iWGM5Tm1pTlJ5RkF0Z2habFBOTl80NE5MU2dHTmJrcEp5UTlUaEw1Uk9oT254ZFNNUzU5SjVvNmljbWsxZUtaSnBzdGE5cW0xS3A4b2xjSjLSAVRBVV95cUxQSXhnNVFaY2Q2RFpyZjJLZDJ4T0NCS3V5TmNMZmJlNFk5M0FDMktCVUQ1U2t2d3Q2eFNVLW91cnp4MElOR2piOU9IMU9jZkJDRWhQM1U?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 09:49:05 GMT",
+        "source": "세계일보",
+        "ageHours": 22
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "29d5c0fa5a8424f75459599ef2e5dafbbbe55eacd65a72eb0ba2e9d699b2301d",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUdIBckFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUQ?oc=5\" target=\"_blank\">박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUdIBckFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 06:20:11 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "19cd97763cf3f7119f25a5064373bd361a87a53715bf68ceaba6af5683ad88f6",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Says Iran Grown 'More Aggressive' Since Democrats' Midterm Win - Kurdistan24",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGJ6MGgtZVZtNjk1bEFZOEl3bU1QYzlEVjRZSUpNSmg2dXFQYWxKN09DdHE3anZTWmZVaENqemlMTFhRNnVvQ0RvSEcxTDZPejdZYkROSUtZQl9HRElfVE4tR00tdkZXRXlHTk5venV4M3o2QlFwQnhnWVdid1Bnd1NPemlEVHBBdFhFSmJydkt2RzBrdG5NbXpHYUwtVGxZWTEtNFQwWnNNOW55MVE?oc=5\" target=\"_blank\">Trump Says Iran Grown 'More Aggressive' Since Democrats' Midterm Win</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kurdistan24</font>",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGJ6MGgtZVZtNjk1bEFZOEl3bU1QYzlEVjRZSUpNSmg2dXFQYWxKN09DdHE3anZTWmZVaENqemlMTFhRNnVvQ0RvSEcxTDZPejdZYkROSUtZQl9HRElfVE4tR00tdkZXRXlHTk5venV4M3o2QlFwQnhnWVdid1Bnd1NPemlEVHBBdFhFSmJydkt2RzBrdG5NbXpHYUwtVGxZWTEtNFQwWnNNOW55MVE?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:44:27 GMT",
+        "source": "Kurdistan24",
+        "ageHours": 2.1
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "cae117e99a3b5aad3ef06fe579aadfeaba72f4aef23b49549dba5c41184558f3",
-    "title": "“윤석열 구형일 맞춰 한동훈 제명···강성지지층 노린 십자가 처형 전략” - 주간경향",
+    "postId": "7d00d4915422348ec9bc1d8d5db6a4100732362a0f9cf02bc93adf38774b1510",
+    "title": "국힘 윤리위원 “한동훈 제명, 尹 사형 구형일 맞춰 기획” - 아시아투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45132885347",
-    "sentAt": "2026-11-23T07:41:19.638Z"
+    "runId": "45134086021",
+    "sentAt": "2026-11-23T07:51:18.584Z"
   }
 }
