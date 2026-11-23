@@ -1977,3 +1977,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lZmVzNkowZS0tYlNUU3dfZXgzYVJjMnhKaGI1WWlDSWtiLVM3MHVmdjNoVm9FZ2pLNTNLb3Fsa3ozS3BwNlBfanItWXUxNmY2U3lHelIwU3d2YWowR1RDTdIBYEFVX3lxTE1lZmVzNkowZS0tYlNUU3dfZXgzYVJjMnhKaGI1WWlDSWtiLVM3MHVmdjNoVm9FZ2pLNTNLb3Fsa3ozS3BwNlBfanItWXUxNmY2U3lHelIwU3d2YWowR1RDTQ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 당명 개정 관련 발언하는 신장식 조국혁신당 대표 - 뉴시스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 당명 개정 관련 발언하는 신장식 조국혁신당 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE90ZnF3R3A5RkNBUEZFMVdpYkFPcmgyS1RtNXh1bS1hUnBtTDhxRTRXQnZPVmx0SFVYZmhXdzBqXzJwZWpRNkhlNHFkU0lacXpZUFpaQlB5X3J5NlU0UDN1Sg?oc=5)
+
+---
+

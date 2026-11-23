@@ -3818,5 +3818,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e9822520046ea407c2bf9e68e0be3dbf319b1fa0b0bbcc5464bf4fc01b89c19f",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lZmVzNkowZS0tYlNUU3dfZXgzYVJjMnhKaGI1WWlDSWtiLVM3MHVmdjNoVm9FZ2pLNTNLb3Fsa3ozS3BwNlBfanItWXUxNmY2U3lHelIwU3d2YWowR1RDTdIBYEFVX3lxTE1lZmVzNkowZS0tYlNUU3dfZXgzYVJjMnhKaGI1WWlDSWtiLVM3MHVmdjNoVm9FZ2pLNTNLb3Fsa3ozS3BwNlBfanItWXUxNmY2U3lHelIwU3d2YWowR1RDTQ?oc=5\" target=\"_blank\">김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lZmVzNkowZS0tYlNUU3dfZXgzYVJjMnhKaGI1WWlDSWtiLVM3MHVmdjNoVm9FZ2pLNTNLb3Fsa3ozS3BwNlBfanItWXUxNmY2U3lHelIwU3d2YWowR1RDTdIBYEFVX3lxTE1lZmVzNkowZS0tYlNUU3dfZXgzYVJjMnhKaGI1WWlDSWtiLVM3MHVmdjNoVm9FZ2pLNTNLb3Fsa3ozS3BwNlBfanItWXUxNmY2U3lHelIwU3d2YWowR1RDTQ?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 05:48:51 GMT",
+    "source": "연합뉴스",
+    "ageHours": 4.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합)",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "d56432d99611d67c80d3a7f71d932c3101bc0219a4aa8b56b9ce8cb639533b73",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "당명 개정 관련 발언하는 신장식 조국혁신당 대표 - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE90ZnF3R3A5RkNBUEZFMVdpYkFPcmgyS1RtNXh1bS1hUnBtTDhxRTRXQnZPVmx0SFVYZmhXdzBqXzJwZWpRNkhlNHFkU0lacXpZUFpaQlB5X3J5NlU0UDN1Sg?oc=5\" target=\"_blank\">당명 개정 관련 발언하는 신장식 조국혁신당 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90ZnF3R3A5RkNBUEZFMVdpYkFPcmgyS1RtNXh1bS1hUnBtTDhxRTRXQnZPVmx0SFVYZmhXdzBqXzJwZWpRNkhlNHFkU0lacXpZUFpaQlB5X3J5NlU0UDN1Sg?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 00:55:00 GMT",
+    "source": "뉴시스",
+    "ageHours": 9.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 당명 개정 관련 발언하는 신장식 조국혁신당 대표",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

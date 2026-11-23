@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T09:51:16.127Z",
+  "lastCheckedAt": "2026-11-23T10:01:20.270Z",
   "seenPostIds": {
-    "1e3984abd8c03083e927cd1c5271c9fce98f2c2b29d5d162870a921fc0fac715": {
-      "seenAt": "2026-11-20T05:31:19.252Z",
-      "title": "[영상] 신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" - OhmyNews",
-      "targetName": "신장식"
-    },
-    "f166afda35e3e9b7ffecfbf2df6b9743ec23e88adb95b6b3bb5b3d594e51c291": {
-      "seenAt": "2026-11-20T05:41:19.931Z",
-      "title": "신장식 \"曺 탄핵안 오늘 국회 제출·내일 표결을…역풍 막아야\"(종합) - 뉴스1",
-      "targetName": "신장식"
-    },
     "54bd35b2ec6b051ff357c615631caa066168495f1315d4785efa837dde98f730": {
       "seenAt": "2026-11-20T06:01:20.791Z",
       "title": "한동훈, 與 조희대 탄핵 추진 두고 \"국헌문란·폭동·내란\" - 신아일보",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-23T09:51:18.043Z",
       "title": "조국혁신당 최고위 발언하는 신장식 대표 - 뉴시스",
       "targetName": "신장식"
+    },
+    "e9822520046ea407c2bf9e68e0be3dbf319b1fa0b0bbcc5464bf4fc01b89c19f": {
+      "seenAt": "2026-11-23T10:01:21.421Z",
+      "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스",
+      "targetName": "김민석"
+    },
+    "d56432d99611d67c80d3a7f71d932c3101bc0219a4aa8b56b9ce8cb639533b73": {
+      "seenAt": "2026-11-23T10:01:22.044Z",
+      "title": "당명 개정 관련 발언하는 신장식 조국혁신당 대표 - 뉴시스",
+      "targetName": "신장식"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "2fea9cbabc15e63128da5aa5069fb703b3b093ea7f1f448edbca05bc0d168faa",
-    "title": "조국혁신당 최고위 발언하는 신장식 대표 - 뉴시스",
+    "postId": "d56432d99611d67c80d3a7f71d932c3101bc0219a4aa8b56b9ce8cb639533b73",
+    "title": "당명 개정 관련 발언하는 신장식 조국혁신당 대표 - 뉴시스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45150721375",
-    "sentAt": "2026-11-23T09:51:17.707Z"
+    "runId": "45152208427",
+    "sentAt": "2026-11-23T10:01:21.745Z"
   }
 }
