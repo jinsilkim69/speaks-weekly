@@ -1301,3 +1301,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 박선원 과도한 표현에 구두 경고 - 스페셜타임스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 박선원 과도한 표현에 구두 경고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE9PaUpCOXJuakNpaTlkNXpmWTl4VmdFa0drcXhQSnRuX2Z4cDhRRkhQdjdHTmM1WEJrMUt4UW95dnRaSTdzNHk3b1V5aHNhTDdiVml4Tk9BQ0VRTHhuNkRTbE82eVpxVlktclNoWTVmWk0zQQ?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "박정희·전두환도 국회에 軍 안 보내…침묵한 조희대, 이미 자격 상실" - 뉴스1
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "박정희·전두환도 국회에 軍 안 보내…침묵한 조희대, 이미 자격 상실"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qMk5UNkoxdzg1NjRqdGhVV095YTE1dUN1WVQySG9YTEF1MzlOdkVpeGFWV3VsMHVGV2wyZ1NmT3dnNGQxeHI4N2dnQUdadkJ0b3JVV1lYZkVMUQ?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 "대통령 이재명의 시간, 피고인 이재명에 쓰지 말라"…조희대 탄핵 중단 촉구 - 한국NGO신문
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 "대통령 이재명의 시간, 피고인 이재명에 쓰지 말라"…조희대 탄핵 중단 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oQm0yeHVuOEJDMjA4T0YxdGNwQ2h1MzM2Y0t4S3NhV1M3STNvTVJ1ME95NW9uek9PQlVNU3BaaXR1NWxBcmpEc0xZRDh2RlUybFZPYnpsOHg1cFdTN1hISHlqMTBGZWlQ?oc=5)
+
+---
+

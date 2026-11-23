@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T06:31:14.372Z",
+  "lastCheckedAt": "2026-11-23T06:41:14.628Z",
   "seenPostIds": {
-    "b0d57852900c50bc19b18ee347432a57d52caea9d0c26928ab566c9791df1c59": {
-      "seenAt": "2026-11-20T02:01:22.467Z",
-      "title": "[막전막후] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나 - 펜앤마이크",
-      "targetName": "정청래"
-    },
-    "2967fa2b20cde42292d9a0d753b24b9f3f7913b08a23c30f105238a2e0e6c3b6": {
-      "seenAt": "2026-11-20T02:01:23.114Z",
-      "title": "「M포토」 발언하는 신장식 조국혁신당 대표 - M이코노미뉴스",
-      "targetName": "신장식"
-    },
-    "fe1f3bc68e1bb5db25198eba1d9ae5a604d61bf55fb023a9a759f95717418f0a": {
-      "seenAt": "2026-11-20T02:01:23.748Z",
-      "title": "신장식 \"민주당, 이번 주말 조희대 탄핵 추진하자\" - 뉴스토마토",
-      "targetName": "신장식"
-    },
     "8ae799dd31a3797ec61c234b1a88d742ba221705d82ce40b1b02af0f50318cf4": {
       "seenAt": "2026-11-20T02:11:17.624Z",
       "title": "Trump posthumously pardons former Phillie Pete Rose - Inquirer.com",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T06:31:16.645Z",
       "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스",
       "targetName": "김민석"
+    },
+    "257a4cf712994fa5c6ca683e1a15cafb7a6f1fb9ee510cc4dc80766effbaf9fa": {
+      "seenAt": "2026-11-23T06:41:15.854Z",
+      "title": "김민석, 박선원 과도한 표현에 구두 경고 - 스페셜타임스",
+      "targetName": "김민석"
+    },
+    "d778634410a27fa4a36bc259b0ce2fd3f023cadea69f2f71faa2382c0389711f": {
+      "seenAt": "2026-11-23T06:41:16.555Z",
+      "title": "송영길 \"박정희·전두환도 국회에 軍 안 보내…침묵한 조희대, 이미 자격 상실\" - 뉴스1",
+      "targetName": "송영길"
+    },
+    "227e0f4f7272c6b0699adb0477f52def2e10e710a1a24c99909b147b4480a383": {
+      "seenAt": "2026-11-23T06:41:17.251Z",
+      "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\"…조희대 탄핵 중단 촉구 - 한국NGO신문",
+      "targetName": "이재명"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "257a4cf712994fa5c6ca683e1a15cafb7a6f1fb9ee510cc4dc80766effbaf9fa",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, 박선원 과도한 표현에 구두 경고 - 스페셜타임스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9PaUpCOXJuakNpaTlkNXpmWTl4VmdFa0drcXhQSnRuX2Z4cDhRRkhQdjdHTmM1WEJrMUt4UW95dnRaSTdzNHk3b1V5aHNhTDdiVml4Tk9BQ0VRTHhuNkRTbE82eVpxVlktclNoWTVmWk0zQQ?oc=5\" target=\"_blank\">김민석, 박선원 과도한 표현에 구두 경고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스페셜타임스</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PaUpCOXJuakNpaTlkNXpmWTl4VmdFa0drcXhQSnRuX2Z4cDhRRkhQdjdHTmM1WEJrMUt4UW95dnRaSTdzNHk3b1V5aHNhTDdiVml4Tk9BQ0VRTHhuNkRTbE82eVpxVlktclNoWTVmWk0zQQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:54:36 GMT",
-        "source": "스페셜타임스",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d778634410a27fa4a36bc259b0ce2fd3f023cadea69f2f71faa2382c0389711f",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 \"박정희·전두환도 국회에 軍 안 보내…침묵한 조희대, 이미 자격 상실\" - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qMk5UNkoxdzg1NjRqdGhVV095YTE1dUN1WVQySG9YTEF1MzlOdkVpeGFWV3VsMHVGV2wyZ1NmT3dnNGQxeHI4N2dnQUdadkJ0b3JVV1lYZkVMUQ?oc=5\" target=\"_blank\">송영길 \"박정희·전두환도 국회에 軍 안 보내…침묵한 조희대, 이미 자격 상실\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qMk5UNkoxdzg1NjRqdGhVV095YTE1dUN1WVQySG9YTEF1MzlOdkVpeGFWV3VsMHVGV2wyZ1NmT3dnNGQxeHI4N2dnQUdadkJ0b3JVV1lYZkVMUQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:41:39 GMT",
-        "source": "뉴스1",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "227e0f4f7272c6b0699adb0477f52def2e10e710a1a24c99909b147b4480a383",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\"…조희대 탄핵 중단 촉구 - 한국NGO신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oQm0yeHVuOEJDMjA4T0YxdGNwQ2h1MzM2Y0t4S3NhV1M3STNvTVJ1ME95NW9uek9PQlVNU3BaaXR1NWxBcmpEc0xZRDh2RlUybFZPYnpsOHg1cFdTN1hISHlqMTBGZWlQ?oc=5\" target=\"_blank\">오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\"…조희대 탄핵 중단 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국NGO신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oQm0yeHVuOEJDMjA4T0YxdGNwQ2h1MzM2Y0t4S3NhV1M3STNvTVJ1ME95NW9uek9PQlVNU3BaaXR1NWxBcmpEc0xZRDh2RlUybFZPYnpsOHg1cFdTN1hISHlqMTBGZWlQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:54:51 GMT",
-        "source": "한국NGO신문",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "1a01aa41a38e09af738a5acc3e03a3205ae23590d7415a2c8e016699a63d27af",
@@ -2661,13 +2613,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "e53867ba93a1b901086bcda0dfadf2aa6e3a4f16d622d39b9e6892ecf8c411de",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 “국힘, 張 체제론 선택 못 받아…국회 입성하면 공소취소부터 저지” [6·3 쿡터뷰] - 쿠키뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qcmZqV2tUNXhCdV9RN2NRLXBEY1VSZk45ZDdpUncwdWN2bG1EWDNDczNhRHZfODJxWjNYMGhwTndVRTZPc3NkSTNLbm5HQjBpRjdOMkpGeGQ3Y1I0dTEyMTZDUQ?oc=5\" target=\"_blank\">한동훈 “국힘, 張 체제론 선택 못 받아…국회 입성하면 공소취소부터 저지” [6·3 쿡터뷰]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">쿠키뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qcmZqV2tUNXhCdV9RN2NRLXBEY1VSZk45ZDdpUncwdWN2bG1EWDNDczNhRHZfODJxWjNYMGhwTndVRTZPc3NkSTNLbm5HQjBpRjdOMkpGeGQ3Y1I0dTEyMTZDUQ?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 09:24:16 GMT",
+        "source": "쿠키뉴스",
+        "ageHours": 21.3
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "87c798a0db6ec7dd2e063b3f23df8f7c5baf71a1c8e9add7662b1be3d607b407",
-    "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스",
+    "postId": "227e0f4f7272c6b0699adb0477f52def2e10e710a1a24c99909b147b4480a383",
+    "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\"…조희대 탄핵 중단 촉구 - 한국NGO신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45124620366",
-    "sentAt": "2026-11-23T06:31:16.342Z"
+    "runId": "45125750723",
+    "sentAt": "2026-11-23T06:41:16.906Z"
   }
 }
