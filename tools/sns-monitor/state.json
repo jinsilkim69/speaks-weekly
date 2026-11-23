@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T18:41:20.426Z",
+  "lastCheckedAt": "2026-11-23T18:51:13.316Z",
   "seenPostIds": {
     "8575b10ad398f6556a819e29debcb75744ba45f173426394714413a1d3bda776": {
       "seenAt": "2026-11-20T16:01:22.039Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-23T18:31:18.208Z",
       "title": "Trump Posts Bizarre AI Meme of Jensen Huang Holding Up Bra Riffing Off Assassination Attempt - Variety",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "60f0fbef30f78ede07a1671a86fa72019d513c47d0324b1986bc76fc5ff5ad98": {
+      "seenAt": "2026-11-23T18:51:14.489Z",
+      "title": "한동훈 \"조작 제명·기획 숙청 원천 무효…장동혁 책임져야\" - 연합뉴스",
+      "targetName": "한동훈"
+    },
+    "985dbb184f094949577227b7c395b2c09b30ce18773ddb6c8c6c4bd451630ca4": {
+      "seenAt": "2026-11-23T18:51:15.143Z",
+      "title": "Trump posts edited image of assassination attempt showing bloody Jensen Huang hoisting red bra after Nvidia return - New York Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "d9b5c38d63733b215964222e6ea500fc129e41e386daeb77eb1d7eb0e44ab592",
-    "title": "Trump Posts Bizarre AI Meme of Jensen Huang Holding Up Bra Riffing Off Assassination Attempt - Variety",
+    "postId": "985dbb184f094949577227b7c395b2c09b30ce18773ddb6c8c6c4bd451630ca4",
+    "title": "Trump posts edited image of assassination attempt showing bloody Jensen Huang hoisting red bra after Nvidia return - New York Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "45239220232",
-    "sentAt": "2026-11-23T18:31:17.526Z"
+    "runId": "45242711851",
+    "sentAt": "2026-11-23T18:51:14.810Z"
   }
 }

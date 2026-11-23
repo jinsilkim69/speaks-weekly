@@ -2783,3 +2783,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조작 제명·기획 숙청 원천 무효…장동혁 책임져야" - 연합뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조작 제명·기획 숙청 원천 무효…장동혁 책임져야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE12R01ZWDluLVRCaXZiZ1UtY3BpTlRPNndqVklLR2ExTGNqRUlaODctMXBCaUI1NHQ5emJLWXR1SHpzMkhPbXJWQXJHa0pSckZ4czVzYUxybzZ4RTjSAWBBVV95cUxQUk1TaHBBR1lVS0dYdWpkMV8ybzZobHV0U3RWd0JuLUhvVkhuUThWdXAxdGFTcERrQTdWTE9kZWFuZ1VFbGZHMkJrU2Vsd0VkVW9BOVdob3R0U0o5bDRIOUQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump posts edited image of assassination attempt showing bloody Jensen Huang hoisting red bra after Nvidia return - New York Post
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump posts edited image of assassination attempt showing bloody Jensen Huang hoisting red bra after Nvidia return
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVGpxZFNoZWV2dlFoN2REOHl5dndZd0hPM1Jac0M3MVI2VEdzbjZYSGwwak5wdnUzZTVGc3AtRTk4cEVheTdGNGV3TXFVNy1Ea0FBaXBDcWtlX0xlOUpjQXIwczM5WW5RdXRqLWlGcmhWbGRHa2JVQWhkZkVBcE1tTEdNQjhwTXRwbHNoSG9fcWJKSS1hX3JZZ05qaWdSMDlMN3lSdmhpcnpXNVktRkZrTW9FbDhocHNGZWdjdGhOUVhxTVc3T3JqNU5vb1duTnVYZUY4OXBxY2hPSWVjT0RyMDM3dVA2RFU2?oc=5)
+
+---
+
