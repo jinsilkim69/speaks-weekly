@@ -926,5 +926,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "3b2a753640f312ebed9352ab89d567e6ed8e323287498a225396bb81417dac05",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "“Sex Sells” and a Red Bra: Trump’s Vulgar Response to Jensen Huang’s Return - Mother Jones",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBFV2hBU0JlVjBCVko5d0JxeTN3V1VhRllDYm9QX1BuczVHdE9NUXl0dVJZSzc1dVJEb01IOElHRmRvZXV3dWpkVmd6VnJiWUFuZDQtVVljWTJoTXNMSm8tNHhVSGVDeXExVGNMNGJ2WkZQQ3lGUlA2YWtFdDZqWnNhVDZ5WkFrQmVZcWh5cVM?oc=5\" target=\"_blank\">“Sex Sells” and a Red Bra: Trump’s Vulgar Response to Jensen Huang’s Return</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mother Jones</font>",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFBFV2hBU0JlVjBCVko5d0JxeTN3V1VhRllDYm9QX1BuczVHdE9NUXl0dVJZSzc1dVJEb01IOElHRmRvZXV3dWpkVmd6VnJiWUFuZDQtVVljWTJoTXNMSm8tNHhVSGVDeXExVGNMNGJ2WkZQQ3lGUlA2YWtFdDZqWnNhVDZ5WkFrQmVZcWh5cVM?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 19:21:20 GMT",
+    "source": "Mother Jones",
+    "ageHours": 4.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “Sex Sells” and a Red Bra: Trump’s Vulgar Response to Jensen Huang’s Return",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
