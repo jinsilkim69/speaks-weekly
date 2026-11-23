@@ -2614,3 +2614,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 제명, 尹 사형 구형일 맞춰 기획했나… 국힘 윤리위원 추가 폭로 - 천지일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 제명, 尹 사형 구형일 맞춰 기획했나… 국힘 윤리위원 추가 폭로
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbmY5WjNXdVJINHRiR1k2V3BFQmVhbzlucVBSM2lfM3I2bldJWWxyUWlHWVVSaW9GS3VKUVJwYXJudFd0MmhBMVJ2X01CdW5ISURBS2ZqaXdVejJnYVlVTG91cWg3U0FqV2c?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says Nvidia board made right call on Huang reinstatement - Reuters
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says Nvidia board made right call on Huang reinstatement
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3l1T3NpNEY5eFRTQ0xVT2tBNjQyS3JFaUF3SmQydUpCY0RaZEFZWDgyaUdhTUR2R2xzamVmcTJjeHFzRDN2eVpEVjVneE5QWHc0ZXlrSWc3T0gwSFlUY1k4ZjYzbm1GbWVxWVdxYW1XU1daZWNCZkVGeUFRRkxZQnpJS1JpZHY1UGRYVTExM29fbTRmbkpOU3hWUVl6Y1BPUjQxZzlOQ2sxUQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump praises Nvidia’s reinstatement of Huang - The Hill
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump praises Nvidia’s reinstatement of Huang
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilgFBVV95cUxQOTRCVVI2WFI4YjhvRzFDa19veWQ2LVFEdFBRN3hMYWtxMjUxYnhWS1NNcXZTdEp0YjZOeWNZbTNPU2hTZGFXc2wwTm9wNUpubFZXS0VzQ1JZWnlMNi1vQUpmUUY4bHRWZHFSUktPdC1vbm53bFlQMnBrQ1ZIbW41Z3JCbjh3R0xfRXUwOUlWdXRZWkNHcFHSAZsBQVVfeXFMTjZlbmNabW0wSGVvSkdWSHRNQTZXR0oxbjhOOXZjYWt3NHNaakxVdmpsUmdHOW5GaHByZDUzZVZ3TzFqeVhEcUhBQ3dTcXQxaXNLeWdkLUR3ZXo4R3RDNGFua3cyQU5yRUpHTkw4SG95dkktUzdRQXhrWlJVeVRrb01Oa0ptVXVleXhhLS1UbDZtMENCbnlWUVduY2M?oc=5)
+
+---
+

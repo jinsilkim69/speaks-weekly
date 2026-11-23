@@ -173,5 +173,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6925d6fedb80bb41c6683ba1c75ee5f38a1fb9ab06bab57690a86fd3524db998",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 제명, 尹 사형 구형일 맞춰 기획했나… 국힘 윤리위원 추가 폭로 - 천지일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbmY5WjNXdVJINHRiR1k2V3BFQmVhbzlucVBSM2lfM3I2bldJWWxyUWlHWVVSaW9GS3VKUVJwYXJudFd0MmhBMVJ2X01CdW5ISURBS2ZqaXdVejJnYVlVTG91cWg3U0FqV2c?oc=5\" target=\"_blank\">한동훈 제명, 尹 사형 구형일 맞춰 기획했나… 국힘 윤리위원 추가 폭로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbmY5WjNXdVJINHRiR1k2V3BFQmVhbzlucVBSM2lfM3I2bldJWWxyUWlHWVVSaW9GS3VKUVJwYXJudFd0MmhBMVJ2X01CdW5ISURBS2ZqaXdVejJnYVlVTG91cWg3U0FqV2c?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 15:12:04 GMT",
+    "source": "천지일보",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 제명, 尹 사형 구형일 맞춰 기획했나… 국힘 윤리위원 추가 폭로",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "83a7f678f1f95c8bb119ff29e466edd40fc04a21f5da1c5b13277ae1c6071bf7",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump says Nvidia board made right call on Huang reinstatement - Reuters",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3l1T3NpNEY5eFRTQ0xVT2tBNjQyS3JFaUF3SmQydUpCY0RaZEFZWDgyaUdhTUR2R2xzamVmcTJjeHFzRDN2eVpEVjVneE5QWHc0ZXlrSWc3T0gwSFlUY1k4ZjYzbm1GbWVxWVdxYW1XU1daZWNCZkVGeUFRRkxZQnpJS1JpZHY1UGRYVTExM29fbTRmbkpOU3hWUVl6Y1BPUjQxZzlOQ2sxUQ?oc=5\" target=\"_blank\">Trump says Nvidia board made right call on Huang reinstatement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3l1T3NpNEY5eFRTQ0xVT2tBNjQyS3JFaUF3SmQydUpCY0RaZEFZWDgyaUdhTUR2R2xzamVmcTJjeHFzRDN2eVpEVjVneE5QWHc0ZXlrSWc3T0gwSFlUY1k4ZjYzbm1GbWVxWVdxYW1XU1daZWNCZkVGeUFRRkxZQnpJS1JpZHY1UGRYVTExM29fbTRmbkpOU3hWUVl6Y1BPUjQxZzlOQ2sxUQ?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 15:18:45 GMT",
+    "source": "Reuters",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump says Nvidia board made right call on Huang reinstatement",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "872f73f97e12381f6196b08558c0ed8fbb228688121e3bcabc4ea4b410a3073e",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump praises Nvidia’s reinstatement of Huang - The Hill",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQOTRCVVI2WFI4YjhvRzFDa19veWQ2LVFEdFBRN3hMYWtxMjUxYnhWS1NNcXZTdEp0YjZOeWNZbTNPU2hTZGFXc2wwTm9wNUpubFZXS0VzQ1JZWnlMNi1vQUpmUUY4bHRWZHFSUktPdC1vbm53bFlQMnBrQ1ZIbW41Z3JCbjh3R0xfRXUwOUlWdXRZWkNHcFHSAZsBQVVfeXFMTjZlbmNabW0wSGVvSkdWSHRNQTZXR0oxbjhOOXZjYWt3NHNaakxVdmpsUmdHOW5GaHByZDUzZVZ3TzFqeVhEcUhBQ3dTcXQxaXNLeWdkLUR3ZXo4R3RDNGFua3cyQU5yRUpHTkw4SG95dkktUzdRQXhrWlJVeVRrb01Oa0ptVXVleXhhLS1UbDZtMENCbnlWUVduY2M?oc=5\" target=\"_blank\">Trump praises Nvidia’s reinstatement of Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOTRCVVI2WFI4YjhvRzFDa19veWQ2LVFEdFBRN3hMYWtxMjUxYnhWS1NNcXZTdEp0YjZOeWNZbTNPU2hTZGFXc2wwTm9wNUpubFZXS0VzQ1JZWnlMNi1vQUpmUUY4bHRWZHFSUktPdC1vbm53bFlQMnBrQ1ZIbW41Z3JCbjh3R0xfRXUwOUlWdXRZWkNHcFHSAZsBQVVfeXFMTjZlbmNabW0wSGVvSkdWSHRNQTZXR0oxbjhOOXZjYWt3NHNaakxVdmpsUmdHOW5GaHByZDUzZVZ3TzFqeVhEcUhBQ3dTcXQxaXNLeWdkLUR3ZXo4R3RDNGFua3cyQU5yRUpHTkw4SG95dkktUzdRQXhrWlJVeVRrb01Oa0ptVXVleXhhLS1UbDZtMENCbnlWUVduY2M?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 14:30:00 GMT",
+    "source": "The Hill",
+    "ageHours": 1.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump praises Nvidia’s reinstatement of Huang",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

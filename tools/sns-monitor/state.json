@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T16:01:25.850Z",
+  "lastCheckedAt": "2026-11-23T16:11:14.706Z",
   "seenPostIds": {
-    "2d792a19cf9b620cf03efda9c4fdc7d9ef8766784a5eec85b2004a363a3bcc9d": {
-      "seenAt": "2026-11-20T12:41:19.341Z",
-      "title": "\"인천의 15번째 국회의원\" 김형연 조국혁신당 연수구 지역위원장, \"건물 외형보다 주민 삶 책임지는 정치 펼칠 것\" [굿모닝 인천-주간핫이슈] - 경인방송 뉴스",
-      "targetName": "조국"
-    },
-    "f48d7b9f919c002cbb7090fcd2ad368ab073efbc9abfe786744b5828665b6c32": {
-      "seenAt": "2026-11-20T12:41:20.027Z",
-      "title": "Trump, 80, Called Out for Embarrassing Error in Pardon Post - The Daily Beast",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "a5fd481796457bdab634d4519d73afd9b4d1a66966a5476b0c57c0c90cfb5838": {
       "seenAt": "2026-11-20T13:11:17.889Z",
       "title": "이재명 \"5,500억 공익환수가 배임이면 일반 개발허가는 어찌되나\" - 연합뉴스TV",
@@ -2510,14 +2500,29 @@
       "seenAt": "2026-11-23T16:01:28.089Z",
       "title": "김민석, 친청계 겨냥 “일제 부역자” 발언 박선원에 경고…박 “경고에 예외 없어야” - KBS 뉴스",
       "targetName": "김민석"
+    },
+    "6925d6fedb80bb41c6683ba1c75ee5f38a1fb9ab06bab57690a86fd3524db998": {
+      "seenAt": "2026-11-23T16:11:15.976Z",
+      "title": "한동훈 제명, 尹 사형 구형일 맞춰 기획했나… 국힘 윤리위원 추가 폭로 - 천지일보",
+      "targetName": "한동훈"
+    },
+    "83a7f678f1f95c8bb119ff29e466edd40fc04a21f5da1c5b13277ae1c6071bf7": {
+      "seenAt": "2026-11-23T16:11:16.643Z",
+      "title": "Trump says Nvidia board made right call on Huang reinstatement - Reuters",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "872f73f97e12381f6196b08558c0ed8fbb228688121e3bcabc4ea4b410a3073e": {
+      "seenAt": "2026-11-23T16:11:17.299Z",
+      "title": "Trump praises Nvidia’s reinstatement of Huang - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "90714a8289db0557c4290f409a3090ccede74a01a1363eee690d550e92affddf",
-    "title": "김민석, 친청계 겨냥 “일제 부역자” 발언 박선원에 경고…박 “경고에 예외 없어야” - KBS 뉴스",
+    "postId": "872f73f97e12381f6196b08558c0ed8fbb228688121e3bcabc4ea4b410a3073e",
+    "title": "Trump praises Nvidia’s reinstatement of Huang - The Hill",
     "bot": "jongsuk_pol_bot",
-    "runId": "45211672776",
-    "sentAt": "2026-11-23T16:01:27.711Z"
+    "runId": "45213590126",
+    "sentAt": "2026-11-23T16:11:16.984Z"
   }
 }
