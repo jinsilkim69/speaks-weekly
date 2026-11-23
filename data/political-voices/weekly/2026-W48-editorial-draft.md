@@ -1418,3 +1418,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “국힘, 張 체제론 선택 못 받아…국회 입성하면 공소취소부터 저지” [6·3 쿡터뷰] - 쿠키뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “국힘, 張 체제론 선택 못 받아…국회 입성하면 공소취소부터 저지”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qcmZqV2tUNXhCdV9RN2NRLXBEY1VSZk45ZDdpUncwdWN2bG1EWDNDczNhRHZfODJxWjNYMGhwTndVRTZPc3NkSTNLbm5HQjBpRjdOMkpGeGQ3Y1I0dTEyMTZDUQ?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 "대통령 이재명의 시간, 피고인 이재명에 쓰지 말라" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 "대통령 이재명의 시간, 피고인 이재명에 쓰지 말라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUUo5dzBfbUo4dmFBeUl2QXYzX2JhSDU4aENXNWVXRS15Q0ZWRHNXODU4NlRkdGR5S1Jha0RTVmJFUUxtRFIzdXc0QWZZWFA0ZFBzeElCWFBIdFhfUHI0WE8zQWFaSHNscHhuZUYwQdIBb0FVX3lxTE1MUUo5dzBfbUo4dmFBeUl2QXYzX2JhSDU4aENXNWVXRS15Q0ZWRHNXODU4NlRkdGR5S1Jha0RTVmJFUUxtRFIzdXc0QWZZWFA0ZFBzeElCWFBIdFhfUHI0WE8zQWFaSHNscHhuZUYwQQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 윤석열 사형 구형일과 맞춘 한동훈 제명, 국민의힘의 숨은 전략? - 공감신문
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 윤석열 사형 구형일과 맞춘 한동훈 제명, 국민의힘의 숨은 전략?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmdHg4MmhqVzBJdXh3N2FaVzJxdG84SDFFRGtCTEZJSDdRZ1U1MTRaSmJCVXllSWZlV1VtNF9hdWJONFp0YTFmREZKVE1IZUYyNWdIelBGVGtqRUV3TGJNRHJRLVlESTlu?oc=5)
+
+---
+

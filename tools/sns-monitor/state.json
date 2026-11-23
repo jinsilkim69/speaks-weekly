@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T07:01:22.288Z",
+  "lastCheckedAt": "2026-11-23T07:11:26.131Z",
   "seenPostIds": {
-    "8a80344f66d380a60e3e2e356784af4995956c7b0b3e7c5e2c3b52f5d7f8a036": {
-      "seenAt": "2026-11-20T02:51:19.698Z",
-      "title": "[막전막후] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나 - 펜앤마이크",
-      "targetName": "정청래"
-    },
-    "955ac6304e992c554a44e47202d79e2470692150b6594561e7dccab74a0dfc99": {
-      "seenAt": "2026-11-20T03:01:17.965Z",
-      "title": "한동훈, 조희대 탄핵 추진에 “국헌문란 목적의 내란”… 이준석은 李 재판 재개 촉구 - 세계일보",
-      "targetName": "이준석"
-    },
-    "ed53d363ffe917b67ee5a6aa419d8a42c6b515925de3a0841e4963fe02b776ad": {
-      "seenAt": "2026-11-20T03:01:18.596Z",
-      "title": "[오마이포토2026] 신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" - OhmyNews",
-      "targetName": "신장식"
-    },
     "40e3be30596eb54e5f6a162eee8123764942d84637d5785155da8e70b7b22bcb": {
       "seenAt": "2026-11-20T03:01:19.244Z",
       "title": "신장식 \"조희대 탄핵안 오늘 국회 제출·내일 표결하자\" - 뉴스1",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T07:01:25.467Z",
       "title": "박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이 - 머니투데이",
       "targetName": "김민석"
+    },
+    "e53867ba93a1b901086bcda0dfadf2aa6e3a4f16d622d39b9e6892ecf8c411de": {
+      "seenAt": "2026-11-23T07:11:28.293Z",
+      "title": "한동훈 “국힘, 張 체제론 선택 못 받아…국회 입성하면 공소취소부터 저지” [6·3 쿡터뷰] - 쿠키뉴스",
+      "targetName": "한동훈"
+    },
+    "69af4e4c416a1706de8cfafbe2195cbaea329f933fe4310da56c796c84e8539a": {
+      "seenAt": "2026-11-23T07:11:29.062Z",
+      "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\" - 머니투데이 - 머니투데이",
+      "targetName": "이재명"
+    },
+    "e4a44437d0010fafba687da8987eab4d7eb601e040708073929298cc0c637f96": {
+      "seenAt": "2026-11-23T07:11:29.827Z",
+      "title": "윤석열 사형 구형일과 맞춘 한동훈 제명, 국민의힘의 숨은 전략? - 공감신문",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "e53867ba93a1b901086bcda0dfadf2aa6e3a4f16d622d39b9e6892ecf8c411de",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 “국힘, 張 체제론 선택 못 받아…국회 입성하면 공소취소부터 저지” [6·3 쿡터뷰] - 쿠키뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qcmZqV2tUNXhCdV9RN2NRLXBEY1VSZk45ZDdpUncwdWN2bG1EWDNDczNhRHZfODJxWjNYMGhwTndVRTZPc3NkSTNLbm5HQjBpRjdOMkpGeGQ3Y1I0dTEyMTZDUQ?oc=5\" target=\"_blank\">한동훈 “국힘, 張 체제론 선택 못 받아…국회 입성하면 공소취소부터 저지” [6·3 쿡터뷰]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">쿠키뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qcmZqV2tUNXhCdV9RN2NRLXBEY1VSZk45ZDdpUncwdWN2bG1EWDNDczNhRHZfODJxWjNYMGhwTndVRTZPc3NkSTNLbm5HQjBpRjdOMkpGeGQ3Y1I0dTEyMTZDUQ?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 09:24:16 GMT",
-        "source": "쿠키뉴스",
-        "ageHours": 21.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "69af4e4c416a1706de8cfafbe2195cbaea329f933fe4310da56c796c84e8539a",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUUo5dzBfbUo4dmFBeUl2QXYzX2JhSDU4aENXNWVXRS15Q0ZWRHNXODU4NlRkdGR5S1Jha0RTVmJFUUxtRFIzdXc0QWZZWFA0ZFBzeElCWFBIdFhfUHI0WE8zQWFaSHNscHhuZUYwQdIBb0FVX3lxTE1MUUo5dzBfbUo4dmFBeUl2QXYzX2JhSDU4aENXNWVXRS15Q0ZWRHNXODU4NlRkdGR5S1Jha0RTVmJFUUxtRFIzdXc0QWZZWFA0ZFBzeElCWFBIdFhfUHI0WE8zQWFaSHNscHhuZUYwQQ?oc=5\" target=\"_blank\">오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUUo5dzBfbUo4dmFBeUl2QXYzX2JhSDU4aENXNWVXRS15Q0ZWRHNXODU4NlRkdGR5S1Jha0RTVmJFUUxtRFIzdXc0QWZZWFA0ZFBzeElCWFBIdFhfUHI0WE8zQWFaSHNscHhuZUYwQdIBb0FVX3lxTE1MUUo5dzBfbUo4dmFBeUl2QXYzX2JhSDU4aENXNWVXRS15Q0ZWRHNXODU4NlRkdGR5S1Jha0RTVmJFUUxtRFIzdXc0QWZZWFA0ZFBzeElCWFBIdFhfUHI0WE8zQWFaSHNscHhuZUYwQQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:37:14 GMT",
-        "source": "머니투데이",
-        "ageHours": 1.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e4a44437d0010fafba687da8987eab4d7eb601e040708073929298cc0c637f96",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "윤석열 사형 구형일과 맞춘 한동훈 제명, 국민의힘의 숨은 전략? - 공감신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmdHg4MmhqVzBJdXh3N2FaVzJxdG84SDFFRGtCTEZJSDdRZ1U1MTRaSmJCVXllSWZlV1VtNF9hdWJONFp0YTFmREZKVE1IZUYyNWdIelBGVGtqRUV3TGJNRHJRLVlESTlu?oc=5\" target=\"_blank\">윤석열 사형 구형일과 맞춘 한동훈 제명, 국민의힘의 숨은 전략?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">공감신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmdHg4MmhqVzBJdXh3N2FaVzJxdG84SDFFRGtCTEZJSDdRZ1U1MTRaSmJCVXllSWZlV1VtNF9hdWJONFp0YTFmREZKVE1IZUYyNWdIelBGVGtqRUV3TGJNRHJRLVlESTlu?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 06:43:26 GMT",
-        "source": "공감신문",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "ccb06fdf2372963046c9019fc57b4223df4c128a004825a75c40a01608616051",
@@ -2581,13 +2533,61 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "46333224406af6743d2a187bc1ccb57f79c7976bed099b9b9342d606dbe3de94",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라\" - 부산일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE15bGh2d2FUS2t1d0FxZGg3dDBRSVlPeUJ6TmxJbEViTEFjUEZtZFdkU2NvUzJxbkVldlpRZ2pXdEVYME5uTVBPQ2JPU0ZjaC1Gb0lkU1QwSUZpRWNDZFFaVnNRZFF3MWtVeXZmM3VHdWxFYmxQ?oc=5\" target=\"_blank\">오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15bGh2d2FUS2t1d0FxZGg3dDBRSVlPeUJ6TmxJbEViTEFjUEZtZFdkU2NvUzJxbkVldlpRZ2pXdEVYME5uTVBPQ2JPU0ZjaC1Gb0lkU1QwSUZpRWNDZFFaVnNRZFF3MWtVeXZmM3VHdWxFYmxQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:48:35 GMT",
+        "source": "부산일보",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4c2bca752afbc91a33fc1b0c239deb486e628b349006965c776bcbc1438e05b3",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "‘조작 징계’ 추가 폭로… ‘尹 구형 맞춰 한동훈 제명 기획’ - 아시아타임즈",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1YzBjb3pQMWhJWGh1c05ZT3hEMDA2d1NpclUwVXV5NERCandYOXphMThKb2dVOGFqY1NpY0hTQTA1eGQtdWdsQmZ5TkZJdzlVS2tYcmx6NEhjSDBEZkE?oc=5\" target=\"_blank\">‘조작 징계’ 추가 폭로… ‘尹 구형 맞춰 한동훈 제명 기획’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아타임즈</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1YzBjb3pQMWhJWGh1c05ZT3hEMDA2d1NpclUwVXV5NERCandYOXphMThKb2dVOGFqY1NpY0hTQTA1eGQtdWdsQmZ5TkZJdzlVS2tYcmx6NEhjSDBEZkE?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 06:52:00 GMT",
+        "source": "아시아타임즈",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "67c0503b30b9999d7e5bacaac2b4cc70d423de3d72c58388f42e50d5b8dc67fa",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "與박선원, 김민석 '구두 경고'에 \"다른 최고위원들 발언도 경고해달라\" - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WUVVhVXoyLUZEOWVIQkZpblltNF96SUZ2MGJ4ZnFNcUJ3UUZleUdVYWhPa1d6QnI3b0kxRkpEejQ2T0dNdk1TaFBTcW9jS3ZXN0lYaUYyaVkxZTJFY1dhQ9IBeEFVX3lxTE83aVVKNnVDb0NXdGtYQ2JjTUkzOFdzczNTTUZTOENRcEFuNl8yckVNVjAzVGZ4Qk9CUjE1RnZyQlNoekJaeTdaTnhRS2RWLVRTYzJHWC1Db2J2dlBHUm5TU0FuSzE0SGtSSVIzRFhJZmlaZ2lLdEUzSw?oc=5\" target=\"_blank\">與박선원, 김민석 '구두 경고'에 \"다른 최고위원들 발언도 경고해달라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WUVVhVXoyLUZEOWVIQkZpblltNF96SUZ2MGJ4ZnFNcUJ3UUZleUdVYWhPa1d6QnI3b0kxRkpEejQ2T0dNdk1TaFBTcW9jS3ZXN0lYaUYyaVkxZTJFY1dhQ9IBeEFVX3lxTE83aVVKNnVDb0NXdGtYQ2JjTUkzOFdzczNTTUZTOENRcEFuNl8yckVNVjAzVGZ4Qk9CUjE1RnZyQlNoekJaeTdaTnhRS2RWLVRTYzJHWC1Db2J2dlBHUm5TU0FuSzE0SGtSSVIzRFhJZmlaZ2lLdEUzSw?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 06:54:47 GMT",
+        "source": "뉴시스",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "fd0937f96fd14f4eeb906618982d4038d3251ecf30069fa36b8fd6d49ff05db5",
-    "title": "박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이 - 머니투데이",
+    "postId": "e4a44437d0010fafba687da8987eab4d7eb601e040708073929298cc0c637f96",
+    "title": "윤석열 사형 구형일과 맞춘 한동훈 제명, 국민의힘의 숨은 전략? - 공감신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45128082952",
-    "sentAt": "2026-11-23T07:01:25.100Z"
+    "runId": "45129242828",
+    "sentAt": "2026-11-23T07:11:29.452Z"
   }
 }
