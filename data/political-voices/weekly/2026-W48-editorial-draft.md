@@ -911,3 +911,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 "이재명 대통령, 국가 권력 동원 사법방어 멈춰야" - 파이낸셜뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 "이재명 대통령, 국가 권력 동원 사법방어 멈춰야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0STNVbFdtZHZ1bEFrcWl5ckpIVXRJcnBNNzRlbDFCSF80YlJmQXlVZ3JoaUhBaHp4cFR2YnJTclBSZTFDYkdLMXRydUZMOVNVZzNGSjhGZjduZw?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 인천 12개 대학 총학·송영길 의원 치맥 간담회...주거·취업 현안 논의 - 미디어인천신문
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 인천 12개 대학 총학·송영길 의원 치맥 간담회...주거·취업 현안 논의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTFBXYXFnWUF4ZGZFdzN2bmdDNGVaR2ZTT3pYWjNkSWl3NVpIei1sTW9xMElxSUhfNHNCRUNnRHMxNkJwQlpPcV92VUN3SzN5d19PTGx3cEVDSklmclU5RzNyU3hsWHVndXF5R0Zr?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 광주특별시당 “조희대 대법원장 즉각 탄핵해야” - 무등일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 광주특별시당 “조희대 대법원장 즉각 탄핵해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vQldpQUNXMV91YTBDek1VZVVxb2s2dWVXYXFVUkpQYzVXald3MHB1RVRIQk1Wc2FHSnc2NU5zLXl2ZzdTWmFQZm13Xzg?oc=5)
+
+---
+
