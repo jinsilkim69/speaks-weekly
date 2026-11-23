@@ -1951,3 +1951,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 지지층 “장동혁 잘함”이 김민석의 5배…金 붙든 호남, 張 등돌린 영남 - www.dt.co.kr
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 지지층 “장동혁 잘함”이 김민석의 5배…金 붙든 호남, 張 등돌린 영남
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5za0lRMGw3dm9RYktwOUQwcWJfallxbzF6V0FMaDNjMElvZmo3eWZ0Ry1wczFfQ1lnakpvRGtqT1Q2RW9IYlc3YXdDZkpSUQ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 조국혁신당 최고위 발언하는 신장식 대표 - 뉴시스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 최고위 발언하는 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fRk16Y25CYk9pU2ZISTB1YVhlWXdfUFR4RVFzdEwydnFDWDZ6dFpfNG1CcWxkd3AxRkNOZHI1MTBaSGdTTk8ybXBpN2ltOHcxWV9jTHJXYzlUYnVEc3lHQQ?oc=5)
+
+---
+

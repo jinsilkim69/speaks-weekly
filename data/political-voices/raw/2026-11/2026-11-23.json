@@ -3768,5 +3768,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "3e0ffe28b352bd7b30b99967cca13149905856252c1b083116720c57526cbef1",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 지지층 “장동혁 잘함”이 김민석의 5배…金 붙든 호남, 張 등돌린 영남 - www.dt.co.kr",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5za0lRMGw3dm9RYktwOUQwcWJfallxbzF6V0FMaDNjMElvZmo3eWZ0Ry1wczFfQ1lnakpvRGtqT1Q2RW9IYlc3YXdDZkpSUQ?oc=5\" target=\"_blank\">조국 지지층 “장동혁 잘함”이 김민석의 5배…金 붙든 호남, 張 등돌린 영남</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.dt.co.kr</font>",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5za0lRMGw3dm9RYktwOUQwcWJfallxbzF6V0FMaDNjMElvZmo3eWZ0Ry1wczFfQ1lnakpvRGtqT1Q2RW9IYlc3YXdDZkpSUQ?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 05:24:32 GMT",
+    "source": "www.dt.co.kr",
+    "ageHours": 4.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 지지층 “장동혁 잘함”이 김민석의 5배…金 붙든 호남, 張 등돌린 영남",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "2fea9cbabc15e63128da5aa5069fb703b3b093ea7f1f448edbca05bc0d168faa",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "조국혁신당 최고위 발언하는 신장식 대표 - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fRk16Y25CYk9pU2ZISTB1YVhlWXdfUFR4RVFzdEwydnFDWDZ6dFpfNG1CcWxkd3AxRkNOZHI1MTBaSGdTTk8ybXBpN2ltOHcxWV9jTHJXYzlUYnVEc3lHQQ?oc=5\" target=\"_blank\">조국혁신당 최고위 발언하는 신장식 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fRk16Y25CYk9pU2ZISTB1YVhlWXdfUFR4RVFzdEwydnFDWDZ6dFpfNG1CcWxkd3AxRkNOZHI1MTBaSGdTTk8ybXBpN2ltOHcxWV9jTHJXYzlUYnVEc3lHQQ?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 00:55:00 GMT",
+    "source": "뉴시스",
+    "ageHours": 8.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당 최고위 발언하는 신장식 대표",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

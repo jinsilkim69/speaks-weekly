@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T09:41:18.579Z",
+  "lastCheckedAt": "2026-11-23T09:51:16.127Z",
   "seenPostIds": {
-    "28ccc7c310c2a17071d06b2d988251f5286acea642b1cdd93915452288d521b3": {
-      "seenAt": "2026-11-20T05:31:18.396Z",
-      "title": "與윤리심판원, 27일 최민희 징계 심의…김민석 ‘신천지 발언’도 논의 - 경기일보",
-      "targetName": "김민석"
-    },
     "1e3984abd8c03083e927cd1c5271c9fce98f2c2b29d5d162870a921fc0fac715": {
       "seenAt": "2026-11-20T05:31:19.252Z",
       "title": "[영상] 신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" - OhmyNews",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-23T09:41:20.002Z",
       "title": "\"윤 구형 맞춰 한동훈 제명\"...추가 폭로에도 장동혁은 \"본질 아냐\" - YTN",
       "targetName": "한동훈"
+    },
+    "3e0ffe28b352bd7b30b99967cca13149905856252c1b083116720c57526cbef1": {
+      "seenAt": "2026-11-23T09:51:17.394Z",
+      "title": "조국 지지층 “장동혁 잘함”이 김민석의 5배…金 붙든 호남, 張 등돌린 영남 - www.dt.co.kr",
+      "targetName": "조국"
+    },
+    "2fea9cbabc15e63128da5aa5069fb703b3b093ea7f1f448edbca05bc0d168faa": {
+      "seenAt": "2026-11-23T09:51:18.043Z",
+      "title": "조국혁신당 최고위 발언하는 신장식 대표 - 뉴시스",
+      "targetName": "신장식"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "b52f76980f16e9bbf8c454289aa5467be954a6fccb47bef2e5506163f4c91782",
-    "title": "\"윤 구형 맞춰 한동훈 제명\"...추가 폭로에도 장동혁은 \"본질 아냐\" - YTN",
+    "postId": "2fea9cbabc15e63128da5aa5069fb703b3b093ea7f1f448edbca05bc0d168faa",
+    "title": "조국혁신당 최고위 발언하는 신장식 대표 - 뉴시스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45149264478",
-    "sentAt": "2026-11-23T09:41:19.417Z"
+    "runId": "45150721375",
+    "sentAt": "2026-11-23T09:51:17.707Z"
   }
 }
