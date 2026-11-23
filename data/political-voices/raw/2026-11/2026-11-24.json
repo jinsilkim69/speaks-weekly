@@ -649,5 +649,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b7dace71fd93f0c26aefc65b4b7107c0765d37ed94559b1b952a75017b7495b6",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "\"윤 구형 맞춰 한동훈 제명\"...추가 폭로에도 장동혁은 \"본질 아냐\" - YTN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9GUVc1bmFCV0p4NGdtTW9OSnhTLTVhNmdEelpZU1hJQl90c1ZCTmMzVFJFV1pMWFkwTWYyNmtmWWdrQmZocGZELUdVS2twMDJSSE55dzM2Rzc4MmpTbDFxYzVYSHhNQ0VEczJxV3JuYw?oc=5\" target=\"_blank\">\"윤 구형 맞춰 한동훈 제명\"...추가 폭로에도 장동혁은 \"본질 아냐\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GUVc1bmFCV0p4NGdtTW9OSnhTLTVhNmdEelpZU1hJQl90c1ZCTmMzVFJFV1pMWFkwTWYyNmtmWWdrQmZocGZELUdVS2twMDJSSE55dzM2Rzc4MmpTbDFxYzVYSHhNQ0VEczJxV3JuYw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 13:58:00 GMT",
+    "source": "YTN",
+    "ageHours": 7.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"윤 구형 맞춰 한동훈 제명\"...추가 폭로에도 장동혁은 \"본질 아냐\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
