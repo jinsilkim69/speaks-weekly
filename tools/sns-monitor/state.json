@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T08:11:13.832Z",
+  "lastCheckedAt": "2026-11-23T08:21:13.374Z",
   "seenPostIds": {
-    "2875e9bc5093b418e7379e394db9805d7f52f650f8fcd9812303031879c662be": {
-      "seenAt": "2026-11-20T04:01:18.949Z",
-      "title": "「M포토」 조국혁신당 “내란동조 조희대 탄핵하라” - M이코노미뉴스",
-      "targetName": "조국"
-    },
-    "3d6ce08beadbb153d5a68de4a4cbc97d62a5956ef68ca57e46504ddbf135a82b": {
-      "seenAt": "2026-11-20T04:11:17.257Z",
-      "title": "혁신당 '비전랩 위원장'에 조국…미래비전·혁신 방안 연구 - 연합뉴스",
-      "targetName": "조국"
-    },
-    "92ba9592379a03d66c808f5c8af65cb7247a9bb945768f0d3cfef39458458891": {
-      "seenAt": "2026-11-20T04:11:17.912Z",
-      "title": "한동훈 \"조희대 탄핵, 국헌 문란 목적의 내란…헌재 인용 가능성 0%\" - 뉴스1",
-      "targetName": "한동훈"
-    },
     "6ed719ba640e0f17d53e29ff8f77bf0a9a26aa050e1d576e61ccc5f4a31c72cd": {
       "seenAt": "2026-11-20T04:11:18.579Z",
       "title": "한동훈 \"조희대 탄핵은 국헌문란 목적의 내란…가능성 0%\" - 머니투데이 - 머니투데이",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T08:11:16.571Z",
       "title": "장동혁·한동훈 ‘내란몰이’ 공방… 보수 통합 먼 길 - 세계일보",
       "targetName": "한동훈"
+    },
+    "29d5c0fa5a8424f75459599ef2e5dafbbbe55eacd65a72eb0ba2e9d699b2301d": {
+      "seenAt": "2026-11-23T08:21:14.593Z",
+      "title": "박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
+    },
+    "19cd97763cf3f7119f25a5064373bd361a87a53715bf68ceaba6af5683ad88f6": {
+      "seenAt": "2026-11-23T08:21:15.263Z",
+      "title": "Trump Says Iran Grown 'More Aggressive' Since Democrats' Midterm Win - Kurdistan24",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "11fab95a32704d929e1540cd3ab674352bb455e7b62c137fcf1a6e29401e799b": {
+      "seenAt": "2026-11-23T08:21:15.913Z",
+      "title": "취임 100일 앞두고 또 터진 '신천지 갈등'…김민석 리더십 흔들 - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "29d5c0fa5a8424f75459599ef2e5dafbbbe55eacd65a72eb0ba2e9d699b2301d",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUdIBckFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUQ?oc=5\" target=\"_blank\">박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUdIBckFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 06:20:11 GMT",
-        "source": "머니투데이",
-        "ageHours": 1.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "19cd97763cf3f7119f25a5064373bd361a87a53715bf68ceaba6af5683ad88f6",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Says Iran Grown 'More Aggressive' Since Democrats' Midterm Win - Kurdistan24",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGJ6MGgtZVZtNjk1bEFZOEl3bU1QYzlEVjRZSUpNSmg2dXFQYWxKN09DdHE3anZTWmZVaENqemlMTFhRNnVvQ0RvSEcxTDZPejdZYkROSUtZQl9HRElfVE4tR00tdkZXRXlHTk5venV4M3o2QlFwQnhnWVdid1Bnd1NPemlEVHBBdFhFSmJydkt2RzBrdG5NbXpHYUwtVGxZWTEtNFQwWnNNOW55MVE?oc=5\" target=\"_blank\">Trump Says Iran Grown 'More Aggressive' Since Democrats' Midterm Win</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kurdistan24</font>",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGJ6MGgtZVZtNjk1bEFZOEl3bU1QYzlEVjRZSUpNSmg2dXFQYWxKN09DdHE3anZTWmZVaENqemlMTFhRNnVvQ0RvSEcxTDZPejdZYkROSUtZQl9HRElfVE4tR00tdkZXRXlHTk5venV4M3o2QlFwQnhnWVdid1Bnd1NPemlEVHBBdFhFSmJydkt2RzBrdG5NbXpHYUwtVGxZWTEtNFQwWnNNOW55MVE?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:44:27 GMT",
-        "source": "Kurdistan24",
-        "ageHours": 2.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "11fab95a32704d929e1540cd3ab674352bb455e7b62c137fcf1a6e29401e799b",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "취임 100일 앞두고 또 터진 '신천지 갈등'…김민석 리더십 흔들 - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1uSEUtYWpNZHpXaVQwajJiN25CWGM0YWFTYUl6VkpTVHVpd0ZWaHNwRVB3dGpYLW9CeEhFN2RFX1hxUkN0RHhZM080QkhSazZfX0JWX0treGdLZjdHY21iSUZPcUVPTDhVNERGczExYWM2OW12WFNEN0VB0gF_QVVfeXFMTTNGTGE1RTZ1RExhQzlPWWhrWXpWZ1JHaGZ0NlRJUzJlMGtLNkRuV0k4UXQtNVd1VXF3Y0RxemJtQndjWlNhdDB5cHo3UnpBMXBwc2lpZzF0X3RObm9PVXI3SGtJTXVOSThkVmJsVGlXSmdjNjJYUU82NTB3YWpLMA?oc=5\" target=\"_blank\">취임 100일 앞두고 또 터진 '신천지 갈등'…김민석 리더십 흔들 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uSEUtYWpNZHpXaVQwajJiN25CWGM0YWFTYUl6VkpTVHVpd0ZWaHNwRVB3dGpYLW9CeEhFN2RFX1hxUkN0RHhZM080QkhSazZfX0JWX0treGdLZjdHY21iSUZPcUVPTDhVNERGczExYWM2OW12WFNEN0VB0gF_QVVfeXFMTTNGTGE1RTZ1RExhQzlPWWhrWXpWZ1JHaGZ0NlRJUzJlMGtLNkRuV0k4UXQtNVd1VXF3Y0RxemJtQndjWlNhdDB5cHo3UnpBMXBwc2lpZzF0X3RObm9PVXI3SGtJTXVOSThkVmJsVGlXSmdjNjJYUU82NTB3YWpLMA?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 07:29:34 GMT",
-        "source": "머니투데이",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "92b08975a2e47adf92cec5b73ea137eec5982d5be093c104c359776f8ce05d77",
@@ -2581,13 +2533,45 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "7b76e85c6aee4b8da994d59abd572f5af6bb5f55fb95a984e65a6f81daa41ae3",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "[여론조사꽃] 조국혁신당 지지도 10.4%로 두 자릿수 돌파 : 조국 '당명 바꾸자' 제안, '자신감' 보인다 - 허프포스트코리아",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFeUZKN1BRQzdsUjlzTTk5Q2RlLUhHdVNYM3dPZlpNNnlicFpCV3EzNUJDMlZtdmFmamo2R3ZPNFdnOGJhQ21VaWt3Sk5iRXA5S1d2MDRuYw?oc=5\" target=\"_blank\">[여론조사꽃] 조국혁신당 지지도 10.4%로 두 자릿수 돌파 : 조국 '당명 바꾸자' 제안, '자신감' 보인다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">허프포스트코리아</font>",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFeUZKN1BRQzdsUjlzTTk5Q2RlLUhHdVNYM3dPZlpNNnlicFpCV3EzNUJDMlZtdmFmamo2R3ZPNFdnOGJhQ21VaWt3Sk5iRXA5S1d2MDRuYw?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 02:20:34 GMT",
+        "source": "허프포스트코리아",
+        "ageHours": 6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "bf26562ca9375ae8d45bb30364ec2c2586344864cb305be799a6c153c911bf84",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당 충남도당, 고위험 발달장애아동 긴급돌봄체계 즉각 시행 촉구 - 아산포커스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1XN01sdDJLRnBmWTdRbndnd2V2LTBCZU5JelN3dlJ3WXEzQU5sRHBYNEpGcHJlMS1SeDhDVHR4S2g2Nmw1OGhIMHA3QXhZVkJwT3hlUHE4OVdwbFJ6aDdhR2YtY0xYT1I3amRPME1B?oc=5\" target=\"_blank\">조국혁신당 충남도당, 고위험 발달장애아동 긴급돌봄체계 즉각 시행 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아산포커스</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XN01sdDJLRnBmWTdRbndnd2V2LTBCZU5JelN3dlJ3WXEzQU5sRHBYNEpGcHJlMS1SeDhDVHR4S2g2Nmw1OGhIMHA3QXhZVkJwT3hlUHE4OVdwbFJ6aDdhR2YtY0xYT1I3amRPME1B?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 07:53:29 GMT",
+        "source": "아산포커스",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "775fb110629f37a6c371d3b22361b4380efdc7e775ce27042b310c5699dd4928",
-    "title": "장동혁·한동훈 ‘내란몰이’ 공방… 보수 통합 먼 길 - 세계일보",
+    "postId": "11fab95a32704d929e1540cd3ab674352bb455e7b62c137fcf1a6e29401e799b",
+    "title": "취임 100일 앞두고 또 터진 '신천지 갈등'…김민석 리더십 흔들 - 머니투데이 - 머니투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45136543199",
-    "sentAt": "2026-11-23T08:11:16.237Z"
+    "runId": "45137903612",
+    "sentAt": "2026-11-23T08:21:15.570Z"
   }
 }
