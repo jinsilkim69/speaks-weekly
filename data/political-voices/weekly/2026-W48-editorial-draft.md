@@ -638,3 +638,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [포토] 최고위 마친 김민석 대표 - 아시아경제
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최고위 마친 김민석 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pWDJjX3MyS1l4S1JyaXBabDZTMU1Hdks4YXZPVm9XelhiM2JFc3BTTTlhdzJRSVBNNXJqZk9reE85NWtrX1l3OGQ0YXRjLVNEejdOaGhFdEdVZjlRLTRJZQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치 - 연합뉴스 한민족센터
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTFBlQUJqTmZ0dTI3UXNwT1YwMjRSbDlTcWFXLWpuUWhGWDJOMzdCZTNoOGJBSVpFT1JfNGVyb3BrTUt4WkR2ellGdHJ1R2NSSDBZM2R3SkZaMFhIWktOdkM1UF9Mb2JNTGtIaUZEZFNFMmhsY1Ax?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁, 與 조희대 탄핵 추진에 “이재명 탈옥 탄핵”...한동훈 "삼권분립 훼손" - 신문고뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, 與 조희대 탄핵 추진에 “이재명 탈옥 탄핵”...한동훈 "삼권분립 훼손"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuTWV6MG1iZURUUV95a3VfVFl5THNoY3ZQdmJkUDN1b0dBcVBaWkZLNC1Zbkx4N2Z2eGdzWVFWdm45eElRa3dwOQ?oc=5)
+
+---
+

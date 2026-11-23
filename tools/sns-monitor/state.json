@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T03:01:13.932Z",
+  "lastCheckedAt": "2026-11-23T03:11:13.648Z",
   "seenPostIds": {
-    "6225905adaa1b36e345f968cf96f79a2bfe2c86e46c3fe09656cf94a51853bd6": {
-      "seenAt": "2026-11-19T17:51:22.454Z",
-      "title": "Law firm that reached deal with Trump has provided nearly $12 million in free legal work for administration - CBS News",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "4d9c2a13ac640719decfa6d7afd1fc9769022fd24f3cfb7cb2c7cdf8652a38f1": {
-      "seenAt": "2026-11-19T17:51:23.200Z",
-      "title": "Trump calls China trip ‘Great and Highly Consequential,’ announces Friday news conference - New York Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "f35af44f3380a2bb70e3b7023af7f79d8e53be38eb69487c696f013e7c56aa8d": {
-      "seenAt": "2026-11-19T17:51:23.980Z",
-      "title": "Trump Explodes in Weird All-Caps Rant From AF1 En Route Back from China - Yahoo",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "a7438ebfb898be35b330df3c8512c76a5bde06d6ac2d13bc5572947da4ef8320": {
       "seenAt": "2026-11-19T18:04:05.206Z",
       "title": "혁신당, 일본 대사관에 조국 입국 거부 항의서한 전달…\"진상 밝혀야\" - 머니투데이 - 머니투데이",
@@ -2515,47 +2500,126 @@
       "seenAt": "2026-11-23T03:01:16.168Z",
       "title": "한동훈→보수의 심장 TK(대구 경북)서 활동 본격화 - 뉴스줌",
       "targetName": "한동훈"
+    },
+    "bbef48a2cc297ff0a6f7f8b64bf67de466022b9747c9f4fa15c9542c45d33674": {
+      "seenAt": "2026-11-23T03:11:14.786Z",
+      "title": "[포토] 최고위 마친 김민석 대표 - 아시아경제",
+      "targetName": "김민석"
+    },
+    "a2befa8ae987bc8d20c9f85f751684886503dafaeb3ba2c40893aceb8e5fbe10": {
+      "seenAt": "2026-11-23T03:11:15.396Z",
+      "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치 - 연합뉴스 한민족센터",
+      "targetName": "김민석"
+    },
+    "11eaa700d48041aeca4888c7c065b4776722941a0ede9f7a36fced1dbae220ec": {
+      "seenAt": "2026-11-23T03:11:16.035Z",
+      "title": "장동혁, 與 조희대 탄핵 추진에 “이재명 탈옥 탄핵”...한동훈 \"삼권분립 훼손\" - 신문고뉴스",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "bbef48a2cc297ff0a6f7f8b64bf67de466022b9747c9f4fa15c9542c45d33674",
+        "id": "2aeb11718db7edf0370ab53730a5c70c7b672ac01a3317bdea250ec737c37efe",
         "targetId": "kim_minseok",
         "targetName": "김민석",
         "targetTitle": "더불어민주당 최고위원",
-        "title": "[포토] 최고위 마친 김민석 대표 - 아시아경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pWDJjX3MyS1l4S1JyaXBabDZTMU1Hdks4YXZPVm9XelhiM2JFc3BTTTlhdzJRSVBNNXJqZk9reE85NWtrX1l3OGQ0YXRjLVNEejdOaGhFdEdVZjlRLTRJZQ?oc=5\" target=\"_blank\">[포토] 최고위 마친 김민석 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pWDJjX3MyS1l4S1JyaXBabDZTMU1Hdks4YXZPVm9XelhiM2JFc3BTTTlhdzJRSVBNNXJqZk9reE85NWtrX1l3OGQ0YXRjLVNEejdOaGhFdEdVZjlRLTRJZQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 01:39:33 GMT",
-        "source": "아시아경제",
-        "ageHours": 1.4
+        "title": "與 최고위 또 ‘신천지’ 충돌…김민석, “일제부역” 박선원에 경고 - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXa1J4WkhOdk5Zd3V3SmZhQXVkMC1wZm40WEZFYldOZE5xLVFlamZyOGozZlduTXQweTZLcF9qa3FRd0ZsS2JFY09sNldDMVNBQjJjWFJn?oc=5\" target=\"_blank\">與 최고위 또 ‘신천지’ 충돌…김민석, “일제부역” 박선원에 경고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXa1J4WkhOdk5Zd3V3SmZhQXVkMC1wZm40WEZFYldOZE5xLVFlamZyOGozZlduTXQweTZLcF9qa3FRd0ZsS2JFY09sNldDMVNBQjJjWFJn?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 03:05:06 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.1
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "a2befa8ae987bc8d20c9f85f751684886503dafaeb3ba2c40893aceb8e5fbe10",
+        "id": "15fee8da20f6e0f54a9acb27263af946bec8185e2a6c0eaa6125075f44695aeb",
         "targetId": "kim_minseok",
         "targetName": "김민석",
         "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치 - 연합뉴스 한민족센터",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBlQUJqTmZ0dTI3UXNwT1YwMjRSbDlTcWFXLWpuUWhGWDJOMzdCZTNoOGJBSVpFT1JfNGVyb3BrTUt4WkR2ellGdHJ1R2NSSDBZM2R3SkZaMFhIWktOdkM1UF9Mb2JNTGtIaUZEZFNFMmhsY1Ax?oc=5\" target=\"_blank\">김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스 한민족센터</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlQUJqTmZ0dTI3UXNwT1YwMjRSbDlTcWFXLWpuUWhGWDJOMzdCZTNoOGJBSVpFT1JfNGVyb3BrTUt4WkR2ellGdHJ1R2NSSDBZM2R3SkZaMFhIWktOdkM1UF9Mb2JNTGtIaUZEZFNFMmhsY1Ax?oc=5",
+        "title": "[포토] 생각에 잠긴 김민석 더불어민주당 대표 - 뉴데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9tclNLcENHNFM3Q0JNY2Rwd1ZIZm54aTktMW9HYktPU19Wa3VFUzNoZDFLeWRHTjF0b0pCWXloWklJeFdUZ3Btb3pYU1FORm01amxac3lsbDJiZW1nRk5fajdJaFNuRkc1ak1XSmctNzRYWFE0cWt4WlB6WdIBgAFBVV95cUxQMnFJMzhnbmIzSHJFU0J1WHJuZ0xZUXhtSy1yaG1GOXFLOXNMVDVidU1JQkVZUlo4SDFOVl9ZT3BISktrMTNmUkdnWVpQbEhCWDlKdlEtMVo2RUpUc0xlM2wtUWY0U1QxTWJQQU91TTdab1VsM2NHY3B5REdmYWNKSg?oc=5\" target=\"_blank\">[포토] 생각에 잠긴 김민석 더불어민주당 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tclNLcENHNFM3Q0JNY2Rwd1ZIZm54aTktMW9HYktPU19Wa3VFUzNoZDFLeWRHTjF0b0pCWXloWklJeFdUZ3Btb3pYU1FORm01amxac3lsbDJiZW1nRk5fajdJaFNuRkc1ak1XSmctNzRYWFE0cWt4WlB6WdIBgAFBVV95cUxQMnFJMzhnbmIzSHJFU0J1WHJuZ0xZUXhtSy1yaG1GOXFLOXNMVDVidU1JQkVZUlo4SDFOVl9ZT3BISktrMTNmUkdnWVpQbEhCWDlKdlEtMVo2RUpUc0xlM2wtUWY0U1QxTWJQQU91TTdab1VsM2NHY3B5REdmYWNKSg?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 02:25:00 GMT",
+        "source": "뉴데일리",
+        "ageHours": 0.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4baf4f075190191bdc8ebf10b56eb950fa2f5a0433fd03527bcc43d4af05a38e",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "신천지 조사 두고 최고위 또 충돌…김민석, 박선원에 구두 경고 - 노컷뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZ3dhRF9iWDVQdFhSbXpEaE5BQVZOeUtzWm9mR2R1OHFNQzhuazlBRFhENmZySlR1Nk83Sm9aSWFTV1VDZ21jUVJDaFZwYmdoZFE?oc=5\" target=\"_blank\">신천지 조사 두고 최고위 또 충돌…김민석, 박선원에 구두 경고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">노컷뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDZ3dhRF9iWDVQdFhSbXpEaE5BQVZOeUtzWm9mR2R1OHFNQzhuazlBRFhENmZySlR1Nk83Sm9aSWFTV1VDZ21jUVJDaFZwYmdoZFE?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 02:50:38 GMT",
+        "source": "노컷뉴스",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "85d357902ba6f962fc8078320ec811959bd6380c458189f4b3b41fdcb4d51a52",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치 - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBweDd4cVFSRkRpMmpnSEo3Q196ektzTHhvS0M3MUFTaTFFQ1lYY3YzZkIxSlpNTWJ0bklDYUhrYjYyMjZUTjNUVkJpNWV0VGMwc1d2QXJ6YUZDS1nSAWBBVV95cUxNZFIwa3BmVE9Gbk11MndhMzAwWVpZUGh6bDlWTG1CU1QtNDBTN01XZURITkFwbERpU1NmUlkwQ0VkWVhqZFYzVGxRWlJJTWg3dTFfMjdwVVBfeV9IX0VpeU8?oc=5\" target=\"_blank\">김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBweDd4cVFSRkRpMmpnSEo3Q196ektzTHhvS0M3MUFTaTFFQ1lYY3YzZkIxSlpNTWJ0bklDYUhrYjYyMjZUTjNUVkJpNWV0VGMwc1d2QXJ6YUZDS1nSAWBBVV95cUxNZFIwa3BmVE9Gbk11MndhMzAwWVpZUGh6bDlWTG1CU1QtNDBTN01XZURITkFwbERpU1NmUlkwQ0VkWVhqZFYzVGxRWlJJTWg3dTFfMjdwVVBfeV9IX0VpeU8?oc=5",
         "pubDate": "Mon, 23 Nov 2026 02:39:03 GMT",
-        "source": "연합뉴스 한민족센터",
-        "ageHours": 0.4
+        "source": "연합뉴스",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "44e9295387e2413a490a9c08c6c0c88e00afaa82fd77e6298199f5524fcceea7",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의 - 포커스인천",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1fejdlNWQ4eXBLR2sxZzBxc3pYTDhWUGRVLWcwaHgtM0dKT1IzaWRwYlJuVnlxRUFpaENsbGlycWx6aVJCVW40QVhhWUlsX3FudW56X1Y3VXRfQ054LVk2OVI2b2hubDA5ekEyR3pB0gFyQVVfeXFMTmQteGwwTGFsQUdzWjZsVlo0QkM1eXpMZGtoR3NwdVlDRTFMb3o0al9ucHc5Q29lVk1CT1RiWmdJTHc0a3RCRXFVUWJMLVhTLTB2YVNFOElRdFNaTU1UbjRRLUJnV3ZoWEgwOUpMaVdFMlB3?oc=5\" target=\"_blank\">송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">포커스인천</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fejdlNWQ4eXBLR2sxZzBxc3pYTDhWUGRVLWcwaHgtM0dKT1IzaWRwYlJuVnlxRUFpaENsbGlycWx6aVJCVW40QVhhWUlsX3FudW56X1Y3VXRfQ054LVk2OVI2b2hubDA5ekEyR3pB0gFyQVVfeXFMTmQteGwwTGFsQUdzWjZsVlo0QkM1eXpMZGtoR3NwdVlDRTFMb3o0al9ucHc5Q29lVk1CT1RiWmdJTHc0a3RCRXFVUWJMLVhTLTB2YVNFOElRdFNaTU1UbjRRLUJnV3ZoWEgwOUpMaVdFMlB3?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 13:55:49 GMT",
+        "source": "포커스인천",
+        "ageHours": 13.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "84696f657c2dab60cf90115d539824c5b17756489c44bcd0ce366268151d0fed",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "“당명 속 ‘조국’ 제 이름은 아니지만”…당명 개정 제안, 확장성 강조 - 동아일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE00bDZoVmhyWHpmcjZ5VHo0QVF3TEI4NXUtTF9xSkdna05SdnRQTmVvRWM0UC1LY2liSnFvQVc3NXBybEw2QjZILXlLenNVR0pILVNURGtadDROWlBwWnQzLVhhU1RRX0RCSm4tbUdTMG82YURHekkw0gFmQVVfeXFMUHUzMTVxYjJJcmd2bmpJNVpvNXdfUjRabUF2clRoaWxRTi1jQjgzS3VudUp0bzh1LXI3Ymd3dUlhS3kzUEVGZGtMSlhxNGdqRFhVaFdLR0FxYTR6WVk2OU83bUdEc0dR?oc=5\" target=\"_blank\">“당명 속 ‘조국’ 제 이름은 아니지만”…당명 개정 제안, 확장성 강조</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00bDZoVmhyWHpmcjZ5VHo0QVF3TEI4NXUtTF9xSkdna05SdnRQTmVvRWM0UC1LY2liSnFvQVc3NXBybEw2QjZILXlLenNVR0pILVNURGtadDROWlBwWnQzLVhhU1RRX0RCSm4tbUdTMG82YURHekkw0gFmQVVfeXFMUHUzMTVxYjJJcmd2bmpJNVpvNXdfUjRabUF2clRoaWxRTi1jQjgzS3VudUp0bzh1LXI3Ymd3dUlhS3kzUEVGZGtMSlhxNGdqRFhVaFdLR0FxYTR6WVk2OU83bUdEc0dR?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 05:39:00 GMT",
+        "source": "동아일보",
+        "ageHours": 21.5
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "f9f1092e837e25379ad878614171f99676a0b9f701b25cb3e98cac8ec4a34905",
-    "title": "한동훈→보수의 심장 TK(대구 경북)서 활동 본격화 - 뉴스줌",
+    "postId": "11eaa700d48041aeca4888c7c065b4776722941a0ede9f7a36fced1dbae220ec",
+    "title": "장동혁, 與 조희대 탄핵 추진에 “이재명 탈옥 탄핵”...한동훈 \"삼권분립 훼손\" - 신문고뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45103444973",
-    "sentAt": "2026-11-23T03:01:15.857Z"
+    "runId": "45104443274",
+    "sentAt": "2026-11-23T03:11:15.712Z"
   }
 }
