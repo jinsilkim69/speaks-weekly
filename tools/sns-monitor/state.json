@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T06:51:15.816Z",
+  "lastCheckedAt": "2026-11-23T07:01:22.288Z",
   "seenPostIds": {
-    "2bd3fc185d73cd184984cd2e20c65fc2ff960151b9df9251b73f6e3a47bdd019": {
-      "seenAt": "2026-11-20T02:41:22.861Z",
-      "title": "한동훈, 조희대 탄핵 추진에 “국헌문란 목적의 내란”… 이준석은 李 재판 재개 촉구 - 세계일보",
-      "targetName": "한동훈"
-    },
-    "7c0597da2c850cc1f45b4322e15bb8d94f969506716eeaf3e1bc790461396eea": {
-      "seenAt": "2026-11-20T02:51:18.353Z",
-      "title": "한동훈 \"조희대 탄핵은 국헌문란 목적의 내란…가능성 0%\" - 머니투데이 - 머니투데이",
-      "targetName": "한동훈"
-    },
-    "3913976aac98f567b7591313c32f25f79a4e7767bfb2ad873c4c2f4adbd3c4b4": {
-      "seenAt": "2026-11-20T02:51:19.011Z",
-      "title": "한동훈 \"대법원장 탄핵은 내란…민주, 헌재서 기각될 줄 알아\" - 더팩트",
-      "targetName": "한동훈"
-    },
     "8a80344f66d380a60e3e2e356784af4995956c7b0b3e7c5e2c3b52f5d7f8a036": {
       "seenAt": "2026-11-20T02:51:19.698Z",
       "title": "[막전막후] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나 - 펜앤마이크",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T06:51:18.291Z",
       "title": "Trump says he hopes Nvidia rehires Jensen Huang: ‘Best thing for the USA’ - New York Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "e18f3eb476de7184b3e032205fc616887f6139c582ebed2df3527b3ae8c83a70": {
+      "seenAt": "2026-11-23T07:01:23.965Z",
+      "title": "김민석 대표, 신천지 의혹 '日 부역자' 언급 박선원에 구두 경고 - 경기일보",
+      "targetName": "김민석"
+    },
+    "f7986f08d0baabe43e041faa25d15f0505648ae8de0b8cf72addc9be9d557cb6": {
+      "seenAt": "2026-11-23T07:01:24.730Z",
+      "title": "[포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표 - 파이낸스투데이",
+      "targetName": "신장식"
+    },
+    "fd0937f96fd14f4eeb906618982d4038d3251ecf30069fa36b8fd6d49ff05db5": {
+      "seenAt": "2026-11-23T07:01:25.467Z",
+      "title": "박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "e18f3eb476de7184b3e032205fc616887f6139c582ebed2df3527b3ae8c83a70",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 대표, 신천지 의혹 '日 부역자' 언급 박선원에 구두 경고 - 경기일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PUGZFa3l5V1luRWNaTjVyaE1SU09PUHRfQXoyOEJLblBQZFhzTERlZXE0eWh6UUhNTnQxWVZsMi1EdE0tT0FWRERaZjRiUHcxYW82c1Y5SEpTU00?oc=5\" target=\"_blank\">김민석 대표, 신천지 의혹 '日 부역자' 언급 박선원에 구두 경고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PUGZFa3l5V1luRWNaTjVyaE1SU09PUHRfQXoyOEJLblBQZFhzTERlZXE0eWh6UUhNTnQxWVZsMi1EdE0tT0FWRERaZjRiUHcxYW82c1Y5SEpTU00?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 06:13:48 GMT",
-        "source": "경기일보",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f7986f08d0baabe43e041faa25d15f0505648ae8de0b8cf72addc9be9d557cb6",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "[포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표 - 파이낸스투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9UajF0VDN3WUpWYnM4SktUNlFQT2pUNjNqSHYtN09vQmRSQjhHQ0E5Ri16dnExSlJsYi1fOThqcFVYRWpZN2huOTRZOUlra3g0dlk2VGxUM0FOQVBBVFBPYnFIN1BfZl9pYWwzSQ?oc=5\" target=\"_blank\">[포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸스투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UajF0VDN3WUpWYnM4SktUNlFQT2pUNjNqSHYtN09vQmRSQjhHQ0E5Ri16dnExSlJsYi1fOThqcFVYRWpZN2huOTRZOUlra3g0dlk2VGxUM0FOQVBBVFBPYnFIN1BfZl9pYWwzSQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 06:05:07 GMT",
-        "source": "파이낸스투데이",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "fd0937f96fd14f4eeb906618982d4038d3251ecf30069fa36b8fd6d49ff05db5",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5PVzlTVXpQVVpPUHBseUktTDdSVTBlc3U4WEVYVi00Ymc3REwxU1VLbmxPNUZlR3U2bHd0VjhpXzVtUjJnTFVBWEk5MjlFWThNMTgwSE05aGE4Sk90UTNiZVMycHN0LXdVNnRqX9IBckFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUQ?oc=5\" target=\"_blank\">박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PVzlTVXpQVVpPUHBseUktTDdSVTBlc3U4WEVYVi00Ymc3REwxU1VLbmxPNUZlR3U2bHd0VjhpXzVtUjJnTFVBWEk5MjlFWThNMTgwSE05aGE4Sk90UTNiZVMycHN0LXdVNnRqX9IBckFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 06:20:11 GMT",
-        "source": "머니투데이",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "e53867ba93a1b901086bcda0dfadf2aa6e3a4f16d622d39b9e6892ecf8c411de",
@@ -2581,13 +2533,61 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "69af4e4c416a1706de8cfafbe2195cbaea329f933fe4310da56c796c84e8539a",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUUo5dzBfbUo4dmFBeUl2QXYzX2JhSDU4aENXNWVXRS15Q0ZWRHNXODU4NlRkdGR5S1Jha0RTVmJFUUxtRFIzdXc0QWZZWFA0ZFBzeElCWFBIdFhfUHI0WE8zQWFaSHNscHhuZUYwQdIBb0FVX3lxTE1MUUo5dzBfbUo4dmFBeUl2QXYzX2JhSDU4aENXNWVXRS15Q0ZWRHNXODU4NlRkdGR5S1Jha0RTVmJFUUxtRFIzdXc0QWZZWFA0ZFBzeElCWFBIdFhfUHI0WE8zQWFaSHNscHhuZUYwQQ?oc=5\" target=\"_blank\">오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUUo5dzBfbUo4dmFBeUl2QXYzX2JhSDU4aENXNWVXRS15Q0ZWRHNXODU4NlRkdGR5S1Jha0RTVmJFUUxtRFIzdXc0QWZZWFA0ZFBzeElCWFBIdFhfUHI0WE8zQWFaSHNscHhuZUYwQdIBb0FVX3lxTE1MUUo5dzBfbUo4dmFBeUl2QXYzX2JhSDU4aENXNWVXRS15Q0ZWRHNXODU4NlRkdGR5S1Jha0RTVmJFUUxtRFIzdXc0QWZZWFA0ZFBzeElCWFBIdFhfUHI0WE8zQWFaSHNscHhuZUYwQQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:37:14 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "e4a44437d0010fafba687da8987eab4d7eb601e040708073929298cc0c637f96",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "윤석열 사형 구형일과 맞춘 한동훈 제명, 국민의힘의 숨은 전략? - 공감신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmdHg4MmhqVzBJdXh3N2FaVzJxdG84SDFFRGtCTEZJSDdRZ1U1MTRaSmJCVXllSWZlV1VtNF9hdWJONFp0YTFmREZKVE1IZUYyNWdIelBGVGtqRUV3TGJNRHJRLVlESTlu?oc=5\" target=\"_blank\">윤석열 사형 구형일과 맞춘 한동훈 제명, 국민의힘의 숨은 전략?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">공감신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmdHg4MmhqVzBJdXh3N2FaVzJxdG84SDFFRGtCTEZJSDdRZ1U1MTRaSmJCVXllSWZlV1VtNF9hdWJONFp0YTFmREZKVE1IZUYyNWdIelBGVGtqRUV3TGJNRHJRLVlESTlu?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 06:43:26 GMT",
+        "source": "공감신문",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ccb06fdf2372963046c9019fc57b4223df4c128a004825a75c40a01608616051",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations - Forbes",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbG4xZTAydWxlbWc4YXplRThOSkF1UXl3clBjbFNPLWdsUkdLZUR2b3dIckk4TklIRm5zb1ptQXVHcHJZX0tvR1M1QjJhWGZpWEE0aUZXaTVmYzctYTBTczJnNHk5THAwcC1mMFp6RkRDT2N2ZFhyMEtiUmw3d2lKdVNET0pEUjFTbWtNR0NaaDMyN0FTdlFXNWJzdXlKVkpabEJJakhnZGlEZDBQN2lKd1haWlNvZDliTHZBUFNIQmdDeDdsRFctYjVNYmMxdm9Lbk0xWHVvN1BUQ2hsYXc?oc=5\" target=\"_blank\">Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbG4xZTAydWxlbWc4YXplRThOSkF1UXl3clBjbFNPLWdsUkdLZUR2b3dIckk4TklIRm5zb1ptQXVHcHJZX0tvR1M1QjJhWGZpWEE0aUZXaTVmYzctYTBTczJnNHk5THAwcC1mMFp6RkRDT2N2ZFhyMEtiUmw3d2lKdVNET0pEUjFTbWtNR0NaaDMyN0FTdlFXNWJzdXlKVkpabEJJakhnZGlEZDBQN2lKd1haWlNvZDliTHZBUFNIQmdDeDdsRFctYjVNYmMxdm9Lbk0xWHVvN1BUQ2hsYXc?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 06:02:45 GMT",
+        "source": "Forbes",
+        "ageHours": 1
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "5a7da346519eb57ba7d067b9b658d5350ba399fa2f7f1c1176cc39200177af95",
-    "title": "Trump says he hopes Nvidia rehires Jensen Huang: ‘Best thing for the USA’ - New York Post",
+    "postId": "fd0937f96fd14f4eeb906618982d4038d3251ecf30069fa36b8fd6d49ff05db5",
+    "title": "박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이 - 머니투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45126921738",
-    "sentAt": "2026-11-23T06:51:17.960Z"
+    "runId": "45128082952",
+    "sentAt": "2026-11-23T07:01:25.100Z"
   }
 }

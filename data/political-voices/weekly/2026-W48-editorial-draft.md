@@ -1379,3 +1379,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 대표, 신천지 의혹 '日 부역자' 언급 박선원에 구두 경고 - 경기일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 대표, 신천지 의혹 '日 부역자' 언급 박선원에 구두 경고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PUGZFa3l5V1luRWNaTjVyaE1SU09PUHRfQXoyOEJLblBQZFhzTERlZXE0eWh6UUhNTnQxWVZsMi1EdE0tT0FWRERaZjRiUHcxYW82c1Y5SEpTU00?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** [포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표 - 파이낸스투데이
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 당명 변경 추진 밝히는 신장식 조국혁신당 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9UajF0VDN3WUpWYnM4SktUNlFQT2pUNjNqSHYtN09vQmRSQjhHQ0E5Ri16dnExSlJsYi1fOThqcFVYRWpZN2huOTRZOUlra3g0dlk2VGxUM0FOQVBBVFBPYnFIN1BfZl9pYWwzSQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 박선원 "김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박선원 "김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5PVzlTVXpQVVpPUHBseUktTDdSVTBlc3U4WEVYVi00Ymc3REwxU1VLbmxPNUZlR3U2bHd0VjhpXzVtUjJnTFVBWEk5MjlFWThNMTgwSE05aGE4Sk90UTNiZVMycHN0LXdVNnRqX9IBckFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUQ?oc=5)
+
+---
+
