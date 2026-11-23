@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T01:31:14.814Z",
+  "lastCheckedAt": "2026-11-23T01:41:20.534Z",
   "seenPostIds": {
     "21a8495681b51657107fdaa4d6397210f9f5a2112be79f4a82b3329f08dbd897": {
       "seenAt": "2026-11-19T13:51:18.286Z",
@@ -2500,14 +2500,29 @@
       "seenAt": "2026-11-23T01:21:14.509Z",
       "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader | NewsNation Live - NewsNation",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "107b9a14da0b4cba3b15c7155e8c9a8e4caa2c9df90c66c732d40ae3cfd793e4": {
+      "seenAt": "2026-11-23T01:41:22.186Z",
+      "title": "김민석, 지지율 정체·계파 갈등 이중고…취임 100일 메시지 '주목' - 청주일보",
+      "targetName": "김민석"
+    },
+    "445c4ab80c9bfe5ec55a671f57c1813640b49015a073fbbf1c1fde46d27df477": {
+      "seenAt": "2026-11-23T01:41:23.004Z",
+      "title": "\"자기 밥그릇 챙기는 정청래... 일한 것이 없어\" #shorts - 오마이TV - OhmyNews",
+      "targetName": "정청래"
+    },
+    "ace7a475e71b2fda7c7ca856759681a68d89eb992c35a072192ac2681fa4ac69": {
+      "seenAt": "2026-11-23T01:41:23.808Z",
+      "title": "[포토] 천막에서 최고위원회의 주재하는 신장식 대표 - 파이낸스투데이",
+      "targetName": "신장식"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "e4fc992985082c556485e3e376196f7de6697f964b0a539028d438bf75aecbfc",
-    "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader | NewsNation Live - NewsNation",
+    "postId": "ace7a475e71b2fda7c7ca856759681a68d89eb992c35a072192ac2681fa4ac69",
+    "title": "[포토] 천막에서 최고위원회의 주재하는 신장식 대표 - 파이낸스투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45094069990",
-    "sentAt": "2026-11-23T01:21:13.929Z"
+    "runId": "45095926572",
+    "sentAt": "2026-11-23T01:41:23.401Z"
   }
 }

@@ -404,3 +404,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 지지율 정체·계파 갈등 이중고…취임 100일 메시지 '주목' - 청주일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 지지율 정체·계파 갈등 이중고…취임 100일 메시지 '주목'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE9SRUtWRTdFQldMZWoxREhKNW9POVhiUU5jM05qeVB3NnVPT29ScFRNY1pZR0pEYnE5UGNxZHVDcFBBTmdzTTJ0Z1cxQVdjb2tmYXlFYTRrWXExSTk4alp2cU5OcUpnaDRScmFN?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** "자기 밥그릇 챙기는 정청래... 일한 것이 없어" #shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "자기 밥그릇 챙기는 정청래... 일한 것이 없어" #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE5yOW9WZ05sV2I5YzQ2bEs5eFRHMVNkdmJkZlViS2gxUU1qZEJPcXpkaldvN21DZ2VuVGNBOXZfRDlBLTJHajFaU0VYcDdNRG9BUTFUdDUtV3lfOFZfWXdJeHhMQXN2blVDamZLVjFnVU16d3JxT1ZadmJ6b3hqYkk?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** [포토] 천막에서 최고위원회의 주재하는 신장식 대표 - 파이낸스투데이
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 천막에서 최고위원회의 주재하는 신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFBwVXZtamw1YTFBME9vZl9sbmlEUE1kclM3ajZraFdoenltRkFpWFJYODdRX2pKUVBXVzhPTHcwVzgyN203RzZWREJ4cXZxdmlBZVg3ajFiM0ZMWUkxajEwczVWQlRSakFlbHhDQw?oc=5)
+
+---
+
