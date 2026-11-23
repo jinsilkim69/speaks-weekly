@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T14:51:16.269Z",
+  "lastCheckedAt": "2026-11-23T15:01:15.147Z",
   "seenPostIds": {
-    "450b1d7468b9561898931355f4a6d03f40b8377ff4a2e2e156a1f78d209f7991": {
-      "seenAt": "2026-11-20T11:11:21.307Z",
-      "title": "김민석, 수출 1조달러에 \"日도 도달 못한 숫자…국민 모두의 성과\" - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
-    "c129ec0bf4ac579a79cc560528e8dbaffc6b42a742506d2942f91da70227c48a": {
-      "seenAt": "2026-11-20T11:11:22.071Z",
-      "title": "President Trump’s social media pardon of Pete Rose raises questions worth asking | Opinion - Inquirer.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "eefdda969d947e64c15994f7f891f76e3100a29655af218a209d0c0ebb54e4da": {
-      "seenAt": "2026-11-20T11:21:22.056Z",
-      "title": "'마이 케이팝 스타' 시상식서 발언하는 천하람 원내대표 - 뉴스핌",
-      "targetName": "천하람"
-    },
     "4bf2b98c39f79df6ec84fb26511606d9442dfe4e87f4c0c1c35540a0f9ed290f": {
       "seenAt": "2026-11-20T12:21:20.202Z",
       "title": "이재명 대통령, 수석보좌관회의 발언 - 뉴스1",
@@ -2515,31 +2500,24 @@
       "seenAt": "2026-11-23T14:51:18.713Z",
       "title": "Trump Successfully Begs for Jensen Huang’s Return - The New Republic",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8b3568a699dc9f65ffa4439adcbbbeda402033f74d7cf91a02422e0a88232f51": {
+      "seenAt": "2026-11-23T15:01:16.483Z",
+      "title": "Trump doubles down on call for Nvidia to rehire Jensen Huang amid alleged Chinese spy scandal - Fox Business",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "6496090943be583faea73b35291cddda46a04c0561ad23e477c350cc698cd9bf": {
+      "seenAt": "2026-11-23T15:01:17.258Z",
+      "title": "[김종석의 리포트]“尹 사형 구형일 맞춰 한동훈 제명” - 채널A",
+      "targetName": "한동훈"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "8b3568a699dc9f65ffa4439adcbbbeda402033f74d7cf91a02422e0a88232f51",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump doubles down on call for Nvidia to rehire Jensen Huang amid alleged Chinese spy scandal - Fox Business",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxONFJrVGN5d3FSZlNoRDBkX29hc0tMNG5EaHAzenpHMnJ0QnVpemQwY3ZHRkJTU2NoU0Vzd2tpR0ZndU9QcWw3cDd1aV9GZ3R3djQ4c0hYbkduSWNDdG1ZTklzRlJHUTh4RkR2Y1hicUZHUXVCcGJZbURSLW9BVUVCTXVocEFxWUdxWWNZUmUxV3p0eWlGTlNlZlpJcW1iOXNDTXRFaEZhaUtWblJjS0t3NXhkMGJaeWJqZ1hFeNIBwgFBVV95cUxNYlZiaHhyS1Vqbnk5YlZVZWNxUm1UaFNCc0FYTXE4dTJqMktQZVN0UjBHYnlabXFRd0ZTSWwwenV1YmdVU1BGYzVvLTJpd2lWQ3Y1MmtKMDNtQWl3VEUxb2F3T24wY2tfYmVHZjNXQlF4N0JrQmJWTXVFMnlZRVJFQTBDcnJlZjI0ZVg3V2t3NnNaSEJGdzVPN1NxdnhFXzY2b3VVbWlxOHJDTXNVa1JWQks5LWFoWW5zZ2ozbVFEWl93QQ?oc=5\" target=\"_blank\">Trump doubles down on call for Nvidia to rehire Jensen Huang amid alleged Chinese spy scandal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font>",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONFJrVGN5d3FSZlNoRDBkX29hc0tMNG5EaHAzenpHMnJ0QnVpemQwY3ZHRkJTU2NoU0Vzd2tpR0ZndU9QcWw3cDd1aV9GZ3R3djQ4c0hYbkduSWNDdG1ZTklzRlJHUTh4RkR2Y1hicUZHUXVCcGJZbURSLW9BVUVCTXVocEFxWUdxWWNZUmUxV3p0eWlGTlNlZlpJcW1iOXNDTXRFaEZhaUtWblJjS0t3NXhkMGJaeWJqZ1hFeNIBwgFBVV95cUxNYlZiaHhyS1Vqbnk5YlZVZWNxUm1UaFNCc0FYTXE4dTJqMktQZVN0UjBHYnlabXFRd0ZTSWwwenV1YmdVU1BGYzVvLTJpd2lWQ3Y1MmtKMDNtQWl3VEUxb2F3T24wY2tfYmVHZjNXQlF4N0JrQmJWTXVFMnlZRVJFQTBDcnJlZjI0ZVg3V2t3NnNaSEJGdzVPN1NxdnhFXzY2b3VVbWlxOHJDTXNVa1JWQks5LWFoWW5zZ2ozbVFEWl93QQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 07:48:00 GMT",
-        "source": "Fox Business",
-        "ageHours": 7.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "7ff10bcdc53ecca7d14378b4b985107cd977aa249b73b04176ab8b0bef0d3b5d",
-    "title": "Trump Successfully Begs for Jensen Huang’s Return - The New Republic",
+    "postId": "6496090943be583faea73b35291cddda46a04c0561ad23e477c350cc698cd9bf",
+    "title": "[김종석의 리포트]“尹 사형 구형일 맞춰 한동훈 제명” - 채널A",
     "bot": "jongsuk_pol_bot",
-    "runId": "45198626446",
-    "sentAt": "2026-11-23T14:51:18.382Z"
+    "runId": "45200448181",
+    "sentAt": "2026-11-23T15:01:16.839Z"
   }
 }

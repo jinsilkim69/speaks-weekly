@@ -2523,3 +2523,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump doubles down on call for Nvidia to rehire Jensen Huang amid alleged Chinese spy scandal - Fox Business
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump doubles down on call for Nvidia to rehire Jensen Huang amid alleged Chinese spy scandal
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMivAFBVV95cUxONFJrVGN5d3FSZlNoRDBkX29hc0tMNG5EaHAzenpHMnJ0QnVpemQwY3ZHRkJTU2NoU0Vzd2tpR0ZndU9QcWw3cDd1aV9GZ3R3djQ4c0hYbkduSWNDdG1ZTklzRlJHUTh4RkR2Y1hicUZHUXVCcGJZbURSLW9BVUVCTXVocEFxWUdxWWNZUmUxV3p0eWlGTlNlZlpJcW1iOXNDTXRFaEZhaUtWblJjS0t3NXhkMGJaeWJqZ1hFeNIBwgFBVV95cUxNYlZiaHhyS1Vqbnk5YlZVZWNxUm1UaFNCc0FYTXE4dTJqMktQZVN0UjBHYnlabXFRd0ZTSWwwenV1YmdVU1BGYzVvLTJpd2lWQ3Y1MmtKMDNtQWl3VEUxb2F3T24wY2tfYmVHZjNXQlF4N0JrQmJWTXVFMnlZRVJFQTBDcnJlZjI0ZVg3V2t3NnNaSEJGdzVPN1NxdnhFXzY2b3VVbWlxOHJDTXNVa1JWQks5LWFoWW5zZ2ozbVFEWl93QQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [김종석의 리포트]“尹 사형 구형일 맞춰 한동훈 제명” - 채널A
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “尹 사형 구형일 맞춰 한동훈 제명”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fQk5hcU4xVlRMLXB6eVpMb1NObi1xRW1sYkpNaUJHQlN0cDhMV1pfcEUxa3VFbHk4cHVWUVZyS1Jhc0VyRmZSbmw3T25aX1dXRjNQZ1ExYXlrX0ZuNm9ZTXhfONIBY0FVX3lxTE9fQk5hcU4xVlRMLXB6eVpMb1NObi1xRW1sYkpNaUJHQlN0cDhMV1pfcEUxa3VFbHk4cHVWUVZyS1Jhc0VyRmZSbmw3T25aX1dXRjNQZ1ExYXlrX0ZuNm9ZTXhfOA?oc=5)
+
+---
+
