@@ -2679,3 +2679,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Schumer faces tall task of working with Trump - KATU
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Schumer faces tall task of working with Trump
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRTNkSzVnX0VFTDR1bmItUlM5QlVibTZzRHJGLUM5Z0tSTTRhcXZaa2JzY2tDX3VMSGZkb0M4c3RGbE1LdEpuUTFwclR2Qlp3UldLVEpfMHYxaVhUcWMyQ1dDVzRXX2I0SXB3X0NHX0lUNFpxX3U5Sm91bUlfYlJCcmNMQ3ZtSDRzTExkclRyLVQ4czVtaFMwdm1XajBSYTgtckMwSjJKMVF5M0pkVTdoVHM3bWR3VVhHQ3lqcmtoZzlSTmx6YVlyZFlZZWY0LWpuSDV4QkJ4eDJzV09HdEFldHg1WEs2azU2czVSOE1ueVc?oc=5)
+
+---
+
