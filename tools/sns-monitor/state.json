@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T17:33:45.262Z",
+  "lastCheckedAt": "2026-11-23T17:41:21.253Z",
   "seenPostIds": {
     "4e759d11bae64c9e296c80504446143d0b73f55b877028e420f7431ae9262166": {
       "seenAt": "2026-11-20T15:11:19.655Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-23T17:21:19.442Z",
       "title": "Schumer faces tall task of working with Trump - KATU",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "fe3ba6187a393282454572375cfe7e4e2c1b4f7bdd8698298ce963bf53f9e811": {
+      "seenAt": "2026-11-23T17:41:22.724Z",
+      "title": "What Trump told PBS News about Jensen Huang before Nvidia reinstatement - PBS",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "19709db5c215fff61c95991e6ecb80841deada0ba12be27e429e3d81f6653f81",
-    "title": "Schumer faces tall task of working with Trump - KATU",
+    "postId": "fe3ba6187a393282454572375cfe7e4e2c1b4f7bdd8698298ce963bf53f9e811",
+    "title": "What Trump told PBS News about Jensen Huang before Nvidia reinstatement - PBS",
     "bot": "jongsuk_pol_bot",
-    "runId": "45226691010",
-    "sentAt": "2026-11-23T17:21:18.958Z"
+    "runId": "45230297559",
+    "sentAt": "2026-11-23T17:41:22.041Z"
   }
 }
