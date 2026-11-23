@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T07:21:14.893Z",
+  "lastCheckedAt": "2026-11-23T07:31:13.231Z",
   "seenPostIds": {
-    "c1510a14c287e3f7bb8dd3d256a8f84750ab7239cd5242e1c31fa9682d825836": {
-      "seenAt": "2026-11-20T03:11:18.597Z",
-      "title": "Donald Trump Spirals on Truth Social on Way Home From Major Summit - The Daily Beast",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "f6378a6f67f2a245a0f37deaf3ac43bfb3f92fdfc3eff3d128b1f96b61615b64": {
-      "seenAt": "2026-11-20T03:21:19.969Z",
-      "title": "Trump says he's pardoned deceased MLB slugger Pete Rose - CBS News",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "eb46d2fb55a19fcd25b80828e8c6128d54fdb95d8515a115fc79a4bb5c032aac": {
-      "seenAt": "2026-11-20T03:21:20.781Z",
-      "title": "Late MLB Star Pete Rose Posthumously Pardoned by President Trump 2 Years After His Death - Us Weekly",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "a73fa6e69f07caa7652f5542035abe798ee07ee8980e07f64636a5622f1c0cc6": {
       "seenAt": "2026-11-20T03:21:21.498Z",
       "title": "한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이 - 머니투데이",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T07:21:17.726Z",
       "title": "‘조작 징계’ 추가 폭로… ‘尹 구형 맞춰 한동훈 제명 기획’ - 아시아타임즈",
       "targetName": "한동훈"
+    },
+    "67c0503b30b9999d7e5bacaac2b4cc70d423de3d72c58388f42e50d5b8dc67fa": {
+      "seenAt": "2026-11-23T07:31:14.306Z",
+      "title": "與박선원, 김민석 '구두 경고'에 \"다른 최고위원들 발언도 경고해달라\" - 뉴시스",
+      "targetName": "김민석"
+    },
+    "1b65e2bee58c31ba85b183e2166a0a4b144c86d51e5cc04a947335a195d3adeb": {
+      "seenAt": "2026-11-23T07:31:14.918Z",
+      "title": "지지율 떨어진 김민석호, 앞길도 첩첩산중 … 신천지·조희대·부동산·증시 '퇴로가 없다' - 뉴데일리",
+      "targetName": "김민석"
+    },
+    "178c3351c1f976d1f6965550dbf765e17d5deb34ba65e34e20b09d6150782511": {
+      "seenAt": "2026-11-23T07:31:15.578Z",
+      "title": "김민석 100일 앞두고 '석청 대전'...'콩가루' 되는 민주당 - 자유일보",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "67c0503b30b9999d7e5bacaac2b4cc70d423de3d72c58388f42e50d5b8dc67fa",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "與박선원, 김민석 '구두 경고'에 \"다른 최고위원들 발언도 경고해달라\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WUVVhVXoyLUZEOWVIQkZpblltNF96SUZ2MGJ4ZnFNcUJ3UUZleUdVYWhPa1d6QnI3b0kxRkpEejQ2T0dNdk1TaFBTcW9jS3ZXN0lYaUYyaVkxZTJFY1dhQ9IBeEFVX3lxTE83aVVKNnVDb0NXdGtYQ2JjTUkzOFdzczNTTUZTOENRcEFuNl8yckVNVjAzVGZ4Qk9CUjE1RnZyQlNoekJaeTdaTnhRS2RWLVRTYzJHWC1Db2J2dlBHUm5TU0FuSzE0SGtSSVIzRFhJZmlaZ2lLdEUzSw?oc=5\" target=\"_blank\">與박선원, 김민석 '구두 경고'에 \"다른 최고위원들 발언도 경고해달라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WUVVhVXoyLUZEOWVIQkZpblltNF96SUZ2MGJ4ZnFNcUJ3UUZleUdVYWhPa1d6QnI3b0kxRkpEejQ2T0dNdk1TaFBTcW9jS3ZXN0lYaUYyaVkxZTJFY1dhQ9IBeEFVX3lxTE83aVVKNnVDb0NXdGtYQ2JjTUkzOFdzczNTTUZTOENRcEFuNl8yckVNVjAzVGZ4Qk9CUjE1RnZyQlNoekJaeTdaTnhRS2RWLVRTYzJHWC1Db2J2dlBHUm5TU0FuSzE0SGtSSVIzRFhJZmlaZ2lLdEUzSw?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 06:54:47 GMT",
-        "source": "뉴시스",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "1b65e2bee58c31ba85b183e2166a0a4b144c86d51e5cc04a947335a195d3adeb",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "지지율 떨어진 김민석호, 앞길도 첩첩산중 … 신천지·조희대·부동산·증시 '퇴로가 없다' - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE04Z1JOS0VuN0tIMS1RZklaZ3lKemRjVW9fTHFMQzJnNHBiNDJUVzhYd3pyYmNSdEY3dEJnSU9TcF9GcFB2S0lhdGpUbGNwTlE5T2V0OE1PQ29lQ09VOWdnR1l5c1I2YlJnMklRbkFocmw5d2s1LUtKVVQyZw?oc=5\" target=\"_blank\">지지율 떨어진 김민석호, 앞길도 첩첩산중 … 신천지·조희대·부동산·증시 '퇴로가 없다'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04Z1JOS0VuN0tIMS1RZklaZ3lKemRjVW9fTHFMQzJnNHBiNDJUVzhYd3pyYmNSdEY3dEJnSU9TcF9GcFB2S0lhdGpUbGNwTlE5T2V0OE1PQ29lQ09VOWdnR1l5c1I2YlJnMklRbkFocmw5d2s1LUtKVVQyZw?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:50:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 1.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "178c3351c1f976d1f6965550dbf765e17d5deb34ba65e34e20b09d6150782511",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 100일 앞두고 '석청 대전'...'콩가루' 되는 민주당 - 자유일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBKY04yYm9KcXpEb2cyLUtUamdBWDMwS00wekVXbDBRSlZmM0ctYlprN1pkUWdPNFF5d0NwdkRYSkJaY3NCRm91YTRlbko5ckUtYWtGNmZoMW16MmVUeWRDdHBSbnlYVWw3Zmxz0gFvQVVfeXFMUFBTeHl2VXh5NS1PcnZQZHk1ODI3WGl1ZVZYcDNmYXZMLUttYVZzdGw3T3lkUHpqN0ZzY2dFaFlSekh5X2pBVHNldmdUWlRjcEhPRExLV05iMm9zN1Npdm5BS21xUDVfYzNzcUdPUHJJ?oc=5\" target=\"_blank\">김민석 100일 앞두고 '석청 대전'...'콩가루' 되는 민주당</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">자유일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKY04yYm9KcXpEb2cyLUtUamdBWDMwS00wekVXbDBRSlZmM0ctYlprN1pkUWdPNFF5d0NwdkRYSkJaY3NCRm91YTRlbko5ckUtYWtGNmZoMW16MmVUeWRDdHBSbnlYVWw3Zmxz0gFvQVVfeXFMUFBTeHl2VXh5NS1PcnZQZHk1ODI3WGl1ZVZYcDNmYXZMLUttYVZzdGw3T3lkUHpqN0ZzY2dFaFlSekh5X2pBVHNldmdUWlRjcEhPRExLV05iMm9zN1Npdm5BS21xUDVfYzNzcUdPUHJJ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 06:39:00 GMT",
-        "source": "자유일보",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "7f27120ebd0ab3bee607e030288a1733738a5a49083872a67b3a9930a1c7778a",
@@ -2597,13 +2549,77 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "cae117e99a3b5aad3ef06fe579aadfeaba72f4aef23b49549dba5c41184558f3",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "“윤석열 구형일 맞춰 한동훈 제명···강성지지층 노린 십자가 처형 전략” - 주간경향",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mZnZ2VDhVbXBFT1d0TjRxZmpDZGo4TnRBM29ITFpxTGFLdWc0TExjMS1vQnZpdHUxemx6ZkRZRWs5TGVyZW1JaTNYeDhuWE9ObzhrekNxRUxrSW1rUnc?oc=5\" target=\"_blank\">“윤석열 구형일 맞춰 한동훈 제명···강성지지층 노린 십자가 처형 전략”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mZnZ2VDhVbXBFT1d0TjRxZmpDZGo4TnRBM29ITFpxTGFLdWc0TExjMS1vQnZpdHUxemx6ZkRZRWs5TGVyZW1JaTNYeDhuWE9ObzhrekNxRUxrSW1rUnc?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 06:36:00 GMT",
+        "source": "주간경향",
+        "ageHours": 0.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "cc74de74aa10921ab48e67cbb7fcc923dee81c2e4ac6a19b8246579346db4e4a",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "“한동훈 국힘 제명 발표, 尹 사형 구형 맞춰 기획” 폭로 - 시사저널",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5KOUlVUHhudnpjQmR2XzZEOWhkejhyNjBHMm0yZzVrRWNFREttSGpmSkNpeDFqeThWUzJWWWRjSGZaMlJhNksxQjdqM0ExdTVCR1Q0M1ZBVnBadjdWTklUTUlEUG5XNzdRbUY2eHpzY9IBc0FVX3lxTE51dXVyUUVYNHFoRkRhM1JIMTdZMjIzd2dDZXUxQl9YTnU0RnZEMXpwVnRZdkZYM3pIQUJ5YUEyUm9vd1gtaVhDcXVZWTJiT2M5NlpwYk8wbFZ6UlYtLS1uODdZZDNJUWJHemRHVFpFTlBXSUU?oc=5\" target=\"_blank\">“한동훈 국힘 제명 발표, 尹 사형 구형 맞춰 기획” 폭로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KOUlVUHhudnpjQmR2XzZEOWhkejhyNjBHMm0yZzVrRWNFREttSGpmSkNpeDFqeThWUzJWWWRjSGZaMlJhNksxQjdqM0ExdTVCR1Q0M1ZBVnBadjdWTklUTUlEUG5XNzdRbUY2eHpzY9IBc0FVX3lxTE51dXVyUUVYNHFoRkRhM1JIMTdZMjIzd2dDZXUxQl9YTnU0RnZEMXpwVnRZdkZYM3pIQUJ5YUEyUm9vd1gtaVhDcXVZWTJiT2M5NlpwYk8wbFZ6UlYtLS1uODdZZDNJUWJHemRHVFpFTlBXSUU?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 07:14:47 GMT",
+        "source": "시사저널",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d42843d6910e3c08c921780ddc80ec40145c2f62da11ddb9a963f3c68b9e7dd9",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 의원, “기업은 지원 대상 아닌 ‘고객’… 제주형 원스톱 유치 전략 시급” - 제주환경일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yOV9CdGhKOU5WcFJ6OUlIR0FQQU13SUVKWnV0VGw3NFJ5T1F3WnVTYWtJRVh1UTJ5VEk3cDR5Nnk5dl84VVV1S3RNc25WRUNlNFBia3ZaYXAxUWIwN01MRmdqYTNkZDhT?oc=5\" target=\"_blank\">한동훈 의원, “기업은 지원 대상 아닌 ‘고객’… 제주형 원스톱 유치 전략 시급”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">제주환경일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yOV9CdGhKOU5WcFJ6OUlIR0FQQU13SUVKWnV0VGw3NFJ5T1F3WnVTYWtJRVh1UTJ5VEk3cDR5Nnk5dl84VVV1S3RNc25WRUNlNFBia3ZaYXAxUWIwN01MRmdqYTNkZDhT?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 06:23:26 GMT",
+        "source": "제주환경일보",
+        "ageHours": 1.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "7d00d4915422348ec9bc1d8d5db6a4100732362a0f9cf02bc93adf38774b1510",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "국힘 윤리위원 “한동훈 제명, 尹 사형 구형일 맞춰 기획” - 아시아투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9vbzdQN2pHRVNUeEo2UXBadjJVclRCVU1rYzFicTNhSUcwWWtJN1FZand2OUhUTDlldmlUN0ZpTUo4TjVBVEFxbmlXNEJaRWZGZC1iS2wtWHJZQ0lBbU1LUVN0Ty1iYURhd3FSS0RR?oc=5\" target=\"_blank\">국힘 윤리위원 “한동훈 제명, 尹 사형 구형일 맞춰 기획”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vbzdQN2pHRVNUeEo2UXBadjJVclRCVU1rYzFicTNhSUcwWWtJN1FZand2OUhUTDlldmlUN0ZpTUo4TjVBVEFxbmlXNEJaRWZGZC1iS2wtWHJZQ0lBbU1LUVN0Ty1iYURhd3FSS0RR?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 06:51:27 GMT",
+        "source": "아시아투데이",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "4c2bca752afbc91a33fc1b0c239deb486e628b349006965c776bcbc1438e05b3",
-    "title": "‘조작 징계’ 추가 폭로… ‘尹 구형 맞춰 한동훈 제명 기획’ - 아시아타임즈",
+    "postId": "178c3351c1f976d1f6965550dbf765e17d5deb34ba65e34e20b09d6150782511",
+    "title": "김민석 100일 앞두고 '석청 대전'...'콩가루' 되는 민주당 - 자유일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45130440150",
-    "sentAt": "2026-11-23T07:21:17.371Z"
+    "runId": "45131667964",
+    "sentAt": "2026-11-23T07:31:15.220Z"
   }
 }
