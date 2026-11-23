@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T08:01:16.506Z",
+  "lastCheckedAt": "2026-11-23T08:11:13.832Z",
   "seenPostIds": {
-    "741d3f5356432548119666aba48858aa872ef3819a6f73918a9ed71cb08087bd": {
-      "seenAt": "2026-11-20T03:51:21.217Z",
-      "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
-      "targetName": "신장식"
-    },
-    "6245cd06b222059ad1e08539c14b1800a2a154c96a303148b7fd73989e58d12e": {
-      "seenAt": "2026-11-20T04:01:17.719Z",
-      "title": "김민석 \"조희대 탄핵의 최대 실익은 이것\" - OhmyNews",
-      "targetName": "김민석"
-    },
-    "c15f03159ebf4c308794b505c81c92ff80583ff2ff84c2ff4b82d5ff266c7511": {
-      "seenAt": "2026-11-20T04:01:18.334Z",
-      "title": "한동훈 “대법원장 탄핵은 사법부 전복 노린 내란…김민석, 의원직 걸겠나” - 매일경제",
-      "targetName": "김민석"
-    },
     "2875e9bc5093b418e7379e394db9805d7f52f650f8fcd9812303031879c662be": {
       "seenAt": "2026-11-20T04:01:18.949Z",
       "title": "「M포토」 조국혁신당 “내란동조 조희대 탄핵하라” - M이코노미뉴스",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T08:01:19.471Z",
       "title": "[포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표 - 파이낸스투데이",
       "targetName": "조국"
+    },
+    "a968f576a5e00283d03127c107b281d32fa9b411ea60492d59233c6694697472": {
+      "seenAt": "2026-11-23T08:11:15.162Z",
+      "title": "조국혁신당 부산시당, 민주유공자법 통과 환영…적용 대상 확대 촉구 - www.thepowernews.co.kr",
+      "targetName": "조국"
+    },
+    "ad7bb894fa08ae019a09b02193d71ef6d5aa347b90db94f42f05acfd38e193f0": {
+      "seenAt": "2026-11-23T08:11:15.894Z",
+      "title": "오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 경기일보",
+      "targetName": "이재명"
+    },
+    "775fb110629f37a6c371d3b22361b4380efdc7e775ce27042b310c5699dd4928": {
+      "seenAt": "2026-11-23T08:11:16.571Z",
+      "title": "장동혁·한동훈 ‘내란몰이’ 공방… 보수 통합 먼 길 - 세계일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "a968f576a5e00283d03127c107b281d32fa9b411ea60492d59233c6694697472",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 부산시당, 민주유공자법 통과 환영…적용 대상 확대 촉구 - www.thepowernews.co.kr",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5xeFRVOUhMYXlOZl9mczJjaE9jVUtqcXdma1MzOGJwWllFZFR1aFRpRmlYZW9YaHNJZjdHOERBc2w0aDB1LUY4WnFBeXZtLTNqREZtcXJPaHl2d1lOQjhvQVhLMDNWd3U5NlVWWkNmUkdKRm5hWHA5MXR5dVg?oc=5\" target=\"_blank\">조국혁신당 부산시당, 민주유공자법 통과 환영…적용 대상 확대 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.thepowernews.co.kr</font>",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xeFRVOUhMYXlOZl9mczJjaE9jVUtqcXdma1MzOGJwWllFZFR1aFRpRmlYZW9YaHNJZjdHOERBc2w0aDB1LUY4WnFBeXZtLTNqREZtcXJPaHl2d1lOQjhvQVhLMDNWd3U5NlVWWkNmUkdKRm5hWHA5MXR5dVg?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:24:28 GMT",
-        "source": "www.thepowernews.co.kr",
-        "ageHours": 2.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ad7bb894fa08ae019a09b02193d71ef6d5aa347b90db94f42f05acfd38e193f0",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 경기일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UaHd3SGowRkt4LVZNZjdyVS1XTGlhUzRGaUVGcmcxMFE5MlZNclZTaVdocldzSnNTMkllYTREcVFZTlVrVElybERmRW1qTVFjWk4ya0VRTi1BQ0U?oc=5\" target=\"_blank\">오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UaHd3SGowRkt4LVZNZjdyVS1XTGlhUzRGaUVGcmcxMFE5MlZNclZTaVdocldzSnNTMkllYTREcVFZTlVrVElybERmRW1qTVFjWk4ya0VRTi1BQ0U?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 07:35:52 GMT",
-        "source": "경기일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "775fb110629f37a6c371d3b22361b4380efdc7e775ce27042b310c5699dd4928",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "장동혁·한동훈 ‘내란몰이’ 공방… 보수 통합 먼 길 - 세계일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iWGM5Tm1pTlJ5RkF0Z2habFBOTl80NE5MU2dHTmJrcEp5UTlUaEw1Uk9oT254ZFNNUzU5SjVvNmljbWsxZUtaSnBzdGE5cW0xS3A4b2xjSjLSAVRBVV95cUxQSXhnNVFaY2Q2RFpyZjJLZDJ4T0NCS3V5TmNMZmJlNFk5M0FDMktCVUQ1U2t2d3Q2eFNVLW91cnp4MElOR2piOU9IMU9jZkJDRWhQM1U?oc=5\" target=\"_blank\">장동혁·한동훈 ‘내란몰이’ 공방… 보수 통합 먼 길</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iWGM5Tm1pTlJ5RkF0Z2habFBOTl80NE5MU2dHTmJrcEp5UTlUaEw1Uk9oT254ZFNNUzU5SjVvNmljbWsxZUtaSnBzdGE5cW0xS3A4b2xjSjLSAVRBVV95cUxQSXhnNVFaY2Q2RFpyZjJLZDJ4T0NCS3V5TmNMZmJlNFk5M0FDMktCVUQ1U2t2d3Q2eFNVLW91cnp4MElOR2piOU9IMU9jZkJDRWhQM1U?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 09:49:05 GMT",
-        "source": "세계일보",
-        "ageHours": 22
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "29d5c0fa5a8424f75459599ef2e5dafbbbe55eacd65a72eb0ba2e9d699b2301d",
@@ -2613,13 +2565,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "92b08975a2e47adf92cec5b73ea137eec5982d5be093c104c359776f8ce05d77",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "“尹 사형 구형 맞춰 한동훈 제명”…野윤리위원, 기획 징계 의혹 제기 - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3ckFlcEwxNHNrWHpmQks2ZTZRYmlyaTl4UzdIT0VlLUhTV2xfTURNZW0tNTRlWWU4dm44d0V6amtLUUVNSzR4bjcwbU1iZlNudDZGVUF3?oc=5\" target=\"_blank\">“尹 사형 구형 맞춰 한동훈 제명”…野윤리위원, 기획 징계 의혹 제기</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3ckFlcEwxNHNrWHpmQks2ZTZRYmlyaTl4UzdIT0VlLUhTV2xfTURNZW0tNTRlWWU4dm44d0V6amtLUUVNSzR4bjcwbU1iZlNudDZGVUF3?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 07:44:01 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "0a8f83efbb53489ce6a21e6479176f6adbbc04c38333b3f29c53326c3029d7e6",
-    "title": "[포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표 - 파이낸스투데이",
+    "postId": "775fb110629f37a6c371d3b22361b4380efdc7e775ce27042b310c5699dd4928",
+    "title": "장동혁·한동훈 ‘내란몰이’ 공방… 보수 통합 먼 길 - 세계일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45135277680",
-    "sentAt": "2026-11-23T08:01:19.094Z"
+    "runId": "45136543199",
+    "sentAt": "2026-11-23T08:11:16.237Z"
   }
 }

@@ -1652,3 +1652,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 부산시당, 민주유공자법 통과 환영…적용 대상 확대 촉구 - www.thepowernews.co.kr
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 부산시당, 민주유공자법 통과 환영…적용 대상 확대 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMifEFVX3lxTE5xeFRVOUhMYXlOZl9mczJjaE9jVUtqcXdma1MzOGJwWllFZFR1aFRpRmlYZW9YaHNJZjdHOERBc2w0aDB1LUY4WnFBeXZtLTNqREZtcXJPaHl2d1lOQjhvQVhLMDNWd3U5NlVWWkNmUkdKRm5hWHA5MXR5dVg?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 경기일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UaHd3SGowRkt4LVZNZjdyVS1XTGlhUzRGaUVGcmcxMFE5MlZNclZTaVdocldzSnNTMkllYTREcVFZTlVrVElybERmRW1qTVFjWk4ya0VRTi1BQ0U?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁·한동훈 ‘내란몰이’ 공방… 보수 통합 먼 길 - 세계일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁·한동훈 ‘내란몰이’ 공방… 보수 통합 먼 길
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iWGM5Tm1pTlJ5RkF0Z2habFBOTl80NE5MU2dHTmJrcEp5UTlUaEw1Uk9oT254ZFNNUzU5SjVvNmljbWsxZUtaSnBzdGE5cW0xS3A4b2xjSjLSAVRBVV95cUxQSXhnNVFaY2Q2RFpyZjJLZDJ4T0NCS3V5TmNMZmJlNFk5M0FDMktCVUQ1U2t2d3Q2eFNVLW91cnp4MElOR2piOU9IMU9jZkJDRWhQM1U?oc=5)
+
+---
+
