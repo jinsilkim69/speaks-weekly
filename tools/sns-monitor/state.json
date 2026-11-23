@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T05:41:15.792Z",
+  "lastCheckedAt": "2026-11-23T05:51:37.914Z",
   "seenPostIds": {
-    "17a1f6df795ae0e0dfdde67a82dd6fcef379caeb2ae68a1754a83d3768e3d1f6": {
-      "seenAt": "2026-11-20T00:35:28.582Z",
-      "title": "Trump pressures Congress to pass farm bill this year - Reuters",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "993c6dc69991c27cc450ca68ad7ace0b35f75c93a9178773521e64a9db3f3a17": {
-      "seenAt": "2026-11-20T00:41:19.885Z",
-      "title": "한동훈 \"조희대 탄핵 땐 사법부 마비\"…이준석 \"李 파기환송심 진행해야\" - 뉴시스",
-      "targetName": "한동훈"
-    },
-    "aad2b3c855db1e13b2fcf706e6055783ae719d3b8bcc185826853dbaf7452125": {
-      "seenAt": "2026-11-20T00:41:20.537Z",
-      "title": "한동훈 \"조희대 탄핵 땐 사법부 마비\"…이준석 \"李 파기환송심 진행해야\" - 뉴시스",
-      "targetName": "이준석"
-    },
     "b06c02495302c01e613048187d41f82eee9bce4125284aa6db06b926e42d8af5": {
       "seenAt": "2026-11-20T00:51:17.827Z",
       "title": "한동훈 \"李·민주당, 민주공화정의 적…대한민국을 후진국 만들어\" - 머니투데이 - 머니투데이",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T05:41:18.556Z",
       "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\" - 머니투데이 - 머니투데이",
       "targetName": "이재명"
+    },
+    "54c6e2724a46062a177fb88d59d9fae4b38fb571c630083f10d64d2adc4d1d55": {
+      "seenAt": "2026-11-23T05:51:40.998Z",
+      "title": "오세훈 \"대통령의 시간, '피고인 이재명' 아닌 민생에 쓰라\" - 이데일리",
+      "targetName": "이재명"
+    },
+    "e8837f69f5da7a57762526e32fcf292dd51d993d519a0bce3dd423fa99ff64f7": {
+      "seenAt": "2026-11-23T05:51:41.786Z",
+      "title": "'친청 격노' 신천지 발언 박선원에 김민석 경고…\"단합 해치는 언행\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
+    },
+    "de70fed87e374c63a183181f82ee3a52ecdb7a6231f2291f563b52ca097fea81": {
+      "seenAt": "2026-11-23T05:51:42.509Z",
+      "title": "Trump urges Nvidia board to rehire Jensen Huang - Yahoo Finance",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "54c6e2724a46062a177fb88d59d9fae4b38fb571c630083f10d64d2adc4d1d55",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "오세훈 \"대통령의 시간, '피고인 이재명' 아닌 민생에 쓰라\" - 이데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVNDUGR1Yk5FdzNPS2tKYkotZUgxaEpDWjFDZE95ZG4wMkY0UDlSRXNDUDFWRWlQaEszWWJaZ2VwSG1LRV9aS0ZkZEtsUjRoWXhpZG9hcUJjSTVDUVhicmFyQ1U3SFk5U3hJVlQ0ZEpTQzViblpLUzVUSWdmNlhnaQ?oc=5\" target=\"_blank\">오세훈 \"대통령의 시간, '피고인 이재명' 아닌 민생에 쓰라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVNDUGR1Yk5FdzNPS2tKYkotZUgxaEpDWjFDZE95ZG4wMkY0UDlSRXNDUDFWRWlQaEszWWJaZ2VwSG1LRV9aS0ZkZEtsUjRoWXhpZG9hcUJjSTVDUVhicmFyQ1U3SFk5U3hJVlQ0ZEpTQzViblpLUzVUSWdmNlhnaQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:22:33 GMT",
-        "source": "이데일리",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e8837f69f5da7a57762526e32fcf292dd51d993d519a0bce3dd423fa99ff64f7",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "'친청 격노' 신천지 발언 박선원에 김민석 경고…\"단합 해치는 언행\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcFp4YkJwWHJ2SVl2aF9HSmJEUUhQRkd1eGRHaWt5NzVROF9tTk9laGw3SERHVjhHWXg3UldSVzRzemF1U2hndlFvdmRlOVlQVzd3NHc5QVNoRW5yLXZQeTEydmJrZy1nTjl1VNIBckFVX3lxTE9aXy1DalFybTZ0R2pZcXNmRk93bVNJa1dvdU5ibFlOVTJiRXFUd24yVHlmOThHZV92T080YkQtREtJYkVQNFFxV0xnRDRhNjA5aEM3V2xGU3pIVE84SWd4NDczNEdUR2h4VWwyVlNpcGoyZw?oc=5\" target=\"_blank\">'친청 격노' 신천지 발언 박선원에 김민석 경고…\"단합 해치는 언행\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcFp4YkJwWHJ2SVl2aF9HSmJEUUhQRkd1eGRHaWt5NzVROF9tTk9laGw3SERHVjhHWXg3UldSVzRzemF1U2hndlFvdmRlOVlQVzd3NHc5QVNoRW5yLXZQeTEydmJrZy1nTjl1VNIBckFVX3lxTE9aXy1DalFybTZ0R2pZcXNmRk93bVNJa1dvdU5ibFlOVTJiRXFUd24yVHlmOThHZV92T080YkQtREtJYkVQNFFxV0xnRDRhNjA5aEM3V2xGU3pIVE84SWd4NDczNEdUR2h4VWwyVlNpcGoyZw?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 04:04:47 GMT",
-        "source": "머니투데이",
-        "ageHours": 1.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "de70fed87e374c63a183181f82ee3a52ecdb7a6231f2291f563b52ca097fea81",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump urges Nvidia board to rehire Jensen Huang - Yahoo Finance",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1U1QkE2OXk1TzdOX1BDSDhES0p1czVuS1lvN2JCSktxdzE3djh6UFBlQWRJM0Y4a3JmTHEyQTJMc3ZiZmhoYThJUGNIX0NaTFlXMUYyempKdzFOT3daNUJzR0lzV0l1cXp6OTBYRTRIWU1qVUVQZHQ0clNFVE1TOUh4WDVwVzRxNVh4WndTSUVqOWlkNmRz?oc=5\" target=\"_blank\">Trump urges Nvidia board to rehire Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1U1QkE2OXk1TzdOX1BDSDhES0p1czVuS1lvN2JCSktxdzE3djh6UFBlQWRJM0Y4a3JmTHEyQTJMc3ZiZmhoYThJUGNIX0NaTFlXMUYyempKdzFOT3daNUJzR0lzV0l1cXp6OTBYRTRIWU1qVUVQZHQ0clNFVE1TOUh4WDVwVzRxNVh4WndTSUVqOWlkNmRz?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 04:27:00 GMT",
-        "source": "Yahoo Finance",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "580c3a3939bd6521be094f392ae1251585b1602d8767275d6c0713819b4258e5",
@@ -2581,13 +2533,125 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "c515a315cd22f36ac77cb37bfab47895d1f123c75bd5129dd0110425b58d0a97",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "장동혁·한동훈 ‘적대적 공생’ 고착화… 길 잃은 보수 통합 - 서울신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4tQV9qT2lSVHdJWU9kU0lvaktGOWZoUUF2WlZMYWNKemRhU2FqVkg5R21WcGg1bHgtVGtHR19nUGZINk03SDhuSFpadWR2SWp5ZEZvSlI4aFlaVmp6ZlRkbFEwZ2ZiVGFNek11V0JiOHI?oc=5\" target=\"_blank\">장동혁·한동훈 ‘적대적 공생’ 고착화… 길 잃은 보수 통합</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tQV9qT2lSVHdJWU9kU0lvaktGOWZoUUF2WlZMYWNKemRhU2FqVkg5R21WcGg1bHgtVGtHR19nUGZINk03SDhuSFpadWR2SWp5ZEZvSlI4aFlaVmp6ZlRkbFEwZ2ZiVGFNek11V0JiOHI?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 09:03:47 GMT",
+        "source": "서울신문",
+        "ageHours": 20.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "33be12633060ef39770db6c400427f6726dfb803ea88074bb20b57481f2fa7c6",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "野, 사흘째 '與 조희대 탄핵' 맹공…정점식 \"민주당 '탄핵냥이'\"·한동훈 \"미쳐도 곱게 미쳐라\" - 폴리뉴스 Polinews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE80NkdDZUsycllsTnFJbjZlWDNxeXZlYWlOLUpIbW52eW1nZmhGU3puWDFIT0NJWkl0MU9pbnlPUVZ5TDVFWTNlU3VyRUQ4THRPTm5XWTQ0ekxIWHNOZjNkamNNN1VZa2hRLWhSQWxR?oc=5\" target=\"_blank\">野, 사흘째 '與 조희대 탄핵' 맹공…정점식 \"민주당 '탄핵냥이'\"·한동훈 \"미쳐도 곱게 미쳐라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">폴리뉴스 Polinews</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80NkdDZUsycllsTnFJbjZlWDNxeXZlYWlOLUpIbW52eW1nZmhGU3puWDFIT0NJWkl0MU9pbnlPUVZ5TDVFWTNlU3VyRUQ4THRPTm5XWTQ0ekxIWHNOZjNkamNNN1VZa2hRLWhSQWxR?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 07:14:24 GMT",
+        "source": "폴리뉴스 Polinews",
+        "ageHours": 22.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "40cc0c441fbb7da914eae3905cd1ff0ccae807fca5c6a10ce8df7f08be024e93",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래 대구 팔공산 방문 무슨일? - 매일신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HVXZuVE50c0NCTC1NS0tHOFdvRnZ0MENQVmVRU09YaE1KTXM5R1dCMDJPS0UxV2FYMUJzaWFGcHRaZ0RVd3hkN2pmZ1E2UUg4YjNsVFdaUE91czFOZXAwaS1n?oc=5\" target=\"_blank\">정청래 대구 팔공산 방문 무슨일?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HVXZuVE50c0NCTC1NS0tHOFdvRnZ0MENQVmVRU09YaE1KTXM5R1dCMDJPS0UxV2FYMUJzaWFGcHRaZ0RVd3hkN2pmZ1E2UUg4YjNsVFdaUE91czFOZXAwaS1n?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:48:46 GMT",
+        "source": "매일신문",
+        "ageHours": 0
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "e5712922f6d05c49e02051aab3e68d509c2bcfa56d058ecade27024c22e20259",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "강수영 \"조국, 지금 대표인가\"…당명 변경 행보 비판 - 평화나무",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBSSmlOUHBndUlQQ1dkLXFrV1ZRRUYzdW5YU3VYZ21ES1pISkx2S0tIX0R2WXhnV1hnTTJQTzEzcVljUmF3NGhwLXRiVldKN0FUR2RyeXFtb1QxbC1mRkxfUXk1OUdYNjZRT3c?oc=5\" target=\"_blank\">강수영 \"조국, 지금 대표인가\"…당명 변경 행보 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">평화나무</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSSmlOUHBndUlQQ1dkLXFrV1ZRRUYzdW5YU3VYZ21ES1pISkx2S0tIX0R2WXhnV1hnTTJQTzEzcVljUmF3NGhwLXRiVldKN0FUR2RyeXFtb1QxbC1mRkxfUXk1OUdYNjZRT3c?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:36:07 GMT",
+        "source": "평화나무",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "3790cea263b7c172b42b926aef512b40bf098b49fd5f67f3262994b5cbe45ef2",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당 황현선 “당명 개정, 변화의 시작…정략적 합당 필요 없어” - 동아일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbTh2dm1mUVFSU1ZxLWZ5aWVKckNONHI1elA3NWNqX0xpRDktSWlNaUNiYnlwZk9EcUdvekppalhaOVVfbTdZdEZQNmd4LS1fbzJIWEdJMVV1ekdaaTV4SXhrWURYdmRRd0dfWmxQUXNBdUYtNFJOX3BKdkRCQdIBZkFVX3lxTFA4VDZqX29lODVWREJZUW82dnpCLXMwQXdNM2o2OGRyR3JvZ3JJWkhVN0Jkdnpoc3NzRG9iNUNNd1JjdnU4S0pLLVBLNkxnTGxEZG5lRUFWeGF0cmhVdHZpX2xZWVRTZw?oc=5\" target=\"_blank\">조국혁신당 황현선 “당명 개정, 변화의 시작…정략적 합당 필요 없어”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QbTh2dm1mUVFSU1ZxLWZ5aWVKckNONHI1elA3NWNqX0xpRDktSWlNaUNiYnlwZk9EcUdvekppalhaOVVfbTdZdEZQNmd4LS1fbzJIWEdJMVV1ekdaaTV4SXhrWURYdmRRd0dfWmxQUXNBdUYtNFJOX3BKdkRCQdIBZkFVX3lxTFA4VDZqX29lODVWREJZUW82dnpCLXMwQXdNM2o2OGRyR3JvZ3JJWkhVN0Jkdnpoc3NzRG9iNUNNd1JjdnU4S0pLLVBLNkxnTGxEZG5lRUFWeGF0cmhVdHZpX2xZWVRTZw?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 04:16:02 GMT",
+        "source": "동아일보",
+        "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "923bd1ab939f749277e676edb0e4e3fa0b9a751dcc7221da1b972f9aae0b8e54",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당, 창당 1000일 앞두고 당명 개정론 부상…조국 ˝확장성 있는 새 이름 찾자˝:경찰연합신문 - 경찰연합신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrbjlZdzJtS2JxTjMxNFZGYjh1cTVMNzFRNW9VRnVwMXNlZ1M3T1V5amJxV0ZsQWh4Ny1VZE4wUFVqdjltSFdFVXM4MEVxZjYz0gFsQVVfeXFMT0pia0E3Z3Q0a3E3Zmk2TWlLMXJ3WWNLSnJQdnRVb1V2bHpPMnpXUHhCYWdxNThyWHRWQXRMa1NwYlJTTlV5c19lNmRwMmpONTNWMVZtOWgwQXktTVprbV9oM1lwcUQwaGVzR3My?oc=5\" target=\"_blank\">조국혁신당, 창당 1000일 앞두고 당명 개정론 부상…조국 ˝확장성 있는 새 이름 찾자˝:경찰연합신문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경찰연합신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrbjlZdzJtS2JxTjMxNFZGYjh1cTVMNzFRNW9VRnVwMXNlZ1M3T1V5amJxV0ZsQWh4Ny1VZE4wUFVqdjltSFdFVXM4MEVxZjYz0gFsQVVfeXFMT0pia0E3Z3Q0a3E3Zmk2TWlLMXJ3WWNLSnJQdnRVb1V2bHpPMnpXUHhCYWdxNThyWHRWQXRMa1NwYlJTTlV5c19lNmRwMmpONTNWMVZtOWgwQXktTVprbV9oM1lwcUQwaGVzR3My?oc=5",
+        "pubDate": "Sun, 22 Nov 2026 22:41:52 GMT",
+        "source": "경찰연합신문",
+        "ageHours": 7.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ffee0500dae87b0e2ade5e4f304f2e0eeedb03e70a3e4376a801a5b558aa1d4e",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당, 조희대 대법원장 탄핵 촉구로 사법부 개혁 요구 쇄도 - 공감신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pQUI0M3hOOXhPRE1mREV4ODR6TWxRUVZLanZlSktVS25UVWhIMTU4b3VyNHl5NnJXQ0JJcVhGRDFFa3FLSWIzZ0tIdnpTbjNhQ1lKREtZRzlYVTlHYlh2SEVwa1lBRXVM?oc=5\" target=\"_blank\">조국혁신당, 조희대 대법원장 탄핵 촉구로 사법부 개혁 요구 쇄도</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">공감신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pQUI0M3hOOXhPRE1mREV4ODR6TWxRUVZLanZlSktVS25UVWhIMTU4b3VyNHl5NnJXQ0JJcVhGRDFFa3FLSWIzZ0tIdnpTbjNhQ1lKREtZRzlYVTlHYlh2SEVwa1lBRXVM?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:19:57 GMT",
+        "source": "공감신문",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "dfac6178129e23520407e063c152a26cb489493ada49d56d7c9a4177ed7ab7f9",
-    "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\" - 머니투데이 - 머니투데이",
+    "postId": "de70fed87e374c63a183181f82ee3a52ecdb7a6231f2291f563b52ca097fea81",
+    "title": "Trump urges Nvidia board to rehire Jensen Huang - Yahoo Finance",
     "bot": "jongsuk_pol_bot",
-    "runId": "45119310946",
-    "sentAt": "2026-11-23T05:41:18.177Z"
+    "runId": "45120329429",
+    "sentAt": "2026-11-23T05:51:42.141Z"
   }
 }

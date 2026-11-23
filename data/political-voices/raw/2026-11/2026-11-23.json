@@ -2136,5 +2136,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "54c6e2724a46062a177fb88d59d9fae4b38fb571c630083f10d64d2adc4d1d55",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "오세훈 \"대통령의 시간, '피고인 이재명' 아닌 민생에 쓰라\" - 이데일리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVNDUGR1Yk5FdzNPS2tKYkotZUgxaEpDWjFDZE95ZG4wMkY0UDlSRXNDUDFWRWlQaEszWWJaZ2VwSG1LRV9aS0ZkZEtsUjRoWXhpZG9hcUJjSTVDUVhicmFyQ1U3SFk5U3hJVlQ0ZEpTQzViblpLUzVUSWdmNlhnaQ?oc=5\" target=\"_blank\">오세훈 \"대통령의 시간, '피고인 이재명' 아닌 민생에 쓰라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVNDUGR1Yk5FdzNPS2tKYkotZUgxaEpDWjFDZE95ZG4wMkY0UDlSRXNDUDFWRWlQaEszWWJaZ2VwSG1LRV9aS0ZkZEtsUjRoWXhpZG9hcUJjSTVDUVhicmFyQ1U3SFk5U3hJVlQ0ZEpTQzViblpLUzVUSWdmNlhnaQ?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 05:22:33 GMT",
+    "source": "이데일리",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 오세훈 \"대통령의 시간, '피고인 이재명' 아닌 민생에 쓰라\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "e8837f69f5da7a57762526e32fcf292dd51d993d519a0bce3dd423fa99ff64f7",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "'친청 격노' 신천지 발언 박선원에 김민석 경고…\"단합 해치는 언행\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcFp4YkJwWHJ2SVl2aF9HSmJEUUhQRkd1eGRHaWt5NzVROF9tTk9laGw3SERHVjhHWXg3UldSVzRzemF1U2hndlFvdmRlOVlQVzd3NHc5QVNoRW5yLXZQeTEydmJrZy1nTjl1VNIBckFVX3lxTE9aXy1DalFybTZ0R2pZcXNmRk93bVNJa1dvdU5ibFlOVTJiRXFUd24yVHlmOThHZV92T080YkQtREtJYkVQNFFxV0xnRDRhNjA5aEM3V2xGU3pIVE84SWd4NDczNEdUR2h4VWwyVlNpcGoyZw?oc=5\" target=\"_blank\">'친청 격노' 신천지 발언 박선원에 김민석 경고…\"단합 해치는 언행\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcFp4YkJwWHJ2SVl2aF9HSmJEUUhQRkd1eGRHaWt5NzVROF9tTk9laGw3SERHVjhHWXg3UldSVzRzemF1U2hndlFvdmRlOVlQVzd3NHc5QVNoRW5yLXZQeTEydmJrZy1nTjl1VNIBckFVX3lxTE9aXy1DalFybTZ0R2pZcXNmRk93bVNJa1dvdU5ibFlOVTJiRXFUd24yVHlmOThHZV92T080YkQtREtJYkVQNFFxV0xnRDRhNjA5aEM3V2xGU3pIVE84SWd4NDczNEdUR2h4VWwyVlNpcGoyZw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 04:04:47 GMT",
+    "source": "머니투데이",
+    "ageHours": 1.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '친청 격노' 신천지 발언 박선원에 김민석 경고…\"단합 해치는 언행\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "de70fed87e374c63a183181f82ee3a52ecdb7a6231f2291f563b52ca097fea81",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump urges Nvidia board to rehire Jensen Huang - Yahoo Finance",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1U1QkE2OXk1TzdOX1BDSDhES0p1czVuS1lvN2JCSktxdzE3djh6UFBlQWRJM0Y4a3JmTHEyQTJMc3ZiZmhoYThJUGNIX0NaTFlXMUYyempKdzFOT3daNUJzR0lzV0l1cXp6OTBYRTRIWU1qVUVQZHQ0clNFVE1TOUh4WDVwVzRxNVh4WndTSUVqOWlkNmRz?oc=5\" target=\"_blank\">Trump urges Nvidia board to rehire Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1U1QkE2OXk1TzdOX1BDSDhES0p1czVuS1lvN2JCSktxdzE3djh6UFBlQWRJM0Y4a3JmTHEyQTJMc3ZiZmhoYThJUGNIX0NaTFlXMUYyempKdzFOT3daNUJzR0lzV0l1cXp6OTBYRTRIWU1qVUVQZHQ0clNFVE1TOUh4WDVwVzRxNVh4WndTSUVqOWlkNmRz?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 04:27:00 GMT",
+    "source": "Yahoo Finance",
+    "ageHours": 1.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump urges Nvidia board to rehire Jensen Huang",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

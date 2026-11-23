@@ -1106,3 +1106,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 "대통령의 시간, '피고인 이재명' 아닌 민생에 쓰라" - 이데일리
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 "대통령의 시간, '피고인 이재명' 아닌 민생에 쓰라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVNDUGR1Yk5FdzNPS2tKYkotZUgxaEpDWjFDZE95ZG4wMkY0UDlSRXNDUDFWRWlQaEszWWJaZ2VwSG1LRV9aS0ZkZEtsUjRoWXhpZG9hcUJjSTVDUVhicmFyQ1U3SFk5U3hJVlQ0ZEpTQzViblpLUzVUSWdmNlhnaQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** '친청 격노' 신천지 발언 박선원에 김민석 경고…"단합 해치는 언행" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '친청 격노' 신천지 발언 박선원에 김민석 경고…"단합 해치는 언행"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcFp4YkJwWHJ2SVl2aF9HSmJEUUhQRkd1eGRHaWt5NzVROF9tTk9laGw3SERHVjhHWXg3UldSVzRzemF1U2hndlFvdmRlOVlQVzd3NHc5QVNoRW5yLXZQeTEydmJrZy1nTjl1VNIBckFVX3lxTE9aXy1DalFybTZ0R2pZcXNmRk93bVNJa1dvdU5ibFlOVTJiRXFUd24yVHlmOThHZV92T080YkQtREtJYkVQNFFxV0xnRDRhNjA5aEM3V2xGU3pIVE84SWd4NDczNEdUR2h4VWwyVlNpcGoyZw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump urges Nvidia board to rehire Jensen Huang - Yahoo Finance
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump urges Nvidia board to rehire Jensen Huang
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1U1QkE2OXk1TzdOX1BDSDhES0p1czVuS1lvN2JCSktxdzE3djh6UFBlQWRJM0Y4a3JmTHEyQTJMc3ZiZmhoYThJUGNIX0NaTFlXMUYyempKdzFOT3daNUJzR0lzV0l1cXp6OTBYRTRIWU1qVUVQZHQ0clNFVE1TOUh4WDVwVzRxNVh4WndTSUVqOWlkNmRz?oc=5)
+
+---
+
