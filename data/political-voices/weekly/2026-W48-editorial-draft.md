@@ -755,3 +755,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 국민의힘, 이재명 대통령 SNS 발언에 "국민을 돼지에 비유" 비판 - 한국사회복지저널
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘, 이재명 대통령 SNS 발언에 "국민을 돼지에 비유" 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE93eE5KcXBnclZaWlFpcGRRM21VYnVjVXlncmVETl9lQVU4Z1p4eEgzcHduNFB4UFRIZGNRWG1WbmJMUmlsdzc3MkZ1Tm80REFPZFlhN0dsNVpUQmdRaVNfYTNnRHVsLVl2eU84?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 혁신당의 '조국' 빠지나…조국 "확장성 있게 범민주 좋아할 이름으로" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 혁신당의 '조국' 빠지나…조국 "확장성 있게 범민주 좋아할 이름으로"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFBYVUJZVExVV2VRdUR1NUd6Mm5ZY21RT0pzSDF5M1ZRWkNlQVI3RkxqT09PMkdvSmpMdlJpQ0l1S2hCNVNuTmVaanpyNGctT0JQSnlSNnZuNlh3RGJLZkNwUWhOMi1YNVVqVmFNbNIBckFVX3lxTFBNSUt5MzJuazQ4V0VROUhJeDJyN29pV21LWjBFdElPX1kzVnd2UV80ZTR3cWxlOHdaUTdhYVl4b1g2WGdmWkl1Qlp3RjFXRzFtRVBnUzNmMjhRYXowR1NOYktjUllZYnIxMHBYVUFsc05wUQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석, 친정청래계 겨냥 “일제 부역자” 발언 박선원에 엄중 경고 - KBS 뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 친정청래계 겨냥 “일제 부역자” 발언 박선원에 엄중 경고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zRWp5UXI3VWRQczFWdTJIdWxqelFHSHNENFRQWUktUEczazB1VzNfeXI5UGktZDFxeWxvY25mTWhXSTJqaXROM1ExbjBITVkxbFl2c0poNFpJWG8?oc=5)
+
+---
+

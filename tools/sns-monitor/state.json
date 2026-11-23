@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T03:31:13.913Z",
+  "lastCheckedAt": "2026-11-23T03:41:17.085Z",
   "seenPostIds": {
-    "3e00616f6d7adf62a422221857f01cbadfba10b956910336bc3303c845ca6cf4": {
-      "seenAt": "2026-11-19T20:21:19.596Z",
-      "title": "Trump urges Congress to pass a new farm bill - Bradenton Herald",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "b89ec103e12bbde72ef9453a158ea0e202d4285fe137e85e38c7c22c35bbf669": {
-      "seenAt": "2026-11-19T21:11:46.557Z",
-      "title": "전합 판결인데 조희대만?…한동훈 \"與, 탄핵하려면 대법관 전원 하라\" 등 [11/20(금) 데일리안 출근길 뉴스] - 데일리안",
-      "targetName": "한동훈"
-    },
-    "ab395a0b1ad4d839ee4a4212e7c5c5c6f47113ebdb0fe4a1daa5fcfeb0e90d04": {
-      "seenAt": "2026-11-19T21:51:20.421Z",
-      "title": "박지원 \"정청래·추미애 파벌싸움 불질러…국민이 민주당 버릴 것\" - 프레시안",
-      "targetName": "정청래"
-    },
     "aac9fc25ca1c1eaa77b24e466b6a4a159b798d95e053413e0b9fa2f3b3cbc19c": {
       "seenAt": "2026-11-19T22:31:19.391Z",
       "title": "홍준표, 한동훈 겨냥 “배신자들 활개치는 세상, 정의에 반해” - 주간경향",
@@ -2515,63 +2500,46 @@
       "seenAt": "2026-11-23T03:31:16.646Z",
       "title": "“당명 속 ‘조국’ 제 이름은 아니지만”…당명 개정 제안, 확장성 강조 - 동아일보",
       "targetName": "조국"
+    },
+    "d49e80c43ba9a5d1e0c49a5b5d336f9c730de880ea4065bd7d376a12b75d82a2": {
+      "seenAt": "2026-11-23T03:41:18.448Z",
+      "title": "국민의힘, 이재명 대통령 SNS 발언에 \"국민을 돼지에 비유\" 비판 - 한국사회복지저널",
+      "targetName": "이재명"
+    },
+    "bc8774989d48dacd860d120131c360254bec652588fd4d8cbef5129119e2df83": {
+      "seenAt": "2026-11-23T03:41:19.073Z",
+      "title": "혁신당의 '조국' 빠지나…조국 \"확장성 있게 범민주 좋아할 이름으로\" - 머니투데이 - 머니투데이",
+      "targetName": "조국"
+    },
+    "4d337b35f47d01a941814b8ccf47635855d033884e5f82eb5ea9b0ac6421575c": {
+      "seenAt": "2026-11-23T03:41:19.738Z",
+      "title": "김민석, 친정청래계 겨냥 “일제 부역자” 발언 박선원에 엄중 경고 - KBS 뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "d49e80c43ba9a5d1e0c49a5b5d336f9c730de880ea4065bd7d376a12b75d82a2",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "국민의힘, 이재명 대통령 SNS 발언에 \"국민을 돼지에 비유\" 비판 - 한국사회복지저널",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE93eE5KcXBnclZaWlFpcGRRM21VYnVjVXlncmVETl9lQVU4Z1p4eEgzcHduNFB4UFRIZGNRWG1WbmJMUmlsdzc3MkZ1Tm80REFPZFlhN0dsNVpUQmdRaVNfYTNnRHVsLVl2eU84?oc=5\" target=\"_blank\">국민의힘, 이재명 대통령 SNS 발언에 \"국민을 돼지에 비유\" 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국사회복지저널</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93eE5KcXBnclZaWlFpcGRRM21VYnVjVXlncmVETl9lQVU4Z1p4eEgzcHduNFB4UFRIZGNRWG1WbmJMUmlsdzc3MkZ1Tm80REFPZFlhN0dsNVpUQmdRaVNfYTNnRHVsLVl2eU84?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 03:02:47 GMT",
-        "source": "한국사회복지저널",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "bc8774989d48dacd860d120131c360254bec652588fd4d8cbef5129119e2df83",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "혁신당의 '조국' 빠지나…조국 \"확장성 있게 범민주 좋아할 이름으로\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBYVUJZVExVV2VRdUR1NUd6Mm5ZY21RT0pzSDF5M1ZRWkNlQVI3RkxqT09PMkdvSmpMdlJpQ0l1S2hCNVNuTmVaanpyNGctT0JQSnlSNnZuNlh3RGJLZkNwUWhOMi1YNVVqVmFNbNIBckFVX3lxTFBNSUt5MzJuazQ4V0VROUhJeDJyN29pV21LWjBFdElPX1kzVnd2UV80ZTR3cWxlOHdaUTdhYVl4b1g2WGdmWkl1Qlp3RjFXRzFtRVBnUzNmMjhRYXowR1NOYktjUllZYnIxMHBYVUFsc05wUQ?oc=5\" target=\"_blank\">혁신당의 '조국' 빠지나…조국 \"확장성 있게 범민주 좋아할 이름으로\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYVUJZVExVV2VRdUR1NUd6Mm5ZY21RT0pzSDF5M1ZRWkNlQVI3RkxqT09PMkdvSmpMdlJpQ0l1S2hCNVNuTmVaanpyNGctT0JQSnlSNnZuNlh3RGJLZkNwUWhOMi1YNVVqVmFNbNIBckFVX3lxTFBNSUt5MzJuazQ4V0VROUhJeDJyN29pV21LWjBFdElPX1kzVnd2UV80ZTR3cWxlOHdaUTdhYVl4b1g2WGdmWkl1Qlp3RjFXRzFtRVBnUzNmMjhRYXowR1NOYktjUllZYnIxMHBYVUFsc05wUQ?oc=5",
-        "pubDate": "Sun, 22 Nov 2026 20:19:31 GMT",
-        "source": "머니투데이",
-        "ageHours": 7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4d337b35f47d01a941814b8ccf47635855d033884e5f82eb5ea9b0ac6421575c",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "김민석, 친정청래계 겨냥 “일제 부역자” 발언 박선원에 엄중 경고 - KBS 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zRWp5UXI3VWRQczFWdTJIdWxqelFHSHNENFRQWUktUEczazB1VzNfeXI5UGktZDFxeWxvY25mTWhXSTJqaXROM1ExbjBITVkxbFl2c0poNFpJWG8?oc=5\" target=\"_blank\">김민석, 친정청래계 겨냥 “일제 부역자” 발언 박선원에 엄중 경고</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zRWp5UXI3VWRQczFWdTJIdWxqelFHSHNENFRQWUktUEczazB1VzNfeXI5UGktZDFxeWxvY25mTWhXSTJqaXROM1ExbjBITVkxbFl2c0poNFpJWG8?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 02:47:00 GMT",
-        "source": "KBS 뉴스",
-        "ageHours": 0.7
+        "id": "8f8b1ce642e33fb2e3d1ef21e4d1a40f6db5dd69e33c8f2dd6ab8dafaf559367",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "친명·친청, 신천지로 '반민특위' 설전…김민석, 박선원에 '구두경고'(종합) - 뉴스1",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQjQ0LTlSS01VT25BZmt6aGNMYVhGdkVrcGMxaFpTS1dlMmJTUTA2T0FmMy1wX3NNcUNXdkotZjJIWVVybGpNZTAtVFRsT2tYZzMwdVRhem1zdw?oc=5\" target=\"_blank\">친명·친청, 신천지로 '반민특위' 설전…김민석, 박선원에 '구두경고'(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQjQ0LTlSS01VT25BZmt6aGNMYVhGdkVrcGMxaFpTS1dlMmJTUTA2T0FmMy1wX3NNcUNXdkotZjJIWVVybGpNZTAtVFRsT2tYZzMwdVRhem1zdw?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 02:54:59 GMT",
+        "source": "뉴스1",
+        "ageHours": 0.8
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "84696f657c2dab60cf90115d539824c5b17756489c44bcd0ce366268151d0fed",
-    "title": "“당명 속 ‘조국’ 제 이름은 아니지만”…당명 개정 제안, 확장성 강조 - 동아일보",
+    "postId": "4d337b35f47d01a941814b8ccf47635855d033884e5f82eb5ea9b0ac6421575c",
+    "title": "김민석, 친정청래계 겨냥 “일제 부역자” 발언 박선원에 엄중 경고 - KBS 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45106438568",
-    "sentAt": "2026-11-23T03:31:16.278Z"
+    "runId": "45107420951",
+    "sentAt": "2026-11-23T03:41:19.420Z"
   }
 }
