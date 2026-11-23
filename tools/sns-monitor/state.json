@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T18:11:15.066Z",
+  "lastCheckedAt": "2026-11-23T18:21:23.011Z",
   "seenPostIds": {
-    "45d63b297b7dd050657a4bfbee7c3582808f04df438a8956ff4e79a4983d5530": {
-      "seenAt": "2026-11-20T15:11:20.348Z",
-      "title": "정청래, 한덕수 파기환송에 \"조희대 사법부 규탄…인정할 수 없다\" - 머니투데이",
-      "targetName": "정청래"
-    },
-    "7de8ec44b721c50d2bfe758266f3e6baf416a384a5e4ab4800e29e93b4ee000d": {
-      "seenAt": "2026-11-20T15:21:20.409Z",
-      "title": "President Trump to hold news conference after returning from China - fox61.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "fb25b5f1a6e19a075617b0684eb8dc4f42d3a0c91af17de6858014ff724b0998": {
-      "seenAt": "2026-11-20T15:21:21.053Z",
-      "title": "President Trump to hold news conference after returning from China - WFAA",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "475c56561d7f9bb449a95191d9928cd4019e434f40ab6124931b92bfd6936e1b": {
       "seenAt": "2026-11-20T15:41:18.185Z",
       "title": "WATCH LIVE: Trump holds news conference after China trip - Washington Examiner",
@@ -2515,14 +2500,24 @@
       "seenAt": "2026-11-23T18:11:17.765Z",
       "title": "Trump takes credit for reinstatement of Jensen Huang as Nvida CEO: ‘I convinced them’ - New York Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "107c6ae6ed6ab3b77c56998e1f830e1b8facb1c6072e77365d618ca1ec0ca826": {
+      "seenAt": "2026-11-23T18:21:25.115Z",
+      "title": "당명 개정 관련 발언하는 신장식 조국혁신당 대표 - 뉴시스",
+      "targetName": "신장식"
+    },
+    "44c833f6f97890c5f52ec3a172f41b0f9aff6e2717322ec9a03fbba391a718af": {
+      "seenAt": "2026-11-23T18:21:25.903Z",
+      "title": "Trump posts AI image of Jensen Haung after news of reinstatement - FOX 4 News Dallas-Fort Worth",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "d45691be1eeec4f00aa2041c95b03396ba4169be691e53e86df8b5917af3f4c2",
-    "title": "Trump takes credit for reinstatement of Jensen Huang as Nvida CEO: ‘I convinced them’ - New York Post",
+    "postId": "44c833f6f97890c5f52ec3a172f41b0f9aff6e2717322ec9a03fbba391a718af",
+    "title": "Trump posts AI image of Jensen Haung after news of reinstatement - FOX 4 News Dallas-Fort Worth",
     "bot": "jongsuk_pol_bot",
-    "runId": "45235626272",
-    "sentAt": "2026-11-23T18:11:17.423Z"
+    "runId": "45237431671",
+    "sentAt": "2026-11-23T18:21:25.507Z"
   }
 }
