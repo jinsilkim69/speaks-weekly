@@ -3993,5 +3993,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f5bc1a9df3cf8234e8027d049f853883ceb9598b05d793f34d21c8ea3d003750",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 “대법원, 12·3 계엄 ‘내란’인지 명료하게 정리해 달라” - KBS 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE42TmRqMkxleVpMaVVGR2M4VTRSbkhJRHVKeGZRMDc5b2Ezc08tbEljeTQzclZYRExJckRETjJaeWw5WlZYdkFaQlpTOWJHNkg5YXZHb3hVZ0tBdzg?oc=5\" target=\"_blank\">김민석 “대법원, 12·3 계엄 ‘내란’인지 명료하게 정리해 달라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42TmRqMkxleVpMaVVGR2M4VTRSbkhJRHVKeGZRMDc5b2Ezc08tbEljeTQzclZYRExJckRETjJaeWw5WlZYdkFaQlpTOWJHNkg5YXZHb3hVZ0tBdzg?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 02:35:00 GMT",
+    "source": "KBS 뉴스",
+    "ageHours": 7.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 “대법원, 12·3 계엄 ‘내란’인지 명료하게 정리해 달라”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "b8b355f91f1bccb90ac974dfc4857d59aa23a868a63cf6c2591d9743aabc2ce5",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 취임 100일 '역주행'…지지율 12.3%p 하락 - 매일일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhMjhsWUlJbnZoeUlVTGpIQ19ibHp2elhYNFlVWjk4SmJoelpFZGY2azFkQy1iMDdiTC1LR2JuNlJRSjN2eXZYRVFRV0RSZ0hIWkFVbUZPMEtGdGtZX3dzMWx6bmw?oc=5\" target=\"_blank\">김민석 취임 100일 '역주행'…지지율 12.3%p 하락</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhMjhsWUlJbnZoeUlVTGpIQ19ibHp2elhYNFlVWjk4SmJoelpFZGY2azFkQy1iMDdiTC1LR2JuNlJRSjN2eXZYRVFRV0RSZ0hIWkFVbUZPMEtGdGtZX3dzMWx6bmw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 08:20:00 GMT",
+    "source": "매일일보",
+    "ageHours": 2.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 취임 100일 '역주행'…지지율 12.3%p 하락",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
