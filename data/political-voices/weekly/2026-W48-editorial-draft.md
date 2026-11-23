@@ -1262,3 +1262,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 의원, “기업 유치 조례 개정해놓고 예산은 미반영” - 뉴스N제주
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 의원, “기업 유치 조례 개정해놓고 예산은 미반영”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFBMcXREb1JmU3dvMlY0RFJYNDdad2x4WDA3REFuWmRtazJKYWRuRG9Ub3RUQjR5T0dQdE8zY005VG1KZXV3YUt6NDZJV3VVcXhRY2JFNzVvR1N3Y3NIVVJpZ0dLeFVhN0tIeWYweQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 민심과 너무나도 다른 '보수 배신자' 한동훈 복당 여론! (TD 기획 기사) : 양영태박사 TV - 인터넷타임즈
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민심과 너무나도 다른 '보수 배신자' 한동훈 복당 여론! (TD 기획 기사) : 양영태박사 TV
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9DZFVtVmNRN3ptQmFHUGdIMFlUWDA1QlFTRE5jcEZBcmdLeWNFOFMwby1TeUlIOWp0ZDN0b1ZmanNGTzV5SFNiT3lwbk5LU3lIdFBiMjk1aHNxZTVjR2ZMX2dkakV6cEVIemhOYg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iT3JON09LZFFVSVMwa0NWLU5pSG04T1VRTUlKZnJsUGdFdFVLMGJ4NUgwR28yN0ZSTzA1SFV1eXpCcC0xSG5jbWRjNFhUMlFHeU5QVU9JNFFNSWvSAWBBVV95cUxNZWZlczZKMGUtLWJTVFN3X2V4M2FSYzJ4SmhiNVlpQ0lrYi1TNzB1ZnYzaFZvRWdqSzUzS29xbGt6M0twcDZQX2pyLVl1MTZmNlN5R3pSMFN3dmFqMEdUQ00?oc=5)
+
+---
+

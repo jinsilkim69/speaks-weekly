@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T06:21:18.232Z",
+  "lastCheckedAt": "2026-11-23T06:31:14.372Z",
   "seenPostIds": {
-    "4b3afa326ac7712da0ee430e594b3e0875ccd8182da209eb10dc7ea489820446": {
-      "seenAt": "2026-11-20T01:51:19.564Z",
-      "title": "한동훈 “李 자기 재판막으려는 말초적 욕심…사법부 마비·후진국 초래” - 경기일보",
-      "targetName": "한동훈"
-    },
-    "6ff12d338b0b51cb4216b317e120f2be1be1053949b51322313af1dab72d1cc3": {
-      "seenAt": "2026-11-20T01:51:20.317Z",
-      "title": "김민석 \"한덕수처럼 하라는 대법원 판결…내란 정당화하는 역사적 반역\" - 미디어인뉴스",
-      "targetName": "김민석"
-    },
-    "f0dcddc913ed4f2a740ccc0bfcf5726345f7f5d9af5ce7f15d02399d4e4e53ad": {
-      "seenAt": "2026-11-20T01:51:21.012Z",
-      "title": "與 이성윤 \"김민석 '신천지 의혹 제기'도 윤리심판원 신속 심의해야 공정해\" - 뉴시스",
-      "targetName": "김민석"
-    },
     "b0d57852900c50bc19b18ee347432a57d52caea9d0c26928ab566c9791df1c59": {
       "seenAt": "2026-11-20T02:01:22.467Z",
       "title": "[막전막후] 추미애가 나서자 정청래도 참전…'반명 헤게모니' 경쟁 시작됐나 - 펜앤마이크",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T06:21:21.037Z",
       "title": "이재명 대통령 ‘대장동’ 글 올리자…국힘 \"할 말 많으면 재판부터\" - JTBC",
       "targetName": "이재명"
+    },
+    "a389e226a34eeda13f28d532c2c6f0ca3edc2d52f15759e887ddd31324d7bdcc": {
+      "seenAt": "2026-11-23T06:31:15.428Z",
+      "title": "한동훈 의원, “기업 유치 조례 개정해놓고 예산은 미반영” - 뉴스N제주",
+      "targetName": "한동훈"
+    },
+    "aa8c03da48d7fa3625eb0abaa36f8c09df245bd73f256525d1f52a81fcc41c0e": {
+      "seenAt": "2026-11-23T06:31:16.038Z",
+      "title": "민심과 너무나도 다른 '보수 배신자' 한동훈 복당 여론! (TD 기획 기사) : 양영태박사 TV - 인터넷타임즈",
+      "targetName": "한동훈"
+    },
+    "87c798a0db6ec7dd2e063b3f23df8f7c5baf71a1c8e9add7662b1be3d607b407": {
+      "seenAt": "2026-11-23T06:31:16.645Z",
+      "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "a389e226a34eeda13f28d532c2c6f0ca3edc2d52f15759e887ddd31324d7bdcc",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 의원, “기업 유치 조례 개정해놓고 예산은 미반영” - 뉴스N제주",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBMcXREb1JmU3dvMlY0RFJYNDdad2x4WDA3REFuWmRtazJKYWRuRG9Ub3RUQjR5T0dQdE8zY005VG1KZXV3YUt6NDZJV3VVcXhRY2JFNzVvR1N3Y3NIVVJpZ0dLeFVhN0tIeWYweQ?oc=5\" target=\"_blank\">한동훈 의원, “기업 유치 조례 개정해놓고 예산은 미반영”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스N제주</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMcXREb1JmU3dvMlY0RFJYNDdad2x4WDA3REFuWmRtazJKYWRuRG9Ub3RUQjR5T0dQdE8zY005VG1KZXV3YUt6NDZJV3VVcXhRY2JFNzVvR1N3Y3NIVVJpZ0dLeFVhN0tIeWYweQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 02:40:05 GMT",
-        "source": "뉴스N제주",
-        "ageHours": 3.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "aa8c03da48d7fa3625eb0abaa36f8c09df245bd73f256525d1f52a81fcc41c0e",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "민심과 너무나도 다른 '보수 배신자' 한동훈 복당 여론! (TD 기획 기사) : 양영태박사 TV - 인터넷타임즈",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9DZFVtVmNRN3ptQmFHUGdIMFlUWDA1QlFTRE5jcEZBcmdLeWNFOFMwby1TeUlIOWp0ZDN0b1ZmanNGTzV5SFNiT3lwbk5LU3lIdFBiMjk1aHNxZTVjR2ZMX2dkakV6cEVIemhOYg?oc=5\" target=\"_blank\">민심과 너무나도 다른 '보수 배신자' 한동훈 복당 여론! (TD 기획 기사) : 양영태박사 TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인터넷타임즈</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DZFVtVmNRN3ptQmFHUGdIMFlUWDA1QlFTRE5jcEZBcmdLeWNFOFMwby1TeUlIOWp0ZDN0b1ZmanNGTzV5SFNiT3lwbk5LU3lIdFBiMjk1aHNxZTVjR2ZMX2dkakV6cEVIemhOYg?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:26:43 GMT",
-        "source": "인터넷타임즈",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "87c798a0db6ec7dd2e063b3f23df8f7c5baf71a1c8e9add7662b1be3d607b407",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iT3JON09LZFFVSVMwa0NWLU5pSG04T1VRTUlKZnJsUGdFdFVLMGJ4NUgwR28yN0ZSTzA1SFV1eXpCcC0xSG5jbWRjNFhUMlFHeU5QVU9JNFFNSWvSAWBBVV95cUxNZWZlczZKMGUtLWJTVFN3X2V4M2FSYzJ4SmhiNVlpQ0lrYi1TNzB1ZnYzaFZvRWdqSzUzS29xbGt6M0twcDZQX2pyLVl1MTZmNlN5R3pSMFN3dmFqMEdUQ00?oc=5\" target=\"_blank\">김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iT3JON09LZFFVSVMwa0NWLU5pSG04T1VRTUlKZnJsUGdFdFVLMGJ4NUgwR28yN0ZSTzA1SFV1eXpCcC0xSG5jbWRjNFhUMlFHeU5QVU9JNFFNSWvSAWBBVV95cUxNZWZlczZKMGUtLWJTVFN3X2V4M2FSYzJ4SmhiNVlpQ0lrYi1TNzB1ZnYzaFZvRWdqSzUzS29xbGt6M0twcDZQX2pyLVl1MTZmNlN5R3pSMFN3dmFqMEdUQ00?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:48:51 GMT",
-        "source": "연합뉴스",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "257a4cf712994fa5c6ca683e1a15cafb7a6f1fb9ee510cc4dc80766effbaf9fa",
@@ -2693,13 +2645,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "fd0937f96fd14f4eeb906618982d4038d3251ecf30069fa36b8fd6d49ff05db5",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5PVzlTVXpQVVpPUHBseUktTDdSVTBlc3U4WEVYVi00Ymc3REwxU1VLbmxPNUZlR3U2bHd0VjhpXzVtUjJnTFVBWEk5MjlFWThNMTgwSE05aGE4Sk90UTNiZVMycHN0LXdVNnRqX9IBckFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUQ?oc=5\" target=\"_blank\">박선원 \"김민석 구두 경고…'전두환 내란' 거론 이성윤도 책임 물어야\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PVzlTVXpQVVpPUHBseUktTDdSVTBlc3U4WEVYVi00Ymc3REwxU1VLbmxPNUZlR3U2bHd0VjhpXzVtUjJnTFVBWEk5MjlFWThNMTgwSE05aGE4Sk90UTNiZVMycHN0LXdVNnRqX9IBckFVX3lxTE0zZGFVZlJsUHlxMEJjdW05c0Y5V3JhTnRZSW5yZTBrdXFVNDJRczM0X1ZMbFBNa1hBcEdLZUFPY1dXN3lyem5iekVTS0VnREpnOHlEWmZ3M2FGbFJJc2ZGblpVZE5qMmdfLWd2VXgzRVNCUQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 06:20:11 GMT",
+        "source": "머니투데이",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "b2ddc0a27feffb2ca383392976034cb466de1b375644764e2f58c93c9e5ebfca",
-    "title": "이재명 대통령 ‘대장동’ 글 올리자…국힘 \"할 말 많으면 재판부터\" - JTBC",
+    "postId": "87c798a0db6ec7dd2e063b3f23df8f7c5baf71a1c8e9add7662b1be3d607b407",
+    "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45123498579",
-    "sentAt": "2026-11-23T06:21:20.676Z"
+    "runId": "45124620366",
+    "sentAt": "2026-11-23T06:31:16.342Z"
   }
 }
