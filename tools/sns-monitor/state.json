@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T13:01:27.103Z",
+  "lastCheckedAt": "2026-11-23T13:11:16.115Z",
   "seenPostIds": {
     "526030c579804ca0d3807bea14e9159d883e8235d5b41c6f6c2864b369ae1551": {
       "seenAt": "2026-11-20T09:11:20.037Z",
@@ -2500,14 +2500,46 @@
       "seenAt": "2026-11-23T12:51:16.761Z",
       "title": "당명 개정 관련 발언하는 신장식 대표 - 서울뉴스통신",
       "targetName": "신장식"
+    },
+    "f3c3b23a9b52b61ec48ee9773996aaae1daf06df8ab5670f58c4873448436224": {
+      "seenAt": "2026-11-23T13:11:17.334Z",
+      "title": "40대 대전시민 \"정청래 최민희 징계 안돼 , 너무 바보 같은 발언\" #Shorts - OhmyNews",
+      "targetName": "정청래"
+    },
+    "7493a60036e143a44dc5f92e4aec7eca6860f33b67906c953748791da5ace0e4": {
+      "seenAt": "2026-11-23T13:11:18.000Z",
+      "title": "조국, 조작된 김건희 녹취록 공유했다 삭제 - JTBC",
+      "targetName": "조국"
+    },
+    "74150de29a2b0e3efe8138813494f129004f52aa6cd2cfe0a022543284d6f609": {
+      "seenAt": "2026-11-23T13:11:18.680Z",
+      "title": "조국혁신당, 창당 1000일 앞두고 당명 개정 추진…새 이름 찾는다 - 매일경제",
+      "targetName": "조국"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "4288989787c77a0798a61e0c0b1eec390fd686cfd057a5e99f5e48923214d2d9",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWVEeGZOX0J3TWk5T3JxbWx2eWhvSmh2dFIzX3p4U3dub3V4dkE0NmVMQmJJM3U2SjdfelVlRmFPRTFqUXBXZkllTVZrQXRwN21vQk9FWVE4eEZBTURROTNDLVRyS0ZvQndCUHdYLTlEaFJ4RmhKVTBfUjhTVzBVVw?oc=5\" target=\"_blank\">Trump condemned over ‘gutter racism’ in shocking Truth Social post</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indy100</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWVEeGZOX0J3TWk5T3JxbWx2eWhvSmh2dFIzX3p4U3dub3V4dkE0NmVMQmJJM3U2SjdfelVlRmFPRTFqUXBXZkllTVZrQXRwN21vQk9FWVE4eEZBTURROTNDLVRyS0ZvQndCUHdYLTlEaFJ4RmhKVTBfUjhTVzBVVw?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 10:01:46 GMT",
+        "source": "Indy100",
+        "ageHours": 3.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "e9ef9f874101900fca88c86972c6f85f2d4566a353a0371272635fac7e099fda",
-    "title": "당명 개정 관련 발언하는 신장식 대표 - 서울뉴스통신",
+    "postId": "74150de29a2b0e3efe8138813494f129004f52aa6cd2cfe0a022543284d6f609",
+    "title": "조국혁신당, 창당 1000일 앞두고 당명 개정 추진…새 이름 찾는다 - 매일경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45178181204",
-    "sentAt": "2026-11-23T12:51:16.235Z"
+    "runId": "45181371797",
+    "sentAt": "2026-11-23T13:11:18.321Z"
   }
 }

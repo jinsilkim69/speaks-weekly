@@ -2263,3 +2263,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 40대 대전시민 "정청래 최민희 징계 안돼 , 너무 바보 같은 발언" #Shorts - OhmyNews
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 40대 대전시민 "정청래 최민희 징계 안돼 , 너무 바보 같은 발언" #Shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WXVTbFZGM19vT2R0NjRDWUQ5OW8wSzVRUGNnbjRvUGZfay1XWTBFYWJiM2hHOXBGNmxlTXF6MjQtSzAxWkZ3VFA5dy0xQlA0ZTZNN3ZNTXRaRjFNRjl3cmhickVoOUpYQzBfRncxa2NndnpfeTVlTHROR21JZjg?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 조작된 김건희 녹취록 공유했다 삭제 - JTBC
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 조작된 김건희 녹취록 공유했다 삭제
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE04TUptckdOenBuVVhFRnUzb0xqcGF5RlRLU2JNVUJoTVBHYVAyLXpuVWNtQmt4RW40eHFFNkJaYUVEWjcxbnpTZ1BhZFdXYzljRUJiXw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 창당 1000일 앞두고 당명 개정 추진…새 이름 찾는다 - 매일경제
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 창당 1000일 앞두고 당명 개정 추진…새 이름 찾는다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRRU9UcTgxMkYtOVNvLUNuZ0ZHSEEzUWdqUWJNb3FrSHhOcUpiMy1xWjJZY0ZxZ3lGUHFlU2JjbjNFUm9TYlVIalY3RndVNmZPOUt1SHd3?oc=5)
+
+---
+
