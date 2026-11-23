@@ -2393,3 +2393,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 외교 수장은 임웅순으로…송영길 입각 기대 꺾은 ‘동맹과 실무’ - 재외동포신문
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 외교 수장은 임웅순으로…송영길 입각 기대 꺾은 ‘동맹과 실무’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTFBCeVp6UmtSaHRGQzBoQ0paSXRlZV9kQ0dGS3BWMFBHeEtyTEN2RGdRNDhuc1ZMdFFScDQybHVKaE9PcERMSlBjNG1jRHYxaFFJUEVxUzQ4ZnBTT29XTThvcmdqZV9UUUowTjVV?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump urges Nvidia to rehire former CEO Jensen Huang - Yahoo Finance
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump urges Nvidia to rehire former CEO Jensen Huang
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDNFUUdPa2lNN1p0Z19haGVZTkN3aGh4ek40TGFjSW10am5US3dKdW9yODg4bGFodkd4VFpaUUI5bWVLWnJwRVhhaGthcXB4ck5KLXkyUFNvc2N4eDJhV2MzYUZCWGg5aUJwSDBJQzNVUjZ3Q05vQWZwRkNQbTZ1OXBkMUxYcTUwVWo1bzZFeFVaQXkwQk1KZlV4UHo?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang - MarketWatch
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNTE3UTJiTDJBdGEteFJpU1RwQjQ3NW56dVJyc2ZXcTd0M0V5b3hfMDZEdnEzaW9GNmJjV25iYl9Gb01jallBT2VMaDgxWndBdnU4WERzcXo5TEpKTU1EUGJXTTRxWFoyZ0dmSUJFenZrdG81ZWNkN0pXNmo5SDhWOHFuRkYyMHZjWmlDck1nS2toS0dhMnlmRWhWRFIyU2gyZ0lIaktGVEVjMDRoMkFzcWVyRkt4blFjRVpCOHNsb2s?oc=5)
+
+---
+

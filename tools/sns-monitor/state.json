@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T14:01:14.290Z",
+  "lastCheckedAt": "2026-11-23T14:11:15.050Z",
   "seenPostIds": {
-    "8e7257aeeab13683818191b33d398ace44df67899765b86344e96d4c78ed73d9": {
-      "seenAt": "2026-11-20T09:51:24.275Z",
-      "title": "한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나? - 에너지경제신문",
-      "targetName": "한동훈"
-    },
     "3dc1f3c5af228e415bf23a710f56bd0a5020c2e631ed83522e835694e6339a1f": {
       "seenAt": "2026-11-20T09:51:25.005Z",
       "title": "한동훈 “조희대 탄핵안 인용 0%…김민석 의원직 걸겠나? - 에너지경제신문",
@@ -2505,14 +2500,29 @@
       "seenAt": "2026-11-23T14:01:15.546Z",
       "title": "\"윤 구형 맞춰 한동훈 제명\"...추가 폭로에도 장동혁은 \"본질 아냐\" - YTN",
       "targetName": "한동훈"
+    },
+    "cdcba583f6cefa137cb9df0dc0698327ce62657cba07fc48d20a9c99cdad98a1": {
+      "seenAt": "2026-11-23T14:11:16.130Z",
+      "title": "외교 수장은 임웅순으로…송영길 입각 기대 꺾은 ‘동맹과 실무’ - 재외동포신문",
+      "targetName": "송영길"
+    },
+    "09f293359f53c87f32b47d06402a747ce58448f6116f8e4027f591dd4b760b90": {
+      "seenAt": "2026-11-23T14:11:16.755Z",
+      "title": "Donald Trump urges Nvidia to rehire former CEO Jensen Huang - Yahoo Finance",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "736568d78bac54b01660529fc0ba45e4e45926306ff8af98e43a995af02332a3": {
+      "seenAt": "2026-11-23T14:11:17.351Z",
+      "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang - MarketWatch",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "188839a9b2549286e46eb3e166d8672e9c59982396af9c7524beea728f7bb722",
-    "title": "\"윤 구형 맞춰 한동훈 제명\"...추가 폭로에도 장동혁은 \"본질 아냐\" - YTN",
+    "postId": "736568d78bac54b01660529fc0ba45e4e45926306ff8af98e43a995af02332a3",
+    "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang - MarketWatch",
     "bot": "jongsuk_pol_bot",
-    "runId": "45189687006",
-    "sentAt": "2026-11-23T14:01:14.951Z"
+    "runId": "45191441687",
+    "sentAt": "2026-11-23T14:11:17.051Z"
   }
 }
