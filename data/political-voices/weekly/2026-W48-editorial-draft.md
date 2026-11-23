@@ -846,3 +846,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** "조희대 탄핵 사유 차고 넘친다"…김민석, 탄핵안 처리 방침 재확인 - 한국경제
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "조희대 탄핵 사유 차고 넘친다"…김민석, 탄핵안 처리 방침 재확인
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE94LXdYc2dVaWZIMTJCLXNmVV9rLXJfZUprUFJTRlFjdHVuRWJJbGZySjdyMlpDWktRZWNzQ2ZzRm9BLVpfaHVXNWpHbmZSU0VKQzlXV29YRThxZw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 더불어민주당 대표 최고위 발언 - 국제뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 더불어민주당 대표 최고위 발언
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE01SW42MS1PMHJPN2tFdzVBMHUxeDFSMTE0N1J2Z1RCNjhjMFc3LVZWVXNNMjlfOFdDMGRhUUo2YXNvX0c2SHlrcFNlR0x3N3hZLXZXdmFaTGFvZTFzLXVrWTJsQ2VETzVEM2FKWl93?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 혁신당 ‘당명 개정’ 제안 “당명 속 ‘조국’ 제 이름 아니지만…범민주 좋아할 이름 찾자 ” - 경향신문
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 혁신당 ‘당명 개정’ 제안 “당명 속 ‘조국’ 제 이름 아니지만…범민주 좋아할 이름 찾자 ”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWOEMzcFNZUnEtZTBFdmVROTN6RXRRcnRZeVhTMFk3OU9PYVh1M1JWUzg2SHRpX0JMTzh0OUJPRWhheTd0WnVLOU94bm5jYjNweUlGT0VJaE5md9IBX0FVX3lxTE9BTklCUVJLcUwxZFRza2V5WlJFNlpSelpNQ1BXUVBoY1BRYU1EMTl6T0dHRTZsdzVHWTFKcGxpNEtwQXBCWHB6VDJlR1IyRjZrOGF4dW5IV29uLUFOUXRN?oc=5)
+
+---
+

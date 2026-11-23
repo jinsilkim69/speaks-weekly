@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T04:11:16.504Z",
+  "lastCheckedAt": "2026-11-23T04:21:18.819Z",
   "seenPostIds": {
-    "3cb0481217544806a85163105a2846914f9ff2a55676367025d958e2d5ca96a1": {
-      "seenAt": "2026-11-19T22:41:22.232Z",
-      "title": "개혁신당 이준석 \"대한항공 스타링크 신세계\"…파라타·진에어, 경쟁 가세 - 신아일보",
-      "targetName": "이준석"
-    },
-    "5be1f3367aa1bcf878a730c1c86befdb0a2a062fec2572784ed968c039d51525": {
-      "seenAt": "2026-11-19T22:41:22.953Z",
-      "title": "Law Firm Did $11 Million Worth Of Free Legal Work For Trump Administration After Shakedown - HuffPost",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "0b22c61c61e1bc9babfa5d0f4ba3d775af5de537d5d1c30abf55556a6188b691": {
-      "seenAt": "2026-11-19T22:51:19.941Z",
-      "title": "Trump Explodes in All-Caps AF1 Rant After Dictator Party - The Daily Beast",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "fee002734dae18cee0d74efad5875a51fde527a1e6a3e25f5fd157f08040dfd3": {
       "seenAt": "2026-11-19T22:51:20.634Z",
       "title": "與 '조희대 탄핵' 추진에…한동훈 \"미쳐도 곱게 미쳐야\" - 한국경제",
@@ -2515,14 +2500,29 @@
       "seenAt": "2026-11-23T04:11:19.053Z",
       "title": "당명 개정 관련 발언하는 신장식 대표 - 서울뉴스통신",
       "targetName": "신장식"
+    },
+    "c28938a2afdc72192d695edd5672f556801c079fd87d35865a3721e86297a841": {
+      "seenAt": "2026-11-23T04:21:20.240Z",
+      "title": "\"조희대 탄핵 사유 차고 넘친다\"…김민석, 탄핵안 처리 방침 재확인 - 한국경제",
+      "targetName": "김민석"
+    },
+    "6e9b352c6ef747af4726fa8f65a790dfb2897d247e256e1065b95ae0bab9ea7f": {
+      "seenAt": "2026-11-23T04:21:20.889Z",
+      "title": "김민석 더불어민주당 대표 최고위 발언 - 국제뉴스",
+      "targetName": "김민석"
+    },
+    "d824ed519dae1fa7bf3787a1677fd182304961b98fcd56accbb2623b4a250219": {
+      "seenAt": "2026-11-23T04:21:21.550Z",
+      "title": "조국, 혁신당 ‘당명 개정’ 제안 “당명 속 ‘조국’ 제 이름 아니지만…범민주 좋아할 이름 찾자 ” - 경향신문",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "0ca9e0650b0d8361ab9bc9ac95844def8fa85d795cacb56a8c66640c606a2603",
-    "title": "당명 개정 관련 발언하는 신장식 대표 - 서울뉴스통신",
+    "postId": "d824ed519dae1fa7bf3787a1677fd182304961b98fcd56accbb2623b4a250219",
+    "title": "조국, 혁신당 ‘당명 개정’ 제안 “당명 속 ‘조국’ 제 이름 아니지만…범민주 좋아할 이름 찾자 ” - 경향신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45110281032",
-    "sentAt": "2026-11-23T04:11:18.719Z"
+    "runId": "45111315888",
+    "sentAt": "2026-11-23T04:21:21.223Z"
   }
 }
