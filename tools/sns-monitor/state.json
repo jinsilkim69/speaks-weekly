@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-22T23:54:45.042Z",
+  "lastCheckedAt": "2026-11-23T00:01:14.108Z",
   "seenPostIds": {
     "ac283f42efe22e2ef5304f53804b932aecbda3fb9d7c293116e3b7483c5aa149": {
       "seenAt": "2026-11-19T12:21:19.652Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-22T23:01:14.111Z",
       "title": "U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate' - PBS",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "064ce7cae25fec65896de2ebde1cd6fd7bd5f205bbd928e29b807c3ea45a31c3": {
+      "seenAt": "2026-11-23T00:01:15.357Z",
+      "title": "김민석 민주당 대표, 취임 100일 성적표…당내 균열·지지율 하락 '과제' - 서울뉴스통신",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3b420d7cf443ee88512ceebf07ceac8bc7e1d6c8a6dab3c4023153746dafb730",
-    "title": "U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate' - PBS",
+    "postId": "064ce7cae25fec65896de2ebde1cd6fd7bd5f205bbd928e29b807c3ea45a31c3",
+    "title": "김민석 민주당 대표, 취임 100일 성적표…당내 균열·지지율 하락 '과제' - 서울뉴스통신",
     "bot": "jongsuk_pol_bot",
-    "runId": "45080883173",
-    "sentAt": "2026-11-22T23:01:13.633Z"
+    "runId": "45086307145",
+    "sentAt": "2026-11-23T00:01:14.709Z"
   }
 }
