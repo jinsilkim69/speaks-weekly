@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T21:11:23.041Z",
+  "lastCheckedAt": "2026-11-23T21:21:14.262Z",
   "seenPostIds": {
-    "5af0dd0a31515d2e42997df862258850fe1a1fd7cc51852ccb50dbf1ac642fb6": {
-      "seenAt": "2026-11-20T17:11:21.166Z",
-      "title": "김민석 “민주당, 조희대 탄핵 결정…역사적 기회주의자들에게 면죄부” - 로리더",
-      "targetName": "김민석"
-    },
     "b2a436e444c6c73110a7b1a7e175c7cf586b8a8d10751550752ac62b5ab6539e": {
       "seenAt": "2026-11-20T17:21:17.447Z",
       "title": "What Trump pardon means for Pete Rose's Hall of Fame case - Cincinnati Enquirer",
@@ -2505,14 +2500,29 @@
       "seenAt": "2026-11-23T21:11:24.219Z",
       "title": "민주당도 경계하는 한동훈 복당?…역설적 보수 결집 계기 될까 - 데일리안",
       "targetName": "한동훈"
+    },
+    "371cf78b70950e887dc5af1a7ca71b6008c293769c833257a208e36af8aa91dc": {
+      "seenAt": "2026-11-23T21:21:15.294Z",
+      "title": "[길잃은 김민석] 지지율 악화·내홍에 혁신당 자생론까지 - 데일리안",
+      "targetName": "김민석"
+    },
+    "9c281728fbc5043d18ef8795c75561c1c56835fe09efb5df4d5145ea13ca5327": {
+      "seenAt": "2026-11-23T21:21:15.926Z",
+      "title": "이준석 “코스피 ‘초심자의 운’ 말했다 조롱받아…지금 3가지 필요” 제안 - 문화일보",
+      "targetName": "이준석"
+    },
+    "445165bc0174f13011ef56dc089945e6415d06a7afe82994befb20004ddce297": {
+      "seenAt": "2026-11-23T21:21:16.520Z",
+      "title": "Trump Says ‘Sex Sells’ and Posts Image of Jensen Huang Clutching Red Bra - People.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "fb9f50c0f3d107e8d24e3d36585ffd29011e500b946b392458fc50c09e61b821",
-    "title": "민주당도 경계하는 한동훈 복당?…역설적 보수 결집 계기 될까 - 데일리안",
+    "postId": "445165bc0174f13011ef56dc089945e6415d06a7afe82994befb20004ddce297",
+    "title": "Trump Says ‘Sex Sells’ and Posts Image of Jensen Huang Clutching Red Bra - People.com",
     "bot": "jongsuk_pol_bot",
-    "runId": "45267024366",
-    "sentAt": "2026-11-23T21:11:23.671Z"
+    "runId": "45268740485",
+    "sentAt": "2026-11-23T21:21:16.227Z"
   }
 }
