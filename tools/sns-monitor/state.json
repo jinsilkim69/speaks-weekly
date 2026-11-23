@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T11:31:15.415Z",
+  "lastCheckedAt": "2026-11-23T11:41:17.082Z",
   "seenPostIds": {
     "e342d5a31a2afda328060314e6b6df8f3ceaf9747585bc0b5c7151ede9878d1a": {
       "seenAt": "2026-11-20T07:31:21.224Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-23T11:21:23.273Z",
       "title": "한동훈 의원 “정상화되면 국민의힘으로 돌아가 민주당과 싸우겠다” - 경북일보",
       "targetName": "한동훈"
+    },
+    "d4a48163ad7657cef9e0afd17b7d48864457a1443ee915f7dcc422bbf19dab93": {
+      "seenAt": "2026-11-23T11:41:18.549Z",
+      "title": "한동훈 제명 결정한 날, 장동혁에 “이벤트 마무리중” 문자 전송 - 동아일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "757c24a167e631752e323ff06a03531ea2247c48960caed2590a7743e73a6caf",
-    "title": "한동훈 의원 “정상화되면 국민의힘으로 돌아가 민주당과 싸우겠다” - 경북일보",
+    "postId": "d4a48163ad7657cef9e0afd17b7d48864457a1443ee915f7dcc422bbf19dab93",
+    "title": "한동훈 제명 결정한 날, 장동혁에 “이벤트 마무리중” 문자 전송 - 동아일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45164397201",
-    "sentAt": "2026-11-23T11:21:22.954Z"
+    "runId": "45167377753",
+    "sentAt": "2026-11-23T11:41:17.939Z"
   }
 }

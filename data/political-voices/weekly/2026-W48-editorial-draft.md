@@ -2172,3 +2172,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 제명 결정한 날, 장동혁에 “이벤트 마무리중” 문자 전송 - 동아일보
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 제명 결정한 날, 장동혁에 “이벤트 마무리중” 문자 전송
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE5rVG1FSnd5V0RJaTFxdHBFNkNQcjVvQ1RVUEJPeFBKOTkzb2wtZUJLNVdKZndHTV85cDBYTUl6MGtta1VNXzJzSkZWUFQ1SGRULVVCLTVEaWhSUWVGbDRBUWgtZG5ndjFmQ092d1dBdHBKNVhOT1U00gFmQVVfeXFMUDI2dEtMUTVfbUFOdnZkMlZUXzVXc3ZTSU1NQlNCSXM2WFdBd0htZTlvWnpfSURPSnJqa2dzQk1CTHE5eUp3SEN2MUhXUkhnRmhPZ2xSa051NWVmb29ja1pQaktIMmlB?oc=5)
+
+---
+
