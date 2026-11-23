@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T05:31:21.227Z",
+  "lastCheckedAt": "2026-11-23T05:41:15.792Z",
   "seenPostIds": {
-    "6a2290c9b93357b884063c9792fa554e7a69b35559b3e32db22a88e12d60bd21": {
-      "seenAt": "2026-11-20T00:21:17.918Z",
-      "title": "Trump posthumously pardons US baseball legend Pete Rose - BBC",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "a83322443293d5173683fadf82749737326fdf1efa2f8cdc408faeb481150554": {
-      "seenAt": "2026-11-20T00:21:18.566Z",
-      "title": "Trump Pardons Late Baseball Legend Pete Rose, Calls Him Superstar - Forth.News",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "810d8541af469b1b0a9397ae7b1ef0277f4d616636942d16ec37cc4086a3c0cd": {
-      "seenAt": "2026-11-20T00:31:19.385Z",
-      "title": "조국, 조국혁신당 ‘비전랩’ 위원장 맡는다 - 중앙일보",
-      "targetName": "조국"
-    },
     "17a1f6df795ae0e0dfdde67a82dd6fcef379caeb2ae68a1754a83d3768e3d1f6": {
       "seenAt": "2026-11-20T00:35:28.582Z",
       "title": "Trump pressures Congress to pass farm bill this year - Reuters",
@@ -2515,36 +2500,83 @@
       "seenAt": "2026-11-23T05:31:24.478Z",
       "title": "조국혁신당·개혁신당 자강의 시간 - 공공뉴스",
       "targetName": "조국"
+    },
+    "86b8a1508652c1609748f3f78ae8dbfaf77ef337bb7335110578edaadad410eb": {
+      "seenAt": "2026-11-23T05:41:17.106Z",
+      "title": "오세훈 \"대통령 이재명 삶, 피고인 이재명에게 쓰지 마시라\" - 연합뉴스",
+      "targetName": "이재명"
+    },
+    "71424d61d586a23b9b9bc27fabe37d045bb5a80d688147b51cb516e399e7d7b9": {
+      "seenAt": "2026-11-23T05:41:17.805Z",
+      "title": "오세훈 서울시장 \"대통령의 삶, 피고인 이재명에 쓰지 마라\" - 한국경제",
+      "targetName": "이재명"
+    },
+    "dfac6178129e23520407e063c152a26cb489493ada49d56d7c9a4177ed7ab7f9": {
+      "seenAt": "2026-11-23T05:41:18.556Z",
+      "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\" - 머니투데이 - 머니투데이",
+      "targetName": "이재명"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "86b8a1508652c1609748f3f78ae8dbfaf77ef337bb7335110578edaadad410eb",
+        "id": "54c6e2724a46062a177fb88d59d9fae4b38fb571c630083f10d64d2adc4d1d55",
         "targetId": "lee_jaemyung",
         "targetName": "이재명",
         "targetTitle": "대통령",
-        "title": "오세훈 \"대통령 이재명 삶, 피고인 이재명에게 쓰지 마시라\" - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DWWdIZFEtcWZwRVh4T0xQQ04xZnhsSGJfOVh5aHd5ODNOUUNoMEhrem16cFczZ3V2Nm1rM3B6NmtQRThyNUZ2UEo0RW5DMUlEZktCV05iWmY4VEXSAWBBVV95cUxPaFlwV2JLUmp2WjYtdmxhQWYwR2tfTmhzbUxpYWZMWEl1dElYVElkdDBDNlNwaUJSM1RIWnYwbEhYYnpJd1IzV3ktUDc3NFUwRzM4MzdiY1pSMGN4UkQwRE4?oc=5\" target=\"_blank\">오세훈 \"대통령 이재명 삶, 피고인 이재명에게 쓰지 마시라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DWWdIZFEtcWZwRVh4T0xQQ04xZnhsSGJfOVh5aHd5ODNOUUNoMEhrem16cFczZ3V2Nm1rM3B6NmtQRThyNUZ2UEo0RW5DMUlEZktCV05iWmY4VEXSAWBBVV95cUxPaFlwV2JLUmp2WjYtdmxhQWYwR2tfTmhzbUxpYWZMWEl1dElYVElkdDBDNlNwaUJSM1RIWnYwbEhYYnpJd1IzV3ktUDc3NFUwRzM4MzdiY1pSMGN4UkQwRE4?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:20:27 GMT",
-        "source": "연합뉴스",
-        "ageHours": 0.2
+        "title": "오세훈 \"대통령의 시간, '피고인 이재명' 아닌 민생에 쓰라\" - 이데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVNDUGR1Yk5FdzNPS2tKYkotZUgxaEpDWjFDZE95ZG4wMkY0UDlSRXNDUDFWRWlQaEszWWJaZ2VwSG1LRV9aS0ZkZEtsUjRoWXhpZG9hcUJjSTVDUVhicmFyQ1U3SFk5U3hJVlQ0ZEpTQzViblpLUzVUSWdmNlhnaQ?oc=5\" target=\"_blank\">오세훈 \"대통령의 시간, '피고인 이재명' 아닌 민생에 쓰라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTVNDUGR1Yk5FdzNPS2tKYkotZUgxaEpDWjFDZE95ZG4wMkY0UDlSRXNDUDFWRWlQaEszWWJaZ2VwSG1LRV9aS0ZkZEtsUjRoWXhpZG9hcUJjSTVDUVhicmFyQ1U3SFk5U3hJVlQ0ZEpTQzViblpLUzVUSWdmNlhnaQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:22:33 GMT",
+        "source": "이데일리",
+        "ageHours": 0.3
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "71424d61d586a23b9b9bc27fabe37d045bb5a80d688147b51cb516e399e7d7b9",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "오세훈 서울시장 \"대통령의 삶, 피고인 이재명에 쓰지 마라\" - 한국경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZclA3Qm13ZmlqbjdjejRMeWp3bGllcXhYYTRqWG1kZWNhWGI0eUZLLUY4SDNlQjlGSFpyeVF1ci1DWWVCc2dUdVdfYzR4bUNJaUZQeXItTVdrQQ?oc=5\" target=\"_blank\">오세훈 서울시장 \"대통령의 삶, 피고인 이재명에 쓰지 마라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZclA3Qm13ZmlqbjdjejRMeWp3bGllcXhYYTRqWG1kZWNhWGI0eUZLLUY4SDNlQjlGSFpyeVF1ci1DWWVCc2dUdVdfYzR4bUNJaUZQeXItTVdrQQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 05:27:58 GMT",
-        "source": "한국경제",
+        "id": "e8837f69f5da7a57762526e32fcf292dd51d993d519a0bce3dd423fa99ff64f7",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "'친청 격노' 신천지 발언 박선원에 김민석 경고…\"단합 해치는 언행\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcFp4YkJwWHJ2SVl2aF9HSmJEUUhQRkd1eGRHaWt5NzVROF9tTk9laGw3SERHVjhHWXg3UldSVzRzemF1U2hndlFvdmRlOVlQVzd3NHc5QVNoRW5yLXZQeTEydmJrZy1nTjl1VNIBckFVX3lxTE9aXy1DalFybTZ0R2pZcXNmRk93bVNJa1dvdU5ibFlOVTJiRXFUd24yVHlmOThHZV92T080YkQtREtJYkVQNFFxV0xnRDRhNjA5aEM3V2xGU3pIVE84SWd4NDczNEdUR2h4VWwyVlNpcGoyZw?oc=5\" target=\"_blank\">'친청 격노' 신천지 발언 박선원에 김민석 경고…\"단합 해치는 언행\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zcFp4YkJwWHJ2SVl2aF9HSmJEUUhQRkd1eGRHaWt5NzVROF9tTk9laGw3SERHVjhHWXg3UldSVzRzemF1U2hndlFvdmRlOVlQVzd3NHc5QVNoRW5yLXZQeTEydmJrZy1nTjl1VNIBckFVX3lxTE9aXy1DalFybTZ0R2pZcXNmRk93bVNJa1dvdU5ibFlOVTJiRXFUd24yVHlmOThHZV92T080YkQtREtJYkVQNFFxV0xnRDRhNjA5aEM3V2xGU3pIVE84SWd4NDczNEdUR2h4VWwyVlNpcGoyZw?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 04:04:47 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "de70fed87e374c63a183181f82ee3a52ecdb7a6231f2291f563b52ca097fea81",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump urges Nvidia board to rehire Jensen Huang - Yahoo Finance",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1U1QkE2OXk1TzdOX1BDSDhES0p1czVuS1lvN2JCSktxdzE3djh6UFBlQWRJM0Y4a3JmTHEyQTJMc3ZiZmhoYThJUGNIX0NaTFlXMUYyempKdzFOT3daNUJzR0lzV0l1cXp6OTBYRTRIWU1qVUVQZHQ0clNFVE1TOUh4WDVwVzRxNVh4WndTSUVqOWlkNmRz?oc=5\" target=\"_blank\">Trump urges Nvidia board to rehire Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1U1QkE2OXk1TzdOX1BDSDhES0p1czVuS1lvN2JCSktxdzE3djh6UFBlQWRJM0Y4a3JmTHEyQTJMc3ZiZmhoYThJUGNIX0NaTFlXMUYyempKdzFOT3daNUJzR0lzV0l1cXp6OTBYRTRIWU1qVUVQZHQ0clNFVE1TOUh4WDVwVzRxNVh4WndTSUVqOWlkNmRz?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 04:27:00 GMT",
+        "source": "Yahoo Finance",
+        "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "580c3a3939bd6521be094f392ae1251585b1602d8767275d6c0713819b4258e5",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Donald Trump Finds Bizarre New Scapegoat for His Mounting Woes - The Daily Beast",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTRiclNkWktTWmFDYzJnZDY5dFlrMGtoWnBHSldtT0FMeDBySkVjSjNhcTN3eXBRRWZ4cEJYNnBNNExRRjdGMEZLc3ZTc2RGdDhNcFdhQ0hxUkN6TlFHM1dWOWtYX0dkWWpNbG9nUVlFYWM4dWw1R0ViSUQtMndxTEhicTdZM1N1cFY2M1I1c29LWkpETDNJ?oc=5\" target=\"_blank\">Donald Trump Finds Bizarre New Scapegoat for His Mounting Woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTRiclNkWktTWmFDYzJnZDY5dFlrMGtoWnBHSldtT0FMeDBySkVjSjNhcTN3eXBRRWZ4cEJYNnBNNExRRjdGMEZLc3ZTc2RGdDhNcFdhQ0hxUkN6TlFHM1dWOWtYX0dkWWpNbG9nUVlFYWM4dWw1R0ViSUQtMndxTEhicTdZM1N1cFY2M1I1c29LWkpETDNJ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 05:34:39 GMT",
+        "source": "The Daily Beast",
         "ageHours": 0.1
       },
       "delivered": [],
@@ -2552,10 +2584,10 @@
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "60cafbea5de08637cc3c1e70e887c2074b2da1ee30d944b0a3413fb5d2665710",
-    "title": "조국혁신당·개혁신당 자강의 시간 - 공공뉴스",
+    "postId": "dfac6178129e23520407e063c152a26cb489493ada49d56d7c9a4177ed7ab7f9",
+    "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에 쓰지 말라\" - 머니투데이 - 머니투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45118269694",
-    "sentAt": "2026-11-23T05:31:24.096Z"
+    "runId": "45119310946",
+    "sentAt": "2026-11-23T05:41:18.177Z"
   }
 }

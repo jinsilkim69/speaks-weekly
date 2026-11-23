@@ -1067,3 +1067,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 "대통령 이재명 삶, 피고인 이재명에게 쓰지 마시라" - 연합뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 "대통령 이재명 삶, 피고인 이재명에게 쓰지 마시라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DWWdIZFEtcWZwRVh4T0xQQ04xZnhsSGJfOVh5aHd5ODNOUUNoMEhrem16cFczZ3V2Nm1rM3B6NmtQRThyNUZ2UEo0RW5DMUlEZktCV05iWmY4VEXSAWBBVV95cUxPaFlwV2JLUmp2WjYtdmxhQWYwR2tfTmhzbUxpYWZMWEl1dElYVElkdDBDNlNwaUJSM1RIWnYwbEhYYnpJd1IzV3ktUDc3NFUwRzM4MzdiY1pSMGN4UkQwRE4?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 서울시장 "대통령의 삶, 피고인 이재명에 쓰지 마라" - 한국경제
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 서울시장 "대통령의 삶, 피고인 이재명에 쓰지 마라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZclA3Qm13ZmlqbjdjejRMeWp3bGllcXhYYTRqWG1kZWNhWGI0eUZLLUY4SDNlQjlGSFpyeVF1ci1DWWVCc2dUdVdfYzR4bUNJaUZQeXItTVdrQQ?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 "대통령 이재명의 시간, 피고인 이재명에 쓰지 말라" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 "대통령 이재명의 시간, 피고인 이재명에 쓰지 말라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE1nQW9DbUdvTmVMdHFGZVpISlhkUnlQb2dWcGNxVnhMNFdQTDdPVWFLeHZEejNvYUxWUzFrTFRsU1FVeGtmQUJyeGU4NUI5ZFBUM2N4Rk5FNEpSaVdnbUtrM1hqb3BBOFhpNEHSAW9BVV95cUxNTFFKOXcwX21KOHZhQXlJdkF2M19iYUg1OGhDVzVlV0UteUNGVkRzVzg1ODZUZHRkeUtSYWtEU1ZiRVFMbURSM3V3NEFmWVhQNGRQc3hJQlhQSHRYX1ByNFhPM0FhWkhzbHB4bmVGMEE?oc=5)
+
+---
+
