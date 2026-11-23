@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T21:41:15.978Z",
+  "lastCheckedAt": "2026-11-23T21:51:15.016Z",
   "seenPostIds": {
     "509fd91efc5ae7e55ae2be48c42f7e01f0c6a3ea30f56c2972a0d5ca69f7ec31": {
       "seenAt": "2026-11-20T18:21:19.793Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-23T21:21:16.520Z",
       "title": "Trump Says ‘Sex Sells’ and Posts Image of Jensen Huang Clutching Red Bra - People.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "1c27b49c8c54eae1d4cbf082658ecd25694c86b38db4bec587149c80f2dabd30": {
+      "seenAt": "2026-11-23T21:51:16.198Z",
+      "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief - The New York Times",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "445165bc0174f13011ef56dc089945e6415d06a7afe82994befb20004ddce297",
-    "title": "Trump Says ‘Sex Sells’ and Posts Image of Jensen Huang Clutching Red Bra - People.com",
+    "postId": "1c27b49c8c54eae1d4cbf082658ecd25694c86b38db4bec587149c80f2dabd30",
+    "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief - The New York Times",
     "bot": "jongsuk_pol_bot",
-    "runId": "45268740485",
-    "sentAt": "2026-11-23T21:21:16.227Z"
+    "runId": "45273812291",
+    "sentAt": "2026-11-23T21:51:15.649Z"
   }
 }
