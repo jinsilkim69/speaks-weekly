@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T14:31:15.679Z",
+  "lastCheckedAt": "2026-11-23T14:42:08.344Z",
   "seenPostIds": {
     "c44fce39583aa3b74d70abd9c4ceaa63abfdf529870fb19f5d9c42dc56b973a7": {
       "seenAt": "2026-11-20T10:41:18.251Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-23T14:21:19.345Z",
       "title": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing’ for U.S. - The Washington Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "c890aff225b952659935b14bbd3a25f233836133abe32a4f5d00f0a876a0bed5": {
+      "seenAt": "2026-11-23T14:42:10.186Z",
+      "title": "조국혁신당 최고위원회의 - 연합뉴스",
+      "targetName": "조국"
+    },
+    "3c0101c8e2ffc8f6b47c106cf06782ebc9d2777894851905cb7c54ceb1cebdc5": {
+      "seenAt": "2026-11-23T14:42:10.953Z",
+      "title": "Trump urges Nvidia to rehire Jensen Huang and attacks Somalis in Truth Social spree - The Independent",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "52b8079b85a0bf085d2451688a94585822f7db83979054ad35be4ef27bf1afb5",
-    "title": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing’ for U.S. - The Washington Post",
+    "postId": "3c0101c8e2ffc8f6b47c106cf06782ebc9d2777894851905cb7c54ceb1cebdc5",
+    "title": "Trump urges Nvidia to rehire Jensen Huang and attacks Somalis in Truth Social spree - The Independent",
     "bot": "jongsuk_pol_bot",
-    "runId": "45193241124",
-    "sentAt": "2026-11-23T14:21:18.944Z"
+    "runId": "45196824213",
+    "sentAt": "2026-11-23T14:42:10.567Z"
   }
 }
