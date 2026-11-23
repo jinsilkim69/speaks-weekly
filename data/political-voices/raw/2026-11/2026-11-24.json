@@ -123,5 +123,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f4922f4518285b41d9bb98de1a446fe63dc0dfbc0eebcb6443c7eff2c70541e9",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate leader - Baltimore Sun",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSW01OFdPWmF2Zm1Wb2R2amUzTi13SFRyQU1tNDFwY3lTN2JNTGdOcTRKRG1oQXpiaGs1WUpDNWxiNFp4VWlmbG9SNTRBWDRKbVYxbEhDdWRyMmxtRGMtbjdGSlhPMjllekhUeDB0amM5OUZURUJ4c0JEcDRvbjBTZE94enpyRHdJOVV1bWdOWE5EQVFtdXA3am1fRmFkNFpEYmVoWV9jNW1iT1BFZnF3?oc=5\" target=\"_blank\">Trump says it will be ‘very hard’ to work with Schumer as Senate leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baltimore Sun</font>",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSW01OFdPWmF2Zm1Wb2R2amUzTi13SFRyQU1tNDFwY3lTN2JNTGdOcTRKRG1oQXpiaGs1WUpDNWxiNFp4VWlmbG9SNTRBWDRKbVYxbEhDdWRyMmxtRGMtbjdGSlhPMjllekhUeDB0amM5OUZURUJ4c0JEcDRvbjBTZE94enpyRHdJOVV1bWdOWE5EQVFtdXA3am1fRmFkNFpEYmVoWV9jNW1iT1BFZnF3?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 15:39:01 GMT",
+    "source": "Baltimore Sun",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump says it will be ‘very hard’ to work with Schumer as Senate leader",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "90714a8289db0557c4290f409a3090ccede74a01a1363eee690d550e92affddf",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, 친청계 겨냥 “일제 부역자” 발언 박선원에 경고…박 “경고에 예외 없어야” - KBS 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zRWp5UXI3VWRQczFWdTJIdWxqelFHSHNENFRQWUktUEczazB1VzNfeXI5UGktZDFxeWxvY25mTWhXSTJqaXROM1ExbjBITVkxbFl2c0poNFpJWG8?oc=5\" target=\"_blank\">김민석, 친청계 겨냥 “일제 부역자” 발언 박선원에 경고…박 “경고에 예외 없어야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zRWp5UXI3VWRQczFWdTJIdWxqelFHSHNENFRQWUktUEczazB1VzNfeXI5UGktZDFxeWxvY25mTWhXSTJqaXROM1ExbjBITVkxbFl2c0poNFpJWG8?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 02:47:00 GMT",
+    "source": "KBS 뉴스",
+    "ageHours": 13.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 친청계 겨냥 “일제 부역자” 발언 박선원에 경고…박 “경고에 예외 없어야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

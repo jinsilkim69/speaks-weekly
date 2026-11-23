@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T15:51:18.895Z",
+  "lastCheckedAt": "2026-11-23T16:01:25.850Z",
   "seenPostIds": {
     "2d792a19cf9b620cf03efda9c4fdc7d9ef8766784a5eec85b2004a363a3bcc9d": {
       "seenAt": "2026-11-20T12:41:19.341Z",
@@ -2500,33 +2500,24 @@
       "seenAt": "2026-11-23T15:31:19.940Z",
       "title": "‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang - Time Magazine",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f4922f4518285b41d9bb98de1a446fe63dc0dfbc0eebcb6443c7eff2c70541e9": {
+      "seenAt": "2026-11-23T16:01:26.957Z",
+      "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate leader - Baltimore Sun",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "90714a8289db0557c4290f409a3090ccede74a01a1363eee690d550e92affddf": {
+      "seenAt": "2026-11-23T16:01:28.089Z",
+      "title": "김민석, 친청계 겨냥 “일제 부역자” 발언 박선원에 경고…박 “경고에 예외 없어야” - KBS 뉴스",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "f4922f4518285b41d9bb98de1a446fe63dc0dfbc0eebcb6443c7eff2c70541e9",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate leader - Baltimore Sun",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSW01OFdPWmF2Zm1Wb2R2amUzTi13SFRyQU1tNDFwY3lTN2JNTGdOcTRKRG1oQXpiaGs1WUpDNWxiNFp4VWlmbG9SNTRBWDRKbVYxbEhDdWRyMmxtRGMtbjdGSlhPMjllekhUeDB0amM5OUZURUJ4c0JEcDRvbjBTZE94enpyRHdJOVV1bWdOWE5EQVFtdXA3am1fRmFkNFpEYmVoWV9jNW1iT1BFZnF3?oc=5\" target=\"_blank\">Trump says it will be ‘very hard’ to work with Schumer as Senate leader</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baltimore Sun</font>",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSW01OFdPWmF2Zm1Wb2R2amUzTi13SFRyQU1tNDFwY3lTN2JNTGdOcTRKRG1oQXpiaGs1WUpDNWxiNFp4VWlmbG9SNTRBWDRKbVYxbEhDdWRyMmxtRGMtbjdGSlhPMjllekhUeDB0amM5OUZURUJ4c0JEcDRvbjBTZE94enpyRHdJOVV1bWdOWE5EQVFtdXA3am1fRmFkNFpEYmVoWV9jNW1iT1BFZnF3?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 15:39:01 GMT",
-        "source": "Baltimore Sun",
-        "ageHours": 0.2
-      },
-      "delivered": [
-        "7feb08519b5a3fb6ed164637254ee2b714d6a2d9ee36ef370074d084638ccc5a"
-      ],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "f4922f4518285b41d9bb98de1a446fe63dc0dfbc0eebcb6443c7eff2c70541e9",
-    "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate leader - Baltimore Sun",
+    "postId": "90714a8289db0557c4290f409a3090ccede74a01a1363eee690d550e92affddf",
+    "title": "김민석, 친청계 겨냥 “일제 부역자” 발언 박선원에 경고…박 “경고에 예외 없어야” - KBS 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45209815851",
-    "sentAt": "2026-11-23T15:51:19.630Z"
+    "runId": "45211672776",
+    "sentAt": "2026-11-23T16:01:27.711Z"
   }
 }
