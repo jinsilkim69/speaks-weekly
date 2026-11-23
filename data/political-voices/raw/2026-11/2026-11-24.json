@@ -348,5 +348,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "dbb477ea87c251e65178646667dbd1c5dc9e838ae1948a8828d5b445a459d1b2",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "A red bra, an Nvidia flag and Trump's iconic rally pose: \"Sex sells\" - Axios",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9INF9NdFNpMnFCb0g3TUFjWlJGVFVLRkhZRU9veEJPalhHSFpZQ0xSelpZQkQ3RnBfQnZGWWkxNkRGcW1JaVpKRXFrc3RVQzctc3VUYXJiemtvaWxxeF9nLWpaMTdmS0xIWW9Oa2w4LXZRdkRxNGZ0eHNhS1VwZw?oc=5\" target=\"_blank\">A red bra, an Nvidia flag and Trump's iconic rally pose: \"Sex sells\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9INF9NdFNpMnFCb0g3TUFjWlJGVFVLRkhZRU9veEJPalhHSFpZQ0xSelpZQkQ3RnBfQnZGWWkxNkRGcW1JaVpKRXFrc3RVQzctc3VUYXJiemtvaWxxeF9nLWpaMTdmS0xIWW9Oa2w4LXZRdkRxNGZ0eHNhS1VwZw?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 17:51:01 GMT",
+    "source": "Axios",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] A red bra, an Nvidia flag and Trump's iconic rally pose: \"Sex sells\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "08fd57093b202ac2d6b57661a79761ac91d763f28875e3243d9d843998235fae",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump posts bizarre AI mockup of his Butler assassination attempt with Jensen Huang and a red bra - The Independent",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNcndOQVRsRUM2dWFRTmxHQlFnVTZCVzYzZ05XdFhKWmN0OEVoTTMzOTJRdzVaRjlJWFNQSWZsYmE2ZUt2bkdJSm01cWo0N1F4SVlUN0RkM19xZWdib0I0VEJ1eUlycjZHSGNHX19nNWhRSmZPMjVsNTJCZmRnTm5sR3NvSk1hY00wc1hHVF84ZWIzTkhlZ1hqbThSR2EyY2hHUXF4VWFtVV85eE5Eamc4?oc=5\" target=\"_blank\">Trump posts bizarre AI mockup of his Butler assassination attempt with Jensen Huang and a red bra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcndOQVRsRUM2dWFRTmxHQlFnVTZCVzYzZ05XdFhKWmN0OEVoTTMzOTJRdzVaRjlJWFNQSWZsYmE2ZUt2bkdJSm01cWo0N1F4SVlUN0RkM19xZWdib0I0VEJ1eUlycjZHSGNHX19nNWhRSmZPMjVsNTJCZmRnTm5sR3NvSk1hY00wc1hHVF84ZWIzTkhlZ1hqbThSR2EyY2hHUXF4VWFtVV85eE5Eamc4?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 15:59:00 GMT",
+    "source": "The Independent",
+    "ageHours": 2.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump posts bizarre AI mockup of his Butler assassination attempt with Jensen Huang and a red bra",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "d45691be1eeec4f00aa2041c95b03396ba4169be691e53e86df8b5917af3f4c2",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump takes credit for reinstatement of Jensen Huang as Nvida CEO: ‘I convinced them’ - New York Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1Y5R0RMRmtuMHh2azRQMjdUd2dLcmJTRFBLWGZ1VFRPc1JtbGFwemhmM1luV0ttZWRLWnpfaWFfTHFJRXdCMWFjampmQ0Q3bXhzdnQ5UDVUdUMwVzNTSmo1OTY5b3N4WExSMno1VDFGUFpZWS13YjA1aXZGeFJQeDBYZTh6YnJlcDFqMjFJSXVmTFZ1VHhR?oc=5\" target=\"_blank\">Trump takes credit for reinstatement of Jensen Huang as Nvida CEO: ‘I convinced them’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1Y5R0RMRmtuMHh2azRQMjdUd2dLcmJTRFBLWGZ1VFRPc1JtbGFwemhmM1luV0ttZWRLWnpfaWFfTHFJRXdCMWFjampmQ0Q3bXhzdnQ5UDVUdUMwVzNTSmo1OTY5b3N4WExSMno1VDFGUFpZWS13YjA1aXZGeFJQeDBYZTh6YnJlcDFqMjFJSXVmTFZ1VHhR?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 16:07:07 GMT",
+    "source": "New York Post",
+    "ageHours": 2.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump takes credit for reinstatement of Jensen Huang as Nvida CEO: ‘I convinced them’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

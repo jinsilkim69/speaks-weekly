@@ -2705,3 +2705,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** A red bra, an Nvidia flag and Trump's iconic rally pose: "Sex sells" - Axios
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] A red bra, an Nvidia flag and Trump's iconic rally pose: "Sex sells"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMifkFVX3lxTE9INF9NdFNpMnFCb0g3TUFjWlJGVFVLRkhZRU9veEJPalhHSFpZQ0xSelpZQkQ3RnBfQnZGWWkxNkRGcW1JaVpKRXFrc3RVQzctc3VUYXJiemtvaWxxeF9nLWpaMTdmS0xIWW9Oa2w4LXZRdkRxNGZ0eHNhS1VwZw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump posts bizarre AI mockup of his Butler assassination attempt with Jensen Huang and a red bra - The Independent
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump posts bizarre AI mockup of his Butler assassination attempt with Jensen Huang and a red bra
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcndOQVRsRUM2dWFRTmxHQlFnVTZCVzYzZ05XdFhKWmN0OEVoTTMzOTJRdzVaRjlJWFNQSWZsYmE2ZUt2bkdJSm01cWo0N1F4SVlUN0RkM19xZWdib0I0VEJ1eUlycjZHSGNHX19nNWhRSmZPMjVsNTJCZmRnTm5sR3NvSk1hY00wc1hHVF84ZWIzTkhlZ1hqbThSR2EyY2hHUXF4VWFtVV85eE5Eamc4?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump takes credit for reinstatement of Jensen Huang as Nvida CEO: ‘I convinced them’ - New York Post
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump takes credit for reinstatement of Jensen Huang as Nvida CEO: ‘I convinced them’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1Y5R0RMRmtuMHh2azRQMjdUd2dLcmJTRFBLWGZ1VFRPc1JtbGFwemhmM1luV0ttZWRLWnpfaWFfTHFJRXdCMWFjampmQ0Q3bXhzdnQ5UDVUdUMwVzNTSmo1OTY5b3N4WExSMno1VDFGUFpZWS13YjA1aXZGeFJQeDBYZTh6YnJlcDFqMjFJSXVmTFZ1VHhR?oc=5)
+
+---
+

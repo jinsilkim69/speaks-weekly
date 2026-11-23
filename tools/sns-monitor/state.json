@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-23T18:01:15.735Z",
+  "lastCheckedAt": "2026-11-23T18:11:15.066Z",
   "seenPostIds": {
     "45d63b297b7dd050657a4bfbee7c3582808f04df438a8956ff4e79a4983d5530": {
       "seenAt": "2026-11-20T15:11:20.348Z",
@@ -2500,14 +2500,29 @@
       "seenAt": "2026-11-23T17:41:22.724Z",
       "title": "What Trump told PBS News about Jensen Huang before Nvidia reinstatement - PBS",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "dbb477ea87c251e65178646667dbd1c5dc9e838ae1948a8828d5b445a459d1b2": {
+      "seenAt": "2026-11-23T18:11:16.367Z",
+      "title": "A red bra, an Nvidia flag and Trump's iconic rally pose: \"Sex sells\" - Axios",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "08fd57093b202ac2d6b57661a79761ac91d763f28875e3243d9d843998235fae": {
+      "seenAt": "2026-11-23T18:11:17.071Z",
+      "title": "Trump posts bizarre AI mockup of his Butler assassination attempt with Jensen Huang and a red bra - The Independent",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d45691be1eeec4f00aa2041c95b03396ba4169be691e53e86df8b5917af3f4c2": {
+      "seenAt": "2026-11-23T18:11:17.765Z",
+      "title": "Trump takes credit for reinstatement of Jensen Huang as Nvida CEO: ‘I convinced them’ - New York Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "fe3ba6187a393282454572375cfe7e4e2c1b4f7bdd8698298ce963bf53f9e811",
-    "title": "What Trump told PBS News about Jensen Huang before Nvidia reinstatement - PBS",
+    "postId": "d45691be1eeec4f00aa2041c95b03396ba4169be691e53e86df8b5917af3f4c2",
+    "title": "Trump takes credit for reinstatement of Jensen Huang as Nvida CEO: ‘I convinced them’ - New York Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "45230297559",
-    "sentAt": "2026-11-23T17:41:22.041Z"
+    "runId": "45235626272",
+    "sentAt": "2026-11-23T18:11:17.423Z"
   }
 }
