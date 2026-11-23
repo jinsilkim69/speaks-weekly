@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T07:51:16.168Z",
+  "lastCheckedAt": "2026-11-23T08:01:16.506Z",
   "seenPostIds": {
-    "ec39d8e0a839d8068f9a214f129414113e28bf485055335f542562c4598f99da": {
-      "seenAt": "2026-11-20T03:41:17.685Z",
-      "title": "[포토] 구호 외치는 조국혁신당 신장식 대표 - 천지일보",
-      "targetName": "신장식"
-    },
-    "5bc1c568e48a715024e554fe0e87d7542eaee51c4b652e87e5d558791c8d81ef": {
-      "seenAt": "2026-11-20T03:51:19.809Z",
-      "title": "[포토] 신장식 대표, 조희대 대법원장 탄핵 추진 촉구 - 파이낸스투데이",
-      "targetName": "신장식"
-    },
-    "13bec633050affe2df42cd89d790cac8575cda27b9a9387360ebdb10749111ab": {
-      "seenAt": "2026-11-20T03:51:20.534Z",
-      "title": "조국, 일본 입국 거부에 \"이재용도 문제 없어…이승철·김창열 사례인 듯\" - JTBC",
-      "targetName": "조국"
-    },
     "741d3f5356432548119666aba48858aa872ef3819a6f73918a9ed71cb08087bd": {
       "seenAt": "2026-11-20T03:51:21.217Z",
       "title": "신장식 대표, 조희대 대법원장 탄핵 추진 기자회견 - 연합뉴스",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-23T07:51:18.948Z",
       "title": "국힘 윤리위원 “한동훈 제명, 尹 사형 구형일 맞춰 기획” - 아시아투데이",
       "targetName": "한동훈"
+    },
+    "e5ec1b591adc72d38f0de1c2c1dd15b212614b957f18c9c491ba954cafa4e24b": {
+      "seenAt": "2026-11-23T08:01:17.963Z",
+      "title": "조국혁신당 전남광주시당 \"조희대 대법원장 즉각 탄핵해야\" - 연합뉴스",
+      "targetName": "조국"
+    },
+    "f61a9f3018f727439b10d6c5e5d0fc5faacb180a339b12ba04e17460e87f508d": {
+      "seenAt": "2026-11-23T08:01:18.725Z",
+      "title": "조국혁신당 전북도당 “권익현 군수 선거법 의혹, 끝까지 밝혀야” - 부안뉴스",
+      "targetName": "조국"
+    },
+    "0a8f83efbb53489ce6a21e6479176f6adbbc04c38333b3f29c53326c3029d7e6": {
+      "seenAt": "2026-11-23T08:01:19.471Z",
+      "title": "[포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표 - 파이낸스투데이",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "e5ec1b591adc72d38f0de1c2c1dd15b212614b957f18c9c491ba954cafa4e24b",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 전남광주시당 \"조희대 대법원장 즉각 탄핵해야\" - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RX0V5Y0x1RkZPUW96WVJWb0xSZWxXYTlENUtGelg5VjQ4RkNqUnAzdU1yQmlvRlZhRDZ5eV95WWJfSTViLWh4SVFjb0lxVkNYeWRGTXI0UDlNVjJXbEZoS9IBYEFVX3lxTE9RX0V5Y0x1RkZPUW96WVJWb0xSZWxXYTlENUtGelg5VjQ4RkNqUnAzdU1yQmlvRlZhRDZ5eV95WWJfSTViLWh4SVFjb0lxVkNYeWRGTXI0UDlNVjJXbEZoSw?oc=5\" target=\"_blank\">조국혁신당 전남광주시당 \"조희대 대법원장 즉각 탄핵해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RX0V5Y0x1RkZPUW96WVJWb0xSZWxXYTlENUtGelg5VjQ4RkNqUnAzdU1yQmlvRlZhRDZ5eV95WWJfSTViLWh4SVFjb0lxVkNYeWRGTXI0UDlNVjJXbEZoS9IBYEFVX3lxTE9RX0V5Y0x1RkZPUW96WVJWb0xSZWxXYTlENUtGelg5VjQ4RkNqUnAzdU1yQmlvRlZhRDZ5eV95WWJfSTViLWh4SVFjb0lxVkNYeWRGTXI0UDlNVjJXbEZoSw?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 02:43:54 GMT",
-        "source": "연합뉴스",
-        "ageHours": 5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f61a9f3018f727439b10d6c5e5d0fc5faacb180a339b12ba04e17460e87f508d",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 전북도당 “권익현 군수 선거법 의혹, 끝까지 밝혀야” - 부안뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KdTJUdlNsdkxCdnVOSmd5RF8weWZ1NTg3UTI0eTVxNHhEVjRzT3BfV3JleUg4MXlpSWp4U3ltMGV0ME5HQWVRU09hMXZTcU12MDVodnVKTHBheVNyUWN2bUllSEk0QQ?oc=5\" target=\"_blank\">조국혁신당 전북도당 “권익현 군수 선거법 의혹, 끝까지 밝혀야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부안뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KdTJUdlNsdkxCdnVOSmd5RF8weWZ1NTg3UTI0eTVxNHhEVjRzT3BfV3JleUg4MXlpSWp4U3ltMGV0ME5HQWVRU09hMXZTcU12MDVodnVKTHBheVNyUWN2bUllSEk0QQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 07:19:33 GMT",
-        "source": "부안뉴스",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "0a8f83efbb53489ce6a21e6479176f6adbbc04c38333b3f29c53326c3029d7e6",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "[포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표 - 파이낸스투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9UajF0VDN3WUpWYnM4SktUNlFQT2pUNjNqSHYtN09vQmRSQjhHQ0E5Ri16dnExSlJsYi1fOThqcFVYRWpZN2huOTRZOUlra3g0dlk2VGxUM0FOQVBBVFBPYnFIN1BfZl9pYWwzSQ?oc=5\" target=\"_blank\">[포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸스투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UajF0VDN3WUpWYnM4SktUNlFQT2pUNjNqSHYtN09vQmRSQjhHQ0E5Ri16dnExSlJsYi1fOThqcFVYRWpZN2huOTRZOUlra3g0dlk2VGxUM0FOQVBBVFBPYnFIN1BfZl9pYWwzSQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 06:05:07 GMT",
-        "source": "파이낸스투데이",
-        "ageHours": 1.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "a968f576a5e00283d03127c107b281d32fa9b411ea60492d59233c6694697472",
@@ -2645,13 +2597,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "11fab95a32704d929e1540cd3ab674352bb455e7b62c137fcf1a6e29401e799b",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "취임 100일 앞두고 또 터진 '신천지 갈등'…김민석 리더십 흔들 - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1uSEUtYWpNZHpXaVQwajJiN25CWGM0YWFTYUl6VkpTVHVpd0ZWaHNwRVB3dGpYLW9CeEhFN2RFX1hxUkN0RHhZM080QkhSazZfX0JWX0treGdLZjdHY21iSUZPcUVPTDhVNERGczExYWM2OW12WFNEN0VB0gF_QVVfeXFMTTNGTGE1RTZ1RExhQzlPWWhrWXpWZ1JHaGZ0NlRJUzJlMGtLNkRuV0k4UXQtNVd1VXF3Y0RxemJtQndjWlNhdDB5cHo3UnpBMXBwc2lpZzF0X3RObm9PVXI3SGtJTXVOSThkVmJsVGlXSmdjNjJYUU82NTB3YWpLMA?oc=5\" target=\"_blank\">취임 100일 앞두고 또 터진 '신천지 갈등'…김민석 리더십 흔들 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uSEUtYWpNZHpXaVQwajJiN25CWGM0YWFTYUl6VkpTVHVpd0ZWaHNwRVB3dGpYLW9CeEhFN2RFX1hxUkN0RHhZM080QkhSazZfX0JWX0treGdLZjdHY21iSUZPcUVPTDhVNERGczExYWM2OW12WFNEN0VB0gF_QVVfeXFMTTNGTGE1RTZ1RExhQzlPWWhrWXpWZ1JHaGZ0NlRJUzJlMGtLNkRuV0k4UXQtNVd1VXF3Y0RxemJtQndjWlNhdDB5cHo3UnpBMXBwc2lpZzF0X3RObm9PVXI3SGtJTXVOSThkVmJsVGlXSmdjNjJYUU82NTB3YWpLMA?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 07:29:34 GMT",
+        "source": "머니투데이",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "7d00d4915422348ec9bc1d8d5db6a4100732362a0f9cf02bc93adf38774b1510",
-    "title": "국힘 윤리위원 “한동훈 제명, 尹 사형 구형일 맞춰 기획” - 아시아투데이",
+    "postId": "0a8f83efbb53489ce6a21e6479176f6adbbc04c38333b3f29c53326c3029d7e6",
+    "title": "[포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표 - 파이낸스투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45134086021",
-    "sentAt": "2026-11-23T07:51:18.584Z"
+    "runId": "45135277680",
+    "sentAt": "2026-11-23T08:01:19.094Z"
   }
 }

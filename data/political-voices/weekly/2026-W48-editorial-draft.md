@@ -1613,3 +1613,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 전남광주시당 "조희대 대법원장 즉각 탄핵해야" - 연합뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 전남광주시당 "조희대 대법원장 즉각 탄핵해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RX0V5Y0x1RkZPUW96WVJWb0xSZWxXYTlENUtGelg5VjQ4RkNqUnAzdU1yQmlvRlZhRDZ5eV95WWJfSTViLWh4SVFjb0lxVkNYeWRGTXI0UDlNVjJXbEZoS9IBYEFVX3lxTE9RX0V5Y0x1RkZPUW96WVJWb0xSZWxXYTlENUtGelg5VjQ4RkNqUnAzdU1yQmlvRlZhRDZ5eV95WWJfSTViLWh4SVFjb0lxVkNYeWRGTXI0UDlNVjJXbEZoSw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 전북도당 “권익현 군수 선거법 의혹, 끝까지 밝혀야” - 부안뉴스
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 전북도당 “권익현 군수 선거법 의혹, 끝까지 밝혀야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KdTJUdlNsdkxCdnVOSmd5RF8weWZ1NTg3UTI0eTVxNHhEVjRzT3BfV3JleUg4MXlpSWp4U3ltMGV0ME5HQWVRU09hMXZTcU12MDVodnVKTHBheVNyUWN2bUllSEk0QQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [포토] 당명 변경 추진 밝히는 신장식 조국혁신당 대표 - 파이낸스투데이
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 당명 변경 추진 밝히는 신장식 조국혁신당 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9UajF0VDN3WUpWYnM4SktUNlFQT2pUNjNqSHYtN09vQmRSQjhHQ0E5Ri16dnExSlJsYi1fOThqcFVYRWpZN2huOTRZOUlra3g0dlk2VGxUM0FOQVBBVFBPYnFIN1BfZl9pYWwzSQ?oc=5)
+
+---
+
