@@ -599,3 +599,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김병주 "한동훈, 조작특검 부역 감옥 간다?...뭐 켕기나, 尹 부하 장관, 도둑이 제 발 저린 격"[KBC 뉴스메이커] - KBC광주방송
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김병주 "한동훈, 조작특검 부역 감옥 간다?...뭐 켕기나, 尹 부하 장관, 도둑이 제 발 저린 격"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKQ0FmVkItbEkwcmxDSFlKcm80MlF2eG4yWm53dDk1SWVPZDdoSkpUdHlWc1o4MVhDY1F1THBxR0hmdGV6YzJ0V1FnWjh3b19tYi15ZWotM213azZvMUktLQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [권말특집] 月朝 기자가 꼽은 ‘올해의 기사’ 뒷이야기 ① 한동훈 독점 인터뷰 - 월간조선
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 月朝 기자가 꼽은 ‘올해의 기사’ 뒷이야기 ① 한동훈 독점 인터뷰
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5LdVkySTVyYnVSal9MRWNwVG1laE85MlhDOS1NVGdIeTJpSlY0UU53czN3Xy0yVURwRVJqdE9wZXhvN2o4OVNVRC1sWXc4SVNoNkxTWGwxMWRpRmYyVEFMcnowendPNTBwWVZkMA?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈→보수의 심장 TK(대구 경북)서 활동 본격화 - 뉴스줌
+
+- **수집일**: 2026-11-23 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈→보수의 심장 TK(대구 경북)서 활동 본격화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiREFVX3lxTE1lcHJSOVZXbWotWXg1QnNFNlVmbWZ6Qi1LTThBS1dKN2hJWlhOTlU2RFowbmRjU2JqQllOdktxdVFCSklv?oc=5)
+
+---
+

@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T02:51:14.675Z",
+  "lastCheckedAt": "2026-11-23T03:01:13.932Z",
   "seenPostIds": {
-    "02ac4a56a734d96b3f7cd70d15a9251eb3f800698fa4e4acbcfd4ff87bc8547c": {
-      "seenAt": "2026-11-19T16:31:17.792Z",
-      "title": "Stick pins have become the unexpected symbol of East Potomac … and the Trump Administration - Golf Digest",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "01b0a155e48d9c7357fd933c6b6a504998164b8cc286c20ac7389473a000e38f": {
-      "seenAt": "2026-11-19T17:11:18.177Z",
-      "title": "Trump urges Congress to pass a new farm bill - Lexington Herald Leader",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "6225905adaa1b36e345f968cf96f79a2bfe2c86e46c3fe09656cf94a51853bd6": {
       "seenAt": "2026-11-19T17:51:22.454Z",
       "title": "Law firm that reached deal with Trump has provided nearly $12 million in free legal work for administration - CBS News",
@@ -2510,14 +2500,62 @@
       "seenAt": "2026-11-23T02:51:16.384Z",
       "title": "김민석 \"曺탄핵·민생에 모든 역량…한덕수 판결에 국민 비판\" - 연합뉴스",
       "targetName": "김민석"
+    },
+    "24c9184d38cd20c168aef2cfa8cbdfe8c9352472c7b1a777c1e1a7443eac2f43": {
+      "seenAt": "2026-11-23T03:01:14.934Z",
+      "title": "김병주 \"한동훈, 조작특검 부역 감옥 간다?...뭐 켕기나, 尹 부하 장관, 도둑이 제 발 저린 격\"[KBC 뉴스메이커] - KBC광주방송",
+      "targetName": "한동훈"
+    },
+    "c04332f2f515d720c8e067f4c78a0d96046502d65aff4d19dcfecbbed1c4ad86": {
+      "seenAt": "2026-11-23T03:01:15.544Z",
+      "title": "[권말특집] 月朝 기자가 꼽은 ‘올해의 기사’ 뒷이야기 ① 한동훈 독점 인터뷰 - 월간조선",
+      "targetName": "한동훈"
+    },
+    "f9f1092e837e25379ad878614171f99676a0b9f701b25cb3e98cac8ec4a34905": {
+      "seenAt": "2026-11-23T03:01:16.168Z",
+      "title": "한동훈→보수의 심장 TK(대구 경북)서 활동 본격화 - 뉴스줌",
+      "targetName": "한동훈"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "bbef48a2cc297ff0a6f7f8b64bf67de466022b9747c9f4fa15c9542c45d33674",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "[포토] 최고위 마친 김민석 대표 - 아시아경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pWDJjX3MyS1l4S1JyaXBabDZTMU1Hdks4YXZPVm9XelhiM2JFc3BTTTlhdzJRSVBNNXJqZk9reE85NWtrX1l3OGQ0YXRjLVNEejdOaGhFdEdVZjlRLTRJZQ?oc=5\" target=\"_blank\">[포토] 최고위 마친 김민석 대표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pWDJjX3MyS1l4S1JyaXBabDZTMU1Hdks4YXZPVm9XelhiM2JFc3BTTTlhdzJRSVBNNXJqZk9reE85NWtrX1l3OGQ0YXRjLVNEejdOaGhFdEdVZjlRLTRJZQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 01:39:33 GMT",
+        "source": "아시아경제",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "a2befa8ae987bc8d20c9f85f751684886503dafaeb3ba2c40893aceb8e5fbe10",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치 - 연합뉴스 한민족센터",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBlQUJqTmZ0dTI3UXNwT1YwMjRSbDlTcWFXLWpuUWhGWDJOMzdCZTNoOGJBSVpFT1JfNGVyb3BrTUt4WkR2ellGdHJ1R2NSSDBZM2R3SkZaMFhIWktOdkM1UF9Mb2JNTGtIaUZEZFNFMmhsY1Ax?oc=5\" target=\"_blank\">김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스 한민족센터</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlQUJqTmZ0dTI3UXNwT1YwMjRSbDlTcWFXLWpuUWhGWDJOMzdCZTNoOGJBSVpFT1JfNGVyb3BrTUt4WkR2ellGdHJ1R2NSSDBZM2R3SkZaMFhIWktOdkM1UF9Mb2JNTGtIaUZEZFNFMmhsY1Ax?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 02:39:03 GMT",
+        "source": "연합뉴스 한민족센터",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "545ea40f935e55da3669996686490175d8576b2b9d44194a26cc4831cc76fa2d",
-    "title": "김민석 \"曺탄핵·민생에 모든 역량…한덕수 판결에 국민 비판\" - 연합뉴스",
+    "postId": "f9f1092e837e25379ad878614171f99676a0b9f701b25cb3e98cac8ec4a34905",
+    "title": "한동훈→보수의 심장 TK(대구 경북)서 활동 본격화 - 뉴스줌",
     "bot": "jongsuk_pol_bot",
-    "runId": "45102521019",
-    "sentAt": "2026-11-23T02:51:16.082Z"
+    "runId": "45103444973",
+    "sentAt": "2026-11-23T03:01:15.857Z"
   }
 }
