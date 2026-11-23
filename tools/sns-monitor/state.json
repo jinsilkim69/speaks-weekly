@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-23T13:21:16.883Z",
+  "lastCheckedAt": "2026-11-23T13:31:15.088Z",
   "seenPostIds": {
-    "5e5f215152fb2aecc4e4adda55e65cee8aca8aec73162afc2a4b9cfb10fcda79": {
-      "seenAt": "2026-11-20T09:21:21.737Z",
-      "title": "민병복-민병덕-김태호-김재원-천하람-강경숙, 마이 케이팝 스타 결선무대 - 뉴스핌",
-      "targetName": "천하람"
-    },
     "fd40b5a0c0b1531802c4f111c141d8994e95addaf04667e9dffa25c515da96f2": {
       "seenAt": "2026-11-20T09:21:22.424Z",
       "title": "조국 日 입국 거부, 독도 때문 아니었다…진짜 이유는 '징역 2년' - 주간조선",
@@ -2505,14 +2500,29 @@
       "seenAt": "2026-11-23T13:21:18.335Z",
       "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "434e270b29c06119379319ca186b8142a1059bced1bcf71ab9d3a6c8847c45f4": {
+      "seenAt": "2026-11-23T13:31:16.332Z",
+      "title": "오세훈 \"대통령의 시간을 '피고인 이재명'에게 쓰지 마시라\" - 대전일보",
+      "targetName": "이재명"
+    },
+    "32cec0088bcf0bbce7bc0c4a60750988818c9d347fda159579ca22d1a1ce8a47": {
+      "seenAt": "2026-11-23T13:31:16.994Z",
+      "title": "한동훈 “제명 날짜·시점·내용 사전조율 드러나···장동혁 책임져야” - 주간경향",
+      "targetName": "한동훈"
+    },
+    "b8aeed3fd2642839849e078a094194792e66a11f6e5e25763d4d1a971852cce2": {
+      "seenAt": "2026-11-23T13:31:17.752Z",
+      "title": "\"尹 구형맞춰 한동훈 제물로\"…'기획 숙청' 의혹 추가 폭로 - 한국경제",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "4288989787c77a0798a61e0c0b1eec390fd686cfd057a5e99f5e48923214d2d9",
-    "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
+    "postId": "b8aeed3fd2642839849e078a094194792e66a11f6e5e25763d4d1a971852cce2",
+    "title": "\"尹 구형맞춰 한동훈 제물로\"…'기획 숙청' 의혹 추가 폭로 - 한국경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45183036592",
-    "sentAt": "2026-11-23T13:21:17.770Z"
+    "runId": "45184690438",
+    "sentAt": "2026-11-23T13:31:17.396Z"
   }
 }
