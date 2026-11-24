@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T03:31:14.825Z",
+  "lastCheckedAt": "2026-11-24T03:41:15.158Z",
   "seenPostIds": {
-    "d2f9a52afe7cda8e83f2e656e938ca549403ffe2d52246438e6e0cc2ac811788": {
-      "seenAt": "2026-11-21T03:51:19.875Z",
-      "title": "김민석 대화로 풀어가자는데 정청래 “합의 강요는 2차 가해” [이런뉴스] - KBS 뉴스",
-      "targetName": "정청래"
-    },
-    "c140cad3ab6dcb8ccd2571648e3b413f29a8e15a0d18038ecc37c360dc3a8344": {
-      "seenAt": "2026-11-21T04:41:31.780Z",
-      "title": "[뉴스 즉설]'창당의 길'로 내몰리는 한동훈, '복당의 문' 대못질하는 장동혁 - 대전일보",
-      "targetName": "한동훈"
-    },
-    "bb54019d221fce92a57e41520953e1cc1ebb2847c9ca298b12c71c4939848f24": {
-      "seenAt": "2026-11-21T04:41:32.608Z",
-      "title": "\"말보다 노래로\"…신장식, 민주유공자법 통과 소회 담아 '사람 사는 세상' 열창 #shorts - OhmyNews",
-      "targetName": "신장식"
-    },
     "a73bef3d7ae95d666423a7f01ad9eceb1ee3dfe6439557c0e34902fdb45bf01d": {
       "seenAt": "2026-11-21T05:21:19.414Z",
       "title": "김민석 대화로 풀어가자는데 정청래 “합의 강요는 2차 가해” [이런뉴스] - KBS 뉴스",
@@ -2515,47 +2500,62 @@
       "seenAt": "2026-11-24T03:31:17.401Z",
       "title": "공수처, '한동훈 딸 수사 무마 의혹' 경찰 이첩 건 수사4부 배당 - 데일리안",
       "targetName": "한동훈"
+    },
+    "7d76583eed639e287c5729d0620c718dc362a9505a8a6a95d8f6245741593ed5": {
+      "seenAt": "2026-11-24T03:41:16.228Z",
+      "title": "이준석 \"강금실 국정원장? 뭔 뜬금포…전문성 빼고 해명거리 더한 인사\" - 뉴스1",
+      "targetName": "이준석"
+    },
+    "2abb1fbb2b7bd5905f0c06daa9cac62b074224329838ef5fbdbe7aab3b8dcd24": {
+      "seenAt": "2026-11-24T03:41:16.829Z",
+      "title": "이준석 “강금실 국정원장 지명 뜬금포…워싱턴이 믿을 사람인가” - 서울신문",
+      "targetName": "이준석"
+    },
+    "156be66659ed320444053c35959f21982f8a161be71dc006d1500999a075a264": {
+      "seenAt": "2026-11-24T03:41:17.430Z",
+      "title": "정청래, 취임 100일 김민석 겨냥 \"반·분·신 폭탄으로 당 초토화\" - 뉴시스",
+      "targetName": "김민석"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "7d76583eed639e287c5729d0620c718dc362a9505a8a6a95d8f6245741593ed5",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"강금실 국정원장? 뭔 뜬금포…전문성 빼고 해명거리 더한 인사\" - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YV0hnMUwwbS1abFFzVGx0Nk8wd1hUSEpBUnVhRTJYWHFHbTFneHJzMVJhY0diMEtMX3Z0ZUtxYjR2NmRoYUFJM1Yxb1dlQWpGeUpnU0ZnUXFudw?oc=5\" target=\"_blank\">이준석 \"강금실 국정원장? 뭔 뜬금포…전문성 빼고 해명거리 더한 인사\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YV0hnMUwwbS1abFFzVGx0Nk8wd1hUSEpBUnVhRTJYWHFHbTFneHJzMVJhY0diMEtMX3Z0ZUtxYjR2NmRoYUFJM1Yxb1dlQWpGeUpnU0ZnUXFudw?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 03:18:26 GMT",
-        "source": "뉴스1",
-        "ageHours": 0.2
+        "id": "3ecacf9086fa73533aea1014ed6f38e4e05632ed1df9b8c0606d20481cd21e2e",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "민주당·조국혁신당 부산시당 \"국제신문 정상화 길 열려 환영\" - 국제신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1VBMHlPaWxWYVVuTncySkVVODNnX1ZDTTc2Ql9zWEdqbTZ4SnFvMk5YMmpfbnFqNmF3OHNjbnRxSXFNTHJTOTNjT08zZk9HYThSMG1nTzZrOURhRnBDWlRBLUl0bTl5LXJ3R3M3YVNuM0ZFUXVKbGVmM1ZLamxlZnk0dzhaSm5oNXlSb19B?oc=5\" target=\"_blank\">민주당·조국혁신당 부산시당 \"국제신문 정상화 길 열려 환영\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1VBMHlPaWxWYVVuTncySkVVODNnX1ZDTTc2Ql9zWEdqbTZ4SnFvMk5YMmpfbnFqNmF3OHNjbnRxSXFNTHJTOTNjT08zZk9HYThSMG1nTzZrOURhRnBDWlRBLUl0bTl5LXJ3R3M3YVNuM0ZFUXVKbGVmM1ZLamxlZnk0dzhaSm5oNXlSb19B?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 00:26:00 GMT",
+        "source": "국제신문",
+        "ageHours": 3.3
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "2abb1fbb2b7bd5905f0c06daa9cac62b074224329838ef5fbdbe7aab3b8dcd24",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 “강금실 국정원장 지명 뜬금포…워싱턴이 믿을 사람인가” - 서울신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBhZHZLdFo0Ym1mWlZxNlpfaV9uRHdWbXZjWXhwM1IzYWh6YzBySUJxU18zWVYxRXE1cm5jWHc4LUMtUERnU3FaZlJoLWZ0WUtwOE51Y3lFR2d5VlE3akpIMnptWTlrd3ZNYUtQWGZoWDE?oc=5\" target=\"_blank\">이준석 “강금실 국정원장 지명 뜬금포…워싱턴이 믿을 사람인가”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhZHZLdFo0Ym1mWlZxNlpfaV9uRHdWbXZjWXhwM1IzYWh6YzBySUJxU18zWVYxRXE1cm5jWHc4LUMtUERnU3FaZlJoLWZ0WUtwOE51Y3lFR2d5VlE3akpIMnptWTlrd3ZNYUtQWGZoWDE?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 02:48:29 GMT",
-        "source": "서울신문",
-        "ageHours": 0.7
+        "id": "9d93fc40fefa5c53c357b63e6893d7222390e1d1b89f275d7f68b628e0fde5ea",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "'I made the deal': Trump says he 'convinced' Nvidia board to reinstate Jensen Huang - ABC News - Breaking News, Latest News and Videos",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1BycWdUdWhjNlNFMEs0YlM3NWQ0WnFoSXg3bXFwMW45cUQtNnVzNFZ3Y2pEV2RYMVVzN2JUbXI4ZTFLa2cwc3NMWHlxbXN3NXFGa1dfOGpvR09rRjFqaHZucDVvWFFhOERZbTFCWXVrNGxQUmphWFNrdnRkbFN1OWtNQUdtdWxyODZhZlluUk1aSUtFRUViQ09mZ2h6Xy1FQmZUVTVn?oc=5\" target=\"_blank\">'I made the deal': Trump says he 'convinced' Nvidia board to reinstate Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1BycWdUdWhjNlNFMEs0YlM3NWQ0WnFoSXg3bXFwMW45cUQtNnVzNFZ3Y2pEV2RYMVVzN2JUbXI4ZTFLa2cwc3NMWHlxbXN3NXFGa1dfOGpvR09rRjFqaHZucDVvWFFhOERZbTFCWXVrNGxQUmphWFNrdnRkbFN1OWtNQUdtdWxyODZhZlluUk1aSUtFRUViQ09mZ2h6Xy1FQmZUVTVn?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 01:05:13 GMT",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "ageHours": 2.6
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "8fd73cb7a470bda4228df384f9b69a6f77942a8b2ac035af69019d756812959c",
-    "title": "공수처, '한동훈 딸 수사 무마 의혹' 경찰 이첩 건 수사4부 배당 - 데일리안",
+    "postId": "156be66659ed320444053c35959f21982f8a161be71dc006d1500999a075a264",
+    "title": "정청래, 취임 100일 김민석 겨냥 \"반·분·신 폭탄으로 당 초토화\" - 뉴시스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45320054846",
-    "sentAt": "2026-11-24T03:31:16.965Z"
+    "runId": "45321197693",
+    "sentAt": "2026-11-24T03:41:17.119Z"
   }
 }

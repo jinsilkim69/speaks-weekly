@@ -3563,3 +3563,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "강금실 국정원장? 뭔 뜬금포…전문성 빼고 해명거리 더한 인사" - 뉴스1
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "강금실 국정원장? 뭔 뜬금포…전문성 빼고 해명거리 더한 인사"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YV0hnMUwwbS1abFFzVGx0Nk8wd1hUSEpBUnVhRTJYWHFHbTFneHJzMVJhY0diMEtMX3Z0ZUtxYjR2NmRoYUFJM1Yxb1dlQWpGeUpnU0ZnUXFudw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “강금실 국정원장 지명 뜬금포…워싱턴이 믿을 사람인가” - 서울신문
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “강금실 국정원장 지명 뜬금포…워싱턴이 믿을 사람인가”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTFBhZHZLdFo0Ym1mWlZxNlpfaV9uRHdWbXZjWXhwM1IzYWh6YzBySUJxU18zWVYxRXE1cm5jWHc4LUMtUERnU3FaZlJoLWZ0WUtwOE51Y3lFR2d5VlE3akpIMnptWTlrd3ZNYUtQWGZoWDE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 취임 100일 김민석 겨냥 "반·분·신 폭탄으로 당 초토화" - 뉴시스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 취임 100일 김민석 겨냥 "반·분·신 폭탄으로 당 초토화"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4WjYtck0wYUoxSHV0aVF5cW9GdzUzZTIwOUVUb3lZbHBRdjZnSm1PeXVxWEREck1sdkhxMU01ZkFrcC10NENVNmhENFN1QU93dmp3VTR4NDRQaWRNN3hfZNIBeEFVX3lxTFBmaXRzU1p5ZS05ZUh6UG04X29UX2dWREJxcG9ibWlMTE1wM0ZHZDdPbC1tQWZmc1J3NTgyQVpfYlVqaFRXbm5YQmgyYWl6UF82a3VkSWVWSGxSa2xuZnZ4Z20ybDlhWEhEaGNDOFlrVWd0VkFnZEpsZA?oc=5)
+
+---
+
