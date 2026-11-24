@@ -3797,3 +3797,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 "결자해지" 압박…與 '신천지 갈등' 정면충돌 - 프리진뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 "결자해지" 압박…與 '신천지 갈등' 정면충돌
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3THI0aDFxN3A4Y1JjMml3cHo4M2QzbnJGUlE4WTJDOVNEZmRVSEhvaW1SbkxSbmx0bjZ1clN5SEd6eXJLLWNROG4zc19oVnN3UmE3dE1XQUJhQmRMWTZXckpnUE1KZUkzRUNsUDBjWQ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "강금실은 더 진한 오답…워싱턴 '中인민정부 특별고문' 믿겠나" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "강금실은 더 진한 오답…워싱턴 '中인민정부 특별고문' 믿겠나"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE1LTmltSm9YbE9PRzlsN3BUa1Y5NXpXLWVXLUtiMzYtRVh1bXBaMWU3WXItbW01M3p6U1kzbmZlUEpBMzdjVzM3UC1zTk94RVVEaUNjWnBUOWZwZXBDeldhRlJ0TXFVS1FkN2hpNmg1RUladG1CcHJtXzhR0gF_QVVfeXFMTUh5MW9JRHBfRFo4U2RKcDZyNlA1WVRmTlR2Ynh5d2pRLWdUWUt6NW5oTG1BMmdka2hSckdmeUFPMDVuX05kSUE0YXhGdk00a1B0QWFRMEVlWUhCOFFPZzJuOXYtdzR4QkxrZDRQeHhGVUFON0tvR2NQWkZjMWljSQ?oc=5)
+
+---
+
