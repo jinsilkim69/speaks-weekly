@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T09:21:14.961Z",
+  "lastCheckedAt": "2026-11-24T09:31:16.052Z",
   "seenPostIds": {
-    "ece26823f392aa0fc86d51cb6292e7e3591b3e6ef5f878f1f5036bdc36119e2a": {
-      "seenAt": "2026-11-21T22:41:14.798Z",
-      "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - Yahoo News UK",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "6ff071ccacc968ba15a1a61f367fe20f3e1ab1e1f4dd94b4c788eb74a492c807": {
-      "seenAt": "2026-11-21T22:51:16.929Z",
-      "title": "Trump doubles down on ‘friend’ Putin with intimate photo tribute on Truth Social - AOL.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "fc473b042f93643a79ecd99c79c64d647d1583ffa4698ea77374860643c0ef5c": {
       "seenAt": "2026-11-21T23:21:15.111Z",
       "title": "‘이준석 사퇴’ 개혁신당, 비대위 전환 돌입…이르면 13일 지명 발표 - 쿠키뉴스",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-24T09:21:16.709Z",
       "title": "구호 외치는 신장식 조국혁신당 대표 - 뉴스핌",
       "targetName": "신장식"
+    },
+    "674306e86a7193ebcfeaffc258f016648e44196d67da447cd7b75c9d8a3d83b5": {
+      "seenAt": "2026-11-24T09:31:17.385Z",
+      "title": "김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문",
+      "targetName": "김민석"
+    },
+    "ba823c91b385384dd6cec4f2c2af239cd763d91998fdf432b2b4e1869c08509c": {
+      "seenAt": "2026-11-24T09:31:18.093Z",
+      "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등(종합) - 연합뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "b3254649311bd37c516af3c74a166f61835fdd34ff6ed342c17a1ccb44fa99d3",
-    "title": "구호 외치는 신장식 조국혁신당 대표 - 뉴스핌",
+    "postId": "ba823c91b385384dd6cec4f2c2af239cd763d91998fdf432b2b4e1869c08509c",
+    "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등(종합) - 연합뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45364346476",
-    "sentAt": "2026-11-24T09:21:16.378Z"
+    "runId": "45365932797",
+    "sentAt": "2026-11-24T09:31:17.725Z"
   }
 }
