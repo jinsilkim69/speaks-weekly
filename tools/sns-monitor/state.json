@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T11:21:32.207Z",
+  "lastCheckedAt": "2026-11-24T11:31:15.989Z",
   "seenPostIds": {
     "d1e0e6ed2abf90add0cda7afac2d5c8a8d8c3c0292b14410a695a7f920c18ad2": {
       "seenAt": "2026-11-22T00:51:22.211Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T11:11:16.024Z",
       "title": "조국혁신당, 조희대 대법원장 탄핵 촉구 촛불집회 개최 - 뉴스핌",
       "targetName": "조국"
+    },
+    "6556a76a0a1eba35d205b756afce3ab3417028e8268f7937d436b6b61fda4c9d": {
+      "seenAt": "2026-11-24T11:31:17.423Z",
+      "title": "김민석 '취임 100일' 몸 낮췄으나... 정청래 \"결자해지하라\" 폭풍 SNS - 한국일보",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "6ee455aa3507aad999b2da5f110b2c59589006319835246343c2e684f0659ef1",
-    "title": "조국혁신당, 조희대 대법원장 탄핵 촉구 촛불집회 개최 - 뉴스핌",
+    "postId": "6556a76a0a1eba35d205b756afce3ab3417028e8268f7937d436b6b61fda4c9d",
+    "title": "김민석 '취임 100일' 몸 낮췄으나... 정청래 \"결자해지하라\" 폭풍 SNS - 한국일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45381808409",
-    "sentAt": "2026-11-24T11:11:15.496Z"
+    "runId": "45384882937",
+    "sentAt": "2026-11-24T11:31:16.717Z"
   }
 }
