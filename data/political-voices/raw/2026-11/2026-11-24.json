@@ -4583,5 +4583,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "870af9f4e1b3912112a521fbd7f39340ce3ea0bc284ad9020da3ef0fc731e358",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "오세훈, 이재명 대통령에 국정 중심 민생 전환 촉구 > 뉴스 - 지데일리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9UR25qLURLN1FoUjVDLTNCeVhKOUZib0t5VnFUZHJxNGp4d1RvQTZXUkpTVk1mZ2pGWmFXZkVIcnExSEI2N0NSOTZDUlhkdkF3OUN4VXpkS2xkS3JMQ0oxYVhRTnlaMWRkZm9IWQ?oc=5\" target=\"_blank\">오세훈, 이재명 대통령에 국정 중심 민생 전환 촉구 > 뉴스</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">지데일리</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UR25qLURLN1FoUjVDLTNCeVhKOUZib0t5VnFUZHJxNGp4d1RvQTZXUkpTVk1mZ2pGWmFXZkVIcnExSEI2N0NSOTZDUlhkdkF3OUN4VXpkS2xkS3JMQ0oxYVhRTnlaMWRkZm9IWQ?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 07:52:00 GMT",
+    "source": "지데일리",
+    "ageHours": 3.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 오세훈, 이재명 대통령에 국정 중심 민생 전환 촉구 > 뉴스",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "14299c76dad0f47473881bf1b9691f9a93d7eece0b5437e1ab6958ad300a49bd",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "정청래 '깃발' 정했나...조국혁신당, '독자노선' 새단장 돌입 - 조세일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE13ci1MemZkSHp3RC1CdE5UNklVWk5qTVVSdWRYMk41dHdrbG5ROUEtWUFfTjJCZEhKNkFXaE9RQzRCYjZqUHpoaTc2eUVpb3JsdDVUejBJUnhXTTNkaThn?oc=5\" target=\"_blank\">정청래 '깃발' 정했나...조국혁신당, '독자노선' 새단장 돌입</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13ci1MemZkSHp3RC1CdE5UNklVWk5qTVVSdWRYMk41dHdrbG5ROUEtWUFfTjJCZEhKNkFXaE9RQzRCYjZqUHpoaTc2eUVpb3JsdDVUejBJUnhXTTNkaThn?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 09:12:48 GMT",
+    "source": "조세일보",
+    "ageHours": 2.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래 '깃발' 정했나...조국혁신당, '독자노선' 새단장 돌입",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

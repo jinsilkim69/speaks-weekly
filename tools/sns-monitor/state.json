@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T11:31:15.989Z",
+  "lastCheckedAt": "2026-11-24T11:41:21.918Z",
   "seenPostIds": {
-    "d1e0e6ed2abf90add0cda7afac2d5c8a8d8c3c0292b14410a695a7f920c18ad2": {
-      "seenAt": "2026-11-22T00:51:22.211Z",
-      "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "ebe2cd622f4a679ba1f28557296d1dc08e48b2f89df3b2e37de744c31d0a4454": {
       "seenAt": "2026-11-22T01:01:14.155Z",
       "title": "장동혁 국민의힘 대표, 이재명 대통령 대장동 발언에 반박:중수청일보 - 중수청일보",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-24T11:31:17.423Z",
       "title": "김민석 '취임 100일' 몸 낮췄으나... 정청래 \"결자해지하라\" 폭풍 SNS - 한국일보",
       "targetName": "김민석"
+    },
+    "870af9f4e1b3912112a521fbd7f39340ce3ea0bc284ad9020da3ef0fc731e358": {
+      "seenAt": "2026-11-24T11:41:23.615Z",
+      "title": "오세훈, 이재명 대통령에 국정 중심 민생 전환 촉구 > 뉴스 - 지데일리",
+      "targetName": "이재명"
+    },
+    "14299c76dad0f47473881bf1b9691f9a93d7eece0b5437e1ab6958ad300a49bd": {
+      "seenAt": "2026-11-24T11:41:24.395Z",
+      "title": "정청래 '깃발' 정했나...조국혁신당, '독자노선' 새단장 돌입 - 조세일보",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "6556a76a0a1eba35d205b756afce3ab3417028e8268f7937d436b6b61fda4c9d",
-    "title": "김민석 '취임 100일' 몸 낮췄으나... 정청래 \"결자해지하라\" 폭풍 SNS - 한국일보",
+    "postId": "14299c76dad0f47473881bf1b9691f9a93d7eece0b5437e1ab6958ad300a49bd",
+    "title": "정청래 '깃발' 정했나...조국혁신당, '독자노선' 새단장 돌입 - 조세일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45384882937",
-    "sentAt": "2026-11-24T11:31:16.717Z"
+    "runId": "45386418084",
+    "sentAt": "2026-11-24T11:41:24.008Z"
   }
 }
