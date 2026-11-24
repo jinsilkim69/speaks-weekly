@@ -577,5 +577,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "1973c4f30a71a9f9b9ca4d52b7ae87189607d1aa173dbdd86388ace93e6be6a3",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "취임 1년 5개월, 이재명 대통령이 가장 열심히 한 일은? - 최보식의언론",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BSWY2UXExM2sycnMzWDQ1a3hIVmE4U0FibWQ3VE03Ymw2ZGJnU05yZldnU3Zua3AtMzJTYlc5Y21vdWhIY1BIQXlqSm42TEZzTm9zWnFhWHdsYnNTWUk4SXR6WFfSAWhBVV95cUxNc1U3OFRjUUZzcVBGR2NRY2xvbTZBczNEQnBqTU55QWZJR05DT0hOdWNtZnpWTFYzMm1zTUhTdy1paGs1aEsxLU1zTDBLSGM0MjJDUU5kWnVMN1lFSHNKaTdtTHQ5NTZ4Qg?oc=5\" target=\"_blank\">취임 1년 5개월, 이재명 대통령이 가장 열심히 한 일은?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">최보식의언론</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BSWY2UXExM2sycnMzWDQ1a3hIVmE4U0FibWQ3VE03Ymw2ZGJnU05yZldnU3Zua3AtMzJTYlc5Y21vdWhIY1BIQXlqSm42TEZzTm9zWnFhWHdsYnNTWUk4SXR6WFfSAWhBVV95cUxNc1U3OFRjUUZzcVBGR2NRY2xvbTZBczNEQnBqTU55QWZJR05DT0hOdWNtZnpWTFYzMm1zTUhTdy1paGs1aEsxLU1zTDBLSGM0MjJDUU5kWnVMN1lFSHNKaTdtTHQ5NTZ4Qg?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 22:54:46 GMT",
+    "source": "최보식의언론",
+    "ageHours": 22.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 취임 1년 5개월, 이재명 대통령이 가장 열심히 한 일은?",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

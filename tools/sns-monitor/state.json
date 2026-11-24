@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T21:11:15.049Z",
+  "lastCheckedAt": "2026-11-24T21:21:15.235Z",
   "seenPostIds": {
     "69e4bce9db2287cbccc166b1a4821f30020abdcd092293bd8ef2e9219839994a": {
       "seenAt": "2026-11-22T03:31:24.151Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T21:01:17.412Z",
       "title": "Trump nominates North Carolina prosecutor who lost re-election to become judge - Reuters",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "1973c4f30a71a9f9b9ca4d52b7ae87189607d1aa173dbdd86388ace93e6be6a3": {
+      "seenAt": "2026-11-24T21:21:16.616Z",
+      "title": "취임 1년 5개월, 이재명 대통령이 가장 열심히 한 일은? - 최보식의언론",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "250d5cdab5080d527fb71e28fa3b8f9ec17608faa2af832cb7a071b1031fb891",
-    "title": "Trump nominates North Carolina prosecutor who lost re-election to become judge - Reuters",
+    "postId": "1973c4f30a71a9f9b9ca4d52b7ae87189607d1aa173dbdd86388ace93e6be6a3",
+    "title": "취임 1년 5개월, 이재명 대통령이 가장 열심히 한 일은? - 최보식의언론",
     "bot": "jongsuk_pol_bot",
-    "runId": "45486721275",
-    "sentAt": "2026-11-24T21:01:17.085Z"
+    "runId": "45490190896",
+    "sentAt": "2026-11-24T21:21:15.932Z"
   }
 }

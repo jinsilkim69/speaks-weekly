@@ -5357,3 +5357,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 취임 1년 5개월, 이재명 대통령이 가장 열심히 한 일은? - 최보식의언론
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 취임 1년 5개월, 이재명 대통령이 가장 열심히 한 일은?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BSWY2UXExM2sycnMzWDQ1a3hIVmE4U0FibWQ3VE03Ymw2ZGJnU05yZldnU3Zua3AtMzJTYlc5Y21vdWhIY1BIQXlqSm42TEZzTm9zWnFhWHdsYnNTWUk4SXR6WFfSAWhBVV95cUxNc1U3OFRjUUZzcVBGR2NRY2xvbTZBczNEQnBqTU55QWZJR05DT0hOdWNtZnpWTFYzMm1zTUhTdy1paGs1aEsxLU1zTDBLSGM0MjJDUU5kWnVMN1lFSHNKaTdtTHQ5NTZ4Qg?oc=5)
+
+---
+
