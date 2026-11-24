@@ -1301,5 +1301,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d0c42f462866c60380d3b26e22a39f14716ae8178f4c4b820fa9b62f6b7bd35d",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "정청래, 취임 100일 김민석 겨냥 “반분신 3자 연합, 사과하면 끝? 책임 정치 하자” - JTBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LT3N0d3hsNm0xeDNiNkRyLWpnTHIyWWptbWhBVTNOV1lQWTQ3cG8yZjNmc1NvRGJHVXUyVDgwOVpDVWxvaWYyUGR0ZHloZWoxcUo3cg?oc=5\" target=\"_blank\">정청래, 취임 100일 김민석 겨냥 “반분신 3자 연합, 사과하면 끝? 책임 정치 하자”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LT3N0d3hsNm0xeDNiNkRyLWpnTHIyWWptbWhBVTNOV1lQWTQ3cG8yZjNmc1NvRGJHVXUyVDgwOVpDVWxvaWYyUGR0ZHloZWoxcUo3cg?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 01:37:00 GMT",
+    "source": "JTBC",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래, 취임 100일 김민석 겨냥 “반분신 3자 연합, 사과하면 끝? 책임 정치 하자”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "68042d18c5e843f6407d3c964b596aa0109de36f032e87fb03751458cbc3271a",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "정청래, 취임 100일 김민석 겨냥 “반분신 3자 연합, 사과하면 끝? 책임 정치 하자” - JTBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LT3N0d3hsNm0xeDNiNkRyLWpnTHIyWWptbWhBVTNOV1lQWTQ3cG8yZjNmc1NvRGJHVXUyVDgwOVpDVWxvaWYyUGR0ZHloZWoxcUo3cg?oc=5\" target=\"_blank\">정청래, 취임 100일 김민석 겨냥 “반분신 3자 연합, 사과하면 끝? 책임 정치 하자”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LT3N0d3hsNm0xeDNiNkRyLWpnTHIyWWptbWhBVTNOV1lQWTQ3cG8yZjNmc1NvRGJHVXUyVDgwOVpDVWxvaWYyUGR0ZHloZWoxcUo3cg?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 01:37:00 GMT",
+    "source": "JTBC",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래, 취임 100일 김민석 겨냥 “반분신 3자 연합, 사과하면 끝? 책임 정치 하자”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
