@@ -3430,5 +3430,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e4cbd07b3cacd19bad2caeaddfb28d37195a6dd404d1d0c0e4b5ae97e22c79d7",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석 “강금실 뜬금포…美가 믿고 정보 건넬 사람인가” 국정원장 지명 비판 - 매일경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdFpoUUpRVjRRY3p3NENSN1hOOTdWYlVNLWczYjVpVFRraWtGeW5EQXY4Q2xEb2gxZzNEODN1ZmU3cFkyQjdVRjNTTFhGanpQdU9uNVpR?oc=5\" target=\"_blank\">이준석 “강금실 뜬금포…美가 믿고 정보 건넬 사람인가” 국정원장 지명 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdFpoUUpRVjRRY3p3NENSN1hOOTdWYlVNLWczYjVpVFRraWtGeW5EQXY4Q2xEb2gxZzNEODN1ZmU3cFkyQjdVRjNTTFhGanpQdU9uNVpR?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 06:51:36 GMT",
+    "source": "매일경제",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석 “강금실 뜬금포…美가 믿고 정보 건넬 사람인가” 국정원장 지명 비판",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
