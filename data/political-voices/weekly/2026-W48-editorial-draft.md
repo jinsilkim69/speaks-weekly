@@ -3862,3 +3862,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 안철수·이준석이 문제 삼은 강금실의 ‘중국 정부 특별고문’ 경력, 어떤 일을 했나 - 주간경향
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 안철수·이준석이 문제 삼은 강금실의 ‘중국 정부 특별고문’ 경력, 어떤 일을 했나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fYUt5THVWVVdaLU1hT2hvalYxV2ZtQ0JLdTl2MzlQaDUwLW5hd090SldMVDNJWlhYNWlrazNKeDNvN3VYNms0QUdqY21JU181WGF4SGVVUmJXa0M4NHc?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 조희대 탄핵, 더 이상 미룰 수 없어 - 아주경제
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 조희대 탄핵, 더 이상 미룰 수 없어
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xNWwyNDlPWDd4Ty1DTzNlWGRGWXYyTEk1cDUyWnJHOTVvRnNORVZaOW4yZWU0ODdQbEdKMmdWZE1iYVl5TDlXWnNsa2YtN1ljWHdNbmtsNzJoZ9IBWEFVX3lxTE9Uc01Qd3h3bkszQlhmRkVUU2VUWEtFWjF2TkVadkN3VGNfY2Z1RkRISzZWTUJkN09jMWEyQVhLY1BhMllRUk5TV21Lbmo4SFRVbWxuTWMxZnM?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 "결자해지" 압박…출구없는 與신천지 갈등 - 연합뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 "결자해지" 압박…출구없는 與신천지 갈등
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyNDQ5VzQ0RVZVdkxKeGlhM0VMdFo4SHZGZ1BUSGxzN0hRWUJhYnA2NkpSaU1zU2JnVXpjUWtzZmprdy1peTdxeFU0SDdRWW1pczRVT1NDVk42ajhSMjJuc9IBYEFVX3lxTFAyNDQ5VzQ0RVZVdkxKeGlhM0VMdFo4SHZGZ1BUSGxzN0hRWUJhYnA2NkpSaU1zU2JnVXpjUWtzZmprdy1peTdxeFU0SDdRWW1pczRVT1NDVk42ajhSMjJucw?oc=5)
+
+---
+
