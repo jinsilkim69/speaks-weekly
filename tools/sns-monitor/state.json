@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T08:11:21.658Z",
+  "lastCheckedAt": "2026-11-24T08:21:14.757Z",
   "seenPostIds": {
-    "b0b727e89cf255cfefd93ec7359396e3580043e0a77b3c84542202e6c7307c10": {
-      "seenAt": "2026-11-21T20:31:17.832Z",
-      "title": "Trump Memecoin Hits 2026 Low As Price Slumps Ahead Of President’s VIP Dinner - TradingView",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "17f4b4408a2b1337ea869040b0efc0c44fbb4a863212baf3e21054be1696c67e": {
-      "seenAt": "2026-11-21T20:41:20.106Z",
-      "title": "장동혁, 이재명에 \"억울하면 재판 받으라\"…'탈옥법' 추진 비판 - www.gukjenews.com",
-      "targetName": "이재명"
-    },
     "93ac02ee6fac46d908cbc0ff6440490338ecfb13c21550074b5ec0ef5da709f9": {
       "seenAt": "2026-11-21T21:11:13.748Z",
       "title": "김민석 \"민주당 큰 고민 중 하나는 청년과 함께 하는 방법\" - 연합뉴스TV",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-24T08:11:24.282Z",
       "title": "조국 입국 거부, 법대로라지만…日 심사 기준 따져보니 - 쿠키뉴스",
       "targetName": "조국"
+    },
+    "218c362ddebfe7af186784b0f8481a880c73896e6573686391894d53ba5b995c": {
+      "seenAt": "2026-11-24T08:21:16.059Z",
+      "title": "\"尹 사형 구형일 맞춰 한동훈을 제물로” [앵커리포트] - YTN",
+      "targetName": "한동훈"
+    },
+    "0532dbc9e6f493204167ebf831d135ef9037f73ebb5ff7d7c8d5794765f41de3": {
+      "seenAt": "2026-11-24T08:21:16.860Z",
+      "title": "“한동훈 제명은 조작 징계”…친한계, 장동혁 사퇴 압박 - 경기일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "a056b078ed6e2662ed21bb34efcfaf1eb0f529e236bb1ee686473d90bfc14baa",
-    "title": "조국 입국 거부, 법대로라지만…日 심사 기준 따져보니 - 쿠키뉴스",
+    "postId": "0532dbc9e6f493204167ebf831d135ef9037f73ebb5ff7d7c8d5794765f41de3",
+    "title": "“한동훈 제명은 조작 징계”…친한계, 장동혁 사퇴 압박 - 경기일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45353893363",
-    "sentAt": "2026-11-24T08:11:23.859Z"
+    "runId": "45355338220",
+    "sentAt": "2026-11-24T08:21:16.477Z"
   }
 }

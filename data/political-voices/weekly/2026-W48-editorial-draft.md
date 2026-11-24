@@ -4499,3 +4499,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** "尹 사형 구형일 맞춰 한동훈을 제물로” [앵커리포트] - YTN
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "尹 사형 구형일 맞춰 한동훈을 제물로”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE50NHFCeXFwbnkycDdYcGNlOFFkaE43YWNYYnpraTMyMjRyOTBIUEN4QmNscGc5MjRhQ2tSY21ZdnBVUUxxWHFGY0Q3bDJhb3RWVWJkNkdrVzJIVWF3c2c?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** “한동훈 제명은 조작 징계”…친한계, 장동혁 사퇴 압박 - 경기일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “한동훈 제명은 조작 징계”…친한계, 장동혁 사퇴 압박
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqaHBnMkZ2WVRjRUtkWTdUbFE4aF9FOTRIakYxY013XzczVWJVLURfTGZwaFRxR2FIMlBEbmJZbm1hNjNGbHl1ZHllX0xYcWJzNWdVbnBBc1BVRlk?oc=5)
+
+---
+
