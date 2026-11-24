@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T08:41:15.481Z",
+  "lastCheckedAt": "2026-11-24T08:51:16.627Z",
   "seenPostIds": {
-    "182ef06a6248de48dce0e1e0d915dc8d622d146724ad776e98a563c757a3e25d": {
-      "seenAt": "2026-11-21T21:51:21.421Z",
-      "title": "Trump-backed film incentive plan comes as California production falls - Mezha.net",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "673a24083f82391afd45152023190d0db3d817123f8e12cdef81c5d70705b92e": {
-      "seenAt": "2026-11-21T22:01:15.751Z",
-      "title": "더불어민주당 김민석 대표 \"가장 큰 고민은 청년과의 소통\" - 스페셜타임스",
-      "targetName": "김민석"
-    },
     "824eaaf9c041df91d983d29c16c150d0202242a0e34b63df02f5b4f5598dbd18": {
       "seenAt": "2026-11-21T22:01:16.420Z",
       "title": "Trump Hints Abdul El-Sayed’s Stroking-His-Ego Strategy May Be Working with ‘Medicare for All’ Message - Yahoo",
@@ -2510,49 +2500,46 @@
       "seenAt": "2026-11-24T08:41:17.775Z",
       "title": "김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문",
       "targetName": "정청래"
+    },
+    "c860bb762b279dab991a31dd9423b5f60495d77676af2edaae08bd33df84254a": {
+      "seenAt": "2026-11-24T08:51:18.177Z",
+      "title": "이준석 \"한동훈식 '검찰정치'는 위험…금도라는 게 없어\" - 조세일보",
+      "targetName": "이준석"
+    },
+    "5d3c21d8d67d952d8e02e37d9c5d94d9d73480148a95bf5b7f1a5e56a2d56c5c": {
+      "seenAt": "2026-11-24T08:51:18.520Z",
+      "title": "‘조작징계’ 주장에 장동혁-한동훈 정면 충돌 “한, 보수 궤멸의 중심” “장, 배후 조종 인정” - 한겨레",
+      "targetName": "한동훈"
+    },
+    "5f622287d26d2a9437f7d0ddc3baca9c056c637efa375ed6fe7e47b48f4743ff": {
+      "seenAt": "2026-11-24T08:51:19.269Z",
+      "title": "이재명 정부 첫 재외공관장 회의…대통령 직접 주재·생중계 검토 - 한겨레",
+      "targetName": "이재명"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "c860bb762b279dab991a31dd9423b5f60495d77676af2edaae08bd33df84254a",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"한동훈식 '검찰정치'는 위험…금도라는 게 없어\" - 조세일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE45RHRVdjZGUnJpVUdnbjVRSEhma3JnUXN4NWtTcFFDTUprVHVMdGdJUV9WYzB6a2QybDlsZ3BjcTFvWURyLTIwb0RIb1RTR2Rya1RCem5QX1gwcGlGRWlLamxMSlA1WFdheEMzRnJQakVuZ1l1?oc=5\" target=\"_blank\">이준석 \"한동훈식 '검찰정치'는 위험…금도라는 게 없어\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45RHRVdjZGUnJpVUdnbjVRSEhma3JnUXN4NWtTcFFDTUprVHVMdGdJUV9WYzB6a2QybDlsZ3BjcTFvWURyLTIwb0RIb1RTR2Rya1RCem5QX1gwcGlGRWlLamxMSlA1WFdheEMzRnJQakVuZ1l1?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 08:02:59 GMT",
-        "source": "조세일보",
-        "ageHours": 0.6
+        "id": "7c599f51293518fb8f8075a8c0361a8d42759d729470ddf25da30356765ff69f",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당 강원 “겨울철 도로 결빙 사고, 사전 예방 강화해야” - 강원도민일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CNS1GVTg3ejZvc3JxUlc1WEVhVF8tWXlJN181U2VBMFZSZi01eDlCdDUxX3plVEFoSlU4aHp3RVExNF8yYlNEYmwyQWtJMmRmV1BaNEhLdm9TMjRVVUpYLTZjcVNKb3pa?oc=5\" target=\"_blank\">조국혁신당 강원 “겨울철 도로 결빙 사고, 사전 예방 강화해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원도민일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CNS1GVTg3ejZvc3JxUlc1WEVhVF8tWXlJN181U2VBMFZSZi01eDlCdDUxX3plVEFoSlU4aHp3RVExNF8yYlNEYmwyQWtJMmRmV1BaNEhLdm9TMjRVVUpYLTZjcVNKb3pa?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 08:33:45 GMT",
+        "source": "강원도민일보",
+        "ageHours": 0.3
       },
       "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5d3c21d8d67d952d8e02e37d9c5d94d9d73480148a95bf5b7f1a5e56a2d56c5c",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "‘조작징계’ 주장에 장동혁-한동훈 정면 충돌 “한, 보수 궤멸의 중심” “장, 배후 조종 인정” - 한겨레",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9iTUxGa3FPMjNibUpPemJOcDZiTXpXZTRVeG9seHhWT0VVVzAxOGdxemliZ2xma1NjcDIzcWFMX3U3bWlvODM5NXVOZWNwWlRFaXc5enM0T19DVTRha0draS1GaWgzbS1ZZmc?oc=5\" target=\"_blank\">‘조작징계’ 주장에 장동혁-한동훈 정면 충돌 “한, 보수 궤멸의 중심” “장, 배후 조종 인정”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iTUxGa3FPMjNibUpPemJOcDZiTXpXZTRVeG9seHhWT0VVVzAxOGdxemliZ2xma1NjcDIzcWFMX3U3bWlvODM5NXVOZWNwWlRFaXc5enM0T19DVTRha0draS1GaWgzbS1ZZmc?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 08:29:00 GMT",
-        "source": "한겨레",
-        "ageHours": 0.2
-      },
-      "delivered": [
-        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
-      ],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "020afc4b1d8eb4d1608bf11e63a769895122bfbf89c3da0ef3e5c90c27ab43c8",
-    "title": "김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문",
+    "postId": "5f622287d26d2a9437f7d0ddc3baca9c056c637efa375ed6fe7e47b48f4743ff",
+    "title": "이재명 정부 첫 재외공관장 회의…대통령 직접 주재·생중계 검토 - 한겨레",
     "bot": "jongsuk_pol_bot",
-    "runId": "45358259187",
-    "sentAt": "2026-11-24T08:41:17.459Z"
+    "runId": "45359710847",
+    "sentAt": "2026-11-24T08:51:18.858Z"
   }
 }

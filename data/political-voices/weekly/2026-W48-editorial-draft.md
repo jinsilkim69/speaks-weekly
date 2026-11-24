@@ -4590,3 +4590,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "한동훈식 '검찰정치'는 위험…금도라는 게 없어" - 조세일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "한동훈식 '검찰정치'는 위험…금도라는 게 없어"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE45RHRVdjZGUnJpVUdnbjVRSEhma3JnUXN4NWtTcFFDTUprVHVMdGdJUV9WYzB6a2QybDlsZ3BjcTFvWURyLTIwb0RIb1RTR2Rya1RCem5QX1gwcGlGRWlLamxMSlA1WFdheEMzRnJQakVuZ1l1?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** ‘조작징계’ 주장에 장동혁-한동훈 정면 충돌 “한, 보수 궤멸의 중심” “장, 배후 조종 인정” - 한겨레
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘조작징계’ 주장에 장동혁-한동훈 정면 충돌 “한, 보수 궤멸의 중심” “장, 배후 조종 인정”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9iTUxGa3FPMjNibUpPemJOcDZiTXpXZTRVeG9seHhWT0VVVzAxOGdxemliZ2xma1NjcDIzcWFMX3U3bWlvODM5NXVOZWNwWlRFaXc5enM0T19DVTRha0draS1GaWgzbS1ZZmc?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 정부 첫 재외공관장 회의…대통령 직접 주재·생중계 검토 - 한겨레
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 정부 첫 재외공관장 회의…대통령 직접 주재·생중계 검토
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1wbHJQZEU2QUc1SXZHTE9pZXA2Wlp3NTFnVHpRQ1djaFZvWXJrRmpNUDQyTkR3Um5welhraENhVHM0T29rZWU4VDF0UjlteUZQVnIyOWRibjRWRV9qUFNoMGlzM2pCX21UZ080?oc=5)
+
+---
+
