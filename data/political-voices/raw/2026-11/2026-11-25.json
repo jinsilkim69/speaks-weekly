@@ -753,5 +753,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d1ac6a3bcb312093db497dacf7671e3ac47f307ff9847537a1c76b0a80d5c7dd",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "개혁신당 \"이재명 정부 1년 5개월, 국정 방치하고 자기 재판만 몰두\" - 한국사회복지저널",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE11djh1Ynluc25PaU9tenR6T3oxQWVVZXY0TW85SXF0YVhsZXJBb1BSN3dBVkZvbWJVRmFWVDgyV0RvSS1RdWZyY3FDUGZqT1FHOEppVm13ZWFsZ2dyOGxLdmUxbno5dzREQzhV?oc=5\" target=\"_blank\">개혁신당 \"이재명 정부 1년 5개월, 국정 방치하고 자기 재판만 몰두\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국사회복지저널</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11djh1Ynluc25PaU9tenR6T3oxQWVVZXY0TW85SXF0YVhsZXJBb1BSN3dBVkZvbWJVRmFWVDgyV0RvSS1RdWZyY3FDUGZqT1FHOEppVm13ZWFsZ2dyOGxLdmUxbno5dzREQzhV?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 23:05:27 GMT",
+    "source": "한국사회복지저널",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 개혁신당 \"이재명 정부 1년 5개월, 국정 방치하고 자기 재판만 몰두\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

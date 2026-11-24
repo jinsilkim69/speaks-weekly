@@ -5448,3 +5448,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 개혁신당 "이재명 정부 1년 5개월, 국정 방치하고 자기 재판만 몰두" - 한국사회복지저널
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 개혁신당 "이재명 정부 1년 5개월, 국정 방치하고 자기 재판만 몰두"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE11djh1Ynluc25PaU9tenR6T3oxQWVVZXY0TW85SXF0YVhsZXJBb1BSN3dBVkZvbWJVRmFWVDgyV0RvSS1RdWZyY3FDUGZqT1FHOEppVm13ZWFsZ2dyOGxLdmUxbno5dzREQzhV?oc=5)
+
+---
+

@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T23:01:18.563Z",
+  "lastCheckedAt": "2026-11-24T23:11:18.604Z",
   "seenPostIds": {
     "ee37dafcfd9a352abb11f05962647ecfd086e526abcd1d013489498a8463efa3": {
       "seenAt": "2026-11-22T04:21:14.892Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T22:51:16.359Z",
       "title": "Trump Media GC Earned $2.8 Million In Comp In 2025 - Law360",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d1ac6a3bcb312093db497dacf7671e3ac47f307ff9847537a1c76b0a80d5c7dd": {
+      "seenAt": "2026-11-24T23:11:20.269Z",
+      "title": "개혁신당 \"이재명 정부 1년 5개월, 국정 방치하고 자기 재판만 몰두\" - 한국사회복지저널",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "8e6b16c2959f7911c89b83ce15013428bcb23ca50de62160b029e8c9f7fb9ac7",
-    "title": "Trump Media GC Earned $2.8 Million In Comp In 2025 - Law360",
+    "postId": "d1ac6a3bcb312093db497dacf7671e3ac47f307ff9847537a1c76b0a80d5c7dd",
+    "title": "개혁신당 \"이재명 정부 1년 5개월, 국정 방치하고 자기 재판만 몰두\" - 한국사회복지저널",
     "bot": "jongsuk_pol_bot",
-    "runId": "45504723355",
-    "sentAt": "2026-11-24T22:51:15.766Z"
+    "runId": "45507728730",
+    "sentAt": "2026-11-24T23:11:19.560Z"
   }
 }
