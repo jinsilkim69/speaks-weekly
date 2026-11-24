@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T16:41:23.555Z",
+  "lastCheckedAt": "2026-11-24T16:51:26.611Z",
   "seenPostIds": {
     "0dd228907a8b14eac9b24959ba62c64e41f25812fe804d550617c142dcb503f4": {
       "seenAt": "2026-11-22T02:31:14.972Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T16:31:17.860Z",
       "title": "조국 “당명 속 ‘조국’이 제 이름은 아니지만… 당명 바꾸자” - 조선일보",
       "targetName": "조국"
+    },
+    "3bf9245ce2e8171fd5c73eead6c113a21935cb9abbf1ed5e363a36a991fb776f": {
+      "seenAt": "2026-11-24T16:51:28.621Z",
+      "title": "Trump shares meme of Jensen Huang raising red bra in air - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "23c13615976b5232e5d34c500a86231b70566ec7ec51961d300994125dcbf91c",
-    "title": "조국 “당명 속 ‘조국’이 제 이름은 아니지만… 당명 바꾸자” - 조선일보",
+    "postId": "3bf9245ce2e8171fd5c73eead6c113a21935cb9abbf1ed5e363a36a991fb776f",
+    "title": "Trump shares meme of Jensen Huang raising red bra in air - The Hill",
     "bot": "jongsuk_pol_bot",
-    "runId": "45438029343",
-    "sentAt": "2026-11-24T16:31:17.515Z"
+    "runId": "45441885200",
+    "sentAt": "2026-11-24T16:51:27.890Z"
   }
 }

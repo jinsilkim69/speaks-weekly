@@ -5149,3 +5149,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump shares meme of Jensen Huang raising red bra in air - The Hill
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump shares meme of Jensen Huang raising red bra in air
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxObVRYRjZxOUU3UkdiUDE2T3ppVzVjQ0h3ZmdtTXBGQUEtLVRDVjR4WkpVNzVjVUl5V3ZCNmFpZ09FT1B2aXduQy1KcDhJSjNBLWdFVnJnZ2M4NmJIc2NWSXNCTWNHY1VaaDFvQUV3Wmh3SVpUMGhvbWtmNUhkYThZN1VWckNCQdIBiwFBVV95cUxOdkxObHdFeGVCd3hnQy1NLXc4cnQ2bXI0eWMweC1Pakg3RUJOM3NUMzBUanJUTlo1ZU1mNDU5QTNaQ2Fxelh6aUEtSlQyM0F6NXNRYnlwY0tkQm5aUjY2NklEd28tQUlwYk9vVGk0NDJSejFTQWJiUTQzN0xpT2xVckJpLVgwQ0dVU2RF?oc=5)
+
+---
+
