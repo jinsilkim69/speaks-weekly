@@ -4482,5 +4482,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b62bf8a1c07d74687895e7ec2c713e95b2a64fb6fef64153524b59aa6c0a4405",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "김민석 '취임 100일' 몸 낮췄으나... 정청래 \"결자해지하라\" 폭풍 SNS - 한국일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5kRmNkRWZkWlVNb2h2V1Q2RlNuQ281WTF4emx3RXB1cUpFRzdDOUdxUExuOWxxNDVJLXc4NlVfcFZmZzhFTlZoSnRYNnBydlVIWDNJRWtEajEtbmVxVmhUUkk5QXRPMmRWSGJkVU9mOEw1U1XSAXNBVV95cUxOZEZjZEVmZFpVTW9odldUNkZTbkNvNVkxeHpsd0VwdXFKRUc3QzlHcVBMbjlscTQ1SS13ODZVX3BWZmc4RU5WaEp0WDZwcnZVSFgzSUVrRGoxLW5lcVZoVFJJOUF0TzJkVkhiZFVPZjhMNVNV?oc=5\" target=\"_blank\">김민석 '취임 100일' 몸 낮췄으나... 정청래 \"결자해지하라\" 폭풍 SNS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kRmNkRWZkWlVNb2h2V1Q2RlNuQ281WTF4emx3RXB1cUpFRzdDOUdxUExuOWxxNDVJLXc4NlVfcFZmZzhFTlZoSnRYNnBydlVIWDNJRWtEajEtbmVxVmhUUkk5QXRPMmRWSGJkVU9mOEw1U1XSAXNBVV95cUxOZEZjZEVmZFpVTW9odldUNkZTbkNvNVkxeHpsd0VwdXFKRUc3QzlHcVBMbjlscTQ1SS13ODZVX3BWZmc4RU5WaEp0WDZwcnZVSFgzSUVrRGoxLW5lcVZoVFJJOUF0TzJkVkhiZFVPZjhMNVNV?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 10:00:00 GMT",
+    "source": "한국일보",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 '취임 100일' 몸 낮췄으나... 정청래 \"결자해지하라\" 폭풍 SNS",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "adbe5991e8a44f6599ca68fb742949908a7d75938872eb1f8f770f0b01368c0c",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석, 강금실 지명에 “정보·방첩 경력 전무” [정치오늘] - 시사오늘",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5NZGlwQWRQaUlqa2VISnhianNuVDV3X1VQd3ZQWW1nOExzbzlTUjdjTHVfNllhRmlNMmpBUU81UVFGcHpUT1h1RTBnbV9nRUM4Q1J2UTdvQTZPOU9EcDltamJGS0JmU3M2azlz?oc=5\" target=\"_blank\">이준석, 강금실 지명에 “정보·방첩 경력 전무” [정치오늘]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사오늘</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NZGlwQWRQaUlqa2VISnhianNuVDV3X1VQd3ZQWW1nOExzbzlTUjdjTHVfNllhRmlNMmpBUU81UVFGcHpUT1h1RTBnbV9nRUM4Q1J2UTdvQTZPOU9EcDltamJGS0JmU3M2azlz?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 07:37:59 GMT",
+    "source": "시사오늘",
+    "ageHours": 3.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석, 강금실 지명에 “정보·방첩 경력 전무”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
