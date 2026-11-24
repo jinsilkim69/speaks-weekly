@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T01:21:14.765Z",
+  "lastCheckedAt": "2026-11-24T01:31:12.463Z",
   "seenPostIds": {
-    "d5fc0c34ad59873b7aff6c05bbacee024986465c0c2b9fca124119ca64908662": {
-      "seenAt": "2026-11-20T21:51:21.226Z",
-      "title": "President Trump to hold news conference after returning from China - KING5.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "70c914e1ab88265e16fdb0ed936b1fa1009f17af09d07fee4dec26dc546a5dcb": {
-      "seenAt": "2026-11-20T22:11:17.296Z",
-      "title": "홍준표 못지않은 ‘독고다이’ 정청래의 행로 - 에너지경제신문",
-      "targetName": "정청래"
-    },
-    "7120e09789947e8c22ea0c838e975facb293b227584f861d21fb117019546501": {
-      "seenAt": "2026-11-20T22:31:17.055Z",
-      "title": "Trump delights in pomp of Asia trip, with no breakthroughs to report - The Washington Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "8d88d7b38e934a8ac9446a5f0f544193eebad9f25c08d895448b3402987833ff": {
       "seenAt": "2026-11-20T23:21:18.423Z",
       "title": "이재명 대통령 '대장동 檢 기소' 반박 \"5500억 환수가 배임인가\" - 대전일보",
@@ -2515,31 +2500,46 @@
       "seenAt": "2026-11-24T01:21:17.290Z",
       "title": "조국혁신당, 당명 개정 추진…조국 \"확장성 있는 이름 필요\" - 프레시안",
       "targetName": "조국"
+    },
+    "77201260f0993e52e407d0adc36cce5dbd03ce5b69afebc298fac99c40b49b6f": {
+      "seenAt": "2026-11-24T01:31:13.650Z",
+      "title": "[이종근의 좌충우돌]조국의 해법, '내 집은 소유하고, 청년의 집은 임대하라' - 매일산업뉴스",
+      "targetName": "조국"
+    },
+    "43e9963647b6184fb6d4e81d69f6e579d54926201cf32dfa2b9b2271ae96ee11": {
+      "seenAt": "2026-11-24T01:31:14.282Z",
+      "title": "정성호 \"김민석·정청래 앙금 못 풀면 미래 없다… 당 공멸 막아야\" - 대전일보",
+      "targetName": "정청래"
+    },
+    "fd0568f7aae327199bac27175f74eb8c275342804471ed09d46195168d0e1429": {
+      "seenAt": "2026-11-24T01:31:14.912Z",
+      "title": "‘金 100일’에 정청래 “성공한 정치공작이니 말로 사과하면 끝인가” - 이데일리",
+      "targetName": "정청래"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "77201260f0993e52e407d0adc36cce5dbd03ce5b69afebc298fac99c40b49b6f",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "[이종근의 좌충우돌]조국의 해법, '내 집은 소유하고, 청년의 집은 임대하라' - 매일산업뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MUzBWX3lTLVQxR1VGUV9teUUyd3F3UmhxLTQwT0ZTbWlzcUZ1eGgydENJYi03bk45QmgwclEwQXpidWo0MHJGcGQzNWNjMFNMc3JxMUtyRXJmdTdBcVVBZmx5QQ?oc=5\" target=\"_blank\">[이종근의 좌충우돌]조국의 해법, '내 집은 소유하고, 청년의 집은 임대하라'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일산업뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MUzBWX3lTLVQxR1VGUV9teUUyd3F3UmhxLTQwT0ZTbWlzcUZ1eGgydENJYi03bk45QmgwclEwQXpidWo0MHJGcGQzNWNjMFNMc3JxMUtyRXJmdTdBcVVBZmx5QQ?oc=5",
-        "pubDate": "Mon, 23 Nov 2026 21:00:00 GMT",
-        "source": "매일산업뉴스",
-        "ageHours": 4.4
+        "id": "f40fb6e21a57d12f13662ea66bc15ea92f5572e99ff89d478a7b310134227171",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump claims credit as Jensen Huang returns to Nvidia - NPR",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9zbnZDQkUyREFBaUM2YkdGLTNyWWxjMXNzcTFBR2I0WmdyVWtQYXFHMmtfaG5xdmlCZ2ZBVlp2M29XSUxPbU4tNnU4V1ZHVWZINFExTWpUUncwRGFIZ0hwVnNmd2RQeGRwV1hLNUIyLWR6OF9sOUVKWUZjOA?oc=5\" target=\"_blank\">Trump claims credit as Jensen Huang returns to Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zbnZDQkUyREFBaUM2YkdGLTNyWWxjMXNzcTFBR2I0WmdyVWtQYXFHMmtfaG5xdmlCZ2ZBVlp2M29XSUxPbU4tNnU4V1ZHVWZINFExTWpUUncwRGFIZ0hwVnNmd2RQeGRwV1hLNUIyLWR6OF9sOUVKWUZjOA?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 01:05:40 GMT",
+        "source": "NPR",
+        "ageHours": 0.4
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "9ddf3104741a9e864491ab881a3e01c942cc78ad4ef3d12ace2c1c6564d811b5",
-    "title": "조국혁신당, 당명 개정 추진…조국 \"확장성 있는 이름 필요\" - 프레시안",
+    "postId": "fd0568f7aae327199bac27175f74eb8c275342804471ed09d46195168d0e1429",
+    "title": "‘金 100일’에 정청래 “성공한 정치공작이니 말로 사과하면 끝인가” - 이데일리",
     "bot": "jongsuk_pol_bot",
-    "runId": "45304381341",
-    "sentAt": "2026-11-24T01:21:16.973Z"
+    "runId": "45305601617",
+    "sentAt": "2026-11-24T01:31:14.597Z"
   }
 }

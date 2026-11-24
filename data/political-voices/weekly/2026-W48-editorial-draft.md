@@ -3121,3 +3121,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [이종근의 좌충우돌]조국의 해법, '내 집은 소유하고, 청년의 집은 임대하라' - 매일산업뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국의 해법, '내 집은 소유하고, 청년의 집은 임대하라'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MUzBWX3lTLVQxR1VGUV9teUUyd3F3UmhxLTQwT0ZTbWlzcUZ1eGgydENJYi03bk45QmgwclEwQXpidWo0MHJGcGQzNWNjMFNMc3JxMUtyRXJmdTdBcVVBZmx5QQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정성호 "김민석·정청래 앙금 못 풀면 미래 없다… 당 공멸 막아야" - 대전일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정성호 "김민석·정청래 앙금 못 풀면 미래 없다… 당 공멸 막아야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBZaHR0UnlKNXFaXzAwSzZ1OHlhNG5pVTkzMm5OaTV1ZFNxNHpuUWF5YzRxam9mOEFtVWEzZzIwUEVDbk1wYkdVZGdCY3Zaa3NNWlhDUGtSRF94YURvYW41NjJWaWZqa3NPVXZxNWREMA?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** ‘金 100일’에 정청래 “성공한 정치공작이니 말로 사과하면 끝인가” - 이데일리
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘金 100일’에 정청래 “성공한 정치공작이니 말로 사과하면 끝인가”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHh4ZVdOUWUzcnpHb3lGbEdwMTVwRnBJSjNKUXhhMUlFMjRZOW13X242LUd2cDBNbEVkUjFKN3BuUVV3dm1jdmRhLU11YjFGMlNrWEd5R1VaUzZvVk5VUE5aZk5TeThGeDNaRTl2d1Y2SUx2a1NPTkZfZkFIZ3o2Mg?oc=5)
+
+---
+
