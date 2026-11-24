@@ -3407,3 +3407,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** “尹 구형일에 맞춰 한동훈 제명” 장동혁은 버틸 수 있나…정옥임·김영우, 25일 《전영기의 빅샷》 출연 - 시사저널
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “尹 구형일에 맞춰 한동훈 제명” 장동혁은 버틸 수 있나…정옥임·김영우, 25일 《전영기의 빅샷》 출연
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE80LWtVcjlHOG5oMGRPWThOY09rZE9zeWxjb3dpY3NEMG91VkJFeUpoaElGWXJaVEhUWElnb2hiWXZHSEc1Q1NOaEgzSHRDM3NDdjE2M3ZzbnZDZVZaWkEwRnpBcTZnTjBfQkZXMDVVb9IBc0FVX3lxTE8wMEZlLV8wd01nZktzN0tOSU1jYlNHR1dQLWdmXzBMa095d2VDMERCSEx6MGg5YkJvMU1NVlFUelA0OGVfOUpNTGo4cEhjbDdnOVlZQjhZWXFLWGtKaDQzVHc0TmtVVUZ1c285WWRuS0pPWXc?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 취임 100일 김민석 "엇박자 얘기 없이 당청 안정... 당은 더 안정돼야" - OhmyNews
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 취임 100일 김민석 "엇박자 얘기 없이 당청 안정... 당은 더 안정돼야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE5kZUdhUldiM0NYUnlFX05ndXM5WG1zcV9jcFphY3htODcxUXZkTXZFMlh4Q18zdW9BMUJzZE9lM3ZIVUVjSHVaYUtNeVFQSnIzSU5oeklnVjJndWNKOXRIWDh3Y1R0TnpIM2puVjdPbEZJS0UtZlJN?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '한동훈 기획제명' 의혹 제기에…친한계 "장동혁 물러나야" - 연합뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '한동훈 기획제명' 의혹 제기에…친한계 "장동혁 물러나야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE12YmpFaUNTVndBaXIxa2VTVXRUTGtRTnlyQVZDaGtZb19YVjBGNm5nRERGZ2QwM2dKc05YWU1nUXZ0cDAtM0ZvMEMxcHZKWW02QzFKSE01NzV5WEXSAWBBVV95cUxNbncwd1VweHJjTmtOME9fZnlia2JKVUxpX1J2T0dUcXkwcGVWYU5HXzRhVFkydUYtdm1HdER2RThrTm1Nd09ObW4zamdjRDFBNXB5UU9mdEt1Z294TEh1TkQ?oc=5)
+
+---
+
