@@ -3082,3 +3082,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** ‘취임 100일’ 김민석 “당청은 비교적 안정…당내는 더 안정돼야” - 중앙일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘취임 100일’ 김민석 “당청은 비교적 안정…당내는 더 안정돼야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ER29pRmZmdUVrcFR2bGszSDZDZHRUOFNTZ2ZhM05YODFBUjVkYm1vX1lFRF84aWVoVFFRWHpqaTdhZEY1Z2xJOVNycS1USWwzMXdEaWpn?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "근거없는 비밀연합 폭탄으로 당 초토화…이보다 큰 해당행위 있나" - 뉴스핌
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "근거없는 비밀연합 폭탄으로 당 초토화…이보다 큰 해당행위 있나"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jeC1icmI1ZEtNUEpPZzNhdHd2QnE1enZiczRGQ2FGRlNUdkJhQXpaVWcwbV9QNXE3R2M4bHQ1VklPX1RGck1reWdFZjVHMFpNR3J6Y2o2dFdwVXE2?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 당명 개정 추진…조국 "확장성 있는 이름 필요" - 프레시안
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 당명 개정 추진…조국 "확장성 있는 이름 필요"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1Nb0xTeGd0SzFNVHRaVjhzTTV4YktFVVNERzZIdmRQLVctVktGQ3h4V2c4SE1aLWJBdUtJdUY4M3pSaGRBcWotUmdORVJHcEVMWk9GREU5elJEaHZud1FTWThYek9ZRlJ1QzNv?oc=5)
+
+---
+

@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T01:11:17.121Z",
+  "lastCheckedAt": "2026-11-24T01:21:14.765Z",
   "seenPostIds": {
-    "99829baa0a1f8bcea8a4cc9249e5092ab7a1229733555916c70aa8fac2f4590f": {
-      "seenAt": "2026-11-20T21:03:03.514Z",
-      "title": "\"말보다 노래로\"…신장식, 민주유공자법 통과 소회 담아 '사람 사는 세상' 열창 #shorts - 오마이TV - OhmyNews",
-      "targetName": "신장식"
-    },
-    "3490f3bdc0e0bece4b4744a0a0c6d623a23df9620abc07a31a42ceb73329907d": {
-      "seenAt": "2026-11-20T21:11:18.789Z",
-      "title": "Donald Trump posthumously pardons baseball great Pete Rose - The Palm Beach Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "d5fc0c34ad59873b7aff6c05bbacee024986465c0c2b9fca124119ca64908662": {
       "seenAt": "2026-11-20T21:51:21.226Z",
       "title": "President Trump to hold news conference after returning from China - KING5.com",
@@ -2510,14 +2500,46 @@
       "seenAt": "2026-11-24T01:12:43.608Z",
       "title": "조국혁신당, 당명 개정 추진…조국 \"확장성 있는 이름 필요\" - 프레시안",
       "targetName": "조국"
+    },
+    "296dc252d2a5a77b8abedebb17d7164a58af668ea49bf4cde9e9c0bb66a02c50": {
+      "seenAt": "2026-11-24T01:21:15.937Z",
+      "title": "‘취임 100일’ 김민석 “당청은 비교적 안정…당내는 더 안정돼야” - 중앙일보",
+      "targetName": "김민석"
+    },
+    "2aad5f8ac6ed608a776d252e5a71812f3879f7799205f94598b6a487aadd33c6": {
+      "seenAt": "2026-11-24T01:21:16.651Z",
+      "title": "정청래 \"근거없는 비밀연합 폭탄으로 당 초토화…이보다 큰 해당행위 있나\" - 뉴스핌",
+      "targetName": "정청래"
+    },
+    "9ddf3104741a9e864491ab881a3e01c942cc78ad4ef3d12ace2c1c6564d811b5": {
+      "seenAt": "2026-11-24T01:21:17.290Z",
+      "title": "조국혁신당, 당명 개정 추진…조국 \"확장성 있는 이름 필요\" - 프레시안",
+      "targetName": "조국"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "77201260f0993e52e407d0adc36cce5dbd03ce5b69afebc298fac99c40b49b6f",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "[이종근의 좌충우돌]조국의 해법, '내 집은 소유하고, 청년의 집은 임대하라' - 매일산업뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MUzBWX3lTLVQxR1VGUV9teUUyd3F3UmhxLTQwT0ZTbWlzcUZ1eGgydENJYi03bk45QmgwclEwQXpidWo0MHJGcGQzNWNjMFNMc3JxMUtyRXJmdTdBcVVBZmx5QQ?oc=5\" target=\"_blank\">[이종근의 좌충우돌]조국의 해법, '내 집은 소유하고, 청년의 집은 임대하라'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일산업뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MUzBWX3lTLVQxR1VGUV9teUUyd3F3UmhxLTQwT0ZTbWlzcUZ1eGgydENJYi03bk45QmgwclEwQXpidWo0MHJGcGQzNWNjMFNMc3JxMUtyRXJmdTdBcVVBZmx5QQ?oc=5",
+        "pubDate": "Mon, 23 Nov 2026 21:00:00 GMT",
+        "source": "매일산업뉴스",
+        "ageHours": 4.4
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "388c9c9b1befd4665fef0ae781e35b11a47dd9d40a5e1f73aa22c207c3534486",
+    "postId": "9ddf3104741a9e864491ab881a3e01c942cc78ad4ef3d12ace2c1c6564d811b5",
     "title": "조국혁신당, 당명 개정 추진…조국 \"확장성 있는 이름 필요\" - 프레시안",
     "bot": "jongsuk_pol_bot",
-    "runId": "45303080513",
-    "sentAt": "2026-11-24T01:12:43.285Z"
+    "runId": "45304381341",
+    "sentAt": "2026-11-24T01:21:16.973Z"
   }
 }
