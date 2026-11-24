@@ -778,5 +778,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "7f05b83fc06e9c3aefb7bc7dca0a497ac125a1244e3c9dd5e76ae96cf3ef7a07",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "[속보]한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸라” - 문화일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE44aXBtOHg1VE1GYWIwd0s1U2dIVFh4cWpteVVpUW9FQmhLcDBIQ29CbER6Mkw2bzRvUFFua0FHSnVfRnc2ZkhPMl9qYW9pZGh3?oc=5\" target=\"_blank\">[속보]한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44aXBtOHg1VE1GYWIwd0s1U2dIVFh4cWpteVVpUW9FQmhLcDBIQ29CbER6Mkw2bzRvUFFua0FHSnVfRnc2ZkhPMl9qYW9pZGh3?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 23:14:08 GMT",
+    "source": "문화일보",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸라”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

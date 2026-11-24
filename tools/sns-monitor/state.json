@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T23:21:14.657Z",
+  "lastCheckedAt": "2026-11-24T23:31:13.762Z",
   "seenPostIds": {
     "f6905b60377c86b6e9a5104a00b52f5bd285d2b3ff568a7162f78bf503461aa9": {
       "seenAt": "2026-11-22T04:21:15.586Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T23:11:20.269Z",
       "title": "개혁신당 \"이재명 정부 1년 5개월, 국정 방치하고 자기 재판만 몰두\" - 한국사회복지저널",
       "targetName": "이재명"
+    },
+    "7f05b83fc06e9c3aefb7bc7dca0a497ac125a1244e3c9dd5e76ae96cf3ef7a07": {
+      "seenAt": "2026-11-24T23:31:15.055Z",
+      "title": "[속보]한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸라” - 문화일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "d1ac6a3bcb312093db497dacf7671e3ac47f307ff9847537a1c76b0a80d5c7dd",
-    "title": "개혁신당 \"이재명 정부 1년 5개월, 국정 방치하고 자기 재판만 몰두\" - 한국사회복지저널",
+    "postId": "7f05b83fc06e9c3aefb7bc7dca0a497ac125a1244e3c9dd5e76ae96cf3ef7a07",
+    "title": "[속보]한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸라” - 문화일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45507728730",
-    "sentAt": "2026-11-24T23:11:19.560Z"
+    "runId": "45510605920",
+    "sentAt": "2026-11-24T23:31:14.438Z"
   }
 }
