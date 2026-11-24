@@ -4096,3 +4096,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라” - KBS 뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMXgxT2cwWXZseGk4SU5OSzVRZGtEb2lNWjVjNk9zbkRDcVIzcUZjSklmS2tfVDZwVW9rR0t6QjJWTWZ2WDUtTEV1NGkxTm1sR2Z2ZzF6bENXU1U?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라” - KBS 뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMXgxT2cwWXZseGk4SU5OSzVRZGtEb2lNWjVjNk9zbkRDcVIzcUZjSklmS2tfVDZwVW9rR0t6QjJWTWZ2WDUtTEV1NGkxTm1sR2Z2ZzF6bENXU1U?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 강금실 국정원장 지명에 "청개구리도 아니고...뜬금포" - 경북도민일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 강금실 국정원장 지명에 "청개구리도 아니고...뜬금포"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWjVldzVYUnozaWFNMlV6TFFsT19KT1MzSHJPa3hjQnFTUjJpaWs2c3JXY0EzLTFSNDdPbzVJaFNPV1hzS0hSdUhPd3N3WjU5MlI5VnM5MS1tNDNmSWw1QjN3dHFOLXdWQlE?oc=5)
+
+---
+

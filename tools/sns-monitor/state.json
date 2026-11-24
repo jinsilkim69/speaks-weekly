@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T05:51:18.918Z",
+  "lastCheckedAt": "2026-11-24T06:01:15.839Z",
   "seenPostIds": {
-    "8fc91c03c00059fbb88cb6bc6860d1a50a5f5428a98dc46260d90b6bc5e074c2": {
-      "seenAt": "2026-11-21T10:01:19.329Z",
-      "title": "김민석 민주당 대표 \"가장 큰 고민은 청년과의 동행…고루함 벗어야\" - 아주경제",
-      "targetName": "김민석"
-    },
-    "51a323bf95590a20973d1e7fc32bae944b3b8a25254d10bb236c693638ece13a": {
-      "seenAt": "2026-11-21T10:21:17.789Z",
-      "title": "'하루 만에 금메달 박탈!' 대반전 터지나? 조국서 아파트+훈장 받은 카자흐 경보 선수, 金 되찾기 돌입…CAS 제소 - www.xportsnews.com",
-      "targetName": "조국"
-    },
-    "58757b92b8c85ac50ef4504ebdff8fbed74ab7d0b90cdd93aa04654956cc5450": {
-      "seenAt": "2026-11-21T11:41:21.397Z",
-      "title": "김민석 \"민주당, 큰 고민 중 하나는 청년\" - 국회뉴스",
-      "targetName": "김민석"
-    },
     "cac2f94f1726fb8008d7f678efd6e1cdc03b7a94123469a2140ecfaec34cb97a": {
       "seenAt": "2026-11-21T11:51:16.565Z",
       "title": "이재명 대통령, 대학수학능력시험 부정행위 신고 포상금에 “건당 최소 1억원, 행위자 수만큼 가산” - 시사뉴스",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-24T05:51:22.191Z",
       "title": "[정치분석] 윤상현, 한동훈 ‘기획 제명’ 의혹에 지도부 책임론 제기 … 장동혁 직접 해명 요구 - 인천뉴스",
       "targetName": "한동훈"
+    },
+    "b4a032b7d7b34eaa1cce716b056819649555287d17896eb49fdbf24d3599ed65": {
+      "seenAt": "2026-11-24T06:01:16.978Z",
+      "title": "정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라” - KBS 뉴스",
+      "targetName": "김민석"
+    },
+    "49e6125a89615f8eaf55bc79aabf09a668e485c5bc304500b6354d51801409ec": {
+      "seenAt": "2026-11-24T06:01:17.656Z",
+      "title": "정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라” - KBS 뉴스",
+      "targetName": "정청래"
+    },
+    "d1baf18fc5ae0f980779ed73646006c79ce37a52447a64da138b267caab13332": {
+      "seenAt": "2026-11-24T06:01:18.325Z",
+      "title": "이준석, 강금실 국정원장 지명에 \"청개구리도 아니고...뜬금포\" - 경북도민일보",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "b4a032b7d7b34eaa1cce716b056819649555287d17896eb49fdbf24d3599ed65",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라” - KBS 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMXgxT2cwWXZseGk4SU5OSzVRZGtEb2lNWjVjNk9zbkRDcVIzcUZjSklmS2tfVDZwVW9rR0t6QjJWTWZ2WDUtTEV1NGkxTm1sR2Z2ZzF6bENXU1U?oc=5\" target=\"_blank\">정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMXgxT2cwWXZseGk4SU5OSzVRZGtEb2lNWjVjNk9zbkRDcVIzcUZjSklmS2tfVDZwVW9rR0t6QjJWTWZ2WDUtTEV1NGkxTm1sR2Z2ZzF6bENXU1U?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 05:37:00 GMT",
-        "source": "KBS 뉴스",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "49e6125a89615f8eaf55bc79aabf09a668e485c5bc304500b6354d51801409ec",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라” - KBS 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMXgxT2cwWXZseGk4SU5OSzVRZGtEb2lNWjVjNk9zbkRDcVIzcUZjSklmS2tfVDZwVW9rR0t6QjJWTWZ2WDUtTEV1NGkxTm1sR2Z2ZzF6bENXU1U?oc=5\" target=\"_blank\">정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMXgxT2cwWXZseGk4SU5OSzVRZGtEb2lNWjVjNk9zbkRDcVIzcUZjSklmS2tfVDZwVW9rR0t6QjJWTWZ2WDUtTEV1NGkxTm1sR2Z2ZzF6bENXU1U?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 05:37:00 GMT",
-        "source": "KBS 뉴스",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d1baf18fc5ae0f980779ed73646006c79ce37a52447a64da138b267caab13332",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석, 강금실 국정원장 지명에 \"청개구리도 아니고...뜬금포\" - 경북도민일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWjVldzVYUnozaWFNMlV6TFFsT19KT1MzSHJPa3hjQnFTUjJpaWs2c3JXY0EzLTFSNDdPbzVJaFNPV1hzS0hSdUhPd3N3WjU5MlI5VnM5MS1tNDNmSWw1QjN3dHFOLXdWQlE?oc=5\" target=\"_blank\">이준석, 강금실 국정원장 지명에 \"청개구리도 아니고...뜬금포\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북도민일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWjVldzVYUnozaWFNMlV6TFFsT19KT1MzSHJPa3hjQnFTUjJpaWs2c3JXY0EzLTFSNDdPbzVJaFNPV1hzS0hSdUhPd3N3WjU5MlI5VnM5MS1tNDNmSWw1QjN3dHFOLXdWQlE?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 05:46:56 GMT",
-        "source": "경북도민일보",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "abe4362b3f1de05bad62d99d764358fd5c37c9dfc80f46ea551e04934f3578dd",
@@ -2584,10 +2536,10 @@
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "8b4166750a0cbed6aad0431475388e48b0e83cc4d17d831822a5ec80d85787c6",
-    "title": "[정치분석] 윤상현, 한동훈 ‘기획 제명’ 의혹에 지도부 책임론 제기 … 장동혁 직접 해명 요구 - 인천뉴스",
+    "postId": "d1baf18fc5ae0f980779ed73646006c79ce37a52447a64da138b267caab13332",
+    "title": "이준석, 강금실 국정원장 지명에 \"청개구리도 아니고...뜬금포\" - 경북도민일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45336175647",
-    "sentAt": "2026-11-24T05:51:21.813Z"
+    "runId": "45337319230",
+    "sentAt": "2026-11-24T06:01:17.989Z"
   }
 }
