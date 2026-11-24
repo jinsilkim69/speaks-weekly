@@ -3368,3 +3368,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 박선원 저격 "신천지로 당 초토화…일제 부역자 발언 정점" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 박선원 저격 "신천지로 당 초토화…일제 부역자 발언 정점"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE96NUlkUWJoc2FlYTZSM3k5ZUd0cXE1MFRnUFhTbUw1akk2U0hZMnM1X3U0d25xU3VCUEhoWVJPRk9lSjlCUjV6dmk1NF82UENDQ1hqdEVkSmhfUTc2UktXVnItMGw3Yk1iWHQyeDQ5YW9SQdIBckFVX3lxTE96NUlkUWJoc2FlYTZSM3k5ZUd0cXE1MFRnUFhTbUw1akk2U0hZMnM1X3U0d25xU3VCUEhoWVJPRk9lSjlCUjV6dmk1NF82UENDQ1hqdEVkSmhfUTc2UktXVnItMGw3Yk1iWHQyeDQ5YW9SQQ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻" - 데일리안
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowJBVV95cUxNelpFR1ZrZEVhMklLd0UySkhfNnE4WTRPNTI3X1gwRldXai14NkNBa0ZULVc5QmhMOUZ6Z3U0QXVubzVESUwzRXdYaE94aktKUXo5ZXBjcDRac2FIZGhhYVdqTHFXckhRVDRPRlgxZm5WVi0wUDBHWUFxajhuaHBZNmFQOTk1RHBQWm9QZWJWSW00RFdxZ21ybHROT20yaW1RVU9Ic0tUMFRCM01VN1BmdmdhZmliQkVWdEFIQmdPMHB4RkVMQnhNLXF5SFRsWnktTEVpZXNLeENYQnBPZ2hRUElpX0ZmWHZtdVNfMk9lYTl6S2J1ZVVlTDlwcWtZOTFzT1ZDbkk4SnBmTDkxTmJ6T0pGZlBiMGN5c0h2RVRiem9EUFU?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '한동훈 기획제명' 의혹 제기에…친한계 "장동혁 물러나야" - 연합뉴스 한민족센터
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '한동훈 기획제명' 의혹 제기에…친한계 "장동혁 물러나야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE9Hc2xKQTRvZThQYXR5ZmN6YnhDWEVkT3Utblk5ZDRiUHlHU1gzWnk5MWgtd3AtSVFRWVdVdjJxdEg3dU84bllzOXNXY28wQjE1NG5ybHJLelJLamlmeGQ5N1o1X2RScWw0eXA3VllSazA1X19r?oc=5)
+
+---
+

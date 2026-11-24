@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T02:41:13.287Z",
+  "lastCheckedAt": "2026-11-24T02:51:13.538Z",
   "seenPostIds": {
-    "094159f44e62781041a217749763562700b7f0fb8b094b51566e610e09734df1": {
-      "seenAt": "2026-11-21T02:41:18.568Z",
-      "title": "이재명 대통령 \"대장동 개발, 공익 환수에도 배임죄?\" 논란의 중심에 서다 - 공감신문",
-      "targetName": "이재명"
-    },
-    "cbcc9279934da7407c0a0d83e4ca46c3fd55b7944e142136b4f1232d87cc928e": {
-      "seenAt": "2026-11-21T02:41:19.302Z",
-      "title": "신장식 \"조희대 탄핵 추진 환영... 내일 표결하자\" #shorts - OhmyNews",
-      "targetName": "신장식"
-    },
-    "4daf248fa9f47e36664c0488d0acf88336237ecbeedea5d10e1ce1ab4e1bd1e4": {
-      "seenAt": "2026-11-21T02:51:22.456Z",
-      "title": "내홍 속 취임 100일...김민석, '조희대 탄핵'으로 돌파구 찾나 - YTN",
-      "targetName": "김민석"
-    },
     "84d7c19af04c237c7b38cc20d97f384161f22870ebe3748765056e69f59f72db": {
       "seenAt": "2026-11-21T03:01:19.503Z",
       "title": "민주 ‘대법원장 탄핵 추진’에…한동훈 \"국헌문란 목적 내란, 미쳐도 곱게 미쳐야\" - JTBC",
@@ -2515,47 +2500,62 @@
       "seenAt": "2026-11-24T02:41:16.037Z",
       "title": "정청래, 취임 100일 김민석 겨냥 “반·분·신 폭탄이 당 초토화” - 중앙일보",
       "targetName": "정청래"
+    },
+    "65d66076e9bda8cd8cb023328ec10e53ea86d24af1430c1fa79ffee66fa3424a": {
+      "seenAt": "2026-11-24T02:51:14.668Z",
+      "title": "정청래, 박선원 저격 \"신천지로 당 초토화…일제 부역자 발언 정점\" - 머니투데이 - 머니투데이",
+      "targetName": "정청래"
+    },
+    "af22159823f7775568ecca5d6dabb3a564d5917d25ecca71b04456c8f442af7c": {
+      "seenAt": "2026-11-24T02:51:15.301Z",
+      "title": "이준석 \"강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻\" - 데일리안",
+      "targetName": "이준석"
+    },
+    "45a4fb4fee449277894b746e5b9e353a8476714542e1c63f9eb432c0d1472cc7": {
+      "seenAt": "2026-11-24T02:51:15.944Z",
+      "title": "'한동훈 기획제명' 의혹 제기에…친한계 \"장동혁 물러나야\" - 연합뉴스 한민족센터",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "65d66076e9bda8cd8cb023328ec10e53ea86d24af1430c1fa79ffee66fa3424a",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 박선원 저격 \"신천지로 당 초토화…일제 부역자 발언 정점\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE96NUlkUWJoc2FlYTZSM3k5ZUd0cXE1MFRnUFhTbUw1akk2U0hZMnM1X3U0d25xU3VCUEhoWVJPRk9lSjlCUjV6dmk1NF82UENDQ1hqdEVkSmhfUTc2UktXVnItMGw3Yk1iWHQyeDQ5YW9SQdIBckFVX3lxTE96NUlkUWJoc2FlYTZSM3k5ZUd0cXE1MFRnUFhTbUw1akk2U0hZMnM1X3U0d25xU3VCUEhoWVJPRk9lSjlCUjV6dmk1NF82UENDQ1hqdEVkSmhfUTc2UktXVnItMGw3Yk1iWHQyeDQ5YW9SQQ?oc=5\" target=\"_blank\">정청래, 박선원 저격 \"신천지로 당 초토화…일제 부역자 발언 정점\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96NUlkUWJoc2FlYTZSM3k5ZUd0cXE1MFRnUFhTbUw1akk2U0hZMnM1X3U0d25xU3VCUEhoWVJPRk9lSjlCUjV6dmk1NF82UENDQ1hqdEVkSmhfUTc2UktXVnItMGw3Yk1iWHQyeDQ5YW9SQdIBckFVX3lxTE96NUlkUWJoc2FlYTZSM3k5ZUd0cXE1MFRnUFhTbUw1akk2U0hZMnM1X3U0d25xU3VCUEhoWVJPRk9lSjlCUjV6dmk1NF82UENDQ1hqdEVkSmhfUTc2UktXVnItMGw3Yk1iWHQyeDQ5YW9SQQ?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 01:29:49 GMT",
-        "source": "머니투데이",
-        "ageHours": 1.2
+        "id": "5cfb99318773dfc9b8fe1528f537dfb1bf0dd3bb93b844b724ccde35deecbcbd",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "“尹 구형일에 맞춰 한동훈 제명” 장동혁은 버틸 수 있나…정옥임·김영우, 25일 《전영기의 빅샷》 출연 - 시사저널",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE80LWtVcjlHOG5oMGRPWThOY09rZE9zeWxjb3dpY3NEMG91VkJFeUpoaElGWXJaVEhUWElnb2hiWXZHSEc1Q1NOaEgzSHRDM3NDdjE2M3ZzbnZDZVZaWkEwRnpBcTZnTjBfQkZXMDVVb9IBc0FVX3lxTE8wMEZlLV8wd01nZktzN0tOSU1jYlNHR1dQLWdmXzBMa095d2VDMERCSEx6MGg5YkJvMU1NVlFUelA0OGVfOUpNTGo4cEhjbDdnOVlZQjhZWXFLWGtKaDQzVHc0TmtVVUZ1c285WWRuS0pPWXc?oc=5\" target=\"_blank\">“尹 구형일에 맞춰 한동훈 제명” 장동혁은 버틸 수 있나…정옥임·김영우, 25일 《전영기의 빅샷》 출연</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80LWtVcjlHOG5oMGRPWThOY09rZE9zeWxjb3dpY3NEMG91VkJFeUpoaElGWXJaVEhUWElnb2hiWXZHSEc1Q1NOaEgzSHRDM3NDdjE2M3ZzbnZDZVZaWkEwRnpBcTZnTjBfQkZXMDVVb9IBc0FVX3lxTE8wMEZlLV8wd01nZktzN0tOSU1jYlNHR1dQLWdmXzBMa095d2VDMERCSEx6MGg5YkJvMU1NVlFUelA0OGVfOUpNTGo4cEhjbDdnOVlZQjhZWXFLWGtKaDQzVHc0TmtVVUZ1c285WWRuS0pPWXc?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 02:28:06 GMT",
+        "source": "시사저널",
+        "ageHours": 0.4
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "af22159823f7775568ecca5d6dabb3a564d5917d25ecca71b04456c8f442af7c",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻\" - 데일리안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNelpFR1ZrZEVhMklLd0UySkhfNnE4WTRPNTI3X1gwRldXai14NkNBa0ZULVc5QmhMOUZ6Z3U0QXVubzVESUwzRXdYaE94aktKUXo5ZXBjcDRac2FIZGhhYVdqTHFXckhRVDRPRlgxZm5WVi0wUDBHWUFxajhuaHBZNmFQOTk1RHBQWm9QZWJWSW00RFdxZ21ybHROT20yaW1RVU9Ic0tUMFRCM01VN1BmdmdhZmliQkVWdEFIQmdPMHB4RkVMQnhNLXF5SFRsWnktTEVpZXNLeENYQnBPZ2hRUElpX0ZmWHZtdVNfMk9lYTl6S2J1ZVVlTDlwcWtZOTFzT1ZDbkk4SnBmTDkxTmJ6T0pGZlBiMGN5c0h2RVRiem9EUFU?oc=5\" target=\"_blank\">이준석 \"강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
-        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNelpFR1ZrZEVhMklLd0UySkhfNnE4WTRPNTI3X1gwRldXai14NkNBa0ZULVc5QmhMOUZ6Z3U0QXVubzVESUwzRXdYaE94aktKUXo5ZXBjcDRac2FIZGhhYVdqTHFXckhRVDRPRlgxZm5WVi0wUDBHWUFxajhuaHBZNmFQOTk1RHBQWm9QZWJWSW00RFdxZ21ybHROT20yaW1RVU9Ic0tUMFRCM01VN1BmdmdhZmliQkVWdEFIQmdPMHB4RkVMQnhNLXF5SFRsWnktTEVpZXNLeENYQnBPZ2hRUElpX0ZmWHZtdVNfMk9lYTl6S2J1ZVVlTDlwcWtZOTFzT1ZDbkk4SnBmTDkxTmJ6T0pGZlBiMGN5c0h2RVRiem9EUFU?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 02:33:00 GMT",
-        "source": "데일리안",
-        "ageHours": 0.1
+        "id": "40a80f9d4058fdd945346184c08f7cee29c6c7f440e5955ea6f14dc1b30c1243",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "취임 100일 김민석 \"엇박자 얘기 없이 당청 안정... 당은 더 안정돼야\" - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5kZUdhUldiM0NYUnlFX05ndXM5WG1zcV9jcFphY3htODcxUXZkTXZFMlh4Q18zdW9BMUJzZE9lM3ZIVUVjSHVaYUtNeVFQSnIzSU5oeklnVjJndWNKOXRIWDh3Y1R0TnpIM2puVjdPbEZJS0UtZlJN?oc=5\" target=\"_blank\">취임 100일 김민석 \"엇박자 얘기 없이 당청 안정... 당은 더 안정돼야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kZUdhUldiM0NYUnlFX05ndXM5WG1zcV9jcFphY3htODcxUXZkTXZFMlh4Q18zdW9BMUJzZE9lM3ZIVUVjSHVaYUtNeVFQSnIzSU5oeklnVjJndWNKOXRIWDh3Y1R0TnpIM2puVjdPbEZJS0UtZlJN?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 00:54:00 GMT",
+        "source": "OhmyNews",
+        "ageHours": 2
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "1f94a2ba37bca3b48bfb29bed08cfb28e8841dd1f332e41b3553f6d817fb032f",
-    "title": "정청래, 취임 100일 김민석 겨냥 “반·분·신 폭탄이 당 초토화” - 중앙일보",
+    "postId": "45a4fb4fee449277894b746e5b9e353a8476714542e1c63f9eb432c0d1472cc7",
+    "title": "'한동훈 기획제명' 의혹 제기에…친한계 \"장동혁 물러나야\" - 연합뉴스 한민족센터",
     "bot": "jongsuk_pol_bot",
-    "runId": "45314172910",
-    "sentAt": "2026-11-24T02:41:15.709Z"
+    "runId": "45315344668",
+    "sentAt": "2026-11-24T02:51:15.621Z"
   }
 }
