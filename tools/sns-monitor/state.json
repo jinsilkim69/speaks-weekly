@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T07:31:16.645Z",
+  "lastCheckedAt": "2026-11-24T07:41:15.802Z",
   "seenPostIds": {
-    "134ef9389ab95f412c6c9bece7996930db0709a388821eb414cc8032cb2e3972": {
-      "seenAt": "2026-11-21T17:21:24.896Z",
-      "title": "Trump’s posthumous pardon for Pete Rose has 1 glaring error - Yahoo Sports",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "70d9c77e8f11805cbe713ff4ad1ffc5b03fd76279b3c19065d35e531cee00c75": {
-      "seenAt": "2026-11-21T17:51:21.944Z",
-      "title": "62 of the most stupid things Donald Trump has ever said - Indy100",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "aa6a74ef9755267145914ca7d8047cd5355fde62ed037a468ebb18c3f0439cd9": {
-      "seenAt": "2026-11-21T17:51:22.705Z",
-      "title": "Trump to Headline Freedom 250 Festival After Half of the Musical Acts Drop Off Lineup - TicketNews",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "36f38e1ceedb5c153e4cc0e60727fd0e1bbc171ef84cb0e6d4566a0be7da2646": {
       "seenAt": "2026-11-21T18:11:18.840Z",
       "title": "BREAKING: Donald Trump Turns On Lauren Boebert...Too Late - Colorado Pols",
@@ -2515,14 +2500,29 @@
       "seenAt": "2026-11-24T07:31:19.792Z",
       "title": "이준석 \"강금실, 정보·방첩 경력 전무\" … 국정원장 인선 맹비판 - 뉴데일리",
       "targetName": "이준석"
+    },
+    "48af8054f09697402466aee9c74b2632ddec90abbe3d3443c968ea730922527f": {
+      "seenAt": "2026-11-24T07:41:17.011Z",
+      "title": "장동혁 \"당 입장 듣는 게 당연\"…한동훈 \"배후 조종 인정\" - 한국경제",
+      "targetName": "한동훈"
+    },
+    "9ce641cdc1ccbe4e5f70dc7f85f616bc9634836e53d40fed34e0563eab978a50": {
+      "seenAt": "2026-11-24T07:41:17.612Z",
+      "title": "이준석 “장동혁으로는 선거 쉽지 않아, 한동훈식 검찰 정치는 위험” - 중앙일보",
+      "targetName": "한동훈"
+    },
+    "da0491ea1293acf69a9c73f8f64a8e273a6b111901140992257d516df2b04e07": {
+      "seenAt": "2026-11-24T07:41:18.232Z",
+      "title": "이준석 \"강금실, 정보·방첩 경력 전무\" … 국정원장 인선 맹비판 - 뉴데일리",
+      "targetName": "이준석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "2071d98ea4b5ff7c23c03916cc040bf669acb227063e6a2c335ea74f70a649de",
+    "postId": "da0491ea1293acf69a9c73f8f64a8e273a6b111901140992257d516df2b04e07",
     "title": "이준석 \"강금실, 정보·방첩 경력 전무\" … 국정원장 인선 맹비판 - 뉴데일리",
     "bot": "jongsuk_pol_bot",
-    "runId": "45348588974",
-    "sentAt": "2026-11-24T07:31:19.207Z"
+    "runId": "45349877532",
+    "sentAt": "2026-11-24T07:41:17.920Z"
   }
 }

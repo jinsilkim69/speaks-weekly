@@ -4408,3 +4408,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁 "당 입장 듣는 게 당연"…한동훈 "배후 조종 인정" - 한국경제
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 "당 입장 듣는 게 당연"…한동훈 "배후 조종 인정"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2T1FVVXM4SlZPVXBnZXRqY0tHY0FiRWlHVGtZNGYwVXBlSUVwLUdJM3NMczBBdGFXakNZcDIzSUlxS2VHNjVRcm13TTF1WmYzUWw1NTNWeWNSdw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 이준석 “장동혁으로는 선거 쉽지 않아, 한동훈식 검찰 정치는 위험” - 중앙일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “장동혁으로는 선거 쉽지 않아, 한동훈식 검찰 정치는 위험”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zS2g3cHN2bTFZZkctckFKczVUX21QV2dBMnpZTWhrbGxza3AwNVdEZ083bVd2YXdiUmgyYXB0c0RkWFJJVnpJdXFYN213VnowYkNDcVRB?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "강금실, 정보·방첩 경력 전무" … 국정원장 인선 맹비판 - 뉴데일리
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "강금실, 정보·방첩 경력 전무" … 국정원장 인선 맹비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE9fb0JlSzhTWk5ZTUdPeWs4WXppZnlHUFpEU2hGRmE1elNfOVJpRzQwU1dPNXRHak1ibkk4X2tBemtJRWZyWWRoZHVIZ3pkb0tacE9jU253Ti1yTl9fN1BfNy0yVDNrXzkwenl0VkRNYW11SlBFOWVFTjZyRdIBgAFBVV95cUxOTS1FYU1CMjV2cW1uT3k4S1IyanM4TTlnd3R0Ul9ibjNVS1Y0a2JtTEhJTlp1V1FKZlNnLTFjVnVpZm1lMmZWay10MmpHTU1NenhHYXA1a3NWNGw2SWtwWnZqSWF4TTRTeEVEWW94RnptM0h6YXlFUnIwV2VzRVRIZg?oc=5)
+
+---
+
