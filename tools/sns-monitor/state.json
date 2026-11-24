@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T05:31:17.179Z",
+  "lastCheckedAt": "2026-11-24T05:41:14.992Z",
   "seenPostIds": {
-    "372e181350d2f889a5a782e1493926cab977f39de14420acd9eac189adc1d1e5": {
-      "seenAt": "2026-11-21T09:31:18.474Z",
-      "title": "Trump posthumously pardons baseball 'SUPERSTAR & LEGEND' Pete Rose - WKEF",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "82f79bb3e345aec606662df4992a93f6672dc9a80ea29608dbb963433588f82c": {
-      "seenAt": "2026-11-21T09:41:22.895Z",
-      "title": "한동훈 \"민주당 내란정당 자백... 모두 감옥 갈 것\" - 경북도민일보",
-      "targetName": "한동훈"
-    },
-    "76fd6fb1dcb1b097c6012d80625dc4f3d3f6c003055e7455f13795e828d02eec": {
-      "seenAt": "2026-11-21T09:41:23.719Z",
-      "title": "한동훈, 대법원장 탄핵 추진 與에 \"무르지 말고 12월 3일에 꼭 하라\" - 조선일보",
-      "targetName": "한동훈"
-    },
     "a619465aead3a38f47f1fd6030eb6d978ae732348b034f8ebafae2b54de46042": {
       "seenAt": "2026-11-21T09:51:17.441Z",
       "title": "한동훈 \"與, 12·3에 무르지 말고 '曺 탄핵' 꼭 하라…이제 내란정당\" - 머니투데이 - 머니투데이",
@@ -2515,47 +2500,29 @@
       "seenAt": "2026-11-24T05:31:19.809Z",
       "title": "이준석 \"강금실은 더 진한 오답…워싱턴 '中인민정부 특별고문' 믿겠나\" - 머니투데이 - 머니투데이",
       "targetName": "이준석"
+    },
+    "d9df7ac329452c0ce864857bfac993e4edb5b9fc5c06d2b41b67c48376f9b65f": {
+      "seenAt": "2026-11-24T05:41:16.280Z",
+      "title": "김정철 \"한동훈, 이준석 징계랑 똑같아…장동혁 형사처벌 가능\" - 조세일보",
+      "targetName": "이준석"
+    },
+    "031fb4ee2c379b91fe5f3598771afa27e44eff0b80dde4dbcb8d4e2cbe43bb9a": {
+      "seenAt": "2026-11-24T05:41:16.894Z",
+      "title": "신장식 의원,항만공사 통합 ‘졸속 논란’…4억 용역도 통합 전제 - 브릿지경제",
+      "targetName": "신장식"
+    },
+    "60bc593bd73a2177831eeabba5854eb9aba9169e46121c56d5aad378bc3e2bd2": {
+      "seenAt": "2026-11-24T05:41:17.537Z",
+      "title": "이준석, 강금실 국정원장 지명에 \"뜬금포…전문성 빼고 해명거리 더해\" - 뉴시스",
+      "targetName": "이준석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "d9df7ac329452c0ce864857bfac993e4edb5b9fc5c06d2b41b67c48376f9b65f",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "김정철 \"한동훈, 이준석 징계랑 똑같아…장동혁 형사처벌 가능\" - 조세일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1FVGdwbkZOblAtNjBOZGVFTjF4OFhiMWJmaG0tZEw0R2tIVnU4RHd2R0gwNDB0dEtsaFNUU2JrRjZhOUtreC1SQUw4N1hKTzhIdi1BOVFfZEVFR0RrcWFSUDlpRDhheVpxMVQyc3gxRlI4aVNy?oc=5\" target=\"_blank\">김정철 \"한동훈, 이준석 징계랑 똑같아…장동혁 형사처벌 가능\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FVGdwbkZOblAtNjBOZGVFTjF4OFhiMWJmaG0tZEw0R2tIVnU4RHd2R0gwNDB0dEtsaFNUU2JrRjZhOUtreC1SQUw4N1hKTzhIdi1BOVFfZEVFR0RrcWFSUDlpRDhheVpxMVQyc3gxRlI4aVNy?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 05:21:07 GMT",
-        "source": "조세일보",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "031fb4ee2c379b91fe5f3598771afa27e44eff0b80dde4dbcb8d4e2cbe43bb9a",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 의원,항만공사 통합 ‘졸속 논란’…4억 용역도 통합 전제 - 브릿지경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kcm80Y2hkaE02UUJCVS1oWDlxNkN1SGtUa1BQekdEclZkQ2EtTVk1d1U0SDFBTUg4OUJCT01oa3lfMlhkbUU2Y1l6VUZEand5T2Y4dFduSWVwdw?oc=5\" target=\"_blank\">신장식 의원,항만공사 통합 ‘졸속 논란’…4억 용역도 통합 전제</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">브릿지경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kcm80Y2hkaE02UUJCVS1oWDlxNkN1SGtUa1BQekdEclZkQ2EtTVk1d1U0SDFBTUg4OUJCT01oa3lfMlhkbUU2Y1l6VUZEand5T2Y4dFduSWVwdw?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 05:23:00 GMT",
-        "source": "브릿지경제",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "17c664e545e4a23142d2a025c1d7a604f474a216ac95c8592ac16db6ca152372",
-    "title": "이준석 \"강금실은 더 진한 오답…워싱턴 '中인민정부 특별고문' 믿겠나\" - 머니투데이 - 머니투데이",
+    "postId": "60bc593bd73a2177831eeabba5854eb9aba9169e46121c56d5aad378bc3e2bd2",
+    "title": "이준석, 강금실 국정원장 지명에 \"뜬금포…전문성 빼고 해명거리 더해\" - 뉴시스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45333859283",
-    "sentAt": "2026-11-24T05:31:19.514Z"
+    "runId": "45335024818",
+    "sentAt": "2026-11-24T05:41:17.195Z"
   }
 }
