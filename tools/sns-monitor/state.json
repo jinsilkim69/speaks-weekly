@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T03:01:14.153Z",
+  "lastCheckedAt": "2026-11-24T03:11:14.855Z",
   "seenPostIds": {
-    "236d053025f0523d0fce7397610eca79e1a3d595650dcde1907ae585917ced5c": {
-      "seenAt": "2026-11-21T03:11:21.003Z",
-      "title": "김민석 \"내란 면죄부 준 조희대 탄핵, 더 미룰 수 없는 역사적 판단\" - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
-    "7485db030e8a784f645ae5352c66e80855e621cdbc7016f462eb6518c8c67b27": {
-      "seenAt": "2026-11-21T03:21:19.095Z",
-      "title": "박지원 \"한동훈, 이재명 시한부 대통령?...헛소리, 입만 벌리면 거짓말, 수사받고 감옥 가자\"[여의도초대석] - KBC광주방송",
-      "targetName": "한동훈"
-    },
-    "9ca50aa8dc4b919fba7d1e2b909ca0da5c22c70998011802503dde127b5378ab": {
-      "seenAt": "2026-11-21T03:21:19.807Z",
-      "title": "한동훈, 조작징계 의혹에 “결국 진실 드러나···기획·공작 예상했다” - 주간경향",
-      "targetName": "한동훈"
-    },
     "ef0080e6d24c4c0f32a323b7943e7051be2abc5e037e5b3f1a59c77b84771702": {
       "seenAt": "2026-11-21T03:21:20.545Z",
       "title": "박민영 ““한동훈계 정리와 세대교체 없으면 당 재건 불가”…통합론·원로 행보 정면 비판 - 파이낸스투데이",
@@ -2515,31 +2500,46 @@
       "seenAt": "2026-11-24T03:01:16.437Z",
       "title": "'한동훈 기획제명' 의혹 제기에…친한계 \"장동혁 물러나야\" - 연합뉴스",
       "targetName": "한동훈"
+    },
+    "17be41b4b92437e8095803e08eee04f99611f367296cda5f475ca70b081069f3": {
+      "seenAt": "2026-11-24T03:11:15.963Z",
+      "title": "정청래, 김민석 취임 100일에 사퇴 촉구?…\"신천지 논란 자업자득, 결자해지해야\" - 데일리안",
+      "targetName": "정청래"
+    },
+    "bd5b28065d4d51927342fc9faf45568101fc4e644127e176ecf2db246087b0a9": {
+      "seenAt": "2026-11-24T03:11:16.613Z",
+      "title": "[이슈] 국힘 '조작징계' 3차 폭로, 한동훈 제명 자료 공개…들끓는 복당 요구, 김태호도 張 사퇴 촉구 - 폴리뉴스 Polinews",
+      "targetName": "한동훈"
+    },
+    "dec56dc5d6f6ca9f61ecd054e2b4ee54412b6870dada14359b848dc2df4432ba": {
+      "seenAt": "2026-11-24T03:11:17.218Z",
+      "title": "김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\" - 뉴스1",
+      "targetName": "김민석"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "17be41b4b92437e8095803e08eee04f99611f367296cda5f475ca70b081069f3",
+        "id": "43167d17037f8307b3c088e6bdf59d968789aeff8383397dccf48c71532091b1",
         "targetId": "jung_cheongrae",
         "targetName": "정청래",
         "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 김민석 취임 100일에 사퇴 촉구?…\"신천지 논란 자업자득, 결자해지해야\" - 데일리안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwZ2ZvQjlMUzFYRHAzdGZJMV91MHlaMmpkbkJwaWNmeGE2aGlPc3U5YVlwY3gyZk5HMkhEWW9nU0xCTlNSTHR4UWJTLWVDX3Nhb3poWA?oc=5\" target=\"_blank\">정청래, 김민석 취임 100일에 사퇴 촉구?…\"신천지 논란 자업자득, 결자해지해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwZ2ZvQjlMUzFYRHAzdGZJMV91MHlaMmpkbkJwaWNmeGE2aGlPc3U5YVlwY3gyZk5HMkhEWW9nU0xCTlNSTHR4UWJTLWVDX3Nhb3poWA?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 02:17:00 GMT",
-        "source": "데일리안",
-        "ageHours": 0.7
+        "title": "김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\" - 뉴스1",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZdkZlOS1jSkh3bU04RkxBRldKSURTLUpEa3ZCNDZERHp2TmpMNVE4cXg0T19vc2FfOGVLYXBwUzdBQzZEU1dka0RlTUFtZi1UeXhJTU1kQ0Z1QQ?oc=5\" target=\"_blank\">김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZdkZlOS1jSkh3bU04RkxBRldKSURTLUpEa3ZCNDZERHp2TmpMNVE4cXg0T19vc2FfOGVLYXBwUzdBQzZEU1dka0RlTUFtZi1UeXhJTU1kQ0Z1QQ?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 02:57:38 GMT",
+        "source": "뉴스1",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "d940261ad5fa646c816c321d64093e7e877234167f432f7a245b540b3f7718be",
-    "title": "'한동훈 기획제명' 의혹 제기에…친한계 \"장동혁 물러나야\" - 연합뉴스",
+    "postId": "dec56dc5d6f6ca9f61ecd054e2b4ee54412b6870dada14359b848dc2df4432ba",
+    "title": "김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\" - 뉴스1",
     "bot": "jongsuk_pol_bot",
-    "runId": "45316496688",
-    "sentAt": "2026-11-24T03:01:16.123Z"
+    "runId": "45317690995",
+    "sentAt": "2026-11-24T03:11:16.910Z"
   }
 }

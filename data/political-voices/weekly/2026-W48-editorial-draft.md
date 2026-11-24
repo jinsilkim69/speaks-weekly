@@ -3446,3 +3446,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 취임 100일에 사퇴 촉구?…"신천지 논란 자업자득, 결자해지해야" - 데일리안
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 취임 100일에 사퇴 촉구?…"신천지 논란 자업자득, 결자해지해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwZ2ZvQjlMUzFYRHAzdGZJMV91MHlaMmpkbkJwaWNmeGE2aGlPc3U5YVlwY3gyZk5HMkhEWW9nU0xCTlNSTHR4UWJTLWVDX3Nhb3poWA?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [이슈] 국힘 '조작징계' 3차 폭로, 한동훈 제명 자료 공개…들끓는 복당 요구, 김태호도 張 사퇴 촉구 - 폴리뉴스 Polinews
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘 '조작징계' 3차 폭로, 한동훈 제명 자료 공개…들끓는 복당 요구, 김태호도 張 사퇴 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1nN2FhM3NvOXM1bTQ3ZU42cE1HRHhUc1I5N2J0bTY3ZHRYTXNLUjl1eGZ5UkFuYnpJODJWM3BXLTNDOTliQ21MakFhRkZSV2tPYUx5WUo0NFVXcjNPWDdoel9OZUpoRHJ0c2g5OWZn?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 100일에 SNS 연달아 올린 정청래…"징계 앞에 평등해야" - 뉴스1
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 100일에 SNS 연달아 올린 정청래…"징계 앞에 평등해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZdkZlOS1jSkh3bU04RkxBRldKSURTLUpEa3ZCNDZERHp2TmpMNVE4cXg0T19vc2FfOGVLYXBwUzdBQzZEU1dka0RlTUFtZi1UeXhJTU1kQ0Z1QQ?oc=5)
+
+---
+
