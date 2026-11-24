@@ -3901,3 +3901,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석, 정청래 ''반·분·신 의혹' 직격에 "말씀 드릴 필요 없어" - 뉴시스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 정청래 ''반·분·신 의혹' 직격에 "말씀 드릴 필요 없어"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBKalhsNVh5UVNjcTFqZkxaU3ZQeDNYakpLVlJlR0IxOC13cFU2b2RFMFRBcTcxS3RHaXA1SzJ1MndLSE92czl3bWc2VmZweUJ2Zll3c2s1UnRsbVplRFlwclJDUXM5WW96TUVaWDNCVW13VjduVC05atIBeEFVX3lxTFBKalhsNVh5UVNjcTFqZkxaU3ZQeDNYakpLVlJlR0IxOC13cFU2b2RFMFRBcTcxS3RHaXA1SzJ1MndLSE92czl3bWc2VmZweUJ2Zll3c2s1UnRsbVplRFlwclJDUXM5WW96TUVaWDNCVW13VjduVC05ag?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 국민의힘, 이재명 탈옥 특검법에 “의회폭거” 비판 - 한국사회복지저널
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘, 이재명 탈옥 특검법에 “의회폭거” 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTFBQbTlKSHREZUl2TGZWNVdvQ2wzOGZuZVpybzFKeDFVNHJCTUN1bDNNWThVcTJUcGMzVFdUVzVaSHNCS3RmSUdpMXhKSUNnLW4zV1ktb21PV2loSDdqeWtiMUxkOWZycXlkWmZr?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "28년 총선, TK가 주요 축…제명은 원천무효" - 데일리안
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "28년 총선, TK가 주요 축…제명은 원천무효"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUU1RV09qZmtSMTZLaVpfak1EMjk1VkxMVEE3VWlEeWlnaUwzM2JQSzdab3RVTGl6VF9iSFJ4S3l6bTVJek9yUGc5NWlpLWZndkUzdks4Rl95VjlES29uR1doZ0V6MDB1Q1IybXN6N3g0eHF1R09tbFZfZ2E2M09sa3h6a0VDNTl1UmM5VjZWN01hUmczOEIzQ2FvNVdoNXVGNXRxZjU1QXRMc2p4cWtJSFFGMkpiTWxNcng1Z3VYbm9KbjBhVWRHT3Zzdk5uTHZ2eHUzUE5UWXJqdHVONXdINENIZ19vdGxGNWJCU0xB?oc=5)
+
+---
+
