@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T14:31:16.733Z",
+  "lastCheckedAt": "2026-11-24T14:41:23.224Z",
   "seenPostIds": {
     "9e94ae197b188bc18eb6f041feb115c5b1838f9cf2c45ac0394d2faf95802a12": {
       "seenAt": "2026-11-22T01:31:17.886Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T14:21:19.701Z",
       "title": "김민석 취임 100일에 SNS 글 5개 올린 정청래…金 “말씀드릴 필요 없어” - 매일경제",
       "targetName": "정청래"
+    },
+    "dcc21af373490d10a7771607463d5622636119cd59f43a8f55467666a199663d": {
+      "seenAt": "2026-11-24T14:41:24.631Z",
+      "title": "Trump Claims Victory Over Transgender Policies in New Post - PinkNews",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "67eba06b4bc42fd5eed7f366ffb50bb8ec3e635f2452559409dcc624a85f1a58",
-    "title": "김민석 취임 100일에 SNS 글 5개 올린 정청래…金 “말씀드릴 필요 없어” - 매일경제",
+    "postId": "dcc21af373490d10a7771607463d5622636119cd59f43a8f55467666a199663d",
+    "title": "Trump Claims Victory Over Transgender Policies in New Post - PinkNews",
     "bot": "jongsuk_pol_bot",
-    "runId": "45413088772",
-    "sentAt": "2026-11-24T14:21:19.311Z"
+    "runId": "45416829431",
+    "sentAt": "2026-11-24T14:41:24.135Z"
   }
 }
