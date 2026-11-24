@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T09:31:16.052Z",
+  "lastCheckedAt": "2026-11-24T09:41:13.823Z",
   "seenPostIds": {
-    "fc473b042f93643a79ecd99c79c64d647d1583ffa4698ea77374860643c0ef5c": {
-      "seenAt": "2026-11-21T23:21:15.111Z",
-      "title": "‘이준석 사퇴’ 개혁신당, 비대위 전환 돌입…이르면 13일 지명 발표 - 쿠키뉴스",
-      "targetName": "이준석"
-    },
-    "0e618d3260cd4927b3d0b0dd4f3c8323d79693614200cafec77015865ae8cea3": {
-      "seenAt": "2026-11-21T23:21:15.718Z",
-      "title": "조국 조국혁신당 혁신정책연구원장, 창당 1,000일을 앞두고 ‘확장성 있는 당명’ 개정 제안 - 의정일보",
-      "targetName": "조국"
-    },
     "7cc84db3da7e9eed50187ea86177432ef7878ba0776597258d6b3e77124abe6e": {
       "seenAt": "2026-11-21T23:31:17.064Z",
       "title": "배현진 징계부터 추경호 무죄까지…다시 ‘한동훈 복당’으로 갈라진 국힘 - 매일경제",
@@ -2510,14 +2500,78 @@
       "seenAt": "2026-11-24T09:31:18.093Z",
       "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등(종합) - 연합뉴스",
       "targetName": "정청래"
+    },
+    "b982841309c3f4e484aedba36f7517a3ff8d0913c5ff60eb81381535632a599a": {
+      "seenAt": "2026-11-24T09:41:15.074Z",
+      "title": "'한동훈 기획 제명' 의혹 제기‥친한계 \"장동혁 사퇴해야\" - MBC 뉴스",
+      "targetName": "한동훈"
+    },
+    "63c4d6994146e9e6a466b94165def3725c8f2d65edcb1ee5abade939febde70b": {
+      "seenAt": "2026-11-24T09:41:15.809Z",
+      "title": "장동혁 \"패륜\" 한동훈 \"자백\"…국힘, '조작 징계' 계파 충돌 절정 - 신아일보",
+      "targetName": "한동훈"
+    },
+    "3e3073725e043f893185f528091b1b4f6bc0014f0d4e3100e98cfa95fde13651": {
+      "seenAt": "2026-11-24T09:41:16.485Z",
+      "title": "5연속 SNS로 '반·분·신' 직격…정청래 깃발로 '김민석 100일' 아수라장 - 뉴스토마토",
+      "targetName": "김민석"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "ec1b10f85ef1188b483e82a9f0856346d30494a7c1deb7602dd7dba579a25987",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "5연속 SNS로 '반·분·신' 직격…정청래 깃발로 '김민석 100일' 아수라장 - 뉴스토마토",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TU0dlTTV1Vy1UYXRsRVM5OC1nRHVqa0k0allrc2w5Y0xIRlRTUVQ1MXMyY2YxN212Q3NwTmpFeDdqd2VsVXNFWEVRem1UYk9GSEpFaGY1N3ZYRlNwNDYwUw?oc=5\" target=\"_blank\">5연속 SNS로 '반·분·신' 직격…정청래 깃발로 '김민석 100일' 아수라장</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TU0dlTTV1Vy1UYXRsRVM5OC1nRHVqa0k0allrc2w5Y0xIRlRTUVQ1MXMyY2YxN212Q3NwTmpFeDdqd2VsVXNFWEVRem1UYk9GSEpFaGY1N3ZYRlNwNDYwUw?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 09:27:06 GMT",
+        "source": "뉴스토마토",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f5146b1b8ecc4900c017e4453dec771601ce3e89c285bccc7068566d67309fde",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "정청래 '깃발' 정했나...조국혁신당, '독자노선' 새단장 돌입 - 조세일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5hRFJheGdZWU9nQXM4aE85T3ZnckEtcmVUcFhFYmVGVW4yT29LNFF6b1ZsTzBiUV90OWJTcURnT3hHOEpGRjZJcjljTkd1Zko3YWdTSmd4M2xKdjNxR2N0U3dnanRGVWsyNThYQUZHSQ?oc=5\" target=\"_blank\">정청래 '깃발' 정했나...조국혁신당, '독자노선' 새단장 돌입</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hRFJheGdZWU9nQXM4aE85T3ZnckEtcmVUcFhFYmVGVW4yT29LNFF6b1ZsTzBiUV90OWJTcURnT3hHOEpGRjZJcjljTkd1Zko3YWdTSmd4M2xKdjNxR2N0U3dnanRGVWsyNThYQUZHSQ?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 09:12:48 GMT",
+        "source": "조세일보",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f8df4c310e71ed8cc109c52d444b11d56bd7bb1d80740515ce359fd439e3da2d",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당, 조희대 대법원장 탄핵 촉구 촛불집회 - 뉴스핌",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rSEEtWjFCbVRONU90ZzNtUEhvSVliYUUyRkxMbWZEdFpneVlmUW8zM09HV2hmX1BFUm1KWG8yLWpVVndQRTdFVEg3cmR0endNOWR0M3dEMWtRbTAt?oc=5\" target=\"_blank\">조국혁신당, 조희대 대법원장 탄핵 촉구 촛불집회</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rSEEtWjFCbVRONU90ZzNtUEhvSVliYUUyRkxMbWZEdFpneVlmUW8zM09HV2hmX1BFUm1KWG8yLWpVVndQRTdFVEg3cmR0endNOWR0M3dEMWtRbTAt?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 09:09:00 GMT",
+        "source": "뉴스핌",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "ba823c91b385384dd6cec4f2c2af239cd763d91998fdf432b2b4e1869c08509c",
-    "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등(종합) - 연합뉴스",
+    "postId": "3e3073725e043f893185f528091b1b4f6bc0014f0d4e3100e98cfa95fde13651",
+    "title": "5연속 SNS로 '반·분·신' 직격…정청래 깃발로 '김민석 100일' 아수라장 - 뉴스토마토",
     "bot": "jongsuk_pol_bot",
-    "runId": "45365932797",
-    "sentAt": "2026-11-24T09:31:17.725Z"
+    "runId": "45367508526",
+    "sentAt": "2026-11-24T09:41:16.127Z"
   }
 }

@@ -4694,3 +4694,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '한동훈 기획 제명' 의혹 제기‥친한계 "장동혁 사퇴해야" - MBC 뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '한동훈 기획 제명' 의혹 제기‥친한계 "장동혁 사퇴해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBUMUFTMmo0NlhyNGZ4Mkdha1hjbWthTHZtblVtTmNNRjhfMW93VVB2OHlQb1lXdHV4ZWF2dzZuU2hSNGhMa3lJdGg3WVNyNEFjU3RSTEVIUkFHYm5vX2NmZnpUb2Fkbl9kOFBucTVrTHpYV3RIbGZsR9IBeEFVX3lxTFBUMUFTMmo0NlhyNGZ4Mkdha1hjbWthTHZtblVtTmNNRjhfMW93VVB2OHlQb1lXdHV4ZWF2dzZuU2hSNGhMa3lJdGg3WVNyNEFjU3RSTEVIUkFHYm5vX2NmZnpUb2Fkbl9kOFBucTVrTHpYV3RIbGZsRw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁 "패륜" 한동훈 "자백"…국힘, '조작 징계' 계파 충돌 절정 - 신아일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 "패륜" 한동훈 "자백"…국힘, '조작 징계' 계파 충돌 절정
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE9RQjgyS2hVY1BDUjY4aTRLdEVCZUJtY1lQZ3dLTmdFX1hyeUMxVXpxRXRqLXZmbDNLbFRlRHV1RkUtcWxLS1NTbjM2RDBXZ2V6WXpUSDJTLVpVRlBzYTBmWjFIT3lEakpCSkNULUdPanA?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 5연속 SNS로 '반·분·신' 직격…정청래 깃발로 '김민석 100일' 아수라장 - 뉴스토마토
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 5연속 SNS로 '반·분·신' 직격…정청래 깃발로 '김민석 100일' 아수라장
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TU0dlTTV1Vy1UYXRsRVM5OC1nRHVqa0k0allrc2w5Y0xIRlRTUVQ1MXMyY2YxN212Q3NwTmpFeDdqd2VsVXNFWEVRem1UYk9GSEpFaGY1N3ZYRlNwNDYwUw?oc=5)
+
+---
+
