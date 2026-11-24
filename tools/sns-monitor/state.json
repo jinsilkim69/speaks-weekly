@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T02:31:23.623Z",
+  "lastCheckedAt": "2026-11-24T02:41:13.287Z",
   "seenPostIds": {
-    "c17699a024afeeb912a45d60fc8657b712aa43fd5a2ad421426cf86cedd2f9f0": {
-      "seenAt": "2026-11-21T02:21:17.966Z",
-      "title": "‘최민희 사태’에 둘로 쪼개진 민주당…\"엄중 징계\" vs \"김민석 징계\"｜다시보기｜장르만 여의도 - JTBC",
-      "targetName": "김민석"
-    },
-    "a94ba30bdfd5791e8c4cfa8a477718e2580a665292683e7a21137f0f840cd6ce": {
-      "seenAt": "2026-11-21T02:31:20.585Z",
-      "title": "한동훈 “제명 징계 공작 예상했지만, 내부자 증거 제시는 뜻밖” - 중앙일보",
-      "targetName": "한동훈"
-    },
-    "846608006087efaaaa91647dd6c4658676a5dd9f5622d164ffd2f808e4b32c67": {
-      "seenAt": "2026-11-21T02:31:21.328Z",
-      "title": "Trump posthumously pardons baseball 'SUPERSTAR & LEGEND' Pete Rose - WLOS",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "094159f44e62781041a217749763562700b7f0fb8b094b51566e610e09734df1": {
       "seenAt": "2026-11-21T02:41:18.568Z",
       "title": "이재명 대통령 \"대장동 개발, 공익 환수에도 배임죄?\" 논란의 중심에 서다 - 공감신문",
@@ -2515,14 +2500,62 @@
       "seenAt": "2026-11-24T02:31:27.117Z",
       "title": "김민석 “당청관계 안정” 정청래 “폭탄에 초토화”…金 취임 100일 ‘말말말’ - 시사저널",
       "targetName": "정청래"
+    },
+    "15e59d596053b782a4183136d152b182f30d7508e02922c8b15d7a9160ef716c": {
+      "seenAt": "2026-11-24T02:41:14.759Z",
+      "title": "공수처, 한동훈 딸 '부모찬스'·수사무마 의혹 수사4부 배당 - 연합뉴스",
+      "targetName": "한동훈"
+    },
+    "d475cea3075e3d7673403788cf3f709929999b2852fb5c4df3b18348f3b3f0e7": {
+      "seenAt": "2026-11-24T02:41:15.396Z",
+      "title": "정청래, 취임 100일 김민석 겨냥 “반·분·신 폭탄이 당 초토화” - 중앙일보",
+      "targetName": "김민석"
+    },
+    "1f94a2ba37bca3b48bfb29bed08cfb28e8841dd1f332e41b3553f6d817fb032f": {
+      "seenAt": "2026-11-24T02:41:16.037Z",
+      "title": "정청래, 취임 100일 김민석 겨냥 “반·분·신 폭탄이 당 초토화” - 중앙일보",
+      "targetName": "정청래"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "65d66076e9bda8cd8cb023328ec10e53ea86d24af1430c1fa79ffee66fa3424a",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, 박선원 저격 \"신천지로 당 초토화…일제 부역자 발언 정점\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE96NUlkUWJoc2FlYTZSM3k5ZUd0cXE1MFRnUFhTbUw1akk2U0hZMnM1X3U0d25xU3VCUEhoWVJPRk9lSjlCUjV6dmk1NF82UENDQ1hqdEVkSmhfUTc2UktXVnItMGw3Yk1iWHQyeDQ5YW9SQdIBckFVX3lxTE96NUlkUWJoc2FlYTZSM3k5ZUd0cXE1MFRnUFhTbUw1akk2U0hZMnM1X3U0d25xU3VCUEhoWVJPRk9lSjlCUjV6dmk1NF82UENDQ1hqdEVkSmhfUTc2UktXVnItMGw3Yk1iWHQyeDQ5YW9SQQ?oc=5\" target=\"_blank\">정청래, 박선원 저격 \"신천지로 당 초토화…일제 부역자 발언 정점\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96NUlkUWJoc2FlYTZSM3k5ZUd0cXE1MFRnUFhTbUw1akk2U0hZMnM1X3U0d25xU3VCUEhoWVJPRk9lSjlCUjV6dmk1NF82UENDQ1hqdEVkSmhfUTc2UktXVnItMGw3Yk1iWHQyeDQ5YW9SQdIBckFVX3lxTE96NUlkUWJoc2FlYTZSM3k5ZUd0cXE1MFRnUFhTbUw1akk2U0hZMnM1X3U0d25xU3VCUEhoWVJPRk9lSjlCUjV6dmk1NF82UENDQ1hqdEVkSmhfUTc2UktXVnItMGw3Yk1iWHQyeDQ5YW9SQQ?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 01:29:49 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "af22159823f7775568ecca5d6dabb3a564d5917d25ecca71b04456c8f442af7c",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석 \"강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻\" - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNelpFR1ZrZEVhMklLd0UySkhfNnE4WTRPNTI3X1gwRldXai14NkNBa0ZULVc5QmhMOUZ6Z3U0QXVubzVESUwzRXdYaE94aktKUXo5ZXBjcDRac2FIZGhhYVdqTHFXckhRVDRPRlgxZm5WVi0wUDBHWUFxajhuaHBZNmFQOTk1RHBQWm9QZWJWSW00RFdxZ21ybHROT20yaW1RVU9Ic0tUMFRCM01VN1BmdmdhZmliQkVWdEFIQmdPMHB4RkVMQnhNLXF5SFRsWnktTEVpZXNLeENYQnBPZ2hRUElpX0ZmWHZtdVNfMk9lYTl6S2J1ZVVlTDlwcWtZOTFzT1ZDbkk4SnBmTDkxTmJ6T0pGZlBiMGN5c0h2RVRiem9EUFU?oc=5\" target=\"_blank\">이준석 \"강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNelpFR1ZrZEVhMklLd0UySkhfNnE4WTRPNTI3X1gwRldXai14NkNBa0ZULVc5QmhMOUZ6Z3U0QXVubzVESUwzRXdYaE94aktKUXo5ZXBjcDRac2FIZGhhYVdqTHFXckhRVDRPRlgxZm5WVi0wUDBHWUFxajhuaHBZNmFQOTk1RHBQWm9QZWJWSW00RFdxZ21ybHROT20yaW1RVU9Ic0tUMFRCM01VN1BmdmdhZmliQkVWdEFIQmdPMHB4RkVMQnhNLXF5SFRsWnktTEVpZXNLeENYQnBPZ2hRUElpX0ZmWHZtdVNfMk9lYTl6S2J1ZVVlTDlwcWtZOTFzT1ZDbkk4SnBmTDkxTmJ6T0pGZlBiMGN5c0h2RVRiem9EUFU?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 02:33:00 GMT",
+        "source": "데일리안",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "b032ad5da14b9e41232fe108bb6c22bd6afd18af4979b404e7c348fc71655391",
-    "title": "김민석 “당청관계 안정” 정청래 “폭탄에 초토화”…金 취임 100일 ‘말말말’ - 시사저널",
+    "postId": "1f94a2ba37bca3b48bfb29bed08cfb28e8841dd1f332e41b3553f6d817fb032f",
+    "title": "정청래, 취임 100일 김민석 겨냥 “반·분·신 폭탄이 당 초토화” - 중앙일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45312952899",
-    "sentAt": "2026-11-24T02:31:26.741Z"
+    "runId": "45314172910",
+    "sentAt": "2026-11-24T02:41:15.709Z"
   }
 }

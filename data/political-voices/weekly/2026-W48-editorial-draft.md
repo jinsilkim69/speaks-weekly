@@ -3329,3 +3329,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 공수처, 한동훈 딸 '부모찬스'·수사무마 의혹 수사4부 배당 - 연합뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 공수처, 한동훈 딸 '부모찬스'·수사무마 의혹 수사4부 배당
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pclNfU0UybERxMEVRV3pwUFdILXgwYUVUbUNaRTFCQUFFQVM0QlVXTm8zeU9takstZDM5em5FUEtNbXltNmxYbmNXam5FRVkzbGkyTHkzeVF2TjTSAWBBVV95cUxPem43X2tidUx1Sm93MXdhdko2OUpLZGxIcmlobUxRcWRuVVdkUmpLT3l5dm0zM0RnQkQxN0pQT0NnUW92Z2tCbDB2WDY2WXR1aEh4UzJaaUNrT3hVOVpSaGc?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 취임 100일 김민석 겨냥 “반·분·신 폭탄이 당 초토화” - 중앙일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 취임 100일 김민석 겨냥 “반·분·신 폭탄이 당 초토화”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE45aTRzblJ5S1lGck9TWkFxUzZvaTlCYm9WcG9jWmhmemFKYWxxazFqdk5COWtfVWpyTVpUSEFxTVc5bXRPTWFYVHBMVVktOFhqemNDVENn?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 취임 100일 김민석 겨냥 “반·분·신 폭탄이 당 초토화” - 중앙일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 취임 100일 김민석 겨냥 “반·분·신 폭탄이 당 초토화”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE45aTRzblJ5S1lGck9TWkFxUzZvaTlCYm9WcG9jWmhmemFKYWxxazFqdk5COWtfVWpyTVpUSEFxTVc5bXRPTWFYVHBMVVktOFhqemNDVENn?oc=5)
+
+---
+
