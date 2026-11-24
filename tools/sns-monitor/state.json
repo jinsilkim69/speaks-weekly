@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T10:21:17.042Z",
+  "lastCheckedAt": "2026-11-24T10:31:14.302Z",
   "seenPostIds": {
-    "c95313c7a9655b40cb518214eaeab4d29cbc5fd5691ad75873d89823016816ac": {
-      "seenAt": "2026-11-22T00:21:19.892Z",
-      "title": "日 입국 거부 조국 외면한 민주당…전과에 반일 ‘반文교사’인가 - 중앙일보",
-      "targetName": "조국"
-    },
     "e6c21cba91750a7b5a8a7b44d4fe5427d5a65dd9edb2a407de17c40b758b066a": {
       "seenAt": "2026-11-22T00:21:20.634Z",
       "title": "Trump shares Yalta comparison featuring himself, Xi and Putin - AOL.com",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-24T10:21:18.450Z",
       "title": "장동혁 '조작징계' 의혹 작심 반박…한동훈 \"배후 조종 자인\"(종합) - 뉴스1",
       "targetName": "한동훈"
+    },
+    "5dc7c9e50bb609d8677cadc31128b17a28d9a3230a258ef6c537f1961e9951f2": {
+      "seenAt": "2026-11-24T10:31:15.901Z",
+      "title": "김민석 '취임 100일' 몸 낮췄으나... 정청래 \"결자해지하라\" 폭풍 SNS - 한국일보",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "794d87e6767b5856702e56dc7dd6ee6f22f5ee05a7b06c5c5f9d48318433e78b",
-    "title": "장동혁 '조작징계' 의혹 작심 반박…한동훈 \"배후 조종 자인\"(종합) - 뉴스1",
+    "postId": "5dc7c9e50bb609d8677cadc31128b17a28d9a3230a258ef6c537f1961e9951f2",
+    "title": "김민석 '취임 100일' 몸 낮췄으나... 정청래 \"결자해지하라\" 폭풍 SNS - 한국일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45373943824",
-    "sentAt": "2026-11-24T10:21:17.754Z"
+    "runId": "45375519636",
+    "sentAt": "2026-11-24T10:31:15.181Z"
   }
 }
