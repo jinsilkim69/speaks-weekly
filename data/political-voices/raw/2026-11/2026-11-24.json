@@ -4733,5 +4733,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "073694f9421d93abe1c0aada660b10cae96b303bb8e19e43be06d35c8e9b1af3",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "권양숙 여사 “노무현·이재명 대통령 식성·수면·성격 닮아…건강 챙기시라” - 경기일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UmQtbzlMSWhJQ0pKbm50SGM0SG94eHlPV1ktZWVsNVduVXlZOTF3OWdLSE96NGJzdVV6Tmh0Y0kxa25VMzBJdXJTTjV5RHo2cld5Yl9KZTQ0dGM?oc=5\" target=\"_blank\">권양숙 여사 “노무현·이재명 대통령 식성·수면·성격 닮아…건강 챙기시라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6UmQtbzlMSWhJQ0pKbm50SGM0SG94eHlPV1ktZWVsNVduVXlZOTF3OWdLSE96NGJzdVV6Tmh0Y0kxa25VMzBJdXJTTjV5RHo2cld5Yl9KZTQ0dGM?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 13:05:59 GMT",
+    "source": "경기일보",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 권양숙 여사 “노무현·이재명 대통령 식성·수면·성격 닮아…건강 챙기시라”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
