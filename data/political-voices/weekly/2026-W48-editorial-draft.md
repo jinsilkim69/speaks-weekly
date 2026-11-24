@@ -3056,3 +3056,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국민의힘 중진들, 장동혁 사퇴 요구 확산…한동훈 제명 기획 의혹 파문 - www.hdnews.co.kr
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘 중진들, 장동혁 사퇴 요구 확산…한동훈 제명 기획 의혹 파문
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE0zZlk4a2pWZjlFMXZrSWt6UzEtTEdoOVNvU3NyRUt6ODhOQ0lpMkl0NHh3ekVHbGFoQ0twc3pFb2ZNTmFtRW1YdkxQUjFGTmt6czlobVlIVkJyMVBaWGROaU1tbXN4aUlucDRr?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 당명 개정 추진…조국 "확장성 있는 이름 필요" - 프레시안
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 당명 개정 추진…조국 "확장성 있는 이름 필요"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE5PWWdBSkpIa1Bia0xUSmN0ZzZnWjl6aTVCSFpjSE5yQVNXSDVzOVVQeTBNUkVWNktCRHhwQWx1blkyLThPSWhzZ1lnTXJCb2g2bXNXSE5EQWxndEY0aU1PQWF5VldlTnQweC1ZcDZXTHlzTFBxMlZ6MjdWZzc4X2M?oc=5)
+
+---
+
