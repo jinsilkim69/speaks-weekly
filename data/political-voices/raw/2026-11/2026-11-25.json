@@ -628,5 +628,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "cea36f3a4979277611ac08ae2f76363d23799e360ba38103554eb3f0e52db30b",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Donald Trump’s Eyebrow-Raising Gift To Every Member Of His Cabinet Revealed - HuffPost",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWlnZHV1UksxUnRmOW1EWnhxbW12OTBRSm1LdlZTNU5EUy1RemFrZHFKd095cUZQbzBXZWxzS3c1dzJwckJDTno4cWZ5dEF2UVg1TGhCNHc2Y0pMVlNKSlk2MFVPNy05MTFyRFRoUF9TNFVmVGpYQjNyMzd5ckNTYV9mTFRNRnJEX215T3FaV1RIUVIzNWxDR08yUW1uNWQ40gGmAUFVX3lxTE5fNWNYWTlnUXhQNU5MRTFrU1BaanVaaFViMW5DanZTYWh3ZUhJWWFyUmNZYUpfeVUzUE9rci1QaWRBUkFsVlFlYXNTYnVkVHhVZnh2ZV9lTHpyT3JpMGJKcjJQZkp3QVNWd1RjRHgtR0J1dnV2eFdjajQwX0hnVUgwNzdERHVGRHRaRTBqcVhkSThJaHowQmxDNVE3RW53anBNbVBSdEE?oc=5\" target=\"_blank\">Donald Trump’s Eyebrow-Raising Gift To Every Member Of His Cabinet Revealed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HuffPost</font>",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWlnZHV1UksxUnRmOW1EWnhxbW12OTBRSm1LdlZTNU5EUy1RemFrZHFKd095cUZQbzBXZWxzS3c1dzJwckJDTno4cWZ5dEF2UVg1TGhCNHc2Y0pMVlNKSlk2MFVPNy05MTFyRFRoUF9TNFVmVGpYQjNyMzd5ckNTYV9mTFRNRnJEX215T3FaV1RIUVIzNWxDR08yUW1uNWQ40gGmAUFVX3lxTE5fNWNYWTlnUXhQNU5MRTFrU1BaanVaaFViMW5DanZTYWh3ZUhJWWFyUmNZYUpfeVUzUE9rci1QaWRBUkFsVlFlYXNTYnVkVHhVZnh2ZV9lTHpyT3JpMGJKcjJQZkp3QVNWd1RjRHgtR0J1dnV2eFdjajQwX0hnVUgwNzdERHVGRHRaRTBqcVhkSThJaHowQmxDNVE3RW53anBNbVBSdEE?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 08:24:51 GMT",
+    "source": "HuffPost",
+    "ageHours": 13.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Donald Trump’s Eyebrow-Raising Gift To Every Member Of His Cabinet Revealed",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

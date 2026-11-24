@@ -5383,3 +5383,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump’s Eyebrow-Raising Gift To Every Member Of His Cabinet Revealed - HuffPost
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump’s Eyebrow-Raising Gift To Every Member Of His Cabinet Revealed
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWlnZHV1UksxUnRmOW1EWnhxbW12OTBRSm1LdlZTNU5EUy1RemFrZHFKd095cUZQbzBXZWxzS3c1dzJwckJDTno4cWZ5dEF2UVg1TGhCNHc2Y0pMVlNKSlk2MFVPNy05MTFyRFRoUF9TNFVmVGpYQjNyMzd5ckNTYV9mTFRNRnJEX215T3FaV1RIUVIzNWxDR08yUW1uNWQ40gGmAUFVX3lxTE5fNWNYWTlnUXhQNU5MRTFrU1BaanVaaFViMW5DanZTYWh3ZUhJWWFyUmNZYUpfeVUzUE9rci1QaWRBUkFsVlFlYXNTYnVkVHhVZnh2ZV9lTHpyT3JpMGJKcjJQZkp3QVNWd1RjRHgtR0J1dnV2eFdjajQwX0hnVUgwNzdERHVGRHRaRTBqcVhkSThJaHowQmxDNVE3RW53anBNbVBSdEE?oc=5)
+
+---
+
