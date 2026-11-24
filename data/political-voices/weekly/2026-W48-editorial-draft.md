@@ -5071,3 +5071,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump's bizarre Truth Social post celebrates Jensen Huang's return as Nvidia CEO - The New Indian Express
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump's bizarre Truth Social post celebrates Jensen Huang's return as Nvidia CEO
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa21kRlhkcko4b05WT1NZR2xPcU9QX29EdjgzZms5YUJKSkY2NGt4RXNpSGt6bkp0R0lTdHItMUhRY2NUYXFxZ2hZZFRhMUZmVjZvSlpUVXhZREtOY3d1UjZ0aXdIaVlNLXE4cFlYdzl6bmRIMjFHMlJJeUNNd2NSX3ZQUUhKY2QycjFqRlhadU04TGliMGc1ZmNncTFQQTk2ejVacGQwbkJYR3UzVFJ3d2JMelNXNndFSTFpWkxjM2J2X2duMnJPeNIB1gFBVV95cUxNMG5iYm92eXV4Q0tVSHk4QWVtUWxObFdDTDVrWFplNUFUSjAyRVdvanNaXzAzejNadU43azdaSDYtS1BDU3B3cmxhZXEzQk1lSGlqT29sRUNUQmtweDlJZmNiN013SDA1SEt0ZHF0Y2FYVHBFMERQZ1hFRFd3WHpyNnVpT0FmbnAycTZLT2xYa2RJREwxSkxzVENaZWhiSzJPbDJ2QVJESk4yWDFhLU1WYlY5YjFTT3FIbnRKcno3R24tX3R3TW50NF9yN2tmc3RSQmNQZGZB?oc=5)
+
+---
+

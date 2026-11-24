@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T15:11:14.571Z",
+  "lastCheckedAt": "2026-11-24T15:21:16.810Z",
   "seenPostIds": {
-    "4f8e2ac874545b300604aee81d8b34b655a03fc95c3787bd3c6c8c00bfc623b5": {
-      "seenAt": "2026-11-22T01:41:15.575Z",
-      "title": "조국혁신당 ‘조국’ 빠진다···“확장성 있는 당명 필요” - 주간경향",
-      "targetName": "조국"
-    },
     "522cef7e630b726890dd64f6ee904f48bd0805511664b66abd40e00c3d10cd2f": {
       "seenAt": "2026-11-22T01:51:15.092Z",
       "title": "혁신당의 '조국' 빠지나…조국 \"확장성 있게 범민주 좋아할 이름으로\" - 머니투데이 - 머니투데이",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-24T15:11:15.717Z",
       "title": "이준석 “장동혁, 부정선거 붙잡고 버텨…한동훈식 검찰정치도 위험” - 중앙일보",
       "targetName": "이준석"
+    },
+    "8c92486275c475c00a63c57b278eb3d6b1ab6e2e765208372565cda2d82dcf8e": {
+      "seenAt": "2026-11-24T15:21:17.914Z",
+      "title": "Trump's bizarre Truth Social post celebrates Jensen Huang's return as Nvidia CEO - The New Indian Express",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "13aec639d8fc00998c962132893b8e98f7aae352d880f2b79976725fa9218d79",
-    "title": "이준석 “장동혁, 부정선거 붙잡고 버텨…한동훈식 검찰정치도 위험” - 중앙일보",
+    "postId": "8c92486275c475c00a63c57b278eb3d6b1ab6e2e765208372565cda2d82dcf8e",
+    "title": "Trump's bizarre Truth Social post celebrates Jensen Huang's return as Nvidia CEO - The New Indian Express",
     "bot": "jongsuk_pol_bot",
-    "runId": "45422505298",
-    "sentAt": "2026-11-24T15:11:15.184Z"
+    "runId": "45424473257",
+    "sentAt": "2026-11-24T15:21:17.412Z"
   }
 }
