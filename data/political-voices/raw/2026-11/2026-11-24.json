@@ -1226,5 +1226,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f40fb6e21a57d12f13662ea66bc15ea92f5572e99ff89d478a7b310134227171",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump claims credit as Jensen Huang returns to Nvidia - NPR",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9zbnZDQkUyREFBaUM2YkdGLTNyWWxjMXNzcTFBR2I0WmdyVWtQYXFHMmtfaG5xdmlCZ2ZBVlp2M29XSUxPbU4tNnU4V1ZHVWZINFExTWpUUncwRGFIZ0hwVnNmd2RQeGRwV1hLNUIyLWR6OF9sOUVKWUZjOA?oc=5\" target=\"_blank\">Trump claims credit as Jensen Huang returns to Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zbnZDQkUyREFBaUM2YkdGLTNyWWxjMXNzcTFBR2I0WmdyVWtQYXFHMmtfaG5xdmlCZ2ZBVlp2M29XSUxPbU4tNnU4V1ZHVWZINFExTWpUUncwRGFIZ0hwVnNmd2RQeGRwV1hLNUIyLWR6OF9sOUVKWUZjOA?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 01:05:40 GMT",
+    "source": "NPR",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump claims credit as Jensen Huang returns to Nvidia",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "9ba65f5a3317bacd63aa3174a1a4d7b450cc760a1c86672a3d0e641ebabb6fac",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 조세일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE01ZjdwRkFfbE1ZV3BDaXVrR3hhYTJSUVlVQUJLRjJzU2tUemdJWmN5WEtBWUduTVNQWXZEeTB3OEs0eGM2RGZRbVhHM3RNVzhGT1llVzE3ZlZ4b1Y3S3dv?oc=5\" target=\"_blank\">오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01ZjdwRkFfbE1ZV3BDaXVrR3hhYTJSUVlVQUJLRjJzU2tUemdJWmN5WEtBWUduTVNQWXZEeTB3OEs0eGM2RGZRbVhHM3RNVzhGT1llVzE3ZlZ4b1Y3S3dv?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 10:44:11 GMT",
+    "source": "조세일보",
+    "ageHours": 15,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "9ba9caf7dc8259ca671ec4d2ba3d85445a80f1a7ab1d37e9287b50aac7d27b71",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "정청래, 박선원 저격 \"신천지로 당 초토화…일제 부역자 발언 정점\" - 머니투데이 - 머니투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE44dmF0MndDRG5GZGRhNGpJU05UZ0x1a3cxc25ZU2VtcVNmVXViU2xsR0Rnd0pvZGtNVzJNd01LcnhjcUtvejVWSG1YbWpEUWtEdjQyYWNqYzI3RnduWVlWbjR4V0MxMXY3cHVFcHVyTlpTcmFlM0NyeU9R0gF_QVVfeXFMTzhSZC1tSWpLdlFtSk5BdjJQX2wzRVhqY1pSQkpuVHM3ZjdQb3RGUGttQUNZRzBKSkdvVjNZRl9TbTMwYkpfOWlTck1VVzdBRzNrTkpkUjlrdUVJd3pabGVFYUN2ZkdZTDQ1OGJJenVTZ1h3VG8yMHAxV3hBWk1vdw?oc=5\" target=\"_blank\">정청래, 박선원 저격 \"신천지로 당 초토화…일제 부역자 발언 정점\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44dmF0MndDRG5GZGRhNGpJU05UZ0x1a3cxc25ZU2VtcVNmVXViU2xsR0Rnd0pvZGtNVzJNd01LcnhjcUtvejVWSG1YbWpEUWtEdjQyYWNqYzI3RnduWVlWbjR4V0MxMXY3cHVFcHVyTlpTcmFlM0NyeU9R0gF_QVVfeXFMTzhSZC1tSWpLdlFtSk5BdjJQX2wzRVhqY1pSQkpuVHM3ZjdQb3RGUGttQUNZRzBKSkdvVjNZRl9TbTMwYkpfOWlTck1VVzdBRzNrTkpkUjlrdUVJd3pabGVFYUN2ZkdZTDQ1OGJJenVTZ1h3VG8yMHAxV3hBWk1vdw?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 01:29:49 GMT",
+    "source": "머니투데이",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래, 박선원 저격 \"신천지로 당 초토화…일제 부역자 발언 정점\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

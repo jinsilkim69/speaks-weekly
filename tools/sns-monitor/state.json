@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T01:31:12.463Z",
+  "lastCheckedAt": "2026-11-24T01:41:17.315Z",
   "seenPostIds": {
-    "8d88d7b38e934a8ac9446a5f0f544193eebad9f25c08d895448b3402987833ff": {
-      "seenAt": "2026-11-20T23:21:18.423Z",
-      "title": "이재명 대통령 '대장동 檢 기소' 반박 \"5500억 환수가 배임인가\" - 대전일보",
-      "targetName": "이재명"
-    },
-    "bec5ee6e0c95d5060831ecc0c6a7633cd8afcedae0470c3db90c11e53f0f4d0c": {
-      "seenAt": "2026-11-20T23:51:18.279Z",
-      "title": "Trump takes down image from his social media platform that depicted him as a Jesus-like figure - ABC News - Breaking News, Latest News and Videos",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "884f619a42169dd1b8aa1c6a243b0ff7264c9daa63baee181b78735690a3fc58": {
-      "seenAt": "2026-11-21T00:21:25.667Z",
-      "title": "나경원 \"코스피 5% 폭락…이재명 정권 무책임엔 바닥 없어\" - 이데일리",
-      "targetName": "이재명"
-    },
     "06a38229fba7ae3907228086c606e7d8ce8bac098e759ff111d762cd0b2652d9": {
       "seenAt": "2026-11-21T00:41:27.364Z",
       "title": "이재명 대통령 \"대장동 개발, 공익 환수에도 배임죄?\" 논란의 중심에 서다 - 공감신문",
@@ -2515,31 +2500,29 @@
       "seenAt": "2026-11-24T01:31:14.912Z",
       "title": "‘金 100일’에 정청래 “성공한 정치공작이니 말로 사과하면 끝인가” - 이데일리",
       "targetName": "정청래"
+    },
+    "f40fb6e21a57d12f13662ea66bc15ea92f5572e99ff89d478a7b310134227171": {
+      "seenAt": "2026-11-24T01:41:18.794Z",
+      "title": "Trump claims credit as Jensen Huang returns to Nvidia - NPR",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "9ba65f5a3317bacd63aa3174a1a4d7b450cc760a1c86672a3d0e641ebabb6fac": {
+      "seenAt": "2026-11-24T01:41:19.455Z",
+      "title": "오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 조세일보",
+      "targetName": "이재명"
+    },
+    "9ba9caf7dc8259ca671ec4d2ba3d85445a80f1a7ab1d37e9287b50aac7d27b71": {
+      "seenAt": "2026-11-24T01:41:20.121Z",
+      "title": "정청래, 박선원 저격 \"신천지로 당 초토화…일제 부역자 발언 정점\" - 머니투데이 - 머니투데이",
+      "targetName": "정청래"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "f40fb6e21a57d12f13662ea66bc15ea92f5572e99ff89d478a7b310134227171",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump claims credit as Jensen Huang returns to Nvidia - NPR",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9zbnZDQkUyREFBaUM2YkdGLTNyWWxjMXNzcTFBR2I0WmdyVWtQYXFHMmtfaG5xdmlCZ2ZBVlp2M29XSUxPbU4tNnU4V1ZHVWZINFExTWpUUncwRGFIZ0hwVnNmd2RQeGRwV1hLNUIyLWR6OF9sOUVKWUZjOA?oc=5\" target=\"_blank\">Trump claims credit as Jensen Huang returns to Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zbnZDQkUyREFBaUM2YkdGLTNyWWxjMXNzcTFBR2I0WmdyVWtQYXFHMmtfaG5xdmlCZ2ZBVlp2M29XSUxPbU4tNnU4V1ZHVWZINFExTWpUUncwRGFIZ0hwVnNmd2RQeGRwV1hLNUIyLWR6OF9sOUVKWUZjOA?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 01:05:40 GMT",
-        "source": "NPR",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "fd0568f7aae327199bac27175f74eb8c275342804471ed09d46195168d0e1429",
-    "title": "‘金 100일’에 정청래 “성공한 정치공작이니 말로 사과하면 끝인가” - 이데일리",
+    "postId": "9ba9caf7dc8259ca671ec4d2ba3d85445a80f1a7ab1d37e9287b50aac7d27b71",
+    "title": "정청래, 박선원 저격 \"신천지로 당 초토화…일제 부역자 발언 정점\" - 머니투데이 - 머니투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45305601617",
-    "sentAt": "2026-11-24T01:31:14.597Z"
+    "runId": "45306843284",
+    "sentAt": "2026-11-24T01:41:19.784Z"
   }
 }
