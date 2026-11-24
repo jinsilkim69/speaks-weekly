@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T09:51:14.030Z",
+  "lastCheckedAt": "2026-11-24T10:01:26.556Z",
   "seenPostIds": {
-    "2e5d7c071174807d6b341286059bc0e7c776dcf8997c78fdf43378c529f1b91c": {
-      "seenAt": "2026-11-21T23:51:23.373Z",
-      "title": "김민석 “청년과 함께하는 것이 민주당 최대 과제” - 서울경제",
-      "targetName": "김민석"
-    },
-    "91ac2c167d486563fdc88f2da8da73c1f040edd87a05d9fc3cb9e7b55ef944be": {
-      "seenAt": "2026-11-21T23:51:24.131Z",
-      "title": "Trump Shares Yalta Comparison Featuring Himself, Xi and Putin - Newsweek",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "9453aa1551be45180ac76743ac2ded5f6e14d4a632ab26adb7eb623d5ed67315": {
-      "seenAt": "2026-11-22T00:01:14.969Z",
-      "title": "[이슈포커스]이재명 대통령 “수능 부정 신고포상금 건당 최소 1억원”…공범 수만큼 가산·자수자도 지급 - 창업일보",
-      "targetName": "이재명"
-    },
     "444e881252ffe41bdf23ad77473be239ce6b77dcc06f8950a5443e35c2e627a7": {
       "seenAt": "2026-11-22T00:01:15.641Z",
       "title": "Trump reposts El-Sayed's 'TrumpCare' proposal - FOX 2 Detroit",
@@ -2515,31 +2500,29 @@
       "seenAt": "2026-11-24T09:51:16.537Z",
       "title": "조국혁신당, 조희대 대법원장 탄핵 촉구 촛불집회 - 뉴스핌",
       "targetName": "조국"
+    },
+    "4bfdcac61c5eab67965885ba8f912033d80bd40f085fed532f94bfe18f75d3b0": {
+      "seenAt": "2026-11-24T10:01:28.477Z",
+      "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
+      "targetName": "김민석"
+    },
+    "a154faa3884eb25c5fc624c9526be35c75737ff7088b8c46fba90061640a253b": {
+      "seenAt": "2026-11-24T10:01:29.296Z",
+      "title": "정청래, '취임 100일' 김민석에 포문‥\"당 초토화시켜\" - MBC 뉴스",
+      "targetName": "김민석"
+    },
+    "50e841416ac946b2c1a1c2f343f2d98bd977957fdcd25996112f0c08597850ab": {
+      "seenAt": "2026-11-24T10:01:30.155Z",
+      "title": "정청래, '취임 100일' 김민석에 포문‥\"당 초토화시켜\" - MBC 뉴스",
+      "targetName": "정청래"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "4bfdcac61c5eab67965885ba8f912033d80bd40f085fed532f94bfe18f75d3b0",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yZVFXVWJKTnh6ZXAtcVE1SHgwdlA0ajFxYldicjYtZHdIdzdfb1FRbjJGaWNjRndhYWlvUXFVYzR6Ym9ObW1VWS11MmVlZ0E0THB3TktNUXJ6X0RDVVE?oc=5\" target=\"_blank\">험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yZVFXVWJKTnh6ZXAtcVE1SHgwdlA0ajFxYldicjYtZHdIdzdfb1FRbjJGaWNjRndhYWlvUXFVYzR6Ym9ObW1VWS11MmVlZ0E0THB3TktNUXJ6X0RDVVE?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 09:19:00 GMT",
-        "source": "YTN",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "f8df4c310e71ed8cc109c52d444b11d56bd7bb1d80740515ce359fd439e3da2d",
-    "title": "조국혁신당, 조희대 대법원장 탄핵 촉구 촛불집회 - 뉴스핌",
+    "postId": "50e841416ac946b2c1a1c2f343f2d98bd977957fdcd25996112f0c08597850ab",
+    "title": "정청래, '취임 100일' 김민석에 포문‥\"당 초토화시켜\" - MBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45369089371",
-    "sentAt": "2026-11-24T09:51:16.190Z"
+    "runId": "45370657753",
+    "sentAt": "2026-11-24T10:01:29.706Z"
   }
 }
