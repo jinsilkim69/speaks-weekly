@@ -3251,3 +3251,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 "신천지 근거 없는 폭탄이 당 초토화…해당행위" - 연합뉴스TV
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 "신천지 근거 없는 폭탄이 당 초토화…해당행위"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qeXVFZXJtdmZkZjlSeVlTZzJlakdmTDNaaDctRmJrQVNsUTE2T3YtcU5EdmJENTFQT0FmQ0dMZDBZa1V3RkpYalFZakpSRFZFVUsyVnV2Z3cxcVlQeWRtQXhRLVJpaTA?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "100일, 가장 만만치 않았던 기간" - 한국경제
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "100일, 가장 만만치 않았던 기간"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tbjVORmdvaWg1NjZ3dF9xUktISTJWaEE1dlF4cUdsTGpoeUZhaFZrd0xQb1pMOHRJTkRVQURKVy1RcWhsbThidWJMbjg4bEdsbkhuN1BMT3QxQQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 "신천지 근거 없는 폭탄이 당 초토화…해당행위" - 연합뉴스TV
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 "신천지 근거 없는 폭탄이 당 초토화…해당행위"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qeXVFZXJtdmZkZjlSeVlTZzJlakdmTDNaaDctRmJrQVNsUTE2T3YtcU5EdmJENTFQT0FmQ0dMZDBZa1V3RkpYalFZakpSRFZFVUsyVnV2Z3cxcVlQeWRtQXhRLVJpaTA?oc=5)
+
+---
+

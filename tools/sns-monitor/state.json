@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T02:11:29.151Z",
+  "lastCheckedAt": "2026-11-24T02:21:15.330Z",
   "seenPostIds": {
     "3b487843373722f98b2de745c398d7b477b9e837ad8803b3ffaba346246d949b": {
       "seenAt": "2026-11-21T01:51:18.164Z",
@@ -2500,14 +2500,46 @@
       "seenAt": "2026-11-24T02:01:20.686Z",
       "title": "[포토] 의원총회서 발언하는 강경숙 조국혁신당 원내부대표 - 파이낸스투데이",
       "targetName": "조국"
+    },
+    "6161533cd14dec51f1f9aafe3a75261cb94b1a48a1d03afc4c849896f79a1597": {
+      "seenAt": "2026-11-24T02:21:16.726Z",
+      "title": "정청래, 김민석 겨냥 \"신천지 근거 없는 폭탄이 당 초토화…해당행위\" - 연합뉴스TV",
+      "targetName": "김민석"
+    },
+    "4d3f1be9d9db546df92999e94e3deeadad9b3fbcea9168803dface8fbd41c31e": {
+      "seenAt": "2026-11-24T02:21:17.381Z",
+      "title": "김민석 \"100일, 가장 만만치 않았던 기간\" - 한국경제",
+      "targetName": "김민석"
+    },
+    "6fd9752fdf3f0f2ffb4bf868bba6a2e16c1e4d8f7e0f7b2367e74666dd61d5ff": {
+      "seenAt": "2026-11-24T02:21:18.034Z",
+      "title": "정청래, 김민석 겨냥 \"신천지 근거 없는 폭탄이 당 초토화…해당행위\" - 연합뉴스TV",
+      "targetName": "정청래"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "535fdcf8df86ccb8d1e274732f9702f2abb5a0d0750b9246b22548e16caded26",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, 김민석 취임 100일에 사퇴 촉구?…\"신천지 논란 자업자득, 결자해지해야\" - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQck1MTlp6SDJfTFFwdzVVb2xUTWdvMUt6TmZWWENteDBPRW1iZnRzRG02anV4cDlUSElrMllYV2ZIdVc0Z09tcmdCS3hjdkdvcDZNdWlhZXlGdUh5VXRPb1RUWDdmcHNlS2RRWnJ6cDJ0QjZPU01CMEpIcUxmVkJzbUFQT1E4LUU3RGtQRVVUUnBPM3FZMWJZNGJmZmRRX3U5SmRZcS1vWklhaXRnVVFpNDl4NTE2b1F6T3hyUXBnN0xyT1hYaXptUVprc3d4MTBJcmJfVnYtcVFUM3lLZ1BXcy16RDE0LWdGUER0bmItcFV0RlRtWFc2LQ?oc=5\" target=\"_blank\">정청래, 김민석 취임 100일에 사퇴 촉구?…\"신천지 논란 자업자득, 결자해지해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQck1MTlp6SDJfTFFwdzVVb2xUTWdvMUt6TmZWWENteDBPRW1iZnRzRG02anV4cDlUSElrMllYV2ZIdVc0Z09tcmdCS3hjdkdvcDZNdWlhZXlGdUh5VXRPb1RUWDdmcHNlS2RRWnJ6cDJ0QjZPU01CMEpIcUxmVkJzbUFQT1E4LUU3RGtQRVVUUnBPM3FZMWJZNGJmZmRRX3U5SmRZcS1vWklhaXRnVVFpNDl4NTE2b1F6T3hyUXBnN0xyT1hYaXptUVprc3d4MTBJcmJfVnYtcVFUM3lLZ1BXcy16RDE0LWdGUER0bmItcFV0RlRtWFc2LQ?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 02:17:00 GMT",
+        "source": "데일리안",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "5edbe55704972f0766857580a5610580fbe81446e6034546279e7a874a9693a5",
-    "title": "[포토] 의원총회서 발언하는 강경숙 조국혁신당 원내부대표 - 파이낸스투데이",
+    "postId": "6fd9752fdf3f0f2ffb4bf868bba6a2e16c1e4d8f7e0f7b2367e74666dd61d5ff",
+    "title": "정청래, 김민석 겨냥 \"신천지 근거 없는 폭탄이 당 초토화…해당행위\" - 연합뉴스TV",
     "bot": "jongsuk_pol_bot",
-    "runId": "45309246296",
-    "sentAt": "2026-11-24T02:01:20.361Z"
+    "runId": "45311713407",
+    "sentAt": "2026-11-24T02:21:17.714Z"
   }
 }
