@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T19:51:14.583Z",
+  "lastCheckedAt": "2026-11-24T20:01:15.589Z",
   "seenPostIds": {
     "16e7c99c344033327aad815d7389e7c9ccf26c98e9d71a44b34dc9e12f649727": {
       "seenAt": "2026-11-22T03:21:18.157Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-24T19:41:30.815Z",
       "title": "The Trump team is getting more and more evasive about Jensen Huang - CNN",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d74b9a726c6cfac072c0abd9b61ceddebf7c6ae2402134cc10509af862e62c37": {
+      "seenAt": "2026-11-24T20:01:16.656Z",
+      "title": "김혜경 여사, 권양숙 여사와 오찬…\"노무현·이재명 대통령 많이 닮아\" - 뉴스토마토",
+      "targetName": "이재명"
+    },
+    "5e7fd136101c9ce84bdd2ff847add607c89514036853bd318ac09a8add3d9665": {
+      "seenAt": "2026-11-24T20:01:17.295Z",
+      "title": "President Trump's plan to lower beef prices draws sharp criticism from Missouri rancher, Kansas farm advocate - KSHB 41 Kansas City",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "551f2ee9fe87cb9ae9e23a527effe71b098b1c46fe8643130e8c434f2d75ac2d",
-    "title": "The Trump team is getting more and more evasive about Jensen Huang - CNN",
+    "postId": "5e7fd136101c9ce84bdd2ff847add607c89514036853bd318ac09a8add3d9665",
+    "title": "President Trump's plan to lower beef prices draws sharp criticism from Missouri rancher, Kansas farm advocate - KSHB 41 Kansas City",
     "bot": "jongsuk_pol_bot",
-    "runId": "45472790529",
-    "sentAt": "2026-11-24T19:41:30.041Z"
+    "runId": "45476284817",
+    "sentAt": "2026-11-24T20:01:16.950Z"
   }
 }

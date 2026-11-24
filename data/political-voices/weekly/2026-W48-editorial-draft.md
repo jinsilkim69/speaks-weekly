@@ -5279,3 +5279,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 김혜경 여사, 권양숙 여사와 오찬…"노무현·이재명 대통령 많이 닮아" - 뉴스토마토
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김혜경 여사, 권양숙 여사와 오찬…"노무현·이재명 대통령 많이 닮아"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kcDRYU3ZuZ1lGWG1jaVJ5MGQ0Rm9yZWdTd0ZiQ0FaZWVQV3h4Z1ZPdWlndEsxRm1hUzUzZDZpWlFYTmppd1EzYUtMTzE4ZTRidlpPYlAwQTYxcjdXWFA0Rg?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** President Trump's plan to lower beef prices draws sharp criticism from Missouri rancher, Kansas farm advocate - KSHB 41 Kansas City
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] President Trump's plan to lower beef prices draws sharp criticism from Missouri rancher, Kansas farm advocate
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWlFzZzkzUHd1bFpEQjd3aTE5R294cUt3dE1yd0V1eFAtN0UyalNBSjZYQ3pGOWFLV3hYc0RYSkIxY1UtLU1fQU1veFdSbEhDa2EzYVY0V1V6VVNHckdnaXdGMG5NZHFfXzFkdjk0SmY4UHZrUVZ5Q1pCY0FFNHlLR2ZYb3V5OTVGTXF6TTRXMW5hRjh4MWQ1WXJjclZIcS1uVm5VM1FfUGtaMEtORm9pWXZRY2pUQ3Q2VGcwc2RmbHhGVVBxVWp5dzZmdWFnMHFnQW1mSktMb040VkNX?oc=5)
+
+---
+
