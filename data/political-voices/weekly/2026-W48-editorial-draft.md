@@ -4473,3 +4473,29 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 인천 시민단체 “송영길·박선원 청해부대 파병연장 부결 나서야” - www.incheonin.com
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 인천 시민단체 “송영길·박선원 청해부대 파병연장 부결 나서야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE82X29MdDJPanVxM1ZPbWtEV2h1NEluTjNmTTczVkFzZ042LWJsbVE4bXZfd2QyaHhNb3lFb1RzY1NWUXFjbTVVa1NJNklKTUVLb2RfSjFMUUg2MWRfVVhrZkc5UHhHTUd6a1VmdA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 입국 거부, 법대로라지만…日 심사 기준 따져보니 - 쿠키뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 입국 거부, 법대로라지만…日 심사 기준 따져보니
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VZFQxU1lXZmhLVkNoOHZtVEZUeUZiN210Nm1GWXlQZlJhV1BHUFlDMEt2b2pYdEdINE1abm92NXFQT2FnSWRmdmNUSE0yRGxXMTVHWE50MS1uZWtjc1FaZHRiRQ?oc=5)
+
+---
+

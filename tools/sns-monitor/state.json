@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T08:01:14.148Z",
+  "lastCheckedAt": "2026-11-24T08:11:21.658Z",
   "seenPostIds": {
-    "f9c5dfceb3fcb8106028522bbcedbd77c45928d5f9072e1fe236fcac3b165621": {
-      "seenAt": "2026-11-21T19:11:19.402Z",
-      "title": "한동훈, 민주당 조희대 탄핵 추진 비판…\"이제 민주당은 '내란정당'\" - 국제뉴스",
-      "targetName": "한동훈"
-    },
-    "9ab87f70795c9cd62c95e17e860c792868725fa5555d712a662ca04a6a4c8935": {
-      "seenAt": "2026-11-21T19:41:17.289Z",
-      "title": "Trump Says US Will Not Attack Iran Before Midterm Elections in November - EnergyNow.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "b0b727e89cf255cfefd93ec7359396e3580043e0a77b3c84542202e6c7307c10": {
       "seenAt": "2026-11-21T20:31:17.832Z",
       "title": "Trump Memecoin Hits 2026 Low As Price Slumps Ahead Of President’s VIP Dinner - TradingView",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-24T08:01:15.961Z",
       "title": "취임 100일 김민석, 정청래 폭풍 SNS에 \"말씀드릴 필요 없어\" - 조선일보",
       "targetName": "정청래"
+    },
+    "4becd5bd670758bf4596e517c8a772bff4fefb277b346e441bbef466e509c383": {
+      "seenAt": "2026-11-24T08:11:23.488Z",
+      "title": "인천 시민단체 “송영길·박선원 청해부대 파병연장 부결 나서야” - www.incheonin.com",
+      "targetName": "송영길"
+    },
+    "a056b078ed6e2662ed21bb34efcfaf1eb0f529e236bb1ee686473d90bfc14baa": {
+      "seenAt": "2026-11-24T08:11:24.282Z",
+      "title": "조국 입국 거부, 법대로라지만…日 심사 기준 따져보니 - 쿠키뉴스",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "17329dea7675bf5c01865a47af7dcd8fea2e7b583e8f1402a6b1b465c7d1df6a",
-    "title": "취임 100일 김민석, 정청래 폭풍 SNS에 \"말씀드릴 필요 없어\" - 조선일보",
+    "postId": "a056b078ed6e2662ed21bb34efcfaf1eb0f529e236bb1ee686473d90bfc14baa",
+    "title": "조국 입국 거부, 법대로라지만…日 심사 기준 따져보니 - 쿠키뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45352483668",
-    "sentAt": "2026-11-24T08:01:15.594Z"
+    "runId": "45353893363",
+    "sentAt": "2026-11-24T08:11:23.859Z"
   }
 }
