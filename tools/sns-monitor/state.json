@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T00:21:14.581Z",
+  "lastCheckedAt": "2026-11-24T00:31:19.919Z",
   "seenPostIds": {
     "255ac9b5886603ec67b2bbd1f784f42a40dec99a041dd81ca2f2815f8b91b66b": {
       "seenAt": "2026-11-20T21:03:01.581Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T00:11:14.659Z",
       "title": "Trump tells Army to halt detonation for now of unstable explosives in Iowa - CBS News",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "dfc3931724b32f4606d14ad9fb5ed194de9f3328fd533bb25c682b23e3353ad9": {
+      "seenAt": "2026-11-24T00:31:21.334Z",
+      "title": "Trump shares meme of defiant, bloodied Huang raising red bra in air - The Washington Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "06b0bc5f25af2f4c1232518fd175f4d1639d9222f1447a4767abcbe5c30a7e5d",
-    "title": "Trump tells Army to halt detonation for now of unstable explosives in Iowa - CBS News",
+    "postId": "dfc3931724b32f4606d14ad9fb5ed194de9f3328fd533bb25c682b23e3353ad9",
+    "title": "Trump shares meme of defiant, bloodied Huang raising red bra in air - The Washington Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "45295048394",
-    "sentAt": "2026-11-24T00:11:14.156Z"
+    "runId": "45297784600",
+    "sentAt": "2026-11-24T00:31:20.669Z"
   }
 }

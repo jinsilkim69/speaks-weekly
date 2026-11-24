@@ -976,5 +976,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "dfc3931724b32f4606d14ad9fb5ed194de9f3328fd533bb25c682b23e3353ad9",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump shares meme of defiant, bloodied Huang raising red bra in air - The Washington Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmJONUgzVm1PSXZGcnlzc2ExLVFuQjQ5VGpKYUFZYk5lSjZuSldnTEFhazQ5N2JBWmNTcmdKVTZJV1hfaEtEYjIxVlNlNnFiNldvMWQtbUdaWGx0UFdJc050NzZ2ZVkyQzR3UkRuVmV6ZWxIOTBmNWRfN1FJNF9xOTF6UjdUWkJyOG9TVjR6Z0xTYkJPbGt5dFJsV210QTRTMFJUcDktUENTa0NoTjhxZmNB?oc=5\" target=\"_blank\">Trump shares meme of defiant, bloodied Huang raising red bra in air</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmJONUgzVm1PSXZGcnlzc2ExLVFuQjQ5VGpKYUFZYk5lSjZuSldnTEFhazQ5N2JBWmNTcmdKVTZJV1hfaEtEYjIxVlNlNnFiNldvMWQtbUdaWGx0UFdJc050NzZ2ZVkyQzR3UkRuVmV6ZWxIOTBmNWRfN1FJNF9xOTF6UjdUWkJyOG9TVjR6Z0xTYkJPbGt5dFJsV210QTRTMFJUcDktUENTa0NoTjhxZmNB?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 23:59:24 GMT",
+    "source": "The Washington Post",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump shares meme of defiant, bloodied Huang raising red bra in air",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
