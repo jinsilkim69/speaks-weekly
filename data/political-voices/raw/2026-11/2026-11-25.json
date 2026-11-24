@@ -299,5 +299,57 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d228a8169a2810903769992c1c9e9a5fb0cc5ffd22b8c0c62b49c7c2f4a2a038",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "신장식 조국혁신당 당대표, 조국혁신당 조희대 즉각 탄핵 촛불집회 - 의정일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE52dFh3MVptQTkwUGs2bFJ6ZUpVbXE0RERGa1FWdDdyeHF1dDZ0QVpKdW03cnBIUmJ2VURoNmpDaHdoS2hxRWRxSEVObWh6TDMySHllaXYteV9jTVZiNzZESHpUQzNZZW9ELXc?oc=5\" target=\"_blank\">신장식 조국혁신당 당대표, 조국혁신당 조희대 즉각 탄핵 촛불집회</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">의정일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dFh3MVptQTkwUGs2bFJ6ZUpVbXE0RERGa1FWdDdyeHF1dDZ0QVpKdW03cnBIUmJ2VURoNmpDaHdoS2hxRWRxSEVObWh6TDMySHllaXYteV9jTVZiNzZESHpUQzNZZW9ELXc?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 17:34:00 GMT",
+    "source": "의정일보",
+    "ageHours": 1.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식 조국혁신당 당대표, 조국혁신당 조희대 즉각 탄핵 촛불집회",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "c4ed6597b4f005b546877b9ae3658a865bdda9edf5e3e62cb5490de55024519c",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "신장식 조국혁신당 당대표, 조국혁신당 조희대 즉각 탄핵 촛불집회 - 의정일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE52dFh3MVptQTkwUGs2bFJ6ZUpVbXE0RERGa1FWdDdyeHF1dDZ0QVpKdW03cnBIUmJ2VURoNmpDaHdoS2hxRWRxSEVObWh6TDMySHllaXYteV9jTVZiNzZESHpUQzNZZW9ELXc?oc=5\" target=\"_blank\">신장식 조국혁신당 당대표, 조국혁신당 조희대 즉각 탄핵 촛불집회</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">의정일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dFh3MVptQTkwUGs2bFJ6ZUpVbXE0RERGa1FWdDdyeHF1dDZ0QVpKdW03cnBIUmJ2VURoNmpDaHdoS2hxRWRxSEVObWh6TDMySHllaXYteV9jTVZiNzZESHpUQzNZZW9ELXc?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 17:34:00 GMT",
+    "source": "의정일보",
+    "ageHours": 1.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식 조국혁신당 당대표, 조국혁신당 조희대 즉각 탄핵 촛불집회",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T19:01:16.134Z",
+  "lastCheckedAt": "2026-11-24T19:11:27.514Z",
   "seenPostIds": {
     "c1fd5176f50e00f5f5b9e094410d0c00af8b4bce550963f714d30c3b31f50e0e": {
       "seenAt": "2026-11-22T02:51:15.820Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-24T17:51:16.451Z",
       "title": "CNN’s Trump whisperer shredded on air after telling host to ‘lighten up’ over Jensen Huang red bra meme - The Independent",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d228a8169a2810903769992c1c9e9a5fb0cc5ffd22b8c0c62b49c7c2f4a2a038": {
+      "seenAt": "2026-11-24T19:11:29.126Z",
+      "title": "신장식 조국혁신당 당대표, 조국혁신당 조희대 즉각 탄핵 촛불집회 - 의정일보",
+      "targetName": "조국"
+    },
+    "c4ed6597b4f005b546877b9ae3658a865bdda9edf5e3e62cb5490de55024519c": {
+      "seenAt": "2026-11-24T19:11:29.935Z",
+      "title": "신장식 조국혁신당 당대표, 조국혁신당 조희대 즉각 탄핵 촛불집회 - 의정일보",
+      "targetName": "신장식"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "bd66658718737fc6e5cb023ed42e4f7708104ada4ce766d6a8818ee3f80a5e01",
-    "title": "CNN’s Trump whisperer shredded on air after telling host to ‘lighten up’ over Jensen Huang red bra meme - The Independent",
+    "postId": "c4ed6597b4f005b546877b9ae3658a865bdda9edf5e3e62cb5490de55024519c",
+    "title": "신장식 조국혁신당 당대표, 조국혁신당 조희대 즉각 탄핵 촛불집회 - 의정일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45453076187",
-    "sentAt": "2026-11-24T17:51:15.949Z"
+    "runId": "45467482648",
+    "sentAt": "2026-11-24T19:11:29.484Z"
   }
 }
