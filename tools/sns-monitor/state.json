@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T04:41:14.532Z",
+  "lastCheckedAt": "2026-11-24T04:51:14.828Z",
   "seenPostIds": {
-    "4f035136a34c9458bff3f0cfb169247a091e6063817532b1c39cb1a047499717": {
-      "seenAt": "2026-11-21T08:31:18.078Z",
-      "title": "이재명 대통령, 울산 AI데이터센터 현장 찾아 \"세계경쟁서 속도가 생명\" - 연합뉴스",
-      "targetName": "이재명"
-    },
-    "8b9d5ec9b6502f71d31dbfbdeb70e572c4475e9694006edf314839ddcb3c7c37": {
-      "seenAt": "2026-11-21T08:41:16.593Z",
-      "title": "이재명 대통령 “수능 부정행위 1건당 최소 1억원 포상” - 메디컬투데이",
-      "targetName": "이재명"
-    },
     "8973ba4988ddf84f84592bb1a09d04ee3f93d5cb812463d1ef3eb1f76f1be650": {
       "seenAt": "2026-11-21T08:41:17.216Z",
       "title": "한동훈 “민주, 조희대 탄핵 무르지 말고 12·3일 꼭 해라···모두 감옥갈 것” - 주간경향",
@@ -2510,14 +2500,62 @@
       "seenAt": "2026-11-24T04:41:16.523Z",
       "title": "이준석 \"강금실은 더 진한 오답…워싱턴 '中인민정부 특별고문' 믿겠나\" - 머니투데이 - 머니투데이",
       "targetName": "이준석"
+    },
+    "de3ae073945ac114da210bbb671d1830ca557c8333b1740e87be537ccad2f95e": {
+      "seenAt": "2026-11-24T04:51:15.873Z",
+      "title": "김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\" - 뉴시스",
+      "targetName": "김민석"
+    },
+    "d0877bf4b7e7c6a80774b1a1fea8815abffbd8e7c234a2d52674632d7eb05db4": {
+      "seenAt": "2026-11-24T04:51:16.469Z",
+      "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등 - 연합뉴스",
+      "targetName": "김민석"
+    },
+    "308d54d81274e2522838291a87b7f27fc516e209bafbf84e1ba438f1940e7de3": {
+      "seenAt": "2026-11-24T04:51:17.079Z",
+      "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…與 '신천지 갈등' 정면충돌 - 프리진뉴스",
+      "targetName": "정청래"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "ccce64ce751a434d771fe944842814ca7f671bb68da844d1209d1d2a1e79c682",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "안철수·이준석이 문제 삼은 강금실의 ‘중국 정부 특별고문’ 경력, 어떤 일을 했나 - 주간경향",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fYUt5THVWVVdaLU1hT2hvalYxV2ZtQ0JLdTl2MzlQaDUwLW5hd090SldMVDNJWlhYNWlrazNKeDNvN3VYNms0QUdqY21JU181WGF4SGVVUmJXa0M4NHc?oc=5\" target=\"_blank\">안철수·이준석이 문제 삼은 강금실의 ‘중국 정부 특별고문’ 경력, 어떤 일을 했나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fYUt5THVWVVdaLU1hT2hvalYxV2ZtQ0JLdTl2MzlQaDUwLW5hd090SldMVDNJWlhYNWlrazNKeDNvN3VYNms0QUdqY21JU181WGF4SGVVUmJXa0M4NHc?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 04:45:00 GMT",
+        "source": "주간경향",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2435380faf1a9c32a3ac0597ef153a3bf0e7b7d823365d7aad1275be45d0aa01",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당 조희대 탄핵, 더 이상 미룰 수 없어 - 아주경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xNWwyNDlPWDd4Ty1DTzNlWGRGWXYyTEk1cDUyWnJHOTVvRnNORVZaOW4yZWU0ODdQbEdKMmdWZE1iYVl5TDlXWnNsa2YtN1ljWHdNbmtsNzJoZ9IBWEFVX3lxTE9Uc01Qd3h3bkszQlhmRkVUU2VUWEtFWjF2TkVadkN3VGNfY2Z1RkRISzZWTUJkN09jMWEyQVhLY1BhMllRUk5TV21Lbmo4SFRVbWxuTWMxZnM?oc=5\" target=\"_blank\">조국혁신당 조희대 탄핵, 더 이상 미룰 수 없어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아주경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xNWwyNDlPWDd4Ty1DTzNlWGRGWXYyTEk1cDUyWnJHOTVvRnNORVZaOW4yZWU0ODdQbEdKMmdWZE1iYVl5TDlXWnNsa2YtN1ljWHdNbmtsNzJoZ9IBWEFVX3lxTE9Uc01Qd3h3bkszQlhmRkVUU2VUWEtFWjF2TkVadkN3VGNfY2Z1RkRISzZWTUJkN09jMWEyQVhLY1BhMllRUk5TV21Lbmo4SFRVbWxuTWMxZnM?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 04:44:16 GMT",
+        "source": "아주경제",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "1376fda959d70549cd7c546652b5a79f5a6090a3c11dd1484b5af19f904e3de1",
-    "title": "이준석 \"강금실은 더 진한 오답…워싱턴 '中인민정부 특별고문' 믿겠나\" - 머니투데이 - 머니투데이",
+    "postId": "308d54d81274e2522838291a87b7f27fc516e209bafbf84e1ba438f1940e7de3",
+    "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…與 '신천지 갈등' 정면충돌 - 프리진뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45328069349",
-    "sentAt": "2026-11-24T04:41:16.184Z"
+    "runId": "45329212685",
+    "sentAt": "2026-11-24T04:51:16.769Z"
   }
 }
