@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T00:51:14.504Z",
+  "lastCheckedAt": "2026-11-24T01:01:23.058Z",
   "seenPostIds": {
     "896d9fca23f11ea0c32617802ec4360b66b36a7023c1d8ad15667e5fefabf685": {
       "seenAt": "2026-11-20T21:03:02.812Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T00:31:21.334Z",
       "title": "Trump shares meme of defiant, bloodied Huang raising red bra in air - The Washington Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "315c00828af32f607cffd0df9d445847718b3f806a39ea3a92a6cd6360f5e9e0": {
+      "seenAt": "2026-11-24T01:01:24.534Z",
+      "title": "\"尹 구형 맞춰 한동훈 제물로\"…윤리위원들 '십자가 처형 전략' 폭로 - 조세일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "dfc3931724b32f4606d14ad9fb5ed194de9f3328fd533bb25c682b23e3353ad9",
-    "title": "Trump shares meme of defiant, bloodied Huang raising red bra in air - The Washington Post",
+    "postId": "315c00828af32f607cffd0df9d445847718b3f806a39ea3a92a6cd6360f5e9e0",
+    "title": "\"尹 구형 맞춰 한동훈 제물로\"…윤리위원들 '십자가 처형 전략' 폭로 - 조세일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45297784600",
-    "sentAt": "2026-11-24T00:31:20.669Z"
+    "runId": "45301765777",
+    "sentAt": "2026-11-24T01:01:24.058Z"
   }
 }

@@ -3043,3 +3043,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** "尹 구형 맞춰 한동훈 제물로"…윤리위원들 '십자가 처형 전략' 폭로 - 조세일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "尹 구형 맞춰 한동훈 제물로"…윤리위원들 '십자가 처형 전략' 폭로
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE0xeklDQTJFTlU2cl9XR0NGQS1CbE1KWXdQV181RW5Od2pQWEg3bndPS1dpUFpkUkJUdHBsUDhRUmtlaXh0VXlNV3UwejQwQ00wd1lYUXpvOGo3V1VwVER6TURlSzlQVjFqeVE?oc=5)
+
+---
+
