@@ -2076,5 +2076,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "3ecacf9086fa73533aea1014ed6f38e4e05632ed1df9b8c0606d20481cd21e2e",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "민주당·조국혁신당 부산시당 \"국제신문 정상화 길 열려 환영\" - 국제신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1VBMHlPaWxWYVVuTncySkVVODNnX1ZDTTc2Ql9zWEdqbTZ4SnFvMk5YMmpfbnFqNmF3OHNjbnRxSXFNTHJTOTNjT08zZk9HYThSMG1nTzZrOURhRnBDWlRBLUl0bTl5LXJ3R3M3YVNuM0ZFUXVKbGVmM1ZLamxlZnk0dzhaSm5oNXlSb19B?oc=5\" target=\"_blank\">민주당·조국혁신당 부산시당 \"국제신문 정상화 길 열려 환영\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1VBMHlPaWxWYVVuTncySkVVODNnX1ZDTTc2Ql9zWEdqbTZ4SnFvMk5YMmpfbnFqNmF3OHNjbnRxSXFNTHJTOTNjT08zZk9HYThSMG1nTzZrOURhRnBDWlRBLUl0bTl5LXJ3R3M3YVNuM0ZFUXVKbGVmM1ZLamxlZnk0dzhaSm5oNXlSb19B?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 00:26:00 GMT",
+    "source": "국제신문",
+    "ageHours": 3.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당·조국혁신당 부산시당 \"국제신문 정상화 길 열려 환영\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "9d93fc40fefa5c53c357b63e6893d7222390e1d1b89f275d7f68b628e0fde5ea",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "'I made the deal': Trump says he 'convinced' Nvidia board to reinstate Jensen Huang - ABC News - Breaking News, Latest News and Videos",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1BycWdUdWhjNlNFMEs0YlM3NWQ0WnFoSXg3bXFwMW45cUQtNnVzNFZ3Y2pEV2RYMVVzN2JUbXI4ZTFLa2cwc3NMWHlxbXN3NXFGa1dfOGpvR09rRjFqaHZucDVvWFFhOERZbTFCWXVrNGxQUmphWFNrdnRkbFN1OWtNQUdtdWxyODZhZlluUk1aSUtFRUViQ09mZ2h6Xy1FQmZUVTVn?oc=5\" target=\"_blank\">'I made the deal': Trump says he 'convinced' Nvidia board to reinstate Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1BycWdUdWhjNlNFMEs0YlM3NWQ0WnFoSXg3bXFwMW45cUQtNnVzNFZ3Y2pEV2RYMVVzN2JUbXI4ZTFLa2cwc3NMWHlxbXN3NXFGa1dfOGpvR09rRjFqaHZucDVvWFFhOERZbTFCWXVrNGxQUmphWFNrdnRkbFN1OWtNQUdtdWxyODZhZlluUk1aSUtFRUViQ09mZ2h6Xy1FQmZUVTVn?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 01:05:13 GMT",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "ageHours": 2.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 'I made the deal': Trump says he 'convinced' Nvidia board to reinstate Jensen Huang",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "b860aae157222669d198ba5ac721ade1fcbb2cff6a1021eb29ff99d5c617ac88",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\" - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NX1cwUWlLLXhzQW1zMU9YVktyR1NCSWh5aFpuRUI5cTB5OGE5NGxYX1BxYUxvY0k0RWlQeXNmakJUcUh2SV9odjdMVjIxekNOSjNUNmwyZFZKZEpWamJSSA?oc=5\" target=\"_blank\">김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NX1cwUWlLLXhzQW1zMU9YVktyR1NCSWh5aFpuRUI5cTB5OGE5NGxYX1BxYUxvY0k0RWlQeXNmakJUcUh2SV9odjdMVjIxekNOSjNUNmwyZFZKZEpWamJSSA?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 03:42:25 GMT",
+    "source": "뉴시스",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T03:41:15.158Z",
+  "lastCheckedAt": "2026-11-24T03:51:14.759Z",
   "seenPostIds": {
-    "a73bef3d7ae95d666423a7f01ad9eceb1ee3dfe6439557c0e34902fdb45bf01d": {
-      "seenAt": "2026-11-21T05:21:19.414Z",
-      "title": "김민석 대화로 풀어가자는데 정청래 “합의 강요는 2차 가해” [이런뉴스] - KBS 뉴스",
-      "targetName": "김민석"
-    },
-    "906ac028335327ee00f08d78d20caf37355d018c4be52bd9a08465d33ef0b422": {
-      "seenAt": "2026-11-21T05:21:20.212Z",
-      "title": "조국 “오경미 대법관 반대 의견에 위로받은 사람 많아” - 경기일보",
-      "targetName": "조국"
-    },
-    "b534a612638db27b1b2da52e68e6839c2e2ff2c00085393db3d731f3f4e06451": {
-      "seenAt": "2026-11-21T05:51:19.638Z",
-      "title": "정청래는 꽃놀이패, 기각 책임은 김민석이 - 펜앤마이크",
-      "targetName": "정청래"
-    },
     "8f00312a75d793235bd8d24e8642a6edf267eee333b26bcf3a3186c49de3741b": {
       "seenAt": "2026-11-21T06:41:18.255Z",
       "title": "정청래, 한덕수 파기환송에 \"조희대 사법부 규탄…인정할 수 없다\" - 머니투데이 - 머니투데이",
@@ -2515,47 +2500,46 @@
       "seenAt": "2026-11-24T03:41:17.430Z",
       "title": "정청래, 취임 100일 김민석 겨냥 \"반·분·신 폭탄으로 당 초토화\" - 뉴시스",
       "targetName": "김민석"
+    },
+    "3ecacf9086fa73533aea1014ed6f38e4e05632ed1df9b8c0606d20481cd21e2e": {
+      "seenAt": "2026-11-24T03:51:15.909Z",
+      "title": "민주당·조국혁신당 부산시당 \"국제신문 정상화 길 열려 환영\" - 국제신문",
+      "targetName": "조국"
+    },
+    "9d93fc40fefa5c53c357b63e6893d7222390e1d1b89f275d7f68b628e0fde5ea": {
+      "seenAt": "2026-11-24T03:51:16.541Z",
+      "title": "'I made the deal': Trump says he 'convinced' Nvidia board to reinstate Jensen Huang - ABC News - Breaking News, Latest News and Videos",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "b860aae157222669d198ba5ac721ade1fcbb2cff6a1021eb29ff99d5c617ac88": {
+      "seenAt": "2026-11-24T03:51:17.174Z",
+      "title": "김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\" - 뉴시스",
+      "targetName": "김민석"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "3ecacf9086fa73533aea1014ed6f38e4e05632ed1df9b8c0606d20481cd21e2e",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "민주당·조국혁신당 부산시당 \"국제신문 정상화 길 열려 환영\" - 국제신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1VBMHlPaWxWYVVuTncySkVVODNnX1ZDTTc2Ql9zWEdqbTZ4SnFvMk5YMmpfbnFqNmF3OHNjbnRxSXFNTHJTOTNjT08zZk9HYThSMG1nTzZrOURhRnBDWlRBLUl0bTl5LXJ3R3M3YVNuM0ZFUXVKbGVmM1ZLamxlZnk0dzhaSm5oNXlSb19B?oc=5\" target=\"_blank\">민주당·조국혁신당 부산시당 \"국제신문 정상화 길 열려 환영\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1VBMHlPaWxWYVVuTncySkVVODNnX1ZDTTc2Ql9zWEdqbTZ4SnFvMk5YMmpfbnFqNmF3OHNjbnRxSXFNTHJTOTNjT08zZk9HYThSMG1nTzZrOURhRnBDWlRBLUl0bTl5LXJ3R3M3YVNuM0ZFUXVKbGVmM1ZLamxlZnk0dzhaSm5oNXlSb19B?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 00:26:00 GMT",
-        "source": "국제신문",
-        "ageHours": 3.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "9d93fc40fefa5c53c357b63e6893d7222390e1d1b89f275d7f68b628e0fde5ea",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "'I made the deal': Trump says he 'convinced' Nvidia board to reinstate Jensen Huang - ABC News - Breaking News, Latest News and Videos",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1BycWdUdWhjNlNFMEs0YlM3NWQ0WnFoSXg3bXFwMW45cUQtNnVzNFZ3Y2pEV2RYMVVzN2JUbXI4ZTFLa2cwc3NMWHlxbXN3NXFGa1dfOGpvR09rRjFqaHZucDVvWFFhOERZbTFCWXVrNGxQUmphWFNrdnRkbFN1OWtNQUdtdWxyODZhZlluUk1aSUtFRUViQ09mZ2h6Xy1FQmZUVTVn?oc=5\" target=\"_blank\">'I made the deal': Trump says he 'convinced' Nvidia board to reinstate Jensen Huang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1BycWdUdWhjNlNFMEs0YlM3NWQ0WnFoSXg3bXFwMW45cUQtNnVzNFZ3Y2pEV2RYMVVzN2JUbXI4ZTFLa2cwc3NMWHlxbXN3NXFGa1dfOGpvR09rRjFqaHZucDVvWFFhOERZbTFCWXVrNGxQUmphWFNrdnRkbFN1OWtNQUdtdWxyODZhZlluUk1aSUtFRUViQ09mZ2h6Xy1FQmZUVTVn?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 01:05:13 GMT",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "ageHours": 2.6
+        "id": "ba8b91308691e638f1bf95fa510b4b56b14e3bda27cd13ff83daf2a55547fc63",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 취임 100일에도 민주당 계파 충돌…정청래 “결자해지” : 정치 - 재경일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QalRBQ1Z3dnFteGhpRmxia3UxVVBZcE96aDk0UnFGOFhVeGJOa1UtazUxRXNpTzJJT3lzaWhTQWZRMlNiQUVYWGRGZw?oc=5\" target=\"_blank\">김민석 취임 100일에도 민주당 계파 충돌…정청래 “결자해지” : 정치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QalRBQ1Z3dnFteGhpRmxia3UxVVBZcE96aDk0UnFGOFhVeGJOa1UtazUxRXNpTzJJT3lzaWhTQWZRMlNiQUVYWGRGZw?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 03:30:09 GMT",
+        "source": "재경일보",
+        "ageHours": 0.4
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "156be66659ed320444053c35959f21982f8a161be71dc006d1500999a075a264",
-    "title": "정청래, 취임 100일 김민석 겨냥 \"반·분·신 폭탄으로 당 초토화\" - 뉴시스",
+    "postId": "b860aae157222669d198ba5ac721ade1fcbb2cff6a1021eb29ff99d5c617ac88",
+    "title": "김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\" - 뉴시스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45321197693",
-    "sentAt": "2026-11-24T03:41:17.119Z"
+    "runId": "45322312147",
+    "sentAt": "2026-11-24T03:51:16.847Z"
   }
 }
