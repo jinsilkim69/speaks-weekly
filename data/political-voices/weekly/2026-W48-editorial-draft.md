@@ -5240,3 +5240,29 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** [기자노트/이가영]송영길과 김범수, 무엇이 다른가 - 동행미디어 시대
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길과 김범수, 무엇이 다른가
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pRV9OLUp3ZU8yZGJ0R2t6WTc1NDdaMXZmNUxSaVd6UEZNeFJJX3NKa2h4SzNaeVZGSFR4R1otZ0JFY05GSlNFMkViZ3hGR1ZiQTZkY1lidUprR0pCM0E?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** The New York Times. . Nvidia reinstated Jensen Huang as chief executive after a pressure campaign led by President Trump that urged its board to bring him back. Jonathan Swan, a White House correspondent, spoke with Michael Barbaro on “The Daily” abo - Facebook
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] The New York Times. . Nvidia reinstated Jensen Huang as chief executive after a pressure campaign led by President Trump that urged its board to bring him back. Jonathan Swan, a White House correspondent, spoke with Michael Barbaro on “The Daily” abo
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekpLSkFjZ19Dd0ltMl9TRGFnSUZMRUdJN3hNMS1LV0l6eGpyM3FxWVJWVTBHM0hRMHJBRzRSQnpUOEFnUEx2dlI5cmFGckxwczgyRFFWd0JaTGQzWDhrM0xyb3pmbmQxa2VVZkpSaEp1bjhNWjl3ZGlRUEdrbUhNTFgzWUhZNHVRUGhfelJrd1otVlViamxVTUpuMWxQZVcycTE4QTJTZ3lldHVrY3E5WHNvWW5UaXRqMUFMOHZoUzNmRzMyT3dRVFhqbFA4ZG5mTXk0?oc=5)
+
+---
+

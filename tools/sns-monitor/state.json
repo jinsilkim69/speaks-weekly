@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T19:11:27.514Z",
+  "lastCheckedAt": "2026-11-24T19:21:17.062Z",
   "seenPostIds": {
-    "c1fd5176f50e00f5f5b9e094410d0c00af8b4bce550963f714d30c3b31f50e0e": {
-      "seenAt": "2026-11-22T02:51:15.820Z",
-      "title": "한동훈 \"12월 3일 조희대 탄핵 꼭 하라…이젠 민주당이 내란 정당\" - 주간조선",
-      "targetName": "한동훈"
-    },
-    "51b7601f282eed8216e79daa4e23a6d29904998991bac09704890c272b3e531c": {
-      "seenAt": "2026-11-22T02:51:16.540Z",
-      "title": "조국, 당명에서 ‘조국’ 지우나…개인정당 넘어 독자 생존 승부수 - OBC 뉴스",
-      "targetName": "조국"
-    },
     "5dc4057101de021c0b402e809eac38fbae2be0d2cded2cf65dca75cb477b8d86": {
       "seenAt": "2026-11-22T03:01:15.442Z",
       "title": "Giddy Trump, 80, Goes Full Sycophant in Wild 35-Post Spree - The Daily Beast",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-24T19:11:29.935Z",
       "title": "신장식 조국혁신당 당대표, 조국혁신당 조희대 즉각 탄핵 촛불집회 - 의정일보",
       "targetName": "신장식"
+    },
+    "723c09da5d3455e4189b98aa90bff0546f75523fe2491cd8cbda9d2d2e8d1ac5": {
+      "seenAt": "2026-11-24T19:21:18.318Z",
+      "title": "[기자노트/이가영]송영길과 김범수, 무엇이 다른가 - 동행미디어 시대",
+      "targetName": "송영길"
+    },
+    "d687e7e5efa26360134c92c92203c5a2b15558f56b44d711a5e6d28ac4a526e0": {
+      "seenAt": "2026-11-24T19:21:18.952Z",
+      "title": "The New York Times. . Nvidia reinstated Jensen Huang as chief executive after a pressure campaign led by President Trump that urged its board to bring him back. Jonathan Swan, a White House correspondent, spoke with Michael Barbaro on “The Daily” abo - Facebook",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c4ed6597b4f005b546877b9ae3658a865bdda9edf5e3e62cb5490de55024519c",
-    "title": "신장식 조국혁신당 당대표, 조국혁신당 조희대 즉각 탄핵 촛불집회 - 의정일보",
+    "postId": "d687e7e5efa26360134c92c92203c5a2b15558f56b44d711a5e6d28ac4a526e0",
+    "title": "The New York Times. . Nvidia reinstated Jensen Huang as chief executive after a pressure campaign led by President Trump that urged its board to bring him back. Jonathan Swan, a White House correspondent, spoke with Michael Barbaro on “The Daily” abo - Facebook",
     "bot": "jongsuk_pol_bot",
-    "runId": "45467482648",
-    "sentAt": "2026-11-24T19:11:29.484Z"
+    "runId": "45469269237",
+    "sentAt": "2026-11-24T19:21:18.639Z"
   }
 }

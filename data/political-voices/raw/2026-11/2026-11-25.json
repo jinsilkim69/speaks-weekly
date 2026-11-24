@@ -351,5 +351,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "723c09da5d3455e4189b98aa90bff0546f75523fe2491cd8cbda9d2d2e8d1ac5",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "[기자노트/이가영]송영길과 김범수, 무엇이 다른가 - 동행미디어 시대",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pRV9OLUp3ZU8yZGJ0R2t6WTc1NDdaMXZmNUxSaVd6UEZNeFJJX3NKa2h4SzNaeVZGSFR4R1otZ0JFY05GSlNFMkViZ3hGR1ZiQTZkY1lidUprR0pCM0E?oc=5\" target=\"_blank\">[기자노트/이가영]송영길과 김범수, 무엇이 다른가</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동행미디어 시대</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pRV9OLUp3ZU8yZGJ0R2t6WTc1NDdaMXZmNUxSaVd6UEZNeFJJX3NKa2h4SzNaeVZGSFR4R1otZ0JFY05GSlNFMkViZ3hGR1ZiQTZkY1lidUprR0pCM0E?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 19:00:00 GMT",
+    "source": "동행미디어 시대",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길과 김범수, 무엇이 다른가",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "d687e7e5efa26360134c92c92203c5a2b15558f56b44d711a5e6d28ac4a526e0",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "The New York Times. . Nvidia reinstated Jensen Huang as chief executive after a pressure campaign led by President Trump that urged its board to bring him back. Jonathan Swan, a White House correspondent, spoke with Michael Barbaro on “The Daily” abo - Facebook",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekpLSkFjZ19Dd0ltMl9TRGFnSUZMRUdJN3hNMS1LV0l6eGpyM3FxWVJWVTBHM0hRMHJBRzRSQnpUOEFnUEx2dlI5cmFGckxwczgyRFFWd0JaTGQzWDhrM0xyb3pmbmQxa2VVZkpSaEp1bjhNWjl3ZGlRUEdrbUhNTFgzWUhZNHVRUGhfelJrd1otVlViamxVTUpuMWxQZVcycTE4QTJTZ3lldHVrY3E5WHNvWW5UaXRqMUFMOHZoUzNmRzMyT3dRVFhqbFA4ZG5mTXk0?oc=5\" target=\"_blank\">The New York Times. . Nvidia reinstated Jensen Huang as chief executive after a pressure campaign led by President Trump that urged its board to bring him back. Jonathan Swan, a White House correspondent, spoke with Michael Barbaro on “The Daily” abo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facebook</font>",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekpLSkFjZ19Dd0ltMl9TRGFnSUZMRUdJN3hNMS1LV0l6eGpyM3FxWVJWVTBHM0hRMHJBRzRSQnpUOEFnUEx2dlI5cmFGckxwczgyRFFWd0JaTGQzWDhrM0xyb3pmbmQxa2VVZkpSaEp1bjhNWjl3ZGlRUEdrbUhNTFgzWUhZNHVRUGhfelJrd1otVlViamxVTUpuMWxQZVcycTE4QTJTZ3lldHVrY3E5WHNvWW5UaXRqMUFMOHZoUzNmRzMyT3dRVFhqbFA4ZG5mTXk0?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 19:05:53 GMT",
+    "source": "Facebook",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] The New York Times. . Nvidia reinstated Jensen Huang as chief executive after a pressure campaign led by President Trump that urged its board to bring him back. Jonathan Swan, a White House correspondent, spoke with Michael Barbaro on “The Daily” abo",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
