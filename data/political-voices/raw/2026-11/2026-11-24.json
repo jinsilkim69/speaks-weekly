@@ -3455,5 +3455,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b5786ddd9ce0c1c80237dc9587a75e85276825aba6748389a4bfdbc91edaba81",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "친한계 \"한동훈 제명은 조작 징계\"…장동혁 사퇴 압박 - 경북도민일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB2UnFxVXYzQUpXN0xQNjAya05oTHBoNzVqMlhRc2Y4alVlX1hodWNrdXZxSS1HanQ4ZElHZ29UcTNvemlUcXBNM1F2dEdsRTY5M3hpSmh5bktRR1Y4MzVfWnRXZ3lsV0VoeUE?oc=5\" target=\"_blank\">친한계 \"한동훈 제명은 조작 징계\"…장동혁 사퇴 압박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북도민일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2UnFxVXYzQUpXN0xQNjAya05oTHBoNzVqMlhRc2Y4alVlX1hodWNrdXZxSS1HanQ4ZElHZ29UcTNvemlUcXBNM1F2dEdsRTY5M3hpSmh5bktRR1Y4MzVfWnRXZ3lsV0VoeUE?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 07:01:57 GMT",
+    "source": "경북도민일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 친한계 \"한동훈 제명은 조작 징계\"…장동혁 사퇴 압박",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
