@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T02:21:15.330Z",
+  "lastCheckedAt": "2026-11-24T02:31:23.623Z",
   "seenPostIds": {
-    "3b487843373722f98b2de745c398d7b477b9e837ad8803b3ffaba346246d949b": {
-      "seenAt": "2026-11-21T01:51:18.164Z",
-      "title": "Trump Demands Lower Gas Prices From Oil Companies, Chides Chevron CEO - EnergyNow.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "1e28220e9712d09b0377d07aa41b892ddf13c482b6d7c859278ab1e6de9fe486": {
-      "seenAt": "2026-11-21T02:11:17.883Z",
-      "title": "\"말보다 노래로\"…신장식, 민주유공자법 통과 소회 담아 '사람 사는 세상' 열창 #shorts - 오마이TV - OhmyNews",
-      "targetName": "신장식"
-    },
-    "57ccae92706208b776b1ca9bf25cb63decd95112e9f923fb7d1b1e907016b609": {
-      "seenAt": "2026-11-21T02:11:18.551Z",
-      "title": "신장식 조국혁신당 대표, 조희대 대법원장 탄핵소추안... 왜 속전속결이 필요한지 - 의정일보",
-      "targetName": "신장식"
-    },
     "c17699a024afeeb912a45d60fc8657b712aa43fd5a2ad421426cf86cedd2f9f0": {
       "seenAt": "2026-11-21T02:21:17.966Z",
       "title": "‘최민희 사태’에 둘로 쪼개진 민주당…\"엄중 징계\" vs \"김민석 징계\"｜다시보기｜장르만 여의도 - JTBC",
@@ -2515,31 +2500,29 @@
       "seenAt": "2026-11-24T02:21:18.034Z",
       "title": "정청래, 김민석 겨냥 \"신천지 근거 없는 폭탄이 당 초토화…해당행위\" - 연합뉴스TV",
       "targetName": "정청래"
+    },
+    "535fdcf8df86ccb8d1e274732f9702f2abb5a0d0750b9246b22548e16caded26": {
+      "seenAt": "2026-11-24T02:31:25.645Z",
+      "title": "정청래, 김민석 취임 100일에 사퇴 촉구?…\"신천지 논란 자업자득, 결자해지해야\" - 데일리안",
+      "targetName": "정청래"
+    },
+    "55cc3c8ff21161ad94d2ea0686eaa93804ddec7f791626053f2e754873a8105d": {
+      "seenAt": "2026-11-24T02:31:26.377Z",
+      "title": "김민석 “당청관계 안정” 정청래 “폭탄에 초토화”…金 취임 100일 ‘말말말’ - 시사저널",
+      "targetName": "김민석"
+    },
+    "b032ad5da14b9e41232fe108bb6c22bd6afd18af4979b404e7c348fc71655391": {
+      "seenAt": "2026-11-24T02:31:27.117Z",
+      "title": "김민석 “당청관계 안정” 정청래 “폭탄에 초토화”…金 취임 100일 ‘말말말’ - 시사저널",
+      "targetName": "정청래"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "535fdcf8df86ccb8d1e274732f9702f2abb5a0d0750b9246b22548e16caded26",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 김민석 취임 100일에 사퇴 촉구?…\"신천지 논란 자업자득, 결자해지해야\" - 데일리안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQck1MTlp6SDJfTFFwdzVVb2xUTWdvMUt6TmZWWENteDBPRW1iZnRzRG02anV4cDlUSElrMllYV2ZIdVc0Z09tcmdCS3hjdkdvcDZNdWlhZXlGdUh5VXRPb1RUWDdmcHNlS2RRWnJ6cDJ0QjZPU01CMEpIcUxmVkJzbUFQT1E4LUU3RGtQRVVUUnBPM3FZMWJZNGJmZmRRX3U5SmRZcS1vWklhaXRnVVFpNDl4NTE2b1F6T3hyUXBnN0xyT1hYaXptUVprc3d4MTBJcmJfVnYtcVFUM3lLZ1BXcy16RDE0LWdGUER0bmItcFV0RlRtWFc2LQ?oc=5\" target=\"_blank\">정청래, 김민석 취임 100일에 사퇴 촉구?…\"신천지 논란 자업자득, 결자해지해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQck1MTlp6SDJfTFFwdzVVb2xUTWdvMUt6TmZWWENteDBPRW1iZnRzRG02anV4cDlUSElrMllYV2ZIdVc0Z09tcmdCS3hjdkdvcDZNdWlhZXlGdUh5VXRPb1RUWDdmcHNlS2RRWnJ6cDJ0QjZPU01CMEpIcUxmVkJzbUFQT1E4LUU3RGtQRVVUUnBPM3FZMWJZNGJmZmRRX3U5SmRZcS1vWklhaXRnVVFpNDl4NTE2b1F6T3hyUXBnN0xyT1hYaXptUVprc3d4MTBJcmJfVnYtcVFUM3lLZ1BXcy16RDE0LWdGUER0bmItcFV0RlRtWFc2LQ?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 02:17:00 GMT",
-        "source": "데일리안",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "6fd9752fdf3f0f2ffb4bf868bba6a2e16c1e4d8f7e0f7b2367e74666dd61d5ff",
-    "title": "정청래, 김민석 겨냥 \"신천지 근거 없는 폭탄이 당 초토화…해당행위\" - 연합뉴스TV",
+    "postId": "b032ad5da14b9e41232fe108bb6c22bd6afd18af4979b404e7c348fc71655391",
+    "title": "김민석 “당청관계 안정” 정청래 “폭탄에 초토화”…金 취임 100일 ‘말말말’ - 시사저널",
     "bot": "jongsuk_pol_bot",
-    "runId": "45311713407",
-    "sentAt": "2026-11-24T02:21:17.714Z"
+    "runId": "45312952899",
+    "sentAt": "2026-11-24T02:31:26.741Z"
   }
 }
