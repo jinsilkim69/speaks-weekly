@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T21:21:15.235Z",
+  "lastCheckedAt": "2026-11-24T21:31:14.753Z",
   "seenPostIds": {
-    "69e4bce9db2287cbccc166b1a4821f30020abdcd092293bd8ef2e9219839994a": {
-      "seenAt": "2026-11-22T03:31:24.151Z",
-      "title": "Trump Shares El-Sayed’s ‘TrumpCare’ Plan, Says He May Work with Democrats - Newsweek",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "13949e4d0694e5f0241fe53c661dcc873760b7dda5a5e75ed5ca0170ce7f580a": {
       "seenAt": "2026-11-22T03:31:24.915Z",
       "title": "‘조국혁신당’에 ‘조국’ 빠지나…조국 “당명 개정하자” - 미주중앙일보",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-24T21:21:16.616Z",
       "title": "취임 1년 5개월, 이재명 대통령이 가장 열심히 한 일은? - 최보식의언론",
       "targetName": "이재명"
+    },
+    "5ae7a469d1664308597aff2316c5e2d72248e8d73966b7998f7c266310582b2d": {
+      "seenAt": "2026-11-24T21:31:16.107Z",
+      "title": "조국혁신당 '조희대 탄핵' - 뉴스핌",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "1973c4f30a71a9f9b9ca4d52b7ae87189607d1aa173dbdd86388ace93e6be6a3",
-    "title": "취임 1년 5개월, 이재명 대통령이 가장 열심히 한 일은? - 최보식의언론",
+    "postId": "5ae7a469d1664308597aff2316c5e2d72248e8d73966b7998f7c266310582b2d",
+    "title": "조국혁신당 '조희대 탄핵' - 뉴스핌",
     "bot": "jongsuk_pol_bot",
-    "runId": "45490190896",
-    "sentAt": "2026-11-24T21:21:15.932Z"
+    "runId": "45491878420",
+    "sentAt": "2026-11-24T21:31:15.478Z"
   }
 }
