@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T20:01:15.589Z",
+  "lastCheckedAt": "2026-11-24T20:11:27.430Z",
   "seenPostIds": {
-    "16e7c99c344033327aad815d7389e7c9ccf26c98e9d71a44b34dc9e12f649727": {
-      "seenAt": "2026-11-22T03:21:18.157Z",
-      "title": "조희대 대법원장 민주당 탄핵 추진…김민석, 한덕수 파기환송 강력 비판 - CBC뉴스",
-      "targetName": "김민석"
-    },
-    "2777b4e1040ca5688f8d12ddd60cd2768cb5a6550ef6ecdd74a998b480fa9ebf": {
-      "seenAt": "2026-11-22T03:21:18.852Z",
-      "title": "송영길 의원, 인천 12개 대학 총학생회와 치맥 간담회 - 국제뉴스",
-      "targetName": "송영길"
-    },
     "fa486e775957a2fe44e2a5a407b4c5708aeee4b5c15badb687387f1c7c42d291": {
       "seenAt": "2026-11-22T03:21:19.543Z",
       "title": "이준석 “사법부 정지 시도 민주당, 입법부 마비 ‘망상 법비’처럼 무너질 것” - 서울신문",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-24T20:01:17.295Z",
       "title": "President Trump's plan to lower beef prices draws sharp criticism from Missouri rancher, Kansas farm advocate - KSHB 41 Kansas City",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8d5816573dac1f9c48d9810035d87a0cd3eb3f0e1cbeaf1f31604b56561208be": {
+      "seenAt": "2026-11-24T20:11:29.814Z",
+      "title": "잇따르는 '조작 징계' 의혹… 한동훈, 효력정지 가처분 변수 되나 - 한국일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "5e7fd136101c9ce84bdd2ff847add607c89514036853bd318ac09a8add3d9665",
-    "title": "President Trump's plan to lower beef prices draws sharp criticism from Missouri rancher, Kansas farm advocate - KSHB 41 Kansas City",
+    "postId": "8d5816573dac1f9c48d9810035d87a0cd3eb3f0e1cbeaf1f31604b56561208be",
+    "title": "잇따르는 '조작 징계' 의혹… 한동훈, 효력정지 가처분 변수 되나 - 한국일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45476284817",
-    "sentAt": "2026-11-24T20:01:16.950Z"
+    "runId": "45478076549",
+    "sentAt": "2026-11-24T20:11:29.083Z"
   }
 }
