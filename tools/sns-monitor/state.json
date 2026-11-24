@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T04:01:17.462Z",
+  "lastCheckedAt": "2026-11-24T04:11:14.498Z",
   "seenPostIds": {
-    "67d733b54fbbc5470829f3774af65b51b98cba44899bdbcea881cd9afbe2f3aa": {
-      "seenAt": "2026-11-21T07:01:18.301Z",
-      "title": "강경숙 조국혁신당 의원, '마이 케이팝 스타' 참가자들 향한 극찬 - 뉴스핌",
-      "targetName": "조국"
-    },
-    "c136deb0c3c5d9b4facdc013f4051f817cd572756cfc80dcac16974cec0265f8": {
-      "seenAt": "2026-11-21T07:31:21.242Z",
-      "title": "[속보] 이재명 대통령 “수능 부정행위 신고 포상, 1건당 최소 1억” - 경기일보",
-      "targetName": "이재명"
-    },
-    "7c4bb47716d56ef706f88a07592084e82b522701e472b63d49a931c0d0b3c463": {
-      "seenAt": "2026-11-21T07:31:21.953Z",
-      "title": "내홍 속 취임 100일...김민석, '조희대 탄핵'으로 돌파구 찾나 - YTN",
-      "targetName": "김민석"
-    },
     "79729f422b7c6e0a9fd30345b88467c5b8d7c34428072c332f47ab9624f0517a": {
       "seenAt": "2026-11-21T07:51:16.951Z",
       "title": "이재명 대통령 “울산 방문해 시민들 만나…관광 많이 오시라” - 경상일보",
@@ -2515,14 +2500,62 @@
       "seenAt": "2026-11-24T04:01:19.978Z",
       "title": "김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\" - 뉴시스",
       "targetName": "정청래"
+    },
+    "1665c8db4a13767610fc1e824efe4db6e3b7fa75daf7ad6c7abe208319d11c86": {
+      "seenAt": "2026-11-24T04:11:16.025Z",
+      "title": "공수처, '한동훈 딸 수사 무마 의혹' 경찰 이첩 건 수사4부 배당 - 데일리안",
+      "targetName": "한동훈"
+    },
+    "be43e5767e8f8aedb35040083207b0f34d06a7895dd44dad499e35107d92aaf3": {
+      "seenAt": "2026-11-24T04:11:16.725Z",
+      "title": "이준석 \"강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻\" - 데일리안",
+      "targetName": "이준석"
+    },
+    "afb5ba6ea2f02a2a3ee575cfc227ca966eda91da85c0feb72f30b6779c2ef0ce": {
+      "seenAt": "2026-11-24T04:11:17.431Z",
+      "title": "이준석, 강금실 국정원장 지명 “뭔 뜬금포?”… 중국 지방정부 특별고문 경력 부각 - 천지일보",
+      "targetName": "이준석"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "85528f1ccdcc560db2284bf02521bbb502403c359c423dacc27b0b8eccb999e7",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당 \"조희대 탄핵 더 미룰 수 없어…與와 오늘 만남 예상\" - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqa1BnV1o5eHc2N2lGZlRTX09PQXprYUdMWE5aTTVQZjFvRmdEd0M2ZGZ2M1l1d1BhRFFrUVozMjRwelpRbHdIb2NBNmJaZUZOQ0lDcmd4TnRmeDZLTzhFbmVn?oc=5\" target=\"_blank\">조국혁신당 \"조희대 탄핵 더 미룰 수 없어…與와 오늘 만남 예상\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqa1BnV1o5eHc2N2lGZlRTX09PQXprYUdMWE5aTTVQZjFvRmdEd0M2ZGZ2M1l1d1BhRFFrUVozMjRwelpRbHdIb2NBNmJaZUZOQ0lDcmd4TnRmeDZLTzhFbmVn?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 01:34:23 GMT",
+        "source": "뉴시스",
+        "ageHours": 2.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "fbc2c9b20728ae3e106d2448e6da380b0238c987345382f9b6aa986f93de0c6d",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Fact Check: Donald Trump DID Post Meme Of Jensen Huang Holding Red Bra, Like His Failed Butler Assassination Photo - Yahoo",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzVGTjQ5R1pEbmdPaXZTWFBqaENqdUYyVHROY0ZrUUJ3SW5CSG9pTXVER2Nqbk1tS1ZpdXp6ZU9fTU4yaS1LMEpHeEpzTmJ4cDJzQ2syczlYTmh2ZW9nTGotdHhHdDljYnZYc1FFX05NSHBQVXE2VzJMS0FiaENuWld1WDl4VEJPMU1NN0FOMng?oc=5\" target=\"_blank\">Fact Check: Donald Trump DID Post Meme Of Jensen Huang Holding Red Bra, Like His Failed Butler Assassination Photo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzVGTjQ5R1pEbmdPaXZTWFBqaENqdUYyVHROY0ZrUUJ3SW5CSG9pTXVER2Nqbk1tS1ZpdXp6ZU9fTU4yaS1LMEpHeEpzTmJ4cDJzQ2syczlYTmh2ZW9nTGotdHhHdDljYnZYc1FFX05NSHBQVXE2VzJMS0FiaENuWld1WDl4VEJPMU1NN0FOMng?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 02:34:00 GMT",
+        "source": "Yahoo",
+        "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "17843b01191908b7f25152fc2e2486b8dc3a0574493f34600fd7ca545ec6a08d",
-    "title": "김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\" - 뉴시스",
+    "postId": "afb5ba6ea2f02a2a3ee575cfc227ca966eda91da85c0feb72f30b6779c2ef0ce",
+    "title": "이준석, 강금실 국정원장 지명 “뭔 뜬금포?”… 중국 지방정부 특별고문 경력 부각 - 천지일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45323423115",
-    "sentAt": "2026-11-24T04:01:19.664Z"
+    "runId": "45324589323",
+    "sentAt": "2026-11-24T04:11:17.077Z"
   }
 }

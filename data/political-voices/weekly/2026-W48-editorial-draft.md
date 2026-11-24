@@ -3680,3 +3680,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 공수처, '한동훈 딸 수사 무마 의혹' 경찰 이첩 건 수사4부 배당 - 데일리안
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 공수처, '한동훈 딸 수사 무마 의혹' 경찰 이첩 건 수사4부 배당
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE53X1cxOEhqMWdaVms2a0NxYlpfd3hGcERXTnlvc2ZnbjlnOFB0Vi1ZQ21DSWRuT2l4NmhBVDFFcWpLdUpCd0ozZjdfaklqbkt1d1hMWA?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻" - 데일리안
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiU0FVX3lxTE02ZEx1TW1LVFdGaTczOFo3VXdyUXZFclpCMEtYUEJIaTE5TVB1UGdFWjZtbWl0RkRud1NuYmRoWVZ4SjlJVWRHWnRNbkRYeFlqamdJ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 강금실 국정원장 지명 “뭔 뜬금포?”… 중국 지방정부 특별고문 경력 부각 - 천지일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 강금실 국정원장 지명 “뭔 뜬금포?”… 중국 지방정부 특별고문 경력 부각
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE1rOUJRbjNIUFh5Qk5zVnp0c3FCQ3l0LUpfTkxfdk9zVF9DdldTV0FNNFcxTjZrZ19lNTdmZVBJWTJhQlBlY3kya2tGT196cnFiTGNWUFo4VWh3OEpIMzJMZGxrTUREOVpQTkE?oc=5)
+
+---
+
