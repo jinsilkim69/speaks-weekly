@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T15:01:33.238Z",
+  "lastCheckedAt": "2026-11-24T15:11:14.571Z",
   "seenPostIds": {
     "4f8e2ac874545b300604aee81d8b34b655a03fc95c3787bd3c6c8c00bfc623b5": {
       "seenAt": "2026-11-22T01:41:15.575Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T14:41:24.631Z",
       "title": "Trump Claims Victory Over Transgender Policies in New Post - PinkNews",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "13aec639d8fc00998c962132893b8e98f7aae352d880f2b79976725fa9218d79": {
+      "seenAt": "2026-11-24T15:11:15.717Z",
+      "title": "이준석 “장동혁, 부정선거 붙잡고 버텨…한동훈식 검찰정치도 위험” - 중앙일보",
+      "targetName": "이준석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "dcc21af373490d10a7771607463d5622636119cd59f43a8f55467666a199663d",
-    "title": "Trump Claims Victory Over Transgender Policies in New Post - PinkNews",
+    "postId": "13aec639d8fc00998c962132893b8e98f7aae352d880f2b79976725fa9218d79",
+    "title": "이준석 “장동혁, 부정선거 붙잡고 버텨…한동훈식 검찰정치도 위험” - 중앙일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45416829431",
-    "sentAt": "2026-11-24T14:41:24.135Z"
+    "runId": "45422505298",
+    "sentAt": "2026-11-24T15:11:15.184Z"
   }
 }
