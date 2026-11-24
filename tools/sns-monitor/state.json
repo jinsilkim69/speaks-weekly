@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T22:11:16.086Z",
+  "lastCheckedAt": "2026-11-24T22:21:57.504Z",
   "seenPostIds": {
     "fcefe111fe48397c8f18b9b4fee3f18d5508492d3f98f4d587c697fb1817be12": {
       "seenAt": "2026-11-22T03:51:16.355Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T21:41:29.964Z",
       "title": "Donald Trump’s Eyebrow-Raising Gift To Every Member Of His Cabinet Revealed - HuffPost",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f27a7b8dc0b503903114e5114644b52be64e53079d25cdb4a0d818cd428c67fb": {
+      "seenAt": "2026-11-24T22:21:59.151Z",
+      "title": "김어준의 겸손은힘들다 뉴스공장 2026년 11월 25일 수요일 [홍사훈X주진우X양부남X신장식, 백년위원회, 박지원X이세미X한가선X김대호X김승현, 영화공장(여전히 찬란하게)] - Howl.Link",
+      "targetName": "신장식"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "cea36f3a4979277611ac08ae2f76363d23799e360ba38103554eb3f0e52db30b",
-    "title": "Donald Trump’s Eyebrow-Raising Gift To Every Member Of His Cabinet Revealed - HuffPost",
+    "postId": "f27a7b8dc0b503903114e5114644b52be64e53079d25cdb4a0d818cd428c67fb",
+    "title": "김어준의 겸손은힘들다 뉴스공장 2026년 11월 25일 수요일 [홍사훈X주진우X양부남X신장식, 백년위원회, 박지원X이세미X한가선X김대호X김승현, 영화공장(여전히 찬란하게)] - Howl.Link",
     "bot": "jongsuk_pol_bot",
-    "runId": "45493558103",
-    "sentAt": "2026-11-24T21:41:29.242Z"
+    "runId": "45500086730",
+    "sentAt": "2026-11-24T22:21:58.658Z"
   }
 }
