@@ -3485,3 +3485,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석 100일에 SNS 연달아 올린 정청래…"징계 앞에 평등해야" - 뉴스1
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 100일에 SNS 연달아 올린 정청래…"징계 앞에 평등해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZdkZlOS1jSkh3bU04RkxBRldKSURTLUpEa3ZCNDZERHp2TmpMNVE4cXg0T19vc2FfOGVLYXBwUzdBQzZEU1dka0RlTUFtZi1UeXhJTU1kQ0Z1QQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 "결자해지" 압박…출구없는 與신천지 갈등 - 연합뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 "결자해지" 압박…출구없는 與신천지 갈등
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTlBkSnBxNkhscEpZRno5SjZmcTFXM2lCRVlwMlRBVVlWbVJoSnJPX3RKOVo4Sy1OYUtaaWx2ekJ6MGs1cWhaeDExdU9vT3R6Y3ZxMU5kVHRCTTDSAWBBVV95cUxQMjQ0OVc0NEVWVXZMSnhpYTNFTHRaOEh2RmdQVEhsczdIUVlCYWJwNjZKUmlNc1NiZ1V6Y1Frc2Zqa3ctaXk3cXhVNEg3UVltaXM0VU9TQ1ZONmo4UjIybnM?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 박지원, '취임 100일' 김민석에게 "100점 만점에 60점" - MBC 뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원, '취임 100일' 김민석에게 "100점 만점에 60점"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFByZzlHdXVpRkdVM21mVllCQ2h6NnJTWDltQW9LV2wwN19VTHIzQ1FHaW9YT1F0cm9WSXllZXZIRTJwRkFzdnhtX2lOUTBtNW4xSV9LMkp0RzNTWEllMVRiZndoa3BNY0E1QTNqZ0tqaWRnQTZvU2JGNdIBeEFVX3lxTE1JcTJDcy1sMkJ2VlI4cEJNNkp1RzZFUWJMRHQ5NGlfR0VxajZmU1M0QVNTTjdiSDFqbTFGUy1OZEh1cEdFWGctYmMyUWRsNVpDdE1vWFJVNGVITk1vM0g0SlNQcjBsQjdXNXVveFdRUHR4U3FTdEZtSA?oc=5)
+
+---
+

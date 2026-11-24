@@ -1851,5 +1851,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "43167d17037f8307b3c088e6bdf59d968789aeff8383397dccf48c71532091b1",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\" - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZdkZlOS1jSkh3bU04RkxBRldKSURTLUpEa3ZCNDZERHp2TmpMNVE4cXg0T19vc2FfOGVLYXBwUzdBQzZEU1dka0RlTUFtZi1UeXhJTU1kQ0Z1QQ?oc=5\" target=\"_blank\">김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZdkZlOS1jSkh3bU04RkxBRldKSURTLUpEa3ZCNDZERHp2TmpMNVE4cXg0T19vc2FfOGVLYXBwUzdBQzZEU1dka0RlTUFtZi1UeXhJTU1kQ0Z1QQ?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 02:57:38 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "5befce003097613db0a43f7b902659389a0aea14e6eb388b04d63cff80325e6e",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등 - 연합뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTlBkSnBxNkhscEpZRno5SjZmcTFXM2lCRVlwMlRBVVlWbVJoSnJPX3RKOVo4Sy1OYUtaaWx2ekJ6MGs1cWhaeDExdU9vT3R6Y3ZxMU5kVHRCTTDSAWBBVV95cUxQMjQ0OVc0NEVWVXZMSnhpYTNFTHRaOEh2RmdQVEhsczdIUVlCYWJwNjZKUmlNc1NiZ1V6Y1Frc2Zqa3ctaXk3cXhVNEg3UVltaXM0VU9TQ1ZONmo4UjIybnM?oc=5\" target=\"_blank\">정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTlBkSnBxNkhscEpZRno5SjZmcTFXM2lCRVlwMlRBVVlWbVJoSnJPX3RKOVo4Sy1OYUtaaWx2ekJ6MGs1cWhaeDExdU9vT3R6Y3ZxMU5kVHRCTTDSAWBBVV95cUxQMjQ0OVc0NEVWVXZMSnhpYTNFTHRaOEh2RmdQVEhsczdIUVlCYWJwNjZKUmlNc1NiZ1V6Y1Frc2Zqa3ctaXk3cXhVNEg3UVltaXM0VU9TQ1ZONmo4UjIybnM?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 03:09:58 GMT",
+    "source": "연합뉴스",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "310f0a3c4a231e6e0f0775913bc74e2fc7d88e8cb7851f9933526229a1a19bda",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "박지원, '취임 100일' 김민석에게 \"100점 만점에 60점\" - MBC 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFByZzlHdXVpRkdVM21mVllCQ2h6NnJTWDltQW9LV2wwN19VTHIzQ1FHaW9YT1F0cm9WSXllZXZIRTJwRkFzdnhtX2lOUTBtNW4xSV9LMkp0RzNTWEllMVRiZndoa3BNY0E1QTNqZ0tqaWRnQTZvU2JGNdIBeEFVX3lxTE1JcTJDcy1sMkJ2VlI4cEJNNkp1RzZFUWJMRHQ5NGlfR0VxajZmU1M0QVNTTjdiSDFqbTFGUy1OZEh1cEdFWGctYmMyUWRsNVpDdE1vWFJVNGVITk1vM0g0SlNQcjBsQjdXNXVveFdRUHR4U3FTdEZtSA?oc=5\" target=\"_blank\">박지원, '취임 100일' 김민석에게 \"100점 만점에 60점\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByZzlHdXVpRkdVM21mVllCQ2h6NnJTWDltQW9LV2wwN19VTHIzQ1FHaW9YT1F0cm9WSXllZXZIRTJwRkFzdnhtX2lOUTBtNW4xSV9LMkp0RzNTWEllMVRiZndoa3BNY0E1QTNqZ0tqaWRnQTZvU2JGNdIBeEFVX3lxTE1JcTJDcy1sMkJ2VlI4cEJNNkp1RzZFUWJMRHQ5NGlfR0VxajZmU1M0QVNTTjdiSDFqbTFGUy1OZEh1cEdFWGctYmMyUWRsNVpDdE1vWFJVNGVITk1vM0g0SlNQcjBsQjdXNXVveFdRUHR4U3FTdEZtSA?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 00:01:20 GMT",
+    "source": "MBC 뉴스",
+    "ageHours": 3.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 박지원, '취임 100일' 김민석에게 \"100점 만점에 60점\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

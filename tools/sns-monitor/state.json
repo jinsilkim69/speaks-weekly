@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T03:11:14.855Z",
+  "lastCheckedAt": "2026-11-24T03:21:15.273Z",
   "seenPostIds": {
-    "ef0080e6d24c4c0f32a323b7943e7051be2abc5e037e5b3f1a59c77b84771702": {
-      "seenAt": "2026-11-21T03:21:20.545Z",
-      "title": "박민영 ““한동훈계 정리와 세대교체 없으면 당 재건 불가”…통합론·원로 행보 정면 비판 - 파이낸스투데이",
-      "targetName": "한동훈"
-    },
-    "ebd50bac9cc3e7aa4685ff1a01f3cf65bd6673fa3bd04039d9283f6879684cb5": {
-      "seenAt": "2026-11-21T03:31:17.983Z",
-      "title": "한동훈 \"대법원 판결은 '12.3 계엄=내란' 밝힌 것\"…與·장동혁 동시 겨냥 - 프레시안",
-      "targetName": "한동훈"
-    },
-    "a8e044e0da093363834d5948c8659284343b4504aaff9d9142723d1b3c89411a": {
-      "seenAt": "2026-11-21T03:31:18.665Z",
-      "title": "[칼럼] “당론 아니라던 정청래, 이제 와서 탄핵하라”…추미애도 뒤늦게 “일찍 탄핵했어야”, 그때는 머했을까?:내외신문 - 내외신문",
-      "targetName": "정청래"
-    },
     "73bd1c3117a81bed9bc96f4f1b8014addafbc2263366a1919f61ada8441460c3": {
       "seenAt": "2026-11-21T03:33:41.309Z",
       "title": "한동훈이 김민석을 ‘도요토미 히데요시’라 부른 이유 - www.dt.co.kr",
@@ -2515,20 +2500,35 @@
       "seenAt": "2026-11-24T03:11:17.218Z",
       "title": "김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\" - 뉴스1",
       "targetName": "김민석"
+    },
+    "43167d17037f8307b3c088e6bdf59d968789aeff8383397dccf48c71532091b1": {
+      "seenAt": "2026-11-24T03:21:16.541Z",
+      "title": "김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\" - 뉴스1",
+      "targetName": "정청래"
+    },
+    "5befce003097613db0a43f7b902659389a0aea14e6eb388b04d63cff80325e6e": {
+      "seenAt": "2026-11-24T03:21:17.252Z",
+      "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등 - 연합뉴스",
+      "targetName": "김민석"
+    },
+    "310f0a3c4a231e6e0f0775913bc74e2fc7d88e8cb7851f9933526229a1a19bda": {
+      "seenAt": "2026-11-24T03:21:17.964Z",
+      "title": "박지원, '취임 100일' 김민석에게 \"100점 만점에 60점\" - MBC 뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "43167d17037f8307b3c088e6bdf59d968789aeff8383397dccf48c71532091b1",
+        "id": "611bcc10ef3ca30842384bb7296073ff8627a7bdbf26b793b5f23f90ee8faf6f",
         "targetId": "jung_cheongrae",
         "targetName": "정청래",
         "targetTitle": "국회 법제사법위원장",
-        "title": "김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\" - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZdkZlOS1jSkh3bU04RkxBRldKSURTLUpEa3ZCNDZERHp2TmpMNVE4cXg0T19vc2FfOGVLYXBwUzdBQzZEU1dka0RlTUFtZi1UeXhJTU1kQ0Z1QQ?oc=5\" target=\"_blank\">김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZdkZlOS1jSkh3bU04RkxBRldKSURTLUpEa3ZCNDZERHp2TmpMNVE4cXg0T19vc2FfOGVLYXBwUzdBQzZEU1dka0RlTUFtZi1UeXhJTU1kQ0Z1QQ?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 02:57:38 GMT",
-        "source": "뉴스1",
+        "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등 - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTlBkSnBxNkhscEpZRno5SjZmcTFXM2lCRVlwMlRBVVlWbVJoSnJPX3RKOVo4Sy1OYUtaaWx2ekJ6MGs1cWhaeDExdU9vT3R6Y3ZxMU5kVHRCTTDSAWBBVV95cUxQMjQ0OVc0NEVWVXZMSnhpYTNFTHRaOEh2RmdQVEhsczdIUVlCYWJwNjZKUmlNc1NiZ1V6Y1Frc2Zqa3ctaXk3cXhVNEg3UVltaXM0VU9TQ1ZONmo4UjIybnM?oc=5\" target=\"_blank\">정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTlBkSnBxNkhscEpZRno5SjZmcTFXM2lCRVlwMlRBVVlWbVJoSnJPX3RKOVo4Sy1OYUtaaWx2ekJ6MGs1cWhaeDExdU9vT3R6Y3ZxMU5kVHRCTTDSAWBBVV95cUxQMjQ0OVc0NEVWVXZMSnhpYTNFTHRaOEh2RmdQVEhsczdIUVlCYWJwNjZKUmlNc1NiZ1V6Y1Frc2Zqa3ctaXk3cXhVNEg3UVltaXM0VU9TQ1ZONmo4UjIybnM?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 03:09:58 GMT",
+        "source": "연합뉴스",
         "ageHours": 0.2
       },
       "delivered": [],
@@ -2536,10 +2536,10 @@
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "dec56dc5d6f6ca9f61ecd054e2b4ee54412b6870dada14359b848dc2df4432ba",
-    "title": "김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\" - 뉴스1",
+    "postId": "310f0a3c4a231e6e0f0775913bc74e2fc7d88e8cb7851f9933526229a1a19bda",
+    "title": "박지원, '취임 100일' 김민석에게 \"100점 만점에 60점\" - MBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45317690995",
-    "sentAt": "2026-11-24T03:11:16.910Z"
+    "runId": "45318883754",
+    "sentAt": "2026-11-24T03:21:17.607Z"
   }
 }
