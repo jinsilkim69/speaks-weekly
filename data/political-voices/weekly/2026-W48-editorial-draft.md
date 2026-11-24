@@ -4239,3 +4239,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, '취임 100일' 김민석에 포문‥"당 초토화시켜" - MBC 뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, '취임 100일' 김민석에 포문‥"당 초토화시켜"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE41TkFUU3FkSmFCZ1g0ZGJZTm9tSjVkR3BoZDI5MTEzMVFXWVEzQnFmcXdtaThwZEIwVEk4Um5MVXZnODMyMGlSdWJVRUZ3MlNPWW96SWx6ZWVIVUUyU1FrX2xpX3Q1c19PUHQzZGtJMWQ4OVRLbk1HUtIBeEFVX3lxTE5tUDF3VUVlVERZZE83ODlJR0JhZjJ1Q2pnVXZCUkV5SmhuUnFCTzJscl96ZEVFOUt0YTI2TFg5NUlXX2VGcmR2YUYyQ0p2bVRRbDN4WmY0ZUtWV01jMXZQLXBtaWI5aUlPczFlYTNXdzNhYmdSZElacQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, '취임 100일' 김민석에 포문‥"당 초토화시켜" - MBC 뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, '취임 100일' 김민석에 포문‥"당 초토화시켜"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE41TkFUU3FkSmFCZ1g0ZGJZTm9tSjVkR3BoZDI5MTEzMVFXWVEzQnFmcXdtaThwZEIwVEk4Um5MVXZnODMyMGlSdWJVRUZ3MlNPWW96SWx6ZWVIVUUyU1FrX2xpX3Q1c19PUHQzZGtJMWQ4OVRLbk1HUtIBeEFVX3lxTE5tUDF3VUVlVERZZE83ODlJR0JhZjJ1Q2pnVXZCUkV5SmhuUnFCTzJscl96ZEVFOUt0YTI2TFg5NUlXX2VGcmR2YUYyQ0p2bVRRbDN4WmY0ZUtWV01jMXZQLXBtaWI5aUlPczFlYTNXdzNhYmdSZElacQ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 김정철 "한동훈, 이준석 징계랑 똑같아…장동혁 형사처벌 가능" - 조세일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김정철 "한동훈, 이준석 징계랑 똑같아…장동혁 형사처벌 가능"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE83Vk1xamdraGUyRDY2ek8yNkRfRTVYS0twenhlamIyY3I0MnpLMzk1c2FLd2JXMDhjakFYX0RMbnlmMjdUQnJNNnFkeEFaajRtVVNTdHZBVnZpZmFJQ3oxMExtdjk4aDA0UVd3Q3p5VQ?oc=5)
+
+---
+
