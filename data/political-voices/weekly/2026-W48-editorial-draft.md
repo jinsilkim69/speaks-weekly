@@ -4330,3 +4330,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “장동혁, 윤리위 배후 조종 인정한 셈” vs 張 “법리로 싸우면 될 일” - 매일경제
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “장동혁, 윤리위 배후 조종 인정한 셈” vs 張 “법리로 싸우면 될 일”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PLXhjZ0VybWxNODJaZ0E2eWNQSndjMjBIaHVJMk11aWtEZEpySTB3YjBRWGc1MGYyeUhPTW1XUG1nRzc4ZjNyQVRaVUhKZVEyY05DR2ln?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, '100일' 김민석 겨냥 SNS 폭탄…"반분신 의혹 해당행위, 징계해야" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, '100일' 김민석 겨냥 SNS 폭탄…"반분신 의혹 해당행위, 징계해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTFBCM2JjMUJrUXdVUUZ5cVlzZDNPc292UWNoY2t3cW5WcGwzNVEzdmQ4TGlxeHJoRXIxY2xnTVBCMGR3VC1YaHN3Q0RFc3ZQV3dnU1BST1VWZ2dISExSVUJqM0xsRlNnOVJuUm4xa1BRckJsVVJZQ2lnRU5B0gF_QVVfeXFMTW94dnc0TjBZV0tvUmN0X1E2Z1RUbnFLaWZWamNrQ1p0RjU2cmhfdDB3MlV0d1RHdUxLZS1fek9hZ1FSQ1FLTHNJOUU1VmdqcjhRc09TV24ySE04SVBDd0MwS1U0anZDTDVEUHJtODBVLTcyWDBKVDFyakpiSWNjVQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, '100일' 김민석 겨냥 SNS 폭탄…"반분신 의혹 해당행위, 징계해야" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, '100일' 김민석 겨냥 SNS 폭탄…"반분신 의혹 해당행위, 징계해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTFBCM2JjMUJrUXdVUUZ5cVlzZDNPc292UWNoY2t3cW5WcGwzNVEzdmQ4TGlxeHJoRXIxY2xnTVBCMGR3VC1YaHN3Q0RFc3ZQV3dnU1BST1VWZ2dISExSVUJqM0xsRlNnOVJuUm4xa1BRckJsVVJZQ2lnRU5B0gF_QVVfeXFMTW94dnc0TjBZV0tvUmN0X1E2Z1RUbnFLaWZWamNrQ1p0RjU2cmhfdDB3MlV0d1RHdUxLZS1fek9hZ1FSQ1FLTHNJOUU1VmdqcjhRc09TV24ySE04SVBDd0MwS1U0anZDTDVEUHJtODBVLTcyWDBKVDFyakpiSWNjVQ?oc=5)
+
+---
+

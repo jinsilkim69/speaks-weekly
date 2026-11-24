@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T07:11:16.344Z",
+  "lastCheckedAt": "2026-11-24T07:21:20.940Z",
   "seenPostIds": {
-    "7c6aa6834db1a4aaf88e621456027c90602a81884719017fa1bee6960ee0adbd": {
-      "seenAt": "2026-11-21T16:21:22.466Z",
-      "title": "한동훈 \"12월 3일 조희대 탄핵 꼭 하라…이젠 민주당이 내란 정당\" | - 주간조선",
-      "targetName": "한동훈"
-    },
     "28ea049f42a82057dc35189fed18e10009a77653e7691bf2de729088d58a4fd3": {
       "seenAt": "2026-11-21T16:51:17.979Z",
       "title": "김민석 “민주당, 청년과 어떻게 함께할지 고민”…청년층 소통 강조 - 강원일보",
@@ -2505,14 +2500,46 @@
       "seenAt": "2026-11-24T07:11:17.899Z",
       "title": "친한계 \"한동훈 제명은 조작 징계\"…장동혁 사퇴 압박 - 경북도민일보",
       "targetName": "한동훈"
+    },
+    "578840047ed07eeb56117e5bd2acbc0c982d81b1d4cb678c49902292b99bde46": {
+      "seenAt": "2026-11-24T07:21:22.470Z",
+      "title": "한동훈 “장동혁, 윤리위 배후 조종 인정한 셈” vs 張 “법리로 싸우면 될 일” - 매일경제",
+      "targetName": "한동훈"
+    },
+    "d7d79fa5c1b16e726ffdc8d5b882dee1ef24b55ca07d624103a80f57d568aac9": {
+      "seenAt": "2026-11-24T07:21:23.175Z",
+      "title": "정청래, '100일' 김민석 겨냥 SNS 폭탄…\"반분신 의혹 해당행위, 징계해야\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
+    },
+    "718fc9a07bca8f22f008f751b40b273da0fcf7c6d9dfa7ed92c53d3194fb2b84": {
+      "seenAt": "2026-11-24T07:21:23.840Z",
+      "title": "정청래, '100일' 김민석 겨냥 SNS 폭탄…\"반분신 의혹 해당행위, 징계해야\" - 머니투데이 - 머니투데이",
+      "targetName": "정청래"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "064b959104170c91edca605301e6b329e261778a9bb8b18b367ee805395b3e63",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석 “장동혁으로는 선거 쉽지 않아, 한동훈식 검찰 정치는 위험” - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zS2g3cHN2bTFZZkctckFKczVUX21QV2dBMnpZTWhrbGxza3AwNVdEZ083bVd2YXdiUmgyYXB0c0RkWFJJVnpJdXFYN213VnowYkNDcVRB?oc=5\" target=\"_blank\">이준석 “장동혁으로는 선거 쉽지 않아, 한동훈식 검찰 정치는 위험”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zS2g3cHN2bTFZZkctckFKczVUX21QV2dBMnpZTWhrbGxza3AwNVdEZ083bVd2YXdiUmgyYXB0c0RkWFJJVnpJdXFYN213VnowYkNDcVRB?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 07:16:46 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "b5786ddd9ce0c1c80237dc9587a75e85276825aba6748389a4bfdbc91edaba81",
-    "title": "친한계 \"한동훈 제명은 조작 징계\"…장동혁 사퇴 압박 - 경북도민일보",
+    "postId": "718fc9a07bca8f22f008f751b40b273da0fcf7c6d9dfa7ed92c53d3194fb2b84",
+    "title": "정청래, '100일' 김민석 겨냥 SNS 폭탄…\"반분신 의혹 해당행위, 징계해야\" - 머니투데이 - 머니투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45346015824",
-    "sentAt": "2026-11-24T07:11:17.261Z"
+    "runId": "45347306750",
+    "sentAt": "2026-11-24T07:21:23.508Z"
   }
 }
