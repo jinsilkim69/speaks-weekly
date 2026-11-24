@@ -951,5 +951,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "06b0bc5f25af2f4c1232518fd175f4d1639d9222f1447a4767abcbe5c30a7e5d",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump tells Army to halt detonation for now of unstable explosives in Iowa - CBS News",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDhwU1J5OEVQQnFaOE8zWFdScmNRSlRNOWp3eTVkQkRId29qdV9COVZldWZucnBZNFN5RjVsWVRybUw3b1NQZXcyNzFIZHU2WXdqRUEwZVlSZ1Q3clpKUU83ZW1XUDdkVVBod1Mwdk1GSTlpWnMxZHBTZ2xmMUFQSU9RZVQzMUpKRGRr?oc=5\" target=\"_blank\">Trump tells Army to halt detonation for now of unstable explosives in Iowa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDhwU1J5OEVQQnFaOE8zWFdScmNRSlRNOWp3eTVkQkRId29qdV9COVZldWZucnBZNFN5RjVsWVRybUw3b1NQZXcyNzFIZHU2WXdqRUEwZVlSZ1Q3clpKUU83ZW1XUDdkVVBod1Mwdk1GSTlpWnMxZHBTZ2xmMUFQSU9RZVQzMUpKRGRr?oc=5",
+    "pubDate": "Mon, 23 Nov 2026 23:51:58 GMT",
+    "source": "CBS News",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump tells Army to halt detonation for now of unstable explosives in Iowa",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

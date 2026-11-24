@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T00:01:14.067Z",
+  "lastCheckedAt": "2026-11-24T00:11:13.647Z",
   "seenPostIds": {
     "cf2c02925eb5bd43cfa9932824265626830cedc7da2d7bfd465e5dca99a409b2": {
       "seenAt": "2026-11-20T20:21:21.216Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-23T23:41:13.856Z",
       "title": "“Sex Sells” and a Red Bra: Trump’s Vulgar Response to Jensen Huang’s Return - Mother Jones",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "06b0bc5f25af2f4c1232518fd175f4d1639d9222f1447a4767abcbe5c30a7e5d": {
+      "seenAt": "2026-11-24T00:11:14.659Z",
+      "title": "Trump tells Army to halt detonation for now of unstable explosives in Iowa - CBS News",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3b2a753640f312ebed9352ab89d567e6ed8e323287498a225396bb81417dac05",
-    "title": "“Sex Sells” and a Red Bra: Trump’s Vulgar Response to Jensen Huang’s Return - Mother Jones",
+    "postId": "06b0bc5f25af2f4c1232518fd175f4d1639d9222f1447a4767abcbe5c30a7e5d",
+    "title": "Trump tells Army to halt detonation for now of unstable explosives in Iowa - CBS News",
     "bot": "jongsuk_pol_bot",
-    "runId": "45290914975",
-    "sentAt": "2026-11-23T23:41:13.269Z"
+    "runId": "45295048394",
+    "sentAt": "2026-11-24T00:11:14.156Z"
   }
 }
