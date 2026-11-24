@@ -198,5 +198,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c9dae0b6acc4a21534d60efad867234ae94565ed98e34e5881700152480e993c",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qVkVTNkR4SGpJMFJNNWptMms0bEx6aHgzTTBKTDdtT3ljQ1lhOGhHQUtrck51ZFVsQWhGVkJkZDJydmdxS1ZYb0xSX3ZDUmpYaENUUVpJXzcxLVdVckE?oc=5\" target=\"_blank\">험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qVkVTNkR4SGpJMFJNNWptMms0bEx6aHgzTTBKTDdtT3ljQ1lhOGhHQUtrck51ZFVsQWhGVkJkZDJydmdxS1ZYb0xSX3ZDUmpYaENUUVpJXzcxLVdVckE?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 14:35:00 GMT",
+    "source": "YTN",
+    "ageHours": 2.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "a7c2939c9cd22cd17a1159d677e6e85d923ce8b620e8660fef2b263c26def801",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당 전남광주특별시당, 목포서 조희대 대법원장 탄핵 촉구… “국회, 즉각 나서야” - 뉴스클레임",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8wU0EwdlpnZ1BDMkJSZUFaNnQ5T1N6aGFGSE92X0VNNGl2YmhHTVJJQnIxdENNbzJ1YWJLWUY4M3ZwdWxfbHJDbWRTVVM2SVd0WkZyaDF5ZWpCc1pvRTgzWHdPcDRxcThMNFJ0bXBqVTTSAXRBVV95cUxOSE9obzBVSlFQSW13WXRvT3kwZ2ZQVVFsd3ZyblFYcXowZEgzaUtoS3dVYUdCVEhONk8zQkswWjdRdXZ0dUJBSUZfU19CdEpUeWdvcmNTV1Y2bE5VaG5EY3hSbkxoTWNFZGxISVRXUF9uY01HSg?oc=5\" target=\"_blank\">조국혁신당 전남광주특별시당, 목포서 조희대 대법원장 탄핵 촉구… “국회, 즉각 나서야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스클레임</font>",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wU0EwdlpnZ1BDMkJSZUFaNnQ5T1N6aGFGSE92X0VNNGl2YmhHTVJJQnIxdENNbzJ1YWJLWUY4M3ZwdWxfbHJDbWRTVVM2SVd0WkZyaDF5ZWpCc1pvRTgzWHdPcDRxcThMNFJ0bXBqVTTSAXRBVV95cUxOSE9obzBVSlFQSW13WXRvT3kwZ2ZQVVFsd3ZyblFYcXowZEgzaUtoS3dVYUdCVEhONk8zQkswWjdRdXZ0dUJBSUZfU19CdEpUeWdvcmNTV1Y2bE5VaG5EY3hSbkxoTWNFZGxISVRXUF9uY01HSg?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 15:00:00 GMT",
+    "source": "뉴스클레임",
+    "ageHours": 2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당 전남광주특별시당, 목포서 조희대 대법원장 탄핵 촉구… “국회, 즉각 나서야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

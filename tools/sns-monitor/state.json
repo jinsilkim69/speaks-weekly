@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T16:51:26.611Z",
+  "lastCheckedAt": "2026-11-24T17:01:15.468Z",
   "seenPostIds": {
-    "0dd228907a8b14eac9b24959ba62c64e41f25812fe804d550617c142dcb503f4": {
-      "seenAt": "2026-11-22T02:31:14.972Z",
-      "title": "이준석 “사법부 정지 시도 민주당, 입법부 마비 ‘망상 법비’처럼 무너질 것” - 서울신문",
-      "targetName": "이준석"
-    },
     "9c0e2a4d60a84b0055457895bd394505fed348b3021a3b047432ae8526086906": {
       "seenAt": "2026-11-22T02:31:15.727Z",
       "title": "조국 “당명 개정 결정할 시점”…혁신당, 개명 절차 돌입[이런정치] - 헤럴드경제",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-24T16:51:28.621Z",
       "title": "Trump shares meme of Jensen Huang raising red bra in air - The Hill",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "c9dae0b6acc4a21534d60efad867234ae94565ed98e34e5881700152480e993c": {
+      "seenAt": "2026-11-24T17:01:17.193Z",
+      "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
+      "targetName": "김민석"
+    },
+    "a7c2939c9cd22cd17a1159d677e6e85d923ce8b620e8660fef2b263c26def801": {
+      "seenAt": "2026-11-24T17:01:17.851Z",
+      "title": "조국혁신당 전남광주특별시당, 목포서 조희대 대법원장 탄핵 촉구… “국회, 즉각 나서야” - 뉴스클레임",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3bf9245ce2e8171fd5c73eead6c113a21935cb9abbf1ed5e363a36a991fb776f",
-    "title": "Trump shares meme of Jensen Huang raising red bra in air - The Hill",
+    "postId": "a7c2939c9cd22cd17a1159d677e6e85d923ce8b620e8660fef2b263c26def801",
+    "title": "조국혁신당 전남광주특별시당, 목포서 조희대 대법원장 탄핵 촉구… “국회, 즉각 나서야” - 뉴스클레임",
     "bot": "jongsuk_pol_bot",
-    "runId": "45441885200",
-    "sentAt": "2026-11-24T16:51:27.890Z"
+    "runId": "45443778873",
+    "sentAt": "2026-11-24T17:01:17.498Z"
   }
 }
