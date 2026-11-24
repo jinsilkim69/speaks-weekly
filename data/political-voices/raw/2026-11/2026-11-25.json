@@ -98,5 +98,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f3d35550a722e63ff162c7a027119d5119c45fc1e838b73404e5f784ca4bfd6f",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5OckVRMFVJWTN6QXdoUURIV2lDNVVBemdiZzBILVloakdKTEpqYUsta2YteExJUVNnWFVHTklyVHhvVTZiWk5CZFhSX1lWS05GWU5nR2V1VWo4R2RSMzlLQU9leTFTcTJRcGhFT0FzWnNBSU1Zdmc?oc=5\" target=\"_blank\">험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OckVRMFVJWTN6QXdoUURIV2lDNVVBemdiZzBILVloakdKTEpqYUsta2YteExJUVNnWFVHTklyVHhvVTZiWk5CZFhSX1lWS05GWU5nR2V1VWo4R2RSMzlLQU9leTFTcTJRcGhFT0FzWnNBSU1Zdmc?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 14:35:00 GMT",
+    "source": "YTN",
+    "ageHours": 1.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

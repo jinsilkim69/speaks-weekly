@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T16:01:16.443Z",
+  "lastCheckedAt": "2026-11-24T16:11:14.561Z",
   "seenPostIds": {
     "23c13615976b5232e5d34c500a86231b70566ec7ec51961d300994125dcbf91c": {
       "seenAt": "2026-11-22T02:11:23.593Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T15:31:17.524Z",
       "title": "구호 외치는 조국혁신당 - 뉴스핌",
       "targetName": "조국"
+    },
+    "f3d35550a722e63ff162c7a027119d5119c45fc1e838b73404e5f784ca4bfd6f": {
+      "seenAt": "2026-11-24T16:11:15.765Z",
+      "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "fb75464accfc775ff2b589fadb8268e21c2cd639a31bf656c367ad105066bba3",
-    "title": "구호 외치는 조국혁신당 - 뉴스핌",
+    "postId": "f3d35550a722e63ff162c7a027119d5119c45fc1e838b73404e5f784ca4bfd6f",
+    "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
     "bot": "jongsuk_pol_bot",
-    "runId": "45426408924",
-    "sentAt": "2026-11-24T15:31:17.187Z"
+    "runId": "45434123217",
+    "sentAt": "2026-11-24T16:11:15.205Z"
   }
 }
