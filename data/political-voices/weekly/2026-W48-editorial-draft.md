@@ -5435,3 +5435,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Media GC Earned $2.8 Million In Comp In 2025 - Law360
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Media GC Earned $2.8 Million In Comp In 2025
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tQVVYeUNWZDUyNXNnSzR2a3ZaOTZLR3duZ0QwbE1sVzlVUFRlbHZqdnZ3NHplTUJYQWdBRmFOeXlxZkxGdURQLTFydHRRaXktQkg5STJ5a2M2ZEl5SWfSAV5BVV95cUxPLUFVWHlDVmQ1MjVzZ0s0dmt2Wjk2S0d3bmdEMGxNbFc5VVBUZWx2anZ2dzR6ZU1CWEFnQUZhTnl5cWZMRnVEUC0xcnR0UWl5LUJIOUkyeWtjNmRJeUln?oc=5)
+
+---
+

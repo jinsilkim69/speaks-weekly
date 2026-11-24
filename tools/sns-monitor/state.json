@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T22:41:19.041Z",
+  "lastCheckedAt": "2026-11-24T22:51:15.148Z",
   "seenPostIds": {
-    "53f34e4fd6d3686d2ac0287431b23dd383d74bc79cd58bce540216fc24be3e30": {
-      "seenAt": "2026-11-22T04:01:15.792Z",
-      "title": "President Trump Posts 30 Summit Photos with Xi, Putin - 조선일보",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "7e5e564e2c5e75b81e0421686155351ea92b067a934daa6147587ed0a3ae37dd": {
-      "seenAt": "2026-11-22T04:11:16.412Z",
-      "title": "한동훈 \"與, 대법원장 탄핵...모두 감옥 갈 것\" - 더팩트",
-      "targetName": "한동훈"
-    },
     "97a1defc38166f7f4ff51ac54124e74526c2569e0f1309f47ce4d372baf6f923": {
       "seenAt": "2026-11-22T04:11:17.103Z",
       "title": "조국, 조국혁신당 당명 개정 제안 \"일부는 우리 당 조롱하기도\" - 대구MBC",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-24T22:41:21.576Z",
       "title": "Court Orders Trump Media to Hand Over Truth Social Records - The Intercept",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8e6b16c2959f7911c89b83ce15013428bcb23ca50de62160b029e8c9f7fb9ac7": {
+      "seenAt": "2026-11-24T22:51:16.359Z",
+      "title": "Trump Media GC Earned $2.8 Million In Comp In 2025 - Law360",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "9d60aff39cc35679153216038fa7bedebb29e9ddc83d6ea6e422f0eef8562000",
-    "title": "Court Orders Trump Media to Hand Over Truth Social Records - The Intercept",
+    "postId": "8e6b16c2959f7911c89b83ce15013428bcb23ca50de62160b029e8c9f7fb9ac7",
+    "title": "Trump Media GC Earned $2.8 Million In Comp In 2025 - Law360",
     "bot": "jongsuk_pol_bot",
-    "runId": "45503206373",
-    "sentAt": "2026-11-24T22:41:21.195Z"
+    "runId": "45504723355",
+    "sentAt": "2026-11-24T22:51:15.766Z"
   }
 }
