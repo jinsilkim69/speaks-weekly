@@ -3524,3 +3524,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 "결자해지" 압박…출구없는 與신천지 갈등 - 연합뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 "결자해지" 압박…출구없는 與신천지 갈등
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTlBkSnBxNkhscEpZRno5SjZmcTFXM2lCRVlwMlRBVVlWbVJoSnJPX3RKOVo4Sy1OYUtaaWx2ekJ6MGs1cWhaeDExdU9vT3R6Y3ZxMU5kVHRCTTDSAWBBVV95cUxQMjQ0OVc0NEVWVXZMSnhpYTNFTHRaOEh2RmdQVEhsczdIUVlCYWJwNjZKUmlNc1NiZ1V6Y1Frc2Zqa3ctaXk3cXhVNEg3UVltaXM0VU9TQ1ZONmo4UjIybnM?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '조작징계' 폭로 후폭풍... 한동훈 "기획 숙청", 중진들도 "장동혁 사퇴" - OhmyNews
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '조작징계' 폭로 후폭풍... 한동훈 "기획 숙청", 중진들도 "장동혁 사퇴"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE54NnhyRV9ZT1cxdFVOTDNDRE4xTExZeDdMNFUxb3R0M1Rpc1lQZlRBY1NDNHlDaDBBYlBMS29oT01mS0ZNYW5lNGVaVXFCLVZxa0NjQlo4QmhNSnJ2MzkwMjhJXzFvdC1YamJIRHZ2WE9vcHhjWXpR?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 공수처, '한동훈 딸 수사 무마 의혹' 경찰 이첩 건 수사4부 배당 - 데일리안
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 공수처, '한동훈 딸 수사 무마 의혹' 경찰 이첩 건 수사4부 배당
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgJBVV95cUxNeS03WmJMS1RCa1ZOeFNEUWVQbEVBVi11WEg4eW5ETE1NQk1LZko4M1p1VWFjdWE0WEhFbHJDWnNRZW1QNmpuWFZNa05rdHF0cU9kT2J6bXFtZWZET2JfQTI0X2RkVVRVa0cyaTVuSVV4aFMyMHE3ZzI1QThSb2MwdVdqLXA3b2ltcWoyYTF3QktyZW1uamFwQlNoSHZCcnplSndMVFRIYUlzdzNSYzVUaS1yZ29ubnlSWWplRW1menh3NmRkWUJJeFNTdHZCZWtBR01ERVNQaTBhWnU5Mm1RSThHRU1WQUcwVUdvdlFBZWRreFMyWXBtWEV3Qk1YZXFFRjRtNk9JT0hGaHFZN3c?oc=5)
+
+---
+
