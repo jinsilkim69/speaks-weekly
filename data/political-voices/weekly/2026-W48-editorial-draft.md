@@ -3979,3 +3979,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것” - 시사저널
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3aXJIZ1FHcnRSVlFJZVlPMlk3Um11dVFudmpsMDhNMEVCWm1FUl94bW83cTB1RjVTeFhLY1A0bExuT255d2x0RHRBZGcwRGxqQ0VJbmFiSTN6RW5jZ3VicHAzU3Zka210MUpyVmhKa9IBc0FVX3lxTE5ITUNZUDhSUXRkQi1Pd253Zi1mYUJjWW1ETHpXUlZpcFJrdzBfTjlVSnBoQ0dpa3FpT1h5N2t4bW5KMDYwTTIybVFjczVGanhDR1ZfV1dUbWRFZjRKXy11NnpsLWVRTVNwbDE2WkszOFJJenM?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 “항만공사 통합 용역 중단하고 실익부터 검증해야” - 포인트데일리
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 “항만공사 통합 용역 중단하고 실익부터 검증해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE80ZEljZmRvNEF0SDh4MmF0d28xQ2FjeHNCak5KRWlqWng2S0JIRlNEQ3hfWDZYZDVTZGRUNEFvbUp1SEdvM1drNDNhOEZVaWZwMXAwS2R2WWk1dFVMdjlkWmdVSElhZnIzQ0ZlbjdlLULSAXRBVV95cUxPUGRmcXhTaFg5QVAxZTJZUmV6MldTYzNvdHVGQ0xGQy1LT2IydlJ2OThFdVRKTGc1Si1NMWpZeFVGQUYwX2pMMmRjWmNRSk93ejR1Ulp0Sm9MT1htbDRTY2E1dlA4Q0ltTFc4QUlZSTlFSFZVbQ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "강금실은 더 진한 오답…워싱턴 '中인민정부 특별고문' 믿겠나" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "강금실은 더 진한 오답…워싱턴 '中인민정부 특별고문' 믿겠나"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTFBQTElGUGh3eTVrYjVJUEFmOGpzaGh6eTMxZW9MZkQ4czBjNkl0cTZlLXBsNmJqdnk0ZDdBajhTSW5kSENsblpoRFJGbVVDZWFyZ2lqRnV5Q0haZUI5b3NKWWluSlBXLTc2RWcyS0R2ZFdZZ9IBckFVX3lxTFBQTElGUGh3eTVrYjVJUEFmOGpzaGh6eTMxZW9MZkQ4czBjNkl0cTZlLXBsNmJqdnk0ZDdBajhTSW5kSENsblpoRFJGbVVDZWFyZ2lqRnV5Q0haZUI5b3NKWWluSlBXLTc2RWcyS0R2ZFdZZw?oc=5)
+
+---
+
