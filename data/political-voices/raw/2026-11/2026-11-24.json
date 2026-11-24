@@ -4056,5 +4056,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "7c599f51293518fb8f8075a8c0361a8d42759d729470ddf25da30356765ff69f",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당 강원 “겨울철 도로 결빙 사고, 사전 예방 강화해야” - 강원도민일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CNS1GVTg3ejZvc3JxUlc1WEVhVF8tWXlJN181U2VBMFZSZi01eDlCdDUxX3plVEFoSlU4aHp3RVExNF8yYlNEYmwyQWtJMmRmV1BaNEhLdm9TMjRVVUpYLTZjcVNKb3pa?oc=5\" target=\"_blank\">조국혁신당 강원 “겨울철 도로 결빙 사고, 사전 예방 강화해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">강원도민일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CNS1GVTg3ejZvc3JxUlc1WEVhVF8tWXlJN181U2VBMFZSZi01eDlCdDUxX3plVEFoSlU4aHp3RVExNF8yYlNEYmwyQWtJMmRmV1BaNEhLdm9TMjRVVUpYLTZjcVNKb3pa?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 08:33:45 GMT",
+    "source": "강원도민일보",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당 강원 “겨울철 도로 결빙 사고, 사전 예방 강화해야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
