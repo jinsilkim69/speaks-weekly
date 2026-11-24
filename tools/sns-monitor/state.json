@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T03:51:14.759Z",
+  "lastCheckedAt": "2026-11-24T04:01:17.462Z",
   "seenPostIds": {
-    "8f00312a75d793235bd8d24e8642a6edf267eee333b26bcf3a3186c49de3741b": {
-      "seenAt": "2026-11-21T06:41:18.255Z",
-      "title": "정청래, 한덕수 파기환송에 \"조희대 사법부 규탄…인정할 수 없다\" - 머니투데이 - 머니투데이",
-      "targetName": "정청래"
-    },
-    "f0c621d33a661439d95c4337a9b0c0124f61c72ab566777ffec70daa6f112c78": {
-      "seenAt": "2026-11-21T07:01:17.072Z",
-      "title": "이재명 대통령 \"수능 부정행위 포상금, 1건당 최소 1억원\"...SNS로 밝혀 - BBS불교방송",
-      "targetName": "이재명"
-    },
-    "a0fca86d85d353879af7eac4b9e62c2f3466719fbd43500db8e03e27d25b7edb": {
-      "seenAt": "2026-11-21T07:01:17.673Z",
-      "title": "신장식 조국혁신당 대표, 조희대 대법원장 탄핵소추안... 왜 속전속결이 필요한지 - 의정일보",
-      "targetName": "조국"
-    },
     "67d733b54fbbc5470829f3774af65b51b98cba44899bdbcea881cd9afbe2f3aa": {
       "seenAt": "2026-11-21T07:01:18.301Z",
       "title": "강경숙 조국혁신당 의원, '마이 케이팝 스타' 참가자들 향한 극찬 - 뉴스핌",
@@ -2515,31 +2500,29 @@
       "seenAt": "2026-11-24T03:51:17.174Z",
       "title": "김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\" - 뉴시스",
       "targetName": "김민석"
+    },
+    "ba8b91308691e638f1bf95fa510b4b56b14e3bda27cd13ff83daf2a55547fc63": {
+      "seenAt": "2026-11-24T04:01:18.706Z",
+      "title": "김민석 취임 100일에도 민주당 계파 충돌…정청래 “결자해지” : 정치 - 재경일보",
+      "targetName": "김민석"
+    },
+    "1cdac68b6db7391e2bf3322ff78b70a23efb54275b8a2db186136bf15c53202f": {
+      "seenAt": "2026-11-24T04:01:19.325Z",
+      "title": "정청래, 김민석에 “결자해지”…민주당 갈등 지속 - 경북매일",
+      "targetName": "김민석"
+    },
+    "17843b01191908b7f25152fc2e2486b8dc3a0574493f34600fd7ca545ec6a08d": {
+      "seenAt": "2026-11-24T04:01:19.978Z",
+      "title": "김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\" - 뉴시스",
+      "targetName": "정청래"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "ba8b91308691e638f1bf95fa510b4b56b14e3bda27cd13ff83daf2a55547fc63",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 취임 100일에도 민주당 계파 충돌…정청래 “결자해지” : 정치 - 재경일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QalRBQ1Z3dnFteGhpRmxia3UxVVBZcE96aDk0UnFGOFhVeGJOa1UtazUxRXNpTzJJT3lzaWhTQWZRMlNiQUVYWGRGZw?oc=5\" target=\"_blank\">김민석 취임 100일에도 민주당 계파 충돌…정청래 “결자해지” : 정치</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">재경일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QalRBQ1Z3dnFteGhpRmxia3UxVVBZcE96aDk0UnFGOFhVeGJOa1UtazUxRXNpTzJJT3lzaWhTQWZRMlNiQUVYWGRGZw?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 03:30:09 GMT",
-        "source": "재경일보",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "b860aae157222669d198ba5ac721ade1fcbb2cff6a1021eb29ff99d5c617ac88",
+    "postId": "17843b01191908b7f25152fc2e2486b8dc3a0574493f34600fd7ca545ec6a08d",
     "title": "김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\" - 뉴시스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45322312147",
-    "sentAt": "2026-11-24T03:51:16.847Z"
+    "runId": "45323423115",
+    "sentAt": "2026-11-24T04:01:19.664Z"
   }
 }

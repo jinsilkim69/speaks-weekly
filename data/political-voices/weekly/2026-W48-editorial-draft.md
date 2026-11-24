@@ -3641,3 +3641,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 취임 100일에도 민주당 계파 충돌…정청래 “결자해지” : 정치 - 재경일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 취임 100일에도 민주당 계파 충돌…정청래 “결자해지” : 정치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QalRBQ1Z3dnFteGhpRmxia3UxVVBZcE96aDk0UnFGOFhVeGJOa1UtazUxRXNpTzJJT3lzaWhTQWZRMlNiQUVYWGRGZw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석에 “결자해지”…민주당 갈등 지속 - 경북매일
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석에 “결자해지”…민주당 갈등 지속
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE96WE1iN256T0ZtenhmbHNBWDh2U3JFMmotWDdNZFNnNzl4VmY0R183SkhMLU1HT0NTazEtcTV5MzBPbHIwMk5DdDE3aHBWTU8tc2FXQ1Z3YmxkUQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석, 정청래 ''반·분·신 의혹' 직격에 "말씀 드릴 필요 없어" - 뉴시스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 정청래 ''반·분·신 의혹' 직격에 "말씀 드릴 필요 없어"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NX1cwUWlLLXhzQW1zMU9YVktyR1NCSWh5aFpuRUI5cTB5OGE5NGxYX1BxYUxvY0k0RWlQeXNmakJUcUh2SV9odjdMVjIxekNOSjNUNmwyZFZKZEpWamJSSA?oc=5)
+
+---
+
