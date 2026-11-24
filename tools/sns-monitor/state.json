@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T04:11:14.498Z",
+  "lastCheckedAt": "2026-11-24T04:21:13.449Z",
   "seenPostIds": {
-    "79729f422b7c6e0a9fd30345b88467c5b8d7c34428072c332f47ab9624f0517a": {
-      "seenAt": "2026-11-21T07:51:16.951Z",
-      "title": "이재명 대통령 “울산 방문해 시민들 만나…관광 많이 오시라” - 경상일보",
-      "targetName": "이재명"
-    },
-    "7d36f451498fd3622392ffdf3ee481d5db0231510aafcd38c452ee02afbee274": {
-      "seenAt": "2026-11-21T08:11:19.315Z",
-      "title": "김민석 \"민주당, 큰 고민 중 하나는 청년…더 함께하고 싶다\" - 연합뉴스",
-      "targetName": "김민석"
-    },
-    "d6585f3969ac18d99e75e37655b3500d7c9fd36f94408492e66e55b206d06e32": {
-      "seenAt": "2026-11-21T08:11:20.532Z",
-      "title": "김민석, 곧 취임 100일…지지율·내홍 리더십 시험대 - 연합뉴스TV",
-      "targetName": "김민석"
-    },
     "56ec0e42c08d0449489a29817a4c4b8fc51377c6429ec39418fb6b99abb9c2ec": {
       "seenAt": "2026-11-21T08:11:21.468Z",
       "title": "김민석 “청년 통해 민주당이 할 일 깨닫길”…소통 확대 강조 - 아시아경제",
@@ -2515,47 +2500,29 @@
       "seenAt": "2026-11-24T04:11:17.431Z",
       "title": "이준석, 강금실 국정원장 지명 “뭔 뜬금포?”… 중국 지방정부 특별고문 경력 부각 - 천지일보",
       "targetName": "이준석"
+    },
+    "85528f1ccdcc560db2284bf02521bbb502403c359c423dacc27b0b8eccb999e7": {
+      "seenAt": "2026-11-24T04:21:14.679Z",
+      "title": "조국혁신당 \"조희대 탄핵 더 미룰 수 없어…與와 오늘 만남 예상\" - 뉴시스",
+      "targetName": "조국"
+    },
+    "fbc2c9b20728ae3e106d2448e6da380b0238c987345382f9b6aa986f93de0c6d": {
+      "seenAt": "2026-11-24T04:21:15.326Z",
+      "title": "Fact Check: Donald Trump DID Post Meme Of Jensen Huang Holding Red Bra, Like His Failed Butler Assassination Photo - Yahoo",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "0d093bd3a6bc648cf04add5613604186fec6764e77d8528568ab842a63ac74b7": {
+      "seenAt": "2026-11-24T04:21:16.029Z",
+      "title": "이준석 \"강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻\" - 데일리안",
+      "targetName": "이준석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "85528f1ccdcc560db2284bf02521bbb502403c359c423dacc27b0b8eccb999e7",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 \"조희대 탄핵 더 미룰 수 없어…與와 오늘 만남 예상\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqa1BnV1o5eHc2N2lGZlRTX09PQXprYUdMWE5aTTVQZjFvRmdEd0M2ZGZ2M1l1d1BhRFFrUVozMjRwelpRbHdIb2NBNmJaZUZOQ0lDcmd4TnRmeDZLTzhFbmVn?oc=5\" target=\"_blank\">조국혁신당 \"조희대 탄핵 더 미룰 수 없어…與와 오늘 만남 예상\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqa1BnV1o5eHc2N2lGZlRTX09PQXprYUdMWE5aTTVQZjFvRmdEd0M2ZGZ2M1l1d1BhRFFrUVozMjRwelpRbHdIb2NBNmJaZUZOQ0lDcmd4TnRmeDZLTzhFbmVn?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 01:34:23 GMT",
-        "source": "뉴시스",
-        "ageHours": 2.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "fbc2c9b20728ae3e106d2448e6da380b0238c987345382f9b6aa986f93de0c6d",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Fact Check: Donald Trump DID Post Meme Of Jensen Huang Holding Red Bra, Like His Failed Butler Assassination Photo - Yahoo",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzVGTjQ5R1pEbmdPaXZTWFBqaENqdUYyVHROY0ZrUUJ3SW5CSG9pTXVER2Nqbk1tS1ZpdXp6ZU9fTU4yaS1LMEpHeEpzTmJ4cDJzQ2syczlYTmh2ZW9nTGotdHhHdDljYnZYc1FFX05NSHBQVXE2VzJMS0FiaENuWld1WDl4VEJPMU1NN0FOMng?oc=5\" target=\"_blank\">Fact Check: Donald Trump DID Post Meme Of Jensen Huang Holding Red Bra, Like His Failed Butler Assassination Photo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzVGTjQ5R1pEbmdPaXZTWFBqaENqdUYyVHROY0ZrUUJ3SW5CSG9pTXVER2Nqbk1tS1ZpdXp6ZU9fTU4yaS1LMEpHeEpzTmJ4cDJzQ2syczlYTmh2ZW9nTGotdHhHdDljYnZYc1FFX05NSHBQVXE2VzJMS0FiaENuWld1WDl4VEJPMU1NN0FOMng?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 02:34:00 GMT",
-        "source": "Yahoo",
-        "ageHours": 1.6
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "afb5ba6ea2f02a2a3ee575cfc227ca966eda91da85c0feb72f30b6779c2ef0ce",
-    "title": "이준석, 강금실 국정원장 지명 “뭔 뜬금포?”… 중국 지방정부 특별고문 경력 부각 - 천지일보",
+    "postId": "0d093bd3a6bc648cf04add5613604186fec6764e77d8528568ab842a63ac74b7",
+    "title": "이준석 \"강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻\" - 데일리안",
     "bot": "jongsuk_pol_bot",
-    "runId": "45324589323",
-    "sentAt": "2026-11-24T04:11:17.077Z"
+    "runId": "45325767163",
+    "sentAt": "2026-11-24T04:21:15.697Z"
   }
 }

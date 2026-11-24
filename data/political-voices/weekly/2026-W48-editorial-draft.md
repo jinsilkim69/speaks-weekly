@@ -3719,3 +3719,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 "조희대 탄핵 더 미룰 수 없어…與와 오늘 만남 예상" - 뉴시스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 "조희대 탄핵 더 미룰 수 없어…與와 오늘 만남 예상"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqa1BnV1o5eHc2N2lGZlRTX09PQXprYUdMWE5aTTVQZjFvRmdEd0M2ZGZ2M1l1d1BhRFFrUVozMjRwelpRbHdIb2NBNmJaZUZOQ0lDcmd4TnRmeDZLTzhFbmVn?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Fact Check: Donald Trump DID Post Meme Of Jensen Huang Holding Red Bra, Like His Failed Butler Assassination Photo - Yahoo
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Fact Check: Donald Trump DID Post Meme Of Jensen Huang Holding Red Bra, Like His Failed Butler Assassination Photo
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzVGTjQ5R1pEbmdPaXZTWFBqaENqdUYyVHROY0ZrUUJ3SW5CSG9pTXVER2Nqbk1tS1ZpdXp6ZU9fTU4yaS1LMEpHeEpzTmJ4cDJzQ2syczlYTmh2ZW9nTGotdHhHdDljYnZYc1FFX05NSHBQVXE2VzJMS0FiaENuWld1WDl4VEJPMU1NN0FOMng?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻" - 데일리안
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4NTJaWU1QRGdoYkN0UXdmczQzQm1kMllKUHo1ZkN3ZkZFVVAybXl4enNLRFo1TGJPVmJxUzRvdVhkMnV4RVNFOXVrWmpTX21EXzdkcQ?oc=5)
+
+---
+
