@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T07:21:20.940Z",
+  "lastCheckedAt": "2026-11-24T07:31:16.645Z",
   "seenPostIds": {
-    "28ea049f42a82057dc35189fed18e10009a77653e7691bf2de729088d58a4fd3": {
-      "seenAt": "2026-11-21T16:51:17.979Z",
-      "title": "김민석 “민주당, 청년과 어떻게 함께할지 고민”…청년층 소통 강조 - 강원일보",
-      "targetName": "김민석"
-    },
-    "1e2125f0ba60d663ff552f324c6cf2782a078d2b51476db986ebb5d094f10d58": {
-      "seenAt": "2026-11-21T16:51:18.795Z",
-      "title": "김민석, 1030 청년 연설대전 찾아 \"청년과 함께하고픈 절박한 고민 담겨\" - 뉴스핌",
-      "targetName": "김민석"
-    },
-    "8c402fd858280262980b54ca0f1340e5a3cde8726f87ca1cd9aab6d451dd5cbb": {
-      "seenAt": "2026-11-21T17:11:18.881Z",
-      "title": "Donald Trump Bungles Stat When Revealing Posthumous Pardon of MLB Star Pete Rose - People.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "134ef9389ab95f412c6c9bece7996930db0709a388821eb414cc8032cb2e3972": {
       "seenAt": "2026-11-21T17:21:24.896Z",
       "title": "Trump’s posthumous pardon for Pete Rose has 1 glaring error - Yahoo Sports",
@@ -2515,31 +2500,29 @@
       "seenAt": "2026-11-24T07:21:23.840Z",
       "title": "정청래, '100일' 김민석 겨냥 SNS 폭탄…\"반분신 의혹 해당행위, 징계해야\" - 머니투데이 - 머니투데이",
       "targetName": "정청래"
+    },
+    "064b959104170c91edca605301e6b329e261778a9bb8b18b367ee805395b3e63": {
+      "seenAt": "2026-11-24T07:31:18.087Z",
+      "title": "이준석 “장동혁으로는 선거 쉽지 않아, 한동훈식 검찰 정치는 위험” - 중앙일보",
+      "targetName": "이준석"
+    },
+    "4bd6e3cd0c7c5ca4a7b56843e03f60e8405fc0f8c618871d08b68e0d1be2dac2": {
+      "seenAt": "2026-11-24T07:31:18.848Z",
+      "title": "이준석 “강금실 뜬금포…美가 믿고 정보 건넬 사람인가” 국정원장 지명 비판 - 매일경제",
+      "targetName": "이준석"
+    },
+    "2071d98ea4b5ff7c23c03916cc040bf669acb227063e6a2c335ea74f70a649de": {
+      "seenAt": "2026-11-24T07:31:19.792Z",
+      "title": "이준석 \"강금실, 정보·방첩 경력 전무\" … 국정원장 인선 맹비판 - 뉴데일리",
+      "targetName": "이준석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "064b959104170c91edca605301e6b329e261778a9bb8b18b367ee805395b3e63",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 “장동혁으로는 선거 쉽지 않아, 한동훈식 검찰 정치는 위험” - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zS2g3cHN2bTFZZkctckFKczVUX21QV2dBMnpZTWhrbGxza3AwNVdEZ083bVd2YXdiUmgyYXB0c0RkWFJJVnpJdXFYN213VnowYkNDcVRB?oc=5\" target=\"_blank\">이준석 “장동혁으로는 선거 쉽지 않아, 한동훈식 검찰 정치는 위험”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zS2g3cHN2bTFZZkctckFKczVUX21QV2dBMnpZTWhrbGxza3AwNVdEZ083bVd2YXdiUmgyYXB0c0RkWFJJVnpJdXFYN213VnowYkNDcVRB?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 07:16:46 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "718fc9a07bca8f22f008f751b40b273da0fcf7c6d9dfa7ed92c53d3194fb2b84",
-    "title": "정청래, '100일' 김민석 겨냥 SNS 폭탄…\"반분신 의혹 해당행위, 징계해야\" - 머니투데이 - 머니투데이",
+    "postId": "2071d98ea4b5ff7c23c03916cc040bf669acb227063e6a2c335ea74f70a649de",
+    "title": "이준석 \"강금실, 정보·방첩 경력 전무\" … 국정원장 인선 맹비판 - 뉴데일리",
     "bot": "jongsuk_pol_bot",
-    "runId": "45347306750",
-    "sentAt": "2026-11-24T07:21:23.508Z"
+    "runId": "45348588974",
+    "sentAt": "2026-11-24T07:31:19.207Z"
   }
 }
