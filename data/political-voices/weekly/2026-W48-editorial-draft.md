@@ -5409,3 +5409,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 5·18 진압 경찰 포상 취소 강력 지지 - 역사적 과오 바로잡는다 - 공감신문
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 5·18 진압 경찰 포상 취소 강력 지지
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xYkdsSWdueUdueHpRYXc4bWVCYVNRNmNPa3ZtRGNmZjNzLUxObWFWeVQ4OWJHaVVTNktXZjdRMlVDUkhCMExUaGdyU3hCeWdGUnNZZks0MTJDMmdDVTdpYmZRc1VNZ2M?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Court Orders Trump Media to Hand Over Truth Social Records - The Intercept
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Court Orders Trump Media to Hand Over Truth Social Records
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigwFBVV95cUxNN181RVliQmY2d2k0U1pWOHV6SWtKOVdrcnQxbEpPd2F3OFhBUUVqQm13WUR6ZE1oQlMzYjZjRmtNVENjNlRSZ2lqdnpzN0NjTFdTaGlDMnBIYUFoMFNHdU00M1o4eUJPMjk3Uk9jQWhUN2pTSWN1dUxmVW5OaENaaTlCZw?oc=5)
+
+---
+

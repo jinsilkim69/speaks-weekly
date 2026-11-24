@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T22:31:14.413Z",
+  "lastCheckedAt": "2026-11-24T22:41:19.041Z",
   "seenPostIds": {
     "53f34e4fd6d3686d2ac0287431b23dd383d74bc79cd58bce540216fc24be3e30": {
       "seenAt": "2026-11-22T04:01:15.792Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-24T22:21:59.151Z",
       "title": "김어준의 겸손은힘들다 뉴스공장 2026년 11월 25일 수요일 [홍사훈X주진우X양부남X신장식, 백년위원회, 박지원X이세미X한가선X김대호X김승현, 영화공장(여전히 찬란하게)] - Howl.Link",
       "targetName": "신장식"
+    },
+    "21837e2a835e9b1df6f2f9d5580579a303badc86a4bef5656f832d073d7b35fa": {
+      "seenAt": "2026-11-24T22:41:20.823Z",
+      "title": "이재명 대통령, 5·18 진압 경찰 포상 취소 강력 지지 - 역사적 과오 바로잡는다 - 공감신문",
+      "targetName": "이재명"
+    },
+    "9d60aff39cc35679153216038fa7bedebb29e9ddc83d6ea6e422f0eef8562000": {
+      "seenAt": "2026-11-24T22:41:21.576Z",
+      "title": "Court Orders Trump Media to Hand Over Truth Social Records - The Intercept",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "f27a7b8dc0b503903114e5114644b52be64e53079d25cdb4a0d818cd428c67fb",
-    "title": "김어준의 겸손은힘들다 뉴스공장 2026년 11월 25일 수요일 [홍사훈X주진우X양부남X신장식, 백년위원회, 박지원X이세미X한가선X김대호X김승현, 영화공장(여전히 찬란하게)] - Howl.Link",
+    "postId": "9d60aff39cc35679153216038fa7bedebb29e9ddc83d6ea6e422f0eef8562000",
+    "title": "Court Orders Trump Media to Hand Over Truth Social Records - The Intercept",
     "bot": "jongsuk_pol_bot",
-    "runId": "45500086730",
-    "sentAt": "2026-11-24T22:21:58.658Z"
+    "runId": "45503206373",
+    "sentAt": "2026-11-24T22:41:21.195Z"
   }
 }
