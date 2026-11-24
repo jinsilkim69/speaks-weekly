@@ -5123,3 +5123,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** ‘한동훈 기획제명’ 의혹 제기…친한계 “장동혁 사퇴해야” - 경기신문
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘한동훈 기획제명’ 의혹 제기…친한계 “장동혁 사퇴해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qN1BrTGhkZUt1UVFqTFU3Z0dqUGxFZ2c4Q2FCMWV5WmxFUFJSUExzVzcwUmtSRU9GbXJfNnR2d2FtWXlzWXdVV1pJRUlqdTlsRzVKVTVTOUJjYkNiOW80Ul9B?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “당명 속 ‘조국’이 제 이름은 아니지만… 당명 바꾸자” - 조선일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “당명 속 ‘조국’이 제 이름은 아니지만… 당명 바꾸자”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxON2pUSHBGbVBOQVpTYTR2RHBGdGhES3FJTUtGSlFaZk01d2Z4eTE3WDJTVmtDQld6dzZDdUt4RzNObmQ4LWcwMGNVOUFhUmxFUXBSWXl1Y3hiY3NwOFFlX1VwelEzUm1OVmw0NlFya3FueUlXaFFRUUVhS0NQeXk3aXc2ckpudw?oc=5)
+
+---
+
