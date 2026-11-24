@@ -4683,5 +4683,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f0d729ad50918f5005c51ff5bc2262bf4f909f3991ccfe6449e13043f5eb3ca2",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 취임 100일에 SNS 글 5개 올린 정청래…金 “말씀드릴 필요 없어” - 매일경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3d3NPYVcyUnFsTnR5eGV6bFRQVVd1TTJ4MDU3bnVtTmR5OTJjcGRzX1BwQVh6WGRqclEtWlFnV2tJZDVTa0FwVE5ScG5pbnN6T045MDh3?oc=5\" target=\"_blank\">김민석 취임 100일에 SNS 글 5개 올린 정청래…金 “말씀드릴 필요 없어”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3d3NPYVcyUnFsTnR5eGV6bFRQVVd1TTJ4MDU3bnVtTmR5OTJjcGRzX1BwQVh6WGRqclEtWlFnV2tJZDVTa0FwVE5ScG5pbnN6T045MDh3?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 13:04:36 GMT",
+    "source": "매일경제",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 취임 100일에 SNS 글 5개 올린 정청래…金 “말씀드릴 필요 없어”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "88655d06e3e65827f3dcf3d13917595916cd1b22ad005d841e3c5defe1dcca15",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "‘명픽’ 이광수의 ‘코스피 5000 붕괴 눈물’...그 영상 공유한 조국 - 경기일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mT1YxT20zUkpCcmJobTdVSmFsc0V2QkpWS1dDRTdORVVrZG42NERNY0tFSmNvN1FkS21GZTYzNVkzRFpWM1E0RmtfWlVKanR0aXZieVdmT1VPYms?oc=5\" target=\"_blank\">‘명픽’ 이광수의 ‘코스피 5000 붕괴 눈물’...그 영상 공유한 조국</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mT1YxT20zUkpCcmJobTdVSmFsc0V2QkpWS1dDRTdORVVrZG42NERNY0tFSmNvN1FkS21GZTYzNVkzRFpWM1E0RmtfWlVKanR0aXZieVdmT1VPYms?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 13:02:25 GMT",
+    "source": "경기일보",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘명픽’ 이광수의 ‘코스피 5000 붕괴 눈물’...그 영상 공유한 조국",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
