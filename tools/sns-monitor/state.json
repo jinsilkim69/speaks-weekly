@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T06:11:16.174Z",
+  "lastCheckedAt": "2026-11-24T06:21:17.460Z",
   "seenPostIds": {
-    "72e5bebf19a35e0d58ed9853066dd522d13f27d39358e2f5f79206881436d769": {
-      "seenAt": "2026-11-21T13:11:18.848Z",
-      "title": "'Incredibly creepy': Trump AI post depicts him cradling DHS secretary's teenaged son - Indy100",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "51e97d0896a615ca9e1e4bfaaf044918183ad98c847154d1e37647e0b356a6f2": {
-      "seenAt": "2026-11-21T13:21:15.759Z",
-      "title": "한동훈 의원 \"민주당, 조희대 대법원장 탄핵은 내란 자백…모두 감옥 갈 것\" - 사이렌스",
-      "targetName": "한동훈"
-    },
-    "e4b25d0f42ca1db12a2f78b56eb8ec0def3f279a2cb032b4aa10413ec2cf81c7": {
-      "seenAt": "2026-11-21T13:21:16.439Z",
-      "title": "김민석 은퇴·빅토르 안 방송 복귀…귀화 선수의 한국행, 원칙은 있는가 - 무예신문",
-      "targetName": "김민석"
-    },
     "aeefc9fbe56a060597cc885e8653e469958f6689bcb2aec603f2a6af616e223e": {
       "seenAt": "2026-11-21T13:51:17.547Z",
       "title": "'어이없는' 42년 민주당원 \"조희대 탄핵? 정청래, 대표 시절 뭐 했나?\" #shorts - 오마이TV - OhmyNews",
@@ -2515,47 +2500,46 @@
       "seenAt": "2026-11-24T06:11:19.192Z",
       "title": "김민석 취임 100일에 비판 글 쏟아낸 정청래…전직 당대표의 책임은 없나 - 주간경향",
       "targetName": "김민석"
+    },
+    "53cd860eaf801129bc089c849bb34c06de7d12e705d4bcf534b11bb664a0fa52": {
+      "seenAt": "2026-11-24T06:21:18.725Z",
+      "title": "정청래, '100일' 김민석 겨냥 SNS 폭탄…\"반분신 의혹 해당행위, 징계해야\" - 머니투데이 - 머니투데이",
+      "targetName": "정청래"
+    },
+    "322558f1e0c8c921a17221bf6a656a46b6ba8cba91f1c6c0ed5cfc0db058a7aa": {
+      "seenAt": "2026-11-24T06:21:19.314Z",
+      "title": "김민석 취임 100일에 비판 글 쏟아낸 정청래…전직 당대표의 책임은 없나 - 주간경향",
+      "targetName": "정청래"
+    },
+    "d1065ac9ac0d11d0aa263dc1b86be774508e079434e620cc65e147004a804650": {
+      "seenAt": "2026-11-24T06:21:19.918Z",
+      "title": "한동훈, 장동혁 기자회견에 '윤리위 독립기구·징계 사전에 몰랐다는 건 거짓말…정적 징계 배후 조종 인정' - 매일신문",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "53cd860eaf801129bc089c849bb34c06de7d12e705d4bcf534b11bb664a0fa52",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, '100일' 김민석 겨냥 SNS 폭탄…\"반분신 의혹 해당행위, 징계해야\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbllURlZaNWVMdGM5SDlqUWVCVVlvMHpiSEJTZE1pTS1Wa0p1NDZadjV6RHZOMGw5ZHlSQ2NKSFMzLS1GQVRkT2JTcGpscE5WT08xZnU5S0hVaFRDb0wyeF84R1JnU1djV1UtaNIBckFVX3lxTE9vTDVVVVZUelVfd0JfZE9MZWdnX0x2bVpFd29OQlpISm1RZ3BEdDZHV19LaVoyMWFBZGpySXZxUjNvUVAwQXRfYUpkOG1OS09UbDJ0dXhEakw5OFl5cGx1TkpIMlNpOHlfemtHdzRCRmlTQQ?oc=5\" target=\"_blank\">정청래, '100일' 김민석 겨냥 SNS 폭탄…\"반분신 의혹 해당행위, 징계해야\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbllURlZaNWVMdGM5SDlqUWVCVVlvMHpiSEJTZE1pTS1Wa0p1NDZadjV6RHZOMGw5ZHlSQ2NKSFMzLS1GQVRkT2JTcGpscE5WT08xZnU5S0hVaFRDb0wyeF84R1JnU1djV1UtaNIBckFVX3lxTE9vTDVVVVZUelVfd0JfZE9MZWdnX0x2bVpFd29OQlpISm1RZ3BEdDZHV19LaVoyMWFBZGpySXZxUjNvUVAwQXRfYUpkOG1OS09UbDJ0dXhEakw5OFl5cGx1TkpIMlNpOHlfemtHdzRCRmlTQQ?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 06:06:21 GMT",
-        "source": "머니투데이",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "322558f1e0c8c921a17221bf6a656a46b6ba8cba91f1c6c0ed5cfc0db058a7aa",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "김민석 취임 100일에 비판 글 쏟아낸 정청래…전직 당대표의 책임은 없나 - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvbHNkWEh3Z2k2RDZpN2dreFNncFB3RFBBZFZVYTRZOEN6S3ZpOGVON2hOU2lkOWI3enFldDZEeVJiS0FMdzhqekE1d0xNNWFiR1BnZ24yZ2laSVY5aVE?oc=5\" target=\"_blank\">김민석 취임 100일에 비판 글 쏟아낸 정청래…전직 당대표의 책임은 없나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvbHNkWEh3Z2k2RDZpN2dreFNncFB3RFBBZFZVYTRZOEN6S3ZpOGVON2hOU2lkOWI3enFldDZEeVJiS0FMdzhqekE1d0xNNWFiR1BnZ24yZ2laSVY5aVE?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 06:06:00 GMT",
-        "source": "주간경향",
-        "ageHours": 0.1
+        "id": "d6dcf6dd4c6e7143a56a47f43b73fb88b66b4106fa9e05637405eceb69acd055",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "‘한동훈 제명’ 발표 시점, 미리 정했나…‘기획 징계’ 의혹에 장동혁 사퇴론 다시 불붙어 - 매일경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zUW1HOE8yX19TSHdTcTNwUWJFZWtsODRrTFlrTDBqVnZ4RDdEREgyVmtSRE93WWkzMW5sc3JHem9iWUFKeFhncFU4UnBWSGNGNUw5VW1n?oc=5\" target=\"_blank\">‘한동훈 제명’ 발표 시점, 미리 정했나…‘기획 징계’ 의혹에 장동혁 사퇴론 다시 불붙어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zUW1HOE8yX19TSHdTcTNwUWJFZWtsODRrTFlrTDBqVnZ4RDdEREgyVmtSRE93WWkzMW5sc3JHem9iWUFKeFhncFU4UnBWSGNGNUw5VW1n?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 05:14:28 GMT",
+        "source": "매일경제",
+        "ageHours": 1.1
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "b89656e38c83c640f6a136b88ee814a3de9549a6d96920b7344c58fc03ef5b7a",
-    "title": "김민석 취임 100일에 비판 글 쏟아낸 정청래…전직 당대표의 책임은 없나 - 주간경향",
+    "postId": "d1065ac9ac0d11d0aa263dc1b86be774508e079434e620cc65e147004a804650",
+    "title": "한동훈, 장동혁 기자회견에 '윤리위 독립기구·징계 사전에 몰랐다는 건 거짓말…정적 징계 배후 조종 인정' - 매일신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45338547810",
-    "sentAt": "2026-11-24T06:11:18.794Z"
+    "runId": "45339789652",
+    "sentAt": "2026-11-24T06:21:19.617Z"
   }
 }
