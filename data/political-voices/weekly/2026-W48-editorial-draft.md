@@ -3225,3 +3225,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 오세훈 "대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라" - 부산일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 오세훈 "대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE56c3hGUXQ0NHYtbzN1Nzd1c0NZTkFCdGQtYkQ4XzdhMjF4SWpndk05THZpWGJGWWc4MUxnZ1RodDhzUHFHbEp0cGpyMUs5bUdGeHNjZU1KbXBOOWVXSDhqRzcydTE5T2FmLXFJOEdOTGN5YWpLSGh5aw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [포토] 의원총회서 발언하는 강경숙 조국혁신당 원내부대표 - 파이낸스투데이
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 의원총회서 발언하는 강경숙 조국혁신당 원내부대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE0tNThCMWExOUJ3RFhsV293MlRRT2lRZEJMSnBBOHI0elRISmdrdExPNi1VVExtTFc1bFQ3N2VtbndGZTV1MkN6cWVuRVpGVGJWSUdudG5RYURJQVcyNWQ0TE5xRmZrcVdhWTBBXw?oc=5)
+
+---
+
