@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T15:21:16.810Z",
+  "lastCheckedAt": "2026-11-24T15:31:15.309Z",
   "seenPostIds": {
-    "522cef7e630b726890dd64f6ee904f48bd0805511664b66abd40e00c3d10cd2f": {
-      "seenAt": "2026-11-22T01:51:15.092Z",
-      "title": "혁신당의 '조국' 빠지나…조국 \"확장성 있게 범민주 좋아할 이름으로\" - 머니투데이 - 머니투데이",
-      "targetName": "조국"
-    },
     "9c6a00d88888ae68ddc5677ac411e87a433b2cdd0aa2996907aececd42e454ce": {
       "seenAt": "2026-11-22T01:51:15.717Z",
       "title": "Trump floods Truth Social with China visit photos, calls himself 'GOAT' and touts 'great powers' - 헤럴드경제",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-24T15:21:17.914Z",
       "title": "Trump's bizarre Truth Social post celebrates Jensen Huang's return as Nvidia CEO - The New Indian Express",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "398639423b10804774e56f30b4abf4dc6d5c2a78a9425acc9de98dccbe7ca3a3": {
+      "seenAt": "2026-11-24T15:31:16.764Z",
+      "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
+      "targetName": "김민석"
+    },
+    "fb75464accfc775ff2b589fadb8268e21c2cd639a31bf656c367ad105066bba3": {
+      "seenAt": "2026-11-24T15:31:17.524Z",
+      "title": "구호 외치는 조국혁신당 - 뉴스핌",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "8c92486275c475c00a63c57b278eb3d6b1ab6e2e765208372565cda2d82dcf8e",
-    "title": "Trump's bizarre Truth Social post celebrates Jensen Huang's return as Nvidia CEO - The New Indian Express",
+    "postId": "fb75464accfc775ff2b589fadb8268e21c2cd639a31bf656c367ad105066bba3",
+    "title": "구호 외치는 조국혁신당 - 뉴스핌",
     "bot": "jongsuk_pol_bot",
-    "runId": "45424473257",
-    "sentAt": "2026-11-24T15:21:17.412Z"
+    "runId": "45426408924",
+    "sentAt": "2026-11-24T15:31:17.187Z"
   }
 }
