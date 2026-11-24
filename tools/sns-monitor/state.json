@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T17:41:25.464Z",
+  "lastCheckedAt": "2026-11-24T17:51:15.360Z",
   "seenPostIds": {
     "7309996a4cd80cba6bf14435cbbb97e4709cb6f10dfdf4adc09cd6bf32dcefc3": {
       "seenAt": "2026-11-22T02:41:22.275Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T17:21:16.946Z",
       "title": "김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문",
       "targetName": "정청래"
+    },
+    "bd66658718737fc6e5cb023ed42e4f7708104ada4ce766d6a8818ee3f80a5e01": {
+      "seenAt": "2026-11-24T17:51:16.451Z",
+      "title": "CNN’s Trump whisperer shredded on air after telling host to ‘lighten up’ over Jensen Huang red bra meme - The Independent",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "f449867b4df7dac15be98a63c4b2b312452894a30dd26f3430356989418fd4ef",
-    "title": "김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문",
+    "postId": "bd66658718737fc6e5cb023ed42e4f7708104ada4ce766d6a8818ee3f80a5e01",
+    "title": "CNN’s Trump whisperer shredded on air after telling host to ‘lighten up’ over Jensen Huang red bra meme - The Independent",
     "bot": "jongsuk_pol_bot",
-    "runId": "45447577368",
-    "sentAt": "2026-11-24T17:21:16.280Z"
+    "runId": "45453076187",
+    "sentAt": "2026-11-24T17:51:15.949Z"
   }
 }

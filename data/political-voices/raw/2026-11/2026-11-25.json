@@ -274,5 +274,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "bd66658718737fc6e5cb023ed42e4f7708104ada4ce766d6a8818ee3f80a5e01",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "CNN’s Trump whisperer shredded on air after telling host to ‘lighten up’ over Jensen Huang red bra meme - The Independent",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNYzBudk04REUyN2piWFZkaDVJRXFvemY3NFJmRGkzanI0VzBnNTlxbm9FNEZ2emh2cXdMVlc5RzNmbXRpZWJ3ZlZnWklZYUpNamNyQmxMcFVFaTI3YXZ5WTE2a3draFoybWdsV3M4b1RoMDhRX29VMzlpaTVZVE1LMmVCTHpMMkh1NnUwZ3NGOUY5OXFsRy16ZzhteXRHdlBzeEZsRTVVajFtbDIzbGdwVW0zbTlveTg?oc=5\" target=\"_blank\">CNN’s Trump whisperer shredded on air after telling host to ‘lighten up’ over Jensen Huang red bra meme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYzBudk04REUyN2piWFZkaDVJRXFvemY3NFJmRGkzanI0VzBnNTlxbm9FNEZ2emh2cXdMVlc5RzNmbXRpZWJ3ZlZnWklZYUpNamNyQmxMcFVFaTI3YXZ5WTE2a3draFoybWdsV3M4b1RoMDhRX29VMzlpaTVZVE1LMmVCTHpMMkh1NnUwZ3NGOUY5OXFsRy16ZzhteXRHdlBzeEZsRTVVajFtbDIzbGdwVW0zbTlveTg?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 17:11:00 GMT",
+    "source": "The Independent",
+    "ageHours": 0.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] CNN’s Trump whisperer shredded on air after telling host to ‘lighten up’ over Jensen Huang red bra meme",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
