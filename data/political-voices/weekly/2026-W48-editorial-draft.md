@@ -4135,3 +4135,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 조국혁신당 의원 “4개 항만공사 통합 용역 중단" 촉구 - 브레이크뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 조국혁신당 의원 “4개 항만공사 통합 용역 중단" 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ndVJ3S0dYbHRWUkVvM3ZPZlBIek9LWG1LNndyd09MYV91UVF2VjBpYmdjZkVUcTA0QmpmRjUyYS1CQQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, '100일' 김민석 겨냥 SNS 폭탄…"반분신 의혹 해당행위, 징계해야" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, '100일' 김민석 겨냥 SNS 폭탄…"반분신 의혹 해당행위, 징계해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbllURlZaNWVMdGM5SDlqUWVCVVlvMHpiSEJTZE1pTS1Wa0p1NDZadjV6RHZOMGw5ZHlSQ2NKSFMzLS1GQVRkT2JTcGpscE5WT08xZnU5S0hVaFRDb0wyeF84R1JnU1djV1UtaNIBckFVX3lxTE9vTDVVVVZUelVfd0JfZE9MZWdnX0x2bVpFd29OQlpISm1RZ3BEdDZHV19LaVoyMWFBZGpySXZxUjNvUVAwQXRfYUpkOG1OS09UbDJ0dXhEakw5OFl5cGx1TkpIMlNpOHlfemtHdzRCRmlTQQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 취임 100일에 비판 글 쏟아낸 정청래…전직 당대표의 책임은 없나 - 주간경향
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 취임 100일에 비판 글 쏟아낸 정청래…전직 당대표의 책임은 없나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvbHNkWEh3Z2k2RDZpN2dreFNncFB3RFBBZFZVYTRZOEN6S3ZpOGVON2hOU2lkOWI3enFldDZEeVJiS0FMdzhqekE1d0xNNWFiR1BnZ24yZ2laSVY5aVE?oc=5)
+
+---
+
