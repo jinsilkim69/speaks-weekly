@@ -3940,3 +3940,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 친한계, ‘한동훈 징계 조작 기획’ 추가 폭로에 장동혁 사퇴 촉구 - 기호일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 친한계, ‘한동훈 징계 조작 기획’ 추가 폭로에 장동혁 사퇴 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE5WNEtCZjA0TjdJLWJkSmUxdTJhOWh2LTg0U3lCcmtveGJHbFZSbkxycFhPeC1SNVVPRnJXWFpYcjh1am1ITzU5Nkp3LWVTNWJvaEtCWnBKYnVoMW1jWFJQcGMyV3AzYllYRmdheFM2Yw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** ‘尹 구형일에 한동훈 제명 기획’ 폭로 일파만파…친한계 “장동혁 사퇴해야” - 시사저널
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘尹 구형일에 한동훈 제명 기획’ 폭로 일파만파…친한계 “장동혁 사퇴해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBnb2F3OVJzcnFxMXZiSXl4THAzZFJSNGJCT3RkYW1jZncwam0wRndBemRNYnhSR1Y5dDdLZDc0NlJoUzRId1NPcVh1UVA4MVdEUm5tRU9yOE5LYzk5ZlkycVVBX2ZYT192ZVRUM2VLSdIBc0FVX3lxTE4yU3o2LXZKVXhfb0xSUGtncEJyUVpuaG1uMkc2My1lbDBGTENBTmI0SkZmY0hSMUxEcDlUb3ZEdkdSMDB0RVI2SjNxWE1LSjFUUGQ2dTQtcDJjVmdIRGxncDZ6TkkzcllpRXVrOWRoejc4a1E?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것” - 시사저널
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFB3aXJIZ1FHcnRSVlFJZVlPMlk3Um11dVFudmpsMDhNMEVCWm1FUl94bW83cTB1RjVTeFhLY1A0bExuT255d2x0RHRBZGcwRGxqQ0VJbmFiSTN6RW5jZ3VicHAzU3Zka210MUpyVmhKa9IBc0FVX3lxTE5ITUNZUDhSUXRkQi1Pd253Zi1mYUJjWW1ETHpXUlZpcFJrdzBfTjlVSnBoQ0dpa3FpT1h5N2t4bW5KMDYwTTIybVFjczVGanhDR1ZfV1dUbWRFZjRKXy11NnpsLWVRTVNwbDE2WkszOFJJenM?oc=5)
+
+---
+

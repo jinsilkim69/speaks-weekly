@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T05:11:14.490Z",
+  "lastCheckedAt": "2026-11-24T05:21:13.443Z",
   "seenPostIds": {
-    "4e00d80d8e6153d34e3d929a17d7347a8ba4c81427753b90bb0bd1236875a28b": {
-      "seenAt": "2026-11-21T09:11:21.377Z",
-      "title": "한동훈의 예언…대법원장 탄핵 추진 與에 \"모두 감옥갈 것\" - 한국경제",
-      "targetName": "한동훈"
-    },
-    "c897f084388ee6e3212cf830679266a44e8fa08fd57d0d9a0db4a11d8bb15eb3": {
-      "seenAt": "2026-11-21T09:11:22.079Z",
-      "title": "[속보] 한동훈 “민주당, 대법원장 탄핵은 내란 자백…모두 감옥 갈 것” - 강원일보",
-      "targetName": "한동훈"
-    },
-    "8ca0d5c2b94e06f81fc5dc8088279b7389ca72bf15bddbd58a8f371abb6a6778": {
-      "seenAt": "2026-11-21T09:11:22.809Z",
-      "title": "한동훈 \"민주당 대법원장 탄핵 추진은 내란 자백\"…12월 3일 발의 방침 직격 - 스페셜타임스",
-      "targetName": "한동훈"
-    },
     "24ead65297f2221df8664b97e796ec39b075bb6d8e0fe70d8d9035e8a61fa8f5": {
       "seenAt": "2026-11-21T09:21:15.853Z",
       "title": "[속보]한동훈 \"與 대법원장 탄핵은 내란 자백…모두 감옥 갈 것\" - 대전일보",
@@ -2515,14 +2500,62 @@
       "seenAt": "2026-11-24T05:11:17.310Z",
       "title": "한동훈 \"28년 총선, TK가 주요 축…제명은 원천무효\" - 데일리안",
       "targetName": "한동훈"
+    },
+    "92ad920b16388dfa4806a4ccea73a79f9cf83a0e05441a2c5b760e5ec242dc4e": {
+      "seenAt": "2026-11-24T05:21:14.493Z",
+      "title": "친한계, ‘한동훈 징계 조작 기획’ 추가 폭로에 장동혁 사퇴 촉구 - 기호일보",
+      "targetName": "한동훈"
+    },
+    "f7574fcae83e67153ad2705d61a204f354163fceb8e94b9cfc821adea9545700": {
+      "seenAt": "2026-11-24T05:21:15.179Z",
+      "title": "‘尹 구형일에 한동훈 제명 기획’ 폭로 일파만파…친한계 “장동혁 사퇴해야” - 시사저널",
+      "targetName": "한동훈"
+    },
+    "62c491a587902ab94c51afd2bb2fa570409f2f972b9182ea69b4f81e145f0d78": {
+      "seenAt": "2026-11-24T05:21:15.786Z",
+      "title": "김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것” - 시사저널",
+      "targetName": "김민석"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "f69e71310b58ec39f7fb97448e851b2a4e31d38dedaa7526912c10ebf7b17a6f",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것” - 시사저널",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFB3aXJIZ1FHcnRSVlFJZVlPMlk3Um11dVFudmpsMDhNMEVCWm1FUl94bW83cTB1RjVTeFhLY1A0bExuT255d2x0RHRBZGcwRGxqQ0VJbmFiSTN6RW5jZ3VicHAzU3Zka210MUpyVmhKa9IBc0FVX3lxTE5ITUNZUDhSUXRkQi1Pd253Zi1mYUJjWW1ETHpXUlZpcFJrdzBfTjlVSnBoQ0dpa3FpT1h5N2t4bW5KMDYwTTIybVFjczVGanhDR1ZfV1dUbWRFZjRKXy11NnpsLWVRTVNwbDE2WkszOFJJenM?oc=5\" target=\"_blank\">김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3aXJIZ1FHcnRSVlFJZVlPMlk3Um11dVFudmpsMDhNMEVCWm1FUl94bW83cTB1RjVTeFhLY1A0bExuT255d2x0RHRBZGcwRGxqQ0VJbmFiSTN6RW5jZ3VicHAzU3Zka210MUpyVmhKa9IBc0FVX3lxTE5ITUNZUDhSUXRkQi1Pd253Zi1mYUJjWW1ETHpXUlZpcFJrdzBfTjlVSnBoQ0dpa3FpT1h5N2t4bW5KMDYwTTIybVFjczVGanhDR1ZfV1dUbWRFZjRKXy11NnpsLWVRTVNwbDE2WkszOFJJenM?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 05:04:17 GMT",
+        "source": "시사저널",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4418effb84606382886d5904862c0ff1ed1f096ff361d476c3baf24fd57c803c",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 “항만공사 통합 용역 중단하고 실익부터 검증해야” - 포인트데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE80ZEljZmRvNEF0SDh4MmF0d28xQ2FjeHNCak5KRWlqWng2S0JIRlNEQ3hfWDZYZDVTZGRUNEFvbUp1SEdvM1drNDNhOEZVaWZwMXAwS2R2WWk1dFVMdjlkWmdVSElhZnIzQ0ZlbjdlLULSAXRBVV95cUxPUGRmcXhTaFg5QVAxZTJZUmV6MldTYzNvdHVGQ0xGQy1LT2IydlJ2OThFdVRKTGc1Si1NMWpZeFVGQUYwX2pMMmRjWmNRSk93ejR1Ulp0Sm9MT1htbDRTY2E1dlA4Q0ltTFc4QUlZSTlFSFZVbQ?oc=5\" target=\"_blank\">신장식 “항만공사 통합 용역 중단하고 실익부터 검증해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">포인트데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80ZEljZmRvNEF0SDh4MmF0d28xQ2FjeHNCak5KRWlqWng2S0JIRlNEQ3hfWDZYZDVTZGRUNEFvbUp1SEdvM1drNDNhOEZVaWZwMXAwS2R2WWk1dFVMdjlkWmdVSElhZnIzQ0ZlbjdlLULSAXRBVV95cUxPUGRmcXhTaFg5QVAxZTJZUmV6MldTYzNvdHVGQ0xGQy1LT2IydlJ2OThFdVRKTGc1Si1NMWpZeFVGQUYwX2pMMmRjWmNRSk93ejR1Ulp0Sm9MT1htbDRTY2E1dlA4Q0ltTFc4QUlZSTlFSFZVbQ?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 05:09:11 GMT",
+        "source": "포인트데일리",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "64c56969850f5476bfe8cec00aedbb6d39301a4b5415d91d298fcd2bbb5c27b9",
-    "title": "한동훈 \"28년 총선, TK가 주요 축…제명은 원천무효\" - 데일리안",
+    "postId": "62c491a587902ab94c51afd2bb2fa570409f2f972b9182ea69b4f81e145f0d78",
+    "title": "김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것” - 시사저널",
     "bot": "jongsuk_pol_bot",
-    "runId": "45331477009",
-    "sentAt": "2026-11-24T05:11:16.959Z"
+    "runId": "45332689926",
+    "sentAt": "2026-11-24T05:21:15.483Z"
   }
 }
