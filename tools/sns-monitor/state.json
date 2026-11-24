@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T06:21:17.460Z",
+  "lastCheckedAt": "2026-11-24T06:31:15.356Z",
   "seenPostIds": {
-    "aeefc9fbe56a060597cc885e8653e469958f6689bcb2aec603f2a6af616e223e": {
-      "seenAt": "2026-11-21T13:51:17.547Z",
-      "title": "'어이없는' 42년 민주당원 \"조희대 탄핵? 정청래, 대표 시절 뭐 했나?\" #shorts - 오마이TV - OhmyNews",
-      "targetName": "정청래"
-    },
-    "b923daa8c247876d399e986b232f9a429d4608bb41145291d9c6f22abcd2083c": {
-      "seenAt": "2026-11-21T14:11:17.307Z",
-      "title": "[속보]한동훈 “이제 민주당이 내란정당, 모두 감옥 갈 것” ‘경고’ - 문화일보",
-      "targetName": "한동훈"
-    },
-    "4392365ee6b316740fa1a5bd6512f0bad84ab9c54920e6749d43401965e34946": {
-      "seenAt": "2026-11-21T14:21:23.320Z",
-      "title": "한동훈 “조희대 탄핵 무르지 말고 꼭 하라…민주당은 이제 내란정당” - 서울경제",
-      "targetName": "한동훈"
-    },
     "b818d6ae51c20ca16c6105cdc2d30772f6bc65cb7ca66b3bf16213af42ca8670": {
       "seenAt": "2026-11-21T14:31:17.857Z",
       "title": "이재명-김문수, 수도권 ‘유세 대결’…이준석, 이틀째 ‘광주 공략’ - JTBC",
@@ -2515,31 +2500,24 @@
       "seenAt": "2026-11-24T06:21:19.918Z",
       "title": "한동훈, 장동혁 기자회견에 '윤리위 독립기구·징계 사전에 몰랐다는 건 거짓말…정적 징계 배후 조종 인정' - 매일신문",
       "targetName": "한동훈"
+    },
+    "d6dcf6dd4c6e7143a56a47f43b73fb88b66b4106fa9e05637405eceb69acd055": {
+      "seenAt": "2026-11-24T06:31:16.717Z",
+      "title": "‘한동훈 제명’ 발표 시점, 미리 정했나…‘기획 징계’ 의혹에 장동혁 사퇴론 다시 불붙어 - 매일경제",
+      "targetName": "한동훈"
+    },
+    "8b3b05daf3743edda968916c2c6d0633041e22542a4c1b8d04ba9b6a85af0e2d": {
+      "seenAt": "2026-11-24T06:31:17.438Z",
+      "title": "송영길 \"반도체 클러스터 성공 열쇠는 지역사회 합심\" - 동행미디어 시대",
+      "targetName": "송영길"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "d6dcf6dd4c6e7143a56a47f43b73fb88b66b4106fa9e05637405eceb69acd055",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "‘한동훈 제명’ 발표 시점, 미리 정했나…‘기획 징계’ 의혹에 장동혁 사퇴론 다시 불붙어 - 매일경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zUW1HOE8yX19TSHdTcTNwUWJFZWtsODRrTFlrTDBqVnZ4RDdEREgyVmtSRE93WWkzMW5sc3JHem9iWUFKeFhncFU4UnBWSGNGNUw5VW1n?oc=5\" target=\"_blank\">‘한동훈 제명’ 발표 시점, 미리 정했나…‘기획 징계’ 의혹에 장동혁 사퇴론 다시 불붙어</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zUW1HOE8yX19TSHdTcTNwUWJFZWtsODRrTFlrTDBqVnZ4RDdEREgyVmtSRE93WWkzMW5sc3JHem9iWUFKeFhncFU4UnBWSGNGNUw5VW1n?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 05:14:28 GMT",
-        "source": "매일경제",
-        "ageHours": 1.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "d1065ac9ac0d11d0aa263dc1b86be774508e079434e620cc65e147004a804650",
-    "title": "한동훈, 장동혁 기자회견에 '윤리위 독립기구·징계 사전에 몰랐다는 건 거짓말…정적 징계 배후 조종 인정' - 매일신문",
+    "postId": "8b3b05daf3743edda968916c2c6d0633041e22542a4c1b8d04ba9b6a85af0e2d",
+    "title": "송영길 \"반도체 클러스터 성공 열쇠는 지역사회 합심\" - 동행미디어 시대",
     "bot": "jongsuk_pol_bot",
-    "runId": "45339789652",
-    "sentAt": "2026-11-24T06:21:19.617Z"
+    "runId": "45341034287",
+    "sentAt": "2026-11-24T06:31:17.054Z"
   }
 }
