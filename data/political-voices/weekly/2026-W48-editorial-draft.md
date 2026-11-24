@@ -4525,3 +4525,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** "尹 사형 구형일 맞춰 한동훈을 제물로” [앵커리포트] - YTN
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "尹 사형 구형일 맞춰 한동훈을 제물로”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidkFVX3lxTE4ycFBPLUc4VlByV1dNQ3FwVlZ3V1NjT1Buc2hFdlNrX29HZ2ZTSkZ6WkpsODVHdWszYlB2ZWl0UERmSGFoQl9hd1BpNWluOGozcnZBSjlzWVpnWHNzdUxOak9GcDIxZGwzbmx0WUZoX2NMMDF0Nnc?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** “최 교수, 10억 요구” “한동훈, 무효소송하라” 장동혁의 반격 - 중앙일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “최 교수, 10억 요구” “한동훈, 무효소송하라” 장동혁의 반격
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFdU9wTDNsckM2bjdyWmVRdFVodG9BeV9LYXUzeXJzdUsxc04zYnFiUVhOeEkxaW9ZZWhOdmNSVmcwZWt1Y0taNVFEb3VUdU10NlBMQzNn?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 판결 불복 없다지만…與 토론회서 송영길 “판결도 탄핵사유로” - 중앙일보
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 판결 불복 없다지만…與 토론회서 송영길 “판결도 탄핵사유로”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuRkVhYVdEVGIzcnExcTZwcXhVYW0wSVcydk5tdG1pZkJwc1l5V0R1aEtNMDhVd0ZzWGFqc3k1dWlHMF9SYUlwT0Z6ZmN5d0tNQkJSUHp3?oc=5)
+
+---
+

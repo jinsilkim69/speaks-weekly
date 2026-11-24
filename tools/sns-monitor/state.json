@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T08:21:14.757Z",
+  "lastCheckedAt": "2026-11-24T08:31:16.810Z",
   "seenPostIds": {
-    "93ac02ee6fac46d908cbc0ff6440490338ecfb13c21550074b5ec0ef5da709f9": {
-      "seenAt": "2026-11-21T21:11:13.748Z",
-      "title": "김민석 \"민주당 큰 고민 중 하나는 청년과 함께 하는 방법\" - 연합뉴스TV",
-      "targetName": "김민석"
-    },
-    "467850c167f19e618f586dd3239b42d3b35b077e9bfa87760b7443f909d22ce7": {
-      "seenAt": "2026-11-21T21:21:16.975Z",
-      "title": "'취임 100일' 김민석…당정관계 안정에도 내부통합·지지율 숙제 - 연합뉴스 한민족센터",
-      "targetName": "김민석"
-    },
     "0ccbbeec07bdf4665c0258e5b7e67832641a9338438bf80edcf82edc70a2182e": {
       "seenAt": "2026-11-21T21:21:17.609Z",
       "title": "Trump once again called Putin his friend — this time dedicating a separate post to him on Truth Social - Українські Національні Новини (УНН)",
@@ -2510,14 +2500,29 @@
       "seenAt": "2026-11-24T08:21:16.860Z",
       "title": "“한동훈 제명은 조작 징계”…친한계, 장동혁 사퇴 압박 - 경기일보",
       "targetName": "한동훈"
+    },
+    "b4fe175a32b51b8e7be06040901a75295069ab89bc20552b7a6afe1e3b14d642": {
+      "seenAt": "2026-11-24T08:31:18.306Z",
+      "title": "\"尹 사형 구형일 맞춰 한동훈을 제물로” [앵커리포트] - YTN",
+      "targetName": "한동훈"
+    },
+    "bd89c0c6aa3eb037bae9440af5fe4415f737bfd090923f04503653fab3bfdc46": {
+      "seenAt": "2026-11-24T08:31:19.067Z",
+      "title": "“최 교수, 10억 요구” “한동훈, 무효소송하라” 장동혁의 반격 - 중앙일보",
+      "targetName": "한동훈"
+    },
+    "7a719ca206cbb07c42930adbe731a49c0eff01b4e0506d0a898771cd9b3f0741": {
+      "seenAt": "2026-11-24T08:31:19.862Z",
+      "title": "판결 불복 없다지만…與 토론회서 송영길 “판결도 탄핵사유로” - 중앙일보",
+      "targetName": "송영길"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "0532dbc9e6f493204167ebf831d135ef9037f73ebb5ff7d7c8d5794765f41de3",
-    "title": "“한동훈 제명은 조작 징계”…친한계, 장동혁 사퇴 압박 - 경기일보",
+    "postId": "7a719ca206cbb07c42930adbe731a49c0eff01b4e0506d0a898771cd9b3f0741",
+    "title": "판결 불복 없다지만…與 토론회서 송영길 “판결도 탄핵사유로” - 중앙일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45355338220",
-    "sentAt": "2026-11-24T08:21:16.477Z"
+    "runId": "45356797911",
+    "sentAt": "2026-11-24T08:31:19.430Z"
   }
 }
