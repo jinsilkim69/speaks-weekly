@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T20:31:14.968Z",
+  "lastCheckedAt": "2026-11-24T20:41:14.256Z",
   "seenPostIds": {
     "3653aaa6a2d3c27610af634992718d01036c55d19033fa26ffa53d94f462e970": {
       "seenAt": "2026-11-22T03:23:14.907Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-24T20:11:29.814Z",
       "title": "잇따르는 '조작 징계' 의혹… 한동훈, 효력정지 가처분 변수 되나 - 한국일보",
       "targetName": "한동훈"
+    },
+    "03460d166e8a7c41cc03eec1ae42e381b784cc8bf4fd44f5fabb477551932cb4": {
+      "seenAt": "2026-11-24T20:41:15.260Z",
+      "title": "Forsyth County DA Jim O'Neill nominated for federal court seat by President Trump - WXII",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "8d5816573dac1f9c48d9810035d87a0cd3eb3f0e1cbeaf1f31604b56561208be",
-    "title": "잇따르는 '조작 징계' 의혹… 한동훈, 효력정지 가처분 변수 되나 - 한국일보",
+    "postId": "03460d166e8a7c41cc03eec1ae42e381b784cc8bf4fd44f5fabb477551932cb4",
+    "title": "Forsyth County DA Jim O'Neill nominated for federal court seat by President Trump - WXII",
     "bot": "jongsuk_pol_bot",
-    "runId": "45478076549",
-    "sentAt": "2026-11-24T20:11:29.083Z"
+    "runId": "45483336396",
+    "sentAt": "2026-11-24T20:41:14.771Z"
   }
 }

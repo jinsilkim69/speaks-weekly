@@ -5318,3 +5318,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Forsyth County DA Jim O'Neill nominated for federal court seat by President Trump - WXII
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Forsyth County DA Jim O'Neill nominated for federal court seat by President Trump
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2Yzb2xteENIdnZqcl84ZUIzaFFhVUNEYklYWGxnMEtOdHVzdWs5RVlDNWRDMDE3RmFGZ082T1VhZHljcXhWSWlUN1VvaGpDNi1vOXZUOFpQSk1adHpYa1hHVWVBZlR4TXhmZVJUSGFfeE9uTGg3U3dpNmgtQlVENzNFS0VkR0d5R0dKVFNnVVlWazZsRzIwNHdldGZtWEJ4T1pJZzBEOHc?oc=5)
+
+---
+
