@@ -4532,5 +4532,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6ee455aa3507aad999b2da5f110b2c59589006319835246343c2e684f0659ef1",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당, 조희대 대법원장 탄핵 촉구 촛불집회 개최 - 뉴스핌",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Jb3VDUnVjaWVFUk9jVEVXUzNqdS05U1hlLW8zVXQ2YmRJMURHYXJ2Si0zSmY3eEpOdEgtM1k0RGVGaU5jcVFsbUlfYnlwa1pKMVZ3RVJlRmc1amJz?oc=5\" target=\"_blank\">조국혁신당, 조희대 대법원장 탄핵 촉구 촛불집회 개최</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Jb3VDUnVjaWVFUk9jVEVXUzNqdS05U1hlLW8zVXQ2YmRJMURHYXJ2Si0zSmY3eEpOdEgtM1k0RGVGaU5jcVFsbUlfYnlwa1pKMVZ3RVJlRmc1amJz?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 09:09:00 GMT",
+    "source": "뉴스핌",
+    "ageHours": 2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당, 조희대 대법원장 탄핵 촉구 촛불집회 개최",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
