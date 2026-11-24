@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T05:41:14.992Z",
+  "lastCheckedAt": "2026-11-24T05:51:18.918Z",
   "seenPostIds": {
-    "a619465aead3a38f47f1fd6030eb6d978ae732348b034f8ebafae2b54de46042": {
-      "seenAt": "2026-11-21T09:51:17.441Z",
-      "title": "한동훈 \"與, 12·3에 무르지 말고 '曺 탄핵' 꼭 하라…이제 내란정당\" - 머니투데이 - 머니투데이",
-      "targetName": "한동훈"
-    },
-    "81d0eee6fbcadb9bf6687b0ce6dc18aaab5c04768fd2ba05cad882236c6a6a4f": {
-      "seenAt": "2026-11-21T10:01:18.063Z",
-      "title": "한동훈 “‘조희대 탄핵 추진’ 민주당은 내란 정당…모두 감옥 갈 것” - 경기일보",
-      "targetName": "한동훈"
-    },
-    "2c2241ebc65b0b6adf662b3f2d342ac87d1932305a489104cc872e1b2b590a9c": {
-      "seenAt": "2026-11-21T10:01:18.705Z",
-      "title": "한동훈 \"與, 12·3에 무르지 말고 대법원장 탄핵 하라…모두 감옥 갈 것\" - 뉴스1",
-      "targetName": "한동훈"
-    },
     "8fc91c03c00059fbb88cb6bc6860d1a50a5f5428a98dc46260d90b6bc5e074c2": {
       "seenAt": "2026-11-21T10:01:19.329Z",
       "title": "김민석 민주당 대표 \"가장 큰 고민은 청년과의 동행…고루함 벗어야\" - 아주경제",
@@ -2515,14 +2500,94 @@
       "seenAt": "2026-11-24T05:41:17.537Z",
       "title": "이준석, 강금실 국정원장 지명에 \"뜬금포…전문성 빼고 해명거리 더해\" - 뉴시스",
       "targetName": "이준석"
+    },
+    "24b4d7110d99c131936909ddaee936148d734b6f766d8ecdd04f71d626ff06c2": {
+      "seenAt": "2026-11-24T05:51:20.661Z",
+      "title": "이재명 대통령 ‘대장동’ 글 올리자…국힘 \"할 말 많으면 재판부터\" - JTBC",
+      "targetName": "이재명"
+    },
+    "24020025b705830ea30170405552fc522d454a7cadb0517dfb2df7895980ac29": {
+      "seenAt": "2026-11-24T05:51:21.430Z",
+      "title": "공수처, '한동훈 딸 허위 스펙' 수사 무마 의혹 수사4부 배당 - 한국경제",
+      "targetName": "한동훈"
+    },
+    "8b4166750a0cbed6aad0431475388e48b0e83cc4d17d831822a5ec80d85787c6": {
+      "seenAt": "2026-11-24T05:51:22.191Z",
+      "title": "[정치분석] 윤상현, 한동훈 ‘기획 제명’ 의혹에 지도부 책임론 제기 … 장동혁 직접 해명 요구 - 인천뉴스",
+      "targetName": "한동훈"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "b4a032b7d7b34eaa1cce716b056819649555287d17896eb49fdbf24d3599ed65",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라” - KBS 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMXgxT2cwWXZseGk4SU5OSzVRZGtEb2lNWjVjNk9zbkRDcVIzcUZjSklmS2tfVDZwVW9rR0t6QjJWTWZ2WDUtTEV1NGkxTm1sR2Z2ZzF6bENXU1U?oc=5\" target=\"_blank\">정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMXgxT2cwWXZseGk4SU5OSzVRZGtEb2lNWjVjNk9zbkRDcVIzcUZjSklmS2tfVDZwVW9rR0t6QjJWTWZ2WDUtTEV1NGkxTm1sR2Z2ZzF6bENXU1U?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 05:37:00 GMT",
+        "source": "KBS 뉴스",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "49e6125a89615f8eaf55bc79aabf09a668e485c5bc304500b6354d51801409ec",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라” - KBS 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMXgxT2cwWXZseGk4SU5OSzVRZGtEb2lNWjVjNk9zbkRDcVIzcUZjSklmS2tfVDZwVW9rR0t6QjJWTWZ2WDUtTEV1NGkxTm1sR2Z2ZzF6bENXU1U?oc=5\" target=\"_blank\">정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMXgxT2cwWXZseGk4SU5OSzVRZGtEb2lNWjVjNk9zbkRDcVIzcUZjSklmS2tfVDZwVW9rR0t6QjJWTWZ2WDUtTEV1NGkxTm1sR2Z2ZzF6bENXU1U?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 05:37:00 GMT",
+        "source": "KBS 뉴스",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d1baf18fc5ae0f980779ed73646006c79ce37a52447a64da138b267caab13332",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석, 강금실 국정원장 지명에 \"청개구리도 아니고...뜬금포\" - 경북도민일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWjVldzVYUnozaWFNMlV6TFFsT19KT1MzSHJPa3hjQnFTUjJpaWs2c3JXY0EzLTFSNDdPbzVJaFNPV1hzS0hSdUhPd3N3WjU5MlI5VnM5MS1tNDNmSWw1QjN3dHFOLXdWQlE?oc=5\" target=\"_blank\">이준석, 강금실 국정원장 지명에 \"청개구리도 아니고...뜬금포\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북도민일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWjVldzVYUnozaWFNMlV6TFFsT19KT1MzSHJPa3hjQnFTUjJpaWs2c3JXY0EzLTFSNDdPbzVJaFNPV1hzS0hSdUhPd3N3WjU5MlI5VnM5MS1tNDNmSWw1QjN3dHFOLXdWQlE?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 05:46:56 GMT",
+        "source": "경북도민일보",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "abe4362b3f1de05bad62d99d764358fd5c37c9dfc80f46ea551e04934f3578dd",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 조국혁신당 의원 “4개 항만공사 통합 용역 중단\" 촉구 - 브레이크뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ndVJ3S0dYbHRWUkVvM3ZPZlBIek9LWG1LNndyd09MYV91UVF2VjBpYmdjZkVUcTA0QmpmRjUyYS1CQQ?oc=5\" target=\"_blank\">신장식 조국혁신당 의원 “4개 항만공사 통합 용역 중단\" 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">브레이크뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ndVJ3S0dYbHRWUkVvM3ZPZlBIek9LWG1LNndyd09MYV91UVF2VjBpYmdjZkVUcTA0QmpmRjUyYS1CQQ?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 05:15:00 GMT",
+        "source": "브레이크뉴스",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "60bc593bd73a2177831eeabba5854eb9aba9169e46121c56d5aad378bc3e2bd2",
-    "title": "이준석, 강금실 국정원장 지명에 \"뜬금포…전문성 빼고 해명거리 더해\" - 뉴시스",
+    "postId": "8b4166750a0cbed6aad0431475388e48b0e83cc4d17d831822a5ec80d85787c6",
+    "title": "[정치분석] 윤상현, 한동훈 ‘기획 제명’ 의혹에 지도부 책임론 제기 … 장동혁 직접 해명 요구 - 인천뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45335024818",
-    "sentAt": "2026-11-24T05:41:17.195Z"
+    "runId": "45336175647",
+    "sentAt": "2026-11-24T05:51:21.813Z"
   }
 }

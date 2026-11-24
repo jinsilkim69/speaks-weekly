@@ -4057,3 +4057,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 ‘대장동’ 글 올리자…국힘 "할 말 많으면 재판부터" - JTBC
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 ‘대장동’ 글 올리자…국힘 "할 말 많으면 재판부터"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ybWttRUpBS2k4WnJvM3NOaVRmMVlMV3QzZngtRGNudEV0NEMyRjRsd1l1cUhtVk80YTN0RmFENkZIRlJKNXBnVzc2dWhaTTJhZ2c?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 공수처, '한동훈 딸 허위 스펙' 수사 무마 의혹 수사4부 배당 - 한국경제
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 공수처, '한동훈 딸 허위 스펙' 수사 무마 의혹 수사4부 배당
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQQy1vcTNFSGdZT2NLNFBNY3d5Ni1wVmJBc0wxSVI3Y1hGNTRaNDNaLVFzWHY2ZnlQbmlPWGdQMURTZ2tHZ1dsY0w5LXQyNUUyVFlvZUNMOEtnUQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [정치분석] 윤상현, 한동훈 ‘기획 제명’ 의혹에 지도부 책임론 제기 … 장동혁 직접 해명 요구 - 인천뉴스
+
+- **수집일**: 2026-11-24 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 윤상현, 한동훈 ‘기획 제명’ 의혹에 지도부 책임론 제기 … 장동혁 직접 해명 요구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBDbzNqZ2l4MnBsVEZfRnhCTUc4WlhFVTlTTFhHZmRmOHVOZnMyRVQxWEgyU2xsb1RlN1E1TmFDUGF5Z2FwX3JSdkZsVkdKMnV6NEt0V2g1cG5yTXZ3WXdhWEZZSXpVYWdJa0hrRjhn?oc=5)
+
+---
+
