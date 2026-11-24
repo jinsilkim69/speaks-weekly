@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-24T08:31:16.810Z",
+  "lastCheckedAt": "2026-11-24T08:41:15.481Z",
   "seenPostIds": {
-    "0ccbbeec07bdf4665c0258e5b7e67832641a9338438bf80edcf82edc70a2182e": {
-      "seenAt": "2026-11-21T21:21:17.609Z",
-      "title": "Trump once again called Putin his friend — this time dedicating a separate post to him on Truth Social - Українські Національні Новини (УНН)",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "447abecb348ce8ccfe6d200683bb995e7ce842fb400892f97e09f1bc7b240808": {
-      "seenAt": "2026-11-21T21:41:24.159Z",
-      "title": "신천지 논란 순천 정청래 강연, 배후에 미키루크 이상호 - 시민언론 뉴탐사",
-      "targetName": "정청래"
-    },
-    "576cb16c7100bb7d9d4691e3f3ef27d611b2bb6e1ce3de04465040143520c9f3": {
-      "seenAt": "2026-11-21T21:51:20.670Z",
-      "title": "한은, 기준금리 인상 재개하나...美 PCE·성장률 관심 [한동훈의 위클리전망대] - 서울경제",
-      "targetName": "한동훈"
-    },
     "182ef06a6248de48dce0e1e0d915dc8d622d146724ad776e98a563c757a3e25d": {
       "seenAt": "2026-11-21T21:51:21.421Z",
       "title": "Trump-backed film incentive plan comes as California production falls - Mezha.net",
@@ -2515,14 +2500,59 @@
       "seenAt": "2026-11-24T08:31:19.862Z",
       "title": "판결 불복 없다지만…與 토론회서 송영길 “판결도 탄핵사유로” - 중앙일보",
       "targetName": "송영길"
+    },
+    "990e43fec84bbb15b53ac149454a6ca4f0e70276885dbf626078af18d97a9ada": {
+      "seenAt": "2026-11-24T08:41:17.143Z",
+      "title": "김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문",
+      "targetName": "김민석"
+    },
+    "020afc4b1d8eb4d1608bf11e63a769895122bfbf89c3da0ef3e5c90c27ab43c8": {
+      "seenAt": "2026-11-24T08:41:17.775Z",
+      "title": "김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문",
+      "targetName": "정청래"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "c860bb762b279dab991a31dd9423b5f60495d77676af2edaae08bd33df84254a",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석 \"한동훈식 '검찰정치'는 위험…금도라는 게 없어\" - 조세일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE45RHRVdjZGUnJpVUdnbjVRSEhma3JnUXN4NWtTcFFDTUprVHVMdGdJUV9WYzB6a2QybDlsZ3BjcTFvWURyLTIwb0RIb1RTR2Rya1RCem5QX1gwcGlGRWlLamxMSlA1WFdheEMzRnJQakVuZ1l1?oc=5\" target=\"_blank\">이준석 \"한동훈식 '검찰정치'는 위험…금도라는 게 없어\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45RHRVdjZGUnJpVUdnbjVRSEhma3JnUXN4NWtTcFFDTUprVHVMdGdJUV9WYzB6a2QybDlsZ3BjcTFvWURyLTIwb0RIb1RTR2Rya1RCem5QX1gwcGlGRWlLamxMSlA1WFdheEMzRnJQakVuZ1l1?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 08:02:59 GMT",
+        "source": "조세일보",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5d3c21d8d67d952d8e02e37d9c5d94d9d73480148a95bf5b7f1a5e56a2d56c5c",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "‘조작징계’ 주장에 장동혁-한동훈 정면 충돌 “한, 보수 궤멸의 중심” “장, 배후 조종 인정” - 한겨레",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9iTUxGa3FPMjNibUpPemJOcDZiTXpXZTRVeG9seHhWT0VVVzAxOGdxemliZ2xma1NjcDIzcWFMX3U3bWlvODM5NXVOZWNwWlRFaXc5enM0T19DVTRha0draS1GaWgzbS1ZZmc?oc=5\" target=\"_blank\">‘조작징계’ 주장에 장동혁-한동훈 정면 충돌 “한, 보수 궤멸의 중심” “장, 배후 조종 인정”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iTUxGa3FPMjNibUpPemJOcDZiTXpXZTRVeG9seHhWT0VVVzAxOGdxemliZ2xma1NjcDIzcWFMX3U3bWlvODM5NXVOZWNwWlRFaXc5enM0T19DVTRha0draS1GaWgzbS1ZZmc?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 08:29:00 GMT",
+        "source": "한겨레",
+        "ageHours": 0.2
+      },
+      "delivered": [
+        "8fdc3f4b1dbf2dc5122f780054dd64fe1a8a0fcaad00c76ceb9e5b758b49ecc3"
+      ],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "7a719ca206cbb07c42930adbe731a49c0eff01b4e0506d0a898771cd9b3f0741",
-    "title": "판결 불복 없다지만…與 토론회서 송영길 “판결도 탄핵사유로” - 중앙일보",
+    "postId": "020afc4b1d8eb4d1608bf11e63a769895122bfbf89c3da0ef3e5c90c27ab43c8",
+    "title": "김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45356797911",
-    "sentAt": "2026-11-24T08:31:19.430Z"
+    "runId": "45358259187",
+    "sentAt": "2026-11-24T08:41:17.459Z"
   }
 }
