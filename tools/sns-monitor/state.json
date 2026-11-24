@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-24T07:51:15.930Z",
+  "lastCheckedAt": "2026-11-24T08:01:14.148Z",
   "seenPostIds": {
     "f9c5dfceb3fcb8106028522bbcedbd77c45928d5f9072e1fe236fcac3b165621": {
       "seenAt": "2026-11-21T19:11:19.402Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-24T07:41:18.232Z",
       "title": "이준석 \"강금실, 정보·방첩 경력 전무\" … 국정원장 인선 맹비판 - 뉴데일리",
       "targetName": "이준석"
+    },
+    "daa17090a0bb100cd2288416e2862893ae33ac76b47036874710b79a8f0701e7": {
+      "seenAt": "2026-11-24T08:01:15.260Z",
+      "title": "취임 100일 김민석, 정청래 폭풍 SNS에 \"말씀드릴 필요 없어\" - 조선일보",
+      "targetName": "김민석"
+    },
+    "17329dea7675bf5c01865a47af7dcd8fea2e7b583e8f1402a6b1b465c7d1df6a": {
+      "seenAt": "2026-11-24T08:01:15.961Z",
+      "title": "취임 100일 김민석, 정청래 폭풍 SNS에 \"말씀드릴 필요 없어\" - 조선일보",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "da0491ea1293acf69a9c73f8f64a8e273a6b111901140992257d516df2b04e07",
-    "title": "이준석 \"강금실, 정보·방첩 경력 전무\" … 국정원장 인선 맹비판 - 뉴데일리",
+    "postId": "17329dea7675bf5c01865a47af7dcd8fea2e7b583e8f1402a6b1b465c7d1df6a",
+    "title": "취임 100일 김민석, 정청래 폭풍 SNS에 \"말씀드릴 필요 없어\" - 조선일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45349877532",
-    "sentAt": "2026-11-24T07:41:17.920Z"
+    "runId": "45352483668",
+    "sentAt": "2026-11-24T08:01:15.594Z"
   }
 }

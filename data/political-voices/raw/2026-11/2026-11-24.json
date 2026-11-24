@@ -3705,5 +3705,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "daa17090a0bb100cd2288416e2862893ae33ac76b47036874710b79a8f0701e7",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "취임 100일 김민석, 정청래 폭풍 SNS에 \"말씀드릴 필요 없어\" - 조선일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUk2cm8zemxSV3A0ZmxaQ2gzS0xNMFpXVzVqQThqVFFYak9veU9zSGVsa3VMS1VfRmY3bEMyR05KUDhDMXpmZzJfYWdPUTJwSXZWZWU1RTNZOTc1YzZ5VUwwTFNzVlhIN3lYc3JjRTVhTFdvTUpZd1BNd0h0MmtHUmdHQzFRSEwyUXRTS2JzYVU?oc=5\" target=\"_blank\">취임 100일 김민석, 정청래 폭풍 SNS에 \"말씀드릴 필요 없어\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUk2cm8zemxSV3A0ZmxaQ2gzS0xNMFpXVzVqQThqVFFYak9veU9zSGVsa3VMS1VfRmY3bEMyR05KUDhDMXpmZzJfYWdPUTJwSXZWZWU1RTNZOTc1YzZ5VUwwTFNzVlhIN3lYc3JjRTVhTFdvTUpZd1BNd0h0MmtHUmdHQzFRSEwyUXRTS2JzYVU?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 07:47:00 GMT",
+    "source": "조선일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 취임 100일 김민석, 정청래 폭풍 SNS에 \"말씀드릴 필요 없어\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "17329dea7675bf5c01865a47af7dcd8fea2e7b583e8f1402a6b1b465c7d1df6a",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "취임 100일 김민석, 정청래 폭풍 SNS에 \"말씀드릴 필요 없어\" - 조선일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUk2cm8zemxSV3A0ZmxaQ2gzS0xNMFpXVzVqQThqVFFYak9veU9zSGVsa3VMS1VfRmY3bEMyR05KUDhDMXpmZzJfYWdPUTJwSXZWZWU1RTNZOTc1YzZ5VUwwTFNzVlhIN3lYc3JjRTVhTFdvTUpZd1BNd0h0MmtHUmdHQzFRSEwyUXRTS2JzYVU?oc=5\" target=\"_blank\">취임 100일 김민석, 정청래 폭풍 SNS에 \"말씀드릴 필요 없어\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUk2cm8zemxSV3A0ZmxaQ2gzS0xNMFpXVzVqQThqVFFYak9veU9zSGVsa3VMS1VfRmY3bEMyR05KUDhDMXpmZzJfYWdPUTJwSXZWZWU1RTNZOTc1YzZ5VUwwTFNzVlhIN3lYc3JjRTVhTFdvTUpZd1BNd0h0MmtHUmdHQzFRSEwyUXRTS2JzYVU?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 07:47:00 GMT",
+    "source": "조선일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 취임 100일 김민석, 정청래 폭풍 SNS에 \"말씀드릴 필요 없어\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
