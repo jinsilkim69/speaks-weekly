@@ -73,5 +73,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "2077e9092f9ae4abbe3637e36767a919b4be7043a16de9cc58e935ad82b0b6e0",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국, 與내홍에 \"도무지 이해 안 돼…김민석 총체적 책임져야\" - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lakp2WnEzdDZ5N2VlVThLQjNaOXRXb2RLSktuTmNMN0tIZENNSk5UOXJSa2s4SG9ua0FUcVhrUHpXaThkMVlIZUZ1cGtMbXdCeDg5dWZxWm80Zw?oc=5\" target=\"_blank\">조국, 與내홍에 \"도무지 이해 안 돼…김민석 총체적 책임져야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lakp2WnEzdDZ5N2VlVThLQjNaOXRXb2RLSktuTmNMN0tIZENNSk5UOXJSa2s4SG9ua0FUcVhrUHpXaThkMVlIZUZ1cGtMbXdCeDg5dWZxWm80Zw?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 14:23:49 GMT",
+    "source": "뉴스1",
+    "ageHours": 1.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국, 與내홍에 \"도무지 이해 안 돼…김민석 총체적 책임져야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "35ee65cf6ee66f8816ee4ed0728ef510dd0b3607ffe33117d9feadee46d35671",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Who’s Paying to See Trump’s Posts Early? We’re About to Find Out. - The New Republic",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTR6a0tiSkU0NlAzN3gwMjZuVzdXRlpsbVlpaG9DbWF4bFJoUno5aTZJQTVTV0JPNmVCOHhqZmNHYWp3RlplWC1HbTFuR2MzQ3VqTnRBel91Q2RTNV9IRkZmeXNrUG1GQXlQSUFDdzNBQklLWGxLYnN2X18wc1VfRHkyRlN4eGFQeXc?oc=5\" target=\"_blank\">Who’s Paying to See Trump’s Posts Early? We’re About to Find Out.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Republic</font>",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTR6a0tiSkU0NlAzN3gwMjZuVzdXRlpsbVlpaG9DbWF4bFJoUno5aTZJQTVTV0JPNmVCOHhqZmNHYWp3RlplWC1HbTFuR2MzQ3VqTnRBel91Q2RTNV9IRkZmeXNrUG1GQXlQSUFDdzNBQklLWGxLYnN2X18wc1VfRHkyRlN4eGFQeXc?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 15:37:25 GMT",
+    "source": "The New Republic",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Who’s Paying to See Trump’s Posts Early? We’re About to Find Out.",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

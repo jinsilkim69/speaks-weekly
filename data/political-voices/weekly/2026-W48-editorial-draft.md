@@ -8074,3 +8074,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 與내홍에 "도무지 이해 안 돼…김민석 총체적 책임져야" - 뉴스1
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 與내홍에 "도무지 이해 안 돼…김민석 총체적 책임져야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lakp2WnEzdDZ5N2VlVThLQjNaOXRXb2RLSktuTmNMN0tIZENNSk5UOXJSa2s4SG9ua0FUcVhrUHpXaThkMVlIZUZ1cGtMbXdCeDg5dWZxWm80Zw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Who’s Paying to See Trump’s Posts Early? We’re About to Find Out. - The New Republic
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Who’s Paying to See Trump’s Posts Early? We’re About to Find Out.
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTR6a0tiSkU0NlAzN3gwMjZuVzdXRlpsbVlpaG9DbWF4bFJoUno5aTZJQTVTV0JPNmVCOHhqZmNHYWp3RlplWC1HbTFuR2MzQ3VqTnRBel91Q2RTNV9IRkZmeXNrUG1GQXlQSUFDdzNBQklLWGxLYnN2X18wc1VfRHkyRlN4eGFQeXc?oc=5)
+
+---
+

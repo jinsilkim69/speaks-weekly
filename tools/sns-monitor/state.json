@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T15:53:44.852Z",
+  "lastCheckedAt": "2026-11-25T16:11:34.422Z",
   "seenPostIds": {
     "cc74de74aa10921ab48e67cbb7fcc923dee81c2e4ac6a19b8246579346db4e4a": {
       "seenAt": "2026-11-23T07:51:17.533Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-25T15:31:17.699Z",
       "title": "Trump posts picture of the sign of the road named after him - Bradenton Herald",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "2077e9092f9ae4abbe3637e36767a919b4be7043a16de9cc58e935ad82b0b6e0": {
+      "seenAt": "2026-11-25T16:11:36.273Z",
+      "title": "조국, 與내홍에 \"도무지 이해 안 돼…김민석 총체적 책임져야\" - 뉴스1",
+      "targetName": "조국"
+    },
+    "35ee65cf6ee66f8816ee4ed0728ef510dd0b3607ffe33117d9feadee46d35671": {
+      "seenAt": "2026-11-25T16:11:37.040Z",
+      "title": "Who’s Paying to See Trump’s Posts Early? We’re About to Find Out. - The New Republic",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "e673e0bf67ed4f3ce07f28af1828edd918729f819a8b70bb07243c7d0fde9df7",
-    "title": "Trump posts picture of the sign of the road named after him - Bradenton Herald",
+    "postId": "35ee65cf6ee66f8816ee4ed0728ef510dd0b3607ffe33117d9feadee46d35671",
+    "title": "Who’s Paying to See Trump’s Posts Early? We’re About to Find Out. - The New Republic",
     "bot": "jongsuk_pol_bot",
-    "runId": "45646027503",
-    "sentAt": "2026-11-25T15:31:16.873Z"
+    "runId": "45651632658",
+    "sentAt": "2026-11-25T16:11:36.654Z"
   }
 }
