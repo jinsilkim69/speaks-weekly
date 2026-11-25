@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T18:31:14.018Z",
+  "lastCheckedAt": "2026-11-25T18:41:15.086Z",
   "seenPostIds": {
     "ad7bb894fa08ae019a09b02193d71ef6d5aa347b90db94f42f05acfd38e193f0": {
       "seenAt": "2026-11-23T08:11:15.894Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-25T17:51:20.090Z",
       "title": "정청래, 대통령에겐 '베리 굿' 송영길,김민석에겐 맹공!' (261125 수요일 방송) 김용남 박진영 장성철 허재무 - 경향신문",
       "targetName": "김민석"
+    },
+    "603fd96d00dd6a7758aca4075035aaf9154742e6839ef21640823d3f6e4a9443": {
+      "seenAt": "2026-11-25T18:41:16.397Z",
+      "title": "경쟁자였던 송영길이 본 김민석 100일 #shorts - 오마이TV - OhmyNews",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "e675d4e45201c8cdd805d3c40bad754e421a1185af48076dd44099b6d8a1f158",
-    "title": "정청래, 대통령에겐 '베리 굿' 송영길,김민석에겐 맹공!' (261125 수요일 방송) 김용남 박진영 장성철 허재무 - 경향신문",
+    "postId": "603fd96d00dd6a7758aca4075035aaf9154742e6839ef21640823d3f6e4a9443",
+    "title": "경쟁자였던 송영길이 본 김민석 100일 #shorts - 오마이TV - OhmyNews",
     "bot": "jongsuk_pol_bot",
-    "runId": "45669048816",
-    "sentAt": "2026-11-25T17:51:19.379Z"
+    "runId": "45677633646",
+    "sentAt": "2026-11-25T18:41:15.759Z"
   }
 }
