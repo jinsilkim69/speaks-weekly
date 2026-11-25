@@ -6241,3 +6241,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 "이 대통령, 정청래 억울함 4시간 들어"‥정 "입 조심하라" - MBC 뉴스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "이 대통령, 정청래 억울함 4시간 들어"‥정 "입 조심하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBaaDJlQWpsYVFRZjVSSFBic2R2UmZ4MGZMUkUwWjEtb3BMbEdMQkVfdEMzM05PTTNJMkpuUWN5bVR5c2R4M24wWkZtaklKQ29YUTFiMlJSdWtCM2RNSkpqQ2gtVjdxU1NoMEhGVzUwSmFnOXRhQWRIVNIBeEFVX3lxTE1QbTRLNG5zbUJBeE1iWmJCdk83V1gyNjBEMVRQa1VQR3hOeUs2UVg5ZDlhWEFPWmhTTGoyZ1JjUWxvZVlxU3VQekN4d3VDVjliN01RTTI2Q2I0MXA3VDdkUUxhLVdSWHplZnJUVFpxd2JLU2EwR0NPUA?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 송영길에 '2차 공세'…與 신천지 내홍, 내년 4월까지 이어지나 - 한국경제
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 송영길에 '2차 공세'…與 신천지 내홍, 내년 4월까지 이어지나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYZDBnT01KRloyNW94RDhIZ0RWbkoxWDVUWkloci1xZmNKSlVURTNBS25NTFdZa3ZQOG1nSmtXSXRaeDJhYTV5WHNHdk05LU81OGNUTkNVbDBZUQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OSEo2QnJDbmFNSWd6bUE2QXczdGF0MjBGcFdxWUFJMVhOYS0yMWw2NDdiRE5OQ3FjcXJqVjJZeXVieTE2VXBjMklTSkZuaU1tbkwxZnFpUzhEYXRHcUVtU2VKdXliMDlsLXBFQ2hWVQ?oc=5)
+
+---
+

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T03:21:16.728Z",
+  "lastCheckedAt": "2026-11-25T03:31:14.651Z",
   "seenPostIds": {
-    "b9bdb41099a9adff22d6fff185def44e263d7cc8ff76a461e1cf281704b3c1bb": {
-      "seenAt": "2026-11-22T09:41:17.597Z",
-      "title": "김민석 취임 100일 앞두고 반전 없었다…흔들리는 리더십 - 자유일보",
-      "targetName": "김민석"
-    },
-    "07c4fcc1a53cdbd1ccf617f0873b0bbd47b7d331109e3541dfc6bcb75024fc70": {
-      "seenAt": "2026-11-22T09:51:12.924Z",
-      "title": "이재명 대통령, 최교진 장관 사의 즉각 수리…\"全부처 시험관리실태 점검\" 지시 - 퍼블릭타임스",
-      "targetName": "이재명"
-    },
-    "d69a3f3240cbed05ba38c6aab36f07ad6b5fd4193b3abeb897f425fa3acbdcea": {
-      "seenAt": "2026-11-22T10:01:23.287Z",
-      "title": "김민석 100일, 세 번 교차한 민주당 지지율…표심은 어디로 향했나 - 주간경향",
-      "targetName": "김민석"
-    },
     "b7338e0c5b03f6f025616d6733fc1e1412997afb8f46d6dbf994f560808badbc": {
       "seenAt": "2026-11-22T10:01:23.917Z",
       "title": "지지율 5%P 추락·명청 대전 격화 …김민석 리더십 시험대 - 세계일보",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T03:21:19.890Z",
       "title": "[기획특집_세계를 움직이는 정상들이 뉴스보다 먼저 띄운 말, \"아침을 여는 SNS 소통 메시지\"④] 이재명 “역사 교정 계속”, 모디는 갠지스 찬가, 유엔은 AI 안전, 짐바브웨는 여성폭력 근절 촉구 - STN SPORTS",
       "targetName": "이재명"
+    },
+    "36c63a90503387ebf9b68f83b758ddea079927e84a63559988a84ed1bc8cfd26": {
+      "seenAt": "2026-11-25T03:31:15.880Z",
+      "title": "송영길 \"이 대통령, 정청래 억울함 4시간 들어\"‥정 \"입 조심하라\" - MBC 뉴스",
+      "targetName": "정청래"
+    },
+    "890bb2ea6dde29e56e54b2f05328786525935ab255ee5b4e323e18aee4ba388e": {
+      "seenAt": "2026-11-25T03:31:16.529Z",
+      "title": "정청래, 송영길에 '2차 공세'…與 신천지 내홍, 내년 4월까지 이어지나 - 한국경제",
+      "targetName": "정청래"
+    },
+    "bdbb5a29ccc22223628b018e481b95979339c9a5f96fc0ebed8f6ab5cae142f7": {
+      "seenAt": "2026-11-25T03:31:17.215Z",
+      "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "36c63a90503387ebf9b68f83b758ddea079927e84a63559988a84ed1bc8cfd26",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "송영길 \"이 대통령, 정청래 억울함 4시간 들어\"‥정 \"입 조심하라\" - MBC 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBaaDJlQWpsYVFRZjVSSFBic2R2UmZ4MGZMUkUwWjEtb3BMbEdMQkVfdEMzM05PTTNJMkpuUWN5bVR5c2R4M24wWkZtaklKQ29YUTFiMlJSdWtCM2RNSkpqQ2gtVjdxU1NoMEhGVzUwSmFnOXRhQWRIVNIBeEFVX3lxTE1QbTRLNG5zbUJBeE1iWmJCdk83V1gyNjBEMVRQa1VQR3hOeUs2UVg5ZDlhWEFPWmhTTGoyZ1JjUWxvZVlxU3VQekN4d3VDVjliN01RTTI2Q2I0MXA3VDdkUUxhLVdSWHplZnJUVFpxd2JLU2EwR0NPUA?oc=5\" target=\"_blank\">송영길 \"이 대통령, 정청래 억울함 4시간 들어\"‥정 \"입 조심하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaaDJlQWpsYVFRZjVSSFBic2R2UmZ4MGZMUkUwWjEtb3BMbEdMQkVfdEMzM05PTTNJMkpuUWN5bVR5c2R4M24wWkZtaklKQ29YUTFiMlJSdWtCM2RNSkpqQ2gtVjdxU1NoMEhGVzUwSmFnOXRhQWRIVNIBeEFVX3lxTE1QbTRLNG5zbUJBeE1iWmJCdk83V1gyNjBEMVRQa1VQR3hOeUs2UVg5ZDlhWEFPWmhTTGoyZ1JjUWxvZVlxU3VQekN4d3VDVjliN01RTTI2Q2I0MXA3VDdkUUxhLVdSWHplZnJUVFpxd2JLU2EwR0NPUA?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:10:47 GMT",
-        "source": "MBC 뉴스",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "890bb2ea6dde29e56e54b2f05328786525935ab255ee5b4e323e18aee4ba388e",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 송영길에 '2차 공세'…與 신천지 내홍, 내년 4월까지 이어지나 - 한국경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYZDBnT01KRloyNW94RDhIZ0RWbkoxWDVUWkloci1xZmNKSlVURTNBS25NTFdZa3ZQOG1nSmtXSXRaeDJhYTV5WHNHdk05LU81OGNUTkNVbDBZUQ?oc=5\" target=\"_blank\">정청래, 송영길에 '2차 공세'…與 신천지 내홍, 내년 4월까지 이어지나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYZDBnT01KRloyNW94RDhIZ0RWbkoxWDVUWkloci1xZmNKSlVURTNBS25NTFdZa3ZQOG1nSmtXSXRaeDJhYTV5WHNHdk05LU81OGNUTkNVbDBZUQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:28:00 GMT",
-        "source": "한국경제",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "bdbb5a29ccc22223628b018e481b95979339c9a5f96fc0ebed8f6ab5cae142f7",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9OSEo2QnJDbmFNSWd6bUE2QXczdGF0MjBGcFdxWUFJMVhOYS0yMWw2NDdiRE5OQ3FjcXJqVjJZeXVieTE2VXBjMklTSkZuaU1tbkwxZnFpUzhEYXRHcUVtU2VKdXliMDlsLXBFQ2hWVQ?oc=5\" target=\"_blank\">송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OSEo2QnJDbmFNSWd6bUE2QXczdGF0MjBGcFdxWUFJMVhOYS0yMWw2NDdiRE5OQ3FjcXJqVjJZeXVieTE2VXBjMklTSkZuaU1tbkwxZnFpUzhEYXRHcUVtU2VKdXliMDlsLXBFQ2hWVQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:22:00 GMT",
-        "source": "인천일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "9b65706dab9a4e60d9fe45feddf0fd3efbfcf086ce6dd13452cb62971aa9f89e",
@@ -2805,13 +2757,77 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "d21bab3fec7fc0878afc0050724d36a90e73ec20283d8ca1c264143fa26592fb",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 “조희대 탄핵 인용 땐 의원직 사퇴…서영교·박선원도 직 걸라” - 서울경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa3hFSnp6Q18wSDRXM2NSTDdNVFRZLVBPd0tLenRHZmhSdUlZMGYtdGhySC1rRm11ZHdTWDhGWnlxeE1KYjNDWWVSYW42S2Y0M3fSAVNBVV95cUxNMEdnTGhHOFk0RXZMekpadzFHUEFtMDR0SDZnaVdFeVFwZ0tpbGFZbDc4NzNDVjhWb1Q3eDBSTjh6M2pUa0Q4SzdXTGM1c0s4ZkdVYw?oc=5\" target=\"_blank\">한동훈 “조희대 탄핵 인용 땐 의원직 사퇴…서영교·박선원도 직 걸라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa3hFSnp6Q18wSDRXM2NSTDdNVFRZLVBPd0tLenRHZmhSdUlZMGYtdGhySC1rRm11ZHdTWDhGWnlxeE1KYjNDWWVSYW42S2Y0M3fSAVNBVV95cUxNMEdnTGhHOFk0RXZMekpadzFHUEFtMDR0SDZnaVdFeVFwZ0tpbGFZbDc4NzNDVjhWb1Q3eDBSTjh6M2pUa0Q4SzdXTGM1c0s4ZkdVYw?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:00:04 GMT",
+        "source": "서울경제",
+        "ageHours": 2.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "794d3af3dcfecceada2d012b553bc3cc8faf8af3964a5b932dfc2cbc7b669d2d",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YQ2oxZTZLTnlISUxVUmVDSE83WWNLdnJDVk94RmlCZ0pCeU1wZFJFQlB1clZfblNLUkp2NE9oRnU2Q3NxZGdBdEVYNlhPa1BHUnptbnA4cTR1TWF2TUZWWNIBYEFVX3lxTE5YQ2oxZTZLTnlISUxVUmVDSE83WWNLdnJDVk94RmlCZ0pCeU1wZFJFQlB1clZfblNLUkp2NE9oRnU2Q3NxZGdBdEVYNlhPa1BHUnptbnA4cTR1TWF2TUZWWA?oc=5\" target=\"_blank\">송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YQ2oxZTZLTnlISUxVUmVDSE83WWNLdnJDVk94RmlCZ0pCeU1wZFJFQlB1clZfblNLUkp2NE9oRnU2Q3NxZGdBdEVYNlhPa1BHUnptbnA4cTR1TWF2TUZWWNIBYEFVX3lxTE5YQ2oxZTZLTnlISUxVUmVDSE83WWNLdnJDVk94RmlCZ0pCeU1wZFJFQlB1clZfblNLUkp2NE9oRnU2Q3NxZGdBdEVYNlhPa1BHUnptbnA4cTR1TWF2TUZWWA?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:32:29 GMT",
+        "source": "연합뉴스",
+        "ageHours": 1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "faffef458a95b529e2334c4b46b52a4d640dab680d73d21fa1466601921a3196",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석 \"한동훈, 남을 찌르기만 했던 분…검찰 정치는 위험\" - 청주일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9saHhTMmhGQnBqRklfQUhnNmYxa1d0M3pMVXlXU3d5WkZKbXBWWXdiWW5pa2xSU0RMZmNmQWl3Si1SQnUxRUx0ekpjdUpKcVBZZ1BqVHEzWHh4aUhYY3ZUU2RpQThnYUVrcHdJ?oc=5\" target=\"_blank\">이준석 \"한동훈, 남을 찌르기만 했던 분…검찰 정치는 위험\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">청주일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9saHhTMmhGQnBqRklfQUhnNmYxa1d0M3pMVXlXU3d5WkZKbXBWWXdiWW5pa2xSU0RMZmNmQWl3Si1SQnUxRUx0ekpjdUpKcVBZZ1BqVHEzWHh4aUhYY3ZUU2RpQThnYUVrcHdJ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 00:23:39 GMT",
+        "source": "청주일보",
+        "ageHours": 3.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "54f5a2646de2c97f745a6a0970d403f16569a6b13ad979817609e609c62ddbfb",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "김민석, ‘조희대 탄핵’ 5당 연대 공식 제안…조국혁신당 “환영” - 아시아타임즈",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oem1tZnAwTmNYS3I5aWVZS0lTSG0zRl9lakxtRjh6eXhwTjhvbjRXN2V3TjVpTEdDOHhGbUp0M29zdjhhY1pxdWdGakNVOWQ4eklRNWxhejlzeFZabnc?oc=5\" target=\"_blank\">김민석, ‘조희대 탄핵’ 5당 연대 공식 제안…조국혁신당 “환영”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아타임즈</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oem1tZnAwTmNYS3I5aWVZS0lTSG0zRl9lakxtRjh6eXhwTjhvbjRXN2V3TjVpTEdDOHhGbUp0M29zdjhhY1pxdWdGakNVOWQ4eklRNWxhejlzeFZabnc?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 03:20:00 GMT",
+        "source": "아시아타임즈",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "e5903acf5a8ed0391d46b8a2bc9bfb1f5f599a6a7e9a9d3010179437bba63b04",
-    "title": "[기획특집_세계를 움직이는 정상들이 뉴스보다 먼저 띄운 말, \"아침을 여는 SNS 소통 메시지\"④] 이재명 “역사 교정 계속”, 모디는 갠지스 찬가, 유엔은 AI 안전, 짐바브웨는 여성폭력 근절 촉구 - STN SPORTS",
+    "postId": "bdbb5a29ccc22223628b018e481b95979339c9a5f96fc0ebed8f6ab5cae142f7",
+    "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45539356936",
-    "sentAt": "2026-11-25T03:21:19.528Z"
+    "runId": "45540513700",
+    "sentAt": "2026-11-25T03:31:16.866Z"
   }
 }
