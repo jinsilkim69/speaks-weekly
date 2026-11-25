@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T12:01:14.944Z",
+  "lastCheckedAt": "2026-11-25T12:11:15.381Z",
   "seenPostIds": {
-    "aa8c03da48d7fa3625eb0abaa36f8c09df245bd73f256525d1f52a81fcc41c0e": {
-      "seenAt": "2026-11-23T06:31:16.038Z",
-      "title": "민심과 너무나도 다른 '보수 배신자' 한동훈 복당 여론! (TD 기획 기사) : 양영태박사 TV - 인터넷타임즈",
-      "targetName": "한동훈"
-    },
-    "87c798a0db6ec7dd2e063b3f23df8f7c5baf71a1c8e9add7662b1be3d607b407": {
-      "seenAt": "2026-11-23T06:31:16.645Z",
-      "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스",
-      "targetName": "김민석"
-    },
     "257a4cf712994fa5c6ca683e1a15cafb7a6f1fb9ee510cc4dc80766effbaf9fa": {
       "seenAt": "2026-11-23T06:41:15.854Z",
       "title": "김민석, 박선원 과도한 표현에 구두 경고 - 스페셜타임스",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-25T12:01:16.684Z",
       "title": "장동혁, ‘조희대 고향’ 경주서 여론전… 한동훈 “탄핵 인용 땐 사퇴” [조희대 탄핵 추진 파장] - 세계일보",
       "targetName": "한동훈"
+    },
+    "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047": {
+      "seenAt": "2026-11-25T12:11:16.514Z",
+      "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "695b12104fedc974234e5dcc420ffcbf4aedef1da53351e1eeee74db5405242b",
-    "title": "장동혁, ‘조희대 고향’ 경주서 여론전… 한동훈 “탄핵 인용 땐 사퇴” [조희대 탄핵 추진 파장] - 세계일보",
+    "postId": "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047",
+    "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
     "bot": "jongsuk_pol_bot",
-    "runId": "45609740706",
-    "sentAt": "2026-11-25T12:01:16.328Z"
+    "runId": "45611322580",
+    "sentAt": "2026-11-25T12:11:16.000Z"
   }
 }
