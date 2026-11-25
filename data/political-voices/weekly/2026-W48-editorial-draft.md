@@ -7125,3 +7125,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, '조희대 탄핵' 의원직 걸었다…"서영교·박선원, 걸어보라" - 조세일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, '조희대 탄핵' 의원직 걸었다…"서영교·박선원, 걸어보라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTFBWZndVdTdNTnlfYkJPeHVydy0tQUswamZLeGJpaWtpejVWeWh0a2FjcjRydTVfSmhfUmdwanJCV3V5VnlKNFRVVFFhT1dtZWR6R2cxVWpHeW1HWGZyTTNhTFdIc1lpWjRHSUxYei0weDlKXzUt?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵 인용되면 의원직 던지겠다…서영교·박선원도 걸어라" - 주간조선
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵 인용되면 의원직 던지겠다…서영교·박선원도 걸어라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTFBBUEFyQmVrVXZERVlDWTgydV9mSU9Hbk1YUkdnUDBXLVVSb0d6b2pXdHNQREtFekRyZlJyU045NDloU1R1TTRuREI0Z3NRLUs0UHM3d3FfMXk5WU9nN2E0SjVfVEM1XzFxVWVv?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "한동훈식 '검찰정치'는 위험…금도라는 게 없어" - 조세일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "한동훈식 '검찰정치'는 위험…금도라는 게 없어"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE8wNnI3ZE9fVDk5YkpjVXVLbmVpckcxdS1ydzRfS2ZqYUtnZ2N4R21YckUtWUhCbGk0aXZhQnhvNThBYjZsTFQ4cEtyYzgzc3VjNHlmQ1AxQ0lqSWJNeVFQNWtqSXlzYnVkeUE?oc=5)
+
+---
+
