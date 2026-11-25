@@ -956,5 +956,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "40a2e7f23984d81e01b4a248876a77a70823994634a7a83d2b67d756603edfa5",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸라…인용되면 난 사퇴” - 중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vOHpMblJZQ0xIUVlwMjYzaVJkZWFuRHUxYWJkU0RUYUVJdk9jaTZUYVpZNUhMVG0tSWlMcEFHLVVyWURMdkJxUGlFZ3lsNTdXNEVPbEFR?oc=5\" target=\"_blank\">한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸라…인용되면 난 사퇴”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vOHpMblJZQ0xIUVlwMjYzaVJkZWFuRHUxYWJkU0RUYUVJdk9jaTZUYVpZNUhMVG0tSWlMcEFHLVVyWURMdkJxUGlFZ3lsNTdXNEVPbEFR?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 00:10:47 GMT",
+    "source": "중앙일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸라…인용되면 난 사퇴”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "061f1d8146d802fb599acc39422c458dbd6a33376f9778e3886cc1a6c421c7db",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국, 연이은 호남 강연 행보…\"민생·개혁보다 내부 분쟁에 몰두\" - KBC광주방송",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QNUoyYkl3RWJacHQ3QzZIVUJ2ODRYS2lwU1AzY2lMdXRvTm5tMTlZYzNuLVdaSWtKRWI5OVpLSUhUU2FVa2ZSVFBpY1VlS2tnMXdCaXlZaTZxeDRDbWotYQ?oc=5\" target=\"_blank\">조국, 연이은 호남 강연 행보…\"민생·개혁보다 내부 분쟁에 몰두\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QNUoyYkl3RWJacHQ3QzZIVUJ2ODRYS2lwU1AzY2lMdXRvTm5tMTlZYzNuLVdaSWtKRWI5OVpLSUhUU2FVa2ZSVFBpY1VlS2tnMXdCaXlZaTZxeDRDbWotYQ?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 00:04:33 GMT",
+    "source": "KBC광주방송",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국, 연이은 호남 강연 행보…\"민생·개혁보다 내부 분쟁에 몰두\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
