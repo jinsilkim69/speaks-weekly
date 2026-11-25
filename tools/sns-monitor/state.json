@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T03:51:29.566Z",
+  "lastCheckedAt": "2026-11-25T04:01:24.352Z",
   "seenPostIds": {
-    "f81f5a585204fd9b8905d513575ffcf9e94d7af35af6b4e013f93e24f035a0f5": {
-      "seenAt": "2026-11-22T11:11:20.471Z",
-      "title": "김민석 \"민주당 큰 고민 중 하나는 청년…더 함께하고 싶다\" - TV서울",
-      "targetName": "김민석"
-    },
-    "5007521396e306ca82347916dabe96d17e3a61f0ceac611d8e9c298f9d53dba6": {
-      "seenAt": "2026-11-22T11:31:17.603Z",
-      "title": "Trump posts tribute to ‘friend’ Putin - The Telegraph",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "f8a4f95a4b228ed0e8f577f2c1d5cf69123a633bfd53d4af5a3e6d6b3c470c22": {
-      "seenAt": "2026-11-22T12:11:20.340Z",
-      "title": "김민석, 당대표·범진보 대선주자 모두 선두…민주당 지지층서 우위 [쿠키뉴스 여론조사] - 쿠키뉴스",
-      "targetName": "김민석"
-    },
     "b13fcad3b676f3cd6175a316a941c77fe06d3aa4c617175a3a0a8316238a5788": {
       "seenAt": "2026-11-22T12:11:20.950Z",
       "title": "‘취임 100일’ 김민석…‘최민희 징계’ 해법 내놓나 - 채널A",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T03:51:33.087Z",
       "title": "조국에 손 내민 김민석 “조희대 탄핵 연대 제안···완전한 내란 청산” - 주간경향",
       "targetName": "조국"
+    },
+    "9d6a0dad35f680feab654fc8e2de01ce981b95ffda03b6641612ea6b25ca055a": {
+      "seenAt": "2026-11-25T04:01:26.014Z",
+      "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
+      "targetName": "신장식"
+    },
+    "fcd6581c317d9849adbfccffe8af0ba053508bff0c756e64e6bd7f27019cc446": {
+      "seenAt": "2026-11-25T04:01:26.751Z",
+      "title": "이재명 대통령 \"여성이 두려움 없이 살아가고, 누구나 안심할 수 있는 사회 만들 것\" - 한국NGO신문",
+      "targetName": "이재명"
+    },
+    "5e4333de3b43f85b960486231325cf43b894bc858e03d1f26b6d57abd8781f8a": {
+      "seenAt": "2026-11-25T04:01:27.473Z",
+      "title": "정청래, 송영길에 \"입조심하라\"...대통령 회동 내용 공개 두고 설전 - 뉴스버스",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "9d6a0dad35f680feab654fc8e2de01ce981b95ffda03b6641612ea6b25ca055a",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1fWlBPSkZZYjBrSDRWWkJ1dWczV1ZfYS1fUDFMQVgxdldINzhiUU80azMwRTlOVUp3RjJBQmgyYU1fSEdCRWFoeXVBaG9CNnZFamlGRGZkbUpqQVluWGJKYXRtYy1PWjJmN0tneFJwMnFzWWN0UG04aXJB0gF_QVVfeXFMUERsVGdqWDVhalB3cHFaSDBCZlBXZU4tLTR2aThncnhGekhremRQZUVkcWFoNnY5anZYUEVoOGJscDZnS1Jua2d6THdYcEZtaURiOHA3WXdSQ1I0ZXBXbzBPNE42SXBrYnNlT0RzRFNxWTRDVjJ3NUdHWFRKMnAxSQ?oc=5\" target=\"_blank\">혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fWlBPSkZZYjBrSDRWWkJ1dWczV1ZfYS1fUDFMQVgxdldINzhiUU80azMwRTlOVUp3RjJBQmgyYU1fSEdCRWFoeXVBaG9CNnZFamlGRGZkbUpqQVluWGJKYXRtYy1PWjJmN0tneFJwMnFzWWN0UG04aXJB0gF_QVVfeXFMUERsVGdqWDVhalB3cHFaSDBCZlBXZU4tLTR2aThncnhGekhremRQZUVkcWFoNnY5anZYUEVoOGJscDZnS1Jua2d6THdYcEZtaURiOHA3WXdSQ1I0ZXBXbzBPNE42SXBrYnNlT0RzRFNxWTRDVjJ3NUdHWFRKMnAxSQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:30:41 GMT",
-        "source": "머니투데이",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "fcd6581c317d9849adbfccffe8af0ba053508bff0c756e64e6bd7f27019cc446",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령 \"여성이 두려움 없이 살아가고, 누구나 안심할 수 있는 사회 만들 것\" - 한국NGO신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMmtqbzViLW01b0tLUExRQVpGSE03UVMyaTlHeHFlcllWOTNuNXNhVUxCa0tXT2RrSkplV2JqTEtuZHluZFUyelEyZ183TTZFdGI1NEpSaGRmc09UM2luX25SUDFQZEFK?oc=5\" target=\"_blank\">이재명 대통령 \"여성이 두려움 없이 살아가고, 누구나 안심할 수 있는 사회 만들 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국NGO신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMmtqbzViLW01b0tLUExRQVpGSE03UVMyaTlHeHFlcllWOTNuNXNhVUxCa0tXT2RrSkplV2JqTEtuZHluZFUyelEyZ183TTZFdGI1NEpSaGRmc09UM2luX25SUDFQZEFK?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:38:42 GMT",
-        "source": "한국NGO신문",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5e4333de3b43f85b960486231325cf43b894bc858e03d1f26b6d57abd8781f8a",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 송영길에 \"입조심하라\"...대통령 회동 내용 공개 두고 설전 - 뉴스버스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9OTkdXQkgtUVByVkZLYVJzUzV0OWFzdloteHBsS1dPT1haelRMMFM0VjJubHZHTnZvZ2RuejdFMVI4X2VURGEzZm1JY2ktdHFKX1phTXFwR0ZJcndqdXJqQlNmbHVTVVFyLWc?oc=5\" target=\"_blank\">정청래, 송영길에 \"입조심하라\"...대통령 회동 내용 공개 두고 설전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스버스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OTkdXQkgtUVByVkZLYVJzUzV0OWFzdloteHBsS1dPT1haelRMMFM0VjJubHZHTnZvZ2RuejdFMVI4X2VURGEzZm1JY2ktdHFKX1phTXFwR0ZJcndqdXJqQlNmbHVTVVFyLWc?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:34:33 GMT",
-        "source": "뉴스버스",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "7d4825b038117b6bbf459a2c8585947717e48a510ca19e8f1f3c6306c6698813",
@@ -2805,13 +2757,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "bd426e049fa33dc6145bdd0824633af071131a0ecf8b112fdb842de1e4e68003",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 대통령, 5·18 진압 경찰 서훈 취소 “당연한 조치” - 시사위크",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1PTUtkWi0tVWNSelVGXzFMOS1heDFkZ3ZSbkdub1ZoVnF1S3hoTDNUNXRrNEsycUNZakJPUW1DdUlqdFVMX09nZjJhWXVsWlBabUppdzE1dF9qUDY0SDRtZDl1R2tLbFJENmxDMWRqNNIBb0FVX3lxTE1PTUtkWi0tVWNSelVGXzFMOS1heDFkZ3ZSbkdub1ZoVnF1S3hoTDNUNXRrNEsycUNZakJPUW1DdUlqdFVMX09nZjJhWXVsWlBabUppdzE1dF9qUDY0SDRtZDl1R2tLbFJENmxDMWRqNA?oc=5\" target=\"_blank\">이재명 대통령, 5·18 진압 경찰 서훈 취소 “당연한 조치”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사위크</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PTUtkWi0tVWNSelVGXzFMOS1heDFkZ3ZSbkdub1ZoVnF1S3hoTDNUNXRrNEsycUNZakJPUW1DdUlqdFVMX09nZjJhWXVsWlBabUppdzE1dF9qUDY0SDRtZDl1R2tLbFJENmxDMWRqNNIBb0FVX3lxTE1PTUtkWi0tVWNSelVGXzFMOS1heDFkZ3ZSbkdub1ZoVnF1S3hoTDNUNXRrNEsycUNZakJPUW1DdUlqdFVMX09nZjJhWXVsWlBabUppdzE1dF9qUDY0SDRtZDl1R2tLbFJENmxDMWRqNA?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:49:11 GMT",
+        "source": "시사위크",
+        "ageHours": 2.2
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "6a6dc8fca0b63c5d757e647e6f553787fcaf264eb5691b16072551bdc248e3bb",
-    "title": "조국에 손 내민 김민석 “조희대 탄핵 연대 제안···완전한 내란 청산” - 주간경향",
+    "postId": "5e4333de3b43f85b960486231325cf43b894bc858e03d1f26b6d57abd8781f8a",
+    "title": "정청래, 송영길에 \"입조심하라\"...대통령 회동 내용 공개 두고 설전 - 뉴스버스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45542777222",
-    "sentAt": "2026-11-25T03:51:32.703Z"
+    "runId": "45543871265",
+    "sentAt": "2026-11-25T04:01:27.108Z"
   }
 }
