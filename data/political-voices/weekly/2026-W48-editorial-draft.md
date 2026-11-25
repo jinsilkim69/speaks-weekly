@@ -6709,3 +6709,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래, 李대통령과의 회동 내용 공개에 격앙…“송영길, 입조심하라” - 시사저널
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 李대통령과의 회동 내용 공개에 격앙…“송영길, 입조심하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9EN0dfRHFjbm14YUtoZ3dxZEhXVWNCd0dOeDFmT18xZTNBTV9DUi1fTlA1Z2p3WXlrUTRFWldBVnotZk52aVF2ajdmRkVkRHoxamd5SmR2ZDJJRkEwbUdlTEVUdnFKRzRSZmZfMXNmd9IBc0FVX3lxTE1CUi1odnlwYkg4V19hNmRaeWdpbHZrVm5XTDVzZU1fSmdIVTh6WmpoZExYcjVyLURER2ZpSDMtSlpCdkU0TEotektSbTZQTkw0dUx0Qm5sZ1Y3OGJLYkY5ZGRWLUU1MHZGU1dyanVZN0d1cEU?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래, 靑 비공개 회동 발설한 송영길에 "입이 너무 싸다…분수 알아야" - 경북도민일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 靑 비공개 회동 발설한 송영길에 "입이 너무 싸다…분수 알아야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBsR2RTV3Y3UmwxeXpTckdRT2JvTDlfMXhvSjZlYUFVbDhPd2VvdnJnMHE1bEJkeWZxM1M2dEpncmtOWUFxUG5ud1c0ME9zcndrcVU4VHFmZzYxQ2hVaWN5SHBKVXczYThxNVE?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라" - 시사포커스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBvQlBiTDk2Rm5ZSjNZdnpVbEFTTS16NVZPQXoxMmgxYzR1VWJLMTBjR0lTbjloNHpaUGF2M2xuS2oyUEJuSWF3am9ucnA5aWpXTW5MV2JXSnYwVS1fcFlaYzJha3pYdkEzVmUyVUNQVQ?oc=5)
+
+---
+

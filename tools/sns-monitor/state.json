@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T05:11:16.747Z",
+  "lastCheckedAt": "2026-11-25T05:21:14.615Z",
   "seenPostIds": {
-    "2a729d44060cdd707d2bd29aca26e4a8f7b823e47b28b47bab3a03457868e0a4": {
-      "seenAt": "2026-11-22T19:31:16.772Z",
-      "title": "조작기소 특검법은 왜 이재명 대통령에게 독배인가 - 시사IN",
-      "targetName": "이재명"
-    },
-    "d93a003890e9ea55a5767915fe916886b6f68a72ac1ff293a5d47c2f135f4a9f": {
-      "seenAt": "2026-11-22T20:11:14.154Z",
-      "title": "송영길·인천 12개 대학 총학생회 ‘치맥 간담회’ 개최... 청년 주거·취업·수도권 역차별 해법 모색 - 투어코리아",
-      "targetName": "송영길"
-    },
-    "9f2e251a6c718d9fa18bea2283df68c0ef671b602799da749c30811b7a6c59de": {
-      "seenAt": "2026-11-22T20:11:14.864Z",
-      "title": "Trump blames $6T stock market slide on Democrats’ midterm wins - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "519ffa8fb923c8582295e3ce9cb720adde3c3afb1d484d78e0a7800eeb58397c": {
       "seenAt": "2026-11-22T20:21:18.034Z",
       "title": "Trump gives suprising boost to El-Sayed’s health-care pitch - New York Post",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T05:11:19.671Z",
       "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
       "targetName": "김민석"
+    },
+    "86b7bec3048cf6d46b2cc4aa3c1cd095d4a71beb138f46130fb22ce54aa4fbfd": {
+      "seenAt": "2026-11-25T05:21:15.692Z",
+      "title": "정청래, 李대통령과의 회동 내용 공개에 격앙…“송영길, 입조심하라” - 시사저널",
+      "targetName": "송영길"
+    },
+    "1c86f057408d2ea97db55526750d096e698db52b766b4850b645795d009eb76e": {
+      "seenAt": "2026-11-25T05:21:16.420Z",
+      "title": "정청래, 靑 비공개 회동 발설한 송영길에 \"입이 너무 싸다…분수 알아야\" - 경북도민일보",
+      "targetName": "송영길"
+    },
+    "ba6b95f3c9040e5cd98465ad789eaccb8db3d20d22e64a97c53cad362b42cdb1": {
+      "seenAt": "2026-11-25T05:21:17.069Z",
+      "title": "한동훈 \"조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라\" - 시사포커스",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "86b7bec3048cf6d46b2cc4aa3c1cd095d4a71beb138f46130fb22ce54aa4fbfd",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 李대통령과의 회동 내용 공개에 격앙…“송영길, 입조심하라” - 시사저널",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9EN0dfRHFjbm14YUtoZ3dxZEhXVWNCd0dOeDFmT18xZTNBTV9DUi1fTlA1Z2p3WXlrUTRFWldBVnotZk52aVF2ajdmRkVkRHoxamd5SmR2ZDJJRkEwbUdlTEVUdnFKRzRSZmZfMXNmd9IBc0FVX3lxTE1CUi1odnlwYkg4V19hNmRaeWdpbHZrVm5XTDVzZU1fSmdIVTh6WmpoZExYcjVyLURER2ZpSDMtSlpCdkU0TEotektSbTZQTkw0dUx0Qm5sZ1Y3OGJLYkY5ZGRWLUU1MHZGU1dyanVZN0d1cEU?oc=5\" target=\"_blank\">정청래, 李대통령과의 회동 내용 공개에 격앙…“송영길, 입조심하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EN0dfRHFjbm14YUtoZ3dxZEhXVWNCd0dOeDFmT18xZTNBTV9DUi1fTlA1Z2p3WXlrUTRFWldBVnotZk52aVF2ajdmRkVkRHoxamd5SmR2ZDJJRkEwbUdlTEVUdnFKRzRSZmZfMXNmd9IBc0FVX3lxTE1CUi1odnlwYkg4V19hNmRaeWdpbHZrVm5XTDVzZU1fSmdIVTh6WmpoZExYcjVyLURER2ZpSDMtSlpCdkU0TEotektSbTZQTkw0dUx0Qm5sZ1Y3OGJLYkY5ZGRWLUU1MHZGU1dyanVZN0d1cEU?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 04:40:05 GMT",
-        "source": "시사저널",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "1c86f057408d2ea97db55526750d096e698db52b766b4850b645795d009eb76e",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 靑 비공개 회동 발설한 송영길에 \"입이 너무 싸다…분수 알아야\" - 경북도민일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBsR2RTV3Y3UmwxeXpTckdRT2JvTDlfMXhvSjZlYUFVbDhPd2VvdnJnMHE1bEJkeWZxM1M2dEpncmtOWUFxUG5ud1c0ME9zcndrcVU4VHFmZzYxQ2hVaWN5SHBKVXczYThxNVE?oc=5\" target=\"_blank\">정청래, 靑 비공개 회동 발설한 송영길에 \"입이 너무 싸다…분수 알아야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북도민일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsR2RTV3Y3UmwxeXpTckdRT2JvTDlfMXhvSjZlYUFVbDhPd2VvdnJnMHE1bEJkeWZxM1M2dEpncmtOWUFxUG5ud1c0ME9zcndrcVU4VHFmZzYxQ2hVaWN5SHBKVXczYThxNVE?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 04:40:35 GMT",
-        "source": "경북도민일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ba6b95f3c9040e5cd98465ad789eaccb8db3d20d22e64a97c53cad362b42cdb1",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 \"조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라\" - 시사포커스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBvQlBiTDk2Rm5ZSjNZdnpVbEFTTS16NVZPQXoxMmgxYzR1VWJLMTBjR0lTbjloNHpaUGF2M2xuS2oyUEJuSWF3am9ucnA5aWpXTW5MV2JXSnYwVS1fcFlaYzJha3pYdkEzVmUyVUNQVQ?oc=5\" target=\"_blank\">한동훈 \"조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사포커스</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvQlBiTDk2Rm5ZSjNZdnpVbEFTTS16NVZPQXoxMmgxYzR1VWJLMTBjR0lTbjloNHpaUGF2M2xuS2oyUEJuSWF3am9ucnA5aWpXTW5MV2JXSnYwVS1fcFlaYzJha3pYdkEzVmUyVUNQVQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:08:58 GMT",
-        "source": "시사포커스",
-        "ageHours": 4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "35063c4295d04c15afd0de96bfe9f77e3448845715a4d08c80f43d7f455ce956",
@@ -2581,13 +2533,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "0b10790f6e01e6ad68f0a3c7230fae2404590c2e7da180e9d971251f343d0722",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, 송영길에 공개 경고…“대통령과 대화 내용 발설 말라” - 진일보 | 전남일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBSZGdxLTlpMTZiM2hhVlF5b3Q3S3hzbmdEQkJiN1Zfb2VlX0ZEQTJzaHJRUkx3bGVVVmJkRzkyVGJEY2lwZGZDV2FEb0ZmemNrd1VmQl9rdUVVck44aEVkb3I3bkhwX3pSSE5kMWdQdw?oc=5\" target=\"_blank\">정청래, 송영길에 공개 경고…“대통령과 대화 내용 발설 말라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">진일보 | 전남일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSZGdxLTlpMTZiM2hhVlF5b3Q3S3hzbmdEQkJiN1Zfb2VlX0ZEQTJzaHJRUkx3bGVVVmJkRzkyVGJEY2lwZGZDV2FEb0ZmemNrd1VmQl9rdUVVck44aEVkb3I3bkhwX3pSSE5kMWdQdw?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:57:39 GMT",
+        "source": "진일보 | 전남일보",
+        "ageHours": 3.4
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "5dab03701817ccb44bd1f29acaaef8749ef002206b87bf1371c8c22258185822",
-    "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
+    "postId": "ba6b95f3c9040e5cd98465ad789eaccb8db3d20d22e64a97c53cad362b42cdb1",
+    "title": "한동훈 \"조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라\" - 시사포커스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45551781495",
-    "sentAt": "2026-11-25T05:11:19.305Z"
+    "runId": "45552952308",
+    "sentAt": "2026-11-25T05:21:16.726Z"
   }
 }
