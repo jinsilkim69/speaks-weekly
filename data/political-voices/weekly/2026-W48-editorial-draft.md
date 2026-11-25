@@ -7775,3 +7775,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 “청해부대 임무 넓히되 전쟁불개입...호르무즈 해협·인근 해역 활동범위서 제외” - 시사뉴스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “청해부대 임무 넓히되 전쟁불개입...호르무즈 해협·인근 해역 활동범위서 제외”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9acmY5R0NjVWgxaVpZYWJEZEtEV1hIdlJwVVFTcncxNWszZmhFcVpQaXVEcTZGVFpLZ3J1MkRSSnE4bHN0UnoxRzRIWDJxbVVTSVY0b09UOE9FYjBSVVVpZ3M4WQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁, ‘조희대 고향’ 경주서 여론전… 한동훈 “탄핵 인용 땐 사퇴” [조희대 탄핵 추진 파장] - 세계일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁, ‘조희대 고향’ 경주서 여론전… 한동훈 “탄핵 인용 땐 사퇴”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE40aFBzQ0FZWUczZ2FKNzhrbGVJOUVsZVgzRFBXaEZBOGkyTDVmUnE4aHdFY1B0LWtiMTBJYVdaZGx2dWk1ZVkxNllTSlZsd2JJaVRtQnJhcEpQX1NUb0I4UGt0eEtWUVRLWTE00gFUQVVfeXFMUHN1TEk1TkNyeDZfbjRHT05JaWdZdFBaWXZDNmFVMU5zMW9QTzJRejRKTE1jTU9BWXN5MThDUzV0WFFBS1hOOXVnX0txeVdVTFRYU2dD?oc=5)
+
+---
+
