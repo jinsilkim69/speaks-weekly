@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T05:21:14.615Z",
+  "lastCheckedAt": "2026-11-25T05:31:14.243Z",
   "seenPostIds": {
-    "519ffa8fb923c8582295e3ce9cb720adde3c3afb1d484d78e0a7800eeb58397c": {
-      "seenAt": "2026-11-22T20:21:18.034Z",
-      "title": "Trump gives suprising boost to El-Sayed’s health-care pitch - New York Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "674460ac26a3cc4f624e553beca66a36ca3579b3470f7006c51fdf72a50278d4": {
-      "seenAt": "2026-11-22T20:31:16.698Z",
-      "title": "'The ultimate Trump card': El-Sayed pushes for health care deal with GOP - USA Today",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "da9b1765bc2bb78a189d0ba285e44224fec7ba4140da1178a420672f1ad43d49": {
-      "seenAt": "2026-11-22T21:01:17.569Z",
-      "title": "Trump Points Finger At Dems For Stock Market Slide: 'It Will Only Get Worse' - Yahoo",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "3cac737486d869221af2bb20a0b8f94a064aca195a41f80e9e794439bef4172e": {
       "seenAt": "2026-11-22T21:11:14.563Z",
       "title": "최민희 징계 앞두고 추미애 등판에 정청래도 움직였다…‘깃발’ 든 진짜 이유 (인물비상구 20261122 방송 최민희와 계파갈등 편) - 경향신문",
@@ -2515,47 +2500,62 @@
       "seenAt": "2026-11-25T05:21:17.069Z",
       "title": "한동훈 \"조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라\" - 시사포커스",
       "targetName": "한동훈"
+    },
+    "35063c4295d04c15afd0de96bfe9f77e3448845715a4d08c80f43d7f455ce956": {
+      "seenAt": "2026-11-25T05:31:15.361Z",
+      "title": "김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것” - 시사저널",
+      "targetName": "김민석"
+    },
+    "0b10790f6e01e6ad68f0a3c7230fae2404590c2e7da180e9d971251f343d0722": {
+      "seenAt": "2026-11-25T05:31:15.973Z",
+      "title": "정청래, 송영길에 공개 경고…“대통령과 대화 내용 발설 말라” - 진일보 | 전남일보",
+      "targetName": "정청래"
+    },
+    "8c18e7965192b6ff2654d2c41ae23a7cd6090defd070f94076654c00a337e3db": {
+      "seenAt": "2026-11-25T05:31:16.608Z",
+      "title": "5·18 진압·삼청교육 경찰 102명 포상 취소, 이재명 대통령 \"마지막 한 명까지 역사 교정\" 🔍 - 뉴닉",
+      "targetName": "이재명"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "35063c4295d04c15afd0de96bfe9f77e3448845715a4d08c80f43d7f455ce956",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것” - 시사저널",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5ITUNZUDhSUXRkQi1Pd253Zi1mYUJjWW1ETHpXUlZpcFJrdzBfTjlVSnBoQ0dpa3FpT1h5N2t4bW5KMDYwTTIybVFjczVGanhDR1ZfV1dUbWRFZjRKXy11NnpsLWVRTVNwbDE2WkszOFJJenPSAXNBVV95cUxOSE1DWVA4UlF0ZEItT3dud2YtZmFCY1ltREx6V1JWaXBSa3cwX045VUpwaENHaWtxaU9YeTdreG1uSjA2ME0yMm1RY3M1Rmp4Q0dWX1dXVG1kRWY0Sl8tdTZ6bC1lUU1TcGwxNlpLMzhSSXpz?oc=5\" target=\"_blank\">김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ITUNZUDhSUXRkQi1Pd253Zi1mYUJjWW1ETHpXUlZpcFJrdzBfTjlVSnBoQ0dpa3FpT1h5N2t4bW5KMDYwTTIybVFjczVGanhDR1ZfV1dUbWRFZjRKXy11NnpsLWVRTVNwbDE2WkszOFJJenPSAXNBVV95cUxOSE1DWVA4UlF0ZEItT3dud2YtZmFCY1ltREx6V1JWaXBSa3cwX045VUpwaENHaWtxaU9YeTdreG1uSjA2ME0yMm1RY3M1Rmp4Q0dWX1dXVG1kRWY0Sl8tdTZ6bC1lUU1TcGwxNlpLMzhSSXpz?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 05:16:08 GMT",
-        "source": "시사저널",
-        "ageHours": 23.9
+        "id": "4f26a9f75570a0d43d9fece95f7f821eb05aede95b1589f9b6a397f375f2590c",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" - KB Think",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBNTDExTHhHeHJYVHZmWFpWMWZyNEVPclJjUGstQTdkd0ZTalZDejR6V3NQQW5mazZ1NG5rOEVNOFMzU3VOWGJyZ0MwYUJTUThRM2o5dDRzeVRTR1NkcE5td3NGZTZ1TnQ3cy1FazViNDZ3Zw?oc=5\" target=\"_blank\">송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KB Think</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNTDExTHhHeHJYVHZmWFpWMWZyNEVPclJjUGstQTdkd0ZTalZDejR6V3NQQW5mazZ1NG5rOEVNOFMzU3VOWGJyZ0MwYUJTUThRM2o5dDRzeVRTR1NkcE5td3NGZTZ1TnQ3cy1FazViNDZ3Zw?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 04:02:55 GMT",
+        "source": "KB Think",
+        "ageHours": 1.5
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "0b10790f6e01e6ad68f0a3c7230fae2404590c2e7da180e9d971251f343d0722",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 송영길에 공개 경고…“대통령과 대화 내용 발설 말라” - 진일보 | 전남일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBSZGdxLTlpMTZiM2hhVlF5b3Q3S3hzbmdEQkJiN1Zfb2VlX0ZEQTJzaHJRUkx3bGVVVmJkRzkyVGJEY2lwZGZDV2FEb0ZmemNrd1VmQl9rdUVVck44aEVkb3I3bkhwX3pSSE5kMWdQdw?oc=5\" target=\"_blank\">정청래, 송영길에 공개 경고…“대통령과 대화 내용 발설 말라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">진일보 | 전남일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSZGdxLTlpMTZiM2hhVlF5b3Q3S3hzbmdEQkJiN1Zfb2VlX0ZEQTJzaHJRUkx3bGVVVmJkRzkyVGJEY2lwZGZDV2FEb0ZmemNrd1VmQl9rdUVVck44aEVkb3I3bkhwX3pSSE5kMWdQdw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:57:39 GMT",
-        "source": "진일보 | 전남일보",
-        "ageHours": 3.4
+        "id": "92baa0a183f604f670c7713e7e231f54cb4421fe4b42699dedd473438c9757de",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 \"이 대통령, 정청래 억울함 4시간 들어줘\"…정청래 \"입조심\" - 연합뉴스TV",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wOWlzYlFLbV9UNlU0Nk5LNGxvSlFPUlIyU2JaTnlrZWNTN0wzVGNYdnBZUUVJZms0Ti1EbnV5WGVfMndEd1dvYTBHWTV2cnpQenZhQ3pNTU4zbUdJeTh2dmxHMzNKcHM?oc=5\" target=\"_blank\">송영길 \"이 대통령, 정청래 억울함 4시간 들어줘\"…정청래 \"입조심\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wOWlzYlFLbV9UNlU0Nk5LNGxvSlFPUlIyU2JaTnlrZWNTN0wzVGNYdnBZUUVJZms0Ti1EbnV5WGVfMndEd1dvYTBHWTV2cnpQenZhQ3pNTU4zbUdJeTh2dmxHMzNKcHM?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 05:22:00 GMT",
+        "source": "연합뉴스TV",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "ba6b95f3c9040e5cd98465ad789eaccb8db3d20d22e64a97c53cad362b42cdb1",
-    "title": "한동훈 \"조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라\" - 시사포커스",
+    "postId": "8c18e7965192b6ff2654d2c41ae23a7cd6090defd070f94076654c00a337e3db",
+    "title": "5·18 진압·삼청교육 경찰 102명 포상 취소, 이재명 대통령 \"마지막 한 명까지 역사 교정\" 🔍 - 뉴닉",
     "bot": "jongsuk_pol_bot",
-    "runId": "45552952308",
-    "sentAt": "2026-11-25T05:21:16.726Z"
+    "runId": "45554115999",
+    "sentAt": "2026-11-25T05:31:16.287Z"
   }
 }

@@ -6748,3 +6748,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것” - 시사저널
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE5ITUNZUDhSUXRkQi1Pd253Zi1mYUJjWW1ETHpXUlZpcFJrdzBfTjlVSnBoQ0dpa3FpT1h5N2t4bW5KMDYwTTIybVFjczVGanhDR1ZfV1dUbWRFZjRKXy11NnpsLWVRTVNwbDE2WkszOFJJenPSAXNBVV95cUxOSE1DWVA4UlF0ZEItT3dud2YtZmFCY1ltREx6V1JWaXBSa3cwX045VUpwaENHaWtxaU9YeTdreG1uSjA2ME0yMm1RY3M1Rmp4Q0dWX1dXVG1kRWY0Sl8tdTZ6bC1lUU1TcGwxNlpLMzhSSXpz?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 송영길에 공개 경고…“대통령과 대화 내용 발설 말라” - 진일보 | 전남일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 송영길에 공개 경고…“대통령과 대화 내용 발설 말라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBSZGdxLTlpMTZiM2hhVlF5b3Q3S3hzbmdEQkJiN1Zfb2VlX0ZEQTJzaHJRUkx3bGVVVmJkRzkyVGJEY2lwZGZDV2FEb0ZmemNrd1VmQl9rdUVVck44aEVkb3I3bkhwX3pSSE5kMWdQdw?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 5·18 진압·삼청교육 경찰 102명 포상 취소, 이재명 대통령 "마지막 한 명까지 역사 교정" 🔍 - 뉴닉
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 5·18 진압·삼청교육 경찰 102명 포상 취소, 이재명 대통령 "마지막 한 명까지 역사 교정" 🔍
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IVUw1V1FyOUdnSG5YZ3pYUVlfU1UxaG1ZdGVBZDB0OHNTQ25KVkJVRW1mM0RkVjc0bDA0R2c1aTNNLWZpVzMxcTFYeUpNMWlWTFBB?oc=5)
+
+---
+
