@@ -5734,3 +5734,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 의원직 걸어라" - 뉴시스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 의원직 걸어라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE91MGVKRm11MkdRRGxEdWY4ekdqcmtFMjgxaVhLZEtaanpjQ2t3OTZEeU5MV0VDbkRrNkJfNHZ5d2R2T21RNFFLUUpzdmlzOUJTa2VnZTVybnlyU3MteVhCetIBeEFVX3lxTE1sX1lfQUNoNklQV2UwdEIzbFh4ckI2SENIenlhZkgwdFNNVEpDRFYyYlhMZmFhbC1jVVpaaVZRZGZIcjhNMnhvcDhfcUdqbVhGTUNxeG1IUjdtUjBtZXgxVk5keUE1SUk0akZUQjJXNlJKWHRLRUpmVg?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 독립에 청춘 바친 신용걸 선생 재조명
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE80elVNNWVSNlBzQTZmOHhGbUVuUEg2Qml4dkFjMDhldUFiMW5vb1Z6RmxKQlJTMXlPRWZMcmFpdXJ6UHB4Z21VRElXNEphcGxLTVh1TGJkaUFTcF9KQWlLa9IBYEFVX3lxTE80elVNNWVSNlBzQTZmOHhGbUVuUEg2Qml4dkFjMDhldUFiMW5vb1Z6RmxKQlJTMXlPRWZMcmFpdXJ6UHB4Z21VRElXNEphcGxLTVh1TGJkaUFTcF9KQWlLaw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라" - 시사포커스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBPb1FDWmdTbUFwbDBVbmQtRnEwVlRSXzlHSjJwTG12SVFScW1pY1RSU2kweFJTeFFpSFdxalJmVkhjQ3BZLU5LSnkydUVUU0o3WXo4X1lsRThob1JGejJ4YnRWZXZ1blJWb0lMelBB?oc=5)
+
+---
+
