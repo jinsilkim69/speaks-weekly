@@ -7164,3 +7164,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 조작기소 특검법은 왜 이재명 대통령에게 독배인가 - 시사IN
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조작기소 특검법은 왜 이재명 대통령에게 독배인가
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9xVmVEVzY1SVFmUEJfV3BkODJtYklXemZNUkVaeWZNTDVjU0ZrMjJ0MzVVeDktdEJkYk5rdklnaG11ZVBfanJrWWl2cTd3UjRvOERDNENFTzI3NHo4S1drRjE2VHR2aGktYkE?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸라" | - 연합인포맥스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸라" |
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE9HaUpoVnFmZ1pSSWZUNG9wMjYyd1lRSThnbEdULWxvUElFYlNHNmUxMDA2dVlkNXNYRUhoQnRDMGQzSnN6dVFzd0hTbTdfeHhxcm9VeGlmaENvUTRNcHROQVplcGd4M011bEZheWYxQmtJcHFD?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "조희대 탄핵 신속 추진 위해 5당 연대 제안" #Shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "조희대 탄핵 신속 추진 위해 5당 연대 제안" #Shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE11ZldkV1FqTEtkSVFHdzhoZ1RibXdDajJOeHQ3UFRiU0dSM29yaFdnYV80OTVGQnRYQUZSTW9GWC1MdHotcHpHZFI5VDdpbUtrVmVSM2R3WVJoWXpzNzZKd3R2WFdudlN1RER3cVF6VkhJN3Q4ZjdSSXY5eGVucW8?oc=5)
+
+---
+
