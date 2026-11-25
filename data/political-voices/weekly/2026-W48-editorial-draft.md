@@ -7554,3 +7554,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "청해부대 작전지역 확대, 전쟁 개입은 없을 것" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "청해부대 작전지역 확대, 전쟁 개입은 없을 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFBTSEVmWDVheXpUQkR3dEQwRTUxS0dXYXE3M1NuazFPNkN0SkFBRHFqdVZsYWl5dWhpX3dCcS1WQWdKTFNmVVNlRVZSTDV6RnFod0Jpd3A0OEJjTVlDUERQVmQ2bXFLSzRuMzFmetIBckFVX3lxTE16aDEyRkxBZFdyLW90Vk11TVkxTXJaeHpabHg2d2oxa3hDZnlxbDE0aVFYOTZzejVhc3FsUkVBTUttaWd6ZmlGNEZsZ1pDYlRLZDZFS3BlRVYtX3VPa1VJVzNMNnZjRGllQk84OTVaRUo4Zw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 “송영길, 입 너무 싸…대통령 관계된 말은 더 조심하시라” - 한겨레
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 “송영길, 입 너무 싸…대통령 관계된 말은 더 조심하시라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTFBzWThYOHR4QzVQaXNqbEttV0xHUjJ6eFA2ZG9lR202TGVSTUt3eEZ1a3E0b2lHQlkzWDVVWUE1YXRNTzZHcjA2QmRUdU5CbHNrRFhnOW5leWVKOW93MDZhSXpaR2plZVVaR2xKa2xxaVVydktn?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래 “입 싼 송영길과는 말 섞고 싶지 않다”… 발끈한 이유는 - 세계일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 “입 싼 송영길과는 말 섞고 싶지 않다”… 발끈한 이유는
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vaHBqTDYtVllDOGdTXy1BemVJMEl3Q2V0a01NVk9iR29uYS1aTmUwSDVZSHZUQW9DMmZGVUlKUDRjcmhhdnBrdXhQd1g1STBh0gFUQVVfeXFMTmtSN3U0bmU1b0RoU3Y2N0NoclQyWnZNZnhGblZRdXdPRGpSUWgwZHRUcFVjeUk5TjJwUDhQdkpCTkpoMXhxdHpTa3l5QkVsa1p3WUEw?oc=5)
+
+---
+
