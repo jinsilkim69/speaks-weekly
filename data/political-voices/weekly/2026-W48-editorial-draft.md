@@ -7723,3 +7723,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 조희대 탄핵 ‘5당 연대’ 제안…판사회의 “독립침해” - 한겨레
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 조희대 탄핵 ‘5당 연대’ 제안…판사회의 “독립침해”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTFBvd1NlVWM3c1ZXM2x5ckUtSEhQMWI4UFVkUFNoODRrNDJ6SEQ5cEROSkduX1pYU0VQdW5WWmN6SjRVOXhPVTFaTW1RVnVmY1pWNnZKTFJPVjJXUGh4QWIycUFEbkVieC0zT29SbE1DZXRzaUYw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 진보야당에 ‘조희대 탄핵 연대’ 제안…“완전한 내란 청산” - 중앙일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 진보야당에 ‘조희대 탄핵 연대’ 제안…“완전한 내란 청산”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yM3I4X0pWdmRFWUJ6N0lSbFRYc1dCY3YxODBuYnRnR3Z6eEU4eHVrWFo2aXozcFVQRF9uOWhhMzloYldBbHVkUnVwUzkwTlNuUG1VYXd3?oc=5)
+
+---
+
