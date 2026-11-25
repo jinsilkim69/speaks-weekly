@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T04:41:15.978Z",
+  "lastCheckedAt": "2026-11-25T04:51:24.178Z",
   "seenPostIds": {
-    "83f791f2a264bf585e00e19bf6847360fde5aadfd1971d58b6394250b5b3ff0a": {
-      "seenAt": "2026-11-22T16:11:17.968Z",
-      "title": "김민석 대표 만든 ‘1인 1표’… 더 커진 강성 당원, 더 깊어진 내홍 - 서울신문",
-      "targetName": "김민석"
-    },
-    "16fefb7b17e08a26211784da60dd8c79a143efaaf9ed215471ef846b55bd0fc2": {
-      "seenAt": "2026-11-22T16:21:14.426Z",
-      "title": "이준석 “민주당은 한 방에 무너질 것… 부끄러운 줄 알라” - 세계일보",
-      "targetName": "이준석"
-    },
-    "4817d2e10374f68354a0de05385ca814a885df36c5831becee0d93fa240b57bf": {
-      "seenAt": "2026-11-22T16:31:13.654Z",
-      "title": "이재명 대통령 재차 반박.. 대장동 의혹 '정면돌파' > 뉴스 - 지데일리",
-      "targetName": "이재명"
-    },
     "e04f82e7ad0d9df68f899e41c08951b9027d1da4345970f3ffe55d03144726d4": {
       "seenAt": "2026-11-22T16:31:14.665Z",
       "title": "최민희가 김민석에게 사과하지 않는 이유… 정청래와 같은 계산? (인물비상구 20261122 클립 최민희와 계파갈등 편) - 경향신문",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T04:41:18.620Z",
       "title": "정청래 \"입 싼 송영길과는 말 섞고 싶지 않다\"…李대통령 만찬 공개에 발끈 - 매일신문",
       "targetName": "송영길"
+    },
+    "bd426e049fa33dc6145bdd0824633af071131a0ecf8b112fdb842de1e4e68003": {
+      "seenAt": "2026-11-25T04:51:25.814Z",
+      "title": "이재명 대통령, 5·18 진압 경찰 서훈 취소 “당연한 조치” - 시사위크",
+      "targetName": "이재명"
+    },
+    "50dafb86c38488f853736883a3d25b54d2ff5e05d045d4ad124163d6d021047a": {
+      "seenAt": "2026-11-25T04:51:26.440Z",
+      "title": "정청래 “송영길 입조심하라”…자기 말에는 관대하고 남의 입에는 재갈 - OBC 뉴스",
+      "targetName": "송영길"
+    },
+    "f44903203fe82d82008b5010cde7649f5e22c47eef03966f173758b56473412e": {
+      "seenAt": "2026-11-25T04:51:27.111Z",
+      "title": "정청래 \"입 싼 송영길, 말 섞기 싫어…대통령 회동 발설 부적절\" - 이데일리",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "bd426e049fa33dc6145bdd0824633af071131a0ecf8b112fdb842de1e4e68003",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령, 5·18 진압 경찰 서훈 취소 “당연한 조치” - 시사위크",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1PTUtkWi0tVWNSelVGXzFMOS1heDFkZ3ZSbkdub1ZoVnF1S3hoTDNUNXRrNEsycUNZakJPUW1DdUlqdFVMX09nZjJhWXVsWlBabUppdzE1dF9qUDY0SDRtZDl1R2tLbFJENmxDMWRqNNIBb0FVX3lxTE1PTUtkWi0tVWNSelVGXzFMOS1heDFkZ3ZSbkdub1ZoVnF1S3hoTDNUNXRrNEsycUNZakJPUW1DdUlqdFVMX09nZjJhWXVsWlBabUppdzE1dF9qUDY0SDRtZDl1R2tLbFJENmxDMWRqNA?oc=5\" target=\"_blank\">이재명 대통령, 5·18 진압 경찰 서훈 취소 “당연한 조치”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사위크</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PTUtkWi0tVWNSelVGXzFMOS1heDFkZ3ZSbkdub1ZoVnF1S3hoTDNUNXRrNEsycUNZakJPUW1DdUlqdFVMX09nZjJhWXVsWlBabUppdzE1dF9qUDY0SDRtZDl1R2tLbFJENmxDMWRqNNIBb0FVX3lxTE1PTUtkWi0tVWNSelVGXzFMOS1heDFkZ3ZSbkdub1ZoVnF1S3hoTDNUNXRrNEsycUNZakJPUW1DdUlqdFVMX09nZjJhWXVsWlBabUppdzE1dF9qUDY0SDRtZDl1R2tLbFJENmxDMWRqNA?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:49:11 GMT",
-        "source": "시사위크",
-        "ageHours": 2.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "50dafb86c38488f853736883a3d25b54d2ff5e05d045d4ad124163d6d021047a",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래 “송영길 입조심하라”…자기 말에는 관대하고 남의 입에는 재갈 - OBC 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA4U3F0UmF6MTlnaGV0cXFhSERsTVNiM2x5MllEbUhqMkRWcUR3UWg5V1RYTFRBdjBiS0pJWUJvb1lyRl9NNGh3Y0hzcEpIQy1GVW9OWlBHb3hhRVpCTDhpN3RfOTZnWVJZUkE?oc=5\" target=\"_blank\">정청래 “송영길 입조심하라”…자기 말에는 관대하고 남의 입에는 재갈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OBC 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4U3F0UmF6MTlnaGV0cXFhSERsTVNiM2x5MllEbUhqMkRWcUR3UWg5V1RYTFRBdjBiS0pJWUJvb1lyRl9NNGh3Y0hzcEpIQy1GVW9OWlBHb3hhRVpCTDhpN3RfOTZnWVJZUkE?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 03:43:46 GMT",
-        "source": "OBC 뉴스",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f44903203fe82d82008b5010cde7649f5e22c47eef03966f173758b56473412e",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래 \"입 싼 송영길, 말 섞기 싫어…대통령 회동 발설 부적절\" - 이데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXlvWVAyMFN1d2NGQ2IxdzdGcjllOTZJRklFWXRaVEp3OU9FZkVDQjJVek53ZWZlTzktaHpjOVFoc3pQSTNjdnRvbVdLY05kNEZlSFdEcEQyTW90N1hnc05HaUdHVm1UNGhPM3phTGgxLUYzdFhXVGUyM0F2bDhYcA?oc=5\" target=\"_blank\">정청래 \"입 싼 송영길, 말 섞기 싫어…대통령 회동 발설 부적절\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXlvWVAyMFN1d2NGQ2IxdzdGcjllOTZJRklFWXRaVEp3OU9FZkVDQjJVek53ZWZlTzktaHpjOVFoc3pQSTNjdnRvbVdLY05kNEZlSFdEcEQyTW90N1hnc05HaUdHVm1UNGhPM3phTGgxLUYzdFhXVGUyM0F2bDhYcA?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 04:03:40 GMT",
-        "source": "이데일리",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "2e38a300229a29dc3ce786fde7250b6541876111346ad02f9e0d112dc9863b07",
@@ -2645,13 +2597,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "5dab03701817ccb44bd1f29acaaef8749ef002206b87bf1371c8c22258185822",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1fWlBPSkZZYjBrSDRWWkJ1dWczV1ZfYS1fUDFMQVgxdldINzhiUU80azMwRTlOVUp3RjJBQmgyYU1fSEdCRWFoeXVBaG9CNnZFamlGRGZkbUpqQVluWGJKYXRtYy1PWjJmN0tneFJwMnFzWWN0UG04aXJB0gF_QVVfeXFMUERsVGdqWDVhalB3cHFaSDBCZlBXZU4tLTR2aThncnhGekhremRQZUVkcWFoNnY5anZYUEVoOGJscDZnS1Jua2d6THdYcEZtaURiOHA3WXdSQ1I0ZXBXbzBPNE42SXBrYnNlT0RzRFNxWTRDVjJ3NUdHWFRKMnAxSQ?oc=5\" target=\"_blank\">혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fWlBPSkZZYjBrSDRWWkJ1dWczV1ZfYS1fUDFMQVgxdldINzhiUU80azMwRTlOVUp3RjJBQmgyYU1fSEdCRWFoeXVBaG9CNnZFamlGRGZkbUpqQVluWGJKYXRtYy1PWjJmN0tneFJwMnFzWWN0UG04aXJB0gF_QVVfeXFMUERsVGdqWDVhalB3cHFaSDBCZlBXZU4tLTR2aThncnhGekhremRQZUVkcWFoNnY5anZYUEVoOGJscDZnS1Jua2d6THdYcEZtaURiOHA3WXdSQ1I0ZXBXbzBPNE42SXBrYnNlT0RzRFNxWTRDVjJ3NUdHWFRKMnAxSQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:30:41 GMT",
+        "source": "머니투데이",
+        "ageHours": 2.3
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "f13013b9d376d9eb8d58fabde14e62b5cef351bc86e097fa7322be09bc3b55a4",
-    "title": "정청래 \"입 싼 송영길과는 말 섞고 싶지 않다\"…李대통령 만찬 공개에 발끈 - 매일신문",
+    "postId": "f44903203fe82d82008b5010cde7649f5e22c47eef03966f173758b56473412e",
+    "title": "정청래 \"입 싼 송영길, 말 섞기 싫어…대통령 회동 발설 부적절\" - 이데일리",
     "bot": "jongsuk_pol_bot",
-    "runId": "45548443853",
-    "sentAt": "2026-11-25T04:41:18.312Z"
+    "runId": "45549558163",
+    "sentAt": "2026-11-25T04:51:26.739Z"
   }
 }

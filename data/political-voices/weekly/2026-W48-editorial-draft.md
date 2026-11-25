@@ -6592,3 +6592,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 5·18 진압 경찰 서훈 취소 “당연한 조치” - 시사위크
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 5·18 진압 경찰 서훈 취소 “당연한 조치”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1PTUtkWi0tVWNSelVGXzFMOS1heDFkZ3ZSbkdub1ZoVnF1S3hoTDNUNXRrNEsycUNZakJPUW1DdUlqdFVMX09nZjJhWXVsWlBabUppdzE1dF9qUDY0SDRtZDl1R2tLbFJENmxDMWRqNNIBb0FVX3lxTE1PTUtkWi0tVWNSelVGXzFMOS1heDFkZ3ZSbkdub1ZoVnF1S3hoTDNUNXRrNEsycUNZakJPUW1DdUlqdFVMX09nZjJhWXVsWlBabUppdzE1dF9qUDY0SDRtZDl1R2tLbFJENmxDMWRqNA?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래 “송영길 입조심하라”…자기 말에는 관대하고 남의 입에는 재갈 - OBC 뉴스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 “송영길 입조심하라”…자기 말에는 관대하고 남의 입에는 재갈
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFA4U3F0UmF6MTlnaGV0cXFhSERsTVNiM2x5MllEbUhqMkRWcUR3UWg5V1RYTFRBdjBiS0pJWUJvb1lyRl9NNGh3Y0hzcEpIQy1GVW9OWlBHb3hhRVpCTDhpN3RfOTZnWVJZUkE?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래 "입 싼 송영길, 말 섞기 싫어…대통령 회동 발설 부적절" - 이데일리
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "입 싼 송영길, 말 섞기 싫어…대통령 회동 발설 부적절"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXlvWVAyMFN1d2NGQ2IxdzdGcjllOTZJRklFWXRaVEp3OU9FZkVDQjJVek53ZWZlTzktaHpjOVFoc3pQSTNjdnRvbVdLY05kNEZlSFdEcEQyTW90N1hnc05HaUdHVm1UNGhPM3phTGgxLUYzdFhXVGUyM0F2bDhYcA?oc=5)
+
+---
+
