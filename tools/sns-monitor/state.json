@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T20:51:13.698Z",
+  "lastCheckedAt": "2026-11-25T21:01:15.039Z",
   "seenPostIds": {
     "19cd97763cf3f7119f25a5064373bd361a87a53715bf68ceaba6af5683ad88f6": {
       "seenAt": "2026-11-23T08:21:15.263Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-25T19:51:15.013Z",
       "title": "Christie: Trump picking Miller for top role ‘shows his level of fear and insecurity’ - The Hill",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8bc6f64ce724c4490ed7549f04912d58ce2579141aa5bf1c8dc2f1e2f9ce420c": {
+      "seenAt": "2026-11-25T21:01:16.325Z",
+      "title": "김민석, '조희대 탄핵' 속도전…범여 5당 연대 제안에 혁신당 \"환영\" - 뉴시스",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "957355547692325d5a3c66425f4d094198f57c65263503e0355a707175f5337c",
-    "title": "Christie: Trump picking Miller for top role ‘shows his level of fear and insecurity’ - The Hill",
+    "postId": "8bc6f64ce724c4490ed7549f04912d58ce2579141aa5bf1c8dc2f1e2f9ce420c",
+    "title": "김민석, '조희대 탄핵' 속도전…범여 5당 연대 제안에 혁신당 \"환영\" - 뉴시스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45689213837",
-    "sentAt": "2026-11-25T19:51:14.446Z"
+    "runId": "45700382340",
+    "sentAt": "2026-11-25T21:01:15.699Z"
   }
 }
