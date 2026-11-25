@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T08:31:17.095Z",
+  "lastCheckedAt": "2026-11-25T08:41:18.764Z",
   "seenPostIds": {
-    "6e9b352c6ef747af4726fa8f65a790dfb2897d247e256e1065b95ae0bab9ea7f": {
-      "seenAt": "2026-11-23T04:21:20.889Z",
-      "title": "김민석 더불어민주당 대표 최고위 발언 - 국제뉴스",
-      "targetName": "김민석"
-    },
-    "d824ed519dae1fa7bf3787a1677fd182304961b98fcd56accbb2623b4a250219": {
-      "seenAt": "2026-11-23T04:21:21.550Z",
-      "title": "조국, 혁신당 ‘당명 개정’ 제안 “당명 속 ‘조국’ 제 이름 아니지만…범민주 좋아할 이름 찾자 ” - 경향신문",
-      "targetName": "조국"
-    },
-    "8d2948c8b119d5a52a10bb23b7d1dbf519e2cd7b488870d1c0a08b496ac9f466": {
-      "seenAt": "2026-11-23T04:31:16.607Z",
-      "title": "與 최고위 ‘신천지 충돌’에 또 아수라장…김민석, 박선원에 구두 경고 - 시사저널",
-      "targetName": "김민석"
-    },
     "e66187baad700333d009ea4094c312110cf93e47b20243fe35194eac33d39a83": {
       "seenAt": "2026-11-23T04:31:17.213Z",
       "title": "김민석 “조희대 대법원장 탄핵 사유 차고도 넘쳐” - 동아일보",
@@ -2515,14 +2500,62 @@
       "seenAt": "2026-11-25T08:31:20.353Z",
       "title": "조국혁신당·진보당, '조희대 탄핵 5당 연대' 제안 환영...절차·일정 합의 요청 - 뉴스핌",
       "targetName": "조국"
+    },
+    "5e6f562f2fd7b71e8d3ebfe49a5a71b52536d478852e69e94e64e81a55d19ab2": {
+      "seenAt": "2026-11-25T08:41:20.161Z",
+      "title": "탄핵 ‘5당 연대’에…조희대 고향 간 장동혁, 의원직 건 한동훈 [불편한 여의도] - 중앙일보",
+      "targetName": "한동훈"
+    },
+    "506c94c7ba7adb044bca1e3bb03755340799985d3fdefdd5b19ea2319aa533d2": {
+      "seenAt": "2026-11-25T08:41:20.941Z",
+      "title": "‘취임 100일’ 김민석, 정청래 폭풍 SNS에 “굳이 말씀드릴 필요 없어” - Chosunbiz",
+      "targetName": "김민석"
+    },
+    "ab4be9fc8e2f2a3a22da381ed3a96b31981420fdca64f3df2c8f4357e7dc6581": {
+      "seenAt": "2026-11-25T08:41:21.677Z",
+      "title": "김민석 \"조희대 대법원장 탄핵 추진 위한 5당 연대 제안\" - 한국경제",
+      "targetName": "김민석"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "8845105530e8779363217552f945b7495e00236ec92c6a34385fc773bfeccf82",
+        "targetId": "cheon_haram",
+        "targetName": "천하람",
+        "targetTitle": "개혁신당 원내대표",
+        "title": "[인터뷰] 천하람 의원, 당보다 인물 선택하는 정치 1번지 ‘순천’ - 뉴스프리존",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE16WXZ1aXZsei1oWEM5VDU1YjBBS01fZXo2SV9MbEUtOG40djN6T3owYXFyU2Z4WElRWlEwV1FTbHhUTEVUVlF6VVkzWkh4Uy1BXy1CUV9BSDVlbGZoQnQwQjNleHVQakIyaHV6aWMwZ1dJajTSAXdBVV95cUxPUnp6VzdRUmdKd1JkREpYY1hHYmpwaVF5ZmswY29Pa2lMSXBvc215OFBVckFlVFh1YWY1eDNxQVdxNUQycHhRLU9SUnBwVHlNVV93UzYwQXV4U2Z1SzBQcVJqR0x2SmIzRDZtR1pOVG45bGdhamZPTQ?oc=5\" target=\"_blank\">[인터뷰] 천하람 의원, 당보다 인물 선택하는 정치 1번지 ‘순천’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스프리존</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16WXZ1aXZsei1oWEM5VDU1YjBBS01fZXo2SV9MbEUtOG40djN6T3owYXFyU2Z4WElRWlEwV1FTbHhUTEVUVlF6VVkzWkh4Uy1BXy1CUV9BSDVlbGZoQnQwQjNleHVQakIyaHV6aWMwZ1dJajTSAXdBVV95cUxPUnp6VzdRUmdKd1JkREpYY1hHYmpwaVF5ZmswY29Pa2lMSXBvc215OFBVckFlVFh1YWY1eDNxQVdxNUQycHhRLU9SUnBwVHlNVV93UzYwQXV4U2Z1SzBQcVJqR0x2SmIzRDZtR1pOVG45bGdhamZPTQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 08:08:19 GMT",
+        "source": "뉴스프리존",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "663a820c789265a706111d1710d76bc0f9d696e856b9d182245dc16c3e903426",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Editorial: Trump willing to compromise, Dems should pay attention - Boston Herald",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2xLM0FjeWU4QUNTaDcxYjRSTHVuUmlENVZGVk5aR2ZQcWhsdWg2S0JDdDlGSW9JMmxrd0ZLZnZnMzhGYnJvVEM4VE5fdW44dTlPWkpTcV84QUk4Y1BTZGs2MDkyVzFaV3Y5eGZCdmFzd05BMW1PWHBEVXB0QUMyZ2pnLU11a2IxWnNiRkxiNWRqbXY0OFpxZ2RQLW9ZWU9iRDBwNjh4cw?oc=5\" target=\"_blank\">Editorial: Trump willing to compromise, Dems should pay attention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boston Herald</font>",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2xLM0FjeWU4QUNTaDcxYjRSTHVuUmlENVZGVk5aR2ZQcWhsdWg2S0JDdDlGSW9JMmxrd0ZLZnZnMzhGYnJvVEM4VE5fdW44dTlPWkpTcV84QUk4Y1BTZGs2MDkyVzFaV3Y5eGZCdmFzd05BMW1PWHBEVXB0QUMyZ2pnLU11a2IxWnNiRkxiNWRqbXY0OFpxZ2RQLW9ZWU9iRDBwNjh4cw?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 08:26:15 GMT",
+        "source": "Boston Herald",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "ab5abdae3dbfd764910ca9d9f954d7da213a426bb01e4a1b18c68271cf1085e7",
-    "title": "조국혁신당·진보당, '조희대 탄핵 5당 연대' 제안 환영...절차·일정 합의 요청 - 뉴스핌",
+    "postId": "ab4be9fc8e2f2a3a22da381ed3a96b31981420fdca64f3df2c8f4357e7dc6581",
+    "title": "김민석 \"조희대 대법원장 탄핵 추진 위한 5당 연대 제안\" - 한국경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45576964063",
-    "sentAt": "2026-11-25T08:31:19.981Z"
+    "runId": "45578432345",
+    "sentAt": "2026-11-25T08:41:21.294Z"
   }
 }

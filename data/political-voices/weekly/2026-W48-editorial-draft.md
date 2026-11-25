@@ -7398,3 +7398,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 탄핵 ‘5당 연대’에…조희대 고향 간 장동혁, 의원직 건 한동훈 [불편한 여의도] - 중앙일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 탄핵 ‘5당 연대’에…조희대 고향 간 장동혁, 의원직 건 한동훈
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ndEJMNENKWUdSZGZVblR2dm9xd3AtTUcwUFhaekJCczQzNVBMOGpiRnhXMFoxblhPWkRtbmZHZjJubVgtU1VMWXlOeEQ4UGxaVmZtVGpR?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** ‘취임 100일’ 김민석, 정청래 폭풍 SNS에 “굳이 말씀드릴 필요 없어” - Chosunbiz
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘취임 100일’ 김민석, 정청래 폭풍 SNS에 “굳이 말씀드릴 필요 없어”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWczTUFhLU5icVp0aXpYSnhaaWRFOHhlaGdSbmZWUG9RSlEwaFN5dGllWWotcG0wU094XzJmSU1OMG11QU04YU93TlBkTXE5U0pUVmZiWlA4MXpLMHRQWXV3RDZ1YTBHY1lGUFZrWWJsTnJ0cGpUWmVKbjQ0cmR6aUlqbW5wQ0NKYkhIbzdhU1I4a0luT2FvSWQ5MXl2TTFvSVVR0gGjAUFVX3lxTE9tZzNNQWEtTmJxWnRpelhKeFppZEU4eGVoZ1JuZlZQb1FKUTBoU3l0aWVZai1wbTBTT3hfMmZJTU4wbXVBTThhT3dOUGRNcTlTSlRWZmJaUDgxekswdFBZdXdENnVhMEdjWUZQVmtZYmxOcnRwalRaZUpuNDRyZHppSWptbnBDQ0piSEhvN2FTUjhrSW5PYW9JZDkxeXZNMW9JVVE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "조희대 대법원장 탄핵 추진 위한 5당 연대 제안" - 한국경제
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "조희대 대법원장 탄핵 추진 위한 5당 연대 제안"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE52Y0FQdm9uSzk1aGoxR29LMTBXbkZZVG81eUppNW4ya2pBQ29QR2hOR1lLWHU2WUJKRUtjeE1qMDkzb1c5UkFqcUhBcEJST1A5cS1DZlZfNFhiZw?oc=5)
+
+---
+
