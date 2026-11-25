@@ -5773,3 +5773,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 김민석 "조희대 탄핵 위한 5당 연대 제안"…신장식 "지나치게 추상적" - 데일리안
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "조희대 탄핵 위한 5당 연대 제안"…신장식 "지나치게 추상적"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiggJBVV95cUxNUGJyQ204ODY3aU90bEYzN2VYcDVLNW9yeThrZ3JNTEpvdXlNMkFDR2JrUU8yLUcxRFhudnNUV0ZjRGdOVEtxUXZZTGhjMzA3REh1S2ZzUnBpR01ZZWJOSDN0eHpoNEpUVUczNXV0Y001SjA5LTkyX0dLM2xOZUgtd3Zicm1HRzNmUWcwa0djQVlERkFDRXdibTBKb2VOa1ZKZk5hQ3VWM1N3ZHBsRzNMQ2lwek5KUWxaUkRKVmVGR3d3VDNUOXpMMlNENkFRMWh0eGpUUWxIZW1IRWw4MXlVZDBIUjhzLTZZYVJaTkFpbUo5Nk5ad3otZ0dWaUtnVF95SkE?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [속보] 한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸어라” - 경기일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸어라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4MzFjWXI0b0hRekhEUW5CTmhNcllPa29nR29NNWx2d20zb1phdzNXbGpXOV9nNTZxaDlwT0Z0aFlGY1d3ZVNQVkVwbXBxS3V4VE5WVVo4LWpUTFk?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵, 인용되면 의원직 사퇴...與 서영교·박선원도 직 걸어라" - 조선일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵, 인용되면 의원직 사퇴...與 서영교·박선원도 직 걸어라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0pGTno1NDlaQXZZbEp6djlrcXRPWEhlREdpUENOOWRPVWFsLUhqMFI3ZTRPX0N4UWpVVE1rN0lJazhuTDFWcmthUmNuNDJ1VUluZFRjdzJiX0pWUmt3NHBCekNSNW9MQ0Eyd1hMWEVaOXBhbWhRZHVlekh1d1pfbDZFUlRPdw?oc=5)
+
+---
+
