@@ -4400,5 +4400,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d26eca0ae4a29819b7ca0f730f6f3851ac2f6d0b5a5c439b9f7d98b4bfb7a137",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "오윤혜, 정청래 직격 \"김민석 100일 비판 의아해\" - 평화나무",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE82Umo3Znk4NG1vdWxnSjdzMTJuaXB5NmJaVlUyMWRRTzVEaTB2UFVKeUh2bkVpTmUwZ1p3al9pM3Q5Zkd6U3RQYThLcE1XX1BSU3NpQlRKUnpiLUplWkRfTEEyeDBjQkd0b1E?oc=5\" target=\"_blank\">오윤혜, 정청래 직격 \"김민석 100일 비판 의아해\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">평화나무</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82Umo3Znk4NG1vdWxnSjdzMTJuaXB5NmJaVlUyMWRRTzVEaTB2UFVKeUh2bkVpTmUwZ1p3al9pM3Q5Zkd6U3RQYThLcE1XX1BSU3NpQlRKUnpiLUplWkRfTEEyeDBjQkd0b1E?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 01:45:31 GMT",
+    "source": "평화나무",
+    "ageHours": 6.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 오윤혜, 정청래 직격 \"김민석 100일 비판 의아해\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

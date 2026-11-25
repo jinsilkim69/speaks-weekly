@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T08:01:16.347Z",
+  "lastCheckedAt": "2026-11-25T08:13:43.052Z",
   "seenPostIds": {
-    "4d337b35f47d01a941814b8ccf47635855d033884e5f82eb5ea9b0ac6421575c": {
-      "seenAt": "2026-11-23T03:41:19.738Z",
-      "title": "김민석, 친정청래계 겨냥 “일제 부역자” 발언 박선원에 엄중 경고 - KBS 뉴스",
-      "targetName": "정청래"
-    },
-    "8f8b1ce642e33fb2e3d1ef21e4d1a40f6db5dd69e33c8f2dd6ab8dafaf559367": {
-      "seenAt": "2026-11-23T03:51:15.974Z",
-      "title": "친명·친청, 신천지로 '반민특위' 설전…김민석, 박선원에 '구두경고'(종합) - 뉴스1",
-      "targetName": "김민석"
-    },
-    "8b921b450bd43d16478376d83afefbc17bbf4781fcee312bb328def42d97e330": {
-      "seenAt": "2026-11-23T04:11:17.799Z",
-      "title": "김민석 \"조희대 탄핵 사유 차고 넘쳐\"…탄핵안 준비 착수 - 데일리메이커",
-      "targetName": "김민석"
-    },
     "a897ec5497797825e26ef39793860a802b6c3ec059ab7a5ca1960e0126e74a84": {
       "seenAt": "2026-11-23T04:11:18.400Z",
       "title": "당명 개정 관련 발언하는 신장식 조국혁신당 대표 - 국제뉴스",
@@ -2515,31 +2500,19 @@
       "seenAt": "2026-11-25T08:01:19.206Z",
       "title": "김민석, '조희대 탄핵 5당 연대' 제안…신장식 \"12월 3일까지 표결해야\" - 녹색경제신문",
       "targetName": "신장식"
+    },
+    "d26eca0ae4a29819b7ca0f730f6f3851ac2f6d0b5a5c439b9f7d98b4bfb7a137": {
+      "seenAt": "2026-11-25T08:13:44.721Z",
+      "title": "오윤혜, 정청래 직격 \"김민석 100일 비판 의아해\" - 평화나무",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "d26eca0ae4a29819b7ca0f730f6f3851ac2f6d0b5a5c439b9f7d98b4bfb7a137",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "오윤혜, 정청래 직격 \"김민석 100일 비판 의아해\" - 평화나무",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE82Umo3Znk4NG1vdWxnSjdzMTJuaXB5NmJaVlUyMWRRTzVEaTB2UFVKeUh2bkVpTmUwZ1p3al9pM3Q5Zkd6U3RQYThLcE1XX1BSU3NpQlRKUnpiLUplWkRfTEEyeDBjQkd0b1E?oc=5\" target=\"_blank\">오윤혜, 정청래 직격 \"김민석 100일 비판 의아해\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">평화나무</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82Umo3Znk4NG1vdWxnSjdzMTJuaXB5NmJaVlUyMWRRTzVEaTB2UFVKeUh2bkVpTmUwZ1p3al9pM3Q5Zkd6U3RQYThLcE1XX1BSU3NpQlRKUnpiLUplWkRfTEEyeDBjQkd0b1E?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:45:31 GMT",
-        "source": "평화나무",
-        "ageHours": 6.3
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "75ce7c300cd4efe7e9b9771b7ad6bab95630a5b25bc7eb957dec9663d4a01e2d",
-    "title": "김민석, '조희대 탄핵 5당 연대' 제안…신장식 \"12월 3일까지 표결해야\" - 녹색경제신문",
+    "postId": "d26eca0ae4a29819b7ca0f730f6f3851ac2f6d0b5a5c439b9f7d98b4bfb7a137",
+    "title": "오윤혜, 정청래 직격 \"김민석 100일 비판 의아해\" - 평화나무",
     "bot": "jongsuk_pol_bot",
-    "runId": "45572657417",
-    "sentAt": "2026-11-25T08:01:18.859Z"
+    "runId": "45574066198",
+    "sentAt": "2026-11-25T08:13:44.207Z"
   }
 }
