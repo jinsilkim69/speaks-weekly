@@ -7931,3 +7931,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 은평서 공적주택 현장 간담회 가져 - LG헬로비전
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 은평서 공적주택 현장 간담회 가져
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE1tNTRFSlY5MXIwTWd3TEZ5WHR6QVp2dC0wMERXZEtrRlV6Yld3QU9hWDQtTFdDUGxZT2J2Q0F1VERXdHNQSkw2bnVlQnU0R1h2X0pYWGJIS19Yc01acmJXZFZpSUlFSUczS0hZSVEwMXo5dw?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 인사 나누는 조국 연구원장-신장식 대표 - 뉴시스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 인사 나누는 조국 연구원장-신장식 대표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhWjRZZFl0NW5HaXozckR2MWJYQk5HaUNFS0R4SXRUai1QRXBRRlJ2LXU3R1d5TG85NEl2bkYzOWF2d0xEczJ4YUpiNzl6Mm9Jd05CaC04dkR5aHFzRGJfTw?oc=5)
+
+---
+
