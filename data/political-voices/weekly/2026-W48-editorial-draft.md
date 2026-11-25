@@ -8217,3 +8217,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, '조희대 탄핵' 의원직 걸었다…"서영교·박선원, 걸어보라" - 조세일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, '조희대 탄핵' 의원직 걸었다…"서영교·박선원, 걸어보라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9xZEpHTXcydlozLVhjTTE2ZFN5RVlQYWdXbDhBQzlJbXhPeEpaaUtYdUREWlhOQzk0aGhxMVV4dGE2TkpqOHM4UThuZ3ZWdTB4Wm4zMmprTHhQcjJPVTFYV3lmWVl4MnkzY3c?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump defends controversial Ramaswamy ad as top Republicans call for taking it down - ABC News - Breaking News, Latest News and Videos
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump defends controversial Ramaswamy ad as top Republicans call for taking it down
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWdRWUZaNElhU19rRC10RXZVenItNHJBckpHay16TUs4el84LW9oNm9EZ2ZMNUZPMUNERlB3dkhONl9hSjl4MVNHRml1TDlybzkzLU5vU2FzUzBfeFVJN0RJZ05PMDBnaUo3RGZ1WHA2THBFM0NRQm1adVVhRWc1X25yRXYzbGJVNEZsUk9lT2tzNW9rdmM1V1djZjXSAaIBQVVfeXFMT0pUTTl0OUFuWm1yYnNaZWlkM2k4dGlkRkd5NVVTMXF1bkV2cWlMTzNWdUhYVGtGV01TSHF6d0hteU1MVjNvOTVNTzdqZ3ZwRFkzMTJNdFg5MEMtbkVhNGtLRG5lNnpKc3hQenpKeTNHZGMtb1Y4YmY3bFI5YS05QkZwdE9ocV9YTllMRjE5WXo3cXF3emRTNm1Nd0s3NzJKVEtn?oc=5)
+
+---
+

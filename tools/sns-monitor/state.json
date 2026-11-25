@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T21:11:13.719Z",
+  "lastCheckedAt": "2026-11-25T21:21:12.880Z",
   "seenPostIds": {
     "11fab95a32704d929e1540cd3ab674352bb455e7b62c137fcf1a6e29401e799b": {
       "seenAt": "2026-11-23T08:21:15.913Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-25T21:01:16.325Z",
       "title": "김민석, '조희대 탄핵' 속도전…범여 5당 연대 제안에 혁신당 \"환영\" - 뉴시스",
       "targetName": "김민석"
+    },
+    "09b80e669ac66298f8d517fa1e3e4f2d7d76b46a6a2fd1ae18008b47b268de60": {
+      "seenAt": "2026-11-25T21:21:14.035Z",
+      "title": "한동훈, '조희대 탄핵' 의원직 걸었다…\"서영교·박선원, 걸어보라\" - 조세일보",
+      "targetName": "한동훈"
+    },
+    "0da0212aa1000494dcaffb04be5532f66e36faac0d3eb190e186112f0361c4e5": {
+      "seenAt": "2026-11-25T21:21:14.689Z",
+      "title": "Trump defends controversial Ramaswamy ad as top Republicans call for taking it down - ABC News - Breaking News, Latest News and Videos",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "8bc6f64ce724c4490ed7549f04912d58ce2579141aa5bf1c8dc2f1e2f9ce420c",
-    "title": "김민석, '조희대 탄핵' 속도전…범여 5당 연대 제안에 혁신당 \"환영\" - 뉴시스",
+    "postId": "0da0212aa1000494dcaffb04be5532f66e36faac0d3eb190e186112f0361c4e5",
+    "title": "Trump defends controversial Ramaswamy ad as top Republicans call for taking it down - ABC News - Breaking News, Latest News and Videos",
     "bot": "jongsuk_pol_bot",
-    "runId": "45700382340",
-    "sentAt": "2026-11-25T21:01:15.699Z"
+    "runId": "45703516442",
+    "sentAt": "2026-11-25T21:21:14.359Z"
   }
 }
