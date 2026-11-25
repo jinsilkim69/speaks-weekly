@@ -7619,3 +7619,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 “조희대 대법원장 탄핵 신속 추진 위한 5당 연대 공식 제안” - 경향신문
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 “조희대 대법원장 탄핵 신속 추진 위한 5당 연대 공식 제안”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiQVBlYjAtZXpKbGRuNEhaV3dfN3Q5WDdyLWhabVRKb2tmNlczT25LbURBN1owYThoa2V3QWFRVWdLaUhiWFVTbXdEdUhVaFBhVkNTaWM4TFM0QdIBX0FVX3lxTE10TUFTbXBkOWJzTHBmWlRERTF3ZmRVcWRRd1dmRHExZTdxM0FRR1FNMVh3TVRpeDU1d0tqclVWd0VUcFJZRmVKUVkyOFRKTnJmVEJpaGtDQ1hOa1E5QlFR?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 천하람 "尹 계몽령 계엄, 조희대 '본때 탄핵'...도긴개긴, 자기들 맘대로, 헌법적 권한은 무슨"[여의도초대석] - KBC광주방송
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 천하람 "尹 계몽령 계엄, 조희대 '본때 탄핵'...도긴개긴, 자기들 맘대로, 헌법적 권한은 무슨"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzVTBYNjR6Y1lqYVgtWWY5NnliYWNFNHF2aG5PYTI1akptQU1BLUpDZGhLc01GMUxndXJrd1ZNaGRSWktTeGJvWldieEM3Zm5PTzZNN1Q5NGtYZVJZT2xzMg?oc=5)
+
+---
+
