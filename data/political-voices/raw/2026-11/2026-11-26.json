@@ -776,5 +776,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6970d0a1150a88de4c1a9866d37d6fbd113adab80e867564f8011a44ae22145f",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "\"내란 인정하라고 지X\" 영상 공유한 조국, 김태규 공개 저격 - 매일신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JWDZJd1NoSXlxZkxGbXFmZm9CcjV4Q0R6WnllVmY0QkhJdUNXNzBSeF9iWW13SElSZ0VOZldfMjNHR3VudkRCaU5WTmU5TmQzTEpjTVMtcmc3MGlDekxWMkd3?oc=5\" target=\"_blank\">\"내란 인정하라고 지X\" 영상 공유한 조국, 김태규 공개 저격</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JWDZJd1NoSXlxZkxGbXFmZm9CcjV4Q0R6WnllVmY0QkhJdUNXNzBSeF9iWW13SElSZ0VOZldfMjNHR3VudkRCaU5WTmU5TmQzTEpjTVMtcmc3MGlDekxWMkd3?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 23:38:13 GMT",
+    "source": "매일신문",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"내란 인정하라고 지X\" 영상 공유한 조국, 김태규 공개 저격",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "bedc1a73c4c8ad04471e8783456088f9685d84f8a785ed605e8d91f8f2ff959c",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump officials declare success after Iowa blast - Politico",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2NWTld0RE80WlNXV0R5Tmlyb0pXbnk1QTkzMXhMeFg2SzBGT1BDQlFEcXdqTUxJNVpHMUlSQ3lPU1d1M3haSW5pcmZQdW8tRlVHUXRCSWFiZEVlNEU5VkppaDJIQi1TaGx4aTJ1SFd5d1hRdlVlbWlLbllYSFlCd3dkbl9uS2NaTXl5ejV1NA?oc=5\" target=\"_blank\">Trump officials declare success after Iowa blast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2NWTld0RE80WlNXV0R5Tmlyb0pXbnk1QTkzMXhMeFg2SzBGT1BDQlFEcXdqTUxJNVpHMUlSQ3lPU1d1M3haSW5pcmZQdW8tRlVHUXRCSWFiZEVlNEU5VkppaDJIQi1TaGx4aTJ1SFd5d1hRdlVlbWlLbllYSFlCd3dkbl9uS2NaTXl5ejV1NA?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 18:47:00 GMT",
+    "source": "Politico",
+    "ageHours": 5.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump officials declare success after Iowa blast",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

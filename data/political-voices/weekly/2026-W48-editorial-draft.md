@@ -8438,3 +8438,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** "내란 인정하라고 지X" 영상 공유한 조국, 김태규 공개 저격 - 매일신문
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "내란 인정하라고 지X" 영상 공유한 조국, 김태규 공개 저격
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JWDZJd1NoSXlxZkxGbXFmZm9CcjV4Q0R6WnllVmY0QkhJdUNXNzBSeF9iWW13SElSZ0VOZldfMjNHR3VudkRCaU5WTmU5TmQzTEpjTVMtcmc3MGlDekxWMkd3?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump officials declare success after Iowa blast - Politico
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump officials declare success after Iowa blast
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2NWTld0RE80WlNXV0R5Tmlyb0pXbnk1QTkzMXhMeFg2SzBGT1BDQlFEcXdqTUxJNVpHMUlSQ3lPU1d1M3haSW5pcmZQdW8tRlVHUXRCSWFiZEVlNEU5VkppaDJIQi1TaGx4aTJ1SFd5d1hRdlVlbWlLbllYSFlCd3dkbl9uS2NaTXl5ejV1NA?oc=5)
+
+---
+
