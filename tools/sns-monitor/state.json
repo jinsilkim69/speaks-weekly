@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T01:31:26.915Z",
+  "lastCheckedAt": "2026-11-25T01:41:24.272Z",
   "seenPostIds": {
-    "2d32b0b790151b54ef3c8cc5faa4b46f4b39a2bd2f90f92f739f3ff179168e0b": {
-      "seenAt": "2026-11-22T06:11:15.975Z",
-      "title": "[속보] 이준석 “근조 민주당, 부끄러운 줄 알라”...조희대 탄핵에 맹비난 - 경기일보",
-      "targetName": "이준석"
-    },
-    "b4be76692551dd9a8c9e8c055dee674999d9e2a85a35f0f6ca732a7d4e0e377f": {
-      "seenAt": "2026-11-22T06:11:16.735Z",
-      "title": "조국, 창당 1천일 앞두고 조국혁신당 당명 개정 제안 - 경기일보",
-      "targetName": "조국"
-    },
-    "4988d351ba13369d764d060fb4ee0c9bdc60db55bd9425d50110e195c74a0705": {
-      "seenAt": "2026-11-22T06:21:24.787Z",
-      "title": "오세훈 “대법원장 탄핵 처리되는 날, 이재명 대통령 향한 국민 심판열차 출발” - 헤럴드경제",
-      "targetName": "이재명"
-    },
     "648d1fa9eb74e79584eac4f4591aeb527067ecd65adabef8026e3a637156b89d": {
       "seenAt": "2026-11-22T06:21:26.139Z",
       "title": "취임 100일 앞둔 김민석…계파 갈등 수습 과제 - 머니투데이 - 머니투데이",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T01:31:29.764Z",
       "title": "한동훈 \"조희대 탄핵, 인용되면 의원직 사퇴...與 서영교·박선원도 직 걸어라\" - 조선일보",
       "targetName": "한동훈"
+    },
+    "1e5f648517c18cb175864a05e71a54ce844531cf5016cc08f8b6c5f05efd6d0b": {
+      "seenAt": "2026-11-25T01:41:26.405Z",
+      "title": "한동훈 “조희대 탄핵 인용 시 의원직 사퇴… 서영교·박선원도 약속하라” - AI경기방송",
+      "targetName": "한동훈"
+    },
+    "485a1ff927af1ad4c25d79f4d030683ca5922eaaf2c8558268f002c137ed09fd": {
+      "seenAt": "2026-11-25T01:41:27.149Z",
+      "title": "정청래 ‘운동권 선배’ 송영길에 “입 싼 사람” - 에너지경제신문",
+      "targetName": "송영길"
+    },
+    "981609f1d579e2791780e8cabfa69e7f26cb76b9dcc394c4381de9f0d641da7c": {
+      "seenAt": "2026-11-25T01:41:27.896Z",
+      "title": "송영길 \"李대통령, 억울한 점 다독여줬다\"...정청래 \"입 조심하라\" - 머니투데이 - 머니투데이",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "1e5f648517c18cb175864a05e71a54ce844531cf5016cc08f8b6c5f05efd6d0b",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 “조희대 탄핵 인용 시 의원직 사퇴… 서영교·박선원도 약속하라” - AI경기방송",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTXZrYUI1NGE2Skd4RTFPU1ZLeEJubDBDTDVzYlIzLVIxTnlFeDBxdUYxMlJPa1d4VzBYNndGbHcxV21XNG8tSkNsQjU2YWd4bWc?oc=5\" target=\"_blank\">한동훈 “조희대 탄핵 인용 시 의원직 사퇴… 서영교·박선원도 약속하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI경기방송</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTXZrYUI1NGE2Skd4RTFPU1ZLeEJubDBDTDVzYlIzLVIxTnlFeDBxdUYxMlJPa1d4VzBYNndGbHcxV21XNG8tSkNsQjU2YWd4bWc?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:19:00 GMT",
-        "source": "AI경기방송",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "485a1ff927af1ad4c25d79f4d030683ca5922eaaf2c8558268f002c137ed09fd",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래 ‘운동권 선배’ 송영길에 “입 싼 사람” - 에너지경제신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sR2hzeEo4Yl9IWkljbHUzTlJQOUFoNms3SFN1clBkbjVhNWpEeWZyODhIODBkUUE3Sm5PWVNlZjJYT0VsQVRlRG9KWlJnb2dBa3BoNDdOcTd1VEkxX2I0bUhHYw?oc=5\" target=\"_blank\">정청래 ‘운동권 선배’ 송영길에 “입 싼 사람”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sR2hzeEo4Yl9IWkljbHUzTlJQOUFoNms3SFN1clBkbjVhNWpEeWZyODhIODBkUUE3Sm5PWVNlZjJYT0VsQVRlRG9KWlJnb2dBa3BoNDdOcTd1VEkxX2I0bUhHYw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:25:21 GMT",
-        "source": "에너지경제신문",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "981609f1d579e2791780e8cabfa69e7f26cb76b9dcc394c4381de9f0d641da7c",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 \"李대통령, 억울한 점 다독여줬다\"...정청래 \"입 조심하라\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5XX0JjUV9USDdjWEdEb19yLV9fLUpXazd2b0dKU0FxMkRHVlFuWlBQZEZ6UU5RVWsyZ0xDZy1pVnQ0MnA1M253dHhqYjYxVkt3OVVRNm1aaUNrSlhoSWNaV1V3ZlNjQ0FoWXpnZtIBckFVX3lxTE0yS1ZOcDhWUzBtUTNvb1FrWUVVQVdXZHU2VXBGa0ZmRkRZOGVzMnNEVDlvSXFQMlZ3NTBDTGc0cU9CanNhdHdTVlM5OTJ3eFpOUUZlNXZfRkdaQTdOOWticFByeWxZcWpvVW1fbWs2cjgtUQ?oc=5\" target=\"_blank\">송영길 \"李대통령, 억울한 점 다독여줬다\"...정청래 \"입 조심하라\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XX0JjUV9USDdjWEdEb19yLV9fLUpXazd2b0dKU0FxMkRHVlFuWlBQZEZ6UU5RVWsyZ0xDZy1pVnQ0MnA1M253dHhqYjYxVkt3OVVRNm1aaUNrSlhoSWNaV1V3ZlNjQ0FoWXpnZtIBckFVX3lxTE0yS1ZOcDhWUzBtUTNvb1FrWUVVQVdXZHU2VXBGa0ZmRkRZOGVzMnNEVDlvSXFQMlZ3NTBDTGc0cU9CanNhdHdTVlM5OTJ3eFpOUUZlNXZfRkdaQTdOOWticFByeWxZcWpvVW1fbWs2cjgtUQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:24:37 GMT",
-        "source": "머니투데이",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "8707fd7a33c25463f314e66fb35ff9ad81fe80e93e75771b9e724e684490cdf9",
@@ -2629,13 +2581,93 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "68b7f9a2eaedbdabbde46a105c6713685ae247e8e5217d2de5f0be4614cd30ec",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "김혜경 여사 만난 권양숙 여사 \"노무현-이재명 두 대통령 정말 닮아\" - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnJfWUVsamsxamhsTkk2ZGZJZm1tNWlBWVM1cHljWWtFNTJsbnZxdm5YOEVCelB3VUdmV2NKQjV1MnBYaV9YR2taU2ZpNGtCWEtkM2NkZDg0TFNkcVhfa1pfelp0U3ctSVhRVFlBdlhIZmlQaEg5V0Z6Z1NpQndKbzdZOTNnOWw4TlE?oc=5\" target=\"_blank\">김혜경 여사 만난 권양숙 여사 \"노무현-이재명 두 대통령 정말 닮아\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnJfWUVsamsxamhsTkk2ZGZJZm1tNWlBWVM1cHljWWtFNTJsbnZxdm5YOEVCelB3VUdmV2NKQjV1MnBYaV9YR2taU2ZpNGtCWEtkM2NkZDg0TFNkcVhfa1pfelp0U3ctSVhRVFlBdlhIZmlQaEg5V0Z6Z1NpQndKbzdZOTNnOWw4TlE?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 00:29:00 GMT",
+        "source": "OhmyNews",
+        "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b6a28b447691edc6ee026195988f853edaa53b0a1b6776cc41539c905c02ef45",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 “조희태 탄핵 인용되면 의원직 사퇴···서영교도 걸어라” - 주간경향",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xZUw0YVp4WVBYR0dtWGFYeDJNZDlKczFRWk9IQmpXaXM0aUdzU3JsNlVNaHRkYlppSWl2YzBuN1NTTHRTeWpaYWdKblJsQ005MzVwazBWRG14M0FRVHc?oc=5\" target=\"_blank\">한동훈 “조희태 탄핵 인용되면 의원직 사퇴···서영교도 걸어라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xZUw0YVp4WVBYR0dtWGFYeDJNZDlKczFRWk9IQmpXaXM0aUdzU3JsNlVNaHRkYlppSWl2YzBuN1NTTHRTeWpaYWdKblJsQ005MzVwazBWRG14M0FRVHc?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 23:23:00 GMT",
+        "source": "주간경향",
+        "ageHours": 2.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "1235fe8d0c0a9ebc078f58e7bc3efd5b9434c1ff8476fffc7e0981d79fa25758",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlTHB6aHJsZTBEWklqVkpVVFpqcXB4Y3dUQmR5aEhmTzYyeUI2cFNUMFNwaUlXa1hyU2dKMG1NRGVEdzNQVWpfbEtFRlROMXQ1bngyVFBua1Ryd2ZuNkwwNXRHVQ?oc=5\" target=\"_blank\">한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlTHB6aHJsZTBEWklqVkpVVFpqcXB4Y3dUQmR5aEhmTzYyeUI2cFNUMFNwaUlXa1hyU2dKMG1NRGVEdzNQVWpfbEtFRlROMXQ1bngyVFBua1Ryd2ZuNkwwNXRHVQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:38:13 GMT",
+        "source": "에너지경제신문",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d4fcc47b7957327faa3fe64e5c34b5c4bff59175a2fccd9f0cd510ca64c2238f",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 \"8월 청와대서 鄭 억울함 4시간 들어\" 정청래 \"입조심하라\" - 조선일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOMlFzNGc0V3Z6WXc3MFVIQnVsNkpveEM3VE4xQUs3ZGxyWTlHYmxzSUY2R1FNLXR0ajVyVC1uOFlCcUJtNEJQQnhtM192UEJndDdaN1ZIVEI2Si1vTVg1U0R1bVhvdUFFQ25QRmpucTNlaUJIa1JPUzl3NHgtY0pJaHI4a1ZZZlctS0xnV0JGQ1U?oc=5\" target=\"_blank\">송영길 \"8월 청와대서 鄭 억울함 4시간 들어\" 정청래 \"입조심하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMlFzNGc0V3Z6WXc3MFVIQnVsNkpveEM3VE4xQUs3ZGxyWTlHYmxzSUY2R1FNLXR0ajVyVC1uOFlCcUJtNEJQQnhtM192UEJndDdaN1ZIVEI2Si1vTVg1U0R1bVhvdUFFQ25QRmpucTNlaUJIa1JPUzl3NHgtY0pJaHI4a1ZZZlctS0xnV0JGQ1U?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:22:00 GMT",
+        "source": "조선일보",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "60c66ced83ba8f64d5548f3992d8dcef1216768af23f561e0e633af5a387e480",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week - New York Post",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHVzd2h3em1OLWJ2ekNOTzZTMHZTSGVZdXFMcmJtM08ya1h3aWRUeXRBQnhRdGxCMldNZkh1Z0NzaFIxeEdMRmhZZ0hlMFFHUm9zcWM2a21MMEp3WjFQVk5kZVgxWDdldHFBSE0tdXJYT0RFSXpWbWJvMU4yX00wUW1UejRRRGZlT1Uzei1CbXdJeXl5a1A3TWNvN1BlQkpQaXh4WGp3Z0xoUTQ3dnVPdHBHOUZCN0Nza0FCRTF3eVpOUGE5cnFHVHhJUVNvN3AzQ3hz?oc=5\" target=\"_blank\">Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHVzd2h3em1OLWJ2ekNOTzZTMHZTSGVZdXFMcmJtM08ya1h3aWRUeXRBQnhRdGxCMldNZkh1Z0NzaFIxeEdMRmhZZ0hlMFFHUm9zcWM2a21MMEp3WjFQVk5kZVgxWDdldHFBSE0tdXJYT0RFSXpWbWJvMU4yX00wUW1UejRRRGZlT1Uzei1CbXdJeXl5a1A3TWNvN1BlQkpQaXh4WGp3Z0xoUTQ3dnVPdHBHOUZCN0Nza0FCRTF3eVpOUGE5cnFHVHhJUVNvN3AzQ3hz?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 22:56:00 GMT",
+        "source": "New York Post",
+        "ageHours": 2.8
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "8531261c2f03540f0bf02c19e77d86dedca3b8b3de641d9a4037604573c6aff9",
-    "title": "한동훈 \"조희대 탄핵, 인용되면 의원직 사퇴...與 서영교·박선원도 직 걸어라\" - 조선일보",
+    "postId": "981609f1d579e2791780e8cabfa69e7f26cb76b9dcc394c4381de9f0d641da7c",
+    "title": "송영길 \"李대통령, 억울한 점 다독여줬다\"...정청래 \"입 조심하라\" - 머니투데이 - 머니투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45526312620",
-    "sentAt": "2026-11-25T01:31:29.408Z"
+    "runId": "45527532293",
+    "sentAt": "2026-11-25T01:41:27.524Z"
   }
 }

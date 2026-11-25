@@ -5812,3 +5812,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “조희대 탄핵 인용 시 의원직 사퇴… 서영교·박선원도 약속하라” - AI경기방송
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “조희대 탄핵 인용 시 의원직 사퇴… 서영교·박선원도 약속하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FTXZrYUI1NGE2Skd4RTFPU1ZLeEJubDBDTDVzYlIzLVIxTnlFeDBxdUYxMlJPa1d4VzBYNndGbHcxV21XNG8tSkNsQjU2YWd4bWc?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래 ‘운동권 선배’ 송영길에 “입 싼 사람” - 에너지경제신문
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 ‘운동권 선배’ 송영길에 “입 싼 사람”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sR2hzeEo4Yl9IWkljbHUzTlJQOUFoNms3SFN1clBkbjVhNWpEeWZyODhIODBkUUE3Sm5PWVNlZjJYT0VsQVRlRG9KWlJnb2dBa3BoNDdOcTd1VEkxX2I0bUhHYw?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "李대통령, 억울한 점 다독여줬다"...정청래 "입 조심하라" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "李대통령, 억울한 점 다독여줬다"...정청래 "입 조심하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5XX0JjUV9USDdjWEdEb19yLV9fLUpXazd2b0dKU0FxMkRHVlFuWlBQZEZ6UU5RVWsyZ0xDZy1pVnQ0MnA1M253dHhqYjYxVkt3OVVRNm1aaUNrSlhoSWNaV1V3ZlNjQ0FoWXpnZtIBckFVX3lxTE0yS1ZOcDhWUzBtUTNvb1FrWUVVQVdXZHU2VXBGa0ZmRkRZOGVzMnNEVDlvSXFQMlZ3NTBDTGc0cU9CanNhdHdTVlM5OTJ3eFpOUUZlNXZfRkdaQTdOOWticFByeWxZcWpvVW1fbWs2cjgtUQ?oc=5)
+
+---
+
