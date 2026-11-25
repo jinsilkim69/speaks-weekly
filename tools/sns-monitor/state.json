@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T06:11:16.649Z",
+  "lastCheckedAt": "2026-11-25T06:21:16.774Z",
   "seenPostIds": {
-    "cb7967086db1071990ed0d75c82191fd640f76e74a50ad7752af6893bd3df62e": {
-      "seenAt": "2026-11-23T01:11:35.460Z",
-      "title": "[정치家] 김민석 더불어민주당 대표 ⑫ㅣ 조희대 탄핵 강공·당내 기강 다잡기…청년·당정청 소통도 강화 - CBC뉴스",
-      "targetName": "김민석"
-    },
-    "e4fc992985082c556485e3e376196f7de6697f964b0a539028d438bf75aecbfc": {
-      "seenAt": "2026-11-23T01:21:14.509Z",
-      "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader | NewsNation Live - NewsNation",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "107b9a14da0b4cba3b15c7155e8c9a8e4caa2c9df90c66c732d40ae3cfd793e4": {
-      "seenAt": "2026-11-23T01:41:22.186Z",
-      "title": "김민석, 지지율 정체·계파 갈등 이중고…취임 100일 메시지 '주목' - 청주일보",
-      "targetName": "김민석"
-    },
     "445c4ab80c9bfe5ec55a671f57c1813640b49015a073fbbf1c1fde46d27df477": {
       "seenAt": "2026-11-23T01:41:23.004Z",
       "title": "\"자기 밥그릇 챙기는 정청래... 일한 것이 없어\" #shorts - 오마이TV - OhmyNews",
@@ -2515,47 +2500,78 @@
       "seenAt": "2026-11-25T06:11:19.604Z",
       "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
       "targetName": "송영길"
+    },
+    "9bb0f7515f178347d01af51cff7b94b3181ccb7b4efc3b92e33d7eb464c28414": {
+      "seenAt": "2026-11-25T06:21:18.098Z",
+      "title": "운전대 잡은뒤 경악했다…이준석 실소한 ‘尹 조수석’ 사건 - 중앙일보",
+      "targetName": "이준석"
+    },
+    "bf45642845f03d82ba2bdd92c1f370a9f1b1f45d8db50f13429204b958e6078b": {
+      "seenAt": "2026-11-25T06:21:18.721Z",
+      "title": "이준석 “장동혁, 부정선거 붙잡고 버텨…한동훈식 검찰정치도 위험” - 미주중앙일보",
+      "targetName": "이준석"
+    },
+    "b0e93e1347e18090da86180c302971e9e6bf2c870a13cd238d3e333f5b92f0e5": {
+      "seenAt": "2026-11-25T06:21:19.393Z",
+      "title": "이재명 대통령 “가정폭력, 피해자 원치 않아도 처벌”…법 개정 추진 - 일간투데이",
+      "targetName": "이재명"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "9bb0f7515f178347d01af51cff7b94b3181ccb7b4efc3b92e33d7eb464c28414",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "운전대 잡은뒤 경악했다…이준석 실소한 ‘尹 조수석’ 사건 - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE81VU9qRklsdVppTVE0UkRpbEhhWmJEdEgtUWZEcjBwT2tPWnNKd21pWlVsaXlDUVpzLVptTUh4eDVzNXJCeGVxLWF5MjMweXgwSExFdXFB?oc=5\" target=\"_blank\">운전대 잡은뒤 경악했다…이준석 실소한 ‘尹 조수석’ 사건</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81VU9qRklsdVppTVE0UkRpbEhhWmJEdEgtUWZEcjBwT2tPWnNKd21pWlVsaXlDUVpzLVptTUh4eDVzNXJCeGVxLWF5MjMweXgwSExFdXFB?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 06:01:09 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.2
+        "id": "58b2b0f00e3cd50205caa09d968e6091d9d6eb7179b248f8e68314d292753672",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "의원직이 도박판 판돈? 한동훈의 황당한 '베팅 정치' - 굿모닝충청",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAwaUZvRGl6bmxFMFZGOEliMldZbkpSRFR0ZUtSZDg0bnp5V19pSzZYZzFuNVVsc2I3X2l3ZnlpR29nRWVDdHZPbEFOSzZxNEVOalhsdVAyMkhKRmFmbTNTRDZvSWxvdEVGcmpnLWNmM2o3UQ?oc=5\" target=\"_blank\">의원직이 도박판 판돈? 한동훈의 황당한 '베팅 정치'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">굿모닝충청</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwaUZvRGl6bmxFMFZGOEliMldZbkpSRFR0ZUtSZDg0bnp5V19pSzZYZzFuNVVsc2I3X2l3ZnlpR29nRWVDdHZPbEFOSzZxNEVOalhsdVAyMkhKRmFmbTNTRDZvSWxvdEVGcmpnLWNmM2o3UQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 06:13:46 GMT",
+        "source": "굿모닝충청",
+        "ageHours": 0.1
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "bf45642845f03d82ba2bdd92c1f370a9f1b1f45d8db50f13429204b958e6078b",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 “장동혁, 부정선거 붙잡고 버텨…한동훈식 검찰정치도 위험” - 미주중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CU0M1NnZheWRRb1RrV2tubUEyeXJNSlVUY1pyTV84dG9iUkNzdF8yWVpxcWRHb0ZQdlc0QjBMc1B6Y3FEWFE3SFdHQUhaTlROaTZsa2U0UUNNVks3dVpWTExn?oc=5\" target=\"_blank\">이준석 “장동혁, 부정선거 붙잡고 버텨…한동훈식 검찰정치도 위험”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미주중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CU0M1NnZheWRRb1RrV2tubUEyeXJNSlVUY1pyTV84dG9iUkNzdF8yWVpxcWRHb0ZQdlc0QjBMc1B6Y3FEWFE3SFdHQUhaTlROaTZsa2U0UUNNVks3dVpWTExn?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 15:02:00 GMT",
-        "source": "미주중앙일보",
-        "ageHours": 15.2
+        "id": "7127e4b2201610bc2c844aae3a826d3c06453102aea826bcdab6282f75b48fac",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "김민석 '조희대 탄핵 5당 연대' 공식 제안…조국혁신당은 '환영' - 신아일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1OLU1mdE9rVWtablJucDFYTmxLVjJMcW5FUEtxVlE1WGNGdENMNDcyWW1pNkUybjlYMkE5ckZ3enN2TElvTGZjakEwazlYVlBOamtfNlJSVlNITHJMYy1rSHBvcDlmeTdMVGV5WXQ4NmY?oc=5\" target=\"_blank\">김민석 '조희대 탄핵 5당 연대' 공식 제안…조국혁신당은 '환영'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">신아일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OLU1mdE9rVWtablJucDFYTmxLVjJMcW5FUEtxVlE1WGNGdENMNDcyWW1pNkUybjlYMkE5ckZ3enN2TElvTGZjakEwazlYVlBOamtfNlJSVlNITHJMYy1rSHBvcDlmeTdMVGV5WXQ4NmY?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 06:14:57 GMT",
+        "source": "신아일보",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "33893b6501d344148c55f78d7435f201e983389ead1c1eb6568a737e0e20cc01",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당에 손 내민 김민석…“조희대 탄핵 연대 제안” - 채널A",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qbnpRRFFKYWtYNXZhTWhoUGk2ZmFiS2V6Rnl1bjBaRjE0OWlHRzRnNURaLWZtcGhvWVlMM1dhN3RjZGZtaEhNRUhpS3NPNXRucXJUc3JqYWFlQkNoTHF6TFFDMNIBY0FVX3lxTE1qbnpRRFFKYWtYNXZhTWhoUGk2ZmFiS2V6Rnl1bjBaRjE0OWlHRzRnNURaLWZtcGhvWVlMM1dhN3RjZGZtaEhNRUhpS3NPNXRucXJUc3JqYWFlQkNoTHF6TFFDMA?oc=5\" target=\"_blank\">조국혁신당에 손 내민 김민석…“조희대 탄핵 연대 제안”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qbnpRRFFKYWtYNXZhTWhoUGk2ZmFiS2V6Rnl1bjBaRjE0OWlHRzRnNURaLWZtcGhvWVlMM1dhN3RjZGZtaEhNRUhpS3NPNXRucXJUc3JqYWFlQkNoTHF6TFFDMNIBY0FVX3lxTE1qbnpRRFFKYWtYNXZhTWhoUGk2ZmFiS2V6Rnl1bjBaRjE0OWlHRzRnNURaLWZtcGhvWVlMM1dhN3RjZGZtaEhNRUhpS3NPNXRucXJUc3JqYWFlQkNoTHF6TFFDMA?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 03:38:00 GMT",
+        "source": "채널A",
+        "ageHours": 2.7
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "4c33b1e119b68b69b808ec12abb85ba12f0ce8dd28bbee4d8337b60bd5cd8d6b",
-    "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
+    "postId": "b0e93e1347e18090da86180c302971e9e6bf2c870a13cd238d3e333f5b92f0e5",
+    "title": "이재명 대통령 “가정폭력, 피해자 원치 않아도 처벌”…법 개정 추진 - 일간투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45558716065",
-    "sentAt": "2026-11-25T06:11:19.256Z"
+    "runId": "45559936369",
+    "sentAt": "2026-11-25T06:21:19.029Z"
   }
 }

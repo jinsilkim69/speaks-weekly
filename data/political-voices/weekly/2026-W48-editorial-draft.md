@@ -6917,3 +6917,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 운전대 잡은뒤 경악했다…이준석 실소한 ‘尹 조수석’ 사건 - 중앙일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 운전대 잡은뒤 경악했다…이준석 실소한 ‘尹 조수석’ 사건
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE81VU9qRklsdVppTVE0UkRpbEhhWmJEdEgtUWZEcjBwT2tPWnNKd21pWlVsaXlDUVpzLVptTUh4eDVzNXJCeGVxLWF5MjMweXgwSExFdXFB?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “장동혁, 부정선거 붙잡고 버텨…한동훈식 검찰정치도 위험” - 미주중앙일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “장동혁, 부정선거 붙잡고 버텨…한동훈식 검찰정치도 위험”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CU0M1NnZheWRRb1RrV2tubUEyeXJNSlVUY1pyTV84dG9iUkNzdF8yWVpxcWRHb0ZQdlc0QjBMc1B6Y3FEWFE3SFdHQUhaTlROaTZsa2U0UUNNVks3dVpWTExn?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 “가정폭력, 피해자 원치 않아도 처벌”…법 개정 추진 - 일간투데이
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “가정폭력, 피해자 원치 않아도 처벌”…법 개정 추진
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE45R1V5RlYxQlVnOEtWdVVraUY3Q01vZE9jN2dQTVc2NDdVbGMyQXljNHdVeXpVUmpZbl9ROUJTUWhWUkx4Z1E2X09kMXNIcUJFcFMxRGREcDRQaElaZ2RYQWVTdUIxaXZ0MzU0?oc=5)
+
+---
+
