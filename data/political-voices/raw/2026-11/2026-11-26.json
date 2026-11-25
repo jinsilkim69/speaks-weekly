@@ -751,5 +751,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4b119f9b68e94369e988b82871f0d93629485edfbe9f09538b6ba3f62f494385",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Blames Midterm Election After Tariffs Weigh on U.S. Stock Market - news.sbs.co.kr",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1SUHFWdEJtbzNLTGZ2RXhjb0ptS2pQQ25feThFTHNLTXlUTi1BOXl3ZXRLWTZwY1hhMHlRczJ3b1E0TDZGN3d1Y0FDa1FfejJvb1FDTUVCWGJ1c0p4Y3lpT3U3ek1iUmgyMGJIeDF3?oc=5\" target=\"_blank\">Trump Blames Midterm Election After Tariffs Weigh on U.S. Stock Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.sbs.co.kr</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SUHFWdEJtbzNLTGZ2RXhjb0ptS2pQQ25feThFTHNLTXlUTi1BOXl3ZXRLWTZwY1hhMHlRczJ3b1E0TDZGN3d1Y0FDa1FfejJvb1FDTUVCWGJ1c0p4Y3lpT3U3ek1iUmgyMGJIeDF3?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 23:20:37 GMT",
+    "source": "news.sbs.co.kr",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Blames Midterm Election After Tariffs Weigh on U.S. Stock Market",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

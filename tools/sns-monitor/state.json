@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T23:31:14.822Z",
+  "lastCheckedAt": "2026-11-25T23:41:15.262Z",
   "seenPostIds": {
-    "3e625d47a2e41de5757e4983b3319a53099c25373f205ceb171f5fd2e55016a2": {
-      "seenAt": "2026-11-23T09:21:15.978Z",
-      "title": "Trump threatens fresh strikes on Iran if diplomacy fails - The Arab Weekly",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "67ab141ce59d0382f7eddf8f64996df906acc7df9ee7635a8461cc428974b35e": {
       "seenAt": "2026-11-23T09:31:15.437Z",
       "title": "보수 대연합부터 코스피 반토막까지, 이준석의 해법은…24일 라이브 출연 [불편한 여의도] - 중앙일보",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-25T23:31:16.036Z",
       "title": "조국 \"김태규 '내란 인정하라고 지O 지O'…국힘 의원 수준 보라\" - 뉴스1",
       "targetName": "조국"
+    },
+    "4b119f9b68e94369e988b82871f0d93629485edfbe9f09538b6ba3f62f494385": {
+      "seenAt": "2026-11-25T23:41:16.685Z",
+      "title": "Trump Blames Midterm Election After Tariffs Weigh on U.S. Stock Market - news.sbs.co.kr",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "53dcbd46486473ebdb2b1cd0e1a38a361cacfc76f0b3f147bf93d5cb48bb50fc",
-    "title": "조국 \"김태규 '내란 인정하라고 지O 지O'…국힘 의원 수준 보라\" - 뉴스1",
+    "postId": "4b119f9b68e94369e988b82871f0d93629485edfbe9f09538b6ba3f62f494385",
+    "title": "Trump Blames Midterm Election After Tariffs Weigh on U.S. Stock Market - news.sbs.co.kr",
     "bot": "jongsuk_pol_bot",
-    "runId": "45721956072",
-    "sentAt": "2026-11-25T23:31:15.436Z"
+    "runId": "45723225266",
+    "sentAt": "2026-11-25T23:41:16.034Z"
   }
 }
