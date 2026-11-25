@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T14:31:21.258Z",
+  "lastCheckedAt": "2026-11-25T14:41:16.015Z",
   "seenPostIds": {
-    "ccb06fdf2372963046c9019fc57b4223df4c128a004825a75c40a01608616051": {
-      "seenAt": "2026-11-23T07:21:16.307Z",
-      "title": "Trump Urges Nvidia Board To Bring Back Jensen Huang Amid New Chinese Spy Agency Revelations - Forbes",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "46333224406af6743d2a187bc1ccb57f79c7976bed099b9b9342d606dbe3de94": {
       "seenAt": "2026-11-23T07:21:17.019Z",
       "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라\" - 부산일보",
@@ -2505,14 +2500,29 @@
       "seenAt": "2026-11-25T14:31:22.790Z",
       "title": "[김종석의 왜]송영길-정청래 또 설전…“입조심 하라” - 채널A",
       "targetName": "송영길"
+    },
+    "69507b180275dc7afb0e9cfde279439814ad647f32cf4cb747383d535144f3dd": {
+      "seenAt": "2026-11-25T14:41:17.063Z",
+      "title": "[김종석의 왜]송영길-정청래 또 설전…“입조심 하라” - 채널A",
+      "targetName": "정청래"
+    },
+    "17da5c93c5eb3f599c2f5500446ede214ba46a2ef50464344811addf59feb93a": {
+      "seenAt": "2026-11-25T14:41:17.748Z",
+      "title": "[속보]‘드디어 조국에 손내민 김민석’…민주당, 진보4당에 ‘조희대 탄핵’ 공동 행동 제안 - 문화일보",
+      "targetName": "조국"
+    },
+    "0e561ccdcc4f0e2c95143f66f584f158d3f23b22a51ee938e206497235ea00cb": {
+      "seenAt": "2026-11-25T14:41:18.518Z",
+      "title": "Today’s headlines: Donald Trump, Senate, Miss Universe | The wRap | November 25, 2026 https://www.rappler.com/video/daily-wrap/november-25-2026/ - Facebook",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c27f4f536c702316f7e5c10cc1547b4a8780aee6afa56d9830683011a35f1aa2",
-    "title": "[김종석의 왜]송영길-정청래 또 설전…“입조심 하라” - 채널A",
+    "postId": "0e561ccdcc4f0e2c95143f66f584f158d3f23b22a51ee938e206497235ea00cb",
+    "title": "Today’s headlines: Donald Trump, Senate, Miss Universe | The wRap | November 25, 2026 https://www.rappler.com/video/daily-wrap/november-25-2026/ - Facebook",
     "bot": "jongsuk_pol_bot",
-    "runId": "45634906575",
-    "sentAt": "2026-11-25T14:31:22.262Z"
+    "runId": "45636717055",
+    "sentAt": "2026-11-25T14:41:18.068Z"
   }
 }

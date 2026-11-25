@@ -7970,3 +7970,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [김종석의 왜]송영길-정청래 또 설전…“입조심 하라” - 채널A
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길-정청래 또 설전…“입조심 하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE50SHhSTE9jc0NpQnhKN3ZfRWVQVW4yNlplY1ZESzZZNk1HX2ZFaEhYd1lLQ2FvaHNDdHNTcDVpbUhQczNhM0U3WlZJYmVsb1hVYVhCQmM0aFFRZnFLb0HSAWNBVV95cUxOTjdVcHQ3bVI4ZVVHUG9IZTFmYVJPRzNROXdoaU1ySTVsYUc0cWwwd2liWVFaY0RlNUl0TkloMTNPRmZHWnVBVElCbHVSaEpVdDViSUVkRkREMnpWOVZtcFBkTm8?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [속보]‘드디어 조국에 손내민 김민석’…민주당, 진보4당에 ‘조희대 탄핵’ 공동 행동 제안 - 문화일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘드디어 조국에 손내민 김민석’…민주당, 진보4당에 ‘조희대 탄핵’ 공동 행동 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE95U3VqOWVpWWFWSjBEVkcwdnk4ZE00anYxM0R1S19ESkV1S1BfcURsNkVtRUhzTXFMUFNGY1cxRnJoYXJiSXJPazJnUjBFdUtm?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Today’s headlines: Donald Trump, Senate, Miss Universe | The wRap | November 25, 2026 https://www.rappler.com/video/daily-wrap/november-25-2026/ - Facebook
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Today’s headlines: Donald Trump, Senate, Miss Universe | The wRap | November 25, 2026 https://www.rappler.com/video/daily-wrap/november-25-2026/
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWlk1TnFMZFhwRXJXUHhFdS16M3JuVkJEUm9iaWlNeWpYdktfWFBLZ09sZVVKem9wQlY2bkhUQnY1LUpKVWdUSDFhVkVkVWNNR1hwYXdYWnhkYUUtdFIyb25FbmwwMWxucmxaRWhTa2l0QmNzbTFMYUV4OHlrTEFRbHRtR3pmZHhqVm5RbFZnMm02MFRDZjNoUS1RLVZ2bk4zb1pVQW5FdEMzOHA3M0dQLU9jRTZQVmllMk1mSTF4bGRTRzJTZ0tXczFXQW53T2FiVUlrRW1kQQ?oc=5)
+
+---
+
