@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T23:23:17.372Z",
+  "lastCheckedAt": "2026-11-25T23:31:14.822Z",
   "seenPostIds": {
     "3e625d47a2e41de5757e4983b3319a53099c25373f205ceb171f5fd2e55016a2": {
       "seenAt": "2026-11-23T09:21:15.978Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-25T23:21:15.983Z",
       "title": "김용민, \"의원직 걸라\"는 한동훈 향해 \"가벼운 태도 한심해\" - 뉴시스",
       "targetName": "한동훈"
+    },
+    "53dcbd46486473ebdb2b1cd0e1a38a361cacfc76f0b3f147bf93d5cb48bb50fc": {
+      "seenAt": "2026-11-25T23:31:16.036Z",
+      "title": "조국 \"김태규 '내란 인정하라고 지O 지O'…국힘 의원 수준 보라\" - 뉴스1",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "353b4633f6c80dd86e39df63e1d744bffd3ff73d0ebdcae8cb5f87f842cc2d43",
-    "title": "김용민, \"의원직 걸라\"는 한동훈 향해 \"가벼운 태도 한심해\" - 뉴시스",
+    "postId": "53dcbd46486473ebdb2b1cd0e1a38a361cacfc76f0b3f147bf93d5cb48bb50fc",
+    "title": "조국 \"김태규 '내란 인정하라고 지O 지O'…국힘 의원 수준 보라\" - 뉴스1",
     "bot": "jongsuk_pol_bot",
-    "runId": "45720668879",
-    "sentAt": "2026-11-25T23:21:15.472Z"
+    "runId": "45721956072",
+    "sentAt": "2026-11-25T23:31:15.436Z"
   }
 }

@@ -726,5 +726,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "53dcbd46486473ebdb2b1cd0e1a38a361cacfc76f0b3f147bf93d5cb48bb50fc",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 \"김태규 '내란 인정하라고 지O 지O'…국힘 의원 수준 보라\" - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tY0lWQ3hoQVpsaWJFLUJXQWdYVVczVTU2YV9OQmJCVWlPcGg1d21BMXlFWjN2YXhqN3c5WVh1OWY1TXlLdzYtQ2VuTlU2cWtsdFhpSkIweWpLdw?oc=5\" target=\"_blank\">조국 \"김태규 '내란 인정하라고 지O 지O'…국힘 의원 수준 보라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tY0lWQ3hoQVpsaWJFLUJXQWdYVVczVTU2YV9OQmJCVWlPcGg1d21BMXlFWjN2YXhqN3c5WVh1OWY1TXlLdzYtQ2VuTlU2cWtsdFhpSkIweWpLdw?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 23:22:31 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"김태규 '내란 인정하라고 지O 지O'…국힘 의원 수준 보라\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
