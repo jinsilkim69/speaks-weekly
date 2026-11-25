@@ -3511,5 +3511,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f1bf77897b2029cc33f5af996ffab98c7e1d93742be6839cb5405c28c65912b1",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" | - 연합인포맥스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5nYXBPV0dSdG4xQnhsVFJGQ3lzTWxZdlcxQ3FIVDNib1BLVG8zU0FDLV9ydnRuamZfYjkwQ1VuZzRSTHZHWHZCOHFEbnN1UklUb1A3Vl9MSFU1dEFweFAwRkFiNktDUGpCM3QxelB5WEJOZ0lN?oc=5\" target=\"_blank\">송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합인포맥스</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nYXBPV0dSdG4xQnhsVFJGQ3lzTWxZdlcxQ3FIVDNib1BLVG8zU0FDLV9ydnRuamZfYjkwQ1VuZzRSTHZHWHZCOHFEbnN1UklUb1A3Vl9MSFU1dEFweFAwRkFiNktDUGpCM3QxelB5WEJOZ0lN?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 04:08:15 GMT",
+    "source": "연합인포맥스",
+    "ageHours": 1.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" |",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

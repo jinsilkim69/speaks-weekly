@@ -6865,3 +6865,16 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "李대통령, 鄭 억울함 4시간 들어"…정청래 "입 싼 宋, 입조심하라" | - 연합인포맥스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "李대통령, 鄭 억울함 4시간 들어"…정청래 "입 싼 宋, 입조심하라" |
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE5nYXBPV0dSdG4xQnhsVFJGQ3lzTWxZdlcxQ3FIVDNib1BLVG8zU0FDLV9ydnRuamZfYjkwQ1VuZzRSTHZHWHZCOHFEbnN1UklUb1A3Vl9MSFU1dEFweFAwRkFiNktDUGpCM3QxelB5WEJOZ0lN?oc=5)
+
+---
+
