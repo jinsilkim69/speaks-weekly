@@ -6163,3 +6163,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "마지막 한 명까지 역사교정"… 경찰, 정부포상 10만건 전수조사 - 한국뉴스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "마지막 한 명까지 역사교정"… 경찰, 정부포상 10만건 전수조사
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qVjJvcDhlRG1uR2tyV2o0MlU0czNsUHo2N1pzaHRjSmNXNEkzWDlMeEdyLWRZVG5nNlhVTERDZ0dZNnU3eVVOZ1ZPQktCalhCbGJOR0JXUHhDN3p6d1VrWkNwRHFhS0HSAWtBVV95cUxQaGQxaXM5LUpCcDhKZlZqdEN6Uk1VOTBCX2k1Q3NfVVk1SmFvZjhBdUJ0dGxXNG1pSmZqeW9zeGR6V3FOWlc2YkU0dGVoZnpyQ3EzX3hqU1RZazF0aEJWNVVtOUphZ01qSVVjUQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "서영교·박선원, '대법원장 탄핵 인용'에 직 걸라…인용 시 나도 사퇴" - 데일리안
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "서영교·박선원, '대법원장 탄핵 인용'에 직 걸라…인용 시 나도 사퇴"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowJBVV95cUxQcEVKdEVpeGJRN3ZmMzV1bXdyRkJZVGwyUDBsTGFBeVZXWDFfSmFQZmVyZlJQWkZ2VFlnV3N5Z2loTkF0RXZKZHlkMTA0X2dhTW1CU3E4UWx2VzNkbTdGRF84ZmJyMHZlenRITUNZSzE1RkJhX0ttSjV6RTZrWWpqeVhqczUyQ2MxOUxmeDN5Vm1qci1RdGFYQXVZeVNpeFVWcnVZOGpaaElMZHVRREN0T01CV0ZrUGZOMWMxRDg0V1gyNjM1Sm50ZzZBYkJYZkxmTzBiQVBPSDcwa2w2UzFqdkRlT2hob3JRcmd1MXU1TlRPal9yRk5kRGJvaDFVTzg5RG1vR2MyWFNfczRwczRkRmxTRnVGWFhmMXE1SlZJb0hITGc?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wTDlBYTYtQ1RpWlVvYzBWdW9ZUEdMbXRZa0pacHNQVnoyLXl5aWhiZFVIVWFhRUZUYVBkLU9JTmNtZkVjSVlGSGd2QjcwMXNmaGg1N1VoUmpRa3c?oc=5)
+
+---
+

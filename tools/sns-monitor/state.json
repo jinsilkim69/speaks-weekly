@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T03:01:20.148Z",
+  "lastCheckedAt": "2026-11-25T03:11:14.197Z",
   "seenPostIds": {
-    "1223809ffad3690bb5d2075d37b78aafa2b28c512aad44f418abe81ac3ebd53c": {
-      "seenAt": "2026-11-22T08:51:20.553Z",
-      "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 코리아 이슈저널",
-      "targetName": "송영길"
-    },
-    "575e5c8691bed46b5fc90ca570e530f90a0d41e06a6671411259366466bbb320": {
-      "seenAt": "2026-11-22T09:01:15.597Z",
-      "title": "“근조 민주당”…이준석이 찌른 조희대 탄핵의 급소 - OBC 뉴스",
-      "targetName": "이준석"
-    },
-    "5df7d9254a59e9df8383f89ff8b097b2c6f34d546112ad332bcb7ace5b2ca287": {
-      "seenAt": "2026-11-22T09:01:16.313Z",
-      "title": "취임 100일 이틀 앞둔 김민석…지지율 반등 약속은 ‘역주행’ - 매일경제",
-      "targetName": "김민석"
-    },
     "813a0b7fe6afc4ef51905128b3ef841fd4421559155c05192888475ad999d3ed": {
       "seenAt": "2026-11-22T09:21:15.254Z",
       "title": "이재명 대통령, AI 악용한 시험 부정행위 근절 위한 제도 정비 지시 - 데일리저널",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T03:01:23.302Z",
       "title": "‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World] - 세계일보",
       "targetName": "조국"
+    },
+    "341f16fb409b5f105e2461522803509fa3499e6e12fbdd79ad37519ffba7c577": {
+      "seenAt": "2026-11-25T03:11:15.389Z",
+      "title": "이재명 대통령 \"마지막 한 명까지 역사교정\"… 경찰, 정부포상 10만건 전수조사 - 한국뉴스",
+      "targetName": "이재명"
+    },
+    "1f076ad0f95daa12e242e5c68382bed1576de216c6f977a71583f478f80a5c06": {
+      "seenAt": "2026-11-25T03:11:15.998Z",
+      "title": "한동훈 \"서영교·박선원, '대법원장 탄핵 인용'에 직 걸라…인용 시 나도 사퇴\" - 데일리안",
+      "targetName": "한동훈"
+    },
+    "52412714706350ae5c2ff2df7ae52be04b71eed2f8440c7014e7429140b06da1": {
+      "seenAt": "2026-11-25T03:11:16.603Z",
+      "title": "한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "341f16fb409b5f105e2461522803509fa3499e6e12fbdd79ad37519ffba7c577",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "이재명 대통령 \"마지막 한 명까지 역사교정\"… 경찰, 정부포상 10만건 전수조사 - 한국뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qVjJvcDhlRG1uR2tyV2o0MlU0czNsUHo2N1pzaHRjSmNXNEkzWDlMeEdyLWRZVG5nNlhVTERDZ0dZNnU3eVVOZ1ZPQktCalhCbGJOR0JXUHhDN3p6d1VrWkNwRHFhS0HSAWtBVV95cUxQaGQxaXM5LUpCcDhKZlZqdEN6Uk1VOTBCX2k1Q3NfVVk1SmFvZjhBdUJ0dGxXNG1pSmZqeW9zeGR6V3FOWlc2YkU0dGVoZnpyQ3EzX3hqU1RZazF0aEJWNVVtOUphZ01qSVVjUQ?oc=5\" target=\"_blank\">이재명 대통령 \"마지막 한 명까지 역사교정\"… 경찰, 정부포상 10만건 전수조사</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qVjJvcDhlRG1uR2tyV2o0MlU0czNsUHo2N1pzaHRjSmNXNEkzWDlMeEdyLWRZVG5nNlhVTERDZ0dZNnU3eVVOZ1ZPQktCalhCbGJOR0JXUHhDN3p6d1VrWkNwRHFhS0HSAWtBVV95cUxQaGQxaXM5LUpCcDhKZlZqdEN6Uk1VOTBCX2k1Q3NfVVk1SmFvZjhBdUJ0dGxXNG1pSmZqeW9zeGR6V3FOWlc2YkU0dGVoZnpyQ3EzX3hqU1RZazF0aEJWNVVtOUphZ01qSVVjUQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:10:20 GMT",
-        "source": "한국뉴스",
-        "ageHours": 1.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "1f076ad0f95daa12e242e5c68382bed1576de216c6f977a71583f478f80a5c06",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 \"서영교·박선원, '대법원장 탄핵 인용'에 직 걸라…인용 시 나도 사퇴\" - 데일리안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQcEVKdEVpeGJRN3ZmMzV1bXdyRkJZVGwyUDBsTGFBeVZXWDFfSmFQZmVyZlJQWkZ2VFlnV3N5Z2loTkF0RXZKZHlkMTA0X2dhTW1CU3E4UWx2VzNkbTdGRF84ZmJyMHZlenRITUNZSzE1RkJhX0ttSjV6RTZrWWpqeVhqczUyQ2MxOUxmeDN5Vm1qci1RdGFYQXVZeVNpeFVWcnVZOGpaaElMZHVRREN0T01CV0ZrUGZOMWMxRDg0V1gyNjM1Sm50ZzZBYkJYZkxmTzBiQVBPSDcwa2w2UzFqdkRlT2hob3JRcmd1MXU1TlRPal9yRk5kRGJvaDFVTzg5RG1vR2MyWFNfczRwczRkRmxTRnVGWFhmMXE1SlZJb0hITGc?oc=5\" target=\"_blank\">한동훈 \"서영교·박선원, '대법원장 탄핵 인용'에 직 걸라…인용 시 나도 사퇴\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
-        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcEVKdEVpeGJRN3ZmMzV1bXdyRkJZVGwyUDBsTGFBeVZXWDFfSmFQZmVyZlJQWkZ2VFlnV3N5Z2loTkF0RXZKZHlkMTA0X2dhTW1CU3E4UWx2VzNkbTdGRF84ZmJyMHZlenRITUNZSzE1RkJhX0ttSjV6RTZrWWpqeVhqczUyQ2MxOUxmeDN5Vm1qci1RdGFYQXVZeVNpeFVWcnVZOGpaaElMZHVRREN0T01CV0ZrUGZOMWMxRDg0V1gyNjM1Sm50ZzZBYkJYZkxmTzBiQVBPSDcwa2w2UzFqdkRlT2hob3JRcmd1MXU1TlRPal9yRk5kRGJvaDFVTzg5RG1vR2MyWFNfczRwczRkRmxTRnVGWFhmMXE1SlZJb0hITGc?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:22:00 GMT",
-        "source": "데일리안",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "52412714706350ae5c2ff2df7ae52be04b71eed2f8440c7014e7429140b06da1",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wTDlBYTYtQ1RpWlVvYzBWdW9ZUEdMbXRZa0pacHNQVnoyLXl5aWhiZFVIVWFhRUZUYVBkLU9JTmNtZkVjSVlGSGd2QjcwMXNmaGg1N1VoUmpRa3c?oc=5\" target=\"_blank\">한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wTDlBYTYtQ1RpWlVvYzBWdW9ZUEdMbXRZa0pacHNQVnoyLXl5aWhiZFVIVWFhRUZUYVBkLU9JTmNtZkVjSVlGSGd2QjcwMXNmaGg1N1VoUmpRa3c?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:38:13 GMT",
-        "source": "에너지경제신문",
-        "ageHours": 0.9
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "bc86abb097c94ed11d9e47a663c08b21cbc46dfb88d5e2e55e68715d3c7cc711",
@@ -2869,13 +2821,45 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "2841c6ce0fa942f9cfef848ab5e71e1efa974bc05697452c361f583bad088fce",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 겨냥해 \"당 초토화\" 공세 편 정청래…최민희 징계 수위 주목 - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BRTh2TUg2Vk1la1dhMnVTWlpjVkM3aVJMZnkzS3VSRlVEMHl5MVdrMjhEaG9rUkk4N0NVc1RyWGdDMTBjS0w3RTA4Wk92N3JoaGJMWTl2YWtKTG1BcEY0MtIBeEFVX3lxTE9DX0hGY3FTZnk0MlRZTS1WMnliSHdOaDVxTERIeTRpUjM3b3BpOUJjZjA0a0dLVng2UldsMzZCWXI1czg2SS03RWFsRkJCSnp2eHFMdlZhaFhkTzlPQzlzcVdMZ2IyN0M2Q0NxT1ZiQmxVekZ5Qm8xNA?oc=5\" target=\"_blank\">김민석 겨냥해 \"당 초토화\" 공세 편 정청래…최민희 징계 수위 주목</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BRTh2TUg2Vk1la1dhMnVTWlpjVkM3aVJMZnkzS3VSRlVEMHl5MVdrMjhEaG9rUkk4N0NVc1RyWGdDMTBjS0w3RTA4Wk92N3JoaGJMWTl2YWtKTG1BcEY0MtIBeEFVX3lxTE9DX0hGY3FTZnk0MlRZTS1WMnliSHdOaDVxTERIeTRpUjM3b3BpOUJjZjA0a0dLVng2UldsMzZCWXI1czg2SS03RWFsRkJCSnp2eHFMdlZhaFhkTzlPQzlzcVdMZ2IyN0M2Q0NxT1ZiQmxVekZ5Qm8xNA?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 20:00:00 GMT",
+        "source": "뉴시스",
+        "ageHours": 7.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f8515c68d834d4453227e48ce6428b6e23923fd2ae03ce61b5efc2da170e78fe",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스 한민족센터",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1iczdKekZlSWRvcnAzU3I2SThFQjE1YlFQWEE1WmJOVHdxRDNDWFZoTVp4ZmgwVS1oS25rTlhDMGZpU3Bva3JONGVKRWdxTGcwWkxxNDN1WGtETVVEMVFFU2EtLTJZNWQ0VUItLUc3a2p3NU8w?oc=5\" target=\"_blank\">[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스 한민족센터</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iczdKekZlSWRvcnAzU3I2SThFQjE1YlFQWEE1WmJOVHdxRDNDWFZoTVp4ZmgwVS1oS25rTlhDMGZpU3Bva3JONGVKRWdxTGcwWkxxNDN1WGtETVVEMVFFU2EtLTJZNWQ0VUItLUc3a2p3NU8w?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 00:02:54 GMT",
+        "source": "연합뉴스 한민족센터",
+        "ageHours": 3.1
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "c9e336708286f91dc3660828c5c7863e33f3fa08558f0e08ae4937927c41d8d9",
-    "title": "‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World] - 세계일보",
+    "postId": "52412714706350ae5c2ff2df7ae52be04b71eed2f8440c7014e7429140b06da1",
+    "title": "한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45536983276",
-    "sentAt": "2026-11-25T03:01:22.926Z"
+    "runId": "45538177514",
+    "sentAt": "2026-11-25T03:11:16.306Z"
   }
 }
