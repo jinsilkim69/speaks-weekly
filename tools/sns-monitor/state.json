@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T10:11:18.404Z",
+  "lastCheckedAt": "2026-11-25T10:21:14.967Z",
   "seenPostIds": {
-    "e8837f69f5da7a57762526e32fcf292dd51d993d519a0bce3dd423fa99ff64f7": {
-      "seenAt": "2026-11-23T05:51:41.786Z",
-      "title": "'친청 격노' 신천지 발언 박선원에 김민석 경고…\"단합 해치는 언행\" - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
-    "de70fed87e374c63a183181f82ee3a52ecdb7a6231f2291f563b52ca097fea81": {
-      "seenAt": "2026-11-23T05:51:42.509Z",
-      "title": "Trump urges Nvidia board to rehire Jensen Huang - Yahoo Finance",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "580c3a3939bd6521be094f392ae1251585b1602d8767275d6c0713819b4258e5": {
       "seenAt": "2026-11-23T06:01:17.555Z",
       "title": "Donald Trump Finds Bizarre New Scapegoat for His Mounting Woes - The Daily Beast",
@@ -2510,14 +2500,29 @@
       "seenAt": "2026-11-25T10:11:20.357Z",
       "title": "천하람 \"尹 계몽령 계엄, 조희대 '본때 탄핵'...도긴개긴, 자기들 맘대로, 헌법적 권한은 무슨\"[여의도초대석] - KBC광주방송",
       "targetName": "천하람"
+    },
+    "8d10480a04bfa7426233022bc3d33186b956af5adc22653abc8e3443b3bd7d7b": {
+      "seenAt": "2026-11-25T10:21:16.257Z",
+      "title": "이재명 대통령 \"청해부대 작전지역 확대, 전쟁 개입은 없을 것\" - 머니투데이 - 머니투데이",
+      "targetName": "이재명"
+    },
+    "6588c4de3998cb5f0838bef1c0589987c4ea96e314fb2fc4dc909d2c90af30b0": {
+      "seenAt": "2026-11-25T10:21:16.958Z",
+      "title": "[속보] 한동훈 \"조희대 탄핵 인용되면 의원직 던지겠다\" - 매일신문",
+      "targetName": "한동훈"
+    },
+    "013ab950170a93a4b77ef24e67603d47ee29acb8e5f37f8e6ba706c8b667decc": {
+      "seenAt": "2026-11-25T10:21:17.698Z",
+      "title": "신장식 \"정부 청년몰 사업, 생색내기용…청년상인 지원근거 규정 구체화해야\" - 뉴시스",
+      "targetName": "신장식"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "38483b7527c8ee45add9141af83bd99b2ffff1fb5cb392f3a02e206d9ebb9c37",
-    "title": "천하람 \"尹 계몽령 계엄, 조희대 '본때 탄핵'...도긴개긴, 자기들 맘대로, 헌법적 권한은 무슨\"[여의도초대석] - KBC광주방송",
+    "postId": "013ab950170a93a4b77ef24e67603d47ee29acb8e5f37f8e6ba706c8b667decc",
+    "title": "신장식 \"정부 청년몰 사업, 생색내기용…청년상인 지원근거 규정 구체화해야\" - 뉴시스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45592495698",
-    "sentAt": "2026-11-25T10:11:19.983Z"
+    "runId": "45594125434",
+    "sentAt": "2026-11-25T10:21:17.308Z"
   }
 }
