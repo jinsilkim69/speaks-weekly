@@ -7099,3 +7099,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "가정폭력, 피해자 처벌 불원해도 책임 묻도록 법 개정" - 굿모닝충청
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "가정폭력, 피해자 처벌 불원해도 책임 묻도록 법 개정"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTFBCbDNqaThIZkRFWXU0M1VuT0ptbFhIbUlGb3NiOXdwWnVWYWxpYmlDdTFwVEh6U2V6Mjg3ekx5Sm9VcDJBM0VudzZGaW1IZFB4THBlRm5HQlVsWGs3Mk5RZjNhUTFiSFpDRHVrS2NTREQ2Zw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵 인용되면 의원직 던지겠다" - 한국경제
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵 인용되면 의원직 던지겠다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lR1Q0czR2aGFYZ1p3RU1Cc01IRmZGdnpNNjFHekZYSjNDRjNOM2VSU19fLWJfbjVtc1JDdGNjWnFudDZNWWtGSnBUZ1RZMDkzME90czBXWUIxdw?oc=5)
+
+---
+
