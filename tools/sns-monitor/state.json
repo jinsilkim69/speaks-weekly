@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T03:41:14.387Z",
+  "lastCheckedAt": "2026-11-25T03:51:29.566Z",
   "seenPostIds": {
-    "6a228df71e562c9eb3fdd5aabf9dbec4a5f64c43bf6c4f877b0e57c40fae9ec6": {
-      "seenAt": "2026-11-22T11:01:15.092Z",
-      "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
-      "targetName": "김민석"
-    },
-    "c06d271f6bfed5c72791a639354016b98e1ee97038a38621c2eede5c6daec635": {
-      "seenAt": "2026-11-22T11:11:18.904Z",
-      "title": "이재명 대통령, 대장동 의혹 재차 반박 \"성남시 4300억 이익 보장\" 강조 - 진일보 | 전남일보",
-      "targetName": "이재명"
-    },
-    "025d68a8167fb33923eec7eed266ea4f440beeb3d17e2d6d80593a4fc645b5d1": {
-      "seenAt": "2026-11-22T11:11:19.690Z",
-      "title": "\"업자 결탁했다면 불가능\"…이재명 대통령 대장동 배임 정면반박 - 한국경제",
-      "targetName": "이재명"
-    },
     "f81f5a585204fd9b8905d513575ffcf9e94d7af35af6b4e013f93e24f035a0f5": {
       "seenAt": "2026-11-22T11:11:20.471Z",
       "title": "김민석 \"민주당 큰 고민 중 하나는 청년…더 함께하고 싶다\" - TV서울",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T03:41:16.665Z",
       "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
       "targetName": "송영길"
+    },
+    "43843f1785c925dd5f5fb0d066cacbedc0a10730878f50f4c47d8ba39596c53b": {
+      "seenAt": "2026-11-25T03:51:31.568Z",
+      "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
+      "targetName": "송영길"
+    },
+    "941424fd67efae71096111deab45b25623959939fcc4c20db778e443b8d1ce5c": {
+      "seenAt": "2026-11-25T03:51:32.322Z",
+      "title": "이준석, 한동훈에 “남을 찌르기만 했던 분이라 아무거나 막 공격, 금도 없어” - 주간경향",
+      "targetName": "이준석"
+    },
+    "6a6dc8fca0b63c5d757e647e6f553787fcaf264eb5691b16072551bdc248e3bb": {
+      "seenAt": "2026-11-25T03:51:33.087Z",
+      "title": "조국에 손 내민 김민석 “조희대 탄핵 연대 제안···완전한 내란 청산” - 주간경향",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "43843f1785c925dd5f5fb0d066cacbedc0a10730878f50f4c47d8ba39596c53b",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9OSEo2QnJDbmFNSWd6bUE2QXczdGF0MjBGcFdxWUFJMVhOYS0yMWw2NDdiRE5OQ3FjcXJqVjJZeXVieTE2VXBjMklTSkZuaU1tbkwxZnFpUzhEYXRHcUVtU2VKdXliMDlsLXBFQ2hWVQ?oc=5\" target=\"_blank\">송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OSEo2QnJDbmFNSWd6bUE2QXczdGF0MjBGcFdxWUFJMVhOYS0yMWw2NDdiRE5OQ3FjcXJqVjJZeXVieTE2VXBjMklTSkZuaU1tbkwxZnFpUzhEYXRHcUVtU2VKdXliMDlsLXBFQ2hWVQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:22:00 GMT",
-        "source": "인천일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "941424fd67efae71096111deab45b25623959939fcc4c20db778e443b8d1ce5c",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석, 한동훈에 “남을 찌르기만 했던 분이라 아무거나 막 공격, 금도 없어” - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jSm45Ty1TVDBrRWk4aTA1RkxLV2VLdm5UNWhvQVNUcE1WMm9XNnF2UWtvMG5ndlFSMUw2N2FfNVFDeWxIZUhqQ3lLQnlpS01EV2VvMGthREdFc1N3Y0E?oc=5\" target=\"_blank\">이준석, 한동훈에 “남을 찌르기만 했던 분이라 아무거나 막 공격, 금도 없어”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jSm45Ty1TVDBrRWk4aTA1RkxLV2VLdm5UNWhvQVNUcE1WMm9XNnF2UWtvMG5ndlFSMUw2N2FfNVFDeWxIZUhqQ3lLQnlpS01EV2VvMGthREdFc1N3Y0E?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 22:50:00 GMT",
-        "source": "주간경향",
-        "ageHours": 3.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "6a6dc8fca0b63c5d757e647e6f553787fcaf264eb5691b16072551bdc248e3bb",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국에 손 내민 김민석 “조희대 탄핵 연대 제안···완전한 내란 청산” - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE45a1JVa1MzX1Nael9Mei1vS0l0Y0N4Zl9yUko2eDNjY2FEb25nTE9vM080VS1UZGJIRWE4QkJxOFRXRlBDVm92MHNTNEtpaHNPdXNtYnEtcENMSkdRSHc?oc=5\" target=\"_blank\">조국에 손 내민 김민석 “조희대 탄핵 연대 제안···완전한 내란 청산”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45a1JVa1MzX1Nael9Mei1vS0l0Y0N4Zl9yUko2eDNjY2FEb25nTE9vM080VS1UZGJIRWE4QkJxOFRXRlBDVm92MHNTNEtpaHNPdXNtYnEtcENMSkdRSHc?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:57:00 GMT",
-        "source": "주간경향",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "9d6a0dad35f680feab654fc8e2de01ce981b95ffda03b6641612ea6b25ca055a",
@@ -2805,13 +2757,61 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "c4b0f7606c475f78e02a4bdccca00b10f4834a010ef6e8627b6d36e1f769bc30",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "[핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박 - 채널A",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhZ2tFU2VGdWk4aUltTGNsbDJrRWVrZ0NrRVd2NkhEdUYzQjlIeWtlQUVKLWZpUVFHQWVlcTExN3BsZ1dqTjJFenFxMGw4Qi1nUFdrcVY3WnhpRm5HcTRr?oc=5\" target=\"_blank\">[핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhZ2tFU2VGdWk4aUltTGNsbDJrRWVrZ0NrRVd2NkhEdUYzQjlIeWtlQUVKLWZpUVFHQWVlcTExN3BsZ1dqTjJFenFxMGw4Qi1nUFdrcVY3WnhpRm5HcTRr?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 00:40:00 GMT",
+        "source": "채널A",
+        "ageHours": 3.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "abe697f6293534412ef340fc1c5145b25ba7e4e2c0585e217a2f67a924f9c85b",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "민주당, 김민석 취임 100일에도 내홍 격화…친명·친청 ‘부역자 발언’ 정면충돌 - 데일리저널",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5kT2w4OGx6NFpFaER2VEQ4ZEJqWjF3anhuVmNjZEM2SUpyVVlyYmxCYzFHSTE3S2NQZkFGTHFTXzlaN0tLWjlneXgwV0ZqOFRXYUhPSl8yWVVhc2RCandZR1RHYVpFMmxJYmc?oc=5\" target=\"_blank\">민주당, 김민석 취임 100일에도 내홍 격화…친명·친청 ‘부역자 발언’ 정면충돌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리저널</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kT2w4OGx6NFpFaER2VEQ4ZEJqWjF3anhuVmNjZEM2SUpyVVlyYmxCYzFHSTE3S2NQZkFGTHFTXzlaN0tLWjlneXgwV0ZqOFRXYUhPSl8yWVVhc2RCandZR1RHYVpFMmxJYmc?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 14:48:27 GMT",
+        "source": "데일리저널",
+        "ageHours": 13.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f13013b9d376d9eb8d58fabde14e62b5cef351bc86e097fa7322be09bc3b55a4",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "정청래 \"입 싼 송영길과는 말 섞고 싶지 않다\"…李대통령 만찬 공개에 발끈 - 매일신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vN2pPWThKSXNMZExPZ3dBUWY0NER5ZnpjWUY4NzZJWFNmdTlsbW8tTVNfbl9XNWZmRDRiWS1FeS0yb1JsUkhWODFYVWpmMWZoUm1iUXhqdGttZEdqckMyMzd3?oc=5\" target=\"_blank\">정청래 \"입 싼 송영길과는 말 섞고 싶지 않다\"…李대통령 만찬 공개에 발끈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vN2pPWThKSXNMZExPZ3dBUWY0NER5ZnpjWUY4NzZJWFNmdTlsbW8tTVNfbl9XNWZmRDRiWS1FeS0yb1JsUkhWODFYVWpmMWZoUm1iUXhqdGttZEdqckMyMzd3?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 03:11:43 GMT",
+        "source": "매일신문",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "cad52581491c847ca09f6569a97571f1c3b99be5c4db0689758bd19eade88aae",
-    "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
+    "postId": "6a6dc8fca0b63c5d757e647e6f553787fcaf264eb5691b16072551bdc248e3bb",
+    "title": "조국에 손 내민 김민석 “조희대 탄핵 연대 제안···완전한 내란 청산” - 주간경향",
     "bot": "jongsuk_pol_bot",
-    "runId": "45541658755",
-    "sentAt": "2026-11-25T03:41:16.355Z"
+    "runId": "45542777222",
+    "sentAt": "2026-11-25T03:51:32.703Z"
   }
 }

@@ -6319,3 +6319,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OSEo2QnJDbmFNSWd6bUE2QXczdGF0MjBGcFdxWUFJMVhOYS0yMWw2NDdiRE5OQ3FjcXJqVjJZeXVieTE2VXBjMklTSkZuaU1tbkwxZnFpUzhEYXRHcUVtU2VKdXliMDlsLXBFQ2hWVQ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 한동훈에 “남을 찌르기만 했던 분이라 아무거나 막 공격, 금도 없어” - 주간경향
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 한동훈에 “남을 찌르기만 했던 분이라 아무거나 막 공격, 금도 없어”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jSm45Ty1TVDBrRWk4aTA1RkxLV2VLdm5UNWhvQVNUcE1WMm9XNnF2UWtvMG5ndlFSMUw2N2FfNVFDeWxIZUhqQ3lLQnlpS01EV2VvMGthREdFc1N3Y0E?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국에 손 내민 김민석 “조희대 탄핵 연대 제안···완전한 내란 청산” - 주간경향
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국에 손 내민 김민석 “조희대 탄핵 연대 제안···완전한 내란 청산”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE45a1JVa1MzX1Nael9Mei1vS0l0Y0N4Zl9yUko2eDNjY2FEb25nTE9vM080VS1UZGJIRWE4QkJxOFRXRlBDVm92MHNTNEtpaHNPdXNtYnEtcENMSkdRSHc?oc=5)
+
+---
+
