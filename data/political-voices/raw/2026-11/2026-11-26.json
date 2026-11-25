@@ -701,5 +701,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "353b4633f6c80dd86e39df63e1d744bffd3ff73d0ebdcae8cb5f87f842cc2d43",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "김용민, \"의원직 걸라\"는 한동훈 향해 \"가벼운 태도 한심해\" - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9KZ1FjeWZTSmVkajBEOFlhaFA5V1dvVXRsa0lSRWJRTHdkQVdfQ0RXN3BQYmdiZ2p1c0x0VGdQUE1RQmhMWmNsVk5PN01BTW1tZkNzTm4wS2hLUkM1bzdJZHlLejdfR3lTdEk0Zm8tOXFTOE5ac1N3QtIBeEFVX3lxTE9KZ1FjeWZTSmVkajBEOFlhaFA5V1dvVXRsa0lSRWJRTHdkQVdfQ0RXN3BQYmdiZ2p1c0x0VGdQUE1RQmhMWmNsVk5PN01BTW1tZkNzTm4wS2hLUkM1bzdJZHlLejdfR3lTdEk0Zm8tOXFTOE5ac1N3Qg?oc=5\" target=\"_blank\">김용민, \"의원직 걸라\"는 한동훈 향해 \"가벼운 태도 한심해\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KZ1FjeWZTSmVkajBEOFlhaFA5V1dvVXRsa0lSRWJRTHdkQVdfQ0RXN3BQYmdiZ2p1c0x0VGdQUE1RQmhMWmNsVk5PN01BTW1tZkNzTm4wS2hLUkM1bzdJZHlLejdfR3lTdEk0Zm8tOXFTOE5ac1N3QtIBeEFVX3lxTE9KZ1FjeWZTSmVkajBEOFlhaFA5V1dvVXRsa0lSRWJRTHdkQVdfQ0RXN3BQYmdiZ2p1c0x0VGdQUE1RQmhMWmNsVk5PN01BTW1tZkNzTm4wS2hLUkM1bzdJZHlLejdfR3lTdEk0Zm8tOXFTOE5ac1N3Qg?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 21:31:00 GMT",
+    "source": "뉴시스",
+    "ageHours": 1.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김용민, \"의원직 걸라\"는 한동훈 향해 \"가벼운 태도 한심해\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

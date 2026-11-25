@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T23:11:16.000Z",
+  "lastCheckedAt": "2026-11-25T23:21:14.894Z",
   "seenPostIds": {
-    "30eb755db4c486d4c1119537ed1e7bef11940a393d189a6277e0814f9e888646": {
-      "seenAt": "2026-11-23T09:11:14.928Z",
-      "title": "외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스 - SeattleN",
-      "targetName": "조국"
-    },
     "fa2167e1a16c4a1938bfdb562a31b6cad7af23813e8efb063277feb84e21b766": {
       "seenAt": "2026-11-23T09:11:15.673Z",
       "title": "신장식 의원·농민단체 '농지 소유 특례보다 실경작자 보호 우선' - 전북타임즈",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-25T23:11:17.244Z",
       "title": "Trump Aide Natalie Harp Named in New Discovery Order Over President's Truth Social Deal, Per Court Docs - Yahoo Lifestyle Canada",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "353b4633f6c80dd86e39df63e1d744bffd3ff73d0ebdcae8cb5f87f842cc2d43": {
+      "seenAt": "2026-11-25T23:21:15.983Z",
+      "title": "김용민, \"의원직 걸라\"는 한동훈 향해 \"가벼운 태도 한심해\" - 뉴시스",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "4d52a0dfb977ae30dbdb61bf8bcc8ba411b06ee6cee157af4f1bc812712da127",
-    "title": "Trump Aide Natalie Harp Named in New Discovery Order Over President's Truth Social Deal, Per Court Docs - Yahoo Lifestyle Canada",
+    "postId": "353b4633f6c80dd86e39df63e1d744bffd3ff73d0ebdcae8cb5f87f842cc2d43",
+    "title": "김용민, \"의원직 걸라\"는 한동훈 향해 \"가벼운 태도 한심해\" - 뉴시스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45719329054",
-    "sentAt": "2026-11-25T23:11:16.659Z"
+    "runId": "45720668879",
+    "sentAt": "2026-11-25T23:21:15.472Z"
   }
 }
