@@ -6475,3 +6475,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “조희대 탄핵 인용 땐 의원직 사퇴…서영교·박선원도 직 걸라” - 서울경제
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “조희대 탄핵 인용 땐 의원직 사퇴…서영교·박선원도 직 걸라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa3hFSnp6Q18wSDRXM2NSTDdNVFRZLVBPd0tLenRHZmhSdUlZMGYtdGhySC1rRm11ZHdTWDhGWnlxeE1KYjNDWWVSYW42S2Y0M3fSAVNBVV95cUxNMEdnTGhHOFk0RXZMekpadzFHUEFtMDR0SDZnaVdFeVFwZ0tpbGFZbDc4NzNDVjhWb1Q3eDBSTjh6M2pUa0Q4SzdXTGM1c0s4ZkdVYw?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "李대통령 鄭 억울함 4시간 들어줘"…정청래 "입조심하라" - 연합뉴스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "李대통령 鄭 억울함 4시간 들어줘"…정청래 "입조심하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YQ2oxZTZLTnlISUxVUmVDSE83WWNLdnJDVk94RmlCZ0pCeU1wZFJFQlB1clZfblNLUkp2NE9oRnU2Q3NxZGdBdEVYNlhPa1BHUnptbnA4cTR1TWF2TUZWWNIBYEFVX3lxTE5YQ2oxZTZLTnlISUxVUmVDSE83WWNLdnJDVk94RmlCZ0pCeU1wZFJFQlB1clZfblNLUkp2NE9oRnU2Q3NxZGdBdEVYNlhPa1BHUnptbnA4cTR1TWF2TUZWWA?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "한동훈, 남을 찌르기만 했던 분…검찰 정치는 위험" - 청주일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "한동훈, 남을 찌르기만 했던 분…검찰 정치는 위험"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE9saHhTMmhGQnBqRklfQUhnNmYxa1d0M3pMVXlXU3d5WkZKbXBWWXdiWW5pa2xSU0RMZmNmQWl3Si1SQnUxRUx0ekpjdUpKcVBZZ1BqVHEzWHh4aUhYY3ZUU2RpQThnYUVrcHdJ?oc=5)
+
+---
+

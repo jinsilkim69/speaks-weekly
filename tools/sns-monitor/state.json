@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T04:21:15.270Z",
+  "lastCheckedAt": "2026-11-25T04:31:26.884Z",
   "seenPostIds": {
-    "55af71dde297c72d85a803361744897231ee02d6b2f75eee682af34897b6e8db": {
-      "seenAt": "2026-11-22T12:51:16.693Z",
-      "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post - The Guardian",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "3b9e7c064bc779a26575b44eb82fde182fc38b98d52aec3d8495ece3ca8ab574": {
-      "seenAt": "2026-11-22T13:51:19.288Z",
-      "title": "\"이재명 대통령은 소신 있게! 김민석 대표는 강하게!\" #shorts - 오마이TV - OhmyNews",
-      "targetName": "김민석"
-    },
-    "c85295fa02524e2a49a9496be9fc9c9d6ccc1fac5ca273cadd0cce4e64ba313c": {
-      "seenAt": "2026-11-22T14:31:16.421Z",
-      "title": "Trump reposts El-Sayed’s ‘TrumpCare’ pitch for universal health care - The Washington Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "494e2af0626d087e36ddeb0516849858953763c0c2b85be322056752fae096a3": {
       "seenAt": "2026-11-22T14:41:22.713Z",
       "title": "정청래가 움직이기도 전에 추미애가 뛰어들었다… 무슨 신호? (인물비상구 20261122 클립 최민희와 계파갈등 편) - 경향신문",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T04:21:18.311Z",
       "title": "[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스 한민족센터",
       "targetName": "조국"
+    },
+    "d21bab3fec7fc0878afc0050724d36a90e73ec20283d8ca1c264143fa26592fb": {
+      "seenAt": "2026-11-25T04:31:28.683Z",
+      "title": "한동훈 “조희대 탄핵 인용 땐 의원직 사퇴…서영교·박선원도 직 걸라” - 서울경제",
+      "targetName": "한동훈"
+    },
+    "794d3af3dcfecceada2d012b553bc3cc8faf8af3964a5b932dfc2cbc7b669d2d": {
+      "seenAt": "2026-11-25T04:31:29.703Z",
+      "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
+      "targetName": "송영길"
+    },
+    "faffef458a95b529e2334c4b46b52a4d640dab680d73d21fa1466601921a3196": {
+      "seenAt": "2026-11-25T04:31:30.455Z",
+      "title": "이준석 \"한동훈, 남을 찌르기만 했던 분…검찰 정치는 위험\" - 청주일보",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "d21bab3fec7fc0878afc0050724d36a90e73ec20283d8ca1c264143fa26592fb",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 “조희대 탄핵 인용 땐 의원직 사퇴…서영교·박선원도 직 걸라” - 서울경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa3hFSnp6Q18wSDRXM2NSTDdNVFRZLVBPd0tLenRHZmhSdUlZMGYtdGhySC1rRm11ZHdTWDhGWnlxeE1KYjNDWWVSYW42S2Y0M3fSAVNBVV95cUxNMEdnTGhHOFk0RXZMekpadzFHUEFtMDR0SDZnaVdFeVFwZ0tpbGFZbDc4NzNDVjhWb1Q3eDBSTjh6M2pUa0Q4SzdXTGM1c0s4ZkdVYw?oc=5\" target=\"_blank\">한동훈 “조희대 탄핵 인용 땐 의원직 사퇴…서영교·박선원도 직 걸라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa3hFSnp6Q18wSDRXM2NSTDdNVFRZLVBPd0tLenRHZmhSdUlZMGYtdGhySC1rRm11ZHdTWDhGWnlxeE1KYjNDWWVSYW42S2Y0M3fSAVNBVV95cUxNMEdnTGhHOFk0RXZMekpadzFHUEFtMDR0SDZnaVdFeVFwZ0tpbGFZbDc4NzNDVjhWb1Q3eDBSTjh6M2pUa0Q4SzdXTGM1c0s4ZkdVYw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:00:04 GMT",
-        "source": "서울경제",
-        "ageHours": 2.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "794d3af3dcfecceada2d012b553bc3cc8faf8af3964a5b932dfc2cbc7b669d2d",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YQ2oxZTZLTnlISUxVUmVDSE83WWNLdnJDVk94RmlCZ0pCeU1wZFJFQlB1clZfblNLUkp2NE9oRnU2Q3NxZGdBdEVYNlhPa1BHUnptbnA4cTR1TWF2TUZWWNIBYEFVX3lxTE5YQ2oxZTZLTnlISUxVUmVDSE83WWNLdnJDVk94RmlCZ0pCeU1wZFJFQlB1clZfblNLUkp2NE9oRnU2Q3NxZGdBdEVYNlhPa1BHUnptbnA4cTR1TWF2TUZWWA?oc=5\" target=\"_blank\">송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YQ2oxZTZLTnlISUxVUmVDSE83WWNLdnJDVk94RmlCZ0pCeU1wZFJFQlB1clZfblNLUkp2NE9oRnU2Q3NxZGdBdEVYNlhPa1BHUnptbnA4cTR1TWF2TUZWWNIBYEFVX3lxTE5YQ2oxZTZLTnlISUxVUmVDSE83WWNLdnJDVk94RmlCZ0pCeU1wZFJFQlB1clZfblNLUkp2NE9oRnU2Q3NxZGdBdEVYNlhPa1BHUnptbnA4cTR1TWF2TUZWWA?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:32:29 GMT",
-        "source": "연합뉴스",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "faffef458a95b529e2334c4b46b52a4d640dab680d73d21fa1466601921a3196",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 \"한동훈, 남을 찌르기만 했던 분…검찰 정치는 위험\" - 청주일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9saHhTMmhGQnBqRklfQUhnNmYxa1d0M3pMVXlXU3d5WkZKbXBWWXdiWW5pa2xSU0RMZmNmQWl3Si1SQnUxRUx0ekpjdUpKcVBZZ1BqVHEzWHh4aUhYY3ZUU2RpQThnYUVrcHdJ?oc=5\" target=\"_blank\">이준석 \"한동훈, 남을 찌르기만 했던 분…검찰 정치는 위험\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">청주일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9saHhTMmhGQnBqRklfQUhnNmYxa1d0M3pMVXlXU3d5WkZKbXBWWXdiWW5pa2xSU0RMZmNmQWl3Si1SQnUxRUx0ekpjdUpKcVBZZ1BqVHEzWHh4aUhYY3ZUU2RpQThnYUVrcHdJ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 00:23:39 GMT",
-        "source": "청주일보",
-        "ageHours": 3.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "54f5a2646de2c97f745a6a0970d403f16569a6b13ad979817609e609c62ddbfb",
@@ -2709,13 +2661,93 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "2e38a300229a29dc3ce786fde7250b6541876111346ad02f9e0d112dc9863b07",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" - 연합인포맥스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9KOVV0VDJvRjk5Ry1nMFphNjFMQ3FOeWVRMHZXNG1VbExvVUUycS1QYzAtcUNUM0pRWGxnQ28yZmxLYUVuU2ZzZjBfRmhCNUFWMnR0WWw0RzQyelpFbWszTlJoeGg5QlhsOFZvNlpDWmk?oc=5\" target=\"_blank\">송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합인포맥스</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KOVV0VDJvRjk5Ry1nMFphNjFMQ3FOeWVRMHZXNG1VbExvVUUycS1QYzAtcUNUM0pRWGxnQ28yZmxLYUVuU2ZzZjBfRmhCNUFWMnR0WWw0RzQyelpFbWszTlJoeGg5QlhsOFZvNlpDWmk?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 04:03:03 GMT",
+        "source": "연합인포맥스",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "8cfc42028cf37bb6f799ceb74ffb02dd6d2dbb3742427a449fed81d96ae2b643",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\" - 스포츠조선",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPanp0N0RBWWxTc2hBbjBmdUpEcE9lSnkxRUNkYTFJclVYWmV0Z0J6RUVrT1hmQjB5TXhRNW1OU3dlZ0pIT2c5VHRWTFVfM2xFLU5YUnZxR3NXeDJkbHBtNlRiNXhIb2Jua2tvTkd1WERscU9sSUNJX3VXOGFnNWhYeDFn?oc=5\" target=\"_blank\">\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스포츠조선</font>",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPanp0N0RBWWxTc2hBbjBmdUpEcE9lSnkxRUNkYTFJclVYWmV0Z0J6RUVrT1hmQjB5TXhRNW1OU3dlZ0pIT2c5VHRWTFVfM2xFLU5YUnZxR3NXeDJkbHBtNlRiNXhIb2Jua2tvTkd1WERscU9sSUNJX3VXOGFnNWhYeDFn?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 00:18:57 GMT",
+        "source": "스포츠조선",
+        "ageHours": 4.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "acd4f67b8ef984b5da64d8d0311e742b3de5e0ed169e0b387f147432b738dfd5",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석 KB운용 실장 “AI 구경꾼 돼선 안돼…승자독식 기업 담아야” [진주 in 재테크] - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUVlqQy1fM3NLbnFFVUVMUU1BM1UyRGRvR2MwVjFrU0w5Mm1aU3k2ZW4xczJZTVh3YW9vc2YtZzNKMVRVLW8weFVESUNJb0hRd3VDVUdCREZESmI1Rnd6LVZ2WldTQUxRNzg0NkVSMzlyQjdiNmtERmFKRTJKNWdwTWYwNk1OcDBrOWNuWUxqNl8zVE5KaHJEZ3lnVGFmcHNEbGg2UEZoRGlUWG9wM2dCVkIxRDFyXzJ1YlVkeUtneXc3WlVnQVU4Ny1XdzZwa2otYUZWMm1EdzRGWnB6R0xFZWE5RzZXR0ZzR29lbg?oc=5\" target=\"_blank\">이준석 KB운용 실장 “AI 구경꾼 돼선 안돼…승자독식 기업 담아야” [진주 in 재테크]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUVlqQy1fM3NLbnFFVUVMUU1BM1UyRGRvR2MwVjFrU0w5Mm1aU3k2ZW4xczJZTVh3YW9vc2YtZzNKMVRVLW8weFVESUNJb0hRd3VDVUdCREZESmI1Rnd6LVZ2WldTQUxRNzg0NkVSMzlyQjdiNmtERmFKRTJKNWdwTWYwNk1OcDBrOWNuWUxqNl8zVE5KaHJEZ3lnVGFmcHNEbGg2UEZoRGlUWG9wM2dCVkIxRDFyXzJ1YlVkeUtneXc3WlVnQVU4Ny1XdzZwa2otYUZWMm1EdzRGWnB6R0xFZWE5RzZXR0ZzR29lbg?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 22:07:00 GMT",
+        "source": "데일리안",
+        "ageHours": 6.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "967aa7088d9c279eb2dd1176348abbf7dcef2d8b8a8c4ad053caa9ffc2616932",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "민주당 김민석 대표 \"조희대 대법원장 탄핵 위해 5당(조국혁신당, 진보당, 기본소득당, 사회민주당) 연대 제안\" - 에브리뉴스 EveryNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE81NzdWd05TVzFDSnZyUGJ4dWNVandqZ2RVWDNjLU9pWWdjcl9OVmpERDBXUEgzeDhyR2lZNzg4a0RfVkJOUnMzYkxvcHg2UVNGV29Gd28yLXhzd3FFS1dyajc5eDhPQV9MQlpHMVB3?oc=5\" target=\"_blank\">민주당 김민석 대표 \"조희대 대법원장 탄핵 위해 5당(조국혁신당, 진보당, 기본소득당, 사회민주당) 연대 제안\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에브리뉴스 EveryNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81NzdWd05TVzFDSnZyUGJ4dWNVandqZ2RVWDNjLU9pWWdjcl9OVmpERDBXUEgzeDhyR2lZNzg4a0RfVkJOUnMzYkxvcHg2UVNGV29Gd28yLXhzd3FFS1dyajc5eDhPQV9MQlpHMVB3?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:49:00 GMT",
+        "source": "에브리뉴스 EveryNews",
+        "ageHours": 1.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "831d1a25de212533386f1b4a69af5ce63698603d85c97da8b3e671e4de46741b",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAwZVVQVFVGTlEtcVd2YUlDdFZfcFFmOXNkWTRrUnR1M252cVBHajUyelBZaTJITWRIS2FwM191ZTVYVmN5dnVjQXRqV0pwdUFsU1Z2MVpELXI2aE45b0FFazJER3RKQ1M5QzJHbTVHTjdWd9IBckFVX3lxTFAwZVVQVFVGTlEtcVd2YUlDdFZfcFFmOXNkWTRrUnR1M252cVBHajUyelBZaTJITWRIS2FwM191ZTVYVmN5dnVjQXRqV0pwdUFsU1Z2MVpELXI2aE45b0FFazJER3RKQ1M5QzJHbTVHTjdWdw?oc=5\" target=\"_blank\">혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwZVVQVFVGTlEtcVd2YUlDdFZfcFFmOXNkWTRrUnR1M252cVBHajUyelBZaTJITWRIS2FwM191ZTVYVmN5dnVjQXRqV0pwdUFsU1Z2MVpELXI2aE45b0FFazJER3RKQ1M5QzJHbTVHTjdWd9IBckFVX3lxTFAwZVVQVFVGTlEtcVd2YUlDdFZfcFFmOXNkWTRrUnR1M252cVBHajUyelBZaTJITWRIS2FwM191ZTVYVmN5dnVjQXRqV0pwdUFsU1Z2MVpELXI2aE45b0FFazJER3RKQ1M5QzJHbTVHTjdWdw?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:30:41 GMT",
+        "source": "머니투데이",
+        "ageHours": 2
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "f8515c68d834d4453227e48ce6428b6e23923fd2ae03ce61b5efc2da170e78fe",
-    "title": "[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스 한민족센터",
+    "postId": "faffef458a95b529e2334c4b46b52a4d640dab680d73d21fa1466601921a3196",
+    "title": "이준석 \"한동훈, 남을 찌르기만 했던 분…검찰 정치는 위험\" - 청주일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45546168123",
-    "sentAt": "2026-11-25T04:21:17.963Z"
+    "runId": "45547309229",
+    "sentAt": "2026-11-25T04:31:30.075Z"
   }
 }
