@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T02:21:22.783Z",
+  "lastCheckedAt": "2026-11-25T02:31:15.279Z",
   "seenPostIds": {
-    "29e289e69dd08edab0cd9a91431a32e53f403657c035e4d095bcea8c3b38911e": {
-      "seenAt": "2026-11-22T07:31:15.625Z",
-      "title": "이재명 대통령, 시험 부정행위 대책 지시…순방 외교 비판에도 입장 밝혀 - 일간투데이",
-      "targetName": "이재명"
-    },
-    "c19a900647476b2187c00ea8f5c6563fb586d85cf776ac75a11e871bc521bf1c": {
-      "seenAt": "2026-11-22T07:41:14.736Z",
-      "title": "與, 조희대 탄핵 연내 처리 속도전…김민석의 국면전환 카드될까 - 대한경제",
-      "targetName": "김민석"
-    },
-    "87432f918303c64766880889ca0af2dec5e46a87eaf8448f1c7f4714903a4f12": {
-      "seenAt": "2026-11-22T07:41:15.505Z",
-      "title": "김민석 취임 100일…당정 조율 성과, 당내 통합 숙제 - 경북매일",
-      "targetName": "김민석"
-    },
     "2e15fb45da7ca63650062497bb3dc04b87a4d36ae0f7009abe65dda58389d5b8": {
       "seenAt": "2026-11-22T07:41:16.236Z",
       "title": "\"'반명' 추미애, 정청래, 최민희, 조국당... '반명' 기득권 정치! 그만해!\" #shorts - 오마이TV - OhmyNews",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T02:21:26.295Z",
       "title": "정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\" - 시사포커스",
       "targetName": "송영길"
+    },
+    "b5f784c32c551ddd960cfcbd462103cdf45da8bd31d35f6ea9c808ff27f4414e": {
+      "seenAt": "2026-11-25T02:31:16.388Z",
+      "title": "김민석, ‘조희대 탄핵’ 5당 연대 공식 제안…신장식 “환영” - 헤럴드경제",
+      "targetName": "신장식"
+    },
+    "d7ae1efdb581a34205b4662362b5323d4d575a7209409f268339709a39ee7be5": {
+      "seenAt": "2026-11-25T02:31:17.008Z",
+      "title": "한동훈, '조희대 탄핵' 의원직 걸었다…\"서영교·박선원, 걸어보라\" - 조세일보",
+      "targetName": "한동훈"
+    },
+    "d0b9cad555d5340ffc7fd04fe1771e8fda7d7916ec310d8bc00ba56d983d2f93": {
+      "seenAt": "2026-11-25T02:31:17.641Z",
+      "title": "한동훈 \"정치적 해결 단계 지났다\"... 장동혁에 '법적 대응' 열어둬 - OhmyNews",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "b5f784c32c551ddd960cfcbd462103cdf45da8bd31d35f6ea9c808ff27f4414e",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "김민석, ‘조희대 탄핵’ 5당 연대 공식 제안…신장식 “환영” - 헤럴드경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMS2V1aG14eHhleHJGamZGcVhZckRWQ1liTmtwLXNSSHRaM01Ea3dUUGpEc1VPYVZIcHA2NklNM2daVFhiZDhqNFJaVGtCeXJuaTRmSFZR?oc=5\" target=\"_blank\">김민석, ‘조희대 탄핵’ 5당 연대 공식 제안…신장식 “환영”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMS2V1aG14eHhleHJGamZGcVhZckRWQ1liTmtwLXNSSHRaM01Ea3dUUGpEc1VPYVZIcHA2NklNM2daVFhiZDhqNFJaVGtCeXJuaTRmSFZR?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:44:31 GMT",
-        "source": "헤럴드경제",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d7ae1efdb581a34205b4662362b5323d4d575a7209409f268339709a39ee7be5",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈, '조희대 탄핵' 의원직 걸었다…\"서영교·박선원, 걸어보라\" - 조세일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9iRFYweXhJSXNEa3hvNFV6OExUNWJ5czVhLThwdjBhZXUyTHZtVHBNTHRyMkc5SmZzYjQ1SThXUlphRVpCMFJfNUhrcG9CZkdrWlcyNG52c3VwbXg2TlVVdTRLQ3RqalhLaUJXTG5paw?oc=5\" target=\"_blank\">한동훈, '조희대 탄핵' 의원직 걸었다…\"서영교·박선원, 걸어보라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iRFYweXhJSXNEa3hvNFV6OExUNWJ5czVhLThwdjBhZXUyTHZtVHBNTHRyMkc5SmZzYjQ1SThXUlphRVpCMFJfNUhrcG9CZkdrWlcyNG52c3VwbXg2TlVVdTRLQ3RqalhLaUJXTG5paw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:44:15 GMT",
-        "source": "조세일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d0b9cad555d5340ffc7fd04fe1771e8fda7d7916ec310d8bc00ba56d983d2f93",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 \"정치적 해결 단계 지났다\"... 장동혁에 '법적 대응' 열어둬 - OhmyNews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5DLVU0N3NnejhzSWpsXzcyQXA5X0hPZFNXZzF1WmtUaEFqRnRJaHNPQ3RWWW5fSTBPRlVocUdkNnpnamNhemtGZDN0MWlMLXRTZ2JTR0lhTkpTelpxcUVZNjM2a19hbmZENlhTYjNQSFFRVTZVdW5Z?oc=5\" target=\"_blank\">한동훈 \"정치적 해결 단계 지났다\"... 장동혁에 '법적 대응' 열어둬</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DLVU0N3NnejhzSWpsXzcyQXA5X0hPZFNXZzF1WmtUaEFqRnRJaHNPQ3RWWW5fSTBPRlVocUdkNnpnamNhemtGZDN0MWlMLXRTZ2JTR0lhTkpTelpxcUVZNjM2a19hbmZENlhTYjNQSFFRVTZVdW5Z?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:13:00 GMT",
-        "source": "OhmyNews",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "c9a3cf20c097a2daec244a1225cb567342ae095399082c24e1af3ae03778ddc5",
@@ -2709,13 +2661,93 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "341f16fb409b5f105e2461522803509fa3499e6e12fbdd79ad37519ffba7c577",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 대통령 \"마지막 한 명까지 역사교정\"… 경찰, 정부포상 10만건 전수조사 - 한국뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qVjJvcDhlRG1uR2tyV2o0MlU0czNsUHo2N1pzaHRjSmNXNEkzWDlMeEdyLWRZVG5nNlhVTERDZ0dZNnU3eVVOZ1ZPQktCalhCbGJOR0JXUHhDN3p6d1VrWkNwRHFhS0HSAWtBVV95cUxQaGQxaXM5LUpCcDhKZlZqdEN6Uk1VOTBCX2k1Q3NfVVk1SmFvZjhBdUJ0dGxXNG1pSmZqeW9zeGR6V3FOWlc2YkU0dGVoZnpyQ3EzX3hqU1RZazF0aEJWNVVtOUphZ01qSVVjUQ?oc=5\" target=\"_blank\">이재명 대통령 \"마지막 한 명까지 역사교정\"… 경찰, 정부포상 10만건 전수조사</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qVjJvcDhlRG1uR2tyV2o0MlU0czNsUHo2N1pzaHRjSmNXNEkzWDlMeEdyLWRZVG5nNlhVTERDZ0dZNnU3eVVOZ1ZPQktCalhCbGJOR0JXUHhDN3p6d1VrWkNwRHFhS0HSAWtBVV95cUxQaGQxaXM5LUpCcDhKZlZqdEN6Uk1VOTBCX2k1Q3NfVVk1SmFvZjhBdUJ0dGxXNG1pSmZqeW9zeGR6V3FOWlc2YkU0dGVoZnpyQ3EzX3hqU1RZazF0aEJWNVVtOUphZ01qSVVjUQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:10:20 GMT",
+        "source": "한국뉴스",
+        "ageHours": 1.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "1f076ad0f95daa12e242e5c68382bed1576de216c6f977a71583f478f80a5c06",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 \"서영교·박선원, '대법원장 탄핵 인용'에 직 걸라…인용 시 나도 사퇴\" - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQcEVKdEVpeGJRN3ZmMzV1bXdyRkJZVGwyUDBsTGFBeVZXWDFfSmFQZmVyZlJQWkZ2VFlnV3N5Z2loTkF0RXZKZHlkMTA0X2dhTW1CU3E4UWx2VzNkbTdGRF84ZmJyMHZlenRITUNZSzE1RkJhX0ttSjV6RTZrWWpqeVhqczUyQ2MxOUxmeDN5Vm1qci1RdGFYQXVZeVNpeFVWcnVZOGpaaElMZHVRREN0T01CV0ZrUGZOMWMxRDg0V1gyNjM1Sm50ZzZBYkJYZkxmTzBiQVBPSDcwa2w2UzFqdkRlT2hob3JRcmd1MXU1TlRPal9yRk5kRGJvaDFVTzg5RG1vR2MyWFNfczRwczRkRmxTRnVGWFhmMXE1SlZJb0hITGc?oc=5\" target=\"_blank\">한동훈 \"서영교·박선원, '대법원장 탄핵 인용'에 직 걸라…인용 시 나도 사퇴\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcEVKdEVpeGJRN3ZmMzV1bXdyRkJZVGwyUDBsTGFBeVZXWDFfSmFQZmVyZlJQWkZ2VFlnV3N5Z2loTkF0RXZKZHlkMTA0X2dhTW1CU3E4UWx2VzNkbTdGRF84ZmJyMHZlenRITUNZSzE1RkJhX0ttSjV6RTZrWWpqeVhqczUyQ2MxOUxmeDN5Vm1qci1RdGFYQXVZeVNpeFVWcnVZOGpaaElMZHVRREN0T01CV0ZrUGZOMWMxRDg0V1gyNjM1Sm50ZzZBYkJYZkxmTzBiQVBPSDcwa2w2UzFqdkRlT2hob3JRcmd1MXU1TlRPal9yRk5kRGJvaDFVTzg5RG1vR2MyWFNfczRwczRkRmxTRnVGWFhmMXE1SlZJb0hITGc?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:22:00 GMT",
+        "source": "데일리안",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "52412714706350ae5c2ff2df7ae52be04b71eed2f8440c7014e7429140b06da1",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wTDlBYTYtQ1RpWlVvYzBWdW9ZUEdMbXRZa0pacHNQVnoyLXl5aWhiZFVIVWFhRUZUYVBkLU9JTmNtZkVjSVlGSGd2QjcwMXNmaGg1N1VoUmpRa3c?oc=5\" target=\"_blank\">한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wTDlBYTYtQ1RpWlVvYzBWdW9ZUEdMbXRZa0pacHNQVnoyLXl5aWhiZFVIVWFhRUZUYVBkLU9JTmNtZkVjSVlGSGd2QjcwMXNmaGg1N1VoUmpRa3c?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:38:13 GMT",
+        "source": "에너지경제신문",
+        "ageHours": 0.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "bc86abb097c94ed11d9e47a663c08b21cbc46dfb88d5e2e55e68715d3c7cc711",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 미주중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Y0xNN2Zaa1pnczFhUi1GSXJqUGRDczQxZ2YxQWJ1RFMtY3FDU2hvaXFYdXgyS1FUTXJkSHZOZWN4VXZwUzk5U3JJc0lMMWttMGZjakJxUDFsakJvV2c1cldB?oc=5\" target=\"_blank\">송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미주중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Y0xNN2Zaa1pnczFhUi1GSXJqUGRDczQxZ2YxQWJ1RFMtY3FDU2hvaXFYdXgyS1FUTXJkSHZOZWN4VXZwUzk5U3JJc0lMMWttMGZjakJxUDFsakJvV2c1cldB?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:16:00 GMT",
+        "source": "미주중앙일보",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "107242f49d11d2a2e816dd9212748b86df53fe6c8a62198dab6264eeb7a21759",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oVXNKeDVOcWMxN245cGhCU010Y0FKWWVkZGYxMWpsMmtTUFpCSkt6a0NiZnhKaUJIMDZUajhQdGVQR3B2RkxhRE44ZUFsWmdQU0NueE1R?oc=5\" target=\"_blank\">송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oVXNKeDVOcWMxN245cGhCU010Y0FKWWVkZGYxMWpsMmtTUFpCSkt6a0NiZnhKaUJIMDZUajhQdGVQR3B2RkxhRE44ZUFsWmdQU0NueE1R?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:16:23 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "9321b3a530d23e472466635cd76ae3a59d77d22b311e6b76b018f02ebd9ed319",
-    "title": "정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\" - 시사포커스",
+    "postId": "d0b9cad555d5340ffc7fd04fe1771e8fda7d7916ec310d8bc00ba56d983d2f93",
+    "title": "한동훈 \"정치적 해결 단계 지났다\"... 장동혁에 '법적 대응' 열어둬 - OhmyNews",
     "bot": "jongsuk_pol_bot",
-    "runId": "45532303579",
-    "sentAt": "2026-11-25T02:21:25.902Z"
+    "runId": "45533506035",
+    "sentAt": "2026-11-25T02:31:17.329Z"
   }
 }
