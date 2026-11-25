@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T07:31:15.359Z",
+  "lastCheckedAt": "2026-11-25T07:41:13.628Z",
   "seenPostIds": {
-    "11eaa700d48041aeca4888c7c065b4776722941a0ede9f7a36fced1dbae220ec": {
-      "seenAt": "2026-11-23T03:11:16.035Z",
-      "title": "장동혁, 與 조희대 탄핵 추진에 “이재명 탈옥 탄핵”...한동훈 \"삼권분립 훼손\" - 신문고뉴스",
-      "targetName": "한동훈"
-    },
-    "2aeb11718db7edf0370ab53730a5c70c7b672ac01a3317bdea250ec737c37efe": {
-      "seenAt": "2026-11-23T03:21:15.934Z",
-      "title": "與 최고위 또 ‘신천지’ 충돌…김민석, “일제부역” 박선원에 경고 - 중앙일보",
-      "targetName": "김민석"
-    },
-    "15fee8da20f6e0f54a9acb27263af946bec8185e2a6c0eaa6125075f44695aeb": {
-      "seenAt": "2026-11-23T03:21:16.604Z",
-      "title": "[포토] 생각에 잠긴 김민석 더불어민주당 대표 - 뉴데일리",
-      "targetName": "김민석"
-    },
     "4baf4f075190191bdc8ebf10b56eb950fa2f5a0433fd03527bcc43d4af05a38e": {
       "seenAt": "2026-11-23T03:21:17.251Z",
       "title": "신천지 조사 두고 최고위 또 충돌…김민석, 박선원에 구두 경고 - 노컷뉴스",
@@ -2515,47 +2500,94 @@
       "seenAt": "2026-11-25T07:31:17.965Z",
       "title": "김민석 \"조희대 탄핵 신속 추진 위해 5당 연대 제안\" #Shorts - 오마이TV - OhmyNews",
       "targetName": "김민석"
+    },
+    "6e1cbf9359c0e15d38090accbb902175815a0bd5e5c4f8ecd9649980cd083afc": {
+      "seenAt": "2026-11-25T07:41:14.669Z",
+      "title": "\"이 대통령, 정청래 억울함 4시간 들어\"...\"송영길, 입조심하라\" [앵커리포트] - YTN",
+      "targetName": "송영길"
+    },
+    "f1a5ab296b7c4d0a34d726f4f09a07699ea43f41b7981ce52cbcc193109d2fcb": {
+      "seenAt": "2026-11-25T07:41:15.330Z",
+      "title": "신장식 “조희대 탄핵 공동추진단 출범엔 발의·표결 일정 합의가 먼저\" - 한스경제",
+      "targetName": "신장식"
+    },
+    "10c346a077842a6dd847576d12ebffaf249aef510280e487c57dbe32237dd5de": {
+      "seenAt": "2026-11-25T07:41:15.953Z",
+      "title": "정청래, 李대통령 대화 언급한 송영길 비판 “입 조심해야” - 스페셜타임스",
+      "targetName": "정청래"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "6e1cbf9359c0e15d38090accbb902175815a0bd5e5c4f8ecd9649980cd083afc",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "\"이 대통령, 정청래 억울함 4시간 들어\"...\"송영길, 입조심하라\" [앵커리포트] - YTN",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XV2wzMC1PcDZZVGxCUHpPRXJsTW5xSFlkdENLNUoyVVViekZoT2ZjTi1SSUNaY0JuU0pjYmExVlRfUHEydUpTSjdud1FocFFSWmJZd2pacGg3UU1naUE?oc=5\" target=\"_blank\">\"이 대통령, 정청래 억울함 4시간 들어\"...\"송영길, 입조심하라\" [앵커리포트]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XV2wzMC1PcDZZVGxCUHpPRXJsTW5xSFlkdENLNUoyVVViekZoT2ZjTi1SSUNaY0JuU0pjYmExVlRfUHEydUpTSjdud1FocFFSWmJZd2pacGg3UU1naUE?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 07:09:00 GMT",
-        "source": "YTN",
-        "ageHours": 0.4
+        "id": "b5d46ee93a2aad06977a07ef31170c115ca8ba4b340b23edce47c9b28748e1d8",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" | - 연합인포맥스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5nYXBPV0dSdG4xQnhsVFJGQ3lzTWxZdlcxQ3FIVDNib1BLVG8zU0FDLV9ydnRuamZfYjkwQ1VuZzRSTHZHWHZCOHFEbnN1UklUb1A3Vl9MSFU1dEFweFAwRkFiNktDUGpCM3QxelB5WEJOZ0lN?oc=5\" target=\"_blank\">송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합인포맥스</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nYXBPV0dSdG4xQnhsVFJGQ3lzTWxZdlcxQ3FIVDNib1BLVG8zU0FDLV9ydnRuamZfYjkwQ1VuZzRSTHZHWHZCOHFEbnN1UklUb1A3Vl9MSFU1dEFweFAwRkFiNktDUGpCM3QxelB5WEJOZ0lN?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 04:08:15 GMT",
+        "source": "연합인포맥스",
+        "ageHours": 3.5
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "f1a5ab296b7c4d0a34d726f4f09a07699ea43f41b7981ce52cbcc193109d2fcb",
+        "id": "d5ee9aa628665772a7af9bbc61bc452186de08024c1ed2fc9d3977c699d5cf05",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5TSkpUdW94OEZJYWE1RjItc0xBeTNjRERTY3NiMU9TdEtoYmF0VXhxTlEtWTB5eENzVzMwdGF1NXJ6dG5NVk9GZ3A3Q2l3dlV2SDNlZzNfSHFkZmR6ZVhzbVZwX2MtTHBiNTJ1aFFqX1JoNC0xQjRN?oc=5\" target=\"_blank\">\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TSkpUdW94OEZJYWE1RjItc0xBeTNjRERTY3NiMU9TdEtoYmF0VXhxTlEtWTB5eENzVzMwdGF1NXJ6dG5NVk9GZ3A3Q2l3dlV2SDNlZzNfSHFkZmR6ZVhzbVZwX2MtTHBiNTJ1aFFqX1JoNC0xQjRN?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 05:27:48 GMT",
+        "source": "부산일보",
+        "ageHours": 2.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "e8291a0f54815c80e16a0378b544724a9f6af70ec430d12207ca5858c72a823b",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\" - 조선일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeGZNb3E0dGM0S2l5QmlwNEJ1UjdtX3drY1hod1luRDVLZUpXOHJUVzJPY0FzeE5xZ05mZ083czgxeV83aEZzUkV2OXpFamljSFVQemZ3a3d5eXdnc19CWk1GWEhuYldjNzVqN3drdy04Qm1FZTJxcG9ZYmVqU3B0QUNENmdGU1FzZUdB?oc=5\" target=\"_blank\">\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeGZNb3E0dGM0S2l5QmlwNEJ1UjdtX3drY1hod1luRDVLZUpXOHJUVzJPY0FzeE5xZ05mZ083czgxeV83aEZzUkV2OXpFamljSFVQemZ3a3d5eXdnc19CWk1GWEhuYldjNzVqN3drdy04Qm1FZTJxcG9ZYmVqU3B0QUNENmdGU1FzZUdB?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:29:00 GMT",
+        "source": "조선일보",
+        "ageHours": 6.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "368c331eb1b16504a365c2aecf79d1e4d316197357be56a22ea6928ec8a7bf11",
         "targetId": "shin_jangsik",
         "targetName": "신장식",
         "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 “조희대 탄핵 공동추진단 출범엔 발의·표결 일정 합의가 먼저\" - 한스경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1id24td0xvYzREV2M5cWZWWTNTT0lQMXpxWHV6bldqX1hlbnlYc0FEWXhlbWhRejZoa3ZpY2E3M0YzaGZIckpKWWpESVpzS0RfU1k1TVBjd0o2SGlsaTZGOERyajh0VG1XakUw?oc=5\" target=\"_blank\">신장식 “조희대 탄핵 공동추진단 출범엔 발의·표결 일정 합의가 먼저\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한스경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1id24td0xvYzREV2M5cWZWWTNTT0lQMXpxWHV6bldqX1hlbnlYc0FEWXhlbWhRejZoa3ZpY2E3M0YzaGZIckpKWWpESVpzS0RfU1k1TVBjd0o2SGlsaTZGOERyajh0VG1XakUw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 07:15:10 GMT",
-        "source": "한스경제",
-        "ageHours": 0.3
+        "title": "신장식 \"조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자” - 이투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9hbURwZzFqT2dXUnViNEl0TE41ckp2eTFlN0hmM2Vnb1BRTVpEZHhLd3hRSW9qbDlLN1dCMGRrYnRuVVp0WEpQRzlCek9RWVdyMWVGNllTQ2gtQ1h2eTBsMS0xWml6UlJ3R0Q5LWQyOHdaN0pN?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hbURwZzFqT2dXUnViNEl0TE41ckp2eTFlN0hmM2Vnb1BRTVpEZHhLd3hRSW9qbDlLN1dCMGRrYnRuVVp0WEpQRzlCek9RWVdyMWVGNllTQ2gtQ1h2eTBsMS0xWml6UlJ3R0Q5LWQyOHdaN0pN?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 07:36:00 GMT",
+        "source": "이투데이",
+        "ageHours": 0.1
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "5dcf503a2d2ff63d40621487a0e47c7d426583bcdab41e111e0d7f54a0fac7d3",
-    "title": "김민석 \"조희대 탄핵 신속 추진 위해 5당 연대 제안\" #Shorts - 오마이TV - OhmyNews",
+    "postId": "10c346a077842a6dd847576d12ebffaf249aef510280e487c57dbe32237dd5de",
+    "title": "정청래, 李대통령 대화 언급한 송영길 비판 “입 조심해야” - 스페셜타임스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45568745640",
-    "sentAt": "2026-11-25T07:31:17.633Z"
+    "runId": "45570051277",
+    "sentAt": "2026-11-25T07:41:15.648Z"
   }
 }
