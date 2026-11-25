@@ -7359,3 +7359,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** ‘김민석 100일’ 與의원들 평가는?…“60점” vs “150점” - 서울경제
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘김민석 100일’ 與의원들 평가는?…“60점” vs “150점”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpZVA3VXZwTnVPbGJCd2VHNklDb3dGTXBkWXRrak5HOEJLTjBYOGR5UUYzSFhVSHBLdmlTZ2FxU1ctcE0ycFZ1ZkFYaDYwUDQtNFHSAVNBVV95cUxPdEN5Qk5PbEJuZTlXZWUydnJhYjlKOTlfQjkxZnJHN3J6Z0oxRDBxUm5qWlYtcF9GVllRNFFnMFRqaWRyM1lRWmpYRHpQS2NoYzd6SQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 취임 100일에도 내홍…정청래 "당 초토화" - 연합뉴스TV
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 취임 100일에도 내홍…정청래 "당 초토화"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uRkp6SXptU09rSm9Ldi02M3g5QkIwc0IybjBWNEF5aHIzSmNDYnNmcFNvMnRHNEhMLTc1WE5ieVgxV2R3SE5XZ0UyUDBZazEzYV95dWY5VER1dUJjajFYM003U3IycFE?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당·진보당, '조희대 탄핵 5당 연대' 제안 환영...절차·일정 합의 요청 - 뉴스핌
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당·진보당, '조희대 탄핵 5당 연대' 제안 환영...절차·일정 합의 요청
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VYW1wSEZzV2pMdUZlVjNRWmthbC1Ec2pYVEFXMTRuQWxwUTZwTjN2cXZEVU1fUHd0NUkyRnZhc0ZTWWIzQmNneVhCNHJ5SU9LSnhVVmZ3TFZrYVVK?oc=5)
+
+---
+
