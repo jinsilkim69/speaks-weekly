@@ -6826,3 +6826,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당에 손 내민 김민석…“조희대 탄핵 연대 제안” - 채널A
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당에 손 내민 김민석…“조희대 탄핵 연대 제안”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpcnhiRl9Fd2FJb1drdC1LV1BmWjBSRHZveXRhWTlCaDUtNEVLbmt2V09XM3l6VkJIUHlCZUV2NmJ1bW56dUQ4RzhnSDdERlhmejdnLVZQNE40NVludEHSAWNBVV95cUxNam56UURRSmFrWDV2YU1oaFBpNmZhYktlekZ5dW4wWkYxNDlpR0c0ZzVEWi1mbXBob1lZTDNXYTd0Y2RmbWhITUVIaUtzTzV0bnFyVHNyamFhZUJDaExxekxRQzA?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 "환영" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 "환영"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTFAwZVVQVFVGTlEtcVd2YUlDdFZfcFFmOXNkWTRrUnR1M252cVBHajUyelBZaTJITWRIS2FwM191ZTVYVmN5dnVjQXRqV0pwdUFsU1Z2MVpELXI2aE45b0FFazJER3RKQ1M5QzJHbTVHTjdWd9IBckFVX3lxTFAwZVVQVFVGTlEtcVd2YUlDdFZfcFFmOXNkWTRrUnR1M252cVBHajUyelBZaTJITWRIS2FwM191ZTVYVmN5dnVjQXRqV0pwdUFsU1Z2MVpELXI2aE45b0FFazJER3RKQ1M5QzJHbTVHTjdWdw?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "李, 정청래 억울함 4시간 들어줘"…정청래 "송영길 의원은 입조심 하시라" - 부산일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "李, 정청래 억울함 4시간 들어줘"…정청래 "송영길 의원은 입조심 하시라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE5RODFYaGFBcEJ6eVQxeWx6T25VSFlJTlFxS0VqMExvOEpfS3RFNndxbDJVcHJTTEFNX0R4Skl3SWVXLVNpUWlwWFd3SDMwcTlUZWZianNKYXlrTnhrbUw2MEJmSEFEQm9YWHlXT215eWk5QXFl?oc=5)
+
+---
+
