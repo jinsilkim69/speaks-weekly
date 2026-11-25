@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T00:41:12.960Z",
+  "lastCheckedAt": "2026-11-25T00:51:26.858Z",
   "seenPostIds": {
-    "16e71ae084a1db2fe844725f3215bae526b2c9cf88abbc0c8f8882d36017f30c": {
-      "seenAt": "2026-11-22T04:51:14.057Z",
-      "title": "조희대 대법원장 민주당 탄핵 추진…김민석, 한덕수 파기환송 강력 비판 - CBC뉴스",
-      "targetName": "김민석"
-    },
-    "d92e919d555966a0b7a5e7acda81c12e94402b8cc7ef83f217b4cfd66d1ccf8a": {
-      "seenAt": "2026-11-22T04:51:14.694Z",
-      "title": "‘조국혁신당’에 ‘조국’ 빠지나…조국 “당명 개정하자” - 중앙일보",
-      "targetName": "조국"
-    },
-    "4113e0eaaf1872ea0e2ed8f30fd7ead7d2bd0bfed8431c79e843689821d5b790": {
-      "seenAt": "2026-11-22T05:01:16.672Z",
-      "title": "신장식, 실경작자 보호·농지농용 원칙 확립 위한 '특정농지 정리에 관한 특별조치법안' 발의 기자회견 - press24(프레스24)",
-      "targetName": "신장식"
-    },
     "8fe8611f7c2fbf984f96e9881523b481eb2452c56d19375eba329472f3cbab45": {
       "seenAt": "2026-11-22T05:01:17.413Z",
       "title": "조국 \"당명 속 '조국' 제 이름 아니지만…확장성 있는 당명 필요\" - 아시아경제",
@@ -2515,31 +2500,46 @@
       "seenAt": "2026-11-25T00:41:15.526Z",
       "title": "외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스 - SeattleN",
       "targetName": "조국"
+    },
+    "fae3ad6682a04f424bf0ed78ae837da3d899e1eeebb2688d10b52db3222d21d3": {
+      "seenAt": "2026-11-25T00:51:28.630Z",
+      "title": "신장식 조국혁신당 의원 “4개 항만공사 통합 용역 중단\" 촉구 - 브레이크뉴스",
+      "targetName": "신장식"
+    },
+    "f90979df729100d93b31963e9dd30d8cf1909704a48373cc9bdc335cefed7ff2": {
+      "seenAt": "2026-11-25T00:51:29.419Z",
+      "title": "윤상현, 장동혁 '한동훈 복당' 일축에 일침…\"대의를 위해 결단을\" - 데일리안",
+      "targetName": "한동훈"
+    },
+    "e424a6778e08078fdfadaf877f4a5fe66f6e9fa994fe1969ed0adc356d74744b": {
+      "seenAt": "2026-11-25T00:51:30.160Z",
+      "title": "송영길 \"8월 金·鄭·宋과 청와대서 원 없이 얘기…저도 金도 鄭에게 사과\" - 뉴스1",
+      "targetName": "송영길"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "fae3ad6682a04f424bf0ed78ae837da3d899e1eeebb2688d10b52db3222d21d3",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 조국혁신당 의원 “4개 항만공사 통합 용역 중단\" 촉구 - 브레이크뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oUGFXYjc4Z0U1cnlrVldGSUd4djlKY215djhuc2RfTXFrTTN4dDhaa29QRDRwS3VRNUdzSmxrd0JhaE0xTXBzcg?oc=5\" target=\"_blank\">신장식 조국혁신당 의원 “4개 항만공사 통합 용역 중단\" 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">브레이크뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oUGFXYjc4Z0U1cnlrVldGSUd4djlKY215djhuc2RfTXFrTTN4dDhaa29QRDRwS3VRNUdzSmxrd0JhaE0xTXBzcg?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 05:15:00 GMT",
-        "source": "브레이크뉴스",
-        "ageHours": 19.4
+        "id": "1ae909764efc7a729d44412f108b9acee70de95f3e8e572549f8c07afef067ab",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World] - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5RS25TQmRLcXY0cWZZeW1tb29WcVRFNWk0VFBZUVNRdkEtRXJFanp4UHBYZHR4QUtCZC1UU010TmsxTzE3RlEyY3VRalBsM0owOFRob201U3AtRlRpN3hTM2JUOVlLQWtMVHQ40gFUQVVfeXFMT2hselZ3T3VLRUxEVUFhdlVpcHNMaDE2Tm5GbkxCSG1jd0FNX2lDUUxvd0pNZTNuS3IyTlZONWh2THpNVWFMel9tZ2l3emIxMGNSX25L?oc=5\" target=\"_blank\">‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RS25TQmRLcXY0cWZZeW1tb29WcVRFNWk0VFBZUVNRdkEtRXJFanp4UHBYZHR4QUtCZC1UU010TmsxTzE3RlEyY3VRalBsM0owOFRob201U3AtRlRpN3hTM2JUOVlLQWtMVHQ40gFUQVVfeXFMT2hselZ3T3VLRUxEVUFhdlVpcHNMaDE2Tm5GbkxCSG1jd0FNX2lDUUxvd0pNZTNuS3IyTlZONWh2THpNVWFMel9tZ2l3emIxMGNSX25L?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 00:05:08 GMT",
+        "source": "세계일보",
+        "ageHours": 0.8
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "04016326508cc519cee2110c700871cf0af0fd380115f0389d2729f4f956eb9e",
-    "title": "외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스 - SeattleN",
+    "postId": "e424a6778e08078fdfadaf877f4a5fe66f6e9fa994fe1969ed0adc356d74744b",
+    "title": "송영길 \"8월 金·鄭·宋과 청와대서 원 없이 얘기…저도 金도 鄭에게 사과\" - 뉴스1",
     "bot": "jongsuk_pol_bot",
-    "runId": "45519971487",
-    "sentAt": "2026-11-25T00:41:15.190Z"
+    "runId": "45521273826",
+    "sentAt": "2026-11-25T00:51:29.789Z"
   }
 }

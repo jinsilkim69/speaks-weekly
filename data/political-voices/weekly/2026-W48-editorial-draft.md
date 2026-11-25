@@ -5617,3 +5617,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 조국혁신당 의원 “4개 항만공사 통합 용역 중단" 촉구 - 브레이크뉴스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 조국혁신당 의원 “4개 항만공사 통합 용역 중단" 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oUGFXYjc4Z0U1cnlrVldGSUd4djlKY215djhuc2RfTXFrTTN4dDhaa29QRDRwS3VRNUdzSmxrd0JhaE0xTXBzcg?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 윤상현, 장동혁 '한동훈 복당' 일축에 일침…"대의를 위해 결단을" - 데일리안
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 윤상현, 장동혁 '한동훈 복당' 일축에 일침…"대의를 위해 결단을"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimAJBVV95cUxOeHZwX2ppMzBCMkl0emdnREx2bmVGLTVtTkd4RnVsU0Uxcl9pb2xFRjJrLXZLd18wNjI0cXQ0RXpmQmlxakh0OG5tb0l6QlBZWkFOb2xFcVktZDFYbWZrVmxJZWNEQVZuOHdGdlRudDNPN1l0NUFnRngzdG1KN3A4RnM1dC1EcW1XTlUyckEyai1WbU9rZWdhRWVDTmN6cWM3MVhCX1JGOUNubWdGOW1KN2dGd2VGQllzRTZVUndtNDJlc2NTYXlsckczX0FRMDMyRTVqS3lISUNnVTdGa2NTWTRCTFVWMFZUNjZINVJtMXd4YUJ5V0xna1hsczBySUdReENDbm1LZnhMMC1EcnhDTUNwM1VPT3J6?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "8월 金·鄭·宋과 청와대서 원 없이 얘기…저도 金도 鄭에게 사과" - 뉴스1
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "8월 金·鄭·宋과 청와대서 원 없이 얘기…저도 金도 鄭에게 사과"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GWnVKMkNEU2QwRW9penFheVVCNVNQYlVkelYxbk1RRGx5S0F6OGhKLTFZMmJ6bWtKbGExdmtTVUU5c2pMeV9RaUFGU2pMTVM3dG1zTUY3RExDUQ?oc=5)
+
+---
+
