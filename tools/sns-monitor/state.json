@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T02:51:17.428Z",
+  "lastCheckedAt": "2026-11-25T03:01:20.148Z",
   "seenPostIds": {
-    "33442711072ce0ca22dff39fdd69d4e60b72a5f482da4aa4607df100af6a99b3": {
-      "seenAt": "2026-11-22T08:41:15.478Z",
-      "title": "Donald Trump Posts ‘My Friend’ Photo With Putin and Yalta Comparison - Kyiv Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "596d96b77f208f5aefbc8aabd71e20de4df9a579fc5fe415378f50f97f064c0f": {
-      "seenAt": "2026-11-22T08:51:18.955Z",
-      "title": "오세훈·한동훈, 與 조희대 탄핵 추진에 맹공…“사법부 장악·친위쿠데타” - 세계일보",
-      "targetName": "한동훈"
-    },
-    "6817acab5a0151171b2d3939e3223a0f97c6e177c9feccfa89e2dca6fe6da457": {
-      "seenAt": "2026-11-22T08:51:19.729Z",
-      "title": "김민석 대표 100일…당정 소통 성과에도 계파갈등 난제 : 정치 - 재경일보",
-      "targetName": "김민석"
-    },
     "1223809ffad3690bb5d2075d37b78aafa2b28c512aad44f418abe81ac3ebd53c": {
       "seenAt": "2026-11-22T08:51:20.553Z",
       "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 코리아 이슈저널",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T02:51:20.449Z",
       "title": "한동훈 \"조희대 탄핵 인용되면 의원직 던진다… 서영교도 걸어야\" - 한국일보",
       "targetName": "한동훈"
+    },
+    "9559b56f263115de8ab054cab5edfc3f5da37561c8071b61ac8cc2b68f542057": {
+      "seenAt": "2026-11-25T03:01:21.749Z",
+      "title": "정청래, 송영길에 “입조심하라” - 뉴스프리존",
+      "targetName": "정청래"
+    },
+    "43f34e36793ef265dc162fcfdcbc3a7853becf9b2b6208d2b640180ac5153e58": {
+      "seenAt": "2026-11-25T03:01:22.445Z",
+      "title": "정청래, 송영길 향해 작심 비판…“입 싼 송영길과 말 섞고 싶지 않아” - 세계뉴스통신",
+      "targetName": "송영길"
+    },
+    "c9e336708286f91dc3660828c5c7863e33f3fa08558f0e08ae4937927c41d8d9": {
+      "seenAt": "2026-11-25T03:01:23.302Z",
+      "title": "‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World] - 세계일보",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "9559b56f263115de8ab054cab5edfc3f5da37561c8071b61ac8cc2b68f542057",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 송영길에 “입조심하라” - 뉴스프리존",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1kdFFGNm5MOFlaUTZfOWNiOGRyQ0RLa2dfSy0xSWNfYV9LckRrU0E1cTRMUF9YYUt2Ny14aXEzQk50bDktc0poLVJXamRsTGF3a245b2NpcDJ4WURkRXJlTi1jcTgxS1Eyd18xZktURlU4dnfSAXdBVV95cUxPUXRFRnpPNGJJWTdUajhfTVBZY1ZON0hvaGVtdmVXbHJiUTF6M2x2SWNfb1lSV2FuSzZkNWZJX1ltNy1raUxDaWh2MlhycFg1SUMwZVNDTXVaR3oyMU9LOU1fY1RPcmdOUW1oXzA4cTM2OG1jdGRiVQ?oc=5\" target=\"_blank\">정청래, 송영길에 “입조심하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스프리존</font>",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kdFFGNm5MOFlaUTZfOWNiOGRyQ0RLa2dfSy0xSWNfYV9LckRrU0E1cTRMUF9YYUt2Ny14aXEzQk50bDktc0poLVJXamRsTGF3a245b2NpcDJ4WURkRXJlTi1jcTgxS1Eyd18xZktURlU4dnfSAXdBVV95cUxPUXRFRnpPNGJJWTdUajhfTVBZY1ZON0hvaGVtdmVXbHJiUTF6M2x2SWNfb1lSV2FuSzZkNWZJX1ltNy1raUxDaWh2MlhycFg1SUMwZVNDTXVaR3oyMU9LOU1fY1RPcmdOUW1oXzA4cTM2OG1jdGRiVQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:00:39 GMT",
-        "source": "뉴스프리존",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "43f34e36793ef265dc162fcfdcbc3a7853becf9b2b6208d2b640180ac5153e58",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 송영길 향해 작심 비판…“입 싼 송영길과 말 섞고 싶지 않아” - 세계뉴스통신",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9OZUNidFlCR0gyQTdIVEx4N0swLS1iMEtYWDVLRk5PWDV6RFNILWFjdTBxaUc1akJZbkhwZHJ3X2hHWTlJdnBSeTNNd0ltRk1KSXFBX0xCZGt0Q0syTEV4eG41NzI3em0wSi1pbzFJQS1KTHYw?oc=5\" target=\"_blank\">정청래, 송영길 향해 작심 비판…“입 싼 송영길과 말 섞고 싶지 않아”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계뉴스통신</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OZUNidFlCR0gyQTdIVEx4N0swLS1iMEtYWDVLRk5PWDV6RFNILWFjdTBxaUc1akJZbkhwZHJ3X2hHWTlJdnBSeTNNd0ltRk1KSXFBX0xCZGt0Q0syTEV4eG41NzI3em0wSi1pbzFJQS1KTHYw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:53:44 GMT",
-        "source": "세계뉴스통신",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c9e336708286f91dc3660828c5c7863e33f3fa08558f0e08ae4937927c41d8d9",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World] - 세계일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxRkl1RjhPMUhiVzN5ajFQck1ocGoyZ2QtbmdvdkhtT0NUR3lGYlBNOUFDdzBveWVWT2JNdDhpSU4zY2h2QWRUVUppdndjbkZjdnNnUDc5QUHSAVRBVV95cUxPaGx6VndPdUtFTERVQWF2VWlwc0xoMTZObkZuTEJIbWN3QU1faUNRTG93Sk1lM25LcjJOVk41aHZMek1VYUx6X21naXd6YjEwY1Jfbks?oc=5\" target=\"_blank\">‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxRkl1RjhPMUhiVzN5ajFQck1ocGoyZ2QtbmdvdkhtT0NUR3lGYlBNOUFDdzBveWVWT2JNdDhpSU4zY2h2QWRUVUppdndjbkZjdnNnUDc5QUHSAVRBVV95cUxPaGx6VndPdUtFTERVQWF2VWlwc0xoMTZObkZuTEJIbWN3QU1faUNRTG93Sk1lM25LcjJOVk41aHZMek1VYUx6X21naXd6YjEwY1Jfbks?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 00:05:08 GMT",
-        "source": "세계일보",
-        "ageHours": 2.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "341f16fb409b5f105e2461522803509fa3499e6e12fbdd79ad37519ffba7c577",
@@ -2869,13 +2821,61 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "cd50e8bc6995ac0912fe91f5455617bdec2598c01901fcdb6be539d872720aeb",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oVXNKeDVOcWMxN245cGhCU010Y0FKWWVkZGYxMWpsMmtTUFpCSkt6a0NiZnhKaUJIMDZUajhQdGVQR3B2RkxhRE44ZUFsWmdQU0NueE1R?oc=5\" target=\"_blank\">송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oVXNKeDVOcWMxN245cGhCU010Y0FKWWVkZGYxMWpsMmtTUFpCSkt6a0NiZnhKaUJIMDZUajhQdGVQR3B2RkxhRE44ZUFsWmdQU0NueE1R?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:16:23 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "80da36abf84eb5c64abb35e18342bcbca041fdb16b23ca1e7ce9508d5cf55e8e",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 “대통령, 정청래 억울함 4시간 들어줘” VS 정청래 “입 싼 송영길과 말 안 섞어” - 주간경향",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE95MlpnR0daTzdoYld2ekxOVkE4VGJGRmF3RzY5THJ3TjdZd3VDbjJoX1hRV25vS1lMQlVlMW1hSWhrRzVib3JYODNzT00tcjdybXB4NmJ1OEdMTmcyWHc?oc=5\" target=\"_blank\">송영길 “대통령, 정청래 억울함 4시간 들어줘” VS 정청래 “입 싼 송영길과 말 안 섞어”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95MlpnR0daTzdoYld2ekxOVkE4VGJGRmF3RzY5THJ3TjdZd3VDbjJoX1hRV25vS1lMQlVlMW1hSWhrRzVib3JYODNzT00tcjdybXB4NmJ1OEdMTmcyWHc?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:41:00 GMT",
+        "source": "주간경향",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "82bc9c3941b154868ec45dbe7c8393c53a618a940b98f65cb23a625f64063d03",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석 “경력없는 강금실을 국정원장에…뭔 뜬금포인가” - 문화일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QNlVham00d0dFc201c3lwSi11QVZLaURZeDc1ZEl1Y3Y1TkR2dTV4dTA4QmVGdzFDU1BnOXAxNFN4aWRIN3JjOXpUOTlGQlgt?oc=5\" target=\"_blank\">이준석 “경력없는 강금실을 국정원장에…뭔 뜬금포인가”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QNlVham00d0dFc201c3lwSi11QVZLaURZeDc1ZEl1Y3Y1TkR2dTV4dTA4QmVGdzFDU1BnOXAxNFN4aWRIN3JjOXpUOTlGQlgt?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 14:16:22 GMT",
+        "source": "문화일보",
+        "ageHours": 12.7
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "4b4ea02f38c718b236b5d683c742bea9c41d69bf40b2a3bcc494d8fcc28ecaac",
-    "title": "한동훈 \"조희대 탄핵 인용되면 의원직 던진다… 서영교도 걸어야\" - 한국일보",
+    "postId": "c9e336708286f91dc3660828c5c7863e33f3fa08558f0e08ae4937927c41d8d9",
+    "title": "‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World] - 세계일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45535851593",
-    "sentAt": "2026-11-25T02:51:20.087Z"
+    "runId": "45536983276",
+    "sentAt": "2026-11-25T03:01:22.926Z"
   }
 }

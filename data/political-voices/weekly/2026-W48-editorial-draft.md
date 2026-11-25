@@ -6124,3 +6124,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 송영길에 “입조심하라” - 뉴스프리존
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 송영길에 “입조심하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE1kdFFGNm5MOFlaUTZfOWNiOGRyQ0RLa2dfSy0xSWNfYV9LckRrU0E1cTRMUF9YYUt2Ny14aXEzQk50bDktc0poLVJXamRsTGF3a245b2NpcDJ4WURkRXJlTi1jcTgxS1Eyd18xZktURlU4dnfSAXdBVV95cUxPUXRFRnpPNGJJWTdUajhfTVBZY1ZON0hvaGVtdmVXbHJiUTF6M2x2SWNfb1lSV2FuSzZkNWZJX1ltNy1raUxDaWh2MlhycFg1SUMwZVNDTXVaR3oyMU9LOU1fY1RPcmdOUW1oXzA4cTM2OG1jdGRiVQ?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래, 송영길 향해 작심 비판…“입 싼 송영길과 말 섞고 싶지 않아” - 세계뉴스통신
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 송영길 향해 작심 비판…“입 싼 송영길과 말 섞고 싶지 않아”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OZUNidFlCR0gyQTdIVEx4N0swLS1iMEtYWDVLRk5PWDV6RFNILWFjdTBxaUc1akJZbkhwZHJ3X2hHWTlJdnBSeTNNd0ltRk1KSXFBX0xCZGt0Q0syTEV4eG41NzI3em0wSi1pbzFJQS1KTHYw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** ‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World] - 세계일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxRkl1RjhPMUhiVzN5ajFQck1ocGoyZ2QtbmdvdkhtT0NUR3lGYlBNOUFDdzBveWVWT2JNdDhpSU4zY2h2QWRUVUppdndjbkZjdnNnUDc5QUHSAVRBVV95cUxPaGx6VndPdUtFTERVQWF2VWlwc0xoMTZObkZuTEJIbWN3QU1faUNRTG93Sk1lM25LcjJOVk41aHZMek1VYUx6X21naXd6YjEwY1Jfbks?oc=5)
+
+---
+
