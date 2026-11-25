@@ -7814,3 +7814,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 두팔 걷었다.. 공적주택 대전환 예고 > 뉴스 - 지데일리
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 두팔 걷었다.. 공적주택 대전환 예고 > 뉴스
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKeE1fR3RDRGF3S0xocHZWYU1vampSdVZlcWdqNGNXcWVYeFJYU2toZGRlU251RERkUGZpMUpiMUxScjdTdHBaNWVrVkhWV1VrU2FIRnk0RWtFem9CNzFBSkhBUER6bzFMNWNObA?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "청해부대 작전지역 확대, 전쟁 개입은 없을 것" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "청해부대 작전지역 확대, 전쟁 개입은 없을 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTFA3NlZ3OUg5TkVRUHRocXU1LUVqME1ydU9PT1Z5VHBPMG91MU5xQUhJUnlYUjZ4ZzAxUVpUNmo4VzZ5bVhsNXZ1X1owY2hVbDdlOU5QdGFtWWp6ZFZYT3FNb2I2bjYwOV9BZnhvRmtqWVFGSzZKRjdLTldR0gF_QVVfeXFMUHdFaGhDTEJRZmJ6NHFUYXFHN3ctdTN1dFBlNlQxVDhidW9ZN08yaDlrS0N6czlrb2RPbTg3YW5KUERjZ1ZOckFMdmpscU55OHF4VVlJSlQ2OG43NElGM1RGcXdWSzBZY05fdXZrWl9iUXZSSVFLOHM5MmRBdWVwRQ?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "입 싼 송영길, 말 안 섞어" 거친 말 쏟아낸 정청래... 왜? - OhmyNews
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "입 싼 송영길, 말 안 섞어" 거친 말 쏟아낸 정청래... 왜?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE80R2dKTFBraU9SS2ZqU1Y4d1dhSFRaQmtNN2lQSHVrR3ppRXNUbDdCNnlwcEZkS0dHM2FIcDNfbjlNN0xQa0NhQVFMS1pQTUZ6cEFBRTFUYmZaQ3VNRjFwOUJaZ2czSWt1MUdTOHBvQmFEWGxHemw4?oc=5)
+
+---
+
