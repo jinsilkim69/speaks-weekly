@@ -7437,3 +7437,29 @@
 
 ---
 
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** [인터뷰] 천하람 의원, 당보다 인물 선택하는 정치 1번지 ‘순천’ - 뉴스프리존
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 천하람 의원, 당보다 인물 선택하는 정치 1번지 ‘순천’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE16WXZ1aXZsei1oWEM5VDU1YjBBS01fZXo2SV9MbEUtOG40djN6T3owYXFyU2Z4WElRWlEwV1FTbHhUTEVUVlF6VVkzWkh4Uy1BXy1CUV9BSDVlbGZoQnQwQjNleHVQakIyaHV6aWMwZ1dJajTSAXdBVV95cUxPUnp6VzdRUmdKd1JkREpYY1hHYmpwaVF5ZmswY29Pa2lMSXBvc215OFBVckFlVFh1YWY1eDNxQVdxNUQycHhRLU9SUnBwVHlNVV93UzYwQXV4U2Z1SzBQcVJqR0x2SmIzRDZtR1pOVG45bGdhamZPTQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Editorial: Trump willing to compromise, Dems should pay attention - Boston Herald
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Editorial: Trump willing to compromise, Dems should pay attention
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2xLM0FjeWU4QUNTaDcxYjRSTHVuUmlENVZGVk5aR2ZQcWhsdWg2S0JDdDlGSW9JMmxrd0ZLZnZnMzhGYnJvVEM4VE5fdW44dTlPWkpTcV84QUk4Y1BTZGs2MDkyVzFaV3Y5eGZCdmFzd05BMW1PWHBEVXB0QUMyZ2pnLU11a2IxWnNiRkxiNWRqbXY0OFpxZ2RQLW9ZWU9iRDBwNjh4cw?oc=5)
+
+---
+

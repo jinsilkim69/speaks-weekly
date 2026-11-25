@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T08:41:18.764Z",
+  "lastCheckedAt": "2026-11-25T08:51:17.873Z",
   "seenPostIds": {
-    "e66187baad700333d009ea4094c312110cf93e47b20243fe35194eac33d39a83": {
-      "seenAt": "2026-11-23T04:31:17.213Z",
-      "title": "김민석 “조희대 대법원장 탄핵 사유 차고도 넘쳐” - 동아일보",
-      "targetName": "김민석"
-    },
-    "57f0f37489eb5094e23848556acca1794a5a57e5cf8c4c5a95a0337bf1538bbd": {
-      "seenAt": "2026-11-23T04:51:16.022Z",
-      "title": "오세훈 \"이재명 대통령, 국가 권력 동원 사법방어 멈춰야\" - 파이낸셜뉴스",
-      "targetName": "이재명"
-    },
-    "18127c58759297e9465b0beebd2f18d5c520a8b312af9a97b56dec39adc952eb": {
-      "seenAt": "2026-11-23T04:51:16.718Z",
-      "title": "인천 12개 대학 총학·송영길 의원 치맥 간담회...주거·취업 현안 논의 - 미디어인천신문",
-      "targetName": "송영길"
-    },
     "92e789225674cd998a7433faa969e00807caeacfb14136656b762ae67d50d4ed": {
       "seenAt": "2026-11-23T04:51:17.416Z",
       "title": "조국혁신당 광주특별시당 “조희대 대법원장 즉각 탄핵해야” - 무등일보",
@@ -2515,47 +2500,24 @@
       "seenAt": "2026-11-25T08:41:21.677Z",
       "title": "김민석 \"조희대 대법원장 탄핵 추진 위한 5당 연대 제안\" - 한국경제",
       "targetName": "김민석"
+    },
+    "8845105530e8779363217552f945b7495e00236ec92c6a34385fc773bfeccf82": {
+      "seenAt": "2026-11-25T08:51:19.340Z",
+      "title": "[인터뷰] 천하람 의원, 당보다 인물 선택하는 정치 1번지 ‘순천’ - 뉴스프리존",
+      "targetName": "천하람"
+    },
+    "663a820c789265a706111d1710d76bc0f9d696e856b9d182245dc16c3e903426": {
+      "seenAt": "2026-11-25T08:51:19.992Z",
+      "title": "Editorial: Trump willing to compromise, Dems should pay attention - Boston Herald",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "8845105530e8779363217552f945b7495e00236ec92c6a34385fc773bfeccf82",
-        "targetId": "cheon_haram",
-        "targetName": "천하람",
-        "targetTitle": "개혁신당 원내대표",
-        "title": "[인터뷰] 천하람 의원, 당보다 인물 선택하는 정치 1번지 ‘순천’ - 뉴스프리존",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE16WXZ1aXZsei1oWEM5VDU1YjBBS01fZXo2SV9MbEUtOG40djN6T3owYXFyU2Z4WElRWlEwV1FTbHhUTEVUVlF6VVkzWkh4Uy1BXy1CUV9BSDVlbGZoQnQwQjNleHVQakIyaHV6aWMwZ1dJajTSAXdBVV95cUxPUnp6VzdRUmdKd1JkREpYY1hHYmpwaVF5ZmswY29Pa2lMSXBvc215OFBVckFlVFh1YWY1eDNxQVdxNUQycHhRLU9SUnBwVHlNVV93UzYwQXV4U2Z1SzBQcVJqR0x2SmIzRDZtR1pOVG45bGdhamZPTQ?oc=5\" target=\"_blank\">[인터뷰] 천하람 의원, 당보다 인물 선택하는 정치 1번지 ‘순천’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스프리존</font>",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16WXZ1aXZsei1oWEM5VDU1YjBBS01fZXo2SV9MbEUtOG40djN6T3owYXFyU2Z4WElRWlEwV1FTbHhUTEVUVlF6VVkzWkh4Uy1BXy1CUV9BSDVlbGZoQnQwQjNleHVQakIyaHV6aWMwZ1dJajTSAXdBVV95cUxPUnp6VzdRUmdKd1JkREpYY1hHYmpwaVF5ZmswY29Pa2lMSXBvc215OFBVckFlVFh1YWY1eDNxQVdxNUQycHhRLU9SUnBwVHlNVV93UzYwQXV4U2Z1SzBQcVJqR0x2SmIzRDZtR1pOVG45bGdhamZPTQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 08:08:19 GMT",
-        "source": "뉴스프리존",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "663a820c789265a706111d1710d76bc0f9d696e856b9d182245dc16c3e903426",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Editorial: Trump willing to compromise, Dems should pay attention - Boston Herald",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2xLM0FjeWU4QUNTaDcxYjRSTHVuUmlENVZGVk5aR2ZQcWhsdWg2S0JDdDlGSW9JMmxrd0ZLZnZnMzhGYnJvVEM4VE5fdW44dTlPWkpTcV84QUk4Y1BTZGs2MDkyVzFaV3Y5eGZCdmFzd05BMW1PWHBEVXB0QUMyZ2pnLU11a2IxWnNiRkxiNWRqbXY0OFpxZ2RQLW9ZWU9iRDBwNjh4cw?oc=5\" target=\"_blank\">Editorial: Trump willing to compromise, Dems should pay attention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boston Herald</font>",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2xLM0FjeWU4QUNTaDcxYjRSTHVuUmlENVZGVk5aR2ZQcWhsdWg2S0JDdDlGSW9JMmxrd0ZLZnZnMzhGYnJvVEM4VE5fdW44dTlPWkpTcV84QUk4Y1BTZGs2MDkyVzFaV3Y5eGZCdmFzd05BMW1PWHBEVXB0QUMyZ2pnLU11a2IxWnNiRkxiNWRqbXY0OFpxZ2RQLW9ZWU9iRDBwNjh4cw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 08:26:15 GMT",
-        "source": "Boston Herald",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "ab4be9fc8e2f2a3a22da381ed3a96b31981420fdca64f3df2c8f4357e7dc6581",
-    "title": "김민석 \"조희대 대법원장 탄핵 추진 위한 5당 연대 제안\" - 한국경제",
+    "postId": "663a820c789265a706111d1710d76bc0f9d696e856b9d182245dc16c3e903426",
+    "title": "Editorial: Trump willing to compromise, Dems should pay attention - Boston Herald",
     "bot": "jongsuk_pol_bot",
-    "runId": "45578432345",
-    "sentAt": "2026-11-25T08:41:21.294Z"
+    "runId": "45579909304",
+    "sentAt": "2026-11-25T08:51:19.662Z"
   }
 }
