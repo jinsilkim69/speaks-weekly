@@ -4678,5 +4678,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "93543efb95c03a5b7407359786e01d7bc32fada98ace0607ee9ddba51b6a7362",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "[정치] 김민석 \"조희대 탄핵 신속 추진 위한 5당 연대 제안\" | - 서울시정일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE55TThmY3J4RV9ONWZvNFdaZUluU2V6SkJqSy1qQUpYYURoUExORHh2NzA5VlJZblFQSkVNdXEwc21CaWszVUZxX1hwTTd4Q1poblREamwyUURmb0tEVF9MQldyX2VuQThRdm5Va3FDMA?oc=5\" target=\"_blank\">[정치] 김민석 \"조희대 탄핵 신속 추진 위한 5당 연대 제안\" |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울시정일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55TThmY3J4RV9ONWZvNFdaZUluU2V6SkJqSy1qQUpYYURoUExORHh2NzA5VlJZblFQSkVNdXEwc21CaWszVUZxX1hwTTd4Q1poblREamwyUURmb0tEVF9MQldyX2VuQThRdm5Va3FDMA?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 07:57:40 GMT",
+    "source": "서울시정일보",
+    "ageHours": 1.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 \"조희대 탄핵 신속 추진 위한 5당 연대 제안\" |",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
