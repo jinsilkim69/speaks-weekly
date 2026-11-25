@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T17:41:15.294Z",
+  "lastCheckedAt": "2026-11-25T17:51:18.529Z",
   "seenPostIds": {
     "a968f576a5e00283d03127c107b281d32fa9b411ea60492d59233c6694697472": {
       "seenAt": "2026-11-23T08:11:15.162Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-25T17:11:27.267Z",
       "title": "Read President Trump's pardon of Pete Rose - Cincinnati Enquirer",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "e675d4e45201c8cdd805d3c40bad754e421a1185af48076dd44099b6d8a1f158": {
+      "seenAt": "2026-11-25T17:51:20.090Z",
+      "title": "정청래, 대통령에겐 '베리 굿' 송영길,김민석에겐 맹공!' (261125 수요일 방송) 김용남 박진영 장성철 허재무 - 경향신문",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "ef24d9d0dc7afadebd10fcd34d3603c98301574966294c84ff638a03ba80dc5f",
-    "title": "Read President Trump's pardon of Pete Rose - Cincinnati Enquirer",
+    "postId": "e675d4e45201c8cdd805d3c40bad754e421a1185af48076dd44099b6d8a1f158",
+    "title": "정청래, 대통령에겐 '베리 굿' 송영길,김민석에겐 맹공!' (261125 수요일 방송) 김용남 박진영 장성철 허재무 - 경향신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45662002492",
-    "sentAt": "2026-11-25T17:11:26.780Z"
+    "runId": "45669048816",
+    "sentAt": "2026-11-25T17:51:19.379Z"
   }
 }
