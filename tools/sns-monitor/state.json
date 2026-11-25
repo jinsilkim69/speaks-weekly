@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T01:01:17.381Z",
+  "lastCheckedAt": "2026-11-25T01:11:14.876Z",
   "seenPostIds": {
-    "6b4df843e1c8e58ac69fb47f05c619f3d77cfcfbd880d677a59e823bd01836f1": {
-      "seenAt": "2026-11-22T05:11:19.770Z",
-      "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 서프라이즈뉴스",
-      "targetName": "송영길"
-    },
-    "85afc3749e1c6a928a7dc43060cc6dd733107a2d8822030bb4c4d677cf708230": {
-      "seenAt": "2026-11-22T05:21:15.202Z",
-      "title": "[속보] 이준석 “민주당은 한 방에 무너질 것… 부끄러운 줄 알라” - 세계일보",
-      "targetName": "이준석"
-    },
-    "46c95e266248c8cbad080d70ac2790585ef6238bd61f3dd2abe6ecb9d5da064d": {
-      "seenAt": "2026-11-22T05:31:14.497Z",
-      "title": "'조희대 탄핵' 추진에 이준석 \"근조 민주당…역풍으로 한방에 무너질 것\" - 머니투데이 - 머니투데이",
-      "targetName": "이준석"
-    },
     "816366f78b4546bf67958bf2b80e5e7659639ea1657ea3104863750846ac2bc8": {
       "seenAt": "2026-11-22T05:31:15.246Z",
       "title": "조국 \"확장성 있는 당명으로\"…당명 개정 제안 - 연합뉴스TV",
@@ -2515,14 +2500,62 @@
       "seenAt": "2026-11-25T01:01:20.174Z",
       "title": "조국혁신당, 민주당에 조희대 탄핵 '12월 3일 의결' 제안 - 노컷뉴스",
       "targetName": "조국"
+    },
+    "e268949d19a3b50a9a923abebdb8a4e3cfc12e55e42d517da9a54aab764d3f05": {
+      "seenAt": "2026-11-25T01:11:15.988Z",
+      "title": "한동훈 “조희대 탄핵 인용되면 의원직 사퇴”…민주당에도 ‘의원직 걸라’ - 진일보 | 전남일보",
+      "targetName": "한동훈"
+    },
+    "cbd4b1f7b8168f617eee43d8d4132fcc26daf418afc467e8bec99b9101fe6104": {
+      "seenAt": "2026-11-25T01:11:16.598Z",
+      "title": "한동훈 “조희대 탄핵 100% 장담 서영교·박선원 의원직 걸라…인용되면 내가 사퇴” - 채널A",
+      "targetName": "한동훈"
+    },
+    "81605ae16b3e5bfaeca762d4f53f13e053bb1159192d66ec14bdb0ca359bc5dd": {
+      "seenAt": "2026-11-25T01:11:17.326Z",
+      "title": "한동훈, '조희대 탄핵' 민주당 향해 \"의원직 걸자\" 제안 - 신아일보",
+      "targetName": "한동훈"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "de3d498baf6e6e7f0bd3768a2c64557aa5bfd0bbe601bc6abb38f0bc654adc30",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 \"조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 의원직 걸어라\" - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE91MGVKRm11MkdRRGxEdWY4ekdqcmtFMjgxaVhLZEtaanpjQ2t3OTZEeU5MV0VDbkRrNkJfNHZ5d2R2T21RNFFLUUpzdmlzOUJTa2VnZTVybnlyU3MteVhCetIBeEFVX3lxTE1sX1lfQUNoNklQV2UwdEIzbFh4ckI2SENIenlhZkgwdFNNVEpDRFYyYlhMZmFhbC1jVVpaaVZRZGZIcjhNMnhvcDhfcUdqbVhGTUNxeG1IUjdtUjBtZXgxVk5keUE1SUk0akZUQjJXNlJKWHRLRUpmVg?oc=5\" target=\"_blank\">한동훈 \"조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 의원직 걸어라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91MGVKRm11MkdRRGxEdWY4ekdqcmtFMjgxaVhLZEtaanpjQ2t3OTZEeU5MV0VDbkRrNkJfNHZ5d2R2T21RNFFLUUpzdmlzOUJTa2VnZTVybnlyU3MteVhCetIBeEFVX3lxTE1sX1lfQUNoNklQV2UwdEIzbFh4ckI2SENIenlhZkgwdFNNVEpDRFYyYlhMZmFhbC1jVVpaaVZRZGZIcjhNMnhvcDhfcUdqbVhGTUNxeG1IUjdtUjBtZXgxVk5keUE1SUk0akZUQjJXNlJKWHRLRUpmVg?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:00:41 GMT",
+        "source": "뉴시스",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "074e8bf26cea5ce34d90cddcf285892f691d566f7cc2882085cf8fa96579c635",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE80elVNNWVSNlBzQTZmOHhGbUVuUEg2Qml4dkFjMDhldUFiMW5vb1Z6RmxKQlJTMXlPRWZMcmFpdXJ6UHB4Z21VRElXNEphcGxLTVh1TGJkaUFTcF9KQWlLa9IBYEFVX3lxTE80elVNNWVSNlBzQTZmOHhGbUVuUEg2Qml4dkFjMDhldUFiMW5vb1Z6RmxKQlJTMXlPRWZMcmFpdXJ6UHB4Z21VRElXNEphcGxLTVh1TGJkaUFTcF9KQWlLaw?oc=5\" target=\"_blank\">[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80elVNNWVSNlBzQTZmOHhGbUVuUEg2Qml4dkFjMDhldUFiMW5vb1Z6RmxKQlJTMXlPRWZMcmFpdXJ6UHB4Z21VRElXNEphcGxLTVh1TGJkaUFTcF9KQWlLa9IBYEFVX3lxTE80elVNNWVSNlBzQTZmOHhGbUVuUEg2Qml4dkFjMDhldUFiMW5vb1Z6RmxKQlJTMXlPRWZMcmFpdXJ6UHB4Z21VRElXNEphcGxLTVh1TGJkaUFTcF9KQWlLaw?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 00:02:54 GMT",
+        "source": "연합뉴스",
+        "ageHours": 1.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "a6974a085ef2499520a534178ebce73ba795aba0ab904f70566bac4e04928d4e",
-    "title": "조국혁신당, 민주당에 조희대 탄핵 '12월 3일 의결' 제안 - 노컷뉴스",
+    "postId": "81605ae16b3e5bfaeca762d4f53f13e053bb1159192d66ec14bdb0ca359bc5dd",
+    "title": "한동훈, '조희대 탄핵' 민주당 향해 \"의원직 걸자\" 제안 - 신아일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45522532965",
-    "sentAt": "2026-11-25T01:01:19.863Z"
+    "runId": "45523810213",
+    "sentAt": "2026-11-25T01:11:16.913Z"
   }
 }

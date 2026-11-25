@@ -5695,3 +5695,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “조희대 탄핵 인용되면 의원직 사퇴”…민주당에도 ‘의원직 걸라’ - 진일보 | 전남일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “조희대 탄핵 인용되면 의원직 사퇴”…민주당에도 ‘의원직 걸라’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE84ZEttWDR5aXZqYm0xVmVuWmswcWNCc1ZWdVhHV1JXRUxtb0puY21lMnU0UTVYSFFlR1N6Mno1WTAwclh1eU4wZ2ZQUWo3WXFmY3k4ZHlTYzlDQW1lbkkxem1aTWVjR3Y0cjRLTE5aYw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “조희대 탄핵 100% 장담 서영교·박선원 의원직 걸라…인용되면 내가 사퇴” - 채널A
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “조희대 탄핵 100% 장담 서영교·박선원 의원직 걸라…인용되면 내가 사퇴”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE93ckk3b25yLVlXQjE3RHlzd0xrYlhKTzgtcUlEVTY0NXRMbC1HNTB3d3ExcHRFOHZieXZzNkZuUzlrY0Y3NTIxbkZVVVJLUVdKdlVmVVMzNTBnckRsWGfSAWNBVV95cUxPd3o0Q0FIa1BSdmJwcGlHRVB6bHZxN3EzRUhIb2N5WkJUdm9GVFJsbHd4SEVZbGxWYTAzV1FuRVh4bWlQLWxLZFZ2T3RSMWtqbXpudEhlRi1QNE40Tkx4cGZZd0E?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, '조희대 탄핵' 민주당 향해 "의원직 걸자" 제안 - 신아일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, '조희대 탄핵' 민주당 향해 "의원직 걸자" 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE5xaElUeEp2SUpWRTBQX2p6dmFYUHMya0tyelpvWC1tM29RZFZ0RW1SWms5TFFhcVdNbHk0YURfX3dmdFVLdXBNQzBmSDJpVWdRQjBNRWVuaGN5eU9RQkpXakxnb0UxX0Nna20yeXNBMzg?oc=5)
+
+---
+
