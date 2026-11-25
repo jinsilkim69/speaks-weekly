@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T03:11:14.197Z",
+  "lastCheckedAt": "2026-11-25T03:21:16.728Z",
   "seenPostIds": {
-    "813a0b7fe6afc4ef51905128b3ef841fd4421559155c05192888475ad999d3ed": {
-      "seenAt": "2026-11-22T09:21:15.254Z",
-      "title": "이재명 대통령, AI 악용한 시험 부정행위 근절 위한 제도 정비 지시 - 데일리저널",
-      "targetName": "이재명"
-    },
-    "54456bac60707d3075459db3edaa59016601c105ae0e4a7f8923ff7e862b7786": {
-      "seenAt": "2026-11-22T09:21:15.969Z",
-      "title": "국민의힘, 이재명 대통령 논란 거론하며 \"부처 행세 말고 민생 보라\" 비판 - 한국사회복지저널",
-      "targetName": "이재명"
-    },
-    "3c574801f5333f99dd0b3ad635e582a389faa9438ce815bf1e0aac50d82d34d3": {
-      "seenAt": "2026-11-22T09:21:16.696Z",
-      "title": "이준석, '조희대 탄핵' 추진에…\"근조 민주당, 한방에 무너질 것\" - 뉴시스",
-      "targetName": "이준석"
-    },
     "b9bdb41099a9adff22d6fff185def44e263d7cc8ff76a461e1cf281704b3c1bb": {
       "seenAt": "2026-11-22T09:41:17.597Z",
       "title": "김민석 취임 100일 앞두고 반전 없었다…흔들리는 리더십 - 자유일보",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T03:11:16.603Z",
       "title": "한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문",
       "targetName": "한동훈"
+    },
+    "bc86abb097c94ed11d9e47a663c08b21cbc46dfb88d5e2e55e68715d3c7cc711": {
+      "seenAt": "2026-11-25T03:21:18.399Z",
+      "title": "송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 미주중앙일보",
+      "targetName": "정청래"
+    },
+    "107242f49d11d2a2e816dd9212748b86df53fe6c8a62198dab6264eeb7a21759": {
+      "seenAt": "2026-11-25T03:21:19.139Z",
+      "title": "송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 중앙일보",
+      "targetName": "송영길"
+    },
+    "e5903acf5a8ed0391d46b8a2bc9bfb1f5f599a6a7e9a9d3010179437bba63b04": {
+      "seenAt": "2026-11-25T03:21:19.890Z",
+      "title": "[기획특집_세계를 움직이는 정상들이 뉴스보다 먼저 띄운 말, \"아침을 여는 SNS 소통 메시지\"④] 이재명 “역사 교정 계속”, 모디는 갠지스 찬가, 유엔은 AI 안전, 짐바브웨는 여성폭력 근절 촉구 - STN SPORTS",
+      "targetName": "이재명"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "bc86abb097c94ed11d9e47a663c08b21cbc46dfb88d5e2e55e68715d3c7cc711",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 미주중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Y0xNN2Zaa1pnczFhUi1GSXJqUGRDczQxZ2YxQWJ1RFMtY3FDU2hvaXFYdXgyS1FUTXJkSHZOZWN4VXZwUzk5U3JJc0lMMWttMGZjakJxUDFsakJvV2c1cldB?oc=5\" target=\"_blank\">송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미주중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Y0xNN2Zaa1pnczFhUi1GSXJqUGRDczQxZ2YxQWJ1RFMtY3FDU2hvaXFYdXgyS1FUTXJkSHZOZWN4VXZwUzk5U3JJc0lMMWttMGZjakJxUDFsakJvV2c1cldB?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:16:00 GMT",
-        "source": "미주중앙일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "107242f49d11d2a2e816dd9212748b86df53fe6c8a62198dab6264eeb7a21759",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oVXNKeDVOcWMxN245cGhCU010Y0FKWWVkZGYxMWpsMmtTUFpCSkt6a0NiZnhKaUJIMDZUajhQdGVQR3B2RkxhRE44ZUFsWmdQU0NueE1R?oc=5\" target=\"_blank\">송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oVXNKeDVOcWMxN245cGhCU010Y0FKWWVkZGYxMWpsMmtTUFpCSkt6a0NiZnhKaUJIMDZUajhQdGVQR3B2RkxhRE44ZUFsWmdQU0NueE1R?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:16:23 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e5903acf5a8ed0391d46b8a2bc9bfb1f5f599a6a7e9a9d3010179437bba63b04",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "[기획특집_세계를 움직이는 정상들이 뉴스보다 먼저 띄운 말, \"아침을 여는 SNS 소통 메시지\"④] 이재명 “역사 교정 계속”, 모디는 갠지스 찬가, 유엔은 AI 안전, 짐바브웨는 여성폭력 근절 촉구 - STN SPORTS",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1UMFRpYmllR24zMkNZeDdKU2dWQ01qRDdXM0lsR0M3VURIMmFXWGRPNVE1dV8tWkJGN2pibS1KTkxXS1QyN2pvQVQ4WVVqd2RrTUxFUXpYWUplYTVlcDFXenJocXBGcVpwak05UkU1WQ?oc=5\" target=\"_blank\">[기획특집_세계를 움직이는 정상들이 뉴스보다 먼저 띄운 말, \"아침을 여는 SNS 소통 메시지\"④] 이재명 “역사 교정 계속”, 모디는 갠지스 찬가, 유엔은 AI 안전, 짐바브웨는 여성폭력 근절 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STN SPORTS</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UMFRpYmllR24zMkNZeDdKU2dWQ01qRDdXM0lsR0M3VURIMmFXWGRPNVE1dV8tWkJGN2pibS1KTkxXS1QyN2pvQVQ4WVVqd2RrTUxFUXpYWUplYTVlcDFXenJocXBGcVpwak05UkU1WQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:30:54 GMT",
-        "source": "STN SPORTS",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "36c63a90503387ebf9b68f83b758ddea079927e84a63559988a84ed1bc8cfd26",
@@ -2856,10 +2808,10 @@
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "52412714706350ae5c2ff2df7ae52be04b71eed2f8440c7014e7429140b06da1",
-    "title": "한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문",
+    "postId": "e5903acf5a8ed0391d46b8a2bc9bfb1f5f599a6a7e9a9d3010179437bba63b04",
+    "title": "[기획특집_세계를 움직이는 정상들이 뉴스보다 먼저 띄운 말, \"아침을 여는 SNS 소통 메시지\"④] 이재명 “역사 교정 계속”, 모디는 갠지스 찬가, 유엔은 AI 안전, 짐바브웨는 여성폭력 근절 촉구 - STN SPORTS",
     "bot": "jongsuk_pol_bot",
-    "runId": "45538177514",
-    "sentAt": "2026-11-25T03:11:16.306Z"
+    "runId": "45539356936",
+    "sentAt": "2026-11-25T03:21:19.528Z"
   }
 }

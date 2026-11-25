@@ -6202,3 +6202,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 미주중앙일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Y0xNN2Zaa1pnczFhUi1GSXJqUGRDczQxZ2YxQWJ1RFMtY3FDU2hvaXFYdXgyS1FUTXJkSHZOZWN4VXZwUzk5U3JJc0lMMWttMGZjakJxUDFsakJvV2c1cldB?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 중앙일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oVXNKeDVOcWMxN245cGhCU010Y0FKWWVkZGYxMWpsMmtTUFpCSkt6a0NiZnhKaUJIMDZUajhQdGVQR3B2RkxhRE44ZUFsWmdQU0NueE1R?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [기획특집_세계를 움직이는 정상들이 뉴스보다 먼저 띄운 말, "아침을 여는 SNS 소통 메시지"④] 이재명 “역사 교정 계속”, 모디는 갠지스 찬가, 유엔은 AI 안전, 짐바브웨는 여성폭력 근절 촉구 - STN SPORTS
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 “역사 교정 계속”, 모디는 갠지스 찬가, 유엔은 AI 안전, 짐바브웨는 여성폭력 근절 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1UMFRpYmllR24zMkNZeDdKU2dWQ01qRDdXM0lsR0M3VURIMmFXWGRPNVE1dV8tWkJGN2pibS1KTkxXS1QyN2pvQVQ4WVVqd2RrTUxFUXpYWUplYTVlcDFXenJocXBGcVpwak05UkU1WQ?oc=5)
+
+---
+
