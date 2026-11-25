@@ -7684,3 +7684,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 2차 공공기관 이전 부지 활용해 공공임대주택 공급 제안 - 한국사회복지저널
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 2차 공공기관 이전 부지 활용해 공공임대주택 공급 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE4xS3RKRDBnQzZFZGdoanRFZ082UkdCN2VUdENXd19KU3k4LTdJVlZKYlpyeDdlSEtiNHd3SXd2NXFGcVBGckhLYl9OZmRkN3NtUFJRQ3VOdmYwWW1XcU1rVDhWSEhPRGRSbDA0?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says he 'will not sign' bipartisan housing bill, but doesn't threaten veto either - ABC News - Breaking News, Latest News and Videos
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says he 'will not sign' bipartisan housing bill, but doesn't threaten veto either
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinAFBVV95cUxQa0tLaEhwanhIY0M1RnVjRi1kRS01T25YUU1iZjBQQnpjdXB3ZFJRa21fc3VMelZHU3BLUjByQzF1LTYySS1rUnc4cFlsSWFvai16ZC1wQXh4N2RONXQ3US1zWk9pN0UzMmYzeTlzRElpZXNNX3lfTml1bE1lWmQ2VWpMWDlfR0M1aGNXcEE0V2VoenRZQnRpX2dUNjjSAaIBQVVfeXFMUC1HdU9CeWNKeVUya0J5YnphcWltYVJNYWdrNDhqMkMtTnNSeDh6bHlRQmo5c1ZadnJmWUhweWJwdjhTTW5iNmlxeUFBZk5KZ3JNWUJoamw1TV8tM2VzLW96V00zMGhQeVJ3UHpDQWZPM1lWUU03ZmZVNjZfOVNGQkM2N2ZBOEI1R2FmenlrM3RQZlpKd0dCSzEycHF3UndMWlBR?oc=5)
+
+---
+

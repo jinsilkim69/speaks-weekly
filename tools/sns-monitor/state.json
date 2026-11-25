@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T10:21:14.967Z",
+  "lastCheckedAt": "2026-11-25T10:31:15.262Z",
   "seenPostIds": {
-    "580c3a3939bd6521be094f392ae1251585b1602d8767275d6c0713819b4258e5": {
-      "seenAt": "2026-11-23T06:01:17.555Z",
-      "title": "Donald Trump Finds Bizarre New Scapegoat for His Mounting Woes - The Daily Beast",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "c515a315cd22f36ac77cb37bfab47895d1f123c75bd5129dd0110425b58d0a97": {
-      "seenAt": "2026-11-23T06:01:18.307Z",
-      "title": "장동혁·한동훈 ‘적대적 공생’ 고착화… 길 잃은 보수 통합 - 서울신문",
-      "targetName": "한동훈"
-    },
-    "33be12633060ef39770db6c400427f6726dfb803ea88074bb20b57481f2fa7c6": {
-      "seenAt": "2026-11-23T06:01:19.025Z",
-      "title": "野, 사흘째 '與 조희대 탄핵' 맹공…정점식 \"민주당 '탄핵냥이'\"·한동훈 \"미쳐도 곱게 미쳐라\" - 폴리뉴스 Polinews",
-      "targetName": "한동훈"
-    },
     "40cc0c441fbb7da914eae3905cd1ff0ccae807fca5c6a10ce8df7f08be024e93": {
       "seenAt": "2026-11-23T06:11:17.576Z",
       "title": "정청래 대구 팔공산 방문 무슨일? - 매일신문",
@@ -2515,14 +2500,24 @@
       "seenAt": "2026-11-25T10:21:17.698Z",
       "title": "신장식 \"정부 청년몰 사업, 생색내기용…청년상인 지원근거 규정 구체화해야\" - 뉴시스",
       "targetName": "신장식"
+    },
+    "492f275a9f592b6de039949b97f9febaad7e346af6c3fd73c5d5fd40aa60ad95": {
+      "seenAt": "2026-11-25T10:31:16.780Z",
+      "title": "조국혁신당, 2차 공공기관 이전 부지 활용해 공공임대주택 공급 제안 - 한국사회복지저널",
+      "targetName": "조국"
+    },
+    "acdd1fc61db7222462584a2c9d91c422f74bd3810cc96cd0546fac06ff586dee": {
+      "seenAt": "2026-11-25T10:31:17.551Z",
+      "title": "Trump says he 'will not sign' bipartisan housing bill, but doesn't threaten veto either - ABC News - Breaking News, Latest News and Videos",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "013ab950170a93a4b77ef24e67603d47ee29acb8e5f37f8e6ba706c8b667decc",
-    "title": "신장식 \"정부 청년몰 사업, 생색내기용…청년상인 지원근거 규정 구체화해야\" - 뉴시스",
+    "postId": "acdd1fc61db7222462584a2c9d91c422f74bd3810cc96cd0546fac06ff586dee",
+    "title": "Trump says he 'will not sign' bipartisan housing bill, but doesn't threaten veto either - ABC News - Breaking News, Latest News and Videos",
     "bot": "jongsuk_pol_bot",
-    "runId": "45594125434",
-    "sentAt": "2026-11-25T10:21:17.308Z"
+    "runId": "45595721082",
+    "sentAt": "2026-11-25T10:31:17.207Z"
   }
 }
