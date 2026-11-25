@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T06:21:16.774Z",
+  "lastCheckedAt": "2026-11-25T06:31:14.273Z",
   "seenPostIds": {
-    "445c4ab80c9bfe5ec55a671f57c1813640b49015a073fbbf1c1fde46d27df477": {
-      "seenAt": "2026-11-23T01:41:23.004Z",
-      "title": "\"자기 밥그릇 챙기는 정청래... 일한 것이 없어\" #shorts - 오마이TV - OhmyNews",
-      "targetName": "정청래"
-    },
-    "ace7a475e71b2fda7c7ca856759681a68d89eb992c35a072192ac2681fa4ac69": {
-      "seenAt": "2026-11-23T01:41:23.808Z",
-      "title": "[포토] 천막에서 최고위원회의 주재하는 신장식 대표 - 파이낸스투데이",
-      "targetName": "신장식"
-    },
-    "5e136942baae61197f419099c7c3f2895346ae3f5c71f9cf2de1f5a86882d467": {
-      "seenAt": "2026-11-23T01:51:14.621Z",
-      "title": "\"인간 한계치 뛰어넘는 과로... 이재명 대통령 건강해야\" #shorts - 오마이TV - OhmyNews",
-      "targetName": "이재명"
-    },
     "13ecc83a55ee44ebae4f7592e89085d1cbdfd68e2b64b06ba0495592c73baf3e": {
       "seenAt": "2026-11-23T01:51:15.263Z",
       "title": "[포토] 발언하는 김민석 대표 - 아시아경제",
@@ -2515,20 +2500,51 @@
       "seenAt": "2026-11-25T06:21:19.393Z",
       "title": "이재명 대통령 “가정폭력, 피해자 원치 않아도 처벌”…법 개정 추진 - 일간투데이",
       "targetName": "이재명"
+    },
+    "58b2b0f00e3cd50205caa09d968e6091d9d6eb7179b248f8e68314d292753672": {
+      "seenAt": "2026-11-25T06:31:15.322Z",
+      "title": "의원직이 도박판 판돈? 한동훈의 황당한 '베팅 정치' - 굿모닝충청",
+      "targetName": "한동훈"
+    },
+    "7127e4b2201610bc2c844aae3a826d3c06453102aea826bcdab6282f75b48fac": {
+      "seenAt": "2026-11-25T06:31:15.957Z",
+      "title": "김민석 '조희대 탄핵 5당 연대' 공식 제안…조국혁신당은 '환영' - 신아일보",
+      "targetName": "조국"
+    },
+    "33893b6501d344148c55f78d7435f201e983389ead1c1eb6568a737e0e20cc01": {
+      "seenAt": "2026-11-25T06:31:16.566Z",
+      "title": "조국혁신당에 손 내민 김민석…“조희대 탄핵 연대 제안” - 채널A",
+      "targetName": "조국"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "58b2b0f00e3cd50205caa09d968e6091d9d6eb7179b248f8e68314d292753672",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "의원직이 도박판 판돈? 한동훈의 황당한 '베팅 정치' - 굿모닝충청",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAwaUZvRGl6bmxFMFZGOEliMldZbkpSRFR0ZUtSZDg0bnp5V19pSzZYZzFuNVVsc2I3X2l3ZnlpR29nRWVDdHZPbEFOSzZxNEVOalhsdVAyMkhKRmFmbTNTRDZvSWxvdEVGcmpnLWNmM2o3UQ?oc=5\" target=\"_blank\">의원직이 도박판 판돈? 한동훈의 황당한 '베팅 정치'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">굿모닝충청</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwaUZvRGl6bmxFMFZGOEliMldZbkpSRFR0ZUtSZDg0bnp5V19pSzZYZzFuNVVsc2I3X2l3ZnlpR29nRWVDdHZPbEFOSzZxNEVOalhsdVAyMkhKRmFmbTNTRDZvSWxvdEVGcmpnLWNmM2o3UQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 06:13:46 GMT",
-        "source": "굿모닝충청",
+        "id": "c743728ed962d3d4cd9f102a95676a41288bf13bb4c9f3c899fb190684fafd1a",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 '잘하고 있다' 14.1%... 조희대 탄핵 '반대' 48.2% - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ycUxsMmNpY2dzYzliallHUXBHam1Kckd2Wi1QVG1fTkhnb3ZoU2VwNy0zVWJvOHo0QVVlLVdBTXptZWpNVHppUDJGS3pnWkZfRnZNaS10RUJkX0RSeEJhSTBmT1pLNEJIYXp0SEUwMXpac2hPdk5Z?oc=5\" target=\"_blank\">김민석 '잘하고 있다' 14.1%... 조희대 탄핵 '반대' 48.2%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ycUxsMmNpY2dzYzliallHUXBHam1Kckd2Wi1QVG1fTkhnb3ZoU2VwNy0zVWJvOHo0QVVlLVdBTXptZWpNVHppUDJGS3pnWkZfRnZNaS10RUJkX0RSeEJhSTBmT1pLNEJIYXp0SEUwMXpac2hPdk5Z?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 03:43:00 GMT",
+        "source": "OhmyNews",
+        "ageHours": 2.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "6d14ead906a44869302742312c14936c803e40f6a92ac2c9569869d0205d9b5c",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "[속보] “입조심하라” 정청래, 송영길 공개 비판…李대통령과 만찬 발언 발단 - 경기일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4ZnctN1JhUzRJYWoyVHZRX0x1enpvTjh4US16eVdFLXgwa1pFd2NZcVpFMDZ1aHlqblhZT2RrNmtNbFFjY3dQdFRkSTJXSWx2VHAwcHFub3NMS2M?oc=5\" target=\"_blank\">[속보] “입조심하라” 정청래, 송영길 공개 비판…李대통령과 만찬 발언 발단</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4ZnctN1JhUzRJYWoyVHZRX0x1enpvTjh4US16eVdFLXgwa1pFd2NZcVpFMDZ1aHlqblhZT2RrNmtNbFFjY3dQdFRkSTJXSWx2VHAwcHFub3NMS2M?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 06:25:31 GMT",
+        "source": "경기일보",
         "ageHours": 0.1
       },
       "delivered": [],
@@ -2536,42 +2552,26 @@
     },
     {
       "post": {
-        "id": "7127e4b2201610bc2c844aae3a826d3c06453102aea826bcdab6282f75b48fac",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "김민석 '조희대 탄핵 5당 연대' 공식 제안…조국혁신당은 '환영' - 신아일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1OLU1mdE9rVWtablJucDFYTmxLVjJMcW5FUEtxVlE1WGNGdENMNDcyWW1pNkUybjlYMkE5ckZ3enN2TElvTGZjakEwazlYVlBOamtfNlJSVlNITHJMYy1rSHBvcDlmeTdMVGV5WXQ4NmY?oc=5\" target=\"_blank\">김민석 '조희대 탄핵 5당 연대' 공식 제안…조국혁신당은 '환영'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">신아일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OLU1mdE9rVWtablJucDFYTmxLVjJMcW5FUEtxVlE1WGNGdENMNDcyWW1pNkUybjlYMkE5ckZ3enN2TElvTGZjakEwazlYVlBOamtfNlJSVlNITHJMYy1rSHBvcDlmeTdMVGV5WXQ4NmY?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 06:14:57 GMT",
-        "source": "신아일보",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "33893b6501d344148c55f78d7435f201e983389ead1c1eb6568a737e0e20cc01",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당에 손 내민 김민석…“조희대 탄핵 연대 제안” - 채널A",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qbnpRRFFKYWtYNXZhTWhoUGk2ZmFiS2V6Rnl1bjBaRjE0OWlHRzRnNURaLWZtcGhvWVlMM1dhN3RjZGZtaEhNRUhpS3NPNXRucXJUc3JqYWFlQkNoTHF6TFFDMNIBY0FVX3lxTE1qbnpRRFFKYWtYNXZhTWhoUGk2ZmFiS2V6Rnl1bjBaRjE0OWlHRzRnNURaLWZtcGhvWVlMM1dhN3RjZGZtaEhNRUhpS3NPNXRucXJUc3JqYWFlQkNoTHF6TFFDMA?oc=5\" target=\"_blank\">조국혁신당에 손 내민 김민석…“조희대 탄핵 연대 제안”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qbnpRRFFKYWtYNXZhTWhoUGk2ZmFiS2V6Rnl1bjBaRjE0OWlHRzRnNURaLWZtcGhvWVlMM1dhN3RjZGZtaEhNRUhpS3NPNXRucXJUc3JqYWFlQkNoTHF6TFFDMNIBY0FVX3lxTE1qbnpRRFFKYWtYNXZhTWhoUGk2ZmFiS2V6Rnl1bjBaRjE0OWlHRzRnNURaLWZtcGhvWVlMM1dhN3RjZGZtaEhNRUhpS3NPNXRucXJUc3JqYWFlQkNoTHF6TFFDMA?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 03:38:00 GMT",
-        "source": "채널A",
-        "ageHours": 2.7
+        "id": "9c5b62e87ddabef23feb3acc01d31ebe8c6ee6a640f46d97fac24b053b54963e",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "갈 길 먼 與 ‘내분종식’··· 송영길 “억울한 점 다 들어줘” 정청래 “입조심하라” - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfUlA1b2ZwdlJ3aVNJcEhSckpDWGFtMzFMdDhyamJoanJHX2ZPZWt6d1NSeDRrWkJvQVF3aFdZcWwxZkhiN1YzTGs5QTRYYmgtanF4anM4aVXSAVRBVV95cUxOVGhnWFBQVDcwMU81OG8tU09XWDhqakEyVkhfMU40VHhQU0dLT2VJVkp6MGxHQWgta054bDRyelcwNE5vQjZhaENHV3FEMndHN3FYSzA?oc=5\" target=\"_blank\">갈 길 먼 與 ‘내분종식’··· 송영길 “억울한 점 다 들어줘” 정청래 “입조심하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfUlA1b2ZwdlJ3aVNJcEhSckpDWGFtMzFMdDhyamJoanJHX2ZPZWt6d1NSeDRrWkJvQVF3aFdZcWwxZkhiN1YzTGs5QTRYYmgtanF4anM4aVXSAVRBVV95cUxOVGhnWFBQVDcwMU81OG8tU09XWDhqakEyVkhfMU40VHhQU0dLT2VJVkp6MGxHQWgta054bDRyelcwNE5vQjZhaENHV3FEMndHN3FYSzA?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 04:14:45 GMT",
+        "source": "세계일보",
+        "ageHours": 2.3
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "b0e93e1347e18090da86180c302971e9e6bf2c870a13cd238d3e333f5b92f0e5",
-    "title": "이재명 대통령 “가정폭력, 피해자 원치 않아도 처벌”…법 개정 추진 - 일간투데이",
+    "postId": "33893b6501d344148c55f78d7435f201e983389ead1c1eb6568a737e0e20cc01",
+    "title": "조국혁신당에 손 내민 김민석…“조희대 탄핵 연대 제안” - 채널A",
     "bot": "jongsuk_pol_bot",
-    "runId": "45559936369",
-    "sentAt": "2026-11-25T06:21:19.029Z"
+    "runId": "45561178158",
+    "sentAt": "2026-11-25T06:31:16.256Z"
   }
 }
