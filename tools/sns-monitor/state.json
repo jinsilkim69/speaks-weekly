@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T05:31:14.243Z",
+  "lastCheckedAt": "2026-11-25T05:41:15.760Z",
   "seenPostIds": {
-    "3cac737486d869221af2bb20a0b8f94a064aca195a41f80e9e794439bef4172e": {
-      "seenAt": "2026-11-22T21:11:14.563Z",
-      "title": "최민희 징계 앞두고 추미애 등판에 정청래도 움직였다…‘깃발’ 든 진짜 이유 (인물비상구 20261122 방송 최민희와 계파갈등 편) - 경향신문",
-      "targetName": "정청래"
-    },
-    "9c866243b99c9e265d80e9e763d8b18365e90a48c02f23d868a805827899f409": {
-      "seenAt": "2026-11-22T21:21:14.917Z",
-      "title": "취임 100일 앞둔 김민석…민생 외쳤지만 당내 갈등·지지율 저조 고심 - 뉴시스",
-      "targetName": "김민석"
-    },
-    "b1403563e55bdb1be3ca341c1687e55cbe307829e5e29585c480bea51b93c5df": {
-      "seenAt": "2026-11-22T22:11:20.992Z",
-      "title": "국민의힘, 이재명 대통령 논란 거론하며 \"부처 행세 말고 민생 보라\" 비판 - 한국사회복지저널",
-      "targetName": "이재명"
-    },
     "9d86a2cd8bb0dac1a228e0c3869776617c740f8ada6d15a934ddda58caacab39": {
       "seenAt": "2026-11-22T22:21:15.181Z",
       "title": "송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의 - 포커스인천",
@@ -2515,47 +2500,46 @@
       "seenAt": "2026-11-25T05:31:16.608Z",
       "title": "5·18 진압·삼청교육 경찰 102명 포상 취소, 이재명 대통령 \"마지막 한 명까지 역사 교정\" 🔍 - 뉴닉",
       "targetName": "이재명"
+    },
+    "4f26a9f75570a0d43d9fece95f7f821eb05aede95b1589f9b6a397f375f2590c": {
+      "seenAt": "2026-11-25T05:41:16.959Z",
+      "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" - KB Think",
+      "targetName": "정청래"
+    },
+    "92baa0a183f604f670c7713e7e231f54cb4421fe4b42699dedd473438c9757de": {
+      "seenAt": "2026-11-25T05:41:17.683Z",
+      "title": "송영길 \"이 대통령, 정청래 억울함 4시간 들어줘\"…정청래 \"입조심\" - 연합뉴스TV",
+      "targetName": "송영길"
+    },
+    "2f206702f3ed453f3fb6839f36bd2c0b3e7e3e3fb116796ba91ac86574d35300": {
+      "seenAt": "2026-11-25T05:41:18.342Z",
+      "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
+      "targetName": "정청래"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "4f26a9f75570a0d43d9fece95f7f821eb05aede95b1589f9b6a397f375f2590c",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" - KB Think",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBNTDExTHhHeHJYVHZmWFpWMWZyNEVPclJjUGstQTdkd0ZTalZDejR6V3NQQW5mazZ1NG5rOEVNOFMzU3VOWGJyZ0MwYUJTUThRM2o5dDRzeVRTR1NkcE5td3NGZTZ1TnQ3cy1FazViNDZ3Zw?oc=5\" target=\"_blank\">송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KB Think</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNTDExTHhHeHJYVHZmWFpWMWZyNEVPclJjUGstQTdkd0ZTalZDejR6V3NQQW5mazZ1NG5rOEVNOFMzU3VOWGJyZ0MwYUJTUThRM2o5dDRzeVRTR1NkcE5td3NGZTZ1TnQ3cy1FazViNDZ3Zw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 04:02:55 GMT",
-        "source": "KB Think",
-        "ageHours": 1.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "92baa0a183f604f670c7713e7e231f54cb4421fe4b42699dedd473438c9757de",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 \"이 대통령, 정청래 억울함 4시간 들어줘\"…정청래 \"입조심\" - 연합뉴스TV",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wOWlzYlFLbV9UNlU0Nk5LNGxvSlFPUlIyU2JaTnlrZWNTN0wzVGNYdnBZUUVJZms0Ti1EbnV5WGVfMndEd1dvYTBHWTV2cnpQenZhQ3pNTU4zbUdJeTh2dmxHMzNKcHM?oc=5\" target=\"_blank\">송영길 \"이 대통령, 정청래 억울함 4시간 들어줘\"…정청래 \"입조심\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wOWlzYlFLbV9UNlU0Nk5LNGxvSlFPUlIyU2JaTnlrZWNTN0wzVGNYdnBZUUVJZms0Ti1EbnV5WGVfMndEd1dvYTBHWTV2cnpQenZhQ3pNTU4zbUdJeTh2dmxHMzNKcHM?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 05:22:00 GMT",
-        "source": "연합뉴스TV",
-        "ageHours": 0.2
+        "id": "e4ca19e719f03bc81e57cd51aa848dee6271a8dddb0ff6267b4ff05ec1350348",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당에 손 내민 김민석…“조희대 탄핵 연대 제안” - 채널A",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpcnhiRl9Fd2FJb1drdC1LV1BmWjBSRHZveXRhWTlCaDUtNEVLbmt2V09XM3l6VkJIUHlCZUV2NmJ1bW56dUQ4RzhnSDdERlhmejdnLVZQNE40NVludEHSAWNBVV95cUxNam56UURRSmFrWDV2YU1oaFBpNmZhYktlekZ5dW4wWkYxNDlpR0c0ZzVEWi1mbXBob1lZTDNXYTd0Y2RmbWhITUVIaUtzTzV0bnFyVHNyamFhZUJDaExxekxRQzA?oc=5\" target=\"_blank\">조국혁신당에 손 내민 김민석…“조희대 탄핵 연대 제안”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpcnhiRl9Fd2FJb1drdC1LV1BmWjBSRHZveXRhWTlCaDUtNEVLbmt2V09XM3l6VkJIUHlCZUV2NmJ1bW56dUQ4RzhnSDdERlhmejdnLVZQNE40NVludEHSAWNBVV95cUxNam56UURRSmFrWDV2YU1oaFBpNmZhYktlekZ5dW4wWkYxNDlpR0c0ZzVEWi1mbXBob1lZTDNXYTd0Y2RmbWhITUVIaUtzTzV0bnFyVHNyamFhZUJDaExxekxRQzA?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 03:38:00 GMT",
+        "source": "채널A",
+        "ageHours": 2.1
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "8c18e7965192b6ff2654d2c41ae23a7cd6090defd070f94076654c00a337e3db",
-    "title": "5·18 진압·삼청교육 경찰 102명 포상 취소, 이재명 대통령 \"마지막 한 명까지 역사 교정\" 🔍 - 뉴닉",
+    "postId": "2f206702f3ed453f3fb6839f36bd2c0b3e7e3e3fb116796ba91ac86574d35300",
+    "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45554115999",
-    "sentAt": "2026-11-25T05:31:16.287Z"
+    "runId": "45555267102",
+    "sentAt": "2026-11-25T05:41:18.006Z"
   }
 }
