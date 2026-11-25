@@ -8022,3 +8022,16 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “민주당 180석인데, 존재감 왜 국민의힘 보다 훨씬 떨어나” - 주간경향
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “민주당 180석인데, 존재감 왜 국민의힘 보다 훨씬 떨어나”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VT2ZfUEg3SFBGWEtQZ0V3Y1diWVB0Mmp2Mm9NTTluaWxNOEs2em1GaHVCNEhTOXhnaUlxYVRrZmJIM2ItMGlVTDhvUHVLejB3TURNR2dyWElJMF9UV0E?oc=5)
+
+---
+
