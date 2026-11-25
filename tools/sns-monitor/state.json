@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T15:21:15.472Z",
+  "lastCheckedAt": "2026-11-25T15:31:15.976Z",
   "seenPostIds": {
-    "d6f6de2b7297420780b1d086bf54888193125b64b7122d33e34c220597e82f5a": {
-      "seenAt": "2026-11-23T07:41:19.347Z",
-      "title": "조국혁신당, '제정당 조희대 탄핵추진단' 제안…\"즉각 직무정지해야\" - mnews.sbs.co.kr",
-      "targetName": "조국"
-    },
     "cae117e99a3b5aad3ef06fe579aadfeaba72f4aef23b49549dba5c41184558f3": {
       "seenAt": "2026-11-23T07:41:19.941Z",
       "title": "“윤석열 구형일 맞춰 한동훈 제명···강성지지층 노린 십자가 처형 전략” - 주간경향",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-25T15:21:16.896Z",
       "title": "이재명 대통령 “재정 부족해 공적주택 공급 못하는 일 없어야” 공급 독려 - 신문고뉴스",
       "targetName": "이재명"
+    },
+    "e673e0bf67ed4f3ce07f28af1828edd918729f819a8b70bb07243c7d0fde9df7": {
+      "seenAt": "2026-11-25T15:31:17.699Z",
+      "title": "Trump posts picture of the sign of the road named after him - Bradenton Herald",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "7d9db5f1a53fef07256adab0b64df793487109ecae4b9a6331187349633e083a",
-    "title": "이재명 대통령 “재정 부족해 공적주택 공급 못하는 일 없어야” 공급 독려 - 신문고뉴스",
+    "postId": "e673e0bf67ed4f3ce07f28af1828edd918729f819a8b70bb07243c7d0fde9df7",
+    "title": "Trump posts picture of the sign of the road named after him - Bradenton Herald",
     "bot": "jongsuk_pol_bot",
-    "runId": "45644147109",
-    "sentAt": "2026-11-25T15:21:16.231Z"
+    "runId": "45646027503",
+    "sentAt": "2026-11-25T15:31:16.873Z"
   }
 }

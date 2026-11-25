@@ -48,5 +48,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e673e0bf67ed4f3ce07f28af1828edd918729f819a8b70bb07243c7d0fde9df7",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump posts picture of the sign of the road named after him - Bradenton Herald",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE16Z2pXUy1JUTlWblkzanVPeXRXMEsxM25hSGtESGxQVlYwRmpvNlBvWEdzSE4yQnZxNGxLV0gtZExQN0dZZHV5eWxRT0lTOHRaRWtHZnRFQmlLNFV2SHdORVp4Mk5MdkpZck1CWExYWHhIdUtp?oc=5\" target=\"_blank\">Trump posts picture of the sign of the road named after him</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bradenton Herald</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16Z2pXUy1JUTlWblkzanVPeXRXMEsxM25hSGtESGxQVlYwRmpvNlBvWEdzSE4yQnZxNGxLV0gtZExQN0dZZHV5eWxRT0lTOHRaRWtHZnRFQmlLNFV2SHdORVp4Mk5MdkpZck1CWExYWHhIdUtp?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 14:56:00 GMT",
+    "source": "Bradenton Herald",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump posts picture of the sign of the road named after him",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
