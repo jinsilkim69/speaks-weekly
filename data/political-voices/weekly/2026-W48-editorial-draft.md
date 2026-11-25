@@ -5513,3 +5513,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 서영교에 "의원직 걸어라…조희대 탄핵 인용되면 제가 사퇴" - 매일신문
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 서영교에 "의원직 걸어라…조희대 탄핵 인용되면 제가 사퇴"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HdTFyb0hMdXFtQmV2UTFWSV9rNHhQQ0tXZkU3MG83RHJTUzJJSE9TQ0RXQ2hXSU50dDdxMDdXdzRfZVg4bG5udFg0dXA3Z2REdGZxMnVTd3JQREFUdUpEdEJn?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 판결 불복 없다지만…與 토론회서 송영길 “판결도 탄핵사유로” - 미주중앙일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 판결 불복 없다지만…與 토론회서 송영길 “판결도 탄핵사유로”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFByajFvbW1qdHRINlhGS3VkSjNOaWpoYV9uTnpDU1VaNnJWSGZtU3RMRlJYekxaM1pESkJKU2hqZE5OcTNla3VQVk9BbGhQODhHWmc0akhfaHBrWXljVjAtVmtR?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 독립에 청춘 바친 신용걸 선생 재조명
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDZDVWZWxOR1Y3ZzhLMDM2Q3RLODFVb3cwQjQySXZwTDY2OTBCb1BKOTNNei1YV3BvdDB6RWFZSFo1Q3NTN1Rra2F2MVY1b2Y3UXBwYUlxaEpDV1HSAWBBVV95cUxPNHpVTTVlUjZQc0E2Zjh4Rm1FblBINkJpeHZBYzA4ZXVBYjFub29WekZsSkJSUzF5T0VmTHJhaXVyelBweGdtVURJVzRKYXBsS01YdUxiZGlBU3BfSkFpS2s?oc=5)
+
+---
+
