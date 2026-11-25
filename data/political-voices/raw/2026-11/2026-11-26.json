@@ -425,5 +425,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b2eb9220e135cd4c785c3827874ebb4035ce68d81366fbdff9181998e0f774b2",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump blasts MAGA influencers who have split with him over Iran - ABC News - Breaking News, Latest News and Videos",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWhVU3VuU01YSXZEaWt2YXVkT3BmZ05vU2p1SGdwb1JOSzU2bS1oU1Y4SjBfUTE4RkdVQ0Vzb2hHRmdMbXpiQms3UzJ5VXdIa3BCaXIzbU0zR0JheG5DZUxvLWpKVlI2R3diR21xZmlHRzM3dldhaTkwN1VXRV8yOXdWRmhJNjM4Y0RVaXhPM3JMd9IBlwFBVV95cUxQWlFkY1lrcnpvVk5MM2FXY21Wa0hLRFplcjktQU1jTW1Td2E3SjRCS3NGZ2dCLXgxeVhYQmVmcURrZFBuekhySmxqM2V1eVl4bm9GemJOQm9fYzhSUDlYMFNKdXBWZU1VbWplQ05xNGlNal82YmV5UXJGRUIwTFAwUUJXRllTRERMdDNNVHJVNnNlWFYxUEE0?oc=5\" target=\"_blank\">Trump blasts MAGA influencers who have split with him over Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWhVU3VuU01YSXZEaWt2YXVkT3BmZ05vU2p1SGdwb1JOSzU2bS1oU1Y4SjBfUTE4RkdVQ0Vzb2hHRmdMbXpiQms3UzJ5VXdIa3BCaXIzbU0zR0JheG5DZUxvLWpKVlI2R3diR21xZmlHRzM3dldhaTkwN1VXRV8yOXdWRmhJNjM4Y0RVaXhPM3JMd9IBlwFBVV95cUxQWlFkY1lrcnpvVk5MM2FXY21Wa0hLRFplcjktQU1jTW1Td2E3SjRCS3NGZ2dCLXgxeVhYQmVmcURrZFBuekhySmxqM2V1eVl4bm9GemJOQm9fYzhSUDlYMFNKdXBWZU1VbWplQ05xNGlNal82YmV5UXJGRUIwTFAwUUJXRllTRERMdDNNVHJVNnNlWFYxUEE0?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 12:32:14 GMT",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "ageHours": 9.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump blasts MAGA influencers who have split with him over Iran",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
