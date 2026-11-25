@@ -6046,3 +6046,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래, 송영길에 공개 경고…“대통령과 대화 내용 발설 말라” - 진일보 | 전남일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 송영길에 공개 경고…“대통령과 대화 내용 발설 말라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBSZGdxLTlpMTZiM2hhVlF5b3Q3S3hzbmdEQkJiN1Zfb2VlX0ZEQTJzaHJRUkx3bGVVVmJkRzkyVGJEY2lwZGZDV2FEb0ZmemNrd1VmQl9rdUVVck44aEVkb3I3bkhwX3pSSE5kMWdQdw?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래 “송영길 입조심하라”…‘대통령 비공개 회동’ 발설에 공개 경고 - 서울경제
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 “송영길 입조심하라”…‘대통령 비공개 회동’ 발설에 공개 경고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYV3ZxeURFRm1HNVkzU3E2bzBlM2tVdF9wb2g4Q1EzWHFScU1tSGYzTkRhRWUzcHd2aGxDOTd6b0xwSFdadURIMGF2cXY1MU05bWc?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래 "송영길, 입조심하라"…'대통령 비공개 회동' 공개에 격앙 - TV조선뉴스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "송영길, 입조심하라"…'대통령 비공개 회동' 공개에 격앙
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTFBFVktfSEpBRFBQWHBuVlJncTN5emZzWHcyRnh3dGZVbmwwQkpTeThHak1hYktSb2NkNGg3ZV9VZnItalNMYXNHQ1ZSOFJiMW5rTjJXdHIycmtKd3BEOVBLVk9mOFpiYVI4U0lYSHlBeHJiSlZrTzRicFNCTXhnRU0?oc=5)
+
+---
+
