@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T02:41:15.952Z",
+  "lastCheckedAt": "2026-11-25T02:51:17.428Z",
   "seenPostIds": {
-    "fa00eade7a7fff63df0fb761e42a019227e82b7b50dec08c203e16c5217eebeb": {
-      "seenAt": "2026-11-22T08:01:20.477Z",
-      "title": "이준석 \"민주당, 대법원장 탄핵 시 한 방에 무너진다\" - 더팩트",
-      "targetName": "이준석"
-    },
-    "8dcca062b33fc28a009b5b1921e28958816d217153ca830e8c2d87edef5199cc": {
-      "seenAt": "2026-11-22T08:21:13.750Z",
-      "title": "“자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나 - 미주중앙일보",
-      "targetName": "조국"
-    },
-    "93006286986a2c9a26e4a4bea7d5a7d116a8667dc6c36bc24ca80cb2d9fe629b": {
-      "seenAt": "2026-11-22T08:41:14.663Z",
-      "title": "“자강”외치며 당명 개정 나선 조국혁신당…합당 반전 카드되나 - 중앙일보",
-      "targetName": "조국"
-    },
     "33442711072ce0ca22dff39fdd69d4e60b72a5f482da4aa4607df100af6a99b3": {
       "seenAt": "2026-11-22T08:41:15.478Z",
       "title": "Donald Trump Posts ‘My Friend’ Photo With Putin and Yalta Comparison - Kyiv Post",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T02:41:18.812Z",
       "title": "정청래 \"송영길, 입조심하라\"…'대통령 비공개 회동' 공개에 격앙 - TV조선뉴스",
       "targetName": "송영길"
+    },
+    "0f6823f149421bd51430fbb7ef3a7c5a7e689c63be72e004627ddc4276e31723": {
+      "seenAt": "2026-11-25T02:51:19.009Z",
+      "title": "정청래 \"송영길, 입조심하라... 대통령 관련해선 특히 조심해야\" - 한국일보",
+      "targetName": "송영길"
+    },
+    "43fba76156f91790936e6be67ce7e539ec262d3eda7ce8edfbbd414887641d9d": {
+      "seenAt": "2026-11-25T02:51:19.741Z",
+      "title": "신장식 \"민주당 탄핵추진단과 비공개 접촉…與 제안 추상적\" - 뉴시스",
+      "targetName": "신장식"
+    },
+    "4b4ea02f38c718b236b5d683c742bea9c41d69bf40b2a3bcc494d8fcc28ecaac": {
+      "seenAt": "2026-11-25T02:51:20.449Z",
+      "title": "한동훈 \"조희대 탄핵 인용되면 의원직 던진다… 서영교도 걸어야\" - 한국일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "0f6823f149421bd51430fbb7ef3a7c5a7e689c63be72e004627ddc4276e31723",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래 \"송영길, 입조심하라... 대통령 관련해선 특히 조심해야\" - 한국일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE01M1hBMF9FRkoyS2JZd3lCUDhvS29Za19TbXBQZmNjRjdjNHBDdTNXZTE4TkJmNFhHeDhTWG4yaDhwaGRqcVJ0VndPVld2a1BsRXpSZ28yV09rUDBOUnBRRy1ZZ2dycHdreE14OTRB?oc=5\" target=\"_blank\">정청래 \"송영길, 입조심하라... 대통령 관련해선 특히 조심해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01M1hBMF9FRkoyS2JZd3lCUDhvS29Za19TbXBQZmNjRjdjNHBDdTNXZTE4TkJmNFhHeDhTWG4yaDhwaGRqcVJ0VndPVld2a1BsRXpSZ28yV09rUDBOUnBRRy1ZZ2dycHdreE14OTRB?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:43:00 GMT",
-        "source": "한국일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "43fba76156f91790936e6be67ce7e539ec262d3eda7ce8edfbbd414887641d9d",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 \"민주당 탄핵추진단과 비공개 접촉…與 제안 추상적\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE92UUxfR0xWbVI2Z1N6ZjV0NHY1RTE2WDRQMjg2YmpqdFd5UDRlWThoa1p6LVgzOVR5WHY2cGJVbkkwajJFRVV4cTZzNXVyWVJVc3BXMWZJUW1rbk5TelpXdGM3b2FKaEd2RE9ROE5B0gF4QVVfeXFMTkdjaGVaWVN4NFcwcWNvd0FDNmN6N2xPVVkwTXVZczcwSUlTVk1uSjhKMFlWd1ZBWFlZQTlLVmNQa2ZTMGIyT2dOaENKX1lkR1dLeVEzNkU4SE1SVlFxTFB1S3dybnQwMUt0WnVOYU00OHYxR0MtVUwx?oc=5\" target=\"_blank\">신장식 \"민주당 탄핵추진단과 비공개 접촉…與 제안 추상적\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92UUxfR0xWbVI2Z1N6ZjV0NHY1RTE2WDRQMjg2YmpqdFd5UDRlWThoa1p6LVgzOVR5WHY2cGJVbkkwajJFRVV4cTZzNXVyWVJVc3BXMWZJUW1rbk5TelpXdGM3b2FKaEd2RE9ROE5B0gF4QVVfeXFMTkdjaGVaWVN4NFcwcWNvd0FDNmN6N2xPVVkwTXVZczcwSUlTVk1uSjhKMFlWd1ZBWFlZQTlLVmNQa2ZTMGIyT2dOaENKX1lkR1dLeVEzNkU4SE1SVlFxTFB1S3dybnQwMUt0WnVOYU00OHYxR0MtVUwx?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 00:40:48 GMT",
-        "source": "뉴시스",
-        "ageHours": 1.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4b4ea02f38c718b236b5d683c742bea9c41d69bf40b2a3bcc494d8fcc28ecaac",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 \"조희대 탄핵 인용되면 의원직 던진다… 서영교도 걸어야\" - 한국일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBPVnRqTExUSk81OXA0NmtaRERubXpsWVliaWlPNmZ2SS0zSkdVbU5hWEpzR0RpeFlFRHNKb2dIN011Mmg4VDRIVHd2QjZYLXhzbmMwNF9UTVl5OU9mRDJWMWRta3ZlX1p5RUo0bjRn?oc=5\" target=\"_blank\">한동훈 \"조희대 탄핵 인용되면 의원직 던진다… 서영교도 걸어야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPVnRqTExUSk81OXA0NmtaRERubXpsWVliaWlPNmZ2SS0zSkdVbU5hWEpzR0RpeFlFRHNKb2dIN011Mmg4VDRIVHd2QjZYLXhzbmMwNF9UTVl5OU9mRDJWMWRta3ZlX1p5RUo0bjRn?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:50:00 GMT",
-        "source": "한국일보",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "9559b56f263115de8ab054cab5edfc3f5da37561c8071b61ac8cc2b68f542057",
@@ -2869,13 +2821,61 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "fcd6581c317d9849adbfccffe8af0ba053508bff0c756e64e6bd7f27019cc446",
+        "targetId": "lee_jaemyung",
+        "targetName": "이재명",
+        "targetTitle": "대통령",
+        "title": "이재명 대통령 \"여성이 두려움 없이 살아가고, 누구나 안심할 수 있는 사회 만들 것\" - 한국NGO신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMmtqbzViLW01b0tLUExRQVpGSE03UVMyaTlHeHFlcllWOTNuNXNhVUxCa0tXT2RrSkplV2JqTEtuZHluZFUyelEyZ183TTZFdGI1NEpSaGRmc09UM2luX25SUDFQZEFK?oc=5\" target=\"_blank\">이재명 대통령 \"여성이 두려움 없이 살아가고, 누구나 안심할 수 있는 사회 만들 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국NGO신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjMmtqbzViLW01b0tLUExRQVpGSE03UVMyaTlHeHFlcllWOTNuNXNhVUxCa0tXT2RrSkplV2JqTEtuZHluZFUyelEyZ183TTZFdGI1NEpSaGRmc09UM2luX25SUDFQZEFK?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:38:42 GMT",
+        "source": "한국NGO신문",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5e4333de3b43f85b960486231325cf43b894bc858e03d1f26b6d57abd8781f8a",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "정청래, 송영길에 \"입조심하라\"...대통령 회동 내용 공개 두고 설전 - 뉴스버스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9OTkdXQkgtUVByVkZLYVJzUzV0OWFzdloteHBsS1dPT1haelRMMFM0VjJubHZHTnZvZ2RuejdFMVI4X2VURGEzZm1JY2ktdHFKX1phTXFwR0ZJcndqdXJqQlNmbHVTVVFyLWc?oc=5\" target=\"_blank\">정청래, 송영길에 \"입조심하라\"...대통령 회동 내용 공개 두고 설전</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스버스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OTkdXQkgtUVByVkZLYVJzUzV0OWFzdloteHBsS1dPT1haelRMMFM0VjJubHZHTnZvZ2RuejdFMVI4X2VURGEzZm1JY2ktdHFKX1phTXFwR0ZJcndqdXJqQlNmbHVTVVFyLWc?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:34:33 GMT",
+        "source": "뉴스버스",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "7d4825b038117b6bbf459a2c8585947717e48a510ca19e8f1f3c6306c6698813",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says pardon is always an option for Jensen Huang, and that pleading the Fifth isn’t necessary - NBC News",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWZqQ2JqTjh2aG9BQlBlbVI3TjFMNjFPQzY4anZ5WF9kYVNma1RkeWU4YmhHYUxqd2NVY1VHdW4ya1pJZ0wxYUFqaWJHT0MyYlowTFp0cTRGeHhQOGNIOG5OeVlVUUhFTTJ1YlhWNmE4Q21IbVZpVGlzS3lJUVlQRkhCNS1KYUp5X19OZ2owTVZoQWY2NGlnZkk5eGFCY09YeUJnblFSaE5QM3VKazZkN3NOS0JZS05WclZ4OEZUeHRFaExv?oc=5\" target=\"_blank\">Trump says pardon is always an option for Jensen Huang, and that pleading the Fifth isn’t necessary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWZqQ2JqTjh2aG9BQlBlbVI3TjFMNjFPQzY4anZ5WF9kYVNma1RkeWU4YmhHYUxqd2NVY1VHdW4ya1pJZ0wxYUFqaWJHT0MyYlowTFp0cTRGeHhQOGNIOG5OeVlVUUhFTTJ1YlhWNmE4Q21IbVZpVGlzS3lJUVlQRkhCNS1KYUp5X19OZ2owTVZoQWY2NGlnZkk5eGFCY09YeUJnblFSaE5QM3VKazZkN3NOS0JZS05WclZ4OEZUeHRFaExv?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:19:00 GMT",
+        "source": "NBC News",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "c1c39cd25531a951e242528aeb4371ddb07761bcd9a050f896803ed2cec3de0f",
-    "title": "정청래 \"송영길, 입조심하라\"…'대통령 비공개 회동' 공개에 격앙 - TV조선뉴스",
+    "postId": "4b4ea02f38c718b236b5d683c742bea9c41d69bf40b2a3bcc494d8fcc28ecaac",
+    "title": "한동훈 \"조희대 탄핵 인용되면 의원직 던진다… 서영교도 걸어야\" - 한국일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45534698520",
-    "sentAt": "2026-11-25T02:41:18.453Z"
+    "runId": "45535851593",
+    "sentAt": "2026-11-25T02:51:20.087Z"
   }
 }

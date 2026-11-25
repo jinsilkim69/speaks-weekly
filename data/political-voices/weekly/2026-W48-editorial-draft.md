@@ -6085,3 +6085,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래 "송영길, 입조심하라... 대통령 관련해선 특히 조심해야" - 한국일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "송영길, 입조심하라... 대통령 관련해선 특히 조심해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE01M1hBMF9FRkoyS2JZd3lCUDhvS29Za19TbXBQZmNjRjdjNHBDdTNXZTE4TkJmNFhHeDhTWG4yaDhwaGRqcVJ0VndPVld2a1BsRXpSZ28yV09rUDBOUnBRRy1ZZ2dycHdreE14OTRB?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "민주당 탄핵추진단과 비공개 접촉…與 제안 추상적" - 뉴시스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "민주당 탄핵추진단과 비공개 접촉…與 제안 추상적"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE92UUxfR0xWbVI2Z1N6ZjV0NHY1RTE2WDRQMjg2YmpqdFd5UDRlWThoa1p6LVgzOVR5WHY2cGJVbkkwajJFRVV4cTZzNXVyWVJVc3BXMWZJUW1rbk5TelpXdGM3b2FKaEd2RE9ROE5B0gF4QVVfeXFMTkdjaGVaWVN4NFcwcWNvd0FDNmN6N2xPVVkwTXVZczcwSUlTVk1uSjhKMFlWd1ZBWFlZQTlLVmNQa2ZTMGIyT2dOaENKX1lkR1dLeVEzNkU4SE1SVlFxTFB1S3dybnQwMUt0WnVOYU00OHYxR0MtVUwx?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "조희대 탄핵 인용되면 의원직 던진다… 서영교도 걸어야" - 한국일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "조희대 탄핵 인용되면 의원직 던진다… 서영교도 걸어야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBPVnRqTExUSk81OXA0NmtaRERubXpsWVliaWlPNmZ2SS0zSkdVbU5hWEpzR0RpeFlFRHNKb2dIN011Mmg4VDRIVHd2QjZYLXhzbmMwNF9UTVl5OU9mRDJWMWRta3ZlX1p5RUo0bjRn?oc=5)
+
+---
+
