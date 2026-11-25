@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T19:41:16.911Z",
+  "lastCheckedAt": "2026-11-25T19:51:13.798Z",
   "seenPostIds": {
     "29d5c0fa5a8424f75459599ef2e5dafbbbe55eacd65a72eb0ba2e9d699b2301d": {
       "seenAt": "2026-11-23T08:21:14.593Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-25T19:11:16.467Z",
       "title": "김형연 국회의원(조국혁신당), 「GA 성장의 그늘, 무엇을 고칠 것인가」토론회 개최 “GA 권한 확대에 앞서, 소비자 보호할 안전장치부터 갖춰야” - 의정일보",
       "targetName": "조국"
+    },
+    "957355547692325d5a3c66425f4d094198f57c65263503e0355a707175f5337c": {
+      "seenAt": "2026-11-25T19:51:15.013Z",
+      "title": "Christie: Trump picking Miller for top role ‘shows his level of fear and insecurity’ - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "b083f78888ee9ccefbb8af2ffc93bb648bb5992e2c447d3d1e7a9670e74d3b7d",
-    "title": "김형연 국회의원(조국혁신당), 「GA 성장의 그늘, 무엇을 고칠 것인가」토론회 개최 “GA 권한 확대에 앞서, 소비자 보호할 안전장치부터 갖춰야” - 의정일보",
+    "postId": "957355547692325d5a3c66425f4d094198f57c65263503e0355a707175f5337c",
+    "title": "Christie: Trump picking Miller for top role ‘shows his level of fear and insecurity’ - The Hill",
     "bot": "jongsuk_pol_bot",
-    "runId": "45682631715",
-    "sentAt": "2026-11-25T19:11:15.887Z"
+    "runId": "45689213837",
+    "sentAt": "2026-11-25T19:51:14.446Z"
   }
 }

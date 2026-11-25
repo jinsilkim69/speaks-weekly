@@ -8191,3 +8191,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Christie: Trump picking Miller for top role ‘shows his level of fear and insecurity’ - The Hill
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Christie: Trump picking Miller for top role ‘shows his level of fear and insecurity’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikwFBVV95cUxORzBwTVVEMnZad1l3VDc2SlVpYlBiaG1lQnpFek5NVHgwcjgwVkl6WmxDeWV4TGdwZkp3MHRKQk5BRVpITDFFNElVaHYxMmlydHphRzYtZ2FVNEV4aXFHaGx6N19lbFlBRVFtSkZyb2FYYWt0bXRHM2s1MllScDVWbGFGNXlLVGk3S3NIZ1A3VlZMZHPSAZMBQVVfeXFMTkcwcE1VRDJ2WndZd1Q3NkpVaWJQYmhtZUJ6RXpOTVR4MHI4MFZJelpsQ3lleExncGZKdzB0SkJOQUVaSEwxRTRJVWh2MTJpcnR6YUc2LWdhVTRFeGlxR2hsejdfZWxZQUVRbUpGcm9hWGFrdG10RzNrNTJZUnA1VmxhRjV5S1RpN0tzSGdQN1ZWTGRz?oc=5)
+
+---
+
