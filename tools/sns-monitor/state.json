@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T22:21:14.309Z",
+  "lastCheckedAt": "2026-11-25T22:31:16.490Z",
   "seenPostIds": {
-    "3171d6b630ce228923f98c7c713a04a29f5a944813460d343d1f210ce69b5a68": {
-      "seenAt": "2026-11-23T08:41:18.702Z",
-      "title": "박선원 \"김민석 구두경고 수용하지만…이성윤·한민수도 경고해야\" - 뉴스1",
-      "targetName": "김민석"
-    },
-    "28d694b64165935ce105f161db52e960733d0648e646f1a62b2550f8b946f1f3": {
-      "seenAt": "2026-11-23T08:41:19.368Z",
-      "title": "더불어민주당 내홍 속 대구 팔공산 찾은 정청래 - 경북매일",
-      "targetName": "정청래"
-    },
     "7e320061ac967a8f524b607213e7243d5ac4e4ea3924aba5cb63960d08f80d45": {
       "seenAt": "2026-11-23T08:51:16.197Z",
       "title": "조국혁신당 전남광주시당 \"조희대 대법원장 즉각 탄핵해야\" - 연합뉴스",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-25T22:21:16.131Z",
       "title": "Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’ - Lehighvalleylive.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d7e9cd841c1bd02792d20b18f06c39d0292282c897eaaf3106aa104da8cd3718": {
+      "seenAt": "2026-11-25T22:31:17.767Z",
+      "title": "\"입 싼 송영길, 말 안 섞어\" 거친 말 쏟아낸 정청래... 왜? - OhmyNews",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "e5662265cb1440f6ab7cacc39c210a0bf3b76452a83621112b33240a79c47dc0",
-    "title": "Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’ - Lehighvalleylive.com",
+    "postId": "d7e9cd841c1bd02792d20b18f06c39d0292282c897eaaf3106aa104da8cd3718",
+    "title": "\"입 싼 송영길, 말 안 섞어\" 거친 말 쏟아낸 정청래... 왜? - OhmyNews",
     "bot": "jongsuk_pol_bot",
-    "runId": "45712456529",
-    "sentAt": "2026-11-25T22:21:15.799Z"
+    "runId": "45713886787",
+    "sentAt": "2026-11-25T22:31:17.279Z"
   }
 }
