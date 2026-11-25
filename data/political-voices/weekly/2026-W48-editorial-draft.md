@@ -7879,3 +7879,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '타짜' 한동훈 "曺탄핵 인용되면 의원직 사퇴…서영교·박선원도 배지 걸라" - 싱글리스트
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '타짜' 한동훈 "曺탄핵 인용되면 의원직 사퇴…서영교·박선원도 배지 걸라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE42bFprMU1EUHF2dEZWV3d1aU1fZy1kVXNZRVFudnNHOVFENW1MdjhYNGJtZVNnYjllR0RIZGhXY0FVdG9lQ00zVExxY01SdkFpdng4SkhmVnN0Y3d5UExaODBMTUUwdw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 민주당 대표 "조희대 탄핵 5당 연대·민생 총력" - 브레이크뉴스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 민주당 대표 "조희대 탄핵 5당 연대·민생 총력"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZbWNLWHdfcFhZYXNBWTVNMUtfSjVJcEZJUXhsMHdHVFJ2OWlkWVJUMk9Kb0paaXVmUi1PS2JFbEtHdw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** "이 대통령, 정청래 억울함 4시간 들어"..."송영길, 입조심하라" [앵커리포트] - YTN
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "이 대통령, 정청래 억울함 4시간 들어"..."송영길, 입조심하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidkFVX3lxTFA3a3VoM2ZLV1lQZDJBV2JLdDgwNmw0aFNUcUYyTmtKYTVfVjVCbXFHVzF1bkRUSk1mRFoxLWJvaHVGQVpPZnA2YVFiODVmdXRfS0NNcDdkUjRtMDNqdzBsQ09KLTRwY3UzUzRmSnV3UGlfbUgzaEE?oc=5)
+
+---
+
