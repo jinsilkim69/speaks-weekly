@@ -8360,3 +8360,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 조갑제 “한동훈 징계, 가족 쓴 글 책임 묻는 연좌제적 발상” - 주간경향
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조갑제 “한동훈 징계, 가족 쓴 글 책임 묻는 연좌제적 발상”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oS3BSc09EUVhvSjF2czBhT25XU0dJb2FQZzhiVkcxVTJ3b0pnTHZDV0xHT0pLZnNGNUlQS0U1VXJZdTJpTTBPM3ZidVhpQmxUaklkTWZjNm4ya3BIZWc?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’ - SILive.com
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMirgFBVV95cUxPazhUdG92WTFGTW93UmtINHBEWm1qUkZuTHlvcW9zaHgzcDdqUnJ4aHdiMWtqWWVrb2VxLVdrOGc0RFNwNkRLYkI4R1U0OVhkS05LdnpIaXBCWmNpMlo5Vm9xeGJ6NXZZU24xSmRKOG0wU25lTkVoVW9YUFltSmJWNmVtejRoTWxvbDNHdEk1U1FIZFpVUFZZNkRpQXp3QnhwUUxTLU8ybW5aY0hLN2c?oc=5)
+
+---
+

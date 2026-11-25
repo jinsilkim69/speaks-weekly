@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T22:51:14.490Z",
+  "lastCheckedAt": "2026-11-25T23:01:16.387Z",
   "seenPostIds": {
     "c86188f05800228606e357c15bdeeb7dac58c9a451ec37f57222fdb41a3777d2": {
       "seenAt": "2026-11-23T09:01:18.102Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-25T22:41:24.298Z",
       "title": "Trump Media Must Disclose Who Is Paying Up to $100K for Early Access to Truth Social Posts, Fed. Judge Rules - Law.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "137ea8c0eb212bd2e34909e2d177666b8ece2f84f1e37fd759854cc2f9663b0d": {
+      "seenAt": "2026-11-25T23:01:17.781Z",
+      "title": "조갑제 “한동훈 징계, 가족 쓴 글 책임 묻는 연좌제적 발상” - 주간경향",
+      "targetName": "한동훈"
+    },
+    "011bc59063847d8925bd89383c075a502673cab820c9c6fe6b4979428f684b40": {
+      "seenAt": "2026-11-25T23:01:18.504Z",
+      "title": "Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’ - SILive.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c8f7dc96dab567974a6169577587822c40d35c42b3236f4d1fcb88e397e84062",
-    "title": "Trump Media Must Disclose Who Is Paying Up to $100K for Early Access to Truth Social Posts, Fed. Judge Rules - Law.com",
+    "postId": "011bc59063847d8925bd89383c075a502673cab820c9c6fe6b4979428f684b40",
+    "title": "Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’ - SILive.com",
     "bot": "jongsuk_pol_bot",
-    "runId": "45715303378",
-    "sentAt": "2026-11-25T22:41:23.992Z"
+    "runId": "45717986225",
+    "sentAt": "2026-11-25T23:01:18.141Z"
   }
 }
