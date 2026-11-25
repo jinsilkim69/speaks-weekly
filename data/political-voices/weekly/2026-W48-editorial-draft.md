@@ -5890,3 +5890,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석, 강금실 국정원장 지명에 "뜬금포…전문성 빼고 해명거리 더해" - 파이낸셜뉴스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석, 강금실 국정원장 지명에 "뜬금포…전문성 빼고 해명거리 더해"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YSjNuQUVtQ2xncG9XVWZfdGVKN011R1Bzc3pvNTVZMmtrYW1sczI2Y3lKOEhtZDVnb2V1Nk0xMnNPbW5GUzZJUDdhRU4zeUE3QlJYOC1BTi1YUQ?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 김혜경 여사 만난 권양숙 여사 "노무현-이재명 두 대통령 정말 닮아" - OhmyNews
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김혜경 여사 만난 권양숙 여사 "노무현-이재명 두 대통령 정말 닮아"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnJfWUVsamsxamhsTkk2ZGZJZm1tNWlBWVM1cHljWWtFNTJsbnZxdm5YOEVCelB3VUdmV2NKQjV1MnBYaV9YR2taU2ZpNGtCWEtkM2NkZDg0TFNkcVhfa1pfelp0U3ctSVhRVFlBdlhIZmlQaEg5V0Z6Z1NpQndKbzdZOTNnOWw4TlE?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “조희태 탄핵 인용되면 의원직 사퇴···서영교도 걸어라” - 주간경향
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “조희태 탄핵 인용되면 의원직 사퇴···서영교도 걸어라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xZUw0YVp4WVBYR0dtWGFYeDJNZDlKczFRWk9IQmpXaXM0aUdzU3JsNlVNaHRkYlppSWl2YzBuN1NTTHRTeWpaYWdKblJsQ005MzVwazBWRG14M0FRVHc?oc=5)
+
+---
+
