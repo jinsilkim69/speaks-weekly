@@ -6553,3 +6553,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박 - 채널A
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhZ2tFU2VGdWk4aUltTGNsbDJrRWVrZ0NrRVd2NkhEdUYzQjlIeWtlQUVKLWZpUVFHQWVlcTExN3BsZ1dqTjJFenFxMGw4Qi1nUFdrcVY3WnhpRm5HcTRr?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주당, 김민석 취임 100일에도 내홍 격화…친명·친청 ‘부역자 발언’ 정면충돌 - 데일리저널
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당, 김민석 취임 100일에도 내홍 격화…친명·친청 ‘부역자 발언’ 정면충돌
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE5kT2w4OGx6NFpFaER2VEQ4ZEJqWjF3anhuVmNjZEM2SUpyVVlyYmxCYzFHSTE3S2NQZkFGTHFTXzlaN0tLWjlneXgwV0ZqOFRXYUhPSl8yWVVhc2RCandZR1RHYVpFMmxJYmc?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래 "입 싼 송영길과는 말 섞고 싶지 않다"…李대통령 만찬 공개에 발끈 - 매일신문
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "입 싼 송영길과는 말 섞고 싶지 않다"…李대통령 만찬 공개에 발끈
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vN2pPWThKSXNMZExPZ3dBUWY0NER5ZnpjWUY4NzZJWFNmdTlsbW8tTVNfbl9XNWZmRDRiWS1FeS0yb1JsUkhWODFYVWpmMWZoUm1iUXhqdGttZEdqckMyMzd3?oc=5)
+
+---
+

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T04:32:24.128Z",
+  "lastCheckedAt": "2026-11-25T04:41:15.978Z",
   "seenPostIds": {
-    "afd08e1041a8619d03e949a916dcce722801196d2299db16f3b963f790eae180": {
-      "seenAt": "2026-11-22T15:41:17.265Z",
-      "title": "Trump says it will be 'very hard' to work with Schumer after he predicted deals - USA Today",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "2c4a0c8bc9c1b4591e7108cbc196171602ad298e69d1501cd566c0344dbc32f2": {
-      "seenAt": "2026-11-22T16:11:16.356Z",
-      "title": "김민석 취임 100일, 지지율 10%p 올린다더니 8%p 떨어졌다 - 조선일보",
-      "targetName": "김민석"
-    },
-    "351f873343a129eab019de44d7873d0d42c68e5090f30a7d0f8f92e085d1db4b": {
-      "seenAt": "2026-11-22T16:11:17.189Z",
-      "title": "‘취임 100일’ 김민석, 내부 통합·지지율 반등 과제 - 울산일보",
-      "targetName": "김민석"
-    },
     "83f791f2a264bf585e00e19bf6847360fde5aadfd1971d58b6394250b5b3ff0a": {
       "seenAt": "2026-11-22T16:11:17.968Z",
       "title": "김민석 대표 만든 ‘1인 1표’… 더 커진 강성 당원, 더 깊어진 내홍 - 서울신문",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T04:32:26.735Z",
       "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
       "targetName": "송영길"
+    },
+    "c4b0f7606c475f78e02a4bdccca00b10f4834a010ef6e8627b6d36e1f769bc30": {
+      "seenAt": "2026-11-25T04:41:17.361Z",
+      "title": "[핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박 - 채널A",
+      "targetName": "김민석"
+    },
+    "abe697f6293534412ef340fc1c5145b25ba7e4e2c0585e217a2f67a924f9c85b": {
+      "seenAt": "2026-11-25T04:41:18.005Z",
+      "title": "민주당, 김민석 취임 100일에도 내홍 격화…친명·친청 ‘부역자 발언’ 정면충돌 - 데일리저널",
+      "targetName": "김민석"
+    },
+    "f13013b9d376d9eb8d58fabde14e62b5cef351bc86e097fa7322be09bc3b55a4": {
+      "seenAt": "2026-11-25T04:41:18.620Z",
+      "title": "정청래 \"입 싼 송영길과는 말 섞고 싶지 않다\"…李대통령 만찬 공개에 발끈 - 매일신문",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "c4b0f7606c475f78e02a4bdccca00b10f4834a010ef6e8627b6d36e1f769bc30",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "[핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박 - 채널A",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhZ2tFU2VGdWk4aUltTGNsbDJrRWVrZ0NrRVd2NkhEdUYzQjlIeWtlQUVKLWZpUVFHQWVlcTExN3BsZ1dqTjJFenFxMGw4Qi1nUFdrcVY3WnhpRm5HcTRr?oc=5\" target=\"_blank\">[핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhZ2tFU2VGdWk4aUltTGNsbDJrRWVrZ0NrRVd2NkhEdUYzQjlIeWtlQUVKLWZpUVFHQWVlcTExN3BsZ1dqTjJFenFxMGw4Qi1nUFdrcVY3WnhpRm5HcTRr?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 00:40:00 GMT",
-        "source": "채널A",
-        "ageHours": 3.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "abe697f6293534412ef340fc1c5145b25ba7e4e2c0585e217a2f67a924f9c85b",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "민주당, 김민석 취임 100일에도 내홍 격화…친명·친청 ‘부역자 발언’ 정면충돌 - 데일리저널",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5kT2w4OGx6NFpFaER2VEQ4ZEJqWjF3anhuVmNjZEM2SUpyVVlyYmxCYzFHSTE3S2NQZkFGTHFTXzlaN0tLWjlneXgwV0ZqOFRXYUhPSl8yWVVhc2RCandZR1RHYVpFMmxJYmc?oc=5\" target=\"_blank\">민주당, 김민석 취임 100일에도 내홍 격화…친명·친청 ‘부역자 발언’ 정면충돌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리저널</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kT2w4OGx6NFpFaER2VEQ4ZEJqWjF3anhuVmNjZEM2SUpyVVlyYmxCYzFHSTE3S2NQZkFGTHFTXzlaN0tLWjlneXgwV0ZqOFRXYUhPSl8yWVVhc2RCandZR1RHYVpFMmxJYmc?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 14:48:27 GMT",
-        "source": "데일리저널",
-        "ageHours": 13.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f13013b9d376d9eb8d58fabde14e62b5cef351bc86e097fa7322be09bc3b55a4",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래 \"입 싼 송영길과는 말 섞고 싶지 않다\"…李대통령 만찬 공개에 발끈 - 매일신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vN2pPWThKSXNMZExPZ3dBUWY0NER5ZnpjWUY4NzZJWFNmdTlsbW8tTVNfbl9XNWZmRDRiWS1FeS0yb1JsUkhWODFYVWpmMWZoUm1iUXhqdGttZEdqckMyMzd3?oc=5\" target=\"_blank\">정청래 \"입 싼 송영길과는 말 섞고 싶지 않다\"…李대통령 만찬 공개에 발끈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vN2pPWThKSXNMZExPZ3dBUWY0NER5ZnpjWUY4NzZJWFNmdTlsbW8tTVNfbl9XNWZmRDRiWS1FeS0yb1JsUkhWODFYVWpmMWZoUm1iUXhqdGttZEdqckMyMzd3?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 03:11:43 GMT",
-        "source": "매일신문",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "bd426e049fa33dc6145bdd0824633af071131a0ecf8b112fdb842de1e4e68003",
@@ -2696,10 +2648,10 @@
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "ed3686ab688c425ae870ed0f2fa99e92b1325dccba893c7485abc691135ce624",
-    "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
+    "postId": "f13013b9d376d9eb8d58fabde14e62b5cef351bc86e097fa7322be09bc3b55a4",
+    "title": "정청래 \"입 싼 송영길과는 말 섞고 싶지 않다\"…李대통령 만찬 공개에 발끈 - 매일신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45547445137",
-    "sentAt": "2026-11-25T04:32:26.376Z"
+    "runId": "45548443853",
+    "sentAt": "2026-11-25T04:41:18.312Z"
   }
 }
