@@ -5567,5 +5567,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "2521983b5d2bc1d5c243fd925e964dab6317050f8cc8be4d0b4e48345538f1bd",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "신장식, 창원지법 판사들 '曺 탄핵' 우려에 \"논리적 오류 점철\" - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EQXYyaWR0X1JqTGtBQUt5elNnbk1xVFRJNUZoMEg4V0x4cFJ0czFYQkZydlhZd25fQi02bzdqdVZWM3J6bHowYS04VmRXYXRqdXVock1yeEV3dw?oc=5\" target=\"_blank\">신장식, 창원지법 판사들 '曺 탄핵' 우려에 \"논리적 오류 점철\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EQXYyaWR0X1JqTGtBQUt5elNnbk1xVFRJNUZoMEg4V0x4cFJ0czFYQkZydlhZd25fQi02bzdqdVZWM3J6bHowYS04VmRXYXRqdXVock1yeEV3dw?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 13:19:35 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식, 창원지법 판사들 '曺 탄핵' 우려에 \"논리적 오류 점철\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
