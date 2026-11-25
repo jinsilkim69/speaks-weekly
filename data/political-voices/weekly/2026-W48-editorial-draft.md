@@ -6436,3 +6436,42 @@
 
 ---
 
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “경력없는 강금실을 국정원장에…뭔 뜬금포인가” - 문화일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “경력없는 강금실을 국정원장에…뭔 뜬금포인가”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QNlVham00d0dFc201c3lwSi11QVZLaURZeDc1ZEl1Y3Y1TkR2dTV4dTA4QmVGdzFDU1BnOXAxNFN4aWRIN3JjOXpUOTlGQlgt?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 겨냥해 "당 초토화" 공세 편 정청래…최민희 징계 수위 주목 - 뉴시스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 겨냥해 "당 초토화" 공세 편 정청래…최민희 징계 수위 주목
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BRTh2TUg2Vk1la1dhMnVTWlpjVkM3aVJMZnkzS3VSRlVEMHl5MVdrMjhEaG9rUkk4N0NVc1RyWGdDMTBjS0w3RTA4Wk92N3JoaGJMWTl2YWtKTG1BcEY0MtIBeEFVX3lxTE9DX0hGY3FTZnk0MlRZTS1WMnliSHdOaDVxTERIeTRpUjM3b3BpOUJjZjA0a0dLVng2UldsMzZCWXI1czg2SS03RWFsRkJCSnp2eHFMdlZhaFhkTzlPQzlzcVdMZ2IyN0M2Q0NxT1ZiQmxVekZ5Qm8xNA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스 한민족센터
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 독립에 청춘 바친 신용걸 선생 재조명
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE1iczdKekZlSWRvcnAzU3I2SThFQjE1YlFQWEE1WmJOVHdxRDNDWFZoTVp4ZmgwVS1oS25rTlhDMGZpU3Bva3JONGVKRWdxTGcwWkxxNDN1WGtETVVEMVFFU2EtLTJZNWQ0VUItLUc3a2p3NU8w?oc=5)
+
+---
+

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T04:11:22.252Z",
+  "lastCheckedAt": "2026-11-25T04:21:15.270Z",
   "seenPostIds": {
-    "aa5b6e06ec91d645cc21c15cf5986b844668af20cfaac791f3b03143dcda8833": {
-      "seenAt": "2026-11-22T12:41:14.218Z",
-      "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’ - 서울매일신문",
-      "targetName": "송영길"
-    },
-    "7725b895c6ab8ebf8bcc26616e9ef05119c8a78a178f0be212ff367ff66fe2f5": {
-      "seenAt": "2026-11-22T12:41:14.919Z",
-      "title": "이준석 “사법부 정치적 압박 참담…근조 민주당, 부끄러운 줄 알라” - www.dt.co.kr",
-      "targetName": "이준석"
-    },
-    "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047": {
-      "seenAt": "2026-11-22T12:41:15.607Z",
-      "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "55af71dde297c72d85a803361744897231ee02d6b2f75eee682af34897b6e8db": {
       "seenAt": "2026-11-22T12:51:16.693Z",
       "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post - The Guardian",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T04:11:25.202Z",
       "title": "송영길 “대통령, 정청래 억울함 4시간 들어줘” VS 정청래 “입 싼 송영길과 말 안 섞어” - 주간경향",
       "targetName": "송영길"
+    },
+    "82bc9c3941b154868ec45dbe7c8393c53a618a940b98f65cb23a625f64063d03": {
+      "seenAt": "2026-11-25T04:21:16.605Z",
+      "title": "이준석 “경력없는 강금실을 국정원장에…뭔 뜬금포인가” - 문화일보",
+      "targetName": "이준석"
+    },
+    "2841c6ce0fa942f9cfef848ab5e71e1efa974bc05697452c361f583bad088fce": {
+      "seenAt": "2026-11-25T04:21:17.252Z",
+      "title": "김민석 겨냥해 \"당 초토화\" 공세 편 정청래…최민희 징계 수위 주목 - 뉴시스",
+      "targetName": "김민석"
+    },
+    "f8515c68d834d4453227e48ce6428b6e23923fd2ae03ce61b5efc2da170e78fe": {
+      "seenAt": "2026-11-25T04:21:18.311Z",
+      "title": "[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스 한민족센터",
+      "targetName": "조국"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "82bc9c3941b154868ec45dbe7c8393c53a618a940b98f65cb23a625f64063d03",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 “경력없는 강금실을 국정원장에…뭔 뜬금포인가” - 문화일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QNlVham00d0dFc201c3lwSi11QVZLaURZeDc1ZEl1Y3Y1TkR2dTV4dTA4QmVGdzFDU1BnOXAxNFN4aWRIN3JjOXpUOTlGQlgt?oc=5\" target=\"_blank\">이준석 “경력없는 강금실을 국정원장에…뭔 뜬금포인가”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QNlVham00d0dFc201c3lwSi11QVZLaURZeDc1ZEl1Y3Y1TkR2dTV4dTA4QmVGdzFDU1BnOXAxNFN4aWRIN3JjOXpUOTlGQlgt?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 14:16:22 GMT",
-        "source": "문화일보",
-        "ageHours": 12.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "2841c6ce0fa942f9cfef848ab5e71e1efa974bc05697452c361f583bad088fce",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 겨냥해 \"당 초토화\" 공세 편 정청래…최민희 징계 수위 주목 - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BRTh2TUg2Vk1la1dhMnVTWlpjVkM3aVJMZnkzS3VSRlVEMHl5MVdrMjhEaG9rUkk4N0NVc1RyWGdDMTBjS0w3RTA4Wk92N3JoaGJMWTl2YWtKTG1BcEY0MtIBeEFVX3lxTE9DX0hGY3FTZnk0MlRZTS1WMnliSHdOaDVxTERIeTRpUjM3b3BpOUJjZjA0a0dLVng2UldsMzZCWXI1czg2SS03RWFsRkJCSnp2eHFMdlZhaFhkTzlPQzlzcVdMZ2IyN0M2Q0NxT1ZiQmxVekZ5Qm8xNA?oc=5\" target=\"_blank\">김민석 겨냥해 \"당 초토화\" 공세 편 정청래…최민희 징계 수위 주목</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BRTh2TUg2Vk1la1dhMnVTWlpjVkM3aVJMZnkzS3VSRlVEMHl5MVdrMjhEaG9rUkk4N0NVc1RyWGdDMTBjS0w3RTA4Wk92N3JoaGJMWTl2YWtKTG1BcEY0MtIBeEFVX3lxTE9DX0hGY3FTZnk0MlRZTS1WMnliSHdOaDVxTERIeTRpUjM3b3BpOUJjZjA0a0dLVng2UldsMzZCWXI1czg2SS03RWFsRkJCSnp2eHFMdlZhaFhkTzlPQzlzcVdMZ2IyN0M2Q0NxT1ZiQmxVekZ5Qm8xNA?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 20:00:00 GMT",
-        "source": "뉴시스",
-        "ageHours": 7.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "f8515c68d834d4453227e48ce6428b6e23923fd2ae03ce61b5efc2da170e78fe",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스 한민족센터",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1iczdKekZlSWRvcnAzU3I2SThFQjE1YlFQWEE1WmJOVHdxRDNDWFZoTVp4ZmgwVS1oS25rTlhDMGZpU3Bva3JONGVKRWdxTGcwWkxxNDN1WGtETVVEMVFFU2EtLTJZNWQ0VUItLUc3a2p3NU8w?oc=5\" target=\"_blank\">[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스 한민족센터</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iczdKekZlSWRvcnAzU3I2SThFQjE1YlFQWEE1WmJOVHdxRDNDWFZoTVp4ZmgwVS1oS25rTlhDMGZpU3Bva3JONGVKRWdxTGcwWkxxNDN1WGtETVVEMVFFU2EtLTJZNWQ0VUItLUc3a2p3NU8w?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 00:02:54 GMT",
-        "source": "연합뉴스 한민족센터",
-        "ageHours": 3.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "d21bab3fec7fc0878afc0050724d36a90e73ec20283d8ca1c264143fa26592fb",
@@ -2741,13 +2693,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "f44903203fe82d82008b5010cde7649f5e22c47eef03966f173758b56473412e",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "정청래 \"입 싼 송영길, 말 섞기 싫어…대통령 회동 발설 부적절\" - 이데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXlvWVAyMFN1d2NGQ2IxdzdGcjllOTZJRklFWXRaVEp3OU9FZkVDQjJVek53ZWZlTzktaHpjOVFoc3pQSTNjdnRvbVdLY05kNEZlSFdEcEQyTW90N1hnc05HaUdHVm1UNGhPM3phTGgxLUYzdFhXVGUyM0F2bDhYcA?oc=5\" target=\"_blank\">정청래 \"입 싼 송영길, 말 섞기 싫어…대통령 회동 발설 부적절\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXlvWVAyMFN1d2NGQ2IxdzdGcjllOTZJRklFWXRaVEp3OU9FZkVDQjJVek53ZWZlTzktaHpjOVFoc3pQSTNjdnRvbVdLY05kNEZlSFdEcEQyTW90N1hnc05HaUdHVm1UNGhPM3phTGgxLUYzdFhXVGUyM0F2bDhYcA?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 04:03:40 GMT",
+        "source": "이데일리",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "80da36abf84eb5c64abb35e18342bcbca041fdb16b23ca1e7ce9508d5cf55e8e",
-    "title": "송영길 “대통령, 정청래 억울함 4시간 들어줘” VS 정청래 “입 싼 송영길과 말 안 섞어” - 주간경향",
+    "postId": "f8515c68d834d4453227e48ce6428b6e23923fd2ae03ce61b5efc2da170e78fe",
+    "title": "[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스 한민족센터",
     "bot": "jongsuk_pol_bot",
-    "runId": "45545011045",
-    "sentAt": "2026-11-25T04:11:24.831Z"
+    "runId": "45546168123",
+    "sentAt": "2026-11-25T04:21:17.963Z"
   }
 }
