@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T16:31:18.760Z",
+  "lastCheckedAt": "2026-11-25T16:41:27.948Z",
   "seenPostIds": {
     "7d00d4915422348ec9bc1d8d5db6a4100732362a0f9cf02bc93adf38774b1510": {
       "seenAt": "2026-11-23T07:51:18.948Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-25T16:11:37.040Z",
       "title": "Who’s Paying to See Trump’s Posts Early? We’re About to Find Out. - The New Republic",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "99c3b3b5401fab5897b5a61025a9f2f67dee35b26fdd18fbcb1808337e16bbbf": {
+      "seenAt": "2026-11-25T16:41:30.027Z",
+      "title": "Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? - Al Jazeera",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "2fdf60958561d322d0010f250507b07c8f116e0a750dd0583b430ab6b5e97d9b": {
+      "seenAt": "2026-11-25T16:41:30.775Z",
+      "title": "President Trump: \"Army's mitigation efforts have far exceeded expectations\" - KGAN",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "35ee65cf6ee66f8816ee4ed0728ef510dd0b3607ffe33117d9feadee46d35671",
-    "title": "Who’s Paying to See Trump’s Posts Early? We’re About to Find Out. - The New Republic",
+    "postId": "2fdf60958561d322d0010f250507b07c8f116e0a750dd0583b430ab6b5e97d9b",
+    "title": "President Trump: \"Army's mitigation efforts have far exceeded expectations\" - KGAN",
     "bot": "jongsuk_pol_bot",
-    "runId": "45651632658",
-    "sentAt": "2026-11-25T16:11:36.654Z"
+    "runId": "45656542046",
+    "sentAt": "2026-11-25T16:41:30.398Z"
   }
 }

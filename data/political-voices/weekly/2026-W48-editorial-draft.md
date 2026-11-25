@@ -8100,3 +8100,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? - Al Jazeera
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMitAFBVV95cUxOUUhWeFJvZVo0NXhocGgyU1BhZXRlYlBsVEc3bHlaYThpNW9meGR6cnRZWklaWjk3ZC1wdi02UDRYTEE0NnFybWE4UzFqckJ4ZmJ0WndYZnE1UGtnMHp4LU43VmhxWU9zT0NydzE5LXJISHpKSHAwTnpXc2pKaGlNWmRuSjlsYXYxejdKMVFjZi02eExlLWN4a2pyX2paNFZ4amVlaUxjQjlMVVlGeTVsQTZXOVXSAboBQVVfeXFMTnhJbVNNSzhXYnJTelNjRjhjdUs1dGJYeFNmbWZ0eC1jYkh5STlIUDNUXy12clNfU1Y3Nkk0Y2xQbzVVRll1RW5nemw3VmtyMlNOeHVvbGtsVTUyQWZCRWoxTmV6MzZLOWlPWGkwTnItMHJsazNMWDNkU2hadUFYSmFJLTVLNG9KU2tQOVFRVWNyUzdCWF9pbHNhOHFBS2IyY1RFV2dTLXBmYnIyYlFKXzF5SjF6Z3FVZE5n?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** President Trump: "Army's mitigation efforts have far exceeded expectations" - KGAN
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] President Trump: "Army's mitigation efforts have far exceeded expectations"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVJWbnBVUnNXY1paN3Q2a29fMWpVZFp1SFN2dWhhUmNxTVdQYlNfRmgzSThmTENaSnZLRHcxdFVoaV9NbGpHYVZlZndycnZDYlduQkhUQ1A1WGQ3V0hpMlBfTUE4ajJoaTRqaEJQanhOdUkzZVd3T3BITWoxSUpqVHRsMDg4VWUtZzdYbHJWdE5qQUh1NXdiQjVPcExaZnQ0VFd4ckFR?oc=5)
+
+---
+
