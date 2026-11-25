@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T02:11:20.430Z",
+  "lastCheckedAt": "2026-11-25T02:21:22.783Z",
   "seenPostIds": {
-    "ef32ae76fee343a38ca2d51f020a0343af188c05623005741df549fabdab47fc": {
-      "seenAt": "2026-11-22T07:11:13.640Z",
-      "title": "이준석 \"근조 민주당…조희대 탄핵 강행하면 한 방에 무너질 것\" - 뉴스핌",
-      "targetName": "이준석"
-    },
-    "9e4a5f97c0982c61020607415da4a776ddea70e71425dfe9280497e2fd531041": {
-      "seenAt": "2026-11-22T07:11:14.279Z",
-      "title": "'조희대 탄핵' 추진에 이준석 \"근조 민주당…역풍으로 한방에 무너질 것\" - 머니투데이 - 머니투데이",
-      "targetName": "이준석"
-    },
-    "fba0ecf8a2b1592b62f7d4d0cafb4b6db52f149dd979166cf84f87eefbd7c047": {
-      "seenAt": "2026-11-22T07:11:14.938Z",
-      "title": "이준석 \"민주당, 대법원장 탄핵 시 한 방에 무너진다\" - 더팩트",
-      "targetName": "이준석"
-    },
     "29e289e69dd08edab0cd9a91431a32e53f403657c035e4d095bcea8c3b38911e": {
       "seenAt": "2026-11-22T07:31:15.625Z",
       "title": "이재명 대통령, 시험 부정행위 대책 지시…순방 외교 비판에도 입장 밝혀 - 일간투데이",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T02:11:23.594Z",
       "title": "Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week - New York Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "1a465a2629a45bd707b96a413e71f9b7f54a3703e57cacef0861fe990716ec3f": {
+      "seenAt": "2026-11-25T02:21:24.809Z",
+      "title": "정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\" - 시사포커스",
+      "targetName": "정청래"
+    },
+    "dde68cba2404214ccc27d4b7afc54cdef862a52b773bdb95d8df5c5d63a21abd": {
+      "seenAt": "2026-11-25T02:21:25.535Z",
+      "title": "[핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박 - 채널A",
+      "targetName": "정청래"
+    },
+    "9321b3a530d23e472466635cd76ae3a59d77d22b311e6b76b018f02ebd9ed319": {
+      "seenAt": "2026-11-25T02:21:26.295Z",
+      "title": "정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\" - 시사포커스",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "1a465a2629a45bd707b96a413e71f9b7f54a3703e57cacef0861fe990716ec3f",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\" - 시사포커스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9rd3Y1alZ5bm1xUl9VbGg3REZXZmVmQ3VjbHJXVlVncHpxeWZYYUtFb0o4YXhIbndaWF9zQ0c1dlIyXzJvR05RQ2NOMnNZZnBzVlREd3R0dTBJa1k3ZkNvLWJod2FPUUNzVUt0bzZJRQ?oc=5\" target=\"_blank\">정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사포커스</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rd3Y1alZ5bm1xUl9VbGg3REZXZmVmQ3VjbHJXVlVncHpxeWZYYUtFb0o4YXhIbndaWF9zQ0c1dlIyXzJvR05RQ2NOMnNZZnBzVlREd3R0dTBJa1k3ZkNvLWJod2FPUUNzVUt0bzZJRQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:38:16 GMT",
-        "source": "시사포커스",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "dde68cba2404214ccc27d4b7afc54cdef862a52b773bdb95d8df5c5d63a21abd",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "[핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박 - 채널A",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhZ2tFU2VGdWk4aUltTGNsbDJrRWVrZ0NrRVd2NkhEdUYzQjlIeWtlQUVKLWZpUVFHQWVlcTExN3BsZ1dqTjJFenFxMGw4Qi1nUFdrcVY3WnhpRm5HcTRr?oc=5\" target=\"_blank\">[핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhZ2tFU2VGdWk4aUltTGNsbDJrRWVrZ0NrRVd2NkhEdUYzQjlIeWtlQUVKLWZpUVFHQWVlcTExN3BsZ1dqTjJFenFxMGw4Qi1nUFdrcVY3WnhpRm5HcTRr?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 00:40:00 GMT",
-        "source": "채널A",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "9321b3a530d23e472466635cd76ae3a59d77d22b311e6b76b018f02ebd9ed319",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\" - 시사포커스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9rd3Y1alZ5bm1xUl9VbGg3REZXZmVmQ3VjbHJXVlVncHpxeWZYYUtFb0o4YXhIbndaWF9zQ0c1dlIyXzJvR05RQ2NOMnNZZnBzVlREd3R0dTBJa1k3ZkNvLWJod2FPUUNzVUt0bzZJRQ?oc=5\" target=\"_blank\">정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사포커스</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rd3Y1alZ5bm1xUl9VbGg3REZXZmVmQ3VjbHJXVlVncHpxeWZYYUtFb0o4YXhIbndaWF9zQ0c1dlIyXzJvR05RQ2NOMnNZZnBzVlREd3R0dTBJa1k3ZkNvLWJod2FPUUNzVUt0bzZJRQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:38:16 GMT",
-        "source": "시사포커스",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "b5f784c32c551ddd960cfcbd462103cdf45da8bd31d35f6ea9c808ff27f4414e",
@@ -2709,13 +2661,61 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "9559b56f263115de8ab054cab5edfc3f5da37561c8071b61ac8cc2b68f542057",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, 송영길에 “입조심하라” - 뉴스프리존",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1kdFFGNm5MOFlaUTZfOWNiOGRyQ0RLa2dfSy0xSWNfYV9LckRrU0E1cTRMUF9YYUt2Ny14aXEzQk50bDktc0poLVJXamRsTGF3a245b2NpcDJ4WURkRXJlTi1jcTgxS1Eyd18xZktURlU4dnfSAXdBVV95cUxPUXRFRnpPNGJJWTdUajhfTVBZY1ZON0hvaGVtdmVXbHJiUTF6M2x2SWNfb1lSV2FuSzZkNWZJX1ltNy1raUxDaWh2MlhycFg1SUMwZVNDTXVaR3oyMU9LOU1fY1RPcmdOUW1oXzA4cTM2OG1jdGRiVQ?oc=5\" target=\"_blank\">정청래, 송영길에 “입조심하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스프리존</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kdFFGNm5MOFlaUTZfOWNiOGRyQ0RLa2dfSy0xSWNfYV9LckRrU0E1cTRMUF9YYUt2Ny14aXEzQk50bDktc0poLVJXamRsTGF3a245b2NpcDJ4WURkRXJlTi1jcTgxS1Eyd18xZktURlU4dnfSAXdBVV95cUxPUXRFRnpPNGJJWTdUajhfTVBZY1ZON0hvaGVtdmVXbHJiUTF6M2x2SWNfb1lSV2FuSzZkNWZJX1ltNy1raUxDaWh2MlhycFg1SUMwZVNDTXVaR3oyMU9LOU1fY1RPcmdOUW1oXzA4cTM2OG1jdGRiVQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:00:39 GMT",
+        "source": "뉴스프리존",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "43f34e36793ef265dc162fcfdcbc3a7853becf9b2b6208d2b640180ac5153e58",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "정청래, 송영길 향해 작심 비판…“입 싼 송영길과 말 섞고 싶지 않아” - 세계뉴스통신",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9OZUNidFlCR0gyQTdIVEx4N0swLS1iMEtYWDVLRk5PWDV6RFNILWFjdTBxaUc1akJZbkhwZHJ3X2hHWTlJdnBSeTNNd0ltRk1KSXFBX0xCZGt0Q0syTEV4eG41NzI3em0wSi1pbzFJQS1KTHYw?oc=5\" target=\"_blank\">정청래, 송영길 향해 작심 비판…“입 싼 송영길과 말 섞고 싶지 않아”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계뉴스통신</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OZUNidFlCR0gyQTdIVEx4N0swLS1iMEtYWDVLRk5PWDV6RFNILWFjdTBxaUc1akJZbkhwZHJ3X2hHWTlJdnBSeTNNd0ltRk1KSXFBX0xCZGt0Q0syTEV4eG41NzI3em0wSi1pbzFJQS1KTHYw?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:53:44 GMT",
+        "source": "세계뉴스통신",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "c9e336708286f91dc3660828c5c7863e33f3fa08558f0e08ae4937927c41d8d9",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World] - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxRkl1RjhPMUhiVzN5ajFQck1ocGoyZ2QtbmdvdkhtT0NUR3lGYlBNOUFDdzBveWVWT2JNdDhpSU4zY2h2QWRUVUppdndjbkZjdnNnUDc5QUHSAVRBVV95cUxPaGx6VndPdUtFTERVQWF2VWlwc0xoMTZObkZuTEJIbWN3QU1faUNRTG93Sk1lM25LcjJOVk41aHZMek1VYUx6X21naXd6YjEwY1Jfbks?oc=5\" target=\"_blank\">‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxRkl1RjhPMUhiVzN5ajFQck1ocGoyZ2QtbmdvdkhtT0NUR3lGYlBNOUFDdzBveWVWT2JNdDhpSU4zY2h2QWRUVUppdndjbkZjdnNnUDc5QUHSAVRBVV95cUxPaGx6VndPdUtFTERVQWF2VWlwc0xoMTZObkZuTEJIbWN3QU1faUNRTG93Sk1lM25LcjJOVk41aHZMek1VYUx6X21naXd6YjEwY1Jfbks?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 00:05:08 GMT",
+        "source": "세계일보",
+        "ageHours": 2.3
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "60c66ced83ba8f64d5548f3992d8dcef1216768af23f561e0e633af5a387e480",
-    "title": "Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week - New York Post",
+    "postId": "9321b3a530d23e472466635cd76ae3a59d77d22b311e6b76b018f02ebd9ed319",
+    "title": "정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\" - 시사포커스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45531101356",
-    "sentAt": "2026-11-25T02:11:23.233Z"
+    "runId": "45532303579",
+    "sentAt": "2026-11-25T02:21:25.902Z"
   }
 }
