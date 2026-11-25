@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T11:11:13.753Z",
+  "lastCheckedAt": "2026-11-25T11:21:18.963Z",
   "seenPostIds": {
-    "923bd1ab939f749277e676edb0e4e3fa0b9a751dcc7221da1b972f9aae0b8e54": {
-      "seenAt": "2026-11-23T06:21:19.607Z",
-      "title": "조국혁신당, 창당 1000일 앞두고 당명 개정론 부상…조국 ˝확장성 있는 새 이름 찾자˝:경찰연합신문 - 경찰연합신문",
-      "targetName": "조국"
-    },
-    "ffee0500dae87b0e2ade5e4f304f2e0eeedb03e70a3e4376a801a5b558aa1d4e": {
-      "seenAt": "2026-11-23T06:21:20.325Z",
-      "title": "조국혁신당, 조희대 대법원장 탄핵 촉구로 사법부 개혁 요구 쇄도 - 공감신문",
-      "targetName": "조국"
-    },
     "b2ddc0a27feffb2ca383392976034cb466de1b375644764e2f58c93c9e5ebfca": {
       "seenAt": "2026-11-23T06:21:21.037Z",
       "title": "이재명 대통령 ‘대장동’ 글 올리자…국힘 \"할 말 많으면 재판부터\" - JTBC",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-25T11:11:15.757Z",
       "title": "김민석, 진보야당에 ‘조희대 탄핵 연대’ 제안…“완전한 내란 청산” - 중앙일보",
       "targetName": "김민석"
+    },
+    "e17c9128cd136c3be65bc9280524a0ea8fc0c30ab24b1bd05a6ff0bbc229a80c": {
+      "seenAt": "2026-11-25T11:21:20.680Z",
+      "title": "신장식 “조희대 탄핵 관련해 민주당과 비공개 접촉” - 시민일보",
+      "targetName": "신장식"
+    },
+    "cf64544f12a20543293145c73981160fee6383570b1c42e8cf5c5e61909b047e": {
+      "seenAt": "2026-11-25T11:21:21.440Z",
+      "title": "Trump Ordered to Reveal Who Is Paying Up to $100K for Early Access to Posts - Newsweek",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "5ae4488406321b6dafc79b4f48d6c0a98cd4bb115e7c47e795b22798f03f4f6f",
-    "title": "김민석, 진보야당에 ‘조희대 탄핵 연대’ 제안…“완전한 내란 청산” - 중앙일보",
+    "postId": "cf64544f12a20543293145c73981160fee6383570b1c42e8cf5c5e61909b047e",
+    "title": "Trump Ordered to Reveal Who Is Paying Up to $100K for Early Access to Posts - Newsweek",
     "bot": "jongsuk_pol_bot",
-    "runId": "45602028977",
-    "sentAt": "2026-11-25T11:11:15.375Z"
+    "runId": "45603607175",
+    "sentAt": "2026-11-25T11:21:21.044Z"
   }
 }
