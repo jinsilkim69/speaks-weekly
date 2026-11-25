@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T06:31:14.273Z",
+  "lastCheckedAt": "2026-11-25T06:41:17.694Z",
   "seenPostIds": {
-    "13ecc83a55ee44ebae4f7592e89085d1cbdfd68e2b64b06ba0495592c73baf3e": {
-      "seenAt": "2026-11-23T01:51:15.263Z",
-      "title": "[포토] 발언하는 김민석 대표 - 아시아경제",
-      "targetName": "김민석"
-    },
-    "6e8686e31a721411703e27641ab82df09e5dc9fa309e6cd7418f7155a06689d2": {
-      "seenAt": "2026-11-23T01:51:16.012Z",
-      "title": "인터뷰 전문: 박형수 “김민석, 최민희 징계 천명까지 했는데 접기는 쉽지 않을 것” [정치시그널] - 채널A",
-      "targetName": "김민석"
-    },
-    "373982512a29c82ed588fe82bdc71defec840657dced8889ad6f9b8432849685": {
-      "seenAt": "2026-11-23T02:01:17.031Z",
-      "title": "김민석, 지지율 정체·계파 갈등 이중고…취임 100일 메시지 '주목' - 청주일보",
-      "targetName": "김민석"
-    },
     "a95ce5b3edc69f30a02a473fd7bb16e711557b19ac98fc415bbcf4117f27fa7a": {
       "seenAt": "2026-11-23T02:01:17.764Z",
       "title": "이준석, 코스피 반토막에 ``초심자의 운` 경고했지만 조롱 많이 받아`…증시 대책 3가지 제안 - 매일신문",
@@ -2515,36 +2500,83 @@
       "seenAt": "2026-11-25T06:31:16.566Z",
       "title": "조국혁신당에 손 내민 김민석…“조희대 탄핵 연대 제안” - 채널A",
       "targetName": "조국"
+    },
+    "c743728ed962d3d4cd9f102a95676a41288bf13bb4c9f3c899fb190684fafd1a": {
+      "seenAt": "2026-11-25T06:41:19.624Z",
+      "title": "김민석 '잘하고 있다' 14.1%... 조희대 탄핵 '반대' 48.2% - OhmyNews",
+      "targetName": "김민석"
+    },
+    "6d14ead906a44869302742312c14936c803e40f6a92ac2c9569869d0205d9b5c": {
+      "seenAt": "2026-11-25T06:41:20.268Z",
+      "title": "[속보] “입조심하라” 정청래, 송영길 공개 비판…李대통령과 만찬 발언 발단 - 경기일보",
+      "targetName": "송영길"
+    },
+    "9c5b62e87ddabef23feb3acc01d31ebe8c6ee6a640f46d97fac24b053b54963e": {
+      "seenAt": "2026-11-25T06:41:20.954Z",
+      "title": "갈 길 먼 與 ‘내분종식’··· 송영길 “억울한 점 다 들어줘” 정청래 “입조심하라” - 세계일보",
+      "targetName": "송영길"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "c743728ed962d3d4cd9f102a95676a41288bf13bb4c9f3c899fb190684fafd1a",
+        "id": "2b283e093e742f8ab068929959e7fc82264727435ff7c9a491b0f98a08c67954",
         "targetId": "kim_minseok",
         "targetName": "김민석",
         "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 '잘하고 있다' 14.1%... 조희대 탄핵 '반대' 48.2% - OhmyNews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ycUxsMmNpY2dzYzliallHUXBHam1Kckd2Wi1QVG1fTkhnb3ZoU2VwNy0zVWJvOHo0QVVlLVdBTXptZWpNVHppUDJGS3pnWkZfRnZNaS10RUJkX0RSeEJhSTBmT1pLNEJIYXp0SEUwMXpac2hPdk5Z?oc=5\" target=\"_blank\">김민석 '잘하고 있다' 14.1%... 조희대 탄핵 '반대' 48.2%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ycUxsMmNpY2dzYzliallHUXBHam1Kckd2Wi1QVG1fTkhnb3ZoU2VwNy0zVWJvOHo0QVVlLVdBTXptZWpNVHppUDJGS3pnWkZfRnZNaS10RUJkX0RSeEJhSTBmT1pLNEJIYXp0SEUwMXpac2hPdk5Z?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 03:43:00 GMT",
-        "source": "OhmyNews",
-        "ageHours": 2.8
+        "title": "김민석 ‘조용한 100일’…정청래 “신천지 의혹 제기 해당행위” 강공 - 한겨레",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9mci11ZFlsMU1SLUtnU2VDWi1QczhFOVlKTENqWWhIT1BGVWxCOWpfUmxvcmdsU1F1NC04QmhSNV9tTnFYWXQ0TXdVd1VsR3B1Q19SOXcxb2hPUTZ2ZFZWdE93YVBsV0N3c3NkaUNXdGU5ZWdv?oc=5\" target=\"_blank\">김민석 ‘조용한 100일’…정청래 “신천지 의혹 제기 해당행위” 강공</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mci11ZFlsMU1SLUtnU2VDWi1QczhFOVlKTENqWWhIT1BGVWxCOWpfUmxvcmdsU1F1NC04QmhSNV9tTnFYWXQ0TXdVd1VsR3B1Q19SOXcxb2hPUTZ2ZFZWdE93YVBsV0N3c3NkaUNXdGU5ZWdv?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:53:00 GMT",
+        "source": "한겨레",
+        "ageHours": 3.8
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "6d14ead906a44869302742312c14936c803e40f6a92ac2c9569869d0205d9b5c",
+        "id": "0ebe61a9ab4ab4bb76d99250dd32a2f1081ce2b4d4ce7a8c72383d81c67d2d7b",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5TSkpUdW94OEZJYWE1RjItc0xBeTNjRERTY3NiMU9TdEtoYmF0VXhxTlEtWTB5eENzVzMwdGF1NXJ6dG5NVk9GZ3A3Q2l3dlV2SDNlZzNfSHFkZmR6ZVhzbVZwX2MtTHBiNTJ1aFFqX1JoNC0xQjRN?oc=5\" target=\"_blank\">\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TSkpUdW94OEZJYWE1RjItc0xBeTNjRERTY3NiMU9TdEtoYmF0VXhxTlEtWTB5eENzVzMwdGF1NXJ6dG5NVk9GZ3A3Q2l3dlV2SDNlZzNfSHFkZmR6ZVhzbVZwX2MtTHBiNTJ1aFFqX1JoNC0xQjRN?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 05:27:48 GMT",
+        "source": "부산일보",
+        "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "3f2697cd2c53006eacd985802494a90221a13b99accb29d2b6022c0518edd364",
         "targetId": "song_younggil",
         "targetName": "송영길",
         "targetTitle": "소나무당 대표",
-        "title": "[속보] “입조심하라” 정청래, 송영길 공개 비판…李대통령과 만찬 발언 발단 - 경기일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4ZnctN1JhUzRJYWoyVHZRX0x1enpvTjh4US16eVdFLXgwa1pFd2NZcVpFMDZ1aHlqblhZT2RrNmtNbFFjY3dQdFRkSTJXSWx2VHAwcHFub3NMS2M?oc=5\" target=\"_blank\">[속보] “입조심하라” 정청래, 송영길 공개 비판…李대통령과 만찬 발언 발단</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4ZnctN1JhUzRJYWoyVHZRX0x1enpvTjh4US16eVdFLXgwa1pFd2NZcVpFMDZ1aHlqblhZT2RrNmtNbFFjY3dQdFRkSTJXSWx2VHAwcHFub3NMS2M?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 06:25:31 GMT",
-        "source": "경기일보",
+        "title": "정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지” - 주간조선",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5WQ3JwTVJRdjl5QWJDSkVKN3pLNkNRY3J3Ukt5T3FDOXFBV0lBYndSMktTMXVfX0pub1VtbW1wSUJrampRT3F5NjduT3g4aXpvbVF3d0ZlOFZ6Z2VKS0JaS2FzNFpoWUVxT1FJ?oc=5\" target=\"_blank\">정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간조선</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WQ3JwTVJRdjl5QWJDSkVKN3pLNkNRY3J3Ukt5T3FDOXFBV0lBYndSMktTMXVfX0pub1VtbW1wSUJrampRT3F5NjduT3g4aXpvbVF3d0ZlOFZ6Z2VKS0JaS2FzNFpoWUVxT1FJ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 05:30:00 GMT",
+        "source": "주간조선",
+        "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "68c7d8907ec93683ff387e9ddaa475f4b0f9a0d43e00222cfcc825b1d70b4fc8",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "정청래, 송영길에 “입이 너무 싸다…분수를 알아야” - 한겨레",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBzWThYOHR4QzVQaXNqbEttV0xHUjJ6eFA2ZG9lR202TGVSTUt3eEZ1a3E0b2lHQlkzWDVVWUE1YXRNTzZHcjA2QmRUdU5CbHNrRFhnOW5leWVKOW93MDZhSXpaR2plZVVaR2xKa2xxaVVydktn?oc=5\" target=\"_blank\">정청래, 송영길에 “입이 너무 싸다…분수를 알아야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzWThYOHR4QzVQaXNqbEttV0xHUjJ6eFA2ZG9lR202TGVSTUt3eEZ1a3E0b2lHQlkzWDVVWUE1YXRNTzZHcjA2QmRUdU5CbHNrRFhnOW5leWVKOW93MDZhSXpaR2plZVVaR2xKa2xxaVVydktn?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 06:34:00 GMT",
+        "source": "한겨레",
         "ageHours": 0.1
       },
       "delivered": [],
@@ -2552,26 +2584,26 @@
     },
     {
       "post": {
-        "id": "9c5b62e87ddabef23feb3acc01d31ebe8c6ee6a640f46d97fac24b053b54963e",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "갈 길 먼 與 ‘내분종식’··· 송영길 “억울한 점 다 들어줘” 정청래 “입조심하라” - 세계일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfUlA1b2ZwdlJ3aVNJcEhSckpDWGFtMzFMdDhyamJoanJHX2ZPZWt6d1NSeDRrWkJvQVF3aFdZcWwxZkhiN1YzTGs5QTRYYmgtanF4anM4aVXSAVRBVV95cUxOVGhnWFBQVDcwMU81OG8tU09XWDhqakEyVkhfMU40VHhQU0dLT2VJVkp6MGxHQWgta054bDRyelcwNE5vQjZhaENHV3FEMndHN3FYSzA?oc=5\" target=\"_blank\">갈 길 먼 與 ‘내분종식’··· 송영길 “억울한 점 다 들어줘” 정청래 “입조심하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfUlA1b2ZwdlJ3aVNJcEhSckpDWGFtMzFMdDhyamJoanJHX2ZPZWt6d1NSeDRrWkJvQVF3aFdZcWwxZkhiN1YzTGs5QTRYYmgtanF4anM4aVXSAVRBVV95cUxOVGhnWFBQVDcwMU81OG8tU09XWDhqakEyVkhfMU40VHhQU0dLT2VJVkp6MGxHQWgta054bDRyelcwNE5vQjZhaENHV3FEMndHN3FYSzA?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 04:14:45 GMT",
-        "source": "세계일보",
-        "ageHours": 2.3
+        "id": "4f838d782a26c90137c604d65fd70b78b8199b4eddbdca315cb1f52deb8a34d4",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "범여권 ‘조희대 탄핵’ 공동추진...신장식 “빠르게 출범” vs 양부남 “민주당 소추안부터” - 매일경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaR2RWNlBhY21kT3dLNVZZSVVTYkt0a2Y1NGhKWXpZRnpzNVlndl9fcklFWGFTTGg5R1FfVWFLaDIwZEdIdVNxY21DWUVTNTAwX01sc2Fn?oc=5\" target=\"_blank\">범여권 ‘조희대 탄핵’ 공동추진...신장식 “빠르게 출범” vs 양부남 “민주당 소추안부터”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaR2RWNlBhY21kT3dLNVZZSVVTYkt0a2Y1NGhKWXpZRnpzNVlndl9fcklFWGFTTGg5R1FfVWFLaDIwZEdIdVNxY21DWUVTNTAwX01sc2Fn?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 05:42:08 GMT",
+        "source": "매일경제",
+        "ageHours": 1
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "33893b6501d344148c55f78d7435f201e983389ead1c1eb6568a737e0e20cc01",
-    "title": "조국혁신당에 손 내민 김민석…“조희대 탄핵 연대 제안” - 채널A",
+    "postId": "9c5b62e87ddabef23feb3acc01d31ebe8c6ee6a640f46d97fac24b053b54963e",
+    "title": "갈 길 먼 與 ‘내분종식’··· 송영길 “억울한 점 다 들어줘” 정청래 “입조심하라” - 세계일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45561178158",
-    "sentAt": "2026-11-25T06:31:16.256Z"
+    "runId": "45562416983",
+    "sentAt": "2026-11-25T06:41:20.603Z"
   }
 }

@@ -6995,3 +6995,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 '잘하고 있다' 14.1%... 조희대 탄핵 '반대' 48.2% - OhmyNews
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 '잘하고 있다' 14.1%... 조희대 탄핵 '반대' 48.2%
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE5ycUxsMmNpY2dzYzliallHUXBHam1Kckd2Wi1QVG1fTkhnb3ZoU2VwNy0zVWJvOHo0QVVlLVdBTXptZWpNVHppUDJGS3pnWkZfRnZNaS10RUJkX0RSeEJhSTBmT1pLNEJIYXp0SEUwMXpac2hPdk5Z?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** [속보] “입조심하라” 정청래, 송영길 공개 비판…李대통령과 만찬 발언 발단 - 경기일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “입조심하라” 정청래, 송영길 공개 비판…李대통령과 만찬 발언 발단
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4ZnctN1JhUzRJYWoyVHZRX0x1enpvTjh4US16eVdFLXgwa1pFd2NZcVpFMDZ1aHlqblhZT2RrNmtNbFFjY3dQdFRkSTJXSWx2VHAwcHFub3NMS2M?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 갈 길 먼 與 ‘내분종식’··· 송영길 “억울한 점 다 들어줘” 정청래 “입조심하라” - 세계일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 갈 길 먼 與 ‘내분종식’··· 송영길 “억울한 점 다 들어줘” 정청래 “입조심하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfUlA1b2ZwdlJ3aVNJcEhSckpDWGFtMzFMdDhyamJoanJHX2ZPZWt6d1NSeDRrWkJvQVF3aFdZcWwxZkhiN1YzTGs5QTRYYmgtanF4anM4aVXSAVRBVV95cUxOVGhnWFBQVDcwMU81OG8tU09XWDhqakEyVkhfMU40VHhQU0dLT2VJVkp6MGxHQWgta054bDRyelcwNE5vQjZhaENHV3FEMndHN3FYSzA?oc=5)
+
+---
+
