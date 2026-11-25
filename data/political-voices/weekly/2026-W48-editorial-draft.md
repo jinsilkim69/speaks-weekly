@@ -5851,3 +5851,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래 "입 싼 송영길과 말 섞고 싶지 않아...자격 없는 사람 입조심 하라" - 뉴스핌
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "입 싼 송영길과 말 섞고 싶지 않아...자격 없는 사람 입조심 하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qRThHdHN0SXB5M2xDLUpCNEhaQ25HYUFZX01UdTBGNkhjbl9NUU5jOUNrWWYzdGNpMHg0cC1BcjNLWkd4VjFrNUR4UU9QS2s2V3hYTGNPTG4zT2tP?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래 “송영길, 입 너무 싸다…말 섞고 싶지 않아” 불쾌감 직접 드러내 - 매일경제
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 “송영길, 입 너무 싸다…말 섞고 싶지 않아” 불쾌감 직접 드러내
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TLWdlU3I3VmxXTGJUOWVYdGhka2NJZ0l5VTFVbU9kazZ6R09YUk9UZURPeTVRYjYxeE00azFkQU9udEliZEhCT2d2N201Yk1XUlVPWllB?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래 "송영길, 입조심하는 게 좋을 것…李 관련 더 조심해야" - 뉴스1
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "송영길, 입조심하는 게 좋을 것…李 관련 더 조심해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE84ZnRPdjROaDNCQ19xWTI0TmJldXBNNEE5dHZLdzlnMThfMWNtTGVnMHVtLWVGYk9oVFRySUtDWGhuWWJKVW5CZHJjZm9kdklKLVQxMnMyTVVPZw?oc=5)
+
+---
+

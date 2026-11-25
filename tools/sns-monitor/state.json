@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T01:41:24.272Z",
+  "lastCheckedAt": "2026-11-25T01:51:13.466Z",
   "seenPostIds": {
-    "648d1fa9eb74e79584eac4f4591aeb527067ecd65adabef8026e3a637156b89d": {
-      "seenAt": "2026-11-22T06:21:26.139Z",
-      "title": "취임 100일 앞둔 김민석…계파 갈등 수습 과제 - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
-    "5f8cac6499c6c42409e7d243f4a370e2427607f8fab79978d1029760e6d639b8": {
-      "seenAt": "2026-11-22T06:21:26.756Z",
-      "title": "조국혁신당 창당일 앞두고 조국 \"새 당명 고민해달라\" - OhmyNews",
-      "targetName": "조국"
-    },
-    "dadb42f91df45d7191f7904a4bb2479e08b458e39ab2d489dc733a2689e13dfa": {
-      "seenAt": "2026-11-22T06:31:14.240Z",
-      "title": "정청래 전 대표, 순창 떡볶이페스타서 시민들과 환담 - 전북도민일보",
-      "targetName": "정청래"
-    },
     "62938c0ee9d371c093e82c09c8f69ce99eef266fd90f86d524e3dee5595506e7": {
       "seenAt": "2026-11-22T06:41:16.498Z",
       "title": "국힘, 與 조희대 탄핵 추진에 “이게 진짜 내란”…한동훈·이준석도 반발 - 중앙이코노미뉴스",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T01:41:27.896Z",
       "title": "송영길 \"李대통령, 억울한 점 다독여줬다\"...정청래 \"입 조심하라\" - 머니투데이 - 머니투데이",
       "targetName": "송영길"
+    },
+    "8707fd7a33c25463f314e66fb35ff9ad81fe80e93e75771b9e724e684490cdf9": {
+      "seenAt": "2026-11-25T01:51:14.812Z",
+      "title": "정청래 \"입 싼 송영길과 말 섞고 싶지 않아...자격 없는 사람 입조심 하라\" - 뉴스핌",
+      "targetName": "송영길"
+    },
+    "88017330b34a135e0378ceda1ee09feb5191bcb19d70f5edf09de88ff674ecb2": {
+      "seenAt": "2026-11-25T01:51:15.458Z",
+      "title": "정청래 “송영길, 입 너무 싸다…말 섞고 싶지 않아” 불쾌감 직접 드러내 - 매일경제",
+      "targetName": "송영길"
+    },
+    "292c4b13170355e649cd74b935945067fc37d144da5e5c7276e1fd5ed0538d75": {
+      "seenAt": "2026-11-25T01:51:16.165Z",
+      "title": "정청래 \"송영길, 입조심하는 게 좋을 것…李 관련 더 조심해야\" - 뉴스1",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "8707fd7a33c25463f314e66fb35ff9ad81fe80e93e75771b9e724e684490cdf9",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래 \"입 싼 송영길과 말 섞고 싶지 않아...자격 없는 사람 입조심 하라\" - 뉴스핌",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qRThHdHN0SXB5M2xDLUpCNEhaQ25HYUFZX01UdTBGNkhjbl9NUU5jOUNrWWYzdGNpMHg0cC1BcjNLWkd4VjFrNUR4UU9QS2s2V3hYTGNPTG4zT2tP?oc=5\" target=\"_blank\">정청래 \"입 싼 송영길과 말 섞고 싶지 않아...자격 없는 사람 입조심 하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qRThHdHN0SXB5M2xDLUpCNEhaQ25HYUFZX01UdTBGNkhjbl9NUU5jOUNrWWYzdGNpMHg0cC1BcjNLWkd4VjFrNUR4UU9QS2s2V3hYTGNPTG4zT2tP?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:24:00 GMT",
-        "source": "뉴스핌",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "88017330b34a135e0378ceda1ee09feb5191bcb19d70f5edf09de88ff674ecb2",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래 “송영길, 입 너무 싸다…말 섞고 싶지 않아” 불쾌감 직접 드러내 - 매일경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TLWdlU3I3VmxXTGJUOWVYdGhka2NJZ0l5VTFVbU9kazZ6R09YUk9UZURPeTVRYjYxeE00azFkQU9udEliZEhCT2d2N201Yk1XUlVPWllB?oc=5\" target=\"_blank\">정청래 “송영길, 입 너무 싸다…말 섞고 싶지 않아” 불쾌감 직접 드러내</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TLWdlU3I3VmxXTGJUOWVYdGhka2NJZ0l5VTFVbU9kazZ6R09YUk9UZURPeTVRYjYxeE00azFkQU9udEliZEhCT2d2N201Yk1XUlVPWllB?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:23:07 GMT",
-        "source": "매일경제",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "292c4b13170355e649cd74b935945067fc37d144da5e5c7276e1fd5ed0538d75",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래 \"송영길, 입조심하는 게 좋을 것…李 관련 더 조심해야\" - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE84ZnRPdjROaDNCQ19xWTI0TmJldXBNNEE5dHZLdzlnMThfMWNtTGVnMHVtLWVGYk9oVFRySUtDWGhuWWJKVW5CZHJjZm9kdklKLVQxMnMyTVVPZw?oc=5\" target=\"_blank\">정청래 \"송영길, 입조심하는 게 좋을 것…李 관련 더 조심해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84ZnRPdjROaDNCQ19xWTI0TmJldXBNNEE5dHZLdzlnMThfMWNtTGVnMHVtLWVGYk9oVFRySUtDWGhuWWJKVW5CZHJjZm9kdklKLVQxMnMyTVVPZw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:06:49 GMT",
-        "source": "뉴스1",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "ff585f3f9c8eb3cea3e7d1bc17b0e07a605c294d97af0db21bcf0d0828a544d7",
@@ -2661,13 +2613,77 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "1a465a2629a45bd707b96a413e71f9b7f54a3703e57cacef0861fe990716ec3f",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\" - 시사포커스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9rd3Y1alZ5bm1xUl9VbGg3REZXZmVmQ3VjbHJXVlVncHpxeWZYYUtFb0o4YXhIbndaWF9zQ0c1dlIyXzJvR05RQ2NOMnNZZnBzVlREd3R0dTBJa1k3ZkNvLWJod2FPUUNzVUt0bzZJRQ?oc=5\" target=\"_blank\">정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사포커스</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rd3Y1alZ5bm1xUl9VbGg3REZXZmVmQ3VjbHJXVlVncHpxeWZYYUtFb0o4YXhIbndaWF9zQ0c1dlIyXzJvR05RQ2NOMnNZZnBzVlREd3R0dTBJa1k3ZkNvLWJod2FPUUNzVUt0bzZJRQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:38:16 GMT",
+        "source": "시사포커스",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "dde68cba2404214ccc27d4b7afc54cdef862a52b773bdb95d8df5c5d63a21abd",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "[핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박 - 채널A",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhZ2tFU2VGdWk4aUltTGNsbDJrRWVrZ0NrRVd2NkhEdUYzQjlIeWtlQUVKLWZpUVFHQWVlcTExN3BsZ1dqTjJFenFxMGw4Qi1nUFdrcVY3WnhpRm5HcTRr?oc=5\" target=\"_blank\">[핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhZ2tFU2VGdWk4aUltTGNsbDJrRWVrZ0NrRVd2NkhEdUYzQjlIeWtlQUVKLWZpUVFHQWVlcTExN3BsZ1dqTjJFenFxMGw4Qi1nUFdrcVY3WnhpRm5HcTRr?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 00:40:00 GMT",
+        "source": "채널A",
+        "ageHours": 1.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "9321b3a530d23e472466635cd76ae3a59d77d22b311e6b76b018f02ebd9ed319",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\" - 시사포커스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9rd3Y1alZ5bm1xUl9VbGg3REZXZmVmQ3VjbHJXVlVncHpxeWZYYUtFb0o4YXhIbndaWF9zQ0c1dlIyXzJvR05RQ2NOMnNZZnBzVlREd3R0dTBJa1k3ZkNvLWJod2FPUUNzVUt0bzZJRQ?oc=5\" target=\"_blank\">정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사포커스</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rd3Y1alZ5bm1xUl9VbGg3REZXZmVmQ3VjbHJXVlVncHpxeWZYYUtFb0o4YXhIbndaWF9zQ0c1dlIyXzJvR05RQ2NOMnNZZnBzVlREd3R0dTBJa1k3ZkNvLWJod2FPUUNzVUt0bzZJRQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:38:16 GMT",
+        "source": "시사포커스",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b5f784c32c551ddd960cfcbd462103cdf45da8bd31d35f6ea9c808ff27f4414e",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "김민석, ‘조희대 탄핵’ 5당 연대 공식 제안…신장식 “환영” - 헤럴드경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMS2V1aG14eHhleHJGamZGcVhZckRWQ1liTmtwLXNSSHRaM01Ea3dUUGpEc1VPYVZIcHA2NklNM2daVFhiZDhqNFJaVGtCeXJuaTRmSFZR?oc=5\" target=\"_blank\">김민석, ‘조희대 탄핵’ 5당 연대 공식 제안…신장식 “환영”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMS2V1aG14eHhleHJGamZGcVhZckRWQ1liTmtwLXNSSHRaM01Ea3dUUGpEc1VPYVZIcHA2NklNM2daVFhiZDhqNFJaVGtCeXJuaTRmSFZR?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:44:31 GMT",
+        "source": "헤럴드경제",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "981609f1d579e2791780e8cabfa69e7f26cb76b9dcc394c4381de9f0d641da7c",
-    "title": "송영길 \"李대통령, 억울한 점 다독여줬다\"...정청래 \"입 조심하라\" - 머니투데이 - 머니투데이",
+    "postId": "292c4b13170355e649cd74b935945067fc37d144da5e5c7276e1fd5ed0538d75",
+    "title": "정청래 \"송영길, 입조심하는 게 좋을 것…李 관련 더 조심해야\" - 뉴스1",
     "bot": "jongsuk_pol_bot",
-    "runId": "45527532293",
-    "sentAt": "2026-11-25T01:41:27.524Z"
+    "runId": "45528731367",
+    "sentAt": "2026-11-25T01:51:15.844Z"
   }
 }
