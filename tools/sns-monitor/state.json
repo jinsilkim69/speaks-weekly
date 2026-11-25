@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T22:31:16.490Z",
+  "lastCheckedAt": "2026-11-25T22:41:21.647Z",
   "seenPostIds": {
-    "7e320061ac967a8f524b607213e7243d5ac4e4ea3924aba5cb63960d08f80d45": {
-      "seenAt": "2026-11-23T08:51:16.197Z",
-      "title": "조국혁신당 전남광주시당 \"조희대 대법원장 즉각 탄핵해야\" - 연합뉴스",
-      "targetName": "조국"
-    },
     "b53fd3531e8b235c5780ab713a3e8aa7fd9226da4b85f3029360369524d7190a": {
       "seenAt": "2026-11-23T08:51:16.823Z",
       "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’… 인천 청년 주거·취업·역차별 논의 - 엔디엔뉴스",
@@ -2505,14 +2500,29 @@
       "seenAt": "2026-11-25T22:31:17.767Z",
       "title": "\"입 싼 송영길, 말 안 섞어\" 거친 말 쏟아낸 정청래... 왜? - OhmyNews",
       "targetName": "정청래"
+    },
+    "43d56207c4ab5f714d97c392c11844922612c7b8ba44cc98088d7b4970a73069": {
+      "seenAt": "2026-11-25T22:41:23.079Z",
+      "title": "김민석 vs 정청래 중재하려다…\"송영길, 입이 싸다\" - SBS 뉴스",
+      "targetName": "김민석"
+    },
+    "4c427aa1735adab070047dbea678b0888348f9fce007f71250b9521d0ee55b60": {
+      "seenAt": "2026-11-25T22:41:23.688Z",
+      "title": "김민석, '조희대 탄핵' 5당 연대 제안…혁신당은 환영 속 유감 - 경북도민일보",
+      "targetName": "김민석"
+    },
+    "c8f7dc96dab567974a6169577587822c40d35c42b3236f4d1fcb88e397e84062": {
+      "seenAt": "2026-11-25T22:41:24.298Z",
+      "title": "Trump Media Must Disclose Who Is Paying Up to $100K for Early Access to Truth Social Posts, Fed. Judge Rules - Law.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "d7e9cd841c1bd02792d20b18f06c39d0292282c897eaaf3106aa104da8cd3718",
-    "title": "\"입 싼 송영길, 말 안 섞어\" 거친 말 쏟아낸 정청래... 왜? - OhmyNews",
+    "postId": "c8f7dc96dab567974a6169577587822c40d35c42b3236f4d1fcb88e397e84062",
+    "title": "Trump Media Must Disclose Who Is Paying Up to $100K for Early Access to Truth Social Posts, Fed. Judge Rules - Law.com",
     "bot": "jongsuk_pol_bot",
-    "runId": "45713886787",
-    "sentAt": "2026-11-25T22:31:17.279Z"
+    "runId": "45715303378",
+    "sentAt": "2026-11-25T22:41:23.992Z"
   }
 }

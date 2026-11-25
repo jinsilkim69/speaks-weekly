@@ -8321,3 +8321,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 vs 정청래 중재하려다…"송영길, 입이 싸다" - SBS 뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 vs 정청래 중재하려다…"송영길, 입이 싸다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wd0x1MktFZ3k5djRuTThqVDZxbHNWRjY2bktiQVR4WlZIblpVUU9fYkhjVWxfeHVNVUZoUk5pTnh0elZ3aWtpOHhpalVfMUZvR0FPTVc5dlVDNWdCMElSd2plM2Z6Qml2dGfSAWZBVV95cUxNY0JkdDNFTmh1MXVjb2tNY0t4TWxyV3F0b3gwa1hhQm5sQjY1Sm5lQzVQdmVkSWpWMU84OTk0WVkzZk5jV2lQeURnOVR6NHo5SndRRTQ1LWcweUx6TXZfMm00NTl5N1E?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, '조희대 탄핵' 5당 연대 제안…혁신당은 환영 속 유감 - 경북도민일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, '조희대 탄핵' 5당 연대 제안…혁신당은 환영 속 유감
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFAtMnpOUnBocDU5cm5PanZ6LXFxeE9mRm5iY3l3MkoxTFcwa2NKLV9YaUVxWnhMdW5MamFFbmdBbFJ1Q2tGMmVhMlNDMDNrWHU5eHhNSlRUcTFxZW4yZDhtUHpYazlNd3loRXc?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Media Must Disclose Who Is Paying Up to $100K for Early Access to Truth Social Posts, Fed. Judge Rules - Law.com
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Media Must Disclose Who Is Paying Up to $100K for Early Access to Truth Social Posts, Fed. Judge Rules
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNenFSMGp3OVp0OWF0Z1NvY2lIbHdielhFVUN1aDlVNHYyWlgtTm9DVDZHYkQyZTFxR0lyY3dWbWJyalR2enVGcms3cGpBSXRHeF9RRjllQnh0OFV6c2hQNEM3OTFTcXVQUFFtUkdlTlFjUU56UGF0dGl4RnJhVFpHMVlYUlZqXzA5dlBSZExsOGVwT25GenhCX2o1U3ZNT0RIa1g2SHFzTGwtdFBKWUZsTGZldnhXSlVHTWxHTGNHRFdWRFhwMUN6QV90U3dJbE9ZeHNWd0VnVXhTMFhFaTNXMnFiODEtM3V5ZW1j?oc=5)
+
+---
+
