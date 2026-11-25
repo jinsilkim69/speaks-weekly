@@ -6514,3 +6514,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 김민석, ‘조희대 탄핵’ 5당 연대 공식 제안…조국혁신당 “환영” - 아시아타임즈
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, ‘조희대 탄핵’ 5당 연대 공식 제안…조국혁신당 “환영”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oem1tZnAwTmNYS3I5aWVZS0lTSG0zRl9lakxtRjh6eXhwTjhvbjRXN2V3TjVpTEdDOHhGbUp0M29zdjhhY1pxdWdGakNVOWQ4eklRNWxhejlzeFZabnc?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE1zaXJYZXBkNkpEcjJmTkJoTW5TdF9xRG1YNGJBS1lpbWR4ZFFTRll6aHUydnhHVnUzd3dCUDMxWFZQVlRQUVBZQkxsX0J6NDZiMGdVUHlINHpmc1BOR2o0SkdTc2VpNm5mWjlVMG45cmI?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE1zaXJYZXBkNkpEcjJmTkJoTW5TdF9xRG1YNGJBS1lpbWR4ZFFTRll6aHUydnhHVnUzd3dCUDMxWFZQVlRQUVBZQkxsX0J6NDZiMGdVUHlINHpmc1BOR2o0SkdTc2VpNm5mWjlVMG45cmI?oc=5)
+
+---
+
