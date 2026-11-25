@@ -5929,3 +5929,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlTHB6aHJsZTBEWklqVkpVVFpqcXB4Y3dUQmR5aEhmTzYyeUI2cFNUMFNwaUlXa1hyU2dKMG1NRGVEdzNQVWpfbEtFRlROMXQ1bngyVFBua1Ryd2ZuNkwwNXRHVQ?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "8월 청와대서 鄭 억울함 4시간 들어" 정청래 "입조심하라" - 조선일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "8월 청와대서 鄭 억울함 4시간 들어" 정청래 "입조심하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMikAFBVV95cUxOMlFzNGc0V3Z6WXc3MFVIQnVsNkpveEM3VE4xQUs3ZGxyWTlHYmxzSUY2R1FNLXR0ajVyVC1uOFlCcUJtNEJQQnhtM192UEJndDdaN1ZIVEI2Si1vTVg1U0R1bVhvdUFFQ25QRmpucTNlaUJIa1JPUzl3NHgtY0pJaHI4a1ZZZlctS0xnV0JGQ1U?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week - New York Post
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHVzd2h3em1OLWJ2ekNOTzZTMHZTSGVZdXFMcmJtM08ya1h3aWRUeXRBQnhRdGxCMldNZkh1Z0NzaFIxeEdMRmhZZ0hlMFFHUm9zcWM2a21MMEp3WjFQVk5kZVgxWDdldHFBSE0tdXJYT0RFSXpWbWJvMU4yX00wUW1UejRRRGZlT1Uzei1CbXdJeXl5a1A3TWNvN1BlQkpQaXh4WGp3Z0xoUTQ3dnVPdHBHOUZCN0Nza0FCRTF3eVpOUGE5cnFHVHhJUVNvN3AzQ3hz?oc=5)
+
+---
+

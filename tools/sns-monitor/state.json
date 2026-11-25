@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T02:01:23.749Z",
+  "lastCheckedAt": "2026-11-25T02:11:20.430Z",
   "seenPostIds": {
-    "8e3d00da913562b4ca26a58f1439f755bbb4a3c684a3b323c91b24806ec70248": {
-      "seenAt": "2026-11-22T07:01:20.284Z",
-      "title": "\"'궁디팡팡' 이재명 대통령, 전 세계 동포들이 응원합니다!\" #shorts - 오마이TV - OhmyNews",
-      "targetName": "이재명"
-    },
-    "625dece5bb0edf256195144110ee51406fdbe59894c70abcd6e80f38c2b8fedf": {
-      "seenAt": "2026-11-22T07:01:21.052Z",
-      "title": "이재명 대통령 \"시험지 촬영·외부 전송 기술적으로 막겠다\" - 국제뉴스",
-      "targetName": "이재명"
-    },
-    "372b3ad7d3ff624f838f9aacab0da43a0025846c803b83b7b0d62083b87549f1": {
-      "seenAt": "2026-11-22T07:01:21.836Z",
-      "title": "장동혁 \"이재명 탈옥 위한 탄핵\"…한동훈 \"서부지법 폭력보다 나빠\" - JTBC",
-      "targetName": "한동훈"
-    },
     "ef32ae76fee343a38ca2d51f020a0343af188c05623005741df549fabdab47fc": {
       "seenAt": "2026-11-22T07:11:13.640Z",
       "title": "이준석 \"근조 민주당…조희대 탄핵 강행하면 한 방에 무너질 것\" - 뉴스핌",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T02:01:26.554Z",
       "title": "한동훈 “조희태 탄핵 인용되면 의원직 사퇴···서영교도 걸어라” - 주간경향",
       "targetName": "한동훈"
+    },
+    "1235fe8d0c0a9ebc078f58e7bc3efd5b9434c1ff8476fffc7e0981d79fa25758": {
+      "seenAt": "2026-11-25T02:11:22.113Z",
+      "title": "한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문",
+      "targetName": "한동훈"
+    },
+    "d4fcc47b7957327faa3fe64e5c34b5c4bff59175a2fccd9f0cd510ca64c2238f": {
+      "seenAt": "2026-11-25T02:11:22.833Z",
+      "title": "송영길 \"8월 청와대서 鄭 억울함 4시간 들어\" 정청래 \"입조심하라\" - 조선일보",
+      "targetName": "송영길"
+    },
+    "60c66ced83ba8f64d5548f3992d8dcef1216768af23f561e0e633af5a387e480": {
+      "seenAt": "2026-11-25T02:11:23.594Z",
+      "title": "Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week - New York Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "1235fe8d0c0a9ebc078f58e7bc3efd5b9434c1ff8476fffc7e0981d79fa25758",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlTHB6aHJsZTBEWklqVkpVVFpqcXB4Y3dUQmR5aEhmTzYyeUI2cFNUMFNwaUlXa1hyU2dKMG1NRGVEdzNQVWpfbEtFRlROMXQ1bngyVFBua1Ryd2ZuNkwwNXRHVQ?oc=5\" target=\"_blank\">한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에너지경제신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlTHB6aHJsZTBEWklqVkpVVFpqcXB4Y3dUQmR5aEhmTzYyeUI2cFNUMFNwaUlXa1hyU2dKMG1NRGVEdzNQVWpfbEtFRlROMXQ1bngyVFBua1Ryd2ZuNkwwNXRHVQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:38:13 GMT",
-        "source": "에너지경제신문",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d4fcc47b7957327faa3fe64e5c34b5c4bff59175a2fccd9f0cd510ca64c2238f",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 \"8월 청와대서 鄭 억울함 4시간 들어\" 정청래 \"입조심하라\" - 조선일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOMlFzNGc0V3Z6WXc3MFVIQnVsNkpveEM3VE4xQUs3ZGxyWTlHYmxzSUY2R1FNLXR0ajVyVC1uOFlCcUJtNEJQQnhtM192UEJndDdaN1ZIVEI2Si1vTVg1U0R1bVhvdUFFQ25QRmpucTNlaUJIa1JPUzl3NHgtY0pJaHI4a1ZZZlctS0xnV0JGQ1U?oc=5\" target=\"_blank\">송영길 \"8월 청와대서 鄭 억울함 4시간 들어\" 정청래 \"입조심하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMlFzNGc0V3Z6WXc3MFVIQnVsNkpveEM3VE4xQUs3ZGxyWTlHYmxzSUY2R1FNLXR0ajVyVC1uOFlCcUJtNEJQQnhtM192UEJndDdaN1ZIVEI2Si1vTVg1U0R1bVhvdUFFQ25QRmpucTNlaUJIa1JPUzl3NHgtY0pJaHI4a1ZZZlctS0xnV0JGQ1U?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:22:00 GMT",
-        "source": "조선일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "60c66ced83ba8f64d5548f3992d8dcef1216768af23f561e0e633af5a387e480",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week - New York Post",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHVzd2h3em1OLWJ2ekNOTzZTMHZTSGVZdXFMcmJtM08ya1h3aWRUeXRBQnhRdGxCMldNZkh1Z0NzaFIxeEdMRmhZZ0hlMFFHUm9zcWM2a21MMEp3WjFQVk5kZVgxWDdldHFBSE0tdXJYT0RFSXpWbWJvMU4yX00wUW1UejRRRGZlT1Uzei1CbXdJeXl5a1A3TWNvN1BlQkpQaXh4WGp3Z0xoUTQ3dnVPdHBHOUZCN0Nza0FCRTF3eVpOUGE5cnFHVHhJUVNvN3AzQ3hz?oc=5\" target=\"_blank\">Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHVzd2h3em1OLWJ2ekNOTzZTMHZTSGVZdXFMcmJtM08ya1h3aWRUeXRBQnhRdGxCMldNZkh1Z0NzaFIxeEdMRmhZZ0hlMFFHUm9zcWM2a21MMEp3WjFQVk5kZVgxWDdldHFBSE0tdXJYT0RFSXpWbWJvMU4yX00wUW1UejRRRGZlT1Uzei1CbXdJeXl5a1A3TWNvN1BlQkpQaXh4WGp3Z0xoUTQ3dnVPdHBHOUZCN0Nza0FCRTF3eVpOUGE5cnFHVHhJUVNvN3AzQ3hz?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 22:56:00 GMT",
-        "source": "New York Post",
-        "ageHours": 2.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "1a465a2629a45bd707b96a413e71f9b7f54a3703e57cacef0861fe990716ec3f",
@@ -2741,13 +2693,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "4b4ea02f38c718b236b5d683c742bea9c41d69bf40b2a3bcc494d8fcc28ecaac",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 \"조희대 탄핵 인용되면 의원직 던진다… 서영교도 걸어야\" - 한국일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBPVnRqTExUSk81OXA0NmtaRERubXpsWVliaWlPNmZ2SS0zSkdVbU5hWEpzR0RpeFlFRHNKb2dIN011Mmg4VDRIVHd2QjZYLXhzbmMwNF9UTVl5OU9mRDJWMWRta3ZlX1p5RUo0bjRn?oc=5\" target=\"_blank\">한동훈 \"조희대 탄핵 인용되면 의원직 던진다… 서영교도 걸어야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPVnRqTExUSk81OXA0NmtaRERubXpsWVliaWlPNmZ2SS0zSkdVbU5hWEpzR0RpeFlFRHNKb2dIN011Mmg4VDRIVHd2QjZYLXhzbmMwNF9UTVl5OU9mRDJWMWRta3ZlX1p5RUo0bjRn?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:50:00 GMT",
+        "source": "한국일보",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "b6a28b447691edc6ee026195988f853edaa53b0a1b6776cc41539c905c02ef45",
-    "title": "한동훈 “조희태 탄핵 인용되면 의원직 사퇴···서영교도 걸어라” - 주간경향",
+    "postId": "60c66ced83ba8f64d5548f3992d8dcef1216768af23f561e0e633af5a387e480",
+    "title": "Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week - New York Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "45529900308",
-    "sentAt": "2026-11-25T02:01:26.250Z"
+    "runId": "45531101356",
+    "sentAt": "2026-11-25T02:11:23.233Z"
   }
 }
