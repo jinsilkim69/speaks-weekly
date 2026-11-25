@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T07:41:13.628Z",
+  "lastCheckedAt": "2026-11-25T07:51:16.367Z",
   "seenPostIds": {
-    "4baf4f075190191bdc8ebf10b56eb950fa2f5a0433fd03527bcc43d4af05a38e": {
-      "seenAt": "2026-11-23T03:21:17.251Z",
-      "title": "신천지 조사 두고 최고위 또 충돌…김민석, 박선원에 구두 경고 - 노컷뉴스",
-      "targetName": "김민석"
-    },
-    "85d357902ba6f962fc8078320ec811959bd6380c458189f4b3b41fdcb4d51a52": {
-      "seenAt": "2026-11-23T03:31:15.203Z",
-      "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치 - 연합뉴스",
-      "targetName": "김민석"
-    },
-    "44e9295387e2413a490a9c08c6c0c88e00afaa82fd77e6298199f5524fcceea7": {
-      "seenAt": "2026-11-23T03:31:15.886Z",
-      "title": "송영길 의원, 인천 12개 대학 총학생회와 '치맥 간담회'…청년 주거·취업 등 현안 논의 - 포커스인천",
-      "targetName": "송영길"
-    },
     "84696f657c2dab60cf90115d539824c5b17756489c44bcd0ce366268151d0fed": {
       "seenAt": "2026-11-23T03:31:16.646Z",
       "title": "“당명 속 ‘조국’ 제 이름은 아니지만”…당명 개정 제안, 확장성 강조 - 동아일보",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T07:41:15.953Z",
       "title": "정청래, 李대통령 대화 언급한 송영길 비판 “입 조심해야” - 스페셜타임스",
       "targetName": "정청래"
+    },
+    "b5d46ee93a2aad06977a07ef31170c115ca8ba4b340b23edce47c9b28748e1d8": {
+      "seenAt": "2026-11-25T07:51:17.777Z",
+      "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" | - 연합인포맥스",
+      "targetName": "정청래"
+    },
+    "d5ee9aa628665772a7af9bbc61bc452186de08024c1ed2fc9d3977c699d5cf05": {
+      "seenAt": "2026-11-25T07:51:18.442Z",
+      "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
+      "targetName": "송영길"
+    },
+    "e8291a0f54815c80e16a0378b544724a9f6af70ec430d12207ca5858c72a823b": {
+      "seenAt": "2026-11-25T07:51:19.110Z",
+      "title": "\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\" - 조선일보",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "b5d46ee93a2aad06977a07ef31170c115ca8ba4b340b23edce47c9b28748e1d8",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" | - 연합인포맥스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5nYXBPV0dSdG4xQnhsVFJGQ3lzTWxZdlcxQ3FIVDNib1BLVG8zU0FDLV9ydnRuamZfYjkwQ1VuZzRSTHZHWHZCOHFEbnN1UklUb1A3Vl9MSFU1dEFweFAwRkFiNktDUGpCM3QxelB5WEJOZ0lN?oc=5\" target=\"_blank\">송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합인포맥스</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nYXBPV0dSdG4xQnhsVFJGQ3lzTWxZdlcxQ3FIVDNib1BLVG8zU0FDLV9ydnRuamZfYjkwQ1VuZzRSTHZHWHZCOHFEbnN1UklUb1A3Vl9MSFU1dEFweFAwRkFiNktDUGpCM3QxelB5WEJOZ0lN?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 04:08:15 GMT",
-        "source": "연합인포맥스",
-        "ageHours": 3.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d5ee9aa628665772a7af9bbc61bc452186de08024c1ed2fc9d3977c699d5cf05",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5TSkpUdW94OEZJYWE1RjItc0xBeTNjRERTY3NiMU9TdEtoYmF0VXhxTlEtWTB5eENzVzMwdGF1NXJ6dG5NVk9GZ3A3Q2l3dlV2SDNlZzNfSHFkZmR6ZVhzbVZwX2MtTHBiNTJ1aFFqX1JoNC0xQjRN?oc=5\" target=\"_blank\">\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TSkpUdW94OEZJYWE1RjItc0xBeTNjRERTY3NiMU9TdEtoYmF0VXhxTlEtWTB5eENzVzMwdGF1NXJ6dG5NVk9GZ3A3Q2l3dlV2SDNlZzNfSHFkZmR6ZVhzbVZwX2MtTHBiNTJ1aFFqX1JoNC0xQjRN?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 05:27:48 GMT",
-        "source": "부산일보",
-        "ageHours": 2.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "e8291a0f54815c80e16a0378b544724a9f6af70ec430d12207ca5858c72a823b",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\" - 조선일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeGZNb3E0dGM0S2l5QmlwNEJ1UjdtX3drY1hod1luRDVLZUpXOHJUVzJPY0FzeE5xZ05mZ083czgxeV83aEZzUkV2OXpFamljSFVQemZ3a3d5eXdnc19CWk1GWEhuYldjNzVqN3drdy04Qm1FZTJxcG9ZYmVqU3B0QUNENmdGU1FzZUdB?oc=5\" target=\"_blank\">\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeGZNb3E0dGM0S2l5QmlwNEJ1UjdtX3drY1hod1luRDVLZUpXOHJUVzJPY0FzeE5xZ05mZ083czgxeV83aEZzUkV2OXpFamljSFVQemZ3a3d5eXdnc19CWk1GWEhuYldjNzVqN3drdy04Qm1FZTJxcG9ZYmVqU3B0QUNENmdGU1FzZUdB?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 01:29:00 GMT",
-        "source": "조선일보",
-        "ageHours": 6.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "368c331eb1b16504a365c2aecf79d1e4d316197357be56a22ea6928ec8a7bf11",
@@ -2581,13 +2533,45 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "560120bf0addd8ae122bf94e0acdf47c817deb94be83bf9e353b6f527c35a070",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 \"조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자” - 이투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE81SmxFY1RSV19tWDJ6WkxWWkVLa0VnNjgxRWNCdHg2QjA5SjZIRVlKdXlSMG5vNUlYT2xPUnhPRFNSeDhtd0RSak1GZUxJa0lmSmpZNQ?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81SmxFY1RSV19tWDJ6WkxWWkVLa0VnNjgxRWNCdHg2QjA5SjZIRVlKdXlSMG5vNUlYT2xPUnhPRFNSeDhtd0RSak1GZUxJa0lmSmpZNQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 07:36:00 GMT",
+        "source": "이투데이",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "75ce7c300cd4efe7e9b9771b7ad6bab95630a5b25bc7eb957dec9663d4a01e2d",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "김민석, '조희대 탄핵 5당 연대' 제안…신장식 \"12월 3일까지 표결해야\" - 녹색경제신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTi1JYnJfZXBZeEZkSjlYWTRtRHFIRXVJTjRHTEk5aUNFUmM5bXE0MS0yMjNTTDhaYjNYcFdGQUl3LUNNX1VKLXkyUnZDV3p6UExBVktEa0I0QjFfSjh2TEs5aFVwTi11?oc=5\" target=\"_blank\">김민석, '조희대 탄핵 5당 연대' 제안…신장식 \"12월 3일까지 표결해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">녹색경제신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTi1JYnJfZXBZeEZkSjlYWTRtRHFIRXVJTjRHTEk5aUNFUmM5bXE0MS0yMjNTTDhaYjNYcFdGQUl3LUNNX1VKLXkyUnZDV3p6UExBVktEa0I0QjFfSjh2TEs5aFVwTi11?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 07:38:39 GMT",
+        "source": "녹색경제신문",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "10c346a077842a6dd847576d12ebffaf249aef510280e487c57dbe32237dd5de",
-    "title": "정청래, 李대통령 대화 언급한 송영길 비판 “입 조심해야” - 스페셜타임스",
+    "postId": "e8291a0f54815c80e16a0378b544724a9f6af70ec430d12207ca5858c72a823b",
+    "title": "\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\" - 조선일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45570051277",
-    "sentAt": "2026-11-25T07:41:15.648Z"
+    "runId": "45571355749",
+    "sentAt": "2026-11-25T07:51:18.782Z"
   }
 }
