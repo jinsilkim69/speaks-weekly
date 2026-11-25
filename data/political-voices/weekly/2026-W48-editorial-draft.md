@@ -6878,3 +6878,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** "李, 정청래 억울함 4시간 들어줘"…정청래 "송영길 의원은 입조심 하시라" - 부산일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "李, 정청래 억울함 4시간 들어줘"…정청래 "송영길 의원은 입조심 하시라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFB3LWFIU0xqLUtVMmVMQV9IRVJpX092eHIyaGhQaTFBTWRlNjFBUVlnY1EweGYzbVU4eGp0TnNESEFuU0ZJWVozcVI3ei0zb3JJOF9WOE9NT0pjeXkzdENzY2hFb0d5MWNDeHNxM3UxSHZ5aU1IT1lpag?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** ‘송영길, 李대통령이 억울함 4시간 들어줘’ 발언에 정청래 “사람이 좀 묵직해야⋯입조심 하라” - 강원일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘송영길, 李대통령이 억울함 4시간 들어줘’ 발언에 정청래 “사람이 좀 묵직해야⋯입조심 하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mVFY3UmNvMzd2VUZOcWZHbzh5TjQyUzM3UXF0R0NJRExDRW9SWDBVNDlfOHd0MWdJNlJGM3VBWnI3bnFaeUJudnFhU2hlc1cxUHlBS3ppdVdXbUk?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "李, 정청래 억울함 4시간 들어줘"…정청래 "송영길 의원은 입조심 하시라" - 부산일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "李, 정청래 억울함 4시간 들어줘"…정청래 "송영길 의원은 입조심 하시라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFB3LWFIU0xqLUtVMmVMQV9IRVJpX092eHIyaGhQaTFBTWRlNjFBUVlnY1EweGYzbVU4eGp0TnNESEFuU0ZJWVozcVI3ei0zb3JJOF9WOE9NT0pjeXkzdENzY2hFb0d5MWNDeHNxM3UxSHZ5aU1IT1lpag?oc=5)
+
+---
+

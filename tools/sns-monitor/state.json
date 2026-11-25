@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T06:01:17.207Z",
+  "lastCheckedAt": "2026-11-25T06:11:16.649Z",
   "seenPostIds": {
-    "ad6b2fcd43bfb00a6fa4a6ad9d1327d8ac9425b4bb175a78995ffe790cc8952e": {
-      "seenAt": "2026-11-23T01:11:34.771Z",
-      "title": "국민의힘 \"이재명 대통령, SNS 셀프 판결…방탄의 혀가 길어질 뿐\" - 한국사회복지저널",
-      "targetName": "이재명"
-    },
     "cb7967086db1071990ed0d75c82191fd640f76e74a50ad7752af6893bd3df62e": {
       "seenAt": "2026-11-23T01:11:35.460Z",
       "title": "[정치家] 김민석 더불어민주당 대표 ⑫ㅣ 조희대 탄핵 강공·당내 기강 다잡기…청년·당정청 소통도 강화 - CBC뉴스",
@@ -2505,14 +2500,62 @@
       "seenAt": "2026-11-25T06:01:18.605Z",
       "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" | - 연합인포맥스",
       "targetName": "송영길"
+    },
+    "14d8a114fcf8bff5efe19476b4c2f2ce304d288efeded9c9458c1820d5ddd51f": {
+      "seenAt": "2026-11-25T06:11:18.221Z",
+      "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
+      "targetName": "정청래"
+    },
+    "30516755763532209ea6245c58218bfbceb8fbed46f73639784e4afbdf8aacf4": {
+      "seenAt": "2026-11-25T06:11:18.913Z",
+      "title": "‘송영길, 李대통령이 억울함 4시간 들어줘’ 발언에 정청래 “사람이 좀 묵직해야⋯입조심 하라” - 강원일보",
+      "targetName": "송영길"
+    },
+    "4c33b1e119b68b69b808ec12abb85ba12f0ce8dd28bbee4d8337b60bd5cd8d6b": {
+      "seenAt": "2026-11-25T06:11:19.604Z",
+      "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
+      "targetName": "송영길"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "9bb0f7515f178347d01af51cff7b94b3181ccb7b4efc3b92e33d7eb464c28414",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "운전대 잡은뒤 경악했다…이준석 실소한 ‘尹 조수석’ 사건 - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE81VU9qRklsdVppTVE0UkRpbEhhWmJEdEgtUWZEcjBwT2tPWnNKd21pWlVsaXlDUVpzLVptTUh4eDVzNXJCeGVxLWF5MjMweXgwSExFdXFB?oc=5\" target=\"_blank\">운전대 잡은뒤 경악했다…이준석 실소한 ‘尹 조수석’ 사건</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81VU9qRklsdVppTVE0UkRpbEhhWmJEdEgtUWZEcjBwT2tPWnNKd21pWlVsaXlDUVpzLVptTUh4eDVzNXJCeGVxLWF5MjMweXgwSExFdXFB?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 06:01:09 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "bf45642845f03d82ba2bdd92c1f370a9f1b1f45d8db50f13429204b958e6078b",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "이준석 “장동혁, 부정선거 붙잡고 버텨…한동훈식 검찰정치도 위험” - 미주중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CU0M1NnZheWRRb1RrV2tubUEyeXJNSlVUY1pyTV84dG9iUkNzdF8yWVpxcWRHb0ZQdlc0QjBMc1B6Y3FEWFE3SFdHQUhaTlROaTZsa2U0UUNNVks3dVpWTExn?oc=5\" target=\"_blank\">이준석 “장동혁, 부정선거 붙잡고 버텨…한동훈식 검찰정치도 위험”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미주중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CU0M1NnZheWRRb1RrV2tubUEyeXJNSlVUY1pyTV84dG9iUkNzdF8yWVpxcWRHb0ZQdlc0QjBMc1B6Y3FEWFE3SFdHQUhaTlROaTZsa2U0UUNNVks3dVpWTExn?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 15:02:00 GMT",
+        "source": "미주중앙일보",
+        "ageHours": 15.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "f1bf77897b2029cc33f5af996ffab98c7e1d93742be6839cb5405c28c65912b1",
-    "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" | - 연합인포맥스",
+    "postId": "4c33b1e119b68b69b808ec12abb85ba12f0ce8dd28bbee4d8337b60bd5cd8d6b",
+    "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45557521664",
-    "sentAt": "2026-11-25T06:01:18.050Z"
+    "runId": "45558716065",
+    "sentAt": "2026-11-25T06:11:19.256Z"
   }
 }
