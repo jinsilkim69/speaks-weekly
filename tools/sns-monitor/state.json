@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T21:41:17.181Z",
+  "lastCheckedAt": "2026-11-25T21:51:18.222Z",
   "seenPostIds": {
     "7b76e85c6aee4b8da994d59abd572f5af6bb5f55fb95a984e65a6f81daa41ae3": {
       "seenAt": "2026-11-23T08:31:18.524Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-25T21:21:14.689Z",
       "title": "Trump defends controversial Ramaswamy ad as top Republicans call for taking it down - ABC News - Breaking News, Latest News and Videos",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "3003ef14b7e3bf6cc85a2b1487852322d70592734190c3ab68ef533aae55dd8e": {
+      "seenAt": "2026-11-25T21:51:19.583Z",
+      "title": "민주당 신천지 공방 격화…김민석·정청래·송영길, 최민희 징계 심의 앞두고 계파 갈등 고조 - CBC뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "0da0212aa1000494dcaffb04be5532f66e36faac0d3eb190e186112f0361c4e5",
-    "title": "Trump defends controversial Ramaswamy ad as top Republicans call for taking it down - ABC News - Breaking News, Latest News and Videos",
+    "postId": "3003ef14b7e3bf6cc85a2b1487852322d70592734190c3ab68ef533aae55dd8e",
+    "title": "민주당 신천지 공방 격화…김민석·정청래·송영길, 최민희 징계 심의 앞두고 계파 갈등 고조 - CBC뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45703516442",
-    "sentAt": "2026-11-25T21:21:14.359Z"
+    "runId": "45708063958",
+    "sentAt": "2026-11-25T21:51:18.933Z"
   }
 }
