@@ -7489,3 +7489,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** "정청래 '결자해지' 깃발, 김민석 내려오라는 것" #shorts - 오마이TV - OhmyNews
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "정청래 '결자해지' 깃발, 김민석 내려오라는 것" #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE1uZUZzRHVGMXYxY2JxSWprN2ZKY2FSVUhER0JSaWhibGZ0US00SlBXMTNCbDB4LUFDN2pjT2JrQTZURHRybGdrZXR4LWtyOFRLMW1JNUM5UUlzclNBYlpocjhFU2d4WjlKQS1YY3A1QjYzS1YzbVJiSDdPUmpQQVE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 험난했던 '김민석 100일'..."결자해지" "아직 60점" - YTN
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 험난했던 '김민석 100일'..."결자해지" "아직 60점"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GSW9DTVdkN201c25Ub3dJdV9ORGQ0NjdwbDBpazIxa2p3aWEzeGFRaldNYWt1RmpZQ3RlWmI0VG81RlNJLVFmUEZQelhsWVJId3YtUXZMOVJnWjVPRkE?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 "李대통령 鄭 억울함 4시간 들어줘"…정청래 "입조심하라" - 연합뉴스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "李대통령 鄭 억울함 4시간 들어줘"…정청래 "입조심하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jVGRaek90bmpvcVp4UHZ2eTdTeHJoSU9oZlNqRzUyY2JRTUpsaEZURzJsNnlXMGtNcnpmYXJmWkkxTzhvOENibWhoUy1qRHY0emZ0SFVXaVJhVTjSAWBBVV95cUxOWENqMWU2S055SElMVVJlQ0hPN1ljS3ZyQ1ZPeEZpQmdKQnlNcGRSRUJQdXJWX25TS1JKdjRPaEZ1NkNzcWRnQXRFWDZYT2tQR1J6bW5wOHE0dU1hdk1GVlg?oc=5)
+
+---
+

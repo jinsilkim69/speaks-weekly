@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T09:21:19.528Z",
+  "lastCheckedAt": "2026-11-25T09:31:14.926Z",
   "seenPostIds": {
     "35699fcacd2726f6f42b1d7d051f9ebdd91d675b6954d6f566a415c6d388d2bd": {
       "seenAt": "2026-11-23T05:21:19.440Z",
@@ -2500,14 +2500,46 @@
       "seenAt": "2026-11-25T09:11:14.435Z",
       "title": "김민석, 조희대 대법원장 탄핵 ‘5당 연대’ 공식 제안…신장식, 즉각 환영 - 신문고뉴스",
       "targetName": "신장식"
+    },
+    "7f4a151d04d50b2ea70ebdb974374abcba996a5ea5a7a9190a453bb87adee9d7": {
+      "seenAt": "2026-11-25T09:31:16.258Z",
+      "title": "\"정청래 '결자해지' 깃발, 김민석 내려오라는 것\" #shorts - 오마이TV - OhmyNews",
+      "targetName": "김민석"
+    },
+    "e96b66d75dc398b672937e7553617e603aab28990df2147cf537b12b24d31b69": {
+      "seenAt": "2026-11-25T09:31:16.916Z",
+      "title": "험난했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
+      "targetName": "김민석"
+    },
+    "bf6c55b9acb377f4dd1b6254ced8c2d8c081a7d5ac0940d1ddbf9b666bcaba80": {
+      "seenAt": "2026-11-25T09:31:17.633Z",
+      "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
+      "targetName": "정청래"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "edda9f07ca4d3e1032db1435e003cf2c62a9bd10d02ef106d1de4e3d58cd3333",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "정청래 “입 싼 송영길과는 말 섞고 싶지 않다”… 발끈한 이유는 - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ITTlhWlVhWDUxaFlobG9NaHhuVjhNTWVfdXdITGxsenVyNFZrSXlOeGExaU5YSlNVX1p6LXVQTURGbFRuSDFOcFVkSnNKS01pN0hENmlyQmzSAVRBVV95cUxOa1I3dTRuZTVvRGhTdjY3Q2hyVDJadk1meEZuVlF1d09EalJRaDBkdFRwVWN5STlOMnBQOFB2SkJOSmgxeHF0elNreXlCRWxrWndZQTA?oc=5\" target=\"_blank\">정청래 “입 싼 송영길과는 말 섞고 싶지 않다”… 발끈한 이유는</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ITTlhWlVhWDUxaFlobG9NaHhuVjhNTWVfdXdITGxsenVyNFZrSXlOeGExaU5YSlNVX1p6LXVQTURGbFRuSDFOcFVkSnNKS01pN0hENmlyQmzSAVRBVV95cUxOa1I3dTRuZTVvRGhTdjY3Q2hyVDJadk1meEZuVlF1d09EalJRaDBkdFRwVWN5STlOMnBQOFB2SkJOSmgxeHF0elNreXlCRWxrWndZQTA?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 08:05:21 GMT",
+        "source": "세계일보",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "52d0b9e058f5f374ff3e69643dda25cc6c582d63984e2acc383f1a24c59f5911",
-    "title": "김민석, 조희대 대법원장 탄핵 ‘5당 연대’ 공식 제안…신장식, 즉각 환영 - 신문고뉴스",
+    "postId": "bf6c55b9acb377f4dd1b6254ced8c2d8c081a7d5ac0940d1ddbf9b666bcaba80",
+    "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45582966401",
-    "sentAt": "2026-11-25T09:11:13.868Z"
+    "runId": "45586138881",
+    "sentAt": "2026-11-25T09:31:17.245Z"
   }
 }
