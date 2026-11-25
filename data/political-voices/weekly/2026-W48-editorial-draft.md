@@ -6670,3 +6670,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 민주당 김민석 대표 "조희대 대법원장 탄핵 위해 5당(조국혁신당, 진보당, 기본소득당, 사회민주당) 연대 제안" - 에브리뉴스 EveryNews
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 김민석 대표 "조희대 대법원장 탄핵 위해 5당(조국혁신당, 진보당, 기본소득당, 사회민주당) 연대 제안"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE81NzdWd05TVzFDSnZyUGJ4dWNVandqZ2RVWDNjLU9pWWdjcl9OVmpERDBXUEgzeDhyR2lZNzg4a0RfVkJOUnMzYkxvcHg2UVNGV29Gd28yLXhzd3FFS1dyajc5eDhPQV9MQlpHMVB3?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 "환영" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 "환영"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTFAwZVVQVFVGTlEtcVd2YUlDdFZfcFFmOXNkWTRrUnR1M252cVBHajUyelBZaTJITWRIS2FwM191ZTVYVmN5dnVjQXRqV0pwdUFsU1Z2MVpELXI2aE45b0FFazJER3RKQ1M5QzJHbTVHTjdWd9IBckFVX3lxTFAwZVVQVFVGTlEtcVd2YUlDdFZfcFFmOXNkWTRrUnR1M252cVBHajUyelBZaTJITWRIS2FwM191ZTVYVmN5dnVjQXRqV0pwdUFsU1Z2MVpELXI2aE45b0FFazJER3RKQ1M5QzJHbTVHTjdWdw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 "환영" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 "환영"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE1fWlBPSkZZYjBrSDRWWkJ1dWczV1ZfYS1fUDFMQVgxdldINzhiUU80azMwRTlOVUp3RjJBQmgyYU1fSEdCRWFoeXVBaG9CNnZFamlGRGZkbUpqQVluWGJKYXRtYy1PWjJmN0tneFJwMnFzWWN0UG04aXJB0gF_QVVfeXFMUERsVGdqWDVhalB3cHFaSDBCZlBXZU4tLTR2aThncnhGekhremRQZUVkcWFoNnY5anZYUEVoOGJscDZnS1Jua2d6THdYcEZtaURiOHA3WXdSQ1I0ZXBXbzBPNE42SXBrYnNlT0RzRFNxWTRDVjJ3NUdHWFRKMnAxSQ?oc=5)
+
+---
+

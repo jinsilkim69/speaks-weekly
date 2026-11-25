@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T05:01:20.100Z",
+  "lastCheckedAt": "2026-11-25T05:11:16.747Z",
   "seenPostIds": {
-    "9c5acb0dd1ad5137829748c131cc72b2a9f29327ac809d62ad198c5222f557cd": {
-      "seenAt": "2026-11-22T18:31:20.427Z",
-      "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "59eb8507cbdf77a780e7931e4ac852c2489054d84c2c0cb722470ecca35311a0": {
-      "seenAt": "2026-11-22T18:43:08.111Z",
-      "title": "\"민주당 대법원장 탄핵, 서부지법 폭력보다 더 나빠\"...한동훈 의원, 조희대 탄핵 맹공 - 사이렌스",
-      "targetName": "한동훈"
-    },
-    "6748179f99c5a3e57f596d1f98b5375cbf6cf419bc5c6826cb2fcdba473882c0": {
-      "seenAt": "2026-11-22T19:01:15.521Z",
-      "title": "이재명 대통령, ‘대장동 의혹’ 또 반박…“업자와 결탁한 시장 아냐” - 국제신문",
-      "targetName": "이재명"
-    },
     "2a729d44060cdd707d2bd29aca26e4a8f7b823e47b28b47bab3a03457868e0a4": {
       "seenAt": "2026-11-22T19:31:16.772Z",
       "title": "조작기소 특검법은 왜 이재명 대통령에게 독배인가 - 시사IN",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T05:01:23.720Z",
       "title": "이준석 KB운용 실장 “AI 구경꾼 돼선 안돼…승자독식 기업 담아야” [진주 in 재테크] - 데일리안",
       "targetName": "이준석"
+    },
+    "967aa7088d9c279eb2dd1176348abbf7dcef2d8b8a8c4ad053caa9ffc2616932": {
+      "seenAt": "2026-11-25T05:11:18.224Z",
+      "title": "민주당 김민석 대표 \"조희대 대법원장 탄핵 위해 5당(조국혁신당, 진보당, 기본소득당, 사회민주당) 연대 제안\" - 에브리뉴스 EveryNews",
+      "targetName": "조국"
+    },
+    "831d1a25de212533386f1b4a69af5ce63698603d85c97da8b3e671e4de46741b": {
+      "seenAt": "2026-11-25T05:11:18.965Z",
+      "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
+      "targetName": "신장식"
+    },
+    "5dab03701817ccb44bd1f29acaaef8749ef002206b87bf1371c8c22258185822": {
+      "seenAt": "2026-11-25T05:11:19.671Z",
+      "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "967aa7088d9c279eb2dd1176348abbf7dcef2d8b8a8c4ad053caa9ffc2616932",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "민주당 김민석 대표 \"조희대 대법원장 탄핵 위해 5당(조국혁신당, 진보당, 기본소득당, 사회민주당) 연대 제안\" - 에브리뉴스 EveryNews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE81NzdWd05TVzFDSnZyUGJ4dWNVandqZ2RVWDNjLU9pWWdjcl9OVmpERDBXUEgzeDhyR2lZNzg4a0RfVkJOUnMzYkxvcHg2UVNGV29Gd28yLXhzd3FFS1dyajc5eDhPQV9MQlpHMVB3?oc=5\" target=\"_blank\">민주당 김민석 대표 \"조희대 대법원장 탄핵 위해 5당(조국혁신당, 진보당, 기본소득당, 사회민주당) 연대 제안\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">에브리뉴스 EveryNews</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81NzdWd05TVzFDSnZyUGJ4dWNVandqZ2RVWDNjLU9pWWdjcl9OVmpERDBXUEgzeDhyR2lZNzg4a0RfVkJOUnMzYkxvcHg2UVNGV29Gd28yLXhzd3FFS1dyajc5eDhPQV9MQlpHMVB3?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:49:00 GMT",
-        "source": "에브리뉴스 EveryNews",
-        "ageHours": 1.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "831d1a25de212533386f1b4a69af5ce63698603d85c97da8b3e671e4de46741b",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAwZVVQVFVGTlEtcVd2YUlDdFZfcFFmOXNkWTRrUnR1M252cVBHajUyelBZaTJITWRIS2FwM191ZTVYVmN5dnVjQXRqV0pwdUFsU1Z2MVpELXI2aE45b0FFazJER3RKQ1M5QzJHbTVHTjdWd9IBckFVX3lxTFAwZVVQVFVGTlEtcVd2YUlDdFZfcFFmOXNkWTRrUnR1M252cVBHajUyelBZaTJITWRIS2FwM191ZTVYVmN5dnVjQXRqV0pwdUFsU1Z2MVpELXI2aE45b0FFazJER3RKQ1M5QzJHbTVHTjdWdw?oc=5\" target=\"_blank\">혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwZVVQVFVGTlEtcVd2YUlDdFZfcFFmOXNkWTRrUnR1M252cVBHajUyelBZaTJITWRIS2FwM191ZTVYVmN5dnVjQXRqV0pwdUFsU1Z2MVpELXI2aE45b0FFazJER3RKQ1M5QzJHbTVHTjdWd9IBckFVX3lxTFAwZVVQVFVGTlEtcVd2YUlDdFZfcFFmOXNkWTRrUnR1M252cVBHajUyelBZaTJITWRIS2FwM191ZTVYVmN5dnVjQXRqV0pwdUFsU1Z2MVpELXI2aE45b0FFazJER3RKQ1M5QzJHbTVHTjdWdw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:30:41 GMT",
-        "source": "머니투데이",
-        "ageHours": 2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5dab03701817ccb44bd1f29acaaef8749ef002206b87bf1371c8c22258185822",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1fWlBPSkZZYjBrSDRWWkJ1dWczV1ZfYS1fUDFMQVgxdldINzhiUU80azMwRTlOVUp3RjJBQmgyYU1fSEdCRWFoeXVBaG9CNnZFamlGRGZkbUpqQVluWGJKYXRtYy1PWjJmN0tneFJwMnFzWWN0UG04aXJB0gF_QVVfeXFMUERsVGdqWDVhalB3cHFaSDBCZlBXZU4tLTR2aThncnhGekhremRQZUVkcWFoNnY5anZYUEVoOGJscDZnS1Jua2d6THdYcEZtaURiOHA3WXdSQ1I0ZXBXbzBPNE42SXBrYnNlT0RzRFNxWTRDVjJ3NUdHWFRKMnAxSQ?oc=5\" target=\"_blank\">혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fWlBPSkZZYjBrSDRWWkJ1dWczV1ZfYS1fUDFMQVgxdldINzhiUU80azMwRTlOVUp3RjJBQmgyYU1fSEdCRWFoeXVBaG9CNnZFamlGRGZkbUpqQVluWGJKYXRtYy1PWjJmN0tneFJwMnFzWWN0UG04aXJB0gF_QVVfeXFMUERsVGdqWDVhalB3cHFaSDBCZlBXZU4tLTR2aThncnhGekhremRQZUVkcWFoNnY5anZYUEVoOGJscDZnS1Jua2d6THdYcEZtaURiOHA3WXdSQ1I0ZXBXbzBPNE42SXBrYnNlT0RzRFNxWTRDVjJ3NUdHWFRKMnAxSQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:30:41 GMT",
-        "source": "머니투데이",
-        "ageHours": 2.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "86b7bec3048cf6d46b2cc4aa3c1cd095d4a71beb138f46130fb22ce54aa4fbfd",
@@ -2597,13 +2549,45 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "ba6b95f3c9040e5cd98465ad789eaccb8db3d20d22e64a97c53cad362b42cdb1",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 \"조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라\" - 시사포커스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBvQlBiTDk2Rm5ZSjNZdnpVbEFTTS16NVZPQXoxMmgxYzR1VWJLMTBjR0lTbjloNHpaUGF2M2xuS2oyUEJuSWF3am9ucnA5aWpXTW5MV2JXSnYwVS1fcFlaYzJha3pYdkEzVmUyVUNQVQ?oc=5\" target=\"_blank\">한동훈 \"조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사포커스</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvQlBiTDk2Rm5ZSjNZdnpVbEFTTS16NVZPQXoxMmgxYzR1VWJLMTBjR0lTbjloNHpaUGF2M2xuS2oyUEJuSWF3am9ucnA5aWpXTW5MV2JXSnYwVS1fcFlaYzJha3pYdkEzVmUyVUNQVQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:08:58 GMT",
+        "source": "시사포커스",
+        "ageHours": 4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "35063c4295d04c15afd0de96bfe9f77e3448845715a4d08c80f43d7f455ce956",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것” - 시사저널",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5ITUNZUDhSUXRkQi1Pd253Zi1mYUJjWW1ETHpXUlZpcFJrdzBfTjlVSnBoQ0dpa3FpT1h5N2t4bW5KMDYwTTIybVFjczVGanhDR1ZfV1dUbWRFZjRKXy11NnpsLWVRTVNwbDE2WkszOFJJenPSAXNBVV95cUxOSE1DWVA4UlF0ZEItT3dud2YtZmFCY1ltREx6V1JWaXBSa3cwX045VUpwaENHaWtxaU9YeTdreG1uSjA2ME0yMm1RY3M1Rmp4Q0dWX1dXVG1kRWY0Sl8tdTZ6bC1lUU1TcGwxNlpLMzhSSXpz?oc=5\" target=\"_blank\">김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ITUNZUDhSUXRkQi1Pd253Zi1mYUJjWW1ETHpXUlZpcFJrdzBfTjlVSnBoQ0dpa3FpT1h5N2t4bW5KMDYwTTIybVFjczVGanhDR1ZfV1dUbWRFZjRKXy11NnpsLWVRTVNwbDE2WkszOFJJenPSAXNBVV95cUxOSE1DWVA4UlF0ZEItT3dud2YtZmFCY1ltREx6V1JWaXBSa3cwX045VUpwaENHaWtxaU9YeTdreG1uSjA2ME0yMm1RY3M1Rmp4Q0dWX1dXVG1kRWY0Sl8tdTZ6bC1lUU1TcGwxNlpLMzhSSXpz?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 05:16:08 GMT",
+        "source": "시사저널",
+        "ageHours": 23.9
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "acd4f67b8ef984b5da64d8d0311e742b3de5e0ed169e0b387f147432b738dfd5",
-    "title": "이준석 KB운용 실장 “AI 구경꾼 돼선 안돼…승자독식 기업 담아야” [진주 in 재테크] - 데일리안",
+    "postId": "5dab03701817ccb44bd1f29acaaef8749ef002206b87bf1371c8c22258185822",
+    "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45550642265",
-    "sentAt": "2026-11-25T05:01:23.297Z"
+    "runId": "45551781495",
+    "sentAt": "2026-11-25T05:11:19.305Z"
   }
 }
