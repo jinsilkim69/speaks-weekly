@@ -5578,3 +5578,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “조희대 탄핵시 의원직 사퇴…서영교·박선원도 사퇴 약속하라” - 헤럴드경제
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “조희대 탄핵시 의원직 사퇴…서영교·박선원도 사퇴 약속하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53aFVfaXhsaHFjRlBiZGJZXzRselF0eC1jVGhxSEFjaXNIUjVEQ1ZyU2owajhtTlBKejFxS09EZ2dnZTc5YThXamhFOGtMSVRyek4zejlR?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "한동훈, 남을 찌르기만 했던 분…검찰 정치는 위험" - 청주일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "한동훈, 남을 찌르기만 했던 분…검찰 정치는 위험"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE5ObV9sQThzanBDY2NuWmtpZ2ZMTEpSalRXSUNfLVJERXQ0clNmVVhqVXU2OXhPX25Mckd1dV9qeWlFcDNkMU5saUIxeTloR0JYWTkzYnh5SDNlalVZTk1HLUk5UWRCblVKaVE?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 외교부, 조국 日 입국 거부에 유감·항의 전달…"사실관계 확인 요청" > 뉴스포커스 - SeattleN
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 외교부, 조국 日 입국 거부에 유감·항의 전달…"사실관계 확인 요청" > 뉴스포커스
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE5MalJaS0swMlg0TE5oMWsyZVkxMDlDRjVkYVBzLVpXUHJkdzMyWWxIbTNXWERqaDlSWVFLeHdUQUw3ZUFrTmFGZVgwSmlJS3gwUlU0b0JCeUt4bFk0WUxoUVBXWDhFWXhodGJERUFjamlLWkU?oc=5)
+
+---
+

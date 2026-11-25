@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T00:31:14.863Z",
+  "lastCheckedAt": "2026-11-25T00:41:12.960Z",
   "seenPostIds": {
     "16e71ae084a1db2fe844725f3215bae526b2c9cf88abbc0c8f8882d36017f30c": {
       "seenAt": "2026-11-22T04:51:14.057Z",
@@ -2500,14 +2500,46 @@
       "seenAt": "2026-11-25T00:21:17.444Z",
       "title": "조국, 연이은 호남 강연 행보…\"민생·개혁보다 내부 분쟁에 몰두\" - KBC광주방송",
       "targetName": "조국"
+    },
+    "6fcbedf56cad51d43758d529580217fd6be409a7810b4227f2852bf941c21e41": {
+      "seenAt": "2026-11-25T00:41:14.190Z",
+      "title": "한동훈 “조희대 탄핵시 의원직 사퇴…서영교·박선원도 사퇴 약속하라” - 헤럴드경제",
+      "targetName": "한동훈"
+    },
+    "ff9a67a584082c2cb8176eb3c5aff23c74c6ed35ebf42744a0625988afb055f0": {
+      "seenAt": "2026-11-25T00:41:14.854Z",
+      "title": "이준석 \"한동훈, 남을 찌르기만 했던 분…검찰 정치는 위험\" - 청주일보",
+      "targetName": "이준석"
+    },
+    "04016326508cc519cee2110c700871cf0af0fd380115f0389d2729f4f956eb9e": {
+      "seenAt": "2026-11-25T00:41:15.526Z",
+      "title": "외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스 - SeattleN",
+      "targetName": "조국"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "fae3ad6682a04f424bf0ed78ae837da3d899e1eeebb2688d10b52db3222d21d3",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 조국혁신당 의원 “4개 항만공사 통합 용역 중단\" 촉구 - 브레이크뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oUGFXYjc4Z0U1cnlrVldGSUd4djlKY215djhuc2RfTXFrTTN4dDhaa29QRDRwS3VRNUdzSmxrd0JhaE0xTXBzcg?oc=5\" target=\"_blank\">신장식 조국혁신당 의원 “4개 항만공사 통합 용역 중단\" 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">브레이크뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9oUGFXYjc4Z0U1cnlrVldGSUd4djlKY215djhuc2RfTXFrTTN4dDhaa29QRDRwS3VRNUdzSmxrd0JhaE0xTXBzcg?oc=5",
+        "pubDate": "Tue, 24 Nov 2026 05:15:00 GMT",
+        "source": "브레이크뉴스",
+        "ageHours": 19.4
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "061f1d8146d802fb599acc39422c458dbd6a33376f9778e3886cc1a6c421c7db",
-    "title": "조국, 연이은 호남 강연 행보…\"민생·개혁보다 내부 분쟁에 몰두\" - KBC광주방송",
+    "postId": "04016326508cc519cee2110c700871cf0af0fd380115f0389d2729f4f956eb9e",
+    "title": "외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스 - SeattleN",
     "bot": "jongsuk_pol_bot",
-    "runId": "45517389702",
-    "sentAt": "2026-11-25T00:21:17.050Z"
+    "runId": "45519971487",
+    "sentAt": "2026-11-25T00:41:15.190Z"
   }
 }
