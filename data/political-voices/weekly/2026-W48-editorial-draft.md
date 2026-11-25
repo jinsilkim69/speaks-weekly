@@ -5474,3 +5474,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 5·18 진압 등 경찰관 포상 취소에 “역사 교정 계속” - 일간투데이
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 5·18 진압 등 경찰관 포상 취소에 “역사 교정 계속”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1WYjhmMFhrckZXbFo5N1VlTnhrVUFZaTBvTHFrX1hMU1IxSldWWXU5R19GMlF6NF8wVXl5ZDR3V2FPd1M1dTBWbGdYSGVnQlh0UnM1QlZTZUFZLVZsNmZycldfMWQ3SlROWkpZ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZS01VT24wWjVqV3czdzlYQ0Z0ck5NWFdMMTllVE9saFZpSUJjcEsxTHRzeHJiT0FtLTVET1pCclJ5NDk0SFdsV3BsVDdVVlRvWWx6YVZZTkFXZ9IBX0FVX3lxTFBLT2dGaXZrSHVlMUNKc05VR0twd2RuWjdRcnRTVDlldmMwRFRXNE9LQkw4Qk1Qalo1QnlsR0tIS2l2bkE4MFpUdHVkRmIteFVNTU9OY3R1Q0hpclBWcG44?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZS01VT24wWjVqV3czdzlYQ0Z0ck5NWFdMMTllVE9saFZpSUJjcEsxTHRzeHJiT0FtLTVET1pCclJ5NDk0SFdsV3BsVDdVVlRvWWx6YVZZTkFXZ9IBX0FVX3lxTFBLT2dGaXZrSHVlMUNKc05VR0twd2RuWjdRcnRTVDlldmMwRFRXNE9LQkw4Qk1Qalo1QnlsR0tIS2l2bkE4MFpUdHVkRmIteFVNTU9OY3R1Q0hpclBWcG44?oc=5)
+
+---
+
