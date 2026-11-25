@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T14:41:16.015Z",
+  "lastCheckedAt": "2026-11-25T14:51:19.293Z",
   "seenPostIds": {
-    "46333224406af6743d2a187bc1ccb57f79c7976bed099b9b9342d606dbe3de94": {
-      "seenAt": "2026-11-23T07:21:17.019Z",
-      "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라\" - 부산일보",
-      "targetName": "이재명"
-    },
-    "4c2bca752afbc91a33fc1b0c239deb486e628b349006965c776bcbc1438e05b3": {
-      "seenAt": "2026-11-23T07:21:17.726Z",
-      "title": "‘조작 징계’ 추가 폭로… ‘尹 구형 맞춰 한동훈 제명 기획’ - 아시아타임즈",
-      "targetName": "한동훈"
-    },
-    "67c0503b30b9999d7e5bacaac2b4cc70d423de3d72c58388f42e50d5b8dc67fa": {
-      "seenAt": "2026-11-23T07:31:14.306Z",
-      "title": "與박선원, 김민석 '구두 경고'에 \"다른 최고위원들 발언도 경고해달라\" - 뉴시스",
-      "targetName": "김민석"
-    },
     "1b65e2bee58c31ba85b183e2166a0a4b144c86d51e5cc04a947335a195d3adeb": {
       "seenAt": "2026-11-23T07:31:14.918Z",
       "title": "지지율 떨어진 김민석호, 앞길도 첩첩산중 … 신천지·조희대·부동산·증시 '퇴로가 없다' - 뉴데일리",
@@ -2515,14 +2500,19 @@
       "seenAt": "2026-11-25T14:41:18.518Z",
       "title": "Today’s headlines: Donald Trump, Senate, Miss Universe | The wRap | November 25, 2026 https://www.rappler.com/video/daily-wrap/november-25-2026/ - Facebook",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a8e832de9b8e177f4fb11c24fc7dda11183423c98a974a65abfe41599ddaa331": {
+      "seenAt": "2026-11-25T14:51:20.854Z",
+      "title": "김민석, 조희대에 \"이완용의 친일 행각도 봐주게 되는 거 아닌가\" - 조선일보",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "0e561ccdcc4f0e2c95143f66f584f158d3f23b22a51ee938e206497235ea00cb",
-    "title": "Today’s headlines: Donald Trump, Senate, Miss Universe | The wRap | November 25, 2026 https://www.rappler.com/video/daily-wrap/november-25-2026/ - Facebook",
+    "postId": "a8e832de9b8e177f4fb11c24fc7dda11183423c98a974a65abfe41599ddaa331",
+    "title": "김민석, 조희대에 \"이완용의 친일 행각도 봐주게 되는 거 아닌가\" - 조선일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45636717055",
-    "sentAt": "2026-11-25T14:41:18.068Z"
+    "runId": "45638555139",
+    "sentAt": "2026-11-25T14:51:20.230Z"
   }
 }
