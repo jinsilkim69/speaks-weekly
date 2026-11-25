@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T03:31:14.651Z",
+  "lastCheckedAt": "2026-11-25T03:41:14.387Z",
   "seenPostIds": {
-    "b7338e0c5b03f6f025616d6733fc1e1412997afb8f46d6dbf994f560808badbc": {
-      "seenAt": "2026-11-22T10:01:23.917Z",
-      "title": "지지율 5%P 추락·명청 대전 격화 …김민석 리더십 시험대 - 세계일보",
-      "targetName": "김민석"
-    },
-    "30e28d5a22e2d67ff27ee69c9f747400ce2045c7d97ebc8f3ba9c8c1deb7802b": {
-      "seenAt": "2026-11-22T10:41:14.275Z",
-      "title": "이재명 대통령, ‘대학수학능력시험 혼란’ 최교진 교육부 장관 사의 수락...“각종 시험 관리 전 부처 점검” - 시사뉴스",
-      "targetName": "이재명"
-    },
-    "69d4535a7204c72eebaacf46fc6d96417dec3b6e06e56433c9cca6709036f44d": {
-      "seenAt": "2026-11-22T10:51:18.208Z",
-      "title": "지지율 5%P 추락·명청 대전 격화 …김민석 리더십 시험대 - 세계일보",
-      "targetName": "김민석"
-    },
     "6a228df71e562c9eb3fdd5aabf9dbec4a5f64c43bf6c4f877b0e57c40fae9ec6": {
       "seenAt": "2026-11-22T11:01:15.092Z",
       "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T03:31:17.215Z",
       "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
       "targetName": "정청래"
+    },
+    "9b65706dab9a4e60d9fe45feddf0fd3efbfcf086ce6dd13452cb62971aa9f89e": {
+      "seenAt": "2026-11-25T03:41:15.436Z",
+      "title": "송영길 \"이 대통령, 정청래 억울함 4시간 들어\"‥정 \"입 조심하라\" - MBC 뉴스",
+      "targetName": "송영길"
+    },
+    "72cdfe46f41e0381819e3a204b015c4e686ba4837799c1dd35080e8167dfc6ab": {
+      "seenAt": "2026-11-25T03:41:16.050Z",
+      "title": "정청래, 송영길에 '2차 공세'…與 신천지 내홍, 내년 4월까지 이어지나 - 한국경제",
+      "targetName": "송영길"
+    },
+    "cad52581491c847ca09f6569a97571f1c3b99be5c4db0689758bd19eade88aae": {
+      "seenAt": "2026-11-25T03:41:16.665Z",
+      "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "9b65706dab9a4e60d9fe45feddf0fd3efbfcf086ce6dd13452cb62971aa9f89e",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 \"이 대통령, 정청래 억울함 4시간 들어\"‥정 \"입 조심하라\" - MBC 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBaaDJlQWpsYVFRZjVSSFBic2R2UmZ4MGZMUkUwWjEtb3BMbEdMQkVfdEMzM05PTTNJMkpuUWN5bVR5c2R4M24wWkZtaklKQ29YUTFiMlJSdWtCM2RNSkpqQ2gtVjdxU1NoMEhGVzUwSmFnOXRhQWRIVNIBeEFVX3lxTE1QbTRLNG5zbUJBeE1iWmJCdk83V1gyNjBEMVRQa1VQR3hOeUs2UVg5ZDlhWEFPWmhTTGoyZ1JjUWxvZVlxU3VQekN4d3VDVjliN01RTTI2Q2I0MXA3VDdkUUxhLVdSWHplZnJUVFpxd2JLU2EwR0NPUA?oc=5\" target=\"_blank\">송영길 \"이 대통령, 정청래 억울함 4시간 들어\"‥정 \"입 조심하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaaDJlQWpsYVFRZjVSSFBic2R2UmZ4MGZMUkUwWjEtb3BMbEdMQkVfdEMzM05PTTNJMkpuUWN5bVR5c2R4M24wWkZtaklKQ29YUTFiMlJSdWtCM2RNSkpqQ2gtVjdxU1NoMEhGVzUwSmFnOXRhQWRIVNIBeEFVX3lxTE1QbTRLNG5zbUJBeE1iWmJCdk83V1gyNjBEMVRQa1VQR3hOeUs2UVg5ZDlhWEFPWmhTTGoyZ1JjUWxvZVlxU3VQekN4d3VDVjliN01RTTI2Q2I0MXA3VDdkUUxhLVdSWHplZnJUVFpxd2JLU2EwR0NPUA?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:10:47 GMT",
-        "source": "MBC 뉴스",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "72cdfe46f41e0381819e3a204b015c4e686ba4837799c1dd35080e8167dfc6ab",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 송영길에 '2차 공세'…與 신천지 내홍, 내년 4월까지 이어지나 - 한국경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYZDBnT01KRloyNW94RDhIZ0RWbkoxWDVUWkloci1xZmNKSlVURTNBS25NTFdZa3ZQOG1nSmtXSXRaeDJhYTV5WHNHdk05LU81OGNUTkNVbDBZUQ?oc=5\" target=\"_blank\">정청래, 송영길에 '2차 공세'…與 신천지 내홍, 내년 4월까지 이어지나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYZDBnT01KRloyNW94RDhIZ0RWbkoxWDVUWkloci1xZmNKSlVURTNBS25NTFdZa3ZQOG1nSmtXSXRaeDJhYTV5WHNHdk05LU81OGNUTkNVbDBZUQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:28:00 GMT",
-        "source": "한국경제",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "cad52581491c847ca09f6569a97571f1c3b99be5c4db0689758bd19eade88aae",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jVGRaek90bmpvcVp4UHZ2eTdTeHJoSU9oZlNqRzUyY2JRTUpsaEZURzJsNnlXMGtNcnpmYXJmWkkxTzhvOENibWhoUy1qRHY0emZ0SFVXaVJhVTjSAWBBVV95cUxOWENqMWU2S055SElMVVJlQ0hPN1ljS3ZyQ1ZPeEZpQmdKQnlNcGRSRUJQdXJWX25TS1JKdjRPaEZ1NkNzcWRnQXRFWDZYT2tQR1J6bW5wOHE0dU1hdk1GVlg?oc=5\" target=\"_blank\">송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jVGRaek90bmpvcVp4UHZ2eTdTeHJoSU9oZlNqRzUyY2JRTUpsaEZURzJsNnlXMGtNcnpmYXJmWkkxTzhvOENibWhoUy1qRHY0emZ0SFVXaVJhVTjSAWBBVV95cUxOWENqMWU2S055SElMVVJlQ0hPN1ljS3ZyQ1ZPeEZpQmdKQnlNcGRSRUJQdXJWX25TS1JKdjRPaEZ1NkNzcWRnQXRFWDZYT2tQR1J6bW5wOHE0dU1hdk1GVlg?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:32:29 GMT",
-        "source": "연합뉴스",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "43843f1785c925dd5f5fb0d066cacbedc0a10730878f50f4c47d8ba39596c53b",
@@ -2821,13 +2773,45 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "2e7c33b4eb1dabca326c9ce6878979b2c05ca47d563336dbc13a51edad7832e1",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1zaXJYZXBkNkpEcjJmTkJoTW5TdF9xRG1YNGJBS1lpbWR4ZFFTRll6aHUydnhHVnUzd3dCUDMxWFZQVlRQUVBZQkxsX0J6NDZiMGdVUHlINHpmc1BOR2o0SkdTc2VpNm5mWjlVMG45cmI?oc=5\" target=\"_blank\">송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zaXJYZXBkNkpEcjJmTkJoTW5TdF9xRG1YNGJBS1lpbWR4ZFFTRll6aHUydnhHVnUzd3dCUDMxWFZQVlRQUVBZQkxsX0J6NDZiMGdVUHlINHpmc1BOR2o0SkdTc2VpNm5mWjlVMG45cmI?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:22:00 GMT",
+        "source": "인천일보",
+        "ageHours": 1.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ed3686ab688c425ae870ed0f2fa99e92b1325dccba893c7485abc691135ce624",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1zaXJYZXBkNkpEcjJmTkJoTW5TdF9xRG1YNGJBS1lpbWR4ZFFTRll6aHUydnhHVnUzd3dCUDMxWFZQVlRQUVBZQkxsX0J6NDZiMGdVUHlINHpmc1BOR2o0SkdTc2VpNm5mWjlVMG45cmI?oc=5\" target=\"_blank\">송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zaXJYZXBkNkpEcjJmTkJoTW5TdF9xRG1YNGJBS1lpbWR4ZFFTRll6aHUydnhHVnUzd3dCUDMxWFZQVlRQUVBZQkxsX0J6NDZiMGdVUHlINHpmc1BOR2o0SkdTc2VpNm5mWjlVMG45cmI?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:22:00 GMT",
+        "source": "인천일보",
+        "ageHours": 1.3
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "bdbb5a29ccc22223628b018e481b95979339c9a5f96fc0ebed8f6ab5cae142f7",
-    "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
+    "postId": "cad52581491c847ca09f6569a97571f1c3b99be5c4db0689758bd19eade88aae",
+    "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45540513700",
-    "sentAt": "2026-11-25T03:31:16.866Z"
+    "runId": "45541658755",
+    "sentAt": "2026-11-25T03:41:16.355Z"
   }
 }
