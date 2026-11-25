@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T07:51:16.367Z",
+  "lastCheckedAt": "2026-11-25T08:01:16.347Z",
   "seenPostIds": {
-    "84696f657c2dab60cf90115d539824c5b17756489c44bcd0ce366268151d0fed": {
-      "seenAt": "2026-11-23T03:31:16.646Z",
-      "title": "“당명 속 ‘조국’ 제 이름은 아니지만”…당명 개정 제안, 확장성 강조 - 동아일보",
-      "targetName": "조국"
-    },
-    "d49e80c43ba9a5d1e0c49a5b5d336f9c730de880ea4065bd7d376a12b75d82a2": {
-      "seenAt": "2026-11-23T03:41:18.448Z",
-      "title": "국민의힘, 이재명 대통령 SNS 발언에 \"국민을 돼지에 비유\" 비판 - 한국사회복지저널",
-      "targetName": "이재명"
-    },
-    "bc8774989d48dacd860d120131c360254bec652588fd4d8cbef5129119e2df83": {
-      "seenAt": "2026-11-23T03:41:19.073Z",
-      "title": "혁신당의 '조국' 빠지나…조국 \"확장성 있게 범민주 좋아할 이름으로\" - 머니투데이 - 머니투데이",
-      "targetName": "조국"
-    },
     "4d337b35f47d01a941814b8ccf47635855d033884e5f82eb5ea9b0ac6421575c": {
       "seenAt": "2026-11-23T03:41:19.738Z",
       "title": "김민석, 친정청래계 겨냥 “일제 부역자” 발언 박선원에 엄중 경고 - KBS 뉴스",
@@ -2515,63 +2500,46 @@
       "seenAt": "2026-11-25T07:51:19.110Z",
       "title": "\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\" - 조선일보",
       "targetName": "이준석"
+    },
+    "368c331eb1b16504a365c2aecf79d1e4d316197357be56a22ea6928ec8a7bf11": {
+      "seenAt": "2026-11-25T08:01:17.675Z",
+      "title": "신장식 \"조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자” - 이투데이",
+      "targetName": "신장식"
+    },
+    "560120bf0addd8ae122bf94e0acdf47c817deb94be83bf9e353b6f527c35a070": {
+      "seenAt": "2026-11-25T08:01:18.386Z",
+      "title": "신장식 \"조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자” - 이투데이",
+      "targetName": "신장식"
+    },
+    "75ce7c300cd4efe7e9b9771b7ad6bab95630a5b25bc7eb957dec9663d4a01e2d": {
+      "seenAt": "2026-11-25T08:01:19.206Z",
+      "title": "김민석, '조희대 탄핵 5당 연대' 제안…신장식 \"12월 3일까지 표결해야\" - 녹색경제신문",
+      "targetName": "신장식"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "368c331eb1b16504a365c2aecf79d1e4d316197357be56a22ea6928ec8a7bf11",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 \"조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자” - 이투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9hbURwZzFqT2dXUnViNEl0TE41ckp2eTFlN0hmM2Vnb1BRTVpEZHhLd3hRSW9qbDlLN1dCMGRrYnRuVVp0WEpQRzlCek9RWVdyMWVGNllTQ2gtQ1h2eTBsMS0xWml6UlJ3R0Q5LWQyOHdaN0pN?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hbURwZzFqT2dXUnViNEl0TE41ckp2eTFlN0hmM2Vnb1BRTVpEZHhLd3hRSW9qbDlLN1dCMGRrYnRuVVp0WEpQRzlCek9RWVdyMWVGNllTQ2gtQ1h2eTBsMS0xWml6UlJ3R0Q5LWQyOHdaN0pN?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 07:36:00 GMT",
-        "source": "이투데이",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "560120bf0addd8ae122bf94e0acdf47c817deb94be83bf9e353b6f527c35a070",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 \"조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자” - 이투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE81SmxFY1RSV19tWDJ6WkxWWkVLa0VnNjgxRWNCdHg2QjA5SjZIRVlKdXlSMG5vNUlYT2xPUnhPRFNSeDhtd0RSak1GZUxJa0lmSmpZNQ?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81SmxFY1RSV19tWDJ6WkxWWkVLa0VnNjgxRWNCdHg2QjA5SjZIRVlKdXlSMG5vNUlYT2xPUnhPRFNSeDhtd0RSak1GZUxJa0lmSmpZNQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 07:36:00 GMT",
-        "source": "이투데이",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "75ce7c300cd4efe7e9b9771b7ad6bab95630a5b25bc7eb957dec9663d4a01e2d",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "김민석, '조희대 탄핵 5당 연대' 제안…신장식 \"12월 3일까지 표결해야\" - 녹색경제신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTi1JYnJfZXBZeEZkSjlYWTRtRHFIRXVJTjRHTEk5aUNFUmM5bXE0MS0yMjNTTDhaYjNYcFdGQUl3LUNNX1VKLXkyUnZDV3p6UExBVktEa0I0QjFfSjh2TEs5aFVwTi11?oc=5\" target=\"_blank\">김민석, '조희대 탄핵 5당 연대' 제안…신장식 \"12월 3일까지 표결해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">녹색경제신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTi1JYnJfZXBZeEZkSjlYWTRtRHFIRXVJTjRHTEk5aUNFUmM5bXE0MS0yMjNTTDhaYjNYcFdGQUl3LUNNX1VKLXkyUnZDV3p6UExBVktEa0I0QjFfSjh2TEs5aFVwTi11?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 07:38:39 GMT",
-        "source": "녹색경제신문",
-        "ageHours": 0.2
+        "id": "d26eca0ae4a29819b7ca0f730f6f3851ac2f6d0b5a5c439b9f7d98b4bfb7a137",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "오윤혜, 정청래 직격 \"김민석 100일 비판 의아해\" - 평화나무",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE82Umo3Znk4NG1vdWxnSjdzMTJuaXB5NmJaVlUyMWRRTzVEaTB2UFVKeUh2bkVpTmUwZ1p3al9pM3Q5Zkd6U3RQYThLcE1XX1BSU3NpQlRKUnpiLUplWkRfTEEyeDBjQkd0b1E?oc=5\" target=\"_blank\">오윤혜, 정청래 직격 \"김민석 100일 비판 의아해\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">평화나무</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82Umo3Znk4NG1vdWxnSjdzMTJuaXB5NmJaVlUyMWRRTzVEaTB2UFVKeUh2bkVpTmUwZ1p3al9pM3Q5Zkd6U3RQYThLcE1XX1BSU3NpQlRKUnpiLUplWkRfTEEyeDBjQkd0b1E?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 01:45:31 GMT",
+        "source": "평화나무",
+        "ageHours": 6.3
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "e8291a0f54815c80e16a0378b544724a9f6af70ec430d12207ca5858c72a823b",
-    "title": "\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\" - 조선일보",
+    "postId": "75ce7c300cd4efe7e9b9771b7ad6bab95630a5b25bc7eb957dec9663d4a01e2d",
+    "title": "김민석, '조희대 탄핵 5당 연대' 제안…신장식 \"12월 3일까지 표결해야\" - 녹색경제신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45571355749",
-    "sentAt": "2026-11-25T07:51:18.782Z"
+    "runId": "45572657417",
+    "sentAt": "2026-11-25T08:01:18.859Z"
   }
 }

@@ -7281,3 +7281,42 @@
 
 ---
 
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자” - 이투데이
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE9hbURwZzFqT2dXUnViNEl0TE41ckp2eTFlN0hmM2Vnb1BRTVpEZHhLd3hRSW9qbDlLN1dCMGRrYnRuVVp0WEpQRzlCek9RWVdyMWVGNllTQ2gtQ1h2eTBsMS0xWml6UlJ3R0Q5LWQyOHdaN0pN?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자” - 이투데이
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대 탄핵 5당 연대 환영…공동 추진단 조속 구성하자”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTE81SmxFY1RSV19tWDJ6WkxWWkVLa0VnNjgxRWNCdHg2QjA5SjZIRVlKdXlSMG5vNUlYT2xPUnhPRFNSeDhtd0RSak1GZUxJa0lmSmpZNQ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 김민석, '조희대 탄핵 5당 연대' 제안…신장식 "12월 3일까지 표결해야" - 녹색경제신문
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, '조희대 탄핵 5당 연대' 제안…신장식 "12월 3일까지 표결해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTi1JYnJfZXBZeEZkSjlYWTRtRHFIRXVJTjRHTEk5aUNFUmM5bXE0MS0yMjNTTDhaYjNYcFdGQUl3LUNNX1VKLXkyUnZDV3p6UExBVktEa0I0QjFfSjh2TEs5aFVwTi11?oc=5)
+
+---
+
