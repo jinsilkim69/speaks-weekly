@@ -8386,3 +8386,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Aide Natalie Harp Named in New Discovery Order Over President's Truth Social Deal, Per Court Docs - Yahoo Lifestyle Canada
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Aide Natalie Harp Named in New Discovery Order Over President's Truth Social Deal, Per Court Docs
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE1YR190eTdrNk45RVpOaGMxOUF4OG9zcVZydVRWaTBDNzJGazc5RHlmajQ5QkoyM3FZYnVEQlh6QW9CVlRKZG9wMktrZmliRlVIa291bzBpVmM5RW5XWWlCb01sUS1NY05HZ3E2SGR5MmVSSDNRTnYtWkRESQ?oc=5)
+
+---
+

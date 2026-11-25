@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T23:01:16.387Z",
+  "lastCheckedAt": "2026-11-25T23:11:16.000Z",
   "seenPostIds": {
-    "c86188f05800228606e357c15bdeeb7dac58c9a451ec37f57222fdb41a3777d2": {
-      "seenAt": "2026-11-23T09:01:18.102Z",
-      "title": "한동훈 제명 시점 둘러싼 기획 의혹 추가 제기 - 스페셜타임스",
-      "targetName": "한동훈"
-    },
-    "c7ed7f87c56353307ab251a951afe278866ce400a9f8296bfe07eae974725d3c": {
-      "seenAt": "2026-11-23T09:01:18.843Z",
-      "title": "정청래, 하동 정씨 대종회 시제 초헌관 참석…선조 기리고 문중 화합 - 국제뉴스",
-      "targetName": "정청래"
-    },
     "30eb755db4c486d4c1119537ed1e7bef11940a393d189a6277e0814f9e888646": {
       "seenAt": "2026-11-23T09:11:14.928Z",
       "title": "외교부, 조국 日 입국 거부에 유감·항의 전달…\"사실관계 확인 요청\" > 뉴스포커스 - SeattleN",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-25T23:01:18.504Z",
       "title": "Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’ - SILive.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "4d52a0dfb977ae30dbdb61bf8bcc8ba411b06ee6cee157af4f1bc812712da127": {
+      "seenAt": "2026-11-25T23:11:17.244Z",
+      "title": "Trump Aide Natalie Harp Named in New Discovery Order Over President's Truth Social Deal, Per Court Docs - Yahoo Lifestyle Canada",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "011bc59063847d8925bd89383c075a502673cab820c9c6fe6b4979428f684b40",
-    "title": "Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’ - SILive.com",
+    "postId": "4d52a0dfb977ae30dbdb61bf8bcc8ba411b06ee6cee157af4f1bc812712da127",
+    "title": "Trump Aide Natalie Harp Named in New Discovery Order Over President's Truth Social Deal, Per Court Docs - Yahoo Lifestyle Canada",
     "bot": "jongsuk_pol_bot",
-    "runId": "45717986225",
-    "sentAt": "2026-11-25T23:01:18.141Z"
+    "runId": "45719329054",
+    "sentAt": "2026-11-25T23:11:16.659Z"
   }
 }
