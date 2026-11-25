@@ -3914,5 +3914,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "68c7d8907ec93683ff387e9ddaa475f4b0f9a0d43e00222cfcc825b1d70b4fc8",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "정청래, 송영길에 “입이 너무 싸다…분수를 알아야” - 한겨레",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBzWThYOHR4QzVQaXNqbEttV0xHUjJ6eFA2ZG9lR202TGVSTUt3eEZ1a3E0b2lHQlkzWDVVWUE1YXRNTzZHcjA2QmRUdU5CbHNrRFhnOW5leWVKOW93MDZhSXpaR2plZVVaR2xKa2xxaVVydktn?oc=5\" target=\"_blank\">정청래, 송영길에 “입이 너무 싸다…분수를 알아야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzWThYOHR4QzVQaXNqbEttV0xHUjJ6eFA2ZG9lR202TGVSTUt3eEZ1a3E0b2lHQlkzWDVVWUE1YXRNTzZHcjA2QmRUdU5CbHNrRFhnOW5leWVKOW93MDZhSXpaR2plZVVaR2xKa2xxaVVydktn?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 06:34:00 GMT",
+    "source": "한겨레",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래, 송영길에 “입이 너무 싸다…분수를 알아야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "4f838d782a26c90137c604d65fd70b78b8199b4eddbdca315cb1f52deb8a34d4",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "범여권 ‘조희대 탄핵’ 공동추진...신장식 “빠르게 출범” vs 양부남 “민주당 소추안부터” - 매일경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaR2RWNlBhY21kT3dLNVZZSVVTYkt0a2Y1NGhKWXpZRnpzNVlndl9fcklFWGFTTGg5R1FfVWFLaDIwZEdIdVNxY21DWUVTNTAwX01sc2Fn?oc=5\" target=\"_blank\">범여권 ‘조희대 탄핵’ 공동추진...신장식 “빠르게 출범” vs 양부남 “민주당 소추안부터”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaR2RWNlBhY21kT3dLNVZZSVVTYkt0a2Y1NGhKWXpZRnpzNVlndl9fcklFWGFTTGg5R1FfVWFLaDIwZEdIdVNxY21DWUVTNTAwX01sc2Fn?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 05:42:08 GMT",
+    "source": "매일경제",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 범여권 ‘조희대 탄핵’ 공동추진...신장식 “빠르게 출범” vs 양부남 “민주당 소추안부터”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

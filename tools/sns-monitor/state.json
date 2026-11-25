@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T06:51:14.309Z",
+  "lastCheckedAt": "2026-11-25T07:03:51.460Z",
   "seenPostIds": {
-    "aeb0bbba1b0e1d04ee93c20f5928541813422f0ab1f11574c0336b59995f257c": {
-      "seenAt": "2026-11-23T02:21:17.551Z",
-      "title": "[포토]최고위 마친 김민석 대표 - 이데일리",
-      "targetName": "김민석"
-    },
-    "9a51b7a0f86a14d3a003b1a8df55dbd1994022ad2ae970efa0b61982a9e2deb1": {
-      "seenAt": "2026-11-23T02:21:18.267Z",
-      "title": "생각에 잠긴 김민석 대표 - 뉴스핌",
-      "targetName": "김민석"
-    },
-    "8bd65c14bb5ebc9e0d904344396ba2c075984b81d1622d073d55dbfede931f82": {
-      "seenAt": "2026-11-23T02:31:14.618Z",
-      "title": "[포토] 당내 논란...김민석 “책임 있게, 최대 한도로 힘을 모아 풀겠다” - 일요시사",
-      "targetName": "김민석"
-    },
     "a8df0f240c72d4e18e106a3b063b02d69e3184ea0d2ffbaa3608b517d2a4de3f": {
       "seenAt": "2026-11-23T02:51:15.788Z",
       "title": "굳은 표정의 김민석 대표 - 노컷뉴스",
@@ -2515,47 +2500,24 @@
       "seenAt": "2026-11-25T06:51:16.583Z",
       "title": "정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지” - 주간조선",
       "targetName": "송영길"
+    },
+    "68c7d8907ec93683ff387e9ddaa475f4b0f9a0d43e00222cfcc825b1d70b4fc8": {
+      "seenAt": "2026-11-25T07:03:53.154Z",
+      "title": "정청래, 송영길에 “입이 너무 싸다…분수를 알아야” - 한겨레",
+      "targetName": "송영길"
+    },
+    "4f838d782a26c90137c604d65fd70b78b8199b4eddbdca315cb1f52deb8a34d4": {
+      "seenAt": "2026-11-25T07:03:53.947Z",
+      "title": "범여권 ‘조희대 탄핵’ 공동추진...신장식 “빠르게 출범” vs 양부남 “민주당 소추안부터” - 매일경제",
+      "targetName": "신장식"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "68c7d8907ec93683ff387e9ddaa475f4b0f9a0d43e00222cfcc825b1d70b4fc8",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 송영길에 “입이 너무 싸다…분수를 알아야” - 한겨레",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBzWThYOHR4QzVQaXNqbEttV0xHUjJ6eFA2ZG9lR202TGVSTUt3eEZ1a3E0b2lHQlkzWDVVWUE1YXRNTzZHcjA2QmRUdU5CbHNrRFhnOW5leWVKOW93MDZhSXpaR2plZVVaR2xKa2xxaVVydktn?oc=5\" target=\"_blank\">정청래, 송영길에 “입이 너무 싸다…분수를 알아야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzWThYOHR4QzVQaXNqbEttV0xHUjJ6eFA2ZG9lR202TGVSTUt3eEZ1a3E0b2lHQlkzWDVVWUE1YXRNTzZHcjA2QmRUdU5CbHNrRFhnOW5leWVKOW93MDZhSXpaR2plZVVaR2xKa2xxaVVydktn?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 06:34:00 GMT",
-        "source": "한겨레",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4f838d782a26c90137c604d65fd70b78b8199b4eddbdca315cb1f52deb8a34d4",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "범여권 ‘조희대 탄핵’ 공동추진...신장식 “빠르게 출범” vs 양부남 “민주당 소추안부터” - 매일경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaR2RWNlBhY21kT3dLNVZZSVVTYkt0a2Y1NGhKWXpZRnpzNVlndl9fcklFWGFTTGg5R1FfVWFLaDIwZEdIdVNxY21DWUVTNTAwX01sc2Fn?oc=5\" target=\"_blank\">범여권 ‘조희대 탄핵’ 공동추진...신장식 “빠르게 출범” vs 양부남 “민주당 소추안부터”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaR2RWNlBhY21kT3dLNVZZSVVTYkt0a2Y1NGhKWXpZRnpzNVlndl9fcklFWGFTTGg5R1FfVWFLaDIwZEdIdVNxY21DWUVTNTAwX01sc2Fn?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 05:42:08 GMT",
-        "source": "매일경제",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3f2697cd2c53006eacd985802494a90221a13b99accb29d2b6022c0518edd364",
-    "title": "정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지” - 주간조선",
+    "postId": "4f838d782a26c90137c604d65fd70b78b8199b4eddbdca315cb1f52deb8a34d4",
+    "title": "범여권 ‘조희대 탄핵’ 공동추진...신장식 “빠르게 출범” vs 양부남 “민주당 소추안부터” - 매일경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45563654870",
-    "sentAt": "2026-11-25T06:51:16.282Z"
+    "runId": "45564869324",
+    "sentAt": "2026-11-25T07:03:53.567Z"
   }
 }
