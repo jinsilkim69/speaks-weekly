@@ -4930,5 +4930,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c3d6a7b3a65a96507c4447999601e37d14e9ab2ecfc5ed2555080c3fd534760f",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 \"조희대 탄핵 인용되면 사퇴\" 김용민 \"가벼운 태도 한심\" - 한국경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SdEVQaUtLRExpU0JjUldLRWhfTUlMNENkSXQ4UzhFcEJ4Y2Q1c0owelNYeWk4N0N3SXdPOFRULXNVT3ZtNjgxUUNhczhDaEFiQVItbDYtWm9PZw?oc=5\" target=\"_blank\">한동훈 \"조희대 탄핵 인용되면 사퇴\" 김용민 \"가벼운 태도 한심\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SdEVQaUtLRExpU0JjUldLRWhfTUlMNENkSXQ4UzhFcEJ4Y2Q1c0owelNYeWk4N0N3SXdPOFRULXNVT3ZtNjgxUUNhczhDaEFiQVItbDYtWm9PZw?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 09:11:31 GMT",
+    "source": "한국경제",
+    "ageHours": 0.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 \"조희대 탄핵 인용되면 사퇴\" 김용민 \"가벼운 태도 한심\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "ce8f9cfd8142e889248f819a668c5dcd16fde21184e14d60b0f5fdd684588769",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "“자업자득·결자해지” 정청래 직격탄…계파 내홍에 빛바랜 ‘김민석 100일’ - 서울경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yeHVoMXRPcTRGellfMUhHOU9sNV9fUTItVU5iVDJVeC1meFd2MW1yLXU3aXl4QTZDVDhHcjlPd2x3WFIzX09FS0pvX3pJS3pualHSAVNBVV95cUxPb2dVODBHTkl1eVpBV1hkYU04VkxWdUVFZkE3RDU2QTN2c0dYb0F3ZUNvN2JqZlZzRjJOaVVsdTBPdGNLWHNTSHkxWWNfenhZTzIwdw?oc=5\" target=\"_blank\">“자업자득·결자해지” 정청래 직격탄…계파 내홍에 빛바랜 ‘김민석 100일’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yeHVoMXRPcTRGellfMUhHOU9sNV9fUTItVU5iVDJVeC1meFd2MW1yLXU3aXl4QTZDVDhHcjlPd2x3WFIzX09FS0pvX3pJS3pualHSAVNBVV95cUxPb2dVODBHTkl1eVpBV1hkYU04VkxWdUVFZkE3RDU2QTN2c0dYb0F3ZUNvN2JqZlZzRjJOaVVsdTBPdGNLWHNTSHkxWWNfenhZTzIwdw?oc=5",
+    "pubDate": "Tue, 24 Nov 2026 21:50:00 GMT",
+    "source": "서울경제",
+    "ageHours": 12.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “자업자득·결자해지” 정청래 직격탄…계파 내홍에 빛바랜 ‘김민석 100일’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
