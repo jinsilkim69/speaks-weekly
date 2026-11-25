@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T15:11:15.406Z",
+  "lastCheckedAt": "2026-11-25T15:21:15.472Z",
   "seenPostIds": {
-    "7f27120ebd0ab3bee607e030288a1733738a5a49083872a67b3a9930a1c7778a": {
-      "seenAt": "2026-11-23T07:41:18.742Z",
-      "title": "김민석, 신천지 의혹 '日 부역자' 언급 박선원에 경고 조치(종합) - 연합뉴스",
-      "targetName": "김민석"
-    },
     "d6f6de2b7297420780b1d086bf54888193125b64b7122d33e34c220597e82f5a": {
       "seenAt": "2026-11-23T07:41:19.347Z",
       "title": "조국혁신당, '제정당 조희대 탄핵추진단' 제안…\"즉각 직무정지해야\" - mnews.sbs.co.kr",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-25T15:11:16.868Z",
       "title": "MS NOW’s Rachel Maddow Blasts Trump Over Fake AI Video Imitating Her - TV Insider",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "7d9db5f1a53fef07256adab0b64df793487109ecae4b9a6331187349633e083a": {
+      "seenAt": "2026-11-25T15:21:16.896Z",
+      "title": "이재명 대통령 “재정 부족해 공적주택 공급 못하는 일 없어야” 공급 독려 - 신문고뉴스",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "4a6e72dde15eb744d9886b3843f6459ff51b3dda3fc1ee8385dedc8e78c80f64",
-    "title": "MS NOW’s Rachel Maddow Blasts Trump Over Fake AI Video Imitating Her - TV Insider",
+    "postId": "7d9db5f1a53fef07256adab0b64df793487109ecae4b9a6331187349633e083a",
+    "title": "이재명 대통령 “재정 부족해 공적주택 공급 못하는 일 없어야” 공급 독려 - 신문고뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45642253280",
-    "sentAt": "2026-11-25T15:11:16.212Z"
+    "runId": "45644147109",
+    "sentAt": "2026-11-25T15:21:16.231Z"
   }
 }
