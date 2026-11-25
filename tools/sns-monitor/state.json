@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T04:01:24.352Z",
+  "lastCheckedAt": "2026-11-25T04:11:22.252Z",
   "seenPostIds": {
-    "b13fcad3b676f3cd6175a316a941c77fe06d3aa4c617175a3a0a8316238a5788": {
-      "seenAt": "2026-11-22T12:11:20.950Z",
-      "title": "‘취임 100일’ 김민석…‘최민희 징계’ 해법 내놓나 - 채널A",
-      "targetName": "김민석"
-    },
-    "8e47a959e9464d56cf0fd5a07d68f98e4f8d7939e4ed5360ca7a50fa26405380": {
-      "seenAt": "2026-11-22T12:21:14.887Z",
-      "title": "'조작 징계'후폭풍…한동훈 복당 탄력? - 부산경남대표방송 KNN 뉴스",
-      "targetName": "한동훈"
-    },
-    "1b0d2495194a088af5209bc166034848b03420a1179e695a6eaf5049881a7a8c": {
-      "seenAt": "2026-11-22T12:21:15.610Z",
-      "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
-      "targetName": "김민석"
-    },
     "aa5b6e06ec91d645cc21c15cf5986b844668af20cfaac791f3b03143dcda8833": {
       "seenAt": "2026-11-22T12:41:14.218Z",
       "title": "송영길 의원, 인천 12개 대학 총학생회와 ‘치맥 간담회’ - 서울매일신문",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T04:01:27.473Z",
       "title": "정청래, 송영길에 \"입조심하라\"...대통령 회동 내용 공개 두고 설전 - 뉴스버스",
       "targetName": "송영길"
+    },
+    "7d4825b038117b6bbf459a2c8585947717e48a510ca19e8f1f3c6306c6698813": {
+      "seenAt": "2026-11-25T04:11:23.715Z",
+      "title": "Trump says pardon is always an option for Jensen Huang, and that pleading the Fifth isn’t necessary - NBC News",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "cd50e8bc6995ac0912fe91f5455617bdec2598c01901fcdb6be539d872720aeb": {
+      "seenAt": "2026-11-25T04:11:24.450Z",
+      "title": "송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 중앙일보",
+      "targetName": "정청래"
+    },
+    "80da36abf84eb5c64abb35e18342bcbca041fdb16b23ca1e7ce9508d5cf55e8e": {
+      "seenAt": "2026-11-25T04:11:25.202Z",
+      "title": "송영길 “대통령, 정청래 억울함 4시간 들어줘” VS 정청래 “입 싼 송영길과 말 안 섞어” - 주간경향",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "7d4825b038117b6bbf459a2c8585947717e48a510ca19e8f1f3c6306c6698813",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump says pardon is always an option for Jensen Huang, and that pleading the Fifth isn’t necessary - NBC News",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWZqQ2JqTjh2aG9BQlBlbVI3TjFMNjFPQzY4anZ5WF9kYVNma1RkeWU4YmhHYUxqd2NVY1VHdW4ya1pJZ0wxYUFqaWJHT0MyYlowTFp0cTRGeHhQOGNIOG5OeVlVUUhFTTJ1YlhWNmE4Q21IbVZpVGlzS3lJUVlQRkhCNS1KYUp5X19OZ2owTVZoQWY2NGlnZkk5eGFCY09YeUJnblFSaE5QM3VKazZkN3NOS0JZS05WclZ4OEZUeHRFaExv?oc=5\" target=\"_blank\">Trump says pardon is always an option for Jensen Huang, and that pleading the Fifth isn’t necessary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWZqQ2JqTjh2aG9BQlBlbVI3TjFMNjFPQzY4anZ5WF9kYVNma1RkeWU4YmhHYUxqd2NVY1VHdW4ya1pJZ0wxYUFqaWJHT0MyYlowTFp0cTRGeHhQOGNIOG5OeVlVUUhFTTJ1YlhWNmE4Q21IbVZpVGlzS3lJUVlQRkhCNS1KYUp5X19OZ2owTVZoQWY2NGlnZkk5eGFCY09YeUJnblFSaE5QM3VKazZkN3NOS0JZS05WclZ4OEZUeHRFaExv?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:19:00 GMT",
-        "source": "NBC News",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "cd50e8bc6995ac0912fe91f5455617bdec2598c01901fcdb6be539d872720aeb",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oVXNKeDVOcWMxN245cGhCU010Y0FKWWVkZGYxMWpsMmtTUFpCSkt6a0NiZnhKaUJIMDZUajhQdGVQR3B2RkxhRE44ZUFsWmdQU0NueE1R?oc=5\" target=\"_blank\">송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oVXNKeDVOcWMxN245cGhCU010Y0FKWWVkZGYxMWpsMmtTUFpCSkt6a0NiZnhKaUJIMDZUajhQdGVQR3B2RkxhRE44ZUFsWmdQU0NueE1R?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:16:23 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "80da36abf84eb5c64abb35e18342bcbca041fdb16b23ca1e7ce9508d5cf55e8e",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 “대통령, 정청래 억울함 4시간 들어줘” VS 정청래 “입 싼 송영길과 말 안 섞어” - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE95MlpnR0daTzdoYld2ekxOVkE4VGJGRmF3RzY5THJ3TjdZd3VDbjJoX1hRV25vS1lMQlVlMW1hSWhrRzVib3JYODNzT00tcjdybXB4NmJ1OEdMTmcyWHc?oc=5\" target=\"_blank\">송영길 “대통령, 정청래 억울함 4시간 들어줘” VS 정청래 “입 싼 송영길과 말 안 섞어”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95MlpnR0daTzdoYld2ekxOVkE4VGJGRmF3RzY5THJ3TjdZd3VDbjJoX1hRV25vS1lMQlVlMW1hSWhrRzVib3JYODNzT00tcjdybXB4NmJ1OEdMTmcyWHc?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:41:00 GMT",
-        "source": "주간경향",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "82bc9c3941b154868ec45dbe7c8393c53a618a940b98f65cb23a625f64063d03",
@@ -2773,13 +2725,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "50dafb86c38488f853736883a3d25b54d2ff5e05d045d4ad124163d6d021047a",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "정청래 “송영길 입조심하라”…자기 말에는 관대하고 남의 입에는 재갈 - OBC 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFA4U3F0UmF6MTlnaGV0cXFhSERsTVNiM2x5MllEbUhqMkRWcUR3UWg5V1RYTFRBdjBiS0pJWUJvb1lyRl9NNGh3Y0hzcEpIQy1GVW9OWlBHb3hhRVpCTDhpN3RfOTZnWVJZUkE?oc=5\" target=\"_blank\">정청래 “송영길 입조심하라”…자기 말에는 관대하고 남의 입에는 재갈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OBC 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4U3F0UmF6MTlnaGV0cXFhSERsTVNiM2x5MllEbUhqMkRWcUR3UWg5V1RYTFRBdjBiS0pJWUJvb1lyRl9NNGh3Y0hzcEpIQy1GVW9OWlBHb3hhRVpCTDhpN3RfOTZnWVJZUkE?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 03:43:46 GMT",
+        "source": "OBC 뉴스",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "5e4333de3b43f85b960486231325cf43b894bc858e03d1f26b6d57abd8781f8a",
-    "title": "정청래, 송영길에 \"입조심하라\"...대통령 회동 내용 공개 두고 설전 - 뉴스버스",
+    "postId": "80da36abf84eb5c64abb35e18342bcbca041fdb16b23ca1e7ce9508d5cf55e8e",
+    "title": "송영길 “대통령, 정청래 억울함 4시간 들어줘” VS 정청래 “입 싼 송영길과 말 안 섞어” - 주간경향",
     "bot": "jongsuk_pol_bot",
-    "runId": "45543871265",
-    "sentAt": "2026-11-25T04:01:27.108Z"
+    "runId": "45545011045",
+    "sentAt": "2026-11-25T04:11:24.831Z"
   }
 }

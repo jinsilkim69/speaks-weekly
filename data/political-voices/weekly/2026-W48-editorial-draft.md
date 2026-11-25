@@ -6397,3 +6397,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says pardon is always an option for Jensen Huang, and that pleading the Fifth isn’t necessary - NBC News
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says pardon is always an option for Jensen Huang, and that pleading the Fifth isn’t necessary
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWZqQ2JqTjh2aG9BQlBlbVI3TjFMNjFPQzY4anZ5WF9kYVNma1RkeWU4YmhHYUxqd2NVY1VHdW4ya1pJZ0wxYUFqaWJHT0MyYlowTFp0cTRGeHhQOGNIOG5OeVlVUUhFTTJ1YlhWNmE4Q21IbVZpVGlzS3lJUVlQRkhCNS1KYUp5X19OZ2owTVZoQWY2NGlnZkk5eGFCY09YeUJnblFSaE5QM3VKazZkN3NOS0JZS05WclZ4OEZUeHRFaExv?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 중앙일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oVXNKeDVOcWMxN245cGhCU010Y0FKWWVkZGYxMWpsMmtTUFpCSkt6a0NiZnhKaUJIMDZUajhQdGVQR3B2RkxhRE44ZUFsWmdQU0NueE1R?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 “대통령, 정청래 억울함 4시간 들어줘” VS 정청래 “입 싼 송영길과 말 안 섞어” - 주간경향
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 “대통령, 정청래 억울함 4시간 들어줘” VS 정청래 “입 싼 송영길과 말 안 섞어”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE95MlpnR0daTzdoYld2ekxOVkE4VGJGRmF3RzY5THJ3TjdZd3VDbjJoX1hRV25vS1lMQlVlMW1hSWhrRzVib3JYODNzT00tcjdybXB4NmJ1OEdMTmcyWHc?oc=5)
+
+---
+
