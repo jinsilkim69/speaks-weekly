@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T06:41:17.694Z",
+  "lastCheckedAt": "2026-11-25T06:51:14.309Z",
   "seenPostIds": {
-    "a95ce5b3edc69f30a02a473fd7bb16e711557b19ac98fc415bbcf4117f27fa7a": {
-      "seenAt": "2026-11-23T02:01:17.764Z",
-      "title": "이준석, 코스피 반토막에 ``초심자의 운` 경고했지만 조롱 많이 받아`…증시 대책 3가지 제안 - 매일신문",
-      "targetName": "이준석"
-    },
-    "260502aa7ffbe531b7eb8ef44c11f6e379866bcf11b8c8c8c9650645785ed5ae": {
-      "seenAt": "2026-11-23T02:11:16.707Z",
-      "title": "「M포토」 발언하는 김민석 대표 - M이코노미뉴스",
-      "targetName": "김민석"
-    },
-    "664a9c493e0b7745f6eba532ccb432dcdadda71df3b1125d6ec5513a1d84e988": {
-      "seenAt": "2026-11-23T02:21:16.864Z",
-      "title": "김민석 \"대법원, 비상계엄의 내란 여부 명료하게 정리해야\" - 연합뉴스TV",
-      "targetName": "김민석"
-    },
     "aeb0bbba1b0e1d04ee93c20f5928541813422f0ab1f11574c0336b59995f257c": {
       "seenAt": "2026-11-23T02:21:17.551Z",
       "title": "[포토]최고위 마친 김민석 대표 - 이데일리",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T06:41:20.954Z",
       "title": "갈 길 먼 與 ‘내분종식’··· 송영길 “억울한 점 다 들어줘” 정청래 “입조심하라” - 세계일보",
       "targetName": "송영길"
+    },
+    "2b283e093e742f8ab068929959e7fc82264727435ff7c9a491b0f98a08c67954": {
+      "seenAt": "2026-11-25T06:51:15.341Z",
+      "title": "김민석 ‘조용한 100일’…정청래 “신천지 의혹 제기 해당행위” 강공 - 한겨레",
+      "targetName": "김민석"
+    },
+    "0ebe61a9ab4ab4bb76d99250dd32a2f1081ce2b4d4ce7a8c72383d81c67d2d7b": {
+      "seenAt": "2026-11-25T06:51:15.991Z",
+      "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
+      "targetName": "정청래"
+    },
+    "3f2697cd2c53006eacd985802494a90221a13b99accb29d2b6022c0518edd364": {
+      "seenAt": "2026-11-25T06:51:16.583Z",
+      "title": "정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지” - 주간조선",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "2b283e093e742f8ab068929959e7fc82264727435ff7c9a491b0f98a08c67954",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 ‘조용한 100일’…정청래 “신천지 의혹 제기 해당행위” 강공 - 한겨레",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9mci11ZFlsMU1SLUtnU2VDWi1QczhFOVlKTENqWWhIT1BGVWxCOWpfUmxvcmdsU1F1NC04QmhSNV9tTnFYWXQ0TXdVd1VsR3B1Q19SOXcxb2hPUTZ2ZFZWdE93YVBsV0N3c3NkaUNXdGU5ZWdv?oc=5\" target=\"_blank\">김민석 ‘조용한 100일’…정청래 “신천지 의혹 제기 해당행위” 강공</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mci11ZFlsMU1SLUtnU2VDWi1QczhFOVlKTENqWWhIT1BGVWxCOWpfUmxvcmdsU1F1NC04QmhSNV9tTnFYWXQ0TXdVd1VsR3B1Q19SOXcxb2hPUTZ2ZFZWdE93YVBsV0N3c3NkaUNXdGU5ZWdv?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 02:53:00 GMT",
-        "source": "한겨레",
-        "ageHours": 3.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "0ebe61a9ab4ab4bb76d99250dd32a2f1081ce2b4d4ce7a8c72383d81c67d2d7b",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5TSkpUdW94OEZJYWE1RjItc0xBeTNjRERTY3NiMU9TdEtoYmF0VXhxTlEtWTB5eENzVzMwdGF1NXJ6dG5NVk9GZ3A3Q2l3dlV2SDNlZzNfSHFkZmR6ZVhzbVZwX2MtTHBiNTJ1aFFqX1JoNC0xQjRN?oc=5\" target=\"_blank\">\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TSkpUdW94OEZJYWE1RjItc0xBeTNjRERTY3NiMU9TdEtoYmF0VXhxTlEtWTB5eENzVzMwdGF1NXJ6dG5NVk9GZ3A3Q2l3dlV2SDNlZzNfSHFkZmR6ZVhzbVZwX2MtTHBiNTJ1aFFqX1JoNC0xQjRN?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 05:27:48 GMT",
-        "source": "부산일보",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "3f2697cd2c53006eacd985802494a90221a13b99accb29d2b6022c0518edd364",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지” - 주간조선",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5WQ3JwTVJRdjl5QWJDSkVKN3pLNkNRY3J3Ukt5T3FDOXFBV0lBYndSMktTMXVfX0pub1VtbW1wSUJrampRT3F5NjduT3g4aXpvbVF3d0ZlOFZ6Z2VKS0JaS2FzNFpoWUVxT1FJ?oc=5\" target=\"_blank\">정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간조선</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WQ3JwTVJRdjl5QWJDSkVKN3pLNkNRY3J3Ukt5T3FDOXFBV0lBYndSMktTMXVfX0pub1VtbW1wSUJrampRT3F5NjduT3g4aXpvbVF3d0ZlOFZ6Z2VKS0JaS2FzNFpoWUVxT1FJ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 05:30:00 GMT",
-        "source": "주간조선",
-        "ageHours": 1.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "68c7d8907ec93683ff387e9ddaa475f4b0f9a0d43e00222cfcc825b1d70b4fc8",
@@ -2600,10 +2552,10 @@
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "9c5b62e87ddabef23feb3acc01d31ebe8c6ee6a640f46d97fac24b053b54963e",
-    "title": "갈 길 먼 與 ‘내분종식’··· 송영길 “억울한 점 다 들어줘” 정청래 “입조심하라” - 세계일보",
+    "postId": "3f2697cd2c53006eacd985802494a90221a13b99accb29d2b6022c0518edd364",
+    "title": "정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지” - 주간조선",
     "bot": "jongsuk_pol_bot",
-    "runId": "45562416983",
-    "sentAt": "2026-11-25T06:41:20.603Z"
+    "runId": "45563654870",
+    "sentAt": "2026-11-25T06:51:16.282Z"
   }
 }

@@ -7034,3 +7034,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 ‘조용한 100일’…정청래 “신천지 의혹 제기 해당행위” 강공 - 한겨레
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 ‘조용한 100일’…정청래 “신천지 의혹 제기 해당행위” 강공
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE9mci11ZFlsMU1SLUtnU2VDWi1QczhFOVlKTENqWWhIT1BGVWxCOWpfUmxvcmdsU1F1NC04QmhSNV9tTnFYWXQ0TXdVd1VsR3B1Q19SOXcxb2hPUTZ2ZFZWdE93YVBsV0N3c3NkaUNXdGU5ZWdv?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** "李, 정청래 억울함 4시간 들어줘"…정청래 "송영길 의원은 입조심 하시라" - 부산일보
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "李, 정청래 억울함 4시간 들어줘"…정청래 "송영길 의원은 입조심 하시라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE5TSkpUdW94OEZJYWE1RjItc0xBeTNjRERTY3NiMU9TdEtoYmF0VXhxTlEtWTB5eENzVzMwdGF1NXJ6dG5NVk9GZ3A3Q2l3dlV2SDNlZzNfSHFkZmR6ZVhzbVZwX2MtTHBiNTJ1aFFqX1JoNC0xQjRN?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지” - 주간조선
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE5WQ3JwTVJRdjl5QWJDSkVKN3pLNkNRY3J3Ukt5T3FDOXFBV0lBYndSMktTMXVfX0pub1VtbW1wSUJrampRT3F5NjduT3g4aXpvbVF3d0ZlOFZ6Z2VKS0JaS2FzNFpoWUVxT1FJ?oc=5)
+
+---
+
