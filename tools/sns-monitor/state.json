@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T09:31:14.926Z",
+  "lastCheckedAt": "2026-11-25T09:41:15.746Z",
   "seenPostIds": {
-    "35699fcacd2726f6f42b1d7d051f9ebdd91d675b6954d6f566a415c6d388d2bd": {
-      "seenAt": "2026-11-23T05:21:19.440Z",
-      "title": "조국혁신당서 ‘조국’ 뺀다…당명 개정 제안 - 서울경제",
-      "targetName": "조국"
-    },
-    "9aeb69387de76ba8bf86f949b0f2633f65c76008258a0d026a105e5bba31c3a4": {
-      "seenAt": "2026-11-23T05:21:20.042Z",
-      "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라\" - 뉴스1",
-      "targetName": "이재명"
-    },
-    "f65fae265a627238210a4e6ea4ad5e4780e138ec1b2ccc87fa88c724a10e9c7d": {
-      "seenAt": "2026-11-23T05:21:20.630Z",
-      "title": "김민석, 당 회의서 '신천지' 발언한 박선원에 \"구두경고\" - MBC 뉴스",
-      "targetName": "김민석"
-    },
     "f6ae4f335c71de6317be2d8b86ce1e7c047683f91325f05153108d7707caaf9f": {
       "seenAt": "2026-11-23T05:31:22.947Z",
       "title": "[단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란 - 시사타파NEWS",
@@ -2515,31 +2500,24 @@
       "seenAt": "2026-11-25T09:31:17.633Z",
       "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
       "targetName": "정청래"
+    },
+    "edda9f07ca4d3e1032db1435e003cf2c62a9bd10d02ef106d1de4e3d58cd3333": {
+      "seenAt": "2026-11-25T09:41:17.072Z",
+      "title": "정청래 “입 싼 송영길과는 말 섞고 싶지 않다”… 발끈한 이유는 - 세계일보",
+      "targetName": "송영길"
+    },
+    "575d10febc682807f73fe4deffcbee9a4e1e316042eac497aa1f7f0fea2e8d8b": {
+      "seenAt": "2026-11-25T09:41:17.863Z",
+      "title": "김민석 대표 취임 100일… \"당 초토화\" \"리더십 60점\" 곳곳 쓴소리 - 조선일보",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "edda9f07ca4d3e1032db1435e003cf2c62a9bd10d02ef106d1de4e3d58cd3333",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래 “입 싼 송영길과는 말 섞고 싶지 않다”… 발끈한 이유는 - 세계일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ITTlhWlVhWDUxaFlobG9NaHhuVjhNTWVfdXdITGxsenVyNFZrSXlOeGExaU5YSlNVX1p6LXVQTURGbFRuSDFOcFVkSnNKS01pN0hENmlyQmzSAVRBVV95cUxOa1I3dTRuZTVvRGhTdjY3Q2hyVDJadk1meEZuVlF1d09EalJRaDBkdFRwVWN5STlOMnBQOFB2SkJOSmgxeHF0elNreXlCRWxrWndZQTA?oc=5\" target=\"_blank\">정청래 “입 싼 송영길과는 말 섞고 싶지 않다”… 발끈한 이유는</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ITTlhWlVhWDUxaFlobG9NaHhuVjhNTWVfdXdITGxsenVyNFZrSXlOeGExaU5YSlNVX1p6LXVQTURGbFRuSDFOcFVkSnNKS01pN0hENmlyQmzSAVRBVV95cUxOa1I3dTRuZTVvRGhTdjY3Q2hyVDJadk1meEZuVlF1d09EalJRaDBkdFRwVWN5STlOMnBQOFB2SkJOSmgxeHF0elNreXlCRWxrWndZQTA?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 08:05:21 GMT",
-        "source": "세계일보",
-        "ageHours": 1.4
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "bf6c55b9acb377f4dd1b6254ced8c2d8c081a7d5ac0940d1ddbf9b666bcaba80",
-    "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
+    "postId": "575d10febc682807f73fe4deffcbee9a4e1e316042eac497aa1f7f0fea2e8d8b",
+    "title": "김민석 대표 취임 100일… \"당 초토화\" \"리더십 60점\" 곳곳 쓴소리 - 조선일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45586138881",
-    "sentAt": "2026-11-25T09:31:17.245Z"
+    "runId": "45587724657",
+    "sentAt": "2026-11-25T09:41:17.478Z"
   }
 }
