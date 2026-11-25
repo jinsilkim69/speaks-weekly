@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T04:51:24.178Z",
+  "lastCheckedAt": "2026-11-25T05:01:20.100Z",
   "seenPostIds": {
-    "e04f82e7ad0d9df68f899e41c08951b9027d1da4345970f3ffe55d03144726d4": {
-      "seenAt": "2026-11-22T16:31:14.665Z",
-      "title": "최민희가 김민석에게 사과하지 않는 이유… 정청래와 같은 계산? (인물비상구 20261122 클립 최민희와 계파갈등 편) - 경향신문",
-      "targetName": "정청래"
-    },
-    "d9a110cb95ced3dc10cd52cbecb06ee7c056bf4155aac829d31544c3ea1da818": {
-      "seenAt": "2026-11-22T17:31:16.774Z",
-      "title": "오세훈·한동훈, 與 조희대 탄핵 추진에 맹공…“사법부 장악·친위쿠데타” - 세계일보",
-      "targetName": "한동훈"
-    },
-    "5326c4dde6165cda97556b41e62b6689707bed0db497cddd68ac8a9cc443e3bf": {
-      "seenAt": "2026-11-22T17:51:14.722Z",
-      "title": "민주 김민석 우울한 ‘취임 100일’…내부 통합·외연 확장 등 첩첩산중 - 국제신문",
-      "targetName": "김민석"
-    },
     "9c5acb0dd1ad5137829748c131cc72b2a9f29327ac809d62ad198c5222f557cd": {
       "seenAt": "2026-11-22T18:31:20.427Z",
       "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate majority leader - The Hill",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-25T04:51:27.111Z",
       "title": "정청래 \"입 싼 송영길, 말 섞기 싫어…대통령 회동 발설 부적절\" - 이데일리",
       "targetName": "송영길"
+    },
+    "2e38a300229a29dc3ce786fde7250b6541876111346ad02f9e0d112dc9863b07": {
+      "seenAt": "2026-11-25T05:01:21.858Z",
+      "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" - 연합인포맥스",
+      "targetName": "송영길"
+    },
+    "8cfc42028cf37bb6f799ceb74ffb02dd6d2dbb3742427a449fed81d96ae2b643": {
+      "seenAt": "2026-11-25T05:01:22.954Z",
+      "title": "\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\" - 스포츠조선",
+      "targetName": "이준석"
+    },
+    "acd4f67b8ef984b5da64d8d0311e742b3de5e0ed169e0b387f147432b738dfd5": {
+      "seenAt": "2026-11-25T05:01:23.720Z",
+      "title": "이준석 KB운용 실장 “AI 구경꾼 돼선 안돼…승자독식 기업 담아야” [진주 in 재테크] - 데일리안",
+      "targetName": "이준석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "2e38a300229a29dc3ce786fde7250b6541876111346ad02f9e0d112dc9863b07",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" - 연합인포맥스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9KOVV0VDJvRjk5Ry1nMFphNjFMQ3FOeWVRMHZXNG1VbExvVUUycS1QYzAtcUNUM0pRWGxnQ28yZmxLYUVuU2ZzZjBfRmhCNUFWMnR0WWw0RzQyelpFbWszTlJoeGg5QlhsOFZvNlpDWmk?oc=5\" target=\"_blank\">송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합인포맥스</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KOVV0VDJvRjk5Ry1nMFphNjFMQ3FOeWVRMHZXNG1VbExvVUUycS1QYzAtcUNUM0pRWGxnQ28yZmxLYUVuU2ZzZjBfRmhCNUFWMnR0WWw0RzQyelpFbWszTlJoeGg5QlhsOFZvNlpDWmk?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 04:03:03 GMT",
-        "source": "연합인포맥스",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "8cfc42028cf37bb6f799ceb74ffb02dd6d2dbb3742427a449fed81d96ae2b643",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\" - 스포츠조선",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPanp0N0RBWWxTc2hBbjBmdUpEcE9lSnkxRUNkYTFJclVYWmV0Z0J6RUVrT1hmQjB5TXhRNW1OU3dlZ0pIT2c5VHRWTFVfM2xFLU5YUnZxR3NXeDJkbHBtNlRiNXhIb2Jua2tvTkd1WERscU9sSUNJX3VXOGFnNWhYeDFn?oc=5\" target=\"_blank\">\"김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌\" '초롱초롱' 인천 꿈나무들 \"저희 태극마크 달고 다시 올게요\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스포츠조선</font>",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPanp0N0RBWWxTc2hBbjBmdUpEcE9lSnkxRUNkYTFJclVYWmV0Z0J6RUVrT1hmQjB5TXhRNW1OU3dlZ0pIT2c5VHRWTFVfM2xFLU5YUnZxR3NXeDJkbHBtNlRiNXhIb2Jua2tvTkd1WERscU9sSUNJX3VXOGFnNWhYeDFn?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 00:18:57 GMT",
-        "source": "스포츠조선",
-        "ageHours": 4.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "acd4f67b8ef984b5da64d8d0311e742b3de5e0ed169e0b387f147432b738dfd5",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "이준석 KB운용 실장 “AI 구경꾼 돼선 안돼…승자독식 기업 담아야” [진주 in 재테크] - 데일리안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUVlqQy1fM3NLbnFFVUVMUU1BM1UyRGRvR2MwVjFrU0w5Mm1aU3k2ZW4xczJZTVh3YW9vc2YtZzNKMVRVLW8weFVESUNJb0hRd3VDVUdCREZESmI1Rnd6LVZ2WldTQUxRNzg0NkVSMzlyQjdiNmtERmFKRTJKNWdwTWYwNk1OcDBrOWNuWUxqNl8zVE5KaHJEZ3lnVGFmcHNEbGg2UEZoRGlUWG9wM2dCVkIxRDFyXzJ1YlVkeUtneXc3WlVnQVU4Ny1XdzZwa2otYUZWMm1EdzRGWnB6R0xFZWE5RzZXR0ZzR29lbg?oc=5\" target=\"_blank\">이준석 KB운용 실장 “AI 구경꾼 돼선 안돼…승자독식 기업 담아야” [진주 in 재테크]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUVlqQy1fM3NLbnFFVUVMUU1BM1UyRGRvR2MwVjFrU0w5Mm1aU3k2ZW4xczJZTVh3YW9vc2YtZzNKMVRVLW8weFVESUNJb0hRd3VDVUdCREZESmI1Rnd6LVZ2WldTQUxRNzg0NkVSMzlyQjdiNmtERmFKRTJKNWdwTWYwNk1OcDBrOWNuWUxqNl8zVE5KaHJEZ3lnVGFmcHNEbGg2UEZoRGlUWG9wM2dCVkIxRDFyXzJ1YlVkeUtneXc3WlVnQVU4Ny1XdzZwa2otYUZWMm1EdzRGWnB6R0xFZWE5RzZXR0ZzR29lbg?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 22:07:00 GMT",
-        "source": "데일리안",
-        "ageHours": 6.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "967aa7088d9c279eb2dd1176348abbf7dcef2d8b8a8c4ad053caa9ffc2616932",
@@ -2613,13 +2565,45 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "86b7bec3048cf6d46b2cc4aa3c1cd095d4a71beb138f46130fb22ce54aa4fbfd",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "정청래, 李대통령과의 회동 내용 공개에 격앙…“송영길, 입조심하라” - 시사저널",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9EN0dfRHFjbm14YUtoZ3dxZEhXVWNCd0dOeDFmT18xZTNBTV9DUi1fTlA1Z2p3WXlrUTRFWldBVnotZk52aVF2ajdmRkVkRHoxamd5SmR2ZDJJRkEwbUdlTEVUdnFKRzRSZmZfMXNmd9IBc0FVX3lxTE1CUi1odnlwYkg4V19hNmRaeWdpbHZrVm5XTDVzZU1fSmdIVTh6WmpoZExYcjVyLURER2ZpSDMtSlpCdkU0TEotektSbTZQTkw0dUx0Qm5sZ1Y3OGJLYkY5ZGRWLUU1MHZGU1dyanVZN0d1cEU?oc=5\" target=\"_blank\">정청래, 李대통령과의 회동 내용 공개에 격앙…“송영길, 입조심하라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EN0dfRHFjbm14YUtoZ3dxZEhXVWNCd0dOeDFmT18xZTNBTV9DUi1fTlA1Z2p3WXlrUTRFWldBVnotZk52aVF2ajdmRkVkRHoxamd5SmR2ZDJJRkEwbUdlTEVUdnFKRzRSZmZfMXNmd9IBc0FVX3lxTE1CUi1odnlwYkg4V19hNmRaeWdpbHZrVm5XTDVzZU1fSmdIVTh6WmpoZExYcjVyLURER2ZpSDMtSlpCdkU0TEotektSbTZQTkw0dUx0Qm5sZ1Y3OGJLYkY5ZGRWLUU1MHZGU1dyanVZN0d1cEU?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 04:40:05 GMT",
+        "source": "시사저널",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "1c86f057408d2ea97db55526750d096e698db52b766b4850b645795d009eb76e",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "정청래, 靑 비공개 회동 발설한 송영길에 \"입이 너무 싸다…분수 알아야\" - 경북도민일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBsR2RTV3Y3UmwxeXpTckdRT2JvTDlfMXhvSjZlYUFVbDhPd2VvdnJnMHE1bEJkeWZxM1M2dEpncmtOWUFxUG5ud1c0ME9zcndrcVU4VHFmZzYxQ2hVaWN5SHBKVXczYThxNVE?oc=5\" target=\"_blank\">정청래, 靑 비공개 회동 발설한 송영길에 \"입이 너무 싸다…분수 알아야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북도민일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsR2RTV3Y3UmwxeXpTckdRT2JvTDlfMXhvSjZlYUFVbDhPd2VvdnJnMHE1bEJkeWZxM1M2dEpncmtOWUFxUG5ud1c0ME9zcndrcVU4VHFmZzYxQ2hVaWN5SHBKVXczYThxNVE?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 04:40:35 GMT",
+        "source": "경북도민일보",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "f44903203fe82d82008b5010cde7649f5e22c47eef03966f173758b56473412e",
-    "title": "정청래 \"입 싼 송영길, 말 섞기 싫어…대통령 회동 발설 부적절\" - 이데일리",
+    "postId": "acd4f67b8ef984b5da64d8d0311e742b3de5e0ed169e0b387f147432b738dfd5",
+    "title": "이준석 KB운용 실장 “AI 구경꾼 돼선 안돼…승자독식 기업 담아야” [진주 in 재테크] - 데일리안",
     "bot": "jongsuk_pol_bot",
-    "runId": "45549558163",
-    "sentAt": "2026-11-25T04:51:26.739Z"
+    "runId": "45550642265",
+    "sentAt": "2026-11-25T05:01:23.297Z"
   }
 }

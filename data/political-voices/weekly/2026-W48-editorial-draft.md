@@ -6631,3 +6631,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "李대통령, 鄭 억울함 4시간 들어"…정청래 "입 싼 宋, 입조심하라" - 연합인포맥스
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "李대통령, 鄭 억울함 4시간 들어"…정청래 "입 싼 宋, 입조심하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE9KOVV0VDJvRjk5Ry1nMFphNjFMQ3FOeWVRMHZXNG1VbExvVUUycS1QYzAtcUNUM0pRWGxnQ28yZmxLYUVuU2ZzZjBfRmhCNUFWMnR0WWw0RzQyelpFbWszTlJoeGg5QlhsOFZvNlpDWmk?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** "김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌" '초롱초롱' 인천 꿈나무들 "저희 태극마크 달고 다시 올게요" - 스포츠조선
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "김택수 촌장X테크볼金 이준석의 금빛 멘토링@진천선수촌" '초롱초롱' 인천 꿈나무들 "저희 태극마크 달고 다시 올게요"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiggFBVV95cUxPanp0N0RBWWxTc2hBbjBmdUpEcE9lSnkxRUNkYTFJclVYWmV0Z0J6RUVrT1hmQjB5TXhRNW1OU3dlZ0pIT2c5VHRWTFVfM2xFLU5YUnZxR3NXeDJkbHBtNlRiNXhIb2Jua2tvTkd1WERscU9sSUNJX3VXOGFnNWhYeDFn?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 KB운용 실장 “AI 구경꾼 돼선 안돼…승자독식 기업 담아야” [진주 in 재테크] - 데일리안
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 KB운용 실장 “AI 구경꾼 돼선 안돼…승자독식 기업 담아야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUVlqQy1fM3NLbnFFVUVMUU1BM1UyRGRvR2MwVjFrU0w5Mm1aU3k2ZW4xczJZTVh3YW9vc2YtZzNKMVRVLW8weFVESUNJb0hRd3VDVUdCREZESmI1Rnd6LVZ2WldTQUxRNzg0NkVSMzlyQjdiNmtERmFKRTJKNWdwTWYwNk1OcDBrOWNuWUxqNl8zVE5KaHJEZ3lnVGFmcHNEbGg2UEZoRGlUWG9wM2dCVkIxRDFyXzJ1YlVkeUtneXc3WlVnQVU4Ny1XdzZwa2otYUZWMm1EdzRGWnB6R0xFZWE5RzZXR0ZzR29lbg?oc=5)
+
+---
+
