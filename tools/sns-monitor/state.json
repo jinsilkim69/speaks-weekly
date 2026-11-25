@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T14:21:13.211Z",
+  "lastCheckedAt": "2026-11-25T14:31:21.258Z",
   "seenPostIds": {
     "ccb06fdf2372963046c9019fc57b4223df4c128a004825a75c40a01608616051": {
       "seenAt": "2026-11-23T07:21:16.307Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-25T14:11:26.622Z",
       "title": "인사 나누는 조국 연구원장-신장식 대표 - 뉴시스",
       "targetName": "신장식"
+    },
+    "c27f4f536c702316f7e5c10cc1547b4a8780aee6afa56d9830683011a35f1aa2": {
+      "seenAt": "2026-11-25T14:31:22.790Z",
+      "title": "[김종석의 왜]송영길-정청래 또 설전…“입조심 하라” - 채널A",
+      "targetName": "송영길"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "ce3e338f1590d6de8ad82cc34f511113841d43d3edf3f9a2330e187a4b1dcfbb",
-    "title": "인사 나누는 조국 연구원장-신장식 대표 - 뉴시스",
+    "postId": "c27f4f536c702316f7e5c10cc1547b4a8780aee6afa56d9830683011a35f1aa2",
+    "title": "[김종석의 왜]송영길-정청래 또 설전…“입조심 하라” - 채널A",
     "bot": "jongsuk_pol_bot",
-    "runId": "45631266669",
-    "sentAt": "2026-11-25T14:11:26.213Z"
+    "runId": "45634906575",
+    "sentAt": "2026-11-25T14:31:22.262Z"
   }
 }
