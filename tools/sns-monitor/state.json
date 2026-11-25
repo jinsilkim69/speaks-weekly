@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T10:41:17.072Z",
+  "lastCheckedAt": "2026-11-25T10:51:13.904Z",
   "seenPostIds": {
     "3790cea263b7c172b42b926aef512b40bf098b49fd5f67f3262994b5cbe45ef2": {
       "seenAt": "2026-11-23T06:11:18.820Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-25T10:31:17.551Z",
       "title": "Trump says he 'will not sign' bipartisan housing bill, but doesn't threaten veto either - ABC News - Breaking News, Latest News and Videos",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "b248356d4f4fb3893cb067d2b722416bfff2a7e61fb5b588cfb7a8e3d15f0a41": {
+      "seenAt": "2026-11-25T10:51:14.990Z",
+      "title": "장동혁, ‘조희대 고향’ 경주서 여론전… 한동훈 “탄핵 인용 땐 사퇴” [조희대 탄핵 추진 파장] - 세계일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "acdd1fc61db7222462584a2c9d91c422f74bd3810cc96cd0546fac06ff586dee",
-    "title": "Trump says he 'will not sign' bipartisan housing bill, but doesn't threaten veto either - ABC News - Breaking News, Latest News and Videos",
+    "postId": "b248356d4f4fb3893cb067d2b722416bfff2a7e61fb5b588cfb7a8e3d15f0a41",
+    "title": "장동혁, ‘조희대 고향’ 경주서 여론전… 한동훈 “탄핵 인용 땐 사퇴” [조희대 탄핵 추진 파장] - 세계일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45595721082",
-    "sentAt": "2026-11-25T10:31:17.207Z"
+    "runId": "45598880976",
+    "sentAt": "2026-11-25T10:51:14.465Z"
   }
 }
