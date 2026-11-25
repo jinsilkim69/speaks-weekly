@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T15:01:16.232Z",
+  "lastCheckedAt": "2026-11-25T15:11:15.406Z",
   "seenPostIds": {
     "7f27120ebd0ab3bee607e030288a1733738a5a49083872a67b3a9930a1c7778a": {
       "seenAt": "2026-11-23T07:41:18.742Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-25T14:51:43.136Z",
       "title": "조국 “민주당 180석인데, 존재감 왜 국민의힘 보다 훨씬 떨어나” - 주간경향",
       "targetName": "조국"
+    },
+    "4a6e72dde15eb744d9886b3843f6459ff51b3dda3fc1ee8385dedc8e78c80f64": {
+      "seenAt": "2026-11-25T15:11:16.868Z",
+      "title": "MS NOW’s Rachel Maddow Blasts Trump Over Fake AI Video Imitating Her - TV Insider",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "2f4e9e924fd7babd74e61c60f97cbd853c5c27033fff5983ee363711ca6289bb",
-    "title": "조국 “민주당 180석인데, 존재감 왜 국민의힘 보다 훨씬 떨어나” - 주간경향",
+    "postId": "4a6e72dde15eb744d9886b3843f6459ff51b3dda3fc1ee8385dedc8e78c80f64",
+    "title": "MS NOW’s Rachel Maddow Blasts Trump Over Fake AI Video Imitating Her - TV Insider",
     "bot": "jongsuk_pol_bot",
-    "runId": "45638643410",
-    "sentAt": "2026-11-25T14:51:42.562Z"
+    "runId": "45642253280",
+    "sentAt": "2026-11-25T15:11:16.212Z"
   }
 }
