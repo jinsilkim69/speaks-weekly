@@ -7853,3 +7853,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 은평서 공적주택 현장 간담회 가져 - LG헬로비전
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 은평서 공적주택 현장 간담회 가져
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE1tNTRFSlY5MXIwTWd3TEZ5WHR6QVp2dC0wMERXZEtrRlV6Yld3QU9hWDQtTFdDUGxZT2J2Q0F1VERXdHNQSkw2bnVlQnU0R1h2X0pYWGJIS19Yc01acmJXZFZpSUlFSUczS0hZSVEwMXo5d9IBdkFVX3lxTFBNQkFmbzlfVEhQZmhyN0pMeTE2SmRlcEwwVnhlS21QZExMem1DRENkRlJJSG5jclZvRUwwb1BJcG5idEc1dDdFUDg0VFJyWU4tS2dscWY5WlZfaXpmRHdXZThmRW1NeXVqdjVPWUVsNTFnSmp5S3c?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 조희대 탄핵 위한 ‘5당 연대’ 제안…野 “탈옥 프로젝트” - www.1waynews.com
+
+- **수집일**: 2026-11-25 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 조희대 탄핵 위한 ‘5당 연대’ 제안…野 “탈옥 프로젝트”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fNEh6cERmWkRqcG9FTUFkTXNEQVJCNHVUTThkeTRnaFlqNHRWVHQ4WWVsWkFUcWZRMEItQ2RVbzRmb0lFQ2h1ZjhVNW9LVnVBbVRPS1JiS0dlejVITU5STXV3ajltTkFB?oc=5)
+
+---
+

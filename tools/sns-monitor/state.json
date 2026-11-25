@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T12:41:14.783Z",
+  "lastCheckedAt": "2026-11-25T12:51:16.488Z",
   "seenPostIds": {
     "5b8b20e9c25f685b2c47fefc7a868244978045a0786ec1239f4b98f3473226b4": {
       "seenAt": "2026-11-23T06:51:17.652Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-25T12:21:17.122Z",
       "title": "\"입 싼 송영길, 말 안 섞어\" 거친 말 쏟아낸 정청래... 왜? - OhmyNews",
       "targetName": "송영길"
+    },
+    "c50d907d674cfd4e7d4441ec3fa0b2aa31c166b259f15f1e387405fdd54c08bf": {
+      "seenAt": "2026-11-25T12:51:17.627Z",
+      "title": "이재명 대통령, 은평서 공적주택 현장 간담회 가져 - LG헬로비전",
+      "targetName": "이재명"
+    },
+    "3e228ed32010710185ba010ec85d049aec11396c50b0982e35130e50b203c151": {
+      "seenAt": "2026-11-25T12:51:18.427Z",
+      "title": "김민석, 조희대 탄핵 위한 ‘5당 연대’ 제안…野 “탈옥 프로젝트” - www.1waynews.com",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "cf8518fddbe9eff09536c8a78f3b7b692b926d5cbdf024310aa89414421a0f10",
-    "title": "\"입 싼 송영길, 말 안 섞어\" 거친 말 쏟아낸 정청래... 왜? - OhmyNews",
+    "postId": "3e228ed32010710185ba010ec85d049aec11396c50b0982e35130e50b203c151",
+    "title": "김민석, 조희대 탄핵 위한 ‘5당 연대’ 제안…野 “탈옥 프로젝트” - www.1waynews.com",
     "bot": "jongsuk_pol_bot",
-    "runId": "45612898872",
-    "sentAt": "2026-11-25T12:21:16.761Z"
+    "runId": "45617717372",
+    "sentAt": "2026-11-25T12:51:18.066Z"
   }
 }
