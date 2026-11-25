@@ -8269,3 +8269,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, “공적주택 연평균 24만 호 공급… 역세권·평형·품질 높인다” - 미디어써치
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, “공적주택 연평균 24만 호 공급… 역세권·평형·품질 높인다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE9IMEREaG4tWHNGYlgxdTdOUFROY3p2X0plRWc5MGswNzdXWVRJRDJTU09ZQTdtTDM0WFNsY21zZjQ3Y3RtWDk2dkZ6ZXRuLVpVRko3d3hTTXFyUE0zMlQ3S2lGU0JVemhjRW9uYjk4Nl8?oc=5)
+
+---
+

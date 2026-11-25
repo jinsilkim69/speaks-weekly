@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-25T22:01:14.559Z",
+  "lastCheckedAt": "2026-11-25T22:11:15.609Z",
   "seenPostIds": {
-    "bf26562ca9375ae8d45bb30364ec2c2586344864cb305be799a6c153c911bf84": {
-      "seenAt": "2026-11-23T08:31:19.275Z",
-      "title": "조국혁신당 충남도당, 고위험 발달장애아동 긴급돌봄체계 즉각 시행 촉구 - 아산포커스",
-      "targetName": "조국"
-    },
     "72bfcd78968245d24314a06268fffb5e54e8658c7130eec5538221ba7c62b69a": {
       "seenAt": "2026-11-23T08:41:17.977Z",
       "title": "\"윤석열 구형일 맞춰 한동훈 제명\"‥국힘 '조작징계' 추가 폭로 - MBC 뉴스",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-25T22:01:15.601Z",
       "title": "Trump blasts MAGA influencers who have split with him over Iran - ABC News - Breaking News, Latest News and Videos",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "376eff254dde0d8e5679001e241db8fa0cb78bfbaa19526956f4f9b912fc8578": {
+      "seenAt": "2026-11-25T22:11:16.917Z",
+      "title": "이재명 대통령, “공적주택 연평균 24만 호 공급… 역세권·평형·품질 높인다” - 미디어써치",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "b2eb9220e135cd4c785c3827874ebb4035ce68d81366fbdff9181998e0f774b2",
-    "title": "Trump blasts MAGA influencers who have split with him over Iran - ABC News - Breaking News, Latest News and Videos",
+    "postId": "376eff254dde0d8e5679001e241db8fa0cb78bfbaa19526956f4f9b912fc8578",
+    "title": "이재명 대통령, “공적주택 연평균 24만 호 공급… 역세권·평형·품질 높인다” - 미디어써치",
     "bot": "jongsuk_pol_bot",
-    "runId": "45709529846",
-    "sentAt": "2026-11-25T22:01:15.116Z"
+    "runId": "45711001379",
+    "sentAt": "2026-11-25T22:11:16.278Z"
   }
 }
