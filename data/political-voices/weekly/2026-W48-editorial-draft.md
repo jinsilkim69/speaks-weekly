@@ -8126,3 +8126,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Who’s Paying to See Trump’s Posts Early? We’re About to Find Out. - The New Republic
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Who’s Paying to See Trump’s Posts Early? We’re About to Find Out.
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOFZvcjdCSmJSMEZyTENXU1JDeEllYUFoRDY4UkNVWlJLazQ3TTBST05BZ2E0RDNGbFkzRmE1SWZ1Y2g2RE5vV1dGTDNVcVFNVHBJQndEOXd0S3ZuMWJUbjlkcjBpckNSQTZmS05KSF80dk92djIxaUhhYmRQMDRrR0tteTNaTE5s?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Read President Trump's pardon of Pete Rose - Cincinnati Enquirer
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Read President Trump's pardon of Pete Rose
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWVVCaFBMNEJhMlhFTTBIR0pfUThJNG5USTUxLXRsS21pcVV5ZU9DeFd3ZWktcndjS3NGMHhDRzY5TWxfUmNqakhScTRGOXhVU01WcWxlWnBZYVdBUzlZWFNEcWJnTk9BZjRrMDFKWE5oaXZESFY5M0hLYm5DUDFyOHZxUmZyYU9WU2NIVzNjM2tGMm42V1BjMG5BTkdsekhUQVpQOTBFNC1ZSXpUWi1XaU1wNXRBek9aeU9TZEpxQkh5WlU?oc=5)
+
+---
+

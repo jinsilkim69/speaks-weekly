@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T17:01:18.520Z",
+  "lastCheckedAt": "2026-11-25T17:11:24.646Z",
   "seenPostIds": {
     "f61a9f3018f727439b10d6c5e5d0fc5faacb180a339b12ba04e17460e87f508d": {
       "seenAt": "2026-11-23T08:01:18.725Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-25T16:41:30.775Z",
       "title": "President Trump: \"Army's mitigation efforts have far exceeded expectations\" - KGAN",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "9141014ac60e8a5245ae76a47ac955992f8c03526ec4e396b745d472aa1b29a6": {
+      "seenAt": "2026-11-25T17:11:26.421Z",
+      "title": "Who’s Paying to See Trump’s Posts Early? We’re About to Find Out. - The New Republic",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ef24d9d0dc7afadebd10fcd34d3603c98301574966294c84ff638a03ba80dc5f": {
+      "seenAt": "2026-11-25T17:11:27.267Z",
+      "title": "Read President Trump's pardon of Pete Rose - Cincinnati Enquirer",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "2fdf60958561d322d0010f250507b07c8f116e0a750dd0583b430ab6b5e97d9b",
-    "title": "President Trump: \"Army's mitigation efforts have far exceeded expectations\" - KGAN",
+    "postId": "ef24d9d0dc7afadebd10fcd34d3603c98301574966294c84ff638a03ba80dc5f",
+    "title": "Read President Trump's pardon of Pete Rose - Cincinnati Enquirer",
     "bot": "jongsuk_pol_bot",
-    "runId": "45656542046",
-    "sentAt": "2026-11-25T16:41:30.398Z"
+    "runId": "45662002492",
+    "sentAt": "2026-11-25T17:11:26.780Z"
   }
 }
