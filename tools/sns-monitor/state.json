@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-25T19:01:15.266Z",
+  "lastCheckedAt": "2026-11-25T19:11:15.333Z",
   "seenPostIds": {
     "775fb110629f37a6c371d3b22361b4380efdc7e775ce27042b310c5699dd4928": {
       "seenAt": "2026-11-23T08:11:16.571Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-25T18:41:16.397Z",
       "title": "경쟁자였던 송영길이 본 김민석 100일 #shorts - 오마이TV - OhmyNews",
       "targetName": "김민석"
+    },
+    "b083f78888ee9ccefbb8af2ffc93bb648bb5992e2c447d3d1e7a9670e74d3b7d": {
+      "seenAt": "2026-11-25T19:11:16.467Z",
+      "title": "김형연 국회의원(조국혁신당), 「GA 성장의 그늘, 무엇을 고칠 것인가」토론회 개최 “GA 권한 확대에 앞서, 소비자 보호할 안전장치부터 갖춰야” - 의정일보",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "603fd96d00dd6a7758aca4075035aaf9154742e6839ef21640823d3f6e4a9443",
-    "title": "경쟁자였던 송영길이 본 김민석 100일 #shorts - 오마이TV - OhmyNews",
+    "postId": "b083f78888ee9ccefbb8af2ffc93bb648bb5992e2c447d3d1e7a9670e74d3b7d",
+    "title": "김형연 국회의원(조국혁신당), 「GA 성장의 그늘, 무엇을 고칠 것인가」토론회 개최 “GA 권한 확대에 앞서, 소비자 보호할 안전장치부터 갖춰야” - 의정일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45677633646",
-    "sentAt": "2026-11-25T18:41:15.759Z"
+    "runId": "45682631715",
+    "sentAt": "2026-11-25T19:11:15.887Z"
   }
 }

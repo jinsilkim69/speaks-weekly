@@ -273,5 +273,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b083f78888ee9ccefbb8af2ffc93bb648bb5992e2c447d3d1e7a9670e74d3b7d",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "김형연 국회의원(조국혁신당), 「GA 성장의 그늘, 무엇을 고칠 것인가」토론회 개최 “GA 권한 확대에 앞서, 소비자 보호할 안전장치부터 갖춰야” - 의정일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5MeEcxS2RVVjdSc0JOeDRMLW1oa3dFV1hZa1pleEpHaWl0bDZVUV9IcmdwdmN3cWs1bjM0ZUV4WGFRUDZSR2FUVTMtX2NoZlY5SmxWUF9YdmpMMDB2MzF3a3daNzRSNC1DZmc?oc=5\" target=\"_blank\">김형연 국회의원(조국혁신당), 「GA 성장의 그늘, 무엇을 고칠 것인가」토론회 개최 “GA 권한 확대에 앞서, 소비자 보호할 안전장치부터 갖춰야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">의정일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MeEcxS2RVVjdSc0JOeDRMLW1oa3dFV1hZa1pleEpHaWl0bDZVUV9IcmdwdmN3cWs1bjM0ZUV4WGFRUDZSR2FUVTMtX2NoZlY5SmxWUF9YdmpMMDB2MzF3a3daNzRSNC1DZmc?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 17:29:20 GMT",
+    "source": "의정일보",
+    "ageHours": 1.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김형연 국회의원(조국혁신당), 「GA 성장의 그늘, 무엇을 고칠 것인가」토론회 개최 “GA 권한 확대에 앞서, 소비자 보호할 안전장치부터 갖춰야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
