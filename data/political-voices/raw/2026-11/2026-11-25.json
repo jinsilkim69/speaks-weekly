@@ -4704,5 +4704,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "52d0b9e058f5f374ff3e69643dda25cc6c582d63984e2acc383f1a24c59f5911",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "김민석, 조희대 대법원장 탄핵 ‘5당 연대’ 공식 제안…신장식, 즉각 환영 - 신문고뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Uc1JkMm1hWjd3cDc1Nlk2OGZSY1lhRlRERnZqb25YblZ1ZnZ3RGNlZ2NFQ3p5bnZGcWdlOXk4MVVWc29NNHJZ?oc=5\" target=\"_blank\">김민석, 조희대 대법원장 탄핵 ‘5당 연대’ 공식 제안…신장식, 즉각 환영</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">신문고뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Uc1JkMm1hWjd3cDc1Nlk2OGZSY1lhRlRERnZqb25YblZ1ZnZ3RGNlZ2NFQ3p5bnZGcWdlOXk4MVVWc29NNHJZ?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 08:48:00 GMT",
+    "source": "신문고뉴스",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 조희대 대법원장 탄핵 ‘5당 연대’ 공식 제안…신장식, 즉각 환영",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
