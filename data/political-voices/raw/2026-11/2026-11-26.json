@@ -475,5 +475,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "7a042e1f82991a80bc8790954a604b84301d04501c1b641ee6b82c257986f2dd",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "송영길 \"8월 청와대서 鄭 억울함 4시간 들어\" 정청래 \"입조심하라\" - 조선일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOMlFzNGc0V3Z6WXc3MFVIQnVsNkpveEM3VE4xQUs3ZGxyWTlHYmxzSUY2R1FNLXR0ajVyVC1uOFlCcUJtNEJQQnhtM192UEJndDdaN1ZIVEI2Si1vTVg1U0R1bVhvdUFFQ25QRmpucTNlaUJIa1JPUzl3NHgtY0pJaHI4a1ZZZlctS0xnV0JGQ1U?oc=5\" target=\"_blank\">송영길 \"8월 청와대서 鄭 억울함 4시간 들어\" 정청래 \"입조심하라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMlFzNGc0V3Z6WXc3MFVIQnVsNkpveEM3VE4xQUs3ZGxyWTlHYmxzSUY2R1FNLXR0ajVyVC1uOFlCcUJtNEJQQnhtM192UEJndDdaN1ZIVEI2Si1vTVg1U0R1bVhvdUFFQ25QRmpucTNlaUJIa1JPUzl3NHgtY0pJaHI4a1ZZZlctS0xnV0JGQ1U?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 01:30:38 GMT",
+    "source": "조선일보",
+    "ageHours": 20.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길 \"8월 청와대서 鄭 억울함 4시간 들어\" 정청래 \"입조심하라\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "e5662265cb1440f6ab7cacc39c210a0bf3b76452a83621112b33240a79c47dc0",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’ - Lehighvalleylive.com",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEJTZ25TWnFKWGhPR05HcXlSM2RMZTBQMjRzcWE1d3g0S1JwUHJ6Z0RFM2wtY2ZocXBvRlFFako3STRoOExVMEpTOVQ3bWJOcFVsRk41QlZ3dGlvX0VkX2J3NlRiZWdCOE92VEJRSFI4cHJXbV80TEhueWFiaGRaODhHX3RiWkRsSEJraDdMaTVzSUlIYUw4OG93d0xlUVZtSFF2QlBhWk5UTlRWMEpGNWJrNE9mUQ?oc=5\" target=\"_blank\">Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lehighvalleylive.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEJTZ25TWnFKWGhPR05HcXlSM2RMZTBQMjRzcWE1d3g0S1JwUHJ6Z0RFM2wtY2ZocXBvRlFFako3STRoOExVMEpTOVQ3bWJOcFVsRk41QlZ3dGlvX0VkX2J3NlRiZWdCOE92VEJRSFI4cHJXbV80TEhueWFiaGRaODhHX3RiWkRsSEJraDdMaTVzSUlIYUw4OG93d0xlUVZtSFF2QlBhWk5UTlRWMEpGNWJrNE9mUQ?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 21:00:00 GMT",
+    "source": "Lehighvalleylive.com",
+    "ageHours": 1.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
