@@ -8685,3 +8685,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “공공기관 이전 부지에 공공주택 짓자…‘제2의 무상급식’으로” - 매일경제
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “공공기관 이전 부지에 공공주택 짓자…‘제2의 무상급식’으로”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ga1Nrak1BbWRrVjZXdFZDNkpDTXVnSWJCUWhkeDlGUzlMczFJUGt5UlFScEt6aHNiTE4xNmR1MG8yZUljSFR1cUZwaS12UFBySzFRNHplc3A?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says he’ll meet El-Sayed, who offered to call Medicare for All ‘Trumpcare’ - Crain's Detroit
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says he’ll meet El-Sayed, who offered to call Medicare for All ‘Trumpcare’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2kxeFJiV3FjT2FlTmFYYkIyWFpDd0dldHZkb3kzcVpGcmFWV1VFaTc1Sy03V29lcXJFN1RxU0xreXVvUHd5Q2FCUUFhNVFYMUlkQWg3SEJCdzN1VWdFRVQ0TkI3NmdpdGZPVV9UVFV3ZjUyYmZ2V2xvMXhKTzdiRDQ1Vml1TEgyVFNzSHdhSWZwVllXY0E4dQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "당정청 힘 모아 현장 목소리 입법·예산으로 연결 노력" - 뉴스1
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "당정청 힘 모아 현장 목소리 입법·예산으로 연결 노력"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HTjY0dkxrZ2tKNnNIQjZqd3RUS0YxUHpCVFdleFZNRllJM2RZX1Zkd3RwdUZWNkl5dVcteE01bElaYWdGeTBjZXVzcDl1cjk2elVsRW4wOTFJQQ?oc=5)
+
+---
+

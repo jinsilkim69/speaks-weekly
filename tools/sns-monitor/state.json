@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T01:51:13.621Z",
+  "lastCheckedAt": "2026-11-26T02:01:14.767Z",
   "seenPostIds": {
-    "4ffc4e1a0cefb5d57e414c3afeae67b01127c87a2f39bc35898535f8eaeaf044": {
-      "seenAt": "2026-11-23T11:21:22.423Z",
-      "title": "오세훈 “대통령 이재명 시간, 피고인 이재명에게 쓰지 말라” - 중앙일보",
-      "targetName": "이재명"
-    },
-    "757c24a167e631752e323ff06a03531ea2247c48960caed2590a7743e73a6caf": {
-      "seenAt": "2026-11-23T11:21:23.273Z",
-      "title": "한동훈 의원 “정상화되면 국민의힘으로 돌아가 민주당과 싸우겠다” - 경북일보",
-      "targetName": "한동훈"
-    },
-    "d4a48163ad7657cef9e0afd17b7d48864457a1443ee915f7dcc422bbf19dab93": {
-      "seenAt": "2026-11-23T11:41:18.549Z",
-      "title": "한동훈 제명 결정한 날, 장동혁에 “이벤트 마무리중” 문자 전송 - 동아일보",
-      "targetName": "한동훈"
-    },
     "c1b560c660325234da328c8b462677e5650e7b490878bb2f525655bec5b2a714": {
       "seenAt": "2026-11-23T11:51:18.395Z",
       "title": "오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 조세일보",
@@ -2515,47 +2500,29 @@
       "seenAt": "2026-11-26T01:51:16.336Z",
       "title": "천하람 “조희대 탄핵, 비상계엄 못잖은 미친 짓”…민주당·정부 정책 맹비난 - 매일경제",
       "targetName": "천하람"
+    },
+    "cd6449ec937c5b4ba854ffc00104dea7af057c3c4db9643d1164b2cbda6b256b": {
+      "seenAt": "2026-11-26T02:01:16.054Z",
+      "title": "조국 “공공기관 이전 부지에 공공주택 짓자…‘제2의 무상급식’으로” - 매일경제",
+      "targetName": "조국"
+    },
+    "b49a7ac77074a17ac1863e14331086078884f8fcf9ab864061ec8c4e4c07064a": {
+      "seenAt": "2026-11-26T02:01:16.718Z",
+      "title": "Trump says he’ll meet El-Sayed, who offered to call Medicare for All ‘Trumpcare’ - Crain's Detroit",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "e49122004a09d813043b5d118acdd6adb9bbbafda291c666a63bda5a71a14224": {
+      "seenAt": "2026-11-26T02:01:17.373Z",
+      "title": "김민석 \"당정청 힘 모아 현장 목소리 입법·예산으로 연결 노력\" - 뉴스1",
+      "targetName": "김민석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "cd6449ec937c5b4ba854ffc00104dea7af057c3c4db9643d1164b2cbda6b256b",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 “공공기관 이전 부지에 공공주택 짓자…‘제2의 무상급식’으로” - 매일경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ga1Nrak1BbWRrVjZXdFZDNkpDTXVnSWJCUWhkeDlGUzlMczFJUGt5UlFScEt6aHNiTE4xNmR1MG8yZUljSFR1cUZwaS12UFBySzFRNHplc3A?oc=5\" target=\"_blank\">조국 “공공기관 이전 부지에 공공주택 짓자…‘제2의 무상급식’으로”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ga1Nrak1BbWRrVjZXdFZDNkpDTXVnSWJCUWhkeDlGUzlMczFJUGt5UlFScEt6aHNiTE4xNmR1MG8yZUljSFR1cUZwaS12UFBySzFRNHplc3A?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 01:38:24 GMT",
-        "source": "매일경제",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "b49a7ac77074a17ac1863e14331086078884f8fcf9ab864061ec8c4e4c07064a",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump says he’ll meet El-Sayed, who offered to call Medicare for All ‘Trumpcare’ - Crain's Detroit",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2kxeFJiV3FjT2FlTmFYYkIyWFpDd0dldHZkb3kzcVpGcmFWV1VFaTc1Sy03V29lcXJFN1RxU0xreXVvUHd5Q2FCUUFhNVFYMUlkQWg3SEJCdzN1VWdFRVQ0TkI3NmdpdGZPVV9UVFV3ZjUyYmZ2V2xvMXhKTzdiRDQ1Vml1TEgyVFNzSHdhSWZwVllXY0E4dQ?oc=5\" target=\"_blank\">Trump says he’ll meet El-Sayed, who offered to call Medicare for All ‘Trumpcare’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crain's Detroit</font>",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2kxeFJiV3FjT2FlTmFYYkIyWFpDd0dldHZkb3kzcVpGcmFWV1VFaTc1Sy03V29lcXJFN1RxU0xreXVvUHd5Q2FCUUFhNVFYMUlkQWg3SEJCdzN1VWdFRVQ0TkI3NmdpdGZPVV9UVFV3ZjUyYmZ2V2xvMXhKTzdiRDQ1Vml1TEgyVFNzSHdhSWZwVllXY0E4dQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 19:42:00 GMT",
-        "source": "Crain's Detroit",
-        "ageHours": 6.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "ee1f8df3a17cc02b79f17bbddc88e35bba697fe67db8f18b7261f493a79ff74b",
-    "title": "천하람 “조희대 탄핵, 비상계엄 못잖은 미친 짓”…민주당·정부 정책 맹비난 - 매일경제",
+    "postId": "e49122004a09d813043b5d118acdd6adb9bbbafda291c666a63bda5a71a14224",
+    "title": "김민석 \"당정청 힘 모아 현장 목소리 입법·예산으로 연결 노력\" - 뉴스1",
     "bot": "jongsuk_pol_bot",
-    "runId": "45738497886",
-    "sentAt": "2026-11-26T01:51:15.996Z"
+    "runId": "45739572654",
+    "sentAt": "2026-11-26T02:01:17.041Z"
   }
 }
