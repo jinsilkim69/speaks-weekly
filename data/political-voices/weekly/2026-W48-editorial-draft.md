@@ -8503,3 +8503,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “정부청사·공기관 떠난 알짜 땅에 ‘공공주택 랜드마크’ 세우자” - 헤럴드경제
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “정부청사·공기관 떠난 알짜 땅에 ‘공공주택 랜드마크’ 세우자”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kZy1SOEtPM28xenhzdExLeU16YXRURW5mc290bVpvRnhXUlRLc3JoX2NFNlVzSF9UVmJXcllvR1dJOW1MVFEzbXVVZ25wNnJRRjdHUnlR?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [속보]조국 “공공기관 이전하는 서울 알짜땅에 공공주택 짓자” - 문화일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “공공기관 이전하는 서울 알짜땅에 공공주택 짓자”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lYmZpYXlySG1Bb2t0Znl4NTNrMDNTQTVkTVM1WEFMT1I0TngtNXg5QlVZVzlQdXJJSG5xd0VtX2UyU0pENUdva1RWWTJJMk04?oc=5)
+
+---
+

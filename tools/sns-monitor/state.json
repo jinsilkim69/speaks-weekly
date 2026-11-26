@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T00:21:13.728Z",
+  "lastCheckedAt": "2026-11-26T00:31:13.589Z",
   "seenPostIds": {
     "0a859b975a469940f2d4d798cba5e717399ccb0b8f14449582d07c36ffb9b38b": {
       "seenAt": "2026-11-23T10:11:20.210Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-26T00:11:16.214Z",
       "title": "Trump: Iowa Gov.-elect Sand was ‘absolutely no help’ in controlled lead blast - The Hill",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8c333e9ae31a83cf5c4a3da9a4ae399f3dcdddb544377b6a30d6563b572c55dc": {
+      "seenAt": "2026-11-26T00:31:14.611Z",
+      "title": "조국 “정부청사·공기관 떠난 알짜 땅에 ‘공공주택 랜드마크’ 세우자” - 헤럴드경제",
+      "targetName": "조국"
+    },
+    "bce954fce306defcb5223886898c8039728ba9d2c45a83d9354ed0e9b9fea112": {
+      "seenAt": "2026-11-26T00:31:15.221Z",
+      "title": "[속보]조국 “공공기관 이전하는 서울 알짜땅에 공공주택 짓자” - 문화일보",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "d0537d18e56101ede2d060ffe87416e9fc955232b7eff2dad8b0a80b4614f7ed",
-    "title": "Trump: Iowa Gov.-elect Sand was ‘absolutely no help’ in controlled lead blast - The Hill",
+    "postId": "bce954fce306defcb5223886898c8039728ba9d2c45a83d9354ed0e9b9fea112",
+    "title": "[속보]조국 “공공기관 이전하는 서울 알짜땅에 공공주택 짓자” - 문화일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45726884285",
-    "sentAt": "2026-11-26T00:11:15.916Z"
+    "runId": "45729290583",
+    "sentAt": "2026-11-26T00:31:14.902Z"
   }
 }
