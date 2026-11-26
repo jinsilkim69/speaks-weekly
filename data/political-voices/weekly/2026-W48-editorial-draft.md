@@ -9504,3 +9504,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 “조희대 탄핵, 범여 ‘5당 연대’로”…혁신·진보당 “환영” - 경향신문
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 “조희대 탄핵, 범여 ‘5당 연대’로”…혁신·진보당 “환영”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE00RlNVUy0yTG45cllCTHVyMC1qWkRJNzU1ZFZHT3hydHp2TGUtazVhZHNxdy1yN2tRNjYtZHUza3l4Ql9DZjFmejI0SDRzUDBRVTF1RERkS3Yxd9IBX0FVX3lxTE5ncW9MQkdDSUJ4MTlBemNYN2hTUW9SeW5wcTlwR1NndDJRSi1DZGJxUE5zUXJBaC1Sdms0UDg4TEZBeE5oME5SRk1lc0lpeEY3Z2lVcDZlT2ZjX2ZzYmRj?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** '日 입국 거부' 조국, 다음 달 독도 간다… "우리 땅 방문도 내 자유" - 한국일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '日 입국 거부' 조국, 다음 달 독도 간다… "우리 땅 방문도 내 자유"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE9aRnBSM3FHZDVfZVdOSW9BakdJclp0Y2FsbGZOTm9uU2tBY1hNcWswd1lna1VIWHBQSnk5WS1IQWdnU1pxTi01LU90em1scWR4MVdMUlVlQ09FT1kzYjl1U3F6V1V1anVYVWNuUlpRNDhqYVk?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "李대통령 鄭 억울함 4시간 들어줘"…정청래 "입조심하라" - 라디오코리아
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "李대통령 鄭 억울함 4시간 들어줘"…정청래 "입조심하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RTUs2NnZwcVFKdktFeFpnV1VEaFFYdHpQemNFbEZBalBlcXZxTkRyaDgwanlUYy1DZEFPaHAwVU5WY3BjMm5QMmYzYWhhRTJRSDVmZlUzNnFscl9ydGJQT25HQTg?oc=5)
+
+---
+

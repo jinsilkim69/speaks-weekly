@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T07:01:13.764Z",
+  "lastCheckedAt": "2026-11-26T07:11:13.449Z",
   "seenPostIds": {
-    "5b0736388ee35ff997ecd73e8b1c5a0d033a12d2fb09e8ca3735bdd1a000b97d": {
-      "seenAt": "2026-11-23T22:51:15.709Z",
-      "title": "Trump's Nvidia CEO post encapsulates his depraved America | Opinion - USA Today",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "b6e503c153e80513dbc62a3337cb66484ab584fba56b0ad51b241fd2054a4285": {
-      "seenAt": "2026-11-23T23:31:16.489Z",
-      "title": "전하께서 동쪽이라 하시면 신도 동쪽이요... '左派 영수' 김민석 상소문 - 최보식의언론",
-      "targetName": "김민석"
-    },
-    "f525e719a26d9d123c2973e6f6c49460643d0e38f127d066c5eadcd0d814522e": {
-      "seenAt": "2026-11-23T23:31:17.195Z",
-      "title": "Trump posts AI image of Jensen Huang after news of reinstatement - FOX 4 News Dallas-Fort Worth",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "3b2a753640f312ebed9352ab89d567e6ed8e323287498a225396bb81417dac05": {
       "seenAt": "2026-11-23T23:41:13.856Z",
       "title": "“Sex Sells” and a Red Bra: Trump’s Vulgar Response to Jensen Huang’s Return - Mother Jones",
@@ -2515,47 +2500,46 @@
       "seenAt": "2026-11-26T07:01:16.502Z",
       "title": "[고수다] 송영길-정청래 또 설전 \"대통령이 다독여\"‥\"다언이 병\" - MBC 뉴스",
       "targetName": "송영길"
+    },
+    "ea4112f9556af711c8818942d17127d6b000eef67aab603ec16c43b6b46008d1": {
+      "seenAt": "2026-11-26T07:11:14.549Z",
+      "title": "김민석 “조희대 탄핵, 범여 ‘5당 연대’로”…혁신·진보당 “환영” - 경향신문",
+      "targetName": "김민석"
+    },
+    "b851441ea0ac28b525d24aa11d29e4d8c6934e75f0fc45dd2b7d459a631a8b3e": {
+      "seenAt": "2026-11-26T07:11:15.191Z",
+      "title": "'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\" - 한국일보",
+      "targetName": "조국"
+    },
+    "8cbd3aa6f5b7b74e2478ca570cb23b52ff8417ce1b9df2abf02ad8639fcd8fc1": {
+      "seenAt": "2026-11-26T07:11:15.861Z",
+      "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 라디오코리아",
+      "targetName": "송영길"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "ea4112f9556af711c8818942d17127d6b000eef67aab603ec16c43b6b46008d1",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 “조희대 탄핵, 범여 ‘5당 연대’로”…혁신·진보당 “환영” - 경향신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE00RlNVUy0yTG45cllCTHVyMC1qWkRJNzU1ZFZHT3hydHp2TGUtazVhZHNxdy1yN2tRNjYtZHUza3l4Ql9DZjFmejI0SDRzUDBRVTF1RERkS3Yxd9IBX0FVX3lxTE5ncW9MQkdDSUJ4MTlBemNYN2hTUW9SeW5wcTlwR1NndDJRSi1DZGJxUE5zUXJBaC1Sdms0UDg4TEZBeE5oME5SRk1lc0lpeEY3Z2lVcDZlT2ZjX2ZzYmRj?oc=5\" target=\"_blank\">김민석 “조희대 탄핵, 범여 ‘5당 연대’로”…혁신·진보당 “환영”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00RlNVUy0yTG45cllCTHVyMC1qWkRJNzU1ZFZHT3hydHp2TGUtazVhZHNxdy1yN2tRNjYtZHUza3l4Ql9DZjFmejI0SDRzUDBRVTF1RERkS3Yxd9IBX0FVX3lxTE5ncW9MQkdDSUJ4MTlBemNYN2hTUW9SeW5wcTlwR1NndDJRSi1DZGJxUE5zUXJBaC1Sdms0UDg4TEZBeE5oME5SRk1lc0lpeEY3Z2lVcDZlT2ZjX2ZzYmRj?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 12:03:00 GMT",
-        "source": "경향신문",
-        "ageHours": 18.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "b851441ea0ac28b525d24aa11d29e4d8c6934e75f0fc45dd2b7d459a631a8b3e",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\" - 한국일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9aRnBSM3FHZDVfZVdOSW9BakdJclp0Y2FsbGZOTm9uU2tBY1hNcWswd1lna1VIWHBQSnk5WS1IQWdnU1pxTi01LU90em1scWR4MVdMUlVlQ09FT1kzYjl1U3F6V1V1anVYVWNuUlpRNDhqYVk?oc=5\" target=\"_blank\">'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aRnBSM3FHZDVfZVdOSW9BakdJclp0Y2FsbGZOTm9uU2tBY1hNcWswd1lna1VIWHBQSnk5WS1IQWdnU1pxTi01LU90em1scWR4MVdMUlVlQ09FT1kzYjl1U3F6V1V1anVYVWNuUlpRNDhqYVk?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 05:16:00 GMT",
-        "source": "한국일보",
-        "ageHours": 1.8
+        "id": "7db3df1eb43f77ffb8413d7f5d1dae469fb7238ecbe00ae9e8e1ca272e2bc6ab",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "\"대통령에 4시간 성토\" \"입조심하라\"…송영길·정청래 '정면충돌' - 뉴스토마토",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iemhMZUZlUnV2N0VUb1gwNGgycElwOVJYZUVKWmt4OEd1N1NNc3BmUGIzUUlZUm05WGZrazYxQ0hKVkRYOG5PcUxFaHZ6MjJ1U1pydC1obGNpWUE0TXpPaQ?oc=5\" target=\"_blank\">\"대통령에 4시간 성토\" \"입조심하라\"…송영길·정청래 '정면충돌'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iemhMZUZlUnV2N0VUb1gwNGgycElwOVJYZUVKWmt4OEd1N1NNc3BmUGIzUUlZUm05WGZrazYxQ0hKVkRYOG5PcUxFaHZ6MjJ1U1pydC1obGNpWUE0TXpPaQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 08:48:21 GMT",
+        "source": "뉴스토마토",
+        "ageHours": 22.4
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "727fc5094571ae6e9c0cfadffd4da9bc415ae3829ee1ae6d32ed6c08565afada",
-    "title": "[고수다] 송영길-정청래 또 설전 \"대통령이 다독여\"‥\"다언이 병\" - MBC 뉴스",
+    "postId": "8cbd3aa6f5b7b74e2478ca570cb23b52ff8417ce1b9df2abf02ad8639fcd8fc1",
+    "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 라디오코리아",
     "bot": "jongsuk_pol_bot",
-    "runId": "45772208130",
-    "sentAt": "2026-11-26T07:01:16.171Z"
+    "runId": "45773421994",
+    "sentAt": "2026-11-26T07:11:15.552Z"
   }
 }
