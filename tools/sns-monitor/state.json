@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T08:01:18.669Z",
+  "lastCheckedAt": "2026-11-26T08:11:19.772Z",
   "seenPostIds": {
-    "d0c42f462866c60380d3b26e22a39f14716ae8178f4c4b820fa9b62f6b7bd35d": {
-      "seenAt": "2026-11-24T01:51:16.830Z",
-      "title": "정청래, 취임 100일 김민석 겨냥 “반분신 3자 연합, 사과하면 끝? 책임 정치 하자” - JTBC",
-      "targetName": "김민석"
-    },
-    "68042d18c5e843f6407d3c964b596aa0109de36f032e87fb03751458cbc3271a": {
-      "seenAt": "2026-11-24T01:51:17.509Z",
-      "title": "정청래, 취임 100일 김민석 겨냥 “반분신 3자 연합, 사과하면 끝? 책임 정치 하자” - JTBC",
-      "targetName": "정청래"
-    },
-    "ddec484d11862b439a88a47ac2d4d678be4c0ea7c2f50eee06794a411467bf4f": {
-      "seenAt": "2026-11-24T02:01:20.035Z",
-      "title": "오세훈 \"대통령 이재명의 시간, 피고인 이재명에게 쓰지 마시라\" - 부산일보",
-      "targetName": "이재명"
-    },
     "5edbe55704972f0766857580a5610580fbe81446e6034546279e7a874a9693a5": {
       "seenAt": "2026-11-24T02:01:20.686Z",
       "title": "[포토] 의원총회서 발언하는 강경숙 조국혁신당 원내부대표 - 파이낸스투데이",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-26T08:01:21.859Z",
       "title": "정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’ - 천지일보",
       "targetName": "정청래"
+    },
+    "a1c9d3dbab13fcce414f39cd430d0fd26ded213d52f4e14f60fcc9e0a0ca8cff": {
+      "seenAt": "2026-11-26T08:11:21.189Z",
+      "title": "민주당 \"정청래가 만나야\", 김민수 \"의견 개진\" vs. 윤상현 \"이건 또 무슨 애기?\" [앵커리포트] - YTN",
+      "targetName": "정청래"
+    },
+    "39cf07b1a6c4d4b7d04b4e915910c193212ee614d212bd550c9c4e973ee661b2": {
+      "seenAt": "2026-11-26T08:11:21.910Z",
+      "title": "[줌 인 여의도] 국힘 내분 한동훈 복당 둘러싼 진흙탕 싸움 양상 …의총서 결판나나 - 대구일보",
+      "targetName": "한동훈"
+    },
+    "5ea9b9856420c6b27cc6ff4e69314187a23196c0ca34890060960eb3aa719022": {
+      "seenAt": "2026-11-26T08:11:22.608Z",
+      "title": "정청래 “李대통령 외교 ‘월드클래스’…내란의밤 사선 넘은 전우” - 헤럴드경제",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "a1c9d3dbab13fcce414f39cd430d0fd26ded213d52f4e14f60fcc9e0a0ca8cff",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "민주당 \"정청래가 만나야\", 김민수 \"의견 개진\" vs. 윤상현 \"이건 또 무슨 애기?\" [앵커리포트] - YTN",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9OSW9MRGFoWUtrLWw5YVZNSE5CempQeEs0UHQ2WUtubWIzbzNKbUJlck5CT2JDSUcyaUl2YU00amdmTGdoSlUwQnJXUlVVd1Bsbm1QbEhpel9iZktRci05UTVDMDR4YWc0ZzJ1ZFE3QQ?oc=5\" target=\"_blank\">민주당 \"정청래가 만나야\", 김민수 \"의견 개진\" vs. 윤상현 \"이건 또 무슨 애기?\" [앵커리포트]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OSW9MRGFoWUtrLWw5YVZNSE5CempQeEs0UHQ2WUtubWIzbzNKbUJlck5CT2JDSUcyaUl2YU00amdmTGdoSlUwQnJXUlVVd1Bsbm1QbEhpel9iZktRci05UTVDMDR4YWc0ZzJ1ZFE3QQ?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 01:00:00 GMT",
-        "source": "YTN",
-        "ageHours": 6.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "39cf07b1a6c4d4b7d04b4e915910c193212ee614d212bd550c9c4e973ee661b2",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "[줌 인 여의도] 국힘 내분 한동훈 복당 둘러싼 진흙탕 싸움 양상 …의총서 결판나나 - 대구일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tNFBQb2MtZlZ4NzJwZklyTDVCWEl6dUxsUXpXUXRKS2xnNEVxM2FKTy1PX2xPNGtMV2ZVYXYwTVZxSEJPVFJycE1zSGVDZmFsN2M0cmZfNnRFMm5QNm5nU2IwZWtsVHlV?oc=5\" target=\"_blank\">[줌 인 여의도] 국힘 내분 한동훈 복당 둘러싼 진흙탕 싸움 양상 …의총서 결판나나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대구일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tNFBQb2MtZlZ4NzJwZklyTDVCWEl6dUxsUXpXUXRKS2xnNEVxM2FKTy1PX2xPNGtMV2ZVYXYwTVZxSEJPVFJycE1zSGVDZmFsN2M0cmZfNnRFMm5QNm5nU2IwZWtsVHlV?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 07:26:04 GMT",
-        "source": "대구일보",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5ea9b9856420c6b27cc6ff4e69314187a23196c0ca34890060960eb3aa719022",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래 “李대통령 외교 ‘월드클래스’…내란의밤 사선 넘은 전우” - 헤럴드경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HZnNWRnluaFpjblZNcXlqUXNFZkhVaWFjdnUzcjAzMkhqcUpsMUVJSUNOZ2FLbkVDVFBCaGlMVmRCaVZfNnpVU2U3elpGcjZyaHlVcjVn?oc=5\" target=\"_blank\">정청래 “李대통령 외교 ‘월드클래스’…내란의밤 사선 넘은 전우”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HZnNWRnluaFpjblZNcXlqUXNFZkhVaWFjdnUzcjAzMkhqcUpsMUVJSUNOZ2FLbkVDVFBCaGlMVmRCaVZfNnpVU2U3elpGcjZyaHlVcjVn?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 07:43:48 GMT",
-        "source": "헤럴드경제",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "8e0d07a9a8a0644ae653d674bd5abc2587f187b1170ddb6cef9303dd998aee95",
@@ -2629,13 +2581,61 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "2802c329137b85c8b081f8bd8771d93d2bdd663200416ffe8265fe41d0604934",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, 오세훈 겨냥 \"서울시정 대권준비 징검다리로 활용...자성해야\" - KBC광주방송",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwanZiVFZIc0tSVTZUYjZiQm9fYVF6Y2ZnTmVQbldZWXc0akdvMlEzcDdFN1IwOEpSTENLZzBMY3NyOHE1eEhhajFBRjdUcnlsTE5mWjRSMnExbVgxZlNXYw?oc=5\" target=\"_blank\">김민석, 오세훈 겨냥 \"서울시정 대권준비 징검다리로 활용...자성해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwanZiVFZIc0tSVTZUYjZiQm9fYVF6Y2ZnTmVQbldZWXc0akdvMlEzcDdFN1IwOEpSTENLZzBMY3NyOHE1eEhhajFBRjdUcnlsTE5mWjRSMnExbVgxZlNXYw?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 23:54:22 GMT",
+        "source": "KBC광주방송",
+        "ageHours": 8.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "715b94e489c23f85cd40669feee28492f2e0b09ab44ec19618aa3344d3c44d93",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트] - YTN",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wRDhlVlo0TUZNaE4zLXdjYmtRWk91LW9sdkZCTUkwWm9tU20tSEZ3RVNqWGFESWJqNm1sTFBNZ09zT3FmWjkxT19LdnA0OTVHNmtsQTdSbmxEUUhRLUE?oc=5\" target=\"_blank\">송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wRDhlVlo0TUZNaE4zLXdjYmtRWk91LW9sdkZCTUkwWm9tU20tSEZ3RVNqWGFESWJqNm1sTFBNZ09zT3FmWjkxT19LdnA0OTVHNmtsQTdSbmxEUUhRLUE?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 07:24:00 GMT",
+        "source": "YTN",
+        "ageHours": 0.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "535521496a42497bd05a373dc3209ab4e54628b044f4b86cfd0ea81523f81f35",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "‘日입국 거부’ 조국, 다음 달 7일 독도 재방문 - 헤럴드경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4bkxhNkRFNHh3TTN3akotbnVsR0dVbGtWRDUtMmZZb1paenU5ZVVGZjVtMjM0YUpGYkdOR19sVlA3MFowZDlVSnRPVzJ0ZjRtaTFQRmYyNA?oc=5\" target=\"_blank\">‘日입국 거부’ 조국, 다음 달 7일 독도 재방문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4bkxhNkRFNHh3TTN3akotbnVsR0dVbGtWRDUtMmZZb1paenU5ZVVGZjVtMjM0YUpGYkdOR19sVlA3MFowZDlVSnRPVzJ0ZjRtaTFQRmYyNA?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 05:58:08 GMT",
+        "source": "헤럴드경제",
+        "ageHours": 2.2
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "ab9fc43e2ee7037b99c0a1e25ac90c05248d063c7434d2eaa8a3f8fcffe73cb0",
-    "title": "정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’ - 천지일보",
+    "postId": "5ea9b9856420c6b27cc6ff4e69314187a23196c0ca34890060960eb3aa719022",
+    "title": "정청래 “李대통령 외교 ‘월드클래스’…내란의밤 사선 넘은 전우” - 헤럴드경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45779642277",
-    "sentAt": "2026-11-26T08:01:21.429Z"
+    "runId": "45781011499",
+    "sentAt": "2026-11-26T08:11:22.251Z"
   }
 }

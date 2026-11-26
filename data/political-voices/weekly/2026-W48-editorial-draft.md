@@ -9738,3 +9738,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 민주당 "정청래가 만나야", 김민수 "의견 개진" vs. 윤상현 "이건 또 무슨 애기?" [앵커리포트] - YTN
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 "정청래가 만나야", 김민수 "의견 개진" vs. 윤상현 "이건 또 무슨 애기?"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OSW9MRGFoWUtrLWw5YVZNSE5CempQeEs0UHQ2WUtubWIzbzNKbUJlck5CT2JDSUcyaUl2YU00amdmTGdoSlUwQnJXUlVVd1Bsbm1QbEhpel9iZktRci05UTVDMDR4YWc0ZzJ1ZFE3QQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [줌 인 여의도] 국힘 내분 한동훈 복당 둘러싼 진흙탕 싸움 양상 …의총서 결판나나 - 대구일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘 내분 한동훈 복당 둘러싼 진흙탕 싸움 양상 …의총서 결판나나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tNFBQb2MtZlZ4NzJwZklyTDVCWEl6dUxsUXpXUXRKS2xnNEVxM2FKTy1PX2xPNGtMV2ZVYXYwTVZxSEJPVFJycE1zSGVDZmFsN2M0cmZfNnRFMm5QNm5nU2IwZWtsVHlV?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 “李대통령 외교 ‘월드클래스’…내란의밤 사선 넘은 전우” - 헤럴드경제
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 “李대통령 외교 ‘월드클래스’…내란의밤 사선 넘은 전우”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HZnNWRnluaFpjblZNcXlqUXNFZkhVaWFjdnUzcjAzMkhqcUpsMUVJSUNOZ2FLbkVDVFBCaGlMVmRCaVZfNnpVU2U3elpGcjZyaHlVcjVn?oc=5)
+
+---
+
