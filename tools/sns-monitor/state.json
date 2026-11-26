@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T04:31:12.384Z",
+  "lastCheckedAt": "2026-11-26T04:41:20.386Z",
   "seenPostIds": {
-    "6925d6fedb80bb41c6683ba1c75ee5f38a1fb9ab06bab57690a86fd3524db998": {
-      "seenAt": "2026-11-23T16:11:15.976Z",
-      "title": "한동훈 제명, 尹 사형 구형일 맞춰 기획했나… 국힘 윤리위원 추가 폭로 - 천지일보",
-      "targetName": "한동훈"
-    },
-    "83a7f678f1f95c8bb119ff29e466edd40fc04a21f5da1c5b13277ae1c6071bf7": {
-      "seenAt": "2026-11-23T16:11:16.643Z",
-      "title": "Trump says Nvidia board made right call on Huang reinstatement - Reuters",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "872f73f97e12381f6196b08558c0ed8fbb228688121e3bcabc4ea4b410a3073e": {
       "seenAt": "2026-11-23T16:11:17.299Z",
       "title": "Trump praises Nvidia’s reinstatement of Huang - The Hill",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-26T04:31:14.381Z",
       "title": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "bbb7c6a45508652277bd04523fc1539d54aa03caa62ecca7f141b6bbe04a1d65": {
+      "seenAt": "2026-11-26T04:41:22.133Z",
+      "title": "천하람 \"한동훈, 조희대 탄핵 인용 의원직 건다?...뭘 자꾸 건다고, 가벼워, 언어 좀 조절해야\"[여의도초대석] - KBC광주방송",
+      "targetName": "한동훈"
+    },
+    "6844f2558a9b648b8f7af6961bb08db2a73a7e2d8d3a6c1fcf7e1334c762c30a": {
+      "seenAt": "2026-11-26T04:41:22.858Z",
+      "title": "천하람 \"한동훈, 조희대 탄핵 인용 의원직 건다?...뭘 자꾸 건다고, 가벼워, 언어 좀 조절해야\"[여의도초대석] - KBC광주방송",
+      "targetName": "천하람"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "32428b4bfbdbe8d3e692d12bdec7815a9626f7016fee1afba53eedd5b80e10f8",
-    "title": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
+    "postId": "6844f2558a9b648b8f7af6961bb08db2a73a7e2d8d3a6c1fcf7e1334c762c30a",
+    "title": "천하람 \"한동훈, 조희대 탄핵 인용 의원직 건다?...뭘 자꾸 건다고, 가벼워, 언어 좀 조절해야\"[여의도초대석] - KBC광주방송",
     "bot": "jongsuk_pol_bot",
-    "runId": "45755699061",
-    "sentAt": "2026-11-26T04:31:14.051Z"
+    "runId": "45756753515",
+    "sentAt": "2026-11-26T04:41:22.487Z"
   }
 }
