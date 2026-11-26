@@ -9426,3 +9426,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자" 제안 - 국제신문
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자" 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWtFY2FpcmxRaFZ5Z0JhUVpJTEZLVXlnMGdkamFWYlR3UUk3YWlybmpQSDh4bm5wV0NJYk9mZDFjYjlTcUhFeXl5UUpNM3cxOTVVbXk5ZWROX1hWWWUxT0VvX3lGRWpHeW8tWFAtb1dqYWZzRXpKa2EtMnpfUi11OHUwdG9veUVzVzdn?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 '5당 연대' 제안…조희대 탄핵 '12·3 의결' 가능할까 - 노컷뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 '5당 연대' 제안…조희대 탄핵 '12·3 의결' 가능할까
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xNFZib3JvZjQyQXJjWFhPOG01Z3lPbnpSY3hIT3NCQmtuaFdMeWxsQ1ZVeDZucmhVSlJBakR3OEVyVExGT1RiYXFYd0pxV1hzUXc?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 "李 대통령은 사선 넘은 전우…李정부 성공 위해 최선" - 뉴스1
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 "李 대통령은 사선 넘은 전우…李정부 성공 위해 최선"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE50Y3BBMUthbGNSWWNFMUI5UDYxWWFiSGR3MTFkalA1d1luUFhuaFpBQ0FhREcwQnlJcHV1VHRTM3h4NWJGOTFualI1V0psZlBYMWVHWks4cExPUQ?oc=5)
+
+---
+

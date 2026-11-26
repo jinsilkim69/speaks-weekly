@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T06:41:16.131Z",
+  "lastCheckedAt": "2026-11-26T06:51:13.795Z",
   "seenPostIds": {
-    "371cf78b70950e887dc5af1a7ca71b6008c293769c833257a208e36af8aa91dc": {
-      "seenAt": "2026-11-23T21:21:15.294Z",
-      "title": "[길잃은 김민석] 지지율 악화·내홍에 혁신당 자생론까지 - 데일리안",
-      "targetName": "김민석"
-    },
-    "9c281728fbc5043d18ef8795c75561c1c56835fe09efb5df4d5145ea13ca5327": {
-      "seenAt": "2026-11-23T21:21:15.926Z",
-      "title": "이준석 “코스피 ‘초심자의 운’ 말했다 조롱받아…지금 3가지 필요” 제안 - 문화일보",
-      "targetName": "이준석"
-    },
-    "445165bc0174f13011ef56dc089945e6415d06a7afe82994befb20004ddce297": {
-      "seenAt": "2026-11-23T21:21:16.520Z",
-      "title": "Trump Says ‘Sex Sells’ and Posts Image of Jensen Huang Clutching Red Bra - People.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "1c27b49c8c54eae1d4cbf082658ecd25694c86b38db4bec587149c80f2dabd30": {
       "seenAt": "2026-11-23T21:51:16.198Z",
       "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief - The New York Times",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-26T06:41:18.868Z",
       "title": "민주당 내홍, 송영길·정청래 공개 설전…중진 회동서 수습 주목 - 국제뉴스",
       "targetName": "송영길"
+    },
+    "4a73e260e39f364c091997241a52997423dd61f2d4fd2a733a1ecb54d4c9d7b3": {
+      "seenAt": "2026-11-26T06:51:14.888Z",
+      "title": "조국 \"공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자\" 제안 - 국제신문",
+      "targetName": "조국"
+    },
+    "822afce91f2acaa0b34372e2af7f22c51ddfca5e0d6db092a107edcc9b617b53": {
+      "seenAt": "2026-11-26T06:51:15.493Z",
+      "title": "김민석 '5당 연대' 제안…조희대 탄핵 '12·3 의결' 가능할까 - 노컷뉴스",
+      "targetName": "김민석"
+    },
+    "4d4e093d349b8a874f590a9709accfb94b05d137f47fdbe389385508eb2088ed": {
+      "seenAt": "2026-11-26T06:51:16.100Z",
+      "title": "정청래 \"李 대통령은 사선 넘은 전우…李정부 성공 위해 최선\" - 뉴스1",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "4a73e260e39f364c091997241a52997423dd61f2d4fd2a733a1ecb54d4c9d7b3",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 \"공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자\" 제안 - 국제신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWtFY2FpcmxRaFZ5Z0JhUVpJTEZLVXlnMGdkamFWYlR3UUk3YWlybmpQSDh4bm5wV0NJYk9mZDFjYjlTcUhFeXl5UUpNM3cxOTVVbXk5ZWROX1hWWWUxT0VvX3lGRWpHeW8tWFAtb1dqYWZzRXpKa2EtMnpfUi11OHUwdG9veUVzVzdn?oc=5\" target=\"_blank\">조국 \"공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자\" 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWtFY2FpcmxRaFZ5Z0JhUVpJTEZLVXlnMGdkamFWYlR3UUk3YWlybmpQSDh4bm5wV0NJYk9mZDFjYjlTcUhFeXl5UUpNM3cxOTVVbXk5ZWROX1hWWWUxT0VvX3lGRWpHeW8tWFAtb1dqYWZzRXpKa2EtMnpfUi11OHUwdG9veUVzVzdn?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 06:29:00 GMT",
-        "source": "국제신문",
-        "ageHours": 0
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "822afce91f2acaa0b34372e2af7f22c51ddfca5e0d6db092a107edcc9b617b53",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 '5당 연대' 제안…조희대 탄핵 '12·3 의결' 가능할까 - 노컷뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xNFZib3JvZjQyQXJjWFhPOG01Z3lPbnpSY3hIT3NCQmtuaFdMeWxsQ1ZVeDZucmhVSlJBakR3OEVyVExGT1RiYXFYd0pxV1hzUXc?oc=5\" target=\"_blank\">김민석 '5당 연대' 제안…조희대 탄핵 '12·3 의결' 가능할까</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">노컷뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xNFZib3JvZjQyQXJjWFhPOG01Z3lPbnpSY3hIT3NCQmtuaFdMeWxsQ1ZVeDZucmhVSlJBakR3OEVyVExGT1RiYXFYd0pxV1hzUXc?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 20:10:00 GMT",
-        "source": "노컷뉴스",
-        "ageHours": 10.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4d4e093d349b8a874f590a9709accfb94b05d137f47fdbe389385508eb2088ed",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래 \"李 대통령은 사선 넘은 전우…李정부 성공 위해 최선\" - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE50Y3BBMUthbGNSWWNFMUI5UDYxWWFiSGR3MTFkalA1d1luUFhuaFpBQ0FhREcwQnlJcHV1VHRTM3h4NWJGOTFualI1V0psZlBYMWVHWks4cExPUQ?oc=5\" target=\"_blank\">정청래 \"李 대통령은 사선 넘은 전우…李정부 성공 위해 최선\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50Y3BBMUthbGNSWWNFMUI5UDYxWWFiSGR3MTFkalA1d1luUFhuaFpBQ0FhREcwQnlJcHV1VHRTM3h4NWJGOTFualI1V0psZlBYMWVHWks4cExPUQ?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 05:36:36 GMT",
-        "source": "뉴스1",
-        "ageHours": 1.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "652f1f7a44276fda1cbb87a63e298bad66fce2f81d03481ec4d93c5b3812d5ad",
@@ -2613,13 +2565,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "ea4112f9556af711c8818942d17127d6b000eef67aab603ec16c43b6b46008d1",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석 “조희대 탄핵, 범여 ‘5당 연대’로”…혁신·진보당 “환영” - 경향신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE00RlNVUy0yTG45cllCTHVyMC1qWkRJNzU1ZFZHT3hydHp2TGUtazVhZHNxdy1yN2tRNjYtZHUza3l4Ql9DZjFmejI0SDRzUDBRVTF1RERkS3Yxd9IBX0FVX3lxTE5ncW9MQkdDSUJ4MTlBemNYN2hTUW9SeW5wcTlwR1NndDJRSi1DZGJxUE5zUXJBaC1Sdms0UDg4TEZBeE5oME5SRk1lc0lpeEY3Z2lVcDZlT2ZjX2ZzYmRj?oc=5\" target=\"_blank\">김민석 “조희대 탄핵, 범여 ‘5당 연대’로”…혁신·진보당 “환영”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경향신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00RlNVUy0yTG45cllCTHVyMC1qWkRJNzU1ZFZHT3hydHp2TGUtazVhZHNxdy1yN2tRNjYtZHUza3l4Ql9DZjFmejI0SDRzUDBRVTF1RERkS3Yxd9IBX0FVX3lxTE5ncW9MQkdDSUJ4MTlBemNYN2hTUW9SeW5wcTlwR1NndDJRSi1DZGJxUE5zUXJBaC1Sdms0UDg4TEZBeE5oME5SRk1lc0lpeEY3Z2lVcDZlT2ZjX2ZzYmRj?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 12:03:00 GMT",
+        "source": "경향신문",
+        "ageHours": 18.8
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "9bf1381987036b4421b9d918a1dc47d4c67be3bdf9b32117aa63a60211f5713e",
-    "title": "민주당 내홍, 송영길·정청래 공개 설전…중진 회동서 수습 주목 - 국제뉴스",
+    "postId": "4d4e093d349b8a874f590a9709accfb94b05d137f47fdbe389385508eb2088ed",
+    "title": "정청래 \"李 대통령은 사선 넘은 전우…李정부 성공 위해 최선\" - 뉴스1",
     "bot": "jongsuk_pol_bot",
-    "runId": "45769881681",
-    "sentAt": "2026-11-26T06:41:18.496Z"
+    "runId": "45771053626",
+    "sentAt": "2026-11-26T06:51:15.794Z"
   }
 }
