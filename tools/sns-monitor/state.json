@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T13:01:13.139Z",
+  "lastCheckedAt": "2026-11-26T13:14:04.755Z",
   "seenPostIds": {
-    "9053462481603e5ae7ed4b327b811fd800777ec2b1e6dddfa8813a61c94222cd": {
-      "seenAt": "2026-11-24T05:01:20.445Z",
-      "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등 - 연합뉴스",
-      "targetName": "정청래"
-    },
-    "2607cf55a7ef773988baad19df5f5f626c46a63933cda6b7c28cb941d34f4631": {
-      "seenAt": "2026-11-24T05:11:15.860Z",
-      "title": "김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\" - 뉴시스",
-      "targetName": "정청래"
-    },
-    "db90f4e7c1f9fa13702fc0279bbadc0bc3eae8fb6b7d8c555b93d193dd9a4c3c": {
-      "seenAt": "2026-11-24T05:11:16.574Z",
-      "title": "국민의힘, 이재명 탈옥 특검법에 “의회폭거” 비판 - 한국사회복지저널",
-      "targetName": "이재명"
-    },
     "64c56969850f5476bfe8cec00aedbb6d39301a4b5415d91d298fcd2bbb5c27b9": {
       "seenAt": "2026-11-24T05:11:17.310Z",
       "title": "한동훈 \"28년 총선, TK가 주요 축…제명은 원천무효\" - 데일리안",
@@ -2515,47 +2500,24 @@
       "seenAt": "2026-11-26T13:01:15.520Z",
       "title": "Trump Demands Lower Gas Prices From Oil Companies, Chides Chevron CEO - EnergyNow.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "5afb9a0ebec409b3d4c34fae90234f7c1d493927185b149296061d1495053849": {
+      "seenAt": "2026-11-26T13:14:06.518Z",
+      "title": "[여담야담] 판사들 집단행동 시작?..'5당 연대' 띄운 김민석 / SBS / #shorts - Howl.Link",
+      "targetName": "김민석"
+    },
+    "8f47300cda6760412874a1eb77c01a5004b945b9820a824416e0cf7b91edca97": {
+      "seenAt": "2026-11-26T13:14:07.134Z",
+      "title": "민주당 중진 12명 만찬 회동…김민석·정청래 만남은 불발 - 동아일보",
+      "targetName": "정청래"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "5afb9a0ebec409b3d4c34fae90234f7c1d493927185b149296061d1495053849",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "[여담야담] 판사들 집단행동 시작?..'5당 연대' 띄운 김민석 / SBS / #shorts - Howl.Link",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTFBRLVpPWVA1Wm1xejhIUlNvbS0yemc5SFRLU1FoUUpob2JfMXl3LUJ6ODNYdGZlaWZJZUVr?oc=5\" target=\"_blank\">[여담야담] 판사들 집단행동 시작?..'5당 연대' 띄운 김민석 / SBS / #shorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Howl.Link</font>",
-        "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBRLVpPWVA1Wm1xejhIUlNvbS0yemc5SFRLU1FoUUpob2JfMXl3LUJ6ODNYdGZlaWZJZUVr?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 07:50:48 GMT",
-        "source": "Howl.Link",
-        "ageHours": 5.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "8f47300cda6760412874a1eb77c01a5004b945b9820a824416e0cf7b91edca97",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "민주당 중진 12명 만찬 회동…김민석·정청래 만남은 불발 - 동아일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5FbGxSVjh6cGd6UXBrenlKM1hyYWpkUmZVZ0lkZkRJekpoaTZoQ2lSM1VjWXBCWWVVUk5OZGlUZVUyY3ZnMnZtam82YjlnX3lCbjZCdTRiSEZqZGZEQklMY3ZZeVZsZElMNG5YM2N4eEh6YTRBenIw0gFmQVVfeXFMTVliS0JlVy1nSXZ6N0otY2dpOE84cnJONktkaTkwYTduNkJwMk05ckFHVm80dHVqR05paHM5Z3hSVXNDR0tyM1VtUXpmaHNKcjJhYUpibUJMS1lxX1ItMEE0aDE0cGNB?oc=5\" target=\"_blank\">민주당 중진 12명 만찬 회동…김민석·정청래 만남은 불발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FbGxSVjh6cGd6UXBrenlKM1hyYWpkUmZVZ0lkZkRJekpoaTZoQ2lSM1VjWXBCWWVVUk5OZGlUZVUyY3ZnMnZtam82YjlnX3lCbjZCdTRiSEZqZGZEQklMY3ZZeVZsZElMNG5YM2N4eEh6YTRBenIw0gFmQVVfeXFMTVliS0JlVy1nSXZ6N0otY2dpOE84cnJONktkaTkwYTduNkJwMk05ckFHVm80dHVqR05paHM5Z3hSVXNDR0tyM1VtUXpmaHNKcjJhYUpibUJMS1lxX1ItMEE0aDE0cGNB?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 12:40:42 GMT",
-        "source": "동아일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3b487843373722f98b2de745c398d7b477b9e837ad8803b3ffaba346246d949b",
-    "title": "Trump Demands Lower Gas Prices From Oil Companies, Chides Chevron CEO - EnergyNow.com",
+    "postId": "8f47300cda6760412874a1eb77c01a5004b945b9820a824416e0cf7b91edca97",
+    "title": "민주당 중진 12명 만찬 회동…김민석·정청래 만남은 불발 - 동아일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45825039671",
-    "sentAt": "2026-11-26T13:01:15.182Z"
+    "runId": "45826655971",
+    "sentAt": "2026-11-26T13:14:06.812Z"
   }
 }
