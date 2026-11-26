@@ -1023,5 +1023,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c14c641e3fa27c0140e65b690da167674617e7a0a661bb5c61b26716f823c25d",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "홍준표, 김민석·장동혁 두고 `붕당론`…`나라 안위는 간데없고 개인 영달만 난무` - 매일신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iUGVhTTU1T2txcjlFZjVDbVY1SzViZXVKY0I0QUtaVTF6ZlFseTBrSU9BTUd4WnNYdnJ6VmgyOHl3bzdfdGVTV19VTVdJT052XzVFdk1pM1I4Y3psX281dkJB?oc=5\" target=\"_blank\">홍준표, 김민석·장동혁 두고 `붕당론`…`나라 안위는 간데없고 개인 영달만 난무`</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iUGVhTTU1T2txcjlFZjVDbVY1SzViZXVKY0I0QUtaVTF6ZlFseTBrSU9BTUd4WnNYdnJ6VmgyOHl3bzdfdGVTV19VTVdJT052XzVFdk1pM1I4Y3psX281dkJB?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 23:30:29 GMT",
+    "source": "매일신문",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 홍준표, 김민석·장동혁 두고 `붕당론`…`나라 안위는 간데없고 개인 영달만 난무`",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T23:31:15.075Z",
+  "lastCheckedAt": "2026-11-26T23:41:20.430Z",
   "seenPostIds": {
-    "a154faa3884eb25c5fc624c9526be35c75737ff7088b8c46fba90061640a253b": {
-      "seenAt": "2026-11-24T10:01:29.296Z",
-      "title": "정청래, '취임 100일' 김민석에 포문‥\"당 초토화시켜\" - MBC 뉴스",
-      "targetName": "김민석"
-    },
-    "50e841416ac946b2c1a1c2f343f2d98bd977957fdcd25996112f0c08597850ab": {
-      "seenAt": "2026-11-24T10:01:30.155Z",
-      "title": "정청래, '취임 100일' 김민석에 포문‥\"당 초토화시켜\" - MBC 뉴스",
-      "targetName": "정청래"
-    },
-    "7fe52cd59d98f8c12011d39724cc4a346b17811a71777529cf1ebde680bc1888": {
-      "seenAt": "2026-11-24T10:11:16.166Z",
-      "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
-      "targetName": "김민석"
-    },
     "794d87e6767b5856702e56dc7dd6ee6f22f5ee05a7b06c5c5f9d48318433e78b": {
       "seenAt": "2026-11-24T10:21:18.450Z",
       "title": "장동혁 '조작징계' 의혹 작심 반박…한동훈 \"배후 조종 자인\"(종합) - 뉴스1",
@@ -2515,14 +2500,19 @@
       "seenAt": "2026-11-26T23:31:18.108Z",
       "title": "Trump celebrates Thanksgiving tradition of hate-posting against his enemies - New York Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "c14c641e3fa27c0140e65b690da167674617e7a0a661bb5c61b26716f823c25d": {
+      "seenAt": "2026-11-26T23:41:22.244Z",
+      "title": "홍준표, 김민석·장동혁 두고 `붕당론`…`나라 안위는 간데없고 개인 영달만 난무` - 매일신문",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3c112be3598e2f04b49f9e04f883dd2aaf66e85e318e011f256ab904d900c386",
-    "title": "Trump celebrates Thanksgiving tradition of hate-posting against his enemies - New York Post",
+    "postId": "c14c641e3fa27c0140e65b690da167674617e7a0a661bb5c61b26716f823c25d",
+    "title": "홍준표, 김민석·장동혁 두고 `붕당론`…`나라 안위는 간데없고 개인 영달만 난무` - 매일신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45911389354",
-    "sentAt": "2026-11-26T23:31:17.730Z"
+    "runId": "45912367457",
+    "sentAt": "2026-11-26T23:41:21.522Z"
   }
 }
