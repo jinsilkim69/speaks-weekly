@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T05:31:20.324Z",
+  "lastCheckedAt": "2026-11-26T05:41:12.663Z",
   "seenPostIds": {
-    "08fd57093b202ac2d6b57661a79761ac91d763f28875e3243d9d843998235fae": {
-      "seenAt": "2026-11-23T18:11:17.071Z",
-      "title": "Trump posts bizarre AI mockup of his Butler assassination attempt with Jensen Huang and a red bra - The Independent",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "d45691be1eeec4f00aa2041c95b03396ba4169be691e53e86df8b5917af3f4c2": {
-      "seenAt": "2026-11-23T18:11:17.765Z",
-      "title": "Trump takes credit for reinstatement of Jensen Huang as Nvida CEO: ‘I convinced them’ - New York Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "107c6ae6ed6ab3b77c56998e1f830e1b8facb1c6072e77365d618ca1ec0ca826": {
-      "seenAt": "2026-11-23T18:21:25.115Z",
-      "title": "당명 개정 관련 발언하는 신장식 조국혁신당 대표 - 뉴시스",
-      "targetName": "신장식"
-    },
     "44c833f6f97890c5f52ec3a172f41b0f9aff6e2717322ec9a03fbba391a718af": {
       "seenAt": "2026-11-23T18:21:25.903Z",
       "title": "Trump posts AI image of Jensen Haung after news of reinstatement - FOX 4 News Dallas-Fort Worth",
@@ -2515,31 +2500,19 @@
       "seenAt": "2026-11-26T05:31:22.698Z",
       "title": "\"이 대통령, 정청래 억울함 4시간 들어\"...\"송영길, 입조심하라\" [앵커리포트] - YTN",
       "targetName": "송영길"
+    },
+    "11d359787765dbea365637feddc8b106ed35f70a64264a9e1ef16e94bae28f0e": {
+      "seenAt": "2026-11-26T05:41:14.013Z",
+      "title": "'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\" - 한국일보",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "11d359787765dbea365637feddc8b106ed35f70a64264a9e1ef16e94bae28f0e",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\" - 한국일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5NV0x2a2lNVWpqMnR3OUVIcWpfYlYyUVJUeWtLNUFidFBOeTlNcDg0LVlxSjJFX2w2NFVGd1NDSS16Y1NyRGYyMGdyZ1EwUUxmckloQW1oN3otS2lsb2JMWVctZG84ZDdUTmVLZk5R?oc=5\" target=\"_blank\">'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NV0x2a2lNVWpqMnR3OUVIcWpfYlYyUVJUeWtLNUFidFBOeTlNcDg0LVlxSjJFX2w2NFVGd1NDSS16Y1NyRGYyMGdyZ1EwUUxmckloQW1oN3otS2lsb2JMWVctZG84ZDdUTmVLZk5R?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 05:16:00 GMT",
-        "source": "한국일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "9f44d51245331ad8fc6debad939866d09165d823e16c2bdc2db89ce6c358406b",
-    "title": "\"이 대통령, 정청래 억울함 4시간 들어\"...\"송영길, 입조심하라\" [앵커리포트] - YTN",
+    "postId": "11d359787765dbea365637feddc8b106ed35f70a64264a9e1ef16e94bae28f0e",
+    "title": "'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\" - 한국일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45762107099",
-    "sentAt": "2026-11-26T05:31:22.402Z"
+    "runId": "45763183419",
+    "sentAt": "2026-11-26T05:41:13.498Z"
   }
 }
