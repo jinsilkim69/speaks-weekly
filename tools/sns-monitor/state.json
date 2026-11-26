@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T03:21:22.406Z",
+  "lastCheckedAt": "2026-11-26T03:31:13.829Z",
   "seenPostIds": {
-    "0f1b68651e0237c932fdbac2b9436c9bba845e71d829664a159ed6e8eb2c035d": {
-      "seenAt": "2026-11-23T14:21:18.538Z",
-      "title": "외교 수장은 임웅순으로…송영길 입각 기대 꺾은 ‘동맹과 실무’ - 재외동포신문",
-      "targetName": "송영길"
-    },
-    "52b8079b85a0bf085d2451688a94585822f7db83979054ad35be4ef27bf1afb5": {
-      "seenAt": "2026-11-23T14:21:19.345Z",
-      "title": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing’ for U.S. - The Washington Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "c890aff225b952659935b14bbd3a25f233836133abe32a4f5d00f0a876a0bed5": {
-      "seenAt": "2026-11-23T14:42:10.186Z",
-      "title": "조국혁신당 최고위원회의 - 연합뉴스",
-      "targetName": "조국"
-    },
     "3c0101c8e2ffc8f6b47c106cf06782ebc9d2777894851905cb7c54ceb1cebdc5": {
       "seenAt": "2026-11-23T14:42:10.953Z",
       "title": "Trump urges Nvidia to rehire Jensen Huang and attacks Somalis in Truth Social spree - The Independent",
@@ -2515,14 +2500,19 @@
       "seenAt": "2026-11-26T03:21:25.217Z",
       "title": "Halt ‘Shameful’ $10B Lukoil Deal, Top House Democrat Demands of Trump - Kyiv Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "8abf45e5b2f2459f737fc2a18e5b34e9fa46891d6cd518d6663712c3d5617241": {
+      "seenAt": "2026-11-26T03:31:15.175Z",
+      "title": "이재명 대통령 국정 지지율 43%...민주 35%·국힘 23% - M이코노미뉴스",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "b1461af42e2eb9d77ec927798100cf31de36c736c79431e29c5a15e0daaf5080",
-    "title": "Halt ‘Shameful’ $10B Lukoil Deal, Top House Democrat Demands of Trump - Kyiv Post",
+    "postId": "8abf45e5b2f2459f737fc2a18e5b34e9fa46891d6cd518d6663712c3d5617241",
+    "title": "이재명 대통령 국정 지지율 43%...민주 35%·국힘 23% - M이코노미뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45748337234",
-    "sentAt": "2026-11-26T03:21:24.927Z"
+    "runId": "45749413702",
+    "sentAt": "2026-11-26T03:31:14.646Z"
   }
 }
