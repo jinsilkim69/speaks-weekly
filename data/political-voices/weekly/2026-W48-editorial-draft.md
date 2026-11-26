@@ -9075,3 +9075,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “탄핵 인용 확신? 의원직 걸라”…김용민 “가벼운 태도 한심해” - 미주중앙일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “탄핵 인용 확신? 의원직 걸라”…김용민 “가벼운 태도 한심해”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5cTl3cHVXTTAxYzBEQUlsOGxXQTNuMXJXSlhyOE95RDlDYS1lOEhiWXZWSzlhNjBSZHdTUTRGY1pvZUQzdUV4OXFaZmszbXJnQ2cxa3A3cmh5bHpENFJNRUtn?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 “입 싼 송영길과는 말 섞고 싶지 않다”… 발끈한 이유는 - 세계일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 “입 싼 송영길과는 말 섞고 싶지 않다”… 발끈한 이유는
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vaHBqTDYtVllDOGdTXy1BemVJMEl3Q2V0a01NVk9iR29uYS1aTmUwSDVZSHZUQW9DMmZGVUlKUDRjcmhhdnBrdXhQd1g1STBh0gFUQVVfeXFMTmtSN3U0bmU1b0RoU3Y2N0NoclQyWnZNZnhGblZRdXdPRGpSUWgwZHRUcFVjeUk5TjJwUDhQdkpCTkpoMXhxdHpTa3l5QkVsa1p3WUEw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “2차 공공기관 이전, 그 자리에 국민이 살고 싶은 집 지어야” - www.dt.co.kr
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “2차 공공기관 이전, 그 자리에 국민이 살고 싶은 집 지어야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEbWVVNFRMMlZLZnc5Z0lhSkN2Rk42VlJLTWVNZGxxNjVDdVkwNDlhRVp0YkZabEEyWk04RlRWMWMyXzdidko4NTRGdll2QQ?oc=5)
+
+---
+
