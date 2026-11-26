@@ -10882,3 +10882,16 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 與 중진 만찬에 김민석·정청래 불참…정청래 "화해 빙자 몽둥이 찜질" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 중진 만찬에 김민석·정청래 불참…정청래 "화해 빙자 몽둥이 찜질"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE5mcG5EZ29nTDZULUt2ZWo1RnVMTll6czIwMFA2Yy1qVmxPWEFsLVowV01BRTdWWXA0QTYzSk1DNnd1RG5RSDhXVHRIREIwZlZuRXJ0bVpWR2hXODg0NnZrVVVEekJVbF9PeGk5YVExaXozUdIBckFVX3lxTE5mcG5EZ29nTDZULUt2ZWo1RnVMTll6czIwMFA2Yy1qVmxPWEFsLVowV01BRTdWWXA0QTYzSk1DNnd1RG5RSDhXVHRIREIwZlZuRXJ0bVpWR2hXODg0NnZrVVVEekJVbF9PeGk5YVExaXozUQ?oc=5)
+
+---
+
