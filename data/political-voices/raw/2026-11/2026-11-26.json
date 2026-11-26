@@ -2920,5 +2920,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "7db3df1eb43f77ffb8413d7f5d1dae469fb7238ecbe00ae9e8e1ca272e2bc6ab",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "\"대통령에 4시간 성토\" \"입조심하라\"…송영길·정청래 '정면충돌' - 뉴스토마토",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iemhMZUZlUnV2N0VUb1gwNGgycElwOVJYZUVKWmt4OEd1N1NNc3BmUGIzUUlZUm05WGZrazYxQ0hKVkRYOG5PcUxFaHZ6MjJ1U1pydC1obGNpWUE0TXpPaQ?oc=5\" target=\"_blank\">\"대통령에 4시간 성토\" \"입조심하라\"…송영길·정청래 '정면충돌'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iemhMZUZlUnV2N0VUb1gwNGgycElwOVJYZUVKWmt4OEd1N1NNc3BmUGIzUUlZUm05WGZrazYxQ0hKVkRYOG5PcUxFaHZ6MjJ1U1pydC1obGNpWUE0TXpPaQ?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 08:48:21 GMT",
+    "source": "뉴스토마토",
+    "ageHours": 22.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"대통령에 4시간 성토\" \"입조심하라\"…송영길·정청래 '정면충돌'",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "7a246b54b95a3a0b70205d13c399f6911093dd19cf12d68f21d58ebdb38736d6",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "특검에 가이드라인? 이재명 대통령 ‘대장동’ 여론전 막후 - 일요신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE52UlI5Y0xPX2g5SlZmY1JiRzdvZWZTTnNDODZDMEtQdWdSQ3RuT3F0aUZ2VUIzVTZnT0ZVVmFpMXV3Zmo4TGp4aEFlSjhfUU9kbFFYRkpyZGpzRXBvVS1vajEyQmZoZw?oc=5\" target=\"_blank\">특검에 가이드라인? 이재명 대통령 ‘대장동’ 여론전 막후</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">일요신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52UlI5Y0xPX2g5SlZmY1JiRzdvZWZTTnNDODZDMEtQdWdSQ3RuT3F0aUZ2VUIzVTZnT0ZVVmFpMXV3Zmo4TGp4aEFlSjhfUU9kbFFYRkpyZGpzRXBvVS1vajEyQmZoZw?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 07:08:33 GMT",
+    "source": "일요신문",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 특검에 가이드라인? 이재명 대통령 ‘대장동’ 여론전 막후",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "d2a73a046d0dcb38735bc5a10f8bf4a93a157b317b992fc42d512f3c18513c23",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "조병옥 음성군수, 김민석 민주당 대표에 3대 핵심 현안 건의 - 음성뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GYno0QXBYWmpmbTR6b0lkV1NHSHpMVkFXbVN5bm1yeDVOV3hXUFJvTzI2RzlTSnlla3FWZktJWUQtWTlwWWpUZVZpeEROVUVieUpSY0NTWEF4VGtqQnQ1Rm1QekVHQ2pr?oc=5\" target=\"_blank\">조병옥 음성군수, 김민석 민주당 대표에 3대 핵심 현안 건의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">음성뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GYno0QXBYWmpmbTR6b0lkV1NHSHpMVkFXbVN5bm1yeDVOV3hXUFJvTzI2RzlTSnlla3FWZktJWUQtWTlwWWpUZVZpeEROVUVieUpSY0NTWEF4VGtqQnQ1Rm1QekVHQ2pr?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 07:14:02 GMT",
+    "source": "음성뉴스",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조병옥 음성군수, 김민석 민주당 대표에 3대 핵심 현안 건의",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

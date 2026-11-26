@@ -9543,3 +9543,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "대통령에 4시간 성토" "입조심하라"…송영길·정청래 '정면충돌' - 뉴스토마토
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "대통령에 4시간 성토" "입조심하라"…송영길·정청래 '정면충돌'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iemhMZUZlUnV2N0VUb1gwNGgycElwOVJYZUVKWmt4OEd1N1NNc3BmUGIzUUlZUm05WGZrazYxQ0hKVkRYOG5PcUxFaHZ6MjJ1U1pydC1obGNpWUE0TXpPaQ?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 특검에 가이드라인? 이재명 대통령 ‘대장동’ 여론전 막후 - 일요신문
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 특검에 가이드라인? 이재명 대통령 ‘대장동’ 여론전 막후
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE52UlI5Y0xPX2g5SlZmY1JiRzdvZWZTTnNDODZDMEtQdWdSQ3RuT3F0aUZ2VUIzVTZnT0ZVVmFpMXV3Zmo4TGp4aEFlSjhfUU9kbFFYRkpyZGpzRXBvVS1vajEyQmZoZw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 조병옥 음성군수, 김민석 민주당 대표에 3대 핵심 현안 건의 - 음성뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조병옥 음성군수, 김민석 민주당 대표에 3대 핵심 현안 건의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GYno0QXBYWmpmbTR6b0lkV1NHSHpMVkFXbVN5bm1yeDVOV3hXUFJvTzI2RzlTSnlla3FWZktJWUQtWTlwWWpUZVZpeEROVUVieUpSY0NTWEF4VGtqQnQ1Rm1QekVHQ2pr?oc=5)
+
+---
+

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T07:11:13.449Z",
+  "lastCheckedAt": "2026-11-26T07:21:12.751Z",
   "seenPostIds": {
-    "3b2a753640f312ebed9352ab89d567e6ed8e323287498a225396bb81417dac05": {
-      "seenAt": "2026-11-23T23:41:13.856Z",
-      "title": "“Sex Sells” and a Red Bra: Trump’s Vulgar Response to Jensen Huang’s Return - Mother Jones",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "06b0bc5f25af2f4c1232518fd175f4d1639d9222f1447a4767abcbe5c30a7e5d": {
-      "seenAt": "2026-11-24T00:11:14.659Z",
-      "title": "Trump tells Army to halt detonation for now of unstable explosives in Iowa - CBS News",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "dfc3931724b32f4606d14ad9fb5ed194de9f3328fd533bb25c682b23e3353ad9": {
-      "seenAt": "2026-11-24T00:31:21.334Z",
-      "title": "Trump shares meme of defiant, bloodied Huang raising red bra in air - The Washington Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "315c00828af32f607cffd0df9d445847718b3f806a39ea3a92a6cd6360f5e9e0": {
       "seenAt": "2026-11-24T01:01:24.534Z",
       "title": "\"尹 구형 맞춰 한동훈 제물로\"…윤리위원들 '십자가 처형 전략' 폭로 - 조세일보",
@@ -2515,31 +2500,94 @@
       "seenAt": "2026-11-26T07:11:15.861Z",
       "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 라디오코리아",
       "targetName": "송영길"
+    },
+    "7db3df1eb43f77ffb8413d7f5d1dae469fb7238ecbe00ae9e8e1ca272e2bc6ab": {
+      "seenAt": "2026-11-26T07:21:13.978Z",
+      "title": "\"대통령에 4시간 성토\" \"입조심하라\"…송영길·정청래 '정면충돌' - 뉴스토마토",
+      "targetName": "송영길"
+    },
+    "7a246b54b95a3a0b70205d13c399f6911093dd19cf12d68f21d58ebdb38736d6": {
+      "seenAt": "2026-11-26T07:21:14.697Z",
+      "title": "특검에 가이드라인? 이재명 대통령 ‘대장동’ 여론전 막후 - 일요신문",
+      "targetName": "이재명"
+    },
+    "d2a73a046d0dcb38735bc5a10f8bf4a93a157b317b992fc42d512f3c18513c23": {
+      "seenAt": "2026-11-26T07:21:15.354Z",
+      "title": "조병옥 음성군수, 김민석 민주당 대표에 3대 핵심 현안 건의 - 음성뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "7db3df1eb43f77ffb8413d7f5d1dae469fb7238ecbe00ae9e8e1ca272e2bc6ab",
+        "id": "f9665cd526dab222ebf24faaaeae4f0c80eaa4f8cf004fc1639533c7e9553a42",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "\"대통령에 4시간 성토\" \"입조심하라\"…송영길·정청래 '정면충돌' - 뉴스토마토",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUk9kSFdneXpFRDBBWkZtbkJmbUZ1emljRzdkQm1tRVVGU3VQNnRma1dfOEx5LXhaMm55R011dTl2OE9NTVhaclJpY2lwaG9sMk1TTEN5aVFDUlJ1VXpZRA?oc=5\" target=\"_blank\">\"대통령에 4시간 성토\" \"입조심하라\"…송영길·정청래 '정면충돌'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUk9kSFdneXpFRDBBWkZtbkJmbUZ1emljRzdkQm1tRVVGU3VQNnRma1dfOEx5LXhaMm55R011dTl2OE9NTVhaclJpY2lwaG9sMk1TTEN5aVFDUlJ1VXpZRA?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 08:48:21 GMT",
+        "source": "뉴스토마토",
+        "ageHours": 22.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "31570372f730dcbc06ea956db09efe7b1bb49801cf6063c54039fbde22ea96e7",
         "targetId": "song_younggil",
         "targetName": "송영길",
         "targetTitle": "소나무당 대표",
-        "title": "\"대통령에 4시간 성토\" \"입조심하라\"…송영길·정청래 '정면충돌' - 뉴스토마토",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iemhMZUZlUnV2N0VUb1gwNGgycElwOVJYZUVKWmt4OEd1N1NNc3BmUGIzUUlZUm05WGZrazYxQ0hKVkRYOG5PcUxFaHZ6MjJ1U1pydC1obGNpWUE0TXpPaQ?oc=5\" target=\"_blank\">\"대통령에 4시간 성토\" \"입조심하라\"…송영길·정청래 '정면충돌'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iemhMZUZlUnV2N0VUb1gwNGgycElwOVJYZUVKWmt4OEd1N1NNc3BmUGIzUUlZUm05WGZrazYxQ0hKVkRYOG5PcUxFaHZ6MjJ1U1pydC1obGNpWUE0TXpPaQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 08:48:21 GMT",
-        "source": "뉴스토마토",
-        "ageHours": 22.4
+        "title": "송영길 “바보 같고 예의 없어” 직격에…연수구청장, 반박 기자회견 맞불 - 한국NGO신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuUk9XYi1mbVdhT3JmTFd1YV9BTUE3Nk10b2RZOGY5eWpBTUFpMGROT0hkS1JycjRSZUZsM1hVb0JqLVJjZkY0QWd1YmEzbDYwWlpfOEJxcFN1Y21adWhMUUVkZGZCWmFT?oc=5\" target=\"_blank\">송영길 “바보 같고 예의 없어” 직격에…연수구청장, 반박 기자회견 맞불</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국NGO신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuUk9XYi1mbVdhT3JmTFd1YV9BTUE3Nk10b2RZOGY5eWpBTUFpMGROT0hkS1JycjRSZUZsM1hVb0JqLVJjZkY0QWd1YmEzbDYwWlpfOEJxcFN1Y21adWhMUUVkZGZCWmFT?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 04:51:38 GMT",
+        "source": "한국NGO신문",
+        "ageHours": 2.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "8324cb3efc4b795ab54fd0e7ffc591761a32de8d9ed711fe986c8884178245ce",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "최민희 징계 앞둔 민주당 내홍…정청래·송영길도 격돌 - 법치뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE0weV92RjNVVUVVdms3VDFmN3BMRjJ1NHlmV1k5NG9XMlkzekkxNVRCVGVlWUEwdGxuSndGcGZfN1JhdGZhN0N0QlN0M05LLWgwM2g5T0RzYVVsbkxoNEtCUmR2b1g4SHhF0gFoQVVfeXFMTTB5X3ZGM1VVRVV2azdUMWY3cExGMnU0eWZXWTk0b1cyWTN6STE1VEJUZWVZQTB0bG5Kd0ZwZl83UmF0ZmE3Q3RCU3QzTkstaDAzaDlPRHNhVWxuTGg0S0JSZHZvWDhIeEU?oc=5\" target=\"_blank\">최민희 징계 앞둔 민주당 내홍…정청래·송영길도 격돌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">법치뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0weV92RjNVVUVVdms3VDFmN3BMRjJ1NHlmV1k5NG9XMlkzekkxNVRCVGVlWUEwdGxuSndGcGZfN1JhdGZhN0N0QlN0M05LLWgwM2g5T0RzYVVsbkxoNEtCUmR2b1g4SHhF0gFoQVVfeXFMTTB5X3ZGM1VVRVV2azdUMWY3cExGMnU0eWZXWTk0b1cyWTN6STE1VEJUZWVZQTB0bG5Kd0ZwZl83UmF0ZmE3Q3RCU3QzTkstaDAzaDlPRHNhVWxuTGg0S0JSZHZvWDhIeEU?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 23:48:45 GMT",
+        "source": "법치뉴스",
+        "ageHours": 7.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "8cab84b8ed5a319a688e2f48e5cee5ab340fe2ae7328feac1010c03cd19ee76c",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "‘日 입국 거부’ 조국, 내달 7일 독도 방문… 국민 참여 원정대 모집 - 천지일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8zeFVncTBUSk1XWVFQR0l6Zkd0NHY3TlFRQW1WbW13QU5DVUZjcUVLOThyc3lWV2ROaUNaMFhKZXczX0ZwV0NBRjVua3ZyWHdEVTFYZnI2b3h1S1FBaFVFWXowcUFqVkJFdWc?oc=5\" target=\"_blank\">‘日 입국 거부’ 조국, 내달 7일 독도 방문… 국민 참여 원정대 모집</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zeFVncTBUSk1XWVFQR0l6Zkd0NHY3TlFRQW1WbW13QU5DVUZjcUVLOThyc3lWV2ROaUNaMFhKZXczX0ZwV0NBRjVua3ZyWHdEVTFYZnI2b3h1S1FBaFVFWXowcUFqVkJFdWc?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 07:11:08 GMT",
+        "source": "천지일보",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "8cbd3aa6f5b7b74e2478ca570cb23b52ff8417ce1b9df2abf02ad8639fcd8fc1",
-    "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 라디오코리아",
+    "postId": "d2a73a046d0dcb38735bc5a10f8bf4a93a157b317b992fc42d512f3c18513c23",
+    "title": "조병옥 음성군수, 김민석 민주당 대표에 3대 핵심 현안 건의 - 음성뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45773421994",
-    "sentAt": "2026-11-26T07:11:15.552Z"
+    "runId": "45774645947",
+    "sentAt": "2026-11-26T07:21:15.015Z"
   }
 }
