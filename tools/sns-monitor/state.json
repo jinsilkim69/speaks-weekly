@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T15:31:15.346Z",
+  "lastCheckedAt": "2026-11-26T15:41:14.479Z",
   "seenPostIds": {
-    "2071d98ea4b5ff7c23c03916cc040bf669acb227063e6a2c335ea74f70a649de": {
-      "seenAt": "2026-11-24T07:31:19.792Z",
-      "title": "이준석 \"강금실, 정보·방첩 경력 전무\" … 국정원장 인선 맹비판 - 뉴데일리",
-      "targetName": "이준석"
-    },
     "48af8054f09697402466aee9c74b2632ddec90abbe3d3443c968ea730922527f": {
       "seenAt": "2026-11-24T07:41:17.011Z",
       "title": "장동혁 \"당 입장 듣는 게 당연\"…한동훈 \"배후 조종 인정\" - 한국경제",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-26T15:31:16.645Z",
       "title": "이젠 대놓고 ‘김민석 사퇴’ 외친다…거칠어지는 친청 - 중앙일보",
       "targetName": "김민석"
+    },
+    "921d43c2df7a3be8baef687c2461db3ccfbc0e1c9d99c2dcf9b8d6b04649cd44": {
+      "seenAt": "2026-11-26T15:41:15.962Z",
+      "title": "Trump demands probe of GDP data released before midterms - KFGO",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3620112305f33dbafe32892ec2c0504cc4b8e09a7401bc9bb52baa50588d88a7",
-    "title": "이젠 대놓고 ‘김민석 사퇴’ 외친다…거칠어지는 친청 - 중앙일보",
+    "postId": "921d43c2df7a3be8baef687c2461db3ccfbc0e1c9d99c2dcf9b8d6b04649cd44",
+    "title": "Trump demands probe of GDP data released before midterms - KFGO",
     "bot": "jongsuk_pol_bot",
-    "runId": "45849862270",
-    "sentAt": "2026-11-26T15:31:16.040Z"
+    "runId": "45851516796",
+    "sentAt": "2026-11-26T15:41:15.343Z"
   }
 }

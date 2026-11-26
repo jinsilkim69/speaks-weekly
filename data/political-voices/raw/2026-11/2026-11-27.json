@@ -223,5 +223,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "921d43c2df7a3be8baef687c2461db3ccfbc0e1c9d99c2dcf9b8d6b04649cd44",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump demands probe of GDP data released before midterms - KFGO",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHFnMGJQOGxmOHpnRGNvSjk4YmltRDI2VWV6VXJCSndJUUZ0dl94QnlzSURvY2tPOFNWSk9tS25hOWlMWHVqUTRBMU1tN29PU3RJZTVzcGlMMFdoWmdRbzJpQU91ZGhleVEwa3g0ekt1c3lLSm9Rb1Q0TzJ5OWtYcEpGdU5xSWlwNzNXblBn?oc=5\" target=\"_blank\">Trump demands probe of GDP data released before midterms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFGO</font>",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHFnMGJQOGxmOHpnRGNvSjk4YmltRDI2VWV6VXJCSndJUUZ0dl94QnlzSURvY2tPOFNWSk9tS25hOWlMWHVqUTRBMU1tN29PU3RJZTVzcGlMMFdoWmdRbzJpQU91ZGhleVEwa3g0ekt1c3lLSm9Rb1Q0TzJ5OWtYcEpGdU5xSWlwNzNXblBn?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 15:30:28 GMT",
+    "source": "KFGO",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump demands probe of GDP data released before midterms",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
