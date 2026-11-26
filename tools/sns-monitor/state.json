@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T08:41:14.664Z",
+  "lastCheckedAt": "2026-11-26T08:51:24.227Z",
   "seenPostIds": {
-    "1f94a2ba37bca3b48bfb29bed08cfb28e8841dd1f332e41b3553f6d817fb032f": {
-      "seenAt": "2026-11-24T02:41:16.037Z",
-      "title": "정청래, 취임 100일 김민석 겨냥 “반·분·신 폭탄이 당 초토화” - 중앙일보",
-      "targetName": "정청래"
-    },
-    "65d66076e9bda8cd8cb023328ec10e53ea86d24af1430c1fa79ffee66fa3424a": {
-      "seenAt": "2026-11-24T02:51:14.668Z",
-      "title": "정청래, 박선원 저격 \"신천지로 당 초토화…일제 부역자 발언 정점\" - 머니투데이 - 머니투데이",
-      "targetName": "정청래"
-    },
-    "af22159823f7775568ecca5d6dabb3a564d5917d25ecca71b04456c8f442af7c": {
-      "seenAt": "2026-11-24T02:51:15.301Z",
-      "title": "이준석 \"강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻\" - 데일리안",
-      "targetName": "이준석"
-    },
     "45a4fb4fee449277894b746e5b9e353a8476714542e1c63f9eb432c0d1472cc7": {
       "seenAt": "2026-11-24T02:51:15.944Z",
       "title": "'한동훈 기획제명' 의혹 제기에…친한계 \"장동혁 물러나야\" - 연합뉴스 한민족센터",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-26T08:41:16.946Z",
       "title": "송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라” - 세계일보",
       "targetName": "정청래"
+    },
+    "b2f8d26b6b5d31daac42b32a14c42212a8e64efe1d07e32ac4041b78cc2734de": {
+      "seenAt": "2026-11-26T08:51:26.251Z",
+      "title": "김민석, 직무수행 ‘부정평가’ 68.3%…장동혁은 60.7% - 중앙일보",
+      "targetName": "김민석"
+    },
+    "4b2e9fc9c0c5b75f9d1887553be674038f368a4ed88ccdada77e1ae3f0dae8d0": {
+      "seenAt": "2026-11-26T08:51:27.020Z",
+      "title": "친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 미주중앙일보",
+      "targetName": "김민석"
+    },
+    "a77fa28184f0b5012b2ede5d2b8c3cadb06c8dd68a6731c9b1f470742625b180": {
+      "seenAt": "2026-11-26T08:51:27.759Z",
+      "title": "\"최민희 중징계 전망…김민석, 역풍 감당할 수 있나\"[박영환의 시사1번지] - KBC광주방송",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "b2f8d26b6b5d31daac42b32a14c42212a8e64efe1d07e32ac4041b78cc2734de",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, 직무수행 ‘부정평가’ 68.3%…장동혁은 60.7% - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PTXhrLU5KSk1mWGdMakVUcExxYW5JMXhPZ2lZYVBFV1dqV1I1bHhDS1dHMnpRcHVwN2pqVEotSHVHTXhmVXhRS0ktZlFIeHh1aGJBZVR3?oc=5\" target=\"_blank\">김민석, 직무수행 ‘부정평가’ 68.3%…장동혁은 60.7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PTXhrLU5KSk1mWGdMakVUcExxYW5JMXhPZ2lZYVBFV1dqV1I1bHhDS1dHMnpRcHVwN2pqVEotSHVHTXhmVXhRS0ktZlFIeHh1aGJBZVR3?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 08:13:34 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "4b2e9fc9c0c5b75f9d1887553be674038f368a4ed88ccdada77e1ae3f0dae8d0",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 미주중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qTzB2SExmMkdqOFRvZUh6YkVpcGNqdG1tUmd4S1BBbWhVdGhqZV9nbVdOYUp3OWNnXzRxdW9FeVdrV0ZVc01wcEtjRDZYMFVkSDE3N3Z4cjNIeTJXb1FNeGZ3?oc=5\" target=\"_blank\">친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미주중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qTzB2SExmMkdqOFRvZUh6YkVpcGNqdG1tUmd4S1BBbWhVdGhqZV9nbVdOYUp3OWNnXzRxdW9FeVdrV0ZVc01wcEtjRDZYMFVkSDE3N3Z4cjNIeTJXb1FNeGZ3?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 07:35:00 GMT",
-        "source": "미주중앙일보",
-        "ageHours": 1.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "a77fa28184f0b5012b2ede5d2b8c3cadb06c8dd68a6731c9b1f470742625b180",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "\"최민희 중징계 전망…김민석, 역풍 감당할 수 있나\"[박영환의 시사1번지] - KBC광주방송",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PT2piV3ozU1hkdlcwYnNFTjIwVUZNQ0ZmcFIxbzRpV0ZBS2Z0YUhTekpxalUzRWJPNTdwODlYTXFhaHhPQkx1SzRTc1VNUGUzVVl2Yzl5MWU4OTEyUFJNeQ?oc=5\" target=\"_blank\">\"최민희 중징계 전망…김민석, 역풍 감당할 수 있나\"[박영환의 시사1번지]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PT2piV3ozU1hkdlcwYnNFTjIwVUZNQ0ZmcFIxbzRpV0ZBS2Z0YUhTekpxalUzRWJPNTdwODlYTXFhaHhPQkx1SzRTc1VNUGUzVVl2Yzl5MWU4OTEyUFJNeQ?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 08:30:04 GMT",
-        "source": "KBC광주방송",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "c179943b6dafb843e76748b0e823668c373843d2166e5916224f48816342a1f8",
@@ -2616,10 +2568,10 @@
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "6358e76f204dc3eaf1d27ed03d24ee2e120a0ee241c3342d845ed9cfa780643c",
-    "title": "송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라” - 세계일보",
+    "postId": "a77fa28184f0b5012b2ede5d2b8c3cadb06c8dd68a6731c9b1f470742625b180",
+    "title": "\"최민희 중징계 전망…김민석, 역풍 감당할 수 있나\"[박영환의 시사1번지] - KBC광주방송",
     "bot": "jongsuk_pol_bot",
-    "runId": "45785234067",
-    "sentAt": "2026-11-26T08:41:16.619Z"
+    "runId": "45786649688",
+    "sentAt": "2026-11-26T08:51:27.385Z"
   }
 }

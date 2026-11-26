@@ -9894,3 +9894,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 직무수행 ‘부정평가’ 68.3%…장동혁은 60.7% - 중앙일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 직무수행 ‘부정평가’ 68.3%…장동혁은 60.7%
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PTXhrLU5KSk1mWGdMakVUcExxYW5JMXhPZ2lZYVBFV1dqV1I1bHhDS1dHMnpRcHVwN2pqVEotSHVHTXhmVXhRS0ktZlFIeHh1aGJBZVR3?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 미주중앙일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qTzB2SExmMkdqOFRvZUh6YkVpcGNqdG1tUmd4S1BBbWhVdGhqZV9nbVdOYUp3OWNnXzRxdW9FeVdrV0ZVc01wcEtjRDZYMFVkSDE3N3Z4cjNIeTJXb1FNeGZ3?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** "최민희 중징계 전망…김민석, 역풍 감당할 수 있나"[박영환의 시사1번지] - KBC광주방송
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "최민희 중징계 전망…김민석, 역풍 감당할 수 있나"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PT2piV3ozU1hkdlcwYnNFTjIwVUZNQ0ZmcFIxbzRpV0ZBS2Z0YUhTekpxalUzRWJPNTdwODlYTXFhaHhPQkx1SzRTc1VNUGUzVVl2Yzl5MWU4OTEyUFJNeQ?oc=5)
+
+---
+
