@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T09:21:15.067Z",
+  "lastCheckedAt": "2026-11-26T09:31:15.116Z",
   "seenPostIds": {
-    "310f0a3c4a231e6e0f0775913bc74e2fc7d88e8cb7851f9933526229a1a19bda": {
-      "seenAt": "2026-11-24T03:21:17.964Z",
-      "title": "박지원, '취임 100일' 김민석에게 \"100점 만점에 60점\" - MBC 뉴스",
-      "targetName": "김민석"
-    },
-    "611bcc10ef3ca30842384bb7296073ff8627a7bdbf26b793b5f23f90ee8faf6f": {
-      "seenAt": "2026-11-24T03:31:16.028Z",
-      "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…출구없는 與신천지 갈등 - 연합뉴스",
-      "targetName": "정청래"
-    },
     "e5c9b778cc182775a5473b1318429471729797ddc2347532e50ab40802ce0e8b": {
       "seenAt": "2026-11-24T03:31:16.652Z",
       "title": "'조작징계' 폭로 후폭풍... 한동훈 \"기획 숙청\", 중진들도 \"장동혁 사퇴\" - OhmyNews",
@@ -2510,14 +2500,29 @@
       "seenAt": "2026-11-26T09:21:17.245Z",
       "title": "김민석, 소방장비센터·병원 찾아 예산 약속 …\"부족함 없도록\"(종합) - 뉴스1",
       "targetName": "김민석"
+    },
+    "c8c9bf7fbf2f2634b004993bf03e2b22ecfcc49893256d430c32ca6afe4293e0": {
+      "seenAt": "2026-11-26T09:31:16.707Z",
+      "title": "송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라” - 세계일보",
+      "targetName": "송영길"
+    },
+    "8f8aa4aca4466e8d4357b0d51c32fb59b7f0fcf38b74989f530bed61a8b93f17": {
+      "seenAt": "2026-11-26T09:31:17.493Z",
+      "title": "Donald Trump Spends Wee Hours Of Thanksgiving Ranting About New York Times Reporter - Yahoo News Singapore",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a165db3265f0bc4de5226b082c51056a9c214b5faef299ed564c6b4dbce23a96": {
+      "seenAt": "2026-11-26T09:31:18.270Z",
+      "title": "Sleepless Trump, 80, Unravels in Seething Thanksgiving Tirade About NYT Reporter David E. Sanger - The Daily Beast",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "cab92785e6c69379dc8a8b793ea7308b927bd77e23ee3b0151114b2be38bc882",
-    "title": "김민석, 소방장비센터·병원 찾아 예산 약속 …\"부족함 없도록\"(종합) - 뉴스1",
+    "postId": "a165db3265f0bc4de5226b082c51056a9c214b5faef299ed564c6b4dbce23a96",
+    "title": "Sleepless Trump, 80, Unravels in Seething Thanksgiving Tirade About NYT Reporter David E. Sanger - The Daily Beast",
     "bot": "jongsuk_pol_bot",
-    "runId": "45791135580",
-    "sentAt": "2026-11-26T09:21:16.882Z"
+    "runId": "45792684543",
+    "sentAt": "2026-11-26T09:31:17.877Z"
   }
 }

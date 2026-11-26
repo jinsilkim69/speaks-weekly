@@ -10037,3 +10037,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라” - 세계일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oTWE5WHVHcUhKS3FtS05EYWgyVzJHZVlOLWJMcTFzLVpkZlA3TWdBQWpBVEJvb0lEMnB5M0diZmJMZlhUZDRlV2pmdF84dy1BSFJUdjlGTHJQZHRrWnFRWGlDTnk5dTBFOXdz0gFUQVVfeXFMUEF4YS01R1JaeGJJWHVFaWtZajh6cEh0aHRoQW5ueWh6aGtFOU84X2czbVVUNlJQZmJtaFFkUER4Yk82UlJKT0RFazIxenFRd3BjM3Ex?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump Spends Wee Hours Of Thanksgiving Ranting About New York Times Reporter - Yahoo News Singapore
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump Spends Wee Hours Of Thanksgiving Ranting About New York Times Reporter
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE1tOFpoUEdHQW12MnY2dzZ5OGkyMVliVDhEWml6ZWllenRhYklmaThJUW94QWFHa3ZMWl8zeGxPM2E1cDg4OFNXcUFZdXNnbC1VQlFpWmNFN0Q4MjJhQlRPU2o1NFo5VkRFV0lFXzgtNHh1UmIwY2UybFlB?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Sleepless Trump, 80, Unravels in Seething Thanksgiving Tirade About NYT Reporter David E. Sanger - The Daily Beast
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Sleepless Trump, 80, Unravels in Seething Thanksgiving Tirade About NYT Reporter David E. Sanger
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcVFsYnA0eU04RzVvSWRaUEVnTDM1VnlZeXRyc1ZRRXpEMlN3bUxMbHhGSDZxeHNiMngwUm5pNXN1eVU5MmdGSjRfZDFRVWNTQ054UldRRXZmVC0tcFhZc2lnUWdwNnI2QzhaZXBQbGpBM0dVd1VWNUxocFBtZ2ZfQWJnMG1Pa0RVeW1JdGdSR3ZzZGk3YmV3cVB2OHpkWnJ0ZnFQQ1BYN25Sc3BnenFRbGFlNERCbktfeE84bU54a2Q?oc=5)
+
+---
+
