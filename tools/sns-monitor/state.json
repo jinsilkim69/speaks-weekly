@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T10:21:14.368Z",
+  "lastCheckedAt": "2026-11-26T10:31:14.336Z",
   "seenPostIds": {
-    "9d93fc40fefa5c53c357b63e6893d7222390e1d1b89f275d7f68b628e0fde5ea": {
-      "seenAt": "2026-11-24T03:51:16.541Z",
-      "title": "'I made the deal': Trump says he 'convinced' Nvidia board to reinstate Jensen Huang - ABC News - Breaking News, Latest News and Videos",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "b860aae157222669d198ba5ac721ade1fcbb2cff6a1021eb29ff99d5c617ac88": {
-      "seenAt": "2026-11-24T03:51:17.174Z",
-      "title": "김민석, 정청래 ''반·분·신 의혹' 직격에 \"말씀 드릴 필요 없어\" - 뉴시스",
-      "targetName": "김민석"
-    },
     "ba8b91308691e638f1bf95fa510b4b56b14e3bda27cd13ff83daf2a55547fc63": {
       "seenAt": "2026-11-24T04:01:18.706Z",
       "title": "김민석 취임 100일에도 민주당 계파 충돌…정청래 “결자해지” : 정치 - 재경일보",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-26T10:21:16.459Z",
       "title": "\"정청래 결자해지 (=김민석 사퇴해!)\" #shorts - OhmyNews",
       "targetName": "김민석"
+    },
+    "764159df460ff4197ddd205f6b015b73bb2d9d7e333ca80258188526ecf92e24": {
+      "seenAt": "2026-11-26T10:31:15.790Z",
+      "title": "이재호 연수구청장, 송영길 의원 사과 촉구...“부영 부지 토양정화 먼저” - 미디어인천신문",
+      "targetName": "송영길"
+    },
+    "fc972ae686d1172bf1f44b039e75ebc2d5b7b9f5d3f39545a14adffe56c20c79": {
+      "seenAt": "2026-11-26T10:31:16.450Z",
+      "title": "How Trump has marked Thanksgiving by launching into Truth Social rant - The Independent",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c88082cc16d40a266d4bd8cb5432c24d53ad858b8cacec08487d8db9d503f044",
-    "title": "\"정청래 결자해지 (=김민석 사퇴해!)\" #shorts - OhmyNews",
+    "postId": "fc972ae686d1172bf1f44b039e75ebc2d5b7b9f5d3f39545a14adffe56c20c79",
+    "title": "How Trump has marked Thanksgiving by launching into Truth Social rant - The Independent",
     "bot": "jongsuk_pol_bot",
-    "runId": "45800488240",
-    "sentAt": "2026-11-26T10:21:16.094Z"
+    "runId": "45802054742",
+    "sentAt": "2026-11-26T10:31:16.113Z"
   }
 }

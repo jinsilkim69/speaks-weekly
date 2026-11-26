@@ -10141,3 +10141,29 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 이재호 연수구청장, 송영길 의원 사과 촉구...“부영 부지 토양정화 먼저” - 미디어인천신문
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재호 연수구청장, 송영길 의원 사과 촉구...“부영 부지 토양정화 먼저”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE12ckxnU3pKTEtRYmc2TEsyUTI0dmsyMlBjNC1pTjZ4OWdheVZOZTVpX1NQeWp0T0RPQkRIdDZLVGNkRGItR0tXQkVPdzhaejcyMXNBa25SVWgtRjNIS0E4VUFpWVhvUlc0SGhV?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** How Trump has marked Thanksgiving by launching into Truth Social rant - The Independent
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] How Trump has marked Thanksgiving by launching into Truth Social rant
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnIxOFVJbFk5dnduQ0dZRm80MmdSVmk0Z1FlejFqZjBqY0lmWmR4RHBVaF93bmlLWGh1SU5YTzh0TjRmZHRRQVdpLUp3SThuLWRkTVJBcXA3UlFweFhkV1k2ek9NT09Pd3ZtZkJqOTRIelRyYXd4Q1JaWHZwTnBSby1jcy1JSjJ4VHJaUG9hNVlvWnVzSGEyRg?oc=5)
+
+---
+
