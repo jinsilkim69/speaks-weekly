@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T11:31:17.037Z",
+  "lastCheckedAt": "2026-11-26T11:41:16.649Z",
   "seenPostIds": {
-    "85528f1ccdcc560db2284bf02521bbb502403c359c423dacc27b0b8eccb999e7": {
-      "seenAt": "2026-11-24T04:21:14.679Z",
-      "title": "조국혁신당 \"조희대 탄핵 더 미룰 수 없어…與와 오늘 만남 예상\" - 뉴시스",
-      "targetName": "조국"
-    },
     "fbc2c9b20728ae3e106d2448e6da380b0238c987345382f9b6aa986f93de0c6d": {
       "seenAt": "2026-11-24T04:21:15.326Z",
       "title": "Fact Check: Donald Trump DID Post Meme Of Jensen Huang Holding Red Bra, Like His Failed Butler Assassination Photo - Yahoo",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-26T11:31:18.632Z",
       "title": "Trump Blames Voters for Stock Market Tanking - Yahoo Finance",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "25e86560b22df7c57258f75779d73f6e0c42b40260857cb5bde4e373f79cc80f": {
+      "seenAt": "2026-11-26T11:41:18.101Z",
+      "title": "송영길 \"우리가 죽기 전에 남북철도 뚫자\" - OhmyNews",
+      "targetName": "송영길"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "ccc394f93c4871005c366c4e7ad15ca8aa5b209bf1114232ea3dec0ba2b75801",
-    "title": "Trump Blames Voters for Stock Market Tanking - Yahoo Finance",
+    "postId": "25e86560b22df7c57258f75779d73f6e0c42b40260857cb5bde4e373f79cc80f",
+    "title": "송영길 \"우리가 죽기 전에 남북철도 뚫자\" - OhmyNews",
     "bot": "jongsuk_pol_bot",
-    "runId": "45811287836",
-    "sentAt": "2026-11-26T11:31:17.892Z"
+    "runId": "45812777394",
+    "sentAt": "2026-11-26T11:41:17.424Z"
   }
 }

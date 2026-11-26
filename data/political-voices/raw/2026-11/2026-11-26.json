@@ -4250,5 +4250,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "25e86560b22df7c57258f75779d73f6e0c42b40260857cb5bde4e373f79cc80f",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "송영길 \"우리가 죽기 전에 남북철도 뚫자\" - OhmyNews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1hMUxwYjNIbHhRM2RvRnBfS2YydjZwUGFkM1hQcTcwNGVpbFRXS3M1OXRjZmRlQ2RUUGtKWG9pbnZSbU50V1N6d0xfcFVKcURmMmRqTkJ2MkJlWEdYcGEybnNHdHl2b0hjbTB1dDNaRi1LaUQ3RVNj?oc=5\" target=\"_blank\">송영길 \"우리가 죽기 전에 남북철도 뚫자\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hMUxwYjNIbHhRM2RvRnBfS2YydjZwUGFkM1hQcTcwNGVpbFRXS3M1OXRjZmRlQ2RUUGtKWG9pbnZSbU50V1N6d0xfcFVKcURmMmRqTkJ2MkJlWEdYcGEybnNHdHl2b0hjbTB1dDNaRi1LaUQ3RVNj?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 02:19:00 GMT",
+    "source": "OhmyNews",
+    "ageHours": 9.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길 \"우리가 죽기 전에 남북철도 뚫자\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
