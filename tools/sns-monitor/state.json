@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T04:41:20.386Z",
+  "lastCheckedAt": "2026-11-26T04:51:16.175Z",
   "seenPostIds": {
-    "872f73f97e12381f6196b08558c0ed8fbb228688121e3bcabc4ea4b410a3073e": {
-      "seenAt": "2026-11-23T16:11:17.299Z",
-      "title": "Trump praises Nvidia’s reinstatement of Huang - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "d0ec0238549a90512ec3dd1206a60a9c7d6de77b8b30cea2cccb98fb1aae6003": {
-      "seenAt": "2026-11-23T16:51:16.051Z",
-      "title": "이준석, 코스피 급락에 제도 개선 3대 제안…“반대매매 기준 통일해야” - 뉴스코리아",
-      "targetName": "이준석"
-    },
     "8af7d4800f9adcc56cc3bf8a770caf2931c5b686c6707860021bc85ee3b3f096": {
       "seenAt": "2026-11-23T16:51:16.824Z",
       "title": "Trump says \"no reason to believe\" Jensen Huang's return to Nvidia poses national security risk - CBS News",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-26T04:41:22.858Z",
       "title": "천하람 \"한동훈, 조희대 탄핵 인용 의원직 건다?...뭘 자꾸 건다고, 가벼워, 언어 좀 조절해야\"[여의도초대석] - KBC광주방송",
       "targetName": "천하람"
+    },
+    "878e95109f0686ed71ee11d8cfae41a6d9db4b39833e88f83ab555a4431a6145": {
+      "seenAt": "2026-11-26T04:51:18.133Z",
+      "title": "이재명 대통령 “희귀·중증질환자 건보 본인부담률 7%로 인하” - 일간투데이",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "6844f2558a9b648b8f7af6961bb08db2a73a7e2d8d3a6c1fcf7e1334c762c30a",
-    "title": "천하람 \"한동훈, 조희대 탄핵 인용 의원직 건다?...뭘 자꾸 건다고, 가벼워, 언어 좀 조절해야\"[여의도초대석] - KBC광주방송",
+    "postId": "878e95109f0686ed71ee11d8cfae41a6d9db4b39833e88f83ab555a4431a6145",
+    "title": "이재명 대통령 “희귀·중증질환자 건보 본인부담률 7%로 인하” - 일간투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45756753515",
-    "sentAt": "2026-11-26T04:41:22.487Z"
+    "runId": "45757789018",
+    "sentAt": "2026-11-26T04:51:17.415Z"
   }
 }
