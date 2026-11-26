@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T06:51:13.795Z",
+  "lastCheckedAt": "2026-11-26T07:01:13.764Z",
   "seenPostIds": {
-    "1c27b49c8c54eae1d4cbf082658ecd25694c86b38db4bec587149c80f2dabd30": {
-      "seenAt": "2026-11-23T21:51:16.198Z",
-      "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief - The New York Times",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "ca9ca6aa9e197bce6abc5a6ba2d57f3e09ac14e8c05b29a4ed491d424757c814": {
-      "seenAt": "2026-11-23T22:21:17.765Z",
-      "title": "조희대 탄핵…김민석 “모든 역량 집중” vs 장동혁 “李대통령 재판 재개 마중물” [투데이 여의도 스케치] - 세계일보",
-      "targetName": "김민석"
-    },
-    "38d9d7b887f817274312f3c4e9aa8fae201ab11599c291cfbe094c51c0c3785f": {
-      "seenAt": "2026-11-23T22:51:15.116Z",
-      "title": "조희대 탄핵…김민석 “모든 역량 집중” vs 장동혁 “李대통령 재판 재개 마중물” [투데이 여의도 스케치] - 세계일보",
-      "targetName": "김민석"
-    },
     "5b0736388ee35ff997ecd73e8b1c5a0d033a12d2fb09e8ca3735bdd1a000b97d": {
       "seenAt": "2026-11-23T22:51:15.709Z",
       "title": "Trump's Nvidia CEO post encapsulates his depraved America | Opinion - USA Today",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-26T06:51:16.100Z",
       "title": "정청래 \"李 대통령은 사선 넘은 전우…李정부 성공 위해 최선\" - 뉴스1",
       "targetName": "정청래"
+    },
+    "652f1f7a44276fda1cbb87a63e298bad66fce2f81d03481ec4d93c5b3812d5ad": {
+      "seenAt": "2026-11-26T07:01:14.983Z",
+      "title": "송영길·정청래 설전…민주당 계파 갈등 확산 - 일간투데이",
+      "targetName": "송영길"
+    },
+    "0eff03be2e1ee10d86a4834e8ea6286b7788cc1e235cda516f99508899553149": {
+      "seenAt": "2026-11-26T07:01:15.847Z",
+      "title": "최민희 징계 앞둔 민주당 내홍…정청래·송영길도 격돌 - 법치뉴스",
+      "targetName": "송영길"
+    },
+    "727fc5094571ae6e9c0cfadffd4da9bc415ae3829ee1ae6d32ed6c08565afada": {
+      "seenAt": "2026-11-26T07:01:16.502Z",
+      "title": "[고수다] 송영길-정청래 또 설전 \"대통령이 다독여\"‥\"다언이 병\" - MBC 뉴스",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "652f1f7a44276fda1cbb87a63e298bad66fce2f81d03481ec4d93c5b3812d5ad",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길·정청래 설전…민주당 계파 갈등 확산 - 일간투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5DUnI4MUtacW1jdjhQaG5Jb0ZnWkd1cGtVX1dfdzR5R0xEdFdUMGZ2VnFldkwzOEJPbG4ydzJXNDhCaG9SWVcxQk5iblRUY1dmdjVoeGdrU0tVRHBJc0M4eHNqRWlZU0Fzd05R?oc=5\" target=\"_blank\">송영길·정청래 설전…민주당 계파 갈등 확산</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">일간투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DUnI4MUtacW1jdjhQaG5Jb0ZnWkd1cGtVX1dfdzR5R0xEdFdUMGZ2VnFldkwzOEJPbG4ydzJXNDhCaG9SWVcxQk5iblRUY1dmdjVoeGdrU0tVRHBJc0M4eHNqRWlZU0Fzd05R?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 01:48:30 GMT",
-        "source": "일간투데이",
-        "ageHours": 4.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "0eff03be2e1ee10d86a4834e8ea6286b7788cc1e235cda516f99508899553149",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "최민희 징계 앞둔 민주당 내홍…정청래·송영길도 격돌 - 법치뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Xak04T05YZHlHV2lrY0VlRHI3OTVFdkdrbWlhX1ctQVFJNHNZb2VON1h2SExodHhnUlN6RHJLZ29ycDZTeS02eVV4UTBHbUxPeHk0Z0FBZlBEQ2Q1T2J4ckFMNXXSAWhBVV95cUxNMHlfdkYzVVVFVXZrN1QxZjdwTEYydTR5ZldZOTRvVzJZM3pJMTVUQlRlZVlBMHRsbkp3RnBmXzdSYXRmYTdDdEJTdDNOSy1oMDNoOU9Ec2FVbG5MaDRLQlJkdm9YOEh4RQ?oc=5\" target=\"_blank\">최민희 징계 앞둔 민주당 내홍…정청래·송영길도 격돌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">법치뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Xak04T05YZHlHV2lrY0VlRHI3OTVFdkdrbWlhX1ctQVFJNHNZb2VON1h2SExodHhnUlN6RHJLZ29ycDZTeS02eVV4UTBHbUxPeHk0Z0FBZlBEQ2Q1T2J4ckFMNXXSAWhBVV95cUxNMHlfdkYzVVVFVXZrN1QxZjdwTEYydTR5ZldZOTRvVzJZM3pJMTVUQlRlZVlBMHRsbkp3RnBmXzdSYXRmYTdDdEJTdDNOSy1oMDNoOU9Ec2FVbG5MaDRLQlJkdm9YOEh4RQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 23:44:41 GMT",
-        "source": "법치뉴스",
-        "ageHours": 6.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "727fc5094571ae6e9c0cfadffd4da9bc415ae3829ee1ae6d32ed6c08565afada",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "[고수다] 송영길-정청래 또 설전 \"대통령이 다독여\"‥\"다언이 병\" - MBC 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9rYjh0bFRZQ0podENmMC1tOGFxYlBtZEZicUJtS1ZmOUp2NTFvMnlGSmpnZUprZjI1Z0VNeDRhUHZfVUpadklzYVBhYTJqT19GRkdHeVlsVXpDRzA2N3Y3RUdMSldKWmRCMUpjVkFPVFY0TVMtaTNmaNIBeEFVX3lxTE41bDFZYkYtSEVIRVdiNzJsNjZmbkR5VWlZSWhDZTJUUDNocDdUanpxdTJndUpPdDdUNXFBcFZxTERCT1BRWm5xUXJYRUZjVFBfbldacXd2MVg4OWRPR3hleTlXdGFWYnVXVXpQejU2ZEh3RUI4cV9fMw?oc=5\" target=\"_blank\">[고수다] 송영길-정청래 또 설전 \"대통령이 다독여\"‥\"다언이 병\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rYjh0bFRZQ0podENmMC1tOGFxYlBtZEZicUJtS1ZmOUp2NTFvMnlGSmpnZUprZjI1Z0VNeDRhUHZfVUpadklzYVBhYTJqT19GRkdHeVlsVXpDRzA2N3Y3RUdMSldKWmRCMUpjVkFPVFY0TVMtaTNmaNIBeEFVX3lxTE41bDFZYkYtSEVIRVdiNzJsNjZmbkR5VWlZSWhDZTJUUDNocDdUanpxdTJndUpPdDdUNXFBcFZxTERCT1BRWm5xUXJYRUZjVFBfbldacXd2MVg4OWRPR3hleTlXdGFWYnVXVXpQejU2ZEh3RUI4cV9fMw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 07:35:50 GMT",
-        "source": "MBC 뉴스",
-        "ageHours": 23.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "ea4112f9556af711c8818942d17127d6b000eef67aab603ec16c43b6b46008d1",
@@ -2581,13 +2533,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "b851441ea0ac28b525d24aa11d29e4d8c6934e75f0fc45dd2b7d459a631a8b3e",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\" - 한국일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9aRnBSM3FHZDVfZVdOSW9BakdJclp0Y2FsbGZOTm9uU2tBY1hNcWswd1lna1VIWHBQSnk5WS1IQWdnU1pxTi01LU90em1scWR4MVdMUlVlQ09FT1kzYjl1U3F6V1V1anVYVWNuUlpRNDhqYVk?oc=5\" target=\"_blank\">'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aRnBSM3FHZDVfZVdOSW9BakdJclp0Y2FsbGZOTm9uU2tBY1hNcWswd1lna1VIWHBQSnk5WS1IQWdnU1pxTi01LU90em1scWR4MVdMUlVlQ09FT1kzYjl1U3F6V1V1anVYVWNuUlpRNDhqYVk?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 05:16:00 GMT",
+        "source": "한국일보",
+        "ageHours": 1.8
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "4d4e093d349b8a874f590a9709accfb94b05d137f47fdbe389385508eb2088ed",
-    "title": "정청래 \"李 대통령은 사선 넘은 전우…李정부 성공 위해 최선\" - 뉴스1",
+    "postId": "727fc5094571ae6e9c0cfadffd4da9bc415ae3829ee1ae6d32ed6c08565afada",
+    "title": "[고수다] 송영길-정청래 또 설전 \"대통령이 다독여\"‥\"다언이 병\" - MBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45771053626",
-    "sentAt": "2026-11-26T06:51:15.794Z"
+    "runId": "45772208130",
+    "sentAt": "2026-11-26T07:01:16.171Z"
   }
 }
