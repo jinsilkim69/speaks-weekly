@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T09:41:15.724Z",
+  "lastCheckedAt": "2026-11-26T09:51:22.077Z",
   "seenPostIds": {
-    "2abb1fbb2b7bd5905f0c06daa9cac62b074224329838ef5fbdbe7aab3b8dcd24": {
-      "seenAt": "2026-11-24T03:41:16.829Z",
-      "title": "이준석 “강금실 국정원장 지명 뜬금포…워싱턴이 믿을 사람인가” - 서울신문",
-      "targetName": "이준석"
-    },
     "156be66659ed320444053c35959f21982f8a161be71dc006d1500999a075a264": {
       "seenAt": "2026-11-24T03:41:17.430Z",
       "title": "정청래, 취임 100일 김민석 겨냥 \"반·분·신 폭탄으로 당 초토화\" - 뉴시스",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-26T09:41:17.050Z",
       "title": "장동혁은 계엄사과 NO, 한동훈은 복당 발판…‘曺 탄핵 활용법’ - 중앙일보",
       "targetName": "한동훈"
+    },
+    "93013fe523c01462cc17f7f24d57dee95163509b5a943509beae56ae53f9e16f": {
+      "seenAt": "2026-11-26T09:51:23.902Z",
+      "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "0d663af037905c408a567d98ed1abf812110f625d6d22a610a46876e0ac14aea",
-    "title": "장동혁은 계엄사과 NO, 한동훈은 복당 발판…‘曺 탄핵 활용법’ - 중앙일보",
+    "postId": "93013fe523c01462cc17f7f24d57dee95163509b5a943509beae56ae53f9e16f",
+    "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
     "bot": "jongsuk_pol_bot",
-    "runId": "45794236993",
-    "sentAt": "2026-11-26T09:41:16.411Z"
+    "runId": "45795788861",
+    "sentAt": "2026-11-26T09:51:23.141Z"
   }
 }
