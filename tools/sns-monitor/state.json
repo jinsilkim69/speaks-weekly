@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T20:11:17.556Z",
+  "lastCheckedAt": "2026-11-26T20:21:13.623Z",
   "seenPostIds": {
     "5d3c21d8d67d952d8e02e37d9c5d94d9d73480148a95bf5b7f1a5e56a2d56c5c": {
       "seenAt": "2026-11-24T08:51:18.520Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-26T18:51:14.943Z",
       "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation - Al Jazeera",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "071304b7f55084975ac945ec6cb943520c23db04a21e28e8e196f2370331bda8": {
+      "seenAt": "2026-11-26T20:21:14.658Z",
+      "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence - The Guardian",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "135723a68418731910d2706e0ae8cec0ca651a25b62b7c32aab83b8fa8e2b9b6",
-    "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation - Al Jazeera",
+    "postId": "071304b7f55084975ac945ec6cb943520c23db04a21e28e8e196f2370331bda8",
+    "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence - The Guardian",
     "bot": "jongsuk_pol_bot",
-    "runId": "45879153047",
-    "sentAt": "2026-11-26T18:51:14.381Z"
+    "runId": "45890390126",
+    "sentAt": "2026-11-26T20:21:14.168Z"
   }
 }

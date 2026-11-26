@@ -598,5 +598,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "071304b7f55084975ac945ec6cb943520c23db04a21e28e8e196f2370331bda8",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence - The Guardian",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVdXdlZuQVpCZWc1LV9iWkZaSm9RWlVsZFFBNVIwdmV6UksxZmlQTEpXUVlVXy14TUNGWURxdmZHZVR2V1BfZG1GRXVjT3hDek0zazlad0VXWGtBc0dDRE5LS2pkeFlpaThKaG5qU0ZkZ2dkaldsMmN1SWRDZnJLSTdyYWdjWHJrZXFuWg?oc=5\" target=\"_blank\">Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVdXdlZuQVpCZWc1LV9iWkZaSm9RWlVsZFFBNVIwdmV6UksxZmlQTEpXUVlVXy14TUNGWURxdmZHZVR2V1BfZG1GRXVjT3hDek0zazlad0VXWGtBc0dDRE5LS2pkeFlpaThKaG5qU0ZkZ2dkaldsMmN1SWRDZnJLSTdyYWdjWHJrZXFuWg?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 19:41:00 GMT",
+    "source": "The Guardian",
+    "ageHours": 0.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
