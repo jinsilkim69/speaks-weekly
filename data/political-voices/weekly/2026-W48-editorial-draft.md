@@ -8763,3 +8763,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 [공공기관 이전 부지에 공공주택 짓자…-제2의 무상급식-으로] - 매일경제
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MYzJJdlFaMVdqMHNXT2FPWWZMaHJzTTZUMXRkVnRXOWEzNkwxejNWa1dqSHhhME9QNC11d1hiZWEwYldQN2dRVFFPZTVHVFpXdUN1T3BoRVZJYVYzbkE3WUhn?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 “李, 정청래 억울함 4시간 들어줘”…정 “입조심 하라” - 미주중앙일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 “李, 정청래 억울함 4시간 들어줘”…정 “입조심 하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Y0xNN2Zaa1pnczFhUi1GSXJqUGRDczQxZ2YxQWJ1RFMtY3FDU2hvaXFYdXgyS1FUTXJkSHZOZWN4VXZwUzk5U3JJc0lMMWttMGZjakJxUDFsakJvV2c1cldB?oc=5)
+
+---
+

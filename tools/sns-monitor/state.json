@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T02:11:12.696Z",
+  "lastCheckedAt": "2026-11-26T02:21:15.650Z",
   "seenPostIds": {
-    "131c3e42f110ea1493ee3e7207b6eb3d2e1b9b1cce540e8129109296d79d7657": {
-      "seenAt": "2026-11-23T12:21:18.513Z",
-      "title": "오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 조세일보",
-      "targetName": "이재명"
-    },
-    "adbb711addb35aef208e7fe949359084b919af458173b5bb6d8e15346a0cd091": {
-      "seenAt": "2026-11-23T12:21:19.132Z",
-      "title": "조국혁신당 \"차기 교육부 장관, AI시대 교육개혁 소신 있게 추진해야\" - 한국사회복지저널",
-      "targetName": "조국"
-    },
-    "e9ef9f874101900fca88c86972c6f85f2d4566a353a0371272635fac7e099fda": {
-      "seenAt": "2026-11-23T12:51:16.761Z",
-      "title": "당명 개정 관련 발언하는 신장식 대표 - 서울뉴스통신",
-      "targetName": "신장식"
-    },
     "f3c3b23a9b52b61ec48ee9773996aaae1daf06df8ab5670f58c4873448436224": {
       "seenAt": "2026-11-23T13:11:17.334Z",
       "title": "40대 대전시민 \"정청래 최민희 징계 안돼 , 너무 바보 같은 발언\" #Shorts - OhmyNews",
@@ -2515,31 +2500,24 @@
       "seenAt": "2026-11-26T02:11:15.735Z",
       "title": "\"내란 인정하라고 지X 지X\"…조국, 김태규에 \"판사 출신 의원의 발언\" 지적 - 뉴시스",
       "targetName": "조국"
+    },
+    "12a95b438755c47a94ed3a6348b7de7097bb5f5877d932bfce43b1b19981508c": {
+      "seenAt": "2026-11-26T02:21:17.128Z",
+      "title": "조국 [공공기관 이전 부지에 공공주택 짓자…-제2의 무상급식-으로] - 매일경제",
+      "targetName": "조국"
+    },
+    "b93f0205f8264f001e8ca223af6e57e76528eb9309a7865c884e7ffcd96c8ed3": {
+      "seenAt": "2026-11-26T02:21:17.874Z",
+      "title": "송영길 “李, 정청래 억울함 4시간 들어줘”…정 “입조심 하라” - 미주중앙일보",
+      "targetName": "송영길"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "12a95b438755c47a94ed3a6348b7de7097bb5f5877d932bfce43b1b19981508c",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 [공공기관 이전 부지에 공공주택 짓자…-제2의 무상급식-으로] - 매일경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MYzJJdlFaMVdqMHNXT2FPWWZMaHJzTTZUMXRkVnRXOWEzNkwxejNWa1dqSHhhME9QNC11d1hiZWEwYldQN2dRVFFPZTVHVFpXdUN1T3BoRVZJYVYzbkE3WUhn?oc=5\" target=\"_blank\">조국 [공공기관 이전 부지에 공공주택 짓자…-제2의 무상급식-으로]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MYzJJdlFaMVdqMHNXT2FPWWZMaHJzTTZUMXRkVnRXOWEzNkwxejNWa1dqSHhhME9QNC11d1hiZWEwYldQN2dRVFFPZTVHVFpXdUN1T3BoRVZJYVYzbkE3WUhn?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 01:38:00 GMT",
-        "source": "매일경제",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "935f6c8aaa91d8220e69d9afd254b36eb350a2101d0c254ee67b39508a17f85d",
-    "title": "\"내란 인정하라고 지X 지X\"…조국, 김태규에 \"판사 출신 의원의 발언\" 지적 - 뉴시스",
+    "postId": "b93f0205f8264f001e8ca223af6e57e76528eb9309a7865c884e7ffcd96c8ed3",
+    "title": "송영길 “李, 정청래 억울함 4시간 들어줘”…정 “입조심 하라” - 미주중앙일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45740697858",
-    "sentAt": "2026-11-26T02:11:15.411Z"
+    "runId": "45741814332",
+    "sentAt": "2026-11-26T02:21:17.498Z"
   }
 }
