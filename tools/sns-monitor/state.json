@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T16:51:14.300Z",
+  "lastCheckedAt": "2026-11-26T17:01:16.154Z",
   "seenPostIds": {
     "a056b078ed6e2662ed21bb34efcfaf1eb0f529e236bb1ee686473d90bfc14baa": {
       "seenAt": "2026-11-24T08:11:24.282Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-26T16:41:16.742Z",
       "title": "Trump says he asked Putin to stop military aggression in Europe - Українська правда",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "e37dfefc8615b01a031cbc031422698ebc049c1f1d756297a3cdf69789bd4d7b": {
+      "seenAt": "2026-11-26T17:01:18.258Z",
+      "title": "Trump demands probe into preelection GDP data, alleges ‘purposeful’ error - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "aed57e5977ab1c654617e4918665bffbf45596a8391018aac3310da9b976eb23": {
+      "seenAt": "2026-11-26T17:01:18.905Z",
+      "title": "Trump says he'd like to see Putin 'pull back' military aggression in Europe - Reuters",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "ed0656f342820d2b666a4c7ace243c8d00cc3d7c25a403b86eec9b54c5c5fcf0",
-    "title": "Trump says he asked Putin to stop military aggression in Europe - Українська правда",
+    "postId": "aed57e5977ab1c654617e4918665bffbf45596a8391018aac3310da9b976eb23",
+    "title": "Trump says he'd like to see Putin 'pull back' military aggression in Europe - Reuters",
     "bot": "jongsuk_pol_bot",
-    "runId": "45861008551",
-    "sentAt": "2026-11-26T16:41:16.054Z"
+    "runId": "45863998743",
+    "sentAt": "2026-11-26T17:01:18.592Z"
   }
 }

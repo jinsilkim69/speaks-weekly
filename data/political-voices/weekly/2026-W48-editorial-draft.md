@@ -10986,3 +10986,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump demands probe into preelection GDP data, alleges ‘purposeful’ error - The Hill
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump demands probe into preelection GDP data, alleges ‘purposeful’ error
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2xlSFJjT0RSdHc5VXdIR0FScUREd081MU85bUpGdWZBNjNnTklJRVBMTnR6cF9MTThQZzh1RzdZR1htS0Zoc0xQUHM4T0RoRmk1d3BqdlI5d3UxckVTUjJxV1dGVmNCVERjSkRnTGpSY1VROGFnR2ctV2lpN1pMM1JxbUV5Z1hv0gGOAUFVX3lxTE5yd2tfQ29MRXA5R1FkTVFOa1FORWFURzh5MU5lWUZoQnNBZWRBSmNpb2diVUpmNVF3anFmWFA4d1ozVDUwTjhiRTMxVjluZ3lSMmVuMDF6VHBNVHRQeFQ1VEZFTmdnY1lMVU80SDFBQ3lydVlTbFpNVFZmT2QzTHZ5ZlFlejc0RDkxNWo3RVE?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says he'd like to see Putin 'pull back' military aggression in Europe - Reuters
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says he'd like to see Putin 'pull back' military aggression in Europe
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5)
+
+---
+
