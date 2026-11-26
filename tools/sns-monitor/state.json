@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T13:31:16.454Z",
+  "lastCheckedAt": "2026-11-26T13:41:14.139Z",
   "seenPostIds": {
-    "4418effb84606382886d5904862c0ff1ed1f096ff361d476c3baf24fd57c803c": {
-      "seenAt": "2026-11-24T05:31:19.197Z",
-      "title": "신장식 “항만공사 통합 용역 중단하고 실익부터 검증해야” - 포인트데일리",
-      "targetName": "신장식"
-    },
-    "17c664e545e4a23142d2a025c1d7a604f474a216ac95c8592ac16db6ca152372": {
-      "seenAt": "2026-11-24T05:31:19.809Z",
-      "title": "이준석 \"강금실은 더 진한 오답…워싱턴 '中인민정부 특별고문' 믿겠나\" - 머니투데이 - 머니투데이",
-      "targetName": "이준석"
-    },
-    "d9df7ac329452c0ce864857bfac993e4edb5b9fc5c06d2b41b67c48376f9b65f": {
-      "seenAt": "2026-11-24T05:41:16.280Z",
-      "title": "김정철 \"한동훈, 이준석 징계랑 똑같아…장동혁 형사처벌 가능\" - 조세일보",
-      "targetName": "이준석"
-    },
     "031fb4ee2c379b91fe5f3598771afa27e44eff0b80dde4dbcb8d4e2cbe43bb9a": {
       "seenAt": "2026-11-24T05:41:16.894Z",
       "title": "신장식 의원,항만공사 통합 ‘졸속 논란’…4억 용역도 통합 전제 - 브릿지경제",
@@ -2515,14 +2500,46 @@
       "seenAt": "2026-11-26T13:31:19.434Z",
       "title": "조국 “공공기관 이전 부지 매각 말고 공공주택 지어야” - 조세일보",
       "targetName": "조국"
+    },
+    "e676d41d17bb6645e600476bc7811aac00b3a7087a1f5efb4b877cf7fdfd26ce": {
+      "seenAt": "2026-11-26T13:41:15.312Z",
+      "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스",
+      "targetName": "김민석"
+    },
+    "e12ec423ca184fdd10c29f8f1878c808fbbc3934c7c1398793e361459ba36a4d": {
+      "seenAt": "2026-11-26T13:41:15.993Z",
+      "title": "민주당 중진 12명 만찬 회동…김민석·정청래 만남은 불발 - 뉴스1",
+      "targetName": "정청래"
+    },
+    "0f6dca43d2d1dcde61d45c76da75bbe3a08f1228d911b899c55df1cf51061636": {
+      "seenAt": "2026-11-26T13:41:16.699Z",
+      "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스",
+      "targetName": "정청래"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "ec2a71c67f30b6f1662b95c7c99dbc595e867fbc0ad6c2bcf65ff2029c12749b",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation - The Hill",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXd5cEM3a3dfVzdKTHl0ZHhXcXNfZktBTWI0ZzA1Y0EwTWMteTNRR1dzd2ZVN2R3d3VUUjdybm9YNDlmX0hUSk1NSWM0Y3dBbVJWQ19vMG9ranpuZ2lRMkl4Nkh1X2h6cG45YVk3MW5pY1FIa21WWFYzSFEtcGtaT1dlSU1BUzgtYXR4UzZweEt6QmVRcFp4dGVUQk41Sm5SdnfSAacBQVVfeXFMTjM0M2ROMXdXNDk0c1VRMUQxUzl4dEFuSHZCTGFGYmxXM1RxdDFrdXZFb0ROWWtSc0ZNNkxjdlRCcjFwSzVIeGFISFd0eklvY0M4RVlLRG5BaHl1VmJfcEZ2dXhhVzZHc3A2VlBYVWpRazhJb1lsYzU0MnBYWUpmajFmUFd3VGJ0VmthUUtmRmR5SkpfZkd0dHJSQ2tuaDhmbjhOYkxaYUU?oc=5\" target=\"_blank\">Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXd5cEM3a3dfVzdKTHl0ZHhXcXNfZktBTWI0ZzA1Y0EwTWMteTNRR1dzd2ZVN2R3d3VUUjdybm9YNDlmX0hUSk1NSWM0Y3dBbVJWQ19vMG9ranpuZ2lRMkl4Nkh1X2h6cG45YVk3MW5pY1FIa21WWFYzSFEtcGtaT1dlSU1BUzgtYXR4UzZweEt6QmVRcFp4dGVUQk41Sm5SdnfSAacBQVVfeXFMTjM0M2ROMXdXNDk0c1VRMUQxUzl4dEFuSHZCTGFGYmxXM1RxdDFrdXZFb0ROWWtSc0ZNNkxjdlRCcjFwSzVIeGFISFd0eklvY0M4RVlLRG5BaHl1VmJfcEZ2dXhhVzZHc3A2VlBYVWpRazhJb1lsYzU0MnBYWUpmajFmUFd3VGJ0VmthUUtmRmR5SkpfZkd0dHJSQ2tuaDhmbjhOYkxaYUU?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 13:08:00 GMT",
+        "source": "The Hill",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "300f52479c7f0d94c68db7fe4bab9c19b5d2222ed0e17e67cd20239b02829e3a",
-    "title": "조국 “공공기관 이전 부지 매각 말고 공공주택 지어야” - 조세일보",
+    "postId": "0f6dca43d2d1dcde61d45c76da75bbe3a08f1228d911b899c55df1cf51061636",
+    "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45829887833",
-    "sentAt": "2026-11-26T13:31:19.041Z"
+    "runId": "45831518492",
+    "sentAt": "2026-11-26T13:41:16.359Z"
   }
 }

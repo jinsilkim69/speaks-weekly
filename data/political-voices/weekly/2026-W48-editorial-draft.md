@@ -10531,3 +10531,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與중진들, 만찬회동서 "단결·민생전념"…김민석·정청래는 불참 - 연합뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與중진들, 만찬회동서 "단결·민생전념"…김민석·정청래는 불참
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE03OVROVEJVU3dNRlUyMk5GVHppVTZBek5XSU80am8wUWk4SVByN1hKX2JwODJDYURWa3Z2R2RfNENOVG9LMFVOUm1qazJTaU9RR01iQVhidS1jemvSAWBBVV95cUxOaEg1TjM4OWdpaEc0blZ5aXFGWGExdG5MdzNwYVkxVVM0Rm9yZEl0Q0NuRW1UNXFKQk1EclBMWlBpaGhPM05pODlhRmhFMnk2c1I3d3pLaDZEVnFjZ2JsWmI?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 민주당 중진 12명 만찬 회동…김민석·정청래 만남은 불발 - 뉴스1
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 중진 12명 만찬 회동…김민석·정청래 만남은 불발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vblh3YVlGeVF0TWswQnl0d3lXd3c3b0RqR2xDMnUwQWtvTkI3SHhUd3NRdGNFUUJueTVoOWEtaW12MUZsTDBzbTEtbXY1ZVVIMU5xcFc0QnJRUQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 與중진들, 만찬회동서 "단결·민생전념"…김민석·정청래는 불참 - 연합뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與중진들, 만찬회동서 "단결·민생전념"…김민석·정청래는 불참
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE03OVROVEJVU3dNRlUyMk5GVHppVTZBek5XSU80am8wUWk4SVByN1hKX2JwODJDYURWa3Z2R2RfNENOVG9LMFVOUm1qazJTaU9RR01iQVhidS1jemvSAWBBVV95cUxOaEg1TjM4OWdpaEc0blZ5aXFGWGExdG5MdzNwYVkxVVM0Rm9yZEl0Q0NuRW1UNXFKQk1EclBMWlBpaGhPM05pODlhRmhFMnk2c1I3d3pLaDZEVnFjZ2JsWmI?oc=5)
+
+---
+
