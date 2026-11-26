@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T06:11:19.237Z",
+  "lastCheckedAt": "2026-11-26T06:21:17.829Z",
   "seenPostIds": {
     "06847ff7d0a322987095878ab774355f76bdfd2af84b8abdeb3027c65c3fc285": {
       "seenAt": "2026-11-23T20:11:17.432Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-26T06:01:15.995Z",
       "title": "Trump posts picture of the sign of the road named after him - The Palm Beach Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "402db8f1c7ac702b1f4570530da9eae1617680d0cfc3c094a45cdc5f7adea716": {
+      "seenAt": "2026-11-26T06:21:19.221Z",
+      "title": "김민석 vs 정청래 중재하려다…\"송영길, 입이 싸다\" - SBS 뉴스",
+      "targetName": "송영길"
+    },
+    "09b05654e183278834ed5a37ea94837742ab799fccd86f8d41fdacf097bbfdc5": {
+      "seenAt": "2026-11-26T06:21:19.993Z",
+      "title": "‘日입국 거부’ 조국, 다음 달 7일 독도 재방문 - 헤럴드경제",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "24ef446d8c6f88c7998ead8a6379a85580f9e41b228ec9cde3acd002cc8c3374",
-    "title": "Trump posts picture of the sign of the road named after him - The Palm Beach Post",
+    "postId": "09b05654e183278834ed5a37ea94837742ab799fccd86f8d41fdacf097bbfdc5",
+    "title": "‘日입국 거부’ 조국, 다음 달 7일 독도 재방문 - 헤럴드경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45765305127",
-    "sentAt": "2026-11-26T06:01:15.650Z"
+    "runId": "45767573913",
+    "sentAt": "2026-11-26T06:21:19.611Z"
   }
 }
