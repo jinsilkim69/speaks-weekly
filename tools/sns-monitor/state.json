@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T10:11:15.206Z",
+  "lastCheckedAt": "2026-11-26T10:21:14.368Z",
   "seenPostIds": {
-    "3ecacf9086fa73533aea1014ed6f38e4e05632ed1df9b8c0606d20481cd21e2e": {
-      "seenAt": "2026-11-24T03:51:15.909Z",
-      "title": "민주당·조국혁신당 부산시당 \"국제신문 정상화 길 열려 환영\" - 국제신문",
-      "targetName": "조국"
-    },
     "9d93fc40fefa5c53c357b63e6893d7222390e1d1b89f275d7f68b628e0fde5ea": {
       "seenAt": "2026-11-24T03:51:16.541Z",
       "title": "'I made the deal': Trump says he 'convinced' Nvidia board to reinstate Jensen Huang - ABC News - Breaking News, Latest News and Videos",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-26T10:11:16.867Z",
       "title": "송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트] - YTN",
       "targetName": "정청래"
+    },
+    "bec31332835b38b3c895bc412286df1bf3fcbd25d74e53a162f79669e4e46207": {
+      "seenAt": "2026-11-26T10:21:15.743Z",
+      "title": "친청 지지층 28일 김민석 사퇴 촉구 집회…여권 분열 심화 - 법치뉴스",
+      "targetName": "김민석"
+    },
+    "c88082cc16d40a266d4bd8cb5432c24d53ad858b8cacec08487d8db9d503f044": {
+      "seenAt": "2026-11-26T10:21:16.459Z",
+      "title": "\"정청래 결자해지 (=김민석 사퇴해!)\" #shorts - OhmyNews",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "0885de0fe28fd9671bd0506ec1652be6a8fb0b7963f932cf24471cebf8376c7f",
-    "title": "송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트] - YTN",
+    "postId": "c88082cc16d40a266d4bd8cb5432c24d53ad858b8cacec08487d8db9d503f044",
+    "title": "\"정청래 결자해지 (=김민석 사퇴해!)\" #shorts - OhmyNews",
     "bot": "jongsuk_pol_bot",
-    "runId": "45798914331",
-    "sentAt": "2026-11-26T10:11:16.141Z"
+    "runId": "45800488240",
+    "sentAt": "2026-11-26T10:21:16.094Z"
   }
 }

@@ -10115,3 +10115,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 친청 지지층 28일 김민석 사퇴 촉구 집회…여권 분열 심화 - 법치뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 친청 지지층 28일 김민석 사퇴 촉구 집회…여권 분열 심화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IcmM0d1RDSFhWNDhqSDN1Y1ppY1djcWJnRzlpMWdkYTBMSkhsVkxoU0hWOG1qYl9EdHlYU3pQMnF1RjVYWlhiYXkzN0NZNU9WZmh1V3hsWWM3V3hMSHlQYnRSeURiUdIBaEFVX3lxTFBpVVJBR3VoZU9vYzk2NkpwYXZGejJia1NsQUF3bTQzbkt1T2x0U2M0S2tjMVptdGE1cXhVbXBBTzNNYncwV2lWMTBCcF9XYzJpdVpWaHRldjA2TjhLQUpTMWFOeURiYTVN?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** "정청래 결자해지 (=김민석 사퇴해!)" #shorts - OhmyNews
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "정청래 결자해지 (=김민석 사퇴해!)" #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE9yX1RqTFZNSWdsTUtBNlc0cHphZnBvSnlGNHhFZHIwYUhfT2ZDV201ZHJPQmdKeTVlV0NHbDZCbUE0dGVqSjNFYWNHN2xyLXdOcWc2THc4NlVCNlRCVlJvVzVic3BTdUd6V0pad3lmNUZXczV4UTVDb3FyX0JId0E?oc=5)
+
+---
+

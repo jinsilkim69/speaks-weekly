@@ -4025,5 +4025,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "bec31332835b38b3c895bc412286df1bf3fcbd25d74e53a162f79669e4e46207",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "친청 지지층 28일 김민석 사퇴 촉구 집회…여권 분열 심화 - 법치뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IcmM0d1RDSFhWNDhqSDN1Y1ppY1djcWJnRzlpMWdkYTBMSkhsVkxoU0hWOG1qYl9EdHlYU3pQMnF1RjVYWlhiYXkzN0NZNU9WZmh1V3hsWWM3V3hMSHlQYnRSeURiUdIBaEFVX3lxTFBpVVJBR3VoZU9vYzk2NkpwYXZGejJia1NsQUF3bTQzbkt1T2x0U2M0S2tjMVptdGE1cXhVbXBBTzNNYncwV2lWMTBCcF9XYzJpdVpWaHRldjA2TjhLQUpTMWFOeURiYTVN?oc=5\" target=\"_blank\">친청 지지층 28일 김민석 사퇴 촉구 집회…여권 분열 심화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">법치뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IcmM0d1RDSFhWNDhqSDN1Y1ppY1djcWJnRzlpMWdkYTBMSkhsVkxoU0hWOG1qYl9EdHlYU3pQMnF1RjVYWlhiYXkzN0NZNU9WZmh1V3hsWWM3V3hMSHlQYnRSeURiUdIBaEFVX3lxTFBpVVJBR3VoZU9vYzk2NkpwYXZGejJia1NsQUF3bTQzbkt1T2x0U2M0S2tjMVptdGE1cXhVbXBBTzNNYncwV2lWMTBCcF9XYzJpdVpWaHRldjA2TjhLQUpTMWFOeURiYTVN?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 09:30:51 GMT",
+    "source": "법치뉴스",
+    "ageHours": 0.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 친청 지지층 28일 김민석 사퇴 촉구 집회…여권 분열 심화",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "c88082cc16d40a266d4bd8cb5432c24d53ad858b8cacec08487d8db9d503f044",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "\"정청래 결자해지 (=김민석 사퇴해!)\" #shorts - OhmyNews",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9yX1RqTFZNSWdsTUtBNlc0cHphZnBvSnlGNHhFZHIwYUhfT2ZDV201ZHJPQmdKeTVlV0NHbDZCbUE0dGVqSjNFYWNHN2xyLXdOcWc2THc4NlVCNlRCVlJvVzVic3BTdUd6V0pad3lmNUZXczV4UTVDb3FyX0JId0E?oc=5\" target=\"_blank\">\"정청래 결자해지 (=김민석 사퇴해!)\" #shorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yX1RqTFZNSWdsTUtBNlc0cHphZnBvSnlGNHhFZHIwYUhfT2ZDV201ZHJPQmdKeTVlV0NHbDZCbUE0dGVqSjNFYWNHN2xyLXdOcWc2THc4NlVCNlRCVlJvVzVic3BTdUd6V0pad3lmNUZXczV4UTVDb3FyX0JId0E?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 07:35:29 GMT",
+    "source": "OhmyNews",
+    "ageHours": 2.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"정청래 결자해지 (=김민석 사퇴해!)\" #shorts",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
