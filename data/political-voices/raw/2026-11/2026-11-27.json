@@ -298,5 +298,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "aa40fb3a613b629de974d3a656b80dfc0c6a00a9d0b7d90059e361c540181eeb",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참 - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNdIBeEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNQ?oc=5\" target=\"_blank\">與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNdIBeEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNQ?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 14:48:57 GMT",
+    "source": "뉴시스",
+    "ageHours": 1.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "c0ad6430b5cc2a5f4418503465813e289b246b0311298fd8d1173c06033c3b1a",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Donald Trump Shares Thanksgiving Message With Boast About U.S. Economy - Newsweek",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUFQRktXT2RFUmM4UWQ4NDVsdkd0Tk82ZVAwMXlOZnFQN1d2ajRlNUZIajdUNjM5ZVR6eXdrNkh3ZW51ZVo3WTdWVUpYX3dvaFNWQU5zZDhaWmRlOTN2X0VYXzFxZFkzN3dBZnd1SUhXOUVqM1hDaGVvRnVXYjNjbUZtNlpYZ1lKS0J1Mm55UGZTdkJ5TkRTb2ZOQ3ZfRGUzcHUzRw?oc=5\" target=\"_blank\">Donald Trump Shares Thanksgiving Message With Boast About U.S. Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUFQRktXT2RFUmM4UWQ4NDVsdkd0Tk82ZVAwMXlOZnFQN1d2ajRlNUZIajdUNjM5ZVR6eXdrNkh3ZW51ZVo3WTdWVUpYX3dvaFNWQU5zZDhaWmRlOTN2X0VYXzFxZFkzN3dBZnd1SUhXOUVqM1hDaGVvRnVXYjNjbUZtNlpYZ1lKS0J1Mm55UGZTdkJ5TkRTb2ZOQ3ZfRGUzcHUzRw?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 14:55:00 GMT",
+    "source": "Newsweek",
+    "ageHours": 1.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Donald Trump Shares Thanksgiving Message With Boast About U.S. Economy",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

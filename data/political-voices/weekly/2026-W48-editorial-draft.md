@@ -10947,3 +10947,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참 - 뉴시스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNdIBeEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump Shares Thanksgiving Message With Boast About U.S. Economy - Newsweek
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump Shares Thanksgiving Message With Boast About U.S. Economy
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUFQRktXT2RFUmM4UWQ4NDVsdkd0Tk82ZVAwMXlOZnFQN1d2ajRlNUZIajdUNjM5ZVR6eXdrNkh3ZW51ZVo3WTdWVUpYX3dvaFNWQU5zZDhaWmRlOTN2X0VYXzFxZFkzN3dBZnd1SUhXOUVqM1hDaGVvRnVXYjNjbUZtNlpYZ1lKS0J1Mm55UGZTdkJ5TkRTb2ZOQ3ZfRGUzcHUzRw?oc=5)
+
+---
+

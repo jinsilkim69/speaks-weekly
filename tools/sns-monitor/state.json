@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T16:01:16.050Z",
+  "lastCheckedAt": "2026-11-26T16:11:15.745Z",
   "seenPostIds": {
     "daa17090a0bb100cd2288416e2862893ae33ac76b47036874710b79a8f0701e7": {
       "seenAt": "2026-11-24T08:01:15.260Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-26T15:51:21.005Z",
       "title": "정청래, 김민석과 화해 요구에 \"악수한다고 해결되나\" | - 대전일보",
       "targetName": "김민석"
+    },
+    "aa40fb3a613b629de974d3a656b80dfc0c6a00a9d0b7d90059e361c540181eeb": {
+      "seenAt": "2026-11-26T16:11:16.905Z",
+      "title": "與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참 - 뉴시스",
+      "targetName": "정청래"
+    },
+    "c0ad6430b5cc2a5f4418503465813e289b246b0311298fd8d1173c06033c3b1a": {
+      "seenAt": "2026-11-26T16:11:17.542Z",
+      "title": "Donald Trump Shares Thanksgiving Message With Boast About U.S. Economy - Newsweek",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "560c66e2a82e1bce8432f9f787d93cb6050713f12b835307699e9bfbeea92ab1",
-    "title": "정청래, 김민석과 화해 요구에 \"악수한다고 해결되나\" | - 대전일보",
+    "postId": "c0ad6430b5cc2a5f4418503465813e289b246b0311298fd8d1173c06033c3b1a",
+    "title": "Donald Trump Shares Thanksgiving Message With Boast About U.S. Economy - Newsweek",
     "bot": "jongsuk_pol_bot",
-    "runId": "45853127992",
-    "sentAt": "2026-11-26T15:51:20.710Z"
+    "runId": "45856329089",
+    "sentAt": "2026-11-26T16:11:17.225Z"
   }
 }
