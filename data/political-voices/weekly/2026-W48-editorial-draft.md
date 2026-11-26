@@ -8542,3 +8542,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "오세훈, 서울시정 대권준비 징검다리로 활용…깊이 자성해야" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "오세훈, 서울시정 대권준비 징검다리로 활용…깊이 자성해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE5YSklXZ29YVjdyT3pNdG8wMDFsQzNSZWx6M0w1dXZ3OV9UWW1Mc1RiZTZKeHgzbDR5NmpsUUpCS05xUlR1QkZEMk9zTGVyM0lySUFVUnNnZTNvcEY5NmlCNVIzc2VoalRRS2U4SzBXbWZyZ9IBckFVX3lxTE5YSklXZ29YVjdyT3pNdG8wMDFsQzNSZWx6M0w1dXZ3OV9UWW1Mc1RiZTZKeHgzbDR5NmpsUUpCS05xUlR1QkZEMk9zTGVyM0lySUFVUnNnZTNvcEY5NmlCNVIzc2VoalRRS2U4SzBXbWZyZw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 “오세훈, 서울시정을 대권준비 징검다리로…자성해야” - 중앙일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 “오세훈, 서울시정을 대권준비 징검다리로…자성해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aM2hleGlRX0RBY2tlUEVIZEplcGlkc3NCeU00SVdiSy16cTh6ay10X1dGWWEyYlFWMnJuWkFYUmpXVkVHemEtTEtTN1hjUWJObWZTVDl3?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 정청래 설전, 4시간 넘는 대통령 회동 후일담에 ‘입조심’ 경고…무슨 일이 - CBC뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 정청래 설전, 4시간 넘는 대통령 회동 후일담에 ‘입조심’ 경고…무슨 일이
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTRVJxcTlfXzZ6XzI3YVVGeWlVTUs4TjFiX0hDWXdSclhRYzJMWUN4VzV2SnZObXVRTXl4RDR0TERlWEkyNWFwMkhtamJKUnFRUmloVlpIODhKVTNsNzJabGNDdG1KTmdn?oc=5)
+
+---
+
