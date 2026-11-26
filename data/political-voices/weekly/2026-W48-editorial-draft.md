@@ -10921,3 +10921,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참 - 뉴시스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNdIBeEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석과 화해 요구에 "악수한다고 해결되나" | - 대전일보
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석과 화해 요구에 "악수한다고 해결되나" |
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE42S2tOdmhIREU0WlNkS2xPVHRGenlsUFpQZkhXUFpLbTBUekhBRUNWSXFBYTdYcVl2ZHEtck1aRlJVS1MyMEtlMTloRzI2c2wxN2xGLW9Fa05JYVN0eEJGSUdZMWlhbUtkN1pqY2Q5TWlzVms?oc=5)
+
+---
+

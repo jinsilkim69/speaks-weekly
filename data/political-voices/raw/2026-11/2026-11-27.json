@@ -248,5 +248,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "146efeb0fc18c1d9d9ebc9f663331ea052365b4652fd41b22e683f4720d930df",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참 - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNdIBeEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNQ?oc=5\" target=\"_blank\">與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNdIBeEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNQ?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 14:48:57 GMT",
+    "source": "뉴시스",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "560c66e2a82e1bce8432f9f787d93cb6050713f12b835307699e9bfbeea92ab1",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "정청래, 김민석과 화해 요구에 \"악수한다고 해결되나\" | - 대전일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE42S2tOdmhIREU0WlNkS2xPVHRGenlsUFpQZkhXUFpLbTBUekhBRUNWSXFBYTdYcVl2ZHEtck1aRlJVS1MyMEtlMTloRzI2c2wxN2xGLW9Fa05JYVN0eEJGSUdZMWlhbUtkN1pqY2Q5TWlzVms?oc=5\" target=\"_blank\">정청래, 김민석과 화해 요구에 \"악수한다고 해결되나\" |</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42S2tOdmhIREU0WlNkS2xPVHRGenlsUFpQZkhXUFpLbTBUekhBRUNWSXFBYTdYcVl2ZHEtck1aRlJVS1MyMEtlMTloRzI2c2wxN2xGLW9Fa05JYVN0eEJGSUdZMWlhbUtkN1pqY2Q5TWlzVms?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 13:41:57 GMT",
+    "source": "대전일보",
+    "ageHours": 2.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래, 김민석과 화해 요구에 \"악수한다고 해결되나\" |",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

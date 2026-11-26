@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T15:41:14.479Z",
+  "lastCheckedAt": "2026-11-26T15:51:19.166Z",
   "seenPostIds": {
-    "48af8054f09697402466aee9c74b2632ddec90abbe3d3443c968ea730922527f": {
-      "seenAt": "2026-11-24T07:41:17.011Z",
-      "title": "장동혁 \"당 입장 듣는 게 당연\"…한동훈 \"배후 조종 인정\" - 한국경제",
-      "targetName": "한동훈"
-    },
     "9ce641cdc1ccbe4e5f70dc7f85f616bc9634836e53d40fed34e0563eab978a50": {
       "seenAt": "2026-11-24T07:41:17.612Z",
       "title": "이준석 “장동혁으로는 선거 쉽지 않아, 한동훈식 검찰 정치는 위험” - 중앙일보",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-26T15:41:15.962Z",
       "title": "Trump demands probe of GDP data released before midterms - KFGO",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "146efeb0fc18c1d9d9ebc9f663331ea052365b4652fd41b22e683f4720d930df": {
+      "seenAt": "2026-11-26T15:51:20.418Z",
+      "title": "與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참 - 뉴시스",
+      "targetName": "김민석"
+    },
+    "560c66e2a82e1bce8432f9f787d93cb6050713f12b835307699e9bfbeea92ab1": {
+      "seenAt": "2026-11-26T15:51:21.005Z",
+      "title": "정청래, 김민석과 화해 요구에 \"악수한다고 해결되나\" | - 대전일보",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "921d43c2df7a3be8baef687c2461db3ccfbc0e1c9d99c2dcf9b8d6b04649cd44",
-    "title": "Trump demands probe of GDP data released before midterms - KFGO",
+    "postId": "560c66e2a82e1bce8432f9f787d93cb6050713f12b835307699e9bfbeea92ab1",
+    "title": "정청래, 김민석과 화해 요구에 \"악수한다고 해결되나\" | - 대전일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45851516796",
-    "sentAt": "2026-11-26T15:41:15.343Z"
+    "runId": "45853127992",
+    "sentAt": "2026-11-26T15:51:20.710Z"
   }
 }
