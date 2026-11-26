@@ -10570,3 +10570,42 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation - The Hill
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXd5cEM3a3dfVzdKTHl0ZHhXcXNfZktBTWI0ZzA1Y0EwTWMteTNRR1dzd2ZVN2R3d3VUUjdybm9YNDlmX0hUSk1NSWM0Y3dBbVJWQ19vMG9ranpuZ2lRMkl4Nkh1X2h6cG45YVk3MW5pY1FIa21WWFYzSFEtcGtaT1dlSU1BUzgtYXR4UzZweEt6QmVRcFp4dGVUQk41Sm5SdnfSAacBQVVfeXFMTjM0M2ROMXdXNDk0c1VRMUQxUzl4dEFuSHZCTGFGYmxXM1RxdDFrdXZFb0ROWWtSc0ZNNkxjdlRCcjFwSzVIeGFISFd0eklvY0M4RVlLRG5BaHl1VmJfcEZ2dXhhVzZHc3A2VlBYVWpRazhJb1lsYzU0MnBYWUpmajFmUFd3VGJ0VmthUUtmRmR5SkpfZkd0dHJSQ2tuaDhmbjhOYkxaYUU?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 민주 중진들 김빠진 만찬 회동, 김민석·정청래 빠진 자리에서 “단합하고 단결” - 주간경향
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주 중진들 김빠진 만찬 회동, 김민석·정청래 빠진 자리에서 “단합하고 단결”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xa2pVSDdQUWdkNDJHWXBZWUFMaGxMOWxhNVJjQ0RSUnlRQUNpeUZMOU50WkhYR3JfRnFMY3ppRWRyZnlrWFgwSEZaZTY0QW5iRkY5Q25TbFNJcVI2Znc?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump’s Secret Fury Revealed After Frantic White House Scramble - The Daily Beast
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump’s Secret Fury Revealed After Frantic White House Scramble
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiswFBVV95cUxOSE4waUgzRGNKR09SLV9jeTRoano0ek9RdU5POGVTN2tGRkZnZnVFb29nOXZzcVZRLWItY0xzMGZFd2hKQ2F2dk9LM1NQeHBZZ1h5OEZ0TVJjaGcySHVSd1Y5bGNpc2VyeEZPVm5xd29fNm5nX2FrSGV4R0VBWlFNQmxlYU1qSzNJdVhlU01tSGxuSk1xN2pMd2p4ZUw5TTJhV0ExTDY3cm5iQlRqV19rRkdFUQ?oc=5)
+
+---
+

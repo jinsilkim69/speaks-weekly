@@ -4903,5 +4903,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "ec2a71c67f30b6f1662b95c7c99dbc595e867fbc0ad6c2bcf65ff2029c12749b",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation - The Hill",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXd5cEM3a3dfVzdKTHl0ZHhXcXNfZktBTWI0ZzA1Y0EwTWMteTNRR1dzd2ZVN2R3d3VUUjdybm9YNDlmX0hUSk1NSWM0Y3dBbVJWQ19vMG9ranpuZ2lRMkl4Nkh1X2h6cG45YVk3MW5pY1FIa21WWFYzSFEtcGtaT1dlSU1BUzgtYXR4UzZweEt6QmVRcFp4dGVUQk41Sm5SdnfSAacBQVVfeXFMTjM0M2ROMXdXNDk0c1VRMUQxUzl4dEFuSHZCTGFGYmxXM1RxdDFrdXZFb0ROWWtSc0ZNNkxjdlRCcjFwSzVIeGFISFd0eklvY0M4RVlLRG5BaHl1VmJfcEZ2dXhhVzZHc3A2VlBYVWpRazhJb1lsYzU0MnBYWUpmajFmUFd3VGJ0VmthUUtmRmR5SkpfZkd0dHJSQ2tuaDhmbjhOYkxaYUU?oc=5\" target=\"_blank\">Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXd5cEM3a3dfVzdKTHl0ZHhXcXNfZktBTWI0ZzA1Y0EwTWMteTNRR1dzd2ZVN2R3d3VUUjdybm9YNDlmX0hUSk1NSWM0Y3dBbVJWQ19vMG9ranpuZ2lRMkl4Nkh1X2h6cG45YVk3MW5pY1FIa21WWFYzSFEtcGtaT1dlSU1BUzgtYXR4UzZweEt6QmVRcFp4dGVUQk41Sm5SdnfSAacBQVVfeXFMTjM0M2ROMXdXNDk0c1VRMUQxUzl4dEFuSHZCTGFGYmxXM1RxdDFrdXZFb0ROWWtSc0ZNNkxjdlRCcjFwSzVIeGFISFd0eklvY0M4RVlLRG5BaHl1VmJfcEZ2dXhhVzZHc3A2VlBYVWpRazhJb1lsYzU0MnBYWUpmajFmUFd3VGJ0VmthUUtmRmR5SkpfZkd0dHJSQ2tuaDhmbjhOYkxaYUU?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 13:08:00 GMT",
+    "source": "The Hill",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "1d72c4d466cb0099a7ef77dd36a19c9a5a613aefa80032ed6fc3551feb29aa2e",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "민주 중진들 김빠진 만찬 회동, 김민석·정청래 빠진 자리에서 “단합하고 단결” - 주간경향",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xa2pVSDdQUWdkNDJHWXBZWUFMaGxMOWxhNVJjQ0RSUnlRQUNpeUZMOU50WkhYR3JfRnFMY3ppRWRyZnlrWFgwSEZaZTY0QW5iRkY5Q25TbFNJcVI2Znc?oc=5\" target=\"_blank\">민주 중진들 김빠진 만찬 회동, 김민석·정청래 빠진 자리에서 “단합하고 단결”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xa2pVSDdQUWdkNDJHWXBZWUFMaGxMOWxhNVJjQ0RSUnlRQUNpeUZMOU50WkhYR3JfRnFMY3ppRWRyZnlrWFgwSEZaZTY0QW5iRkY5Q25TbFNJcVI2Znc?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 13:43:00 GMT",
+    "source": "주간경향",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주 중진들 김빠진 만찬 회동, 김민석·정청래 빠진 자리에서 “단합하고 단결”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "ae0c62901706e21c62b2c9806f6d1cefca03090815b3fa235ea334ac6ac5a81a",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump’s Secret Fury Revealed After Frantic White House Scramble - The Daily Beast",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSE4waUgzRGNKR09SLV9jeTRoano0ek9RdU5POGVTN2tGRkZnZnVFb29nOXZzcVZRLWItY0xzMGZFd2hKQ2F2dk9LM1NQeHBZZ1h5OEZ0TVJjaGcySHVSd1Y5bGNpc2VyeEZPVm5xd29fNm5nX2FrSGV4R0VBWlFNQmxlYU1qSzNJdVhlU01tSGxuSk1xN2pMd2p4ZUw5TTJhV0ExTDY3cm5iQlRqV19rRkdFUQ?oc=5\" target=\"_blank\">Trump’s Secret Fury Revealed After Frantic White House Scramble</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Beast</font>",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSE4waUgzRGNKR09SLV9jeTRoano0ek9RdU5POGVTN2tGRkZnZnVFb29nOXZzcVZRLWItY0xzMGZFd2hKQ2F2dk9LM1NQeHBZZ1h5OEZ0TVJjaGcySHVSd1Y5bGNpc2VyeEZPVm5xd29fNm5nX2FrSGV4R0VBWlFNQmxlYU1qSzNJdVhlU01tSGxuSk1xN2pMd2p4ZUw5TTJhV0ExTDY3cm5iQlRqV19rRkdFUQ?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 11:21:59 GMT",
+    "source": "The Daily Beast",
+    "ageHours": 2.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump’s Secret Fury Revealed After Frantic White House Scramble",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

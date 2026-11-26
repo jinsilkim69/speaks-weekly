@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T13:41:14.139Z",
+  "lastCheckedAt": "2026-11-26T13:51:19.231Z",
   "seenPostIds": {
-    "031fb4ee2c379b91fe5f3598771afa27e44eff0b80dde4dbcb8d4e2cbe43bb9a": {
-      "seenAt": "2026-11-24T05:41:16.894Z",
-      "title": "신장식 의원,항만공사 통합 ‘졸속 논란’…4억 용역도 통합 전제 - 브릿지경제",
-      "targetName": "신장식"
-    },
-    "60bc593bd73a2177831eeabba5854eb9aba9169e46121c56d5aad378bc3e2bd2": {
-      "seenAt": "2026-11-24T05:41:17.537Z",
-      "title": "이준석, 강금실 국정원장 지명에 \"뜬금포…전문성 빼고 해명거리 더해\" - 뉴시스",
-      "targetName": "이준석"
-    },
-    "24b4d7110d99c131936909ddaee936148d734b6f766d8ecdd04f71d626ff06c2": {
-      "seenAt": "2026-11-24T05:51:20.661Z",
-      "title": "이재명 대통령 ‘대장동’ 글 올리자…국힘 \"할 말 많으면 재판부터\" - JTBC",
-      "targetName": "이재명"
-    },
     "24020025b705830ea30170405552fc522d454a7cadb0517dfb2df7895980ac29": {
       "seenAt": "2026-11-24T05:51:21.430Z",
       "title": "공수처, '한동훈 딸 허위 스펙' 수사 무마 의혹 수사4부 배당 - 한국경제",
@@ -2515,31 +2500,29 @@
       "seenAt": "2026-11-26T13:41:16.699Z",
       "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스",
       "targetName": "정청래"
+    },
+    "ec2a71c67f30b6f1662b95c7c99dbc595e867fbc0ad6c2bcf65ff2029c12749b": {
+      "seenAt": "2026-11-26T13:51:20.873Z",
+      "title": "Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "1d72c4d466cb0099a7ef77dd36a19c9a5a613aefa80032ed6fc3551feb29aa2e": {
+      "seenAt": "2026-11-26T13:51:21.672Z",
+      "title": "민주 중진들 김빠진 만찬 회동, 김민석·정청래 빠진 자리에서 “단합하고 단결” - 주간경향",
+      "targetName": "정청래"
+    },
+    "ae0c62901706e21c62b2c9806f6d1cefca03090815b3fa235ea334ac6ac5a81a": {
+      "seenAt": "2026-11-26T13:51:22.418Z",
+      "title": "Trump’s Secret Fury Revealed After Frantic White House Scramble - The Daily Beast",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "ec2a71c67f30b6f1662b95c7c99dbc595e867fbc0ad6c2bcf65ff2029c12749b",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation - The Hill",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXd5cEM3a3dfVzdKTHl0ZHhXcXNfZktBTWI0ZzA1Y0EwTWMteTNRR1dzd2ZVN2R3d3VUUjdybm9YNDlmX0hUSk1NSWM0Y3dBbVJWQ19vMG9ranpuZ2lRMkl4Nkh1X2h6cG45YVk3MW5pY1FIa21WWFYzSFEtcGtaT1dlSU1BUzgtYXR4UzZweEt6QmVRcFp4dGVUQk41Sm5SdnfSAacBQVVfeXFMTjM0M2ROMXdXNDk0c1VRMUQxUzl4dEFuSHZCTGFGYmxXM1RxdDFrdXZFb0ROWWtSc0ZNNkxjdlRCcjFwSzVIeGFISFd0eklvY0M4RVlLRG5BaHl1VmJfcEZ2dXhhVzZHc3A2VlBYVWpRazhJb1lsYzU0MnBYWUpmajFmUFd3VGJ0VmthUUtmRmR5SkpfZkd0dHJSQ2tuaDhmbjhOYkxaYUU?oc=5\" target=\"_blank\">Trump rips Obama, CNN as he touts ‘perfect’ Iowa detonation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXd5cEM3a3dfVzdKTHl0ZHhXcXNfZktBTWI0ZzA1Y0EwTWMteTNRR1dzd2ZVN2R3d3VUUjdybm9YNDlmX0hUSk1NSWM0Y3dBbVJWQ19vMG9ranpuZ2lRMkl4Nkh1X2h6cG45YVk3MW5pY1FIa21WWFYzSFEtcGtaT1dlSU1BUzgtYXR4UzZweEt6QmVRcFp4dGVUQk41Sm5SdnfSAacBQVVfeXFMTjM0M2ROMXdXNDk0c1VRMUQxUzl4dEFuSHZCTGFGYmxXM1RxdDFrdXZFb0ROWWtSc0ZNNkxjdlRCcjFwSzVIeGFISFd0eklvY0M4RVlLRG5BaHl1VmJfcEZ2dXhhVzZHc3A2VlBYVWpRazhJb1lsYzU0MnBYWUpmajFmUFd3VGJ0VmthUUtmRmR5SkpfZkd0dHJSQ2tuaDhmbjhOYkxaYUU?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 13:08:00 GMT",
-        "source": "The Hill",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "0f6dca43d2d1dcde61d45c76da75bbe3a08f1228d911b899c55df1cf51061636",
-    "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스",
+    "postId": "ae0c62901706e21c62b2c9806f6d1cefca03090815b3fa235ea334ac6ac5a81a",
+    "title": "Trump’s Secret Fury Revealed After Frantic White House Scramble - The Daily Beast",
     "bot": "jongsuk_pol_bot",
-    "runId": "45831518492",
-    "sentAt": "2026-11-26T13:41:16.359Z"
+    "runId": "45833140734",
+    "sentAt": "2026-11-26T13:51:22.029Z"
   }
 }
