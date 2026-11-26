@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T03:11:13.104Z",
+  "lastCheckedAt": "2026-11-26T03:21:22.406Z",
   "seenPostIds": {
-    "cdcba583f6cefa137cb9df0dc0698327ce62657cba07fc48d20a9c99cdad98a1": {
-      "seenAt": "2026-11-23T14:11:16.130Z",
-      "title": "외교 수장은 임웅순으로…송영길 입각 기대 꺾은 ‘동맹과 실무’ - 재외동포신문",
-      "targetName": "송영길"
-    },
-    "09f293359f53c87f32b47d06402a747ce58448f6116f8e4027f591dd4b760b90": {
-      "seenAt": "2026-11-23T14:11:16.755Z",
-      "title": "Donald Trump urges Nvidia to rehire former CEO Jensen Huang - Yahoo Finance",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "736568d78bac54b01660529fc0ba45e4e45926306ff8af98e43a995af02332a3": {
-      "seenAt": "2026-11-23T14:11:17.351Z",
-      "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang - MarketWatch",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "0f1b68651e0237c932fdbac2b9436c9bba845e71d829664a159ed6e8eb2c035d": {
       "seenAt": "2026-11-23T14:21:18.538Z",
       "title": "외교 수장은 임웅순으로…송영길 입각 기대 꺾은 ‘동맹과 실무’ - 재외동포신문",
@@ -2515,47 +2500,29 @@
       "seenAt": "2026-11-26T03:11:15.580Z",
       "title": "'日 입국 거부' 조국, 내달 7일 세 번째 독도 방문한다 - 뉴스1",
       "targetName": "조국"
+    },
+    "125c11c38bca2012f0c12672d26703ccecfca45ea0ab026da5a9389c8b68d84f": {
+      "seenAt": "2026-11-26T03:21:23.951Z",
+      "title": "조국혁신당, 조희대 대법원장 탄핵 지연 우려… \"말이 아닌 실천\" - 한국사회복지저널",
+      "targetName": "조국"
+    },
+    "9ab87f70795c9cd62c95e17e860c792868725fa5555d712a662ca04a6a4c8935": {
+      "seenAt": "2026-11-26T03:21:24.564Z",
+      "title": "Trump Says US Will Not Attack Iran Before Midterm Elections in November - EnergyNow.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "b1461af42e2eb9d77ec927798100cf31de36c736c79431e29c5a15e0daaf5080": {
+      "seenAt": "2026-11-26T03:21:25.217Z",
+      "title": "Halt ‘Shameful’ $10B Lukoil Deal, Top House Democrat Demands of Trump - Kyiv Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "125c11c38bca2012f0c12672d26703ccecfca45ea0ab026da5a9389c8b68d84f",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당, 조희대 대법원장 탄핵 지연 우려… \"말이 아닌 실천\" - 한국사회복지저널",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBsRFM4MV9EQUxZcGxaNXBKSURNNGhuOWhHU1BmSEJKd3J5T01lTVlRY0VmRzRmVm5yekkyZWlxZFhkcGp6M2t5TE8yVThjOGJaVzhxeDRSRUJDTzRKU2ZRYmFrVkhqMFhEWE8w?oc=5\" target=\"_blank\">조국혁신당, 조희대 대법원장 탄핵 지연 우려… \"말이 아닌 실천\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국사회복지저널</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsRFM4MV9EQUxZcGxaNXBKSURNNGhuOWhHU1BmSEJKd3J5T01lTVlRY0VmRzRmVm5yekkyZWlxZFhkcGp6M2t5TE8yVThjOGJaVzhxeDRSRUJDTzRKU2ZRYmFrVkhqMFhEWE8w?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 03:02:58 GMT",
-        "source": "한국사회복지저널",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "9ab87f70795c9cd62c95e17e860c792868725fa5555d712a662ca04a6a4c8935",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Says US Will Not Attack Iran Before Midterm Elections in November - EnergyNow.com",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWi1Kb1dQRjFRWVF4b1RSMnc4R1p2T3NTY0tJTHRqbkxZaWVGNXA5ZWNqZFRFNkpLM2picTJUNWVOQjRNcFZUZHRlQWdCQk52OGhXaFpKWl9PRnFrNF8wWk9oVi1TalJWdFhfV1lMZWRvY3UwZTNsSks5Z2JycExHMUd1anZaYWx2aUctSmVBRmdQUllxVkdQWjZKQk1UbEVDZTk4Ug?oc=5\" target=\"_blank\">Trump Says US Will Not Attack Iran Before Midterm Elections in November</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyNow.com</font>",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWi1Kb1dQRjFRWVF4b1RSMnc4R1p2T3NTY0tJTHRqbkxZaWVGNXA5ZWNqZFRFNkpLM2picTJUNWVOQjRNcFZUZHRlQWdCQk52OGhXaFpKWl9PRnFrNF8wWk9oVi1TalJWdFhfV1lMZWRvY3UwZTNsSks5Z2JycExHMUd1anZaYWx2aUctSmVBRmdQUllxVkdQWjZKQk1UbEVDZTk4Ug?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 23:18:44 GMT",
-        "source": "EnergyNow.com",
-        "ageHours": 3.9
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "2120ce7e46181879343a896667bf7e658dade5d89c98025c6e435edddba42480",
-    "title": "'日 입국 거부' 조국, 내달 7일 세 번째 독도 방문한다 - 뉴스1",
+    "postId": "b1461af42e2eb9d77ec927798100cf31de36c736c79431e29c5a15e0daaf5080",
+    "title": "Halt ‘Shameful’ $10B Lukoil Deal, Top House Democrat Demands of Trump - Kyiv Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "45747256372",
-    "sentAt": "2026-11-26T03:11:15.244Z"
+    "runId": "45748337234",
+    "sentAt": "2026-11-26T03:21:24.927Z"
   }
 }

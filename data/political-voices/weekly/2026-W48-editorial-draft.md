@@ -8932,3 +8932,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당, 조희대 대법원장 탄핵 지연 우려… "말이 아닌 실천" - 한국사회복지저널
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당, 조희대 대법원장 탄핵 지연 우려… "말이 아닌 실천"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTFBsRFM4MV9EQUxZcGxaNXBKSURNNGhuOWhHU1BmSEJKd3J5T01lTVlRY0VmRzRmVm5yekkyZWlxZFhkcGp6M2t5TE8yVThjOGJaVzhxeDRSRUJDTzRKU2ZRYmFrVkhqMFhEWE8w?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Says US Will Not Attack Iran Before Midterm Elections in November - EnergyNow.com
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Says US Will Not Attack Iran Before Midterm Elections in November
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWi1Kb1dQRjFRWVF4b1RSMnc4R1p2T3NTY0tJTHRqbkxZaWVGNXA5ZWNqZFRFNkpLM2picTJUNWVOQjRNcFZUZHRlQWdCQk52OGhXaFpKWl9PRnFrNF8wWk9oVi1TalJWdFhfV1lMZWRvY3UwZTNsSks5Z2JycExHMUd1anZaYWx2aUctSmVBRmdQUllxVkdQWjZKQk1UbEVDZTk4Ug?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Halt ‘Shameful’ $10B Lukoil Deal, Top House Democrat Demands of Trump - Kyiv Post
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Halt ‘Shameful’ $10B Lukoil Deal, Top House Democrat Demands of Trump
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5faGp4TmdwQXlJTHNZUnplTTN2VHdQclVISVoyYmh5TkRzOUZEODJZZ29XRkNtcnZkNVRZNExvLTdnNmJyUnNMd29fRQ?oc=5)
+
+---
+
