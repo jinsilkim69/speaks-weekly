@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T22:21:14.145Z",
+  "lastCheckedAt": "2026-11-26T22:31:13.465Z",
   "seenPostIds": {
     "63c4d6994146e9e6a466b94165def3725c8f2d65edcb1ee5abade939febde70b": {
       "seenAt": "2026-11-24T09:41:15.809Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-26T21:41:25.585Z",
       "title": "이재호 구청장 “토양정화 먼저”… 송영길의원 송도 부영부지 활용 구상 비판 - THE인천​",
       "targetName": "송영길"
+    },
+    "c37cb82003ef2e20359c97243fbe5a0749480faaf74c0cb7da9a8fed99f668d5": {
+      "seenAt": "2026-11-26T22:31:14.539Z",
+      "title": "[뉴스 즉설]다른 문 찾는 한동훈, '배수의 진' 친 장동혁…'장·한 대전' 새 국면 - 대전일보",
+      "targetName": "한동훈"
+    },
+    "0fe3b54be068d3fd492520106ca124bd56931b4ea7daad2384dfaa73003c02f5": {
+      "seenAt": "2026-11-26T22:31:15.137Z",
+      "title": "이재호 인천 연수구청장, 송영길 의원에 공개 사과 요구…송도 테마파크 개발 갈등 확산 - 에너지경제신문",
+      "targetName": "송영길"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "198df20951e04bc0c5918d278a61c7e0ffb80a16a945cdbbbfa61e33a278be5b",
-    "title": "이재호 구청장 “토양정화 먼저”… 송영길의원 송도 부영부지 활용 구상 비판 - THE인천​",
+    "postId": "0fe3b54be068d3fd492520106ca124bd56931b4ea7daad2384dfaa73003c02f5",
+    "title": "이재호 인천 연수구청장, 송영길 의원에 공개 사과 요구…송도 테마파크 개발 갈등 확산 - 에너지경제신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45899805468",
-    "sentAt": "2026-11-26T21:41:24.813Z"
+    "runId": "45905277186",
+    "sentAt": "2026-11-26T22:31:14.836Z"
   }
 }

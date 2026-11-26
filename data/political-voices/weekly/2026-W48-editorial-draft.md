@@ -11207,3 +11207,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [뉴스 즉설]다른 문 찾는 한동훈, '배수의 진' 친 장동혁…'장·한 대전' 새 국면 - 대전일보
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 다른 문 찾는 한동훈, '배수의 진' 친 장동혁…'장·한 대전' 새 국면
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9BQXNkcUxsUDdSNmZqX3V3Zm1JT3A4ODhMdEdiVUxrUXJCVW85WExaVTVMMUFfMGhnT2k0a2M2a192dnFfaXE1YzFxbDc4VnRpREJ2eUVtVm1MeHZVVktXZHRUMG5TWURnY21PR05LNNIBc0FVX3lxTE85OWJIWUlpTVdLNkh2a3BJSWUwUUdwckV6cmZvNnFPLU9PTnBCVHdxNmFGMGhWNV9zVVN6TGdqbEJzOURKZlVQV1dXbXNROXgwS3VDRUJhY1hMVVBydGhLZFBnTElUc1lFNVVxNjhwVUk3ZlU?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 이재호 인천 연수구청장, 송영길 의원에 공개 사과 요구…송도 테마파크 개발 갈등 확산 - 에너지경제신문
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재호 인천 연수구청장, 송영길 의원에 공개 사과 요구…송도 테마파크 개발 갈등 확산
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2SDdfeFdNSkExeXVDTy1jOVlXOENqdEc2RGtIb1AyTFVGN3VHS3J1VFhKY0x2WGhxbmdvNUNPZmtUNHlJNGpmQ3d2bUZfR0Zib0hGckpVSEVMRk4tNmZyNDI3NA?oc=5)
+
+---
+
