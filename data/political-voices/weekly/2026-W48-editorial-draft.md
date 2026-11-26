@@ -9855,3 +9855,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** ‘日입국 거부’ 조국, 다음 달 7일 독도 재방문 - 헤럴드경제
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘日입국 거부’ 조국, 다음 달 7일 독도 재방문
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4bkxhNkRFNHh3TTN3akotbnVsR0dVbGtWRDUtMmZZb1paenU5ZVVGZjVtMjM0YUpGYkdOR19sVlA3MFowZDlVSnRPVzJ0ZjRtaTFQRmYyNA?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국민의힘, 오는 30일 의원총회 개최…‘한동훈 조작징계’ 의혹 파장 - 시사저널
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘, 오는 30일 의원총회 개최…‘한동훈 조작징계’ 의혹 파장
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1Bc0RLRXlOS2F0eF9Idmxyd0RPUkxtZVdkbE9FQWRoTDRTSERGS01UTjFPQ2NrNFVwdk5GMm4teUlNSnVhanNyVFdhOVhVN0s0c2o4OUJBeFVJVUZLQkQybUhkTTQwdkttMzdKTkNuTdIBc0FVX3lxTE85eW1Ec0pfcS1SSVRmcHJ4NjAzbHBCRko1bU1wcUVlUFlQcVk5Y2pUSkVMTUlzeEhFU2ZmcF92TDdvcV9lVkZ3QTI5OGd3X2k3WFVjMlFpN0J2Y1NkTGFUOFdrUEdEMlZXWHpRV3pWTmdUcVk?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라” - 세계일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WUTNaVjJUd1NOaEJvZHgtWkZ4UnlNMFVnT3RVVDNEMUFvaHFYdGRva2xrazNWdWNnV3JIOTctbFBwbTVON3NvaWM1WmppRFBw?oc=5)
+
+---
+

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T08:31:16.581Z",
+  "lastCheckedAt": "2026-11-26T08:41:14.664Z",
   "seenPostIds": {
-    "b032ad5da14b9e41232fe108bb6c22bd6afd18af4979b404e7c348fc71655391": {
-      "seenAt": "2026-11-24T02:31:27.117Z",
-      "title": "김민석 “당청관계 안정” 정청래 “폭탄에 초토화”…金 취임 100일 ‘말말말’ - 시사저널",
-      "targetName": "정청래"
-    },
-    "15e59d596053b782a4183136d152b182f30d7508e02922c8b15d7a9160ef716c": {
-      "seenAt": "2026-11-24T02:41:14.759Z",
-      "title": "공수처, 한동훈 딸 '부모찬스'·수사무마 의혹 수사4부 배당 - 연합뉴스",
-      "targetName": "한동훈"
-    },
-    "d475cea3075e3d7673403788cf3f709929999b2852fb5c4df3b18348f3b3f0e7": {
-      "seenAt": "2026-11-24T02:41:15.396Z",
-      "title": "정청래, 취임 100일 김민석 겨냥 “반·분·신 폭탄이 당 초토화” - 중앙일보",
-      "targetName": "김민석"
-    },
     "1f94a2ba37bca3b48bfb29bed08cfb28e8841dd1f332e41b3553f6d817fb032f": {
       "seenAt": "2026-11-24T02:41:16.037Z",
       "title": "정청래, 취임 100일 김민석 겨냥 “반·분·신 폭탄이 당 초토화” - 중앙일보",
@@ -2515,63 +2500,126 @@
       "seenAt": "2026-11-26T08:31:19.417Z",
       "title": "송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트] - YTN",
       "targetName": "송영길"
+    },
+    "535521496a42497bd05a373dc3209ab4e54628b044f4b86cfd0ea81523f81f35": {
+      "seenAt": "2026-11-26T08:41:15.713Z",
+      "title": "‘日입국 거부’ 조국, 다음 달 7일 독도 재방문 - 헤럴드경제",
+      "targetName": "조국"
+    },
+    "883565fa0017571b6d66d72147a34d580a84675ceb2282cab5a7d8d5da7afa07": {
+      "seenAt": "2026-11-26T08:41:16.327Z",
+      "title": "국민의힘, 오는 30일 의원총회 개최…‘한동훈 조작징계’ 의혹 파장 - 시사저널",
+      "targetName": "한동훈"
+    },
+    "6358e76f204dc3eaf1d27ed03d24ee2e120a0ee241c3342d845ed9cfa780643c": {
+      "seenAt": "2026-11-26T08:41:16.946Z",
+      "title": "송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라” - 세계일보",
+      "targetName": "정청래"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "535521496a42497bd05a373dc3209ab4e54628b044f4b86cfd0ea81523f81f35",
+        "id": "b2f8d26b6b5d31daac42b32a14c42212a8e64efe1d07e32ac4041b78cc2734de",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, 직무수행 ‘부정평가’ 68.3%…장동혁은 60.7% - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PTXhrLU5KSk1mWGdMakVUcExxYW5JMXhPZ2lZYVBFV1dqV1I1bHhDS1dHMnpRcHVwN2pqVEotSHVHTXhmVXhRS0ktZlFIeHh1aGJBZVR3?oc=5\" target=\"_blank\">김민석, 직무수행 ‘부정평가’ 68.3%…장동혁은 60.7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PTXhrLU5KSk1mWGdMakVUcExxYW5JMXhPZ2lZYVBFV1dqV1I1bHhDS1dHMnpRcHVwN2pqVEotSHVHTXhmVXhRS0ktZlFIeHh1aGJBZVR3?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 08:13:34 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.5
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4b2e9fc9c0c5b75f9d1887553be674038f368a4ed88ccdada77e1ae3f0dae8d0",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 미주중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qTzB2SExmMkdqOFRvZUh6YkVpcGNqdG1tUmd4S1BBbWhVdGhqZV9nbVdOYUp3OWNnXzRxdW9FeVdrV0ZVc01wcEtjRDZYMFVkSDE3N3Z4cjNIeTJXb1FNeGZ3?oc=5\" target=\"_blank\">친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">미주중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qTzB2SExmMkdqOFRvZUh6YkVpcGNqdG1tUmd4S1BBbWhVdGhqZV9nbVdOYUp3OWNnXzRxdW9FeVdrV0ZVc01wcEtjRDZYMFVkSDE3N3Z4cjNIeTJXb1FNeGZ3?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 07:35:00 GMT",
+        "source": "미주중앙일보",
+        "ageHours": 1.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "a77fa28184f0b5012b2ede5d2b8c3cadb06c8dd68a6731c9b1f470742625b180",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "\"최민희 중징계 전망…김민석, 역풍 감당할 수 있나\"[박영환의 시사1번지] - KBC광주방송",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PT2piV3ozU1hkdlcwYnNFTjIwVUZNQ0ZmcFIxbzRpV0ZBS2Z0YUhTekpxalUzRWJPNTdwODlYTXFhaHhPQkx1SzRTc1VNUGUzVVl2Yzl5MWU4OTEyUFJNeQ?oc=5\" target=\"_blank\">\"최민희 중징계 전망…김민석, 역풍 감당할 수 있나\"[박영환의 시사1번지]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PT2piV3ozU1hkdlcwYnNFTjIwVUZNQ0ZmcFIxbzRpV0ZBS2Z0YUhTekpxalUzRWJPNTdwODlYTXFhaHhPQkx1SzRTc1VNUGUzVVl2Yzl5MWU4OTEyUFJNeQ?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 08:30:04 GMT",
+        "source": "KBC광주방송",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "c179943b6dafb843e76748b0e823668c373843d2166e5916224f48816342a1f8",
         "targetId": "cho_kuk",
         "targetName": "조국",
         "targetTitle": "조국혁신당 대표",
-        "title": "‘日입국 거부’ 조국, 다음 달 7일 독도 재방문 - 헤럴드경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4bkxhNkRFNHh3TTN3akotbnVsR0dVbGtWRDUtMmZZb1paenU5ZVVGZjVtMjM0YUpGYkdOR19sVlA3MFowZDlVSnRPVzJ0ZjRtaTFQRmYyNA?oc=5\" target=\"_blank\">‘日입국 거부’ 조국, 다음 달 7일 독도 재방문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4bkxhNkRFNHh3TTN3akotbnVsR0dVbGtWRDUtMmZZb1paenU5ZVVGZjVtMjM0YUpGYkdOR19sVlA3MFowZDlVSnRPVzJ0ZjRtaTFQRmYyNA?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 05:58:08 GMT",
-        "source": "헤럴드경제",
-        "ageHours": 2.2
+        "title": "‘일본 입국’ 거부 당한 조국 다음달 7일 독도 재방문 - 주간경향",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAweVV0Tnk5QWtxQ2ZtR0lBc3ltUnRBa3VFQkJRRDI2ZElDdGJfZUwxV0FURGRTU3AxUmpuN3JQRlQyMUhUcDRjby1hRm5aU3YyUnlENG03bXJtRUtTd3c?oc=5\" target=\"_blank\">‘일본 입국’ 거부 당한 조국 다음달 7일 독도 재방문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAweVV0Tnk5QWtxQ2ZtR0lBc3ltUnRBa3VFQkJRRDI2ZElDdGJfZUwxV0FURGRTU3AxUmpuN3JQRlQyMUhUcDRjby1hRm5aU3YyUnlENG03bXJtRUtTd3c?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 08:35:00 GMT",
+        "source": "주간경향",
+        "ageHours": 0.1
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "883565fa0017571b6d66d72147a34d580a84675ceb2282cab5a7d8d5da7afa07",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "국민의힘, 오는 30일 의원총회 개최…‘한동훈 조작징계’ 의혹 파장 - 시사저널",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1Bc0RLRXlOS2F0eF9Idmxyd0RPUkxtZVdkbE9FQWRoTDRTSERGS01UTjFPQ2NrNFVwdk5GMm4teUlNSnVhanNyVFdhOVhVN0s0c2o4OUJBeFVJVUZLQkQybUhkTTQwdkttMzdKTkNuTdIBc0FVX3lxTE85eW1Ec0pfcS1SSVRmcHJ4NjAzbHBCRko1bU1wcUVlUFlQcVk5Y2pUSkVMTUlzeEhFU2ZmcF92TDdvcV9lVkZ3QTI5OGd3X2k3WFVjMlFpN0J2Y1NkTGFUOFdrUEdEMlZXWHpRV3pWTmdUcVk?oc=5\" target=\"_blank\">국민의힘, 오는 30일 의원총회 개최…‘한동훈 조작징계’ 의혹 파장</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Bc0RLRXlOS2F0eF9Idmxyd0RPUkxtZVdkbE9FQWRoTDRTSERGS01UTjFPQ2NrNFVwdk5GMm4teUlNSnVhanNyVFdhOVhVN0s0c2o4OUJBeFVJVUZLQkQybUhkTTQwdkttMzdKTkNuTdIBc0FVX3lxTE85eW1Ec0pfcS1SSVRmcHJ4NjAzbHBCRko1bU1wcUVlUFlQcVk5Y2pUSkVMTUlzeEhFU2ZmcF92TDdvcV9lVkZ3QTI5OGd3X2k3WFVjMlFpN0J2Y1NkTGFUOFdrUEdEMlZXWHpRV3pWTmdUcVk?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 07:58:54 GMT",
-        "source": "시사저널",
-        "ageHours": 0.4
+        "id": "e337a8f1c4d45e1ecc0c5cfd2af071ee26e068271fbcae018464be8d47731f84",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "[속보] 조국, ‘日 입국 거부’ 뒤 독도 재방문…내달 7일 ‘독도원정대’ 일정 공개 - 경기일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iT0hDWmtiV3h4bElrOVlXNU9qQnQ4dHdTaWhXcUdDeDZreXBRSXVVdk1aMGJzV3BSOUFNMjhwM3lJc1Axb2ZaZVI0MGhEby1nNVFmS0tvTWRJaTQ?oc=5\" target=\"_blank\">[속보] 조국, ‘日 입국 거부’ 뒤 독도 재방문…내달 7일 ‘독도원정대’ 일정 공개</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iT0hDWmtiV3h4bElrOVlXNU9qQnQ4dHdTaWhXcUdDeDZreXBRSXVVdk1aMGJzV3BSOUFNMjhwM3lJc1Axb2ZaZVI0MGhEby1nNVFmS0tvTWRJaTQ?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 06:59:39 GMT",
+        "source": "경기일보",
+        "ageHours": 1.7
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "6358e76f204dc3eaf1d27ed03d24ee2e120a0ee241c3342d845ed9cfa780643c",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라” - 세계일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WUTNaVjJUd1NOaEJvZHgtWkZ4UnlNMFVnT3RVVDNEMUFvaHFYdGRva2xrazNWdWNnV3JIOTctbFBwbTVON3NvaWM1WmppRFBw?oc=5\" target=\"_blank\">송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WUTNaVjJUd1NOaEJvZHgtWkZ4UnlNMFVnT3RVVDNEMUFvaHFYdGRva2xrazNWdWNnV3JIOTctbFBwbTVON3NvaWM1WmppRFBw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 21:00:00 GMT",
-        "source": "세계일보",
-        "ageHours": 11.5
+        "id": "1e31faf963bbe39f69328b5abbdc0cd2e7b11744ca72fd5500b7d9c94f0932a7",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 조국혁신당 대표 “조희대 탄핵, 말이 아닌 실천…12월 3일 발의·의결해야” - THE NEWS",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVWpPVnpBWjdGMThGUTJXNnhrMmpjUm82MVpMbG04enNxanJEUnFiWUNFS2ZQd3lyOHZMNzc4VU9ycGNwb1VPeWtvX0N4cGRuci10M2xTWkd3dzhPN3pPUW9ORXB5MzIzdWdv0gFvQVVfeXFMUDFpd0FVZmprRm5QTm4xOUV6S1RlMGUzb2RUV0d3NWw0RS1iUW9FN1pNOFFhZi1PNUlHQnVDU0hvb0x6Qnp5RGd3SlZPWFM2Vm4wM0NobUlDM0N2QU45M3BacXAyRzdjWHF2YzVOVWZZ?oc=5\" target=\"_blank\">신장식 조국혁신당 대표 “조희대 탄핵, 말이 아닌 실천…12월 3일 발의·의결해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">THE NEWS</font>",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVWpPVnpBWjdGMThGUTJXNnhrMmpjUm82MVpMbG04enNxanJEUnFiWUNFS2ZQd3lyOHZMNzc4VU9ycGNwb1VPeWtvX0N4cGRuci10M2xTWkd3dzhPN3pPUW9ORXB5MzIzdWdv0gFvQVVfeXFMUDFpd0FVZmprRm5QTm4xOUV6S1RlMGUzb2RUV0d3NWw0RS1iUW9FN1pNOFFhZi1PNUlHQnVDU0hvb0x6Qnp5RGd3SlZPWFM2Vm4wM0NobUlDM0N2QU45M3BacXAyRzdjWHF2YzVOVWZZ?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 02:08:58 GMT",
+        "source": "THE NEWS",
+        "ageHours": 6.5
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "715b94e489c23f85cd40669feee28492f2e0b09ab44ec19618aa3344d3c44d93",
-    "title": "송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트] - YTN",
+    "postId": "6358e76f204dc3eaf1d27ed03d24ee2e120a0ee241c3342d845ed9cfa780643c",
+    "title": "송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라” - 세계일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45783822296",
-    "sentAt": "2026-11-26T08:31:19.047Z"
+    "runId": "45785234067",
+    "sentAt": "2026-11-26T08:41:16.619Z"
   }
 }
