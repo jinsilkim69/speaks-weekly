@@ -11168,3 +11168,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** “직을 걸라”는 한동훈… 판 돈처럼 전락한 의원직 - 시사위크
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “직을 걸라”는 한동훈… 판 돈처럼 전락한 의원직
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LVnJUaGRqLVpsZjFmNk82VnB5aEdGUjdxaXg1VDVoSmppYlMzTlhqcWZzbWo2cTNWX2FoZmt5eFB2SU5iYjFONl8wWDJ0NlZYcXdKTk9RbEFjdzhOdmd0T25odU5acjFqbXo00gFvQVVfeXFMT1plQ0NVUjhJaU50QThDZTAwTkpRNmE2UnI5XzFxeWFYa3B6dlF1am4zN0FMZkNJaHA0NG4tclBSLW5SRmZBVUFpTkt2LTdqMjVCMFRYTG9lcE9LblI4c1NiNThQMWQtR3RCSUVoTnow?oc=5)
+
+---
+

@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T21:01:13.788Z",
+  "lastCheckedAt": "2026-11-26T21:11:14.839Z",
   "seenPostIds": {
     "674306e86a7193ebcfeaffc258f016648e44196d67da447cd7b75c9d8a3d83b5": {
       "seenAt": "2026-11-24T09:31:17.385Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-26T20:51:14.691Z",
       "title": "Trump urges Putin to end 'military aggression' in Europe - AFP.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "75ff0499475e04ef4fae9c371b69495fcfd97c7a7bf942f99cc5a5063a8940d4": {
+      "seenAt": "2026-11-26T21:11:16.123Z",
+      "title": "“직을 걸라”는 한동훈… 판 돈처럼 전락한 의원직 - 시사위크",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "160a8829b2ec19a5260e7808b343a0065b3898ab49cb9f605f8113d4d8680252",
-    "title": "Trump urges Putin to end 'military aggression' in Europe - AFP.com",
+    "postId": "75ff0499475e04ef4fae9c371b69495fcfd97c7a7bf942f99cc5a5063a8940d4",
+    "title": "“직을 걸라”는 한동훈… 판 돈처럼 전락한 의원직 - 시사위크",
     "bot": "jongsuk_pol_bot",
-    "runId": "45893989533",
-    "sentAt": "2026-11-26T20:51:14.042Z"
+    "runId": "45896332359",
+    "sentAt": "2026-11-26T21:11:15.500Z"
   }
 }

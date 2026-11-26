@@ -723,5 +723,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "75ff0499475e04ef4fae9c371b69495fcfd97c7a7bf942f99cc5a5063a8940d4",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "“직을 걸라”는 한동훈… 판 돈처럼 전락한 의원직 - 시사위크",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1LVnJUaGRqLVpsZjFmNk82VnB5aEdGUjdxaXg1VDVoSmppYlMzTlhqcWZzbWo2cTNWX2FoZmt5eFB2SU5iYjFONl8wWDJ0NlZYcXdKTk9RbEFjdzhOdmd0T25odU5acjFqbXo00gFvQVVfeXFMT1plQ0NVUjhJaU50QThDZTAwTkpRNmE2UnI5XzFxeWFYa3B6dlF1am4zN0FMZkNJaHA0NG4tclBSLW5SRmZBVUFpTkt2LTdqMjVCMFRYTG9lcE9LblI4c1NiNThQMWQtR3RCSUVoTnow?oc=5\" target=\"_blank\">“직을 걸라”는 한동훈… 판 돈처럼 전락한 의원직</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사위크</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LVnJUaGRqLVpsZjFmNk82VnB5aEdGUjdxaXg1VDVoSmppYlMzTlhqcWZzbWo2cTNWX2FoZmt5eFB2SU5iYjFONl8wWDJ0NlZYcXdKTk9RbEFjdzhOdmd0T25odU5acjFqbXo00gFvQVVfeXFMT1plQ0NVUjhJaU50QThDZTAwTkpRNmE2UnI5XzFxeWFYa3B6dlF1am4zN0FMZkNJaHA0NG4tclBSLW5SRmZBVUFpTkt2LTdqMjVCMFRYTG9lcE9LblI4c1NiNThQMWQtR3RCSUVoTnow?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 01:19:52 GMT",
+    "source": "시사위크",
+    "ageHours": 19.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “직을 걸라”는 한동훈… 판 돈처럼 전락한 의원직",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
