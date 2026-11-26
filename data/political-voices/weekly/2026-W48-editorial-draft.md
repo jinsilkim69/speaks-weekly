@@ -8724,3 +8724,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 “대통령, 정청래 4시간 다독여” VS 정청래 “본인 편한대로 발설, 새털처럼 가벼워” - 주간경향
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 “대통령, 정청래 4시간 다독여” VS 정청래 “본인 편한대로 발설, 새털처럼 가벼워”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE95MlpnR0daTzdoYld2ekxOVkE4VGJGRmF3RzY5THJ3TjdZd3VDbjJoX1hRV25vS1lMQlVlMW1hSWhrRzVib3JYODNzT00tcjdybXB4NmJ1OEdMTmcyWHc?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 천하람 “與 조희대 탄핵, 尹 비상계엄 못지않은 미친 짓” - 서울신문
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 천하람 “與 조희대 탄핵, 尹 비상계엄 못지않은 미친 짓”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE51YmlEOV9oSml2b3pfRVRsS0d3WlN6S3JqX001d1h0VmU2UXp3ZXpjdnQ2VVhiemJCRVExcEJtQ192ek9XLU5JSzZxeHlEZGxkSC1ydG9KazVEbVhPdGNJYTcxdTd1ZzBMNjQyMUtQVnQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** "내란 인정하라고 지X 지X"…조국, 김태규에 "판사 출신 의원의 발언" 지적 - 뉴시스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "내란 인정하라고 지X 지X"…조국, 김태규에 "판사 출신 의원의 발언" 지적
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE51bXhlNWtQa3pPZmlKYmhlZGJsVjJXUTFuTWxVT013SFZWa0VNWVJXRENUbTFidkhKX09oOENmZVd0RmJaWXdEU1JyTWZtc0plLVJOU21iXzdjakpXZmdKSNIBeEFVX3lxTE1JTmhqMVJJZzFTdEF1LVhpUG04UHA0YWVvajRxUnk2MnIyYzZLS2FzZ3ctV09uS2NvSnpQVW9oRmlVaWFWOXIxZlZnLUNjbEJsZVQ5Y281TGpUSUJYZ2JVTDdKM0p2TVUtMzJFeTVDemNvSTRDUmZrdA?oc=5)
+
+---
+
