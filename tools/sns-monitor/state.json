@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T03:31:13.829Z",
+  "lastCheckedAt": "2026-11-26T03:41:14.379Z",
   "seenPostIds": {
-    "3c0101c8e2ffc8f6b47c106cf06782ebc9d2777894851905cb7c54ceb1cebdc5": {
-      "seenAt": "2026-11-23T14:42:10.953Z",
-      "title": "Trump urges Nvidia to rehire Jensen Huang and attacks Somalis in Truth Social spree - The Independent",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "fb778f8098f8c64fffaff55b6f7dc6e5b82bc1b9530c7e794f74d67d3bb78983": {
       "seenAt": "2026-11-23T14:51:17.440Z",
       "title": "[김종석의 리포트]“尹 사형 구형일 맞춰 한동훈 제명” - 채널A",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-26T03:31:15.175Z",
       "title": "이재명 대통령 국정 지지율 43%...민주 35%·국힘 23% - M이코노미뉴스",
       "targetName": "이재명"
+    },
+    "12a5f2c1fb7dfe1c387ff01f83ca5b61ce10bc118c854d918837fda4e60a1caa": {
+      "seenAt": "2026-11-26T03:41:15.672Z",
+      "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "8abf45e5b2f2459f737fc2a18e5b34e9fa46891d6cd518d6663712c3d5617241",
-    "title": "이재명 대통령 국정 지지율 43%...민주 35%·국힘 23% - M이코노미뉴스",
+    "postId": "12a5f2c1fb7dfe1c387ff01f83ca5b61ce10bc118c854d918837fda4e60a1caa",
+    "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45749413702",
-    "sentAt": "2026-11-26T03:31:14.646Z"
+    "runId": "45750474497",
+    "sentAt": "2026-11-26T03:41:15.057Z"
   }
 }
