@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T00:51:24.471Z",
+  "lastCheckedAt": "2026-11-26T01:01:13.239Z",
   "seenPostIds": {
     "d12f459f78b1b19732ace8ea992d82ec90f2f6cf04247815ff37b0e11138894d": {
       "seenAt": "2026-11-23T10:21:20.530Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-26T00:31:15.221Z",
       "title": "[속보]조국 “공공기관 이전하는 서울 알짜땅에 공공주택 짓자” - 문화일보",
       "targetName": "조국"
+    },
+    "1247d71a5817bce6f37c27dd0d5ac7d022d31773834463aaa97f05acb3ee77e9": {
+      "seenAt": "2026-11-26T01:01:14.396Z",
+      "title": "김민석, 조희대 탄핵 연내 처리…범여권 결집 본격화 - 스페셜경제",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "bce954fce306defcb5223886898c8039728ba9d2c45a83d9354ed0e9b9fea112",
-    "title": "[속보]조국 “공공기관 이전하는 서울 알짜땅에 공공주택 짓자” - 문화일보",
+    "postId": "1247d71a5817bce6f37c27dd0d5ac7d022d31773834463aaa97f05acb3ee77e9",
+    "title": "김민석, 조희대 탄핵 연내 처리…범여권 결집 본격화 - 스페셜경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45729290583",
-    "sentAt": "2026-11-26T00:31:14.902Z"
+    "runId": "45732804190",
+    "sentAt": "2026-11-26T01:01:13.849Z"
   }
 }

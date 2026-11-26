@@ -952,5 +952,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "1247d71a5817bce6f37c27dd0d5ac7d022d31773834463aaa97f05acb3ee77e9",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, 조희대 탄핵 연내 처리…범여권 결집 본격화 - 스페셜경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE42Z1RoUV9rVTZtLUVqenFLeHV2RzVhdnRKc1FWNFV3M1RSbE1BRlRMMWhETGhXS25tcWJyYkRLcmtta1RLSlNYQzJMUDJjdFE4ejRXX1BianYzRlNSWnBBUXJuWUZMcEY0Zi1ObQ?oc=5\" target=\"_blank\">김민석, 조희대 탄핵 연내 처리…범여권 결집 본격화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">스페셜경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42Z1RoUV9rVTZtLUVqenFLeHV2RzVhdnRKc1FWNFV3M1RSbE1BRlRMMWhETGhXS25tcWJyYkRLcmtta1RLSlNYQzJMUDJjdFE4ejRXX1BianYzRlNSWnBBUXJuWUZMcEY0Zi1ObQ?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 00:03:27 GMT",
+    "source": "스페셜경제",
+    "ageHours": 1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 조희대 탄핵 연내 처리…범여권 결집 본격화",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -8529,3 +8529,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 조희대 탄핵 연내 처리…범여권 결집 본격화 - 스페셜경제
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 조희대 탄핵 연내 처리…범여권 결집 본격화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE42Z1RoUV9rVTZtLUVqenFLeHV2RzVhdnRKc1FWNFV3M1RSbE1BRlRMMWhETGhXS25tcWJyYkRLcmtta1RLSlNYQzJMUDJjdFE4ejRXX1BianYzRlNSWnBBUXJuWUZMcEY0Zi1ObQ?oc=5)
+
+---
+
