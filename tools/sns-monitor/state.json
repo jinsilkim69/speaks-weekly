@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T07:31:16.135Z",
+  "lastCheckedAt": "2026-11-26T07:41:12.268Z",
   "seenPostIds": {
-    "296dc252d2a5a77b8abedebb17d7164a58af668ea49bf4cde9e9c0bb66a02c50": {
-      "seenAt": "2026-11-24T01:21:15.937Z",
-      "title": "‘취임 100일’ 김민석 “당청은 비교적 안정…당내는 더 안정돼야” - 중앙일보",
-      "targetName": "김민석"
-    },
-    "2aad5f8ac6ed608a776d252e5a71812f3879f7799205f94598b6a487aadd33c6": {
-      "seenAt": "2026-11-24T01:21:16.651Z",
-      "title": "정청래 \"근거없는 비밀연합 폭탄으로 당 초토화…이보다 큰 해당행위 있나\" - 뉴스핌",
-      "targetName": "정청래"
-    },
-    "9ddf3104741a9e864491ab881a3e01c942cc78ad4ef3d12ace2c1c6564d811b5": {
-      "seenAt": "2026-11-24T01:21:17.290Z",
-      "title": "조국혁신당, 당명 개정 추진…조국 \"확장성 있는 이름 필요\" - 프레시안",
-      "targetName": "조국"
-    },
     "77201260f0993e52e407d0adc36cce5dbd03ce5b69afebc298fac99c40b49b6f": {
       "seenAt": "2026-11-24T01:31:13.650Z",
       "title": "[이종근의 좌충우돌]조국의 해법, '내 집은 소유하고, 청년의 집은 임대하라' - 매일산업뉴스",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-26T07:31:18.706Z",
       "title": "최민희 징계 앞둔 민주당 내홍…정청래·송영길도 격돌 - 법치뉴스",
       "targetName": "송영길"
+    },
+    "8cab84b8ed5a319a688e2f48e5cee5ab340fe2ae7328feac1010c03cd19ee76c": {
+      "seenAt": "2026-11-26T07:41:13.468Z",
+      "title": "‘日 입국 거부’ 조국, 내달 7일 독도 방문… 국민 참여 원정대 모집 - 천지일보",
+      "targetName": "조국"
+    },
+    "bbb83fd1ae930db62f794f1e587507ca8b8e99be2b46ef5e23355243b797658b": {
+      "seenAt": "2026-11-26T07:41:14.123Z",
+      "title": "김민석 \"이용철 청문보고서, 여야 합의 안 되면 독자 채택\" - 뉴스1",
+      "targetName": "김민석"
+    },
+    "6203bc34db5b1f4fde88bb8da47371b0cfcf4999d906ca6bc28f2ee6f32264bf": {
+      "seenAt": "2026-11-26T07:41:14.726Z",
+      "title": "송영길·정청래 설전…민주당 계파 갈등 확산 - 일간투데이",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "8cab84b8ed5a319a688e2f48e5cee5ab340fe2ae7328feac1010c03cd19ee76c",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "‘日 입국 거부’ 조국, 내달 7일 독도 방문… 국민 참여 원정대 모집 - 천지일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8zeFVncTBUSk1XWVFQR0l6Zkd0NHY3TlFRQW1WbW13QU5DVUZjcUVLOThyc3lWV2ROaUNaMFhKZXczX0ZwV0NBRjVua3ZyWHdEVTFYZnI2b3h1S1FBaFVFWXowcUFqVkJFdWc?oc=5\" target=\"_blank\">‘日 입국 거부’ 조국, 내달 7일 독도 방문… 국민 참여 원정대 모집</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zeFVncTBUSk1XWVFQR0l6Zkd0NHY3TlFRQW1WbW13QU5DVUZjcUVLOThyc3lWV2ROaUNaMFhKZXczX0ZwV0NBRjVua3ZyWHdEVTFYZnI2b3h1S1FBaFVFWXowcUFqVkJFdWc?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 07:11:08 GMT",
-        "source": "천지일보",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "bbb83fd1ae930db62f794f1e587507ca8b8e99be2b46ef5e23355243b797658b",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석 \"이용철 청문보고서, 여야 합의 안 되면 독자 채택\" - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JMTV2QVY1d3pmTHBkQlFCNXpMYVdmMFhDajA5U1JSQjFiWGQ1SkIwdTVydGRPa3JNMDVwaGkyVm9MeFprSTloN204bjd4Y2x4Q1FFdndUbFd2UQ?oc=5\" target=\"_blank\">김민석 \"이용철 청문보고서, 여야 합의 안 되면 독자 채택\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JMTV2QVY1d3pmTHBkQlFCNXpMYVdmMFhDajA5U1JSQjFiWGQ1SkIwdTVydGRPa3JNMDVwaGkyVm9MeFprSTloN204bjd4Y2x4Q1FFdndUbFd2UQ?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 23:04:52 GMT",
-        "source": "뉴스1",
-        "ageHours": 8.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "6203bc34db5b1f4fde88bb8da47371b0cfcf4999d906ca6bc28f2ee6f32264bf",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "송영길·정청래 설전…민주당 계파 갈등 확산 - 일간투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5DUnI4MUtacW1jdjhQaG5Jb0ZnWkd1cGtVX1dfdzR5R0xEdFdUMGZ2VnFldkwzOEJPbG4ydzJXNDhCaG9SWVcxQk5iblRUY1dmdjVoeGdrU0tVRHBJc0M4eHNqRWlZU0Fzd05R?oc=5\" target=\"_blank\">송영길·정청래 설전…민주당 계파 갈등 확산</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">일간투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DUnI4MUtacW1jdjhQaG5Jb0ZnWkd1cGtVX1dfdzR5R0xEdFdUMGZ2VnFldkwzOEJPbG4ydzJXNDhCaG9SWVcxQk5iblRUY1dmdjVoeGdrU0tVRHBJc0M4eHNqRWlZU0Fzd05R?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 01:48:30 GMT",
-        "source": "일간투데이",
-        "ageHours": 5.7
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "154628eb575369da0c8074b3e1516a3a26cdf2216aea7ef599b2eb0142de8a4e",
@@ -2597,13 +2549,93 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "d49dd15637c3e6576f8901a539e21564f9404faac6b2b2c6b04d983b81e83b02",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQndsX1pjZmJnVExRWHRUdEhKYVF4S3Q0VDZRb1hjOGQ3Sm9Zc2E1MEt1SVFIeVY5Q3liWGMyNWtyeVBXVjRxM0V6cEx2ODI5dllyS2h3?oc=5\" target=\"_blank\">친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQndsX1pjZmJnVExRWHRUdEhKYVF4S3Q0VDZRb1hjOGQ3Sm9Zc2E1MEt1SVFIeVY5Q3liWGMyNWtyeVBXVjRxM0V6cEx2ODI5dllyS2h3?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 07:35:45 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "f31329a566104950de5340d1898209e94be81292db1687384f06a6e4ef8e670d",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "조희대 탄핵은 '정권 몰락 트리거' \"김민석 대표 독약 먹는 것\" ㅣ이현종의 뉴스쇼 [문화일보] #shorts - 문화일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUmxEeEZQYW15ZzRMeHd2OUdSbWdyZHg1b2ROSGxnTVAwWFMtOTVxaFdEMkk4bC10UFNaYlJfMlNVekZWMDFBVHBqb3RVQ0t5Tmt0WmJB?oc=5\" target=\"_blank\">조희대 탄핵은 '정권 몰락 트리거' \"김민석 대표 독약 먹는 것\" ㅣ이현종의 뉴스쇼 [문화일보] #shorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUmxEeEZQYW15ZzRMeHd2OUdSbWdyZHg1b2ROSGxnTVAwWFMtOTVxaFdEMkk4bC10UFNaYlJfMlNVekZWMDFBVHBqb3RVQ0t5Tmt0WmJB?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 20:42:00 GMT",
+        "source": "문화일보",
+        "ageHours": 11
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "fd37103a00f62079470062252fc61ab0c68b91236af6f47b6f88b2b3f4c87d43",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQndsX1pjZmJnVExRWHRUdEhKYVF4S3Q0VDZRb1hjOGQ3Sm9Zc2E1MEt1SVFIeVY5Q3liWGMyNWtyeVBXVjRxM0V6cEx2ODI5dllyS2h3?oc=5\" target=\"_blank\">친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQndsX1pjZmJnVExRWHRUdEhKYVF4S3Q0VDZRb1hjOGQ3Sm9Zc2E1MEt1SVFIeVY5Q3liWGMyNWtyeVBXVjRxM0V6cEx2ODI5dllyS2h3?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 07:35:45 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ab9fc43e2ee7037b99c0a1e25ac90c05248d063c7434d2eaa8a3f8fcffe73cb0",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’ - 천지일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQklIdk1SclA0cnZFQ3R1UkNFbUxKZVQwSDhlWl9WX3VEZjdpLTFJSXRwWFpfY2RfY1Ixdk9Od1BVNk5OZ3VRZlo4OExsNGRfS1l3bFdISS1HeFd3Qmc1c3h4Y08tWXM3SWc?oc=5\" target=\"_blank\">정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQklIdk1SclA0cnZFQ3R1UkNFbUxKZVQwSDhlWl9WX3VEZjdpLTFJSXRwWFpfY2RfY1Ixdk9Od1BVNk5OZ3VRZlo4OExsNGRfS1l3bFdISS1HeFd3Qmc1c3h4Y08tWXM3SWc?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 06:48:04 GMT",
+        "source": "천지일보",
+        "ageHours": 0.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "a1c9d3dbab13fcce414f39cd430d0fd26ded213d52f4e14f60fcc9e0a0ca8cff",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "민주당 \"정청래가 만나야\", 김민수 \"의견 개진\" vs. 윤상현 \"이건 또 무슨 애기?\" [앵커리포트] - YTN",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9OSW9MRGFoWUtrLWw5YVZNSE5CempQeEs0UHQ2WUtubWIzbzNKbUJlck5CT2JDSUcyaUl2YU00amdmTGdoSlUwQnJXUlVVd1Bsbm1QbEhpel9iZktRci05UTVDMDR4YWc0ZzJ1ZFE3QQ?oc=5\" target=\"_blank\">민주당 \"정청래가 만나야\", 김민수 \"의견 개진\" vs. 윤상현 \"이건 또 무슨 애기?\" [앵커리포트]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OSW9MRGFoWUtrLWw5YVZNSE5CempQeEs0UHQ2WUtubWIzbzNKbUJlck5CT2JDSUcyaUl2YU00amdmTGdoSlUwQnJXUlVVd1Bsbm1QbEhpel9iZktRci05UTVDMDR4YWc0ZzJ1ZFE3QQ?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 01:00:00 GMT",
+        "source": "YTN",
+        "ageHours": 6.7
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "8324cb3efc4b795ab54fd0e7ffc591761a32de8d9ed711fe986c8884178245ce",
-    "title": "최민희 징계 앞둔 민주당 내홍…정청래·송영길도 격돌 - 법치뉴스",
+    "postId": "6203bc34db5b1f4fde88bb8da47371b0cfcf4999d906ca6bc28f2ee6f32264bf",
+    "title": "송영길·정청래 설전…민주당 계파 갈등 확산 - 일간투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45775894015",
-    "sentAt": "2026-11-26T07:31:18.384Z"
+    "runId": "45777145527",
+    "sentAt": "2026-11-26T07:41:14.420Z"
   }
 }

@@ -9621,3 +9621,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** ‘日 입국 거부’ 조국, 내달 7일 독도 방문… 국민 참여 원정대 모집 - 천지일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘日 입국 거부’ 조국, 내달 7일 독도 방문… 국민 참여 원정대 모집
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE8zeFVncTBUSk1XWVFQR0l6Zkd0NHY3TlFRQW1WbW13QU5DVUZjcUVLOThyc3lWV2ROaUNaMFhKZXczX0ZwV0NBRjVua3ZyWHdEVTFYZnI2b3h1S1FBaFVFWXowcUFqVkJFdWc?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "이용철 청문보고서, 여야 합의 안 되면 독자 채택" - 뉴스1
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "이용철 청문보고서, 여야 합의 안 되면 독자 채택"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JMTV2QVY1d3pmTHBkQlFCNXpMYVdmMFhDajA5U1JSQjFiWGQ1SkIwdTVydGRPa3JNMDVwaGkyVm9MeFprSTloN204bjd4Y2x4Q1FFdndUbFd2UQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길·정청래 설전…민주당 계파 갈등 확산 - 일간투데이
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길·정청래 설전…민주당 계파 갈등 확산
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE5DUnI4MUtacW1jdjhQaG5Jb0ZnWkd1cGtVX1dfdzR5R0xEdFdUMGZ2VnFldkwzOEJPbG4ydzJXNDhCaG9SWVcxQk5iblRUY1dmdjVoeGdrU0tVRHBJc0M4eHNqRWlZU0Fzd05R?oc=5)
+
+---
+

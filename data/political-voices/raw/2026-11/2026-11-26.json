@@ -3071,5 +3071,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "8cab84b8ed5a319a688e2f48e5cee5ab340fe2ae7328feac1010c03cd19ee76c",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "‘日 입국 거부’ 조국, 내달 7일 독도 방문… 국민 참여 원정대 모집 - 천지일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE8zeFVncTBUSk1XWVFQR0l6Zkd0NHY3TlFRQW1WbW13QU5DVUZjcUVLOThyc3lWV2ROaUNaMFhKZXczX0ZwV0NBRjVua3ZyWHdEVTFYZnI2b3h1S1FBaFVFWXowcUFqVkJFdWc?oc=5\" target=\"_blank\">‘日 입국 거부’ 조국, 내달 7일 독도 방문… 국민 참여 원정대 모집</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zeFVncTBUSk1XWVFQR0l6Zkd0NHY3TlFRQW1WbW13QU5DVUZjcUVLOThyc3lWV2ROaUNaMFhKZXczX0ZwV0NBRjVua3ZyWHdEVTFYZnI2b3h1S1FBaFVFWXowcUFqVkJFdWc?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 07:11:08 GMT",
+    "source": "천지일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘日 입국 거부’ 조국, 내달 7일 독도 방문… 국민 참여 원정대 모집",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "bbb83fd1ae930db62f794f1e587507ca8b8e99be2b46ef5e23355243b797658b",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 \"이용철 청문보고서, 여야 합의 안 되면 독자 채택\" - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JMTV2QVY1d3pmTHBkQlFCNXpMYVdmMFhDajA5U1JSQjFiWGQ1SkIwdTVydGRPa3JNMDVwaGkyVm9MeFprSTloN204bjd4Y2x4Q1FFdndUbFd2UQ?oc=5\" target=\"_blank\">김민석 \"이용철 청문보고서, 여야 합의 안 되면 독자 채택\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JMTV2QVY1d3pmTHBkQlFCNXpMYVdmMFhDajA5U1JSQjFiWGQ1SkIwdTVydGRPa3JNMDVwaGkyVm9MeFprSTloN204bjd4Y2x4Q1FFdndUbFd2UQ?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 23:04:52 GMT",
+    "source": "뉴스1",
+    "ageHours": 8.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 \"이용철 청문보고서, 여야 합의 안 되면 독자 채택\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "6203bc34db5b1f4fde88bb8da47371b0cfcf4999d906ca6bc28f2ee6f32264bf",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "송영길·정청래 설전…민주당 계파 갈등 확산 - 일간투데이",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5DUnI4MUtacW1jdjhQaG5Jb0ZnWkd1cGtVX1dfdzR5R0xEdFdUMGZ2VnFldkwzOEJPbG4ydzJXNDhCaG9SWVcxQk5iblRUY1dmdjVoeGdrU0tVRHBJc0M4eHNqRWlZU0Fzd05R?oc=5\" target=\"_blank\">송영길·정청래 설전…민주당 계파 갈등 확산</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">일간투데이</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DUnI4MUtacW1jdjhQaG5Jb0ZnWkd1cGtVX1dfdzR5R0xEdFdUMGZ2VnFldkwzOEJPbG4ydzJXNDhCaG9SWVcxQk5iblRUY1dmdjVoeGdrU0tVRHBJc0M4eHNqRWlZU0Fzd05R?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 01:48:30 GMT",
+    "source": "일간투데이",
+    "ageHours": 5.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길·정청래 설전…민주당 계파 갈등 확산",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
