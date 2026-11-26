@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T02:41:14.000Z",
+  "lastCheckedAt": "2026-11-26T02:51:15.881Z",
   "seenPostIds": {
-    "4288989787c77a0798a61e0c0b1eec390fd686cfd057a5e99f5e48923214d2d9": {
-      "seenAt": "2026-11-23T13:21:18.335Z",
-      "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "434e270b29c06119379319ca186b8142a1059bced1bcf71ab9d3a6c8847c45f4": {
       "seenAt": "2026-11-23T13:31:16.332Z",
       "title": "오세훈 \"대통령의 시간을 '피고인 이재명'에게 쓰지 마시라\" - 대전일보",
@@ -2505,14 +2500,62 @@
       "seenAt": "2026-11-26T02:41:15.040Z",
       "title": "한동훈 “탄핵 확신? 직 걸라” 김용민 “중대사에 판돈”…조희대 탄핵 신경전 - 시사저널",
       "targetName": "한동훈"
+    },
+    "9afe416f56049f5ada50125eb7610209acca5282e11421fc674f22525e1cf95c": {
+      "seenAt": "2026-11-26T02:51:17.417Z",
+      "title": "김민석 민주당 대표 \"조희대 탄핵 5당 연대·민생 총력\" - 브레이크뉴스",
+      "targetName": "김민석"
+    },
+    "c3a57484fad01031d9ad3c655b888fb6dfec389562cfb4d1dfef91f51102d115": {
+      "seenAt": "2026-11-26T02:51:18.118Z",
+      "title": "송영길 \"이 대통령, 정청래 억울함 4시간 들어줘\"…정청래 \"입조심\" - 연합뉴스TV",
+      "targetName": "정청래"
+    },
+    "caf0b571732c63816a4fe49520f81f2ba933520a2acbfa213b9190dbd4840ded": {
+      "seenAt": "2026-11-26T02:51:18.815Z",
+      "title": "정청래 '입' 지적한 정성호 \"볼 때마다 큰 정치하라 말하고 있다\" - OhmyNews",
+      "targetName": "정청래"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "0c6f39c5715e078fb51276a1b749d57fae7e4cf93d02f7de7f042b8d356a5ac9",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "“입 싼 송영길” 깊어지는 갈등의 골…與 중진들 오늘 내홍 수습 나선다 - 서울경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mMzdJUllQX2VOdG0yMDBwaTVfLVFBWHdHZFV4dVVsQmw1eFk3UDN2VWt0T08zQkZKMFdYajlBcHZuak1uVEF2T1NVN1FwdnVOTnfSAVNBVV95cUxPWFNCMXZobUJjZVc5aU5oaHlQdk1iSlN4czB6WksySmp1RnkwTGpQV2l2d2tLNE1SV0NzQnBIRXAzUjc1TzNtc19VNUlQZjdQc05Raw?oc=5\" target=\"_blank\">“입 싼 송영길” 깊어지는 갈등의 골…與 중진들 오늘 내홍 수습 나선다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mMzdJUllQX2VOdG0yMDBwaTVfLVFBWHdHZFV4dVVsQmw1eFk3UDN2VWt0T08zQkZKMFdYajlBcHZuak1uVEF2T1NVN1FwdnVOTnfSAVNBVV95cUxPWFNCMXZobUJjZVc5aU5oaHlQdk1iSlN4czB6WksySmp1RnkwTGpQV2l2d2tLNE1SV0NzQnBIRXAzUjc1TzNtc19VNUlQZjdQc05Raw?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 22:00:00 GMT",
+        "source": "서울경제",
+        "ageHours": 4.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ccb098e222600e7a49b1dd0f03efe6a36c9c59bfde36f88b750cdafc5d3d3e15",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "민주당·조국혁신당, 오늘 오후 조작기소 특검 후보 각각 발표 - 이데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPblY5NFhVeFlvOXllUTZnQnpBbmxSUXZYRGVEeUE0SkNscjJ6M0pnd2M3bVFLZ183QkZxYjhsZHMzMWtvTDhwTW1yemcwVUNJajJCVnd3cENrWnhFMHByelFSYm1YUWhEMGUyUTNmYjduWllDNno5Tjd0emJaOGRPcA?oc=5\" target=\"_blank\">민주당·조국혁신당, 오늘 오후 조작기소 특검 후보 각각 발표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPblY5NFhVeFlvOXllUTZnQnpBbmxSUXZYRGVEeUE0SkNscjJ6M0pnd2M3bVFLZ183QkZxYjhsZHMzMWtvTDhwTW1yemcwVUNJajJCVnd3cENrWnhFMHByelFSYm1YUWhEMGUyUTNmYjduWllDNno5Tjd0emJaOGRPcA?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 02:26:31 GMT",
+        "source": "이데일리",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "fa20fc58536851adf0bbcb83cc910564b1d5837ceb623a09be9a398acdec7818",
-    "title": "한동훈 “탄핵 확신? 직 걸라” 김용민 “중대사에 판돈”…조희대 탄핵 신경전 - 시사저널",
+    "postId": "caf0b571732c63816a4fe49520f81f2ba933520a2acbfa213b9190dbd4840ded",
+    "title": "정청래 '입' 지적한 정성호 \"볼 때마다 큰 정치하라 말하고 있다\" - OhmyNews",
     "bot": "jongsuk_pol_bot",
-    "runId": "45744044542",
-    "sentAt": "2026-11-26T02:41:14.569Z"
+    "runId": "45745126218",
+    "sentAt": "2026-11-26T02:51:18.469Z"
   }
 }

@@ -8815,3 +8815,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 민주당 대표 "조희대 탄핵 5당 연대·민생 총력" - 브레이크뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 민주당 대표 "조희대 탄핵 5당 연대·민생 총력"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFekZkQi1XdnBSNVEzYko3ZGQ3bHh1UE5JN211ejBBcXQzSzA2b2lPbVlKWTBweVVCQXZBWGpNYkhCZmMwd3UyYQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 송영길 "이 대통령, 정청래 억울함 4시간 들어줘"…정청래 "입조심" - 연합뉴스TV
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "이 대통령, 정청래 억울함 4시간 들어줘"…정청래 "입조심"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wOWlzYlFLbV9UNlU0Nk5LNGxvSlFPUlIyU2JaTnlrZWNTN0wzVGNYdnBZUUVJZms0Ti1EbnV5WGVfMndEd1dvYTBHWTV2cnpQenZhQ3pNTU4zbUdJeTh2dmxHMzNKcHM?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래 '입' 지적한 정성호 "볼 때마다 큰 정치하라 말하고 있다" - OhmyNews
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래 '입' 지적한 정성호 "볼 때마다 큰 정치하라 말하고 있다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTFBuc3NCeWlLTy1EOUU4ZjhKVkpWR2NjV3ZEeW9UaTJkcnFCYVd6aDVKOFZsTDVlY1MwdGhNUHlyS2hUNlhpODItNEFyd25FdFluZXdUbzNrbWZyMjlyWUktZ210ckZEYTFOTXowZTYxSEg1cGdTek1z?oc=5)
+
+---
+
