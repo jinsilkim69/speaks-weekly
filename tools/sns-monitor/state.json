@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T21:21:17.392Z",
+  "lastCheckedAt": "2026-11-26T21:31:14.448Z",
   "seenPostIds": {
     "ba823c91b385384dd6cec4f2c2af239cd763d91998fdf432b2b4e1869c08509c": {
       "seenAt": "2026-11-24T09:31:18.093Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-26T21:11:16.123Z",
       "title": "“직을 걸라”는 한동훈… 판 돈처럼 전락한 의원직 - 시사위크",
       "targetName": "한동훈"
+    },
+    "f8adcb9c00d0bf924010dffab49318504c9622b6e8d0bb289b08c91e4e47b7f6": {
+      "seenAt": "2026-11-26T21:31:15.770Z",
+      "title": "국힘, 30일 의총서 '한동훈 조작징계 의혹' 다룬다 - 뉴스1",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "75ff0499475e04ef4fae9c371b69495fcfd97c7a7bf942f99cc5a5063a8940d4",
-    "title": "“직을 걸라”는 한동훈… 판 돈처럼 전락한 의원직 - 시사위크",
+    "postId": "f8adcb9c00d0bf924010dffab49318504c9622b6e8d0bb289b08c91e4e47b7f6",
+    "title": "국힘, 30일 의총서 '한동훈 조작징계 의혹' 다룬다 - 뉴스1",
     "bot": "jongsuk_pol_bot",
-    "runId": "45896332359",
-    "sentAt": "2026-11-26T21:11:15.500Z"
+    "runId": "45898666055",
+    "sentAt": "2026-11-26T21:31:15.158Z"
   }
 }

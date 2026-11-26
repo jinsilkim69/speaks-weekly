@@ -11181,3 +11181,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국힘, 30일 의총서 '한동훈 조작징계 의혹' 다룬다 - 뉴스1
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘, 30일 의총서 '한동훈 조작징계 의혹' 다룬다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zMFpoX2Y3TnpYNGZkbGhfcE9YLVBIRzNVSFJsSVBoTmhKa2dxTzZ1UzhXWjZySWFFOTNPNFVDUVBNRHBoQVY2OWRMU0xHVEd3M2ZBQ09WcTBuZw?oc=5)
+
+---
+
