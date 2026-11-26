@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T10:01:13.331Z",
+  "lastCheckedAt": "2026-11-26T10:11:15.206Z",
   "seenPostIds": {
     "3ecacf9086fa73533aea1014ed6f38e4e05632ed1df9b8c0606d20481cd21e2e": {
       "seenAt": "2026-11-24T03:51:15.909Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-26T09:51:23.902Z",
       "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "0885de0fe28fd9671bd0506ec1652be6a8fb0b7963f932cf24471cebf8376c7f": {
+      "seenAt": "2026-11-26T10:11:16.867Z",
+      "title": "송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트] - YTN",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "93013fe523c01462cc17f7f24d57dee95163509b5a943509beae56ae53f9e16f",
-    "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
+    "postId": "0885de0fe28fd9671bd0506ec1652be6a8fb0b7963f932cf24471cebf8376c7f",
+    "title": "송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트] - YTN",
     "bot": "jongsuk_pol_bot",
-    "runId": "45795788861",
-    "sentAt": "2026-11-26T09:51:23.141Z"
+    "runId": "45798914331",
+    "sentAt": "2026-11-26T10:11:16.141Z"
   }
 }
