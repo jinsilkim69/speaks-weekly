@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T13:51:19.231Z",
+  "lastCheckedAt": "2026-11-26T14:01:14.412Z",
   "seenPostIds": {
-    "24020025b705830ea30170405552fc522d454a7cadb0517dfb2df7895980ac29": {
-      "seenAt": "2026-11-24T05:51:21.430Z",
-      "title": "공수처, '한동훈 딸 허위 스펙' 수사 무마 의혹 수사4부 배당 - 한국경제",
-      "targetName": "한동훈"
-    },
-    "8b4166750a0cbed6aad0431475388e48b0e83cc4d17d831822a5ec80d85787c6": {
-      "seenAt": "2026-11-24T05:51:22.191Z",
-      "title": "[정치분석] 윤상현, 한동훈 ‘기획 제명’ 의혹에 지도부 책임론 제기 … 장동혁 직접 해명 요구 - 인천뉴스",
-      "targetName": "한동훈"
-    },
-    "b4a032b7d7b34eaa1cce716b056819649555287d17896eb49fdbf24d3599ed65": {
-      "seenAt": "2026-11-24T06:01:16.978Z",
-      "title": "정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라” - KBS 뉴스",
-      "targetName": "김민석"
-    },
     "49e6125a89615f8eaf55bc79aabf09a668e485c5bc304500b6354d51801409ec": {
       "seenAt": "2026-11-24T06:01:17.656Z",
       "title": "정청래, 김민석 겨냥 “‘반분신 의혹’ 당 초토화, 일제 부역자 발언으로 정점…결자해지 하라” - KBS 뉴스",
@@ -2515,14 +2500,94 @@
       "seenAt": "2026-11-26T13:51:22.418Z",
       "title": "Trump’s Secret Fury Revealed After Frantic White House Scramble - The Daily Beast",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "1c0912491df409efdd5ff1914a427da6c627a97765f2ff099c101688cb63ca3b": {
+      "seenAt": "2026-11-26T14:01:15.465Z",
+      "title": "與 중진 만찬에 김민석·정청래 불참…정청래 \"화해 빙자 몽둥이 찜질\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
+    },
+    "cd0720cd090dd1fd4dec4c5ac62c2fc2abfc52ea648d5d90e5475249b94b1043": {
+      "seenAt": "2026-11-26T14:01:16.123Z",
+      "title": "정청래, 김민석과 화해 요구에 \"악수한다고 해결되나\" - 대전일보",
+      "targetName": "김민석"
+    },
+    "957e1e5e1e0b27259259511a2c1e37dcd1f14e07f8abf4f1c02cd74e457dbbc3": {
+      "seenAt": "2026-11-26T14:01:16.739Z",
+      "title": "민주 중진들 김빠진 만찬 회동, 김민석·정청래 빠진 자리에서 “단합하고 단결” - 주간경향",
+      "targetName": "김민석"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "eccebc6d8eb182ee011b7573b274153c23201ace057e0bcace2513e099a77b3a",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "중진 만찬 불참한 정청래 \"화해를 빙자한 몽둥이 찜질\" - 연합뉴스TV",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iRDAtTVJ0bGZVNERHYWZXZ09oZjZmRmItbnB2UjlzNDdRSS1OYjdoTFpoNjltN0lvcmcwaFRvc2Z2cDBjY3VUYzhEWGpiZGtEZm5JMWpDSlo4UEh3M285LWx2TGNWRUU?oc=5\" target=\"_blank\">중진 만찬 불참한 정청래 \"화해를 빙자한 몽둥이 찜질\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스TV</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iRDAtTVJ0bGZVNERHYWZXZ09oZjZmRmItbnB2UjlzNDdRSS1OYjdoTFpoNjltN0lvcmcwaFRvc2Z2cDBjY3VUYzhEWGpiZGtEZm5JMWpDSlo4UEh3M285LWx2TGNWRUU?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 13:48:00 GMT",
+        "source": "연합뉴스TV",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "fa975a53c110c5eeba58b719d8da7e4c74f1fba21a707dbe99f956fc0a8947fb",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "與 중진 만찬에 김민석·정청래 불참…정청래 \"화해 빙자 몽둥이 찜질\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1odWhOVWFmZm1UQ21MM3BaRFN2T1NPWEZwc3dWVzBmRHdlcG1PYnFVVDhxLXlYc2E5X08tYW5lMnBNeG1oaldwcG9ILVpFaVlUVXR1T0RqNWVZQnpWWXdWd3lvTlIyVkZZd1RkS9IBckFVX3lxTE5mcG5EZ29nTDZULUt2ZWo1RnVMTll6czIwMFA2Yy1qVmxPWEFsLVowV01BRTdWWXA0QTYzSk1DNnd1RG5RSDhXVHRIREIwZlZuRXJ0bVpWR2hXODg0NnZrVVVEekJVbF9PeGk5YVExaXozUQ?oc=5\" target=\"_blank\">與 중진 만찬에 김민석·정청래 불참…정청래 \"화해 빙자 몽둥이 찜질\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1odWhOVWFmZm1UQ21MM3BaRFN2T1NPWEZwc3dWVzBmRHdlcG1PYnFVVDhxLXlYc2E5X08tYW5lMnBNeG1oaldwcG9ILVpFaVlUVXR1T0RqNWVZQnpWWXdWd3lvTlIyVkZZd1RkS9IBckFVX3lxTE5mcG5EZ29nTDZULUt2ZWo1RnVMTll6czIwMFA2Yy1qVmxPWEFsLVowV01BRTdWWXA0QTYzSk1DNnd1RG5RSDhXVHRIREIwZlZuRXJ0bVpWR2hXODg0NnZrVVVEekJVbF9PeGk5YVExaXozUQ?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 13:51:37 GMT",
+        "source": "머니투데이",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "6551df673176d0b19ff1be0f0d4184f8a5727d62459c688f3ed5db4115e62896",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, 김민석과 화해 요구에 \"악수한다고 해결되나\" - 대전일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5LVjBHeVptRFc0WURQdXZQdmp2MlM2MGVuMm1DWC1VU2dSLU5sWGh6Wl9LTEVzYTY1ZndPMFluR2hOYjdFTkRHYjRPb0xBbE5pNXNaMEhfTXRXMXV0c29lMF9GVlZUaWVKdThxX3ZKQQ?oc=5\" target=\"_blank\">정청래, 김민석과 화해 요구에 \"악수한다고 해결되나\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LVjBHeVptRFc0WURQdXZQdmp2MlM2MGVuMm1DWC1VU2dSLU5sWGh6Wl9LTEVzYTY1ZndPMFluR2hOYjdFTkRHYjRPb0xBbE5pNXNaMEhfTXRXMXV0c29lMF9GVlZUaWVKdThxX3ZKQQ?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 13:35:00 GMT",
+        "source": "대전일보",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "83767b773d09df27c74bbff04a8f87f26b0aee9edcfa19db38d2862c84d9bc2a",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Says Iran’s Leaked Deal Terms are Untrue - EnergyNow",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWFBmaVBMc1Rqb3oxWVUtcXNhanlPZThPU2Fob2xUendtYjROUkRIazBKVHhWNi13WXRtUFpWZ2ZRbDNRV2JIRWVjNnowQ3M2eE1xckxsdDRhYV96Y0pXaG1qQ2JHRGFrTmdnSmM1SHhlUjFJbEZzU0lYTnM3cTYyWg?oc=5\" target=\"_blank\">Trump Says Iran’s Leaked Deal Terms are Untrue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyNow</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWFBmaVBMc1Rqb3oxWVUtcXNhanlPZThPU2Fob2xUendtYjROUkRIazBKVHhWNi13WXRtUFpWZ2ZRbDNRV2JIRWVjNnowQ3M2eE1xckxsdDRhYV96Y0pXaG1qQ2JHRGFrTmdnSmM1SHhlUjFJbEZzU0lYTnM3cTYyWg?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 09:32:07 GMT",
+        "source": "EnergyNow",
+        "ageHours": 4.5
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "ae0c62901706e21c62b2c9806f6d1cefca03090815b3fa235ea334ac6ac5a81a",
-    "title": "Trump’s Secret Fury Revealed After Frantic White House Scramble - The Daily Beast",
+    "postId": "957e1e5e1e0b27259259511a2c1e37dcd1f14e07f8abf4f1c02cd74e457dbbc3",
+    "title": "민주 중진들 김빠진 만찬 회동, 김민석·정청래 빠진 자리에서 “단합하고 단결” - 주간경향",
     "bot": "jongsuk_pol_bot",
-    "runId": "45833140734",
-    "sentAt": "2026-11-26T13:51:22.029Z"
+    "runId": "45834762566",
+    "sentAt": "2026-11-26T14:01:16.420Z"
   }
 }

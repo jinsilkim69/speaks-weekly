@@ -10609,3 +10609,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與 중진 만찬에 김민석·정청래 불참…정청래 "화해 빙자 몽둥이 찜질" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 중진 만찬에 김민석·정청래 불참…정청래 "화해 빙자 몽둥이 찜질"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE1odWhOVWFmZm1UQ21MM3BaRFN2T1NPWEZwc3dWVzBmRHdlcG1PYnFVVDhxLXlYc2E5X08tYW5lMnBNeG1oaldwcG9ILVpFaVlUVXR1T0RqNWVZQnpWWXdWd3lvTlIyVkZZd1RkS9IBckFVX3lxTE5mcG5EZ29nTDZULUt2ZWo1RnVMTll6czIwMFA2Yy1qVmxPWEFsLVowV01BRTdWWXA0QTYzSk1DNnd1RG5RSDhXVHRIREIwZlZuRXJ0bVpWR2hXODg0NnZrVVVEekJVbF9PeGk5YVExaXozUQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석과 화해 요구에 "악수한다고 해결되나" - 대전일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석과 화해 요구에 "악수한다고 해결되나"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE5LVjBHeVptRFc0WURQdXZQdmp2MlM2MGVuMm1DWC1VU2dSLU5sWGh6Wl9LTEVzYTY1ZndPMFluR2hOYjdFTkRHYjRPb0xBbE5pNXNaMEhfTXRXMXV0c29lMF9GVlZUaWVKdThxX3ZKQQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주 중진들 김빠진 만찬 회동, 김민석·정청래 빠진 자리에서 “단합하고 단결” - 주간경향
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주 중진들 김빠진 만찬 회동, 김민석·정청래 빠진 자리에서 “단합하고 단결”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xa2pVSDdQUWdkNDJHWXBZWUFMaGxMOWxhNVJjQ0RSUnlRQUNpeUZMOU50WkhYR3JfRnFMY3ppRWRyZnlrWFgwSEZaZTY0QW5iRkY5Q25TbFNJcVI2Znc?oc=5)
+
+---
+
