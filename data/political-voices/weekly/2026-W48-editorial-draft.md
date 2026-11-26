@@ -9179,3 +9179,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "희귀·중증질환자 치료비 걱정 덜고, 치료받을 희망 키울 것" - 한국NGO신문
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "희귀·중증질환자 치료비 걱정 덜고, 치료받을 희망 키울 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZWXgzNERuZmVpWHJ5NVExRTk0X1g4QXpLWFRVN2pqeVpmZmJWM0phOUQ5Y1BhRjBUQUJGSnlOOW00Unp1cllGWXlDSTlVY0hKbjlvdy1ZVF9waTFwTEdWRkIwSlpUQW82?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김영환 전 충북지사 "김민석 총리, 탄핵·특검·내란몰이 열차 멈춰야" - 뉴스핌
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김영환 전 충북지사 "김민석 총리, 탄핵·특검·내란몰이 열차 멈춰야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxVnM4aHg5YkZtY1J4cHNfUVJkS25DZkgzeWo1NWRmYmpEMmpjalYwSDdMdXUxYkg4UUhvelZmNDg5V2tzdHVnNXo3ZkR6Q1VpZU0zUmRMZmIwMDZp?oc=5)
+
+---
+
