@@ -9114,3 +9114,29 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** [속보] 조국 “공공기관 떠난 서울·수도권 알짜 땅에 공공주택 짓자” - 경기일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “공공기관 떠난 서울·수도권 알짜 땅에 공공주택 짓자”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE14ZkxWVXY4dGdoQXdHZW1MUUMxUkNzQWc4NDhnNy1lbVV1RHpwZTMycVZJdVNRaDhkamZ5bmVMSTRqcE0tMkd0Sk0xRVJnZFV4OHFXOVI0Q2tIUWM?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Media & Technology Group | Truth Social, DJT, History, & TAE
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE5lT2dhSXRTdXhSaGh2djRnVUFnTUdVRlZzRzdxdXdjTElyMF9ZeWJUUG1kbWJIYUlpWkhJVTdoREJsWU9TaEdibjNIdE4wdjFwQTk4bmZaU2lNRm4tM1Z1M0trcFdhZ2kyM1ZDYWZwQmphRDg?oc=5)
+
+---
+

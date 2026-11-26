@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T04:21:16.710Z",
+  "lastCheckedAt": "2026-11-26T04:31:12.384Z",
   "seenPostIds": {
-    "7e482f93cf3b52af3da8b2b9e3c4f369afe655efa0bb297039218cd954a94117": {
-      "seenAt": "2026-11-23T15:31:19.940Z",
-      "title": "‘Great Patriot and National Treasure’: Trump Applauds NVIDIA’s Decision to Reinstate Jensen Huang - Time Magazine",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "f4922f4518285b41d9bb98de1a446fe63dc0dfbc0eebcb6443c7eff2c70541e9": {
-      "seenAt": "2026-11-23T16:01:26.957Z",
-      "title": "Trump says it will be ‘very hard’ to work with Schumer as Senate leader - Baltimore Sun",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "90714a8289db0557c4290f409a3090ccede74a01a1363eee690d550e92affddf": {
-      "seenAt": "2026-11-23T16:01:28.089Z",
-      "title": "김민석, 친청계 겨냥 “일제 부역자” 발언 박선원에 경고…박 “경고에 예외 없어야” - KBS 뉴스",
-      "targetName": "김민석"
-    },
     "6925d6fedb80bb41c6683ba1c75ee5f38a1fb9ab06bab57690a86fd3524db998": {
       "seenAt": "2026-11-23T16:11:15.976Z",
       "title": "한동훈 제명, 尹 사형 구형일 맞춰 기획했나… 국힘 윤리위원 추가 폭로 - 천지일보",
@@ -2515,14 +2500,24 @@
       "seenAt": "2026-11-26T04:21:19.238Z",
       "title": "조국 “2차 공공기관 이전, 그 자리에 국민이 살고 싶은 집 지어야” - www.dt.co.kr",
       "targetName": "조국"
+    },
+    "8e067ce1e09b8561c2461bae8fd27cf6eaa4bdbcd0227a24a48f24844ac2895d": {
+      "seenAt": "2026-11-26T04:31:13.686Z",
+      "title": "[속보] 조국 “공공기관 떠난 서울·수도권 알짜 땅에 공공주택 짓자” - 경기일보",
+      "targetName": "조국"
+    },
+    "32428b4bfbdbe8d3e692d12bdec7815a9626f7016fee1afba53eedd5b80e10f8": {
+      "seenAt": "2026-11-26T04:31:14.381Z",
+      "title": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "cf90734eb85767e414a2ff610a0f49b68c730e1aa93661fce4cd32aeafb4b70c",
-    "title": "조국 “2차 공공기관 이전, 그 자리에 국민이 살고 싶은 집 지어야” - www.dt.co.kr",
+    "postId": "32428b4bfbdbe8d3e692d12bdec7815a9626f7016fee1afba53eedd5b80e10f8",
+    "title": "Trump Media & Technology Group | Truth Social, DJT, History, & TAE - Britannica",
     "bot": "jongsuk_pol_bot",
-    "runId": "45754635908",
-    "sentAt": "2026-11-26T04:21:18.884Z"
+    "runId": "45755699061",
+    "sentAt": "2026-11-26T04:31:14.051Z"
   }
 }
