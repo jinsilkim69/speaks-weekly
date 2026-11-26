@@ -4552,5 +4552,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6ea8d702e1d587310a2b95ad121a113f81416a662841cf28edcfcf175aa24e2e",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "민주당 중진 12명 만찬 회동…김민석·정청래 만남은 불발 - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vblh3YVlGeVF0TWswQnl0d3lXd3c3b0RqR2xDMnUwQWtvTkI3SHhUd3NRdGNFUUJueTVoOWEtaW12MUZsTDBzbTEtbXY1ZVVIMU5xcFc0QnJRUQ?oc=5\" target=\"_blank\">민주당 중진 12명 만찬 회동…김민석·정청래 만남은 불발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vblh3YVlGeVF0TWswQnl0d3lXd3c3b0RqR2xDMnUwQWtvTkI3SHhUd3NRdGNFUUJueTVoOWEtaW12MUZsTDBzbTEtbXY1ZVVIMU5xcFc0QnJRUQ?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 12:21:29 GMT",
+    "source": "뉴스1",
+    "ageHours": 0.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당 중진 12명 만찬 회동…김민석·정청래 만남은 불발",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "470e0e07d2b3e96254896a74fddceb769a825d2d985387d6adcb1626f9ad52a4",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "정청래 \"나는 '반분신' 몽둥이로 맞아, 위로도 없어\"…중진회동 겨냥 - 뉴스1",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zX18wNENrV1E1SzZYYW01UzJqRUJnTUd3YkozbUNIZ2E5aVoxODhoQUJrU1JfNzVTaVBHVnNidnVOUGRLc3ZGNFJ4OTliM3Y5NnFLcFNNQVFtUQ?oc=5\" target=\"_blank\">정청래 \"나는 '반분신' 몽둥이로 맞아, 위로도 없어\"…중진회동 겨냥</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zX18wNENrV1E1SzZYYW01UzJqRUJnTUd3YkozbUNIZ2E5aVoxODhoQUJrU1JfNzVTaVBHVnNidnVOUGRLc3ZGNFJ4OTliM3Y5NnFLcFNNQVFtUQ?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 10:10:33 GMT",
+    "source": "뉴스1",
+    "ageHours": 2.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래 \"나는 '반분신' 몽둥이로 맞아, 위로도 없어\"…중진회동 겨냥",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "3b487843373722f98b2de745c398d7b477b9e837ad8803b3ffaba346246d949b",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Demands Lower Gas Prices From Oil Companies, Chides Chevron CEO - EnergyNow.com",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFJ6YmgybVVRNmhHYmszYmhFVkw0T1JFQVFNUWk0SlRVMk12T3dZQzl5UmcxX1U0TGVqajI2WUJfRnhJOVhzdWt1XzBoQ3BXQXNuREhoZTg0eExLQjNLenYzd3pJeXZiZkExbG92UGFEbEU3Z2FmbWRTdGRYVURfVVl2NC1EYkIwaDl4V3JaQmRtb3ZHX05yYmRYZklwUEpy?oc=5\" target=\"_blank\">Trump Demands Lower Gas Prices From Oil Companies, Chides Chevron CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyNow.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFJ6YmgybVVRNmhHYmszYmhFVkw0T1JFQVFNUWk0SlRVMk12T3dZQzl5UmcxX1U0TGVqajI2WUJfRnhJOVhzdWt1XzBoQ3BXQXNuREhoZTg0eExLQjNLenYzd3pJeXZiZkExbG92UGFEbEU3Z2FmbWRTdGRYVURfVVl2NC1EYkIwaDl4V3JaQmRtb3ZHX05yYmRYZklwUEpy?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 23:23:02 GMT",
+    "source": "EnergyNow.com",
+    "ageHours": 13.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Demands Lower Gas Prices From Oil Companies, Chides Chevron CEO",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
