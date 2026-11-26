@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T14:21:14.223Z",
+  "lastCheckedAt": "2026-11-26T14:31:14.549Z",
   "seenPostIds": {
-    "322558f1e0c8c921a17221bf6a656a46b6ba8cba91f1c6c0ed5cfc0db058a7aa": {
-      "seenAt": "2026-11-24T06:21:19.314Z",
-      "title": "김민석 취임 100일에 비판 글 쏟아낸 정청래…전직 당대표의 책임은 없나 - 주간경향",
-      "targetName": "정청래"
-    },
-    "d1065ac9ac0d11d0aa263dc1b86be774508e079434e620cc65e147004a804650": {
-      "seenAt": "2026-11-24T06:21:19.918Z",
-      "title": "한동훈, 장동혁 기자회견에 '윤리위 독립기구·징계 사전에 몰랐다는 건 거짓말…정적 징계 배후 조종 인정' - 매일신문",
-      "targetName": "한동훈"
-    },
-    "d6dcf6dd4c6e7143a56a47f43b73fb88b66b4106fa9e05637405eceb69acd055": {
-      "seenAt": "2026-11-24T06:31:16.717Z",
-      "title": "‘한동훈 제명’ 발표 시점, 미리 정했나…‘기획 징계’ 의혹에 장동혁 사퇴론 다시 불붙어 - 매일경제",
-      "targetName": "한동훈"
-    },
     "8b3b05daf3743edda968916c2c6d0633041e22542a4c1b8d04ba9b6a85af0e2d": {
       "seenAt": "2026-11-24T06:31:17.438Z",
       "title": "송영길 \"반도체 클러스터 성공 열쇠는 지역사회 합심\" - 동행미디어 시대",
@@ -2515,31 +2500,24 @@
       "seenAt": "2026-11-26T14:21:17.093Z",
       "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스 한민족센터",
       "targetName": "정청래"
+    },
+    "253c1ec326747d909c8ba6a2d9cf02ab9b88fddd39752383ca0c3b991dec5379": {
+      "seenAt": "2026-11-26T14:31:15.766Z",
+      "title": "President Trump kicks off Thanksgiving with screed a gainst ‘lowlife’ NY Times reporter - New York Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "dea8e833a012f982f5ba8873d26e7e67c1a458d789c071f722bac4df8eb7e233": {
+      "seenAt": "2026-11-26T14:31:16.493Z",
+      "title": "Trump kicks off Thanksgiving ranting about his successes and attacking ‘lowlife’ journalist - The Independent",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "253c1ec326747d909c8ba6a2d9cf02ab9b88fddd39752383ca0c3b991dec5379",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "President Trump kicks off Thanksgiving with screed a gainst ‘lowlife’ NY Times reporter - New York Post",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRXpqVFc0Ym9Sa3JkMDNJSzhnMmtrTG8zOUphVGR0WDZ1dTY4NUQ2T1prdUFHVmZmX2NMY3E3UGZMQTRCa0lCM19iU19HdThzLW5samR6TjBNWDFoaGNVYjViOTVrejJiSnpzdFk5VmJ5RG5scmItSkpvWTlmSy1HRTRxNEczQkRaNWpTRjBOS3RmcmhtWENjNjM2Uld5dWdjRXpPQUZ4UVNsWkRLc3NRQlJScUsta1QzX0k5aUVESlQzSXJpMFJmRGQtZkZzX0piSDV5aDZEVlgycXE1?oc=5\" target=\"_blank\">President Trump kicks off Thanksgiving with screed a gainst ‘lowlife’ NY Times reporter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRXpqVFc0Ym9Sa3JkMDNJSzhnMmtrTG8zOUphVGR0WDZ1dTY4NUQ2T1prdUFHVmZmX2NMY3E3UGZMQTRCa0lCM19iU19HdThzLW5samR6TjBNWDFoaGNVYjViOTVrejJiSnpzdFk5VmJ5RG5scmItSkpvWTlmSy1HRTRxNEczQkRaNWpTRjBOS3RmcmhtWENjNjM2Uld5dWdjRXpPQUZ4UVNsWkRLc3NRQlJScUsta1QzX0k5aUVESlQzSXJpMFJmRGQtZkZzX0piSDV5aDZEVlgycXE1?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 13:58:00 GMT",
-        "source": "New York Post",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "7b431ec18c9469a12976cee9501d5937925f0a2d4547d82a9e2edf5ecc615289",
-    "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스 한민족센터",
+    "postId": "dea8e833a012f982f5ba8873d26e7e67c1a458d789c071f722bac4df8eb7e233",
+    "title": "Trump kicks off Thanksgiving ranting about his successes and attacking ‘lowlife’ journalist - The Independent",
     "bot": "jongsuk_pol_bot",
-    "runId": "45838103459",
-    "sentAt": "2026-11-26T14:21:16.668Z"
+    "runId": "45839792780",
+    "sentAt": "2026-11-26T14:31:16.089Z"
   }
 }
