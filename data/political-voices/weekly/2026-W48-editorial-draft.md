@@ -10349,3 +10349,42 @@
 
 ---
 
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** 개혁신당, 천하람 순천 출마 수용…공천 조기 확정 - 쿠키뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 개혁신당, 천하람 순천 출마 수용…공천 조기 확정
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hUVhoZWh2S0xUc28zU2J1bDRYZ21WQzBnM29yakF1SDdEUWdfS0hVMWxoN2oyQmJJSzF2QnFmY24yQ0diQnhMWVphQ0FIa0VDR25TTUFhNlhXSmRTUjE4blJqMA?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Sleepless Trump, 80, Unravels in Seething Thanksgiving Truth Social Tirade - Yahoo
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Sleepless Trump, 80, Unravels in Seething Thanksgiving Truth Social Tirade
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinAFBVV95cUxOelVWS0lyay1uMUw1LWFCYTJkd2liQ3VZWGVjbzFUU2x2clRWbUFsdm1Ra1g1aXVsZzc5QUVyQnc4OU9kcmt2ZWZORi1Ec1h1T1ZUN3E5OTlBdnJmS2JUdWZqNk8tU2lzeExRZzR6VVlTRVJseTRlUWtOc0k3X2tEZVE0SEdVT3QxYXIxTTFUSmstdnQxVnA0bTBxNWk?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 징계 결정 임박에 긴장 고조…중진 만찬, 김민석·정청래 다 불참 - 한겨레
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 징계 결정 임박에 긴장 고조…중진 만찬, 김민석·정청래 다 불참
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE1NTlkxLTltT09QV0lrVFotaDVYUGxOSjJQcExpNi0xTTh4NHpVVU04bzBvM0xnUGU5RE5YMVBsbUJMWVcxTFE3Z1ZISWJsVFBMMFkzTVowMkd1b0hKbkxGc21qY1B4TnhKd1RsUXlCLXNPTHhN?oc=5)
+
+---
+
