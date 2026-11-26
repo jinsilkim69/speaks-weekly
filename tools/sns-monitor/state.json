@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T01:41:13.728Z",
+  "lastCheckedAt": "2026-11-26T01:51:13.621Z",
   "seenPostIds": {
-    "9addd26deb3044f5c4b0b75c60927718f10bf1a3dfd2194c85551dfab484c32a": {
-      "seenAt": "2026-11-23T11:11:15.714Z",
-      "title": "천하람, 연평도 포격전 16주기 맞아 전사자 묘역 참배..\"용기와 헌신에 감사\" - 파이낸셜뉴스",
-      "targetName": "천하람"
-    },
     "4ffc4e1a0cefb5d57e414c3afeae67b01127c87a2f39bc35898535f8eaeaf044": {
       "seenAt": "2026-11-23T11:21:22.423Z",
       "title": "오세훈 “대통령 이재명 시간, 피고인 이재명에게 쓰지 말라” - 중앙일보",
@@ -2505,14 +2500,62 @@
       "seenAt": "2026-11-26T01:41:14.769Z",
       "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
       "targetName": "신장식"
+    },
+    "aefb2411f1f02615a77a26c1eb3f549576d127a863d8685e87f54a242e75001e": {
+      "seenAt": "2026-11-26T01:51:15.040Z",
+      "title": "김용민, 한동훈 직격 \"의원직 판돈 걸듯 가벼운 태도\" - 조세일보",
+      "targetName": "한동훈"
+    },
+    "9e743cce7e36d2ec9eca4a4fcbaf8db3ba5fe1ce8ab75c4cdffc1fe15723ed4c": {
+      "seenAt": "2026-11-26T01:51:15.684Z",
+      "title": "조갑제 “국민 속인 장동혁 자진사퇴”… 김성태 “한동훈, 법적 판단 구해야” - 아이엠피터뉴스",
+      "targetName": "한동훈"
+    },
+    "ee1f8df3a17cc02b79f17bbddc88e35bba697fe67db8f18b7261f493a79ff74b": {
+      "seenAt": "2026-11-26T01:51:16.336Z",
+      "title": "천하람 “조희대 탄핵, 비상계엄 못잖은 미친 짓”…민주당·정부 정책 맹비난 - 매일경제",
+      "targetName": "천하람"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "cd6449ec937c5b4ba854ffc00104dea7af057c3c4db9643d1164b2cbda6b256b",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 “공공기관 이전 부지에 공공주택 짓자…‘제2의 무상급식’으로” - 매일경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ga1Nrak1BbWRrVjZXdFZDNkpDTXVnSWJCUWhkeDlGUzlMczFJUGt5UlFScEt6aHNiTE4xNmR1MG8yZUljSFR1cUZwaS12UFBySzFRNHplc3A?oc=5\" target=\"_blank\">조국 “공공기관 이전 부지에 공공주택 짓자…‘제2의 무상급식’으로”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ga1Nrak1BbWRrVjZXdFZDNkpDTXVnSWJCUWhkeDlGUzlMczFJUGt5UlFScEt6aHNiTE4xNmR1MG8yZUljSFR1cUZwaS12UFBySzFRNHplc3A?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 01:38:24 GMT",
+        "source": "매일경제",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "b49a7ac77074a17ac1863e14331086078884f8fcf9ab864061ec8c4e4c07064a",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump says he’ll meet El-Sayed, who offered to call Medicare for All ‘Trumpcare’ - Crain's Detroit",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2kxeFJiV3FjT2FlTmFYYkIyWFpDd0dldHZkb3kzcVpGcmFWV1VFaTc1Sy03V29lcXJFN1RxU0xreXVvUHd5Q2FCUUFhNVFYMUlkQWg3SEJCdzN1VWdFRVQ0TkI3NmdpdGZPVV9UVFV3ZjUyYmZ2V2xvMXhKTzdiRDQ1Vml1TEgyVFNzSHdhSWZwVllXY0E4dQ?oc=5\" target=\"_blank\">Trump says he’ll meet El-Sayed, who offered to call Medicare for All ‘Trumpcare’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crain's Detroit</font>",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2kxeFJiV3FjT2FlTmFYYkIyWFpDd0dldHZkb3kzcVpGcmFWV1VFaTc1Sy03V29lcXJFN1RxU0xreXVvUHd5Q2FCUUFhNVFYMUlkQWg3SEJCdzN1VWdFRVQ0TkI3NmdpdGZPVV9UVFV3ZjUyYmZ2V2xvMXhKTzdiRDQ1Vml1TEgyVFNzSHdhSWZwVllXY0E4dQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 19:42:00 GMT",
+        "source": "Crain's Detroit",
+        "ageHours": 6.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "25a694c6bd2b3237655f7fc9eaf0fac6004a06f469727e96ac27f16bc99ec844",
-    "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
+    "postId": "ee1f8df3a17cc02b79f17bbddc88e35bba697fe67db8f18b7261f493a79ff74b",
+    "title": "천하람 “조희대 탄핵, 비상계엄 못잖은 미친 짓”…민주당·정부 정책 맹비난 - 매일경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45737397827",
-    "sentAt": "2026-11-26T01:41:14.264Z"
+    "runId": "45738497886",
+    "sentAt": "2026-11-26T01:51:15.996Z"
   }
 }
