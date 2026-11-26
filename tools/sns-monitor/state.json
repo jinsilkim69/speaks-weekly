@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T12:21:14.135Z",
+  "lastCheckedAt": "2026-11-26T12:31:13.614Z",
   "seenPostIds": {
     "4a7683807e6e1cf39f5412c1ef07a42d70cbaab1d1f08ee872e1dce3aa5143c7": {
       "seenAt": "2026-11-24T04:31:17.972Z",
@@ -2500,14 +2500,46 @@
       "seenAt": "2026-11-26T12:11:16.524Z",
       "title": "친청 지지층 28일 김민석 사퇴 촉구 집회…여권 분열 심화 - 법치뉴스",
       "targetName": "김민석"
+    },
+    "a6e785b6904c5187875b5464b68a0e54ee4e392636aabe0dd843acdd2917abcb": {
+      "seenAt": "2026-11-26T12:31:14.711Z",
+      "title": "천하람 \"한동훈, 조희대 탄핵 인용 의원직 건다?...뭘 자꾸 건다고, 가벼워, 언어 좀 조절해야\"[여의도초대석] - KBC광주방송",
+      "targetName": "한동훈"
+    },
+    "8beb0e4e242813559a94e6fbf2c656e5dbdf09599765e6d9cca1b1f54936984c": {
+      "seenAt": "2026-11-26T12:31:15.324Z",
+      "title": "불안한 김민석, 李는 한준호 키운다 … 여권 차기 대권구도 '요동' - 뉴데일리",
+      "targetName": "김민석"
+    },
+    "826a0a53edf3b1ca964ecbcabcb452a537d535b4ffd2d7c748d4d46a0d074317": {
+      "seenAt": "2026-11-26T12:31:15.967Z",
+      "title": "이재호 인천 연수구청장, 송영길의원의 ‘비아냥 발언’에 사과 요구 - www.dt.co.kr",
+      "targetName": "송영길"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "51bbb94bc14113e3377d416851cf943c248b45ea9d8adc94fa7f285319a22eb7",
+        "targetId": "cheon_haram",
+        "targetName": "천하람",
+        "targetTitle": "개혁신당 원내대표",
+        "title": "천하람 \"한동훈, 조희대 탄핵 인용 의원직 건다?...뭘 자꾸 건다고, 가벼워, 언어 좀 조절해야\"[여의도초대석] - KBC광주방송",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Kdy1UZ0NBelpFS2kycmpFMUJRRFE5SmpJZXVNX3YzdWt3cXFxUVFueU9haVN5QVIzWXFVLXlYWFI5RDhxamdIZzdDSElzeTNzb1NpQk1ZbnRSX3VpbzBQa2hn?oc=5\" target=\"_blank\">천하람 \"한동훈, 조희대 탄핵 인용 의원직 건다?...뭘 자꾸 건다고, 가벼워, 언어 좀 조절해야\"[여의도초대석]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Kdy1UZ0NBelpFS2kycmpFMUJRRFE5SmpJZXVNX3YzdWt3cXFxUVFueU9haVN5QVIzWXFVLXlYWFI5RDhxamdIZzdDSElzeTNzb1NpQk1ZbnRSX3VpbzBQa2hn?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 04:39:05 GMT",
+        "source": "KBC광주방송",
+        "ageHours": 7.9
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "2b9f7b207e978d4bdee71339c3b39576b13e273e29e98ff100da89dacce6c5bd",
-    "title": "친청 지지층 28일 김민석 사퇴 촉구 집회…여권 분열 심화 - 법치뉴스",
+    "postId": "826a0a53edf3b1ca964ecbcabcb452a537d535b4ffd2d7c748d4d46a0d074317",
+    "title": "이재호 인천 연수구청장, 송영길의원의 ‘비아냥 발언’에 사과 요구 - www.dt.co.kr",
     "bot": "jongsuk_pol_bot",
-    "runId": "45817269962",
-    "sentAt": "2026-11-26T12:11:15.940Z"
+    "runId": "45820369778",
+    "sentAt": "2026-11-26T12:31:15.630Z"
   }
 }
