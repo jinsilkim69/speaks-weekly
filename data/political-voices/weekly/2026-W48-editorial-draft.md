@@ -9348,3 +9348,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 국정 긍정 43%..소폭 하락 - 일간경기
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 국정 긍정 43%..소폭 하락
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE51YkpnbjdKZm9KcHY4WGVzbXpGQ2YxOGp5Y0ktNFdpd2Zja2lNLWxyS2lfMWtMMThlVTdkSDBVSHd3Z0tkNVVzNG5WQ012ME9jU0lBQ19RZVQ0YnlUbmpEb0g5SDJMZTFh?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 민주당 "정청래가 만나야", 김민수 "의견 개진" vs. 윤상현 "이건 또 무슨 애기?" [앵커리포트] - YTN
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 "정청래가 만나야", 김민수 "의견 개진" vs. 윤상현 "이건 또 무슨 애기?"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yUWFjX1AyYlowT0s0cjJyWGZteF8wRDVaMjV1SUJxR3pqR1g5d2dsa2swdFhZU0VTdFNuWUE2YmpfcExNNDdtcHpxNFp4aWd4M1RQWE1ENFNPbXpSSXc?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정성호 “중진 만찬 참석하라고 정청래에 전화했는데 안 받더라” - 주간경향
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정성호 “중진 만찬 참석하라고 정청래에 전화했는데 안 받더라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GUlFBQjFKR2ZWWFc2SUpZZ2xJc3B4Zlk4ZVBfX3ZmbS1MRTBwN0MxV3k3QlJqLW5xTEw4dVhlN3hkSkxvZmhMNjM5bkpNLVNObFJacjJHYUhZUDdFd1E?oc=5)
+
+---
+

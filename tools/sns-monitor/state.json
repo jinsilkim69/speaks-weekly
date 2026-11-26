@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T06:21:17.829Z",
+  "lastCheckedAt": "2026-11-26T06:31:15.821Z",
   "seenPostIds": {
-    "06847ff7d0a322987095878ab774355f76bdfd2af84b8abdeb3027c65c3fc285": {
-      "seenAt": "2026-11-23T20:11:17.432Z",
-      "title": "카메라 앞서도 터진 내분…김민석 100일만에 탄핵 외친 속사정 - 중앙일보",
-      "targetName": "김민석"
-    },
-    "ce5502f6fecfe8656599736918dd8ee6083417033a84e31f6e8d3ab600e7f7ca": {
-      "seenAt": "2026-11-23T20:11:18.043Z",
-      "title": "Trump shares video comparing scrutiny of Schumer’s age to Biden’s - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "19e4ed2627346437af8f86f70d9f77ca4c62887fb4bea9fe69df6159de26c993": {
       "seenAt": "2026-11-23T20:51:17.579Z",
       "title": "정청래, 두 달 새 김민석 추월…민주당 당권 경쟁 ‘초박빙’ - 쿠키뉴스",
@@ -2510,14 +2500,94 @@
       "seenAt": "2026-11-26T06:21:19.993Z",
       "title": "‘日입국 거부’ 조국, 다음 달 7일 독도 재방문 - 헤럴드경제",
       "targetName": "조국"
+    },
+    "d97a5da22e2b4ce4d81640e0034865cc81fa738dc56af579f649e4bde8c0b4ba": {
+      "seenAt": "2026-11-26T06:31:17.268Z",
+      "title": "이재명 대통령 국정 긍정 43%..소폭 하락 - 일간경기",
+      "targetName": "이재명"
+    },
+    "20d4fc6754b7f08049212dc2467123aa4421f68b836369fe2ba94d00be4b3a37": {
+      "seenAt": "2026-11-26T06:31:17.926Z",
+      "title": "민주당 \"정청래가 만나야\", 김민수 \"의견 개진\" vs. 윤상현 \"이건 또 무슨 애기?\" [앵커리포트] - YTN",
+      "targetName": "정청래"
+    },
+    "bb6400772960a44d38da2c54f9b0434704e3b921b697c392e0d2415f3f8aa4b1": {
+      "seenAt": "2026-11-26T06:31:18.608Z",
+      "title": "정성호 “중진 만찬 참석하라고 정청래에 전화했는데 안 받더라” - 주간경향",
+      "targetName": "정청래"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "967e527aaad4a7dddd87ea17c59f28b6a9dd9afe0b3c55e58ced52d7cc429657",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "대통령과의 비공개 만찬 공개에 정청래 반발…송영길과 갈등 표면화 - 뉴스21일간",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TY1A1TFVUMWt0T29ZY0FHYkpyWndmYmJoaGRCT3lJVFJHZnBKRmZENTVqNVlwODVnNEFqQkVtZFV1cHhUV2JFZVJxRU1JQQ?oc=5\" target=\"_blank\">대통령과의 비공개 만찬 공개에 정청래 반발…송영길과 갈등 표면화</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스21일간</font>",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TY1A1TFVUMWt0T29ZY0FHYkpyWndmYmJoaGRCT3lJVFJHZnBKRmZENTVqNVlwODVnNEFqQkVtZFV1cHhUV2JFZVJxRU1JQQ?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 08:35:24 GMT",
+        "source": "뉴스21일간",
+        "ageHours": 21.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5df7673db041ddda70a8aba799ad90d4e95cc36eaf675f33cd4529995f7a5444",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "\"대통령에 4시간 성토\" \"입조심하라\"…송영길·정청래 '정면충돌' - 뉴스토마토",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUk9kSFdneXpFRDBBWkZtbkJmbUZ1emljRzdkQm1tRVVGU3VQNnRma1dfOEx5LXhaMm55R011dTl2OE9NTVhaclJpY2lwaG9sMk1TTEN5aVFDUlJ1VXpZRA?oc=5\" target=\"_blank\">\"대통령에 4시간 성토\" \"입조심하라\"…송영길·정청래 '정면충돌'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUk9kSFdneXpFRDBBWkZtbkJmbUZ1emljRzdkQm1tRVVGU3VQNnRma1dfOEx5LXhaMm55R011dTl2OE9NTVhaclJpY2lwaG9sMk1TTEN5aVFDUlJ1VXpZRA?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 08:48:21 GMT",
+        "source": "뉴스토마토",
+        "ageHours": 21.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "9bf1381987036b4421b9d918a1dc47d4c67be3bdf9b32117aa63a60211f5713e",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "민주당 내홍, 송영길·정청래 공개 설전…중진 회동서 수습 주목 - 국제뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9pelNEcjU0Xzg4ZVI5SWFuZFZwNlU1TlV5M1NkNWhKalZ2Zl82N2dyUXlPMmtJcWZpaG5SdnVFRUI1OW5ZNERNdV8zWVhIUng0Wlh5QXNYWWZtemQxMnBGVTRyaF9IUm1YaTBhVUd3?oc=5\" target=\"_blank\">민주당 내홍, 송영길·정청래 공개 설전…중진 회동서 수습 주목</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pelNEcjU0Xzg4ZVI5SWFuZFZwNlU1TlV5M1NkNWhKalZ2Zl82N2dyUXlPMmtJcWZpaG5SdnVFRUI1OW5ZNERNdV8zWVhIUng0Wlh5QXNYWWZtemQxMnBGVTRyaF9IUm1YaTBhVUd3?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 02:40:05 GMT",
+        "source": "국제뉴스",
+        "ageHours": 3.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "4a73e260e39f364c091997241a52997423dd61f2d4fd2a733a1ecb54d4c9d7b3",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 \"공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자\" 제안 - 국제신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWtFY2FpcmxRaFZ5Z0JhUVpJTEZLVXlnMGdkamFWYlR3UUk3YWlybmpQSDh4bm5wV0NJYk9mZDFjYjlTcUhFeXl5UUpNM3cxOTVVbXk5ZWROX1hWWWUxT0VvX3lGRWpHeW8tWFAtb1dqYWZzRXpKa2EtMnpfUi11OHUwdG9veUVzVzdn?oc=5\" target=\"_blank\">조국 \"공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자\" 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWtFY2FpcmxRaFZ5Z0JhUVpJTEZLVXlnMGdkamFWYlR3UUk3YWlybmpQSDh4bm5wV0NJYk9mZDFjYjlTcUhFeXl5UUpNM3cxOTVVbXk5ZWROX1hWWWUxT0VvX3lGRWpHeW8tWFAtb1dqYWZzRXpKa2EtMnpfUi11OHUwdG9veUVzVzdn?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 06:29:00 GMT",
+        "source": "국제신문",
+        "ageHours": 0
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "09b05654e183278834ed5a37ea94837742ab799fccd86f8d41fdacf097bbfdc5",
-    "title": "‘日입국 거부’ 조국, 다음 달 7일 독도 재방문 - 헤럴드경제",
+    "postId": "bb6400772960a44d38da2c54f9b0434704e3b921b697c392e0d2415f3f8aa4b1",
+    "title": "정성호 “중진 만찬 참석하라고 정청래에 전화했는데 안 받더라” - 주간경향",
     "bot": "jongsuk_pol_bot",
-    "runId": "45767573913",
-    "sentAt": "2026-11-26T06:21:19.611Z"
+    "runId": "45768733501",
+    "sentAt": "2026-11-26T06:31:18.269Z"
   }
 }
