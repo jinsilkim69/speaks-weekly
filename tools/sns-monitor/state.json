@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T03:51:13.269Z",
+  "lastCheckedAt": "2026-11-26T04:01:13.416Z",
   "seenPostIds": {
     "c8e519ce0524c76dd2c9a7c02ae2260cf3741a846c06775070e16556f6f97d40": {
       "seenAt": "2026-11-23T14:51:18.080Z",
@@ -2500,14 +2500,29 @@
       "seenAt": "2026-11-26T03:41:15.672Z",
       "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
       "targetName": "김민석"
+    },
+    "b62ed6f47b69780687ebcbe0fd41b3174098dfafdb4c714e06dca826f35a936b": {
+      "seenAt": "2026-11-26T04:01:14.497Z",
+      "title": "[영상] 'X' 줄인 이재명 대통령... 민생 찾아 '쇼츠'? - YTN",
+      "targetName": "이재명"
+    },
+    "f384edaed4a4ea5a6e24977e8a45c5d144380bbcdc15adf8905b923cf29e9eaf": {
+      "seenAt": "2026-11-26T04:01:15.157Z",
+      "title": "이재명 대통령 “가짜 구급차 없을 것…실태 수시 확인” : 정치 - 재경일보",
+      "targetName": "이재명"
+    },
+    "a37d14d0aaf860435133e0f9f0457bf8f9483f10b9d0e8a06f10e1f2561b32dc": {
+      "seenAt": "2026-11-26T04:01:15.820Z",
+      "title": "조국 \"독도 방문 일자 잡혔다\"…원정대 일정 공지 | - 연합투데이",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "12a5f2c1fb7dfe1c387ff01f83ca5b61ce10bc118c854d918837fda4e60a1caa",
-    "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
+    "postId": "a37d14d0aaf860435133e0f9f0457bf8f9483f10b9d0e8a06f10e1f2561b32dc",
+    "title": "조국 \"독도 방문 일자 잡혔다\"…원정대 일정 공지 | - 연합투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45750474497",
-    "sentAt": "2026-11-26T03:41:15.057Z"
+    "runId": "45752502169",
+    "sentAt": "2026-11-26T04:01:15.476Z"
   }
 }

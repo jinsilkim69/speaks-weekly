@@ -8997,3 +8997,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [영상] 'X' 줄인 이재명 대통령... 민생 찾아 '쇼츠'? - YTN
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 'X' 줄인 이재명 대통령... 민생 찾아 '쇼츠'?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GQjY4NnVzSThaZ3dlRE4zdUpYYkVCajhzQ2phT0tWNUNOZktTMXAtLW5oMGI3dnJMMjNWNHlQS3J3YmxMS0ZNbWwzNTRUVUo4WUxVZUJjeXpHS2YtZUE?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 “가짜 구급차 없을 것…실태 수시 확인” : 정치 - 재경일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “가짜 구급차 없을 것…실태 수시 확인” : 정치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mc3pmb3VUYkQ1czBrclI0VUFtRXF1LV9RTDF2X2ZRQ2dfN0tlenpJbWszWWtXWnFRUFQyZXI5eG5sU2pqX2J4OW04bw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "독도 방문 일자 잡혔다"…원정대 일정 공지 | - 연합투데이
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "독도 방문 일자 잡혔다"…원정대 일정 공지 |
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1hVzU5UkFSXy1OQ2RNUE9ud3RIR0EwQmt6cF83VGtqWWhkZlpsODFoMFc5YXhiaTF0cHY5aDBfR2NJdHdZTlZyVnktRDVBcUFwamtzVXhDdzF3M0NQRGRmWVZYZFNmdnp0VC1BVldhUQ?oc=5)
+
+---
+
