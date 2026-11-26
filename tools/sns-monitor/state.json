@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T20:41:16.546Z",
+  "lastCheckedAt": "2026-11-26T20:51:13.438Z",
   "seenPostIds": {
     "b3254649311bd37c516af3c74a166f61835fdd34ff6ed342c17a1ccb44fa99d3": {
       "seenAt": "2026-11-24T09:21:16.709Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-26T20:31:21.111Z",
       "title": "Trump demands investigation into GDP data revisions - Axios",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "160a8829b2ec19a5260e7808b343a0065b3898ab49cb9f605f8113d4d8680252": {
+      "seenAt": "2026-11-26T20:51:14.691Z",
+      "title": "Trump urges Putin to end 'military aggression' in Europe - AFP.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3666557c11ca3586591fb9a0b1584a127ff6cfcdf4e135b33bf418617bb128d0",
-    "title": "Trump demands investigation into GDP data revisions - Axios",
+    "postId": "160a8829b2ec19a5260e7808b343a0065b3898ab49cb9f605f8113d4d8680252",
+    "title": "Trump urges Putin to end 'military aggression' in Europe - AFP.com",
     "bot": "jongsuk_pol_bot",
-    "runId": "45891592446",
-    "sentAt": "2026-11-26T20:31:20.817Z"
+    "runId": "45893989533",
+    "sentAt": "2026-11-26T20:51:14.042Z"
   }
 }

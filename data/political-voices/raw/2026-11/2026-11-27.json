@@ -698,5 +698,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "160a8829b2ec19a5260e7808b343a0065b3898ab49cb9f605f8113d4d8680252",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump urges Putin to end 'military aggression' in Europe - AFP.com",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBEV1ZzNUpSX3pDSS1qT1RQMWZRVlJ4V1dUQzVZRHR5dnREcmRmMTIyYmpKLTJ6U3lHby1fN21KTTNCclFDejdjejl4clhiNk1PajV5MEptZW0xejRzQzBqaEF0a2VxZ1pLcDZyTDVtck5LVnFzTFBWUjBCdw?oc=5\" target=\"_blank\">Trump urges Putin to end 'military aggression' in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AFP.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEV1ZzNUpSX3pDSS1qT1RQMWZRVlJ4V1dUQzVZRHR5dnREcmRmMTIyYmpKLTJ6U3lHby1fN21KTTNCclFDejdjejl4clhiNk1PajV5MEptZW0xejRzQzBqaEF0a2VxZ1pLcDZyTDVtck5LVnFzTFBWUjBCdw?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 17:11:50 GMT",
+    "source": "AFP.com",
+    "ageHours": 3.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump urges Putin to end 'military aggression' in Europe",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
