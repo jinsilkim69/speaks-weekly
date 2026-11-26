@@ -8893,3 +8893,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 정성호 "조국혁신당과 합당? 당내 분열도 극복 못하면서" - 조세일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정성호 "조국혁신당과 합당? 당내 분열도 극복 못하면서"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZM1NpYkRKYVZfOThfcHgzY245dXVTUzhUal9MVFJyUXI5dWx4czNyOGtlaUhhLUN3STFWSzVPcTFBNjFScERWYU45WGRvWTQ0UzdoOUlGVXVoSEcxU1VRS3RlUl91UDQwSDBtZFNqZw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** “직을 걸라”는 한동훈… 판 돈처럼 전락한 의원직 - 시사위크
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “직을 걸라”는 한동훈… 판 돈처럼 전락한 의원직
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9aZUNDVVI4SWlOdEE4Q2UwME5KUTZhNlJyOV8xcXlhWGtwenZRdWpuMzdBTGZDSWhwNDRuLXJQUi1uUkZmQVVBaU5Ldi03ajI1QjBUWExvZXBPS25SOHNTYjU4UDFkLUd0QklFaE56MNIBb0FVX3lxTE9aZUNDVVI4SWlOdEE4Q2UwME5KUTZhNlJyOV8xcXlhWGtwenZRdWpuMzdBTGZDSWhwNDRuLXJQUi1uUkZmQVVBaU5Ldi03ajI1QjBUWExvZXBPS25SOHNTYjU4UDFkLUd0QklFaE56MA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** '日 입국 거부' 조국, 내달 7일 세 번째 독도 방문한다 - 뉴스1
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '日 입국 거부' 조국, 내달 7일 세 번째 독도 방문한다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tWmdyVHVGZUlQVDJKSEVweG4zdUNlWHJuWkRnMXVQaDEweWV5R0lPNmhSLWZ0dWtTSEJZMk5UYW5yWldOaUJhemhUbm9Zdy1GcjdYeGpOdVY4Zw?oc=5)
+
+---
+
