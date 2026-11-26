@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T12:31:13.614Z",
+  "lastCheckedAt": "2026-11-26T12:41:13.593Z",
   "seenPostIds": {
-    "4a7683807e6e1cf39f5412c1ef07a42d70cbaab1d1f08ee872e1dce3aa5143c7": {
-      "seenAt": "2026-11-24T04:31:17.972Z",
-      "title": "이준석 \"강금실은 더 진한 오답…워싱턴 '中인민정부 특별고문' 믿겠나\" - 머니투데이 - 머니투데이",
-      "targetName": "이준석"
-    },
-    "beed3ddf99046c014301cac6e5f2707634e53a776cb8ac75c560e4cf3a124d39": {
-      "seenAt": "2026-11-24T04:31:18.638Z",
-      "title": "李, 조작기소 특검 후보 요청...민주·국민의힘·조국혁신당 26일까지 추천해야 - 뉴스핌",
-      "targetName": "조국"
-    },
-    "52b1a5e04d94b12b8fe01128cec0f26b0d1346edb284086243ab06c9f673cd7d": {
-      "seenAt": "2026-11-24T04:41:15.835Z",
-      "title": "정청래, 김민석 겨냥 \"결자해지\" 압박…與 '신천지 갈등' 정면충돌 - 프리진뉴스",
-      "targetName": "김민석"
-    },
     "1376fda959d70549cd7c546652b5a79f5a6090a3c11dd1484b5af19f904e3de1": {
       "seenAt": "2026-11-24T04:41:16.523Z",
       "title": "이준석 \"강금실은 더 진한 오답…워싱턴 '中인민정부 특별고문' 믿겠나\" - 머니투데이 - 머니투데이",
@@ -2515,31 +2500,62 @@
       "seenAt": "2026-11-26T12:31:15.967Z",
       "title": "이재호 인천 연수구청장, 송영길의원의 ‘비아냥 발언’에 사과 요구 - www.dt.co.kr",
       "targetName": "송영길"
+    },
+    "51bbb94bc14113e3377d416851cf943c248b45ea9d8adc94fa7f285319a22eb7": {
+      "seenAt": "2026-11-26T12:41:14.865Z",
+      "title": "천하람 \"한동훈, 조희대 탄핵 인용 의원직 건다?...뭘 자꾸 건다고, 가벼워, 언어 좀 조절해야\"[여의도초대석] - KBC광주방송",
+      "targetName": "천하람"
+    },
+    "333c593d729ef85521b4af2f232c2791bcaf2fc2cb882e47bdc71e0c2b47d132": {
+      "seenAt": "2026-11-26T12:41:15.533Z",
+      "title": "‘자력 복당’ 예고한 한동훈 “모든 방법 동원해 돌아갈 것” - 조선일보",
+      "targetName": "한동훈"
+    },
+    "1629138f9c8fca1182ce5407091b90595f6cd39196eb0f00660265a8689b578c": {
+      "seenAt": "2026-11-26T12:41:16.212Z",
+      "title": "정청래, 중진 만찬 불참하고 “화해 빙자한 몽둥이 찜질” - 한겨레",
+      "targetName": "정청래"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "51bbb94bc14113e3377d416851cf943c248b45ea9d8adc94fa7f285319a22eb7",
+        "id": "450a59125bd0bb633fcf11ddb66091b8423e6cefcd98784d487c8cc738c8844d",
         "targetId": "cheon_haram",
         "targetName": "천하람",
         "targetTitle": "개혁신당 원내대표",
-        "title": "천하람 \"한동훈, 조희대 탄핵 인용 의원직 건다?...뭘 자꾸 건다고, 가벼워, 언어 좀 조절해야\"[여의도초대석] - KBC광주방송",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Kdy1UZ0NBelpFS2kycmpFMUJRRFE5SmpJZXVNX3YzdWt3cXFxUVFueU9haVN5QVIzWXFVLXlYWFI5RDhxamdIZzdDSElzeTNzb1NpQk1ZbnRSX3VpbzBQa2hn?oc=5\" target=\"_blank\">천하람 \"한동훈, 조희대 탄핵 인용 의원직 건다?...뭘 자꾸 건다고, 가벼워, 언어 좀 조절해야\"[여의도초대석]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Kdy1UZ0NBelpFS2kycmpFMUJRRFE5SmpJZXVNX3YzdWt3cXFxUVFueU9haVN5QVIzWXFVLXlYWFI5RDhxamdIZzdDSElzeTNzb1NpQk1ZbnRSX3VpbzBQa2hn?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 04:39:05 GMT",
-        "source": "KBC광주방송",
-        "ageHours": 7.9
+        "title": "개혁신당, 천하람 순천 출마 수용…공천 조기 확정 - 쿠키뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hUVhoZWh2S0xUc28zU2J1bDRYZ21WQzBnM29yakF1SDdEUWdfS0hVMWxoN2oyQmJJSzF2QnFmY24yQ0diQnhMWVphQ0FIa0VDR25TTUFhNlhXSmRTUjE4blJqMA?oc=5\" target=\"_blank\">개혁신당, 천하람 순천 출마 수용…공천 조기 확정</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">쿠키뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hUVhoZWh2S0xUc28zU2J1bDRYZ21WQzBnM29yakF1SDdEUWdfS0hVMWxoN2oyQmJJSzF2QnFmY24yQ0diQnhMWVphQ0FIa0VDR25TTUFhNlhXSmRTUjE4blJqMA?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 00:17:27 GMT",
+        "source": "쿠키뉴스",
+        "ageHours": 12.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "665457e5e2a81ab9a81cb02baf581442820ea54c01c3fd63bc5d4cca5bf49bd0",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Sleepless Trump, 80, Unravels in Seething Thanksgiving Truth Social Tirade - Yahoo",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOelVWS0lyay1uMUw1LWFCYTJkd2liQ3VZWGVjbzFUU2x2clRWbUFsdm1Ra1g1aXVsZzc5QUVyQnc4OU9kcmt2ZWZORi1Ec1h1T1ZUN3E5OTlBdnJmS2JUdWZqNk8tU2lzeExRZzR6VVlTRVJseTRlUWtOc0k3X2tEZVE0SEdVT3QxYXIxTTFUSmstdnQxVnA0bTBxNWk?oc=5\" target=\"_blank\">Sleepless Trump, 80, Unravels in Seething Thanksgiving Truth Social Tirade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOelVWS0lyay1uMUw1LWFCYTJkd2liQ3VZWGVjbzFUU2x2clRWbUFsdm1Ra1g1aXVsZzc5QUVyQnc4OU9kcmt2ZWZORi1Ec1h1T1ZUN3E5OTlBdnJmS2JUdWZqNk8tU2lzeExRZzR6VVlTRVJseTRlUWtOc0k3X2tEZVE0SEdVT3QxYXIxTTFUSmstdnQxVnA0bTBxNWk?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 09:21:52 GMT",
+        "source": "Yahoo",
+        "ageHours": 3.3
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "826a0a53edf3b1ca964ecbcabcb452a537d535b4ffd2d7c748d4d46a0d074317",
-    "title": "이재호 인천 연수구청장, 송영길의원의 ‘비아냥 발언’에 사과 요구 - www.dt.co.kr",
+    "postId": "1629138f9c8fca1182ce5407091b90595f6cd39196eb0f00660265a8689b578c",
+    "title": "정청래, 중진 만찬 불참하고 “화해 빙자한 몽둥이 찜질” - 한겨레",
     "bot": "jongsuk_pol_bot",
-    "runId": "45820369778",
-    "sentAt": "2026-11-26T12:31:15.630Z"
+    "runId": "45821933610",
+    "sentAt": "2026-11-26T12:41:15.853Z"
   }
 }
