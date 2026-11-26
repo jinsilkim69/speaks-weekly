@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T08:21:17.240Z",
+  "lastCheckedAt": "2026-11-26T08:31:16.581Z",
   "seenPostIds": {
-    "6fd9752fdf3f0f2ffb4bf868bba6a2e16c1e4d8f7e0f7b2367e74666dd61d5ff": {
-      "seenAt": "2026-11-24T02:21:18.034Z",
-      "title": "정청래, 김민석 겨냥 \"신천지 근거 없는 폭탄이 당 초토화…해당행위\" - 연합뉴스TV",
-      "targetName": "정청래"
-    },
-    "535fdcf8df86ccb8d1e274732f9702f2abb5a0d0750b9246b22548e16caded26": {
-      "seenAt": "2026-11-24T02:31:25.645Z",
-      "title": "정청래, 김민석 취임 100일에 사퇴 촉구?…\"신천지 논란 자업자득, 결자해지해야\" - 데일리안",
-      "targetName": "정청래"
-    },
-    "55cc3c8ff21161ad94d2ea0686eaa93804ddec7f791626053f2e754873a8105d": {
-      "seenAt": "2026-11-24T02:31:26.377Z",
-      "title": "김민석 “당청관계 안정” 정청래 “폭탄에 초토화”…金 취임 100일 ‘말말말’ - 시사저널",
-      "targetName": "김민석"
-    },
     "b032ad5da14b9e41232fe108bb6c22bd6afd18af4979b404e7c348fc71655391": {
       "seenAt": "2026-11-24T02:31:27.117Z",
       "title": "김민석 “당청관계 안정” 정청래 “폭탄에 초토화”…金 취임 100일 ‘말말말’ - 시사저널",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-26T08:21:20.553Z",
       "title": "국회를 카지노로 '착각'하는 한동훈 #shorts - 오마이TV - OhmyNews",
       "targetName": "한동훈"
+    },
+    "42689d0d434d88c1520a4030851949e028d10e54a0caadd129bc924bdcd16c1b": {
+      "seenAt": "2026-11-26T08:31:17.898Z",
+      "title": "국힘 사분오열…의혹 뭉개는 장동혁 vs 소송 기우는 한동훈 - KPI뉴스",
+      "targetName": "한동훈"
+    },
+    "2802c329137b85c8b081f8bd8771d93d2bdd663200416ffe8265fe41d0604934": {
+      "seenAt": "2026-11-26T08:31:18.712Z",
+      "title": "김민석, 오세훈 겨냥 \"서울시정 대권준비 징검다리로 활용...자성해야\" - KBC광주방송",
+      "targetName": "김민석"
+    },
+    "715b94e489c23f85cd40669feee28492f2e0b09ab44ec19618aa3344d3c44d93": {
+      "seenAt": "2026-11-26T08:31:19.417Z",
+      "title": "송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트] - YTN",
+      "targetName": "송영길"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "42689d0d434d88c1520a4030851949e028d10e54a0caadd129bc924bdcd16c1b",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "국힘 사분오열…의혹 뭉개는 장동혁 vs 소송 기우는 한동훈 - KPI뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QVHhSaEc2S2l5NDFOcGNqSWJ5LUtsMEtzQ19rOThGbC0zZzIwYVVTZVRDX291NjZydEdvbXgxNzllZ1RSZlZiV0JyVnRYMFNGUTF5YzlGb9IBU0FVX3lxTE0tN1hibkVKNTlmVkRPTkM3dUtVMGpJeEJubUpUYkd0OTU5VnVBVFRWNnY1Z2YyckQxLUU5ak8temdBcGt1N1NmSG1SMnp0QTV3Qk9v?oc=5\" target=\"_blank\">국힘 사분오열…의혹 뭉개는 장동혁 vs 소송 기우는 한동훈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KPI뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QVHhSaEc2S2l5NDFOcGNqSWJ5LUtsMEtzQ19rOThGbC0zZzIwYVVTZVRDX291NjZydEdvbXgxNzllZ1RSZlZiV0JyVnRYMFNGUTF5YzlGb9IBU0FVX3lxTE0tN1hibkVKNTlmVkRPTkM3dUtVMGpJeEJubUpUYkd0OTU5VnVBVFRWNnY1Z2YyckQxLUU5ak8temdBcGt1N1NmSG1SMnp0QTV3Qk9v?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 07:46:25 GMT",
-        "source": "KPI뉴스",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "2802c329137b85c8b081f8bd8771d93d2bdd663200416ffe8265fe41d0604934",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, 오세훈 겨냥 \"서울시정 대권준비 징검다리로 활용...자성해야\" - KBC광주방송",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwanZiVFZIc0tSVTZUYjZiQm9fYVF6Y2ZnTmVQbldZWXc0akdvMlEzcDdFN1IwOEpSTENLZzBMY3NyOHE1eEhhajFBRjdUcnlsTE5mWjRSMnExbVgxZlNXYw?oc=5\" target=\"_blank\">김민석, 오세훈 겨냥 \"서울시정 대권준비 징검다리로 활용...자성해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwanZiVFZIc0tSVTZUYjZiQm9fYVF6Y2ZnTmVQbldZWXc0akdvMlEzcDdFN1IwOEpSTENLZzBMY3NyOHE1eEhhajFBRjdUcnlsTE5mWjRSMnExbVgxZlNXYw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 23:54:22 GMT",
-        "source": "KBC광주방송",
-        "ageHours": 8.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "715b94e489c23f85cd40669feee28492f2e0b09ab44ec19618aa3344d3c44d93",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트] - YTN",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wRDhlVlo0TUZNaE4zLXdjYmtRWk91LW9sdkZCTUkwWm9tU20tSEZ3RVNqWGFESWJqNm1sTFBNZ09zT3FmWjkxT19LdnA0OTVHNmtsQTdSbmxEUUhRLUE?oc=5\" target=\"_blank\">송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wRDhlVlo0TUZNaE4zLXdjYmtRWk91LW9sdkZCTUkwWm9tU20tSEZ3RVNqWGFESWJqNm1sTFBNZ09zT3FmWjkxT19LdnA0OTVHNmtsQTdSbmxEUUhRLUE?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 07:24:00 GMT",
-        "source": "YTN",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "535521496a42497bd05a373dc3209ab4e54628b044f4b86cfd0ea81523f81f35",
@@ -2597,13 +2549,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "6358e76f204dc3eaf1d27ed03d24ee2e120a0ee241c3342d845ed9cfa780643c",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라” - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WUTNaVjJUd1NOaEJvZHgtWkZ4UnlNMFVnT3RVVDNEMUFvaHFYdGRva2xrazNWdWNnV3JIOTctbFBwbTVON3NvaWM1WmppRFBw?oc=5\" target=\"_blank\">송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WUTNaVjJUd1NOaEJvZHgtWkZ4UnlNMFVnT3RVVDNEMUFvaHFYdGRva2xrazNWdWNnV3JIOTctbFBwbTVON3NvaWM1WmppRFBw?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 21:00:00 GMT",
+        "source": "세계일보",
+        "ageHours": 11.5
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "5143a46567b1f3029e64b89f02111a2c78c0bdeaa56ab81c5c84cdfe9eecdb4b",
-    "title": "국회를 카지노로 '착각'하는 한동훈 #shorts - 오마이TV - OhmyNews",
+    "postId": "715b94e489c23f85cd40669feee28492f2e0b09ab44ec19618aa3344d3c44d93",
+    "title": "송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트] - YTN",
     "bot": "jongsuk_pol_bot",
-    "runId": "45782407754",
-    "sentAt": "2026-11-26T08:21:20.161Z"
+    "runId": "45783822296",
+    "sentAt": "2026-11-26T08:31:19.047Z"
   }
 }

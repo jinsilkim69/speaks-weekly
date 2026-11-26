@@ -3447,5 +3447,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "42689d0d434d88c1520a4030851949e028d10e54a0caadd129bc924bdcd16c1b",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "국힘 사분오열…의혹 뭉개는 장동혁 vs 소송 기우는 한동훈 - KPI뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QVHhSaEc2S2l5NDFOcGNqSWJ5LUtsMEtzQ19rOThGbC0zZzIwYVVTZVRDX291NjZydEdvbXgxNzllZ1RSZlZiV0JyVnRYMFNGUTF5YzlGb9IBU0FVX3lxTE0tN1hibkVKNTlmVkRPTkM3dUtVMGpJeEJubUpUYkd0OTU5VnVBVFRWNnY1Z2YyckQxLUU5ak8temdBcGt1N1NmSG1SMnp0QTV3Qk9v?oc=5\" target=\"_blank\">국힘 사분오열…의혹 뭉개는 장동혁 vs 소송 기우는 한동훈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KPI뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QVHhSaEc2S2l5NDFOcGNqSWJ5LUtsMEtzQ19rOThGbC0zZzIwYVVTZVRDX291NjZydEdvbXgxNzllZ1RSZlZiV0JyVnRYMFNGUTF5YzlGb9IBU0FVX3lxTE0tN1hibkVKNTlmVkRPTkM3dUtVMGpJeEJubUpUYkd0OTU5VnVBVFRWNnY1Z2YyckQxLUU5ak8temdBcGt1N1NmSG1SMnp0QTV3Qk9v?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 07:46:25 GMT",
+    "source": "KPI뉴스",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 국힘 사분오열…의혹 뭉개는 장동혁 vs 소송 기우는 한동훈",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "2802c329137b85c8b081f8bd8771d93d2bdd663200416ffe8265fe41d0604934",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, 오세훈 겨냥 \"서울시정 대권준비 징검다리로 활용...자성해야\" - KBC광주방송",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwanZiVFZIc0tSVTZUYjZiQm9fYVF6Y2ZnTmVQbldZWXc0akdvMlEzcDdFN1IwOEpSTENLZzBMY3NyOHE1eEhhajFBRjdUcnlsTE5mWjRSMnExbVgxZlNXYw?oc=5\" target=\"_blank\">김민석, 오세훈 겨냥 \"서울시정 대권준비 징검다리로 활용...자성해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBC광주방송</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwanZiVFZIc0tSVTZUYjZiQm9fYVF6Y2ZnTmVQbldZWXc0akdvMlEzcDdFN1IwOEpSTENLZzBMY3NyOHE1eEhhajFBRjdUcnlsTE5mWjRSMnExbVgxZlNXYw?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 23:54:22 GMT",
+    "source": "KBC광주방송",
+    "ageHours": 8.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 오세훈 겨냥 \"서울시정 대권준비 징검다리로 활용...자성해야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "715b94e489c23f85cd40669feee28492f2e0b09ab44ec19618aa3344d3c44d93",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트] - YTN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wRDhlVlo0TUZNaE4zLXdjYmtRWk91LW9sdkZCTUkwWm9tU20tSEZ3RVNqWGFESWJqNm1sTFBNZ09zT3FmWjkxT19LdnA0OTVHNmtsQTdSbmxEUUhRLUE?oc=5\" target=\"_blank\">송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wRDhlVlo0TUZNaE4zLXdjYmtRWk91LW9sdkZCTUkwWm9tU20tSEZ3RVNqWGFESWJqNm1sTFBNZ09zT3FmWjkxT19LdnA0OTVHNmtsQTdSbmxEUUhRLUE?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 07:24:00 GMT",
+    "source": "YTN",
+    "ageHours": 0.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는?",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

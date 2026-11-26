@@ -9816,3 +9816,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국힘 사분오열…의혹 뭉개는 장동혁 vs 소송 기우는 한동훈 - KPI뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘 사분오열…의혹 뭉개는 장동혁 vs 소송 기우는 한동훈
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QVHhSaEc2S2l5NDFOcGNqSWJ5LUtsMEtzQ19rOThGbC0zZzIwYVVTZVRDX291NjZydEdvbXgxNzllZ1RSZlZiV0JyVnRYMFNGUTF5YzlGb9IBU0FVX3lxTE0tN1hibkVKNTlmVkRPTkM3dUtVMGpJeEJubUpUYkd0OTU5VnVBVFRWNnY1Z2YyckQxLUU5ak8temdBcGt1N1NmSG1SMnp0QTV3Qk9v?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 오세훈 겨냥 "서울시정 대권준비 징검다리로 활용...자성해야" - KBC광주방송
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 오세훈 겨냥 "서울시정 대권준비 징검다리로 활용...자성해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwanZiVFZIc0tSVTZUYjZiQm9fYVF6Y2ZnTmVQbldZWXc0akdvMlEzcDdFN1IwOEpSTENLZzBMY3NyOHE1eEhhajFBRjdUcnlsTE5mWjRSMnExbVgxZlNXYw?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는? [앵커리포트] - YTN
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길-정청래 '난타전'의 역사...오늘 만찬 참석자는?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wRDhlVlo0TUZNaE4zLXdjYmtRWk91LW9sdkZCTUkwWm9tU20tSEZ3RVNqWGFESWJqNm1sTFBNZ09zT3FmWjkxT19LdnA0OTVHNmtsQTdSbmxEUUhRLUE?oc=5)
+
+---
+
