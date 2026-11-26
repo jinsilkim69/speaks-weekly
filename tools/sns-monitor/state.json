@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T12:01:21.824Z",
+  "lastCheckedAt": "2026-11-26T12:11:15.156Z",
   "seenPostIds": {
     "78aac71e0d9f43615bddedeb7ef75f324c6452acd3adff3dfd41194e52d94aa2": {
       "seenAt": "2026-11-24T04:31:17.296Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-26T11:51:18.675Z",
       "title": "조국 “공공기관 이전 부지 매각 말고 공공주택 지어야” - 조세일보",
       "targetName": "조국"
+    },
+    "2b9f7b207e978d4bdee71339c3b39576b13e273e29e98ff100da89dacce6c5bd": {
+      "seenAt": "2026-11-26T12:11:16.524Z",
+      "title": "친청 지지층 28일 김민석 사퇴 촉구 집회…여권 분열 심화 - 법치뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "0d5b3808f77ecbad91cd1deb2344f843e431e163d0e1a3802baeafa055817ca0",
-    "title": "조국 “공공기관 이전 부지 매각 말고 공공주택 지어야” - 조세일보",
+    "postId": "2b9f7b207e978d4bdee71339c3b39576b13e273e29e98ff100da89dacce6c5bd",
+    "title": "친청 지지층 28일 김민석 사퇴 촉구 집회…여권 분열 심화 - 법치뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45814247223",
-    "sentAt": "2026-11-26T11:51:18.022Z"
+    "runId": "45817269962",
+    "sentAt": "2026-11-26T12:11:15.940Z"
   }
 }
