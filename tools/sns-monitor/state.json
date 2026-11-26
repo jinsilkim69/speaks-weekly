@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T05:19:49.482Z",
+  "lastCheckedAt": "2026-11-26T05:21:12.918Z",
   "seenPostIds": {
     "dbb477ea87c251e65178646667dbd1c5dc9e838ae1948a8828d5b445a459d1b2": {
       "seenAt": "2026-11-23T18:11:16.367Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-26T05:11:14.888Z",
       "title": "김영환 전 충북지사 \"김민석 총리, 탄핵·특검·내란몰이 열차 멈춰야\" - 뉴스핌",
       "targetName": "김민석"
+    },
+    "a66795cdec371b43c135187cab7ee09e5972fd4ef59bafc500de4b01d4fdffec": {
+      "seenAt": "2026-11-26T05:21:14.016Z",
+      "title": "조국 [공공기관 이전 부지에 공공주택 짓자…-제2의 무상급식-으로] - 매일경제",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "a02f690640ab19ecd322861516201551e154b6d497e8166dfa7ab75d90023064",
-    "title": "김영환 전 충북지사 \"김민석 총리, 탄핵·특검·내란몰이 열차 멈춰야\" - 뉴스핌",
+    "postId": "a66795cdec371b43c135187cab7ee09e5972fd4ef59bafc500de4b01d4fdffec",
+    "title": "조국 [공공기관 이전 부지에 공공주택 짓자…-제2의 무상급식-으로] - 매일경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45759893140",
-    "sentAt": "2026-11-26T05:11:14.560Z"
+    "runId": "45761005597",
+    "sentAt": "2026-11-26T05:21:13.494Z"
   }
 }

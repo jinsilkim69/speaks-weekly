@@ -9205,3 +9205,16 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 [공공기관 이전 부지에 공공주택 짓자…-제2의 무상급식-으로] - 매일경제
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE8yZjhKS3VLeHFmc0VYa0VjQy1aQnBta0xnNjBqd2kteFA4WGtLbk11enU0dzdqaTMtMDhTN3BBcGgzNnM1eVpIZVVhb2FEZkhnRmNJcWNsOUdQcFJjZDd1b295eHEyMGpzQ1RMWHRPekF1UQ?oc=5)
+
+---
+
