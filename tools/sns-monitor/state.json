@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T11:41:16.649Z",
+  "lastCheckedAt": "2026-11-26T11:51:17.004Z",
   "seenPostIds": {
-    "fbc2c9b20728ae3e106d2448e6da380b0238c987345382f9b6aa986f93de0c6d": {
-      "seenAt": "2026-11-24T04:21:15.326Z",
-      "title": "Fact Check: Donald Trump DID Post Meme Of Jensen Huang Holding Red Bra, Like His Failed Butler Assassination Photo - Yahoo",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "0d093bd3a6bc648cf04add5613604186fec6764e77d8528568ab842a63ac74b7": {
       "seenAt": "2026-11-24T04:21:16.029Z",
       "title": "이준석 \"강금실 국정원장이 뭔 뜬금포냐…李 선대위 명부 말곤 인사 수첩 없단 뜻\" - 데일리안",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-26T11:41:18.101Z",
       "title": "송영길 \"우리가 죽기 전에 남북철도 뚫자\" - OhmyNews",
       "targetName": "송영길"
+    },
+    "0d5b3808f77ecbad91cd1deb2344f843e431e163d0e1a3802baeafa055817ca0": {
+      "seenAt": "2026-11-26T11:51:18.675Z",
+      "title": "조국 “공공기관 이전 부지 매각 말고 공공주택 지어야” - 조세일보",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "25e86560b22df7c57258f75779d73f6e0c42b40260857cb5bde4e373f79cc80f",
-    "title": "송영길 \"우리가 죽기 전에 남북철도 뚫자\" - OhmyNews",
+    "postId": "0d5b3808f77ecbad91cd1deb2344f843e431e163d0e1a3802baeafa055817ca0",
+    "title": "조국 “공공기관 이전 부지 매각 말고 공공주택 지어야” - 조세일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45812777394",
-    "sentAt": "2026-11-26T11:41:17.424Z"
+    "runId": "45814247223",
+    "sentAt": "2026-11-26T11:51:18.022Z"
   }
 }

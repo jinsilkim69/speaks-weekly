@@ -10245,3 +10245,16 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “공공기관 이전 부지 매각 말고 공공주택 지어야” - 조세일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “공공기관 이전 부지 매각 말고 공공주택 지어야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE1FendPT0VuaXFJazNiem9oZVh1SzVNa09SSTJoOGc1bmFWbi1GbnpSYlN0M3p2Vkd2WktoelFGMFVsRlIzNzN2UVp3Q3dPaGx5bXhMazBGZXVEUVNXVGpDc3MybEw5alFNbmxIdVhCV09oMlZi?oc=5)
+
+---
+
