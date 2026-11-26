@@ -4200,5 +4200,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "9dfdb17971b51ee815e694fecbd1dedb7eeceab36e76da8c35c26ef9a91a9a1c",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "정청래 \"허위사실 몽둥이로 많이 맞았다\"…중진 회동 겨냥 작심 비판 - 뉴스토마토",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZZXdRMkhZMXJZaXlZeWFQcnFISGJmekxKQXU0QnNVZnJqSmRHOGItaXRxeFJfNHNfWW1xcGFLVFQ3MGNBV1NsTllSc3dzeWJFeEtGUE5YWkl3WkNNYWI1YQ?oc=5\" target=\"_blank\">정청래 \"허위사실 몽둥이로 많이 맞았다\"…중진 회동 겨냥 작심 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스토마토</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZZXdRMkhZMXJZaXlZeWFQcnFISGJmekxKQXU0QnNVZnJqSmRHOGItaXRxeFJfNHNfWW1xcGFLVFQ3MGNBV1NsTllSc3dzeWJFeEtGUE5YWkl3WkNNYWI1YQ?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 11:02:55 GMT",
+    "source": "뉴스토마토",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래 \"허위사실 몽둥이로 많이 맞았다\"…중진 회동 겨냥 작심 비판",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
