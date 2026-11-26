@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T05:51:12.575Z",
+  "lastCheckedAt": "2026-11-26T06:01:13.108Z",
   "seenPostIds": {
-    "d9b5c38d63733b215964222e6ea500fc129e41e386daeb77eb1d7eb0e44ab592": {
-      "seenAt": "2026-11-23T18:31:18.208Z",
-      "title": "Trump Posts Bizarre AI Meme of Jensen Huang Holding Up Bra Riffing Off Assassination Attempt - Variety",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "60f0fbef30f78ede07a1671a86fa72019d513c47d0324b1986bc76fc5ff5ad98": {
       "seenAt": "2026-11-23T18:51:14.489Z",
       "title": "한동훈 \"조작 제명·기획 숙청 원천 무효…장동혁 책임져야\" - 연합뉴스",
@@ -2505,14 +2500,29 @@
       "seenAt": "2026-11-26T05:51:13.761Z",
       "title": "민주당 내홍, 송영길·정청래 공개 설전…중진 회동서 수습 주목 - 국제뉴스",
       "targetName": "정청래"
+    },
+    "fcd0c972865ed203c511f8919453dc24fbdc9df0518b9262e5247098a457b431": {
+      "seenAt": "2026-11-26T06:01:14.577Z",
+      "title": "정청래, 대통령에겐 '베리 굿' 송영길,김민석에겐 맹공!' (261125 수요일 방송) 김용남 박진영 장성철 허재무 - 경향신문",
+      "targetName": "송영길"
+    },
+    "facae753943297f6a100fc711f64ec96ed896fc652bbb0509178a56f367b6e71": {
+      "seenAt": "2026-11-26T06:01:15.282Z",
+      "title": "이준석 \"탄핵 추진하면 법원은 이 대통령 재판 재개해야\"[시사쇼] - 아시아경제",
+      "targetName": "이준석"
+    },
+    "24ef446d8c6f88c7998ead8a6379a85580f9e41b228ec9cde3acd002cc8c3374": {
+      "seenAt": "2026-11-26T06:01:15.995Z",
+      "title": "Trump posts picture of the sign of the road named after him - The Palm Beach Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "94bebc214c0bfd3b602b7ef1cbcc9e31c06be3514e88c20caa0af23a1d4c0606",
-    "title": "민주당 내홍, 송영길·정청래 공개 설전…중진 회동서 수습 주목 - 국제뉴스",
+    "postId": "24ef446d8c6f88c7998ead8a6379a85580f9e41b228ec9cde3acd002cc8c3374",
+    "title": "Trump posts picture of the sign of the road named after him - The Palm Beach Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "45764249239",
-    "sentAt": "2026-11-26T05:51:13.195Z"
+    "runId": "45765305127",
+    "sentAt": "2026-11-26T06:01:15.650Z"
   }
 }

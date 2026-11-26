@@ -9283,3 +9283,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 정청래, 대통령에겐 '베리 굿' 송영길,김민석에겐 맹공!' (261125 수요일 방송) 김용남 박진영 장성철 허재무 - 경향신문
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 대통령에겐 '베리 굿' 송영길,김민석에겐 맹공!' (261125 수요일 방송) 김용남 박진영 장성철 허재무
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BX0l5N0x4TTFGQWV4R29sUkhfTXh2ZWxSZjRzRWhoNkg2X3YtWHk1RzhIYnlPRU1pWUNpZXhRQm1sR2NxZUhBb0t1bF9mdUJ4cW9XWnhPN1dXazRMbV93YWZB?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "탄핵 추진하면 법원은 이 대통령 재판 재개해야"[시사쇼] - 아시아경제
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "탄핵 추진하면 법원은 이 대통령 재판 재개해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxdWJ0eHV0eVY1LVdjel9JYkFBeDNvVzNiVWtjcVdrNDlrTUh0b240NjBoSnIzMlRQdWM2Rzc0eUI0eGx5NV9TeFhNUDFveW5CRGNyYVk3WmpJcE1pV3B4WQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump posts picture of the sign of the road named after him - The Palm Beach Post
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump posts picture of the sign of the road named after him
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiygFBVV95cUxNeEVGVnpGZ3dWcmhza29BYWF1Z3BnSG9ZZ1YwT1FVOUlwU1RVdE1BMEpDM0VUSjhnNTJ5U0N1OG5XNlg1SEk3V1JIVGcxUUFZN2FRbWRhRW5BOHVtV2dmZ3hBV0FaeFM3T09EM1N2dXVOYzZCNlFtcVV6bVVQcFA2TEc2T1o1U3ZIWHQxVUkwUHBSY29PbE9EQkNNVTB0dEs3a1IxSTJmckUtOHFGeFZfSmFtVXBob0RGQVJER2NXeDFoTHVzZ0xPMVFn?oc=5)
+
+---
+
