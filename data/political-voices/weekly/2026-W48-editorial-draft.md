@@ -8581,3 +8581,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “탄핵 확신? 직 걸라” 김용민 “중대사에 판돈”…조희대 탄핵 신경전 - 시사저널
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “탄핵 확신? 직 걸라” 김용민 “중대사에 판돈”…조희대 탄핵 신경전
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBNcUdLMmlyRnhzU1Z4UUZoM2t3QTFYNHNRUUZKa3dod3dCRk02aDlxY3ZVTFhZUHdrU3VGdTB6ZzNETzU2NURlYTlmRjk3LXVYT3RRRjc0dnNGa21QQ21GQmN4M0ZfX2RINW9CRm15UdIBc0FVX3lxTFBwenpfZFIwOC1GTmN4elluNEo1QlRpNHV6SkN5Wmt0QnptQzJpaEZOTzBJcUxscWZrcURieExKN1QxSWtpN1lVWHBQMzF3V19ISkJkV1BuTUlWdmRld2RsMGtabW5IT2kwT0pCVXRqYl80MFk?oc=5)
+
+---
+
