@@ -10492,3 +10492,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 중진 회동 불참→‘친명’ 직격…“몽둥이로 맞고 위로도 없었다” - 헤럴드경제
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 중진 회동 불참→‘친명’ 직격…“몽둥이로 맞고 위로도 없었다”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEb1Q1bk5sUGdoVWxXbHRxbDNXWWhXTGV4TmtFMFdDVFJUV1kwTVZ4b3lYMk84cjVaYkk4U194RlBlc2lISzZJcE1WTnR2YUlReE44NWhB?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 12월 울릉도·독도 방문 추진…`독도원정대` 일정 공개 - 매일신문
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 12월 울릉도·독도 방문 추진…`독도원정대` 일정 공개
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJY3pCSlpBX3hnMnFiRkFrSU92ZV94SlkxZTdLbkRsVzdaNkJXNk93N1AxWk8yS295b0dyZnNhTnpFWE1KMFFfVElLVjA1eVVUMURfbUdZc3JFa1VxNGFockRn?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “공공기관 이전 부지 매각 말고 공공주택 지어야” - 조세일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “공공기관 이전 부지 매각 말고 공공주택 지어야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aWXhjd0RGNVRHenMtRHNQZ3VHakdtZmJPWjloUmJXekw1RVBkbFNYMkYxcjFTTmJaNXVJT2FOeXNodEE3VDJ5ZHFTMmh2Mk40bUJCT0QyT0Y1Uk5WTHdj?oc=5)
+
+---
+

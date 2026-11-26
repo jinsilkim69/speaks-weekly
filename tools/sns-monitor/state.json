@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T13:21:15.780Z",
+  "lastCheckedAt": "2026-11-26T13:31:16.454Z",
   "seenPostIds": {
-    "f7574fcae83e67153ad2705d61a204f354163fceb8e94b9cfc821adea9545700": {
-      "seenAt": "2026-11-24T05:21:15.179Z",
-      "title": "‘尹 구형일에 한동훈 제명 기획’ 폭로 일파만파…친한계 “장동혁 사퇴해야” - 시사저널",
-      "targetName": "한동훈"
-    },
-    "62c491a587902ab94c51afd2bb2fa570409f2f972b9182ea69b4f81e145f0d78": {
-      "seenAt": "2026-11-24T05:21:15.786Z",
-      "title": "김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것” - 시사저널",
-      "targetName": "김민석"
-    },
-    "f69e71310b58ec39f7fb97448e851b2a4e31d38dedaa7526912c10ebf7b17a6f": {
-      "seenAt": "2026-11-24T05:31:18.483Z",
-      "title": "김민석, ‘SNS 폭주’ 정청래에…“노크멘트, 지지율 분발할 것” - 시사저널",
-      "targetName": "정청래"
-    },
     "4418effb84606382886d5904862c0ff1ed1f096ff361d476c3baf24fd57c803c": {
       "seenAt": "2026-11-24T05:31:19.197Z",
       "title": "신장식 “항만공사 통합 용역 중단하고 실익부터 검증해야” - 포인트데일리",
@@ -2515,63 +2500,29 @@
       "seenAt": "2026-11-26T13:21:18.370Z",
       "title": "최민희 징계 심의 앞두고 與 중진 모임...김민석·정청래 불참 - 조선일보",
       "targetName": "정청래"
+    },
+    "75e72bebff370e3187450f59b2b2aa1c9a62a60f68ab95cd0815f54fe3f68d05": {
+      "seenAt": "2026-11-26T13:31:17.889Z",
+      "title": "정청래, 중진 회동 불참→‘친명’ 직격…“몽둥이로 맞고 위로도 없었다” - 헤럴드경제",
+      "targetName": "정청래"
+    },
+    "d95efa4a886995109f77c603cbf088341e1bb326c4923409b29f6d1b6684d4f7": {
+      "seenAt": "2026-11-26T13:31:18.670Z",
+      "title": "조국, 12월 울릉도·독도 방문 추진…`독도원정대` 일정 공개 - 매일신문",
+      "targetName": "조국"
+    },
+    "300f52479c7f0d94c68db7fe4bab9c19b5d2222ed0e17e67cd20239b02829e3a": {
+      "seenAt": "2026-11-26T13:31:19.434Z",
+      "title": "조국 “공공기관 이전 부지 매각 말고 공공주택 지어야” - 조세일보",
+      "targetName": "조국"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "75e72bebff370e3187450f59b2b2aa1c9a62a60f68ab95cd0815f54fe3f68d05",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 중진 회동 불참→‘친명’ 직격…“몽둥이로 맞고 위로도 없었다” - 헤럴드경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEb1Q1bk5sUGdoVWxXbHRxbDNXWWhXTGV4TmtFMFdDVFJUV1kwTVZ4b3lYMk84cjVaYkk4U194RlBlc2lISzZJcE1WTnR2YUlReE44NWhB?oc=5\" target=\"_blank\">정청래, 중진 회동 불참→‘친명’ 직격…“몽둥이로 맞고 위로도 없었다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEb1Q1bk5sUGdoVWxXbHRxbDNXWWhXTGV4TmtFMFdDVFJUV1kwTVZ4b3lYMk84cjVaYkk4U194RlBlc2lISzZJcE1WTnR2YUlReE44NWhB?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 13:07:18 GMT",
-        "source": "헤럴드경제",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d95efa4a886995109f77c603cbf088341e1bb326c4923409b29f6d1b6684d4f7",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국, 12월 울릉도·독도 방문 추진…`독도원정대` 일정 공개 - 매일신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJY3pCSlpBX3hnMnFiRkFrSU92ZV94SlkxZTdLbkRsVzdaNkJXNk93N1AxWk8yS295b0dyZnNhTnpFWE1KMFFfVElLVjA1eVVUMURfbUdZc3JFa1VxNGFockRn?oc=5\" target=\"_blank\">조국, 12월 울릉도·독도 방문 추진…`독도원정대` 일정 공개</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJY3pCSlpBX3hnMnFiRkFrSU92ZV94SlkxZTdLbkRsVzdaNkJXNk93N1AxWk8yS295b0dyZnNhTnpFWE1KMFFfVElLVjA1eVVUMURfbUdZc3JFa1VxNGFockRn?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 13:15:39 GMT",
-        "source": "매일신문",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "300f52479c7f0d94c68db7fe4bab9c19b5d2222ed0e17e67cd20239b02829e3a",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 “공공기관 이전 부지 매각 말고 공공주택 지어야” - 조세일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aWXhjd0RGNVRHenMtRHNQZ3VHakdtZmJPWjloUmJXekw1RVBkbFNYMkYxcjFTTmJaNXVJT2FOeXNodEE3VDJ5ZHFTMmh2Mk40bUJCT0QyT0Y1Uk5WTHdj?oc=5\" target=\"_blank\">조국 “공공기관 이전 부지 매각 말고 공공주택 지어야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aWXhjd0RGNVRHenMtRHNQZ3VHakdtZmJPWjloUmJXekw1RVBkbFNYMkYxcjFTTmJaNXVJT2FOeXNodEE3VDJ5ZHFTMmh2Mk40bUJCT0QyT0Y1Uk5WTHdj?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 11:43:43 GMT",
-        "source": "조세일보",
-        "ageHours": 1.6
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "8552b23e5ffb734dcb2bc94cf5d2367618990362b31d861034ae4bd9274ee07a",
-    "title": "최민희 징계 심의 앞두고 與 중진 모임...김민석·정청래 불참 - 조선일보",
+    "postId": "300f52479c7f0d94c68db7fe4bab9c19b5d2222ed0e17e67cd20239b02829e3a",
+    "title": "조국 “공공기관 이전 부지 매각 말고 공공주택 지어야” - 조세일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45828272893",
-    "sentAt": "2026-11-26T13:21:18.023Z"
+    "runId": "45829887833",
+    "sentAt": "2026-11-26T13:31:19.041Z"
   }
 }
