@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T09:01:16.821Z",
+  "lastCheckedAt": "2026-11-26T09:11:17.182Z",
   "seenPostIds": {
-    "d940261ad5fa646c816c321d64093e7e877234167f432f7a245b540b3f7718be": {
-      "seenAt": "2026-11-24T03:01:16.437Z",
-      "title": "'한동훈 기획제명' 의혹 제기에…친한계 \"장동혁 물러나야\" - 연합뉴스",
-      "targetName": "한동훈"
-    },
-    "17be41b4b92437e8095803e08eee04f99611f367296cda5f475ca70b081069f3": {
-      "seenAt": "2026-11-24T03:11:15.963Z",
-      "title": "정청래, 김민석 취임 100일에 사퇴 촉구?…\"신천지 논란 자업자득, 결자해지해야\" - 데일리안",
-      "targetName": "정청래"
-    },
-    "bd5b28065d4d51927342fc9faf45568101fc4e644127e176ecf2db246087b0a9": {
-      "seenAt": "2026-11-24T03:11:16.613Z",
-      "title": "[이슈] 국힘 '조작징계' 3차 폭로, 한동훈 제명 자료 공개…들끓는 복당 요구, 김태호도 張 사퇴 촉구 - 폴리뉴스 Polinews",
-      "targetName": "한동훈"
-    },
     "dec56dc5d6f6ca9f61ecd054e2b4ee54412b6870dada14359b848dc2df4432ba": {
       "seenAt": "2026-11-24T03:11:17.218Z",
       "title": "김민석 100일에 SNS 연달아 올린 정청래…\"징계 앞에 평등해야\" - 뉴스1",
@@ -2515,47 +2500,29 @@
       "seenAt": "2026-11-26T09:01:19.499Z",
       "title": "신장식 조국혁신당 대표 “조희대 탄핵, 말이 아닌 실천…12월 3일 발의·의결해야” - THE NEWS",
       "targetName": "신장식"
+    },
+    "4be67c391da9267811903a0ba4916be83cfb66db3b1ad89b6321a69d659e9cfe": {
+      "seenAt": "2026-11-26T09:11:18.665Z",
+      "title": "송도 테마파크 토양 정화 문제 관련 연수구청장, 송영길 의원 발언에 반박 - 한국미디어뉴스",
+      "targetName": "송영길"
+    },
+    "96814bcd74bf6e837a0cd6b66dd7444ed9a83399a2a350d2c90eb9c60229db38": {
+      "seenAt": "2026-11-26T09:11:19.342Z",
+      "title": "조국 \"공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자\" 제안 - 국제신문",
+      "targetName": "조국"
+    },
+    "31f9d18ab73eae5823eb17602e27e72d0ade7a415409e0fd68a88ce4de100fa7": {
+      "seenAt": "2026-11-26T09:11:20.069Z",
+      "title": "이준석 “李대통령, 분당집 팔아 25억 차익…청년 내 집 가질 기회 왜 막나” - 경기일보",
+      "targetName": "이준석"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "4be67c391da9267811903a0ba4916be83cfb66db3b1ad89b6321a69d659e9cfe",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송도 테마파크 토양 정화 문제 관련 연수구청장, 송영길 의원 발언에 반박 - 한국미디어뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SMktzdHR2ZENreWNRSTl3YVhpV01ONnlCbnpPV25mdW5WdmxtNDNqUHVwYmx0Y053dllqWHYzcXY2WWlaM3k2dV9yVzFBOFlsVXBFdTlfSVFBaGVLb0JIZzg3WmdBQQ?oc=5\" target=\"_blank\">송도 테마파크 토양 정화 문제 관련 연수구청장, 송영길 의원 발언에 반박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국미디어뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SMktzdHR2ZENreWNRSTl3YVhpV01ONnlCbnpPV25mdW5WdmxtNDNqUHVwYmx0Y053dllqWHYzcXY2WWlaM3k2dV9yVzFBOFlsVXBFdTlfSVFBaGVLb0JIZzg3WmdBQQ?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 04:43:52 GMT",
-        "source": "한국미디어뉴스",
-        "ageHours": 4.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "96814bcd74bf6e837a0cd6b66dd7444ed9a83399a2a350d2c90eb9c60229db38",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 \"공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자\" 제안 - 국제신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHBXRHlLTXh3blZiMjNwS0h2aHQ5cHRkLXU4YkNQNC1FWHJldkkwU1BacFRqZTAzR18xeUxJMmd4UU5WOHkxTU11ZGMzYmNRWkpDTGRPeVJCdFcxbGIxVVo0bDRDZDNkRTFUaEtjRVRFc2I2QzV4ZFl1OXlFamRuZmVaUnl1N0llT2dPd2Zn?oc=5\" target=\"_blank\">조국 \"공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자\" 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHBXRHlLTXh3blZiMjNwS0h2aHQ5cHRkLXU4YkNQNC1FWHJldkkwU1BacFRqZTAzR18xeUxJMmd4UU5WOHkxTU11ZGMzYmNRWkpDTGRPeVJCdFcxbGIxVVo0bDRDZDNkRTFUaEtjRVRFc2I2QzV4ZFl1OXlFamRuZmVaUnl1N0llT2dPd2Zn?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 06:29:00 GMT",
-        "source": "국제신문",
-        "ageHours": 2.5
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "1e31faf963bbe39f69328b5abbdc0cd2e7b11744ca72fd5500b7d9c94f0932a7",
-    "title": "신장식 조국혁신당 대표 “조희대 탄핵, 말이 아닌 실천…12월 3일 발의·의결해야” - THE NEWS",
+    "postId": "31f9d18ab73eae5823eb17602e27e72d0ade7a415409e0fd68a88ce4de100fa7",
+    "title": "이준석 “李대통령, 분당집 팔아 25억 차익…청년 내 집 가질 기회 왜 막나” - 경기일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45788085941",
-    "sentAt": "2026-11-26T09:01:19.153Z"
+    "runId": "45789594398",
+    "sentAt": "2026-11-26T09:11:19.659Z"
   }
 }

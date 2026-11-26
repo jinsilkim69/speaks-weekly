@@ -9972,3 +9972,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송도 테마파크 토양 정화 문제 관련 연수구청장, 송영길 의원 발언에 반박 - 한국미디어뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송도 테마파크 토양 정화 문제 관련 연수구청장, 송영길 의원 발언에 반박
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SMktzdHR2ZENreWNRSTl3YVhpV01ONnlCbnpPV25mdW5WdmxtNDNqUHVwYmx0Y053dllqWHYzcXY2WWlaM3k2dV9yVzFBOFlsVXBFdTlfSVFBaGVLb0JIZzg3WmdBQQ?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자" 제안 - 국제신문
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자" 제안
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHBXRHlLTXh3blZiMjNwS0h2aHQ5cHRkLXU4YkNQNC1FWHJldkkwU1BacFRqZTAzR18xeUxJMmd4UU5WOHkxTU11ZGMzYmNRWkpDTGRPeVJCdFcxbGIxVVo0bDRDZDNkRTFUaEtjRVRFc2I2QzV4ZFl1OXlFamRuZmVaUnl1N0llT2dPd2Zn?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “李대통령, 분당집 팔아 25억 차익…청년 내 집 가질 기회 왜 막나” - 경기일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “李대통령, 분당집 팔아 25억 차익…청년 내 집 가질 기회 왜 막나”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaFRtbHd5VG4tb1ZBVGVMb2o2dWxzczktbGFsdHNfT3hZc09NdHBmck5UdDgxOFNXMHRaTnlOMVZ5dmNITE01YXhVcnJuQnpncEdiazBkempSMW8?oc=5)
+
+---
+
