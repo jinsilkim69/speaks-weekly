@@ -9582,3 +9582,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** "대통령에 4시간 성토" "입조심하라"…송영길·정청래 '정면충돌' - 뉴스토마토
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "대통령에 4시간 성토" "입조심하라"…송영길·정청래 '정면충돌'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUk9kSFdneXpFRDBBWkZtbkJmbUZ1emljRzdkQm1tRVVGU3VQNnRma1dfOEx5LXhaMm55R011dTl2OE9NTVhaclJpY2lwaG9sMk1TTEN5aVFDUlJ1VXpZRA?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 “바보 같고 예의 없어” 직격에…연수구청장, 반박 기자회견 맞불 - 한국NGO신문
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 “바보 같고 예의 없어” 직격에…연수구청장, 반박 기자회견 맞불
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuUk9XYi1mbVdhT3JmTFd1YV9BTUE3Nk10b2RZOGY5eWpBTUFpMGROT0hkS1JycjRSZUZsM1hVb0JqLVJjZkY0QWd1YmEzbDYwWlpfOEJxcFN1Y21adWhMUUVkZGZCWmFT?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 최민희 징계 앞둔 민주당 내홍…정청래·송영길도 격돌 - 법치뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 징계 앞둔 민주당 내홍…정청래·송영길도 격돌
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE0weV92RjNVVUVVdms3VDFmN3BMRjJ1NHlmV1k5NG9XMlkzekkxNVRCVGVlWUEwdGxuSndGcGZfN1JhdGZhN0N0QlN0M05LLWgwM2g5T0RzYVVsbkxoNEtCUmR2b1g4SHhF0gFoQVVfeXFMTTB5X3ZGM1VVRVV2azdUMWY3cExGMnU0eWZXWTk0b1cyWTN6STE1VEJUZWVZQTB0bG5Kd0ZwZl83UmF0ZmE3Q3RCU3QzTkstaDAzaDlPRHNhVWxuTGg0S0JSZHZvWDhIeEU?oc=5)
+
+---
+
