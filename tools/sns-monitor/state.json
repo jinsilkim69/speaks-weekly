@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T05:41:12.663Z",
+  "lastCheckedAt": "2026-11-26T05:51:12.575Z",
   "seenPostIds": {
-    "44c833f6f97890c5f52ec3a172f41b0f9aff6e2717322ec9a03fbba391a718af": {
-      "seenAt": "2026-11-23T18:21:25.903Z",
-      "title": "Trump posts AI image of Jensen Haung after news of reinstatement - FOX 4 News Dallas-Fort Worth",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "d9b5c38d63733b215964222e6ea500fc129e41e386daeb77eb1d7eb0e44ab592": {
       "seenAt": "2026-11-23T18:31:18.208Z",
       "title": "Trump Posts Bizarre AI Meme of Jensen Huang Holding Up Bra Riffing Off Assassination Attempt - Variety",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-26T05:41:14.013Z",
       "title": "'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\" - 한국일보",
       "targetName": "조국"
+    },
+    "94bebc214c0bfd3b602b7ef1cbcc9e31c06be3514e88c20caa0af23a1d4c0606": {
+      "seenAt": "2026-11-26T05:51:13.761Z",
+      "title": "민주당 내홍, 송영길·정청래 공개 설전…중진 회동서 수습 주목 - 국제뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "11d359787765dbea365637feddc8b106ed35f70a64264a9e1ef16e94bae28f0e",
-    "title": "'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\" - 한국일보",
+    "postId": "94bebc214c0bfd3b602b7ef1cbcc9e31c06be3514e88c20caa0af23a1d4c0606",
+    "title": "민주당 내홍, 송영길·정청래 공개 설전…중진 회동서 수습 주목 - 국제뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45763183419",
-    "sentAt": "2026-11-26T05:41:13.498Z"
+    "runId": "45764249239",
+    "sentAt": "2026-11-26T05:51:13.195Z"
   }
 }

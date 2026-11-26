@@ -9270,3 +9270,16 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 민주당 내홍, 송영길·정청래 공개 설전…중진 회동서 수습 주목 - 국제뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 내홍, 송영길·정청래 공개 설전…중진 회동서 수습 주목
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE9pelNEcjU0Xzg4ZVI5SWFuZFZwNlU1TlV5M1NkNWhKalZ2Zl82N2dyUXlPMmtJcWZpaG5SdnVFRUI1OW5ZNERNdV8zWVhIUng0Wlh5QXNYWWZtemQxMnBGVTRyaF9IUm1YaTBhVUd3?oc=5)
+
+---
+
