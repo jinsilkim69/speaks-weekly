@@ -9036,3 +9036,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 청해부대 ‘우회 파병’ 논란 불식에 최선 - 시사위크
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 청해부대 ‘우회 파병’ 논란 불식에 최선
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9OU0xYcjlkUWE3b0N0czZrQUZ3NVZna1RodVRiM25VZG5EYnF4MXQtQWgxYTJOS1lyMUZTYUhXdnJnXzFUUFB0UkJ6eFVpR0tYMXV1cnFJRnNIVmR0N2FkVExVakw4NXVUcW1kTDdqTdIBb0FVX3lxTE9OU0xYcjlkUWE3b0N0czZrQUZ3NVZna1RodVRiM25VZG5EYnF4MXQtQWgxYTJOS1lyMUZTYUhXdnJnXzFUUFB0UkJ6eFVpR0tYMXV1cnFJRnNIVmR0N2FkVExVakw4NXVUcW1kTDdqTQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김용민, 한동훈 직격 "의원직 판돈 걸듯 가벼운 태도" - 조세일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김용민, 한동훈 직격 "의원직 판돈 걸듯 가벼운 태도"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9HbF8xdm81Z0RvZGVZWGNJTXBYS3Q3NEhqd1VFamFsVkxwR3Q3MFlDUVlZQlAwM3JlMEZaaFVsR3dQT2gzSkJkR0N5VTEtNUM2ZzVzR1g0ckF5cl9kMFJOdFNzVE43R3VNYzFVSEx2NA?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지” - 주간조선
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE5WQ3JwTVJRdjl5QWJDSkVKN3pLNkNRY3J3Ukt5T3FDOXFBV0lBYndSMktTMXVfX0pub1VtbW1wSUJrampRT3F5NjduT3g4aXpvbVF3d0ZlOFZ6Z2VKS0JaS2FzNFpoWUVxT1FJ?oc=5)
+
+---
+

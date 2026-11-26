@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T04:01:13.416Z",
+  "lastCheckedAt": "2026-11-26T04:11:13.194Z",
   "seenPostIds": {
-    "c8e519ce0524c76dd2c9a7c02ae2260cf3741a846c06775070e16556f6f97d40": {
-      "seenAt": "2026-11-23T14:51:18.080Z",
-      "title": "Hours before Nvidia board announced Huang’s return, President Donald Trump endorsed his reinstatement in a Truth Social post - CNN",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "7ff10bcdc53ecca7d14378b4b985107cd977aa249b73b04176ab8b0bef0d3b5d": {
-      "seenAt": "2026-11-23T14:51:18.713Z",
-      "title": "Trump Successfully Begs for Jensen Huang’s Return - The New Republic",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "8b3568a699dc9f65ffa4439adcbbbeda402033f74d7cf91a02422e0a88232f51": {
-      "seenAt": "2026-11-23T15:01:16.483Z",
-      "title": "Trump doubles down on call for Nvidia to rehire Jensen Huang amid alleged Chinese spy scandal - Fox Business",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "6496090943be583faea73b35291cddda46a04c0561ad23e477c350cc698cd9bf": {
       "seenAt": "2026-11-23T15:01:17.258Z",
       "title": "[김종석의 리포트]“尹 사형 구형일 맞춰 한동훈 제명” - 채널A",
@@ -2515,14 +2500,29 @@
       "seenAt": "2026-11-26T04:01:15.820Z",
       "title": "조국 \"독도 방문 일자 잡혔다\"…원정대 일정 공지 | - 연합투데이",
       "targetName": "조국"
+    },
+    "71709ed5e0176a8ddccfd71c19755f6790096d372551e6823a834d2f4ed162f1": {
+      "seenAt": "2026-11-26T04:11:14.272Z",
+      "title": "이재명 대통령, 청해부대 ‘우회 파병’ 논란 불식에 최선 - 시사위크",
+      "targetName": "이재명"
+    },
+    "0cd5241ee99a171f5ca4d27b900f281d7a089b7410065f16ac0b825131336219": {
+      "seenAt": "2026-11-26T04:11:14.872Z",
+      "title": "김용민, 한동훈 직격 \"의원직 판돈 걸듯 가벼운 태도\" - 조세일보",
+      "targetName": "한동훈"
+    },
+    "f9e84a6f2a5d527a427af578cba6b73243c7be41f21322782f35982d03d5b491": {
+      "seenAt": "2026-11-26T04:11:15.497Z",
+      "title": "정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지” - 주간조선",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "a37d14d0aaf860435133e0f9f0457bf8f9483f10b9d0e8a06f10e1f2561b32dc",
-    "title": "조국 \"독도 방문 일자 잡혔다\"…원정대 일정 공지 | - 연합투데이",
+    "postId": "f9e84a6f2a5d527a427af578cba6b73243c7be41f21322782f35982d03d5b491",
+    "title": "정청래, 송영길에 “입이 너무 싸다…사람이라면 분수를 알아야지” - 주간조선",
     "bot": "jongsuk_pol_bot",
-    "runId": "45752502169",
-    "sentAt": "2026-11-26T04:01:15.476Z"
+    "runId": "45753571612",
+    "sentAt": "2026-11-26T04:11:15.167Z"
   }
 }
