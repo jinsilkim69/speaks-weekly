@@ -9699,3 +9699,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 조희대 탄핵은 '정권 몰락 트리거' "김민석 대표 독약 먹는 것" ㅣ이현종의 뉴스쇼 [문화일보] #shorts - 문화일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조희대 탄핵은 '정권 몰락 트리거' "김민석 대표 독약 먹는 것" ㅣ이현종의 뉴스쇼  #shorts
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUmxEeEZQYW15ZzRMeHd2OUdSbWdyZHg1b2ROSGxnTVAwWFMtOTVxaFdEMkk4bC10UFNaYlJfMlNVekZWMDFBVHBqb3RVQ0t5Tmt0WmJB?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 중앙일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQndsX1pjZmJnVExRWHRUdEhKYVF4S3Q0VDZRb1hjOGQ3Sm9Zc2E1MEt1SVFIeVY5Q3liWGMyNWtyeVBXVjRxM0V6cEx2ODI5dllyS2h3?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’ - 천지일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQklIdk1SclA0cnZFQ3R1UkNFbUxKZVQwSDhlWl9WX3VEZjdpLTFJSXRwWFpfY2RfY1Ixdk9Od1BVNk5OZ3VRZlo4OExsNGRfS1l3bFdISS1HeFd3Qmc1c3h4Y08tWXM3SWc?oc=5)
+
+---
+

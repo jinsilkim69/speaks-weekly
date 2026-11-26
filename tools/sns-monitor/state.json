@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T07:51:19.086Z",
+  "lastCheckedAt": "2026-11-26T08:01:18.669Z",
   "seenPostIds": {
-    "f40fb6e21a57d12f13662ea66bc15ea92f5572e99ff89d478a7b310134227171": {
-      "seenAt": "2026-11-24T01:41:18.794Z",
-      "title": "Trump claims credit as Jensen Huang returns to Nvidia - NPR",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "9ba65f5a3317bacd63aa3174a1a4d7b450cc760a1c86672a3d0e641ebabb6fac": {
-      "seenAt": "2026-11-24T01:41:19.455Z",
-      "title": "오세훈 “대통령 이재명의 시간, 피고인 이재명에게 쓰지 말라” - 조세일보",
-      "targetName": "이재명"
-    },
-    "9ba9caf7dc8259ca671ec4d2ba3d85445a80f1a7ab1d37e9287b50aac7d27b71": {
-      "seenAt": "2026-11-24T01:41:20.121Z",
-      "title": "정청래, 박선원 저격 \"신천지로 당 초토화…일제 부역자 발언 정점\" - 머니투데이 - 머니투데이",
-      "targetName": "정청래"
-    },
     "d0c42f462866c60380d3b26e22a39f14716ae8178f4c4b820fa9b62f6b7bd35d": {
       "seenAt": "2026-11-24T01:51:16.830Z",
       "title": "정청래, 취임 100일 김민석 겨냥 “반분신 3자 연합, 사과하면 끝? 책임 정치 하자” - JTBC",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-26T07:51:22.293Z",
       "title": "친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 중앙일보",
       "targetName": "김민석"
+    },
+    "f31329a566104950de5340d1898209e94be81292db1687384f06a6e4ef8e670d": {
+      "seenAt": "2026-11-26T08:01:20.213Z",
+      "title": "조희대 탄핵은 '정권 몰락 트리거' \"김민석 대표 독약 먹는 것\" ㅣ이현종의 뉴스쇼 [문화일보] #shorts - 문화일보",
+      "targetName": "김민석"
+    },
+    "fd37103a00f62079470062252fc61ab0c68b91236af6f47b6f88b2b3f4c87d43": {
+      "seenAt": "2026-11-26T08:01:21.011Z",
+      "title": "친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 중앙일보",
+      "targetName": "정청래"
+    },
+    "ab9fc43e2ee7037b99c0a1e25ac90c05248d063c7434d2eaa8a3f8fcffe73cb0": {
+      "seenAt": "2026-11-26T08:01:21.859Z",
+      "title": "정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’ - 천지일보",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "f31329a566104950de5340d1898209e94be81292db1687384f06a6e4ef8e670d",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "조희대 탄핵은 '정권 몰락 트리거' \"김민석 대표 독약 먹는 것\" ㅣ이현종의 뉴스쇼 [문화일보] #shorts - 문화일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUmxEeEZQYW15ZzRMeHd2OUdSbWdyZHg1b2ROSGxnTVAwWFMtOTVxaFdEMkk4bC10UFNaYlJfMlNVekZWMDFBVHBqb3RVQ0t5Tmt0WmJB?oc=5\" target=\"_blank\">조희대 탄핵은 '정권 몰락 트리거' \"김민석 대표 독약 먹는 것\" ㅣ이현종의 뉴스쇼 [문화일보] #shorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOUmxEeEZQYW15ZzRMeHd2OUdSbWdyZHg1b2ROSGxnTVAwWFMtOTVxaFdEMkk4bC10UFNaYlJfMlNVekZWMDFBVHBqb3RVQ0t5Tmt0WmJB?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 20:42:00 GMT",
-        "source": "문화일보",
-        "ageHours": 11
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "fd37103a00f62079470062252fc61ab0c68b91236af6f47b6f88b2b3f4c87d43",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQndsX1pjZmJnVExRWHRUdEhKYVF4S3Q0VDZRb1hjOGQ3Sm9Zc2E1MEt1SVFIeVY5Q3liWGMyNWtyeVBXVjRxM0V6cEx2ODI5dllyS2h3?oc=5\" target=\"_blank\">친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQndsX1pjZmJnVExRWHRUdEhKYVF4S3Q0VDZRb1hjOGQ3Sm9Zc2E1MEt1SVFIeVY5Q3liWGMyNWtyeVBXVjRxM0V6cEx2ODI5dllyS2h3?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 07:35:45 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ab9fc43e2ee7037b99c0a1e25ac90c05248d063c7434d2eaa8a3f8fcffe73cb0",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’ - 천지일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQklIdk1SclA0cnZFQ3R1UkNFbUxKZVQwSDhlWl9WX3VEZjdpLTFJSXRwWFpfY2RfY1Ixdk9Od1BVNk5OZ3VRZlo4OExsNGRfS1l3bFdISS1HeFd3Qmc1c3h4Y08tWXM3SWc?oc=5\" target=\"_blank\">정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQklIdk1SclA0cnZFQ3R1UkNFbUxKZVQwSDhlWl9WX3VEZjdpLTFJSXRwWFpfY2RfY1Ixdk9Od1BVNk5OZ3VRZlo4OExsNGRfS1l3bFdISS1HeFd3Qmc1c3h4Y08tWXM3SWc?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 06:48:04 GMT",
-        "source": "천지일보",
-        "ageHours": 0.9
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "a1c9d3dbab13fcce414f39cd430d0fd26ded213d52f4e14f60fcc9e0a0ca8cff",
@@ -2645,13 +2597,45 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "5143a46567b1f3029e64b89f02111a2c78c0bdeaa56ab81c5c84cdfe9eecdb4b",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "국회를 카지노로 '착각'하는 한동훈 #shorts - 오마이TV - OhmyNews",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9HenBhSzVpU0RDdDNnSkVvTXhYNjFIN3NiM2pNMXZtb3FFdEtEaHBJVERLam1NY05RV3hFN2pDTjdtaTc2RzlIQXJtTE9zQlYtN1BmZGhVcm1yODRSX2RuQ1Z6S1lCTFAxRHNFNGtfWFg1N0YtOXh4eW85dG9ycWs?oc=5\" target=\"_blank\">국회를 카지노로 '착각'하는 한동훈 #shorts - 오마이TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HenBhSzVpU0RDdDNnSkVvTXhYNjFIN3NiM2pNMXZtb3FFdEtEaHBJVERLam1NY05RV3hFN2pDTjdtaTc2RzlIQXJtTE9zQlYtN1BmZGhVcm1yODRSX2RuQ1Z6S1lCTFAxRHNFNGtfWFg1N0YtOXh4eW85dG9ycWs?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 06:34:57 GMT",
+        "source": "OhmyNews",
+        "ageHours": 1.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "42689d0d434d88c1520a4030851949e028d10e54a0caadd129bc924bdcd16c1b",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "국힘 사분오열…의혹 뭉개는 장동혁 vs 소송 기우는 한동훈 - KPI뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QVHhSaEc2S2l5NDFOcGNqSWJ5LUtsMEtzQ19rOThGbC0zZzIwYVVTZVRDX291NjZydEdvbXgxNzllZ1RSZlZiV0JyVnRYMFNGUTF5YzlGb9IBU0FVX3lxTE0tN1hibkVKNTlmVkRPTkM3dUtVMGpJeEJubUpUYkd0OTU5VnVBVFRWNnY1Z2YyckQxLUU5ak8temdBcGt1N1NmSG1SMnp0QTV3Qk9v?oc=5\" target=\"_blank\">국힘 사분오열…의혹 뭉개는 장동혁 vs 소송 기우는 한동훈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KPI뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QVHhSaEc2S2l5NDFOcGNqSWJ5LUtsMEtzQ19rOThGbC0zZzIwYVVTZVRDX291NjZydEdvbXgxNzllZ1RSZlZiV0JyVnRYMFNGUTF5YzlGb9IBU0FVX3lxTE0tN1hibkVKNTlmVkRPTkM3dUtVMGpJeEJubUpUYkd0OTU5VnVBVFRWNnY1Z2YyckQxLUU5ak8temdBcGt1N1NmSG1SMnp0QTV3Qk9v?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 07:46:25 GMT",
+        "source": "KPI뉴스",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "d49dd15637c3e6576f8901a539e21564f9404faac6b2b2c6b04d983b81e83b02",
-    "title": "친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 중앙일보",
+    "postId": "ab9fc43e2ee7037b99c0a1e25ac90c05248d063c7434d2eaa8a3f8fcffe73cb0",
+    "title": "정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’ - 천지일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45778387125",
-    "sentAt": "2026-11-26T07:51:21.856Z"
+    "runId": "45779642277",
+    "sentAt": "2026-11-26T08:01:21.429Z"
   }
 }
