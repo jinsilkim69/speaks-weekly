@@ -9387,3 +9387,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 대통령과의 비공개 만찬 공개에 정청래 반발…송영길과 갈등 표면화 - 뉴스21일간
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 대통령과의 비공개 만찬 공개에 정청래 반발…송영길과 갈등 표면화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TY1A1TFVUMWt0T29ZY0FHYkpyWndmYmJoaGRCT3lJVFJHZnBKRmZENTVqNVlwODVnNEFqQkVtZFV1cHhUV2JFZVJxRU1JQQ?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "대통령에 4시간 성토" "입조심하라"…송영길·정청래 '정면충돌' - 뉴스토마토
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "대통령에 4시간 성토" "입조심하라"…송영길·정청래 '정면충돌'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OUk9kSFdneXpFRDBBWkZtbkJmbUZ1emljRzdkQm1tRVVGU3VQNnRma1dfOEx5LXhaMm55R011dTl2OE9NTVhaclJpY2lwaG9sMk1TTEN5aVFDUlJ1VXpZRA?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 민주당 내홍, 송영길·정청래 공개 설전…중진 회동서 수습 주목 - 국제뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 내홍, 송영길·정청래 공개 설전…중진 회동서 수습 주목
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE9pelNEcjU0Xzg4ZVI5SWFuZFZwNlU1TlV5M1NkNWhKalZ2Zl82N2dyUXlPMmtJcWZpaG5SdnVFRUI1OW5ZNERNdV8zWVhIUng0Wlh5QXNYWWZtemQxMnBGVTRyaF9IUm1YaTBhVUd3?oc=5)
+
+---
+
