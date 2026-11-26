@@ -9218,3 +9218,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "오세훈, 서울시정이 대권 준비 징검다리? 자성해야" - MBC 뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "오세훈, 서울시정이 대권 준비 징검다리? 자성해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE5YdkRNYU90UkFVRFlNbklkUm5CWDhkQkVaOWIwcjFycmpmWmNybEhTWUp2LURCSi1HZWQzQWpuNUxDeS1haFZqSDBBYk9BaEdvcVd1cDNyekJDS2pFUW1mSGRvTGVkSDk4SDgtTGNla2dTVngxYXNERdIBeEFVX3lxTE82ZHdtYXc5bXpBNkw5NmtyNjl5WXJzakNVeVltV0dYTFdHR1AtSG5YeV9xNE5abEgzWEgtRVVzUzdrY2cwSGN6S0s4XzZKbGQ3cmZaekVWN25tdFotblZqRVNzUXE3THhTeUZuTi10UmVOMXRuU0d4ZA?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** “입조심하라” 정청래, 송영길 공개 비판…李대통령과 만찬 발언 발단 - 경기일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “입조심하라” 정청래, 송영길 공개 비판…李대통령과 만찬 발언 발단
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4ZnctN1JhUzRJYWoyVHZRX0x1enpvTjh4US16eVdFLXgwa1pFd2NZcVpFMDZ1aHlqblhZT2RrNmtNbFFjY3dQdFRkSTJXSWx2VHAwcHFub3NMS2M?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** "이 대통령, 정청래 억울함 4시간 들어"..."송영길, 입조심하라" [앵커리포트] - YTN
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] "이 대통령, 정청래 억울함 4시간 들어"..."송영길, 입조심하라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidkFVX3lxTFA3a3VoM2ZLV1lQZDJBV2JLdDgwNmw0aFNUcUYyTmtKYTVfVjVCbXFHVzF1bkRUSk1mRFoxLWJvaHVGQVpPZnA2YVFiODVmdXRfS0NNcDdkUjRtMDNqdzBsQ09KLTRwY3UzUzRmSnV3UGlfbUgzaEE?oc=5)
+
+---
+

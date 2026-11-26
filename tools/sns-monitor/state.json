@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T05:21:12.918Z",
+  "lastCheckedAt": "2026-11-26T05:31:20.324Z",
   "seenPostIds": {
-    "dbb477ea87c251e65178646667dbd1c5dc9e838ae1948a8828d5b445a459d1b2": {
-      "seenAt": "2026-11-23T18:11:16.367Z",
-      "title": "A red bra, an Nvidia flag and Trump's iconic rally pose: \"Sex sells\" - Axios",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "08fd57093b202ac2d6b57661a79761ac91d763f28875e3243d9d843998235fae": {
       "seenAt": "2026-11-23T18:11:17.071Z",
       "title": "Trump posts bizarre AI mockup of his Butler assassination attempt with Jensen Huang and a red bra - The Independent",
@@ -2505,14 +2500,46 @@
       "seenAt": "2026-11-26T05:21:14.016Z",
       "title": "조국 [공공기관 이전 부지에 공공주택 짓자…-제2의 무상급식-으로] - 매일경제",
       "targetName": "조국"
+    },
+    "0fdaa00953c17aa0162dd256c59c7dc3e31ff1fd4b918a14cf4cb2153f1bc9de": {
+      "seenAt": "2026-11-26T05:31:21.517Z",
+      "title": "김민석 \"오세훈, 서울시정이 대권 준비 징검다리? 자성해야\" - MBC 뉴스",
+      "targetName": "김민석"
+    },
+    "f16e8686f0e3bbacf0281dfafd218aa31fb2415b90f56bd8ac078e2b3b5019cf": {
+      "seenAt": "2026-11-26T05:31:22.090Z",
+      "title": "“입조심하라” 정청래, 송영길 공개 비판…李대통령과 만찬 발언 발단 - 경기일보",
+      "targetName": "정청래"
+    },
+    "9f44d51245331ad8fc6debad939866d09165d823e16c2bdc2db89ce6c358406b": {
+      "seenAt": "2026-11-26T05:31:22.698Z",
+      "title": "\"이 대통령, 정청래 억울함 4시간 들어\"...\"송영길, 입조심하라\" [앵커리포트] - YTN",
+      "targetName": "송영길"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "11d359787765dbea365637feddc8b106ed35f70a64264a9e1ef16e94bae28f0e",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\" - 한국일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5NV0x2a2lNVWpqMnR3OUVIcWpfYlYyUVJUeWtLNUFidFBOeTlNcDg0LVlxSjJFX2w2NFVGd1NDSS16Y1NyRGYyMGdyZ1EwUUxmckloQW1oN3otS2lsb2JMWVctZG84ZDdUTmVLZk5R?oc=5\" target=\"_blank\">'日 입국 거부' 조국, 다음 달 독도 간다… \"우리 땅 방문도 내 자유\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NV0x2a2lNVWpqMnR3OUVIcWpfYlYyUVJUeWtLNUFidFBOeTlNcDg0LVlxSjJFX2w2NFVGd1NDSS16Y1NyRGYyMGdyZ1EwUUxmckloQW1oN3otS2lsb2JMWVctZG84ZDdUTmVLZk5R?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 05:16:00 GMT",
+        "source": "한국일보",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "a66795cdec371b43c135187cab7ee09e5972fd4ef59bafc500de4b01d4fdffec",
-    "title": "조국 [공공기관 이전 부지에 공공주택 짓자…-제2의 무상급식-으로] - 매일경제",
+    "postId": "9f44d51245331ad8fc6debad939866d09165d823e16c2bdc2db89ce6c358406b",
+    "title": "\"이 대통령, 정청래 억울함 4시간 들어\"...\"송영길, 입조심하라\" [앵커리포트] - YTN",
     "bot": "jongsuk_pol_bot",
-    "runId": "45761005597",
-    "sentAt": "2026-11-26T05:21:13.494Z"
+    "runId": "45762107099",
+    "sentAt": "2026-11-26T05:31:22.402Z"
   }
 }
