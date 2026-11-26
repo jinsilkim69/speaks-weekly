@@ -5128,5 +5128,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "83767b773d09df27c74bbff04a8f87f26b0aee9edcfa19db38d2862c84d9bc2a",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Says Iran’s Leaked Deal Terms are Untrue - EnergyNow",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWFBmaVBMc1Rqb3oxWVUtcXNhanlPZThPU2Fob2xUendtYjROUkRIazBKVHhWNi13WXRtUFpWZ2ZRbDNRV2JIRWVjNnowQ3M2eE1xckxsdDRhYV96Y0pXaG1qQ2JHRGFrTmdnSmM1SHhlUjFJbEZzU0lYTnM3cTYyWg?oc=5\" target=\"_blank\">Trump Says Iran’s Leaked Deal Terms are Untrue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyNow</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWFBmaVBMc1Rqb3oxWVUtcXNhanlPZThPU2Fob2xUendtYjROUkRIazBKVHhWNi13WXRtUFpWZ2ZRbDNRV2JIRWVjNnowQ3M2eE1xckxsdDRhYV96Y0pXaG1qQ2JHRGFrTmdnSmM1SHhlUjFJbEZzU0lYTnM3cTYyWg?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 09:32:07 GMT",
+    "source": "EnergyNow",
+    "ageHours": 4.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Says Iran’s Leaked Deal Terms are Untrue",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "0aaa62afad4d26fada4b581fa9fbd506095245cbfefdeef177da8b6a89e05362",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스 한민족센터",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1mNjJOUnVKUjM2VGE4X09LSnZfdUhhWHZ1UWFOX1RyYXI3dG9WYm1pNEJkT1NkdjN5V3BGNmktWUpTaGx5U1RWYUNiYTZodGVmNklGLVU4aHA2SklwcDJnX290cmttRXNfNzJpTVlNVkFHX3hG?oc=5\" target=\"_blank\">與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스 한민족센터</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mNjJOUnVKUjM2VGE4X09LSnZfdUhhWHZ1UWFOX1RyYXI3dG9WYm1pNEJkT1NkdjN5V3BGNmktWUpTaGx5U1RWYUNiYTZodGVmNklGLVU4aHA2SklwcDJnX290cmttRXNfNzJpTVlNVkFHX3hG?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 13:24:44 GMT",
+    "source": "연합뉴스 한민족센터",
+    "ageHours": 0.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "7b431ec18c9469a12976cee9501d5937925f0a2d4547d82a9e2edf5ecc615289",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스 한민족센터",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1mNjJOUnVKUjM2VGE4X09LSnZfdUhhWHZ1UWFOX1RyYXI3dG9WYm1pNEJkT1NkdjN5V3BGNmktWUpTaGx5U1RWYUNiYTZodGVmNklGLVU4aHA2SklwcDJnX290cmttRXNfNzJpTVlNVkFHX3hG?oc=5\" target=\"_blank\">與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스 한민족센터</font>",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mNjJOUnVKUjM2VGE4X09LSnZfdUhhWHZ1UWFOX1RyYXI3dG9WYm1pNEJkT1NkdjN5V3BGNmktWUpTaGx5U1RWYUNiYTZodGVmNklGLVU4aHA2SklwcDJnX290cmttRXNfNzJpTVlNVkFHX3hG?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 13:24:44 GMT",
+    "source": "연합뉴스 한민족센터",
+    "ageHours": 0.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

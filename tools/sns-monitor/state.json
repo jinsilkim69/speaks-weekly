@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T14:11:14.172Z",
+  "lastCheckedAt": "2026-11-26T14:21:14.223Z",
   "seenPostIds": {
-    "a8ef5272839e69a1afdce31273aae32d4169bd444a87535afbeb252e14a65365": {
-      "seenAt": "2026-11-24T06:11:18.416Z",
-      "title": "정청래, '100일' 김민석 겨냥 SNS 폭탄…\"반분신 의혹 해당행위, 징계해야\" - 머니투데이 - 머니투데이",
-      "targetName": "김민석"
-    },
-    "b89656e38c83c640f6a136b88ee814a3de9549a6d96920b7344c58fc03ef5b7a": {
-      "seenAt": "2026-11-24T06:11:19.192Z",
-      "title": "김민석 취임 100일에 비판 글 쏟아낸 정청래…전직 당대표의 책임은 없나 - 주간경향",
-      "targetName": "김민석"
-    },
-    "53cd860eaf801129bc089c849bb34c06de7d12e705d4bcf534b11bb664a0fa52": {
-      "seenAt": "2026-11-24T06:21:18.725Z",
-      "title": "정청래, '100일' 김민석 겨냥 SNS 폭탄…\"반분신 의혹 해당행위, 징계해야\" - 머니투데이 - 머니투데이",
-      "targetName": "정청래"
-    },
     "322558f1e0c8c921a17221bf6a656a46b6ba8cba91f1c6c0ed5cfc0db058a7aa": {
       "seenAt": "2026-11-24T06:21:19.314Z",
       "title": "김민석 취임 100일에 비판 글 쏟아낸 정청래…전직 당대표의 책임은 없나 - 주간경향",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-26T14:11:16.525Z",
       "title": "정청래, 김민석과 화해 요구에 \"악수한다고 해결되나\" - 대전일보",
       "targetName": "정청래"
+    },
+    "83767b773d09df27c74bbff04a8f87f26b0aee9edcfa19db38d2862c84d9bc2a": {
+      "seenAt": "2026-11-26T14:21:15.563Z",
+      "title": "Trump Says Iran’s Leaked Deal Terms are Untrue - EnergyNow",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "0aaa62afad4d26fada4b581fa9fbd506095245cbfefdeef177da8b6a89e05362": {
+      "seenAt": "2026-11-26T14:21:16.307Z",
+      "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스 한민족센터",
+      "targetName": "김민석"
+    },
+    "7b431ec18c9469a12976cee9501d5937925f0a2d4547d82a9e2edf5ecc615289": {
+      "seenAt": "2026-11-26T14:21:17.093Z",
+      "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스 한민족센터",
+      "targetName": "정청래"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "83767b773d09df27c74bbff04a8f87f26b0aee9edcfa19db38d2862c84d9bc2a",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump Says Iran’s Leaked Deal Terms are Untrue - EnergyNow",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOWFBmaVBMc1Rqb3oxWVUtcXNhanlPZThPU2Fob2xUendtYjROUkRIazBKVHhWNi13WXRtUFpWZ2ZRbDNRV2JIRWVjNnowQ3M2eE1xckxsdDRhYV96Y0pXaG1qQ2JHRGFrTmdnSmM1SHhlUjFJbEZzU0lYTnM3cTYyWg?oc=5\" target=\"_blank\">Trump Says Iran’s Leaked Deal Terms are Untrue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnergyNow</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWFBmaVBMc1Rqb3oxWVUtcXNhanlPZThPU2Fob2xUendtYjROUkRIazBKVHhWNi13WXRtUFpWZ2ZRbDNRV2JIRWVjNnowQ3M2eE1xckxsdDRhYV96Y0pXaG1qQ2JHRGFrTmdnSmM1SHhlUjFJbEZzU0lYTnM3cTYyWg?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 09:32:07 GMT",
-        "source": "EnergyNow",
-        "ageHours": 4.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "0aaa62afad4d26fada4b581fa9fbd506095245cbfefdeef177da8b6a89e05362",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스 한민족센터",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1mNjJOUnVKUjM2VGE4X09LSnZfdUhhWHZ1UWFOX1RyYXI3dG9WYm1pNEJkT1NkdjN5V3BGNmktWUpTaGx5U1RWYUNiYTZodGVmNklGLVU4aHA2SklwcDJnX290cmttRXNfNzJpTVlNVkFHX3hG?oc=5\" target=\"_blank\">與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스 한민족센터</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mNjJOUnVKUjM2VGE4X09LSnZfdUhhWHZ1UWFOX1RyYXI3dG9WYm1pNEJkT1NkdjN5V3BGNmktWUpTaGx5U1RWYUNiYTZodGVmNklGLVU4aHA2SklwcDJnX290cmttRXNfNzJpTVlNVkFHX3hG?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 13:24:44 GMT",
-        "source": "연합뉴스 한민족센터",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "7b431ec18c9469a12976cee9501d5937925f0a2d4547d82a9e2edf5ecc615289",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스 한민족센터",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1mNjJOUnVKUjM2VGE4X09LSnZfdUhhWHZ1UWFOX1RyYXI3dG9WYm1pNEJkT1NkdjN5V3BGNmktWUpTaGx5U1RWYUNiYTZodGVmNklGLVU4aHA2SklwcDJnX290cmttRXNfNzJpTVlNVkFHX3hG?oc=5\" target=\"_blank\">與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스 한민족센터</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mNjJOUnVKUjM2VGE4X09LSnZfdUhhWHZ1UWFOX1RyYXI3dG9WYm1pNEJkT1NkdjN5V3BGNmktWUpTaGx5U1RWYUNiYTZodGVmNklGLVU4aHA2SklwcDJnX290cmttRXNfNzJpTVlNVkFHX3hG?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 13:24:44 GMT",
-        "source": "연합뉴스 한민족센터",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "253c1ec326747d909c8ba6a2d9cf02ab9b88fddd39752383ca0c3b991dec5379",
@@ -2584,10 +2536,10 @@
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "6551df673176d0b19ff1be0f0d4184f8a5727d62459c688f3ed5db4115e62896",
-    "title": "정청래, 김민석과 화해 요구에 \"악수한다고 해결되나\" - 대전일보",
+    "postId": "7b431ec18c9469a12976cee9501d5937925f0a2d4547d82a9e2edf5ecc615289",
+    "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스 한민족센터",
     "bot": "jongsuk_pol_bot",
-    "runId": "45836413014",
-    "sentAt": "2026-11-26T14:11:16.210Z"
+    "runId": "45838103459",
+    "sentAt": "2026-11-26T14:21:16.668Z"
   }
 }
