@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T07:41:12.268Z",
+  "lastCheckedAt": "2026-11-26T07:51:19.086Z",
   "seenPostIds": {
-    "77201260f0993e52e407d0adc36cce5dbd03ce5b69afebc298fac99c40b49b6f": {
-      "seenAt": "2026-11-24T01:31:13.650Z",
-      "title": "[이종근의 좌충우돌]조국의 해법, '내 집은 소유하고, 청년의 집은 임대하라' - 매일산업뉴스",
-      "targetName": "조국"
-    },
-    "43e9963647b6184fb6d4e81d69f6e579d54926201cf32dfa2b9b2271ae96ee11": {
-      "seenAt": "2026-11-24T01:31:14.282Z",
-      "title": "정성호 \"김민석·정청래 앙금 못 풀면 미래 없다… 당 공멸 막아야\" - 대전일보",
-      "targetName": "정청래"
-    },
-    "fd0568f7aae327199bac27175f74eb8c275342804471ed09d46195168d0e1429": {
-      "seenAt": "2026-11-24T01:31:14.912Z",
-      "title": "‘金 100일’에 정청래 “성공한 정치공작이니 말로 사과하면 끝인가” - 이데일리",
-      "targetName": "정청래"
-    },
     "f40fb6e21a57d12f13662ea66bc15ea92f5572e99ff89d478a7b310134227171": {
       "seenAt": "2026-11-24T01:41:18.794Z",
       "title": "Trump claims credit as Jensen Huang returns to Nvidia - NPR",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-26T07:41:14.726Z",
       "title": "송영길·정청래 설전…민주당 계파 갈등 확산 - 일간투데이",
       "targetName": "정청래"
+    },
+    "154628eb575369da0c8074b3e1516a3a26cdf2216aea7ef599b2eb0142de8a4e": {
+      "seenAt": "2026-11-26T07:51:20.634Z",
+      "title": "차기 대통령감? 오세훈 22%·장동혁 16.5%, 김민석 15.6%·정청래 10.6% - TV조선뉴스",
+      "targetName": "정청래"
+    },
+    "902289f59fcfc6b8a21053721fa8826682bb953a2398de1563f30a732ae29199": {
+      "seenAt": "2026-11-26T07:51:21.423Z",
+      "title": "정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’ - 천지일보",
+      "targetName": "송영길"
+    },
+    "d49dd15637c3e6576f8901a539e21564f9404faac6b2b2c6b04d983b81e83b02": {
+      "seenAt": "2026-11-26T07:51:22.293Z",
+      "title": "친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 중앙일보",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "154628eb575369da0c8074b3e1516a3a26cdf2216aea7ef599b2eb0142de8a4e",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "차기 대통령감? 오세훈 22%·장동혁 16.5%, 김민석 15.6%·정청래 10.6% - TV조선뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5DUGxFZXI2Vm1sd1llNEZUMW1tUjlYaWxOUWs1YzFXRl9hUjVQb1VPQ2FremxfYzMyN1ptRHpHekg5Vm5EdGZ6QkZOc09fSlM3d0dENFhkb21iQjROcmthcDVHWE8tVl9zbGVZTkNyZnBUdDFLVU8wazJGb012SE0?oc=5\" target=\"_blank\">차기 대통령감? 오세훈 22%·장동혁 16.5%, 김민석 15.6%·정청래 10.6%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TV조선뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DUGxFZXI2Vm1sd1llNEZUMW1tUjlYaWxOUWs1YzFXRl9hUjVQb1VPQ2FremxfYzMyN1ptRHpHekg5Vm5EdGZ6QkZOc09fSlM3d0dENFhkb21iQjROcmthcDVHWE8tVl9zbGVZTkNyZnBUdDFLVU8wazJGb012SE0?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 00:07:34 GMT",
-        "source": "TV조선뉴스",
-        "ageHours": 7.4
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "902289f59fcfc6b8a21053721fa8826682bb953a2398de1563f30a732ae29199",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’ - 천지일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQklIdk1SclA0cnZFQ3R1UkNFbUxKZVQwSDhlWl9WX3VEZjdpLTFJSXRwWFpfY2RfY1Ixdk9Od1BVNk5OZ3VRZlo4OExsNGRfS1l3bFdISS1HeFd3Qmc1c3h4Y08tWXM3SWc?oc=5\" target=\"_blank\">정청래·송영길 공개 충돌… 與내부 갈등 구도 ‘복잡’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">천지일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQklIdk1SclA0cnZFQ3R1UkNFbUxKZVQwSDhlWl9WX3VEZjdpLTFJSXRwWFpfY2RfY1Ixdk9Od1BVNk5OZ3VRZlo4OExsNGRfS1l3bFdISS1HeFd3Qmc1c3h4Y08tWXM3SWc?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 06:48:04 GMT",
-        "source": "천지일보",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "d49dd15637c3e6576f8901a539e21564f9404faac6b2b2c6b04d983b81e83b02",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQndsX1pjZmJnVExRWHRUdEhKYVF4S3Q0VDZRb1hjOGQ3Sm9Zc2E1MEt1SVFIeVY5Q3liWGMyNWtyeVBXVjRxM0V6cEx2ODI5dllyS2h3?oc=5\" target=\"_blank\">친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vQndsX1pjZmJnVExRWHRUdEhKYVF4S3Q0VDZRb1hjOGQ3Sm9Zc2E1MEt1SVFIeVY5Q3liWGMyNWtyeVBXVjRxM0V6cEx2ODI5dllyS2h3?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 07:35:45 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "f31329a566104950de5340d1898209e94be81292db1687384f06a6e4ef8e670d",
@@ -2629,13 +2581,77 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "39cf07b1a6c4d4b7d04b4e915910c193212ee614d212bd550c9c4e973ee661b2",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "[줌 인 여의도] 국힘 내분 한동훈 복당 둘러싼 진흙탕 싸움 양상 …의총서 결판나나 - 대구일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tNFBQb2MtZlZ4NzJwZklyTDVCWEl6dUxsUXpXUXRKS2xnNEVxM2FKTy1PX2xPNGtMV2ZVYXYwTVZxSEJPVFJycE1zSGVDZmFsN2M0cmZfNnRFMm5QNm5nU2IwZWtsVHlV?oc=5\" target=\"_blank\">[줌 인 여의도] 국힘 내분 한동훈 복당 둘러싼 진흙탕 싸움 양상 …의총서 결판나나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대구일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tNFBQb2MtZlZ4NzJwZklyTDVCWEl6dUxsUXpXUXRKS2xnNEVxM2FKTy1PX2xPNGtMV2ZVYXYwTVZxSEJPVFJycE1zSGVDZmFsN2M0cmZfNnRFMm5QNm5nU2IwZWtsVHlV?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 07:26:04 GMT",
+        "source": "대구일보",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "5ea9b9856420c6b27cc6ff4e69314187a23196c0ca34890060960eb3aa719022",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래 “李대통령 외교 ‘월드클래스’…내란의밤 사선 넘은 전우” - 헤럴드경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HZnNWRnluaFpjblZNcXlqUXNFZkhVaWFjdnUzcjAzMkhqcUpsMUVJSUNOZ2FLbkVDVFBCaGlMVmRCaVZfNnpVU2U3elpGcjZyaHlVcjVn?oc=5\" target=\"_blank\">정청래 “李대통령 외교 ‘월드클래스’…내란의밤 사선 넘은 전우”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HZnNWRnluaFpjblZNcXlqUXNFZkhVaWFjdnUzcjAzMkhqcUpsMUVJSUNOZ2FLbkVDVFBCaGlMVmRCaVZfNnpVU2U3elpGcjZyaHlVcjVn?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 07:43:48 GMT",
+        "source": "헤럴드경제",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "8e0d07a9a8a0644ae653d674bd5abc2587f187b1170ddb6cef9303dd998aee95",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "부영 송도테마파크 활용 두고 갈등 격화··· 이재호 “송영길, 노골적 막말” - 인천투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5LVG5maFhKMUFWUGpMSXJqT0tJa0ROM0RKVV8tWFprWExhZERwY21mYjN6c1JLRE1DU0FBeXZUdnRqRlJzRWFqd2hqMjBhOFlJTE80VFQzbk41SFBwMjJoTFc1M0w5WmZhOV96cE9Vams?oc=5\" target=\"_blank\">부영 송도테마파크 활용 두고 갈등 격화··· 이재호 “송영길, 노골적 막말”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LVG5maFhKMUFWUGpMSXJqT0tJa0ROM0RKVV8tWFprWExhZERwY21mYjN6c1JLRE1DU0FBeXZUdnRqRlJzRWFqd2hqMjBhOFlJTE80VFQzbk41SFBwMjJoTFc1M0w5WmZhOV96cE9Vams?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 02:15:12 GMT",
+        "source": "인천투데이",
+        "ageHours": 5.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "40f78f580237eae317a6a61b3ef65beeb2a4fb38c65e0c78d7240755ce6e3554",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라” - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WUTNaVjJUd1NOaEJvZHgtWkZ4UnlNMFVnT3RVVDNEMUFvaHFYdGRva2xrazNWdWNnV3JIOTctbFBwbTVON3NvaWM1WmppRFBw?oc=5\" target=\"_blank\">송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WUTNaVjJUd1NOaEJvZHgtWkZ4UnlNMFVnT3RVVDNEMUFvaHFYdGRva2xrazNWdWNnV3JIOTctbFBwbTVON3NvaWM1WmppRFBw?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 21:00:00 GMT",
+        "source": "세계일보",
+        "ageHours": 10.9
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "6203bc34db5b1f4fde88bb8da47371b0cfcf4999d906ca6bc28f2ee6f32264bf",
-    "title": "송영길·정청래 설전…민주당 계파 갈등 확산 - 일간투데이",
+    "postId": "d49dd15637c3e6576f8901a539e21564f9404faac6b2b2c6b04d983b81e83b02",
+    "title": "친청계 유튜버 무력시위 예고…정청래, 김민석과 장기전 태세 - 중앙일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45777145527",
-    "sentAt": "2026-11-26T07:41:14.420Z"
+    "runId": "45778387125",
+    "sentAt": "2026-11-26T07:51:21.856Z"
   }
 }
