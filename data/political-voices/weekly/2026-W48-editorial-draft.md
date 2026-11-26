@@ -11285,3 +11285,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 폭언 차단…건전한 비판은 수용, 악의적 인신공격에는 선 긋기 - CBC뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 폭언 차단…건전한 비판은 수용, 악의적 인신공격에는 선 긋기
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMEdhdXR1WmJuVGJYdGsySjFfX01mTEl2VmN0MmlrazVnS192ZUc0Rlh3OXMyOVFvYTRmQkNVNm5oS01mbzFrb2FvUHhXVlNMNzYyMmJJV085WHB5RFVYaFRXQ2xLU1hr?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 박지원 "한동훈 나가면 국힘서 박수 칠 것…직 걸 데다 걸라" - 뉴시스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원 "한동훈 나가면 국힘서 박수 칠 것…직 걸 데다 걸라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5XzI5UkRTV2gweTVQd1hHdEVkVExDWnd5a1NRTzFWWGIxN1hyaUxVVUpCTlRnOC1uZ01LdTA1VXRMSzQ5T3hfaVpVNXU4dERkamtJbmpiWXpVNFU3NXdHbdIBeEFVX3lxTE1TczBXeEZneHJEREtqRlMxaVF6NXBIYktMS1Fxdm01ZFBhWm1jVUtwM3dHNUFzc3hvelcxQjNhTVdsMkxRcXhQNUJ2aVR1cUlrMC1uaEtzZ0Jmd1hVNFE3alFGLUZXdXNzc1ZoMDlzMWd2QjYtSWNJbQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump celebrates Thanksgiving tradition of hate-posting against his enemies - New York Post
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump celebrates Thanksgiving tradition of hate-posting against his enemies
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTnBPeHgxV1Y0S2hMTlZMUF9jZ05mcFFUN0s2Zy1sNEZyZk5sazYwUTZpbXczTU9KSi1xQ0E2MTFmM2RrMzExMUhZaEUzcHdlbUpocW16RGdRRDVXOFdRR0s3bkNvYlNuQ20wXzBTdk1yS1M0OHd3R3hRXy0zRTRNdG5GVXRGUnAzbVdJRVN2NmNCVjdLWjZQb1doc2dEeFZvaGtfNDA5bDZRMXdFVXlXd0VJVDNNSnBSUXRRdlllOHhnWjIwMVlqcGVUOEFSaEdtX19TSlU5NTRmU3p1OVNqM05PZWFhZWdTNnlOWFE5NVlWZG1ZRFVhOA?oc=5)
+
+---
+
