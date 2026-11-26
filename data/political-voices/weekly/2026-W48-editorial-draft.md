@@ -10752,3 +10752,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與중진들, 만찬회동서 "단결·민생전념"…김민석·정청래는 불참 - 연합뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與중진들, 만찬회동서 "단결·민생전념"…김민석·정청래는 불참
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oSDVOMzg5Z2loRzRuVnlpcUZYYTF0bkx3M3BhWTFVUzRGb3JkSXRDQ25FbVQ1cUpCTURyUExaUGloaE8zTmk4OWFGaEUyeTZzUjd3ektoNkRWcWNnYmxaYtIBYEFVX3lxTE5oSDVOMzg5Z2loRzRuVnlpcUZYYTF0bkx3M3BhWTFVUzRGb3JkSXRDQ25FbVQ1cUpCTURyUExaUGloaE8zTmk4OWFGaEUyeTZzUjd3ektoNkRWcWNnYmxaYg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 與중진들, 만찬회동서 "단결·민생전념"…김민석·정청래는 불참 - 연합뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與중진들, 만찬회동서 "단결·민생전념"…김민석·정청래는 불참
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oSDVOMzg5Z2loRzRuVnlpcUZYYTF0bkx3M3BhWTFVUzRGb3JkSXRDQ25FbVQ1cUpCTURyUExaUGloaE8zTmk4OWFGaEUyeTZzUjd3ektoNkRWcWNnYmxaYtIBYEFVX3lxTE5oSDVOMzg5Z2loRzRuVnlpcUZYYTF0bkx3M3BhWTFVUzRGb3JkSXRDQ25FbVQ1cUpCTURyUExaUGloaE8zTmk4OWFGaEUyeTZzUjd3ektoNkRWcWNnYmxaYg?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 이재호 연수구청장, 송영길에 사과 요구…“송도테마파크 토양 정화가 우선” - 중부일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재호 연수구청장, 송영길에 사과 요구…“송도테마파크 토양 정화가 우선”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1qMDRwUUpILTJ1dk1kNUowSUw2bW5jQlpBUnVXYkVHcFZuUjNqMkxQVTBXZENFOEFCUDB1T29VczdvMzVGOUpjdzRxRkZqYXp3ekwtSkRoN05na3VRXzAtSWF0N3lOeEpnRmx2c2xPSQ?oc=5)
+
+---
+

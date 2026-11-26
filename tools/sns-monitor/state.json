@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T14:31:14.549Z",
+  "lastCheckedAt": "2026-11-26T14:41:13.467Z",
   "seenPostIds": {
-    "8b3b05daf3743edda968916c2c6d0633041e22542a4c1b8d04ba9b6a85af0e2d": {
-      "seenAt": "2026-11-24T06:31:17.438Z",
-      "title": "송영길 \"반도체 클러스터 성공 열쇠는 지역사회 합심\" - 동행미디어 시대",
-      "targetName": "송영길"
-    },
-    "cecb2f0b98fd75a3fa9b2fbba99712118f863d7d57737b088751e1cbe67fe923": {
-      "seenAt": "2026-11-24T06:41:15.974Z",
-      "title": "정청래, '취임 100일' 김민석에 포문‥\"당 초토화시켜\" - MBC 뉴스",
-      "targetName": "김민석"
-    },
     "f092deee1205d35056d5241e540fd53624772df80e02e5cb27c254d594fd7da6": {
       "seenAt": "2026-11-24T06:41:16.599Z",
       "title": "정청래, '취임 100일' 김민석에 포문‥\"당 초토화시켜\" - MBC 뉴스",
@@ -2510,14 +2500,29 @@
       "seenAt": "2026-11-26T14:31:16.493Z",
       "title": "Trump kicks off Thanksgiving ranting about his successes and attacking ‘lowlife’ journalist - The Independent",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "b61f8b3677da3047af3e33b4775177cdcb47af97d4ce21cb9f6f4aca59fd3afb": {
+      "seenAt": "2026-11-26T14:41:14.655Z",
+      "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스",
+      "targetName": "김민석"
+    },
+    "9dcacb79209e9fea99fff25c547016fdc8e5eed87d952e4af7db557fb8e2673d": {
+      "seenAt": "2026-11-26T14:41:15.329Z",
+      "title": "與중진들, 만찬회동서 \"단결·민생전념\"…김민석·정청래는 불참 - 연합뉴스",
+      "targetName": "정청래"
+    },
+    "306b68dd3788181d593f95f43e0415727347c95db7634c67307af1a664b0fae0": {
+      "seenAt": "2026-11-26T14:41:16.049Z",
+      "title": "이재호 연수구청장, 송영길에 사과 요구…“송도테마파크 토양 정화가 우선” - 중부일보",
+      "targetName": "송영길"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "dea8e833a012f982f5ba8873d26e7e67c1a458d789c071f722bac4df8eb7e233",
-    "title": "Trump kicks off Thanksgiving ranting about his successes and attacking ‘lowlife’ journalist - The Independent",
+    "postId": "306b68dd3788181d593f95f43e0415727347c95db7634c67307af1a664b0fae0",
+    "title": "이재호 연수구청장, 송영길에 사과 요구…“송도테마파크 토양 정화가 우선” - 중부일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45839792780",
-    "sentAt": "2026-11-26T14:31:16.089Z"
+    "runId": "45841468298",
+    "sentAt": "2026-11-26T14:41:15.688Z"
   }
 }
