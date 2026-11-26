@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T20:21:13.623Z",
+  "lastCheckedAt": "2026-11-26T20:31:18.449Z",
   "seenPostIds": {
-    "5d3c21d8d67d952d8e02e37d9c5d94d9d73480148a95bf5b7f1a5e56a2d56c5c": {
-      "seenAt": "2026-11-24T08:51:18.520Z",
-      "title": "‘조작징계’ 주장에 장동혁-한동훈 정면 충돌 “한, 보수 궤멸의 중심” “장, 배후 조종 인정” - 한겨레",
-      "targetName": "한동훈"
-    },
     "5f622287d26d2a9437f7d0ddc3baca9c056c637efa375ed6fe7e47b48f4743ff": {
       "seenAt": "2026-11-24T08:51:19.269Z",
       "title": "이재명 정부 첫 재외공관장 회의…대통령 직접 주재·생중계 검토 - 한겨레",
@@ -2505,14 +2500,29 @@
       "seenAt": "2026-11-26T20:21:14.658Z",
       "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence - The Guardian",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "125832e5a7691ec781b2e1185d7606217d5a158d6877ce257d182b9764e9f212": {
+      "seenAt": "2026-11-26T20:31:19.946Z",
+      "title": "이재호 인천 연수구청장, 송영길 의원에 공개 사과 요구…송도 테마파크 개발 갈등 확산 - 에너지경제신문",
+      "targetName": "송영길"
+    },
+    "b22e4a36b8da32a51047b9c7acc5adc64f6e6bdb62697acab936136bf3214390": {
+      "seenAt": "2026-11-26T20:31:20.535Z",
+      "title": "Trump unloads on critics in wide-ranging Thanksgiving Day rant - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "3666557c11ca3586591fb9a0b1584a127ff6cfcdf4e135b33bf418617bb128d0": {
+      "seenAt": "2026-11-26T20:31:21.111Z",
+      "title": "Trump demands investigation into GDP data revisions - Axios",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "071304b7f55084975ac945ec6cb943520c23db04a21e28e8e196f2370331bda8",
-    "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence - The Guardian",
+    "postId": "3666557c11ca3586591fb9a0b1584a127ff6cfcdf4e135b33bf418617bb128d0",
+    "title": "Trump demands investigation into GDP data revisions - Axios",
     "bot": "jongsuk_pol_bot",
-    "runId": "45890390126",
-    "sentAt": "2026-11-26T20:21:14.168Z"
+    "runId": "45891592446",
+    "sentAt": "2026-11-26T20:31:20.817Z"
   }
 }
