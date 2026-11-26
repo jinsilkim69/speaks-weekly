@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T08:11:19.772Z",
+  "lastCheckedAt": "2026-11-26T08:21:17.240Z",
   "seenPostIds": {
-    "5edbe55704972f0766857580a5610580fbe81446e6034546279e7a874a9693a5": {
-      "seenAt": "2026-11-24T02:01:20.686Z",
-      "title": "[포토] 의원총회서 발언하는 강경숙 조국혁신당 원내부대표 - 파이낸스투데이",
-      "targetName": "조국"
-    },
-    "6161533cd14dec51f1f9aafe3a75261cb94b1a48a1d03afc4c849896f79a1597": {
-      "seenAt": "2026-11-24T02:21:16.726Z",
-      "title": "정청래, 김민석 겨냥 \"신천지 근거 없는 폭탄이 당 초토화…해당행위\" - 연합뉴스TV",
-      "targetName": "김민석"
-    },
-    "4d3f1be9d9db546df92999e94e3deeadad9b3fbcea9168803dface8fbd41c31e": {
-      "seenAt": "2026-11-24T02:21:17.381Z",
-      "title": "김민석 \"100일, 가장 만만치 않았던 기간\" - 한국경제",
-      "targetName": "김민석"
-    },
     "6fd9752fdf3f0f2ffb4bf868bba6a2e16c1e4d8f7e0f7b2367e74666dd61d5ff": {
       "seenAt": "2026-11-24T02:21:18.034Z",
       "title": "정청래, 김민석 겨냥 \"신천지 근거 없는 폭탄이 당 초토화…해당행위\" - 연합뉴스TV",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-26T08:11:22.608Z",
       "title": "정청래 “李대통령 외교 ‘월드클래스’…내란의밤 사선 넘은 전우” - 헤럴드경제",
       "targetName": "정청래"
+    },
+    "8e0d07a9a8a0644ae653d674bd5abc2587f187b1170ddb6cef9303dd998aee95": {
+      "seenAt": "2026-11-26T08:21:19.004Z",
+      "title": "부영 송도테마파크 활용 두고 갈등 격화··· 이재호 “송영길, 노골적 막말” - 인천투데이",
+      "targetName": "송영길"
+    },
+    "40f78f580237eae317a6a61b3ef65beeb2a4fb38c65e0c78d7240755ce6e3554": {
+      "seenAt": "2026-11-26T08:21:19.751Z",
+      "title": "송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라” - 세계일보",
+      "targetName": "송영길"
+    },
+    "5143a46567b1f3029e64b89f02111a2c78c0bdeaa56ab81c5c84cdfe9eecdb4b": {
+      "seenAt": "2026-11-26T08:21:20.553Z",
+      "title": "국회를 카지노로 '착각'하는 한동훈 #shorts - 오마이TV - OhmyNews",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "8e0d07a9a8a0644ae653d674bd5abc2587f187b1170ddb6cef9303dd998aee95",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "부영 송도테마파크 활용 두고 갈등 격화··· 이재호 “송영길, 노골적 막말” - 인천투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5LVG5maFhKMUFWUGpMSXJqT0tJa0ROM0RKVV8tWFprWExhZERwY21mYjN6c1JLRE1DU0FBeXZUdnRqRlJzRWFqd2hqMjBhOFlJTE80VFQzbk41SFBwMjJoTFc1M0w5WmZhOV96cE9Vams?oc=5\" target=\"_blank\">부영 송도테마파크 활용 두고 갈등 격화··· 이재호 “송영길, 노골적 막말”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">인천투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LVG5maFhKMUFWUGpMSXJqT0tJa0ROM0RKVV8tWFprWExhZERwY21mYjN6c1JLRE1DU0FBeXZUdnRqRlJzRWFqd2hqMjBhOFlJTE80VFQzbk41SFBwMjJoTFc1M0w5WmZhOV96cE9Vams?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 02:15:12 GMT",
-        "source": "인천투데이",
-        "ageHours": 5.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "40f78f580237eae317a6a61b3ef65beeb2a4fb38c65e0c78d7240755ce6e3554",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라” - 세계일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WUTNaVjJUd1NOaEJvZHgtWkZ4UnlNMFVnT3RVVDNEMUFvaHFYdGRva2xrazNWdWNnV3JIOTctbFBwbTVON3NvaWM1WmppRFBw?oc=5\" target=\"_blank\">송영길 “李, 鄭 억울함 청취” 정청래 “분수 알아라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WUTNaVjJUd1NOaEJvZHgtWkZ4UnlNMFVnT3RVVDNEMUFvaHFYdGRva2xrazNWdWNnV3JIOTctbFBwbTVON3NvaWM1WmppRFBw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 21:00:00 GMT",
-        "source": "세계일보",
-        "ageHours": 10.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5143a46567b1f3029e64b89f02111a2c78c0bdeaa56ab81c5c84cdfe9eecdb4b",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "국회를 카지노로 '착각'하는 한동훈 #shorts - 오마이TV - OhmyNews",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9HenBhSzVpU0RDdDNnSkVvTXhYNjFIN3NiM2pNMXZtb3FFdEtEaHBJVERLam1NY05RV3hFN2pDTjdtaTc2RzlIQXJtTE9zQlYtN1BmZGhVcm1yODRSX2RuQ1Z6S1lCTFAxRHNFNGtfWFg1N0YtOXh4eW85dG9ycWs?oc=5\" target=\"_blank\">국회를 카지노로 '착각'하는 한동훈 #shorts - 오마이TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OhmyNews</font>",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HenBhSzVpU0RDdDNnSkVvTXhYNjFIN3NiM2pNMXZtb3FFdEtEaHBJVERLam1NY05RV3hFN2pDTjdtaTc2RzlIQXJtTE9zQlYtN1BmZGhVcm1yODRSX2RuQ1Z6S1lCTFAxRHNFNGtfWFg1N0YtOXh4eW85dG9ycWs?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 06:34:57 GMT",
-        "source": "OhmyNews",
-        "ageHours": 1.4
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "42689d0d434d88c1520a4030851949e028d10e54a0caadd129bc924bdcd16c1b",
@@ -2629,13 +2581,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "883565fa0017571b6d66d72147a34d580a84675ceb2282cab5a7d8d5da7afa07",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "국민의힘, 오는 30일 의원총회 개최…‘한동훈 조작징계’ 의혹 파장 - 시사저널",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1Bc0RLRXlOS2F0eF9Idmxyd0RPUkxtZVdkbE9FQWRoTDRTSERGS01UTjFPQ2NrNFVwdk5GMm4teUlNSnVhanNyVFdhOVhVN0s0c2o4OUJBeFVJVUZLQkQybUhkTTQwdkttMzdKTkNuTdIBc0FVX3lxTE85eW1Ec0pfcS1SSVRmcHJ4NjAzbHBCRko1bU1wcUVlUFlQcVk5Y2pUSkVMTUlzeEhFU2ZmcF92TDdvcV9lVkZ3QTI5OGd3X2k3WFVjMlFpN0J2Y1NkTGFUOFdrUEdEMlZXWHpRV3pWTmdUcVk?oc=5\" target=\"_blank\">국민의힘, 오는 30일 의원총회 개최…‘한동훈 조작징계’ 의혹 파장</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Bc0RLRXlOS2F0eF9Idmxyd0RPUkxtZVdkbE9FQWRoTDRTSERGS01UTjFPQ2NrNFVwdk5GMm4teUlNSnVhanNyVFdhOVhVN0s0c2o4OUJBeFVJVUZLQkQybUhkTTQwdkttMzdKTkNuTdIBc0FVX3lxTE85eW1Ec0pfcS1SSVRmcHJ4NjAzbHBCRko1bU1wcUVlUFlQcVk5Y2pUSkVMTUlzeEhFU2ZmcF92TDdvcV9lVkZ3QTI5OGd3X2k3WFVjMlFpN0J2Y1NkTGFUOFdrUEdEMlZXWHpRV3pWTmdUcVk?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 07:58:54 GMT",
+        "source": "시사저널",
+        "ageHours": 0.4
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "5ea9b9856420c6b27cc6ff4e69314187a23196c0ca34890060960eb3aa719022",
-    "title": "정청래 “李대통령 외교 ‘월드클래스’…내란의밤 사선 넘은 전우” - 헤럴드경제",
+    "postId": "5143a46567b1f3029e64b89f02111a2c78c0bdeaa56ab81c5c84cdfe9eecdb4b",
+    "title": "국회를 카지노로 '착각'하는 한동훈 #shorts - 오마이TV - OhmyNews",
     "bot": "jongsuk_pol_bot",
-    "runId": "45781011499",
-    "sentAt": "2026-11-26T08:11:22.251Z"
+    "runId": "45782407754",
+    "sentAt": "2026-11-26T08:21:20.161Z"
   }
 }
