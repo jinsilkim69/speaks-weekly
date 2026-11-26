@@ -11246,3 +11246,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 박지원 "한동훈 나가면 국힘서 박수 칠 것…직 걸 데다 걸라" - 파이낸셜뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박지원 "한동훈 나가면 국힘서 박수 칠 것…직 걸 데다 걸라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtQ21vQndqcDdZNkMzQlhrQTVzdE9RUUFGMG93MTRGUHpJajYyVmtReDlYcDF3a2h3MEtreFNONGtZNEk1M3lCNFNkSUhyUTFqc1dvb0c3TVBZdw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “아파트 차익 25억 李대통령, 국민 내집마련은 고깝나” - 문화일보
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “아파트 차익 25억 李대통령, 국민 내집마련은 고깝나”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4enA4NWtiOVdCOGtYSmtMMUtTSzFTY0dzMmFTQkgwMHdiemcyY1dZTy1nWUpTbGJ6TzBBYzE0ckRXbUcyTmpVTmF4SDBmRGV3?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 개혁신당 이준석, 개정 형사소송법에 "검사 보완수사권 제한이 가장 큰 문제" - 한국사회복지저널
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 개혁신당 이준석, 개정 형사소송법에 "검사 보완수사권 제한이 가장 큰 문제"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTFBLajBJdjF3TnpnMTdHb1VydnVLMnNRYWFKQlB2bkpNNUZYWW1NV2h3OGxaejlXeWZ1NC1hZHY2R0JYMVJnZC1nMDF1bkoxQzRfb1BobWg3N2VxbFJlYUFVV19IWEVvTkxaRHdJ?oc=5)
+
+---
+
