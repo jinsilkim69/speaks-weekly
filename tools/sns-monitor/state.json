@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T18:41:13.055Z",
+  "lastCheckedAt": "2026-11-26T18:51:13.767Z",
   "seenPostIds": {
     "c860bb762b279dab991a31dd9423b5f60495d77676af2edaae08bd33df84254a": {
       "seenAt": "2026-11-24T08:51:18.177Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-26T18:31:15.407Z",
       "title": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government - Reuters",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "135723a68418731910d2706e0ae8cec0ca651a25b62b7c32aab83b8fa8e2b9b6": {
+      "seenAt": "2026-11-26T18:51:14.943Z",
+      "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation - Al Jazeera",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "16667898f6b62f07f7c870ce31d3239dce35046275b776c6bec2e8b9b6f33f26",
-    "title": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government - Reuters",
+    "postId": "135723a68418731910d2706e0ae8cec0ca651a25b62b7c32aab83b8fa8e2b9b6",
+    "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation - Al Jazeera",
     "bot": "jongsuk_pol_bot",
-    "runId": "45876546487",
-    "sentAt": "2026-11-26T18:31:14.786Z"
+    "runId": "45879153047",
+    "sentAt": "2026-11-26T18:51:14.381Z"
   }
 }

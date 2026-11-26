@@ -11090,3 +11090,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump calls GDP data released before midterms ‘fake’, demands investigation - Al Jazeera
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump calls GDP data released before midterms ‘fake’, demands investigation
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVlQQ0tIcmRsR1NUUmkzLUhuMTloMVd4RzhySHZUaHJ4TzlPS005UHJFOTRYLWpoM3NZOTB5OG5VdEpXVW1NMlZ5MjJHY1dDZjBVdEVqLWliR1MybHhaLU1TVVFBcU5rUm82SUtSQUhBZTJLMk8zai01ek9ld3V2amR4U1dvZEhrd3dFX1l5NTVoZ2lldDAzMU9sdEhsUGNxRk9ZbWVDbEN3azVmNm5waVVUV2dGRjJw0gG-AUFVX3lxTE0wb1ZncmdKc0pZR1VVTUJlcTloUW1BbTlYT0FOMEN6bkR3VU1iZ2FGQVBPTXVHYU84bk9VZlp5UVI3Z19jejZaUTN3TGZyMVBRX1NRcnphc1lydWpQN3M1ck5vS2QzamhVWkxoRno3M1ZPRmQ1aVFyUlRJNFV4bmVEZmQtcXV2cXkwVm1UWjQzeThMeVBxN1QtR3c2SF9SSVlVanF5Vlg1UUN3VjFoT0xsbi1fODZfN3JVSjQ1N0E?oc=5)
+
+---
+
