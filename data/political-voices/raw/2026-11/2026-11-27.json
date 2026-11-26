@@ -423,5 +423,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "bc25d86de738745e19ce05fa938de2cfe51c0cad2a84cd8c0b42fa0b030c5a40",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "칼 뽑은 정청래, 김민석 향해 '사과의 3원칙' 제시 - 굿모닝충청",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9aT2FHdUdrNjN6N3pTTE5ORlgyVjh5OTN3cjlzT0prZWlNLVRvUlpLdEprdzBhUDFCOEpRUWxhUFAzcHdUNmM2aVUtODU5aGRYbl9YYXc3M1dYcFQzWVZLdFU3WTYyY0ZweVJDaC1OSExuQQ?oc=5\" target=\"_blank\">칼 뽑은 정청래, 김민석 향해 '사과의 3원칙' 제시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">굿모닝충청</font>",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aT2FHdUdrNjN6N3pTTE5ORlgyVjh5OTN3cjlzT0prZWlNLVRvUlpLdEprdzBhUDFCOEpRUWxhUFAzcHdUNmM2aVUtODU5aGRYbl9YYXc3M1dYcFQzWVZLdFU3WTYyY0ZweVJDaC1OSExuQQ?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 16:52:51 GMT",
+    "source": "굿모닝충청",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 칼 뽑은 정청래, 김민석 향해 '사과의 3원칙' 제시",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "d0d0197c34b33031641f9db93afe5a40403dabb3d5886517a5cf82af7d45214c",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "칼 뽑은 정청래, 김민석 향해 '사과의 3원칙' 제시 - 굿모닝충청",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9aT2FHdUdrNjN6N3pTTE5ORlgyVjh5OTN3cjlzT0prZWlNLVRvUlpLdEprdzBhUDFCOEpRUWxhUFAzcHdUNmM2aVUtODU5aGRYbl9YYXc3M1dYcFQzWVZLdFU3WTYyY0ZweVJDaC1OSExuQQ?oc=5\" target=\"_blank\">칼 뽑은 정청래, 김민석 향해 '사과의 3원칙' 제시</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">굿모닝충청</font>",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aT2FHdUdrNjN6N3pTTE5ORlgyVjh5OTN3cjlzT0prZWlNLVRvUlpLdEprdzBhUDFCOEpRUWxhUFAzcHdUNmM2aVUtODU5aGRYbl9YYXc3M1dYcFQzWVZLdFU3WTYyY0ZweVJDaC1OSExuQQ?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 16:52:51 GMT",
+    "source": "굿모닝충청",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 칼 뽑은 정청래, 김민석 향해 '사과의 3원칙' 제시",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "2c73d365e73e3e6527e60164cd32b9b1793f4e948fc1f1b046423df7475e27c1",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump says he urged Putin to 'pull back' military aggression in Europe - DW.com",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVVscU9NZEpkNlNpamxDSjVUVWJ2eUV4WG9HZXJtcWh2VmxpWE5rNC1OR09kR2piX2g4SVlXWjg3WS1zZGNxZlZmTm9lUUZIOVRZWVZ4QjZQTXUwU0VXLWtZUUhjZU5jUG9MaGJaSUI1b0diRVdYUHVjTFlxaWdqYmZQWmh5QVAtcmxJYmg3OHlzeWRDcnZ1ZFRaWHRFamx5dUZV0gGjAUFVX3lxTE5kSl9EYUNTdGNPVVh2NkZYYzBHV2E5MDlYX2tBRXNpWjdraTZ1QTJXMjdBYUNQcHVtSTdUZHhFVXl1ZWVxMHZNLVptUnF0c1QxQVVrWjV4X2lrTnBiXzI1cHVXQmVHaTV4MW1zaEl5UnNraFJmdTlMU0d1c3YycUllSlVYRzJjNi1mTk12MXBoSFBGT3B4MkJpRnowcThpMlB2NVU?oc=5\" target=\"_blank\">Trump says he urged Putin to 'pull back' military aggression in Europe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVVscU9NZEpkNlNpamxDSjVUVWJ2eUV4WG9HZXJtcWh2VmxpWE5rNC1OR09kR2piX2g4SVlXWjg3WS1zZGNxZlZmTm9lUUZIOVRZWVZ4QjZQTXUwU0VXLWtZUUhjZU5jUG9MaGJaSUI1b0diRVdYUHVjTFlxaWdqYmZQWmh5QVAtcmxJYmg3OHlzeWRDcnZ1ZFRaWHRFamx5dUZV0gGjAUFVX3lxTE5kSl9EYUNTdGNPVVh2NkZYYzBHV2E5MDlYX2tBRXNpWjdraTZ1QTJXMjdBYUNQcHVtSTdUZHhFVXl1ZWVxMHZNLVptUnF0c1QxQVVrWjV4X2lrTnBiXzI1cHVXQmVHaTV4MW1zaEl5UnNraFJmdTlMU0d1c3YycUllSlVYRzJjNi1mTk12MXBoSFBGT3B4MkJpRnowcThpMlB2NVU?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 16:57:49 GMT",
+    "source": "DW.com",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump says he urged Putin to 'pull back' military aggression in Europe",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

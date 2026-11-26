@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T17:01:16.154Z",
+  "lastCheckedAt": "2026-11-26T17:11:25.937Z",
   "seenPostIds": {
-    "a056b078ed6e2662ed21bb34efcfaf1eb0f529e236bb1ee686473d90bfc14baa": {
-      "seenAt": "2026-11-24T08:11:24.282Z",
-      "title": "조국 입국 거부, 법대로라지만…日 심사 기준 따져보니 - 쿠키뉴스",
-      "targetName": "조국"
-    },
-    "218c362ddebfe7af186784b0f8481a880c73896e6573686391894d53ba5b995c": {
-      "seenAt": "2026-11-24T08:21:16.059Z",
-      "title": "\"尹 사형 구형일 맞춰 한동훈을 제물로” [앵커리포트] - YTN",
-      "targetName": "한동훈"
-    },
     "0532dbc9e6f493204167ebf831d135ef9037f73ebb5ff7d7c8d5794765f41de3": {
       "seenAt": "2026-11-24T08:21:16.860Z",
       "title": "“한동훈 제명은 조작 징계”…친한계, 장동혁 사퇴 압박 - 경기일보",
@@ -2510,14 +2500,29 @@
       "seenAt": "2026-11-26T17:01:18.905Z",
       "title": "Trump says he'd like to see Putin 'pull back' military aggression in Europe - Reuters",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "bc25d86de738745e19ce05fa938de2cfe51c0cad2a84cd8c0b42fa0b030c5a40": {
+      "seenAt": "2026-11-26T17:11:28.018Z",
+      "title": "칼 뽑은 정청래, 김민석 향해 '사과의 3원칙' 제시 - 굿모닝충청",
+      "targetName": "김민석"
+    },
+    "d0d0197c34b33031641f9db93afe5a40403dabb3d5886517a5cf82af7d45214c": {
+      "seenAt": "2026-11-26T17:11:28.779Z",
+      "title": "칼 뽑은 정청래, 김민석 향해 '사과의 3원칙' 제시 - 굿모닝충청",
+      "targetName": "정청래"
+    },
+    "2c73d365e73e3e6527e60164cd32b9b1793f4e948fc1f1b046423df7475e27c1": {
+      "seenAt": "2026-11-26T17:11:29.561Z",
+      "title": "Trump says he urged Putin to 'pull back' military aggression in Europe - DW.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "aed57e5977ab1c654617e4918665bffbf45596a8391018aac3310da9b976eb23",
-    "title": "Trump says he'd like to see Putin 'pull back' military aggression in Europe - Reuters",
+    "postId": "2c73d365e73e3e6527e60164cd32b9b1793f4e948fc1f1b046423df7475e27c1",
+    "title": "Trump says he urged Putin to 'pull back' military aggression in Europe - DW.com",
     "bot": "jongsuk_pol_bot",
-    "runId": "45863998743",
-    "sentAt": "2026-11-26T17:01:18.592Z"
+    "runId": "45865505155",
+    "sentAt": "2026-11-26T17:11:29.168Z"
   }
 }

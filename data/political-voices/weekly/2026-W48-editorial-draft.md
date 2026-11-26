@@ -11012,3 +11012,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 칼 뽑은 정청래, 김민석 향해 '사과의 3원칙' 제시 - 굿모닝충청
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 칼 뽑은 정청래, 김민석 향해 '사과의 3원칙' 제시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE9aT2FHdUdrNjN6N3pTTE5ORlgyVjh5OTN3cjlzT0prZWlNLVRvUlpLdEprdzBhUDFCOEpRUWxhUFAzcHdUNmM2aVUtODU5aGRYbl9YYXc3M1dYcFQzWVZLdFU3WTYyY0ZweVJDaC1OSExuQQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 칼 뽑은 정청래, 김민석 향해 '사과의 3원칙' 제시 - 굿모닝충청
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 칼 뽑은 정청래, 김민석 향해 '사과의 3원칙' 제시
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE9aT2FHdUdrNjN6N3pTTE5ORlgyVjh5OTN3cjlzT0prZWlNLVRvUlpLdEprdzBhUDFCOEpRUWxhUFAzcHdUNmM2aVUtODU5aGRYbl9YYXc3M1dYcFQzWVZLdFU3WTYyY0ZweVJDaC1OSExuQQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says he urged Putin to 'pull back' military aggression in Europe - DW.com
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says he urged Putin to 'pull back' military aggression in Europe
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVVscU9NZEpkNlNpamxDSjVUVWJ2eUV4WG9HZXJtcWh2VmxpWE5rNC1OR09kR2piX2g4SVlXWjg3WS1zZGNxZlZmTm9lUUZIOVRZWVZ4QjZQTXUwU0VXLWtZUUhjZU5jUG9MaGJaSUI1b0diRVdYUHVjTFlxaWdqYmZQWmh5QVAtcmxJYmg3OHlzeWRDcnZ1ZFRaWHRFamx5dUZV0gGjAUFVX3lxTE5kSl9EYUNTdGNPVVh2NkZYYzBHV2E5MDlYX2tBRXNpWjdraTZ1QTJXMjdBYUNQcHVtSTdUZHhFVXl1ZWVxMHZNLVptUnF0c1QxQVVrWjV4X2lrTnBiXzI1cHVXQmVHaTV4MW1zaEl5UnNraFJmdTlMU0d1c3YycUllSlVYRzJjNi1mTk12MXBoSFBGT3B4MkJpRnowcThpMlB2NVU?oc=5)
+
+---
+
