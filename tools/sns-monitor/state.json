@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T09:31:15.116Z",
+  "lastCheckedAt": "2026-11-26T09:41:15.724Z",
   "seenPostIds": {
-    "e5c9b778cc182775a5473b1318429471729797ddc2347532e50ab40802ce0e8b": {
-      "seenAt": "2026-11-24T03:31:16.652Z",
-      "title": "'조작징계' 폭로 후폭풍... 한동훈 \"기획 숙청\", 중진들도 \"장동혁 사퇴\" - OhmyNews",
-      "targetName": "한동훈"
-    },
-    "8fd73cb7a470bda4228df384f9b69a6f77942a8b2ac035af69019d756812959c": {
-      "seenAt": "2026-11-24T03:31:17.401Z",
-      "title": "공수처, '한동훈 딸 수사 무마 의혹' 경찰 이첩 건 수사4부 배당 - 데일리안",
-      "targetName": "한동훈"
-    },
-    "7d76583eed639e287c5729d0620c718dc362a9505a8a6a95d8f6245741593ed5": {
-      "seenAt": "2026-11-24T03:41:16.228Z",
-      "title": "이준석 \"강금실 국정원장? 뭔 뜬금포…전문성 빼고 해명거리 더한 인사\" - 뉴스1",
-      "targetName": "이준석"
-    },
     "2abb1fbb2b7bd5905f0c06daa9cac62b074224329838ef5fbdbe7aab3b8dcd24": {
       "seenAt": "2026-11-24T03:41:16.829Z",
       "title": "이준석 “강금실 국정원장 지명 뜬금포…워싱턴이 믿을 사람인가” - 서울신문",
@@ -2515,14 +2500,19 @@
       "seenAt": "2026-11-26T09:31:18.270Z",
       "title": "Sleepless Trump, 80, Unravels in Seething Thanksgiving Tirade About NYT Reporter David E. Sanger - The Daily Beast",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "0d663af037905c408a567d98ed1abf812110f625d6d22a610a46876e0ac14aea": {
+      "seenAt": "2026-11-26T09:41:17.050Z",
+      "title": "장동혁은 계엄사과 NO, 한동훈은 복당 발판…‘曺 탄핵 활용법’ - 중앙일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "a165db3265f0bc4de5226b082c51056a9c214b5faef299ed564c6b4dbce23a96",
-    "title": "Sleepless Trump, 80, Unravels in Seething Thanksgiving Tirade About NYT Reporter David E. Sanger - The Daily Beast",
+    "postId": "0d663af037905c408a567d98ed1abf812110f625d6d22a610a46876e0ac14aea",
+    "title": "장동혁은 계엄사과 NO, 한동훈은 복당 발판…‘曺 탄핵 활용법’ - 중앙일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45792684543",
-    "sentAt": "2026-11-26T09:31:17.877Z"
+    "runId": "45794236993",
+    "sentAt": "2026-11-26T09:41:16.411Z"
   }
 }
