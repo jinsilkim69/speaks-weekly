@@ -4225,5 +4225,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "ccc394f93c4871005c366c4e7ad15ca8aa5b209bf1114232ea3dec0ba2b75801",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Blames Voters for Stock Market Tanking - Yahoo Finance",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPT2RpRFhVc1F3ZUhLMnNSczVnWEVZaTYtUVRtNGdESE9wemNoRVlpbnpMYzlRSE1PY3N4c2FNbElfQ0d6dHkxZXpKZVRVdGhuNDBOTG1qTW92MkVOdWZwLW11ems3c0xWUkZzRGVXdEQyMzhVVmpzUFVVZEZVaW0wbGM1TkpZX0tib2YyWVMyNjduMExfQ1kxUFlDYTE3Zw?oc=5\" target=\"_blank\">Trump Blames Voters for Stock Market Tanking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT2RpRFhVc1F3ZUhLMnNSczVnWEVZaTYtUVRtNGdESE9wemNoRVlpbnpMYzlRSE1PY3N4c2FNbElfQ0d6dHkxZXpKZVRVdGhuNDBOTG1qTW92MkVOdWZwLW11ems3c0xWUkZzRGVXdEQyMzhVVmpzUFVVZEZVaW0wbGM1TkpZX0tib2YyWVMyNjduMExfQ1kxUFlDYTE3Zw?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 19:12:06 GMT",
+    "source": "Yahoo Finance",
+    "ageHours": 16.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Blames Voters for Stock Market Tanking",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T11:21:15.380Z",
+  "lastCheckedAt": "2026-11-26T11:31:17.037Z",
   "seenPostIds": {
-    "afb5ba6ea2f02a2a3ee575cfc227ca966eda91da85c0feb72f30b6779c2ef0ce": {
-      "seenAt": "2026-11-24T04:11:17.431Z",
-      "title": "이준석, 강금실 국정원장 지명 “뭔 뜬금포?”… 중국 지방정부 특별고문 경력 부각 - 천지일보",
-      "targetName": "이준석"
-    },
     "85528f1ccdcc560db2284bf02521bbb502403c359c423dacc27b0b8eccb999e7": {
       "seenAt": "2026-11-24T04:21:14.679Z",
       "title": "조국혁신당 \"조희대 탄핵 더 미룰 수 없어…與와 오늘 만남 예상\" - 뉴시스",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-26T11:21:16.526Z",
       "title": "정청래 \"허위사실 몽둥이로 많이 맞았다\"…중진 회동 겨냥 작심 비판 - 뉴스토마토",
       "targetName": "정청래"
+    },
+    "ccc394f93c4871005c366c4e7ad15ca8aa5b209bf1114232ea3dec0ba2b75801": {
+      "seenAt": "2026-11-26T11:31:18.632Z",
+      "title": "Trump Blames Voters for Stock Market Tanking - Yahoo Finance",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "9dfdb17971b51ee815e694fecbd1dedb7eeceab36e76da8c35c26ef9a91a9a1c",
-    "title": "정청래 \"허위사실 몽둥이로 많이 맞았다\"…중진 회동 겨냥 작심 비판 - 뉴스토마토",
+    "postId": "ccc394f93c4871005c366c4e7ad15ca8aa5b209bf1114232ea3dec0ba2b75801",
+    "title": "Trump Blames Voters for Stock Market Tanking - Yahoo Finance",
     "bot": "jongsuk_pol_bot",
-    "runId": "45809777984",
-    "sentAt": "2026-11-26T11:21:15.976Z"
+    "runId": "45811287836",
+    "sentAt": "2026-11-26T11:31:17.892Z"
   }
 }
