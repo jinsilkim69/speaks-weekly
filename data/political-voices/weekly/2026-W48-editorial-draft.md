@@ -8594,3 +8594,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "오세훈, 서울시정 대권준비 징검다리로 활용…깊이 자성해야" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "오세훈, 서울시정 대권준비 징검다리로 활용…깊이 자성해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMif0FVX3lxTE5Od3V2UF9zUHVJSTFRYUhQRFB0VXlfY3QxblQ3QS13NGJqWU9nVnhkcXNVOS1ZSThYN2pDWXoxd1RWcHlOdkZUd0dlMFBUOXg4WTlJSDFOeGtlZ2RfUjhRM3lSTmtUOG8wUl9QcTBadW5BS2FxT0R2WWZLbzFRU1XSAX9BVV95cUxOTnd1dlBfc1B1SUkxUWFIUERQdFV5X2N0MW5UN0EtdzRiallPZ1Z4ZHFzVTktWUk4WDdqQ1l6MXdUVnB5TnZGVHdHZTBQVDl4OFk5SUgxTnhrZWdkX1I4UTN5Uk5rVDhvMFJfUHEwWnVuQUthcU9EdllmS28xUVNV?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 100일 맞춰든 '깃발'…"모든 당원은 징계앞에 평등" - 폴리뉴스 Polinews
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 100일 맞춰든 '깃발'…"모든 당원은 징계앞에 평등"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBwTXdpbjRDSWVEV25PT3hDUXNSdDZUUEZHOVlrSDU2eWZTOUNzellQbVd4d3ZLTURfUHZoUGhsWXliUHlFdVZ1RzVQbHprN3h1ODcxVkNxVXJGTnJmeFl5SVpESDFMbG00dnRiREl3?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석 vs 정청래 중재하려다…"송영길, 입이 싸다" - SBS 뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 vs 정청래 중재하려다…"송영길, 입이 싸다"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9wd0x1MktFZ3k5djRuTThqVDZxbHNWRjY2bktiQVR4WlZIblpVUU9fYkhjVWxfeHVNVUZoUk5pTnh0elZ3aWtpOHhpalVfMUZvR0FPTVc5dlVDNWdCMElSd2plM2Z6Qml2dGfSAWZBVV95cUxNY0JkdDNFTmh1MXVjb2tNY0t4TWxyV3F0b3gwa1hhQm5sQjY1Sm5lQzVQdmVkSWpWMU84OTk0WVkzZk5jV2lQeURnOVR6NHo5SndRRTQ1LWcweUx6TXZfMm00NTl5N1E?oc=5)
+
+---
+
