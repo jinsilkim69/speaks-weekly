@@ -10817,3 +10817,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참 - 뉴시스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與중진 의원들 만찬 회동…'반·분·신' 갈등 김민석·정청래는 불참
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mYkk3SmMwZmxaVHM0T3h5aGo0M3lkeWZ2bTR6c3RyNi12SVNFdlNZOEVKSmpRbHpGNUJKdmFLTWFwbXMxanBKTUZVUlJiZTg2OWU3Z1Rrc2NRWWFKenlLN9IBeEFVX3lxTE9SaE1WRjdROTFEZ1ZBU3R0c3lleHJoVUJuR2tfek5XSXlyV0ZkUHA0LXhKLTBHT0RJdGE2eHAzcHZnQ3NTanVvcVRHOVBLall3aGxCXy1FNUctdktxTGhTUXZqcUtMR0VCZTZaV2xwOGxmVElPUDRKNQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與 중진 만찬 "단합해 민생 전념"…김민석·정청래 불참에 회동 불발 - 노컷뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 중진 만찬 "단합해 민생 전념"…김민석·정청래 불참에 회동 불발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE05WUNTeVRScGRSUzBnWGpWYnd4eDFhZXRpa2VyWjhBV0pzTWlYMEZrWGt5Qjg2OXdSVElXM3d6RWdqclNMVEJvWXVRdzBST3BmM0E?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** “한동훈, 명태균 때 오세훈·이준석에 칼 꽂으려···‘뭐 어쩌라’는 표정 더 한 맺혀” - 주간경향
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “한동훈, 명태균 때 오세훈·이준석에 칼 꽂으려···‘뭐 어쩌라’는 표정 더 한 맺혀”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uZEZNX3luU2lSWkQxa1JnTGFmV3UzVlpQMWttUVNzeFdJalZDTWlxTVVQR01JM1pWVnFkQklxR0NTSDVmXy14QW1ZZ2pocTROQmZBeTFJSlNPbkZISVE?oc=5)
+
+---
+
