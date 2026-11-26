@@ -1585,5 +1585,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "0c6f39c5715e078fb51276a1b749d57fae7e4cf93d02f7de7f042b8d356a5ac9",
+    "targetId": "song_younggil",
+    "targetName": "송영길",
+    "targetTitle": "소나무당 대표",
+    "title": "“입 싼 송영길” 깊어지는 갈등의 골…與 중진들 오늘 내홍 수습 나선다 - 서울경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mMzdJUllQX2VOdG0yMDBwaTVfLVFBWHdHZFV4dVVsQmw1eFk3UDN2VWt0T08zQkZKMFdYajlBcHZuak1uVEF2T1NVN1FwdnVOTnfSAVNBVV95cUxPWFNCMXZobUJjZVc5aU5oaHlQdk1iSlN4czB6WksySmp1RnkwTGpQV2l2d2tLNE1SV0NzQnBIRXAzUjc1TzNtc19VNUlQZjdQc05Raw?oc=5\" target=\"_blank\">“입 싼 송영길” 깊어지는 갈등의 골…與 중진들 오늘 내홍 수습 나선다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mMzdJUllQX2VOdG0yMDBwaTVfLVFBWHdHZFV4dVVsQmw1eFk3UDN2VWt0T08zQkZKMFdYajlBcHZuak1uVEF2T1NVN1FwdnVOTnfSAVNBVV95cUxPWFNCMXZobUJjZVc5aU5oaHlQdk1iSlN4czB6WksySmp1RnkwTGpQV2l2d2tLNE1SV0NzQnBIRXAzUjc1TzNtc19VNUlQZjdQc05Raw?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 22:00:00 GMT",
+    "source": "서울경제",
+    "ageHours": 4.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “입 싼 송영길” 깊어지는 갈등의 골…與 중진들 오늘 내홍 수습 나선다",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "송영길",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "ccb098e222600e7a49b1dd0f03efe6a36c9c59bfde36f88b750cdafc5d3d3e15",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "민주당·조국혁신당, 오늘 오후 조작기소 특검 후보 각각 발표 - 이데일리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPblY5NFhVeFlvOXllUTZnQnpBbmxSUXZYRGVEeUE0SkNscjJ6M0pnd2M3bVFLZ183QkZxYjhsZHMzMWtvTDhwTW1yemcwVUNJajJCVnd3cENrWnhFMHByelFSYm1YUWhEMGUyUTNmYjduWllDNno5Tjd0emJaOGRPcA?oc=5\" target=\"_blank\">민주당·조국혁신당, 오늘 오후 조작기소 특검 후보 각각 발표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPblY5NFhVeFlvOXllUTZnQnpBbmxSUXZYRGVEeUE0SkNscjJ6M0pnd2M3bVFLZ183QkZxYjhsZHMzMWtvTDhwTW1yemcwVUNJajJCVnd3cENrWnhFMHByelFSYm1YUWhEMGUyUTNmYjduWllDNno5Tjd0emJaOGRPcA?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 02:26:31 GMT",
+    "source": "이데일리",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당·조국혁신당, 오늘 오후 조작기소 특검 후보 각각 발표",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "9ae9d65187671e4e4801906d5ff610c114133dac471e6f20fc1b12161454f76d",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "김용민, 한동훈 직격 \"의원직 판돈 걸듯 가벼운 태도\" - 조세일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBHazRndWZEM2RhQUU2YUdvTHlXMDg5amozOG1JaGR1YjhyeE1PWk5saHRRTS12M3hhVUM2NUx5VU9GNGtlX2ZzZEw4VEpxTjlOdjV2dEF2NzNldVlqYUVhNEdwMGxZWTRXblE?oc=5\" target=\"_blank\">김용민, 한동훈 직격 \"의원직 판돈 걸듯 가벼운 태도\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHazRndWZEM2RhQUU2YUdvTHlXMDg5amozOG1JaGR1YjhyeE1PWk5saHRRTS12M3hhVUM2NUx5VU9GNGtlX2ZzZEw4VEpxTjlOdjV2dEF2NzNldVlqYUVhNEdwMGxZWTRXblE?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 01:39:39 GMT",
+    "source": "조세일보",
+    "ageHours": 1.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김용민, 한동훈 직격 \"의원직 판돈 걸듯 가벼운 태도\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

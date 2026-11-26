@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T02:51:15.881Z",
+  "lastCheckedAt": "2026-11-26T03:01:14.620Z",
   "seenPostIds": {
-    "434e270b29c06119379319ca186b8142a1059bced1bcf71ab9d3a6c8847c45f4": {
-      "seenAt": "2026-11-23T13:31:16.332Z",
-      "title": "오세훈 \"대통령의 시간을 '피고인 이재명'에게 쓰지 마시라\" - 대전일보",
-      "targetName": "이재명"
-    },
-    "32cec0088bcf0bbce7bc0c4a60750988818c9d347fda159579ca22d1a1ce8a47": {
-      "seenAt": "2026-11-23T13:31:16.994Z",
-      "title": "한동훈 “제명 날짜·시점·내용 사전조율 드러나···장동혁 책임져야” - 주간경향",
-      "targetName": "한동훈"
-    },
-    "b8aeed3fd2642839849e078a094194792e66a11f6e5e25763d4d1a971852cce2": {
-      "seenAt": "2026-11-23T13:31:17.752Z",
-      "title": "\"尹 구형맞춰 한동훈 제물로\"…'기획 숙청' 의혹 추가 폭로 - 한국경제",
-      "targetName": "한동훈"
-    },
     "9b9dcdbd1dd5ee156c3a81d999b7b998f8409318e4a3d03d7e4e794208201470": {
       "seenAt": "2026-11-23T13:41:16.623Z",
       "title": "김민석 취임 100일상에 찬물 끼얹은 신천지 논란 - 파이낸셜뉴스",
@@ -2515,36 +2500,35 @@
       "seenAt": "2026-11-26T02:51:18.815Z",
       "title": "정청래 '입' 지적한 정성호 \"볼 때마다 큰 정치하라 말하고 있다\" - OhmyNews",
       "targetName": "정청래"
+    },
+    "0c6f39c5715e078fb51276a1b749d57fae7e4cf93d02f7de7f042b8d356a5ac9": {
+      "seenAt": "2026-11-26T03:01:15.688Z",
+      "title": "“입 싼 송영길” 깊어지는 갈등의 골…與 중진들 오늘 내홍 수습 나선다 - 서울경제",
+      "targetName": "송영길"
+    },
+    "ccb098e222600e7a49b1dd0f03efe6a36c9c59bfde36f88b750cdafc5d3d3e15": {
+      "seenAt": "2026-11-26T03:01:16.294Z",
+      "title": "민주당·조국혁신당, 오늘 오후 조작기소 특검 후보 각각 발표 - 이데일리",
+      "targetName": "조국"
+    },
+    "9ae9d65187671e4e4801906d5ff610c114133dac471e6f20fc1b12161454f76d": {
+      "seenAt": "2026-11-26T03:01:16.907Z",
+      "title": "김용민, 한동훈 직격 \"의원직 판돈 걸듯 가벼운 태도\" - 조세일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "0c6f39c5715e078fb51276a1b749d57fae7e4cf93d02f7de7f042b8d356a5ac9",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "“입 싼 송영길” 깊어지는 갈등의 골…與 중진들 오늘 내홍 수습 나선다 - 서울경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mMzdJUllQX2VOdG0yMDBwaTVfLVFBWHdHZFV4dVVsQmw1eFk3UDN2VWt0T08zQkZKMFdYajlBcHZuak1uVEF2T1NVN1FwdnVOTnfSAVNBVV95cUxPWFNCMXZobUJjZVc5aU5oaHlQdk1iSlN4czB6WksySmp1RnkwTGpQV2l2d2tLNE1SV0NzQnBIRXAzUjc1TzNtc19VNUlQZjdQc05Raw?oc=5\" target=\"_blank\">“입 싼 송영길” 깊어지는 갈등의 골…與 중진들 오늘 내홍 수습 나선다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mMzdJUllQX2VOdG0yMDBwaTVfLVFBWHdHZFV4dVVsQmw1eFk3UDN2VWt0T08zQkZKMFdYajlBcHZuak1uVEF2T1NVN1FwdnVOTnfSAVNBVV95cUxPWFNCMXZobUJjZVc5aU5oaHlQdk1iSlN4czB6WksySmp1RnkwTGpQV2l2d2tLNE1SV0NzQnBIRXAzUjc1TzNtc19VNUlQZjdQc05Raw?oc=5",
-        "pubDate": "Wed, 25 Nov 2026 22:00:00 GMT",
-        "source": "서울경제",
-        "ageHours": 4.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ccb098e222600e7a49b1dd0f03efe6a36c9c59bfde36f88b750cdafc5d3d3e15",
+        "id": "f057e52ea7cd7a7c974c76d666543c36db7970cc8880f7a4f61ff432031fd7b8",
         "targetId": "cho_kuk",
         "targetName": "조국",
         "targetTitle": "조국혁신당 대표",
-        "title": "민주당·조국혁신당, 오늘 오후 조작기소 특검 후보 각각 발표 - 이데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPblY5NFhVeFlvOXllUTZnQnpBbmxSUXZYRGVEeUE0SkNscjJ6M0pnd2M3bVFLZ183QkZxYjhsZHMzMWtvTDhwTW1yemcwVUNJajJCVnd3cENrWnhFMHByelFSYm1YUWhEMGUyUTNmYjduWllDNno5Tjd0emJaOGRPcA?oc=5\" target=\"_blank\">민주당·조국혁신당, 오늘 오후 조작기소 특검 후보 각각 발표</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPblY5NFhVeFlvOXllUTZnQnpBbmxSUXZYRGVEeUE0SkNscjJ6M0pnd2M3bVFLZ183QkZxYjhsZHMzMWtvTDhwTW1yemcwVUNJajJCVnd3cENrWnhFMHByelFSYm1YUWhEMGUyUTNmYjduWllDNno5Tjd0emJaOGRPcA?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 02:26:31 GMT",
-        "source": "이데일리",
+        "title": "정성호 \"조국혁신당과 합당? 당내 분열도 극복 못하면서\" - 조세일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZM1NpYkRKYVZfOThfcHgzY245dXVTUzhUal9MVFJyUXI5dWx4czNyOGtlaUhhLUN3STFWSzVPcTFBNjFScERWYU45WGRvWTQ0UzdoOUlGVXVoSEcxU1VRS3RlUl91UDQwSDBtZFNqZw?oc=5\" target=\"_blank\">정성호 \"조국혁신당과 합당? 당내 분열도 극복 못하면서\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZM1NpYkRKYVZfOThfcHgzY245dXVTUzhUal9MVFJyUXI5dWx4czNyOGtlaUhhLUN3STFWSzVPcTFBNjFScERWYU45WGRvWTQ0UzdoOUlGVXVoSEcxU1VRS3RlUl91UDQwSDBtZFNqZw?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 02:38:38 GMT",
+        "source": "조세일보",
         "ageHours": 0.4
       },
       "delivered": [],
@@ -2552,10 +2536,10 @@
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "caf0b571732c63816a4fe49520f81f2ba933520a2acbfa213b9190dbd4840ded",
-    "title": "정청래 '입' 지적한 정성호 \"볼 때마다 큰 정치하라 말하고 있다\" - OhmyNews",
+    "postId": "9ae9d65187671e4e4801906d5ff610c114133dac471e6f20fc1b12161454f76d",
+    "title": "김용민, 한동훈 직격 \"의원직 판돈 걸듯 가벼운 태도\" - 조세일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45745126218",
-    "sentAt": "2026-11-26T02:51:18.469Z"
+    "runId": "45746169326",
+    "sentAt": "2026-11-26T03:01:16.597Z"
   }
 }

@@ -8854,3 +8854,42 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** “입 싼 송영길” 깊어지는 갈등의 골…與 중진들 오늘 내홍 수습 나선다 - 서울경제
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “입 싼 송영길” 깊어지는 갈등의 골…與 중진들 오늘 내홍 수습 나선다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mMzdJUllQX2VOdG0yMDBwaTVfLVFBWHdHZFV4dVVsQmw1eFk3UDN2VWt0T08zQkZKMFdYajlBcHZuak1uVEF2T1NVN1FwdnVOTnfSAVNBVV95cUxPWFNCMXZobUJjZVc5aU5oaHlQdk1iSlN4czB6WksySmp1RnkwTGpQV2l2d2tLNE1SV0NzQnBIRXAzUjc1TzNtc19VNUlQZjdQc05Raw?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 민주당·조국혁신당, 오늘 오후 조작기소 특검 후보 각각 발표 - 이데일리
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당·조국혁신당, 오늘 오후 조작기소 특검 후보 각각 발표
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxPblY5NFhVeFlvOXllUTZnQnpBbmxSUXZYRGVEeUE0SkNscjJ6M0pnd2M3bVFLZ183QkZxYjhsZHMzMWtvTDhwTW1yemcwVUNJajJCVnd3cENrWnhFMHByelFSYm1YUWhEMGUyUTNmYjduWllDNno5Tjd0emJaOGRPcA?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김용민, 한동훈 직격 "의원직 판돈 걸듯 가벼운 태도" - 조세일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김용민, 한동훈 직격 "의원직 판돈 걸듯 가벼운 태도"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTFBHazRndWZEM2RhQUU2YUdvTHlXMDg5amozOG1JaGR1YjhyeE1PWk5saHRRTS12M3hhVUM2NUx5VU9GNGtlX2ZzZEw4VEpxTjlOdjV2dEF2NzNldVlqYUVhNEdwMGxZWTRXblE?oc=5)
+
+---
+
