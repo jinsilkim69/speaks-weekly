@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T10:41:18.042Z",
+  "lastCheckedAt": "2026-11-26T10:51:21.047Z",
   "seenPostIds": {
     "17843b01191908b7f25152fc2e2486b8dc3a0574493f34600fd7ca545ec6a08d": {
       "seenAt": "2026-11-24T04:01:19.978Z",
@@ -2500,14 +2500,29 @@
       "seenAt": "2026-11-26T10:31:16.450Z",
       "title": "How Trump has marked Thanksgiving by launching into Truth Social rant - The Independent",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "338abe9fe37df66cfc1c1ad71f0bfefbadaa8678ae838272d3783755b75aa450": {
+      "seenAt": "2026-11-26T10:51:22.600Z",
+      "title": "이재명 대통령 “SNS 폭언·욕설은 차단…지적은 수용” : 정치 - 재경일보",
+      "targetName": "이재명"
+    },
+    "821c97ee83683ba4baf7b5b754ebd2d337ba1cb39391302528aa141b846ac994": {
+      "seenAt": "2026-11-26T10:51:23.261Z",
+      "title": "전화 피한 정청래? - 채널A",
+      "targetName": "정청래"
+    },
+    "e8bb2293b5d97d0a7bddca97efe129732f73511f6aca9fba3ced2eb8a08c9c3c": {
+      "seenAt": "2026-11-26T10:51:23.930Z",
+      "title": "이준석 “장동혁, 황교안의 길 가나”｜국민의힘 부정선거 논란·장외투쟁, 차기 총선 대패 경고 - 진주인터넷뉴스",
+      "targetName": "이준석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "fc972ae686d1172bf1f44b039e75ebc2d5b7b9f5d3f39545a14adffe56c20c79",
-    "title": "How Trump has marked Thanksgiving by launching into Truth Social rant - The Independent",
+    "postId": "e8bb2293b5d97d0a7bddca97efe129732f73511f6aca9fba3ced2eb8a08c9c3c",
+    "title": "이준석 “장동혁, 황교안의 길 가나”｜국민의힘 부정선거 논란·장외투쟁, 차기 총선 대패 경고 - 진주인터넷뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45802054742",
-    "sentAt": "2026-11-26T10:31:16.113Z"
+    "runId": "45805126306",
+    "sentAt": "2026-11-26T10:51:23.571Z"
   }
 }

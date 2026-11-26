@@ -10167,3 +10167,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 “SNS 폭언·욕설은 차단…지적은 수용” : 정치 - 재경일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “SNS 폭언·욕설은 차단…지적은 수용” : 정치
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uX0o4ODBtZ3piUzNkbWNJbHNuOV9VZEF1U01rM0d1NFQxVEpTQ0NQbnFxUld0RVdDdTlycGNVTi1jckxBQ1cxdnRoUQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 전화 피한 정청래? - 채널A
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 전화 피한 정청래?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKZldLT1RpZmtJQmJQcVVVb2JDWUxmblFzT1V2cmhTdmVFaWxtVlZXc1l4aXR1THR2QmpYRjF1SUdIOUFBLWRld2k2VWdaMm1DX1JVN3JTSExvR1ptMGfSAWNBVV95cUxPRzBXWm5MX2FMM2R5QndxbjBiUDAwRnpqVWNmTXp1RmQzSVVmMVZRMHFtLWVEaFcyQVZSdDJZbTVwTWxKTk1HbVgtcXc1dGI1Mmhpd2JJUTdaWnhHcWpQSC1pVjg?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “장동혁, 황교안의 길 가나”｜국민의힘 부정선거 논란·장외투쟁, 차기 총선 대패 경고 - 진주인터넷뉴스
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “장동혁, 황교안의 길 가나”｜국민의힘 부정선거 논란·장외투쟁, 차기 총선 대패 경고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMid0FVX3lxTE03OFRlVW9PX2k5YlhQdGNQZjd2dGdFaGZiUlIwU05JbjQ4ZXBtWktfaWlLRTgwUFdydDgybGhQWVVsUnpUaVEzSzk1VlBYSnRWakxrWHNNZTNkbHZDLXdkQkh4eHZjYi1iaWRnaDdkbU93d2lNZktJ?oc=5)
+
+---
+
