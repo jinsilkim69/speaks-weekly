@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T00:01:14.190Z",
+  "lastCheckedAt": "2026-11-26T00:11:14.003Z",
   "seenPostIds": {
     "2fea9cbabc15e63128da5aa5069fb703b3b093ea7f1f448edbca05bc0d168faa": {
       "seenAt": "2026-11-23T09:51:18.043Z",
@@ -2500,14 +2500,29 @@
       "seenAt": "2026-11-25T23:51:17.368Z",
       "title": "Trump officials declare success after Iowa blast - Politico",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "de93c1037afb18cf45ced2544a8a690e373569ad8c84a45d1a4365c8b4769402": {
+      "seenAt": "2026-11-26T00:11:15.024Z",
+      "title": "한동훈 “탄핵 인용 확신? 의원직 걸라”…김용민 “가벼운 태도 한심해” - 중앙일보",
+      "targetName": "한동훈"
+    },
+    "cdd1f4e67c7219816a1d1f5a7562b35ab65d4cda2a6893bf6208bf21d773a5ab": {
+      "seenAt": "2026-11-26T00:11:15.609Z",
+      "title": "김민석 \"오세훈, 서울시정 대권준비 징검다리로 활용…깊이 자성해야\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
+    },
+    "d0537d18e56101ede2d060ffe87416e9fc955232b7eff2dad8b0a80b4614f7ed": {
+      "seenAt": "2026-11-26T00:11:16.214Z",
+      "title": "Trump: Iowa Gov.-elect Sand was ‘absolutely no help’ in controlled lead blast - The Hill",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "bedc1a73c4c8ad04471e8783456088f9685d84f8a785ed605e8d91f8f2ff959c",
-    "title": "Trump officials declare success after Iowa blast - Politico",
+    "postId": "d0537d18e56101ede2d060ffe87416e9fc955232b7eff2dad8b0a80b4614f7ed",
+    "title": "Trump: Iowa Gov.-elect Sand was ‘absolutely no help’ in controlled lead blast - The Hill",
     "bot": "jongsuk_pol_bot",
-    "runId": "45724441717",
-    "sentAt": "2026-11-25T23:51:16.980Z"
+    "runId": "45726884285",
+    "sentAt": "2026-11-26T00:11:15.916Z"
   }
 }
