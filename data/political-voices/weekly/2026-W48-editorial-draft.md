@@ -10973,3 +10973,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says he asked Putin to stop military aggression in Europe - Українська правда
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says he asked Putin to stop military aggression in Europe
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RWU5uZUUzbGl5Q1Niam9ReUxZTmZBb2dmXzdTempSSmhndDZEam1sbFFaOXNCanVCZU82cnFXOFVOVTBYVk1VTmFIYzNkQzljRHZ4RDEybXA2NXlRWE55ZU8wODDSAXBBVV95cUxPVGtydHFjTXdNckpnNE9CaVlfX2l4Uk1tb1BVbER2WTYwak5OMGpsNzJrSnJpMGpSSUYzMkdnTjdDZjQ4X25QTFc2THBDNEhaZTJ3cktuV0RNT0k0LU1yc2JIUUtuMUszTlJGQjl5eVdY?oc=5)
+
+---
+

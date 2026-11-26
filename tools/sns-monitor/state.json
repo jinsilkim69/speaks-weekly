@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T16:31:15.029Z",
+  "lastCheckedAt": "2026-11-26T16:41:15.238Z",
   "seenPostIds": {
     "4becd5bd670758bf4596e517c8a772bff4fefb277b346e441bbef466e509c383": {
       "seenAt": "2026-11-24T08:11:23.488Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-26T16:11:17.542Z",
       "title": "Donald Trump Shares Thanksgiving Message With Boast About U.S. Economy - Newsweek",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ed0656f342820d2b666a4c7ace243c8d00cc3d7c25a403b86eec9b54c5c5fcf0": {
+      "seenAt": "2026-11-26T16:41:16.742Z",
+      "title": "Trump says he asked Putin to stop military aggression in Europe - Українська правда",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c0ad6430b5cc2a5f4418503465813e289b246b0311298fd8d1173c06033c3b1a",
-    "title": "Donald Trump Shares Thanksgiving Message With Boast About U.S. Economy - Newsweek",
+    "postId": "ed0656f342820d2b666a4c7ace243c8d00cc3d7c25a403b86eec9b54c5c5fcf0",
+    "title": "Trump says he asked Putin to stop military aggression in Europe - Українська правда",
     "bot": "jongsuk_pol_bot",
-    "runId": "45856329089",
-    "sentAt": "2026-11-26T16:11:17.225Z"
+    "runId": "45861008551",
+    "sentAt": "2026-11-26T16:41:16.054Z"
   }
 }
