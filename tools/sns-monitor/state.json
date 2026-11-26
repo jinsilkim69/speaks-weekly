@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T02:31:22.014Z",
+  "lastCheckedAt": "2026-11-26T02:41:14.000Z",
   "seenPostIds": {
-    "74150de29a2b0e3efe8138813494f129004f52aa6cd2cfe0a022543284d6f609": {
-      "seenAt": "2026-11-23T13:11:18.680Z",
-      "title": "조국혁신당, 창당 1000일 앞두고 당명 개정 추진…새 이름 찾는다 - 매일경제",
-      "targetName": "조국"
-    },
     "4288989787c77a0798a61e0c0b1eec390fd686cfd057a5e99f5e48923214d2d9": {
       "seenAt": "2026-11-23T13:21:18.335Z",
       "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-26T02:31:23.544Z",
       "title": "김용민, 한동훈 향해 \"의원직을 판돈처럼…가벼운 태도 한심\" - 서울뉴스통신",
       "targetName": "한동훈"
+    },
+    "fa20fc58536851adf0bbcb83cc910564b1d5837ceb623a09be9a398acdec7818": {
+      "seenAt": "2026-11-26T02:41:15.040Z",
+      "title": "한동훈 “탄핵 확신? 직 걸라” 김용민 “중대사에 판돈”…조희대 탄핵 신경전 - 시사저널",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "a81adbaf3b17fe05d2a85a727e28455fe159493ae569cc86ac7887b695f8d20d",
-    "title": "김용민, 한동훈 향해 \"의원직을 판돈처럼…가벼운 태도 한심\" - 서울뉴스통신",
+    "postId": "fa20fc58536851adf0bbcb83cc910564b1d5837ceb623a09be9a398acdec7818",
+    "title": "한동훈 “탄핵 확신? 직 걸라” 김용민 “중대사에 판돈”…조희대 탄핵 신경전 - 시사저널",
     "bot": "jongsuk_pol_bot",
-    "runId": "45742941843",
-    "sentAt": "2026-11-26T02:31:23.035Z"
+    "runId": "45744044542",
+    "sentAt": "2026-11-26T02:41:14.569Z"
   }
 }
