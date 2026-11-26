@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T17:51:13.534Z",
+  "lastCheckedAt": "2026-11-26T18:01:14.422Z",
   "seenPostIds": {
     "990e43fec84bbb15b53ac149454a6ca4f0e70276885dbf626078af18d97a9ada": {
       "seenAt": "2026-11-24T08:41:17.143Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-26T17:41:14.739Z",
       "title": "Donald Trump Rants About ‘Radical Far Left,’ Ballroom Critics in Thanksgiving Post - Rolling Stone",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f2e6c12d97aaf036ea55c5ed617f1fd844f9bb55dcf86df5b0048573c3db2c70": {
+      "seenAt": "2026-11-26T18:01:15.488Z",
+      "title": "Trump says he urged Putin to 'pull back' military aggression in Europe - DW.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "a2d5a3f113417ee30c241533354a1f6fcfb4d339125900bcf58a7ecfe103a6e0",
-    "title": "Donald Trump Rants About ‘Radical Far Left,’ Ballroom Critics in Thanksgiving Post - Rolling Stone",
+    "postId": "f2e6c12d97aaf036ea55c5ed617f1fd844f9bb55dcf86df5b0048573c3db2c70",
+    "title": "Trump says he urged Putin to 'pull back' military aggression in Europe - DW.com",
     "bot": "jongsuk_pol_bot",
-    "runId": "45869784122",
-    "sentAt": "2026-11-26T17:41:14.224Z"
+    "runId": "45872496430",
+    "sentAt": "2026-11-26T18:01:14.964Z"
   }
 }

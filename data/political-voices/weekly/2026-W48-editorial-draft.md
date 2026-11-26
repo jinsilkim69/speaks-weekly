@@ -11064,3 +11064,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump says he urged Putin to 'pull back' military aggression in Europe - DW.com
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump says he urged Putin to 'pull back' military aggression in Europe
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEpfRGFDU3RjT1VYdjZGWGMwR1dhOTA5WF9rQUVzaVo3a2k2dUEyVzI3QWFDUHB1bUk3VGR4RVV5dWVlcTB2TS1abVJxdHNUMUFVa1o1eF9pa05wYl8yNXB1V0JlR2k1eDFtc2hJeVJza2hSZnU5TFNHdXN2MnFJZUpVWEcyYzYtZk5NdjFwaEhQRk9weDJCaUZ6MHE4aTJQdjVV0gGjAUFVX3lxTE5kSl9EYUNTdGNPVVh2NkZYYzBHV2E5MDlYX2tBRXNpWjdraTZ1QTJXMjdBYUNQcHVtSTdUZHhFVXl1ZWVxMHZNLVptUnF0c1QxQVVrWjV4X2lrTnBiXzI1cHVXQmVHaTV4MW1zaEl5UnNraFJmdTlMU0d1c3YycUllSlVYRzJjNi1mTk12MXBoSFBGT3B4MkJpRnowcThpMlB2NVU?oc=5)
+
+---
+
