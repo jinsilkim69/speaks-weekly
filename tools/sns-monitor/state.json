@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-26T18:21:14.906Z",
+  "lastCheckedAt": "2026-11-26T18:31:14.094Z",
   "seenPostIds": {
     "020afc4b1d8eb4d1608bf11e63a769895122bfbf89c3da0ef3e5c90c27ab43c8": {
       "seenAt": "2026-11-24T08:41:17.775Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-26T18:01:15.488Z",
       "title": "Trump says he urged Putin to 'pull back' military aggression in Europe - DW.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "16667898f6b62f07f7c870ce31d3239dce35046275b776c6bec2e8b9b6f33f26": {
+      "seenAt": "2026-11-26T18:31:15.407Z",
+      "title": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government - Reuters",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "f2e6c12d97aaf036ea55c5ed617f1fd844f9bb55dcf86df5b0048573c3db2c70",
-    "title": "Trump says he urged Putin to 'pull back' military aggression in Europe - DW.com",
+    "postId": "16667898f6b62f07f7c870ce31d3239dce35046275b776c6bec2e8b9b6f33f26",
+    "title": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government - Reuters",
     "bot": "jongsuk_pol_bot",
-    "runId": "45872496430",
-    "sentAt": "2026-11-26T18:01:14.964Z"
+    "runId": "45876546487",
+    "sentAt": "2026-11-26T18:31:14.786Z"
   }
 }
