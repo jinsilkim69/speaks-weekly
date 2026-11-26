@@ -10453,3 +10453,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 징계 심의 앞두고 與 중진 모임...김민석·정청래 불참 - 조선일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 징계 심의 앞두고 與 중진 모임...김민석·정청래 불참
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxPYXNPQjJyRzYwdTdrZE9YWk56Tk92MlhXLXdnRnN4Y29lWS1SNE1qQlhmQ0JZZkJvRjY5Z2dyYnA1NVJPQlZCaVJqc1U4OWUzajlwT3pZbU1vTF82al9RcURoU20yUUZCdVBFVFNZdGJQaktfQ1ZYbU9XcFotdThYX29FMU5hZw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 박홍근 "김민석·한병도 만나 예산안 법정기한 내 처리 간곡히 부탁" - 뉴스1
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 박홍근 "김민석·한병도 만나 예산안 법정기한 내 처리 간곡히 부탁"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBULXVGUUNmVUJjUHlOZm1mLXVodDRUYXI4WG9hSWtqcXZuZjdHTlROSkJJZDFsVmtxY2xQMDI3NXl5ZWRtU3RmOGQ0Qk52Y0ZKR1lacGhLYlpZNWc?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 최민희 징계 심의 앞두고 與 중진 모임...김민석·정청래 불참 - 조선일보
+
+- **수집일**: 2026-11-26 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 징계 심의 앞두고 與 중진 모임...김민석·정청래 불참
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxPYXNPQjJyRzYwdTdrZE9YWk56Tk92MlhXLXdnRnN4Y29lWS1SNE1qQlhmQ0JZZkJvRjY5Z2dyYnA1NVJPQlZCaVJqc1U4OWUzajlwT3pZbU1vTF82al9RcURoU20yUUZCdVBFVFNZdGJQaktfQ1ZYbU9XcFotdThYX29FMU5hZw?oc=5)
+
+---
+

@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T13:14:04.755Z",
+  "lastCheckedAt": "2026-11-26T13:21:15.780Z",
   "seenPostIds": {
-    "64c56969850f5476bfe8cec00aedbb6d39301a4b5415d91d298fcd2bbb5c27b9": {
-      "seenAt": "2026-11-24T05:11:17.310Z",
-      "title": "한동훈 \"28년 총선, TK가 주요 축…제명은 원천무효\" - 데일리안",
-      "targetName": "한동훈"
-    },
-    "92ad920b16388dfa4806a4ccea73a79f9cf83a0e05441a2c5b760e5ec242dc4e": {
-      "seenAt": "2026-11-24T05:21:14.493Z",
-      "title": "친한계, ‘한동훈 징계 조작 기획’ 추가 폭로에 장동혁 사퇴 촉구 - 기호일보",
-      "targetName": "한동훈"
-    },
     "f7574fcae83e67153ad2705d61a204f354163fceb8e94b9cfc821adea9545700": {
       "seenAt": "2026-11-24T05:21:15.179Z",
       "title": "‘尹 구형일에 한동훈 제명 기획’ 폭로 일파만파…친한계 “장동혁 사퇴해야” - 시사저널",
@@ -2510,14 +2500,78 @@
       "seenAt": "2026-11-26T13:14:07.134Z",
       "title": "민주당 중진 12명 만찬 회동…김민석·정청래 만남은 불발 - 동아일보",
       "targetName": "정청래"
+    },
+    "3b05f00c1013369a2da97df8a15564d673b77164c5ba3e957f3d95c6c36f680c": {
+      "seenAt": "2026-11-26T13:21:17.012Z",
+      "title": "최민희 징계 심의 앞두고 與 중진 모임...김민석·정청래 불참 - 조선일보",
+      "targetName": "김민석"
+    },
+    "58e21e235c490cbca9d597abefdfc1b00a58ff91a06f9186f3d8ffdadf00903b": {
+      "seenAt": "2026-11-26T13:21:17.689Z",
+      "title": "박홍근 \"김민석·한병도 만나 예산안 법정기한 내 처리 간곡히 부탁\" - 뉴스1",
+      "targetName": "김민석"
+    },
+    "8552b23e5ffb734dcb2bc94cf5d2367618990362b31d861034ae4bd9274ee07a": {
+      "seenAt": "2026-11-26T13:21:18.370Z",
+      "title": "최민희 징계 심의 앞두고 與 중진 모임...김민석·정청래 불참 - 조선일보",
+      "targetName": "정청래"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "75e72bebff370e3187450f59b2b2aa1c9a62a60f68ab95cd0815f54fe3f68d05",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, 중진 회동 불참→‘친명’ 직격…“몽둥이로 맞고 위로도 없었다” - 헤럴드경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEb1Q1bk5sUGdoVWxXbHRxbDNXWWhXTGV4TmtFMFdDVFJUV1kwTVZ4b3lYMk84cjVaYkk4U194RlBlc2lISzZJcE1WTnR2YUlReE44NWhB?oc=5\" target=\"_blank\">정청래, 중진 회동 불참→‘친명’ 직격…“몽둥이로 맞고 위로도 없었다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEb1Q1bk5sUGdoVWxXbHRxbDNXWWhXTGV4TmtFMFdDVFJUV1kwTVZ4b3lYMk84cjVaYkk4U194RlBlc2lISzZJcE1WTnR2YUlReE44NWhB?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 13:07:18 GMT",
+        "source": "헤럴드경제",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d95efa4a886995109f77c603cbf088341e1bb326c4923409b29f6d1b6684d4f7",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국, 12월 울릉도·독도 방문 추진…`독도원정대` 일정 공개 - 매일신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJY3pCSlpBX3hnMnFiRkFrSU92ZV94SlkxZTdLbkRsVzdaNkJXNk93N1AxWk8yS295b0dyZnNhTnpFWE1KMFFfVElLVjA1eVVUMURfbUdZc3JFa1VxNGFockRn?oc=5\" target=\"_blank\">조국, 12월 울릉도·독도 방문 추진…`독도원정대` 일정 공개</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJY3pCSlpBX3hnMnFiRkFrSU92ZV94SlkxZTdLbkRsVzdaNkJXNk93N1AxWk8yS295b0dyZnNhTnpFWE1KMFFfVElLVjA1eVVUMURfbUdZc3JFa1VxNGFockRn?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 13:15:39 GMT",
+        "source": "매일신문",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "300f52479c7f0d94c68db7fe4bab9c19b5d2222ed0e17e67cd20239b02829e3a",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 “공공기관 이전 부지 매각 말고 공공주택 지어야” - 조세일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aWXhjd0RGNVRHenMtRHNQZ3VHakdtZmJPWjloUmJXekw1RVBkbFNYMkYxcjFTTmJaNXVJT2FOeXNodEE3VDJ5ZHFTMmh2Mk40bUJCT0QyT0Y1Uk5WTHdj?oc=5\" target=\"_blank\">조국 “공공기관 이전 부지 매각 말고 공공주택 지어야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조세일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aWXhjd0RGNVRHenMtRHNQZ3VHakdtZmJPWjloUmJXekw1RVBkbFNYMkYxcjFTTmJaNXVJT2FOeXNodEE3VDJ5ZHFTMmh2Mk40bUJCT0QyT0Y1Uk5WTHdj?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 11:43:43 GMT",
+        "source": "조세일보",
+        "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "8f47300cda6760412874a1eb77c01a5004b945b9820a824416e0cf7b91edca97",
-    "title": "민주당 중진 12명 만찬 회동…김민석·정청래 만남은 불발 - 동아일보",
+    "postId": "8552b23e5ffb734dcb2bc94cf5d2367618990362b31d861034ae4bd9274ee07a",
+    "title": "최민희 징계 심의 앞두고 與 중진 모임...김민석·정청래 불참 - 조선일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45826655971",
-    "sentAt": "2026-11-26T13:14:06.812Z"
+    "runId": "45828272893",
+    "sentAt": "2026-11-26T13:21:18.023Z"
   }
 }
