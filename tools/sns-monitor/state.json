@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-26T08:51:24.227Z",
+  "lastCheckedAt": "2026-11-26T09:01:16.821Z",
   "seenPostIds": {
-    "45a4fb4fee449277894b746e5b9e353a8476714542e1c63f9eb432c0d1472cc7": {
-      "seenAt": "2026-11-24T02:51:15.944Z",
-      "title": "'한동훈 기획제명' 의혹 제기에…친한계 \"장동혁 물러나야\" - 연합뉴스 한민족센터",
-      "targetName": "한동훈"
-    },
-    "5cfb99318773dfc9b8fe1528f537dfb1bf0dd3bb93b844b724ccde35deecbcbd": {
-      "seenAt": "2026-11-24T03:01:15.208Z",
-      "title": "“尹 구형일에 맞춰 한동훈 제명” 장동혁은 버틸 수 있나…정옥임·김영우, 25일 《전영기의 빅샷》 출연 - 시사저널",
-      "targetName": "한동훈"
-    },
-    "40a80f9d4058fdd945346184c08f7cee29c6c7f440e5955ea6f14dc1b30c1243": {
-      "seenAt": "2026-11-24T03:01:15.831Z",
-      "title": "취임 100일 김민석 \"엇박자 얘기 없이 당청 안정... 당은 더 안정돼야\" - OhmyNews",
-      "targetName": "김민석"
-    },
     "d940261ad5fa646c816c321d64093e7e877234167f432f7a245b540b3f7718be": {
       "seenAt": "2026-11-24T03:01:16.437Z",
       "title": "'한동훈 기획제명' 의혹 제기에…친한계 \"장동혁 물러나야\" - 연합뉴스",
@@ -2515,63 +2500,62 @@
       "seenAt": "2026-11-26T08:51:27.759Z",
       "title": "\"최민희 중징계 전망…김민석, 역풍 감당할 수 있나\"[박영환의 시사1번지] - KBC광주방송",
       "targetName": "김민석"
+    },
+    "c179943b6dafb843e76748b0e823668c373843d2166e5916224f48816342a1f8": {
+      "seenAt": "2026-11-26T09:01:18.196Z",
+      "title": "‘일본 입국’ 거부 당한 조국 다음달 7일 독도 재방문 - 주간경향",
+      "targetName": "조국"
+    },
+    "e337a8f1c4d45e1ecc0c5cfd2af071ee26e068271fbcae018464be8d47731f84": {
+      "seenAt": "2026-11-26T09:01:18.828Z",
+      "title": "[속보] 조국, ‘日 입국 거부’ 뒤 독도 재방문…내달 7일 ‘독도원정대’ 일정 공개 - 경기일보",
+      "targetName": "조국"
+    },
+    "1e31faf963bbe39f69328b5abbdc0cd2e7b11744ca72fd5500b7d9c94f0932a7": {
+      "seenAt": "2026-11-26T09:01:19.499Z",
+      "title": "신장식 조국혁신당 대표 “조희대 탄핵, 말이 아닌 실천…12월 3일 발의·의결해야” - THE NEWS",
+      "targetName": "신장식"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "c179943b6dafb843e76748b0e823668c373843d2166e5916224f48816342a1f8",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "‘일본 입국’ 거부 당한 조국 다음달 7일 독도 재방문 - 주간경향",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAweVV0Tnk5QWtxQ2ZtR0lBc3ltUnRBa3VFQkJRRDI2ZElDdGJfZUwxV0FURGRTU3AxUmpuN3JQRlQyMUhUcDRjby1hRm5aU3YyUnlENG03bXJtRUtTd3c?oc=5\" target=\"_blank\">‘일본 입국’ 거부 당한 조국 다음달 7일 독도 재방문</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAweVV0Tnk5QWtxQ2ZtR0lBc3ltUnRBa3VFQkJRRDI2ZElDdGJfZUwxV0FURGRTU3AxUmpuN3JQRlQyMUhUcDRjby1hRm5aU3YyUnlENG03bXJtRUtTd3c?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 08:35:00 GMT",
-        "source": "주간경향",
-        "ageHours": 0.1
+        "id": "4be67c391da9267811903a0ba4916be83cfb66db3b1ad89b6321a69d659e9cfe",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송도 테마파크 토양 정화 문제 관련 연수구청장, 송영길 의원 발언에 반박 - 한국미디어뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SMktzdHR2ZENreWNRSTl3YVhpV01ONnlCbnpPV25mdW5WdmxtNDNqUHVwYmx0Y053dllqWHYzcXY2WWlaM3k2dV9yVzFBOFlsVXBFdTlfSVFBaGVLb0JIZzg3WmdBQQ?oc=5\" target=\"_blank\">송도 테마파크 토양 정화 문제 관련 연수구청장, 송영길 의원 발언에 반박</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국미디어뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SMktzdHR2ZENreWNRSTl3YVhpV01ONnlCbnpPV25mdW5WdmxtNDNqUHVwYmx0Y053dllqWHYzcXY2WWlaM3k2dV9yVzFBOFlsVXBFdTlfSVFBaGVLb0JIZzg3WmdBQQ?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 04:43:52 GMT",
+        "source": "한국미디어뉴스",
+        "ageHours": 4.3
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "e337a8f1c4d45e1ecc0c5cfd2af071ee26e068271fbcae018464be8d47731f84",
+        "id": "96814bcd74bf6e837a0cd6b66dd7444ed9a83399a2a350d2c90eb9c60229db38",
         "targetId": "cho_kuk",
         "targetName": "조국",
         "targetTitle": "조국혁신당 대표",
-        "title": "[속보] 조국, ‘日 입국 거부’ 뒤 독도 재방문…내달 7일 ‘독도원정대’ 일정 공개 - 경기일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iT0hDWmtiV3h4bElrOVlXNU9qQnQ4dHdTaWhXcUdDeDZreXBRSXVVdk1aMGJzV3BSOUFNMjhwM3lJc1Axb2ZaZVI0MGhEby1nNVFmS0tvTWRJaTQ?oc=5\" target=\"_blank\">[속보] 조국, ‘日 입국 거부’ 뒤 독도 재방문…내달 7일 ‘독도원정대’ 일정 공개</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경기일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iT0hDWmtiV3h4bElrOVlXNU9qQnQ4dHdTaWhXcUdDeDZreXBRSXVVdk1aMGJzV3BSOUFNMjhwM3lJc1Axb2ZaZVI0MGhEby1nNVFmS0tvTWRJaTQ?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 06:59:39 GMT",
-        "source": "경기일보",
-        "ageHours": 1.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "1e31faf963bbe39f69328b5abbdc0cd2e7b11744ca72fd5500b7d9c94f0932a7",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 조국혁신당 대표 “조희대 탄핵, 말이 아닌 실천…12월 3일 발의·의결해야” - THE NEWS",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVWpPVnpBWjdGMThGUTJXNnhrMmpjUm82MVpMbG04enNxanJEUnFiWUNFS2ZQd3lyOHZMNzc4VU9ycGNwb1VPeWtvX0N4cGRuci10M2xTWkd3dzhPN3pPUW9ORXB5MzIzdWdv0gFvQVVfeXFMUDFpd0FVZmprRm5QTm4xOUV6S1RlMGUzb2RUV0d3NWw0RS1iUW9FN1pNOFFhZi1PNUlHQnVDU0hvb0x6Qnp5RGd3SlZPWFM2Vm4wM0NobUlDM0N2QU45M3BacXAyRzdjWHF2YzVOVWZZ?oc=5\" target=\"_blank\">신장식 조국혁신당 대표 “조희대 탄핵, 말이 아닌 실천…12월 3일 발의·의결해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">THE NEWS</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVWpPVnpBWjdGMThGUTJXNnhrMmpjUm82MVpMbG04enNxanJEUnFiWUNFS2ZQd3lyOHZMNzc4VU9ycGNwb1VPeWtvX0N4cGRuci10M2xTWkd3dzhPN3pPUW9ORXB5MzIzdWdv0gFvQVVfeXFMUDFpd0FVZmprRm5QTm4xOUV6S1RlMGUzb2RUV0d3NWw0RS1iUW9FN1pNOFFhZi1PNUlHQnVDU0hvb0x6Qnp5RGd3SlZPWFM2Vm4wM0NobUlDM0N2QU45M3BacXAyRzdjWHF2YzVOVWZZ?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 02:08:58 GMT",
-        "source": "THE NEWS",
-        "ageHours": 6.5
+        "title": "조국 \"공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자\" 제안 - 국제신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHBXRHlLTXh3blZiMjNwS0h2aHQ5cHRkLXU4YkNQNC1FWHJldkkwU1BacFRqZTAzR18xeUxJMmd4UU5WOHkxTU11ZGMzYmNRWkpDTGRPeVJCdFcxbGIxVVo0bDRDZDNkRTFUaEtjRVRFc2I2QzV4ZFl1OXlFamRuZmVaUnl1N0llT2dPd2Zn?oc=5\" target=\"_blank\">조국 \"공공기관 이전한 수도권 알짜 땅에 고품질 공공주택 짓자\" 제안</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국제신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHBXRHlLTXh3blZiMjNwS0h2aHQ5cHRkLXU4YkNQNC1FWHJldkkwU1BacFRqZTAzR18xeUxJMmd4UU5WOHkxTU11ZGMzYmNRWkpDTGRPeVJCdFcxbGIxVVo0bDRDZDNkRTFUaEtjRVRFc2I2QzV4ZFl1OXlFamRuZmVaUnl1N0llT2dPd2Zn?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 06:29:00 GMT",
+        "source": "국제신문",
+        "ageHours": 2.5
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "a77fa28184f0b5012b2ede5d2b8c3cadb06c8dd68a6731c9b1f470742625b180",
-    "title": "\"최민희 중징계 전망…김민석, 역풍 감당할 수 있나\"[박영환의 시사1번지] - KBC광주방송",
+    "postId": "1e31faf963bbe39f69328b5abbdc0cd2e7b11744ca72fd5500b7d9c94f0932a7",
+    "title": "신장식 조국혁신당 대표 “조희대 탄핵, 말이 아닌 실천…12월 3일 발의·의결해야” - THE NEWS",
     "bot": "jongsuk_pol_bot",
-    "runId": "45786649688",
-    "sentAt": "2026-11-26T08:51:27.385Z"
+    "runId": "45788085941",
+    "sentAt": "2026-11-26T09:01:19.153Z"
   }
 }
