@@ -13820,3 +13820,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [여론조사on] 이재명 대통령 지지율 41% '7주째 횡보'…민주 37%·국힘 30% 격차 7%p로 축소 - ISSUE ON (이슈온)
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 지지율 41% '7주째 횡보'…민주 37%·국힘 30% 격차 7%p로 축소
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE9FWVV3SEZaYkFDTW9CTzFEQTJBbzlHWGx1ai1nOC13S0Q5S0pfS28yemdNSVdSY2lUd1BYaGl0akM1amFhY1JsVTlKdlYtcERlUkVzR2FvZ2JveEtWVm5uRVJoenVYVU5hMlFj?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 최민희, 중징계 의결에 즉각 "재심 신청"‥정청래도 "납득 어려워" - MBC 뉴스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희, 중징계 의결에 즉각 "재심 신청"‥정청래도 "납득 어려워"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE14d0dPNFVQMmRCSnVfbUxOUnRSbUE0cWIxc2dUZWtpZlZkSkNJZXNOUWVZdUZMdm9mNmE5NlpQaHRXcmZLaWpDc1dmS1FXWEU0SWh0dEZ2T2pmTzdCY0VCN0pia0tNTGNjZlN6QmRxYXZzdTNyRmhlV9IBeEFVX3lxTE14d0dPNFVQMmRCSnVfbUxOUnRSbUE0cWIxc2dUZWtpZlZkSkNJZXNOUWVZdUZMdm9mNmE5NlpQaHRXcmZLaWpDc1dmS1FXWEU0SWh0dEZ2T2pmTzdCY0VCN0pia0tNTGNjZlN6QmRxYXZzdTNyRmhlVw?oc=5)
+
+---
+

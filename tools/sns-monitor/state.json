@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T22:31:14.372Z",
+  "lastCheckedAt": "2026-11-27T22:41:22.655Z",
   "seenPostIds": {
     "d26eca0ae4a29819b7ca0f730f6f3851ac2f6d0b5a5c439b9f7d98b4bfb7a137": {
       "seenAt": "2026-11-25T08:13:44.721Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-27T22:11:16.876Z",
       "title": "최민희 당원권 2년 정지… 김민석 ‘신천지’ 경징계 땐 전면전 불가피 - 조선일보",
       "targetName": "김민석"
+    },
+    "58f4aa9b5c18c94e4ec3cfc972bb4f7be9b6f7a73119837d24a55ac7ed2b548a": {
+      "seenAt": "2026-11-27T22:41:24.711Z",
+      "title": "[여론조사on] 이재명 대통령 지지율 41% '7주째 횡보'…민주 37%·국힘 30% 격차 7%p로 축소 - ISSUE ON (이슈온)",
+      "targetName": "이재명"
+    },
+    "78a2679033d152b7e70ef81f29e4c12094e3f08f4a0b80d971ab9d9ff1b4a8f7": {
+      "seenAt": "2026-11-27T22:41:25.477Z",
+      "title": "최민희, 중징계 의결에 즉각 \"재심 신청\"‥정청래도 \"납득 어려워\" - MBC 뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "9f6c1390a8229049a2ad7a91fa38b5381afc9b30d8effa4550e0a32bdbe00a62",
-    "title": "최민희 당원권 2년 정지… 김민석 ‘신천지’ 경징계 땐 전면전 불가피 - 조선일보",
+    "postId": "78a2679033d152b7e70ef81f29e4c12094e3f08f4a0b80d971ab9d9ff1b4a8f7",
+    "title": "최민희, 중징계 의결에 즉각 \"재심 신청\"‥정청래도 \"납득 어려워\" - MBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "46075033124",
-    "sentAt": "2026-11-27T22:11:16.123Z"
+    "runId": "46078110022",
+    "sentAt": "2026-11-27T22:41:25.072Z"
   }
 }
