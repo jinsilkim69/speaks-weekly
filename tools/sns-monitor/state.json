@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T06:51:15.689Z",
+  "lastCheckedAt": "2026-11-27T07:01:18.601Z",
   "seenPostIds": {
-    "c9a3cf20c097a2daec244a1225cb567342ae095399082c24e1af3ae03778ddc5": {
-      "seenAt": "2026-11-25T02:41:17.368Z",
-      "title": "정청래, 송영길에 공개 경고…“대통령과 대화 내용 발설 말라” - 진일보 | 전남일보",
-      "targetName": "송영길"
-    },
-    "f6e70290e76fb0dd0fd704c7b43bc384601dd89a8458ed3829ad70330fef1fbb": {
-      "seenAt": "2026-11-25T02:41:18.089Z",
-      "title": "정청래 “송영길 입조심하라”…‘대통령 비공개 회동’ 발설에 공개 경고 - 서울경제",
-      "targetName": "송영길"
-    },
-    "c1c39cd25531a951e242528aeb4371ddb07761bcd9a050f896803ed2cec3de0f": {
-      "seenAt": "2026-11-25T02:41:18.812Z",
-      "title": "정청래 \"송영길, 입조심하라\"…'대통령 비공개 회동' 공개에 격앙 - TV조선뉴스",
-      "targetName": "송영길"
-    },
     "0f6823f149421bd51430fbb7ef3a7c5a7e689c63be72e004627ddc4276e31723": {
       "seenAt": "2026-11-25T02:51:19.009Z",
       "title": "정청래 \"송영길, 입조심하라... 대통령 관련해선 특히 조심해야\" - 한국일보",
@@ -2515,31 +2500,24 @@
       "seenAt": "2026-11-27T06:51:18.653Z",
       "title": "신장식 \"조희대 탄핵안, 12월2일 본회의서 보고하자…與 일정 견해차\" - 부산파이낸셜뉴스",
       "targetName": "신장식"
+    },
+    "6a09d7f43fd8503286215262b56b520c73726175d2eeb6856b6c4eb4bd72a6f4": {
+      "seenAt": "2026-11-27T07:01:20.028Z",
+      "title": "김승원 \"韓 철저히 수사해야\"…한동훈 \"金을 수사해야\" - 한국경제",
+      "targetName": "한동훈"
+    },
+    "878ba36765267e4fee2772b296ddd844fc4ae051c6d3a7d8f739c16c067090e5": {
+      "seenAt": "2026-11-27T07:01:21.348Z",
+      "title": "김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발' [자막뉴스] - YTN",
+      "targetName": "한동훈"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "6a09d7f43fd8503286215262b56b520c73726175d2eeb6856b6c4eb4bd72a6f4",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "김승원 \"韓 철저히 수사해야\"…한동훈 \"金을 수사해야\" - 한국경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kcGlVNzJ4Q0tSRzRvZVVFNFQ4N09La0phRkVNMkEtZmtBMk5YZllzT1dPZnpJdU8wNFNBdkd0MTlvUGdNcC16YkJUcWhaWEZlUU9hWUx0MmR0UQ?oc=5\" target=\"_blank\">김승원 \"韓 철저히 수사해야\"…한동훈 \"金을 수사해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kcGlVNzJ4Q0tSRzRvZVVFNFQ4N09La0phRkVNMkEtZmtBMk5YZllzT1dPZnpJdU8wNFNBdkd0MTlvUGdNcC16YkJUcWhaWEZlUU9hWUx0MmR0UQ?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 06:40:15 GMT",
-        "source": "한국경제",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "1bdf1ebb60f1f1e71885d9e36a638a2d2be5a9fd59e59afd75ebedf313b30f0f",
-    "title": "신장식 \"조희대 탄핵안, 12월2일 본회의서 보고하자…與 일정 견해차\" - 부산파이낸셜뉴스",
+    "postId": "878ba36765267e4fee2772b296ddd844fc4ae051c6d3a7d8f739c16c067090e5",
+    "title": "김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발' [자막뉴스] - YTN",
     "bot": "jongsuk_pol_bot",
-    "runId": "45954509995",
-    "sentAt": "2026-11-27T06:51:18.274Z"
+    "runId": "45955577460",
+    "sentAt": "2026-11-27T07:01:21.006Z"
   }
 }

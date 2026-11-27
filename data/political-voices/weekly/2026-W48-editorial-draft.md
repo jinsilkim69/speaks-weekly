@@ -12585,3 +12585,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김승원 "韓 철저히 수사해야"…한동훈 "金을 수사해야" - 한국경제
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김승원 "韓 철저히 수사해야"…한동훈 "金을 수사해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kcGlVNzJ4Q0tSRzRvZVVFNFQ4N09La0phRkVNMkEtZmtBMk5YZllzT1dPZnpJdU8wNFNBdkd0MTlvUGdNcC16YkJUcWhaWEZlUU9hWUx0MmR0UQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발' [자막뉴스] - YTN
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발'
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidkFVX3lxTE4zSXJkYWVXTTRpZ2lESXYxY202RFhjeGFscC0tUWZTa3ExaU5mdXRwRXBiSkdfaGhvMXVtamFoOFFoS1V3YjRvQWVHZEM4Z2NRejFaZEZyVVJ2ZGVnaFRjYUJsUWRpdmlWTVJjMDVJRFUxekxGX3c?oc=5)
+
+---
+

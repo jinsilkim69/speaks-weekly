@@ -3453,5 +3453,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6a09d7f43fd8503286215262b56b520c73726175d2eeb6856b6c4eb4bd72a6f4",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "김승원 \"韓 철저히 수사해야\"…한동훈 \"金을 수사해야\" - 한국경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kcGlVNzJ4Q0tSRzRvZVVFNFQ4N09La0phRkVNMkEtZmtBMk5YZllzT1dPZnpJdU8wNFNBdkd0MTlvUGdNcC16YkJUcWhaWEZlUU9hWUx0MmR0UQ?oc=5\" target=\"_blank\">김승원 \"韓 철저히 수사해야\"…한동훈 \"金을 수사해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kcGlVNzJ4Q0tSRzRvZVVFNFQ4N09La0phRkVNMkEtZmtBMk5YZllzT1dPZnpJdU8wNFNBdkd0MTlvUGdNcC16YkJUcWhaWEZlUU9hWUx0MmR0UQ?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 06:40:15 GMT",
+    "source": "한국경제",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김승원 \"韓 철저히 수사해야\"…한동훈 \"金을 수사해야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "878ba36765267e4fee2772b296ddd844fc4ae051c6d3a7d8f739c16c067090e5",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발' [자막뉴스] - YTN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4zSXJkYWVXTTRpZ2lESXYxY202RFhjeGFscC0tUWZTa3ExaU5mdXRwRXBiSkdfaGhvMXVtamFoOFFoS1V3YjRvQWVHZEM4Z2NRejFaZEZyVVJ2ZGVnaFRjYUJsUWRpdmlWTVJjMDVJRFUxekxGX3c?oc=5\" target=\"_blank\">김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발' [자막뉴스]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zSXJkYWVXTTRpZ2lESXYxY202RFhjeGFscC0tUWZTa3ExaU5mdXRwRXBiSkdfaGhvMXVtamFoOFFoS1V3YjRvQWVHZEM4Z2NRejFaZEZyVVJ2ZGVnaFRjYUJsUWRpdmlWTVJjMDVJRFUxekxGX3c?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 06:16:00 GMT",
+    "source": "YTN",
+    "ageHours": 0.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발'",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
