@@ -12754,3 +12754,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "공익제보자 색출 압수수색… 치졸한 정권" | - 뉴스클레임
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "공익제보자 색출 압수수색… 치졸한 정권" |
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE9udTlreXNYSUFsaG5RZWx3Ylo5OXdLSEJBcTJmc1I5OHRfYmJJY2NPTF9SXzdoVmlUdVA0S2JzYU9UQjNsa0xtZkd4NG9fOUw0aDhjYnVMQzhtU3N6bjg1OWFyRXJSVkFheExlTS0tSWFjcnhP?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 "당대표라도 징계 앞에 예외일 수 없어" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 "당대표라도 징계 앞에 예외일 수 없어"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE5pUk1USGZGRVpiZUt1OS1hbzM3WFlROEpycmdsSUtEdHpiVGhfT1Utbmo0YmxSdE1LSG9PdExteUpHdnhWd3NsZHdDcWNnUzRTaXk0cE56dE41UzhVd0NsUmlmZ25NRmMtRVI4RS02djdIZ9IBckFVX3lxTE5pUk1USGZGRVpiZUt1OS1hbzM3WFlROEpycmdsSUtEdHpiVGhfT1Utbmo0YmxSdE1LSG9PdExteUpHdnhWd3NsZHdDcWNnUzRTaXk0cE56dE41UzhVd0NsUmlmZ25NRmMtRVI4RS02djdIZw?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐" - 부산파이낸셜뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iY0N2Z1QyZEJzMnI0eDRXcm9URnMwUXZIdjdtUThHZmVqUWpldm1vazJBVlY4MUt6NDZSckxtRHNlZjJxMmFRcks3c25ZZXN6Qm9IRnd6b05IY1No?oc=5)
+
+---
+

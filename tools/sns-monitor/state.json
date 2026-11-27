@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T08:11:15.405Z",
+  "lastCheckedAt": "2026-11-27T08:21:16.585Z",
   "seenPostIds": {
-    "e5903acf5a8ed0391d46b8a2bc9bfb1f5f599a6a7e9a9d3010179437bba63b04": {
-      "seenAt": "2026-11-25T03:21:19.890Z",
-      "title": "[기획특집_세계를 움직이는 정상들이 뉴스보다 먼저 띄운 말, \"아침을 여는 SNS 소통 메시지\"④] 이재명 “역사 교정 계속”, 모디는 갠지스 찬가, 유엔은 AI 안전, 짐바브웨는 여성폭력 근절 촉구 - STN SPORTS",
-      "targetName": "이재명"
-    },
-    "36c63a90503387ebf9b68f83b758ddea079927e84a63559988a84ed1bc8cfd26": {
-      "seenAt": "2026-11-25T03:31:15.880Z",
-      "title": "송영길 \"이 대통령, 정청래 억울함 4시간 들어\"‥정 \"입 조심하라\" - MBC 뉴스",
-      "targetName": "정청래"
-    },
     "890bb2ea6dde29e56e54b2f05328786525935ab255ee5b4e323e18aee4ba388e": {
       "seenAt": "2026-11-25T03:31:16.529Z",
       "title": "정청래, 송영길에 '2차 공세'…與 신천지 내홍, 내년 4월까지 이어지나 - 한국경제",
@@ -2510,14 +2500,29 @@
       "seenAt": "2026-11-27T08:11:17.553Z",
       "title": "Trump Demands Probe Into ‘Fake’ Economic Figures - Time Magazine",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "49098cda5528c929dc207c0510ca0fed18e798845883454de37cca1d0143a148": {
+      "seenAt": "2026-11-27T08:21:18.051Z",
+      "title": "한동훈 \"공익제보자 색출 압수수색… 치졸한 정권\" | - 뉴스클레임",
+      "targetName": "한동훈"
+    },
+    "5da9eef8d0f429ef856a246c8801c4fb9eab51c2237f2be5d4158450c6975d67": {
+      "seenAt": "2026-11-27T08:21:18.803Z",
+      "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외일 수 없어\" - 머니투데이 - 머니투데이",
+      "targetName": "정청래"
+    },
+    "85dea5879b371f0a3606a650695692d26d8d0ddbe3816004caa92be88ee59821": {
+      "seenAt": "2026-11-27T08:21:19.502Z",
+      "title": "이준석\"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐\" - 부산파이낸셜뉴스",
+      "targetName": "이준석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "851f2c01843e1dafbae46c0538ef4d056e243af727280d12cc81921bb59c9455",
-    "title": "Trump Demands Probe Into ‘Fake’ Economic Figures - Time Magazine",
+    "postId": "85dea5879b371f0a3606a650695692d26d8d0ddbe3816004caa92be88ee59821",
+    "title": "이준석\"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐\" - 부산파이낸셜뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45963707983",
-    "sentAt": "2026-11-27T08:11:17.190Z"
+    "runId": "45964970939",
+    "sentAt": "2026-11-27T08:21:19.146Z"
   }
 }
