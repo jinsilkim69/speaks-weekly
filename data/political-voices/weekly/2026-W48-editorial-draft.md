@@ -13313,3 +13313,16 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 친청계, 최민희 중징계에 일제히 반발…정청래 "김민석 '반·분·신' 해당행위는?" - 뉴시스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 친청계, 최민희 중징계에 일제히 반발…정청래 "김민석 '반·분·신' 해당행위는?"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xclkwWWh0ek43UzhMZUR2Z1RsdTNnb1JrVDBNQmZDZ1FMTzhVZHowV2ZtTWU2RU9jLXBhbXF0VUY5Uk1PYnlxS2JoRVNnaFoyMXRGLUVuZDBUeUQtWGk0M9IBeEFVX3lxTE95ZmVvYUt0aHc2MVFWNFhFTVBsMGlubWdhdDg3eFpWYUF6SWdkTFhHRWJKVWZDc002NHFVZi1Bb2F6aFJhQnZHVTdSTDN3T3RwejUyMlNUcGNFSGk3VEwtLU51OGMzWVdyZGJrX1I3YjJVTUhYSVZNbQ?oc=5)
+
+---
+
