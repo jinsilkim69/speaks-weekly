@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T13:21:13.881Z",
+  "lastCheckedAt": "2026-11-27T13:31:14.574Z",
   "seenPostIds": {
     "4c33b1e119b68b69b808ec12abb85ba12f0ce8dd28bbee4d8337b60bd5cd8d6b": {
       "seenAt": "2026-11-25T06:11:19.604Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-27T13:11:15.316Z",
       "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색 - KBS 뉴스",
       "targetName": "한동훈"
+    },
+    "b0b5e18221ea9edae3b18a71f10564dd877cb42a505ef64d0d278a342411f250": {
+      "seenAt": "2026-11-27T13:31:15.926Z",
+      "title": "[단독] '검찰 내부문건'을 한동훈에?‥\"유출자 찾는다\" 압수수색 - MBC 뉴스",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "05c38caa558731aa477512c65018646f76ffd84cce07f74af6a0b4de9b3aea6a",
-    "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색 - KBS 뉴스",
+    "postId": "b0b5e18221ea9edae3b18a71f10564dd877cb42a505ef64d0d278a342411f250",
+    "title": "[단독] '검찰 내부문건'을 한동훈에?‥\"유출자 찾는다\" 압수수색 - MBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "46004895312",
-    "sentAt": "2026-11-27T13:11:14.812Z"
+    "runId": "46007769439",
+    "sentAt": "2026-11-27T13:31:15.220Z"
   }
 }
