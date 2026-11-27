@@ -13625,3 +13625,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 중징계에 김민석도 징계 심사…與, 내홍 출구는 - 더팩트
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 중징계에 김민석도 징계 심사…與, 내홍 출구는
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xVF9mTmxQWkM1UGNDLTFiVUhZSTdzTFBGU3pleS1maFNfQUFzcEMtMG9TOVNCQWNkeDNkU1k2UTNwU3pRNGFNdWkxajlweUlOMGlN0gFTQVVfeXFMTzFUX2ZObFBaQzVQY0MtMWJVSFlJN3NMUEZTemV5LWZoU19BQXNwQy0wb1M5U0JBY2R4M2RTWTZRM3BTelE0YU11aTFqOXB5SU4waU0?oc=5)
+
+---
+
