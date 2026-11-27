@@ -13092,3 +13092,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색 - KBS 뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRbjBhNzNNN1NwMFVld25qNUVTRUVaTUF1MXZkT1dfVF9sN3oyVERDNHF1MnhWY1JtcnZGZU56ZWtaM1dmLUJPZUdQQlNvOElxa09GZEdqUzVSYWNIOFB2MHBzcUFFZw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** '최민희 중징계'에 친청계 "김민석은?"…與계파갈등 벼랑끝으로 - 연합뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '최민희 중징계'에 친청계 "김민석은?"…與계파갈등 벼랑끝으로
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uTWZSeXVNWU1Xb29HWEk4eWUwZE9DRWg0N3hSeThpZE1NQlZoeWxMRllaWEMzS3dUR2tFRG4ySm1fRUtfUUk5eGYzWHFnNkdqWWZVeHg2S2VuQXPSAWBBVV95cUxOWFlOeUVvWkpKU0lXRzhrNnI4TUczQ1VKQ3JLRVVnTmYwQkhBcF9MZ0t3RUlKb2hobVoxNV9INWJzWE1uY3huaWZkdUhnbmVFMlZHSFhNRlduWm5HZjBBUzQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주당 윤리심판원, 최민희에 당직자격정지 이상 '중징계' 의결 : 김민석 징계 청원도 심사한다 - 허프포스트코리아
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 윤리심판원, 최민희에 당직자격정지 이상 '중징계' 의결 : 김민석 징계 청원도 심사한다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jRjhza1owbHB2alB0TEhXRkk3dVZDSUNWMTJKMGhwanJPTzdYN09BRENPTmJnSy1NYkVNdmFFNlVKLUVFTWJxeWU5QllHbGd1d2tpVjN3NA?oc=5)
+
+---
+

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T10:31:14.802Z",
+  "lastCheckedAt": "2026-11-27T10:41:18.362Z",
   "seenPostIds": {
-    "c4b0f7606c475f78e02a4bdccca00b10f4834a010ef6e8627b6d36e1f769bc30": {
-      "seenAt": "2026-11-25T04:41:17.361Z",
-      "title": "[핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박 - 채널A",
-      "targetName": "김민석"
-    },
-    "abe697f6293534412ef340fc1c5145b25ba7e4e2c0585e217a2f67a924f9c85b": {
-      "seenAt": "2026-11-25T04:41:18.005Z",
-      "title": "민주당, 김민석 취임 100일에도 내홍 격화…친명·친청 ‘부역자 발언’ 정면충돌 - 데일리저널",
-      "targetName": "김민석"
-    },
-    "f13013b9d376d9eb8d58fabde14e62b5cef351bc86e097fa7322be09bc3b55a4": {
-      "seenAt": "2026-11-25T04:41:18.620Z",
-      "title": "정청래 \"입 싼 송영길과는 말 섞고 싶지 않다\"…李대통령 만찬 공개에 발끈 - 매일신문",
-      "targetName": "송영길"
-    },
     "bd426e049fa33dc6145bdd0824633af071131a0ecf8b112fdb842de1e4e68003": {
       "seenAt": "2026-11-25T04:51:25.814Z",
       "title": "이재명 대통령, 5·18 진압 경찰 서훈 취소 “당연한 조치” - 시사위크",
@@ -2515,14 +2500,46 @@
       "seenAt": "2026-11-27T10:31:17.319Z",
       "title": "김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발' [자막뉴스] - YTN",
       "targetName": "한동훈"
+    },
+    "312d8d8100683be3dcef2be8cd7b08941b9f0a8506fca0a95177b7c36bd29912": {
+      "seenAt": "2026-11-27T10:41:19.687Z",
+      "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색 - KBS 뉴스",
+      "targetName": "한동훈"
+    },
+    "06a3355804455ac779a844a6ef2fd74827faaaa5c6d05777c842178975e30ee6": {
+      "seenAt": "2026-11-27T10:41:20.401Z",
+      "title": "'최민희 중징계'에 친청계 \"김민석은?\"…與계파갈등 벼랑끝으로 - 연합뉴스",
+      "targetName": "김민석"
+    },
+    "cafe96b62b7f0ca1d62bb69344d1970d35362baf8e8771f8a9dd8dba692edd42": {
+      "seenAt": "2026-11-27T10:41:21.452Z",
+      "title": "민주당 윤리심판원, 최민희에 당직자격정지 이상 '중징계' 의결 : 김민석 징계 청원도 심사한다 - 허프포스트코리아",
+      "targetName": "김민석"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "759e35b921b6f48279670dcdd2dcfd08cfd3c77087b5901481edd604414cec3d",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "최민희 ‘당원권 정지 2년’ 최고위원직 박탈…정청래 강력 반발 - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WMUJuMjdxRzBsMkpjVUc5RmZIOURFRGgwSU1qZ0R2Y0cyeVFFMDNMQlVRb2EyUEpoOXY2eWsxdXoxLW85aU1mNEtSWDluMm1yY2dJUHl3?oc=5\" target=\"_blank\">최민희 ‘당원권 정지 2년’ 최고위원직 박탈…정청래 강력 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WMUJuMjdxRzBsMkpjVUc5RmZIOURFRGgwSU1qZ0R2Y0cyeVFFMDNMQlVRb2EyUEpoOXY2eWsxdXoxLW85aU1mNEtSWDluMm1yY2dJUHl3?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 09:43:23 GMT",
+        "source": "중앙일보",
+        "ageHours": 1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "c6484fc1b841a10874c900dea9b585f65f7353b479f40be7092029ca5f4b70a8",
-    "title": "김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발' [자막뉴스] - YTN",
+    "postId": "cafe96b62b7f0ca1d62bb69344d1970d35362baf8e8771f8a9dd8dba692edd42",
+    "title": "민주당 윤리심판원, 최민희에 당직자격정지 이상 '중징계' 의결 : 김민석 징계 청원도 심사한다 - 허프포스트코리아",
     "bot": "jongsuk_pol_bot",
-    "runId": "45982748454",
-    "sentAt": "2026-11-27T10:31:16.980Z"
+    "runId": "45984148526",
+    "sentAt": "2026-11-27T10:41:20.748Z"
   }
 }
