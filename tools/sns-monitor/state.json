@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T07:31:22.145Z",
+  "lastCheckedAt": "2026-11-27T07:41:13.415Z",
   "seenPostIds": {
-    "c9e336708286f91dc3660828c5c7863e33f3fa08558f0e08ae4937927c41d8d9": {
-      "seenAt": "2026-11-25T03:01:23.302Z",
-      "title": "‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World] - 세계일보",
-      "targetName": "조국"
-    },
     "341f16fb409b5f105e2461522803509fa3499e6e12fbdd79ad37519ffba7c577": {
       "seenAt": "2026-11-25T03:11:15.389Z",
       "title": "이재명 대통령 \"마지막 한 명까지 역사교정\"… 경찰, 정부포상 10만건 전수조사 - 한국뉴스",
@@ -2505,14 +2500,46 @@
       "seenAt": "2026-11-27T07:31:23.707Z",
       "title": "정청래 \"당대표라도 징계 앞에 예외일 수 없어\" 김민석 직격 - 데일리안",
       "targetName": "정청래"
+    },
+    "4dda55cb5d1230d92a34b5b0553d78bba1c8c712ca6a344f93bf2b1d11665b36": {
+      "seenAt": "2026-11-27T07:41:14.740Z",
+      "title": "김승원 \"조선제일법꾸라지 한동훈 실체 밝힐 것\" - 뉴시스",
+      "targetName": "한동훈"
+    },
+    "300751cebb5b00d721f32ec2d2454d6cf1836f3f2d86a356b8eff9b4184bf6e4": {
+      "seenAt": "2026-11-27T07:41:15.400Z",
+      "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사 - YTN",
+      "targetName": "한동훈"
+    },
+    "0059795b2323e97c35e4af02650809f298c6ee4ce0efa3d881373bd5531b72eb": {
+      "seenAt": "2026-11-27T07:41:16.077Z",
+      "title": "김민석 민주당 대표 “민생 올인·사법 책임” - 브레이크뉴스",
+      "targetName": "김민석"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "e27e7a31891d283d932d23b0e6fcb8a5da4379a7b1f5ae91244d19cef574baa6",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "중진 만찬에도 불참한 정청래 \"화해 빙자한 몽둥이 찜질” [앵커리포트] - YTN",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yM3dOVjlWMnByOEJ4cHdQMEdkNDM1OC1uV25yQ2U0NnA5Z2tHUUttWWNFaDByM09UZ3pCTlY4MGo2dlp6SFhyNElQalF4NHZnRXRqaDhRejhuYkVsVmc?oc=5\" target=\"_blank\">중진 만찬에도 불참한 정청래 \"화해 빙자한 몽둥이 찜질” [앵커리포트]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yM3dOVjlWMnByOEJ4cHdQMEdkNDM1OC1uV25yQ2U0NnA5Z2tHUUttWWNFaDByM09UZ3pCTlY4MGo2dlp6SFhyNElQalF4NHZnRXRqaDhRejhuYkVsVmc?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 07:07:00 GMT",
+        "source": "YTN",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "88cdf5f6ddd2064920d995f269d6ec43a529b862a4560ef158f6212079e9bd13",
-    "title": "정청래 \"당대표라도 징계 앞에 예외일 수 없어\" 김민석 직격 - 데일리안",
+    "postId": "0059795b2323e97c35e4af02650809f298c6ee4ce0efa3d881373bd5531b72eb",
+    "title": "김민석 민주당 대표 “민생 올인·사법 책임” - 브레이크뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45958985481",
-    "sentAt": "2026-11-27T07:31:23.196Z"
+    "runId": "45960146615",
+    "sentAt": "2026-11-27T07:41:15.726Z"
   }
 }

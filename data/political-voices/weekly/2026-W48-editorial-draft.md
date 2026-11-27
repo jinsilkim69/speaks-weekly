@@ -12663,3 +12663,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김승원 "조선제일법꾸라지 한동훈 실체 밝힐 것" - 뉴시스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김승원 "조선제일법꾸라지 한동훈 실체 밝힐 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QSUVSMG1yWkIyNllQdXJZNDIzX1p5S3AwMzJuam9XS1BHYjJjOE9pVVdCbEVESG96bE5XMFhnX3gweElnSHN0TnhrVUNTSThmZ2FRek9hWl9ialBsUUhXMw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사 - YTN
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5YlFlYko4MzRLQUFlMzlXenRnRVRGUlZXS0FELXA2MU96RzhYSGcyN2dWMEdMXzM0dTJVT21SdUhXVnZ1Vm9wUUlHR0l4MEtTUUJILXplWmVNVnpxb0E?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 민주당 대표 “민생 올인·사법 책임” - 브레이크뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 민주당 대표 “민생 올인·사법 책임”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiQkFVX3lxTE9MZXNvXzdwWlUyek1UWW9zRERhMzV2OEJCVERKUWRHT1Vid0QzNlBNXzhZaU5VYnJXQTZxZTNnd2daUQ?oc=5)
+
+---
+
