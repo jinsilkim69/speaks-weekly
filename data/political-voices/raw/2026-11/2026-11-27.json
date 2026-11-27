@@ -4753,5 +4753,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b1b3891a713a97f1b6ef1c9c62c3038fa5c505b9d0c31bc4d7a1341805fe5bcd",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "정청래 “최민희가 중징계면 김민석 신천지 해당 행위는?” - 주간경향",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3eTVLZWllLWxyTmVqV3BZMmlJUlNTckttb1R3Y1BZNGJpMko3SWducHR3ZEdNcEJmMV9NTVBjOHlIWDJFWGExR1ZpUEVDLTg1bUVYVnJWTDZLY1ZUaFE?oc=5\" target=\"_blank\">정청래 “최민희가 중징계면 김민석 신천지 해당 행위는?”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">주간경향</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3eTVLZWllLWxyTmVqV3BZMmlJUlNTckttb1R3Y1BZNGJpMko3SWducHR3ZEdNcEJmMV9NTVBjOHlIWDJFWGExR1ZpUEVDLTg1bUVYVnJWTDZLY1ZUaFE?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 11:47:00 GMT",
+    "source": "주간경향",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래 “최민희가 중징계면 김민석 신천지 해당 행위는?”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

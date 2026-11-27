@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T11:41:20.970Z",
+  "lastCheckedAt": "2026-11-27T11:51:15.754Z",
   "seenPostIds": {
     "0b10790f6e01e6ad68f0a3c7230fae2404590c2e7da180e9d971251f343d0722": {
       "seenAt": "2026-11-25T05:31:15.973Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-27T11:31:20.692Z",
       "title": "Trump Raises Eyebrows With Two-Word Edit to Truth Social Post on Russia and Ukraine - The Daily Beast",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "b1b3891a713a97f1b6ef1c9c62c3038fa5c505b9d0c31bc4d7a1341805fe5bcd": {
+      "seenAt": "2026-11-27T11:51:17.171Z",
+      "title": "정청래 “최민희가 중징계면 김민석 신천지 해당 행위는?” - 주간경향",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "6fc827d92d85b6837a242eb5b72ef3af17b88535ed7d05688c71fc1359e7069f",
-    "title": "Trump Raises Eyebrows With Two-Word Edit to Truth Social Post on Russia and Ukraine - The Daily Beast",
+    "postId": "b1b3891a713a97f1b6ef1c9c62c3038fa5c505b9d0c31bc4d7a1341805fe5bcd",
+    "title": "정청래 “최민희가 중징계면 김민석 신천지 해당 행위는?” - 주간경향",
     "bot": "jongsuk_pol_bot",
-    "runId": "45991104275",
-    "sentAt": "2026-11-27T11:31:20.216Z"
+    "runId": "45993806095",
+    "sentAt": "2026-11-27T11:51:16.505Z"
   }
 }
