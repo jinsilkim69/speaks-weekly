@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T15:11:14.537Z",
+  "lastCheckedAt": "2026-11-27T15:21:13.894Z",
   "seenPostIds": {
     "0ebe61a9ab4ab4bb76d99250dd32a2f1081ce2b4d4ce7a8c72383d81c67d2d7b": {
       "seenAt": "2026-11-25T06:51:15.991Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-27T15:01:24.916Z",
       "title": "Trump rails against critics on Thanksgiving as approval remains low - The Providence Journal",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "c638c392289342f88ef0be95b6d2b1c2ae78a8e05bab158c4d4326e11a39b0bd": {
+      "seenAt": "2026-11-27T15:21:14.958Z",
+      "title": "[단독] '검찰 내부문건'을 한동훈에?‥\"유출자 찾는다\" 압수수색 - MBC 뉴스",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3e9839bd062df800f13440740bb1bf53daa5de0a263a15f88cbff9c9fc4a1149",
-    "title": "Trump rails against critics on Thanksgiving as approval remains low - The Providence Journal",
+    "postId": "c638c392289342f88ef0be95b6d2b1c2ae78a8e05bab158c4d4326e11a39b0bd",
+    "title": "[단독] '검찰 내부문건'을 한동훈에?‥\"유출자 찾는다\" 압수수색 - MBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "46021071992",
-    "sentAt": "2026-11-27T15:01:24.243Z"
+    "runId": "46024113028",
+    "sentAt": "2026-11-27T15:21:14.460Z"
   }
 }

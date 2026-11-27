@@ -23,5 +23,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c638c392289342f88ef0be95b6d2b1c2ae78a8e05bab158c4d4326e11a39b0bd",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "[단독] '검찰 내부문건'을 한동훈에?‥\"유출자 찾는다\" 압수수색 - MBC 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE81TEFrbkpsR0dxTFFaOTVrVDRZX2hqU1VPbzM1akRFYlhYUW5vbUR0N2JUUmZhd1lhRlRMVVpWeGhxNW01dm84eS1VbjFUblhUYi16WUNhNTlFdlV2aDlBNGw5d3pNa0tua1hIMktqMHF2YzM0QzZwTg?oc=5\" target=\"_blank\">[단독] '검찰 내부문건'을 한동훈에?‥\"유출자 찾는다\" 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81TEFrbkpsR0dxTFFaOTVrVDRZX2hqU1VPbzM1akRFYlhYUW5vbUR0N2JUUmZhd1lhRlRMVVpWeGhxNW01dm84eS1VbjFUblhUYi16WUNhNTlFdlV2aDlBNGw5d3pNa0tua1hIMktqMHF2YzM0QzZwTg?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 11:10:37 GMT",
+    "source": "MBC 뉴스",
+    "ageHours": 4.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '검찰 내부문건'을 한동훈에?‥\"유출자 찾는다\" 압수수색",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
