@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T02:31:15.125Z",
+  "lastCheckedAt": "2026-11-27T02:41:13.237Z",
   "seenPostIds": {
-    "250d5cdab5080d527fb71e28fa3b8f9ec17608faa2af832cb7a071b1031fb891": {
-      "seenAt": "2026-11-24T21:01:17.412Z",
-      "title": "Trump nominates North Carolina prosecutor who lost re-election to become judge - Reuters",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "1973c4f30a71a9f9b9ca4d52b7ae87189607d1aa173dbdd86388ace93e6be6a3": {
-      "seenAt": "2026-11-24T21:21:16.616Z",
-      "title": "취임 1년 5개월, 이재명 대통령이 가장 열심히 한 일은? - 최보식의언론",
-      "targetName": "이재명"
-    },
-    "5ae7a469d1664308597aff2316c5e2d72248e8d73966b7998f7c266310582b2d": {
-      "seenAt": "2026-11-24T21:31:16.107Z",
-      "title": "조국혁신당 '조희대 탄핵' - 뉴스핌",
-      "targetName": "조국"
-    },
     "cea36f3a4979277611ac08ae2f76363d23799e360ba38103554eb3f0e52db30b": {
       "seenAt": "2026-11-24T21:41:29.964Z",
       "title": "Donald Trump’s Eyebrow-Raising Gift To Every Member Of His Cabinet Revealed - HuffPost",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-27T02:31:17.490Z",
       "title": "‘내부자료 유출’ 의혹에 공소청 압수수색 들어간 경찰…한동훈 \"국무회의서 잘못된 교육 받았나\" - JTBC",
       "targetName": "한동훈"
+    },
+    "683b7fc306ca23d5674abd5aa822a3d31d39cb54ca2b97dd1072333d5ea9b93f": {
+      "seenAt": "2026-11-27T02:41:14.482Z",
+      "title": "“여당의 대법원장 탄핵은 해외 토픽감”…천하람, 민주당에 던진 경고 [요즘여의섬] - 매일경제",
+      "targetName": "천하람"
+    },
+    "8984b7bfffacb90bbafc3f07e788f93c134a73f250608b8c507b81b46d50f63b": {
+      "seenAt": "2026-11-27T02:41:15.110Z",
+      "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 등 압수수색 - 한겨레",
+      "targetName": "한동훈"
+    },
+    "c1f033705cce7f8f7bffa72d96e8d961ee150ba6520e8921f1652d9133fb28d7": {
+      "seenAt": "2026-11-27T02:41:15.749Z",
+      "title": "[속보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "683b7fc306ca23d5674abd5aa822a3d31d39cb54ca2b97dd1072333d5ea9b93f",
-        "targetId": "cheon_haram",
-        "targetName": "천하람",
-        "targetTitle": "개혁신당 원내대표",
-        "title": "“여당의 대법원장 탄핵은 해외 토픽감”…천하람, 민주당에 던진 경고 [요즘여의섬] - 매일경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtQWVINE14a3NoV0NCYkt2UHM1WGRfdGVnZTNOWTRXTmpTV3JocTI3SWtsbDk3d09YUjBOZFJwdjhreGlFWlpGUE9xM0gteV94RjdtanpB?oc=5\" target=\"_blank\">“여당의 대법원장 탄핵은 해외 토픽감”…천하람, 민주당에 던진 경고 [요즘여의섬]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtQWVINE14a3NoV0NCYkt2UHM1WGRfdGVnZTNOWTRXTmpTV3JocTI3SWtsbDk3d09YUjBOZFJwdjhreGlFWlpGUE9xM0gteV94RjdtanpB?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 02:05:58 GMT",
-        "source": "매일경제",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "8984b7bfffacb90bbafc3f07e788f93c134a73f250608b8c507b81b46d50f63b",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 등 압수수색 - 한겨레",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5kVTFoaGlkOFIwRlg5MjhuR2FoREhfU2x1M1EzbU9Ec2xwYmV0R0ZHQU5JRzlDYkphUVJZU1BnaUpqZkc3d05YZ2l1anMyaGpuZXNQNmh1LWtqRUExTElPOFhERVF1VE43Y001VlhMSFU3QQ?oc=5\" target=\"_blank\">경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 등 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kVTFoaGlkOFIwRlg5MjhuR2FoREhfU2x1M1EzbU9Ec2xwYmV0R0ZHQU5JRzlDYkphUVJZU1BnaUpqZkc3d05YZ2l1anMyaGpuZXNQNmh1LWtqRUExTElPOFhERVF1VE43Y001VlhMSFU3QQ?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 02:19:00 GMT",
-        "source": "한겨레",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "c1f033705cce7f8f7bffa72d96e8d961ee150ba6520e8921f1652d9133fb28d7",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "[속보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBxd20yeTcyaHhlR0c3c3dEOV9KVkNJTTJjNUJXRE5xc3JJeEY2ME1jYU9fTXRuZXlmMS1ZbUVBYlFhQlotZ3NFS2xZT2U2LWNUa1F0T0JqUS1OYVhOU1A3ZmhXSzRnYmxwQkhBbGl6eVPSAXBBVV95cUxQcXdtMnk3Mmh4ZUdHN3N3RDlfSlZDSU0yYzVCV0ROcXNySXhGNjBNY2FPX010bmV5ZjEtWW1FQWJRYUJaLWdzRUtsWU9lNi1jVGtRdE9CalEtTmFYTlNQN2ZoV0s0Z2JscEJIQWxpenlT?oc=5\" target=\"_blank\">[속보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxd20yeTcyaHhlR0c3c3dEOV9KVkNJTTJjNUJXRE5xc3JJeEY2ME1jYU9fTXRuZXlmMS1ZbUVBYlFhQlotZ3NFS2xZT2U2LWNUa1F0T0JqUS1OYVhOU1A3ZmhXSzRnYmxwQkhBbGl6eVPSAXBBVV95cUxQcXdtMnk3Mmh4ZUdHN3N3RDlfSlZDSU0yYzVCV0ROcXNySXhGNjBNY2FPX010bmV5ZjEtWW1FQWJRYUJaLWdzRUtsWU9lNi1jVGtRdE9CalEtTmFYTlNQN2ZoV0s0Z2JscEJIQWxpenlT?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 00:54:02 GMT",
-        "source": "머니투데이",
-        "ageHours": 1.6
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "d571eef35077f9a3963df9ec24b12252543fb8d18c35450fb96761110045c137",
@@ -2581,13 +2533,77 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "22fbbdbd951ed2f0e43d6dd6daf39c4c6f3ea9086d533ce1afa65fc662d3b2f3",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 \"경찰은 민주당의 지팡이\"‥공소청 압수수색에 반발 - MBC 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9fV2VTcXd2eEpXdlhmSGdhc0FhNVcxUlczc0w2TGZ2aXNXRlZTYzN3cVAwUDAwSHM0aXZ1NTMwTk0xalJRRFNrWWJRaFFIRExEYy1iUXJVc19HWnkzWFgwUm9mRlhGUzR6d1BXWUczSUZORkdKRzFUR9IBeEFVX3lxTFBYamVnMmV0TVdRTkRGV3lFb0tlTUNpd0lWWlZxZUFiejFTaHptLV9hWU5rZ2h1SGRZeFd2MjhEN1NYdU1ubXB2SmVZSWY3Y2ZJdzVvRHg5bl9od2tiR3lOOUljWE9sMmN4YU1iUFh2R19WXzRjYWxZQQ?oc=5\" target=\"_blank\">한동훈 \"경찰은 민주당의 지팡이\"‥공소청 압수수색에 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fV2VTcXd2eEpXdlhmSGdhc0FhNVcxUlczc0w2TGZ2aXNXRlZTYzN3cVAwUDAwSHM0aXZ1NTMwTk0xalJRRFNrWWJRaFFIRExEYy1iUXJVc19HWnkzWFgwUm9mRlhGUzR6d1BXWUczSUZORkdKRzFUR9IBeEFVX3lxTFBYamVnMmV0TVdRTkRGV3lFb0tlTUNpd0lWWlZxZUFiejFTaHptLV9hWU5rZ2h1SGRZeFd2MjhEN1NYdU1ubXB2SmVZSWY3Y2ZJdzVvRHg5bl9od2tiR3lOOUljWE9sMmN4YU1iUFh2R19WXzRjYWxZQQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:54:41 GMT",
+        "source": "MBC 뉴스",
+        "ageHours": 0.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "eeff203cc73b1b54053bf1c3123e6c82036085f063f24acbe6cf575edf566890",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈 \"경찰, 민주당 지팡이 자처…돌아가도 국민만 보고 할 것\" - 이데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmx3UWhTU3JNWVRGdDQ4dzV0YUtlbU14V0Faa0c1Mk13dEQ5dms5MUxMdXRsZ0dTbHRCTkphUUk5Q3lDUnpQNFVFZElDSTlLbE1WNl9IcnVaYmhSWkNIME5oeGJ1U1ozcldpQ0FSemJUNi1UR1Z3bDFWT3VBWmdBRg?oc=5\" target=\"_blank\">한동훈 \"경찰, 민주당 지팡이 자처…돌아가도 국민만 보고 할 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmx3UWhTU3JNWVRGdDQ4dzV0YUtlbU14V0Faa0c1Mk13dEQ5dms5MUxMdXRsZ0dTbHRCTkphUUk5Q3lDUnpQNFVFZElDSTlLbE1WNl9IcnVaYmhSWkNIME5oeGJ1U1ozcldpQ0FSemJUNi1UR1Z3bDFWT3VBWmdBRg?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 02:26:55 GMT",
+        "source": "이데일리",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2488979a7d458bcaf9613519e63c53849d3eb9cadd0dae9819886bedf71a85a6",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "중진 회동에도 불참한 정청래…최민희 징계심의 후폭풍은 - 매일경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE85Ni1jWGdzaGxfS0tfLV9rTEtoVUo2QlRwaGk2QUJQOG50X3BSa2dWMWc5UGsxRzdLSlpBN3VCRUp3dnktUWJQblhacFlXNlkwSzYzWEt3?oc=5\" target=\"_blank\">중진 회동에도 불참한 정청래…최민희 징계심의 후폭풍은</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85Ni1jWGdzaGxfS0tfLV9rTEtoVUo2QlRwaGk2QUJQOG50X3BSa2dWMWc5UGsxRzdLSlpBN3VCRUp3dnktUWJQblhacFlXNlkwSzYzWEt3?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 00:49:16 GMT",
+        "source": "매일경제",
+        "ageHours": 1.9
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "81ac3b0d33ef3902ac084cce47ba2072676d73e6e8ba238e69d4324168817142",
+        "targetId": "lee_junseok",
+        "targetName": "이준석",
+        "targetTitle": "개혁신당 의원",
+        "title": "“오세훈 한동훈 이준석 저 씹다 찌그러져” 국민의힘 前 윤리위원들 또 폭로 [자막뉴스] - 채널A",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMUpZS2lfUWJiaTFuMGRRdmxGZmlva011RWFUT3YxemlTdTk5TGVqSmZkejA0YXRMYTl5QTVKa3R3N1BJeFFjZV9peGtjOXNVZUNidlEybWpGOG1VOFHSAWNBVV95cUxORXNyYVNPVENrdWQxSzZ6endseDhMdTZtRzNLc1NNSnYyTnV6Nm91ZkVpVkFReTdaY24tMndtN1JUTXZDa1B2My13MFZ4em5UUmRFNXBNejBsVEdRNXdWNUhIeTQ?oc=5\" target=\"_blank\">“오세훈 한동훈 이준석 저 씹다 찌그러져” 국민의힘 前 윤리위원들 또 폭로 [자막뉴스]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMUpZS2lfUWJiaTFuMGRRdmxGZmlva011RWFUT3YxemlTdTk5TGVqSmZkejA0YXRMYTl5QTVKa3R3N1BJeFFjZV9peGtjOXNVZUNidlEybWpGOG1VOFHSAWNBVV95cUxORXNyYVNPVENrdWQxSzZ6endseDhMdTZtRzNLc1NNSnYyTnV6Nm91ZkVpVkFReTdaY24tMndtN1JUTXZDa1B2My13MFZ4em5UUmRFNXBNejBsVEdRNXdWNUhIeTQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 02:28:00 GMT",
+        "source": "채널A",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "321ec6d12f5060748ab15797119cf665edfec67023bc53ab778e54cce46f2ada",
-    "title": "‘내부자료 유출’ 의혹에 공소청 압수수색 들어간 경찰…한동훈 \"국무회의서 잘못된 교육 받았나\" - JTBC",
+    "postId": "c1f033705cce7f8f7bffa72d96e8d961ee150ba6520e8921f1652d9133fb28d7",
+    "title": "[속보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45928783964",
-    "sentAt": "2026-11-27T02:31:17.175Z"
+    "runId": "45929767559",
+    "sentAt": "2026-11-27T02:41:15.428Z"
   }
 }
