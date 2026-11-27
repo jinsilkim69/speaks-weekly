@@ -12390,3 +12390,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 민주당 중진 12명 만찬에도 김민석·정청래 불참…정청래 “화해 빙자한 몽둥이 찜질” - 뉴스코리아
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 중진 12명 만찬에도 김민석·정청래 불참…정청래 “화해 빙자한 몽둥이 찜질”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dUFwYldyeVo5bVBDSVJaVGhqSG1oSnRWUkYtNDJuNWhVOGl6RTNUcG1MWk9RU1JEUFhFLW5mcURTaF9QZnFJMFpOTUJGcGtGR1BxdU5wTGtyNUFaZ3FfcTk1b0gxUFg4Y3lWVkNB?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색 - KBS 뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE80ZWJKN21sMjNCcUpmcVZDSHY1TWtUS3BJQ3BhTFBlQVZiMGFlOTJtNkJhRjVxNGpnV0QxVnc1ZUdmeE9jU1NDam9VZUwtZnpJcEJuNVE3Z1dHRVk?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "공익제보자 색출 압수수색… 치졸한 정권" - 뉴스클레임
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "공익제보자 색출 압수수색… 치졸한 정권"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdldpOFZUcGhOdFZjT0xCV3MzSnZiS3Fpd0ZmSVh0dWhORXNSY3dvRnpybzdRTlFDOU1RVXg5aV9VN1g0WkxuT21KMjZ4VGoyQk5JUDV1YVRDWDN5MHJZZUZhZXQ2NDhrdzc4TFh0ZDg?oc=5)
+
+---
+
