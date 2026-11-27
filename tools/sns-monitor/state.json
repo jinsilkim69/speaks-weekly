@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T06:41:15.410Z",
+  "lastCheckedAt": "2026-11-27T06:51:15.689Z",
   "seenPostIds": {
-    "b5f784c32c551ddd960cfcbd462103cdf45da8bd31d35f6ea9c808ff27f4414e": {
-      "seenAt": "2026-11-25T02:31:16.388Z",
-      "title": "김민석, ‘조희대 탄핵’ 5당 연대 공식 제안…신장식 “환영” - 헤럴드경제",
-      "targetName": "신장식"
-    },
-    "d7ae1efdb581a34205b4662362b5323d4d575a7209409f268339709a39ee7be5": {
-      "seenAt": "2026-11-25T02:31:17.008Z",
-      "title": "한동훈, '조희대 탄핵' 의원직 걸었다…\"서영교·박선원, 걸어보라\" - 조세일보",
-      "targetName": "한동훈"
-    },
-    "d0b9cad555d5340ffc7fd04fe1771e8fda7d7916ec310d8bc00ba56d983d2f93": {
-      "seenAt": "2026-11-25T02:31:17.641Z",
-      "title": "한동훈 \"정치적 해결 단계 지났다\"... 장동혁에 '법적 대응' 열어둬 - OhmyNews",
-      "targetName": "한동훈"
-    },
     "c9a3cf20c097a2daec244a1225cb567342ae095399082c24e1af3ae03778ddc5": {
       "seenAt": "2026-11-25T02:41:17.368Z",
       "title": "정청래, 송영길에 공개 경고…“대통령과 대화 내용 발설 말라” - 진일보 | 전남일보",
@@ -2515,63 +2500,46 @@
       "seenAt": "2026-11-27T06:41:18.328Z",
       "title": "한동훈, '김승원 자료유출 의혹' 압수수색에 \"경찰, 與 지팡이 자처\" - 뉴시스",
       "targetName": "한동훈"
+    },
+    "96bdc8d969c5e32306b4ce02bf1126e8e90a68af0514364dde433b2e4c5a33d7": {
+      "seenAt": "2026-11-27T06:51:17.162Z",
+      "title": "한동훈, 압수수색에 \"치졸한 정권\"…김승원 \"책임 받아야\" - 신아일보",
+      "targetName": "한동훈"
+    },
+    "1cbb1c12b8c12d994899ce8b013e5fd9718baca6de9fe3007acdc3a09304df1d": {
+      "seenAt": "2026-11-27T06:51:17.911Z",
+      "title": "일본서 입국 거부당한 조국, 독도로 향한다…12월 7일 울릉 방문 추진 - 영남일보",
+      "targetName": "조국"
+    },
+    "1bdf1ebb60f1f1e71885d9e36a638a2d2be5a9fd59e59afd75ebedf313b30f0f": {
+      "seenAt": "2026-11-27T06:51:18.653Z",
+      "title": "신장식 \"조희대 탄핵안, 12월2일 본회의서 보고하자…與 일정 견해차\" - 부산파이낸셜뉴스",
+      "targetName": "신장식"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "96bdc8d969c5e32306b4ce02bf1126e8e90a68af0514364dde433b2e4c5a33d7",
+        "id": "6a09d7f43fd8503286215262b56b520c73726175d2eeb6856b6c4eb4bd72a6f4",
         "targetId": "han_donghoon",
         "targetName": "한동훈",
         "targetTitle": "국민의힘 대표",
-        "title": "한동훈, 압수수색에 \"치졸한 정권\"…김승원 \"책임 받아야\" - 신아일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB0alV5bWZvZHV5MTB5TFhHTW9CWmRLSVFiNC1PdHNTUVpKMnMtZzEtV09JOW94VXVGUWNZdG12dnRmSmx1aS0yWFFwWU0tSkRGbnFNM0dMMFR2dVgxbVpnTi1EMzhmZ0Y1b3pHYmtVVkU?oc=5\" target=\"_blank\">한동훈, 압수수색에 \"치졸한 정권\"…김승원 \"책임 받아야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">신아일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0alV5bWZvZHV5MTB5TFhHTW9CWmRLSVFiNC1PdHNTUVpKMnMtZzEtV09JOW94VXVGUWNZdG12dnRmSmx1aS0yWFFwWU0tSkRGbnFNM0dMMFR2dVgxbVpnTi1EMzhmZ0Y1b3pHYmtVVkU?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 06:25:28 GMT",
-        "source": "신아일보",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "1cbb1c12b8c12d994899ce8b013e5fd9718baca6de9fe3007acdc3a09304df1d",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "일본서 입국 거부당한 조국, 독도로 향한다…12월 7일 울릉 방문 추진 - 영남일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9uUVM4U3JZVDBsZGFpWlozWEFRVEhFa1pVa2ZCd2Ziekw1M2pCcWplOVJnS2lCN3F6Y0NfSXNjWkdobGg2TXlNTXE4TW52LWJTSXp0OVNmYU5JVXRxZlBEUDFDSlFzNHpBS3ZZ?oc=5\" target=\"_blank\">일본서 입국 거부당한 조국, 독도로 향한다…12월 7일 울릉 방문 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">영남일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uUVM4U3JZVDBsZGFpWlozWEFRVEhFa1pVa2ZCd2Ziekw1M2pCcWplOVJnS2lCN3F6Y0NfSXNjWkdobGg2TXlNTXE4TW52LWJTSXp0OVNmYU5JVXRxZlBEUDFDSlFzNHpBS3ZZ?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 05:32:33 GMT",
-        "source": "영남일보",
-        "ageHours": 1.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "1bdf1ebb60f1f1e71885d9e36a638a2d2be5a9fd59e59afd75ebedf313b30f0f",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 \"조희대 탄핵안, 12월2일 본회의서 보고하자…與 일정 견해차\" - 부산파이낸셜뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBteEhibzNUTUVXMUxONS1xRmtIQnlJaS1HLXlmTkVUQWV0TC04RTNZMFhabFZfUy1IOTFkUTNPUHRaUkJac2FhTFNXWDY1eUc3RW4tT2RKSjBKbFU5?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵안, 12월2일 본회의서 보고하자…與 일정 견해차\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산파이낸셜뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBteEhibzNUTUVXMUxONS1xRmtIQnlJaS1HLXlmTkVUQWV0TC04RTNZMFhabFZfUy1IOTFkUTNPUHRaUkJac2FhTFNXWDY1eUc3RW4tT2RKSjBKbFU5?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 00:34:00 GMT",
-        "source": "부산파이낸셜뉴스",
-        "ageHours": 6.1
+        "title": "김승원 \"韓 철저히 수사해야\"…한동훈 \"金을 수사해야\" - 한국경제",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kcGlVNzJ4Q0tSRzRvZVVFNFQ4N09La0phRkVNMkEtZmtBMk5YZllzT1dPZnpJdU8wNFNBdkd0MTlvUGdNcC16YkJUcWhaWEZlUU9hWUx0MmR0UQ?oc=5\" target=\"_blank\">김승원 \"韓 철저히 수사해야\"…한동훈 \"金을 수사해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한국경제</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kcGlVNzJ4Q0tSRzRvZVVFNFQ4N09La0phRkVNMkEtZmtBMk5YZllzT1dPZnpJdU8wNFNBdkd0MTlvUGdNcC16YkJUcWhaWEZlUU9hWUx0MmR0UQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 06:40:15 GMT",
+        "source": "한국경제",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "6e007430f560283600762a2cac4df279171795f9c03fd1a45cb5ad30daa46c9f",
-    "title": "한동훈, '김승원 자료유출 의혹' 압수수색에 \"경찰, 與 지팡이 자처\" - 뉴시스",
+    "postId": "1bdf1ebb60f1f1e71885d9e36a638a2d2be5a9fd59e59afd75ebedf313b30f0f",
+    "title": "신장식 \"조희대 탄핵안, 12월2일 본회의서 보고하자…與 일정 견해차\" - 부산파이낸셜뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45953419902",
-    "sentAt": "2026-11-27T06:41:17.962Z"
+    "runId": "45954509995",
+    "sentAt": "2026-11-27T06:51:18.274Z"
   }
 }
