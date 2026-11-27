@@ -373,5 +373,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "e256c92e0c76339f9a94a57c3b0c43e7a5aa602b6d606e75fb5a484c75b8ae5f",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "최민희, 중징계 의결에 “재심 신청”…정청래 “납득 못해” - 서울Pn",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnJQWFNhYVJnZlh4YmM1Mm81UGpfaU4za096YmY5ZU9KZzRVOGtyWXZLSUNOdmtFRVU2RFRNZ1NoekZxcUVSY2VVbTlaeml6V0tMSnZMWWpLT1VDQTZBOWt6S3ZBQ2tkLUFnckFqMFlHWUNTZ0RyZXl3X2t2aFlrTG50bXpQNnU3amQtS0FraEo5Wlk?oc=5\" target=\"_blank\">최민희, 중징계 의결에 “재심 신청”…정청래 “납득 못해”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울Pn</font>",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnJQWFNhYVJnZlh4YmM1Mm81UGpfaU4za096YmY5ZU9KZzRVOGtyWXZLSUNOdmtFRVU2RFRNZ1NoekZxcUVSY2VVbTlaeml6V0tMSnZMWWpLT1VDQTZBOWt6S3ZBQ2tkLUFnckFqMFlHWUNTZ0RyZXl3X2t2aFlrTG50bXpQNnU3amQtS0FraEo5Wlk?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 09:41:07 GMT",
+    "source": "서울Pn",
+    "ageHours": 10.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 최민희, 중징계 의결에 “재심 신청”…정청래 “납득 못해”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

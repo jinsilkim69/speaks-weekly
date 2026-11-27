@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T20:11:21.989Z",
+  "lastCheckedAt": "2026-11-27T20:21:21.265Z",
   "seenPostIds": {
-    "5dcf503a2d2ff63d40621487a0e47c7d426583bcdab41e111e0d7f54a0fac7d3": {
-      "seenAt": "2026-11-25T07:31:17.965Z",
-      "title": "김민석 \"조희대 탄핵 신속 추진 위해 5당 연대 제안\" #Shorts - 오마이TV - OhmyNews",
-      "targetName": "김민석"
-    },
-    "6e1cbf9359c0e15d38090accbb902175815a0bd5e5c4f8ecd9649980cd083afc": {
-      "seenAt": "2026-11-25T07:41:14.669Z",
-      "title": "\"이 대통령, 정청래 억울함 4시간 들어\"...\"송영길, 입조심하라\" [앵커리포트] - YTN",
-      "targetName": "송영길"
-    },
-    "f1a5ab296b7c4d0a34d726f4f09a07699ea43f41b7981ce52cbcc193109d2fcb": {
-      "seenAt": "2026-11-25T07:41:15.330Z",
-      "title": "신장식 “조희대 탄핵 공동추진단 출범엔 발의·표결 일정 합의가 먼저\" - 한스경제",
-      "targetName": "신장식"
-    },
     "10c346a077842a6dd847576d12ebffaf249aef510280e487c57dbe32237dd5de": {
       "seenAt": "2026-11-25T07:41:15.953Z",
       "title": "정청래, 李대통령 대화 언급한 송영길 비판 “입 조심해야” - 스페셜타임스",
@@ -2515,14 +2500,19 @@
       "seenAt": "2026-11-27T20:11:25.756Z",
       "title": "Trump wished Americans a happy Thanksgiving. Then he lashed out on critics in wide-ranging rant - KRQE",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "e256c92e0c76339f9a94a57c3b0c43e7a5aa602b6d606e75fb5a484c75b8ae5f": {
+      "seenAt": "2026-11-27T20:21:22.561Z",
+      "title": "최민희, 중징계 의결에 “재심 신청”…정청래 “납득 못해” - 서울Pn",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3b906320f5e81d4b8ca34953c3d99d1f6f88ec3b509bcba220eb55e9af8ab6cd",
-    "title": "Trump wished Americans a happy Thanksgiving. Then he lashed out on critics in wide-ranging rant - KRQE",
+    "postId": "e256c92e0c76339f9a94a57c3b0c43e7a5aa602b6d606e75fb5a484c75b8ae5f",
+    "title": "최민희, 중징계 의결에 “재심 신청”…정청래 “납득 못해” - 서울Pn",
     "bot": "jongsuk_pol_bot",
-    "runId": "46061851730",
-    "sentAt": "2026-11-27T20:11:25.231Z"
+    "runId": "46063021320",
+    "sentAt": "2026-11-27T20:21:22.087Z"
   }
 }
