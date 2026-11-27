@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T01:41:19.916Z",
+  "lastCheckedAt": "2026-11-27T01:51:16.392Z",
   "seenPostIds": {
-    "3bf9245ce2e8171fd5c73eead6c113a21935cb9abbf1ed5e363a36a991fb776f": {
-      "seenAt": "2026-11-24T16:51:28.621Z",
-      "title": "Trump shares meme of Jensen Huang raising red bra in air - The Hill",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "c9dae0b6acc4a21534d60efad867234ae94565ed98e34e5881700152480e993c": {
-      "seenAt": "2026-11-24T17:01:17.193Z",
-      "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
-      "targetName": "김민석"
-    },
-    "a7c2939c9cd22cd17a1159d677e6e85d923ce8b620e8660fef2b263c26def801": {
-      "seenAt": "2026-11-24T17:01:17.851Z",
-      "title": "조국혁신당 전남광주특별시당, 목포서 조희대 대법원장 탄핵 촉구… “국회, 즉각 나서야” - 뉴스클레임",
-      "targetName": "조국"
-    },
     "f449867b4df7dac15be98a63c4b2b312452894a30dd26f3430356989418fd4ef": {
       "seenAt": "2026-11-24T17:21:16.946Z",
       "title": "김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-27T01:41:23.208Z",
       "title": "‘수사기록 유출’ 한동훈, 제2의 노회찬 사례 되나 - 법치뉴스",
       "targetName": "한동훈"
+    },
+    "241495cba5ecb0289d1fc9c43da7167b0c177285f20afc9d1e4e2839e34b24c5": {
+      "seenAt": "2026-11-27T01:51:17.690Z",
+      "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색 - 중앙일보",
+      "targetName": "한동훈"
+    },
+    "ee391b7f708b7b507ce27d467a113d95c13691d22181da9765fefd45583cd06e": {
+      "seenAt": "2026-11-27T01:51:18.314Z",
+      "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 노컷뉴스",
+      "targetName": "한동훈"
+    },
+    "0b82855c206bf331f981623efe3e612b02cf0375c784104896543bf0b8890a0f": {
+      "seenAt": "2026-11-27T01:51:19.010Z",
+      "title": "김민석·정청래 빠진 만찬 회동‥與 중진들 \"단결·민생 전념\" - MBC 뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "241495cba5ecb0289d1fc9c43da7167b0c177285f20afc9d1e4e2839e34b24c5",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색 - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEVkJtRzZiT3l1N1RzT183eWliY1dCSjBXYlF6VnlFNjc3bnp5ZjVzWXFBRHFxTEIzSjd3V0s1c3NiSTNCQXBKOWN0azNKMVkxQk04RTVR?oc=5\" target=\"_blank\">경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEVkJtRzZiT3l1N1RzT183eWliY1dCSjBXYlF6VnlFNjc3bnp5ZjVzWXFBRHFxTEIzSjd3V0s1c3NiSTNCQXBKOWN0azNKMVkxQk04RTVR?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:36:18 GMT",
-        "source": "중앙일보",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ee391b7f708b7b507ce27d467a113d95c13691d22181da9765fefd45583cd06e",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 노컷뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsenlEV2Z3cHlJQllUMVRfZXZ3d3RVYm1zU194LU4xLTZrLVNKUUVYb1ZmaG9jOWVWTk9IZ080ekdaUGlFOTlVc3gyVTFvQ1ViTkE?oc=5\" target=\"_blank\">경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">노컷뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsenlEV2Z3cHlJQllUMVRfZXZ3d3RVYm1zU194LU4xLTZrLVNKUUVYb1ZmaG9jOWVWTk9IZ080ekdaUGlFOTlVc3gyVTFvQ1ViTkE?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:23:39 GMT",
-        "source": "노컷뉴스",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "0b82855c206bf331f981623efe3e612b02cf0375c784104896543bf0b8890a0f",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석·정청래 빠진 만찬 회동‥與 중진들 \"단결·민생 전념\" - MBC 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYdIBeEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYQ?oc=5\" target=\"_blank\">김민석·정청래 빠진 만찬 회동‥與 중진들 \"단결·민생 전념\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYdIBeEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYQ?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 23:37:56 GMT",
-        "source": "MBC 뉴스",
-        "ageHours": 2.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "089433681a51a0b6a34960a14e11ffcbccd00b6576171acab26ad660cef56db7",
@@ -2597,13 +2549,61 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "be52aaee66423e764275f2eb50e751096072829a9aafbf43558c68bb4a1a4926",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈, '김승원 낙마 공세' 압수수색 대상 되자…\"어디 마음대로 해보라\" - 데일리안",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxORnFKdkRfOFJ6eDV0Qnl4bUo2MXc5SFlMYy1QM3NnUWtydldabzBfdXJ3NnhBazd5bm9EdXplRlJHN0tRbjNKME9jak5tRzZNNzJpMFl6UlF1WlJ1YkhHeWtKN3VCQzBLbXRiSHVabnlRb3pLRmJyX3k2SUFzbnI1cUMwbmpoRHRKQzVEQ29nMjkwY3lVS05SR1lBcXNFX1lMMXd3eWhiaENSOVR1bV9vUGNvOWNMRWtFRndQeDNHWWNaeWtQNjI0LXBRbVBJeW5qYWVGOHBjVkNhYXN0OG5mS0RvaHRqRGIzSC1JZkRyTVkxdmdvUFY4enhwRmRiNEtleTJscnQxb3Z4MFVORFZkR0Q3TVA2ZjdE?oc=5\" target=\"_blank\">한동훈, '김승원 낙마 공세' 압수수색 대상 되자…\"어디 마음대로 해보라\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORnFKdkRfOFJ6eDV0Qnl4bUo2MXc5SFlMYy1QM3NnUWtydldabzBfdXJ3NnhBazd5bm9EdXplRlJHN0tRbjNKME9jak5tRzZNNzJpMFl6UlF1WlJ1YkhHeWtKN3VCQzBLbXRiSHVabnlRb3pLRmJyX3k2SUFzbnI1cUMwbmpoRHRKQzVEQ29nMjkwY3lVS05SR1lBcXNFX1lMMXd3eWhiaENSOVR1bV9vUGNvOWNMRWtFRndQeDNHWWNaeWtQNjI0LXBRbVBJeW5qYWVGOHBjVkNhYXN0OG5mS0RvaHRqRGIzSC1JZkRyTVkxdmdvUFY4enhwRmRiNEtleTJscnQxb3Z4MFVORFZkR0Q3TVA2ZjdE?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:38:00 GMT",
+        "source": "데일리안",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2884b2cce4f4cfcbecc66e0a44c3793af926db75483e169082972e8c175ac555",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈, 압수수색에 “‘민주당의 지팡이’ 된 경찰, 마음대로 해 봐라” - 부산일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVG80LTlITkE0Wk9nX2M2TkdhNzFCVndTNmZhRDNvX1Nfb0c1ZkR5OUxGdFEzM2ZETm9SQW5jMUhDbi1OeUI0ZUowN1Y1cVBhYnBIdDRDQ2tOZXczMm9PbmlLdW5mbXpuTEhPUTZYd3l1dDBK?oc=5\" target=\"_blank\">한동훈, 압수수색에 “‘민주당의 지팡이’ 된 경찰, 마음대로 해 봐라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVG80LTlITkE0Wk9nX2M2TkdhNzFCVndTNmZhRDNvX1Nfb0c1ZkR5OUxGdFEzM2ZETm9SQW5jMUhDbi1OeUI0ZUowN1Y1cVBhYnBIdDRDQ2tOZXczMm9PbmlLdW5mbXpuTEhPUTZYd3l1dDBK?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:43:15 GMT",
+        "source": "부산일보",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "99dfd38c0663bdac3216eeaa43569fd46d715c2406602042501509e236d43a54",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5mUDNnaVJHYUtpWW4zb3oyR09KYnh1RjVCNVkwSmZscjFtVG9IbG1SVG5ON1RZMjVsbTNaWTA0SXV4aWxrbHFYMUx2bmJzSUVTZXZCbFBveVppdlpSRXA1RlgweEpnT3hHU0pjRFJPR2JkejNYZ2R6YtIBfkFVX3lxTE42Y0U1VnpnUWRSTE9QRFpmTnZFRWRXSGw1RmFVU1M0cWpaRWFydlpOdkhFci15MDRSaU03LWVJWHoyMlNwbEE2dnpZamYtWUQ4NW4xNXlRTG5zUHpMWkU0NTY2dEVZOTdmT3IxY1FyRVM3M2xYN2VXQTJvSFVTQQ?oc=5\" target=\"_blank\">경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mUDNnaVJHYUtpWW4zb3oyR09KYnh1RjVCNVkwSmZscjFtVG9IbG1SVG5ON1RZMjVsbTNaWTA0SXV4aWxrbHFYMUx2bmJzSUVTZXZCbFBveVppdlpSRXA1RlgweEpnT3hHU0pjRFJPR2JkejNYZ2R6YtIBfkFVX3lxTE42Y0U1VnpnUWRSTE9QRFpmTnZFRWRXSGw1RmFVU1M0cWpaRWFydlpOdkhFci15MDRSaU03LWVJWHoyMlNwbEE2dnpZamYtWUQ4NW4xNXlRTG5zUHpMWkU0NTY2dEVZOTdmT3IxY1FyRVM3M2xYN2VXQTJvSFVTQQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:44:18 GMT",
+        "source": "머니투데이",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "fd6e09bc846ff5aed5f8483f9a44d6b33036073a721640a5a92da307042ab4d8",
-    "title": "‘수사기록 유출’ 한동훈, 제2의 노회찬 사례 되나 - 법치뉴스",
+    "postId": "0b82855c206bf331f981623efe3e612b02cf0375c784104896543bf0b8890a0f",
+    "title": "김민석·정청래 빠진 만찬 회동‥與 중진들 \"단결·민생 전념\" - MBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45923954407",
-    "sentAt": "2026-11-27T01:41:22.813Z"
+    "runId": "45924909030",
+    "sentAt": "2026-11-27T01:51:18.690Z"
   }
 }

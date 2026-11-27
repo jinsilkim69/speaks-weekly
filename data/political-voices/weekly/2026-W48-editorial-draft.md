@@ -11688,3 +11688,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색 - 중앙일보
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEVkJtRzZiT3l1N1RzT183eWliY1dCSjBXYlF6VnlFNjc3bnp5ZjVzWXFBRHFxTEIzSjd3V0s1c3NiSTNCQXBKOWN0azNKMVkxQk04RTVR?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 노컷뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsenlEV2Z3cHlJQllUMVRfZXZ3d3RVYm1zU194LU4xLTZrLVNKUUVYb1ZmaG9jOWVWTk9IZ080ekdaUGlFOTlVc3gyVTFvQ1ViTkE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석·정청래 빠진 만찬 회동‥與 중진들 "단결·민생 전념" - MBC 뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석·정청래 빠진 만찬 회동‥與 중진들 "단결·민생 전념"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYdIBeEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYQ?oc=5)
+
+---
+
