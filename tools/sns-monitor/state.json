@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T04:01:20.277Z",
+  "lastCheckedAt": "2026-11-27T04:11:15.022Z",
   "seenPostIds": {
     "fae3ad6682a04f424bf0ed78ae837da3d899e1eeebb2688d10b52db3222d21d3": {
       "seenAt": "2026-11-25T00:51:28.630Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-27T03:51:18.758Z",
       "title": "`세무냥이` 불똥 튄 63기 합격자들…이준석 `법에 없는 시험을 또?` - 매일신문",
       "targetName": "이준석"
+    },
+    "fbf5f035431b2ac5ce7dff9e728821bc2292228e529e0db8d6254fa35e69b3c4": {
+      "seenAt": "2026-11-27T04:11:17.453Z",
+      "title": "이재호 연수구청장, 송도테마파크 오염토양 정화 없는 개발 반대…송영길 의원에 공개 사과 요구 - 자치의정브리핑",
+      "targetName": "송영길"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "f1cba28cc222cccab1203fb63ded4f5e3e3c4880fed6f7a8ce952c88cdea43ec",
-    "title": "`세무냥이` 불똥 튄 63기 합격자들…이준석 `법에 없는 시험을 또?` - 매일신문",
+    "postId": "fbf5f035431b2ac5ce7dff9e728821bc2292228e529e0db8d6254fa35e69b3c4",
+    "title": "이재호 연수구청장, 송도테마파크 오염토양 정화 없는 개발 반대…송영길 의원에 공개 사과 요구 - 자치의정브리핑",
     "bot": "jongsuk_pol_bot",
-    "runId": "45936529978",
-    "sentAt": "2026-11-27T03:51:18.340Z"
+    "runId": "45938429867",
+    "sentAt": "2026-11-27T04:11:16.883Z"
   }
 }

@@ -12117,3 +12117,16 @@
 
 ---
 
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 이재호 연수구청장, 송도테마파크 오염토양 정화 없는 개발 반대…송영길 의원에 공개 사과 요구 - 자치의정브리핑
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재호 연수구청장, 송도테마파크 오염토양 정화 없는 개발 반대…송영길 의원에 공개 사과 요구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiX0FVX3lxTE41Q2Zsd0c2VXUtRDRtUmV2c2NqTndVY2p0eTR3MFlOaFF3VzkxcnFUUlNXUjM4MzYtclo3blEtVE9vWG9pVkRrWW04cHlpS19jaGVJeFhrVVllWXVzZXdZ?oc=5)
+
+---
+
