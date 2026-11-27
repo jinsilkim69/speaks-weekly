@@ -11454,3 +11454,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 홍준표, 또 한동훈 저격 “용병세력들의 난동” - 주간경향
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 홍준표, 또 한동훈 저격 “용병세력들의 난동”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BZG9aOUpzaElGbzJpZkpRcW15NDRyYlJsUWE1NWVCNDBSMUNFUVozY2ltcFFnaXZMUDNRdmpGWlNJYnRmQ1FjTEc1b3FwUWE5c3k4Rk9rRUNpWURpTHc?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [속보] 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색 - 중앙일보
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MdDFrWUlNVmxjT0x1WThxN2JEM2JIZkJFemEzOF9QOGpjYzNVQl9OOFRhWVo0aXJFdUVJOFMyVUdybEVZTi1yb2lOeFhicmhrbENyVFFn?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 장동혁 “한동훈 복당해도 다시 징계할 수 있다”…추가 사유 주장 - 주간시사매거진
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 “한동훈 복당해도 다시 징계할 수 있다”…추가 사유 주장
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE96LVU0ekIwZ2Fvbzl5ak0tczdNcVN1X3Z1NDQ1bElXY203RkxCc1k4ZF81aVJMUG93Q1lwS3A2S0NuRWRqT1FXdEtGUV9menVhWEhXYTRieU1kLVdEbTE3VmpPT3Fwa3F0R2hPWDl3?oc=5)
+
+---
+

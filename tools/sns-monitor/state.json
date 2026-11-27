@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T00:41:13.574Z",
+  "lastCheckedAt": "2026-11-27T00:51:20.479Z",
   "seenPostIds": {
-    "14299c76dad0f47473881bf1b9691f9a93d7eece0b5437e1ab6958ad300a49bd": {
-      "seenAt": "2026-11-24T11:41:24.395Z",
-      "title": "정청래 '깃발' 정했나...조국혁신당, '독자노선' 새단장 돌입 - 조세일보",
-      "targetName": "조국"
-    },
-    "954c36e96e3f66074028274e2c57178fd8e0984bcdcd265ceca72a0bbead62ed": {
-      "seenAt": "2026-11-24T13:01:17.923Z",
-      "title": "이재오 \"이재명 대통령, SNS 하지 말고 유튜브 없애라\" [특별 인터뷰] - 이데일리",
-      "targetName": "이재명"
-    },
-    "e2ca6db8b44d2a367f4594555d85d1a053085c280e91a827dbb95f401ed28a0e": {
-      "seenAt": "2026-11-24T13:01:18.714Z",
-      "title": "한동훈 “장동혁, 징계 대상·내용·시기 ‘배후조종’ 스스로 인정” - 주간경향",
-      "targetName": "한동훈"
-    },
     "f0d729ad50918f5005c51ff5bc2262bf4f909f3991ccfe6449e13043f5eb3ca2": {
       "seenAt": "2026-11-24T13:11:15.028Z",
       "title": "김민석 취임 100일에 SNS 글 5개 올린 정청래…金 “말씀드릴 필요 없어” - 매일경제",
@@ -2515,14 +2500,46 @@
       "seenAt": "2026-11-27T00:41:16.158Z",
       "title": "조국 \"소각 전환형 증시안정펀드 즉각 추진해야\" - 아시아경제",
       "targetName": "조국"
+    },
+    "80b3f41254576357cea218bfdb8a2d9712103fc0f9c35122e3d2d69c5753687f": {
+      "seenAt": "2026-11-27T00:51:22.150Z",
+      "title": "홍준표, 또 한동훈 저격 “용병세력들의 난동” - 주간경향",
+      "targetName": "한동훈"
+    },
+    "c81cf8327ec020428240cd26a1da8824e31cbc34bd8aad7e254b432d058de424": {
+      "seenAt": "2026-11-27T00:51:22.905Z",
+      "title": "[속보] 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색 - 중앙일보",
+      "targetName": "한동훈"
+    },
+    "a5c0a59fdc504dac3f810fc127b57c2b9ed5e5d7802f59a8b813f723f4dca608": {
+      "seenAt": "2026-11-27T00:51:23.657Z",
+      "title": "장동혁 “한동훈 복당해도 다시 징계할 수 있다”…추가 사유 주장 - 주간시사매거진",
+      "targetName": "한동훈"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "2c15d7cf2048110685537d017b4b8208fa72c7c363fcb47e544191273f008363",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "[속보] 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색 - KBS 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxclgtU3B2Skg4QnFkRHkzb2hKUU1kSXk3OWtoSXlJNWJSS202VnRUdUdTbm5meG43R0IxcGFOVmZrdnV4ZlpGTVN4R09OWWRPRVA2ZG9XUmlKdHM?oc=5\" target=\"_blank\">[속보] 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxclgtU3B2Skg4QnFkRHkzb2hKUU1kSXk3OWtoSXlJNWJSS202VnRUdUdTbm5meG43R0IxcGFOVmZrdnV4ZlpGTVN4R09OWWRPRVA2ZG9XUmlKdHM?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 00:43:00 GMT",
+        "source": "KBS 뉴스",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "4bd059913ee5c510898d3d58cc40181523b52d15118d9f397e5221bde1f4d323",
-    "title": "조국 \"소각 전환형 증시안정펀드 즉각 추진해야\" - 아시아경제",
+    "postId": "a5c0a59fdc504dac3f810fc127b57c2b9ed5e5d7802f59a8b813f723f4dca608",
+    "title": "장동혁 “한동훈 복당해도 다시 징계할 수 있다”…추가 사유 주장 - 주간시사매거진",
     "bot": "jongsuk_pol_bot",
-    "runId": "45918150686",
-    "sentAt": "2026-11-27T00:41:15.819Z"
+    "runId": "45919141021",
+    "sentAt": "2026-11-27T00:51:23.290Z"
   }
 }
