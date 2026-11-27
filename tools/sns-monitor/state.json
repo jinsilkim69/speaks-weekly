@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T01:01:13.864Z",
+  "lastCheckedAt": "2026-11-27T01:11:16.546Z",
   "seenPostIds": {
-    "e351f355b495b59ae74dac275ea19edf2d0763e9e9c48bd1ef2c0b810e0b1c59": {
-      "seenAt": "2026-11-24T13:31:21.833Z",
-      "title": "김민석 취임 100일에 SNS 글 5개 올린 정청래…金 “말씀드릴 필요 없어” - 매일경제",
-      "targetName": "정청래"
-    },
-    "42984b31d1b48f6808598954920a3f9fed4dcacd5256d4335f2a8d60acfe8fb8": {
-      "seenAt": "2026-11-24T13:41:16.055Z",
-      "title": "한동훈 “장동혁, 징계 대상·내용·시기 배후조종” VS 장동혁 “한동훈 국힘에 발붙일 곳 없다” - 주간경향",
-      "targetName": "한동훈"
-    },
-    "ce362525c2707f8c362c2791c0bbfe15f4f9e94abe68e0c09fab9e0b55901663": {
-      "seenAt": "2026-11-24T14:21:18.962Z",
-      "title": "김민석 취임 100일에 SNS 글 5개 올린 정청래…金 “말씀드릴 필요 없어” - 매일경제",
-      "targetName": "김민석"
-    },
     "67eba06b4bc42fd5eed7f366ffb50bb8ec3e635f2452559409dcc624a85f1a58": {
       "seenAt": "2026-11-24T14:21:19.701Z",
       "title": "김민석 취임 100일에 SNS 글 5개 올린 정청래…金 “말씀드릴 필요 없어” - 매일경제",
@@ -2515,31 +2500,78 @@
       "seenAt": "2026-11-27T01:01:16.508Z",
       "title": "김영진 \"신천지 싸움 과해 국민 관심도 없어…김민석·정청래 그만\" - 머니투데이 - 머니투데이",
       "targetName": "정청래"
+    },
+    "f96eace3227a7fb8bad0accecd3d54c066103a5a8c4341ad754fb98fd26d013b": {
+      "seenAt": "2026-11-27T01:12:36.449Z",
+      "title": "조국 조국혁신당 혁신정책연구원장, ‘소각 전환형 증시안정펀드’를 즉각 추진해야 한다 - 의정일보",
+      "targetName": "조국"
+    },
+    "10ee9c075be7bbecc0817434b43ba16d92f2ef49b57895c3600a1a358fd406bf": {
+      "seenAt": "2026-11-27T01:12:37.163Z",
+      "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 연합뉴스",
+      "targetName": "한동훈"
+    },
+    "83cd4faf7c3a1597f2926617b4fcfaa7230a00444a1c5e27f101f3e1e50406f5": {
+      "seenAt": "2026-11-27T01:12:37.882Z",
+      "title": "'조희대 탄핵' 책임 안 지겠다는 與?…한동훈 \"대놓고 '아니면 말고'란 것\" - 데일리안",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "f96eace3227a7fb8bad0accecd3d54c066103a5a8c4341ad754fb98fd26d013b",
+        "id": "392ab535aeffd916f93facc40bb256b899819857b893089ee4a2f622327895f1",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "[속보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1OZWkyNHNaZG1Md0xYQlVuVmg3QU5vVjBaRHNHZzF4aGtyM3RqclRFTmNLVTFvUmdja1AtSjRRRldDSHE3NGxVV3FnVFNOVGREVGhuRDVBYW1ZLXdzRzlnaU5RMEdYM2hUV3JNSFUtV1lldy0xN0VMNtIBfkFVX3lxTE1Ic0dZWFpUajF4QUlpc3I5Uk02bXlmQVdVVWEyck5jaWNZcTFaRUwwV2VMcVJSd05LNlJxS2NLQ0piYUNQNTcxV1cxUGx6X0RwNzBieHI4VmRKNjNfOUVtMk9kWkRmRWgwcU1pWjlOc2pnZUgwWkstZVpRQWUtZw?oc=5\" target=\"_blank\">[속보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OZWkyNHNaZG1Md0xYQlVuVmg3QU5vVjBaRHNHZzF4aGtyM3RqclRFTmNLVTFvUmdja1AtSjRRRldDSHE3NGxVV3FnVFNOVGREVGhuRDVBYW1ZLXdzRzlnaU5RMEdYM2hUV3JNSFUtV1lldy0xN0VMNtIBfkFVX3lxTE1Ic0dZWFpUajF4QUlpc3I5Uk02bXlmQVdVVWEyck5jaWNZcTFaRUwwV2VMcVJSd05LNlJxS2NLQ0piYUNQNTcxV1cxUGx6X0RwNzBieHI4VmRKNjNfOUVtMk9kWkRmRWgwcU1pWjlOc2pnZUgwWkstZVpRQWUtZw?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 00:54:02 GMT",
+        "source": "머니투데이",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "dbcdb009c123264cd5a0cb5232131b8ca9c1faad0eb9ad53de06b8369f155394",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "경찰, 한동훈 '기소계획서 유출 의혹' 법무부·공소청 등 압수수색 - mnews.sbs.co.kr",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjR2b2gyTjVHbXd5Ml9UX21XWjdybV9rWi1uMWEtQXU1ald4cjFmWUYzNjRfRGttUXd0cWkxVU9KY2ttRm9UN2QtT1NRLXBKUUZnVHJCM09vMS1iYS1ReXowbmV1Q1ZCcnlfSDRTbnBBOTAxakkwV0gzNlJSUjk1RUZHWW9FNFZxa19VSVRtTQ?oc=5\" target=\"_blank\">경찰, 한동훈 '기소계획서 유출 의혹' 법무부·공소청 등 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mnews.sbs.co.kr</font>",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjR2b2gyTjVHbXd5Ml9UX21XWjdybV9rWi1uMWEtQXU1ald4cjFmWUYzNjRfRGttUXd0cWkxVU9KY2ttRm9UN2QtT1NRLXBKUUZnVHJCM09vMS1iYS1ReXowbmV1Q1ZCcnlfSDRTbnBBOTAxakkwV0gzNlJSUjk1RUZHWW9FNFZxa19VSVRtTQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 00:58:09 GMT",
+        "source": "mnews.sbs.co.kr",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "caf44d02b8e4e33f1bd36557b5b83eb699414c6a690db7120fff8c32e191ce0e",
         "targetId": "cho_kuk",
         "targetName": "조국",
         "targetTitle": "조국혁신당 대표",
-        "title": "조국 조국혁신당 혁신정책연구원장, ‘소각 전환형 증시안정펀드’를 즉각 추진해야 한다 - 의정일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1jSGIwTXhoN0JsWVdYYjVjVEdjM0xZaTlRNHpLQTEwYUx3ZGZFcU1CdHlpVDgwMGhyZ2gxLTZFUlR3TGh5OU1GOXFabEg1aWRENjRBeVBwak5odHF6NmtnNURRdXFPOGpwakE?oc=5\" target=\"_blank\">조국 조국혁신당 혁신정책연구원장, ‘소각 전환형 증시안정펀드’를 즉각 추진해야 한다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">의정일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jSGIwTXhoN0JsWVdYYjVjVEdjM0xZaTlRNHpLQTEwYUx3ZGZFcU1CdHlpVDgwMGhyZ2gxLTZFUlR3TGh5OU1GOXFabEg1aWRENjRBeVBwak5odHF6NmtnNURRdXFPOGpwakE?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 00:55:00 GMT",
-        "source": "의정일보",
-        "ageHours": 0.1
+        "title": "조국 \"정부 믿고 투자한 국민은 피눈물…증시안정펀드 즉각 추진해야\" - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OQXg4ald2dVJsdi1oRHNIRkNiVThpNmMtZ0lSZ3Z1XzcyR3Vyd3hfdE50RUhFUzl1dkFVei1Xcm5KenprN2FzeUN6MkFuSzNqWV81d0pFalBWWnFQb3hFVtIBeEFVX3lxTFBMOXIzSGFHRG1ZREpCdlJ4X0dCdFZETmlTbHhlNUdueWd5eHlhX3ZnVFVweHlFcXpZblJJRXgwR1lIZHNjeDhuVzVSaWlJTTFXZ3J5SnViZTREaTNQNGdtVnBGT25IeU83X1hDYWhpOFhlM1kteEtraQ?oc=5\" target=\"_blank\">조국 \"정부 믿고 투자한 국민은 피눈물…증시안정펀드 즉각 추진해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OQXg4ald2dVJsdi1oRHNIRkNiVThpNmMtZ0lSZ3Z1XzcyR3Vyd3hfdE50RUhFUzl1dkFVei1Xcm5KenprN2FzeUN6MkFuSzNqWV81d0pFalBWWnFQb3hFVtIBeEFVX3lxTFBMOXIzSGFHRG1ZREpCdlJ4X0dCdFZETmlTbHhlNUdueWd5eHlhX3ZnVFVweHlFcXpZblJJRXgwR1lIZHNjeDhuVzVSaWlJTTFXZ3J5SnViZTREaTNQNGdtVnBGT25IeU83X1hDYWhpOFhlM1kteEtraQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:00:00 GMT",
+        "source": "뉴시스",
+        "ageHours": 0.2
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "2ef00f078c4f9b387923d5219105ea0eed428ce8c2fa949abc090aaabed42fc4",
-    "title": "김영진 \"신천지 싸움 과해 국민 관심도 없어…김민석·정청래 그만\" - 머니투데이 - 머니투데이",
+    "postId": "83cd4faf7c3a1597f2926617b4fcfaa7230a00444a1c5e27f101f3e1e50406f5",
+    "title": "'조희대 탄핵' 책임 안 지겠다는 與?…한동훈 \"대놓고 '아니면 말고'란 것\" - 데일리안",
     "bot": "jongsuk_pol_bot",
-    "runId": "45920098294",
-    "sentAt": "2026-11-27T01:01:16.178Z"
+    "runId": "45921088123",
+    "sentAt": "2026-11-27T01:12:37.511Z"
   }
 }

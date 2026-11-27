@@ -1424,5 +1424,81 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f96eace3227a7fb8bad0accecd3d54c066103a5a8c4341ad754fb98fd26d013b",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 조국혁신당 혁신정책연구원장, ‘소각 전환형 증시안정펀드’를 즉각 추진해야 한다 - 의정일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1jSGIwTXhoN0JsWVdYYjVjVEdjM0xZaTlRNHpLQTEwYUx3ZGZFcU1CdHlpVDgwMGhyZ2gxLTZFUlR3TGh5OU1GOXFabEg1aWRENjRBeVBwak5odHF6NmtnNURRdXFPOGpwakE?oc=5\" target=\"_blank\">조국 조국혁신당 혁신정책연구원장, ‘소각 전환형 증시안정펀드’를 즉각 추진해야 한다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">의정일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jSGIwTXhoN0JsWVdYYjVjVEdjM0xZaTlRNHpLQTEwYUx3ZGZFcU1CdHlpVDgwMGhyZ2gxLTZFUlR3TGh5OU1GOXFabEg1aWRENjRBeVBwak5odHF6NmtnNURRdXFPOGpwakE?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 00:55:00 GMT",
+    "source": "의정일보",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 조국혁신당 혁신정책연구원장, ‘소각 전환형 증시안정펀드’를 즉각 추진해야 한다",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "10ee9c075be7bbecc0817434b43ba16d92f2ef49b57895c3600a1a358fd406bf",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 연합뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EaHBrcWU1ZmZzdVFHYTZRc2dCR0Z6eEZPR3BwTmJuWVMzOUhlc0d3ZVlXTzNsUjdyOTFVUEFBbDI0dWQtSjNhbjU5a1V0VmEwSUNiUHExenY3R0HSAWBBVV95cUxOM21oQ0cwczdDRXB2bkJHMVlUWWEweV9adWtiLVJNc1dab1ZtcVQ5c2xKYUgtQzRjVE44VEZtUUhYWl9IOTl6eUZ5X2w2MHpJdXV0NDkyS0lMZFZTbGZEWFI?oc=5\" target=\"_blank\">경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EaHBrcWU1ZmZzdVFHYTZRc2dCR0Z6eEZPR3BwTmJuWVMzOUhlc0d3ZVlXTzNsUjdyOTFVUEFBbDI0dWQtSjNhbjU5a1V0VmEwSUNiUHExenY3R0HSAWBBVV95cUxOM21oQ0cwczdDRXB2bkJHMVlUWWEweV9adWtiLVJNc1dab1ZtcVQ5c2xKYUgtQzRjVE44VEZtUUhYWl9IOTl6eUZ5X2w2MHpJdXV0NDkyS0lMZFZTbGZEWFI?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 00:49:26 GMT",
+    "source": "연합뉴스",
+    "ageHours": 0.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "83cd4faf7c3a1597f2926617b4fcfaa7230a00444a1c5e27f101f3e1e50406f5",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "'조희대 탄핵' 책임 안 지겠다는 與?…한동훈 \"대놓고 '아니면 말고'란 것\" - 데일리안",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOMkYtS0ZqbUllVTJTQmZUQVlTOVRnSnhCZnJuckxXSTNVODUyT3NhNF90U2czN3ZfeUdIbXhvODZ1MmEybHJkSGxRS2syVmNVTzg5UkFJLTNQVldzRmxXTlJLMDlaWE1wc2MtaHZzeHJlcTVNWUxNMU1jUzlzdmQzaExvNkVITW5PY1NpY3dvcTBwUnFTSnQzdjl6SUxpVHF1Vl9ucjhPQkc5MTNtX1JOVjlHalgwWnVoXzVTbEp0SXdYRFZSVktlSzZ1VndtR24ybkJzUXoxOEdDRTJFQ3hUdVJjYUxSX0x2ZjlVVkRyX2g4MTE4cktEdHVFY0UxRlRNSGt2T0VpampVX29vcjQxWS11QlpzQmIw?oc=5\" target=\"_blank\">'조희대 탄핵' 책임 안 지겠다는 與?…한동훈 \"대놓고 '아니면 말고'란 것\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMkYtS0ZqbUllVTJTQmZUQVlTOVRnSnhCZnJuckxXSTNVODUyT3NhNF90U2czN3ZfeUdIbXhvODZ1MmEybHJkSGxRS2syVmNVTzg5UkFJLTNQVldzRmxXTlJLMDlaWE1wc2MtaHZzeHJlcTVNWUxNMU1jUzlzdmQzaExvNkVITW5PY1NpY3dvcTBwUnFTSnQzdjl6SUxpVHF1Vl9ucjhPQkc5MTNtX1JOVjlHalgwWnVoXzVTbEp0SXdYRFZSVktlSzZ1VndtR24ybkJzUXoxOEdDRTJFQ3hUdVJjYUxSX0x2ZjlVVkRyX2g4MTE4cktEdHVFY0UxRlRNSGt2T0VpampVX29vcjQxWS11QlpzQmIw?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 01:00:00 GMT",
+    "source": "데일리안",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] '조희대 탄핵' 책임 안 지겠다는 與?…한동훈 \"대놓고 '아니면 말고'란 것\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

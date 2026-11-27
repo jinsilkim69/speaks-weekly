@@ -11532,3 +11532,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 조국혁신당 혁신정책연구원장, ‘소각 전환형 증시안정펀드’를 즉각 추진해야 한다 - 의정일보
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 조국혁신당 혁신정책연구원장, ‘소각 전환형 증시안정펀드’를 즉각 추진해야 한다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE1jSGIwTXhoN0JsWVdYYjVjVEdjM0xZaTlRNHpLQTEwYUx3ZGZFcU1CdHlpVDgwMGhyZ2gxLTZFUlR3TGh5OU1GOXFabEg1aWRENjRBeVBwak5odHF6NmtnNURRdXFPOGpwakE?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 연합뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EaHBrcWU1ZmZzdVFHYTZRc2dCR0Z6eEZPR3BwTmJuWVMzOUhlc0d3ZVlXTzNsUjdyOTFVUEFBbDI0dWQtSjNhbjU5a1V0VmEwSUNiUHExenY3R0HSAWBBVV95cUxOM21oQ0cwczdDRXB2bkJHMVlUWWEweV9adWtiLVJNc1dab1ZtcVQ5c2xKYUgtQzRjVE44VEZtUUhYWl9IOTl6eUZ5X2w2MHpJdXV0NDkyS0lMZFZTbGZEWFI?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '조희대 탄핵' 책임 안 지겠다는 與?…한동훈 "대놓고 '아니면 말고'란 것" - 데일리안
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '조희대 탄핵' 책임 안 지겠다는 與?…한동훈 "대놓고 '아니면 말고'란 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimAJBVV95cUxOMkYtS0ZqbUllVTJTQmZUQVlTOVRnSnhCZnJuckxXSTNVODUyT3NhNF90U2czN3ZfeUdIbXhvODZ1MmEybHJkSGxRS2syVmNVTzg5UkFJLTNQVldzRmxXTlJLMDlaWE1wc2MtaHZzeHJlcTVNWUxNMU1jUzlzdmQzaExvNkVITW5PY1NpY3dvcTBwUnFTSnQzdjl6SUxpVHF1Vl9ucjhPQkc5MTNtX1JOVjlHalgwWnVoXzVTbEp0SXdYRFZSVktlSzZ1VndtR24ybkJzUXoxOEdDRTJFQ3hUdVJjYUxSX0x2ZjlVVkRyX2g4MTE4cktEdHVFY0UxRlRNSGt2T0VpampVX29vcjQxWS11QlpzQmIw?oc=5)
+
+---
+
