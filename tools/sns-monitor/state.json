@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T09:31:16.002Z",
+  "lastCheckedAt": "2026-11-27T09:41:24.529Z",
   "seenPostIds": {
-    "7d4825b038117b6bbf459a2c8585947717e48a510ca19e8f1f3c6306c6698813": {
-      "seenAt": "2026-11-25T04:11:23.715Z",
-      "title": "Trump says pardon is always an option for Jensen Huang, and that pleading the Fifth isn’t necessary - NBC News",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "cd50e8bc6995ac0912fe91f5455617bdec2598c01901fcdb6be539d872720aeb": {
-      "seenAt": "2026-11-25T04:11:24.450Z",
-      "title": "송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 중앙일보",
-      "targetName": "정청래"
-    },
     "80da36abf84eb5c64abb35e18342bcbca041fdb16b23ca1e7ce9508d5cf55e8e": {
       "seenAt": "2026-11-25T04:11:25.202Z",
       "title": "송영길 “대통령, 정청래 억울함 4시간 들어줘” VS 정청래 “입 싼 송영길과 말 안 섞어” - 주간경향",
@@ -2510,14 +2500,29 @@
       "seenAt": "2026-11-27T09:31:18.294Z",
       "title": "정청래, 최민희 중징계 의결에 \"납득할 수 없다\"…친청계 반발 - 파이낸셜뉴스",
       "targetName": "정청래"
+    },
+    "9cc36936afa6df2a8ca5fe937d2ee251fc68d7957c5603941480c273498c7671": {
+      "seenAt": "2026-11-27T09:41:26.735Z",
+      "title": "김민석 민주당 대표 “민생 올인·사법 책임” - 브레이크뉴스",
+      "targetName": "김민석"
+    },
+    "a0844c0c4af182d50db33d37a668f4a08c45d4a5716867ea20033822a7b29ec1": {
+      "seenAt": "2026-11-27T09:41:27.538Z",
+      "title": "정청래 \"당대표라도 징계 앞에 예외일 수 없어\" 김민석 직격 - 데일리안",
+      "targetName": "김민석"
+    },
+    "69d5e08143639e9299a8ecd82203dc92f775b7f4af419e5d4bda8a7e56e19189": {
+      "seenAt": "2026-11-27T09:41:28.333Z",
+      "title": "최민희 '당원자격 정지 2년'에 정청래 반발…\"납득할 수 없다\" - 한국경제",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "13c0a819690a4cce7d6ef94fe6140c468877156b89c020304a1f86b05e1d49dd",
-    "title": "정청래, 최민희 중징계 의결에 \"납득할 수 없다\"…친청계 반발 - 파이낸셜뉴스",
+    "postId": "69d5e08143639e9299a8ecd82203dc92f775b7f4af419e5d4bda8a7e56e19189",
+    "title": "최민희 '당원자격 정지 2년'에 정청래 반발…\"납득할 수 없다\" - 한국경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45974357313",
-    "sentAt": "2026-11-27T09:31:17.923Z"
+    "runId": "45975737839",
+    "sentAt": "2026-11-27T09:41:27.942Z"
   }
 }
