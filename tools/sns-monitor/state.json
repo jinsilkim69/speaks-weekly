@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T08:41:14.646Z",
+  "lastCheckedAt": "2026-11-27T08:51:18.675Z",
   "seenPostIds": {
     "cad52581491c847ca09f6569a97571f1c3b99be5c4db0689758bd19eade88aae": {
       "seenAt": "2026-11-25T03:41:16.665Z",
@@ -2500,14 +2500,46 @@
       "seenAt": "2026-11-27T08:31:14.477Z",
       "title": "Natalie Harp Pulled Into Donald Trump’s Truth Social Legal Fight — Report - Yahoo",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "002542a4163e038bb3a42ad967c1b1e414f4a820d252a71eeb69a8484bf006a6": {
+      "seenAt": "2026-11-27T08:51:20.068Z",
+      "title": "한동훈, '김승원 자료유출 의혹' 압수수색에 \"경찰, 與 지팡이 자처\" - 뉴시스",
+      "targetName": "한동훈"
+    },
+    "8df457be419a55b8893184c8988d7a55c58a9088b085dd65da4e42be5b092c19": {
+      "seenAt": "2026-11-27T08:51:20.714Z",
+      "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외 없다\" 공세 - 뉴데일리",
+      "targetName": "김민석"
+    },
+    "e9182f7893bb7634f3a2a5ee00795e83ef80136f266b443e8c8442eff1dbda58": {
+      "seenAt": "2026-11-27T08:51:21.360Z",
+      "title": "[속보] 與 윤리심판원 \"김민석 징계청원 건, 조만간 심사해 처리\" - 한국경제",
+      "targetName": "김민석"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "a3daaa86a144afcad2c60f6d60cc3a331b72a6222c3ba3b21dc10a0f8909edb6",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외 없다\" 공세 - 뉴데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBqd21YX2hrVHAyYktad3ZHLURNRzFRUzZYQmpuY2pxQ1JVZEJfbEZhUUhLWEctWlM4U2tzUXVsLTJxU280ckg2ZHNRQklPdGlSaGRqOFZSLWM3V0lIS2Fxb1g1aEU3bGgxVUFUWHh3RGI5aThnWU9xd2ZXWdIBgAFBVV95cUxNaDZYdldHbjFyckJnM2IxWWJhdTJCT09EN1o4SUVTd3hHTWZKMjFMZlBLSEprWTlBbUFYSDRrNU5aS0NwbXJfQm9BX2VNRTVnZkFpT2pxNjJTSDA3c1BhcWhLc0tnUFZBSmFwbXBIakQ5SVdnalBndFVubDJDNjJ6Wg?oc=5\" target=\"_blank\">정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외 없다\" 공세</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqd21YX2hrVHAyYktad3ZHLURNRzFRUzZYQmpuY2pxQ1JVZEJfbEZhUUhLWEctWlM4U2tzUXVsLTJxU280ckg2ZHNRQklPdGlSaGRqOFZSLWM3V0lIS2Fxb1g1aEU3bGgxVUFUWHh3RGI5aThnWU9xd2ZXWdIBgAFBVV95cUxNaDZYdldHbjFyckJnM2IxWWJhdTJCT09EN1o4SUVTd3hHTWZKMjFMZlBLSEprWTlBbUFYSDRrNU5aS0NwbXJfQm9BX2VNRTVnZkFpT2pxNjJTSDA3c1BhcWhLc0tnUFZBSmFwbXBIakQ5SVdnalBndFVubDJDNjJ6Wg?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 06:15:00 GMT",
+        "source": "뉴데일리",
+        "ageHours": 2.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "29f3217effb92aa474c7ad7f55e2f5261a5980195fa825c3a75e50f6c06a4f7a",
-    "title": "Natalie Harp Pulled Into Donald Trump’s Truth Social Legal Fight — Report - Yahoo",
+    "postId": "e9182f7893bb7634f3a2a5ee00795e83ef80136f266b443e8c8442eff1dbda58",
+    "title": "[속보] 與 윤리심판원 \"김민석 징계청원 건, 조만간 심사해 처리\" - 한국경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45966275310",
-    "sentAt": "2026-11-27T08:31:13.778Z"
+    "runId": "45968867362",
+    "sentAt": "2026-11-27T08:51:21.025Z"
   }
 }

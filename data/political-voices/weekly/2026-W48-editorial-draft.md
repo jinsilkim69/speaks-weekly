@@ -12806,3 +12806,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, '김승원 자료유출 의혹' 압수수색에 "경찰, 與 지팡이 자처" - 뉴시스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, '김승원 자료유출 의혹' 압수수색에 "경찰, 與 지팡이 자처"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1PSnZ3a2thWVlMYW5BUkl3R0lJaUxOaFptQ1d0NzAtazlxTFJOek1Zdk9nS3pMYWNYUUxuQVJjSUVGbnNlN0FvWXNIOUo4RFN3LVlTWkVQVW51ckozNkNNd3lGbHJEUTdnNTh3MXdETjZRYzdrcExaVdIBeEFVX3lxTE1PSnZ3a2thWVlMYW5BUkl3R0lJaUxOaFptQ1d0NzAtazlxTFJOek1Zdk9nS3pMYWNYUUxuQVJjSUVGbnNlN0FvWXNIOUo4RFN3LVlTWkVQVW51ckozNkNNd3lGbHJEUTdnNTh3MXdETjZRYzdrcExaVQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 "당대표라도 징계 앞에 예외 없다" 공세 - 뉴데일리
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 "당대표라도 징계 앞에 예외 없다" 공세
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTFBqd21YX2hrVHAyYktad3ZHLURNRzFRUzZYQmpuY2pxQ1JVZEJfbEZhUUhLWEctWlM4U2tzUXVsLTJxU280ckg2ZHNRQklPdGlSaGRqOFZSLWM3V0lIS2Fxb1g1aEU3bGgxVUFUWHh3RGI5aThnWU9xd2ZXWdIBgAFBVV95cUxNaDZYdldHbjFyckJnM2IxWWJhdTJCT09EN1o4SUVTd3hHTWZKMjFMZlBLSEprWTlBbUFYSDRrNU5aS0NwbXJfQm9BX2VNRTVnZkFpT2pxNjJTSDA3c1BhcWhLc0tnUFZBSmFwbXBIakQ5SVdnalBndFVubDJDNjJ6Wg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [속보] 與 윤리심판원 "김민석 징계청원 건, 조만간 심사해 처리" - 한국경제
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 윤리심판원 "김민석 징계청원 건, 조만간 심사해 처리"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qY2xJb243MkR2RmNNTG1uaGY3MkpsUXc0T3ZRd2FYZjZoZHhJeVBodldwVjN3M1FPRC0zSEE2X0w1VVBpaGFnaUIwc2JxeDN4anA3QXJZb2I5QQ?oc=5)
+
+---
+
