@@ -13014,3 +13014,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 최민희 중징계 의결에 "납득할 수 없다"…친청계 반발 - 뉴스1
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 최민희 중징계 의결에 "납득할 수 없다"…친청계 반발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOUk02MnY3alg2TXg3ZXpZX2lhd3dHUzdIUU02bXhKVWNXSUpISmNNTzlGVlk4d01fR3NvUEV6dHNoMkVVVUxCZmdIT21yTHBFNG56SUpBNEkzdw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump invokes the Godfather in latest social media post as he eyes bumpy ride with Democrats - The Independent
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump invokes the Godfather in latest social media post as he eyes bumpy ride with Democrats
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXdHaWpMXzlvNmZWZW9VSHRsdm0tSTI4eTAwWXdBZElaVXB6Z0cxMDJuS2dDN1hjZXMyVEZUM3lTZUFwaWIzRlhibmdyUFEtclhZajZLeEppXzJmTEdKVElGVklIQW9pTUF3Z2tlWjVKbF94NUduakw3R0dhMnhSRlpDeEFQWTFUVW1UVEIwRk1mdVluVWYxLVEwb3B2Yl9qTEREQ2JDUExySGtoVVhibTJ1bFhjNTJDSHRn?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 수사자료 유출 의혹, 경찰이 법무부·공소청 압수수색에 나선 이유는? 🔍 - 뉴닉
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 수사자료 유출 의혹, 경찰이 법무부·공소청 압수수색에 나선 이유는? 🔍
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nMlRLYXJ3QWdMR2pYVGo0anhNNlBJSS1WZXFUQnhBQjE2OHJ6SU5jTW9ySVkxX1lVVnNNV3BCb2I3VEdheExDbFRXQldMODNCVlU0?oc=5)
+
+---
+

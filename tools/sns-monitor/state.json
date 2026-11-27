@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T10:11:13.872Z",
+  "lastCheckedAt": "2026-11-27T10:21:17.578Z",
   "seenPostIds": {
-    "d21bab3fec7fc0878afc0050724d36a90e73ec20283d8ca1c264143fa26592fb": {
-      "seenAt": "2026-11-25T04:31:28.683Z",
-      "title": "한동훈 “조희대 탄핵 인용 땐 의원직 사퇴…서영교·박선원도 직 걸라” - 서울경제",
-      "targetName": "한동훈"
-    },
-    "794d3af3dcfecceada2d012b553bc3cc8faf8af3964a5b932dfc2cbc7b669d2d": {
-      "seenAt": "2026-11-25T04:31:29.703Z",
-      "title": "송영길 \"李대통령 鄭 억울함 4시간 들어줘\"…정청래 \"입조심하라\" - 연합뉴스",
-      "targetName": "송영길"
-    },
-    "faffef458a95b529e2334c4b46b52a4d640dab680d73d21fa1466601921a3196": {
-      "seenAt": "2026-11-25T04:31:30.455Z",
-      "title": "이준석 \"한동훈, 남을 찌르기만 했던 분…검찰 정치는 위험\" - 청주일보",
-      "targetName": "이준석"
-    },
     "54f5a2646de2c97f745a6a0970d403f16569a6b13ad979817609e609c62ddbfb": {
       "seenAt": "2026-11-25T04:32:25.340Z",
       "title": "김민석, ‘조희대 탄핵’ 5당 연대 공식 제안…조국혁신당 “환영” - 아시아타임즈",
@@ -2515,47 +2500,62 @@
       "seenAt": "2026-11-27T10:11:16.562Z",
       "title": "최민희, 중징계 의결에 즉각 \"재심 신청\"‥정청래도 \"납득 어려워\" - MBC 뉴스",
       "targetName": "정청래"
+    },
+    "c1910b14cc6c3dd3b6331229b3528da109fdca5bac9bb4e1de280c3388f9bbb0": {
+      "seenAt": "2026-11-27T10:21:19.375Z",
+      "title": "정청래, 최민희 중징계 의결에 \"납득할 수 없다\"…친청계 반발 - 뉴스1",
+      "targetName": "정청래"
+    },
+    "59a6d7bf720fed0730697a75832c7c7d0c8de2585158e43914519608e203b503": {
+      "seenAt": "2026-11-27T10:21:20.176Z",
+      "title": "Trump invokes the Godfather in latest social media post as he eyes bumpy ride with Democrats - The Independent",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a45814f3468bf296264b5789bdb142d8f502ddbc8a0263c1fb8975fdb82e2af0": {
+      "seenAt": "2026-11-27T10:21:21.064Z",
+      "title": "한동훈 수사자료 유출 의혹, 경찰이 법무부·공소청 압수수색에 나선 이유는? 🔍 - 뉴닉",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "c1910b14cc6c3dd3b6331229b3528da109fdca5bac9bb4e1de280c3388f9bbb0",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "정청래, 최민희 중징계 의결에 \"납득할 수 없다\"…친청계 반발 - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOUk02MnY3alg2TXg3ZXpZX2lhd3dHUzdIUU02bXhKVWNXSUpISmNNTzlGVlk4d01fR3NvUEV6dHNoMkVVVUxCZmdIT21yTHBFNG56SUpBNEkzdw?oc=5\" target=\"_blank\">정청래, 최민희 중징계 의결에 \"납득할 수 없다\"…친청계 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOUk02MnY3alg2TXg3ZXpZX2lhd3dHUzdIUU02bXhKVWNXSUpISmNNTzlGVlk4d01fR3NvUEV6dHNoMkVVVUxCZmdIT21yTHBFNG56SUpBNEkzdw?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 09:22:06 GMT",
-        "source": "뉴스1",
-        "ageHours": 0.8
+        "id": "5a447ebb3f82cba3ba438d1af9a74314c21de8f5fa0021cd664e7b57619cc987",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외일 수 없어\" - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5pUk1USGZGRVpiZUt1OS1hbzM3WFlROEpycmdsSUtEdHpiVGhfT1Utbmo0YmxSdE1LSG9PdExteUpHdnhWd3NsZHdDcWNnUzRTaXk0cE56dE41UzhVd0NsUmlmZ25NRmMtRVI4RS02djdIZ9IBckFVX3lxTE5pUk1USGZGRVpiZUt1OS1hbzM3WFlROEpycmdsSUtEdHpiVGhfT1Utbmo0YmxSdE1LSG9PdExteUpHdnhWd3NsZHdDcWNnUzRTaXk0cE56dE41UzhVd0NsUmlmZ25NRmMtRVI4RS02djdIZw?oc=5\" target=\"_blank\">정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외일 수 없어\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pUk1USGZGRVpiZUt1OS1hbzM3WFlROEpycmdsSUtEdHpiVGhfT1Utbmo0YmxSdE1LSG9PdExteUpHdnhWd3NsZHdDcWNnUzRTaXk0cE56dE41UzhVd0NsUmlmZ25NRmMtRVI4RS02djdIZ9IBckFVX3lxTE5pUk1USGZGRVpiZUt1OS1hbzM3WFlROEpycmdsSUtEdHpiVGhfT1Utbmo0YmxSdE1LSG9PdExteUpHdnhWd3NsZHdDcWNnUzRTaXk0cE56dE41UzhVd0NsUmlmZ25NRmMtRVI4RS02djdIZw?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 06:10:42 GMT",
+        "source": "머니투데이",
+        "ageHours": 4.2
       },
       "delivered": [],
       "archived": false
     },
     {
       "post": {
-        "id": "59a6d7bf720fed0730697a75832c7c7d0c8de2585158e43914519608e203b503",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump invokes the Godfather in latest social media post as he eyes bumpy ride with Democrats - The Independent",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXdHaWpMXzlvNmZWZW9VSHRsdm0tSTI4eTAwWXdBZElaVXB6Z0cxMDJuS2dDN1hjZXMyVEZUM3lTZUFwaWIzRlhibmdyUFEtclhZajZLeEppXzJmTEdKVElGVklIQW9pTUF3Z2tlWjVKbF94NUduakw3R0dhMnhSRlpDeEFQWTFUVW1UVEIwRk1mdVluVWYxLVEwb3B2Yl9qTEREQ2JDUExySGtoVVhibTJ1bFhjNTJDSHRn?oc=5\" target=\"_blank\">Trump invokes the Godfather in latest social media post as he eyes bumpy ride with Democrats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXdHaWpMXzlvNmZWZW9VSHRsdm0tSTI4eTAwWXdBZElaVXB6Z0cxMDJuS2dDN1hjZXMyVEZUM3lTZUFwaWIzRlhibmdyUFEtclhZajZLeEppXzJmTEdKVElGVklIQW9pTUF3Z2tlWjVKbF94NUduakw3R0dhMnhSRlpDeEFQWTFUVW1UVEIwRk1mdVluVWYxLVEwb3B2Yl9qTEREQ2JDUExySGtoVVhibTJ1bFhjNTJDSHRn?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 09:59:00 GMT",
-        "source": "The Independent",
-        "ageHours": 0.2
+        "id": "132f985b0bf621fd8742d729ed4c799cff46fd814d6714764922328184998de0",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "'최민희 중징계'에 친청계 \"김민석은?\"…與계파갈등 벼랑끝으로 - 연합뉴스 한민족센터",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE43NXlvaGZ0bV9nT0U2bW5neEJYa1lrSDdTaDk3Y0NjSFBSMWFMNGRIRHJQLWYtYlhrR2F4QW9xTkJPS2RhWnEzZnplOUNuM1dKbERRclRjLWVQWG15eDFxRVUzb1lHMUsxTzJUUG00Z0RzME1N?oc=5\" target=\"_blank\">'최민희 중징계'에 친청계 \"김민석은?\"…與계파갈등 벼랑끝으로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스 한민족센터</font>",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43NXlvaGZ0bV9nT0U2bW5neEJYa1lrSDdTaDk3Y0NjSFBSMWFMNGRIRHJQLWYtYlhrR2F4QW9xTkJPS2RhWnEzZnplOUNuM1dKbERRclRjLWVQWG15eDFxRVUzb1lHMUsxTzJUUG00Z0RzME1N?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 10:13:08 GMT",
+        "source": "연합뉴스 한민족센터",
+        "ageHours": 0.1
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "fb36f21d0b4f6f37677aa2cbbb1fb273b628210a672bcb90953a3360874c3fec",
-    "title": "최민희, 중징계 의결에 즉각 \"재심 신청\"‥정청래도 \"납득 어려워\" - MBC 뉴스",
+    "postId": "a45814f3468bf296264b5789bdb142d8f502ddbc8a0263c1fb8975fdb82e2af0",
+    "title": "한동훈 수사자료 유출 의혹, 경찰이 법무부·공소청 압수수색에 나선 이유는? 🔍 - 뉴닉",
     "bot": "jongsuk_pol_bot",
-    "runId": "45979919541",
-    "sentAt": "2026-11-27T10:11:16.237Z"
+    "runId": "45981343316",
+    "sentAt": "2026-11-27T10:21:20.624Z"
   }
 }
