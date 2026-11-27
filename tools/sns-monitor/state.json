@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T23:01:15.279Z",
+  "lastCheckedAt": "2026-11-27T23:11:15.457Z",
   "seenPostIds": {
     "4c0f661fd3e18f248e96bc400ff4b318dd35d2cbaeb4f1912dc101e1ac9180aa": {
       "seenAt": "2026-11-25T08:31:19.562Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-27T22:51:17.022Z",
       "title": "최민희 중징계 의결에 친청계 반발…정청래 \"납득할 수 없어\"(종합) - 뉴스1",
       "targetName": "정청래"
+    },
+    "54e6509daff1c61a55f27622e8b2e13914ad1b57dafcf526d00b4e83b997aae5": {
+      "seenAt": "2026-11-27T23:11:17.068Z",
+      "title": "A Single Netflix Ruined Donald Trump Jr.'s Thanksgiving - Yahoo",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "a9047ed7e56a099f32f65134789d930e5d524236fe24a544b5e67a129a35b650",
-    "title": "최민희 중징계 의결에 친청계 반발…정청래 \"납득할 수 없어\"(종합) - 뉴스1",
+    "postId": "54e6509daff1c61a55f27622e8b2e13914ad1b57dafcf526d00b4e83b997aae5",
+    "title": "A Single Netflix Ruined Donald Trump Jr.'s Thanksgiving - Yahoo",
     "bot": "jongsuk_pol_bot",
-    "runId": "46079083360",
-    "sentAt": "2026-11-27T22:51:16.674Z"
+    "runId": "46081025690",
+    "sentAt": "2026-11-27T23:11:16.374Z"
   }
 }

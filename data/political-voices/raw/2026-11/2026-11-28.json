@@ -648,5 +648,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "54e6509daff1c61a55f27622e8b2e13914ad1b57dafcf526d00b4e83b997aae5",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "A Single Netflix Ruined Donald Trump Jr.'s Thanksgiving - Yahoo",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYzBWLUw0TkZGNm0yVDhFR2FJTU5YUW5PWlJ6NzhwdlIyZTgtZ2RUaUVpRHFoVkhtcXl1d0VuM2pwZDBMZGRLcFhuX3VzeFVGaHUyNjFVVjRwZDF4ZURaOFd2RWpmSFJWZS05UXlubElkT0Z1cThuV2hsd3RUb2VydEpVVmxWMG9ucFVTNjFrdlA2VXNyX1pST0tuU0FJQQ?oc=5\" target=\"_blank\">A Single Netflix Ruined Donald Trump Jr.'s Thanksgiving</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYzBWLUw0TkZGNm0yVDhFR2FJTU5YUW5PWlJ6NzhwdlIyZTgtZ2RUaUVpRHFoVkhtcXl1d0VuM2pwZDBMZGRLcFhuX3VzeFVGaHUyNjFVVjRwZDF4ZURaOFd2RWpmSFJWZS05UXlubElkT0Z1cThuV2hsd3RUb2VydEpVVmxWMG9ucFVTNjFrdlA2VXNyX1pST0tuU0FJQQ?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 19:58:57 GMT",
+    "source": "Yahoo",
+    "ageHours": 3.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] A Single Netflix Ruined Donald Trump Jr.'s Thanksgiving",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
