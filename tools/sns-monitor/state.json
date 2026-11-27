@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T15:41:14.340Z",
+  "lastCheckedAt": "2026-11-27T15:51:15.062Z",
   "seenPostIds": {
     "3f2697cd2c53006eacd985802494a90221a13b99accb29d2b6022c0518edd364": {
       "seenAt": "2026-11-25T06:51:16.583Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-27T15:21:14.958Z",
       "title": "[단독] '검찰 내부문건'을 한동훈에?‥\"유출자 찾는다\" 압수수색 - MBC 뉴스",
       "targetName": "한동훈"
+    },
+    "e0bcef0991d762bc1f88ec0002a9e36492c4d96a89b91c530cd5c3ae0f1cd7f1": {
+      "seenAt": "2026-11-27T15:51:16.685Z",
+      "title": "최민희 중징계에 정청래 \"김민석 해당 행위는 무엇이냐\" - www.gukjenews.com",
+      "targetName": "김민석"
+    },
+    "bce4635b596b425123cf81da16b5c0795af28d0347cfce61dad19d61f7621393": {
+      "seenAt": "2026-11-27T15:51:17.364Z",
+      "title": "최민희 중징계에 정청래 \"김민석 해당 행위는 무엇이냐\" - www.gukjenews.com",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c638c392289342f88ef0be95b6d2b1c2ae78a8e05bab158c4d4326e11a39b0bd",
-    "title": "[단독] '검찰 내부문건'을 한동훈에?‥\"유출자 찾는다\" 압수수색 - MBC 뉴스",
+    "postId": "bce4635b596b425123cf81da16b5c0795af28d0347cfce61dad19d61f7621393",
+    "title": "최민희 중징계에 정청래 \"김민석 해당 행위는 무엇이냐\" - www.gukjenews.com",
     "bot": "jongsuk_pol_bot",
-    "runId": "46024113028",
-    "sentAt": "2026-11-27T15:21:14.460Z"
+    "runId": "46028519410",
+    "sentAt": "2026-11-27T15:51:17.013Z"
   }
 }
