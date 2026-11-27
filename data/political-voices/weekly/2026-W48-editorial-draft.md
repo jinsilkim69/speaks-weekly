@@ -13391,3 +13391,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색 - KBS 뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2ODhWS05rMnlUSlc3LVo2a2dFLVFfWUxRaXhObkdULVQ4bjVWejZfU293cHduWXZ2dlZiZ20xcGJQT3dCTzZWV1VQVW1hV2NNUmlZT21UMHJTaUs3RHV2Um9OdWptdw?oc=5)
+
+---
+

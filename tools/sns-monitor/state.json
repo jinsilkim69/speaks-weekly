@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T13:01:18.329Z",
+  "lastCheckedAt": "2026-11-27T13:11:14.216Z",
   "seenPostIds": {
-    "010098bea9d5656477fd46ceba3255d1f1f868aa2b91871c6fd09641c4cc4473": {
-      "seenAt": "2026-11-25T05:51:18.717Z",
-      "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
-      "targetName": "송영길"
-    },
-    "f1bf77897b2029cc33f5af996ffab98c7e1d93742be6839cb5405c28c65912b1": {
-      "seenAt": "2026-11-25T06:01:18.605Z",
-      "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" | - 연합인포맥스",
-      "targetName": "송영길"
-    },
-    "14d8a114fcf8bff5efe19476b4c2f2ce304d288efeded9c9458c1820d5ddd51f": {
-      "seenAt": "2026-11-25T06:11:18.221Z",
-      "title": "\"李, 정청래 억울함 4시간 들어줘\"…정청래 \"송영길 의원은 입조심 하시라\" - 부산일보",
-      "targetName": "정청래"
-    },
     "30516755763532209ea6245c58218bfbceb8fbed46f73639784e4afbdf8aacf4": {
       "seenAt": "2026-11-25T06:11:18.913Z",
       "title": "‘송영길, 李대통령이 억울함 4시간 들어줘’ 발언에 정청래 “사람이 좀 묵직해야⋯입조심 하라” - 강원일보",
@@ -2515,14 +2500,19 @@
       "seenAt": "2026-11-27T13:01:21.122Z",
       "title": "Trump defends Putin friendship that Zelensky calls ‘strange’ - The Washington Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "05c38caa558731aa477512c65018646f76ffd84cce07f74af6a0b4de9b3aea6a": {
+      "seenAt": "2026-11-27T13:11:15.316Z",
+      "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색 - KBS 뉴스",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "99fbb19ba5cb20cc367bc58132a45a961b85cf08b84eb9ed48c8d75bb7596ff7",
-    "title": "Trump defends Putin friendship that Zelensky calls ‘strange’ - The Washington Post",
+    "postId": "05c38caa558731aa477512c65018646f76ffd84cce07f74af6a0b4de9b3aea6a",
+    "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색 - KBS 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "46003450598",
-    "sentAt": "2026-11-27T13:01:20.728Z"
+    "runId": "46004895312",
+    "sentAt": "2026-11-27T13:11:14.812Z"
   }
 }
