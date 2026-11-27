@@ -2577,5 +2577,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "71ff4e5a20710e2ceb209a5addc67e47d99061e68f8bcffbb97e50f4ad690922",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "‘욕하면 차단’… 이재명 대통령의 SNS 활용법 - 시사위크",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9qU3ZZSEhLY0NOWXJMeGE2ZTNrbkU3ZGFUdDZuTFBtSkkzZ3k3MElKUUdsOS1abnNhTS1udmZOdHE2eHVNcFVjeUpXRFE5cHRnMFBYNVJnb19vbktpZDBtdm5VOVZXSHlWZ2Jj0gFvQVVfeXFMTVVYZUo4a1hET2JwSEFVS1J0aTF2LUhKUGlkME5LckpXWUk4UHRPb0dJM0JQOXZsYWllMGN2Yl9oQ0YyWnNGUGowQjVXTEs4SEZwSk5HbTkwSGlpUy1wTU42bWRHdnBJZHRxTXdPZ29N?oc=5\" target=\"_blank\">‘욕하면 차단’… 이재명 대통령의 SNS 활용법</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사위크</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qU3ZZSEhLY0NOWXJMeGE2ZTNrbkU3ZGFUdDZuTFBtSkkzZ3k3MElKUUdsOS1abnNhTS1udmZOdHE2eHVNcFVjeUpXRFE5cHRnMFBYNVJnb19vbktpZDBtdm5VOVZXSHlWZ2Jj0gFvQVVfeXFMTVVYZUo4a1hET2JwSEFVS1J0aTF2LUhKUGlkME5LckpXWUk4UHRPb0dJM0JQOXZsYWllMGN2Yl9oQ0YyWnNGUGowQjVXTEs4SEZwSk5HbTkwSGlpUy1wTU42bWRHdnBJZHRxTXdPZ29N?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 01:46:17 GMT",
+    "source": "시사위크",
+    "ageHours": 2.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘욕하면 차단’… 이재명 대통령의 SNS 활용법",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
