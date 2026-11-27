@@ -12975,3 +12975,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** TV조선 ‘최휘영 교체 기습 통보’ 보도···이재명 대통령 “명예 훼손, 정정해달라” - 스포츠경향
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] TV조선 ‘최휘영 교체 기습 통보’ 보도···이재명 대통령 “명예 훼손, 정정해달라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhYjVvd0o0Y095RGZnMXE4UmpaYnpZenFsa29FUVJzczR2ZmR6NUpNa0xfa1NEbmNidWtleVpfdEJCbEpac1B5MVUyZ0JpTVBwUHFSTW92eEhWT2RndEHSAWNBVV95cUxPN2NDbElZX1hxVmI2TXc0ektJRUVkUzYyWHpiUzBfT0I5U00wbHhLSjlnQWFpSThvVFBMTDZXLUFtWG95SmF4Q2kzNlZveG5iekFFeFBJY0dIcnhOMzVwWDVzejQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [속보] 최민희 중징계 처분... 김민석 징계 안건 심사하기로 - OhmyNews
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 중징계 처분... 김민석 징계 안건 심사하기로
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWlIcXNlbEVMTVFtalZrdkNENXQzWUFuUnhLdUhfNDhLWDdCM3A2UVhndUViYmdmYkF2bGktNjRJY3NMR09vcmFhTGVjT0liZkk2YWVmTTNQUS1oM1NtVTNaRzJPdkFmU29PSTVOUkVQNlNJYWRMN3Y0cE44ZFctelJ3WDNsVXJuQmZaekVQeW0tYnZpQm1FZ0RVNXg?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 최민희, 중징계 의결에 즉각 "재심 신청"‥정청래도 "납득 어려워" - MBC 뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희, 중징계 의결에 즉각 "재심 신청"‥정청래도 "납득 어려워"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOW9EbmhUeXoxbks3WkNEbEctaDBWeUF3M3p5YVZVcnAxVEN1UmFLOXNaRFBGREZPbkhpOXVzeFVjYlRmYm1KOEk4TWppSjVjTlB5aDdTamM0VDlrdnYwTUlqSTczYmExb005WGNXTktjQmIzWDZSdtIBeEFVX3lxTE14d0dPNFVQMmRCSnVfbUxOUnRSbUE0cWIxc2dUZWtpZlZkSkNJZXNOUWVZdUZMdm9mNmE5NlpQaHRXcmZLaWpDc1dmS1FXWEU0SWh0dEZ2T2pmTzdCY0VCN0pia0tNTGNjZlN6QmRxYXZzdTNyRmhlVw?oc=5)
+
+---
+

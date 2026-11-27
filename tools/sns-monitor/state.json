@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T10:01:16.629Z",
+  "lastCheckedAt": "2026-11-27T10:11:13.872Z",
   "seenPostIds": {
     "d21bab3fec7fc0878afc0050724d36a90e73ec20283d8ca1c264143fa26592fb": {
       "seenAt": "2026-11-25T04:31:28.683Z",
@@ -2500,14 +2500,62 @@
       "seenAt": "2026-11-27T09:51:15.239Z",
       "title": "민주 윤리심판원, 최민희에 ‘중징계’ 의결…崔 “재심 청구”·정청래 “납득 불가” - 프리진뉴스",
       "targetName": "정청래"
+    },
+    "9737313d4d873d7ac85aeaaf6f6495836910185da4e8412d8bf7b4d50774d580": {
+      "seenAt": "2026-11-27T10:11:15.215Z",
+      "title": "TV조선 ‘최휘영 교체 기습 통보’ 보도···이재명 대통령 “명예 훼손, 정정해달라” - 스포츠경향",
+      "targetName": "이재명"
+    },
+    "1335aab03378b3dd97d63a6f0603347b0e8bf4cc9dcbf3519a2c3ec42ff59705": {
+      "seenAt": "2026-11-27T10:11:15.890Z",
+      "title": "[속보] 최민희 중징계 처분... 김민석 징계 안건 심사하기로 - OhmyNews",
+      "targetName": "김민석"
+    },
+    "fb36f21d0b4f6f37677aa2cbbb1fb273b628210a672bcb90953a3360874c3fec": {
+      "seenAt": "2026-11-27T10:11:16.562Z",
+      "title": "최민희, 중징계 의결에 즉각 \"재심 신청\"‥정청래도 \"납득 어려워\" - MBC 뉴스",
+      "targetName": "정청래"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "c1910b14cc6c3dd3b6331229b3528da109fdca5bac9bb4e1de280c3388f9bbb0",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "정청래, 최민희 중징계 의결에 \"납득할 수 없다\"…친청계 반발 - 뉴스1",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOUk02MnY3alg2TXg3ZXpZX2lhd3dHUzdIUU02bXhKVWNXSUpISmNNTzlGVlk4d01fR3NvUEV6dHNoMkVVVUxCZmdIT21yTHBFNG56SUpBNEkzdw?oc=5\" target=\"_blank\">정청래, 최민희 중징계 의결에 \"납득할 수 없다\"…친청계 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOUk02MnY3alg2TXg3ZXpZX2lhd3dHUzdIUU02bXhKVWNXSUpISmNNTzlGVlk4d01fR3NvUEV6dHNoMkVVVUxCZmdIT21yTHBFNG56SUpBNEkzdw?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 09:22:06 GMT",
+        "source": "뉴스1",
+        "ageHours": 0.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "59a6d7bf720fed0730697a75832c7c7d0c8de2585158e43914519608e203b503",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump invokes the Godfather in latest social media post as he eyes bumpy ride with Democrats - The Independent",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXdHaWpMXzlvNmZWZW9VSHRsdm0tSTI4eTAwWXdBZElaVXB6Z0cxMDJuS2dDN1hjZXMyVEZUM3lTZUFwaWIzRlhibmdyUFEtclhZajZLeEppXzJmTEdKVElGVklIQW9pTUF3Z2tlWjVKbF94NUduakw3R0dhMnhSRlpDeEFQWTFUVW1UVEIwRk1mdVluVWYxLVEwb3B2Yl9qTEREQ2JDUExySGtoVVhibTJ1bFhjNTJDSHRn?oc=5\" target=\"_blank\">Trump invokes the Godfather in latest social media post as he eyes bumpy ride with Democrats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXdHaWpMXzlvNmZWZW9VSHRsdm0tSTI4eTAwWXdBZElaVXB6Z0cxMDJuS2dDN1hjZXMyVEZUM3lTZUFwaWIzRlhibmdyUFEtclhZajZLeEppXzJmTEdKVElGVklIQW9pTUF3Z2tlWjVKbF94NUduakw3R0dhMnhSRlpDeEFQWTFUVW1UVEIwRk1mdVluVWYxLVEwb3B2Yl9qTEREQ2JDUExySGtoVVhibTJ1bFhjNTJDSHRn?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 09:59:00 GMT",
+        "source": "The Independent",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "01f1bd0657325be6ac5e27684c9db99907949c4463351a300a13019a7e7143b9",
-    "title": "민주 윤리심판원, 최민희에 ‘중징계’ 의결…崔 “재심 청구”·정청래 “납득 불가” - 프리진뉴스",
+    "postId": "fb36f21d0b4f6f37677aa2cbbb1fb273b628210a672bcb90953a3360874c3fec",
+    "title": "최민희, 중징계 의결에 즉각 \"재심 신청\"‥정청래도 \"납득 어려워\" - MBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45977127897",
-    "sentAt": "2026-11-27T09:51:14.603Z"
+    "runId": "45979919541",
+    "sentAt": "2026-11-27T10:11:16.237Z"
   }
 }
