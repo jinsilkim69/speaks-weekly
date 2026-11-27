@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T16:21:21.830Z",
+  "lastCheckedAt": "2026-11-27T16:31:17.645Z",
   "seenPostIds": {
-    "4f838d782a26c90137c604d65fd70b78b8199b4eddbdca315cb1f52deb8a34d4": {
-      "seenAt": "2026-11-25T07:03:53.947Z",
-      "title": "범여권 ‘조희대 탄핵’ 공동추진...신장식 “빠르게 출범” vs 양부남 “민주당 소추안부터” - 매일경제",
-      "targetName": "신장식"
-    },
-    "8903276f952845ce927f789a5a785e2febb30a67c8b94817da1b1c72eb21c43c": {
-      "seenAt": "2026-11-25T07:11:26.806Z",
-      "title": "이재명 대통령 \"가정폭력, 피해자 처벌 불원해도 책임 묻도록 법 개정\" - 굿모닝충청",
-      "targetName": "이재명"
-    },
     "2810be21bc6c7a21497d3f3816b23dd169bad0775ec660fe399a022ec12abd11": {
       "seenAt": "2026-11-25T07:11:27.549Z",
       "title": "한동훈 \"조희대 탄핵 인용되면 의원직 던지겠다\" - 한국경제",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-27T16:21:24.625Z",
       "title": "Trump backs Iraqi PM’s oil smuggling crackdown - Al Jazeera",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "4a23e23d08a406a00647460eab930fffdba16fe9c83c58d13f37a92a2f17cf42": {
+      "seenAt": "2026-11-27T16:31:19.104Z",
+      "title": "Trump’s Thanksgiving message attacks adversaries, migrants and economic data - The Washington Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "daae72f57f1e5e1f41a5ddde22c6a5dc1de25fd44cca6f10ddb36323de50ca50",
-    "title": "Trump backs Iraqi PM’s oil smuggling crackdown - Al Jazeera",
+    "postId": "4a23e23d08a406a00647460eab930fffdba16fe9c83c58d13f37a92a2f17cf42",
+    "title": "Trump’s Thanksgiving message attacks adversaries, migrants and economic data - The Washington Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "46032848796",
-    "sentAt": "2026-11-27T16:21:24.242Z"
+    "runId": "46034267009",
+    "sentAt": "2026-11-27T16:31:18.394Z"
   }
 }

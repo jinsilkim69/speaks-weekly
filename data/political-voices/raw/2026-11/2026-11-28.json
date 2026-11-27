@@ -148,5 +148,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "4a23e23d08a406a00647460eab930fffdba16fe9c83c58d13f37a92a2f17cf42",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump’s Thanksgiving message attacks adversaries, migrants and economic data - The Washington Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFRvR3lJb19Rd1JDWm5IV0FlUHVvSVYxNWlUQ2cwWWYtODhOa1dOZ2tTZlhPX2FtbERudmVJT08yOFI4N0I4anlFVDFTV1ZyNnEzMVU0WGVEV2ZFUWdwcjJYQXl2NEMzc3JCRzdLNW5fcWlvWUhfR0VpMnNBMTRfbTZITW0xQ1dUMEF4T2ZmSTBxc2l4RnhkQkhzcThsTVpfT3h6a0RpcEllZzRkdENycFVLR1VQNEo3SzJoMXRBMA?oc=5\" target=\"_blank\">Trump’s Thanksgiving message attacks adversaries, migrants and economic data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFRvR3lJb19Rd1JDWm5IV0FlUHVvSVYxNWlUQ2cwWWYtODhOa1dOZ2tTZlhPX2FtbERudmVJT08yOFI4N0I4anlFVDFTV1ZyNnEzMVU0WGVEV2ZFUWdwcjJYQXl2NEMzc3JCRzdLNW5fcWlvWUhfR0VpMnNBMTRfbTZITW0xQ1dUMEF4T2ZmSTBxc2l4RnhkQkhzcThsTVpfT3h6a0RpcEllZzRkdENycFVLR1VQNEo3SzJoMXRBMA?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 15:37:05 GMT",
+    "source": "The Washington Post",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump’s Thanksgiving message attacks adversaries, migrants and economic data",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
