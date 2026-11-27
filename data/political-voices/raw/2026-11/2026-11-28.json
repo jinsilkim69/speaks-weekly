@@ -473,5 +473,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "75bea6a44885a3093f7794c486e76f336c5e8f592920a43d9d03ee0b5cbef3f2",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석 “절박한 고민” 장동혁 “李정권 피해자”…청년 쟁탈전, 왜 - 중앙일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkNWJWMDBNSTJ6WmkxeHRWYlpQVTdsVmFFRUFUOG5VSEdpLV96ZWltUWhfZTJhSTZ0c3dXOVd1aVMydlhZV1V1eEJoNjNaQmpqaFdqVkdn?oc=5\" target=\"_blank\">김민석 “절박한 고민” 장동혁 “李정권 피해자”…청년 쟁탈전, 왜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkNWJWMDBNSTJ6WmkxeHRWYlpQVTdsVmFFRUFUOG5VSEdpLV96ZWltUWhfZTJhSTZ0c3dXOVd1aVMydlhZV1V1eEJoNjNaQmpqaFdqVkdn?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 21:00:01 GMT",
+    "source": "중앙일보",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 “절박한 고민” 장동혁 “李정권 피해자”…청년 쟁탈전, 왜",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
