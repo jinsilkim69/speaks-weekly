@@ -11727,3 +11727,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “정부 믿고 투자한 국민 피눈물…소각 전환형 증안펀드 즉각 추진해야” - 시사저널
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “정부 믿고 투자한 국민 피눈물…소각 전환형 증안펀드 즉각 추진해야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1mN09iRktHN1hPS29ud2c4UDFLUG5VQTRLYXZTTDVybW5mcDl4U1B5eXctY3hkUkVxSng3aDBHNG9pUi1KWUFseGpPaHBxcW4xMkN1TW9zNkRGYW1aN192YUVCUXViOGZBelBlcmEyNNIBc0FVX3lxTFBCcTBmZXM5YnlRa0lCTnFlaVBrbHVUSlhJbXhhNVpJOXByalpTUUR1OVlxMHhiSm9QRFUwVDJHZ1lsU2lGLThtd0YycV85Zm9la1prQ2NIS0VfWGRCbWJWVzZPU1VRbnhkNndiUENmQkd5REU?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Urges Putin To ‘Pull Back’ Aggression In Europe As US Delays Troop Posture Review - Radio Free Europe/Radio Liberty
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Urges Putin To ‘Pull Back’ Aggression In Europe As US Delays Troop Posture Review
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMijAFBVV95cUxON2x2aE1oVG9TRnM4ejM0M2xfLTBjVjktRHhuZnYwM19XLTBuSkNzNVFOR1B1SzZIejV2bVNFTUlCOC16eC1UWU1PM29QTk82b2lvb2hvRm9NdGh6V2RwMm1BQzYxN3Vidi1jbGdRZTlDOWlPWEVKTVU1Z2ZIdUlRMmxscVRsWjhHTnVnRdIBjAFBVV95cUxON2x2aE1oVG9TRnM4ejM0M2xfLTBjVjktRHhuZnYwM19XLTBuSkNzNVFOR1B1SzZIejV2bVNFTUlCOC16eC1UWU1PM29QTk82b2lvb2hvRm9NdGh6V2RwMm1BQzYxN3Vidi1jbGdRZTlDOWlPWEVKTVU1Z2ZIdUlRMmxscVRsWjhHTnVnRQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, '김승원 낙마 공세' 압수수색 대상 되자…"어디 마음대로 해보라" - 데일리안
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, '김승원 낙마 공세' 압수수색 대상 되자…"어디 마음대로 해보라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMimAJBVV95cUxORnFKdkRfOFJ6eDV0Qnl4bUo2MXc5SFlMYy1QM3NnUWtydldabzBfdXJ3NnhBazd5bm9EdXplRlJHN0tRbjNKME9jak5tRzZNNzJpMFl6UlF1WlJ1YkhHeWtKN3VCQzBLbXRiSHVabnlRb3pLRmJyX3k2SUFzbnI1cUMwbmpoRHRKQzVEQ29nMjkwY3lVS05SR1lBcXNFX1lMMXd3eWhiaENSOVR1bV9vUGNvOWNMRWtFRndQeDNHWWNaeWtQNjI0LXBRbVBJeW5qYWVGOHBjVkNhYXN0OG5mS0RvaHRqRGIzSC1JZkRyTVkxdmdvUFY4enhwRmRiNEtleTJscnQxb3Z4MFVORFZkR0Q3TVA2ZjdE?oc=5)
+
+---
+
