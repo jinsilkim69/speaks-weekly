@@ -12273,3 +12273,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "경찰, 김승원 돕기 수사…'민주당의 지팡이'로 나서" - 연합뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "경찰, 김승원 돕기 수사…'민주당의 지팡이'로 나서"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1venlPRTNrOHlwR3Y0OUZmUkFjTTBDdGNpeFJaWS1sM1BlUEpDV2VUWGl1V0dRaUlUQlc1anVXTjF2TXlXQk1KLVQyMXhGRURNaVNxMHZUTDBaOWPSAWBBVV95cUxNQXB0NndsMkttUkxXYjdfR01jWEUwTWlOSVNielY3VVY5Y2VUZ0NPWUxtUi1hQ3VLem1vVHVqYkU5MncxTTNZLV9hRWVPb1lHaXB6dFI4SFVaOXpkTlMxVko?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰 압수수색에…한동훈 "참 속 보이고 치졸한 정권" - 한국경제
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰 압수수색에…한동훈 "참 속 보이고 치졸한 정권"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkYjZ5ajE5WVhEZjI1U1VRMmlLeUxNWGx2bFBpQkZTRElUZHJpZEVLMzRYa0QwQlNBbU9FMDFDNzQzb3Q3aDRfMmpMbFRsbHZaVUxNRnJ0TUtyZw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 국힘 ‘조작 징계’ 내홍에…박수영 "주적은 장동혁·한동훈 아닌 이재명" - JTBC
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국힘 ‘조작 징계’ 내홍에…박수영 "주적은 장동혁·한동훈 아닌 이재명"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBITExHLXBHNGJFOXc2WTlCVTg2Nl9EVmMweUZreUdjVktLQVRqc2xGSnh2b3lybFFscXI2ZGZYczFYdnZCS1ZtVEEyVEJrVXNpalM2Ng?oc=5)
+
+---
+

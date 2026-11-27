@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T05:31:13.923Z",
+  "lastCheckedAt": "2026-11-27T05:41:15.748Z",
   "seenPostIds": {
-    "074e8bf26cea5ce34d90cddcf285892f691d566f7cc2882085cf8fa96579c635": {
-      "seenAt": "2026-11-25T01:21:17.670Z",
-      "title": "[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스",
-      "targetName": "조국"
-    },
-    "a117d0be27d42c6b9db36af080bcbac679033ce0fd25e92fcd414afbff636019": {
-      "seenAt": "2026-11-25T01:21:18.304Z",
-      "title": "한동훈 \"조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 직 걸어라\" - 시사포커스",
-      "targetName": "한동훈"
-    },
     "020f7588aee36a76c5b5ce8321adfc92876baa3d4920eb206e4430a0be9e62ae": {
       "seenAt": "2026-11-25T01:31:28.292Z",
       "title": "김민석 \"조희대 탄핵 위한 5당 연대 제안\"…신장식 \"지나치게 추상적\" - 데일리안",
@@ -2510,14 +2500,62 @@
       "seenAt": "2026-11-27T05:31:15.885Z",
       "title": "Trump media group splashes out to woo shareholders before merger vote - Financial Times",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "339f8ce38e725d6680ee6f66a1598f41247ad4711f68222d1a915293ace852a7": {
+      "seenAt": "2026-11-27T05:41:17.143Z",
+      "title": "한동훈 \"경찰, 김승원 돕기 수사…'민주당의 지팡이'로 나서\" - 연합뉴스",
+      "targetName": "한동훈"
+    },
+    "79a2a27e5fa99e6ee583a28da5aeca5634d424553db4f6927e1c72fe4c8179f1": {
+      "seenAt": "2026-11-27T05:41:17.878Z",
+      "title": "경찰 압수수색에…한동훈 \"참 속 보이고 치졸한 정권\" - 한국경제",
+      "targetName": "한동훈"
+    },
+    "d1f0a00d6b6218824fd8b920e0ee119ce51319a22539176dc7782c1254e5ebd1": {
+      "seenAt": "2026-11-27T05:41:18.672Z",
+      "title": "국힘 ‘조작 징계’ 내홍에…박수영 \"주적은 장동혁·한동훈 아닌 이재명\" - JTBC",
+      "targetName": "한동훈"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "b4272bfc9d0641aa38d9a105203b6c45665bbbdf3bfcdef297da3a5e36a80ce9",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "한민수 민주당 최고위원 “정청래 전 대표, 뭘 잘못했나? 호소 - 브레이크뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLeDhIaXJ6NEFnTjktekhzdENZRDM0RUVHMmlSVlhReXBsa1hTN2ZYNzdHMzFqX19aVlZ5cHdsVDNMUQ?oc=5\" target=\"_blank\">한민수 민주당 최고위원 “정청래 전 대표, 뭘 잘못했나? 호소</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">브레이크뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLeDhIaXJ6NEFnTjktekhzdENZRDM0RUVHMmlSVlhReXBsa1hTN2ZYNzdHMzFqX19aVlZ5cHdsVDNMUQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 04:56:00 GMT",
+        "source": "브레이크뉴스",
+        "ageHours": 0.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "94baacaefbbb4dfc15310d5c85e9594b758ec1d027bac3f69545b10dd49bb271",
+        "targetId": "song_younggil",
+        "targetName": "송영길",
+        "targetTitle": "소나무당 대표",
+        "title": "송영길 \"바보같은\"VS이재호 \"구민 모독\", 부영 땅 놓고 비난 공방 - 이데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPNWU5QWxKRkc2a3NENTYwNm9VRHB2T1BfamYtOXNaa3Q4RGNvSmE5Tk1DbEZnS2hqSmFRVEFQbmQ3WnhhS3ZFZjRvWmdnVEtWUnB3OWFqTDIzWDI0Q242ei1udjl0cDI1aGl4UUJtWkZMTEdUOU1tUmZHNTVoOFdqRQ?oc=5\" target=\"_blank\">송영길 \"바보같은\"VS이재호 \"구민 모독\", 부영 땅 놓고 비난 공방</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNWU5QWxKRkc2a3NENTYwNm9VRHB2T1BfamYtOXNaa3Q4RGNvSmE5Tk1DbEZnS2hqSmFRVEFQbmQ3WnhhS3ZFZjRvWmdnVEtWUnB3OWFqTDIzWDI0Q242ei1udjl0cDI1aGl4UUJtWkZMTEdUOU1tUmZHNTVoOFdqRQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 05:25:06 GMT",
+        "source": "이데일리",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "aded11fbc0bfff9f48036a4ef19e58d068f05be7503ae8d5b4d8e2a9b4aaf7e7",
-    "title": "Trump media group splashes out to woo shareholders before merger vote - Financial Times",
+    "postId": "d1f0a00d6b6218824fd8b920e0ee119ce51319a22539176dc7782c1254e5ebd1",
+    "title": "국힘 ‘조작 징계’ 내홍에…박수영 \"주적은 장동혁·한동훈 아닌 이재명\" - JTBC",
     "bot": "jongsuk_pol_bot",
-    "runId": "45946261271",
-    "sentAt": "2026-11-27T05:31:15.565Z"
+    "runId": "45947250892",
+    "sentAt": "2026-11-27T05:41:18.278Z"
   }
 }
