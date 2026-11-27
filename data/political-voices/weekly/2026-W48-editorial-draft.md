@@ -12351,3 +12351,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사 - YTN
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidkFVX3lxTFBfby0xbkZsSi1Ba3RDMnhCWmc5S1NaMlUxTGpYYUtCQXdoTHdXMk11RURhR1ltQU1mbmtsbU1zdUVjR0U1dlE2RWNoZ0dBek1rcUVMT21PZXNQYi1Sd2l5d2hiUkN0UTFvQWtuX054bExKVkNxZ2c?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "경찰, 김승원 돕기 수사…'민주당의 지팡이'로 나서" - 연합뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "경찰, 김승원 돕기 수사…'민주당의 지팡이'로 나서"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1venlPRTNrOHlwR3Y0OUZmUkFjTTBDdGNpeFJaWS1sM1BlUEpDV2VUWGl1V0dRaUlUQlc1anVXTjF2TXlXQk1KLVQyMXhGRURNaVNxMHZUTDBaOWM?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 경찰 법무부·공소청 압수수색에 “참 속보이고 치졸한 정권” - 강원도민일보
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 경찰 법무부·공소청 압수수색에 “참 속보이고 치졸한 정권”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zSVRBeVhuNWp2eXFlb1pzZk9mR0NVZkdjMl9CZjRPcnUxSFlsdGI5OXdfX0dwbEY5VU9sbWVLN3ZsQ3dxbVpMRTJBYlIzNHhmQ3dhSkFhMGpRSGI4NDdOT2FxOFp2MFEy?oc=5)
+
+---
+

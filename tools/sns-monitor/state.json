@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T05:51:13.454Z",
+  "lastCheckedAt": "2026-11-27T06:01:18.202Z",
   "seenPostIds": {
-    "1e5f648517c18cb175864a05e71a54ce844531cf5016cc08f8b6c5f05efd6d0b": {
-      "seenAt": "2026-11-25T01:41:26.405Z",
-      "title": "한동훈 “조희대 탄핵 인용 시 의원직 사퇴… 서영교·박선원도 약속하라” - AI경기방송",
-      "targetName": "한동훈"
-    },
-    "485a1ff927af1ad4c25d79f4d030683ca5922eaaf2c8558268f002c137ed09fd": {
-      "seenAt": "2026-11-25T01:41:27.149Z",
-      "title": "정청래 ‘운동권 선배’ 송영길에 “입 싼 사람” - 에너지경제신문",
-      "targetName": "송영길"
-    },
-    "981609f1d579e2791780e8cabfa69e7f26cb76b9dcc394c4381de9f0d641da7c": {
-      "seenAt": "2026-11-25T01:41:27.896Z",
-      "title": "송영길 \"李대통령, 억울한 점 다독여줬다\"...정청래 \"입 조심하라\" - 머니투데이 - 머니투데이",
-      "targetName": "송영길"
-    },
     "8707fd7a33c25463f314e66fb35ff9ad81fe80e93e75771b9e724e684490cdf9": {
       "seenAt": "2026-11-25T01:51:14.812Z",
       "title": "정청래 \"입 싼 송영길과 말 섞고 싶지 않아...자격 없는 사람 입조심 하라\" - 뉴스핌",
@@ -2515,31 +2500,46 @@
       "seenAt": "2026-11-27T05:51:15.909Z",
       "title": "이재명 대통령 \"폭언·욕설하면 차단한다\"...SNS 계정 차단 공개 언급 - 더퍼블릭",
       "targetName": "이재명"
+    },
+    "275a553cd85a32df9f63ec827cf6eaf3bd131c6c6e3e1bf18dde5f28c6fc361d": {
+      "seenAt": "2026-11-27T06:01:19.637Z",
+      "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사 - YTN",
+      "targetName": "한동훈"
+    },
+    "a54c4618811eaab1222fedee0f11ef0b61da2bf5aab602b1f17a2a77a06f0d48": {
+      "seenAt": "2026-11-27T06:01:20.303Z",
+      "title": "한동훈 \"경찰, 김승원 돕기 수사…'민주당의 지팡이'로 나서\" - 연합뉴스",
+      "targetName": "한동훈"
+    },
+    "3ea02c777110848385c9b741dd78a50884641a98428072ad6f458750999ba8c8": {
+      "seenAt": "2026-11-27T06:01:20.976Z",
+      "title": "한동훈, 경찰 법무부·공소청 압수수색에 “참 속보이고 치졸한 정권” - 강원도민일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "275a553cd85a32df9f63ec827cf6eaf3bd131c6c6e3e1bf18dde5f28c6fc361d",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사 - YTN",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBfby0xbkZsSi1Ba3RDMnhCWmc5S1NaMlUxTGpYYUtCQXdoTHdXMk11RURhR1ltQU1mbmtsbU1zdUVjR0U1dlE2RWNoZ0dBek1rcUVMT21PZXNQYi1Sd2l5d2hiUkN0UTFvQWtuX054bExKVkNxZ2c?oc=5\" target=\"_blank\">경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfby0xbkZsSi1Ba3RDMnhCWmc5S1NaMlUxTGpYYUtCQXdoTHdXMk11RURhR1ltQU1mbmtsbU1zdUVjR0U1dlE2RWNoZ0dBek1rcUVMT21PZXNQYi1Sd2l5d2hiUkN0UTFvQWtuX054bExKVkNxZ2c?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 02:32:00 GMT",
-        "source": "YTN",
-        "ageHours": 3.3
+        "id": "b1647771cc7dda4de96c88f3c0ad9becc9da2d28c481ff3109ec6cb873926893",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "민주당 중진 12명 만찬에도 김민석·정청래 불참…정청래 “화해 빙자한 몽둥이 찜질” - 뉴스코리아",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dUFwYldyeVo5bVBDSVJaVGhqSG1oSnRWUkYtNDJuNWhVOGl6RTNUcG1MWk9RU1JEUFhFLW5mcURTaF9QZnFJMFpOTUJGcGtGR1BxdU5wTGtyNUFaZ3FfcTk1b0gxUFg4Y3lWVkNB?oc=5\" target=\"_blank\">민주당 중진 12명 만찬에도 김민석·정청래 불참…정청래 “화해 빙자한 몽둥이 찜질”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스코리아</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dUFwYldyeVo5bVBDSVJaVGhqSG1oSnRWUkYtNDJuNWhVOGl6RTNUcG1MWk9RU1JEUFhFLW5mcURTaF9QZnFJMFpOTUJGcGtGR1BxdU5wTGtyNUFaZ3FfcTk1b0gxUFg4Y3lWVkNB?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 05:42:13 GMT",
+        "source": "뉴스코리아",
+        "ageHours": 0.3
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "7c7c2cafe4fc2f2aab70bc81eaac18effd2bfc22268a5ced00c330a0ac5b4e0e",
-    "title": "이재명 대통령 \"폭언·욕설하면 차단한다\"...SNS 계정 차단 공개 언급 - 더퍼블릭",
+    "postId": "3ea02c777110848385c9b741dd78a50884641a98428072ad6f458750999ba8c8",
+    "title": "한동훈, 경찰 법무부·공소청 압수수색에 “참 속보이고 치졸한 정권” - 강원도민일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "45948227393",
-    "sentAt": "2026-11-27T05:51:15.585Z"
+    "runId": "45949190550",
+    "sentAt": "2026-11-27T06:01:20.629Z"
   }
 }
