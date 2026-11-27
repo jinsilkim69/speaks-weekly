@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T03:21:13.305Z",
+  "lastCheckedAt": "2026-11-27T03:31:14.540Z",
   "seenPostIds": {
-    "40e512cd322f1c3524c9d36186716f9f84e995f3fc1c808097398f84d9afee57": {
-      "seenAt": "2026-11-25T00:11:17.319Z",
-      "title": "[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스",
-      "targetName": "조국"
-    },
-    "40a2e7f23984d81e01b4a248876a77a70823994634a7a83d2b67d756603edfa5": {
-      "seenAt": "2026-11-25T00:21:16.694Z",
-      "title": "한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸라…인용되면 난 사퇴” - 중앙일보",
-      "targetName": "한동훈"
-    },
-    "061f1d8146d802fb599acc39422c458dbd6a33376f9778e3886cc1a6c421c7db": {
-      "seenAt": "2026-11-25T00:21:17.444Z",
-      "title": "조국, 연이은 호남 강연 행보…\"민생·개혁보다 내부 분쟁에 몰두\" - KBC광주방송",
-      "targetName": "조국"
-    },
     "6fcbedf56cad51d43758d529580217fd6be409a7810b4227f2852bf941c21e41": {
       "seenAt": "2026-11-25T00:41:14.190Z",
       "title": "한동훈 “조희대 탄핵시 의원직 사퇴…서영교·박선원도 사퇴 약속하라” - 헤럴드경제",
@@ -2515,31 +2500,19 @@
       "seenAt": "2026-11-27T03:21:15.573Z",
       "title": "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색 - KBS 뉴스",
       "targetName": "한동훈"
+    },
+    "62b259bbee511d7500227947a3ad7f4e9c55c086501a34d01b5aff064065bad9": {
+      "seenAt": "2026-11-27T03:31:15.838Z",
+      "title": "신장식 \"조희대 탄핵안 12월 3일 처리해야…더 늦어지면 역풍\" - 민주신문",
+      "targetName": "신장식"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "62b259bbee511d7500227947a3ad7f4e9c55c086501a34d01b5aff064065bad9",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 \"조희대 탄핵안 12월 3일 처리해야…더 늦어지면 역풍\" - 민주신문",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xYW9WanFIckNIRkZ1ai1pMEN0MkpHUHo1NVN6ZC00MlZKemNla19XX1BtWjk2b2dGcWQzNnB5c1N3aUNFMVpmdmE5dW5jNVlxT1RJb1hxOTEtZ25KMElhWFFvYVdWaUU?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵안 12월 3일 처리해야…더 늦어지면 역풍\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">민주신문</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xYW9WanFIckNIRkZ1ai1pMEN0MkpHUHo1NVN6ZC00MlZKemNla19XX1BtWjk2b2dGcWQzNnB5c1N3aUNFMVpmdmE5dW5jNVlxT1RJb1hxOTEtZ25KMElhWFFvYVdWaUU?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:05:48 GMT",
-        "source": "민주신문",
-        "ageHours": 2.3
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "ab554b7c54f1c533eee4b8ee5d3dc68e7a1ab9fc7d09e3c663080baae04ba00f",
-    "title": "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색 - KBS 뉴스",
+    "postId": "62b259bbee511d7500227947a3ad7f4e9c55c086501a34d01b5aff064065bad9",
+    "title": "신장식 \"조희대 탄핵안 12월 3일 처리해야…더 늦어지면 역풍\" - 민주신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45933645057",
-    "sentAt": "2026-11-27T03:21:15.278Z"
+    "runId": "45934623875",
+    "sentAt": "2026-11-27T03:31:15.282Z"
   }
 }

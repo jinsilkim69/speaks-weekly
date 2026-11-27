@@ -2476,5 +2476,31 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "62b259bbee511d7500227947a3ad7f4e9c55c086501a34d01b5aff064065bad9",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "신장식 \"조희대 탄핵안 12월 3일 처리해야…더 늦어지면 역풍\" - 민주신문",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xYW9WanFIckNIRkZ1ai1pMEN0MkpHUHo1NVN6ZC00MlZKemNla19XX1BtWjk2b2dGcWQzNnB5c1N3aUNFMVpmdmE5dW5jNVlxT1RJb1hxOTEtZ25KMElhWFFvYVdWaUU?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵안 12월 3일 처리해야…더 늦어지면 역풍\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">민주신문</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xYW9WanFIckNIRkZ1ai1pMEN0MkpHUHo1NVN6ZC00MlZKemNla19XX1BtWjk2b2dGcWQzNnB5c1N3aUNFMVpmdmE5dW5jNVlxT1RJb1hxOTEtZ25KMElhWFFvYVdWaUU?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 01:05:48 GMT",
+    "source": "민주신문",
+    "ageHours": 2.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식 \"조희대 탄핵안 12월 3일 처리해야…더 늦어지면 역풍\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
