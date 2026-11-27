@@ -12611,3 +12611,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 오늘 징계 심의…친청계 “김민석부터 징계하라” - 주간조선
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 오늘 징계 심의…친청계 “김민석부터 징계하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1vQW91bUk0QW85Z1k2RVZ3Zk5udDdSOTJlUkdpNFhReUk1Y0hKNWFhdVdYbWR5QmFHZTVTbFNkd256U0NtS1RVTkhrQk1sZlloUktCZEpvNG1sNGlDOXNwQ2JBeWdYU0thcC1n?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** [포토] 축사하는 송영길 더불어민주당 국회의원 (K-라이스 페스타) - 아주경제
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 축사하는 송영길 더불어민주당 국회의원 (K-라이스 페스타)
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yZU02OU8zTzdxUTluZkVKZ3hJOTFqOXluM2NDUFRlWXF2NTRCTGMtNWFtSjJTaXN3c3JZQjVCdm40b1dyX2s3MFNnelhyRGc0SmNLS2tyZjBwQdIBWEFVX3lxTE1TdGNXbmpDaTJXMU1kTVNtSFZVZE11NDVzNVZtNFBxVTg4V0c2aFJzQXQ4SXVULTRBX19US3E0Slo2eGFkZmZJY2J0cHR6MnIxVlBhdjFwMHo?oc=5)
+
+---
+
