@@ -13898,3 +13898,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 `당원권 정지 2년`에 정청래 `김민석은?`…민주당 내홍 격화 - 매일신문
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 `당원권 정지 2년`에 정청래 `김민석은?`…민주당 내홍 격화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sYmpwZWNpQXBUdzNUTXhmWnZkbk41YU5qamtWcnJNZmNXZm0yUmRYQ3hIZ2s2dVU0TWFJMW51QWxPWk91MWlla2hHeUoybzdrZE1oVFJJUE84TE9TeFpvTXNB?oc=5)
+
+---
+
+## [검색 후보] 천하람 (직함 확인 필요)
+**기사 제목:** '강적들' 김재섭 "강금실 카드, 똥차 가고 폐차 왔다"...천하람 "鄭, 최민희에 부글부글" - 싱글리스트
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '강적들' 김재섭 "강금실 카드, 똥차 가고 폐차 왔다"...천하람 "鄭, 최민희에 부글부글"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yMUtpaXI0cnhlZkxpUU5xN1hqRTBUT09PbDFrRzVoTkVrenQtajlhamR6WDdQX1ZyaXR2c3ZhRlZVakFWeXVsZ2lDbnd6djMxZVpEdmdPTkdHREVTbk1JUzNfaWJ3QQ?oc=5)
+
+---
+
