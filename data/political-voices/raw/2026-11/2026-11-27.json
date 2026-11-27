@@ -3853,5 +3853,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "29f3217effb92aa474c7ad7f55e2f5261a5980195fa825c3a75e50f6c06a4f7a",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Natalie Harp Pulled Into Donald Trump’s Truth Social Legal Fight — Report - Yahoo",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNZGlqd3JUV2ZQMThFZVo4c2pUT191d3ZHc3c0NTBaNGQtZThHemkwNFpFUjA1dWtNQlFFMGZxcjNnVXdNWkFWa3I5OENzcXZ6SXJJc1dtbU55V1RkcjN4b0ZoMmFnZ0ViTW1OVlhYRlF6MERHTzhVcGRlQWNkdlFyejFFTmdYUi01dWp6SDZabm8zLURBNmlv?oc=5\" target=\"_blank\">Natalie Harp Pulled Into Donald Trump’s Truth Social Legal Fight — Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZGlqd3JUV2ZQMThFZVo4c2pUT191d3ZHc3c0NTBaNGQtZThHemkwNFpFUjA1dWtNQlFFMGZxcjNnVXdNWkFWa3I5OENzcXZ6SXJJc1dtbU55V1RkcjN4b0ZoMmFnZ0ViTW1OVlhYRlF6MERHTzhVcGRlQWNkdlFyejFFTmdYUi01dWp6SDZabm8zLURBNmlv?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 20:23:04 GMT",
+    "source": "Yahoo",
+    "ageHours": 12.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Natalie Harp Pulled Into Donald Trump’s Truth Social Legal Fight — Report",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

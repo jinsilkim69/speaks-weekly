@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T08:21:16.585Z",
+  "lastCheckedAt": "2026-11-27T08:31:13.164Z",
   "seenPostIds": {
-    "890bb2ea6dde29e56e54b2f05328786525935ab255ee5b4e323e18aee4ba388e": {
-      "seenAt": "2026-11-25T03:31:16.529Z",
-      "title": "정청래, 송영길에 '2차 공세'…與 신천지 내홍, 내년 4월까지 이어지나 - 한국경제",
-      "targetName": "정청래"
-    },
-    "bdbb5a29ccc22223628b018e481b95979339c9a5f96fc0ebed8f6ab5cae142f7": {
-      "seenAt": "2026-11-25T03:31:17.215Z",
-      "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
-      "targetName": "정청래"
-    },
-    "9b65706dab9a4e60d9fe45feddf0fd3efbfcf086ce6dd13452cb62971aa9f89e": {
-      "seenAt": "2026-11-25T03:41:15.436Z",
-      "title": "송영길 \"이 대통령, 정청래 억울함 4시간 들어\"‥정 \"입 조심하라\" - MBC 뉴스",
-      "targetName": "송영길"
-    },
     "72cdfe46f41e0381819e3a204b015c4e686ba4837799c1dd35080e8167dfc6ab": {
       "seenAt": "2026-11-25T03:41:16.050Z",
       "title": "정청래, 송영길에 '2차 공세'…與 신천지 내홍, 내년 4월까지 이어지나 - 한국경제",
@@ -2515,14 +2500,19 @@
       "seenAt": "2026-11-27T08:21:19.502Z",
       "title": "이준석\"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐\" - 부산파이낸셜뉴스",
       "targetName": "이준석"
+    },
+    "29f3217effb92aa474c7ad7f55e2f5261a5980195fa825c3a75e50f6c06a4f7a": {
+      "seenAt": "2026-11-27T08:31:14.477Z",
+      "title": "Natalie Harp Pulled Into Donald Trump’s Truth Social Legal Fight — Report - Yahoo",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "85dea5879b371f0a3606a650695692d26d8d0ddbe3816004caa92be88ee59821",
-    "title": "이준석\"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐\" - 부산파이낸셜뉴스",
+    "postId": "29f3217effb92aa474c7ad7f55e2f5261a5980195fa825c3a75e50f6c06a4f7a",
+    "title": "Natalie Harp Pulled Into Donald Trump’s Truth Social Legal Fight — Report - Yahoo",
     "bot": "jongsuk_pol_bot",
-    "runId": "45964970939",
-    "sentAt": "2026-11-27T08:21:19.146Z"
+    "runId": "45966275310",
+    "sentAt": "2026-11-27T08:31:13.778Z"
   }
 }
