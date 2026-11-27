@@ -11493,3 +11493,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [속보] 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색 - KBS 뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxclgtU3B2Skg4QnFkRHkzb2hKUU1kSXk3OWtoSXlJNWJSS202VnRUdUdTbm5meG43R0IxcGFOVmZrdnV4ZlpGTVN4R09OWWRPRVA2ZG9XUmlKdHM?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석·정청래 빠진 만찬 회동‥與 중진들 "단결·민생 전념" - MBC 뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석·정청래 빠진 만찬 회동‥與 중진들 "단결·민생 전념"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYdIBeEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김영진 "신천지 싸움 과해 국민 관심도 없어…김민석·정청래 그만" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김영진 "신천지 싸움 과해 국민 관심도 없어…김민석·정청래 그만"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTFBaVGtmMXkzRlUtWXRXdDBOQ3ZGenlraGFEeXZhdU4tVTM3d2d0dUtjcmFTQ1JqLXhvdzdBc1ZlMldrSkhwNWc4V0F2VEtKbG9PbFNpODJVbUoteVV5THk5elhDbWdjM24yREduOWVRV3pzQ041SFJZYmhR0gF_QVVfeXFMUExpSjFMT19ZenBCOTdvMFlNZWZXVmNsZ3dXWXlUdDZpcmtYVVFqcGljRkNTMUw1eGJTUFRxWE5kekVyTFZyVUVHZkNNZlVkWWZCTUxxNWtaYzh4OUFDYkVGY2ZtTXczX0hHc3A5cnBMdjNCRUhjaDZOdXhyTi1Jaw?oc=5)
+
+---
+

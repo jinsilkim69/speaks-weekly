@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T00:51:20.479Z",
+  "lastCheckedAt": "2026-11-27T01:01:13.864Z",
   "seenPostIds": {
-    "f0d729ad50918f5005c51ff5bc2262bf4f909f3991ccfe6449e13043f5eb3ca2": {
-      "seenAt": "2026-11-24T13:11:15.028Z",
-      "title": "김민석 취임 100일에 SNS 글 5개 올린 정청래…金 “말씀드릴 필요 없어” - 매일경제",
-      "targetName": "김민석"
-    },
-    "88655d06e3e65827f3dcf3d13917595916cd1b22ad005d841e3c5defe1dcca15": {
-      "seenAt": "2026-11-24T13:11:15.682Z",
-      "title": "‘명픽’ 이광수의 ‘코스피 5000 붕괴 눈물’...그 영상 공유한 조국 - 경기일보",
-      "targetName": "조국"
-    },
-    "073694f9421d93abe1c0aada660b10cae96b303bb8e19e43be06d35c8e9b1af3": {
-      "seenAt": "2026-11-24T13:21:18.798Z",
-      "title": "권양숙 여사 “노무현·이재명 대통령 식성·수면·성격 닮아…건강 챙기시라” - 경기일보",
-      "targetName": "이재명"
-    },
     "e351f355b495b59ae74dac275ea19edf2d0763e9e9c48bd1ef2c0b810e0b1c59": {
       "seenAt": "2026-11-24T13:31:21.833Z",
       "title": "김민석 취임 100일에 SNS 글 5개 올린 정청래…金 “말씀드릴 필요 없어” - 매일경제",
@@ -2515,20 +2500,35 @@
       "seenAt": "2026-11-27T00:51:23.657Z",
       "title": "장동혁 “한동훈 복당해도 다시 징계할 수 있다”…추가 사유 주장 - 주간시사매거진",
       "targetName": "한동훈"
+    },
+    "2c15d7cf2048110685537d017b4b8208fa72c7c363fcb47e544191273f008363": {
+      "seenAt": "2026-11-27T01:01:15.120Z",
+      "title": "[속보] 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색 - KBS 뉴스",
+      "targetName": "한동훈"
+    },
+    "683740c155769630d9bc0134654177f20cf8d80cb50538881beb1858f2c5a4a7": {
+      "seenAt": "2026-11-27T01:01:15.846Z",
+      "title": "김민석·정청래 빠진 만찬 회동‥與 중진들 \"단결·민생 전념\" - MBC 뉴스",
+      "targetName": "정청래"
+    },
+    "2ef00f078c4f9b387923d5219105ea0eed428ce8c2fa949abc090aaabed42fc4": {
+      "seenAt": "2026-11-27T01:01:16.508Z",
+      "title": "김영진 \"신천지 싸움 과해 국민 관심도 없어…김민석·정청래 그만\" - 머니투데이 - 머니투데이",
+      "targetName": "정청래"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "2c15d7cf2048110685537d017b4b8208fa72c7c363fcb47e544191273f008363",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "[속보] 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색 - KBS 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxclgtU3B2Skg4QnFkRHkzb2hKUU1kSXk3OWtoSXlJNWJSS202VnRUdUdTbm5meG43R0IxcGFOVmZrdnV4ZlpGTVN4R09OWWRPRVA2ZG9XUmlKdHM?oc=5\" target=\"_blank\">[속보] 경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxclgtU3B2Skg4QnFkRHkzb2hKUU1kSXk3OWtoSXlJNWJSS202VnRUdUdTbm5meG43R0IxcGFOVmZrdnV4ZlpGTVN4R09OWWRPRVA2ZG9XUmlKdHM?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 00:43:00 GMT",
-        "source": "KBS 뉴스",
+        "id": "f96eace3227a7fb8bad0accecd3d54c066103a5a8c4341ad754fb98fd26d013b",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 조국혁신당 혁신정책연구원장, ‘소각 전환형 증시안정펀드’를 즉각 추진해야 한다 - 의정일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1jSGIwTXhoN0JsWVdYYjVjVEdjM0xZaTlRNHpLQTEwYUx3ZGZFcU1CdHlpVDgwMGhyZ2gxLTZFUlR3TGh5OU1GOXFabEg1aWRENjRBeVBwak5odHF6NmtnNURRdXFPOGpwakE?oc=5\" target=\"_blank\">조국 조국혁신당 혁신정책연구원장, ‘소각 전환형 증시안정펀드’를 즉각 추진해야 한다</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">의정일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jSGIwTXhoN0JsWVdYYjVjVEdjM0xZaTlRNHpLQTEwYUx3ZGZFcU1CdHlpVDgwMGhyZ2gxLTZFUlR3TGh5OU1GOXFabEg1aWRENjRBeVBwak5odHF6NmtnNURRdXFPOGpwakE?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 00:55:00 GMT",
+        "source": "의정일보",
         "ageHours": 0.1
       },
       "delivered": [],
@@ -2536,10 +2536,10 @@
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "a5c0a59fdc504dac3f810fc127b57c2b9ed5e5d7802f59a8b813f723f4dca608",
-    "title": "장동혁 “한동훈 복당해도 다시 징계할 수 있다”…추가 사유 주장 - 주간시사매거진",
+    "postId": "2ef00f078c4f9b387923d5219105ea0eed428ce8c2fa949abc090aaabed42fc4",
+    "title": "김영진 \"신천지 싸움 과해 국민 관심도 없어…김민석·정청래 그만\" - 머니투데이 - 머니투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45919141021",
-    "sentAt": "2026-11-27T00:51:23.290Z"
+    "runId": "45920098294",
+    "sentAt": "2026-11-27T01:01:16.178Z"
   }
 }
