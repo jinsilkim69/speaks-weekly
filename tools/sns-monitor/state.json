@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T23:11:15.457Z",
+  "lastCheckedAt": "2026-11-27T23:21:13.426Z",
   "seenPostIds": {
-    "4c0f661fd3e18f248e96bc400ff4b318dd35d2cbaeb4f1912dc101e1ac9180aa": {
-      "seenAt": "2026-11-25T08:31:19.562Z",
-      "title": "김민석 취임 100일에도 내홍…정청래 \"당 초토화\" - 연합뉴스TV",
-      "targetName": "김민석"
-    },
     "ab5abdae3dbfd764910ca9d9f954d7da213a426bb01e4a1b18c68271cf1085e7": {
       "seenAt": "2026-11-25T08:31:20.353Z",
       "title": "조국혁신당·진보당, '조희대 탄핵 5당 연대' 제안 환영...절차·일정 합의 요청 - 뉴스핌",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-27T23:11:17.068Z",
       "title": "A Single Netflix Ruined Donald Trump Jr.'s Thanksgiving - Yahoo",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "5389e91b975a3a70a6bfc94fe97ae70c95d9d779ae5f24fd16c57533519531fa": {
+      "seenAt": "2026-11-27T23:21:14.724Z",
+      "title": "“최민희가 중징계면 김민석은?”…최민희 당원자격정지에 정청래의 반응 - 문화일보",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "54e6509daff1c61a55f27622e8b2e13914ad1b57dafcf526d00b4e83b997aae5",
-    "title": "A Single Netflix Ruined Donald Trump Jr.'s Thanksgiving - Yahoo",
+    "postId": "5389e91b975a3a70a6bfc94fe97ae70c95d9d779ae5f24fd16c57533519531fa",
+    "title": "“최민희가 중징계면 김민석은?”…최민희 당원자격정지에 정청래의 반응 - 문화일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "46081025690",
-    "sentAt": "2026-11-27T23:11:16.374Z"
+    "runId": "46081995024",
+    "sentAt": "2026-11-27T23:21:14.101Z"
   }
 }
