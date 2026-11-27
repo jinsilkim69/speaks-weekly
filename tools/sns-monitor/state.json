@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T07:41:13.415Z",
+  "lastCheckedAt": "2026-11-27T07:51:12.078Z",
   "seenPostIds": {
-    "341f16fb409b5f105e2461522803509fa3499e6e12fbdd79ad37519ffba7c577": {
-      "seenAt": "2026-11-25T03:11:15.389Z",
-      "title": "이재명 대통령 \"마지막 한 명까지 역사교정\"… 경찰, 정부포상 10만건 전수조사 - 한국뉴스",
-      "targetName": "이재명"
-    },
-    "1f076ad0f95daa12e242e5c68382bed1576de216c6f977a71583f478f80a5c06": {
-      "seenAt": "2026-11-25T03:11:15.998Z",
-      "title": "한동훈 \"서영교·박선원, '대법원장 탄핵 인용'에 직 걸라…인용 시 나도 사퇴\" - 데일리안",
-      "targetName": "한동훈"
-    },
-    "52412714706350ae5c2ff2df7ae52be04b71eed2f8440c7014e7429140b06da1": {
-      "seenAt": "2026-11-25T03:11:16.603Z",
-      "title": "한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문",
-      "targetName": "한동훈"
-    },
     "bc86abb097c94ed11d9e47a663c08b21cbc46dfb88d5e2e55e68715d3c7cc711": {
       "seenAt": "2026-11-25T03:21:18.399Z",
       "title": "송영길 “청와대서 鄭 억울함 4시간 들어줘”…정청래 “입조심 하라” - 미주중앙일보",
@@ -2515,31 +2500,24 @@
       "seenAt": "2026-11-27T07:41:16.077Z",
       "title": "김민석 민주당 대표 “민생 올인·사법 책임” - 브레이크뉴스",
       "targetName": "김민석"
+    },
+    "e27e7a31891d283d932d23b0e6fcb8a5da4379a7b1f5ae91244d19cef574baa6": {
+      "seenAt": "2026-11-27T07:51:13.153Z",
+      "title": "중진 만찬에도 불참한 정청래 \"화해 빙자한 몽둥이 찜질” [앵커리포트] - YTN",
+      "targetName": "정청래"
+    },
+    "e9a0ba0d5d362c715e75e049b20670e8612356f60adba8658813b581259d05e8": {
+      "seenAt": "2026-11-27T07:51:13.802Z",
+      "title": "한동훈 “오빠가 나설 타이밍?” VS 김승원 “조선제일 법꾸라지” - 주간경향",
+      "targetName": "한동훈"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "e27e7a31891d283d932d23b0e6fcb8a5da4379a7b1f5ae91244d19cef574baa6",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "중진 만찬에도 불참한 정청래 \"화해 빙자한 몽둥이 찜질” [앵커리포트] - YTN",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yM3dOVjlWMnByOEJ4cHdQMEdkNDM1OC1uV25yQ2U0NnA5Z2tHUUttWWNFaDByM09UZ3pCTlY4MGo2dlp6SFhyNElQalF4NHZnRXRqaDhRejhuYkVsVmc?oc=5\" target=\"_blank\">중진 만찬에도 불참한 정청래 \"화해 빙자한 몽둥이 찜질” [앵커리포트]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yM3dOVjlWMnByOEJ4cHdQMEdkNDM1OC1uV25yQ2U0NnA5Z2tHUUttWWNFaDByM09UZ3pCTlY4MGo2dlp6SFhyNElQalF4NHZnRXRqaDhRejhuYkVsVmc?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 07:07:00 GMT",
-        "source": "YTN",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "0059795b2323e97c35e4af02650809f298c6ee4ce0efa3d881373bd5531b72eb",
-    "title": "김민석 민주당 대표 “민생 올인·사법 책임” - 브레이크뉴스",
+    "postId": "e9a0ba0d5d362c715e75e049b20670e8612356f60adba8658813b581259d05e8",
+    "title": "한동훈 “오빠가 나설 타이밍?” VS 김승원 “조선제일 법꾸라지” - 주간경향",
     "bot": "jongsuk_pol_bot",
-    "runId": "45960146615",
-    "sentAt": "2026-11-27T07:41:15.726Z"
+    "runId": "45961302474",
+    "sentAt": "2026-11-27T07:51:13.463Z"
   }
 }

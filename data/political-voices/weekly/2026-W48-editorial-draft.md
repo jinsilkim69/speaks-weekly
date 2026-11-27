@@ -12702,3 +12702,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 중진 만찬에도 불참한 정청래 "화해 빙자한 몽둥이 찜질” [앵커리포트] - YTN
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 중진 만찬에도 불참한 정청래 "화해 빙자한 몽둥이 찜질”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yM3dOVjlWMnByOEJ4cHdQMEdkNDM1OC1uV25yQ2U0NnA5Z2tHUUttWWNFaDByM09UZ3pCTlY4MGo2dlp6SFhyNElQalF4NHZnRXRqaDhRejhuYkVsVmc?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 “오빠가 나설 타이밍?” VS 김승원 “조선제일 법꾸라지” - 주간경향
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 “오빠가 나설 타이밍?” VS 김승원 “조선제일 법꾸라지”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmdHVITjJnRXl0OFBYMDNiSktFVmJFMzhMc0tBOUhrUjFIanp1LVFEZFE0bXBxUHlWalFyOUN2R3RjMFFXUGt3WnV6V0dCM0RYa1gyQ1FyMzFZRTFrOGc?oc=5)
+
+---
+
