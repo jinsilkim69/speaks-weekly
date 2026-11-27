@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T20:31:15.156Z",
+  "lastCheckedAt": "2026-11-27T20:41:13.278Z",
   "seenPostIds": {
     "b5d46ee93a2aad06977a07ef31170c115ca8ba4b340b23edce47c9b28748e1d8": {
       "seenAt": "2026-11-25T07:51:17.777Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-27T20:21:22.561Z",
       "title": "최민희, 중징계 의결에 “재심 신청”…정청래 “납득 못해” - 서울Pn",
       "targetName": "정청래"
+    },
+    "255ea95287be1352d01296f3cf7bca695c7597224d63dcb3bbdfaff885c93f5c": {
+      "seenAt": "2026-11-27T20:41:14.599Z",
+      "title": "Trump issues Thanksgiving Day grievances. It isn't the first time - The Palm Beach Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "e256c92e0c76339f9a94a57c3b0c43e7a5aa602b6d606e75fb5a484c75b8ae5f",
-    "title": "최민희, 중징계 의결에 “재심 신청”…정청래 “납득 못해” - 서울Pn",
+    "postId": "255ea95287be1352d01296f3cf7bca695c7597224d63dcb3bbdfaff885c93f5c",
+    "title": "Trump issues Thanksgiving Day grievances. It isn't the first time - The Palm Beach Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "46063021320",
-    "sentAt": "2026-11-27T20:21:22.087Z"
+    "runId": "46065287962",
+    "sentAt": "2026-11-27T20:41:13.965Z"
   }
 }
