@@ -13664,3 +13664,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Adds Two Words That Change Meaning of NATO Statement - Newsweek
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Adds Two Words That Change Meaning of NATO Statement
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTS1TREc1djhWbW1OTExtT3BSTnl0Q3FmS19iZFl0SWpjUnJicTIzMmh6ZEZfT2RnRVF2cURZeDhjNkhRWUdPRHV1X3FrUEVYQm9ockZ5eUJxamZlY1BIc2FkTldKV19odVJPamZRVjl2T2Y4VnQxaHBHenJ1YlY1UkZzLUVIbnV3b2V0b2U3MExwLWlRcXNz?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** First Thing: Trump claims revised economic data shows pre-midterms figures were ‘fake’ - The Guardian
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] First Thing: Trump claims revised economic data shows pre-midterms figures were ‘fake’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGRXZ0hnTkZ2ajFXVmRtMHlxT2d2OF96bFlRXzZ5bS1ldzZienAtcDNEalBnVWg4NS1Oc3JpYm1SWkpmWnNGeTJEYkdaQkFHS3JJd0dWMDRtR1JfekZERkFpRFlLWnhULV9sT3N6b2hOSzdaRDJVNGdtcndQU1h5R3BlVVRhaURfS1d1a0FBZDl4YlFDd3RJdXhrYjVqbzA0ZDlOdUxaN0dXNk9RbnpCa1pTUGkxb2d0VGJCTy05U3d1TDNKel83WjVPRQ?oc=5)
+
+---
+
