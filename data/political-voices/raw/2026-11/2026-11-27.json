@@ -5104,5 +5104,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "56fa765f4dd6807e92ca3e8eb61f9a37f8616ed48607cb6ed05970f6c6524712",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "중징계 받은 최민희 “수용 어려워”…정청래도 “김민석은?” 반발 - 매일경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vUXV4NGlwNUdveFJ4RHpYSHVfeFpOV1d2WF93Mkt0MS02cGd1TVBuVkNaMlpEaDBtd3l6NFN1SkMxckp1ZDhOMWRmUlJlTWJ0NFZMaTBn?oc=5\" target=\"_blank\">중징계 받은 최민희 “수용 어려워”…정청래도 “김민석은?” 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vUXV4NGlwNUdveFJ4RHpYSHVfeFpOV1d2WF93Mkt0MS02cGd1TVBuVkNaMlpEaDBtd3l6NFN1SkMxckp1ZDhOMWRmUlJlTWJ0NFZMaTBn?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 12:36:11 GMT",
+    "source": "매일경제",
+    "ageHours": 1.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 중징계 받은 최민희 “수용 어려워”…정청래도 “김민석은?” 반발",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "c713ed0ef94794ba9d0e99c706e5765d675eff9362c56aef5b85540d8db91a03",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "중징계 받은 최민희 “수용 어려워”…정청래도 “김민석은?” 반발 - 매일경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vUXV4NGlwNUdveFJ4RHpYSHVfeFpOV1d2WF93Mkt0MS02cGd1TVBuVkNaMlpEaDBtd3l6NFN1SkMxckp1ZDhOMWRmUlJlTWJ0NFZMaTBn?oc=5\" target=\"_blank\">중징계 받은 최민희 “수용 어려워”…정청래도 “김민석은?” 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vUXV4NGlwNUdveFJ4RHpYSHVfeFpOV1d2WF93Mkt0MS02cGd1TVBuVkNaMlpEaDBtd3l6NFN1SkMxckp1ZDhOMWRmUlJlTWJ0NFZMaTBn?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 12:36:11 GMT",
+    "source": "매일경제",
+    "ageHours": 1.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 중징계 받은 최민희 “수용 어려워”…정청래도 “김민석은?” 반발",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
