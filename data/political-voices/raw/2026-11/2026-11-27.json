@@ -5179,5 +5179,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f8404041dd2a6fffd9a0f63e4e4e16f225b8639033b1f31b44c9d425ee4e878d",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump rails against critics on Thanksgiving as approval remains low - Cape Cod Times",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMGdHVEZJNnFpQTlyYTJKejIxWUF1NXE1QUdJbHpIbHBKWHVhQnNvVEI3WWRSREEyNUg0R19XVE9GVF9jam1ucVNQd0d2ZEswY2lObmhMWHlpSUFxNmR0NF94MEhvVVNMZGpSalNYZE96dmIwODFnTDltbGthV3lPQ19JNGZMWUREWnNsdEV5QnNJaGtCTjJDS1V2THR6WVljNDNFdDgyaTZnUDR0c0ZkOEN6TW1STkRIa0lPTkMzSVp1M0x4QV9jVnVqelpVOFdwNngtS2FydkU?oc=5\" target=\"_blank\">Trump rails against critics on Thanksgiving as approval remains low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cape Cod Times</font>",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMGdHVEZJNnFpQTlyYTJKejIxWUF1NXE1QUdJbHpIbHBKWHVhQnNvVEI3WWRSREEyNUg0R19XVE9GVF9jam1ucVNQd0d2ZEswY2lObmhMWHlpSUFxNmR0NF94MEhvVVNMZGpSalNYZE96dmIwODFnTDltbGthV3lPQ19JNGZMWUREWnNsdEV5QnNJaGtCTjJDS1V2THR6WVljNDNFdDgyaTZnUDR0c0ZkOEN6TW1STkRIa0lPTkMzSVp1M0x4QV9jVnVqelpVOFdwNngtS2FydkU?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 14:29:00 GMT",
+    "source": "Cape Cod Times",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump rails against critics on Thanksgiving as approval remains low",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T14:31:13.933Z",
+  "lastCheckedAt": "2026-11-27T14:41:16.204Z",
   "seenPostIds": {
     "33893b6501d344148c55f78d7435f201e983389ead1c1eb6568a737e0e20cc01": {
       "seenAt": "2026-11-25T06:31:16.566Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-27T14:01:24.094Z",
       "title": "민주당, 최민희 ‘당원권 2년 정지’ 중징계…정청래 “김민석 해당행위는?” - 신문고뉴스",
       "targetName": "정청래"
+    },
+    "f8404041dd2a6fffd9a0f63e4e4e16f225b8639033b1f31b44c9d425ee4e878d": {
+      "seenAt": "2026-11-27T14:41:17.479Z",
+      "title": "Trump rails against critics on Thanksgiving as approval remains low - Cape Cod Times",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "366c6fd05e79a3d2b49ca1cef12d8e71673948e7152644316ee07b165eb96e3a",
-    "title": "민주당, 최민희 ‘당원권 2년 정지’ 중징계…정청래 “김민석 해당행위는?” - 신문고뉴스",
+    "postId": "f8404041dd2a6fffd9a0f63e4e4e16f225b8639033b1f31b44c9d425ee4e878d",
+    "title": "Trump rails against critics on Thanksgiving as approval remains low - Cape Cod Times",
     "bot": "jongsuk_pol_bot",
-    "runId": "46012088836",
-    "sentAt": "2026-11-27T14:01:23.334Z"
+    "runId": "46018110166",
+    "sentAt": "2026-11-27T14:41:16.977Z"
   }
 }
