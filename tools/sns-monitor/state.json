@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T05:01:14.829Z",
+  "lastCheckedAt": "2026-11-27T05:11:13.518Z",
   "seenPostIds": {
     "e268949d19a3b50a9a923abebdb8a4e3cfc12e55e42d517da9a54aab764d3f05": {
       "seenAt": "2026-11-25T01:11:15.988Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-27T04:51:13.614Z",
       "title": "조국, 오는 12월 7일 울릉도·독도 방문 예정 - 아주경제",
       "targetName": "조국"
+    },
+    "f0ea5f32d122433160bcf9f867a55edabcdddfa0bc368ea78f1d88fc6156186e": {
+      "seenAt": "2026-11-27T05:11:14.669Z",
+      "title": "與 최민희 '중징계' 내려지나...친청계 \"김민석도 징계 심의\" 역공 - 펜앤마이크",
+      "targetName": "김민석"
+    },
+    "a00b1509444a3cbd572f289fa0167bde3c8a32cbbcecf2289eae95b0d1e7119d": {
+      "seenAt": "2026-11-27T05:11:15.402Z",
+      "title": "신장식 \"합당 안하길 잘했단 당원 많아…민주당이 개혁정당이냐\" - 데일리안",
+      "targetName": "신장식"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "da9f1e32ac6cf728fbb35f08d2fbf41079a160d6ce51197a697e83faa4a1aa92",
-    "title": "조국, 오는 12월 7일 울릉도·독도 방문 예정 - 아주경제",
+    "postId": "a00b1509444a3cbd572f289fa0167bde3c8a32cbbcecf2289eae95b0d1e7119d",
+    "title": "신장식 \"합당 안하길 잘했단 당원 많아…민주당이 개혁정당이냐\" - 데일리안",
     "bot": "jongsuk_pol_bot",
-    "runId": "45942309543",
-    "sentAt": "2026-11-27T04:51:13.298Z"
+    "runId": "45944254066",
+    "sentAt": "2026-11-27T05:11:15.024Z"
   }
 }

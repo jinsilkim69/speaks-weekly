@@ -12195,3 +12195,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與 최민희 '중징계' 내려지나...친청계 "김민석도 징계 심의" 역공 - 펜앤마이크
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 최민희 '중징계' 내려지나...친청계 "김민석도 징계 심의" 역공
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTFBuMk5Zel9OcG16QnBlTG1sTnpLejlOOHNYMTNBNEFfZVU1eTItYjlsUVBjZlVZNkZCSktyQU9jMGVGVFpyRGN3c29NS0ZmeWhpSEZMNEszQ0ZEZzNsT0RVM0FZRndmV3g5MDFF0gFvQVVfeXFMTWI4cnNmVXNhSDQ3TDVKZjB1V3RZLXBTOWlJaEpJTmdoVEFPTjRpLUhXNlNFSHZNSHdXTkM3UFk5UW8zT0h2N0NZTkREX1AxWkNkNXJIV2R5QVRHYUd2aHJDbHNTQXpTMHcyMnpGUUNZ?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "합당 안하길 잘했단 당원 많아…민주당이 개혁정당이냐" - 데일리안
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "합당 안하길 잘했단 당원 많아…민주당이 개혁정당이냐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VSmZWaXI4R01DMTlJX1drVFhKNlZycjNIMTBWNWhvTmlQdmxQUHpWZWpQdlE5azhEdkF2clV4YzdiVjZ4VF94dU1xLXA1T0VrVk1OYmV1SQ?oc=5)
+
+---
+
