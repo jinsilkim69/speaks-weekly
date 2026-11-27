@@ -11805,3 +11805,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** ‘공익 제보’냐 ‘비밀 누설’이냐…경찰, 한동훈 자료 유출 의혹 강제수사 - 시사저널
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘공익 제보’냐 ‘비밀 누설’이냐…경찰, 한동훈 자료 유출 의혹 강제수사
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE92MWtOSDRfTzFFaTFWVmd5Zjg0OVBEZ3NsMGJMOEI1NkhJUU1fX2dHTmplZFJ1TTNPT3hERTFzWjA1NjZfRjRtOWFxUDV2X21oOEhMcDNFUDR0QWlxT0paSmdMVWZLRlZTczdjQlM0b9IBc0FVX3lxTE9fSVgzcUJEa3NVaFV3Q2JpUmhrSy1ETVhHYmNjcmpDVXpGcnBVYVVQN3EyZ2Mwc2Z5UUJtX2hlX3BOd3FPSE45amkzRTdYQXdmS2hMTEZIMGtCX1pxU0Q3eEhYa2s4MjFzQjZROWVjT2VReUE?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** [김창권 여의도 훈수] 정청래의 작심발언, 민주당의 ‘봉합 정치’에 던진 경고 - 뉴스인
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래의 작심발언, 민주당의 ‘봉합 정치’에 던진 경고
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE84OGdjdm5VcXU3bEJIUFJ1clhsdXlpeHdiY0VGWktRTzlOeTV4RUVCYThLdl9UY0p4UVJmQWxscEJaRzVFTVh0cmJRNjhaNTBDczlDTXFpTXhWZFBFY2xzSlAwZzN3MkJOSjRz?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “주가 반토막에 국민 피눈물…소각형 증안펀드 도입” - 세계일보
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “주가 반토막에 국민 피눈물…소각형 증안펀드 도입”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BMGl6SEFIOG85WWIxVm5LdnpmZTRHbDZ4Y2hZaDhJMFRxcUZYWFNaUlBGYzhZZWMyYUY1Z1l2Nngzcll3YVJLa2ZpMDFHc1dXVEhTd25KWkfSAVRBVV95cUxPXzhlbzVGUDVrcW1LREY2LTN2RHNjbU8wWlhBdGhSUkhCS1kyQmpTQTh1bGl4VnFTWExRSWlLOFF5VVBtR1ltejI1VTdGRXBZQnNSUWY?oc=5)
+
+---
+
