@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T10:21:17.578Z",
+  "lastCheckedAt": "2026-11-27T10:31:14.802Z",
   "seenPostIds": {
-    "54f5a2646de2c97f745a6a0970d403f16569a6b13ad979817609e609c62ddbfb": {
-      "seenAt": "2026-11-25T04:32:25.340Z",
-      "title": "김민석, ‘조희대 탄핵’ 5당 연대 공식 제안…조국혁신당 “환영” - 아시아타임즈",
-      "targetName": "조국"
-    },
-    "2e7c33b4eb1dabca326c9ce6878979b2c05ca47d563336dbc13a51edad7832e1": {
-      "seenAt": "2026-11-25T04:32:26.038Z",
-      "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
-      "targetName": "정청래"
-    },
-    "ed3686ab688c425ae870ed0f2fa99e92b1325dccba893c7485abc691135ce624": {
-      "seenAt": "2026-11-25T04:32:26.735Z",
-      "title": "송영길·정청래 설전, 민주당 계파 갈등 접점 못찾나 - 인천일보",
-      "targetName": "송영길"
-    },
     "c4b0f7606c475f78e02a4bdccca00b10f4834a010ef6e8627b6d36e1f769bc30": {
       "seenAt": "2026-11-25T04:41:17.361Z",
       "title": "[핫피플]정청래, ‘취임 100일’ 김민석 겨냥 “결자해지” 압박 - 채널A",
@@ -2515,47 +2500,29 @@
       "seenAt": "2026-11-27T10:21:21.064Z",
       "title": "한동훈 수사자료 유출 의혹, 경찰이 법무부·공소청 압수수색에 나선 이유는? 🔍 - 뉴닉",
       "targetName": "한동훈"
+    },
+    "5a447ebb3f82cba3ba438d1af9a74314c21de8f5fa0021cd664e7b57619cc987": {
+      "seenAt": "2026-11-27T10:31:15.974Z",
+      "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외일 수 없어\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
+    },
+    "132f985b0bf621fd8742d729ed4c799cff46fd814d6714764922328184998de0": {
+      "seenAt": "2026-11-27T10:31:16.657Z",
+      "title": "'최민희 중징계'에 친청계 \"김민석은?\"…與계파갈등 벼랑끝으로 - 연합뉴스 한민족센터",
+      "targetName": "김민석"
+    },
+    "c6484fc1b841a10874c900dea9b585f65f7353b479f40be7092029ca5f4b70a8": {
+      "seenAt": "2026-11-27T10:31:17.319Z",
+      "title": "김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발' [자막뉴스] - YTN",
+      "targetName": "한동훈"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "5a447ebb3f82cba3ba438d1af9a74314c21de8f5fa0021cd664e7b57619cc987",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외일 수 없어\" - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5pUk1USGZGRVpiZUt1OS1hbzM3WFlROEpycmdsSUtEdHpiVGhfT1Utbmo0YmxSdE1LSG9PdExteUpHdnhWd3NsZHdDcWNnUzRTaXk0cE56dE41UzhVd0NsUmlmZ25NRmMtRVI4RS02djdIZ9IBckFVX3lxTE5pUk1USGZGRVpiZUt1OS1hbzM3WFlROEpycmdsSUtEdHpiVGhfT1Utbmo0YmxSdE1LSG9PdExteUpHdnhWd3NsZHdDcWNnUzRTaXk0cE56dE41UzhVd0NsUmlmZ25NRmMtRVI4RS02djdIZw?oc=5\" target=\"_blank\">정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외일 수 없어\" - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pUk1USGZGRVpiZUt1OS1hbzM3WFlROEpycmdsSUtEdHpiVGhfT1Utbmo0YmxSdE1LSG9PdExteUpHdnhWd3NsZHdDcWNnUzRTaXk0cE56dE41UzhVd0NsUmlmZ25NRmMtRVI4RS02djdIZ9IBckFVX3lxTE5pUk1USGZGRVpiZUt1OS1hbzM3WFlROEpycmdsSUtEdHpiVGhfT1Utbmo0YmxSdE1LSG9PdExteUpHdnhWd3NsZHdDcWNnUzRTaXk0cE56dE41UzhVd0NsUmlmZ25NRmMtRVI4RS02djdIZw?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 06:10:42 GMT",
-        "source": "머니투데이",
-        "ageHours": 4.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "132f985b0bf621fd8742d729ed4c799cff46fd814d6714764922328184998de0",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "'최민희 중징계'에 친청계 \"김민석은?\"…與계파갈등 벼랑끝으로 - 연합뉴스 한민족센터",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE43NXlvaGZ0bV9nT0U2bW5neEJYa1lrSDdTaDk3Y0NjSFBSMWFMNGRIRHJQLWYtYlhrR2F4QW9xTkJPS2RhWnEzZnplOUNuM1dKbERRclRjLWVQWG15eDFxRVUzb1lHMUsxTzJUUG00Z0RzME1N?oc=5\" target=\"_blank\">'최민희 중징계'에 친청계 \"김민석은?\"…與계파갈등 벼랑끝으로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스 한민족센터</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43NXlvaGZ0bV9nT0U2bW5neEJYa1lrSDdTaDk3Y0NjSFBSMWFMNGRIRHJQLWYtYlhrR2F4QW9xTkJPS2RhWnEzZnplOUNuM1dKbERRclRjLWVQWG15eDFxRVUzb1lHMUsxTzJUUG00Z0RzME1N?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 10:13:08 GMT",
-        "source": "연합뉴스 한민족센터",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "a45814f3468bf296264b5789bdb142d8f502ddbc8a0263c1fb8975fdb82e2af0",
-    "title": "한동훈 수사자료 유출 의혹, 경찰이 법무부·공소청 압수수색에 나선 이유는? 🔍 - 뉴닉",
+    "postId": "c6484fc1b841a10874c900dea9b585f65f7353b479f40be7092029ca5f4b70a8",
+    "title": "김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발' [자막뉴스] - YTN",
     "bot": "jongsuk_pol_bot",
-    "runId": "45981343316",
-    "sentAt": "2026-11-27T10:21:20.624Z"
+    "runId": "45982748454",
+    "sentAt": "2026-11-27T10:31:16.980Z"
   }
 }
