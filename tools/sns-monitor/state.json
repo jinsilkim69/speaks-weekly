@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T14:51:20.951Z",
+  "lastCheckedAt": "2026-11-27T15:01:23.215Z",
   "seenPostIds": {
-    "c743728ed962d3d4cd9f102a95676a41288bf13bb4c9f3c899fb190684fafd1a": {
-      "seenAt": "2026-11-25T06:41:19.624Z",
-      "title": "김민석 '잘하고 있다' 14.1%... 조희대 탄핵 '반대' 48.2% - OhmyNews",
-      "targetName": "김민석"
-    },
-    "6d14ead906a44869302742312c14936c803e40f6a92ac2c9569869d0205d9b5c": {
-      "seenAt": "2026-11-25T06:41:20.268Z",
-      "title": "[속보] “입조심하라” 정청래, 송영길 공개 비판…李대통령과 만찬 발언 발단 - 경기일보",
-      "targetName": "송영길"
-    },
-    "9c5b62e87ddabef23feb3acc01d31ebe8c6ee6a640f46d97fac24b053b54963e": {
-      "seenAt": "2026-11-25T06:41:20.954Z",
-      "title": "갈 길 먼 與 ‘내분종식’··· 송영길 “억울한 점 다 들어줘” 정청래 “입조심하라” - 세계일보",
-      "targetName": "송영길"
-    },
     "2b283e093e742f8ab068929959e7fc82264727435ff7c9a491b0f98a08c67954": {
       "seenAt": "2026-11-25T06:51:15.341Z",
       "title": "김민석 ‘조용한 100일’…정청래 “신천지 의혹 제기 해당행위” 강공 - 한겨레",
@@ -2515,31 +2500,19 @@
       "seenAt": "2026-11-27T14:51:23.849Z",
       "title": "'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts - ABC News - Breaking News, Latest News and Videos",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "3e9839bd062df800f13440740bb1bf53daa5de0a263a15f88cbff9c9fc4a1149": {
+      "seenAt": "2026-11-27T15:01:24.916Z",
+      "title": "Trump rails against critics on Thanksgiving as approval remains low - The Providence Journal",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "3e9839bd062df800f13440740bb1bf53daa5de0a263a15f88cbff9c9fc4a1149",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump rails against critics on Thanksgiving as approval remains low - The Providence Journal",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaFFKczNqVVRpcHczOGtVSUdYVnZqNkN5eXVscHdYMGxxLVRWTFNvUS01NHhHc1hlTk5IWWlhLTB1a2RKT1FoYlZ6TjlVNkVmU1VlbDdnUmtmZWktQWtOb21XaEM4SldUVk83bFlVVWEza0phSFEySmgzQU5LeGVSUVNfU3BOSmVicmFXeV91dnhmak0xNEVwNE1CYkJreW8xbHR4TFB5TTVYNF9UQXpBX2czQ3ZXQVBwTC1nYzRSN25aMmdnOFZLUmxLZExIV3A4Z1lDMnVGcEkxVWVCSnk4?oc=5\" target=\"_blank\">Trump rails against critics on Thanksgiving as approval remains low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Providence Journal</font>",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaFFKczNqVVRpcHczOGtVSUdYVnZqNkN5eXVscHdYMGxxLVRWTFNvUS01NHhHc1hlTk5IWWlhLTB1a2RKT1FoYlZ6TjlVNkVmU1VlbDdnUmtmZWktQWtOb21XaEM4SldUVk83bFlVVWEza0phSFEySmgzQU5LeGVSUVNfU3BOSmVicmFXeV91dnhmak0xNEVwNE1CYkJreW8xbHR4TFB5TTVYNF9UQXpBX2czQ3ZXQVBwTC1nYzRSN25aMmdnOFZLUmxLZExIV3A4Z1lDMnVGcEkxVWVCSnk4?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 14:29:00 GMT",
-        "source": "The Providence Journal",
-        "ageHours": 0.4
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "b37203c0c7af656b34ce2b2309485f8c02bdc51b6f6f15756fc09be0db17e875",
-    "title": "'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts - ABC News - Breaking News, Latest News and Videos",
+    "postId": "3e9839bd062df800f13440740bb1bf53daa5de0a263a15f88cbff9c9fc4a1149",
+    "title": "Trump rails against critics on Thanksgiving as approval remains low - The Providence Journal",
     "bot": "jongsuk_pol_bot",
-    "runId": "46019599917",
-    "sentAt": "2026-11-27T14:51:23.539Z"
+    "runId": "46021071992",
+    "sentAt": "2026-11-27T15:01:24.243Z"
   }
 }
