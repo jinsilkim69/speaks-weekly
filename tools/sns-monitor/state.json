@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T09:11:13.392Z",
+  "lastCheckedAt": "2026-11-27T09:21:16.360Z",
   "seenPostIds": {
     "9d6a0dad35f680feab654fc8e2de01ce981b95ffda03b6641612ea6b25ca055a": {
       "seenAt": "2026-11-25T04:01:26.014Z",
@@ -2500,14 +2500,29 @@
       "seenAt": "2026-11-27T09:01:17.924Z",
       "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외 없다\" 공세 - 뉴데일리",
       "targetName": "정청래"
+    },
+    "83c42adc5cf42196961bafa55e9edfc38a696f5f8d32a9a22e78d52612817c6e": {
+      "seenAt": "2026-11-27T09:21:18.034Z",
+      "title": "김승원 \"조선제일법꾸라지 한동훈 실체 밝힐 것\" - 뉴시스",
+      "targetName": "한동훈"
+    },
+    "29c1b31041c6bb4aab2373a26907f752446a09439bdc69445908ba599eed82ca": {
+      "seenAt": "2026-11-27T09:21:19.023Z",
+      "title": "與 최민희 중징계 의결…김민석 청원 정식심사 회부 - 연합뉴스TV",
+      "targetName": "김민석"
+    },
+    "37f94c4089bcc0788c65a7a3452838d6b33e74f36b271ff064620ee7cad5ab3a": {
+      "seenAt": "2026-11-27T09:21:19.774Z",
+      "title": "이준석 “분당집 25억 번 대통령은 꼭대기 올라가 놓고” …보편형 공공임대 분양 금지 비판 - www.dt.co.kr",
+      "targetName": "이준석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "a3daaa86a144afcad2c60f6d60cc3a331b72a6222c3ba3b21dc10a0f8909edb6",
-    "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외 없다\" 공세 - 뉴데일리",
+    "postId": "37f94c4089bcc0788c65a7a3452838d6b33e74f36b271ff064620ee7cad5ab3a",
+    "title": "이준석 “분당집 25억 번 대통령은 꼭대기 올라가 놓고” …보편형 공공임대 분양 금지 비판 - www.dt.co.kr",
     "bot": "jongsuk_pol_bot",
-    "runId": "45970185512",
-    "sentAt": "2026-11-27T09:01:17.245Z"
+    "runId": "45972964901",
+    "sentAt": "2026-11-27T09:21:19.387Z"
   }
 }

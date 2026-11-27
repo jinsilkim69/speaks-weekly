@@ -12858,3 +12858,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김승원 "조선제일법꾸라지 한동훈 실체 밝힐 것" - 뉴시스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김승원 "조선제일법꾸라지 한동훈 실체 밝힐 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFB2Rm11bDN4b1hRdmRZb2lEVTkwejhIYkhobjB4Y1NlSUJ6Rms5N1JLbmR3YWt1TWxGaXdHSUdjc3NYQTVEY09iSXIxSWtpYl9mTDVQcm9lcWM2MVRPaE1sZTFnaS1STW56MjktSXR4X21lNEZrZzM2QtIBeEFVX3lxTFB2Rm11bDN4b1hRdmRZb2lEVTkwejhIYkhobjB4Y1NlSUJ6Rms5N1JLbmR3YWt1TWxGaXdHSUdjc3NYQTVEY09iSXIxSWtpYl9mTDVQcm9lcWM2MVRPaE1sZTFnaS1STW56MjktSXR4X21lNEZrZzM2Qg?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 與 최민희 중징계 의결…김민석 청원 정식심사 회부 - 연합뉴스TV
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 與 최민희 중징계 의결…김민석 청원 정식심사 회부
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vWEVHVEtQdFZGbHRNdTJuNENYMDEwWEVpUlN2cm5mdmVOVjRyamFxYUVDWjlGV0Flak5WczBJQmFNV3FYTkxjbkNMeV9yNEZxLUNiZktNeGFwOWdrenR3T2RzVVp2R0k?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 “분당집 25억 번 대통령은 꼭대기 올라가 놓고” …보편형 공공임대 분양 금지 비판 - www.dt.co.kr
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 “분당집 25억 번 대통령은 꼭대기 올라가 놓고” …보편형 공공임대 분양 금지 비판
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CRGUtSlVMMFpIdndEaXJYZ2VyODlXRnR4ZjZxZ3RaZVljYno0Wk9QRTZPc2RIYzIwdWsyeEtyN3ZjUHVMMk15SERQTDZZUQ?oc=5)
+
+---
+
