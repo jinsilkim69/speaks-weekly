@@ -12637,3 +12637,16 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 범여 강훈식 9.6%, 김민석 8.8%, 조국 8.4% … 野 오세훈 20.3%, 장동혁 16.5%, 한동훈 13.9% - 뉴데일리
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 범여 강훈식 9.6%, 김민석 8.8%, 조국 8.4% … 野 오세훈 20.3%, 장동혁 16.5%, 한동훈 13.9%
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTFBQQmt3dXJqczF3OU1VaWFYbjNSYklaY1JTRjBJeWtMZ2xEcEFHTVpRZDNfYW41eXdOSnI4TzZnVDI2Mm9WZlFtTWNJVEhfNVBFOURkLS1RY1J5T3hSZEQtUnRWSmNHc2hOOWZwWlJWcHp6RTRlWEFPT3kyTdIBgAFBVV95cUxQbTQ2NTk0aXpELVhRMUZ4Y2Flc1lrb0ZBRjg3WHc4Ql9yVjEzY0FaYmxrdVF4QXctX3V6WUV2NmZGMjBWMjJaWUF5VE5EajY0U2YzVFppdXMtR2NLRk5xUElrcGtRaGlBT2NLWkptbE5EazBtNzVXak8tSVM3ckhwbQ?oc=5)
+
+---
+
