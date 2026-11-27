@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T20:01:14.640Z",
+  "lastCheckedAt": "2026-11-27T20:11:21.989Z",
   "seenPostIds": {
     "5dcf503a2d2ff63d40621487a0e47c7d426583bcdab41e111e0d7f54a0fac7d3": {
       "seenAt": "2026-11-25T07:31:17.965Z",
@@ -2500,14 +2500,29 @@
       "seenAt": "2026-11-27T18:01:17.617Z",
       "title": "First Thing: Trump claims revised economic data shows pre-midterms figures were ‘fake’ - The Guardian",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "4aa8d48abfaea1cab8536dfbf47621cf7dc9c555644992a37baec999af3b98a2": {
+      "seenAt": "2026-11-27T20:11:24.001Z",
+      "title": "신장식 조국혁신당 당대표, 시민의 눈높이로 한 걸음 더... TBS-12월 1일, 다시 95.1MHz에서 만나요 - 의정일보",
+      "targetName": "조국"
+    },
+    "d3aed3d4b1a7ff87fa82f5af4210b12ee6cbd12dc3dbf5ab637be40406bb135a": {
+      "seenAt": "2026-11-27T20:11:24.864Z",
+      "title": "신장식 조국혁신당 당대표, 시민의 눈높이로 한 걸음 더... TBS-12월 1일, 다시 95.1MHz에서 만나요 - 의정일보",
+      "targetName": "신장식"
+    },
+    "3b906320f5e81d4b8ca34953c3d99d1f6f88ec3b509bcba220eb55e9af8ab6cd": {
+      "seenAt": "2026-11-27T20:11:25.756Z",
+      "title": "Trump wished Americans a happy Thanksgiving. Then he lashed out on critics in wide-ranging rant - KRQE",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c39e67ba65375317db0a120f9b6e35e8bd9da4ec2860d1fadc3c15d97fef2339",
-    "title": "First Thing: Trump claims revised economic data shows pre-midterms figures were ‘fake’ - The Guardian",
+    "postId": "3b906320f5e81d4b8ca34953c3d99d1f6f88ec3b509bcba220eb55e9af8ab6cd",
+    "title": "Trump wished Americans a happy Thanksgiving. Then he lashed out on critics in wide-ranging rant - KRQE",
     "bot": "jongsuk_pol_bot",
-    "runId": "46046233547",
-    "sentAt": "2026-11-27T18:01:17.311Z"
+    "runId": "46061851730",
+    "sentAt": "2026-11-27T20:11:25.231Z"
   }
 }

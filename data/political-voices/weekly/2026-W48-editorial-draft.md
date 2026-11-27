@@ -13690,3 +13690,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 신장식 조국혁신당 당대표, 시민의 눈높이로 한 걸음 더... TBS-12월 1일, 다시 95.1MHz에서 만나요 - 의정일보
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 조국혁신당 당대표, 시민의 눈높이로 한 걸음 더... TBS-12월 1일, 다시 95.1MHz에서 만나요
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE5xcFJneXJUX0RTVWl2bjNKVE5UNGNWY1o3aXE3VVVRUDgxRkkycmV4ODhLdlZBaXhlcUZGdGFzYUF0OVZ1OE41ZzIyN3RhR1hWc1gzXzJKVEs0QnloTklKZlVuT1kyM1ZCWFE?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 조국혁신당 당대표, 시민의 눈높이로 한 걸음 더... TBS-12월 1일, 다시 95.1MHz에서 만나요 - 의정일보
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 조국혁신당 당대표, 시민의 눈높이로 한 걸음 더... TBS-12월 1일, 다시 95.1MHz에서 만나요
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE5xcFJneXJUX0RTVWl2bjNKVE5UNGNWY1o3aXE3VVVRUDgxRkkycmV4ODhLdlZBaXhlcUZGdGFzYUF0OVZ1OE41ZzIyN3RhR1hWc1gzXzJKVEs0QnloTklKZlVuT1kyM1ZCWFE?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump wished Americans a happy Thanksgiving. Then he lashed out on critics in wide-ranging rant - KRQE
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump wished Americans a happy Thanksgiving. Then he lashed out on critics in wide-ranging rant
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiygFBVV95cUxOb3k0bTV4ZnV1WnYxdnhjdUc4SHdzNEhxSHNhWHRxRzZZa2V6cldMSUppTkxMM1l1SGlxRmJoYURLSVUwWjQyOUV4U1NwdkQtdzdscUh5NGNpbU9tM3paNUlSX0ZBV1Z5TDdkdFY1TzBNMjhYUV9zOGxHeG5wMGlLbV94U1VvOE9Gb2xoMk0tbTQxSEhUSUFkcEp1amVkYWpxb0hJTUtsRHlyY0U0eHhRUFNMaHNhUVNpM181bk5EZ0NTUWtpSVBLY0Rn0gHPAUFVX3lxTFBhSE4wa3FJM3NFdWdIWDRKVFVTajNqdlRvMTVLellubHAwbHIzdWdVbzRsUm8wWDNUWDBDZ1FMelBvTV9oNXROekl0cVBaUjFhcjJLSU1MTVNTMUpodHV1UlNpQ3Via3dvektHT3BRandRZXZkTTNKU1lRWjBOQ3MxN1U5Q1FkUDdpZHZ2cmdRSlc2VnR2bjIydmhGNDVJRWVqV1RvZUkxSk1iSWtHZFo0NW1DMmlMa2VuRFdCTTBiZWlMQTI5NVp5N0VHcjZ1dw?oc=5)
+
+---
+
