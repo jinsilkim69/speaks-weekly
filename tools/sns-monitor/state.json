@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T01:21:13.202Z",
+  "lastCheckedAt": "2026-11-27T01:31:13.251Z",
   "seenPostIds": {
-    "8c92486275c475c00a63c57b278eb3d6b1ab6e2e765208372565cda2d82dcf8e": {
-      "seenAt": "2026-11-24T15:21:17.914Z",
-      "title": "Trump's bizarre Truth Social post celebrates Jensen Huang's return as Nvidia CEO - The New Indian Express",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "398639423b10804774e56f30b4abf4dc6d5c2a78a9425acc9de98dccbe7ca3a3": {
-      "seenAt": "2026-11-24T15:31:16.764Z",
-      "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
-      "targetName": "김민석"
-    },
-    "fb75464accfc775ff2b589fadb8268e21c2cd639a31bf656c367ad105066bba3": {
-      "seenAt": "2026-11-24T15:31:17.524Z",
-      "title": "구호 외치는 조국혁신당 - 뉴스핌",
-      "targetName": "조국"
-    },
     "f3d35550a722e63ff162c7a027119d5119c45fc1e838b73404e5f784ca4bfd6f": {
       "seenAt": "2026-11-24T16:11:15.765Z",
       "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
@@ -2515,31 +2500,46 @@
       "seenAt": "2026-11-27T01:21:15.479Z",
       "title": "조국 \"정부 믿고 투자한 국민은 피눈물…증시안정펀드 즉각 추진해야\" - 뉴시스",
       "targetName": "조국"
+    },
+    "d505b68ad42c6805365c88d38fe953ab2c33b95a40916436b7258168db8b8bde": {
+      "seenAt": "2026-11-27T01:31:14.661Z",
+      "title": "경찰, 한동훈 '수사자료 유출 의혹' 법무부·공소청 압수수색 - www.hidomin.com",
+      "targetName": "한동훈"
+    },
+    "49c817edefb36f9c53fc75975ae49c87d8b47ce935794f72734916df6b0202b1": {
+      "seenAt": "2026-11-27T01:31:15.306Z",
+      "title": "이재명 대통령, SNS에서 '이런 사람들' 차단한다고 직접 밝혔다 - 위키트리",
+      "targetName": "이재명"
+    },
+    "1c20c20fcbe810e7d2c6c3f361c0c7ac75f3bac66e898c5a285d9163998dc89b": {
+      "seenAt": "2026-11-27T01:31:15.942Z",
+      "title": "경찰, ‘한동훈 수사자료 유출 의혹’ 법무부·공소청 등 압수수색 - 한국NGO신문",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "d505b68ad42c6805365c88d38fe953ab2c33b95a40916436b7258168db8b8bde",
+        "id": "63a59698857e925da94e3192225144c748fa44a1103f9b041618cd3e3925de71",
         "targetId": "han_donghoon",
         "targetName": "한동훈",
         "targetTitle": "국민의힘 대표",
-        "title": "경찰, 한동훈 '수사자료 유출 의혹' 법무부·공소청 압수수색 - www.hidomin.com",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9YVHBtVGRQU0FScHE2S2Z4d1AySEtCVTIzTHFxTDBDSkRGUmkxYmhmeTFQeHBmbjl4VlRXbVpYTVJEYjZ1c1RTTVEwcEd4b21iQWFjUjRPU3dvNzVDSTFhOGozbUVxVlBJN2c?oc=5\" target=\"_blank\">경찰, 한동훈 '수사자료 유출 의혹' 법무부·공소청 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.hidomin.com</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YVHBtVGRQU0FScHE2S2Z4d1AySEtCVTIzTHFxTDBDSkRGUmkxYmhmeTFQeHBmbjl4VlRXbVpYTVJEYjZ1c1RTTVEwcEd4b21iQWFjUjRPU3dvNzVDSTFhOGozbUVxVlBJN2c?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:09:43 GMT",
-        "source": "www.hidomin.com",
-        "ageHours": 0.2
+        "title": "경찰, '한동훈 자료 유출 의혹' 법무부·공소청 등 압수수색 - 뉴스1",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCM3Z0Q0hCVWdaRXpBVmdTSk9mV0wteFRIRFVvbE15VVhSb1JHSWFpT1FmelpEcHlBbFBEVzZhU0l0Q2t5dlJhTF9nV19KSThFM3VNZ1RmblA0OERWbFlkU2NMbUU?oc=5\" target=\"_blank\">경찰, '한동훈 자료 유출 의혹' 법무부·공소청 등 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCM3Z0Q0hCVWdaRXpBVmdTSk9mV0wteFRIRFVvbE15VVhSb1JHSWFpT1FmelpEcHlBbFBEVzZhU0l0Q2t5dlJhTF9nV19KSThFM3VNZ1RmblA0OERWbFlkU2NMbUU?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:00:32 GMT",
+        "source": "뉴스1",
+        "ageHours": 0.5
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "caf44d02b8e4e33f1bd36557b5b83eb699414c6a690db7120fff8c32e191ce0e",
-    "title": "조국 \"정부 믿고 투자한 국민은 피눈물…증시안정펀드 즉각 추진해야\" - 뉴시스",
+    "postId": "1c20c20fcbe810e7d2c6c3f361c0c7ac75f3bac66e898c5a285d9163998dc89b",
+    "title": "경찰, ‘한동훈 수사자료 유출 의혹’ 법무부·공소청 등 압수수색 - 한국NGO신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45922063477",
-    "sentAt": "2026-11-27T01:21:15.176Z"
+    "runId": "45922997603",
+    "sentAt": "2026-11-27T01:31:15.624Z"
   }
 }

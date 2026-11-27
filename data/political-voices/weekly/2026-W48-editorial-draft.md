@@ -11610,3 +11610,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, 한동훈 '수사자료 유출 의혹' 법무부·공소청 압수수색 - www.hidomin.com
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, 한동훈 '수사자료 유출 의혹' 법무부·공소청 압수수색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE9YVHBtVGRQU0FScHE2S2Z4d1AySEtCVTIzTHFxTDBDSkRGUmkxYmhmeTFQeHBmbjl4VlRXbVpYTVJEYjZ1c1RTTVEwcEd4b21iQWFjUjRPU3dvNzVDSTFhOGozbUVxVlBJN2c?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, SNS에서 '이런 사람들' 차단한다고 직접 밝혔다 - 위키트리
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, SNS에서 '이런 사람들' 차단한다고 직접 밝혔다
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBYy16bDRSSFhHSlpTRzdBb0ZsaC1BaFp1LVctX3FhdDIySXRxRHNkVnFHTnU5djE4WXZnZDUwSjg2VGxuVnRjSngtNFl0VkgwWkpoNGtn?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, ‘한동훈 수사자료 유출 의혹’ 법무부·공소청 등 압수수색 - 한국NGO신문
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, ‘한동훈 수사자료 유출 의혹’ 법무부·공소청 등 압수수색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GUy1qek41aUhGUkhabEhmb00yZHlNb2g5MHVmVjZXblI0SEZEWTFBVy1tOFIzRGlsMGV0aVdiX01LcHJNTm1uS1dWZ0xXNzhMWVFCVXo0UDVzUi1HTE11cUhwN0sxRDF4?oc=5)
+
+---
+
