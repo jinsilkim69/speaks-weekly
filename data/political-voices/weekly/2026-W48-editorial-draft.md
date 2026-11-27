@@ -11922,3 +11922,42 @@
 
 ---
 
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국, 12월 초 울릉·독도 방문... 日 입국 불허 맞불 - 경북매일
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국, 12월 초 울릉·독도 방문... 日 입국 불허 맞불
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSzhySmZFT0JONmJBQmxGbHpYck9BSGRZelUwdlhZVW5nMWJlWDBSTzlKMmFHQnlDck9DZXFXbzMyQWF3Y2ZWeXJWUzExdFBtS2xsdDFwSWZpUQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "경찰은 민주당의 지팡이"‥공소청 압수수색에 반발 - MBC 뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "경찰은 민주당의 지팡이"‥공소청 압수수색에 반발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE9fV2VTcXd2eEpXdlhmSGdhc0FhNVcxUlczc0w2TGZ2aXNXRlZTYzN3cVAwUDAwSHM0aXZ1NTMwTk0xalJRRFNrWWJRaFFIRExEYy1iUXJVc19HWnkzWFgwUm9mRlhGUzR6d1BXWUczSUZORkdKRzFUR9IBeEFVX3lxTFBYamVnMmV0TVdRTkRGV3lFb0tlTUNpd0lWWlZxZUFiejFTaHptLV9hWU5rZ2h1SGRZeFd2MjhEN1NYdU1ubXB2SmVZSWY3Y2ZJdzVvRHg5bl9od2tiR3lOOUljWE9sMmN4YU1iUFh2R19WXzRjYWxZQQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "경찰, 민주당 지팡이 자처…돌아가도 국민만 보고 할 것" - 이데일리
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "경찰, 민주당 지팡이 자처…돌아가도 국민만 보고 할 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmx3UWhTU3JNWVRGdDQ4dzV0YUtlbU14V0Faa0c1Mk13dEQ5dms5MUxMdXRsZ0dTbHRCTkphUUk5Q3lDUnpQNFVFZElDSTlLbE1WNl9IcnVaYmhSWkNIME5oeGJ1U1ozcldpQ0FSemJUNi1UR1Z3bDFWT3VBWmdBRg?oc=5)
+
+---
+
