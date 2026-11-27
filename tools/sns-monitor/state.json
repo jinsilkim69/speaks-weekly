@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T04:41:14.857Z",
+  "lastCheckedAt": "2026-11-27T04:51:11.931Z",
   "seenPostIds": {
-    "e424a6778e08078fdfadaf877f4a5fe66f6e9fa994fe1969ed0adc356d74744b": {
-      "seenAt": "2026-11-25T00:51:30.160Z",
-      "title": "송영길 \"8월 金·鄭·宋과 청와대서 원 없이 얘기…저도 金도 鄭에게 사과\" - 뉴스1",
-      "targetName": "송영길"
-    },
-    "1ae909764efc7a729d44412f108b9acee70de95f3e8e572549f8c07afef067ab": {
-      "seenAt": "2026-11-25T01:01:18.970Z",
-      "title": "‘믿을 건 조국뿐’… 미·중·러 압박 속에 일본 달려간 ICC 소장 [이 사람@World] - 세계일보",
-      "targetName": "조국"
-    },
     "77d907a015a912b2126b2cc6c1c702dfdcb6636c258b4ef1e1d208e143ba6aa4": {
       "seenAt": "2026-11-25T01:01:19.564Z",
       "title": "반격 나선 장동혁 \"한동훈, 소송하라... 내가 직접 변론\" - OhmyNews",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-27T04:41:17.065Z",
       "title": "생각의 ｜정청래의 투덜정치…민주당은 언제까지 전당대회인가 - OBC 뉴스",
       "targetName": "정청래"
+    },
+    "817d9f58a0d61af6673c038a9b60386c7f1084a4884baa25a115b9eb046a5c80": {
+      "seenAt": "2026-11-27T04:51:13.000Z",
+      "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 수사 본격화 - YTN",
+      "targetName": "한동훈"
+    },
+    "da9f1e32ac6cf728fbb35f08d2fbf41079a160d6ce51197a697e83faa4a1aa92": {
+      "seenAt": "2026-11-27T04:51:13.614Z",
+      "title": "조국, 오는 12월 7일 울릉도·독도 방문 예정 - 아주경제",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c44b36b41a9c0a3d5458f63d4a0386781a620c0674d0317a0ef225d12b1cd5f1",
-    "title": "생각의 ｜정청래의 투덜정치…민주당은 언제까지 전당대회인가 - OBC 뉴스",
+    "postId": "da9f1e32ac6cf728fbb35f08d2fbf41079a160d6ce51197a697e83faa4a1aa92",
+    "title": "조국, 오는 12월 7일 울릉도·독도 방문 예정 - 아주경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "45941365067",
-    "sentAt": "2026-11-27T04:41:16.706Z"
+    "runId": "45942309543",
+    "sentAt": "2026-11-27T04:51:13.298Z"
   }
 }
