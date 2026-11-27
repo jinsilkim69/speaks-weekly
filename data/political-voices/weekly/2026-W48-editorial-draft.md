@@ -13768,3 +13768,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 중징계에 김민석 겨눈 정청래… 與 계파갈등 기폭제 되나 - 한국일보
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 중징계에 김민석 겨눈 정청래… 與 계파갈등 기폭제 되나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE12RTdHeE13TnV2QlE1MFZ6S25hM2w1WWQxamtsOFNqOC03NFc1SGhpc3hSZFJSZi01eFprMnMzbjJoMXJSOEhndEIzM0hPcmJIcnpZYkg0aWNpWjFKY25UUnN0ZUt5Yi1ZbXpaYVkzWWRvanPSAXNBVV95cUxNdkU3R3hNd051dkJRNTBWektuYTNsNVlkMWprbDhTajgtNzRXNUhoaXN4UmRSUmYtNXhaazJzM24yaDFyUjhIZ3RCMzNIT3JiSHJ6WWJINGljaVoxSmNuVFJzdGVLeWItWW16WmFZM1lkb2pz?oc=5)
+
+---
+

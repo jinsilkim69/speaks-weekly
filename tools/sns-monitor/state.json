@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T21:31:13.522Z",
+  "lastCheckedAt": "2026-11-27T21:41:12.984Z",
   "seenPostIds": {
     "e8291a0f54815c80e16a0378b544724a9f6af70ec430d12207ca5858c72a823b": {
       "seenAt": "2026-11-25T07:51:19.110Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-27T21:01:23.568Z",
       "title": "최민희 중징계에 김민석 겨눈 정청래… 與 계파갈등 기폭제 되나 - 한국일보",
       "targetName": "김민석"
+    },
+    "2ac152448ef20c4ebad4281bf172270e3f18e1d3fbd1e379a11636a411d6d7d8": {
+      "seenAt": "2026-11-27T21:41:14.192Z",
+      "title": "최민희 중징계에 김민석 겨눈 정청래… 與 계파갈등 기폭제 되나 - 한국일보",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "6650971de255cf1629fc6ebdb6991fe078505cca4bf1dbfbbde6c3d7430a9be7",
+    "postId": "2ac152448ef20c4ebad4281bf172270e3f18e1d3fbd1e379a11636a411d6d7d8",
     "title": "최민희 중징계에 김민석 겨눈 정청래… 與 계파갈등 기폭제 되나 - 한국일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "46067467565",
-    "sentAt": "2026-11-27T21:01:22.822Z"
+    "runId": "46071873443",
+    "sentAt": "2026-11-27T21:41:13.629Z"
   }
 }
