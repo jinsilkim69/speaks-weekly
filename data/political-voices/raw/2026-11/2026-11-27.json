@@ -3302,5 +3302,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "526fb43d1999e24cabce7e03a4668b80b7d5d88bb6aff9f99de30dded357d5ec",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "민주당 중진 12명 만찬에도 김민석·정청래 불참…정청래 “화해 빙자한 몽둥이 찜질” - 뉴스코리아",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dUFwYldyeVo5bVBDSVJaVGhqSG1oSnRWUkYtNDJuNWhVOGl6RTNUcG1MWk9RU1JEUFhFLW5mcURTaF9QZnFJMFpOTUJGcGtGR1BxdU5wTGtyNUFaZ3FfcTk1b0gxUFg4Y3lWVkNB?oc=5\" target=\"_blank\">민주당 중진 12명 만찬에도 김민석·정청래 불참…정청래 “화해 빙자한 몽둥이 찜질”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스코리아</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dUFwYldyeVo5bVBDSVJaVGhqSG1oSnRWUkYtNDJuNWhVOGl6RTNUcG1MWk9RU1JEUFhFLW5mcURTaF9QZnFJMFpOTUJGcGtGR1BxdU5wTGtyNUFaZ3FfcTk1b0gxUFg4Y3lWVkNB?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 05:42:13 GMT",
+    "source": "뉴스코리아",
+    "ageHours": 0.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당 중진 12명 만찬에도 김민석·정청래 불참…정청래 “화해 빙자한 몽둥이 찜질”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "2fecad8774538c8e129e4ee104399b9d8cd46ebe5317de57e0707b45c0f92d77",
+    "targetId": "lee_junseok",
+    "targetName": "이준석",
+    "targetTitle": "개혁신당 의원",
+    "title": "이준석 \"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐\" - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE52TVZhVWpRWHpjMk1Ya0JVNWZxV0FMWDVzY080dkMyOWUwSHA4em9USHJDVm5YamprblFJeHAxaVJEd0w1eWtFYV95SFlPem9oUFpDRXoxTmxZUHllaG9yWE90Ul9BNDNRRHhqWFN4N0JWZHczcl9sZ9IBeEFVX3lxTE52TVZhVWpRWHpjMk1Ya0JVNWZxV0FMWDVzY080dkMyOWUwSHA4em9USHJDVm5YamprblFJeHAxaVJEd0w1eWtFYV95SFlPem9oUFpDRXoxTmxZUHllaG9yWE90Ul9BNDNRRHhqWFN4N0JWZHczcl9sZw?oc=5\" target=\"_blank\">이준석 \"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52TVZhVWpRWHpjMk1Ya0JVNWZxV0FMWDVzY080dkMyOWUwSHA4em9USHJDVm5YamprblFJeHAxaVJEd0w1eWtFYV95SFlPem9oUFpDRXoxTmxZUHllaG9yWE90Ul9BNDNRRHhqWFN4N0JWZHczcl9sZ9IBeEFVX3lxTE52TVZhVWpRWHpjMk1Ya0JVNWZxV0FMWDVzY080dkMyOWUwSHA4em9USHJDVm5YamprblFJeHAxaVJEd0w1eWtFYV95SFlPem9oUFpDRXoxTmxZUHllaG9yWE90Ul9BNDNRRHhqWFN4N0JWZHczcl9sZw?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 05:34:17 GMT",
+    "source": "뉴시스",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이준석 \"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이준석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "6e007430f560283600762a2cac4df279171795f9c03fd1a45cb5ad30daa46c9f",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈, '김승원 자료유출 의혹' 압수수색에 \"경찰, 與 지팡이 자처\" - 뉴시스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFZjI2U1hDSFRnczVWNVJ1VXpQVEtBVDBaNUdmSDFLc0lGX1JXTG1YRWVCejVYU2tGQTdUNTFZaEtRcTNHSEIwLURQYkdzTDIwRXFoWlRPRzJXdUx3ZmRWSNIBeEFVX3lxTE1PSnZ3a2thWVlMYW5BUkl3R0lJaUxOaFptQ1d0NzAtazlxTFJOek1Zdk9nS3pMYWNYUUxuQVJjSUVGbnNlN0FvWXNIOUo4RFN3LVlTWkVQVW51ckozNkNNd3lGbHJEUTdnNTh3MXdETjZRYzdrcExaVQ?oc=5\" target=\"_blank\">한동훈, '김승원 자료유출 의혹' 압수수색에 \"경찰, 與 지팡이 자처\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFZjI2U1hDSFRnczVWNVJ1VXpQVEtBVDBaNUdmSDFLc0lGX1JXTG1YRWVCejVYU2tGQTdUNTFZaEtRcTNHSEIwLURQYkdzTDIwRXFoWlRPRzJXdUx3ZmRWSNIBeEFVX3lxTE1PSnZ3a2thWVlMYW5BUkl3R0lJaUxOaFptQ1d0NzAtazlxTFJOek1Zdk9nS3pMYWNYUUxuQVJjSUVGbnNlN0FvWXNIOUo4RFN3LVlTWkVQVW51ckozNkNNd3lGbHJEUTdnNTh3MXdETjZRYzdrcExaVQ?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 06:29:58 GMT",
+    "source": "뉴시스",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈, '김승원 자료유출 의혹' 압수수색에 \"경찰, 與 지팡이 자처\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

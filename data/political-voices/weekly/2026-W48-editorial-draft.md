@@ -12507,3 +12507,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 민주당 중진 12명 만찬에도 김민석·정청래 불참…정청래 “화해 빙자한 몽둥이 찜질” - 뉴스코리아
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 중진 12명 만찬에도 김민석·정청래 불참…정청래 “화해 빙자한 몽둥이 찜질”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dUFwYldyeVo5bVBDSVJaVGhqSG1oSnRWUkYtNDJuNWhVOGl6RTNUcG1MWk9RU1JEUFhFLW5mcURTaF9QZnFJMFpOTUJGcGtGR1BxdU5wTGtyNUFaZ3FfcTk1b0gxUFg4Y3lWVkNB?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** 이준석 "李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐" - 뉴시스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이준석 "李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE52TVZhVWpRWHpjMk1Ya0JVNWZxV0FMWDVzY080dkMyOWUwSHA4em9USHJDVm5YamprblFJeHAxaVJEd0w1eWtFYV95SFlPem9oUFpDRXoxTmxZUHllaG9yWE90Ul9BNDNRRHhqWFN4N0JWZHczcl9sZ9IBeEFVX3lxTE52TVZhVWpRWHpjMk1Ya0JVNWZxV0FMWDVzY080dkMyOWUwSHA4em9USHJDVm5YamprblFJeHAxaVJEd0w1eWtFYV95SFlPem9oUFpDRXoxTmxZUHllaG9yWE90Ul9BNDNRRHhqWFN4N0JWZHczcl9sZw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, '김승원 자료유출 의혹' 압수수색에 "경찰, 與 지팡이 자처" - 뉴시스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, '김승원 자료유출 의혹' 압수수색에 "경찰, 與 지팡이 자처"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFZjI2U1hDSFRnczVWNVJ1VXpQVEtBVDBaNUdmSDFLc0lGX1JXTG1YRWVCejVYU2tGQTdUNTFZaEtRcTNHSEIwLURQYkdzTDIwRXFoWlRPRzJXdUx3ZmRWSNIBeEFVX3lxTE1PSnZ3a2thWVlMYW5BUkl3R0lJaUxOaFptQ1d0NzAtazlxTFJOek1Zdk9nS3pMYWNYUUxuQVJjSUVGbnNlN0FvWXNIOUo4RFN3LVlTWkVQVW51ckozNkNNd3lGbHJEUTdnNTh3MXdETjZRYzdrcExaVQ?oc=5)
+
+---
+
