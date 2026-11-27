@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T05:21:13.504Z",
+  "lastCheckedAt": "2026-11-27T05:31:13.923Z",
   "seenPostIds": {
-    "81605ae16b3e5bfaeca762d4f53f13e053bb1159192d66ec14bdb0ca359bc5dd": {
-      "seenAt": "2026-11-25T01:11:17.326Z",
-      "title": "한동훈, '조희대 탄핵' 민주당 향해 \"의원직 걸자\" 제안 - 신아일보",
-      "targetName": "한동훈"
-    },
-    "de3d498baf6e6e7f0bd3768a2c64557aa5bfd0bbe601bc6abb38f0bc654adc30": {
-      "seenAt": "2026-11-25T01:21:17.045Z",
-      "title": "한동훈 \"조희대 탄핵 인용되면 의원직 사퇴…서영교·박선원도 의원직 걸어라\" - 뉴시스",
-      "targetName": "한동훈"
-    },
     "074e8bf26cea5ce34d90cddcf285892f691d566f7cc2882085cf8fa96579c635": {
       "seenAt": "2026-11-25T01:21:17.670Z",
       "title": "[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-27T05:21:15.327Z",
       "title": "신장식 \"합당 안하길 잘했단 당원 많아…민주당이 개혁정당이냐\" - 데일리안",
       "targetName": "신장식"
+    },
+    "5722489faf739f2fc016000decec5485b6a6ab7b570c21dc124de017eb62fcf2": {
+      "seenAt": "2026-11-27T05:31:15.196Z",
+      "title": "‘속도·능동·소통’ 이재명표 국정 운영법 - 공공뉴스",
+      "targetName": "이재명"
+    },
+    "aded11fbc0bfff9f48036a4ef19e58d068f05be7503ae8d5b4d8e2a9b4aaf7e7": {
+      "seenAt": "2026-11-27T05:31:15.885Z",
+      "title": "Trump media group splashes out to woo shareholders before merger vote - Financial Times",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "24d308a6409ef1e6242a37017299c9258754981977673f5ea663256c83242a70",
-    "title": "신장식 \"합당 안하길 잘했단 당원 많아…민주당이 개혁정당이냐\" - 데일리안",
+    "postId": "aded11fbc0bfff9f48036a4ef19e58d068f05be7503ae8d5b4d8e2a9b4aaf7e7",
+    "title": "Trump media group splashes out to woo shareholders before merger vote - Financial Times",
     "bot": "jongsuk_pol_bot",
-    "runId": "45945272917",
-    "sentAt": "2026-11-27T05:21:14.923Z"
+    "runId": "45946261271",
+    "sentAt": "2026-11-27T05:31:15.565Z"
   }
 }
