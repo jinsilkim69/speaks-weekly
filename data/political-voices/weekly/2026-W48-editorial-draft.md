@@ -12312,3 +12312,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 한민수 민주당 최고위원 “정청래 전 대표, 뭘 잘못했나? 호소 - 브레이크뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한민수 민주당 최고위원 “정청래 전 대표, 뭘 잘못했나? 호소
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLeDhIaXJ6NEFnTjktekhzdENZRDM0RUVHMmlSVlhReXBsa1hTN2ZYNzdHMzFqX19aVlZ5cHdsVDNMUQ?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 송영길 "바보같은"VS이재호 "구민 모독", 부영 땅 놓고 비난 공방 - 이데일리
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길 "바보같은"VS이재호 "구민 모독", 부영 땅 놓고 비난 공방
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMigAFBVV95cUxPNWU5QWxKRkc2a3NENTYwNm9VRHB2T1BfamYtOXNaa3Q4RGNvSmE5Tk1DbEZnS2hqSmFRVEFQbmQ3WnhhS3ZFZjRvWmdnVEtWUnB3OWFqTDIzWDI0Q242ei1udjl0cDI1aGl4UUJtWkZMTEdUOU1tUmZHNTVoOFdqRQ?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "폭언·욕설하면 차단한다"...SNS 계정 차단 공개 언급 - 더퍼블릭
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "폭언·욕설하면 차단한다"...SNS 계정 차단 공개 언급
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE1Tc3FmNlc2eG56NFJWX0Y1OG9pVHpDSXZUVlpwRGxKRUdrSmw2M3ZNUEtpTmVSekRTZk13dnV6WFpHXzU0UnZZUHNkSnYyYXpKTWIwd2ZkVHcxTU1Na3IyUEdnRXMzSHRva0xR?oc=5)
+
+---
+

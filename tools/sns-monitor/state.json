@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T05:41:15.748Z",
+  "lastCheckedAt": "2026-11-27T05:51:13.454Z",
   "seenPostIds": {
-    "020f7588aee36a76c5b5ce8321adfc92876baa3d4920eb206e4430a0be9e62ae": {
-      "seenAt": "2026-11-25T01:31:28.292Z",
-      "title": "김민석 \"조희대 탄핵 위한 5당 연대 제안\"…신장식 \"지나치게 추상적\" - 데일리안",
-      "targetName": "신장식"
-    },
-    "f9c63cb8802fc603f24a352e0ae4e890944b3d2344e50e4a6afd0ca3f2b295a9": {
-      "seenAt": "2026-11-25T01:31:29.059Z",
-      "title": "[속보] 한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸어라” - 경기일보",
-      "targetName": "한동훈"
-    },
-    "8531261c2f03540f0bf02c19e77d86dedca3b8b3de641d9a4037604573c6aff9": {
-      "seenAt": "2026-11-25T01:31:29.764Z",
-      "title": "한동훈 \"조희대 탄핵, 인용되면 의원직 사퇴...與 서영교·박선원도 직 걸어라\" - 조선일보",
-      "targetName": "한동훈"
-    },
     "1e5f648517c18cb175864a05e71a54ce844531cf5016cc08f8b6c5f05efd6d0b": {
       "seenAt": "2026-11-25T01:41:26.405Z",
       "title": "한동훈 “조희대 탄핵 인용 시 의원직 사퇴… 서영교·박선원도 약속하라” - AI경기방송",
@@ -2515,47 +2500,46 @@
       "seenAt": "2026-11-27T05:41:18.672Z",
       "title": "국힘 ‘조작 징계’ 내홍에…박수영 \"주적은 장동혁·한동훈 아닌 이재명\" - JTBC",
       "targetName": "한동훈"
+    },
+    "b4272bfc9d0641aa38d9a105203b6c45665bbbdf3bfcdef297da3a5e36a80ce9": {
+      "seenAt": "2026-11-27T05:51:14.554Z",
+      "title": "한민수 민주당 최고위원 “정청래 전 대표, 뭘 잘못했나? 호소 - 브레이크뉴스",
+      "targetName": "정청래"
+    },
+    "94baacaefbbb4dfc15310d5c85e9594b758ec1d027bac3f69545b10dd49bb271": {
+      "seenAt": "2026-11-27T05:51:15.278Z",
+      "title": "송영길 \"바보같은\"VS이재호 \"구민 모독\", 부영 땅 놓고 비난 공방 - 이데일리",
+      "targetName": "송영길"
+    },
+    "7c7c2cafe4fc2f2aab70bc81eaac18effd2bfc22268a5ced00c330a0ac5b4e0e": {
+      "seenAt": "2026-11-27T05:51:15.909Z",
+      "title": "이재명 대통령 \"폭언·욕설하면 차단한다\"...SNS 계정 차단 공개 언급 - 더퍼블릭",
+      "targetName": "이재명"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "b4272bfc9d0641aa38d9a105203b6c45665bbbdf3bfcdef297da3a5e36a80ce9",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "한민수 민주당 최고위원 “정청래 전 대표, 뭘 잘못했나? 호소 - 브레이크뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLeDhIaXJ6NEFnTjktekhzdENZRDM0RUVHMmlSVlhReXBsa1hTN2ZYNzdHMzFqX19aVlZ5cHdsVDNMUQ?oc=5\" target=\"_blank\">한민수 민주당 최고위원 “정청래 전 대표, 뭘 잘못했나? 호소</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">브레이크뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLeDhIaXJ6NEFnTjktekhzdENZRDM0RUVHMmlSVlhReXBsa1hTN2ZYNzdHMzFqX19aVlZ5cHdsVDNMUQ?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 04:56:00 GMT",
-        "source": "브레이크뉴스",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "94baacaefbbb4dfc15310d5c85e9594b758ec1d027bac3f69545b10dd49bb271",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "송영길 \"바보같은\"VS이재호 \"구민 모독\", 부영 땅 놓고 비난 공방 - 이데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPNWU5QWxKRkc2a3NENTYwNm9VRHB2T1BfamYtOXNaa3Q4RGNvSmE5Tk1DbEZnS2hqSmFRVEFQbmQ3WnhhS3ZFZjRvWmdnVEtWUnB3OWFqTDIzWDI0Q242ei1udjl0cDI1aGl4UUJtWkZMTEdUOU1tUmZHNTVoOFdqRQ?oc=5\" target=\"_blank\">송영길 \"바보같은\"VS이재호 \"구민 모독\", 부영 땅 놓고 비난 공방</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNWU5QWxKRkc2a3NENTYwNm9VRHB2T1BfamYtOXNaa3Q4RGNvSmE5Tk1DbEZnS2hqSmFRVEFQbmQ3WnhhS3ZFZjRvWmdnVEtWUnB3OWFqTDIzWDI0Q242ei1udjl0cDI1aGl4UUJtWkZMTEdUOU1tUmZHNTVoOFdqRQ?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 05:25:06 GMT",
-        "source": "이데일리",
-        "ageHours": 0.3
+        "id": "275a553cd85a32df9f63ec827cf6eaf3bd131c6c6e3e1bf18dde5f28c6fc361d",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사 - YTN",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBfby0xbkZsSi1Ba3RDMnhCWmc5S1NaMlUxTGpYYUtCQXdoTHdXMk11RURhR1ltQU1mbmtsbU1zdUVjR0U1dlE2RWNoZ0dBek1rcUVMT21PZXNQYi1Sd2l5d2hiUkN0UTFvQWtuX054bExKVkNxZ2c?oc=5\" target=\"_blank\">경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfby0xbkZsSi1Ba3RDMnhCWmc5S1NaMlUxTGpYYUtCQXdoTHdXMk11RURhR1ltQU1mbmtsbU1zdUVjR0U1dlE2RWNoZ0dBek1rcUVMT21PZXNQYi1Sd2l5d2hiUkN0UTFvQWtuX054bExKVkNxZ2c?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 02:32:00 GMT",
+        "source": "YTN",
+        "ageHours": 3.3
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "d1f0a00d6b6218824fd8b920e0ee119ce51319a22539176dc7782c1254e5ebd1",
-    "title": "국힘 ‘조작 징계’ 내홍에…박수영 \"주적은 장동혁·한동훈 아닌 이재명\" - JTBC",
+    "postId": "7c7c2cafe4fc2f2aab70bc81eaac18effd2bfc22268a5ced00c330a0ac5b4e0e",
+    "title": "이재명 대통령 \"폭언·욕설하면 차단한다\"...SNS 계정 차단 공개 언급 - 더퍼블릭",
     "bot": "jongsuk_pol_bot",
-    "runId": "45947250892",
-    "sentAt": "2026-11-27T05:41:18.278Z"
+    "runId": "45948227393",
+    "sentAt": "2026-11-27T05:51:15.585Z"
   }
 }
