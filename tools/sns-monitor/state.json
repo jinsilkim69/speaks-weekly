@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T10:41:18.362Z",
+  "lastCheckedAt": "2026-11-27T10:51:23.925Z",
   "seenPostIds": {
-    "bd426e049fa33dc6145bdd0824633af071131a0ecf8b112fdb842de1e4e68003": {
-      "seenAt": "2026-11-25T04:51:25.814Z",
-      "title": "이재명 대통령, 5·18 진압 경찰 서훈 취소 “당연한 조치” - 시사위크",
-      "targetName": "이재명"
-    },
-    "50dafb86c38488f853736883a3d25b54d2ff5e05d045d4ad124163d6d021047a": {
-      "seenAt": "2026-11-25T04:51:26.440Z",
-      "title": "정청래 “송영길 입조심하라”…자기 말에는 관대하고 남의 입에는 재갈 - OBC 뉴스",
-      "targetName": "송영길"
-    },
-    "f44903203fe82d82008b5010cde7649f5e22c47eef03966f173758b56473412e": {
-      "seenAt": "2026-11-25T04:51:27.111Z",
-      "title": "정청래 \"입 싼 송영길, 말 섞기 싫어…대통령 회동 발설 부적절\" - 이데일리",
-      "targetName": "송영길"
-    },
     "2e38a300229a29dc3ce786fde7250b6541876111346ad02f9e0d112dc9863b07": {
       "seenAt": "2026-11-25T05:01:21.858Z",
       "title": "송영길 \"李대통령, 鄭 억울함 4시간 들어\"…정청래 \"입 싼 宋, 입조심하라\" - 연합인포맥스",
@@ -2515,31 +2500,24 @@
       "seenAt": "2026-11-27T10:41:21.452Z",
       "title": "민주당 윤리심판원, 최민희에 당직자격정지 이상 '중징계' 의결 : 김민석 징계 청원도 심사한다 - 허프포스트코리아",
       "targetName": "김민석"
+    },
+    "759e35b921b6f48279670dcdd2dcfd08cfd3c77087b5901481edd604414cec3d": {
+      "seenAt": "2026-11-27T10:51:25.852Z",
+      "title": "최민희 ‘당원권 정지 2년’ 최고위원직 박탈…정청래 강력 반발 - 중앙일보",
+      "targetName": "정청래"
+    },
+    "e7797df4a138aaeb094570066997bafaac36c2b940b58868772dfc862195fde4": {
+      "seenAt": "2026-11-27T10:51:26.607Z",
+      "title": "최민희 중징계 의결에 ＂김민석은?＂…정청래 강력 반발 - 한국경제TV",
+      "targetName": "정청래"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "759e35b921b6f48279670dcdd2dcfd08cfd3c77087b5901481edd604414cec3d",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "최민희 ‘당원권 정지 2년’ 최고위원직 박탈…정청래 강력 반발 - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WMUJuMjdxRzBsMkpjVUc5RmZIOURFRGgwSU1qZ0R2Y0cyeVFFMDNMQlVRb2EyUEpoOXY2eWsxdXoxLW85aU1mNEtSWDluMm1yY2dJUHl3?oc=5\" target=\"_blank\">최민희 ‘당원권 정지 2년’ 최고위원직 박탈…정청래 강력 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WMUJuMjdxRzBsMkpjVUc5RmZIOURFRGgwSU1qZ0R2Y0cyeVFFMDNMQlVRb2EyUEpoOXY2eWsxdXoxLW85aU1mNEtSWDluMm1yY2dJUHl3?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 09:43:23 GMT",
-        "source": "중앙일보",
-        "ageHours": 1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "cafe96b62b7f0ca1d62bb69344d1970d35362baf8e8771f8a9dd8dba692edd42",
-    "title": "민주당 윤리심판원, 최민희에 당직자격정지 이상 '중징계' 의결 : 김민석 징계 청원도 심사한다 - 허프포스트코리아",
+    "postId": "e7797df4a138aaeb094570066997bafaac36c2b940b58868772dfc862195fde4",
+    "title": "최민희 중징계 의결에 ＂김민석은?＂…정청래 강력 반발 - 한국경제TV",
     "bot": "jongsuk_pol_bot",
-    "runId": "45984148526",
-    "sentAt": "2026-11-27T10:41:20.748Z"
+    "runId": "45985546521",
+    "sentAt": "2026-11-27T10:51:26.224Z"
   }
 }
