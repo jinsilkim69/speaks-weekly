@@ -11766,3 +11766,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 압수수색에 “‘민주당의 지팡이’ 된 경찰, 마음대로 해 봐라” - 부산일보
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 압수수색에 “‘민주당의 지팡이’ 된 경찰, 마음대로 해 봐라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVG80LTlITkE0Wk9nX2M2TkdhNzFCVndTNmZhRDNvX1Nfb0c1ZkR5OUxGdFEzM2ZETm9SQW5jMUhDbi1OeUI0ZUowN1Y1cVBhYnBIdDRDQ2tOZXczMm9PbmlLdW5mbXpuTEhPUTZYd3l1dDBK?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE5mUDNnaVJHYUtpWW4zb3oyR09KYnh1RjVCNVkwSmZscjFtVG9IbG1SVG5ON1RZMjVsbTNaWTA0SXV4aWxrbHFYMUx2bmJzSUVTZXZCbFBveVppdlpSRXA1RlgweEpnT3hHU0pjRFJPR2JkejNYZ2R6YtIBfkFVX3lxTE42Y0U1VnpnUWRSTE9QRFpmTnZFRWRXSGw1RmFVU1M0cWpaRWFydlpOdkhFci15MDRSaU03LWVJWHoyMlNwbEE2dnpZamYtWUQ4NW4xNXlRTG5zUHpMWkU0NTY2dEVZOTdmT3IxY1FyRVM3M2xYN2VXQTJvSFVTQQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사 - YTN
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ma19tSVpJeTNTQzJ3LTdqcXlqekdMZ0RUY0s2am1QaE5LZ2I0d05ZVHNnZG5CalBUT1BSZzRQbU9DY1MtaUhmc3RTU2RZWG5wU3NPSjF6dll1NmZRcUE?oc=5)
+
+---
+

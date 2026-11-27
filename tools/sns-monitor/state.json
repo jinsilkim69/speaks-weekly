@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T02:01:13.889Z",
+  "lastCheckedAt": "2026-11-27T02:11:17.095Z",
   "seenPostIds": {
-    "c4ed6597b4f005b546877b9ae3658a865bdda9edf5e3e62cb5490de55024519c": {
-      "seenAt": "2026-11-24T19:11:29.935Z",
-      "title": "신장식 조국혁신당 당대표, 조국혁신당 조희대 즉각 탄핵 촛불집회 - 의정일보",
-      "targetName": "신장식"
-    },
-    "723c09da5d3455e4189b98aa90bff0546f75523fe2491cd8cbda9d2d2e8d1ac5": {
-      "seenAt": "2026-11-24T19:21:18.318Z",
-      "title": "[기자노트/이가영]송영길과 김범수, 무엇이 다른가 - 동행미디어 시대",
-      "targetName": "송영길"
-    },
-    "d687e7e5efa26360134c92c92203c5a2b15558f56b44d711a5e6d28ac4a526e0": {
-      "seenAt": "2026-11-24T19:21:18.952Z",
-      "title": "The New York Times. . Nvidia reinstated Jensen Huang as chief executive after a pressure campaign led by President Trump that urged its board to bring him back. Jonathan Swan, a White House correspondent, spoke with Michael Barbaro on “The Daily” abo - Facebook",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "551f2ee9fe87cb9ae9e23a527effe71b098b1c46fe8643130e8c434f2d75ac2d": {
       "seenAt": "2026-11-24T19:41:30.815Z",
       "title": "The Trump team is getting more and more evasive about Jensen Huang - CNN",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-27T02:01:16.152Z",
       "title": "한동훈, '김승원 낙마 공세' 압수수색 대상 되자…\"어디 마음대로 해보라\" - 데일리안",
       "targetName": "한동훈"
+    },
+    "2884b2cce4f4cfcbecc66e0a44c3793af926db75483e169082972e8c175ac555": {
+      "seenAt": "2026-11-27T02:11:18.222Z",
+      "title": "한동훈, 압수수색에 “‘민주당의 지팡이’ 된 경찰, 마음대로 해 봐라” - 부산일보",
+      "targetName": "한동훈"
+    },
+    "99dfd38c0663bdac3216eeaa43569fd46d715c2406602042501509e236d43a54": {
+      "seenAt": "2026-11-27T02:11:18.868Z",
+      "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
+    },
+    "92a6d0562028e00792ff63aff1d14cc0f39d7be9567941668a975b149d712561": {
+      "seenAt": "2026-11-27T02:11:19.504Z",
+      "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사 - YTN",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "2884b2cce4f4cfcbecc66e0a44c3793af926db75483e169082972e8c175ac555",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈, 압수수색에 “‘민주당의 지팡이’ 된 경찰, 마음대로 해 봐라” - 부산일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVG80LTlITkE0Wk9nX2M2TkdhNzFCVndTNmZhRDNvX1Nfb0c1ZkR5OUxGdFEzM2ZETm9SQW5jMUhDbi1OeUI0ZUowN1Y1cVBhYnBIdDRDQ2tOZXczMm9PbmlLdW5mbXpuTEhPUTZYd3l1dDBK?oc=5\" target=\"_blank\">한동훈, 압수수색에 “‘민주당의 지팡이’ 된 경찰, 마음대로 해 봐라”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">부산일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZVG80LTlITkE0Wk9nX2M2TkdhNzFCVndTNmZhRDNvX1Nfb0c1ZkR5OUxGdFEzM2ZETm9SQW5jMUhDbi1OeUI0ZUowN1Y1cVBhYnBIdDRDQ2tOZXczMm9PbmlLdW5mbXpuTEhPUTZYd3l1dDBK?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:43:15 GMT",
-        "source": "부산일보",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "99dfd38c0663bdac3216eeaa43569fd46d715c2406602042501509e236d43a54",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5mUDNnaVJHYUtpWW4zb3oyR09KYnh1RjVCNVkwSmZscjFtVG9IbG1SVG5ON1RZMjVsbTNaWTA0SXV4aWxrbHFYMUx2bmJzSUVTZXZCbFBveVppdlpSRXA1RlgweEpnT3hHU0pjRFJPR2JkejNYZ2R6YtIBfkFVX3lxTE42Y0U1VnpnUWRSTE9QRFpmTnZFRWRXSGw1RmFVU1M0cWpaRWFydlpOdkhFci15MDRSaU03LWVJWHoyMlNwbEE2dnpZamYtWUQ4NW4xNXlRTG5zUHpMWkU0NTY2dEVZOTdmT3IxY1FyRVM3M2xYN2VXQTJvSFVTQQ?oc=5\" target=\"_blank\">경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mUDNnaVJHYUtpWW4zb3oyR09KYnh1RjVCNVkwSmZscjFtVG9IbG1SVG5ON1RZMjVsbTNaWTA0SXV4aWxrbHFYMUx2bmJzSUVTZXZCbFBveVppdlpSRXA1RlgweEpnT3hHU0pjRFJPR2JkejNYZ2R6YtIBfkFVX3lxTE42Y0U1VnpnUWRSTE9QRFpmTnZFRWRXSGw1RmFVU1M0cWpaRWFydlpOdkhFci15MDRSaU03LWVJWHoyMlNwbEE2dnpZamYtWUQ4NW4xNXlRTG5zUHpMWkU0NTY2dEVZOTdmT3IxY1FyRVM3M2xYN2VXQTJvSFVTQQ?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:44:18 GMT",
-        "source": "머니투데이",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "92a6d0562028e00792ff63aff1d14cc0f39d7be9567941668a975b149d712561",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사 - YTN",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ma19tSVpJeTNTQzJ3LTdqcXlqekdMZ0RUY0s2am1QaE5LZ2I0d05ZVHNnZG5CalBUT1BSZzRQbU9DY1MtaUhmc3RTU2RZWG5wU3NPSjF6dll1NmZRcUE?oc=5\" target=\"_blank\">경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ma19tSVpJeTNTQzJ3LTdqcXlqekdMZ0RUY0s2am1QaE5LZ2I0d05ZVHNnZG5CalBUT1BSZzRQbU9DY1MtaUhmc3RTU2RZWG5wU3NPSjF6dll1NmZRcUE?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:42:00 GMT",
-        "source": "YTN",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "066f8bf049b16dcd75ee70937410ee196feab9ba3c97010b8f2519de5d0f9c8f",
@@ -2613,13 +2565,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "602c3b3fe2897d94cb77497ac7fd2371d1a7a1db36328557f8e54232e1d5056f",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "경찰, 공소청 압수수색에 한동훈 “민중의 지팡이가 아니라 ‘민주당의 지팡이’” - 조선일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONzlrRVhDQ1NiNGJRdGVtNkxKaHFPdV9md2d4S3BJSkh0SDNHY0hGX1h0Ny1uUWF4ek40cXRRZ0pEWUJBaFI4a1E4XzVVcG5fUlVrdUxnUm00SXBnTXF0U01uVUtna05Cd3BidkxLQzA0MFFZZHR2eFFvTkJoTDlib1pUOWxhdw?oc=5\" target=\"_blank\">경찰, 공소청 압수수색에 한동훈 “민중의 지팡이가 아니라 ‘민주당의 지팡이’”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONzlrRVhDQ1NiNGJRdGVtNkxKaHFPdV9md2d4S3BJSkh0SDNHY0hGX1h0Ny1uUWF4ek40cXRRZ0pEWUJBaFI4a1E4XzVVcG5fUlVrdUxnUm00SXBnTXF0U01uVUtna05Cd3BidkxLQzA0MFFZZHR2eFFvTkJoTDlib1pUOWxhdw?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:38:00 GMT",
+        "source": "조선일보",
+        "ageHours": 0.6
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "be52aaee66423e764275f2eb50e751096072829a9aafbf43558c68bb4a1a4926",
-    "title": "한동훈, '김승원 낙마 공세' 압수수색 대상 되자…\"어디 마음대로 해보라\" - 데일리안",
+    "postId": "92a6d0562028e00792ff63aff1d14cc0f39d7be9567941668a975b149d712561",
+    "title": "경찰, 법무부·공소청 등 압수수색...'한동훈 자료유출 의혹' 강제수사 - YTN",
     "bot": "jongsuk_pol_bot",
-    "runId": "45925832098",
-    "sentAt": "2026-11-27T02:01:15.836Z"
+    "runId": "45926815282",
+    "sentAt": "2026-11-27T02:11:19.186Z"
   }
 }
