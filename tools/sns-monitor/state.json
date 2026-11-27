@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T08:01:14.688Z",
+  "lastCheckedAt": "2026-11-27T08:11:15.405Z",
   "seenPostIds": {
     "e5903acf5a8ed0391d46b8a2bc9bfb1f5f599a6a7e9a9d3010179437bba63b04": {
       "seenAt": "2026-11-25T03:21:19.890Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-27T07:51:13.802Z",
       "title": "한동훈 “오빠가 나설 타이밍?” VS 김승원 “조선제일 법꾸라지” - 주간경향",
       "targetName": "한동훈"
+    },
+    "f7109d157768517395c881c7fb2dc32ccce4de367ee2784eac28d4a38e724e84": {
+      "seenAt": "2026-11-27T08:11:16.829Z",
+      "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외 없다\" 공세 - 뉴데일리",
+      "targetName": "정청래"
+    },
+    "851f2c01843e1dafbae46c0538ef4d056e243af727280d12cc81921bb59c9455": {
+      "seenAt": "2026-11-27T08:11:17.553Z",
+      "title": "Trump Demands Probe Into ‘Fake’ Economic Figures - Time Magazine",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "e9a0ba0d5d362c715e75e049b20670e8612356f60adba8658813b581259d05e8",
-    "title": "한동훈 “오빠가 나설 타이밍?” VS 김승원 “조선제일 법꾸라지” - 주간경향",
+    "postId": "851f2c01843e1dafbae46c0538ef4d056e243af727280d12cc81921bb59c9455",
+    "title": "Trump Demands Probe Into ‘Fake’ Economic Figures - Time Magazine",
     "bot": "jongsuk_pol_bot",
-    "runId": "45961302474",
-    "sentAt": "2026-11-27T07:51:13.463Z"
+    "runId": "45963707983",
+    "sentAt": "2026-11-27T08:11:17.190Z"
   }
 }
