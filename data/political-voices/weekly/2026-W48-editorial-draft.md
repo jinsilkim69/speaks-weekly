@@ -13157,3 +13157,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** '최민희 중징계'에 친청계 "김민석은?"…與계파갈등 벼랑끝으로 - 연합뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '최민희 중징계'에 친청계 "김민석은?"…與계파갈등 벼랑끝으로
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YWU55RW9aSkpTSVdHOGs2cjhNRzNDVUpDcktFVWdOZjBCSEFwX0xnS3dFSUpvaGhtWjE1X0g1YnNYTW5jeG5pZmR1SGduZUUyVkdIWE1GV25abkdmMEFTNNIBYEFVX3lxTE5YWU55RW9aSkpTSVdHOGs2cjhNRzNDVUpDcktFVWdOZjBCSEFwX0xnS3dFSUpvaGhtWjE1X0g1YnNYTW5jeG5pZmR1SGduZUUyVkdIWE1GV25abkdmMEFTNA?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 친청계, 최민희 중징계에 일제히 반발…정청래 "김민석 '반·분·신' 해당행위는?" - 뉴시스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 친청계, 최민희 중징계에 일제히 반발…정청래 "김민석 '반·분·신' 해당행위는?"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xclkwWWh0ek43UzhMZUR2Z1RsdTNnb1JrVDBNQmZDZ1FMTzhVZHowV2ZtTWU2RU9jLXBhbXF0VUY5Uk1PYnlxS2JoRVNnaFoyMXRGLUVuZDBUeUQtWGk0M9IBeEFVX3lxTE95ZmVvYUt0aHc2MVFWNFhFTVBsMGlubWdhdDg3eFpWYUF6SWdkTFhHRWJKVWZDc002NHFVZi1Bb2F6aFJhQnZHVTdSTDN3T3RwejUyMlNUcGNFSGk3VEwtLU51OGMzWVdyZGJrX1I3YjJVTUhYSVZNbQ?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 이재호 연수구청장 '송영길, 44만 구민 모독 사과하라'…부영 송도테마파크 개발 둘러싼 갈등 격화 - 포커스인천
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재호 연수구청장 '송영길, 44만 구민 모독 사과하라'…부영 송도테마파크 개발 둘러싼 갈등 격화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE90UjNyNkJaREVFYVZOV3J1OEJxaEUwdF9HRDNpTTlhSmtaLWd6VnFpLVAxOFpPVTBqTTFSQWMxSldNY0dlOFZ5NktBWEtTYm5lVFRMM2NrSm9GODNpbnFWaTFNdWh3LXQ5OVl6OFBB0gFyQVVfeXFMTklYckYzaGs4MThReXlnb2t5d0tUTWE4TXIxdGk1eDFScmMwRDVMdnNyRFRHYkJnWm1pVFI2eFVmZDM3eEZuUUx6N2lfcjJkYjRJSG1RXzIzN2FJR1gybEFHNGU3RExmQjFCLVRlYXBWTDdR?oc=5)
+
+---
+
