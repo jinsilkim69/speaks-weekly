@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T01:31:13.251Z",
+  "lastCheckedAt": "2026-11-27T01:41:19.916Z",
   "seenPostIds": {
-    "f3d35550a722e63ff162c7a027119d5119c45fc1e838b73404e5f784ca4bfd6f": {
-      "seenAt": "2026-11-24T16:11:15.765Z",
-      "title": "험란했던 '김민석 100일'...\"결자해지\" \"아직 60점\" - YTN",
-      "targetName": "김민석"
-    },
-    "5d1c740623ea0566ad9e71a57967e41f1925d2a6905bc5d399ab43463f2ff138": {
-      "seenAt": "2026-11-24T16:31:17.215Z",
-      "title": "‘한동훈 기획제명’ 의혹 제기…친한계 “장동혁 사퇴해야” - 경기신문",
-      "targetName": "한동훈"
-    },
-    "23c13615976b5232e5d34c500a86231b70566ec7ec51961d300994125dcbf91c": {
-      "seenAt": "2026-11-24T16:31:17.860Z",
-      "title": "조국 “당명 속 ‘조국’이 제 이름은 아니지만… 당명 바꾸자” - 조선일보",
-      "targetName": "조국"
-    },
     "3bf9245ce2e8171fd5c73eead6c113a21935cb9abbf1ed5e363a36a991fb776f": {
       "seenAt": "2026-11-24T16:51:28.621Z",
       "title": "Trump shares meme of Jensen Huang raising red bra in air - The Hill",
@@ -2515,31 +2500,110 @@
       "seenAt": "2026-11-27T01:31:15.942Z",
       "title": "경찰, ‘한동훈 수사자료 유출 의혹’ 법무부·공소청 등 압수수색 - 한국NGO신문",
       "targetName": "한동훈"
+    },
+    "63a59698857e925da94e3192225144c748fa44a1103f9b041618cd3e3925de71": {
+      "seenAt": "2026-11-27T01:41:21.693Z",
+      "title": "경찰, '한동훈 자료 유출 의혹' 법무부·공소청 등 압수수색 - 뉴스1",
+      "targetName": "한동훈"
+    },
+    "084282161b93bfe7633669253f017a9af980a6598ee08d03fab504cdcf2f9bac": {
+      "seenAt": "2026-11-27T01:41:22.448Z",
+      "title": "이재명 대통령 \"SNS 합리적 비판은 수용, 욕설·폭언은 차단\" - 내외일보",
+      "targetName": "이재명"
+    },
+    "fd6e09bc846ff5aed5f8483f9a44d6b33036073a721640a5a92da307042ab4d8": {
+      "seenAt": "2026-11-27T01:41:23.208Z",
+      "title": "‘수사기록 유출’ 한동훈, 제2의 노회찬 사례 되나 - 법치뉴스",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "63a59698857e925da94e3192225144c748fa44a1103f9b041618cd3e3925de71",
+        "id": "241495cba5ecb0289d1fc9c43da7167b0c177285f20afc9d1e4e2839e34b24c5",
         "targetId": "han_donghoon",
         "targetName": "한동훈",
         "targetTitle": "국민의힘 대표",
-        "title": "경찰, '한동훈 자료 유출 의혹' 법무부·공소청 등 압수수색 - 뉴스1",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCM3Z0Q0hCVWdaRXpBVmdTSk9mV0wteFRIRFVvbE15VVhSb1JHSWFpT1FmelpEcHlBbFBEVzZhU0l0Q2t5dlJhTF9nV19KSThFM3VNZ1RmblA0OERWbFlkU2NMbUU?oc=5\" target=\"_blank\">경찰, '한동훈 자료 유출 의혹' 법무부·공소청 등 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스1</font>",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCM3Z0Q0hCVWdaRXpBVmdTSk9mV0wteFRIRFVvbE15VVhSb1JHSWFpT1FmelpEcHlBbFBEVzZhU0l0Q2t5dlJhTF9nV19KSThFM3VNZ1RmblA0OERWbFlkU2NMbUU?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:00:32 GMT",
-        "source": "뉴스1",
-        "ageHours": 0.5
+        "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색 - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEVkJtRzZiT3l1N1RzT183eWliY1dCSjBXYlF6VnlFNjc3bnp5ZjVzWXFBRHFxTEIzSjd3V0s1c3NiSTNCQXBKOWN0azNKMVkxQk04RTVR?oc=5\" target=\"_blank\">경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEVkJtRzZiT3l1N1RzT183eWliY1dCSjBXYlF6VnlFNjc3bnp5ZjVzWXFBRHFxTEIzSjd3V0s1c3NiSTNCQXBKOWN0azNKMVkxQk04RTVR?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:36:18 GMT",
+        "source": "중앙일보",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ee391b7f708b7b507ce27d467a113d95c13691d22181da9765fefd45583cd06e",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 노컷뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsenlEV2Z3cHlJQllUMVRfZXZ3d3RVYm1zU194LU4xLTZrLVNKUUVYb1ZmaG9jOWVWTk9IZ080ekdaUGlFOTlVc3gyVTFvQ1ViTkE?oc=5\" target=\"_blank\">경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">노컷뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsenlEV2Z3cHlJQllUMVRfZXZ3d3RVYm1zU194LU4xLTZrLVNKUUVYb1ZmaG9jOWVWTk9IZ080ekdaUGlFOTlVc3gyVTFvQ1ViTkE?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:23:39 GMT",
+        "source": "노컷뉴스",
+        "ageHours": 0.3
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "0b82855c206bf331f981623efe3e612b02cf0375c784104896543bf0b8890a0f",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석·정청래 빠진 만찬 회동‥與 중진들 \"단결·민생 전념\" - MBC 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYdIBeEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYQ?oc=5\" target=\"_blank\">김민석·정청래 빠진 만찬 회동‥與 중진들 \"단결·민생 전념\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MBC 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYdIBeEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYQ?oc=5",
+        "pubDate": "Thu, 26 Nov 2026 23:37:56 GMT",
+        "source": "MBC 뉴스",
+        "ageHours": 2.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "089433681a51a0b6a34960a14e11ffcbccd00b6576171acab26ad660cef56db7",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 “정부 믿고 투자한 국민 피눈물…소각 전환형 증안펀드 즉각 추진해야” - 시사저널",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1mN09iRktHN1hPS29ud2c4UDFLUG5VQTRLYXZTTDVybW5mcDl4U1B5eXctY3hkUkVxSng3aDBHNG9pUi1KWUFseGpPaHBxcW4xMkN1TW9zNkRGYW1aN192YUVCUXViOGZBelBlcmEyNNIBc0FVX3lxTFBCcTBmZXM5YnlRa0lCTnFlaVBrbHVUSlhJbXhhNVpJOXByalpTUUR1OVlxMHhiSm9QRFUwVDJHZ1lsU2lGLThtd0YycV85Zm9la1prQ2NIS0VfWGRCbWJWVzZPU1VRbnhkNndiUENmQkd5REU?oc=5\" target=\"_blank\">조국 “정부 믿고 투자한 국민 피눈물…소각 전환형 증안펀드 즉각 추진해야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">시사저널</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mN09iRktHN1hPS29ud2c4UDFLUG5VQTRLYXZTTDVybW5mcDl4U1B5eXctY3hkUkVxSng3aDBHNG9pUi1KWUFseGpPaHBxcW4xMkN1TW9zNkRGYW1aN192YUVCUXViOGZBelBlcmEyNNIBc0FVX3lxTFBCcTBmZXM5YnlRa0lCTnFlaVBrbHVUSlhJbXhhNVpJOXByalpTUUR1OVlxMHhiSm9QRFUwVDJHZ1lsU2lGLThtd0YycV85Zm9la1prQ2NIS0VfWGRCbWJWVzZPU1VRbnhkNndiUENmQkd5REU?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:27:58 GMT",
+        "source": "시사저널",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "abc2d8adfdb07bd39be67c8b0c4d3ff5094f8154b67d7ccf5f413d301efac751",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump Urges Putin To ‘Pull Back’ Aggression In Europe As US Delays Troop Posture Review - Radio Free Europe/Radio Liberty",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxON2x2aE1oVG9TRnM4ejM0M2xfLTBjVjktRHhuZnYwM19XLTBuSkNzNVFOR1B1SzZIejV2bVNFTUlCOC16eC1UWU1PM29QTk82b2lvb2hvRm9NdGh6V2RwMm1BQzYxN3Vidi1jbGdRZTlDOWlPWEVKTVU1Z2ZIdUlRMmxscVRsWjhHTnVnRdIBjAFBVV95cUxON2x2aE1oVG9TRnM4ejM0M2xfLTBjVjktRHhuZnYwM19XLTBuSkNzNVFOR1B1SzZIejV2bVNFTUlCOC16eC1UWU1PM29QTk82b2lvb2hvRm9NdGh6V2RwMm1BQzYxN3Vidi1jbGdRZTlDOWlPWEVKTVU1Z2ZIdUlRMmxscVRsWjhHTnVnRQ?oc=5\" target=\"_blank\">Trump Urges Putin To ‘Pull Back’ Aggression In Europe As US Delays Troop Posture Review</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Radio Free Europe/Radio Liberty</font>",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2x2aE1oVG9TRnM4ejM0M2xfLTBjVjktRHhuZnYwM19XLTBuSkNzNVFOR1B1SzZIejV2bVNFTUlCOC16eC1UWU1PM29QTk82b2lvb2hvRm9NdGh6V2RwMm1BQzYxN3Vidi1jbGdRZTlDOWlPWEVKTVU1Z2ZIdUlRMmxscVRsWjhHTnVnRdIBjAFBVV95cUxON2x2aE1oVG9TRnM4ejM0M2xfLTBjVjktRHhuZnYwM19XLTBuSkNzNVFOR1B1SzZIejV2bVNFTUlCOC16eC1UWU1PM29QTk82b2lvb2hvRm9NdGh6V2RwMm1BQzYxN3Vidi1jbGdRZTlDOWlPWEVKTVU1Z2ZIdUlRMmxscVRsWjhHTnVnRQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 00:54:58 GMT",
+        "source": "Radio Free Europe/Radio Liberty",
+        "ageHours": 0.8
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "1c20c20fcbe810e7d2c6c3f361c0c7ac75f3bac66e898c5a285d9163998dc89b",
-    "title": "경찰, ‘한동훈 수사자료 유출 의혹’ 법무부·공소청 등 압수수색 - 한국NGO신문",
+    "postId": "fd6e09bc846ff5aed5f8483f9a44d6b33036073a721640a5a92da307042ab4d8",
+    "title": "‘수사기록 유출’ 한동훈, 제2의 노회찬 사례 되나 - 법치뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45922997603",
-    "sentAt": "2026-11-27T01:31:15.624Z"
+    "runId": "45923954407",
+    "sentAt": "2026-11-27T01:41:22.813Z"
   }
 }
