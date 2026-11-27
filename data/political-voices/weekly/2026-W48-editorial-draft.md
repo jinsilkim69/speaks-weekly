@@ -12143,3 +12143,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 ‘수사자료 유출’ 압수수색에 “경찰, 민주당의 지팡이” - 서울경제
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 ‘수사자료 유출’ 압수수색에 “경찰, 민주당의 지팡이”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE53VXBQdjd3LVU0czBySzhCOElHdnNKYnY1VTg3UnNCZ2dIZnNLRFBTclA0Y3hFM0lzVVh0YnpaeVJUMVBLZHJwalp2Tk9XSTdGOEHSAVNBVV95cUxNNVRFMmlQRVoyLUVxcnFQd0sxemVzeWtPUDF6VnBqUlZjVVlhT0ZrVFl0dVRzR2ZnM1ZFeUkxYW9BNzJNNzdtNmZuQTl1bXZzS2Z1aw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 생각의 ｜정청래의 투덜정치…민주당은 언제까지 전당대회인가 - OBC 뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 생각의 ｜정청래의 투덜정치…민주당은 언제까지 전당대회인가
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE5YcHNFMGtCdFJFMkVPQXhNaldYYWt6UzJSZjUtSHNDTTUzMDV2UU00VEFXbkkzLWpyNGtkQzJibURCSzZ6aExRdkpPRjB3aUROVEtDTGhKNFhwalJoTjJuanNTbnA3SlNER3c?oc=5)
+
+---
+

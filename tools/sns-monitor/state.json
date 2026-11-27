@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T04:31:17.970Z",
+  "lastCheckedAt": "2026-11-27T04:41:14.857Z",
   "seenPostIds": {
     "e424a6778e08078fdfadaf877f4a5fe66f6e9fa994fe1969ed0adc356d74744b": {
       "seenAt": "2026-11-25T00:51:30.160Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-27T04:21:17.363Z",
       "title": "‘욕하면 차단’… 이재명 대통령의 SNS 활용법 - 시사위크",
       "targetName": "이재명"
+    },
+    "9a9fa97496739d649189b8414355fb7a0f3e23c105d58c3b6f3c38a595306952": {
+      "seenAt": "2026-11-27T04:41:16.367Z",
+      "title": "한동훈 ‘수사자료 유출’ 압수수색에 “경찰, 민주당의 지팡이” - 서울경제",
+      "targetName": "한동훈"
+    },
+    "c44b36b41a9c0a3d5458f63d4a0386781a620c0674d0317a0ef225d12b1cd5f1": {
+      "seenAt": "2026-11-27T04:41:17.065Z",
+      "title": "생각의 ｜정청래의 투덜정치…민주당은 언제까지 전당대회인가 - OBC 뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "71ff4e5a20710e2ceb209a5addc67e47d99061e68f8bcffbb97e50f4ad690922",
-    "title": "‘욕하면 차단’… 이재명 대통령의 SNS 활용법 - 시사위크",
+    "postId": "c44b36b41a9c0a3d5458f63d4a0386781a620c0674d0317a0ef225d12b1cd5f1",
+    "title": "생각의 ｜정청래의 투덜정치…민주당은 언제까지 전당대회인가 - OBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45939415359",
-    "sentAt": "2026-11-27T04:21:16.677Z"
+    "runId": "45941365067",
+    "sentAt": "2026-11-27T04:41:16.706Z"
   }
 }

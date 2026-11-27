@@ -2602,5 +2602,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "9a9fa97496739d649189b8414355fb7a0f3e23c105d58c3b6f3c38a595306952",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 ‘수사자료 유출’ 압수수색에 “경찰, 민주당의 지팡이” - 서울경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE53VXBQdjd3LVU0czBySzhCOElHdnNKYnY1VTg3UnNCZ2dIZnNLRFBTclA0Y3hFM0lzVVh0YnpaeVJUMVBLZHJwalp2Tk9XSTdGOEHSAVNBVV95cUxNNVRFMmlQRVoyLUVxcnFQd0sxemVzeWtPUDF6VnBqUlZjVVlhT0ZrVFl0dVRzR2ZnM1ZFeUkxYW9BNzJNNzdtNmZuQTl1bXZzS2Z1aw?oc=5\" target=\"_blank\">한동훈 ‘수사자료 유출’ 압수수색에 “경찰, 민주당의 지팡이”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53VXBQdjd3LVU0czBySzhCOElHdnNKYnY1VTg3UnNCZ2dIZnNLRFBTclA0Y3hFM0lzVVh0YnpaeVJUMVBLZHJwalp2Tk9XSTdGOEHSAVNBVV95cUxNNVRFMmlQRVoyLUVxcnFQd0sxemVzeWtPUDF6VnBqUlZjVVlhT0ZrVFl0dVRzR2ZnM1ZFeUkxYW9BNzJNNzdtNmZuQTl1bXZzS2Z1aw?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 02:54:22 GMT",
+    "source": "서울경제",
+    "ageHours": 1.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 ‘수사자료 유출’ 압수수색에 “경찰, 민주당의 지팡이”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "c44b36b41a9c0a3d5458f63d4a0386781a620c0674d0317a0ef225d12b1cd5f1",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "생각의 ｜정청래의 투덜정치…민주당은 언제까지 전당대회인가 - OBC 뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5YcHNFMGtCdFJFMkVPQXhNaldYYWt6UzJSZjUtSHNDTTUzMDV2UU00VEFXbkkzLWpyNGtkQzJibURCSzZ6aExRdkpPRjB3aUROVEtDTGhKNFhwalJoTjJuanNTbnA3SlNER3c?oc=5\" target=\"_blank\">생각의 ｜정청래의 투덜정치…민주당은 언제까지 전당대회인가</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OBC 뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YcHNFMGtCdFJFMkVPQXhNaldYYWt6UzJSZjUtSHNDTTUzMDV2UU00VEFXbkkzLWpyNGtkQzJibURCSzZ6aExRdkpPRjB3aUROVEtDTGhKNFhwalJoTjJuanNTbnA3SlNER3c?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 01:50:42 GMT",
+    "source": "OBC 뉴스",
+    "ageHours": 2.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 생각의 ｜정청래의 투덜정치…민주당은 언제까지 전당대회인가",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
