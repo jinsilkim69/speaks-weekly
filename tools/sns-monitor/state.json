@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T01:11:16.546Z",
+  "lastCheckedAt": "2026-11-27T01:21:13.202Z",
   "seenPostIds": {
-    "67eba06b4bc42fd5eed7f366ffb50bb8ec3e635f2452559409dcc624a85f1a58": {
-      "seenAt": "2026-11-24T14:21:19.701Z",
-      "title": "김민석 취임 100일에 SNS 글 5개 올린 정청래…金 “말씀드릴 필요 없어” - 매일경제",
-      "targetName": "정청래"
-    },
-    "dcc21af373490d10a7771607463d5622636119cd59f43a8f55467666a199663d": {
-      "seenAt": "2026-11-24T14:41:24.631Z",
-      "title": "Trump Claims Victory Over Transgender Policies in New Post - PinkNews",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "13aec639d8fc00998c962132893b8e98f7aae352d880f2b79976725fa9218d79": {
-      "seenAt": "2026-11-24T15:11:15.717Z",
-      "title": "이준석 “장동혁, 부정선거 붙잡고 버텨…한동훈식 검찰정치도 위험” - 중앙일보",
-      "targetName": "이준석"
-    },
     "8c92486275c475c00a63c57b278eb3d6b1ab6e2e765208372565cda2d82dcf8e": {
       "seenAt": "2026-11-24T15:21:17.914Z",
       "title": "Trump's bizarre Truth Social post celebrates Jensen Huang's return as Nvidia CEO - The New Indian Express",
@@ -2515,52 +2500,35 @@
       "seenAt": "2026-11-27T01:12:37.882Z",
       "title": "'조희대 탄핵' 책임 안 지겠다는 與?…한동훈 \"대놓고 '아니면 말고'란 것\" - 데일리안",
       "targetName": "한동훈"
+    },
+    "392ab535aeffd916f93facc40bb256b899819857b893089ee4a2f622327895f1": {
+      "seenAt": "2026-11-27T01:21:14.249Z",
+      "title": "[속보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
+    },
+    "dbcdb009c123264cd5a0cb5232131b8ca9c1faad0eb9ad53de06b8369f155394": {
+      "seenAt": "2026-11-27T01:21:14.871Z",
+      "title": "경찰, 한동훈 '기소계획서 유출 의혹' 법무부·공소청 등 압수수색 - mnews.sbs.co.kr",
+      "targetName": "한동훈"
+    },
+    "caf44d02b8e4e33f1bd36557b5b83eb699414c6a690db7120fff8c32e191ce0e": {
+      "seenAt": "2026-11-27T01:21:15.479Z",
+      "title": "조국 \"정부 믿고 투자한 국민은 피눈물…증시안정펀드 즉각 추진해야\" - 뉴시스",
+      "targetName": "조국"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "392ab535aeffd916f93facc40bb256b899819857b893089ee4a2f622327895f1",
+        "id": "d505b68ad42c6805365c88d38fe953ab2c33b95a40916436b7258168db8b8bde",
         "targetId": "han_donghoon",
         "targetName": "한동훈",
         "targetTitle": "국민의힘 대표",
-        "title": "[속보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1OZWkyNHNaZG1Md0xYQlVuVmg3QU5vVjBaRHNHZzF4aGtyM3RqclRFTmNLVTFvUmdja1AtSjRRRldDSHE3NGxVV3FnVFNOVGREVGhuRDVBYW1ZLXdzRzlnaU5RMEdYM2hUV3JNSFUtV1lldy0xN0VMNtIBfkFVX3lxTE1Ic0dZWFpUajF4QUlpc3I5Uk02bXlmQVdVVWEyck5jaWNZcTFaRUwwV2VMcVJSd05LNlJxS2NLQ0piYUNQNTcxV1cxUGx6X0RwNzBieHI4VmRKNjNfOUVtMk9kWkRmRWgwcU1pWjlOc2pnZUgwWkstZVpRQWUtZw?oc=5\" target=\"_blank\">[속보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OZWkyNHNaZG1Md0xYQlVuVmg3QU5vVjBaRHNHZzF4aGtyM3RqclRFTmNLVTFvUmdja1AtSjRRRldDSHE3NGxVV3FnVFNOVGREVGhuRDVBYW1ZLXdzRzlnaU5RMEdYM2hUV3JNSFUtV1lldy0xN0VMNtIBfkFVX3lxTE1Ic0dZWFpUajF4QUlpc3I5Uk02bXlmQVdVVWEyck5jaWNZcTFaRUwwV2VMcVJSd05LNlJxS2NLQ0piYUNQNTcxV1cxUGx6X0RwNzBieHI4VmRKNjNfOUVtMk9kWkRmRWgwcU1pWjlOc2pnZUgwWkstZVpRQWUtZw?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 00:54:02 GMT",
-        "source": "머니투데이",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "dbcdb009c123264cd5a0cb5232131b8ca9c1faad0eb9ad53de06b8369f155394",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "경찰, 한동훈 '기소계획서 유출 의혹' 법무부·공소청 등 압수수색 - mnews.sbs.co.kr",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjR2b2gyTjVHbXd5Ml9UX21XWjdybV9rWi1uMWEtQXU1ald4cjFmWUYzNjRfRGttUXd0cWkxVU9KY2ttRm9UN2QtT1NRLXBKUUZnVHJCM09vMS1iYS1ReXowbmV1Q1ZCcnlfSDRTbnBBOTAxakkwV0gzNlJSUjk1RUZHWW9FNFZxa19VSVRtTQ?oc=5\" target=\"_blank\">경찰, 한동훈 '기소계획서 유출 의혹' 법무부·공소청 등 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mnews.sbs.co.kr</font>",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjR2b2gyTjVHbXd5Ml9UX21XWjdybV9rWi1uMWEtQXU1ald4cjFmWUYzNjRfRGttUXd0cWkxVU9KY2ttRm9UN2QtT1NRLXBKUUZnVHJCM09vMS1iYS1ReXowbmV1Q1ZCcnlfSDRTbnBBOTAxakkwV0gzNlJSUjk1RUZHWW9FNFZxa19VSVRtTQ?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 00:58:09 GMT",
-        "source": "mnews.sbs.co.kr",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "caf44d02b8e4e33f1bd36557b5b83eb699414c6a690db7120fff8c32e191ce0e",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 \"정부 믿고 투자한 국민은 피눈물…증시안정펀드 즉각 추진해야\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OQXg4ald2dVJsdi1oRHNIRkNiVThpNmMtZ0lSZ3Z1XzcyR3Vyd3hfdE50RUhFUzl1dkFVei1Xcm5KenprN2FzeUN6MkFuSzNqWV81d0pFalBWWnFQb3hFVtIBeEFVX3lxTFBMOXIzSGFHRG1ZREpCdlJ4X0dCdFZETmlTbHhlNUdueWd5eHlhX3ZnVFVweHlFcXpZblJJRXgwR1lIZHNjeDhuVzVSaWlJTTFXZ3J5SnViZTREaTNQNGdtVnBGT25IeU83X1hDYWhpOFhlM1kteEtraQ?oc=5\" target=\"_blank\">조국 \"정부 믿고 투자한 국민은 피눈물…증시안정펀드 즉각 추진해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OQXg4ald2dVJsdi1oRHNIRkNiVThpNmMtZ0lSZ3Z1XzcyR3Vyd3hfdE50RUhFUzl1dkFVei1Xcm5KenprN2FzeUN6MkFuSzNqWV81d0pFalBWWnFQb3hFVtIBeEFVX3lxTFBMOXIzSGFHRG1ZREpCdlJ4X0dCdFZETmlTbHhlNUdueWd5eHlhX3ZnVFVweHlFcXpZblJJRXgwR1lIZHNjeDhuVzVSaWlJTTFXZ3J5SnViZTREaTNQNGdtVnBGT25IeU83X1hDYWhpOFhlM1kteEtraQ?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:00:00 GMT",
-        "source": "뉴시스",
+        "title": "경찰, 한동훈 '수사자료 유출 의혹' 법무부·공소청 압수수색 - www.hidomin.com",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9YVHBtVGRQU0FScHE2S2Z4d1AySEtCVTIzTHFxTDBDSkRGUmkxYmhmeTFQeHBmbjl4VlRXbVpYTVJEYjZ1c1RTTVEwcEd4b21iQWFjUjRPU3dvNzVDSTFhOGozbUVxVlBJN2c?oc=5\" target=\"_blank\">경찰, 한동훈 '수사자료 유출 의혹' 법무부·공소청 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.hidomin.com</font>",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YVHBtVGRQU0FScHE2S2Z4d1AySEtCVTIzTHFxTDBDSkRGUmkxYmhmeTFQeHBmbjl4VlRXbVpYTVJEYjZ1c1RTTVEwcEd4b21iQWFjUjRPU3dvNzVDSTFhOGozbUVxVlBJN2c?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:09:43 GMT",
+        "source": "www.hidomin.com",
         "ageHours": 0.2
       },
       "delivered": [],
@@ -2568,10 +2536,10 @@
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "83cd4faf7c3a1597f2926617b4fcfaa7230a00444a1c5e27f101f3e1e50406f5",
-    "title": "'조희대 탄핵' 책임 안 지겠다는 與?…한동훈 \"대놓고 '아니면 말고'란 것\" - 데일리안",
+    "postId": "caf44d02b8e4e33f1bd36557b5b83eb699414c6a690db7120fff8c32e191ce0e",
+    "title": "조국 \"정부 믿고 투자한 국민은 피눈물…증시안정펀드 즉각 추진해야\" - 뉴시스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45921088123",
-    "sentAt": "2026-11-27T01:12:37.511Z"
+    "runId": "45922063477",
+    "sentAt": "2026-11-27T01:21:15.176Z"
   }
 }
