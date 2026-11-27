@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T12:51:17.086Z",
+  "lastCheckedAt": "2026-11-27T13:01:18.329Z",
   "seenPostIds": {
     "010098bea9d5656477fd46ceba3255d1f1f868aa2b91871c6fd09641c4cc4473": {
       "seenAt": "2026-11-25T05:51:18.717Z",
@@ -2500,14 +2500,29 @@
       "seenAt": "2026-11-27T12:31:18.446Z",
       "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "03d99f425e57c6abb3637a2da1584b4b4abd370dd1a07ca85e3ec9492776fb27": {
+      "seenAt": "2026-11-27T13:01:19.699Z",
+      "title": "한동훈 '기소계획서 유출' 의혹…경찰, 법무부·공소청 압수수색 - 월요신문",
+      "targetName": "한동훈"
+    },
+    "07a41b25e2ce9e1f8837bd014c7f892a0624b1d2688100a6726f04425c29f254": {
+      "seenAt": "2026-11-27T13:01:20.417Z",
+      "title": "중징계 받은 최민희 “수용 어려워”…정청래도 “김민석은?” 반발 - 매일경제",
+      "targetName": "정청래"
+    },
+    "99fbb19ba5cb20cc367bc58132a45a961b85cf08b84eb9ed48c8d75bb7596ff7": {
+      "seenAt": "2026-11-27T13:01:21.122Z",
+      "title": "Trump defends Putin friendship that Zelensky calls ‘strange’ - The Washington Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "652a97faf390d7fd0baa9e6e2aa5745c8af032601abcc076f51f14a350f2b924",
-    "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
+    "postId": "99fbb19ba5cb20cc367bc58132a45a961b85cf08b84eb9ed48c8d75bb7596ff7",
+    "title": "Trump defends Putin friendship that Zelensky calls ‘strange’ - The Washington Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "45999290702",
-    "sentAt": "2026-11-27T12:31:18.024Z"
+    "runId": "46003450598",
+    "sentAt": "2026-11-27T13:01:20.728Z"
   }
 }
