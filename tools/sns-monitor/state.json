@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T03:43:55.657Z",
+  "lastCheckedAt": "2026-11-27T03:51:16.454Z",
   "seenPostIds": {
     "ff9a67a584082c2cb8176eb3c5aff23c74c6ed35ebf42744a0625988afb055f0": {
       "seenAt": "2026-11-25T00:41:14.854Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-27T03:31:15.838Z",
       "title": "신장식 \"조희대 탄핵안 12월 3일 처리해야…더 늦어지면 역풍\" - 민주신문",
       "targetName": "신장식"
+    },
+    "a05e6e320bdde6d135bdc18afe304f01257515f67d627ad49f744c42d595ef36": {
+      "seenAt": "2026-11-27T03:51:17.998Z",
+      "title": "‘욕하면 차단’… 이재명 대통령의 SNS 활용법 - 시사위크",
+      "targetName": "이재명"
+    },
+    "f1cba28cc222cccab1203fb63ded4f5e3e3c4880fed6f7a8ce952c88cdea43ec": {
+      "seenAt": "2026-11-27T03:51:18.758Z",
+      "title": "`세무냥이` 불똥 튄 63기 합격자들…이준석 `법에 없는 시험을 또?` - 매일신문",
+      "targetName": "이준석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "62b259bbee511d7500227947a3ad7f4e9c55c086501a34d01b5aff064065bad9",
-    "title": "신장식 \"조희대 탄핵안 12월 3일 처리해야…더 늦어지면 역풍\" - 민주신문",
+    "postId": "f1cba28cc222cccab1203fb63ded4f5e3e3c4880fed6f7a8ce952c88cdea43ec",
+    "title": "`세무냥이` 불똥 튄 63기 합격자들…이준석 `법에 없는 시험을 또?` - 매일신문",
     "bot": "jongsuk_pol_bot",
-    "runId": "45934623875",
-    "sentAt": "2026-11-27T03:31:15.282Z"
+    "runId": "45936529978",
+    "sentAt": "2026-11-27T03:51:18.340Z"
   }
 }

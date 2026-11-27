@@ -12091,3 +12091,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** ‘욕하면 차단’… 이재명 대통령의 SNS 활용법 - 시사위크
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘욕하면 차단’… 이재명 대통령의 SNS 활용법
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1VWGVKOGtYRE9icEhBVUtSdGkxdi1ISlBpZDBOS3JKV1lJOFB0T29HSTNCUDl2bGFpZTBjdmJfaENGMlpzRlBqMEI1V0xLOEhGcEpOR205MEhpaVMtcE1ONm1kR3ZwSWR0cU13T2dvTdIBb0FVX3lxTE1VWGVKOGtYRE9icEhBVUtSdGkxdi1ISlBpZDBOS3JKV1lJOFB0T29HSTNCUDl2bGFpZTBjdmJfaENGMlpzRlBqMEI1V0xLOEhGcEpOR205MEhpaVMtcE1ONm1kR3ZwSWR0cU13T2dvTQ?oc=5)
+
+---
+
+## [검색 후보] 이준석 (직함 확인 필요)
+**기사 제목:** `세무냥이` 불똥 튄 63기 합격자들…이준석 `법에 없는 시험을 또?` - 매일신문
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] `세무냥이` 불똥 튄 63기 합격자들…이준석 `법에 없는 시험을 또?`
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sVUdORHM0TVY0LU1MUnd1UGVzQVhZaHlmYUxtS21rblh4QUQ0MlMweEYtUTR0RGVuQTh6UC1PdTJvdU1ZUC10blo3SUxHeW50V1lHTUdfaWtwUVp1a2dNOGRn?oc=5)
+
+---
+
