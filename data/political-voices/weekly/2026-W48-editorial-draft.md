@@ -11415,3 +11415,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 홍준표 “김민석은 카리스마 없고 장동혁은 용병들 난동에 흔들리고” - 국민일보
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 홍준표 “김민석은 카리스마 없고 장동혁은 용병들 난동에 흔들리고”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YOVQ4dnZUZ2VicjZCYmp2WWtocDNQNjdTaGFGNDk5NnRtXzVicnlUMWs3bHpxQmlmaFlGN2dRQ1NPYVhaTHhhMDhwdGZwLU40RzR4TXhPUWs?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “소각 전환형 증시안정펀드 즉각 추진해야…기업도 나서야” - 헤럴드경제
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “소각 전환형 증시안정펀드 즉각 추진해야…기업도 나서야”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RV3pDU2VPSzlSZ2ttOHNDX0NXOVpUV3h2b1VIM1RicU1DcHRiYUZYZXdWSmQyWFp0RTJ4WXN3ZXF3U1RmY1pOTzVoOERLU211Mm02ZFVB?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 "소각 전환형 증시안정펀드 즉각 추진해야" - 아시아경제
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 "소각 전환형 증시안정펀드 즉각 추진해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FaVNpNFJzYUJFd3ZLMTh3cnhBSXByeVBrR1hjYzc0QVFaanFWQURBMXA3dkZDRmdzX0hQeHQxUXhFSGxpcnpXVmd4QTVmM2pkU2xJRk1iSHNPRU00T1J0eg?oc=5)
+
+---
+

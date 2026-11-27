@@ -1199,5 +1199,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "55526f244f3ad150cd493aa9be8f6e2e42f3b3b8c544022b4f7f535ed07b45b9",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "홍준표 “김민석은 카리스마 없고 장동혁은 용병들 난동에 흔들리고” - 국민일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YOVQ4dnZUZ2VicjZCYmp2WWtocDNQNjdTaGFGNDk5NnRtXzVicnlUMWs3bHpxQmlmaFlGN2dRQ1NPYVhaTHhhMDhwdGZwLU40RzR4TXhPUWs?oc=5\" target=\"_blank\">홍준표 “김민석은 카리스마 없고 장동혁은 용병들 난동에 흔들리고”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">국민일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YOVQ4dnZUZ2VicjZCYmp2WWtocDNQNjdTaGFGNDk5NnRtXzVicnlUMWs3bHpxQmlmaFlGN2dRQ1NPYVhaTHhhMDhwdGZwLU40RzR4TXhPUWs?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 23:46:57 GMT",
+    "source": "국민일보",
+    "ageHours": 0.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 홍준표 “김민석은 카리스마 없고 장동혁은 용병들 난동에 흔들리고”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "583916c277c9cda627309343c481b7c808083bac3df6114f3502a451e8a78089",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 “소각 전환형 증시안정펀드 즉각 추진해야…기업도 나서야” - 헤럴드경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RV3pDU2VPSzlSZ2ttOHNDX0NXOVpUV3h2b1VIM1RicU1DcHRiYUZYZXdWSmQyWFp0RTJ4WXN3ZXF3U1RmY1pOTzVoOERLU211Mm02ZFVB?oc=5\" target=\"_blank\">조국 “소각 전환형 증시안정펀드 즉각 추진해야…기업도 나서야”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">헤럴드경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RV3pDU2VPSzlSZ2ttOHNDX0NXOVpUV3h2b1VIM1RicU1DcHRiYUZYZXdWSmQyWFp0RTJ4WXN3ZXF3U1RmY1pOTzVoOERLU211Mm02ZFVB?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 23:57:41 GMT",
+    "source": "헤럴드경제",
+    "ageHours": 0.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 “소각 전환형 증시안정펀드 즉각 추진해야…기업도 나서야”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "4bd059913ee5c510898d3d58cc40181523b52d15118d9f397e5221bde1f4d323",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 \"소각 전환형 증시안정펀드 즉각 추진해야\" - 아시아경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FaVNpNFJzYUJFd3ZLMTh3cnhBSXByeVBrR1hjYzc0QVFaanFWQURBMXA3dkZDRmdzX0hQeHQxUXhFSGxpcnpXVmd4QTVmM2pkU2xJRk1iSHNPRU00T1J0eg?oc=5\" target=\"_blank\">조국 \"소각 전환형 증시안정펀드 즉각 추진해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FaVNpNFJzYUJFd3ZLMTh3cnhBSXByeVBrR1hjYzc0QVFaanFWQURBMXA3dkZDRmdzX0hQeHQxUXhFSGxpcnpXVmd4QTVmM2pkU2xJRk1iSHNPRU00T1J0eg?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 00:08:06 GMT",
+    "source": "아시아경제",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"소각 전환형 증시안정펀드 즉각 추진해야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
