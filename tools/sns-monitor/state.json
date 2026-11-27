@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T02:51:19.821Z",
+  "lastCheckedAt": "2026-11-27T03:01:18.807Z",
   "seenPostIds": {
-    "9d60aff39cc35679153216038fa7bedebb29e9ddc83d6ea6e422f0eef8562000": {
-      "seenAt": "2026-11-24T22:41:21.576Z",
-      "title": "Court Orders Trump Media to Hand Over Truth Social Records - The Intercept",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "8e6b16c2959f7911c89b83ce15013428bcb23ca50de62160b029e8c9f7fb9ac7": {
-      "seenAt": "2026-11-24T22:51:16.359Z",
-      "title": "Trump Media GC Earned $2.8 Million In Comp In 2025 - Law360",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "d1ac6a3bcb312093db497dacf7671e3ac47f307ff9847537a1c76b0a80d5c7dd": {
-      "seenAt": "2026-11-24T23:11:20.269Z",
-      "title": "개혁신당 \"이재명 정부 1년 5개월, 국정 방치하고 자기 재판만 몰두\" - 한국사회복지저널",
-      "targetName": "이재명"
-    },
     "7f05b83fc06e9c3aefb7bc7dca0a497ac125a1244e3c9dd5e76ae96cf3ef7a07": {
       "seenAt": "2026-11-24T23:31:15.055Z",
       "title": "[속보]한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸라” - 문화일보",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-27T02:51:22.643Z",
       "title": "한동훈 \"경찰, 민주당 지팡이 자처…돌아가도 국민만 보고 할 것\" - 이데일리",
       "targetName": "한동훈"
+    },
+    "2488979a7d458bcaf9613519e63c53849d3eb9cadd0dae9819886bedf71a85a6": {
+      "seenAt": "2026-11-27T03:01:20.568Z",
+      "title": "중진 회동에도 불참한 정청래…최민희 징계심의 후폭풍은 - 매일경제",
+      "targetName": "정청래"
+    },
+    "81ac3b0d33ef3902ac084cce47ba2072676d73e6e8ba238e69d4324168817142": {
+      "seenAt": "2026-11-27T03:01:21.262Z",
+      "title": "“오세훈 한동훈 이준석 저 씹다 찌그러져” 국민의힘 前 윤리위원들 또 폭로 [자막뉴스] - 채널A",
+      "targetName": "이준석"
+    },
+    "5a2f647dd7c20b518f4b59d1d59294fc05935854788de90f9f2690c7933519fe": {
+      "seenAt": "2026-11-27T03:01:21.949Z",
+      "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "2488979a7d458bcaf9613519e63c53849d3eb9cadd0dae9819886bedf71a85a6",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "중진 회동에도 불참한 정청래…최민희 징계심의 후폭풍은 - 매일경제",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE85Ni1jWGdzaGxfS0tfLV9rTEtoVUo2QlRwaGk2QUJQOG50X3BSa2dWMWc5UGsxRzdLSlpBN3VCRUp3dnktUWJQblhacFlXNlkwSzYzWEt3?oc=5\" target=\"_blank\">중진 회동에도 불참한 정청래…최민희 징계심의 후폭풍은</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85Ni1jWGdzaGxfS0tfLV9rTEtoVUo2QlRwaGk2QUJQOG50X3BSa2dWMWc5UGsxRzdLSlpBN3VCRUp3dnktUWJQblhacFlXNlkwSzYzWEt3?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 00:49:16 GMT",
-        "source": "매일경제",
-        "ageHours": 1.9
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "81ac3b0d33ef3902ac084cce47ba2072676d73e6e8ba238e69d4324168817142",
-        "targetId": "lee_junseok",
-        "targetName": "이준석",
-        "targetTitle": "개혁신당 의원",
-        "title": "“오세훈 한동훈 이준석 저 씹다 찌그러져” 국민의힘 前 윤리위원들 또 폭로 [자막뉴스] - 채널A",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMUpZS2lfUWJiaTFuMGRRdmxGZmlva011RWFUT3YxemlTdTk5TGVqSmZkejA0YXRMYTl5QTVKa3R3N1BJeFFjZV9peGtjOXNVZUNidlEybWpGOG1VOFHSAWNBVV95cUxORXNyYVNPVENrdWQxSzZ6endseDhMdTZtRzNLc1NNSnYyTnV6Nm91ZkVpVkFReTdaY24tMndtN1JUTXZDa1B2My13MFZ4em5UUmRFNXBNejBsVEdRNXdWNUhIeTQ?oc=5\" target=\"_blank\">“오세훈 한동훈 이준석 저 씹다 찌그러져” 국민의힘 前 윤리위원들 또 폭로 [자막뉴스]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">채널A</font>",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMUpZS2lfUWJiaTFuMGRRdmxGZmlva011RWFUT3YxemlTdTk5TGVqSmZkejA0YXRMYTl5QTVKa3R3N1BJeFFjZV9peGtjOXNVZUNidlEybWpGOG1VOFHSAWNBVV95cUxORXNyYVNPVENrdWQxSzZ6endseDhMdTZtRzNLc1NNSnYyTnV6Nm91ZkVpVkFReTdaY24tMndtN1JUTXZDa1B2My13MFZ4em5UUmRFNXBNejBsVEdRNXdWNUhIeTQ?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 02:28:00 GMT",
-        "source": "채널A",
-        "ageHours": 0.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5a2f647dd7c20b518f4b59d1d59294fc05935854788de90f9f2690c7933519fe",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE42Y0U1VnpnUWRSTE9QRFpmTnZFRWRXSGw1RmFVU1M0cWpaRWFydlpOdkhFci15MDRSaU03LWVJWHoyMlNwbEE2dnpZamYtWUQ4NW4xNXlRTG5zUHpMWkU0NTY2dEVZOTdmT3IxY1FyRVM3M2xYN2VXQTJvSFVTQdIBfkFVX3lxTE42Y0U1VnpnUWRSTE9QRFpmTnZFRWRXSGw1RmFVU1M0cWpaRWFydlpOdkhFci15MDRSaU03LWVJWHoyMlNwbEE2dnpZamYtWUQ4NW4xNXlRTG5zUHpMWkU0NTY2dEVZOTdmT3IxY1FyRVM3M2xYN2VXQTJvSFVTQQ?oc=5\" target=\"_blank\">경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42Y0U1VnpnUWRSTE9QRFpmTnZFRWRXSGw1RmFVU1M0cWpaRWFydlpOdkhFci15MDRSaU03LWVJWHoyMlNwbEE2dnpZamYtWUQ4NW4xNXlRTG5zUHpMWkU0NTY2dEVZOTdmT3IxY1FyRVM3M2xYN2VXQTJvSFVTQdIBfkFVX3lxTE42Y0U1VnpnUWRSTE9QRFpmTnZFRWRXSGw1RmFVU1M0cWpaRWFydlpOdkhFci15MDRSaU03LWVJWHoyMlNwbEE2dnpZamYtWUQ4NW4xNXlRTG5zUHpMWkU0NTY2dEVZOTdmT3IxY1FyRVM3M2xYN2VXQTJvSFVTQQ?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:44:18 GMT",
-        "source": "머니투데이",
-        "ageHours": 1.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "4e5eb17d4ae7408e603167c7ba344ed33e6d3c9720247039a7c1993ceecf2679",
@@ -2597,13 +2549,45 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "5ca366425d33f2dba71dd0f32130186c96aa17cdb1f2a26768cd3aa541690402",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "한동훈, ‘수사자료 유출 의혹’ 수사에 반발…“경찰, 민주당의 지팡이” - KBS 뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSkczUHFHTDJnTEVrdWhMd04zVE5oWEhlQU05SUZIbTF6cFAxRWZHellUQVV6YTQ1SHRrSEFmRnVNNWlYaUdCeXVuS1lPWTZHOUQ1WjNFd2NISEk?oc=5\" target=\"_blank\">한동훈, ‘수사자료 유출 의혹’ 수사에 반발…“경찰, 민주당의 지팡이”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSkczUHFHTDJnTEVrdWhMd04zVE5oWEhlQU05SUZIbTF6cFAxRWZHellUQVV6YTQ1SHRrSEFmRnVNNWlYaUdCeXVuS1lPWTZHOUQ1WjNFd2NISEk?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 02:53:00 GMT",
+        "source": "KBS 뉴스",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "a103928a9959e330d4db7e09240e5ff11a8f1245daf91a7da91b1da4bd0398da",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국 “주가 반토막에 국민 피눈물…소각형 증안펀드 도입” - 세계일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMHpTeXdsV1VoNkdXejFsQ0FDN0tkcHBxS21LOC1HU2NJOWY5SFJlNjFCOXRydFRLbU8xejV4WXA2eEdObS1JSVg2NDVvaFpt0gFUQVVfeXFMT184ZW81RlA1a3FtS0RGNi0zdkRzY21PMFpYQXRoUlJIQktZMkJqU0E4dWxpeFZxU1hMUUlpSzhReVVQbUdZbXoyNVU3RkVwWUJzUlFm?oc=5\" target=\"_blank\">조국 “주가 반토막에 국민 피눈물…소각형 증안펀드 도입”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMHpTeXdsV1VoNkdXejFsQ0FDN0tkcHBxS21LOC1HU2NJOWY5SFJlNjFCOXRydFRLbU8xejV4WXA2eEdObS1JSVg2NDVvaFpt0gFUQVVfeXFMT184ZW81RlA1a3FtS0RGNi0zdkRzY21PMFpYQXRoUlJIQktZMkJqU0E4dWxpeFZxU1hMUUlpSzhReVVQbUdZbXoyNVU3RkVwWUJzUlFm?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:32:14 GMT",
+        "source": "세계일보",
+        "ageHours": 1.5
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "eeff203cc73b1b54053bf1c3123e6c82036085f063f24acbe6cf575edf566890",
-    "title": "한동훈 \"경찰, 민주당 지팡이 자처…돌아가도 국민만 보고 할 것\" - 이데일리",
+    "postId": "5a2f647dd7c20b518f4b59d1d59294fc05935854788de90f9f2690c7933519fe",
+    "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "45930732737",
-    "sentAt": "2026-11-27T02:51:22.337Z"
+    "runId": "45931673274",
+    "sentAt": "2026-11-27T03:01:21.603Z"
   }
 }
