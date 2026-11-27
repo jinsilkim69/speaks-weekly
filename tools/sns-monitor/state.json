@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T12:21:13.796Z",
+  "lastCheckedAt": "2026-11-27T12:31:16.193Z",
   "seenPostIds": {
     "e4ca19e719f03bc81e57cd51aa848dee6271a8dddb0ff6267b4ff05ec1350348": {
       "seenAt": "2026-11-25T05:51:17.327Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-27T12:11:14.501Z",
       "title": "친청계, 최민희 중징계에 일제히 반발…정청래 \"김민석 '반·분·신' 해당행위는?\" - 뉴시스",
       "targetName": "정청래"
+    },
+    "86e6396f6792abdaaf13d178ac47787fc6c602145314ffaa3639afa7e01ac10d": {
+      "seenAt": "2026-11-27T12:31:17.623Z",
+      "title": "[단독] '검찰 내부문건'을 한동훈에?‥\"유출자 찾는다\" 압수수색 - MBC 뉴스",
+      "targetName": "한동훈"
+    },
+    "652a97faf390d7fd0baa9e6e2aa5745c8af032601abcc076f51f14a350f2b924": {
+      "seenAt": "2026-11-27T12:31:18.446Z",
+      "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "83d1bdbee8acabfcf455dbeedd137497271d6f6144c3ec185ece83f396a02231",
-    "title": "친청계, 최민희 중징계에 일제히 반발…정청래 \"김민석 '반·분·신' 해당행위는?\" - 뉴시스",
+    "postId": "652a97faf390d7fd0baa9e6e2aa5745c8af032601abcc076f51f14a350f2b924",
+    "title": "Trump condemned over ‘gutter racism’ in shocking Truth Social post - Indy100",
     "bot": "jongsuk_pol_bot",
-    "runId": "45996502222",
-    "sentAt": "2026-11-27T12:11:13.818Z"
+    "runId": "45999290702",
+    "sentAt": "2026-11-27T12:31:18.024Z"
   }
 }
