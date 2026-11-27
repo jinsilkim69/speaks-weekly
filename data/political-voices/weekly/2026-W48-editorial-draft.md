@@ -11337,3 +11337,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석 "오세훈, 서울시정 대권준비 징검다리로 활용…깊이 자성해야" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석 "오세훈, 서울시정 대권준비 징검다리로 활용…깊이 자성해야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE5adVNOMGVGWFZ2VTl0VU9HaGljOG1CaThRR1FNcjhXWGhnZlFlb1U1YWJZZEFaUmNoN25yR0hwOTRIYkl5S0RkWXRwdWxmcldlV2VySlJfb3ZtZnpveHF0ZHNuTkkwVXZnUFdJN9IBckFVX3lxTE5YSklXZ29YVjdyT3pNdG8wMDFsQzNSZWx6M0w1dXZ3OV9UWW1Mc1RiZTZKeHgzbDR5NmpsUUpCS05xUlR1QkZEMk9zTGVyM0lySUFVUnNnZTNvcEY5NmlCNVIzc2VoalRRS2U4SzBXbWZyZw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump takes on Somali welfare dependency in Thanksgiving message, lays out who should stay in US - Fox News
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump takes on Somali welfare dependency in Thanksgiving message, lays out who should stay in US
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXYxRmtaY1RiZ2V0WnI1OHQtX1lXUWtpYWZGR3pVZkRaV0pDQzAwSXJWOWx0V3UxZ1gza0xoZUxLSjYzQ2RtU0tia18xeGJndHoxbWpfV3RSTHRUZ3kzWmdjY3A4dk93eW8xMVpock5leWZHWk81dHZaZlZxRUFtUGxDOHd4d2hUdFRadUVFdDg2Y3dESTJIVjY2V09tSFJETHM5UXJNTXE0WEt0REtDOVg4U2UzZ9IBuwFBVV95cUxNTS1mdWVUNUN3WGZUOTdzQWRZS2U3cDB3aS1nc0V3NHZadEF5U3BIaU9LR1ZQcHF3akM4bEI2VXlNSVAzV2hIeXlyZHBwODZkN2pydll2NE5XVy1IV1FQNzZmZzUzdlBEUGZRRjFBSlZMWVY5MnRPUDlBbmtRR082YU5xU3pNcjhVWkJISW40YVkxRDhldjdoVmJpanhEQjlEMV8ycXh0LUJLRXc1dTRBUk5SeXhHdHNRb3M0?oc=5)
+
+---
+

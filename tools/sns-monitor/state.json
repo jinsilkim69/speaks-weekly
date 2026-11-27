@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T00:01:14.920Z",
+  "lastCheckedAt": "2026-11-27T00:11:15.570Z",
   "seenPostIds": {
     "5dc7c9e50bb609d8677cadc31128b17a28d9a3230a258ef6c537f1961e9951f2": {
       "seenAt": "2026-11-24T10:31:15.901Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-26T23:41:22.244Z",
       "title": "홍준표, 김민석·장동혁 두고 `붕당론`…`나라 안위는 간데없고 개인 영달만 난무` - 매일신문",
       "targetName": "김민석"
+    },
+    "81d8c6e944d35d8c7f959dde45c9475147f0687039a522c43a5091db3feba726": {
+      "seenAt": "2026-11-27T00:11:17.072Z",
+      "title": "김민석 \"오세훈, 서울시정 대권준비 징검다리로 활용…깊이 자성해야\" - 머니투데이 - 머니투데이",
+      "targetName": "김민석"
+    },
+    "88200de284f64cc07e54b7a155136802477f7f447a80ce52eb9ebef1f3f659ad": {
+      "seenAt": "2026-11-27T00:11:17.855Z",
+      "title": "Trump takes on Somali welfare dependency in Thanksgiving message, lays out who should stay in US - Fox News",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c14c641e3fa27c0140e65b690da167674617e7a0a661bb5c61b26716f823c25d",
-    "title": "홍준표, 김민석·장동혁 두고 `붕당론`…`나라 안위는 간데없고 개인 영달만 난무` - 매일신문",
+    "postId": "88200de284f64cc07e54b7a155136802477f7f447a80ce52eb9ebef1f3f659ad",
+    "title": "Trump takes on Somali welfare dependency in Thanksgiving message, lays out who should stay in US - Fox News",
     "bot": "jongsuk_pol_bot",
-    "runId": "45912367457",
-    "sentAt": "2026-11-26T23:41:21.522Z"
+    "runId": "45915232376",
+    "sentAt": "2026-11-27T00:11:17.459Z"
   }
 }
