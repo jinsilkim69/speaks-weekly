@@ -12429,3 +12429,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김승원, 한동훈에 역공…"조선제일 법꾸라지 실체 밝힐 것" - 노컷뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김승원, 한동훈에 역공…"조선제일 법꾸라지 실체 밝힐 것"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XVHlBbURGRERPZkFYbkdxbnJ6ak9XRjBGNWhyZWRYNFdUamczTDZVODExSVNhSDVwUnZ1cXJCVDh1Q25DaG9SNVJtMkxrbnBQRlE?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 "당대표라도 징계 앞에 예외일 수 없어" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 "당대표라도 징계 앞에 예외일 수 없어"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE10ODU3ZlhaVFJPcHhBeFlUazV6QXVONWxMUTM0aHBzTHpCQnpONXQ3XzE0c0xHOVhiZ0tMVEc4Ym14NXRjYmwtdzZvdTV1RU5ISFNkSW1GRTR0akxRZ3J2amMtR211VEwtYnlGdNIBckFVX3lxTE5pUk1USGZGRVpiZUt1OS1hbzM3WFlROEpycmdsSUtEdHpiVGhfT1Utbmo0YmxSdE1LSG9PdExteUpHdnhWd3NsZHdDcWNnUzRTaXk0cE56dE41UzhVd0NsUmlmZ25NRmMtRVI4RS02djdIZw?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래, 김민석 겨냥 "당대표라도 징계 앞에 예외일 수 없어" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래, 김민석 겨냥 "당대표라도 징계 앞에 예외일 수 없어"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE10ODU3ZlhaVFJPcHhBeFlUazV6QXVONWxMUTM0aHBzTHpCQnpONXQ3XzE0c0xHOVhiZ0tMVEc4Ym14NXRjYmwtdzZvdTV1RU5ISFNkSW1GRTR0akxRZ3J2amMtR211VEwtYnlGdNIBckFVX3lxTE5pUk1USGZGRVpiZUt1OS1hbzM3WFlROEpycmdsSUtEdHpiVGhfT1Utbmo0YmxSdE1LSG9PdExteUpHdnhWd3NsZHdDcWNnUzRTaXk0cE56dE41UzhVd0NsUmlmZ25NRmMtRVI4RS02djdIZw?oc=5)
+
+---
+
