@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T03:11:16.819Z",
+  "lastCheckedAt": "2026-11-27T03:21:13.305Z",
   "seenPostIds": {
-    "9716eb18f5a7eda784d718cf74f6cc3b2a07bfcbb58d517d0edc42bc7bd1c697": {
-      "seenAt": "2026-11-25T00:01:16.129Z",
-      "title": "김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문",
-      "targetName": "정청래"
-    },
-    "5e1cfdeaf40364c923bca8303b396e3ebcbf795fe977a04cf87e237f923f1d08": {
-      "seenAt": "2026-11-25T00:11:15.943Z",
-      "title": "한동훈, 서영교에 \"의원직 걸어라…조희대 탄핵 인용되면 제가 사퇴\" - 매일신문",
-      "targetName": "한동훈"
-    },
-    "712ac6b2db6b5058470063b494234fd8dba9575f04475b337a94c3fcad28ae0c": {
-      "seenAt": "2026-11-25T00:11:16.633Z",
-      "title": "판결 불복 없다지만…與 토론회서 송영길 “판결도 탄핵사유로” - 미주중앙일보",
-      "targetName": "송영길"
-    },
     "40e512cd322f1c3524c9d36186716f9f84e995f3fc1c808097398f84d9afee57": {
       "seenAt": "2026-11-25T00:11:17.319Z",
       "title": "[동포의 창] 조국 독립에 청춘 바친 신용걸 선생 재조명 - 연합뉴스",
@@ -2515,47 +2500,46 @@
       "seenAt": "2026-11-27T03:11:20.227Z",
       "title": "한동훈, ‘수사자료 유출 의혹’ 수사에 반발…“경찰, 민주당의 지팡이” - KBS 뉴스",
       "targetName": "한동훈"
+    },
+    "a103928a9959e330d4db7e09240e5ff11a8f1245daf91a7da91b1da4bd0398da": {
+      "seenAt": "2026-11-27T03:21:14.339Z",
+      "title": "조국 “주가 반토막에 국민 피눈물…소각형 증안펀드 도입” - 세계일보",
+      "targetName": "조국"
+    },
+    "ab5c1d89f8d208b7a5ce030e148208bce0c379d236518ff9783bb71d47b78f50": {
+      "seenAt": "2026-11-27T03:21:14.987Z",
+      "title": "신장식 “‘올 초 합당 안 하길 잘했다”는 당원들 많다” - 이데일리",
+      "targetName": "신장식"
+    },
+    "ab554b7c54f1c533eee4b8ee5d3dc68e7a1ab9fc7d09e3c663080baae04ba00f": {
+      "seenAt": "2026-11-27T03:21:15.573Z",
+      "title": "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색 - KBS 뉴스",
+      "targetName": "한동훈"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "a103928a9959e330d4db7e09240e5ff11a8f1245daf91a7da91b1da4bd0398da",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국 “주가 반토막에 국민 피눈물…소각형 증안펀드 도입” - 세계일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMHpTeXdsV1VoNkdXejFsQ0FDN0tkcHBxS21LOC1HU2NJOWY5SFJlNjFCOXRydFRLbU8xejV4WXA2eEdObS1JSVg2NDVvaFpt0gFUQVVfeXFMT184ZW81RlA1a3FtS0RGNi0zdkRzY21PMFpYQXRoUlJIQktZMkJqU0E4dWxpeFZxU1hMUUlpSzhReVVQbUdZbXoyNVU3RkVwWUJzUlFm?oc=5\" target=\"_blank\">조국 “주가 반토막에 국민 피눈물…소각형 증안펀드 도입”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rMHpTeXdsV1VoNkdXejFsQ0FDN0tkcHBxS21LOC1HU2NJOWY5SFJlNjFCOXRydFRLbU8xejV4WXA2eEdObS1JSVg2NDVvaFpt0gFUQVVfeXFMT184ZW81RlA1a3FtS0RGNi0zdkRzY21PMFpYQXRoUlJIQktZMkJqU0E4dWxpeFZxU1hMUUlpSzhReVVQbUdZbXoyNVU3RkVwWUJzUlFm?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:32:14 GMT",
-        "source": "세계일보",
-        "ageHours": 1.5
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ab5c1d89f8d208b7a5ce030e148208bce0c379d236518ff9783bb71d47b78f50",
+        "id": "62b259bbee511d7500227947a3ad7f4e9c55c086501a34d01b5aff064065bad9",
         "targetId": "shin_jangsik",
         "targetName": "신장식",
         "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 “‘올 초 합당 안 하길 잘했다”는 당원들 많다” - 이데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWM1ZWsyUFoxZ3pRTTk5d1RpRzVhRFJQb2Z0SmpiN3o3WlR3VldwYl9kcUlTa0dQTDRTSGtGRHBXMTRrOE1RTnNCRGFjWmN3dml1UlVEUkZ5T1prRVU0QlhQRGd4bDJzRUFPWWhQR0VfNnlwakJ3cV9hcVNIQ2dObQ?oc=5\" target=\"_blank\">신장식 “‘올 초 합당 안 하길 잘했다”는 당원들 많다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWM1ZWsyUFoxZ3pRTTk5d1RpRzVhRFJQb2Z0SmpiN3o3WlR3VldwYl9kcUlTa0dQTDRTSGtGRHBXMTRrOE1RTnNCRGFjWmN3dml1UlVEUkZ5T1prRVU0QlhQRGd4bDJzRUFPWWhQR0VfNnlwakJ3cV9hcVNIQ2dObQ?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 02:57:59 GMT",
-        "source": "이데일리",
-        "ageHours": 0.2
+        "title": "신장식 \"조희대 탄핵안 12월 3일 처리해야…더 늦어지면 역풍\" - 민주신문",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xYW9WanFIckNIRkZ1ai1pMEN0MkpHUHo1NVN6ZC00MlZKemNla19XX1BtWjk2b2dGcWQzNnB5c1N3aUNFMVpmdmE5dW5jNVlxT1RJb1hxOTEtZ25KMElhWFFvYVdWaUU?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵안 12월 3일 처리해야…더 늦어지면 역풍\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">민주신문</font>",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xYW9WanFIckNIRkZ1ai1pMEN0MkpHUHo1NVN6ZC00MlZKemNla19XX1BtWjk2b2dGcWQzNnB5c1N3aUNFMVpmdmE5dW5jNVlxT1RJb1hxOTEtZ25KMElhWFFvYVdWaUU?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 01:05:48 GMT",
+        "source": "민주신문",
+        "ageHours": 2.3
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "5ca366425d33f2dba71dd0f32130186c96aa17cdb1f2a26768cd3aa541690402",
-    "title": "한동훈, ‘수사자료 유출 의혹’ 수사에 반발…“경찰, 민주당의 지팡이” - KBS 뉴스",
+    "postId": "ab554b7c54f1c533eee4b8ee5d3dc68e7a1ab9fc7d09e3c663080baae04ba00f",
+    "title": "경찰, ‘한동훈 자료유출 의혹’ 법무부·공소청 등 압수수색 - KBS 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45932656271",
-    "sentAt": "2026-11-27T03:11:19.841Z"
+    "runId": "45933645057",
+    "sentAt": "2026-11-27T03:21:15.278Z"
   }
 }
