@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T09:21:16.360Z",
+  "lastCheckedAt": "2026-11-27T09:31:16.002Z",
   "seenPostIds": {
-    "9d6a0dad35f680feab654fc8e2de01ce981b95ffda03b6641612ea6b25ca055a": {
-      "seenAt": "2026-11-25T04:01:26.014Z",
-      "title": "혁신당 신장식, '조희대 탄핵' 김민석 범진보 연대 제안에 \"환영\" - 머니투데이 - 머니투데이",
-      "targetName": "신장식"
-    },
-    "fcd6581c317d9849adbfccffe8af0ba053508bff0c756e64e6bd7f27019cc446": {
-      "seenAt": "2026-11-25T04:01:26.751Z",
-      "title": "이재명 대통령 \"여성이 두려움 없이 살아가고, 누구나 안심할 수 있는 사회 만들 것\" - 한국NGO신문",
-      "targetName": "이재명"
-    },
-    "5e4333de3b43f85b960486231325cf43b894bc858e03d1f26b6d57abd8781f8a": {
-      "seenAt": "2026-11-25T04:01:27.473Z",
-      "title": "정청래, 송영길에 \"입조심하라\"...대통령 회동 내용 공개 두고 설전 - 뉴스버스",
-      "targetName": "송영길"
-    },
     "7d4825b038117b6bbf459a2c8585947717e48a510ca19e8f1f3c6306c6698813": {
       "seenAt": "2026-11-25T04:11:23.715Z",
       "title": "Trump says pardon is always an option for Jensen Huang, and that pleading the Fifth isn’t necessary - NBC News",
@@ -2515,14 +2500,24 @@
       "seenAt": "2026-11-27T09:21:19.774Z",
       "title": "이준석 “분당집 25억 번 대통령은 꼭대기 올라가 놓고” …보편형 공공임대 분양 금지 비판 - www.dt.co.kr",
       "targetName": "이준석"
+    },
+    "c19f2b84eecfecf9aab58a5f98c82c0b7d23b659118c473382d718d810509993": {
+      "seenAt": "2026-11-27T09:31:17.558Z",
+      "title": "김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발' [자막뉴스] - YTN",
+      "targetName": "한동훈"
+    },
+    "13c0a819690a4cce7d6ef94fe6140c468877156b89c020304a1f86b05e1d49dd": {
+      "seenAt": "2026-11-27T09:31:18.294Z",
+      "title": "정청래, 최민희 중징계 의결에 \"납득할 수 없다\"…친청계 반발 - 파이낸셜뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "37f94c4089bcc0788c65a7a3452838d6b33e74f36b271ff064620ee7cad5ab3a",
-    "title": "이준석 “분당집 25억 번 대통령은 꼭대기 올라가 놓고” …보편형 공공임대 분양 금지 비판 - www.dt.co.kr",
+    "postId": "13c0a819690a4cce7d6ef94fe6140c468877156b89c020304a1f86b05e1d49dd",
+    "title": "정청래, 최민희 중징계 의결에 \"납득할 수 없다\"…친청계 반발 - 파이낸셜뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45972964901",
-    "sentAt": "2026-11-27T09:21:19.387Z"
+    "runId": "45974357313",
+    "sentAt": "2026-11-27T09:31:17.923Z"
   }
 }

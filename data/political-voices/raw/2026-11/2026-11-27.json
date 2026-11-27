@@ -4053,5 +4053,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "c19f2b84eecfecf9aab58a5f98c82c0b7d23b659118c473382d718d810509993",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발' [자막뉴스] - YTN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4zU3E1TVRlNGMzY2U4NldDYzZPdFdaM01lazFnNDhJaXhWSkFzR29WM2VoTFlrVk80OXZXeTY2Z0o4cjhSSE5ET2FELW8zNG5MN3RLQ3BMeVBaa0gxXzI0cWFDaFpUODZFMndWMV9HZ0ZyZEpsekE?oc=5\" target=\"_blank\">김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발' [자막뉴스]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zU3E1TVRlNGMzY2U4NldDYzZPdFdaM01lazFnNDhJaXhWSkFzR29WM2VoTFlrVk80OXZXeTY2Z0o4cjhSSE5ET2FELW8zNG5MN3RLQ3BMeVBaa0gxXzI0cWFDaFpUODZFMndWMV9HZ0ZyZEpsekE?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 06:16:00 GMT",
+    "source": "YTN",
+    "ageHours": 3.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김승원 '기소계획서' 어떻게 유출됐나...압수수색에 한동훈 '반발'",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "13c0a819690a4cce7d6ef94fe6140c468877156b89c020304a1f86b05e1d49dd",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "정청래, 최민희 중징계 의결에 \"납득할 수 없다\"…친청계 반발 - 파이낸셜뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QMDRsWXNzbG82Mm9maVQ1ckNRTXVuYkg0OV9WZkh5OWhqcWM5bWZJX2xtMkJ1a1E5OUhTcnNVTWVxTkxZYjNSN00yRDllREt0YU1OalJWS0NSUQ?oc=5\" target=\"_blank\">정청래, 최민희 중징계 의결에 \"납득할 수 없다\"…친청계 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸셜뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QMDRsWXNzbG82Mm9maVQ1ckNRTXVuYkg0OV9WZkh5OWhqcWM5bWZJX2xtMkJ1a1E5OUhTcnNVTWVxTkxZYjNSN00yRDllREt0YU1OalJWS0NSUQ?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 09:23:07 GMT",
+    "source": "파이낸셜뉴스",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 정청래, 최민희 중징계 의결에 \"납득할 수 없다\"…친청계 반발",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
