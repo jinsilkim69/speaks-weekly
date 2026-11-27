@@ -4178,5 +4178,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "01f1bd0657325be6ac5e27684c9db99907949c4463351a300a13019a7e7143b9",
+    "targetId": "jung_cheongrae",
+    "targetName": "정청래",
+    "targetTitle": "국회 법제사법위원장",
+    "title": "민주 윤리심판원, 최민희에 ‘중징계’ 의결…崔 “재심 청구”·정청래 “납득 불가” - 프리진뉴스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE0tUGZLaENTZXUyMHlxQWtwOV9hYlJHVHE3U1p3Mi1penN4dnRUdHpBVDNLZDFocE5rN05ubXgwWE52TFpQVWFRS2U3c25LbmhWSmo1OVJQV3ROUnZTY21aSFdQTU02cnB4bldzVTBkaw?oc=5\" target=\"_blank\">민주 윤리심판원, 최민희에 ‘중징계’ 의결…崔 “재심 청구”·정청래 “납득 불가”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">프리진뉴스</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tUGZLaENTZXUyMHlxQWtwOV9hYlJHVHE3U1p3Mi1penN4dnRUdHpBVDNLZDFocE5rN05ubXgwWE52TFpQVWFRS2U3c25LbmhWSmo1OVJQV3ROUnZTY21aSFdQTU02cnB4bldzVTBkaw?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 09:44:53 GMT",
+    "source": "프리진뉴스",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주 윤리심판원, 최민희에 ‘중징계’ 의결…崔 “재심 청구”·정청래 “납득 불가”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "정청래",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
