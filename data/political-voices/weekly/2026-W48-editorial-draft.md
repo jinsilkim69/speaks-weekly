@@ -11363,3 +11363,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 김태호 "한동훈 복당 대승적 추진해야"…윤상현 "오동석장 BTS 연대 띄우자" > 뉴스포커스 - SeattleN
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김태호 "한동훈 복당 대승적 추진해야"…윤상현 "오동석장 BTS 연대 띄우자" > 뉴스포커스
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE9DbVdhMVk1Z3FwU0RVWWVGdHZISmlRaDF0b1NJV2g3LWFMaUVjU0NjU3ZfcFhZV1lWTlZHMU5TMm9xZGJOVkxPaWNwT2JwMURJOGREemJLYUVuWVJQX3NwS2dGWlZTUlh3MWlVSFA0clgweVk?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 김민석·정청래 빠진 만찬 회동‥與 중진들 "단결·민생 전념" - MBC 뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석·정청래 빠진 만찬 회동‥與 중진들 "단결·민생 전념"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE1HcjFUOG91SEJ4cC1UOC15eXhIaXB2LU5PRjdLWE5yd1ZVMGgzeTFwcGZmbTg3UE1RMmhMYXNrc3hrNjllbWJaSnB3UFRwMFBMZjNBaTMyb1JBYzk1V2xuQ2pzSzMxTGpkcmZPOWFxVm9uUlVhRzhvWNIBeEFVX3lxTFAxcmgwOENHOC12OGpNXzBxUFY4THhJc2xxZ256TDhXX2ZBNmJYUjFQeEVZWjkwa0NKdVpsdDAxX1ZDRFFFUlprNE51TGpfOUNqYmZYNjBYcW12aEJrVjBSVlBlWWc0Y3BDUDcyeU8zcFJCMFhJc21YYQ?oc=5)
+
+---
+

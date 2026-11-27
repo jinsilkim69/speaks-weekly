@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T00:11:15.570Z",
+  "lastCheckedAt": "2026-11-27T00:21:14.756Z",
   "seenPostIds": {
-    "5dc7c9e50bb609d8677cadc31128b17a28d9a3230a258ef6c537f1961e9951f2": {
-      "seenAt": "2026-11-24T10:31:15.901Z",
-      "title": "김민석 '취임 100일' 몸 낮췄으나... 정청래 \"결자해지하라\" 폭풍 SNS - 한국일보",
-      "targetName": "정청래"
-    },
-    "b62bf8a1c07d74687895e7ec2c713e95b2a64fb6fef64153524b59aa6c0a4405": {
-      "seenAt": "2026-11-24T10:51:16.718Z",
-      "title": "김민석 '취임 100일' 몸 낮췄으나... 정청래 \"결자해지하라\" 폭풍 SNS - 한국일보",
-      "targetName": "정청래"
-    },
     "adbe5991e8a44f6599ca68fb742949908a7d75938872eb1f8f770f0b01368c0c": {
       "seenAt": "2026-11-24T10:51:17.403Z",
       "title": "이준석, 강금실 지명에 “정보·방첩 경력 전무” [정치오늘] - 시사오늘",
@@ -2510,14 +2500,24 @@
       "seenAt": "2026-11-27T00:11:17.855Z",
       "title": "Trump takes on Somali welfare dependency in Thanksgiving message, lays out who should stay in US - Fox News",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "781ed9fa387b6dcc2eb0f616bc95ec8fe18dd6002207033db4c91051e8521075": {
+      "seenAt": "2026-11-27T00:21:16.061Z",
+      "title": "김태호 \"한동훈 복당 대승적 추진해야\"…윤상현 \"오동석장 BTS 연대 띄우자\" > 뉴스포커스 - SeattleN",
+      "targetName": "한동훈"
+    },
+    "8e85d2acc6b7e143d663af77ceaa18425bc47ac6b947991e3fef8e5926ca7ac1": {
+      "seenAt": "2026-11-27T00:21:16.770Z",
+      "title": "김민석·정청래 빠진 만찬 회동‥與 중진들 \"단결·민생 전념\" - MBC 뉴스",
+      "targetName": "정청래"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "88200de284f64cc07e54b7a155136802477f7f447a80ce52eb9ebef1f3f659ad",
-    "title": "Trump takes on Somali welfare dependency in Thanksgiving message, lays out who should stay in US - Fox News",
+    "postId": "8e85d2acc6b7e143d663af77ceaa18425bc47ac6b947991e3fef8e5926ca7ac1",
+    "title": "김민석·정청래 빠진 만찬 회동‥與 중진들 \"단결·민생 전념\" - MBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45915232376",
-    "sentAt": "2026-11-27T00:11:17.459Z"
+    "runId": "45916197506",
+    "sentAt": "2026-11-27T00:21:16.420Z"
   }
 }
