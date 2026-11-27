@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T06:21:12.438Z",
+  "lastCheckedAt": "2026-11-27T06:31:17.121Z",
   "seenPostIds": {
-    "1235fe8d0c0a9ebc078f58e7bc3efd5b9434c1ff8476fffc7e0981d79fa25758": {
-      "seenAt": "2026-11-25T02:11:22.113Z",
-      "title": "한동훈 “조희대 탄핵 인용되면 의원직 던질 것…서영교·박선원도 걸어라” - 에너지경제신문",
-      "targetName": "한동훈"
-    },
-    "d4fcc47b7957327faa3fe64e5c34b5c4bff59175a2fccd9f0cd510ca64c2238f": {
-      "seenAt": "2026-11-25T02:11:22.833Z",
-      "title": "송영길 \"8월 청와대서 鄭 억울함 4시간 들어\" 정청래 \"입조심하라\" - 조선일보",
-      "targetName": "송영길"
-    },
-    "60c66ced83ba8f64d5548f3992d8dcef1216768af23f561e0e633af5a387e480": {
-      "seenAt": "2026-11-25T02:11:23.594Z",
-      "title": "Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week - New York Post",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "1a465a2629a45bd707b96a413e71f9b7f54a3703e57cacef0861fe990716ec3f": {
       "seenAt": "2026-11-25T02:21:24.809Z",
       "title": "정청래, 송영길에 또 공개 경고…\"입이 너무 싸다\" - 시사포커스",
@@ -2515,63 +2500,62 @@
       "seenAt": "2026-11-27T06:21:14.931Z",
       "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외일 수 없어\" - 머니투데이 - 머니투데이",
       "targetName": "정청래"
+    },
+    "8cbf0d77abb9180c0efe0e6a8daea19bfd2392518bcbc60962ed12b8be98384c": {
+      "seenAt": "2026-11-27T06:31:18.732Z",
+      "title": "이준석\"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐\" - 파이낸셜뉴스",
+      "targetName": "이준석"
+    },
+    "8e65ac037b085e6b015b00e9a4a9ae6ca0522a3d758613d666081dfcc4dea799": {
+      "seenAt": "2026-11-27T06:31:19.705Z",
+      "title": "일본서 입국 거부당한 조국, 독도로 향한다…12월 7일 울릉 방문 추진 - 영남일보",
+      "targetName": "조국"
+    },
+    "32fa3de9be8604e3ad3ab4e4fe1e2da6fe072264c343065e57055cb46dd490b6": {
+      "seenAt": "2026-11-27T06:31:21.198Z",
+      "title": "신장식 \"합당 안하길 잘했단 당원 많아…민주당이 개혁정당이냐\" - 데일리안",
+      "targetName": "신장식"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "8cbf0d77abb9180c0efe0e6a8daea19bfd2392518bcbc60962ed12b8be98384c",
+        "id": "526fb43d1999e24cabce7e03a4668b80b7d5d88bb6aff9f99de30dded357d5ec",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "민주당 중진 12명 만찬에도 김민석·정청래 불참…정청래 “화해 빙자한 몽둥이 찜질” - 뉴스코리아",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dUFwYldyeVo5bVBDSVJaVGhqSG1oSnRWUkYtNDJuNWhVOGl6RTNUcG1MWk9RU1JEUFhFLW5mcURTaF9QZnFJMFpOTUJGcGtGR1BxdU5wTGtyNUFaZ3FfcTk1b0gxUFg4Y3lWVkNB?oc=5\" target=\"_blank\">민주당 중진 12명 만찬에도 김민석·정청래 불참…정청래 “화해 빙자한 몽둥이 찜질”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스코리아</font>",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dUFwYldyeVo5bVBDSVJaVGhqSG1oSnRWUkYtNDJuNWhVOGl6RTNUcG1MWk9RU1JEUFhFLW5mcURTaF9QZnFJMFpOTUJGcGtGR1BxdU5wTGtyNUFaZ3FfcTk1b0gxUFg4Y3lWVkNB?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 05:42:13 GMT",
+        "source": "뉴스코리아",
+        "ageHours": 0.8
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "2fecad8774538c8e129e4ee104399b9d8cd46ebe5317de57e0707b45c0f92d77",
         "targetId": "lee_junseok",
         "targetName": "이준석",
         "targetTitle": "개혁신당 의원",
-        "title": "이준석\"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐\" - 파이낸셜뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XYVl3bHZqX3E5TFI3MzV0YWRELS16RGtFS01kb3dMMmMtN1FuOXkxc1BuT3c0TjlscGpyVzl5VTF6NXlxMlBvNUdPMk9JdGxWcXJFWjJqMFp5Zw?oc=5\" target=\"_blank\">이준석\"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">파이낸셜뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XYVl3bHZqX3E5TFI3MzV0YWRELS16RGtFS01kb3dMMmMtN1FuOXkxc1BuT3c0TjlscGpyVzl5VTF6NXlxMlBvNUdPMk9JdGxWcXJFWjJqMFp5Zw?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 05:30:36 GMT",
-        "source": "파이낸셜뉴스",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "8e65ac037b085e6b015b00e9a4a9ae6ca0522a3d758613d666081dfcc4dea799",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "일본서 입국 거부당한 조국, 독도로 향한다…12월 7일 울릉 방문 추진 - 영남일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9VdVYzcDVSREVqSlhpRXBSZUh2a25CeGxjbVdfWkdyd3NDOUlHVnItakRQakVpOTZqazd2cVBDSnZnM3A5ejVKT0oxN3RNd0RFS1lHOTFrdXZXdEdwd3AxWGlIUG16R1FqalE?oc=5\" target=\"_blank\">일본서 입국 거부당한 조국, 독도로 향한다…12월 7일 울릉 방문 추진</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">영남일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VdVYzcDVSREVqSlhpRXBSZUh2a25CeGxjbVdfWkdyd3NDOUlHVnItakRQakVpOTZqazd2cVBDSnZnM3A5ejVKT0oxN3RNd0RFS1lHOTFrdXZXdEdwd3AxWGlIUG16R1FqalE?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 05:32:33 GMT",
-        "source": "영남일보",
-        "ageHours": 0.8
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "32fa3de9be8604e3ad3ab4e4fe1e2da6fe072264c343065e57055cb46dd490b6",
-        "targetId": "shin_jangsik",
-        "targetName": "신장식",
-        "targetTitle": "조국혁신당 원내대변인",
-        "title": "신장식 \"합당 안하길 잘했단 당원 많아…민주당이 개혁정당이냐\" - 데일리안",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GNzJVT1lqNE5Xb2RvdENFaUJhTl85Smk4WjRReGFYWk5fTFdWQjM4aUkzUVUtVDNCSDVlbjMweE56QmJsRnFxQ3ZlNWEwRjhtUzFLaA?oc=5\" target=\"_blank\">신장식 \"합당 안하길 잘했단 당원 많아…민주당이 개혁정당이냐\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리안</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GNzJVT1lqNE5Xb2RvdENFaUJhTl85Smk4WjRReGFYWk5fTFdWQjM4aUkzUVUtVDNCSDVlbjMweE56QmJsRnFxQ3ZlNWEwRjhtUzFLaA?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 04:56:00 GMT",
-        "source": "데일리안",
-        "ageHours": 1.4
+        "title": "이준석 \"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐\" - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE52TVZhVWpRWHpjMk1Ya0JVNWZxV0FMWDVzY080dkMyOWUwSHA4em9USHJDVm5YamprblFJeHAxaVJEd0w1eWtFYV95SFlPem9oUFpDRXoxTmxZUHllaG9yWE90Ul9BNDNRRHhqWFN4N0JWZHczcl9sZ9IBeEFVX3lxTE52TVZhVWpRWHpjMk1Ya0JVNWZxV0FMWDVzY080dkMyOWUwSHA4em9USHJDVm5YamprblFJeHAxaVJEd0w1eWtFYV95SFlPem9oUFpDRXoxTmxZUHllaG9yWE90Ul9BNDNRRHhqWFN4N0JWZHczcl9sZw?oc=5\" target=\"_blank\">이준석 \"李 대통령 아파트로 25억 차익…청년들 내 집 마련은 고깝냐\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52TVZhVWpRWHpjMk1Ya0JVNWZxV0FMWDVzY080dkMyOWUwSHA4em9USHJDVm5YamprblFJeHAxaVJEd0w1eWtFYV95SFlPem9oUFpDRXoxTmxZUHllaG9yWE90Ul9BNDNRRHhqWFN4N0JWZHczcl9sZ9IBeEFVX3lxTE52TVZhVWpRWHpjMk1Ya0JVNWZxV0FMWDVzY080dkMyOWUwSHA4em9USHJDVm5YamprblFJeHAxaVJEd0w1eWtFYV95SFlPem9oUFpDRXoxTmxZUHllaG9yWE90Ul9BNDNRRHhqWFN4N0JWZHczcl9sZw?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 05:34:17 GMT",
+        "source": "뉴시스",
+        "ageHours": 0.9
       },
       "delivered": [],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "0069346d513a57f5b40791962253e74279327a928e8c306366018014df0a9e76",
-    "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외일 수 없어\" - 머니투데이 - 머니투데이",
+    "postId": "32fa3de9be8604e3ad3ab4e4fe1e2da6fe072264c343065e57055cb46dd490b6",
+    "title": "신장식 \"합당 안하길 잘했단 당원 많아…민주당이 개혁정당이냐\" - 데일리안",
     "bot": "jongsuk_pol_bot",
-    "runId": "45951276399",
-    "sentAt": "2026-11-27T06:21:14.603Z"
+    "runId": "45952356646",
+    "sentAt": "2026-11-27T06:31:20.106Z"
   }
 }
