@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T16:11:13.611Z",
+  "lastCheckedAt": "2026-11-27T16:21:21.830Z",
   "seenPostIds": {
     "4f838d782a26c90137c604d65fd70b78b8199b4eddbdca315cb1f52deb8a34d4": {
       "seenAt": "2026-11-25T07:03:53.947Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-27T15:51:17.364Z",
       "title": "최민희 중징계에 정청래 \"김민석 해당 행위는 무엇이냐\" - www.gukjenews.com",
       "targetName": "정청래"
+    },
+    "834fc6f7657e5d03c62217b54d92e9bba8537c648d93f7cc39de379ed5bb3d8b": {
+      "seenAt": "2026-11-27T16:21:23.812Z",
+      "title": "‘최민희 중징계’에 친청계 \"김민석은?\"…계파갈등 벼랑끝으로 - JTBC",
+      "targetName": "김민석"
+    },
+    "daae72f57f1e5e1f41a5ddde22c6a5dc1de25fd44cca6f10ddb36323de50ca50": {
+      "seenAt": "2026-11-27T16:21:24.625Z",
+      "title": "Trump backs Iraqi PM’s oil smuggling crackdown - Al Jazeera",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "bce4635b596b425123cf81da16b5c0795af28d0347cfce61dad19d61f7621393",
-    "title": "최민희 중징계에 정청래 \"김민석 해당 행위는 무엇이냐\" - www.gukjenews.com",
+    "postId": "daae72f57f1e5e1f41a5ddde22c6a5dc1de25fd44cca6f10ddb36323de50ca50",
+    "title": "Trump backs Iraqi PM’s oil smuggling crackdown - Al Jazeera",
     "bot": "jongsuk_pol_bot",
-    "runId": "46028519410",
-    "sentAt": "2026-11-27T15:51:17.013Z"
+    "runId": "46032848796",
+    "sentAt": "2026-11-27T16:21:24.242Z"
   }
 }

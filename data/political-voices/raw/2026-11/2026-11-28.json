@@ -98,5 +98,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "834fc6f7657e5d03c62217b54d92e9bba8537c648d93f7cc39de379ed5bb3d8b",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "‘최민희 중징계’에 친청계 \"김민석은?\"…계파갈등 벼랑끝으로 - JTBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3VTVydFJQc3RBbEdJM2EzR1doTkhnWFlfZC1mVVNLb2dXb1FCdm5KdlVZWVlrUmFVeWN3NU5RazF1ZTkzUHUxUWxuSmZvb1h1aHc?oc=5\" target=\"_blank\">‘최민희 중징계’에 친청계 \"김민석은?\"…계파갈등 벼랑끝으로</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3VTVydFJQc3RBbEdJM2EzR1doTkhnWFlfZC1mVVNLb2dXb1FCdm5KdlVZWVlrUmFVeWN3NU5RazF1ZTkzUHUxUWxuSmZvb1h1aHc?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 13:38:03 GMT",
+    "source": "JTBC",
+    "ageHours": 2.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘최민희 중징계’에 친청계 \"김민석은?\"…계파갈등 벼랑끝으로",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "daae72f57f1e5e1f41a5ddde22c6a5dc1de25fd44cca6f10ddb36323de50ca50",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump backs Iraqi PM’s oil smuggling crackdown - Al Jazeera",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZGU1clhRNmxGX0dvd0k1ZTJsZklqamN3NGxXRGx3TTJ5UzVrYW0xbFZjb3ZiUC0zWThpbUVubGFrSzdBcUNMT1l2cEJQSWZId3hpRGNFT3liZVlubElmUzZSYmtwSnpmZ2xKN2JlSWJ3YzVGbUNaRHZQRU1BZUppZ0ZvWm9oMWZmakhFUXJhSEXSAZYBQVVfeXFMT0NBOGJxZm4tUnFxSnNEOUNNZjlXbm1NY0I1bGdpdm9hVzVtQUxDaGJBZllqb2hBU2Vka1FxNENJUEkzM185b3praExOSEFnaDFKdl81WHVUZXQtZnlfWjJsRFZTVDdPcmxuNTliREdudzZ4a2MyWnkzZDRHbzRWRE1xMEswRTBfSnZVN0llSHVYZU5nRlBR?oc=5\" target=\"_blank\">Trump backs Iraqi PM’s oil smuggling crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al Jazeera</font>",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZGU1clhRNmxGX0dvd0k1ZTJsZklqamN3NGxXRGx3TTJ5UzVrYW0xbFZjb3ZiUC0zWThpbUVubGFrSzdBcUNMT1l2cEJQSWZId3hpRGNFT3liZVlubElmUzZSYmtwSnpmZ2xKN2JlSWJ3YzVGbUNaRHZQRU1BZUppZ0ZvWm9oMWZmakhFUXJhSEXSAZYBQVVfeXFMT0NBOGJxZm4tUnFxSnNEOUNNZjlXbm1NY0I1bGdpdm9hVzVtQUxDaGJBZllqb2hBU2Vka1FxNENJUEkzM185b3praExOSEFnaDFKdl81WHVUZXQtZnlfWjJsRFZTVDdPcmxuNTliREdudzZ4a2MyWnkzZDRHbzRWRE1xMEswRTBfSnZVN0llSHVYZU5nRlBR?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 16:13:21 GMT",
+    "source": "Al Jazeera",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump backs Iraqi PM’s oil smuggling crackdown",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
