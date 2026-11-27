@@ -1148,5 +1148,56 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "54b0dc435ee1a288f6983e432f02c455fc74ccc70ee9aa5ff1bc9b6284634014",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "[뉴스 즉설]다른 문 찾는 한동훈, '배수의 진' 친 장동혁…'장·한 대전' 새 국면 - 대전일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE85OWJIWUlpTVdLNkh2a3BJSWUwUUdwckV6cmZvNnFPLU9PTnBCVHdxNmFGMGhWNV9zVVN6TGdqbEJzOURKZlVQV1dXbXNROXgwS3VDRUJhY1hMVVBydGhLZFBnTElUc1lFNVVxNjhwVUk3ZlXSAXNBVV95cUxPOTliSFlJaU1XSzZIdmtwSUllMFFHcHJFenJmbzZxTy1PT05wQlR3cTZhRjBoVjVfc1VTekxnamxCczlESmZVUFdXV21zUTl4MEt1Q0VCYWNYTFVQcnRoS2RQZ0xJVHNZRTVVcTY4cFVJN2ZV?oc=5\" target=\"_blank\">[뉴스 즉설]다른 문 찾는 한동훈, '배수의 진' 친 장동혁…'장·한 대전' 새 국면</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85OWJIWUlpTVdLNkh2a3BJSWUwUUdwckV6cmZvNnFPLU9PTnBCVHdxNmFGMGhWNV9zVVN6TGdqbEJzOURKZlVQV1dXbXNROXgwS3VDRUJhY1hMVVBydGhLZFBnTElUc1lFNVVxNjhwVUk3ZlXSAXNBVV95cUxPOTliSFlJaU1XSzZIdmtwSUllMFFHcHJFenJmbzZxTy1PT05wQlR3cTZhRjBoVjVfc1VTekxnamxCczlESmZVUFdXV21zUTl4MEt1Q0VCYWNYTFVQcnRoS2RQZ0xJVHNZRTVVcTY4cFVJN2ZV?oc=5",
+    "pubDate": "Thu, 26 Nov 2026 21:40:13 GMT",
+    "source": "대전일보",
+    "ageHours": 2.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 다른 문 찾는 한동훈, '배수의 진' 친 장동혁…'장·한 대전' 새 국면",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "a9baa84fed0c14e80f4b65add3f6cc03f40a1a66c037d16467aa40d00726c8a3",
+    "targetId": "shin_jangsik",
+    "targetName": "신장식",
+    "targetTitle": "조국혁신당 원내대변인",
+    "title": "신장식 \"조희대 탄핵 12월 3일 처리해야…민주당과 일정 견해차\" - 뉴스핌",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qY0JqellLbXpWb3AyZXEwRV9vanRGMGZ6RjR1MDRBOExiV0xlU2ZiTG00T3NrOHJNWFlaTkNWSTRHako2Qmh1RzhoT3lFbGRXOHpEcEJfY1MxR0JY?oc=5\" target=\"_blank\">신장식 \"조희대 탄핵 12월 3일 처리해야…민주당과 일정 견해차\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스핌</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qY0JqellLbXpWb3AyZXEwRV9vanRGMGZ6RjR1MDRBOExiV0xlU2ZiTG00T3NrOHJNWFlaTkNWSTRHako2Qmh1RzhoT3lFbGRXOHpEcEJfY1MxR0JY?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 00:22:00 GMT",
+    "source": "뉴스핌",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 신장식 \"조희대 탄핵 12월 3일 처리해야…민주당과 일정 견해차\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "신장식",
+        "정치속보",
+        "SNS발언",
+        "사법정국"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

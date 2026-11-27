@@ -11389,3 +11389,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [뉴스 즉설]다른 문 찾는 한동훈, '배수의 진' 친 장동혁…'장·한 대전' 새 국면 - 대전일보
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 다른 문 찾는 한동훈, '배수의 진' 친 장동혁…'장·한 대전' 새 국면
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE85OWJIWUlpTVdLNkh2a3BJSWUwUUdwckV6cmZvNnFPLU9PTnBCVHdxNmFGMGhWNV9zVVN6TGdqbEJzOURKZlVQV1dXbXNROXgwS3VDRUJhY1hMVVBydGhLZFBnTElUc1lFNVVxNjhwVUk3ZlXSAXNBVV95cUxPOTliSFlJaU1XSzZIdmtwSUllMFFHcHJFenJmbzZxTy1PT05wQlR3cTZhRjBoVjVfc1VTekxnamxCczlESmZVUFdXV21zUTl4MEt1Q0VCYWNYTFVQcnRoS2RQZ0xJVHNZRTVVcTY4cFVJN2ZV?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "조희대 탄핵 12월 3일 처리해야…민주당과 일정 견해차" - 뉴스핌
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "조희대 탄핵 12월 3일 처리해야…민주당과 일정 견해차"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qY0JqellLbXpWb3AyZXEwRV9vanRGMGZ6RjR1MDRBOExiV0xlU2ZiTG00T3NrOHJNWFlaTkNWSTRHako2Qmh1RzhoT3lFbGRXOHpEcEJfY1MxR0JY?oc=5)
+
+---
+
