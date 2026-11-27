@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T02:21:16.182Z",
+  "lastCheckedAt": "2026-11-27T02:31:15.125Z",
   "seenPostIds": {
-    "8d5816573dac1f9c48d9810035d87a0cd3eb3f0e1cbeaf1f31604b56561208be": {
-      "seenAt": "2026-11-24T20:11:29.814Z",
-      "title": "잇따르는 '조작 징계' 의혹… 한동훈, 효력정지 가처분 변수 되나 - 한국일보",
-      "targetName": "한동훈"
-    },
-    "03460d166e8a7c41cc03eec1ae42e381b784cc8bf4fd44f5fabb477551932cb4": {
-      "seenAt": "2026-11-24T20:41:15.260Z",
-      "title": "Forsyth County DA Jim O'Neill nominated for federal court seat by President Trump - WXII",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "c9523f771791d9577bd07073b3dfd8de7e960c92f88d8d6d6c4c2977ce0ba2cc": {
-      "seenAt": "2026-11-24T21:01:16.770Z",
-      "title": "국민의힘, 이재명 탈옥 특검법에 “의회폭거” 비판 - 한국사회복지저널",
-      "targetName": "이재명"
-    },
     "250d5cdab5080d527fb71e28fa3b8f9ec17608faa2af832cb7a071b1031fb891": {
       "seenAt": "2026-11-24T21:01:17.412Z",
       "title": "Trump nominates North Carolina prosecutor who lost re-election to become judge - Reuters",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-27T02:21:19.061Z",
       "title": "조국 “주가 반토막에 국민 피눈물…소각형 증안펀드 도입” - 세계일보",
       "targetName": "조국"
+    },
+    "602c3b3fe2897d94cb77497ac7fd2371d1a7a1db36328557f8e54232e1d5056f": {
+      "seenAt": "2026-11-27T02:31:16.220Z",
+      "title": "경찰, 공소청 압수수색에 한동훈 “민중의 지팡이가 아니라 ‘민주당의 지팡이’” - 조선일보",
+      "targetName": "한동훈"
+    },
+    "739b27fa2123b878597c620c9defce5761dd9692cbddc164d9e498a1dcf7d5b7": {
+      "seenAt": "2026-11-27T02:31:16.846Z",
+      "title": "“국민 재산 갖고 불장난한 대통령”…유승민, 이재명 정부 주가부양 정책 직격 - 디지털데일리",
+      "targetName": "이재명"
+    },
+    "321ec6d12f5060748ab15797119cf665edfec67023bc53ab778e54cce46f2ada": {
+      "seenAt": "2026-11-27T02:31:17.490Z",
+      "title": "‘내부자료 유출’ 의혹에 공소청 압수수색 들어간 경찰…한동훈 \"국무회의서 잘못된 교육 받았나\" - JTBC",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "602c3b3fe2897d94cb77497ac7fd2371d1a7a1db36328557f8e54232e1d5056f",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "경찰, 공소청 압수수색에 한동훈 “민중의 지팡이가 아니라 ‘민주당의 지팡이’” - 조선일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONzlrRVhDQ1NiNGJRdGVtNkxKaHFPdV9md2d4S3BJSkh0SDNHY0hGX1h0Ny1uUWF4ek40cXRRZ0pEWUJBaFI4a1E4XzVVcG5fUlVrdUxnUm00SXBnTXF0U01uVUtna05Cd3BidkxLQzA0MFFZZHR2eFFvTkJoTDlib1pUOWxhdw?oc=5\" target=\"_blank\">경찰, 공소청 압수수색에 한동훈 “민중의 지팡이가 아니라 ‘민주당의 지팡이’”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONzlrRVhDQ1NiNGJRdGVtNkxKaHFPdV9md2d4S3BJSkh0SDNHY0hGX1h0Ny1uUWF4ek40cXRRZ0pEWUJBaFI4a1E4XzVVcG5fUlVrdUxnUm00SXBnTXF0U01uVUtna05Cd3BidkxLQzA0MFFZZHR2eFFvTkJoTDlib1pUOWxhdw?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:38:00 GMT",
-        "source": "조선일보",
-        "ageHours": 0.6
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "739b27fa2123b878597c620c9defce5761dd9692cbddc164d9e498a1dcf7d5b7",
-        "targetId": "lee_jaemyung",
-        "targetName": "이재명",
-        "targetTitle": "대통령",
-        "title": "“국민 재산 갖고 불장난한 대통령”…유승민, 이재명 정부 주가부양 정책 직격 - 디지털데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nclo0REFJQVZ4bHRlMXN5R3dpeElNUld5dmc4YVRCdzRrZ0pjM1JERzdWLUxVUXlCRWJCNmdyOTY4dGNRbUlWcGpSNXl1enQwbnZIMzNxS1JMUGJnTWMySGlR?oc=5\" target=\"_blank\">“국민 재산 갖고 불장난한 대통령”…유승민, 이재명 정부 주가부양 정책 직격</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nclo0REFJQVZ4bHRlMXN5R3dpeElNUld5dmc4YVRCdzRrZ0pjM1JERzdWLUxVUXlCRWJCNmdyOTY4dGNRbUlWcGpSNXl1enQwbnZIMzNxS1JMUGJnTWMySGlR?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 01:01:30 GMT",
-        "source": "디지털데일리",
-        "ageHours": 1.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "321ec6d12f5060748ab15797119cf665edfec67023bc53ab778e54cce46f2ada",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "‘내부자료 유출’ 의혹에 공소청 압수수색 들어간 경찰…한동훈 \"국무회의서 잘못된 교육 받았나\" - JTBC",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SZUh4M3ljeHBMbjl0NGdzOHlDd1JhdVNSUDV6MkMyWWdWLTIwWUNPZXR1eGZYc19RdmZyVldSQm1pbFJuSDBPdVBkbk1WTDdhMFRTTg?oc=5\" target=\"_blank\">‘내부자료 유출’ 의혹에 공소청 압수수색 들어간 경찰…한동훈 \"국무회의서 잘못된 교육 받았나\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SZUh4M3ljeHBMbjl0NGdzOHlDd1JhdVNSUDV6MkMyWWdWLTIwWUNPZXR1eGZYc19RdmZyVldSQm1pbFJuSDBPdVBkbk1WTDdhMFRTTg?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 02:06:00 GMT",
-        "source": "JTBC",
-        "ageHours": 0.3
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "683b7fc306ca23d5674abd5aa822a3d31d39cb54ca2b97dd1072333d5ea9b93f",
@@ -2581,13 +2533,61 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "8984b7bfffacb90bbafc3f07e788f93c134a73f250608b8c507b81b46d50f63b",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 등 압수수색 - 한겨레",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5kVTFoaGlkOFIwRlg5MjhuR2FoREhfU2x1M1EzbU9Ec2xwYmV0R0ZHQU5JRzlDYkphUVJZU1BnaUpqZkc3d05YZ2l1anMyaGpuZXNQNmh1LWtqRUExTElPOFhERVF1VE43Y001VlhMSFU3QQ?oc=5\" target=\"_blank\">경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 등 압수수색</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kVTFoaGlkOFIwRlg5MjhuR2FoREhfU2x1M1EzbU9Ec2xwYmV0R0ZHQU5JRzlDYkphUVJZU1BnaUpqZkc3d05YZ2l1anMyaGpuZXNQNmh1LWtqRUExTElPOFhERVF1VE43Y001VlhMSFU3QQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 02:19:00 GMT",
+        "source": "한겨레",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "c1f033705cce7f8f7bffa72d96e8d961ee150ba6520e8921f1652d9133fb28d7",
+        "targetId": "han_donghoon",
+        "targetName": "한동훈",
+        "targetTitle": "국민의힘 대표",
+        "title": "[속보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBxd20yeTcyaHhlR0c3c3dEOV9KVkNJTTJjNUJXRE5xc3JJeEY2ME1jYU9fTXRuZXlmMS1ZbUVBYlFhQlotZ3NFS2xZT2U2LWNUa1F0T0JqUS1OYVhOU1A3ZmhXSzRnYmxwQkhBbGl6eVPSAXBBVV95cUxQcXdtMnk3Mmh4ZUdHN3N3RDlfSlZDSU0yYzVCV0ROcXNySXhGNjBNY2FPX010bmV5ZjEtWW1FQWJRYUJaLWdzRUtsWU9lNi1jVGtRdE9CalEtTmFYTlNQN2ZoV0s0Z2JscEJIQWxpenlT?oc=5\" target=\"_blank\">[속보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">머니투데이</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxd20yeTcyaHhlR0c3c3dEOV9KVkNJTTJjNUJXRE5xc3JJeEY2ME1jYU9fTXRuZXlmMS1ZbUVBYlFhQlotZ3NFS2xZT2U2LWNUa1F0T0JqUS1OYVhOU1A3ZmhXSzRnYmxwQkhBbGl6eVPSAXBBVV95cUxQcXdtMnk3Mmh4ZUdHN3N3RDlfSlZDSU0yYzVCV0ROcXNySXhGNjBNY2FPX010bmV5ZjEtWW1FQWJRYUJaLWdzRUtsWU9lNi1jVGtRdE9CalEtTmFYTlNQN2ZoV0s0Z2JscEJIQWxpenlT?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 00:54:02 GMT",
+        "source": "머니투데이",
+        "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "d571eef35077f9a3963df9ec24b12252543fb8d18c35450fb96761110045c137",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국, 12월 초 울릉·독도 방문... 日 입국 불허 맞불 - 경북매일",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSzhySmZFT0JONmJBQmxGbHpYck9BSGRZelUwdlhZVW5nMWJlWDBSTzlKMmFHQnlDck9DZXFXbzMyQWF3Y2ZWeXJWUzExdFBtS2xsdDFwSWZpUQ?oc=5\" target=\"_blank\">조국, 12월 초 울릉·독도 방문... 日 입국 불허 맞불</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경북매일</font>",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSzhySmZFT0JONmJBQmxGbHpYck9BSGRZelUwdlhZVW5nMWJlWDBSTzlKMmFHQnlDck9DZXFXbzMyQWF3Y2ZWeXJWUzExdFBtS2xsdDFwSWZpUQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 02:22:00 GMT",
+        "source": "경북매일",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "774b07ddf00e1cb570c6b0aedef348071837fc65e48ff970cc2df690a1b655aa",
-    "title": "조국 “주가 반토막에 국민 피눈물…소각형 증안펀드 도입” - 세계일보",
+    "postId": "321ec6d12f5060748ab15797119cf665edfec67023bc53ab778e54cce46f2ada",
+    "title": "‘내부자료 유출’ 의혹에 공소청 압수수색 들어간 경찰…한동훈 \"국무회의서 잘못된 교육 받았나\" - JTBC",
     "bot": "jongsuk_pol_bot",
-    "runId": "45927794319",
-    "sentAt": "2026-11-27T02:21:18.709Z"
+    "runId": "45928783964",
+    "sentAt": "2026-11-27T02:31:17.175Z"
   }
 }

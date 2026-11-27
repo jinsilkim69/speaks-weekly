@@ -2025,5 +2025,80 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "602c3b3fe2897d94cb77497ac7fd2371d1a7a1db36328557f8e54232e1d5056f",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "경찰, 공소청 압수수색에 한동훈 “민중의 지팡이가 아니라 ‘민주당의 지팡이’” - 조선일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONzlrRVhDQ1NiNGJRdGVtNkxKaHFPdV9md2d4S3BJSkh0SDNHY0hGX1h0Ny1uUWF4ek40cXRRZ0pEWUJBaFI4a1E4XzVVcG5fUlVrdUxnUm00SXBnTXF0U01uVUtna05Cd3BidkxLQzA0MFFZZHR2eFFvTkJoTDlib1pUOWxhdw?oc=5\" target=\"_blank\">경찰, 공소청 압수수색에 한동훈 “민중의 지팡이가 아니라 ‘민주당의 지팡이’”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONzlrRVhDQ1NiNGJRdGVtNkxKaHFPdV9md2d4S3BJSkh0SDNHY0hGX1h0Ny1uUWF4ek40cXRRZ0pEWUJBaFI4a1E4XzVVcG5fUlVrdUxnUm00SXBnTXF0U01uVUtna05Cd3BidkxLQzA0MFFZZHR2eFFvTkJoTDlib1pUOWxhdw?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 01:38:00 GMT",
+    "source": "조선일보",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 경찰, 공소청 압수수색에 한동훈 “민중의 지팡이가 아니라 ‘민주당의 지팡이’”",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "739b27fa2123b878597c620c9defce5761dd9692cbddc164d9e498a1dcf7d5b7",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "“국민 재산 갖고 불장난한 대통령”…유승민, 이재명 정부 주가부양 정책 직격 - 디지털데일리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nclo0REFJQVZ4bHRlMXN5R3dpeElNUld5dmc4YVRCdzRrZ0pjM1JERzdWLUxVUXlCRWJCNmdyOTY4dGNRbUlWcGpSNXl1enQwbnZIMzNxS1JMUGJnTWMySGlR?oc=5\" target=\"_blank\">“국민 재산 갖고 불장난한 대통령”…유승민, 이재명 정부 주가부양 정책 직격</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털데일리</font>",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nclo0REFJQVZ4bHRlMXN5R3dpeElNUld5dmc4YVRCdzRrZ0pjM1JERzdWLUxVUXlCRWJCNmdyOTY4dGNRbUlWcGpSNXl1enQwbnZIMzNxS1JMUGJnTWMySGlR?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 01:01:30 GMT",
+    "source": "디지털데일리",
+    "ageHours": 1.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] “국민 재산 갖고 불장난한 대통령”…유승민, 이재명 정부 주가부양 정책 직격",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "321ec6d12f5060748ab15797119cf665edfec67023bc53ab778e54cce46f2ada",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "‘내부자료 유출’ 의혹에 공소청 압수수색 들어간 경찰…한동훈 \"국무회의서 잘못된 교육 받았나\" - JTBC",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SZUh4M3ljeHBMbjl0NGdzOHlDd1JhdVNSUDV6MkMyWWdWLTIwWUNPZXR1eGZYc19RdmZyVldSQm1pbFJuSDBPdVBkbk1WTDdhMFRTTg?oc=5\" target=\"_blank\">‘내부자료 유출’ 의혹에 공소청 압수수색 들어간 경찰…한동훈 \"국무회의서 잘못된 교육 받았나\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JTBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SZUh4M3ljeHBMbjl0NGdzOHlDd1JhdVNSUDV6MkMyWWdWLTIwWUNPZXR1eGZYc19RdmZyVldSQm1pbFJuSDBPdVBkbk1WTDdhMFRTTg?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 02:06:00 GMT",
+    "source": "JTBC",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] ‘내부자료 유출’ 의혹에 공소청 압수수색 들어간 경찰…한동훈 \"국무회의서 잘못된 교육 받았나\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
