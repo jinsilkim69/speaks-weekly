@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-27T03:01:18.807Z",
+  "lastCheckedAt": "2026-11-27T03:11:16.819Z",
   "seenPostIds": {
-    "7f05b83fc06e9c3aefb7bc7dca0a497ac125a1244e3c9dd5e76ae96cf3ef7a07": {
-      "seenAt": "2026-11-24T23:31:15.055Z",
-      "title": "[속보]한동훈 “조희대 탄핵 ‘100%’라는 서영교, 의원직 걸라” - 문화일보",
-      "targetName": "한동훈"
-    },
-    "8d92fd36e0c88c529d6dcc04c23b72c3b88899e2705626b9df545a149e5b6ed1": {
-      "seenAt": "2026-11-25T00:01:14.870Z",
-      "title": "이재명 대통령, 5·18 진압 등 경찰관 포상 취소에 “역사 교정 계속” - 일간투데이",
-      "targetName": "이재명"
-    },
-    "924da04c83e6839a79b845e9fcb9e5f47344a75734eefca77f1d202b1962b167": {
-      "seenAt": "2026-11-25T00:01:15.501Z",
-      "title": "김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문",
-      "targetName": "김민석"
-    },
     "9716eb18f5a7eda784d718cf74f6cc3b2a07bfcbb58d517d0edc42bc7bd1c697": {
       "seenAt": "2026-11-25T00:01:16.129Z",
       "title": "김민석 취임 100일, ‘신천지 굴레’ 빠진 민주당…정청래는 ‘폭풍 SNS’로 “피해자 중심주의로 가야” - 경향신문",
@@ -2515,57 +2500,24 @@
       "seenAt": "2026-11-27T03:01:21.949Z",
       "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
       "targetName": "한동훈"
+    },
+    "4e5eb17d4ae7408e603167c7ba344ed33e6d3c9720247039a7c1993ceecf2679": {
+      "seenAt": "2026-11-27T03:11:18.555Z",
+      "title": "[단독] 장동혁 \"한동훈 가처분, 인용돼도 즉시 항고·본안까지 다툴 것 … '내란 몰이'로 추가 징계 단행\" - 뉴데일리",
+      "targetName": "한동훈"
+    },
+    "b1d5a19335b7ea64adc6b2ce7009c2f3a8536c0257de7ec6b9a006bd84e3fb52": {
+      "seenAt": "2026-11-27T03:11:19.467Z",
+      "title": "이재호 연수구청장 , 송도테마파크 부지 관련 송영길 의원에게 사과 요구 - 경인뉴스통신",
+      "targetName": "송영길"
+    },
+    "5ca366425d33f2dba71dd0f32130186c96aa17cdb1f2a26768cd3aa541690402": {
+      "seenAt": "2026-11-27T03:11:20.227Z",
+      "title": "한동훈, ‘수사자료 유출 의혹’ 수사에 반발…“경찰, 민주당의 지팡이” - KBS 뉴스",
+      "targetName": "한동훈"
     }
   },
   "pending": [
-    {
-      "post": {
-        "id": "4e5eb17d4ae7408e603167c7ba344ed33e6d3c9720247039a7c1993ceecf2679",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "[단독] 장동혁 \"한동훈 가처분, 인용돼도 즉시 항고·본안까지 다툴 것 … '내란 몰이'로 추가 징계 단행\" - 뉴데일리",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE81Sk8wbEItcnlmMS1iNm5YblRnV1lPWXJxMm5VaFlxazc5NlNCTDFoeGdiakd4VEc0endNMk5LUW40MEFqelNDX2VBbkQwSUZTQWJZZUJiZXRtRU9XdXhoQm8xNzMxWG5fTnRVZjZkVDZIQkpPZkxVMXU0NNIBgAFBVV95cUxPZDFqVjVSTUk5OS1lVmtRbzVGcE5Db0ZjVUFOcy0xRndfY01rN0NrNGxaRTNiOUYzRzBOOHVUZnZqVEJnTk9QYkpHeHMzVEhYZVZXaTZwcUNYX2tlVTByc21GandLeXJDTHBHU19FMXhtamp1dnBxU3VlWGZKSjQ5UA?oc=5\" target=\"_blank\">[단독] 장동혁 \"한동훈 가처분, 인용돼도 즉시 항고·본안까지 다툴 것 … '내란 몰이'로 추가 징계 단행\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴데일리</font>",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81Sk8wbEItcnlmMS1iNm5YblRnV1lPWXJxMm5VaFlxazc5NlNCTDFoeGdiakd4VEc0endNMk5LUW40MEFqelNDX2VBbkQwSUZTQWJZZUJiZXRtRU9XdXhoQm8xNzMxWG5fTnRVZjZkVDZIQkpPZkxVMXU0NNIBgAFBVV95cUxPZDFqVjVSTUk5OS1lVmtRbzVGcE5Db0ZjVUFOcy0xRndfY01rN0NrNGxaRTNiOUYzRzBOOHVUZnZqVEJnTk9QYkpHeHMzVEhYZVZXaTZwcUNYX2tlVTByc21GandLeXJDTHBHU19FMXhtamp1dnBxU3VlWGZKSjQ5UA?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 23:41:00 GMT",
-        "source": "뉴데일리",
-        "ageHours": 3.2
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "b1d5a19335b7ea64adc6b2ce7009c2f3a8536c0257de7ec6b9a006bd84e3fb52",
-        "targetId": "song_younggil",
-        "targetName": "송영길",
-        "targetTitle": "소나무당 대표",
-        "title": "이재호 연수구청장 , 송도테마파크 부지 관련 송영길 의원에게 사과 요구 - 경인뉴스통신",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE4wRWRmUEhSbkJYa2FqbmtqdzFnREowclJwdnMzeDdnUlFMQTFyMTNCbGtpWUNvalUzVlBCSElndzVSTU9oWWJ5cnR2TDZqWVVRNjVOODNDSVJBTVFBZlYwTkFxTG1FNFFEZ1E?oc=5\" target=\"_blank\">이재호 연수구청장 , 송도테마파크 부지 관련 송영길 의원에게 사과 요구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">경인뉴스통신</font>",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wRWRmUEhSbkJYa2FqbmtqdzFnREowclJwdnMzeDdnUlFMQTFyMTNCbGtpWUNvalUzVlBCSElndzVSTU9oWWJ5cnR2TDZqWVVRNjVOODNDSVJBTVFBZlYwTkFxTG1FNFFEZ1E?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 15:34:11 GMT",
-        "source": "경인뉴스통신",
-        "ageHours": 11.3
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "5ca366425d33f2dba71dd0f32130186c96aa17cdb1f2a26768cd3aa541690402",
-        "targetId": "han_donghoon",
-        "targetName": "한동훈",
-        "targetTitle": "국민의힘 대표",
-        "title": "한동훈, ‘수사자료 유출 의혹’ 수사에 반발…“경찰, 민주당의 지팡이” - KBS 뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSkczUHFHTDJnTEVrdWhMd04zVE5oWEhlQU05SUZIbTF6cFAxRWZHellUQVV6YTQ1SHRrSEFmRnVNNWlYaUdCeXVuS1lPWTZHOUQ1WjNFd2NISEk?oc=5\" target=\"_blank\">한동훈, ‘수사자료 유출 의혹’ 수사에 반발…“경찰, 민주당의 지팡이”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBS 뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSkczUHFHTDJnTEVrdWhMd04zVE5oWEhlQU05SUZIbTF6cFAxRWZHellUQVV6YTQ1SHRrSEFmRnVNNWlYaUdCeXVuS1lPWTZHOUQ1WjNFd2NISEk?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 02:53:00 GMT",
-        "source": "KBS 뉴스",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    },
     {
       "post": {
         "id": "a103928a9959e330d4db7e09240e5ff11a8f1245daf91a7da91b1da4bd0398da",
@@ -2581,13 +2533,29 @@
       },
       "delivered": [],
       "archived": false
+    },
+    {
+      "post": {
+        "id": "ab5c1d89f8d208b7a5ce030e148208bce0c379d236518ff9783bb71d47b78f50",
+        "targetId": "shin_jangsik",
+        "targetName": "신장식",
+        "targetTitle": "조국혁신당 원내대변인",
+        "title": "신장식 “‘올 초 합당 안 하길 잘했다”는 당원들 많다” - 이데일리",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWM1ZWsyUFoxZ3pRTTk5d1RpRzVhRFJQb2Z0SmpiN3o3WlR3VldwYl9kcUlTa0dQTDRTSGtGRHBXMTRrOE1RTnNCRGFjWmN3dml1UlVEUkZ5T1prRVU0QlhQRGd4bDJzRUFPWWhQR0VfNnlwakJ3cV9hcVNIQ2dObQ?oc=5\" target=\"_blank\">신장식 “‘올 초 합당 안 하길 잘했다”는 당원들 많다”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">이데일리</font>",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWM1ZWsyUFoxZ3pRTTk5d1RpRzVhRFJQb2Z0SmpiN3o3WlR3VldwYl9kcUlTa0dQTDRTSGtGRHBXMTRrOE1RTnNCRGFjWmN3dml1UlVEUkZ5T1prRVU0QlhQRGd4bDJzRUFPWWhQR0VfNnlwakJ3cV9hcVNIQ2dObQ?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 02:57:59 GMT",
+        "source": "이데일리",
+        "ageHours": 0.2
+      },
+      "delivered": [],
+      "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "5a2f647dd7c20b518f4b59d1d59294fc05935854788de90f9f2690c7933519fe",
-    "title": "경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이",
+    "postId": "5ca366425d33f2dba71dd0f32130186c96aa17cdb1f2a26768cd3aa541690402",
+    "title": "한동훈, ‘수사자료 유출 의혹’ 수사에 반발…“경찰, 민주당의 지팡이” - KBS 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "45931673274",
-    "sentAt": "2026-11-27T03:01:21.603Z"
+    "runId": "45932656271",
+    "sentAt": "2026-11-27T03:11:19.841Z"
   }
 }

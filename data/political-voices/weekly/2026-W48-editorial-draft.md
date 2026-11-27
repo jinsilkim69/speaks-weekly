@@ -12000,3 +12000,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** [단독] 장동혁 "한동훈 가처분, 인용돼도 즉시 항고·본안까지 다툴 것 … '내란 몰이'로 추가 징계 단행" - 뉴데일리
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 "한동훈 가처분, 인용돼도 즉시 항고·본안까지 다툴 것 … '내란 몰이'로 추가 징계 단행"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMie0FVX3lxTE81Sk8wbEItcnlmMS1iNm5YblRnV1lPWXJxMm5VaFlxazc5NlNCTDFoeGdiakd4VEc0endNMk5LUW40MEFqelNDX2VBbkQwSUZTQWJZZUJiZXRtRU9XdXhoQm8xNzMxWG5fTnRVZjZkVDZIQkpPZkxVMXU0NNIBgAFBVV95cUxPZDFqVjVSTUk5OS1lVmtRbzVGcE5Db0ZjVUFOcy0xRndfY01rN0NrNGxaRTNiOUYzRzBOOHVUZnZqVEJnTk9QYkpHeHMzVEhYZVZXaTZwcUNYX2tlVTByc21GandLeXJDTHBHU19FMXhtamp1dnBxU3VlWGZKSjQ5UA?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 이재호 연수구청장 , 송도테마파크 부지 관련 송영길 의원에게 사과 요구 - 경인뉴스통신
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재호 연수구청장 , 송도테마파크 부지 관련 송영길 의원에게 사과 요구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE4wRWRmUEhSbkJYa2FqbmtqdzFnREowclJwdnMzeDdnUlFMQTFyMTNCbGtpWUNvalUzVlBCSElndzVSTU9oWWJ5cnR2TDZqWVVRNjVOODNDSVJBTVFBZlYwTkFxTG1FNFFEZ1E?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, ‘수사자료 유출 의혹’ 수사에 반발…“경찰, 민주당의 지팡이” - KBS 뉴스
+
+- **수집일**: 2026-11-27 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, ‘수사자료 유출 의혹’ 수사에 반발…“경찰, 민주당의 지팡이”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSkczUHFHTDJnTEVrdWhMd04zVE5oWEhlQU05SUZIbTF6cFAxRWZHellUQVV6YTQ1SHRrSEFmRnVNNWlYaUdCeXVuS1lPWTZHOUQ1WjNFd2NISEk?oc=5)
+
+---
+
