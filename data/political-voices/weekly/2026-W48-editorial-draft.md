@@ -14067,3 +14067,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "광장의 요구, 국민이 체감하는 변화로 만들어야" - 경기포커스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "광장의 요구, 국민이 체감하는 변화로 만들어야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9wdV8zbU9PX29qNlRSTDh0dko2TGdSZ0FFMHpLZHNDT1FVRzRhN05kOERMVjF1SDdTaDVIRURRU0VKMnp4U2NTTHY3bDdBdnVUa29fSWxodjd0Wk5id2xBRHUyVUM2VnhSVk1oVw?oc=5)
+
+---
+

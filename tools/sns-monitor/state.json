@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T01:51:13.895Z",
+  "lastCheckedAt": "2026-11-28T02:01:12.865Z",
   "seenPostIds": {
     "0e0dd423e66b735608964c57bab029fd72e16ab17d020ef49626cf82bdcba74a": {
       "seenAt": "2026-11-25T09:51:25.541Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-28T01:41:27.433Z",
       "title": "민주당 내홍에 조국의 독자노선…바뀌는 여권 권력지도 - OBC 뉴스",
       "targetName": "조국"
+    },
+    "5837bc9df218bcd416a1abdb343c3df7f1bff448545475e69ac1fb4f8155e6dc": {
+      "seenAt": "2026-11-28T02:01:14.146Z",
+      "title": "이재명 대통령 \"광장의 요구, 국민이 체감하는 변화로 만들어야\" - 경기포커스",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "e3043166edd91b641a049f56fa717205cba2d716b37cf14085361fb706baee40",
-    "title": "민주당 내홍에 조국의 독자노선…바뀌는 여권 권력지도 - OBC 뉴스",
+    "postId": "5837bc9df218bcd416a1abdb343c3df7f1bff448545475e69ac1fb4f8155e6dc",
+    "title": "이재명 대통령 \"광장의 요구, 국민이 체감하는 변화로 만들어야\" - 경기포커스",
     "bot": "jongsuk_pol_bot",
-    "runId": "46094333426",
-    "sentAt": "2026-11-28T01:41:27.099Z"
+    "runId": "46095951116",
+    "sentAt": "2026-11-28T02:01:13.543Z"
   }
 }
