@@ -14236,3 +14236,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "성형후기 조작, 기막혀…국민기반 범죄 엄정대응" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "성형후기 조작, 기막혀…국민기반 범죄 엄정대응"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTFByTDFiZ2JwaWNTU1dXSk1aaTFSNVdIZXZrcXViaEt6Tmx1TnZ4OFJJNV85TW04NHJZMm1LazlRVzQtdTF2TFFLUE1vZmI4clFtN2ttRFhTeEt2cy1rU1laalM5dlU2cEpMRlM5bko2STNmQdIBckFVX3lxTFByTDFiZ2JwaWNTU1dXSk1aaTFSNVdIZXZrcXViaEt6Tmx1TnZ4OFJJNV85TW04NHJZMm1LazlRVzQtdTF2TFFLUE1vZmI4clFtN2ttRFhTeEt2cy1rU1laalM5dlU2cEpMRlM5bko2STNmQQ?oc=5)
+
+---
+
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 정청래가 두들겨 맞았다는 '반분신' 몽둥이의 정체는? - 최보식의언론
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 정청래가 두들겨 맞았다는 '반분신' 몽둥이의 정체는?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxNGJ1YzRVeU9ZZFFVX1QxT1F0WVVLdGRrQWNGU0xtNEJiSE9pS042SWR0cDE4RGN5THRuMUxKSXN6YkVMaVMtd3pfS2NQbm5YTmZDWUFpeFJtYkEwSF83dTFfc1jSAWhBVV95cUxQdnd5R3BPb2c1b29QQmp5LUFlcjBQTW45MFFSR0FsT3RmMHZ6X0h0U2k4amRNc1dia3JOMFd5a09EUjF5LWpvaEllb1htLTVHd0hyUEswTjZpbU51VmVoTDdFRHRYLUM1YQ?oc=5)
+
+---
+
