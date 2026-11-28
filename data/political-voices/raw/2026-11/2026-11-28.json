@@ -1798,5 +1798,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "f931f204782634f88b5e3e94ab734a9c7d84243087424d89d6a190467236bd78",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "62 of the most stupid things Donald Trump has ever said - Indy100",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOV1U2VXloelZRUkZxc0N4SDJzWjA0VWNvc1hyaEJXalZTcDVnbHdCRTlmbFBDWENsV0R3UGlOcHJVeEZVVVVDdG8xdmxKTHhZWUhPeGwtT0lGUmtQSWhHRHZSUHN3V29MVlRxMEJ2TUxUaFV2OU0xby1DME5jRkFCX0E0WWRjbEJXN1gwSDZiejk?oc=5\" target=\"_blank\">62 of the most stupid things Donald Trump has ever said</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indy100</font>",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV1U2VXloelZRUkZxc0N4SDJzWjA0VWNvc1hyaEJXalZTcDVnbHdCRTlmbFBDWENsV0R3UGlOcHJVeEZVVVVDdG8xdmxKTHhZWUhPeGwtT0lGUmtQSWhHRHZSUHN3V29MVlRxMEJ2TUxUaFV2OU0xby1DME5jRkFCX0E0WWRjbEJXN1gwSDZiejk?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 05:19:23 GMT",
+    "source": "Indy100",
+    "ageHours": 2.5,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 62 of the most stupid things Donald Trump has ever said",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
