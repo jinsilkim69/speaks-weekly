@@ -14483,3 +14483,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈, 경찰에 공익제보자 색출 중단·김승원 직접 수사 촉구 - www.newfilenews.com
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈, 경찰에 공익제보자 색출 중단·김승원 직접 수사 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE52MFZsb1BqcnhSTEoxc3UxU2hCTEVWQ2FwUllLanhwZkcydlZUd3huakJieFNTb0k0T0FSTS1JS3B0eXl5bGRxT3pIQ1BQQmhrckpLRGM4OTYtVl8zSVZSaWdZLXVjU3ZLRWVtYjVR?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTFBSd0ZVa2xfc1VXeTFnRGhlLU9IbU1nZHpXZDNadXZRNDdVRkt0TGYtd3oydWE5aENGLWUzY3V1U1pSdE13c1pQaUhGMkxPV0U5RTRkTGlPTHV5V2tKOVVYWk0xOGlVNHVhYksxc3Nn?oc=5)
+
+---
+

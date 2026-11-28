@@ -1823,5 +1823,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "fa71f613638b33da1ceb431b506e7dff02e5d99bd3d86f517341b908af2a1316",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈, 경찰에 공익제보자 색출 중단·김승원 직접 수사 촉구 - www.newfilenews.com",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE52MFZsb1BqcnhSTEoxc3UxU2hCTEVWQ2FwUllLanhwZkcydlZUd3huakJieFNTb0k0T0FSTS1JS3B0eXl5bGRxT3pIQ1BQQmhrckpLRGM4OTYtVl8zSVZSaWdZLXVjU3ZLRWVtYjVR?oc=5\" target=\"_blank\">한동훈, 경찰에 공익제보자 색출 중단·김승원 직접 수사 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.newfilenews.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52MFZsb1BqcnhSTEoxc3UxU2hCTEVWQ2FwUllLanhwZkcydlZUd3huakJieFNTb0k0T0FSTS1JS3B0eXl5bGRxT3pIQ1BQQmhrckpLRGM4OTYtVl8zSVZSaWdZLXVjU3ZLRWVtYjVR?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 07:50:26 GMT",
+    "source": "www.newfilenews.com",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈, 경찰에 공익제보자 색출 중단·김승원 직접 수사 촉구",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "50a97d0a954b72a8f9ce500cfffaef58509b3a9c70374f0080d8bd52db5e4ea3",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBSd0ZVa2xfc1VXeTFnRGhlLU9IbU1nZHpXZDNadXZRNDdVRkt0TGYtd3oydWE5aENGLWUzY3V1U1pSdE13c1pQaUhGMkxPV0U5RTRkTGlPTHV5V2tKOVVYWk0xOGlVNHVhYksxc3Nn?oc=5\" target=\"_blank\">조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리메디팜</font>",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSd0ZVa2xfc1VXeTFnRGhlLU9IbU1nZHpXZDNadXZRNDdVRkt0TGYtd3oydWE5aENGLWUzY3V1U1pSdE13c1pQaUhGMkxPV0U5RTRkTGlPTHV5V2tKOVVYWk0xOGlVNHVhYksxc3Nn?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 07:55:40 GMT",
+    "source": "데일리메디팜",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

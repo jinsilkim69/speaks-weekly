@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T07:51:14.105Z",
+  "lastCheckedAt": "2026-11-28T08:01:17.004Z",
   "seenPostIds": {
-    "69507b180275dc7afb0e9cfde279439814ad647f32cf4cb747383d535144f3dd": {
-      "seenAt": "2026-11-25T14:41:17.063Z",
-      "title": "[김종석의 왜]송영길-정청래 또 설전…“입조심 하라” - 채널A",
-      "targetName": "정청래"
-    },
     "17da5c93c5eb3f599c2f5500446ede214ba46a2ef50464344811addf59feb93a": {
       "seenAt": "2026-11-25T14:41:17.748Z",
       "title": "[속보]‘드디어 조국에 손내민 김민석’…민주당, 진보4당에 ‘조희대 탄핵’ 공동 행동 제안 - 문화일보",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-28T07:51:15.534Z",
       "title": "62 of the most stupid things Donald Trump has ever said - Indy100",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "fa71f613638b33da1ceb431b506e7dff02e5d99bd3d86f517341b908af2a1316": {
+      "seenAt": "2026-11-28T08:01:18.767Z",
+      "title": "한동훈, 경찰에 공익제보자 색출 중단·김승원 직접 수사 촉구 - www.newfilenews.com",
+      "targetName": "한동훈"
+    },
+    "50a97d0a954b72a8f9ce500cfffaef58509b3a9c70374f0080d8bd52db5e4ea3": {
+      "seenAt": "2026-11-28T08:01:19.557Z",
+      "title": "조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "f931f204782634f88b5e3e94ab734a9c7d84243087424d89d6a190467236bd78",
-    "title": "62 of the most stupid things Donald Trump has ever said - Indy100",
+    "postId": "50a97d0a954b72a8f9ce500cfffaef58509b3a9c70374f0080d8bd52db5e4ea3",
+    "title": "조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜",
     "bot": "jongsuk_pol_bot",
-    "runId": "46123074073",
-    "sentAt": "2026-11-28T07:51:14.978Z"
+    "runId": "46123818183",
+    "sentAt": "2026-11-28T08:01:19.173Z"
   }
 }
