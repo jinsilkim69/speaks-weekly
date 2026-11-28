@@ -1623,5 +1623,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "a1ab4810c41004ae4f82c4ec789927ec4abaad61681d1049b529a16f0c0bb3d4",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "장동혁 \"한동훈 복당해도 다시 징계 가능\" - 조선일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNTUhLdEFENzFTaWdBcDNtUTNOUzVKOXlwWWFteEpFZFZXRU9SVXNLYk9WSUhDeFJqRkQwdTJDU092eVQtVVlSMldyMC04YmU5TTVRa1JLdDBtZi1BOWFVN1VKbjM5RXRxWDhoOC1ORGxVY3poY1J2T29ReFQ2a2ktdEJZeXI4dw?oc=5\" target=\"_blank\">장동혁 \"한동훈 복당해도 다시 징계 가능\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTUhLdEFENzFTaWdBcDNtUTNOUzVKOXlwWWFteEpFZFZXRU9SVXNLYk9WSUhDeFJqRkQwdTJDU092eVQtVVlSMldyMC04YmU5TTVRa1JLdDBtZi1BOWFVN1VKbjM5RXRxWDhoOC1ORGxVY3poY1J2T29ReFQ2a2ktdEJZeXI4dw?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 15:36:00 GMT",
+    "source": "조선일보",
+    "ageHours": 14.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 장동혁 \"한동훈 복당해도 다시 징계 가능\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

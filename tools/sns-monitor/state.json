@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T06:21:21.472Z",
+  "lastCheckedAt": "2026-11-28T06:31:14.240Z",
   "seenPostIds": {
-    "3e228ed32010710185ba010ec85d049aec11396c50b0982e35130e50b203c151": {
-      "seenAt": "2026-11-25T12:51:18.427Z",
-      "title": "김민석, 조희대 탄핵 위한 ‘5당 연대’ 제안…野 “탈옥 프로젝트” - www.1waynews.com",
-      "targetName": "김민석"
-    },
     "81d3f74838222d7b37057a481267aacccd31fe35f1008bea0ba1186fc08dd763": {
       "seenAt": "2026-11-25T13:41:15.563Z",
       "title": "'타짜' 한동훈 \"曺탄핵 인용되면 의원직 사퇴…서영교·박선원도 배지 걸라\" - 싱글리스트",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-28T06:21:23.477Z",
       "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "a1ab4810c41004ae4f82c4ec789927ec4abaad61681d1049b529a16f0c0bb3d4": {
+      "seenAt": "2026-11-28T06:31:15.314Z",
+      "title": "장동혁 \"한동훈 복당해도 다시 징계 가능\" - 조선일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047",
-    "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
+    "postId": "a1ab4810c41004ae4f82c4ec789927ec4abaad61681d1049b529a16f0c0bb3d4",
+    "title": "장동혁 \"한동훈 복당해도 다시 징계 가능\" - 조선일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "46116184917",
-    "sentAt": "2026-11-28T06:21:22.813Z"
+    "runId": "46116961833",
+    "sentAt": "2026-11-28T06:31:14.798Z"
   }
 }
