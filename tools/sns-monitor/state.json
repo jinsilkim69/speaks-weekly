@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T20:14:00.211Z",
+  "lastCheckedAt": "2026-11-28T20:21:14.164Z",
   "seenPostIds": {
     "982ce73cb60a185d4ad015a8f054ac5b2db412c613550a593ac2d99e00a812be": {
       "seenAt": "2026-11-26T02:11:14.284Z",
@@ -2500,14 +2500,46 @@
       "seenAt": "2026-11-28T20:01:16.886Z",
       "title": "Week in Politics: Trump's Thanksgiving messaging; Congress' pre-holiday to-do list - NPR",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "e36169efe46c03b3e3bb464800a3059b881668817b3bf3aeecfddf0e5b6cd407": {
+      "seenAt": "2026-11-28T20:21:15.463Z",
+      "title": "한동훈·김승원 수사, 중수청에서 경찰로…정치인 사건마다 왜? - 노컷뉴스",
+      "targetName": "한동훈"
+    },
+    "6b594b8a2b242af1e55c87e437c0c59d541de9c5537154d67bead758ccf31991": {
+      "seenAt": "2026-11-28T20:21:16.126Z",
+      "title": "‘李, 유죄 가능성’ 언급한 조국에 박지원 “자다가 봉창 때리네?” - www.edaily.co.kr",
+      "targetName": "조국"
+    },
+    "3450bc22a860c4b1e1a85e644b198fc13ab50a3b3c62bdf3a0faf1eb70d83b57": {
+      "seenAt": "2026-11-28T20:21:17.488Z",
+      "title": "Donald Trump says ‘Act of God’ destroyed D.C. golf course amid bitter court fight - Yahoo Sports",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "299d31531c9852dc0a636d77abbdcb7cb6685a9fba7b0971bbd2a52f81f5906a",
+        "targetId": "donald_trump",
+        "targetName": "도널드 트럼프 (Donald Trump)",
+        "targetTitle": "미국 대통령",
+        "title": "Trump calls flooded DC golf course an ‘Act of God’ in push for makeover - New York Post",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbUdOX1RrekFUR2hya3ZqMWVLOWJ6RUZBWjdlWEM0QnE0U2p5a2J3SktYMXJIRHlrUWhLMFd2TDNTNVoxX0wybjVqV0VzM1F4X1p6bjVOZ2puZC1sX2dkRnRwZ0luamgwcmZJY1ZHaktOWWxaSVJzLWZ6YTZ4YjBOakdJOVlFVE42aUpUU1dBa3JDLU81V2xTa0s5VXpxOFlVSFU5bWRBdDNhUzFoNWxjaFFGajR5VjczMXZEVjdDYnlZQnduelhCNHc5SERZX0psM01ZSTlXc2dGVFBhamdfV25tcjRmaml6Y0F6TjJB?oc=5\" target=\"_blank\">Trump calls flooded DC golf course an ‘Act of God’ in push for makeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbUdOX1RrekFUR2hya3ZqMWVLOWJ6RUZBWjdlWEM0QnE0U2p5a2J3SktYMXJIRHlrUWhLMFd2TDNTNVoxX0wybjVqV0VzM1F4X1p6bjVOZ2puZC1sX2dkRnRwZ0luamgwcmZJY1ZHaktOWWxaSVJzLWZ6YTZ4YjBOakdJOVlFVE42aUpUU1dBa3JDLU81V2xTa0s5VXpxOFlVSFU5bWRBdDNhUzFoNWxjaFFGajR5VjczMXZEVjdDYnlZQnduelhCNHc5SERZX0psM01ZSTlXc2dGVFBhamdfV25tcjRmaml6Y0F6TjJB?oc=5",
+        "pubDate": "Sat, 28 Nov 2026 20:13:00 GMT",
+        "source": "New York Post",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "373898d2cfb5e2ddce23766fb3a5aff611e95361dbfb44a90780714af3a0418d",
-    "title": "Week in Politics: Trump's Thanksgiving messaging; Congress' pre-holiday to-do list - NPR",
+    "postId": "3450bc22a860c4b1e1a85e644b198fc13ab50a3b3c62bdf3a0faf1eb70d83b57",
+    "title": "Donald Trump says ‘Act of God’ destroyed D.C. golf course amid bitter court fight - Yahoo Sports",
     "bot": "jongsuk_pol_bot",
-    "runId": "46184138780",
-    "sentAt": "2026-11-28T20:01:16.214Z"
+    "runId": "46185930629",
+    "sentAt": "2026-11-28T20:21:16.441Z"
   }
 }

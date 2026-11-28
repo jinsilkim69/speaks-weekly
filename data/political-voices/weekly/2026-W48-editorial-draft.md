@@ -15224,3 +15224,42 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈·김승원 수사, 중수청에서 경찰로…정치인 사건마다 왜? - 노컷뉴스
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈·김승원 수사, 중수청에서 경찰로…정치인 사건마다 왜?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTGJDYWxfWTB2V3pSOWJWZXRrZXFUX0paMVFHYmxZVkJFQmdSeGlHS3VFbWpGWkxXY0FhaUU5U2lMZmRCSmtUc29PM0lzOVpnc3c?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** ‘李, 유죄 가능성’ 언급한 조국에 박지원 “자다가 봉창 때리네?” - www.edaily.co.kr
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘李, 유죄 가능성’ 언급한 조국에 박지원 “자다가 봉창 때리네?”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMirAJBVV95cUxOSlVhQi1xYndWeUctSk1zVmNNS1B4ZEh4TFRVVmxGc1d5X3VyN2dmNksySjlhZzFMdUhkSmh0dF92d0NrdDFlTlQyOFF6NDh4WkVFYXVMd2ZfVzJpcFl0MGN4VDNHem1yMThUUGpBbHZHbWlqZ1hLZ0dscXBIN1RkTFBiZTBESmduOXIxSnduZDBON2t1aW5xdEJod2ViQ29nd3gzdGtnS05uc3YzWGluRzNzQ3F2c1FVX05rZVdRQVJYcU9XQkJILUN1RXFHMkxkZlIySGthSWplXzgzaW5tRDdCclNVemhreVpzUWF0TlB5RVNIMWhXQ2VHcmtILVhtSkNRTHdxSTc1MVkxbHVTX2NuRjBOVmN2VGxkdGVtN3dfLWZOT2gySVB3VWI?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump says ‘Act of God’ destroyed D.C. golf course amid bitter court fight - Yahoo Sports
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump says ‘Act of God’ destroyed D.C. golf course amid bitter court fight
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ3RYRS11R2JrdlZteGt0cUNTUmtjUmthMnFzR1dXN0NhUUE2VThhWUg2Z09OZEhIUmVJYlhHN3ZzX1A4NG01RXlZUTFyaFd3VXVOeXVKbG5YQmloa2xzWi0ycl92emtRcTJyYTctNDNKV05KMzJsTDNsZ3g1eHN3MGRZdk4wdw?oc=5)
+
+---
+
