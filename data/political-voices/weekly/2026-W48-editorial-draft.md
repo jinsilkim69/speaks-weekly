@@ -14275,3 +14275,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, 한동훈 ‘문건 유출 의혹’ 강제수사…대가성이 처벌 관건 - 한겨레
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, 한동훈 ‘문건 유출 의혹’ 강제수사…대가성이 처벌 관건
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE12d0dsbk1GQzROTW8zNDBSWUJ2VC1XdklfRlBRc0ZmNmtPckdNTUVIdF9qbDBzWXdyS2o4aFpmeXB0QVNBc0tLLXlEZzJOOC14WWZNSHhuNVl6Y2t1UWZqWUU4cjlST01CYktqYXo4TkpKUQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 의원, 법무장관 낙마 김승원 "조선제일 법꾸라지"에 "오빠가 나설 타이밍 아냐" - 사이렌스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 의원, 법무장관 낙마 김승원 "조선제일 법꾸라지"에 "오빠가 나설 타이밍 아냐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qbDVtYlhqQUJzVHg4SWR5Sjc1MC04ZUQ0RFExQ2NtX0hELU43R0YyLXBERUJVZzhOUXI2NlJwT0pCQjk3SUhkOGhZYjdPOWs?oc=5)
+
+---
+

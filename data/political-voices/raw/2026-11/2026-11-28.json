@@ -1423,5 +1423,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "b3b6d79da14b84592dbd01d71cb9be18e2f8945c1a8ed66e25d3eb6f76010983",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "경찰, 한동훈 ‘문건 유출 의혹’ 강제수사…대가성이 처벌 관건 - 한겨레",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE12d0dsbk1GQzROTW8zNDBSWUJ2VC1XdklfRlBRc0ZmNmtPckdNTUVIdF9qbDBzWXdyS2o4aFpmeXB0QVNBc0tLLXlEZzJOOC14WWZNSHhuNVl6Y2t1UWZqWUU4cjlST01CYktqYXo4TkpKUQ?oc=5\" target=\"_blank\">경찰, 한동훈 ‘문건 유출 의혹’ 강제수사…대가성이 처벌 관건</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">한겨레</font>",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12d0dsbk1GQzROTW8zNDBSWUJ2VC1XdklfRlBRc0ZmNmtPckdNTUVIdF9qbDBzWXdyS2o4aFpmeXB0QVNBc0tLLXlEZzJOOC14WWZNSHhuNVl6Y2t1UWZqWUU4cjlST01CYktqYXo4TkpKUQ?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 16:19:00 GMT",
+    "source": "한겨레",
+    "ageHours": 13.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 경찰, 한동훈 ‘문건 유출 의혹’ 강제수사…대가성이 처벌 관건",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "35cc142cbdb3c2295536107ca18c72cf27732752601ac8b5dc11342d02624c54",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "한동훈 의원, 법무장관 낙마 김승원 \"조선제일 법꾸라지\"에 \"오빠가 나설 타이밍 아냐\" - 사이렌스",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qbDVtYlhqQUJzVHg4SWR5Sjc1MC04ZUQ0RFExQ2NtX0hELU43R0YyLXBERUJVZzhOUXI2NlJwT0pCQjk3SUhkOGhZYjdPOWs?oc=5\" target=\"_blank\">한동훈 의원, 법무장관 낙마 김승원 \"조선제일 법꾸라지\"에 \"오빠가 나설 타이밍 아냐\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">사이렌스</font>",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qbDVtYlhqQUJzVHg4SWR5Sjc1MC04ZUQ0RFExQ2NtX0hELU43R0YyLXBERUJVZzhOUXI2NlJwT0pCQjk3SUhkOGhZYjdPOWs?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 03:16:04 GMT",
+    "source": "사이렌스",
+    "ageHours": 2.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈 의원, 법무장관 낙마 김승원 \"조선제일 법꾸라지\"에 \"오빠가 나설 타이밍 아냐\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
