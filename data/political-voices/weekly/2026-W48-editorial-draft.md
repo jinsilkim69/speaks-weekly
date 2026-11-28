@@ -14197,3 +14197,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "할 일은 한다".. 성공 이익 환수 추진 본격화 > 뉴스 - 지데일리
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "할 일은 한다".. 성공 이익 환수 추진 본격화 > 뉴스
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTFBjbHlnVk5EN1dUNUVhbnFnUGgwMk1sakhSUEdzbFphQ25NWDlQakkzdHRPQ0c2cnhqTG04S052NjM0U1paa3FESTYwTmh6b21fWS1KbWpac1Y2S0x5RGtrOVYxX3dRQS1EamM3LQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 "지금이 오빠가 나설 타이밍?"…김승원·경찰 동시 직격 - 매일신문
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 "지금이 오빠가 나설 타이밍?"…김승원·경찰 동시 직격
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzZVRnTFpXdm1udEM1SWh5S1lNLW41ODRtVGVZajh3Y01JVXpoSTdsbUZnT2piX09Ea05UQ2xMZzQyNnpaQzZXRmhvcmlJdGo5dHZKYVAybTJaSFhjdmhTeTRB?oc=5)
+
+---
+
