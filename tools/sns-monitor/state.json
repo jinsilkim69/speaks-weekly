@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T01:01:14.124Z",
+  "lastCheckedAt": "2026-11-28T01:11:13.655Z",
   "seenPostIds": {
-    "52d0b9e058f5f374ff3e69643dda25cc6c582d63984e2acc383f1a24c59f5911": {
-      "seenAt": "2026-11-25T09:11:14.435Z",
-      "title": "김민석, 조희대 대법원장 탄핵 ‘5당 연대’ 공식 제안…신장식, 즉각 환영 - 신문고뉴스",
-      "targetName": "신장식"
-    },
     "7f4a151d04d50b2ea70ebdb974374abcba996a5ea5a7a9190a453bb87adee9d7": {
       "seenAt": "2026-11-25T09:31:16.258Z",
       "title": "\"정청래 '결자해지' 깃발, 김민석 내려오라는 것\" #shorts - 오마이TV - OhmyNews",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-28T01:01:15.422Z",
       "title": "조국 \"주가 반토막에 국민 피눈물…'증시안정펀드' 즉각 추진해야\" - 싱글리스트",
       "targetName": "조국"
+    },
+    "eb3c81725d70eefa0a329e34ccdfb6ad5c41cdf00fec067b80c4f3be41c479ee": {
+      "seenAt": "2026-11-28T01:12:33.971Z",
+      "title": "최민희 중징계 이튿날 친청계 '김민석 사퇴' 집회… 與 계파 갈등 격화 - 대전일보",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "d5f541124f32602628d410000a64f99b217a420f7b27a884369b3d888eb740af",
-    "title": "조국 \"주가 반토막에 국민 피눈물…'증시안정펀드' 즉각 추진해야\" - 싱글리스트",
+    "postId": "eb3c81725d70eefa0a329e34ccdfb6ad5c41cdf00fec067b80c4f3be41c479ee",
+    "title": "최민희 중징계 이튿날 친청계 '김민석 사퇴' 집회… 與 계파 갈등 격화 - 대전일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "46090932973",
-    "sentAt": "2026-11-28T01:01:14.850Z"
+    "runId": "46091794120",
+    "sentAt": "2026-11-28T01:12:33.151Z"
   }
 }
