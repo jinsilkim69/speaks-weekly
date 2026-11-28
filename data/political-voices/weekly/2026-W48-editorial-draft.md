@@ -13963,3 +13963,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 중징계 이튿날 '김민석 사퇴' 집회…확산하는 與 내부 계파 갈등 - 뉴스웍스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 중징계 이튿날 '김민석 사퇴' 집회…확산하는 與 내부 계파 갈등
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1XTU54aEdvUmVLS1dOQVlJR2dBOWJ6MkZybll4TUxzWnNvcmhST1FXY3UzamFuOHpIZTIwNVFMVDFrblNfOGtyMzBiWG9hemtHNnl0YjRsMEF2dERodDl1T0ZtOThqaGlXX21xQnI2RdIBc0FVX3lxTE5qaGpSZ3ctU3k4cGk1TDlSN2pBMHVQSHFlWWplZUxXMzBCTGd0NGZrMzF5QkROdVh4UlloS3o1LTMtU000RGFzTkI3ZDk1NndwSWdSYmpBdjl2cEpIcmN0T3hWNm1FN0pmSXZpczZSWDRLZ1U?oc=5)
+
+---
+

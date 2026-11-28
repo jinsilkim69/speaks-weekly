@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T00:41:14.246Z",
+  "lastCheckedAt": "2026-11-28T00:51:25.090Z",
   "seenPostIds": {
     "93543efb95c03a5b7407359786e01d7bc32fada98ace0607ee9ddba51b6a7362": {
       "seenAt": "2026-11-25T09:01:22.430Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-28T00:31:15.383Z",
       "title": "한동훈 자료 유출 압수수색‥문건 출처 밝히나 - MBC 뉴스",
       "targetName": "한동훈"
+    },
+    "24f25dc5d9e0fa7fa82c74c92909082f22938114109c83648cebdff198186c1e": {
+      "seenAt": "2026-11-28T00:51:27.092Z",
+      "title": "최민희 중징계 이튿날 '김민석 사퇴' 집회…확산하는 與 내부 계파 갈등 - 뉴스웍스",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c531d227de0c6fd051ddc79629ed4c6b650d451b3d1e57ea84acd1a6f6a29483",
-    "title": "한동훈 자료 유출 압수수색‥문건 출처 밝히나 - MBC 뉴스",
+    "postId": "24f25dc5d9e0fa7fa82c74c92909082f22938114109c83648cebdff198186c1e",
+    "title": "최민희 중징계 이튿날 '김민석 사퇴' 집회…확산하는 與 내부 계파 갈등 - 뉴스웍스",
     "bot": "jongsuk_pol_bot",
-    "runId": "46088297322",
-    "sentAt": "2026-11-28T00:31:14.746Z"
+    "runId": "46090074713",
+    "sentAt": "2026-11-28T00:51:26.360Z"
   }
 }
