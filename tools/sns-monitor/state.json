@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T09:11:14.537Z",
+  "lastCheckedAt": "2026-11-28T09:21:15.145Z",
   "seenPostIds": {
     "4a6e72dde15eb744d9886b3843f6459ff51b3dda3fc1ee8385dedc8e78c80f64": {
       "seenAt": "2026-11-25T15:11:16.868Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-28T08:21:14.563Z",
       "title": "이성윤, 최민희 ‘당원권 2년’에 반발…“김민석 징계는 왜 이제야 심사하나 - https://www.newscenterkorea.com/",
       "targetName": "김민석"
+    },
+    "f030138fdb3745d9ba9d5a47a29eb802934d5a26b2bbf9883b4c97fee6149920": {
+      "seenAt": "2026-11-28T09:21:16.550Z",
+      "title": "민주당, 한동훈에 \"수사기밀 유출 의혹 물타기 중단하고 수사받아야\" | - 대전일보",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c4ba0732fc47bed6a0ec2dcadbdcd8fcee7dfd15dbd3e03d20ab628b093e5af4",
-    "title": "이성윤, 최민희 ‘당원권 2년’에 반발…“김민석 징계는 왜 이제야 심사하나 - https://www.newscenterkorea.com/",
+    "postId": "f030138fdb3745d9ba9d5a47a29eb802934d5a26b2bbf9883b4c97fee6149920",
+    "title": "민주당, 한동훈에 \"수사기밀 유출 의혹 물타기 중단하고 수사받아야\" | - 대전일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "46125394545",
-    "sentAt": "2026-11-28T08:21:14.245Z"
+    "runId": "46130050282",
+    "sentAt": "2026-11-28T09:21:16.022Z"
   }
 }

@@ -14535,3 +14535,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 민주당, 한동훈에 "수사기밀 유출 의혹 물타기 중단하고 수사받아야" | - 대전일보
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당, 한동훈에 "수사기밀 유출 의혹 물타기 중단하고 수사받아야" |
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMic0FVX3lxTE5XSXN0Y3N3cFFKMjZSNm5oY1pMVW8tR1JrV2w2cHp4NWFFd3h2SHZtbzZwNDlkMUtDc2hmX3RxTUtsN0c1d2JQdFdvMEYtR2FrZHI2eXl2a244QVBpclFqMmJVOU00alVKckl4TGVKOWFUUVk?oc=5)
+
+---
+
