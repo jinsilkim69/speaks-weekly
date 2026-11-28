@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T19:51:17.380Z",
+  "lastCheckedAt": "2026-11-28T20:01:15.416Z",
   "seenPostIds": {
     "e49122004a09d813043b5d118acdd6adb9bbbafda291c666a63bda5a71a14224": {
       "seenAt": "2026-11-26T02:01:17.373Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-28T19:31:15.476Z",
       "title": "김민석, 최민희 당원권 2년 정지 중징계에 “드릴 말씀 없다” - 쿠키뉴스",
       "targetName": "김민석"
+    },
+    "373898d2cfb5e2ddce23766fb3a5aff611e95361dbfb44a90780714af3a0418d": {
+      "seenAt": "2026-11-28T20:01:16.886Z",
+      "title": "Week in Politics: Trump's Thanksgiving messaging; Congress' pre-holiday to-do list - NPR",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "4448404bd94facef33a9231de15ec2d3828a7cdebd7501a47c39196774b13910",
-    "title": "김민석, 최민희 당원권 2년 정지 중징계에 “드릴 말씀 없다” - 쿠키뉴스",
+    "postId": "373898d2cfb5e2ddce23766fb3a5aff611e95361dbfb44a90780714af3a0418d",
+    "title": "Week in Politics: Trump's Thanksgiving messaging; Congress' pre-holiday to-do list - NPR",
     "bot": "jongsuk_pol_bot",
-    "runId": "46181573225",
-    "sentAt": "2026-11-28T19:31:14.977Z"
+    "runId": "46184138780",
+    "sentAt": "2026-11-28T20:01:16.214Z"
   }
 }
