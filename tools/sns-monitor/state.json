@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-27T23:51:15.885Z",
+  "lastCheckedAt": "2026-11-28T00:01:13.736Z",
   "seenPostIds": {
     "ab4be9fc8e2f2a3a22da381ed3a96b31981420fdca64f3df2c8f4357e7dc6581": {
       "seenAt": "2026-11-25T08:41:21.677Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-27T23:41:17.088Z",
       "title": "'강적들' 김재섭 \"강금실 카드, 똥차 가고 폐차 왔다\"...천하람 \"鄭, 최민희에 부글부글\" - 싱글리스트",
       "targetName": "천하람"
+    },
+    "5e96371aac34e4b3bfed9c08b042b6dbf54bfbadbc289906ce32e36ab36b9e50": {
+      "seenAt": "2026-11-28T00:01:14.839Z",
+      "title": "이재명 대통령 \"폭언·욕설하면 차단한다\"...SNS 계정 차단 공개 언급 | - 더퍼블릭",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "622d222ae53a6aa021ad52991ddfb05c6984b8da07f62eb7b1b586c357653769",
-    "title": "'강적들' 김재섭 \"강금실 카드, 똥차 가고 폐차 왔다\"...천하람 \"鄭, 최민희에 부글부글\" - 싱글리스트",
+    "postId": "5e96371aac34e4b3bfed9c08b042b6dbf54bfbadbc289906ce32e36ab36b9e50",
+    "title": "이재명 대통령 \"폭언·욕설하면 차단한다\"...SNS 계정 차단 공개 언급 | - 더퍼블릭",
     "bot": "jongsuk_pol_bot",
-    "runId": "46083842511",
-    "sentAt": "2026-11-27T23:41:16.722Z"
+    "runId": "46085596894",
+    "sentAt": "2026-11-28T00:01:14.321Z"
   }
 }
