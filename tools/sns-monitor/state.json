@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T18:31:17.077Z",
+  "lastCheckedAt": "2026-11-28T18:41:12.365Z",
   "seenPostIds": {
-    "9e743cce7e36d2ec9eca4a4fcbaf8db3ba5fe1ce8ab75c4cdffc1fe15723ed4c": {
-      "seenAt": "2026-11-26T01:51:15.684Z",
-      "title": "조갑제 “국민 속인 장동혁 자진사퇴”… 김성태 “한동훈, 법적 판단 구해야” - 아이엠피터뉴스",
-      "targetName": "한동훈"
-    },
     "ee1f8df3a17cc02b79f17bbddc88e35bba697fe67db8f18b7261f493a79ff74b": {
       "seenAt": "2026-11-26T01:51:16.336Z",
       "title": "천하람 “조희대 탄핵, 비상계엄 못잖은 미친 짓”…민주당·정부 정책 맹비난 - 매일경제",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-28T18:31:18.409Z",
       "title": "Trump backs Iraqi leader’s efforts to curb oil-smuggling - アラブニュース",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "be21beeda582b7a2a4f2e1177a82e35bb2819f3df138ffc4c2bf45159bea2938": {
+      "seenAt": "2026-11-28T18:41:13.671Z",
+      "title": "‘God must have been watching’: Trump uses flooded DC golf course to argue for his stalled renovations - The Independent",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "c2f6e6f7d221d54dca4ca3c8f889aef7da00cda4781e8703d0a9dd0612046159",
-    "title": "Trump backs Iraqi leader’s efforts to curb oil-smuggling - アラブニュース",
+    "postId": "be21beeda582b7a2a4f2e1177a82e35bb2819f3df138ffc4c2bf45159bea2938",
+    "title": "‘God must have been watching’: Trump uses flooded DC golf course to argue for his stalled renovations - The Independent",
     "bot": "jongsuk_pol_bot",
-    "runId": "46176279887",
-    "sentAt": "2026-11-28T18:31:17.892Z"
+    "runId": "46177173407",
+    "sentAt": "2026-11-28T18:41:13.025Z"
   }
 }

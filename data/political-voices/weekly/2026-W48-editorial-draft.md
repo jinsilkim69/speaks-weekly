@@ -15172,3 +15172,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** ‘God must have been watching’: Trump uses flooded DC golf course to argue for his stalled renovations - The Independent
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘God must have been watching’: Trump uses flooded DC golf course to argue for his stalled renovations
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMisgFBVV95cUxQU2xxWE1OSTB6VUJndk9NelR3d3FhdHVoSW94OUYyV3BCRTlGUkpDU1pUU3BiX0U4QTlocXhfM243SEpmMmhQQS1Kdk1PaDhZcFprcW54d1hqZWIwdkM3OE15b182MGgyeW9IcmdtbjZrLXo4NTNhWWRHTDFXLVF5QW9naUszb0kwTWZHbjhXLU9IYkVwZmd5el9UbzY4SnBVcXpSd2Z0VFNSNzk0V1A5MmZ3?oc=5)
+
+---
+
