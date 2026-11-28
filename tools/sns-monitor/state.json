@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T15:03:45.950Z",
+  "lastCheckedAt": "2026-11-28T15:11:20.556Z",
   "seenPostIds": {
     "8c333e9ae31a83cf5c4a3da9a4ae399f3dcdddb544377b6a30d6563b572c55dc": {
       "seenAt": "2026-11-26T00:31:14.611Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-28T14:41:16.205Z",
       "title": "신장식 “민주당이 개혁정당? 합당 안 하길 잘했다는 당원·지지자 많아” - 주간경향",
       "targetName": "신장식"
+    },
+    "d1ccc3f5d0fd36915866af6cc047bd8e3343dc059ab1dfba83ab5877321cbdbb": {
+      "seenAt": "2026-11-28T15:11:22.455Z",
+      "title": "민주당 “27일 최민희 당원권 정지 2년” 반발 ‘친정청래계 28일 국회 앞 김 대표 사퇴 요구 집회’ - 에브리뉴스 EveryNews",
+      "targetName": "정청래"
+    },
+    "2f2e64806005539716a950baf210a3fbc329ea983fb291e29feab91ceb04ff0d": {
+      "seenAt": "2026-11-28T15:11:23.257Z",
+      "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance – Keystone XL Back in Spotlight - EnergyNow.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "8725c67ff982e1bf75ec87d4695686ff9631f64add7ebf57d92c890fd88a8a5b",
-    "title": "신장식 “민주당이 개혁정당? 합당 안 하길 잘했다는 당원·지지자 많아” - 주간경향",
+    "postId": "2f2e64806005539716a950baf210a3fbc329ea983fb291e29feab91ceb04ff0d",
+    "title": "Trump Pauses 50% Tariffs on Canada as Trade Talks Advance – Keystone XL Back in Spotlight - EnergyNow.com",
     "bot": "jongsuk_pol_bot",
-    "runId": "46155911545",
-    "sentAt": "2026-11-28T14:41:15.812Z"
+    "runId": "46158502517",
+    "sentAt": "2026-11-28T15:11:22.857Z"
   }
 }

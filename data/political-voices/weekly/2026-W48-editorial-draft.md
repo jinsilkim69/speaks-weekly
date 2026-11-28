@@ -15003,3 +15003,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 민주당 “27일 최민희 당원권 정지 2년” 반발 ‘친정청래계 28일 국회 앞 김 대표 사퇴 요구 집회’ - 에브리뉴스 EveryNews
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당 “27일 최민희 당원권 정지 2년” 반발 ‘친정청래계 28일 국회 앞 김 대표 사퇴 요구 집회’
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1UOHJzVmwtNUVmaXNfbFcyS081RHY3dk1wdGZIcTh6aWlpQVc5Q3NjR1Z0bG1wSmd5RHA3ZjVhNTlDdGpaV2N1MHNCbV9hdDJBajZ4cEpMZThIU09DaW1aSFR6WlZjbWY3a1RIaDNR?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Pauses 50% Tariffs on Canada as Trade Talks Advance – Keystone XL Back in Spotlight - EnergyNow.com
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Pauses 50% Tariffs on Canada as Trade Talks Advance – Keystone XL Back in Spotlight
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFRxaTROTkdRdkg1ZXl3WFdSMEtPQ2M3b0xZdTdtU0tUTUxFelBQTXNFTVp2dzVmLU1VSGZKWWxXZUNZd1pqcVdWT1F3LXJTa25qUDZ1aGFVdjYtcGgwYnVaUmEycTJzLU92OWNoWkhGTzBnU2J4aDExc20wU2NUUklWcDRSWmVhVk9IZ3poOVhLeFFKZ1pMMGxrUlZ1eFBfX0dtMk9ZZUV0aUhROVFrSnk2cVdUeDJX?oc=5)
+
+---
+
