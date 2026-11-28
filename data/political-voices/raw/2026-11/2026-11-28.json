@@ -898,5 +898,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "81c87fd8acc6a185e08a8de2e0a01207907aa8b3548347f74b12d51e4aa05195",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "최민희 징계에 오늘 김민석 사퇴 집회...국힘, 대전서 장외투쟁 - YTN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lWHpvd2NEelRvdDllaVc0Tjc4TFltaThiaWtSUTBIZmNGdFI1UmQ0Z2V6UlNkdjN3RHhsdThGQ09vNC02VElneGxKck93eTNpTDdqY3ZFbGR5ZUhMcnc?oc=5\" target=\"_blank\">최민희 징계에 오늘 김민석 사퇴 집회...국힘, 대전서 장외투쟁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lWHpvd2NEelRvdDllaVc0Tjc4TFltaThiaWtSUTBIZmNGdFI1UmQ0Z2V6UlNkdjN3RHhsdThGQ09vNC02VElneGxKck93eTNpTDdqY3ZFbGR5ZUhMcnc?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 00:56:00 GMT",
+    "source": "YTN",
+    "ageHours": 0.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 최민희 징계에 오늘 김민석 사퇴 집회...국힘, 대전서 장외투쟁",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "bb4900683010f97e634698fd15b06aa5100b70733cc92ce6b16bb4507a21c9d0",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 “성장률 4.1% 전망에도 주가는 반토막... 정부는 '이 제도' 즉각 추진해야” 촉구 - 위키트리",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE14QWJZWGpyeXo1c1NyWkdSOVZERDZWd3JlUGpvdHJXeW1mWEc3VS1SNW5OZktjaVlYeExmcnM2VmVmdUdnUFVoSVY0eTViSVpzZlZXNE53?oc=5\" target=\"_blank\">조국 “성장률 4.1% 전망에도 주가는 반토막... 정부는 '이 제도' 즉각 추진해야” 촉구</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">위키트리</font>",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14QWJZWGpyeXo1c1NyWkdSOVZERDZWd3JlUGpvdHJXeW1mWEc3VS1SNW5OZktjaVlYeExmcnM2VmVmdUdnUFVoSVY0eTViSVpzZlZXNE53?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 07:32:00 GMT",
+    "source": "위키트리",
+    "ageHours": 18,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 “성장률 4.1% 전망에도 주가는 반토막... 정부는 '이 제도' 즉각 추진해야” 촉구",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

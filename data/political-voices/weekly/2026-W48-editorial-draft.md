@@ -14002,3 +14002,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 징계에 오늘 김민석 사퇴 집회...국힘, 대전서 장외투쟁 - YTN
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 징계에 오늘 김민석 사퇴 집회...국힘, 대전서 장외투쟁
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lWHpvd2NEelRvdDllaVc0Tjc4TFltaThiaWtSUTBIZmNGdFI1UmQ0Z2V6UlNkdjN3RHhsdThGQ09vNC02VElneGxKck93eTNpTDdqY3ZFbGR5ZUhMcnc?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국 “성장률 4.1% 전망에도 주가는 반토막... 정부는 '이 제도' 즉각 추진해야” 촉구 - 위키트리
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국 “성장률 4.1% 전망에도 주가는 반토막... 정부는 '이 제도' 즉각 추진해야” 촉구
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE14QWJZWGpyeXo1c1NyWkdSOVZERDZWd3JlUGpvdHJXeW1mWEc3VS1SNW5OZktjaVlYeExmcnM2VmVmdUdnUFVoSVY0eTViSVpzZlZXNE53?oc=5)
+
+---
+
