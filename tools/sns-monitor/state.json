@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T07:21:13.075Z",
+  "lastCheckedAt": "2026-11-28T07:31:14.021Z",
   "seenPostIds": {
-    "2521983b5d2bc1d5c243fd925e964dab6317050f8cc8be4d0b4e48345538f1bd": {
-      "seenAt": "2026-11-25T13:51:21.248Z",
-      "title": "신장식, 창원지법 판사들 '曺 탄핵' 우려에 \"논리적 오류 점철\" - 뉴스1",
-      "targetName": "신장식"
-    },
-    "feafbe754ebcc2cf435afd56859d71470cc77a109b906ef69bf4b2d79532f1e2": {
-      "seenAt": "2026-11-25T14:11:25.814Z",
-      "title": "이재명 대통령, 은평서 공적주택 현장 간담회 가져 - LG헬로비전",
-      "targetName": "이재명"
-    },
-    "ce3e338f1590d6de8ad82cc34f511113841d43d3edf3f9a2330e187a4b1dcfbb": {
-      "seenAt": "2026-11-25T14:11:26.622Z",
-      "title": "인사 나누는 조국 연구원장-신장식 대표 - 뉴시스",
-      "targetName": "신장식"
-    },
     "c27f4f536c702316f7e5c10cc1547b4a8780aee6afa56d9830683011a35f1aa2": {
       "seenAt": "2026-11-25T14:31:22.790Z",
       "title": "[김종석의 왜]송영길-정청래 또 설전…“입조심 하라” - 채널A",
@@ -2515,14 +2500,19 @@
       "seenAt": "2026-11-28T07:21:15.665Z",
       "title": "최민희 징계에 내홍 고조...한동훈, 내일 기자회견 - YTN",
       "targetName": "한동훈"
+    },
+    "ee13960247f2bb9b66e003b18460924f0fe0e5f92686520fd33bc26240a83b19": {
+      "seenAt": "2026-11-28T07:31:15.377Z",
+      "title": "최민희 징계에 내홍 고조...한동훈, 내일 기자회견 - YTN",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "5289e95205b30acbf2bab8f31f1f4ba44e3bc52cd0fab2bf20fddfa81966caab",
+    "postId": "ee13960247f2bb9b66e003b18460924f0fe0e5f92686520fd33bc26240a83b19",
     "title": "최민희 징계에 내홍 고조...한동훈, 내일 기자회견 - YTN",
     "bot": "jongsuk_pol_bot",
-    "runId": "46120794106",
-    "sentAt": "2026-11-28T07:21:15.319Z"
+    "runId": "46121557202",
+    "sentAt": "2026-11-28T07:31:14.698Z"
   }
 }
