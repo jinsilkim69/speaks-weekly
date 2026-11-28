@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T06:01:21.249Z",
+  "lastCheckedAt": "2026-11-28T06:11:14.971Z",
   "seenPostIds": {
     "cf8518fddbe9eff09536c8a78f3b7b692b926d5cbdf024310aa89414421a0f10": {
       "seenAt": "2026-11-25T12:21:17.122Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-28T05:51:15.299Z",
       "title": "‘직 건다’는 한동훈에…박지원 “나가면 국힘 의원들 박수” - 한겨레",
       "targetName": "한동훈"
+    },
+    "1779710b870b0bffaff5c71f60048f44aec5ee0f6ba5ff50afa0ffabd0b81b5a": {
+      "seenAt": "2026-11-28T06:11:16.128Z",
+      "title": "이재명 대통령, 최휘영 '기습 교체 통보' 보도 정정 요구…\"객관적 사실에 맞춰\" - 국제뉴스",
+      "targetName": "이재명"
+    },
+    "f6ae4f335c71de6317be2d8b86ce1e7c047683f91325f05153108d7707caaf9f": {
+      "seenAt": "2026-11-28T06:11:16.742Z",
+      "title": "[단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란 - 시사타파NEWS",
+      "targetName": "송영길"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "857736ebc7a858e4068d0486d5e5320045daa2de6035d3333e2fc29993bf7723",
-    "title": "‘직 건다’는 한동훈에…박지원 “나가면 국힘 의원들 박수” - 한겨레",
+    "postId": "f6ae4f335c71de6317be2d8b86ce1e7c047683f91325f05153108d7707caaf9f",
+    "title": "[단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란 - 시사타파NEWS",
     "bot": "jongsuk_pol_bot",
-    "runId": "46113943458",
-    "sentAt": "2026-11-28T05:51:14.962Z"
+    "runId": "46115419214",
+    "sentAt": "2026-11-28T06:11:16.433Z"
   }
 }

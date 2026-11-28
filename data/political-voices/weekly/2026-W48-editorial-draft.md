@@ -14340,3 +14340,29 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 최휘영 '기습 교체 통보' 보도 정정 요구…"객관적 사실에 맞춰" - 국제뉴스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 최휘영 '기습 교체 통보' 보도 정정 요구…"객관적 사실에 맞춰"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE9HNUxabTg4LUU4M0hWb0F1NVkzQ1ZLcHpPdzRlMkZuUGtodWJqWWx1VE1MVTRab1ZYSU1mT3NGU0FEMkNYeVFBZzd6dTB1RUN3RXdCYk1jZHdOdlAxMkdIRndSdDI2aWNzVVdIS01B?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** [단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란 - 시사타파NEWS
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1THZyYmJLc1RnRXVJZTRGQzEyVEpMMEZRQ3JDX1VjcDJPT2FnUXd6aXVtb3VoajdOTk5wYXJyQkNzSnRzQ3ROSlVkeGMtSUV4RmN1SHdCRHhFVENuSWNiaFZB?oc=5)
+
+---
+
