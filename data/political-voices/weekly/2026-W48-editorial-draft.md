@@ -14158,3 +14158,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 중징계에 김민석 사퇴 집회까지…민주당 내홍 격화 - 서울경제
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 중징계에 김민석 사퇴 집회까지…민주당 내홍 격화
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqdnY4OS1uNWlPT3NfZGN2TE84RGozbnM5YllMdnk2R1Z5dUsyWHRYMFE5Y094bGlYV0RlR2JXamdWd3ppcnM1MURIbE80MjFRQ0HSAVNBVV95cUxOaFdjSHYwLWdBRUdJSjBJZkcweUE5bnF4TDhJOWZ3NkhKX2RiOEs2NEtNMVF1SElwX0xCTVBEb3ZrS3d0c21yVXhkVjJXRTZFZXJZbw?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 "민주당이 개혁정당인가? '합당 안 하길 잘했다' 여론 많아" - 프레시안
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 "민주당이 개혁정당인가? '합당 안 하길 잘했다' 여론 많아"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE44LVV0Wk16SG9VQnFJajNEdklxNGJLYmhWYUR1SDVrU1lUZlBXSTBmQW1wYm9laF9Wd3lTNGlWeV9VWXpjM3oxOU9WU1FiSk12ZVlUNGF2TUF6c0RXYVpXU0M5TzJlNWdaX05v?oc=5)
+
+---
+
