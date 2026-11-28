@@ -1098,5 +1098,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "812209f33af53cc02c957ea2972f074a5d0843f53cdc13388f2b5e26378940fb",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "[정치] 김민석 민주당 대표, 10월 초 지지율 하락세 진정 판단 - 콜뉴스24",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZZW15bU9Rd202YjFXX0tqVlhuZWo4UUpyeWtUNUtRT0l1NWlTeTF5bUdLWVhyWXFlU09uTnA3clBIVjQ4VFFUenJrbUg4Q0lhbUowYXoyLXNFZjlJTE9wQm1Od2xlZlo3OWhFUA?oc=5\" target=\"_blank\">[정치] 김민석 민주당 대표, 10월 초 지지율 하락세 진정 판단</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">콜뉴스24</font>",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZZW15bU9Rd202YjFXX0tqVlhuZWo4UUpyeWtUNUtRT0l1NWlTeTF5bUdLWVhyWXFlU09uTnA3clBIVjQ4VFFUenJrbUg4Q0lhbUowYXoyLXNFZjlJTE9wQm1Od2xlZlo3OWhFUA?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 23:47:20 GMT",
+    "source": "콜뉴스24",
+    "ageHours": 2.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석 민주당 대표, 10월 초 지지율 하락세 진정 판단",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
