@@ -14977,3 +14977,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 중징계에 “특별히 할 말 없다”…당내 계파 갈등 확산 - 공감신문
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 중징계에 “특별히 할 말 없다”…당내 계파 갈등 확산
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pZ2VBcm1xbmNxbFFLWU1jVnVqWWNjMzF0S082dERGQnN0MV83ejN3OWhIOHcyMWZRYWEyM0RBRTBfSkJpVnRMdWRKSlNkWUlaOXkzNV9JYWFPZDBTanBWSmJwODlMQl80?oc=5)
+
+---
+
+## [검색 후보] 신장식 (직함 확인 필요)
+**기사 제목:** 신장식 “민주당이 개혁정당? 합당 안 하길 잘했다는 당원·지지자 많아” - 주간경향
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 신장식 “민주당이 개혁정당? 합당 안 하길 잘했다는 당원·지지자 많아”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OX0R3dS1sY0N2M2x0OXg4S0xYS3NMQWpjVHlDXzQ1S0wwelZfSW5zZWRjaUJyLXAzRGZwdHlyYXIza0tRanBkN1JLem5sbDdRcVR1NlNsRXQzR1pSM2c?oc=5)
+
+---
+

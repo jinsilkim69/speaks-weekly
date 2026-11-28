@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T14:31:14.128Z",
+  "lastCheckedAt": "2026-11-28T14:41:14.128Z",
   "seenPostIds": {
     "cdd1f4e67c7219816a1d1f5a7562b35ab65d4cda2a6893bf6208bf21d773a5ab": {
       "seenAt": "2026-11-26T00:11:15.609Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-28T14:11:14.914Z",
       "title": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "c5488ea326083747ec33e772c2c2804aa3f14b1f34fae0bdc4c24bb5737d6147": {
+      "seenAt": "2026-11-28T14:41:15.469Z",
+      "title": "김민석, 최민희 중징계에 “특별히 할 말 없다”…당내 계파 갈등 확산 - 공감신문",
+      "targetName": "김민석"
+    },
+    "8725c67ff982e1bf75ec87d4695686ff9631f64add7ebf57d92c890fd88a8a5b": {
+      "seenAt": "2026-11-28T14:41:16.205Z",
+      "title": "신장식 “민주당이 개혁정당? 합당 안 하길 잘했다는 당원·지지자 많아” - 주간경향",
+      "targetName": "신장식"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "6a536f25e5d2bf9fc21d892cd7d6ed0d15cfb3c94ad3cffb5479a1d31998087e",
-    "title": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "postId": "8725c67ff982e1bf75ec87d4695686ff9631f64add7ebf57d92c890fd88a8a5b",
+    "title": "신장식 “민주당이 개혁정당? 합당 안 하길 잘했다는 당원·지지자 많아” - 주간경향",
     "bot": "jongsuk_pol_bot",
-    "runId": "46153332586",
-    "sentAt": "2026-11-28T14:11:14.587Z"
+    "runId": "46155911545",
+    "sentAt": "2026-11-28T14:41:15.812Z"
   }
 }
