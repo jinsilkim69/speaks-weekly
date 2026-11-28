@@ -498,5 +498,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "299d31531c9852dc0a636d77abbdcb7cb6685a9fba7b0971bbd2a52f81f5906a",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump calls flooded DC golf course an ‘Act of God’ in push for makeover - New York Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbUdOX1RrekFUR2hya3ZqMWVLOWJ6RUZBWjdlWEM0QnE0U2p5a2J3SktYMXJIRHlrUWhLMFd2TDNTNVoxX0wybjVqV0VzM1F4X1p6bjVOZ2puZC1sX2dkRnRwZ0luamgwcmZJY1ZHaktOWWxaSVJzLWZ6YTZ4YjBOakdJOVlFVE42aUpUU1dBa3JDLU81V2xTa0s5VXpxOFlVSFU5bWRBdDNhUzFoNWxjaFFGajR5VjczMXZEVjdDYnlZQnduelhCNHc5SERZX0psM01ZSTlXc2dGVFBhamdfV25tcjRmaml6Y0F6TjJB?oc=5\" target=\"_blank\">Trump calls flooded DC golf course an ‘Act of God’ in push for makeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbUdOX1RrekFUR2hya3ZqMWVLOWJ6RUZBWjdlWEM0QnE0U2p5a2J3SktYMXJIRHlrUWhLMFd2TDNTNVoxX0wybjVqV0VzM1F4X1p6bjVOZ2puZC1sX2dkRnRwZ0luamgwcmZJY1ZHaktOWWxaSVJzLWZ6YTZ4YjBOakdJOVlFVE42aUpUU1dBa3JDLU81V2xTa0s5VXpxOFlVSFU5bWRBdDNhUzFoNWxjaFFGajR5VjczMXZEVjdDYnlZQnduelhCNHc5SERZX0psM01ZSTlXc2dGVFBhamdfV25tcjRmaml6Y0F6TjJB?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 20:13:00 GMT",
+    "source": "New York Post",
+    "ageHours": 0.1,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump calls flooded DC golf course an ‘Act of God’ in push for makeover",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "6220fe6ca00689e8fad50f0420591980fa3db08beccdfe092f3e849064e73f58",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump calls flooded DC golf course an ‘act of God’ while pressuring judge for makeover - New York Post",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWpyd3BmdG5abXlZa3MwbnhxZExyeHl4TklvWld3QnR6QWtFaWQtLXRKc0NiQm5qYzR4SFZWanl0cllQZWFTZnBRUVRPT2xfcm5mT3VpeFdQbGRwRzRQMllCbzBkOGVsT0ExVXRwaXVKYW0tSnhTOTRIZG1MZ016SklZWmJOeDAyRUxFVkI1VjQ2RWRZcjBqOTRka3JpVXZDVVdLbGJQbENvOTRJUHAza3hwQzRRV1RG?oc=5\" target=\"_blank\">Trump calls flooded DC golf course an ‘act of God’ while pressuring judge for makeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWpyd3BmdG5abXlZa3MwbnhxZExyeHl4TklvWld3QnR6QWtFaWQtLXRKc0NiQm5qYzR4SFZWanl0cllQZWFTZnBRUVRPT2xfcm5mT3VpeFdQbGRwRzRQMllCbzBkOGVsT0ExVXRwaXVKYW0tSnhTOTRIZG1MZ016SklZWmJOeDAyRUxFVkI1VjQ2RWRZcjBqOTRka3JpVXZDVVdLbGJQbENvOTRJUHAza3hwQzRRV1RG?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 20:13:00 GMT",
+    "source": "New York Post",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump calls flooded DC golf course an ‘act of God’ while pressuring judge for makeover",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

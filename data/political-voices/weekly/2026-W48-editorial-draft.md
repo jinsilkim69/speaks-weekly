@@ -15263,3 +15263,29 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump calls flooded DC golf course an ‘Act of God’ in push for makeover - New York Post
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump calls flooded DC golf course an ‘Act of God’ in push for makeover
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbUdOX1RrekFUR2hya3ZqMWVLOWJ6RUZBWjdlWEM0QnE0U2p5a2J3SktYMXJIRHlrUWhLMFd2TDNTNVoxX0wybjVqV0VzM1F4X1p6bjVOZ2puZC1sX2dkRnRwZ0luamgwcmZJY1ZHaktOWWxaSVJzLWZ6YTZ4YjBOakdJOVlFVE42aUpUU1dBa3JDLU81V2xTa0s5VXpxOFlVSFU5bWRBdDNhUzFoNWxjaFFGajR5VjczMXZEVjdDYnlZQnduelhCNHc5SERZX0psM01ZSTlXc2dGVFBhamdfV25tcjRmaml6Y0F6TjJB?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump calls flooded DC golf course an ‘act of God’ while pressuring judge for makeover - New York Post
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump calls flooded DC golf course an ‘act of God’ while pressuring judge for makeover
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWpyd3BmdG5abXlZa3MwbnhxZExyeHl4TklvWld3QnR6QWtFaWQtLXRKc0NiQm5qYzR4SFZWanl0cllQZWFTZnBRUVRPT2xfcm5mT3VpeFdQbGRwRzRQMllCbzBkOGVsT0ExVXRwaXVKYW0tSnhTOTRIZG1MZ016SklZWmJOeDAyRUxFVkI1VjQ2RWRZcjBqOTRka3JpVXZDVVdLbGJQbENvOTRJUHAza3hwQzRRV1RG?oc=5)
+
+---
+

@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T20:21:14.164Z",
+  "lastCheckedAt": "2026-11-28T20:31:13.720Z",
   "seenPostIds": {
-    "982ce73cb60a185d4ad015a8f054ac5b2db412c613550a593ac2d99e00a812be": {
-      "seenAt": "2026-11-26T02:11:14.284Z",
-      "title": "송영길 “대통령, 정청래 4시간 다독여” VS 정청래 “본인 편한대로 발설, 새털처럼 가벼워” - 주간경향",
-      "targetName": "정청래"
-    },
-    "85f39f4e641a76dce0b08235dabc2c192cdbd29da59c20b703cbe31d82b3206e": {
-      "seenAt": "2026-11-26T02:11:14.959Z",
-      "title": "천하람 “與 조희대 탄핵, 尹 비상계엄 못지않은 미친 짓” - 서울신문",
-      "targetName": "천하람"
-    },
-    "935f6c8aaa91d8220e69d9afd254b36eb350a2101d0c254ee67b39508a17f85d": {
-      "seenAt": "2026-11-26T02:11:15.735Z",
-      "title": "\"내란 인정하라고 지X 지X\"…조국, 김태규에 \"판사 출신 의원의 발언\" 지적 - 뉴시스",
-      "targetName": "조국"
-    },
     "12a95b438755c47a94ed3a6348b7de7097bb5f5877d932bfce43b1b19981508c": {
       "seenAt": "2026-11-26T02:21:17.128Z",
       "title": "조국 [공공기관 이전 부지에 공공주택 짓자…-제2의 무상급식-으로] - 매일경제",
@@ -2515,31 +2500,24 @@
       "seenAt": "2026-11-28T20:21:17.488Z",
       "title": "Donald Trump says ‘Act of God’ destroyed D.C. golf course amid bitter court fight - Yahoo Sports",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "299d31531c9852dc0a636d77abbdcb7cb6685a9fba7b0971bbd2a52f81f5906a": {
+      "seenAt": "2026-11-28T20:31:15.027Z",
+      "title": "Trump calls flooded DC golf course an ‘Act of God’ in push for makeover - New York Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "6220fe6ca00689e8fad50f0420591980fa3db08beccdfe092f3e849064e73f58": {
+      "seenAt": "2026-11-28T20:31:15.668Z",
+      "title": "Trump calls flooded DC golf course an ‘act of God’ while pressuring judge for makeover - New York Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "299d31531c9852dc0a636d77abbdcb7cb6685a9fba7b0971bbd2a52f81f5906a",
-        "targetId": "donald_trump",
-        "targetName": "도널드 트럼프 (Donald Trump)",
-        "targetTitle": "미국 대통령",
-        "title": "Trump calls flooded DC golf course an ‘Act of God’ in push for makeover - New York Post",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbUdOX1RrekFUR2hya3ZqMWVLOWJ6RUZBWjdlWEM0QnE0U2p5a2J3SktYMXJIRHlrUWhLMFd2TDNTNVoxX0wybjVqV0VzM1F4X1p6bjVOZ2puZC1sX2dkRnRwZ0luamgwcmZJY1ZHaktOWWxaSVJzLWZ6YTZ4YjBOakdJOVlFVE42aUpUU1dBa3JDLU81V2xTa0s5VXpxOFlVSFU5bWRBdDNhUzFoNWxjaFFGajR5VjczMXZEVjdDYnlZQnduelhCNHc5SERZX0psM01ZSTlXc2dGVFBhamdfV25tcjRmaml6Y0F6TjJB?oc=5\" target=\"_blank\">Trump calls flooded DC golf course an ‘Act of God’ in push for makeover</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbUdOX1RrekFUR2hya3ZqMWVLOWJ6RUZBWjdlWEM0QnE0U2p5a2J3SktYMXJIRHlrUWhLMFd2TDNTNVoxX0wybjVqV0VzM1F4X1p6bjVOZ2puZC1sX2dkRnRwZ0luamgwcmZJY1ZHaktOWWxaSVJzLWZ6YTZ4YjBOakdJOVlFVE42aUpUU1dBa3JDLU81V2xTa0s5VXpxOFlVSFU5bWRBdDNhUzFoNWxjaFFGajR5VjczMXZEVjdDYnlZQnduelhCNHc5SERZX0psM01ZSTlXc2dGVFBhamdfV25tcjRmaml6Y0F6TjJB?oc=5",
-        "pubDate": "Sat, 28 Nov 2026 20:13:00 GMT",
-        "source": "New York Post",
-        "ageHours": 0.1
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3450bc22a860c4b1e1a85e644b198fc13ab50a3b3c62bdf3a0faf1eb70d83b57",
-    "title": "Donald Trump says ‘Act of God’ destroyed D.C. golf course amid bitter court fight - Yahoo Sports",
+    "postId": "6220fe6ca00689e8fad50f0420591980fa3db08beccdfe092f3e849064e73f58",
+    "title": "Trump calls flooded DC golf course an ‘act of God’ while pressuring judge for makeover - New York Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "46185930629",
-    "sentAt": "2026-11-28T20:21:16.441Z"
+    "runId": "46186798731",
+    "sentAt": "2026-11-28T20:31:15.340Z"
   }
 }
