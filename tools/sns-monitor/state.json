@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T17:11:18.444Z",
+  "lastCheckedAt": "2026-11-28T17:21:15.241Z",
   "seenPostIds": {
     "82735bf15f9c07c309880255588a9f9df57395f195d56f774f04b34814bf2ffe": {
       "seenAt": "2026-11-26T01:31:21.841Z",
@@ -2500,14 +2500,29 @@
       "seenAt": "2026-11-28T17:01:15.906Z",
       "title": "Trump Says ‘Act of God’ Destroyed Golf Course at Center of Legal Battle - Newsweek",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "2197d45d6f5240a0bb623e7126fbedcf8d2a006078e280be9ce57fcc46f0e098": {
+      "seenAt": "2026-11-28T17:21:16.644Z",
+      "title": "[포토]허태수 GS 회장과 대화하는 이재명 대통령 - 전자신문",
+      "targetName": "이재명"
+    },
+    "f84e1b44d80cfa469965cb933b9ebe2c9041b0791fda5c51ae8604bf4cfab326": {
+      "seenAt": "2026-11-28T17:21:17.398Z",
+      "title": "Trump Claims Storm Wiped Out D.C.'s East Potomac Golf Course, Urges Judge To Let Redevelopment Proceed - Yahoo News New Zealand",
+      "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "275632ec1d326aebdd10623a2aa00419042e66b3349a62bc6760e17991e22a22": {
+      "seenAt": "2026-11-28T17:21:18.158Z",
+      "title": "Trump blasts liberals, immigrants in combative Thanksgiving message | Daily Sabah - Daily Sabah",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "44ab10c6cabf2c2512d7c8062efd229b76af524b6c4fa033584f6edfbb653c88",
-    "title": "Trump Says ‘Act of God’ Destroyed Golf Course at Center of Legal Battle - Newsweek",
+    "postId": "275632ec1d326aebdd10623a2aa00419042e66b3349a62bc6760e17991e22a22",
+    "title": "Trump blasts liberals, immigrants in combative Thanksgiving message | Daily Sabah - Daily Sabah",
     "bot": "jongsuk_pol_bot",
-    "runId": "46168197300",
-    "sentAt": "2026-11-28T17:01:15.249Z"
+    "runId": "46169997051",
+    "sentAt": "2026-11-28T17:21:17.778Z"
   }
 }

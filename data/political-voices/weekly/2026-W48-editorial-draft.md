@@ -15107,3 +15107,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [포토]허태수 GS 회장과 대화하는 이재명 대통령 - 전자신문
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 허태수 GS 회장과 대화하는 이재명 대통령
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OUU1oRXRmRWJITlE1OGtfVzRyU1EzTDV0YUVTTGVCaG92MnA5TjJ0aG1YcGtsMDVqS3phLWhqTklfcDAtOC1Bb3pIN05hdw?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump Claims Storm Wiped Out D.C.'s East Potomac Golf Course, Urges Judge To Let Redevelopment Proceed - Yahoo News New Zealand
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump Claims Storm Wiped Out D.C.'s East Potomac Golf Course, Urges Judge To Let Redevelopment Proceed
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidkFVX3lxTFBfbG1BMDN5eTk5ZDJGWE5NalhQWmU0aDBBSFFNa0VNVEZ1SVhvSnV0Q0NLenotSjlzOVczQ3NtV1ZISlN6RGN5NDVCN2p0djRNRmE0RVgzVVBSc2IzWk1JbW1IR0Vib3Q4V0dtQXU2OG5LOUhNWWc?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump blasts liberals, immigrants in combative Thanksgiving message | Daily Sabah - Daily Sabah
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump blasts liberals, immigrants in combative Thanksgiving message | Daily Sabah
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjRwWGhRaFVMQnZRN2FLWUpsQjNqVU1xdnhwNUtiZWVuUENmTVVhNGNVTWpuX1VvZ3pQYjB6WFNpWTNpSmRoUEpoTi0yRVJYenFMX1F6czlKX3ZTZHAwMVpqcURSNnh6OXZMeERfWFBMWGRpOEs5NEFuVmJBVl9aMlc4RXNSVkFacld1NVVoVUZ1dEh4aC1UM0p1Wk1BYVhyaVBINkk3ZEdOekVnSmRBd1pB0gGyAUFVX3lxTE0yNHBYaFFoVUxCdlE3YUtZSmxCM2pVTXF2eHA1S2JlZW5QQ2ZNVWE0Y1VNam5fVW9nelBiMHpYU2lZM2lKZGhQSmhOLTJFUlh6cUxfUXpzOUpfdlNkcDAxWmpxRFI2eHo5dkx4RF9YUExYZGk4Szk0QW5WYkFWX1oyVzhFc1JWQVpyV3U1VWhVRnV0SHhoLVQzSnVaTUFhWHJpUEg2STdkR056RWdKZEF3WkE?oc=5)
+
+---
+
