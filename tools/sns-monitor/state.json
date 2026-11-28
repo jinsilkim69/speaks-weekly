@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T18:21:14.587Z",
+  "lastCheckedAt": "2026-11-28T18:31:17.077Z",
   "seenPostIds": {
     "9e743cce7e36d2ec9eca4a4fcbaf8db3ba5fe1ce8ab75c4cdffc1fe15723ed4c": {
       "seenAt": "2026-11-26T01:51:15.684Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-28T17:41:17.694Z",
       "title": "'Act of God': Trump calls East Potomac Park storm damage divine intervention amid dispute - KATU",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "c2f6e6f7d221d54dca4ca3c8f889aef7da00cda4781e8703d0a9dd0612046159": {
+      "seenAt": "2026-11-28T18:31:18.409Z",
+      "title": "Trump backs Iraqi leader’s efforts to curb oil-smuggling - アラブニュース",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "40a181ac38b54b257d7309cd11ff6c37e38a3079fe9cccb03a4f557d7f78e0bd",
-    "title": "'Act of God': Trump calls East Potomac Park storm damage divine intervention amid dispute - KATU",
+    "postId": "c2f6e6f7d221d54dca4ca3c8f889aef7da00cda4781e8703d0a9dd0612046159",
+    "title": "Trump backs Iraqi leader’s efforts to curb oil-smuggling - アラブニュース",
     "bot": "jongsuk_pol_bot",
-    "runId": "46171781154",
-    "sentAt": "2026-11-28T17:41:17.209Z"
+    "runId": "46176279887",
+    "sentAt": "2026-11-28T18:31:17.892Z"
   }
 }

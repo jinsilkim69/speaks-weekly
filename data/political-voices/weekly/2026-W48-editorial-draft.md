@@ -15159,3 +15159,16 @@
 
 ---
 
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Trump backs Iraqi leader’s efforts to curb oil-smuggling - アラブニュース
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Trump backs Iraqi leader’s efforts to curb oil-smuggling
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXdFMGQ3Z3lnSW1uUkR0LUtkTjhhYzdaTE9lbUc3aUNtSkNJSnNBdndxTHFrQmd5YkJfcTd6YmczbGY1R3lqTGFMSl9BU09KTEttMWlaWmctc0pJNzJqejliNm1nVmdDQUJsU2dlY0NKWThvLUFfMk5rOFhVTGNQZ3ZVLWpJZ0Nsc0VXbmFhSllZSVJCMjdiTExEb0ZYSWtfQkdkWA?oc=5)
+
+---
+
