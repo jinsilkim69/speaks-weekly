@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T08:11:16.782Z",
+  "lastCheckedAt": "2026-11-28T08:21:12.801Z",
   "seenPostIds": {
     "a8e832de9b8e177f4fb11c24fc7dda11183423c98a974a65abfe41599ddaa331": {
       "seenAt": "2026-11-25T14:51:20.854Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-28T08:01:19.557Z",
       "title": "조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜",
       "targetName": "조국"
+    },
+    "fb7f3ed3e10b39b2138773e8562df788da5a0a84ebd36910e057c667d15e4b6e": {
+      "seenAt": "2026-11-28T08:21:13.949Z",
+      "title": "민주당, 한동훈에 \"수사기밀 유출 의혹 물타기 중단하고 수사받아야\" - 대전일보",
+      "targetName": "한동훈"
+    },
+    "c4ba0732fc47bed6a0ec2dcadbdcd8fcee7dfd15dbd3e03d20ab628b093e5af4": {
+      "seenAt": "2026-11-28T08:21:14.563Z",
+      "title": "이성윤, 최민희 ‘당원권 2년’에 반발…“김민석 징계는 왜 이제야 심사하나 - https://www.newscenterkorea.com/",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "50a97d0a954b72a8f9ce500cfffaef58509b3a9c70374f0080d8bd52db5e4ea3",
-    "title": "조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜",
+    "postId": "c4ba0732fc47bed6a0ec2dcadbdcd8fcee7dfd15dbd3e03d20ab628b093e5af4",
+    "title": "이성윤, 최민희 ‘당원권 2년’에 반발…“김민석 징계는 왜 이제야 심사하나 - https://www.newscenterkorea.com/",
     "bot": "jongsuk_pol_bot",
-    "runId": "46123818183",
-    "sentAt": "2026-11-28T08:01:19.173Z"
+    "runId": "46125394545",
+    "sentAt": "2026-11-28T08:21:14.245Z"
   }
 }

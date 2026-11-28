@@ -14509,3 +14509,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 민주당, 한동훈에 "수사기밀 유출 의혹 물타기 중단하고 수사받아야" - 대전일보
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 민주당, 한동훈에 "수사기밀 유출 의혹 물타기 중단하고 수사받아야"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE5wLWJMR1d0WW1aYTNJWjBDQ204TDR4ME9yU1FFWGdPa3lpQ2E4bDdVWTNzM2N5YjF2UDVuejZCeEdfVEtJZUUtN0lTUDk1cXYxaWVkOGVoQWo5UnFPaWZhYXlBLWhVRW1PMF9wZUVjbw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 이성윤, 최민희 ‘당원권 2년’에 반발…“김민석 징계는 왜 이제야 심사하나 - https://www.newscenterkorea.com/
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이성윤, 최민희 ‘당원권 2년’에 반발…“김민석 징계는 왜 이제야 심사하나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMickFVX3lxTE1VckNWd3NUOGVLVS1rY281U182N19YUi1RNFFKNzZYVlpFZ3lkVHRNbFZfdWl5eEh2cGNib25veERULWljQXlLcEkxcmxobm13dnIwTnBQczQ2bkhodE0xaE52eGp5X2NTaHhRQm1wZGN1QQ?oc=5)
+
+---
+

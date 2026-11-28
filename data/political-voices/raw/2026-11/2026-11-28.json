@@ -1873,5 +1873,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "fb7f3ed3e10b39b2138773e8562df788da5a0a84ebd36910e057c667d15e4b6e",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "민주당, 한동훈에 \"수사기밀 유출 의혹 물타기 중단하고 수사받아야\" - 대전일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5wLWJMR1d0WW1aYTNJWjBDQ204TDR4ME9yU1FFWGdPa3lpQ2E4bDdVWTNzM2N5YjF2UDVuejZCeEdfVEtJZUUtN0lTUDk1cXYxaWVkOGVoQWo5UnFPaWZhYXlBLWhVRW1PMF9wZUVjbw?oc=5\" target=\"_blank\">민주당, 한동훈에 \"수사기밀 유출 의혹 물타기 중단하고 수사받아야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">대전일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wLWJMR1d0WW1aYTNJWjBDQ204TDR4ME9yU1FFWGdPa3lpQ2E4bDdVWTNzM2N5YjF2UDVuejZCeEdfVEtJZUUtN0lTUDk1cXYxaWVkOGVoQWo5UnFPaWZhYXlBLWhVRW1PMF9wZUVjbw?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 08:09:00 GMT",
+    "source": "대전일보",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 민주당, 한동훈에 \"수사기밀 유출 의혹 물타기 중단하고 수사받아야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "c4ba0732fc47bed6a0ec2dcadbdcd8fcee7dfd15dbd3e03d20ab628b093e5af4",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "이성윤, 최민희 ‘당원권 2년’에 반발…“김민석 징계는 왜 이제야 심사하나 - https://www.newscenterkorea.com/",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1VckNWd3NUOGVLVS1rY281U182N19YUi1RNFFKNzZYVlpFZ3lkVHRNbFZfdWl5eEh2cGNib25veERULWljQXlLcEkxcmxobm13dnIwTnBQczQ2bkhodE0xaE52eGp5X2NTaHhRQm1wZGN1QQ?oc=5\" target=\"_blank\">이성윤, 최민희 ‘당원권 2년’에 반발…“김민석 징계는 왜 이제야 심사하나</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://www.newscenterkorea.com/</font>",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VckNWd3NUOGVLVS1rY281U182N19YUi1RNFFKNzZYVlpFZ3lkVHRNbFZfdWl5eEh2cGNib25veERULWljQXlLcEkxcmxobm13dnIwTnBQczQ2bkhodE0xaE52eGp5X2NTaHhRQm1wZGN1QQ?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 06:46:03 GMT",
+    "source": "https://www.newscenterkorea.com/",
+    "ageHours": 1.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 이성윤, 최민희 ‘당원권 2년’에 반발…“김민석 징계는 왜 이제야 심사하나",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
