@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T09:41:14.597Z",
+  "lastCheckedAt": "2026-11-28T09:51:14.954Z",
   "seenPostIds": {
-    "35ee65cf6ee66f8816ee4ed0728ef510dd0b3607ffe33117d9feadee46d35671": {
-      "seenAt": "2026-11-25T16:11:37.040Z",
-      "title": "Who’s Paying to See Trump’s Posts Early? We’re About to Find Out. - The New Republic",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "99c3b3b5401fab5897b5a61025a9f2f67dee35b26fdd18fbcb1808337e16bbbf": {
-      "seenAt": "2026-11-25T16:41:30.027Z",
-      "title": "Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all? - Al Jazeera",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "2fdf60958561d322d0010f250507b07c8f116e0a750dd0583b430ab6b5e97d9b": {
       "seenAt": "2026-11-25T16:41:30.775Z",
       "title": "President Trump: \"Army's mitigation efforts have far exceeded expectations\" - KGAN",
@@ -2510,49 +2500,46 @@
       "seenAt": "2026-11-28T09:41:17.477Z",
       "title": "조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜",
       "targetName": "조국"
+    },
+    "d6e7efd98e914bd70d2ad6ec14253d1374e17ea593aa0b66ab9a2eaeece92908": {
+      "seenAt": "2026-11-28T09:51:16.287Z",
+      "title": "김민석, '崔중징계'에 \"특별히 드릴 말 없다\"…친청계 반발 계속 - 연합뉴스",
+      "targetName": "김민석"
+    },
+    "0181e52418963a672cbb6d805df7c930d2e1f838c81f43832f856bc16bfb0848": {
+      "seenAt": "2026-11-28T09:51:16.663Z",
+      "title": "김민석, 최민희 당원권 정지 2년 중징계에 \"특별히 드릴 말씀 없어\" - 뉴시스",
+      "targetName": "김민석"
+    },
+    "3aed14a17804d6703090c64399325f025be4277f7915b98a8924f202405d70d8": {
+      "seenAt": "2026-11-28T09:51:17.405Z",
+      "title": "김민석, ‘최민희 중징계’에 “드릴 말 없다”…사퇴 촉구 집회도 - 중앙일보",
+      "targetName": "김민석"
     }
   },
   "pending": [
     {
       "post": {
-        "id": "d6e7efd98e914bd70d2ad6ec14253d1374e17ea593aa0b66ab9a2eaeece92908",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, '崔중징계'에 \"특별히 드릴 말 없다\"…친청계 반발 계속 - 연합뉴스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCOHZSTGMwWkRZZTdESVQybWc5amFBNEhfZkJxMGFhRVZZdml0VDBQV05tX1pySTdiS3M0T25Oa1AwdjlqUkgyblp3aFNlLWxLYXdQUTZhYm5BZDNMcW1yU9IBYEFVX3lxTFBCOHZSTGMwWkRZZTdESVQybWc5amFBNEhfZkJxMGFhRVZZdml0VDBQV05tX1pySTdiS3M0T25Oa1AwdjlqUkgyblp3aFNlLWxLYXdQUTZhYm5BZDNMcW1yUw?oc=5\" target=\"_blank\">김민석, '崔중징계'에 \"특별히 드릴 말 없다\"…친청계 반발 계속</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCOHZSTGMwWkRZZTdESVQybWc5amFBNEhfZkJxMGFhRVZZdml0VDBQV05tX1pySTdiS3M0T25Oa1AwdjlqUkgyblp3aFNlLWxLYXdQUTZhYm5BZDNMcW1yU9IBYEFVX3lxTFBCOHZSTGMwWkRZZTdESVQybWc5amFBNEhfZkJxMGFhRVZZdml0VDBQV05tX1pySTdiS3M0T25Oa1AwdjlqUkgyblp3aFNlLWxLYXdQUTZhYm5BZDNMcW1yUw?oc=5",
-        "pubDate": "Sat, 28 Nov 2026 08:36:00 GMT",
-        "source": "연합뉴스",
-        "ageHours": 1.1
+        "id": "fe9b40a7a0e66555b556d0c24169bff64339cb08e97fcec66bd83d4a4d71cc80",
+        "targetId": "jung_cheongrae",
+        "targetName": "정청래",
+        "targetTitle": "국회 법제사법위원장",
+        "title": "일 잘하는 현역 국회의원 2위 서영교, 3위 정청래…1위는? - 중앙일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wWkM0bU5yOVlIbDNpUjZiS09PbHFqSm4xSUU4T2VCMG5WVE1HbTM0MUoxSXdWWEgyLXBodEFqVTVheUFIdWF2QUZYbGJBMFNqQVFRMVZn?oc=5\" target=\"_blank\">일 잘하는 현역 국회의원 2위 서영교, 3위 정청래…1위는?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wWkM0bU5yOVlIbDNpUjZiS09PbHFqSm4xSUU4T2VCMG5WVE1HbTM0MUoxSXdWWEgyLXBodEFqVTVheUFIdWF2QUZYbGJBMFNqQVFRMVZn?oc=5",
+        "pubDate": "Fri, 27 Nov 2026 14:14:44 GMT",
+        "source": "중앙일보",
+        "ageHours": 19.6
       },
       "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "0181e52418963a672cbb6d805df7c930d2e1f838c81f43832f856bc16bfb0848",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, 최민희 당원권 정지 2년 중징계에 \"특별히 드릴 말씀 없어\" - 뉴시스",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqSnRWWmp1Q1lDY2tFYmVvRzRkWXB1ME5xSGZlQ08wV1ByRXdrTXZIeFdXZUpKRndVbWdVNnhRekYtLVQ4cGZ0Y3pVZVRvOHpfN2t4MWFvZmIzU3FyNVRUdNIBeEFVX3lxTE9mc0Q1OEpCWktvVU1mN2prckZfbzZMcU1EMXBZMlBERmpFakVlMlZTTUpvbWlwaW41Tm80ZW9hcjhOVkNOZTA5SFJnTVhyb0x5MDVlTE9HRzVDYVI0REdmR0ZIRDdkeUpiV1VzakdFZ0d0SkoydEVjTQ?oc=5\" target=\"_blank\">김민석, 최민희 당원권 정지 2년 중징계에 \"특별히 드릴 말씀 없어\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqSnRWWmp1Q1lDY2tFYmVvRzRkWXB1ME5xSGZlQ08wV1ByRXdrTXZIeFdXZUpKRndVbWdVNnhRekYtLVQ4cGZ0Y3pVZVRvOHpfN2t4MWFvZmIzU3FyNVRUdNIBeEFVX3lxTE9mc0Q1OEpCWktvVU1mN2prckZfbzZMcU1EMXBZMlBERmpFakVlMlZTTUpvbWlwaW41Tm80ZW9hcjhOVkNOZTA5SFJnTVhyb0x5MDVlTE9HRzVDYVI0REdmR0ZIRDdkeUpiV1VzakdFZ0d0SkoydEVjTQ?oc=5",
-        "pubDate": "Sat, 28 Nov 2026 09:23:25 GMT",
-        "source": "뉴시스",
-        "ageHours": 0.1
-      },
-      "delivered": [
-        "7feb08519b5a3fb6ed164637254ee2b714d6a2d9ee36ef370074d084638ccc5a"
-      ],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "13a32e23a5521af21a820203ce94e78d5a2d9e2137394cfd6324a10c06806e26",
-    "title": "조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜",
+    "postId": "3aed14a17804d6703090c64399325f025be4277f7915b98a8924f202405d70d8",
+    "title": "김민석, ‘최민희 중징계’에 “드릴 말 없다”…사퇴 촉구 집회도 - 중앙일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "46131607012",
-    "sentAt": "2026-11-28T09:41:17.105Z"
+    "runId": "46132383128",
+    "sentAt": "2026-11-28T09:51:17.040Z"
   }
 }

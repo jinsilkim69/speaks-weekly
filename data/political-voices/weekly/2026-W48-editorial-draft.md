@@ -14613,3 +14613,42 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, '崔중징계'에 "특별히 드릴 말 없다"…친청계 반발 계속 - 연합뉴스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, '崔중징계'에 "특별히 드릴 말 없다"…친청계 반발 계속
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCOHZSTGMwWkRZZTdESVQybWc5amFBNEhfZkJxMGFhRVZZdml0VDBQV05tX1pySTdiS3M0T25Oa1AwdjlqUkgyblp3aFNlLWxLYXdQUTZhYm5BZDNMcW1yU9IBYEFVX3lxTFBCOHZSTGMwWkRZZTdESVQybWc5amFBNEhfZkJxMGFhRVZZdml0VDBQV05tX1pySTdiS3M0T25Oa1AwdjlqUkgyblp3aFNlLWxLYXdQUTZhYm5BZDNMcW1yUw?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 당원권 정지 2년 중징계에 "특별히 드릴 말씀 없어" - 뉴시스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 당원권 정지 2년 중징계에 "특별히 드릴 말씀 없어"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqSnRWWmp1Q1lDY2tFYmVvRzRkWXB1ME5xSGZlQ08wV1ByRXdrTXZIeFdXZUpKRndVbWdVNnhRekYtLVQ4cGZ0Y3pVZVRvOHpfN2t4MWFvZmIzU3FyNVRUdNIBeEFVX3lxTE9mc0Q1OEpCWktvVU1mN2prckZfbzZMcU1EMXBZMlBERmpFakVlMlZTTUpvbWlwaW41Tm80ZW9hcjhOVkNOZTA5SFJnTVhyb0x5MDVlTE9HRzVDYVI0REdmR0ZIRDdkeUpiV1VzakdFZ0d0SkoydEVjTQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, ‘최민희 중징계’에 “드릴 말 없다”…사퇴 촉구 집회도 - 중앙일보
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, ‘최민희 중징계’에 “드릴 말 없다”…사퇴 촉구 집회도
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Md1dkc0daNWV3RzgyekNyc0ZERjc2UjUtSDM0WlAxMUZhdzY5TkoxOGFhQnNqU1VXOGpkemlFZkYyMkJ5cVlIX0RwdGpRSTMwek9PSzRn?oc=5)
+
+---
+
