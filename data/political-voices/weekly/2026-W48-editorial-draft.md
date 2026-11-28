@@ -14548,3 +14548,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령, 강원 동해 AI데이터센터 착공식 참석…"아시아 최대 인프라" - 서울파이낸스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령, 강원 동해 AI데이터센터 착공식 참석…"아시아 최대 인프라"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiakFVX3lxTE1qeXRIYmMwUVNfLWtpNmJXSDdQMUM3NUVjZHhXZ2pjcVFLR0ZSWS1TU2lJSE1leXltd2lJS3o2Z3RDa1JsYmQ1SG1icUJlNmhJNFVrUWV0UUk1ZWQ5YmV5N1VJXzcxS2dzVnc?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** “작은 도시 찾아줘 감사”…이재명 대통령, 주문진시장 민생 행보 - 진일보 | 전남일보
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “작은 도시 찾아줘 감사”…이재명 대통령, 주문진시장 민생 행보
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9uNVhnakJnV2YzeDZSNWVXYS1DZC0xM2dsNUhZV1huR1VETnEyWFpNSllqVC1kZ19KMnFVTkE4b3RiS0ZEMTAwaXl2djVpWlJ5T3Z0MWNBUHk5NlV3ZGh6VmI4RWJDTmZXY3dmakpoSQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** '최민희 징계' 갈등 장외로 확산...한동훈, 내일 기자회견 - YTN
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '최민희 징계' 갈등 장외로 확산...한동훈, 내일 기자회견
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PVFF1Y2FsdkFORFFlRVdVSEZUMG1HNHZIVWlhQS1jT1VMVEFjelozWFJGZkdJNnRxRTBqdzNkckhYMURrVEY5c1pEYkZ1MGNCWFgxMlNlY05BZVdfSUE?oc=5)
+
+---
+

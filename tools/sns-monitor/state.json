@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T09:21:15.145Z",
+  "lastCheckedAt": "2026-11-28T09:31:18.767Z",
   "seenPostIds": {
-    "4a6e72dde15eb744d9886b3843f6459ff51b3dda3fc1ee8385dedc8e78c80f64": {
-      "seenAt": "2026-11-25T15:11:16.868Z",
-      "title": "MS NOW’s Rachel Maddow Blasts Trump Over Fake AI Video Imitating Her - TV Insider",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "7d9db5f1a53fef07256adab0b64df793487109ecae4b9a6331187349633e083a": {
       "seenAt": "2026-11-25T15:21:16.896Z",
       "title": "이재명 대통령 “재정 부족해 공적주택 공급 못하는 일 없어야” 공급 독려 - 신문고뉴스",
@@ -2505,14 +2500,78 @@
       "seenAt": "2026-11-28T09:21:16.550Z",
       "title": "민주당, 한동훈에 \"수사기밀 유출 의혹 물타기 중단하고 수사받아야\" | - 대전일보",
       "targetName": "한동훈"
+    },
+    "8991f968d49ceb45b9ceb8f59da841aad2f27e8798614f73734309620c523265": {
+      "seenAt": "2026-11-28T09:31:20.036Z",
+      "title": "이재명 대통령, 강원 동해 AI데이터센터 착공식 참석…\"아시아 최대 인프라\" - 서울파이낸스",
+      "targetName": "이재명"
+    },
+    "51901307fad619bbecbae47870bade66a44a23515b5672e0d491fedc7fda7074": {
+      "seenAt": "2026-11-28T09:31:20.706Z",
+      "title": "“작은 도시 찾아줘 감사”…이재명 대통령, 주문진시장 민생 행보 - 진일보 | 전남일보",
+      "targetName": "이재명"
+    },
+    "a73233e6f92cda506f215d68801104f316478bcc8224cd6a38c94fc5b8e6cae1": {
+      "seenAt": "2026-11-28T09:31:21.417Z",
+      "title": "'최민희 징계' 갈등 장외로 확산...한동훈, 내일 기자회견 - YTN",
+      "targetName": "한동훈"
     }
   },
-  "pending": [],
+  "pending": [
+    {
+      "post": {
+        "id": "0181e52418963a672cbb6d805df7c930d2e1f838c81f43832f856bc16bfb0848",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, 최민희 당원권 정지 2년 중징계에 \"특별히 드릴 말씀 없어\" - 뉴시스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqSnRWWmp1Q1lDY2tFYmVvRzRkWXB1ME5xSGZlQ08wV1ByRXdrTXZIeFdXZUpKRndVbWdVNnhRekYtLVQ4cGZ0Y3pVZVRvOHpfN2t4MWFvZmIzU3FyNVRUdNIBeEFVX3lxTE9mc0Q1OEpCWktvVU1mN2prckZfbzZMcU1EMXBZMlBERmpFakVlMlZTTUpvbWlwaW41Tm80ZW9hcjhOVkNOZTA5SFJnTVhyb0x5MDVlTE9HRzVDYVI0REdmR0ZIRDdkeUpiV1VzakdFZ0d0SkoydEVjTQ?oc=5\" target=\"_blank\">김민석, 최민희 당원권 정지 2년 중징계에 \"특별히 드릴 말씀 없어\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴시스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqSnRWWmp1Q1lDY2tFYmVvRzRkWXB1ME5xSGZlQ08wV1ByRXdrTXZIeFdXZUpKRndVbWdVNnhRekYtLVQ4cGZ0Y3pVZVRvOHpfN2t4MWFvZmIzU3FyNVRUdNIBeEFVX3lxTE9mc0Q1OEpCWktvVU1mN2prckZfbzZMcU1EMXBZMlBERmpFakVlMlZTTUpvbWlwaW41Tm80ZW9hcjhOVkNOZTA5SFJnTVhyb0x5MDVlTE9HRzVDYVI0REdmR0ZIRDdkeUpiV1VzakdFZ0d0SkoydEVjTQ?oc=5",
+        "pubDate": "Sat, 28 Nov 2026 09:23:25 GMT",
+        "source": "뉴시스",
+        "ageHours": 0.1
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "ea21330c371308e9541ebb21c5c324f44d12603db02909a6fdc29e7c09213ec9",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, 최민희 ‘당원권 정지 2년’에 침묵…민주당 계파 갈등 확산 - 진일보 | 전남일보",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9aUzZvNDhWRmJnSjVFUFV6Z0hUckMyaHNROG1PLWVXMkxpdFp2cEpoSjVhM05mX3oxdUhTQlV5ZU5aeVZSZ0NXeGdySlVqcEk4TEEtQTJQVEdFUFZrZlVJOFRHQl90cS1UOTNoeGZROA?oc=5\" target=\"_blank\">김민석, 최민희 ‘당원권 정지 2년’에 침묵…민주당 계파 갈등 확산</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">진일보 | 전남일보</font>",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aUzZvNDhWRmJnSjVFUFV6Z0hUckMyaHNROG1PLWVXMkxpdFp2cEpoSjVhM05mX3oxdUhTQlV5ZU5aeVZSZ0NXeGdySlVqcEk4TEEtQTJQVEdFUFZrZlVJOFRHQl90cS1UOTNoeGZROA?oc=5",
+        "pubDate": "Sat, 28 Nov 2026 08:51:45 GMT",
+        "source": "진일보 | 전남일보",
+        "ageHours": 0.7
+      },
+      "delivered": [],
+      "archived": false
+    },
+    {
+      "post": {
+        "id": "13a32e23a5521af21a820203ce94e78d5a2d9e2137394cfd6324a10c06806e26",
+        "targetId": "cho_kuk",
+        "targetName": "조국",
+        "targetTitle": "조국혁신당 대표",
+        "title": "조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8wT1haWlprTzhGaWttQ0kweXh6d2w5WTJyUUpZQWhZQ0JlSUowVFpMTTctU25XRjBRTlhBX19CTjJmb2pfclY2Q1ZuWTN1WksxM1FXQkQ1UW1GMnNPczQ1OXZKRU5QNkpCUnFROVd4WkM?oc=5\" target=\"_blank\">조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리메디팜</font>",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wT1haWlprTzhGaWttQ0kweXh6d2w5WTJyUUpZQWhZQ0JlSUowVFpMTTctU25XRjBRTlhBX19CTjJmb2pfclY2Q1ZuWTN1WksxM1FXQkQ1UW1GMnNPczQ1OXZKRU5QNkpCUnFROVd4WkM?oc=5",
+        "pubDate": "Sat, 28 Nov 2026 07:55:40 GMT",
+        "source": "데일리메디팜",
+        "ageHours": 1.6
+      },
+      "delivered": [],
+      "archived": false
+    }
+  ],
   "lastAdminNewsDelivery": {
-    "postId": "f030138fdb3745d9ba9d5a47a29eb802934d5a26b2bbf9883b4c97fee6149920",
-    "title": "민주당, 한동훈에 \"수사기밀 유출 의혹 물타기 중단하고 수사받아야\" | - 대전일보",
+    "postId": "a73233e6f92cda506f215d68801104f316478bcc8224cd6a38c94fc5b8e6cae1",
+    "title": "'최민희 징계' 갈등 장외로 확산...한동훈, 내일 기자회견 - YTN",
     "bot": "jongsuk_pol_bot",
-    "runId": "46130050282",
-    "sentAt": "2026-11-28T09:21:16.022Z"
+    "runId": "46130829702",
+    "sentAt": "2026-11-28T09:31:21.055Z"
   }
 }
