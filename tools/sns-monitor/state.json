@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T16:51:17.383Z",
+  "lastCheckedAt": "2026-11-28T17:01:14.225Z",
   "seenPostIds": {
-    "00e63c7003d64cbfed4a01caccd1503422a1119eb96ee7b3417441cc19350126": {
-      "seenAt": "2026-11-26T01:11:17.718Z",
-      "title": "송영길 정청래 설전, 4시간 넘는 대통령 회동 후일담에 ‘입조심’ 경고…무슨 일이 - CBC뉴스",
-      "targetName": "정청래"
-    },
-    "314195c641c3b3eeae0584975c4de3ab5bd4bc258088e54ca95e9e0109e2c5b0": {
-      "seenAt": "2026-11-26T01:21:16.401Z",
-      "title": "한동훈 “탄핵 확신? 직 걸라” 김용민 “중대사에 판돈”…조희대 탄핵 신경전 - 시사저널",
-      "targetName": "한동훈"
-    },
     "be9e751fb4c514028babfc75744282fed5b06761d6765934f3f66d9c31f72371": {
       "seenAt": "2026-11-26T01:31:21.235Z",
       "title": "김민석 \"오세훈, 서울시정 대권준비 징검다리로 활용…깊이 자성해야\" - 머니투데이 - 머니투데이",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-28T16:51:19.537Z",
       "title": "Why is Trump backing Iraq’s anti-smuggling campaign? - Al Jazeera",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "44ab10c6cabf2c2512d7c8062efd229b76af524b6c4fa033584f6edfbb653c88": {
+      "seenAt": "2026-11-28T17:01:15.906Z",
+      "title": "Trump Says ‘Act of God’ Destroyed Golf Course at Center of Legal Battle - Newsweek",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "1d5e27481218025585121bb216d30b7005c55949871293fd1293e7e01c2a108e",
-    "title": "Why is Trump backing Iraq’s anti-smuggling campaign? - Al Jazeera",
+    "postId": "44ab10c6cabf2c2512d7c8062efd229b76af524b6c4fa033584f6edfbb653c88",
+    "title": "Trump Says ‘Act of God’ Destroyed Golf Course at Center of Legal Battle - Newsweek",
     "bot": "jongsuk_pol_bot",
-    "runId": "46167335069",
-    "sentAt": "2026-11-28T16:51:19.149Z"
+    "runId": "46168197300",
+    "sentAt": "2026-11-28T17:01:15.249Z"
   }
 }

@@ -173,5 +173,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "44ab10c6cabf2c2512d7c8062efd229b76af524b6c4fa033584f6edfbb653c88",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Says ‘Act of God’ Destroyed Golf Course at Center of Legal Battle - Newsweek",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE56ZV95UlBUcFhqSFJ0Y2oxckhycEZXZnhndnhpV0RhTTBYVWJsV0laTUZpNkZCNjF2SDJBb2s5QU5HZDZZd083bmx1TDR1elpTSmlxSEhjQ2xZZ01QbWdocDdRMlpaeEh4NXRvNVN6MDlBc3lhbEdiSzNacw?oc=5\" target=\"_blank\">Trump Says ‘Act of God’ Destroyed Golf Course at Center of Legal Battle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56ZV95UlBUcFhqSFJ0Y2oxckhycEZXZnhndnhpV0RhTTBYVWJsV0laTUZpNkZCNjF2SDJBb2s5QU5HZDZZd083bmx1TDR1elpTSmlxSEhjQ2xZZ01QbWdocDdRMlpaeEh4NXRvNVN6MDlBc3lhbEdiSzNacw?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 16:50:00 GMT",
+    "source": "Newsweek",
+    "ageHours": 0.2,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Says ‘Act of God’ Destroyed Golf Course at Center of Legal Battle",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
