@@ -2023,5 +2023,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "ea21330c371308e9541ebb21c5c324f44d12603db02909a6fdc29e7c09213ec9",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, 최민희 ‘당원권 정지 2년’에 침묵…민주당 계파 갈등 확산 - 진일보 | 전남일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9aUzZvNDhWRmJnSjVFUFV6Z0hUckMyaHNROG1PLWVXMkxpdFp2cEpoSjVhM05mX3oxdUhTQlV5ZU5aeVZSZ0NXeGdySlVqcEk4TEEtQTJQVEdFUFZrZlVJOFRHQl90cS1UOTNoeGZROA?oc=5\" target=\"_blank\">김민석, 최민희 ‘당원권 정지 2년’에 침묵…민주당 계파 갈등 확산</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">진일보 | 전남일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aUzZvNDhWRmJnSjVFUFV6Z0hUckMyaHNROG1PLWVXMkxpdFp2cEpoSjVhM05mX3oxdUhTQlV5ZU5aeVZSZ0NXeGdySlVqcEk4TEEtQTJQVEdFUFZrZlVJOFRHQl90cS1UOTNoeGZROA?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 08:51:45 GMT",
+    "source": "진일보 | 전남일보",
+    "ageHours": 0.7,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, 최민희 ‘당원권 정지 2년’에 침묵…민주당 계파 갈등 확산",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "13a32e23a5521af21a820203ce94e78d5a2d9e2137394cfd6324a10c06806e26",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8wT1haWlprTzhGaWttQ0kweXh6d2w5WTJyUUpZQWhZQ0JlSUowVFpMTTctU25XRjBRTlhBX19CTjJmb2pfclY2Q1ZuWTN1WksxM1FXQkQ1UW1GMnNPczQ1OXZKRU5QNkpCUnFROVd4WkM?oc=5\" target=\"_blank\">조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리메디팜</font>",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wT1haWlprTzhGaWttQ0kweXh6d2w5WTJyUUpZQWhZQ0JlSUowVFpMTTctU25XRjBRTlhBX19CTjJmb2pfclY2Q1ZuWTN1WksxM1FXQkQ1UW1GMnNPczQ1OXZKRU5QNkpCUnFROVd4WkM?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 07:55:40 GMT",
+    "source": "데일리메디팜",
+    "ageHours": 1.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

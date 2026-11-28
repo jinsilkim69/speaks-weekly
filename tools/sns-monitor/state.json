@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T09:31:18.767Z",
+  "lastCheckedAt": "2026-11-28T09:41:14.597Z",
   "seenPostIds": {
-    "7d9db5f1a53fef07256adab0b64df793487109ecae4b9a6331187349633e083a": {
-      "seenAt": "2026-11-25T15:21:16.896Z",
-      "title": "이재명 대통령 “재정 부족해 공적주택 공급 못하는 일 없어야” 공급 독려 - 신문고뉴스",
-      "targetName": "이재명"
-    },
-    "e673e0bf67ed4f3ce07f28af1828edd918729f819a8b70bb07243c7d0fde9df7": {
-      "seenAt": "2026-11-25T15:31:17.699Z",
-      "title": "Trump posts picture of the sign of the road named after him - Bradenton Herald",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "2077e9092f9ae4abbe3637e36767a919b4be7043a16de9cc58e935ad82b0b6e0": {
-      "seenAt": "2026-11-25T16:11:36.273Z",
-      "title": "조국, 與내홍에 \"도무지 이해 안 돼…김민석 총체적 책임져야\" - 뉴스1",
-      "targetName": "조국"
-    },
     "35ee65cf6ee66f8816ee4ed0728ef510dd0b3607ffe33117d9feadee46d35671": {
       "seenAt": "2026-11-25T16:11:37.040Z",
       "title": "Who’s Paying to See Trump’s Posts Early? We’re About to Find Out. - The New Republic",
@@ -2515,9 +2500,35 @@
       "seenAt": "2026-11-28T09:31:21.417Z",
       "title": "'최민희 징계' 갈등 장외로 확산...한동훈, 내일 기자회견 - YTN",
       "targetName": "한동훈"
+    },
+    "ea21330c371308e9541ebb21c5c324f44d12603db02909a6fdc29e7c09213ec9": {
+      "seenAt": "2026-11-28T09:41:16.744Z",
+      "title": "김민석, 최민희 ‘당원권 정지 2년’에 침묵…민주당 계파 갈등 확산 - 진일보 | 전남일보",
+      "targetName": "김민석"
+    },
+    "13a32e23a5521af21a820203ce94e78d5a2d9e2137394cfd6324a10c06806e26": {
+      "seenAt": "2026-11-28T09:41:17.477Z",
+      "title": "조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜",
+      "targetName": "조국"
     }
   },
   "pending": [
+    {
+      "post": {
+        "id": "d6e7efd98e914bd70d2ad6ec14253d1374e17ea593aa0b66ab9a2eaeece92908",
+        "targetId": "kim_minseok",
+        "targetName": "김민석",
+        "targetTitle": "더불어민주당 최고위원",
+        "title": "김민석, '崔중징계'에 \"특별히 드릴 말 없다\"…친청계 반발 계속 - 연합뉴스",
+        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCOHZSTGMwWkRZZTdESVQybWc5amFBNEhfZkJxMGFhRVZZdml0VDBQV05tX1pySTdiS3M0T25Oa1AwdjlqUkgyblp3aFNlLWxLYXdQUTZhYm5BZDNMcW1yU9IBYEFVX3lxTFBCOHZSTGMwWkRZZTdESVQybWc5amFBNEhfZkJxMGFhRVZZdml0VDBQV05tX1pySTdiS3M0T25Oa1AwdjlqUkgyblp3aFNlLWxLYXdQUTZhYm5BZDNMcW1yUw?oc=5\" target=\"_blank\">김민석, '崔중징계'에 \"특별히 드릴 말 없다\"…친청계 반발 계속</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">연합뉴스</font>",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCOHZSTGMwWkRZZTdESVQybWc5amFBNEhfZkJxMGFhRVZZdml0VDBQV05tX1pySTdiS3M0T25Oa1AwdjlqUkgyblp3aFNlLWxLYXdQUTZhYm5BZDNMcW1yU9IBYEFVX3lxTFBCOHZSTGMwWkRZZTdESVQybWc5amFBNEhfZkJxMGFhRVZZdml0VDBQV05tX1pySTdiS3M0T25Oa1AwdjlqUkgyblp3aFNlLWxLYXdQUTZhYm5BZDNMcW1yUw?oc=5",
+        "pubDate": "Sat, 28 Nov 2026 08:36:00 GMT",
+        "source": "연합뉴스",
+        "ageHours": 1.1
+      },
+      "delivered": [],
+      "archived": false
+    },
     {
       "post": {
         "id": "0181e52418963a672cbb6d805df7c930d2e1f838c81f43832f856bc16bfb0848",
@@ -2531,47 +2542,17 @@
         "source": "뉴시스",
         "ageHours": 0.1
       },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "ea21330c371308e9541ebb21c5c324f44d12603db02909a6fdc29e7c09213ec9",
-        "targetId": "kim_minseok",
-        "targetName": "김민석",
-        "targetTitle": "더불어민주당 최고위원",
-        "title": "김민석, 최민희 ‘당원권 정지 2년’에 침묵…민주당 계파 갈등 확산 - 진일보 | 전남일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9aUzZvNDhWRmJnSjVFUFV6Z0hUckMyaHNROG1PLWVXMkxpdFp2cEpoSjVhM05mX3oxdUhTQlV5ZU5aeVZSZ0NXeGdySlVqcEk4TEEtQTJQVEdFUFZrZlVJOFRHQl90cS1UOTNoeGZROA?oc=5\" target=\"_blank\">김민석, 최민희 ‘당원권 정지 2년’에 침묵…민주당 계파 갈등 확산</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">진일보 | 전남일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aUzZvNDhWRmJnSjVFUFV6Z0hUckMyaHNROG1PLWVXMkxpdFp2cEpoSjVhM05mX3oxdUhTQlV5ZU5aeVZSZ0NXeGdySlVqcEk4TEEtQTJQVEdFUFZrZlVJOFRHQl90cS1UOTNoeGZROA?oc=5",
-        "pubDate": "Sat, 28 Nov 2026 08:51:45 GMT",
-        "source": "진일보 | 전남일보",
-        "ageHours": 0.7
-      },
-      "delivered": [],
-      "archived": false
-    },
-    {
-      "post": {
-        "id": "13a32e23a5521af21a820203ce94e78d5a2d9e2137394cfd6324a10c06806e26",
-        "targetId": "cho_kuk",
-        "targetName": "조국",
-        "targetTitle": "조국혁신당 대표",
-        "title": "조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8wT1haWlprTzhGaWttQ0kweXh6d2w5WTJyUUpZQWhZQ0JlSUowVFpMTTctU25XRjBRTlhBX19CTjJmb2pfclY2Q1ZuWTN1WksxM1FXQkQ1UW1GMnNPczQ1OXZKRU5QNkpCUnFROVd4WkM?oc=5\" target=\"_blank\">조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">데일리메디팜</font>",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wT1haWlprTzhGaWttQ0kweXh6d2w5WTJyUUpZQWhZQ0JlSUowVFpMTTctU25XRjBRTlhBX19CTjJmb2pfclY2Q1ZuWTN1WksxM1FXQkQ1UW1GMnNPczQ1OXZKRU5QNkpCUnFROVd4WkM?oc=5",
-        "pubDate": "Sat, 28 Nov 2026 07:55:40 GMT",
-        "source": "데일리메디팜",
-        "ageHours": 1.6
-      },
-      "delivered": [],
+      "delivered": [
+        "7feb08519b5a3fb6ed164637254ee2b714d6a2d9ee36ef370074d084638ccc5a"
+      ],
       "archived": false
     }
   ],
   "lastAdminNewsDelivery": {
-    "postId": "a73233e6f92cda506f215d68801104f316478bcc8224cd6a38c94fc5b8e6cae1",
-    "title": "'최민희 징계' 갈등 장외로 확산...한동훈, 내일 기자회견 - YTN",
+    "postId": "13a32e23a5521af21a820203ce94e78d5a2d9e2137394cfd6324a10c06806e26",
+    "title": "조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜",
     "bot": "jongsuk_pol_bot",
-    "runId": "46130829702",
-    "sentAt": "2026-11-28T09:31:21.055Z"
+    "runId": "46131607012",
+    "sentAt": "2026-11-28T09:41:17.105Z"
   }
 }

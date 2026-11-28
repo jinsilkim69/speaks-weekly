@@ -14587,3 +14587,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 ‘당원권 정지 2년’에 침묵…민주당 계파 갈등 확산 - 진일보 | 전남일보
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 ‘당원권 정지 2년’에 침묵…민주당 계파 갈등 확산
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9aUzZvNDhWRmJnSjVFUFV6Z0hUckMyaHNROG1PLWVXMkxpdFp2cEpoSjVhM05mX3oxdUhTQlV5ZU5aeVZSZ0NXeGdySlVqcEk4TEEtQTJQVEdFUFZrZlVJOFRHQl90cS1UOTNoeGZROA?oc=5)
+
+---
+
+## [검색 후보] 조국 (직함 확인 필요)
+**기사 제목:** 조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의 - 데일리메디팜
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 조국혁신당 백선희 의원, 사회복지현장실습 제도 정비 위한 '사회복지사업법' 개정안 대표 발의
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMicEFVX3lxTE8wT1haWlprTzhGaWttQ0kweXh6d2w5WTJyUUpZQWhZQ0JlSUowVFpMTTctU25XRjBRTlhBX19CTjJmb2pfclY2Q1ZuWTN1WksxM1FXQkQ1UW1GMnNPczQ1OXZKRU5QNkpCUnFROVd4WkM?oc=5)
+
+---
+
