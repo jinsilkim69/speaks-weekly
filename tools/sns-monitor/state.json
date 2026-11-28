@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T11:13:56.233Z",
+  "lastCheckedAt": "2026-11-28T11:21:12.510Z",
   "seenPostIds": {
     "7a042e1f82991a80bc8790954a604b84301d04501c1b641ee6b82c257986f2dd": {
       "seenAt": "2026-11-25T22:21:15.458Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-28T10:41:16.712Z",
       "title": "Volodymyr Zelensky says Vladimir Putin a 'killer,' criticizes Donald Trump, US Patriot missile delays - The Jerusalem Post",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "f1a4a7fa62b9782a51fa0118eb5fe1b9f56b38c50797e301a0de1ec91c6fa055": {
+      "seenAt": "2026-11-28T11:21:13.707Z",
+      "title": "김민석, 최민희 당원권 정지 2년 중징계에 \"특별히 드릴 말씀 없어\" - 뉴시스",
+      "targetName": "김민석"
+    },
+    "bb462ca262560d099a7bf4ff7c29297f7e100531ef49d593134d7271984b9ee7": {
+      "seenAt": "2026-11-28T11:21:14.306Z",
+      "title": "최민희 중징계 후폭풍⋯김민석 \"특별히 드릴 말 없다\" - 아이뉴스24",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "d08018a5596d24df3e0dc74d436b110f9eee16599f8f865708b4ce3828c73fef",
-    "title": "Volodymyr Zelensky says Vladimir Putin a 'killer,' criticizes Donald Trump, US Patriot missile delays - The Jerusalem Post",
+    "postId": "bb462ca262560d099a7bf4ff7c29297f7e100531ef49d593134d7271984b9ee7",
+    "title": "최민희 중징계 후폭풍⋯김민석 \"특별히 드릴 말 없다\" - 아이뉴스24",
     "bot": "jongsuk_pol_bot",
-    "runId": "46136321131",
-    "sentAt": "2026-11-28T10:41:16.384Z"
+    "runId": "46139460789",
+    "sentAt": "2026-11-28T11:21:13.996Z"
   }
 }
