@@ -1248,5 +1248,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "236c46e676aa753a958463f6709f2ba3fed188ba9cd26e7568f8ca0a8a46b358",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "[속보] 한동훈, 김승원 로비 의혹에 “왜 제보자부터 찾나”…경찰 압수수색 비판 - 세계일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ieGtHYmhlOURyX0pfU3dwVERlbXVUdl9vZFpnVU9ISkNXTjNyMEN4OWtwNF90aGdwUWo1TTVpYUxiTV9BbjZtdnBTYTB3NkVOVWdIOG90YmnSAVRBVV95cUxQZ2NRZlItMjl2elZ4amtVanllNEY1TGE5My1iV0RfTUdmMjF2SGtKc0h5dEF0WmxZNEt4OVoxMk9NWHJvTUFhV3JkZW5HU2wwYTZoU2w?oc=5\" target=\"_blank\">[속보] 한동훈, 김승원 로비 의혹에 “왜 제보자부터 찾나”…경찰 압수수색 비판</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">세계일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ieGtHYmhlOURyX0pfU3dwVERlbXVUdl9vZFpnVU9ISkNXTjNyMEN4OWtwNF90aGdwUWo1TTVpYUxiTV9BbjZtdnBTYTB3NkVOVWdIOG90YmnSAVRBVV95cUxQZ2NRZlItMjl2elZ4amtVanllNEY1TGE5My1iV0RfTUdmMjF2SGtKc0h5dEF0WmxZNEt4OVoxMk9NWHJvTUFhV3JkZW5HU2wwYTZoU2w?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 03:20:19 GMT",
+    "source": "세계일보",
+    "ageHours": 0.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 한동훈, 김승원 로비 의혹에 “왜 제보자부터 찾나”…경찰 압수수색 비판",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
