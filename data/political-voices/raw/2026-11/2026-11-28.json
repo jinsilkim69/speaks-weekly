@@ -1398,5 +1398,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d3f35cb75474984f7ab9869ced4ba575cd3cff9fa5ad38db2af15cd141dc060d",
+    "targetId": "lee_jaemyung",
+    "targetName": "이재명",
+    "targetTitle": "대통령",
+    "title": "장동혁 \"무자격 대통령에 무자격 내각\"…이재명 정부 개각 인사 의혹 맹공 - 펜앤마이크",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1oVkdraEtLMGxZdWp3T0VyUHNXaHhoVGt2QU1CTnpFeTFYQmQzQ19nNHQ4OVlWV0pPejJXWG56WW9iMGRmOWUxZS1DaHhCQ2QwZXdoZzNjMG0xYWVsY2F2ZlhsRkxfaGNIYjVB0gFvQVVfeXFMT1d3YWVIOEFlT2RIYmxCSGQxbzg1M2FVQVZ0TVhDbEIyYTZKaEZFVTQteWZMeWtXX2NWLXRMU2NPVVJ1amttWXJZNzhjM1hoSkExdXFhUmg4YVlJTVp0VVNoaVp0VFRpQm9vX1B6dUVB?oc=5\" target=\"_blank\">장동혁 \"무자격 대통령에 무자격 내각\"…이재명 정부 개각 인사 의혹 맹공</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">펜앤마이크</font>",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oVkdraEtLMGxZdWp3T0VyUHNXaHhoVGt2QU1CTnpFeTFYQmQzQ19nNHQ4OVlWV0pPejJXWG56WW9iMGRmOWUxZS1DaHhCQ2QwZXdoZzNjMG0xYWVsY2F2ZlhsRkxfaGNIYjVB0gFvQVVfeXFMT1d3YWVIOEFlT2RIYmxCSGQxbzg1M2FVQVZ0TVhDbEIyYTZKaEZFVTQteWZMeWtXX2NWLXRMU2NPVVJ1amttWXJZNzhjM1hoSkExdXFhUmg4YVlJTVp0VVNoaVp0VFRpQm9vX1B6dUVB?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 03:54:42 GMT",
+    "source": "펜앤마이크",
+    "ageHours": 1.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 장동혁 \"무자격 대통령에 무자격 내각\"…이재명 정부 개각 인사 의혹 맹공",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "이재명",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]

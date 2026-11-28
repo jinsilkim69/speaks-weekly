@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T05:21:14.325Z",
+  "lastCheckedAt": "2026-11-28T05:31:14.960Z",
   "seenPostIds": {
-    "5ae4488406321b6dafc79b4f48d6c0a98cd4bb115e7c47e795b22798f03f4f6f": {
-      "seenAt": "2026-11-25T11:11:15.757Z",
-      "title": "김민석, 진보야당에 ‘조희대 탄핵 연대’ 제안…“완전한 내란 청산” - 중앙일보",
-      "targetName": "김민석"
-    },
-    "e17c9128cd136c3be65bc9280524a0ea8fc0c30ab24b1bd05a6ff0bbc229a80c": {
-      "seenAt": "2026-11-25T11:21:20.680Z",
-      "title": "신장식 “조희대 탄핵 관련해 민주당과 비공개 접촉” - 시민일보",
-      "targetName": "신장식"
-    },
     "cf64544f12a20543293145c73981160fee6383570b1c42e8cf5c5e61909b047e": {
       "seenAt": "2026-11-25T11:21:21.440Z",
       "title": "Trump Ordered to Reveal Who Is Paying Up to $100K for Early Access to Posts - Newsweek",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-28T05:21:16.557Z",
       "title": "정청래가 두들겨 맞았다는 '반분신' 몽둥이의 정체는? - 최보식의언론",
       "targetName": "정청래"
+    },
+    "d3f35cb75474984f7ab9869ced4ba575cd3cff9fa5ad38db2af15cd141dc060d": {
+      "seenAt": "2026-11-28T05:31:16.539Z",
+      "title": "장동혁 \"무자격 대통령에 무자격 내각\"…이재명 정부 개각 인사 의혹 맹공 - 펜앤마이크",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "e6c6d7beb0919c9cd6d1efd47d92ccdb89c046962284162444d4160b97c89f29",
-    "title": "정청래가 두들겨 맞았다는 '반분신' 몽둥이의 정체는? - 최보식의언론",
+    "postId": "d3f35cb75474984f7ab9869ced4ba575cd3cff9fa5ad38db2af15cd141dc060d",
+    "title": "장동혁 \"무자격 대통령에 무자격 내각\"…이재명 정부 개각 인사 의혹 맹공 - 펜앤마이크",
     "bot": "jongsuk_pol_bot",
-    "runId": "46111700812",
-    "sentAt": "2026-11-28T05:21:16.176Z"
+    "runId": "46112453601",
+    "sentAt": "2026-11-28T05:31:15.805Z"
   }
 }
