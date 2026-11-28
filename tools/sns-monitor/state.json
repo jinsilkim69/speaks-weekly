@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T10:31:12.896Z",
+  "lastCheckedAt": "2026-11-28T10:41:14.170Z",
   "seenPostIds": {
-    "09b80e669ac66298f8d517fa1e3e4f2d7d76b46a6a2fd1ae18008b47b268de60": {
-      "seenAt": "2026-11-25T21:21:14.035Z",
-      "title": "한동훈, '조희대 탄핵' 의원직 걸었다…\"서영교·박선원, 걸어보라\" - 조세일보",
-      "targetName": "한동훈"
-    },
-    "0da0212aa1000494dcaffb04be5532f66e36faac0d3eb190e186112f0361c4e5": {
-      "seenAt": "2026-11-25T21:21:14.689Z",
-      "title": "Trump defends controversial Ramaswamy ad as top Republicans call for taking it down - ABC News - Breaking News, Latest News and Videos",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "3003ef14b7e3bf6cc85a2b1487852322d70592734190c3ab68ef533aae55dd8e": {
       "seenAt": "2026-11-25T21:51:19.583Z",
       "title": "민주당 신천지 공방 격화…김민석·정청래·송영길, 최민희 징계 심의 앞두고 계파 갈등 고조 - CBC뉴스",
@@ -2510,14 +2500,29 @@
       "seenAt": "2026-11-28T10:31:14.640Z",
       "title": "“최민희가 중징계면 김민석은?”…최민희 당원자격정지에 정청래의 반응 - 문화일보",
       "targetName": "정청래"
+    },
+    "2a3c2eeed33e95fa8303f838e465fc88b776ba651c6e7277a99d9e13778f459d": {
+      "seenAt": "2026-11-28T10:41:15.433Z",
+      "title": "동해 찾은 이재명 대통령…2.4GW 규모 AI 데이터센터 캠퍼스 착공 - 국제뉴스",
+      "targetName": "이재명"
+    },
+    "95a4a0ffb90c56dc78ddb4632284af2394ea1dddb18cf09ab1edc868e8a84cfe": {
+      "seenAt": "2026-11-28T10:41:16.072Z",
+      "title": "김민석, 최민희 중징계에 \"드릴 말 없다\"‥친청계 반발 계속 - MBC 뉴스",
+      "targetName": "김민석"
+    },
+    "d08018a5596d24df3e0dc74d436b110f9eee16599f8f865708b4ce3828c73fef": {
+      "seenAt": "2026-11-28T10:41:16.712Z",
+      "title": "Volodymyr Zelensky says Vladimir Putin a 'killer,' criticizes Donald Trump, US Patriot missile delays - The Jerusalem Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "bdc5fdbf15523556e32710f27cfcc5777e7e267dc03d65cdc092e58c1be9a5ed",
-    "title": "“최민희가 중징계면 김민석은?”…최민희 당원자격정지에 정청래의 반응 - 문화일보",
+    "postId": "d08018a5596d24df3e0dc74d436b110f9eee16599f8f865708b4ce3828c73fef",
+    "title": "Volodymyr Zelensky says Vladimir Putin a 'killer,' criticizes Donald Trump, US Patriot missile delays - The Jerusalem Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "46135542205",
-    "sentAt": "2026-11-28T10:31:14.300Z"
+    "runId": "46136321131",
+    "sentAt": "2026-11-28T10:41:16.384Z"
   }
 }

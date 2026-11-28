@@ -14743,3 +14743,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 동해 찾은 이재명 대통령…2.4GW 규모 AI 데이터센터 캠퍼스 착공 - 국제뉴스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 동해 찾은 이재명 대통령…2.4GW 규모 AI 데이터센터 캠퍼스 착공
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZeHJxMFFKTFNIQ1FkRXlvNFlTaXhNN1VYbTZ5VG9ZWUxhYzNKYWJsM2VTU3h4WkhBQ2xIMTNrZVNVaEFqdXJGN1g5eXZFUkEyOFBiTzYwd0tjNS1HaHh4c2VOMXowdTliUmdFNlRR?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 중징계에 "드릴 말 없다"‥친청계 반발 계속 - MBC 뉴스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 중징계에 "드릴 말 없다"‥친청계 반발 계속
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE5CSjJtcEFYSHNUNmFRSER4RHZlT1I3dlU5TEowVGVNdWxxbXhTeUZ0dXg5dWZ5TV9ESUlpc0lQVFJRbHkwVFVydnNGeEVjajNGTlo1NW5uNTZ5cHhGYmhFSlA3YTVxX1JSX2E5NGo1eVNWUWtuMzFjZdIBeEFVX3lxTFBQQ2VINkVBUDZ2Wm8yRXAyTGg4QkdMSURNWXlVUUpLNnlaNHBRSzItazFrY2pjZDM3S2hJbGNTUkZ6bWRuME1zVnlZUjRadFpLZGVGSWh5N0ZRZVBCZ3VaeUZzVHVlVTF0NnNuQUNzZjh6WExvM0E0cQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Volodymyr Zelensky says Vladimir Putin a 'killer,' criticizes Donald Trump, US Patriot missile delays - The Jerusalem Post
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Volodymyr Zelensky says Vladimir Putin a 'killer,' criticizes Donald Trump, US Patriot missile delays
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDlOd2FnNzhfOVg1QjFxM1dmUEJoSDI2YUdLVG5MUFl1VUYtWW9KdEJJTXJSekhnUjQwWlRRWHpQN1FtdTU0ekQ2M29tT25YeEhJSFdnS3BiRGM0YTNINGlKODYyc18wdWxKWFJCYW5LeS1vY3FlaW1OQjZxTGFlSzFvcnFDdFByLWc?oc=5)
+
+---
+
