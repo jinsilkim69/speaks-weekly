@@ -14301,3 +14301,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "광장 요구 국민 체감 변화로"…194개 개혁 추진 | - 연합투데이
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "광장 요구 국민 체감 변화로"…194개 개혁 추진 |
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBwVzlkakZSMkotajdOWkNPRU9pdjF1dlJldFQwb2NaOW1lR184b0dtM0VjbTJ5WnZWY1VETVVobHlQVkx3RDE1XzJYNzRjWnU0bUM1Wi1xdU5ia28zMFEwWWZHOXk0Y2JZcWt1ZVVVQQ?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 장동혁 "무자격 대통령에 무자격 내각"…이재명 정부 개각 인사 의혹 맹공 - 펜앤마이크
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 장동혁 "무자격 대통령에 무자격 내각"…이재명 정부 개각 인사 의혹 맹공
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE9Xd2FlSDhBZU9kSGJsQkhkMW84NTNhVUFWdE1YQ2xCMmE2SmhGRVU0LXlmTHlrV19jVi10TFNjT1VSdWprbVlyWTc4YzNYaEpBMXVxYVJoOGFZSU1adFVTaGladFRUaUJvb19QenVFQdIBb0FVX3lxTE9Xd2FlSDhBZU9kSGJsQkhkMW84NTNhVUFWdE1YQ2xCMmE2SmhGRVU0LXlmTHlrV19jVi10TFNjT1VSdWprbVlyWTc4YzNYaEpBMXVxYVJoOGFZSU1adFVTaGladFRUaUJvb19QenVFQQ?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** ‘직 건다’는 한동훈에…박지원 “나가면 국힘 의원들 박수” - 한겨레
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] ‘직 건다’는 한동훈에…박지원 “나가면 국힘 의원들 박수”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMidEFVX3lxTE1tZmZPM0xHRndiYkhST0V5QUdETU1pN3JGNzI1SVctT0xfOUlxd19NLW5fTlI1M0VYRC1hRHVtWmN5bUJ2N080aXlNMmlQN2RaNGhCeTZJRVNWWmVoTy1XOTVjRElheHBPVEZtdTVPd3VoYjh3?oc=5)
+
+---
+

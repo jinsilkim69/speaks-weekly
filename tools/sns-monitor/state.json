@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T05:41:11.595Z",
+  "lastCheckedAt": "2026-11-28T05:51:12.523Z",
   "seenPostIds": {
-    "6eb9e9ac3891941eadb732beabf43193925b935c61ab1c1622b4508a50fa0b36": {
-      "seenAt": "2026-11-25T12:01:16.030Z",
-      "title": "이재명 대통령 “청해부대 임무 넓히되 전쟁불개입...호르무즈 해협·인근 해역 활동범위서 제외” - 시사뉴스",
-      "targetName": "이재명"
-    },
-    "695b12104fedc974234e5dcc420ffcbf4aedef1da53351e1eeee74db5405242b": {
-      "seenAt": "2026-11-25T12:01:16.684Z",
-      "title": "장동혁, ‘조희대 고향’ 경주서 여론전… 한동훈 “탄핵 인용 땐 사퇴” [조희대 탄핵 추진 파장] - 세계일보",
-      "targetName": "한동훈"
-    },
     "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047": {
       "seenAt": "2026-11-25T12:11:16.514Z",
       "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
@@ -2510,14 +2500,29 @@
       "seenAt": "2026-11-28T05:41:13.273Z",
       "title": "한동훈 의원, 법무장관 낙마 김승원 \"조선제일 법꾸라지\"에 \"오빠가 나설 타이밍 아냐\" - 사이렌스",
       "targetName": "한동훈"
+    },
+    "f1749365533f61bf13fba28f43c6c99fc18adc9c79c69ee8ecde249fa20ba609": {
+      "seenAt": "2026-11-28T05:51:13.881Z",
+      "title": "이재명 대통령 \"광장 요구 국민 체감 변화로\"…194개 개혁 추진 | - 연합투데이",
+      "targetName": "이재명"
+    },
+    "8027898462234e1ff38013c6eab102395f9e8d6ccf6451782035b3728be9c7fe": {
+      "seenAt": "2026-11-28T05:51:14.572Z",
+      "title": "장동혁 \"무자격 대통령에 무자격 내각\"…이재명 정부 개각 인사 의혹 맹공 - 펜앤마이크",
+      "targetName": "이재명"
+    },
+    "857736ebc7a858e4068d0486d5e5320045daa2de6035d3333e2fc29993bf7723": {
+      "seenAt": "2026-11-28T05:51:15.299Z",
+      "title": "‘직 건다’는 한동훈에…박지원 “나가면 국힘 의원들 박수” - 한겨레",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "35cc142cbdb3c2295536107ca18c72cf27732752601ac8b5dc11342d02624c54",
-    "title": "한동훈 의원, 법무장관 낙마 김승원 \"조선제일 법꾸라지\"에 \"오빠가 나설 타이밍 아냐\" - 사이렌스",
+    "postId": "857736ebc7a858e4068d0486d5e5320045daa2de6035d3333e2fc29993bf7723",
+    "title": "‘직 건다’는 한동훈에…박지원 “나가면 국힘 의원들 박수” - 한겨레",
     "bot": "jongsuk_pol_bot",
-    "runId": "46113203763",
-    "sentAt": "2026-11-28T05:41:12.952Z"
+    "runId": "46113943458",
+    "sentAt": "2026-11-28T05:51:14.962Z"
   }
 }
