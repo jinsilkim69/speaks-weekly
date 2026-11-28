@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T06:11:14.971Z",
+  "lastCheckedAt": "2026-11-28T06:21:21.472Z",
   "seenPostIds": {
-    "cf8518fddbe9eff09536c8a78f3b7b692b926d5cbdf024310aa89414421a0f10": {
-      "seenAt": "2026-11-25T12:21:17.122Z",
-      "title": "\"입 싼 송영길, 말 안 섞어\" 거친 말 쏟아낸 정청래... 왜? - OhmyNews",
-      "targetName": "송영길"
-    },
-    "c50d907d674cfd4e7d4441ec3fa0b2aa31c166b259f15f1e387405fdd54c08bf": {
-      "seenAt": "2026-11-25T12:51:17.627Z",
-      "title": "이재명 대통령, 은평서 공적주택 현장 간담회 가져 - LG헬로비전",
-      "targetName": "이재명"
-    },
     "3e228ed32010710185ba010ec85d049aec11396c50b0982e35130e50b203c151": {
       "seenAt": "2026-11-25T12:51:18.427Z",
       "title": "김민석, 조희대 탄핵 위한 ‘5당 연대’ 제안…野 “탈옥 프로젝트” - www.1waynews.com",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-28T06:11:16.742Z",
       "title": "[단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란 - 시사타파NEWS",
       "targetName": "송영길"
+    },
+    "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047": {
+      "seenAt": "2026-11-28T06:21:23.477Z",
+      "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "f6ae4f335c71de6317be2d8b86ce1e7c047683f91325f05153108d7707caaf9f",
-    "title": "[단독] 송영길, KTX 특실 공용테이블에 ′발 올리고 취침′...공공의식 논란 - 시사타파NEWS",
+    "postId": "761b3069f92333e3a93bda5cbddf69aa0fd7617ad763210b28da5073e9ff0047",
+    "title": "'Let Data Reign': Trump goes all in on controversial data centers - ABC News - Breaking News, Latest News and Videos",
     "bot": "jongsuk_pol_bot",
-    "runId": "46115419214",
-    "sentAt": "2026-11-28T06:11:16.433Z"
+    "runId": "46116184917",
+    "sentAt": "2026-11-28T06:21:22.813Z"
   }
 }
