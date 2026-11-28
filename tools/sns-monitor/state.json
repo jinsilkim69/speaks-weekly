@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T12:51:16.737Z",
+  "lastCheckedAt": "2026-11-28T13:01:13.963Z",
   "seenPostIds": {
-    "4d52a0dfb977ae30dbdb61bf8bcc8ba411b06ee6cee157af4f1bc812712da127": {
-      "seenAt": "2026-11-25T23:11:17.244Z",
-      "title": "Trump Aide Natalie Harp Named in New Discovery Order Over President's Truth Social Deal, Per Court Docs - Yahoo Lifestyle Canada",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "353b4633f6c80dd86e39df63e1d744bffd3ff73d0ebdcae8cb5f87f842cc2d43": {
       "seenAt": "2026-11-25T23:21:15.983Z",
       "title": "김용민, \"의원직 걸라\"는 한동훈 향해 \"가벼운 태도 한심해\" - 뉴시스",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-28T12:51:18.231Z",
       "title": "김민석, ‘최민희 중징계’에 “특별히 할 말 없다”…친청계는 잇단 반발 - 서울경제",
       "targetName": "김민석"
+    },
+    "fc60bec8edffc71ba51254126cef0da6aaa45f49ed3a24ce3a2e4548affac310": {
+      "seenAt": "2026-11-28T13:01:15.120Z",
+      "title": "국힘 ‘조작 징계’ 내홍에…박수영 \"주적은 장동혁·한동훈 아닌 이재명\" - JTBC",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "6f089e5ef534810725924b0a29fb0936eec3f8ea7fea13595801cec345071a99",
-    "title": "김민석, ‘최민희 중징계’에 “특별히 할 말 없다”…친청계는 잇단 반발 - 서울경제",
+    "postId": "fc60bec8edffc71ba51254126cef0da6aaa45f49ed3a24ce3a2e4548affac310",
+    "title": "국힘 ‘조작 징계’ 내홍에…박수영 \"주적은 장동혁·한동훈 아닌 이재명\" - JTBC",
     "bot": "jongsuk_pol_bot",
-    "runId": "46146682775",
-    "sentAt": "2026-11-28T12:51:17.635Z"
+    "runId": "46147480910",
+    "sentAt": "2026-11-28T13:01:14.566Z"
   }
 }
