@@ -14925,3 +14925,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [속보] 김민석, 최민희 중징계에 "드릴 말씀 없다"…친청계 반발 - KBC광주방송
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 중징계에 "드릴 말씀 없다"…친청계 반발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QMXRhdlYzV2xuVnIyNFdXVWhFTjRpajFLcGZDdmFVV1o1ZDU3aTJ0Q01fV0Y1TS1fUWRXckYtZENUTGhYSFFuMjNHcGczS2kwcm1NalA5T2lJc2tXV0tZcg?oc=5)
+
+---
+

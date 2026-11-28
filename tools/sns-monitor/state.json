@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T13:31:17.953Z",
+  "lastCheckedAt": "2026-11-28T13:41:16.200Z",
   "seenPostIds": {
-    "53dcbd46486473ebdb2b1cd0e1a38a361cacfc76f0b3f147bf93d5cb48bb50fc": {
-      "seenAt": "2026-11-25T23:31:16.036Z",
-      "title": "조국 \"김태규 '내란 인정하라고 지O 지O'…국힘 의원 수준 보라\" - 뉴스1",
-      "targetName": "조국"
-    },
     "4b119f9b68e94369e988b82871f0d93629485edfbe9f09538b6ba3f62f494385": {
       "seenAt": "2026-11-25T23:41:16.685Z",
       "title": "Trump Blames Midterm Election After Tariffs Weigh on U.S. Stock Market - news.sbs.co.kr",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-28T13:31:19.641Z",
       "title": "한동훈 내일 기자회견 예고…‘조작 징계 의혹’ 반격하나? - 채널A",
       "targetName": "한동훈"
+    },
+    "6c22713ef734382fc88bb6acf511979c8f815215420378df06638c0f513c6d37": {
+      "seenAt": "2026-11-28T13:41:17.623Z",
+      "title": "[속보] 김민석, 최민희 중징계에 \"드릴 말씀 없다\"…친청계 반발 - KBC광주방송",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "1ee55d122aa7f9a3b96eaf149e124e8325ebfd35eaa0301909925b6c2e19e970",
-    "title": "한동훈 내일 기자회견 예고…‘조작 징계 의혹’ 반격하나? - 채널A",
+    "postId": "6c22713ef734382fc88bb6acf511979c8f815215420378df06638c0f513c6d37",
+    "title": "[속보] 김민석, 최민희 중징계에 \"드릴 말씀 없다\"…친청계 반발 - KBC광주방송",
     "bot": "jongsuk_pol_bot",
-    "runId": "46149991908",
-    "sentAt": "2026-11-28T13:31:18.960Z"
+    "runId": "46150824269",
+    "sentAt": "2026-11-28T13:41:17.057Z"
   }
 }
