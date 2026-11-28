@@ -14860,3 +14860,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, '한동훈 자료 유출 의혹' 압수수색..9시간만에 종료 - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, '한동훈 자료 유출 의혹' 압수수색..9시간만에 종료
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNU5peTRlSEZOZDdLWnNPbXZxX0NQcExSODVOUVdxT2RUd3o1R0pQRFNfeWNybmJmNFczSGl6TFBjdS1hQkpXNnVwSko5VlZiSG1MLUZVYjhBemxjWDNIQm14S0xYYjJaWlRv0gFwQVVfeXFMT0VMNDkwcVZFWHNEMVhQeUhFX09GZDdWVXdPay1EUkJKVmJZaV9XQjctYmQ4RWNwTTZTNThTdEJLNDl3MlktSGM1VjFnQ21aWnQ3Q3dWbjZFbHBLT1hmbHYzR3pvTllVeVZuOGRJZENRWA?oc=5)
+
+---
+
