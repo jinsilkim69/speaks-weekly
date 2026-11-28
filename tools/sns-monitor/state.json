@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T19:11:13.776Z",
+  "lastCheckedAt": "2026-11-28T19:21:14.824Z",
   "seenPostIds": {
     "cd6449ec937c5b4ba854ffc00104dea7af057c3c4db9643d1164b2cbda6b256b": {
       "seenAt": "2026-11-26T02:01:16.054Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-28T18:41:13.671Z",
       "title": "‘God must have been watching’: Trump uses flooded DC golf course to argue for his stalled renovations - The Independent",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "ab20fc5920c5ff9c63bdd69f04c5c904616f0a945c4622b6434cc2e705f21db0": {
+      "seenAt": "2026-11-28T19:21:16.205Z",
+      "title": "'Act of God': Trump calls East Potomac Park storm damage divine intervention amid dispute - WJAR",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "be21beeda582b7a2a4f2e1177a82e35bb2819f3df138ffc4c2bf45159bea2938",
-    "title": "‘God must have been watching’: Trump uses flooded DC golf course to argue for his stalled renovations - The Independent",
+    "postId": "ab20fc5920c5ff9c63bdd69f04c5c904616f0a945c4622b6434cc2e705f21db0",
+    "title": "'Act of God': Trump calls East Potomac Park storm damage divine intervention amid dispute - WJAR",
     "bot": "jongsuk_pol_bot",
-    "runId": "46177173407",
-    "sentAt": "2026-11-28T18:41:13.025Z"
+    "runId": "46180702471",
+    "sentAt": "2026-11-28T19:21:15.506Z"
   }
 }
