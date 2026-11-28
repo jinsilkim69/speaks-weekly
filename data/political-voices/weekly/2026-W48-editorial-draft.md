@@ -14132,3 +14132,16 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 "성형후기 조작, 기막혀…국민기반 범죄 엄정대응" - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 "성형후기 조작, 기막혀…국민기반 범죄 엄정대응"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMibEFVX3lxTE9kb0oweFFHcmV6a3VXZm9GaXRFLS1sZTMtNzVVNFhYbTJ4cFlwUWl4d2xMQ1R3bDFodlk3STNyOEdpMVRrRmZDcnlVY2RpNktPRS1yMWdEZ19YZDdtd2dsSXkweW5DaU15U0tqTtIBckFVX3lxTFByTDFiZ2JwaWNTU1dXSk1aaTFSNVdIZXZrcXViaEt6Tmx1TnZ4OFJJNV85TW04NHJZMm1LazlRVzQtdTF2TFFLUE1vZmI4clFtN2ttRFhTeEt2cy1rU1laalM5dlU2cEpMRlM5bko2STNmQQ?oc=5)
+
+---
+

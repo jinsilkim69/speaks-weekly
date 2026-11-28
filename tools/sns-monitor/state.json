@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T02:51:16.566Z",
+  "lastCheckedAt": "2026-11-28T03:01:14.120Z",
   "seenPostIds": {
     "38483b7527c8ee45add9141af83bd99b2ffff1fb5cb392f3a02e206d9ebb9c37": {
       "seenAt": "2026-11-25T10:11:20.357Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-28T02:41:17.849Z",
       "title": "조국, 與 내홍에 \"李대통령이 김민석·정청래 불러 해결해야\" - Howl.Link",
       "targetName": "조국"
+    },
+    "ff5aae03d015872e5c04b12f4342106f4dd16daa59f546b3d5b3e9f1bfb46b82": {
+      "seenAt": "2026-11-28T03:01:15.305Z",
+      "title": "이재명 대통령 \"성형후기 조작, 기막혀…국민기반 범죄 엄정대응\" - 머니투데이 - 머니투데이",
+      "targetName": "이재명"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "5c9fc01aeb7e90767989cbbc09ecab0a29e18f22adea0d0f009d003d857ba27a",
-    "title": "조국, 與 내홍에 \"李대통령이 김민석·정청래 불러 해결해야\" - Howl.Link",
+    "postId": "ff5aae03d015872e5c04b12f4342106f4dd16daa59f546b3d5b3e9f1bfb46b82",
+    "title": "이재명 대통령 \"성형후기 조작, 기막혀…국민기반 범죄 엄정대응\" - 머니투데이 - 머니투데이",
     "bot": "jongsuk_pol_bot",
-    "runId": "46099270012",
-    "sentAt": "2026-11-28T02:41:17.268Z"
+    "runId": "46100805690",
+    "sentAt": "2026-11-28T03:01:14.744Z"
   }
 }
