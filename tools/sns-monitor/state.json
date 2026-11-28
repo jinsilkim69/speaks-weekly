@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T09:51:14.954Z",
+  "lastCheckedAt": "2026-11-28T10:01:15.012Z",
   "seenPostIds": {
-    "2fdf60958561d322d0010f250507b07c8f116e0a750dd0583b430ab6b5e97d9b": {
-      "seenAt": "2026-11-25T16:41:30.775Z",
-      "title": "President Trump: \"Army's mitigation efforts have far exceeded expectations\" - KGAN",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "9141014ac60e8a5245ae76a47ac955992f8c03526ec4e396b745d472aa1b29a6": {
-      "seenAt": "2026-11-25T17:11:26.421Z",
-      "title": "Who’s Paying to See Trump’s Posts Early? We’re About to Find Out. - The New Republic",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
-    "ef24d9d0dc7afadebd10fcd34d3603c98301574966294c84ff638a03ba80dc5f": {
-      "seenAt": "2026-11-25T17:11:27.267Z",
-      "title": "Read President Trump's pardon of Pete Rose - Cincinnati Enquirer",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "e675d4e45201c8cdd805d3c40bad754e421a1185af48076dd44099b6d8a1f158": {
       "seenAt": "2026-11-25T17:51:20.090Z",
       "title": "정청래, 대통령에겐 '베리 굿' 송영길,김민석에겐 맹공!' (261125 수요일 방송) 김용남 박진영 장성철 허재무 - 경향신문",
@@ -2515,31 +2500,29 @@
       "seenAt": "2026-11-28T09:51:17.405Z",
       "title": "김민석, ‘최민희 중징계’에 “드릴 말 없다”…사퇴 촉구 집회도 - 중앙일보",
       "targetName": "김민석"
+    },
+    "fe9b40a7a0e66555b556d0c24169bff64339cb08e97fcec66bd83d4a4d71cc80": {
+      "seenAt": "2026-11-28T10:01:16.427Z",
+      "title": "일 잘하는 현역 국회의원 2위 서영교, 3위 정청래…1위는? - 중앙일보",
+      "targetName": "정청래"
+    },
+    "b35ae633f599d41149f6cab65d762e794686d040a165ba7f025659df79138d2a": {
+      "seenAt": "2026-11-28T10:01:17.135Z",
+      "title": "이재명 대통령 “성형 후기 조작, 국민 기만 범죄 엄정 대응” - 진일보 | 전남일보",
+      "targetName": "이재명"
+    },
+    "70e0fbca46976acb45b42edb2744aac5c78eea56204be7f3d86e4d64369c8a3a": {
+      "seenAt": "2026-11-28T10:01:17.857Z",
+      "title": "“많이 구매해달라” 이재명 대통령, 강릉 주문진수산시장 찾아 민생 소통 - 강원일보",
+      "targetName": "이재명"
     }
   },
-  "pending": [
-    {
-      "post": {
-        "id": "fe9b40a7a0e66555b556d0c24169bff64339cb08e97fcec66bd83d4a4d71cc80",
-        "targetId": "jung_cheongrae",
-        "targetName": "정청래",
-        "targetTitle": "국회 법제사법위원장",
-        "title": "일 잘하는 현역 국회의원 2위 서영교, 3위 정청래…1위는? - 중앙일보",
-        "desc": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wWkM0bU5yOVlIbDNpUjZiS09PbHFqSm4xSUU4T2VCMG5WVE1HbTM0MUoxSXdWWEgyLXBodEFqVTVheUFIdWF2QUZYbGJBMFNqQVFRMVZn?oc=5\" target=\"_blank\">일 잘하는 현역 국회의원 2위 서영교, 3위 정청래…1위는?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">중앙일보</font>",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wWkM0bU5yOVlIbDNpUjZiS09PbHFqSm4xSUU4T2VCMG5WVE1HbTM0MUoxSXdWWEgyLXBodEFqVTVheUFIdWF2QUZYbGJBMFNqQVFRMVZn?oc=5",
-        "pubDate": "Fri, 27 Nov 2026 14:14:44 GMT",
-        "source": "중앙일보",
-        "ageHours": 19.6
-      },
-      "delivered": [],
-      "archived": false
-    }
-  ],
+  "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "3aed14a17804d6703090c64399325f025be4277f7915b98a8924f202405d70d8",
-    "title": "김민석, ‘최민희 중징계’에 “드릴 말 없다”…사퇴 촉구 집회도 - 중앙일보",
+    "postId": "70e0fbca46976acb45b42edb2744aac5c78eea56204be7f3d86e4d64369c8a3a",
+    "title": "“많이 구매해달라” 이재명 대통령, 강릉 주문진수산시장 찾아 민생 소통 - 강원일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "46132383128",
-    "sentAt": "2026-11-28T09:51:17.040Z"
+    "runId": "46133137124",
+    "sentAt": "2026-11-28T10:01:17.500Z"
   }
 }

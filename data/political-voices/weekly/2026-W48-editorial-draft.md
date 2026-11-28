@@ -14652,3 +14652,42 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** 일 잘하는 현역 국회의원 2위 서영교, 3위 정청래…1위는? - 중앙일보
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 일 잘하는 현역 국회의원 2위 서영교, 3위 정청래…1위는?
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wWkM0bU5yOVlIbDNpUjZiS09PbHFqSm4xSUU4T2VCMG5WVE1HbTM0MUoxSXdWWEgyLXBodEFqVTVheUFIdWF2QUZYbGJBMFNqQVFRMVZn?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 이재명 대통령 “성형 후기 조작, 국민 기만 범죄 엄정 대응” - 진일보 | 전남일보
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재명 대통령 “성형 후기 조작, 국민 기만 범죄 엄정 대응”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTFBvcmxud0loT3FvTDExQTZ6cXRlSFJuNU51ZENUb2NLanNWb2tjcVc5d3dlbWQyWmJrb3luQzZuQ1lVc19oNkpvSUNSbEJwNzc4dU1vSmxWUnRTTVVoODZHMy1iYWdQOWQ4dTh0Mm5xTQ?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** “많이 구매해달라” 이재명 대통령, 강릉 주문진수산시장 찾아 민생 소통 - 강원일보
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] “많이 구매해달라” 이재명 대통령, 강릉 주문진수산시장 찾아 민생 소통
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0VFYzX1l1WTUxZ3o5aWk5NzdQRlE5dFVUZ1dBQjVjWmV1eEJQcDVnMF9oNlNKejJDZE12LUk5VFotWGtZX1piM0lIUnF6TldMRWR4RkJ6eDNLX28?oc=5)
+
+---
+
