@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T11:21:12.510Z",
+  "lastCheckedAt": "2026-11-28T11:31:13.101Z",
   "seenPostIds": {
-    "7a042e1f82991a80bc8790954a604b84301d04501c1b641ee6b82c257986f2dd": {
-      "seenAt": "2026-11-25T22:21:15.458Z",
-      "title": "송영길 \"8월 청와대서 鄭 억울함 4시간 들어\" 정청래 \"입조심하라\" - 조선일보",
-      "targetName": "정청래"
-    },
-    "e5662265cb1440f6ab7cacc39c210a0bf3b76452a83621112b33240a79c47dc0": {
-      "seenAt": "2026-11-25T22:21:16.131Z",
-      "title": "Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’ - Lehighvalleylive.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "d7e9cd841c1bd02792d20b18f06c39d0292282c897eaaf3106aa104da8cd3718": {
       "seenAt": "2026-11-25T22:31:17.767Z",
       "title": "\"입 싼 송영길, 말 안 섞어\" 거친 말 쏟아낸 정청래... 왜? - OhmyNews",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-28T11:21:14.306Z",
       "title": "최민희 중징계 후폭풍⋯김민석 \"특별히 드릴 말 없다\" - 아이뉴스24",
       "targetName": "김민석"
+    },
+    "30ec9f0257a87b30e372d250831ab19974b81bbcc68588b054155e2c1f440bcf": {
+      "seenAt": "2026-11-28T11:31:14.314Z",
+      "title": "김민석, 최민희 중징계에 \"드릴 말 없다\"‥친청계 반발 계속 - MBC 뉴스",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "bb462ca262560d099a7bf4ff7c29297f7e100531ef49d593134d7271984b9ee7",
-    "title": "최민희 중징계 후폭풍⋯김민석 \"특별히 드릴 말 없다\" - 아이뉴스24",
+    "postId": "30ec9f0257a87b30e372d250831ab19974b81bbcc68588b054155e2c1f440bcf",
+    "title": "김민석, 최민희 중징계에 \"드릴 말 없다\"‥친청계 반발 계속 - MBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "46139460789",
-    "sentAt": "2026-11-28T11:21:13.996Z"
+    "runId": "46140243965",
+    "sentAt": "2026-11-28T11:31:13.815Z"
   }
 }

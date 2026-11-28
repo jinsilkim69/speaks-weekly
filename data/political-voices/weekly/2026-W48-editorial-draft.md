@@ -14808,3 +14808,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 김민석, 최민희 중징계에 "드릴 말 없다"‥친청계 반발 계속 - MBC 뉴스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 중징계에 "드릴 말 없다"‥친청계 반발 계속
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTFBQQ2VINkVBUDZ2Wm8yRXAyTGg4QkdMSURNWXlVUUpLNnlaNHBRSzItazFrY2pjZDM3S2hJbGNTUkZ6bWRuME1zVnlZUjRadFpLZGVGSWh5N0ZRZVBCZ3VaeUZzVHVlVTF0NnNuQUNzZjh6WExvM0E0cdIBeEFVX3lxTFBQQ2VINkVBUDZ2Wm8yRXAyTGg4QkdMSURNWXlVUUpLNnlaNHBRSzItazFrY2pjZDM3S2hJbGNTUkZ6bWRuME1zVnlZUjRadFpLZGVGSWh5N0ZRZVBCZ3VaeUZzVHVlVTF0NnNuQUNzZjh6WExvM0E0cQ?oc=5)
+
+---
+
