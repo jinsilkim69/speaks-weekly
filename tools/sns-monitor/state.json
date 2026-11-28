@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T14:01:21.063Z",
+  "lastCheckedAt": "2026-11-28T14:11:13.173Z",
   "seenPostIds": {
-    "6970d0a1150a88de4c1a9866d37d6fbd113adab80e867564f8011a44ae22145f": {
-      "seenAt": "2026-11-25T23:51:16.647Z",
-      "title": "\"내란 인정하라고 지X\" 영상 공유한 조국, 김태규 공개 저격 - 매일신문",
-      "targetName": "조국"
-    },
     "bedc1a73c4c8ad04471e8783456088f9685d84f8a785ed605e8d91f8f2ff959c": {
       "seenAt": "2026-11-25T23:51:17.368Z",
       "title": "Trump officials declare success after Iowa blast - Politico",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-28T14:01:22.721Z",
       "title": "Trump takeover attempt outrageous - Toledo Blade",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "d7a750338ff15c5d12806be162b7320faecba6949fed1a8168cb8b4c8dbefcdc": {
+      "seenAt": "2026-11-28T14:11:14.260Z",
+      "title": "홍준표, 김민석·장동혁 싸잡아 “대통령 하려고 후안무치한 짓들만” 직격 - 문화일보",
+      "targetName": "김민석"
+    },
+    "6a536f25e5d2bf9fc21d892cd7d6ed0d15cfb3c94ad3cffb5479a1d31998087e": {
+      "seenAt": "2026-11-28T14:11:14.914Z",
+      "title": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "a709a7aec320e47addb3f4db31e5b38a26e877f4bf9579ba3efd6d6ec203e686",
-    "title": "Trump takeover attempt outrageous - Toledo Blade",
+    "postId": "6a536f25e5d2bf9fc21d892cd7d6ed0d15cfb3c94ad3cffb5479a1d31998087e",
+    "title": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
     "bot": "jongsuk_pol_bot",
-    "runId": "46152466168",
-    "sentAt": "2026-11-28T14:01:22.011Z"
+    "runId": "46153332586",
+    "sentAt": "2026-11-28T14:11:14.587Z"
   }
 }

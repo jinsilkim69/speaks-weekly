@@ -2723,5 +2723,55 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d7a750338ff15c5d12806be162b7320faecba6949fed1a8168cb8b4c8dbefcdc",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "홍준표, 김민석·장동혁 싸잡아 “대통령 하려고 후안무치한 짓들만” 직격 - 문화일보",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE43NXg2RzF6YmlXYS1KU09iY0JNQUo4d2VYUUFGTUJEOHFwVmFVczZWaHNQU1dqbzl3MG96T28zMXdCTmRCZmJ2ejVsM3BaV01n?oc=5\" target=\"_blank\">홍준표, 김민석·장동혁 싸잡아 “대통령 하려고 후안무치한 짓들만” 직격</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">문화일보</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43NXg2RzF6YmlXYS1KU09iY0JNQUo4d2VYUUFGTUJEOHFwVmFVczZWaHNQU1dqbzl3MG96T28zMXdCTmRCZmJ2ejVsM3BaV01n?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 05:17:33 GMT",
+    "source": "문화일보",
+    "ageHours": 8.9,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 홍준표, 김민석·장동혁 싸잡아 “대통령 하려고 후안무치한 짓들만” 직격",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
+  },
+  {
+    "id": "6a536f25e5d2bf9fc21d892cd7d6ed0d15cfb3c94ad3cffb5479a1d31998087e",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5\" target=\"_blank\">Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo! Finance Canada</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QelBrZFExLUtrMFhUa3ZRTUNHeGdISDc4bmNicFZXUVJtMlJucDI1T3VveFJpelYzTlpMVV9XbDFfdFQ2Mkc4QTJxZS1VdHZi?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 03:11:53 GMT",
+    "source": "Yahoo! Finance Canada",
+    "ageHours": 11,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump Media & Technology Group Corp. (DJT) Stock Price, News, Quote & History",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
