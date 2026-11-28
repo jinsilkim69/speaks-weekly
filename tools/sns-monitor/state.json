@@ -1,16 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T11:41:14.568Z",
+  "lastCheckedAt": "2026-11-28T11:51:12.555Z",
   "seenPostIds": {
-    "43d56207c4ab5f714d97c392c11844922612c7b8ba44cc98088d7b4970a73069": {
-      "seenAt": "2026-11-25T22:41:23.079Z",
-      "title": "김민석 vs 정청래 중재하려다…\"송영길, 입이 싸다\" - SBS 뉴스",
-      "targetName": "김민석"
-    },
-    "4c427aa1735adab070047dbea678b0888348f9fce007f71250b9521d0ee55b60": {
-      "seenAt": "2026-11-25T22:41:23.688Z",
-      "title": "김민석, '조희대 탄핵' 5당 연대 제안…혁신당은 환영 속 유감 - 경북도민일보",
-      "targetName": "김민석"
-    },
     "c8f7dc96dab567974a6169577587822c40d35c42b3236f4d1fcb88e397e84062": {
       "seenAt": "2026-11-25T22:41:24.298Z",
       "title": "Trump Media Must Disclose Who Is Paying Up to $100K for Early Access to Truth Social Posts, Fed. Judge Rules - Law.com",
@@ -2510,14 +2500,19 @@
       "seenAt": "2026-11-28T11:41:16.619Z",
       "title": "Donald Trump posts Godfather-inspired \"Veto Corleone\" nickname on Truth Social - AOL.com",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "e4530bb00dc01df1339979a98d3ec28eefdf241cbcf86c17dda838bfa308de2e": {
+      "seenAt": "2026-11-28T11:51:13.755Z",
+      "title": "장동혁 “한동훈 징계취소 확정되면 당원권 3년 정지 다시 하면 돼” - 주간경향",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "1dc1644d4382819a1c2299b3a993fcb0d8d1f28c01c5da1d1cc85030c08721f3",
-    "title": "Donald Trump posts Godfather-inspired \"Veto Corleone\" nickname on Truth Social - AOL.com",
+    "postId": "e4530bb00dc01df1339979a98d3ec28eefdf241cbcf86c17dda838bfa308de2e",
+    "title": "장동혁 “한동훈 징계취소 확정되면 당원권 3년 정지 다시 하면 돼” - 주간경향",
     "bot": "jongsuk_pol_bot",
-    "runId": "46141025583",
-    "sentAt": "2026-11-28T11:41:16.242Z"
+    "runId": "46141799699",
+    "sentAt": "2026-11-28T11:51:13.186Z"
   }
 }
