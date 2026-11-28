@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T16:41:17.218Z",
+  "lastCheckedAt": "2026-11-28T16:51:17.383Z",
   "seenPostIds": {
     "00e63c7003d64cbfed4a01caccd1503422a1119eb96ee7b3417441cc19350126": {
       "seenAt": "2026-11-26T01:11:17.718Z",
@@ -2500,14 +2500,24 @@
       "seenAt": "2026-11-28T16:01:17.125Z",
       "title": "\"재고\" vs \"자초\" 최민희 징계 후폭풍...한동훈, 내일 기자회견 - YTN",
       "targetName": "한동훈"
+    },
+    "77af8d00578305d08999514af327af2c6536155f8bd346dffb8c5614847b3bf1": {
+      "seenAt": "2026-11-28T16:51:18.789Z",
+      "title": "`김승원 자료` 한동훈에 불법유출 의혹 법무부·공소청 압수수색..경찰 출처 밝히나 - 국민뉴스",
+      "targetName": "한동훈"
+    },
+    "1d5e27481218025585121bb216d30b7005c55949871293fd1293e7e01c2a108e": {
+      "seenAt": "2026-11-28T16:51:19.537Z",
+      "title": "Why is Trump backing Iraq’s anti-smuggling campaign? - Al Jazeera",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "6a629ca59edfa2ffe05deb6e1845d0b27d772398a64502c5e66e5d60d5aedb2e",
-    "title": "\"재고\" vs \"자초\" 최민희 징계 후폭풍...한동훈, 내일 기자회견 - YTN",
+    "postId": "1d5e27481218025585121bb216d30b7005c55949871293fd1293e7e01c2a108e",
+    "title": "Why is Trump backing Iraq’s anti-smuggling campaign? - Al Jazeera",
     "bot": "jongsuk_pol_bot",
-    "runId": "46162870328",
-    "sentAt": "2026-11-28T16:01:16.515Z"
+    "runId": "46167335069",
+    "sentAt": "2026-11-28T16:51:19.149Z"
   }
 }
