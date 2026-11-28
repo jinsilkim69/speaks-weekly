@@ -14821,3 +14821,29 @@
 
 ---
 
+## [검색 후보] 정청래 (직함 확인 필요)
+**기사 제목:** '최민희 중징계'에 친청계 극한반발...정청래 ""징계 앞에 당대표도 예외 아냐" - 싱글리스트
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] '최민희 중징계'에 친청계 극한반발...정청래 ""징계 앞에 당대표도 예외 아냐"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xejVDa0VIV0tWaVotd2hZWFVTVWw1bUhZTWw0azBsb25DT2xsWU5uQUlVd0pwTGZSYWhqbXRXSThGNHU0Z1k1X3JkQUVIVFczZU5EbFVEVU9SNTc2Uy1ORU1la3RBQQ?oc=5)
+
+---
+
+## [검색 후보] 도널드 트럼프 (Donald Trump) (직함 확인 필요)
+**기사 제목:** Donald Trump posts Godfather-inspired "Veto Corleone" nickname on Truth Social - AOL.com
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] Donald Trump posts Godfather-inspired "Veto Corleone" nickname on Truth Social
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUxXR2wxVjc3WndCb3VtUGJFSnZObWZMLTl0QVF5aFp0WnVFWjlUdEp3V25OOTU2bDJlWjlIbWRzNmFRb0RoY2pNYmhMYi0wNERCalZxcFpRUE1iRWttMmdIenZkSDZCRThjbEVkZUtCZW5tSXlxelhhcjJ3MS1VdjdJT2V6dFBP?oc=5)
+
+---
+

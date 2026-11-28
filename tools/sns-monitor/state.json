@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T11:31:13.101Z",
+  "lastCheckedAt": "2026-11-28T11:41:14.568Z",
   "seenPostIds": {
-    "d7e9cd841c1bd02792d20b18f06c39d0292282c897eaaf3106aa104da8cd3718": {
-      "seenAt": "2026-11-25T22:31:17.767Z",
-      "title": "\"입 싼 송영길, 말 안 섞어\" 거친 말 쏟아낸 정청래... 왜? - OhmyNews",
-      "targetName": "정청래"
-    },
     "43d56207c4ab5f714d97c392c11844922612c7b8ba44cc98088d7b4970a73069": {
       "seenAt": "2026-11-25T22:41:23.079Z",
       "title": "김민석 vs 정청래 중재하려다…\"송영길, 입이 싸다\" - SBS 뉴스",
@@ -2505,14 +2500,24 @@
       "seenAt": "2026-11-28T11:31:14.314Z",
       "title": "김민석, 최민희 중징계에 \"드릴 말 없다\"‥친청계 반발 계속 - MBC 뉴스",
       "targetName": "김민석"
+    },
+    "6ca55f0c933fa30575f0e01da3d71fc14dfe7ce588cdb2dd8b62ed38d3ebebea": {
+      "seenAt": "2026-11-28T11:41:15.906Z",
+      "title": "'최민희 중징계'에 친청계 극한반발...정청래 \"\"징계 앞에 당대표도 예외 아냐\" - 싱글리스트",
+      "targetName": "정청래"
+    },
+    "1dc1644d4382819a1c2299b3a993fcb0d8d1f28c01c5da1d1cc85030c08721f3": {
+      "seenAt": "2026-11-28T11:41:16.619Z",
+      "title": "Donald Trump posts Godfather-inspired \"Veto Corleone\" nickname on Truth Social - AOL.com",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "30ec9f0257a87b30e372d250831ab19974b81bbcc68588b054155e2c1f440bcf",
-    "title": "김민석, 최민희 중징계에 \"드릴 말 없다\"‥친청계 반발 계속 - MBC 뉴스",
+    "postId": "1dc1644d4382819a1c2299b3a993fcb0d8d1f28c01c5da1d1cc85030c08721f3",
+    "title": "Donald Trump posts Godfather-inspired \"Veto Corleone\" nickname on Truth Social - AOL.com",
     "bot": "jongsuk_pol_bot",
-    "runId": "46140243965",
-    "sentAt": "2026-11-28T11:31:13.815Z"
+    "runId": "46141025583",
+    "sentAt": "2026-11-28T11:41:16.242Z"
   }
 }
