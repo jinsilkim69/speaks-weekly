@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T02:31:14.849Z",
+  "lastCheckedAt": "2026-11-28T02:41:16.438Z",
   "seenPostIds": {
     "6a98afc289a09e2b7cde539ba90a1634238515742d10c927411a3221c1ac1551": {
       "seenAt": "2026-11-25T10:11:19.651Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-28T02:21:15.054Z",
       "title": "[정치] 김민석 민주당 대표, 10월 초 지지율 하락세 진정 판단 - 콜뉴스24",
       "targetName": "김민석"
+    },
+    "5c9fc01aeb7e90767989cbbc09ecab0a29e18f22adea0d0f009d003d857ba27a": {
+      "seenAt": "2026-11-28T02:41:17.849Z",
+      "title": "조국, 與 내홍에 \"李대통령이 김민석·정청래 불러 해결해야\" - Howl.Link",
+      "targetName": "조국"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "812209f33af53cc02c957ea2972f074a5d0843f53cdc13388f2b5e26378940fb",
-    "title": "[정치] 김민석 민주당 대표, 10월 초 지지율 하락세 진정 판단 - 콜뉴스24",
+    "postId": "5c9fc01aeb7e90767989cbbc09ecab0a29e18f22adea0d0f009d003d857ba27a",
+    "title": "조국, 與 내홍에 \"李대통령이 김민석·정청래 불러 해결해야\" - Howl.Link",
     "bot": "jongsuk_pol_bot",
-    "runId": "46097627913",
-    "sentAt": "2026-11-28T02:21:14.383Z"
+    "runId": "46099270012",
+    "sentAt": "2026-11-28T02:41:17.268Z"
   }
 }

@@ -1123,5 +1123,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "5c9fc01aeb7e90767989cbbc09ecab0a29e18f22adea0d0f009d003d857ba27a",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국, 與 내홍에 \"李대통령이 김민석·정청래 불러 해결해야\" - Howl.Link",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTE9TY1NrWTNpZmZnR2k2anFsS3lqZTJsNlY0dml0MF9RNm8xMmNBX3ByZHR0OEtnQlhJTmpr?oc=5\" target=\"_blank\">조국, 與 내홍에 \"李대통령이 김민석·정청래 불러 해결해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Howl.Link</font>",
+    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9TY1NrWTNpZmZnR2k2anFsS3lqZTJsNlY0dml0MF9RNm8xMmNBX3ByZHR0OEtnQlhJTmpr?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 11:40:38 GMT",
+    "source": "Howl.Link",
+    "ageHours": 15,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국, 與 내홍에 \"李대통령이 김민석·정청래 불러 해결해야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
