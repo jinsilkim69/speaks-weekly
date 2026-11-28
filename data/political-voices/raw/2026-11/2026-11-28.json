@@ -848,5 +848,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "d5f541124f32602628d410000a64f99b217a420f7b27a884369b3d888eb740af",
+    "targetId": "cho_kuk",
+    "targetName": "조국",
+    "targetTitle": "조국혁신당 대표",
+    "title": "조국 \"주가 반토막에 국민 피눈물…'증시안정펀드' 즉각 추진해야\" - 싱글리스트",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE43blZPZWtSb21td3RuWkdkemREMDVCMWNVc3AzNjk1OGl2bTN0VHZ2cTYyTm9XWWo2MjlqY0pXb0dQYkVkTVJDcG1rMWgwYVhnSXg2VGtDOHp3NVpycmlpMGU1TVZVZw?oc=5\" target=\"_blank\">조국 \"주가 반토막에 국민 피눈물…'증시안정펀드' 즉각 추진해야\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">싱글리스트</font>",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43blZPZWtSb21td3RuWkdkemREMDVCMWNVc3AzNjk1OGl2bTN0VHZ2cTYyTm9XWWo2MjlqY0pXb0dQYkVkTVJDcG1rMWgwYVhnSXg2VGtDOHp3NVpycmlpMGU1TVZVZw?oc=5",
+    "pubDate": "Fri, 27 Nov 2026 08:14:29 GMT",
+    "source": "싱글리스트",
+    "ageHours": 16.8,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 조국 \"주가 반토막에 국민 피눈물…'증시안정펀드' 즉각 추진해야\"",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "조국",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
