@@ -15289,3 +15289,16 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 중징계에 김민석 대표 사퇴 요구까지...김 대표는 침묵 - M이코노미뉴스
+
+- **수집일**: 2026-11-29 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 중징계에 김민석 대표 사퇴 요구까지...김 대표는 침묵
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JZ0JJbzJnMUFPejFzMU92OUU2U25ELUJsWENoblhFOVktSTN5dWtCODNyY2dZMnoxVVNwWE5nRl9iWXlCbHl4X3RZQlBVY0JxQjdSZndOTUVGMzBvRnU1aUQxWWFZRkE?oc=5)
+
+---
+
