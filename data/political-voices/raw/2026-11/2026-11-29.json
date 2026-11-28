@@ -98,5 +98,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6a629ca59edfa2ffe05deb6e1845d0b27d772398a64502c5e66e5d60d5aedb2e",
+    "targetId": "han_donghoon",
+    "targetName": "한동훈",
+    "targetTitle": "국민의힘 대표",
+    "title": "\"재고\" vs \"자초\" 최민희 징계 후폭풍...한동훈, 내일 기자회견 - YTN",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DU0tyb2ZlaVdyRUw1dVFZLWZCdW1GcGVZMlB2MXBDQ1JnMkZpN3ZKMG00QXdTem5iTWVOeEdZRjYxYmJLLXUwZGdQUlRsclZMbDAxNlZGd0U0VFQyVHc?oc=5\" target=\"_blank\">\"재고\" vs \"자초\" 최민희 징계 후폭풍...한동훈, 내일 기자회견</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YTN</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DU0tyb2ZlaVdyRUw1dVFZLWZCdW1GcGVZMlB2MXBDQ1JnMkZpN3ZKMG00QXdTem5iTWVOeEdZRjYxYmJLLXUwZGdQUlRsclZMbDAxNlZGd0U0VFQyVHc?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 05:28:00 GMT",
+    "source": "YTN",
+    "ageHours": 10.6,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] \"재고\" vs \"자초\" 최민희 징계 후폭풍...한동훈, 내일 기자회견",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "한동훈",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
