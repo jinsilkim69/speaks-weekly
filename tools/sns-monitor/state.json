@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T15:31:14.964Z",
+  "lastCheckedAt": "2026-11-28T15:41:14.537Z",
   "seenPostIds": {
     "d5dfc824c87f095ff57eef1346cd2d6941eada8c950384256f50a84e70ba17d3": {
       "seenAt": "2026-11-26T01:11:16.318Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-28T15:21:16.427Z",
       "title": "최민희 ‘당원권 정지 2년’ 최고위원직 박탈…정청래 강력 반발 - 미주중앙일보",
       "targetName": "정청래"
+    },
+    "07a52f1e94eff241f0e2eba6976cf9ea166cc17b0f93bb39b63ef975c432d3bc": {
+      "seenAt": "2026-11-28T15:41:15.827Z",
+      "title": "Trump officials to speed president’s projects with special meeting before new Congress - The Washington Post",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "fb4a4b1cc4fe5c93b451e4a7bb23452228377c95ef1d98901fd0858d9972650e",
-    "title": "최민희 ‘당원권 정지 2년’ 최고위원직 박탈…정청래 강력 반발 - 미주중앙일보",
+    "postId": "07a52f1e94eff241f0e2eba6976cf9ea166cc17b0f93bb39b63ef975c432d3bc",
+    "title": "Trump officials to speed president’s projects with special meeting before new Congress - The Washington Post",
     "bot": "jongsuk_pol_bot",
-    "runId": "46159398058",
-    "sentAt": "2026-11-28T15:21:15.693Z"
+    "runId": "46161146113",
+    "sentAt": "2026-11-28T15:41:15.231Z"
   }
 }
