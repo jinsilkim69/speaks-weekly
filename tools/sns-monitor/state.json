@@ -1,11 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T12:41:14.080Z",
+  "lastCheckedAt": "2026-11-28T12:51:16.737Z",
   "seenPostIds": {
-    "011bc59063847d8925bd89383c075a502673cab820c9c6fe6b4979428f684b40": {
-      "seenAt": "2026-11-25T23:01:18.504Z",
-      "title": "Trump scorched for latest rant on GOP’s midterm drubbing: ‘Pathetic’ - SILive.com",
-      "targetName": "도널드 트럼프 (Donald Trump)"
-    },
     "4d52a0dfb977ae30dbdb61bf8bcc8ba411b06ee6cee157af4f1bc812712da127": {
       "seenAt": "2026-11-25T23:11:17.244Z",
       "title": "Trump Aide Natalie Harp Named in New Discovery Order Over President's Truth Social Deal, Per Court Docs - Yahoo Lifestyle Canada",
@@ -2505,14 +2500,19 @@
       "seenAt": "2026-11-28T12:41:15.581Z",
       "title": "한동훈 “경찰, 대통령한테 잘못된 교육 받았나”…‘민주당 지팡이 자처’ 정면 비판 - 문화일보",
       "targetName": "한동훈"
+    },
+    "6f089e5ef534810725924b0a29fb0936eec3f8ea7fea13595801cec345071a99": {
+      "seenAt": "2026-11-28T12:51:18.231Z",
+      "title": "김민석, ‘최민희 중징계’에 “특별히 할 말 없다”…친청계는 잇단 반발 - 서울경제",
+      "targetName": "김민석"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "5712a8bfe64ad6157402699639b32d9728288b59a314dd21b430d0438133d7c7",
-    "title": "한동훈 “경찰, 대통령한테 잘못된 교육 받았나”…‘민주당 지팡이 자처’ 정면 비판 - 문화일보",
+    "postId": "6f089e5ef534810725924b0a29fb0936eec3f8ea7fea13595801cec345071a99",
+    "title": "김민석, ‘최민희 중징계’에 “특별히 할 말 없다”…친청계는 잇단 반발 - 서울경제",
     "bot": "jongsuk_pol_bot",
-    "runId": "46145878669",
-    "sentAt": "2026-11-28T12:41:14.834Z"
+    "runId": "46146682775",
+    "sentAt": "2026-11-28T12:51:17.635Z"
   }
 }

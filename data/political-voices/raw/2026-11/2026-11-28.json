@@ -2598,5 +2598,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "6f089e5ef534810725924b0a29fb0936eec3f8ea7fea13595801cec345071a99",
+    "targetId": "kim_minseok",
+    "targetName": "김민석",
+    "targetTitle": "더불어민주당 최고위원",
+    "title": "김민석, ‘최민희 중징계’에 “특별히 할 말 없다”…친청계는 잇단 반발 - 서울경제",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DTHlaRWltUFVtU3hjQnByWmNVMEZZZWI4OFlGSUhwTFkzaXFzbjlrWHlsRFBCd2JNUW9CSVlFMnE5S0twM1pCaGt4RzJHUVhva1HSAVNBVV95cUxOZHdrSkF5S3h5RTR0elV6QjcteWhRR2QyRkwxNVI4SUFCMl9rN2JqTC1zUWJpTlg2UzdMX1o3WkNxSW5HR1lHdmVQZGtfR21TLTkwWQ?oc=5\" target=\"_blank\">김민석, ‘최민희 중징계’에 “특별히 할 말 없다”…친청계는 잇단 반발</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">서울경제</font>",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DTHlaRWltUFVtU3hjQnByWmNVMEZZZWI4OFlGSUhwTFkzaXFzbjlrWHlsRFBCd2JNUW9CSVlFMnE5S0twM1pCaGt4RzJHUVhva1HSAVNBVV95cUxOZHdrSkF5S3h5RTR0elV6QjcteWhRR2QyRkwxNVI4SUFCMl9rN2JqTC1zUWJpTlg2UzdMX1o3WkNxSW5HR1lHdmVQZGtfR21TLTkwWQ?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 09:35:56 GMT",
+    "source": "서울경제",
+    "ageHours": 3.3,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] 김민석, ‘최민희 중징계’에 “특별히 할 말 없다”…친청계는 잇단 반발",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "김민석",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
