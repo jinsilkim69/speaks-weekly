@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T07:11:14.365Z",
+  "lastCheckedAt": "2026-11-28T07:21:13.075Z",
   "seenPostIds": {
     "2521983b5d2bc1d5c243fd925e964dab6317050f8cc8be4d0b4e48345538f1bd": {
       "seenAt": "2026-11-25T13:51:21.248Z",
@@ -2500,14 +2500,29 @@
       "seenAt": "2026-11-28T06:51:15.848Z",
       "title": "최민희 ‘당원권 정지 2년’ 후폭풍…친청계 “김민석도 징계하라” - 시사저널",
       "targetName": "김민석"
+    },
+    "15921be67432a5c8da9dddd9f0e4079f454b423ba38a1d3799417888c5e84a61": {
+      "seenAt": "2026-11-28T07:21:14.328Z",
+      "title": "[포토]GS AI 데이터 센터 착공식에서 축사하는 이재명 대통령 - 전자신문",
+      "targetName": "이재명"
+    },
+    "f95b95ebc00ec37c3302bbaef841cf48185322bd41c8e246bb19bf4f97209936": {
+      "seenAt": "2026-11-28T07:21:14.978Z",
+      "title": "국민의힘, 개각 인선에 \"이재명 개성만 넘쳐나는 무자격 내각\" - MBC 뉴스",
+      "targetName": "이재명"
+    },
+    "5289e95205b30acbf2bab8f31f1f4ba44e3bc52cd0fab2bf20fddfa81966caab": {
+      "seenAt": "2026-11-28T07:21:15.665Z",
+      "title": "최민희 징계에 내홍 고조...한동훈, 내일 기자회견 - YTN",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "e5f3276bb72fa4a37d64d9a4acf008ca81b3bb020854c5ddb52ea3271ec933f8",
-    "title": "최민희 ‘당원권 정지 2년’ 후폭풍…친청계 “김민석도 징계하라” - 시사저널",
+    "postId": "5289e95205b30acbf2bab8f31f1f4ba44e3bc52cd0fab2bf20fddfa81966caab",
+    "title": "최민희 징계에 내홍 고조...한동훈, 내일 기자회견 - YTN",
     "bot": "jongsuk_pol_bot",
-    "runId": "46118501594",
-    "sentAt": "2026-11-28T06:51:15.534Z"
+    "runId": "46120794106",
+    "sentAt": "2026-11-28T07:21:15.319Z"
   }
 }

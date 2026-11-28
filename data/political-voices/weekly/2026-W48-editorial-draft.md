@@ -14418,3 +14418,42 @@
 
 ---
 
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** [포토]GS AI 데이터 센터 착공식에서 축사하는 이재명 대통령 - 전자신문
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] GS AI 데이터 센터 착공식에서 축사하는 이재명 대통령
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxMU5KNWVma3Z3dDVBaTVDZmVRNFo2R0FqNVJkZVA0UDFfMHgyUXdxU1p2STVVMVFBMUpGOXhqcGZhYUNISXJXanpFUzlNZWZNbUM4?oc=5)
+
+---
+
+## [검색 후보] 이재명 (직함 확인 필요)
+**기사 제목:** 국민의힘, 개각 인선에 "이재명 개성만 넘쳐나는 무자격 내각" - MBC 뉴스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 국민의힘, 개각 인선에 "이재명 개성만 넘쳐나는 무자격 내각"
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMieEFVX3lxTE5vR05HdjhHRzYzRmlTaEhVTjJYemY1WFBWenRGZEtsb0ZlMnRZQlF0NVBoSDF3VTFWamdZN3hOTFZVS1dWb05ydmh2VVFBMFhnR3VVVE5YNy1kOGswd1o0aGEtd2MwS3FTcWJHZHZqM1Zlc3JBOVlIYtIBeEFVX3lxTFBuZGlxRXJwNDN5alB3eE9pRk5iNms1cDJmY1BFOTkyZTBRcm1DNEI0bU5BNDV5MXJ4ZWRIclQtTVNnR0QtbGZreTFfNkNyRmt0cXRWeXo3VjBKZ0pBaW1aRDRrRmUwRUhwNHNMTGNMSWFmZjVjekRnNw?oc=5)
+
+---
+
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 최민희 징계에 내홍 고조...한동훈, 내일 기자회견 - YTN
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 징계에 내홍 고조...한동훈, 내일 기자회견
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiXkFVX3lxTE11NXg0aUNaXy1OckpacThvYk5vRWpETjVONEhldlZlanlyUHRtMVgtbVhDS0Z4LUx1dklaQUR2c3NUSEVSMXNzQUo1QnZ2NXcxaDJkRVdDUFFrQTMwWHc?oc=5)
+
+---
+
