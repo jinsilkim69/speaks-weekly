@@ -1,21 +1,6 @@
 {
-  "lastCheckedAt": "2026-11-28T10:01:15.012Z",
+  "lastCheckedAt": "2026-11-28T10:11:19.065Z",
   "seenPostIds": {
-    "e675d4e45201c8cdd805d3c40bad754e421a1185af48076dd44099b6d8a1f158": {
-      "seenAt": "2026-11-25T17:51:20.090Z",
-      "title": "정청래, 대통령에겐 '베리 굿' 송영길,김민석에겐 맹공!' (261125 수요일 방송) 김용남 박진영 장성철 허재무 - 경향신문",
-      "targetName": "김민석"
-    },
-    "603fd96d00dd6a7758aca4075035aaf9154742e6839ef21640823d3f6e4a9443": {
-      "seenAt": "2026-11-25T18:41:16.397Z",
-      "title": "경쟁자였던 송영길이 본 김민석 100일 #shorts - 오마이TV - OhmyNews",
-      "targetName": "김민석"
-    },
-    "b083f78888ee9ccefbb8af2ffc93bb648bb5992e2c447d3d1e7a9670e74d3b7d": {
-      "seenAt": "2026-11-25T19:11:16.467Z",
-      "title": "김형연 국회의원(조국혁신당), 「GA 성장의 그늘, 무엇을 고칠 것인가」토론회 개최 “GA 권한 확대에 앞서, 소비자 보호할 안전장치부터 갖춰야” - 의정일보",
-      "targetName": "조국"
-    },
     "957355547692325d5a3c66425f4d094198f57c65263503e0355a707175f5337c": {
       "seenAt": "2026-11-25T19:51:15.013Z",
       "title": "Christie: Trump picking Miller for top role ‘shows his level of fear and insecurity’ - The Hill",
@@ -2515,14 +2500,24 @@
       "seenAt": "2026-11-28T10:01:17.857Z",
       "title": "“많이 구매해달라” 이재명 대통령, 강릉 주문진수산시장 찾아 민생 소통 - 강원일보",
       "targetName": "이재명"
+    },
+    "236b3cfb97d420bf3ef61288a02d6924f4ed7b529bec56bdf4427b5b835cf455": {
+      "seenAt": "2026-11-28T10:11:20.329Z",
+      "title": "[속보] 김민석, 최민희 중징계에 \"드릴 말씀 없다\"…친청계 반발 - KBC광주방송",
+      "targetName": "김민석"
+    },
+    "2d2cc34e37dff7ff678954598242790b57b3fee7bb5f046a8d5f7c006b3e5d04": {
+      "seenAt": "2026-11-28T10:11:20.968Z",
+      "title": "이재호 연수구청장, 박찬대·송영길과 연일 대립각… ‘체급 키우기’ 나섰나 [인천 정가 레이더] - 경인일보",
+      "targetName": "송영길"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "70e0fbca46976acb45b42edb2744aac5c78eea56204be7f3d86e4d64369c8a3a",
-    "title": "“많이 구매해달라” 이재명 대통령, 강릉 주문진수산시장 찾아 민생 소통 - 강원일보",
+    "postId": "2d2cc34e37dff7ff678954598242790b57b3fee7bb5f046a8d5f7c006b3e5d04",
+    "title": "이재호 연수구청장, 박찬대·송영길과 연일 대립각… ‘체급 키우기’ 나섰나 [인천 정가 레이더] - 경인일보",
     "bot": "jongsuk_pol_bot",
-    "runId": "46133137124",
-    "sentAt": "2026-11-28T10:01:17.500Z"
+    "runId": "46133942039",
+    "sentAt": "2026-11-28T10:11:20.641Z"
   }
 }

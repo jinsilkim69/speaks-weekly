@@ -14691,3 +14691,29 @@
 
 ---
 
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** [속보] 김민석, 최민희 중징계에 "드릴 말씀 없다"…친청계 반발 - KBC광주방송
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 김민석, 최민희 중징계에 "드릴 말씀 없다"…친청계 반발
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UOWRqdDhNYjBfRUFQWnNtd0c0WlhNLTBrNGFVTnRIN1VnbmZmLThRSmdiQ2liTTZQQTFLN0xaQ2hPdTJPV21XdU5PTm1EU2tzd3VQcFlNWGFOZERoTXBkMW53?oc=5)
+
+---
+
+## [검색 후보] 송영길 (직함 확인 필요)
+**기사 제목:** 이재호 연수구청장, 박찬대·송영길과 연일 대립각… ‘체급 키우기’ 나섰나 [인천 정가 레이더] - 경인일보
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 이재호 연수구청장, 박찬대·송영길과 연일 대립각… ‘체급 키우기’ 나섰나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DYTJudTFUcHRWQWN1RGl1djRueVhKdFFQSzd0dVpzNWkyR0wxNXBSTnNidnlHSkMybU9EMGpUcWNBR2h2SnRnTGxxTHZuRjNBWFE?oc=5)
+
+---
+
