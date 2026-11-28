@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T17:31:17.784Z",
+  "lastCheckedAt": "2026-11-28T17:41:16.669Z",
   "seenPostIds": {
     "aefb2411f1f02615a77a26c1eb3f549576d127a863d8685e87f54a242e75001e": {
       "seenAt": "2026-11-26T01:51:15.040Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-28T17:21:18.158Z",
       "title": "Trump blasts liberals, immigrants in combative Thanksgiving message | Daily Sabah - Daily Sabah",
       "targetName": "도널드 트럼프 (Donald Trump)"
+    },
+    "40a181ac38b54b257d7309cd11ff6c37e38a3079fe9cccb03a4f557d7f78e0bd": {
+      "seenAt": "2026-11-28T17:41:17.694Z",
+      "title": "'Act of God': Trump calls East Potomac Park storm damage divine intervention amid dispute - KATU",
+      "targetName": "도널드 트럼프 (Donald Trump)"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "275632ec1d326aebdd10623a2aa00419042e66b3349a62bc6760e17991e22a22",
-    "title": "Trump blasts liberals, immigrants in combative Thanksgiving message | Daily Sabah - Daily Sabah",
+    "postId": "40a181ac38b54b257d7309cd11ff6c37e38a3079fe9cccb03a4f557d7f78e0bd",
+    "title": "'Act of God': Trump calls East Potomac Park storm damage divine intervention amid dispute - KATU",
     "bot": "jongsuk_pol_bot",
-    "runId": "46169997051",
-    "sentAt": "2026-11-28T17:21:17.778Z"
+    "runId": "46171781154",
+    "sentAt": "2026-11-28T17:41:17.209Z"
   }
 }
