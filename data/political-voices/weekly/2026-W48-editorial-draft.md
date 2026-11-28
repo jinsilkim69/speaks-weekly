@@ -14392,3 +14392,29 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색 - 머니투데이 - 머니투데이
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 경찰, '한동훈 자료유출 의혹' 법무부·공소청 등 압수수색
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMia0FVX3lxTFB0RmJfd2lwSHY2dFZ5YV9DZTlDbXFjT002c3M5c3B4S0VYTzFXTEtxS0RKT2E1eHRkN3ZnOFVfcmJoYm9sUjkzSTNEbEhKZnFtbzd4U2lqNEdjelhFV3ZMaXc0OG9wekVNODhn0gFwQVVfeXFMUHhVRjU5ZFVoRkdubjJHRnJYenlQSEh0b2czeFJIWVlBZEJnWlhCUEx1RjcwcVg3aGJ4ZW1FYnlaeVFhMENJOTR2VUdkdWNqNlNzSUdDRmR0ODdGa2pJSC1aLXBRNGdnN08wRXFHSW9SdQ?oc=5)
+
+---
+
+## [검색 후보] 김민석 (직함 확인 필요)
+**기사 제목:** 최민희 ‘당원권 정지 2년’ 후폭풍…친청계 “김민석도 징계하라” - 시사저널
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 최민희 ‘당원권 정지 2년’ 후폭풍…친청계 “김민석도 징계하라”
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMib0FVX3lxTE1FRDh4Z3VHU05tMFhQdzVQNDFuQ1BTSnlIV29oQnZqYml0UjBqUGwxNXhIUWhRXzRrcmJfWnhWUWlpeVZ4Q3pfRV82X1Z3LUNXQlprWjViMjNpMUNGVEtobTB1b055M1NpN2RqdVMya9IBc0FVX3lxTE92VHpDV3pUU1dYQ2o0NU1ic2pWNnRDWk9fa1RSMnFBQklfc0dPMXFLdjMybDc2U0VXNEdVdzhMdmotdGQzSHM3VFd4c0hEV0RUUjZZeVAtRlhBUDktRHV2bi1jNi1DWk1QdVZfOWVBRTRKR0U?oc=5)
+
+---
+
