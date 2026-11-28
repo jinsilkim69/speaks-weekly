@@ -2698,5 +2698,30 @@
       ],
       "impact": "추가 출처 및 맥락 확인 필요"
     }
+  },
+  {
+    "id": "a709a7aec320e47addb3f4db31e5b38a26e877f4bf9579ba3efd6d6ec203e686",
+    "targetId": "donald_trump",
+    "targetName": "도널드 트럼프 (Donald Trump)",
+    "targetTitle": "미국 대통령",
+    "title": "Trump takeover attempt outrageous - Toledo Blade",
+    "desc": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ29taEU0QndsV1BDdzBVMHlYMTd1N3YwYUMySTc5LXpCRWUwOW13bVlabVVvRjhmemg2UnRxTXVqdmFGaV9MMUpvTFptMVBwTjI2MXA2cC1RRTJNdFdZa2JYYUFONTJkVXNZQVZPU3lGUE9MeWpjUm9XMFp1QVoxX3F0M0dsRXRiZWktQml4NnhQQjQydHdya0ExY1JjVTdQZzhSa09TM1VkQmVKZWFnTw?oc=5\" target=\"_blank\">Trump takeover attempt outrageous</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Toledo Blade</font>",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ29taEU0QndsV1BDdzBVMHlYMTd1N3YwYUMySTc5LXpCRWUwOW13bVlabVVvRjhmemg2UnRxTXVqdmFGaV9MMUpvTFptMVBwTjI2MXA2cC1RRTJNdFdZa2JYYUFONTJkVXNZQVZPU3lGUE9MeWpjUm9XMFp1QVoxX3F0M0dsRXRiZWktQml4NnhQQjQydHdya0ExY1JjVTdQZzhSa09TM1VkQmVKZWFnTw?oc=5",
+    "pubDate": "Sat, 28 Nov 2026 12:35:14 GMT",
+    "source": "Toledo Blade",
+    "ageHours": 1.4,
+    "analysis": {
+      "summaryPoints": [
+        "📰 [검색 후보] Trump takeover attempt outrageous",
+        "🔎 발언 원문·작성일과 당시 직함 확인 필요",
+        "⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음"
+      ],
+      "keywords": [
+        "도널드 트럼프 (Donald Trump)",
+        "정치속보",
+        "SNS발언"
+      ],
+      "impact": "추가 출처 및 맥락 확인 필요"
+    }
   }
 ]
