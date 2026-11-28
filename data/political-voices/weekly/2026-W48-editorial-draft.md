@@ -13950,3 +13950,16 @@
 
 ---
 
+## [검색 후보] 한동훈 (직함 확인 필요)
+**기사 제목:** 한동훈 자료 유출 압수수색‥문건 출처 밝히나 - MBC 뉴스
+
+- **수집일**: 2026-11-28 (발언일 별도 확인)
+- **쟁점 맥락**: *“추가 출처 및 맥락 확인 필요”*
+- **심층 해설**:
+  1. 📰 [검색 후보] 한동훈 자료 유출 압수수색‥문건 출처 밝히나
+  1. 🔎 발언 원문·작성일과 당시 직함 확인 필요
+  1. ⚠️ 뉴스 제목만으로 실제 SNS 발언을 확정하지 않음
+- **팩트체크 출처**: [원문 기사/기록](https://news.google.com/rss/articles/CBMiekFVX3lxTE1IU2NlUVIxdkdTNERMdWJ6dHB1NW4zc0tnc1NqOE5xMWpiUXdpbVJpME8tLVRGS0dzQXBNakxMREp4cFNhLVpLcG9fZ0J0aW5odlFSYlhuUFVFTnI5c1JITnhTdTFqMWNoWDlzZnZKMnN2Y3FuTENYbmpn0gF6QVVfeXFMTUhTY2VRUjF2R1M0REx1Ynp0cHU1bjNzS2dzU2o4TnExamJRd2ltUmkwTy0tVEZLR3NBcE1qTExESnhwU2EtWktwb19nQnRpbmh2UVJiWG5QVUVOcjlzUkhOeFN1MWoxY2hYOXNmdkoyc3ZjcW5MQ1huamc?oc=5)
+
+---
+

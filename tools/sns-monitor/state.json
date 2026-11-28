@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T00:21:14.656Z",
+  "lastCheckedAt": "2026-11-28T00:31:14.004Z",
   "seenPostIds": {
     "663a820c789265a706111d1710d76bc0f9d696e856b9d182245dc16c3e903426": {
       "seenAt": "2026-11-25T08:51:19.992Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-28T00:11:26.253Z",
       "title": "최민희 `당원권 정지 2년`에 정청래 `김민석은?`…민주당 내홍 격화 - 매일신문",
       "targetName": "정청래"
+    },
+    "c531d227de0c6fd051ddc79629ed4c6b650d451b3d1e57ea84acd1a6f6a29483": {
+      "seenAt": "2026-11-28T00:31:15.383Z",
+      "title": "한동훈 자료 유출 압수수색‥문건 출처 밝히나 - MBC 뉴스",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "2375663c9ee5d20f0a54ec9a6daea173ac7fc417d1fe3b9777907bb05812677a",
-    "title": "최민희 `당원권 정지 2년`에 정청래 `김민석은?`…민주당 내홍 격화 - 매일신문",
+    "postId": "c531d227de0c6fd051ddc79629ed4c6b650d451b3d1e57ea84acd1a6f6a29483",
+    "title": "한동훈 자료 유출 압수수색‥문건 출처 밝히나 - MBC 뉴스",
     "bot": "jongsuk_pol_bot",
-    "runId": "46086509426",
-    "sentAt": "2026-11-28T00:11:25.743Z"
+    "runId": "46088297322",
+    "sentAt": "2026-11-28T00:31:14.746Z"
   }
 }
