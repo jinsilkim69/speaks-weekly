@@ -1,5 +1,5 @@
 {
-  "lastCheckedAt": "2026-11-28T13:21:13.854Z",
+  "lastCheckedAt": "2026-11-28T13:31:17.953Z",
   "seenPostIds": {
     "53dcbd46486473ebdb2b1cd0e1a38a361cacfc76f0b3f147bf93d5cb48bb50fc": {
       "seenAt": "2026-11-25T23:31:16.036Z",
@@ -2500,14 +2500,19 @@
       "seenAt": "2026-11-28T13:01:15.120Z",
       "title": "국힘 ‘조작 징계’ 내홍에…박수영 \"주적은 장동혁·한동훈 아닌 이재명\" - JTBC",
       "targetName": "한동훈"
+    },
+    "1ee55d122aa7f9a3b96eaf149e124e8325ebfd35eaa0301909925b6c2e19e970": {
+      "seenAt": "2026-11-28T13:31:19.641Z",
+      "title": "한동훈 내일 기자회견 예고…‘조작 징계 의혹’ 반격하나? - 채널A",
+      "targetName": "한동훈"
     }
   },
   "pending": [],
   "lastAdminNewsDelivery": {
-    "postId": "fc60bec8edffc71ba51254126cef0da6aaa45f49ed3a24ce3a2e4548affac310",
-    "title": "국힘 ‘조작 징계’ 내홍에…박수영 \"주적은 장동혁·한동훈 아닌 이재명\" - JTBC",
+    "postId": "1ee55d122aa7f9a3b96eaf149e124e8325ebfd35eaa0301909925b6c2e19e970",
+    "title": "한동훈 내일 기자회견 예고…‘조작 징계 의혹’ 반격하나? - 채널A",
     "bot": "jongsuk_pol_bot",
-    "runId": "46147480910",
-    "sentAt": "2026-11-28T13:01:14.566Z"
+    "runId": "46149991908",
+    "sentAt": "2026-11-28T13:31:18.960Z"
   }
 }
